@@ -1,5 +1,6 @@
 cacheUrl: https://mananchong.github.io/osmosfeed/cache.json
 sources:
+  - href: https://rweekly.org/atom.xml
   - href: https://css-tricks.com/feed/
   - href: https://www.smashingmagazine.com/feed/
   - href: https://www.freecodecamp.org/news/rss/
