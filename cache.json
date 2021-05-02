@@ -1,6 +1,47 @@
 {
   "sources": [
     {
+      "href": "https://rweekly.org/atom.xml",
+      "articles": [
+        {
+          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Batool Almarzouq, with help from the R Weekly team members and contributors.\nHighlight\nWhat does Wikidata know about members of the European Parliament?\nNew in knitr: Improved accessibility with image alt text\nMarch 2021: “Top 40” New CRAN Packages\nInsights\nMarch 2021: “Top 40” New CRAN Packages\n\nNew in knitr: Improved accessibility with image alt text\n\nWhat is the Tukey loss function?\nShort-…",
+          "link": "https://rweekly.org/2021-W17.html",
+          "publishedOn": "2021-04-26T00:00:00.000Z",
+          "wordCount": 717,
+          "sourceHref": "https://rweekly.org/atom.xml",
+          "sourceTitle": "RWeekly.org - Blogs to Learn R from the Community",
+          "title": "R Weekly 2021-W17 Wikidata, knitr, Top 40 New CRAN packages"
+        },
+        {
+          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Jon Calder, with help from the R Weekly team members and contributors.\nHighlight\nrOpenSci News Digest, April 2021\n{ggirl} 1.0.1: An R package that lets you make ggplots in real life\nProcess Mining in 10 minutes with R\nInsights\nrOpenSci News Digest, April 2021\nLatest news from the R Markdown family\nImpressions from New Zealand’s R Exchange\nResources\nAnnouncing ‘Introductions to Emacs Speaks St…",
+          "link": "https://rweekly.org/2021-W16.html",
+          "publishedOn": "2021-04-19T00:00:00.000Z",
+          "wordCount": 600,
+          "sourceHref": "https://rweekly.org/atom.xml",
+          "sourceTitle": "RWeekly.org - Blogs to Learn R from the Community",
+          "title": "R Weekly 2021-W16 rOpenSci News, Process Mining, ggirl"
+        },
+        {
+          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Colin Fay, with help from the R Weekly team members and contributors.\nHighlight\nreprex 2.0.0\nUsing Kubernetes and the Future Package to Easily Parallelize R in the Cloud\nsql-in-rmarkdown\nInsights\nMeetup: Making the Shift from Excel to R: Perspectives from the back-office\n15 Essential packages in R for Data Science\nCOVID-19 Data Forum: Data Journalism\nWhy data analysts should learn to code\nR i…",
+          "link": "https://rweekly.org/2021-W15.html",
+          "publishedOn": "2021-04-12T00:00:00.000Z",
+          "wordCount": 522,
+          "sourceHref": "https://rweekly.org/atom.xml",
+          "sourceTitle": "RWeekly.org - Blogs to Learn R from the Community",
+          "title": "R Weekly 2021-W15 reprex , Kubernetes, SQL in Rmarkdown"
+        },
+        {
+          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Robert Hickman, with help from the R Weekly team members and contributors.\nHighlight\nExploring Other ggplot2 Geoms\nworkflowsets 0.0.1\nThe top 10 R errors, the 7th one will surprise you\nSnippets\nplusquamperfect squares\nPackage Development Update\ncomposition versus inversion\nInsights\nThe top 10 R errors, the 7th one will surprise you\nThe case of three MAR mechanisms: when is multiple imputation…",
+          "link": "https://rweekly.org/2021-W14.html",
+          "publishedOn": "2021-04-05T00:00:00.000Z",
+          "wordCount": 630,
+          "sourceHref": "https://rweekly.org/atom.xml",
+          "sourceTitle": "RWeekly.org - Blogs to Learn R from the Community",
+          "title": "R Weekly 2021-W14"
+        }
+      ]
+    },
+    {
       "href": "https://css-tricks.com/feed/",
       "articles": [
         {
