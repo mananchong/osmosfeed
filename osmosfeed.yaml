@@ -1,4 +1,4 @@
 cacheUrl: https://mananchong.github.io/osmosfeed/cache.json
 sources:
   - href: https://rweekly.org/atom.xml
-  - href: https://news.ycombinator.com/best
+  - href: https://feedx.net/rss/shanghaishuping.xml
