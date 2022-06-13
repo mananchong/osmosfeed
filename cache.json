@@ -6,6 +6,16 @@
       "siteUrl": "https://rweekly.org/atom.xml",
       "articles": [
         {
+          "id": "https://rweekly.org/2022-W24.html",
+          "author": null,
+          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Batool Almarzouq, with help from the wonderful R Weekly team members and contributors.\nHighlight\nChanges (for the better) in {gt} 0.6.0\nCreating flowcharts with {ggplot2}\nInsights\nArrays and tables in Arrow\nApril: “Top 40” New CRAN Packages\nChanges (for the better) in {gt} 0.6.0\n\nSurvivor Advantages: Dataset showcase for {survivoR}\n\nSimulation Based Estimation — How You Estimate as if You were Playing Monopoly\nAnnouncing vetiver for MLOps in R and Python\n\nThe Critical Shift to Data in the Finance Industry\nGrow Your Data Science Skills With Academy\nR in the Real World\nGet data into Wikibase and Wikidata with R: An import workflow derived from a real world project\nR in Academi…",
+          "link": "https://rweekly.org/2022-W24.html",
+          "publishedOn": "2022-06-13T00:00:00.000Z",
+          "wordCount": 635,
+          "title": "R Weekly 2022-W24",
+          "imageUrl": "https://rweekly.org/public/facebook.png"
+        },
+        {
           "id": "https://rweekly.org/2022-W23.html",
           "author": null,
           "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Sam Parmar, with help from the R Weekly team members and contributors.\nHighlight\n{tickle}: a package for creating UIs in base R\nR will always be arcane to those who do not make a serious effort to learn it…\nListen to R-Weekly Highlights Episode 81\nInsights\nLocating R and R Adjacent Software and Configuration Files\n\nprogressr 0.10.1: Plyr Now Supports Progress Updates also in Parallel\nR will always be arcane to those who do not make a serious effort to learn it…\nR in Organizations\nAnnouncing RStudio for Microsoft Azure ML\n\nR in Academia\nBakersfield Data Analytics and R Users Group: Collaboration and the Need to Reach Out to Students\nMy students cheated… A lot\n\nResources\nTry R…",
@@ -129,6 +139,26 @@
       "feedUrl": "https://feedx.net/rss/thepaper.xml",
       "siteUrl": "http://thepaper.cn",
       "articles": [
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_18542708",
+          "author": null,
+          "description": "@北京青年报\n \n                \n6月11日，河南郑州，银基动物王国直播结束瞬间，饲养员用膝盖暴击猩猩脸部，猩猩哀嚎着逃离。12日，北青报致电银基国际旅游度假区，客服称将尽快上报相关负责人，说明调查情况及处理结果。\n(本文来自澎湃新闻，更多原创资讯请下载“澎湃新闻”APP)",
+          "link": "https://www.thepaper.cn/newsDetail_forward_18542708",
+          "publishedOn": "2022-06-13T11:53:04.000Z",
+          "wordCount": 299,
+          "title": "郑州一景区饲养员直播结束瞬间暴击猩猩脸部，猩猩哀嚎逃离",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_18546185",
+          "author": null,
+          "description": "“上海植物园”微信公号\n \n                \n尊敬的游客朋友们：\n根据疫情防控筛查要求，上海植物园自2022年6月13日（周一）9:15起采取临时性闭园措施，具体开放时间另行通知。\n对您造成的不便，敬请谅解。\n上海植物园\n2022年6月13日\n（原题为《上海植物园临时闭园公告》）\n(本文来自澎湃新闻，更多原创资讯请下载“澎湃新闻”APP)",
+          "link": "https://www.thepaper.cn/newsDetail_forward_18546185",
+          "publishedOn": "2022-06-13T11:23:45.000Z",
+          "wordCount": 299,
+          "title": "上海植物园：根据疫情防控筛查要求，今起采取临时性闭园措施",
+          "imageUrl": null
+        },
         {
           "id": "https://www.thepaper.cn/newsDetail_forward_18540526",
           "author": null,
@@ -536,6 +566,116 @@
       "feedUrl": "https://www.nationalreview.com/feed/",
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1235522",
+          "author": "Caroline Downey",
+          "description": "The attack was the fourth known incident of arson at a pro-life organization’s headquarters in recent weeks.",
+          "link": "https://www.nationalreview.com/news/pro-abortion-terrorists-firebomb-oregon-pregnancy-center/",
+          "publishedOn": "2022-06-13T16:44:45.000Z",
+          "wordCount": 39,
+          "title": "Pro-Abortion Terrorists Firebomb Oregon Pregnancy Center",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/06/pregancy-center-bombed.jpg?fit=2057%2C1157"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1235553",
+          "author": "Zachary Evans",
+          "description": "‘There was never an indication of interest in what the actual facts were,’ Barr said in reference to Trump’s fraud claims.",
+          "link": "https://www.nationalreview.com/news/trump-detached-from-reality-after-2020-election-former-ag-barr-testifies/",
+          "publishedOn": "2022-06-13T16:28:26.000Z",
+          "wordCount": 42,
+          "title": "Trump ‘Detached from Reality’ after 2020 Election, Former AG Barr Testifies",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2020/08/barr.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1235466",
+          "author": "The Editors",
+          "description": "There is more to this than Putin’s price hike.",
+          "link": "https://www.nationalreview.com/2022/06/inflation-is-here-to-stay/",
+          "publishedOn": "2022-06-13T15:39:47.000Z",
+          "wordCount": 38,
+          "title": "Inflation Is Here to Stay",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/06/grocery-store.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1235419",
+          "author": "Arjun Singh",
+          "description": "Inflation and fears of rapid interest rate hikes likely drove the decline.",
+          "link": "https://www.nationalreview.com/news/stock-market-plunges-600-points-entering-bear-territory/",
+          "publishedOn": "2022-06-13T14:37:53.000Z",
+          "wordCount": 38,
+          "title": "Stock Market Plunges 600 Points, Entering Bear Territory",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/06/stock-market.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1235324",
+          "author": "Caroline Downey",
+          "description": "Stepien cited a family emergency to explain his absence.",
+          "link": "https://www.nationalreview.com/news/former-trump-campaign-manager-withdraws-from-january-6-hearing-at-last-minute/",
+          "publishedOn": "2022-06-13T14:02:34.000Z",
+          "wordCount": 47,
+          "title": "Former Trump Campaign Manager Withdraws from January 6 Hearing at Last Minute",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/06/GettyImages-1229441994-Bill-Stepien.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1235281",
+          "author": "Andrew C. McCarthy",
+          "description": "The 25th Amendment is not a substitute for the Constitution’s impeachment process, no matter the latest reporting on the January 6 committee.",
+          "link": "https://www.nationalreview.com/2022/06/the-return-of-the-25th-amendment-debate/",
+          "publishedOn": "2022-06-13T13:01:24.000Z",
+          "wordCount": 43,
+          "title": "The Return of the 25th Amendment Debate",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/06/january-6-committee-060922-16.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1235153",
+          "author": "Caroline Downey",
+          "description": "Avenatti is already set to serve four years in prison for stealing nearly $300,000 in book advance money from Stormy Daniels.",
+          "link": "https://www.nationalreview.com/news/michael-avenatti-offers-to-plead-guilty-to-remaining-criminal-charges/",
+          "publishedOn": "2022-06-13T12:14:43.000Z",
+          "wordCount": 43,
+          "title": "Michael Avenatti Offers to Plead Guilty to Remaining Criminal Charges",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/06/Michael-Avenatti.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1234912",
+          "author": "Kathryn Jean Lopez",
+          "description": "Is it any wonder that the violence of abortion leads to rage?",
+          "link": "https://www.nationalreview.com/2022/06/violence-begets-violence/",
+          "publishedOn": "2022-06-13T10:30:55.000Z",
+          "wordCount": 39,
+          "title": "Violence Begets Violence",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/06/abortion-protest.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1234793",
+          "author": "Robert Stein",
+          "description": "What Republicans should do if they win a supermajority by 2024.",
+          "link": "https://www.nationalreview.com/2022/06/the-60-plus-seat-senate-agenda/",
+          "publishedOn": "2022-06-13T10:30:13.000Z",
+          "wordCount": 41,
+          "title": "The 60-Plus-Seat Senate Agenda",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2020/08/capitol-hill-senate-wing.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1231740",
+          "author": "Ryan Mills",
+          "description": "Blue-state and international abortion groups plan to defy pro-life state laws if Roe is overturned.",
+          "link": "https://www.nationalreview.com/news/mail-order-abortion-pills-pose-major-threat-to-post-roe-pro-life-laws/",
+          "publishedOn": "2022-06-13T10:30:12.000Z",
+          "wordCount": 44,
+          "title": "Pro-Lifers Grapple with Mail-Order Abortion Pill Loopholes as <I>Roe</I> Decision Looms",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2021/04/woman-hand-pill.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1234855",
+          "author": "Jonathan Bydlak",
+          "description": "Committing to reasonable price stability and reducing federal spending would be steps in the right direction.",
+          "link": "https://www.nationalreview.com/2022/06/preventing-stagflation-starts-with-price-stability/",
+          "publishedOn": "2022-06-13T10:30:11.000Z",
+          "wordCount": 39,
+          "title": "Preventing Stagflation Starts with Price Stability",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/06/walmart-chicago-2016.jpg?fit=2057%2C1200"
+        },
         {
           "id": "https://www.nationalreview.com/?post_type=blog-post&p=1234847",
           "author": "Zachary Evans",
