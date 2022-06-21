@@ -44,16 +44,6 @@
           "wordCount": 667,
           "title": "R Weekly 2022-W22 RScreencasts, Deep Learning with R",
           "imageUrl": "https://rweekly.org/public/facebook.png"
-        },
-        {
-          "id": "https://rweekly.org/2022-W21.html",
-          "author": null,
-          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Eric Nantz, with help from the R Weekly team members and contributors.\nHighlight\nSoftware Development Resources for Data Scientists\nR Markdown Tips and Tricks #3: Time-savers & Trouble-shooters\ngistillery: Take local code, send it to a Github gist, get a beautiful image from Carbon.now.sh, and make it ready to share!\nListen to R-Weekly Highlights Episode 79\nInsights\nR Markdown Tips and Tricks #3: Time-savers & Trouble-shooters\nRe-creating this year’s Eurovison scoreboard with ggplot2 code\n\nIntroducting r2u with 2 x 19k CRAN binaries for Ubuntu 22.04 and 20.04\nR in Academia\nMarginalia: A guide to figuring out what the heck marginal effects, marginal slopes, average marginal e…",
-          "link": "https://rweekly.org/2022-W21.html",
-          "publishedOn": "2022-05-23T00:00:00.000Z",
-          "wordCount": 752,
-          "title": "R Weekly 2022-W21 Software Dev Resources, R Markdown Tips, and gistillery",
-          "imageUrl": "https://rweekly.org/public/facebook.png"
         }
       ]
     },
@@ -319,6 +309,86 @@
       "feedUrl": "https://feedx.net/rss/thepaper.xml",
       "siteUrl": "http://thepaper.cn",
       "articles": [
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_18668720",
+          "author": null,
+          "description": "澎湃新闻记者 俞凯\n 来源：澎湃新闻\n                \n6月21日，世界人工智能大会组委会办公室发布关于“2022世界人工智能大会”延期至9月初举办的通知。通知称，因受前期疫情影响，原定于2022年7月7日-9日在上海举办的“2022世界人工智能大会”将延期至2022年9月初举办，具体日期另行通知。\n通知称，衷心感谢国内外各界同仁长期以来的支持和关爱，大会后续安排将第一时间在官方网站(www.worldaic.com.cn)和微信公众号(世界人工智能大会)上发布。\n组委会供图\n(本文来自澎湃新闻，更多原创资讯请下载“澎湃新闻”APP)",
+          "link": "https://www.thepaper.cn/newsDetail_forward_18668720",
+          "publishedOn": "2022-06-21T16:53:05.000Z",
+          "wordCount": 2506,
+          "title": "2022世界人工智能大会延期至9月初举办",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_18672068",
+          "author": null,
+          "description": "海南日报客户端\n \n                \n中共中央日前批准：王培杰同志任中共海南省委委员、常委。\n(本文来自澎湃新闻，更多原创资讯请下载“澎湃新闻”APP)",
+          "link": "https://www.thepaper.cn/newsDetail_forward_18672068",
+          "publishedOn": "2022-06-21T16:23:05.000Z",
+          "wordCount": 2504,
+          "title": "王培杰任海南省委委员、常委",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_18672388",
+          "author": null,
+          "description": "@九派新闻、@后浪视频\n \n                \n\n视频来源：微博@九派新闻(00:28)\n据九派新闻消息，6月20日，四川成都，网传一宠物狗掉河里，16岁男孩下河救援时却溺水失联。网传视频显示，河道旁有不少人在查看情况，且有消防车停靠在路边，现场不时传来哭声。\n6月21日，该地所在街道办一工作人员表示，狗主人呼救，该男孩为救狗下水，已有百人参与搜寻，但目前仍在失联中。\n视频来源：微博@后浪视频(01:23)\n另据陕广电报后浪视频官方微博消息，知情人称，疑两名女生因狗狗掉河里喊救命，男孩以为是人，想去救人发生了意外，目前现场已经被围挡起来。21日从当地警方了解到，目前孩子还没打捞上来，具体情况待官方通报。\n(本文来自澎湃新闻，更多原创资讯请下载“澎湃新闻”APP)",
+          "link": "https://www.thepaper.cn/newsDetail_forward_18672388",
+          "publishedOn": "2022-06-21T14:23:08.000Z",
+          "wordCount": 2504,
+          "title": "两女生因宠物狗落水喊救命？16岁男孩被误导下河救人疑溺亡",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_18585596",
+          "author": null,
+          "description": "蒋瞰\n 来源：澎湃新闻\n                \n夏至，是二十四节气中最早被确定的一个节气。陶毓汾等编著《节气·气候·农业》中记载：公元前七世纪的周代，人们就用圭表——平放的尺子和直立的竿子，来测日影，将日影最短和最长的两天分别定为夏至和冬至。\n据《恪遵宪度抄本》记载：“日北至，日长之至，日影短至，故曰夏至。至者，极也。”\n夏至这天，太阳抵达最北端，是北半球全年影子最短、白昼最长的一天，这便是夏至名称的由来。杭州西溪湿地公园里的一家酒店在造园时候就考虑到了节气，停好车，经过餐厅拐弯进入客房区时，有一处小景名“夏至”，状如翻过来的小舟，来往行人可以坐下休息，静观对面的西溪景色。一条银色的线代表北回归线，又叫夏至线，因为夏至这天是盛夏的起点，也代表即将开始一段不同于其他季节的风光和气候。\n作家沈胜衣在《二十四：节气书画》里提到，夏至在古代又称“夏节”，从前是要放假的。\n殷登国《中国的花神与节气》转引了《汉书》一则故事：有个小吏在夏至大家休息这天，偏还主动回衙门加班，然后被教育说，“夏至冬至休假由来已久了，单位虽然仍有公事，可家里也盼望你回去团聚消遣、笑乐过节的。”看完也想拥有这样一位达观体恤下属的上司啊。\n“夏至杨梅满山红，小暑杨梅要出虫”是余姚人都熟悉的一句话，也说明了杨梅的采摘时间其实很短，多聚集在夏至。“每年夏至前后，宁波天气多阴雨潮湿，俗称梅雨，也是杨梅成熟的季节。”宁波镇海一家五星级酒店总经理费运博是个吃货，加上是宁波本地人，又从事酒店工作，对于节气和食物如数家珍。\n杨梅之于余姚，是个IP式的物种，宁波任何一个区县市都有杨梅种植。余姚河姆渡遗址考古发掘出了七千多年前的杨梅属花粉，是目前最早的杨梅原种的资料标本，所以，余姚杨梅又显得特别出挑。\n费运博的同行杨杰一直扎根在余姚四明山，最近刚因工作调动至余姚马渚镇，他知道，梁弄镇的“新梅”是杨梅里成熟最早的品种，是在…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_18585596",
+          "publishedOn": "2022-06-21T14:23:08.000Z",
+          "wordCount": 2510,
+          "title": "二十四节气 | 夏至，余姚杨梅和宁夏枸杞红了",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_18665939",
+          "author": null,
+          "description": "左宇坤/中国新闻网\n \n                \n中新财经6月21日报道，今年的“618”已经到了收尾交卷的时刻。这个购物节，除了平台商家摩拳擦掌，同样也想凑一把热闹的还有房企。\n最近，有楼盘打出了“首付5%、首年0月供”的促销海报，引发不少关注。活动是否属实？买房人是否又真的能得到实惠呢？\n长沙一景。受访者供图\n“5%首付”楼盘，销售称只针对商业房产\n近日，上市公司保利发展下属湖南公司的微信公众号“湖南保利会”发文称，在618购房节推出“首付5%起”“首年0月供”等优惠政策，长沙、常德、衡阳、岳阳、益阳等地的10个在售项目将同步开展该活动。\n要知道，长沙市目前仍执行首套房首付比例最低30%的政策，另外，若所购房屋属于长沙市限购区域的，最低首付款比例为房屋总价的60%。严格的限购政策也被认为是长沙楼市保持平稳的关键原因。\n但这一看上去很劲爆的政策，事实上并非如此美好。湖南长沙一保利售楼处工作人员对中新财经记者表示，该活动属实，但落实到自己所在的楼盘，还是针对商业性质房产，即公寓、写字楼等项目，普通住宅并不参与此活动。\n“目前长沙的公寓是没有户口、限购等限制措施的，但是首付需要五成。参加活动的话，5%的首付相当于一个定金，五成首付可以分期付，半年内补全就可以。”工作人员表示，该活动大概将于本周末截止，目前已经有不少人定下了房子，基本都是年轻人。\n“可能公司在其他城市、其他楼盘里有些尾盘住宅也可以走这个活动，但目前长沙首套房还是要求三成首付，我们房企也不可能违规，还是得付到三成银行才能办理按揭，所以相当于只是缓解几个月的首付压力吧。”该工作人员补充道。\n“这种做法对于房企确实可以加速去库存，提高销售业绩以尽快实现资金回笼。但是很可能会增加购房人的风险。” 北京金诉律师事务所主任王玉臣也提醒，“5%首付”短期付款比较少，但是从长远看总额并不会减少。\n“如果就是因为‘5%首…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_18665939",
+          "publishedOn": "2022-06-21T12:53:05.000Z",
+          "wordCount": 2505,
+          "title": "房企卖房拼了！楼市再现&ldquo;首付5%、首年0月供&rdquo;",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_18659942",
+          "author": null,
+          "description": "澎湃新闻记者 贺梨萍\n 来源：澎湃新闻\n                \n以色列作为全球人均接种新冠疫苗数最高的国家，在今年4月24日摘下口罩不到2个月后，迫于BA.5的压力，又在考虑恢复室内口罩令。\n随着奥密克戎变异株BA.5在以色列占比达到七成，以色列的日新增病例数再次突破1万例。而在五月下旬，以色列的日新增一度降至2000例以内。\n当地时间6月19日，以色列报告10202人新冠核酸检测呈阳性，阳性检出率达到了27.9%。\n以色列新冠入院人数\n BA.5不仅传播速度、免疫逃逸能力更强，能够重复传染，其在人类肺泡上皮细胞中复制能力更强，这意味着致病性也更强。目前以色列新冠患者中有170人重症，较一周前上升95.4%。\n以色列卫生部总干事纳赫曼·阿什6月19日表示，新的一轮感染浪潮可能已经来了。纳赫曼·阿什指出，在新一波疫情的早期阶段，卫生部不打算像之前那样对大型集会施加广泛限制。然而，卫生部正在考虑在封闭的公共空间里重新实施佩戴口罩的规定。\n随着BA.5正在以色列占据绝对优势，以色列专家表示应该考虑包括为老年人和免疫功能低下的人提供第五针疫苗的可能性。\n事实上，奥密克戎下的BA.4、BA.5变异株也正在美国异军突起，掀起新一轮感染浪潮。\n美国疾控中心的最新数据显示，截至6月11日，BA.4、BA.5合并在美国占比达到21.6%。而5月7日，BA.4、BA.5合并在美国的占比仅为1%。这意味着在35天内，BA.4、BA.5合并的占有率飙升了21倍。其中，BA.4占8.3% ，BA.5占13.3%。\n欧洲疾控中心近日表示，BA.4、BA.5比其他奥密克戎变异株传播得更快，可能导致更多的住院和死亡。\nBA.4和BA.5在刺突蛋白上有一个关键突变：L452R。L452位点突变是奥密克戎BA.1、BA.2变异毒株所没有，而德尔塔（Delta）所拥有的刺突蛋白突变位点。刺突蛋白在新冠…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_18659942",
+          "publishedOn": "2022-06-21T12:53:05.000Z",
+          "wordCount": 2526,
+          "title": "BA.5让以色列考虑两点：摘下的口罩重新戴上，安排第五针疫苗",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_18659974",
+          "author": null,
+          "description": "吴阳/红星新闻\n \n                \n6月20日，一段储户到中国农业银行取款被限制1000元额度的视频在网络流传。视频中，储户问银行柜员为什么取钱要被限额，柜员询问储户：“是否在九江工作？有没有居住证？”储户称，其在深圳工作，但在九江有房产。银行柜员称，这是系统自动设置。\n有网友指出，此事发生在广东省佛山市南海区九江镇。红星新闻记者就此联系到中国银保监会佛山监管分局，工作人员称，可以向银行联系了解具体情况，并提供了中国农业银行南海分行投诉部的电话，但该号码始终无人接听。\n视频截图\n红星新闻记者联系到位于佛山市南海区九江镇的中国农业银行南海江滨支行。该行工作人员表示，储蓄管理条例规定了存款自愿取款自由，在柜台取款是没有限额的。柜台对存取款项的限额是指无卡支付的限额。该工作人员表示，已经关注到网上流传的视频，但是不能告诉记者视频拍摄的具体地点。\n该工作人员还表示，不单是农业银行，此前所有银行都根据监管部门要求，配合公安机关打击电信诈骗的行动，设计数据模型来防范电信诈骗。视频中的客户，应该是数据模型根据客户名下的账户历史交易习惯，为其匹配了额度，同样的事情也曾发生在其他客户身上。客户长期不使用的银行卡，可能就会发现无卡支付有了额度要求。对于这种情况，如果客户急需用钱，可以持卡在柜台办理。\n该工作人员解释，视频中的客户发现银行卡被限额，并不是当天才限额，这说明他的银行卡平时不常用。但是工作人员与客户沟通时产生了误会。\n该工作人员还称，类似的情况也引发其他客户的投诉，但现在的政策要求银行卡的支付要与结算支付需求所匹配。同时打击电信诈骗，公安机关要求银行对长期不使用的银行卡作出限制。被限额的客户如果有房产证、汽车证，可以去办理提高额度。任何客户如果有银行卡被限制额度，可以到柜台提供相关证明材料办理提额。\n红星新闻记者拨打中国农业银行客户电话95599，语音提示“农业银行为保障客户用卡及资金安全，正全力开展电信网络诈骗防范治理工作，如果近期银行卡突然出现使用异常或交易受限等情况，请客户携带银行卡及有效身份证件，到就近网点核实具体受限原因与解决方案。”\n2022年4月，包括中国农业银行、浦发银行、光大银行等银行曾发布公告，下调部分或所有客户的线上业务相关的交易限额，包括个人网银及掌银转账限额、网上支付交易限额、非柜面业务限额（含线上转账和网上支付等）。当时，多家银行客服向红星新闻记者表示这是“断卡”行动要求。据悉，2020年10月10日，国务院召开打击治理电信网络新型违法犯罪工作部际联席会，决定在全国范围内开展以打击、治理、惩戒开办及贩卖电话卡、银行卡违法犯罪团伙为主要内容的“断卡”行动，依法清理整治涉诈电话卡、物联网卡以及关联互联网账号。在“断卡”行动中，银行、支付机构也需要清理长期不动户、“一人多卡”、频繁挂失补换卡等异常银行卡。\n(本文来自澎湃新闻，更多原创资讯请下载“澎湃新闻”APP)",
+          "link": "https://www.thepaper.cn/newsDetail_forward_18659974",
+          "publishedOn": "2022-06-21T12:23:05.000Z",
+          "wordCount": 2503,
+          "title": "储户取款被限额一千元？农行工作人员：长期不用的卡或被限额",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_18667655",
+          "author": null,
+          "description": "澎湃新闻记者 祁东\n 来源：澎湃新闻\n                \n\n中国男排击败世界第一巴西队。\n中国排球协会官网6月20日发布了《关于中国男排参加世界联赛情况的通报》：\n“中国男排结束首周巴西利亚站比赛后，于6月17日晚抵达菲律宾参加奎松站比赛，18日入境抗原检测结果多人显阳性。”\n“得知检测结果后，中国排协第一时间与国际排联沟通，协调队伍复检及后续参赛事宜。经复检，多人确诊感染新冠。”\n中国排协官方声明。\n“根据赛事组委会关于“确诊阳性运动员须隔离满5天”的规定，中国男排无法凑齐至少6名上场运动员参加原定于北京时间6月22日15点举行的对阵法国队的比赛，中国队被视为弃权，被判0-3告负。”\n“下一步，中国排协将积极做好感染人员治疗康复工作，并与国际排联保持密切沟通，协调做好队伍后续参赛工作。”\n中国男排此前在第一阶段比赛中3-0击败了世界第一巴西队，全队状态正佳……\n(本文来自澎湃新闻，更多原创资讯请下载“澎湃新闻”APP)",
+          "link": "https://www.thepaper.cn/newsDetail_forward_18667655",
+          "publishedOn": "2022-06-21T11:23:04.000Z",
+          "wordCount": 2506,
+          "title": "中国男排多人在菲律宾确诊新冠，无法出战世界联赛被判负",
+          "imageUrl": null
+        },
         {
           "id": "https://www.thepaper.cn/newsDetail_forward_18668509",
           "author": null,
@@ -2066,6 +2136,146 @@
       "feedUrl": "https://www.nationalreview.com/feed/",
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1241194",
+          "author": "Brittany Bernstein",
+          "description": "McGraw said the classroom door could not be locked from the inside and testified that the officers never tried to see if the door was unlocked.",
+          "link": "https://www.nationalreview.com/news/uvalde-commander-put-the-lives-of-officers-before-the-lives-of-children-texas-official-says/",
+          "publishedOn": "2022-06-21T16:50:42.000Z",
+          "wordCount": 4818,
+          "title": "Uvalde Commander ‘Put the Lives of Officers Before the Lives of Children,’ Texas Official Says",
+          "imageUrl": "https://www.nationalreview.com/wp-content/themes/national-review/static/images/favicons/favicon-96x96.png"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1241175",
+          "author": "Andrew C. McCarthy",
+          "description": "In doing so, it undermines the case against the former president.",
+          "link": "https://www.nationalreview.com/2022/06/on-trump-scheme-the-january-6-committee-overpromises-and-underdelivers/",
+          "publishedOn": "2022-06-21T16:11:37.000Z",
+          "wordCount": 5465,
+          "title": "On Trump Scheme, the January 6 Committee Overpromises and Underdelivers",
+          "imageUrl": "https://www.nationalreview.com/wp-content/themes/national-review/static/images/favicons/favicon-96x96.png"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1241189",
+          "author": "Ryan Mills",
+          "description": "Mayor Frey failed to ‘meet his clear legal duty’ to maintain a force with at least 1.7 officers per 1,000 residents, the court ruled.",
+          "link": "https://www.nationalreview.com/news/minnesota-court-rules-city-failed-to-maintain-adequate-police-numbers-in-win-for-residents/",
+          "publishedOn": "2022-06-21T16:08:52.000Z",
+          "wordCount": 4541,
+          "title": "Minnesota Court Rules City Failed to Maintain Adequate Police Numbers in Win for Residents",
+          "imageUrl": "https://www.nationalreview.com/wp-content/themes/national-review/static/images/favicons/favicon-96x96.png"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1241137",
+          "author": "Jack Wolfsohn",
+          "description": "The attacks from the right on the Texas congressman are rooted in misinformation.",
+          "link": "https://www.nationalreview.com/2022/06/the-ridiculous-attacks-on-dan-crenshaw/",
+          "publishedOn": "2022-06-21T15:36:29.000Z",
+          "wordCount": 4830,
+          "title": "The Ridiculous Attacks on Dan Crenshaw",
+          "imageUrl": "https://www.nationalreview.com/wp-content/themes/national-review/static/images/favicons/favicon-96x96.png"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1241110",
+          "author": "Brittany Bernstein",
+          "description": "The Court ruled 6-3 that the program violates the free exercise clause of the First Amendment.",
+          "link": "https://www.nationalreview.com/news/supreme-court-rules-maine-cannot-exclude-religious-schools-from-tuition-assistance-program/",
+          "publishedOn": "2022-06-21T15:17:46.000Z",
+          "wordCount": 4084,
+          "title": "Supreme Court Rules Maine Cannot Exclude Religious Schools from Tuition-Assistance Program",
+          "imageUrl": "https://www.nationalreview.com/wp-content/themes/national-review/static/images/favicons/favicon-96x96.png"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1241049",
+          "author": "Brittany Bernstein",
+          "description": "The endorsement comes after Musk threatened to pull out of the deal over Twitter’s alleged lack of transparency.",
+          "link": "https://www.nationalreview.com/news/twitter-board-unanimously-endorses-musk-takeover/",
+          "publishedOn": "2022-06-21T14:00:57.000Z",
+          "wordCount": 4074,
+          "title": "Twitter Board Unanimously Endorses Musk Takeover",
+          "imageUrl": "https://www.nationalreview.com/wp-content/themes/national-review/static/images/favicons/favicon-96x96.png"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1240975",
+          "author": "Brittany Bernstein",
+          "description": "Security footage doesn’t show any officers trying to open classroom doors. Police chief Arredondo claims they tried but the doors were locked.",
+          "link": "https://www.nationalreview.com/news/whoever-is-in-charge-uvalde-officers-carrying-shields-idled-outside-classroom-waiting-for-direction/",
+          "publishedOn": "2022-06-21T13:15:15.000Z",
+          "wordCount": 4956,
+          "title": "‘Whoever Is in Charge’: Uvalde Officers Carrying Shields Idled outside Classroom Waiting for Direction",
+          "imageUrl": "https://www.nationalreview.com/wp-content/themes/national-review/static/images/favicons/favicon-96x96.png"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1240648",
+          "author": "Rachelle Peterson",
+          "description": "Discredited as Chinese-government influence operations, Confucius Institutes are now reemerging on American college campuses under new names.",
+          "link": "https://www.nationalreview.com/2022/06/beware-the-confucius-institute-rebrand/",
+          "publishedOn": "2022-06-21T10:30:56.000Z",
+          "wordCount": 5153,
+          "title": "Beware the Confucius Institute Rebrand",
+          "imageUrl": "https://www.nationalreview.com/wp-content/themes/national-review/static/images/favicons/favicon-96x96.png"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1240833",
+          "author": "Rich Lowry",
+          "description": "As the negative consequences of his policies pile up, the president’s malarkey grows ever more brazen.",
+          "link": "https://www.nationalreview.com/2022/06/joe-bidens-inevitable-spin-and-misdirection/",
+          "publishedOn": "2022-06-21T10:30:44.000Z",
+          "wordCount": 4827,
+          "title": "Joe Biden’s Inevitable Spin and Misdirection",
+          "imageUrl": "https://www.nationalreview.com/wp-content/themes/national-review/static/images/favicons/favicon-96x96.png"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1240419",
+          "author": "The Editors",
+          "description": "The inherent contradiction in the president’s push to expand access to ‘gender-affirming care.’",
+          "link": "https://www.nationalreview.com/2022/06/bidens-repackaged-conversion-therapy/",
+          "publishedOn": "2022-06-21T10:30:43.000Z",
+          "wordCount": 4632,
+          "title": "Biden’s Repackaged ‘Conversion Therapy’",
+          "imageUrl": "https://www.nationalreview.com/wp-content/themes/national-review/static/images/favicons/favicon-96x96.png"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1240669",
+          "author": "Jay Nordlinger",
+          "description": "Notes on January 6 and the relevant congressional hearings.",
+          "link": "https://www.nationalreview.com/2022/06/before-we-move-on/",
+          "publishedOn": "2022-06-21T10:30:11.000Z",
+          "wordCount": 5199,
+          "title": "Before We ‘Move On’",
+          "imageUrl": "https://www.nationalreview.com/wp-content/themes/national-review/static/images/favicons/favicon-96x96.png"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1239168",
+          "author": "Nina Shea",
+          "description": "Attacks on Nigeria’s Christians and other religious are due to an Islamic religious-cleansing campaign, not climate change.",
+          "link": "https://www.nationalreview.com/2022/06/nigerias-religious-cleansing-crisis-is-not-due-to-climate-change/",
+          "publishedOn": "2022-06-21T10:30:07.000Z",
+          "wordCount": 4997,
+          "title": "Nigeria’s Religious-Cleansing Crisis Is Not Due to Climate Change",
+          "imageUrl": "https://www.nationalreview.com/wp-content/themes/national-review/static/images/favicons/favicon-96x96.png"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1240865",
+          "author": "Douglas Carr",
+          "description": "With all the wild events of the last few months, central-bank liquidity appears to have the most significant influence.",
+          "link": "https://www.nationalreview.com/2022/06/the-elephant-squashing-the-financial-markets/",
+          "publishedOn": "2022-06-21T10:30:05.000Z",
+          "wordCount": 5346,
+          "title": "The Elephant Squashing the Financial Markets",
+          "imageUrl": "https://www.nationalreview.com/wp-content/themes/national-review/static/images/favicons/favicon-96x96.png"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1240619",
+          "author": "Kyle Smith",
+          "description": "Conservatives are calling Top Gun: Maverick a rebuke to wokeness, but that’s not right. It isn’t an anti-woke movie; it’s merely a woke-free movie.",
+          "link": "https://www.nationalreview.com/2022/06/america-is-craving-a-reset/",
+          "publishedOn": "2022-06-21T10:30:03.000Z",
+          "wordCount": 5177,
+          "title": "America Is Craving a Reset",
+          "imageUrl": "https://www.nationalreview.com/wp-content/themes/national-review/static/images/favicons/favicon-96x96.png"
+        },
         {
           "id": "https://www.nationalreview.com/?post_type=blog-post&p=1240773",
           "author": "Brittany Bernstein",
