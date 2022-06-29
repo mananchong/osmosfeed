@@ -44,16 +44,6 @@
           "wordCount": 613,
           "title": "R Weekly 2022-W23 tickle package, on learning R",
           "imageUrl": "https://rweekly.org/public/facebook.png"
-        },
-        {
-          "id": "https://rweekly.org/2022-W22.html",
-          "author": null,
-          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Batool Almarzouq, with help from the R Weekly team members and contributors.\nHighlight\nRScreencasts.com: A collection of 80+ hours of time-stamped, annotated TidyTuesday screencasts highlighting the R packages and functions used in each section and what the activity is.\nDeep Learning with R, 2nd Edition\nListen to R-Weekly Highlights Episode 80\nInsights\nCreating a Reproducible Example\n\nEditorial Automation: Why & How to Set Up Chat-Ops for your Own Review System on GitHub\nR in the Real World\nReal house price plots\n\nResources\nRScreencasts.com: A collection of 80+ hours of time-stamped, annotated TidyTuesday screencasts highlighting the R packages and functions used in each sec…",
-          "link": "https://rweekly.org/2022-W22.html",
-          "publishedOn": "2022-05-31T00:00:00.000Z",
-          "wordCount": 667,
-          "title": "R Weekly 2022-W22 RScreencasts, Deep Learning with R",
-          "imageUrl": "https://rweekly.org/public/facebook.png"
         }
       ]
     },
@@ -3536,6 +3526,136 @@
       "feedUrl": "https://www.nationalreview.com/feed/",
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
+        {
+          "id": "https://www.nationalreview.com/?p=1251298",
+          "author": "Abigail Anthony",
+          "description": "The soccer star’s call for absolute ‘trans inclusion’ in sports is hypocritical and unworkable.",
+          "link": "https://www.nationalreview.com/2022/06/megan-rapinoe-abandons-female-athletes/",
+          "publishedOn": "2022-06-29T17:04:55.000Z",
+          "wordCount": 5167,
+          "title": "Megan Rapinoe Abandons Female Athletes",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2019/08/megan-rapinoe-nyc.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1251220",
+          "author": "Kyle Smith",
+          "description": "Leonard Cohen’s beloved secular hymn caught on only after a lot of other artists, and the makers of a cartoon movie, recognized its strengths.",
+          "link": "https://www.nationalreview.com/2022/06/how-hallelujah-became-a-classic/",
+          "publishedOn": "2022-06-29T15:57:16.000Z",
+          "wordCount": 4826,
+          "title": "How ‘Hallelujah’ Became a Classic",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/06/cohen.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1251156",
+          "author": "Diana Glebova",
+          "description": "The leaked data included the name, address, and age of every permit holder.",
+          "link": "https://www.nationalreview.com/news/personal-information-of-every-california-concealed-carry-permit-holder-leaked/",
+          "publishedOn": "2022-06-29T15:46:41.000Z",
+          "wordCount": 4059,
+          "title": "Personal Information of Every California Concealed-Carry Permit Holder Leaked",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/06/glock-1.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1251187",
+          "author": "Michael Brendan Dougherty",
+          "description": "If and when Newsom decides to seek the White House, Republicans will need to be ready.",
+          "link": "https://www.nationalreview.com/2022/06/gavin-newsom-is-dangerous/",
+          "publishedOn": "2022-06-29T15:41:35.000Z",
+          "wordCount": 4669,
+          "title": "Gavin Newsom Is Dangerous",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/06/newsom.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1250982",
+          "author": "Diana Glebova",
+          "description": "The announcement comes after Turkish president Recep Tayyip Erdogan lifted his veto after a weeks-long stalemate.",
+          "link": "https://www.nationalreview.com/news/nato-formally-invites-sweden-finland-to-join-alliance/",
+          "publishedOn": "2022-06-29T13:20:09.000Z",
+          "wordCount": 4073,
+          "title": "NATO Formally Invites Sweden, Finland to Join Alliance",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/06/NATO-Summit.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1250822",
+          "author": "Diana Glebova",
+          "description": "The Secret Service agents’ testimony would contradict that of White House aide Cassidy Hutchinson.",
+          "link": "https://www.nationalreview.com/news/secret-service-agent-willing-to-testify-trump-never-lunged-at-him-contradicting-white-house-aide/",
+          "publishedOn": "2022-06-29T12:45:45.000Z",
+          "wordCount": 4303,
+          "title": "Secret Service Agent Willing to Testify Trump Never Lunged at Him, Contradicting White House Aide",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/06/Cassidy-Hutchinson.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1249970",
+          "author": "Brittany Bernstein",
+          "description": "Just 8 percent of likely swing state voters say abortion is a top issue for them.",
+          "link": "https://www.nationalreview.com/news/likely-voters-in-swing-states-still-more-concerned-with-inflation-than-abortion-post-roe-new-poll-finds/",
+          "publishedOn": "2022-06-29T11:00:32.000Z",
+          "wordCount": 4366,
+          "title": "Swing-State Voters Still More Concerned with Inflation Than Abortion Post-<i>Roe</i>, New Poll Finds",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/06/Copy-of-Mace-Rice-2-1.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1250624",
+          "author": "Sean Griffith",
+          "description": "The SEC cannot use governmental power to impose a regnant political orthodoxy.",
+          "link": "https://www.nationalreview.com/2022/06/the-secs-climate-disclosure-rules-violate-the-first-amendment/",
+          "publishedOn": "2022-06-29T10:30:57.000Z",
+          "wordCount": 4816,
+          "title": "The SEC’s Climate-Disclosure Rules Violate the First Amendment",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2021/01/securities-exchange-commission-seal.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1250525",
+          "author": "Jay Nordlinger",
+          "description": "On diversity training, language police, Hyman Rickover, middle fingers, golf scores, and more.",
+          "link": "https://www.nationalreview.com/2022/06/woke-hell-c/",
+          "publishedOn": "2022-06-29T10:30:47.000Z",
+          "wordCount": 6245,
+          "title": "Woke hell, &c.",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/06/usa-today-gannett.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1249982",
+          "author": "Lou Di Leonardo",
+          "description": "Ending Title 42, and making asylum even easier to obtain, will create an unprecedented border crisis this summer.",
+          "link": "https://www.nationalreview.com/2022/06/the-coming-border-surge-is-completely-preventable/",
+          "publishedOn": "2022-06-29T10:30:21.000Z",
+          "wordCount": 4810,
+          "title": "The Coming Border Surge Is Completely Preventable",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/06/mayorkas-border-wall.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1249943",
+          "author": "Armond White",
+          "description": "How BET promotes Biden-era enslavement.",
+          "link": "https://www.nationalreview.com/2022/06/lizzos-neo-plantation-showbiz-trap/",
+          "publishedOn": "2022-06-29T10:30:10.000Z",
+          "wordCount": 4784,
+          "title": "Lizzo’s Neo-Plantation Showbiz Trap",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/06/lizzo-bet-awards.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1250148",
+          "author": "Luther Ray Abel",
+          "description": "What we know, and what went wrong.",
+          "link": "https://www.nationalreview.com/2022/06/the-uvalde-shooting-timeline-a-system-failure/",
+          "publishedOn": "2022-06-29T10:30:10.000Z",
+          "wordCount": 5392,
+          "title": "Timeline of the Uvalde Shooting: A System Failure",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/06/uvalde-shooting-texas-senate-hearing-1.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1249651",
+          "author": "Bethel McGrew",
+          "description": "Dave Portnoy’s post-Dobbs pro-abortion rant should raise doubts about how well new parts of ‘the Right’ gel with conservatism.",
+          "link": "https://www.nationalreview.com/2022/06/the-problem-with-barstool-conservatives/",
+          "publishedOn": "2022-06-29T10:30:00.000Z",
+          "wordCount": 4947,
+          "title": "The Problem with ‘Barstool Conservatives’",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/06/dave-portnoy.jpg?fit=2057%2C1200"
+        },
         {
           "id": "https://www.nationalreview.com/?post_type=blog-post&p=1250565",
           "author": "Brittany Bernstein",
