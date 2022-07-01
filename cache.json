@@ -3527,6 +3527,116 @@
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
         {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1253238",
+          "author": "Brittany Bernstein",
+          "description": "‘We are all left wondering who is making these decisions and what are the criteria on which they are based?’",
+          "link": "https://www.nationalreview.com/news/white-house-reporters-urge-press-secretary-to-end-biden-event-restrictions/",
+          "publishedOn": "2022-07-01T02:03:02.000Z",
+          "wordCount": 4492,
+          "title": "White House Reporters Urge Press Secretary to End Biden-Event Restrictions",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/06/wh-press-briefing-reporters.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1252905",
+          "author": "Brittany Bernstein",
+          "description": "Four people died in the crash.",
+          "link": "https://www.nationalreview.com/news/high-speed-chase-between-border-patrol-and-suspected-human-smugglers-ends-in-fatal-crash/",
+          "publishedOn": "2022-06-30T20:27:23.000Z",
+          "wordCount": 4286,
+          "title": "High-Speed Chase Between Border Patrol and Suspected Human Smugglers Ends in Fatal Crash",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/06/dpscrash.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1252914",
+          "author": "John McCormack",
+          "description": "They only had the votes for a less-extreme abortion bill than the one activists wanted.",
+          "link": "https://www.nationalreview.com/2022/06/why-didnt-democrats-codify-roe-when-they-had-the-chance/",
+          "publishedOn": "2022-06-30T20:15:00.000Z",
+          "wordCount": 5611,
+          "title": "Why Didn’t Democrats Codify <em>Roe</em> When They Had the Chance?",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/01/nancy-pelosi-womens-health-protection-act.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1252875",
+          "author": "Kyle Smith",
+          "description": "Their unwillingness to get serious about this surge is going to cost them dearly.",
+          "link": "https://www.nationalreview.com/2022/06/the-democrats-crime-problem/",
+          "publishedOn": "2022-06-30T19:39:06.000Z",
+          "wordCount": 4766,
+          "title": "The Democrats’ Crime Problem",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/06/biden-7.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1252847",
+          "author": "Robert M. Berg",
+          "description": "There is no reason for the Department of Defense to weigh in on the recent Dobbs decision.",
+          "link": "https://www.nationalreview.com/2022/06/lloyd-austin-shouldnt-draft-the-pentagon-into-the-abortion-wars/",
+          "publishedOn": "2022-06-30T19:24:06.000Z",
+          "wordCount": 4947,
+          "title": "Lloyd Austin Shouldn’t Draft the Pentagon into the Abortion Wars",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/06/secaustin.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1252801",
+          "author": "Brittany Bernstein",
+          "description": "Mckie’s arrest came on the same day Zeldin won the state’s Republican gubernatorial primary.",
+          "link": "https://www.nationalreview.com/news/man-charged-with-hate-crime-for-allegedly-drawing-swastika-on-lee-zeldin-campaign-sign/",
+          "publishedOn": "2022-06-30T19:01:12.000Z",
+          "wordCount": 4398,
+          "title": "Man Charged With Hate Crime for Allegedly Drawing Swastika on Lee Zeldin Campaign Sign",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/06/zeldin.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1252778",
+          "author": "Isaac Schorr",
+          "description": "‘American democracy and the state of Americans’ women’s rights are being really looked at,’ Amanpour said.",
+          "link": "https://www.nationalreview.com/news/cnn-anchor-suggests-dobbs-decision-will-encourage-taliban-human-rights-abuses/",
+          "publishedOn": "2022-06-30T18:43:48.000Z",
+          "wordCount": 4425,
+          "title": "CNN Anchor Suggests <I>Dobbs</I> Decision Will Encourage Taliban Human-Rights Abuses",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/06/Christiane-Amanpour.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1252735",
+          "author": "Diana Glebova",
+          "description": "The judge said he would sign a temporary injunction soon, but ‘not today.’ The law is set to take effect Friday.",
+          "link": "https://www.nationalreview.com/news/florida-judge-vows-to-block-floridas-15-week-abortion-ban/",
+          "publishedOn": "2022-06-30T18:18:19.000Z",
+          "wordCount": 4391,
+          "title": "Florida Judge Vows to Block Florida’s 15-Week Abortion Ban",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/06/supreme-court.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1252742",
+          "author": "Charles C. W. Cooke",
+          "description": "How dare the Court return power to legislatures elected by the people?",
+          "link": "https://www.nationalreview.com/2022/06/against-the-supreme-courts-appalling-attack-on-our-democracy/",
+          "publishedOn": "2022-06-30T18:01:13.000Z",
+          "wordCount": 5142,
+          "title": "Against the Supreme Court’s Appalling Attack on Our Democracy™",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/06/supreme-court-clouds.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1252701",
+          "author": "Dan McLaughlin",
+          "description": "The Court tells the EPA that it needs Congress if it wants to pass carbon-emissions laws.",
+          "link": "https://www.nationalreview.com/2022/06/chief-justice-roberts-reins-in-the-pen-and-phone-epa/",
+          "publishedOn": "2022-06-30T17:54:59.000Z",
+          "wordCount": 5889,
+          "title": "Chief Justice Roberts Reins In the Pen-and-Phone EPA",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/06/Obama-biden-roberts.png?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1252682",
+          "author": "Madeleine Kearns",
+          "description": "Biden’s new regulations would destroy female-only sports, spaces, and services.",
+          "link": "https://www.nationalreview.com/2022/06/fighting-the-title-ix-menace/",
+          "publishedOn": "2022-06-30T17:28:15.000Z",
+          "wordCount": 4726,
+          "title": "Fighting the Title IX Menace",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2021/12/womens-swimming-olympic-trials.jpg?fit=2057%2C1200"
+        },
+        {
           "id": "https://www.nationalreview.com/?post_type=blog-post&p=1252470",
           "author": "Diana Glebova",
           "description": "‘It is not plausible that Congress gave EPA the authority to adopt on its own such a regulatory scheme,’ Roberts wrote.",
