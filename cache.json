@@ -44,16 +44,6 @@
           "wordCount": 635,
           "title": "R Weekly 2022-W24",
           "imageUrl": "https://rweekly.org/public/facebook.png"
-        },
-        {
-          "id": "https://rweekly.org/2022-W23.html",
-          "author": null,
-          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Sam Parmar, with help from the R Weekly team members and contributors.\nHighlight\n{tickle}: a package for creating UIs in base R\nR will always be arcane to those who do not make a serious effort to learn it…\nListen to R-Weekly Highlights Episode 81\nInsights\nLocating R and R Adjacent Software and Configuration Files\n\nprogressr 0.10.1: Plyr Now Supports Progress Updates also in Parallel\nR will always be arcane to those who do not make a serious effort to learn it…\nR in Organizations\nAnnouncing RStudio for Microsoft Azure ML\n\nR in Academia\nBakersfield Data Analytics and R Users Group: Collaboration and the Need to Reach Out to Students\nMy students cheated… A lot\n\nResources\nTry R…",
-          "link": "https://rweekly.org/2022-W23.html",
-          "publishedOn": "2022-06-06T00:00:00.000Z",
-          "wordCount": 613,
-          "title": "R Weekly 2022-W23 tickle package, on learning R",
-          "imageUrl": "https://rweekly.org/public/facebook.png"
         }
       ]
     },
@@ -459,6 +449,86 @@
       "feedUrl": "https://feedx.net/rss/thepaper.xml",
       "siteUrl": "http://thepaper.cn",
       "articles": [
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_18875388",
+          "author": null,
+          "description": "中国政府网\n \n                \n普洱市张先生通过国务院“互联网+督查”平台反映，思茅区第四中学以是否购买平板电脑划分智慧班和传统班，智慧班的学生需要花5800元购买平板电脑。\n国办督查室收到相关留言后，经初步核实，及时转有关地方政府核查办理。\n云南省政府接到国办督查室转办的问题线索后，立即组织开展核查。经核查，群众反映情况属实。自2020年秋季学期开始，云南省普洱市思茅区第四中学以是否购买平板电脑为依据，将新入学的七年级学生分为智慧班和普通班，要求14个智慧班的719名学生按照5800元/套标准购买平板电脑、配套设备及资源服务。截至督查时，719名学生已每人缴纳3400元（包括平板电脑、配套设备及第一学年资源服务费），收费总额为244.46万元。上述行为违反教育部等五部门《关于进一步加强和规范教育收费管理的意见》（教财〔2020〕5号）中“不得强制或者暗示学生及家长购买指定的教辅软件或资料”和教育部等八部门《关于引导规范教育移动互联网应用有序健康发展的意见》（教技函〔2019〕55号）中“作为教学、管理工具要求统一使用的教育移动应用，不得向学生及家长收取任何费用”的规定，加重了学生家庭的负担。普洱市有关部门已责令该校立即停止违规收费行为，取消智慧班与普通班分班，督促该校向719名学生退还了全部违规收费244.46万元，并将平板电脑、配套设备及教学资源收回供统一教学使用。同时，思茅区教育局召开全区教育系统专题会议，对第四中学违规问题予以通报批评，举一反三组织开展违规收费问题集中排查整治行动，进一步加强监督管理。\n(本文来自澎湃新闻，更多原创资讯请下载“澎湃新闻”APP)",
+          "link": "https://www.thepaper.cn/newsDetail_forward_18875388",
+          "publishedOn": "2022-07-05T15:53:06.000Z",
+          "wordCount": 6178,
+          "title": "云南一中学以是否买平板电脑分班，被责令清退违规收费244万",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_18879638",
+          "author": null,
+          "description": "澎湃新闻记者 吕新文\n 来源：澎湃新闻\n                \n据西安市召开新冠肺炎疫情防控工作新闻发布会（第76场）发布的消息，为进一步减少人员流动，降低交叉感染风险，争取早日实现病例清零。经专家研判，西安市疫情防控指挥部决定自7月6日0时起，在全市实行7天临时性管控措施。\n相关措施包括：\n（一）公众娱乐休闲场所（KTV、网吧、酒吧、棋牌室、剧本杀、密室逃脱、足浴店、洗浴中心、蒸拿房、茶馆等）、人员聚集经营性场所（健身房、体育馆、瑜珈馆和各类培训、中介机构等）、公共文化活动场所（室内景点、文化馆、图书馆、博物馆、影剧院等）和农村集贸市场暂停营业1周。监所、福利院、养老机构等特殊场所封闭管理。\n（二）全市各餐饮单位（含饮品店、小吃店、早餐店等，不含宾馆、单位内部食堂）暂停堂食1周，严格落实扫码登记等制度，可提供到店自取、网络或电话等外卖订餐，实施“无接触式”配送服务。\n（三）严控人员聚集，1周内暂不举办大型会议、各类线下培训，严控群体性活动。实行“喜事缓办、丧事简办、宴会不办”。所有宗教活动场所（含民间信仰场所）暂时关闭，暂停一切宗教活动。\n（四）中小学、幼儿园提前放假，高校实行封闭管理，培训机构暂停营业1周。\n（五）全市所有党政机关、企事业单位、小区、公共场所、交通工具、室外景点、餐饮单位（外卖）、商超市场等场所要严格落实扫码、测温、规范佩戴口罩、通风消毒等措施。\n发布会上介绍，7天临时性管控措施是为了尽可能让社会静下来，减小社会流动性，快速找出潜在的风险源，降低交叉感染的风险。由于奥密克戎变异株传染性更强，传播速度更快，有一些感染者没有症状或症状不典型，因此传播过程中也更为隐匿。必须和时间、病毒赛跑，跑赢病毒的传播速度，防范一切可能的风险和隐患，坚决避免造成社区传播和暴发。暂时的“静”是为了尽快“动”，尽快让市民安心、放心的“动”。\n(本文来自澎湃新闻，更多原创资讯请下载“澎湃新闻”APP)",
+          "link": "https://www.thepaper.cn/newsDetail_forward_18879638",
+          "publishedOn": "2022-07-05T14:23:05.000Z",
+          "wordCount": 6180,
+          "title": "西安明起实行7天临时性管控：让社会静下来，找出潜在风险源",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_18873892",
+          "author": null,
+          "description": "左宇坤/中国新闻网\n \n                \n中新网7月5日报道，2022年的进度条过半，上半年的楼市也经历了不少意料之外的波折与调整。随着宽松政策的逐渐加码，楼市也在这个6月的夏天感受到了复苏回暖的气息。\n资料图：一居民小区。凌楠 摄\n跨过“倒春寒”\n“从短期来看市场已经触底，并不是触底反弹，而是一个缓慢温和的恢复过程。”近日，万科董事会主席郁亮在股东大会上虽称“这是我从业以来压力最大的一段时间”，但仍一反长期以来的悲观论调，给出了积极强心的论断。\n向来在房地产行业扮演着意见领袖的郁亮发声，也让地产股久违地出现了向上波动行情。次日，房地产开发板块接连逆市走强，甚至有多家房企、物企掀起了涨停潮。\n郁亮的信心背后也有着数据支撑：国家统计局数据显示，5月全国商品房销售面积环比增长25.8%，销售额环比增长29.7%，实现今年以来单月环比首次提高。\n这是一个积极信号。2022年以来，房地产已经走过了严峻的4个月。\n越过1月、2月传统的销售淡季，受多地疫情反复等超预期因素影响，“倒春寒”来袭，“金三银四”爽约。国家统计局数据显示，4月房地产行业销售与投资双双进入负增长。\n前4个月的萎靡也让上半年的销售规模整体承压。中指研究院数据显示，上半年，重点100城新建商品住宅成交面积降幅超四成，购房者置业信心不足，成交规模为近几年同期最低水平，市场延续调整态势。\n好在，复苏的信号终于在5月出现。行业主要指标开始改善，单月新房销售规模和开发投资规模分别环比上涨26%和14%，市场信心开始恢复。\n“在政策面持续宽松的情况下，购房的环境越来越好，到了5、6月，政策效应逐渐显现出来，购房需求逐渐被释放，购房便利程度逐渐被增加，银行信贷等也都给予了比较大的支持，所以说最新数据跟政策非常匹配。”易居研究院智库中心研究总监严跃进表示。\n正如严跃进所言，刷新记录的政策规模成为了此轮市场转向的重要…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_18873892",
+          "publishedOn": "2022-07-05T12:53:05.000Z",
+          "wordCount": 6181,
+          "title": "楼市&ldquo;期中考&rdquo;：超460次宽松政策后，何时筑底反弹？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_18876224",
+          "author": null,
+          "description": "张子琪/大象新闻\n \n                \n7月5日，“南京女大学生被害案”受害人李某月的父亲李胜告诉记者，7月4日，他接到云南西双版纳州中级人民法院通知，该案件将于7月7日上午10点一审宣判。“7月9日是女儿离去的日子，我们原本计划到云南女儿遇害的地方看看她。”李胜介绍，法官在电话中表示可以在南京当地的法院听审，但他还是希望亲自到云南等待宣判结果。\n李胜透露，近日他曾接到犯罪嫌疑人洪某父亲的电话，对方深感愧疚，想要拿出高额赔偿金，希望能和李胜见面，李胜果断拒绝。\n案情回顾2020年7月，李某月在男友洪某的哄骗之下独身前往云南勐海县，与此同时受洪某指使的张某光、曹某青也前往勐海，二人在提前准备好行凶工具之后，将李某月诱骗至勐海县普洱茶公园内将她残忍杀害。\n李某月失联后，联系女儿未果的李胜在女儿男友洪某的陪伴下报警。就在家人朋友寻找李某月期间，洪某曾在朋友中散布李某月拿走了他几万块钱后，吵架离开的消息。\n2020年8月4日，勐海县警方通报，经缜密侦查，发现失联女大学生李某月的男友洪某（男，24岁，江苏南京人）等有重大作案嫌疑。8月3日，勐海警方会同南京警方在南京市将洪某、张某光（男，21岁，江苏宿迁人）、曹某青（男，20岁，江苏南京人）等犯罪嫌疑人抓获，并于当日在勐海县城郊外山林中找到了被掩埋的李某月尸体。警方初步查明，犯罪嫌疑人洪某与张某光、曹某青在南京合谋，张某光、曹某青前往勐海县于7月9日晚将李某月诱骗至该县城郊外的山林中杀害并埋尸。\n2020年9月，勐海县人民检察院通报称，该院2020年9月4日对犯罪嫌疑人洪某以涉嫌故意杀人罪、盗窃罪批准逮捕；对犯罪嫌疑人曹某青、张某光以涉嫌故意杀人罪批准逮捕；对犯罪嫌疑人祁某强以涉嫌盗窃罪批准逮捕。\n2022年1月28日上午，南京女大学生被害案在云南西双版纳州中级人民法院开庭。在27日的庭前会议上，李胜申请将刑事附带民事诉讼的赔偿金额从15万降为10万，并表明，获得赔偿不是目的，“我们坚决要求对其判处死刑，杀人偿命，严惩罪犯。”\n(本文来自澎湃新闻，更多原创资讯请下载“澎湃新闻”APP)",
+          "link": "https://www.thepaper.cn/newsDetail_forward_18876224",
+          "publishedOn": "2022-07-05T12:23:10.000Z",
+          "wordCount": 6178,
+          "title": "南京女大学生被害案将于7日一审宣判，其父拒绝对方高额赔偿金",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_18862051",
+          "author": null,
+          "description": "澎湃新闻记者 王露 张无为\n 来源：澎湃新闻\n                \n7月4日，外交部发言人赵立坚主持例行记者会。有记者提问，今天上午，美国驻华大使伯恩斯在一个论坛上称，希望中国外交部发言人不要再重复俄罗斯的宣传，指责北约发起了俄乌冲突，也不要再散布关于美国生物实验室的谎言了。外交部对此有何评论？\n赵立坚表示，一贯散布虚假信息和谎言的是美方，不是中方。中方始终从乌克兰问题的历史经纬和是非曲直出发，独立自主作出客观公正判断。\n赵立坚指出，关于美国海外生物实验室问题，包括在乌克兰设立生物实验室，有大量事实和依据，国际社会对此十分关切，美国有责任给世人一个交代。美国为何不开放德特里克堡及其海外生物实验室供国际独立核查？为何独家阻挡建立《禁止生物武器公约》核查机制？\n(本文来自澎湃新闻，更多原创资讯请下载“澎湃新闻”APP)",
+          "link": "https://www.thepaper.cn/newsDetail_forward_18862051",
+          "publishedOn": "2022-07-05T12:23:10.000Z",
+          "wordCount": 6182,
+          "title": "美大使希望中国外交部发言人不要指责北约发起俄乌冲突，外交部回应",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_18863866",
+          "author": null,
+          "description": "澎湃新闻记者 喻琰 实习生 苏莹\n 来源：澎湃新闻\n                \n\nPDD在此前的抖音视频中道歉，该视频目前已下线。(01:56)\n“我被起诉了，原因是我在直播间随口演唱了《向天再借五百年》，然后我就被起诉了，要求我赔偿10万块，我没有办法接受。”\n近日，用户名为“PDD”的游戏主播在某平台唱歌被歌曲原作者索赔10万元一事引发关注。\n对此，7月4日，《向天再借五百年》著作人、著名作曲家张宏光通过其学生胡世明向澎湃新闻（www.thepaper.can)回应称，目前张宏光和他都委托了律师团队，暂时不发表对此事最新的看法。“我们呼吁全社会重视知识产权的维护，维护全体音乐创作人的合法权益。”\n主播在直播间唱歌为何涉及侵权？索赔10万多吗？原创作者该如何维权？7月4日，澎湃新闻采访了律师及业内人士。\n业内人士：在直播间唱歌是商业行为\n“PDD”真名叫刘谋，之前是英雄联盟项目电子竞技选手，其后成为一位游戏主播。\n6月30日，“PDD”在直播中称，没想到因为在直播间随口唱歌而被索赔。直播平台上，“PDD”有1923.2万关注者。\n他在随后的道歉视频中称，“直播确实算商业用途……以后在唱歌前，一定要征得对方的同意。我愿意道歉，因为确实法律是这样规定的，如果需要赔偿，我也会积极配合。以后让我演奏什么歌曲，可能不太容易了。“\n7月4日，澎湃新闻注意到，在短视频平台上，“PDD”道歉的两则视频已经删除。澎湃新闻通过社交平台联系该博主，截至发稿前，未获得回应。\n相关资料显示，《向天再借五百年》由韩磊演唱，樊孝斌作词，张宏光作曲，该曲收录于韩磊2004年12月28日发行的专辑《帝王之声》中。该曲因为是电视剧《康熙王朝》的主题曲而广为人知。\n4日，《向天再借五百年》著作权人、著名作曲家张宏光通过其学生胡世明告诉澎湃新闻，索赔的金额并不重要，目前张宏光和他都委托了律师团队，暂时不发…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_18863866",
+          "publishedOn": "2022-07-05T11:53:04.000Z",
+          "wordCount": 6183,
+          "title": "法治课｜主播唱《向天再借五百年》被索赔，这样唱歌可能侵权",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_18879646",
+          "author": null,
+          "description": "华商头条\n \n                \n西安市政府新闻办定于2022年7月5日（星期二）17:00，在市政府新闻发布厅召开西安市新冠肺炎疫情防控工作新闻发布会（第76场）。邀请市卫健委、市疾控中心、长安区等单位有关负责同志参加，通报有关情况。\n为进一步减少人员流动，降低交叉感染风险，争取早日实现病例清零。经专家研判，西安市疫情防控指挥部决定自7月6日0时起，在全市实行7天临时性管控措施。\n（一）公众娱乐休闲场所（KTV、网吧、酒吧、棋牌室、剧本杀、密室逃脱、足浴店、洗浴中心、蒸拿房、茶馆等）、人员聚集经营性场所（健身房、体育馆、瑜珈馆和各类培训、中介机构等）、公共文化活动场所（室内景点、文化馆、图书馆、博物馆、影剧院等）和农村集贸市场暂停营业1周。监所、福利院、养老机构等特殊场所封闭管理。\n（二）全市各餐饮单位（含饮品店、小吃店、早餐店等，不含宾馆、单位内部食堂）暂停堂食1周，严格落实扫码登记等制度，可提供到店自取、网络或电话等外卖订餐，实施“无接触式”配送服务。\n（三）严控人员聚集，1周内暂不举办大型会议、各类线下培训，严控群体性活动。实行“喜事缓办、丧事简办、宴会不办”。所有宗教活动场所（含民间信仰场所）暂时关闭，暂停一切宗教活动。\n（四）中小学、幼儿园提前放假，高校实行封闭管理，培训机构暂停营业1周。\n（五）全市所有党政机关、企事业单位、小区、公共场所、交通工具、室外景点、餐饮单位（外卖）、商超市场等场所要严格落实扫码、测温、规范佩戴口罩、通风消毒等措施。\n7天临时性管控措施是为了尽可能让社会静下来，减小社会流动性，快速找出潜在的风险源，降低交叉感染的风险。由于奥密克戎变异株传染性更强，传播速度更快，有一些感染者没有症状或症状不典型，因此传播过程中也更为隐匿。我们必须和时间、病毒赛跑，跑赢病毒的传播速度，防范一切可能的风险和隐患，坚决避免造成社区传播和暴发。暂时的“静”是为了尽快“动”，尽快让市民朋友安心、放心的“动”。\n(本文来自澎湃新闻，更多原创资讯请下载“澎湃新闻”APP)",
+          "link": "https://www.thepaper.cn/newsDetail_forward_18879646",
+          "publishedOn": "2022-07-05T10:23:04.000Z",
+          "wordCount": 6178,
+          "title": "西安6日起实施七天临时性管控措施，公共场所暂停营业、暂停堂食",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_18863746",
+          "author": null,
+          "description": "国家发展改革委\n \n                \n针对近期生猪价格出现过快上涨的情况，国家发展改革委价格司组织行业协会、部分养殖企业及屠宰企业召开会议，深入分析生猪市场供需和价格形势，研判后期价格走势，研究做好生猪市场保供稳价工作。有关方面分析认为，近期国内生猪价格过快上涨，重要原因是市场存在非理性的压栏惜售和二次育肥等现象，部分媒体特别是自媒体捏造散布涨价信息、渲染涨价氛围，短期内加剧了市场惜售情绪；目前生猪产能总体合理充裕，加之消费不旺，生猪价格不具备持续大幅上涨的基础；盲目压栏和二次育肥可能导致后期集中出栏、价格再次快速下跌，从而造成市场价格大起大落，反而不利于企业正常生产经营和行业长期健康发展。\n参会代表一致表示，将加强行业自律，带头做好生猪市场保供稳价工作，保持正常出栏节奏、不压栏囤货；同时建议国家采取积极措施引导市场理性交易，适时投放猪肉储备给市场“降温”，并加强市场监管，特别是严厉打击故意渲染涨价氛围、制造恐慌情绪的行为。\n会上，国家发展改革委价格司表示，国家一直高度关注生猪猪肉市场价格变化，努力防范价格大幅波动，维护市场平稳运行；要求大型养殖企业带头保持正常出栏节奏、顺势出栏适重育肥生猪，不盲目压栏，提醒企业不得囤积居奇、哄抬价格，不得串通涨价；明确表示将适时采取储备调节、供需调节等有效措施，防范生猪价格过快上涨，并会同有关部门加强市场监管，严厉惩处捏造散布涨价信息、哄抬价格等违法违规行为，维护正常市场秩序，促进行业长期健康发展。\n(本文来自澎湃新闻，更多原创资讯请下载“澎湃新闻”APP)\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.fun",
+          "link": "https://www.thepaper.cn/newsDetail_forward_18863746",
+          "publishedOn": "2022-07-05T08:53:04.000Z",
+          "wordCount": 6177,
+          "title": "国家发改委：适时采取储备调节等措施，防范生猪价格过快上涨",
+          "imageUrl": null
+        },
         {
           "id": "https://www.thepaper.cn/newsDetail_forward_18868069",
           "author": null,
@@ -4276,6 +4346,96 @@
       "feedUrl": "https://www.nationalreview.com/feed/",
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1256924",
+          "author": "Diana Glebova",
+          "description": "The governor plans on using his war chest to travel and campaign on behalf of Republican candidates asking for his support before the midterm elections in November.",
+          "link": "https://www.nationalreview.com/news/youngkin-works-to-build-national-profile-ahead-of-potential-white-house-run/",
+          "publishedOn": "2022-07-05T16:17:02.000Z",
+          "wordCount": 4018,
+          "title": "Youngkin Works to Build National Profile Ahead of Potential White House Run",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2021/11/election-day-2021-49.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1256817",
+          "author": "Diana Glebova",
+          "description": "Griner faces up to ten years in Russian prison.",
+          "link": "https://www.nationalreview.com/news/basketball-star-brittney-griner-sends-letter-to-white-house-from-russian-prison-im-terrified-i-might-be-in-here-forever/",
+          "publishedOn": "2022-07-05T14:45:12.000Z",
+          "wordCount": 4420,
+          "title": "Basketball Star Brittney Griner Sends Letter to White House from Russian Prison: ‘I’m Terrified I Might Be in Here Forever’",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/07/Brittney-Griner.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1256713",
+          "author": "Diana Glebova",
+          "description": "The shooting left six dead and dozens injured.",
+          "link": "https://www.nationalreview.com/news/police-arrest-suspect-in-deadly-chicago-shooting-after-finding-dna-evidence-on-rifle/",
+          "publishedOn": "2022-07-05T12:43:36.000Z",
+          "wordCount": 4313,
+          "title": "Police Arrest Suspect in Deadly Chicago Shooting after Finding DNA Evidence on Rifle",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/07/Chicago-Shooter-Robert-Crimo.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1253646",
+          "author": "Alexandra DeSanctis",
+          "description": "My writing is just one example of what this publication has done in support of the pro-life cause for decades.",
+          "link": "https://www.nationalreview.com/2022/07/grateful-for-the-chance-to-defend-life/",
+          "publishedOn": "2022-07-05T10:30:47.000Z",
+          "wordCount": 4409,
+          "title": "Grateful for the Chance to Defend Life",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/06/alexandra-desanctis-portrait.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1253974",
+          "author": "Philip Thompson",
+          "description": "Intellectual-property rights are a vital component for innovation, not an unfair trade barrier.",
+          "link": "https://www.nationalreview.com/2022/07/the-wtos-strike-against-u-s-intellectual-property-and-whats-next/",
+          "publishedOn": "2022-07-05T10:30:42.000Z",
+          "wordCount": 5202,
+          "title": "The WTO’s Strike against U.S. Intellectual Property — and What’s Next",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2021/05/pfizer-vaccine-melbourne.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1254202",
+          "author": "Jimmy Quinn",
+          "description": "One banner displayed behind saluting employees said: ‘Victory! Huawei, Victory! Victory! Victory!’",
+          "link": "https://www.nationalreview.com/2022/07/huawei-launches-new-surveillance-legion-in-creepy-military-style-rally/",
+          "publishedOn": "2022-07-05T10:30:39.000Z",
+          "wordCount": 4933,
+          "title": "Huawei Launches New Surveillance ‘Corps’ in Creepy Military-Style Rally",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2020/01/huawei-sign-britain.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1254253",
+          "author": "Rick Esenberg",
+          "description": "Governor Evers and other state elected officials have violated their oaths of office by deciding not to enforce a statute that prohibits most abortions.",
+          "link": "https://www.nationalreview.com/2022/07/wisconsin-democrats-abandon-the-rule-of-law-to-protect-abortion/",
+          "publishedOn": "2022-07-05T10:30:31.000Z",
+          "wordCount": 5314,
+          "title": "Wisconsin Democrats Abandon the Rule of Law to Protect Abortion",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/07/tony-evers-wisconsin.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1251546",
+          "author": "Stanley Goldfarb",
+          "description": "A lowering of standards and a greater focus on politics are threatening the next generation of doctors.",
+          "link": "https://www.nationalreview.com/2022/07/wokeism-is-corrupting-medical-education-and-endangering-patients/",
+          "publishedOn": "2022-07-05T10:30:24.000Z",
+          "wordCount": 4903,
+          "title": "Wokeism Is Corrupting Medical Education and Endangering Patients",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2020/12/doctor-stethoscope-pocket.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1253827",
+          "author": "Chip Roy",
+          "description": "Congressional Republicans need a bold energy-freedom agenda, not milquetoast environmentalism.",
+          "link": "https://www.nationalreview.com/2022/07/unleashing-american-energy-calls-for-bold-action/",
+          "publishedOn": "2022-07-05T10:30:21.000Z",
+          "wordCount": 5160,
+          "title": "Unleashing American Energy Calls for Bold Action",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/07/gas-prices-santa-monica-california.jpg?fit=2057%2C1200"
+        },
         {
           "id": "https://www.nationalreview.com/?p=1256446",
           "author": "John Fund",
