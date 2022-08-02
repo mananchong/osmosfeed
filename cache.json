@@ -6,6 +6,16 @@
       "siteUrl": "https://rweekly.org/atom.xml",
       "articles": [
         {
+          "id": "https://rweekly.org/2022-W31.html",
+          "author": null,
+          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Kelly Bodwin, with help from the R Weekly team members and contributors.\nHighlight\nRStudio rebrands as Posit\n{shinytest2}: For testing Shiny apps. (slides)\nOne Quarto tip a day\nInsights\nSeeing R help outside official sources\nHello Quarto RStudio::conf keynote slides\n\nOne Quarto tip a day\nWhy R users should be happy about the Posit rebrand\n12 ggplot extensions for snazzier graphics\nTranslating between {tidymodels} and {scikit-learn}\nImplications of R syntax in Intro Stats\nR in the Real World\nCoolbutuseless: Interactive graphics in R\n\nSeasonality in Time Series with Fourier transforms\nRecreating a Bubble Chart from The Economist\nR in Organizations\nRStudio rebrands as Posit\n\nR …",
+          "link": "https://rweekly.org/2022-W31.html",
+          "publishedOn": "2022-08-01T00:00:00.000Z",
+          "wordCount": 6002,
+          "title": "R Weekly 2022-W31 RStudio becomes Posit, {shinytest2}, Quarto tips!",
+          "imageUrl": "https://rweekly.org/public/facebook.png"
+        },
+        {
           "id": "https://rweekly.org/2022-W30.html",
           "author": null,
           "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Ryo Nakagawara, with help from the R Weekly team members and contributors.\nHighlight\n{nplyr} 0.1.0: A grammar of (nested) data manipulation.\nUpgrading rtweet\n{ggarchery}: Flexible segment geoms with arrows for ggplot2.\nInsights\nHeads up! Quarto is here to stay. Immediately combine R & Python in your next document\nThe ultimate guide to starting a Quarto blog\nUpgrading rtweet\nRobin Donatello Talks About Growing an R Community at a State University\nR in the Real World\nText Mining: Histories of Herodotus\nHillshade effects\n\nR in Organizations\n{a11ytables} 0.1.0: Generate stats spreadsheets for publication  that adhere to the latest guidance (June 2021) on releasing statistics in …",
@@ -52,6 +62,16 @@
       "feedUrl": "https://feedx.net/rss/shanghaishuping.xml",
       "siteUrl": "http://thepaper.cn",
       "articles": [
+        {
+          "id": "http://www.thepaper.cn/newsDetail_forward_19264789",
+          "author": null,
+          "description": "戎默\n 来源：澎湃新闻\n                \n\n《庾信诗赋选》，[北周]庾信著，谭正璧、纪馥华选注，古典文学出版社，1958年2月出版，199页，0.65元\n陶渊明《读山海经（精卫衔微木）》一首中，关于“刑天舞干戚”句，颇有争议，大多都集中在该句的异文之上，因其较早版本作“形夭无千岁”，然于义未安，宋人则据《山海经》校作“刑天舞干戚”，认为是用了《山海经》“刑天与帝争神，帝断其首，葬之常羊之山。乃以乳为目，以脐为口，操干戚以舞”的典故，意思较为明确，也符合《读山海经》的题目。这在洪迈的《容斋随笔》、周必大的《二老堂诗话》等书中都有所提及。此后，或主古本，或从意思，聚讼纷纷，莫衷一是。但“刑天舞干戚”的版本，因其意义显豁，终究还是略胜一筹，不少陶诗注本，尤其是普及类读本都选择了“刑天舞干戚”这一版本的异文。\n\n至于“刑天舞干戚”的意思，则无甚争议，各注本的注解也都差不多，几无异辞：即用《山海经》中典故，刑天在与黄帝的争斗中失败，被砍去头颅，以乳房与肚脐为眼口，依然舞动着干戚——一般的注释都解释作盾牌与斧子——以示依旧保持着战斗意志，比如龚斌先生的《陶渊明集校笺》就说：“刑天虽无首，犹舞干戚以斗。”一些后世流传的神话故事里，刑天也被描绘为无首但却依旧挥舞着斧与盾与黄帝争斗的斗士。\n\n然而，“干戚”一词，被解释为单纯的盾牌、斧子之类的武器，却并非是毫无瑕疵，无懈可击的。《礼记·乐记》：“干戚之舞，非备乐也。”《明堂位》：“朱干玉戚,冕而舞《大武》。”郑注：“朱干，赤大盾也；戚，斧也；冕，冠名也。《大武》，周舞也。”又《文王世子》：“大乐正学舞干戚。”孙希旦集解：“干戚，《大武》之舞也。”由此可知，周代乐舞中，有一种《大武》舞，舞者即执干戚，其中的“干戚”是“朱干玉戚”，即作为舞具，象征性的盾与斧。照此解释，刑天之“舞干戚”，并非是真正拿着武器战斗了。\n\n但《礼记》中各…",
+          "link": "http://www.thepaper.cn/newsDetail_forward_19264789",
+          "publishedOn": "2022-08-02T05:02:13.000Z",
+          "wordCount": 2564,
+          "title": "戎默｜&ldquo;刑天舞干戚&rdquo;新解&mdash;&mdash;兼谈《庾信诗赋选》",
+          "imageUrl": null
+        },
         {
           "id": "http://www.thepaper.cn/newsDetail_forward_19254605",
           "author": null,
@@ -479,6 +499,66 @@
       "feedUrl": "https://feedx.net/rss/thepaper.xml",
       "siteUrl": "http://thepaper.cn",
       "articles": [
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_19278121",
+          "author": null,
+          "description": "福建省军区政治工作局官方微博@东南前哨\n \n                \n炮声隆隆，硝烟四起！近日，福建省军区在闽南某海域组织民兵防空分队实弹射击，全面检验复杂条件下整体作战能力。我们严阵以待，听令而战！\n(本文来自澎湃新闻，更多原创资讯请下载“澎湃新闻”APP)",
+          "link": "https://www.thepaper.cn/newsDetail_forward_19278121",
+          "publishedOn": "2022-08-02T07:23:11.000Z",
+          "wordCount": 2562,
+          "title": "严阵以待，听令而战！福建省军区在闽南某海域组织防空实弹射击",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_19276597",
+          "author": null,
+          "description": "央视新闻\n \n                \n当地时间8月1日，拜登宣布美国于上周六成功对阿富汗喀布尔一处“基地组织目标”实施无人机行动，并击毙了“基地组织”头目艾曼·扎瓦希里。扎瓦希里在1998年加入拉登领导的“基地组织”。作为该组织的“首席战略家”，扎瓦希里是绝大多数恐怖袭击的最高策划者，其中包括1998年美国驻坦桑尼亚和肯尼亚大使馆爆炸案，以及2001年震惊世界的9·11恐怖袭击。在本·拉登死后，扎瓦希里于2011年6月被任命为“基地组织”头目。\n(本文来自澎湃新闻，更多原创资讯请下载“澎湃新闻”APP)",
+          "link": "https://www.thepaper.cn/newsDetail_forward_19276597",
+          "publishedOn": "2022-08-02T06:23:10.000Z",
+          "wordCount": 2562,
+          "title": "拜登宣布美国击毙阿富汗&ldquo;基地组织&rdquo;头目扎瓦希里",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_19278805",
+          "author": null,
+          "description": "澎湃新闻记者 南博一\n 来源：澎湃新闻\n                \n\n美国众议院议长佩洛西。澎湃影像  资料图\n根据飞行航班信息平台FlightRadar24数据，据信是美国众议院议长佩洛西搭乘的C-40C专机（呼号SPAR19）于北京时间8月2日9点48分从新加坡巴耶利峇空军基地起飞，并于北京时间10点33分抵达马来西亚苏丹阿卜杜尔·阿齐兹·沙赫机场。\n据FlightAware航班信息网站数据，SPAR19此次的飞行时间约为45分钟。资料显示，苏丹阿卜杜尔·阿齐兹·沙赫机场位于马来西亚雪兰莪州莎亚南西北部，旧名梳邦国际机场，该机场现在主要供私人飞机、一些廉价航空公司的班机和马来西亚皇家空军起降用。\n此前，佩洛西据信乘坐呼号同样为SPAR19的C-40C专机于8月1日早晨抵达新加坡。\n(本文来自澎湃新闻，更多原创资讯请下载“澎湃新闻”APP)\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.fun",
+          "link": "https://www.thepaper.cn/newsDetail_forward_19278805",
+          "publishedOn": "2022-08-02T05:53:13.000Z",
+          "wordCount": 2566,
+          "title": "航班追踪网站：佩洛西乘坐的航班SPAR19已抵达马来西亚",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_19269339",
+          "author": null,
+          "description": "徐德智/央视新闻\n \n                \n中国从8月1日起担任联合国安理会8月轮值主席。1日上午，中国常驻联合国代表张军大使主持安理会内部磋商，通过了安理会本月工作计划。\n根据计划，安理会8月将审议也门、叙利亚、利比亚、中东巴勒斯坦、反恐等多个问题。在中方倡议下，安理会还将围绕“维护共同安全”“加强非洲国家能力建设”举行两场专题会议。\n联合国安理会主席由安理会15个成员国轮流担任，为期1个月。中国上一次担任安理会主席是2021年5月。\n(本文来自澎湃新闻，更多原创资讯请下载“澎湃新闻”APP)",
+          "link": "https://www.thepaper.cn/newsDetail_forward_19269339",
+          "publishedOn": "2022-08-02T04:53:05.000Z",
+          "wordCount": 2561,
+          "title": "中国担任联合国安理会8月轮值主席",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_19276622",
+          "author": null,
+          "description": "中国常驻联合国代表团网站\n \n                \n8月1日，安理会轮值主席、中国常驻联合国代表张军大使就安理会8月工作向联合国主流媒体吹风时，就台湾问题、美国众议长佩洛西访台表明立场。\n张军大使表示，台湾是中国领土不可分割的一部分。 一个中国原则是我们同任何国家发展关系的红线， 我们决不允许 “越线”行为。我们坚决反对“台独”分裂和外部势力干涉，绝不为任何形式的“台独”势力留下任何空间。 \n张军大使指出，关于美国众议长佩洛西访问台湾，中方近期已多次向美方表明严重关切和坚决反对。这样的访问显然是危险的、挑衅性的，将向“台独”分裂势力发出严重错误信号，严重违反一个中国原则，严重侵犯中国主权和领土完整，严重破坏台海和平稳定，严重破坏中美关系。中方严阵以待，如果美方一意孤行，中方必将采取坚定有力措施，捍卫国家主权和领土完整，由此造成的一切严重后果应由美方负责。\n张军大使表示，台湾问题事关中国的核心利益，始终是中美关系中最重要、最敏感的问题。我们注意到，拜登总统7月28日同习近平主席通话时重申，美国的一个中国政策没有改变也不会改变，美方不支持台湾 “独立”。我们敦促美方说到做到，切实恪守一个中国原则和中美三个联合公报规定，同中方一道坚定反对和遏制“台独”。\n针对有记者将1997年时任美国众议长访台同佩洛西拟访台相提并论，张军大使指出，美方曾经犯过的错误不能成为另一个错误的借口。近年来，受外部势力影响，台湾岛内形势发生消极变化，“台独”势力在错误的方向上越走越远。如果不对“台独”势力及时遏阻，局势很可能走向失控。在维护国家主权、领土完整方面，中国政府和人民意志坚定，我们会采取一切必要措施。\n(本文来自澎湃新闻，更多原创资讯请下载“澎湃新闻”APP)",
+          "link": "https://www.thepaper.cn/newsDetail_forward_19276622",
+          "publishedOn": "2022-08-02T03:53:05.000Z",
+          "wordCount": 2568,
+          "title": "中国常驻联合国代表张军：佩洛西访问台湾是危险的挑衅行为",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_19261922",
+          "author": null,
+          "description": "卞立群/中新网\n \n                \n\n资料图：李章洙。图片来源：Osports全体育图片社\n中超新赛季开始前的备战期里，一个熟悉的名字回到中国球迷的视野——李章洙执教深圳队。这是他执教的第7支中国球队。\n对于再次来到中国执教，李章洙的太太十分不理解，甚至有些指责他说：“都这个年纪了，又不是让你出去赚钱的，在家里边看看孙子孙女多好。”\n李章洙觉得如果错过了，可能就再也没有这样的机会，但孙子和孙女可以过一段时间再看。他还是割舍不掉做了一辈子的足球。\n对于即将年满66岁的李章洙来说，深圳队大概率是他教练生涯的最后一站，他也觉得要开始慢慢开始做一些退休的准备了。\n“但是未来的事谁能说得准呢？”李章洙话锋一转。\n那个24年前来到中国仅一个月就想反悔的李章洙，确实也不会想到，能和中国足球结下这么久的缘分。\n李章洙。图片来源：Osports全体育图片社\n回归\n“累了，太累了，不是一般的累。”李章洙用中文半开玩笑地吐槽道。\n接受中新网记者专访前，李章洙刚刚参加完了球队的会议，已经是将近晚上9点。\n由于第一阶段中超联赛采用赛会制，密集赛程以及封闭的环境之下，压力和工作强度要远高于正常的主客场比赛。\n李章洙有时也不理解自己，为什么一把年纪了，还要做主教练。\n中超深圳队主帅李章洙。图片来源：IC photo\n回到中国之前，韩国足协和一些韩国的俱乐部也曾邀请过李章洙出任一些职务，正在犹豫之际，中超联赛的深圳队向他抛出橄榄枝。\n李章洙认为还是主教练更适合自己，他也觉得，如果错过了这次机会，可能之后也不会再有了。\n“还是热爱吧，毕竟我一生都投给了足球，已经做了50多年。”他说。\n深圳队是李章洙在中国执教的第7支球队。图片来源：IC photo\n一个月\n教练生涯初期，李章洙曾在韩国城南一和俱乐部从助理教练一路成为球队主教练，一待就是8年。\n从球队离任之后，李章洙觉得自己在执教方面有所欠…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_19261922",
+          "publishedOn": "2022-08-02T00:53:04.000Z",
+          "wordCount": 2568,
+          "title": "李章洙来中国执教15年了：球员没有危机感，也没有责任感",
+          "imageUrl": null
+        },
         {
           "id": "https://www.thepaper.cn/newsDetail_forward_19261805",
           "author": null,
@@ -5198,146 +5278,6 @@
           "wordCount": 2504,
           "title": "重大事故！日本发生大规模通信故障，紧急电话也无法拨打",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_18853359",
-          "author": null,
-          "description": "澎湃新闻记者 钟煜豪\n 来源：澎湃新闻\n                \n新任陕西省委常委李春临的分工已明确。\n据《陕西日报》报道，7月2日，省委书记刘国中到西安市航天基地疫情防控指挥部了解应急处置进展。省长赵一德讲话。省委常委、常务副省长王晓，省委常委、西安市委书记方红卫，省委常委、省委秘书长李春临，西安市市长李明远参加。\n李春临\n李春临，男，汉族，1968年2月生，黑龙江巴彦人，在职研究生学历，中共党员。\n他曾任陕西省发改委副主任，榆林市委常委、副市长，榆林市长等职，于2021年4月任榆林市委书记，今年5月30日，新当选为陕西省委常委。\n(本文来自澎湃新闻，更多原创资讯请下载“澎湃新闻”APP)",
-          "link": "https://www.thepaper.cn/newsDetail_forward_18853359",
-          "publishedOn": "2022-07-03T18:53:04.000Z",
-          "wordCount": 2506,
-          "title": "新任陕西省委常委李春临已任省委秘书长",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_18853961",
-          "author": null,
-          "description": "澎湃新闻首席记者 陈斯斯\n 来源：澎湃新闻\n                \n7月3日下午5:00，上海市政府新闻办公室组织召开上海市新冠肺炎疫情防控工作第219场新闻发布会。市卫生健康委副主任赵丹丹、普陀区副区长王珏出席，介绍有关情况，并回答记者提问。市政府新闻发言人尹欣主持新闻发布会。\n王珏介绍，今天，普陀区报告1例社会面筛查中发现的阳性感染者，我区立即启动疫情防控应急处置机制，并全面开展流行病学调查、风险人员排查、环境采样检测、隔离管控和医疗救治，落实环境终末消毒等防疫措施。具体情况如下。\n感染者：女性，37岁，居住于普陀区长风新村街道光复西路2077弄。在常态化核酸检测时发现结果异常，经疾控部门复核为阳性，诊断为无症状感染者。目前，该阳性感染者已转运至定点医疗机构隔离医学观察。\n流行病学调查显示，该阳性感染者此前14天活动轨迹除居住地外，主要涉及普陀区兰溪路148号耕耘茶室，宝山区殷高西路333号长江国际生活广场东区二楼老炉家木炭烤肉店、殷高西路588号一楼荣伟食品店。对阳性感染者的居住地和涉及场所，均已落实环境终末消毒等防控措施。\n王珏表示，对划定的普陀区高风险区和中风险区，目前均已落实相关封控措施，并开展各项服务保障。\n一是严格落实中、高风险区管理。严格按照国家第九版防控方案，对相关风险人员落实区域协查和管控措施，对风险区域出入口进行管控。对高风险区的居民实行“足不出户、上门服务”，对中风险区的茶室进行封闭管理，并按要求对风险人员开展管控和核酸检测。\n二是加强生活服务保障。在物资保供方面，提供生活必需品的“集采集配”服务，由小区内工作人员、志愿者无接触式配送。在就医配药方面，社区已排摸各类需求，通过配药小组解决居民急需药品，并为有外出就医需求的居民及时联系定点医院，通过专车进行闭环转运就医，畅通就医就诊渠道。\n三是重点关心好特殊人群。我区已经对相关小区内的独居高龄老人、残疾人、孕产妇、血透病人等有定期医疗需求人员，以及中高考学生等特殊人群进行排摸，管控期间将根据实际情况，提供生活服务、紧急就医、外出考试等各类保障服务。经初步排摸，相关小区内共有20名中、高考学生，普陀区将按照市教委和考试院要求，分类做好服务，保障考生在特殊的情况下安全、顺利完成考试。\n(本文来自澎湃新闻，更多原创资讯请下载“澎湃新闻”APP)",
-          "link": "https://www.thepaper.cn/newsDetail_forward_18853961",
-          "publishedOn": "2022-07-03T17:23:14.000Z",
-          "wordCount": 2506,
-          "title": "上海公布新增社会面感染者行动轨迹：住在普陀区，去过宝山区",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_18851962",
-          "author": null,
-          "description": "新华社\n \n                \n习近平总书记近日在湖北省武汉市考察时强调，新冠肺炎疫情是一场大考。我们坚持人民至上、生命至上，坚持外防输入、内防反弹，坚持动态清零，因时因势不断调整防控措施，最大程度保护了人民生命安全和身体健康。我们有信心统筹好疫情防控和经济社会发展工作，争取今年我国经济发展达到较好水平。总书记的重要指示，为我们注入强大信心和力量。\n新冠肺炎疫情发生以来，在以习近平同志为核心的党中央坚强领导下，我们坚持“外防输入、内防反弹”总策略和“动态清零”总方针，全国上下众志成城、勠力同心，疫情防控取得重大战略成果。实践证明，党中央确定的疫情防控方针政策是正确的、有效的，必须毫不动摇坚持。\n当前，疫情还没有见底，外防输入、内防反弹压力还很大。坚持就是胜利。要克服麻痹思想、厌战情绪、松劲心态，抓实抓细疫情防控各项工作，同时要尽可能推动经济平稳健康发展，不折不扣贯彻落实党中央各项决策部署，切实做到“疫情要防住、经济要稳住、发展要安全”。\n做好疫情防控工作，要进一步增强坚持“动态清零”总方针的思想和行动自觉。我国人口基数大，如果搞“集体免疫”、“躺平”之类的防控政策，后果不堪设想。实施动态清零政策，是党中央从党的性质宗旨出发、从我国国情出发确定的，宁可暂时影响一点经济发展，也不能让人民群众生命安全和身体健康受到伤害，尤其是要保护好老人、孩子。如果算总账，我国防疫措施是最经济的、效果最好的，不仅最大程度保护了人民生命安全和身体健康，更为经济社会发展提供了坚实基础。“动态清零”总方针符合国情、尊重科学、体现规律，在党的坚强领导下，在亿万人民的共同努力下，我们有能力也有实力实行动态清零政策，直至取得最后胜利。\n社区是抗击疫情的重要防线。在应对疫情的斗争中，无论是应急状态防控还是常态化防控，社区都发挥了十分重要的作用。实践表明，有效的疫情防控要靠早发现、快处置，靠广大人民群众众志成城，靠社区这个重要基础。完善社区常态化防控措施，发现疫情后果断应对，毫不迟疑，采取科学严格的管控措施，不断提高科学防控、精准防控水平，才能坚决守住社区这道防线，为做好疫情防控工作打下坚实基础。\n统筹好疫情防控和经济社会发展，要坚持以人民为中心，在攻坚克难中开拓前进。各级党委和政府要想办法帮助人民群众解决实际困难，确保经济发展和人民群众生产生活少受影响。要坚持问题导向，积极回应社会关切，解决好人民群众的急难愁盼问题，多做暖人心、聚民心、强信心的实事，汇聚起心往一处想、劲往一处使的强大正能量。\n风物长宜放眼量，奋楫扬帆正当时。我们坚信，有以习近平同志为核心的党中央坚强领导，有习近平新时代中国特色社会主义思想的科学指引，有14亿多中国人民的团结奋斗，就一定能统筹好疫情防控和经济社会发展工作，争取今年我国经济发展达到较好水平，以实际行动迎接党的二十大胜利召开。\n(本文来自澎湃新闻，更多原创资讯请下载“澎湃新闻”APP)",
-          "link": "https://www.thepaper.cn/newsDetail_forward_18851962",
-          "publishedOn": "2022-07-03T16:23:06.000Z",
-          "wordCount": 2504,
-          "title": "新华社评论员：坚定信心，统筹好疫情防控和经济社会发展",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_18852015",
-          "author": null,
-          "description": "澎湃新闻记者 周頔 彭艳秋\n 来源：澎湃新闻\n                \n7月2日晚，一份国家发改委拟于7月4日召开会议分析近期生猪市场供需和价格形势的会议通知在网络流传。该会议通知发给相关协会和养殖企业等。通知称，将提醒相关企业保持正常出栏节奏、避免盲目压栏，提出不得囤积居奇、哄抬价格的要求，研究保持生猪市场平稳运行的相关措施。\n澎湃新闻记者从业内人士处核实确有上述会议通知。他表示，目前市场不缺猪，但过度压栏导致近期价格过快上涨，后期8-9月集中出栏又很可能导致价格快速下跌，不利于行业平稳健康发展。\n“其实，目前对于生猪猪肉，国家是有公开预案的，本质上是既要托底、防价格过低，也要限高、防价格过高。”上述业内人士进一步指出，从目前母猪、肥猪、仔猪的存栏量看，都很充裕，价格没有大幅上涨基础。\n从近一年的全国生猪（外三元）市场价格来看，根据国家统计局数据，2021年5月中旬至10月上旬期间，除了7月上旬价格环比上涨，其他时段基本为环比下跌，从5月中旬的18.5元/公斤下跌到10月上旬的10.5元/公斤，下降了43%。10月中旬开启了一波反弹，这波反弹至11月下旬的18.2元/公斤结束，此后一路继续下跌，除了2月下旬有小幅回调，这轮下跌至3月中旬的11.9元/公斤结束，然后开启了新一轮的上涨至今。6月中旬的16.4元/公斤与3月中旬的11.9元/公斤相比，上涨了37.8%。从国家统计局的数据来看，生猪（外三元）的价格已连续三个月上涨。\n据农业农村部监测，7月1日，全国农产品批发市场猪肉平均价格为24.55元/公斤，与上周五（6月24日）的21.75元/公斤相比，上涨12.9%。从生猪价格来看，6月27日至7月1日，生猪价格呈强势拉涨走势，上涨15.2%。根据中国养猪网的数据，7月1日，生猪（外三元）均价为20.53元/公斤，与上周五（6月24日）的17.82元/公斤相比，每公斤上涨2.71元。\n据卓创资讯监测，本周（6月24日-6月30日）周内猪价快速上涨，养殖端压栏惜售仍存，屠宰企业收购不畅。需求方面，因肉价上涨后走货欠佳，屠宰企业订单减少，导致开工率回落，且整体低于上周。周内平均开工率27.93%，环比下跌2.63个百分点。\n(本文来自澎湃新闻，更多原创资讯请下载“澎湃新闻”APP)",
-          "link": "https://www.thepaper.cn/newsDetail_forward_18852015",
-          "publishedOn": "2022-07-03T15:23:04.000Z",
-          "wordCount": 2508,
-          "title": "国家发改委拟于4日召集大型猪企等开会，分析近期生猪市场形势",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_18852112",
-          "author": null,
-          "description": "@中山大学\n \n                \n7月2日，一名网友发表长文称，中山大学法学院某杨姓教授以恋爱为名与多名女性发生不正当关系，自己就是其中一名受害者。\n@中山大学 7月3日午间发布情况通报：2日晚间，网上出现质疑我校法学院某教师师德师风的网帖。学校已第一时间按程序启动调查，调查期间暂停该教师的教学工作。\n(本文来自澎湃新闻，更多原创资讯请下载“澎湃新闻”APP)",
-          "link": "https://www.thepaper.cn/newsDetail_forward_18852112",
-          "publishedOn": "2022-07-03T13:23:04.000Z",
-          "wordCount": 2505,
-          "title": "中山大学：对法学院某教师启动师德师风调查，暂停其教学工作",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_18851660",
-          "author": null,
-          "description": "“健康安徽HealthyAnhui”微信公号\n \n                \n2022年7月2日0-24时，安徽省报告新增确诊病例61例（宿州市灵璧县1例、泗县60例），无新增疑似病例，新增无症状感染者231例（宿州市灵璧县3例、泗县228例）。\n6月26日至7月2日24时，安徽省共报告确诊病例105例，其中境外输入1例，宿州市泗县103例、灵璧县1例；共报告无症状感染者467例。\n(本文来自澎湃新闻，更多原创资讯请下载“澎湃新闻”APP)\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.fun",
-          "link": "https://www.thepaper.cn/newsDetail_forward_18851660",
-          "publishedOn": "2022-07-03T12:53:05.000Z",
-          "wordCount": 2504,
-          "title": "安徽昨日新增61+231，其中泗县60+228",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_18848133",
-          "author": null,
-          "description": "吴焰 李俊杰/人民日报客户端安徽频道\n \n                \n2022年7月1日0-24时，安徽省报告新增确诊病例34例，均在宿州市泗县，新增无症状感染者101例中，宿州市泗县占了100例。一时间，泗县疫情、安徽疫情受到广泛关注。\n记者联系了正在泗县现场处置的安徽省、宿州市以及泗县的新冠肺炎疫情防控应急综合指挥部相关负责人，他们介绍了有关泗县疫情处置的一些最新情况。\n全县已静态管理，全力排除外溢扩散风险\n泗县是安徽宿州市的市辖县。位于安徽的东北门户，与江苏的徐州、宿迁接壤，省际间的人员来往较多。此轮疫情的开始是发生在6月26日。近两天，连续出现确诊病例和无症状感染者连续过百情况。\n省疫情防控应急综合指挥部办公室负责人告诉记者，截至7月2日12时，泗县此次疫情共报告确诊病例（轻型）45例、无症状感染者230例。宿州其他4个区县今日（2日）暂时未有新增报告，继续维持前几天的零星病例。\n据他介绍，从目前看，本轮疫情总体可控。鉴于泗县疫情初期源头不清、底数不明，为阻断传播链，当地已第一时间实施社会面管控，全县静态管理、人员足不出户，6月26日发现疫情并管控后未出现外溢。对涉及外地的密接、次密接者等风险人员，第一时间发出协查函。\n该负责人介绍，安徽全省各地已实行联防联控，紧急排查了自6月10日以来有泗县旅居史人员9136人，其中合肥、濉溪、固镇、灵璧等地零星关联感染及其密接、次密接者均得到有效管控，其他相关人员及区域多轮核酸检测均为阴性。据此可以判断，外溢扩散风险基本排除。\n提级现场指挥处置，调动全省力量支援泗县打好突发疫情歼灭战\n6月26日泗县疫情发生后，安徽省委、省政府高度重视，郑栅洁书记、王清宪省长第一时间作出批示安排、全程调度部署，王清宪省长、刘惠常务副省长均在现场指挥处置。省市县立即启动应急响应，提级调度、扁平化管理，并组织全省各地联防联控。国家卫生健康委副主…",
-          "link": "https://www.thepaper.cn/newsDetail_forward_18848133",
-          "publishedOn": "2022-07-03T12:53:05.000Z",
-          "wordCount": 2505,
-          "title": "安徽泗县：6月26日发现疫情并管控后未出现外溢",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_18848128",
-          "author": null,
-          "description": "郑澍、赵菁/央视新闻客户端\n \n                \n2022年7月1日，汕头市南澳县一艘搭乘10名渔民的渔船回港避风，按规定进行新冠病毒核酸检测，其中王某等8人初筛结果异常。随后，汕头市、南澳县两级新冠肺炎疫情防控指挥部立即启动应急处置机制，将王某等8名渔民及接触人员实施管控并同步开展流调，对相关重点场所进行管控及环境消杀。\n经汕头市疾控中心复核，王某等8名渔民核酸检测结果为阳性，同船另外2名渔民及渔船环境样本核酸检测结果为阴性。目前王某等8名渔民已闭环转运至专用隔离场所进行隔离医学观察，其他人员已按要求实施集中隔离。\n结合流行病学史、临床表现和实验室检测结果，专家组诊断王某等8名渔民为境外输入无症状感染者。\n王某等8名阳性渔民活动轨迹如下：\n3月22日：乘同一艘渔船出海作业；\n6月30日：凌晨4时左右，返回抵达南澳县云澳镇渔港，当天渔民均未上岸；\n7月1日：\n8:30-9:30，前往云澳镇卫生院进行核酸检测；\n9:30-10:50，先后前往南澳县云澳镇云澳生活市场、华兴商行、楚林商行、云吉商行、功夫磨坊、云澳镇环港路3号小电器店、云澳镇南台村卫生站、姑嫂水果店等场所购物；\n10:50，返回船上后未再外出。\n请与上述活动轨迹交集的人员，主动做好个人防护，并立即向所在村（社区）、单位或所住酒店报告，并主动配合落实相关健康管理措施。\n(本文来自澎湃新闻，更多原创资讯请下载“澎湃新闻”APP)\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.fun",
-          "link": "https://www.thepaper.cn/newsDetail_forward_18848128",
-          "publishedOn": "2022-07-03T12:53:05.000Z",
-          "wordCount": 2503,
-          "title": "广东汕头：新增8例核酸检测阳性病例",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_18848177",
-          "author": null,
-          "description": "刘旭/央视新闻客户端\n \n                \n据美国《国会山报》7月2日报道，在美国联邦最高法院上周推翻“罗诉韦德案”的判决后，俄亥俄州的一名10岁女孩在该州被拒绝堕胎。\n据报道，俄亥俄州的一名负责治疗受虐待儿童的医生接诊了一名怀孕六周零三天的10岁患者，但由于俄亥俄州的堕胎禁令在美国联邦最高法院发布裁决后迅速生效，这名医生不得为该患者堕胎。这名患者现在正前往印第安纳州进行堕胎。\n(本文来自澎湃新闻，更多原创资讯请下载“澎湃新闻”APP)",
-          "link": "https://www.thepaper.cn/newsDetail_forward_18848177",
-          "publishedOn": "2022-07-03T12:53:05.000Z",
-          "wordCount": 2503,
-          "title": "&ldquo;罗诉韦德案&rdquo;被推翻后，美国俄亥俄州10岁女孩被拒绝堕胎",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_18854382",
-          "author": null,
-          "description": "澎湃讯\n 来源：澎湃新闻\n                \n7月3日下午，香港作家沈西城在社交网站上表示，著名作家倪匡已离世。随后，香港媒体报道了倪匡过世的消息。\n最先向社会发布倪匡死讯的是，倪匡好友沈西城\n沈西城与倪匡私交甚笃，曾著有《妙人倪匡》《金庸与倪匡》《我看倪匡科幻》等书。\n倪匡\n倪匡，原名倪聪，字亦明，1935年5月30日出生于上海，籍贯浙江宁波。他与金庸、黄霑和蔡澜并称为“香港四大才子”。\n1957年倪匡到香港，做过工人、校对、编辑，自学成才，成为专业作家。他写作面十分广阔，众体皆备，小说则包括侦探、科幻、神怪、武侠、言情各种，曾同时为12家报纸写连载。\n1962年，倪匡在金庸的鼓励下，开始用笔名“卫斯理”写小说。第一篇小说名为《钻石花》，在《明报》副刊连载。至第四篇小说《蓝血人》起，卫斯理系列小说正式走向科幻系列。\n倪匡的武侠小说以《六指琴魔》为代表， 想象奇特，也曾在金庸出国期间代写《天龙八部》连载。\n上世纪60年代末，武侠影片大行其道之际，倪匡转而从事剧本创作。十多年间，所写剧本不下数百部，代表作有张彻导演的《独臂刀》。1972年曾参与香港嘉禾功夫片《精武门》的编剧工作，为李小龙量身塑造了“陈真”这一经典形象。 2012年获得第31届香港金像奖终身成就奖。\n(本文来自澎湃新闻，更多原创资讯请下载“澎湃新闻”APP)",
-          "link": "https://www.thepaper.cn/newsDetail_forward_18854382",
-          "publishedOn": "2022-07-03T12:23:04.000Z",
-          "wordCount": 2506,
-          "title": "港媒：倪匡去世，终年87岁",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_18851946",
-          "author": null,
-          "description": "“健康江苏”微信公众号\n \n                \n7月2日0-24时，江苏新增本土确诊病例3例（南京市1例，徐州市2例，均在定点医院隔离治疗），新增本土无症状感染者56例（无锡市42例，徐州市11例，苏州市2例，盐城市1例，均在定点医院接受隔离医学管理）。\n新增境外输入确诊病例1例（新加坡输入，在南京市定点医院隔离治疗），新增境外输入无症状感染者3例。新增解除隔离医学管理的无症状感染者1例（境外输入）。\n新增确诊病例及无症状感染者详情由相关设区市发布。\n目前，在定点医院隔离治疗的确诊病例21例（本土12例，境外输入9例），接受隔离医学管理的无症状感染者143例（本土123例，境外输入20例）。\n(本文来自澎湃新闻，更多原创资讯请下载“澎湃新闻”APP)",
-          "link": "https://www.thepaper.cn/newsDetail_forward_18851946",
-          "publishedOn": "2022-07-03T11:23:03.000Z",
-          "wordCount": 2504,
-          "title": "江苏昨新增本土3+56，涉及无锡、徐州、南京、苏州、盐城",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_18851594",
-          "author": null,
-          "description": "经济日报\n \n                \n在视频平台B站（哔哩哔哩），发布视频的人被称为“UP主”。近日，B站试水内容付费，一位UP主上传了售价30元的首部10集付费作品，可粉丝们并不买账，甚至纷纷“脱粉”。这件事引发了网友对短视频是否该收费的讨论。\n对于此次事件，不能怪粉丝有抵触情绪。在目前B站已有会员机制的情况下，消费者为什么还要额外花钱呢？如果不给付费节目制定更高标准，难免会有“割韭菜”的嫌疑。这次粉丝对付费节目的不满主要有两方面原因：其一，节目内容偏娱乐，没有知识类节目的含金量高；其二，与长视频相比，无论是制作精良程度还是信息密度，短视频都要大打折扣，并不值得花钱。可见，在消费者心里，衡量短视频是否值得付费，关键还是内容为王。如果短视频内容缺乏专业性或独特性，就算“真爱粉”也不会盲目消费。\n不过，对内容付费的商业模式，消费者也不应一概排斥。应该看到，短视频创作者获取收益无非靠内容付费或广告。免费内容势必增加广告，从而影响用户体验。内容付费是支撑创作者持续高质量产出的原动力，高质量视频产品越来越多，最终受益的还是消费者。\n从创作端看，生产优质短视频不能光靠“爱”发电，更需要真金白银支持。如今，UP主成为很多年轻人向往的新兴职业。一些人只看到UP主动辄拥有百万粉丝的光鲜一面，却看不到他们创作的不易。短视频从选题、文案、拍摄到剪辑，每个环节都耗时耗力。如果没有稳定的收入，很难保证持续产出，UP主通过内容付费开拓增收渠道无可厚非。\n事实上，内容平台从赔本赚吆喝发展到靠作品赚钱，是越来越“健康”的表现。国内短视频平台快手、抖音去年就开始尝试短剧付费模式，允许用户向内容制作者“打赏”，帮助拥有大量粉丝的创作者将内容商业化。UP主是B站最关键的“护城河”，在网络视听平台盈利难的大背景下，B站也在帮助UP主探索稳定的商业模式，最终实现平台、用户、创作者三方共赢。\n内容平台在探索中前进，消费者应以更加包容的心态看待。同时，平台也要设身处地为用户着想。虽然年轻群体更愿意为兴趣埋单，但俘获他们的心并不容易，粉丝变现也不是一朝一夕之功，唯有用精益求精的创作态度，才能获得他们发自内心的认同和支持。\n(本文来自澎湃新闻，更多原创资讯请下载“澎湃新闻”APP)",
-          "link": "https://www.thepaper.cn/newsDetail_forward_18851594",
-          "publishedOn": "2022-07-03T09:53:05.000Z",
-          "wordCount": 2504,
-          "title": "B站试水内容付费粉丝不买账，媒体：应提高质量门槛",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_18848644",
-          "author": null,
-          "description": "李筱、王淏楠/央视新闻客户端\n \n                \n7月2日上午，江苏无锡在对集中隔离和重点风险人员进行核酸检测中发现31名初筛阳性。经市疾控中心复核为阳性，随即转运至市定点医院诊疗，涉及病例居所、工作场所、经停的重点区域已迅速落实管控措施。\n截至7月3日1时，已累计排查阳性感染者密接4111人、次密2247人，均已落实相关管控措施，核酸检测已出结果4174人，均为阴性，其余结果待出。累计采集相关场所的物品和环境样本4297份，已出结果4117份，其中核酸检测结果阳性70份，阴性4047份。累计完成相关场所环境消杀2.7万余平方米。截至7月3日1时，全市已完成第四轮区域核酸采样562.25万人，已出结果431.18万人，均为阴性，其余结果待出。\n广大市民非必要不离锡，市区居民确需离锡的，在“两站一场”、交通道口配合查验48小时内核酸检测阴性证明或24小时内采样证明。自觉做到少出门，提倡单位职工、企业员工“点对点”出行，减少参加聚集性活动。\n居家隔离人员要严格落实“单独居住”或“单间居住”，配合工作人员上门采样，本人及共同居住者在居家隔离期间不得外出。各地要做好中高风险区居民的医疗救治、卫生管理、心理疏导、人文关怀等各项工作。社区（村）要加强对老幼弱残病等群体的关心关爱，认真做好服务保障。\n根据已掌握的流调信息，相关人员情况公布如下：\n(本文来自澎湃新闻，更多原创资讯请下载“澎湃新闻”APP)",
-          "link": "https://www.thepaper.cn/newsDetail_forward_18848644",
-          "publishedOn": "2022-07-03T07:23:05.000Z",
-          "wordCount": 2503,
-          "title": "江苏无锡发现31名阳性人员",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_18846430",
-          "author": null,
-          "description": "央视新闻\n \n                \n7月2日，西安市召开新闻发布会，通报疫情防控相关情况。\n据介绍，2022年7月2日，西安市重点人群核酸筛查发现1名阳性感染者，随即被诊断为确诊病例（轻型）：病例1，截至今日18时，在后续流调排查中又发现5名初筛阳性人员（均在长安区），为病例1的家人和同院子居住邻居，均已隔离。\n基本情况如下：7月2日7时40分，曲江新区疫情指挥部报告，雁翔路三兆村附近固定核酸采样点一份20混1样本核酸检测结果阳性（CT值26）。西安市疾控中心专家与第三方检测机构沟通研判认为，该份混检样本核酸检测CT值较低，排除疫苗污染、实验室质控品污染，存在感染人员可能性较大。西安市紧急行动，立刻核实人员信息，对20人立即采取集中隔离管控措施，并单管采样送样复检，对20人家庭环境及家人采样送样检测；同时，市级流调队赶赴现场，会同曲江新区指挥部对20人开展流调排查、核实轨迹。\n7月2日13时，西安市疾控中心报告，首发阳性感染者（病例1）核酸检测结果阳性（CT值24），其余19人检测结果均为阴性。16时，首发阳性感染者被诊断为确诊病例（轻型），现在定点医院隔离治疗。\n(本文来自澎湃新闻，更多原创资讯请下载“澎湃新闻”APP)",
-          "link": "https://www.thepaper.cn/newsDetail_forward_18846430",
-          "publishedOn": "2022-07-03T06:53:04.000Z",
-          "wordCount": 2504,
-          "title": "陕西西安新增1名新冠确诊病例，5名初筛阳性人员",
-          "imageUrl": null
         }
       ]
     },
@@ -5346,6 +5286,96 @@
       "feedUrl": "https://www.nationalreview.com/feed/",
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
+        {
+          "id": "https://www.nationalreview.com/?p=1292300",
+          "author": "The Editors",
+          "description": "All Americans should welcome this victory against an Islamist mass-murder cult that has waged war against the free world.",
+          "link": "https://www.nationalreview.com/2022/08/zawahiri-deserves-to-rot/",
+          "publishedOn": "2022-08-02T02:31:42.000Z",
+          "wordCount": 4521,
+          "title": "Zawahiri Deserves to Rot",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/08/osama-bin-laden-zawahiri-2.jpg?fit=1200%2C700"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1292120",
+          "author": "Caroline Downey",
+          "description": "Was he throwing his support behind both men?",
+          "link": "https://www.nationalreview.com/news/trump-endorses-eric-without-specifying-greitens-or-schmitt-in-missouri-gop-senate-primary/",
+          "publishedOn": "2022-08-02T00:19:00.000Z",
+          "wordCount": 4428,
+          "title": "Trump Endorses ‘Eric’ without Specifying Greitens or Schmitt in Missouri GOP Senate Primary",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/08/donald-trump-speech.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1292022",
+          "author": "Diana Glebova",
+          "description": "Zawahiri took over as leader of the terrorist organization after bin Laden’s death.",
+          "link": "https://www.nationalreview.com/news/al-qaeda-leader-ayman-al-zawahiri-killed-in-u-s-drone-strike/",
+          "publishedOn": "2022-08-01T22:03:21.000Z",
+          "wordCount": 4233,
+          "title": "Al-Qaeda Leader Ayman al-Zawahiri Killed in U.S. Drone Strike",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/08/ayman-al-zawahri.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1291891",
+          "author": "Caroline Downey",
+          "description": "A member of the far-right militia group the Texas Three Percenters received a 7.25-year sentence after a jury found him guilty.",
+          "link": "https://www.nationalreview.com/news/man-who-brought-gun-to-d-c-on-january-6-receives-toughest-capitol-riot-sentence-yet/",
+          "publishedOn": "2022-08-01T20:58:35.000Z",
+          "wordCount": 4427,
+          "title": "Man Who Brought Gun to D.C. on January 6 Receives Toughest Capitol-Riot Sentence Yet",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2021/02/us-capitol-fences-6.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1291795",
+          "author": "Diana Glebova",
+          "description": "‘We have repeatedly said that we oppose any unilateral changes to the status quo from either side,’ Kirby said.",
+          "link": "https://www.nationalreview.com/news/kirby-says-u-s-doesnt-support-taiwan-independence-as-china-threatens-pelosi-ahead-of-expected-taiwan-trip/",
+          "publishedOn": "2022-08-01T19:38:35.000Z",
+          "wordCount": 4314,
+          "title": "Kirby Says U.S. Doesn’t ‘Support Taiwan Independence’ as China Threatens Pelosi ahead of Expected Taiwan Trip",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/08/kirby.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1291679",
+          "author": "Caroline Downey",
+          "description": "The group is in a weakened financial position after rebuilding its headquarters and incurring additional security expenses.",
+          "link": "https://www.nationalreview.com/news/buffalo-pregnancy-center-firebombed-by-pro-abortion-extremists-reopens-after-spending-100000-on-security/",
+          "publishedOn": "2022-08-01T19:23:22.000Z",
+          "wordCount": 4623,
+          "title": "Buffalo Pregnancy Center Firebombed by Pro-Abortion Extremists Reopens after Spending $100,000 on Security",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/08/clinic.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1291797",
+          "author": "Jimmy Quinn",
+          "description": "A former fellow for a controversial think tank has been appointed to a senior State Department role.",
+          "link": "https://www.nationalreview.com/2022/08/expert-who-blamed-china-hawks-for-anti-asian-hate-crimes-joins-team-biden/",
+          "publishedOn": "2022-08-01T19:17:43.000Z",
+          "wordCount": 5196,
+          "title": "Expert Who Blamed China Hawks for Anti-Asian Hate Crimes Joins Team Biden",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/08/jessica-lee.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1291735",
+          "author": "Diana Glebova",
+          "description": "The video shows tanks parked in formation, soldiers running through the woods, and missiles launching.",
+          "link": "https://www.nationalreview.com/news/chinese-military-publishes-missile-strike-video-ahead-of-pelosis-expected-trip-to-taiwan/",
+          "publishedOn": "2022-08-01T19:12:58.000Z",
+          "wordCount": 4389,
+          "title": "Chinese Military Releases Missile-Strike Video ahead of Pelosi’s Expected Trip to Taiwan",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/08/missile.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1291676",
+          "author": "Isaac Schorr and Brittany Bernstein",
+          "description": "Republicans objected to a Democrat-backed ‘budget gimmick,’ not to helping vets.",
+          "link": "https://www.nationalreview.com/news/no-republicans-do-not-oppose-helping-veterans/",
+          "publishedOn": "2022-08-01T18:33:29.000Z",
+          "wordCount": 5993,
+          "title": "No, Republicans Do Not Oppose Helping Veterans",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/08/toomey.jpg?fit=2057%2C1200"
+        },
         {
           "id": "https://www.nationalreview.com/?p=1291536",
           "author": "The Editors",
@@ -10045,106 +10075,6 @@
           "wordCount": 5087,
           "title": "America the Awesome",
           "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/07/flag-fireworks.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1255350",
-          "author": "Caroline Downey",
-          "description": "The vice president said the decision fit a pattern in U.S. history of ‘government trying to claim ownership over human bodies.’",
-          "link": "https://www.nationalreview.com/news/kamala-harris-compares-roe-reversal-to-slavery/",
-          "publishedOn": "2022-07-03T17:08:34.000Z",
-          "wordCount": 4357,
-          "title": "Kamala Harris Compares <i>Roe</i> Reversal to Slavery",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2021/10/kamala-hero-3.jpg?fit=2900%2C1333"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1255207",
-          "author": "Jack Wolfsohn",
-          "description": "At every turn, the administration is making decisions that are antithetical to what’s best for America’s children.",
-          "link": "https://www.nationalreview.com/2022/07/the-anti-parent-biden-administration/",
-          "publishedOn": "2022-07-03T14:07:17.000Z",
-          "wordCount": 5033,
-          "title": "The Anti-Parent Biden Administration",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/03/levine.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1255202",
-          "author": "Caroline Downey",
-          "description": "The former Amazon CEO said the president was either intentionally distorting the inflation situation or speaking with embarrassing economic ignorance.",
-          "link": "https://www.nationalreview.com/news/bezos-mocks-biden-for-do-it-now-demand-that-gas-stations-lower-prices/",
-          "publishedOn": "2022-07-03T14:05:12.000Z",
-          "wordCount": 4627,
-          "title": "Bezos Mocks Biden for ‘Do It Now’ Demand That Gas Stations Lower Prices",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/05/JeffBezosJoeBiden-side.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1252520",
-          "author": "Charles Hilu",
-          "description": "The post-Dobbs memes are more disingenuous than usual, which is saying something.",
-          "link": "https://www.nationalreview.com/2022/07/the-insanity-of-political-instagram/",
-          "publishedOn": "2022-07-03T10:30:52.000Z",
-          "wordCount": 4949,
-          "title": "The Insanity of Political Instagram",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2020/09/smartphones-groups.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1252347",
-          "author": "Jianli Yang and Xueli Wang",
-          "description": "A growing number of horrific incidents prove that Chinese women cannot count on government protection in the face of powerful men.",
-          "link": "https://www.nationalreview.com/2022/07/how-china-fails-to-protect-women/",
-          "publishedOn": "2022-07-03T10:30:50.000Z",
-          "wordCount": 5649,
-          "title": "How China Fails to Protect Women",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/07/women-street-beijing.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1253702",
-          "author": "Sam Negus",
-          "description": "The clarity of his moral politics may be appealing, but the radical autonomy of his approach amounts to anarchy.",
-          "link": "https://www.nationalreview.com/2022/07/john-brown-is-no-model-for-christians/",
-          "publishedOn": "2022-07-03T10:30:41.000Z",
-          "wordCount": 5954,
-          "title": "John Brown Is No Model for Christians",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/07/john-brown-npg.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1254076",
-          "author": "Kevin D. Williamson",
-          "description": "When all your power is invested in a handful of institutions, losing one is devastating.",
-          "link": "https://www.nationalreview.com/2022/07/lessons-from-the-lefts-implosion/",
-          "publishedOn": "2022-07-03T10:30:31.000Z",
-          "wordCount": 6450,
-          "title": "Lessons from the Left’s Implosion",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/07/scotus-signs.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1250300",
-          "author": "Andrew Doran",
-          "description": "The Sephardim whose forebears were driven from Middle Eastern countries make a unique contribution to Israel’s culture and character.",
-          "link": "https://www.nationalreview.com/2022/07/the-jews-of-the-middle-east-zionists-before-zionism/",
-          "publishedOn": "2022-07-03T10:30:18.000Z",
-          "wordCount": 6558,
-          "title": "The Jews of the Middle East: Zionists Before Zionism",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/06/safed-galilee-1.jpg?fit=1200%2C700"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1250276",
-          "author": "Kenin M. Spivak",
-          "description": "Progressive doctrine is replacing traditional curricula in our K–12 schools. If not reversed, we could lose the next generation of Americans.",
-          "link": "https://www.nationalreview.com/2022/07/patriotism-starts-in-the-classroom/",
-          "publishedOn": "2022-07-03T10:30:17.000Z",
-          "wordCount": 5572,
-          "title": "Patriotism Starts in the Classroom",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2020/09/flag-classroom.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1253799",
-          "author": "Adam M. Carrington",
-          "description": "Conservatives shouldn’t move beyond our Constitution, but through originalism, they should seek another, worthy task: its restoration.",
-          "link": "https://www.nationalreview.com/2022/07/how-the-constitution-advances-the-common-good/",
-          "publishedOn": "2022-07-03T10:30:06.000Z",
-          "wordCount": 6186,
-          "title": "How the Constitution Advances the Common Good",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2020/08/united-states-constitution.jpg?fit=2057%2C1200"
         }
       ]
     }
