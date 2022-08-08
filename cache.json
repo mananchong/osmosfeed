@@ -6,6 +6,16 @@
       "siteUrl": "https://rweekly.org/atom.xml",
       "articles": [
         {
+          "id": "https://rweekly.org/2022-W32.html",
+          "author": null,
+          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Batool Almarzouq, with help from the R Weekly team members and contributors.\nHighlight\nuseR2022 recordings are now on the conference YouTube channel\nTheming diffify for accessibility: Part 2\nRStudio::Conf 2022 Recap\nInsights\nTheming diffify for accessibility: Part 2\nWorkbench Session Information Improvements\n\nFrom the R Business Working Group – R is for actuaRies\nBase-R Is Alive and Well\nMapping_SNP_to_protein\n\nR in Organizations\nKeep the party going after rstudio::conf\nR in Academia\nMathematical Annotation in R\nDetecting Influential Points in Regression with DFBETA(S)\n\nResources\nAwesome Quarto\n\nuseR2022 recordings are now on the conference YouTube channel\nFundamentals of Da…",
+          "link": "https://rweekly.org/2022-W32.html",
+          "publishedOn": "2022-08-08T00:00:00.000Z",
+          "wordCount": 5796,
+          "title": "R Weekly 2022-W32",
+          "imageUrl": "https://rweekly.org/public/facebook.png"
+        },
+        {
           "id": "https://rweekly.org/2022-W31.html",
           "author": null,
           "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Kelly Bodwin, with help from the R Weekly team members and contributors.\nHighlight\nRStudio rebrands as Posit\n{shinytest2}: For testing Shiny apps. (slides)\nOne Quarto tip a day\nInsights\nSeeing R help outside official sources\nHello Quarto RStudio::conf keynote slides\n\nOne Quarto tip a day\nWhy R users should be happy about the Posit rebrand\n12 ggplot extensions for snazzier graphics\nTranslating between {tidymodels} and {scikit-learn}\nImplications of R syntax in Intro Stats\nR in the Real World\nCoolbutuseless: Interactive graphics in R\n\nSeasonality in Time Series with Fourier transforms\nRecreating a Bubble Chart from The Economist\nR in Organizations\nRStudio rebrands as Posit\n\nR …",
@@ -33,16 +43,6 @@
           "publishedOn": "2022-07-18T00:00:00.000Z",
           "wordCount": 5992,
           "title": "R Weekly 2022-W29 Plumber, magick and lost fares",
-          "imageUrl": "https://rweekly.org/public/facebook.png"
-        },
-        {
-          "id": "https://rweekly.org/2022-W28.html",
-          "author": null,
-          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nRSS feeds are once again being captured. Want your posts automatically submitted to the editors each week? Add your feed to our list.\nThis week’s release was curated by Jonathan Carroll, with help from the R Weekly team members and contributors.\nHighlight\nContainerizing Interactive R Markdown Documents\nRStudio Recap From the Appsilon Shiny Conference\nHow to build an interactive point-and-click game with {Shiny}\n\nInsights\nContainerizing Interactive R Markdown Documents\nFixed vs. random effects for browsing data - a simulation\nIntroducing {weatherkit}: The Eventual Replacement R Package for {darksky}\nReadable code with base R (part 2)\nUpdated Comparison of R Graphical User Interfaces\nReshaping data frames using…",
-          "link": "https://rweekly.org/2022-W28.html",
-          "publishedOn": "2022-07-10T00:00:00.000Z",
-          "wordCount": 6474,
-          "title": "R Weekly 2022-W28 Containers, Conf, Clicks",
           "imageUrl": "https://rweekly.org/public/facebook.png"
         }
       ]
@@ -471,16 +471,6 @@
           "wordCount": 2647,
           "title": "方钦｜一场事先张扬的败局",
           "imageUrl": null
-        },
-        {
-          "id": "http://www.thepaper.cn/newsDetail_forward_18934672",
-          "author": null,
-          "description": "复旦大学哲学学院 鲁明军\n 来源：澎湃新闻\n                \n\n高名潞（章静绘）\n创刊于1976年的《十月》（OCTOBER）杂志在北美乃至全球当代艺术系统中扮演着重要的角色，其分析模式和理论风格一度被视为形式主义之后艺术评论的典范。近半个世纪来，围绕“历史唯物主义”“精神分析”“机构批判”“身体政治”“景观”“女性主义”“全球化”“文化战争”“后殖民”“纪念碑”等前沿话题，《十月》展开了一系列批评和写作的激进实验，在艺术系统内外造成了广泛而深远的影响。因此，与其说它是一份专业的当代艺术学术刊物，不如说是一个艺术认知变革的策动者。然而新世纪以来，随着艺术日新月异的变化，《十月》也日渐显现出其保守的一面。特别是互联网时代的来临，使得理论、批评以及艺术媒体皆面临着种种新的危机和挑战。\n\n值此第八届国际艺术评论奖（IAAC 8）启动之际，复旦大学哲学学院与上海民生现代美术馆联合举办了“‘《十月》学派’与当代艺术评论”主题论坛，通过重估《十月》及其理论遗产和当代意义，希望重新唤起一种更具思辨性和批判力的艺术评论与艺术写作。在论坛举办之前，复旦大学哲学学院鲁明军代表《上海书评》采访了美国匹兹堡大学艺术史系高名潞教授。\n\n高名潞教授是'85新潮美术运动重要的参与者和推动者，是1980年代末“中国现代艺术大展”重要的策划者和组织者之一。他在上世纪九十年代初赴美留学，在哈佛大学攻读艺术史博士学位。在此期间，他不仅系统学习了欧美现代艺术理论，还持续参与中美当代艺术的对话实践。他策划了由美国亚洲协会和旧金山美术馆主办、在亚洲协会和PS1当代艺术中心同时展出的“蜕变突破：华人新艺术”（Inside Out：New Chinese Art）大展，并以中国及亚洲部分策展人的身份参与策划了“1950至1980年代的全球观念艺术展”和“五大洲与一个城市”等重要展览。同时，他也是中国最具理…",
-          "link": "http://www.thepaper.cn/newsDetail_forward_18934672",
-          "publishedOn": "2022-07-10T03:02:08.000Z",
-          "wordCount": 2648,
-          "title": "高名潞谈《十月》与当代艺术评论",
-          "imageUrl": null
         }
       ]
     },
@@ -489,6 +479,126 @@
       "feedUrl": "https://feedx.net/rss/thepaper.xml",
       "siteUrl": "http://thepaper.cn",
       "articles": [
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_19360184",
+          "author": null,
+          "description": "澎湃新闻记者 岳怀让 见习记者 张依琳\n 来源：澎湃新闻\n                \n三亚正与病毒赛跑。\n8月7日，志愿者在三亚国际体育产业园核酸采样点服务。本文图片  新华社、人民视觉、澎湃影像\n面对我国首次检出的新冠病毒奥密克戎变异株BA.5.1.3，海南三亚，这座南中国海边的著名旅游城市，迅速启动了战疫模式。\n8月8日，三亚市新型冠状病毒肺炎疫情防控工作指挥部发布的最新数据显示，2022年8月7日0—24时，三亚市新增186例确诊病例（其中30例为无症状感染者转归）、227例无症状感染者。8月1日0时至8月7日24时，累计发现确诊病例801例、无症状感染者409例。\n澎湃新闻记者注意到，在海南省近期的通报中，将三亚本轮疫情称为“0801”疫情，意思是当地8月1日开始报告的一起新的本土疫情。经流行病学调查和病毒基因测序分析，发现引起三亚“0801”疫情的是新冠病毒奥密克戎变异株BA.5.1.3。\nBA.5.1.3是我国首次检出。专家综合分析认为，此轮疫情为境外输入引起，崖州中心渔港是此次疫情的始发输入地，通过渔民与境外渔民交易鱼货时输入的可能性较大。\n7天内阳性感染者增至1210例，正在考验着三亚人打赢疫情防控这场大仗的决心和意志力。同时，海南严格落实国务院联防联控机制要求，制定全省全员核酸检测方案，按照保重点要求开展全省核酸检测。\n8月7日在三亚国际体育产业园拍摄的核酸采样点工作场景。\n“热情、细致、暖心”成为海南制定防疫政策的基调\n三亚的抗疫是热情的、细致的、暖心的。\n伴随着疫情的快速升温，三亚当地的防控措施也迅速升级。\n8月3日12时，三亚启用方舱医院，提供床位数1828张，分区分别接诊轻症患者和无症状感染者。当天深夜，三亚发布通知，从4日零时起，三亚市（除海棠湾区域、亚龙湾区域、育才生态区外）进入区域管控状态。通告称，当前三亚市疫情防控形势严峻复杂，社区隐…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_19360184",
+          "publishedOn": "2022-08-08T15:53:06.000Z",
+          "wordCount": 2581,
+          "title": "特稿｜三亚战疫的日与夜",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_19362225",
+          "author": null,
+          "description": "澎湃新闻记者 王露 张无为\n 来源：澎湃新闻\n                \n8月8日，外交部发言人汪文斌主持例行记者会。有记者提问，近日，美日澳外长在举行三边战略对话后发表了联合声明，重申三国各自的一个中国政策和对台湾的基本立场没有改变，但同时在一个中国政策后面加了括号标注：在适用的情形下。我们也关注到，在上周七国集团外长和欧盟高级代表发表的联合声明中也做了同样的表述，请问中方对此有何评论？\n汪文斌表示，一个中国原则是国际社会的普遍共识，是公认的国际关系基本准则，也是构成二战后国际秩序的组成部分，为联大第2758号决议所确认，这也是中国和有关国家建立和发展外交关系的政治基础。联合国秘书处官方法律意见明确指出，台湾作为中国的一个省，没有独立地位，个别国家为一个中国原则加上各种前缀后缀，试图歪曲虚化，掏空一个中国原则，这是非法无效的，中方对此坚决反对。\n汪文斌指出，一个中国原则的含义是清晰明确的，那就是世界上只有一个中国，台湾是中国的一部分，中华人民共和国政府是代表全中国的唯一合法政府，一个中国原则的适用是普遍的、无条件的、不容置疑的。所有同中国建立外交关系的国家、所有联合国会员国都应当无条件遵守一个中国原则，遵守联大第2758号决议，个别国家的做法实际上是对一个中国原则的歪读曲解，本质上是在挑战国际法基本原则和国际关系基本准则，也是在挑战二战后的国际秩序。\n“人无信不立，国无信则衰。”汪文斌表示，我们奉劝个别国家好好读读历史，恪守当年作出的白纸黑字的郑重承诺，深刻认识背信弃义、为“台独”势力张目的危险性和危害性，妄图挑战一个中国原则、挑战国际法治和国际秩序，必将遭到国际社会的共同反对，是不会得逞的。\n(本文来自澎湃新闻，更多原创资讯请下载“澎湃新闻”APP)\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.fun",
+          "link": "https://www.thepaper.cn/newsDetail_forward_19362225",
+          "publishedOn": "2022-08-08T15:53:06.000Z",
+          "wordCount": 2579,
+          "title": "美日澳外长在其一个中国政策后面加括号标注，中方：非法无效",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_19360788",
+          "author": null,
+          "description": "李竟涵/农民日报\n \n                \n“因为我去地里打药，把我抓住了，都别跟我学，别出门了，就呆在家啊。”据报道，8月2日，河南省商丘市宁陵县一位农民因疫情管控期间下地打药，被要求通过大喇叭向全体村民做10遍检讨。\n在农村这样一个熟人社会，当众检讨这种处罚方式力度不可谓不大，更何况这位农民年龄还不小。那他为何会受到这样的处罚？直接原因是从8月1日起，宁陵县紧急实行全域静默管理，要求“全县静默、乡镇静默、各村静默、户户静默”，而这位农民却在“静默”期间下地打农药。客观原因则是当地面临的疫情考验。从7月31日至8月6日的7天时间内，宁陵县已累计报告新冠肺炎无症状感染者63例，并且病例源头仍不清晰，这样的疫情发展态势对县域来说确实挑战不小。而且紧邻宁陵县的民权县，无症状感染者连续多日增长，也带来一定外溢风险。所以当地采取了“除一线防疫人员外，其他人一概不能进出”的管控措施。据该县工作人员回应，村民对此接受程度不是很高，所以村里的防疫人员采用了一些比较简单粗暴的方法，“但是出发点是好的”。\n防疫压力当前，出发点又是好的，看似无可厚非。不过好的出发点未必带来好的结果，尤其在打硬仗的时候，更要避免“好心办坏事”。眼下，疫情防控和稳产保供这两场硬仗都到了吃劲的时候，如果光考虑一头，很可能会顾此失彼。疫情之下，人可以静默，为了抗疫可以忍受一时的不便，但庄稼没法静默，农业生产有其固有周期和时令节奏，停不了也等不得，关键环节管理跟不上，很可能会影响一季乃至一年的收成。“立秋锄晚田，地松籽粒满。”立秋时节是玉米、水稻、蔬菜等农作物病虫害高发期和秋粮产量形成的关键期，如果防治病虫、灌溉等不及时，可能影响农民的“钱袋子”和国家的“粮囤子”。从这个角度来看，当前阶段不仅要做好疫情防控工作，也要抓好农业生产，做到疫情防控和农业生产两不误。\n这位农民下地打药的是什么作物没有报道，我们不得而知，但是能让农民在这个时候还如此挂念，也必定是在关键农时的作物，都和我们的“菜篮子”“米袋子”息息相关。宁陵地处豫东平原，是全国商品粮基地县、全国油料百强县，当地主产农作物包括花生、玉米、蔬菜等眼下亟须加强田管的作物。据媒体报道，宁陵县今年落实秋粮种植面积40.77万亩，同比增加0.74万亩。那么当地在全域静默管理的研判和决策过程中，是否统筹考虑到了这些情况和农民需求？在发通知要求“不进不出”“各村静默”的同时，是否针对疫情防控和农业生产作出了系统安排？如果有所安排，是否通知到了有需求的农民？假如上述答案都是肯定的，那这位农民可能也就不必冒着做检讨的风险非要下地打药了。\n此次事件发生后，当地的态度很好，第一时间承认做法简单粗暴，“是错误的”。但认错之后，不妨再多问一问，农民下地种田的当务之急解决了没有？全县其他村镇有没有类似的问题？目前当地疫情发展还存在不确定性，那么下一步对统筹疫情防控和农业生产是否有科学方案？接下来如何在做好防疫工作的同时，确保秋粮生产不受影响？\n其实这样的问题，并非只有宁陵需要回答。近期，全国少数地区疫情有所反弹，呈现多点散发、多地频发的态势，给疫情防控和农业生产两手抓、两不误带来了新的挑战。面对挑战，我们应该清醒认识到，疫情防控和经济社会发展绝不是非此即彼的“单选题”，都是动态清零的主要目标之一。而无论是抗疫还是发展，都离不开农业稳产保供这个“定盘星”“定海针”。\n今年以来，面对全国多地疫情散发给农业生产带来的影响，在春耕和“三夏”关键时节，农业农村部等多部门明确提出，严禁以疫情防控为由，擅自设卡拦截、随意断路封村、不让农民下地种田、不让农机通行上路。以此为指导，我们攻坚克难夺取了夏粮丰收。但从全年粮食生产来看，秋粮才是大头。“三秋”大忙在即，更是要用好统筹这个方法论，一环紧扣一环，抓紧抓实秋粮生产。在坚持动态清零总方针不动摇的前提下，落实分级分类精准防控措施，主动帮助农民打通农业生产和流通中的堵点卡点，同时积极发挥新型经营主体和社会化服务组织作用，落实落细秋粮稳产增产关键措施，做好防灾减灾，确保防疫不放松、生产不耽误。\n近段时间以来，行程码“摘星”，核酸检测结果要求全国互认，这对高效统筹疫情防控和经济社会发展工作提出了更高的要求。不可否认，基层工作存在防疫力量相对薄弱、农村卫生条件不足、管理难度大等客观制约。但越是如此，越要把有限的资源用在“刀刃”上，科学统筹，精准施策，高质高效打赢疫情防控和稳产保供这两场硬仗。\n（原题为《全县静默，庄稼没法静默》）\n(本文来自澎湃新闻，更多原创资讯请下载“澎湃新闻”APP)",
+          "link": "https://www.thepaper.cn/newsDetail_forward_19360788",
+          "publishedOn": "2022-08-08T14:53:08.000Z",
+          "wordCount": 2575,
+          "title": "农民日报：全县静默，庄稼没法静默",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_19363271",
+          "author": null,
+          "description": "澎湃新闻首席记者 葛熔金 实习生 陈友云\n 来源：澎湃新闻\n                \n浙江金华市8月8日下午召开新冠肺炎疫情防控工作新闻发布会，据市卫健委副主任、疾控中心主任王凤英介绍，至8日15时金华累计报告阳性感染者376例。通过省市县扁平化管理，病例快速上升的势头已得到遏制，新增感染者基本在管控隔离人员中发现，社会面传播风险基本控制，外溢风险基本消除，疫情总体形势趋好。\n王凤英介绍，8日0-15时，金华新增阳性感染者23例，其中义乌22例、东阳1例。截至目前，全市累计报告阳性感染者376例（其中义乌343例），8月2日报告4例、3日48例、4日56例、5日93例、6日71例、7日81例、8日至15时23例。\n义乌市副市长葛巧棣表示，目前义乌商贸城1区-5区、篁园市场、宾王市场等21家专业市场正常营业，经营者、客商凭24小时内核酸阴性证明进入。9日，一架搭载110名外国采购商的包机将从印度飞来。 \n(本文来自澎湃新闻，更多原创资讯请下载“澎湃新闻”APP)",
+          "link": "https://www.thepaper.cn/newsDetail_forward_19363271",
+          "publishedOn": "2022-08-08T13:53:06.000Z",
+          "wordCount": 2581,
+          "title": "金华疫情累计报告阳性376例，社会面传播风险已基本控制",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_19360003",
+          "author": null,
+          "description": "“国防部发布”微信公号\n \n                \n问：近日，中方针对佩洛西窜台宣布八项反制措施，其中包括取消中美军事交往三项措施。有美国媒体报道，美军高层近日曾多次给中国军队领导打电话，但被中方拒绝。请问对此有何评论？\n答：当前台海形势紧张局面，完全是美方主动挑衅、一手制造的，美方必须为此承担全部责任和严重后果。中方曾就中美两国两军关系、台湾问题等表明严正立场，特别是针对美国会众议长佩洛西窜访多次严正交涉，美方却说一套、做一套，纵容支持佩窜访，蓄意制造台海紧张局势。\n针对美方恶劣挑衅行径，中方宣布了八项反制措施，其中包括取消安排中美两军战区领导通话、取消中美国防部工作会晤、取消中美海上军事安全磋商机制会议。中方有关反制措施是对美台挑衅的必要警示，对国家主权和安全的正当捍卫，完全合理、恰当适度。\n底线不容突破，沟通需要诚意。美方一面制造危机，一面又声称要管控危机，为其错误言行和挑衅举动找托词、打掩护，甚至对外炒作、混淆视听、甩锅推责，我们坚决反对。我们敦促美方切实尊重中方的核心利益和重大关切，放弃“以台制华”的幻想，不要在错误的道路上越走越远。\n(本文来自澎湃新闻，更多原创资讯请下载“澎湃新闻”APP)",
+          "link": "https://www.thepaper.cn/newsDetail_forward_19360003",
+          "publishedOn": "2022-08-08T13:53:06.000Z",
+          "wordCount": 2574,
+          "title": "国防部就中方取消中美两军三项交往活动及美媒有关炒作答问",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_19356732",
+          "author": null,
+          "description": "俞瑶 谢雨桐/红星新闻\n \n                \n8月6日，话题#美团单车宣布涨价#登上微博热搜。涨价后，美团单车7天、30天、90天无折扣骑行卡价格分别为15元、35元、90元。美团单车称，本次涨价原因为“硬件和运维成本增加”。\n红星资本局了解到，中国自行车协会发布的最新数据显示，今年第一季度自行车上游原材料价格同比上涨超10%，原材料上涨的压力正在从自行车制造企业向下游传导。\n但同样面对原材料成本上涨的行业问题，对自行车制造企业和共享单车企业的影响却大不相同，堪称“同人不同命”。\n适逢近年的“骑行热”，自行车企业销量大幅上涨，带动相关业绩亮眼。但收入模式单一的共享单车却没有这样的运气，叠加成本压力，涨价或许是一种“不得不的选择”，但这一行为是否能为消费者所接受，是否能有效缓解企业的盈利困境，还有待市场验证。\n美团单车骑行卡涨价5-30元\n哈啰单车也涨过\n红星资本局消息，美团单车8月5日发布公告，由于硬件和维护成本的增加，从2022年8月10日23时起，将对骑行畅骑卡价格进行调整。\n美团单车公告显示，7天卡无折扣价由10元调整为15元；30天卡无折扣价由25元调整为35元；90天卡无折扣价由60元调整为90元。也就是说，这三档骑行卡分别涨价5元、10元、30元。\n美团单车公告截图\n值得一提的是，美团单车并不是近年来首个宣布涨价的共享单车平台。去年3月，哈啰单车在上海率先涨价一事引起多方讨论。今年1月起，哈啰单车率先将骑行套餐7天卡涨至15元，30天卡涨至35元。此外，沈阳、长沙、佛山、绵阳、珠海等多地单次骑行也已涨价。\n红星资本局发现，美团单车跟涨后，骑行卡价格已与哈啰单车齐平，7天、30天、90天无折扣价均分别为15元、35元、90元；而目前还未涨价的青桔单车三种骑行卡无折扣价分别为10元、25元、75元。\n共享单车优惠越来越少，骑行价格一直在攀升。有网友算…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_19356732",
+          "publishedOn": "2022-08-08T13:53:06.000Z",
+          "wordCount": 2578,
+          "title": "美团单车宣布涨价背后：自行车和共享单车企业冰火两重天",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_19356839",
+          "author": null,
+          "description": "马力 何英平/央视新闻\n \n                \n8月8日凌晨，记者从海南三亚市新型冠状病毒肺炎疫情防控工作指挥部获悉，8月7日0—24时，三亚市新增186例确诊病例（其中30例为无症状感染者转归）、227例无症状感染者。8月1日0时至8月7日24时，累计发现确诊病例801例、无症状感染者409例。\n(本文来自澎湃新闻，更多原创资讯请下载“澎湃新闻”APP)",
+          "link": "https://www.thepaper.cn/newsDetail_forward_19356839",
+          "publishedOn": "2022-08-08T12:53:12.000Z",
+          "wordCount": 2575,
+          "title": "海南三亚7日新增186例确诊病例、227例无症状感染者",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_19360283",
+          "author": null,
+          "description": "澎湃新闻记者 南博一\n 来源：澎湃新闻\n                \n日前，有外媒报道称，在美国国会众议长佩洛西窜访中国台湾地区遭谴责之际，美国苹果公司要求其供应商从中国台湾地区向中国大陆供货时，严格遵守中国大陆海关的规定。\n据《日经亚洲》报道，苹果公司日前告知其供应商，长期以来，中国大陆海关执行一项严格的规定，即中国台湾地区生产的零部件进入中国大陆时，必须标明产地为“中国台湾”或“中国台北”。有知情人士表示，苹果公司敦促其供应商尽快处理此事，避免因违规导致供货受到影响。目前，苹果公司的供应商正在为今秋的新款iPhone和其他新品的零部件供货做准备。知情人士透露，若在进口文件、表格中或包装上未准确表明商品生产地的，中国大陆海关可能会扣留并检查商品。违规货物将被处以4000元人民币的罚款，或是被拒绝通关。\n报道称，知情人士指出，为了避免运输混乱和供应中断，苹果公司还要求供应商制定应急计划，即在必要时迅速审查和修改从中国台湾地区运输到中国大陆的纸箱和表格上的标签。苹果公司没有回应《日经亚洲》的置评请求。\n《日本时报》刊文指出，2015年，中方就曾对中国台湾地区运输到中国大陆的产品标示有所要求，即必须标示为“中国台湾”或“中国台北”。\n(本文来自澎湃新闻，更多原创资讯请下载“澎湃新闻”APP)",
+          "link": "https://www.thepaper.cn/newsDetail_forward_19360283",
+          "publishedOn": "2022-08-08T12:24:30.000Z",
+          "wordCount": 2578,
+          "title": "日媒：苹果要求台湾供应商向大陆供货时需标明&ldquo;中国台湾&rdquo;或&ldquo;中国台北&rdquo;",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_19361987",
+          "author": null,
+          "description": "澎湃新闻\n 来源：澎湃新闻\n                \n澎湃新闻今天宣布正式完成B轮融资。上海文化产业发展投资基金（以下简称上文投）独家出资4亿元，对澎湃新闻运营主体——上海东方报业有限公司（东方报业）增资入股。增资完成后，上文投成为第二大股东。上海报业集团仍为澎湃新闻控股股东。\n宣布B轮融资消息同时，澎湃新闻作了新一轮发展的战略发布，5个涉及内容、技术、运营的新板块全面启动。它们分别是：澎湃智媒开放平台、澎湃明查中英文网站、澎湃科技频道、数字内容生态实验室、澎湃ESG项目。澎湃新闻还同步启动了“中国城市文化品牌计划”、“新消费品牌合伙人计划”、“澎湃好物伙伴计划”、“城市更新大会”等政务、商务服务项目。\n澎湃新闻于2014年7月22日正式上线，是中国传统媒体转型进军移动互联网的先行者。8年来，澎湃新闻在传播力、影响力、引导力等各项指标上，稳居国内主流媒体第一方阵。据悉，澎湃新闻将以B轮融资为契机，全面加速业务布局，进一步发展转型为引领型、赋能型、全球型的互联网新型主流媒体。\n上文投由上海市政府、浦东新区政府和上海实业（集团）有限公司共同发起，并由上海实业（集团）有限公司联合上海国盛(集团)有限公司和上海浦东科创集团有限公司共同组建，总规模120亿元，首期55.5亿元。\n(本文来自澎湃新闻，更多原创资讯请下载“澎湃新闻”APP)",
+          "link": "https://www.thepaper.cn/newsDetail_forward_19361987",
+          "publishedOn": "2022-08-08T10:53:05.000Z",
+          "wordCount": 2576,
+          "title": "澎湃新闻完成B轮融资，上文投独家战略投资4亿",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_19356703",
+          "author": null,
+          "description": "义乌市融媒体中心“爱义乌”微信公号\n \n                \n关于义乌市新增56例新冠病毒阳性感染者的通报\n8月7日9时至21时，义乌市新增56例初筛阳性人员，经复核为阳性，均为隔离管控中发现。现正对密切接触者、次密切接触者进行紧急排查，落实相关场所管控及环境消毒等防疫措施。“8.2”疫情发生以来，义乌市累计报告本土新冠病毒阳性感染者319例，其中27例新冠肺炎确诊病例、292例新冠肺炎无症状感染者。\n鉴于当前疫情防控形势，请7天内有市外高中低风险地区所在设区市或市内高中风险区旅居史的，尽快通过“义乌防疫”二维码进行申报，并按照规定参加全员核酸检测。进入公共场所需持24小时内核酸检测阴性证明。加强个人防护，戴口罩、勤洗手、少集聚、勤通风。核酸检测应检尽检，确保区域内“区不漏户，户不漏人”。不配合参加核酸检测，造成严重后果的，根据《传染病防治法》规定，将承担相应法律责任。\n义乌市新型冠状病毒肺炎疫情\n防控工作指挥部办公室\n2022年8月7日\n(本文来自澎湃新闻，更多原创资讯请下载“澎湃新闻”APP)",
+          "link": "https://www.thepaper.cn/newsDetail_forward_19356703",
+          "publishedOn": "2022-08-08T10:23:05.000Z",
+          "wordCount": 2575,
+          "title": "8月7日9时至21时，浙江义乌新增56例新冠阳性感染者",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_19356722",
+          "author": null,
+          "description": "外交部网站\n \n                \n当地时间8月7日，国务委员兼外长王毅在访问孟加拉国期间，针对最新形势和美方无理狡辩，指出美方在佩洛西窜访中国台湾地区上犯了三方面错误。\n一是粗暴干涉中国内政。美方不顾中方反复劝告警示，一意孤行，安排美政府三号人物到中国台湾地区进行所谓“访问”。须知，台湾不是美国的一部分，而是中国的领土，美方自己也做出过公开承诺。美方的行径，是在严重侵犯中国主权。\n二是纵容支持“台独”势力。任何国家都必须维护国家统一，都不容许分裂势力肆意妄为。台湾地区执政的民进党把谋求独立写入党纲，近年来千方百计搞渐进式“台独”，制造“两个中国”和“一中一台”。美国会众议长公开为其撑腰打气，与分裂势力为伍，与中国人民为敌。\n三是蓄意破坏台海和平。美国惯于先制造一个问题，再利用这个问题实现自身战略图谋。有迹象表明，美国在策划佩洛西窜访问题上又想故伎重演，正在借机加大地区军事部署，这值得各方高度警惕和坚决抵制。\n王毅说，中方的坚定立场和采取的举措正当、合理、依法、必要、公开、适度，旨在维护中国的神圣主权和领土完整，遏阻美国“以台制华”的图谋，粉碎台当局“倚美谋独”的幻想，真正维护好台海的和平、地区的稳定。\n王毅强调，不干涉内政原则是国与国交往的“黄金法则”，是发展中国家维护自身主权安全的“护身法宝”。我们感谢各国对中方立场的理解和支持。在单边霸凌行径不时横行的今天，国际社会应就此形成更明确的共识，发出更有力的声音，共同维护国际关系的基本准则和国际法，共同维护所有发展中国家的正当权益。\n(本文来自澎湃新闻，更多原创资讯请下载“澎湃新闻”APP)\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.fun",
+          "link": "https://www.thepaper.cn/newsDetail_forward_19356722",
+          "publishedOn": "2022-08-08T08:53:09.000Z",
+          "wordCount": 2575,
+          "title": "王毅：美方在台湾问题上犯了三方面错误",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_19359836",
+          "author": null,
+          "description": "央视新闻\n \n                \n2022年8月7日，西藏阿里地区普兰县在常规核酸检测中，发现4名外来旅游人员新冠病毒核酸检测阳性。详情如下：\n阳性感染者1，女，61岁，西藏自治区日喀则市定日县协格尔镇林嘎萨巴村人，现为新冠病毒无症状感染者。\n阳性感染者2，男，59岁，西藏自治区日喀则市桑珠孜区城南街道吉培林社区人，现为新冠病毒无症状感染者。\n阳性感染者3，女，55岁，西藏自治区日喀则市桑珠孜区甲措雄乡联卓村人，现为新冠病毒无症状感染者。\n阳性感染者4，女，47岁，西藏自治区日喀则市桑珠孜区甲措雄乡联卓村人，现为新冠病毒无症状感染者。\n目前，已对4名无症状感染者实施定点诊疗，并对其密接、次密接人员实施集中隔离管控。\n阿里地区普兰县现已划定中风险区7个：色拉龙寺、楚果寺、京华宾馆、小郡肝串串火锅、科迦寺、普兰唐嘎国际边贸市场、吉乌寺；普兰县其他区域按低风险区落实管控措施。\n(本文来自澎湃新闻，更多原创资讯请下载“澎湃新闻”APP)",
+          "link": "https://www.thepaper.cn/newsDetail_forward_19359836",
+          "publishedOn": "2022-08-08T07:53:06.000Z",
+          "wordCount": 2574,
+          "title": "西藏发现4名新冠病毒阳性感染者",
+          "imageUrl": null
+        },
         {
           "id": "https://www.thepaper.cn/newsDetail_forward_19360243",
           "author": null,
@@ -5268,66 +5378,6 @@
           "wordCount": 2561,
           "title": "安倍枪击案嫌疑人被移交检方，罪名改为杀人嫌疑",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_18943311",
-          "author": null,
-          "description": "澎湃新闻记者 南博一\n 来源：澎湃新闻\n                \n当地时间7月9日，日本奈良县警方公布司法解剖结果称，日本前首相安倍晋三的死因是“左上臂中枪损伤左右锁骨下动脉，导致失血过多死亡”。\n据日本共同社9日消息，日本警方公布称，安倍颈部和左上臂共两处有中弹伤口。案发现场确认传出两下枪声，警方正在详细调查击发的子弹数量和结构、入射角度等。警方公布的死因是“左上臂中枪损伤左右锁骨下动脉，导致失血过多死亡”。\n当地时间2022年7月8日，日本奈良县橿原市，参与救治日本前首相安倍晋三的奈良县医科大学附属医院出席记者会。 澎湃影像 图\n消息称，实施抢救的医院8日透露安倍颈部有2处枪伤，而警方则表示不清楚颈部另1处创伤是否由子弹造成。已知山上彻也作案时从背后接近，在数米以内的近距离开枪。\n共同社还从办案人员处获悉，被捕的前海上自卫队员山上彻也（41岁，无业）供述称，他因其母亲沉迷宗教团体而心生恨意，以为安倍与该团体有关就把他当成了目标。\n山上接受警方调查时承认对安倍怀有杀意，他表示：“与特定团体有仇，以为前首相与该团体有关联，所以实施了犯罪。并非对其政治信念有恨意。”\n7月8日，安倍晋三在奈良遭枪击后，因伤势过重不治身亡。\n(本文来自澎湃新闻，更多原创资讯请下载“澎湃新闻”APP)",
-          "link": "https://www.thepaper.cn/newsDetail_forward_18943311",
-          "publishedOn": "2022-07-10T03:58:08.000Z",
-          "wordCount": 2566,
-          "title": "日本警方公布安倍司法解剖结果：颈部和左上臂中弹",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_18943015",
-          "author": null,
-          "description": "澎湃新闻记者 钟煜豪\n 来源：澎湃新闻\n                \n江西省体育局党组书记、局长李克坚已赴赣州任职。\n据江西省委组织部微信公号“江西组工微讯”消息，7月9日，赣州市召开全市领导干部大会，省委组织部副部长、省人大常委会选举任免联络工作委员会主任徐忠同志宣布省委关于赣州市政府主要负责同志任职决定：李克坚同志任赣州市委委员、常委、副书记，提名为赣州市政府市长候选人。市长的任职按有关法律规定办理。\n李克坚，男，汉族，河南伊川人，1969年6月生，中共党员，省委党校研究生。他曾任井冈山自然保护区管理局党委书记、局长，吉安县委副书记、县长，吉安县委书记，吉安市政府副市长，吉安市委常委，市政府党组副书记、副市长，今年1月出任江西省体育局局长。\n去年12月，江西省公安厅党委副书记、常务副厅长万凯出任赣州市委副书记、副市长、代市长，今年1月当选赣州市长，5月宣告落马。\n(本文来自澎湃新闻，更多原创资讯请下载“澎湃新闻”APP)\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.fun",
-          "link": "https://www.thepaper.cn/newsDetail_forward_18943015",
-          "publishedOn": "2022-07-10T02:23:03.000Z",
-          "wordCount": 2563,
-          "title": "江西省体育局局长李克坚出任赣州市委副书记，提名市长候选人",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_18944646",
-          "author": null,
-          "description": "澎湃新闻资深记者 陈逸欣\n 来源：澎湃新闻\n                \n“高帅旗同学，你被我校录取为凯原法学院法律专业全日制硕士研究生，请凭本通知书来校报到。”7月7日上午，饿了么骑手高帅旗在送外卖的路上，收到了上海交通大学的录取通知书。\n在送外卖路上，高帅旗收到上海交大的研究生录取通知。 本文图片均为受访者提供\n澎湃新闻记者从“饿了么”获悉，今年26岁的高帅旗，此前在河南郑州读书，大学期间当过兵，后来家庭遭遇变故，父亲生病、收入不再。重重困难下，他一边照顾家人，一边跨专业考研。\n作为家里的顶梁柱，他在郑州成为一名外卖员。这个夏天，由于服务靠谱、吃苦耐劳，高帅旗保持了零差评的记录。高温天下，他最重一单外卖有80斤，最高爬过14楼，将每一份外卖准时送到用户手上。\n“他每天要跑单，中间回家做饭、照顾家人，晚上还坚持学习，克服困难考上名牌大学研究生，这种自强不息感染了很多人。”他所在站点的站长冯超说，“我们叫他‘阿甘’。”\n顾家、学习都不误，一口气爬过14楼\n7月5日，郑州暴雨，送外卖路上，小车驶过带起水浪，差点把高帅旗的电动车掀翻。当天在雨中，他有五六个订单，完整挨个送到了。\n每天早上10点多，高帅旗会上线，做好外卖高峰的服务；2点半左右回家，照顾家人；4点多再上线，忙到晚上8点多，回家后开始学习，“强迫自己看书到一点多，争取抓紧把法考（国家统一法律职业资格考试）过了。”\n为什么选择送外卖？考研结束后，他琢磨去工作，但需要能养家、顾家，还能学习。有位堂哥一直做骑手，他询问后得知，“干这个能养家，时间上还能自由安排，挺合适。”\n高帅旗在送外卖\n今年4月18日，他加入饿了么，成为一名跑单骑手。\n“这份工作，上手快，多劳多得。”高帅旗说，站点就在家附近，方便照顾家里，跑单软件用起来很顺手，站长、同事也挺帮忙、很有耐心，也就一个星期，他就摸熟了。\n起初，他给自己每天定量30单，因为要平衡家庭、工作和学习，这样一个月收入5000多元，作为家庭开销，也积攒一些学费。\n送外卖以来，因为服务靠谱，高帅旗至今保持了“零差评”的记录。\n最重的一次，有个超市的订单重80斤，包括西瓜、桶装水、食用油、酱油等大货。\n让他印象深刻的，还有一次居民楼电梯坏了，“我以为是4楼，直接走楼梯，到了一看是14楼，又爬了10层，还好正常送到，后面的单子也没耽误。”\n退伍后苦读，高温天送好外卖有“绝招”\n大学期间在边疆当兵两年，塑造了高帅旗吃苦耐劳、不怕困难的性格。“知道自己要什么，不想待在一隅，想看到更大的世界，开始发奋，决定跨专业考研。”他说。\n高帅旗当兵时照片\n他的目标是上海交大法律专业。备考期间，去年8月，父亲脑出血住院，家中生意也被影响。因为要在医院照顾父亲，这两三个月，为了不落下学习，他在病房里，每天背默5道题、复习1000个英语单词。\n“考下来才能有所交代。实在坚持不下去时候，想想当兵的锻炼，这都不算事。”他咬紧牙关，做好心理建设，继续学习。\n送外卖以来，他不怕困难、爱琢磨的性格同样派上了用场。正是夏天，室外温度超过37℃，地表甚至达到70℃，送餐要保温，冻品不能融化。\n他对餐箱进行了改造。“把家里的被子晒晒，拆开拿出来棉花，用塑料布装好、压瓷实垫在周围，这样外卖不会洒，保温效果也好。”\n有时候，小区不能进电动车、没有电梯，客户还会点很多大桶水。“蛮大的一个小区，不让进车，楼在最远的地方，扛着一大堆东西跑过去，到了满头大汗。对方不好意思，一直说感谢，非要塞瓶饮料。”\n做到准时达，也有“绝招”。他事先熟悉道路，结合软件的智能推荐，提前规划好路径，以最快速度送到，同时与商家、客户沟通好，避免不必要的误解。\n“读研后在上海也可以跑外卖”\n天太热了，送外卖时高帅旗会穿好冰袖、外套，做好防晒。站点也给每个人准备了降暑包，做好了夏天防暑降温措施，为外卖服务做好各种保障。\n不忙时，他会在站点休息，这里有空调，有冷饮和水果。骑手们会一起聊聊天，他和大家相处的很好。\n除了站长，其实很少人知道，他一个人支撑着四口之家。父亲生病需要人照顾，弟弟才上初中。\n站长冯超说，高帅旗很能感染人，让大家都充满了干劲和能量。“像阿甘一样。”\n在高帅旗看来，“阿甘”是“不躺平，用自己双手去养活自己，照顾好家人”。\n9月份就要开学了，他已经开始憧憬未来生活：研一好好学习，过了法考；接下来好好实习，增加经历体验；未来好好发展，扎着脚、立着根，做有社会价值的事，帮助更多人。\n不过首先，他打算把郑州房子卖了，送父母回到开封老家，这样可以减轻经济压力。开学前，他能攒一两万元，开学后准备申请贷款，同时勤工助学。\n他说，来到上海后也可以送外卖，一边学习一边攒钱，凭自己的努力在上海闯出一片天。\n(本文来自澎湃新闻，更多原创资讯请下载“澎湃新闻”APP)",
-          "link": "https://www.thepaper.cn/newsDetail_forward_18944646",
-          "publishedOn": "2022-07-10T02:23:03.000Z",
-          "wordCount": 2565,
-          "title": "送外卖路上收到上海交大研究生录取通知，他被称&ldquo;骑手阿甘&rdquo;",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_18948024",
-          "author": null,
-          "description": "澎湃新闻记者 钟煜豪\n 来源：澎湃新闻\n                \n中国社会科学院大学图书馆日前发文透露，近日，由于我校读者违规使用《Westlaw Classic法律在线》数据库，我校接到数据库商的通报，学校IP受到该数据库商永久封禁，影响数据库的正常使用。\n消息称，经网络中心和图书馆联合调查，确认为我校法学院2018级博士研究生邱波同学所为。数据库商提供数据显示：邱同学在2022年6月16日137分钟内下载842篇文献，6月17日137分钟内下载1736篇文献。此行为严重影响了我校师生正常的学习和科研秩序，也有损我校声誉。\n根据中国社会科学院大学图书馆《电子资源的知识产权和使用管理规则》，对邱波同学的违规行为作出如下处理：一、责令该生向图书馆提交书面陈述和检讨，并保证今后不再发生类似违规行为。二、对该生予以全校范围通报批评。\n中国社会科学院大学图书馆再次重申：为了保护电子资源的知识产权，维护中国社会科学院大学的声誉，保护我校广大读者的正当权益，图书馆要求读者要合理使用图书馆订购的电子资源，重视并遵守电子资源知识产权的有关规定。不得使用软件工具批量下载电子资源，或以非正常阅读速度连续、集中、批量下载电子资源，或整本下载电子期刊。对于《Westlaw Classic法律在线》数据库的访问问题，消息称，图书馆与数据商持续沟通中，恢复访问时间及访问方式待定，确定后将另行通知。\n公开资料显示，Westlaw Classic全球法律数据库是由汤森路透法律法规集团旗下美国West出版公司于1975年开发的综合性法律、法规、新闻和公司信息平台。汤森路透Westlaw Classic是为法律专业人士设计的，内容包括美国、加拿大、澳大利亚、欧盟、香港地区的成文法、判例法、国际条约，1000余种法学期刊，1000余种法学专著、教材、词典和百科全书、法律格式文本范本和实务指南，新闻、公司和商业信息，覆盖几乎所有的法律学科。\n澎湃新闻注意到，2017年10月，北京大学图书馆也曾发文称，近期，图书馆接到Westlaw数据库商的警告，称我校某IP地址在极短时间内连续下载了Westlaw数据库的2050个文档，已经构成超量下载。经查实，超量下载者为本校软件与微电子学院2015级硕士研究生黄某。\n通报指出，该同学的超量下载行为严重违反了本校与数据库商之间的协议，导致本校其他师生在一段时间内无法正常使用Westlaw数据库，造成了恶劣的影响。经图书馆和该同学所在院系批评教育后，该同学认识到自己的错误，愿意承担相应的责任、删除超量下载的文献，并写出书面致歉信，对由此给学校和其他师生带来的不良影响表示深深的歉意。为维护北京大学的声誉，保障广大合法用户的正当权益，确保数据库的正常使用，现根据《北京大学校园网电子资源使用管理办法》（校发[2008] 4号）的有关规定，对该同学予以通报批评。\n北京大学图书馆当时表示，希望各位读者务必引以为戒，严格遵守《北京大学校园网电子资源使用管理办法》，正常合理地使用图书馆订购的各类数据库资源，杜绝此类事件的发生。\n(本文来自澎湃新闻，更多原创资讯请下载“澎湃新闻”APP)",
-          "link": "https://www.thepaper.cn/newsDetail_forward_18948024",
-          "publishedOn": "2022-07-10T01:53:04.000Z",
-          "wordCount": 2567,
-          "title": "在校生非正常下载2578篇文献，中国社科大IP遭一数据库商封禁",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_18945626",
-          "author": null,
-          "description": "澎湃新闻记者 杨喆 实习生 郭琦\n 来源：澎湃新闻\n                \n因一场突然升级的疫情，小城泗县近日成为舆论关注的焦点。\n地处苏、鲁、豫、皖四省交界处的泗县隶属安徽最北部的宿州市。古称泗州，因其境内有泗水流过而得名。\n6月26日晚，泗县疫情防控指挥部通报，在重点人群核酸检测中发现1例无症状感染者，随后在对该感染者的密切接触者核酸检测中，又发现2例核酸初筛阳性。这一通报，结束了安徽已保持25天的全省“零新增”记录。\n是夜，小城未眠。次日零时起，全县开始实行静态管理，所有居民足不出户。一场和时间的赛跑、与病毒的较量就此展开。\n新冠病毒的蔓延速度惊人。疫情发生的第五天，泗县当日新增感染者人数首次破百。9天内，当地累计报告感染者人数已超千例。与此同时，安徽、江苏多地也相继报告出现了与泗县相关联的病例。泗县也成为了安徽本轮疫情的“风暴眼”。\n7月8日，战疫进入第十二日。当天上午，宿州市新冠肺炎疫情防控应急指挥部通报，在泗县前十轮核酸检测中，泗县疫情检出社会面阳性数已连续八天下降，第九轮核酸检测筛查社会面阳性感染者3例，目前第十轮核酸检测结果已复核完毕，实现了社会面清零。\n但上述通报也直言，社会面清零不等于疫情结束，由于前期感染基数大、时间长，基础还不牢固，不能完全排除社会面还有检出阳性的可能，要继续做实做细现有工作，巩固来之不易的成果，防止反弹。\n“零号病人”在哪\n病毒学专家、汕头大学生物医学工程系教授常荣山对澎湃新闻（www.thepaper.cn）表示，泗县已经历过多轮核酸检测，从目前的情况看，他预计当地的疫情将在20天内得到有效控制，在此期间要尽快进行溯源工作。\n而对于引发这样一起大规模疫情的源头，目前仍未清晰。宿州市卫生健康委党组成员、市疾控中心主任王凯日前在接受央视的连线采访时透露，本轮泗县疫情的首例阳性感染者是通过主动就诊发现的，从以往国内的疫情处置经…",
-          "link": "https://www.thepaper.cn/newsDetail_forward_18945626",
-          "publishedOn": "2022-07-10T01:53:04.000Z",
-          "wordCount": 2576,
-          "title": "特稿丨泗县战疫的日与夜",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_18945567",
-          "author": null,
-          "description": "新华视点微信公号\n \n                \n新华视点微信公号7月9日消息，记者近日从北京理工大学重庆创新中心获悉，北京理工大学将牵头在重庆研制深空探测雷达“中国复眼”，项目预期作用距离达到1.5亿公里。该项目是“超大分布孔径雷达高分辨率深空域主动观测设施”二期项目。\n位于重庆的项目第一期“分布式雷达天体成像测量仪验证试验场”。（北京理工大学重庆创新中心供图）\n据了解，“超大分布孔径雷达高分辨率深空域主动观测设施”由北京理工大学重庆创新中心谋划建设，将高分辨率观测近地/主带小行星、月球、金星、火星、木星等。\n北京理工大学校长龙腾介绍，“中国复眼”由很多小天线合成一个大天线，对于电磁波自发自收，能观测到小行星。可满足近地小行星防御、空间态势感知等，并用于地球宜居性、行星形成等前沿科技创新研究。\n据介绍，项目第一期“分布式雷达天体成像测量仪验证试验场”，由4部16米孔径雷达组成，用于验证雷达体制和关键技术可行性，可实现月球三维成像，现已启动建设。\n项目第二期将建设25部至36部高分辨率分布式雷达，每一部的天线有25米口径，可实现千万公里外的小行星探测和成像，完成深空雷达探测与成像的演示验证，为我国近地小行星撞击防御和行星科学研究提供重要支撑。\n(本文来自澎湃新闻，更多原创资讯请下载“澎湃新闻”APP)\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.fun",
-          "link": "https://www.thepaper.cn/newsDetail_forward_18945567",
-          "publishedOn": "2022-07-10T01:23:04.000Z",
-          "wordCount": 2560,
-          "title": "&ldquo;中国复眼&rdquo;开建，可实现千万公里外小行星探测成像",
-          "imageUrl": null
         }
       ]
     },
@@ -5336,6 +5386,76 @@
       "feedUrl": "https://www.nationalreview.com/feed/",
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
+        {
+          "id": "https://www.nationalreview.com/?p=1299968",
+          "author": "Charles C. W. Cooke",
+          "description": "When push came to shove, the West Virginia senator failed to follow through on his stated commitment to fiscally responsible policy-making.",
+          "link": "https://www.nationalreview.com/2022/08/joe-manchin-was-all-talk/",
+          "publishedOn": "2022-08-08T15:51:44.000Z",
+          "wordCount": 5116,
+          "title": "Joe Manchin Was All Talk",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/08/manchin.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1299833",
+          "author": "Caroline Downey",
+          "description": "DeSantis is set to headline rallies for Kari Lake, Blake Masters, J.D. Vance, Doug Mastriano, Mark Ronchetti, and Yvette Herrell.",
+          "link": "https://www.nationalreview.com/news/desantis-to-headline-unite-and-win-rallies-for-gop-candidates-in-key-elections/",
+          "publishedOn": "2022-08-08T15:28:40.000Z",
+          "wordCount": 4457,
+          "title": "DeSantis to Headline ‘Unite and Win’ Rallies for GOP Candidates in Key Elections",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/08/desantis-2.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1299658",
+          "author": "Caroline Downey",
+          "description": "The rifles will be kept in safes accessible only to school resource officers.",
+          "link": "https://www.nationalreview.com/news/north-carolina-schools-to-stock-ar-15s-to-prevent-uvalde-repeat/",
+          "publishedOn": "2022-08-08T12:47:08.000Z",
+          "wordCount": 4584,
+          "title": "North Carolina Schools to Stock AR-15s to Prevent Uvalde Repeat",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2017/11/gun-control-liberals-magical-thinking.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1297396",
+          "author": "Aron Ravin",
+          "description": "In a time of growing polarization and groupthink, the American Enterprise Institute is a model for universities everywhere.",
+          "link": "https://www.nationalreview.com/2022/08/for-true-intellectual-diversity-look-outside-academia/",
+          "publishedOn": "2022-08-08T10:30:52.000Z",
+          "wordCount": 5771,
+          "title": "For True Intellectual Diversity, Look outside Academia",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/08/aei.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1299428",
+          "author": "Kathryn Jean Lopez",
+          "description": "The Knights of Columbus show the way.",
+          "link": "https://www.nationalreview.com/2022/08/russias-war-on-ukraine-brings-out-the-best-in-people/",
+          "publishedOn": "2022-08-08T10:30:27.000Z",
+          "wordCount": 5216,
+          "title": "Russia’s War on Ukraine Brings Out the Best in People",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/08/ukrainerefugee.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1285739",
+          "author": "Isaac Schorr",
+          "description": "An analysis of LAPD data found that, earlier this year, 1,777 crimes were committed within 1,500 feet of the six stores that are closing in Los Angeles.",
+          "link": "https://www.nationalreview.com/news/a-wall-of-flame-in-the-womens-restroom-why-starbucks-is-closing-stores-across-the-country/",
+          "publishedOn": "2022-08-08T10:30:27.000Z",
+          "wordCount": 5129,
+          "title": "‘A Wall of Flame in the Women’s Restroom’: Why Starbucks Is Closing Stores across the Country",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/08/starbucks.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1298125",
+          "author": "Andrew Stuttaford",
+          "description": "Does the ‘g’ in ESG stand for genocide?",
+          "link": "https://www.nationalreview.com/2022/08/china-and-an-esg-dilemma/",
+          "publishedOn": "2022-08-08T10:30:13.000Z",
+          "wordCount": 5914,
+          "title": "China and an ESG ‘Dilemma’",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2020/03/xi-jinping-greece.jpg?fit=2057%2C1200"
+        },
         {
           "id": "https://www.nationalreview.com/?p=1299321",
           "author": "John Fund",
