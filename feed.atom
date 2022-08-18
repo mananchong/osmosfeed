@@ -2,10 +2,90 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mananchong.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-18T07:41:12.053Z</updated>
+    <updated>2022-08-18T17:16:10.367Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mananchong.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://mananchong.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Former Trump Organization CFO Pleads Guilty to Tax Fraud, Agrees to Testify in Trial]]></title>
+        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1312253</id>
+        <link href="https://www.nationalreview.com/news/former-trump-organization-cfo-pleads-guilty-to-tax-fraud-agrees-to-testify-in-trial/"/>
+        <updated>2022-08-18T14:52:11.000Z</updated>
+        <summary type="html"><![CDATA[He agreed to a plea deal that will require him to testify about the financial practices of the company.]]></summary>
+        <author>
+            <name>Diana Glebova</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[North Carolina Can Ban Most Abortions after 20 Weeks, Judge Rules]]></title>
+        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1312091</id>
+        <link href="https://www.nationalreview.com/news/north-carolina-can-ban-most-abortions-after-20-weeks-judge-rules/"/>
+        <updated>2022-08-18T13:40:06.000Z</updated>
+        <summary type="html"><![CDATA[The ruling comes the same day that South Carolina’s supreme court temporarily halted the state’s ‘fetal heartbeat’ abortion ban.]]></summary>
+        <author>
+            <name>Diana Glebova</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Mar-a-Lago Affidavit Circus]]></title>
+        <id>https://www.nationalreview.com/?p=1312071</id>
+        <link href="https://www.nationalreview.com/2022/08/the-mar-a-lago-affidavit-circus/"/>
+        <updated>2022-08-18T13:05:38.000Z</updated>
+        <summary type="html"><![CDATA[What to expect (and not) from the latest act of the Trump search-warrant drama.]]></summary>
+        <author>
+            <name>Andrew C. McCarthy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Judge to Weigh Unsealing Mar-a-Lago Raid Affidavit]]></title>
+        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1312058</id>
+        <link href="https://www.nationalreview.com/news/judge-to-weigh-unsealing-mar-a-lago-raid-affidavit/"/>
+        <updated>2022-08-18T12:48:12.000Z</updated>
+        <summary type="html"><![CDATA[Trump has called for the ‘immediate release’ of the ‘unreacted’ affidavit, saying he was ‘cooperating fully’ before the search.]]></summary>
+        <author>
+            <name>Diana Glebova</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deter China through Strength and Confidence]]></title>
+        <id>https://www.nationalreview.com/?p=1311225</id>
+        <link href="https://www.nationalreview.com/2022/08/deter-china-through-strength-and-confidence/"/>
+        <updated>2022-08-18T10:30:45.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. is the dominant maritime power in the Pacific; let’s keep it that way.]]></summary>
+        <author>
+            <name>John F. Lehman and Bing West</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Crash Course in Medieval Armor at Nashville’s Frist Museum]]></title>
+        <id>https://www.nationalreview.com/?p=1311212</id>
+        <link href="https://www.nationalreview.com/2022/08/a-crash-course-in-medieval-armor-at-nashvilles-frist-museum/"/>
+        <updated>2022-08-18T10:30:42.000Z</updated>
+        <summary type="html"><![CDATA[The museum, with no collection of its own, wins by focusing on variety in a stellar Art Deco setting.]]></summary>
+        <author>
+            <name>Brian T. Allen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Great Barrier Reef Defies Doomsday Predictions]]></title>
+        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1309950</id>
+        <link href="https://www.nationalreview.com/news/great-barrier-reef-defies-doomsday-predictions/"/>
+        <updated>2022-08-18T10:30:41.000Z</updated>
+        <summary type="html"><![CDATA[Scientists and the journalists who trust them have been writing the reef’s obituary for years, but a new report proves them wrong.]]></summary>
+        <author>
+            <name>Ryan Mills</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Despite Trump’s Defeat, Congressional GOP Becoming More Like Him]]></title>
+        <id>https://www.nationalreview.com/?p=1311721</id>
+        <link href="https://www.nationalreview.com/2022/08/despite-trumps-defeat-congressional-gop-becoming-more-like-him/"/>
+        <updated>2022-08-18T10:30:02.000Z</updated>
+        <summary type="html"><![CDATA[When the dust settles on the 2022 election, Republicans on Capitol Hill are going to be a lot more in tune with Trump than during his presidency.]]></summary>
+        <author>
+            <name>Philip Klein</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ex-CIA Director Claims Modern GOP Most Dangerous Political Force He’s Encountered]]></title>
         <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1311778</id>
@@ -16421,203 +16501,6 @@ https://feedx.fun]]></summary>
 (本文来自澎湃新闻，更多原创资讯请下载“澎湃新闻”APP)]]></summary>
         <author>
             <name>澎湃新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Russia, Iran Forge Closer Alliance against West in Tehran Meeting]]></title>
-        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1274509</id>
-        <link href="https://www.nationalreview.com/news/russia-iran-forge-closer-alliance-against-west-in-tehran-meeting/"/>
-        <updated>2022-07-20T02:35:40.000Z</updated>
-        <summary type="html"><![CDATA[Khamenei called NATO a ‘dangerous entity’ that has ‘no limits.’]]></summary>
-        <author>
-            <name>Diana Glebova</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[28省份2021年平均工资出炉：8地非私营超10万元]]></title>
-        <id>https://www.thepaper.cn/newsDetail_forward_19092811</id>
-        <link href="https://www.thepaper.cn/newsDetail_forward_19092811"/>
-        <updated>2022-07-20T02:23:05.000Z</updated>
-        <summary type="html"><![CDATA[熊思怡/中新经纬客户端
- 
-                
-中新经纬7月20日报道，据不完全统计，除上海、湖北、西藏外，28省份已披露2021年城镇单位就业人员年平均工资，整体看，城镇非私营单位就业人员平均工资高于城镇私营单位。
-8地非私营超10万元
-2021年全国城镇非私营单位就业人员年平均工资为106837元，对比“全国平均线”，北京、天津、浙江、广东、江苏、青海6省份平均工资超过全国。此外，宁夏、重庆两省份城镇非私营单位就业人员年均工资也跨过10万元关口，分别为105266元、101670元。
-分区域看，上述8个“10万+”省份中，青海、宁夏、重庆处西部地区，其余5省份均在东部地区。
-北京城镇非私营单位就业人员(在岗职工、劳务派遣人员及其他就业人员之和)年平均工资暂居第一，达194651元！按行业门类划分，北京金融业城镇非私营单位在岗职工平均工资最高，为395402元；信息传输、软件和信息技术服务业位居第二，年平均工资为291864元；文化、体育和娱乐业名列第三，为227040元。
-北京金融公司众多，Wind数据显示，按证监会行业分类标准，A股现有126家金融公司，北京独揽22家，数量名列第一，因此吸引大量金融人才。加上2021年金融业行情转好，金融机构业绩回暖，部分证券公司、投资公司薪酬增加，金融业平均工资水涨船高。
-值得一提的是，2020年城镇非私营单位就业人员平均工资前三省份，依次为北京178178元、上海171884元、西藏121005元。截至目前，上海仅公布2021年全口径城镇单位就业人员平均工资，为136757元；西藏则尚未公布相关数据。
-7地私营超6万元
-对比城镇私营单位平均工资，北京、广东、浙江、江苏、天津、福建、海南7 省份就业人员2021年平均工资超6万元，即月均工资超5000元。分区域看，上述7省份均在东部地区。
-北京城镇私营单位从业人员以100011元的年平均工资水平暂居第一，约合8334.25元/月；其次为广东，以73231元/年暂居第二，约合6102.58元/月；浙江紧随其后，年均69228元，约合5769元/月。
-以广东省为例，分行业门类看，年平均工资最高的分别是信息传输、软件和信息技术服务业140251元，金融业133540元，科学研究和技术服务业86978元；从增长速度看，年平均工资增速最高的三个行业门类依次为采矿业，金融业和电力、热力、燃气及水生产和供应业，分别增长35.6%、24.9%和17.8%。
-国家统计局人口和就业统计司司长王萍萍日前解读指出，随着信息化发展，近几年信息传输、软件和信息技术服务业工资水平与增速一直维持在较高水平，加之疫情防控需要，在线消费需求旺盛，带动了互联网和相关服务行业平均工资的增长。
-为啥总感觉“拖后腿”“被平均”？
-国家统计局分析，公众对工资收入的感觉往往是依据拿到手的实发工资，但统计部门统计的工资是税前工资。其次，平均工资不等于个人工资，不能简单拿个人工资与总体平均工资进行直接比较。
-国家统计局指出，工资和收入一般呈现正偏态分布， 平均值往往偏离并高于一般水平，即大多数个体数据低于平均值。
-既然如此，平均工资到底有啥用？和“我”有啥关系？
-事实上，平均工资和每个人的钱包息息相关。例如，《社会保险法》规定，根据职工平均工资增长、物价上涨情况，适时提高基本养老保险待遇水平；《最低工资规定》指出，确定和调整月最低工资标准，应参考当地就业者及其赡养人口的最低生活费用、城镇居民消费价格指数、职工平均工资等因素；《非法用工单位伤亡人员一次性赔偿办法》明确，赔偿基数指单位所在工伤保险统筹地区上年度职工年平均工资……
-(本文来自澎湃新闻，更多原创资讯请下载“澎湃新闻”APP)]]></summary>
-        <author>
-            <name>澎湃新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[深交所严密监控中通客车交易情况，股价已严重脱离公司基本面]]></title>
-        <id>https://www.thepaper.cn/newsDetail_forward_19085086</id>
-        <link href="https://www.thepaper.cn/newsDetail_forward_19085086"/>
-        <updated>2022-07-20T01:53:04.000Z</updated>
-        <summary type="html"><![CDATA[澎湃新闻记者 田忠方
- 来源：澎湃新闻
-                
-上半年股价涨逾270%的中通客车股份有限公司（下称“中通客车”，000957），其交易情况正被监管严密监控。
-自5月13日以来，中通客车股价上涨已严重脱离公司基本面。为维护市场秩序，保护投资者合法权益，深交所曾在每周监管动态中公开对该股实施重点监控，对存在异常交易行为的投资者严格采取自律监管措施。
-此外，深交所曾向上市公司发送关注函，督促其充分披露相关信息，其间因股价异常波动公司两次申请停牌核查，向市场提示交易风险。
-据接近监管人士向澎湃新闻记者表示，深交所要求会员强化对频繁参与炒作客户的交易行为管理，引导其树立风险意识、合规理性参与交易。
-截至7月19日，中通客车跌停，收报22.89元/股。
-上半年股价涨逾270%，大股东减持也浇不灭热度
-Wind数据显示，中通客车股价上半年涨幅高达276.01%，位列A股上半年涨幅第四名。
-复盘其股价走势，5月13日，中通客车开启第一个涨停板，随后一发不可收拾，拿下十三连板。
-其中，从5月13日至6月21日，中通客车在22个交易日内吃下15个涨停板，区间累计涨幅高达391.24%。
-随着股价暴涨，公司第二大股东山东省国有资产投资控股有限公司（下称“山东国投”）宣布了减持。
-5月31日晚，中通客车发布公告称，收到持股5%以上股东山东国投出具的《关于减持股份计划的告知函》，拟自减持计划公告之日起15个交易日后的6个月内通过集中竞价交易方式减持中通客车股份不超过1180万股。
-截至今年一季度末，山东国投共持有中通客车股份11238万股，占总股本的18.96%。公司表示，这次减持的原因是经营发展的需要。
-不过，大股东减持并未让中通客车股价的上涨熄火。
-6月1日开盘后，中通客车股价短暂下跌随后翻红，盘中还一度触及了涨停，收盘时股价仍上涨6.52%。
-7月19日，中通客车二股东再度减持。
-中通客车公告称，山东省国有资产投资控股有限公司于今日继续通过集中竞价交易减持中通客车股份592.9万股，占上市公司总股本的1%，全部为二级市场增持的股份。减持完成后，山东国投持有中通客车股份9459.95万股，占上市公司总股本的15.9553%。
-上半年扭亏为盈，净利润已连续5年出现下滑，去年亏损逾2亿元
-中通客车公告指出，2022年上半年，公司盈利了2000万元至2500万元。同时，扣除非经常性损益后的净利润，同比（与去年同期相较）上升了75%至80%。
-同时，基本每股收益盈利为0.0337元/股至0.0422元/股。去年同期，中通客车基本每股收益亏损0.2518元/股。
-对于扭亏为盈的原因，公告称：一是公司调整市场与产品结构，大中型客车销量增加，产品毛利率提升。二是本期处置新疆中通客车有限公司股权影响利润增加。
-业绩方面，Wind数据显示，中通客车净利润已连续5年出现下滑。
-2017年至2020年，中通客车净利润分别实现1.91亿元、0.37亿元、0.33亿元、0.24亿元，同比分别下滑67.36%、80.87%、9.57%、28.87%。
-2021年，中通客车出现亏损，达2.20亿元，净利润同比下滑了1033.23%。
-核酸检测车概念引发市场关注
-官网资料显示，中通客车成立于1958年，1971年开始正式专业生产客车，2000年于深圳成功上市，是国内最早的客车生产企业和客车上市企业之一。
-产品方面，官网显示，目前中通客车产品种类涵盖了6-18米公路客车、公交、旅游、团体、高端商务、校车、物流车、特种车等各个细分市场共16大系列260余个品种。其中，新能源客车产品和氢燃料客车产品市场占有率领先。
-产能方面，中通客车主要生产设备2000台（套），具有年产3万辆节能与新能源客车的生产能力。
-不过，值得一提的是，把中通客车吹上风口的核酸检测车，并不是新产品。据中通客车官网，早在2020年11月，中通客车就推出了核酸检测车。
-今年3月份，中通客车开始较为密集地宣传该款核酸检测车。中通客车表示，其核酸检测车可实现随采随检，最快2个小时出结果，每辆车的日检测量达到10万人次。
-5月13日，国家卫健委在国务院联防联控机制新闻发布会上提出，在大城市建立步行15分钟核酸“采样圈”。
-股权方面，Wind资料显示，截至2022年一季度，中通客车持股比例在5%以上的股东，共有2家。
-其中，中通汽车工业集团有限责任公司是中通客车第一大股东，持股比例为21.07%。山东省国有资产投资控股有限公司紧随其后，持股比例为18.96%。
-(本文来自澎湃新闻，更多原创资讯请下载“澎湃新闻”APP)]]></summary>
-        <author>
-            <name>澎湃新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国务院发言人：美国仍继续坚持一个中国政策]]></title>
-        <id>https://www.thepaper.cn/newsDetail_forward_19076865</id>
-        <link href="https://www.thepaper.cn/newsDetail_forward_19076865"/>
-        <updated>2022-07-20T01:23:04.000Z</updated>
-        <summary type="html"><![CDATA[央视新闻
- 
-                
-18日，美国国务院发言人内德·普赖斯在当天的简报会上回答台湾相关问题时表示，美国仍继续坚持一个中国政策与中国接触。
-(本文来自澎湃新闻，更多原创资讯请下载“澎湃新闻”APP)]]></summary>
-        <author>
-            <name>澎湃新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国胡佛水坝配套楼房发生爆炸]]></title>
-        <id>https://www.thepaper.cn/newsDetail_forward_19089080</id>
-        <link href="https://www.thepaper.cn/newsDetail_forward_19089080"/>
-        <updated>2022-07-20T00:23:04.000Z</updated>
-        <summary type="html"><![CDATA[顾乡 刘旭/央视新闻
- 
-                
-当地时间7月19日，美国内华达州胡佛水坝坝体下方的配套楼房发生爆炸事件，社交媒体上流传的视频显示，爆炸点离大坝坝体还有一段距离。
-目前还不清楚爆炸发生的原因是什么，大坝所在的内华达州博尔德市消防部门在接到发生爆炸的报告后正在展开调查，爆炸造成的小规模起火也已经被扑灭。
-(本文来自澎湃新闻，更多原创资讯请下载“澎湃新闻”APP)]]></summary>
-        <author>
-            <name>澎湃新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[House Passes Bill to Protect Same-Sex Marriage]]></title>
-        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1274386</id>
-        <link href="https://www.nationalreview.com/news/house-passes-bill-to-protect-same-sex-marriage/"/>
-        <updated>2022-07-19T23:11:56.000Z</updated>
-        <summary type="html"><![CDATA[The vote comes as Democrats have suggested that the Supreme Court is poised to overturn Obergefell v. Hodges.]]></summary>
-        <author>
-            <name>Brittany Bernstein</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[持续追踪丨俄军疑击落己方战机，西方武器涌入改变战场平衡？]]></title>
-        <id>https://www.thepaper.cn/newsDetail_forward_19080354</id>
-        <link href="https://www.thepaper.cn/newsDetail_forward_19080354"/>
-        <updated>2022-07-19T22:23:04.000Z</updated>
-        <summary type="html"><![CDATA[澎湃新闻记者 王卓一
- 来源：澎湃新闻
-                
-当地时间7月18日，有乌克兰媒体报道称，俄罗斯军队在乌克兰卢甘斯克州意外击落了一架价值3600万美元（约合人民币2.4亿元）的俄军苏-34战斗轰炸机。
-随着大量西方武器的涌入，俄乌战场的形势可能也在悄悄发生改变。乌克兰总统泽连斯基7月18日表示，乌军现在已经有能力给俄军造成“重大损失”。
-在冲突持续的同时，俄罗斯天然气工业股份公司（俄气，Gazprom）日前告知部分欧洲天然气买家，由于“特殊情况”，该公司很难保证天然气供应。有外媒称，在俄罗斯向欧洲国家的供气量普遍减少的当下，当前仅有的未受影响的国家便是俄罗斯的欧洲盟友塞尔维亚和匈牙利。
-乌媒：俄军起初以为击落乌战机
-据美国《新闻周刊》（Newsweek）7月18日报道，一架俄军苏-34战斗轰炸机日前在由自行独立的“卢甘斯克人民共和国”控制的卢甘斯克州城市阿尔切夫斯克（Alchevsk）附近坠毁，阿尔切夫斯克是目前俄乌冲突的焦点地区之一。
-7月18日，乌克兰武装部队司令部在社交平台Telegram上分享的视频和图片似乎显示了一架俄军苏-34战斗轰炸机烧焦的残骸。
-据乌克兰媒体报道，视频中的摄影师称俄军击落的是一架乌克兰飞机，但飞机上的铭文表明，这是一架隶属于俄空军的喷气式飞机。
-一位名叫鲁斯兰（Ruslan）的Telegram用户回复道：“这架喷气式飞机不幸是我们（俄罗斯）的……我从朋友处听到了消息……这已经得到证实了。”
-乌克兰新闻网站Dialog.ua报道称，这次意外可能发生在7月17日，当时乌克兰军队对被俄军占领城市的军事仓库发动了袭击。
-另据乌克兰媒体《主编》（Glavred）报道，俄方起初相信击落了一架乌克兰飞机，并将飞机被击落的视频上传到Telegram。但在得知这其实是一架俄军战机后，俄方删除了这一视频。
-英国国防部则认为，在俄乌冲突爆发…]]></summary>
-        <author>
-            <name>澎湃新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[China Issues Threat About Pelosi’s Planned Trip to Taiwan]]></title>
-        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1274299</id>
-        <link href="https://www.nationalreview.com/news/china-issues-threat-about-pelosis-planned-trip-to-taiwan/"/>
-        <updated>2022-07-19T22:21:49.000Z</updated>
-        <summary type="html"><![CDATA[Chinese Foreign Ministry spokesman Zhao Lijian said the U.S. should take ‘full responsibility for any ensuing consequences.’]]></summary>
-        <author>
-            <name>Diana Glebova</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New San Francisco District Attorney Cleans House after Replacing Chesa Boudin]]></title>
-        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1274251</id>
-        <link href="https://www.nationalreview.com/news/new-san-francisco-district-attorney-cleans-house-after-replacing-chesa-boudin/"/>
-        <updated>2022-07-19T21:42:29.000Z</updated>
-        <summary type="html"><![CDATA[Brooke Jenkins said the shakeup was made as part of her efforts to refocus her office’s efforts on cracking down on crime and holding repeat offenders accountable.]]></summary>
-        <author>
-            <name>Ryan Mills</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Media Promote AOC, Omar Fake Handcuff Stunt]]></title>
-        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1274242</id>
-        <link href="https://www.nationalreview.com/news/media-promote-aoc-omar-fake-handcuff-stunt/"/>
-        <updated>2022-07-19T21:39:22.000Z</updated>
-        <summary type="html"><![CDATA[The ABC News story that is attached to the tweet fails to mention no handcuffs were present until the fifth paragraph.]]></summary>
-        <author>
-            <name>Brittany Bernstein</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New York City Lags on the ‘Pret Index’]]></title>
-        <id>https://www.nationalreview.com/?p=1274113</id>
-        <link href="https://www.nationalreview.com/2022/07/new-york-city-lags-on-the-pret-index/"/>
-        <updated>2022-07-19T19:54:15.000Z</updated>
-        <summary type="html"><![CDATA[A Bloomberg analysis of coffee-and-sandwich sales shows New York trailing London, Paris, and Hong Kong in its post-pandemic recovery.]]></summary>
-        <author>
-            <name>Dominic Pino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Russia Recruits North Koreans to Rebuild Occupied Donbas]]></title>
-        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1274037</id>
-        <link href="https://www.nationalreview.com/news/russia-recruits-north-koreans-to-rebuild-occupied-donbas/"/>
-        <updated>2022-07-19T19:41:23.000Z</updated>
-        <summary type="html"><![CDATA[North Korea was also one of only five countries to vote against a U.N. resolution condemning Russia’s invasion of Ukraine.]]></summary>
-        <author>
-            <name>Diana Glebova</name>
         </author>
     </entry>
 </feed>
