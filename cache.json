@@ -44,16 +44,6 @@
           "wordCount": 5796,
           "title": "R Weekly 2022-W32",
           "imageUrl": "https://rweekly.org/public/facebook.png"
-        },
-        {
-          "id": "https://rweekly.org/2022-W31.html",
-          "author": null,
-          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Kelly Bodwin, with help from the R Weekly team members and contributors.\nHighlight\nRStudio rebrands as Posit\n{shinytest2}: For testing Shiny apps. (slides)\nOne Quarto tip a day\nInsights\nSeeing R help outside official sources\nHello Quarto RStudio::conf keynote slides\n\nOne Quarto tip a day\nWhy R users should be happy about the Posit rebrand\n12 ggplot extensions for snazzier graphics\nTranslating between {tidymodels} and {scikit-learn}\nImplications of R syntax in Intro Stats\nR in the Real World\nCoolbutuseless: Interactive graphics in R\n\nSeasonality in Time Series with Fourier transforms\nRecreating a Bubble Chart from The Economist\nR in Organizations\nRStudio rebrands as Posit\n\nR …",
-          "link": "https://rweekly.org/2022-W31.html",
-          "publishedOn": "2022-08-01T00:00:00.000Z",
-          "wordCount": 6002,
-          "title": "R Weekly 2022-W31 RStudio becomes Posit, {shinytest2}, Quarto tips!",
-          "imageUrl": "https://rweekly.org/public/facebook.png"
         }
       ]
     },
@@ -240,26 +230,6 @@
           "publishedOn": "2022-08-02T05:02:13.000Z",
           "wordCount": 2564,
           "title": "戎默｜&ldquo;刑天舞干戚&rdquo;新解&mdash;&mdash;兼谈《庾信诗赋选》",
-          "imageUrl": null
-        },
-        {
-          "id": "http://www.thepaper.cn/newsDetail_forward_19254605",
-          "author": null,
-          "description": "谢其章\n 来源：澎湃新闻\n                \n\n《陶庵回想录》，陶亢德著，中华书局2022年6月出版，580页，88.00元\n对《陶庵回想录》理当有多种评论，理当有多种读后感。本文取个巧，走条捷径，写写烂熟于心的一直被正史打入另册的那些陶亢德编辑的文艺杂志，捎带着说说“陶边人物”的故事和本人集藏“陶编杂志”的故事。\n\n于我而言，有几个巧合汇集到中华书局新出版的《陶庵回想录》上面了。\n\n巧合一。《陶庵回想录》，铁定无疑，我将它评为心目中“2022最佳书”，一年甫半，就敢把话撂这儿。1996年我自己评“1996最佳书”的《文化古城旧事》（邓云乡著）也是中华书局出版的。1996年还是父亲考入中华书局五十周年纪念，父亲在中华书局与坐在对桌的母亲相识相恋，这以后才有了我，更以后才有了我在中华书局出的《书蠹艳异录》，父亲非常高兴，连称这是宿命轮回。\n\n巧合二。三十几年前，我的民国杂志初旅第一步即为陶亢德参与编辑和出资的《论语》《人间世》和《宇宙风》（陶亢德简称为《论》《人》《宇》，甚妙）。\n\n巧合三。《陶庵回想录》的“特约编辑”宋希於小老弟，在我奔走于琉璃厂旧书铺狠命搜刮老旧期刊的那几年才呱呱坠地才牙牙学语才蹒跚学步，如今小宋已全方位碾压老谢，后生可畏后生可畏，还是后生可畏。\n\n当初读《文化古城旧事》“不忍终卷”的感觉，现在于《陶庵回想录》重现。我是“邓迷”，迷了十来年；“陶迷”历史久些，三十多年吧。作为“陶迷”，想知道的《论》《人》《宇》内幕，这书令我满足，以前知之不详的陶亢德人生际遇，这书令我战慄。\n\n有些读者夸赞这书“史料丰富”，这话没有错，可是就我而言，如果只是满足于“拿来利用”未免自私，亦是对整部书的不公正。其实，《陶庵回想录》的史料并无啥惊人秘辛，某些人一惊一乍以为秘闻却无法砸实的史料（如某几段问答），我倒是担心今后传来传去走了样变了味，这种教训曾经发生过许多…",
-          "link": "http://www.thepaper.cn/newsDetail_forward_19254605",
-          "publishedOn": "2022-08-01T05:02:05.000Z",
-          "wordCount": 2563,
-          "title": "谢其章︱一部《陶庵回想录》，半部上海文艺期刊史",
-          "imageUrl": null
-        },
-        {
-          "id": "http://www.thepaper.cn/newsDetail_forward_19255407",
-          "author": null,
-          "description": "王丁\n 来源：澎湃新闻\n                \n德国汉学家福克司（Walter Fuchs，1902.8.1-1979.3.5），柏林人，大学就读于柏林东方语言学校（Seminar für Orientalische Sprachen），学习汉语，当时汉语课程的教师为佛克（Alfred Forke，1867-1944）和两位中国教员薛葠（Karl Shen Hsüeh）、曾垂祺（Tsui Chi Tseng）。后转入柏林大学，师从高延（Jan Jacob de Groot，1854-1921）、米维礼（F. W. K. Müller，1863-1930）、海尼士（Erich Haenisch，1880-1966）、郝爱礼（Erich Hauer，1878-1936）等，主修汉学和汉语，并学习东部突厥语及满语。从1923年起师从福兰阁（Otto Franke，1877-1953），撰写博士论文，1925年以《唐代以前的吐鲁番地区历史沿革》（Das Turfangebiet. Seine äusseren Geschicke bis in die T’ang-Zeit, Ostasiatische Zeitschrift, N.S. III, 1926, S. 124-166）获得哲学博士学位，口试科目是汉语（主专业）、满语、民族学、哲学（必修副专业）。就学期间在柏林民族学博物馆担任米维礼的助理。1926年前往沈阳，接替雷兴（Ferdinand Lessing，1882-1961）的职位，担任日本南满洲铁道株式会社附属的满洲医科大学（The Manchuria Medical College）的教师，教授德语、拉丁语，业余从事研究，利用假日时间在东北以及大江南北游历、访古，踏勘山川风土，了解民情国情，同时开始购藏中国古书。\n福克司\n福克司于1938年转往北京，执教辅仁…",
-          "link": "http://www.thepaper.cn/newsDetail_forward_19255407",
-          "publishedOn": "2022-08-01T05:02:05.000Z",
-          "wordCount": 2969,
-          "title": "王丁丨福克司先生百廿年祭",
           "imageUrl": null
         }
       ]
@@ -3488,56 +3458,6 @@
           "wordCount": 2562,
           "title": "北京海淀发现1人核酸检测呈阳性，1地升级为高风险区",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_19253430",
-          "author": null,
-          "description": "澎湃新闻记者 南博一\n 来源：澎湃新闻\n                \n\n当地时间2022年5月29日，德国明斯特，一辆德国国防军自行榴弹炮2000(简称PzH 2000)在演习中绕着训练区域行驶。人民视觉  资料图\n德国在6月底向乌克兰交付了7门PzH2000自行榴弹炮。乌克兰政府近日通知德国国防部，其中几门自行榴弹炮出现了损坏迹象。在对俄罗斯阵地进行密集炮击后相关系统显示了错误信息，因此需要维修。\n据德国《明镜》周刊网站7月29日报道，德国PzH2000自行榴弹炮在对俄罗斯阵地进行密集炮击后相关系统显示了错误信息，乌克兰政府近日通知德国国防部，需要获得维修支持。这批PzH2000自行榴弹炮交付乌克兰仅一个月时间。\n报道称，德国联邦国防军认为，问题与乌克兰军队发射炮弹的高频率有关，导致榴弹炮的装载系统承受巨大压力。在德国，一天发射100枚炮弹被认为是高强度使用，但乌克兰人显然发射了更多炮弹。\n德国联邦国防军同意帮助解决问题。与此同时，德国政府正在与国防工业企业就在波兰建立一个维修中心进行谈判，以便可以在那里更快地对已交付武器进行必要维修。\n此外，报道还称，最近提供给乌克兰的5辆“猎豹”式防空坦克的弹药补给也出现了新问题。在德国试射期间，该坦克的射击系统就无法识别挪威制造商的弹药。现在必须改进炮弹，改进后的炮弹应该在8月再次进行测试。\n5月6日，德国国防部长兰布雷希特宣布向乌克兰提供7门PzH-2000型自行榴弹炮，同时为乌克兰军队提供培训。乌克兰武装部队炮兵和技术人员于5月10日抵达德国开始接受PzH-2000型自行榴弹炮的培训。PzH-2000型自行榴弹炮的特点是发射速度快，准确度高，可对远距离目标进行密集攻击。它被西方军事评论家视为代表世界尖端水平的自行榴弹炮，是一款“明星产品”，西方舆论也寄予厚望。\n7月2日，乌克兰国防部宣布，乌克兰武装部队已经收到德国PzH-2000型自行榴弹炮并已在乌东前线服役。乌克兰国防部同时发布了相关视频。\n(本文来自澎湃新闻，更多原创资讯请下载“澎湃新闻”APP)",
-          "link": "https://www.thepaper.cn/newsDetail_forward_19253430",
-          "publishedOn": "2022-08-01T04:53:05.000Z",
-          "wordCount": 2566,
-          "title": "德援乌&ldquo;明星火炮&rdquo;交付一个月就现损坏迹象，德方：用得太狠",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_19260869",
-          "author": null,
-          "description": "澎湃新闻记者 邵冰燕\n 来源：澎湃新闻\n                \n中国商飞官微8月1日宣布，国产大飞机C919完成取证试飞。\nC919大型客机是我国自行研制、具有自主知识产权的大型喷气式民用飞机，采用单通道窄体布局，座级158至168座，航程4075至5555公里，与目前国际航空市场上最为常见的空客320、波音737机型同级别。\n由于商业大飞机领域行业壁垒高，此前只有少数国家能够独立承担大飞机的研制与生产，形成了波音和空客双寡头垄断的格局。\n2022年7月19日，C919大型客机六架试飞机完成全部试飞任务，标志着C919取证工作正式进入收官阶段，开始全力向取证冲锋。2022年5月14日，即将交付的首架C919国产大飞机首次飞行试验完成。\n2022年1月上海两会期间，上海市政协委员、中国商用飞机有限责任公司副总经理、总会计师吴永良在接受澎湃新闻采访时表示，国产C919项目预计将于2022年完成交付。“具体的交付将等到取证完成后才具备条件。”\n距离商业运行还有哪几步？\n民航专家李瀚明告诉澎湃新闻记者，“完成取证试飞是中国大飞机C919投入商业运用的前提条件之一。在这一过程中，飞机制造商需要向监管当局就飞机的安全性进行一系列的理论和实际论证。这相当于考生在考试中用试卷和实验操作向考官证明自己的能力，完成取证试飞相当于走出了考场。”\n中国航空学会会员、河南省航空业协会专家委员会秘书长乔善勋告诉记者，C919完成取证试飞，意味着取得中国民航局的适航证书只是时间问题，现在还不能进行商业运营，但是距离最后的商业运营只是“临门一脚”了。\n乔善勋告诉澎湃新闻记者，理论上讲，颁证当天就可进行商业运营。中国商飞新支线飞机ARJ21从首飞到完成试飞，历时6年1个月。C919从首飞到完成试飞，历时5年2个月。以ARJ21的取证过程来看，2014年12月16号完成所有试飞后，在2014年12月30日获得局方颁发的型号合格证（PC），参考这个时间点，若过程顺利，C919预计将会在8月至9月获得局方的型号合格证。但C919还需要取得生产许可证（PC）和航空器适航证（AC，airworthiness certificate），而拿到适航证也就相当于局方认可C919处于安全飞行状态，也就是适航状态。拿下全部三个证，适航取证才算全部结束。\n资深机长陈建国向澎湃新闻记者表示，接下去C919还需要等待中国民用航空局航空器适航审定司走文书审查程序，颁发航空器适航证，取得适航证便意味着C919可以正式在国内投入商业运营飞行。而除了拿下中国民航局下发的适航证外，商飞未来也还需要争取欧洲航空安全局（EASA）适航证以及美国航空管理局（FAA）适航证，才能在国外投入商业运营。\n超800架订单在手\n2015年11月2日，C919首架机在上海浦东基地完成总装下线，标志着C919首架机的机体大部段对接和机载系统安装工作正式完成。2017年5月5日C919在上海浦东机场完成首飞任务，意味着我国已具备了生产干线喷气式客机的实力。\n订单方面，据商飞官网介绍，C919累计28家客户815架订单。\n2021年中国商飞公司营销委主任张小光在接受澎湃新闻记者在内的媒体采访时表示，目前，C919已累积有815架订单数，这里面包括确认订单和意向订单，后续会陆续落实确认订单。\nC919全球首家客户为三大航中的一家。早在2010年，中国东方航空（以下简称为“东航”）与中国商飞签署了C919大型客机启动用户协议和采购意向。2016年11月，在第十一届中国国际航空航天博览会上，东航与中国商飞签署合作框架协议，成为C919大型客机的全球首家用户。\n2021年3月1日，C919全球首单正式落地。中国东航与中国商飞在上海正式签署了C919大型客机购机合同，首批引进5架，东航将成为全球首家运营C919大型客机的航空公司。\n今年5月10日，中国东航拟非公开发行募集资金总额不超过150亿元，105亿元用于引进38架飞机项目，机型中包括4架C919飞机，飞机项目预计于2022年至2024年交付。\n其中C919首次披露目录单价，目录单价为6.53亿元（9900万美元）。\n(本文来自澎湃新闻，更多原创资讯请下载“澎湃新闻”APP)\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.fun",
-          "link": "https://www.thepaper.cn/newsDetail_forward_19260869",
-          "publishedOn": "2022-08-01T04:53:04.000Z",
-          "wordCount": 2566,
-          "title": "中国商飞宣布C919完成取证试飞，距离商业运营还有多久",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_19253415",
-          "author": null,
-          "description": "澎湃新闻记者 岳怀让\n 来源：澎湃新闻\n                \n据《江西日报》消息，7月30日，江西省工商业联合会（总商会）第十二次代表大会闭幕，会议选举产生了省工商联（总商会）第十二届领导机构和领导班子，审议通过了《江西省工商业联合会（总商会）第十二次代表大会决议》。谢茹当选为省工商联（总商会）主席（会长）。\n谢茹代表新任领导班子在闭幕会上致辞。她表示，新一届执委会要更加紧密地团结在以习近平同志为核心的党中央周围，坚持以习近平新时代中国特色社会主义思想为指导，在省委、省政府的坚强领导下，团结带领全省各级工商联组织和广大民营经济人士，以勇立潮头的气魄，拉高标杆争创一流、踔厉奋发跨越赶超，努力干出新时代“第一等的工作”，为携手书写全面建设社会主义现代化江西的精彩华章作出新的更大贡献。\n公开资料显示，谢茹，女，生于1968年，浙江人，经济学博士。原任江西省社会科学院农村经济研究所副所长，研究员，1999年7月5月至2001年7月，挂职任江西省浮梁县政府副县长，2001年7月至2007年，任景德镇市政府副市长。2008年1月当选为江西省副省长时不到40岁，分管科教卫生等工作，是彼时全国最年轻的副省长，被坊间亲切地称为“美女副省长”。\n谢茹于2018年1月当选为江西省政协副主席。\n(本文来自澎湃新闻，更多原创资讯请下载“澎湃新闻”APP)\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.fun",
-          "link": "https://www.thepaper.cn/newsDetail_forward_19253415",
-          "publishedOn": "2022-08-01T04:23:04.000Z",
-          "wordCount": 2564,
-          "title": "谢茹当选为江西省工商联主席，曾是全国最年轻的副省长",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_19249197",
-          "author": null,
-          "description": "澎湃新闻记者 马作宇 发自重庆\n 来源：澎湃新闻\n                \n在中国大学生篮球联赛（CUBA）的24届比赛中，此前只有两支球队创造过三连冠的王朝，一支是曾经的九冠王华侨大学，一支是培养了CBA状元王少杰的北京大学。\n而如今，清华大学成为了第三支三连冠球队。\n7月31日，在重庆的乐动力江南体育中心，第24届CUBA男篮一级联赛的全国总决赛拉开战幕，清华大学男篮最终以89比86战胜了第一次杀入CUBA总决赛的广东工业大学男篮。来自重庆的清华男篮前锋邹阳成为总决赛最有价值球员。\nCBA北京男篮名宿陈磊坐镇教练席，新科CBA状元王岚嵚作为球场上的核心，身后还有一众能力也已经达到CBA水平的主力和轮换……这样的清华大学男篮已经成为了CUBA里的独一档，而他们的“王朝故事”，或许才刚刚开始。并不那么轻松的三连冠\n当清华大学和广东工业大学（下称：广工）各自在半决赛中取胜，挺进决赛之后，外界已经将这场CUBA的总决赛描述为校园篮球版的“京粤大战”。\n而站在决赛舞台的两支球队，也确实配得上这样一个沉甸甸的标签。\n作为过去两年的大学联赛王者，清华大学在这个赛季的实力有增无减。这个赛季，在总决赛之前，清华男篮自北区赛以来保持全胜，场均得到100.7分，排名CUBA联赛第2位，场均仅失分57.4分，每场净胜43.3分。\n而在得分上能够比清华男篮更加犀利的，也只有广工男篮。据数据统计，广工男篮自南区赛以来同样保持全胜，总决赛前场均102.9分，高居联赛头名，场均净胜分也达到了28.5分。\n有意思的是，当全国八强赛在重庆开打之后，外界不少关注这项赛事的球迷就已经将决赛定义为“没有悬念的比赛”。\n不管是以38分的巨大优势战胜东道主重庆文理学院男篮，还是以20分的优势轻取由CBA新科“探花郎”范汇鎏率领的宁波大学男篮，清华男篮在球场上都表现出了高出不止一个等级的对抗能力。即便是在半决…",
-          "link": "https://www.thepaper.cn/newsDetail_forward_19249197",
-          "publishedOn": "2022-08-01T01:53:04.000Z",
-          "wordCount": 2565,
-          "title": "清华大学实现三连冠！CUBA联赛正变得愈加火热与成熟",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_19252908",
-          "author": null,
-          "description": "“上海发布”微信公号\n \n                \n上海市新冠肺炎疫情防控工作领导小组办公室发布消息：根据《新型冠状病毒肺炎防控方案（第九版）》要求，经研究决定，调整本市以下区域风险等级（具体时间根据相关区域按照国家要求落实相应管控措施起计算）：\n疫情中风险区（1个）\n杨浦区长海路街道翔殷路9号地块（含）以东、翔殷路以南、虬江码头路（26号至南翔殷路）以西、南翔殷路以北区域\n(本文来自澎湃新闻，更多原创资讯请下载“澎湃新闻”APP)",
-          "link": "https://www.thepaper.cn/newsDetail_forward_19252908",
-          "publishedOn": "2022-08-01T01:23:06.000Z",
-          "wordCount": 2562,
-          "title": "上海杨浦这个区域划为疫情中风险区",
-          "imageUrl": null
         }
       ]
     },
@@ -3546,6 +3466,96 @@
       "feedUrl": "https://www.nationalreview.com/feed/",
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1326057",
+          "author": "Brittany Bernstein",
+          "description": "The plant failure has left more than 150,000 residents in the state capital without access to safe running water.",
+          "link": "https://www.nationalreview.com/news/mississippis-capital-left-without-running-water-after-treatment-plant-failure/",
+          "publishedOn": "2022-08-30T15:24:26.000Z",
+          "wordCount": 6310,
+          "title": "Mississippi’s Capital Left Without Running Water after Treatment-Plant Failure",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/08/water-treatment.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1325957",
+          "author": "Andrew C. McCarthy",
+          "description": "If I were the judge on the case, I’d be furious.",
+          "link": "https://www.nationalreview.com/2022/08/justice-department-bulldozes-court-on-trump-privilege-claims/",
+          "publishedOn": "2022-08-30T14:35:14.000Z",
+          "wordCount": 8275,
+          "title": "Justice Department Bulldozes Court on Trump Privilege Claims",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/08/trump-4.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1325896",
+          "author": "Caroline Downey",
+          "description": "Chuck Grassley wrote to FBI director Wray in July informing him that Thibault orchestrated a ‘scheme’ to ‘undermine’ the Hunter Biden probe.",
+          "link": "https://www.nationalreview.com/news/top-fbi-agent-resigns-after-allegedly-thwarting-hunter-biden-investigation-report/",
+          "publishedOn": "2022-08-30T14:21:02.000Z",
+          "wordCount": 6437,
+          "title": "Top FBI Agent Resigns after Allegedly Thwarting Hunter Biden Investigation: Report",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/08/hunter-biden.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1325792",
+          "author": "Caroline Downey",
+          "description": "Biden is expected to cast the GOP as soft on crime in a speech in Pennsylvania Tuesday.",
+          "link": "https://www.nationalreview.com/news/seizing-on-mar-a-lago-raid-biden-to-cast-gop-as-threat-to-the-rule-of-law-ahead-of-midterms/",
+          "publishedOn": "2022-08-30T13:00:24.000Z",
+          "wordCount": 6797,
+          "title": "Seizing on Mar-a-Lago Raid, Biden to Cast GOP as ‘Threat to the Rule of Law’ ahead of Midterms",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/08/Biden-32.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1325326",
+          "author": "Rich Lowry",
+          "description": "They should settle for progress in the right direction, occupy politically defensible ground, and then advance over time.",
+          "link": "https://www.nationalreview.com/2022/08/republicans-cant-run-and-hide-on-abortion/",
+          "publishedOn": "2022-08-30T10:30:38.000Z",
+          "wordCount": 6646,
+          "title": "Republicans Can’t Run and Hide on Abortion",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/06/pro-life-1.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1324829",
+          "author": "Jon Hartley",
+          "description": "There is not much, if any, convincing empirical evidence that supports the claim that reducing buybacks would spur more capital expenditure or wage increases.",
+          "link": "https://www.nationalreview.com/2022/08/buyback-tax-will-distort-capital-markets-hurting-smaller-innovative-companies/",
+          "publishedOn": "2022-08-30T10:30:30.000Z",
+          "wordCount": 6969,
+          "title": "Buyback Tax Will Distort Capital Markets, Hurting Smaller Innovative Companies",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/08/nyse-traders.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1323117",
+          "author": "Ellen Carmichael",
+          "description": "Without such bold action, alumni, their families, and, apparently, taxpayers will all pay the price.",
+          "link": "https://www.nationalreview.com/2022/08/worried-about-student-loan-debt-start-firing-administrators/",
+          "publishedOn": "2022-08-30T10:30:29.000Z",
+          "wordCount": 7155,
+          "title": "Worried about Student-Loan Debt? Start Firing Administrators",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2018/12/college-university.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1324808",
+          "author": "Caroline Downey",
+          "description": "The Trevor Project hosts a chat room in which adults have sexually explicit discussions with minors and encourage them to transition.",
+          "link": "https://www.nationalreview.com/news/undercover-mom-discovers-pandoras-box-of-depravity-in-trans-organizations-chatroom/",
+          "publishedOn": "2022-08-30T10:30:19.000Z",
+          "wordCount": 7809,
+          "title": "Undercover Mom Discovers ‘Pandora’s Box’ of Depravity in Trans Youth Organization’s Chatroom",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/08/option-1-18.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1325099",
+          "author": "Ryan Mills",
+          "description": "At the current pace, it will take over 18 years to rescue the 96 percent of SIV applicants who were stranded in Afghanistan.",
+          "link": "https://www.nationalreview.com/news/they-want-them-dead-one-year-after-botched-afghanistan-withdrawal-thousands-of-u-s-allies-remain-in-peril/",
+          "publishedOn": "2022-08-30T10:30:12.000Z",
+          "wordCount": 9226,
+          "title": "‘They Want Them Dead’: One Year after Botched Afghanistan Withdrawal, Thousands of U.S. Allies Remain in Peril",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/08/taliban-patrol-kabul.jpg?fit=2057%2C1200"
+        },
         {
           "id": "https://www.nationalreview.com/?post_type=blog-post&p=1325155",
           "author": "Brittany Bernstein",
@@ -8095,16 +8105,6 @@
           "wordCount": 4848,
           "title": "Reject Biden’s Regulatory Push",
           "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/07/joe-biden-white-house-2.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1290705",
-          "author": "John Fund",
-          "description": "America in Perspective explains why America is — and can remain, if we wish — the greatest country in the world.",
-          "link": "https://www.nationalreview.com/2022/07/the-american-dream-is-alive/",
-          "publishedOn": "2022-07-31T23:39:34.000Z",
-          "wordCount": 4798,
-          "title": "The American Dream Is Alive",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2021/12/american-flag-sun.jpg?fit=2057%2C1200"
         }
       ]
     }
