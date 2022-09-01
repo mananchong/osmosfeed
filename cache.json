@@ -3157,6 +3157,106 @@
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
         {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1329290",
+          "author": "Isaac Schorr",
+          "description": "Thirty-six of the top 50 med schools ask applicants about their commitment to DEI, the report found.",
+          "link": "https://www.nationalreview.com/news/top-med-schools-weed-out-applicants-who-dont-support-dei-new-report-says/",
+          "publishedOn": "2022-09-01T16:57:45.000Z",
+          "wordCount": 6870,
+          "title": "Top Med Schools Weed Out Applicants Who Don’t Support DEI, New Report Says",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/medschool.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1329134",
+          "author": "Caroline Downey",
+          "description": "Users will only have 30 minutes from publishing the tweet to then edit the tweet.",
+          "link": "https://www.nationalreview.com/news/twitter-to-test-edit-function-for-tweets/",
+          "publishedOn": "2022-09-01T14:48:28.000Z",
+          "wordCount": 6306,
+          "title": "Twitter to Test Edit Button after Years of Speculation",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/06/twitter-app-logo.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1329011",
+          "author": "Caroline Downey",
+          "description": "The drop in reading and math scores was particularly severe among low-performing and minority students.",
+          "link": "https://www.nationalreview.com/news/math-reading-scores-plummeted-to-lowest-level-in-decades-during-school-shutdowns/",
+          "publishedOn": "2022-09-01T13:11:59.000Z",
+          "wordCount": 6425,
+          "title": "Math, Reading Scores Plummeted to Lowest Level in Decades during School Shutdowns",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/02/Kratzer-Elementary-School.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1328941",
+          "author": "Caroline Downey",
+          "description": "A spokesman for China’s foreign ministry called the report a ‘farce orchestrated by the United States and a small number of Western powers.’",
+          "link": "https://www.nationalreview.com/news/china-likely-guilty-of-crimes-against-humanity-u-n-says/",
+          "publishedOn": "2022-09-01T12:45:54.000Z",
+          "wordCount": 6576,
+          "title": "China Likely Guilty of ‘Crimes against Humanity,’ U.N. Says",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/China-Uyghurs.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1327650",
+          "author": "Steve H. Hanke and Caleb Hofmann",
+          "description": "El Salvador’s president, Nayib Bukele, may be Bitcoin’s most visible publicist.",
+          "link": "https://www.nationalreview.com/2022/09/the-verdict-is-in-for-el-salvadors-bitcoin-experiment-it-failed/",
+          "publishedOn": "2022-09-01T10:30:52.000Z",
+          "wordCount": 7120,
+          "title": "The Verdict Is in for El Salvador’s Bitcoin Experiment: It Failed",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/nayib-bukele-el-salvador.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1328165",
+          "author": "Jimmy Quinn",
+          "description": "An internal document obtained by NR indicates that the State Department appeased progressive critics of its China policy.",
+          "link": "https://www.nationalreview.com/2022/09/how-the-biden-administration-moved-to-soft-pedal-the-china-threat/",
+          "publishedOn": "2022-09-01T10:30:47.000Z",
+          "wordCount": 8062,
+          "title": "How the Biden Administration Moved to Soft-Pedal the China Threat",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/antony-blinken-us-china-flags.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1328249",
+          "author": "Charles C. W. Cooke",
+          "description": "Whether Trump’s belief that he won in 2020 and will soon be reinstated as president is genuine or not, it makes him unfit for office.",
+          "link": "https://www.nationalreview.com/2022/09/donald-trump-is-still-a-lunatic/",
+          "publishedOn": "2022-09-01T10:30:36.000Z",
+          "wordCount": 7233,
+          "title": "Donald Trump Is Still a Lunatic",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/donald-trump-rally.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1328226",
+          "author": "Brian T. Allen",
+          "description": "It’s a relatively young museum but central to Huntsville culture.",
+          "link": "https://www.nationalreview.com/2022/09/ethel-waters-in-oil-and-sea-critters-in-silver-starring-at-the-huntsville-museum/",
+          "publishedOn": "2022-09-01T10:30:10.000Z",
+          "wordCount": 8911,
+          "title": "Ethel Waters in Oil and Sea Critters in Silver, Starring at the Huntsville Museum of Art",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/08/1-180307-HMA-Exterior-Spring-2019-013-X2.jpg?fit=1200%2C700"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1328032",
+          "author": "Amanda Griffiths",
+          "description": "American businesses hardly lack market incentives to make green tech. What they need is regulatory permission.",
+          "link": "https://www.nationalreview.com/2022/09/the-inflation-reduction-act-will-hurt-the-economy-and-the-environment/",
+          "publishedOn": "2022-09-01T10:30:08.000Z",
+          "wordCount": 7305,
+          "title": "The Inflation Reduction Act Will Hurt the Economy and the Environment",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2021/05/china-rare-earth-mine.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1328129",
+          "author": "Chip Roy and Tony Perkins",
+          "description": "All people of goodwill should pray for and stand with Andrew Fox in defense of our way of life and freedoms.",
+          "link": "https://www.nationalreview.com/2022/09/fired-for-his-faith-an-austin-fire-department-chaplain-fights-back/",
+          "publishedOn": "2022-09-01T10:30:02.000Z",
+          "wordCount": 7131,
+          "title": "Fired for His Faith, an Austin Fire Department Chaplain Fights Back",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/andrew-fox-adf.jpg?fit=1200%2C700"
+        },
+        {
           "id": "https://www.nationalreview.com/?post_type=blog-post&p=1328530",
           "author": "Diana Glebova",
           "description": "Mary Peltola is the first Democrat to be elected a U.S. representative in the state since 1972.",
@@ -7745,56 +7845,6 @@
           "wordCount": 5607,
           "title": "Where Do Young Conservatives Stand on Populism?",
           "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/08/young-americas-foundation-mike-pence.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1291823",
-          "author": "Caroline Downey",
-          "description": "Meijer’s loss comes after Democratic operatives financially intervened on behalf of his opponent, John Gibbs.",
-          "link": "https://www.nationalreview.com/news/peter-meijer-who-voted-to-impeach-trump-loses-to-trump-backed-john-gibbs-in-michigan-gop-house-primary/",
-          "publishedOn": "2022-08-03T04:39:45.000Z",
-          "wordCount": 4573,
-          "title": "Peter Meijer, Who Voted to Impeach Trump, Loses to Trump-Backed John Gibbs in Michigan GOP House Primary",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/08/peter-meijers-capitol-hill.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1293252",
-          "author": "Caroline Downey",
-          "description": "The ‘Value Them Both’ amendment would have modified the Kansas constitution to allow the state legislature to pass abortion restrictions and regulations.",
-          "link": "https://www.nationalreview.com/news/kansas-votes-to-uphold-constitutional-right-to-abortion-in-first-ballot-measure-since-dobbs/",
-          "publishedOn": "2022-08-03T02:35:50.000Z",
-          "wordCount": 4513,
-          "title": "Kansas Votes to Uphold Constitutional Right to Abortion in First Ballot Measure since Dobbs",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/07/kansas-amendment.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1292894",
-          "author": "Brittany Bernstein",
-          "description": "Missouri attorney general Eric Schmitt emerged from a field of 21 candidates.",
-          "link": "https://www.nationalreview.com/news/missouri-attorney-general-schmitt-defeats-greitens-for-u-s-senate-nomination/",
-          "publishedOn": "2022-08-03T02:14:14.000Z",
-          "wordCount": 4959,
-          "title": "Missouri Attorney General Schmitt Defeats Greitens for U.S. Senate Nomination",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/08/eric-schmitt-victory-speech.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1293284",
-          "author": "Dan McLaughlin",
-          "description": "Pro-lifers won a legal battle in Georgia but must fend off a misleading lawsuit in Idaho by the Justice Department.",
-          "link": "https://www.nationalreview.com/2022/08/garlands-justice-department-joins-bogus-legal-assault-on-pro-life-laws/",
-          "publishedOn": "2022-08-02T23:32:31.000Z",
-          "wordCount": 6340,
-          "title": "Garland’s Justice Department Joins Bogus Legal Assault on Pro-Life Laws",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/08/merrick-garland-doj.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1293193",
-          "author": "Diana Glebova",
-          "description": "The lawsuit is the first major legal action taken by the Biden administration’s DOJ since the Supreme Court overturned Roe v. Wade in June.",
-          "link": "https://www.nationalreview.com/news/doj-challenges-idahos-six-week-abortion-ban/",
-          "publishedOn": "2022-08-02T22:01:09.000Z",
-          "wordCount": 4356,
-          "title": "DOJ Challenges Idaho’s Six-Week Abortion Ban",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/08/gupta-garland-doj.jpg?fit=2057%2C1200"
         }
       ]
     }
