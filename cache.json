@@ -6,6 +6,16 @@
       "siteUrl": "https://rweekly.org/atom.xml",
       "articles": [
         {
+          "id": "https://rweekly.org/2022-W37.html",
+          "author": null,
+          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Jon Calder, with help from the R Weekly team members and contributors.\nHighlight\nMapping wind data with R\nCalculating and comparing expected points from different expected goals sources (soccer)\nUse Docker to deploy a model for #TidyTuesday LEGO sets\nInsights\nTaking on Virtual Events with Regular Structured and Casual Meetups ☕️\nFinancial Industry Supports Robust Vienna R Community\nR in the Real World\nCalculating and comparing expected points from different expected goals sources (soccer)\nEvaluating how we can use match outcome probabilites for season-long insights (soccer)\n\nRObservations #38: Visualizing Average Delay Times On TTC Subway Stations\nHow strongly does German el…",
+          "link": "https://rweekly.org/2022-W37.html",
+          "publishedOn": "2022-09-12T00:00:00.000Z",
+          "wordCount": 6075,
+          "title": "R Weekly 2022-W37 Mapping wind, Expected points, LEGO model with Docker",
+          "imageUrl": "https://rweekly.org/public/facebook.png"
+        },
+        {
           "id": "https://rweekly.org/2022-W36.html",
           "author": null,
           "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Miles McBain, with help from the R Weekly team members and contributors.\nHighlight\nAustralian Signals Directorate 50c Coin Decryption\nPalmer Archipelago Penguins Data in the palmerpenguins R Package - An Alternative to Anderson’s Irises\n\nEfficient data visualization with faded raincloud plots\n\nInsights\nInterpretability and explainability of predictive models\nHow a Local Community Produced the First Nation-wide R useR Group\nBase-R and Tidyverse Code, Side-by-Side\nWhen Will NYC’s Subway Ridership Recover?\n\nCO2 Emissions Comparing and Modeling for Global Warming\nPalmer Archipelago Penguins Data in the palmerpenguins R Package - An Alternative to Anderson’s Irises\nTen simple rul…",
@@ -708,146 +718,6 @@
           "wordCount": 2575,
           "title": "日本经产相参拜靖国神社，外交部回应：已向日方提出严正交涉",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_19452224",
-          "author": null,
-          "description": "澎湃新闻高级记者 李佳蔚\n 来源：澎湃新闻\n                \n8月14日17:00，上海市政府新闻办公室组织召开上海市新冠肺炎疫情防控工作第231场新闻发布会。市卫生健康委副主任赵丹丹、闵行区副区长刘艳出席，介绍有关情况，并回答记者提问。市政府新闻发言人尹欣主持新闻发布会。\n赵丹丹介绍，今天（8月14日），上海社会面新增1例本土无症状感染者。市、区疫情防控应急处置机制立即响应，全面开展流行病学调查、相关人员排查、采样检测和防控管理，落实相关场所及环境终末消毒等防疫措施。这1例阳性感染者已转运至定点医疗机构隔离医学观察 。\n感染者：男，6岁，系拉萨返沪人员，居住于闵行区古美路街道万源路580弄万源城尚郡，被诊断为无症状感染者。截至8月14日16时，共排查到这1例阳性感染者在沪密切接触者396人，已落实隔离管控，其中260人核酸检测结果为阴性，其余正在检测中。\n累计排查到密接的密接509人，均已落实隔离管控，其中60人核酸检测结果为阴性，其余正在检测中。累计筛查这1例阳性感染者相关人员83497人，核酸检测结果均为阴性。累计排查相关场所的物品和环境样本158件，核酸检测结果均为阴性。\n(本文来自澎湃新闻，更多原创资讯请下载“澎湃新闻”APP)",
-          "link": "https://www.thepaper.cn/newsDetail_forward_19452224",
-          "publishedOn": "2022-08-14T17:23:05.000Z",
-          "wordCount": 2578,
-          "title": "上海今日社会面新增1例本土无症状感染者：6岁，从拉萨返沪",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_19452627",
-          "author": null,
-          "description": "@中国天气网\n \n                \n预计未来10天，江淮、江汉、江南、四川盆地等地将仍有持续性高温天气，累计高温日数可达7～10天。从目前预报来看，即便是23日进入处暑，24日三伏天结束，高温恐怕也没有结束\n(本文来自澎湃新闻，更多原创资讯请下载“澎湃新闻”APP)",
-          "link": "https://www.thepaper.cn/newsDetail_forward_19452627",
-          "publishedOn": "2022-08-14T16:23:05.000Z",
-          "wordCount": 2575,
-          "title": "中国天气网预测：三伏天结束，高温恐怕也没有结束",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_19446619",
-          "author": null,
-          "description": "澎湃新闻记者 蒲垚磊\n 来源：澎湃新闻\n                \n北京时间8月14日晚，2022男排亚洲杯的冠亚军决赛上演。\n中国男排在争冠之战中与日本男排狭路相逢，最终3比0战胜对手，时隔十年再度夺得男排亚洲杯冠军。\n比赛结束后，张景胤获得赛事MVP和最佳主攻荣誉，张哲嘉和彭世坤则获评成为最佳副攻。\n中国男排击败日本夺冠。 直播截图\n本届亚洲杯共有11支队伍参赛，中国男排先是在小组赛中连胜中国台北男排和巴林男排进入复赛，复赛中又先后击败巴基斯坦和伊朗，一路闯进四强。\n半决赛中，中国男排与同样派出了主力阵容的老对手韩国男排遭遇，在两度落后的情况下，中国男排两度将大比分扳平，最终在决胜局以17比15获胜，大比分3比2艰难赢下比赛。\n这是中国男排时隔6年再次进入亚洲杯决赛。2016年亚洲杯上，中国男排曾闯进决赛最终获得亚军。此次再度拿到决赛门票，主教练吴胜认为，球队顶住了压力，展现出了顽强拼搏的精气神。\n而上一次中国男排在亚洲杯夺冠，还是在2012年，想要时隔十年再度捧得亚洲杯，中国男排也面临着日本队的严峻挑战。\n本场比赛，中国男排派出的首发阵容是：俞元泰、于垚辰、张哲嘉、彭世坤、张冠华、张景胤、杨一鸣。\n第一局比赛一开始，双方的对抗就非常激烈，虽然日本男排没有派出最强阵容，但在网口高度处于下风的情况下，日本队还是利用进攻的多样性给中国男排制造了麻烦，双方比分在僵持中交替上升。局末阶段，中国队依靠强势的发球取得优势，成功以25比20先下一城。\n第二局日本队提升进攻表现，率先取得了10比5的领先，好在局末阶段中国男排再度发威，将比分追平并完成反超，成功以25比23再度拿下一局。\n第三局比赛，双方激烈的争夺仍在继续，但来到局末的关键分，中国男排又一次展现出强大的心态，在第二个赛点成功兑现，最终以3比0的比分赢下了本届亚洲杯的冠军。\n在结束亚洲杯的征程后，中国男排的下一个大赛任务将是世锦赛。根据赛程安排，2022年男排世锦赛将于8月26日至9月11日在波兰和斯洛文尼亚举行。\n(本文来自澎湃新闻，更多原创资讯请下载“澎湃新闻”APP)\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.fun",
-          "link": "https://www.thepaper.cn/newsDetail_forward_19446619",
-          "publishedOn": "2022-08-14T15:23:06.000Z",
-          "wordCount": 2578,
-          "title": "中国男排击败日本，时隔十年再夺亚洲杯冠军！",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_19450430",
-          "author": null,
-          "description": "“上海教育”微信公号\n \n                \n根据市委、市政府关于新冠肺炎疫情防控工作有关要求，结合本市疫情防控形势，做出如下安排：\n本市中小学校、托幼机构于9月1日正式开学（园）。各区教育局要指导中小学校、托幼机构根据防控工作要求，切实承担主体责任，统筹做好疫情防控和教育教学工作，强化底线思维，加强风险意识，不折不扣落实各项工作。\n1. 中小学校、托幼机构要按照“一人一档”要求动态掌握师生员工基本情况、行程信息及健康状况。\n2. 提倡所有中小学校、托幼机构师生员工开学（园）前14天开始在沪开展自我健康管理。来自或途经国内疫情中高风险区或当地政府宣布全域封闭管理地区的师生员工暂缓返校。中小学校、托幼机构师生员工在返校（园）前3天要进行2次核酸检测（开学前24小时内须有1次）。\n3. 开学后，严格落实在校（园）师生员工每日体温、症状监测。中小学校、托幼机构师生员工需持24小时内核酸检测阴性报告进校（园），体温异常等暂不入校，每日离校前错峰完成1次核酸采样。核酸检测要求将根据疫情防控形势适时调整。中小学校、托幼机构所在区没有中高风险区，师生上课时可不佩戴口罩，幼儿在园在托期间可不佩戴口罩。\n4. 备足备齐各类校园防控物资，建立健全应急餐食保供机制，持续强化学校食品与饮用水安全监督管理，强化教室、卫生间、食堂、宿舍等重点场所环境监测、通风换气和消毒工作。\n5. 及时完善学校应急处置预案，开展多场景实操应急培训和演练。严格落实“四方责任”，加强与属地相关部门的沟通联系，充分发挥联防联控机制的作用，全面提升疫情防控应急处置能力。\n(本文来自澎湃新闻，更多原创资讯请下载“澎湃新闻”APP)",
-          "link": "https://www.thepaper.cn/newsDetail_forward_19450430",
-          "publishedOn": "2022-08-14T14:23:07.000Z",
-          "wordCount": 2580,
-          "title": "上海中小学、托幼机构9月1日开学（园）",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_19428829",
-          "author": null,
-          "description": "澎湃新闻记者 计思敏\n 来源：澎湃新闻\n                \n近日，一份写有“全国28个大中城市平均住房空置率为12%”的调查报告再次引发大众对空置房的讨论。该报告称，南昌、廊坊、佛山住房空置率排前三，均在15%以上，南昌的住房空置率达20%。不过，8月11日，该机构称，部分调研问卷数据采集有误，导致数据不准确，同时，调研以“房屋是否存在连续三个月无人居住”为判断指标，不能充分反映真实情况。\n其实，对于空置房的探讨在近十余年间未曾停歇，住房空置率的多少普遍牵动着大众的神经，“住房空置率的高低”也被认为是衡量楼市泡沫的重要指标。\n什么是住房空置率？\n首先，什么是住房空置率？\n其实，对于空置住房的定义，国内外并无统一标准，官方一直未对空置率的定义做出过诠释，也未曾公布过官方的住房空置率数据。\n首都经济贸易大学教授、北京市房地产法学会副会长兼秘书长赵秀池对澎湃新闻表示，根据联合国和美国的统计口径，空置房定义为“在普查或调查时点上没有人口入住记录的房子”；空置率定义为“调查时点一国或地区的空置住房单位占全部住房单位的比重”。欧盟对空置房没有统一定义，但各成员国几乎都把正在装修或翻修房、不能使用的废弃房、等待拆除房等都归入空置房范围，导致多数欧盟国家计算出的空置率大体上会高于按美国标准计算出的数值。\n赵秀池表示，目前中国没有公布空置率的官方统计口径，但有空置面积一说。1995年8月，中国国家统计局印发的《固定资产投资统计报表制度》中指出：“空置面积，是指报告期末已竣工的商品房屋建筑面积中，尚未销售或出租的部分，包括以前年度竣工和本期竣工可供出售或出租而未售出或租出的房屋面积。”\n根据原建设部、国家发改委、国家统计局发布的对商品房空置面积种类进行明确分类的通知，从2003年统计年报开始，以商品房空置时间作为标准进行划分。空置时间在1年以内的为待销商品房；空置时间在1年以上3…",
-          "link": "https://www.thepaper.cn/newsDetail_forward_19428829",
-          "publishedOn": "2022-08-14T13:23:06.000Z",
-          "wordCount": 2578,
-          "title": "究竟｜&ldquo;28城住房空置率12%&rdquo;靠谱吗？如何正确看待空置率",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_19446629",
-          "author": null,
-          "description": "谢艺观/中国新闻网\n \n                \n中新网8月14日报道，“GAP闭店清仓，速去捡漏”、“GAP撤柜清货，价格相当‘白菜’”……近日，不少网友发布了GAP门店闭店清仓的信息。\n截图自某社交电商平台。\n进入中国市场12年，GAP门店曾分布在不少城市的商场内，如今部分门店或要和大家说“再见”。\n不同城市多个GAP门店将关门\n北京市海淀区丹棱街甲1号领展购物广场3层，这里的GAP门店正进行着最后的撤柜清仓活动。\n“8月27日是最后营业时间。”门店店员向中新财经记者表示。\n据她介绍，店里的撤店清仓活动已经有一段时间了。“现在会员是正价商品4折，减价商品额外5折。”\n但店里的客流并没有因为清仓活动显著增多。“还是正常的客流，周末人可能会多一点。”店员说。\n虽已进入关店倒计时，不过店员向记者表示，“因为还在营业时间，会不定期补货，供货量还是够的。”\n另，北京天虹百货GAP门店亦向媒体证实，将于8月15日正式撤店。同时，记者注意到，GAP在上海、南京等地的门店也在撤店清仓。\n对于关店原因，上述店员表示并不太清楚。当记者向GAP官方询问闭店原因时，官方客服称，“没有收到相关信息。”\nGAP中国区总部近日回应媒体时称，“服装时尚行业变化迅速，在大中华地区尤其如此”，因此GAP会定期审视自身业务策略和模式，包括店铺组合等，并根据情势做相应的调整，“这也是业界非常重要的常规做法，以最好地适应新的环境，确保通过合适的渠道，包括在合适的地方拥有合适的店铺，来为顾客提供最佳的产品和服务”。\n不过GAP此番关店，也让此前出售中国业务的传闻再次受到关注。2021年3月，外媒援引消息人士爆料称，GAP正在考虑包括出售中国业务在内的潜在选项，以调整在中国的运营情况。\n在此之前，进入中国6年的GAP集团旗下快时尚品牌Old Navy已宣布撤离中国。\n资料图：GAP经典蓝色标志。中新财经记者…",
-          "link": "https://www.thepaper.cn/newsDetail_forward_19446629",
-          "publishedOn": "2022-08-14T12:23:05.000Z",
-          "wordCount": 2578,
-          "title": "继H&amp;M后，GAP多门店将关闭，国际快时尚不再受欢迎？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_19442011",
-          "author": null,
-          "description": "澎湃新闻记者 邵冰燕\n 来源：澎湃新闻\n                \n共享单车的这波涨价潮，已经开始覆盖到用户常用的骑行畅骑卡上。\n8月10日23时起，美团单车7天卡无折扣价由10元调整为15元；30天卡无折扣价由25元调整为35元；90天卡无折扣价由60元调整为90元。\n今年1月，哈啰发布公告将对骑行套餐7天卡10元涨到15元，30天卡25元涨到35元，90天卡75元涨到90元。至此，两大单车巨头的套餐卡价格调整至同一水平，今年以来骑行卡的涨幅在40%至50%之间。\n对于涨价的原因，哈啰单车和美团单车在公告中均表示，系硬件和运维成本的增加。\n骑行卡涨价，企业称对用户影响不大\n澎湃新闻记者梳理目前的单车骑行卡发现，目前美团单车和哈啰单车7天、30天、90天无折扣价分别为15元、35元、90元；青桔单车分别为10元、25元、75元。\n收费规则方面，就上海地区而言，哈啰单车与美团单车均为15分钟内收费1.5元，此后每15分钟收费1元。相当于1小时4.5元。而青桔单车则为15分钟内收费1.5元，此后每10分钟收费1元，相当于骑车55分钟收费5.5元，骑行1小时收费6.5元。\n上海地区美团单车、哈啰单车、青桔单车的计费规则\n而三大巨头外的其他品牌，目前市面上能够正常使用的共享单车APP为数不多，其中小绿单车APP显示套餐购买列表显示失败，而其单次骑行的计费价格为前30分钟1元，每超出30分钟按照0.5元递增，即骑行1小时收费1.5元。\n小绿单车计费规则\n在以价格战杀入市场后，共享单车价格一路上涨，并曾受到过市场监管部门的关注。\n2019年起，摩拜单车、哈啰单车、青桔单车进入骑行30分钟至少1.5元的骑行时代。据公开报道，2019年青桔单车起步价由每30分钟1元改为每15分钟1元，每超15分钟增加0.5元。哈啰单车在北京地区的计费规则变为每骑行15分钟花费1元。在广州地区的计价规…",
-          "link": "https://www.thepaper.cn/newsDetail_forward_19442011",
-          "publishedOn": "2022-08-14T12:23:05.000Z",
-          "wordCount": 2580,
-          "title": "最高涨价50%！美团骑行卡也全面开涨，共享单车还划算吗？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_19445232",
-          "author": null,
-          "description": "澎湃新闻记者 南博一\n 来源：澎湃新闻\n                \n当地时间13日，数十名阿富汗女性在喀布尔游行集会，遭塔利班士兵暴力驱散，其中一些女性被殴打。\n据法新社报道，大约40名女性13日在喀布尔教育部大楼前游行集会，她们高呼“面包、工作和自由”的口号。还有示威者举着写有“8月15日是黑色一天”的横幅，要求拥有工作和政治参与的权利，许多人没有戴面纱。塔利班士兵向空中开枪以驱散人群，还有一些在附近商店躲避的女性抗议者被塔利班士兵用枪托殴打。\n13日游行集会的组织者之一佐利亚·帕西说，“不幸的是，塔利班来了并向空中开火，\"他们驱散了女孩们，撕毁了我们的标语，并没收了许多女孩的手机。\"\n塔利班2021年8月15日夺取阿富汗政权，承诺尊重女性权利，采取温和的施政方式，但是至今为止仍然对女性上学和工作施加限制，数以万计的女孩被中学拒之门外，而妇女则被禁止重返政府工作岗位。今年5月，塔利班最高领导人海巴图拉·阿洪扎达下令女性在公共场合完全遮盖自己，包括脸部。联合国和人权组织已多次批评塔利班政府对女性施加的限制。\n(本文来自澎湃新闻，更多原创资讯请下载“澎湃新闻”APP)",
-          "link": "https://www.thepaper.cn/newsDetail_forward_19445232",
-          "publishedOn": "2022-08-14T11:23:04.000Z",
-          "wordCount": 2578,
-          "title": "数十名阿富汗女性集会高呼&ldquo;面包、工作、自由&rdquo;，遭暴力驱散",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_19446402",
-          "author": null,
-          "description": "王斌/央视新闻\n \n                \n\n扎波罗热核电站 IC 资料图\n当地时间13日，扎波罗热地方官员称，乌克兰埃涅尔戈达尔和扎波罗热核电站再次受到乌克兰武装分子的攻击。\n他援引目击者消息称，在城市中可以听到爆炸声，炮弹疑似落在了第聂伯河沿岸和核电站附近。\n这名官员表示稍后会发布详细消息。\n(本文来自澎湃新闻，更多原创资讯请下载“澎湃新闻”APP)",
-          "link": "https://www.thepaper.cn/newsDetail_forward_19446402",
-          "publishedOn": "2022-08-14T11:23:04.000Z",
-          "wordCount": 2579,
-          "title": "扎波罗热官员称扎波罗热核电站再遭袭击",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_19444215",
-          "author": null,
-          "description": "澎湃新闻记者 蒋子文\n 来源：澎湃新闻\n                \n8月13日18时，中央气象台继续发布高温红色预警。\n中央气象台预计8月14日白天，新疆吐鲁番盆地和南疆盆地、陕西中南部、山西南部、河北南部、山东南部、河南、安徽、江苏、上海、湖北、湖南、江西、浙江、福建、四川中东部、重庆、贵州东部、广西北部、广东北部等地最高气温将有35～39℃，其中，陕西南部、河南西南部、安徽南部、江苏南部、上海、湖北东南部和西北部、浙江大部、四川东部、重庆中西部以及新疆吐鲁番盆地等地的部分地区最高气温可达40℃以上。\n据中国气象局官网发布的今日高温实况排行榜显示，截至13日18时，高温榜前十名的最高温度均已突破42.7℃，其中最高的湖北竹山达到44.6℃。\n                  \n中国气象局官网 截图\n除了再度刷新湖北省最高气温历史记录的竹山，湖北省内还有保康（42.9℃）进入今日高温榜前十。素有“四大火炉”称呼的重庆，则有北碚（43.8℃）、江津（43℃）、奉节（42.8℃）、潼南（42.8℃）、重庆（42.7℃）、丰都（42.7℃）六地进入榜单。\n此外，陕西白河（43℃）、旬阳（43℃）也位列今日高温榜前十。\n关于南方今年出现如此大范围的高温天气，中央气象台首席预报员陈涛解释称，造成高温天气的主要原因跟大气环流的异常状况有一定的关系。从目前监测上来看，西太平洋副热带高压范围偏大，强度偏强，在它的控制之下，我国南方地区整体上是受下沉气流的控制，天空晴朗少云，白天在日照辐射的影响下，近地面加热比较强烈，因此出现了大范围的高温天气。\n(本文来自澎湃新闻，更多原创资讯请下载“澎湃新闻”APP)",
-          "link": "https://www.thepaper.cn/newsDetail_forward_19444215",
-          "publishedOn": "2022-08-14T09:23:05.000Z",
-          "wordCount": 2579,
-          "title": "高温红色预警持续：今日全国高温榜前十门槛提升至42.7℃",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_19446596",
-          "author": null,
-          "description": "新华社\n \n                \n新华社三亚8月13日消息，中共中央政治局委员、国务院副总理孙春兰13日到海南调研指导疫情防控工作，转达习近平总书记对海南广大干部群众的关心问候，看望慰问奋战抗疫一线的援琼医务人员，实地考察三亚凤凰国际机场、三亚市防控指挥部、天涯区金鸡岭社区、三亚市第一方舱医院，了解滞留旅客离岛、指挥体系运行、社区管控、医疗救治等情况，并主持召开座谈会，听取省市和工作组汇报。她强调，要深入贯彻习近平总书记关于疫情防控的一系列重要指示精神，落实党中央、国务院决策部署，按照第九版防控方案的要求，加强全省资源统筹调配，突出重点、集中力量、压实责任，采取更加坚决果断的措施，以快制快，刻不容缓把各项措施抓细抓具体，尽快实现社会面清零，保障群众的健康安全和正常生产生活秩序。\n海南疫情处于高位波动期，防控形势复杂严峻，国家协调20个省区市1.67万名医务人员和197万管/日核酸检测能力驰援海南。孙春兰指出，要进一步优化指挥体系，扁平化运行，加强核酸检测、方舱床位、隔离房间分配等的全省统一调配，对疫情较重、资源紧张的地方加大支持力度。隔离和收治资源不足是当前海南疫情防控的堵点，要挖掘酒店资源潜力，加快方舱医院建设，确保密接人员、阳性感染者应隔尽隔、应收尽收、日清日结。要精心组织实施核酸检测，优化采、送、检、报、转、收等全环节流程，动态调整单管、混管检测的匹配，增加追阳专班力量，确保8小时内完成追阳工作，把社会面感染者捞干净。要根据流调科学划定风险区域，严格加强社区管控，充实社区防控力量，切实保障好居民基本生活和正常就医需求。因疫情滞琼游客约15万人，有关方面正在积极推进离岛返程。要做好滞留旅客的服务保障工作，加快进度，相关省市不得拒收或限额接收，海南省要做好风险评估，严格落实离岛防控措施，“点对点”转运，严防疫情外溢。\n(本文来自澎湃新闻，更多原创资讯请下载“澎湃新闻”APP)",
-          "link": "https://www.thepaper.cn/newsDetail_forward_19446596",
-          "publishedOn": "2022-08-14T07:23:05.000Z",
-          "wordCount": 2574,
-          "title": "孙春兰在海南调研：刻不容缓落实各项防控措施，以快制快尽早扑灭疫情",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_19443820",
-          "author": null,
-          "description": "澎湃新闻记者 南博一\n 来源：澎湃新闻\n                \n\n日本经济产业相西村康稔\n当地时间8月13日，日本经济产业相西村康稔参拜靖国神社，是日本首相岸田文雄去年10月上台以来，首位参拜靖国神社的内阁大臣。\n据时事通信社报道，日本将8月15日定为“终战纪念日”，纪念日临近，西村康稔前往参拜靖国神社。他在推特上发文表示，真诚地为那些失去生命的人们的灵魂祈祷，发誓不再让战争的惨剧发生。“想到安倍首相。我坚定地承诺尽所能为日本和世界的和平与繁荣努力。”\n2020年和2021年，西村先后在安倍内阁和菅义伟内阁中担任经济再生担当相。去年岸田文雄上台后，他被任命为自民党新冠疫情防控本部部长。在今年8月10日的岸田内阁改组中，西村出任经济产业相。去年8月，他就曾参拜过靖国神社。\n针对日方政客涉靖国神社错误行径，中国外交部发言人曾多次表示坚决反对和严厉谴责。外交部发言人汪文斌曾在4月21日的例行记者会上表示，靖国神社是日本军国主义发动对外侵略战争的精神工具和象征，供奉有对那场侵略战争负有严重罪责的甲级战犯。日方有关消极动向，再次反映出其对待自身侵略历史的错误态度。\n(本文来自澎湃新闻，更多原创资讯请下载“澎湃新闻”APP)",
-          "link": "https://www.thepaper.cn/newsDetail_forward_19443820",
-          "publishedOn": "2022-08-14T06:23:08.000Z",
-          "wordCount": 2578,
-          "title": "日本经产相今日&ldquo;拜鬼&rdquo;，系岸田内阁中首位参拜大臣",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_19450096",
-          "author": null,
-          "description": "佘慧敏/经济日报\n \n                \n近日，美国《芯片和科学法案》正式签署，美国拟投入500多亿美元推动芯片的研发制造和劳动力发展，给“美国芯”又加一把油。根据该法案规定，获得资金补贴的芯片企业，未来10年内将不能在中国增产小于28纳米的先进制程芯片。也就是说，美国立法胁迫国际芯片商在中美之间选边站队。对此，中国外交部表示严正斥责。\n芯片是数字时代的基石，我们必须突破美国对中国芯片的恶意封锁和打压。\n看经济规律，“美国芯”逆势难行。\n由于制造工艺日趋复杂，全球芯片企业普遍采用跨国合作方式降低生产成本，国际竞争已经与经济利益深度绑定。现在，美国想将芯片生产强行拉回美国，并排斥中国这个全球最大芯片市场，属于逆势而为，必将遭遇重重困难。\n2021年全球芯片产能集中在亚洲，东亚地区半导体产能占全球73%，而美国占12%，欧洲占9%。产能向亚洲高度集中，是因为亚洲生产成本低。在美国建芯片代工厂，电力、水源、基建、人力等成本均较高。业内估算，美国新工厂的十年总成本比亚洲约高出25%至50%。美国芯片法案向相关企业提供25%的投资税负抵免优惠，从增加的成本看，这点优惠得不偿失。同时，芯片半导体产业的资本密集度高，是烧钱大户。此前，三星宣布在美国德州建设的一家芯片代工厂，拟投资金额就达170亿美元。美国芯片法案总共才投资数百亿美元，不知能支持投建几家工厂？\n造出来的芯片还需要卖掉。2021年全球芯片销售额5559亿美元，中国市场销售额达1925亿美元，继续位列全球第一。据波士顿咨询公司等机构估算，如果美国采取对中国“技术硬脱钩”政策，可能会使美国半导体企业失去18%的全球市场份额和37%的收入，并减少1.5万个至4万个高技能工作岗位。以杯水车薪的补贴，来诱惑本国企业远离中国市场，这就难怪法案签署当日，美股芯片股大跌了。\n观市场前景，“中国芯”潜力看好。\n中国是全球产业配套最齐全、芯片市场规模最大的国家。自2018年以来，美国就对中国半导体产业采取了各类芯片“卡脖子”手段。但在卡了4年后，中国芯片扛住压力，发展更快。在过去四个季度里，世界上增长最快的20家芯片行业公司中，19家是中国大陆企业。\n在美国的极限施压下，中国芯片业越来越重视自主替代和产业链安全。以芯片制造关键设备之一的化学机械抛光设备CMP为例：其市场过去长期被美国应用材料、日本荏原两家公司垄断，如今，中电科电子装备集团8英寸CMP的国内市场占有率已达70%。中国人已多次在重大项目上以自主创新突破他国封锁，大家耳熟能详的就有“两弹一星”、北斗导航、载人航天等。对芯片技术产业，我们既要看到差距奋起直追，也要看到优势满怀自信。\n在全球疫情和地缘政治双重冲击下，全球芯片产业正在迎来结构调整期，这是中国升级突破的重要机遇。中国具备庞大的市场规模、友好的招商环境、全球最大的工程师队伍、成熟的工业水平、完备的基础设施、强大的抗疫情稳生产能力，在经济全球化中不可替代。经济全球化是生产力发展的客观要求和不可阻挡的历史潮流，“美国芯”开历史倒车，企图堵别人的路，最终只会堵死自己的路。\n(本文来自澎湃新闻，更多原创资讯请下载“澎湃新闻”APP)",
-          "link": "https://www.thepaper.cn/newsDetail_forward_19450096",
-          "publishedOn": "2022-08-14T06:23:08.000Z",
-          "wordCount": 2575,
-          "title": "经济日报刊文：美国芯片法案拦不住&ldquo;中国芯&rdquo;",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_19446608",
-          "author": null,
-          "description": "黄鹂 蒋林 汪圣云 贾宜超/央视新闻\n \n                \n8月13日15时30分许，四川省成都市彭州市龙门山镇后山下雨，引起龙漕沟区域突发山洪，导致群众被困。目前，已造成7人死亡。\n记者从四川成都彭州市人民医院了解到，截至13日24时，经省、市专家组全力救治，彭州“8·13”突发山洪灾害，3名重伤人员抢救无效死亡。目前，灾害已造成7人死亡，尚有3名轻伤者住院观察，生命体征平稳。\n灾情发生后，应急管理厅立即调度成都市应急管理局和彭州市应急管理局，指导当地在确保安全的前提下全力搜救被困人员，迅速转移受威胁群众。同时派出工作组赶赴现场指导救援工作，调派消防救援队伍67人3艇、成都市安全生产专业救援队伍和社会救援力量88人10艇参与救援。\n目前，救援工作正在进行中。\n(本文来自澎湃新闻，更多原创资讯请下载“澎湃新闻”APP)",
-          "link": "https://www.thepaper.cn/newsDetail_forward_19446608",
-          "publishedOn": "2022-08-14T05:23:06.000Z",
-          "wordCount": 2577,
-          "title": "四川彭州龙槽沟突发山洪已致7人遇难",
-          "imageUrl": null
         }
       ]
     },
@@ -856,6 +726,76 @@
       "feedUrl": "https://www.nationalreview.com/feed/",
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1342453",
+          "author": "Brittany Bernstein",
+          "description": "‘It is crystal clear. He’s bad, we’re good.’",
+          "link": "https://www.nationalreview.com/news/charlie-crist-compares-himself-to-christ-says-hes-running-for-governor-against-desatan/",
+          "publishedOn": "2022-09-13T01:17:29.000Z",
+          "wordCount": 6360,
+          "title": "Charlie Crist Compares Himself to Christ, Says He’s Running for Governor against ‘DeSatan’",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/charlie-crist.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1341887",
+          "author": "Isaac Schorr and Brittany Bernstein",
+          "description": "The Duke volleyball story is yet another example of the media’s rush to sow racial division, facts be damned.",
+          "link": "https://www.nationalreview.com/news/the-medias-pathological-commitment-to-dividing-americans-along-racial-lines/",
+          "publishedOn": "2022-09-12T19:43:45.000Z",
+          "wordCount": 8035,
+          "title": "The Media’s Pathological Commitment to Dividing Americans along Racial Lines",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2021/02/cnn.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1341723",
+          "author": "Brittany Bernstein",
+          "description": "In March 2020, Kansas became the first state to end in-person instruction for the year under Kelly.",
+          "link": "https://www.nationalreview.com/news/democratic-kansas-governor-makes-no-apologies-for-school-lockdowns-after-teachers-union-endorsements/",
+          "publishedOn": "2022-09-12T19:39:26.000Z",
+          "wordCount": 6592,
+          "title": "Democratic Kansas Governor Makes ‘No Apologies’ for School Lockdowns after Teachers’ Union Endorsements",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/kelly.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1341714",
+          "author": "Diana Glebova",
+          "description": "The judge appointed a special prosecutor to handle the disorderly conduct charge.",
+          "link": "https://www.nationalreview.com/news/judge-removes-democratic-prosecutor-from-case-of-loudoun-father-whose-daughter-was-raped-in-school/",
+          "publishedOn": "2022-09-12T18:48:04.000Z",
+          "wordCount": 6492,
+          "title": "Judge Removes Democratic Prosecutor from Case of Loudoun Father Whose Daughter Was Raped in School",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/Amanda-Shallant.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1341496",
+          "author": "Andrew C. McCarthy",
+          "description": "The privilege belongs to the incumbent president and no one else.",
+          "link": "https://www.nationalreview.com/2022/09/donald-trump-has-it-wrong-cutting-through-the-confusion-on-executive-privilege/",
+          "publishedOn": "2022-09-12T17:56:39.000Z",
+          "wordCount": 9171,
+          "title": "Donald Trump Has It Wrong: Cutting through the Confusion on Executive Privilege",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/donald-trump-rally.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1341537",
+          "author": "Caroline Downey",
+          "description": "Rodgers said he’s convinced California is headed down a ruinous path.",
+          "link": "https://www.nationalreview.com/news/aaron-rodgers-lays-into-newsom-over-covid-19-lockdowns-california-going-to-sh/",
+          "publishedOn": "2022-09-12T17:52:38.000Z",
+          "wordCount": 6372,
+          "title": "Aaron Rodgers Lays into Newsom over Covid-19 Lockdowns: California ‘Going to Sh**’",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2021/11/rodgers-ponts.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1341534",
+          "author": "Diana Glebova",
+          "description": "‘Don’t piss women off!’ he said. Should the right to abortion ‘be made up to Dr. Oz? Or to a woman and a real doctor, to choose?’",
+          "link": "https://www.nationalreview.com/news/john-fetterman-calls-himself-fetterwoman-in-pro-abortion-speech/",
+          "publishedOn": "2022-09-12T17:43:37.000Z",
+          "wordCount": 6333,
+          "title": "John Fetterman Calls Himself ‘Fetterwoman’ in Pro-Abortion Speech",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/John-Fetterman-1.jpg?fit=2057%2C1201"
+        },
         {
           "id": "https://www.nationalreview.com/?post_type=blog-post&p=1341436",
           "author": "Diana Glebova",
@@ -5245,66 +5185,6 @@
           "wordCount": 5180,
           "title": "Pelosi Is Letting Anti-police Radicals Call the Shots",
           "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2019/07/pressley-aoc-omar-tlaib.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1307755",
-          "author": "Caroline Downey",
-          "description": "The former president speculated that the FBI may have been planting evidence with which to indict him.",
-          "link": "https://www.nationalreview.com/news/trump-rails-against-fbi-on-truth-social-unrelenting-history-of-being-corrupt/",
-          "publishedOn": "2022-08-14T15:58:16.000Z",
-          "wordCount": 4867,
-          "title": "Trump Rails against FBI on Truth Social: ‘Unrelenting History of Being Corrupt’",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/08/trump-rally.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1307735",
-          "author": "Caroline Downey",
-          "description": "No one else was injured in the incident, which took place early Sunday morning.",
-          "link": "https://www.nationalreview.com/news/man-fatally-shoots-self-after-driving-vehicle-into-capitol-barricade/",
-          "publishedOn": "2022-08-14T14:44:11.000Z",
-          "wordCount": 4348,
-          "title": "Man Fatally Shoots Self after Driving Vehicle into Capitol Barricade",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2021/11/captiol-building.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1304335",
-          "author": "Adam M. Carrington",
-          "description": "The comparison is unfair to those who grieve the death of their unborn children.",
-          "link": "https://www.nationalreview.com/2022/08/dont-conflate-abortion-and-losing-a-baby-to-miscarriage/",
-          "publishedOn": "2022-08-14T10:30:23.000Z",
-          "wordCount": 5253,
-          "title": "Don’t Conflate Abortion and Losing a Baby to Miscarriage",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/08/holding-ultrasound.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1306336",
-          "author": "Kevin D. Williamson",
-          "description": "The man who attacked the Cincinnati FBI office last week died fighting what he thought was a war for American freedom. He was tragically misinformed.",
-          "link": "https://www.nationalreview.com/2022/08/ricky-revolutionary-rip/",
-          "publishedOn": "2022-08-14T10:30:14.000Z",
-          "wordCount": 5382,
-          "title": "Ricky Revolutionary, R.I.P.",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/08/fbi-office-cincinnati-ohio.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1304609",
-          "author": "Jack Wolfsohn",
-          "description": "Lee Edwards maintains that a fusion of traditionalism and libertarianism is the winning ticket, even if that fusion is messy.",
-          "link": "https://www.nationalreview.com/2022/08/the-clamorous-conservative-project/",
-          "publishedOn": "2022-08-14T10:30:08.000Z",
-          "wordCount": 5315,
-          "title": "The Clamorous Conservative Project",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/08/lee-edwards-cspan-2017-2.jpg?fit=1200%2C700"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1306299",
-          "author": "Lauren Noble",
-          "description": "A movement is growing in defense of free speech and viewpoint diversity at our nation’s elite educational institutions. The Buckley Program leads the way.",
-          "link": "https://www.nationalreview.com/2022/08/at-yale-buckleys-legacy-offers-intellectual-freedom/",
-          "publishedOn": "2022-08-14T10:30:04.000Z",
-          "wordCount": 5154,
-          "title": "At Yale, Buckley’s Legacy Offers Intellectual Freedom",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/08/yale-campus.jpg?fit=2057%2C1200"
         }
       ]
     }
