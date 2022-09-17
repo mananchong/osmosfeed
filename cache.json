@@ -65,6 +65,76 @@
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
         {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1349662",
+          "author": "Diana Glebova",
+          "description": "Newsom also invited DeSantis to debate, claiming the Florida governor has a need for attention.",
+          "link": "https://www.nationalreview.com/news/desantis-blasts-newsom-for-requesting-doj-probe-into-marthas-vineyard-illegal-immigrant-flights/",
+          "publishedOn": "2022-09-17T01:17:47.000Z",
+          "wordCount": 6788,
+          "title": "DeSantis Blasts Newsom for Requesting DOJ Probe into Martha’s Vineyard Illegal-Immigrant Flights",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/RonDeSantisGavinNewsom-2.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1349602",
+          "author": "John McCormack",
+          "description": "Yes, the Florida congresswoman voted to make abortion legal effectively through all nine months of pregnancy.",
+          "link": "https://www.nationalreview.com/2022/09/politifact-covers-for-val-demings-on-late-term-abortion/",
+          "publishedOn": "2022-09-16T23:11:28.000Z",
+          "wordCount": 7611,
+          "title": "<i>PolitiFact</i> Covers for Val Demings on Late-Term Abortion",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/val-demings-capitol-hill.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1349357",
+          "author": "Diana Glebova",
+          "description": "The guidelines are in keeping with Republican Virginia governor Glenn Youngkin’s campaign promise to respect parental rights.",
+          "link": "https://www.nationalreview.com/news/virginia-education-department-releases-new-policy-requiring-parent-permission-to-treat-students-as-transgender/",
+          "publishedOn": "2022-09-16T20:19:52.000Z",
+          "wordCount": 6974,
+          "title": "Virginia Education Department Releases New Policy Requiring Parent Permission to Treat Students as Transgender",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/05/transgenderflag.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1349349",
+          "author": "Brittany Bernstein",
+          "description": "The Del Rio area had more than 49,500 migrant encounters in July alone.",
+          "link": "https://www.nationalreview.com/news/marthas-vineyard-is-24000-migrants-away-from-equally-sharing-del-rios-burden/",
+          "publishedOn": "2022-09-16T19:55:12.000Z",
+          "wordCount": 7123,
+          "title": "Martha’s Vineyard Is 24,000 Migrants Away from Equally Sharing Del Rio’s Burden",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/Immigration-Vineyard.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1349324",
+          "author": "Nate Hochman",
+          "description": "The Florida senator has been a model of consistency and sincerity on the issue, standing on principle even when politically it might cost him.",
+          "link": "https://www.nationalreview.com/2022/09/marco-rubios-courageous-stand-for-life/",
+          "publishedOn": "2022-09-16T19:51:35.000Z",
+          "wordCount": 8042,
+          "title": "Marco Rubio’s Courageous Stand for Life",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/Marco-Rubio.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1343666",
+          "author": "Isaac Schorr",
+          "description": "The school told the College Republicans that the quad was already being used for an unrelated event.",
+          "link": "https://www.nationalreview.com/news/cornell-university-denies-college-republicans-space-for-9-11-memorial-then-takes-credit-for-it/",
+          "publishedOn": "2022-09-16T18:57:45.000Z",
+          "wordCount": 7338,
+          "title": "Cornell University Denies College Republicans Space for 9/11 Memorial, Then Takes Credit for It",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2018/12/Cornell_University_Ho_Plaza_and_Sage_Hall.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1349200",
+          "author": "Andrew C. McCarthy",
+          "description": "The latest directive, for all its flaws, gives prosecutors a path to prompt access to the classified files they need for their investigation.",
+          "link": "https://www.nationalreview.com/2022/09/judges-snub-could-give-doj-second-thoughts-about-appeal-in-trump-case/",
+          "publishedOn": "2022-09-16T17:21:40.000Z",
+          "wordCount": 8369,
+          "title": "Judge’s Snub Could Give DOJ Second Thoughts about Appeal in Trump Case",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/08/dtrumpo1.jpg?fit=2057%2C1200"
+        },
+        {
           "id": "https://www.nationalreview.com/?post_type=blog-post&p=1349062",
           "author": "Brittany Bernstein",
           "description": "The non-profit Do No Harm claims the terms of the fellowship are illegal under the Title VI of the 1964 Civil Rights Act",
@@ -4513,126 +4583,6 @@
           "wordCount": 6195,
           "title": "Austin Fire Department Chaplain Fired over Blog Post Objecting to Males in Women’s Sports",
           "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/03/Lia-Thomas-Trophy.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1312492",
-          "author": "Caroline Downey",
-          "description": "The hospital clarified to Fox News that 17-year-olds can only go to surgical consultation, but must turn 18 in order to qualify to obtain the surgery.",
-          "link": "https://www.nationalreview.com/news/boston-childrens-hospital-deletes-website-info-saying-17-year-olds-are-eligible-for-vaginal-construction-surgery/",
-          "publishedOn": "2022-08-18T19:21:03.000Z",
-          "wordCount": 4609,
-          "title": "Boston Children’s Hospital Deletes Website Info Saying 17-Year-Olds Are Eligible for Vaginal Construction Surgery",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/08/Boston-Childrens-Hospital.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1312557",
-          "author": "Diana Glebova",
-          "description": "The federal government will file redactions August 25, the judge said.",
-          "link": "https://www.nationalreview.com/news/parts-of-mar-a-lago-search-affidavit-can-be-unsealed-judge-says/",
-          "publishedOn": "2022-08-18T19:11:26.000Z",
-          "wordCount": 4461,
-          "title": "Parts of Mar-a-Lago Search Affidavit Can Be Unsealed, Judge Says",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/08/Garland-and-Mar-a-Lago-1-5.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1312508",
-          "author": "Dominic Pino",
-          "description": "Independent recommendations on pay and benefits are out, and the two sides have until September 16 to reach an agreement before work stoppages are permitted.",
-          "link": "https://www.nationalreview.com/2022/08/the-ball-is-now-in-labors-court-to-avoid-a-rail-strike/",
-          "publishedOn": "2022-08-18T18:44:32.000Z",
-          "wordCount": 5913,
-          "title": "The Ball Is Now in Labor’s Court to Avoid a Rail Strike",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/08/freighttrain.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1312447",
-          "author": "Isaac Schorr",
-          "description": "The show has been canceled after a 30 year run on the network, the last nine of which have been anchored by Stelter.",
-          "link": "https://www.nationalreview.com/news/cnn-cancels-brian-stelters-reliable-sources-longtime-anchor-to-depart-network/",
-          "publishedOn": "2022-08-18T17:52:00.000Z",
-          "wordCount": 4485,
-          "title": "CNN Cancels Brian Stelter’s <I>Reliable Sources</I>, Longtime Anchor to Depart Network",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2018/09/RTS1IQ7U.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1312253",
-          "author": "Diana Glebova",
-          "description": "He agreed to a plea deal that will require him to testify about the financial practices of the company.",
-          "link": "https://www.nationalreview.com/news/former-trump-organization-cfo-pleads-guilty-to-tax-fraud-agrees-to-testify-in-trial/",
-          "publishedOn": "2022-08-18T14:52:11.000Z",
-          "wordCount": 4542,
-          "title": "Former Trump Organization CFO Pleads Guilty to Tax Fraud, Agrees to Testify in Trial",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/08/Allen-Weisselberg.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1312091",
-          "author": "Diana Glebova",
-          "description": "The ruling comes the same day that South Carolina’s supreme court temporarily halted the state’s ‘fetal heartbeat’ abortion ban.",
-          "link": "https://www.nationalreview.com/news/north-carolina-can-ban-most-abortions-after-20-weeks-judge-rules/",
-          "publishedOn": "2022-08-18T13:40:06.000Z",
-          "wordCount": 4546,
-          "title": "North Carolina Can Ban Most Abortions after 20 Weeks, Judge Rules",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2018/11/sonogram.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1312071",
-          "author": "Andrew C. McCarthy",
-          "description": "What to expect (and not) from the latest act of the Trump search-warrant drama.",
-          "link": "https://www.nationalreview.com/2022/08/the-mar-a-lago-affidavit-circus/",
-          "publishedOn": "2022-08-18T13:05:38.000Z",
-          "wordCount": 5289,
-          "title": "The Mar-a-Lago Affidavit Circus",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/08/Wray-Trump.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1312058",
-          "author": "Diana Glebova",
-          "description": "Trump has called for the ‘immediate release’ of the ‘unreacted’ affidavit, saying he was ‘cooperating fully’ before the search.",
-          "link": "https://www.nationalreview.com/news/judge-to-weigh-unsealing-mar-a-lago-raid-affidavit/",
-          "publishedOn": "2022-08-18T12:48:12.000Z",
-          "wordCount": 4404,
-          "title": "Judge to Weigh Unsealing Mar-a-Lago Raid Affidavit",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2021/05/Donald-Trump-4.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1311225",
-          "author": "John F. Lehman and Bing West",
-          "description": "The U.S. is the dominant maritime power in the Pacific; let’s keep it that way.",
-          "link": "https://www.nationalreview.com/2022/08/deter-china-through-strength-and-confidence/",
-          "publishedOn": "2022-08-18T10:30:45.000Z",
-          "wordCount": 5237,
-          "title": "Deter China through Strength and Confidence",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2020/03/defending-america-031620-311.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1311212",
-          "author": "Brian T. Allen",
-          "description": "The museum, with no collection of its own, wins by focusing on variety in a stellar Art Deco setting.",
-          "link": "https://www.nationalreview.com/2022/08/a-crash-course-in-medieval-armor-at-nashvilles-frist-museum/",
-          "publishedOn": "2022-08-18T10:30:42.000Z",
-          "wordCount": 6654,
-          "title": "A Crash Course in Medieval Armor at Nashville’s Frist Museum",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/08/1-Frist-Courtyard-Exterior-John-Schweikert-1.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1309950",
-          "author": "Ryan Mills",
-          "description": "Scientists and the journalists who trust them have been writing the reef’s obituary for years, but a new report proves them wrong.",
-          "link": "https://www.nationalreview.com/news/great-barrier-reef-defies-doomsday-predictions/",
-          "publishedOn": "2022-08-18T10:30:41.000Z",
-          "wordCount": 5969,
-          "title": "Great Barrier Reef Defies Doomsday Predictions",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/08/great-barrier-reef.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1311721",
-          "author": "Philip Klein",
-          "description": "When the dust settles on the 2022 election, Republicans on Capitol Hill are going to be a lot more in tune with Trump than during his presidency.",
-          "link": "https://www.nationalreview.com/2022/08/despite-trumps-defeat-congressional-gop-becoming-more-like-him/",
-          "publishedOn": "2022-08-18T10:30:02.000Z",
-          "wordCount": 5129,
-          "title": "Despite Trump’s Defeat, Congressional GOP Becoming More Like Him",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/08/donald-trump-arizona-rally.jpg?fit=2057%2C1200"
         }
       ]
     }
