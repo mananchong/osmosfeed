@@ -65,6 +65,96 @@
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
         {
+          "id": "https://www.nationalreview.com/?p=1350025",
+          "author": "Dan McLaughlin",
+          "description": "Changes that would protect existing norms, restore elements of the original constitutional design, improve democratic accountability, and head off future crises.",
+          "link": "https://www.nationalreview.com/2022/09/seven-ways-to-amend-the-constitution/",
+          "publishedOn": "2022-09-17T16:58:56.000Z",
+          "wordCount": 9082,
+          "title": "Seven Ways to Amend the Constitution",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/constitution-copy.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1349996",
+          "author": "Andrew C. McCarthy",
+          "description": "The government should prevail on its limited appeal, but probably at the cost of some delay in a matter prosecutors say is urgent.",
+          "link": "https://www.nationalreview.com/2022/09/doj-takes-a-risk-to-challenge-special-master-order-in-trump-case/",
+          "publishedOn": "2022-09-17T16:13:31.000Z",
+          "wordCount": 8610,
+          "title": "DOJ Takes a Risk to Challenge Special-Master Order in Trump Case",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/08/Garland-and-Mar-a-Lago-1-5.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1349926",
+          "author": "Caroline Downey",
+          "description": "Ayatollah Khamenei had been bedridden after undergoing surgery for a gastrointestinal obstruction.",
+          "link": "https://www.nationalreview.com/news/irans-dictator-appears-in-public-after-being-bedridden-with-illness/",
+          "publishedOn": "2022-09-17T14:27:23.000Z",
+          "wordCount": 6690,
+          "title": "Iran’s Dictator Appears in Public after Being Bedridden with Illness",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/03/iran-ali-khameini.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1349877",
+          "author": "Caroline Downey",
+          "description": "The decision barred the government from reviewing the confiscated Mar-a-Lago raid records as part of a criminal probe into former president Trump.",
+          "link": "https://www.nationalreview.com/news/doj-appeals-judges-ruling-on-mar-a-lago-raid-documents/",
+          "publishedOn": "2022-09-17T12:51:21.000Z",
+          "wordCount": 6852,
+          "title": "DOJ Appeals Judge’s Ruling on Mar-a-Lago Raid Documents",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/08/mar-a-lago-estate.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1348494",
+          "author": "Adam M. Carrington",
+          "description": "We must commit ourselves to the idea that we can continue to chart our country’s course through deliberation, elections, and lawmaking.",
+          "link": "https://www.nationalreview.com/2022/09/this-constitution-day-let-us-be-thankful-that-we-rule-through-words-not-violence/",
+          "publishedOn": "2022-09-17T10:30:57.000Z",
+          "wordCount": 7401,
+          "title": "This Constitution Day, Let Us Be Thankful That We Rule through Words, Not Violence",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2018/11/signing-of-the-constitution-painting.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1349351",
+          "author": "Brian T. Allen",
+          "description": "This week saw the spectacle of a furious curator, who is black, ranting against the Atlantic over a white journalist’s request for comment.",
+          "link": "https://www.nationalreview.com/2022/09/the-art-world-in-an-age-of-rage/",
+          "publishedOn": "2022-09-17T10:30:35.000Z",
+          "wordCount": 8329,
+          "title": "The Art World in an Age of Rage",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/1-2006-09-19T000000Z-1015700548-GM1DTNNKRSAA-RTRMADP-3-ITALY.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1349432",
+          "author": "Luther Ray Abel",
+          "description": "Norm is one of only a very few comedians who make us wonder how much more he had to give.",
+          "link": "https://www.nationalreview.com/2022/09/why-we-love-norm-macdonald/",
+          "publishedOn": "2022-09-17T10:30:33.000Z",
+          "wordCount": 7798,
+          "title": "Why We Love Norm Macdonald",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2021/09/norm-macdonald-2003.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1348304",
+          "author": "Tal Fortgang",
+          "description": "If ‘the door is open’ to antisemitism in American politics, that’s only because progressive cultural forces kicked it down.",
+          "link": "https://www.nationalreview.com/2022/09/what-jonathan-chait-gets-wrong-about-the-threats-facing-american-jews/",
+          "publishedOn": "2022-09-17T10:30:32.000Z",
+          "wordCount": 7878,
+          "title": "What Jonathan Chait Gets Wrong about the Threats Facing American Jews",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2018/03/JonathanChait.jpg?fit=2057%2C1201"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1349592",
+          "author": "Andrew C. McCarthy",
+          "description": "Churchill was right the first time.",
+          "link": "https://www.nationalreview.com/2022/09/the-9-11-conundrum-terrorists-who-should-be-put-to-death-but-cant-be-tried/",
+          "publishedOn": "2022-09-17T10:30:30.000Z",
+          "wordCount": 8563,
+          "title": "The 9/11 Conundrum: Terrorists Who Should Be Put to Death but Can’t Be Tried",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/911-WTC-KDM-skyline-inset.jpg?fit=1200%2C700"
+        },
+        {
           "id": "https://www.nationalreview.com/?post_type=blog-post&p=1349662",
           "author": "Diana Glebova",
           "description": "Newsom also invited DeSantis to debate, claiming the Florida governor has a need for attention.",
@@ -4523,66 +4613,6 @@
           "wordCount": 5127,
           "title": "Is Lincoln Speaking to Us?",
           "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2018/03/xi-jinping-vladimir-putin-beijing.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1312733",
-          "author": "Caroline Downey",
-          "description": "The victim was hospitalized in a coma with a skull fracture, bleeding on the brain, and other injuries.",
-          "link": "https://www.nationalreview.com/news/nyc-attempted-murder-suspect-dismissed-from-court-after-charge-reduced-to-misdemeanor/",
-          "publishedOn": "2022-08-19T00:14:54.000Z",
-          "wordCount": 4597,
-          "title": "NYC Attempted-Murder Suspect Dismissed from Court after Charge Reduced to Misdemeanor",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/08/nypd-twitter-1.jpg?fit=1200%2C700"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1312848",
-          "author": "Andrew C. McCarthy",
-          "description": "A magistrate judge has ordered the DOJ to propose a redacted affidavit for publication.",
-          "link": "https://www.nationalreview.com/2022/08/a-surprise-turn-in-the-trump-search-warrant-case/",
-          "publishedOn": "2022-08-18T23:09:27.000Z",
-          "wordCount": 5684,
-          "title": "A Surprise Turn in the Trump Search-Warrant Case",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/08/FBI-Trump.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1312829",
-          "author": "John McCormack",
-          "description": "Republicans’ diminished electoral prospects elsewhere may have more to do with candidate quality than abortion policy.",
-          "link": "https://www.nationalreview.com/2022/08/pro-life-gop-governors-lead-in-battleground-states/",
-          "publishedOn": "2022-08-18T22:45:46.000Z",
-          "wordCount": 5068,
-          "title": "Pro-Life GOP Governors Lead in Battleground States",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/08/mike-dewine-2018.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1312194",
-          "author": "Diana Glebova",
-          "description": "‘So much in this doesn’t make sense, that clarifying this has got to be a very, very high priority,’ a friend of Rapoport’s told NR.",
-          "link": "https://www.nationalreview.com/news/prominent-putin-critic-dies-under-mysterious-circumstances-in-d-c-friends-suspect-foul-play/",
-          "publishedOn": "2022-08-18T20:21:53.000Z",
-          "wordCount": 5028,
-          "title": "Prominent Putin Critic Dies under Mysterious Circumstances in D.C., Friends Suspect Foul Play",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/08/Garland-and-Mar-a-Lago-1-6.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1312575",
-          "author": "Caroline Downey",
-          "description": "The governor claimed that the people who allegedly voted illegally, mostly in Miami-Dade, Broward and Palm Beach counties, had previous criminal records.",
-          "link": "https://www.nationalreview.com/news/desantis-announces-20-people-to-be-charged-with-voter-fraud/",
-          "publishedOn": "2022-08-18T20:04:56.000Z",
-          "wordCount": 4658,
-          "title": "DeSantis Announces 20 People to Be Charged with Voter Fraud",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/08/desantis.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1312647",
-          "author": "Ryan Mills",
-          "description": "Fire department leaders said they’d received anonymous complaints about the blog post. When Fox wrote an apology, it was rejected.",
-          "link": "https://www.nationalreview.com/news/austin-fire-department-chaplain-fired-over-blog-post-objecting-to-males-in-womens-sports/",
-          "publishedOn": "2022-08-18T19:59:14.000Z",
-          "wordCount": 6195,
-          "title": "Austin Fire Department Chaplain Fired over Blog Post Objecting to Males in Women’s Sports",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/03/Lia-Thomas-Trophy.jpg?fit=2057%2C1200"
         }
       ]
     }
