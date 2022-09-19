@@ -65,6 +65,36 @@
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
         {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1350696",
+          "author": "Brittany Bernstein",
+          "description": "Biden told 60 Minutes that he has not been briefed on the sensitive documents that FBI agents recovered from Mar-a-Lago.",
+          "link": "https://www.nationalreview.com/news/biden-speaks-out-on-allegations-against-trump-totally-irresponsible/",
+          "publishedOn": "2022-09-19T01:14:31.000Z",
+          "wordCount": 6980,
+          "title": "Biden Speaks Out on Allegations against Trump: ‘Totally Irresponsible’",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/biden-60-minutes-2.jpg?fit=1200%2C700"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1350673",
+          "author": "Brittany Bernstein",
+          "description": "A White House official later told 60 Minutes that U.S. policy on Taiwan has not changed.",
+          "link": "https://www.nationalreview.com/news/biden-says-u-s-forces-would-defend-taiwan-if-china-invaded/",
+          "publishedOn": "2022-09-19T00:53:43.000Z",
+          "wordCount": 6856,
+          "title": "Biden Says U.S. Forces Would Defend Taiwan If China Invaded",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/joe-biden-60-minutes.jpg?fit=1200%2C700"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1350629",
+          "author": "Rich Lowry",
+          "description": "There’s a simple reason that sanctuary cities don’t want to provide too much sanctuary.",
+          "link": "https://www.nationalreview.com/2022/09/whats-wrong-with-illegal-immigrants/",
+          "publishedOn": "2022-09-18T23:20:20.000Z",
+          "wordCount": 7551,
+          "title": "What’s Wrong with Illegal Immigrants?",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/texas-mexico-border-2.jpg?fit=2057%2C1200"
+        },
+        {
           "id": "https://www.nationalreview.com/?post_type=blog-post&p=1350456",
           "author": "Brittany Bernstein",
           "description": "Eric Adams called on the governors to coordinate with the federal government and the blue states where they are sending migrants.",
@@ -4503,66 +4533,6 @@
           "wordCount": 5285,
           "title": "What the ‘Dear America’ Series Taught Me",
           "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/08/dear-america.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1314273",
-          "author": "Diana Glebova",
-          "description": "Every boy who identifies as a girl who wants to compete in female sports will go before a commission, which hasn’t been set up yet.",
-          "link": "https://www.nationalreview.com/news/utah-judge-pauses-ban-on-trans-athletes-competing-against-girls-in-sports/",
-          "publishedOn": "2022-08-20T19:32:35.000Z",
-          "wordCount": 4506,
-          "title": "Utah Judge Pauses Ban on Trans Athletes Competing against Girls in Sports",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/06/transgender-flag.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1314142",
-          "author": "Diana Glebova",
-          "description": "Videos posted on social media show smoke billowing out of the roof of the building.",
-          "link": "https://www.nationalreview.com/news/drone-strikes-russias-black-sea-fleet-headquarters-in-crimea/",
-          "publishedOn": "2022-08-20T15:03:09.000Z",
-          "wordCount": 4461,
-          "title": "Drone Strikes Russia’s Black Sea Fleet Headquarters in Crimea",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/08/sebastopol-black-sea-headquarters.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1313402",
-          "author": "Brian T. Allen",
-          "description": "A look at a leader, his elegant home, and his cussing pet parrot.",
-          "link": "https://www.nationalreview.com/2022/08/the-hermitage-andrew-jacksons-home-teaches-history-and-citizenship/",
-          "publishedOn": "2022-08-20T10:30:58.000Z",
-          "wordCount": 6736,
-          "title": "The Hermitage, Andrew Jackson’s Home, Teaches History and Citizenship",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/08/1-Mansion-credit-Odinn-Media.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1313678",
-          "author": "Andrew C. McCarthy",
-          "description": "The bureau can still be a valuable force for good, but not if we close our eyes to its very real, serious flaws.",
-          "link": "https://www.nationalreview.com/2022/08/what-mike-pence-gets-wrong-about-the-fbi/",
-          "publishedOn": "2022-08-20T10:30:50.000Z",
-          "wordCount": 6533,
-          "title": "What Mike Pence Gets Wrong about the FBI",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/08/MikePenceFBI-2.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1312786",
-          "author": "Victoria Coates and Marshall Billingslea",
-          "description": "Remember Rumsfeld’s Rule: ‘Sometimes you have to kill a chicken to frighten the monkeys.’",
-          "link": "https://www.nationalreview.com/2022/08/to-contain-xi-defeat-putin-in-ukraine/",
-          "publishedOn": "2022-08-20T10:30:37.000Z",
-          "wordCount": 5683,
-          "title": "To Contain Xi, Defeat Putin in Ukraine",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/02/xi-jinping-vladimir-putin.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1312278",
-          "author": "Dan McLaughlin",
-          "description": "The right-populist movement invokes the old American republican tradition. But there are dangers in following this path.",
-          "link": "https://www.nationalreview.com/2022/08/the-new-republicanism/",
-          "publishedOn": "2022-08-20T10:30:32.000Z",
-          "wordCount": 6402,
-          "title": "The New Republicanism",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/08/ron-desantis.jpg?fit=2057%2C1200"
         }
       ]
     }

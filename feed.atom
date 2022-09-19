@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mananchong.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-18T17:00:55.887Z</updated>
+    <updated>2022-09-19T07:59:38.294Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mananchong.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://mananchong.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Biden Speaks Out on Allegations against Trump: ‘Totally Irresponsible’]]></title>
+        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1350696</id>
+        <link href="https://www.nationalreview.com/news/biden-speaks-out-on-allegations-against-trump-totally-irresponsible/"/>
+        <updated>2022-09-19T01:14:31.000Z</updated>
+        <summary type="html"><![CDATA[Biden told 60 Minutes that he has not been briefed on the sensitive documents that FBI agents recovered from Mar-a-Lago.]]></summary>
+        <author>
+            <name>Brittany Bernstein</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Biden Says U.S. Forces Would Defend Taiwan If China Invaded]]></title>
+        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1350673</id>
+        <link href="https://www.nationalreview.com/news/biden-says-u-s-forces-would-defend-taiwan-if-china-invaded/"/>
+        <updated>2022-09-19T00:53:43.000Z</updated>
+        <summary type="html"><![CDATA[A White House official later told 60 Minutes that U.S. policy on Taiwan has not changed.]]></summary>
+        <author>
+            <name>Brittany Bernstein</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s Wrong with Illegal Immigrants?]]></title>
+        <id>https://www.nationalreview.com/?p=1350629</id>
+        <link href="https://www.nationalreview.com/2022/09/whats-wrong-with-illegal-immigrants/"/>
+        <updated>2022-09-18T23:20:20.000Z</updated>
+        <summary type="html"><![CDATA[There’s a simple reason that sanctuary cities don’t want to provide too much sanctuary.]]></summary>
+        <author>
+            <name>Rich Lowry</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NYC Mayor: GOP Governors Busing Illegal Immigrants Created ‘Humanitarian Crisis’]]></title>
         <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1350456</id>
@@ -4550,66 +4580,6 @@ Installation of R 4.2 on…]]></summary>
         <summary type="html"><![CDATA[For meaningful lessons in courage, friendship, and determination, the ‘Dear America’ books are wonderful reads.]]></summary>
         <author>
             <name>Sarah Schutte</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Utah Judge Pauses Ban on Trans Athletes Competing against Girls in Sports]]></title>
-        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1314273</id>
-        <link href="https://www.nationalreview.com/news/utah-judge-pauses-ban-on-trans-athletes-competing-against-girls-in-sports/"/>
-        <updated>2022-08-20T19:32:35.000Z</updated>
-        <summary type="html"><![CDATA[Every boy who identifies as a girl who wants to compete in female sports will go before a commission, which hasn’t been set up yet.]]></summary>
-        <author>
-            <name>Diana Glebova</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Drone Strikes Russia’s Black Sea Fleet Headquarters in Crimea]]></title>
-        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1314142</id>
-        <link href="https://www.nationalreview.com/news/drone-strikes-russias-black-sea-fleet-headquarters-in-crimea/"/>
-        <updated>2022-08-20T15:03:09.000Z</updated>
-        <summary type="html"><![CDATA[Videos posted on social media show smoke billowing out of the roof of the building.]]></summary>
-        <author>
-            <name>Diana Glebova</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Hermitage, Andrew Jackson’s Home, Teaches History and Citizenship]]></title>
-        <id>https://www.nationalreview.com/?p=1313402</id>
-        <link href="https://www.nationalreview.com/2022/08/the-hermitage-andrew-jacksons-home-teaches-history-and-citizenship/"/>
-        <updated>2022-08-20T10:30:58.000Z</updated>
-        <summary type="html"><![CDATA[A look at a leader, his elegant home, and his cussing pet parrot.]]></summary>
-        <author>
-            <name>Brian T. Allen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Mike Pence Gets Wrong about the FBI]]></title>
-        <id>https://www.nationalreview.com/?p=1313678</id>
-        <link href="https://www.nationalreview.com/2022/08/what-mike-pence-gets-wrong-about-the-fbi/"/>
-        <updated>2022-08-20T10:30:50.000Z</updated>
-        <summary type="html"><![CDATA[The bureau can still be a valuable force for good, but not if we close our eyes to its very real, serious flaws.]]></summary>
-        <author>
-            <name>Andrew C. McCarthy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[To Contain Xi, Defeat Putin in Ukraine]]></title>
-        <id>https://www.nationalreview.com/?p=1312786</id>
-        <link href="https://www.nationalreview.com/2022/08/to-contain-xi-defeat-putin-in-ukraine/"/>
-        <updated>2022-08-20T10:30:37.000Z</updated>
-        <summary type="html"><![CDATA[Remember Rumsfeld’s Rule: ‘Sometimes you have to kill a chicken to frighten the monkeys.’]]></summary>
-        <author>
-            <name>Victoria Coates and Marshall Billingslea</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The New Republicanism]]></title>
-        <id>https://www.nationalreview.com/?p=1312278</id>
-        <link href="https://www.nationalreview.com/2022/08/the-new-republicanism/"/>
-        <updated>2022-08-20T10:30:32.000Z</updated>
-        <summary type="html"><![CDATA[The right-populist movement invokes the old American republican tradition. But there are dangers in following this path.]]></summary>
-        <author>
-            <name>Dan McLaughlin</name>
         </author>
     </entry>
 </feed>
