@@ -6,6 +6,16 @@
       "siteUrl": "https://rweekly.org/atom.xml",
       "articles": [
         {
+          "id": "https://rweekly.org/2022-W38.html",
+          "author": null,
+          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Tony ElHabr, with help from the R Weekly team members and contributors.\nHighlight\nThe case for variable labels in R\n{mariobox} 0.0.0.9000: A framework for packaging {plumber} APIs\nAPIs and web scraping\nInsights\nThe case for variable labels in R\nR in the Real World\nMulti-environment split-plot experiments\nPledging My Time V: Analysing race results in R\nR in Organizations\nUpdate Your Machine Learning Pipeline With vetiver and Quarto\nAutomate a Twitter bot with the rtweet package and RStudio Connect\nEFS vs. NFS for RStudio on Kubernetes (AWS): Configuration and considerations\n\nHow to Participate with rOpenSci\nR in Academia\n10 simple rules for teaching R for Data Science\nResourc…",
+          "link": "https://rweekly.org/2022-W38.html",
+          "publishedOn": "2022-09-19T00:00:00.000Z",
+          "wordCount": 6001,
+          "title": "R Weekly 2022-W38 Variable labels, packaging plumber, web scraping",
+          "imageUrl": "https://rweekly.org/public/facebook.png"
+        },
+        {
           "id": "https://rweekly.org/2022-W37.html",
           "author": null,
           "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Jon Calder, with help from the R Weekly team members and contributors.\nHighlight\nMapping wind data with R\nCalculating and comparing expected points from different expected goals sources (soccer)\nUse Docker to deploy a model for #TidyTuesday LEGO sets\nInsights\nTaking on Virtual Events with Regular Structured and Casual Meetups ☕️\nFinancial Industry Supports Robust Vienna R Community\nR in the Real World\nCalculating and comparing expected points from different expected goals sources (soccer)\nEvaluating how we can use match outcome probabilites for season-long insights (soccer)\n\nRObservations #38: Visualizing Average Delay Times On TTC Subway Stations\nHow strongly does German el…",
@@ -64,6 +74,96 @@
       "feedUrl": "https://www.nationalreview.com/feed/",
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
+        {
+          "id": "https://www.nationalreview.com/?p=1351235",
+          "author": "Michael Brendan Dougherty",
+          "description": "Martha’s Vineyard can endure a few minutes of embarrassment. Those dying in box trucks outside San Antonio don’t have the same luxury.",
+          "link": "https://www.nationalreview.com/2022/09/whos-using-whom-in-the-migrant-wars/",
+          "publishedOn": "2022-09-19T17:01:26.000Z",
+          "wordCount": 7464,
+          "title": "Who’s Using Whom in the Migrant Wars?",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/san-antonio-migrants.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1351184",
+          "author": "Caroline Downey",
+          "description": "The man was freed hours after his arraignment for charges of fourth-degree criminal mischief and possession-of-weapons charges.",
+          "link": "https://www.nationalreview.com/news/new-york-city-mcdonalds-axe-attacker-released-without-bail/",
+          "publishedOn": "2022-09-19T16:53:14.000Z",
+          "wordCount": 6674,
+          "title": "New York City McDonald’s Axe Attacker Released without Bail",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/mcdonalds-.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1351047",
+          "author": "Caroline Downey",
+          "description": "The late monarch’s coffin was escorted by 142 members of the Royal Navy through the streets of central London.",
+          "link": "https://www.nationalreview.com/news/queen-elizabeths-funeral-procession-draws-tens-of-thousands/",
+          "publishedOn": "2022-09-19T13:47:31.000Z",
+          "wordCount": 6745,
+          "title": "Queen Elizabeth’s Funeral Procession Draws Tens of Thousands",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/Queens-Funeral.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1351009",
+          "author": "Caroline Downey",
+          "description": "The state representative pressed for legal retaliation against DeSantis for ‘kidnapping’ and ‘human trafficking.’",
+          "link": "https://www.nationalreview.com/news/massachusetts-lawmaker-demands-investigation-into-desantis-for-migrant-kidnapping-and-human-trafficking/",
+          "publishedOn": "2022-09-19T12:54:17.000Z",
+          "wordCount": 6830,
+          "title": "Massachusetts Lawmaker Demands Investigation into DeSantis for Migrant ‘Kidnapping and Human Trafficking’",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/Vineyard-Bus.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1350481",
+          "author": "Nadia Schadlow",
+          "description": "The introduction of outside actors into military units will undercut discipline and combat effectiveness.",
+          "link": "https://www.nationalreview.com/2022/09/more-political-interference-will-hurt-not-help-the-u-s-military/",
+          "publishedOn": "2022-09-19T10:30:52.000Z",
+          "wordCount": 7786,
+          "title": "More Political Interference Will Hurt, Not Help, the U.S. Military",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2021/12/marines-helmand-afghanistan-15.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1349089",
+          "author": "Chris Edwards",
+          "description": "Republicans are driving state tax policy and Democrats are, at least in part, following.",
+          "link": "https://www.nationalreview.com/2022/09/good-fiscal-news-from-the-states/",
+          "publishedOn": "2022-09-19T10:30:51.000Z",
+          "wordCount": 7400,
+          "title": "Good Fiscal News from the States",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/03/oklahoma-state-capitol.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1350636",
+          "author": "Kevin A. Hassett",
+          "description": "We are in a straightforward stagflationary spiral.",
+          "link": "https://www.nationalreview.com/2022/09/the-ten-steps-of-stagflation/",
+          "publishedOn": "2022-09-19T10:30:24.000Z",
+          "wordCount": 7026,
+          "title": "The Ten Steps of Stagflation",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/jerome-powell-federal-reserve.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1349400",
+          "author": "Jack Fowler",
+          "description": "The bargaining unit for the school system’s employees is fixated on BDS advocacy and unabashed in the harassment of Jewish professors. But they are fighting back.",
+          "link": "https://www.nationalreview.com/2022/09/antisemitism-runs-amok-at-cuny-as-teachers-fight-for-janus-rights/",
+          "publishedOn": "2022-09-19T10:30:12.000Z",
+          "wordCount": 8539,
+          "title": "Antisemitism Runs Amok at CUNY as Teachers Fight for <em>Janus</em> Rights",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/cuny-protest.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1350780",
+          "author": "Kathryn Jean Lopez",
+          "description": "It’s heroic and important. The film Lifemark is a moving testament to its value.",
+          "link": "https://www.nationalreview.com/2022/09/after-roe-we-must-treasure-adoption/",
+          "publishedOn": "2022-09-19T10:30:10.000Z",
+          "wordCount": 7717,
+          "title": "After <i>Roe</i>, We Must Treasure Adoption",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/lifemark-trailer.jpg?fit=1200%2C700"
+        },
         {
           "id": "https://www.nationalreview.com/?post_type=blog-post&p=1350696",
           "author": "Brittany Bernstein",
