@@ -44,16 +44,6 @@
           "wordCount": 6143,
           "title": "R Weekly 2022-W35, exploring subway fares and clinical reporting with {gtsummary}",
           "imageUrl": "https://rweekly.org/public/facebook.png"
-        },
-        {
-          "id": "https://rweekly.org/2022-W34.html",
-          "author": null,
-          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Sam Parmar, with help from the R Weekly team members and contributors.\nHighlight\nTalk recordings and workshop materials from rstudio::conf(2022)\ncountdown v0.4.0 - Now on CRAN!\nThe Past and Future of Shiny - Joe Cheng - rstudio::conf(2022)\nInsights\nThe ultimate beginner’s guide to generalized linear models (GLMs)\nHave we got NEWS.md for you\ncountdown v0.4.0 - Now on CRAN!\nBox-Cox transformation from Feature Engineering by Max Kuhn and Kjell Johnson\nCustom Discrete Color Scales for ggplot2\nBuilding Statistical Intuition for Individualized Treatment Rules\nR in the Real World\nThe R Programming Language Is Now Fast Enough to Run Games on Linux with Nara\n\nInstallation of R 4.2 on…",
-          "link": "https://rweekly.org/2022-W34.html",
-          "publishedOn": "2022-08-22T00:00:00.000Z",
-          "wordCount": 5995,
-          "title": "R Weekly 2022-W34 rstudio::conf(2022) recordings, countdown v0.4.0, Past and Future of Shiny talk from Joe Cheng",
-          "imageUrl": "https://rweekly.org/public/facebook.png"
         }
       ]
     },
@@ -74,6 +64,76 @@
       "feedUrl": "https://www.nationalreview.com/feed/",
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1352164",
+          "author": "Ryan Mills",
+          "description": "Fred Sargeant, 74, participated in the Stonewall Riots in the 1970’s. He was assaulted for criticizing gender ideology.",
+          "link": "https://www.nationalreview.com/news/elderly-gay-activist-assaulted-by-trans-protesters-at-vermont-pride-parade/",
+          "publishedOn": "2022-09-20T17:01:14.000Z",
+          "wordCount": 7355,
+          "title": "Elderly Gay Activist Assaulted by Trans Protesters at Vermont Pride Parade",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2018/09/RTS1HF2P.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1352071",
+          "author": "Caroline Downey",
+          "description": "The Pentagon’s watchdog calculated that 50 vaccine exemptions were rejected daily over 90 days.",
+          "link": "https://www.nationalreview.com/news/pentagon-rushed-vaccine-exemption-denials-watchdog-finds/",
+          "publishedOn": "2022-09-20T16:06:43.000Z",
+          "wordCount": 6880,
+          "title": "Pentagon Rushed Vaccine-Exemption Denials, Watchdog Finds",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/07/Navy-Vaccine-1.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1352042",
+          "author": "Andrew C. McCarthy",
+          "description": "The development comes as his legal team resists disclosure of declassification details.",
+          "link": "https://www.nationalreview.com/2022/09/trump-concedes-possible-indictment/",
+          "publishedOn": "2022-09-20T15:01:41.000Z",
+          "wordCount": 7976,
+          "title": "Trump Concedes Possible Indictment",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/trump-2.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1351895",
+          "author": "Caroline Downey",
+          "description": "The sheriff couldn’t say whether the law was broken but said the stunt violated the migrants’ human rights.",
+          "link": "https://www.nationalreview.com/news/democratic-texas-sheriff-launches-investigation-into-migrant-flights-to-marthas-vineyard/",
+          "publishedOn": "2022-09-20T12:46:39.000Z",
+          "wordCount": 7049,
+          "title": "Democratic Texas Sheriff Launches Investigation into Migrant Flights to Martha’s Vineyard",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/GettyImages-1243258377-Migrants-Vineyard.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1351361",
+          "author": "Caroline Downey",
+          "description": "Tennessee bureaucrats are trying to stop parents from founding charter schools based on Hillsdale’s model.",
+          "link": "https://www.nationalreview.com/news/facing-a-dishonest-opposition-hillsdale-fights-to-spread-classical-education-across-the-u-s/",
+          "publishedOn": "2022-09-20T10:30:52.000Z",
+          "wordCount": 8754,
+          "title": "Facing a Dishonest Opposition, Hillsdale Fights to Spread Classical Education across the U.S.",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2018/08/hillsdale-college-welcome.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1349255",
+          "author": "Edward Ring",
+          "description": "The environmentalist movement is pushing a possibly destructive project: removing dams in western states.",
+          "link": "https://www.nationalreview.com/2022/09/removing-one-dam-after-another-water-in-the-west/",
+          "publishedOn": "2022-09-20T10:30:40.000Z",
+          "wordCount": 9673,
+          "title": "Removing One Dam after Another: Water in the West",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/lower-granite-dam.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1351565",
+          "author": "Todd Young",
+          "description": "As Thatcher and Reagan charted a fresh course, so must this generation of conservatives.",
+          "link": "https://www.nationalreview.com/2022/09/in-england-and-in-america-its-time-for-the-next-generation-of-conservatives-to-step-up/",
+          "publishedOn": "2022-09-20T10:30:05.000Z",
+          "wordCount": 7751,
+          "title": "In England and in America, It’s Time for the Next Generation of Conservatives to Step Up",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2021/05/Prime_Minister_Thatcher_and_President_Ronald_Reagan.jpg?fit=2057%2C1200"
+        },
         {
           "id": "https://www.nationalreview.com/?post_type=blog-post&p=1351581",
           "author": "Brittany Bernstein",
@@ -4603,16 +4663,6 @@
           "wordCount": 4988,
           "title": "Where the Money Is",
           "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2020/12/downtown-miami-skyline-2015.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1315103",
-          "author": "John Fund",
-          "description": "The 87,000 new IRS employees will sweep the nation in an effort to be ‘more helpful’ and ‘more responsive.’ And Americans will be grateful. Uh-huh.",
-          "link": "https://www.nationalreview.com/2022/08/democrats-absurd-justifications-for-doubling-the-irs/",
-          "publishedOn": "2022-08-22T00:22:31.000Z",
-          "wordCount": 5102,
-          "title": "Democrats’ Absurd Justifications for Doubling the IRS",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/08/irs-building-sign.jpg?fit=2057%2C1200"
         }
       ]
     }
