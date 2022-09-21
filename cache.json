@@ -65,6 +65,106 @@
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
         {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1352913",
+          "author": "Caroline Downey",
+          "description": "Biden’s address to the U.N. comes after Putin threatened nuclear retaliation against the West, saying ‘this is not a bluff.’",
+          "link": "https://www.nationalreview.com/news/putin-orders-mobilization-of-reservists-makes-nuclear-threat-this-is-not-a-bluff/",
+          "publishedOn": "2022-09-21T14:41:44.000Z",
+          "wordCount": 7023,
+          "title": "Biden Rebukes Putin over ‘Irresponsible’ Threat: ‘Nuclear War Cannot Be Won’",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/biden-6.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1352866",
+          "author": "Caroline Downey",
+          "description": "The suspect said he targeted the teen due to his membership in a ‘Republican extremist group.’",
+          "link": "https://www.nationalreview.com/news/suspect-admits-to-fatally-plowing-car-into-republican-teen-in-politically-motivated-attack/",
+          "publishedOn": "2022-09-21T13:32:15.000Z",
+          "wordCount": 6732,
+          "title": "Suspect Admits to Fatally Plowing Car into Republican Teen in ‘Politically Motivated’ Attack",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/Shannon-Brandt-Screengrab-2.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1352839",
+          "author": "Caroline Downey",
+          "description": "The poll results were a reversal from February, when Trump led DeSantis among Florida Republicans.",
+          "link": "https://www.nationalreview.com/news/florida-republicans-prefer-desantis-to-trump-in-2024-matchup-poll/",
+          "publishedOn": "2022-09-21T12:01:31.000Z",
+          "wordCount": 6740,
+          "title": "Florida Republicans Prefer DeSantis to Trump in 2024 Matchup: POLL",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/01/ron-desantis-donald-trump-airport-small.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1352155",
+          "author": "Armond White",
+          "description": "Hollywood’s immature feminist Afrocentricity.",
+          "link": "https://www.nationalreview.com/2022/09/the-woman-king-is-bad-news/",
+          "publishedOn": "2022-09-21T10:30:57.000Z",
+          "wordCount": 7297,
+          "title": "<i>The Woman King</i> Is Bad News",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/the-woman-king-viola-davis.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1352568",
+          "author": "Dan McLaughlin",
+          "description": "Robert Cahaly of Trafalgar explains why his polls show Republicans competitive even in some of the bluest places.",
+          "link": "https://www.nationalreview.com/2022/09/the-pollster-who-thinks-its-happening-again-for-republicans/",
+          "publishedOn": "2022-09-21T10:30:41.000Z",
+          "wordCount": 8904,
+          "title": "The Pollster Who Thinks It’s Happening Again for Republicans",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/OzMastersWalker-split.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1352037",
+          "author": "Jay Nordlinger",
+          "description": "On Nick Saban and sportsmanship; Tom and Gisele; China and Iran; politicians and party loyalty; free speech on campus; and more.",
+          "link": "https://www.nationalreview.com/2022/09/dont-do-that-sh-c/",
+          "publishedOn": "2022-09-21T10:30:32.000Z",
+          "wordCount": 8022,
+          "title": "‘Don’t do that sh**!’ &c.",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/Nick-Saban.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1352530",
+          "author": "Elliott Abrams",
+          "description": "The Biden position reflects the victory of fashionable opinion over careful thinking about U.S. interests.",
+          "link": "https://www.nationalreview.com/2022/09/biden-is-working-to-undermine-americas-authoritys-at-the-u-n/",
+          "publishedOn": "2022-09-21T10:30:17.000Z",
+          "wordCount": 7500,
+          "title": "Biden Is Working to Undermine America’s Authority at the U.N.",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2021/09/joe-biden-united-nations-speech.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1352142",
+          "author": "Andrew Follett",
+          "description": "Nature demands that only science compatible with an ideologically fashionable worldview be published.",
+          "link": "https://www.nationalreview.com/2022/09/leading-science-journal-will-now-reject-inconvenient-scientific-truths/",
+          "publishedOn": "2022-09-21T10:30:17.000Z",
+          "wordCount": 7910,
+          "title": "Leading Science Journal Will Now Reject Inconvenient Scientific Truths",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/scientist-microscope.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1352469",
+          "author": "The Editors",
+          "description": "Virginia’s governor has taken a step against gender ideology in the classrooms.",
+          "link": "https://www.nationalreview.com/2022/09/youngkin-gets-in-the-fight/",
+          "publishedOn": "2022-09-21T10:30:07.000Z",
+          "wordCount": 7363,
+          "title": "Youngkin Gets in the Fight",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/glenn-youngkin-high-school.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1352401",
+          "author": "Ryan T. Anderson, Erika Bachiochi, Patrick T. Brown, Robert P. George, Wells King, Yuval Levin, Ramesh Ponnuru, Leah Libresco Sargeant, W. Bradford Wilcox, Allan C. Carlson, Helen Alvaré and Abby McCloskey",
+          "description": "Families deserve protection from the growing economic and cultural forces that undermine their essential work.",
+          "link": "https://www.nationalreview.com/2022/09/our-politics-needs-a-pro-family-policy-agenda/",
+          "publishedOn": "2022-09-21T10:30:03.000Z",
+          "wordCount": 8045,
+          "title": "Our Politics Needs a Pro-Family Policy Agenda",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/family-city-sidewalk.jpg?fit=2057%2C1200"
+        },
+        {
           "id": "https://www.nationalreview.com/?post_type=blog-post&p=1352462",
           "author": "Diana Glebova",
           "description": "Unnamed individuals gave the illegal immigrants $10 McDonald’s ‘gift certificates’ to gain their trust, the lawsuit said.",
@@ -4533,36 +4633,6 @@
           "wordCount": 5132,
           "title": "Good Riddance, Dr. Fauci",
           "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/08/anthony-fauci.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1316105",
-          "author": "Caroline Downey",
-          "description": "The possible White House proposal, floated a few months ago, seems to exclude very high-earners from the benefits.",
-          "link": "https://www.nationalreview.com/news/white-house-moving-toward-canceling-10k-in-student-debt-for-certain-borrowers/",
-          "publishedOn": "2022-08-23T01:33:25.000Z",
-          "wordCount": 4590,
-          "title": "White House Moving toward Canceling 10K in Student Debt for Certain Borrowers",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2018/11/graduates.jpg?fit=2057%2C1201"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1316010",
-          "author": "Diana Glebova",
-          "description": "The suit calls for the review of the materials to be paused until a watchdog is appointed, and for the FBI to return items not in the search warrant.",
-          "link": "https://www.nationalreview.com/news/trump-files-lawsuit-over-mar-a-lago-search-requests-third-party-to-review-documents/",
-          "publishedOn": "2022-08-22T21:46:59.000Z",
-          "wordCount": 4519,
-          "title": "Trump Files Lawsuit over Mar-a-Lago Search, Requests Third Party to Review Documents",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/08/TrumpMaraLago.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1315854",
-          "author": "Caroline Downey",
-          "description": "Fauci announced Monday that he would be stepping down in December.",
-          "link": "https://www.nationalreview.com/news/gop-promises-to-hold-fauci-accountable-after-leaving-post/",
-          "publishedOn": "2022-08-22T21:19:54.000Z",
-          "wordCount": 4658,
-          "title": "GOP Promises to Hold Fauci ‘Accountable’ as He Prepares to Leave Post",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2021/07/anthony-fauci-capitol-hill-hearing.jpg?fit=2057%2C1200"
         }
       ]
     }
