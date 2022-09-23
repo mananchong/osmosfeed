@@ -65,6 +65,116 @@
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
         {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1354836",
+          "author": "Ryan Mills",
+          "description": "Activists are expected to deliver more than 118,000 petitions to the secretary of state in an effort to put the measure on the 2024 ballot.",
+          "link": "https://www.nationalreview.com/news/school-choice-opponents-expected-to-block-arizona-voucher-expansion/",
+          "publishedOn": "2022-09-23T16:59:18.000Z",
+          "wordCount": 7711,
+          "title": "School-Choice Opponents Expected to Block Arizona Voucher Expansion",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/03/doug-ducey-arizona-governor.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1354754",
+          "author": "Caroline Downey",
+          "description": "The Air Force claims that DEI training will foster a ‘warfighter mentality’ among cadets.",
+          "link": "https://www.nationalreview.com/news/air-force-academy-tells-cadets-to-ditch-gendered-terms-like-mom-and-dad/",
+          "publishedOn": "2022-09-23T16:23:45.000Z",
+          "wordCount": 7033,
+          "title": "Air Force Academy Tells Cadets to Ditch Gendered Terms Like ‘Mom’ and ‘Dad’",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/08/f-22-raptor-august2022-33.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1354744",
+          "author": "Jack Fowler",
+          "description": "A fond farewell to a man of consequence who profoundly loved this sweet land of liberty and cared about this little fortnightly journal.",
+          "link": "https://www.nationalreview.com/2022/09/jim-buchwald-a-great-american/",
+          "publishedOn": "2022-09-23T15:34:31.000Z",
+          "wordCount": 8188,
+          "title": "Jim Buchwald, a Great American",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/jim-buchwald-1968-e1663947172309.jpeg?fit=1280%2C720"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1354119",
+          "author": "Caroline Downey",
+          "description": "Progressive student activists have resurrected incidents from Ellis’s UVA years to discredit his nomination.",
+          "link": "https://www.nationalreview.com/news/inside-student-activists-cancel-campaign-against-a-youngkin-appointee-to-uva-board/",
+          "publishedOn": "2022-09-23T14:07:49.000Z",
+          "wordCount": 8503,
+          "title": "Inside Student Activists’ Cancel Campaign against a Youngkin Appointee to UVA Board",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/UVA-Ellis.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1354610",
+          "author": "Caroline Downey",
+          "description": "Governor Youngkin recently changed state policy to ensure parents consent before their child is treated as the opposite sex.",
+          "link": "https://www.nationalreview.com/news/thats-not-fing-true-virginia-lawmakers-clash-over-child-gender-transition/",
+          "publishedOn": "2022-09-23T13:19:48.000Z",
+          "wordCount": 7067,
+          "title": "‘That’s Not F***ing True’: Virginia Lawmakers Clash over Child Gender Transition",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/Youngkin-Spanberger.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1353902",
+          "author": "Pradheep J. Shanker",
+          "description": "There is no widely accepted scientific definition of when a pandemic starts or ends. Ending it is a political decision, and Joe Biden has made it.",
+          "link": "https://www.nationalreview.com/2022/09/is-the-pandemic-over-or-not/",
+          "publishedOn": "2022-09-23T10:30:43.000Z",
+          "wordCount": 8580,
+          "title": "Is the Pandemic Over . . . or Not?",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/05/joe-biden-covid.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1354217",
+          "author": "Armond White",
+          "description": "The showbiz trade press reveals its partisanship.",
+          "link": "https://www.nationalreview.com/2022/09/hollywoods-new-blacklist/",
+          "publishedOn": "2022-09-23T10:30:39.000Z",
+          "wordCount": 7238,
+          "title": "Hollywood’s New Blacklist",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2017/10/harvey-weinsteins-james-tobacks-abuse-women-different-kind-hollywood-scandal.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1354351",
+          "author": "Douglas Carr",
+          "description": "Fortunately for the U.S., Xi continues to mismanage China’s economy.",
+          "link": "https://www.nationalreview.com/2022/09/xi-jinpings-erroneous-path-threatens-the-u-s-and-china/",
+          "publishedOn": "2022-09-23T10:30:38.000Z",
+          "wordCount": 8078,
+          "title": "Xi Jinping’s Erroneous Path Threatens the U.S. and China",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2018/07/xi-jinping-communist-party-congress.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1353990",
+          "author": "Ryan Mills",
+          "description": "The Bay Area’s wastewater treatment plants haven’t been updated in decades, leading to massive fish-killing algae blooms in San Francisco Bay.",
+          "link": "https://www.nationalreview.com/news/wastewater-not-climate-fueled-massive-algae-bloom-in-epicenter-of-supposed-environmentalism/",
+          "publishedOn": "2022-09-23T10:30:36.000Z",
+          "wordCount": 8419,
+          "title": "Wastewater, Not Climate, Fueled Massive Algae Bloom in ‘Epicenter of Supposed Environmentalism’",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/dead-fish-oakland.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1354469",
+          "author": "Michael Brendan Dougherty",
+          "description": "Transgenderism is a form of sacrilege.",
+          "link": "https://www.nationalreview.com/2022/09/who-made-us-this-way/",
+          "publishedOn": "2022-09-23T10:30:33.000Z",
+          "wordCount": 7708,
+          "title": "Who Made Us This Way?",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/trans-protest-boston-childrens-hospital.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1354371",
+          "author": "The Editors",
+          "description": "Senate Republicans have the votes to pass Electoral Count Act reform now — if Chuck Schumer will allow a vote.",
+          "link": "https://www.nationalreview.com/2022/09/time-for-the-senate-to-vote-on-electoral-count-act-reform/",
+          "publishedOn": "2022-09-23T10:30:12.000Z",
+          "wordCount": 7612,
+          "title": "Time for the Senate to Vote on Electoral Count Act Reform",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/chuck-schumer-press.jpg?fit=2057%2C1200"
+        },
+        {
           "id": "https://www.nationalreview.com/?p=1354224",
           "author": "John McCormack",
           "description": "The fact-checker strains to avoid admitting that Marco Rubio’s argument is correct.",
@@ -4433,46 +4543,6 @@
           "wordCount": 5493,
           "title": "The land of Oz, &c.",
           "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/05/oz1.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1319269",
-          "author": "Caroline Downey",
-          "description": "Democratic senator Elizabeth Warren on Wednesday made the assertion that the student-loan-cancellation program, which President Biden unilaterally declared earlier in the day, is “good for…",
-          "link": "https://www.nationalreview.com/news/elizabeth-warren-calls-student-loan-cancellation-good-for-our-economy/",
-          "publishedOn": "2022-08-25T01:01:05.000Z",
-          "wordCount": 4469,
-          "title": "Elizabeth Warren Calls Student-Loan Cancellation ‘Good for Our Economy’",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/08/elizabeth-warren-capitol-hill.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1318974",
-          "author": "Caroline Downey",
-          "description": "He reportedly affirmed her gender dysphoria and recommended she receive testosterone hormone therapy, a double-mastectomy, and finally a hysterectomy.",
-          "link": "https://www.nationalreview.com/news/australian-woman-sues-psychiatrist-over-approvals-for-gender-transition-treatment/",
-          "publishedOn": "2022-08-24T21:58:42.000Z",
-          "wordCount": 4451,
-          "title": "Australian Woman Sues Psychiatrist over Gender-Transition Treatment",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/04/transgender-colors-silhouettes.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1318779",
-          "author": "Caroline Downey",
-          "description": "Candidates focused on progressive school board members’ efforts to smuggle their DEI agenda into curricula, an organizer told NR.",
-          "link": "https://www.nationalreview.com/news/five-florida-school-boards-flip-conservative-in-statewide-sweep/",
-          "publishedOn": "2022-08-24T20:14:33.000Z",
-          "wordCount": 4980,
-          "title": "Five Florida School Boards Flip Conservative in Statewide Sweep",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/08/desantis-4.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1318921",
-          "author": "Andrew C. McCarthy",
-          "description": "It turns out the former president tried to block FBI access to retained classified documents, but Biden intervened.",
-          "link": "https://www.nationalreview.com/2022/08/trump-worlds-mar-a-lago-offensive-backfires/",
-          "publishedOn": "2022-08-24T19:59:50.000Z",
-          "wordCount": 6484,
-          "title": "Trump World’s Mar-a-Lago Offensive Backfires",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2021/12/donald-trump-rally.jpg?fit=2057%2C1200"
         }
       ]
     }
