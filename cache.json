@@ -6,6 +6,16 @@
       "siteUrl": "https://rweekly.org/atom.xml",
       "articles": [
         {
+          "id": "https://rweekly.org/2022-W39.html",
+          "author": null,
+          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Jonathan Carroll, with help from the RWeekly team members and contributors.\nHighlight\nDeploy Flexdashboard on Github Pages with Github Actions and Docker\nGitHub - The Perks of Collaboration and Version Control\n\nAPI as a package: Logging\nInsights\nGitHub - The Perks of Collaboration and Version Control\nPresenting results for multinomial logistic regression: a marginal approach using propensity scores\nAPI as a package: Logging\n101st TokyoR Meetup Roundup: Palmer penguins, fractal analysis, and more!\nPredict the status of #TidyTuesday Bigfoot sightings\nAnnouncing the 2022 Table Contest\nrOpenSci News Digest, September 2022\nAnnouncing the rOpenSci Champions Program!\nCover Up\nDeali…",
+          "link": "https://rweekly.org/2022-W39.html",
+          "publishedOn": "2022-09-26T00:00:00.000Z",
+          "wordCount": 6202,
+          "title": "R Weekly 2022-W39 Actions, Collaborations, and Logging",
+          "imageUrl": "https://rweekly.org/public/facebook.png"
+        },
+        {
           "id": "https://rweekly.org/2022-W38.html",
           "author": null,
           "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Tony ElHabr, with help from the R Weekly team members and contributors.\nHighlight\nThe case for variable labels in R\n{mariobox} 0.0.0.9000: A framework for packaging {plumber} APIs\nAPIs and web scraping\nInsights\nThe case for variable labels in R\nR in the Real World\nMulti-environment split-plot experiments\nPledging My Time V: Analysing race results in R\nR in Organizations\nUpdate Your Machine Learning Pipeline With vetiver and Quarto\nAutomate a Twitter bot with the rtweet package and RStudio Connect\nEFS vs. NFS for RStudio on Kubernetes (AWS): Configuration and considerations\n\nHow to Participate with rOpenSci\nR in Academia\n10 simple rules for teaching R for Data Science\nResourc…",
@@ -64,6 +74,106 @@
       "feedUrl": "https://www.nationalreview.com/feed/",
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1356607",
+          "author": "Diana Glebova",
+          "description": "Snowden said he was applying for citizenship on account of his son.",
+          "link": "https://www.nationalreview.com/news/putin-grants-russian-citizenship-to-edward-snowden/",
+          "publishedOn": "2022-09-26T16:31:54.000Z",
+          "wordCount": 6322,
+          "title": "Putin Grants Russian Citizenship to Edward Snowden",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2019/12/edward-snowden.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1356529",
+          "author": "Michael Brendan Dougherty",
+          "description": "It’s about the ongoing breakdown of the center-left establishment.",
+          "link": "https://www.nationalreview.com/2022/09/giorgia-melonis-election-isnt-about-fascism/",
+          "publishedOn": "2022-09-26T15:34:40.000Z",
+          "wordCount": 7153,
+          "title": "Giorgia Meloni’s Election Isn’t about ‘Fascism’",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/Giorgia-Meloni.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1356502",
+          "author": "Diana Glebova",
+          "description": "A video on social media appears to show a Russian man fatally shooting a commander after being told to mobilize.",
+          "link": "https://www.nationalreview.com/news/protests-erupt-in-dagestan-russia-against-putins-conscription-order/",
+          "publishedOn": "2022-09-26T15:29:14.000Z",
+          "wordCount": 6695,
+          "title": "Protests Erupt in Dagestan, Russia against Putin’s Conscription Order",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/protest-dagestan.png?fit=2057%2C1159"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1356404",
+          "author": "Diana Glebova",
+          "description": "Meloni accused liberals of trying to tear down national and religious identities in order to turn Italians into ‘perfect consumer slaves.’",
+          "link": "https://www.nationalreview.com/news/italy-set-to-elect-right-wing-euroskeptic-prime-minister/",
+          "publishedOn": "2022-09-26T13:37:17.000Z",
+          "wordCount": 6672,
+          "title": "Italy Set to Elect Right-Wing Euroskeptic Prime Minister",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/Giorgia-Meloni-.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1356172",
+          "author": "Rich Lowry",
+          "description": "The Kansas gubernatorial race showcases a Democratic vulnerability.",
+          "link": "https://www.nationalreview.com/2022/09/democratic-trans-hypocrisy-is-cynical-and-dishonest/",
+          "publishedOn": "2022-09-26T10:30:41.000Z",
+          "wordCount": 7200,
+          "title": "Democratic Trans Hypocrisy Is Cynical and Dishonest",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/laura-kelly-kansas-inaugural-address.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1355025",
+          "author": "Jimmy Quinn",
+          "description": "The tech giant’s relationships with Chinese surveillance firms could pose legal problems, and Rubio is calling for an investigation.",
+          "link": "https://www.nationalreview.com/2022/09/amazon-provides-cloud-technology-for-a-chinese-military-company/",
+          "publishedOn": "2022-09-26T10:30:20.000Z",
+          "wordCount": 7928,
+          "title": "Amazon Provides Cloud Technology for a Chinese Military Company",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/hikivision-cameras.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1354149",
+          "author": "Bernard S. Sharfman",
+          "description": "Its proposed climate-change-disclosures rule will likely be vacated by the courts.",
+          "link": "https://www.nationalreview.com/2022/09/on-climate-change-the-sec-swings-for-the-fences/",
+          "publishedOn": "2022-09-26T10:30:17.000Z",
+          "wordCount": 7280,
+          "title": "On Climate Change, the SEC Swings for the Fences",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/07/SEC-Headquarters.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1355566",
+          "author": "Peter Spiliakos",
+          "description": "Russia now has a weaker military, a weaker economy, better-armed and more numerous enemies, and less global influence than it did in January 2022.",
+          "link": "https://www.nationalreview.com/2022/09/putin-is-paying-the-price-for-his-ukraine-war/",
+          "publishedOn": "2022-09-26T10:30:15.000Z",
+          "wordCount": 8153,
+          "title": "Putin Is Paying the Price for His Ukraine War",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/vladimir-putin-generals-military-exercise.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1356006",
+          "author": "The Editors",
+          "description": "President Biden must do everything in his power to assist the protesters.",
+          "link": "https://www.nationalreview.com/2022/09/the-butchers-of-iran/",
+          "publishedOn": "2022-09-26T10:30:10.000Z",
+          "wordCount": 7075,
+          "title": "The Butchers of Iran",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/protest-tehran-iran.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1356176",
+          "author": "Jay Nordlinger",
+          "description": "On ‘Christian nationalism’; timeouts and intermissions; the immortal Ferris Bueller; and more.",
+          "link": "https://www.nationalreview.com/2022/09/god-and-country-c/",
+          "publishedOn": "2022-09-26T10:30:08.000Z",
+          "wordCount": 8607,
+          "title": "God and country, &c.",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2017/12/post-christian-america-polarized-america-1.jpg?fit=2057%2C1200"
+        },
         {
           "id": "https://www.nationalreview.com/?post_type=blog-post&p=1355958",
           "author": "Caroline Downey",
