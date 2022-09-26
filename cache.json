@@ -65,6 +65,16 @@
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
         {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1355958",
+          "author": "Caroline Downey",
+          "description": "Biden’s job-performance rating also remains underwater at 39 percent.",
+          "link": "https://www.nationalreview.com/news/poll-voters-widely-favor-gop-candidate-in-competitive-house-districts/",
+          "publishedOn": "2022-09-25T17:15:36.000Z",
+          "wordCount": 6828,
+          "title": "Poll: Voters Widely Favor GOP Candidate in Competitive House Districts",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/04/Kevin-McCarthy.jpg?fit=2057%2C1200"
+        },
+        {
           "id": "https://www.nationalreview.com/?post_type=blog-post&p=1355924",
           "author": "Caroline Downey",
           "description": "The Wyoming congresswoman also vowed to campaign for Democrats to prevent election-truther Republicans from winning.",
@@ -4263,76 +4273,6 @@
           "wordCount": 7393,
           "title": "Biden’s Student-Loan Wipeout Sticks It to the Poor",
           "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2018/06/harvard-university-commencement-1.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1322827",
-          "author": "Brittany Bernstein",
-          "description": "The Texas governor has transported more than 1,500 illegal immigrants to New York City.",
-          "link": "https://www.nationalreview.com/news/abbott-calls-out-bidens-absence-at-our-border-as-he-sends-more-migrant-buses-to-nyc/",
-          "publishedOn": "2022-08-27T15:13:20.000Z",
-          "wordCount": 6547,
-          "title": "Abbott Calls Out ‘Biden’s Absence at Our Border’ as He Sends More Migrant Buses to NYC",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/05/greg-abbott-texas-governor.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1322810",
-          "author": "Andrew Stuttaford",
-          "description": "The week of August 22, 2022: Not letting the energy crunch go to waste, regulation, student-debt forgiveness, price controls, and much, much more.",
-          "link": "https://www.nationalreview.com/2022/08/climate-energy-crunch-as-teachable-moment/",
-          "publishedOn": "2022-08-27T14:38:26.000Z",
-          "wordCount": 9455,
-          "title": "Climate: Energy Crunch as Teachable Moment",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/07/germanycoal.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1322771",
-          "author": "Brittany Bernstein",
-          "description": "Consumers filed more than 5,800 complaints in June alone.",
-          "link": "https://www.nationalreview.com/news/air-travel-complaints-up-270-percent-in-june-compared-to-pre-pandemic-level/",
-          "publishedOn": "2022-08-27T13:48:16.000Z",
-          "wordCount": 6342,
-          "title": "Air Travel Complaints Up 270 Percent Compared to Pre-Pandemic Level",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/01/covid-travel-2.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1322053",
-          "author": "Madeleine Kearns",
-          "description": "In focusing on rights, it’s easy to forget our duties.",
-          "link": "https://www.nationalreview.com/2022/08/why-transgender-extremism-is-worse-in-the-united-states/",
-          "publishedOn": "2022-08-27T10:30:50.000Z",
-          "wordCount": 7188,
-          "title": "Why Transgender Extremism Is Worse in the United States",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2019/01/transgender-protest-nyc.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1320870",
-          "author": "Brian T. Allen",
-          "description": "‘Blackie’ Langlais was an art-world darling in the early ’60s, and he’s getting his place in the spotlight again.",
-          "link": "https://www.nationalreview.com/2022/08/the-langlais-sculpture-preserve-in-maine-pays-tribute-to-a-visionary/",
-          "publishedOn": "2022-08-27T10:30:41.000Z",
-          "wordCount": 8753,
-          "title": "The Langlais Sculpture Preserve in Maine Pays Tribute to a Visionary",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/08/1-Bernard-Langlais.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1322326",
-          "author": "Andrew C. McCarthy",
-          "description": "The DOJ does not agree to guilty pleas and cooperation arrangements with clearly culpable offenders unless it believes more attractive targets can be pursued.",
-          "link": "https://www.nationalreview.com/2022/08/the-plot-thickens-in-the-case-of-ashley-bidens-diary/",
-          "publishedOn": "2022-08-27T10:30:26.000Z",
-          "wordCount": 7640,
-          "title": "The Plot Thickens in the Case of Ashley Biden’s Diary",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/08/james-okeefe-cpac-2019.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1317058",
-          "author": "Peter J. Wallison",
-          "description": "Perhaps Republicans could learn something here.",
-          "link": "https://www.nationalreview.com/2022/08/why-democrats-dont-cry-dino/",
-          "publishedOn": "2022-08-27T10:30:01.000Z",
-          "wordCount": 6892,
-          "title": "Why Democrats Don’t Cry ‘DINO’",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/03/joe-manchin-1.jpg?fit=2057%2C1200"
         }
       ]
     }
