@@ -65,6 +65,86 @@
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
         {
+          "id": "https://www.nationalreview.com/?p=1358527",
+          "author": "Charles C. W. Cooke",
+          "description": "The bureau is a violent, expansionist, self-aggrandizing, and careless outfit that sits awkwardly within the American constitutional order.",
+          "link": "https://www.nationalreview.com/2022/09/the-case-for-dismantling-the-fbi/",
+          "publishedOn": "2022-09-28T17:00:53.000Z",
+          "wordCount": 7873,
+          "title": "The Case for Dismantling the FBI",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2020/01/matt-gaetz-hearing.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1358347",
+          "author": "Diana Glebova",
+          "description": "‘This is going to be a nasty, nasty day,’ DeSantis warned.",
+          "link": "https://www.nationalreview.com/news/life-threatening-hurricane-ian-surges-to-category-four-as-it-nears-florida-coast/",
+          "publishedOn": "2022-09-28T13:19:16.000Z",
+          "wordCount": 6554,
+          "title": "‘Life-Threatening’ Hurricane Ian Surges to Category Four as It Nears Florida Coast",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/hurricane-ian-092822-15.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1357847",
+          "author": "Armond White",
+          "description": "How Kim K explains Olivia Wilde’s anxiety fantasy.",
+          "link": "https://www.nationalreview.com/2022/09/dont-trust-dont-worry-darling/",
+          "publishedOn": "2022-09-28T10:30:23.000Z",
+          "wordCount": 7257,
+          "title": "Don’t Trust <i>Don’t Worry Darling</i>",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/dont-worry-darling-pugh-styles.jpg?fit=1200%2C700"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1357658",
+          "author": "Donna King",
+          "description": "N.C. governor Roy Cooper wants to bypass the state legislature and let California consultants dictate state policy. The state supreme court must stop him.",
+          "link": "https://www.nationalreview.com/2022/09/north-carolina-governors-assault-on-separation-of-powers/",
+          "publishedOn": "2022-09-28T10:30:17.000Z",
+          "wordCount": 7615,
+          "title": "North Carolina Governor’s Assault on Separation of Powers",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2018/12/roy-cooper-north-carolina.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1357741",
+          "author": "Brittany Bernstein",
+          "description": "Barnes’s flirtation with the ‘defund the police’ movement as lieutenant governor may cost him in a cycle defined by crime.",
+          "link": "https://www.nationalreview.com/news/mandela-barness-soft-on-crime-history-may-haunt-him-in-wisconsin-senate-race/",
+          "publishedOn": "2022-09-28T10:30:16.000Z",
+          "wordCount": 8561,
+          "title": "Mandela Barnes’s Soft-on-Crime History May Haunt Him in Wisconsin Senate Race",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/mandela-barnes.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1357972",
+          "author": "The Editors",
+          "description": "Despite the state’s decisive lean left, Christine Drazan is a serious contender for governor of the deep-blue state.",
+          "link": "https://www.nationalreview.com/2022/09/oregons-republican-hope-2/",
+          "publishedOn": "2022-09-28T10:30:09.000Z",
+          "wordCount": 7262,
+          "title": "Oregon’s Republican Hope",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/christine-drazan-koin-youtube.jpg?fit=1200%2C700"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1357740",
+          "author": "Jennifer J. Schulp",
+          "description": "The agency should formalize rules for crypto and revise onerous climate-risk regulation before causing more business uncertainty.",
+          "link": "https://www.nationalreview.com/2022/09/the-secs-consistent-ambiguity/",
+          "publishedOn": "2022-09-28T10:30:04.000Z",
+          "wordCount": 7502,
+          "title": "The SEC’s Consistent Ambiguity",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2021/09/gary-gensler-capitol-hill.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1358188",
+          "author": "Michael Brendan Dougherty",
+          "description": "Realism means admitting that our leadership is unworthy, deluded, and stupid.",
+          "link": "https://www.nationalreview.com/2022/09/vlad-and-me/",
+          "publishedOn": "2022-09-28T10:30:02.000Z",
+          "wordCount": 7713,
+          "title": "Vlad and Me",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2021/12/vladimir-putin-generals-1.jpg?fit=2057%2C1200"
+        },
+        {
           "id": "https://www.nationalreview.com/?post_type=blog-post&p=1358046",
           "author": "Caroline Downey",
           "description": "The members of Congress requested an explanation letter from the attorney general by Friday.",
@@ -4373,36 +4453,6 @@
           "wordCount": 9226,
           "title": "‘They Want Them Dead’: One Year after Botched Afghanistan Withdrawal, Thousands of U.S. Allies Remain in Peril",
           "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/08/taliban-patrol-kabul.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1325155",
-          "author": "Brittany Bernstein",
-          "description": "The vandalism followed Biden’s characterization of ‘extreme MAGA philosophy’ as ’semi-fascism.’",
-          "link": "https://www.nationalreview.com/news/vandals-spray-paint-vulgar-message-on-local-florida-gop-office-building/",
-          "publishedOn": "2022-08-29T22:20:32.000Z",
-          "wordCount": 6381,
-          "title": "Vandals Spray-Paint Vulgar Message on Local Florida GOP Office Building",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/08/seminole-county-gop-office-vandalism-clean-up.jpg?fit=920%2C537"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1325082",
-          "author": "Diana Glebova",
-          "description": "‘We are not involved, we are not briefed, we are not aware.’",
-          "link": "https://www.nationalreview.com/news/white-house-says-biden-not-briefed-on-national-security-materials-seized-from-mar-a-lago/",
-          "publishedOn": "2022-08-29T21:13:43.000Z",
-          "wordCount": 6460,
-          "title": "White House Says Biden Not Briefed on ‘National Security’ Materials Seized from Mar-a-Lago",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/08/wh-press-secretary.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1325025",
-          "author": "Diana Glebova",
-          "description": "The plant has already been damaged during the war and was disconnected from power for the first time Thursday.",
-          "link": "https://www.nationalreview.com/news/white-house-calls-for-demilitarized-zone-around-ukrainian-nuclear-power-plant/",
-          "publishedOn": "2022-08-29T19:59:50.000Z",
-          "wordCount": 6498,
-          "title": "White House Calls for Demilitarized Zone around Ukrainian Nuclear Power Plant",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/08/Zaporizhzhia.jpg?fit=2057%2C1200"
         }
       ]
     }
