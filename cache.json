@@ -65,6 +65,76 @@
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
         {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1358046",
+          "author": "Caroline Downey",
+          "description": "The members of Congress requested an explanation letter from the attorney general by Friday.",
+          "link": "https://www.nationalreview.com/news/22-gop-lawmakers-demand-answers-from-garland-on-fbi-raid-of-pro-life-activists-home/",
+          "publishedOn": "2022-09-28T01:31:40.000Z",
+          "wordCount": 6963,
+          "title": "22 GOP Lawmakers Demand Answers from Garland on FBI Raid of Pro-Life Activist’s Home",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/merrick-garland-doj.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1357942",
+          "author": "Caroline Downey",
+          "description": "The Supreme Court is scheduled to hear oral arguments in a pair of landmark affirmative-action cases this fall.",
+          "link": "https://www.nationalreview.com/news/poll-majority-of-americans-disapprove-of-affirmative-action-in-college-admissions/",
+          "publishedOn": "2022-09-27T23:04:17.000Z",
+          "wordCount": 6983,
+          "title": "Poll: Majority of Americans Disapprove of Affirmative Action in College Admissions",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2018/06/harvard-university-commencement.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1357807",
+          "author": "Caroline Downey",
+          "description": "The president also said his district isn’t to blame for 5,000 students leaving it since the start of the pandemic.",
+          "link": "https://www.nationalreview.com/news/teachers-union-leader-says-competition-in-education-is-bad-for-students/",
+          "publishedOn": "2022-09-27T20:31:06.000Z",
+          "wordCount": 6866,
+          "title": "Teachers’ Union Leader Says Competition in Education Is Bad for Students",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/02/students-masks-arlington-virginia.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1357802",
+          "author": "Isaac Schorr",
+          "description": "The organization offers a free ‘vegan starter kit’ for men persuaded by the strike.",
+          "link": "https://www.nationalreview.com/news/peta-advocates-sex-strike-to-punish-meat-eating-men/",
+          "publishedOn": "2022-09-27T20:18:13.000Z",
+          "wordCount": 6786,
+          "title": "PETA Advocates Sex Strike to Punish ‘Meat-Eating Men’",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/Untitled-design-5-2.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1357805",
+          "author": "Diana Glebova",
+          "description": "‘If he was truly a danger to the community, they wouldn’t have waited a year to prosecute,’ his lawyer said.",
+          "link": "https://www.nationalreview.com/news/pro-life-activist-arrested-in-fbi-raid-pleads-not-guilty-to-federal-charges/",
+          "publishedOn": "2022-09-27T20:13:35.000Z",
+          "wordCount": 7205,
+          "title": "Pro-Life Activist Arrested in FBI Raid Pleads Not Guilty to Federal Charges",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/Untitled-design-4-2.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1357808",
+          "author": "Ryan Mills",
+          "description": "The complaint comes after the company was sued over a fellowship program that is not open to white and Asian-American students.",
+          "link": "https://www.nationalreview.com/news/clearly-illegal-pfizer-stockholders-demand-company-stop-discriminating-in-the-name-of-diversity/",
+          "publishedOn": "2022-09-27T19:49:20.000Z",
+          "wordCount": 7370,
+          "title": "‘Clearly Illegal’: Pfizer Stockholders Demand Company Stop Discriminating in the Name of Diversity",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2020/11/nyse-pfizer-2019.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1357650",
+          "author": "Caroline Downey",
+          "description": "After initially claiming victory, the leader of Save Our Schools Arizona conceded Monday that they may have failed to hit the signature threshold.",
+          "link": "https://www.nationalreview.com/news/arizona-teachers-union-push-to-overturn-school-choice-expansion-appears-to-flop/",
+          "publishedOn": "2022-09-27T18:21:07.000Z",
+          "wordCount": 7012,
+          "title": "Arizona Teachers’ Union Push to Overturn School-Choice Expansion Appears to Flop",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/08/BK-School.jpg?fit=2057%2C1200"
+        },
+        {
           "id": "https://www.nationalreview.com/?post_type=blog-post&p=1357628",
           "author": "Brittany Bernstein",
           "description": "Youngkin’s new guidelines require parental consent before teachers can treat a student as transgender.",
@@ -4333,126 +4403,6 @@
           "wordCount": 6498,
           "title": "White House Calls for Demilitarized Zone around Ukrainian Nuclear Power Plant",
           "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/08/Zaporizhzhia.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1324965",
-          "author": "Brittany Bernstein and Isaac Schorr",
-          "description": "The White House accused GOP critics of hypocrisy for accepting Covid-loan relief — and the media ate it up.",
-          "link": "https://www.nationalreview.com/news/media-fall-hook-line-and-sinker-for-white-house-spin-on-bidens-student-loan-forgiveness/",
-          "publishedOn": "2022-08-29T19:26:25.000Z",
-          "wordCount": 8005,
-          "title": "Media Fall Hook, Line, and Sinker for White House Spin on Biden’s Student-Loan ‘Forgiveness’",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/08/joebidena.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1324906",
-          "author": "Brittany Bernstein",
-          "description": "Under a 2021 Virginia law signed by former Governor Ralph Northam, the state must adopt California’s emissions regulations.",
-          "link": "https://www.nationalreview.com/news/glenn-youngkin-vows-to-fight-virginia-law-tying-state-to-californias-gas-vehicle-ban/",
-          "publishedOn": "2022-08-29T18:44:56.000Z",
-          "wordCount": 6586,
-          "title": "Glenn Youngkin Vows to Fight Virginia Law Tying State to California’s Gas-Vehicle Ban",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/01/Glenn-Youngkin.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1324872",
-          "author": "Dominic Pino",
-          "description": "Trump’s trade representative should not be a role model for conservative economic policy-makers.",
-          "link": "https://www.nationalreview.com/2022/08/robert-lighthizer-is-not-a-conservative-hero/",
-          "publishedOn": "2022-08-29T17:54:51.000Z",
-          "wordCount": 7602,
-          "title": "Robert Lighthizer Is Not a Conservative Hero",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/08/Robert-Lighthizer.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1324769",
-          "author": "Joel Zinberg",
-          "description": "Monkeypox has confirmed that people are smarter and more proactive than government bureaucrats give them credit for.",
-          "link": "https://www.nationalreview.com/2022/08/monkeypox-outbreak-leveling-off-no-thanks-to-government/",
-          "publishedOn": "2022-08-29T16:53:16.000Z",
-          "wordCount": 6633,
-          "title": "Monkeypox Outbreak Leveling Off, No Thanks to Government",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/08/monkeypox.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1324503",
-          "author": "Caroline Downey",
-          "description": "The Democratic nominee for Florida governor refused to explain why he stopped referring to himself as pro-life.",
-          "link": "https://www.nationalreview.com/news/cnn-host-presses-charlie-crist-on-confusing-abortion-record/",
-          "publishedOn": "2022-08-29T14:17:05.000Z",
-          "wordCount": 6662,
-          "title": "CNN Host Presses Charlie Crist on Confusing Abortion Record",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/08/Crist-CNN-Screengrab.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1324432",
-          "author": "Caroline Downey",
-          "description": "‘I’ve never been more worried about the law and politics as I am right now,’ Graham said.",
-          "link": "https://www.nationalreview.com/news/no-law-when-it-comes-to-trump-lindsey-graham-predicts-riots-in-the-streets-if-ex-president-prosecuted/",
-          "publishedOn": "2022-08-29T12:55:38.000Z",
-          "wordCount": 6523,
-          "title": "‘No Law’ When It Comes to Trump: Lindsey Graham Predicts ‘Riots in the Streets’ If Ex-President Prosecuted",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/08/Lindsey-Graham-1.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1323859",
-          "author": "Jay Nordlinger",
-          "description": "On our fiscal house, our political rhetoric, the Arizona GOP, the game of golf, outstanding families, and more.",
-          "link": "https://www.nationalreview.com/2022/08/presidential-fantasies-c/",
-          "publishedOn": "2022-08-29T10:30:57.000Z",
-          "wordCount": 6864,
-          "title": "Presidential fantasies, &c.",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/06/white-house-1.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1323853",
-          "author": "The Editors",
-          "description": "Voters deserve to have a sense of how Republicans intend to wield power.",
-          "link": "https://www.nationalreview.com/2022/08/the-missing-republican-agenda/",
-          "publishedOn": "2022-08-29T10:30:49.000Z",
-          "wordCount": 6731,
-          "title": "The Missing Republican Agenda",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2021/05/mitch-mcconnell-kevin-mccarthy.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1321670",
-          "author": "Joni Ernst",
-          "description": "One year after our catastrophic withdrawal from Kabul, a dramatic shift in the U.S. posture toward the region is more important than ever.",
-          "link": "https://www.nationalreview.com/2022/08/bidens-appeasement-in-afghanistan-endangers-us-all/",
-          "publishedOn": "2022-08-29T10:30:45.000Z",
-          "wordCount": 6174,
-          "title": "Biden’s Appeasement in Afghanistan Endangers Us All",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2021/11/taliban-afghanistan.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1322834",
-          "author": "Jordan McGillis",
-          "description": "Rather than put the brakes on autonomous driving, we need to continually assess and update our legal and regulatory structures.",
-          "link": "https://www.nationalreview.com/2022/08/self-driving-cars-will-save-countless-lives/",
-          "publishedOn": "2022-08-29T10:30:43.000Z",
-          "wordCount": 7314,
-          "title": "Self-Driving Cars Will Save Countless Lives",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/08/waymo-car.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1319438",
-          "author": "Jerry Hendrix",
-          "description": "The United States must pursue a realistic approach to its defense and economic strategies, emphasizing the sea and the competition thereon.",
-          "link": "https://www.nationalreview.com/2022/08/follow-up-the-chips-act-with-the-ships-act/",
-          "publishedOn": "2022-08-29T10:30:33.000Z",
-          "wordCount": 7282,
-          "title": "Follow Up the Chips Act with the ‘Ships Act’",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/08/uss-spruance-impac.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1324168",
-          "author": "Michael Brendan Dougherty",
-          "description": "The United States has spent more to support Ukraine than the European Union has.",
-          "link": "https://www.nationalreview.com/2022/08/nato-is-getting-more-unbalanced/",
-          "publishedOn": "2022-08-29T10:30:09.000Z",
-          "wordCount": 7004,
-          "title": "NATO Is Getting More Unbalanced",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/08/joe-biden-nato-summit-madrid-2057.jpg?fit=2057%2C1200"
         }
       ]
     }
