@@ -65,6 +65,126 @@
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
         {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1360966",
+          "author": "Diana Glebova",
+          "description": "The Fauci household net worth increased by $5 million between 2019 and 2021, and now exceeds $12.6 million.",
+          "link": "https://www.nationalreview.com/news/faucis-net-worth-nearly-doubled-during-pandemic/",
+          "publishedOn": "2022-09-30T15:42:25.000Z",
+          "wordCount": 6828,
+          "title": "Fauci’s Net Worth Nearly Doubled during Pandemic",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/07/fauciq.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1360851",
+          "author": "Stephen Moore and Matthew Dickerson",
+          "description": "The budget fight isn’t over for the year — far from it.",
+          "link": "https://www.nationalreview.com/2022/09/how-senate-republicans-can-cut-100-billion-of-spending-right-now/",
+          "publishedOn": "2022-09-30T14:17:44.000Z",
+          "wordCount": 7600,
+          "title": "How Senate Republicans Can Cut $100 Billion of Spending — Right Now",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/Mitch-8.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1360775",
+          "author": "Diana Glebova",
+          "description": "‘I realize that after the seven years, my time is up,’ Noah said.",
+          "link": "https://www.nationalreview.com/news/trevor-noah-announces-hes-leaving-the-daily-show/",
+          "publishedOn": "2022-09-30T13:51:44.000Z",
+          "wordCount": 6710,
+          "title": "Trevor Noah Announces He’s Leaving <I>The Daily Show</I>",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/Trevor-Noah.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1360805",
+          "author": "Isaac Schorr",
+          "description": "‘The citizens of Luhansk, Donetsk, Zaporozhia, and Kherson have become our citizens forever,’ Putin said.",
+          "link": "https://www.nationalreview.com/news/putin-announces-annexation-of-four-ukrainian-regions-after-sham-referenda/",
+          "publishedOn": "2022-09-30T13:08:46.000Z",
+          "wordCount": 6598,
+          "title": "Putin Announces Annexation of Four Ukrainian Regions after ‘Sham Referenda’",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/Putin-Russia-5.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1360740",
+          "author": "Isaac Schorr",
+          "description": "‘It’s certainly a way to keep a workforce basically conscripted to large-scale employers and to employers to work more against their will,’ she said.",
+          "link": "https://www.nationalreview.com/news/aoc-says-abortion-fight-is-class-struggle-claims-pro-lifers-want-conscripted-workforce/",
+          "publishedOn": "2022-09-30T12:53:59.000Z",
+          "wordCount": 6737,
+          "title": "AOC Says Abortion Fight Is ‘Class Struggle,’ Claims Pro-Lifers Want ‘Conscripted’ Workforce",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/Alexandria-Ocasio-Cortez.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1360734",
+          "author": "Diana Glebova",
+          "description": "The Department of Education’s website was modified with no announcement Thursday morning.",
+          "link": "https://www.nationalreview.com/news/biden-administration-quietly-revokes-student-debt-forgiveness-for-millions/",
+          "publishedOn": "2022-09-30T12:49:21.000Z",
+          "wordCount": 6807,
+          "title": "Biden Administration Quietly Scales Back Student-Debt ‘Forgiveness’ amid Legal Challenges",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2020/06/graduate.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1360289",
+          "author": "Armond White",
+          "description": "An obnoxious, shallow rom-com, pushing an identity and equity agenda.",
+          "link": "https://www.nationalreview.com/2022/09/bros-wallows-in-hollywood-narcissism/",
+          "publishedOn": "2022-09-30T10:30:38.000Z",
+          "wordCount": 7370,
+          "title": "<i>Bros</i> Wallows in Hollywood Narcissism",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/bros-universal-imdb.jpg?fit=1200%2C700"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1360347",
+          "author": "Michael Brendan Dougherty",
+          "description": "They are our intellectual siblings and cousins.",
+          "link": "https://www.nationalreview.com/2022/09/european-conservatives-are-not-the-enemy/",
+          "publishedOn": "2022-09-30T10:30:33.000Z",
+          "wordCount": 7363,
+          "title": "European Conservatives Are Not the Enemy",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/georgia-meloni.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1360026",
+          "author": "Robert Zubrin",
+          "description": "If we are to avoid a war, we must show that we are willing to fight.",
+          "link": "https://www.nationalreview.com/2022/09/deter-putins-nukes/",
+          "publishedOn": "2022-09-30T10:30:24.000Z",
+          "wordCount": 7445,
+          "title": "Deter Putin’s Nukes",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/russian-icbms-2015.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1359870",
+          "author": "Arthur Herman",
+          "description": "The controversy around Shinzo Abe’s funeral reminds us that many Japanese politicians see Japan’s future aligned with China. We can’t let that happen.",
+          "link": "https://www.nationalreview.com/2022/09/how-americas-relationship-with-japan-will-define-the-21st-century/",
+          "publishedOn": "2022-09-30T10:30:20.000Z",
+          "wordCount": 7470,
+          "title": "How America’s Relationship with Japan Will Define the 21st Century",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/uss-carl-vinson-jmsdf.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1359917",
+          "author": "Dan Katz",
+          "description": "States are rightly concerned about the elevation of ESG over other priorities, but they are attacking the issue the wrong way.",
+          "link": "https://www.nationalreview.com/2022/09/why-esg-cant-be-completely-abandoned/",
+          "publishedOn": "2022-09-30T10:30:08.000Z",
+          "wordCount": 7707,
+          "title": "Why ESG Can’t Be Completely Abandoned",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/lucid-electric-vehicle-assembly.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1360340",
+          "author": "The Editors",
+          "description": "He’s just a tax-and-spend Democrat who did what was expected.",
+          "link": "https://www.nationalreview.com/2022/09/joe-manchin-did-not-get-played-on-permitting-reform/",
+          "publishedOn": "2022-09-30T10:30:07.000Z",
+          "wordCount": 7190,
+          "title": "Joe Manchin Did Not Get Played on Permitting Reform",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/joe-manchin-permitting.jpg?fit=2057%2C1200"
+        },
+        {
           "id": "https://www.nationalreview.com/?post_type=blog-post&p=1360155",
           "author": "Brittany Bernstein",
           "description": "But he criticized Governors Abbott and DeSantis for sending illegal immigrants to other states.",
@@ -4333,56 +4453,6 @@
           "wordCount": 7131,
           "title": "Fired for His Faith, an Austin Fire Department Chaplain Fights Back",
           "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/andrew-fox-adf.jpg?fit=1200%2C700"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1328530",
-          "author": "Diana Glebova",
-          "description": "Mary Peltola is the first Democrat to be elected a U.S. representative in the state since 1972.",
-          "link": "https://www.nationalreview.com/news/democrat-defeats-sarah-palin-flips-congressional-seat-to-blue/",
-          "publishedOn": "2022-09-01T01:27:53.000Z",
-          "wordCount": 6257,
-          "title": "Democrat Defeats Sarah Palin, Flips Congressional Seat to Blue",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/08/MaryPeltola-SarahPalin.jpg?fit=1200%2C700"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1328506",
-          "author": "Diana Glebova",
-          "description": "Pelosi, who is a Catholic, claimed that ‘extreme MAGA Republicans’ are harming women by restricting abortion.",
-          "link": "https://www.nationalreview.com/news/pelosi-says-its-sinful-to-oppose-abortion/",
-          "publishedOn": "2022-09-01T01:11:17.000Z",
-          "wordCount": 6353,
-          "title": "Pelosi Says It’s ‘Sinful’ to Oppose Abortion",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/08/nancy-pelosi-capitol-hill.jpg?fit=1200%2C700"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1328308",
-          "author": "Caroline Downey",
-          "description": "An employment lawyer says the assistant principal violated state law and that rejected applicants have grounds to sue.",
-          "link": "https://www.nationalreview.com/news/connecticut-assistant-principal-placed-on-leave-after-admitting-to-anti-catholic-discrimination/",
-          "publishedOn": "2022-08-31T22:56:13.000Z",
-          "wordCount": 6511,
-          "title": "Connecticut Assistant Principal Placed on Leave after Admitting to Anti-Catholic Discrimination",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/08/jeremy-boland.jpg?fit=1200%2C700"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1328125",
-          "author": "Brittany Bernstein",
-          "description": "The report notes that it is possible that a second person who was not banned from the game did shout the slur.",
-          "link": "https://www.nationalreview.com/news/man-banned-from-byu-game-does-not-appear-to-have-said-racial-slur-authorities-say/",
-          "publishedOn": "2022-08-31T22:13:14.000Z",
-          "wordCount": 7003,
-          "title": "Man Banned from BYU Game Does Not Appear to Have Said Racial Slur, Authorities Say",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/08/duke-byu-game.jpg?fit=1200%2C700"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1328033",
-          "author": "Diana Glebova",
-          "description": "The press secretary’s comment likening Republicans to extremists comes as part of a wave of polarizing language from the White House.",
-          "link": "https://www.nationalreview.com/news/white-house-calls-trump-voters-extreme-threat-to-democracy/",
-          "publishedOn": "2022-08-31T20:37:45.000Z",
-          "wordCount": 6323,
-          "title": "White House Calls Trump Voters ‘Extreme Threat to Democracy’",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/08/Jean-Pierre.jpg?fit=2057%2C1200"
         }
       ]
     }
