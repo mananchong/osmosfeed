@@ -65,6 +65,76 @@
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
         {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1362747",
+          "author": "Diana Glebova",
+          "description": "Chechen leader Ramzan Kadyrov said Moscow needs to take ‘more drastic measures.’",
+          "link": "https://www.nationalreview.com/news/putin-ally-urges-moscow-to-use-nuclear-weapons-on-ukraine/",
+          "publishedOn": "2022-10-02T14:46:03.000Z",
+          "wordCount": 6842,
+          "title": "Putin Ally Urges Russia to Use Nuclear Weapons on Ukraine",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/putin-kadyrov.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1361451",
+          "author": "Matthew Lickona",
+          "description": "Deliberately unpleasant, Andrew Dominik’s story of Norma Jeane is a tour de force that nonetheless fails as a film.",
+          "link": "https://www.nationalreview.com/2022/10/blonde-does-not-have-fun-with-marilyn-monroe/",
+          "publishedOn": "2022-10-02T10:30:58.000Z",
+          "wordCount": 7704,
+          "title": "<i>Blonde</i> Does Not Have Fun with Marilyn Monroe",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/ana-de-armas-blonde-netflix-imdb.jpg?fit=1200%2C700"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1361484",
+          "author": "Min-Hua Chiang",
+          "description": "Access to Western finance, trade, and technology is more important to Beijing and its aspirations. The West can use that to its advantage.",
+          "link": "https://www.nationalreview.com/2022/10/why-china-is-not-all-in-on-supporting-russia/",
+          "publishedOn": "2022-10-02T10:30:54.000Z",
+          "wordCount": 7557,
+          "title": "Why China Is Not All-In on Supporting Russia",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/vladimir-putin-xi-jinping.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1360256",
+          "author": "Luther Ray Abel",
+          "description": "The show’s latest episode is a triumph of cinematography, automotive journalism, and the hosts’ abiding affection for petrol.",
+          "link": "https://www.nationalreview.com/2022/10/the-grand-tour-is-back-on-track/",
+          "publishedOn": "2022-10-02T10:30:13.000Z",
+          "wordCount": 7509,
+          "title": "<i>The Grand Tour</i> Is Back on Track",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/grand-tour-jeremy-clarkson.jpg?fit=1200%2C700"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1362217",
+          "author": "Ari David Blaff",
+          "description": "However much we strive to denounce and scoff at Americans, the simple fact is we need you.",
+          "link": "https://www.nationalreview.com/2022/10/how-america-fills-canadas-cultural-vacuum/",
+          "publishedOn": "2022-10-02T10:30:08.000Z",
+          "wordCount": 7903,
+          "title": "How America Fills Canada’s Cultural Vacuum",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/05/Justin-Trudeau.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1361490",
+          "author": "Charles Hilu",
+          "description": "Amid growing, bipartisan skepticism of the free market, some young conservatives wish, as Reagan did, to preserve this pillar of the American republic.",
+          "link": "https://www.nationalreview.com/2022/10/free-markets-flourish-at-the-reagan-ranch/",
+          "publishedOn": "2022-10-02T10:30:01.000Z",
+          "wordCount": 8000,
+          "title": "Free Markets Flourish at the Reagan Ranch",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/reagans-ranch.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1360807",
+          "author": "Madeleine Kearns",
+          "description": "But they could lose it if they underestimate the political significance of gender ideology.",
+          "link": "https://www.nationalreview.com/2022/10/in-the-midterms-culture-war-over-transgenderism-republicans-have-the-upper-hand/",
+          "publishedOn": "2022-10-02T10:30:00.000Z",
+          "wordCount": 7714,
+          "title": "In the Midterms’ Culture War over Transgenderism, Republicans Have the Upper Hand",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/MehmetOzHerschelWalker.jpg?fit=2057%2C1200"
+        },
+        {
           "id": "https://www.nationalreview.com/?post_type=blog-post&p=1362089",
           "author": "Brittany Bernstein",
           "description": "Brian Kemp celebrated the ruling, saying it “exposes this legal effort for what it really is.”",
@@ -4223,36 +4293,6 @@
           "wordCount": 6788,
           "title": "A Pro-Life Win in Germany Vindicates More Than Just the Right to Free Expression",
           "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/pavica-vojnovic.jpg?fit=1200%2C700"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1331261",
-          "author": "Brittany Bernstein",
-          "description": "The compromised data included names, contact information, and financial information about IRA income, but not Social Security numbers.",
-          "link": "https://www.nationalreview.com/news/irs-inadvertently-publishes-120000-taxpayers-confidential-info-on-its-website/",
-          "publishedOn": "2022-09-02T23:48:41.000Z",
-          "wordCount": 6321,
-          "title": "IRS ‘Inadvertently’ Publishes 120,000 Taxpayers’ Confidential Info on Its Website",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2019/11/irs-building-washington-dc.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1330927",
-          "author": "Diana Glebova",
-          "description": "The list reveals that the FBI took empty folders from Trump’s office, with markings including ‘CLASSIFIED’ and ‘Return to Staff Secretary/Military Aide.’",
-          "link": "https://www.nationalreview.com/news/empty-folders-judge-unseals-detailed-inventory-of-items-taken-from-mar-a-lago/",
-          "publishedOn": "2022-09-02T20:49:12.000Z",
-          "wordCount": 6272,
-          "title": "‘Empty Folders’: Judge Unseals Detailed Inventory of Items Taken from Mar-a-Lago",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/mar-a-lago.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1330988",
-          "author": "Brittany Bernstein",
-          "description": "The administrator said she wouldn’t let a Republican come speak on campus and that white Republican students might be beyond saving.",
-          "link": "https://www.nationalreview.com/news/progressive-nyc-school-administrator-put-on-paid-leave-after-sting-video/",
-          "publishedOn": "2022-09-02T20:42:12.000Z",
-          "wordCount": 6657,
-          "title": "Progressive NYC School Administrator Put on Paid Leave After Sting Video",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/norris.jpg?fit=2057%2C1200"
         }
       ]
     }
