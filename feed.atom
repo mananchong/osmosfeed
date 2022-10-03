@@ -2,10 +2,100 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mananchong.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-03T07:50:55.405Z</updated>
+    <updated>2022-10-03T17:20:38.111Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mananchong.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://mananchong.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A Week in the Life]]></title>
+        <id>https://www.nationalreview.com/?p=1363736</id>
+        <link href="https://www.nationalreview.com/2022/10/a-week-in-the-life/"/>
+        <updated>2022-10-03T16:37:24.000Z</updated>
+        <summary type="html"><![CDATA[Or: How every political story now unfolds.]]></summary>
+        <author>
+            <name>Charles C. W. Cooke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Eric Adams, Come See Kansas’s ‘Brand’ for Yourself]]></title>
+        <id>https://www.nationalreview.com/?p=1363605</id>
+        <link href="https://www.nationalreview.com/2022/10/eric-adams-come-see-kansass-brand-for-yourself/"/>
+        <updated>2022-10-03T14:26:46.000Z</updated>
+        <summary type="html"><![CDATA[Millions of Americans live in bustling urban centers and millions live in rural small towns. None of them deserve to be sneered at for it.]]></summary>
+        <author>
+            <name>James Franko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kim Kardashian to Pay $1.26 Million to Settle SEC Charges over Crypto Promotion]]></title>
+        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1363537</id>
+        <link href="https://www.nationalreview.com/news/kim-kardashian-to-pay-1-26-million-to-settle-sec-charges-over-crypto-promotion/"/>
+        <updated>2022-10-03T13:30:48.000Z</updated>
+        <summary type="html"><![CDATA[Kardashian found herself in hot water after failing to disclose she had been paid $250,000 to post a promotion for EthereumMax’s crypto asset.]]></summary>
+        <author>
+            <name>Brittany Bernstein</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fetterman Addresses Stroke Recovery, Lingering ‘Auditory Processing’ Issues]]></title>
+        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1363492</id>
+        <link href="https://www.nationalreview.com/news/fetterman-addresses-stroke-recovery-lingering-auditory-processing-issues/"/>
+        <updated>2022-10-03T12:35:17.000Z</updated>
+        <summary type="html"><![CDATA[‘Every now and then, I might miss a word or, sometimes, you know, I might mush two words together.’]]></summary>
+        <author>
+            <name>Brittany Bernstein</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stacey Abrams’s Very Bad Day in Court]]></title>
+        <id>https://www.nationalreview.com/?p=1362870</id>
+        <link href="https://www.nationalreview.com/2022/10/stacey-abramss-very-bad-day-in-court/"/>
+        <updated>2022-10-03T10:30:52.000Z</updated>
+        <summary type="html"><![CDATA[The arguments she made against the 2021 Georgia voting law are similar to her claims that have been pulverized in this case.]]></summary>
+        <author>
+            <name>The Editors</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Do Cities Have a Future?]]></title>
+        <id>https://www.nationalreview.com/?p=1362196</id>
+        <link href="https://www.nationalreview.com/2022/10/do-cities-have-a-future/"/>
+        <updated>2022-10-03T10:30:38.000Z</updated>
+        <summary type="html"><![CDATA[Cities must adopt a reform agenda that promotes enterprise and provides an environment where middle-class families can enjoy streets that are safe and clean.]]></summary>
+        <author>
+            <name>Joel Kotkin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Marine Corps Is Dangerously Close to Losing Its Customs, Traditions, and Warfighting Ethos]]></title>
+        <id>https://www.nationalreview.com/?p=1361257</id>
+        <link href="https://www.nationalreview.com/2022/10/the-marine-corps-is-dangerously-close-to-losing-its-customs-traditions-and-warfighting-ethos/"/>
+        <updated>2022-10-03T10:30:20.000Z</updated>
+        <summary type="html"><![CDATA[As Marines and Medal of Honor recipients, we believe the intangibles that make the Marine Corps exceptional are under attack and at risk of being overrun.]]></summary>
+        <author>
+            <name>James E. Livingston, Jay Vargas, Harvey Barnum and Robert Modrzejewski</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Harvey Mansfield, ‘Our Professor’]]></title>
+        <id>https://www.nationalreview.com/?p=1362761</id>
+        <link href="https://www.nationalreview.com/2022/10/harvey-mansfield-our-professor/"/>
+        <updated>2022-10-03T10:30:14.000Z</updated>
+        <summary type="html"><![CDATA[On the venerable, and invaluable, government professor at Harvard.]]></summary>
+        <author>
+            <name>Jay Nordlinger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[One Season after a Blockbuster, the Supreme Court Readies Another Important Term]]></title>
+        <id>https://www.nationalreview.com/?p=1363180</id>
+        <link href="https://www.nationalreview.com/2022/10/one-season-after-a-blockbuster-the-supreme-court-readies-another-important-term/"/>
+        <updated>2022-10-03T10:30:12.000Z</updated>
+        <summary type="html"><![CDATA[Nothing this term can top what we saw last year. But this season of the Supreme Court still offers plenty of reasons to keep watching.]]></summary>
+        <author>
+            <name>Adam M. Carrington</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[R Weekly 2022-W40 Data Analysis Principles, Code Explorer, and Simulating Enviornment Change]]></title>
         <id>https://rweekly.org/2022-W40.html</id>

@@ -75,6 +75,96 @@
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
         {
+          "id": "https://www.nationalreview.com/?p=1363736",
+          "author": "Charles C. W. Cooke",
+          "description": "Or: How every political story now unfolds.",
+          "link": "https://www.nationalreview.com/2022/10/a-week-in-the-life/",
+          "publishedOn": "2022-10-03T16:37:24.000Z",
+          "wordCount": 7776,
+          "title": "A Week in the Life",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/Jim-Acosta.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1363605",
+          "author": "James Franko",
+          "description": "Millions of Americans live in bustling urban centers and millions live in rural small towns. None of them deserve to be sneered at for it.",
+          "link": "https://www.nationalreview.com/2022/10/eric-adams-come-see-kansass-brand-for-yourself/",
+          "publishedOn": "2022-10-03T14:26:46.000Z",
+          "wordCount": 7769,
+          "title": "Eric Adams, Come See Kansas’s ‘Brand’ for Yourself",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/Eric-Admas-8.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1363537",
+          "author": "Brittany Bernstein",
+          "description": "Kardashian found herself in hot water after failing to disclose she had been paid $250,000 to post a promotion for EthereumMax’s crypto asset.",
+          "link": "https://www.nationalreview.com/news/kim-kardashian-to-pay-1-26-million-to-settle-sec-charges-over-crypto-promotion/",
+          "publishedOn": "2022-10-03T13:30:48.000Z",
+          "wordCount": 6713,
+          "title": "Kim Kardashian to Pay $1.26 Million to Settle SEC Charges over Crypto Promotion",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/Kim-Kardashian.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1363492",
+          "author": "Brittany Bernstein",
+          "description": "‘Every now and then, I might miss a word or, sometimes, you know, I might mush two words together.’",
+          "link": "https://www.nationalreview.com/news/fetterman-addresses-stroke-recovery-lingering-auditory-processing-issues/",
+          "publishedOn": "2022-10-03T12:35:17.000Z",
+          "wordCount": 6848,
+          "title": "Fetterman Addresses Stroke Recovery, Lingering ‘Auditory Processing’ Issues",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/John-Fetterman-2.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1362870",
+          "author": "The Editors",
+          "description": "The arguments she made against the 2021 Georgia voting law are similar to her claims that have been pulverized in this case.",
+          "link": "https://www.nationalreview.com/2022/10/stacey-abramss-very-bad-day-in-court/",
+          "publishedOn": "2022-10-03T10:30:52.000Z",
+          "wordCount": 7446,
+          "title": "Stacey Abrams’s Very Bad Day in Court",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/stacey-abrams-press.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1362196",
+          "author": "Joel Kotkin",
+          "description": "Cities must adopt a reform agenda that promotes enterprise and provides an environment where middle-class families can enjoy streets that are safe and clean.",
+          "link": "https://www.nationalreview.com/2022/10/do-cities-have-a-future/",
+          "publishedOn": "2022-10-03T10:30:38.000Z",
+          "wordCount": 9454,
+          "title": "Do Cities Have a Future?",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2010/04/NYC-Skyline.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1361257",
+          "author": "James E. Livingston, Jay Vargas, Harvey Barnum and Robert Modrzejewski",
+          "description": "As Marines and Medal of Honor recipients, we believe the intangibles that make the Marine Corps exceptional are under attack and at risk of being overrun.",
+          "link": "https://www.nationalreview.com/2022/10/the-marine-corps-is-dangerously-close-to-losing-its-customs-traditions-and-warfighting-ethos/",
+          "publishedOn": "2022-10-03T10:30:20.000Z",
+          "wordCount": 8642,
+          "title": "The Marine Corps Is Dangerously Close to Losing Its Customs, Traditions, and Warfighting Ethos",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2018/11/marines-sustainment-training-djibouti.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1362761",
+          "author": "Jay Nordlinger",
+          "description": "On the venerable, and invaluable, government professor at Harvard.",
+          "link": "https://www.nationalreview.com/2022/10/harvey-mansfield-our-professor/",
+          "publishedOn": "2022-10-03T10:30:14.000Z",
+          "wordCount": 8533,
+          "title": "Harvey Mansfield, ‘Our Professor’",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/harvey-mansfield.jpg?fit=1200%2C700"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1363180",
+          "author": "Adam M. Carrington",
+          "description": "Nothing this term can top what we saw last year. But this season of the Supreme Court still offers plenty of reasons to keep watching.",
+          "link": "https://www.nationalreview.com/2022/10/one-season-after-a-blockbuster-the-supreme-court-readies-another-important-term/",
+          "publishedOn": "2022-10-03T10:30:12.000Z",
+          "wordCount": 7865,
+          "title": "One Season after a Blockbuster, the Supreme Court Readies Another Important Term",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/scotus-sun.jpg?fit=2057%2C1200"
+        },
+        {
           "id": "https://www.nationalreview.com/?p=1363068",
           "author": "John Fund",
           "description": "From ancient Rome to Richard Nixon, anti-inflation nostrums are proven quackery.",
