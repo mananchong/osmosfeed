@@ -6,6 +6,16 @@
       "siteUrl": "https://rweekly.org/atom.xml",
       "articles": [
         {
+          "id": "https://rweekly.org/2022-W40.html",
+          "author": null,
+          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Eric Nantz, with help from the R Weekly team members and contributors.\nHighlight\nDesign Principles for Data Analysis\n{Unravel} - A fluent code explorer for R\nCase Study: Simulating Environment Change Agents on Species in Canada’s Western Boreal Forests\nInsights\nPerformance Benchmarking Data Read Write\n\nDesign Principles for Data Analysis\nR in the Real World\nHousing Markets Down: Hierarchical Time Series\nR in Academia\nUnderstanding Deviance Residuals\nLeading the Way for New R useRs with Strong Connections To Local Universities\nResources\n5 New books added to Big Book of R\nAugust 2022: “Top 40” New CRAN Packages\nNew Packages\n📦 Go Live for More New Pkgs 📦\nCRAN\n{tabledown} 0.0.…",
+          "link": "https://rweekly.org/2022-W40.html",
+          "publishedOn": "2022-10-03T00:00:00.000Z",
+          "wordCount": 6196,
+          "title": "R Weekly 2022-W40 Data Analysis Principles, Code Explorer, and Simulating Enviornment Change",
+          "imageUrl": "https://rweekly.org/public/facebook.png"
+        },
+        {
           "id": "https://rweekly.org/2022-W39.html",
           "author": null,
           "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Jonathan Carroll, with help from the RWeekly team members and contributors.\nHighlight\nDeploy Flexdashboard on Github Pages with Github Actions and Docker\nGitHub - The Perks of Collaboration and Version Control\n\nAPI as a package: Logging\nInsights\nGitHub - The Perks of Collaboration and Version Control\nPresenting results for multinomial logistic regression: a marginal approach using propensity scores\nAPI as a package: Logging\n101st TokyoR Meetup Roundup: Palmer penguins, fractal analysis, and more!\nPredict the status of #TidyTuesday Bigfoot sightings\nAnnouncing the 2022 Table Contest\nrOpenSci News Digest, September 2022\nAnnouncing the rOpenSci Champions Program!\nCover Up\nDeali…",
@@ -64,6 +74,36 @@
       "feedUrl": "https://www.nationalreview.com/feed/",
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
+        {
+          "id": "https://www.nationalreview.com/?p=1363068",
+          "author": "John Fund",
+          "description": "From ancient Rome to Richard Nixon, anti-inflation nostrums are proven quackery.",
+          "link": "https://www.nationalreview.com/2022/10/bidens-economic-policies-borrow-from-the-failed-past/",
+          "publishedOn": "2022-10-02T23:38:07.000Z",
+          "wordCount": 7525,
+          "title": "Biden’s Economic Policies Borrow from the Failed Past",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/joe-biden-white-house.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1362909",
+          "author": "Diana Glebova",
+          "description": "Nearly 850,000 people are still stranded without access to water, electricity or the internet.",
+          "link": "https://www.nationalreview.com/news/hurricane-ian-death-toll-continues-to-climb-as-search-and-rescue-continues/",
+          "publishedOn": "2022-10-02T18:51:10.000Z",
+          "wordCount": 6751,
+          "title": "Hurricane Ian Death Toll Continues to Climb as Search-and-Rescue Continues",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/hurricane-ian-damage.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1362818",
+          "author": "Diana Glebova",
+          "description": "‘Women fought for so long to have the freedom to make their own decisions,’ but now, every thought in their lives is ‘boxed in by a woke mob,’ Haley writes.",
+          "link": "https://www.nationalreview.com/news/in-new-book-nikki-haley-blasts-hypocrisy-of-modern-day-feminism/",
+          "publishedOn": "2022-10-02T18:05:56.000Z",
+          "wordCount": 6944,
+          "title": "In New Book, Nikki Haley Blasts ‘Hypocrisy’ of Modern-Day Feminism",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/06/nikkihaley.jpg?fit=2057%2C1200"
+        },
         {
           "id": "https://www.nationalreview.com/?post_type=blog-post&p=1362747",
           "author": "Diana Glebova",
@@ -4223,76 +4263,6 @@
           "wordCount": 7889,
           "title": "What’s Wrong with Siding with Unions?",
           "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2018/07/president-franklin-roosevelt-1933.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1331890",
-          "author": "Caroline Downey",
-          "description": "Black Lives Matter Grassroots claims that Shalomyah Bowers defrauded the local activist groups by siphoning funds away from them.",
-          "link": "https://www.nationalreview.com/news/blm-chapters-sue-organization-head-over-alleged-10-million-theft/",
-          "publishedOn": "2022-09-03T17:05:23.000Z",
-          "wordCount": 6295,
-          "title": "BLM Chapters Sue Organization Head over Alleged $10 Million Theft",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2021/06/black-lives-matter.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1331774",
-          "author": "Caroline Downey",
-          "description": "The G7 has agreed to impose a price cap on Russian oil in order to limit Moscow’s ability to finance its war in Ukraine.",
-          "link": "https://www.nationalreview.com/news/russia-delays-exporting-natural-gas-to-germany-claiming-oil-leak/",
-          "publishedOn": "2022-09-03T15:35:17.000Z",
-          "wordCount": 6326,
-          "title": "Russia Delays Exporting Natural Gas to Germany, Claiming Oil Leak",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/07/ns.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1331282",
-          "author": "Jack Butler",
-          "description": "Early episodes of the new Amazon ‘Lord of the Rings’ show suggest it’s worth giving it a chance — while keeping in mind that they could blow it.",
-          "link": "https://www.nationalreview.com/2022/09/let-the-rings-of-power-be-forged/",
-          "publishedOn": "2022-09-03T10:30:40.000Z",
-          "wordCount": 7525,
-          "title": "Let <em>The Rings of Power</em> Be Forged",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/lotr-rings-of-power.jpg?fit=1200%2C700"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1331283",
-          "author": "Matthew Lickona",
-          "description": "The world George Miller creates is impressive, but his message is lacking.",
-          "link": "https://www.nationalreview.com/2022/09/3000-years-of-longing-leaves-you-longing-for-more/",
-          "publishedOn": "2022-09-03T10:30:31.000Z",
-          "wordCount": 7309,
-          "title": "<em>3000 Years of Longing</em> Leaves You Longing for More",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/300o-years-of-longing.jpg?fit=1200%2C700"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1331217",
-          "author": "Andrew Follett",
-          "description": "The publication has joined an increasing number of progressive voices in doubting the scientific reality of binary sex.",
-          "link": "https://www.nationalreview.com/2022/09/woke-scientific-american-claims-men-invented-women-in-18th-century-to-oppress-them/",
-          "publishedOn": "2022-09-03T10:30:29.000Z",
-          "wordCount": 7402,
-          "title": "Woke <em>Scientific American</em> Claims Men Invented Women in 18th Century to Oppress Them",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/birth-of-venus.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1329896",
-          "author": "Brian T. Allen",
-          "description": "Monthly art-news recap shows that summer can be busy.",
-          "link": "https://www.nationalreview.com/2022/09/faucis-out-his-portraits-still-in-fake-basquiats-billion-dollar-christies-auction/",
-          "publishedOn": "2022-09-03T10:30:28.000Z",
-          "wordCount": 8963,
-          "title": "Fauci’s Out, His Portrait’s Still In, Fake Basquiats, and a Billion-Dollar Auction Looms at Christie’s",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/1-DP884354.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1331130",
-          "author": "Elyssa Koren",
-          "description": "The return of silent prayer in front of German abortion facilities reaffirms fundamental rights.",
-          "link": "https://www.nationalreview.com/2022/09/a-pro-life-win-in-germany-vindicates-more-than-just-the-right-to-free-expression/",
-          "publishedOn": "2022-09-03T10:30:11.000Z",
-          "wordCount": 6788,
-          "title": "A Pro-Life Win in Germany Vindicates More Than Just the Right to Free Expression",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/pavica-vojnovic.jpg?fit=1200%2C700"
         }
       ]
     }

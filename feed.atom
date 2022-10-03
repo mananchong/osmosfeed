@@ -2,10 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mananchong.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-02T17:03:13.672Z</updated>
+    <updated>2022-10-03T07:50:55.405Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mananchong.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://mananchong.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[R Weekly 2022-W40 Data Analysis Principles, Code Explorer, and Simulating Enviornment Change]]></title>
+        <id>https://rweekly.org/2022-W40.html</id>
+        <link href="https://rweekly.org/2022-W40.html"/>
+        <updated>2022-10-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hello and welcome to this new issue!
+How to have (my) content shared by R Weekly?
+This week’s release was curated by Eric Nantz, with help from the R Weekly team members and contributors.
+Highlight
+Design Principles for Data Analysis
+{Unravel} - A fluent code explorer for R
+Case Study: Simulating Environment Change Agents on Species in Canada’s Western Boreal Forests
+Insights
+Performance Benchmarking Data Read Write
+
+Design Principles for Data Analysis
+R in the Real World
+Housing Markets Down: Hierarchical Time Series
+R in Academia
+Understanding Deviance Residuals
+Leading the Way for New R useRs with Strong Connections To Local Universities
+Resources
+5 New books added to Big Book of R
+August 2022: “Top 40” New CRAN Packages
+New Packages
+📦 Go Live for More New Pkgs 📦
+CRAN
+{tabledown} 0.0.…]]></summary>
+        <author>
+            <name>RWeekly.org - Blogs to Learn R from the Community</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Biden’s Economic Policies Borrow from the Failed Past]]></title>
+        <id>https://www.nationalreview.com/?p=1363068</id>
+        <link href="https://www.nationalreview.com/2022/10/bidens-economic-policies-borrow-from-the-failed-past/"/>
+        <updated>2022-10-02T23:38:07.000Z</updated>
+        <summary type="html"><![CDATA[From ancient Rome to Richard Nixon, anti-inflation nostrums are proven quackery.]]></summary>
+        <author>
+            <name>John Fund</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hurricane Ian Death Toll Continues to Climb as Search-and-Rescue Continues]]></title>
+        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1362909</id>
+        <link href="https://www.nationalreview.com/news/hurricane-ian-death-toll-continues-to-climb-as-search-and-rescue-continues/"/>
+        <updated>2022-10-02T18:51:10.000Z</updated>
+        <summary type="html"><![CDATA[Nearly 850,000 people are still stranded without access to water, electricity or the internet.]]></summary>
+        <author>
+            <name>Diana Glebova</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In New Book, Nikki Haley Blasts ‘Hypocrisy’ of Modern-Day Feminism]]></title>
+        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1362818</id>
+        <link href="https://www.nationalreview.com/news/in-new-book-nikki-haley-blasts-hypocrisy-of-modern-day-feminism/"/>
+        <updated>2022-10-02T18:05:56.000Z</updated>
+        <summary type="html"><![CDATA[‘Women fought for so long to have the freedom to make their own decisions,’ but now, every thought in their lives is ‘boxed in by a woke mob,’ Haley writes.]]></summary>
+        <author>
+            <name>Diana Glebova</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Putin Ally Urges Russia to Use Nuclear Weapons on Ukraine]]></title>
         <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1362747</id>
@@ -4274,76 +4336,6 @@ Ten simple rul…]]></summary>
         <summary type="html"><![CDATA[The historical record shows that modern conservative arguments for embracing unions are lacking.]]></summary>
         <author>
             <name>Amity Shlaes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BLM Chapters Sue Organization Head over Alleged $10 Million Theft]]></title>
-        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1331890</id>
-        <link href="https://www.nationalreview.com/news/blm-chapters-sue-organization-head-over-alleged-10-million-theft/"/>
-        <updated>2022-09-03T17:05:23.000Z</updated>
-        <summary type="html"><![CDATA[Black Lives Matter Grassroots claims that Shalomyah Bowers defrauded the local activist groups by siphoning funds away from them.]]></summary>
-        <author>
-            <name>Caroline Downey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Russia Delays Exporting Natural Gas to Germany, Claiming Oil Leak]]></title>
-        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1331774</id>
-        <link href="https://www.nationalreview.com/news/russia-delays-exporting-natural-gas-to-germany-claiming-oil-leak/"/>
-        <updated>2022-09-03T15:35:17.000Z</updated>
-        <summary type="html"><![CDATA[The G7 has agreed to impose a price cap on Russian oil in order to limit Moscow’s ability to finance its war in Ukraine.]]></summary>
-        <author>
-            <name>Caroline Downey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Let <em>The Rings of Power</em> Be Forged]]></title>
-        <id>https://www.nationalreview.com/?p=1331282</id>
-        <link href="https://www.nationalreview.com/2022/09/let-the-rings-of-power-be-forged/"/>
-        <updated>2022-09-03T10:30:40.000Z</updated>
-        <summary type="html"><![CDATA[Early episodes of the new Amazon ‘Lord of the Rings’ show suggest it’s worth giving it a chance — while keeping in mind that they could blow it.]]></summary>
-        <author>
-            <name>Jack Butler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<em>3000 Years of Longing</em> Leaves You Longing for More]]></title>
-        <id>https://www.nationalreview.com/?p=1331283</id>
-        <link href="https://www.nationalreview.com/2022/09/3000-years-of-longing-leaves-you-longing-for-more/"/>
-        <updated>2022-09-03T10:30:31.000Z</updated>
-        <summary type="html"><![CDATA[The world George Miller creates is impressive, but his message is lacking.]]></summary>
-        <author>
-            <name>Matthew Lickona</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Woke <em>Scientific American</em> Claims Men Invented Women in 18th Century to Oppress Them]]></title>
-        <id>https://www.nationalreview.com/?p=1331217</id>
-        <link href="https://www.nationalreview.com/2022/09/woke-scientific-american-claims-men-invented-women-in-18th-century-to-oppress-them/"/>
-        <updated>2022-09-03T10:30:29.000Z</updated>
-        <summary type="html"><![CDATA[The publication has joined an increasing number of progressive voices in doubting the scientific reality of binary sex.]]></summary>
-        <author>
-            <name>Andrew Follett</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fauci’s Out, His Portrait’s Still In, Fake Basquiats, and a Billion-Dollar Auction Looms at Christie’s]]></title>
-        <id>https://www.nationalreview.com/?p=1329896</id>
-        <link href="https://www.nationalreview.com/2022/09/faucis-out-his-portraits-still-in-fake-basquiats-billion-dollar-christies-auction/"/>
-        <updated>2022-09-03T10:30:28.000Z</updated>
-        <summary type="html"><![CDATA[Monthly art-news recap shows that summer can be busy.]]></summary>
-        <author>
-            <name>Brian T. Allen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Pro-Life Win in Germany Vindicates More Than Just the Right to Free Expression]]></title>
-        <id>https://www.nationalreview.com/?p=1331130</id>
-        <link href="https://www.nationalreview.com/2022/09/a-pro-life-win-in-germany-vindicates-more-than-just-the-right-to-free-expression/"/>
-        <updated>2022-09-03T10:30:11.000Z</updated>
-        <summary type="html"><![CDATA[The return of silent prayer in front of German abortion facilities reaffirms fundamental rights.]]></summary>
-        <author>
-            <name>Elyssa Koren</name>
         </author>
     </entry>
 </feed>
