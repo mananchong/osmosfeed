@@ -44,16 +44,6 @@
           "wordCount": 6075,
           "title": "R Weekly 2022-W37 Mapping wind, Expected points, LEGO model with Docker",
           "imageUrl": "https://rweekly.org/public/facebook.png"
-        },
-        {
-          "id": "https://rweekly.org/2022-W36.html",
-          "author": null,
-          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Miles McBain, with help from the R Weekly team members and contributors.\nHighlight\nAustralian Signals Directorate 50c Coin Decryption\nPalmer Archipelago Penguins Data in the palmerpenguins R Package - An Alternative to Anderson’s Irises\n\nEfficient data visualization with faded raincloud plots\n\nInsights\nInterpretability and explainability of predictive models\nHow a Local Community Produced the First Nation-wide R useR Group\nBase-R and Tidyverse Code, Side-by-Side\nWhen Will NYC’s Subway Ridership Recover?\n\nCO2 Emissions Comparing and Modeling for Global Warming\nPalmer Archipelago Penguins Data in the palmerpenguins R Package - An Alternative to Anderson’s Irises\nTen simple rul…",
-          "link": "https://rweekly.org/2022-W36.html",
-          "publishedOn": "2022-09-05T00:00:00.000Z",
-          "wordCount": 6021,
-          "title": "R Weekly 2022-W36 Deciphering the ASD 50c coin, Palmer Penguins forever, rainclouds",
-          "imageUrl": "https://rweekly.org/public/facebook.png"
         }
       ]
     },
@@ -74,6 +64,146 @@
       "feedUrl": "https://www.nationalreview.com/feed/",
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1364851",
+          "author": "Brittany Bernstein",
+          "description": "Twitter’s stock price briefly shot up as high as 18 percent on the news before trading was suspended.",
+          "link": "https://www.nationalreview.com/news/elon-musk-offers-to-buy-twitter-for-originally-agreed-upon-price/",
+          "publishedOn": "2022-10-04T16:43:56.000Z",
+          "wordCount": 6960,
+          "title": "Elon Musk Offers to Buy Twitter for Originally Agreed-Upon Price",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/06/Untitled-design.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1364750",
+          "author": "Isaac Schorr",
+          "description": "Various investigations have revealed that BLM leaders have used donations to enrich themselves.",
+          "link": "https://www.nationalreview.com/news/kanye-west-calls-blm-a-scam-after-wearing-white-lives-matter-shirt/",
+          "publishedOn": "2022-10-04T16:10:39.000Z",
+          "wordCount": 6928,
+          "title": "Kanye West Calls BLM a ‘Scam’ after Wearing ‘White Lives Matter’ Shirt",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/GettyImages-1398676826_Kanye-West.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1364777",
+          "author": "Ryan Mills",
+          "description": "Christian Walker’s video comes after the Daily Beast reported that his father paid for a girlfriend’s abortion.",
+          "link": "https://www.nationalreview.com/news/herschel-walkers-son-unloads-on-senate-candidate-after-abortion-allegation-done-with-the-lies/",
+          "publishedOn": "2022-10-04T15:48:32.000Z",
+          "wordCount": 7942,
+          "title": "Herschel Walker’s Son Unloads on Senate Candidate after Abortion Allegation: ‘Done with the Lies’",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/christian-walker.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1364711",
+          "author": "Brittany Bernstein",
+          "description": "‘For example, if you Google ‘climate change,’ you will, at the top of your search, you will get all kinds of U.N. resources.’",
+          "link": "https://www.nationalreview.com/news/u-n-communications-official-touts-google-search-partnership-we-own-the-science/",
+          "publishedOn": "2022-10-04T14:51:22.000Z",
+          "wordCount": 6799,
+          "title": "U.N. Communications Official Touts Google Search Partnership: ‘We Own the Science’",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/GettyImages-1377065549-Melissa-Fleming.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1364599",
+          "author": "Isaac Schorr",
+          "description": "New polling shows that voters place more importance on inflation, crime, elections and voting, jobs, immigration, and infrastructure than they do on abortion.",
+          "link": "https://www.nationalreview.com/news/google-searches-for-abortion-return-to-pre-dobbs-level-as-the-economy-reasserts-itself-as-voters-top-priority/",
+          "publishedOn": "2022-10-04T13:41:06.000Z",
+          "wordCount": 7005,
+          "title": "Google Searches for ‘Abortion’ Return to Pre-<I>Dobbs</I> Level as the Economy Reasserts Itself as Voters’ Top Priority",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/planned-parenthood.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1364598",
+          "author": "Brittany Bernstein",
+          "description": "Biden shared his intention to run in 2020 with Sharpton before he announced it publicly.",
+          "link": "https://www.nationalreview.com/news/im-going-to-do-it-again-biden-told-al-sharpton-he-plans-to-run-again-in-2024-report/",
+          "publishedOn": "2022-10-04T13:15:40.000Z",
+          "wordCount": 6861,
+          "title": "‘I’m Going to Do It Again’: Biden Told Al Sharpton He Plans to Run Again in 2024: Report",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/Untitled-design-18.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1364572",
+          "author": "Brittany Bernstein",
+          "description": "The poll also showed a decline in support for Biden and Democrats among Hispanic Catholics.",
+          "link": "https://www.nationalreview.com/news/majority-of-catholic-voters-believe-biden-shouldnt-run-again-in-2024-poll/",
+          "publishedOn": "2022-10-04T12:37:17.000Z",
+          "wordCount": 6995,
+          "title": "Majority of Catholic Voters Believe Biden Shouldn’t Run Again in 2024: POLL",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/Joe-Biden-58.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1364153",
+          "author": "John Yoo",
+          "description": "The country has lost a great public servant, who was also a great mentor and friend to many in law and politics.",
+          "link": "https://www.nationalreview.com/2022/10/the-intellectual-legacy-of-judge-laurence-silberman/",
+          "publishedOn": "2022-10-04T10:30:59.000Z",
+          "wordCount": 9286,
+          "title": "The Intellectual Legacy of Judge Laurence Silberman",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/laurence-silberman-chuck-robb.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1364129",
+          "author": "Michael Brendan Dougherty",
+          "description": "Thinking through the unthinkable as the Ukraine conflict enters a dangerous new phase.",
+          "link": "https://www.nationalreview.com/2022/10/our-nuclear-options/",
+          "publishedOn": "2022-10-04T10:30:58.000Z",
+          "wordCount": 8372,
+          "title": "Our Nuclear Options",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/b-52-refuel-uk.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1364332",
+          "author": "Rich Lowry",
+          "description": "Democrats can’t rely on the monolithic Hispanic voting bloc they imagined would guarantee them an enduring electoral majority.",
+          "link": "https://www.nationalreview.com/2022/10/hispanics-werent-what-progressives-thought/",
+          "publishedOn": "2022-10-04T10:30:47.000Z",
+          "wordCount": 7229,
+          "title": "Hispanics Weren’t What Progressives Thought",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/GettyImages-1403093117-Masto.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1363696",
+          "author": "Douglas Carswell",
+          "description": "With charter-school applications repeatedly being denied, it’s time to overhaul the approval process.",
+          "link": "https://www.nationalreview.com/2022/10/mississippis-education-establishment-is-holding-kids-back/",
+          "publishedOn": "2022-10-04T10:30:45.000Z",
+          "wordCount": 7357,
+          "title": "Mississippi’s Education Establishment Is Holding Kids Back",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/classroom-columbia-mississippi.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1364319",
+          "author": "Rich Lowry",
+          "description": "The best way to support our original journalism — the in-depth reporting and the incisive commentary keeping the Left in check — is to subscribe.",
+          "link": "https://www.nationalreview.com/2022/10/keep-nr-in-the-fight/",
+          "publishedOn": "2022-10-04T10:30:15.000Z",
+          "wordCount": 7082,
+          "title": "Everyone Has Lost Their Minds",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/Fla-Abortion-Protest.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1364211",
+          "author": "Therese Shaheen",
+          "description": "As the country’s economy faces a downturn, the president’s assignment is simple: maintain the party’s iron control.",
+          "link": "https://www.nationalreview.com/2022/10/why-the-chinese-communist-party-needs-xi/",
+          "publishedOn": "2022-10-04T10:30:06.000Z",
+          "wordCount": 9054,
+          "title": "Why the Chinese Communist Party Needs Xi",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2021/03/xi-jinping-china-communist-party.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1363754",
+          "author": "Shawn Regan and Tate Watkins",
+          "description": "Reform of the permitting process could help us address our growing wildfire crisis before it’s too late.",
+          "link": "https://www.nationalreview.com/2022/10/red-tape-is-making-wildfires-worse/",
+          "publishedOn": "2022-10-04T10:30:03.000Z",
+          "wordCount": 7769,
+          "title": "Red Tape Is Making Wildfires Worse",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2021/08/caldor-fire-090621-7.jpg?fit=2057%2C1200"
+        },
         {
           "id": "https://www.nationalreview.com/?post_type=blog-post&p=1364225",
           "author": "Caroline Downey",
