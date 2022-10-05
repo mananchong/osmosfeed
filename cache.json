@@ -65,6 +65,96 @@
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
         {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1365900",
+          "author": "Brittany Bernstein",
+          "description": "Cannon was convicted in July of fatally shooting Dorn when the 77-year-old was responding to a burglary alarm at a friend’s pawn shop.",
+          "link": "https://www.nationalreview.com/news/rioter-who-murdered-retired-st-louis-police-captain-sentenced-to-life-in-prison-without-parole/",
+          "publishedOn": "2022-10-05T17:19:48.000Z",
+          "wordCount": 6478,
+          "title": "Rioter Who Murdered Retired St. Louis Police Captain Sentenced to Life in Prison without Parole",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/Dorn.png?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1365716",
+          "author": "Brittany Bernstein",
+          "description": "‘I’m not really supposed to say that but it’s obvious fact. And you know, when stupid people vote, you know who they nominate? Other stupid people.’",
+          "link": "https://www.nationalreview.com/news/james-carville-republicans-have-a-lot-of-stupid-people-that-vote-in-their-primaries/",
+          "publishedOn": "2022-10-05T14:30:37.000Z",
+          "wordCount": 7044,
+          "title": "James Carville: Republicans ‘Have a Lot of Stupid People That Vote in Their Primaries’",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2021/10/james-carville-2015.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1365609",
+          "author": "Ryan Mills",
+          "description": "‘I am wholly agnostic as to where Americans are in trouble,’ the group’s co-founder told NR.",
+          "link": "https://www.nationalreview.com/news/afghanistan-to-ukraine-to-florida-project-dynamo-comes-home-to-rescue-hurricane-ian-victims/",
+          "publishedOn": "2022-10-05T12:51:10.000Z",
+          "wordCount": 7259,
+          "title": "Afghanistan to Ukraine to Florida: Project Dynamo Comes Home to Rescue Hurricane Ian Victims",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/Mills-Dynamo-3.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1365611",
+          "author": "Brittany Bernstein",
+          "description": "Fetterman has conceded that the stroke he suffered has resulted in auditory processing issues.",
+          "link": "https://www.nationalreview.com/news/fetterman-oz-lies-about-my-health-again-and-again/",
+          "publishedOn": "2022-10-05T12:34:07.000Z",
+          "wordCount": 7039,
+          "title": "Fetterman: Oz ‘Lies about My Health Again and Again’",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/Fetterman-5.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1364689",
+          "author": "Brittany Bernstein",
+          "description": "Darrell Brooks mowed down parade attendees after being released from jail on an ‘inappropriately low’ $1,000 bond.",
+          "link": "https://www.nationalreview.com/news/barnes-faces-questions-on-cash-bail-stance-as-wisconsin-voters-remember-christmas-parade-tragedy/",
+          "publishedOn": "2022-10-05T10:30:59.000Z",
+          "wordCount": 8252,
+          "title": "Barnes Faces Questions on Cash-Bail Stance as Wisconsin Voters Remember Christmas Parade Tragedy",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/mandela-barnes-reporter.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1364921",
+          "author": "Daniel Savickas",
+          "description": "It hardly seems appropriate for Congress to spend its time going after companies that are trying to make football more widely accessible and enjoyable.",
+          "link": "https://www.nationalreview.com/2022/10/federal-tech-antitrust-scheme-threatens-nfl-enjoyment/",
+          "publishedOn": "2022-10-05T10:30:28.000Z",
+          "wordCount": 7526,
+          "title": "Federal Tech Antitrust Scheme Threatens NFL Enjoyment",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/chargers-chiefs.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1363688",
+          "author": "Alexandra DeSanctis",
+          "description": "Why abortion supporters hate laws requiring respectful disposal of aborted babies.",
+          "link": "https://www.nationalreview.com/2022/10/what-we-throw-away/",
+          "publishedOn": "2022-10-05T10:30:07.000Z",
+          "wordCount": 7637,
+          "title": "What We Throw Away",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/pro-abortion-signs.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1364935",
+          "author": "Armond White",
+          "description": "Netflix-style political porn disrespects Monroe and distorts pop history.",
+          "link": "https://www.nationalreview.com/2022/10/blonde-gaslights-marilyn-monroe/",
+          "publishedOn": "2022-10-05T10:30:04.000Z",
+          "wordCount": 7410,
+          "title": "<i>Blonde</i> Gaslights Marilyn Monroe",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/blonde-netflix.jpg?fit=1200%2C700"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1365000",
+          "author": "Andrew Fowler",
+          "description": "If the Constitution State doesn’t embrace free-market, liberty-minded policies, it can expect more of the same economic stagnation.",
+          "link": "https://www.nationalreview.com/2022/10/connecticuts-economy-cant-afford-another-lost-decade/",
+          "publishedOn": "2022-10-05T10:30:01.000Z",
+          "wordCount": 7380,
+          "title": "Connecticut’s Economy Can’t Afford Another ‘Lost Decade’",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/connecticut-state-capitol-hartford.jpg?fit=2057%2C1200"
+        },
+        {
           "id": "https://www.nationalreview.com/?post_type=blog-post&p=1365333",
           "author": "Caroline Downey",
           "description": "Tony Bobulinski claimed Tuesday that the president’s son and brother cheated him out of millions of dollars in a deal to form a joint venture with a Chinese firm.",
@@ -4433,16 +4523,6 @@
           "wordCount": 6735,
           "title": "End Infanticide",
           "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/05/GettyImages-1288911659-Newborn-Baby.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1333569",
-          "author": "Andrew C. McCarthy",
-          "description": "Aileen Cannon has granted Trump’s petition for a special master, after an inexplicable and damaging delay.",
-          "link": "https://www.nationalreview.com/2022/09/judge-throws-mar-a-lago-probe-into-chaos/",
-          "publishedOn": "2022-09-05T22:14:26.000Z",
-          "wordCount": 8599,
-          "title": "Judge Throws Mar-a-Lago Probe into Chaos",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/Trump-8.jpg?fit=2057%2C1200"
         }
       ]
     }
