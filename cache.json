@@ -65,6 +65,86 @@
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
         {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1366020",
+          "author": "Isaac Schorr",
+          "description": "The ad highlights Democrats’ embrace of the defund the police movement.",
+          "link": "https://www.nationalreview.com/news/des-moines-register-deems-kim-reynolds-ad-dehumanizing-racist-and-indefensible/",
+          "publishedOn": "2022-10-06T14:31:35.000Z",
+          "wordCount": 7043,
+          "title": "<I>Des Moines Register</I> Deems Kim Reynolds Ad ‘Dehumanizing,’ ‘Racist,’ and ‘Indefensible’",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/Kim-Reynolds.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1366587",
+          "author": "Caroline Downey",
+          "description": "Since the fall of Roe, 14 states that accounted for 125,780 abortions in 2020 no longer perform the procedure.",
+          "link": "https://www.nationalreview.com/news/one-hundred-days-after-roe-overturned-66-clinics-across-15-states-have-stopped-performing-abortions/",
+          "publishedOn": "2022-10-06T13:50:59.000Z",
+          "wordCount": 7121,
+          "title": "One Hundred Days after <I>Roe</I> Overturned, 66 Clinics across 15 States Have Stopped Performing Abortions",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/Kentucky-Abortion.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1366628",
+          "author": "Caroline Downey",
+          "description": "Last month, D.C. Mayor Muriel Bowser declared a public emergency over the migrant bus arrivals.",
+          "link": "https://www.nationalreview.com/news/another-migrant-bus-arrives-outside-kamala-harriss-d-c-home/",
+          "publishedOn": "2022-10-06T13:15:40.000Z",
+          "wordCount": 6884,
+          "title": "Migrant Bus Arrives outside Kamala Harris’s D.C. Home",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/Migrant-Bus.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1365989",
+          "author": "Pradheep J. Shanker",
+          "description": "Gavin Newsom’s law restricts free speech and threatens the doctor–patient relationship.",
+          "link": "https://www.nationalreview.com/2022/10/californias-tyrannical-covid-misinformation-law/",
+          "publishedOn": "2022-10-06T10:30:50.000Z",
+          "wordCount": 8286,
+          "title": "California’s Tyrannical Covid ‘Misinformation’ Law",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/gavin-newsom-california-covid.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1364783",
+          "author": "Itxu Díaz",
+          "description": "The Left has run out of adjectives for its opponents.",
+          "link": "https://www.nationalreview.com/2022/10/self-help-for-progressives-how-to-overcome-melonis-victory/",
+          "publishedOn": "2022-10-06T10:30:19.000Z",
+          "wordCount": 7706,
+          "title": "Self-Help for Progressives: How to Overcome Meloni’s Victory",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/meloni-italy.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1366136",
+          "author": "Charles C. W. Cooke",
+          "description": "On this, we must insist.",
+          "link": "https://www.nationalreview.com/2022/10/the-constitution-is-not-a-suggestion/",
+          "publishedOn": "2022-10-06T10:30:17.000Z",
+          "wordCount": 6807,
+          "title": "The Constitution Is Not a Suggestion",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/08/joe-biden-cardona.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1365997",
+          "author": "Jason Bedrick and Corey DeAngelis",
+          "description": "Parent protesters revealed the unions and their allies to be paper tigers, thereby paving the way for further school-choice expansions in other states.",
+          "link": "https://www.nationalreview.com/2022/10/arizona-parents-show-how-to-beat-the-teachers-unions/",
+          "publishedOn": "2022-10-06T10:30:09.000Z",
+          "wordCount": 7637,
+          "title": "Arizona Parents Show How to Beat the Teachers’ Unions",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/arizona-teachers-strike.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1366006",
+          "author": "Sean-Michael Pigeon",
+          "description": "The Federal Trade Commission is out for blood, but Big Tech won’t be the one to bleed — the American consumer will.",
+          "link": "https://www.nationalreview.com/2022/10/the-ftcs-aggressive-stance-may-harm-its-only-constituents/",
+          "publishedOn": "2022-10-06T10:30:05.000Z",
+          "wordCount": 7914,
+          "title": "The FTC’s Aggressive Stance May Harm Its Only Constituents",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2021/07/lina-khan.jpg?fit=2057%2C1200"
+        },
+        {
           "id": "https://www.nationalreview.com/?post_type=blog-post&p=1366344",
           "author": "Caroline Downey",
           "description": "Seven of the demonstrators were charged with conspiracy against rights secured by the Freedom of Access to Clinic Entrances Act.",
@@ -4443,66 +4523,6 @@
           "wordCount": 6927,
           "title": "Why <i>Three Thousand Years of Longing</i> Is Unacceptable",
           "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/3000-years-of-longing.jpg?fit=1200%2C700"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1334864",
-          "author": "Brittany Bernstein",
-          "description": "Several other moderate Democrats have been critical of the president’s order as well.",
-          "link": "https://www.nationalreview.com/news/manchin-bidens-student-loan-forgiveness-is-excessive/",
-          "publishedOn": "2022-09-07T00:23:23.000Z",
-          "wordCount": 6304,
-          "title": "Manchin: Biden’s Student-Loan ‘Forgiveness’ Is ‘Excessive’",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/03/joe-manchin-1.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1334720",
-          "author": "Charles C. W. Cooke",
-          "description": "What, exactly, is the Biden administration’s purpose?",
-          "link": "https://www.nationalreview.com/2022/09/bidens-pointless-presidency/",
-          "publishedOn": "2022-09-06T21:50:24.000Z",
-          "wordCount": 6805,
-          "title": "Biden’s Pointless Presidency",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/joe-biden-white-house.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1334654",
-          "author": "Caroline Downey",
-          "description": "Newsom has presided over the state government’s aggressive climate change policies.",
-          "link": "https://www.nationalreview.com/news/newsom-urges-californians-to-turn-up-thermostats-as-heat-wave-tests-energy-grid/",
-          "publishedOn": "2022-09-06T21:28:05.000Z",
-          "wordCount": 6375,
-          "title": "Newsom Urges Californians to Turn Up Thermostats as Heat Wave Tests Energy Grid",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2021/12/gavin-newsom-press-conference.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1334658",
-          "author": "Brittany Bernstein",
-          "description": "Ninety-five percent of union members approved a strike authorization.",
-          "link": "https://www.nationalreview.com/news/seattle-teachers-union-authorizes-strike-possibly-delaying-school-start/",
-          "publishedOn": "2022-09-06T21:25:20.000Z",
-          "wordCount": 6162,
-          "title": "Seattle Teachers Union Authorizes Strike, Possibly Delaying School Start",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/seattle-teachers-strike-signs.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1334345",
-          "author": "Caroline Downey",
-          "description": "An undercover video depicted the Cos Cob assistant principal admitting to rejecting Catholic and conservative teaching candidates.",
-          "link": "https://www.nationalreview.com/news/connecticut-ag-launches-probe-into-school-administrators-alleged-anti-catholic-discrimination/",
-          "publishedOn": "2022-09-06T20:25:29.000Z",
-          "wordCount": 6339,
-          "title": "Connecticut AG Launches Probe into School Administrator’s Alleged Anti-Catholic Discrimination",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/conn2.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1334522",
-          "author": "Brittany Bernstein",
-          "description": "The new ad features Floridians thanking the governor for standing “strong for the people of Florida.”",
-          "link": "https://www.nationalreview.com/news/new-desantis-reelection-ad-celebrates-first-term-results/",
-          "publishedOn": "2022-09-06T20:23:02.000Z",
-          "wordCount": 6431,
-          "title": "DeSantis Ad Highlights How Blue-Collar Floridians Benefitted from Anti-Lockdown Policies",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/desantis.jpg?fit=2057%2C1200"
         }
       ]
     }
