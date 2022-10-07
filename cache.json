@@ -65,6 +65,116 @@
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
         {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1367891",
+          "author": "Isaac Schorr",
+          "description": "So I said ‘No, you know what, I’m not ready.’ And the nurse just, you know, wouldn’t listen to me.",
+          "link": "https://www.nationalreview.com/news/representative-cori-bush-says-abortionist-went-through-with-procedure-against-her-will/",
+          "publishedOn": "2022-10-07T16:45:42.000Z",
+          "wordCount": 6993,
+          "title": "Representative Cori Bush Says Abortionist Went Through with Procedure Against Her Will",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/Cori-bush.jpg?fit=2057%2C1157"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1367905",
+          "author": "Brittany Bernstein",
+          "description": "Adams said at least 17,000 asylum seekers have arrived in the city by bus from other parts of the country since April.",
+          "link": "https://www.nationalreview.com/news/nyc-mayor-declares-state-of-emergency-over-influx-of-illegal-immigrants/",
+          "publishedOn": "2022-10-07T16:14:31.000Z",
+          "wordCount": 7078,
+          "title": "NYC Mayor Declares State of Emergency over Influx of Illegal Immigrants",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/04/nyc-mayor-eric-adams.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1367831",
+          "author": "Brittany Bernstein",
+          "description": "The theater, which has a link to the BLM website on its homepage, describes the performance as a ‘show for students of color.’",
+          "link": "https://www.nationalreview.com/news/massachusetts-high-school-restricts-theater-production-to-students-of-color/",
+          "publishedOn": "2022-10-07T15:34:46.000Z",
+          "wordCount": 6808,
+          "title": "Massachusetts High School Restricts Theater Production to ‘Students of Color’",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/theater-curtains.jpg?fit=2057%2C1157"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1367700",
+          "author": "Brittany Bernstein",
+          "description": "‘No child is safe in their school while Greg Abbott is governor,’ says one father featured in the new ad.",
+          "link": "https://www.nationalreview.com/news/beto-orourke-campaigns-on-uvalde-massacre/",
+          "publishedOn": "2022-10-07T13:01:54.000Z",
+          "wordCount": 7204,
+          "title": "Beto O’Rourke Campaigns on Uvalde Massacre in New Ad",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/Untitled-design-36.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1367668",
+          "author": "Brittany Bernstein",
+          "description": "‘You know, I told [Biden] he was wrong. So I pushed back on this administration multiple times.’",
+          "link": "https://www.nationalreview.com/news/senator-kelly-blasts-biden-for-dumb-border-decisions-in-debate-with-masters/",
+          "publishedOn": "2022-10-07T12:07:35.000Z",
+          "wordCount": 7111,
+          "title": "Senator Kelly Blasts Biden for ‘Dumb’ Border Decisions in Debate with Masters",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/Untitled-design-35.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1367057",
+          "author": "Kate Makra",
+          "description": "The citizens of Ohio are being bullied by the pro-abortion lobby and its judicial allies.",
+          "link": "https://www.nationalreview.com/2022/10/the-state-courts-cant-keep-ohio-pro-lifers-down/",
+          "publishedOn": "2022-10-07T10:30:41.000Z",
+          "wordCount": 7998,
+          "title": "The State Courts Can’t Keep Ohio Pro-Lifers Down",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/06/pro-life-1.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1367202",
+          "author": "Jack Salmon",
+          "description": "The reality of the nation’s fiscal condition discredits Biden’s deficit-reduction boast.",
+          "link": "https://www.nationalreview.com/2022/10/an-administration-of-deficit-hawks-not-so-much/",
+          "publishedOn": "2022-10-07T10:30:38.000Z",
+          "wordCount": 7473,
+          "title": "An Administration of Deficit Hawks? Not So Much",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/joe-biden-cabinet-meeting.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1366764",
+          "author": "Andrew C. McCarthy",
+          "description": "There’s still a place where the rules can filter out the noise, and we strive to honestly report what happens there.",
+          "link": "https://www.nationalreview.com/2022/10/the-most-important-seats-are-courtside/",
+          "publishedOn": "2022-10-07T10:30:26.000Z",
+          "wordCount": 7254,
+          "title": "The Most Important Seats Are Courtside",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/Untitled-design-34.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1367229",
+          "author": "Bobby Miller",
+          "description": "There are steps the U.S. government can take to support the protests and advance our national interest.",
+          "link": "https://www.nationalreview.com/2022/10/biden-must-not-squander-his-iran-moment/",
+          "publishedOn": "2022-10-07T10:30:16.000Z",
+          "wordCount": 7289,
+          "title": "Biden Must Not Squander His Iran Moment",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1367106",
+          "author": "Armond White",
+          "description": "David O. Russell risks an eccentric vision of American democracy.",
+          "link": "https://www.nationalreview.com/2022/10/amsterdam-is-a-vexing-wannabe-classic/",
+          "publishedOn": "2022-10-07T10:30:10.000Z",
+          "wordCount": 7782,
+          "title": "<i>Amsterdam</i> Is a Vexing, Wannabe Classic",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/amsterdam-movie.jpg?fit=1200%2C700"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1366972",
+          "author": "The Editors",
+          "description": "The media seem to be worried that the GOP strategy is working.",
+          "link": "https://www.nationalreview.com/2022/10/of-course-republicans-should-run-against-crime/",
+          "publishedOn": "2022-10-07T10:30:03.000Z",
+          "wordCount": 7449,
+          "title": "Of Course Republicans Should Run against Crime",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/crime-scene-oakland-california.jpg?fit=2057%2C1200"
+        },
+        {
           "id": "https://www.nationalreview.com/?post_type=blog-post&p=1367415",
           "author": "Isaac Schorr",
           "description": "‘I don’t think there is any such a thing as the ability to easily use a tactical nuclear weapon and not end up with Armageddon.’",
@@ -4443,46 +4553,6 @@
           "wordCount": 8415,
           "title": "Atlanta’s High Museum, Looking Good and On the Move",
           "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/6-CatMax-Photography-High-Museum-of-Art-Stent-Family-Wing-2-DETAIL.jpg?resize=300%2C300"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1336144",
-          "author": "Diana Glebova",
-          "description": "Judge Elizabeth Gleicher said the law violated the right to ‘bodily integrity’ and ‘equal protection,’ which are inscribed in the state’s constitution.",
-          "link": "https://www.nationalreview.com/news/judge-rules-michigans-abortion-law-from-1931-violates-states-constitution/",
-          "publishedOn": "2022-09-08T01:04:09.000Z",
-          "wordCount": 6375,
-          "title": "Judge Rules Michigan’s Abortion Law from 1931 Violates State’s Constitution",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/abortion-protest-detroit-michigan.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1335768",
-          "author": "Caroline Downey",
-          "description": "The official had accused the journalist of smearing him to prevent him from getting re-elected.",
-          "link": "https://www.nationalreview.com/news/las-vegas-police-search-officials-home-as-part-of-investigation-into-journalists-murder/",
-          "publishedOn": "2022-09-07T21:23:27.000Z",
-          "wordCount": 6422,
-          "title": "Las Vegas Police Search Official’s Home as Part of Investigation into Journalist’s Murder",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/las-vegas-police.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1335789",
-          "author": "Diana Glebova",
-          "description": "Russia ‘won’t supply gas, oil, coal, heating oil,’ Putin said.",
-          "link": "https://www.nationalreview.com/news/putin-threatens-to-halt-all-energy-exports-to-the-west/",
-          "publishedOn": "2022-09-07T21:11:32.000Z",
-          "wordCount": 6381,
-          "title": "Putin Threatens to Halt All Energy Exports to the West",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/vladimir-putin.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1335759",
-          "author": "Andrew Stuttaford",
-          "description": "Can a ‘Thatcher 2.0’ strategy work under these turbulent economic and political conditions?",
-          "link": "https://www.nationalreview.com/2022/09/liz-truss-winning-the-poisoned-chalice/",
-          "publishedOn": "2022-09-07T19:53:16.000Z",
-          "wordCount": 7740,
-          "title": "Liz Truss: Winning the Poisoned Chalice",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/truss.jpg?fit=2057%2C1200"
         }
       ]
     }
