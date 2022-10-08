@@ -65,6 +65,86 @@
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
         {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1368666",
+          "author": "Caroline Downey",
+          "description": "In recent years, the company has become known for censoring or deplatforming organizations expressing certain conservative viewpoints.",
+          "link": "https://www.nationalreview.com/news/new-paypal-policy-permits-company-to-fine-users-2500-for-misinformation/",
+          "publishedOn": "2022-10-08T14:39:46.000Z",
+          "wordCount": 6886,
+          "title": "New PayPal Policy Permits Company to Fine Users $2,500 for ‘Misinformation’",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2019/11/Paypal-.jpg?fit=1983%2C1157"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1368627",
+          "author": "Caroline Downey",
+          "description": "A senior Ukrainian official mocked the Russian president on Twitter, wishing him a happy birthday accompanied by footage of the burning bridge.",
+          "link": "https://www.nationalreview.com/news/explosion-damages-sole-bridge-linking-russia-to-crimea-in-major-setback-for-putin/",
+          "publishedOn": "2022-10-08T13:24:05.000Z",
+          "wordCount": 6892,
+          "title": "Explosion Damages Sole Bridge Linking Russia to Crimea in Major Setback for Putin",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/Crimea-Bridge-1.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1368112",
+          "author": "Jack Miller",
+          "description": "And why it must be preserved.",
+          "link": "https://www.nationalreview.com/2022/10/how-the-declaration-of-independence-american-dream/",
+          "publishedOn": "2022-10-08T10:30:59.000Z",
+          "wordCount": 7359,
+          "title": "How the Declaration’s American Dream Is Under Attack",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/independence-hall-george-washington.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1368232",
+          "author": "Andrew C. McCarthy",
+          "description": "Why his murder should never have been the focal point of U.S.–Saudi relations.",
+          "link": "https://www.nationalreview.com/2022/10/mythmaking-about-khashoggi-has-disastrously-backfired-on-biden/",
+          "publishedOn": "2022-10-08T10:30:42.000Z",
+          "wordCount": 9899,
+          "title": "Mythmaking about Khashoggi Has Disastrously Backfired on Biden",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/Jamal-Khashoggi-Joe-Biden-MohammedBinSalman-3-split.jpg?fit=1200%2C700"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1368234",
+          "author": "The Editors",
+          "description": "The U.S. should use its energy resources in ways that will not only benefit our economy, but also cut OPEC down to size.",
+          "link": "https://www.nationalreview.com/2022/10/drill-baby-drill/",
+          "publishedOn": "2022-10-08T10:30:35.000Z",
+          "wordCount": 7153,
+          "title": "Drill, Baby, Drill",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2018/11/oil-pumpjacks-texas.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1366748",
+          "author": "Jason Dudash",
+          "description": "Public-employee unions won’t be held responsible even if they commit a felony intended to deceive workers.",
+          "link": "https://www.nationalreview.com/2022/10/should-union-backed-fraud-be-legal/",
+          "publishedOn": "2022-10-08T10:30:28.000Z",
+          "wordCount": 7161,
+          "title": "Should Union-Backed Fraud Be Legal?",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2021/11/seiu-strike.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1367156",
+          "author": "Brian T. Allen",
+          "description": "Like them or not, FDR and Eleanor, emblems of determination and optimism, have lessons for us today.",
+          "link": "https://www.nationalreview.com/2022/10/a-visit-to-fdrs-home-in-hyde-park-finds-good-history-of-grave-times/",
+          "publishedOn": "2022-10-08T10:30:27.000Z",
+          "wordCount": 8854,
+          "title": "A Visit to FDR’s Home in Hyde Park Finds Good History of Grave Times",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/1-Springwood7928-2017-11-16-14-55-24-UTC.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1368462",
+          "author": "Andrew Stuttaford",
+          "description": "The week of October 3, 2022: Britain’s self-inflicted energy woes, inflation, cities and much, much more.",
+          "link": "https://www.nationalreview.com/2022/10/energy-britains-coming-power-struggle/",
+          "publishedOn": "2022-10-08T09:50:32.000Z",
+          "wordCount": 11181,
+          "title": "Energy: Britain’s Coming Power Struggle",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/wind-turbines-redcar-britain.jpg?fit=2057%2C1200"
+        },
+        {
           "id": "https://www.nationalreview.com/?p=1368121",
           "author": "Bethel McGrew",
           "description": "Billy Eichner can’t have his cake and eat it too.",
@@ -4393,36 +4473,6 @@
           "wordCount": 6977,
           "title": "<i>Gutsy</i> and CBS Ballyhoo Partisanship",
           "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/gutsy-hillary-clinton.jpg?fit=1200%2C700"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1337679",
-          "author": "The Editors",
-          "description": "She kept her promise to serve — and did so with skill, sensitivity, and remarkable dedication for three-quarters of a century.",
-          "link": "https://www.nationalreview.com/2022/09/queen-elizabeth-ii-an-extraordinary-life-of-extraordinary-service/",
-          "publishedOn": "2022-09-09T02:27:54.000Z",
-          "wordCount": 6678,
-          "title": "Queen Elizabeth II: An Extraordinary Life of Extraordinary Service",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/QE2-9.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1337520",
-          "author": "Brittany Bernstein",
-          "description": "A new Office of Migrant Services will provide the migrants with temporary accommodations and transportation and meet urgent medical needs.",
-          "link": "https://www.nationalreview.com/news/d-c-mayor-declares-emergency-over-migrant-buses-crisis-certainly-not-of-our-making/",
-          "publishedOn": "2022-09-09T00:24:28.000Z",
-          "wordCount": 6524,
-          "title": "D.C. Mayor Declares Emergency over Migrant Buses: Crisis ‘Certainly Not of Our Making’",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/muriel-bowser-washington-dc-2.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1337379",
-          "author": "Brittany Bernstein",
-          "description": "If the Judge Aileen Cannon does not grant a partial stay, the government will take their case to a federal appeals court.",
-          "link": "https://www.nationalreview.com/news/doj-to-appeal-special-master-ruling-in-trump-case/",
-          "publishedOn": "2022-09-08T21:57:19.000Z",
-          "wordCount": 6413,
-          "title": "DOJ to Appeal Special-Master Ruling in Trump Case",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/08/Trump-Docs.jpg?fit=2057%2C1200"
         }
       ]
     }
