@@ -2,10 +2,90 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mananchong.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-09T07:45:51.278Z</updated>
+    <updated>2022-10-09T17:03:58.161Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mananchong.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://mananchong.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[‘I Know I’m Not the Governor’: Stacey Abrams Acknowledges 2018 Defeat but Insists Election System Unfair]]></title>
+        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1369441</id>
+        <link href="https://www.nationalreview.com/news/stacey-abrams-dismisses-criticism-that-she-did-not-properly-concede-2018-georgia-election/"/>
+        <updated>2022-10-09T16:03:18.000Z</updated>
+        <summary type="html"><![CDATA[Abrams has claimed the 2018 election was ‘stolen from Georgians.’]]></summary>
+        <author>
+            <name>Brittany Bernstein</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Human-Rights Group Reports 185 People Killed in Iran Protests]]></title>
+        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1369400</id>
+        <link href="https://www.nationalreview.com/news/human-rights-group-reports-185-people-killed-in-iran-protests/"/>
+        <updated>2022-10-09T14:50:49.000Z</updated>
+        <summary type="html"><![CDATA[Iranian authorities have dismissed the demonstrations as a plot concocted by their adversaries.]]></summary>
+        <author>
+            <name>Brittany Bernstein</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jill Biden Uses Story of Friend’s Abortion to Criticize ‘Extremist Republicans’]]></title>
+        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1369360</id>
+        <link href="https://www.nationalreview.com/news/jill-biden-uses-story-of-friends-abortion-to-criticize-extremist-republicans/"/>
+        <updated>2022-10-09T13:37:39.000Z</updated>
+        <summary type="html"><![CDATA[The first lady claimed that the GOP will push for more restrictions on abortion now that Roe v. Wade has been overturned.]]></summary>
+        <author>
+            <name>Brittany Bernstein</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Substitute Teacher Fired from Georgia School for Objecting to Gay Parents in Children’s Book]]></title>
+        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1368071</id>
+        <link href="https://www.nationalreview.com/news/substitute-teacher-fired-from-georgia-school-for-objecting-to-gay-themes-in-childrens-book/"/>
+        <updated>2022-10-09T10:30:53.000Z</updated>
+        <summary type="html"><![CDATA[Barr has filed a lawsuit against Bryan County School District leaders, alleging they violated her First Amendment right.]]></summary>
+        <author>
+            <name>Ryan Mills</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Michigan Is Sleepwalking toward Abortion Extremism]]></title>
+        <id>https://www.nationalreview.com/?p=1368748</id>
+        <link href="https://www.nationalreview.com/2022/10/michigan-is-sleepwalking-toward-abortion-extremism/"/>
+        <updated>2022-10-09T10:30:35.000Z</updated>
+        <summary type="html"><![CDATA[And Republicans are neglecting a moral duty and political opportunity.]]></summary>
+        <author>
+            <name>Madeleine Kearns</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Does Fidelity to Our Founding Principles Require Today?]]></title>
+        <id>https://www.nationalreview.com/?p=1369054</id>
+        <link href="https://www.nationalreview.com/2022/10/what-does-fidelity-to-our-founding-principles-require-today/"/>
+        <updated>2022-10-09T10:30:31.000Z</updated>
+        <summary type="html"><![CDATA[The best way to restore America’s principles in 2022 is not to overthrow the government, but to have a nonviolent, bottom-up revolution, starting in the schools.]]></summary>
+        <author>
+            <name>C. Bradley Thompson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Not Over Grover: Reconsidering Cleveland]]></title>
+        <id>https://www.nationalreview.com/?p=1367804</id>
+        <link href="https://www.nationalreview.com/2022/10/not-over-grover-reconsidering-cleveland/"/>
+        <updated>2022-10-09T10:30:23.000Z</updated>
+        <summary type="html"><![CDATA[If political leaders are to preserve and restore the republic Cleveland served, they will need his fearlessness, and that foxy quality he never possessed.]]></summary>
+        <author>
+            <name>Colin Dueck</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Marvelous Deeds of Derring-do]]></title>
+        <id>https://www.nationalreview.com/?p=1368146</id>
+        <link href="https://www.nationalreview.com/2022/10/marvelous-deeds-of-derring-do/"/>
+        <updated>2022-10-09T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The Daring Book for Girls is a practical and playful guide for any type of girl.]]></summary>
+        <author>
+            <name>Sarah Schutte</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Zelensky Claims Russia Beginning to ‘Prepare Its Society’ for Potential Use of Nuclear Weapons]]></title>
         <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1368805</id>
@@ -4359,26 +4439,6 @@ How strongly does German el…]]></summary>
         <summary type="html"><![CDATA[The show sows division, resentment, and PC lies. The High flopped on this one.]]></summary>
         <author>
             <name>Brian T. Allen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[South Carolina Coach Stands by Decision to Shun BYU after Investigation into Racial Incident Turns Up Nothing]]></title>
-        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1338842</id>
-        <link href="https://www.nationalreview.com/news/south-carolina-coach-stands-by-decision-to-shun-byu-after-investigation-into-racial-incident-turns-up-nothing/"/>
-        <updated>2022-09-10T00:16:55.000Z</updated>
-        <summary type="html"><![CDATA[‘I continue to stand by my position. After my personal research, I made a decision for the well-being of my team.’]]></summary>
-        <author>
-            <name>Isaac Schorr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New York College Introduces Critical Race Studies Major for Fall Semester]]></title>
-        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1338669</id>
-        <link href="https://www.nationalreview.com/news/new-york-college-introduces-critical-race-studies-major-for-fall-semester/"/>
-        <updated>2022-09-09T22:33:15.000Z</updated>
-        <summary type="html"><![CDATA[St. John’s University says it is committed to ‘addressing the problems caused by systemic racism and the intersecting forms of oppression that accompany it.’]]></summary>
-        <author>
-            <name>Caroline Downey</name>
         </author>
     </entry>
 </feed>
