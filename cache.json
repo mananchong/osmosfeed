@@ -6,6 +6,16 @@
       "siteUrl": "https://rweekly.org/atom.xml",
       "articles": [
         {
+          "id": "https://rweekly.org/2022-W41.html",
+          "author": null,
+          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Colin Fay, with help from the R Weekly team members and contributors.\nHighlight\nAutomatically deploying a Shiny app for browsing #RStats tweets with GitHub Actions\n6 Productivity Hacks for Quarto\n“Managing Large Codebases in R” webinar\nInsights\nRefactoring Russian Doll Code\n6 Productivity Hacks for Quarto\nR Shiny vs Shiny for Python: What are the Key Differences\nMastering Debugging in R\nR in the Real World\nA Day in Life of an R/Shiny Developer\nR in Organizations\nBuilding stories with data: Crafting a data-driven fundraising campaign\nTeam Collaboration in R and Python Made Easy\nResources\nData Science Scotland: R User Day Talks (Oct. 5, 2022)\nNew Packages\n📦 Go Live for More N…",
+          "link": "https://rweekly.org/2022-W41.html",
+          "publishedOn": "2022-10-10T00:00:00.000Z",
+          "wordCount": 5767,
+          "title": "R Weekly 2022-W41 A Shiny App with Tweets, Quarto Hacks, and",
+          "imageUrl": "https://rweekly.org/public/facebook.png"
+        },
+        {
           "id": "https://rweekly.org/2022-W40.html",
           "author": null,
           "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Eric Nantz, with help from the R Weekly team members and contributors.\nHighlight\nDesign Principles for Data Analysis\n{Unravel} - A fluent code explorer for R\nCase Study: Simulating Environment Change Agents on Species in Canada’s Western Boreal Forests\nInsights\nPerformance Benchmarking Data Read Write\n\nDesign Principles for Data Analysis\nR in the Real World\nHousing Markets Down: Hierarchical Time Series\nR in Academia\nUnderstanding Deviance Residuals\nLeading the Way for New R useRs with Strong Connections To Local Universities\nResources\n5 New books added to Big Book of R\nAugust 2022: “Top 40” New CRAN Packages\nNew Packages\n📦 Go Live for More New Pkgs 📦\nCRAN\n{tabledown} 0.0.…",
@@ -64,6 +74,36 @@
       "feedUrl": "https://www.nationalreview.com/feed/",
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
+        {
+          "id": "https://www.nationalreview.com/?p=1369688",
+          "author": "John Fund",
+          "description": "Dr. Ladapo was an early advocate for the mRNA vaccine. Citing evidence and bucking the ‘consensus,’ he now advises against it for 18- to 39-year-old men.",
+          "link": "https://www.nationalreview.com/2022/10/florida-surgeon-general-florida-will-not-be-silent-on-the-truth/",
+          "publishedOn": "2022-10-10T00:08:21.000Z",
+          "wordCount": 7330,
+          "title": "Florida Surgeon General: ‘Florida Will Not Be Silent on the Truth’",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/joseph-lapado-florida-surgeon-general.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1369676",
+          "author": "Brittany Bernstein",
+          "description": "‘Crime is out of control,’ Zeldin said in a statement. ‘Like so many New Yorkers, crime literally made its way to our front doorstep.’",
+          "link": "https://www.nationalreview.com/news/two-people-shot-outside-gop-representative-lee-zeldins-long-island-home/",
+          "publishedOn": "2022-10-09T23:24:29.000Z",
+          "wordCount": 7023,
+          "title": "Two People Shot Outside GOP Representative Lee Zeldin’s Long Island Home",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2021/04/Lee-Zeldin.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1369579",
+          "author": "Jay Nordlinger",
+          "description": "An interview with Oleksandra Matviichuk, the Ukrainian human-rights lawyer whose organization is a 2022 Nobel peace laureate.",
+          "link": "https://www.nationalreview.com/2022/10/freedom-fighter/",
+          "publishedOn": "2022-10-09T20:35:12.000Z",
+          "wordCount": 8083,
+          "title": "Freedom Fighter",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/oleksandra-2057x1200-1.jpg?fit=2057%2C1200"
+        },
         {
           "id": "https://www.nationalreview.com/?post_type=blog-post&p=1369441",
           "author": "Brittany Bernstein",
@@ -4323,66 +4363,6 @@
           "wordCount": 7381,
           "title": "A Catholic Prayer App for the 21st Century",
           "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/hallow-prayer-app.jpg?fit=1200%2C700"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1339413",
-          "author": "Brittany Bernstein",
-          "description": "The chief justice made his first public remarks since the Court overturned Roe v. Wade.",
-          "link": "https://www.nationalreview.com/news/roberts-disagreement-is-not-a-basis-for-criticizing-supreme-courts-legitimacy/",
-          "publishedOn": "2022-09-10T15:16:10.000Z",
-          "wordCount": 6433,
-          "title": "Roberts: Disagreement Is ‘Not a Basis for Criticizing’ Supreme Court’s Legitimacy",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2021/11/scotus-john-roberts-3.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1339331",
-          "author": "Brittany Bernstein",
-          "description": "The Ukrainian military, which has been largely quiet about its counteroffensive, said that forces have reclaimed more than 386 square miles.",
-          "link": "https://www.nationalreview.com/news/ukrainian-forces-recapture-swaths-of-territory-from-russia-in-northeast-reports/",
-          "publishedOn": "2022-09-10T13:33:28.000Z",
-          "wordCount": 6290,
-          "title": "Ukrainian Forces Recapture Swaths of Territory from Russia in Northeast: Reports",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/russian-ukraine-war-090722-6.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1339300",
-          "author": "Brittany Bernstein",
-          "description": "He delivered his first address as king on Friday, expressing ‘feelings of profound sorrow’ about the death of his mother, Elizabeth II.",
-          "link": "https://www.nationalreview.com/news/king-charles-iii-officially-proclaimed-u-k-s-monarch/",
-          "publishedOn": "2022-09-10T13:02:10.000Z",
-          "wordCount": 6254,
-          "title": "King Charles III Officially Proclaimed U.K.’s Monarch",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/2022-09-10T105805Z_2125421458_RC28EW9FMUUX_RTRMADP_3_BRITAIN-ROYALS-QUEEN-KING-PROCLAMATION.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1338800",
-          "author": "Matthew Lickona",
-          "description": "It’s an imperfectly realized but intelligent and unforced horror thriller.",
-          "link": "https://www.nationalreview.com/2022/09/the-real-barbarian/",
-          "publishedOn": "2022-09-10T10:30:59.000Z",
-          "wordCount": 6835,
-          "title": "The Real ‘Barbarian’",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/barbarian-trailer-youtube.jpg?fit=1200%2C700"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1338495",
-          "author": "Andrew C. McCarthy",
-          "description": "The Russiagate ‘collusion’ context seems conveniently absent.",
-          "link": "https://www.nationalreview.com/2022/09/a-new-salvo-against-the-trump-justice-department/",
-          "publishedOn": "2022-09-10T10:30:58.000Z",
-          "wordCount": 8071,
-          "title": "A New Salvo against the Trump Justice Department",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2020/04/trump-white-house-briefing-2.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1337387",
-          "author": "Brian T. Allen",
-          "description": "The show sows division, resentment, and PC lies. The High flopped on this one.",
-          "link": "https://www.nationalreview.com/2022/09/at-the-high-museum-what-is-left-unspoken-love-lacks-love/",
-          "publishedOn": "2022-09-10T10:30:47.000Z",
-          "wordCount": 9143,
-          "title": "At the High Museum, <i>What Is Left Unspoken, Love</i> Lacks . . . Love",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/1-3B7A2323.jpg?fit=2057%2C1200"
         }
       ]
     }

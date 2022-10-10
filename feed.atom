@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mananchong.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-09T17:03:58.161Z</updated>
+    <updated>2022-10-10T07:59:27.386Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mananchong.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://mananchong.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Florida Surgeon General: ‘Florida Will Not Be Silent on the Truth’]]></title>
+        <id>https://www.nationalreview.com/?p=1369688</id>
+        <link href="https://www.nationalreview.com/2022/10/florida-surgeon-general-florida-will-not-be-silent-on-the-truth/"/>
+        <updated>2022-10-10T00:08:21.000Z</updated>
+        <summary type="html"><![CDATA[Dr. Ladapo was an early advocate for the mRNA vaccine. Citing evidence and bucking the ‘consensus,’ he now advises against it for 18- to 39-year-old men.]]></summary>
+        <author>
+            <name>John Fund</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[R Weekly 2022-W41 A Shiny App with Tweets, Quarto Hacks, and]]></title>
+        <id>https://rweekly.org/2022-W41.html</id>
+        <link href="https://rweekly.org/2022-W41.html"/>
+        <updated>2022-10-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hello and welcome to this new issue!
+How to have (my) content shared by R Weekly?
+This week’s release was curated by Colin Fay, with help from the R Weekly team members and contributors.
+Highlight
+Automatically deploying a Shiny app for browsing #RStats tweets with GitHub Actions
+6 Productivity Hacks for Quarto
+“Managing Large Codebases in R” webinar
+Insights
+Refactoring Russian Doll Code
+6 Productivity Hacks for Quarto
+R Shiny vs Shiny for Python: What are the Key Differences
+Mastering Debugging in R
+R in the Real World
+A Day in Life of an R/Shiny Developer
+R in Organizations
+Building stories with data: Crafting a data-driven fundraising campaign
+Team Collaboration in R and Python Made Easy
+Resources
+Data Science Scotland: R User Day Talks (Oct. 5, 2022)
+New Packages
+📦 Go Live for More N…]]></summary>
+        <author>
+            <name>RWeekly.org - Blogs to Learn R from the Community</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Two People Shot Outside GOP Representative Lee Zeldin’s Long Island Home]]></title>
+        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1369676</id>
+        <link href="https://www.nationalreview.com/news/two-people-shot-outside-gop-representative-lee-zeldins-long-island-home/"/>
+        <updated>2022-10-09T23:24:29.000Z</updated>
+        <summary type="html"><![CDATA[‘Crime is out of control,’ Zeldin said in a statement. ‘Like so many New Yorkers, crime literally made its way to our front doorstep.’]]></summary>
+        <author>
+            <name>Brittany Bernstein</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Freedom Fighter]]></title>
+        <id>https://www.nationalreview.com/?p=1369579</id>
+        <link href="https://www.nationalreview.com/2022/10/freedom-fighter/"/>
+        <updated>2022-10-09T20:35:12.000Z</updated>
+        <summary type="html"><![CDATA[An interview with Oleksandra Matviichuk, the Ukrainian human-rights lawyer whose organization is a 2022 Nobel peace laureate.]]></summary>
+        <author>
+            <name>Jay Nordlinger</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘I Know I’m Not the Governor’: Stacey Abrams Acknowledges 2018 Defeat but Insists Election System Unfair]]></title>
         <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1369441</id>
@@ -4379,66 +4439,6 @@ How strongly does German el…]]></summary>
         <summary type="html"><![CDATA[An interview with the founder of Hallow, who wants to share the Catholic spiritual tradition widely.]]></summary>
         <author>
             <name>Alexandra DeSanctis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Roberts: Disagreement Is ‘Not a Basis for Criticizing’ Supreme Court’s Legitimacy]]></title>
-        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1339413</id>
-        <link href="https://www.nationalreview.com/news/roberts-disagreement-is-not-a-basis-for-criticizing-supreme-courts-legitimacy/"/>
-        <updated>2022-09-10T15:16:10.000Z</updated>
-        <summary type="html"><![CDATA[The chief justice made his first public remarks since the Court overturned Roe v. Wade.]]></summary>
-        <author>
-            <name>Brittany Bernstein</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ukrainian Forces Recapture Swaths of Territory from Russia in Northeast: Reports]]></title>
-        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1339331</id>
-        <link href="https://www.nationalreview.com/news/ukrainian-forces-recapture-swaths-of-territory-from-russia-in-northeast-reports/"/>
-        <updated>2022-09-10T13:33:28.000Z</updated>
-        <summary type="html"><![CDATA[The Ukrainian military, which has been largely quiet about its counteroffensive, said that forces have reclaimed more than 386 square miles.]]></summary>
-        <author>
-            <name>Brittany Bernstein</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[King Charles III Officially Proclaimed U.K.’s Monarch]]></title>
-        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1339300</id>
-        <link href="https://www.nationalreview.com/news/king-charles-iii-officially-proclaimed-u-k-s-monarch/"/>
-        <updated>2022-09-10T13:02:10.000Z</updated>
-        <summary type="html"><![CDATA[He delivered his first address as king on Friday, expressing ‘feelings of profound sorrow’ about the death of his mother, Elizabeth II.]]></summary>
-        <author>
-            <name>Brittany Bernstein</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Real ‘Barbarian’]]></title>
-        <id>https://www.nationalreview.com/?p=1338800</id>
-        <link href="https://www.nationalreview.com/2022/09/the-real-barbarian/"/>
-        <updated>2022-09-10T10:30:59.000Z</updated>
-        <summary type="html"><![CDATA[It’s an imperfectly realized but intelligent and unforced horror thriller.]]></summary>
-        <author>
-            <name>Matthew Lickona</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A New Salvo against the Trump Justice Department]]></title>
-        <id>https://www.nationalreview.com/?p=1338495</id>
-        <link href="https://www.nationalreview.com/2022/09/a-new-salvo-against-the-trump-justice-department/"/>
-        <updated>2022-09-10T10:30:58.000Z</updated>
-        <summary type="html"><![CDATA[The Russiagate ‘collusion’ context seems conveniently absent.]]></summary>
-        <author>
-            <name>Andrew C. McCarthy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[At the High Museum, <i>What Is Left Unspoken, Love</i> Lacks . . . Love]]></title>
-        <id>https://www.nationalreview.com/?p=1337387</id>
-        <link href="https://www.nationalreview.com/2022/09/at-the-high-museum-what-is-left-unspoken-love-lacks-love/"/>
-        <updated>2022-09-10T10:30:47.000Z</updated>
-        <summary type="html"><![CDATA[The show sows division, resentment, and PC lies. The High flopped on this one.]]></summary>
-        <author>
-            <name>Brian T. Allen</name>
         </author>
     </entry>
 </feed>
