@@ -6,6 +6,16 @@
       "siteUrl": "https://rweekly.org/atom.xml",
       "articles": [
         {
+          "id": "https://rweekly.org/2022-W42.html",
+          "author": null,
+          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Kelly Bodwin, with help from the R Weekly team members and contributors.\nHighlight\n{startup} 0.19.0 - Friendly R Startup Configuration\nThe grammar of tables in python (pandas) and R (gt)\nLet’s make maps with bertin.js in Quarto\n\nInsights\nThe grammar of tables in python (pandas) and R (gt)\nR for Machine Learning\nIntroducng the {text} package for language analysis\n\nR in the Real World\nR in Organizations\nR in Academia\nResources\nHow to keep yourself updated with R news\nNew Packages\n📦 Go Live for More New Pkgs 📦\nCRAN\nBioconductor\nGitHub or Bitbucket\n{daiquiri}: Temporal Shifts in record data\nvivainsights\nshinyuieditor (updates)\n\n{deps}: Dependency Management with roxygen-style …",
+          "link": "https://rweekly.org/2022-W42.html",
+          "publishedOn": "2022-10-17T00:00:00.000Z",
+          "wordCount": 5684,
+          "title": "R Weekly 2022-W42 Friendly Rprofile startup, the grammar of tables, and maps in Quarto.",
+          "imageUrl": "https://rweekly.org/public/facebook.png"
+        },
+        {
           "id": "https://rweekly.org/2022-W41.html",
           "author": null,
           "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Colin Fay, with help from the R Weekly team members and contributors.\nHighlight\nAutomatically deploying a Shiny app for browsing #RStats tweets with GitHub Actions\n6 Productivity Hacks for Quarto\n“Managing Large Codebases in R” webinar\nInsights\nRefactoring Russian Doll Code\n6 Productivity Hacks for Quarto\nR Shiny vs Shiny for Python: What are the Key Differences\nMastering Debugging in R\nR in the Real World\nA Day in Life of an R/Shiny Developer\nR in Organizations\nBuilding stories with data: Crafting a data-driven fundraising campaign\nTeam Collaboration in R and Python Made Easy\nResources\nData Science Scotland: R User Day Talks (Oct. 5, 2022)\nNew Packages\n📦 Go Live for More N…",
@@ -64,6 +74,76 @@
       "feedUrl": "https://www.nationalreview.com/feed/",
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1377024",
+          "author": "Caroline Downey",
+          "description": "Ryan accused Vance of associating with unsavory political characters who espouse the conspiracy theory.",
+          "link": "https://www.nationalreview.com/news/vance-blasts-ryan-for-accusing-him-of-peddling-replacement-theory-my-biracial-children-get-attacked/",
+          "publishedOn": "2022-10-18T01:25:50.000Z",
+          "wordCount": 7015,
+          "title": "Vance Blasts Ryan for Accusing Him of Peddling Replacement Theory: ‘My Biracial Children Get Attacked’",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/TimRyanJDVance.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1376965",
+          "author": "Caroline Downey",
+          "description": "‘I will always acknowledge outcomes to elections but will never deny access to every voter,’ she said in response to a moderator’s question.",
+          "link": "https://www.nationalreview.com/news/stacey-abrams-dodges-on-whether-shed-accept-georgia-gubernatorial-election-results/",
+          "publishedOn": "2022-10-18T00:10:17.000Z",
+          "wordCount": 7001,
+          "title": "Stacey Abrams Dodges on Whether She’d Accept Georgia Gubernatorial Election Results",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/stacey-abrams.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1376615",
+          "author": "Caroline Downey",
+          "description": "Republicans have argued the program is illegal and carries a massive price tag.",
+          "link": "https://www.nationalreview.com/news/biden-slams-gop-outrage-over-illegal-student-loan-wipeout-wrong-and-hypocritical/",
+          "publishedOn": "2022-10-17T21:30:14.000Z",
+          "wordCount": 6989,
+          "title": "Biden Slams GOP Outrage over Illegal Student-Loan Wipeout: ‘Wrong and Hypocritical’",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/joe-biden-student-loans.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1376792",
+          "author": "Ryan Bangert",
+          "description": "A Virginia state delegate pushes to the furthest edge of gender-identity radicalism.",
+          "link": "https://www.nationalreview.com/2022/10/anti-parent-virginia-transgender-bill-should-never-have-been-introduced/",
+          "publishedOn": "2022-10-17T20:47:32.000Z",
+          "wordCount": 7675,
+          "title": "Anti-Parent Virginia Transgender Bill Should Never Have Been Introduced",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/elizabeth-guzman-interview.jpg?fit=1200%2C700"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1376736",
+          "author": "Brittany Bernstein",
+          "description": "Hinckley’s admission came during an appearance on Piers Morgan Uncensored.",
+          "link": "https://www.nationalreview.com/news/john-hinckley-jr-admits-responsibility-for-killing-reagan-aide-james-brady/",
+          "publishedOn": "2022-10-17T20:36:52.000Z",
+          "wordCount": 6829,
+          "title": "John Hinckley Jr. Admits Responsibility for Killing Reagan Aide James Brady",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2021/09/hinckley.jpg?fit=2057%2C1157"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1376581",
+          "author": "Isaac Schorr and Brittany Bernstein",
+          "description": "Over the weekend, Fauci claimed to have had ‘nothing to do’ with ensuring that American kids spent months at home.",
+          "link": "https://www.nationalreview.com/news/correcting-faucis-revisionist-history-on-school-closures/",
+          "publishedOn": "2022-10-17T18:39:43.000Z",
+          "wordCount": 8210,
+          "title": "Correcting Fauci’s Revisionist History on School Closures",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/Anthony-Fauci-4.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1376549",
+          "author": "Brittany Bernstein",
+          "description": "Hutchinson has repeatedly said he’s considering running for president and has urged the GOP to move on from Trump.",
+          "link": "https://www.nationalreview.com/news/condoleeza-rice-to-headline-event-for-asa-hutchinson-as-arkansas-governor-teases-2024-presidential-bid/",
+          "publishedOn": "2022-10-17T18:08:20.000Z",
+          "wordCount": 6977,
+          "title": "Condoleezza Rice to Headline Event for Asa Hutchinson as Arkansas Governor Teases 2024 Presidential Bid",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2019/06/condoleezza-rice.jpg?fit=2057%2C1201"
+        },
         {
           "id": "https://www.nationalreview.com/?p=1376527",
           "author": "Andrew C. McCarthy",
@@ -4413,76 +4493,6 @@
           "wordCount": 7551,
           "title": "What’s Wrong with Illegal Immigrants?",
           "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/texas-mexico-border-2.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1350456",
-          "author": "Brittany Bernstein",
-          "description": "Eric Adams called on the governors to coordinate with the federal government and the blue states where they are sending migrants.",
-          "link": "https://www.nationalreview.com/news/nyc-mayor-gop-governors-busing-illegal-immigrants-created-humanitarian-crisis/",
-          "publishedOn": "2022-09-18T15:41:49.000Z",
-          "wordCount": 7374,
-          "title": "NYC Mayor: GOP Governors Busing Illegal Immigrants Created ‘Humanitarian Crisis’",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/03/eric-adams-nyc-mayor.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1350408",
-          "author": "Brittany Bernstein",
-          "description": "Preston Moore said the Good Information Foundation provided him with sample messaging that included false claims about the Trump campaign and the Capitol Riot.",
-          "link": "https://www.nationalreview.com/news/popular-tiktok-lawyer-says-soros-backed-foundation-offered-him-money-for-anti-donald-trump-propaganda-post/",
-          "publishedOn": "2022-09-18T14:11:00.000Z",
-          "wordCount": 7362,
-          "title": "Popular TikTok Lawyer Says Soros-Backed Foundation Offered Money for Anti-Trump ‘Propaganda Post’",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2021/01/donald-trump-electoral-college-count-speech.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1349552",
-          "author": "Richard M. Reinsch II",
-          "description": "A better framework for conducting political life is available to us — if we have the courage to embrace it.",
-          "link": "https://www.nationalreview.com/2022/09/what-the-constitution-can-give-us/",
-          "publishedOn": "2022-09-18T10:30:46.000Z",
-          "wordCount": 8724,
-          "title": "What the Constitution Can Give Us",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/viewing-constitution-national-archives.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1347654",
-          "author": "Jay P. Greene and Frederick M. Hess",
-          "description": "A proper regard for free inquiry and healthy communities dictates that DEI bureaucracies be pared back, reined in, or even dismantled.",
-          "link": "https://www.nationalreview.com/2022/09/its-time-to-roll-back-campus-dei-bureaucracies/",
-          "publishedOn": "2022-09-18T10:30:45.000Z",
-          "wordCount": 8116,
-          "title": "It’s Time to Roll Back Campus DEI Bureaucracies",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2018/08/students-campus-university-of-pennsylvania.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1344785",
-          "author": "Itxu Díaz",
-          "description": "Meet a firm that’s investing in companies based on alignment with church teachings.",
-          "link": "https://www.nationalreview.com/2022/09/a-catholics-answer-to-esg/",
-          "publishedOn": "2022-09-18T10:30:36.000Z",
-          "wordCount": 7789,
-          "title": "A Catholic’s Answer to ESG?",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/borja-barragan-youtube-2.jpg?fit=1200%2C700"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1349897",
-          "author": "Madeleine Kearns",
-          "description": "School surveys have become another means of indoctrination. Parents are right to push back.",
-          "link": "https://www.nationalreview.com/2022/09/why-are-schools-asking-children-about-their-sexual-histories/",
-          "publishedOn": "2022-09-18T10:30:26.000Z",
-          "wordCount": 7321,
-          "title": "Why Are Schools Asking Children about Their Sexual Histories?",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2021/03/classroom-test.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1346328",
-          "author": "Matthew Brazil",
-          "description": "As Washington’s allies struggle to resist Beijing’s worldwide espionage and influence offensive, the U.S. can set an example.",
-          "link": "https://www.nationalreview.com/2022/09/china-is-spying-on-western-europe-heres-how-to-fight-it/",
-          "publishedOn": "2022-09-18T10:30:02.000Z",
-          "wordCount": 8429,
-          "title": "China Is Spying on Western Europe. Here’s How to Fight It",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2018/12/china-president-1.jpg?fit=2057%2C1200"
         }
       ]
     }
