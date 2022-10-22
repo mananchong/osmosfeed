@@ -65,6 +65,86 @@
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
         {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1379938",
+          "author": "Caroline Downey",
+          "description": "The president said he believes voters will still choose Democratic leadership at the ballot box despite record inflation.",
+          "link": "https://www.nationalreview.com/news/biden-dismisses-polls-showing-voters-trust-gop-to-manage-economy-over-dems/",
+          "publishedOn": "2022-10-22T15:32:19.000Z",
+          "wordCount": 7184,
+          "title": "Biden Dismisses Polls Showing Voters Trust GOP to Manage Economy over Dems",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2021/07/joe-biden-ice-cream-11.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1379903",
+          "author": "Caroline Downey",
+          "description": "Video footage suggests Hu Jintao did not willingly leave his seat next to current president Xi Jinping.",
+          "link": "https://www.nationalreview.com/news/former-chinese-president-escorted-out-of-communist-party-congress/",
+          "publishedOn": "2022-10-22T14:22:35.000Z",
+          "wordCount": 7047,
+          "title": "Former Chinese President Escorted Out of Communist Party Congress",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/xi-jinping-hu-jintao.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1379497",
+          "author": "Jerry Hendrix",
+          "description": "The U.S. faces a window of strategic vulnerability unlike any it has experienced in the past two generations.",
+          "link": "https://www.nationalreview.com/2022/10/the-united-states-is-in-a-coffin-corner/",
+          "publishedOn": "2022-10-22T10:30:54.000Z",
+          "wordCount": 8050,
+          "title": "The United States Is in a Coffin Corner",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/u.s.flag_.jpg?fit=1799%2C1050"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1379642",
+          "author": "Matthew Lickona",
+          "description": "Ticket to Paradise is much more interested in the comedy of the rom-com than in the romance, but the setup demands something a little more serious.",
+          "link": "https://www.nationalreview.com/2022/10/is-the-rom-com-dead/",
+          "publishedOn": "2022-10-22T10:30:52.000Z",
+          "wordCount": 7828,
+          "title": "Is the Rom-Com Dead?",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/Ticket-to-Paradise-Screengrab.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1379824",
+          "author": "Jim Towey",
+          "description": "America’s northern neighbor has embraced a culture of death.",
+          "link": "https://www.nationalreview.com/2022/10/maid-in-canada-the-right-to-die/",
+          "publishedOn": "2022-10-22T10:30:51.000Z",
+          "wordCount": 8040,
+          "title": "MAID in Canada: The Right to Die",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/trudeau.jpg?fit=1799%2C1050"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1379600",
+          "author": "Pradheep J. Shanker",
+          "description": "Adding the Covid vaccine to the recommended immunization schedule for children will be an open invitation for states to impose mandates.",
+          "link": "https://www.nationalreview.com/2022/10/the-cdc-and-public-health-fail-us-again/",
+          "publishedOn": "2022-10-22T10:30:23.000Z",
+          "wordCount": 8898,
+          "title": "The CDC and Public Health Fail Us Again",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/Untitled-design-53.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1379309",
+          "author": "Matthew Continetti",
+          "description": "His admonition was necessary.",
+          "link": "https://www.nationalreview.com/2022/10/mike-pence-and-the-republican-future/",
+          "publishedOn": "2022-10-22T10:30:01.000Z",
+          "wordCount": 7957,
+          "title": "Mike Pence and the Republican Future",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/Mike-Pence-2.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1379667",
+          "author": "Andrew C. McCarthy",
+          "description": "The special counsel’s looming report is the only chance the American people will ever get to hold the Clinton campaign and the FBI accountable for Russiagate.",
+          "link": "https://www.nationalreview.com/2022/10/waiting-for-durham/",
+          "publishedOn": "2022-10-22T10:30:00.000Z",
+          "wordCount": 9039,
+          "title": "Waiting for Durham",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/GettyImages-1241097996-John-Durham-1.jpg?fit=2057%2C1200"
+        },
+        {
           "id": "https://www.nationalreview.com/?post_type=blog-post&p=1379796",
           "author": "Brittany Bernstein",
           "description": "The court’s order instructs the Biden administration not to begin canceling student-loan debt as it considers a request for an injunction from six states.",
@@ -4643,36 +4723,6 @@
           "wordCount": 7612,
           "title": "Time for the Senate to Vote on Electoral Count Act Reform",
           "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/chuck-schumer-press.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1354224",
-          "author": "John McCormack",
-          "description": "The fact-checker strains to avoid admitting that Marco Rubio’s argument is correct.",
-          "link": "https://www.nationalreview.com/2022/09/questions-for-glenn-kessler-on-late-term-abortion/",
-          "publishedOn": "2022-09-22T21:08:59.000Z",
-          "wordCount": 7442,
-          "title": "Questions for Glenn Kessler on Late-Term Abortion",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/glenn-kessler-wapo.jpg?fit=1200%2C700"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1354236",
-          "author": "Alexandra DeSanctis",
-          "description": "Abortion supporters wield pseudoscience to explain away human life.",
-          "link": "https://www.nationalreview.com/2022/09/the-fetal-heartbeat-debunking-squad/",
-          "publishedOn": "2022-09-22T20:58:51.000Z",
-          "wordCount": 7779,
-          "title": "The ‘Fetal-Heartbeat Debunking’ Squad",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2021/03/stacey-abrams.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1354164",
-          "author": "Diana Glebova",
-          "description": "Vice President Kamala Harris claimed the border is ‘secure’ in September, despite a record-breaking 2 million arrests at the southern border this fiscal year.",
-          "link": "https://www.nationalreview.com/news/majority-of-americans-think-cartels-control-border-more-than-u-s-government-poll/",
-          "publishedOn": "2022-09-22T20:04:59.000Z",
-          "wordCount": 6765,
-          "title": "Majority of Americans Think Cartels Have More Control Over Border than U.S. Government: Poll",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/texas-mexico-border-2.jpg?fit=2057%2C1200"
         }
       ]
     }
