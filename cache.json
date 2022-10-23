@@ -65,12 +65,22 @@
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
         {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1379974",
+          "author": "Caroline Downey",
+          "description": "She is still recovering from long-term concussion symptoms, including problems with her vision.",
+          "link": "https://www.nationalreview.com/news/female-high-school-volleyball-athlete-suffers-serious-head-injury-after-transgender-player-throws-abnormally-fast-ball/",
+          "publishedOn": "2022-10-22T19:10:21.000Z",
+          "wordCount": 6830,
+          "title": "Female High-School Volleyball Athlete Suffers Serious Head Injury after Transgender Player Throws  ‘Abnormally Fast’ Ball",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/06/transgender-flag.jpg?fit=2057%2C1200"
+        },
+        {
           "id": "https://www.nationalreview.com/?post_type=blog-post&p=1379938",
           "author": "Caroline Downey",
           "description": "The president said he believes voters will still choose Democratic leadership at the ballot box despite record inflation.",
           "link": "https://www.nationalreview.com/news/biden-dismisses-polls-showing-voters-trust-gop-to-manage-economy-over-dems/",
           "publishedOn": "2022-10-22T15:32:19.000Z",
-          "wordCount": 7184,
+          "wordCount": 7033,
           "title": "Biden Dismisses Polls Showing Voters Trust GOP to Manage Economy over Dems",
           "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2021/07/joe-biden-ice-cream-11.jpg?fit=2057%2C1200"
         },
@@ -80,7 +90,7 @@
           "description": "Video footage suggests Hu Jintao did not willingly leave his seat next to current president Xi Jinping.",
           "link": "https://www.nationalreview.com/news/former-chinese-president-escorted-out-of-communist-party-congress/",
           "publishedOn": "2022-10-22T14:22:35.000Z",
-          "wordCount": 7047,
+          "wordCount": 6896,
           "title": "Former Chinese President Escorted Out of Communist Party Congress",
           "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/xi-jinping-hu-jintao.jpg?fit=2057%2C1200"
         },
@@ -90,7 +100,7 @@
           "description": "The U.S. faces a window of strategic vulnerability unlike any it has experienced in the past two generations.",
           "link": "https://www.nationalreview.com/2022/10/the-united-states-is-in-a-coffin-corner/",
           "publishedOn": "2022-10-22T10:30:54.000Z",
-          "wordCount": 8050,
+          "wordCount": 7915,
           "title": "The United States Is in a Coffin Corner",
           "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/u.s.flag_.jpg?fit=1799%2C1050"
         },
@@ -100,7 +110,7 @@
           "description": "Ticket to Paradise is much more interested in the comedy of the rom-com than in the romance, but the setup demands something a little more serious.",
           "link": "https://www.nationalreview.com/2022/10/is-the-rom-com-dead/",
           "publishedOn": "2022-10-22T10:30:52.000Z",
-          "wordCount": 7828,
+          "wordCount": 7693,
           "title": "Is the Rom-Com Dead?",
           "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/Ticket-to-Paradise-Screengrab.jpg?fit=2057%2C1200"
         },
@@ -110,7 +120,7 @@
           "description": "America’s northern neighbor has embraced a culture of death.",
           "link": "https://www.nationalreview.com/2022/10/maid-in-canada-the-right-to-die/",
           "publishedOn": "2022-10-22T10:30:51.000Z",
-          "wordCount": 8040,
+          "wordCount": 7920,
           "title": "MAID in Canada: The Right to Die",
           "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/trudeau.jpg?fit=1799%2C1050"
         },
@@ -120,7 +130,7 @@
           "description": "Adding the Covid vaccine to the recommended immunization schedule for children will be an open invitation for states to impose mandates.",
           "link": "https://www.nationalreview.com/2022/10/the-cdc-and-public-health-fail-us-again/",
           "publishedOn": "2022-10-22T10:30:23.000Z",
-          "wordCount": 8898,
+          "wordCount": 8760,
           "title": "The CDC and Public Health Fail Us Again",
           "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/Untitled-design-53.jpg?fit=2057%2C1200"
         },
@@ -130,7 +140,7 @@
           "description": "His admonition was necessary.",
           "link": "https://www.nationalreview.com/2022/10/mike-pence-and-the-republican-future/",
           "publishedOn": "2022-10-22T10:30:01.000Z",
-          "wordCount": 7957,
+          "wordCount": 7805,
           "title": "Mike Pence and the Republican Future",
           "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/Mike-Pence-2.jpg?fit=2057%2C1200"
         },
@@ -140,7 +150,7 @@
           "description": "The special counsel’s looming report is the only chance the American people will ever get to hold the Clinton campaign and the FBI accountable for Russiagate.",
           "link": "https://www.nationalreview.com/2022/10/waiting-for-durham/",
           "publishedOn": "2022-10-22T10:30:00.000Z",
-          "wordCount": 9039,
+          "wordCount": 8934,
           "title": "Waiting for Durham",
           "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/GettyImages-1241097996-John-Durham-1.jpg?fit=2057%2C1200"
         },
@@ -4583,146 +4593,6 @@
           "wordCount": 7220,
           "title": "Kansas Governor Backtracks after Saying ‘Men Should Not Compete in Girls’ Sports’",
           "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/kelly-1.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1354856",
-          "author": "Bobby Miller",
-          "description": "President Ebrahim Raisi served on Iran’s ‘death committee,’ which killed thousands of civilians in the early years of the Islamic Republic.",
-          "link": "https://www.nationalreview.com/news/pompeo-blasts-biden-administration-for-allowing-butcher-of-iran-to-attend-u-n-meeting/",
-          "publishedOn": "2022-09-23T19:04:02.000Z",
-          "wordCount": 7359,
-          "title": "Pompeo Blasts Biden Administration for Allowing ‘Butcher of Tehran’ to Attend U.N. Meeting",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/pmpeo.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1354921",
-          "author": "Caroline Downey",
-          "description": "The prosecutors said a conviction is unlikely for Gaetz because of doubts over key witness testimony.",
-          "link": "https://www.nationalreview.com/news/charges-unlikely-in-matt-gaetz-sex-trafficking-probe/",
-          "publishedOn": "2022-09-23T18:30:06.000Z",
-          "wordCount": 6850,
-          "title": "Prosecutors Recommend against Charging Matt Gaetz in Sex-Trafficking Probe",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/02/cpac-2022-022622-8.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1344421",
-          "author": "Diana Glebova",
-          "description": "Democrats running in northern Virginia have either voted for legislation that hurts parental rights, or stayed silent on the issue.",
-          "link": "https://www.nationalreview.com/news/northern-virginia-republicans-embrace-youngkin-inspired-education-strategy-for-midterms/",
-          "publishedOn": "2022-09-23T18:28:26.000Z",
-          "wordCount": 7710,
-          "title": "Northern Virginia Republicans Embrace Youngkin-Inspired Education Strategy for Midterms",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/Karina-Lipsman-Jim-Myles-Hung-Cao.jpg?fit=2057%2C1157"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1354836",
-          "author": "Ryan Mills",
-          "description": "Activists are expected to deliver more than 118,000 petitions to the secretary of state in an effort to put the measure on the 2024 ballot.",
-          "link": "https://www.nationalreview.com/news/school-choice-opponents-expected-to-block-arizona-voucher-expansion/",
-          "publishedOn": "2022-09-23T16:59:18.000Z",
-          "wordCount": 7711,
-          "title": "School-Choice Opponents Expected to Block Arizona Voucher Expansion",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/03/doug-ducey-arizona-governor.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1354754",
-          "author": "Caroline Downey",
-          "description": "The Air Force claims that DEI training will foster a ‘warfighter mentality’ among cadets.",
-          "link": "https://www.nationalreview.com/news/air-force-academy-tells-cadets-to-ditch-gendered-terms-like-mom-and-dad/",
-          "publishedOn": "2022-09-23T16:23:45.000Z",
-          "wordCount": 7033,
-          "title": "Air Force Academy Tells Cadets to Ditch Gendered Terms Like ‘Mom’ and ‘Dad’",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/08/f-22-raptor-august2022-33.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1354744",
-          "author": "Jack Fowler",
-          "description": "A fond farewell to a man of consequence who profoundly loved this sweet land of liberty and cared about this little fortnightly journal.",
-          "link": "https://www.nationalreview.com/2022/09/jim-buchwald-a-great-american/",
-          "publishedOn": "2022-09-23T15:34:31.000Z",
-          "wordCount": 8188,
-          "title": "Jim Buchwald, a Great American",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/jim-buchwald-1968-e1663947172309.jpeg?fit=1280%2C720"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1354119",
-          "author": "Caroline Downey",
-          "description": "Progressive student activists have resurrected incidents from Ellis’s UVA years to discredit his nomination.",
-          "link": "https://www.nationalreview.com/news/inside-student-activists-cancel-campaign-against-a-youngkin-appointee-to-uva-board/",
-          "publishedOn": "2022-09-23T14:07:49.000Z",
-          "wordCount": 8503,
-          "title": "Inside Student Activists’ Cancel Campaign against a Youngkin Appointee to UVA Board",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/UVA-Ellis.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1354610",
-          "author": "Caroline Downey",
-          "description": "Governor Youngkin recently changed state policy to ensure parents consent before their child is treated as the opposite sex.",
-          "link": "https://www.nationalreview.com/news/thats-not-fing-true-virginia-lawmakers-clash-over-child-gender-transition/",
-          "publishedOn": "2022-09-23T13:19:48.000Z",
-          "wordCount": 7067,
-          "title": "‘That’s Not F***ing True’: Virginia Lawmakers Clash over Child Gender Transition",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/Youngkin-Spanberger.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1353902",
-          "author": "Pradheep J. Shanker",
-          "description": "There is no widely accepted scientific definition of when a pandemic starts or ends. Ending it is a political decision, and Joe Biden has made it.",
-          "link": "https://www.nationalreview.com/2022/09/is-the-pandemic-over-or-not/",
-          "publishedOn": "2022-09-23T10:30:43.000Z",
-          "wordCount": 8580,
-          "title": "Is the Pandemic Over . . . or Not?",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/05/joe-biden-covid.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1354217",
-          "author": "Armond White",
-          "description": "The showbiz trade press reveals its partisanship.",
-          "link": "https://www.nationalreview.com/2022/09/hollywoods-new-blacklist/",
-          "publishedOn": "2022-09-23T10:30:39.000Z",
-          "wordCount": 7238,
-          "title": "Hollywood’s New Blacklist",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2017/10/harvey-weinsteins-james-tobacks-abuse-women-different-kind-hollywood-scandal.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1354351",
-          "author": "Douglas Carr",
-          "description": "Fortunately for the U.S., Xi continues to mismanage China’s economy.",
-          "link": "https://www.nationalreview.com/2022/09/xi-jinpings-erroneous-path-threatens-the-u-s-and-china/",
-          "publishedOn": "2022-09-23T10:30:38.000Z",
-          "wordCount": 8078,
-          "title": "Xi Jinping’s Erroneous Path Threatens the U.S. and China",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2018/07/xi-jinping-communist-party-congress.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1353990",
-          "author": "Ryan Mills",
-          "description": "The Bay Area’s wastewater treatment plants haven’t been updated in decades, leading to massive fish-killing algae blooms in San Francisco Bay.",
-          "link": "https://www.nationalreview.com/news/wastewater-not-climate-fueled-massive-algae-bloom-in-epicenter-of-supposed-environmentalism/",
-          "publishedOn": "2022-09-23T10:30:36.000Z",
-          "wordCount": 8419,
-          "title": "Wastewater, Not Climate, Fueled Massive Algae Bloom in ‘Epicenter of Supposed Environmentalism’",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/dead-fish-oakland.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1354469",
-          "author": "Michael Brendan Dougherty",
-          "description": "Transgenderism is a form of sacrilege.",
-          "link": "https://www.nationalreview.com/2022/09/who-made-us-this-way/",
-          "publishedOn": "2022-09-23T10:30:33.000Z",
-          "wordCount": 7708,
-          "title": "Who Made Us This Way?",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/trans-protest-boston-childrens-hospital.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1354371",
-          "author": "The Editors",
-          "description": "Senate Republicans have the votes to pass Electoral Count Act reform now — if Chuck Schumer will allow a vote.",
-          "link": "https://www.nationalreview.com/2022/09/time-for-the-senate-to-vote-on-electoral-count-act-reform/",
-          "publishedOn": "2022-09-23T10:30:12.000Z",
-          "wordCount": 7612,
-          "title": "Time for the Senate to Vote on Electoral Count Act Reform",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/chuck-schumer-press.jpg?fit=2057%2C1200"
         }
       ]
     }
