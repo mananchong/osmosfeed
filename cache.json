@@ -65,6 +65,106 @@
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
         {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1380424",
+          "author": "Brittany Bernstein",
+          "description": "A recent found that just 4 percent of Americans believe abortion is the most important problem facing the country today.",
+          "link": "https://www.nationalreview.com/news/bernie-sanders-democrats-should-focus-more-on-inflation-ahead-of-midterms/",
+          "publishedOn": "2022-10-23T15:35:47.000Z",
+          "wordCount": 6853,
+          "title": "Bernie Sanders: Democrats Should Focus More on Inflation ahead of Midterms",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/08/bernie.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1380366",
+          "author": "Brittany Bernstein",
+          "description": "‘I ran twice. I won twice,’ the former president said during a rally in Robstown, Texas.",
+          "link": "https://www.nationalreview.com/news/trump-says-hell-probably-have-to-run-again-in-2024/",
+          "publishedOn": "2022-10-23T14:17:54.000Z",
+          "wordCount": 6708,
+          "title": "Trump Says He’ll ‘Probably Have to’ Run Again in 2024",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2016/10/trump_2_2016.jpg?fit=1600%2C900"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1380329",
+          "author": "Brittany Bernstein",
+          "description": "The Dallas Police chief called the shooting ‘an abhorrent failure of our criminal justice system.’",
+          "link": "https://www.nationalreview.com/news/suspect-in-dallas-hospital-shooting-was-on-parole-had-ankle-monitor/",
+          "publishedOn": "2022-10-23T13:20:19.000Z",
+          "wordCount": 6724,
+          "title": "Suspect In Dallas Hospital Shooting Was on Parole, Had Ankle Monitor",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/methodist-dallas-medical-center.jpeg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1380167",
+          "author": "Andrew Stuttaford",
+          "description": "The week of October 17, 2022: Housing and the new interest rate environment, the Fed, student debt, industrial policy and much, much more.",
+          "link": "https://www.nationalreview.com/2022/10/tremors-housing/",
+          "publishedOn": "2022-10-23T11:33:35.000Z",
+          "wordCount": 10830,
+          "title": "Tremors: Housing",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/Canada-House-Sale.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1379632",
+          "author": "Madeleine Kearns",
+          "description": "What the Marilyn Monroe movie gets right.",
+          "link": "https://www.nationalreview.com/2022/10/the-blonde-abortion-controversy-puts-a-myth-on-trial/",
+          "publishedOn": "2022-10-23T10:30:54.000Z",
+          "wordCount": 7668,
+          "title": "The <em>Blonde</em> Abortion Controversy Puts a Myth on Trial",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/Blonde-Screengrab.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1379416",
+          "author": "Evan Myers",
+          "description": "Progressive mayors pretend to welcome migrants, but it’s churches that actually care for them.",
+          "link": "https://www.nationalreview.com/2022/10/sanctuary-cities-are-failing-actual-sanctuaries-are-stepping-up/",
+          "publishedOn": "2022-10-23T10:30:20.000Z",
+          "wordCount": 8587,
+          "title": "Sanctuary Cities Are Failing — Actual Sanctuaries Are Stepping Up",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/IMG_2799_copy.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1378775",
+          "author": "Sarah Schutte",
+          "description": "S. E. Grove’s clever world-building blends genres and walks the fine line between fantasy and reality.",
+          "link": "https://www.nationalreview.com/2022/10/playing-with-time-in-the-glass-sentence/",
+          "publishedOn": "2022-10-23T10:30:12.000Z",
+          "wordCount": 7753,
+          "title": "Playing with Time in <em>The Glass Sentence</em>",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/The-Glass-Sentence.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1379126",
+          "author": "Samuel J. Abrams",
+          "description": "What is happening in the electorate mirrors what has developed on college and university campuses.",
+          "link": "https://www.nationalreview.com/2022/10/cancel-culture-is-not-just-in-colleges-and-universities/",
+          "publishedOn": "2022-10-23T10:30:12.000Z",
+          "wordCount": 7600,
+          "title": "Cancel Culture Is Not Just in Colleges and Universities",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/argument.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1379011",
+          "author": "Gabriel Scheinmann and Carrie Filipetti",
+          "description": "Americans clearly and overwhelmingly support a foreign policy that maintains the United States’ superpower status.",
+          "link": "https://www.nationalreview.com/2022/10/american-voters-should-not-be-mistaken-for-doves/",
+          "publishedOn": "2022-10-23T10:30:11.000Z",
+          "wordCount": 7588,
+          "title": "American Voters Should Not Be Mistaken for Doves",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/Ukraine-Support.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1379678",
+          "author": "Luther Ray Abel",
+          "description": "Despite the foibles of battery-powered machines, I’ll never go back to gas.",
+          "link": "https://www.nationalreview.com/2022/10/confessions-of-a-lawn-mower-communist/",
+          "publishedOn": "2022-10-23T10:30:03.000Z",
+          "wordCount": 7981,
+          "title": "Confessions of a Lawn-Mower Communist",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/GettyImages-1155573665-Lawn-Mower.jpg?fit=2057%2C1200"
+        },
+        {
           "id": "https://www.nationalreview.com/?post_type=blog-post&p=1379974",
           "author": "Caroline Downey",
           "description": "She is still recovering from long-term concussion symptoms, including problems with her vision.",
@@ -4563,36 +4663,6 @@
           "wordCount": 8681,
           "title": "Will Trump Be Indicted?",
           "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/donald-trump-rally-1.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1355241",
-          "author": "Brittany Bernstein",
-          "description": "The 1901 law bans all abortions, except in cases in which the mother’s life is in jeopardy.",
-          "link": "https://www.nationalreview.com/news/judge-allows-arizonas-near-total-ban-on-abortion-to-take-effect/",
-          "publishedOn": "2022-09-23T23:55:04.000Z",
-          "wordCount": 6886,
-          "title": "Judge Allows Arizona’s Near-Total Ban on Abortion to Take Effect",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2020/06/judge-gavel-getty.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1355102",
-          "author": "Brittany Bernstein",
-          "description": "Hostin’s comments on Friday are far from the first time she has suggested people of color must be Democrats.",
-          "link": "https://www.nationalreview.com/news/the-views-sunny-hostin-suggests-latino-republicans-vote-against-their-self-interest/",
-          "publishedOn": "2022-09-23T21:42:47.000Z",
-          "wordCount": 7034,
-          "title": "<I>The View’s</I> Sunny Hostin Suggests Latino Republicans ‘Vote Against Their Self-Interest’",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/sunny-hostin-the-view-092322.jpg?fit=1200%2C700"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1354999",
-          "author": "Brittany Bernstein",
-          "description": "Kansas governor Laura Kelly attempted to walk back an ad her reelection campaign aired one day earlier in which she said ‘of course men should not compete in girls sports.’",
-          "link": "https://www.nationalreview.com/news/kansas-governor-backtracks-after-saying-men-should-not-compete-in-girls-sports/",
-          "publishedOn": "2022-09-23T19:52:47.000Z",
-          "wordCount": 7220,
-          "title": "Kansas Governor Backtracks after Saying ‘Men Should Not Compete in Girls’ Sports’",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/kelly-1.jpg?fit=2057%2C1200"
         }
       ]
     }
