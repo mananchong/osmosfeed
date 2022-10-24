@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mananchong.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-23T17:05:53.186Z</updated>
+    <updated>2022-10-24T08:02:38.955Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mananchong.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://mananchong.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Ice-Cream-Shop Diaries]]></title>
+        <id>https://www.nationalreview.com/?p=1380811</id>
+        <link href="https://www.nationalreview.com/2022/10/the-ice-cream-shop-diaries/"/>
+        <updated>2022-10-23T23:16:02.000Z</updated>
+        <summary type="html"><![CDATA[Pool reports from the future.]]></summary>
+        <author>
+            <name>Rich Lowry</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Will Polls Now Show Republicans Doing Better?]]></title>
+        <id>https://www.nationalreview.com/?p=1380700</id>
+        <link href="https://www.nationalreview.com/2022/10/why-will-polls-now-show-republicans-doing-better/"/>
+        <updated>2022-10-23T21:27:24.000Z</updated>
+        <summary type="html"><![CDATA[It’s partly because pollsters are changing whom they ask.]]></summary>
+        <author>
+            <name>John Fund</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bernie Sanders: Democrats Should Focus More on Inflation ahead of Midterms]]></title>
         <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1380424</id>
@@ -4671,66 +4691,6 @@ Deali…]]></summary>
         <summary type="html"><![CDATA[Jim Arnosky’s Crinkleroot books can help us to stop and take notice of the beauty surrounding us.]]></summary>
         <author>
             <name>Sarah Schutte</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pro-Life Activist Arrested After SWAT Team Raids Home with Guns Drawn in Front of ‘Screaming’ Children]]></title>
-        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1355544</id>
-        <link href="https://www.nationalreview.com/news/pro-life-activist-arrested-after-swat-team-raids-home-with-guns-drawn-in-front-of-screaming-children/"/>
-        <updated>2022-09-24T17:17:17.000Z</updated>
-        <summary type="html"><![CDATA[Mark Houck, a father of seven, drove two hours every Wednesday to speak outside of abortion clinics for six to eight hours at a time.]]></summary>
-        <author>
-            <name>Diana Glebova</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Michael Avenatti Ordered to Pay Restitution to Stormy Daniels in Fraud Lawsuit]]></title>
-        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1355472</id>
-        <link href="https://www.nationalreview.com/news/michael-avenatti-ordered-to-pay-restitution-to-stormy-daniels-in-fraud-lawsuit/"/>
-        <updated>2022-09-24T14:57:36.000Z</updated>
-        <summary type="html"><![CDATA[Avenatti was convicted of wire fraud and aggravated identity theft in February for stealing nearly $300,000 from Daniels.]]></summary>
-        <author>
-            <name>Diana Glebova</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The ’60s Radicals Have Come to K–12 Schools]]></title>
-        <id>https://www.nationalreview.com/?p=1353896</id>
-        <link href="https://www.nationalreview.com/2022/09/the-60s-radicals-have-come-to-k-12-schools/"/>
-        <updated>2022-09-24T10:30:56.000Z</updated>
-        <summary type="html"><![CDATA[The same ideology underlying the demands of student radicals and the university’s subsequent reformations is now forming and shaping American public schools.]]></summary>
-        <author>
-            <name>Daniel Buck</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Homelessness Isn’t Just a ‘Blue’ Problem]]></title>
-        <id>https://www.nationalreview.com/?p=1349433</id>
-        <link href="https://www.nationalreview.com/2022/09/homelessness-isnt-just-a-blue-problem/"/>
-        <updated>2022-09-24T10:30:48.000Z</updated>
-        <summary type="html"><![CDATA[In the 2020s, urban homelessness will spread from blue cities into red ones.]]></summary>
-        <author>
-            <name>Stephen Eide</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Art Destination in Birmingham]]></title>
-        <id>https://www.nationalreview.com/?p=1354857</id>
-        <link href="https://www.nationalreview.com/2022/09/an-art-destination-in-birmingham/"/>
-        <updated>2022-09-24T10:30:44.000Z</updated>
-        <summary type="html"><![CDATA[From its best-in-the-country collection of Wedgwood pottery to its American art, the Birmingham Museum rewards a visit.]]></summary>
-        <author>
-            <name>Brian T. Allen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Will Trump Be Indicted?]]></title>
-        <id>https://www.nationalreview.com/?p=1355103</id>
-        <link href="https://www.nationalreview.com/2022/09/will-trump-be-indicted/"/>
-        <updated>2022-09-24T10:30:02.000Z</updated>
-        <summary type="html"><![CDATA[He’d have no real defense against an indictment — but bringing one would also likely rob Democrats of the nominee they’d prefer Biden to face in 2024.]]></summary>
-        <author>
-            <name>Andrew C. McCarthy</name>
         </author>
     </entry>
 </feed>
