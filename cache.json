@@ -65,6 +65,106 @@
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
         {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1381241",
+          "author": "Caroline Downey",
+          "description": "The math score disparity between white students and black and Hispanic students worsened.",
+          "link": "https://www.nationalreview.com/news/new-data-show-link-between-school-closures-plummeting-math-scores/",
+          "publishedOn": "2022-10-24T17:10:12.000Z",
+          "wordCount": 7188,
+          "title": "New Data Show Link Between School Closures, Plummeting Math Scores",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/Classroom-1.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1381270",
+          "author": "Ari Blaff",
+          "description": "Yeshiva has now created a new LGBT group, separate from the group that sparked the lawsuit.",
+          "link": "https://www.nationalreview.com/news/yeshiva-university-to-recognize-new-lgbtq-group-as-legal-fight-continues/",
+          "publishedOn": "2022-10-24T15:56:39.000Z",
+          "wordCount": 7474,
+          "title": "Yeshiva University to Recognize New LGBTQ Group as Legal Fight Continues",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/GettyImages-1205092947-Yeshiva.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1381191",
+          "author": "Ari Blaff",
+          "description": "It didn’t. Biden issued an executive order ‘forgiving’ up to $10,000 in student debt for certain individuals.",
+          "link": "https://www.nationalreview.com/news/i-got-it-passed-by-a-vote-or-two-biden-falsely-claims-student-debt-forgiveness-passed-congress/",
+          "publishedOn": "2022-10-24T13:42:33.000Z",
+          "wordCount": 7309,
+          "title": "‘I Got It Passed by a Vote or Two’: Biden Falsely Claims Student-Debt ‘Forgiveness’ Passed Congress",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/Joe-Biden-6.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1381200",
+          "author": "Ari Blaff",
+          "description": "Sunak’s rival Penny Mordaunt withdrew from the Conservative leadership race Monday afternoon.",
+          "link": "https://www.nationalreview.com/news/rishi-sunak-to-become-next-prime-minister-of-u-k/",
+          "publishedOn": "2022-10-24T13:24:11.000Z",
+          "wordCount": 7127,
+          "title": "Rishi Sunak to Become Next Prime Minister of U.K.",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/Rishi-Sunak.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1381162",
+          "author": "Ari Blaff",
+          "description": "NHS will withhold puberty blockers from children except in limited clinical trials.",
+          "link": "https://www.nationalreview.com/news/nhs-warns-most-trans-identifying-children-going-through-transient-phase/",
+          "publishedOn": "2022-10-24T12:30:16.000Z",
+          "wordCount": 7319,
+          "title": "NHS Warns Most Trans-Identifying Children Going Through ‘Transient Phase’",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/GettyImages-1242144749-NHS.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1378201",
+          "author": "Ryan Mills",
+          "description": "Sanna Shere’s father, a Pakistani immigrant, spent everything he had to buy his first Burger King. New regulations threaten everything he’s built.",
+          "link": "https://www.nationalreview.com/news/california-minimum-wage-law-threatens-fast-food-franchise-owners-american-dream/",
+          "publishedOn": "2022-10-24T10:30:48.000Z",
+          "wordCount": 9459,
+          "title": "Fast-Food Law Could Lead to Massive Wage Hikes, Spiraling Inflation in California and Beyond",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2020/06/strike.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1380902",
+          "author": "Kathryn Jean Lopez",
+          "description": "What he has forgotten is only the natural response to the killing of the innocent unborn.",
+          "link": "https://www.nationalreview.com/2022/10/joe-bidens-first-reaction-to-roe-can-help-us/",
+          "publishedOn": "2022-10-24T10:30:42.000Z",
+          "wordCount": 8224,
+          "title": "Joe Biden’s First Reaction to <i>Roe</i> Can Help Us",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2020/07/pro-life.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1380980",
+          "author": "Michael Brendan Dougherty",
+          "description": "It’s time for leaders who are too young to recall ‘Morning in America.’",
+          "link": "https://www.nationalreview.com/2022/10/we-need-a-generational-turnover/",
+          "publishedOn": "2022-10-24T10:30:25.000Z",
+          "wordCount": 7736,
+          "title": "We Need a Generational Turnover",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/biden-schumer-pelosi.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1379443",
+          "author": "The Editors",
+          "description": "In races throughout the country, their candidates embrace late-term abortions.",
+          "link": "https://www.nationalreview.com/2022/10/democrats-double-down-on-abortion-extremism/",
+          "publishedOn": "2022-10-24T10:30:24.000Z",
+          "wordCount": 7762,
+          "title": "Democrats Double Down on Abortion Extremism",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/joe-biden-abortion-signs.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1380845",
+          "author": "Dan McLaughlin",
+          "description": "The examples of Britain and other democratic systems remind us why ours is still the best.",
+          "link": "https://www.nationalreview.com/2022/10/the-american-way-still-beats-parliamentary-government/",
+          "publishedOn": "2022-10-24T10:30:21.000Z",
+          "wordCount": 8510,
+          "title": "The American Way Still Beats Parliamentary Government",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/BidenTruss-2.jpg?fit=2057%2C1200"
+        },
+        {
           "id": "https://www.nationalreview.com/?p=1380811",
           "author": "Rich Lowry",
           "description": "Pool reports from the future.",
