@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mananchong.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-25T07:59:51.671Z</updated>
+    <updated>2022-10-25T17:32:21.804Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mananchong.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://mananchong.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[DeSantis Endorsed by Charlie Crist’s Ex-Chief of Staff, Other Former Aides]]></title>
+        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1381939</id>
+        <link href="https://www.nationalreview.com/news/desantis-endorsed-by-charlie-crists-ex-chief-of-staff-other-former-aides/"/>
+        <updated>2022-10-25T15:13:12.000Z</updated>
+        <summary type="html"><![CDATA[George LeMieux endorsed DeSantis despite Crist having appointed him to the U.S. Senate in 2009.]]></summary>
+        <author>
+            <name>Isaac Schorr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hillary Clinton Warns MAGA Republicans Have ‘Plan to Steal the Next Presidential Election’]]></title>
+        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1381906</id>
+        <link href="https://www.nationalreview.com/news/hillary-clinton-warns-maga-republicans-have-plan-to-steal-the-next-presidential-election/"/>
+        <updated>2022-10-25T14:36:12.000Z</updated>
+        <summary type="html"><![CDATA[Democratic fundraising arms have poured money into election-denying MAGA candidates as a long-game strategy.]]></summary>
+        <author>
+            <name>Caroline Downey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adidas Ends Deal with Kanye West over Antisemitic Remarks]]></title>
+        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1381860</id>
+        <link href="https://www.nationalreview.com/news/adidas-ends-deal-with-kanye-west-over-antisemitic-remarks/"/>
+        <updated>2022-10-25T13:01:58.000Z</updated>
+        <summary type="html"><![CDATA[Adidas shares dropped 4 percent in early morning trading after the decision was announced.]]></summary>
+        <author>
+            <name>Caroline Downey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adults Failed the Children of the Pandemic]]></title>
+        <id>https://www.nationalreview.com/?p=1381583</id>
+        <link href="https://www.nationalreview.com/2022/10/adults-failed-the-children-of-the-pandemic/"/>
+        <updated>2022-10-25T10:30:14.000Z</updated>
+        <summary type="html"><![CDATA[School shutdowns did enormous damage to the education of young people. A system-wide reckoning is in order.]]></summary>
+        <author>
+            <name>The Editors</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The CDC’s Premature Childhood-Vaccine Decision]]></title>
+        <id>https://www.nationalreview.com/?p=1381534</id>
+        <link href="https://www.nationalreview.com/2022/10/the-cdcs-premature-childhood-vaccine-decision/"/>
+        <updated>2022-10-25T10:30:08.000Z</updated>
+        <summary type="html"><![CDATA[The CDC has proven once again how tone-deaf it is.]]></summary>
+        <author>
+            <name>Joel Zinberg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Don’t Follow Xi’s CCP Playbook]]></title>
+        <id>https://www.nationalreview.com/?p=1381674</id>
+        <link href="https://www.nationalreview.com/2022/10/dont-follow-xis-ccp-playbook/"/>
+        <updated>2022-10-25T10:30:06.000Z</updated>
+        <summary type="html"><![CDATA[The self-serving, time-tested strategy features four powerful components.]]></summary>
+        <author>
+            <name>Therese Shaheen</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[White House Tries to Clean Up Biden’s False Claim on Student-Loan Forgiveness]]></title>
         <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1381641</id>
@@ -4713,34 +4773,6 @@ CRAN
         <summary type="html"><![CDATA[On ‘Christian nationalism’; timeouts and intermissions; the immortal Ferris Bueller; and more.]]></summary>
         <author>
             <name>Jay Nordlinger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[R Weekly 2022-W39 Actions, Collaborations, and Logging]]></title>
-        <id>https://rweekly.org/2022-W39.html</id>
-        <link href="https://rweekly.org/2022-W39.html"/>
-        <updated>2022-09-26T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Hello and welcome to this new issue!
-How to have (my) content shared by R Weekly?
-This week’s release was curated by Jonathan Carroll, with help from the RWeekly team members and contributors.
-Highlight
-Deploy Flexdashboard on Github Pages with Github Actions and Docker
-GitHub - The Perks of Collaboration and Version Control
-
-API as a package: Logging
-Insights
-GitHub - The Perks of Collaboration and Version Control
-Presenting results for multinomial logistic regression: a marginal approach using propensity scores
-API as a package: Logging
-101st TokyoR Meetup Roundup: Palmer penguins, fractal analysis, and more!
-Predict the status of #TidyTuesday Bigfoot sightings
-Announcing the 2022 Table Contest
-rOpenSci News Digest, September 2022
-Announcing the rOpenSci Champions Program!
-Cover Up
-Deali…]]></summary>
-        <author>
-            <name>RWeekly.org - Blogs to Learn R from the Community</name>
         </author>
     </entry>
 </feed>

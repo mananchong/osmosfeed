@@ -34,16 +34,6 @@
           "wordCount": 6196,
           "title": "R Weekly 2022-W40 Data Analysis Principles, Code Explorer, and Simulating Enviornment Change",
           "imageUrl": "https://rweekly.org/public/facebook.png"
-        },
-        {
-          "id": "https://rweekly.org/2022-W39.html",
-          "author": null,
-          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Jonathan Carroll, with help from the RWeekly team members and contributors.\nHighlight\nDeploy Flexdashboard on Github Pages with Github Actions and Docker\nGitHub - The Perks of Collaboration and Version Control\n\nAPI as a package: Logging\nInsights\nGitHub - The Perks of Collaboration and Version Control\nPresenting results for multinomial logistic regression: a marginal approach using propensity scores\nAPI as a package: Logging\n101st TokyoR Meetup Roundup: Palmer penguins, fractal analysis, and more!\nPredict the status of #TidyTuesday Bigfoot sightings\nAnnouncing the 2022 Table Contest\nrOpenSci News Digest, September 2022\nAnnouncing the rOpenSci Champions Program!\nCover Up\nDeali…",
-          "link": "https://rweekly.org/2022-W39.html",
-          "publishedOn": "2022-09-26T00:00:00.000Z",
-          "wordCount": 6202,
-          "title": "R Weekly 2022-W39 Actions, Collaborations, and Logging",
-          "imageUrl": "https://rweekly.org/public/facebook.png"
         }
       ]
     },
@@ -64,6 +54,66 @@
       "feedUrl": "https://www.nationalreview.com/feed/",
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1381939",
+          "author": "Isaac Schorr",
+          "description": "George LeMieux endorsed DeSantis despite Crist having appointed him to the U.S. Senate in 2009.",
+          "link": "https://www.nationalreview.com/news/desantis-endorsed-by-charlie-crists-ex-chief-of-staff-other-former-aides/",
+          "publishedOn": "2022-10-25T15:13:12.000Z",
+          "wordCount": 6873,
+          "title": "DeSantis Endorsed by Charlie Crist’s Ex-Chief of Staff, Other Former Aides",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/desantis.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1381906",
+          "author": "Caroline Downey",
+          "description": "Democratic fundraising arms have poured money into election-denying MAGA candidates as a long-game strategy.",
+          "link": "https://www.nationalreview.com/news/hillary-clinton-warns-maga-republicans-have-plan-to-steal-the-next-presidential-election/",
+          "publishedOn": "2022-10-25T14:36:12.000Z",
+          "wordCount": 7173,
+          "title": "Hillary Clinton Warns MAGA Republicans Have ‘Plan to Steal the Next Presidential Election’",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/clinton.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1381860",
+          "author": "Caroline Downey",
+          "description": "Adidas shares dropped 4 percent in early morning trading after the decision was announced.",
+          "link": "https://www.nationalreview.com/news/adidas-ends-deal-with-kanye-west-over-antisemitic-remarks/",
+          "publishedOn": "2022-10-25T13:01:58.000Z",
+          "wordCount": 6990,
+          "title": "Adidas Ends Deal with Kanye West over Antisemitic Remarks",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/Kanye-West-2.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1381583",
+          "author": "The Editors",
+          "description": "School shutdowns did enormous damage to the education of young people. A system-wide reckoning is in order.",
+          "link": "https://www.nationalreview.com/2022/10/adults-failed-the-children-of-the-pandemic/",
+          "publishedOn": "2022-10-25T10:30:14.000Z",
+          "wordCount": 7172,
+          "title": "Adults Failed the Children of the Pandemic",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/08/randi-weingarten.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1381534",
+          "author": "Joel Zinberg",
+          "description": "The CDC has proven once again how tone-deaf it is.",
+          "link": "https://www.nationalreview.com/2022/10/the-cdcs-premature-childhood-vaccine-decision/",
+          "publishedOn": "2022-10-25T10:30:08.000Z",
+          "wordCount": 7247,
+          "title": "The CDC’s Premature Childhood-Vaccine Decision",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/child-covid-shot.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1381674",
+          "author": "Therese Shaheen",
+          "description": "The self-serving, time-tested strategy features four powerful components.",
+          "link": "https://www.nationalreview.com/2022/10/dont-follow-xis-ccp-playbook/",
+          "publishedOn": "2022-10-25T10:30:06.000Z",
+          "wordCount": 8603,
+          "title": "Don’t Follow Xi’s CCP Playbook",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/xi-jinping-ccp-congress.jpg?fit=2057%2C1200"
+        },
         {
           "id": "https://www.nationalreview.com/?post_type=blog-post&p=1381641",
           "author": "Isaac Schorr",
