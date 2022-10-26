@@ -55,6 +55,136 @@
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
         {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1382851",
+          "author": "Caroline Downey",
+          "description": "Darrell Brooks was convicted of all 76 counts leveled against him.",
+          "link": "https://www.nationalreview.com/news/darrell-brooks-found-guilty-of-first-degree-murder-in-waukesha-parade-massacre/",
+          "publishedOn": "2022-10-26T16:51:28.000Z",
+          "wordCount": 6913,
+          "title": "Darrell Brooks Found Guilty of First-Degree Murder in Waukesha Parade Massacre",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/Darrell-Brooks.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1382832",
+          "author": "Andrew C. McCarthy",
+          "description": "Beneath the midterm din, the president is inching toward an unsatisfactory solution to a thorny problem we’ve wrestled with for the last two decades.",
+          "link": "https://www.nationalreview.com/2022/10/biden-administration-quietly-negotiates-plea-deal-with-9-11-terrorists/",
+          "publishedOn": "2022-10-26T16:00:07.000Z",
+          "wordCount": 7919,
+          "title": "Biden Administration Quietly Negotiates Plea Deal with 9/11 Terrorists",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/biden-1.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1382820",
+          "author": "Charles C. W. Cooke",
+          "description": "A simple comparison of their rhetoric to their actions proves it.",
+          "link": "https://www.nationalreview.com/2022/10/democrats-dont-actually-believe-democracy-is-at-stake-in-the-midterms/",
+          "publishedOn": "2022-10-26T15:48:01.000Z",
+          "wordCount": 7737,
+          "title": "Democrats Don’t Actually Believe Democracy Is at Stake in the Midterms",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/democracy.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1382817",
+          "author": "Ryan Mills",
+          "description": "Rubio argued the media’s coverage of the attack is indicative of bias, as many outlets have questioned whether the attack was political.",
+          "link": "https://www.nationalreview.com/news/police-make-second-arrest-in-brutal-beating-of-rubio-canvasser-victim-maintains-attack-was-politically-motivated/",
+          "publishedOn": "2022-10-26T15:34:36.000Z",
+          "wordCount": 7527,
+          "title": "Police Make Second Arrest in Brutal Beating of Rubio Canvasser; Victim Maintains Attack was Politically Motivated",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/rubio-supporter.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1382686",
+          "author": "Caroline Downey",
+          "description": "A House Republican report found that 65 percent of violent offenses were either discarded by Krasner’s office or thrown out by the court.",
+          "link": "https://www.nationalreview.com/news/pennsylvania-house-gop-to-file-articles-of-impeachment-against-progressive-philadelphia-da-larry-krasner/",
+          "publishedOn": "2022-10-26T14:27:26.000Z",
+          "wordCount": 7182,
+          "title": "Pennsylvania House GOP to File Articles of Impeachment against Progressive Philadelphia DA Larry Krasner",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/06/larry-krasner-philadelphia-da.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1382711",
+          "author": "Dan McLaughlin",
+          "description": "The red wave is building in the headline statewide races for Senate and governor.",
+          "link": "https://www.nationalreview.com/2022/10/how-the-campaigns-are-breaking-two-weeks-out/",
+          "publishedOn": "2022-10-26T14:09:42.000Z",
+          "wordCount": 7844,
+          "title": "How the Campaigns Are Breaking, Two Weeks Out",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/laxalt.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1382600",
+          "author": "Caroline Downey",
+          "description": "The judge claimed DeSantis’s office had been wrongfully delaying the production of public records.",
+          "link": "https://www.nationalreview.com/news/florida-judge-orders-desantis-to-submit-migrant-flight-documents/",
+          "publishedOn": "2022-10-26T12:28:25.000Z",
+          "wordCount": 7085,
+          "title": "Florida Judge Orders DeSantis to Submit Migrant-Flight Documents",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/Ron-DeSantis-3.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1381937",
+          "author": "Doug Bandow",
+          "description": "Xi Jinping’s regime is the world’s worst human-rights abuser — but weakening its repressive grip on its citizens is no simple task.",
+          "link": "https://www.nationalreview.com/2022/10/how-do-you-solve-a-problem-like-china/",
+          "publishedOn": "2022-10-26T10:30:28.000Z",
+          "wordCount": 8644,
+          "title": "How Do You Solve a Problem Like China?",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2018/01/china-surveillance-state-technology-used-curtail-freedom-1.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1382024",
+          "author": "Wayne Crews",
+          "description": "Government coercion is not the source or protector of the humanitarian values progressives claim to champion.",
+          "link": "https://www.nationalreview.com/2022/10/the-threat-from-bidens-whole-of-government-regulatory-approach/",
+          "publishedOn": "2022-10-26T10:30:24.000Z",
+          "wordCount": 7539,
+          "title": "The Threat from Biden’s ‘Whole of Government’ Regulatory Approach",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/joe-biden-white-house-4.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1382416",
+          "author": "Michael Brendan Dougherty",
+          "description": "It’s appropriate for Republican members of Congress to speak up for the majority of Republicans who don’t think we’ve been doing too little for Ukraine.",
+          "link": "https://www.nationalreview.com/2022/10/how-deep-is-americas-commitment-to-ukraine/",
+          "publishedOn": "2022-10-26T10:30:15.000Z",
+          "wordCount": 8171,
+          "title": "How Deep Is America’s Commitment to Ukraine?",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/kevin-mccarthy-capitol-hill.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1382270",
+          "author": "Corey DeAngelis and Michael Hartney",
+          "description": "New data from the Nation’s Report Card reveal kids suffered more academically in states that closed public schools longer.",
+          "link": "https://www.nationalreview.com/2022/10/voters-should-demand-accountability-for-school-closures/",
+          "publishedOn": "2022-10-26T10:30:11.000Z",
+          "wordCount": 7449,
+          "title": "Voters Should Demand Accountability for School Closures",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/06/classroom.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1381955",
+          "author": "The Editors",
+          "description": "His task is to ensure that the country can weather hard times without going through another financial crisis.",
+          "link": "https://www.nationalreview.com/2022/10/sunaks-turn/",
+          "publishedOn": "2022-10-26T10:30:06.000Z",
+          "wordCount": 7456,
+          "title": "Sunak’s Turn",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/rishi-sunak-10-downing.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1382323",
+          "author": "Armond White",
+          "description": "A cynical satire to impress Hollywood Marxists",
+          "link": "https://www.nationalreview.com/2022/10/the-delusional-triangle-of-sadness/",
+          "publishedOn": "2022-10-26T10:30:01.000Z",
+          "wordCount": 7452,
+          "title": "The Delusional <i>Triangle of Sadness</i>",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/triangle-of-sadness-woody-harrelson.jpg?fit=1200%2C700"
+        },
+        {
           "id": "https://www.nationalreview.com/?post_type=blog-post&p=1382286",
           "author": "Brittany Bernstein",
           "description": "Fetterman’s answers were punctuated by repetition and long pauses as he struggled to express himself in the wake of a stroke.",
@@ -4623,46 +4753,6 @@
           "wordCount": 8572,
           "title": "The Surprising Relationship between Economics and Theology",
           "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/AdamSmithDavidHumeFrancisHutcheson.jpg?fit=1200%2C700"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1356847",
-          "author": "Caroline Downey",
-          "description": "The broad market index slumped over 20 percent from its most recent high in January.",
-          "link": "https://www.nationalreview.com/news/dow-enters-bear-market-as-stock-prices-plummet/",
-          "publishedOn": "2022-09-26T21:28:31.000Z",
-          "wordCount": 6939,
-          "title": "Dow Enters Bear Market as Stock Prices Plummet",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/nyse-092622.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1356813",
-          "author": "Diana Glebova",
-          "description": "‘In threatening form, after nearly breaking down the family’s front door, at least five agents pointed guns at Mark’s head,’ he said.",
-          "link": "https://www.nationalreview.com/news/lawyer-for-pro-life-protester-arrested-by-fbi-says-client-offered-to-surrender-claims-doj-trying-to-intimidate-people-of-faith/",
-          "publishedOn": "2022-09-26T20:14:12.000Z",
-          "wordCount": 7445,
-          "title": "Lawyer for Pro-Life Protester Arrested by FBI Says Client Offered to Surrender, Claims DOJ Trying to ‘Intimidate People of Faith’",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/Mark-Houck-Screengrab.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1356790",
-          "author": "Brittany Bernstein",
-          "description": "Hawley questioned why the pro-choice extremists responsible for the wave of vandalism at pregnancy centers have not been arrested.",
-          "link": "https://www.nationalreview.com/news/hawley-demands-answers-from-garland-after-fbi-arrests-pro-life-activist-in-swat-style-raid/",
-          "publishedOn": "2022-09-26T20:10:46.000Z",
-          "wordCount": 7469,
-          "title": "Hawley Demands Answers from Garland after FBI Arrests Pro-Life Activist in ‘SWAT-Style’ Raid",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/Untitled-design-5-1.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1356806",
-          "author": "Dominic Pino",
-          "description": "The industry that was supposedly making too much money not that long ago is now a leading indicator of a possible downturn.",
-          "link": "https://www.nationalreview.com/2022/09/transportation-woes-warn-of-recession/",
-          "publishedOn": "2022-09-26T19:57:35.000Z",
-          "wordCount": 7616,
-          "title": "Transportation Woes Warn of Recession",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/02/container-ships-los-angeles-2021.jpg?fit=2057%2C1200"
         }
       ]
     }
