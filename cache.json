@@ -55,6 +55,86 @@
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
         {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1384105",
+          "author": "Ari Blaff",
+          "description": "‘We’ve never proactively said anything about Russia’s possible use of nuclear weapons,’ he also claimed.",
+          "link": "https://www.nationalreview.com/news/world-on-brink-of-most-dangerous-decade-since-wwii-putin-warns/",
+          "publishedOn": "2022-10-28T02:12:36.000Z",
+          "wordCount": 7129,
+          "title": "World on Brink of Most Dangerous Decade Since WWII, Putin Warns",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/vladimir-putin-1.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1384120",
+          "author": "Ari Blaff",
+          "description": "‘The reason I acquired Twitter is because it is important to the future of civilization to have a common digital town square.’",
+          "link": "https://www.nationalreview.com/news/elon-musk-takes-over-twitter-on-thursday-fires-top-execs/",
+          "publishedOn": "2022-10-28T02:03:37.000Z",
+          "wordCount": 7214,
+          "title": "Elon Musk Takes Over Twitter, Fires Top Execs",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/07/Elon-Musk-5.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1384069",
+          "author": "Rich Lowry",
+          "description": "And other ridiculous Fetterman spin.",
+          "link": "https://www.nationalreview.com/2022/10/fetterman-wasnt-transparent-for-showing-up-at-a-debate-he-couldnt-dodge/",
+          "publishedOn": "2022-10-28T00:18:59.000Z",
+          "wordCount": 7725,
+          "title": "Fetterman Wasn’t ‘Transparent’ for Showing Up at a Debate He Couldn’t Dodge",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/john-fetterman-mehmet-oz-debate.jpg?fit=1200%2C700"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1384002",
+          "author": "Ari Blaff",
+          "description": "Gisele Fetterman’s comments were an attempt to contextualize why she and her husband own a mansion that Oz alleged Fetterman had received for a dollar.",
+          "link": "https://www.nationalreview.com/news/fettermans-wife-calls-swimming-in-america-very-racist/",
+          "publishedOn": "2022-10-27T23:45:51.000Z",
+          "wordCount": 6272,
+          "title": "Fetterman’s Wife Calls Swimming in America ‘Very Racist’",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/giselle-fetterman-1.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1383952",
+          "author": "Dan McLaughlin",
+          "description": "Lee made some bad judgments during Trump’s effort to overturn the 2020 election, but he is an honorable conservative, and McMullin isn’t.",
+          "link": "https://www.nationalreview.com/2022/10/mike-lee-is-a-better-man-than-evan-mcmullin/",
+          "publishedOn": "2022-10-27T22:06:29.000Z",
+          "wordCount": 9742,
+          "title": "Mike Lee Is a Better Man Than Evan McMullin",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/MikeLee-EvanMcMullin.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1383834",
+          "author": "Ryan Mills",
+          "description": "Unionville-Chadds Ford School District leaders are refusing to explain where they derived the authority to shutter classrooms and require masks.",
+          "link": "https://www.nationalreview.com/news/pennsylvania-school-district-stonewalls-state-lawmaker-demanding-answers-on-covid-lockdowns-mask-mandates/",
+          "publishedOn": "2022-10-27T21:12:09.000Z",
+          "wordCount": 8832,
+          "title": "Pennsylvania School District Stonewalls State Lawmaker Demanding Answers on Covid Shutdowns, Mask Mandates",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2021/01/empty-classroom.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1383817",
+          "author": "Luther Ray Abel",
+          "description": "At a campaign stop in a picturesque Wisconsin town, Mandela Barnes makes the usual progressive promises.",
+          "link": "https://www.nationalreview.com/2022/10/down-with-the-rich-up-with-abortion/",
+          "publishedOn": "2022-10-27T19:48:32.000Z",
+          "wordCount": 7680,
+          "title": "Down with the Rich, Up with Abortion",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/mandelabarnes1.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1383775",
+          "author": "Ari Blaff",
+          "description": "A Wednesday earnings report revealed that the company had experienced its second consecutive quarter of declining revenue.",
+          "link": "https://www.nationalreview.com/news/zuckerberg-sheds-billions-as-meta-stock-nosedives/",
+          "publishedOn": "2022-10-27T18:38:57.000Z",
+          "wordCount": 7179,
+          "title": "Zuckerberg Sheds Billions as Meta Stock Nosedives",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/02/mark-zuckerberg-capitol-hill.jpg?fit=2057%2C1200"
+        },
+        {
           "id": "https://www.nationalreview.com/?p=1383716",
           "author": "Dominic Pino",
           "description": "The U2 lead singer and activist is realizing that what the world needs is free markets.",
@@ -4633,146 +4713,6 @@
           "wordCount": 6962,
           "title": "Fetterman Removes ‘Black Lives Matter’ Section from Campaign Website",
           "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/Untitled-design-19.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1358680",
-          "author": "Diana Glebova",
-          "description": "Madison’s flute was specifically handcrafted for him by a French watchmaker in honor of his inauguration.",
-          "link": "https://www.nationalreview.com/news/lizzo-twerks-on-stage-with-james-madisons-1813-crystal-flute/",
-          "publishedOn": "2022-09-28T19:26:34.000Z",
-          "wordCount": 6739,
-          "title": "Lizzo Twerks on Stage with James Madison’s 1813 Crystal Flute",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/Untitled-design-16.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1358632",
-          "author": "Caroline Downey",
-          "description": "Meloni railed against the progressive forces seeking to dismantle the family, religion, and the Italian nation.",
-          "link": "https://www.nationalreview.com/news/youtube-removes-italian-prime-minister-melonis-passionate-speech-on-family-breakdown/",
-          "publishedOn": "2022-09-28T19:19:44.000Z",
-          "wordCount": 6942,
-          "title": "YouTube Removes Incoming Italian Prime Minister Meloni’s Passionate Speech on Family Breakdown",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/Untitled-design-15.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1358659",
-          "author": "Jimmy Quinn",
-          "description": "As a key CCP meeting looms, a top Taiwanese official sounds the alarm about ‘Chinese totalitarianism.’",
-          "link": "https://www.nationalreview.com/2022/09/taiwanese-official-warns-china-poses-unprecedented-threat-to-free-world-as-xi-consolidates-power/",
-          "publishedOn": "2022-09-28T18:44:19.000Z",
-          "wordCount": 7601,
-          "title": "Taiwanese Official Warns China Poses ‘Unprecedented Threat’ to Free World as Xi Consolidates Power",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/xi-jinping.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1358518",
-          "author": "John McCormack and Brittany Bernstein",
-          "description": "It’s a close race, but Senator Johnson has at least a few things working in his favor.",
-          "link": "https://www.nationalreview.com/2022/09/why-wisconsin-could-be-the-most-important-senate-race-in-the-country/",
-          "publishedOn": "2022-09-28T17:42:53.000Z",
-          "wordCount": 8660,
-          "title": "Why Wisconsin Could Be the Most Important Senate Race in the Country",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/Untitled-design-13.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1358541",
-          "author": "Caroline Downey",
-          "description": "The Kentucky swimmer will join Senator Paul in an ad campaign to protect women’s sports in the state.",
-          "link": "https://www.nationalreview.com/news/swimmer-who-raced-lia-thomas-says-upenn-team-members-thanked-her-for-speaking-out/",
-          "publishedOn": "2022-09-28T17:36:01.000Z",
-          "wordCount": 6849,
-          "title": "Swimmer Who Raced Lia Thomas Says UPenn Team Members Thanked Her for Speaking Out",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/Riley-Gaines.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1358542",
-          "author": "Diana Glebova",
-          "description": "Biden issued a statement on Walorski’s passing at the time of her death.",
-          "link": "https://www.nationalreview.com/news/wheres-jackie-biden-searches-for-deceased-congresswoman-in-crowd/",
-          "publishedOn": "2022-09-28T17:21:13.000Z",
-          "wordCount": 6730,
-          "title": "‘Where’s Jackie?’: Biden Searches for Deceased Congresswoman in Crowd",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/Joe-Biden-80.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1358527",
-          "author": "Charles C. W. Cooke",
-          "description": "The bureau is a violent, expansionist, self-aggrandizing, and careless outfit that sits awkwardly within the American constitutional order.",
-          "link": "https://www.nationalreview.com/2022/09/the-case-for-dismantling-the-fbi/",
-          "publishedOn": "2022-09-28T17:00:53.000Z",
-          "wordCount": 7873,
-          "title": "The Case for Dismantling the FBI",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2020/01/matt-gaetz-hearing.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1358347",
-          "author": "Diana Glebova",
-          "description": "‘This is going to be a nasty, nasty day,’ DeSantis warned.",
-          "link": "https://www.nationalreview.com/news/life-threatening-hurricane-ian-surges-to-category-four-as-it-nears-florida-coast/",
-          "publishedOn": "2022-09-28T13:19:16.000Z",
-          "wordCount": 6554,
-          "title": "‘Life-Threatening’ Hurricane Ian Surges to Category Four as It Nears Florida Coast",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/hurricane-ian-092822-15.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1357847",
-          "author": "Armond White",
-          "description": "How Kim K explains Olivia Wilde’s anxiety fantasy.",
-          "link": "https://www.nationalreview.com/2022/09/dont-trust-dont-worry-darling/",
-          "publishedOn": "2022-09-28T10:30:23.000Z",
-          "wordCount": 7257,
-          "title": "Don’t Trust <i>Don’t Worry Darling</i>",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/dont-worry-darling-pugh-styles.jpg?fit=1200%2C700"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1357658",
-          "author": "Donna King",
-          "description": "N.C. governor Roy Cooper wants to bypass the state legislature and let California consultants dictate state policy. The state supreme court must stop him.",
-          "link": "https://www.nationalreview.com/2022/09/north-carolina-governors-assault-on-separation-of-powers/",
-          "publishedOn": "2022-09-28T10:30:17.000Z",
-          "wordCount": 7615,
-          "title": "North Carolina Governor’s Assault on Separation of Powers",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2018/12/roy-cooper-north-carolina.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1357741",
-          "author": "Brittany Bernstein",
-          "description": "Barnes’s flirtation with the ‘defund the police’ movement as lieutenant governor may cost him in a cycle defined by crime.",
-          "link": "https://www.nationalreview.com/news/mandela-barness-soft-on-crime-history-may-haunt-him-in-wisconsin-senate-race/",
-          "publishedOn": "2022-09-28T10:30:16.000Z",
-          "wordCount": 8561,
-          "title": "Mandela Barnes’s Soft-on-Crime History May Haunt Him in Wisconsin Senate Race",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/mandela-barnes.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1357972",
-          "author": "The Editors",
-          "description": "Despite the state’s decisive lean left, Christine Drazan is a serious contender for governor of the deep-blue state.",
-          "link": "https://www.nationalreview.com/2022/09/oregons-republican-hope-2/",
-          "publishedOn": "2022-09-28T10:30:09.000Z",
-          "wordCount": 7262,
-          "title": "Oregon’s Republican Hope",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/christine-drazan-koin-youtube.jpg?fit=1200%2C700"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1357740",
-          "author": "Jennifer J. Schulp",
-          "description": "The agency should formalize rules for crypto and revise onerous climate-risk regulation before causing more business uncertainty.",
-          "link": "https://www.nationalreview.com/2022/09/the-secs-consistent-ambiguity/",
-          "publishedOn": "2022-09-28T10:30:04.000Z",
-          "wordCount": 7502,
-          "title": "The SEC’s Consistent Ambiguity",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2021/09/gary-gensler-capitol-hill.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1358188",
-          "author": "Michael Brendan Dougherty",
-          "description": "Realism means admitting that our leadership is unworthy, deluded, and stupid.",
-          "link": "https://www.nationalreview.com/2022/09/vlad-and-me/",
-          "publishedOn": "2022-09-28T10:30:02.000Z",
-          "wordCount": 7713,
-          "title": "Vlad and Me",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2021/12/vladimir-putin-generals-1.jpg?fit=2057%2C1200"
         }
       ]
     }
