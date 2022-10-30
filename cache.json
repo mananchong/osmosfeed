@@ -55,6 +55,86 @@
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
         {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1385164",
+          "author": "Brittany Bernstein",
+          "description": "While Republicans are likely to take control of the House, the future of the evenly divided Senate has been less certain.",
+          "link": "https://www.nationalreview.com/news/rick-scott-predicts-gop-will-win-at-least-52-senate-seats-in-midterms/",
+          "publishedOn": "2022-10-30T15:43:15.000Z",
+          "wordCount": 7087,
+          "title": "Rick Scott Predicts GOP Will Win at Least 52 Senate Seats in Midterms",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/02/senator-rick-scott.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1385136",
+          "author": "Brittany Bernstein",
+          "description": "A U.S. District Court in Seattle found the city’s dress code violated the Equal Protection clauses of the U.S. and Washington state constitutions.",
+          "link": "https://www.nationalreview.com/news/federal-judge-strikes-down-dress-code-that-required-bikini-baristas-to-cover-up/",
+          "publishedOn": "2022-10-30T15:06:36.000Z",
+          "wordCount": 7043,
+          "title": "Federal Judge Strikes Down Dress Code That Required Bikini Baristas to Cover Up",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/2007-09-26T120000Z_16925639_GM1DWFUNXPAA_RTRMADP_3_AUSTRALIA.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1385123",
+          "author": "Brittany Bernstein",
+          "description": "The House speaker said that her husband’s ‘condition continues to improve’ following the assault.",
+          "link": "https://www.nationalreview.com/news/pelosi-says-her-family-is-heartbroken-and-traumatized-after-attack-on-husband/",
+          "publishedOn": "2022-10-30T13:05:35.000Z",
+          "wordCount": 7319,
+          "title": "Pelosi Says Her Family Is ‘Heartbroken and Traumatized’ after Attack on Husband",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/Paul-Pelosi-and-Nancy.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1384484",
+          "author": "James Piereson and Naomi Schaefer Riley",
+          "description": "Progressive philanthropies are driving a wedge between nonprofits and the folks who want to support them.",
+          "link": "https://www.nationalreview.com/2022/10/are-woke-foundations-killing-real-philanthropy-with-big-donations/",
+          "publishedOn": "2022-10-30T10:30:42.000Z",
+          "wordCount": 7661,
+          "title": "Are Woke Foundations Killing Real Philanthropy with Big Donations?",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/GettyImages-671377160-WK-Kellogg.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1384523",
+          "author": "Robert Zubrin",
+          "description": "Save the birds. Save the grid. Save the planet.",
+          "link": "https://www.nationalreview.com/2022/10/launch-the-wind-turbines-into-orbit/",
+          "publishedOn": "2022-10-30T10:30:16.000Z",
+          "wordCount": 7380,
+          "title": "Launch the Wind Turbines into Orbit",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/Windmills.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1384463",
+          "author": "Will Swaim",
+          "description": "What Republican gubernatorial nominee Brian Dahle could have said in his debate against Gavin Newsom, but didn’t.",
+          "link": "https://www.nationalreview.com/2022/10/we-wont-save-california-like-this/",
+          "publishedOn": "2022-10-30T10:30:12.000Z",
+          "wordCount": 8502,
+          "title": "We Won’t Save California Like This",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/Newsom-Dahle-Debate.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1378224",
+          "author": "Adam M. Carrington",
+          "description": "It shows how our community can be haunted by monsters, both internal and external, human and supernatural.",
+          "link": "https://www.nationalreview.com/2022/10/why-shakespeares-macbeth-is-a-political-horror-story-fit-for-halloween/",
+          "publishedOn": "2022-10-30T10:30:11.000Z",
+          "wordCount": 7519,
+          "title": "Why Shakespeare’s <i>Macbeth</i> Is a Political Horror Story Fit for Halloween",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/GettyImages-92831818-Macbeth.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1384600",
+          "author": "Madeleine Kearns",
+          "description": "And perhaps also peak depravity.",
+          "link": "https://www.nationalreview.com/2022/10/a-lewd-public-stunt-is-peak-trans/",
+          "publishedOn": "2022-10-30T10:30:09.000Z",
+          "wordCount": 7510,
+          "title": "A Lewd Public Stunt Is ‘Peak Trans’",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/Jordan-Gray.jpg?fit=2057%2C1200"
+        },
+        {
           "id": "https://www.nationalreview.com/?post_type=blog-post&p=1385024",
           "author": "Brittany Bernstein",
           "description": "‘If Lee Zeldin gets into office, New York will become a law-and-order state, and he will be a law-and-order governor.’",
@@ -4623,46 +4703,6 @@
           "wordCount": 7572,
           "title": "A Rap Triumph with Conservative Appeal",
           "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/round-here.jpg?fit=1200%2C700"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1361450",
-          "author": "Andrew Stuttaford",
-          "description": "The week of September 26, 2022: The ongoing ESG debate, regulation, China, the budget, and much, much more.",
-          "link": "https://www.nationalreview.com/2022/09/to-be-anti-esg-is-to-be-against-free-market-capitalism-not-so-much/",
-          "publishedOn": "2022-10-01T00:23:59.000Z",
-          "wordCount": 10532,
-          "title": "To Be Anti-ESG Is to Be against Free Market Capitalism? Not So Much.",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2020/10/wall-street.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1361506",
-          "author": "Caroline Downey",
-          "description": "The judge agreed with the Catholic school that the teacher violated her employment contract.",
-          "link": "https://www.nationalreview.com/news/federal-court-rules-for-catholic-school-that-fired-teacher-in-same-sex-union/",
-          "publishedOn": "2022-09-30T23:22:34.000Z",
-          "wordCount": 6801,
-          "title": "Federal Court Rules for Catholic School That Fired Teacher in Same-Sex Union",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/roncalli-high-school-facebook.jpg?fit=1200%2C700"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1361335",
-          "author": "Caroline Downey",
-          "description": "‘We have a shortage of workers in our country,’ argued Pelosi.",
-          "link": "https://www.nationalreview.com/news/nancy-pelosi-argues-red-states-should-let-illegal-immigrants-stay-to-pick-the-crops/",
-          "publishedOn": "2022-09-30T20:57:30.000Z",
-          "wordCount": 6736,
-          "title": "Nancy Pelosi Argues Red States Should Let Illegal Immigrants Stay to ‘Pick the Crops’",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/pelosi.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1361349",
-          "author": "Nate Hochman",
-          "description": "‘Here in McAllen, that’s what we did too — we bused them or assisted them to go where they want to go.’",
-          "link": "https://www.nationalreview.com/2022/09/hispanic-mayor-of-texas-city-fine-with-governor-abbotts-migrant-busing/",
-          "publishedOn": "2022-09-30T20:15:38.000Z",
-          "wordCount": 7269,
-          "title": "Hispanic Mayor of Texas City ‘Fine’ with Governor Abbott’s Migrant-Busing",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2019/07/humanitarian-respite-center-mcallen-texas.jpg?fit=2057%2C1200"
         }
       ]
     }
