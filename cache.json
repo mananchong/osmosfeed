@@ -6,6 +6,16 @@
       "siteUrl": "https://rweekly.org/atom.xml",
       "articles": [
         {
+          "id": "https://rweekly.org/2022-W44.html",
+          "author": null,
+          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Sam Parmar, with help from the R Weekly team members and contributors.\nHighlight\nAre you Data Scientists or Software Developers?!\nUnderstanding ShinyApps\nTidyX Episode 121: Tell me what you want - user submitted data\nInsights\n“Wait, I’m a developer?”: Reflections on developing #Rstats functions\nDiving into dependen-“sea”: How CRAN packages are interconnected\nAre you Data Scientists or Software Developers?!\nAlternatives to paired bar charts\nNBA teams Posters using R and Bash\nDiscrete Fourier Transform - with torch\nUnderstanding ShinyApps\n\nUnderstanding the Basics of Package Writing in R\nR, its license and my take on it\n\nTop 5 Shiny UI Add-On Packages\n\nQuartaki: 6 hour introdu…",
+          "link": "https://rweekly.org/2022-W44.html",
+          "publishedOn": "2022-10-31T00:00:00.000Z",
+          "wordCount": 6317,
+          "title": "R Weekly 2022-W44 Data Scientists or Software Developers, Understanding Shiny, and New TidyX",
+          "imageUrl": "https://rweekly.org/public/facebook.png"
+        },
+        {
           "id": "https://rweekly.org/2022-W42.html",
           "author": null,
           "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Kelly Bodwin, with help from the R Weekly team members and contributors.\nHighlight\n{startup} 0.19.0 - Friendly R Startup Configuration\nThe grammar of tables in python (pandas) and R (gt)\nLet’s make maps with bertin.js in Quarto\n\nInsights\nThe grammar of tables in python (pandas) and R (gt)\nR for Machine Learning\nIntroducng the {text} package for language analysis\n\nR in the Real World\nR in Organizations\nR in Academia\nResources\nHow to keep yourself updated with R news\nNew Packages\n📦 Go Live for More New Pkgs 📦\nCRAN\nBioconductor\nGitHub or Bitbucket\n{daiquiri}: Temporal Shifts in record data\nvivainsights\nshinyuieditor (updates)\n\n{deps}: Dependency Management with roxygen-style …",
@@ -54,6 +64,106 @@
       "feedUrl": "https://www.nationalreview.com/feed/",
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1385609",
+          "author": "Ari Blaff",
+          "description": "Immediately after completing his $44 billion acquisition of Twitter, Musk fired several senior executives, including CEO Parag Agrawal.",
+          "link": "https://www.nationalreview.com/news/musk-disbands-twitter-board-appoints-himself-sole-director/",
+          "publishedOn": "2022-10-31T17:08:09.000Z",
+          "wordCount": 6415,
+          "title": "Musk Disbands Twitter Board, Appoints Himself ‘Sole Director’",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/ElonMuskTwitter.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1385593",
+          "author": "Michael Brendan Dougherty",
+          "description": "‘Forget everything, learn nothing’ is a bad way to ensure accountability for our institutions.",
+          "link": "https://www.nationalreview.com/2022/10/a-pandemic-amnesty-hell-no/",
+          "publishedOn": "2022-10-31T17:06:20.000Z",
+          "wordCount": 7850,
+          "title": "A ‘Pandemic Amnesty’? Hell, No",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/01/Anthony-Fauci-2.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1385523",
+          "author": "Jack Salmon",
+          "description": "The assumption that rates would remain low forever encouraged policy-makers to borrow and spend freely. Now, the bills are coming due.",
+          "link": "https://www.nationalreview.com/2022/10/how-a-decade-of-low-interest-rates-fueled-reckless-government-spending/",
+          "publishedOn": "2022-10-31T14:56:06.000Z",
+          "wordCount": 7680,
+          "title": "How a Decade of Low Interest Rates Fueled Reckless Government Spending",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/yellen-1.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1385507",
+          "author": "Michael Brendan Dougherty",
+          "description": "Progressives do not regret anything about the censorship of social media.",
+          "link": "https://www.nationalreview.com/2022/10/they-have-no-remorse/",
+          "publishedOn": "2022-10-31T14:45:36.000Z",
+          "wordCount": 7509,
+          "title": "They Have No Remorse",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2021/06/IMG_0286.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1385468",
+          "author": "Brittany Bernstein",
+          "description": "The Court is set to hear oral arguments on Monday in two cases that center on the use of race as a factor in college admissions.",
+          "link": "https://www.nationalreview.com/news/dozens-of-major-u-s-companies-urge-supreme-court-to-uphold-race-based-college-admissions/",
+          "publishedOn": "2022-10-31T13:08:13.000Z",
+          "wordCount": 7254,
+          "title": "Dozens of Major U.S. Companies Urge Supreme Court to Uphold Race-Based College Admissions",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/Supreme-Court-10.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1384483",
+          "author": "John B. Daukas",
+          "description": "Justice Roberts is right: The way to stop discrimination on the basis of race is to stop discriminating on the basis of race.",
+          "link": "https://www.nationalreview.com/2022/10/the-supreme-courts-chance-to-end-racial-discrimination-in-college-admissions/",
+          "publishedOn": "2022-10-31T10:30:48.000Z",
+          "wordCount": 9846,
+          "title": "The Supreme Court’s Chance to End Racial Discrimination in College Admissions",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2018/06/john-roberts-scotus-south.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1382012",
+          "author": "Mike Fichter",
+          "description": "The state’s historic abortion limitations have been held up by a spurious legal challenge, but those who speak for the voiceless will ultimately prevail.",
+          "link": "https://www.nationalreview.com/2022/10/a-legal-challenge-wont-defeat-indiana-pro-lifers/",
+          "publishedOn": "2022-10-31T10:30:40.000Z",
+          "wordCount": 8007,
+          "title": "A Legal Challenge Won’t Defeat Indiana Pro-Lifers",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/08/pro-life-indianapolis.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1384417",
+          "author": "Tomas J. Philipson",
+          "description": "Rather than continuing the trend toward governmentalization of care, conservatives need to stand for a free-market alternative.",
+          "link": "https://www.nationalreview.com/2022/10/on-health-care-the-gop-needs-a-supply-side-approach-with-better-messengers/",
+          "publishedOn": "2022-10-31T10:30:11.000Z",
+          "wordCount": 7867,
+          "title": "On Health Care, the GOP Needs a Supply-Side Approach with Better Messengers",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2020/10/doctor-patient-stethoscope.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1385409",
+          "author": "Kathryn Jean Lopez",
+          "description": "Not alone, they must be trend-setters.",
+          "link": "https://www.nationalreview.com/2022/10/after-roe-the-catholic-university-of-america-seeks-to-lead-the-way/",
+          "publishedOn": "2022-10-31T10:30:08.000Z",
+          "wordCount": 7838,
+          "title": "After <i>Roe</i>, the Catholic University of America Seeks to Lead the Way",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/catholic-university-statue-920.jpg?fit=920%2C537"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1385391",
+          "author": "The Editors",
+          "description": "A republic dedicated to liberty needs not just a free media, but media institutions that are themselves dedicated to free expression.",
+          "link": "https://www.nationalreview.com/2022/10/elon-musk-and-the-third-era-of-social-media/",
+          "publishedOn": "2022-10-31T10:30:03.000Z",
+          "wordCount": 7412,
+          "title": "Elon Musk and the Third Era of Social Media",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/ElonMuskTwitter.jpg?fit=2057%2C1200"
+        },
         {
           "id": "https://www.nationalreview.com/?p=1385340",
           "author": "Rich Lowry",
