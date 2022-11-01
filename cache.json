@@ -34,16 +34,6 @@
           "wordCount": 5767,
           "title": "R Weekly 2022-W41 A Shiny App with Tweets, Quarto Hacks, and",
           "imageUrl": "https://rweekly.org/public/facebook.png"
-        },
-        {
-          "id": "https://rweekly.org/2022-W40.html",
-          "author": null,
-          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Eric Nantz, with help from the R Weekly team members and contributors.\nHighlight\nDesign Principles for Data Analysis\n{Unravel} - A fluent code explorer for R\nCase Study: Simulating Environment Change Agents on Species in Canada’s Western Boreal Forests\nInsights\nPerformance Benchmarking Data Read Write\n\nDesign Principles for Data Analysis\nR in the Real World\nHousing Markets Down: Hierarchical Time Series\nR in Academia\nUnderstanding Deviance Residuals\nLeading the Way for New R useRs with Strong Connections To Local Universities\nResources\n5 New books added to Big Book of R\nAugust 2022: “Top 40” New CRAN Packages\nNew Packages\n📦 Go Live for More New Pkgs 📦\nCRAN\n{tabledown} 0.0.…",
-          "link": "https://rweekly.org/2022-W40.html",
-          "publishedOn": "2022-10-03T00:00:00.000Z",
-          "wordCount": 6196,
-          "title": "R Weekly 2022-W40 Data Analysis Principles, Code Explorer, and Simulating Enviornment Change",
-          "imageUrl": "https://rweekly.org/public/facebook.png"
         }
       ]
     },
@@ -64,6 +54,96 @@
       "feedUrl": "https://www.nationalreview.com/feed/",
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
+        {
+          "id": "https://www.nationalreview.com/?p=1386253",
+          "author": "Dan McLaughlin",
+          "description": "Some Republicans are riding the wave, while others are hoping the polls are wrong enough that the tide brings them in.",
+          "link": "https://www.nationalreview.com/2022/11/how-the-campaigns-are-breaking-entering-the-final-week/",
+          "publishedOn": "2022-11-01T15:40:37.000Z",
+          "wordCount": 8028,
+          "title": "How the Campaigns Are Breaking Entering the Final Week",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2019/01/mike-lee.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1386282",
+          "author": "Brittany Bernstein",
+          "description": "Roberts’s order comes just days before Trump was set to turn over his tax records to the House Ways and Means Committee.",
+          "link": "https://www.nationalreview.com/news/chief-justice-roberts-temporarily-blocks-release-of-trumps-tax-returns/",
+          "publishedOn": "2022-11-01T14:28:57.000Z",
+          "wordCount": 6932,
+          "title": "Chief Justice Roberts Temporarily Blocks Release of Trump’s Tax Returns",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/trump-roberts.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1386217",
+          "author": "Brittany Bernstein",
+          "description": "‘This is a case where a corporation has privately funded the destruction of human rights with obscene profits,’ the employees wrote in an open letter.",
+          "link": "https://www.nationalreview.com/news/penguin-random-house-brushes-off-employee-objections-to-amy-coney-barretts-book-deal/",
+          "publishedOn": "2022-11-01T13:05:12.000Z",
+          "wordCount": 7247,
+          "title": "Penguin Random House Brushes Off Employee Objections to Amy Coney Barrett’s Book Deal",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2020/10/barrett-2.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1385589",
+          "author": "Bobby Miller",
+          "description": "Two recent incidents of antisemitic hate have been met with a yawn from university administrators.",
+          "link": "https://www.nationalreview.com/2022/11/george-washington-universitys-shameful-response-to-campus-antisemitism/",
+          "publishedOn": "2022-11-01T10:30:53.000Z",
+          "wordCount": 7633,
+          "title": "George Washington University’s Shameful Response to Campus Antisemitism",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/gwu-gate.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1385651",
+          "author": "Ari Blaff",
+          "description": "The SAFE-T Act goes further than any previous law in eliminating cash bail without any backstops, prosecutors told NR.",
+          "link": "https://www.nationalreview.com/news/illinois-prosecutors-predict-real-tragedy-if-unprecedented-bail-reform-law-takes-effect/",
+          "publishedOn": "2022-11-01T10:30:52.000Z",
+          "wordCount": 9697,
+          "title": "Illinois Prosecutors Predict ‘Real Tragedy’ If Unprecedented Bail-Reform Law Takes Effect",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/04/illinois-governor-pritzker.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1385847",
+          "author": "W. Bradford Wilcox and Riley Peterson",
+          "description": "One more reason why the new conventional wisdom on divorce is dead wrong.",
+          "link": "https://www.nationalreview.com/2022/11/divorce-makes-kids-more-vulnerable-to-getting-hurt-online/",
+          "publishedOn": "2022-11-01T10:30:45.000Z",
+          "wordCount": 8045,
+          "title": "Divorce Makes Kids More Vulnerable to Getting Hurt Online",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2021/10/teenager-smartphone.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1385548",
+          "author": "Jay Nordlinger",
+          "description": "On the 2022 Nobel Peace Prize, given to a Belarusian political prisoner, a Russian organization, and a Ukrainian organization.",
+          "link": "https://www.nationalreview.com/2022/11/peace-prize-freedom-prize/",
+          "publishedOn": "2022-11-01T10:30:33.000Z",
+          "wordCount": 18548,
+          "title": "Peace Prize, Freedom Prize",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/Matviychuk.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1385560",
+          "author": "Richard Morrison",
+          "description": "U.S. corporations didn’t just start becoming concerned with profits sometime around 1980.",
+          "link": "https://www.nationalreview.com/2022/11/american-corporations-havent-changed-economists-have/",
+          "publishedOn": "2022-11-01T10:30:29.000Z",
+          "wordCount": 8099,
+          "title": "American Corporations Haven’t Changed. Economists Have",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2018/08/wall-street-bull.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1386035",
+          "author": "The Editors",
+          "description": "Having whiffed on this question for more than half a century, the justices should take the opportunity they have been afforded and put the matter to bed.",
+          "link": "https://www.nationalreview.com/2022/11/supreme-court-has-another-chance-to-get-it-right-on-affirmative-action/",
+          "publishedOn": "2022-11-01T10:30:25.000Z",
+          "wordCount": 7335,
+          "title": "Supreme Court Has Another Chance to Get It Right on Affirmative Action",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2020/09/Supreme-Court-1.jpg?fit=2057%2C1200"
+        },
         {
           "id": "https://www.nationalreview.com/?p=1386068",
           "author": "Ramesh Ponnuru",
@@ -4763,16 +4843,6 @@
           "wordCount": 7865,
           "title": "One Season after a Blockbuster, the Supreme Court Readies Another Important Term",
           "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/scotus-sun.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1363068",
-          "author": "John Fund",
-          "description": "From ancient Rome to Richard Nixon, anti-inflation nostrums are proven quackery.",
-          "link": "https://www.nationalreview.com/2022/10/bidens-economic-policies-borrow-from-the-failed-past/",
-          "publishedOn": "2022-10-02T23:38:07.000Z",
-          "wordCount": 7525,
-          "title": "Biden’s Economic Policies Borrow from the Failed Past",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/joe-biden-white-house.jpg?fit=2057%2C1200"
         }
       ]
     }
