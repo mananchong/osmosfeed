@@ -2,10 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mananchong.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-02T17:09:17.721Z</updated>
+    <updated>2022-11-03T07:40:50.886Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mananchong.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://mananchong.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Biden Links Pelosi Attack to January 6: Rioters Said ‘Those Very Same Words’]]></title>
+        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1387349</id>
+        <link href="https://www.nationalreview.com/news/biden-links-pelosi-attack-to-january-6-rioters-said-those-very-same-words/"/>
+        <updated>2022-11-03T00:04:45.000Z</updated>
+        <summary type="html"><![CDATA[The president said ‘democracy itself’ is at stake in the upcoming midterm elections.]]></summary>
+        <author>
+            <name>Caroline Downey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Judge Sentences Parkland School Shooter to Life in Prison after Tearful Testimonies]]></title>
+        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1387284</id>
+        <link href="https://www.nationalreview.com/news/judge-sentences-parkland-school-shooter-to-life-in-prison-after-tearful-testimonies/"/>
+        <updated>2022-11-02T21:48:27.000Z</updated>
+        <summary type="html"><![CDATA[The shooter pleaded guilty in October 2021 to 17 counts of murder.]]></summary>
+        <author>
+            <name>Caroline Downey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Man Charged over Death Threats against Illinois GOP Gubernatorial Candidate: Report]]></title>
+        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1387286</id>
+        <link href="https://www.nationalreview.com/news/man-charged-over-death-threats-against-illinois-gop-gubernatorial-candidate-report/"/>
+        <updated>2022-11-02T21:31:36.000Z</updated>
+        <summary type="html"><![CDATA[He was charged with felony counts for threatening a public official, harassment by electronic communications, and telephone harassment.]]></summary>
+        <author>
+            <name>Ari Blaff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Democrats on Defense in Key Senate Races One Week Out from Election]]></title>
+        <id>https://www.nationalreview.com/?p=1387164</id>
+        <link href="https://www.nationalreview.com/2022/11/democrats-on-defense-in-key-senate-races-one-week-out-from-election/"/>
+        <updated>2022-11-02T20:23:41.000Z</updated>
+        <summary type="html"><![CDATA[In four of those five contests most likely to determine control of the upper chamber, incumbent Democratic senators are playing defense.]]></summary>
+        <author>
+            <name>John McCormack and Brittany Bernstein</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[White House Deletes Tweet Bragging about Social Security Increase after Inflation Fact Check]]></title>
+        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1387188</id>
+        <link href="https://www.nationalreview.com/news/white-house-deletes-claim-of-ten-year-record-increase-in-social-security-under-biden/"/>
+        <updated>2022-11-02T20:13:41.000Z</updated>
+        <summary type="html"><![CDATA[Elon Musk, who recently finalized his acquisition of Twitter, touted the fact check.]]></summary>
+        <author>
+            <name>Caroline Downey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fourth Consecutive Fed Hike Drives Interest Rates to Highest Point Since 2008]]></title>
+        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1387104</id>
+        <link href="https://www.nationalreview.com/news/fourth-consecutive-fed-hike-drives-interest-rates-to-highest-point-since-2008/"/>
+        <updated>2022-11-02T18:34:18.000Z</updated>
+        <summary type="html"><![CDATA[The Fed funds rate was increased by 75 basis points for the fourth consecutive time.]]></summary>
+        <author>
+            <name>Caroline Downey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What to Make of North Korea’s Latest Missile Barrage]]></title>
+        <id>https://www.nationalreview.com/?p=1387081</id>
+        <link href="https://www.nationalreview.com/2022/11/what-to-make-of-north-koreas-latest-missile-barrage/"/>
+        <updated>2022-11-02T18:04:30.000Z</updated>
+        <summary type="html"><![CDATA[Taking advantage of U.S. weakness, Pyongyang is growing bolder, and strengthening alliances with Russia and China.]]></summary>
+        <author>
+            <name>Rebeccah Heinrichs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Liz Cheney Praises Pelosi, Claims GOP House Majority Would Not Be ‘Good For the Country’]]></title>
         <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1387008</id>
@@ -4762,166 +4832,6 @@ New Packages
         <summary type="html"><![CDATA[‘This is one of the kinds of research that may have been directly responsible for the current pandemic,’ Ebright said of the new research grant.]]></summary>
         <author>
             <name>Ryan Mills</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inflation Scapegoats No More: Ocean-Shipping Prices Collapse]]></title>
-        <id>https://www.nationalreview.com/?p=1364987</id>
-        <link href="https://www.nationalreview.com/2022/10/inflation-scapegoats-no-more-ocean-shipping-prices-collapse/"/>
-        <updated>2022-10-04T19:14:27.000Z</updated>
-        <summary type="html"><![CDATA[Politicians attacked ocean carriers as opportunistic price gougers, but now the companies risk unprofitability as container rates collapse.]]></summary>
-        <author>
-            <name>Dominic Pino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What to Make of the Herschel Walker Abortion Allegation?]]></title>
-        <id>https://www.nationalreview.com/?p=1364952</id>
-        <link href="https://www.nationalreview.com/2022/10/what-to-make-of-the-herschel-walker-abortion-allegation/"/>
-        <updated>2022-10-04T18:48:23.000Z</updated>
-        <summary type="html"><![CDATA[If the story is true, the morally correct response — honesty and contrition — would have been the politically savvy response.]]></summary>
-        <author>
-            <name>John McCormack</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Elon Musk Offers to Buy Twitter for Originally Agreed-Upon Price]]></title>
-        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1364851</id>
-        <link href="https://www.nationalreview.com/news/elon-musk-offers-to-buy-twitter-for-originally-agreed-upon-price/"/>
-        <updated>2022-10-04T16:43:56.000Z</updated>
-        <summary type="html"><![CDATA[Twitter’s stock price briefly shot up as high as 18 percent on the news before trading was suspended.]]></summary>
-        <author>
-            <name>Brittany Bernstein</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kanye West Calls BLM a ‘Scam’ after Wearing ‘White Lives Matter’ Shirt]]></title>
-        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1364750</id>
-        <link href="https://www.nationalreview.com/news/kanye-west-calls-blm-a-scam-after-wearing-white-lives-matter-shirt/"/>
-        <updated>2022-10-04T16:10:39.000Z</updated>
-        <summary type="html"><![CDATA[Various investigations have revealed that BLM leaders have used donations to enrich themselves.]]></summary>
-        <author>
-            <name>Isaac Schorr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Herschel Walker’s Son Unloads on Senate Candidate after Abortion Allegation: ‘Done with the Lies’]]></title>
-        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1364777</id>
-        <link href="https://www.nationalreview.com/news/herschel-walkers-son-unloads-on-senate-candidate-after-abortion-allegation-done-with-the-lies/"/>
-        <updated>2022-10-04T15:48:32.000Z</updated>
-        <summary type="html"><![CDATA[Christian Walker’s video comes after the Daily Beast reported that his father paid for a girlfriend’s abortion.]]></summary>
-        <author>
-            <name>Ryan Mills</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[U.N. Communications Official Touts Google Search Partnership: ‘We Own the Science’]]></title>
-        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1364711</id>
-        <link href="https://www.nationalreview.com/news/u-n-communications-official-touts-google-search-partnership-we-own-the-science/"/>
-        <updated>2022-10-04T14:51:22.000Z</updated>
-        <summary type="html"><![CDATA[‘For example, if you Google ‘climate change,’ you will, at the top of your search, you will get all kinds of U.N. resources.’]]></summary>
-        <author>
-            <name>Brittany Bernstein</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Searches for ‘Abortion’ Return to Pre-<I>Dobbs</I> Level as the Economy Reasserts Itself as Voters’ Top Priority]]></title>
-        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1364599</id>
-        <link href="https://www.nationalreview.com/news/google-searches-for-abortion-return-to-pre-dobbs-level-as-the-economy-reasserts-itself-as-voters-top-priority/"/>
-        <updated>2022-10-04T13:41:06.000Z</updated>
-        <summary type="html"><![CDATA[New polling shows that voters place more importance on inflation, crime, elections and voting, jobs, immigration, and infrastructure than they do on abortion.]]></summary>
-        <author>
-            <name>Isaac Schorr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘I’m Going to Do It Again’: Biden Told Al Sharpton He Plans to Run Again in 2024: Report]]></title>
-        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1364598</id>
-        <link href="https://www.nationalreview.com/news/im-going-to-do-it-again-biden-told-al-sharpton-he-plans-to-run-again-in-2024-report/"/>
-        <updated>2022-10-04T13:15:40.000Z</updated>
-        <summary type="html"><![CDATA[Biden shared his intention to run in 2020 with Sharpton before he announced it publicly.]]></summary>
-        <author>
-            <name>Brittany Bernstein</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Majority of Catholic Voters Believe Biden Shouldn’t Run Again in 2024: POLL]]></title>
-        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1364572</id>
-        <link href="https://www.nationalreview.com/news/majority-of-catholic-voters-believe-biden-shouldnt-run-again-in-2024-poll/"/>
-        <updated>2022-10-04T12:37:17.000Z</updated>
-        <summary type="html"><![CDATA[The poll also showed a decline in support for Biden and Democrats among Hispanic Catholics.]]></summary>
-        <author>
-            <name>Brittany Bernstein</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Intellectual Legacy of Judge Laurence Silberman]]></title>
-        <id>https://www.nationalreview.com/?p=1364153</id>
-        <link href="https://www.nationalreview.com/2022/10/the-intellectual-legacy-of-judge-laurence-silberman/"/>
-        <updated>2022-10-04T10:30:59.000Z</updated>
-        <summary type="html"><![CDATA[The country has lost a great public servant, who was also a great mentor and friend to many in law and politics.]]></summary>
-        <author>
-            <name>John Yoo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Our Nuclear Options]]></title>
-        <id>https://www.nationalreview.com/?p=1364129</id>
-        <link href="https://www.nationalreview.com/2022/10/our-nuclear-options/"/>
-        <updated>2022-10-04T10:30:58.000Z</updated>
-        <summary type="html"><![CDATA[Thinking through the unthinkable as the Ukraine conflict enters a dangerous new phase.]]></summary>
-        <author>
-            <name>Michael Brendan Dougherty</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hispanics Weren’t What Progressives Thought]]></title>
-        <id>https://www.nationalreview.com/?p=1364332</id>
-        <link href="https://www.nationalreview.com/2022/10/hispanics-werent-what-progressives-thought/"/>
-        <updated>2022-10-04T10:30:47.000Z</updated>
-        <summary type="html"><![CDATA[Democrats can’t rely on the monolithic Hispanic voting bloc they imagined would guarantee them an enduring electoral majority.]]></summary>
-        <author>
-            <name>Rich Lowry</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mississippi’s Education Establishment Is Holding Kids Back]]></title>
-        <id>https://www.nationalreview.com/?p=1363696</id>
-        <link href="https://www.nationalreview.com/2022/10/mississippis-education-establishment-is-holding-kids-back/"/>
-        <updated>2022-10-04T10:30:45.000Z</updated>
-        <summary type="html"><![CDATA[With charter-school applications repeatedly being denied, it’s time to overhaul the approval process.]]></summary>
-        <author>
-            <name>Douglas Carswell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Everyone Has Lost Their Minds]]></title>
-        <id>https://www.nationalreview.com/?p=1364319</id>
-        <link href="https://www.nationalreview.com/2022/10/keep-nr-in-the-fight/"/>
-        <updated>2022-10-04T10:30:15.000Z</updated>
-        <summary type="html"><![CDATA[The best way to support our original journalism — the in-depth reporting and the incisive commentary keeping the Left in check — is to subscribe.]]></summary>
-        <author>
-            <name>Rich Lowry</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why the Chinese Communist Party Needs Xi]]></title>
-        <id>https://www.nationalreview.com/?p=1364211</id>
-        <link href="https://www.nationalreview.com/2022/10/why-the-chinese-communist-party-needs-xi/"/>
-        <updated>2022-10-04T10:30:06.000Z</updated>
-        <summary type="html"><![CDATA[As the country’s economy faces a downturn, the president’s assignment is simple: maintain the party’s iron control.]]></summary>
-        <author>
-            <name>Therese Shaheen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Red Tape Is Making Wildfires Worse]]></title>
-        <id>https://www.nationalreview.com/?p=1363754</id>
-        <link href="https://www.nationalreview.com/2022/10/red-tape-is-making-wildfires-worse/"/>
-        <updated>2022-10-04T10:30:03.000Z</updated>
-        <summary type="html"><![CDATA[Reform of the permitting process could help us address our growing wildfire crisis before it’s too late.]]></summary>
-        <author>
-            <name>Shawn Regan and Tate Watkins</name>
         </author>
     </entry>
 </feed>
