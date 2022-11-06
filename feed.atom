@@ -2,10 +2,90 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mananchong.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-06T07:40:23.443Z</updated>
+    <updated>2022-11-06T16:55:10.256Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mananchong.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://mananchong.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[‘We Are Responsible Adults’: DCCC Chairman’s Closing Argument on January 6]]></title>
+        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1389089</id>
+        <link href="https://www.nationalreview.com/news/we-are-responsible-adults-dccc-chairmans-closing-argument-on-january-6/"/>
+        <updated>2022-11-06T16:07:21.000Z</updated>
+        <summary type="html"><![CDATA[Sean Patrick Maloney defends the Democratic Party’s response to rising violent-crime levels.]]></summary>
+        <author>
+            <name>Ari Blaff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twitter Unveils New $7.99 Verification Subscription in Latest Update]]></title>
+        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1389073</id>
+        <link href="https://www.nationalreview.com/news/twitter-unveils-new-7-99-verification-subscription-in-latest-update/"/>
+        <updated>2022-11-06T13:57:30.000Z</updated>
+        <summary type="html"><![CDATA[Subscribers will get its coveted blue checkmark.]]></summary>
+        <author>
+            <name>Ari Blaff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Lunacy of U.S. Racial Categories]]></title>
+        <id>https://www.nationalreview.com/?p=1389063</id>
+        <link href="https://www.nationalreview.com/2022/11/the-lunacy-of-u-s-racial-categories/"/>
+        <updated>2022-11-06T12:53:00.000Z</updated>
+        <summary type="html"><![CDATA[University administrators are bad and incompetent racialists.]]></summary>
+        <author>
+            <name>Rich Lowry</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[After Losing a Special Election, N.Y. House Candidate Marc Molinaro Pins Hopes on Fall GOP Surge]]></title>
+        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1387605</id>
+        <link href="https://www.nationalreview.com/news/after-losing-a-special-election-in-august-n-y-house-candidate-marc-molinaro-pins-hopes-on-fall-gop-surge/"/>
+        <updated>2022-11-06T11:30:58.000Z</updated>
+        <summary type="html"><![CDATA[Molinaro told NR that voter concerns about crime and inflation make this a ‘much different race’ than the one he ran over the summer.]]></summary>
+        <author>
+            <name>Brittany Bernstein</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Play On: An Ode to Game Night]]></title>
+        <id>https://www.nationalreview.com/?p=1387799</id>
+        <link href="https://www.nationalreview.com/2022/11/play-on-an-ode-to-game-night/"/>
+        <updated>2022-11-06T11:30:49.000Z</updated>
+        <summary type="html"><![CDATA[Grab some friends and family and indulge in the perfect fall activity.]]></summary>
+        <author>
+            <name>Sarah Schutte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Life Is on the Ballot This Election]]></title>
+        <id>https://www.nationalreview.com/?p=1387758</id>
+        <link href="https://www.nationalreview.com/2022/11/life-is-on-the-ballot-this-election/"/>
+        <updated>2022-11-06T11:30:45.000Z</updated>
+        <summary type="html"><![CDATA[The abortion lobby’s underhanded tactics must not prevail in states considering ballot measures.]]></summary>
+        <author>
+            <name>Denise Burke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A GOP Majority Will Need a Working-Class Agenda]]></title>
+        <id>https://www.nationalreview.com/?p=1388470</id>
+        <link href="https://www.nationalreview.com/2022/11/a-gop-majority-will-need-a-working-class-agenda/"/>
+        <updated>2022-11-06T11:30:24.000Z</updated>
+        <summary type="html"><![CDATA[The GOP will need to put its money where its mouth is.]]></summary>
+        <author>
+            <name>Nate Hochman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ominous Tidings for Religious Freedom in Latin America]]></title>
+        <id>https://www.nationalreview.com/?p=1386783</id>
+        <link href="https://www.nationalreview.com/2022/11/ominous-tidings-for-religious-freedom-in-latin-america/"/>
+        <updated>2022-11-06T11:30:07.000Z</updated>
+        <summary type="html"><![CDATA[Countries in the region are experiencing a crisis that threatens millions of religious individuals — and the future of democracy itself.]]></summary>
+        <author>
+            <name>Tomás Henríquez</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Trump Boasts He’s Polling above ‘Ron DeSanctimonious’ for 2024, at Rally for Oz and Mastriano]]></title>
         <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1388900</id>
@@ -4752,16 +4832,6 @@ New Packages
         <summary type="html"><![CDATA[The week of October 3, 2022: Britain’s self-inflicted energy woes, inflation, cities and much, much more.]]></summary>
         <author>
             <name>Andrew Stuttaford</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘Homophobic Weirdos’ Don’t Explain the Failure of <em>Bros</em>]]></title>
-        <id>https://www.nationalreview.com/?p=1368121</id>
-        <link href="https://www.nationalreview.com/2022/10/homophobic-weirdos-dont-explain-the-failure-of-bros/"/>
-        <updated>2022-10-07T19:59:23.000Z</updated>
-        <summary type="html"><![CDATA[Billy Eichner can’t have his cake and eat it too.]]></summary>
-        <author>
-            <name>Bethel McGrew</name>
         </author>
     </entry>
 </feed>
