@@ -55,6 +55,36 @@
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
         {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1389254",
+          "author": "Jack Crowe",
+          "description": "The Lake staffer who opened the envelope is ‘currently under medical supervision.’",
+          "link": "https://www.nationalreview.com/news/suspicious-white-powder-discovered-at-kari-lake-campaign-headquarters/",
+          "publishedOn": "2022-11-07T00:05:45.000Z",
+          "wordCount": 6780,
+          "title": "‘Suspicious White Powder’ Discovered at Kari Lake Campaign Headquarters",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/Kari-Lake-8.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1389148",
+          "author": "Andrew Stuttaford",
+          "description": "The week of October 31, 2022: Climate backsliding, healthcare, fiscal policy, energy and much, much more.",
+          "link": "https://www.nationalreview.com/2022/11/climate-disappointing-the-planet/",
+          "publishedOn": "2022-11-06T19:49:25.000Z",
+          "wordCount": 10164,
+          "title": "Climate: Disappointing the Planet",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/COP27.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1389160",
+          "author": "Ari Blaff",
+          "description": "The Democratic incumbent’s attempts to appeal to moderates in New Hampshire don’t seem to be working.",
+          "link": "https://www.nationalreview.com/news/poll-most-undecided-voters-favor-bolduc-in-new-hampshire-senate-race/",
+          "publishedOn": "2022-11-06T18:21:44.000Z",
+          "wordCount": 6974,
+          "title": "Poll: Most Undecided Voters Favor Bolduc in New Hampshire Senate Race",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/Bolduc-Hassan.jpg?fit=2057%2C1200"
+        },
+        {
           "id": "https://www.nationalreview.com/?post_type=blog-post&p=1389089",
           "author": "Ari Blaff",
           "description": "Sean Patrick Maloney defends the Democratic Party’s response to rising violent-crime levels.",
@@ -4693,96 +4723,6 @@
           "wordCount": 7638,
           "title": "Marvelous Deeds of Derring-do",
           "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/DaringBook.jpg?fit=1200%2C700"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1368805",
-          "author": "Caroline Downey",
-          "description": "The Ukrainian president also called on Western countries to intensify their sanctions against Russia.",
-          "link": "https://www.nationalreview.com/news/zelensky-claims-russia-beginning-to-prepare-its-society-for-potential-use-of-nuclear-weapons/",
-          "publishedOn": "2022-10-08T17:59:14.000Z",
-          "wordCount": 6963,
-          "title": "Zelensky Claims Russia Beginning to ‘Prepare Its Society’ for Potential Use of Nuclear Weapons",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/05/cannes-2022-may-17-37.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1368666",
-          "author": "Caroline Downey",
-          "description": "In recent years, the company has become known for censoring or deplatforming organizations expressing certain conservative viewpoints.",
-          "link": "https://www.nationalreview.com/news/new-paypal-policy-permits-company-to-fine-users-2500-for-misinformation/",
-          "publishedOn": "2022-10-08T14:39:46.000Z",
-          "wordCount": 6886,
-          "title": "New PayPal Policy Permits Company to Fine Users $2,500 for ‘Misinformation’",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2019/11/Paypal-.jpg?fit=1983%2C1157"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1368627",
-          "author": "Caroline Downey",
-          "description": "A senior Ukrainian official mocked the Russian president on Twitter, wishing him a happy birthday accompanied by footage of the burning bridge.",
-          "link": "https://www.nationalreview.com/news/explosion-damages-sole-bridge-linking-russia-to-crimea-in-major-setback-for-putin/",
-          "publishedOn": "2022-10-08T13:24:05.000Z",
-          "wordCount": 6892,
-          "title": "Explosion Damages Sole Bridge Linking Russia to Crimea in Major Setback for Putin",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/Crimea-Bridge-1.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1368112",
-          "author": "Jack Miller",
-          "description": "And why it must be preserved.",
-          "link": "https://www.nationalreview.com/2022/10/how-the-declaration-of-independence-american-dream/",
-          "publishedOn": "2022-10-08T10:30:59.000Z",
-          "wordCount": 7359,
-          "title": "How the Declaration’s American Dream Is Under Attack",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/independence-hall-george-washington.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1368232",
-          "author": "Andrew C. McCarthy",
-          "description": "Why his murder should never have been the focal point of U.S.–Saudi relations.",
-          "link": "https://www.nationalreview.com/2022/10/mythmaking-about-khashoggi-has-disastrously-backfired-on-biden/",
-          "publishedOn": "2022-10-08T10:30:42.000Z",
-          "wordCount": 9899,
-          "title": "Mythmaking about Khashoggi Has Disastrously Backfired on Biden",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/Jamal-Khashoggi-Joe-Biden-MohammedBinSalman-3-split.jpg?fit=1200%2C700"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1368234",
-          "author": "The Editors",
-          "description": "The U.S. should use its energy resources in ways that will not only benefit our economy, but also cut OPEC down to size.",
-          "link": "https://www.nationalreview.com/2022/10/drill-baby-drill/",
-          "publishedOn": "2022-10-08T10:30:35.000Z",
-          "wordCount": 7153,
-          "title": "Drill, Baby, Drill",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2018/11/oil-pumpjacks-texas.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1366748",
-          "author": "Jason Dudash",
-          "description": "Public-employee unions won’t be held responsible even if they commit a felony intended to deceive workers.",
-          "link": "https://www.nationalreview.com/2022/10/should-union-backed-fraud-be-legal/",
-          "publishedOn": "2022-10-08T10:30:28.000Z",
-          "wordCount": 7161,
-          "title": "Should Union-Backed Fraud Be Legal?",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2021/11/seiu-strike.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1367156",
-          "author": "Brian T. Allen",
-          "description": "Like them or not, FDR and Eleanor, emblems of determination and optimism, have lessons for us today.",
-          "link": "https://www.nationalreview.com/2022/10/a-visit-to-fdrs-home-in-hyde-park-finds-good-history-of-grave-times/",
-          "publishedOn": "2022-10-08T10:30:27.000Z",
-          "wordCount": 8854,
-          "title": "A Visit to FDR’s Home in Hyde Park Finds Good History of Grave Times",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/1-Springwood7928-2017-11-16-14-55-24-UTC.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1368462",
-          "author": "Andrew Stuttaford",
-          "description": "The week of October 3, 2022: Britain’s self-inflicted energy woes, inflation, cities and much, much more.",
-          "link": "https://www.nationalreview.com/2022/10/energy-britains-coming-power-struggle/",
-          "publishedOn": "2022-10-08T09:50:32.000Z",
-          "wordCount": 11181,
-          "title": "Energy: Britain’s Coming Power Struggle",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/wind-turbines-redcar-britain.jpg?fit=2057%2C1200"
         }
       ]
     }
