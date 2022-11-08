@@ -34,16 +34,6 @@
           "wordCount": 5684,
           "title": "R Weekly 2022-W42 Friendly Rprofile startup, the grammar of tables, and maps in Quarto.",
           "imageUrl": "https://rweekly.org/public/facebook.png"
-        },
-        {
-          "id": "https://rweekly.org/2022-W41.html",
-          "author": null,
-          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Colin Fay, with help from the R Weekly team members and contributors.\nHighlight\nAutomatically deploying a Shiny app for browsing #RStats tweets with GitHub Actions\n6 Productivity Hacks for Quarto\n“Managing Large Codebases in R” webinar\nInsights\nRefactoring Russian Doll Code\n6 Productivity Hacks for Quarto\nR Shiny vs Shiny for Python: What are the Key Differences\nMastering Debugging in R\nR in the Real World\nA Day in Life of an R/Shiny Developer\nR in Organizations\nBuilding stories with data: Crafting a data-driven fundraising campaign\nTeam Collaboration in R and Python Made Easy\nResources\nData Science Scotland: R User Day Talks (Oct. 5, 2022)\nNew Packages\n📦 Go Live for More N…",
-          "link": "https://rweekly.org/2022-W41.html",
-          "publishedOn": "2022-10-10T00:00:00.000Z",
-          "wordCount": 5767,
-          "title": "R Weekly 2022-W41 A Shiny App with Tweets, Quarto Hacks, and",
-          "imageUrl": "https://rweekly.org/public/facebook.png"
         }
       ]
     },
@@ -64,6 +54,76 @@
       "feedUrl": "https://www.nationalreview.com/feed/",
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1390220",
+          "author": "Isaac Schorr",
+          "description": "Joseph Halm Arcidiacono, 33, was charged with aggravated assault and released on $40,000 bond.",
+          "link": "https://www.nationalreview.com/news/ted-cruz-hit-by-can-at-astros-world-series-parade/",
+          "publishedOn": "2022-11-08T15:21:44.000Z",
+          "wordCount": 7168,
+          "title": "Suspect Charged with Assault for Throwing Can at Ted Cruz during Astros World Series Parade",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/cruz.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1390208",
+          "author": "Ari Blaff",
+          "description": "A lifelong Democrat, Perry has supported Barack Obama and Joe Biden in the past.",
+          "link": "https://www.nationalreview.com/news/katy-perry-votes-for-rick-caruso-in-l-a-mayoral-race/",
+          "publishedOn": "2022-11-08T14:34:39.000Z",
+          "wordCount": 7252,
+          "title": "Katy Perry Votes for Rick Caruso in L.A. Mayoral Race",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/Katy-Perry.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1390180",
+          "author": "Ari Blaff",
+          "description": "McConnell ‘had a chance to help. He didn’t do it…He doesn’t want me in there, but he’s about to be stuck with me.’",
+          "link": "https://www.nationalreview.com/news/blake-masters-argues-senate-republicans-need-new-leadership-says-mcconnell-will-not-own-me/",
+          "publishedOn": "2022-11-08T13:42:31.000Z",
+          "wordCount": 7134,
+          "title": "Blake Masters Argues Senate Republicans ‘Need New Leadership,’ Says McConnell ‘Will Not Own Me’",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/Blake-Masters-1.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1389638",
+          "author": "Ryan Mills",
+          "description": "If passed, the three initiatives would further infuse left-wing racial-justice ideology into every city agency.",
+          "link": "https://www.nationalreview.com/news/nyc-ballot-initiatives-would-create-massive-racial-equity-infrastructure-in-city-government/",
+          "publishedOn": "2022-11-08T11:30:56.000Z",
+          "wordCount": 8465,
+          "title": "NYC Ballot Initiatives Would Create Massive Racial-Equity Infrastructure in City Government",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/nyc-city-hall-steps.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1389966",
+          "author": "Rich Lowry",
+          "description": "More than half of inmates in state prisons have committed violent crimes such as murder, rape, or assault. It’s not overly punitive to keep them behind bars.",
+          "link": "https://www.nationalreview.com/2022/11/decarceration-has-been-a-substantive-and-political-disaster/",
+          "publishedOn": "2022-11-08T11:30:50.000Z",
+          "wordCount": 7694,
+          "title": "Decarceration Has Been a Substantive and Political Disaster",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/kathy-hochul-press.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1389703",
+          "author": "Brittany Bernstein",
+          "description": "Strategists, pundits, and lawmakers argue the party focused too heavily on abortion and the alleged threat to Democracy.",
+          "link": "https://www.nationalreview.com/news/democrat-circular-firing-squad-in-full-swing-as-gop-poised-to-make-midterm-gains/",
+          "publishedOn": "2022-11-08T11:30:09.000Z",
+          "wordCount": 8416,
+          "title": "Democrat Blame Game in Full Swing as GOP Poised for Midterm Gains",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/Biden-Sanders-Khanna-Slotkin-1-1.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1389707",
+          "author": "Brian Riedl",
+          "description": "Biden claims he has reduced the deficit, but the math doesn’t add up.",
+          "link": "https://www.nationalreview.com/2022/11/new-data-shatter-the-conventional-wisdom-on-spending-taxes-and-deficits/",
+          "publishedOn": "2022-11-08T11:30:07.000Z",
+          "wordCount": 8313,
+          "title": "New Data Shatter the Conventional Wisdom on Spending, Taxes, and Deficits",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2021/07/Joe-Biden-and-Chuck-Schumer-1.jpg?fit=2057%2C1200"
+        },
         {
           "id": "https://www.nationalreview.com/?post_type=blog-post&p=1389977",
           "author": "Brittany Bernstein",
@@ -4823,36 +4883,6 @@
           "wordCount": 7484,
           "title": "Reject the Myths about Hispanics",
           "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/covid-vaccination-los-angeles.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1369688",
-          "author": "John Fund",
-          "description": "Dr. Ladapo was an early advocate for the mRNA vaccine. Citing evidence and bucking the ‘consensus,’ he now advises against it for 18- to 39-year-old men.",
-          "link": "https://www.nationalreview.com/2022/10/florida-surgeon-general-florida-will-not-be-silent-on-the-truth/",
-          "publishedOn": "2022-10-10T00:08:21.000Z",
-          "wordCount": 7330,
-          "title": "Florida Surgeon General: ‘Florida Will Not Be Silent on the Truth’",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/joseph-lapado-florida-surgeon-general.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1369676",
-          "author": "Brittany Bernstein",
-          "description": "‘Crime is out of control,’ Zeldin said in a statement. ‘Like so many New Yorkers, crime literally made its way to our front doorstep.’",
-          "link": "https://www.nationalreview.com/news/two-people-shot-outside-gop-representative-lee-zeldins-long-island-home/",
-          "publishedOn": "2022-10-09T23:24:29.000Z",
-          "wordCount": 7023,
-          "title": "Two People Shot Outside GOP Representative Lee Zeldin’s Long Island Home",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2021/04/Lee-Zeldin.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1369579",
-          "author": "Jay Nordlinger",
-          "description": "An interview with Oleksandra Matviichuk, the Ukrainian human-rights lawyer whose organization is a 2022 Nobel peace laureate.",
-          "link": "https://www.nationalreview.com/2022/10/freedom-fighter/",
-          "publishedOn": "2022-10-09T20:35:12.000Z",
-          "wordCount": 8083,
-          "title": "Freedom Fighter",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/oleksandra-2057x1200-1.jpg?fit=2057%2C1200"
         }
       ]
     }
