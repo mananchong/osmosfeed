@@ -6,6 +6,16 @@
       "siteUrl": "https://rweekly.org/atom.xml",
       "articles": [
         {
+          "id": "https://rweekly.org/2022-W45.html",
+          "author": null,
+          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Batool Almarzouq, with help from the wonderful R Weekly team members and contributors.\nHighlight\nUsing GoogleSheets as a Database in R— Yeay!\nLevel Up Your Plots: A Code-along Workshop\nRegular, intentional, and time-boxed yak shaving\nInsights\nRegular, intentional, and time-boxed yak shaving\n\nAdding Mastodon Social Link to Hugo & Blogdown Website Template\nSpacetime representations aren’t good—yet\nR in the Real World\nModeling the secular trend in a cluster randomized trial using very flexible models\n\nR in Academia\nCode to replicate the empirical results from the paper “Trade models in the European Union”.\nAccompanying code for Bee Swarm Optimization Paper\nManuscript material f…",
+          "link": "https://rweekly.org/2022-W45.html",
+          "publishedOn": "2022-10-31T00:00:00.000Z",
+          "wordCount": 6159,
+          "title": "R Weekly 2022-W45, Level Up Your Plots, GoogleSheets as a Database in R and Time-boxed Yak Shaving",
+          "imageUrl": "https://rweekly.org/public/facebook.png"
+        },
+        {
           "id": "https://rweekly.org/2022-W44.html",
           "author": null,
           "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Sam Parmar, with help from the R Weekly team members and contributors.\nHighlight\nAre you Data Scientists or Software Developers?!\nUnderstanding ShinyApps\nTidyX Episode 121: Tell me what you want - user submitted data\nInsights\n“Wait, I’m a developer?”: Reflections on developing #Rstats functions\nDiving into dependen-“sea”: How CRAN packages are interconnected\nAre you Data Scientists or Software Developers?!\nAlternatives to paired bar charts\nNBA teams Posters using R and Bash\nDiscrete Fourier Transform - with torch\nUnderstanding ShinyApps\n\nUnderstanding the Basics of Package Writing in R\nR, its license and my take on it\n\nTop 5 Shiny UI Add-On Packages\n\nQuartaki: 6 hour introdu…",
@@ -54,6 +64,96 @@
       "feedUrl": "https://www.nationalreview.com/feed/",
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1389977",
+          "author": "Brittany Bernstein",
+          "description": "‘We want nothing to detract from the importance of tomorrow,’ Trump said at a rally in Vandalia, Ohio.",
+          "link": "https://www.nationalreview.com/news/trump-says-hell-make-a-very-big-announcement-next-week/",
+          "publishedOn": "2022-11-08T03:38:47.000Z",
+          "wordCount": 7139,
+          "title": "Trump Says He’ll Make a ‘Very Big Announcement’ Next Week",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/donald-trump-dayton-ohio.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1389868",
+          "author": "Brittany Bernstein",
+          "description": "The death count is expected to increase, the WHO says, as more countries report on excess deaths due to heat.",
+          "link": "https://www.nationalreview.com/news/extreme-summer-heat-killed-at-least-15000-europeans-this-year-who-estimates/",
+          "publishedOn": "2022-11-08T00:43:18.000Z",
+          "wordCount": 7147,
+          "title": "Extreme Summer Heat Killed at Least 15,000 Europeans This Year, WHO Estimates",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/tourist-italy-heat-wave.jpg?fit=1200%2C700"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1389817",
+          "author": "Caroline Downey",
+          "description": "Thousands of mail-in ballots have been deemed invalid for a missing or incorrect date, the suing parties claimed.",
+          "link": "https://www.nationalreview.com/news/fettermans-campaign-sues-pennsylvania-election-officials-demanding-undated-mail-in-ballots-be-counted/",
+          "publishedOn": "2022-11-08T00:01:02.000Z",
+          "wordCount": 7133,
+          "title": "Fetterman’s Campaign Sues Pennsylvania Election Officials Demanding Undated Mail-In Ballots Be Counted",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/john-fetterman-campaign.jpg?fit=1200%2C700"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1389853",
+          "author": "Dan McLaughlin",
+          "description": "Looking at past races that the polls got wrong tells us which races this year might still be in play.",
+          "link": "https://www.nationalreview.com/2022/11/election-day-upsets-are-still-possible/",
+          "publishedOn": "2022-11-07T23:36:09.000Z",
+          "wordCount": 8501,
+          "title": "Election Day Upsets Are Still Possible",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/ZeldinTudorBolduc-1.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1389825",
+          "author": "John McCormack",
+          "description": "Biden’s job-approval rating flipped from positive to negative after the Afghanistan withdrawal and stayed that way.",
+          "link": "https://www.nationalreview.com/2022/11/bidens-disgraceful-exit-from-afghanistan-is-still-hurting-democrats/",
+          "publishedOn": "2022-11-07T22:50:38.000Z",
+          "wordCount": 7381,
+          "title": "Biden’s Disgraceful Exit from Afghanistan Is Still Hurting Democrats",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/06/joe-biden-white-house-4.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1389696",
+          "author": "Ari Blaff",
+          "description": "‘We’re going to be shutting these [coal] plants down all across America,’ Biden said.",
+          "link": "https://www.nationalreview.com/news/white-house-press-secretary-claims-bidens-vow-to-shut-down-coal-plants-was-twisted-by-press/",
+          "publishedOn": "2022-11-07T20:56:51.000Z",
+          "wordCount": 7152,
+          "title": "White House Press Secretary Claims Biden’s Vow to Shut Down Coal Plants Was ‘Twisted’ by Press",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/Karine-Jean-Pierre.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1389653",
+          "author": "Caroline Downey",
+          "description": "Hochul has said her opponent and Republicans engage in ‘data denial’ on crime.",
+          "link": "https://www.nationalreview.com/news/hochul-accuses-zeldin-of-hyperventilating-about-crime-says-hes-trying-to-scare-people/",
+          "publishedOn": "2022-11-07T20:25:58.000Z",
+          "wordCount": 7272,
+          "title": "Hochul Accuses Zeldin of ‘Hyperventilating’ about Crime, Says He’s ‘Trying to Scare People’",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/Kathy-Hochul-8.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1389657",
+          "author": "Deroy Murdock",
+          "description": "In Las Vegas, a free-market hero battles the son of Harry Reid’s political machine.",
+          "link": "https://www.nationalreview.com/2022/11/sin-city-showdown/",
+          "publishedOn": "2022-11-07T20:17:45.000Z",
+          "wordCount": 8303,
+          "title": "Sin City Showdown",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/Jones-Drew-2-1.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1389654",
+          "author": "Brittany Bernstein and Isaac Schorr",
+          "description": "Biden is no stranger to stretching the truth, but the past week was especially egregious  — even for him.",
+          "link": "https://www.nationalreview.com/news/bidens-grasp-on-reality-loosens-as-midterms-approach/",
+          "publishedOn": "2022-11-07T20:05:55.000Z",
+          "wordCount": 8247,
+          "title": "Biden’s Grasp on Reality Loosens as Midterms Approach",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/Joe-Biden-91.jpg?fit=2057%2C1200"
+        },
         {
           "id": "https://www.nationalreview.com/?post_type=blog-post&p=1389441",
           "author": "Ari Blaff",
@@ -4753,86 +4853,6 @@
           "wordCount": 8083,
           "title": "Freedom Fighter",
           "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/oleksandra-2057x1200-1.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1369441",
-          "author": "Brittany Bernstein",
-          "description": "Abrams has claimed the 2018 election was ‘stolen from Georgians.’",
-          "link": "https://www.nationalreview.com/news/stacey-abrams-dismisses-criticism-that-she-did-not-properly-concede-2018-georgia-election/",
-          "publishedOn": "2022-10-09T16:03:18.000Z",
-          "wordCount": 7140,
-          "title": "‘I Know I’m Not the Governor’: Stacey Abrams Acknowledges 2018 Defeat but Insists Election System Unfair",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/abrams.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1369400",
-          "author": "Brittany Bernstein",
-          "description": "Iranian authorities have dismissed the demonstrations as a plot concocted by their adversaries.",
-          "link": "https://www.nationalreview.com/news/human-rights-group-reports-185-people-killed-in-iran-protests/",
-          "publishedOn": "2022-10-09T14:50:49.000Z",
-          "wordCount": 6865,
-          "title": "Human-Rights Group Reports 185 People Killed in Iran Protests",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/mahsa-amini-protests-iran-11.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1369360",
-          "author": "Brittany Bernstein",
-          "description": "The first lady claimed that the GOP will push for more restrictions on abortion now that Roe v. Wade has been overturned.",
-          "link": "https://www.nationalreview.com/news/jill-biden-uses-story-of-friends-abortion-to-criticize-extremist-republicans/",
-          "publishedOn": "2022-10-09T13:37:39.000Z",
-          "wordCount": 6823,
-          "title": "Jill Biden Uses Story of Friend’s Abortion to Criticize ‘Extremist Republicans’",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/07/jill-biden-white-house.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1368071",
-          "author": "Ryan Mills",
-          "description": "Barr has filed a lawsuit against Bryan County School District leaders, alleging they violated her First Amendment right.",
-          "link": "https://www.nationalreview.com/news/substitute-teacher-fired-from-georgia-school-for-objecting-to-gay-themes-in-childrens-book/",
-          "publishedOn": "2022-10-09T10:30:53.000Z",
-          "wordCount": 8187,
-          "title": "Substitute Teacher Fired from Georgia School for Objecting to Gay Parents in Children’s Book",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/LindseyBarr-AllAreWelcome.jpg?fit=1200%2C700"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1368748",
-          "author": "Madeleine Kearns",
-          "description": "And Republicans are neglecting a moral duty and political opportunity.",
-          "link": "https://www.nationalreview.com/2022/10/michigan-is-sleepwalking-toward-abortion-extremism/",
-          "publishedOn": "2022-10-09T10:30:35.000Z",
-          "wordCount": 7686,
-          "title": "Michigan Is Sleepwalking toward Abortion Extremism",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/abortion-michigan.jpg?fit=1799%2C1049"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1369054",
-          "author": "C. Bradley Thompson",
-          "description": "The best way to restore America’s principles in 2022 is not to overthrow the government, but to have a nonviolent, bottom-up revolution, starting in the schools.",
-          "link": "https://www.nationalreview.com/2022/10/what-does-fidelity-to-our-founding-principles-require-today/",
-          "publishedOn": "2022-10-09T10:30:31.000Z",
-          "wordCount": 9990,
-          "title": "What Does Fidelity to Our Founding Principles Require Today?",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2018/11/Declaration_of_Independence_1819_by_John_Trumbull.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1367804",
-          "author": "Colin Dueck",
-          "description": "If political leaders are to preserve and restore the republic Cleveland served, they will need his fearlessness, and that foxy quality he never possessed.",
-          "link": "https://www.nationalreview.com/2022/10/not-over-grover-reconsidering-cleveland/",
-          "publishedOn": "2022-10-09T10:30:23.000Z",
-          "wordCount": 8756,
-          "title": "Not Over Grover: Reconsidering Cleveland",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/grover-cleveland.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1368146",
-          "author": "Sarah Schutte",
-          "description": "The Daring Book for Girls is a practical and playful guide for any type of girl.",
-          "link": "https://www.nationalreview.com/2022/10/marvelous-deeds-of-derring-do/",
-          "publishedOn": "2022-10-09T10:30:00.000Z",
-          "wordCount": 7638,
-          "title": "Marvelous Deeds of Derring-do",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/DaringBook.jpg?fit=1200%2C700"
         }
       ]
     }
