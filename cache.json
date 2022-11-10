@@ -55,6 +55,116 @@
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
         {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1391723",
+          "author": "Caroline Downey",
+          "description": "The publication’s humorous dismissal of Trump came after a Post columnist celebrated Ron DeSantis’s Florida gubernatorial reelection victory.",
+          "link": "https://www.nationalreview.com/news/new-york-post-mocks-trumpty-dumpty-on-front-page-after-praising-desantis/",
+          "publishedOn": "2022-11-10T03:18:52.000Z",
+          "wordCount": 7218,
+          "title": "<i>New York Post</i> Mocks ‘Trumpty Dumpty’ on Front Page after Praising DeSantis",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/trump-rally.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1391581",
+          "author": "Isaac Schorr",
+          "description": "According to Pence, a video released by the progressive PAC implied that Pence would have the ability to overturn the results of the 2020 presidential election.",
+          "link": "https://www.nationalreview.com/news/mike-pence-critiques-trump-lincoln-project-in-op-ed-on-january-6/",
+          "publishedOn": "2022-11-09T23:06:54.000Z",
+          "wordCount": 7263,
+          "title": "Mike Pence Critiques Trump, Lincoln Project in Op-Ed on January 6",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2020/04/Pence-Coronavirus.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1391523",
+          "author": "Caroline Downey",
+          "description": "The comments come as Republicans are expected to reclaim a House majority.",
+          "link": "https://www.nationalreview.com/news/biden-says-he-plans-to-do-nothing-differently-in-second-half-of-presidency/",
+          "publishedOn": "2022-11-09T22:08:47.000Z",
+          "wordCount": 7186,
+          "title": "Biden Says He Plans to Do ‘Nothing’ Differently in Second Half of Presidency",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/joebiden1.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1391431",
+          "author": "Dominic Pino",
+          "description": "The Republican’s strong, but losing, performance in the New York gubernatorial election may have secured a GOP majority in the House of Representatives.",
+          "link": "https://www.nationalreview.com/2022/11/thank-you-lee-zeldin/",
+          "publishedOn": "2022-11-09T19:43:16.000Z",
+          "wordCount": 7609,
+          "title": "Thank You, Lee Zeldin",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/election-day-2022-69.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1391392",
+          "author": "Andrew C. McCarthy",
+          "description": "In the long run, the much-anticipated red wave’s failure to materialize may help the GOP wean itself off Trump.",
+          "link": "https://www.nationalreview.com/2022/11/the-silver-lining-of-a-dismal-midterm-performance/",
+          "publishedOn": "2022-11-09T19:36:07.000Z",
+          "wordCount": 8040,
+          "title": "The Silver Lining of a Dismal Midterm Performance",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/dtrump1.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1390812",
+          "author": "Ryan Mills",
+          "description": "Stacey Abrams, who lost to incumbent governor Brian Kemp Tuesday, was the chief proponent of the voter-suppression conspiracy theory.",
+          "link": "https://www.nationalreview.com/news/georgia-sets-midterm-turnout-record-despite-vote-suppression-fear-mongering/",
+          "publishedOn": "2022-11-09T19:33:55.000Z",
+          "wordCount": 7807,
+          "title": "Georgia Sets Midterm Turnout Record Despite Vote-Suppression Fear-Mongering",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/election-day-2022-68.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1391369",
+          "author": "The Editors",
+          "description": "Rarely has an election had simpler and more obvious lessons.",
+          "link": "https://www.nationalreview.com/2022/11/red-mist/",
+          "publishedOn": "2022-11-09T19:07:39.000Z",
+          "wordCount": 7027,
+          "title": "Red Mist",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/election-night.jpg?fit=5268%2C3073"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1391316",
+          "author": "Brittany Bernstein",
+          "description": "Though paths remain for Republicans to take control of both chambers of Congress, the party will not see the large majorities it had hoped for.",
+          "link": "https://www.nationalreview.com/2022/11/midterms-2022-where-the-balance-of-power-stands/",
+          "publishedOn": "2022-11-09T18:25:36.000Z",
+          "wordCount": 8504,
+          "title": "Midterms 2022: Where the Balance of Power Stands",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/01/ChuckSchumerMitchMcConnell-2.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1391344",
+          "author": "Brittany Bernstein",
+          "description": "The runoff election will be held on December 6.",
+          "link": "https://www.nationalreview.com/news/georgia-senate-race-headed-to-runoff/",
+          "publishedOn": "2022-11-09T18:25:15.000Z",
+          "wordCount": 6986,
+          "title": "Georgia Senate Race Headed to Runoff",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/Warnock-and-Walker.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1391329",
+          "author": "Ryan Mills",
+          "description": "The three initiatives were proposed by leaders of the NYC Racial Justice Commission, who were appointed last year by then-mayor Bill de Blasio.",
+          "link": "https://www.nationalreview.com/news/all-three-nyc-racial-equity-ballot-measures-pass-with-overwhelming-support/",
+          "publishedOn": "2022-11-09T18:11:05.000Z",
+          "wordCount": 7399,
+          "title": "All Three NYC Racial-Equity Ballot Measures Pass with Overwhelming Support",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/Vote-NYC.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1391287",
+          "author": "Matthew Continetti",
+          "description": "How Democrats defied expectations.",
+          "link": "https://www.nationalreview.com/2022/11/understanding-the-underwhelming-gop-performance/",
+          "publishedOn": "2022-11-09T17:48:00.000Z",
+          "wordCount": 7610,
+          "title": "Understanding the Underwhelming GOP Performance",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/voting-midterms.jpg?fit=2057%2C1200"
+        },
+        {
           "id": "https://www.nationalreview.com/?p=1391273",
           "author": "Charles C. W. Cooke",
           "description": "After a profoundly disappointing midterm cycle, it’s even harder to argue that Trump’s time atop the party has been anything but a disaster for Republicans.",
@@ -4873,106 +4983,6 @@
           "wordCount": 6551,
           "title": "Actress and Broadway Legend Angela Lansbury Dead at 96",
           "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/Angela-Lansbury.jpg?fit=1790%2C1044"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1371181",
-          "author": "Brittany Bernstein",
-          "description": "‘We have limited resources. We have limited money and we’re going to use that in the best capacity,’ one sheriff said.",
-          "link": "https://www.nationalreview.com/news/several-n-y-sheriffs-plan-to-exercise-discretion-in-enforcing-new-concealed-carry-law/",
-          "publishedOn": "2022-10-11T18:31:04.000Z",
-          "wordCount": 6849,
-          "title": "Several N.Y. Sheriffs Plan to Exercise Discretion in Enforcing New Concealed-Carry Law",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/richard-giardino.jpg?fit=1750%2C1020"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1371175",
-          "author": "Andrew C. McCarthy",
-          "description": "The same weaknesses that resulted in Sussmann’s acquittal also apply to the Danchenko case.",
-          "link": "https://www.nationalreview.com/2022/10/durhams-danchenko-trial-looks-a-lot-like-his-sussmann-trial/",
-          "publishedOn": "2022-10-11T17:54:49.000Z",
-          "wordCount": 8643,
-          "title": "Durham’s Danchenko Trial Looks a Lot Like His Sussmann Trial",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/durham.jpg?fit=2057%2C1157"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1370919",
-          "author": "Caroline Downey",
-          "description": "Local police had warned residents to expect a flight similar to that which carried migrants to Martha’s Vineyard.",
-          "link": "https://www.nationalreview.com/news/presumed-migrant-flight-to-nantucket-actually-carrying-business-executives-police-confirm/",
-          "publishedOn": "2022-10-11T14:24:30.000Z",
-          "wordCount": 6587,
-          "title": "Presumed Migrant Flight to Nantucket Actually Carrying Business Executives, Police Confirm",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2020/03/planes-salt-lake-city-airport.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1370914",
-          "author": "Ari Blaff",
-          "description": "Gabard accused her former colleagues of ‘racializing every issue and stok[ing] anti-white racism.’",
-          "link": "https://www.nationalreview.com/news/elitist-cabal-of-warmongers-tulsi-gabbard-announces-shes-leaving-democratic-party/",
-          "publishedOn": "2022-10-11T13:14:55.000Z",
-          "wordCount": 6476,
-          "title": "‘Elitist Cabal of Warmongers’: Tulsi Gabbard Announces She’s Leaving Democratic Party",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/06/gabbard.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1370899",
-          "author": "Ari Blaff",
-          "description": "The attacks have also resulted in water shortages.",
-          "link": "https://www.nationalreview.com/news/ukrainian-city-of-lviv-plunged-into-darkness-after-russian-missile-strikes-on-power-plants/",
-          "publishedOn": "2022-10-11T13:13:14.000Z",
-          "wordCount": 6606,
-          "title": "Ukrainian City of Lviv Plunged into Darkness after Russian Missile Strikes on Power Plants",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/lviv.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1370880",
-          "author": "Ari Blaff",
-          "description": "The comments come after Abbott sent buses full of migrants to Harris’s Washington, D.C., residence.",
-          "link": "https://www.nationalreview.com/news/border-czar-kamala-harris-accuses-abbott-of-dereliction-of-duty-for-busing-migrants-out-of-texas/",
-          "publishedOn": "2022-10-11T13:06:30.000Z",
-          "wordCount": 6708,
-          "title": "Border Czar Kamala Harris Accuses Abbott of ‘Dereliction of Duty’ for Busing Migrants Out of Texas",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/kamala.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1370359",
-          "author": "Brian Riedl",
-          "description": "Households paying tens of thousands of dollars in federal taxes deserve better performance.",
-          "link": "https://www.nationalreview.com/2022/10/pandemic-fraud-and-waste-is-a-national-scandal/",
-          "publishedOn": "2022-10-11T10:30:44.000Z",
-          "wordCount": 8166,
-          "title": "Pandemic Fraud and Waste Are a National Scandal",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2021/03/american-rescue-plan-act-pelosi-schumer.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1370572",
-          "author": "Jimmy Quinn",
-          "description": "Residents of Taipei are training for a Chinese invasion. Will it be enough?",
-          "link": "https://www.nationalreview.com/2022/10/taiwans-civilian-defenders-are-clamoring-for-u-s-military-training/",
-          "publishedOn": "2022-10-11T10:30:34.000Z",
-          "wordCount": 8183,
-          "title": "Taiwan’s Civilian Defenders Are Clamoring for U.S. Military Training",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/taiwan-demonstration.jpg?fit=920%2C537"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1370040",
-          "author": "The Editors",
-          "description": "For the sake of Californians and of Americans, the Golden State needs better governance, and it needs it soon.",
-          "link": "https://www.nationalreview.com/2022/10/california-crazy/",
-          "publishedOn": "2022-10-11T10:30:30.000Z",
-          "wordCount": 7307,
-          "title": "California Crazy",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/gavin-newsom-sacramento-california.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1370484",
-          "author": "Madeleine Kearns",
-          "description": "Join National Review on the front lines as we work to expose one of the biggest medical scandals of our time.",
-          "link": "https://www.nationalreview.com/2022/10/the-trans-policy-authorities-have-no-clothes/",
-          "publishedOn": "2022-10-11T10:30:04.000Z",
-          "wordCount": 6715,
-          "title": "The Trans-Policy Authorities Have No Clothes",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/trans-protest-boston-childrens-hospital.jpg?fit=2057%2C1200"
         }
       ]
     }
