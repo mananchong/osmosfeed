@@ -55,6 +55,106 @@
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
         {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1392501",
+          "author": "Brittany Bernstein",
+          "description": "‘It is either one of the largest delegations of legislative power to the executive branch, or one of the largest exercises of legislative power without congressional authority.’",
+          "link": "https://www.nationalreview.com/news/federal-judge-strikes-down-biden-student-loan-forgiveness/",
+          "publishedOn": "2022-11-11T00:59:38.000Z",
+          "wordCount": 7037,
+          "title": "Federal Judge Strikes Down Biden Student-Loan ‘Forgiveness’",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/joe-biden-miguel-cardona.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1392428",
+          "author": "Brittany Bernstein",
+          "description": "The former president said his endorsement of DeSantis in 2017 served as a ‘nuclear weapon’ going off, propelling DeSantis to the top.",
+          "link": "https://www.nationalreview.com/news/trump-claims-credit-for-desantiss-rise-doubles-down-on-desanctimonious-attack/",
+          "publishedOn": "2022-11-10T23:42:45.000Z",
+          "wordCount": 7252,
+          "title": "Trump Claims Credit for DeSantis’s Rise, Doubles Down on ‘DeSanctimonious’ Attack",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/Trump-DeSantis-2-1.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1392340",
+          "author": "Brittany Bernstein",
+          "description": "‘A true leader understands when they have become a liability,’ Sears said.",
+          "link": "https://www.nationalreview.com/news/virginias-republican-lieutenant-governor-says-she-cant-support-trump-in-2024/",
+          "publishedOn": "2022-11-10T22:53:44.000Z",
+          "wordCount": 6995,
+          "title": "Virginia’s Republican Lieutenant Governor Says She Can’t Support Trump in 2024",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/winsome-sears-fox-news.jpg?fit=1200%2C700"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1392372",
+          "author": "Nate Hochman",
+          "description": "In areas such as South Texas, Republicans have made inroads, but the party has yet to convert declining enthusiasm for Democrats into reliable support.",
+          "link": "https://www.nationalreview.com/2022/11/mixed-results-in-the-gop-quest-for-a-latino-voter-realignment/",
+          "publishedOn": "2022-11-10T22:41:02.000Z",
+          "wordCount": 7860,
+          "title": "Mixed Results in the GOP Quest for a Latino-Voter Realignment",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/mayra-flores.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1392042",
+          "author": "Isaac Schorr",
+          "description": "After a lackluster night for MAGA candidates, the New York Post, the WSJ editorial page, and Fox News have shown signs of moving on from Trump.",
+          "link": "https://www.nationalreview.com/news/murdoch-media-empire-turns-on-trump/",
+          "publishedOn": "2022-11-10T21:35:35.000Z",
+          "wordCount": 7537,
+          "title": "Murdoch Media Empire Turns on Trump",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/LauraIngramaDonaldTrump-2.jpg?fit=1200%2C700"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1392213",
+          "author": "Ryan Mills",
+          "description": "Tuesday’s midterms made it clear: ‘Florida is the blueprint for Republicans to follow.’",
+          "link": "https://www.nationalreview.com/news/the-recipe-for-the-republican-landslide-in-florida/",
+          "publishedOn": "2022-11-10T20:24:19.000Z",
+          "wordCount": 8852,
+          "title": "The Recipe for the Republican Landslide in Florida",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/desantis.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1392220",
+          "author": "Brittany Bernstein",
+          "description": "The comments come one day after Biden floated the idea of investigating Musk’s acquisition of Twitter.",
+          "link": "https://www.nationalreview.com/news/you-heard-the-president-national-security-adviser-jake-sullivan-confirms-administration-considering-musk-investigation/",
+          "publishedOn": "2022-11-10T20:21:12.000Z",
+          "wordCount": 7041,
+          "title": "‘You Heard the President’: National Security Adviser Jake Sullivan Confirms Administration Considering Musk Investigation",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/sullivan.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1392030",
+          "author": "Jim Geraghty",
+          "description": "The signs of decline are impossible to hide.",
+          "link": "https://www.nationalreview.com/magazine/2022/11/28/bidens-lost-marbles/",
+          "publishedOn": "2022-11-10T20:20:17.000Z",
+          "wordCount": 11982,
+          "title": "Biden’s Lost Marbles",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/Biden-15.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1392223",
+          "author": "The Editors",
+          "description": "A major humiliation for the Kremlin.",
+          "link": "https://www.nationalreview.com/2022/11/retaking-kherson/",
+          "publishedOn": "2022-11-10T20:18:20.000Z",
+          "wordCount": 7408,
+          "title": "Retaking Kherson",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/kherson.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1392144",
+          "author": "Isaac Schorr",
+          "description": "Maria Teresa Kumar, the president of Voto Latino, suggested Abrams should be paired up with liz Cheney.",
+          "link": "https://www.nationalreview.com/news/msnbc-panelist-calls-on-biden-to-tap-stacey-abrams-to-lead-election-reform-effort/",
+          "publishedOn": "2022-11-10T19:04:38.000Z",
+          "wordCount": 6991,
+          "title": "MSNBC Panelist Calls on Biden to Tap Stacey Abrams to Lead Election-Reform Effort",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/election-day-2022-66.jpg?fit=2057%2C1200"
+        },
+        {
           "id": "https://www.nationalreview.com/?post_type=blog-post&p=1391855",
           "author": "Ari Blaff",
           "description": "The Freedom Caucus will likely have more leverage over McCarthy given the precariously thin majority he’s expected to hold.",
@@ -4853,166 +4953,6 @@
           "wordCount": 7064,
           "title": "Alex Jones Ordered to Pay Sandy Hook Families $965 Million for Defamation",
           "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/08/alex-jones-reporters.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1372234",
-          "author": "John McCormack and Brittany Bernstein",
-          "description": "James Carville is concerned — and so are progressives such as Bernie Sanders.",
-          "link": "https://www.nationalreview.com/2022/10/democrats-worry-theyre-overdoing-it-on-abortion/",
-          "publishedOn": "2022-10-12T19:32:53.000Z",
-          "wordCount": 9255,
-          "title": "Democrats Worry They’re Overdoing It on Abortion",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/Untitled-design-41.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1372196",
-          "author": "Andrew C. McCarthy",
-          "description": "Neither he nor Igor Danchenko could deliver, yet the bureau withheld details on how the defendant refuted Steele’s anti-Trump claims.",
-          "link": "https://www.nationalreview.com/2022/10/durham-witness-drops-trial-bombshell-fbi-offered-steele-1m-to-prove-dossier-claims/",
-          "publishedOn": "2022-10-12T18:23:14.000Z",
-          "wordCount": 8466,
-          "title": "Durham Witness Drops Trial Bombshell: FBI Offered Steele $1M to Prove Dossier Claims",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/Untitled-design-40.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1372133",
-          "author": "Isaac Schorr",
-          "description": "The attorneys general are responding to a letter sent by three medical groups asking the DOJ to investigate alleged threats against gender clinics.",
-          "link": "https://www.nationalreview.com/news/republican-ags-warn-garland-not-to-prosecute-dissenting-voices-on-gender-affirming-care-for-kids/",
-          "publishedOn": "2022-10-12T17:55:18.000Z",
-          "wordCount": 7136,
-          "title": "Republican AGs Warn Garland Not to Prosecute Dissenting Voices on ‘Gender-Affirming Care’ for Kids",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/08/merrick-garland-doj-2.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1372130",
-          "author": "Caroline Downey",
-          "description": "The inspector general’s letter was in response to a petition from six Democratic lawmakers.",
-          "link": "https://www.nationalreview.com/news/treasury-department-to-audit-desantis-migrant-flight-expenditures/",
-          "publishedOn": "2022-10-12T17:07:10.000Z",
-          "wordCount": 6316,
-          "title": "Treasury Department to Audit DeSantis Migrant-Flight Expenditures",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/Marthas-Vineyard.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1372072",
-          "author": "Caroline Downey",
-          "description": "Walker offered to pay off the debt of the residents who were threatened with eviction by Warnock’s church.",
-          "link": "https://www.nationalreview.com/news/herschel-walker-slams-warnock-over-report-that-his-church-evicts-poor-people-to-the-street/",
-          "publishedOn": "2022-10-12T16:36:45.000Z",
-          "wordCount": 6938,
-          "title": "Herschel Walker Slams Warnock over Report That His Church ‘Evicts Poor People to the Street’",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/Herschel-Walker-.jpg?fit=2057%2C1157"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1372091",
-          "author": "Charles C. W. Cooke",
-          "description": "Like it or not, voters are going to discuss Fetterman’s condition, and trying to browbeat them into silence won’t work.",
-          "link": "https://www.nationalreview.com/2022/10/the-media-cant-gaslight-the-public-about-john-fettermans-health/",
-          "publishedOn": "2022-10-12T16:07:51.000Z",
-          "wordCount": 7555,
-          "title": "The Media Can’t Gaslight the Public about John Fetterman’s Health",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/Fetterman-Biden.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1372002",
-          "author": "Ari Blaff",
-          "description": "New emails reveal that Mayorkas was aware that the photographer who took the viral photos had refuted the ‘whipping’ claim.",
-          "link": "https://www.nationalreview.com/news/dhs-secretary-mayorkas-was-informed-whipping-incident-was-bogus-hours-before-he-condemned-border-patrol-agents/",
-          "publishedOn": "2022-10-12T14:33:20.000Z",
-          "wordCount": 6961,
-          "title": "DHS Secretary Mayorkas Was Informed ‘Whipping’ Incident Was Bogus Hours Before He Condemned Border Patrol Agents",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2021/09/Mayorkas.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1371946",
-          "author": "Ari Blaff",
-          "description": "The company reportedly skims as much as 70 percent of the livestream charitable donations generated by refugees and children.",
-          "link": "https://www.nationalreview.com/news/tiktok-skimming-charitable-donations-from-syrian-refugees-report/",
-          "publishedOn": "2022-10-12T13:33:54.000Z",
-          "wordCount": 6793,
-          "title": "TikTok Skimming Charitable Donations from Syrian Refugees: Report",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2020/09/TikTok-1.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1371897",
-          "author": "Ari Blaff",
-          "description": "Federal investigators are confident they have enough evidence to charge Hunter with lying about his drug use on a gun-purchase form.",
-          "link": "https://www.nationalreview.com/news/biden-breaks-silence-on-looming-gun-charges-against-hunter-hes-established-a-new-life/",
-          "publishedOn": "2022-10-12T12:34:33.000Z",
-          "wordCount": 7046,
-          "title": "Biden Breaks Silence on Looming Gun Charges against Hunter: ‘He’s Established a New Life’",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/08/Hunter-Biden-and-Joe-Biden-2.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1371594",
-          "author": "Armond White",
-          "description": "Two art films assess the costs of the lockdowns.",
-          "link": "https://www.nationalreview.com/2022/10/post-covid-romance-and-self-pity/",
-          "publishedOn": "2022-10-12T10:30:57.000Z",
-          "wordCount": 7403,
-          "title": "Post-Covid Romance and Self-Pity",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/dos-entre-muchos.jpg?fit=1200%2C700"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1371078",
-          "author": "Ed Tarnowski and Marc LeBlond",
-          "description": "The state’s supreme court has given parents and children a much-needed victory in their quest for educational freedom.",
-          "link": "https://www.nationalreview.com/2022/10/families-prevail-in-west-virginia-school-choice-fight/",
-          "publishedOn": "2022-10-12T10:30:49.000Z",
-          "wordCount": 7457,
-          "title": "Families Prevail in West Virginia School-Choice Fight",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/03/elementary-school-classroom-students-teacher.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1371441",
-          "author": "Rich Lowry",
-          "description": "A symbol of the radicalism of 2020 struggles in Wisconsin.",
-          "link": "https://www.nationalreview.com/2022/10/mandela-barnes-and-the-limits-of-post-george-floyd-politics/",
-          "publishedOn": "2022-10-12T10:30:45.000Z",
-          "wordCount": 7700,
-          "title": "Mandela Barnes and the Limits of Post–George Floyd Politics",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/mandela-barnes-1.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1371371",
-          "author": "Chris Edwards",
-          "description": "Trump is the past; these governors are the future.",
-          "link": "https://www.nationalreview.com/2022/10/states-are-restoring-the-gops-fiscal-policy/",
-          "publishedOn": "2022-10-12T10:30:44.000Z",
-          "wordCount": 7369,
-          "title": "States Are Restoring the GOP’s Fiscal Policy",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/Reynolds-Ricketts-Ducey.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1371473",
-          "author": "Brian T. Allen",
-          "description": "Scabby the Rat vies with Matisse in a fight that didn’t need to happen.",
-          "link": "https://www.nationalreview.com/2022/10/art-museum-strike-in-the-city-of-brotherly-love/",
-          "publishedOn": "2022-10-12T10:30:24.000Z",
-          "wordCount": 8653,
-          "title": "Art-Museum Strike in the City of Brotherly Love",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/1-Eakins-Thomas-1844-1916-Lottatori-3.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1371699",
-          "author": "Michael Brendan Dougherty",
-          "description": "And six decades of pseudo-theology.",
-          "link": "https://www.nationalreview.com/2022/10/60-years-since-vatican-ii/",
-          "publishedOn": "2022-10-12T10:30:17.000Z",
-          "wordCount": 7716,
-          "title": "60 Years Since Vatican II",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/st-peters-basilica.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1371192",
-          "author": "Brittany Bernstein",
-          "description": "Fung, who hopes to be the first Republican to win his district in 30 years, has avoided social issues in favor of a relentless focus on the economy.",
-          "link": "https://www.nationalreview.com/news/i-dont-operate-on-the-extremes-can-allan-fungs-moderate-gop-playbook-defy-the-odds-in-a-liberal-district/",
-          "publishedOn": "2022-10-12T10:30:00.000Z",
-          "wordCount": 8129,
-          "title": "Allan Fung Hopes to Lead a Moderate ‘Rebirth’ in the GOP Caucus. First He Has to Defy the Odds",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/allan-fung.jpg?fit=2057%2C1200"
         }
       ]
     }
