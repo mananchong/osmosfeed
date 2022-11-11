@@ -2,10 +2,100 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mananchong.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-11T07:41:10.788Z</updated>
+    <updated>2022-11-11T16:57:36.171Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mananchong.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://mananchong.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Twitter Exec Who Censored Hunter Biden Laptop Story Resigns after Musk Takeover]]></title>
+        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1392754</id>
+        <link href="https://www.nationalreview.com/news/twitter-exec-who-censored-hunter-biden-laptop-story-resigns-after-musk-takeover/"/>
+        <updated>2022-11-11T15:47:55.000Z</updated>
+        <summary type="html"><![CDATA[Roth led Twitter’s Trust and Safety team.]]></summary>
+        <author>
+            <name>Caroline Downey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trump Claims Credit for Glenn Youngkin’s Election as Post-Midterm Tantrum Continues]]></title>
+        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1392721</id>
+        <link href="https://www.nationalreview.com/news/trump-claims-credit-for-glenn-youngkins-election-as-post-midterm-tantrum-continues/"/>
+        <updated>2022-11-11T14:39:16.000Z</updated>
+        <summary type="html"><![CDATA[The broadside against Youngkin comes after Trump lashed out at Ron DeSantis.]]></summary>
+        <author>
+            <name>Caroline Downey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elon Musk Warns Employees Twitter May ‘Not Survive’]]></title>
+        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1392673</id>
+        <link href="https://www.nationalreview.com/news/elon-musk-warns-employees-twitter-may-not-survive/"/>
+        <updated>2022-11-11T13:13:49.000Z</updated>
+        <summary type="html"><![CDATA[Musk said subscription revenue and purging spam accounts are crucial to the company’s viability.]]></summary>
+        <author>
+            <name>Caroline Downey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fighting Veterans Day Apathy]]></title>
+        <id>https://www.nationalreview.com/?p=1392448</id>
+        <link href="https://www.nationalreview.com/2022/11/fighting-veterans-day-apathy/"/>
+        <updated>2022-11-11T11:30:53.000Z</updated>
+        <summary type="html"><![CDATA[The best way we can honor those who served is by reclaiming this day from the perils of public indifference.]]></summary>
+        <author>
+            <name>Bobby Miller</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The End of the Chinese Economic Miracle]]></title>
+        <id>https://www.nationalreview.com/?p=1392267</id>
+        <link href="https://www.nationalreview.com/2022/11/the-end-of-the-chinese-economic-miracle/"/>
+        <updated>2022-11-11T11:30:45.000Z</updated>
+        <summary type="html"><![CDATA[Xi’s tightening his stranglehold on the CCP is cause for concern.]]></summary>
+        <author>
+            <name>Desmond Lachman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<i>Wakanda Forever</i> Exploits Commercial Politics]]></title>
+        <id>https://www.nationalreview.com/?p=1392364</id>
+        <link href="https://www.nationalreview.com/2022/11/wakanda-forever-exploits-commercial-politics/"/>
+        <updated>2022-11-11T11:30:32.000Z</updated>
+        <summary type="html"><![CDATA[Marvel tricks audiences into buying a fake, debilitating myth.]]></summary>
+        <author>
+            <name>Armond White</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The DeSantis Difference]]></title>
+        <id>https://www.nationalreview.com/?p=1392624</id>
+        <link href="https://www.nationalreview.com/2022/11/the-desantis-difference/"/>
+        <updated>2022-11-11T11:30:29.000Z</updated>
+        <summary type="html"><![CDATA[His approach to the Covid crisis was a triumph of conservative statesmanship.]]></summary>
+        <author>
+            <name>Michael Brendan Dougherty</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[There’s Lots of Work to Do]]></title>
+        <id>https://www.nationalreview.com/?p=1392568</id>
+        <link href="https://www.nationalreview.com/2022/11/theres-lots-of-work-to-do/"/>
+        <updated>2022-11-11T11:30:12.000Z</updated>
+        <summary type="html"><![CDATA[Please help us fight for a conservatism that can win.]]></summary>
+        <author>
+            <name>Rich Lowry</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1942: The Year the Allies Turned the Tide of World War II]]></title>
+        <id>https://www.nationalreview.com/?p=1392345</id>
+        <link href="https://www.nationalreview.com/2022/11/1942-the-year-the-allies-turned-the-tide-of-world-war-ii/"/>
+        <updated>2022-11-11T11:30:10.000Z</updated>
+        <summary type="html"><![CDATA[This Veterans Day is a good time to remember the immense feat of Allied will that changed the course of history.]]></summary>
+        <author>
+            <name>Eric Hogan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Federal Judge Strikes Down Biden Student-Loan ‘Forgiveness’]]></title>
         <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1392501</id>
@@ -4930,76 +5020,6 @@ shinyuieditor (updates)
         <summary type="html"><![CDATA[What’s happening at Yale is only one example of a broader trend.]]></summary>
         <author>
             <name>Brad Lingo and John Ashcroft</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tim Ryan Once Called to End Cash Bail Nationwide]]></title>
-        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1372658</id>
-        <link href="https://www.nationalreview.com/news/tim-ryan-once-called-to-end-cash-bail-nationwide/"/>
-        <updated>2022-10-13T02:02:59.000Z</updated>
-        <summary type="html"><![CDATA[Cash bail and crime more broadly have emerged as a top issue for many voters this election.]]></summary>
-        <author>
-            <name>Brittany Bernstein</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Saying ‘Regime’ Is Bad, Except When We Say It]]></title>
-        <id>https://www.nationalreview.com/?p=1372493</id>
-        <link href="https://www.nationalreview.com/2022/10/saying-regime-is-bad-except-when-we-say-it/"/>
-        <updated>2022-10-12T23:50:18.000Z</updated>
-        <summary type="html"><![CDATA[Greg Sargent of the Washington Post thinks this rhetoric is violent and authoritarian, except when his own side uses it.]]></summary>
-        <author>
-            <name>Dan McLaughlin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DC Comics Cancels Woke Bisexual Superman Series]]></title>
-        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1372514</id>
-        <link href="https://www.nationalreview.com/news/dc-comics-cancels-woke-bisexual-superman-series/"/>
-        <updated>2022-10-12T22:36:46.000Z</updated>
-        <summary type="html"><![CDATA[In the series, Jonathan Kent, son of Clark Kent and Lois Lane, took on social issues including climate change, school shootings, and ‘undocumented migrants.’]]></summary>
-        <author>
-            <name>Brittany Bernstein</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Los Angeles City Council President Resigns over Racist Remarks]]></title>
-        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1372373</id>
-        <link href="https://www.nationalreview.com/news/los-angeles-city-council-president-resigns-over-racist-remarks/"/>
-        <updated>2022-10-12T22:26:34.000Z</updated>
-        <summary type="html"><![CDATA[Pressure had been mounting on Nury Martinez from Democratic leaders, including President Biden.]]></summary>
-        <author>
-            <name>Caroline Downey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DOJ Gives Supreme Court Good Reasons to Reject Trump’s Appeal]]></title>
-        <id>https://www.nationalreview.com/?p=1372498</id>
-        <link href="https://www.nationalreview.com/2022/10/doj-gives-supreme-court-good-reasons-to-reject-trumps-appeal/"/>
-        <updated>2022-10-12T21:52:26.000Z</updated>
-        <summary type="html"><![CDATA[Though the justices were unlikely to intervene at this juncture anyway, the solicitor general’s brief has given them ample cause not to.]]></summary>
-        <author>
-            <name>Andrew C. McCarthy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Warnock Leads Walker, Georgia Senate Race Unchanged by Abortion Payment Allegation: POLL]]></title>
-        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1372328</id>
-        <link href="https://www.nationalreview.com/news/warnock-leads-walker-georgia-senate-race-unchanged-by-abortion-payment-allegation-poll/"/>
-        <updated>2022-10-12T21:02:08.000Z</updated>
-        <summary type="html"><![CDATA[The Quinnipiac poll found the majority of voters, 55 percent, have an unfavorable view of Walker, while 39 percent have a favorable view.]]></summary>
-        <author>
-            <name>Brittany Bernstein</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alex Jones Ordered to Pay Sandy Hook Families $965 Million for Defamation]]></title>
-        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1372374</id>
-        <link href="https://www.nationalreview.com/news/alex-jones-ordered-to-pay-sandy-hook-families-965-million-for-defamation/"/>
-        <updated>2022-10-12T20:14:03.000Z</updated>
-        <summary type="html"><![CDATA[The money will be divided among 14 relatives of the victims and FBI William Aldenberg, who has also been a target of conspiracy theories.]]></summary>
-        <author>
-            <name>Brittany Bernstein</name>
         </author>
     </entry>
 </feed>
