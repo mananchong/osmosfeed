@@ -55,6 +55,56 @@
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
         {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1393055",
+          "author": "Ari Blaff",
+          "description": "A new batch of votes released Friday night made it clear that Kelly had held off Masters, with the latest vote margin standing at 51.8 to 46.1 percent.",
+          "link": "https://www.nationalreview.com/news/arizona-republican-hopeful-blake-masters-loses-senate-race-to-dem-incumbent-mark-kelly/",
+          "publishedOn": "2022-11-12T03:59:35.000Z",
+          "wordCount": 7206,
+          "title": "Arizona Republican Hopeful Blake Masters Loses Senate Race to Dem Incumbent Mark Kelly",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/blake-masters-rally-1.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1393078",
+          "author": "Ryan Mills",
+          "description": "Trump claimed he ‘sent in the FBI and the U.S. Attorneys’ to prevent DeSantis’s 2018 win from being stolen through fraud.",
+          "link": "https://www.nationalreview.com/news/former-top-doj-officials-say-trumps-claim-about-saving-desantis-in-2018-is-fake-news/",
+          "publishedOn": "2022-11-12T00:35:38.000Z",
+          "wordCount": 7623,
+          "title": "Former Top DOJ Officials Say Trump’s Claim about Saving DeSantis in 2018 Is Fake News",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/04/DonaldTrumpRonDeSantis.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1392966",
+          "author": "Ari Blaff",
+          "description": "The news marks a stunning fall from grace for FTX, one of the leading exchanges in the nascent cryptocurrency market once valued at $32 billion.",
+          "link": "https://www.nationalreview.com/news/ftx-files-biggest-crypto-bankruptcy-in-history/",
+          "publishedOn": "2022-11-11T22:29:20.000Z",
+          "wordCount": 7094,
+          "title": "FTX Files Biggest Crypto Bankruptcy in History",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/ftx-logo.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1392871",
+          "author": "Caroline Downey",
+          "description": "Magnus is refusing to resign, which likely means he’ll be the first political appointee fired by Biden.",
+          "link": "https://www.nationalreview.com/news/top-border-official-forced-out-amid-ongoing-migrant-crisis/",
+          "publishedOn": "2022-11-11T18:45:36.000Z",
+          "wordCount": 7034,
+          "title": "Top Border Official Being Forced Out amid Long-Running Migrant Crisis",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/06/border-patrol-migrants.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1392782",
+          "author": "Isaac Schorr",
+          "description": "‘What he did in the super red, deep red parts of Pennsylvania…it just makes, makes you wonder about his future.’",
+          "link": "https://www.nationalreview.com/news/msnbcs-katy-tur-floats-fetterman-as-potential-presidential-candidate/",
+          "publishedOn": "2022-11-11T18:39:51.000Z",
+          "wordCount": 7008,
+          "title": "MSNBC’s Katy Tur Floats Fetterman as Potential Presidential Candidate",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/midterm-campaigns-11.jpg?fit=2057%2C1200"
+        },
+        {
           "id": "https://www.nationalreview.com/?post_type=blog-post&p=1392754",
           "author": "Caroline Downey",
           "description": "Roth led Twitter’s Trust and Safety team.",
@@ -4823,156 +4873,6 @@
           "wordCount": 7140,
           "title": "House January 6 Committee Votes to Subpoena Trump to Testify, Provide Documents",
           "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/Untitled-design-46.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1373392",
-          "author": "Ryan Mills",
-          "description": "Disabled residents are suing Portland for failing to keep sidewalks clear of homeless camps in violation of the Americans with Disabilities Act.",
-          "link": "https://www.nationalreview.com/news/lawyers-representing-disabled-portlanders-suspect-public-funds-paid-for-homeless-camps/",
-          "publishedOn": "2022-10-13T19:00:16.000Z",
-          "wordCount": 7357,
-          "title": "Lawyers Representing Disabled Portlanders Suspect Public Funds Paid for Homeless Camps",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/portland.jpg?fit=1965%2C1146"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1373384",
-          "author": "Nate Hochman",
-          "description": "Though laudable in many ways, he did not succeed on the terms he himself set.",
-          "link": "https://www.nationalreview.com/2022/10/ben-sasse-was-never-meant-for-the-senate/",
-          "publishedOn": "2022-10-13T18:54:49.000Z",
-          "wordCount": 7812,
-          "title": "Ben Sasse Was Never Meant for the Senate",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/sasse1.jpg?fit=1591%2C928"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1373340",
-          "author": "Charles C. W. Cooke",
-          "description": "With inflation through the roof and the economy on the brink of recession, voters have more important things to worry about than relitigating 2020.",
-          "link": "https://www.nationalreview.com/2022/10/its-no-mystery-why-january-6-isnt-a-prominent-midterm-issue/",
-          "publishedOn": "2022-10-13T17:51:23.000Z",
-          "wordCount": 7342,
-          "title": "It’s No Mystery Why January 6 Isn’t a Prominent Midterm Issue",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/Untitled-design-43.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1373137",
-          "author": "Isaac Schorr",
-          "description": "Politico reported last week that Indiana congressional candidate Jennifer-Ruth Green suffered a sexual assault while serving in Iraq.",
-          "link": "https://www.nationalreview.com/news/air-force-casts-doubt-on-politicos-claim-that-gop-candidates-sexual-assault-was-public-info/",
-          "publishedOn": "2022-10-13T17:17:22.000Z",
-          "wordCount": 7193,
-          "title": "Air Force Casts Doubt on <I>Politico’s</I> Claim that GOP Candidate’s Sexual Assault Was Public Info",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/Jennifer-Ruth-Green-1.jpg?fit=1785%2C1040"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1373249",
-          "author": "Ari Blaff",
-          "description": "The jury opted against the death penalty because Cruz suffered developmental delays as a result of fetal alcohol spectrum disorder.",
-          "link": "https://www.nationalreview.com/news/parkland-shooter-escapes-death-penalty-sentenced-to-life-in-prison-without-parole/",
-          "publishedOn": "2022-10-13T16:22:47.000Z",
-          "wordCount": 6713,
-          "title": "Parkland Shooter Escapes Death Penalty, Sentenced to Life in Prison without Parole",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/cruz.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1373119",
-          "author": "Ari Blaff",
-          "description": "According to the ACT’s findings, more than 40 percent of seniors did not meet any ‘of the college-readiness benchmarks.’",
-          "link": "https://www.nationalreview.com/news/high-school-graduate-act-scores-drop-to-30-year-low/",
-          "publishedOn": "2022-10-13T14:55:44.000Z",
-          "wordCount": 7063,
-          "title": "High-School Graduate ACT Scores Drop to 30-Year Low",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2021/05/weingarten.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1373014",
-          "author": "Ari Blaff",
-          "description": "‘Keep Your Dirty Books in the Closet,’ ‘Stop Grooming Our Kids,’ and ‘Homosexuality Big Sin,’ read some of the signs carried by protesters.",
-          "link": "https://www.nationalreview.com/news/muslim-protesters-shut-down-michigan-school-board-meeting-over-lgbtq-books/",
-          "publishedOn": "2022-10-13T13:31:34.000Z",
-          "wordCount": 7033,
-          "title": "Muslim Protesters Shut Down Michigan School-Board Meeting over LGBTQ Books",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/islam.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1372976",
-          "author": "Ari Blaff",
-          "description": "The sale of new Huawei and ZTE equipment would be banned if the draft order is implemented.",
-          "link": "https://www.nationalreview.com/news/fcc-to-ban-sales-of-chinese-telecom-equipment-due-to-national-security-concerns/",
-          "publishedOn": "2022-10-13T12:15:29.000Z",
-          "wordCount": 7012,
-          "title": "FCC to Ban Sales of Chinese Telecom Equipment Due to ‘National Security Concerns’",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/Huawei-store.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1371990",
-          "author": "Ryan Mills",
-          "description": "Kemp stood up to Trump on his election lies — and it appears to be paying off.",
-          "link": "https://www.nationalreview.com/news/the-man-maga-missed-brian-kemp-defying-predictions-in-rematch-with-stacey-abrams-despite-trump-clash/",
-          "publishedOn": "2022-10-13T10:30:59.000Z",
-          "wordCount": 8994,
-          "title": "The Man MAGA Missed: Brian Kemp Defying Predictions in Rematch with Stacey Abrams Despite Trump Clash",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/brian-kemp-election-night.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1372421",
-          "author": "Ryan Mills",
-          "description": "The ACLU also claims it’s ‘illegal discrimination’ to prohibit teachers from flying gay-pride flags.",
-          "link": "https://www.nationalreview.com/news/aclu-accuses-pennsylvania-school-district-of-discrimination-for-requiring-parental-consent-for-student-gender-transition/",
-          "publishedOn": "2022-10-13T10:30:58.000Z",
-          "wordCount": 8457,
-          "title": "ACLU Files Complaint against Pennsylvania School District for Requiring Parental Consent for Student Gender Transition",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/06/transgender-flag-pride-flag.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1372565",
-          "author": "The Editors",
-          "description": "His $44 billion move to address the ‘family glitch’ is another breathtaking power grab by the president.",
-          "link": "https://www.nationalreview.com/2022/10/on-obamacare-biden-goes-where-even-obama-wouldnt/",
-          "publishedOn": "2022-10-13T10:30:51.000Z",
-          "wordCount": 7300,
-          "title": "On Obamacare, Biden Goes Where Even Obama Wouldn’t",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/joe-biden-white-house-1.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1372413",
-          "author": "Jay Nordlinger",
-          "description": "Out and about, hither and yon",
-          "link": "https://www.nationalreview.com/2022/10/snapshots-of-america-3/",
-          "publishedOn": "2022-10-13T10:30:34.000Z",
-          "wordCount": 8735,
-          "title": "Snapshots of America",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/scrub-a-dub.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1372455",
-          "author": "Bobby Miller",
-          "description": "Conservatives across the spectrum agree: The soon-to-be-former senator from Nebraska wasted his time in office. Here’s why they’re wrong.",
-          "link": "https://www.nationalreview.com/2022/10/in-defense-of-ben-sasse/",
-          "publishedOn": "2022-10-13T10:30:30.000Z",
-          "wordCount": 8014,
-          "title": "In Defense of Ben Sasse",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/ben-sasse-capitol-hill-hearing.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1372248",
-          "author": "Colin Grabow",
-          "description": "The goal of U.S. food-aid programs should be to feed people, not serve as a backdoor subsidy to the U.S. maritime industry.",
-          "link": "https://www.nationalreview.com/2022/10/cargo-preference-laws-bilk-taxpayers-to-benefit-special-interests/",
-          "publishedOn": "2022-10-13T10:30:13.000Z",
-          "wordCount": 7702,
-          "title": "Cargo-Preference Laws Bilk Taxpayers to Benefit Special Interests",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/usaid-boxes.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1372458",
-          "author": "Brad Lingo and John Ashcroft",
-          "description": "What’s happening at Yale is only one example of a broader trend.",
-          "link": "https://www.nationalreview.com/2022/10/the-progressive-flight-from-law-and-the-constitution/",
-          "publishedOn": "2022-10-13T10:30:01.000Z",
-          "wordCount": 7780,
-          "title": "The Progressive Flight from Law and the Constitution",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/scotus-new-term-2022.jpg?fit=2057%2C1200"
         }
       ]
     }
