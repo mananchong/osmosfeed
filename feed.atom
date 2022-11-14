@@ -2,10 +2,90 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mananchong.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-14T07:41:29.325Z</updated>
+    <updated>2022-11-14T17:04:30.023Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mananchong.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://mananchong.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mike Pence Says Trump’s January 6 Actions ‘Endangered Me and My Family’]]></title>
+        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1393802</id>
+        <link href="https://www.nationalreview.com/news/mike-pence-says-trumps-january-6-actions-endangered-me-and-my-family/"/>
+        <updated>2022-11-14T14:15:08.000Z</updated>
+        <summary type="html"><![CDATA[‘It was clear he decided to be part of the problem,’ Pence said.]]></summary>
+        <author>
+            <name>Ari Blaff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Don’t Blame McConnell]]></title>
+        <id>https://www.nationalreview.com/?p=1393685</id>
+        <link href="https://www.nationalreview.com/2022/11/dont-blame-mcconnell/"/>
+        <updated>2022-11-14T11:30:43.000Z</updated>
+        <summary type="html"><![CDATA[There are legitimate criticisms, but most of the case against him for Republicans’ midterm disappointment is malicious and ill-conceived.]]></summary>
+        <author>
+            <name>The Editors</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Failed Candidate Blake Masters Searches for a Scapegoat]]></title>
+        <id>https://www.nationalreview.com/?p=1393549</id>
+        <link href="https://www.nationalreview.com/2022/11/failed-candidate-blake-masters-searches-for-a-scapegoat/"/>
+        <updated>2022-11-14T11:30:42.000Z</updated>
+        <summary type="html"><![CDATA[The Peter Thiel acolyte seeks to blame his Arizona Senate miss on anything other than his own misguided campaign.]]></summary>
+        <author>
+            <name>Jack Butler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Florida on Our Minds]]></title>
+        <id>https://www.nationalreview.com/?p=1393662</id>
+        <link href="https://www.nationalreview.com/2022/11/florida-on-our-minds/"/>
+        <updated>2022-11-14T11:30:34.000Z</updated>
+        <summary type="html"><![CDATA[National Review has paid special attention to Florida as it has risen in political prominence. Help us keep it up.]]></summary>
+        <author>
+            <name>Charles C. W. Cooke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Trump Advantages]]></title>
+        <id>https://www.nationalreview.com/?p=1393688</id>
+        <link href="https://www.nationalreview.com/2022/11/the-trump-advantages/"/>
+        <updated>2022-11-14T11:30:20.000Z</updated>
+        <summary type="html"><![CDATA[He has some serious ones, despite the post-midterm drumbeat that this time he’s really toast.]]></summary>
+        <author>
+            <name>Michael Brendan Dougherty</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[One Man’s Political Education]]></title>
+        <id>https://www.nationalreview.com/?p=1393592</id>
+        <link href="https://www.nationalreview.com/2022/11/one-mans-political-education/"/>
+        <updated>2022-11-14T11:30:14.000Z</updated>
+        <summary type="html"><![CDATA[Mario Vargas Llosa, the great novelist, has written a book on his political development and the thinkers who influenced him: starting with Adam Smith.]]></summary>
+        <author>
+            <name>Jay Nordlinger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Apps Marketplace Isn’t Broken — Please, Congress, Don’t ‘Fix’ It]]></title>
+        <id>https://www.nationalreview.com/?p=1393508</id>
+        <link href="https://www.nationalreview.com/2022/11/the-apps-marketplace-isnt-broken-please-congress-dont-fix-it/"/>
+        <updated>2022-11-14T11:30:02.000Z</updated>
+        <summary type="html"><![CDATA[The digital age has progressed in no small part because we have allowed the Internet and its applications to be pretty much a regulation-free playground.]]></summary>
+        <author>
+            <name>Stephen Moore</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Do Americans <i>Prefer</i> Abortion?]]></title>
+        <id>https://www.nationalreview.com/?p=1393666</id>
+        <link href="https://www.nationalreview.com/2022/11/do-americans-prefer-abortion/"/>
+        <updated>2022-11-14T11:30:01.000Z</updated>
+        <summary type="html"><![CDATA[We need a critical post-Roe examination of conscience.]]></summary>
+        <author>
+            <name>Kathryn Jean Lopez</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Our Mail-In Mess]]></title>
         <id>https://www.nationalreview.com/?p=1393645</id>
@@ -14,6 +94,48 @@
         <summary type="html"><![CDATA[Why do elections take longer and longer to count, when everything else is getting faster?]]></summary>
         <author>
             <name>John Fund</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[R Weekly 2022-W46 {rtoot}, column headers, apply functions, NBA posters]]></title>
+        <id>https://rweekly.org/2022-W46.html</id>
+        <link href="https://rweekly.org/2022-W46.html"/>
+        <updated>2022-11-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hello and welcome to this new issue!
+How to have (my) content shared by R Weekly?
+This week’s release was curated by Ryo Nakagawara, with help from the R Weekly team members and contributors.
+Highlight
+{rtoot}: Collecting and analyzing mastodon data!
+Fixing broken and irregular column headers
+Let’s Get Apply’ing
+NBA Posters
+Insights
+{rtoot}: Collecting and analyzing mastodon data!
+
+Regular, intentional, and time-boxed yak shaving. (A conversation with Jenny Bryan about productive incremental learning)
+Representations of Spatial Data
+My journey developing {explore} 1.0.0
+R in the Real World
+NBA Posters
+
+R in Academia
+Code and paper for “Human capital mediates natural selection in contemporary humans”
+New Packages
+📦 Go Live for More New Pkgs 📦
+CRAN
+{rtoot} 0.1.0: Collecting and Analyzing M…]]></summary>
+        <author>
+            <name>RWeekly.org - Blogs to Learn R from the Community</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tom Emmer Does Not Deserve to Be GOP Whip]]></title>
+        <id>https://www.nationalreview.com/?p=1393633</id>
+        <link href="https://www.nationalreview.com/2022/11/tom-emmer-does-not-deserve-to-be-gop-whip/"/>
+        <updated>2022-11-13T23:25:08.000Z</updated>
+        <summary type="html"><![CDATA[He deserves the lion’s share of the blame for the GOP’s dismal showing in the House.]]></summary>
+        <author>
+            <name>Nate Hochman</name>
         </author>
     </entry>
     <entry>

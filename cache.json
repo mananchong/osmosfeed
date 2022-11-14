@@ -6,6 +6,16 @@
       "siteUrl": "https://rweekly.org/atom.xml",
       "articles": [
         {
+          "id": "https://rweekly.org/2022-W46.html",
+          "author": null,
+          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Ryo Nakagawara, with help from the R Weekly team members and contributors.\nHighlight\n{rtoot}: Collecting and analyzing mastodon data!\nFixing broken and irregular column headers\nLet’s Get Apply’ing\nNBA Posters\nInsights\n{rtoot}: Collecting and analyzing mastodon data!\n\nRegular, intentional, and time-boxed yak shaving. (A conversation with Jenny Bryan about productive incremental learning)\nRepresentations of Spatial Data\nMy journey developing {explore} 1.0.0\nR in the Real World\nNBA Posters\n\nR in Academia\nCode and paper for “Human capital mediates natural selection in contemporary humans”\nNew Packages\n📦 Go Live for More New Pkgs 📦\nCRAN\n{rtoot} 0.1.0: Collecting and Analyzing M…",
+          "link": "https://rweekly.org/2022-W46.html",
+          "publishedOn": "2022-11-14T00:00:00.000Z",
+          "wordCount": 6123,
+          "title": "R Weekly 2022-W46 {rtoot}, column headers, apply functions, NBA posters",
+          "imageUrl": "https://rweekly.org/public/facebook.png"
+        },
+        {
           "id": "https://rweekly.org/2022-W45.html",
           "author": null,
           "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Batool Almarzouq, with help from the wonderful R Weekly team members and contributors.\nHighlight\nUsing GoogleSheets as a Database in R— Yeay!\nLevel Up Your Plots: A Code-along Workshop\nRegular, intentional, and time-boxed yak shaving\nInsights\nRegular, intentional, and time-boxed yak shaving\n\nAdding Mastodon Social Link to Hugo & Blogdown Website Template\nSpacetime representations aren’t good—yet\nR in the Real World\nModeling the secular trend in a cluster randomized trial using very flexible models\n\nR in Academia\nCode to replicate the empirical results from the paper “Trade models in the European Union”.\nAccompanying code for Bee Swarm Optimization Paper\nManuscript material f…",
@@ -55,6 +65,86 @@
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
         {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1393802",
+          "author": "Ari Blaff",
+          "description": "‘It was clear he decided to be part of the problem,’ Pence said.",
+          "link": "https://www.nationalreview.com/news/mike-pence-says-trumps-january-6-actions-endangered-me-and-my-family/",
+          "publishedOn": "2022-11-14T14:15:08.000Z",
+          "wordCount": 7030,
+          "title": "Mike Pence Says Trump’s January 6 Actions ‘Endangered Me and My Family’",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/Mike-Pence-5.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1393685",
+          "author": "The Editors",
+          "description": "There are legitimate criticisms, but most of the case against him for Republicans’ midterm disappointment is malicious and ill-conceived.",
+          "link": "https://www.nationalreview.com/2022/11/dont-blame-mcconnell/",
+          "publishedOn": "2022-11-14T11:30:43.000Z",
+          "wordCount": 7679,
+          "title": "Don’t Blame McConnell",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/Untitled-design-16.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1393549",
+          "author": "Jack Butler",
+          "description": "The Peter Thiel acolyte seeks to blame his Arizona Senate miss on anything other than his own misguided campaign.",
+          "link": "https://www.nationalreview.com/2022/11/failed-candidate-blake-masters-searches-for-a-scapegoat/",
+          "publishedOn": "2022-11-14T11:30:42.000Z",
+          "wordCount": 8411,
+          "title": "Failed Candidate Blake Masters Searches for a Scapegoat",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/masters.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1393662",
+          "author": "Charles C. W. Cooke",
+          "description": "National Review has paid special attention to Florida as it has risen in political prominence. Help us keep it up.",
+          "link": "https://www.nationalreview.com/2022/11/florida-on-our-minds/",
+          "publishedOn": "2022-11-14T11:30:34.000Z",
+          "wordCount": 7350,
+          "title": "Florida on Our Minds",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/calkf.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1393688",
+          "author": "Michael Brendan Dougherty",
+          "description": "He has some serious ones, despite the post-midterm drumbeat that this time he’s really toast.",
+          "link": "https://www.nationalreview.com/2022/11/the-trump-advantages/",
+          "publishedOn": "2022-11-14T11:30:20.000Z",
+          "wordCount": 7706,
+          "title": "The Trump Advantages",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/Untitled-design-17-1.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1393592",
+          "author": "Jay Nordlinger",
+          "description": "Mario Vargas Llosa, the great novelist, has written a book on his political development and the thinkers who influenced him: starting with Adam Smith.",
+          "link": "https://www.nationalreview.com/2022/11/one-mans-political-education/",
+          "publishedOn": "2022-11-14T11:30:14.000Z",
+          "wordCount": 8846,
+          "title": "One Man’s Political Education",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2017/06/goat-and-feast-trujillo-vargas-llosa-and-more.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1393508",
+          "author": "Stephen Moore",
+          "description": "The digital age has progressed in no small part because we have allowed the Internet and its applications to be pretty much a regulation-free playground.",
+          "link": "https://www.nationalreview.com/2022/11/the-apps-marketplace-isnt-broken-please-congress-dont-fix-it/",
+          "publishedOn": "2022-11-14T11:30:02.000Z",
+          "wordCount": 11719,
+          "title": "The Apps Marketplace Isn’t Broken — Please, Congress, Don’t ‘Fix’ It",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/Trump-DeSantis.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1393666",
+          "author": "Kathryn Jean Lopez",
+          "description": "We need a critical post-Roe examination of conscience.",
+          "link": "https://www.nationalreview.com/2022/11/do-americans-prefer-abortion/",
+          "publishedOn": "2022-11-14T11:30:01.000Z",
+          "wordCount": 7788,
+          "title": "Do Americans <i>Prefer</i> Abortion?",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/Untitled-design-15.jpg?fit=2057%2C1200"
+        },
+        {
           "id": "https://www.nationalreview.com/?p=1393645",
           "author": "John Fund",
           "description": "Why do elections take longer and longer to count, when everything else is getting faster?",
@@ -63,6 +153,16 @@
           "wordCount": 7881,
           "title": "Our Mail-In Mess",
           "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/kjf.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1393633",
+          "author": "Nate Hochman",
+          "description": "He deserves the lion’s share of the blame for the GOP’s dismal showing in the House.",
+          "link": "https://www.nationalreview.com/2022/11/tom-emmer-does-not-deserve-to-be-gop-whip/",
+          "publishedOn": "2022-11-13T23:25:08.000Z",
+          "wordCount": 8261,
+          "title": "Tom Emmer Does Not Deserve to Be GOP Whip",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/emmer.jpg?fit=2057%2C1200"
         },
         {
           "id": "https://www.nationalreview.com/?post_type=blog-post&p=1393553",
