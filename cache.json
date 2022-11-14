@@ -55,6 +55,26 @@
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
         {
+          "id": "https://www.nationalreview.com/?p=1393645",
+          "author": "John Fund",
+          "description": "Why do elections take longer and longer to count, when everything else is getting faster?",
+          "link": "https://www.nationalreview.com/2022/11/our-mail-in-mess/",
+          "publishedOn": "2022-11-14T00:09:42.000Z",
+          "wordCount": 7881,
+          "title": "Our Mail-In Mess",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/kjf.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1393553",
+          "author": "Caroline Downey",
+          "description": "Infighting among Republican leadership in Congress and elsewhere has ensued since the poor performance at the polls.",
+          "link": "https://www.nationalreview.com/news/hawley-declares-gop-dead-after-midterm-bust/",
+          "publishedOn": "2022-11-13T18:02:35.000Z",
+          "wordCount": 6764,
+          "title": "Hawley Declares GOP ‘Dead’ after Midterm Bust",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/02/cpac-20212-7.jpg?fit=2057%2C1200"
+        },
+        {
           "id": "https://www.nationalreview.com/?p=1393516",
           "author": "Andrew Stuttaford",
           "description": "The Week of November 7, 2022: ESG, the economy, energy, fiscal policy, student loans, and much, much more.",
@@ -4703,96 +4723,6 @@
           "wordCount": 8676,
           "title": "Why America Needs Freedom Conservatives",
           "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/03/star-spangled-banner.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1375250",
-          "author": "Dan McLaughlin",
-          "description": "The major elections in the two states are mirror images of each other.",
-          "link": "https://www.nationalreview.com/2022/10/in-2022-pennsylvania-is-bizarro-georgia/",
-          "publishedOn": "2022-10-15T18:58:14.000Z",
-          "wordCount": 7767,
-          "title": "In 2022, Pennsylvania Is Bizarro Georgia",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/2022-Midterms.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1375181",
-          "author": "Brittany Bernstein",
-          "description": "Despite the man’s not violating any local mask mandates, Judge Charles Gilchrist held him in contempt of court.",
-          "link": "https://www.nationalreview.com/news/nc-judge-throws-jury-candidate-in-jail-for-refusing-to-wear-mask/",
-          "publishedOn": "2022-10-15T16:50:10.000Z",
-          "wordCount": 6899,
-          "title": "N.C. Judge Throws Jury Candidate in Jail for Refusing to Wear Mask",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/01/covid-mask-escalator.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1375105",
-          "author": "Brittany Bernstein",
-          "description": "Democrats have claimed the Supreme Court is ‘illegitimate’ after the Court overturned Roe v. Wade.",
-          "link": "https://www.nationalreview.com/news/obama-says-hes-open-to-supreme-court-reform-but-warns-against-explicit-political-games/",
-          "publishedOn": "2022-10-15T14:54:13.000Z",
-          "wordCount": 7061,
-          "title": "Obama Says He’s Open to Supreme Court Reform but Warns against ‘Explicit Political Games’",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2021/08/barack-obama-2.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1375083",
-          "author": "Brittany Bernstein",
-          "description": "Mike Itkis, who is running against longtime congressman Jerry Nadler, uploaded the 13-minute video to Pornhub over the summer.",
-          "link": "https://www.nationalreview.com/news/congressional-candidate-stars-in-porn-video-to-show-hes-sex-positive/",
-          "publishedOn": "2022-10-15T13:25:15.000Z",
-          "wordCount": 7055,
-          "title": "Congressional Candidate Stars in Porn Video to Show He’s ‘Sex Positive’",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2021/11/porn-use.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1374629",
-          "author": "Andrew C. McCarthy",
-          "description": "From start to finish, the committee has been an extended exercise in empty political theater.",
-          "link": "https://www.nationalreview.com/2022/10/the-january-6-committee-ends-with-a-whimper/",
-          "publishedOn": "2022-10-15T10:30:39.000Z",
-          "wordCount": 8895,
-          "title": "The January 6 Committee Ends with a Whimper",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/january-6-committee-101322.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1374377",
-          "author": "Brian T. Allen",
-          "description": "An entrancing exhibit highlights women artists, painting a dreamy path to revolution.",
-          "link": "https://www.nationalreview.com/2022/10/witches-war-and-sex-in-surrealism-and-magic/",
-          "publishedOn": "2022-10-15T10:30:33.000Z",
-          "wordCount": 9226,
-          "title": "Witches, War, and Sex in <i>Surrealism and Magic</i>",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/BA1-12_kurt_seligmann_baphomet.jpg?fit=1200%2C700"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1374221",
-          "author": "Andrew Follett",
-          "description": "The Left promises that millions of good ‘green jobs’ are right around the corner, but companies keep announcing layoffs in that extremely unproductive sector.",
-          "link": "https://www.nationalreview.com/2022/10/about-those-green-jobs-they-keep-vanishing/",
-          "publishedOn": "2022-10-15T10:30:30.000Z",
-          "wordCount": 7624,
-          "title": "About Those Green Jobs . . . They Keep Vanishing",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/solar-panel-installers.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1374163",
-          "author": "Fred Bauer",
-          "description": "China and Russia may be struggling, but tensions in Western systems of government persist.",
-          "link": "https://www.nationalreview.com/2022/10/liberal-democracy-hasnt-prevailed-yet/",
-          "publishedOn": "2022-10-15T10:30:08.000Z",
-          "wordCount": 8515,
-          "title": "Liberal Democracy Hasn’t Prevailed Yet",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/03/sotu-speech-2022-31.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1374018",
-          "author": "Matthew Continetti",
-          "description": "Joe Biden’s terrible economic legacy.",
-          "link": "https://www.nationalreview.com/2022/10/the-stagflation-president/",
-          "publishedOn": "2022-10-15T10:30:04.000Z",
-          "wordCount": 7516,
-          "title": "The Stagflation President",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/joe-biden-white-house-2.jpg?fit=2057%2C1200"
         }
       ]
     }
