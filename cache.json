@@ -34,16 +34,6 @@
           "wordCount": 6317,
           "title": "R Weekly 2022-W44 Data Scientists or Software Developers, Understanding Shiny, and New TidyX",
           "imageUrl": "https://rweekly.org/public/facebook.png"
-        },
-        {
-          "id": "https://rweekly.org/2022-W42.html",
-          "author": null,
-          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Kelly Bodwin, with help from the R Weekly team members and contributors.\nHighlight\n{startup} 0.19.0 - Friendly R Startup Configuration\nThe grammar of tables in python (pandas) and R (gt)\nLet’s make maps with bertin.js in Quarto\n\nInsights\nThe grammar of tables in python (pandas) and R (gt)\nR for Machine Learning\nIntroducng the {text} package for language analysis\n\nR in the Real World\nR in Organizations\nR in Academia\nResources\nHow to keep yourself updated with R news\nNew Packages\n📦 Go Live for More New Pkgs 📦\nCRAN\nBioconductor\nGitHub or Bitbucket\n{daiquiri}: Temporal Shifts in record data\nvivainsights\nshinyuieditor (updates)\n\n{deps}: Dependency Management with roxygen-style …",
-          "link": "https://rweekly.org/2022-W42.html",
-          "publishedOn": "2022-10-17T00:00:00.000Z",
-          "wordCount": 5684,
-          "title": "R Weekly 2022-W42 Friendly Rprofile startup, the grammar of tables, and maps in Quarto.",
-          "imageUrl": "https://rweekly.org/public/facebook.png"
         }
       ]
     },
@@ -64,6 +54,96 @@
       "feedUrl": "https://www.nationalreview.com/feed/",
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1394522",
+          "author": "Brittany Bernstein",
+          "description": "Pompeo said he plans to decide whether to run in 2024 by the spring.",
+          "link": "https://www.nationalreview.com/news/pompeo-says-trumps-2024-announcement-will-not-impact-his-own-decision-calls-for-more-seriousness-in-gop-leadership/",
+          "publishedOn": "2022-11-15T16:55:05.000Z",
+          "wordCount": 7426,
+          "title": "Pompeo Says Trump’s 2024 Announcement Will Not Impact His Own Decision, Calls for ‘More Seriousness’ in GOP Leadership",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/pompeo.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1394347",
+          "author": "Ari Blaff",
+          "description": "The student-loan repayment moratorium has been extended four times since first taking effect in March 2020.",
+          "link": "https://www.nationalreview.com/news/biden-administration-considers-extending-student-loan-moratorium-once-again-after-forgiveness-order-legal-defeats/",
+          "publishedOn": "2022-11-15T14:04:25.000Z",
+          "wordCount": 7065,
+          "title": "Biden Administration Considers Extending Student-Loan Moratorium Once Again after ‘Forgiveness’ Order Legal Defeats",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/08/joe-biden-cardona.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1394055",
+          "author": "Adam M. Carrington",
+          "description": "A ‘burn it all down’ mentality has yielded few practical victories. There must be a better way.",
+          "link": "https://www.nationalreview.com/2022/11/last-weeks-lesson-for-conservatives-run-on-reform-not-revolution/",
+          "publishedOn": "2022-11-15T11:30:59.000Z",
+          "wordCount": 7437,
+          "title": "Last Week’s Lesson for Conservatives: Run on Reform, Not Revolution",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/trumpfd.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1394084",
+          "author": "Andy Puzder",
+          "description": "The asset manager’s policies are making it a target for attorneys general and state treasurers around the country. Was the virtue-signaling worth it?",
+          "link": "https://www.nationalreview.com/2022/11/esg-blackrocks-hard-place/",
+          "publishedOn": "2022-11-15T11:30:38.000Z",
+          "wordCount": 7822,
+          "title": "ESG: BlackRock’s Hard Place",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/larryflink.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1392713",
+          "author": "Suranjan Sen and Daryl James",
+          "description": "Giving away or selling food shouldn’t send you to prison.",
+          "link": "https://www.nationalreview.com/2022/11/feeding-the-homeless-shouldnt-get-you-arrested/",
+          "publishedOn": "2022-11-15T11:30:35.000Z",
+          "wordCount": 7601,
+          "title": "Feeding the Homeless Shouldn’t Get You Arrested",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/homesl.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1394232",
+          "author": "Rich Lowry",
+          "description": "The party won’t decide to turn against Trump until voters give it clear, unmistakable permission.",
+          "link": "https://www.nationalreview.com/2022/11/dont-count-trump-out-yet/",
+          "publishedOn": "2022-11-15T11:30:32.000Z",
+          "wordCount": 7279,
+          "title": "Don’t Count Trump Out Yet",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/donald-trump-rally-1.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1394110",
+          "author": "Andrew Follett",
+          "description": "Republican leaders need to stop relying entirely on Election Day turnout.",
+          "link": "https://www.nationalreview.com/2022/11/to-stop-dems-next-perfect-storm-gop-needs-to-embrace-early-voting-now/",
+          "publishedOn": "2022-11-15T11:30:23.000Z",
+          "wordCount": 7979,
+          "title": "To Stop Dems’ Next Perfect Storm, GOP Needs to Embrace Early Voting Now",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2021/11/election-day-2021-26.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1394146",
+          "author": "John O'Sullivan",
+          "description": "The road from Davos to serfdom.",
+          "link": "https://www.nationalreview.com/2022/11/the-great-reset-to-the-1970s/",
+          "publishedOn": "2022-11-15T11:30:18.000Z",
+          "wordCount": 8891,
+          "title": "The Great Reset . . . to the 1970s!",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/Klaus-Schwab.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1393618",
+          "author": "Philip Plickert",
+          "description": "They’re adept at traffic obstruction and vandalism. Will they turn to terrorism next?",
+          "link": "https://www.nationalreview.com/2022/11/climate-warriors-are-descending-into-further-radicalism/",
+          "publishedOn": "2022-11-15T11:30:04.000Z",
+          "wordCount": 7722,
+          "title": "Climate Warriors Are Descending into Further Radicalism",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/juststopoil.jpg?fit=1500%2C875"
+        },
         {
           "id": "https://www.nationalreview.com/?post_type=blog-post&p=1390527",
           "author": "Caroline Downey",
@@ -4823,26 +4903,6 @@
           "wordCount": 7869,
           "title": "Biden’s Cryptocurrency Reports Highlight a Government Culture of Surveillance",
           "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/bitstop.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1375970",
-          "author": "John Fund",
-          "description": "He’s their pick for the top power player advancing Europe’s green agenda.",
-          "link": "https://www.nationalreview.com/2022/10/no-joke-greens-embrace-putin/",
-          "publishedOn": "2022-10-17T00:27:24.000Z",
-          "wordCount": 7125,
-          "title": "No Joke: Greens Embrace Putin",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/vladimir-putin.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1375962",
-          "author": "Rich Lowry",
-          "description": "The senator was exposed in his debate with Walker.",
-          "link": "https://www.nationalreview.com/2022/10/raphael-warnocks-hideous-abortion-extremism/",
-          "publishedOn": "2022-10-16T23:30:16.000Z",
-          "wordCount": 7342,
-          "title": "Raphael Warnock’s Hideous Abortion Extremism",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/raphael-warnock.jpg?fit=2057%2C1200"
         }
       ]
     }
