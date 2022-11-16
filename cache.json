@@ -55,6 +55,146 @@
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
         {
+          "id": "https://www.nationalreview.com/?p=1395155",
+          "author": "The Editors",
+          "description": "Trump is unworthy of the Republican nomination.",
+          "link": "https://www.nationalreview.com/2022/11/no/",
+          "publishedOn": "2022-11-16T03:12:22.000Z",
+          "wordCount": 7530,
+          "title": "No.",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/trump-announcement-4.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1394692",
+          "author": "Caroline Downey",
+          "description": "The announcement comes after a poor showing for Trump-endorsed candidates in the midterm elections.",
+          "link": "https://www.nationalreview.com/news/trump-announces-2024-presidential-run-americas-comeback-starts-right-now/",
+          "publishedOn": "2022-11-16T02:24:02.000Z",
+          "wordCount": 7490,
+          "title": "Trump Announces 2024 Presidential Run: ‘America’s Comeback Starts Right Now’",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/trump-announcement-1.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1395072",
+          "author": "Caroline Downey",
+          "description": "Mary Trump’s attorney, Roberta Kaplan, said the plaintiff will be pursuing an immediate appeal.",
+          "link": "https://www.nationalreview.com/news/judge-discards-mary-trump-fraud-lawsuit-against-uncle-donald-trump/",
+          "publishedOn": "2022-11-16T01:45:43.000Z",
+          "wordCount": 6776,
+          "title": "Judge Discards Mary Trump Fraud Lawsuit against Uncle Donald Trump",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/mary-trump-msnbc.jpg?fit=1200%2C700"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1395001",
+          "author": "Caroline Downey",
+          "description": "The busing is designed to call President Biden’s attention to the ongoing border crisis his lax border-enforcement policies have fueled, Republicans allege.",
+          "link": "https://www.nationalreview.com/news/governor-abbott-to-expand-migrant-drop-offs-to-philadelphia/",
+          "publishedOn": "2022-11-16T00:22:55.000Z",
+          "wordCount": 6877,
+          "title": "Governor Abbott to Expand Migrant Drop-Offs to Philadelphia",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/Greg-Abbott.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1394725",
+          "author": "Ari Blaff",
+          "description": "The Pentagon and Polish government have yet to confirm the strike.",
+          "link": "https://www.nationalreview.com/news/russian-missiles-cross-into-nato-member-poland-killing-two-report/",
+          "publishedOn": "2022-11-15T23:40:12.000Z",
+          "wordCount": 7073,
+          "title": "Russian Missiles Cross into NATO Member Poland, Killing Two: Polish Officials",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/russian-ukraine-war-111522-4.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1394837",
+          "author": "Brittany Bernstein",
+          "description": "Scott and McConnell clashed on political strategy for much of the year leading up to the midterms.",
+          "link": "https://www.nationalreview.com/news/rick-scott-to-challenge-mitch-mcconnell-for-top-republican-spot-in-senate/",
+          "publishedOn": "2022-11-15T20:58:54.000Z",
+          "wordCount": 6874,
+          "title": "Rick Scott to Challenge Mitch McConnell for Top Republican Spot in Senate",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/Untitled-design-2-1.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1394765",
+          "author": "Brittany Bernstein",
+          "description": "McCarthy defeated Biggs, a member of the House Freedom Caucus, in a 188-31 secret-ballot vote.",
+          "link": "https://www.nationalreview.com/news/mccarthy-survives-leadership-challenge-from-biggs/",
+          "publishedOn": "2022-11-15T20:23:48.000Z",
+          "wordCount": 7027,
+          "title": "McCarthy Survives Leadership Challenge from Biggs",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/04/Kevin-McCarthy-1.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1394702",
+          "author": "Dominic Pino",
+          "description": "The Passenger Vessel Services Act of 1886 blocks today’s major cruise lines from operating between U.S. ports.",
+          "link": "https://www.nationalreview.com/2022/11/the-shipping-protectionism-fun-police/",
+          "publishedOn": "2022-11-15T19:34:02.000Z",
+          "wordCount": 7535,
+          "title": "The Shipping-Protectionism Fun Police",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/cruise.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1394636",
+          "author": "Ryan Mills",
+          "description": "The parental-rights movement had a good showing last week, considering the power of the opposition, organizers told NR.",
+          "link": "https://www.nationalreview.com/news/growing-pains-conservative-school-board-leaders-thrilled-with-progress-despite-mixed-election-night-results/",
+          "publishedOn": "2022-11-15T19:20:07.000Z",
+          "wordCount": 8776,
+          "title": "Growing Pains: Conservative School-Board Leaders ‘Thrilled’ with Progress Despite Mixed Election-Night Results",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2021/06/loudoun-county-school-board-16.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1394598",
+          "author": "Isaac Schorr",
+          "description": "DeSantis did not name Trump when asked to respond to his criticisms, and instead likened his attacks to those launched by the media.",
+          "link": "https://www.nationalreview.com/news/desantis-brushes-off-trumps-attacks-check-out-the-scoreboard/",
+          "publishedOn": "2022-11-15T18:35:57.000Z",
+          "wordCount": 6688,
+          "title": "DeSantis Brushes Off Trump’s Attacks: ‘Check Out the Scoreboard’",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/midterm-campaigns-85.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1394592",
+          "author": "Brittany Bernstein",
+          "description": "‘There’s no question that he’s unfit for office, and I feel confident that he will never be president again.’",
+          "link": "https://www.nationalreview.com/news/liz-cheney-says-shes-confident-donald-trump-will-never-be-president-again/",
+          "publishedOn": "2022-11-15T17:55:07.000Z",
+          "wordCount": 6933,
+          "title": "Liz Cheney Says She’s ‘Confident’ Donald Trump Will ‘Never Be President Again’",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/06/liz-cheney-jan-6.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1394583",
+          "author": "Tim Busch and Alexandra DeSanctis",
+          "description": "Life can be a winning issue, no matter what abortion activists and the media argue.",
+          "link": "https://www.nationalreview.com/2022/11/the-midterms-showed-how-the-pro-life-movement-can-win/",
+          "publishedOn": "2022-11-15T17:33:56.000Z",
+          "wordCount": 7708,
+          "title": "The Midterms Showed How the Pro-Life Movement Can Win",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/06/roe-v-wade-overturned-17.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1394577",
+          "author": "Kent Lassman",
+          "description": "After three decades of existential this and that, the climate-change campaigners may have finally found a bridge too far.",
+          "link": "https://www.nationalreview.com/2022/11/cop27-cables-reality-bites-and-the-gobbledygook-of-nonbinding-goals/",
+          "publishedOn": "2022-11-15T17:29:43.000Z",
+          "wordCount": 7835,
+          "title": "COP27 Cables: Reality Bites and the Gobbledygook of Nonbinding Goals",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/COP27-1.jpg?fit=3434%2C2003"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1394533",
+          "author": "Ari Blaff",
+          "description": "Kanye West recently lost a slew of corporate sponsorships over his repeated public attacks on the Jewish people.",
+          "link": "https://www.nationalreview.com/news/jewish-cemetery-outside-chicago-vandalized-with-swastikas-kanye-was-rite/",
+          "publishedOn": "2022-11-15T17:24:58.000Z",
+          "wordCount": 6949,
+          "title": "Jewish Cemetery outside Chicago Vandalized with Swastikas: ‘Kanye Was Rite’",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/Jewish-cemetary.jpg?fit=2057%2C1200"
+        },
+        {
           "id": "https://www.nationalreview.com/?post_type=blog-post&p=1394522",
           "author": "Brittany Bernstein",
           "description": "Pompeo said he plans to decide whether to run in 2024 by the spring.",
@@ -4793,116 +4933,6 @@
           "wordCount": 6829,
           "title": "John Hinckley Jr. Admits Responsibility for Killing Reagan Aide James Brady",
           "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2021/09/hinckley.jpg?fit=2057%2C1157"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1376581",
-          "author": "Isaac Schorr and Brittany Bernstein",
-          "description": "Over the weekend, Fauci claimed to have had ‘nothing to do’ with ensuring that American kids spent months at home.",
-          "link": "https://www.nationalreview.com/news/correcting-faucis-revisionist-history-on-school-closures/",
-          "publishedOn": "2022-10-17T18:39:43.000Z",
-          "wordCount": 8210,
-          "title": "Correcting Fauci’s Revisionist History on School Closures",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/Anthony-Fauci-4.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1376549",
-          "author": "Brittany Bernstein",
-          "description": "Hutchinson has repeatedly said he’s considering running for president and has urged the GOP to move on from Trump.",
-          "link": "https://www.nationalreview.com/news/condoleeza-rice-to-headline-event-for-asa-hutchinson-as-arkansas-governor-teases-2024-presidential-bid/",
-          "publishedOn": "2022-10-17T18:08:20.000Z",
-          "wordCount": 6977,
-          "title": "Condoleezza Rice to Headline Event for Asa Hutchinson as Arkansas Governor Teases 2024 Presidential Bid",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2019/06/condoleezza-rice.jpg?fit=2057%2C1201"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1376527",
-          "author": "Andrew C. McCarthy",
-          "description": "The Iowa Republican’s explosive allegations, made in a letter sent to Biden administration officials last week, warrant a proper, unbiased investigation.",
-          "link": "https://www.nationalreview.com/2022/10/grassley-chinese-government-front-company-paid-biden-for-work-done-while-he-was-vp/",
-          "publishedOn": "2022-10-17T17:23:14.000Z",
-          "wordCount": 8266,
-          "title": "Grassley: Chinese-Government Front Company Paid Biden for Work Done While He Was VP",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2020/11/chuck-grassley-iowa.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1376503",
-          "author": "Philip Klein",
-          "description": "If you’re a celebrity or public figure with a very large platform, and you feel the itch to get something off your chest about the Jews, how about just don’t.",
-          "link": "https://www.nationalreview.com/2022/10/can-people-just-stop-talking-about-the-jews/",
-          "publishedOn": "2022-10-17T17:15:34.000Z",
-          "wordCount": 7720,
-          "title": "Can People Just Stop Talking about ‘the Jews’?",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/kanye-1.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1376332",
-          "author": "Isaac Schorr",
-          "description": "Independent women backed Democrats by a 14 point margin in September. Republicans now enjoy an 18 point advantage, according to a new poll.",
-          "link": "https://www.nationalreview.com/news/independent-women-swing-hard-toward-gop-despite-democrats-abortion-push/",
-          "publishedOn": "2022-10-17T14:44:39.000Z",
-          "wordCount": 7023,
-          "title": "Independent Women Swing Hard Toward GOP Despite Democrats’ Abortion Push",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/Woman-Voting-Pa-2.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1376344",
-          "author": "Ari Blaff",
-          "description": "Iran denies any involvement or role in supplying the drones to Russia.",
-          "link": "https://www.nationalreview.com/news/ukrainian-eu-officials-suspect-iranian-involvement-as-kamikaze-drones-wreak-havoc-on-kyiv/",
-          "publishedOn": "2022-10-17T14:04:17.000Z",
-          "wordCount": 6948,
-          "title": "Ukrainian, EU Officials Suspect Iranian Involvement as Kamikaze Drones Wreak Havoc on Kyiv",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/Kyiv-Ukraine.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1376289",
-          "author": "Ari Blaff",
-          "description": "‘In a world where conservative opinions are considered to be controversial we have to make sure we have the right to freely express ourselves.’",
-          "link": "https://www.nationalreview.com/news/kanye-west-set-to-buy-parler-after-social-media-ban-over-anti-semitic-remarks/",
-          "publishedOn": "2022-10-17T12:29:55.000Z",
-          "wordCount": 6917,
-          "title": "Kanye West Set to Buy Parler after Social-Media Ban over Antisemitic Remarks",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/GettyImages-1398688334-Kanye.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1375347",
-          "author": "Jeff Luse",
-          "description": "Americans need federal policy-makers to repeal the Jones Act now more than ever.",
-          "link": "https://www.nationalreview.com/2022/10/its-time-to-repeal-the-jones-act/",
-          "publishedOn": "2022-10-17T10:30:56.000Z",
-          "wordCount": 7434,
-          "title": "It’s Time to Repeal the Jones Act",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/container-ship-ny-harbor.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1374539",
-          "author": "Isaac Schorr",
-          "description": "A new Washington state law allows suspected criminals to escape by simply driving away from police.",
-          "link": "https://www.nationalreview.com/news/we-dont-need-you-how-local-dems-are-handcuffing-cops-and-driving-the-rise-in-crime/",
-          "publishedOn": "2022-10-17T10:30:54.000Z",
-          "wordCount": 9229,
-          "title": "‘We Don’t Need You’: How Local Dems Are Handcuffing Cops and Driving the Rise in Crime",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/minneapolis-police-crime-scene.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1374700",
-          "author": "The Editors",
-          "description": "Kathy Hochul, an emblem of New York’s decline, has done nothing to merit reelection. The Long Island Republican gives voters a real choice.",
-          "link": "https://www.nationalreview.com/2022/10/give-lee-zeldin-a-chance-to-bail-out-new-york/",
-          "publishedOn": "2022-10-17T10:30:29.000Z",
-          "wordCount": 8669,
-          "title": "Give Lee Zeldin a Chance to Bail Out New York",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/lee-zeldin-ny.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1373587",
-          "author": "Nicholas Anthony",
-          "description": "The government is steadily chipping away at financial privacy, while keeping most Americans in the dark about it.",
-          "link": "https://www.nationalreview.com/2022/10/bidens-cryptocurrency-reports-highlight-a-government-culture-of-surveillance/",
-          "publishedOn": "2022-10-17T10:30:24.000Z",
-          "wordCount": 7869,
-          "title": "Biden’s Cryptocurrency Reports Highlight a Government Culture of Surveillance",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/bitstop.jpg?fit=2057%2C1200"
         }
       ]
     }
