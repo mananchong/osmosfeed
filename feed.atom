@@ -2,10 +2,90 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mananchong.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-18T16:54:09.354Z</updated>
+    <updated>2022-11-19T07:38:45.635Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mananchong.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://mananchong.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[An Ironic Special Counsel for Trump]]></title>
+        <id>https://www.nationalreview.com/?p=1397465</id>
+        <link href="https://www.nationalreview.com/2022/11/an-ironic-special-counsel-for-trump/"/>
+        <updated>2022-11-18T23:58:37.000Z</updated>
+        <summary type="html"><![CDATA[Garland has ignored calls for a special prosecutor for the Bidens. Appointing one for Trump will make it harder to keep resisting.]]></summary>
+        <author>
+            <name>Andrew C. McCarthy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Theranos Founder Elizabeth Holmes Sentenced to 11 Years in Prison in Fraud Cause]]></title>
+        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1397405</id>
+        <link href="https://www.nationalreview.com/news/theranos-founder-elizabeth-holmes-sentenced-to-11-years-in-prison-in-fraud-cause/"/>
+        <updated>2022-11-18T22:54:38.000Z</updated>
+        <summary type="html"><![CDATA[Theranos, once valued at $9 billion, began its descent in 2015 after the Wall Street Journal reported that the company had misled investors and patients.]]></summary>
+        <author>
+            <name>Brittany Bernstein</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Texas Cannot Treat Illegal Immigration as an ‘Invasion’]]></title>
+        <id>https://www.nationalreview.com/?p=1397371</id>
+        <link href="https://www.nationalreview.com/2022/11/why-texas-cannot-treat-illegal-immigration-as-an-invasion/"/>
+        <updated>2022-11-18T21:53:36.000Z</updated>
+        <summary type="html"><![CDATA[The border crisis is real, but the Constitution, as interpreted by the Supreme Court, forbids states from interfering with border control or immigration.]]></summary>
+        <author>
+            <name>John Yoo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trump Blasts <span style="font-variant:small-caps">National Review</span>]]></title>
+        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1397334</id>
+        <link href="https://www.nationalreview.com/news/trump-blasts-national-review/"/>
+        <updated>2022-11-18T21:45:00.000Z</updated>
+        <summary type="html"><![CDATA[‘Why does anyone read the National Review. They are so negative to Conservatives and me.’]]></summary>
+        <author>
+            <name>Jack Crowe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bill Barr: It Would Be a ‘Tragedy’ If Trump Is GOP’s 2024 Nominee]]></title>
+        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1397289</id>
+        <link href="https://www.nationalreview.com/news/bill-bar-it-would-be-a-tragedy-if-trump-is-gops-2024-nominee/"/>
+        <updated>2022-11-18T21:18:35.000Z</updated>
+        <summary type="html"><![CDATA[Barr’s comments come days after Trump announced his intention to run for president for a third time.]]></summary>
+        <author>
+            <name>Brittany Bernstein</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The White Working Class Is Not Enough]]></title>
+        <id>https://www.nationalreview.com/?p=1397338</id>
+        <link href="https://www.nationalreview.com/2022/11/the-white-working-class-is-not-enough/"/>
+        <updated>2022-11-18T21:06:51.000Z</updated>
+        <summary type="html"><![CDATA[Until Republicans can find a way to turn out politically disaffected whites, they’ll need to worry about hemorrhaging support with suburbanites.]]></summary>
+        <author>
+            <name>Nate Hochman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Attorney General Garland to Name Special Counsel in Trump Criminal Investigations]]></title>
+        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1397238</id>
+        <link href="https://www.nationalreview.com/news/merrick-garland-to-name-special-counsel-in-trump-criminal-investigations-reports/"/>
+        <updated>2022-11-18T19:04:20.000Z</updated>
+        <summary type="html"><![CDATA[The announcement comes three days after Trump formally announced his plans to run for president.]]></summary>
+        <author>
+            <name>Brittany Bernstein</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Biden Administration Asks Supreme Court to Allow Student-Debt ‘Forgiveness’ Order to Take Effect]]></title>
+        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1397168</id>
+        <link href="https://www.nationalreview.com/news/biden-administration-asks-supreme-court-to-allow-student-debt-forgiveness-order-to-take-effect/"/>
+        <updated>2022-11-18T17:55:56.000Z</updated>
+        <summary type="html"><![CDATA[The government has stopped taking applications for the program since a federal judge blocked it last week.]]></summary>
+        <author>
+            <name>Caroline Downey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Seven Years Later, Still Surreal]]></title>
         <id>https://www.nationalreview.com/?p=1397110</id>
@@ -4875,146 +4955,6 @@ Quartaki: 6 hour introdu…]]></summary>
         <summary type="html"><![CDATA[Throughout November, the department will host a DEI Jeopardy-style game as well as a ‘reflection rally’ and other activities.]]></summary>
         <author>
             <name>Jimmy Quinn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[No, Kamala Harris, Pregnancy Centers Aren’t the Enemy]]></title>
-        <id>https://www.nationalreview.com/?p=1378931</id>
-        <link href="https://www.nationalreview.com/2022/10/no-kamala-harris-pregnancy-centers-arent-the-enemy/"/>
-        <updated>2022-10-20T18:57:35.000Z</updated>
-        <summary type="html"><![CDATA[The Left is attacking — sometimes literally — places that offer genuine help for mothers who need it.]]></summary>
-        <author>
-            <name>Denise Harle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How the Gubernatorial Races Are Breaking]]></title>
-        <id>https://www.nationalreview.com/?p=1378907</id>
-        <link href="https://www.nationalreview.com/2022/10/how-the-gubernatorial-races-are-breaking/"/>
-        <updated>2022-10-20T18:38:34.000Z</updated>
-        <summary type="html"><![CDATA[Republican have good chances in a few states, but, in others, much depends on late momentum and polling underestimations.]]></summary>
-        <author>
-            <name>Dan McLaughlin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[State Department Awards $20,000 to Ecuadorian Non-Profit to Host ‘Drag Theater Performances’]]></title>
-        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1378861</id>
-        <link href="https://www.nationalreview.com/news/state-department-awards-20000-to-ecuadorian-non-profit-to-host-drag-theater-performances/"/>
-        <updated>2022-10-20T17:40:46.000Z</updated>
-        <summary type="html"><![CDATA[Historically, the funding has gone toward English literacy and new technology for the cultural center.]]></summary>
-        <author>
-            <name>Ari Blaff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Judge: Trump Knew That Georgia Voting-Fraud Claims Were False]]></title>
-        <id>https://www.nationalreview.com/?p=1378853</id>
-        <link href="https://www.nationalreview.com/2022/10/judge-trump-knew-that-georgia-voting-fraud-claims-were-false/"/>
-        <updated>2022-10-20T17:26:31.000Z</updated>
-        <summary type="html"><![CDATA[. . . but swore they were true anyway.]]></summary>
-        <author>
-            <name>Andrew C. McCarthy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Former AG Loretta Lynch Defending Pfizer in Lawsuit over Minority-Only Fellowship Program]]></title>
-        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1378710</id>
-        <link href="https://www.nationalreview.com/news/former-ag-loretta-lynch-defending-pfizer-in-lawsuit-over-minority-only-fellowship-program/"/>
-        <updated>2022-10-20T15:39:51.000Z</updated>
-        <summary type="html"><![CDATA[Lynch recently represented the NFL in a racial discrimination suit and is conducting a ‘racial equity audit’ for Amazon.]]></summary>
-        <author>
-            <name>Isaac Schorr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Social Security Administration Allows People to Choose Their Own Gender on Forms]]></title>
-        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1378682</id>
-        <link href="https://www.nationalreview.com/news/social-security-administration-allows-people-to-choose-their-own-gender-on-forms/"/>
-        <updated>2022-10-20T13:24:05.000Z</updated>
-        <summary type="html"><![CDATA[Since President Biden took office, various federal agencies have eliminated biological sex in their record-keeping systems.]]></summary>
-        <author>
-            <name>Ari Blaff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Liz Truss Resigns as Prime Minister after Shortest Tenure in U.K. History]]></title>
-        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1378687</id>
-        <link href="https://www.nationalreview.com/news/liz-truss-resigns-as-u-k-prime-minister/"/>
-        <updated>2022-10-20T12:45:01.000Z</updated>
-        <summary type="html"><![CDATA[Truss succeeded the scandal-ridden Boris Johnson and was the last prime minister to be appointed by Queen Elizabeth II.]]></summary>
-        <author>
-            <name>Ari Blaff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Biden Reveals Support for Federal Abortion Fund]]></title>
-        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1378660</id>
-        <link href="https://www.nationalreview.com/news/biden-reveals-support-for-federal-abortion-fund/"/>
-        <updated>2022-10-20T12:14:35.000Z</updated>
-        <summary type="html"><![CDATA[The fund would cover costs associated with abortion, including time off work, travel, and childcare.]]></summary>
-        <author>
-            <name>Ari Blaff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The struggle for basic rights, &c.]]></title>
-        <id>https://www.nationalreview.com/?p=1378104</id>
-        <link href="https://www.nationalreview.com/2022/10/the-struggle-for-basic-rights-c/"/>
-        <updated>2022-10-20T10:30:40.000Z</updated>
-        <summary type="html"><![CDATA[On Iran, China, Saudi Arabia, Brazil, and more.]]></summary>
-        <author>
-            <name>Jay Nordlinger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Keep Belarus Out of Russia’s War on Ukraine]]></title>
-        <id>https://www.nationalreview.com/?p=1377556</id>
-        <link href="https://www.nationalreview.com/2022/10/how-to-keep-belarus-out-of-russias-war-on-ukraine/"/>
-        <updated>2022-10-20T10:30:38.000Z</updated>
-        <summary type="html"><![CDATA[The satellite of Moscow has been an ally but not a full belligerent. Here’s how the West can keep it that way, despite Putin’s aims.]]></summary>
-        <author>
-            <name>Seth Cropsey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Will Big Blue States Request Loan Forgiveness, Too?]]></title>
-        <id>https://www.nationalreview.com/?p=1376643</id>
-        <link href="https://www.nationalreview.com/2022/10/will-big-blue-states-request-loan-forgiveness-too/"/>
-        <updated>2022-10-20T10:30:33.000Z</updated>
-        <summary type="html"><![CDATA[California, New York, and Illinois have amassed large pandemic-era debts.]]></summary>
-        <author>
-            <name>Matt Weidinger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[John Durham Exposed the FBI’s Misconduct]]></title>
-        <id>https://www.nationalreview.com/?p=1378302</id>
-        <link href="https://www.nationalreview.com/2022/10/john-durham-exposed-the-fbis-misconduct/"/>
-        <updated>2022-10-20T10:30:29.000Z</updated>
-        <summary type="html"><![CDATA[FBI malfeasance was really on trial in the Danchenko case, and the verdict on that, emphatically, is guilty.]]></summary>
-        <author>
-            <name>The Editors</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Biden Regulators Are Coming for Your Furnace]]></title>
-        <id>https://www.nationalreview.com/?p=1378411</id>
-        <link href="https://www.nationalreview.com/2022/10/biden-regulators-are-coming-for-your-furnace/"/>
-        <updated>2022-10-20T10:30:23.000Z</updated>
-        <summary type="html"><![CDATA[The administration chooses climate-change politics over keeping Americans warm.]]></summary>
-        <author>
-            <name>Ben Lieberman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Enchanted Castle in Venice: The Fortuny Museum]]></title>
-        <id>https://www.nationalreview.com/?p=1377652</id>
-        <link href="https://www.nationalreview.com/2022/10/enchanted-castle-in-venice-fortuny-museum/"/>
-        <updated>2022-10-20T10:30:22.000Z</updated>
-        <summary type="html"><![CDATA[You’d think that fashion impresario Mariano Fortuny still lived there, amid his sumptuous textiles and design experiments.]]></summary>
-        <author>
-            <name>Brian T. Allen</name>
         </author>
     </entry>
 </feed>

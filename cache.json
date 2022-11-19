@@ -55,6 +55,86 @@
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
         {
+          "id": "https://www.nationalreview.com/?p=1397465",
+          "author": "Andrew C. McCarthy",
+          "description": "Garland has ignored calls for a special prosecutor for the Bidens. Appointing one for Trump will make it harder to keep resisting.",
+          "link": "https://www.nationalreview.com/2022/11/an-ironic-special-counsel-for-trump/",
+          "publishedOn": "2022-11-18T23:58:37.000Z",
+          "wordCount": 8404,
+          "title": "An Ironic Special Counsel for Trump",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/donald-trump-rally-1.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1397405",
+          "author": "Brittany Bernstein",
+          "description": "Theranos, once valued at $9 billion, began its descent in 2015 after the Wall Street Journal reported that the company had misled investors and patients.",
+          "link": "https://www.nationalreview.com/news/theranos-founder-elizabeth-holmes-sentenced-to-11-years-in-prison-in-fraud-cause/",
+          "publishedOn": "2022-11-18T22:54:38.000Z",
+          "wordCount": 7247,
+          "title": "Theranos Founder Elizabeth Holmes Sentenced to 11 Years in Prison in Fraud Cause",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/Elizabeth-Holmes.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1397371",
+          "author": "John Yoo",
+          "description": "The border crisis is real, but the Constitution, as interpreted by the Supreme Court, forbids states from interfering with border control or immigration.",
+          "link": "https://www.nationalreview.com/2022/11/why-texas-cannot-treat-illegal-immigration-as-an-invasion/",
+          "publishedOn": "2022-11-18T21:53:36.000Z",
+          "wordCount": 8765,
+          "title": "Why Texas Cannot Treat Illegal Immigration as an ‘Invasion’",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/border1.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1397334",
+          "author": "Jack Crowe",
+          "description": "‘Why does anyone read the National Review. They are so negative to Conservatives and me.’",
+          "link": "https://www.nationalreview.com/news/trump-blasts-national-review/",
+          "publishedOn": "2022-11-18T21:45:00.000Z",
+          "wordCount": 7066,
+          "title": "Trump Blasts <span style=\"font-variant:small-caps\">National Review</span>",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/trump-announcement-3.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1397289",
+          "author": "Brittany Bernstein",
+          "description": "Barr’s comments come days after Trump announced his intention to run for president for a third time.",
+          "link": "https://www.nationalreview.com/news/bill-bar-it-would-be-a-tragedy-if-trump-is-gops-2024-nominee/",
+          "publishedOn": "2022-11-18T21:18:35.000Z",
+          "wordCount": 7374,
+          "title": "Bill Barr: It Would Be a ‘Tragedy’ If Trump Is GOP’s 2024 Nominee",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/billbarr.jpg?fit=2468%2C1440"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1397338",
+          "author": "Nate Hochman",
+          "description": "Until Republicans can find a way to turn out politically disaffected whites, they’ll need to worry about hemorrhaging support with suburbanites.",
+          "link": "https://www.nationalreview.com/2022/11/the-white-working-class-is-not-enough/",
+          "publishedOn": "2022-11-18T21:06:51.000Z",
+          "wordCount": 7735,
+          "title": "The White Working Class Is Not Enough",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/biden-3.jpg?fit=2468%2C1440"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1397238",
+          "author": "Brittany Bernstein",
+          "description": "The announcement comes three days after Trump formally announced his plans to run for president.",
+          "link": "https://www.nationalreview.com/news/merrick-garland-to-name-special-counsel-in-trump-criminal-investigations-reports/",
+          "publishedOn": "2022-11-18T19:04:20.000Z",
+          "wordCount": 7238,
+          "title": "Attorney General Garland to Name Special Counsel in Trump Criminal Investigations",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/Garland.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1397168",
+          "author": "Caroline Downey",
+          "description": "The government has stopped taking applications for the program since a federal judge blocked it last week.",
+          "link": "https://www.nationalreview.com/news/biden-administration-asks-supreme-court-to-allow-student-debt-forgiveness-order-to-take-effect/",
+          "publishedOn": "2022-11-18T17:55:56.000Z",
+          "wordCount": 7144,
+          "title": "Biden Administration Asks Supreme Court to Allow Student-Debt ‘Forgiveness’ Order to Take Effect",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/Cancel-Student-Debt.jpg?fit=2057%2C1200"
+        },
+        {
           "id": "https://www.nationalreview.com/?p=1397110",
           "author": "Michael Brendan Dougherty",
           "description": "The Trump show remains strange. The sequel is already insane.",
@@ -4833,146 +4913,6 @@
           "wordCount": 7721,
           "title": "State Department Plans Ten-Day DEI Fest, Promoting ‘Psychological Safety at Work’",
           "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/blinken.jpg?fit=1695%2C989"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1378931",
-          "author": "Denise Harle",
-          "description": "The Left is attacking — sometimes literally — places that offer genuine help for mothers who need it.",
-          "link": "https://www.nationalreview.com/2022/10/no-kamala-harris-pregnancy-centers-arent-the-enemy/",
-          "publishedOn": "2022-10-20T18:57:35.000Z",
-          "wordCount": 7587,
-          "title": "No, Kamala Harris, Pregnancy Centers Aren’t the Enemy",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/kamala-1.jpg?fit=1811%2C1056"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1378907",
-          "author": "Dan McLaughlin",
-          "description": "Republican have good chances in a few states, but, in others, much depends on late momentum and polling underestimations.",
-          "link": "https://www.nationalreview.com/2022/10/how-the-gubernatorial-races-are-breaking/",
-          "publishedOn": "2022-10-20T18:38:34.000Z",
-          "wordCount": 7591,
-          "title": "How the Gubernatorial Races Are Breaking",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/Oz-Walker-Laxalt-1.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1378861",
-          "author": "Ari Blaff",
-          "description": "Historically, the funding has gone toward English literacy and new technology for the cultural center.",
-          "link": "https://www.nationalreview.com/news/state-department-awards-20000-to-ecuadorian-non-profit-to-host-drag-theater-performances/",
-          "publishedOn": "2022-10-20T17:40:46.000Z",
-          "wordCount": 6839,
-          "title": "State Department Awards $20,000 to Ecuadorian Non-Profit to Host ‘Drag Theater Performances’",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/08/drag.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1378853",
-          "author": "Andrew C. McCarthy",
-          "description": ". . . but swore they were true anyway.",
-          "link": "https://www.nationalreview.com/2022/10/judge-trump-knew-that-georgia-voting-fraud-claims-were-false/",
-          "publishedOn": "2022-10-20T17:26:31.000Z",
-          "wordCount": 8037,
-          "title": "Judge: Trump Knew That Georgia Voting-Fraud Claims Were False",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/08/dtrump1.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1378710",
-          "author": "Isaac Schorr",
-          "description": "Lynch recently represented the NFL in a racial discrimination suit and is conducting a ‘racial equity audit’ for Amazon.",
-          "link": "https://www.nationalreview.com/news/former-ag-loretta-lynch-defending-pfizer-in-lawsuit-over-minority-only-fellowship-program/",
-          "publishedOn": "2022-10-20T15:39:51.000Z",
-          "wordCount": 7090,
-          "title": "Former AG Loretta Lynch Defending Pfizer in Lawsuit over Minority-Only Fellowship Program",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/loretta-lynch.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1378682",
-          "author": "Ari Blaff",
-          "description": "Since President Biden took office, various federal agencies have eliminated biological sex in their record-keeping systems.",
-          "link": "https://www.nationalreview.com/news/social-security-administration-allows-people-to-choose-their-own-gender-on-forms/",
-          "publishedOn": "2022-10-20T13:24:05.000Z",
-          "wordCount": 6759,
-          "title": "Social Security Administration Allows People to Choose Their Own Gender on Forms",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2018/08/social-security-sign.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1378687",
-          "author": "Ari Blaff",
-          "description": "Truss succeeded the scandal-ridden Boris Johnson and was the last prime minister to be appointed by Queen Elizabeth II.",
-          "link": "https://www.nationalreview.com/news/liz-truss-resigns-as-u-k-prime-minister/",
-          "publishedOn": "2022-10-20T12:45:01.000Z",
-          "wordCount": 6891,
-          "title": "Liz Truss Resigns as Prime Minister after Shortest Tenure in U.K. History",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/Liz-Truss-2.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1378660",
-          "author": "Ari Blaff",
-          "description": "The fund would cover costs associated with abortion, including time off work, travel, and childcare.",
-          "link": "https://www.nationalreview.com/news/biden-reveals-support-for-federal-abortion-fund/",
-          "publishedOn": "2022-10-20T12:14:35.000Z",
-          "wordCount": 6931,
-          "title": "Biden Reveals Support for Federal Abortion Fund",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/Joe-Biden-4.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1378104",
-          "author": "Jay Nordlinger",
-          "description": "On Iran, China, Saudi Arabia, Brazil, and more.",
-          "link": "https://www.nationalreview.com/2022/10/the-struggle-for-basic-rights-c/",
-          "publishedOn": "2022-10-20T10:30:40.000Z",
-          "wordCount": 7888,
-          "title": "The struggle for basic rights, &c.",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/mahsa-amini-protests-iran-2.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1377556",
-          "author": "Seth Cropsey",
-          "description": "The satellite of Moscow has been an ally but not a full belligerent. Here’s how the West can keep it that way, despite Putin’s aims.",
-          "link": "https://www.nationalreview.com/2022/10/how-to-keep-belarus-out-of-russias-war-on-ukraine/",
-          "publishedOn": "2022-10-20T10:30:38.000Z",
-          "wordCount": 7596,
-          "title": "How to Keep Belarus Out of Russia’s War on Ukraine",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/Lukashenko-Putin-1.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1376643",
-          "author": "Matt Weidinger",
-          "description": "California, New York, and Illinois have amassed large pandemic-era debts.",
-          "link": "https://www.nationalreview.com/2022/10/will-big-blue-states-request-loan-forgiveness-too/",
-          "publishedOn": "2022-10-20T10:30:33.000Z",
-          "wordCount": 7320,
-          "title": "Will Big Blue States Request Loan Forgiveness, Too?",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/07/fjkd.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1378302",
-          "author": "The Editors",
-          "description": "FBI malfeasance was really on trial in the Danchenko case, and the verdict on that, emphatically, is guilty.",
-          "link": "https://www.nationalreview.com/2022/10/john-durham-exposed-the-fbis-misconduct/",
-          "publishedOn": "2022-10-20T10:30:29.000Z",
-          "wordCount": 7521,
-          "title": "John Durham Exposed the FBI’s Misconduct",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/GettyImages-1241098403-Durham.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1378411",
-          "author": "Ben Lieberman",
-          "description": "The administration chooses climate-change politics over keeping Americans warm.",
-          "link": "https://www.nationalreview.com/2022/10/biden-regulators-are-coming-for-your-furnace/",
-          "publishedOn": "2022-10-20T10:30:23.000Z",
-          "wordCount": 7398,
-          "title": "Biden Regulators Are Coming for Your Furnace",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/gas-furnace-maintenance.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1377652",
-          "author": "Brian T. Allen",
-          "description": "You’d think that fashion impresario Mariano Fortuny still lived there, amid his sumptuous textiles and design experiments.",
-          "link": "https://www.nationalreview.com/2022/10/enchanted-castle-in-venice-fortuny-museum/",
-          "publishedOn": "2022-10-20T10:30:22.000Z",
-          "wordCount": 8813,
-          "title": "An Enchanted Castle in Venice: The Fortuny Museum",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/BrianLeadArt.jpg?fit=2057%2C1200"
         }
       ]
     }
