@@ -2,10 +2,90 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mananchong.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-19T07:38:45.635Z</updated>
+    <updated>2022-11-19T16:52:24.824Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mananchong.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://mananchong.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pompeo: GOP Is ‘Tired of Losing’]]></title>
+        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1397767</id>
+        <link href="https://www.nationalreview.com/news/pompeo-gop-is-tired-of-losing/"/>
+        <updated>2022-11-19T16:34:09.000Z</updated>
+        <summary type="html"><![CDATA[The former secretary of state seemed to take a jab at former president Trump.]]></summary>
+        <author>
+            <name>Brittany Bernstein</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pence: Biden DOJ’s Decision to Appoint Trump Special Counsel Is ‘Troubling’]]></title>
+        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1397694</id>
+        <link href="https://www.nationalreview.com/news/pence-biden-dojs-decision-to-appoint-trump-special-counsel-is-troubling/"/>
+        <updated>2022-11-19T14:46:49.000Z</updated>
+        <summary type="html"><![CDATA[The former vice president criticized the timing of the move, coming just days after Trump’s 2024 campaign announcement.]]></summary>
+        <author>
+            <name>Brittany Bernstein</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meret Oppenheim Exhibition Is a Marvel about a Swiss Unicorn]]></title>
+        <id>https://www.nationalreview.com/?p=1397083</id>
+        <link href="https://www.nationalreview.com/2022/11/meret-oppenheim-exhibition-is-a-marvel-about-a-swiss-unicorn/"/>
+        <updated>2022-11-19T11:30:54.000Z</updated>
+        <summary type="html"><![CDATA[The maker of the famous fur teacup is an artist like no other, and she gets the ravishing show she deserves, at MoMa.]]></summary>
+        <author>
+            <name>Brian T. Allen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In Wisconsin, a Big ‘Ope’ for the GOP]]></title>
+        <id>https://www.nationalreview.com/?p=1397288</id>
+        <link href="https://www.nationalreview.com/2022/11/in-wisconsin-a-big-ope-for-the-gop/"/>
+        <updated>2022-11-19T11:30:45.000Z</updated>
+        <summary type="html"><![CDATA[America’s Dairyland confirmed a law of political nature.]]></summary>
+        <author>
+            <name>Luther Ray Abel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[At UChicago, Much Ado about ‘Whiteness’]]></title>
+        <id>https://www.nationalreview.com/?p=1397506</id>
+        <link href="https://www.nationalreview.com/2022/11/at-uchicago-much-ado-about-whiteness/"/>
+        <updated>2022-11-19T11:30:37.000Z</updated>
+        <summary type="html"><![CDATA[The school’s free-speech principles compel it to allow a controversial course on ‘whiteness.’ But as a bad idea, the class should be abandoned thereafter.]]></summary>
+        <author>
+            <name>Graham Hillard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Trump Investigations Mount]]></title>
+        <id>https://www.nationalreview.com/?p=1397220</id>
+        <link href="https://www.nationalreview.com/2022/11/the-trump-investigations-mount/"/>
+        <updated>2022-11-19T11:30:31.000Z</updated>
+        <summary type="html"><![CDATA[Does the Republican Party want to nominate an erratic 78-year-old stuck in an investigatory metastasis as its 2024 presidential candidate?]]></summary>
+        <author>
+            <name>Andrew C. McCarthy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Students Deserve to Enjoy Silence]]></title>
+        <id>https://www.nationalreview.com/?p=1396961</id>
+        <link href="https://www.nationalreview.com/2022/11/students-deserve-to-enjoy-silence/"/>
+        <updated>2022-11-19T11:30:26.000Z</updated>
+        <summary type="html"><![CDATA[All children, not just those in affluent schools, deserve the academic gains and solace that come with silence. It’s up to adults to provide that for them.]]></summary>
+        <author>
+            <name>Daniel Buck</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Song Lyrics Shouldn’t Get You the Death Penalty]]></title>
+        <id>https://www.nationalreview.com/?p=1397272</id>
+        <link href="https://www.nationalreview.com/2022/11/song-lyrics-shouldnt-get-you-the-death-penalty/"/>
+        <updated>2022-11-19T11:30:14.000Z</updated>
+        <summary type="html"><![CDATA[A Nigerian musician sentenced to death for musical ‘blasphemy’ is challenging his country’s law.]]></summary>
+        <author>
+            <name>Sean Nelson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[An Ironic Special Counsel for Trump]]></title>
         <id>https://www.nationalreview.com/?p=1397465</id>
@@ -4915,46 +4995,6 @@ Quartaki: 6 hour introdu…]]></summary>
         <summary type="html"><![CDATA[And other questions about the war in Ukraine.]]></summary>
         <author>
             <name>Michael Brendan Dougherty</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Justice Barrett Rejects Emergency Request to Block Biden’s Student-Debt Forgiveness Plan]]></title>
-        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1379122</id>
-        <link href="https://www.nationalreview.com/news/justice-barrett-rejects-emergency-request-to-block-bidens-student-debt-forgiveness-plan/"/>
-        <updated>2022-10-20T22:47:07.000Z</updated>
-        <summary type="html"><![CDATA[Barrett’s one-line decision preserves a lower court’s judgment that the group lacked standing to sue.]]></summary>
-        <author>
-            <name>Caroline Downey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Abortion Zealotry Is Leading the Democrats to a Midterm Slaughter]]></title>
-        <id>https://www.nationalreview.com/?p=1379121</id>
-        <link href="https://www.nationalreview.com/2022/10/abortion-zealotry-is-leading-the-democrats-to-a-midterm-slaughter/"/>
-        <updated>2022-10-20T21:45:30.000Z</updated>
-        <summary type="html"><![CDATA[Even as the electorate clearly prioritizes the economy, Biden and his party’s candidates insist on ignoring it.]]></summary>
-        <author>
-            <name>Charles C. W. Cooke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pentagon to Pay Travel Expenses for Service Members’ Abortions]]></title>
-        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1379056</id>
-        <link href="https://www.nationalreview.com/news/pentagon-to-pay-travel-expenses-for-service-members-abortions/"/>
-        <updated>2022-10-20T21:42:37.000Z</updated>
-        <summary type="html"><![CDATA[The department assured that it has long offered contraception and family planning services to its service members.]]></summary>
-        <author>
-            <name>Caroline Downey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[State Department Plans Ten-Day DEI Fest, Promoting ‘Psychological Safety at Work’]]></title>
-        <id>https://www.nationalreview.com/?p=1379055</id>
-        <link href="https://www.nationalreview.com/2022/10/state-department-plans-ten-day-dei-fest-promoting-psychological-safety-at-work/"/>
-        <updated>2022-10-20T21:04:10.000Z</updated>
-        <summary type="html"><![CDATA[Throughout November, the department will host a DEI Jeopardy-style game as well as a ‘reflection rally’ and other activities.]]></summary>
-        <author>
-            <name>Jimmy Quinn</name>
         </author>
     </entry>
 </feed>

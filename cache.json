@@ -55,6 +55,86 @@
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
         {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1397767",
+          "author": "Brittany Bernstein",
+          "description": "The former secretary of state seemed to take a jab at former president Trump.",
+          "link": "https://www.nationalreview.com/news/pompeo-gop-is-tired-of-losing/",
+          "publishedOn": "2022-11-19T16:34:09.000Z",
+          "wordCount": 6963,
+          "title": "Pompeo: GOP Is ‘Tired of Losing’",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/pompeo.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1397694",
+          "author": "Brittany Bernstein",
+          "description": "The former vice president criticized the timing of the move, coming just days after Trump’s 2024 campaign announcement.",
+          "link": "https://www.nationalreview.com/news/pence-biden-dojs-decision-to-appoint-trump-special-counsel-is-troubling/",
+          "publishedOn": "2022-11-19T14:46:49.000Z",
+          "wordCount": 7308,
+          "title": "Pence: Biden DOJ’s Decision to Appoint Trump Special Counsel Is ‘Troubling’",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/02/mike-pence-1.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1397083",
+          "author": "Brian T. Allen",
+          "description": "The maker of the famous fur teacup is an artist like no other, and she gets the ravishing show she deserves, at MoMa.",
+          "link": "https://www.nationalreview.com/2022/11/meret-oppenheim-exhibition-is-a-marvel-about-a-swiss-unicorn/",
+          "publishedOn": "2022-11-19T11:30:54.000Z",
+          "wordCount": 9016,
+          "title": "Meret Oppenheim Exhibition Is a Marvel about a Swiss Unicorn",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/1lead.jpg?fit=2468%2C1440"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1397288",
+          "author": "Luther Ray Abel",
+          "description": "America’s Dairyland confirmed a law of political nature.",
+          "link": "https://www.nationalreview.com/2022/11/in-wisconsin-a-big-ope-for-the-gop/",
+          "publishedOn": "2022-11-19T11:30:45.000Z",
+          "wordCount": 8043,
+          "title": "In Wisconsin, a Big ‘Ope’ for the GOP",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/Tony-Evers.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1397506",
+          "author": "Graham Hillard",
+          "description": "The school’s free-speech principles compel it to allow a controversial course on ‘whiteness.’ But as a bad idea, the class should be abandoned thereafter.",
+          "link": "https://www.nationalreview.com/2022/11/at-uchicago-much-ado-about-whiteness/",
+          "publishedOn": "2022-11-19T11:30:37.000Z",
+          "wordCount": 7570,
+          "title": "At UChicago, Much Ado about ‘Whiteness’",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/chicago.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1397220",
+          "author": "Andrew C. McCarthy",
+          "description": "Does the Republican Party want to nominate an erratic 78-year-old stuck in an investigatory metastasis as its 2024 presidential candidate?",
+          "link": "https://www.nationalreview.com/2022/11/the-trump-investigations-mount/",
+          "publishedOn": "2022-11-19T11:30:31.000Z",
+          "wordCount": 9278,
+          "title": "The Trump Investigations Mount",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/Donald-Trump-15.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1396961",
+          "author": "Daniel Buck",
+          "description": "All children, not just those in affluent schools, deserve the academic gains and solace that come with silence. It’s up to adults to provide that for them.",
+          "link": "https://www.nationalreview.com/2022/11/students-deserve-to-enjoy-silence/",
+          "publishedOn": "2022-11-19T11:30:26.000Z",
+          "wordCount": 8425,
+          "title": "Students Deserve to Enjoy Silence",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/Untitled-design-4-2.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1397272",
+          "author": "Sean Nelson",
+          "description": "A Nigerian musician sentenced to death for musical ‘blasphemy’ is challenging his country’s law.",
+          "link": "https://www.nationalreview.com/2022/11/song-lyrics-shouldnt-get-you-the-death-penalty/",
+          "publishedOn": "2022-11-19T11:30:14.000Z",
+          "wordCount": 7444,
+          "title": "Song Lyrics Shouldn’t Get You the Death Penalty",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/Untitled-design-9.jpg?fit=2057%2C1200"
+        },
+        {
           "id": "https://www.nationalreview.com/?p=1397465",
           "author": "Andrew C. McCarthy",
           "description": "Garland has ignored calls for a special prosecutor for the Bidens. Appointing one for Trump will make it harder to keep resisting.",
@@ -4873,46 +4953,6 @@
           "wordCount": 7897,
           "title": "How Does This End?",
           "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/russian-ukraine-war-100322-6.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1379122",
-          "author": "Caroline Downey",
-          "description": "Barrett’s one-line decision preserves a lower court’s judgment that the group lacked standing to sue.",
-          "link": "https://www.nationalreview.com/news/justice-barrett-rejects-emergency-request-to-block-bidens-student-debt-forgiveness-plan/",
-          "publishedOn": "2022-10-20T22:47:07.000Z",
-          "wordCount": 6928,
-          "title": "Justice Barrett Rejects Emergency Request to Block Biden’s Student-Debt Forgiveness Plan",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2021/06/acb.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1379121",
-          "author": "Charles C. W. Cooke",
-          "description": "Even as the electorate clearly prioritizes the economy, Biden and his party’s candidates insist on ignoring it.",
-          "link": "https://www.nationalreview.com/2022/10/abortion-zealotry-is-leading-the-democrats-to-a-midterm-slaughter/",
-          "publishedOn": "2022-10-20T21:45:30.000Z",
-          "wordCount": 7531,
-          "title": "Abortion Zealotry Is Leading the Democrats to a Midterm Slaughter",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/joe-biden-roe-v-wade-1.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1379056",
-          "author": "Caroline Downey",
-          "description": "The department assured that it has long offered contraception and family planning services to its service members.",
-          "link": "https://www.nationalreview.com/news/pentagon-to-pay-travel-expenses-for-service-members-abortions/",
-          "publishedOn": "2022-10-20T21:42:37.000Z",
-          "wordCount": 6993,
-          "title": "Pentagon to Pay Travel Expenses for Service Members’ Abortions",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/03/Pentagon-Logo.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1379055",
-          "author": "Jimmy Quinn",
-          "description": "Throughout November, the department will host a DEI Jeopardy-style game as well as a ‘reflection rally’ and other activities.",
-          "link": "https://www.nationalreview.com/2022/10/state-department-plans-ten-day-dei-fest-promoting-psychological-safety-at-work/",
-          "publishedOn": "2022-10-20T21:04:10.000Z",
-          "wordCount": 7721,
-          "title": "State Department Plans Ten-Day DEI Fest, Promoting ‘Psychological Safety at Work’",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/blinken.jpg?fit=1695%2C989"
         }
       ]
     }
