@@ -55,6 +55,26 @@
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
         {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1397964",
+          "author": "Caroline Downey",
+          "description": "‘The people have spoken. Trump will be reinstated. Vox Populi, Vox Dei,’ Musk wrote.",
+          "link": "https://www.nationalreview.com/news/elon-musk-restores-trumps-twitter-account/",
+          "publishedOn": "2022-11-20T02:09:34.000Z",
+          "wordCount": 7090,
+          "title": "Elon Musk Reinstates Trump’s Twitter Account",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/04/elontrump.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1397802",
+          "author": "Brittany Bernstein",
+          "description": "Hogan noted DeSantis has not even been sworn in for his second term as governor yet.",
+          "link": "https://www.nationalreview.com/news/larry-hogan-says-hes-not-sure-if-desantis-wants-to-take-on-trump/",
+          "publishedOn": "2022-11-19T17:46:21.000Z",
+          "wordCount": 7020,
+          "title": "Larry Hogan Says He’s ‘Not Sure’ if DeSantis ‘Wants to Take On’ Trump",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2020/08/2020-07-22T224254Z_181831426_RC2MYH97X9HU_RTRMADP_3_HEALTH-CORONAVIRUS-USA-MARYLAND.jpg?fit=2057%2C1200"
+        },
+        {
           "id": "https://www.nationalreview.com/?post_type=blog-post&p=1397767",
           "author": "Brittany Bernstein",
           "description": "The former secretary of state seemed to take a jab at former president Trump.",
@@ -4783,176 +4803,6 @@
           "wordCount": 7124,
           "title": "Charlie Crist’s Campaign Manager Resigned after Being Arrested in Domestic Violence Case",
           "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/christ.jpg?fit=1726%2C1007"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1379548",
-          "author": "Dan Lennington and Rick Esenberg",
-          "description": "It is possible that no one will be able to bring a successful lawsuit in this matter. If you think there’s something wrong with that, you’re right.",
-          "link": "https://www.nationalreview.com/2022/10/bidens-student-loan-action-is-obviously-unconstitutional-so-why-cant-anyone-stop-it/",
-          "publishedOn": "2022-10-21T18:15:02.000Z",
-          "wordCount": 8238,
-          "title": "Biden’s Student-Loan Action Is Obviously Unconstitutional. So Why Can’t Anyone Stop It?",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/Joe-Biden-10.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1379575",
-          "author": "Brittany Bernstein",
-          "description": "The subpoena comes one week after the committee voted unanimously to subpoena Trump.",
-          "link": "https://www.nationalreview.com/news/january-6-committee-issues-subpoena-for-trump-testimony-documents/",
-          "publishedOn": "2022-10-21T18:10:45.000Z",
-          "wordCount": 7285,
-          "title": "January 6 Committee Issues Subpoena for Trump Testimony, Documents",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/Trump-2.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1379551",
-          "author": "Ari Blaff",
-          "description": "‘Everybody and their brother has investigated Hunter.’",
-          "link": "https://www.nationalreview.com/news/i-know-that-hunter-is-innocent-first-lady-jill-biden-defends-stepson-as-federal-gun-charges-loom/",
-          "publishedOn": "2022-10-21T18:03:11.000Z",
-          "wordCount": 7102,
-          "title": "‘I Know That Hunter Is Innocent’: First Lady Jill Biden Defends Stepson as Federal Gun Charges Loom",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/07/jill-biden-white-house.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1379509",
-          "author": "Isaac Schorr",
-          "description": "Legal challenges to Biden’s debt-cancellation order have struggled to get off the ground due to standing issues.",
-          "link": "https://www.nationalreview.com/news/student-debt-cancellation-drives-526-percent-monthly-deficit-spike/",
-          "publishedOn": "2022-10-21T17:58:20.000Z",
-          "wordCount": 7211,
-          "title": "Student-Debt Cancellation Drives 526 Percent Monthly Deficit Spike",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/02/college-graduation-commencement.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1379483",
-          "author": "Alexandra DeSanctis",
-          "description": "Stacey Abrams suggests that killing people will fix our economic woes.",
-          "link": "https://www.nationalreview.com/2022/10/abortion-doesnt-solve-inflation/",
-          "publishedOn": "2022-10-21T16:08:27.000Z",
-          "wordCount": 7438,
-          "title": "Abortion Doesn’t Solve Inflation",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2020/04/Stacey-Abrams.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1379446",
-          "author": "Ari Blaff",
-          "description": "Bannon was found guilty of failing to comply with a subpoena issued by the January 6 committee.",
-          "link": "https://www.nationalreview.com/news/former-trump-adviser-steve-bannon-sentenced-to-four-months-in-prison/",
-          "publishedOn": "2022-10-21T15:16:18.000Z",
-          "wordCount": 6981,
-          "title": "Former Trump Adviser Steve Bannon Sentenced to Four Months in Prison",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/steve-bannon-arraignment-2.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1379427",
-          "author": "Andrew Stuttaford",
-          "description": "Much of the media, the opposition, and even a notable section of the parliamentary Conservative party has blamed this on ‘free-market fundamentalism.’",
-          "link": "https://www.nationalreview.com/2022/10/the-death-of-the-thatcherite-rebirth/",
-          "publishedOn": "2022-10-21T15:12:36.000Z",
-          "wordCount": 8492,
-          "title": "The Death of the Thatcherite Rebirth",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/grieving-queen-elizabeth-7.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1379334",
-          "author": "Ari Blaff",
-          "description": "Two days in, early voting has increased 85 percent since the previous midterm four years ago.",
-          "link": "https://www.nationalreview.com/news/georgia-early-midterm-voting-outpacing-2020-presidential-election-despite-suppression-fear-mongering/",
-          "publishedOn": "2022-10-21T12:29:07.000Z",
-          "wordCount": 7122,
-          "title": "Georgia Early Midterm Voting Outpacing 2020 Presidential Election Despite Suppression Fear-Mongering",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/Georgia-Early-Voting.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1378865",
-          "author": "Farhad Rezaei",
-          "description": "Sanctions relief would only make it easier for the Islamic Republic to fund its brutal crackdown on the Iranian people.",
-          "link": "https://www.nationalreview.com/2022/10/how-not-to-help-irans-protesters/",
-          "publishedOn": "2022-10-21T10:30:52.000Z",
-          "wordCount": 8015,
-          "title": "How Not to Help Iran’s Protesters",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/ali-khamenei-iran-2057.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1377676",
-          "author": "Caroline Downey",
-          "description": "Sorority members who objected to the male student’s admission were accused of being bigots.",
-          "link": "https://www.nationalreview.com/news/sorority-girl-at-university-of-wyoming-speaks-out-on-transgender-pledge-hes-just-calling-himself-a-girl/",
-          "publishedOn": "2022-10-21T10:30:47.000Z",
-          "wordCount": 8122,
-          "title": "University of Wyoming Sorority Girl Speaks Out on Transgender Pledge: ‘He’s Just Calling Himself a Girl’",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/university-wyoming-campus.kpg_.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1378803",
-          "author": "Jay Nordlinger",
-          "description": "On Mitt Romney and GOP politics; the new ex-Democrat Tulsi Gabbard; Mike Pence at Heritage; scenes from space; state dinosaurs; and more.",
-          "link": "https://www.nationalreview.com/2022/10/mitt-givin-em-fits-c/",
-          "publishedOn": "2022-10-21T10:30:36.000Z",
-          "wordCount": 8426,
-          "title": "Mitt, givin’ ’em fits, &c.",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2019/10/mitt-romney-1.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1378753",
-          "author": "Samuel Gregg",
-          "description": "The burden of proof to demonstrate why a government should pursue an industrial policy is on industrial-policy advocates.",
-          "link": "https://www.nationalreview.com/2022/10/the-six-problems-every-industrial-policy-faces/",
-          "publishedOn": "2022-10-21T10:30:26.000Z",
-          "wordCount": 8247,
-          "title": "The Six Problems Every Industrial Policy Faces",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/biden-supply-chain.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1379268",
-          "author": "Armond White",
-          "description": "Dwayne Johnson: no longer The Rock, but a pebble, degrading his fans and himself",
-          "link": "https://www.nationalreview.com/2022/10/black-adams-race-war-fantasy/",
-          "publishedOn": "2022-10-21T10:30:21.000Z",
-          "wordCount": 7255,
-          "title": "<i>Black Adam</i>’s Race-War Fantasy",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/black-adam-dwayne-johnson.jpg?fit=1200%2C700"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1379172",
-          "author": "The Editors",
-          "description": "Voters will remember her premiership, the shortest in British history, for far longer than it lasted.",
-          "link": "https://www.nationalreview.com/2022/10/no-truss/",
-          "publishedOn": "2022-10-21T10:30:18.000Z",
-          "wordCount": 7490,
-          "title": "No Truss",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/liz-truss-resignation.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1378715",
-          "author": "Jason Hart",
-          "description": "Liz Truss’s successor would be better off looking elsewhere in America for inspiration.",
-          "link": "https://www.nationalreview.com/2022/10/john-kasichs-fiscal-stewardship-of-ohio-is-nothing-to-brag-about/",
-          "publishedOn": "2022-10-21T10:30:10.000Z",
-          "wordCount": 7684,
-          "title": "John Kasich’s Fiscal Stewardship of Ohio Is Nothing to Brag About",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2018/12/RTS265J2.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1378289",
-          "author": "Sean Higgins",
-          "description": "The Labor Department expands its regulatory reach over gig companies.",
-          "link": "https://www.nationalreview.com/2022/10/the-end-of-freelancing/",
-          "publishedOn": "2022-10-21T10:30:08.000Z",
-          "wordCount": 7524,
-          "title": "The End of Freelancing?",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2018/01/tax-reform-helps-gig-economy-workers-1.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1379250",
-          "author": "Michael Brendan Dougherty",
-          "description": "And other questions about the war in Ukraine.",
-          "link": "https://www.nationalreview.com/2022/10/how-does-this-end/",
-          "publishedOn": "2022-10-21T10:30:02.000Z",
-          "wordCount": 7897,
-          "title": "How Does This End?",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/russian-ukraine-war-100322-6.jpg?fit=2057%2C1200"
         }
       ]
     }

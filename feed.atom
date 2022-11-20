@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mananchong.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-19T16:52:24.824Z</updated>
+    <updated>2022-11-20T07:38:37.439Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mananchong.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://mananchong.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Elon Musk Reinstates Trump’s Twitter Account]]></title>
+        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1397964</id>
+        <link href="https://www.nationalreview.com/news/elon-musk-restores-trumps-twitter-account/"/>
+        <updated>2022-11-20T02:09:34.000Z</updated>
+        <summary type="html"><![CDATA[‘The people have spoken. Trump will be reinstated. Vox Populi, Vox Dei,’ Musk wrote.]]></summary>
+        <author>
+            <name>Caroline Downey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Larry Hogan Says He’s ‘Not Sure’ if DeSantis ‘Wants to Take On’ Trump]]></title>
+        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1397802</id>
+        <link href="https://www.nationalreview.com/news/larry-hogan-says-hes-not-sure-if-desantis-wants-to-take-on-trump/"/>
+        <updated>2022-11-19T17:46:21.000Z</updated>
+        <summary type="html"><![CDATA[Hogan noted DeSantis has not even been sworn in for his second term as governor yet.]]></summary>
+        <author>
+            <name>Brittany Bernstein</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pompeo: GOP Is ‘Tired of Losing’]]></title>
         <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1397767</id>
@@ -4825,176 +4845,6 @@ Quartaki: 6 hour introdu…]]></summary>
         <summary type="html"><![CDATA[His departure from the campaign came just three weeks ahead of Election Day.]]></summary>
         <author>
             <name>Brittany Bernstein</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Biden’s Student-Loan Action Is Obviously Unconstitutional. So Why Can’t Anyone Stop It?]]></title>
-        <id>https://www.nationalreview.com/?p=1379548</id>
-        <link href="https://www.nationalreview.com/2022/10/bidens-student-loan-action-is-obviously-unconstitutional-so-why-cant-anyone-stop-it/"/>
-        <updated>2022-10-21T18:15:02.000Z</updated>
-        <summary type="html"><![CDATA[It is possible that no one will be able to bring a successful lawsuit in this matter. If you think there’s something wrong with that, you’re right.]]></summary>
-        <author>
-            <name>Dan Lennington and Rick Esenberg</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[January 6 Committee Issues Subpoena for Trump Testimony, Documents]]></title>
-        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1379575</id>
-        <link href="https://www.nationalreview.com/news/january-6-committee-issues-subpoena-for-trump-testimony-documents/"/>
-        <updated>2022-10-21T18:10:45.000Z</updated>
-        <summary type="html"><![CDATA[The subpoena comes one week after the committee voted unanimously to subpoena Trump.]]></summary>
-        <author>
-            <name>Brittany Bernstein</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘I Know That Hunter Is Innocent’: First Lady Jill Biden Defends Stepson as Federal Gun Charges Loom]]></title>
-        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1379551</id>
-        <link href="https://www.nationalreview.com/news/i-know-that-hunter-is-innocent-first-lady-jill-biden-defends-stepson-as-federal-gun-charges-loom/"/>
-        <updated>2022-10-21T18:03:11.000Z</updated>
-        <summary type="html"><![CDATA[‘Everybody and their brother has investigated Hunter.’]]></summary>
-        <author>
-            <name>Ari Blaff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Student-Debt Cancellation Drives 526 Percent Monthly Deficit Spike]]></title>
-        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1379509</id>
-        <link href="https://www.nationalreview.com/news/student-debt-cancellation-drives-526-percent-monthly-deficit-spike/"/>
-        <updated>2022-10-21T17:58:20.000Z</updated>
-        <summary type="html"><![CDATA[Legal challenges to Biden’s debt-cancellation order have struggled to get off the ground due to standing issues.]]></summary>
-        <author>
-            <name>Isaac Schorr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Abortion Doesn’t Solve Inflation]]></title>
-        <id>https://www.nationalreview.com/?p=1379483</id>
-        <link href="https://www.nationalreview.com/2022/10/abortion-doesnt-solve-inflation/"/>
-        <updated>2022-10-21T16:08:27.000Z</updated>
-        <summary type="html"><![CDATA[Stacey Abrams suggests that killing people will fix our economic woes.]]></summary>
-        <author>
-            <name>Alexandra DeSanctis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Former Trump Adviser Steve Bannon Sentenced to Four Months in Prison]]></title>
-        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1379446</id>
-        <link href="https://www.nationalreview.com/news/former-trump-adviser-steve-bannon-sentenced-to-four-months-in-prison/"/>
-        <updated>2022-10-21T15:16:18.000Z</updated>
-        <summary type="html"><![CDATA[Bannon was found guilty of failing to comply with a subpoena issued by the January 6 committee.]]></summary>
-        <author>
-            <name>Ari Blaff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Death of the Thatcherite Rebirth]]></title>
-        <id>https://www.nationalreview.com/?p=1379427</id>
-        <link href="https://www.nationalreview.com/2022/10/the-death-of-the-thatcherite-rebirth/"/>
-        <updated>2022-10-21T15:12:36.000Z</updated>
-        <summary type="html"><![CDATA[Much of the media, the opposition, and even a notable section of the parliamentary Conservative party has blamed this on ‘free-market fundamentalism.’]]></summary>
-        <author>
-            <name>Andrew Stuttaford</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Georgia Early Midterm Voting Outpacing 2020 Presidential Election Despite Suppression Fear-Mongering]]></title>
-        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1379334</id>
-        <link href="https://www.nationalreview.com/news/georgia-early-midterm-voting-outpacing-2020-presidential-election-despite-suppression-fear-mongering/"/>
-        <updated>2022-10-21T12:29:07.000Z</updated>
-        <summary type="html"><![CDATA[Two days in, early voting has increased 85 percent since the previous midterm four years ago.]]></summary>
-        <author>
-            <name>Ari Blaff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Not to Help Iran’s Protesters]]></title>
-        <id>https://www.nationalreview.com/?p=1378865</id>
-        <link href="https://www.nationalreview.com/2022/10/how-not-to-help-irans-protesters/"/>
-        <updated>2022-10-21T10:30:52.000Z</updated>
-        <summary type="html"><![CDATA[Sanctions relief would only make it easier for the Islamic Republic to fund its brutal crackdown on the Iranian people.]]></summary>
-        <author>
-            <name>Farhad Rezaei</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[University of Wyoming Sorority Girl Speaks Out on Transgender Pledge: ‘He’s Just Calling Himself a Girl’]]></title>
-        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1377676</id>
-        <link href="https://www.nationalreview.com/news/sorority-girl-at-university-of-wyoming-speaks-out-on-transgender-pledge-hes-just-calling-himself-a-girl/"/>
-        <updated>2022-10-21T10:30:47.000Z</updated>
-        <summary type="html"><![CDATA[Sorority members who objected to the male student’s admission were accused of being bigots.]]></summary>
-        <author>
-            <name>Caroline Downey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mitt, givin’ ’em fits, &c.]]></title>
-        <id>https://www.nationalreview.com/?p=1378803</id>
-        <link href="https://www.nationalreview.com/2022/10/mitt-givin-em-fits-c/"/>
-        <updated>2022-10-21T10:30:36.000Z</updated>
-        <summary type="html"><![CDATA[On Mitt Romney and GOP politics; the new ex-Democrat Tulsi Gabbard; Mike Pence at Heritage; scenes from space; state dinosaurs; and more.]]></summary>
-        <author>
-            <name>Jay Nordlinger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Six Problems Every Industrial Policy Faces]]></title>
-        <id>https://www.nationalreview.com/?p=1378753</id>
-        <link href="https://www.nationalreview.com/2022/10/the-six-problems-every-industrial-policy-faces/"/>
-        <updated>2022-10-21T10:30:26.000Z</updated>
-        <summary type="html"><![CDATA[The burden of proof to demonstrate why a government should pursue an industrial policy is on industrial-policy advocates.]]></summary>
-        <author>
-            <name>Samuel Gregg</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<i>Black Adam</i>’s Race-War Fantasy]]></title>
-        <id>https://www.nationalreview.com/?p=1379268</id>
-        <link href="https://www.nationalreview.com/2022/10/black-adams-race-war-fantasy/"/>
-        <updated>2022-10-21T10:30:21.000Z</updated>
-        <summary type="html"><![CDATA[Dwayne Johnson: no longer The Rock, but a pebble, degrading his fans and himself]]></summary>
-        <author>
-            <name>Armond White</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[No Truss]]></title>
-        <id>https://www.nationalreview.com/?p=1379172</id>
-        <link href="https://www.nationalreview.com/2022/10/no-truss/"/>
-        <updated>2022-10-21T10:30:18.000Z</updated>
-        <summary type="html"><![CDATA[Voters will remember her premiership, the shortest in British history, for far longer than it lasted.]]></summary>
-        <author>
-            <name>The Editors</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[John Kasich’s Fiscal Stewardship of Ohio Is Nothing to Brag About]]></title>
-        <id>https://www.nationalreview.com/?p=1378715</id>
-        <link href="https://www.nationalreview.com/2022/10/john-kasichs-fiscal-stewardship-of-ohio-is-nothing-to-brag-about/"/>
-        <updated>2022-10-21T10:30:10.000Z</updated>
-        <summary type="html"><![CDATA[Liz Truss’s successor would be better off looking elsewhere in America for inspiration.]]></summary>
-        <author>
-            <name>Jason Hart</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The End of Freelancing?]]></title>
-        <id>https://www.nationalreview.com/?p=1378289</id>
-        <link href="https://www.nationalreview.com/2022/10/the-end-of-freelancing/"/>
-        <updated>2022-10-21T10:30:08.000Z</updated>
-        <summary type="html"><![CDATA[The Labor Department expands its regulatory reach over gig companies.]]></summary>
-        <author>
-            <name>Sean Higgins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Does This End?]]></title>
-        <id>https://www.nationalreview.com/?p=1379250</id>
-        <link href="https://www.nationalreview.com/2022/10/how-does-this-end/"/>
-        <updated>2022-10-21T10:30:02.000Z</updated>
-        <summary type="html"><![CDATA[And other questions about the war in Ukraine.]]></summary>
-        <author>
-            <name>Michael Brendan Dougherty</name>
         </author>
     </entry>
 </feed>
