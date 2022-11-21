@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mananchong.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-20T16:52:29.809Z</updated>
+    <updated>2022-11-21T07:39:42.147Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mananchong.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://mananchong.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CBS News Quits Twitter. . . . For a Few Hours]]></title>
+        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1398226</id>
+        <link href="https://www.nationalreview.com/news/cbs-news-quits-twitter-for-a-few-hours/"/>
+        <updated>2022-11-20T20:16:19.000Z</updated>
+        <summary type="html"><![CDATA[Some pundits initially speculated that CBS’ move might be the first in a series of media outlets’ rushing to ditch Twitter.]]></summary>
+        <author>
+            <name>Ari Blaff</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[COP27 Cables: Cash, Promises, and Absurdity]]></title>
         <id>https://www.nationalreview.com/?p=1398117</id>
@@ -4835,96 +4845,6 @@ Quartaki: 6 hour introdu…]]></summary>
         <summary type="html"><![CDATA[Despite the foibles of battery-powered machines, I’ll never go back to gas.]]></summary>
         <author>
             <name>Luther Ray Abel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Female High-School Volleyball Athlete Suffers Serious Head Injury after Transgender Player Throws  ‘Abnormally Fast’ Ball]]></title>
-        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1379974</id>
-        <link href="https://www.nationalreview.com/news/female-high-school-volleyball-athlete-suffers-serious-head-injury-after-transgender-player-throws-abnormally-fast-ball/"/>
-        <updated>2022-10-22T19:10:21.000Z</updated>
-        <summary type="html"><![CDATA[She is still recovering from long-term concussion symptoms, including problems with her vision.]]></summary>
-        <author>
-            <name>Caroline Downey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Biden Dismisses Polls Showing Voters Trust GOP to Manage Economy over Dems]]></title>
-        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1379938</id>
-        <link href="https://www.nationalreview.com/news/biden-dismisses-polls-showing-voters-trust-gop-to-manage-economy-over-dems/"/>
-        <updated>2022-10-22T15:32:19.000Z</updated>
-        <summary type="html"><![CDATA[The president said he believes voters will still choose Democratic leadership at the ballot box despite record inflation.]]></summary>
-        <author>
-            <name>Caroline Downey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Former Chinese President Escorted Out of Communist Party Congress]]></title>
-        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1379903</id>
-        <link href="https://www.nationalreview.com/news/former-chinese-president-escorted-out-of-communist-party-congress/"/>
-        <updated>2022-10-22T14:22:35.000Z</updated>
-        <summary type="html"><![CDATA[Video footage suggests Hu Jintao did not willingly leave his seat next to current president Xi Jinping.]]></summary>
-        <author>
-            <name>Caroline Downey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The United States Is in a Coffin Corner]]></title>
-        <id>https://www.nationalreview.com/?p=1379497</id>
-        <link href="https://www.nationalreview.com/2022/10/the-united-states-is-in-a-coffin-corner/"/>
-        <updated>2022-10-22T10:30:54.000Z</updated>
-        <summary type="html"><![CDATA[The U.S. faces a window of strategic vulnerability unlike any it has experienced in the past two generations.]]></summary>
-        <author>
-            <name>Jerry Hendrix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is the Rom-Com Dead?]]></title>
-        <id>https://www.nationalreview.com/?p=1379642</id>
-        <link href="https://www.nationalreview.com/2022/10/is-the-rom-com-dead/"/>
-        <updated>2022-10-22T10:30:52.000Z</updated>
-        <summary type="html"><![CDATA[Ticket to Paradise is much more interested in the comedy of the rom-com than in the romance, but the setup demands something a little more serious.]]></summary>
-        <author>
-            <name>Matthew Lickona</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MAID in Canada: The Right to Die]]></title>
-        <id>https://www.nationalreview.com/?p=1379824</id>
-        <link href="https://www.nationalreview.com/2022/10/maid-in-canada-the-right-to-die/"/>
-        <updated>2022-10-22T10:30:51.000Z</updated>
-        <summary type="html"><![CDATA[America’s northern neighbor has embraced a culture of death.]]></summary>
-        <author>
-            <name>Jim Towey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The CDC and Public Health Fail Us Again]]></title>
-        <id>https://www.nationalreview.com/?p=1379600</id>
-        <link href="https://www.nationalreview.com/2022/10/the-cdc-and-public-health-fail-us-again/"/>
-        <updated>2022-10-22T10:30:23.000Z</updated>
-        <summary type="html"><![CDATA[Adding the Covid vaccine to the recommended immunization schedule for children will be an open invitation for states to impose mandates.]]></summary>
-        <author>
-            <name>Pradheep J. Shanker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mike Pence and the Republican Future]]></title>
-        <id>https://www.nationalreview.com/?p=1379309</id>
-        <link href="https://www.nationalreview.com/2022/10/mike-pence-and-the-republican-future/"/>
-        <updated>2022-10-22T10:30:01.000Z</updated>
-        <summary type="html"><![CDATA[His admonition was necessary.]]></summary>
-        <author>
-            <name>Matthew Continetti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Waiting for Durham]]></title>
-        <id>https://www.nationalreview.com/?p=1379667</id>
-        <link href="https://www.nationalreview.com/2022/10/waiting-for-durham/"/>
-        <updated>2022-10-22T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The special counsel’s looming report is the only chance the American people will ever get to hold the Clinton campaign and the FBI accountable for Russiagate.]]></summary>
-        <author>
-            <name>Andrew C. McCarthy</name>
         </author>
     </entry>
 </feed>
