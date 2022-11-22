@@ -65,6 +65,106 @@
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
         {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1399843",
+          "author": "Brittany Bernstein",
+          "description": "Mayor London Breed spoke out against the decision not to renew Arntz after his 20 years of service.",
+          "link": "https://www.nationalreview.com/news/san-francisco-elections-commission-wont-renew-white-director-in-the-name-of-racial-equity/",
+          "publishedOn": "2022-11-22T16:50:01.000Z",
+          "wordCount": 14117,
+          "title": "San Francisco Elections Commission Won’t Renew White Director in the Name of ‘Racial Equity’",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/golden-gate.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1399747",
+          "author": "Brittany Bernstein",
+          "description": "Kelly also accused Republicans of wanting ‘talk about’ the border issue rather than trying to solve it.",
+          "link": "https://www.nationalreview.com/news/mark-kelly-democrats-not-even-close-to-understanding-border-frustrations/",
+          "publishedOn": "2022-11-22T15:19:14.000Z",
+          "wordCount": 7206,
+          "title": "Mark Kelly: Democrats ‘Not Even Close’ to Understanding Border Frustrations",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/kelly.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1398976",
+          "author": "Ari Blaff",
+          "description": "Bird unseated Tom Miller, who served as Iowa AG for 40 years, by focusing on crime and EPA overreach, she told NR.",
+          "link": "https://www.nationalreview.com/news/how-an-iowa-republican-knocked-off-the-longest-serving-state-attorney-general-in-history/",
+          "publishedOn": "2022-11-22T14:11:16.000Z",
+          "wordCount": 7525,
+          "title": "How an Iowa Republican Knocked Off the Longest-Serving State Attorney General in History",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/GettyImages-1438943783-Bird.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1399637",
+          "author": "Brittany Bernstein",
+          "description": "Two officers confronted the 27-year-old man at an Atlanta Wendy’s after receiving complaints that he was sleeping and blocking the drive-thru.",
+          "link": "https://www.nationalreview.com/news/atlanta-city-council-to-pay-1-million-to-family-of-man-shot-by-police-after-firing-taser-at-officers/",
+          "publishedOn": "2022-11-22T13:30:55.000Z",
+          "wordCount": 7204,
+          "title": "Atlanta City Council to Pay $1 Million to Family of Man Shot by Police after Firing Taser at Officers",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/Rayshard-Brooks.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1399065",
+          "author": "Andrew Follett",
+          "description": "A new climate agreement all but ensures that American taxpayers will be forced to directly or indirectly fund Communist China.",
+          "link": "https://www.nationalreview.com/2022/11/biden-forces-america-to-pay-climate-reparations/",
+          "publishedOn": "2022-11-22T11:30:50.000Z",
+          "wordCount": 7850,
+          "title": "Biden Forces America to Pay Climate Reparations",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/john-kerry-climate-conference.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1399265",
+          "author": "Bobby Miller",
+          "description": "Moore v. Harper, an election-law case, has progressives in hysteria. For their part, conservatives should hew to conservative principles.",
+          "link": "https://www.nationalreview.com/2022/11/originalists-should-reject-the-independent-state-legislature-theory/",
+          "publishedOn": "2022-11-22T11:30:35.000Z",
+          "wordCount": 7752,
+          "title": "Originalists Should Reject the ‘Independent State Legislature’ Theory",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/north-carolina-house.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1399117",
+          "author": "Dalibor Rohac",
+          "description": "The Florida governor and other GOP presidential hopefuls need a strategy for global affairs — and it should be different from Trump’s.",
+          "link": "https://www.nationalreview.com/2022/11/what-is-ron-desantiss-foreign-policy-vision/",
+          "publishedOn": "2022-11-22T11:30:31.000Z",
+          "wordCount": 8027,
+          "title": "What Is Ron DeSantis’s Foreign-Policy Vision?",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/07/Ron-DeSantis-4.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1399234",
+          "author": "Eric Scott Dawson",
+          "description": "An out-of-touch takedown of nuclear energy actually shows that it should be embraced and celebrated, not abandoned.",
+          "link": "https://www.nationalreview.com/2022/11/the-naive-case-against-nuclear-power/",
+          "publishedOn": "2022-11-22T11:30:29.000Z",
+          "wordCount": 9404,
+          "title": "The Naïve Case against Nuclear Power",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2019/08/nucelar-power-plant-france-2.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1399028",
+          "author": "David B. McGarry",
+          "description": "The platform’s influence is overstated. Regardless, market forces usually fix market failures — sufficient demand will provoke innovation.",
+          "link": "https://www.nationalreview.com/2022/11/the-twitter-monopoly-myth/",
+          "publishedOn": "2022-11-22T11:30:12.000Z",
+          "wordCount": 7802,
+          "title": "The Twitter-Monopoly Myth",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/twitter-logo-building.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1399371",
+          "author": "Michael Brendan Dougherty",
+          "description": "We already know the Republican Party has plenty of mediocrities. Let’s not wreck the executive branch even more by turning them all out in the pageant show.",
+          "link": "https://www.nationalreview.com/2022/11/here-comes-everybody/",
+          "publishedOn": "2022-11-22T11:30:10.000Z",
+          "wordCount": 7320,
+          "title": "Here Comes Everybody",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/HereComesEverybody-grid-final-8.jpg?fit=2057%2C1200"
+        },
+        {
           "id": "https://www.nationalreview.com/?post_type=blog-post&p=1399276",
           "author": "Caroline Downey",
           "description": "The other AP writer who worked on the story, which used an unnamed source, reportedly still has his job.",
@@ -4893,26 +4993,6 @@
           "wordCount": 8510,
           "title": "The American Way Still Beats Parliamentary Government",
           "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/BidenTruss-2.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1380811",
-          "author": "Rich Lowry",
-          "description": "Pool reports from the future.",
-          "link": "https://www.nationalreview.com/2022/10/the-ice-cream-shop-diaries/",
-          "publishedOn": "2022-10-23T23:16:02.000Z",
-          "wordCount": 7751,
-          "title": "The Ice-Cream-Shop Diaries",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/biden-ice-cream.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1380700",
-          "author": "John Fund",
-          "description": "It’s partly because pollsters are changing whom they ask.",
-          "link": "https://www.nationalreview.com/2022/10/why-will-polls-now-show-republicans-doing-better/",
-          "publishedOn": "2022-10-23T21:27:24.000Z",
-          "wordCount": 7568,
-          "title": "Why Will Polls Now Show Republicans Doing Better?",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/jd-vance-rally-youngstown.jpg?fit=2057%2C1200"
         }
       ]
     }
