@@ -65,6 +65,96 @@
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
         {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1402499",
+          "author": "Ari Blaff",
+          "description": "‘Free speech absolutists’ support publishing ‘the malicious lies of any maniac, at scale, regardless of the consequences. Good luck with that,’ Harris tweeted last week.",
+          "link": "https://www.nationalreview.com/news/sam-harris-quits-twitter-following-trump-reinstatement/",
+          "publishedOn": "2022-11-25T15:39:13.000Z",
+          "wordCount": 6883,
+          "title": "Sam Harris Quits Twitter Following Trump Reinstatement",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2018/04/sam-harris-real-time.jpg?fit=1200%2C700"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1402490",
+          "author": "Nina Shea",
+          "description": "Has China silenced the last of its globally prominent dissidents?",
+          "link": "https://www.nationalreview.com/2022/11/cardinal-zens-trial-more-oppression-than-meets-the-eye/",
+          "publishedOn": "2022-11-25T14:28:54.000Z",
+          "wordCount": 7867,
+          "title": "Cardinal Zen’s Trial: More Oppression Than Meets the Eye",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/cardinal-joseph-zen.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1400334",
+          "author": "Joe Pitts",
+          "description": "Sam Bankman-Fried has laid bare that effective altruism commodifies giving and undermines the sense of community that gives meaning to life.",
+          "link": "https://www.nationalreview.com/2022/11/not-so-effective-altruism/",
+          "publishedOn": "2022-11-25T11:30:51.000Z",
+          "wordCount": 8227,
+          "title": "Not-So-Effective Altruism",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/GettyImages-1240622648-Bankman-Fried.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1401387",
+          "author": "The Editors",
+          "description": "House Republicans have a golden opportunity to shine some real sunlight on executive-branch abuses, if they deploy their investigative powers with care.",
+          "link": "https://www.nationalreview.com/2022/11/a-strategic-roadmap-for-house-republican-investigations/",
+          "publishedOn": "2022-11-25T11:30:34.000Z",
+          "wordCount": 7770,
+          "title": "A Strategic Roadmap for House Republican Investigations",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/kevin-mccarthy-capitol-hill-1.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1400910",
+          "author": "Armond White",
+          "description": "If our media cannot honestly report on the politicization of Hollywood, audiences and readers are left to assert their own independent thinking, harsh skepticism, or refusal.",
+          "link": "https://www.nationalreview.com/2022/11/the-political-movie-flop-and-panic/",
+          "publishedOn": "2022-11-25T11:30:18.000Z",
+          "wordCount": 7229,
+          "title": "The Political-Movie Flop and Panic",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/she-said-premiere.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1400943",
+          "author": "Ashley E. McGuire",
+          "description": "Service to the poor and marginalized drives the church’s mission in all things.",
+          "link": "https://www.nationalreview.com/2022/11/the-baseless-attacks-on-catholic-hospitals/",
+          "publishedOn": "2022-11-25T11:30:04.000Z",
+          "wordCount": 7414,
+          "title": "The Baseless Attacks on Catholic Hospitals",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2021/11/GettyImages-503342387-pregnant-woman.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1401408",
+          "author": "Alina Clough",
+          "description": "The world currently relies on China for 90 percent of the rare-earth elements used for clean tech.",
+          "link": "https://www.nationalreview.com/2022/11/clean-tech-moving-away-from-dependence-on-china/",
+          "publishedOn": "2022-11-25T11:30:03.000Z",
+          "wordCount": 7463,
+          "title": "Clean Tech: Moving Away from Dependence on China",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/rare-earth-mine.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1402074",
+          "author": "Dominic Pino",
+          "description": "Be grateful today, and every day, for the abundance that only a commercial society can provide.",
+          "link": "https://www.nationalreview.com/2022/11/the-real-bargain-on-black-friday-ibuprofen-for-1-98/",
+          "publishedOn": "2022-11-25T11:30:02.000Z",
+          "wordCount": 7549,
+          "title": "The Real Bargain on Black Friday: Ibuprofen for $1.98",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2019/01/RTX1W5G7.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1400861",
+          "author": "Garion Frankel and Daniel Buck",
+          "description": "Students need order — not loosely managed pandemonium — to learn effectively. Without it, pandemic-era learning loss will continue to accelerate.",
+          "link": "https://www.nationalreview.com/2022/11/how-tolerating-misbehavior-hurts-students/",
+          "publishedOn": "2022-11-25T11:30:00.000Z",
+          "wordCount": 7620,
+          "title": "How Tolerating Misbehavior Hurts Students",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2021/05/high-school-students-school-entrance.jpg?fit=2057%2C1200"
+        },
+        {
           "id": "https://www.nationalreview.com/?p=1402097",
           "author": "Nate Hochman",
           "description": "It is an expression of a stubborn pride — an attachment to an America that many in the nation’s governing institutions would like to leave behind.",
@@ -4813,46 +4903,6 @@
           "wordCount": 7821,
           "title": "The Fall of Liz Truss and the Return of Market Reality",
           "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/lizz-truss-last-day.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1383420",
-          "author": "Ari Blaff",
-          "description": "Blinken has sought to assuage China: ‘We don’t look for conflict. We don’t want a Cold War. We’re not trying to contain or restrain China.’",
-          "link": "https://www.nationalreview.com/news/china-increases-pressure-coercion-against-taiwan-blinken-says/",
-          "publishedOn": "2022-10-27T01:31:25.000Z",
-          "wordCount": 6914,
-          "title": "China Increases Pressure, ‘Coercion’ against Taiwan, Blinken Says",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/antony-blinken-us-china-flags.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1383179",
-          "author": "John McCormack and Brittany Bernstein",
-          "description": "On Tuesday night, the lies told about John Fetterman’s cognitive abilities were painfully exposed on live television.",
-          "link": "https://www.nationalreview.com/2022/10/the-fallout-from-fettermans-disastrous-debate/",
-          "publishedOn": "2022-10-26T21:18:32.000Z",
-          "wordCount": 8615,
-          "title": "The Fallout from Fetterman’s Disastrous Debate",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/fettermanoz.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1383194",
-          "author": "Ari Blaff",
-          "description": "Russia’s annual ‘Grom’ military drill featured nuclear submarines, ballistic missiles, and long-range strategic bombers.",
-          "link": "https://www.nationalreview.com/news/putin-oversees-nuclear-exercises-vowing-to-use-all-means-necessary/",
-          "publishedOn": "2022-10-26T20:57:32.000Z",
-          "wordCount": 6878,
-          "title": "Putin Oversees Nuclear Exercises, Vows to Use ‘All Means Necessary’",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/03/Vladimir-Putin-4.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1383160",
-          "author": "Ryan Young",
-          "description": "The Kroger–Albertsons merger has no guarantee of success. But the two companies should be allowed to try.",
-          "link": "https://www.nationalreview.com/2022/10/no-need-for-antitrust-scrutiny-of-kroger-albertsons-merger/",
-          "publishedOn": "2022-10-26T20:12:27.000Z",
-          "wordCount": 7744,
-          "title": "No Need for Antitrust Scrutiny of Kroger–Albertsons Merger",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/albertsons.jpg?fit=2057%2C1200"
         }
       ]
     }
