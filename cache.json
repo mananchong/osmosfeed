@@ -65,6 +65,86 @@
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
         {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1403318",
+          "author": "Ari Blaff",
+          "description": "Disgraced CEO Sam Bankman-Fried had given $40 million dollars mainly to Democrats, making him the party’s second-largest financial backer after George Soros.",
+          "link": "https://www.nationalreview.com/news/ftx-donated-1-million-to-mcconnell-aligned-super-pac-weeks-before-declaring-bankruptcy/",
+          "publishedOn": "2022-11-26T16:13:38.000Z",
+          "wordCount": 6993,
+          "title": "FTX Donated $1 Million to McConnell-Aligned Super PAC Weeks before Declaring Bankruptcy",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/ftx-logo.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1403264",
+          "author": "Ari Blaff",
+          "description": "The latest move expands the prohibition on sales and imports to ten Chinese technology companies.",
+          "link": "https://www.nationalreview.com/news/fcc-votes-unanimously-to-expand-ban-on-chinese-tech/",
+          "publishedOn": "2022-11-26T14:28:52.000Z",
+          "wordCount": 6996,
+          "title": "FCC Votes Unanimously to Expand Ban on Chinese Tech",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2021/01/huawei-phone-china.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1401322",
+          "author": "Zach Kessel",
+          "description": "A hesitance to combat anti-Jewish hate endangers the liberal foundations on which societies like ours rest.",
+          "link": "https://www.nationalreview.com/2022/11/antisemitism-threatens-more-than-just-the-jews/",
+          "publishedOn": "2022-11-26T11:30:52.000Z",
+          "wordCount": 7611,
+          "title": "Antisemitism Threatens More than Just the Jews",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/Oz-Walker-Laxalt-1-2.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1402810",
+          "author": "Christian Schneider",
+          "description": "The World Cup is a good reminder of how terrible this sport is (unless America wins).",
+          "link": "https://www.nationalreview.com/2022/11/soccer-is-unjust-and-un-american/",
+          "publishedOn": "2022-11-26T11:30:50.000Z",
+          "wordCount": 7723,
+          "title": "Soccer Is Unjust and Un-American",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/Oz-Walker-Laxalt-5-1.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1402629",
+          "author": "Brent Buterbaugh",
+          "description": "The first season provides a welcome assurance that someone at Disney still understands how to write and produce a live-action Star Wars story.",
+          "link": "https://www.nationalreview.com/2022/11/andor-sticks-the-landing/",
+          "publishedOn": "2022-11-26T11:30:30.000Z",
+          "wordCount": 7815,
+          "title": "<em>Andor</em> Sticks the Landing",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/andor.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1402731",
+          "author": "Andrew C. McCarthy",
+          "description": "The holiday from history is over.",
+          "link": "https://www.nationalreview.com/2022/11/time-to-get-serious-about-preserving-and-protecting-america/",
+          "publishedOn": "2022-11-26T11:30:24.000Z",
+          "wordCount": 8842,
+          "title": "Time to Get Serious about Preserving and Protecting America",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/White-House-Conman.jpg?fit=1799%2C1050"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1401288",
+          "author": "Julie Marie Blake",
+          "description": "Holding the agency accountable for its failure to properly test and regulate these dangerous drugs is an opportunity to uphold health and safety for all Americans.",
+          "link": "https://www.nationalreview.com/2022/11/the-fda-was-wrong-to-approve-chemical-abortion-drugs/",
+          "publishedOn": "2022-11-26T11:30:10.000Z",
+          "wordCount": 7455,
+          "title": "The FDA Was Wrong to Approve Chemical-Abortion Drugs",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/Oz-Walker-Laxalt-3-1.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1400893",
+          "author": "Brian T. Allen",
+          "description": "Kooks, politicians, and museum bigwigs all have a bad case of climate delirium; a Microsoft billionaire’s art sets an auction record.",
+          "link": "https://www.nationalreview.com/2022/11/whats-it-got-to-do-with-art/",
+          "publishedOn": "2022-11-26T11:30:01.000Z",
+          "wordCount": 16497,
+          "title": "What’s It Got to Do with Art?",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/Van-Gogh-Defaced.jpg?fit=2057%2C1200"
+        },
+        {
           "id": "https://www.nationalreview.com/?post_type=blog-post&p=1402563",
           "author": "Ari Blaff",
           "description": "Among Ben-Gvir’s new responsibilities would include oversight of the border police as well as the national police force.",
@@ -4693,76 +4773,6 @@
           "wordCount": 7544,
           "title": "The Coming Fight over Trumpism: Charisma or Policy?",
           "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/desantis-trump-lake.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1384105",
-          "author": "Ari Blaff",
-          "description": "‘We’ve never proactively said anything about Russia’s possible use of nuclear weapons,’ he also claimed.",
-          "link": "https://www.nationalreview.com/news/world-on-brink-of-most-dangerous-decade-since-wwii-putin-warns/",
-          "publishedOn": "2022-10-28T02:12:36.000Z",
-          "wordCount": 7129,
-          "title": "World on Brink of Most Dangerous Decade Since WWII, Putin Warns",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/vladimir-putin-1.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1384120",
-          "author": "Ari Blaff",
-          "description": "‘The reason I acquired Twitter is because it is important to the future of civilization to have a common digital town square.’",
-          "link": "https://www.nationalreview.com/news/elon-musk-takes-over-twitter-on-thursday-fires-top-execs/",
-          "publishedOn": "2022-10-28T02:03:37.000Z",
-          "wordCount": 7214,
-          "title": "Elon Musk Takes Over Twitter, Fires Top Execs",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/07/Elon-Musk-5.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1384069",
-          "author": "Rich Lowry",
-          "description": "And other ridiculous Fetterman spin.",
-          "link": "https://www.nationalreview.com/2022/10/fetterman-wasnt-transparent-for-showing-up-at-a-debate-he-couldnt-dodge/",
-          "publishedOn": "2022-10-28T00:18:59.000Z",
-          "wordCount": 7725,
-          "title": "Fetterman Wasn’t ‘Transparent’ for Showing Up at a Debate He Couldn’t Dodge",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/john-fetterman-mehmet-oz-debate.jpg?fit=1200%2C700"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1384002",
-          "author": "Ari Blaff",
-          "description": "Gisele Fetterman’s comments were an attempt to contextualize why she and her husband own a mansion that Oz alleged Fetterman had received for a dollar.",
-          "link": "https://www.nationalreview.com/news/fettermans-wife-calls-swimming-in-america-very-racist/",
-          "publishedOn": "2022-10-27T23:45:51.000Z",
-          "wordCount": 6272,
-          "title": "Fetterman’s Wife Calls Swimming in America ‘Very Racist’",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/giselle-fetterman-1.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1383952",
-          "author": "Dan McLaughlin",
-          "description": "Lee made some bad judgments during Trump’s effort to overturn the 2020 election, but he is an honorable conservative, and McMullin isn’t.",
-          "link": "https://www.nationalreview.com/2022/10/mike-lee-is-a-better-man-than-evan-mcmullin/",
-          "publishedOn": "2022-10-27T22:06:29.000Z",
-          "wordCount": 9742,
-          "title": "Mike Lee Is a Better Man Than Evan McMullin",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/MikeLee-EvanMcMullin.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1383834",
-          "author": "Ryan Mills",
-          "description": "Unionville-Chadds Ford School District leaders are refusing to explain where they derived the authority to shutter classrooms and require masks.",
-          "link": "https://www.nationalreview.com/news/pennsylvania-school-district-stonewalls-state-lawmaker-demanding-answers-on-covid-lockdowns-mask-mandates/",
-          "publishedOn": "2022-10-27T21:12:09.000Z",
-          "wordCount": 8832,
-          "title": "Pennsylvania School District Stonewalls State Lawmaker Demanding Answers on Covid Shutdowns, Mask Mandates",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2021/01/empty-classroom.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1383817",
-          "author": "Luther Ray Abel",
-          "description": "At a campaign stop in a picturesque Wisconsin town, Mandela Barnes makes the usual progressive promises.",
-          "link": "https://www.nationalreview.com/2022/10/down-with-the-rich-up-with-abortion/",
-          "publishedOn": "2022-10-27T19:48:32.000Z",
-          "wordCount": 7680,
-          "title": "Down with the Rich, Up with Abortion",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/mandelabarnes1.jpg?fit=2057%2C1200"
         }
       ]
     }
