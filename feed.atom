@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mananchong.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-25T16:51:11.909Z</updated>
+    <updated>2022-11-26T07:38:29.505Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mananchong.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://mananchong.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Netanyahu Signs Coalition Deal Ushering in Ben-Gvir As New National-Security Minister]]></title>
+        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1402563</id>
+        <link href="https://www.nationalreview.com/news/netanyahu-signs-coalition-deal-ushering-in-ben-gvir-as-new-national-security-minister/"/>
+        <updated>2022-11-25T19:17:48.000Z</updated>
+        <summary type="html"><![CDATA[Among Ben-Gvir’s new responsibilities would include oversight of the border police as well as the national police force.]]></summary>
+        <author>
+            <name>Ari Blaff</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sam Harris Quits Twitter Following Trump Reinstatement]]></title>
         <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1402499</id>
@@ -4818,156 +4828,6 @@ Quartaki: 6 hour introdu…]]></summary>
         <summary type="html"><![CDATA[At a campaign stop in a picturesque Wisconsin town, Mandela Barnes makes the usual progressive promises.]]></summary>
         <author>
             <name>Luther Ray Abel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zuckerberg Sheds Billions as Meta Stock Nosedives]]></title>
-        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1383775</id>
-        <link href="https://www.nationalreview.com/news/zuckerberg-sheds-billions-as-meta-stock-nosedives/"/>
-        <updated>2022-10-27T18:38:57.000Z</updated>
-        <summary type="html"><![CDATA[A Wednesday earnings report revealed that the company had experienced its second consecutive quarter of declining revenue.]]></summary>
-        <author>
-            <name>Ari Blaff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bono Has Found What He’s Looking For: Capitalism]]></title>
-        <id>https://www.nationalreview.com/?p=1383716</id>
-        <link href="https://www.nationalreview.com/2022/10/bono-has-found-what-hes-looking-for-capitalism/"/>
-        <updated>2022-10-27T16:58:04.000Z</updated>
-        <summary type="html"><![CDATA[The U2 lead singer and activist is realizing that what the world needs is free markets.]]></summary>
-        <author>
-            <name>Dominic Pino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CatholicVote Launches Last-Minute Parental-Rights Ad Blitz in Key Battleground States]]></title>
-        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1383648</id>
-        <link href="https://www.nationalreview.com/news/catholicvote-launches-last-minute-parental-rights-ad-blitz-in-key-battleground-states/"/>
-        <updated>2022-10-27T15:42:44.000Z</updated>
-        <summary type="html"><![CDATA[The $2 million spending blitz is micro-targeted to mass-attending Catholics.]]></summary>
-        <author>
-            <name>Ari Blaff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[High-School Football Coach Fired for Praying after Games to Be Reinstated]]></title>
-        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1383576</id>
-        <link href="https://www.nationalreview.com/news/high-school-football-coach-fired-for-praying-after-games-to-be-reinstated/"/>
-        <updated>2022-10-27T15:06:21.000Z</updated>
-        <summary type="html"><![CDATA[In June, the Supreme Court ruled 6-3 that Kennedy’s post-game ritual is constitutionally protected.]]></summary>
-        <author>
-            <name>Caroline Downey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mortgage Rates Reach 20-Year High]]></title>
-        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1383629</id>
-        <link href="https://www.nationalreview.com/news/mortgage-rates-reach-20-year-high/"/>
-        <updated>2022-10-27T14:55:03.000Z</updated>
-        <summary type="html"><![CDATA[The 30-year fixed-rate mortgage rose to 7.08 percent on Thursday. A year ago, a 30-year mortgage averaged 3.14 percent.]]></summary>
-        <author>
-            <name>Ryan Mills</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Protesters Take Over L.A. City Council Meeting, Demand Members Resign over Racist Remarks]]></title>
-        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1383537</id>
-        <link href="https://www.nationalreview.com/news/crowd-of-protesters-take-over-l-a-city-council-meeting-demand-members-resign-over-racist-remarks/"/>
-        <updated>2022-10-27T14:16:42.000Z</updated>
-        <summary type="html"><![CDATA[Police had to issue an unconventional dispersal order to clear the crowd.]]></summary>
-        <author>
-            <name>Caroline Downey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lee Zeldin’s Viral Debate Strategy]]></title>
-        <id>https://www.nationalreview.com/?p=1383546</id>
-        <link href="https://www.nationalreview.com/2022/10/lee-zeldins-viral-debate-strategy/"/>
-        <updated>2022-10-27T14:11:44.000Z</updated>
-        <summary type="html"><![CDATA[Kathy Hochul helped Lee Zeldin make his case to more New Yorkers than the few who watched their debate.]]></summary>
-        <author>
-            <name>Dan McLaughlin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘Arrogant and Despicable’: Chinese Embassy Throws Tantrum after Hawley Introduces Bill to Sanction Xi]]></title>
-        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1383507</id>
-        <link href="https://www.nationalreview.com/news/arrogant-and-despicable-chinese-embassy-throws-tantrum-after-hawley-introduces-bill-to-sanction-xi/"/>
-        <updated>2022-10-27T12:33:24.000Z</updated>
-        <summary type="html"><![CDATA[Hawley’s bill, introduced last week, would personally sanction Xi by freezing his assets and barring him from traveling to the U.S.]]></summary>
-        <author>
-            <name>Caroline Downey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Biden Administration’s Push to Take One of California’s Worst Ideas Nationwide]]></title>
-        <id>https://www.nationalreview.com/?p=1382979</id>
-        <link href="https://www.nationalreview.com/2022/10/the-biden-administrations-push-to-take-one-of-californias-worst-ideas-nationwide/"/>
-        <updated>2022-10-27T10:30:46.000Z</updated>
-        <summary type="html"><![CDATA[The Department of Labor wants to effectively outlaw gig work. The Golden State has been there, done that, and the results aren’t pretty.]]></summary>
-        <author>
-            <name>Kerry Jackson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mike Lee for Senate]]></title>
-        <id>https://www.nationalreview.com/?p=1383349</id>
-        <link href="https://www.nationalreview.com/2022/10/mike-lee-for-senate/"/>
-        <updated>2022-10-27T10:30:27.000Z</updated>
-        <summary type="html"><![CDATA[The contest between the Republican and Evan McMullin shouldn’t be a close choice.]]></summary>
-        <author>
-            <name>The Editors</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Walk among the Tombstones at Mount Auburn]]></title>
-        <id>https://www.nationalreview.com/?p=1383223</id>
-        <link href="https://www.nationalreview.com/2022/10/walk-among-the-tombstones-mount-auburn/"/>
-        <updated>2022-10-27T10:30:26.000Z</updated>
-        <summary type="html"><![CDATA[The cemetery’s sculpture, gardens, trees, and dells transformed landscape architecture in America.]]></summary>
-        <author>
-            <name>Brian T. Allen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Incalculable Loss: In Atlanta, Abortion Takes Heaviest Toll on Black Community]]></title>
-        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1383101</id>
-        <link href="https://www.nationalreview.com/news/an-incalculable-loss-in-atlanta-abortion-takes-heaviest-toll-on-black-community/"/>
-        <updated>2022-10-27T10:30:16.000Z</updated>
-        <summary type="html"><![CDATA[Last year, there were nearly as many black abortions in Fulton County (5,037) as there were black births (5,507).]]></summary>
-        <author>
-            <name>Ryan Mills</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Taxachusetts Must Be Stopped]]></title>
-        <id>https://www.nationalreview.com/?p=1383206</id>
-        <link href="https://www.nationalreview.com/2022/10/taxachusetts-must-be-stopped/"/>
-        <updated>2022-10-27T10:30:11.000Z</updated>
-        <summary type="html"><![CDATA[Bay State voters have plenty of reasons to come back to reality and reject the ill-conceived proposal to amend the Massachusetts Constitution this November.]]></summary>
-        <author>
-            <name>Charles Chieppo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ash Carter: Coping with a Dangerous World]]></title>
-        <id>https://www.nationalreview.com/?p=1383339</id>
-        <link href="https://www.nationalreview.com/2022/10/ash-carter-coping-with-a-dangerous-world/"/>
-        <updated>2022-10-27T10:30:10.000Z</updated>
-        <summary type="html"><![CDATA[On the late defense intellectual, who headed the Pentagon for two years.]]></summary>
-        <author>
-            <name>Jay Nordlinger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Fall of Liz Truss and the Return of Market Reality]]></title>
-        <id>https://www.nationalreview.com/?p=1382652</id>
-        <link href="https://www.nationalreview.com/2022/10/the-fall-of-liz-truss-and-the-return-of-market-reality/"/>
-        <updated>2022-10-27T10:30:07.000Z</updated>
-        <summary type="html"><![CDATA[Tough times lie ahead: Truss may turn out to be just the first leader to be felled by them.]]></summary>
-        <author>
-            <name>Pieter Cleppe</name>
         </author>
     </entry>
 </feed>
