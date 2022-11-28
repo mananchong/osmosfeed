@@ -6,6 +6,16 @@
       "siteUrl": "https://rweekly.org/atom.xml",
       "articles": [
         {
+          "id": "https://rweekly.org/2022-W48.html",
+          "author": null,
+          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Tony ElHabr, with help from the R Weekly team members and contributors.\nHighlight\n{doctest} 0.1.0: Generate Tests from Examples Using ‘roxygen’ and ‘testthat’\nA simple checklist for bar plots\nWebscraping with RSelenium: automate your browser actions\nInsights\nA simple checklist for bar plots\n\nLearning Excel as an R user\nOpen source is a hard requirement for reproducibility\nR in the Real World\nAnalyzing Projected Calculations Using R\nHigh cardinality predictors for #TidyTuesday museums in the UK\n\nProcessing large scale satellite imagery with openEO Platform and R\nR in Organizations\nMeeting the stars of the R-universe: R Community, Exchange and Learn\nGoing Global During the Pan…",
+          "link": "https://rweekly.org/2022-W48.html",
+          "publishedOn": "2022-11-28T00:00:00.000Z",
+          "wordCount": 5827,
+          "title": "R Weekly 2022-W48 Tests from docs, bar plot best practices, RSelenium tutorial",
+          "imageUrl": "https://rweekly.org/public/facebook.png"
+        },
+        {
           "id": "https://rweekly.org/2022-W47.html",
           "author": null,
           "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Jon Calder, with help from the R Weekly team members and contributors.\nHighlight\n{codegrip} 0.0.0.9000: Reshaping and navigation commands for R code\nDRY Package Development in R (slides)\nCreating beautiful tables in R with {gt}\nInsights\nPromoting the Use of R in Mali\nrOpenSci News Digest, November 2022\nPreparing to Thrive by Collaborating with Local Universities\nR in the Real World\nrtoot and functional programming\nModeling and simulations for the 2022 FIFA World Cup\nJ.League Soccer 2022 Season Review\n\nResources\nDRY Package Development in R (slides)\nCreating beautiful tables in R with {gt}\nR for Data Analysis\nNew Packages\n📦 Go Live for More New Pkgs 📦\nCRAN\n{figma 0.1.0}: We…",
@@ -109,6 +119,86 @@
       "feedUrl": "https://feedx.net/rss/thepaper.xml",
       "siteUrl": "http://thepaper.cn",
       "articles": [
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_20930854",
+          "author": null,
+          "description": "核子华曦核酸检测方舱实验室 视觉中国 资料图\n\n这两天张姗姗这个名字引爆全网，起因是11月24日，兰州转运阳性感染者却发现个别的转运者健康码核酸检测为阴性，经调查是兰州核子华曦实验工作室工作人员误将个别核酸检验异常人员名单录成阴性。\n之后，有文章称一个叫张姗姗的人关联了37家同一名称的核酸检测公司，网友戏称“哪里有她的公司，哪里疫情暴发”。\n\n澎湃新闻记者通过天眼查发现，张姗姗实际在35家公司担任监事，有3家注销，其余30家均为深圳市核子基因科技有限公司（下称核子基因）的全资子公司。\n针对网上有传言称张姗姗正是核子基因实控人张核子和公司第二大股东、张核子的夫人巴颖的女儿，记者致电到核子基因公司，但公司相关人士表示领导不在，无法接受采访。\n核子基因之所以被关注还有一个重要原因，在当前抗疫形势下，一家多次被处罚的公司如何快速发展起来的，从2020年至今，核子基因相继开设了14家医学检验实验室，尤其今年10月更是一口气开了8家。\n被暂停营业后仍在中标\n核子基因官网介绍称，公司成立于2012年，是一家集基因技术研发、市场应用于一体的高新科技型企业，荣获国家级高新技术企业认证。 核子基因目前规模2000余人，包括近200位博士、硕士、 留学归国人员在内300多人的尖端技术和管理员工队伍。\n\n公司创立之初，主营业务是司法鉴定和天赋基因检测，不过当时做的并不顺利，这两项业务都曾经违规被处罚，甚至被当时的湖南卫视打假。\n2020年新冠疫情爆发，核子基因迅速把全国核子基因实验室增加核酸检测业务。核子基因扩张最快的一年是2022年。天眼查显示，不到一年时间里，核子基因相继开设了16家医学检验实验室，注册时间大多集中在近3个月。10月份更是一口气开了8家，注册地分别位于海口、厦门、泉州、珠海、贵州、内蒙古、兰州、北京、银川、大连、青岛、西宁、太原、贵州。\n不仅有新注册，核子基因还将2家公司更名为…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_20930854",
+          "publishedOn": "2022-11-28T15:53:05.000Z",
+          "wordCount": 62,
+          "title": "在罚单中快速扩张的核子基因：一个月开出8家检验实验室，称已启动IPO",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_20927154",
+          "author": null,
+          "description": "奥密克戎BF.7变异株是北京本轮疫情的主要毒株。它在传染性、致病力上具有哪些特点？北京佑安医院感染综合科主任医师、小汤山方舱医院医疗专家李侗曾介绍，BF.7变异株是国内奥密克戎“家族”里传播力最强的亚分支，其传染性更强、隐匿性更强，因而管控难度大。为此，他提醒市民：病毒变“强”，更要做好防护。\n感染1天就可排毒，2到3天传播一代\n李侗曾介绍，北京本轮疫情的主要毒株是奥密克戎BF.7亚分支，由京外输入，和目前国内许多城市的病毒种类不同。奥密克戎BF.7亚分支是BA.5.2.1.7的缩写，与年初流行的BA.1、BA.2及前段时间很多地方流行的BA.5变异株相比，其免疫逃逸能力更强，潜伏期更短，传播速度更快。“这些都导致BF.7亚分支是目前国内奥密克戎‘家族’中传染性最强的，所以防控的难度更大。”\n“从临床医生的角度来分析，德尔塔变异株的R0值是5到6，奥密克戎的R0值则超过了10。”李侗曾介绍，R0值即基本再生系数，是传染病传播的重要指数。它指的是在没有干预的情况下，在一个全部是易感人群的环境中，平均一个患者可以传染的人数。R0值越大，就意味着传染病的传播能力越强，感染者数量增长越快。而目前北京流行的奥密克戎BF.7亚分支，R0值可达10到18.6。\n北京此轮疫情为何感染者居高不下？李侗曾说，奥密克戎变异株感染后1天就可排毒，2天到3天就可出现第二代病例，因此依以前的检测频率可能漏掉一些人，发现阳性时已经造成了传播；从他接触的病例来看，虽然病毒感染性增强了、代际时间变短了，但感染后转阴的时间仍在7天到10天，并没有缩短。\n此外，奥密克戎感染后一般症状较轻，容易降低警惕性。“许多人感染后呈轻症和无症状的状态，如未及时发现并仍去上班、上学、聚会，就可能造成疫情传播。”李侗曾说，这也是为什么奥密克戎BF.7造成的疫情传播，管控难度很大。核酸检测对于尽早发现感染者、切断传播链条具有重要作用。\n不同分级患者采取不同治疗手段\n李侗曾介绍，BF.7亚分支引起的症状与奥密克戎其他变异株类似，仍以上呼吸道症状为主要表现，患者可能出现发烧、咳嗽、咽痛等症状，少数人可能会出现呕吐、腹泻等消化道症状，极少数人还可能出现嗅味觉减退等。\n目前，本市对不同分级的新冠肺炎病毒感染者采取不同的治疗手段。对于无症状感染者可以暂时不用药、不治疗。“但我们会区分其中的重症高风险人群，比如老年人、有基础疾病者等免疫力低下的人群，或长期吸烟者、肥胖人群、孕晚期孕产妇。这些人感染后发展为重症病例的风险较高，我们会对他们进行更密切地监测。”李侗曾说。\n而对于轻型、普通型病例，本市在医疗救治上主要采取的是对症治疗。“比如患者有发烧、咳嗽等症状，我们采用一些解热、镇痛的药物，缓解患者不适的症状。有些轻型、普通型病例，经专家评估病情有较大的进展风险，我们会加以抗病毒药物的治疗。”\n如果邻居同意，阳性人员可以居家隔离不送方舱，这种想法目前可行吗？李侗曾表示，对于无症状感染者本人来说，大多数人是愿意居家观察的。但作为医生，他确实在临床上看到了有些老年人感染后，会发展成重症病例，或加重原有基础病。因此，家有老人、病人或即将参加考试、有重要工作待处理的同小区居民，也许会对此持有不同的看法。“如果能够做到精准，‘一家一策’‘一人一策’当然是最好的。但这需要通过专业人员评估社区环境、家庭通风下水条件等，确保周围居民是安全的。现实是没有可靠的评估方法，很多社区也做不到这一点，采取集中隔离的策略是考虑到现实的情况。”李侗曾说。\n病毒变“强”更要注意防护\n病毒传染性变强，普通医用外科口罩还防得住吗？李侗曾说，奥密克戎BF.7变异株传染性确实变“强”了，它“采取”了更适合自己传播的策略。奥密克戎变异株主要在上呼吸道繁殖，“感染者甚至不用打喷嚏，当我们咳嗽、大声说话时，都有可能会把病毒排出来，传染给周围的人，为此我们更要注意日常的防护。”\n李侗曾说，当两个人面对面谈话时，如果都佩戴了医用外科口罩，感染的风险就会大大降低，因此市民在外出时要尽量全程科学佩戴口罩。而由于与面部贴合紧密程度的原因，普通医用外科口罩不如N95、KN95口罩密闭性强、防护性好。当市民前往风险等级更高的地方，比如医院，空气流通欠佳的地下商超、娱乐场所或乘坐公共交通工具时，建议佩戴防护级别更高的N95、KN95口罩。\n\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.fun",
+          "link": "https://www.thepaper.cn/newsDetail_forward_20927154",
+          "publishedOn": "2022-11-28T13:53:04.000Z",
+          "wordCount": 30,
+          "title": "北京本轮疫情主要毒株BF.7传染性为迄今最强",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_20927560",
+          "author": null,
+          "description": "经任务总指挥部研究决定，瞄准北京时间11月29日23时08分时分发射神舟十五号载人飞船。飞行乘组由航天员费俊龙、邓清明、张陆组成，费俊龙担任指令长。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_20927560",
+          "publishedOn": "2022-11-28T12:53:10.000Z",
+          "wordCount": 41,
+          "title": "神十五瞄准29日23时08分发射，乘组确定：费俊龙、邓清明、张陆",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_20920724",
+          "author": null,
+          "description": "双方在比赛中拼抢。\n\n27日晚，E组日本与哥斯达黎加的比赛在赖扬阿里体育场上演。\n在首场2-1逆转德国队后，日本队被寄予厚望——日本国内5大标志性建筑东京塔、京都塔、札幌电视塔、名古屋电视塔和福冈塔同时亮灯为球队助阵。\n\n富勒为哥斯达黎加破门。\n\n但是日本队却辜负了期待——比赛第81分钟，哥斯达黎加前场抢断，富勒得球后打出一记漂亮的挑射，权田修一全力扑救，但依旧无法阻止皮球入网。\n这个进球也是哥斯达黎加本届赛事第一脚射正。\n最终，日本队0-1不敌哥斯达黎加，和哥斯达黎加两场后都积3分。\n\n媒体聚焦日本队主帅森保一。\n\n对阵哥斯达黎加赛前，日本队是绝对被看好的一方。\n日本队主帅森保一赛前也豪言要继续赢下去，“胜利能够振奋人心，我得知了一些战胜德国后的反应，因此我们想在与哥斯达黎加的比赛中战胜他们，为日本国民献礼。”\n首场0比7惨败的哥斯达黎加也表示要有所表现，主帅苏亚雷斯告诉媒体：“我们还没有死，我们必须踢出和西班牙那场完全不同的比赛内容。”\n\n乔尔·坎贝尔（右）曾在阿森纳效力。\n\n世界杯上，哥斯达黎加与亚洲球队历史上只有过一次交手——2002年世界杯，哥斯达黎加在小组赛首轮2比0战胜中国。\n不过与日本队的总共4场各项赛事交锋，哥斯达黎加1平3负，丢10球仅进2球。\n\n哥斯达黎加门神纳瓦斯。\n\n根据《德国转会市场》网站统计， 日本全队阵容总身价为1.54亿欧元，哥斯达黎加仅为1875万欧元，日本身价最高的球员是法兰克福中场镰田大地，一个人就值3000万欧元。\n此役，日本队首发有五处调整，除了首战替补进球的堂安律外，还有山根视来、守田英正、相马勇纪、上田绮世先发出战，后四名球员均迎来个人世界杯首秀。\n开场后日本队努力将战火烧到对方半场，30分钟时间里日本门将权田修一只有4脚触球，不过在哥斯达黎加的顽强防守面前，日本队并没有获得什么好机会。\n\n堂安律本场首发出战。\n\n赛前，森保一强调对皮球的控制，“与德国的比赛，我们的控球率不如人意，这一战希望提高控球率，掌握更多主动。”\n令人惊讶的是，上半时控球率占优的一直是哥斯达黎加，控球率一度达到6成，但进攻端毫无建树——因为哥斯达黎加为了降低比赛的风险，增加了太多的横传和回传。\nBBC现场评论员麦克纳马拉认为比赛非常乏味，“通常我会去寻找比赛中积极的一面，但我现在很挣扎，这不是一场经典的比赛。”\n\n相马勇纪首发出战。\n\n前英格兰后卫斯蒂芬·沃诺克表示：“太可怕了，我通常不喝茶或者咖啡，现在我需要来一杯咖啡唤醒我。我告诉大家这是一场值得期待的比赛，现在我需要向大家道歉。”\n“球在哥斯达黎加的脚下时他们很挣扎，他们好像只想去防守，日本队也没有好的进攻。事实上，在上一场比赛做出换人后，他们才有所表现。”\n\n镰田大地在比赛中突破。\n\n网上吐槽比赛糟糕的言论同样比比皆是，“迄今为止最糟糕的45分钟”“很高兴只补时了1分钟”“现在是哥斯达黎加首都圣何塞的凌晨3点，希望看比赛的球迷们不会打瞌睡……”\n半场结束，数据显示，双方总共只有5次射门，没有一次发生在禁区内，并且无一命中目标，这在本届世界杯开赛以来还是第一次。\n\n浅野拓磨替补出场。\n\n下半时，森保一用浅野拓磨和伊藤洋辉换下上田绮世和长友佑都——日本队开始提速后，前5分钟就打了4脚门，是上半场的2倍。\n这并不让人意外——在上一场比赛中，日本队到浅野第57分钟上场前只有2次射门，随后日本队有了9次射门，浅野一个人射门5次，包括打进制胜球。森保一的球队似乎喜欢后发制人。\n\n富勒帮助哥斯达黎加取胜。\n\n但在围攻哥斯达黎加球门之后，日本队的防守却出现问题——比赛第81分钟，哥斯达黎加前场抢断，富勒得球后打出一记漂亮的挑射，权田修一全力扑救，但依旧无法阻止皮球入网。\n最终，赛前气势满满的日本队只能接受一场失利，也让德国队在对阵西班牙的赛前，又吞下了一颗定心丸。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_20920724",
+          "publishedOn": "2022-11-28T11:53:04.000Z",
+          "wordCount": 71,
+          "title": "赛前信心满满，比赛令人失望，日本0-1不敌哥斯达黎加",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_20927795",
+          "author": null,
+          "description": "据《环球时报》援引美国CNN报道，伊朗足协正准备要求国际足联将美国队直接开除出本届世界杯。\n因为后者在官方发布的世界杯相关的信息中，居然出于政治原因篡改了伊朗的国旗。\n美国足协在其多个社交账号上发布世界杯B组的积分榜时，篡改了伊朗的国旗，将伊朗国旗上象征伊朗的徽记给移除了，只留了一个三色旗在积分榜上。\n\n随后，美国足协删除了这张图片——美国足协对CNN表示，帖子是他们删的，因为他们这个行为只是“一次性的”，伊朗国旗已经被改回去了。\n而针对此举，美国国务院的一名发言人表示，“我们期待着赛场上一场平和和有竞争力的比赛。”\n不过，伊朗官方已经表示了严正抗议。\n伊朗官方媒体塔斯尼姆通讯社就在社交媒体上发文称，美国足协的做法违反了国际足联关于不得侮辱一个国家尊严的规定，美国男足应该因此被禁赛。\n伊朗媒体表示，伊朗足协的法律顾问将会就美国足协的做法直接向国际足联进行投诉。\n北京时间11月30日凌晨3点，伊朗将和美国进行世界杯B组的最后一场比赛，这场比赛将决定谁能晋级。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_20927795",
+          "publishedOn": "2022-11-28T10:53:06.000Z",
+          "wordCount": 32,
+          "title": "美国足协篡改伊朗国旗，伊朗队要求世界杯开除美国队",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_20929582",
+          "author": null,
+          "description": "【导读】 \n新冠疫情在全球范围内的肆虐已近三年，当世界各国纷纷宣布“疫情结束”，并采取消极的措施应对疫情的同时，中国政府依然秉持“人民至上，生命至上”，坚持疫情防控。 如何看待这两种截然不同的疫情应对策略，面对世界经济的复苏困境和外界对于防疫措施和经济发展之间关系，在与观察者网的交流中，英国经济学者罗思义表达了自己的观点： “所谓‘西方的疫情已经结束’完全是无稽之谈，三年来，中国政府的清零政策挽救了这460万人的生命。” “防控不是导致经济问题的原因，中国和西方皆是如此，现在是世界经济40年来最糟糕的时刻，而中国经济的表现依然远好于美国和欧洲。”\n观察者网：非常感谢您接受我们的采访。新冠疫情从2019年末爆发到现在已经近三年了，三年来它成为了萦绕在全球人民心中的一场噩梦。\n罗思义：你说的不完全正确。相比于中国，新冠疫情对于英国是更大更可怕的噩梦。\n中国现在是疫情之下全世界最安全的地方，而我所在的英国目前的疫情依然处于失控之中。这种噩梦般的感觉不会出现在中国，而噩梦是英国正在发生的事。三年来，我通过数据，通过自己和身处西方的其他人的联系了解目前西方新冠疫情的真实情况。\n因此，你说新冠是全球范围内的噩梦并不准确，抱歉，它是除中国之外的一场噩梦。\n观察者网：然而对于中国国内的一些人来说，他们认为的除了中国以外的世界，“疫情已经宣布结束了”，“人们可以自由地出国旅游”。\n罗思义：首先，可以满世界旅游的人只占中国人口很小的比例，而可能因为新冠疫情而失去生命的人数所占人口的比例要远大于此。\n因此，西方宣扬这种言论是最糟糕的，他们为了获取利益不惜杀死上百万的人。在中国的人们应该了解到这一点，这种言论是由西方炮制的纯粹的政治宣传。\n观察者网：如您所说，面对疫情，很多西方国家选择宣布“疫情结束”，随即停止采取积极的抗疫举措，而中国政府依然坚持“动态清零”政策。作为一名疫情爆发以来一直生活在西…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_20929582",
+          "publishedOn": "2022-11-28T09:53:05.000Z",
+          "wordCount": 58,
+          "title": "罗思义：拯救了上百万生命的中国政府，不应在经济上被误解",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_20922714",
+          "author": null,
+          "description": "记者27日从首届“中日友好与历史责任”研讨会获悉，“历史·人权·和平”基金启动运行三年多，截至目前，已为1290户中国受害劳工家庭发放谢罪款1亿2900万元人民币，得到广大中国劳工家庭及相关各方充分肯定。\n2019年9月，中国人权发展基金会与日本三菱综合材料公司签署托管协议，正式承接管理该公司涉及3765名二战中国受害劳工权益的“历史·人权·和平”基金，期限为5年。\n据悉，在第二次世界大战中，3765名中国劳工被强迫在日本三菱综合材料公司前身三菱矿业株式会社及其承包公司（包括三菱矿业株式会社子公司的承包公司）的作业场所劳动，其间有722名中国劳工死亡。为解决这一历史遗留问题，经中日两国民间人士不懈努力，日本三菱综合材料公司于2016年6月与3名中国劳工代表达成和解协议，承认其侵犯人权的历史事实，并表示真诚地谢罪，向每名中国劳工或其遗属支付10万元人民币谢罪款。同时，该公司出资在中国劳工被强迫劳动所在地设立纪念碑，组织开展祭祀追悼活动。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_20922714",
+          "publishedOn": "2022-11-28T08:53:06.000Z",
+          "wordCount": 26,
+          "title": "1290户二战中国受害劳工家庭收到谢罪款1亿2900万",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_20927134",
+          "author": null,
+          "description": "强如德国队，居然也有辛苦算分的一天。\n28日凌晨，德国队和西班牙1-1战平，两轮小组赛过后，德国队所在的世界杯E组形势扑朔迷离，四支球队全部保留着在第三轮实现突围的希望。\n而在克罗地亚和比利时所在的F组，也只有加拿大队提前出局——摩洛哥、比利时、克罗地亚将在最后一轮进行角力。\n\n菲尔克鲁格替补登场，为德国队扳平比分。\n\n德国队也要算分了\n第一场小组赛爆冷不敌日本之后，德国队的每一场比赛都必须力争三分，但那谈何容易。\n11月28日凌晨，小组赛次轮对阵强大的西班牙，德国队终止住了状态的颓势，但最终还是与对手握手言和，1比1取得一分。\n两粒进球都是在下半场到来——第61分钟莫拉塔接到阿尔巴的传球抢点破网；第82分钟德国队抓住抢断机会，由替补出场的高中锋菲尔克鲁格爆射进球。\n\n中锋菲尔克鲁格一出场就解决了问题。\n\n艰难取得平局后，社交网络上的中国球迷立刻开启了“数学家模式”。毕竟之前帮国足算分，这是我们最熟悉的一件事。\n目前，E组的出线形势可谓扑朔迷离，西班牙队积4分排名第一，日本队和哥斯达黎加队都积3分，净胜球0的日本暂列第二，净胜球-6的哥斯达黎加队第三。\n最后一名德国队则两战仅积1分，净胜球-1，但好在，只要在末轮击败哥斯达黎加的前提下，满足以下几种情况之一，德国队还是可以小组出线。\n\n双方拼抢激烈。\n\n西班牙击败日本；\n西班牙战平日本，自己赢哥斯达黎加1球，自己进球数多于日本（目前德国、日本进球数都为2）；\n西班牙战平日本，自己赢哥斯达黎加2球及以上；\n西班牙不敌日本，且自己的净胜球数超过西班牙（目前西班牙净胜球7，德国净胜球-1）。\n\n菲尔克鲁格是大器晚成的代表。\n\n换句话说，无论如何，德国在最后一场比赛都必须要击败哥斯达黎加，同时还要看西班牙的脸色。自己只有尽量多拿净胜球，才能获得一线生机。\n走到这一步，德国队也纯属“活该”——这是世界杯历史上，德国队首次小组赛前两场一…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_20927134",
+          "publishedOn": "2022-11-28T08:53:06.000Z",
+          "wordCount": 85,
+          "title": "头条世界杯｜辛苦中国球迷，现在也要给德国队算分了",
+          "imageUrl": null
+        },
         {
           "id": "https://www.thepaper.cn/newsDetail_forward_20918378",
           "author": null,
@@ -316,6 +406,86 @@
       "feedUrl": "https://www.nationalreview.com/feed/",
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1404994",
+          "author": "Caroline Downey",
+          "description": "Republican gubernatorial candidate Kari Lake continues to insist that her supporters were disenfranchised.",
+          "link": "https://www.nationalreview.com/news/maricopa-county-says-tabulator-issues-did-not-disenfranchise-midterm-voters/",
+          "publishedOn": "2022-11-28T15:43:19.000Z",
+          "wordCount": 7131,
+          "title": "Maricopa County Says Tabulator Issues Did Not Disenfranchise Midterm Voters",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/maricopa-1.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1405019",
+          "author": "Michael Brendan Dougherty",
+          "description": "He threatens to expose the political management that went into Twitter over the last half-decade. It’s about time.",
+          "link": "https://www.nationalreview.com/2022/11/two-cheers-for-elon-musks-twitter/",
+          "publishedOn": "2022-11-28T14:55:12.000Z",
+          "wordCount": 7313,
+          "title": "Two Cheers for Elon Musk’s Twitter",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/Musk-1.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1404878",
+          "author": "Caroline Downey",
+          "description": "Beijing’s city government said apartment compounds with Covid-19 cases will no longer be blocked.",
+          "link": "https://www.nationalreview.com/news/china-relaxes-some-covid-19-restrictions-as-anti-ccp-protests-strain-zero-covid-approach/",
+          "publishedOn": "2022-11-28T13:40:40.000Z",
+          "wordCount": 6877,
+          "title": "China Relaxes Some Pandemic Restrictions as Anti-CCP Protests Strain ‘Zero-Covid’ Approach",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/China-Covid-2.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1404526",
+          "author": "Jay Nordlinger",
+          "description": "On a meal at Mar-a-Lago and the problem of antisemitism, in America and elsewhere (ever and always).",
+          "link": "https://www.nationalreview.com/2022/11/guess-who-came-to-dinner/",
+          "publishedOn": "2022-11-28T11:30:52.000Z",
+          "wordCount": 8539,
+          "title": "Guess Who Came to Dinner",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2018/04/republican-celebs-01-1.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1404636",
+          "author": "Kathryn Jean Lopez",
+          "description": "Be not afraid to associate with people you disagree with.",
+          "link": "https://www.nationalreview.com/2022/11/amy-coney-barrett-is-not-a-threat-to-pluralism/",
+          "publishedOn": "2022-11-28T11:30:44.000Z",
+          "wordCount": 7726,
+          "title": "Amy Coney Barrett Is Not a Threat to Pluralism",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/03/sotu-speech-2022-20.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1404353",
+          "author": "Daniel J. Pilla",
+          "description": "The Inflation Reduction Act is breathing new life into IRS enforcement action.",
+          "link": "https://www.nationalreview.com/2022/11/the-irs-is-coming-for-cryptocurrency/",
+          "publishedOn": "2022-11-28T11:30:37.000Z",
+          "wordCount": 7956,
+          "title": "The IRS Is Coming for Cryptocurrency",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/bitcoins.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1404320",
+          "author": "Jonathan Bydlak",
+          "description": "If history is any guide, the coming lame-duck session won’t be good for taxpayers.",
+          "link": "https://www.nationalreview.com/2022/11/get-ready-for-a-big-spending-lame-duck/",
+          "publishedOn": "2022-11-28T11:30:23.000Z",
+          "wordCount": 7428,
+          "title": "Get Ready for a Big-Spending Lame Duck",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/nancy-pelosi-chuck-schumer.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1404516",
+          "author": "Rich Lowry",
+          "description": "It’s still a very bad idea for him to run again.",
+          "link": "https://www.nationalreview.com/2022/11/the-extreme-recklessness-of-biden-2-0/",
+          "publishedOn": "2022-11-28T11:30:10.000Z",
+          "wordCount": 7483,
+          "title": "The Extreme Recklessness of Biden 2.0",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/joe-biden-white-house.jpg?fit=2057%2C1200"
+        },
         {
           "id": "https://www.nationalreview.com/?p=1404380",
           "author": "John Fund",
@@ -4805,16 +4975,6 @@
           "wordCount": 7510,
           "title": "A Lewd Public Stunt Is ‘Peak Trans’",
           "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/Jordan-Gray.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1385024",
-          "author": "Brittany Bernstein",
-          "description": "‘If Lee Zeldin gets into office, New York will become a law-and-order state, and he will be a law-and-order governor.’",
-          "link": "https://www.nationalreview.com/news/desantis-stumps-for-zeldin-new-york-needs-to-stop-coddling-criminals/",
-          "publishedOn": "2022-10-30T02:48:27.000Z",
-          "wordCount": 15248,
-          "title": "DeSantis Stumps for Zeldin: New York Needs to ‘Stop Coddling Criminals’",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/desantisq.jpg?fit=2057%2C1200"
         }
       ]
     }
