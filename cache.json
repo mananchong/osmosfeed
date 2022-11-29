@@ -34,26 +34,6 @@
           "wordCount": 6123,
           "title": "R Weekly 2022-W46 {rtoot}, column headers, apply functions, NBA posters",
           "imageUrl": "https://rweekly.org/public/facebook.png"
-        },
-        {
-          "id": "https://rweekly.org/2022-W45.html",
-          "author": null,
-          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Batool Almarzouq, with help from the wonderful R Weekly team members and contributors.\nHighlight\nUsing GoogleSheets as a Database in R— Yeay!\nLevel Up Your Plots: A Code-along Workshop\nRegular, intentional, and time-boxed yak shaving\nInsights\nRegular, intentional, and time-boxed yak shaving\n\nAdding Mastodon Social Link to Hugo & Blogdown Website Template\nSpacetime representations aren’t good—yet\nR in the Real World\nModeling the secular trend in a cluster randomized trial using very flexible models\n\nR in Academia\nCode to replicate the empirical results from the paper “Trade models in the European Union”.\nAccompanying code for Bee Swarm Optimization Paper\nManuscript material f…",
-          "link": "https://rweekly.org/2022-W45.html",
-          "publishedOn": "2022-10-31T00:00:00.000Z",
-          "wordCount": 6159,
-          "title": "R Weekly 2022-W45, Level Up Your Plots, GoogleSheets as a Database in R and Time-boxed Yak Shaving",
-          "imageUrl": "https://rweekly.org/public/facebook.png"
-        },
-        {
-          "id": "https://rweekly.org/2022-W44.html",
-          "author": null,
-          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Sam Parmar, with help from the R Weekly team members and contributors.\nHighlight\nAre you Data Scientists or Software Developers?!\nUnderstanding ShinyApps\nTidyX Episode 121: Tell me what you want - user submitted data\nInsights\n“Wait, I’m a developer?”: Reflections on developing #Rstats functions\nDiving into dependen-“sea”: How CRAN packages are interconnected\nAre you Data Scientists or Software Developers?!\nAlternatives to paired bar charts\nNBA teams Posters using R and Bash\nDiscrete Fourier Transform - with torch\nUnderstanding ShinyApps\n\nUnderstanding the Basics of Package Writing in R\nR, its license and my take on it\n\nTop 5 Shiny UI Add-On Packages\n\nQuartaki: 6 hour introdu…",
-          "link": "https://rweekly.org/2022-W44.html",
-          "publishedOn": "2022-10-31T00:00:00.000Z",
-          "wordCount": 6317,
-          "title": "R Weekly 2022-W44 Data Scientists or Software Developers, Understanding Shiny, and New TidyX",
-          "imageUrl": "https://rweekly.org/public/facebook.png"
         }
       ]
     },
@@ -129,6 +109,96 @@
       "feedUrl": "https://feedx.net/rss/thepaper.xml",
       "siteUrl": "http://thepaper.cn",
       "articles": [
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_20946012",
+          "author": null,
+          "description": "11月29日下午，国务院联防联控机制召开新闻发布会，主题为“落细落实防控措施，有效抓好疫情处置”。国家卫生健康委、国家疾控局相关司局负责同志和中国疾控中心专家出席发布会，并回答媒体提问。\n路透社记者提问：我的问题是，考虑到最近个别地方的不满情绪，政府是否会重新考虑疫情应对政策？\n国家卫生健康委新闻发言人、宣传司副司长米锋表示，疫情发生以来，中国政府一直根据病毒变异的特点和临床治疗的实践认识，边防控、边研究、边总结、边调整。针对奥密克戎变异株传播力和致病力的特性，以及重症率、死亡率等情况，包括密切关注国际上一些疫情形势的变化，对于防控的措施，我们一直在研究，不断在调整，最大程度保护人民利益，最大限度减少疫情对经济社会发展的影响。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_20946012",
+          "publishedOn": "2022-11-29T15:53:05.000Z",
+          "wordCount": 28,
+          "title": "是否会重新考虑疫情应对政策？国家卫健委回应",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_20945600",
+          "author": null,
+          "description": "谎报检测结果、使用非卫生技术人员开展核酸采样工作、核酸检测报告审核人与实际审核人不符……据人民日报健康客户端记者不完全梳理，核子华曦或其相关公司被卫生机构通报违规。\n违规达10次的核子华曦为什么没有被提起公诉？对此，中国政法大学医药法律与伦理研究中心主任刘鑫教授告诉人民日报健康客户端记者，“目前来看，核子华曦相关违法行为大部分属于行政处罚的范畴，上升到刑事处罚的可能性不大，但其中部分违法行为，有可能涉及到刑事处罚，但需看行政机关调查的结果。”\n11月28日，人民日报健康客户端记者就相关问题多次致电核子华曦全资持股公司深圳核子基因科技有限公司，电话均未接通。 \n\n核酸检测机构频出问题，需专业立法确定个性化罪名\n“用法律界定核酸检测机构的问题有点复杂，这是新生事物，近日核酸检测机构出现问题，从法律层面说，这是不是犯罪行为，构成什么犯罪，确需讨论。”11月28日，中国政法大学医药法律与伦理研究中心主任刘鑫教授告诉人民日报健康客户端记者，妨害传染病防治罪、中介组织提供虚假证明文件罪、以危险方法危害公共安全罪、诈骗罪、玩忽职守罪在这一问题上都不完全适用，目前很多用地方的检察机关以妨害传染病防治罪来起诉，但这一罪行并不能全面地体现问题。根据《刑法修正案十一》第37条的规定，对《刑法》第330条第1款所作修改，妨害传染病防治罪涉及五种情形，但并没有包括提供虚假检验结果的情形。另一方面，根据罪刑相适应的原则，刑法针对具体的罪名的法定刑，与犯罪行为的社会危害性密切相关。\n刘鑫表示，妨害传染病防治罪，一般是三年以下有期徒刑，情节严重的，三年到七年；而中介组织提供虚假证明文件罪，起刑为五年以下，情节严重的，是五年到十年，从定罪的起刑的幅度，比妨害传染病防治罪高，所以从危害性的角度来讲，界定为中介组织提供虚假证明文件罪应该更准确，但也有很多模糊和值得商榷的内容。伪造核酸检测结果，直接干扰了一定区域传染病防治工作，尤其涉及甲类传染病或者按照甲类传染病管理的乙类传染病的传播，引发严重的传染病疫情，中介组织提供虚假证明文件罪的法定刑显得力度不够。\n“从这个角度来讲，建议设立专门的法律来解决问题，非常有必要。”刘鑫指出。\n核子华曦为何没被公诉？\n“目前来看，核子华曦的违法行为大部分属于行政处罚的范畴，上升到刑事处罚的可能性不大，但是其中部分违法行为，有可能涉及到刑事处罚，但具体情况需要看行政机关调查的结果。”刘鑫解释，“涉及到行政监管机关监管的违法行为或事件，需由行政机关先进性行政立案调查，并进行行政处罚，如果行政处罚不足以对违法行为人进行惩治，才有必要移交公安机关进行刑事立案。”\n刘鑫告诉记者，“如果上升为刑事案件，首先需要立案，公安机关或者人民检察院发现有犯罪事实，或者有犯罪嫌疑人，那就应该按照他的管辖范围进行立案侦查，当立案侦查侯认为犯罪成立，应该提起公诉。在这一过程中，公安机关交给检察机关进行审查起诉，但检察院在审查当中，可以进一步作出决定，要不要提起公诉。”\n据记者梳理发现，2021年1月17日，河北省邢台市疫情防控发布会通报，承担隆尧县第二轮核酸检测任务的济南华曦医学检验有限公司涉嫌谎报检测结果；另外，兰州市卫健委11月25日通报，2022年11月24日上午，兰州市七里河区依据核酸检测结果组织转运阳性感染者时，发现个别待转运群众健康码显示核酸检测阴性。\n“在公布的十次被行政处罚的违法行为中，2021年1月17日济南和2022年11月25日兰州两次事件相对来说比较严重，如果涉及到核酸检测结果造假问题，并且导致了传染病疫情扩散，多人感染新冠病毒，确实属于危害很大的涉嫌犯罪的行为，但危害程度如何？是否需要立案，还涉及到行政机关的查证，根据违法行为、危害后果的严重程度，如果行政处罚到不到惩罚、教育的目的，当地行政部门就可以向公安机关移送，由公安机关启动刑事侦查程序，进入刑事诉讼。”刘鑫告诉记者。\n（原标题：违规超10次的核子华曦，为什么没被提起公诉？）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_20945600",
+          "publishedOn": "2022-11-29T14:53:08.000Z",
+          "wordCount": 32,
+          "title": "违规超10次的核子华曦，为什么没被提起公诉？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_20945808",
+          "author": null,
+          "description": "11月29日下午，国务院联防联控机制召开新闻发布会，主题为“落细落实防控措施，有效抓好疫情处置”。国家卫生健康委、国家疾控局相关司局负责同志和中国疾控中心专家出席发布会，并回答媒体提问。\n国家卫生健康委新闻发言人、宣传司副司长米锋表示：当前，各地正在抓实抓细做好疫情防控。要根据检测、流调结果做好风险研判，精准判定风险区域。封控管理要快封快解、应解尽解，减少因疫情给群众带来的不便。\n米锋介绍，要科学分类收治阳性感染者，妥善做好儿童、老年人和有基础性疾病患者的收治、照护，促进患者早日康复。要持续整治层层加码，对群众的合理诉求及时回应和解决。要加快推进新冠病毒疫苗接种，特别是老年人接种。希望老年朋友们积极、尽快完成疫苗接种，保护自身和家人健康。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_20945808",
+          "publishedOn": "2022-11-29T12:53:06.000Z",
+          "wordCount": 28,
+          "title": "国家卫健委：封控管理要快封快解、应解尽解",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_20943853",
+          "author": null,
+          "description": "南部战区新闻发言人田军里空军大校表示，11月29日，美“钱斯洛斯维尔”号导弹巡洋舰未经中国政府批准，非法闯入中国南沙岛礁邻近海域，中国人民解放军南部战区组织海空兵力进行跟踪监视并予以警告驱离。美军行径严重侵犯中国主权和安全，是其大搞航行霸权、制造南海军事化的又一铁证，充分说明美是不折不扣的南海安全风险制造者。中国对南海诸岛及其附近海域拥有无可争辩的主权，战区部队时刻保持高度戒备状态，坚决捍卫国家主权安全和南海地区和平稳定。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_20943853",
+          "publishedOn": "2022-11-29T11:53:04.000Z",
+          "wordCount": 28,
+          "title": "美舰擅闯中国南沙岛礁邻近海域，南部战区：严重侵犯中国主权和安全",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_20931299",
+          "author": null,
+          "description": "据外媒报道，近日，美国五角大楼正考虑波音公司提出的向乌克兰低价提供小型精确炸弹系统的提议。\n据路透社11月28日报道，业内消息人士称，美国波音公司提议向乌军提供GLSDB陆射小直径制导炸弹。该炸弹系统由瑞典萨伯公司和美国波音公司共同开发，可以视作是GBU-39小直径炸弹（SDB）与M26火箭发动机的结合体。该系统可以打击94英里（约150公里）以外的目标，若运用于战场之上，将可能使乌克兰击中此前无法触及的远距离军事目标，扰乱俄罗斯后方战区。\n美国陆军首席武器采购员道格·布什（Doug Bush）透露，乌克兰对美国制造的武器和弹药需求日渐增长，东欧国家也正在“下大量订单”购买武器以供应乌克兰。目前，美国五角大楼发言人、中校蒂姆·戈尔曼（Tim Gorman）拒绝就向乌克兰提供任何“特定武装能力”发表评论，但表示美国及其盟友“会确定并考虑最合适的系统”以帮助乌克兰。\n据此前报道，今年10月，乌克兰政府曾向美国提出请求，希望获得美国的陆军战术导弹系统（ATACMS），该系统可以打击185英里（约297公里）以外的目标。五角大楼认为乌军装备足够并不需要ATACMS系统，因此拒绝了该请求。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_20931299",
+          "publishedOn": "2022-11-29T10:53:06.000Z",
+          "wordCount": 33,
+          "title": "外媒：美国正考虑向乌克兰提供射程达150公里的武器系统",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_20934108",
+          "author": null,
+          "description": "在一场进球大战中，韩国拼尽全力，却只能将小组出线的命运留到和葡萄牙的最后对决中。\n北京时间11月28日，在赖扬教育城体育场，韩国迎来与加纳的交锋，首轮0比0战平乌拉圭后，韩国队渴望拿下这场胜利，但经历了前20分钟的干打雷不下雨之后，加纳逐渐接管比赛，上半场以2比0领先。\n下半场，韩国队的曹圭成连入两球，追平比分。不过，加纳随后再进一球，将比分定格在了3比2。\n这意味着，韩国队必须在最后一轮战胜强大的葡萄牙才能保留晋级的希望。\n\n加纳队在上半场就打进两球。\n\n历史上韩国队世界杯面对非洲球队1胜1平1负，与加纳的6次交锋都发生在友谊赛，最近的一次是2014年世界杯前的热身赛，韩国0比4惨败于加纳，孙兴慜当时首发登场，亲历了惨剧。\n这一回韩国队希望在世界杯赛场挽回颜面。此前韩联社称预计：当晚将有3万余人聚集首尔街头，为韩国队世界杯比赛助威，警方将在现场部署870余名安全管理人员维持秩序。\n\n孙兴慜在这场比赛中的状态不太好。\n\n开场后，韩国队全力压上，控球率一度超6成，孙兴慜和金珍洙在左路配合较为默契，多次形成以多打少的优势，至17分钟韩国已经收获了7个角球，并有5次射门。\n虽然韩国队场面占据优势，但效率低下，防守中却出现了漏洞，第23分钟加纳任意球战术造成门前混乱，萨里苏射门得分，慢镜头显示加纳有球员存在手球嫌疑，经过VAR裁决，进球依然有效。\n这次得分让加纳在过去8场世界杯比赛中都有进球开张。\n前英格兰国脚杰梅因-杰纳斯在社交网络上表示：“韩国在定位球上落位太深，这带来了一大堆问题。”10分钟后，加纳卷土重来，库杜斯接左路传中，头槌破门，2比0。\n\n库杜斯头球破门。\n\n韩国主帅本托赛前提醒球员：“我们需要尽可能踢得松弛一些，加纳队的防守很强，进攻端也很出色，他们也有很多球员在英超联赛球队踢主力，我们必须给出更好的表现来应对。”现在看来，韩国队并没有找到自己的节奏。\n半场数据显示，韩国队6次射门无一命中，加上与乌拉圭的比赛，他们13脚射门0次射正，是32强中唯有没有射正的球队，反观加纳仅有2次射门，就打入两球。\n\n韩国队在下半场一度追平比分。\n\n这看上去是一场效率反差巨大的比赛，但韩国人的韧性让比赛没有失去悬念。下半时已经没有退路的韩国继续施加压力，第57分钟，韩国在边路断球成功，传中形成曹圭成的头球攻门，1比2。第60分钟，韩国队如法炮制，又是曹圭成头球破门。\n根据数据显示，曹圭成的两个进球在短短168秒内打进。\n\n曹圭成在下半场表现抢眼。\n\n赛前，所有关注韩国队的目光都锁定在头号球星孙兴慜身上。BBC体育在教育城体育场的现场记者艾玛·桑德斯评论道：“孙兴慜在韩国就像是上帝，他的名字随处可见，有球迷告诉我们，‘他比碧昂丝更有名’。”事实却是名气不大的曹圭成成了主角。\n然而，这依然不是一场属于韩国队的比赛，第67分钟，加纳左路突破传倒三角，前点球员射门踢呲，后点的库杜斯劲射破门，加纳再度领先。\n韩国最近3场比赛零封对手，本场比赛他们的防线却被加纳完全击溃。\n\n孙兴慜在比赛中流露出失望的情绪。\n\n目睹韩国队的追平、加纳队的再度领先，BBC驻卡塔尔记者安迪-克莱尔为这场比赛的走势感到兴奋，“这是一场吸引人的比赛，充满戏剧性，比赛的主导者从一边换到另一边，然后又换了回来……”\n最后10分钟，韩国队其实还有改写比分的机会。前英格兰国脚前锋达布林在社交网络上表示：“双方看上去随时都有可能再度改写比分，可能会进一个，也可能是两个，”\n第74分钟，李刚仁射出刁钻的任意球，但被加纳门将扑出。第75分钟，韩国左路射门，守门员已经放弃，但加纳后卫在门线上将球解围。\n补时阶段，韩国队依然有得分机会，戴着面具的孙兴慜都冲到禁区内争顶头球。伤停补时走完10分钟，韩国队获得一次角球机会，当值主裁判吹响终场哨，引发韩国队不满，韩国队主帅本托甚至冲进球场和裁判理论，被裁判出示红牌。\n\n本托最后冲进球场和裁判理论，却吃到一张红牌。\n\n2比3负于加纳后，韩国两战仅积1分，他们已经被逼到悬崖边缘，必须在最后一轮战胜葡萄牙，才有可能晋级淘汰赛。值得一提的是，在这个比赛日，加纳打进3球，加上此前喀麦隆3比3战平塞尔维亚，非洲球队打进6个进球，这是非洲球队在世界杯上单个比赛日打进最多进球的一次。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_20934108",
+          "publishedOn": "2022-11-29T09:53:05.000Z",
+          "wordCount": 57,
+          "title": "韩国2比3惜败加纳：出线希望渺茫，赛后全队围攻裁判",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_20943129",
+          "author": null,
+          "description": "卡塞米罗精彩抽射破门。\n\n4年时间，巴西队会不会重蹈面对瑞士不胜的覆辙？\n29日凌晨，又是小组赛对阵瑞士，桑巴军团的进球一直到比赛临近结束才终于到来——凭借卡塞米罗的进球，他们1比0拿下胜利。\n虽然本场内马尔伤停，但巴西在这一场“经济适用型”胜利后，积6分已经提前小组出线。\n\nB费进球，C罗一把抱住了他。\n\n在另一场比赛中，凭借B费的梅开二度，C罗领衔的葡萄牙队同样提前出线。2比0击败乌拉圭后，这支葡萄牙的潜力开始逐渐展现在世界面前。\n\n巴西队庆祝提前出线。\n\n集齐九大前锋，召唤卡塞米罗进球\n在头一场小组赛，巴西队虽然2比0击败了塞尔维亚，但球队核心内马尔却遭遇了伤病。\n全场遭遇对手9次犯规之后，内马尔因为右脚踝受伤下场，本场比赛，他也没能重新站到赛场之上。\n不过虽然没法比赛，看上去内马尔的心情倒也不算太坏——他在社交媒体上晒出了自己躺在床上看直播的照片，照片里除了电视画面，还有他缠着护具的右脚。\n\n内马尔晒图看比赛。\n\n按照队友维尼修斯的说法，内马尔不光是脚上有伤，还有一点发烧。好在巴西队1比0取胜之后，已经提前拿到了淘汰赛门票，因此马儿可以安心养伤养病，静待痊愈之后再行归来。\n对于内马尔的想念，队友们都没有掩饰。队友马尔基尼奥斯就在赛后表示：“我们很清楚会有多想他，他能靠个人能力创造出机会。”\n\n维尼修斯“做鬼脸”致敬内马尔。\n\n维尼修斯更是试图用进球来致敬马儿——第64分钟，他在进球之后做出了内马尔的“做鬼脸”庆祝动作，可惜因为队友理查利森越位在先而被吹掉……\n为巴西队赢得胜利的进球，直到第83分钟才姗姗来迟——接到罗德里戈的传球后，卡塞米罗的抽射打进全场唯一进球，帮助巴西队赢得小组赛两连胜。\n\n卡塞米罗的进球极其精彩。\n\n在豪华前锋群的轮番冲击之下，最后由中场球员“胖虎”一锤定音，瑞士队也很无奈——对方能进球的人太多，这怎么防，没法防。\n球迷则说，巴西队集齐了九大前…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_20943129",
+          "publishedOn": "2022-11-29T09:53:05.000Z",
+          "wordCount": 100,
+          "title": "头条世界杯｜C罗B费打破不和传闻，葡萄牙巴西提前出线",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_20943870",
+          "author": null,
+          "description": "近日，一条“拥有35家核酸检测公司的张珊珊及张核子系张蕴钰将军后人”的传言在网上广泛传播，造成了恶劣的影响。经张蕴钰家属确认，此条信息属于谣言，已报警处理。张蕴钰将军从革命年代一路走来，还领导了我国核试验基地的建设，为祖国和人民立下了赫赫战功。然而，有人却将这样一位革命先烈与一个企业恶意关联、编造谣言，挑动负面情绪，对国家、社会及其家人造成了极大的伤害。每一个人都要对自己的言论负责，社会上绝不允许无中生有、肆意造谣、恶意诋毁的情况发生；大家也要擦亮自己双眼，保持理性客观，不能轻易被偏激的情绪带了节奏。当年张蕴钰将军和十五军的将士们之所以能够在上甘岭残酷的炮火中坚持下来，是因为他们无论在什么情况下都心怀着必胜的信念。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_20943870",
+          "publishedOn": "2022-11-29T08:53:05.000Z",
+          "wordCount": 29,
+          "title": "钧正平批“造谣张核子张珊珊为张蕴钰将军后人”：非常恶毒",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_20943910",
+          "author": null,
+          "description": "据“健康中国”微信公众号消息，国务院联防联控机制将于11月29日下午3点召开新闻发布会，主题为“落细落实防控措施，有效抓好疫情处置”。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_20943910",
+          "publishedOn": "2022-11-29T07:53:54.000Z",
+          "wordCount": 34,
+          "title": "国务院联防联控机制今日下午3点召开新闻发布会",
+          "imageUrl": null
+        },
         {
           "id": "https://www.thepaper.cn/newsDetail_forward_20943131",
           "author": null,
@@ -546,6 +616,96 @@
       "feedUrl": "https://www.nationalreview.com/feed/",
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
+        {
+          "id": "https://www.nationalreview.com/?p=1406344",
+          "author": "Charles C. W. Cooke",
+          "description": "If it contained stronger protections for conscience rights and religious freedom, the bill would be worth supporting.",
+          "link": "https://www.nationalreview.com/2022/11/the-gop-must-fix-the-respect-for-marriage-act/",
+          "publishedOn": "2022-11-29T16:21:07.000Z",
+          "wordCount": 7677,
+          "title": "The GOP Must Fix the Respect for Marriage Act",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/04/Mike-Lee.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1406239",
+          "author": "Ryan Mills",
+          "description": "Marissa Darlingh was fired after speaking out against child gender transition at a rally in Madison, Wis.",
+          "link": "https://www.nationalreview.com/news/wisconsin-school-counselor-sues-district-after-firing-over-objections-to-child-gender-transition/",
+          "publishedOn": "2022-11-29T15:10:57.000Z",
+          "wordCount": 8184,
+          "title": "Wisconsin School Counselor Sues District after Firing over Objections to Child Gender Transition",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/06/transgender-flag-pride-flag.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1406222",
+          "author": "John McCormack",
+          "description": "The narrative of GOP silence in response to Trump’s appalling meeting was premature.",
+          "link": "https://www.nationalreview.com/2022/11/republicans-condemn-trumps-fraternizing-with-antisemites/",
+          "publishedOn": "2022-11-29T14:50:57.000Z",
+          "wordCount": 7607,
+          "title": "Republicans Condemn Trump’s Fraternizing with Antisemites",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/Kemp-Trump-Pence-2.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1406192",
+          "author": "Ari Blaff",
+          "description": "The ads feature young children holding teddy bears dressed in bondage harnesses.",
+          "link": "https://www.nationalreview.com/news/balenciaga-apologizes-for-disturbing-child-ads-insists-pornographic-themes-were-unintentional/",
+          "publishedOn": "2022-11-29T14:27:09.000Z",
+          "wordCount": 7013,
+          "title": "Balenciaga Apologizes for Disturbing Child Ads, Insists Pornographic Themes Were Unintentional",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/Balenciaga.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1406143",
+          "author": "Ari Blaff",
+          "description": "The combination of cold weather and the threat of state violence deterred residents in Shanghai and Nanjing from protesting.",
+          "link": "https://www.nationalreview.com/news/chinese-protests-falter-as-beijing-cracks-down/",
+          "publishedOn": "2022-11-29T13:22:41.000Z",
+          "wordCount": 6871,
+          "title": "Chinese Protests Falter as Beijing Cracks Down",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/China-Protests.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1405365",
+          "author": "Elliott Abrams",
+          "description": "The administration has weakened the democratic opposition and strengthened the Maduro regime in exchange for maybe a few drops of oil and little else.",
+          "link": "https://www.nationalreview.com/2022/11/bidens-slow-walk-away-from-venezuela/",
+          "publishedOn": "2022-11-29T11:30:30.000Z",
+          "wordCount": 7606,
+          "title": "Biden’s Slow Walk Away from Venezuela",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/nicolas-maduro-venezuela.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1405547",
+          "author": "Will Swaim",
+          "description": "The city’s new ‘vacancy tax’ on landlords is consistent with its habit of making bad things worse.",
+          "link": "https://www.nationalreview.com/2022/11/san-francisco-stuck-in-the-suck/",
+          "publishedOn": "2022-11-29T11:30:24.000Z",
+          "wordCount": 8172,
+          "title": "San Francisco: Stuck in the Suck",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2021/06/san-francisco.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1405620",
+          "author": "Jay P. Greene",
+          "description": "Past efforts at expanding educational freedom have fallen short in the Lone Star State. Here’s why this legislative session might be different.",
+          "link": "https://www.nationalreview.com/2022/11/school-choice-is-poised-for-another-victory-in-texas/",
+          "publishedOn": "2022-11-29T11:30:15.000Z",
+          "wordCount": 7471,
+          "title": "School Choice Is Poised for Another Victory in Texas",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2020/11/texas-state-capitol-austin.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1405573",
+          "author": "The Editors",
+          "description": "No one knows just how far these protests will spread, but the demonstrators deserve our support.",
+          "link": "https://www.nationalreview.com/2022/11/rising-up-against-chinas-zero-covid-regime/",
+          "publishedOn": "2022-11-29T11:30:07.000Z",
+          "wordCount": 10874,
+          "title": "Rising Up against China’s Zero-Covid Regime",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/china-covid-protests-25.jpg?fit=2057%2C1200"
+        },
         {
           "id": "https://www.nationalreview.com/?post_type=blog-post&p=1405550",
           "author": "Brittany Bernstein",
@@ -5095,46 +5255,6 @@
           "wordCount": 7412,
           "title": "Elon Musk and the Third Era of Social Media",
           "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/ElonMuskTwitter.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1385340",
-          "author": "Rich Lowry",
-          "description": "But why let the facts get in the way of a good narrative?",
-          "link": "https://www.nationalreview.com/2022/10/january-6-did-not-attack-paul-pelosi/",
-          "publishedOn": "2022-10-31T01:48:04.000Z",
-          "wordCount": 7766,
-          "title": "January 6 Did Not Attack Paul Pelosi",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/nancy-paul-pelosi.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1385338",
-          "author": "Isaac Schorr",
-          "description": "Abrams has denied that she supports defunding law enforcement, but she serves as a leader in multiple organizations that do.",
-          "link": "https://www.nationalreview.com/news/stacey-abrams-georgia-sheriffs-want-to-take-black-people-off-the-streets/",
-          "publishedOn": "2022-10-31T00:58:11.000Z",
-          "wordCount": 7062,
-          "title": "Stacey Abrams: Georgia Sheriffs ‘Want to Be Able to Take Black People Off the Streets’",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/stacey-abrams-campaign.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1385305",
-          "author": "John Fund",
-          "description": "They have the power and the purse strings in his party.",
-          "link": "https://www.nationalreview.com/2022/10/biden-is-a-captive-of-progressives/",
-          "publishedOn": "2022-10-30T23:58:56.000Z",
-          "wordCount": 7813,
-          "title": "Biden Is a Captive of Progressives",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/joe-biden-dnc.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1385208",
-          "author": "Andrew Stuttaford",
-          "description": "The week of October 24, 2022: The (in)significance of lower natural gas prices in Europe, taxation, antitrust, and much, much, more.",
-          "link": "https://www.nationalreview.com/2022/10/europes-energy-crisis-winter-not-canceled/",
-          "publishedOn": "2022-10-30T21:51:32.000Z",
-          "wordCount": 10788,
-          "title": "Europe’s Energy Crisis: Winter not Canceled",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/natural-gas-germany.jpg?fit=2057%2C1200"
         }
       ]
     }
