@@ -34,6 +34,16 @@
           "wordCount": 6123,
           "title": "R Weekly 2022-W46 {rtoot}, column headers, apply functions, NBA posters",
           "imageUrl": "https://rweekly.org/public/facebook.png"
+        },
+        {
+          "id": "https://rweekly.org/2022-W45.html",
+          "author": null,
+          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Batool Almarzouq, with help from the wonderful R Weekly team members and contributors.\nHighlight\nUsing GoogleSheets as a Database in R— Yeay!\nLevel Up Your Plots: A Code-along Workshop\nRegular, intentional, and time-boxed yak shaving\nInsights\nRegular, intentional, and time-boxed yak shaving\n\nAdding Mastodon Social Link to Hugo & Blogdown Website Template\nSpacetime representations aren’t good—yet\nR in the Real World\nModeling the secular trend in a cluster randomized trial using very flexible models\n\nR in Academia\nCode to replicate the empirical results from the paper “Trade models in the European Union”.\nAccompanying code for Bee Swarm Optimization Paper\nManuscript material f…",
+          "link": "https://rweekly.org/2022-W45.html",
+          "publishedOn": "2022-11-07T00:00:00.000Z",
+          "wordCount": 6154,
+          "title": "R Weekly 2022-W45, Level Up Your Plots, GoogleSheets as a Database in R and Time-boxed Yak Shaving",
+          "imageUrl": "https://rweekly.org/public/facebook.png"
         }
       ]
     },
@@ -42,6 +52,26 @@
       "feedUrl": "https://feedx.net/rss/shanghaishuping.xml",
       "siteUrl": "http://thepaper.cn",
       "articles": [
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_20928251",
+          "author": null,
+          "description": "《其他波士顿人：美国大都市的贫穷与进步，1880-1970》，[美]斯蒂芬·塞恩斯托姆著，温华译，上海译文出版社2022年8月出版，348页，68.00元\n\n如果你了解美国城市史，你一定知道斯蒂芬·塞恩斯托姆（Stephan Thernstrom）；如果你想了解美国城市史，你一定要知道斯蒂芬·塞恩斯托姆。在史学界，那些能够对社会已经达成共识的重大历史问题做出新解释的学者并不多见，那些能够开创新研究范式的学者也算得上是圈中顶流，而塞恩斯托姆几乎都做到了。在《其他波士顿人：美国大都市的贫穷与进步，1880-1970》（The Other Bostonians: Poverty and Progress in the American Metropolis, 1880-1970, Cambridge, Mass: Harvard University Press, 1973）中，他将目光投向美国的社会流动性（social mobility），试图用最可靠的数据告诉我们，这种流动性究竟有多高。\n美国人对白手起家的传奇总是津津乐道，钢铁大亨安德鲁·卡内基、脱口秀主持人奥普拉·温弗瑞、“星巴克之父”霍华德·舒尔茨以及首位非裔美国人总统巴拉克·奥巴马，都是美国穷小子变成精英的典型。他们的经历，在不同的年代里提醒着一代代美国人，霍雷肖·阿尔杰（Horatio Alger Jr.，1834-1899，美国儿童文学作家，作品大多描写穷孩子如何通过勤奋和诚实获得成功）的故事永不过时。事实似乎真的就像劳伦斯·塞缪尔说的那样，在美国，“任何怀有果敢精神的人通过辛勤劳动都可以登上胜利的顶峰”。美国社会乐于标榜自己的社会流动性更高，以此来说明美国是一片人人都能找到机遇的乐土。可是，这样的看法到底是真是假？\n\n霍雷肖·阿尔杰（Horatio Alger Jr.，1834-1899）\n\n关于社会流动性的研究…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_20928251",
+          "publishedOn": "2022-11-30T04:02:05.000Z",
+          "wordCount": 246,
+          "title": "李文硕评《其他波士顿人》︱数字里的美国梦",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_20913247",
+          "author": null,
+          "description": "《周书》修订本，中华书局，2022年11月版\n\n如果在古代文学领域评选存在感最低的断代文学，北朝文学或许能够摘得“桂冠”。这个阶段看起来缺少名作和名家，其中最著名的庾信还是位南方“移民”。然而北朝绝不是一个沉寂的时代，华夷、士庶、文武诸多元素杂糅在这段历史中，文化、政治等诸多变革也发生在北方的大地。其文学上的尴尬地位，很大程度上来自于简单的标签化定义。质朴贞刚、南北融合是北朝文学的标志特点和脉络，二者共同搭建起了北朝文学史的基础框架。这些关于北朝文学的经典论断皆来源于《魏书》《周书》《北齐书》《隋书》以及《北史》五部正史。以上史书除了《魏书》，其余诸部皆编写于唐代，可以说，今天的我们正是透过唐代史官的“眼睛”来了解北朝文学的，而唐人南北争胜的立场，影响着我们看待这段风云诡谲历史的视野与焦点。因此，深入理解正史叙事塑造的北朝文学之框架，探索其中的内涵和外延，是开拓北朝文学时代视野重要路径。\n一、文与质：南北争胜的叙事与视野\n魏徵《隋书·文学传序》提出南北文风差异说，在两者的对比中首次确立了北朝文学“质”的特点。\n暨永明、天监之际，太和、天保之间，洛阳、江左，文雅尤盛……彼此好尚，互有异同。江左宫商发越，贵于清绮；河朔词义贞刚，重乎气质。气质则理胜其词，清绮则文过其意。理深者便于时用，文华者宜于咏歌。\n此论断影响深远，现代研究多遵循其说作为北朝文学的立论基础。但统揽诸史的论述，这个奉为圭臬的经典观点仍值得思考。《隋书》选取北魏洛阳以及北齐邺城的文学冠以“贞刚气质”的特性。“质”作为与“文”相对的文学属性，具有的内涵是：内容重于形式，实用大于抒情。在魏徵的定义中，洛阳、邺城文学具有自身独特的审美属性，与南朝吟咏性情、文辞绮丽的文风明确划清了界限。然而其他诸史中却对其持以完全相反的定义。如《周书·苏绰传》则认为“逮乎江左，弥复轻薄。洛阳后进，祖述不已”，洛阳文学崇尚学习南朝绮靡风气…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_20913247",
+          "publishedOn": "2022-11-30T03:02:05.000Z",
+          "wordCount": 72,
+          "title": "《周书》专题｜王丹：南北争胜与经国致用——北朝文学时代的书写视野",
+          "imageUrl": null
+        },
         {
           "id": "https://www.thepaper.cn/newsDetail_forward_20882408",
           "author": null,
@@ -109,6 +139,66 @@
       "feedUrl": "https://feedx.net/rss/thepaper.xml",
       "siteUrl": "http://thepaper.cn",
       "articles": [
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_20945933",
+          "author": null,
+          "description": "11月29日下午，国务院联防联控机制召开新闻发布会，主题为“落细落实防控措施，有效抓好疫情处置”。国家卫生健康委、国家疾控局相关司局负责同志和中国疾控中心专家出席发布会，并回答媒体提问。\n人民日报记者提问：一些地方长期封控给群众的工作和生活带来了很大影响，也让群众产生了焦虑情绪。请问这种情况应该如何避免和加以纠偏？\n国家疾控局监督一司司长程有全回应：长期封控不仅极大影响人民群众的正常生产生活秩序，还容易造成焦虑情绪，引发生活困难，这种情况必须予以纠偏和避免。为此，各地要进一步加强高低风险区划分标准的培训，组织做好风险区域划定和管理，原则上高风险区一般以单元、楼栋为单位划定，不得随意扩大。在疫情传播风险不明确或存在广泛社区传播的情况下，可适度扩大高风险区域划定范围，但要及时通过核酸筛查和疫情研判，快封快解。对风险人员的判定要以现场流调为依据，不得通过时空伴随扩大范围，造成大面积的“误伤”，最大限度降低因疫情给群众带来的不便。对高风险区既要严格管控，做到“足不出户”，也要全力做好服务保障工作，满足群众基本生活和就医用药需求。同时，做好封控隔离人员的疏导，加大对老弱病残孕等特殊群体的关心帮助力度，解决好人民群众实际困难。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_20945933",
+          "publishedOn": "2022-11-30T03:53:06.000Z",
+          "wordCount": 28,
+          "title": "国家疾控局：对风险人员的判定，不得通过时空伴随扩大范围",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_20950996",
+          "author": null,
+          "description": "世界杯小组赛H组第2轮，葡萄牙2-0击败乌拉圭，比赛第54分钟B费传中，C罗做出头球动作。\n赛后，国际足联官方用球制造商阿迪达斯透露，官方用球内的高精度传感器数据表明C罗在进球过程中没有触球。进球归属给B费。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_20950996",
+          "publishedOn": "2022-11-30T01:53:05.000Z",
+          "wordCount": 30,
+          "title": "国际足联官方用球制造商：球内传感器数据显示C罗未触球，进球仍归属B费",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_20943913",
+          "author": null,
+          "description": "“对阵美国队，将是我一生中最重要的比赛。”\n4天前，在伊朗队2比0战胜威尔士队之后，伊朗主帅奎罗斯在赛后新闻发布会，就已经谈起了11月30日凌晨3点的生死战——美伊对决。\n本场比赛的意义早已超出竞技范畴，一如1998年法国世界杯，美国队和伊朗队第一次碰面的那场“世纪对决”。\n\n美伊大战发布会唇枪舌剑，伊朗记者与美国队长“对掐”。 视频编辑 徐储立(01:34)\n24年前，尽管赛前同样气氛紧张，但伊朗球员向美国球员送上了象征和平的白玫瑰，并最终赢下了比赛。\n\n24年过去，敌对的情绪和紧张的氛围早已在场下弥漫——美国足协故意涂改伊朗的国旗，美国球员说错伊朗的国名，而伊朗足协则反击要求FIFA禁赛美国队……\n\n1998年，伊朗球员向美国球员送上了象征和平的白玫瑰。\n\n剑拨弩张\n从双方的积分上来看，美国队前两轮先后战平威尔士队和英格兰队，积2分排在小组第三；伊朗在此前的两场比赛中先是输给英格兰，随后战胜了威尔士，积3分排在小组第二。\n这也就意味着，如果美国无法取得胜利，他们就会被伊朗队亲手淘汰出局，打道回府。\n虽然FIFA想要保持“足球无关政治”的立场，但美国队和伊朗队的这次碰面，从赛前就已经有些“变味”了。\n据多家主流媒体报道，美国足协在社交媒体上发布世界杯小组赛B组积分榜时，擅自将伊朗国旗篡改，表达自己的政治主张。\n\n美国足协将伊朗国旗上象征伊朗的徽记给移除了，只留了一个三色旗在积分榜上。\n\n这一举动引发了包括伊朗足协和伊朗民众在内多方的强烈不满，伊朗媒体塔斯尼姆通讯社回应称，美国足协这一举动“不符合世界杯章程”，美国队应当被立即开除，并被禁赛10场。\n随后，美国足协删除了相关的帖文，并且表示这个行为只是“一次性的”，伊朗国旗已经被改回去了。\n美国队主帅格雷格·伯尔哈特则是代表球员和工作人员为此事道歉，“球员和工作人员对发布的内容一无所知，有时事情是我们无法控制的。”\n尽管美国…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_20943913",
+          "publishedOn": "2022-11-30T00:53:04.000Z",
+          "wordCount": 64,
+          "title": "深一度｜24年前，伊朗与美国相遇世界杯，举世震惊",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_20945708",
+          "author": null,
+          "description": "11月29日，外交部发言人赵立坚主持例行记者会。有记者提问，英国首相苏纳克指责中国的防疫政策，包括殴打逮捕一名BBC记者。中方对此有何回应？\n“英方有关言论罔顾事实，颠倒黑白，粗暴干涉中国内政，中方对此坚决反对。”赵立坚指出。\n赵立坚介绍称，昨天我已经初步介绍了有关情况，据向上海方面了解，有关事实是这样的：11月27日晚，上海警方为维护社会秩序，依法劝离某路口现场聚集人员，这其中包括一名BBC驻沪记者。在警方明确告知该名记者即将对现场人员进行劝离的情况下，该名记者拒绝离开，且一直没有向警方表明自己的记者身份，警方遂将其强制带离，并在对其开展必要身份核查及法律告知后，请其自行离开。有关程序完全在法律法规框架下进行。\n赵立坚指出，这位BBC记者在警方执法过程中拒不配合，却做出一副受害者的样子，而BBC则立即歪曲事实，大肆炒作BBC记者在工作中被警方所谓“逮捕、殴打”，把脏水泼向中方，这显然秉承了BBC恶意碰瓷的一贯做派。\n赵立坚强调，外国记者在中国依法享有新闻报道权利，同时也必须遵守中国的法律法规。采访报道时应提前出示记者证，不得从事与记者身份不符的活动，这对于任何媒体都不例外，与所谓新闻自由也没有关联。\n赵立坚说，在中国有许多外国媒体，为什么每次都是BBC在现场出现问题，这是应该认真思考对待的问题，借这个机会我也有几个问题想请英方回答：\n第一，英国政府是如何对待国内抗议者的？\n2020年，伦敦爆发反对抗疫封锁措施的游行，英国警方逮捕150多名民众，2021年，在反对政府削减公共开支政策的大规模游行中，英国警方逮捕超过200名民众。从公开的视频资料中可以看到，多名英国警察将赤手空拳的抗议者团团围住，对其拳打脚踢，大打出手，任其哭嚎哀求，甚至衣不蔽体，也不为所动。\n第二，英国政府是如何对待记者的？\n大家应该还没有忘记，几年前，一位中国记者仅仅因为在英国保守党年会上行使正当权利，进行提问并表达观点，却遭到百般阻挠，甚至人身侵犯，最终还被英国法院判处有罪。英国记者格雷厄姆·菲利普斯仅仅因为创作了不适合西方报道的内容，而成为被本国政府制裁的首位英国公民。\n第三，BBC是如何报道中国的？\n从“阴间滤镜”到涉疆涉港歪曲报道，许多人对BBC恶意抹黑攻击中国的黑历史印象深刻。2019年以来，BBC在涉港报道上无视暴徒暴行，却指责香港警察暴力执法。在涉疆报道上，BBC驻京记者仅采用几张非实景卫星图片和反华人士的所谓报告，并炮制世纪谎言，对新疆大肆攻击抹黑。在涉疫报道上，甚至将公路反恐演习视频作为中国暴力防疫“证据”。\n“为什么总是BBC出现在各种现场？BBC记者究竟是去报道新闻还是去制造新闻呢？英方应该尊重事实，谨言慎行，收起虚伪的双重标准，停止玩弄双重标准。”赵立坚强调。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_20945708",
+          "publishedOn": "2022-11-30T00:53:04.000Z",
+          "wordCount": 31,
+          "title": "苏纳克指责中国“殴打逮捕”一名BBC记者，中方：颠倒黑白",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_20950898",
+          "author": null,
+          "description": "11月29日，重庆召开新冠肺炎疫情防控工作新闻发布会（第153场），重庆市卫生健康委副主任李畔通报了疫情的相关情况。11月29日0-18时，重庆市新增本土确诊病例117例；新增本土无症状感染者6813例。\n\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.fun",
+          "link": "https://www.thepaper.cn/newsDetail_forward_20950898",
+          "publishedOn": "2022-11-29T23:53:04.000Z",
+          "wordCount": 30,
+          "title": "今日0时至18时，重庆新增本土感染者“117+6813”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_20950268",
+          "author": null,
+          "description": "张核子是谁？张姗姗和他究竟是什么关系？\n围绕近期卷入风口浪尖的深圳市核子基因科技有限公司实控人张核子，11月29日，澎湃新闻联系到与张核子有长期交往的一名知情人吴易（化名），试图解开这个检测行业神秘人物的背景。\n在吴易的记忆里，张核子来自湖南永州，大学毕业后进入深圳公安局，不久就离开了。从深圳公安局离职后，张核子涉足的第一个行业是装修。\n在一篇被媒体广为引用的企业宣传文章中，张核子为中国医科大学法医物证学硕士、遗传学硕士。1990年，张核子考入中国医科大学，毕业后深圳市公安局以高新技术人才引进到深圳市公安局工作，筹办中国最早的DNA鉴定中心。（张核子）而后离开公安局，自主创业成立深圳市红石别墅装饰公司。\n新人初入一个全新行业，而且是利润较高的那部分业务。吴易说，没有政商资源肯定不行，“他在这里赚到了第一桶金，大约两三百万吧。”\n上述核子基因集团公众号文章称，（张核子）2012年成立深圳市核子基因科技有限公司（简称核子基因），致力于成为全国最大的基因检测销售平台。\n吴易说，检测领域里的亲子关系鉴定是暴利行业，至少在深圳是这样。“在深圳做亲子鉴定，一般市场价是3000元上下，而实际成本不到100元。”\n亲子鉴定技术成熟，STR分析只需将含有STR位点的基因片段用PCR(polymerase chain reaction)的方法扩增，再通过检测所扩增出来的DNA片段的长度，就可以绘制一个人的个性DNA图谱。\n“比如我现在从事的肿瘤研究，肺癌做基因突变检测需要4000元，其技术原理同样是放大DNA片段的分子生物学技术，技术门槛并不高，美国的高中生在实验室就可以完成这种检测。”\n在他的陈述中，这个昔日的湖南青年在充满无限可能的深圳找到了自己的机会，成为这个城市无数富豪中的一员。\n2019年夏季的一天，张核子在其深圳某风景区的别墅里宴请来客。那里更像是庄园，有泳池、豪车和停机坪。有来客问及别墅的用地问题，张核子答已经取得房产证。\n吴易说：“从我与他的交往看，张核子为人处事还是很靠谱的，他爸也不是网上流传的某将军。”\n公开消息显示，11月28日，张核子弟弟张原子回应媒体时表示，其家庭为普通家庭，“我们都是很低调的，我们没有义务发什么澄清。”\n此外，如今核子基因深陷众怒，其监事张姗姗同样引人注目，此前她被曝出与38家检测机构关联。\n张姗姗是谁？\n吴易说：“他自己告诉我们，他有一个女儿，在海外念书。他没有说他女儿叫什么，我朋友说他女儿叫张姗姗。”\n半年后，新冠肺炎疫情暴发。张核子随后将业务扩展到核酸检测行业。\n针对当下舆论关注的核酸检测问题，吴易认为，政府采购核酸检测，企业提供服务，问题也不能全部归咎于企业，即便没有张核子来检测，也会有其他人。\n“只是企业做大了，通过加盟的方式快速扩张，无法在短期来提高员工素质，必然会出各种问题。”\n提及核酸检测的暴利问题时，吴易认为，公众只统计了显性的营收，而没有考虑隐性成本，包括灰色销售费用，“这个成本往往在1/3到1/2之间。”\n\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.fun",
+          "link": "https://www.thepaper.cn/newsDetail_forward_20950268",
+          "publishedOn": "2022-11-29T16:53:04.000Z",
+          "wordCount": 33,
+          "title": "独家｜知情人谈张核子和核酸生意：深圳坐拥带停机坪别墅，张姗姗是谁？",
+          "imageUrl": null
+        },
         {
           "id": "https://www.thepaper.cn/newsDetail_forward_20946012",
           "author": null,
@@ -616,6 +706,86 @@
       "feedUrl": "https://www.nationalreview.com/feed/",
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1406868",
+          "author": "Brittany Bernstein",
+          "description": "The upper chamber voted 61-36 to approve the bill, which is expected to clear a final vote in the House next week.",
+          "link": "https://www.nationalreview.com/news/senate-passes-same-sex-marriage-bill/",
+          "publishedOn": "2022-11-29T23:37:30.000Z",
+          "wordCount": 7079,
+          "title": "Senate Passes Same-Sex Marriage Bill",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/chuck-schumer-capitol-hill.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1406655",
+          "author": "Caroline Downey",
+          "description": "Bob Iger came out of retirement last week to resume his old role as head of the corporation.",
+          "link": "https://www.nationalreview.com/news/new-disney-ceo-plans-to-quiet-down-culture-war-controversies-insists-woke-themes-not-political/",
+          "publishedOn": "2022-11-29T22:23:16.000Z",
+          "wordCount": 7008,
+          "title": "Returning Disney CEO Plans to ‘Quiet Down’ Culture-War Controversies, Insists Woke Themes ‘Not Political’",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/bob-iger-2021.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1406659",
+          "author": "Brittany Bernstein",
+          "description": "The U.S. team will advance to the round-of-16 after a 1-0 victory over Iran.",
+          "link": "https://www.nationalreview.com/news/u-s-defeats-iran-in-world-cup-match/",
+          "publishedOn": "2022-11-29T21:12:15.000Z",
+          "wordCount": 6977,
+          "title": "U.S. Defeats Iran in World Cup Match",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/irang.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1406488",
+          "author": "Caroline Downey",
+          "description": "The CCP used the foreign policy failure as ‘evidence that the U.S. is an unreliable partner and declining power,’ the report said.",
+          "link": "https://www.nationalreview.com/news/china-used-botched-afghanistan-withdrawal-to-score-propaganda-points-pentagon-finds/",
+          "publishedOn": "2022-11-29T20:44:31.000Z",
+          "wordCount": 6866,
+          "title": "China Used Botched Afghanistan Withdrawal to Score Propaganda Points, Pentagon Finds",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2021/08/Joe-Biden-Afghanistan-1.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1406596",
+          "author": "Brittany Bernstein",
+          "description": "The IRGC reportedly warned players that their families would be subject to ‘violence and torture’ if they didn’t ‘behave.’",
+          "link": "https://www.nationalreview.com/news/iranian-players-mumble-through-national-anthem-at-world-cup-after-alleged-government-threats/",
+          "publishedOn": "2022-11-29T19:51:36.000Z",
+          "wordCount": 6985,
+          "title": "Iranian Players Mumble through National Anthem at World Cup after Alleged Government Threats",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/iranco.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1406491",
+          "author": "Beth Akers",
+          "description": "While it might seem like inaction relative to the attempted debt cancellation by executive order, it is anything but.",
+          "link": "https://www.nationalreview.com/2022/11/bidens-costly-student-loan-pause/",
+          "publishedOn": "2022-11-29T18:54:58.000Z",
+          "wordCount": 7524,
+          "title": "Biden’s Costly Student-Loan Pause",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2020/06/high-school-graduation-compton.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1406503",
+          "author": "Andrew C. McCarthy",
+          "description": "The administration’s response to the Covid-lockdown protests has been disheartening.",
+          "link": "https://www.nationalreview.com/2022/11/is-the-biden-familys-china-scandal-warping-bidens-china-policy/",
+          "publishedOn": "2022-11-29T18:50:03.000Z",
+          "wordCount": 7429,
+          "title": "Is the Biden Family’s China Scandal Warping Biden’s China Policy?",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/Joe-Biden-91.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1406340",
+          "author": "Caroline Downey",
+          "description": "DeSantis cited reports that the tech giant is restricting the ability of protesters to use iPhones to coordinate their activities.",
+          "link": "https://www.nationalreview.com/news/desantis-slams-apple-for-threatening-twitter-while-catering-to-ccp/",
+          "publishedOn": "2022-11-29T17:35:07.000Z",
+          "wordCount": 6880,
+          "title": "DeSantis Slams Apple for Threatening Twitter While Catering to CCP",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/Ron-DeSantis-3.jpg?fit=2057%2C1200"
+        },
         {
           "id": "https://www.nationalreview.com/?p=1406344",
           "author": "Charles C. W. Cooke",
@@ -5105,156 +5275,6 @@
           "wordCount": 8074,
           "title": "Henry Cuellar’s Strange Donation from the Family of a Zetas Cartel Conduit",
           "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2021/04/henry-cuellar.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1385779",
-          "author": "Caroline Downey",
-          "description": "DePape fractured Paul Pelosi’s skull with a hammer after breaking into the Pelosi home.",
-          "link": "https://www.nationalreview.com/news/alleged-pelosi-attacker-charged-with-assault-and-attempted-kidnapping/",
-          "publishedOn": "2022-10-31T19:30:46.000Z",
-          "wordCount": 7224,
-          "title": "Alleged Pelosi Attacker Charged with Assault and Attempted Kidnapping",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/Hawley-Xi-1.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1385659",
-          "author": "Ari Blaff",
-          "description": "Monzon was hospitalized with a fractured orbital bone after the attack.",
-          "link": "https://www.nationalreview.com/news/florida-man-hit-with-additional-charge-for-siccing-dogs-on-rubio-canvasser/",
-          "publishedOn": "2022-10-31T19:14:44.000Z",
-          "wordCount": 7398,
-          "title": "Florida Man Hit with Additional Charge for Siccing Dogs on Rubio Canvasser",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/Javier-Lopez-Screengrab.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1385682",
-          "author": "Isaac Schorr and Brittany Bernstein",
-          "description": "Journalists subordinated DePape’s mental illness and drug abuse to political ideology. Steve Scalise’s attacker was given different treatment.",
-          "link": "https://www.nationalreview.com/news/media-rush-to-assign-blame-after-attack-on-paul-pelosi/",
-          "publishedOn": "2022-10-31T18:47:53.000Z",
-          "wordCount": 8900,
-          "title": "Media Rush to Assign Blame after Attack on Paul Pelosi",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/Paul-Pelosi-Attack.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1385634",
-          "author": "Jack Butler",
-          "description": "Ray Bradbury’s autumnal classic at 60 shows us evil at its supernatural worst — and mankind at its transcendent best.",
-          "link": "https://www.nationalreview.com/2022/10/something-wicked-something-great/",
-          "publishedOn": "2022-10-31T17:56:17.000Z",
-          "wordCount": 7986,
-          "title": "<em>Something Wicked</em>, Something Great",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/something-wicked.png?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1385576",
-          "author": "Brittany Bernstein",
-          "description": "‘I’ve heard similar arguments in favor of segregation, too,’ said Justice Thomas.",
-          "link": "https://www.nationalreview.com/news/justice-thomas-on-affirmative-action-case-diversity-seems-to-mean-everything-for-everyone/",
-          "publishedOn": "2022-10-31T17:11:28.000Z",
-          "wordCount": 7556,
-          "title": "Justice Thomas Unloads on Lawyer Defending Affirmative Action: ‘Diversity Seems to Mean Everything for Everyone’",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2020/06/Justice-Thomas.jpg?fit=2057%2C1157"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1385609",
-          "author": "Ari Blaff",
-          "description": "Immediately after completing his $44 billion acquisition of Twitter, Musk fired several senior executives, including CEO Parag Agrawal.",
-          "link": "https://www.nationalreview.com/news/musk-disbands-twitter-board-appoints-himself-sole-director/",
-          "publishedOn": "2022-10-31T17:08:09.000Z",
-          "wordCount": 6415,
-          "title": "Musk Disbands Twitter Board, Appoints Himself ‘Sole Director’",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/ElonMuskTwitter.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1385593",
-          "author": "Michael Brendan Dougherty",
-          "description": "‘Forget everything, learn nothing’ is a bad way to ensure accountability for our institutions.",
-          "link": "https://www.nationalreview.com/2022/10/a-pandemic-amnesty-hell-no/",
-          "publishedOn": "2022-10-31T17:06:20.000Z",
-          "wordCount": 7850,
-          "title": "A ‘Pandemic Amnesty’? Hell, No",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/01/Anthony-Fauci-2.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1385523",
-          "author": "Jack Salmon",
-          "description": "The assumption that rates would remain low forever encouraged policy-makers to borrow and spend freely. Now, the bills are coming due.",
-          "link": "https://www.nationalreview.com/2022/10/how-a-decade-of-low-interest-rates-fueled-reckless-government-spending/",
-          "publishedOn": "2022-10-31T14:56:06.000Z",
-          "wordCount": 7680,
-          "title": "How a Decade of Low Interest Rates Fueled Reckless Government Spending",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/yellen-1.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1385507",
-          "author": "Michael Brendan Dougherty",
-          "description": "Progressives do not regret anything about the censorship of social media.",
-          "link": "https://www.nationalreview.com/2022/10/they-have-no-remorse/",
-          "publishedOn": "2022-10-31T14:45:36.000Z",
-          "wordCount": 7509,
-          "title": "They Have No Remorse",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2021/06/IMG_0286.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1385468",
-          "author": "Brittany Bernstein",
-          "description": "The Court is set to hear oral arguments on Monday in two cases that center on the use of race as a factor in college admissions.",
-          "link": "https://www.nationalreview.com/news/dozens-of-major-u-s-companies-urge-supreme-court-to-uphold-race-based-college-admissions/",
-          "publishedOn": "2022-10-31T13:08:13.000Z",
-          "wordCount": 7254,
-          "title": "Dozens of Major U.S. Companies Urge Supreme Court to Uphold Race-Based College Admissions",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/Supreme-Court-10.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1384483",
-          "author": "John B. Daukas",
-          "description": "Justice Roberts is right: The way to stop discrimination on the basis of race is to stop discriminating on the basis of race.",
-          "link": "https://www.nationalreview.com/2022/10/the-supreme-courts-chance-to-end-racial-discrimination-in-college-admissions/",
-          "publishedOn": "2022-10-31T10:30:48.000Z",
-          "wordCount": 9846,
-          "title": "The Supreme Court’s Chance to End Racial Discrimination in College Admissions",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2018/06/john-roberts-scotus-south.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1382012",
-          "author": "Mike Fichter",
-          "description": "The state’s historic abortion limitations have been held up by a spurious legal challenge, but those who speak for the voiceless will ultimately prevail.",
-          "link": "https://www.nationalreview.com/2022/10/a-legal-challenge-wont-defeat-indiana-pro-lifers/",
-          "publishedOn": "2022-10-31T10:30:40.000Z",
-          "wordCount": 8007,
-          "title": "A Legal Challenge Won’t Defeat Indiana Pro-Lifers",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/08/pro-life-indianapolis.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1384417",
-          "author": "Tomas J. Philipson",
-          "description": "Rather than continuing the trend toward governmentalization of care, conservatives need to stand for a free-market alternative.",
-          "link": "https://www.nationalreview.com/2022/10/on-health-care-the-gop-needs-a-supply-side-approach-with-better-messengers/",
-          "publishedOn": "2022-10-31T10:30:11.000Z",
-          "wordCount": 7867,
-          "title": "On Health Care, the GOP Needs a Supply-Side Approach with Better Messengers",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2020/10/doctor-patient-stethoscope.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1385409",
-          "author": "Kathryn Jean Lopez",
-          "description": "Not alone, they must be trend-setters.",
-          "link": "https://www.nationalreview.com/2022/10/after-roe-the-catholic-university-of-america-seeks-to-lead-the-way/",
-          "publishedOn": "2022-10-31T10:30:08.000Z",
-          "wordCount": 7838,
-          "title": "After <i>Roe</i>, the Catholic University of America Seeks to Lead the Way",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/catholic-university-statue-920.jpg?fit=920%2C537"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1385391",
-          "author": "The Editors",
-          "description": "A republic dedicated to liberty needs not just a free media, but media institutions that are themselves dedicated to free expression.",
-          "link": "https://www.nationalreview.com/2022/10/elon-musk-and-the-third-era-of-social-media/",
-          "publishedOn": "2022-10-31T10:30:03.000Z",
-          "wordCount": 7412,
-          "title": "Elon Musk and the Third Era of Social Media",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/ElonMuskTwitter.jpg?fit=2057%2C1200"
         }
       ]
     }
