@@ -34,6 +34,16 @@
           "wordCount": 5827,
           "title": "R Weekly 2022-W48 Tests from docs, bar plot best practices, RSelenium tutorial",
           "imageUrl": "https://rweekly.org/public/facebook.png"
+        },
+        {
+          "id": "https://rweekly.org/2022-W47.html",
+          "author": null,
+          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Jon Calder, with help from the R Weekly team members and contributors.\nHighlight\n{codegrip} 0.0.0.9000: Reshaping and navigation commands for R code\nDRY Package Development in R (slides)\nCreating beautiful tables in R with {gt}\nInsights\nPromoting the Use of R in Mali\nrOpenSci News Digest, November 2022\nPreparing to Thrive by Collaborating with Local Universities\nR in the Real World\nrtoot and functional programming\nModeling and simulations for the 2022 FIFA World Cup\nJ.League Soccer 2022 Season Review\n\nResources\nDRY Package Development in R (slides)\nCreating beautiful tables in R with {gt}\nR for Data Analysis\nNew Packages\n📦 Go Live for More New Pkgs 📦\nCRAN\n{figma 0.1.0}: We…",
+          "link": "https://rweekly.org/2022-W47.html",
+          "publishedOn": "2022-11-21T00:00:00.000Z",
+          "wordCount": 5934,
+          "title": "R Weekly 2022-W47 {codegrip}, DRY pkg dev, beautiful tables with {gt}",
+          "imageUrl": "https://rweekly.org/public/facebook.png"
         }
       ]
     },
@@ -42,6 +52,16 @@
       "feedUrl": "https://feedx.net/rss/shanghaishuping.xml",
       "siteUrl": "http://thepaper.cn",
       "articles": [
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_21147765",
+          "author": null,
+          "description": "《全球转向下的艺术史：从欧洲中心主义到比较主义》，[英]雅希·埃尔斯纳著，胡默然等译，上海人民出版社2022年4月出版，276页，118.00元\n\n（一）\n现代艺术史学科自诞生伊始，便不可避免地伴随着欧洲中心主义的烙印。雅希·埃尔斯纳（Jaś Elsner）将西方艺术史写作的历史归为两个谱系：其一为瓦萨里（Giorgio Vasari）一派，主要关注作为艺术作品起源的艺术家个体；其二为温克尔曼（Johann Joachim Winckelmann）一派，主要将艺术视为一种对历史变迁的物质衡量，认定作品和创作时代之间存在一种可供探讨的相互关系（《全球转向下的艺术史：从欧洲中心主义到比较主义》，43页，以下引用本书仅标注页码）。不难发现，两种早期的谱系都以文艺复兴为基础，共享着由意大利地区确立的古希腊罗马艺术话语体系。正如阿尔珀斯（Svetlana Alpers）所言，时至今日，艺术史领域仍有许多著作尝试以意大利的古典艺术史脉络重述其他地区文艺复兴艺术的尝试（《描绘的艺术》，[美]斯韦特兰娜·阿尔珀斯著，王晓丹译，商务印书馆2021年版，14页）。\n\n雅希·埃尔斯纳\n\n十九世纪末，艺术史学科建立者李格尔（Alois Riegl）、沃尔夫林（Heinrich Wölfflin）等人继承了温克尔曼的研究思路，以更广阔的时代风格取代了瓦萨里等人关注的个人风格。不过，和前辈温克尔曼更具美学意味的论述相比，现代研究者们开始更加自觉地引入知觉心理学研究的成果，试图建立起以视觉为核心的学科理论体系。李格尔、沃尔夫林对视觉的重视在西方学术史上早有先例：十九世纪末，费德勒（Konrad Fiedler）、马雷（Hans von Marées）和希尔德布兰德（Adolf von Hildebrand）等人将康德哲学中形式主义的认知转用于对知觉的分析，为艺术创作划分出独立于科学、概念认知的领域，认为…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_21147765",
+          "publishedOn": "2022-12-14T05:02:10.000Z",
+          "wordCount": 262,
+          "title": "熊鹤婷评《全球转向下的艺术史》｜直面偏见",
+          "imageUrl": null
+        },
         {
           "id": "https://www.thepaper.cn/newsDetail_forward_21124283",
           "author": null,
@@ -339,6 +359,96 @@
       "feedUrl": "https://feedx.net/rss/thepaper.xml",
       "siteUrl": "http://thepaper.cn",
       "articles": [
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_21160186",
+          "author": null,
+          "description": "国务院联防联控机制发布关于印发新冠病毒疫苗第二剂次加强免疫接种实施方案的通知。\n关于印发新冠病毒疫苗第二剂次加强免疫接种实施方案的通知\n国卫明电〔2022〕531号\n各省、自治区、直辖市及新疆生产建设兵团应对新型冠状病毒肺炎疫情联防联控机制（领导小组、指挥部），国务院应对新型冠状病毒肺炎疫情联防联控机制疫苗接种工作协调组各成员单位：\n现将《新冠病毒疫苗第二剂次加强免疫接种实施方案》印发给你们，请结合实际认真贯彻落实。\n国务院应对新型冠状病毒肺炎疫情联防联控机制综合组\n2022年12月13日\n新冠病毒疫苗第二剂次加强免疫接种实施方案\n为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。\n一、目标人群\n现阶段，可在第一剂次加强免疫接种基础上，在感染高风险人群、60岁以上老年人群、具有较严重基础性疾病人群和免疫力低下人群中开展第二剂次加强免疫接种。\n二、疫苗选择和时间间隔\n（一）疫苗选择。根据疫苗研发工作进展，所有批准附条件上市或紧急使用的疫苗均可用于第二剂次加强免疫。优先考虑序贯加强免疫接种，或采用含奥密克戎毒株或对奥密克戎毒株具有良好交叉免疫的疫苗进行第二剂次加强免疫接种，有关组合如下：\n3剂灭活疫苗+1剂康希诺肌注式重组新冠病毒疫苗（5型腺病毒载体）；\n3剂灭活疫苗+1剂智飞龙科马重组新冠病毒疫苗（CHO细胞）；\n3剂灭活疫苗+1剂康希诺吸入用重组新冠病毒疫苗（5型腺病毒载体）；\n3剂灭活疫苗+1剂珠海丽珠重组新冠病毒融合蛋白（CHO细胞）疫苗；\n2剂康希诺肌注式腺病毒载体疫苗+1剂康希诺吸入用重组新冠病毒疫苗（5型腺病毒载体）；\n3剂灭活疫苗+1剂成都威斯克重组新冠病毒疫苗（sf9细胞）；\n3剂灭活疫苗+1剂北京万泰鼻喷流感病毒载体新冠病毒疫苗；\n3剂灭活疫苗+1剂浙江三叶草重组新冠病毒蛋白亚单位疫苗（CHO细胞）；\n3剂灭活疫苗+1剂神州细胞重组新冠病毒2价S三聚体蛋白疫苗。\n（二）时间间隔。根据国内外真实世界研究和临床试验数据，结合我国疫苗接种实际，第二剂次加强免疫与第一剂次加强免疫时间间隔为6个月以上。\n三、确保接种安全\n各地要继续把接种安全放在首要位置，严格按照《预防接种工作规范》要求，规范组织接种实施。各地卫生健康部门要落实接种单位有二级以上综合医院急诊急救人员驻点保障、有急救设备药品、有120急救车现场值守、有二级以上综合医院救治绿色通道的“四有”要求，保障接种安全。接种单位要做好加强免疫的接种信息登记和疫苗流向管理，及时准确更新免疫规划信息系统和预防接种凭证中接种记录相关内容。\n四、加强组织实施\n（一）强化属地主体责任。各地要落实属地管理责任，高度重视并统筹做好新冠病毒疫苗接种工作。要加强对辖区内疫苗接种工作的指导，全面掌握工作进展。地方各相关部门要加强对接，做好工作协同。\n（二）落实部门行业管理责任。各相关行业主管部门要指导本行业人员所在单位积极配合地方统一安排，共同做好组织动员工作。\n（三）加强监督指导。要密切跟踪监测各地第二剂次加强免疫接种进展，及时发现和研究解决相关问题。健全疫苗流向全程追溯体系，完善疫苗全链条安全监管机制，持续加强全流程管理和安全防范。\n（四）做好宣传引导。各地和有关部门要根据工作需要，有针对性地制定第二剂次加强免疫接种工作的宣传措施，重点宣传加强免疫接种的目的意义，积极引导目标人群主动接种，特别要引导提升老年人群的接种率。\n\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.best",
+          "link": "https://www.thepaper.cn/newsDetail_forward_21160186",
+          "publishedOn": "2022-12-14T05:53:07.000Z",
+          "wordCount": null,
+          "title": "国务院联防联控机制：在60岁以上老年人等人群中开展第二剂次加强免疫接种",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_21159966",
+          "author": null,
+          "description": "12月13日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例2291例。其中境外输入病例42例（福建8例，山东8例，北京6例，广东5例，上海4例，陕西4例，四川3例，内蒙古2例，黑龙江1例，江苏1例）；本土病例2249例（广东1044例，北京476例，重庆179例，海南112例，浙江90例，四川73例，福建70例，河南66例，辽宁20例，山东20例，陕西19例，上海16例，云南16例，内蒙古13例，江苏12例，黑龙江11例，贵州4例，湖北2例，广西2例，天津1例，河北1例，山西1例，湖南1例）。无新增死亡病例。新增疑似病例7例，均为本土病例（北京6例，重庆1例）。\n当日新增治愈出院病例3357例，其中境外输入病例89例，本土病例3268例（广东1800例，北京295例，重庆177例，福建168例，山西132例，山东102例，黑龙江79例，云南72例，内蒙古67例，河南61例，浙江57例，江苏45例，四川41例，贵州37例，陕西34例，辽宁25例，上海22例，湖南14例，新疆9例，安徽8例，河北7例，广西5例，湖北2例，西藏2例，甘肃2例，青海2例，天津1例，吉林1例，江西1例），解除医学观察的密切接触者232391人，重症病例较前一日增加3例。\n境外输入现有确诊病例444例（无重症病例），现有疑似病例1例。累计确诊病例28317例，累计治愈出院病例27873例，无死亡病例。\n截至12月13日24时，据31个省（自治区、直辖市）和新疆生产建设兵团报告，现有确诊病例35274例（其中重症病例150例），累计治愈出院病例329409例，累计死亡病例5235例，累计报告确诊病例369918例，现有疑似病例14例。累计追踪到密切接触者15109273人，尚在医学观察的密切接触者596873人。\n累计收到港澳台地区通报确诊病例8977357例。其中，香港特别行政区478020例（出院103631例，死亡11021例），澳门特别行政区1142例（出院804例，死亡6例），台湾地区8498195例（出院13742例，死亡14722例）。\n说明：当前，新冠肺炎核酸检测实行愿检尽检的策略，许多无症状感染者不再参加核酸检测，无法准确掌握无症状感染者的实际数量，从今天（2022年12月14日）起不再公布无症状感染者数据。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_21159966",
+          "publishedOn": "2022-12-14T04:53:04.000Z",
+          "wordCount": 30,
+          "title": "国家卫健委：今起不再公布无症状感染者数据",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_21147510",
+          "author": null,
+          "description": "“我不是梅吹，我只是没瞎。”\n这是14日凌晨，目睹了梅西的表演后，球迷在论坛上刷出的留言。即使你不是梅西球迷，也会被他的技巧折服。\n\n梅西和阿尔瓦雷斯，联袂将阿根廷送入决赛。\n\n3-0击败克罗地亚，阿根廷时隔8年再进世界杯决赛，他们即将面对法国和摩洛哥的胜者。\n贡献传射并创造诸多历史纪录的35岁梅西，完成梅开二度并制造点球的22岁阿尔瓦雷斯……这支从新人到老将集体爆发的阿根廷，谁能挡得住？\n\n梅西的笑容温暖纯真。\n\n一起出来看“球王”\n面对“加时赛之王”克罗地亚，怎样才能拿下比赛？阿根廷队的答案是——在常规时间赢下来就好。\n第31分钟，阿根廷送出长传，阿尔瓦雷斯被利瓦科维奇放倒，主裁判判罚点球。\n面对本届杯赛的扑点门神利瓦科维奇，梅西高质量抽射右上死角，帮助阿根廷1-0领先。\n\n利瓦科维奇成了梅西的背景板。\n\n第38分钟，克罗地亚的防线在防守时没有将球处理干净，阿尔瓦雷斯一条龙单刀破门，阿根廷2比0领先。\n到了下半场，克罗地亚人的逆转基因也没能再度发挥，随着梅西精彩助攻阿尔瓦雷斯梅开二度，阿根廷在第69分钟就取得了3-0的优势，就此锁定胜局。\n就这样，梅西拿到了自己生涯的第二张世界杯决赛门票，他将为阿根廷追逐队史第三座大力神杯。\n\n梅西本场完全激活了队友。\n\n单届世界杯4场完成传射，成为有统计以来首人；世界杯参与19球追平有统计以来最高纪录；世界杯25次出场追平马特乌斯纪录；10次当选世界杯单场最佳刷新历史……\n世界杯11球成阿根廷队史世界杯射手王；单届世界杯5球阿根廷队史第一；18次担当世界杯比赛队长创造历史纪录……“梅球王”每前进一步，就将诸多历史再一次刷新。\n\n此刻，梅西就是马拉多纳。\n\n此刻球迷惊觉，梅西倒退的原来不是体能和球技，而是自己的年龄。\n此前四届世界杯他一共收获了6球5助攻，但这一次单届就已经斩获了5球3助，在进球、助攻、创造机会等各项数据上均领跑整届赛事…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_21147510",
+          "publishedOn": "2022-12-14T04:53:04.000Z",
+          "wordCount": null,
+          "title": "头条世界杯｜8年了，我失去的东西，要亲手拿回来",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_21147861",
+          "author": null,
+          "description": "市民将可网购新冠口服药。记者12月13日获悉，多个互联网平台已开始或即将放开销售两款新冠口服药，即辉瑞的奈玛特韦片/利托那韦片组合包装（PAXLOVID）和真实生物的阿兹夫定。其中，1药网方面确认其旗下互联网医院的新冠咨询门诊已开始预售辉瑞的新冠口服抗病毒药物奈玛特韦片/利托那韦片组合包装（PAXLOVID），需要患者上传核酸或抗原阳性证明后才可开具处方，一盒定价为2980元。\n记者从1药网了解到，用户在咨询问诊后，向导诊员回复新冠，就会被分配医生，由医生询问是否已确诊新冠，是否需要购买PAXLOVID。医生强调该药不能用于预防，仅用于确诊患者的治疗，需要用户上传核酸或抗原阳性证明后开具处方。上传阳性照片后，被诊断为新冠病毒感染，就可顺利开出处方，线上付款后药品将以快递形式配送到家。该药品用量为每次口服3片，每天两次。\n\n除了PAXLOVID，国产新冠口服药阿兹夫定的独家商业化合作方复星医药也于13日确认，阿兹夫定也即将开放网售，阿兹夫定将先在方舟健客APP和京东健康发热门诊上通过线上开具处方后购买，开具处方同样需要持有核酸检测阳性或者抗原检测阳性作为依据。后续阿兹夫定还将陆续上线复星健康等更多互联网平台。\n此前，阿兹夫定曾短暂上线美团、饿了么等互联网购药平台，但又快速下架。当时阿兹夫定的包装规格是1mg*35片，海王星辰大药房的定价为490元，“一心堂大药房”定价480元。而此次阿兹夫定重新上线，依据为12月12日国家卫健委发布的《关于做好新冠肺炎互联网医疗服务的通知》。该通知中明确提出，医疗机构（包括互联网医院、开展互联网诊疗服务的医疗机构）可以通过互联网诊疗平台，依据最新版新型冠状病毒肺炎诊疗方案有关要求，为出现新冠肺炎相关症状的患者、符合《新冠病毒感染者居家治疗指南》居家的，在线开具治疗新冠肺炎相关症状的处方，并鼓励委托符合条件的第三方将药品配送到患者家中。\n目前，国内共有两款新冠口服药获批，分别来自辉瑞与河南真实生物。今年2月12日，国家药监局附条件批准辉瑞新冠病毒治疗药物奈玛特韦片/利托那韦片组合包装（PAXLOVID）的进口注册，用于治疗成人伴有进展为重症高风险因素的轻至中度新型冠状病毒肺炎患者，例如伴有高龄、慢性肾脏疾病、糖尿病、心血管疾病、慢性肺病等重症高风险因素的患者。今年7月25日，真实生物（全称“河南真实生物科技有限公司”）的阿兹夫定片获附条件批准增加治疗新冠病毒肺炎适应症申请，用于治疗普通型新型冠状病毒肺炎成年患者。真实生物的阿兹夫定片由此成为首款获批的国产新冠口服药物。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_21147861",
+          "publishedOn": "2022-12-14T02:53:06.000Z",
+          "wordCount": 30,
+          "title": "媒体：两款新冠口服药开始网售，凭核酸或抗原阳性开方购买",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_21147117",
+          "author": null,
+          "description": "2022年12月12日，广州琶洲方舱医院已送走最后的患者，结束在本轮疫情防控中的使命，正式休舱。人民视觉 图\n\n“新十条”公布一周，各地的疫情防控进入新阶段。\n澎湃新闻（www.thepaper.cn）注意到，目前，广州市每日公布的阳性感染者数量明显减少，但不少广州居民反映身边出现阳性感染者；众多市民选择“备药”，布洛芬、连花清瘟等药品走俏，不少药店断货，但若多跑几家药店，或者选择网购，仍有希望买到这些药品。\n广州最近一轮疫情的“震中”在海珠区康鹭片区，此前因其城中村病例多、防控难度大，备受外界关注。12月11日晚，海珠区发布的通告显示，经调整，康鹭片区全域均为低风险。12月12日起，临近康鹭片区的中大纺织商圈有序复市。\n澎湃新闻注意到，自12月12日起，广州琶洲等方舱医院将陆续关闭，广州高二、高三师生以自愿为原则恢复线下教学。\n随着防疫措施的持续优化，广州的生活工作秩序陆续得到恢复，昔日的烟火气回来了。多位广州居民向澎湃新闻表示，近期，已提高个人防护意识，出门戴口罩，并尽量减少外出及聚集，“做好自己健康的第一责任人”。\n对于“早阳早好”的说法，广州市政府新闻办12月12日下午举行的科学用药专题访谈会，广州中医药大学副校长、广东省中医院院长张忠德表示，相比于相信“早阳早好”，系统地增加自己的抵抗力才是正道。感染后，自身会产生抗体，维持一段时间，但能维持多久，还要等大样本研究的结果。“没有感染最好，感染了也没有问题。”\n商圈复市，方舱关闭\n12月7日，国务院应对新型冠状病毒肺炎疫情联防联控机制综合组发布 “新十条”，进一步优化疫情防控措施。\n当天下午，广州照例举行每日的疫情防控新闻发布会，强调广州市将坚决贯彻落实“新十条”要求，持续全面优化各项防控措施，更加科学精准防控疫情。宣布即日起广州除特殊场所外不要求提供核酸检测阴性证明，不查验健康码；具备居家隔离条件的密接、无症状感染…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_21147117",
+          "publishedOn": "2022-12-14T01:53:04.000Z",
+          "wordCount": null,
+          "title": "“新十条”后广州一周：方舱陆续关闭，提倡非紧急就医线上问诊",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_21147725",
+          "author": null,
+          "description": "新冠口服抗病毒药物Paxlovid遭遇“上架半日游”。\n12月13日下午，澎湃新闻记者发现，1药网APP预售新冠口服抗病毒药物Paxlovid（奈玛特韦/利托那韦片），定价为2980元/盒。不过在17时30分左右，1药房APP中已经搜索不到相关产品，在移动网页版则显示“暂无报价”。有媒体报道称，购买该药物需要提供核酸或者抗原阳性证明。\n针对1药网APP是否在预售新冠口服抗病毒药物Paxlovid一事，1药网方面人士回应澎湃新闻记者：“1药网并非网售辉瑞的Paxlovid药品，而是按照国务院防控机制办公室2022年12月12日发布的《关于做好新冠肺炎互联网医疗服务的通知》，通过互联网医院为符合条件的患者提供诊疗和用药服务。”\n据此前的销售界面，Paxlovid的规格为150mg/100mg*4片（粉色）+2片*5板（白色），每位用户限购3件。上海地区显示18时前下单，预计当天出货。\n\n下架前的销售界面 来源：1药网APP\n\nPaxlovid为处方药，需在医生指导下凭处方购买和使用。未下架前，购买界面下方设置“立即开方购买”选项，用户需完善问诊信息，并将所填信息提供给医生作为问诊依据，等待医生问诊后才能进行购买。澎湃新闻记者于17时07分进行问诊，截至该产品下架并未等到医生接诊。\n\n来源：1药网APP\n\n辉瑞新冠口服药Paxlovid（奈玛特韦片/利托那韦片）今年2月获批在中国上市。国家药监局介绍，这是一款口服小分子新冠病毒治疗药物，用于治疗成人伴有进展为重症高风险因素的轻至中度新型冠状病毒肺炎患者，例如伴有高龄、慢性肾脏疾病、糖尿病、心血管疾病、慢性肺病等重症高风险因素的患者。\n据辉瑞2022年第三季度财报，期内新冠口服药Paxlovid的销售额达到75.14亿美元，今年前三季度，辉瑞靠新冠口服药收入达171.99亿美元。\n辉瑞对新冠口服药Paxlovid的2022年营收指引为220亿美元。辉瑞首席财务官兼执行副总裁David Denton曾表示：“新冠口服药Paxlovid和Eliquis等产品在第三季度表现强劲，尤其是在美国地区业绩良好。公司将继续朝着到2030年增加250亿美元营收这一目标发展。”\n值得注意的是，国产新冠口服药阿兹夫定片也已悄然线上开售。\n12月13日晚间，澎湃新闻记者浏览方舟健客APP发现，阿兹夫定片已经在该平台上架，用户需填写处方信息才能进行购买。销售页面显示，在售阿兹夫定片规格为1mg*35片，具有三种购买方式，分别为1瓶349元/瓶，5瓶329元/瓶以及10瓶310元/瓶。\n值得注意的是，上述三种价格均高于阿兹夫定片的医保挂网价格。据复星医药10月发布的2022年三季报，截至本报告发布日，阿兹夫定片已在全国31个省、自治区、直辖市完成医保挂网，医保挂网价格为270元/瓶（每瓶35片，每片1mg）。\n\n来源：方舟健客APP\n\n功能主治方面，方舟健客APP显示，在售阿兹夫定片功能主治HIV-1感染和新型冠状病毒肺炎（COVID-19）（仅1mg规格）。而对于新冠病毒感染，该产品只用于治疗普通型新型冠状病毒肺炎成年患者，推荐剂量为成年患者每次5mg，每日1次，疗程至多不超过14天。\n\n来源：方舟健客APP\n\n阿兹夫定片是我国自主研发的首款获批上市的口服小分子新冠肺炎药物，也是我国首个获批的拥有完全自主知识产权、并具有全球专利的1.1类抗新冠肺炎小分子口服药物。\n​​​早在2021年7月，阿兹夫定片就获得附条件批准用于HIV患者的治疗。2022年7月，国家药监局应急附条件批准真实生物阿兹夫定片增加新冠肺炎治疗适应症注册申请，用于治疗普通型新型冠状病毒肺炎成年患者。\n同样在今年7月，复星医药控股子公司复星医药产业与真实生物达成战略合作，双方联合开发并由复星医药产业独家商业化阿兹夫定，合作领域包括新冠病毒、艾滋病治疗及预防领域。复星医药称，为提高阿兹夫定片的终端可及性，复星医药产业已与中国医药流通龙头企业国药控股签订战略合作协议，加速推进全国渠道网络覆盖。\n随着疫情防控政策的放松，互联网成为用户购买药物的重要渠道。此前12月12日，国务院联防联控机制医疗救治组发布《关于做好新冠肺炎互联网医疗服务的通知》，明确医疗机构（包括互联网医院、开展互联网诊疗服务的医疗机构）可以通过互联网诊疗平台，依据最新版新型冠状病毒肺炎诊疗方案有关要求，为出现新冠肺炎相关症状的患者、符合《新冠病毒感染者居家治疗指南》居家的，在线开具治疗新冠肺炎相关症状的处方，并鼓励委托符合条件的第三方将药品配送到患者家中。此外，该通知还鼓励医疗机构提供24小时网上咨询服务。\n12月13日，复星医药（600196）跌0.32%，报收37.37元/股，总市值997.7亿；截至记者发稿，1药网（YI.O）涨7.27%，报3.54美元/股，辉瑞制药（PFE.N）跌0.019%，报52.16美元/股。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_21147725",
+          "publishedOn": "2022-12-14T01:53:04.000Z",
+          "wordCount": null,
+          "title": "辉瑞新冠口服药网上开卖2980元？电商否认：通过互联网医院提供用药服务",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_21152298",
+          "author": null,
+          "description": "部分地区出现的中小学暂停线下教学，触发家长关切。\n其中，黑龙江尚志市教育部门发出通知称，当前各地疫情形势较为复杂，为切实保护广大师生的身体健康，有效避开人群感染峰值，经请示市疫情防控指挥部批准，12月12日起，全市中小学、幼儿园、校外培训机构除高三年级和初三年级外，全部实行线上教学。\n对于高三年级和初三年级的师生和家长，这则通知提示，要切实做好自我防护，每天坚持“两点一线”和全员核酸检测，不到人员密集场所，不乘坐公共交通工具，不接触外来人员，有异常体征及时报告。\n四川绵阳的部分小学12月13日透露，根据绵阳市教体系统疫情防控工作领导小组《关于优化学校教育教学工作的提示函》要求的“2022年12月13日起至本学期末，幼儿园、中小学（不含高三年级）停止线下上课，幼儿园转为线上亲子互动，中小学转为线上自学”，学校将按照通知要求进行线上教学。\n12月13日，河北乐亭第一中学微信公众号文章也提到，当前，新冠来势汹汹，防疫异常严峻。为了保护学生的安全，多地中小学仍在停课，线上教学仍在继续。学校停课，是对学生的负责。上好网课，是学生对自己的负责。\n此外，辽宁海城于12月12日宣布暂缓恢复七八年级线下教学。\n据当地媒体报道，“根据各初中学校征求家长意见反馈结果，经研究决定暂缓初中七八年级复学，继续开展线上教学。”海城市教育局相关负责人表示，海城市教育局要求海城各学校要按照教学进度高质量完成教学工作。各学校要制定复习计划，有的放矢地做好期末考试的相关准备工作。海城各学校要做好学生和家长的心理健康教育和疏导。减轻学生和家长心理压力。海城初中九年级课后服务(包括周六)暂停。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_21152298",
+          "publishedOn": "2022-12-13T23:53:08.000Z",
+          "wordCount": null,
+          "title": "部分中小学暂停线下教学，地方教育部门解释：为避开人群感染峰值",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_21152377",
+          "author": null,
+          "description": "新华社北京12月13日消息，国务院副总理孙春兰13日到北京市调研指导疫情防控工作，转达习近平总书记对首都人民的关心问候，看望慰问奋战在抗疫一线的医务人员和社区工作者，考察北京朝阳医院、首都儿科研究所、清华大学附属垂杨柳医院、连锁药房、建国门社区卫生服务中心，实地了解发热门诊设置、就诊转诊流程、分级诊疗运行、亚定点医院建设、药品储备供应等情况。她强调，要深入贯彻习近平总书记关于疫情防控的一系列重要指示精神，落实党中央、国务院决策部署，坚持人民生命至上、人民利益至上，实施好“二十条”和“新十条”，加强统筹、转变观念，把工作重心从防控感染转到医疗救治上来，工作目标是保健康、防重症，确保防控措施调整转段平稳有序，高效统筹疫情防控和经济社会发展。\n当前，北京市新增感染者处于快速增长期，但绝大多数为无症状感染者和轻型病例，目前在院重症危重症患者50例，多有基础性疾病。孙春兰强调，党中央、国务院对北京疫情防控高度重视，当务之急是支持北京保障好群众的就医用药。目前北京市有303家发热门诊，要优化流程，同时扩容医疗资源，加快在方舱医院设置发热门诊，所有发热门诊都增加诊室和医务力量，分流大医院患者就诊压力，减少患者等候时间。要强化分级诊疗，发挥社区医疗卫生机构、互联网医院作用。社区要从风险人员管控转到医疗救治服务，做好健康调查、送药上门、心理疏导。要加强老年人、儿童、有基础性疾病患者、孕产妇、血液透析患者等脆弱群体的保护，不管新冠还是普通患者，医疗机构都要接诊治疗。目前药品和检测试剂正在加紧生产、供应，总体可满足需求，有关部门已成立专班每日调度，北京市要精细化投放，发挥线上线下市场作用，保障终端配送效率，提高可及性。北京市委市政府正在下大力气加快解决群众就医用药问题，我们有举国体制的优势，一定能平稳渡过疫情高峰。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_21152377",
+          "publishedOn": "2022-12-13T22:53:05.000Z",
+          "wordCount": 26,
+          "title": "孙春兰在北京调研时强调：细化致微落实各项优化措施，确保疫情防控转段平稳有序",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_21143691",
+          "author": null,
+          "description": "当地时间2022年11月15日，乌克兰尼古拉耶夫，在Kobzartsi村，一间被俄罗斯空袭摧毁的教室。人民视觉  资料图\n\n当地时间12月12日，七国集团（G7）承诺“满足乌克兰的紧急要求”。由于近日俄罗斯频繁对乌克兰境内能源等基础设施进行空袭，乌克兰总统泽连斯基此前呼吁G7召开线上会议，讨论向乌克兰提供防空支持。\n白宫12月12日发布的G7领导人声明表示，“G7将继续协调努力，以满足乌克兰对军事和国防设备的迫切需求，并立即重点为乌克兰提供防空系统并支持其防空能力。”\n据路透社报道，此前泽连斯基已经呼吁召开G7线上会议，讨论对乌克兰援助现代坦克、火炮和远程武器。白宫表示，美国总统拜登11日告诉泽连斯基，华盛顿的首要任务就是加强乌克兰的防空能力。泽连斯基在电话中感谢拜登，并感谢美国提供的“前所未有的国防和财政帮助”。\n英国国防大臣华莱士12日则表示，若俄罗斯持续袭击乌克兰平民区，他将对向乌克兰提供远程导弹“持开放态度”。俄罗斯方面一直否认袭击以平民为目标。\n此外，欧盟各国外长12日同意向一个基金再次注资20亿欧元，用于向乌克兰的军事援助。在近10个月的俄乌冲突期间，该基金已基本耗尽，未来可能还会注入更多资金。\n\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.best",
+          "link": "https://www.thepaper.cn/newsDetail_forward_21143691",
+          "publishedOn": "2022-12-13T17:53:05.000Z",
+          "wordCount": 35,
+          "title": "G7承诺满足乌克兰紧急防空需求，欧盟同意追加20亿欧军援",
+          "imageUrl": null
+        },
         {
           "id": "https://www.thepaper.cn/newsDetail_forward_21111344",
           "author": null,
@@ -3646,6 +3756,86 @@
       "feedUrl": "https://www.nationalreview.com/feed/",
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1415227",
+          "author": "Brittany Bernstein",
+          "description": "Biden on Tuesday said racism, antisemitism, homophobia, and transphobia are ‘all connected’ and suggested ‘the antidote to hate is love.’",
+          "link": "https://www.nationalreview.com/news/biden-calls-to-challenge-cynical-laws-targeting-transgender-children/",
+          "publishedOn": "2022-12-14T00:54:56.000Z",
+          "wordCount": 7106,
+          "title": "Biden Calls to Challenge ‘Cynical’ Laws ‘Targeting Transgender Children’",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/12/respect-for-marriage-act-signing.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1415193",
+          "author": "Brittany Bernstein",
+          "description": "The new 60-second ad will air statewide in New Hampshire.",
+          "link": "https://www.nationalreview.com/news/progressive-group-launches-ad-urging-biden-not-to-run-in-2024/",
+          "publishedOn": "2022-12-13T23:52:26.000Z",
+          "wordCount": 7161,
+          "title": "Progressive Group Launches Ad Urging Biden Not to Run in 2024",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/12/joe-biden-roosevelt-room.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1415167",
+          "author": "Nate Hochman",
+          "description": "Progressives now openly discriminate in the name of this fundamental American principle, but conservatives should be cautious too.",
+          "link": "https://www.nationalreview.com/2022/12/equality-isnt-what-it-used-to-be/",
+          "publishedOn": "2022-12-13T21:41:12.000Z",
+          "wordCount": 8033,
+          "title": "‘Equality’ Isn’t What It Used to Be",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2019/11/declaration-independence-loc-00.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1415104",
+          "author": "Ryan Mills",
+          "description": "DeSantis also announced that he is establishing a Public Health Integrity Committee to assess federal public-health recommendations and guidance.",
+          "link": "https://www.nationalreview.com/news/desantis-announces-grand-jury-probe-into-alleged-wrongdoing-by-covid-vaccine-makers/",
+          "publishedOn": "2022-12-13T20:26:37.000Z",
+          "wordCount": 7542,
+          "title": "DeSantis Announces Grand-Jury Probe into Alleged ‘Wrongdoing’ by Covid-Vaccine Makers",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/12/desantis.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1415027",
+          "author": "Caroline Downey",
+          "description": "The Pentagon’s plans await approval from Defense Secretary Lloyd Austin.",
+          "link": "https://www.nationalreview.com/news/u-s-preparing-to-ship-patriot-missile-defense-system-to-ukraine/",
+          "publishedOn": "2022-12-13T19:13:05.000Z",
+          "wordCount": 6926,
+          "title": "U.S. Preparing to Ship Patriot Missile-Defense System to Ukraine",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/12/patriot-missile.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1414975",
+          "author": "Caroline Downey",
+          "description": "Bankman-Fried’s mother ran an influential Democratic PAC that channeled Silicon Valley fortunes to progressive politicians.",
+          "link": "https://www.nationalreview.com/news/ftx-ceo-confirms-hes-investigating-bankman-frieds-politically-connected-progressive-parents/",
+          "publishedOn": "2022-12-13T18:34:29.000Z",
+          "wordCount": 7238,
+          "title": "FTX CEO Confirms He’s Investigating Bankman-Fried’s Politically Connected Progressive Parents",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/12/CEO-John-Ray.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1415024",
+          "author": "Ryan Mills",
+          "description": "Kevin de León exchanged blows with a far-left activist who called him racist for using racially charged language in a leaked conversation.",
+          "link": "https://www.nationalreview.com/news/fireworks-feared-at-l-a-city-council-meeting-after-councilman-scuffled-with-far-left-activist/",
+          "publishedOn": "2022-12-13T18:07:22.000Z",
+          "wordCount": 7578,
+          "title": "Fireworks Feared at L.A. City Council Meeting after Councilman Scuffled with Far-Left Activist",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/12/Kevin-de-Leon.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1414974",
+          "author": "Andrew C. McCarthy",
+          "description": "Why did federal prosecutors make their move hours before Bankman-Fried was scheduled to give potentially incriminating testimony to Congress?",
+          "link": "https://www.nationalreview.com/2022/12/the-curious-timing-of-sam-bankman-frieds-arrest/",
+          "publishedOn": "2022-12-13T17:27:02.000Z",
+          "wordCount": 7988,
+          "title": "The Curious Timing of Sam Bankman-Fried’s Arrest",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/12/Sam-Bankman-Fried-1.jpg?fit=2057%2C1200"
+        },
         {
           "id": "https://www.nationalreview.com/?p=1414951",
           "author": "Andrew Follett",
@@ -8065,106 +8255,6 @@
           "wordCount": 8072,
           "title": "Can DeSantis Win the Evangelical Vote?",
           "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/Ron-DeSantis-12.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1393959",
-          "author": "Brittany Bernstein",
-          "description": "DeSantis garnered 43 percent support, compared to 32 percent for Trump. A previous version of the poll had Trump leading by 17 points.",
-          "link": "https://www.nationalreview.com/news/desantis-surges-past-trump-in-texas-gop-2024-poll/",
-          "publishedOn": "2022-11-14T19:27:16.000Z",
-          "wordCount": 7174,
-          "title": "DeSantis Surges Past Trump in Texas GOP 2024 Poll",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/DeSantis-and-Trump-1.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1393881",
-          "author": "Brittany Bernstein",
-          "description": "Biden’s comments come after he announced that his top priority after the midterms would be codifying a national right to abortion.",
-          "link": "https://www.nationalreview.com/news/biden-says-he-doesnt-think-theres-enough-votes-in-congress-to-codify-roe/",
-          "publishedOn": "2022-11-14T17:55:04.000Z",
-          "wordCount": 6979,
-          "title": "Biden Says He Doesn’t Think There Are Enough Votes in Congress to Codify <i>Roe</i>",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/Joe-Biden-91-1.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1393802",
-          "author": "Ari Blaff",
-          "description": "‘It was clear he decided to be part of the problem,’ Pence said.",
-          "link": "https://www.nationalreview.com/news/mike-pence-says-trumps-january-6-actions-endangered-me-and-my-family/",
-          "publishedOn": "2022-11-14T14:15:08.000Z",
-          "wordCount": 7030,
-          "title": "Mike Pence Says Trump’s January 6 Actions ‘Endangered Me and My Family’",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/Mike-Pence-5.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1393685",
-          "author": "The Editors",
-          "description": "There are legitimate criticisms, but most of the case against him for Republicans’ midterm disappointment is malicious and ill-conceived.",
-          "link": "https://www.nationalreview.com/2022/11/dont-blame-mcconnell/",
-          "publishedOn": "2022-11-14T11:30:43.000Z",
-          "wordCount": 7679,
-          "title": "Don’t Blame McConnell",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/Untitled-design-16.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1393549",
-          "author": "Jack Butler",
-          "description": "The Peter Thiel acolyte seeks to blame his Arizona Senate miss on anything other than his own misguided campaign.",
-          "link": "https://www.nationalreview.com/2022/11/failed-candidate-blake-masters-searches-for-a-scapegoat/",
-          "publishedOn": "2022-11-14T11:30:42.000Z",
-          "wordCount": 8411,
-          "title": "Failed Candidate Blake Masters Searches for a Scapegoat",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/masters.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1393662",
-          "author": "Charles C. W. Cooke",
-          "description": "National Review has paid special attention to Florida as it has risen in political prominence. Help us keep it up.",
-          "link": "https://www.nationalreview.com/2022/11/florida-on-our-minds/",
-          "publishedOn": "2022-11-14T11:30:34.000Z",
-          "wordCount": 7350,
-          "title": "Florida on Our Minds",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/calkf.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1393688",
-          "author": "Michael Brendan Dougherty",
-          "description": "He has some serious ones, despite the post-midterm drumbeat that this time he’s really toast.",
-          "link": "https://www.nationalreview.com/2022/11/the-trump-advantages/",
-          "publishedOn": "2022-11-14T11:30:20.000Z",
-          "wordCount": 7706,
-          "title": "The Trump Advantages",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/Untitled-design-17-1.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1393592",
-          "author": "Jay Nordlinger",
-          "description": "Mario Vargas Llosa, the great novelist, has written a book on his political development and the thinkers who influenced him: starting with Adam Smith.",
-          "link": "https://www.nationalreview.com/2022/11/one-mans-political-education/",
-          "publishedOn": "2022-11-14T11:30:14.000Z",
-          "wordCount": 8846,
-          "title": "One Man’s Political Education",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2017/06/goat-and-feast-trujillo-vargas-llosa-and-more.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1393508",
-          "author": "Stephen Moore",
-          "description": "The digital age has progressed in no small part because we have allowed the Internet and its applications to be pretty much a regulation-free playground.",
-          "link": "https://www.nationalreview.com/2022/11/the-apps-marketplace-isnt-broken-please-congress-dont-fix-it/",
-          "publishedOn": "2022-11-14T11:30:02.000Z",
-          "wordCount": 11719,
-          "title": "The Apps Marketplace Isn’t Broken — Please, Congress, Don’t ‘Fix’ It",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/Trump-DeSantis.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1393666",
-          "author": "Kathryn Jean Lopez",
-          "description": "We need a critical post-Roe examination of conscience.",
-          "link": "https://www.nationalreview.com/2022/11/do-americans-prefer-abortion/",
-          "publishedOn": "2022-11-14T11:30:01.000Z",
-          "wordCount": 7788,
-          "title": "Do Americans <i>Prefer</i> Abortion?",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/Untitled-design-15.jpg?fit=2057%2C1200"
         }
       ]
     }
