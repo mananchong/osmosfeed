@@ -6,6 +6,16 @@
       "siteUrl": "https://rweekly.org/atom.xml",
       "articles": [
         {
+          "id": "https://rweekly.org/2022-W51.html",
+          "author": null,
+          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Colin Fay, with help from the R Weekly team members and contributors.\nHighlight\nThe path to {ggpath}\nWhat is R7? A New OOP System for R\n2022-03 Offsetting Lines and Polygons in ‘grid’\nInsights\nWhat is R7? A New OOP System for R\nOn target\nThe path to {ggpath}\nDesigning Accessible Research with R/Shiny\nStill young, ChatGPT surprises with its abilities\nThe tools I loved this year\n    \nR in the Real World\nR en Buenos Aires in 2023: Compiling a list of Latin American R packages\nLearning the Fundamentals of R, Workshop with R-Ladies Gaborone and Botswana R User Group\nR in Organizations\nNHS-R Workshop: Development and validation of clinical prediction models using R\nNew Packages\n📦…",
+          "link": "https://rweekly.org/2022-W51.html",
+          "publishedOn": "2022-12-19T00:00:00.000Z",
+          "wordCount": 5751,
+          "title": "R Weekly 2022-W51 {ggpath}, R7, grid",
+          "imageUrl": "https://rweekly.org/public/facebook.png"
+        },
+        {
           "id": "https://rweekly.org/2022-W50.html",
           "author": null,
           "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Eric Nantz, with help from the R Weekly team members and contributors.\nHighlight\nRead and Visualize your Twitter Archive\nUPDATE: Successful R-Based Package Submission with Shiny Component to FDA\nHow to score Rock Paper Scissors\nInsights\nChatGPT can Create Datasets, Program in R… and when it makes an Error it can Fix that too!\nI’m an R user: Quarto or R Markdown?\nR in the Real World\nWorld Cup National Anthems, Emotions & Audio Features\n\nThe effect of Childhood Education on Wealth: Modeling with Bayesian Additive Regression Trees (BART)\nR in Organizations\nRegaining Momentum with In-Person Meetups\nR in Academia\nJust How Good Is ChatGPT in Data Science?\nResources\nPlease Avoid de…",
@@ -439,6 +449,116 @@
       "feedUrl": "https://feedx.net/rss/thepaper.xml",
       "siteUrl": "http://thepaper.cn",
       "articles": [
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_21225521",
+          "author": null,
+          "description": "最近，一张“温馨提示”的截图在圈群传播，称“很多二次复阳的人，都是因为忘了在阳转阴之后更换牙刷，结果自己把自己又给感染了。”真是这样的吗？\n上海辟谣平台求证，这种说法是错误的。\n中国科学技术协会指出，当新冠感染者痊愈后，不必更换生活用品。“生活用品”包括牙刷、唇膏、杯子等各种直接接触口部的物品。\n之所以这么判断，有两个原因：一是奥密克戎毒株在物体表面的存活时间很短。即使在实验环境下，病毒在物体表面的存活时间最长也不超过10天，再感染的概率不高。而且，早在今年7月，国家卫健委在发布《关于进一步优化进口物品新冠肺炎疫情防控工作的通知》时也提到，常温条件下新冠病毒在大部分物品表面存活时间短，1天内全部失活。所以，人们不太可能通过接触物体表面感染奥密克戎，气溶胶、飞沫才是更主要的病毒传播途径。\n二是感染新冠病毒后，人体针对相应的毒株、相应变体会产生特异性的抗体。当人体再次接触一模一样的病毒时，身体内存在的免疫细胞可以迅速产生抗体，清除病毒。如果短期内“复阳”，一定是不小心又感染了病毒的另一个变体，而不是接触了同样的毒株。至于网传提醒中提到的旧牙刷，就算上面有病毒，也是同样的毒株，所以不会引发“复阳”。\n\n从上海辟谣平台后台留言看，关于居家消毒，公众还有不少疑问。对此，上海辟谣平台梳理了上海市环境整治消杀工作专班、上海市健康促进中心及相关专家的建议，一并答复如下。\n问：新冠感染者真的不要碰冰箱吗？\n答：不建议新冠感染者接触冰箱。因为相比在常温物体表面，病毒在低温环境下存活的时间更长。如果新冠感染者与家人同住，不建议新冠感染者接触冰箱。极端假设：感染者打开冰箱的同时打喷嚏或咳嗽，将气溶胶喷到冰箱内，冰箱可能因此沾染病毒。\n对于冰箱消毒，可拔掉冰箱电源后，用含有酒精的湿巾将冰箱内外擦拭一遍。冰箱内有包装的食物可以擦拭外包装；没有密闭包装的食物经过高温加热，也可以安全食用。\n问：居家隔离消毒有哪些关键点？\n答：居家隔离期间，加强室内通风，做好重点区域（共用卫生间等）和物品（餐具等）的消毒。\n隔离人员单独房间居住且具有完全自理能力的，可对单独房间自行消毒，其他房间由同住人员实施，消毒可分房间进行，尽量避免人员在场。\n隔离期结束后，应对居家环境进行一次全面消毒。\n问：居家消毒可以用哪些消毒剂或消毒用品？\n答：建议使用消毒湿巾，或低腐蚀、刺激性小的消毒剂（如75%的酒精、含1%过氧化氢湿巾或季铵盐湿巾，或含有效氯1000mg/L的含氯消毒液），尽量采用擦拭（拖拭）消毒的方式。\n问：使用消毒剂有什么禁忌？\n答：一、不可以混合使用消毒剂。两种及以上消毒剂混合使用，易产生化学反应，可能造成伤害。比如，84消毒液与洁厕剂混合，会产生有毒气体，刺激人体咽喉、呼吸道和肺部而引发中毒。\n二、不可以使用酒精喷洒消毒。居家使用酒精时需注意防火和爆炸风险。用于消毒的酒精浓度应为75%，切记避免采用大面积喷洒酒精式的消毒方式。\n三、电器消毒务必先切断电源。电器表面消毒，应先关闭电源，待电器冷却后再进行，否则可能引起爆燃。\n问：如果“阳”了或家里有感染者，怎样进行空气消毒？\n答：保持家居通风，开窗时应该注意关闭居室房门，独立开窗通风，每日开窗通风2-3次，每次至少30分钟。\n中央空调应关闭回风，按照全新风模式运行。\n不能自然通风的，可用排气扇等机械通风。\n卫生间内应加强开窗通风，或开启排气设备进行通风换气。\n问：日用家居物品如何消毒？\n答：若居家隔离人员有同住者，应注意对可能共同接触到的日常物品表面进行消毒，包括台面、门把手、电话机、开关、洗手盆、水龙头、坐便器等。\n可用酒精含量75%湿巾、1%过氧化氢湿巾或季铵盐湿巾擦拭消毒。若用含有效氯1000mg/L的含氯消毒液擦拭，可在30分钟后用清水毛巾擦拭去残留。高频接触的日用物品，每天至少消毒1次。\n地面可每天用1000mg/L的含氯消毒液进行湿式拖地，待30分钟后再用清水拖地1-2遍。\n问：卫生间如何消毒？\n答：有条件的隔离人员可单独使用一个卫生间，一日一消毒；如和家人共用卫生间，居家隔离人员每次用完厕所要及时消毒，便池及周边可用 2000mg/L的含氯消毒液擦拭消毒，作用30分钟后用清水擦净。\n问：怎样对餐具消毒？\n答：居家隔离人员不要与同住人员共同用餐，餐具应当分开使用。\n隔离人员的餐具首选煮沸消毒15分钟或碗具消毒柜消毒，也可用250mg/L-500mg/L含氯消毒液溶液浸泡 15 分钟后再用清水洗净。\n问：衣物、毛巾、被褥等纺织品如何消毒？\n答：衣物、毛巾等煮沸消毒15分钟，也可用1000mg/L的季铵盐类消毒剂或其他衣物消毒液浸泡30分钟后，按常规清洗。\n不方便洗涤的被褥通过阳光暴晒等物理消毒方式，也可达到消毒目的。\n（原标题：《复阳的人是因为没有扔牙刷？别信！上海辟谣平台发布居家消毒宝典》）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_21225521",
+          "publishedOn": "2022-12-19T15:53:07.000Z",
+          "wordCount": 36,
+          "title": "没扔牙刷所以复阳？假！常温下新冠病毒在物品表面1天内失活",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_21223719",
+          "author": null,
+          "description": "12月19日，新华社发布题为《中央财办有关负责同志就中央经济工作会议精神和当前经济热点问题作深入解读》的问答，全文7600余字。澎湃新闻摘录要点如下：\n1.预计明年上半年特别是二季度社会生产生活秩序会加快恢复，经济活力加速释放。\n2.今年已经出台实施的扩大有效需求、促进结构优化政策，该延续的延续，该优化的优化。明年还要根据实际需要陆续出台新政策、新措施。\n3.针对住房、汽车、服务性消费等领域存在的一些限制性措施，要完善消费政策，支持住房改善、新能源汽车、养老服务、教育医疗文化体育服务等消费。\n4.要依法保护民营企业产权和企业家权益，防止和纠正利用行政或刑事手段干预经济纠纷。要全面梳理修订涉企法律法规政策，持续破除影响平等准入的壁垒。\n5.支持量大面广的中小微企业和个体工商户发展，通过加强劳动者权益保护等政策支持灵活就业发展。\n6.明年高校毕业生将超过1150万人，再创历史新高，要重点做好青年特别是高校毕业生就业工作。\n7.制造业高端化不是都去搞芯片，服装家具都可以高端化发展。\n8.对于集成电路等重点领域，关键是进一步优化产业生态，重视发挥市场力量，大力支持全产业链发展。\n9.现在欧洲、韩国、日本对华投资增长快，特别是中小企业对中国兴趣大，其中很多是专精特新“小巨人”企业。国际技术+中国生产+世界市场是很好的模式。\n10.合理缩减外资准入负面清单，加大现代服务业开放力度，推动教育、医疗、养老等领域扩大开放。\n11.为外商来华从事贸易投资洽谈提供最大程度便利，推动外资标志性项目落地建设。同时，也要推动经贸人员常态化走出去招商引资。\n12.防范化解重大经济金融风险的重要思路，是做大经济实力这个分母，稀释风险这个分子。\n13.党政机关要坚持过紧日子。\n14.房地产链条长、涉及面广，是国民经济支柱产业。2023年还将出台新举措，侧重研究解决改善房企资产负债状况等。\n15在住房消费等领域还存在一些妨碍消费需求释放的限制性政策，这些消费潜力要予以释放。\n16.研究推动房地产业向新发展模式平稳过渡，摆脱多年来“高负债、高杠杆、高周转”模式。\n\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.best",
+          "link": "https://www.thepaper.cn/newsDetail_forward_21223719",
+          "publishedOn": "2022-12-19T14:53:05.000Z",
+          "wordCount": 27,
+          "title": "中央财办权威解读：国际技术+中国生产+世界市场是很好的模式",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_21223727",
+          "author": null,
+          "description": "据河南商丘虞城县委宣传部微信号“虞城发布”12月18日消息，虞城县人民政府新闻办公室当天发布情况说明称，近日，网上关于“河南芒种桥乡麦田长出十层高楼”的信息出现后，虞城县委、县政府高度重视，立即责成县国土、规划、住建等单位负责人到达现场进行调查处理。\n\n经调查，网上反映的十层高楼，位于芒种桥乡芒种桥村317省道北侧，占地面积403平方米，占地类型属集体建设用地，符合芒种桥乡土地利用总体规划并已纳入芒种桥乡国土空间规划，建设手续不完备。该楼建有两个单元共40套，均为90—110平方米的小户型，没有对外出售。\n目前，虞城县国土、规划、住建等单位已分别按程序依法立案查处；责成芒种桥乡严格履行属地监管责任，严肃处理相关责任人，严禁此类问题再次发生；该楼房处于全面停工状态。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_21223727",
+          "publishedOn": "2022-12-19T12:53:05.000Z",
+          "wordCount": 31,
+          "title": "河南虞城回应“麦田长出十层高楼”：建设手续不完备，立案查处",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_21225850",
+          "author": null,
+          "description": "工业和信息化部原党组书记、部长肖亚庆。澎湃新闻记者 赵昀 图\n\n日前，经中共中央批准，中央纪委国家监委对工业和信息化部原党组书记、部长肖亚庆严重违纪违法问题进行了立案审查调查。\n经查，肖亚庆背弃初心使命，丧失政治意识和党性原则，无视中央八项规定精神，接受可能影响公正执行公务的宴请；纪法底线失守，亲清不分，违规收受他人大额钱款。\n肖亚庆严重违反党的政治纪律、组织纪律和廉洁纪律，并构成职务违法，且在党的十八大后不收敛、不收手，性质严重，应予严肃处理。鉴于肖亚庆能在较短时间如实说明本人违纪违法事实，认错悔错，全额退缴违纪违法所得，按照惩前毖后、治病救人的原则，对其可予从宽处理。依据《中国共产党纪律处分条例》《中华人民共和国公职人员政务处分法》等有关规定，经中央纪委常委会会议研究并报中共中央批准，决定给予肖亚庆开除党籍处分，由国家监委给予其政务撤职处分，降为一级主任科员，办理退休手续。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_21225850",
+          "publishedOn": "2022-12-19T12:53:05.000Z",
+          "wordCount": 37,
+          "title": "工业和信息化部原党组书记、部长肖亚庆受到开除党籍、政务撤职处分",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_21217888",
+          "author": null,
+          "description": "从成为巨星的那天起，也注定要在这条单行线上，继续孤独地走下去。\n姆巴佩选择了这样的生活。\n世界杯决赛后，姆巴佩面色凝重，沉默不语。但沉默，就是姆巴佩本届世界杯至今的状态，24岁的他背负了太多质疑，大多责难。\n他回击世界的方法，只有进球和沉默。\n\n法国总统马克龙安慰姆巴佩。这些年，他一直支持着姆巴佩。\n\n沉默的那一个\n本届法国队的气氛，延续了上届的一团和气、其乐融融的氛围，无论是在球队连续破门、轻松晋级之时，还是在场外遭遇连续减员和流感来袭之际。\n但在雄鸡众将里，姆巴佩却是罕见的沉默者。\n从来到卡塔尔，姆巴佩便选择了静默，直接拒绝了各类采访，从FIFA到赞助商概莫能外。尽管早就收到了连续的罚单，但直到1/8决赛，他才首次打开了话匣子。\n“我知道大家会有很多问题，想问我为什么不发声。现在当着所有在场记者的面，我想说，这不是针对记者，也不是针对球迷。”\n“我总是需要专注于我参加的赛事，当我需要专注于一件事的时候，我需要100%的专注，不在其他事情上分心，所以我之前不希望面对媒体。”\n\n姆巴佩望向大力神杯，摘掉了脖子上的银牌。\n\n沉默的姆巴佩也很可怕。\n单看英格兰和摩洛哥对他无孔不入的紧逼防守，以及在裁判纵容下格外夸张的对抗尺度，便可知他们忌惮到了何种地步。\n尤其是擅长在失败里自我安慰的英格兰媒体，他们描述这场刻骨铭心失败的标题是——“至少我们盯住了姆巴佩”。\n但有关姆巴佩多年来全靠高速突破+精准终结、踢法相对单一的指责，却从来都没有消停过……哪怕决赛他以一己之力多次拯救法国，还有人说“不就是进了两个点球嘛……”\n\n阿根廷队无法限制姆巴佩的发挥。\n\n幸运的那一个\n“我一直希望自己的职业生涯向上走，很多人都知道我速度很快，但他们不知道，我其实是个对自己格外苛刻的人。”\n早在多年前刚成名时，姆巴佩接受《体育画报》采访时，就曾如此吐露雄心。\n姆巴佩对自己的鞭策未曾止歇，在成功路径选择上，他一直是格外务实、甚至功利的那一个。而他，也是最幸运的那一个。\n投胎是个技术活，吃青春饭的足球尤其如此。身处优秀团队，等于少奋斗半辈子——看看本泽马吧，他生逢的是作妖大师多梅内克留下的一地废墟，是欧洲杯、世界杯先后被吊打的惨淡现实。\n而姆巴佩呢？他4年前在俄罗斯所迎来的，是格里兹曼2年前一手托起的欧洲亚军班底，是德尚无条件的提携和重用，是法国队95后和00后新人持续井喷、老将仍有一战之力的盛世。\n幸福，往往都是比较出来的。\n\n姆巴佩决赛上演帽子戏法。\n\n相似的选择，更发生在他的俱乐部轨迹上。\n2016-2017赛季在摩纳哥初出茅庐的姆巴佩，无论是就势转战皇马，还是另择五大联赛豪门作为起步之所，都无可厚非。\n但一年后，他就以租借身份转投巴黎，看似是“钱少事多离家近”（姆巴佩出生在巴黎郊区），实则是最务实、最轻松、最名利双收的一条捷径。\n如今看来，这是一条既有下限，更有上限的保底之路，在加盟巴黎之初，尚是新人的姆巴佩，可以在内马尔的羽翼下安心担任僚机，并非球队成败的第一责任人。\n而当皇马诚意邀约，姆巴佩又得到了总统马克龙的出面挽留，瞬间成为了整个法国的代言人——法国人留在法国踢球，这就是法国的文化自信。\n\n算上点球大战，姆巴佩顶住压力三罚全中。\n\n争议的那一个\n如今的姆巴佩，显然有了一个过于狡猾而世俗的形象，变得“油腻”。\n因为比起沉默，开口的姆巴佩更令人不舒服：早在5月，他极富争议的“南美足球没有欧洲先进”，更是惹怒了俱乐部队友内马尔，两人也就此反目至今。\n9月欧冠对垒尤文图斯的赛前发布会上，姆巴佩言及能源危机时当即笑场，令现场一片哗然，大巴黎也不得不出面道歉，并对姆巴佩口头批评，才算了结一桩闹剧。\n但最令姆巴佩“路转黑”，甚至成为新梗王的，还是今夏的续约闹剧。\n法甲收官战前，巴黎圣日耳曼官宣姆巴佩续约至2025年——税后5000万欧元年薪、1.3亿欧元签字费、100%肖像权，以及对球队主帅、总监、阵容有参与决定权。\n既突破了足坛薪金上限，又空前拔高了球员话语权。\n这也意味着，从7月1日起，巴黎7号不但是唯我独尊的打工皇帝，更是生杀予夺的隐形高层。\n\n姆巴佩无缘第二次捧起金杯。\n\n在23岁的年纪，已然成了一人凌驾于球队一切之上——充满嘲讽意味的“姆总监”，也就此成为指代姆巴佩的黑诨号。\n在ESPN此前公布的最不受欢迎的运动员排行榜上，勒布朗·詹姆斯、C罗、威斯布鲁克甚至库里，都名列其中。名气和能力越大、争议越多，似乎成了体育世界王者必须要直面的人生。\n而在姆巴佩之前，他的偶像C罗，也在2022年遭遇了空前的非议和争论，而这场绵延近半年的闹剧，除了流量，没有赢家。\n正值巅峰期的姆巴佩，他和整个世界的对抗，或许才刚刚开始。\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.best",
+          "link": "https://www.thepaper.cn/newsDetail_forward_21217888",
+          "publishedOn": "2022-12-19T11:53:08.000Z",
+          "wordCount": 54,
+          "title": "越孤独越强大，姆巴佩回击世界的方法，只有进球和沉默",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_21220349",
+          "author": null,
+          "description": "中国青年报客户端阳泉12月18日消息，“把药送给最需要帮助的人。”18日上午，山西阳泉平定县鑫全大药房下属三家门店，将总计12000片复方对乙酰氨基酚片摆上柜台，为居民免费发放。当地媒体将有关视频发至网上，引众多网友点赞。\n上午10点多，得知免费发药消息的市民石海霞赶到该药房，“我去的时候人还不多，不用登记信息，一次给10片（药），排队领就可以。”\n“有的药房已经关了，家里现在急需感冒退烧药，终于有了着落。”领到药的石海霞还不忘给身边的亲戚朋友去电，通知需要的人抓紧去领药。\n“药店是我们家开的。随着新冠感染者逐渐增多，有些患者买不到退烧药，我们就想着给大家免费发放，送给最需要帮助的人。这个药并不贵。”记者辗转联系到了知情人李女士，不愿意透露姓名的她表示，自己的父亲、表哥均从事医药行业多年，赠药是家里共同的决定。\n李女士表示，当前是特殊时期，为解大家燃眉之急，店里决定将新进的1200组复方对乙酰氨基酚片（每份10片），免费发放给更多需要它的人，“我们还可为大家免费煎制中药，希望能够帮助更多的人。”\n药店的做法让不少网友觉得感动，纷纷点赞评论：“药店拿出真心真意为人”“良心商家，好人一生平安”“不管（药店）什么想法， 最起码是真真在做”……\n对此，李女士表示，药店无意以此做营销，她同时注意到，有网民在网上给别的药店留言，提出别家店要向他们学习。李女士说：“我们最怕出现这种情况。这不是营销手段，希望大家不要关注药店本身，而是关注那些更需要帮助的人。”\n截至下午6时左右，该药房原计划发放的12000片药全部发完，又追加了6000片库存药一并送出。\n\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.best",
+          "link": "https://www.thepaper.cn/newsDetail_forward_21220349",
+          "publishedOn": "2022-12-19T10:53:05.000Z",
+          "wordCount": 28,
+          "title": "山西阳泉一药房免费发放18000片退烧药",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_21161936",
+          "author": null,
+          "description": "预测结果，是世界杯看球的一大乐趣。章鱼保罗就是靠在2010年南非世界杯成功猜对了8场球赛，而被大家称作“预言帝”。如今，随着算法技术的成熟，人工智能（AI）也来凑热闹了。\n我们统计了4家知名度较高的机构发布的预测，发现包括调研公司尼尔森（Nielsen）、游戏公司艺电（Electronic Arts）和统计网站538（FiveThirtyEight）在内的3家都说，能捧起这届世界杯大力神杯的会是阿根廷队。唯一持不同意见的是卡塔尔半岛电视台的AI卡谢夫（Kashef），它觉得法国队有51%的概率能夺冠。\n\n艺电已经为他们预测的冠军阿根廷队制作好了胜利画面。图片来源：EA Sports\n\n这么多AI都说阿根廷队要赢，结果就是板上钉钉的吗？\n其实早在前几届世界杯，很多团队就运用起AI来预测世界杯结果，只是大多数的正确率都惨不忍睹。例如上一届世界杯的冠军法国队，根本不在西班牙、德国、巴西这些各家算出的夺冠热门里。\n但我们统计了艺电、半岛电视台、538和尼尔森这4家今年预测的晋级名单，其应验率基本在70%左右。相比高盛公司的AI在上一届世界杯只有56.7%的预测准确率、且冠亚季军全部脱靶而言，这个成绩已经进步了不少。\n\nAI是如何料事如神的？ \n那么，这些人工智能是如何拥有未卜先知的“神秘力量”的？毕竟，如果预测原理无法用科学解释，那么和章鱼保罗的玄学就没有多少区别。尼尔森只有一句简单的“预测是基于超过一百万次的模拟”原理解释，就很难让人信服。\n比如从1993年起就和国际足联合作推出足球游戏的艺电，将自己的预测能力归功于能体现真实比赛的《FIFA 23》游戏，他们用模仿各队打法的AI球队反复推演了64场比赛。艺电用这套不明觉厉的方法，成功预测了2010年、2014年和2018年的世界杯冠军，以至于如今自信到从开赛以来就没更正过预测结果。只是它还预测过这届世界杯，巴西队会和阿根廷队在决…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_21161936",
+          "publishedOn": "2022-12-19T09:53:05.000Z",
+          "wordCount": 77,
+          "title": "AI说今晚世界杯冠军是阿根廷，靠谱吗？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_21217964",
+          "author": null,
+          "description": "尽量压平感染曲线和推后峰值，已明确列入多地疫情防控的工作目标。\n据《浙江日报》，12月17日上午，（浙江）省委书记、省新冠肺炎疫情防控工作领导小组第一组长易炼红主持召开领导小组会议。他强调，要将疫情防控重点从“防传染”进一步转到“保健康、防重症”上来，尽量推迟第一波感染高峰到来时间、压平感染曲线，最大限度保障人民群众生命健康，坚决把思想和行动统一到党中央、国务院决策部署上来。\n据《南京日报》，12月17日，（南京）市委常委会暨市疫情防控工作领导小组召开会议，会议指出，要将工作重心从“防传染”进一步转到“保健康、防重症”上来，切实守住重症和脆弱人群患者及时救治、群众诉求和急难愁盼问题及时解决、重点药品和商品保供稳价、企业正常生产、机关正常运转“五条底线”，尽力压平感染曲线，顺利渡过流行期。\n另据《大众日报》，12月17日下午，（山东）全省新冠肺炎疫情防控视频会议召开，按照省委部署要求，调度防疫医疗药品和器械保供、医疗救治、亚定点医院升级改造、农村疫情防控等工作情况，落实落细新阶段疫情防控各项举措，会议还提到，“努力把握节奏、控制进程、拉平曲线、推后峰值”。\n山东广播电视台“闪电新闻”评论文章指出，“把握节奏、控制进程、拉平曲线、推后峰值”，这并不是山东第一次提到这一要求。早在12月9日召开的省委统筹疫情防控和经济运行工作指挥部（扩大）会议上，省委书记李干杰就提到了这十六个字。\n所谓拉平曲线，是指在感染人群概率大致确定的情况下，尽可能地将感染时间轴延长，这样单位周期内的感染人数就会减少，感染概率也就会得到稀释。推后峰值意味着，当流行峰值来得越晚，对群众的健康威胁程度就越低，避开重症、病亡高峰的概率就越大。\n那么，如何才能做到“拉平曲线、推后峰值”？\n上述文章分析道，综合来看，对于政府来说，一是抓紧做好各类药品的供求保障工作，二是提升医疗卫生系统的运转机能，三是继续强化农村地区和…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_21217964",
+          "publishedOn": "2022-12-19T08:53:05.000Z",
+          "wordCount": 29,
+          "title": "部分地区明确要压平感染曲线、推后峰值，警惕感染高峰提前",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_21215798",
+          "author": null,
+          "description": "本文图均为均受访者供图\n\n卡塔尔世界杯阿根廷对法国比赛前夕，记者联系到梅西球迷乔西，她是一名上海80后女生，此前辞职去看世界杯引发网友热议。\n北京时间12月16日，乔西告诉记者，将近一个月的时间她都在卡塔尔，目前，卡塔尔世界杯有阿根廷的六场比赛她都看了，小组赛也看了其他球队场次，一共十五场。\n北京时间12月18日23点，阿根廷与法国将打响卡塔尔世界杯决赛。乔西说，她会跟完阿根廷所有赛程，虽然赢球的路上会有很多“至暗时刻”， 但她依然相信阿根廷会取得“最终的胜利”。\n以下是乔西的自述：\n在推特上，有阿根廷人分享给我一句话：“如果这场比赛不折磨人，那它就不是一场阿根廷的比赛”。\n看阿根廷比赛，我一直非常紧张，根本做不到“enjoy the game”。尤其到了淘汰赛，每一场都至关重要，每次都考虑到，这是梅西最后一届，能多看他一场比赛，就是非常幸运的事。\n我印象最深刻的比赛不止一场。\n第一场是小组赛第二轮阿根廷与墨西哥的较量。此前阿根廷意外输给沙特，如果这场再输墨西哥，就要打道回府。\n墨西哥非常难对付，比赛前，我心里特别压抑，脑海中想过无数个场景，有点悲观。\n比赛时我非常紧张，直到梅西攻进第一个球，阿根廷以1:0领先。我在观赛区声嘶力竭地高喊：“YES！YES”，跟前后从阿根廷过来的球迷欢呼、相拥。那一刻，压抑已久的情绪才完全释放。\n还有一场印象深刻的是1/4阿根廷对荷兰，阿根廷2:0领先后，在全场还剩几秒钟时被荷兰压秒绝平，特别绝望。\n那时我在想：老天命运的天平本来是偏向阿根廷，这是不是一个转折点，要偏向荷兰了？\n点球大战时，我根本都不敢看屏幕，就蹲下来捂着耳朵，听到阿根廷球迷欢呼，我才起来欢呼，紧张到心脏像要出来了。荷兰头两个点球被大马丁扑出来后，我的心理又变成：好像命运的天平又回到了阿根廷这一边。\n最后阿根廷战胜荷兰，进入四强，我觉得这届世界杯能看满七场比赛肯定是稳了。我想…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_21215798",
+          "publishedOn": "2022-12-19T08:53:05.000Z",
+          "wordCount": 80,
+          "title": "再访辞职看世界杯的女生：梅西是生命中的光，阿根廷定会胜利",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_21217738",
+          "author": null,
+          "description": "作为第三类医疗器械管理的新型冠状病毒检测试剂盒（抗原检测试剂盒），最近成为了“网红”物资。\n澎湃新闻（www.thepaper.cn）在采访中发现，在各大药店很难买到的抗原检测试剂盒，却可以通过其他非官方渠道购买，而且价格也大幅上涨。\n两周前不到3元，到手后轻易价格翻番出售\n新型冠状病毒抗原检测试剂盒是指新冠抗原自测产品。国家卫健委此前曾表示，核酸检测依然是新冠病毒感染的确诊依据，而抗原检测作为补充手段可以用于特定人群的筛查，有利于提高“早发现”能力 。\n12月7日，国务院联防联控机制综合组发布了《关于进一步优化落实新冠肺炎疫情防控措施的通知》，提出10条新措施，包括无症状及轻型感染者可居家隔离、不再对跨地区流动人员查验核酸和健康码、不再开展落地检等。\n随着疫情防控政策的优化，抗原检测试剂盒的需求量也在阶段性激增。\n澎湃新闻联系到的一位采购人士透露，抗原检测试剂盒前两周的出场价格在2.4元-2.7元一只，如果当时能拿到货，转手价格翻倍轻而易举，“最高的时候有人卖到10块一只，而且货源供不应求。”他这样说道。\n澎湃新闻发现，目前各大线上平台上销售的抗原检测试剂盒都为预售，而且预售日期少则7天，多则10天以上，几乎搜不到有现货的商家。\n一边是抗原检测试剂“一盒难求”，另一边则是出现了不少声称有“大量现货”的个人卖家。澎湃新闻发现，近期，各个社交媒体，朋友圈，小区群等，都开始卖起了抗原。有的号称团购，有的则打出了内部拿货的旗号。\n在药店和线上平台普遍无货，没有现货的抗原测试剂盒为何在非官方的渠道有如此多的货源？\n对于外界抗原检测试剂盒的来源，上述人士称，有些流通的抗原检测试剂盒是工厂以前生产好的库存滞销品，还有的是买家下了订单之后取消的订单。“因为年初有些公司下订单的量比较大，但之后各地相继提供免费的核酸测试后，他们就说不要了。但是这些生产好的厂家也要卖掉，但又不能卖给个人，这时…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_21217738",
+          "publishedOn": "2022-12-19T07:53:06.000Z",
+          "wordCount": 34,
+          "title": "发烫的抗原试剂盒：价格一天一变，已排单到明年，有厂商产能扩4倍",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_21216915",
+          "author": null,
+          "description": "根据当前疫情形势，全国多地正在重新梳理期末教学安排。\n12月18日，福州市教育局决定，12月19日起，鼓楼区、台江区、仓山区、晋安区、马尾区各中学（除初三、高三年级外）、小学三至六年级，全部调整为线上教学。通知称，其余县（市）区教育行政部门可在属地疫情防控指挥部领导下，采取一地一案、一校一策，因地因校制宜对中小学期末工作进行优化调整。\n福州市教育局介绍，初三、高三年级学生正常到校上课，也可自愿申请居家学习。对于居家学习的学生，学校通过“线下教学同步直播+录播”相结合等方式，多形式开展线上教学。\n江苏南京、连云港等地也已明确，中小学校自12月19日起，除初三、高二、高三年级外，全部调整为线上教学。初三、高二、高三年级学生正常到校上课，也可自愿申请居家学习。\n另据《潇湘晨报》报道，日前，长沙市雨花区泰禹小学、雨花区砂子塘魅力之城小学等公办小学向家长发出了学校停止线下教学通知，表示依据学校目前因确诊病例停课班级数量情况，根据省防指相关文件精神，经学校风险研判，报上级部门批准，同意学校从12月19日（下周一）到本学期期末停止线下教学，全校改为居家线上教学。\n与此同时，澎湃新闻另外注意到，山西临汾明确，12月19日起普通高中高三年级学生可返校开展线下教学，其余学段学生原则上继续开展线上教学，返校师生员工，需持48小时内核酸检测阴性证明进入校园。入校后，24小时内完成1次核酸检测，之后每3天开展一次全员核酸检测。\n临汾方面要求，在师生员工返校后，各地各校要严格校园管理措施，例如，实行全封闭管理制度。返校后至放寒假前，校内所有师生员工原则上不进不出；开展精细化健康管理。校内师生除体育活动、睡觉和进食外，其余时间均需按规定佩戴口罩；严格聚集性活动管理。食堂就餐时要固定座位，单人单桌单向就餐；做好通风消毒工作等。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_21216915",
+          "publishedOn": "2022-12-19T07:53:06.000Z",
+          "wordCount": 29,
+          "title": "期末教学紧急调整：全国多地要求毕业年级以外转入线上教学",
+          "imageUrl": null
+        },
         {
           "id": "https://www.thepaper.cn/newsDetail_forward_21223482",
           "author": null,
@@ -4857,6 +4977,76 @@
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
         {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1417673",
+          "author": "Ari Blaff",
+          "description": "Title 42, a public-health measure used to expel illegal immigrants, is set to expire Wednesday.",
+          "link": "https://www.nationalreview.com/news/eric-adams-pleads-for-federal-aid-as-nyc-braces-for-post-title-42-illegal-immigrant-wave/",
+          "publishedOn": "2022-12-19T14:13:07.000Z",
+          "wordCount": 7507,
+          "title": "Eric Adams Pleads for Federal Aid as NYC Braces for Post–Title 42 Illegal Immigrant Wave",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/12/Eric-Adams-4.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1417643",
+          "author": "Ari Blaff",
+          "description": "Musk vowed to abide by the results of the poll.",
+          "link": "https://www.nationalreview.com/news/elon-musks-latest-twitter-poll-reveals-majority-of-users-want-him-gone/",
+          "publishedOn": "2022-12-19T12:39:13.000Z",
+          "wordCount": 7334,
+          "title": "Elon Musk’s Latest Twitter Poll Reveals Majority of Users Want Him Gone",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/12/Elon-Musk-2.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1416738",
+          "author": "John Bruchalski",
+          "description": "From churches to government, pregnant women have many resources available.",
+          "link": "https://www.nationalreview.com/2022/12/abortion-doesnt-help-women-heres-the-support-they-really-need/",
+          "publishedOn": "2022-12-19T11:30:52.000Z",
+          "wordCount": 7809,
+          "title": "Abortion Doesn’t Help Women. Here’s the Support They Really Need",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/12/nurse-pregnant-patient.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1417545",
+          "author": "Joseph W. Sullivan",
+          "description": "The recent job gains look like the job gains that the U.S. was experiencing during a recession that emerged in a world that looks similar to the world today.",
+          "link": "https://www.nationalreview.com/2022/12/jobs-numbers-are-consistent-with-an-inflationary-recession/",
+          "publishedOn": "2022-12-19T11:30:40.000Z",
+          "wordCount": 7606,
+          "title": "Jobs Numbers Are Consistent with an Inflationary Recession",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/12/target-black-friday-2022.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1417458",
+          "author": "Jay Nordlinger",
+          "description": "On the use and abuse of political terms: ‘the people,’ ‘elites,’ ‘workers,’ etc.",
+          "link": "https://www.nationalreview.com/2022/12/the-people-they-say/",
+          "publishedOn": "2022-12-19T11:30:17.000Z",
+          "wordCount": 9142,
+          "title": "‘The People,’ They Say",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2018/06/caps-parade-24.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1417021",
+          "author": "Bobby Miller",
+          "description": "Erdogan is a scoundrel and a menace to the international community.",
+          "link": "https://www.nationalreview.com/2022/12/is-turkey-really-a-u-s-ally/",
+          "publishedOn": "2022-12-19T11:30:10.000Z",
+          "wordCount": 7710,
+          "title": "Is Turkey Really a U.S. Ally?",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/12/erdogan-turkey.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1417583",
+          "author": "Kathryn Jean Lopez",
+          "description": "We must get to know him better.",
+          "link": "https://www.nationalreview.com/2022/12/the-persecuted-is-our-neighbor/",
+          "publishedOn": "2022-12-19T11:30:05.000Z",
+          "wordCount": 8027,
+          "title": "The Persecuted Is Our Neighbor",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/12/christian-church-iraq.jpg?fit=2057%2C1200"
+        },
+        {
           "id": "https://www.nationalreview.com/?post_type=blog-post&p=1417466",
           "author": "Ari Blaff",
           "description": "Northern Iraq has proven to be particularly difficult for local forces to defend.",
@@ -8865,16 +9055,6 @@
           "wordCount": 9070,
           "title": "What Killed Weed?",
           "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/Weed-California.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1397964",
-          "author": "Caroline Downey",
-          "description": "‘The people have spoken. Trump will be reinstated. Vox Populi, Vox Dei,’ Musk wrote.",
-          "link": "https://www.nationalreview.com/news/elon-musk-restores-trumps-twitter-account/",
-          "publishedOn": "2022-11-20T02:09:34.000Z",
-          "wordCount": 7090,
-          "title": "Elon Musk Reinstates Trump’s Twitter Account",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/04/elontrump.jpg?fit=2057%2C1200"
         }
       ]
     }
