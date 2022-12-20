@@ -44,16 +44,6 @@
           "wordCount": 5827,
           "title": "R Weekly 2022-W48 Tests from docs, bar plot best practices, RSelenium tutorial",
           "imageUrl": "https://rweekly.org/public/facebook.png"
-        },
-        {
-          "id": "https://rweekly.org/2022-W47.html",
-          "author": null,
-          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Jon Calder, with help from the R Weekly team members and contributors.\nHighlight\n{codegrip} 0.0.0.9000: Reshaping and navigation commands for R code\nDRY Package Development in R (slides)\nCreating beautiful tables in R with {gt}\nInsights\nPromoting the Use of R in Mali\nrOpenSci News Digest, November 2022\nPreparing to Thrive by Collaborating with Local Universities\nR in the Real World\nrtoot and functional programming\nModeling and simulations for the 2022 FIFA World Cup\nJ.League Soccer 2022 Season Review\n\nResources\nDRY Package Development in R (slides)\nCreating beautiful tables in R with {gt}\nR for Data Analysis\nNew Packages\n📦 Go Live for More New Pkgs 📦\nCRAN\n{figma 0.1.0}: We…",
-          "link": "https://rweekly.org/2022-W47.html",
-          "publishedOn": "2022-11-21T00:00:00.000Z",
-          "wordCount": 5934,
-          "title": "R Weekly 2022-W47 {codegrip}, DRY pkg dev, beautiful tables with {gt}",
-          "imageUrl": "https://rweekly.org/public/facebook.png"
         }
       ]
     },
@@ -62,6 +52,16 @@
       "feedUrl": "https://feedx.net/rss/shanghaishuping.xml",
       "siteUrl": "http://thepaper.cn",
       "articles": [
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_21217681",
+          "author": null,
+          "description": "《波多野太郎博士覆印语文资料提要》卷首的照片（1996.3）\n\n一\n波多野太郎（1912-2003），日本神奈川人，自号湘南老人、江南词客。他在日本中国学界以训诂校勘之学成名，在中国小说戏曲及俗文学研究等方面成就卓著，所著有《中国小说戏曲词汇研究辞典索引篇》《关汉卿现存杂剧研究》《粤剧管窥》《近三十年京剧研究文献精要书目》等。\n他少年时在湘南中学学习，从十七岁开始就对乾嘉学派、戴段二王的考据学心向往之。1930年考取大东文化大学，本科三年、高等科三年、研究科两年，期间受小柳司气太教授（1870-1940）影响，开始关于《老子》学的研究。1937年毕业，先后在东北大学和大东文化大学任教，于1941年春完成《〈老子〉王注校正》初稿。1949年受聘于横滨市立大学，1953年升为教授，一直工作到1977年退休，被该校授予名誉教授称号。他的主要著述，大多是在《横滨市立大学纪要》上以特辑形式出版的。退休之后，又受聘于东洋大学等私立大学，也在早稻田大学、东京外国语大学等校兼课，并指导研究生。直到年过古稀，才放下教鞭，但依然笔耕不辍，多有撰述。\n1956年，广岛大学斯波六郎教授认为波多野太郎的《〈老子〉王注之校勘学的研究》从王弼注的校勘入手研究《老子》，颇多创见，堪称巨著，遂提请学校授予文学博士学位。是年3月，波多野太郎前往广岛接受了此项荣誉。那时日本采用的是“论文博士”方式，用递交代表作来申请授予博士学位。这代表作通常必须是对一个领域做出了卓越贡献，并且得到前辈学者首肯，才能据以授予学位。例如久保天随以《中国戏曲研究》（东京弘道馆，1928）获博士学位，八木泽元以《明代剧作家研究》（东京讲谈社，1959）获得博士学位，都是同一方式。前几年水谷诚教授以《〈广韵〉研究》获得博士学位，据说他是最后一位“论文博士”，因为日本现已改用美制，与中国的做法基本相同。\n在中国语学方面，波多野太郎著有《中…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_21217681",
+          "publishedOn": "2022-12-20T08:02:13.000Z",
+          "wordCount": 151,
+          "title": "黄仕忠｜江南词客潇洒——记波多野太郎先生",
+          "imageUrl": null
+        },
         {
           "id": "https://www.thepaper.cn/newsDetail_forward_21227110",
           "author": null,
@@ -459,6 +459,136 @@
       "feedUrl": "https://feedx.net/rss/thepaper.xml",
       "siteUrl": "http://thepaper.cn",
       "articles": [
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_21239474",
+          "author": null,
+          "description": "国际足联主席因凡蒂诺。（资料图）\n\n据英国《地铁报》等多家英媒12月19日报道，国际足联（FIFA）主席因凡蒂诺希望世界杯每三年举办一次，这一新计划已经得到了亚洲和非洲方面的支持。\n目前，因凡蒂诺希望在未来十年的某个时候实施每三年举办一次世界杯的新计划。据悉，该计划已经得到了亚足联和非洲足联的支持，还需要得到欧足联和南美洲足联的支持才能通过。\n英媒表示，国际足联曾试图将世界杯改为每两年一届，但由于欧足联和南美洲足联此前在投票中反对而被否决。在卡塔尔世界杯取得巨大商业成功后，因凡蒂诺对实施改革充满信心。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_21239474",
+          "publishedOn": "2022-12-20T15:53:07.000Z",
+          "wordCount": 31,
+          "title": "英媒：国际足联主席希望世界杯每三年办一次，已获亚非支持",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_21231189",
+          "author": null,
+          "description": "稳健医疗 视觉中国 资料图\n\n近期，稳健医疗用品股份有限公司（简称“稳健医疗”，300888）抗原收入显著增长。\n12月19日晚间，稳健医疗披露的投资者关系活动记录表显示，近期在抗原试剂实现的收入已超过2022年前面几个月的总和，深圳市亚辉龙生物科技股份有限公司（简称“亚辉龙”，688575）在持续向该公司供应抗原检测试剂盒。\n此前在4月13日，稳健医疗在互动平台表示，该公司新上市的新冠抗原试剂盒是与亚辉龙合作的。\n\n稳健医疗提示，抗原检测试剂产品目前占该公司收入的比重不到1%，请投资者注意投资风险。\n“疫情政策放开之后，民众对N95及KN95口罩、医用外科口罩、抗原检测试剂盒、消毒类湿巾、免洗手消毒凝胶、手套等产品的需求随之增加。”稳健医疗指出，不同于2020年期间防疫产品需求主要源自医院端，此次防疫产品需求则主要源自医院和民众。\n口罩方面，稳健医疗指出，N95口罩和普通口罩相比，原材料、工艺均不同且要求更高。“平面口罩产能转为N95口罩产能不具有可行性。”\n防护服方面，稳健医疗表示，防护服的生产线可以调整为隔离衣的生产线。防护服的需求场景主要为医院和核酸检测点，目前主要是在医院。“在传染病医院领域，公司存在进一步提高市场占有率的空间。”\n对于近期颇受投资者关注的抗病毒面料，稳健医疗介绍道，在医疗板块，抗菌功能性伤口敷料方面，目前有几款产品已取得美国FDA510K的产品注册证书，伤口敷料抗菌效果达99.99%以上。此外，全棉抗菌病人服、刷手衣目前在研发阶段，拓展了全棉材料的应用，提高病人服刷手衣的透气性和舒适度。\n此外，稳健医疗表示，该公司目前已上市的产品还有抗菌抗病毒免洗手消毒液、抗菌的全棉湿巾、有抑菌成分的卫生巾、抗菌的外出服及床上用品等。\n展望未来的产能变化，稳健医疗表示，结合国外疫情走势和国内防疫现状，该公司需综合考虑政策变化和需求情况，审慎决定产能扩张计划。\n公开资料显示，稳健医疗总部位于深圳，通过“winner稳健医疗”及“Purcotton全棉时代”、“PureH2B津梁生活”三大品牌覆盖医疗卫生、个人护理、家庭护理等国内国外多个领域。\n截至12月19日收盘，稳健医疗跌3.86%，报73.07元/股。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_21231189",
+          "publishedOn": "2022-12-20T14:58:04.000Z",
+          "wordCount": 43,
+          "title": "稳健医疗：近期抗原试剂收入已超过2022年前几个月总和",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_21239603",
+          "author": null,
+          "description": "12月20日下午，国务院联防联控机制举行新闻发布会，主题为“介绍重点人群医疗服务有关情况”。免疫规划、病毒学、呼吸及感染疾病、儿童健康等领域专家出席发布会，并回答媒体提问。\n发布会上，有记者提问，有说法认为，因为奥密克戎的无症状比较多，接种疫苗不如抗体，因此认为接种疫苗不如感染奥密克戎。尤其对年轻群体来说，请问专家如何看待这个说法，年轻人是否可以放松对奥密克戎的防护？\n对此，中国疾控中心免疫规划首席专家王华庆表示，虽然我们目前流行的奥密克戎株和过去既往流行的其他型变异株相比，它的致病性有所减弱，但是我们也看到感染上奥密克戎之后还存在重症和死亡的风险，而且这种重症和死亡的风险在各个年龄段都会有所体现，只不过过去我们强调老年人得重症和死亡的风险在整个人群当中比例会更高一些。 \n另外，有基础性疾病的人群比例也会更高，目前已经有多项研究显示，与完成全程或者加强免疫新冠病毒疫苗的人相比，没有接种疫苗的人住院风险和重症风险以及死亡风险比较大，其中也包括青年人和成年人，在这种风险有一定程度存在的情况下，我们可以通过疫苗来降低这种风险。所以我们建议没有接种疫苗的还是要去接种疫苗，没有完成加强疫苗接种的要尽快完成加强疫苗接种，把这种风险在老年人、成年人和青年人当中降到比较低的程度。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_21239603",
+          "publishedOn": "2022-12-20T13:53:07.000Z",
+          "wordCount": 29,
+          "title": "接种疫苗不如感染奥密克戎？中疾控回应",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_21239879",
+          "author": null,
+          "description": "12月20日下午，国务院联防联控机制举行新闻发布会，主题为“介绍重点人群医疗服务有关情况”。免疫规划、病毒学、呼吸及感染疾病、儿童健康等领域专家出席发布会，并回答媒体提问。\n有记者提问，新冠病毒一直在变异，目前主要还是奥密克戎亚分支，请问未来新冠病毒可能发生更大的变化吗？它的演变趋势是什么？是否会出现传染性和致死率都很高的毒株？\n中国疾控中心病毒病所所长许文波介绍，奥密克戎从2021年11月份出现以来，截止到2022年12月18日，已经从BA1到BA5这5个分支演变为709个亚分支，其中重组产生的病毒是72个，SBB就是72种里面的一种。奥密克戎系列毒株变异一直持续下去，只要在人群当中循环，它就会复制，复制就会发生基因组变异，变异有两种形式，一种是病毒本身进行变异导致抗原位点突变，导致免疫逃逸。所以免疫逃逸是为主的，现在它的变异趋势从最早的早期毒株，最初是阿尔法占优势，之后是德尔塔，后来BA1代替了德尔塔，然后BA2代替了BA1，最后BA5代替了BA2。国内对奥密克戎系列毒株都很敏感，所以BA5.2占优势。整个变异的趋势以免疫逃逸为主，免疫逃逸会造成人群传播优势增加，这是它的变异趋势。\n第二，将来它会不会传播力增强，致死能力增强？这个可能性比较小。现在奥密克戎演变出709个亚分支，住院、重症、死亡病例明显低于早期的德尔塔株和其他的VOC变异株，700个分支没有看到重症和死亡增加，将来的变异趋势总体来说变成致病性明显增加的可能性比较小。从整体来说，产生既高传染性，又致病性增高的毒株可能性比较小。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_21239879",
+          "publishedOn": "2022-12-20T13:53:07.000Z",
+          "wordCount": 28,
+          "title": "未来新冠毒株可能发生更大变化吗？如何演变？中疾控专家解读",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_21178772",
+          "author": null,
+          "description": "【编者按】\n一个生命在即将熄灭之时，用自己的余晖照亮了更多在绝望中等待的人们，“从此天各一方血脉相连，让生命突破了生与死的藩篱”。\n2012年7月6日，中国人体器官捐献管理中心成立，十年来，截至2022年12月11日，已实现捐献人数43237人，捐献器官个数131043个，挽救了十多万人的生命。\n“器官捐献，生命永续。”澎湃新闻推出“让生命永续”系列报道，记录一位位器官捐献者的故事，向他们表示深切的感谢和崇高的敬意！\n\n2021年3月31日，全国人体器官捐献缅怀纪念暨宣传普及活动在南京举办，现场向纪念碑献花。\n\n没有器官捐献就没有器官移植。为了从根本上解决器官短缺问题，让器官移植更好地造福于民，我国启动了公民逝世后器官捐献的相关工作。2012年7月，中国人体器官捐献管理中心应运而生。\n十年间，人体器官捐献制度不断在完善优化。2015年1月1日起，我国全面停止司法渠道作为移植供体来源，公民自愿捐献成为唯一合法渠道；2016年建立了人体捐献器官转运绿色通道；2017年通过红十字会法修订案，明确把遗体和人体器官捐献列为红会的法定职责；2020年5月我国首部《民法典》通过，对器官捐献的相关内容作了明确规定……\n过去十年，人体器官捐献行业获得了令人瞩目的成果。2022年12月9日，《中国器官移植发发展报告（2021）》正式发布。报告中显示，2021年，中国完成公民逝世后器官捐献达到5272例。\n\n2020年12月6日，浙江“生命礼敬园”开园。\n\n近日，中国人体器官捐献中心主任侯峰忠接受澎湃新闻专访时表示，人体器官捐献数量稳步增长，缓解了器官严重短缺的状况，挽救了十多万人的生命，服务了医学发展，有效助力了健康中国建设和社会主义精神文明建设。\n他介绍，如今人体器官捐献被社会广泛认可和接受，550多万人登记。仅2020年一年的志愿登记人数就达到了100万人，2021年更是突破了150万人，…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_21178772",
+          "publishedOn": "2022-12-20T12:53:05.000Z",
+          "wordCount": 70,
+          "title": "让生命永续｜人体器官捐献十年：已挽救十多万人生命",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_21231373",
+          "author": null,
+          "description": "近日，重庆、安徽芜湖两地相继提出了机关单位无症状和轻症干部职工可正常上班。\n12月18日，重庆市新型冠状病毒肺炎疫情防控指挥部综合办公室印发《关于进一步优化疫情防控措施的通知》（简称《通知》）。《通知》提出，全市各级党政机关、企事业单位无症状和轻症干部职工根据身体状况和岗位需要，做好个人防护可正常上班。\n根据《通知》，重庆此番进一步优化疫情防控措施是为了“切实将工作重心由防感染转向保健康、防重症、促发展，进一步方便群众生产生活”。\n12月19日，芜湖市新冠肺炎疫情防控暨推进“六稳”工作指挥部办公室印发《关于进一步优化疫情防控措施的通知》称，即日起，全市各级党政群机关、各企事业单位无症状和轻微症状的干部职工可正常上班。\n该通知指出，随着芜湖市新冠感染率不断攀升，为维护正常社会生产生活秩序，保障群众日常生产生活，全市各级党政群机关、各企事业单位无症状和轻微症状的干部职工根据身体状况，结合岗位需求程度，在做好个人防护前提下可上班从事相应工作。\n芜湖官方同时强调，无症状和轻微症状者可以正常上班，并不意味着防护可以松懈。\n此外，浙江省也曾提出过党政机关、企事业单位无症状感染者职工可继续在岗。\n12月18日，浙江省疫情防控工作领导小组办公室常务副主任、省政府副秘书长陈重在发布会在上建议，每一个企事业单位都要重视起来，积极采取措施，提前做好准备，尽量避免同一单位在同一个时间段内产生大面积的感染，努力把疫情的影响降低到最小。\n陈重提出，各单位要加强对员工的健康监测和服务保障，如果员工有发热咳嗽等症状，应该引导其对症处置，保证休息，无症状感染者可视情采取居家隔离等措施，确有需要可在做好个人防护的前提下继续在岗，病情加重视及时就医问诊。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_21231373",
+          "publishedOn": "2022-12-20T12:53:05.000Z",
+          "wordCount": 29,
+          "title": "每日优化｜多地明确：机关单位无症状和轻症干部职工可正常上班",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_21238061",
+          "author": null,
+          "description": "2022年12月20日上午，河南省开封市中级人民法院依法对被告人刘青艺、刘得见故意伤害案进行一审公开宣判，以故意伤害罪分别判处被告人刘青艺无期徒刑，剥夺政治权利终身；判处被告人刘得见有期徒刑八年；判令被告人刘青艺、刘得见共同赔偿附带民事诉讼原告人经济损失共计人民币119240.08元。\n\n经审理查明：杞县苏木乡人许国力在板木乡承包土地种小麦，通过侯堂村村民被告人刘得见联系并雇佣该村村民刘青彦、被告人刘青艺兄弟开收割机收割小麦。2021年6月28日，许国力因欠刘青彦、刘青艺收麦款而请客吃饭，另邀刘得见及前营村村民叶桂申、叶桂起和被害人叶洪青参加。吃饭饮酒期间，许国力和刘青艺、刘青彦计算出收麦款应为1800元，刘青艺主动降价100元，叶洪青要求再降100元，刘青艺表示同意。因刘青彦找不到收款二维码，由刘青艺拿着刘青彦的手机代为操作收取许国力1600元。叶洪青为此嘲讽刘青彦并贬损刘青彦已过世多年的岳父，引起刘青彦、刘青艺不快，刘青彦离开包间。叶洪青与刘青艺发生争吵，叶洪青掂啤酒瓶欲砸刘青艺被许国力劝阻。刘青艺、叶洪青等人先后离开包间至院内，叶洪青高声叫嚷，刘青艺与叶洪青发生厮打，刘青艺用拳头打叶洪青嘴角，叶洪青持不锈钢盆砸刘青艺未果。刘得见从后方搂住叶洪青的腰，叶洪青挣开后追撵刘青艺至饭店大门外，二人继续用拳头往对方脸、头等部位乱打，刘得见也用拳头打叶洪青脸、身上。刘得见被拉开后，刘青艺将叶洪青打倒致其头部着地并朝叶洪青头部跺。叶洪青从地上起来，与刘青艺继续打，被众人拉开。刘青艺、刘得见、叶洪青等人走到五十米外的广信加油站西南角，刘得见叫骂，叶洪青走向刘得见，刘得见朝叶洪青身上跺一脚，叶洪青拽刘得见的腿，二人随即倒地并厮打，被在场人员劝开。前营村村干部叶桂东驾驶电动三轮车将叶洪青送回家。其间，刘青艺之妻吴玉闻讯赶至现场，并于22时41分报警，警察于22时51分到达加油站时叶桂申、…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_21238061",
+          "publishedOn": "2022-12-20T11:53:05.000Z",
+          "wordCount": 33,
+          "title": "河南女子举报父亲被打死案宣判：两被告一人无期一人获刑8年",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_21231331",
+          "author": null,
+          "description": "如今再见着老顾客，梅姐会打招呼，“阳了吗？”多数人回说，“阳了”。\n梅姐也阳过了。她是保定清苑区的一家面馆的老板娘，12月12日，她感染新冠康复后再次开张，偶尔几个没“阳”的顾客会选择打包食物带走，但没有一个人，因为她“阳过”不吃她家的东西，“大家都当成一种感冒似的常态”。\n12月2日起，保定多区停止社区集体核酸，各区县陆续进入常态化管理，商户恢复营业，商场、公共交通等场所不再查验健康码，餐厅开启堂食。\n\n保定。人民视觉 资料图\n\n“解封”后，这座千万级人口的地级市经历了艰难的过渡期。人们接二连三的感染，“中招”就像终究要落地的靴子，之前为“抢菜”发愁的人现在焦虑买不到药，医院的医护感染也变得普遍，“阳性的医生在看护阳性病人”。\n十天后，尽管沿街还有不少店铺在冷风中紧锁，但梅姐的小面馆已经热气腾腾。“阳”过之后，多数人都相信，“发热”潮终会褪去，平静的日常即将归来。\n\n梅姐的面馆恢复经营，除特别标注外，文中配图均为受访者提供\n\n“之前犯愁买菜，现在犯愁买药”\n时间拨回12月初，“解封”之初的保定，有些冷清。\n在清苑开了十年面馆、对街坊口味知根知底的梅姐，守在空荡的店里。顾客少了大半，吃饭基本打包。到午饭点，人也是稀稀拉拉，能凑四五桌就不错了。但她没敢松懈，收完餐具，立马用酒精擦桌、搓手——她老公盯得紧，“一会儿不搓他就嘟囔你”，搓得梅姐觉得手都光溜了。\n店里的酒精喷壶，搁在显眼处，5斤重，两三天就要用完重装；口罩、84消毒液也都备着。本来，店里还有个钟点工，梅姐没让他回来，怕他万一阳了，以后不在店里干了。\n此前的11月29日，保定多个区宣布停止社区集体核酸，居民恢复流动；接着，12月2日起，各区县陆续进入常态化管理。\n那时，梅姐面馆所在的社区群聊有些慌，“大家议论纷纷，核酸不做了，那谁阳了也不知道。”梅姐说，不同以往社区封控一解除，人“哗”地涌店里来，这次放开，大家出行尤其…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_21231331",
+          "publishedOn": "2022-12-20T11:53:05.000Z",
+          "wordCount": 66,
+          "title": "“阳”过的保定，现在怎么样了？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_21217626",
+          "author": null,
+          "description": "4年前的俄罗斯，19岁的姆巴佩初出茅庐，就如一道闪电划过，震惊世界。\n4年后的卡塔尔，当法国队站在悬崖边，是姆巴佩97秒内梅开二度，将比赛拖进了加时。是他在比赛中顶住压力罚中了三个点球，是他上演了帽子戏法。\n也许，35岁的梅西用事实告诉姆巴佩，足坛的权杖和王冠，在今晚没有到交接的时候。但未来，就是姆巴佩的了。\n\n德尚拥抱姆巴佩。\n\n“姆总监”\n在俄罗斯世界杯，姆巴佩独中4球，本届杯赛，他打入了8球，在法国队世界杯射手榜排在第二位，仅次于单届打入13球的方丹，在现役球员中仅仅落后于梅西和托马斯·穆勒。\n在23岁的年纪，姆巴佩每一次在场上拉动引擎都让那些曾经看上去遥不可及的纪录瑟瑟发抖，在一届被外界称为“诸神黄昏”的世界杯上，姆巴佩似乎用行动告诉人们——新王当立。\n事实上，4年前姆巴佩就已经让世界看到了这个苗头，当梅西和C罗都止步于1/8决赛，姆巴佩和他的队友一路杀到决赛，捧走大力神杯。\n\n2022年世界杯决赛，姆巴佩和梅西交手。\n\n在法国与阿根廷的直面中，姆巴佩的表现更是碾压梅西，两个进球、一次造点，在这个年轻人蛮不讲理的速度冲击面前，梅西冠绝世界的技术能力也显得黯然失色。\n这四年间，C罗跌下神坛，梅西也出走大巴黎，双骄进入职业生涯的最后阶段已经是一个不争的事实，而姆巴佩除了竞技层面不断对标前辈外，场外也在时刻搅动着大众的视听。\n他是第一个敢放皇马鸽子的球员，在《转会市场》的身价排行榜上，也长年位居第一。更让人想不到的是，在拥有梅西和内马尔的大巴黎更衣室里，23岁的姆巴佩干脆成为当仁不让的话事人，“姆总监”的称呼已经在球迷群中口口相传。\n\n在大巴黎，姆巴佩是未来，更是现在。\n\n上位，急不可待\n姆巴佩确实膨胀了。\n面对东家，他一面拿着大巴黎开出的世界足坛第一薪水，还能要求中东资本让出100%的肖像权；面对队友，他因为对内马尔不满，一直敦促俱乐部高层开掉巴西人；面对国家队，他出于…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_21217626",
+          "publishedOn": "2022-12-20T09:53:10.000Z",
+          "wordCount": 63,
+          "title": "未来一定是你的，姆巴佩！梅西真心看好你",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_21239453",
+          "author": null,
+          "description": "视频来源：@中新体育(00:09)\n@环球网 消息，据阿根廷体育新闻网站“Tycsports”20日报道，在2022年卡塔尔世界杯夺冠后，阿根廷队乘坐的飞机抵达阿根廷首都布宜诺斯艾利斯。\n\n“Tycsports”网站报道中的视频画面显示，梅西手捧大力神杯下飞机。\n当地时间12月18日，在卡塔尔卢赛尔球场进行的2022卡塔尔世界杯足球赛决赛中，阿根廷队与法国队在常规时间和加时赛战成3比3平，通过点球大战阿根廷队以总比分7比5获胜，夺得冠军。据央视新闻报道，当地时间12月19日，阿根廷政府宣布于当地时间20日全国放假一天，庆祝阿根廷队赢得卡塔尔世界杯冠军。\n另据@中新体育 援引TyC消息，阿根廷全队已抵达机场回到阿根廷，水车摆水门迎接。机场准备了红毯迎接全队凯旋，超20万球迷在机场等待接机。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_21239453",
+          "publishedOn": "2022-12-20T09:53:10.000Z",
+          "wordCount": 44,
+          "title": "视频｜梅西携阿根廷众将凯旋：机场水门迎接，超20万球迷接机",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_21237349",
+          "author": null,
+          "description": "连日来，随着多地新冠病毒感染高峰的来临，相关治疗药物的需求明显增长，其中布洛芬及对乙酰氨基酚等退热药品较为紧缺。\n面对市场变化，记者了解到，多地政府政策持续发力保障产品供应。据记者梳理，包括湖北、山东、浙江等地均在加大保供力度生产布洛芬并投放市场。此外，北京、南京等地实行退烧药拆零销售政策。\n多地实施退烧药拆零销售\n面对退烧类药物一盒难求的现象，多地开始执行“拆零销售”模式。\n12月19日，北京召开新冠疫情防控第432场新闻发布会上，北京市药监局副局长王厚廷表示，对于投放至药店的大包装退烧药严格要求按需拆零销售。\n根据微信公众号“珠海发布”公布的信息，珠海市市场监管局决定自12月20日起，在市内约500多家零售药店持续供应退热类药品作拆零销售要求，市民在指定药店凭身份证线下购买，购买时需登记身份信息，以便查询。其中，布洛芬缓释胶囊、双氯芬酸钠缓释胶囊、洛索洛芬钠胶囊七天内购买量不超过6粒，布洛芬混悬液七天内购买量不超过1瓶。上述品种七天内只能选购其中一种，零售价均为1元/粒，布洛芬混悬液(100毫升装)销售价为19元/瓶。\n此外，为缓解近期购买退热药难的问题，12月19日起，南京市每日持续向市场投放退烧药200万片。12月19日起，153家零售药店统一拆零销售，每个顾客限6粒，凭身份证购买，可以刷医保卡购买。\n对此，医疗战略咨询公司Latitude Health创始人赵衡向《证券日报》记者表示，“拆零销售”指的是消费者按照药品的用法用量购买，而非按照药厂包装的整盒购买。“拆零销售”医院比较常见，药店不常见，这种做法相当于限购。“感染新冠病程一般是三天，按照三天的量购买基本上能够满足。”\n上市公司持续扩产保供应\n布洛芬药品拆零销售，在一定程度上也反映了产品的紧俏程度。记者了解到，为满足市场需求，涉足布洛芬生产的企业纷纷加足马力开工生产。\n“我们正在加班加点生产，积极响应和配合政府和防疫部门的保供需求。”恒瑞医药相关人士向记者介绍。\n新华制药官网发布的消息显示，公司控股股东华鲁集团表示，将集中全力支持新华制药扩大产能保市场供应，确保12月底前实现布洛芬等重点药品产能翻番。\n12月19日，特一药业在投资者互动平台上介绍，根据《新冠病毒感染者用药目录（第一版）》，公司的对乙酰氨基酚片、布洛芬片、双氯芬酸钠肠溶片适用于发热症状，复方氨酚烷胺胶囊适用于发热、流鼻涕、鼻塞、打喷嚏等感冒症状。目前上述产品销售情况良好，公司已满负荷生产，以保障市场需求。\n此外，也有部分企业在现有产能基础上，对相关药品进行“委托生产”。\n12月18日晚，石四药集团在港交所公告称，集团全资附属公司石家庄四药有限公司（石家庄四药）于2022年12月17日与一家国内著名制药公司（委托方）签订了一份合作意向书。根据该意向书，委托方拟委托石家庄四药生产布洛芬缓释片及小儿氨酚黄那敏颗粒，委托生产量分别为每年10亿片至25亿片及每年6500万袋。12月19日，《证券日报》记者联系到石四药集团公司人士，其向记者表示，公司受托生产前述产品，公司已经有相关产线，但目前尚未投产。\n退烧概念股能降温吗？\n随着布洛芬等退烧类药物市场需求短期内快速增长，相关上市公司也引起二级市场追捧。\n例如，新华制药自2022年12月5日至2022年12月16日，公司股价涨幅为115.8%。不过，12月19日，多家退烧药生产企业股价“退烧”，其中新华制药A股股价微跌0.22%，而港股股价大跌12.68%。此外，多家A股退烧药生产企业股价出现跌停。\n对此，巨丰投顾高级投资顾问侯贤平向《证券日报》记者表示，随着新冠疫情防控政策优化，居民积极购药引发全国多地药房布洛芬等退烧药紧缺、供不应求，这一局面也引发了资金对于A股退烧药概念股的追捧。其中，新华制药等作为国内布洛芬原料药市场占比较高的企业，直接迎来了疯狂的炒作。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_21237349",
+          "publishedOn": "2022-12-20T09:23:06.000Z",
+          "wordCount": 30,
+          "title": "多地推行布洛芬等拆零销售，退烧药市场高温渐退",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_21237435",
+          "author": null,
+          "description": "阿根廷队回国庆祝，全国放假\n点球大战击败法国队问鼎世界杯，阿根廷队迎来了狂欢的时刻。\n当地时间12月18日，阿根廷队乘坐大巴在多哈街头举行了巡游，享受了球迷的欢呼，随后他们还将在回到阿根廷之后举行冠军游行。\n\n狂欢庆祝的阿根廷球迷。\n\n据媒体报道，阿根廷队夺冠之后稍作调整，随后带着大力神杯离开多哈。其间他们的航班经停罗马，飞往阿根廷首都布宜诺斯艾利斯，当地时间周一晚上抵达布宜诺斯艾利斯。\n阿根廷国家队官方表示，球队将在当地时间周二中午前往布宜诺斯艾利斯的方尖碑区域进行夺冠巡游，和球迷一同庆祝世界杯冠军。\n此外，阿根廷政府也确认，本周二全国放假一天，以方便全国上下进行世界杯夺冠的庆祝活动。\n值得一提的是，虽然没能夺得冠军，法国队也在回国后举行了集会活动。\n法国足协官方宣布，法国国家队乘坐AF4001航班返回法国，该航班于当地时间下午2点30分左右从多哈起飞，于晚间7点30分左右抵达巴黎。当地时间12月19日晚上8点30分左右，他们在巴黎的协和广场向公众致意。\n\n阿根廷国内如今是一片欢乐的海洋。\n\n阿根廷队获奖金4200万美元\n夺得大力神杯，不仅是一个辉煌的荣誉，更能够带来真金白银的收入。\n阿根廷队夺冠之后，就收获了4200万美元的冠军奖金，而他们的收益还不止于此。\n在夺冠奖金之外，他们还得到了每支世界杯参赛队都能得到的150万美元的备战费用。此外，之前南美足联宣布任何夺冠的南美球队都能拿到1000万美元的奖金。\n再加上一些赞助商的额外奖金，此前多年“赤贫”的阿根廷队这一次可以一举让球队的经济状况大大改善。\n本届世界杯的整体奖金分配方案如下——冠军：4200万美元、亚军：3000万美元、季军：2700万美元、殿军：2500万美元。\n5-8名：总计6800万美元，每队1700万美元、9-16名：总计1.04亿美元，每队1300万美元、17-32名：总计1.44亿美元，每队900万…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_21237435",
+          "publishedOn": "2022-12-20T09:23:06.000Z",
+          "wordCount": 53,
+          "title": "头条世界杯｜阿根廷队奖金4200万美元，本泽马退出法国队",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_21227109",
+          "author": null,
+          "description": "当地时间12月19日凌晨，乌克兰首都基辅再次遭到俄军空袭。乌克兰方面表示，乌防空系统摧毁了飞往基辅的20架无人机中的约15架，但基辅州州长库列巴（Oleksiy Kuleba）表示，此次空袭还是造成了当地民宅的损坏。\n防空问题依然是乌克兰总统泽连斯基最关心的问题之一。他在18日夜间的讲话中，再次呼吁西方国家加强乌克兰的防空力量。\n12月18日，乌克兰赫尔松州议会第一副主席尤里·索伯勒夫斯基（Yuri Sobolevsky）表示，俄罗斯当天对赫尔松地区展开炮击，造成至少3人死亡，6人受伤。\n俄罗斯国防部则在12月18日表示，俄国防部长绍伊古日前赴前线视察了俄军。俄国防部还宣布组建“一线创意旅”，派遣音乐家、歌手甚至马戏团演员等来到前线，鼓舞俄军士气。\n基辅遭空袭后再次停电\n据路透社12月19日报道，乌克兰政府表示，俄罗斯当天空袭了基辅及其附近的“关键基础设施”。\n\n当地时间2022年12月18日，乌克兰基辅，由于停电而使用了发电机照明的圣诞节装饰。视觉中国 图\n\n“本地的防空系统起了作用。”库列巴在Telegram上呼吁基辅民众“待在避难所和安全的地方，直到（防空）警报结束”。\n主要负责为基辅供电的乌克兰YASNO电力公司表示，此次袭击过后，基辅再次停电。\n据美国《华盛顿邮报》12月18日报道，泽连斯基在18日夜间的讲话中称，希望有“足量的现代防空系统保护乌克兰领空”，这也是结束俄乌冲突的“最有力步骤之一”，因为当俄罗斯不能再进行导弹袭击时，将不得不停止其军事行动。\n另据“美国之音”报道，乌克兰驻美国大使奥克萨娜·马卡洛娃（Oksana Markarova）18日在接受美国广播公司（ABC）“本周”（This Week）节目采访时表示：“当我们没有足够的防空系统时，我们看到了会发生什么。”\n马卡洛娃说，俄罗斯导弹摧毁了乌克兰一半的能源网络，应对这种状况的唯一办法是“加强乌克兰…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_21227109",
+          "publishedOn": "2022-12-20T07:53:04.000Z",
+          "wordCount": 61,
+          "title": "持续追踪丨俄再度炮击赫尔松，泽连斯基呼吁西方加强乌防空",
+          "imageUrl": null
+        },
         {
           "id": "https://www.thepaper.cn/newsDetail_forward_21225880",
           "author": null,
@@ -5117,6 +5247,106 @@
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
         {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1418401",
+          "author": "Caroline Downey",
+          "description": "Biden said his father asked him to award his uncle the medal after he became vice president. But both men passed away before he took office.",
+          "link": "https://www.nationalreview.com/news/biden-claims-he-awarded-purple-heart-to-uncle-as-vice-president-his-uncle-died-years-before-he-took-office/",
+          "publishedOn": "2022-12-20T15:54:08.000Z",
+          "wordCount": 7465,
+          "title": "Biden Claims He Awarded Purple Heart to Uncle as Vice President. His Uncle Died Years Before He Took Office",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/12/joebiden.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1418329",
+          "author": "Caroline Downey",
+          "description": "The judge will allow two out of ten election-fraud claims to be heard in court.",
+          "link": "https://www.nationalreview.com/news/arizona-judge-rejects-most-claims-in-kari-lake-election-fraud-lawsuit/",
+          "publishedOn": "2022-12-20T14:35:40.000Z",
+          "wordCount": 7543,
+          "title": "Arizona Judge Rejects Most Claims in Kari Lake Election-Fraud Lawsuit",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/12/Kari-Lake-2.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1418366",
+          "author": "Andrew C. McCarthy",
+          "description": "If anything, the referrals could undermine the DOJ’s building of a successful prosecution.",
+          "link": "https://www.nationalreview.com/2022/12/the-january-6-committees-final-act-pointless-criminal-referrals-of-trump/",
+          "publishedOn": "2022-12-20T14:27:03.000Z",
+          "wordCount": 9102,
+          "title": "The January 6 Committee’s Final Act: Pointless Criminal Referrals of Trump",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/12/J6-Committee.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1418322",
+          "author": "Caroline Downey",
+          "description": "The lawmakers threatened to ‘do anything in our power to thwart even the smallest legislative’ priorities of senators who back the omnibus.",
+          "link": "https://www.nationalreview.com/news/house-republicans-declare-war-on-gop-senators-who-back-lame-duck-spending-bill/",
+          "publishedOn": "2022-12-20T13:05:54.000Z",
+          "wordCount": 7383,
+          "title": "House Republicans Declare War on GOP Senators Who Back Lame-Duck Spending Bill",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/12/Chip-Roy-2.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1418020",
+          "author": "Andrew Follett",
+          "description": "The effort to ‘decolonize light’ is representative of a growing trend: subjecting hard sciences to the woke piety previously afflicting only the humanities.",
+          "link": "https://www.nationalreview.com/2022/12/canadian-government-funds-activist-academics-declaring-war-on-physics/",
+          "publishedOn": "2022-12-20T11:30:56.000Z",
+          "wordCount": 8348,
+          "title": "Canadian Government Funds Activist Academics Declaring War on Physics",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/12/canadian-flag-parliament.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1417952",
+          "author": "Marc Joffe",
+          "description": "Free, up-to-date, readily available data on state and local governments’ finances are the key to more effectively targeting federal aid.",
+          "link": "https://www.nationalreview.com/2022/12/how-to-stop-wasting-money-on-government-bailouts/",
+          "publishedOn": "2022-12-20T11:30:23.000Z",
+          "wordCount": 8028,
+          "title": "How to Stop Wasting Money on Government Bailouts",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/10/gavin-newcom-california.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1418183",
+          "author": "The Editors",
+          "description": "The strategy is clearly all about China.",
+          "link": "https://www.nationalreview.com/2022/12/japans-welcome-defense-spending-boost/",
+          "publishedOn": "2022-12-20T11:30:15.000Z",
+          "wordCount": 7543,
+          "title": "Japan’s Welcome Defense-Spending Boost",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/12/japan-self-defense-force-11.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1417791",
+          "author": "Jay Nordlinger",
+          "description": "On a life-wrecking addiction, U.S. border towns, ‘Big Pharma,’ the World Cup, New York City, porky squirrels, and more.",
+          "link": "https://www.nationalreview.com/2022/12/politics-as-curse-c/",
+          "publishedOn": "2022-12-20T11:30:11.000Z",
+          "wordCount": 8566,
+          "title": "Politics as curse, &c.",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2020/05/qanon-las-vegas.jpg?fit=1600%2C900"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1418026",
+          "author": "Jay Nordlinger",
+          "description": "Journalists who are conservative.",
+          "link": "https://www.nationalreview.com/2022/12/the-conservative-future-an-investment/",
+          "publishedOn": "2022-12-20T11:30:06.000Z",
+          "wordCount": 7462,
+          "title": "The Conservative Future: An Investment",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2018/06/pic_nrd_20180305_brookhiser-rev.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1417756",
+          "author": "Bobby Miller",
+          "description": "Delays and high shipping costs plague our freight network. It’s time to rethink rail.",
+          "link": "https://www.nationalreview.com/2022/12/this-is-no-way-to-run-a-railroad/",
+          "publishedOn": "2022-12-20T11:30:00.000Z",
+          "wordCount": 8985,
+          "title": "This Is No Way to Run a Railroad",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/12/freight-rail.jpg?fit=2057%2C1200"
+        },
+        {
           "id": "https://www.nationalreview.com/?post_type=blog-post&p=1418079",
           "author": "Brittany Bernstein",
           "description": "GOP pollster Wes Anderson said Republicans lost voters by offering ‘no plan, no agenda, no hint of what they will do.’",
@@ -9165,16 +9395,6 @@
           "wordCount": 8185,
           "title": "Understanding the Mormon ‘Approach’ to Gay Marriage",
           "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/11/mormon-temple-salt-lake-city.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1398226",
-          "author": "Ari Blaff",
-          "description": "Some pundits initially speculated that CBS’ move might be the first in a series of media outlets’ rushing to ditch Twitter.",
-          "link": "https://www.nationalreview.com/news/cbs-news-quits-twitter-for-a-few-hours/",
-          "publishedOn": "2022-11-20T20:16:19.000Z",
-          "wordCount": 7109,
-          "title": "CBS News Quits Twitter. . . . For a Few Hours",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/06/twitter-app-thumb.jpg?fit=2057%2C1200"
         }
       ]
     }
