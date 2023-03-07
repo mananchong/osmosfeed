@@ -44,16 +44,6 @@
           "wordCount": 6774,
           "title": "R Weekly 2023-W07 Maintain, Resample, Manipulate",
           "imageUrl": "https://rweekly.org/public/facebook.png"
-        },
-        {
-          "id": "https://rweekly.org/2023-W06.html",
-          "author": null,
-          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Tony ElHabr, with help from the R Weekly team members and contributors.\nHighlight\nPostmortem of my #30DayMapChallenge 2022\nThe oldest R version one can still run today\ndplyr 1.1.0: Joins\nInsights\nPostmortem of my #30DayMapChallenge 2022\nQuarto for the Python user\nThe oldest R version one can still run today\n#39: Faster Feedback Systems – A Continuous Integration Example\nTips for organising your R code\nDecember 2022: “Top 40” New CRAN Packages\nR in the Real World\nHow To Map Any Region of the world using {rnaturalearth} and {sf}\n\nSnow in Montréal (Canada)\nR in Organizations\nImproved permanent URL schema for r-universe.dev\nR in Academia\nBiostatistical Modeling Plan\nNew Packages…",
-          "link": "https://rweekly.org/2023-W06.html",
-          "publishedOn": "2023-02-06T00:00:00.000Z",
-          "wordCount": 5722,
-          "title": "R Weekly 2023-W06 Map learnings, old R, dplyr joins",
-          "imageUrl": "https://rweekly.org/public/facebook.png"
         }
       ]
     },
@@ -461,16 +451,6 @@
           "wordCount": 134,
           "title": "赵刘洋评《中国内陆资本主义与山西票号》︱将经济放回至近代中国的历史现场",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_21777080",
-          "author": null,
-          "description": "一、徽州碑刻及其相关著录\n南宋史学家罗愿在《新安志》中指出：“新安之石不宜于碑，露暴岁久，则剥泐不可读，加以中更寇攘，存者益寡。”不过，尽管因石质所限及兵燹战乱的影响，徽州一地遗存下来的碑刻仍然相当不少。特别是明代中叶以后，随着徽商之崛起，社会生活渐趋繁杂，碑刻之数量遂急剧增多。关于这一点，《袁中郎游记》曾讲述，“公安派”代表人物袁宏道曾与陶望龄、潘之恒等一起游览齐云山，当他看到触目可及的碑碣时，厌恶之情油然而生：“徽人好题，亦是一僻【癖】，薰习成风，朱书白榜，卷石皆遍，令人气短！”袁中郎一向反对复古模拟风气，强调应直接抒发人的性灵，表达真实情感。在他眼里，随处皆在的碑刻，其实是“俗士毁污山灵”。不过，揆诸实际，“徽人好题”的结果，是促使各类文献（包括对联、碑刻）之数量大为增加。\n1935年，杭州西泠印社创始人之一、著名金石学家叶为铭撰有《徽州访碑记》，其中罗列了《宋建炎三年造大圣菩萨宝塔碑》和《明嘉靖二十三年叶晴重修宋塔碑记》。叶氏在文中提及：\n吾四世祖义公，于明永乐七年由郡城北门附郭迁居新州，而辟地建置，则自五世祖蓁公通籍后经营之。宅左立庙，即今宗祠也。祠左尚存古塔，刊有宋建炎三年建筑记，又有明嘉靖二十三年九世祖晴春公修葺记，叙述源流，明晰无遗，攸关故乡文献、吾族历史。故予于今秋赴歙，椎拓石刻，并摄塔影，以备续修邑志、家乘之采辑。（《浙江省立图书馆馆刊》第4卷第5期，1935年，79-81页）\n\n叶为铭：《徽州访碑记》\n\n新州一地位于歙县北郊，1980年代当地曾发现新石器时代的村落遗址。北宋宣和三年（1121年）歙州改名徽州后，此处一度为州治所在，据说当地迄今尚存有宋城墙遗迹。叶为铭提及的“古塔”（大圣菩萨宝塔）俗称新州石塔，位于今歙县第二中学校园内，该塔全用赭色麻石凿砌而成，高四米六，五层，八面形体，正、背两面刻有南宋建炎建塔和明朝嘉靖重修之铭记，数十年前就被列为安徽…",
-          "link": "https://www.thepaper.cn/newsDetail_forward_21777080",
-          "publishedOn": "2023-02-06T04:02:08.000Z",
-          "wordCount": 112,
-          "title": "王振忠︱镌刻在青石上的历史记忆",
-          "imageUrl": null
         }
       ]
     },
@@ -479,6 +459,126 @@
       "feedUrl": "https://feedx.net/rss/thepaper.xml",
       "siteUrl": "http://thepaper.cn",
       "articles": [
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_22164195",
+          "author": null,
+          "description": "3月7日，外交部长秦刚出席两会外长记者会并就“中国外交政策和对外关系”相关问题回答中外记者提问。\n有记者提问，俄乌冲突至今已经持续了一年多时间。近来一些美西方舆论把矛头指向中国，要求中国不要向俄罗斯提供致命性援助，渲染“中国特殊责任论”，甚至认为只有中国才可以结束这场战争，请问您对此怎么看？\n秦刚表示，乌克兰危机本来是一场可以避免的悲剧，发展到今天这个地步，教训惨痛，值得各方深刻反思。乌克兰危机的本质是欧洲安全治理矛盾的大爆发，它有着复杂的历史经纬和现实原因。 \n我们始终根据事情的是非曲直，独立自主作地出我们的判断，决定我们的立场，在和平与战争之间我们选择和平，在对话与制裁之间我们选择对话，在降温与拱火之间我们选择降温。中国既不是危机的制造者，又不是危机的当事方，也没有向冲突任何一方提供武器，凭什么要向中国甩锅推责，制裁施压甚至威胁，对此我们绝不接受。\n前几天，我们发布了关于政治解决乌克兰危机的中国立场文件，提出尊重各国主权，摒弃冷战思维，停火止战，启动和谈等12项主张，核心就是劝和促谈。然而令人遗憾的是劝和促谈的努力一直遭到破坏，似乎有只看不见的手在推动冲突延宕升级，借乌克兰危机达到某种地缘政治意图。\n当前，乌克兰危机到了紧要关头，要么停火止战、恢复和平，走上政治解决的正轨，要么火上浇油、扩大危机，陷入失控的深渊。冲突、制裁、施压解决不了问题，现在需要的是冷静、理智、对话。和谈进程应该尽快开启，有关各方合理的安全关切都应该得到尊重，从而找到欧洲长治久安之策。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_22164195",
+          "publishedOn": "2023-03-07T15:53:12.000Z",
+          "wordCount": 30,
+          "title": "秦刚谈乌克兰危机：本质是欧洲安全治理矛盾的大爆发",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_22162809",
+          "author": null,
+          "description": "【访谈摘要】\n全国人大代表，广西壮族自治区桂林市委副书记、市长李楚：\n►桂林始终将打造世界级旅游城市作为重大政治任务，举全市之力，集全球之智。\n►疫情三年来，桂林奋力坚守，勤练内功。桂林文旅复苏的春天已经到来。\n►打造一批“外地人想去必去、本地人愿去常去”的网红打卡地。 \n►人人争当“二郎神”，个个都是城市形象代言人。\n►像守护生命一样守护漓江、像爱护眼睛一样爱护桂林山水，让“桂林山水甲天下”的金字招牌更加闪亮。\n►加快建设农业强市，当好全区乡村振兴排头兵。\n►桂林坚持把乡村振兴作为“三农”工作的总抓手，连续两年获自治区乡村振兴实绩考核第一名。\n\n“舟行碧波上，人在画中游。”桂林以其别具一格的奇美景致名扬天下。山山水水是桂林最闪亮的金字招牌，需要一代代人守护。\n2021年4月，习近平总书记在桂林考察时赋予了桂林打造世界级旅游城市的重大使命。他指出，桂林山水甲天下，天生丽质，绿水青山，是大自然赐予中华民族的一块宝地，一定要呵护好。\n今年全国两会期间，全国人大代表，广西壮族自治区桂林市委副书记、市长李楚在接受澎湃新闻专访时表示，桂林始终将打造世界级旅游城市作为重大政治任务，举全市之力，集全球之智，取得阶段性成效。建议大力支持桂林承办更多重要国际会议、国际论坛、国际活动，为打造桂林世界级旅游城市注入更多的国际元素。\n今年春节黄金周，桂林旅游市场实现开门红，共接待游客375.80万人次，同比去年增长77.89%；实现旅游消费34.61亿元人民币，同比增长75.67%。\n“疫情三年来，桂林奋力坚守，勤练内功。我们感到桂林文旅复苏的春天已经到来。”李楚告诉澎湃新闻，下一步，桂林将打造文旅IP，打造一批网红打卡地，让外地人想去、必去，本地人愿去、常去。\n【对话李楚】\n使命重大，举全市之力集全球之智\n澎湃新闻：桂林被赋予“打造世界级旅游城市”的重大使命。按照“世界眼光、国际标准、中国风范、…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_22162809",
+          "publishedOn": "2023-03-07T14:53:12.000Z",
+          "wordCount": 73,
+          "title": "中国市长访谈录｜桂林市长李楚：“引爆”桂林旅游，迎接文旅复苏的春天",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_22164131",
+          "author": null,
+          "description": "本届U20亚洲杯小组赛开始前，没有人看好分在“死亡之组”的U20国足能够小组出线。\n而第二场和沙特比赛前，球队也习惯性遭遇输球就提前淘汰的局面……\n\n中国队赛后滑跪庆祝。\n\n但这一次，小伙子们在对阵沙特的比赛中完成自我救赎，2-0爆冷击败卫冕冠军的同时，把小组出线主动权牢牢掌握在自己手中。\n下一场，只要击败吉尔吉斯斯坦就能出线——但U20国足依然需要在生死战前找准定位，拒绝轻敌。\n\n整场比赛，中国队数据统计落于下风。\n\n放弃控球权\n24.1%对75.9%，这是中沙两队本场比赛的控球率，射门方面中国队也8比16大幅度落后，然而放弃控球权的U20国足最终2-0赢下了比赛。\n整体来说，前两场小组赛对阵强敌日本和沙特，中国队基本上都采取了交出球权，稳守反击的战术。\n其他主要数据统计，中国队同样全面处于下风——传球183次，对手多达558次；传球准确率中国队也只有47%，对手达到了83%；角球数中国队2次，对手9次；中国队犯规数多达16次，黄牌3张。\n\nU20国足终于扬眉吐气。\n\n其实对阵日本队的比赛，中国队同样输掉了技术统计——控球率只有23%；传球162次对577次；传球成功率更是刚刚超过对方的一半（46.9%对84.4%）；射门则是4对25，射正2对9。\n虽然安东尼奥是西班牙主帅，照理应该是传控足球风格，但是在洲际比赛面对强敌，安东尼奥非常务实地采取了密集防守战术，首先稳固防守随后伺机反击。\n两场比赛总体来说，防守没有出现太大纰漏——首战中国队本有机会拿分，对方两个进球存在越位和手球嫌疑；但次战中国队也可能输球，沙特队下半场远射击中门柱，如果皮球弹进球门，那么沙特也许就此打开胜利之门……\n\n沙特队扎伊德禁区外一脚远射击中立柱。\n\n这样的技战术，通过转播画面很容易读懂，因此安东尼奥赛后也不愿意多说，“沙特和日本是两个不同的对手，所以不可能用相同的战术。日本队员是一直在不断地传球、…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_22164131",
+          "publishedOn": "2023-03-07T14:53:12.000Z",
+          "wordCount": 67,
+          "title": "U20国足逆袭沙特，以弱胜强的战术布置值得中国足球参考",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_22166603",
+          "author": null,
+          "description": "关注国务院机构改革！一文速览国务院机构改革方案。\n​​重组科学技术部\n根据国务院关于提请审议国务院机构改革方案的议案，重新组建科学技术部。加强科学技术部推动健全新型举国体制、优化科技创新全链条管理、促进科技成果转化、促进科技和经济社会发展相结合等职能，强化战略规划、体制改革、资源统筹、综合协调、政策法规、督促检查等宏观管理职责，保留国家基础研究和应用基础研究、国家实验室建设、国家科技重大专项、国家技术转移体系建设、科技成果转移转化和产学研结合、区域科技创新体系建设、科技监督评价体系建设、科研诚信建设、国际科技合作、科技人才队伍建设、国家科技评奖等相关职责，仍作为国务院组成部门。\n将科学技术部的组织拟订科技促进农业农村发展规划和政策、指导农村科技进步职责划入农业农村部。将科学技术部的组织拟订科技促进社会发展规划和政策职责分别划入国家发展和改革委员会、生态环境部、国家卫生健康委员会等部门。将科学技术部的组织拟订高新技术发展及产业化规划和政策，指导国家自主创新示范区、国家高新技术产业开发区等科技园区建设，指导科技服务业、技术市场、科技中介组织发展等职责划入工业和信息化部。将科学技术部的负责引进国外智力工作职责划入人力资源和社会保障部，在人力资源和社会保障部加挂国家外国专家局牌子。\n深化财政科技经费分配使用机制改革，完善中央财政科技计划执行和专业机构管理体制，调整科学技术部的中央财政科技计划（专项、基金等）协调管理、科研项目资金协调评估等职责，将科学技术部所属中国农村技术开发中心划入农业农村部，中国生物技术发展中心划入国家卫生健康委员会，中国21世纪议程管理中心、科学技术部高技术研究发展中心划入国家自然科学基金委员会。\n国家自然科学基金委员会仍由科学技术部管理。\n科学技术部不再保留国家外国专家局牌子。\n组建国家金融监督管理总局\n根据国务院关于提请审议国务院机构改革方案的议案，组建国…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_22166603",
+          "publishedOn": "2023-03-07T14:23:15.000Z",
+          "wordCount": 28,
+          "title": "一文速览国务院机构改革方案",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_22164179",
+          "author": null,
+          "description": "3月7日，外交部长秦刚出席两会外长记者会并就“中国外交政策和对外关系”相关问题回答中外记者提问。\n有记者提问，我们关注到近一段时间以来，美国的一些智库和官员在持续炒作中美在台海发生冲突，一些人甚至预测冲突的时间就在2027年或者2025年，还有一些媒体爆料说美国已经制定了摧毁台湾的计划，所以想请问秦部长，你如何看待当前的台海局势？您认为中美在台海发生冲突的风险有多大？\n秦刚表示，我知道今天肯定要问到台湾问题，所以我特地带来了一本《中华人民共和国宪法》回答你的问题，我首先引用《中华人民共和国宪法》序言里的两句话：“台湾是中华人民共和国的神圣领土的一部分，完成统一祖国的大业是包括台湾同胞在内的全中国人民的神圣职责。”\n台湾问题怎么解决是中国人自己的事，任何外国无权干涉。最近，有美国高官声称台湾问题不是中国的内政，对此我们坚决反对并保持高度警惕。对于两岸来说，我们都有一个家，名字叫中国。作为骨肉同胞，我们将继续以最大诚意，尽最大努力实现祖国和平统一，同时保留采取一切必要措施的选项。中国《反分裂国家法》对此规定得很明确，如果出现了违反该法的情况，我们必须依宪依法行事。任何人都不要低估中国政府和中国人民捍卫国家主权和领土完整的坚强决心、坚定意志和强大能力。\n台湾问题是中国核心利益中的核心，是中美关系政治基础中的基础，是中美关系第一条不可跨越的红线。台湾问题之所以产生，美国负有不可推卸的责任，我们之所以同美国谈台湾问题，是要求美方不要干涉中国内政。中国人民有权问为什么美方在乌克兰问题上大谈尊重主权和领土完整，却在中国的台湾问题上不尊重中国的主权和领土完整；为什么一边要求中方不向俄罗斯提供武器，一边却长期违反八一七公报向台湾售武，一边口口声声说维护地区和平稳定，一边却暗地里制定了摧毁台湾的计划。    \n台湾分裂与台海和平稳定水火不容，台海和平稳定的真实威胁是“台独”分裂势力，定海神针是一个中国原则，真正的护栏是中美三个联合公报。台湾问题处理不好，中美关系地动山摇。如果美方真的希望台海风平浪静，就应该停止“以台制华”，回归一个中国原则的本源本意，恪守对中方作出的政治承诺，明确反对和制止“台独”。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_22164179",
+          "publishedOn": "2023-03-07T13:53:08.000Z",
+          "wordCount": 32,
+          "title": "秦刚谈台湾问题：台湾问题处理不好，中美关系地动山摇",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_22164192",
+          "author": null,
+          "description": "3月7日，外交部长秦刚出席两会外长记者会并就“中国外交政策和对外关系”相关问题回答中外记者提问。\n新加坡《海峡时报》记者提问，一些观察者认为您被任命为外交部长是中国正采取一种更加柔和的外交方式的体现，是抛弃被称为“战狼外交”的独断的国际关系风格的信号。中国真的偏离了以往被视为强硬的标签吗？   \n秦刚表示，这是个有意思的问题。记得我刚到美国任大使的时候，美国媒体惊呼“中国战狼来了”，现在我回来当外长了，这称号又不给我了，我还真有点若有所失。其实所谓的“战狼外交”就是一个话语陷阱，制造这个话语陷阱的人要么不懂中国和中国外交，要么无视事实，别有用心。2000多年前，孔夫子就说过“以德报德，以直报怨，以德报怨，何以报德？”中国的外交有足够的厚道与善意，但当豺狼当道，饿狼来袭时，中国的外交官必须与狼共舞，保家卫国。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_22164192",
+          "publishedOn": "2023-03-07T12:53:08.000Z",
+          "wordCount": 31,
+          "title": "秦刚谈“战狼外交”：当豺狼当道，中国外交官必须与狼共舞",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_22163870",
+          "author": null,
+          "description": "3月7日上午10时，刚刚履新三个多月的外交部长秦刚，将首次亮相全国两会外长记者会，就“中国外交政策和对外关系”相关问题回答中外记者提问。\n长期以来，外长记者会都是两会期间最受国内外关注的发布会之一，也是国际社会了解中国外交政策、对外关系的主要窗口。\n而即将召开的这场外长会时值关键节点：今年既是全面贯彻党的二十大精神的开局之年，也是改革开放45周年，我们所处的世界正朝着百年未有之大变局加速演进。\n值此背景，秦刚将如何回应外界对当前国际热点问题的关切，阐述中国发展对外关系的最新立场；又将怎样介绍今年中国外交的重点任务，为开局之年的大国外交奠定基调，值得关注。\n需要指出的是，此次外长记者会创下多个“首次”，不仅是秦刚外长本人首次出席，也是二十大之后的首次外长记者会，更是我国疫情防控进入“乙类乙管”常态化防控阶段后的首次外长记者会。澎湃新闻（www.thepaper.cn）从权威渠道处了解到，与过去三年不同，今年的外长记者会将重回线下，届时秦刚会与中外记者齐聚北京梅地亚中心，面对面展开对话。此外，今年的外长记者会除了将使用英文交传外，还将通过法文、德文、俄文、日文等多种语言同步同传进行。\n新外长两会“首秀”\n在外界看来，今年外长记者会的新增看点之一就在于新外长秦刚本人的首次亮相。\n澎湃新闻注意到，多家主流外媒都已“预告”3月7日的这场外长会。半岛电视台、美国消费者新闻与商业网站（CNBC）等强调了这是秦刚首次以外长身份出席两会，回答记者提问；而英国广播公司（BBC）则关注秦刚将展现出何种外交风格。\n在担任外长之前，秦刚是第11任中国驻美大使。在美开展工作的524天里，面对中美关系中出现的诸多严峻挑战以及复杂动荡的国际局势，肩负“破局”重任的秦刚，在中美之间铺设沟通的桥梁与纽带：访问美国22个州，既注重与政府、国会、智库、媒体的接触，准确、及时地阐释中国的内外政策与立场。同时，也心系…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_22163870",
+          "publishedOn": "2023-03-07T10:53:08.000Z",
+          "wordCount": 40,
+          "title": "前瞻｜秦刚亮相外长记者会创多个首次，开局之年中国外交有何看点？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_22166429",
+          "author": null,
+          "description": "根据国务院关于提请审议国务院机构改革方案的议案，精减中央国家机关人员编制。中央国家机关各部门人员编制统一按照5%的比例进行精减，收回的编制主要用于加强重点领域和重要工作。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_22166429",
+          "publishedOn": "2023-03-07T10:53:08.000Z",
+          "wordCount": 29,
+          "title": "国务院机构改革方案提请审议：中央国家机关人员编制按5%比例精减",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_22163851",
+          "author": null,
+          "description": "“据报道，51%的中老年人日均上网时长超过4小时。但是，能够真正从关爱老人角度出发的电视内容和新媒体内容少之又少。”今年全国两会期间，全国政协委员、南方科技大学副校长、商学院代理院长金李在提案中提出了“银发内容供需严重失衡”的问题。\n澎湃新闻（www.thepaper.cn）从金李委员处获悉，今年他将提交提案《关于鼓励银发内容创作，提升老年人精神生活质量的建议》。提案中写道，银发内容的题材包括老年人文娱生活、老年人护理科普、老年人心理健康、老年人创新与学习、老年人理财、代际沟通等。在金李委员看来，“优质的银发内容对老年人精神生活有着正面的引导和积极的影响。”\n对于“银发内容供给不足”的现状，金李委员在提案中分析道，2022年末，我国60岁及以上人口2.8亿，占全国人口的19.8%，且老龄化呈加速之势，预计“十四五”期间，老龄人口将突破3亿，占总人口比重将超过20%。然而，目前影视剧等综艺节目的银发内容却不足2%。最近5年，优质的银发综艺内容代表作仅有《花样爷爷》《忘不了餐厅》《宝贝的新朋友》《屋檐之夏》等不到10部作品。\n他分析道，近十年来，全国收看电视的观众逐年下降，只有55岁及以上的中老年群体收视情况保持平稳，这说明中老年人保留着收看电视的习惯。据报道，51%的中老年人日均上网时长超过4小时。但是，能够真正从关爱老人角度出发的电视内容和新媒体内容少之又少。银发内容供需严重失衡。\n在他看来，银发内容的缺失，主要原因是投入产出比低，众多电视台和网络视频平台动力不足。年轻态内容收益较高，赞助商偏向年轻消费者，而银发内容则无法产生巨额收益。电视台同样也追求经济效益，在歌唱、选秀等节目上投入巨资，以期获得大额赞助。\n他总结了银发内容市场中的一种“怪现象”：一方面，优质、科学的内容产出少。另一方面，大量虚假广告、谣言等劣质信息在老年人圈层中大量流传。银发内容市场中出现了“劣币驱逐良币”的现象。\n为此，金李委员建议把银发内容作为一项“国家养老工程”。\n他写道，呼吁国家把银发内容视为“养老工程”，加大重视力度。一是规定电视台的健康银发内容须占有一定时长比例；二是鼓励新媒体重点推送优质银发内容，并且严加审查，避免劣质内容扩散传播；三是各级政府给予优质银发内容创作一定程度的政策激励和资金扶持，提高内容生产者的创作兴趣和动力。\n“期待在不远的未来，所有老年人都能在优质的银发内容中了解更多科学知识，得到丰富的精神满足，享受高质量的老年生活。”金李委员在提案中写道。\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.best",
+          "link": "https://www.thepaper.cn/newsDetail_forward_22163851",
+          "publishedOn": "2023-03-07T09:53:07.000Z",
+          "wordCount": 32,
+          "title": "金李委员呼吁关注“网瘾老年”：媒体要多为老年人创新内容",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_22163129",
+          "author": null,
+          "description": "微博@中国天气 图\n\n今天（3月6日），全国大部地区的回暖形势如火如荼。截至14时，北京、天津、郑州等全国14个省会直辖市气温创下今年来新高，其中，郑州为今年北方首个站上25℃的省会级城市。\n今天进入惊蛰节气，中东部的气温也在大踏步地回升。监测显示，截至今天14时，郑州、武汉、合肥、长沙、南昌、杭州、南京、济南、上海、石家庄、西安、北京、天津、太原共14个省会直辖市气温均在20℃以上，并刷新了今年来新高。其中，郑州、武汉、长沙为今年首次冲上25℃，同时，郑州还是今年北方首个上25℃的省会级城市。此外，今日北京气温打破3月上旬最高纪录（原纪录为2008年3月10日的22.3℃）。\n中国天气网气象分析师石妍表示，与常年同期相比，今天郑州、武汉、长沙气温偏高12℃左右，天津、太原偏高10℃左右，暖意大幅超前。\n这样同期罕见的暖热还将继续升级，今年3月上旬或将挑战历史最暖纪录。预计，3月9日至10日，全国各地的回暖将达到高潮，最高气温20℃以上的范围将囊括华北、西北地区东部及其以南的大部地区，尤其是中原周边一带，气温可以逼近或超过30℃，提前体验到立夏甚至小满时节才该有的热度。大城市中，济南、郑州、石家庄、太原、合肥、武汉等地都有可能创下3月上旬最高气温连续20℃以上最长天数纪录，可以拭目以待。\n大回暖浪潮如火如荼进行中，与此同时，一股强冷空气也在悄悄蓄力。预计3月11日前后，我国中东部地区将迎来冷暖大转折，大风、沙尘、降温、雨雪天气都会轮番上演。\n目前来看，由于当下气温异常偏高，冷空气到来时，降温的空间也将非常大。预计从北方到江南的大部地区最高气温降温幅度可达10℃以上，西北、华北、黄淮多地累计降幅或超15℃，甚至20℃，短短两三天气温将实现“速降”，由异常偏高转为偏低水平。中国天气网提醒公众不要着急收起冬衣，密切关注临近预报，根据气温变化及时调整着装，避免着凉感冒。\n\n一图看这波天气升温有多猛。 @央视新闻 图\n\n【更多阅读】\n@中国天气 消息，截至3月6日16时，15个省会直辖市气温创今年新高：\n太原21°C\n西安23.8°C\n天津22.4°C\n石家庄 24.1°C\n北京23°C（打破3月上旬最高气温记录）\n乌鲁木齐12.7°C\n济南24.3°C\n郑州27.6°C\n合肥26.6°C\n武汉26.9°C\n南京24.6°C\n上海23.7°C\n杭州24.9°C\n长沙26.5°C\n南昌25.2°C",
+          "link": "https://www.thepaper.cn/newsDetail_forward_22163129",
+          "publishedOn": "2023-03-07T08:53:07.000Z",
+          "wordCount": 47,
+          "title": "北京等14城气温创今年新高，或挑战历史最暖纪录",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_22163822",
+          "author": null,
+          "description": "董明珠 视觉中国 资料图\n\n8小时工作制是国家法律规定的每日工作时间。然而近年来，一些行业和企业存在违反8小时工作制度的情况，甚至部分企业让“996”成为常态。\n建议允许企业弹性安排法定节假日\n对于8小时工作制，全国人大代表、格力电器董事长兼总裁董明珠日前在接受央广网采访时回应，从爱护员工的角度看，如果一天6小时就能解决问题，6小时工作制也可以，但是在这个过程中最大的问题是法定节假日，没有让企业有空间来支配休假时间。因此，董明珠建议允许企业弹性安排法定节假日。\n董明珠解释，例如我们制造业，大量的装备维修都在节日期间才可以去进行设备保养，所以应该给企业这个自主权，允许企业结合不同工种特点，在取得员工本人同意的情况下灵活制定具体的调休政策。但其中要注意的是，企业必须保证按照国家规定把一年所有节假日休完。\n如何提升员工的幸福感\n员工幸福感对于企业长期稳定发展具有重要意义。董明珠接受央广网专访时表示，可以通过三方面提升员工幸福感：\n1.共同富裕，例如通过税收调节，提高个税起征点等方式可以实现共同富裕；\n2.要实现公平，公平才能让每一个人感觉到幸福；\n3.企业需要有活力。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_22163822",
+          "publishedOn": "2023-03-07T08:53:07.000Z",
+          "wordCount": 38,
+          "title": "董明珠代表谈8小时工作制，建议允许企业弹性安排法定节假日",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_22163170",
+          "author": null,
+          "description": "“之前面试HR（人力资源）问我结婚了没有？近期有没有生育计划，我想知道面试男性时问不问这些？”\n“自己的亲身经历，要求保证3年内不要孩子。”\n“朋友有机会升职，想要二胎都推迟了，就怕怀孕升不了。”\n职场女性就业歧视、职场女性被迫“隐孕”话题引起大量网友共鸣。3月6日，澎湃新闻（www.thepaper.cn）记者采访了4位全国人大代表、全国政协委员，围绕职场女性就业歧视谈谈观点和看法。\n如何消除孕期职场女性的顾虑\n全国人大代表、中国铁路上海局集团有限公司财务部运营成本科副科长朱丽平认为，担心被降薪、辞退、影响试用期转正、升职加薪等，是一些孕期职场女性的主要顾虑，也是职场女性无奈选择“隐孕”的重要原因。\n朱丽平向澎湃新闻记者表示，从企业单位角度来说，怀孕的女员工，其孕产期间带来的岗位空缺成本或增加。这会加重用人单位对女员工怀孕的排斥，特别是一些效益不太好的企业单位，这种排斥心理可能会更明显。\n全国政协委员、上海市闵行区莘庄镇康城社区党委专职副书记张军萍告诉澎湃新闻记者，前段时间，话题“女子入职虚报婚育情况被解除劳动合同”冲上热搜，法院最终判决“女子入职虚报婚育情况被解除劳动合同违法。”这一判决结果，让在求职就业时因为性别被限制的女性看到了曙光。今年起施行的《上海市妇女权益保障条例》明确提出，为妇女创造公平的就业创业环境，防止和纠正就业性别歧视。\n市妇联：进一步细化针对性别歧视的劳动保障监察规定\n以妇联界别参加本次全国两会的张军萍透露，在今年上海“两会”期间，上海市妇联从加强顶层设计和改善民生出发，对女性权益保障等问题提交了提案。\n市妇联建议：进一步细化针对性别歧视的劳动保障监察规定，明确针对性别歧视开展劳动保障监察的形式、调查和检查的措施、处理方式等，切实发挥制度作用；探索人社部门和妇女联合会联动统一的合作模式和工作方式，进一步完善约谈机制；进一步加强宣传提高反性别歧视的认识。\n朱丽平建议，从国家层面制定机制制度，在劳动者、用人单位以及国家之间，合理分配女职工孕产期产生的成本，创造一个全方位的合理的综合保障体系。特别关心非公有制企业女职工生育权等合法权益的落实情况，探索对育龄女职工达到一定数量的企业，财政适当给予一定的补贴。\n建议采取措施鼓励男性共同休生育假\n全国政协委员、上海市闵行区副区长刘艳表示，在当前社会背景下，妇女承担了较大的生育成本。部分职场女性同志担心怀孕后会被降薪、辞退，或是不得不离开职场哺育幼儿，为此选择了不孕、推迟生育或隐瞒怀孕事实，以避免影响试用期转正、升职、加薪等。\n在她看来，女性就业歧视问题，背后的根源是用工成本的性别差异，政府不仅要从立法方面进行保护女性就业，更要改善这项根源差异。\n刘艳建议，可以延长陪产假的期限，并将其改为育儿假的组成部分，并且加强执法力度，予以强制执行；采取措施鼓励男性共同休生育假，而非仅为生育女性延长产假等，从根本上使得女性和男性的用工成本接近持平，从而真正改善女职工就业歧视问题。\n刘艳说，政府还需进一步完善生育保障制度，打造生育友好型职场环境，增加普惠性托育服务供给，鼓励用人单位、社会力量共同参与托育服务。同时，严格将性别歧视纳入劳动保障监察范围，保障职场妇女合法权益。\n全国政协委员、上海普陀区副区长王珏表示，按照不完全的统计，全国有28个省、区、直辖市在修订各地人口与计划生育条例时，对育儿假相关事宜进行了规定。其中，所有的育儿假都是适用于夫妻双方的，大部分地区对育儿假是强制推行的，北京、河北等地还对不执行强制育儿假的违法行为明确了处理规定。也有少部分省市，如重庆、吉林、青海等，采用的是鼓励推行育儿假的方式。内蒙古、上海、重庆等地，还细化规定了育儿假期间的工资、奖金和福利等待遇。所有这些规定，总体上都对鼓励生育起到了积极的作用。另一方面，由于相对于产假和哺乳假是为母亲设的，育儿假是为夫妻双方设的，也有人认为，在某种程度上可以缓解对女性就业歧视的问题。\n王珏认为，女性就业，是女性发展的重要问题。女性就业歧视问题，是在经济社会发展、文化和习俗形成过程中，长期存在的一个问题。女性就业歧视的消除，不是一朝一夕、通过一项规定、一个强制育儿假就能解决的，而是需要政府、企业、社会、以及女性群体和每一个女性个体长期共同努力，通过法律、政策、经济、社会治理、教育和自我教育等综合性措施来逐步解决。希望有更多的政府部门、企业家、有识之士关注女性就业问题，也希望每一个女性为自身的完善和健康发展不断努力。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_22163170",
+          "publishedOn": "2023-03-07T08:53:07.000Z",
+          "wordCount": 38,
+          "title": "两会热议｜职场女性被迫隐孕遭遇性别歧视？代表、委员提建议",
+          "imageUrl": null
+        },
         {
           "id": "https://www.thepaper.cn/newsDetail_forward_22163773",
           "author": null,
@@ -7318,76 +7418,6 @@
           "wordCount": 123,
           "title": "爆红的“加特林”和逆境求生的花炮之乡",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_21807554",
-          "author": null,
-          "description": "新疆生产建设兵团党委常委、副司令员焦小平涉嫌严重违纪违法，目前正接受中央纪委国家监委纪律审查和监察调查。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_21807554",
-          "publishedOn": "2023-02-06T03:53:07.000Z",
-          "wordCount": 29,
-          "title": "新疆生产建设兵团党委常委、副司令员焦小平被查",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_21808469",
-          "author": null,
-          "description": "2月4日17时许，湖南省长沙市望城区境内许广高速发生多车相撞事故，造成重大人员伤亡。接报后，应急管理部持续调度指导事故救援处置，要求科学救援、全力救治伤员，尽最大可能减少因伤死亡和因伤致残；要尽快核实情况，实事求是开展事故调查；要认真吸取事故教训，排查风险隐患，举一反三，严防类似事故再次发生。应急管理部已派出总工程师带队的工作组赶赴现场指导处置，派出国家应急医学研究中心医疗小组指导协助伤员救治。\n事故发生后，当地消防救援队伍立即调派182人、30车赶赴现场，全力开展抢险救援工作。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_21808469",
-          "publishedOn": "2023-02-06T03:53:07.000Z",
-          "wordCount": 30,
-          "title": "许广高速长沙段多车相撞造成伤亡，应急管理部派工作组赴现场",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_21807557",
-          "author": null,
-          "description": "辽宁省大连市政协主席、党组书记郝宏军涉嫌严重违纪违法，目前正接受中央纪委国家监委纪律审查和监察调查。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_21807557",
-          "publishedOn": "2023-02-06T03:23:07.000Z",
-          "wordCount": 26,
-          "title": "辽宁大连市政协主席、党组书记郝宏军接受审查调查",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_21807555",
-          "author": null,
-          "description": "湖南省政协党组成员、原副主席易鹏飞涉嫌严重违纪违法，目前正接受中央纪委国家监委纪律审查和监察调查。\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.best",
-          "link": "https://www.thepaper.cn/newsDetail_forward_21807555",
-          "publishedOn": "2023-02-06T01:53:08.000Z",
-          "wordCount": 26,
-          "title": "湖南省政协党组成员、原副主席易鹏飞被查",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_21811590",
-          "author": null,
-          "description": "中国台湾网 图\n\n中新社台北2月5日消息，据联合新闻网、中时新闻网等台媒5日晚间消息，台湾佛光山开山宗长、国际佛光会创办人星云大师于5日安详离世，享年96岁。\n据中时新闻网报道，星云大师晚年身体状况不佳，多次出入高雄长庚医院，近期因血压过低住进加护病房，4日“一度喘到无法进食，医护人员紧急为他洗肾，才得以舒缓”。\n联合新闻网报道称，有消息说，这两天佛光山本计划施放天灯，但在活动前几日临时暂停，未说明停放原因。\n目前佛光山尚未宣布星云大师离世的讯息。台媒预计佛光山及医疗团队6日将对外说明。\n据东森新闻报道，星云大师生于1927年，童年出家，俗名李国深，法名今觉，法号悟彻，自号星云，笔名赵无任。生于江苏省江都县（今扬州市），为临济宗第四十八代传人。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_21811590",
-          "publishedOn": "2023-02-05T23:53:09.000Z",
-          "wordCount": 34,
-          "title": "台媒：台湾佛光山星云大师圆寂",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_21808274",
-          "author": null,
-          "description": "针对关于建议将不孕不育治疗纳入免费医疗的提案，国家医保局近日答复，将逐步把适宜的分娩镇痛和辅助生殖技术项目纳入医保基金支付范围，并鼓励中医医院开设优生优育门诊，提供不孕不育诊疗服务。\n国家医保局表示，医保部门始终高度重视人口问题，目前已将符合条件的生育支持药物，如溴隐亭、曲普瑞林、氯米芬等促排卵药品纳入医保支付范围，提升了部分患者的用药保障水平。该局提出将逐步把适宜的分娩镇痛和辅助生殖技术项目纳入基金支付范围，努力减轻不孕不育患者医疗负担，提高医疗保障水平。\n2018年，国家卫健委组织开展了中医药治疗不孕不育研究相关项目，对照研究了部分中医药在治疗女性子宫内膜薄性不孕不育症、男性少弱精症等方面的疗效作用。国家卫健委、国家中医药局要求进一步加强妇幼领域中医药工作，为有生育需求的夫妇提供优质的中医药服务，并梳理总结中医药治疗不孕不育的临床经验，形成不孕病中医诊疗方案和临床路径在全国推广使用。\n目前，国家中医药局正在编制健康中国行动中医药健康促进专项行动实施方案，鼓励中医医院开设优生优育门诊，提供不孕不育诊疗服务。国家卫健委等相关部门也将组织开展中医药适宜技术和中成药用药培训、中医药健康教育，制订推广有关不孕不育治疗的中西医结合诊疗方案，推动中医医院开展不孕不育诊疗服务。\n在加强妇幼中医药人才队伍建设方面，国家卫健委提出加强骨干人才培训培养，鼓励西医妇产科临床医师学习中医，鼓励中医医疗机构具有高级职称的中中医妇科医师多点执业。国家中医药局将深入推进中医药特色人才培养工程（岐黄工程），在相关人才培养专项中，统筹加强不孕不育相关专业人才培养，到2025年，在每省（区、市）妇幼保健机构建立不少于2个传承工作室，每个工作室培养不少于10名中医药业务骨干。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_21808274",
-          "publishedOn": "2023-02-05T19:53:07.000Z",
-          "wordCount": 26,
-          "title": "国家医保局：逐步将辅助生殖技术纳入医保支付范围",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_21810412",
-          "author": null,
-          "description": "兔年春节期间，来沪人员最多的省份是哪几个？离沪人员前往最多的省份又是哪几个？春节期间全市景点、商圈整体人流趋势情况如何？四大交通枢纽中哪一个最繁忙？春节期间上海全市16个区的外省人员流量排行又是怎样？\n2月5日，澎湃新闻（www.thepaper.cn）记者从上海市通信管理局获悉，为贯彻落实党的二十大对“ 数字中国 ”建设的战略要求，充分挖掘通信行业海量数据的应用，激活数据要素潜能，上海市通信管理局组织上海电信、上海移动、上海联通、东方有线等基础电信企业，通过汇总分析通信行业相关数据，为 2023 年春节期间(1月21日至1月27 日)上海市社会经济运行情况分析提供支撑，展现社会治理数字化能力，积极助力本市稳增长工作。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_21810412",
-          "publishedOn": "2023-02-05T19:53:07.000Z",
-          "wordCount": 37,
-          "title": "数说上海兔年春节：哪个商圈最热闹？哪个景点人最多？",
-          "imageUrl": null
         }
       ]
     },
@@ -7396,6 +7426,86 @@
       "feedUrl": "https://www.nationalreview.com/feed/",
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1456709",
+          "author": "Ari Blaff",
+          "description": "The NSBA sent a letter to the DOJ urging the agency to investigate parent protesters. AG Merrick Garland directed the FBI to take action in response.",
+          "link": "https://www.nationalreview.com/news/jim-jordan-subpoenas-national-school-board-officials-over-request-for-federal-crackdown-on-parents/",
+          "publishedOn": "2023-03-07T15:26:09.000Z",
+          "wordCount": 7684,
+          "title": "Jim Jordan Subpoenas National School Board Officials over Request for Federal Crackdown on Parents",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2023/03/jordan.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1456698",
+          "author": "Caroline Downey",
+          "description": "A new filter called ‘Bold Glamour’ removes facial imperfections, creating an impossible beauty standard that’s left users shaken.",
+          "link": "https://www.nationalreview.com/news/tiktoks-new-filter-will-exacerbate-girls-mental-health-spiral-experts-predict/",
+          "publishedOn": "2023-03-07T14:35:50.000Z",
+          "wordCount": 8588,
+          "title": "TikTok’s New Filter Will Exacerbate Girls’ Mental-Health Spiral, Experts Warn",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2023/03/TikTok.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1456672",
+          "author": "Ari Blaff",
+          "description": "Biden and fellow Democrats have repeatedly vowed to reject Trump’s border policies, which they’ve cast as inhumane.",
+          "link": "https://www.nationalreview.com/news/biden-administration-considering-reinstating-detention-of-migrant-families/",
+          "publishedOn": "2023-03-07T13:45:56.000Z",
+          "wordCount": 7668,
+          "title": "Biden Administration Considering Reinstating Detention of Migrant Families",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2023/03/Border-Patrol-4.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1456582",
+          "author": "The Editors",
+          "description": "It is time to reject the worst of Joe Biden’s judicial nominees. Here are three who do not deserve to be confirmed.",
+          "link": "https://www.nationalreview.com/2023/03/senate-should-show-more-spine-on-biden-judges/",
+          "publishedOn": "2023-03-07T11:30:58.000Z",
+          "wordCount": 7906,
+          "title": "Senate Should Show More Spine on Biden Judges",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2023/03/JudgesSenate.jpg?fit=1200%2C700"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1456572",
+          "author": "Michael Brendan Dougherty",
+          "description": "This crew deserves your support.",
+          "link": "https://www.nationalreview.com/2023/03/why-im-proud-to-work-here/",
+          "publishedOn": "2023-03-07T11:30:50.000Z",
+          "wordCount": 16646,
+          "title": "Why I’m Proud to Work Here",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2017/11/buckley-william-f-4_1.jpg?fit=1200%2C700"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1456498",
+          "author": "Brian Riedl",
+          "description": "New CBO projections show a deteriorating fiscal situation, but no one seems to care.",
+          "link": "https://www.nationalreview.com/2023/03/america-is-ignoring-its-bulging-budget/",
+          "publishedOn": "2023-03-07T11:30:39.000Z",
+          "wordCount": 8649,
+          "title": "America Is Ignoring Its Bulging Budget",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2023/03/capitol-money-social-security.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1456488",
+          "author": "Luther Ray Abel",
+          "description": "Appliance dealers and repairmen talk to NR about the unintended consequences of top-down range rules.",
+          "link": "https://www.nationalreview.com/2023/03/how-gas-stove-regulations-could-burn-customers/",
+          "publishedOn": "2023-03-07T11:30:29.000Z",
+          "wordCount": 8333,
+          "title": "How Gas-Stove Regulations Could Burn Customers",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2023/03/kitchen-appliances.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1456382",
+          "author": "Ryan Mills",
+          "description": "A recent report found that the 2015 program didn’t produce a lasting increase in enrollment or narrow racial gaps.",
+          "link": "https://www.nationalreview.com/news/oregons-free-community-college-program-fails-to-boost-enrollment-narrow-racial-gaps/",
+          "publishedOn": "2023-03-07T11:30:07.000Z",
+          "wordCount": 8911,
+          "title": "The Results Are In: Oregon’s Free Community College Program Failed to Deliver",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2020/06/commencement-ceremony.jpg?fit=2057%2C1200"
+        },
         {
           "id": "https://www.nationalreview.com/?post_type=blog-post&p=1456563",
           "author": "Caroline Downey",
@@ -12025,26 +12135,6 @@
           "wordCount": 9108,
           "title": "Statues of Liberty",
           "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2023/02/tank1.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1442480",
-          "author": "Nate Hochman",
-          "description": "Long-standing group affinity seems to matter more than shared views on social issues.",
-          "link": "https://www.nationalreview.com/2023/02/why-do-socially-conservative-nonwhite-voters-side-with-the-left/",
-          "publishedOn": "2023-02-06T00:38:35.000Z",
-          "wordCount": 8334,
-          "title": "Why Do Socially Conservative Nonwhite Voters Side with the Left?",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2023/02/latino.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1442453",
-          "author": "Rich Lowry",
-          "description": "Finally, a little media accountability.",
-          "link": "https://www.nationalreview.com/2023/02/of-course-jeff-gerth-is-right-about-russiagate/",
-          "publishedOn": "2023-02-05T22:58:53.000Z",
-          "wordCount": 8115,
-          "title": "Of Course Jeff Gerth Is Right about Russiagate",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2019/10/donald-trump-reporters.jpg?fit=2057%2C1200"
         }
       ]
     }
