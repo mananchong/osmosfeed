@@ -6,6 +6,16 @@
       "siteUrl": "https://rweekly.org/atom.xml",
       "articles": [
         {
+          "id": "https://rweekly.org/2023-W11.html",
+          "author": null,
+          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Sam Parmar, with help from the R Weekly team members and contributors.\nHighlight\nwebR 0.1.0 has been released\nSoftware engineering techniques that non-programmers who write a lot of code can benefit from — the DRY WIT approach\nwebR with Quarto HTML Standalone Document Proof of Concept\nInsights\ntidyverse 2.0.0\nwebR 0.1.0 has been released\n\nWhat I’ve learned making an .epub Ebook with Quarto\nCopilot for R\nUpside down, a cat’s still a cat: Evolving image recognition with Geometric Deep Learning\nPath length limit on Windows\nwebR with Quarto HTML Standalone Document Proof of Concept\nRStudio 2022.12.0: What’s New\nDeep learning with Keras using MNIST dataset\nhrbrmstr’s WebR (webR?)…",
+          "link": "https://rweekly.org/2023-W11.html",
+          "publishedOn": "2023-03-13T00:00:00.000Z",
+          "wordCount": 6207,
+          "title": "R Weekly 2023-W11 webR 0.1.0, DRY WIT approach, and webR with Quarto",
+          "imageUrl": "https://rweekly.org/public/facebook.png"
+        },
+        {
           "id": "https://rweekly.org/2023-W10.html",
           "author": null,
           "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Kelly Bodwin and Emily Robinson, with help from the R Weekly team members and contributors.\nHighlight\n“I can’t be parsed, mate!” Parsing in R\nSearch for packages in r-universe\nHappy 23rd birthday, R!\n\nInsights\nHappy 23rd birthday, R!\nTom’s Diner, rang, Bioconductor for nonbioinformaticians, or my preconceptions about dependencies are wrong\nA visual tour of the meta-verse\nA comparison of tidyverse and Base-R\n“I can’t be parsed, mate!” Parsing in R\nTop 40 New Cran Packages of January 2023\n\nR in the Real World\nxG Model Calibration\nDo bonus points lead to more tries in 6 Nations matches?\nLearn where to find reliable climate data and use ggplot2 to show global warming\nThe R commu…",
@@ -451,16 +461,6 @@
           "wordCount": 50,
           "title": "普鸣、李汉松谈中国哲学为何依然重要",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_21890490",
-          "author": null,
-          "description": "普鸣（右）、李汉松（章静绘）\n\n2022年11月4日，哈佛大学举办了一次关于中国哲学的座谈。哈佛大学东亚系的普鸣（Michael Puett）教授与哈佛大学政治系、华东师范大学全球思想史研究中心的青年学者李汉松探讨了中国哲学对生活方式、社会关系、经济治理的启发，以及中国传统与世界哲学的比较。这篇对谈即由此次座谈整理而成。谨向主办此次对谈的哈佛大学中国学生学者联合会、主持人刘心怡（哈佛大学教育学院）和孟祥（哈佛大学统计系）致以谢忱。\n毫无疑问，中国哲学在历史上曾经扮演过重要角色。那么，在两位看来，中国哲学依然重要吗？如果回答为“是”的话，为什么？\n李汉松：普鸣先生应该与我会有共识：中国哲学依然重要，因为它依然能够指导我们如何更好地生活。“哲学是一种生活方式”，对不谙中国哲学的人而言，也非奇谈怪论。毕竟，苏格拉底的追求便是以哲学检验生活，使困居尘世的生命也能映照出高悬星空的理型。而印度哲学也是一种生活的实践：阿周那不但要依据“达摩”（धम्मः）言行，还要在宇宙万物之中找到“一己之达摩”（स्वधर्मः）方能安身立命。与后世的苦行僧不同，古印度哲学家不认为精神生活和物质生活之间不可调和，反倒相信美德的人生理应欣欣向荣，充满情爱（कामः）和成功（अर्थः），而非“屋小而漏”便禁欲而安。倘若哲学向往美德和正义，也指明功利和权宜，那么谁不能受益于哲学呢？但是今天，我们不仅探讨世界哲学的共性，也关注中国哲学的特殊性：中国思想传统有什么独特的视角，可以重塑我们的生活方式？我们大可以重新想象、重新恢复这些资源，进而重新思考此时和此地的人生。\n普鸣：我完全同意，哲学就是一种生活方式。如果你问我，中国哲学为何是世界哲学的一部分？我一定会说：中国哲学的核心，一如古希腊哲学和古印度哲学的精神，在于一种生活方式。那么，摆在我面前的问题是：中国哲学有何独特之处呢？通常而言，中国传统关注自我修养—…",
-          "link": "https://www.thepaper.cn/newsDetail_forward_21890490",
-          "publishedOn": "2023-02-12T04:02:08.000Z",
-          "wordCount": 50,
-          "title": "普鸣、李汉松谈中国哲学为何依然重要",
-          "imageUrl": null
         }
       ]
     },
@@ -469,6 +469,26 @@
       "feedUrl": "https://feedx.net/rss/thepaper.xml",
       "siteUrl": "http://thepaper.cn",
       "articles": [
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_22272457",
+          "author": null,
+          "description": "3月13日上午十四届全国人大一次会议闭幕后，国务院总理李强在人民大会堂三楼金色大厅出席记者会并回答中外记者提问。\n在回答澎湃新闻记者提问时，李强表示，我们国家人口增长由正转负大家有所担忧，有的人担心我们国家的人口红利是不是就此消失了，我看恐怕不是这么简单。人口红利既要看人口数量，更要看人口质量，既要看人口数，更要看人才数。我们国家现在的劳动力总数，准确表述是适合劳动年龄的人口已经有近9亿人，而且每年新增劳动力是1500万人，人力资源丰富仍然是中国一个巨大优势或者显著优势。更重要的是我们国家接受高等教育的人口已经超过2.4亿，每年新增的劳动力平均受教育年限已经达到14年。因此，可以说我们的人口红利并没有消失，人才红利正在逐步形成，发展的动力依旧强劲。当然，对人口增减变化带来的一系列社会问题我们一定会进一步深入研究，积极应对。\n\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.best",
+          "link": "https://www.thepaper.cn/newsDetail_forward_22272457",
+          "publishedOn": "2023-03-13T13:53:08.000Z",
+          "wordCount": 27,
+          "title": "李强总理：我们的人口红利并没有消失，人才红利正在逐步形成",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_22272531",
+          "author": null,
+          "description": "新闻发布会现场。   新华社 图\n\n今天（3月13日），十四届全国人大一次会议闭幕后，国务院总理李强出席记者会并回答中外记者提问。\n国务院总理李强：中美两国“脱钩”的论调有时候还比较热，但不知到底有多少人在这种炒作中真正受益。中美经济你中有我、我中有你，彼此都从对方的发展当中受益。中美可以合作，中美应该合作，中美合作大有可为，围堵打压对谁都没有好处。 ​​​",
+          "link": "https://www.thepaper.cn/newsDetail_forward_22272531",
+          "publishedOn": "2023-03-13T07:53:07.000Z",
+          "wordCount": 39,
+          "title": "李强谈中美关系：中美可以合作、应该合作，中美合作大有可为",
+          "imageUrl": null
+        },
         {
           "id": "https://www.thepaper.cn/newsDetail_forward_22272381",
           "author": null,
@@ -6878,76 +6898,6 @@
           "wordCount": 30,
           "title": "土耳其和叙利亚两国超过2.8万人在地震中遇难",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_21890606",
-          "author": null,
-          "description": "由中国计划生育协会、全国政协人口资源环境委员会、中国人口与发展研究中心主办的第三届中国人口与发展论坛今天（11日）在北京举行。调查显示，当前，我国正经历着人口和家庭的双重变迁，低生育率和家庭小型化趋势明显。\n我国低生育率和家庭小型化趋势明显\n当前，年轻一代婚育观念正在发生改变，家庭规模小型化趋势日益明显。2020年，我国平均家庭户规模降至2.62人，较2010年减少了0.48人。家庭观念变化带来的延迟婚育、不婚不育，成为我国生育水平下行的最主要因素。全国适龄人口初婚年龄不断推迟，女性平均初婚年龄从20世纪80年代的22岁持续上升至2020年的26.3岁，初育年龄推迟到27.2岁。育龄妇女生育意愿持续走低，2021年平均打算生育子女数为1.64个，低于2017年的1.76个和2019年的1.73个，而作为生育主体的“90后”“00后”仅为1.54个和1.48个。女性现有子女数由2019年的1.63下降到2022年的1.19。女性终身无孩率快速上升，2015年为6.1%，2020年接近10%。\n\n中国计生协党组书记、常务副会长 王培安：中国人口与发展研究中心于2021年的调查显示，35岁以下女性只有不到70%的人认为“有孩子的人生才完整”。日本、新加坡等国从上世纪就开始实施鼓励生育的政策，但2020年生育水平还分别处于1.3、1.1的极低水平。在我国生育保障水平还很低的情况下，如果没有婚育观念的引导，生育水平的提升将异常艰难。\n多措并举做好新时代家庭建设\n中国计生协党组书记、常务副会长王培安建议，充分发挥新型婚育文化的引领作用，提倡适龄婚育、优生优育，鼓励夫妻共担育儿责任。落实年休假制度，逐步调整缩短工作时间，推行弹性工作制，给家庭生活和休闲旅游更多支持。大力发展家政、养老、托幼托育产业，不断为家庭建设赋能增效。提高优生优育服务水平，持续提高出生人口素质。\n\n中国计生协党组书记、常务副会长 王培安：将家庭视为公共政策的基本单位，在城镇化、户籍改革、就业、医疗、养老、社会保障、住房、税收等领域的政策创制中，充分体现保护婚姻家庭、鼓励家庭成员团聚的导向。比如，在住房改革、农民工市民化等政策中，都应充分体现维护家庭婚姻稳固、促进家庭成员团聚的政策导向；又比如，以家庭户为单位制定税收优惠措施，将家庭规模与结构作为公共消费品价格制定依据；再比如，在社会保险，特别是医疗保险政策中考虑家庭需求，允许部分保险在家庭成员之间适度转移等。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_21890606",
-          "publishedOn": "2023-02-12T03:53:10.000Z",
-          "wordCount": 36,
-          "title": "第三届中国人口与发展论坛举行：家庭规模小型化趋势明显",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_21892800",
-          "author": null,
-          "description": "对于网友发现，狂飙钟阿四真的不是演的，@狂飙官微 发布声明称，将对涉及该演员的片段修改删除。 ​​​\n\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.best",
-          "link": "https://www.thepaper.cn/newsDetail_forward_21892800",
-          "publishedOn": "2023-02-12T02:53:14.000Z",
-          "wordCount": 34,
-          "title": "《狂飙》官微回应演员曾涉毒：将对涉及该演员的片段修改删除",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_21889566",
-          "author": null,
-          "description": "宁德时代距离最终实现在美国市场本土化生产的目标，似乎已越来越近。\n2月11日，据彭博社、路透社等多方报道，福特汽车和宁德时代将结束长达数月且紧张的选址工作，选定在美国密歇根州马歇尔地区建设一座磷酸铁锂电池工厂。投资金额约为35亿美元。\n知情人士称，工厂将位于密歇根州底特律市以西约100英里，预计将创造约2500 个就业岗位，此次协议最早将会在下周一宣布。宁德时代方面对于澎湃新闻记者的求证，表示暂时不予置评。\n此前有报道称，在双方合作建厂的具体方式上，两家公司正在考虑一种合作关系，福特拥有电池工厂，而宁德时代运营电池的生产。上述合作模式，将使得电池工厂能够充分利用美国联邦政府《通货膨胀削减法案》（IRA）的税收优惠，同时也不需要宁德时代的直接财务投资。\n福特在此前的声明中表示，正在探索使用宁德时代技术的电池用于其汽车，并计划实现北美本地化生产。\n宁德时代在美国建厂的消息早在去年已经传出。去年7月，福特宣布了采购电池和原材料的计划，以实现其年度电动汽车生产目标，其中就包括与宁德时代合作。\n据福特当时透露，宁德时代将从2023年开始为福特在北美的全电动SUV野马Mach-E车型提供磷酸铁锂电池包，并在2024年初为全电动卡车车型F-150闪电提供磷酸铁锂电池包。这是福特首次将磷酸铁锂电池使用到其产品组合中。\n然而，宁德时代在美国的扩张很快就遇到了更多的阻力。路透社称，其中包括去年8月，拜登政府颁布包括出口管制在内的各种措施，限制美国公司在中国科技领域的投资。在各种因素下，宁德时代决定推迟宣布在北美地区建造电池厂的进展消息。\n此前工厂的候选地址原本还有弗吉尼亚州。但去年12月，弗吉尼亚州州长、共和党人杨金(Glenn Youngkin)宣布弗吉尼亚州退出了该项目的选址候选。\n两名知情人士上周早些时候向路透社表示，两名福特汽车的政府事务高管在2月9日会见了底特律州卡尔霍恩县领导人，向他们简要介绍了工厂方案的细节。\n在全球电动车市场中，受政府大规模补贴政策助推，北美市场正冉冉升起。2022年，美国新能源汽车销量达到99.2万辆，临近百万大关，同比增长近52%。中银证券研报指出，目前美国市场动力电池主要由松下、LG新能源、SK on提供，其中松下与特斯拉绑定、LG新能源与通用绑定、SK on与福特绑定，三者合计产能约90GWh。\n虽然特斯拉也是宁德时代的第一大客户，但在北美市场的本土化产能缺位，或许是作为全球动力电池龙头的宁德时代的心头之痛。\n其海外对手中，LG新能源已跟通用汽车、本田、Stellantis合作，在美国本土建设电池厂。其中和通用合资的三座电池厂中两座已经投产，并获得了美国能源部的25亿元贷款。其他两家韩国公司，三星SDI也正与Stellantis合作、SK On正与现代汽车、福特汽车进行合作，分别在美国建设合资工厂。\n而日本松下也与特斯拉在内华达州的超级工厂合作进行电池的生产，并计划在2025年在堪那斯州再设立一家电池厂。\n国内竞争者中，国轩高科和远景动力也在去年宣布了分别在美国密歇根州和南卡罗来纳州投建电池厂的规划。\n在去年年初的投资者大会上，宁德时代董事长曾毓群说，美国市场，是宁德时代一定要进去的。如今，最艰难的时段或许已经过去。\n\n不过，此前也有业内人士提醒，“过高的劳动力成本以及贸易摩擦是国内企业在欧美等海外市场建厂普遍要面临的问题。”\n\n今年1月26日，动工三年多后，宁德时代位于德国图林根州阿恩施塔特的电池工厂投产\n\n\n曾毓群也坦言，宁德时代和美国客户合作的具体情况需考虑到工人培训、效率、工会等因素对品质与成本的影响。\n根据全球资讯机构SNE research最新的统计数据，2022年全年，宁德时代动力电池的装车量实现191.6 GWh，全球市场的份额达到了37%，相当于其后比亚迪、LG新能源、松下、SK on四家巨头动力电池市占率的加总。\n\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.best",
-          "link": "https://www.thepaper.cn/newsDetail_forward_21889566",
-          "publishedOn": "2023-02-12T01:53:10.000Z",
-          "wordCount": 51,
-          "title": "35亿美元！密歇根州！宁德时代和福特在美建厂进一步敲定细节",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_21888851",
-          "author": null,
-          "description": "来源：“二三里资讯”微博\n原标题：《#官方回应城管挨家挨户撕春联#：迎接检查，创建文明城市》",
-          "link": "https://www.thepaper.cn/newsDetail_forward_21888851",
-          "publishedOn": "2023-02-12T01:53:10.000Z",
-          "wordCount": 38,
-          "title": "江苏沛县城管挨家挨户撕春联？官方：为迎接检查创建文明城市",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_21880705",
-          "author": null,
-          "description": "经济体量是决定一座城市发展能级的重要因素之一。过去几年，万亿城市俱乐部快速扩张。到2022年底，全国已有24座GDP万亿城市。\n不过，随着万亿城市数量的不断增加，万亿城市俱乐部内部也自然出现了更大的分化，衡量头部城市的标准，也有必要跟着刷新。\n要知道，随着2022年成都经济总量站上新台阶，GDP万亿俱乐部中的2万亿以上城市也已经达到了7座。可以说，2万亿城市阵营的增员情况，可能是衡量中国头部城市发展状况更具含金量的参考指标。\n下一个2万亿城市是谁？2万亿以上城市的增多，又将如何改变中国区域经济格局？\n当下全国城市群的“四极”\n在目前的十强城市中，7个GDP超过2万亿的城市依次为：上海、北京、深圳、重庆、广州、苏州、成都。\n当然，这“七大金刚”根据经济总量又分属不同的量级。其中，GDP超过4万亿的上海、北京，无可争议地成为第一档。它们双双进入全球GDP十强城市之列，也是其中唯二的中国城市代表。\n值得一提的是，上海GDP目前已经接近4.5万亿，可以预期，中国即将迎来首个5万亿城市。\n紧接着的深圳，是目前唯一处在3到4万亿区间的城市，它和接近3万亿的重庆、广州，都可以算得上是第二档。\n乐观预计，重庆和广州有望在今年站上3万亿门槛，届时，全国GDP3万亿以上的城市也将增至5个。\n剩下的苏州、成都，则是第三档。\n这七大城市全部分布在全国城市群的“四极”。其中，长三角（上海、苏州）、珠三角（广州、深圳）、成渝（重庆、成都）各拿到两个席位；京津冀则为一个（北京）。\n武汉新城亮相\n“七大金刚”之后，距离2万亿门槛最近的则属武汉、杭州。到2022年底，这两座城市与2万亿的差距都在1500亿以内，可以说只差临门一脚，因此有望在2023年双双升级。\n实际上，过去与成都多次出现GDP排位更替的武汉，主要是受疫情影响，推迟了迈向2万亿的时间。不过，武汉疫后恢复的势头很不错，在2022年已经反超杭州，…",
-          "link": "https://www.thepaper.cn/newsDetail_forward_21880705",
-          "publishedOn": "2023-02-12T00:53:11.000Z",
-          "wordCount": 39,
-          "title": "新城市志｜武汉杭州，谁将下一个迈入“两万亿俱乐部”",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_21889503",
-          "author": null,
-          "description": "当地时间2月11日，俄罗斯外交部副部长韦尔希宁在接受俄媒采访时表示，俄罗斯已准备好与乌克兰进行无条件谈判。\n他表示，所有军事行动都是以谈判结束的，俄罗斯对此也做好了准备，但谈判需要建立在现实情况之上。\n\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.best",
-          "link": "https://www.thepaper.cn/newsDetail_forward_21889503",
-          "publishedOn": "2023-02-11T22:53:08.000Z",
-          "wordCount": 27,
-          "title": "俄外交部副部长：俄罗斯准备好与乌克兰进行无条件谈判",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_21890397",
-          "author": null,
-          "description": "2023年2月10日，宁波杰出企业家代表、杉杉控股有限公司董事局主席、杉杉品牌创始人、上海市宁波商会会长、上海新沪商联谊会会长、甬商总会联席会长郑永刚因突发心脏疾病救治无效去世，享年65岁。\n\n在2月11日晚间，杉杉控股公布的讣告中，郑永刚被评价为：“创立杉杉34年来，倾其毕生心血践行实业报国的坚定信念。他以极具前瞻性的眼光和果敢的胆略，引领杉杉成为中国服装业第一家上市公司，部署企业战略转型和多元化布局，先后在时尚产业、锂电新能源材料、光学显示材料等领域成就斐然，是改革开放后涌现出的民营企业家中的杰出代表。”\n“郑永刚先生毕生倡导的‘正直、负责、创新、担当’企业价值观，为公司凝聚了优秀的管理团队和经营人才，为公司长远发展奠定了坚实基础。”\n公开资料显示，郑永刚，中国国籍，无境外永久居留权，南京理工大学硕士研究生学历。\n杉杉股份财报显示，2022年前三季度，杉杉股份营收约为158.41亿元，归母净利润为22.09亿元。公司的主营业收入构成为锂电池材料、偏光片及其他。\n当澎湃新闻询问杉杉股份内部员工对郑永刚的评价时，一位员工表示，“极具前瞻性的眼光和果敢的胆略。”\n“杉杉牌西服，不要太潇洒”\n1989年5月23日，时年31岁的郑永刚成为宁波甬港服装总厂厂长。据此前媒体报道，当时这家服装厂已经资不抵债，一年亏损1000多万元。\n为何要做西装？一个故事是说，一次郑永刚在坐绿皮火车出差的路上，看到了对面坐着一个穿进口西装的年轻人。那一刻，上天拍了拍郑永刚的脑袋。\n郑永刚决定，与国际接轨，卖国产西装。他在厂里拉出横幅——“创中国西服第一品牌。”“杉杉”这个民族西装品牌由此创立。\n1990年，杉杉西服在上海南京路、淮海路的十家专卖店借柜上架。为了把西装卖得更好，郑永刚还借来6万元到央视做广告。他邀请到誉为“中国的高仓健”的演员翟乃社出镜，广告语是：“杉杉牌西服，不要太潇洒”。\n杉杉品牌一…",
-          "link": "https://www.thepaper.cn/newsDetail_forward_21890397",
-          "publishedOn": "2023-02-11T22:53:08.000Z",
-          "wordCount": 45,
-          "title": "65岁杉杉创始人郑永刚病逝，“服装大王”曾卖奥特莱斯转型锂电",
-          "imageUrl": null
         }
       ]
     },
@@ -6956,6 +6906,106 @@
       "feedUrl": "https://www.nationalreview.com/feed/",
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
+        {
+          "id": "https://www.nationalreview.com/?p=1459537",
+          "author": "Charles C. W. Cooke",
+          "description": "This is the wrong analogy to draw.",
+          "link": "https://www.nationalreview.com/2023/03/no-the-silicon-valley-bank-bailout-doesnt-justify-mass-student-debt-relief/",
+          "publishedOn": "2023-03-13T16:43:27.000Z",
+          "wordCount": 8506,
+          "title": "No, the Silicon Valley Bank Bailout Doesn’t Justify Mass Student-Debt Relief",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2023/03/silicon-valley-bank-2.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1459451",
+          "author": "Caroline Downey",
+          "description": "One of the subpoenaed individuals was reportedly involved in Hunter Biden’s joint venture with a Chinese energy firm.",
+          "link": "https://www.nationalreview.com/news/house-oversight-committee-subpoenas-financial-docs-for-hunter-biden-business-associates/",
+          "publishedOn": "2023-03-13T14:51:17.000Z",
+          "wordCount": 7723,
+          "title": "House Oversight Committee Subpoenas Financial Docs for Hunter Biden Business Associates",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2023/03/raskin.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1459437",
+          "author": "Ryan Mills",
+          "description": "Pro-choice activists have attacked the judge as a ‘villain’ and a ‘lifelong right-wing activist.’",
+          "link": "https://www.nationalreview.com/news/texas-judge-tries-to-keep-abortion-pill-hearing-quiet-to-prevent-disruptions/",
+          "publishedOn": "2023-03-13T13:32:27.000Z",
+          "wordCount": 8094,
+          "title": "Texas Judge Tries to Keep Abortion Pill Hearing Quiet to Prevent Disruptions",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2023/03/Kacsmaryk-and-Abortion.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1459421",
+          "author": "Caroline Downey",
+          "description": "India’s Supreme Court decriminalized homosexuality in 2018.",
+          "link": "https://www.nationalreview.com/news/indian-government-declares-opposition-to-same-sex-marriage-in-supreme-court-case/",
+          "publishedOn": "2023-03-13T13:02:45.000Z",
+          "wordCount": 7715,
+          "title": "Indian Government Declares Opposition to Same-Sex Marriage in Supreme Court Case",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2023/03/India-LGBT.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1459171",
+          "author": "Arthur Herman",
+          "description": "The People’s Liberation Army realized that AI had the potential to give it an insurmountable edge on the battlefield.",
+          "link": "https://www.nationalreview.com/2023/03/dont-let-china-determine-the-future-of-artificial-intelligence/",
+          "publishedOn": "2023-03-13T10:30:50.000Z",
+          "wordCount": 8609,
+          "title": "Don’t Let China Determine the Future of Artificial Intelligence",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2023/03/facial-recognition-china.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1459222",
+          "author": "Rich Lowry",
+          "description": "James Burnham versus George Kennan in the culture wars.",
+          "link": "https://www.nationalreview.com/2023/03/the-desantis-policy-is-woke-rollback-not-woke-containment/",
+          "publishedOn": "2023-03-13T10:30:32.000Z",
+          "wordCount": 8324,
+          "title": "The DeSantis Policy Is Woke Rollback, Not Woke Containment",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2023/03/ron-desantis-iowa-book-tour.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1459228",
+          "author": "The Editors",
+          "description": "The deal gives the Iranian regime breathing room, limits Israel, and gives more clout to China.",
+          "link": "https://www.nationalreview.com/2023/03/the-worrisome-iran-saudi-pact/",
+          "publishedOn": "2023-03-13T10:30:30.000Z",
+          "wordCount": 8035,
+          "title": "The Worrisome Iran-Saudi Pact",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2023/03/china-saudi-arabia-iran.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1458058",
+          "author": "Susannah Barnes",
+          "description": "The best way for the government to lower insulin prices is to get out of the way.",
+          "link": "https://www.nationalreview.com/2023/03/cheaper-insulin-is-a-win-for-the-market-not-politicians/",
+          "publishedOn": "2023-03-13T10:30:27.000Z",
+          "wordCount": 8183,
+          "title": "Cheaper Insulin Is a Win for the Market, Not Politicians",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/07/Insulin-2.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1458543",
+          "author": "John C. Mozena",
+          "description": "Hundreds of cities across the country should consider themselves fortunate.",
+          "link": "https://www.nationalreview.com/2023/03/losing-amazons-hq2-was-a-blessing/",
+          "publishedOn": "2023-03-13T10:30:24.000Z",
+          "wordCount": 8680,
+          "title": "Losing Amazon’s HQ2 Was a Blessing",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2023/03/amazon-virginia-construction.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1459252",
+          "author": "Kathryn Jean Lopez",
+          "description": "A visit to Yad Vashem prompts hard questions.",
+          "link": "https://www.nationalreview.com/2023/03/what-do-you-do-in-the-face-of-great-evil/",
+          "publishedOn": "2023-03-13T10:30:07.000Z",
+          "wordCount": 8496,
+          "title": "What Do You Do in the Face of Great Evil?",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2023/03/yad-vashem-exhibit.jpg?fit=2057%2C1200"
+        },
         {
           "id": "https://www.nationalreview.com/?post_type=blog-post&p=1459290",
           "author": "Jeff Zymeri",
@@ -11585,16 +11635,6 @@
           "wordCount": 8437,
           "title": "Africa’s Dictators Are on a Killing Spree. Who Is Giving Them Cover?",
           "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2023/02/fj.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1445444",
-          "author": "Andrew Stuttaford",
-          "description": "The week of February 6, 2023: Oil’s future, ESG, industrial policy, tax, and much, much more.",
-          "link": "https://www.nationalreview.com/2023/02/oil-and-reality-when-joe-biden-said-some-of-the-quiet-part-out-loud/",
-          "publishedOn": "2023-02-11T22:43:20.000Z",
-          "wordCount": 11263,
-          "title": "Oil and Reality: When Joe Biden Said (Some of) the Quiet Part Out Loud",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2023/02/sotu-2-biden.jpg?fit=2057%2C1200"
         }
       ]
     }
