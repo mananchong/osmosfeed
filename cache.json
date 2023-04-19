@@ -44,16 +44,6 @@
           "wordCount": 6337,
           "title": "R Weekly 2022-W13 Base R, ChatGPT, Alt-Text",
           "imageUrl": "https://rweekly.org/public/facebook.png"
-        },
-        {
-          "id": "https://rweekly.org/2023-W12.html",
-          "author": null,
-          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Batool Almarzouq, with help from the R Weekly team members and contributors.\nHighlight\nSome good practices for research with R\nModding Rome Total War (Avatar, The Last Airbender mod) using R!\nHow to set up an R-based AWS Lambda to write to AWS S3 on a schedule\nInsights\nSeeking community endorsement for an upgrade to Big Book of R\nPolycrisis: When Will the World End? Professor Gott’s Equation Gives an Answer! (Also as a Video!)\nGooglyPlusPlus: Computing T20 player’s Win Probability Contribution\n\nSeven Common Errors in Decision Curve Analysis\nGetting Started with Simple Slopes Analysis\nR in the Real World\nAn analysis of 10-0 scoring runs in college basketball, using ggplot2 an…",
-          "link": "https://rweekly.org/2023-W12.html",
-          "publishedOn": "2023-03-21T00:00:00.000Z",
-          "wordCount": 6774,
-          "title": "R Weekly 2023-W12 Good Practices, Modding Rome Total War, R-based AWS Lambda!",
-          "imageUrl": "https://rweekly.org/public/facebook.png"
         }
       ]
     },
@@ -461,16 +451,6 @@
           "wordCount": 1191,
           "title": "高山杉｜藏学文献史四题",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_22362377",
-          "author": null,
-          "description": "黎锦光一生创作了数百首时代曲（上海老歌）。作家水晶在时代曲研究的早期著作《流行歌曲沧桑记》中有过隽语：“流行歌曲的三大名家是状元黎锦光，榜眼陈歌辛，探花姚敏。”（大地出版社，1985年2月版，90页）黎老笔下的传世佳作不止十首，如果像水晶先生那样点状元，《夜来香》无疑是首选。\n《夜来香》自1944年发表以降，它的翻唱、改编版本合计已超过百种，其中有相当比例的录音来自日本。这与《夜来香》的首唱者是李香兰不无关联。这种祸福相依的关联，在流动的历史舞台上折射出不同的色彩，任意一束光射在黎锦光的身上，都有可能改变他的命运。在1981年受邀访日之前的三十多年里，黎锦光的命运是灰色的。\n一\n朱忠良1968年8月进中国唱片厂，他进厂后第一次见到黎锦光是在车间的厕所里。当时，年过六旬的黎老正在做清洁工作，推一辆沉重的平板车，上面堆满了水桶、箩筐以及其他洁具。朱忠良后来向车间里的一位老师傅打听，原来那位清癯、缄默、儒雅的保洁员是“我们这里音响方面的权威”，之前在编辑部任职。\n所谓编辑部，当时对外的招牌是“中国唱片社上海分社”，本该在“中唱小红楼”（旧“百代小红楼”）办公，专门负责节目的编辑录音，即唱片的出版社。中国唱片厂与中国唱片社上海分社虽说在衡山路上是贴隔壁的邻居，其实是平行的、专职生产的另一个单位；唱片社当时归北京总社领导，再往上是广播事业管理局。\n\n上世纪五十年代末，黎锦光在中国唱片厂出任音响导演时留影。\n\n\n黎锦光与长子黎天旭合影，上世纪六十年代（供图：黎天旭）。\n\n在一个特殊年代，唱片厂与唱片社的某些界限不复存在，唱片社的好些员工下放去了唱片厂。黎老的回忆是：“让我做清洁工，负责打扫厕所与洗澡间，每天反省，写回忆交代材料。由于要打扫洗澡间，因此我每天可以洗个热水澡。唱片厂的一位老工人（他是一位花匠，名字叫严福祥），每天给我泡好一杯茶，放在很高的窗台上，我要站在椅子上去取茶杯。”（…",
-          "link": "https://www.thepaper.cn/newsDetail_forward_22362377",
-          "publishedOn": "2023-03-21T03:02:07.000Z",
-          "wordCount": 107,
-          "title": "王莫之｜黎锦光的日本之行",
-          "imageUrl": null
         }
       ]
     },
@@ -479,6 +459,106 @@
       "feedUrl": "https://feedx.net/rss/thepaper.xml",
       "siteUrl": "http://thepaper.cn",
       "articles": [
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_22762749",
+          "author": null,
+          "description": "4月19日，外交部发言人汪文斌主持例行记者会。有记者提问，据相关媒体报道，法国总统已指示他的外交政策顾问，与中方同行合作，建立一个可以作为未来（俄乌）谈判基础的结构。根据法方的说法，如果一切顺利，俄罗斯和乌克兰将在今年夏天举行谈判。法方是否已经就这个问题计划与中国沟通，外交部如何评价马克龙的计划？\n汪文斌表示，中方在乌克兰问题上的立场是一贯明确的，关于政治解决乌克兰危机的中国立场文件，对此作了全面系统阐述。马克龙总统访华期间，两国元首就此深入交换意见，正如习近平主席强调的，化解危机没有灵丹妙药，需要各方从自身做起，通过积累互信，创造止战和谈条件。\n汪文斌指出，中方支持欧方从自身根本和长远利益出发，推动尽快重启和谈，兼顾各方合理关切，构建均衡、有效、可持续的欧洲安全框架。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_22762749",
+          "publishedOn": "2023-04-19T15:53:09.000Z",
+          "wordCount": 30,
+          "title": "法国将与中方合作推动俄乌双方谈判？外交部回应",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_22750672",
+          "author": null,
+          "description": "4月18日，国家统计局发布2023年一季度国民经济运行情况。从就业人员工作时间来看，今年3月，全国企业就业人员（以下简称“企业员工”）周平均工作时间48.7小时，环比2月的47.9小时增加0.8小时，与去年3月的47.3小时相比增加1.4小时。\n相比于GDP增速、CPI增速、就业率等指标，企业员工周平均工作时间看似一个不起眼的数据。然而，随着社会经济的发展，人们对工作、生活、休闲等多重需求平衡的考虑，尤其是近年来人们对于休息权的重视和讨论，都使得工作时长日益成为社会关注的话题。\n因此，“打工人”周平均工作时间48.7小时，且环比与同比都有所增加，引发热议就不难理解。探讨这一现象背后的深层次原因，很有必要。\n工时长了，或是经济进一步回暖的表征\n周工作48.7小时的静态时长，和同比增加1.4小时、环比增加0.8小时的动态增幅，如果放置在经济社会发展的大局中看，从其各自所处的时间坐标轴中考量，是有原因的。\n2022年3月，为了更好应对新冠疫情，全国多地采取了必要的管控举措，如减少人员流动、公共交通暂停服务、一定程度的停工停业等举措，部分企业人员要么居家办公，要么暂时停业，如此必然会造成工作时长的下降。\n今年以来，我国经济从复苏迹象明显，到一路按下发展“快进键”。企业快速复工复产，机器和流水线开足马力运转；地方政府组团海外“抢订单”，加快项目审批进度，持续优化营商环境……以时不我待的紧迫感“拼经济”，成为全社会的共识和积极行动。也正是在这种拼劲下，我国一季度经济才交出同比增长4.5%的漂亮“成绩单”。\n一边是宏观经济层面的快速、加速“回血”，一边是去年同期被压缩的工作时长，“同比增长”几乎是必然的，“增长1.4小时”也是符合预期的。\n环比增加0.8小时，则从微观上反映出我国经济态势的持续稳步向好。一个数据是，3月份，规模以上工业增加值同比增长3.9%，比1-2月份加快1.5个百分点；环比增长0.12%。这意味着，众多关联企业生产保持在持续“踩油门”状态。如据媒体报道，某新能源企业生产计划已经排到了年底。\n从常识而言，随着企业经济生产活动的提速增量、需求订单的快速增加，在基本人员数量没有大幅增加的情况下，为了赶工期，加快供应，企业员工工作时长也会相应增加，0.8小时也是相对合理的增幅。\n可以说，企业员工周平均工作时长及其同比、环比对照，也是经济进一步回暖的表征，它或许不像GDP等数据一样直接、直观，但也是扎扎实实的参照标杆。对于劳动者个人来说，如果能以多一些的工作投入，让钱包更“厚实”，多数人是愿意接受的。\n做好兜底保障，兼顾企业发展与员工权益\n我国《劳动法》规定，国家实行企业就业人员每日工作时间不超过八小时、平均每周工作时间不超过四十四小时的工时制度。\n但同时也规定，用人单位由于生产经营需要，经与工会和企业就业人员协商后可以延长工作时间，一般每日不得超过一小时；因特殊原因需要延长工作时间的，在保障企业就业人员身体健康的条件下延长工作时间每日不得超过三小时，但是每月不得超过三十六小时。\n周平均工作48.7小时，按照5天工作制折算，日均工作时间为9.74小时，虽然总体符合法律规定，但具体到个人，就意味着“打工人”加班的问题已相当突出。\n这一数据引发关注和热议，原因在于，随着个体权利意识的觉醒、经济发展提供给个人选择的多样化、企业就业人员保障法律法规的不断完善，越来越多的劳动者对于超时长工作的容忍度在下降，对休息权和人性化管理制度的渴求在上升。这是完全正当的权利诉求，也是社会文明进步的体现。\n经济社会发展的目的是人，就是要让人们逐步获得全方位发展的空间，包括在工作、生活与家庭等多方面的平衡。虽然囿于各种主客观因素，一些企业还不能实现8小时日工作制、40小时周工作制，但不断朝这个方向努力，是不可逆的大趋势。\n更具体点说，“周平均工作时间48.7小时”背后，更应注重没有被统计在内的企业员工面临的“隐形加班”“法定节假日被强制加班”“加班没有加班费”，过度加班导致员工身心受损却难以获赔，超负荷加班猝死后工伤认定难等问题。人们提倡“多劳多得”，但不等于不要健康、牺牲休息权。\n这些群众反应集中、吐槽声量大的职场顽疾，需要被看到、被重视，并要通过进一步激活立法、司法和劳动部门的常态化监管，最终在企业层面形成约束力，让企业员工感受到付出与回报成正比，感受到身为劳动者的尊严和体面。\n综合考量员工工作时长、经济增长与社会发展的平衡关系，给予劳动者更多的休息时间，引导企业以技术创新、工作产出效率提升等多重方式替代单一工作时长管理模式，既关系到进一步提升全社会消费意愿和能力，关系群众的获得感、幸福感，从根本上说，也是坚定不移走高质量发展之路的必然要求。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_22750672",
+          "publishedOn": "2023-04-19T14:53:13.000Z",
+          "wordCount": 32,
+          "title": "“打工人”周平均工作48.7小时，意味着什么？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_22760607",
+          "author": null,
+          "description": "孟玮  澎湃新闻记者 周頔 摄\n\n4月19日，在国家发展改革委召开的4月例行新闻发布会上，澎湃新闻（www.thepaper.cn）记者提问：近期生猪价格较低，如何看待今后一段时期市场形势？下一步国家将采取哪些措施稳定生猪价格？\n对此，国家发改委政研室副主任、新闻发言人孟玮表示，今年以来，因市场供应较为充足、猪肉消费阶段性偏弱，生猪价格总体低位运行。近期，我们多次组织有关方面对后期生猪市场形势进行分析研判。有关方面分析认为，目前国内生猪产能总体处于合理充裕水平，生猪价格进一步明显下跌的可能性较小；随着后期猪肉消费稳步恢复，生猪价格有望逐步回升至合理区间。\n生猪和猪肉市场一头连着生产、一头连着消费，做好保供稳价工作，既要防止肉价过高增加居民负担，也要防止肉价过低伤害养殖企业积极性。近年来，我们不断总结完善生猪猪肉价格调控工作的实践经验，专门出台猪肉储备调节预案，就是希望通过储备调节等手段，推动生猪价格运行在合理区间。针对今年以来生猪价格低位运行的情况，我们及时发布预警信息，会同有关部门于2月份挂牌收储今年第一批2万吨中央猪肉储备，督促指导各地同步收储“托市”。\n孟玮表示，下一步，国家发改委将继续密切跟踪生猪市场动态，特别是加强能繁母猪存栏、生猪存栏出栏量变化等关键指标监测；会同有关部门按照猪肉储备调节预案规定，及时开展中央猪肉储备调节工作，必要时加大工作力度，促进生猪市场平稳运行。同时，建议养殖户合理安排生产经营，保持正常出栏补栏节奏。\n\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.best",
+          "link": "https://www.thepaper.cn/newsDetail_forward_22760607",
+          "publishedOn": "2023-04-19T13:53:18.000Z",
+          "wordCount": 42,
+          "title": "国家发改委答澎湃：国内生猪价格进一步明显下跌可能性较小",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_22761798",
+          "author": null,
+          "description": "2023年4月19日，北京，长峰医院外。人民视觉  图\n\n4月18日，北京长峰医院住院部东楼发生火情。4月19日，北京市召开新闻发布会通报火灾情况。\n会上，丰台区政府党组成员、副区长李宗荣通报，截至19日9时，事故已导致29人遇难，其中，26人为住院患者，另有一名护士、一名护工、一名家属。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_22761798",
+          "publishedOn": "2023-04-19T13:53:18.000Z",
+          "wordCount": 42,
+          "title": "北京长峰医院火灾已致29人遇难，其中26人为住院患者",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_22753297",
+          "author": null,
+          "description": "4月18日，中国国务委员兼国防部长李尚福与俄罗斯国防部长绍伊古举行正式会谈。\n两国国防部长一致认为，在习近平主席和普京总统的战略引领下，中俄新时代全面战略协作伙伴关系持续高水平发展，两军密切协作配合，各领域合作取得丰硕成果，不断为两国关系发展充实战略内涵。双方同意，全面落实两国元首重要共识，持续密切高层沟通，完善两军交往机制，拓展战区、军种、院校间合作，为促进中俄关系高质量发展、维护世界和地区安全稳定、服务构建人类命运共同体作出新的贡献。会谈期间，双方重申，在维护各自核心利益，首先是主权、领土完整、安全、发展问题上互予坚定支持，坚决反对外部势力干涉内政。\n\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.best",
+          "link": "https://www.thepaper.cn/newsDetail_forward_22753297",
+          "publishedOn": "2023-04-19T13:53:18.000Z",
+          "wordCount": 29,
+          "title": "中俄两国国防部长在莫斯科举行会谈",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_22753534",
+          "author": null,
+          "description": "4月18日12时57分，丰台区消防救援支队接警：北京长峰医院住院部东楼发生火情。接警后，消防、公安、卫健、应急等部门即赴现场处置。13时33分，现场明火被扑灭。15时30分，现场救援工作结束，共疏散转移患者71人。截至当日18时，经转院救治无效，21人不幸死亡。\n北京市连夜召开现场会调度善后处理等工作。调度会指出，当务之急是全力以赴救治伤员。要坚持人民至上、生命至上，调集精锐医疗力量，科学制定救治方案，尽最大努力争取让伤员早日康复。市级成立工作专班，加强指挥调度，迅速查明事故原因，依法严肃追究相关责任人责任。市相关部门、丰台区和长峰医院要细致稳妥做好遇难人员善后，同步做好其他住院病人医疗工作。及时发布相关信息，回应社会关切。各区各部门各单位要以此为鉴、举一反三，强化安全意识，守土尽责，绝不能有任何侥幸心理，以钉钉子精神“过筛子”“堵漏洞”，坚定有序开展大排查，不留死角盲区，彻底消除安全隐患，坚决守住安全红线，保护千家万户的平安。“五一”假期临近，要切实压实安全生产责任，加强应急值守和安全管理，坚决防止重特大安全事故发生。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_22753534",
+          "publishedOn": "2023-04-19T12:53:12.000Z",
+          "wordCount": 28,
+          "title": "北京长峰医院发生火灾，北京市连夜调度",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_22754285",
+          "author": null,
+          "description": "当地时间4月18日，联合国秘书长发言人迪雅里克表示，联合国秘书处已经通过美国常驻联合国代表团，就“泄密文件”事件正式向美国表达关切。\n迪雅里克表示，对于最近有报道称联合国秘书长和其他联合国高级官员的通讯受到美国政府监视和干扰，联合国正式向美国表达了关切。联合国方面已明确表示，此类行为不符合美国在《联合国宪章》和《联合国特权与豁免公约》中规定的义务。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_22754285",
+          "publishedOn": "2023-04-19T09:53:10.000Z",
+          "wordCount": 27,
+          "title": "联合国正式向美国就“泄密文件”事件表达关切",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_22760549",
+          "author": null,
+          "description": "4月18日，广州天河“1·11”驾车撞人案一审宣判，被告人温庆运被判处死刑。\n据广州中院官方微信公众号4月18日晚消息，4月18日，该院依法由3名法官和4名人民陪审员组成合议庭，对被告人温庆运以危险方法危害公共安全案进行了公开审理，并于当日宣判。\n法院审理查明，2023年1月11日17时许，温庆运为发泄个人情绪，在广州市天河区故意驾车冲撞行人和道路设施，造成多人伤亡及财产损失等严重后果。法院认为，被告人温庆运犯罪手段极其残忍，犯罪后果极其严重，严重危害公共安全，故依法对其判处死刑，剥夺政治权利终身。\n一位旁听过此次庭审的受害者家属告诉澎湃新闻（www.thepaper.cn），此次庭审持续了一天，4月18日下午法院当庭宣判。在庭审中，温庆运未有明显情绪波动，较为平静，说话很少，也未解释事发当日为何作出如此疯狂行为。此外，温庆运未向受害者及其家属、社会公众等道歉，仅说了一句“后悔”，但未具体说对什么感到后悔。\n该受害者家属透露，在上述撞人事故中，他失去了唯一的孩子，这对整个家庭的打击非常大，“有可能一辈子都走不出来”。当听到温庆运被判处死刑时，他的“心里才稍微好受些”，家属普遍的诉求是“最低是死刑”。\n据该受害者家属介绍，事发后，受害者家属未和温庆运的家属接触过，对方也未承担相关费用。目前，部分受害者家属已提出民事索赔。\n2023年1月11日17时许，广州天河区天河路、体育东路附近，一辆宝马SUV多次撞上行人、车辆等。多段现场视频显示，路面上多人受伤倒地，肇事男子停车后有撒钞票的行为，并试图逃跑。据封面新闻此前报道，记者走访发现，此次事故中发生了6次碰撞，有目击者称涉事车辆曾折返回来再撞行人。\n对于该事件，广州市公安局此前通报称，2023年1月11日17时25分，广州天河路体育东路口发生一起小车碰撞行人的交通事故，目前造成5死13伤。接报警后，广州交警迅速派员赶赴现场处置，并协助医务人员救治伤者。目前，涉事司机温某（男，22岁，广东揭阳人）已被警方控制，事故正在进一步调查处理中。1月14日，广州市检察机关依法以涉嫌以危险方法危害公共安全罪，对广州市公安局天河分局提请批准逮捕的天河“1·11”驾车撞人案犯罪嫌疑人温某作出批准逮捕决定。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_22760549",
+          "publishedOn": "2023-04-19T08:53:09.000Z",
+          "wordCount": 37,
+          "title": "广州宝马撞人案司机一审死刑，受害者家属：他没解释动机，没道歉",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_22726389",
+          "author": null,
+          "description": "受疫情影响三年之后，2023年的第41届香港电影金像奖终于恢复完全的常态，无论是举办时间、举行场地，还是出席人员的熠熠星光都令人感受到电影回归的十足活力。\n颁奖礼之前，香港电影金像奖协会主席尔冬升在记者会上致辞时表示，随着疫情减却，香港社会逐步复常，今年可以通过一连串盛大活动重现金像奖的璀璨盛况。值得一提的是，为了让大家重新感受与电影的“重逢”，今年金像奖红地毯环节位置调整，可让更多观众近距离观看及参与。\n第41届金像奖注定是载入史册的一届，各种名场面接连上演。从最终的结果来看，今年的奖项“惊喜”满满，最大的圆满来自于郑秀文，终于在第七次提名最佳女主角后拿下了梦寐以求的金像奖杯，她和终身成就奖获得者胡枫两度在现场唱起《我等到花儿也谢了》；而从提名阶段就备受争议，甚至一度被指 “退出”评选的纪录片《给十九岁的我》却爆冷拿下最佳影片。提名阶段16项提名“碾压式”领跑的影片《正义回廊》最终收获不及预期，仅收获最佳新导演、最佳剪接；韦家辉导演的《神探大战》获得最佳编剧、最佳导演、最佳男主角三项大奖，收获颇丰。\n郑秀文、胡枫“等得花儿也谢了”\n本届颁奖礼的第一个奖项，是新晋奥斯卡影后杨紫琼颁发给年仅10岁的巴基斯坦裔小演员林诺的最佳新人演员奖。\n\n杨紫琼一出场便收获全场掌声。在颁奖前，杨紫琼提到自己在1986年凭《皇家师姐》提名同一奖项，因此颁发此奖“非常合适”，她鼓励所有电影人“如果我们奋斗、努力、坚持永远永不放弃，相信自己的梦想，梦想可以实现！”\n\n林诺\n\n杨紫琼与小演员林诺在典礼一开场就为本届香港电影金像奖定下了新老交替，薪火相传的整体基调。\n自提名名单公布以来，第41届金像奖最大的悬念无疑是郑秀文是否能够梦圆最佳女主角。在《流花落水》之前，郑秀文已凭借《孤男寡女》《钟无艳》《瘦身男女》《同居蜜友》《长恨歌》《高海拔之恋Ⅱ》《盲探》《花椒之味》《圣荷西谋杀案》六次征战金像奖，拿…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_22726389",
+          "publishedOn": "2023-04-19T08:23:15.000Z",
+          "wordCount": 135,
+          "title": "第41届香港金像奖揭晓，郑秀文圆梦影后，刘青云三封影帝",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_22761947",
+          "author": null,
+          "description": "4月19日中午12时，北京市人民政府新闻办公室举行长峰医院火灾事故情况通报会。北京市公安局刑事侦查总队总队长孙海涛通报如下：\n4月18日，长峰医院火灾事故发生后，北京市公安局会同消防等相关部门，连夜开展调查访问、勘查检验等工作。\n经查，北京长峰医院院长王某玲（女，44岁）、副院长汪某（女，37岁）、总务科主任王某阳（男，50岁），施工公司负责人王某峰（男，47岁）、现场施工人员程某君（男，33岁）等12人，涉嫌重大责任事故罪。目前上述人员已被公安机关依法刑事拘留，案件正在进一步工作中。\n下一步，公安机关将会同相关部门，进一步深入侦查调查、完善固定证据，依法打击处理。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_22761947",
+          "publishedOn": "2023-04-19T07:53:12.000Z",
+          "wordCount": 33,
+          "title": "北京长峰医院院长王某玲等12人涉嫌重大责任事故罪被刑拘",
+          "imageUrl": null
+        },
         {
           "id": "https://www.thepaper.cn/newsDetail_forward_22750770",
           "author": null,
@@ -6528,56 +6608,6 @@
           "wordCount": 91,
           "title": "居民与公安打官司：质疑物业行贿交警被拘十日，胜诉后获赔偿",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_22374576",
-          "author": null,
-          "description": "中国民用航空局于3月20日发布《关于“3·21”东航MU5735航空器飞行事故调查进展情况的通报》。记者就相关问题采访了南京航空航天大学民航学院副院长邵荃和中航技进出口有限责任公司客户服务部训练与飞安办主任高俊。\n问：民航局为何在此时发布此次调查进展情况通报？\n邵荃：运输航空事故往往社会影响大，公众关注度高。在事发周年向公众披露有关调查进展信息是国际民航业界的通行要求和做法。\n国际国内相关法律规定都对航空器事故调查报告公布时限提出了明确要求。《国际民用航空公约》附件13《航空器事故和事故征候调查》规定，进行事故或事故征候调查的国家必须尽快并在可能时于12个月之内将最终报告公开发布。如果不能在12个月之内公开发布报告，进行调查的国家必须在每个事发周年日公开发布一份临时声明。中国民航规章《民用航空器事件技术调查规定》要求，事故和严重事故征候的最终调查报告应当在事发12个月内依法及时向社会公布，依法不予公开的除外。未能在事发12个月内公布最终调查报告的事故或者严重事故征候，组织事件调查的部门应当在事件周年日向社会公布调查进展情况。需要强调的是，无论“临时声明”还是“调查进展情况”，都不是“最终调查结果”。\n从历史上看，法航AF447、埃塞航B737MAX等事故在该阶段都发布过中期报告或中期声明，对调查进展情况进行介绍，回应遇难者家属及社会关切。\n问：为何“最终调查结果”的公布需要更长的时间？\n邵荃：一般来说，大型运输航空事故调查的周期往往都超过一年，这主要是由于调查所面临的技术复杂性和不确定性，很多技术疑点、难点都需要反复论证，一些关键结论还需要得到工程实验的验证支撑，这都要耗费大量时间。统计表明，过去30年全球民航所发生的千余起商业航空事故中，在一年内发布最终报告的仅占25%。因此，国际民航组织对于航空器事故调查报告的公布时限做出了原则性和灵活性相结合的制度安排，我国民航规章在这方面与国际规则保持了一致性。\n问：关于调查进展情况通报的内容和形式，是否有相关规定或惯例？\n邵荃：调查进展情况通报，也称“中期声明”，由于每次事故的具体情况和调查进度都不一样，国际民航组织对其内容和形式没有统一的规定。在实践中，有的国家公布的是一份中期报告，有的则是一份中期声明。本次中国民用航空局所发布的情况通报，从形式上来看与国际上曾经发布过的案例具有共同特征，即给出了目前已经掌握的情况、通报调查的大致进度等，内容上基本涵盖了事故调查工作中的重点要素，诸如对飞机残骸的搜寻、辨识、检查、实验验证，对机组成员资质能力、航班运行、飞机适航维修、空中交通管制服务、机场地面保障等方面的调查。这些都是整体调查的关键步骤，也是支撑后续研究分析的重要基础。\n当然，一般情况下进展情况通报所能披露的范围和程度，则主要由调查工作的实际复杂性和调查进度所决定。\n问：此次调查进展情况通报提到“本起事故非常复杂、极为罕见”，如何理解这句话？\n高俊：航空器事故调查是一项复杂的系统工程，通常需要从人员资质及操作、航空器适航状态、天气环境、地面保障、空管指挥、公司组织管理等多方面开展全面深入的调查。\n从目前了解的情况看，此次事故与以往存在很大差异。飞机高速坠地后几乎完全解体，残骸琐碎且分布较散，这都极大增加了现场搜寻勘查和残骸取证工作的难度。按照事故调查程序，调查组需要对所有寻获的残骸进行辨识，对重要残骸进行详细检查和实验分析，以便确定失效机理和最后阶段的工作状态，为后续调查分析提供证据，这些都是非常复杂专业的工作。还有通报中所提及的对飞机适航维修等情况开展调查，一般来讲，这个调查工作量也很大，需要调查飞机全生命周期的适航维修情况，如航线和定检、各类修理改装、适航指令及服务通告执行等工作记录，涉及的资料可能达成千上万份，需要耗费大量人力和时间，这些都反映出本次调查工作的技术复杂性。当然，除了残骸分析验证和飞机适航维修调查，事故调查涉及的其他方方面面同样纷繁复杂，都需要调查组严谨细致、客观深入地开展工作，确保最终调查结论经得起历史检验。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_22374576",
-          "publishedOn": "2023-03-21T03:53:08.000Z",
-          "wordCount": 26,
-          "title": "民航专家解读“3·21”东航MU5735航空器飞行事故调查进展情况通报",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_22381471",
-          "author": null,
-          "description": "当地时间3月20日下午，刚刚抵达莫斯科的国家主席习近平应约在克里姆林宫会见俄罗斯总统普京。\n习近平抵达时，克里姆林宫司令在下车处迎接。普京总统同习近平热情握手并合影。两位元首就中俄关系及共同关心的问题进行了深入、坦诚的交流。\n习近平指出，很高兴应普京总统邀请，再次对俄罗斯进行国事访问。十年前我就任国家主席后首次出访就选择了俄罗斯，至今记忆犹新。十年来，我同普京总统保持了密切联系。无论是我在中共二十大上连任中共中央总书记，还是前不久再次当选中国国家主席，你都第一时间给我发来贺电，我深表感谢。俄罗斯明年将举行总统选举。在你坚强领导下，俄罗斯发展振兴取得长足进展。我坚信，俄罗斯人民一定会继续给予你坚定支持。\n习近平强调，中俄关系发展到今天，有其深刻的历史逻辑。作为最大邻国和全面战略协作伙伴，中俄关系在各自外交全局和对外政策中都占据优先地位。中国历来奉行独立自主的外交政策。把中俄关系巩固好、发展好，是中方基于自身根本利益和世界发展大势作出的战略抉择。中方同俄方加强战略协作的大方向坚定不移。中俄都致力于实现国家发展振兴，都支持世界多极化，都推动国际关系民主化。双方要进一步深化各领域务实合作，加强在联合国等多边平台的协调配合，助力各自国家发展振兴，做世界和平稳定的中流砥柱。\n普京热烈欢迎习近平对俄罗斯进行国事访问，对习近平连任中国国家主席再次表示热烈祝贺。普京表示，过去十年来，中国各方面发展都取得令世人瞩目的伟大成就，这归功于习近平主席的卓越领导，也证明了中国国家制度和治理体系的优越。我坚信，在习近平主席坚强领导下，中国必将继续发展繁荣，顺利实现各项既定宏伟目标。在双方共同努力下，近年来俄中关系在各领域都取得了丰硕成果。俄方愿同中方继续深化双边务实合作，加强在国际事务中的沟通协作，推动世界多极化和国际关系民主化进程。\n双方就乌克兰问题深入交换意见。习近平强调，在乌克兰问题上，和平、理性的声音在不断积聚，大多数国家都支持缓和紧张局势，主张劝和促谈，反对火上浇油。历史上看，冲突最后都需要通过对话和谈判解决。不久前，中方专门发表了立场文件，呼吁政治解决乌克兰危机，反对冷战思维，反对单边制裁。我们认为，越是困难重重，越要为和平留下空间；越是矛盾尖锐，越不能放弃对话努力。中方愿继续为推动政治解决乌克兰问题发挥建设性作用。\n普京表示，俄方赞赏中方在重大国际问题上一贯秉持公正、客观、平衡立场，主持公平正义。俄方认真研究了中方关于政治解决乌克兰问题的立场文件，对和谈持开放态度，欢迎中方为此发挥建设性作用。\n两国元首表示，期待明天再次会谈，规划未来一个时期中俄全面战略协作伙伴关系新蓝图。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_22381471",
-          "publishedOn": "2023-03-21T02:53:07.000Z",
-          "wordCount": 38,
-          "title": "视频丨习近平会见俄罗斯总统普京",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_22373944",
-          "author": null,
-          "description": "当地时间3月20日下午，国家主席习近平乘专机抵达莫斯科，应俄罗斯总统普京邀请，对俄罗斯进行国事访问。\n当地时间下午1时许，习近平乘坐的专机抵达莫斯科伏努科沃专机机场。习近平步出舱门时，俄罗斯副总理切尔内申科等政府高级官员在舷梯旁热情迎接。\n俄方在机场举行隆重迎宾仪式。军乐团奏中俄两国国歌。习近平检阅俄罗斯三军仪仗队并观看分列式。\n习近平发表书面讲话，代表中国政府和中国人民，向俄罗斯政府和人民致以诚挚问候和良好祝愿。习近平强调，中俄两国是山水相连的友好邻邦。双方坚持在不结盟、不对抗、不针对第三方原则基础上巩固和发展双边关系，树立了新型大国关系典范。中俄关系发展成果给两国人民带来了实实在在的好处，为世界发展进步作出了重要贡献。\n习近平指出，中俄同为世界主要大国和联合国安理会常任理事国，在国际事务中发挥着重要作用。面对动荡变革的世界，中方愿继续同俄方一道，坚定维护以联合国为核心的国际体系、以国际法为基础的国际秩序、以联合国宪章宗旨和原则为基础的国际关系基本准则，坚持真正的多边主义，推动世界多极化和国际关系民主化，推动全球治理朝着更加公正合理的方向发展。相信这次访问一定会取得丰硕成果，为中俄新时代全面战略协作伙伴关系健康稳定发展注入新的动力。\n中共中央政治局常委、中央办公厅主任蔡奇，中共中央政治局委员、中央外事工作委员会办公室主任王毅，国务委员兼外交部部长秦刚等陪同人员同机抵达。\n中国驻俄罗斯大使张汉晖也到机场迎接。\n\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.best",
-          "link": "https://www.thepaper.cn/newsDetail_forward_22373944",
-          "publishedOn": "2023-03-21T01:53:10.000Z",
-          "wordCount": 27,
-          "title": "习近平抵达莫斯科开始对俄罗斯进行国事访问",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_22369226",
-          "author": null,
-          "description": "日前，国家监委对紫光集团有限公司原董事长赵伟国涉嫌职务犯罪问题进行了立案调查。\n经查，赵伟国身为国有企业管理人员，利欲熏心，肆意妄为，背弃职责使命，公器私用、化公为私，将所管理的国有企业视为私人领地，处心积虑巧取豪夺国有资产，违规将本单位的盈利业务交由亲友进行经营，以明显高于市场的价格向亲友经营管理的单位采购商品，指使上市公司董事实施损害上市公司利益行为，致使国家利益遭受特别重大损失。\n赵伟国涉嫌贪污、为亲友非法牟利、背信损害上市公司利益犯罪，且在党的十八大后不收敛、不收手，性质严重，影响恶劣，应予严肃处理。依据《中华人民共和国监察法》有关规定，国家监委将其涉嫌犯罪问题移送检察机关依法审查起诉，所涉财物一并移送。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_22369226",
-          "publishedOn": "2023-03-21T00:53:07.000Z",
-          "wordCount": 27,
-          "title": "紫光集团原董事长赵伟国涉嫌职务犯罪被移送检察机关审查起诉",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_22370986",
-          "author": null,
-          "description": "抵达莫斯科伏努科沃专机机场的书面讲话\n（2023年3月20日，莫斯科）\n中华人民共和国主席 习近平\n应普京总统邀请，我很高兴再次踏上友好邻邦俄罗斯的土地，对俄罗斯联邦进行国事访问。我谨代表中国政府和中国人民，向俄罗斯政府和俄罗斯人民致以诚挚问候和良好祝愿。\n中俄两国是山水相连的友好邻邦。10年前，我首次以中国国家主席身份对俄罗斯进行国事访问，同普京总统一道开启中俄关系全面发展新篇章。10年来，中俄坚持在不结盟、不对抗、不针对第三方基础上巩固和发展双边关系，树立了相互尊重、和平共处、合作共赢的新型大国关系典范。双方政治互信不断深化，务实合作持续扩大，国际协作密切有效，世代友好深入人心。中俄关系发展成果给两国人民带来了实实在在的好处，为世界发展进步作出了重要贡献。\n中俄同为世界主要大国和联合国安理会常任理事国，在国际事务中发挥着重要作用。面对动荡变革的世界，中方愿继续同俄方一道，坚定维护以联合国为核心的国际体系、以国际法为基础的国际秩序、以联合国宪章宗旨和原则为基础的国际关系基本准则，坚持真正的多边主义，推动世界多极化和国际关系民主化，推动全球治理朝着更加公正合理的方向发展。\n我期待在访问期间，同普京总统就双边关系以及共同关心的重大国际和地区问题深入交换意见，为新时期中俄战略协作和务实合作擘画蓝图。相信这次访问一定会取得丰硕成果，为中俄新时代全面战略协作伙伴关系健康稳定发展注入新动力。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_22370986",
-          "publishedOn": "2023-03-20T23:53:06.000Z",
-          "wordCount": 32,
-          "title": "习近平抵达莫斯科，在伏努科沃专机机场发表书面讲话",
-          "imageUrl": null
         }
       ]
     },
@@ -6586,6 +6616,86 @@
       "feedUrl": "https://www.nationalreview.com/feed/",
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1476515",
+          "author": "Ryan Mills",
+          "description": "The $1.7 million was initially budgeted for one toilet, but a private firm offered to build a second at a cost of $300,000 for the city.",
+          "link": "https://www.nationalreview.com/news/two-loos-for-the-price-of-one-san-francisco-to-add-second-public-toilet-as-part-of-1-7-million-project/",
+          "publishedOn": "2023-04-19T15:07:42.000Z",
+          "wordCount": 8000,
+          "title": "Two Loos for the Price of One: San Francisco to Add Second Public Toilet as Part of $1.7 Million Project",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2023/04/san-francisco.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1476426",
+          "author": "Ari Blaff",
+          "description": "‘Since I left FNC, the template changed from ‘Fair and Balanced’ to ‘tell the audience what it wants to hear,’ the former Fox star wrote.",
+          "link": "https://www.nationalreview.com/news/when-money-becomes-more-important-bill-oreilly-bashes-fox-news-after-defamation-settlement/",
+          "publishedOn": "2023-04-19T13:17:06.000Z",
+          "wordCount": 7710,
+          "title": "‘When Money Becomes More Important’: Bill O’Reilly Bashes Fox News after Defamation Settlement",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2018/07/bill-oreilly.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1476050",
+          "author": "Douglas Carr",
+          "description": "There doesn’t need to be a recession to tame inflation, but it looks as if there will be.",
+          "link": "https://www.nationalreview.com/2023/04/on-the-brink-of-recession/",
+          "publishedOn": "2023-04-19T10:30:49.000Z",
+          "wordCount": 8715,
+          "title": "On the Brink of Recession",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2023/04/customer-target-chicago.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1476282",
+          "author": "Armond White",
+          "description": "Film culture as dehumanizing propaganda.",
+          "link": "https://www.nationalreview.com/2023/04/tarantinos-no-sex-talk/",
+          "publishedOn": "2023-04-19T10:30:22.000Z",
+          "wordCount": 8203,
+          "title": "Tarantino’s No-Sex Talk",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2020/02/quentin-tarantino-once-upon-a-time-in-hollywood-premiere.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1476072",
+          "author": "Joel Zinberg and Casey B. Mulligan",
+          "description": "When the next pandemic comes, Americans would be well advised to follow leaders like Governor Ron DeSantis.",
+          "link": "https://www.nationalreview.com/2023/04/no-lockdown-states-did-not-do-better/",
+          "publishedOn": "2023-04-19T10:30:19.000Z",
+          "wordCount": 8529,
+          "title": "No, Lockdown States Did Not Do Better",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2023/04/GavinNewsom-JBPritzker-RonDeSantis-2.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1476376",
+          "author": "Michael Brendan Dougherty",
+          "description": "There is no going back to a pre-Trump mindset.",
+          "link": "https://www.nationalreview.com/2023/04/how-we-got-to-year-zero/",
+          "publishedOn": "2023-04-19T10:30:13.000Z",
+          "wordCount": 8555,
+          "title": "How We Got to Year Zero",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2023/04/donald-trump-nra-2023.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1476278",
+          "author": "The Editors",
+          "description": "Teaching the latest progressive gobbledygook instead of basic math skills does nothing to help children.",
+          "link": "https://www.nationalreview.com/2023/04/the-woke-takeover-of-ontario-schools/",
+          "publishedOn": "2023-04-19T10:30:11.000Z",
+          "wordCount": 7909,
+          "title": "The Woke Takeover of Ontario Schools",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2021/04/school-students-desks.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1476131",
+          "author": "Jeanne Mancini",
+          "description": "As thousands march for life in Ohio, they must now oppose a measure that would enshrine abortion in the state’s constitution.",
+          "link": "https://www.nationalreview.com/2023/04/ohioans-must-stand-and-march-against-abortion-radicalism/",
+          "publishedOn": "2023-04-19T10:30:07.000Z",
+          "wordCount": 8374,
+          "title": "Ohioans Must Stand — and March — against Abortion Radicalism",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/09/abortion-protest-ohio.jpg?fit=1200%2C700"
+        },
         {
           "id": "https://www.nationalreview.com/?post_type=blog-post&p=1476344",
           "author": "Brittany Bernstein",
@@ -11245,56 +11355,6 @@
           "wordCount": 7960,
           "title": "Why Are North Carolina Republicans Expanding Obamacare?",
           "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2023/03/north-carolina-gop.jpg?fit=1200%2C700"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1463138",
-          "author": "Caroline Downey",
-          "description": "‘In implementing this legislation, my administration will declassify and share as much of that information as possible.’",
-          "link": "https://www.nationalreview.com/news/biden-signs-bill-to-declassify-covid-origins-intel/",
-          "publishedOn": "2023-03-21T02:43:43.000Z",
-          "wordCount": 7514,
-          "title": "Biden Signs Bill to Declassify Covid-Origins Intel",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/05/joe-biden-covid.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1463115",
-          "author": "Jimmy Quinn",
-          "description": "The revelations come at a pivotal time for TikTok’s survival in the U.S., as the Biden administration and Congress mull a crackdown.",
-          "link": "https://www.nationalreview.com/2023/03/new-report-reveals-tiktok-parents-extensive-links-to-chinese-military-surveillance-complex/",
-          "publishedOn": "2023-03-21T00:45:11.000Z",
-          "wordCount": 8010,
-          "title": "New Report Reveals TikTok Parent’s Extensive Links to Chinese Military-Surveillance Complex",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2023/03/bytedance-logo.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1463047",
-          "author": "Caroline Downey",
-          "description": "‘When Californians today buy a handgun at a store, they are largely restricted to models from over sixteen years ago,’ Judge Cormac J. Carney wrote.",
-          "link": "https://www.nationalreview.com/news/federal-judge-blocks-california-handgun-law-preventing-production-of-new-models/",
-          "publishedOn": "2023-03-20T22:40:04.000Z",
-          "wordCount": 7645,
-          "title": "Federal Judge Blocks Enforcement of California Handgun Regulation",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2018/04/gun-store-phoenix-2012.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1463048",
-          "author": "Ari Blaff",
-          "description": "Today News Africa correspondent Simon Ateba began shouting over Karine Jean-Pierre, demanding that she allow him to ask a question.",
-          "link": "https://www.nationalreview.com/news/this-is-not-china-african-news-correspondent-slams-white-house-press-secretary/",
-          "publishedOn": "2023-03-20T21:55:59.000Z",
-          "wordCount": 7651,
-          "title": "White House Press Briefing Descends into Chaos as Cast of <I>Ted Lasso</I> Looks On",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2023/03/karine-jean-pierre-white-house-press-room.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1462975",
-          "author": "Ari Blaff",
-          "description": "Kennedy was reinstated and will return to campus when the football season begins.",
-          "link": "https://www.nationalreview.com/news/praying-football-coach-receives-nearly-2-million-settlement-from-school-district/",
-          "publishedOn": "2023-03-20T20:04:33.000Z",
-          "wordCount": 7663,
-          "title": "Praying Football Coach Receives Nearly $2 Million Settlement from School District",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2023/03/GettyImages-1393643535-Kennedy.jpg?fit=2047%2C1200"
         }
       ]
     }
