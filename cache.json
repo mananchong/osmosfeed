@@ -44,16 +44,6 @@
           "wordCount": 5907,
           "title": "R Weekly 2023-W14 API Framework Examples, Reading Remote Files",
           "imageUrl": "https://rweekly.org/public/facebook.png"
-        },
-        {
-          "id": "https://rweekly.org/2023-W13.html",
-          "author": null,
-          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Ryo Nakagawara, with help from the R Weekly team members and contributors.\nHighlight\nSome love for Base R. Part 1\nTeaching ChatGPT What It Doesn’t Know\nAlt Text in R: Plots, Reports, and Shiny\nInsights\nSome love for Base R. Part 1\nSome love for Base R. Part 2\nWhy should I use R: The Excel R Data Wrangling comparison: Part 1\nR in the Real World\nTeaching ChatGPT What It Doesn’t Know\nHow old was Aragorn in regular human years?\n\nR in Organizations\nShiny Use Cases within Pharma\nNew Packages\n📦 Go Live for More New Pkgs 📦\nCRAN\n{octopus} 0.1.2: R package for database management. Upload files, view tables and schemas, send queries, and more.\n{distillML} 0.1.0.13: Model Distillation…",
-          "link": "https://rweekly.org/2023-W13.html",
-          "publishedOn": "2023-03-27T00:00:00.000Z",
-          "wordCount": 6337,
-          "title": "R Weekly 2022-W13 Base R, ChatGPT, Alt-Text",
-          "imageUrl": "https://rweekly.org/public/facebook.png"
         }
       ]
     },
@@ -461,26 +451,6 @@
           "wordCount": 51,
           "title": "余华｜我动过真感情的，是小美",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_22455700",
-          "author": null,
-          "description": "钱锺书《管锥编》第二册第463页对“老子王弼注”第七八章的解读提及了“翻案语”（Paradox）和“冤亲词”（Oxymoron）两个词，钱先生认为，老子《五千言》中“正言若反”作为修辞手法“触处弥望”，即修辞所谓“翻案语”与“冤亲词”。钱先生举例说：“大音希声，大象无形”，“大成若缺，大直若屈”即翻案语；“冤亲词乃和解而无间焉”，“上德不德”即冤亲词。钱先生还举了德国神秘宗某诗人（Daniel von Czepko）的一首小诗“因彼故此”为例来说明翻案语和冤亲词，但他同时指出诗中诸如“黑暗之光”（a deep but dazzling darkness）、“死亡之生”、“苦痛之甘美”等翻案语和冤亲词“不可胜稽”，结果就会是“皆神奇而化臭腐矣”。在《管锥编》第五册第169页上钱先生又对冤亲词的使用作了增订，指出：圣·奥古斯丁赞颂上帝，皆出以“冤亲词”，如云：“至隐而至显”“长动而长止”“赫怒而宁静”“言说而缄默”；又自省云：“人居世间，乃死亡之生欤？抑生存之死欤？”钱先生把Paradox译为“翻案语”、Oxymoron译为“冤亲词”，实在是精妙至极！值得外语学习者和翻译工作者学习和借鉴。\n\n《管锥编》，三联书店2019年10月版\n\nParadox和Oxymoron是英语中两种常见的修辞格，我们在英语学习、文学欣赏和文学翻译中经常会碰到它们。一般认为，诗歌与文章中使用Paradox和Oxymoron是为了增强语言的表现力，既给人以耳目一新之感，也可产生幽默或反讽的效果。关于这两个词的中译，译名有很多。Paradox通常被译为：悖论、反论、诡论、矛盾语、逆说等等；Oxymoron则通常被译为：矛盾修饰法、似非而是的隽语、逆喻等等。这些译名都不如钱译“翻案语”和“冤亲词”来得巧妙。陆谷孙先生在纪念钱先生的文章《灵光隳矣！》的结尾处写道：“钱先生在《管锥编》内的西文雅言翻译，可以作为…",
-          "link": "https://www.thepaper.cn/newsDetail_forward_22455700",
-          "publishedOn": "2023-03-27T04:02:06.000Z",
-          "wordCount": 698,
-          "title": "吴其尧｜关于Paradox和Oxymoron两个词的中译——读《管锥编》札记之三",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_22455691",
-          "author": null,
-          "description": "《幸福地理学》，商务印书馆2023年3月即将出版\n\n“幸福全然有赖于我们与他人的关联：家人、朋友和街坊，以及你不大会注意到的、那个打扫你办公室的清洁妇。幸福不是名词，不是动词，而是一个连词。”乍一听很像是寻常的鸡汤语录，但是，如果你追随埃里克·韦纳（Eric Weiner）一年内在十个国家探寻有关幸福的“科学”答案，在一连串的茫无头绪、若有所悟和自相矛盾之后，这句话似乎也不是全无意义。一本回答“世界上哪里最幸福”的书，探寻的并非“幸福是什么”，而是“哪里最幸福”——确切地说，是关于“世界上哪个国家最幸福”。如果草草翻阅，这本书可能会被某些读者归类为自助励志书。甚至作者自己也说，这是一本“哲思性幽默旅行书”，他宁愿自己被视为一个有思想深度的作家，而不是到处乱跑的记者。怪不得很多评论者都把此书归纳为“旅行与心灵省思的混合物”。\n在作者的个人网页上，他这样解释为什么要写此书：“我给美国国家公共电台（NPR）当驻外记者很多年，工作使我前往世界上那些最不幸福的国家，在这些国家寻找那些最不幸福的人，和他们一起度过一些时光。当然总有收获，但也压抑得很。于是，有一天忽然想：如果我去的是那些最幸福的地方呢？那些地方的人到底有什么秘诀能造就幸福呢？本书的念头就是这样率尔登场的。”\n埃里克·韦纳从马里兰大学毕业后一直从事新闻工作，1989年至1991年为《纽约时报》做商务报道，之后长期担任美国国家公共电台的驻外记者，先后常驻印度、以色列和日本，其间到三十多个国家采访和报道，多次获得各类新闻奖项。在做了近二十年的记者之后，他开始了向作家的转型。当然，记者生涯所积累的经验、见识与人脉非常有利于他为一个确定的主题准备素材。他选定的第一个主题就是研究“幸福地理学”（所以本书的英文名是The Geography of Bliss）。研究幸福，按幸福程度给世界各国排序，这个学科还真的存在，尽管有人称之为“庸…",
-          "link": "https://www.thepaper.cn/newsDetail_forward_22455691",
-          "publishedOn": "2023-03-27T04:02:06.000Z",
-          "wordCount": null,
-          "title": "罗新读《幸福地理学》｜世界上哪个国家最幸福",
-          "imageUrl": null
         }
       ]
     },
@@ -489,6 +459,56 @@
       "feedUrl": "https://feedx.net/rss/thepaper.xml",
       "siteUrl": "http://thepaper.cn",
       "articles": [
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_22846962",
+          "author": null,
+          "description": "自然资源部部长王广华4月25日在全国自然资源和不动产确权登记工作会议上宣布，我国全面实现不动产统一登记。\n这意味着经过十年努力，从分散到统一，从城市房屋到农村宅基地，从不动产到自然资源，覆盖所有国土空间，涵盖所有不动产物权的不动产统一登记制度全面建立。\n我国以民法典为统领，以《不动产登记暂行条例》为核心，以实施细则、操作规范、地方性法规等为配套支撑的不动产统一登记制度体系基本成型。\n2013年3月，党中央、国务院决定建立不动产统一登记机构，提出将分散在多个部门的不动产登记职责整合，实现登记机构、登记簿册、登记依据和信息平台“四统一”改革任务。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_22846962",
+          "publishedOn": "2023-04-25T13:53:10.000Z",
+          "wordCount": 30,
+          "title": "我国全面实现不动产统一登记",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_22843982",
+          "author": null,
+          "description": "今年3月1日，淄博市相关方面表示，五一期间，淄博将对北大、清华在校生实行景区、指定酒店住宿全程免费，引发舆论关注。此前，红星新闻独家采访到淄博市政府相关人员，但彼时这一承诺能否兑现仍不能确定（此前报道：“只欢迎清北名校生”？淄博回应：欢迎所有大学生来旅游，清北学生免费游如何落地还待商量）。\n五一假期临近，这一承诺能否兑现？对此，红星新闻以学生身份询问淄博12345，一名工作人员告诉记者，经过核实，淄博市人民政府办公室近期已召开有关五一期间清北两校学生来淄博就业体验观察的工作会议，并决定为两所学校学生提供“定制”免费游服务。学生通过校方官方微信公众号报名即可。\n该工作人员表示，无论任何年级，只要是清华和北大的在校生，即可免费到淄博旅游，吃住行以及景点费用均由淄博市政府承担，当地还会安排统一接送的车辆。\n此外，红星新闻记者也询问了淄博市政府办公室，对方表示，为兑现清北两校学生本次免费游的承诺，淄博市政府相关单位已在人社局牵头下成立了“淄为你 博未来”的就业体验淄博行工作专班办公室，最终落实方案以学校官网的公告为准。\n红星新闻查询两校官方公众号看到，4月18日19点，清北两校官方公众号“北大就业”“清华职业辅导”分别发布了《活动“淄为你 博未来”就业体验淄博行》《“淄为你 博未来”就业体验淄博行活动通知》的文章。综合来看，两校的就业体验之旅均定在5月3日-4日两天，两校分别享有200个免费游名额。\n\n↑北京大学官方公众号“北大就业”发布的“免费游”公告\n\n\n清华大学官方公众号“清华职业指导”发布的淄博就业游路线\n\n按照要求，本次淄博免费游活动仅限于清北两校在校学生（无论年级），但学生来往淄博的车票费需自行承担。\n当然，本次免费淄博游并非自由出行，而是围绕就业体验给定了4条可供选择的主题参观线路，共计包括23个就业体验参观点，涉及13家左右科技创新平台、高新技术企业和工业旅游示范点，以及10家代表淄博文化旅游特色的文博场馆。\n红星新闻记者看到，可供学生选择的参观内容包括齐鲁石化公司、西铁城（中国）精密机械有限公司、山东新华制药股份有限公司等企业，另外还有蒲松龄纪念馆、王渔洋纪念馆、足球博物馆、齐文化博物馆、天空之橙等景点。\n对于这样的既定路线设计，部分清华大学学生在学生群里讨论时表示：“虽然是免费，但不太自由，更愿意自己花钱到淄博旅游。”也有学生指出，当前淄博的火车票已一票难求，即便免费也没机会报名。\n根据两校发布的公告，能够参加本次淄博免费游的学生并不能自行活动。公告规定，所有报名成功的清北学生，在免费游活动流程内，必须全程跟队出行，严格按要求集中统一活动。至于后续淄博是否还会吸纳更多清北学生来当地免费游，淄博市政府办公室表示，后续将视情况择机组织类似的就业体验活动，但目前还不确定。\n（原标题：《淄博五一清北学生免费游确定：两天共400个名额，设4条既定线路，往返车票需自费》）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_22843982",
+          "publishedOn": "2023-04-25T11:53:12.000Z",
+          "wordCount": 40,
+          "title": "淄博五一清北学生免费游确定：两天共400个名额，往返车票自费",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_22845501",
+          "author": null,
+          "description": "4月25日，江苏省今年一季度主要经济数据出炉。至此，六个经济大省中已有广东、江苏、浙江、山东、四川五省公布了今年一季度GDP，河南数据暂缺。\n据江苏省统计局消息，一季度全省实现生产总值29401.7亿元，同比增长4.7%。其中第一产业增加值634.4亿元，同比增长3.0%；第二产业增加值12570.3亿元，同比增长4.5%；第三产业增加值16197.1亿元，同比增长5.0%。省统计局解读文章指出，一季度，全省GDP同比增长4.7%，比去年同期回升0.1个百分点，比去年全年回升1.9个百分点，连续3个季度增速稳步回升且回升幅度明显增大。\n澎湃新闻早前报道提到，今年一季度，广东实现地区生产总值30178.23亿元，同比增长4.0%。其中，第一产业增加值1039.06亿元，增长4.1%；第二产业增加值11141.35亿元，增长2.4%；第三产业增加值17997.83亿元，增长5.0%。省统计局解读文章指出，一季度广东经济运行持续向好，但距离完成全年目标任务仍有挑战，全省经济回升基础仍需加固。\n一季度，浙江省实现生产总值18925亿元，按可比价格计算，同比增长4.9%。分产业看，第一产业增加值366亿元，增长4.1%；第二产业增加值7494亿元，增长2.7%；第三产业增加值11065亿元，增长6.4%。省统计局解读文章提到，一季度随着疫情防控较快平稳转段，“8+4”政策组合拳持续发力，积极因素累积增多，我省经济企稳回升，开局良好。但也要看到，国际环境仍然复杂多变，不确定性较大，企业生产经营困难较多，经济运行进中有忧、依然承压。\n一季度，山东省实现生产总值20411亿元，按不变价格计算，同比增长4.7%。分产业看，第一产业增加值738亿元，增长3.8%；第二产业增加值7878亿元，增长5.1%；第三产业增加值11795亿元，增长4.5%。省统计局解读文章指出，总的看，一季度，全省工业生产加力提速，重大项目支撑有力，消费市场复苏强劲，结构转型持续推进，经济发展实现了质的有效提升和量的合理增长，达到了预期目标。\n一季度，四川省实现生产总值13374.7亿元，按可比价格计算，同比增长3.8%。其中，第一产业增加值为840.1亿元，增长3.3%；第二产业增加值为4579.8亿元，下降0.9%；第三产业增加值为7954.8亿元，增长6.7%。省统计局解读文章表示，一季度随着疫情防控较快平稳转段，稳增长政策持续显效，全省经济延续恢复发展态势。同时也要看到，外部环境依然复杂严峻，我省经济恢复基础还需进一步巩固。\n从总量上看，广东、江苏、浙江、山东、四川五省合计GDP达112290.63亿元。其中，广东、山东分别跨过3万亿和2万亿台阶。相较于去年一季度的27859亿元，江苏进一步逼近3万亿门槛。\n从增速上看，江苏、浙江、山东3省跑赢全国平均（4.5％）。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_22845501",
+          "publishedOn": "2023-04-25T10:53:11.000Z",
+          "wordCount": 29,
+          "title": "经济大省挑大梁：粤苏浙鲁川一季度GDP总量破11万亿，3省增速高于全国",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_22846193",
+          "author": null,
+          "description": "4月25日，外交部发言人毛宁主持例行记者会。毛宁宣布，为进一步便利中外人员往来，本着科学精准、安全有序的原则，中方将进一步优化远端检测安排。\n毛宁介绍，自4月29日起，所有来华人员可以登机前48小时内抗原检测代替核酸检测，航空公司不再查验登机前检测证明。同时，我们提醒出入境人员做好行前自我健康管理和监测，严格遵守我国及当地的防疫要求，确保健康出行、愉快旅行、平安回家。\n毛宁称，中方将继续根据疫情形势，科学优化防控政策，更好地保障中外人员安全健康有序往来。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_22846193",
+          "publishedOn": "2023-04-25T08:53:13.000Z",
+          "wordCount": 31,
+          "title": "外交部宣布进一步便利中外人员往来措施：航空公司不再查验登机前检测证明",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_22844800",
+          "author": null,
+          "description": "近日有媒体报道称，在重庆一列高铁上，因为后排女子带的孩子吵闹影响到前排乘客休息，引发了一场“骂战”。出门在外，难免碰到过父母不约束或管理不到位而影响他人的“熊孩子”，但从网传视频可以看出，这名孩子明显尚小，并没有行为管理能力，成年人应该多点理解和包容。更何况，因为“自己想休息没休息成”引发的争吵，影响了整个车厢的休息更不妥当。另一方面，作为父母，幼童的哭闹不能完全控制，但是对影响到他人的行为应该怀有歉意，伸手不打笑脸人，理解从来都应该是相互的！",
+          "link": "https://www.thepaper.cn/newsDetail_forward_22844800",
+          "publishedOn": "2023-04-25T07:53:14.000Z",
+          "wordCount": 30,
+          "title": "婴儿高铁哭闹引发女子和宝妈骂战，媒体：大人的争吵更刺耳",
+          "imageUrl": null
+        },
         {
           "id": "https://www.thepaper.cn/newsDetail_forward_22844346",
           "author": null,
@@ -6458,66 +6478,6 @@
           "wordCount": 30,
           "title": "4月20日起，北京种植牙费用将大幅降低",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_22454531",
-          "author": null,
-          "description": "“生活是不按常理出牌的。”\n“人脑总是要犯错的，但这也是人脑最可贵的地方。”\n“起码到现在为止，我认为GPT不会对我和安忆构成威胁。”\n……\n3月26日，在华东师范大学普陀校区思群堂，作家王安忆与余华的妙语连珠引来一阵阵爆笑和掌声。\n这场“现实与传奇：王安忆余华对谈”的活动消息一经公布，立即引起全校轰动，有人跑去行政楼连夜排队，有人为此建了“余华老师追星失败群”，有人发现票价在某网站炒到了一万，主办方更是紧急更换大场地，并安排线上直播——数据显示，仅前一个小时华师大的视频号就吸引了16万人在线观看，一个小时后数据又飙升到40万人。\n这样的文学热情，好像一下回到了上个世纪八十年代——当时的华师大就是许多人心目中的文学据点。余华兴致勃勃地说起当年他因《收获》改稿来上海，经常住进华师大宿舍，和格非、苏童、程永新、马原他们一见面就聊文学，聊到半夜大伙饿了，还一起爬铁门出去找东西吃，“那是很美好的经历。”\n“像余华说的，那个时代很美好，就是谈文学。”王安忆感慨，“文学是我们最主要的事情。”\n两人的对话还不时串起莫言、苏童、迟子建等等作家，许多小细节都能让同学们开怀大笑，还有同学弹幕留言：“莫言：没来，又感觉来了。”\n\n活动现场 本文照片 肖启玉 摄\n\n从现实中汲取，又往前推推\n这场对谈的主题为“现实与传奇”。谈及文学与现实，王安忆直言自己是一个写实主义写作者，是一个需要从现实生活中截取素材的人。“我最初看余华，包括《现实一种》等等。先锋文学进来的时候我对这种叙事方法是有所警惕的，一是怀疑持久性，一是怀疑可读性，因为先锋文学所表现的世界和我们的常识是有距离的，除非你像马尔克斯一样重新创造一个常识，好像又没到那个程度。但我看到余华后来的写作，他是这批先锋作家里唯一一个清醒的、自觉的、一下子就找到小说伦理的作家。”\n回顾当时的时代背景，王安忆感慨“每个人都在反抗”：“你知道我们已经封闭了那…",
-          "link": "https://www.thepaper.cn/newsDetail_forward_22454531",
-          "publishedOn": "2023-03-27T03:53:07.000Z",
-          "wordCount": 55,
-          "title": "余华对谈王安忆：GPT不会对我们俩构成威胁",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_22457317",
-          "author": null,
-          "description": "这几日，中国发展高层论坛2023年年会正在北京举行，伴随着这次会议，有多位美国商界、学界等的资深人士来到北京等地，并同中方各界别展开互动交流。\n与此同时，一名美国国务院高级外交官员开启了他相对低调的访华行程。据澎湃新闻（www.thepaper.cn）记者多方获悉，美国副助理国务卿华自强（Rick Waters）在刚刚过去的一周访问了中国香港、上海、北京等地，与学术界、商界人士密集会面交流，而他同时也是美国国务院新近成立的“中国事务协调办公室”（又名“中国组”，China House）的负责人。\n对此，香港《南华早报》援引学者分析称，此行是中美双方“工作层级沟通”的一部分。美国国务院官员通过与中方接触、咨询意见，或将为美国国务卿布林肯安排访华铺路。\n走访京沪智库，就中美关系交换意见\n\n2023年3月22日，美国国务院中国协调员、副助理国务卿华自强（Rick Waters）一行访问上海国际问题研究院。  微信公众号@上海国际问题研究院 图\n\n此次访华期间，华自强与京沪等多地学者进行了交流。据上海国际问题研究院微信公众号信息显示，3月22日，华自强一行访问了上海国际问题研究院，同该院院长陈东晓、学术咨询委员会主任杨洁勉会谈交流，双方就“中美关系等议题深入交换意见”。\n在北京，华自强于3月25日应邀访问察哈尔学会，并与该学会专家学者举行闭门午餐会，就中美关系和地区局势交换了意见。察哈尔学会会长韩方明在午餐前单独会见了华自强一行。\n澎湃新闻记者了解到，此行华自强还会见了其他中方人士，但并没有见诸公开信息。目前来看，华自强此访的更多行程和细节暂不明晰，但这是去年12月以来美国高级外交官首次访问中国。去年12月11日至12日，外交部副部长谢锋在河北廊坊同来访的美国国务院亚太事务助理国务卿康达、白宫国安会中国事务高级主任罗森伯格举行了会谈。从当时美国国务院的声明来看，康达、罗森伯格的访问…",
-          "link": "https://www.thepaper.cn/newsDetail_forward_22457317",
-          "publishedOn": "2023-03-27T03:53:07.000Z",
-          "wordCount": 58,
-          "title": "大外交｜美国国务院“中国组”负责人低调来华，访京沪港三地",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_22454901",
-          "author": null,
-          "description": "鄂尔多斯市风光 视觉中国 资料图\n\n内蒙古鄂尔多斯市人均GDP再冲新高。\n据鄂尔多斯市统计局微信公众号日前发布的消息，2022年，该市地区生产总值5613.44亿元，扣除价格因素同比增长5.4%，分产业看，第一产业增加值为194.96亿元，同比增长6.0%；第二产业增加值为3866.42亿元，同比增长7.9%；第三产业增加值为1552.06亿元，同比增长1.7%；年末常住人口220.07万人，同比增加3.23万人。\n由此计算，2022年鄂尔多斯市人均地区生产总值达到256908元，同比增长4.4%，按照2022年人民币平均汇率1美元兑6.7261元人民币折算为38196美元。\n此前的2021年，鄂尔多斯市地区生产总值4715.7亿元，扣除价格因素同比增长7.0%；年末常住人口216.8万人，同比增长0.6%。由此计算，2021年，鄂尔多斯市人均地区生产总值达到218118元，同比增长6.3%。按照2021年人民币平均汇率为1美元兑6.4515元人民币计算，鄂尔多斯市2021年人均地区生产总值为33809美元。\n《内蒙古自治区2022年国民经济和社会发展统计公报》显示，2022年内蒙古人均地区生产总值达到96474元，比上年增长4.2%。\n《中华人民共和国2022年国民经济和社会发展统计公报》显示，全年人均国内生产总值85698元，比上年增长3.0%。\n根据统计部门解释，人均GDP是重要的宏观经济指标之一，它是人们了解和把握一个国家或地区的宏观经济运行状况的有效工具，比较客观地反映了一个国家或地区经济社会的发展水平和发展程度，直接决定和影响着一个国家在居民收入和生活水平及其社会建设方面的投入取向、投入能力与投入水平。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_22454901",
-          "publishedOn": "2023-03-27T02:53:07.000Z",
-          "wordCount": 39,
-          "title": "鄂尔多斯去年人均GDP突破25万元，接近全国平均水平3倍",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_22454036",
-          "author": null,
-          "description": "国家发改委主任郑栅洁今天在中国发展高层论坛2023年年会上说，我国将统筹发展与安全，以新安全格局保障新发展格局，确保粮食、能源等重要资源的安全，不断提升产业链供应链的韧性和安全水平，加强重要基础设施的安全保障，防范化解金融、房地产等领域的风险，构建防范化解风险的长效机制。\n\n中青报·中青网记者 张国/摄\n\n\n郑栅洁还表示，中国将创新完善宏观调控，加强财政、货币、就业、产业、投资、消费、价格、环保、区域等政策的协同配合，形成推动高质量发展的合力。\n在全面深化改革开放方面，郑栅洁强调，中国将坚持“两个毫不动摇”，推动有效市场和有为政府更好地结合，扎实推进高标准市场体系建设，营造市场化、法治化、国际化、一流的营商环境。实施高水平的对外开放，合理缩减外资准入的负面清单，高标准落实好外资企业国民待遇，促进外贸稳规模、优结构，推动共建“一带一路”高质量发展。\n他对出席中国发展高层论坛的中外嘉宾说，“与中国同行就是与机遇同行，投资中国就是投资未来。我们衷心地希望也非常愿意与海内外的各界朋友加强沟通合作，共享发展的成果”。\n中国发展高层论坛是由国务院发展研究中心主办、中国发展研究基金会承办的高规格国际论坛。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_22454036",
-          "publishedOn": "2023-03-27T00:53:08.000Z",
-          "wordCount": 33,
-          "title": "国家发改委主任：我国将防范化解金融和房地产等领域风险",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_22455615",
-          "author": null,
-          "description": "“农民日益重视当下的、个体化的生活体验，且致力于追求多重目标之下权衡与选择的自由。生育行为逐渐从传宗接代的价值体系中解放出来，并日益服从于美好生活的追求。”\n最近，刊发于《中国青年研究》2023年第2期的一篇文章指出，需要承认农民价值体系整体变迁的基本现实，并正视农民对于生育成本日益增加的敏感性。要真正让年轻农民敢生且愿意多生的关键是通过相应政策支持降低家庭育儿成本，减轻家庭育儿压力，尤其是要减轻生育行为对于女性职业发展和个人成长的影响，通过适度分担农民家庭的生育成本，释放农民的生育动力。\n文章称，总体来看，我国农村地区的消极生育意愿较低，很少有人主动选择终身不生育，即大部分农民家庭都会选择至少生育一个孩子，但对于二孩及以上胎次的生育意愿越来越低。该文基于皖南Y村的田野调研，从农民家庭内部视角探讨农村新生代青年生育意愿的转变逻辑，作者李永萍为南开大学周恩来政府管理学院助理研究员。\n皖南Y村距离当地乡镇集镇3公里左右，是一个普通的农业型村庄。相对于偏远中西部农村而言，Y村农民的家庭收入水平较高，50%以上的家庭年收入在10万元以上，农民收入主要来自外出务工，其中有不少村民在外办厂或经商。\n李永萍注意到，当地新生代青年的二胎生育意愿并不强，很多年轻人明确表示不愿意生育二胎，更不可能生育三胎。如果将调研范围内新生代青年视为一个整体，其生育二胎的比例为50%左右。如果将“80后”和“90后”分开来看，还会发现“90后”的生育意愿还要明显低于“80后”。\n年轻农民的生育意愿何以降低？从“女性生育成本”出发，李永萍表示，由于夫妻之间已经没有“谁主内、谁主外”的刚性分工，生育以及抚育的漫长周期限制了女性参与市场的机会和空间，并影响女性的职业流动和职业晋升。如此一来，年轻女性在面对生育抉择时会更加慎重，生育意愿普遍降低；\n由于夫妻平权以及年轻夫妻之间的强情感关联使得年轻男性在生育问题上大部分都听从妻子的意见，而家庭权力由父代转移至子代也使得公公婆婆在生育问题上难以对儿媳妇直接施压，生育决策逐渐演变为年轻女性主导的个人决策；\n另外，互联网时代快速的信息传播和方便的信息获取，使得女性群体主动或被动了解了很多与高生育成本相关的信息，进而导致年轻女性在做出生育决策时会更加谨慎。\n在“家庭教养成本”维度，经济成本和时间成本都在提高。在李永萍看来，家庭教养成本提高使得年轻女性的生育意愿很容易得到其丈夫的积极回应，年轻夫妻在生育意愿上更容易达成共识。\n“生育成本提高是农村新生代青年生育意愿转变的直接动力，而生育价值观和生育决策权的变化则是年轻农民生育意愿转变的深层动因。”李永萍文章分析称，传统乡土社会中农民的生育意愿普遍较强，人们倾向于多生且具有很强的男孩偏好。然而，随着乡土社会变迁和现代化城市化的不断发展，传统生育文化对人们的影响逐渐式微，生育主体的自主性增强，生育价值由家本位逐渐让位于个体本位。\n此外，在传统乡土社会中，生育决策是家庭本位的，作为生育主体的女性在生育决策上并不具有太大话语权。而在当前的乡村社会中，生育决策虽然仍然是以家庭为单位，但年轻女性在生育决策中的权力越来越大，作为生育主体的年轻女性在生或者不生、生多生少等问题上都具有较大主导权。这意味着，相对于由父代主导的家庭本位的生育决策而言，由年轻女性主导的个体本位的生育决策使得生育行为具有更多不确定性，任何一个因素都可能成为年轻人不愿意生育的理由。\n文章最后总结道，生育价值观由传统乡土社会的终极性价值和功能性价值为主转变为现代社会的情感性价值为主，这为农民家庭接受“少生”奠定了基础；而家庭生育决策权由父代主导的家庭本位逻辑转变为年轻女性主导的个体本位逻辑，使得年轻女性的个体生育意愿有了更多表达和实现的空间。可见，对于农村新生代青年而言，他们在决定是否生育二孩时主要是从生育成本出发，生育政策对其生育意愿的影响式微。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_22455615",
-          "publishedOn": "2023-03-26T23:53:07.000Z",
-          "wordCount": 29,
-          "title": "农村新生代青年生育意愿何以降低？研究者：逐渐从传宗接代价值体系解放",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_22454529",
-          "author": null,
-          "description": "国际货币基金组织（IMF）总裁克里斯塔利娜·格奥尔基耶娃  澎湃新闻记者 周頔 摄\n\n3月26日，在以“经济复苏：机遇与合作”为主题的中国发展高层论坛2023年年会上，国际货币基金组织（IMF）总裁克里斯塔利娜·格奥尔基耶娃表示，当前俄乌冲突和货币政策收紧都在抑制全球经济发展。她预计，即便是2024年的展望会更好，但是2024年的经济增长也会低于过去10年3.8%的增长。与此同时，受高通胀、地缘政治冲突与分裂等因素影响，全球经济中期展望依然是疲弱的，而且金融稳定风险还在增加。\n“高水平负债、经济从长期低利率转向高利率的转型，一定会带来通胀，同时也会带来对整个金融系统的冲击。”克里斯塔利娜·格奥尔基耶娃表示，近期银行业发生了危机，尽管发达国家的政策制定者快速地采取行动来遏制金融风险蔓延，同时各国央行也在增加美元流动性，这些行动部分缓解了市场的压力，但是当前不确定性依然很高，需要继续保持警惕。IMF也在密切关注事态的发展，并评估对全球经济展望和金融稳定的影响。\n当前中国的经济活动正在恢复，格奥尔基耶娃表示，中国经济复苏反弹意味着在2023年中国经济对世界经济的贡献率将达到1/3甚至超过1/3。她谈道，IMF分析表明，中国GDP每增长1%，会拉动亚洲其他国家的经济增长0.3%。中国的复苏现在非常地稳固，而且有非常强劲的动能。\n格奥尔基耶娃还表示，当前中国经济正转向消费拉动增长，这可以更好地缓解能源安全压力，让发展更绿色。IMF研究显示，通过这样的再平衡可以让二氧化碳排放在未来30年里下降15%，IMF也希望同期全球减排能够实现3.5%的水平。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_22454529",
-          "publishedOn": "2023-03-26T22:53:06.000Z",
-          "wordCount": 42,
-          "title": "IMF总裁：今年中国对世界经济增长的贡献率或将超过1/3",
-          "imageUrl": null
         }
       ]
     },
@@ -6526,6 +6486,116 @@
       "feedUrl": "https://www.nationalreview.com/feed/",
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
+        {
+          "id": "https://www.nationalreview.com/?p=1479244",
+          "author": "The Editors",
+          "description": "His slowed speech, shuffling gait, and leisurely schedule all suggest a man worse for age.",
+          "link": "https://www.nationalreview.com/2023/04/america-doesnt-want-this-biden-reelection-bid/",
+          "publishedOn": "2023-04-25T15:20:27.000Z",
+          "wordCount": 7769,
+          "title": "America Doesn’t Want This Biden Reelection Bid",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2023/04/biden-1.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1479201",
+          "author": "Charles C. W. Cooke",
+          "description": "The Kennedy scion will never be the Democratic nominee, but he may end up doing a great deal of harm to the president’s fortunes.",
+          "link": "https://www.nationalreview.com/2023/04/biden-is-not-immune-to-rfk-jr/",
+          "publishedOn": "2023-04-25T14:12:43.000Z",
+          "wordCount": 8150,
+          "title": "Biden Is Not Immune to RFK Jr.",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2023/04/rfk.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1479183",
+          "author": "Pieter Cleppe",
+          "description": "Green parties shouldn’t be underestimated, but they may be undermining their own objectives.",
+          "link": "https://www.nationalreview.com/2023/04/climate-policy-is-green-camouflage-for-the-eus-protectionism/",
+          "publishedOn": "2023-04-25T14:09:39.000Z",
+          "wordCount": 8120,
+          "title": "Climate Policy Is Green Camouflage for the EU’s Protectionism",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2023/04/eu.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1479140",
+          "author": "Caroline Downey",
+          "description": "Ocasio-Cortez compared Carlson to a movie villain who could make a comeback in the future.",
+          "link": "https://www.nationalreview.com/news/deplatforming-works-aoc-celebrates-tucker-carlsons-ouster-from-fox-news/",
+          "publishedOn": "2023-04-25T13:16:23.000Z",
+          "wordCount": 7644,
+          "title": "‘Deplatforming Works’: AOC Fundraises Off of Tucker Carlson’s Ouster from Fox News",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2023/04/AOC-5.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1478881",
+          "author": "Jeff Zymeri and Caroline Downey",
+          "description": "If reelected, Biden will reach the age of 86 by the conclusion of a second term.",
+          "link": "https://www.nationalreview.com/news/joe-biden-launches-2024-reelection-campaign/",
+          "publishedOn": "2023-04-25T11:42:39.000Z",
+          "wordCount": 7883,
+          "title": "Joe Biden Launches 2024 Reelection Campaign",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2023/04/Biden-200.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1478899",
+          "author": "Wilfred Reilly",
+          "description": "Bud Light’s Dylan Mulvaney decision follows a corporate pattern.",
+          "link": "https://www.nationalreview.com/2023/04/why-woke-companies-deliberately-alienate-their-consumers/",
+          "publishedOn": "2023-04-25T10:30:53.000Z",
+          "wordCount": 8561,
+          "title": "Why Woke Companies Deliberately Alienate Their Consumers",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2023/04/dylan-mulvaney-1.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1478956",
+          "author": "Rich Lowry",
+          "description": "His campaign could be barely evident, and still succeed.",
+          "link": "https://www.nationalreview.com/2023/04/joe-biden-prepares-his-next-basement-campaign/",
+          "publishedOn": "2023-04-25T10:30:45.000Z",
+          "wordCount": 7829,
+          "title": "Joe Biden Prepares His Next Basement Campaign",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2023/04/joe-biden-white-house.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1478404",
+          "author": "D. Dowd Muska",
+          "description": "One of the country’s largest mineral reserves remains unmined amid environmental and legal challenges.",
+          "link": "https://www.nationalreview.com/2023/04/the-biden-white-house-gives-copper-the-shaft/",
+          "publishedOn": "2023-04-25T10:30:32.000Z",
+          "wordCount": 8215,
+          "title": "The Biden White House Gives Copper the Shaft",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2023/04/copper-mine.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1478887",
+          "author": "Douglas Carswell",
+          "description": "If liberty keeps on winning across the South, America’s center of economic gravity is likely to shift.",
+          "link": "https://www.nationalreview.com/2023/04/will-the-south-become-americas-economic-powerhouse/",
+          "publishedOn": "2023-04-25T10:30:21.000Z",
+          "wordCount": 8153,
+          "title": "Will the South Become America’s Economic Powerhouse?",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2023/04/jackson-mississippi.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1478968",
+          "author": "Pablo Trujillo Álvarez",
+          "description": "Gustavo Petro is hardly a champion of human rights.",
+          "link": "https://www.nationalreview.com/2023/04/biden-warmly-embraces-colombias-terrorist-in-chief/",
+          "publishedOn": "2023-04-25T10:30:14.000Z",
+          "wordCount": 8177,
+          "title": "Biden Warmly Embraces Colombia’s Terrorist in Chief",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2023/04/joe-biden-gustavo-petro.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1478903",
+          "author": "The Editors",
+          "description": "In the wake of Biden’s botched withdrawal, documents reveal plans by radical Islamist elements to once again use the nation as a base to export terrorism.",
+          "link": "https://www.nationalreview.com/2023/04/afghanistan-comes-full-circle/",
+          "publishedOn": "2023-04-25T10:30:00.000Z",
+          "wordCount": 8441,
+          "title": "Afghanistan Comes Full Circle",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/08/taliban-kabul.jpg?fit=2057%2C1200"
+        },
         {
           "id": "https://www.nationalreview.com/?post_type=blog-post&p=1478995",
           "author": "Jeff Zymeri",
@@ -11175,26 +11245,6 @@
           "wordCount": 10108,
           "title": "2 + 2 = White Supremacy: How Woke Ideologues Corrupted Canada’s Math Curriculum",
           "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2023/03/student-blackboard-math.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1465843",
-          "author": "John Fund",
-          "description": "America suffers this absurdity while Britain scraps its liquid limits.",
-          "link": "https://www.nationalreview.com/2023/03/the-tsa-declares-peanut-butter-a-liquid/",
-          "publishedOn": "2023-03-27T00:04:46.000Z",
-          "wordCount": 8195,
-          "title": "The TSA Declares Peanut Butter a Liquid",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2023/03/tsa-laguardia-2019.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1465793",
-          "author": "Wilfred Reilly",
-          "description": "Robin DiAngelo said basically the same thing as the Dilbert creator and suffered none of the same consequences.",
-          "link": "https://www.nationalreview.com/2023/03/the-scott-adams-scandal-in-reverse-proves-our-racial-double-standard/",
-          "publishedOn": "2023-03-26T20:22:21.000Z",
-          "wordCount": 8689,
-          "title": "The Scott Adams Scandal in Reverse Proves Our Racial Double Standard",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2023/03/Scott-Adams-Robin-DiAngelo-main.jpg?fit=1200%2C700"
         }
       ]
     }
