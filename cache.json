@@ -6,6 +6,16 @@
       "siteUrl": "https://rweekly.org/atom.xml",
       "articles": [
         {
+          "id": "https://rweekly.org/2023-W18.html",
+          "author": null,
+          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Colin Fay, with help from the R Weekly team members and contributors.\nHighlight\nPull Requests, Code Review, and The Art of Requesting Changes\nSketch Package looks to add JavaScript to R packages\nError Handling in R and Python\nInsights\nrOpenSci Champions Program Teams: Meet Bilikisu Wunmi Olatunji and Christina Maimone\nPull Requests, Code Review, and The Art of Requesting Changes\nRounding in R: Common Data Wrangling Frustrations and Workarounds in R, Julia, and Python\nSketch Package looks to add JavaScript to R packages\nError Handling in R and Python\nSeeking a New Maintainer for the Popular R Package install\nShiny User Adoption Fails: 9 Reasons Why Nobody Uses Your App\nR in t…",
+          "link": "https://rweekly.org/2023-W18.html",
+          "publishedOn": "2023-05-02T00:00:00.000Z",
+          "wordCount": 6237,
+          "title": "R Weekly 2023-W18 Code Review, JavaScript, Error handling",
+          "imageUrl": "https://rweekly.org/public/facebook.png"
+        },
+        {
           "id": "https://rweekly.org/2023-W17.html",
           "author": null,
           "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Eric Nantz, with help from the R Weekly team members and contributors.\nHighlight\nWhat’s new in R 4.3.0?\nWriting performant code with tidy tools\nOn Indentation in R\nInsights\nWhat’s new in R 4.3.0?\n11 tricks to level up your rmarkdown documents\nOn Indentation in R\nUsing R to Develop Solutions for Industrial Problems\nR in the Real World\nRemoving absences from GBIF datasets\nMultistate Models for Medical Applications\nGlobal Fishing Watch Helps Protect Critical Marine Ecosystems Through Open Data and Innovative Technology\nR in Organizations\nGenerating variable cluster sizes to assess power in cluster randomize trials\nR in Academia\nModel selection, AIC and Tweedie regression\nGettin…",
@@ -33,16 +43,6 @@
           "publishedOn": "2023-04-10T00:00:00.000Z",
           "wordCount": 5979,
           "title": "R Weekly 2023-W15",
-          "imageUrl": "https://rweekly.org/public/facebook.png"
-        },
-        {
-          "id": "https://rweekly.org/2023-W14.html",
-          "author": null,
-          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Jon Calder, with help from the R Weekly team members and contributors.\nHighlight\nHello world examples with 10 different R web API frameworks\nReading Remote Data Files\nInsights\nBalancing Classes in Classification Problems, and Why It’s Generally a Bad Idea\nR in Finance and Accounting Sector in Korea\nDescriptive statistics: comparisons in JavaScript, Python, SQL, R, and Excel\nFebruary 2023: “Top 40” New CRAN Packages\nUniting R Professionals Across Disciplines for Data-Driven Insights in Maine\nMeeting the Stars of the R-Universe: Researching Our Brain with the Magic of the R-Universe\nR in the Real World\nThe big world of CRAN\nResources\n6 new books added to Big Book of R\nNew Pack…",
-          "link": "https://rweekly.org/2023-W14.html",
-          "publishedOn": "2023-04-03T00:00:00.000Z",
-          "wordCount": 5907,
-          "title": "R Weekly 2023-W14 API Framework Examples, Reading Remote Files",
           "imageUrl": "https://rweekly.org/public/facebook.png"
         }
       ]
@@ -449,6 +449,106 @@
       "feedUrl": "https://feedx.net/rss/thepaper.xml",
       "siteUrl": "http://thepaper.cn",
       "articles": [
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_22934765",
+          "author": null,
+          "description": "北京国际数学研究中心近日发文透露，宾夕法尼亚大学数学系助理教授兼统计与数据科学助理教授孙鑫将于今年秋天回国工作，加盟北京大学北京国际数学研究中心。 \n\n北大数学校友孙鑫\n\n孙鑫于2007年至2011年本科就读于北京大学数学科学学院，2017年获麻省理工学院博士学位，他主要从事概率论和数学物理等方面的研究，曾获得美国国家科学基金会早期事业奖（NSF Early Career Award）、2020年度伯努利学会新研究员奖。\n近日，洛勒·戴维逊基金会（Rollo Davidson Trust）官网公布了2023年度戴维逊奖（Rollo Davidson Prize）获奖名单，孙鑫入选，获奖理由是“在随机平面图和刘维尔量子引力（random planar maps and Liouville quantum gravity）方面作出引领性工作”。洛勒·戴维逊基金会于1975年在英国剑桥大学设立，以纪念已故的青年概率学者洛勒·戴维逊。1976年起，该基金会每年向处于职业生涯早期、取得卓越成就的概率学家颁奖。戴维逊奖面向全球遴选，是概率领域最重要的国际性奖项之一。\n北京大学介绍，包括孙鑫校友在内，迄今共有5位中国数学家获奖。同为北大数学校友、现任北京大学数学科学学院教授的丁剑曾于2017年获得该奖项。澎湃新闻早前报道，此前担任宾西法尼亚大学Gilbert Helman讲席教授，统计与数据科学系教授的丁剑，已于2022年1月起任北京大学数学科学学院讲席教授。\n公开资料显示，北京国际数学研究中心成立于2005年，致力于数学学科的前沿问题研究、培养新一代世界级数学家，为促进数学思想和成果的交流提供平台。\n\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.best",
+          "link": "https://www.thepaper.cn/newsDetail_forward_22934765",
+          "publishedOn": "2023-05-02T15:53:10.000Z",
+          "wordCount": 63,
+          "title": "孙鑫今秋回归母校北京大学，是第5位摘得戴维逊奖的中国人",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_22935291",
+          "author": null,
+          "description": "烧烤盛名在外，山东淄博近期迎来多地政商考察团。\n据辽宁省锦州市太和区消息，4月24日-26日，太和区副区长、招商五局局长潘涛带队赴山东潍坊、淄博等地开展招商考察活动。\n\n4月26日下午，潘涛一行在山东省淄博市张店区开展夜经济产业考察学习。   太和区发布\n\n其中4月26日下午，潘涛一行赴山东省淄博市张店区开展夜经济产业考察学习。消息称，考察组一行先后赴浅海广场美食城、水晶街等地，对当地烧烤产业发展情况进行深入细致的调研，围绕当地烧烤产业宣传、产业秩序管理、便民服务设施配置、安全环境的保障等方面进行交流和探讨。\n澎湃新闻注意到，此前4月16日-18日，锦州市凌河区委书记马晓春一行已赴淄博市张店区和临淄区考察调研烧烤产业发展情况。凌河区委办公室消息提到，此次调研是按照市委要求，由马晓春带队，区委常委、统战部长王年冬，区住建局、商务局、市场局、实业公司等部门的主要负责同志组成了联合调研组。\n\n马晓春在山东省淄博市张店区和临淄区考察调研烧烤产业发展情况。  @网信锦州 图\n\n据微信公众号“凌河发布”消息，在与张店区、临淄区区委区政府领导班子和相关行业监管部门座谈中，调研组详细了解了本次淄博烧烤火爆出圈的具体原因，并听取了当地政府事前铺垫、事中举措和事后预判三个方面的具体做法。最终得出结论：淄博烧烤火爆出圈有其必然性和偶然性，看似网红偶然间带火一座城市的背后，有政府的积极作为、有市民的团结一致，更有城市历史文化的厚重积淀，最终成就了火爆的必然。\n近期到访淄博的还有河南信阳商务、城管部门的调研组。\n据信阳市政府官网消息，为做好第31届茶文化节期间服务保障工作，按照市委、市政府安排，4月19日-20日，市商务局党组书记、局长刘伟带领相关同志到山东省淄博市，与淄博市商务局座谈交流，实地学习调研淄博市在提振消费、服务保障外来游客等方面的经验做法。\n在21日上午的座谈会上，淄博市商务局负责同志向信阳市商务局调研组介绍了近期“淄博烧烤”的“出圈”历程、当前态势及溢出效应，重点解析了商务部门承接“淄博烧烤”热度流量所担当的任务和运行的机制，以及围绕外来宾客吃、住、行、游、购等全链服务保障情况。信阳市商务局调研组围绕“淄博烧烤”的“出圈密码”、IP打造、城市营销、消费引流、产业导入等，与淄博市商务局学习交流，并就推动食客变游客成“创客”、流量变“留量”促“销量”进行了深入探讨。\n同在4月19日-20日，信阳市城管委办公室组织市区城管部门赴淄博学习考察淄博烧烤“火出圈”背后的城市管理经验。 \n\n信阳市城管委办公室组织市区城管部门赴淄博学习考察淄博烧烤“火出圈”的城市管理经验。\n\n信阳市城管局网站随后刊文指出，淄博烧烤“火出圈”的背后，凝聚了淄博城管部门8年的接续努力。自2015年以来，淄博市城管部门围绕规范露天烧烤，制定了城市建成区露天烧烤规范管理意见，推出了淄博烧烤10条规范，并通过采取绘制烧烤地图、实行动态管理、网格巡查执法、行业协会引导以及市区两级考核机制等方式，为护航烟火“淄”味打下坚实基础。淄博市建成区近1000家烧烤全部进场进院进店，实现了烧烤经营无污染、不扰民、秩序优、市容好的目标。\n另外，为学习淄博市在商旅文市场宣传推介运营管理方面的经验做法，4月18日-19日，天津市河北区副区长田强带队赴淄博市调研考察商旅文产业发展。\n据河北区商务局方面介绍，调研组一行先后实地考察了淄博市夜间经济示范街区水晶街、文旅网红打卡地海岱楼钟书阁以及文化产业示范点位中国陶瓷琉璃馆，现场感受了解了淄博市商旅文消费市场流量热度及文旅产业发展情况。并与淄博市政府办公厅、淄博市商务局、文化旅游局、市场监管局进行了座谈交流。\n河北区商务局表示，下一步，该局将积极会同相关部门，加强与淄博市的沟通对接，立足我区商旅文资源禀赋，推动两地在资源推介、宣传互动、产业合作等领域互鉴互促，探讨在我区引入淄博烧烤等网红IP，带动激活区域夜间经济等消费活力，扩大延伸区域影响力，推动本土品牌走出去，优质项目引进来，为我区经济高质量发展添秤助力。\n\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.best",
+          "link": "https://www.thepaper.cn/newsDetail_forward_22935291",
+          "publishedOn": "2023-05-02T14:53:13.000Z",
+          "wordCount": 52,
+          "title": "进淄“赶烤”！淄博烧烤引来多地政商考察团",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_22935935",
+          "author": null,
+          "description": "香港特区行政长官李家超今日（5月2日）公布香港区议会改革方案的最新详情。李家超介绍，新一届区议会将设470个席位。为确保国家安全、全面落实“爱国者治港”原则，区议会将引入资格审查制度。\n香港特区政府政制及内地事务局局长曾国卫介绍，新一届区议会将从四个渠道产生。其中，委任议员方面，179个议席将由行政长官亲自委任；地区委员会界别议员方面，176个议席将由当区的地区扑灭罪行委员会、防火委员会和分区委员会委员选出；地方选区议员方面，88个议席由当区地方选区选民选出。另外，有27席当然议员，由当区新界乡事委员会主席担任。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_22935935",
+          "publishedOn": "2023-05-02T14:53:13.000Z",
+          "wordCount": 27,
+          "title": "李家超：香港区议会将引入资格审查制度",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_22934757",
+          "author": null,
+          "description": "在华盛顿神秘人的媒体采访间坐定后，一头黄发的李梦双手指尖相对，放在下巴前，摆出了一个颇具少女感的“定妆照”，然后自己腼腆地笑了。\n5月2日凌晨，WNBA华盛顿神秘人举行了赛季前的首个媒体日，这也是李梦在登陆WNBA之后，第一次和媒体正式见面。\n\n李梦加盟WNBA华盛顿神秘人队。\n\n即将拉开大幕的这个WNBA赛季，中国女篮将会有4名球员同时征战，创造了一个新纪录，而在四人之中，加盟神秘人的李梦算是“最神秘”的一个，包括她的合同以及和勒布朗·詹姆斯经纪公司的合作，都在社交网络上引发了不小的讨论。\n“我会在神秘人打满一整个赛季，首要任务还是保证身体健康。”李梦在媒体见面会上接受了澎湃新闻记者的采访，也谈到了外界颇为关心的问题，“不管站在哪个舞台，都希望永远做最好的自己，永远不要放弃。”\n\n李梦接受媒体采访。\n\n“这里每个人都非常好，非常喜欢我”\n在每个球员短短十几分钟的单独媒体见面问答环节中，李梦的这13分钟时间里，充满了笑声。\n从坐定之后摆出那个俏皮的姿势，到和现场相熟的记者打招呼，再到回答完美国记者的提问后对翻译的内容忍不住大笑，再到采访结束后和身边的人寒暄，李梦非常放松。\n这样的情绪和状态也印证了她在采访环节开始时说的那番话，“来到这里（华盛顿神秘人）真的非常高兴，感受到这个大家庭的温暖。”\n在4月下旬抵达华盛顿之后，李梦就到了神秘人的训练馆报到。彼时，神秘人官方还晒出了李梦的一段探营视频：\n她染了一头亮黄色的头发，穿着一件绿色的外套，满心欢喜地参观了自己的更衣室，然后也和球队主教练和队友见面，给对方送上大大的拥抱。\n\n李梦探访自己的更衣室。 视频来源网络(00:08)\n“虽然和球队相处不久，但是这里每个人都非常好，非常喜欢我。”李梦简单地介绍了她在球队的情况，也分享了一些有趣的细节，“每天跟她们在一起，我也会教她们一些中文，比如说你好、吃饭或者再见，包括一些日常用语。这段…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_22934757",
+          "publishedOn": "2023-05-02T13:53:13.000Z",
+          "wordCount": 88,
+          "title": "对话｜中国女篮球员李梦：不管在哪个舞台，永远做最好的自己",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_22936622",
+          "author": null,
+          "description": "《隐秘的角落》原班人马打造、双料影帝阵容、新悬疑风格……《漫长的季节》，是一部还没上线就备受期待的悬疑剧。从开分9.0到剧集完结时9.5，口碑不言自明。\n演员演技在线、剧情吸引力拉满，这几乎是近些年高分悬疑剧的标配。得到更高一筹的评分、口碑，《漫长的季节》到底高在哪？能否成为悬疑剧天花板？\n\n图片来源：《漫长的季节》宣传海报\n\n视角创新是观众感受最明显，也是令导演辛爽颇为兴奋的设计。影视剧尤其是悬疑剧中，普遍以中青年为主视角。前作《隐秘的角落》以三个孩子为视角展开，此次《漫长的季节》更是独辟蹊径，从出租车司机王响、妹夫龚彪、刑警支队前队长马德胜这三个人生失意的“老头”视角展开。以看似常规的套牌撞车案为切口，牵引出了18年前骇人听闻又扑朔迷离的碎尸案。三人年轻过、得意过，也和他们所在的北方小城桦林一样，经历了各种变故，而当他们老去，仍然笨拙而笃定地找寻案件的真相。以老人的视角讲述一代人和他们的一生，时间跨度足够大，也带有更为有冲击力的厚重感。\n不得不提，形式创新更加大胆，给观众以尊重和惊喜。《漫长的季节》每集时长都在1小时以上，用章回体的叙事铺陈故事。比起常规悬疑剧偏好线性叙事、把逻辑链怼到观众面前的操作，《漫长的季节》采取1997年、1998年和2016年时空交错三线叙事，倒叙和插叙交叉使用，用草灰蛇线的方式制造悬疑，时而让人暗自揣度，时而又让人恍然大悟，可以说是刷新了观众的体验。\n\n图片来源：《漫长的季节》宣传海报\n\n而镜头语言也别具一格，从意气风发开火车到蓦然老去开出租的王响，面庞从满面笑容到愁苦哀伤再到成为挂在墙上遗像的王阳……剧中转场巧妙而丝滑，充分利用视听语言来交代叙事的表达，表明了角色的职业、性格和年代的变化，烘托悬疑神秘的氛围感，让观众随之喜怒哀乐。\n最为重要的，本剧提供了一种悬疑剧的可能性。为增强悬疑感，悬疑剧一贯的操作是冷色调、暗黑系、肃杀风，而《漫长的季节》反其道而行之，描摹了明朗爽利的东北秋天。天高云淡的背景下，是望不着边的玉米地、喷烟而来的火车，辅之以福尔摩斯华生“东北分cp”的东北式斗嘴，让人忍俊不禁。\n\n图片来源：《漫长的季节》宣传海报\n\n每一个陈设细节都透露着人间烟火气，巧妙接合幽默元素和紧张氛围，所谓生活悬疑，并非在悬疑套上生活外壳，而是将悬案对个人、家庭、乃至整个城市的变迁描摹得淋漓尽致。或许，悬疑剧也不用千剧一面，节奏可以有张有弛，画面也能温暖明朗。\n剧情已完结，悬疑已落幕。凶手是谁、真相是什么，很重要，但是与此同样重要，甚至影响更为深远的，是被牵扯进案子里的那些活生生的人、那座活生生的城。那些事情和那个时代是如何从他们身上驶过，给他们留下了什么样的痕迹，被生活吊打之后还能不能爬起来“往前看别回头”，这些值得我们去关注、去思考。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_22936622",
+          "publishedOn": "2023-05-02T13:53:13.000Z",
+          "wordCount": 40,
+          "title": "人民网评：9.5分！《漫长的季节》到底高在哪？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_22934480",
+          "author": null,
+          "description": "当地时间5月1日，美国白宫宣布将在5月11日取消对联邦雇员、联邦承包商和国际航空旅客的新冠疫苗接种要求。\n据悉，美国也将在5月11日正式结束因新冠疫情而开始的公共卫生紧急状态。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_22934480",
+          "publishedOn": "2023-05-02T12:53:11.000Z",
+          "wordCount": 28,
+          "title": "美国将在5月11日取消对国际航空旅客的新冠疫苗接种要求",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_22936375",
+          "author": null,
+          "description": "4月30日，澎湃新闻对知名编剧史航被多名女性指控性骚扰做出报道。报道发出后，事件进一步升级，更多的受害者站出来发声，指控史航曾对自己进行性骚扰。目前发声的受害者至少已有12名。\n同时，公众也不断向与史航有合作关系的机构发出呼吁，希望得到他们的表态。4月30日晚，磨铁图书在微博上发表声明，表示已经开始对《房思琪的初恋乐园》一书中史航的推荐语进行删除，删除范围包括电子书、再版纸质书中的文字，以及留存在各网络平台中的相关内容。\n\n磨铁图书声明\n\n5月1日，《新周刊》也在微博上做出了回应，表示已于4月30日解除了史航作为刀锋图书奖推委的资格，并停止与史航的一切合作。\n\n《新周刊》回应\n\n在多方压力下，5月1日晚，被多名女性指控性骚扰的知名编剧史航终于在微博上给出回应。在回应中，史航否认了自己所遭到的指控，称“情况不属实”，但同时也说“给自己相识的女性带来如此的感受，是我真正的失败，十分歉疚”，并表示“正试图找到妥当的办法，在保护双方隐私的情况下，还原事实”。\n\n史航回应\n\n今天，针对史航的这则回应，五名站出来指控史航的受害者找到澎湃新闻记者，发布了一则联合声明，并提供了部分可以证明史航确实有实施性骚扰的证据。以下是声明全文：\n史航受害者联合声明\n我们是指控史航的五个受害者。我们不认同史航的回应。\n我们所叙述的，是鼓起勇气才能述说的伤痛，是被冒犯和侵害的事实，不是一种“情绪”。\n性骚扰的事实“属实”与否，不取决于史航所谓“妥当的方法”下的叙述，而是受害者感到被侵犯的证据（见后文部分证据附图）和我国法律：\n根据《民法典》第1010条：“违背他人意愿，以言语、文字、图像、肢体行为等方式对他人实施性骚扰的，受害人有权依法请求行为人承担民事责任。”\n根据《中华人民共和国妇女权益保障法》第二十三条：“禁止违背妇女意愿，以言语、文字、图像、肢体行为等方式对其实施性骚扰。”\n需要指出的是，大多数的情况下，史航与受害者存在“意见领袖”与“粉丝”、“嘉宾”与“工作人员”、“前辈”与“后辈”等不对等的权力关系。也因此更难在被骚扰的当下对史航作出反抗。史航作为更有权力的一方，至今都认为可以由自己去定义什么是“妥当”、如何才足以构成性骚扰，这恰恰是拥有权力者的思维惯性。\n我们认为史航的行为已经对我们造成了性骚扰。这是涉及到公共利益、并且已经为多位女性带来创伤的事件。我们要求史航在本声明发出后，就他的性骚扰行为公开向全体受害者道歉。\n我们是：\n受害者小黄：影视新人，“鹦鹉史航”的微博粉丝。2019年第一次与史航见面时，被史航在其北京住宅及住宅小区内闻头发，亲耳朵。在受害者明确说不后，史航依然继续做出性骚扰行为。\n受害者QY：2016年第一次因为工作采访史航，被他偷拍照片后在微信中言语骚扰；2017年被史航在另一个工作场合抓屁股舔耳朵骚扰，2018年再次因为工作微信联系史航被言语骚扰的受害者。当时，史航是受害者工作单位邀请的嘉宾。\n受害者XB：史航微博粉丝。2020年11月加史航微信，2022年3月29日早9:00-10:40在深圳和史航第一次见面吃饭，席间言语骚扰，下楼强行扶胳膊，想要牵手被明确拒绝，合照搂腰捏腰部，打车时候在车内强行摸手牵手。\n受害者WZ：史航微博粉丝。“2017年10月乌镇戏剧节期间，单独会面时被言语骚扰以及突然被他扯开衣服领口。当时我刚毕业不久，对史航这般在中国文学艺术界看似呼风唤雨的人物充满仰视和崇拜，在这件事之后严重影响了我与异性领导的相处方式，至今在与异性领导相处过程中感到心悸、紧张和不安。”\n受害者S：“2008或者2009年，刚来到北京的我，在雍和宫附近参加读库的聚会，活动结束，史航路过我的时候说提出顺路可以搭上我，还说自己是‘他们圈子里出名的好人’让我放心。出于缺乏经验和对文化圈的信任，我上了他的车，结果就这样伸舌头，把口水流进了我耳朵里。这个细节十几年后的今天依然清晰记得。”\n在短期内集合众多受害者联合发出声明是一件困难的事，因为我们原本素不相识，因为我们要保护自己，拒绝二次伤害。有意参与联合发声的受害者们，请把你的经历匿名发至：victimofshihang@outlook.com，本邮箱持续有效。\n感谢此事件中所有站出来的女孩，也感谢更多关心女性权益的网友对我们的鼓励。希望支持我们的机构把你们的支持发布出来，让我们感受得到。\n我们不是一个人。\n2023年5月2日\n附：受害者提供的部分证据\n\n史航约见微博粉丝，粉丝出于招待和交友的目的，请史航吃饭的付款证据。在这顿饭中，史航对第一次见面的受害者言语骚扰，并饭后进行身体骚扰。\n\n\n该受害者事发第二天针对此事发的微博\n\n\n受害者与史航通过微信约采访。后来因为害怕史航骚扰，受害者临行前以生病为借口，说由其他同事代替采访后，史航的回应。\n\n\n受害者与史航第一次见面前后的聊天记录。在那次见面中，史航对受害者进行了性骚扰。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_22936375",
+          "publishedOn": "2023-05-02T11:53:10.000Z",
+          "wordCount": 57,
+          "title": "五名指控史航的受害者发布联合声明，不认同回应要求公开道歉",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_22934735",
+          "author": null,
+          "description": "韩国总统尹锡悦访美签署的韩美联合声明及达成的经济合作共识，被认为是韩版“广场协议”，向美国“主动交出”半导体产业。  视觉中国 图\n\n韩国总统尹锡悦结束了对美国的国事访问。他自认为签署的韩美联合声明及达成的经济合作共识，是韩国战后最大的外交成果。不过，韩国国内有识之士和反对党都对此忧心忡忡，有人直言这等同于刚刚签完韩版“广场协议”，向美国“主动交出”半导体产业。还有国会议员，要求随行访美的韩国两大芯企李会长和崔会长对公众做出实事求是的负面影响说明。\n业界普遍认为：由于韩国是全球最大的半导体生产国之一，而中国是全球最大的半导体消费国之一，未来生产出来的大量芯片仍然需要中国市场消化，失去了中国市场的韩国芯片产业只会完全受制于美国政府的单方面政策情绪。可以说，和魔鬼做朋友无疑是要廉价出售灵魂的。日本产业界至今都无法释怀的广场协议，就是一个被证明了自废武功的毒药案例。\n日本经济曾经取得过科技和产业进步的辉煌纪录，其繁荣巅峰阶段的东京房地产总值就相当于半个美国的同行业总值。但是1985年9月22日，美国、日本、联邦德国、法国以及英国的财政部长和中央银行行长（简称G5）在纽约广场饭店举行会议，达成五国政府联合干预外汇市场，诱导美元对主要货币的汇率有秩序地贬值，以解决美国巨额贸易赤字问题的协议，即“广场协议”。其背景是当时美国出口竞争力下降，进一步扩大到外贸赤字的危机。在这种经济危机的压力下，美国寄希望以美元贬值来加强美国产品对外竞争力，以降低贸易赤字。广场协议揭开了日元急速升值的序幕。1985年9月，日元汇率在1美元兑250日元上下波动，在广场协议生效不到3个月时间里，快速升值到1美元兑200日元，即升幅20%；1987年最高则达到1美元兑120日元。\n日本智库曾经坦率地承认：当年美日签定广场协议后，日本陷入20年经济发展的低迷时期，整个社会各个领域原地踏步。这段经历，被全世界的商学院…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_22934735",
+          "publishedOn": "2023-05-02T10:53:11.000Z",
+          "wordCount": 39,
+          "title": "深观察｜韩国版“广场协议”管窥",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_22929283",
+          "author": null,
+          "description": "“五一”小长假鸣沙山月牙泉景区“堵骆驼”现场。鸣沙山月牙泉驼运项目负责人杨盖提供(00:11)\n“五一”小长假文旅强势复苏，全国多地迎来了比2019年同期还要多的游客数量。\n\n据敦煌市鸣沙山月牙泉景区服务中心微信公众号“鸣沙山月牙泉”消息，4月30日截停票时，景区单日接待量飙至26642人，超过2019年同期水平，同比增长28.19%。\n\n“五一”小长假鸣沙山月牙泉景区的骆驼红绿灯。鸣沙山月牙泉驼运项目负责人杨盖提供(00:14)\n游客数量激增，鸣沙山月牙泉景区的骆驼也十分忙碌，骆驼红绿灯和月牙泉“堵骆驼”的新闻瞬间登上热搜。\n\n敦煌市鸣沙山月牙泉旅游发展有限公司副总经理王有霞5月1日接受澎湃新闻采访时表示，截至5月1日15时20分，鸣沙山月牙泉景区的游客数量达到1.5万余人次，游客同比数量已经赶超2019年同期水平。景区内现有骆驼号773个，有2400余峰骆驼参与运营。“骆驼也是从早到晚忙不过来，骑行环线上骆驼是首尾相接。原本淡季时40分钟的路程，现在要走1小时左右。”王有霞说。\n景区内不仅“堵骆驼”，“红骆驼停，绿骆驼行”的骆驼红绿灯也同样引起了网友的关注。王有霞介绍，景区内的第一盏骆驼红绿灯于2021年4月安装落地。本意是解决驼运线路、游人步行道、车辆行驶道路交叉通行时的安全问题，没想到游客十分喜欢，现在骆驼红绿灯也成了景区内的“网红打卡点”之一。\n另据微信公众号“敦煌发布”4月30日消息，“五一”假期首日敦煌鸣沙山月牙泉景区接待游客15754人次。此前，敦煌莫高窟“五一”假期前四天每天6000人限额的正常门票已全部售罄，预计今年“五一”假期，莫高窟游客量将达到4.5万人次。\n陕西西安也迎来了比去年同期多出许多的游客数量。4月30日，西安市公安局发布旅游提示，不建议游客再前往大唐不夜城等客流量饱和的景区。该提示提到，截至当日16时，西安秦岭野生动物园、秦岭四宝科学公园因客流饱和已停票限流；大唐不夜城景区及周边客流车流饱和限流，不建议前往；西安城墙景区客流量较大；曲江海洋极地公园、昆明池景区、秦岭国家植物园、白鹿原影视城、华夏文旅西安度假区、诗经里小镇、茯茶镇景区客流量相对较少，请大家合理安排路线，错峰出游。\n西安地铁官方微博5月1日发布的数据显示，今年4月30日，西安地铁线网客流449.57万人次。澎湃新闻注意到，这一数据比去年同期增加了100余万人次，2022年4月30日，西安地铁线网客流273.02万人次。而疫情前的2019年4月30日，西安地铁线网客运量为328.07万乘次。\n此外，四川省文旅厅官网消息，2023年“五一”假日第2天，全省纳入统计的829家A级旅游景区，共接待游客494.03万人次，实现门票收入6246.49万元，与2022年同期同口径比分别增长78.6%和146.16%，与2019年同期同口径比分别增长13.27%和4.6%，两项指标均实现双超。其中15个5A级景区累计接待游客89.57万人次，实现门票收入3419.73万元。乐山大佛、朱德故里、黄龙国家级风景名胜区等景区接待人数同比上升500%以上，乐山大佛、峨眉山风景名胜区、黄龙风景名胜区等景区门票收入同比上涨500%以上（其中，12个景区超5万人次、40个景区超2万人次）。\n另据北京市文旅局官网4月30日消息，4月29日，全市重点监测的旅游景区（地区）为206家，游客接待总量184.1万人次，同比增长2倍，恢复到2019年同期的84.8%；营业收入1.07亿元，同比增长1.8倍，恢复到2019年同期的100%。\n游客接待量排名前十的景区（地区）是：王府井31万人，前门大街景区15万人，颐和园7.8万人，南锣鼓巷7.5万人，天坛公园7.3万人，奥林匹克公园6.2万人，北京动物园6万人，北海公园5万人，北京欢乐谷4万人，圆明园4万人。5A级景区接待情况：颐和园7.8万人，天坛公园7.3万人，奥林匹克公园6.2万人，圆明园4万人，八达岭长城3.7万人，故宫3.5万人，恭王府2万人，慕田峪长城1.6万人，十三陵0.6万人。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_22929283",
+          "publishedOn": "2023-05-02T09:53:11.000Z",
+          "wordCount": 54,
+          "title": "旅游强势复苏：敦煌“堵骆驼”，西安地铁客流同期增百余万",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_22928348",
+          "author": null,
+          "description": "海报设计 祝碧晨\n\n五月已至，伴随着小长假，第四届上海“五五购物节”也在如火如荼进行中。\n今年的“五五购物节”有多潮？外滩艺术季、咖啡文化节、多元市集……澎湃新闻记者从上海多区获悉，在各大地标、商圈内，充满潮流气息的购物和文娱活动正在吸引着一批又一批的市民游客，同人气一同增长的，还有消费热情。\n外滩猫街——打造创意消费场景\n今年的“五五购物节”期间，上海新名片地标——大豫园片区正在打造创意消费场景。\n\n在黄浦区方浜中路老城厢的墙面上，艺术家绘制了可爱的猫咪形象，打造人气打卡点“外滩猫街”。 豫园股份 图\n\n\n在黄浦区方浜中路老城厢的墙面上，艺术家绘制了可爱的猫咪形象，打造人气打卡点“外滩猫街”。 豫园股份 图\n\n随着第三届外滩艺术季将拉开帷幕，在众多公共艺术作品中，一系列以猫咪作为创作主题的艺术设计将焕新大豫园片区：在黄浦区方浜中路老城厢的墙面上，艺术家绘制了可爱的猫咪形象，打造人气打卡点“外滩猫街”。BFC外滩金融中心广场及豫园中心广场也将带来猫咪主题的大型公共艺术作品，并通过AR技术加持，让市民游客参与互动。\n在新潮消费场景的加持下，BFC城市营地登陆外滩，BFC“外滩枫径”市集也同步变装，打造户外社交空间，让消费者感受“城市露营”的新鲜与快乐。\n\n豫园商场也带来了猫咪主题的大型公共艺术作品。豫园股份 图\n\n此外，豫园股份旗下22个海内外品牌同步推出56款产品，其中有43款新品（包含26款首发），如珠宝品牌的老庙小象呼禄系列、亚一摩登金系列；腕表品牌的海鸥表飞行员系列、上海表FAB CHRONO系列等，为市民游客带来更为时尚的消费体验。\n咖啡文化节——一站式体验全球咖啡文化\n这个五一，爵士音乐每天都在大宁国际商业广场唱响，表演对公众免费开放。\n\n静安区咖啡文化节与安义夜巷联合打造咖啡一条街。 静安区 图\n\n“五五购物节”期间，爵士音乐节和咖啡文化节在静安区相继启动，超过100位国内外音乐家将带来精彩演出。户外广场、巡游快闪、室内光谱舞台……市民游客转角就能邂逅爵士乐的美妙。\n同时，今年的静安咖啡文化节首创“咖啡文化休闲街”的概念，与人气夜市“安义夜巷”合作举办，LAVAZZA、星巴克、蓝瓶咖啡等38个代表世界咖啡发展浪潮的咖啡品牌、40个重磅餐饮和文创品牌将首次齐聚，共同打造具有国际感的咖啡一条街，让消费者一站式体验全球咖啡文化\n\n静安区咖啡文化节与安义夜巷联合打造咖啡一条街。 静安区 图\n\n此外，“百荟四行苏河市集”也在苏州河畔四行仓库街区启动。该市集推出国潮文创、电竞大赛、文化展览、艺术演出、手作体验等一系列活动，赋活特色街区和夜间经济，将文旅商业、水岸更新融合联动，打造新场景下的消费盛宴。\n多元市集——契合消费者个性化诉求\n“五五购物节”期间，随着长宫文化市集的开市，位于愚园路上的长宁区工人文化宫广场热闹非凡。\n\n凡几好樂市場近两日开市。 长宁区 图\n\n与一般的集市不同，长宫文化市集囊括了文化市集、宠物领养派对、物物交换派对、“文文”草地开放麦、“百家百匠”主题艺术展、“百家百匠”同心圆活动、艺术疗愈快闪活动等，多元的活动吸引了广泛的受众，美食品鉴、非遗体验、艺术展览等众多项目令人目不暇接。 \n\n凡几好樂市場近两日开市。 长宁区 图\n\n不止愚园路，近两日，“凡几好樂市場”也在长宁来福士广场开市，现场集聚了餐饮、户外、文创、设计师、艺术家等120余个特色品牌。为了契合年轻消费群体对个性化、场景化消费体验的新诉求，市集被打造成了沉浸式的创意、文化、社交、娱乐空间,还集结了一批新锐设计师、插画师和艺术家。市民不仅可以购买有趣的文化艺术产品、解锁各式美食，还能体验手作工坊、音乐表演等。\n\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.best",
+          "link": "https://www.thepaper.cn/newsDetail_forward_22928348",
+          "publishedOn": "2023-05-02T09:53:11.000Z",
+          "wordCount": 101,
+          "title": "五五购物节｜外滩猫街、咖啡文化节……来看“消费之都”的五月有多潮",
+          "imageUrl": null
+        },
         {
           "id": "https://www.thepaper.cn/newsDetail_forward_22931175",
           "author": null,
@@ -6138,56 +6238,6 @@
           "wordCount": 28,
           "title": "沙特带头多个产油国突然宣布自愿减产挺市，油价开盘大幅走高",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_22549124",
-          "author": null,
-          "description": "2023年4月2日，银川，市民雨中出行。当日，宁夏银川迎来降雨天气。视觉中国 图\n\n北方大风、剧烈降温、雨雪天气，南方区域性暴雨、强对流天气……中央气象台预报显示，4月初，今年以来最大范围强雨雪天气过程影响我国，中东部地区出现大范围降水过程，中央气象台发布暴雨蓝色预警和强对流天气蓝色预警。针对此次天气过程的成因、主要影响时段、影响范围以及防御措施，中央气象台首席预报员孙军进行解读。\n一问成因为何？\n这次天气过程主要受两个天气系统影响，一个是北方的冷空气，另一个是来自南方地区的江淮气旋。\n北方地区主要受冷空气影响，4月2日上午，冷空气已到达河套地区至甘肃东部一带，新疆、甘肃大部、内蒙古西部、宁夏等地出现大风降温天气。接下来，冷空气会继续东移南下，给中东部大部地区带来大风降温天气。而南方多地主要受江淮气旋影响，出现区域性暴雨过程。\n孙军分析说，截至4月2日，冷空气和江淮气旋还没有交汇。大概在4月4日左右，东移南下的冷空气和不断加强发展的江淮气旋将会相遇。冷暖空气对峙，导致包括短时强降水、大风、局地冰雹等在内的混合型强对流天气将影响河南、湖北、安徽、湖南、江西、广西、贵州、重庆等地。\n\n二问影响到底有多强？\n总体来看，这次天气过程将会经历一个循序渐进式的发展历程。孙军说，4月2日至4日是降水、大风降温的主要时段。\n在降水方面，4月2日至5日，甘肃东部、宁夏、河北北部和内蒙古中东部等地有中到大雪或雨夹雪，内蒙古中部等地局地暴雪或大暴雪，主要降雪时段为4月2日至3日；西北地区东南部、西南地区东部、江汉、江淮、江南、华南、黄淮以及东北地区南部等地有中到大雨，河南、湖北、湖南、安徽、江西、浙江、广西、广东和福建等地的部分地区有暴雨，局地大暴雨，主要降雨时段为4月2日至4日。值得关注的是，100毫米以上降水覆盖面积达23万平方公里。南方部分地区还将伴有雷雨大风、冰雹等强对流天气。\n在大风降温方面，4月2日，冷空气主要影响西北地区和内蒙古，4月3日影响东北地区西部、华北北部、黄淮和江汉等地，4月4日至5日影响东北地区中东部、华北、江淮及以南地区，中东部地区将有4级至6级风，阵风7级至9级；4月2日至5日，北方大部地区气温下降6℃至10℃，内蒙古等地部分地区降温幅度超过12℃，南方地区气温下降4℃至8℃，降温幅度达到10℃以上的国土面积达94万平方公里。\n\n三问本轮降雨有何利弊？\n今年以来，中东部大部地区气温明显偏高、降水偏少，此次大范围降水过程有利于缓和气象干旱，补充土壤水分，对冬小麦拔节孕穗以及早稻移栽有利。孙军说，这次降水有利于增加中东部地区水资源，黄淮及以南地区要抓住有利时机做好库塘蓄水工作，补充生产生活用水储备。\n另一方面，要防范多种灾害性天气叠加带来的灾害风险。南方要加强暴雨和强对流天气防御，湖北、湖南、江西、浙江、广西等地应加强灾害隐患点巡查，防范强降雨可能引发的山洪、地质灾害和城乡积涝等。北方应加强防范大风降温和雨雪的叠加影响，重点做好农业设施和户外搭建物的防风加固保暖准备，加强交通安全管理。\n（原题为《专家解读丨三问今年来最大范围降水过程 多灾种叠加 灾害风险不可忽视》）",
-          "link": "https://www.thepaper.cn/newsDetail_forward_22549124",
-          "publishedOn": "2023-04-03T03:53:08.000Z",
-          "wordCount": 47,
-          "title": "解读今年来最大范围降水过程：多灾种叠加，灾害风险不可忽视",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_22468025",
-          "author": null,
-          "description": "学校官网截图\n\n3月27日晚，上海市徐汇中学官网发布情况通报称：关于网传2023年3月22日我校一女生进入男浴室一事，经核查不属实，系学生在军训期间发朋友圈开玩笑引发误会。网上流传的音频经过编辑，存在误导，与事实不符。请大家勿信谣、传谣，共同为未成年人健康快乐成长营造良好环境。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_22468025",
-          "publishedOn": "2023-04-03T02:53:15.000Z",
-          "wordCount": 32,
-          "title": "上海市徐汇中学：女生进入男浴室不属实，系学生发朋友圈开玩笑引发误会",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_22548331",
-          "author": null,
-          "description": "当地时间4月2日，朝鲜中央通讯社发表题为《战争狂人的妄动必将付出代价》的文章，严厉批判美韩联合军演。文章警告称，美国及其追随势力应切记，朝鲜实际上已具备核攻击能力，朝鲜人民和军队绝不说空话。既然美韩公然对朝鲜进行军事挑衅，朝方必将给予相应的回应。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_22548331",
-          "publishedOn": "2023-04-03T02:53:15.000Z",
-          "wordCount": 26,
-          "title": "官媒：朝鲜已具备核攻击能力，朝鲜人民和军队绝不说空话",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_22548791",
-          "author": null,
-          "description": "胡玉亭 资料图\n\n吉林省第十四届人民代表大会常务委员会第二次会议4月2日决定，接受韩俊辞去吉林省省长职务的请求，任命胡玉亭为吉林省副省长、代省长。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_22548791",
-          "publishedOn": "2023-04-03T02:53:15.000Z",
-          "wordCount": 34,
-          "title": "胡玉亭任吉林省代省长",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_22553952",
-          "author": null,
-          "description": "中共中央批准：胡世军同志任上海市委委员、常委。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_22553952",
-          "publishedOn": "2023-04-03T01:53:08.000Z",
-          "wordCount": 31,
-          "title": "中共中央批准：胡世军同志任上海市委委员、常委",
-          "imageUrl": null
         }
       ]
     },
@@ -6196,6 +6246,96 @@
       "feedUrl": "https://www.nationalreview.com/feed/",
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1482514",
+          "author": "Ari Blaff",
+          "description": "The active-duty Army units will assist Border Patrol and will be armed.",
+          "link": "https://www.nationalreview.com/news/biden-orders-1500-soldiers-to-southern-border-ahead-of-title-42-expiration/",
+          "publishedOn": "2023-05-02T16:12:40.000Z",
+          "wordCount": 7423,
+          "title": "Biden Orders 1,500 Soldiers to Southern Border ahead of Title 42 Expiration",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2023/03/defending-america-032023-28.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1482372",
+          "author": "Jeff Zymeri",
+          "description": "When challenged in court, the state opted not to defend its ban on abortion-reversal pills and instead vowed not to enforce the law.",
+          "link": "https://www.nationalreview.com/news/colorado-runs-away-from-enforcing-its-own-ban-on-abortion-pill-reversal/",
+          "publishedOn": "2023-05-02T14:06:14.000Z",
+          "wordCount": 8585,
+          "title": "Colorado Runs Away From Enforcing Its Own Ban on Abortion-Pill Reversal",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/02/ultrasound-pregnant-woman.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1482362",
+          "author": "Jeff Zymeri",
+          "description": "SpaceX conducted a test flight of the largest and most powerful rocket ever built last month.",
+          "link": "https://www.nationalreview.com/news/environmental-groups-sue-faa-over-spacex-starship-explosion/",
+          "publishedOn": "2023-05-02T12:41:08.000Z",
+          "wordCount": 7999,
+          "title": "Environmental Groups Sue FAA over SpaceX Starship Explosion",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2023/05/SpaceX.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1482221",
+          "author": "Dave Yost",
+          "description": "Law-enforcement agents shouldn’t get to choose which laws they enforce.",
+          "link": "https://www.nationalreview.com/2023/05/rogue-prosecutors-threaten-the-rule-of-law/",
+          "publishedOn": "2023-05-02T10:30:56.000Z",
+          "wordCount": 8331,
+          "title": "Rogue Prosecutors Threaten the Rule of Law",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2023/05/andrew-warren-florida.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1481991",
+          "author": "Jessica Melugin",
+          "description": "The proposed solutions would grant far too much power to government.",
+          "link": "https://www.nationalreview.com/2023/05/politicians-are-squandering-americas-chance-to-get-it-right-on-tiktok/",
+          "publishedOn": "2023-05-02T10:30:49.000Z",
+          "wordCount": 8958,
+          "title": "Politicians Are Squandering America’s Chance to Get It Right on TikTok",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2023/05/restrict-act.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1482184",
+          "author": "Ryan Mills",
+          "description": "A report from a DEI consultant said the responses were ‘indicative of racism, ableism and white supremacy.’",
+          "link": "https://www.nationalreview.com/news/portland-cops-rip-hilariously-ridiculous-training-on-how-to-interact-with-the-lgbtqia2s-and-queer-communities/",
+          "publishedOn": "2023-05-02T10:30:46.000Z",
+          "wordCount": 9514,
+          "title": "Portland Cops Rip ‘Hilariously Ridiculous’ Training on How to Interact with ‘LGBTQIA2S+ and Queer Communities’",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2023/05/portland-police-large.jpg?fit=1200%2C700"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1482300",
+          "author": "Rich Lowry",
+          "description": "The problem with the SAT is that it doesn’t produce the racial outcomes that the people who run institutions of higher education want.",
+          "link": "https://www.nationalreview.com/2023/05/an-inconvenient-test/",
+          "publishedOn": "2023-05-02T10:30:13.000Z",
+          "wordCount": 8099,
+          "title": "An Inconvenient Test",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2023/05/sat-prep-test.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1482245",
+          "author": "Mario Loyola",
+          "description": "Congress can save the American people trillions and boost the economy by easing infrastructure permitting.",
+          "link": "https://www.nationalreview.com/2023/05/make-federal-red-tape-part-of-the-debt-ceiling-fight/",
+          "publishedOn": "2023-05-02T10:30:11.000Z",
+          "wordCount": 8486,
+          "title": "Make Federal Red Tape Part of the Debt-Ceiling Fight",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/03/solar-array-california.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1482204",
+          "author": "Wilfred Reilly",
+          "description": "Why the surge in LGBT identity deserves a closer look.",
+          "link": "https://www.nationalreview.com/2023/05/are-a-quarter-of-young-americans-actually-lgbtq-etc-dont-bet-on-it/",
+          "publishedOn": "2023-05-02T10:30:01.000Z",
+          "wordCount": 8824,
+          "title": "Are a Quarter of Young Americans Actually LGBTQ (etc.)? Don’t Bet on It",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2019/06/nyc-pride.jpg?fit=2057%2C1200"
+        },
         {
           "id": "https://www.nationalreview.com/?post_type=blog-post&p=1482237",
           "author": "Ari Blaff",
@@ -10885,16 +11025,6 @@
           "wordCount": 8711,
           "title": "Michael Mukasey Stands Up for Pro-Life Family Raided by FBI",
           "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2023/04/michael-mukasey-2.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1469187",
-          "author": "John Fund",
-          "description": "Clueless-in-Seattle judges are driving businesses out of state.",
-          "link": "https://www.nationalreview.com/2023/04/washingtons-humpty-dumpty-court-imposes-a-new-tax/",
-          "publishedOn": "2023-04-03T00:00:55.000Z",
-          "wordCount": 8194,
-          "title": "Washington’s Humpty Dumpty Court Imposes a New Tax",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2019/04/seattle-skyline.jpg?fit=2057%2C1200"
         }
       ]
     }
