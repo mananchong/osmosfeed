@@ -44,16 +44,6 @@
           "wordCount": 6397,
           "title": "R Weekly 2023-W21 HTTP Testing, ggblend, Handling Dates in R and Excel",
           "imageUrl": "https://rweekly.org/public/facebook.png"
-        },
-        {
-          "id": "https://rweekly.org/2023-W20.html",
-          "author": null,
-          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Sam Parmar, with help from the R Weekly team members and contributors.\nHighlight\nIntroducing {ggflowchart}\nWhy you should consider working on a dockerized development environment\nColin Fay, Keynote: Production is like ultra running: brutal, ungrateful, but worth every step\nInsights\nShiny on Hugging Face\n\nWhy you should consider working on a dockerized development environment\n\nIntroducing {ggflowchart}\n\nPledging My Time VI: scraping and analysis of race results in R\nGroup-equivariant neural networks with escnn\nBootstrap Intervals: Understanding the Gender-based Over-qualified Rates\nModel Misspecification and Linear Sandwiches\nBig changes to making summary rows in {gt} 0.9.0\nR…",
-          "link": "https://rweekly.org/2023-W20.html",
-          "publishedOn": "2023-05-15T00:00:00.000Z",
-          "wordCount": 6400,
-          "title": "R Weekly 2023-W20 ggflowchart, Dockerized Development Environments, Production is like Ultra Running",
-          "imageUrl": "https://rweekly.org/public/facebook.png"
         }
       ]
     },
@@ -62,6 +52,16 @@
       "feedUrl": "https://feedx.net/rss/shanghaishuping.xml",
       "siteUrl": "http://thepaper.cn",
       "articles": [
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_23448297?commTag=true",
+          "author": null,
+          "description": "1928年担任燕京大学宗教学院院长的李荣芳\n\n《真理与生命》杂志1929年和1930年两期，刊登了李荣芳撰写的两篇《圣地游行记》。《真理与生命》是民国期间极具影响力的基督教刊物，主编为赵紫宸，编辑部成员与“撰述员”基本来自燕京大学宗教学院。这两篇游记，记述了李荣芳于1929年3月到5月在巴勒斯坦地区的两次出游，一次是乘车，“专到紧要的区域”，一次是骑马，“专到闭塞的地方”。\n李荣芳（1887-1965）是燕京大学宗教学院教授。相比于吴雷川、赵紫宸这些中国基督教界的名人，他在生前和身后都不是一个响亮的名字。但他有一个独特的背景，是其他民国基督教知识分子所不具备的。李荣芳是在美国受过科班训练的圣经学学者，而不是单纯研究神学的理论家。他于1908年进入汇文大学神科，获得学士和硕士学位。1913年，他进入位于美国新泽西州的德鲁神学院（Drew Theological Seminary，当时译为“芝儒神学院”），大约在1917或1918年获得神学博士。从他的博士导师、博士论文选题、回国后开设的课程、翻译的英文著作以及他自己所撰写的报刊文章，我们可以看到他是一位严谨的圣经学者，而不是泛谈神学义理的神学家。\n李荣芳1917年归国，先在自己的母校汇文大学任教。1919年燕京大学成立，汇文大学就是组成燕大的四所教会大学之一，所以李荣芳也就成为燕京大学神学院教授（后改为“宗教学院”）。创校之初，教员中只有两位中国教师，李荣芳便是其中一位，主要教授圣经希伯来文和旧约。根据1931年燕京大学宗教学院的课程大纲，李荣芳开设多门与旧约有关的专业课。在“旧约训诂”的课程类别中，他开设《前代希伯来先知》《后代希伯来先知》《旧约诗文》，在“旧约历史与教义”的课程类别中，开设《以色列民族史》《闪族之宗教》《先知的社会理想》等课。在语言课程中，则教授《希伯来文初阶》《希伯来文训诂》。放眼当时的学术界，能教授古代…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_23448297?commTag=true",
+          "publishedOn": "2023-06-13T09:02:09.000Z",
+          "wordCount": null,
+          "title": "高峰枫｜李荣芳的考古之行",
+          "imageUrl": null
+        },
         {
           "id": "https://www.thepaper.cn/newsDetail_forward_23448297",
           "author": null,
@@ -481,26 +481,6 @@
           "wordCount": 122,
           "title": "刘笑敢 杨立华 陈壁生 丁耘 王颂 程乐松｜真知与游观：癸卯论庄（上）",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_23077695",
-          "author": null,
-          "description": "去年六月，译经收尾，圣录（kethuvim）的后半部分即五小卷、《但以理书》和后史（两记一志）终于完工。自二零零二年写《创世记》故事，开始译注摩西五经，屈指算来，恰好做了二十年。\n本想趁热打铁，写一组文章，研究圣录诸篇的。内子道：还是先把《贝奥武甫》修订了吧，读者催问好久了。这个顺序也有道理，按照做学问先难后易的原则。记得钱默存先生有言，文字工作，编大部头教材简单，论文次之；注释稍难，但遇上拦路虎，尚可不注或作“待考”；最难的是翻译，连一个字都逃不过去。当然他说的是认真的翻译。\n于是把《贝奥武甫》的几种新老注本翻出来，读了一遍，顺带温习了相关历史文献。觉得译文可修订处不少，有些表达和专名需要重新斟酌，注评部分则应大大扩充。这里面有一个缘故。八十年代，经外文所好友申慧辉介绍，同北京三联沈昌文先生联系出书的时候，国内出版业还很困难，纸张紧缺。从前著书也不兴添许多注释，跟现在不一样。所以我注评只写了一百一十五条，沈先生照单全收，已经打破惯例了。\n\n《贝奥武甫：古英语史诗》，冯象译注，生活·读书·新知三联书店，1992年6月出版，221页，4.40元\n\n古英语史诗《贝奥武甫》是英国文学的开山鼻祖，盎格鲁-撒克逊文明的第一座丰碑，位列欧洲中世纪四大史诗之首（其余三部是《罗兰之歌》《尼伯龙之歌》《熙德之歌》），在英语世界，属于大学生中学生必读的经典。翻译经典，做好不容易；我的体会，是一辈子的事业。下面就说说这番事业的缘起和求学之路上的几位老师——都是几十年前的事了，这些天因为重读他们的著作，就一幕幕又回来眼前——尤其是我的博士导师班生（Larry D. Benson）先生，那“一颗幽默、洒脱又不失虔敬的灵魂”（《先知书》前言）。\n*\n我是六八届初中生，“老三届”的尾巴，只念了一年书就“文革”了。下乡去到云南“插队落户”，自学外语，当了中学教师。回想起来，少年不更事，却也不太怕艰苦和病痛…",
-          "link": "https://www.thepaper.cn/newsDetail_forward_23077695",
-          "publishedOn": "2023-05-15T03:02:08.000Z",
-          "wordCount": 344,
-          "title": "冯象｜译经典·写时代·忆师恩",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_23077710",
-          "author": null,
-          "description": "《贝奥武甫：古英语史诗》，冯象译注，生活·读书·新知三联书店，1992年6月出版，221页，4.40元\n\n《贝奥武甫》初版的译注，大约始于一九八七年秋，八九年春完成，次年元月定稿付梓。那段时间挺忙，一边作博士论文，一边翻译史诗，还给旅美学人办的《九州学刊》供稿，写一组论中世纪文学的书评。第一篇《他选择了上帝的光明》，评耶鲁英文系罗宾逊教授的新著（如今已是“贝学”经典）《贝奥武甫与同位文体》，日期作八七年九月，正是为译注做的准备。现在想想，年轻的时候，真是精力充沛。\n一九九二年暑假回国调研探亲，在上海与同学聚会。有位淘古董的老友跟我说，他囤了二十本《贝奥武甫》。我问有何道理。他说，看版权页，这书只印了三千册，现在严重缺纸，不会重印了。将来市面上价钱肯定大涨。一晃三十年过去，想必老友的预言没错。\n初版的装帧简朴大方，我蛮喜欢。还有一个属于个人偏好的理由：书是铅字排版的，笔画的粗细，字距跟标点的疏密，看上去比电脑排的舒服。这事可能多数读者不会留意，但我对色彩线条的细微变化比较敏感，小时候爱画画，养成的习惯。书刊何时全部变成电脑排版的，记不得了，网上说是一九九三年。前一阵子有则新闻，复旦还是哪一所大学，一老教授去世后藏书没地方搁，堆在弄堂口，让路人随意拿，然后就论斤卖了。我估计，再过三十年，存世的铅字版书籍，散落民间的就不多了。所以最后，这书的初版可能真有点收藏价值呢。\n此次增订，书的大结构未变。原以为两三个月即可竣事，做起来才发现远远不够，因为很多资料得重新查阅（当然温书也是乐趣）。这样，从去年八月起，史诗的译文从头至尾修改了三遍；注评扩充了四倍，覆盖所有重要的校补、异文异读、神话典故、历史背景、沙迦传说同疑难诗句的解读。五个附录（《血战费恩堡》残卷、贝学小辞典、重构大事年表、人名族名地名表和三国王室谱系）皆有订正或重写。参考书目也拉长了，方便有兴趣的读者检索；前言则换成一篇追忆师恩的文章（代序）。\n初版文字的电脑输入，是内子的功劳。她还站在普通读者的角度，提了不少修改建议。其中有一条未能完全采纳，就是补一篇论述史诗的长文。其实已经写了，但不太满意，觉得阐释过细，像烦琐的专业论文，便拆散了放在注评里了。希望这样注评会变得更有趣些。\n\nRockwell Kent绘《贝奥武甫》插图，平版印刷画，1931年。\n\n现代西方的许多思想同社会文化观念，主流宗教和政法制度，根子在中世纪而非希腊罗马。盎格鲁-撒克逊英国（449-1066）的文学遗产，便是西方中世纪的一个重要传统。这一领域在中国仍是冷门，关注和研究不多。有历史的原因，不赘述了。但《贝奥武甫》是个例外，在Z世代（网生代）中间知名度颇高。这个我原先不知道，是回国服务以后学生告诉我的。他们都看过一位名叫“贝奥武夫”的中洲英雄的连环漫画和数码电影，或者打过他搏巨魔屠火龙的电子游戏。\n今天是世界读书日。读书写书是我的工作。然而我想，若是可以年轻“五十个冬天”，恐怕也会忍不住看一天动漫、体验会儿电游吧——如果人必须去到那儿才能破解魔咒，寻出金环的宝藏，如老托尔金那样，流连忘返在少年人的心里面，那一片古剑与火龙的故乡。\n二零二三年四月二十三日于铁盆斋\n《贝奥武甫：古英语史诗》，冯象译注，生活·读书·新知三联书店，1992。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_23077710",
-          "publishedOn": "2023-05-15T03:02:08.000Z",
-          "wordCount": 52,
-          "title": "冯象｜《贝奥武甫》增订版缀言",
-          "imageUrl": null
         }
       ]
     },
@@ -509,6 +489,76 @@
       "feedUrl": "https://feedx.net/rss/thepaper.xml",
       "siteUrl": "http://thepaper.cn",
       "articles": [
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_23455129",
+          "author": null,
+          "description": "据高先生提供的购房合同显示，相关商品房“建筑总层数为35层，其中地上33层，地下2层”\n\n“我买的明明是32楼的次顶楼，收房时发现我竟然是顶楼。”近日，来自陕西咸阳的高先生向澎湃质量观投诉平台（https://tousu.thepaper.cn）反映，2018年，他购买了位于陕西泾河新城的隆基泰和万和郡小区一套商品房，楼层为32楼。高先生表示，购房之前，小区售楼中心置业顾问明确告知房屋所在楼栋共33层，32层是次顶层。购房合同也注明房屋所在楼栋“建筑总层数为35层，其中地上33层，地下2层”。然而收房时，高先生发现，自己32层的“次顶层”竟然变成了顶层，且屋内还出现严重的漏水。\n高先生与开发商多次交涉，但问题始终未得到有效处理。\n就此纠纷，6月6日，澎湃新闻致电隆基泰和万和郡开发商项目负责人魏先生，对方以“到现场才能派人解答”为由拒绝接受采访。6月7日，澎湃新闻致电隆基泰和万和郡物业，相关工作人员回应称，她确实发现高先生房屋所在的29幢楼的一、二单元比三、四单元矮了一层，“但这是开发商建楼的问题，物业无法干涉”。\n消费者投诉：\n据高先生介绍，2018年7月5日他购买了位于陕西泾河新城的隆基泰和万和郡小区一套商品房，具体楼层为29幢2单元32层23201户。“选购时就明确说了不买顶层。”高先生称，小区售楼中心置业顾问通过现场沙盘及楼层指示图向他介绍，29幢楼栋2单元总高33层，并承诺高先生所购买的楼层为次顶层。\n2018年9月15日，高先生签订了商品房买卖合同。他提供的购房合同显示，相关商品房“建筑总层数为35层，其中地上33层，地下2层”。\n2022年8月19日，高先生收房时意外发现，29幢2单元地上楼层没有33层，他购买的32层就是顶楼。他还发现29幢1、2单元明显比3、4单元矮了一层，而3、4单元的层高正是33层。“我买的房突然变成顶楼了，我不能接受。”\n\n房屋内部存在严重漏水等质量问题。\n\n除了楼层问题，高先生还告诉澎湃新闻，自己屋内还存在严重漏水等质量问题。他提供的照片显示，房屋内部墙壁多处受潮，天花板、下水管附近因漏水浸泡，已产生不同程度的受损。\n鉴于此，高先生在房屋验收单上注明“不要顶层，需要退房”，并拒绝验收。随后，高先生与开发商就房屋楼层和屋内漏水等问题交涉，对方回复称“不愿意赔偿，也没有钱赔偿”，并表示高先生可以去打官司。\n“之后置业顾问还在微信上告诉我们，买的就是次顶层，不清楚为什么变成顶层了。”高先生表示，既然楼层问题解决不了，自己只好退一步，要求先解决房屋漏水问题。\n2022年9月15日，高先生再次在房屋验收单上注明“不满意”，并要求“加急处理漏水问题”，但开发商至今没有任何解决措施。\n高先生称，他多次与开发商项目负责人魏先生沟通，但对方拒绝了自己提出的换房、退房或赔偿的诉求，只是回复：“没钱，员工工资都没发。”\n\n高先生发现小区29幢一、二单元明显比旁边有33层的三、四单元矮了一层。\n\n高先生告诉澎湃新闻，2022年12月17日，他致电开发商质疑房屋楼层等问题。对方解释称购房合同是根据29幢楼最高楼层拟定的，因此合同中写的是“地上33层”。对此，他提供的小区竣工验收备案表显示，工程概况中层数一栏写有“29栋楼地上33+32层，地下2层”。\n“验收文件我是在收房的时候才看到，之前并不知情。况且销售人员在之前的沟通中都承诺我买的房子是次顶楼，并非顶楼。”高先生称，对于开发商的说法，自己无法接受。\n企业回应：\n就此纠纷，6月6日，澎湃新闻致电隆基泰和万和郡开发商项目负责人魏先生，对方以“到现场才能派人解答”为由拒绝了采访。6月7日，澎湃新闻致电隆基泰和万和郡物业。相关工作人员告诉澎湃新闻，她确实发现29幢楼的1、2单元比3、4单元矮了一层，但这是开发商建楼时产生的问题，物业无法干涉。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_23455129",
+          "publishedOn": "2023-06-13T14:53:09.000Z",
+          "wordCount": null,
+          "title": "消费曝光台丨收房发现“次顶层”变顶层，开发商拒绝赔偿",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_23461117",
+          "author": null,
+          "description": "最近这几天，56岁的黄德义正在忙着帮人补稻苗，一天干十一二个小时，一个小时二十元，能挣两百多元。\n\n黄德义在工地打工时的照片\n\n黄德义是吉林省白城市洮南市瓦房镇振林村人，曾经是一名教师。因为搭建浮桥收费，黄德义修的桥先是于2018年10月被洮南市水利局以非法建桥为由处罚并强制拆除，黄德义又于2019年12月被洮南市人民法院以寻衅滋事罪判处有期徒刑二年，缓刑二年。\n但黄德义一直在为自己的案件申诉，他始终认为自己的行为不构成犯罪。今年3月31日，黄德义的申诉被洮南市法院驳回。法院认为，其在未经有关部门批准的情况下，私自建桥拦截过往车辆收费，且受到多次行政处罚的情况下仍拒不改正，情节恶劣，构成寻衅滋事罪的犯罪事实，申诉不符合相关法律规定。下一步，黄德义准备继续向白城市中院申诉。\n在黄德义申诉的同时，振林村以及周边的一些村民，也面临着更加现实的问题。多位村民告诉红星新闻记者，没有浮桥后，如果去河对岸种地，只能奔镇西大桥绕行，单程就要多绕行70公里，开农用车得走3个多小时，巨大的时间和金钱成本让去河对岸种地成了一种两难的选择。\n村民搭浮桥收费被控寻衅滋事罪\n洮儿河，系黑龙江水系松花江西源嫩江右岸最大支流，位于中国内蒙古兴安盟境内与吉林省西北部，长553千米，流域面积3.08万平方公里，由西北向东南流至乌兰浩特汇集归流河，至吉林省洮南市转向东北流入嫩江。\n振林村和安全村以及附近其他许多村落，都位于洮儿河两岸。多年来，洮儿河既是村民生产生活的母亲河，也给日常通行带来了各种不便。最直观的影响就是，去河对岸种地以及亲戚之间的走动，极为不便。\n黄德义就是在这条河边长大，相比其他村民多数以种地为生，黄德义家稍显特殊。\n黄德义兄弟五人，祖上都以摆渡为业。黄德义告诉红星新闻记者，他的父亲上世纪70年代，曾造了一条木船，用来在洮儿河上摆渡。\n时间来到90年代，黄德义的三哥想继续在洮儿河上摆渡。那时候，…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_23461117",
+          "publishedOn": "2023-06-13T14:23:11.000Z",
+          "wordCount": null,
+          "title": "吉林洮南村民搭浮桥收费被判寻衅滋事，当地村民称陷通行之困",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_23463261",
+          "author": null,
+          "description": "视频来源：海报新闻(00:30)\n6月12日，网友在社交平台发布视频显示，江西省九江市修水县第三中学女老师掌掴学生，学生随即还手打老师，引发社会关注。\n网传视频截图\n\n视频中，该老师在教室最后一排与一名男学生发生拉扯，随后该老师抬手扇了男生一个耳光，学生被打后，紧接着还手打了老师一个耳光，此后该老师又欲动手，被男学生抓住头发后殴打数下。\n\n网传视频截图\n\n对此，网友们纷纷评论。有的网友认为老师动手在前，不管发生什么问题都应以教育为主，不该打学生。也有不少网友持相反意见，认为从该男生的行为可以看出平时也很难管教，老师应该是实在没有办法了才会动手。\n针对网传视频，6月13日记者电话采访了修水县教体局。工作人员回复称“暂未收到相关投诉，不了解该情况”。\n随后记者又拨打了修水三中师德师风举报电话。工作人员表示，学校已经和相关的老师、学生以及学生家长一起谈过话了，学生当时是一时冲动，目前此事已经处理完毕。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_23463261",
+          "publishedOn": "2023-06-13T13:58:04.000Z",
+          "wordCount": null,
+          "title": "江西一中学男生被老师掌掴后还手：校方回应，教体局称不知情",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_23461124",
+          "author": null,
+          "description": "韩国首尔江南区的公寓园区。人民视觉 资料图\n\n韩国楼市暴跌\n韩国楼市曾是全球最热的地区之一，此前房价连涨数年。过去5年，韩国房价整体涨了80%，2020~2021年最大涨幅超过40%，首尔更是超过50%，房价一度达每平方米15万人民币，仅次于中国香港。\n\n2016年欧债危机蔓延到韩国出口需求，韩国将基准利率由3.25%下调至1.25%，成为这轮房地产上行的起点。而2020年疫情的爆发，韩国更是将基准利率降到了0.5%。韩国房价直接飞起。\n不过，最近，韩国房价崩了。2022年3月起，美联储开启了数轮强势加息，严重依赖进出口贸易的韩国为了平抑汇率波动风险，紧随其后开展同步加息，基准利率暴力拉升至3.5%，房贷利率更是高达7%-8%。\n2021年8月随着韩国央行开始加息，房价开启了崩盘模式，首尔实际交易房价暴跌25%，部分社区更是跌了3-4成，跌幅达历史之最，成交量也暴跌超7成。\n\n据《亚洲日报》报道，韩国今年公寓、多户型住宅等共同住宅的公示价格较去年平均下降了18.63%，降幅创下历史新高。\n在首尔，部分公寓价格下跌了30%-40%，而成交量更是暴跌70%以上。\n5月3日，韩国房地产信息服务企业“经济10000Lab”对法院登记信息进行分析，结果显示，今年第一季度首次购房（包括公寓、联排别墅、商务楼）人数达到6.8105万人，创2010年开始进行相关统计以来第一季度的最低值。2021年第一季度，首次购房者数量达到了14.8961万人，创下了历史最高纪录。然而去年第一季度降至8.7660万人后，今年的购房者数量再次降至历史最低值。\n传贳房——利率“加速器”\n分析认为，一种称为“传贳”的租房制度近年来快速推升了韩国房地产市场的热度。\n国君国际宏观分析师周浩写得一份研报称：\n韩国的房地产市场与其他主流国家不尽相同。在传统的租房与买房之外，存在第三种方式——传贳房，这是一种介于月租和所…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_23461124",
+          "publishedOn": "2023-06-13T12:53:10.000Z",
+          "wordCount": null,
+          "title": "韩国楼市崩盘：首尔实际交易房价暴跌25%，成交量降七成",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_23463003",
+          "author": null,
+          "description": "浙江义乌市教育局6月13日发布《情况通报》：\n2023年6月12日，接有关“福田小学一老师体罚学生”举报后，我局高度重视，立即成立调查组，开展调查核实。\n经查，该涉事教师存在体罚学生行为。目前，已责令学校解除该教师聘用合同。下一步，将根据调查结果对相关人员依纪依规严肃处理。同时，我局将举一反三，在全市教育系统开展师德师风教育，切实强化教师队伍监管。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_23463003",
+          "publishedOn": "2023-06-13T09:53:11.000Z",
+          "wordCount": null,
+          "title": "教师体罚学生后群内道歉获其他家长安慰？官方通报：责令学校解聘",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_23462429",
+          "author": null,
+          "description": "6月13日，江歌母亲江秋莲@苦咖啡-夏莲 微博发文称，其收到山东省高级人民法院应诉通知书：刘暖曦（曾用名： 刘鑫）因与你生命权纠纷一案，不服山东省青岛市中级人民法院于2022年12月30日作出的（2022）鲁02民终1497号民事判决，向本院申请再审，本院已立案审查。2022年12月30日，江歌母亲江秋莲诉刘暖曦（原名刘鑫）生命纠纷权案二审宣判，刘暖曦被判赔偿江秋莲各项损失近70万元。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_23462429",
+          "publishedOn": "2023-06-13T08:53:07.000Z",
+          "wordCount": null,
+          "title": "江歌母亲：刘鑫不服二审判决申请再审",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_23461428",
+          "author": null,
+          "description": "何小可（化名），是一名90后，四川南充人，他目前在成都上班。6月11日晚上9时，他从成都市犀浦站出发，打算乘地铁回到位于世纪城站的单位宿舍。乘坐地铁1号线时，两名女子指认他用小型摄像头偷拍。其中一名女子对安全员说，“我刚刚看到他鞋子在闪烁绿光，上面装有摄像头，在偷拍。”随后，另一女子大声说道，“就在他鞋带最前端那里，刚刚闪了绿光，我们看到了，他就关了。”随后，他们被带到派出所，民警调查后证明了何小可的清白，分析是光线导致的误解。经民警调解后，其中一名女子道歉，但是何小可不认可，认为态度敷衍，根本没有认识到错误，并且另外一名女子至今没有道歉。他希望现场目击者提供更多证据，打算起诉两女子。对此，成都火车南站工作人员称，此事发生后他们高度重视，当时一直在想办法调解，支持何小可通过诉讼程序解决问题。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_23461428",
+          "publishedOn": "2023-06-13T07:53:10.000Z",
+          "wordCount": null,
+          "title": "男子乘地铁被指鞋面装摄像头偷拍，获澄清后欲起诉两名指认者",
+          "imageUrl": null
+        },
         {
           "id": "https://www.thepaper.cn/newsDetail_forward_23461405",
           "author": null,
@@ -6068,76 +6118,6 @@
           "wordCount": 147,
           "title": "出租车之困（上）：车站机场外又见拒载挑客，路程短就要被“嫌弃”？",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_23057228",
-          "author": null,
-          "description": "你听过人工智能歌手吗？AI狂潮正在进一步改变我们的生活，继绘画、文案之后，音乐领域也遭遇了“AI入侵”。\n最近，“AI孙燕姿”就在全网走红，独特的音色与唱腔，搭配上与歌手本人风格或相似或迥异的歌曲，成为互联网新宠。目前B站上与“AI孙燕姿”有关的视频，已经近千条，翻唱歌曲包括民歌、童谣、动漫主题曲、流行歌曲等众多类型。而更多的“AI明星”，也在不断被创造中。\n人工智能创造的“AI歌手”，与真正的歌手相比，不仅能够以假乱真，还可以“想让谁唱让谁唱，想让唱什么就唱什么”，这看着挺新鲜，也挺热闹，却面临着多种法律问题。\n其一，“AI孙燕姿”借用了歌手孙燕姿的名字。根据法律规定，公民姓名权作为重要的人格权，受到法律的严格保护。更何况，在“孙燕姿”这个名字背后，承载的是歌手商誉，这也是重要的合法权益。如果未经孙燕姿本人允许，使用“AI孙燕姿”为人工智能歌手冠名，显然侵犯了对方的姓名权，损害了对方的商誉，需要承担相应的法律责任。\n其二，“AI孙燕姿”翻唱了众多类型的歌曲，包括民歌、童谣、动漫主题曲、流行歌曲等，有没有征得著作权所有者的许可？\n根据《著作权法》规定，“著作权人声明不许使用的不得使用”。如果“AI孙燕姿”没有得到许可而去翻唱，将可能构成对他人著作权的侵犯。尽管《著作权法》中有一条，“为个人学习、研究或者欣赏，使用他人已经发表的作品”，可以不经著作权人许可，不向其支付报酬，但“AI孙燕姿”翻唱并在网上传播，已然有侵权之嫌。\n据报道，“AI孙燕姿”翻唱的《下雨天》《发如雪》在B站点击量破百万，带来不菲的流量和利益，于情于理于法都应向著作权人支付一定报酬，而不能“打个哈哈”放过。\n其三，“AI孙燕姿”的制作者，给人工智能歌手投喂的数据信息，包括歌曲等，构不构成侵权？\n众所周知，人工智能的进步有一个学习、成长的过程，也就是需要输入大量的数据信息，否则人工智能就是一个不谙世事的孩童。人工智能歌手也是如此，“AI孙燕姿”之所以绘声绘色，就是因为除了基本的技术支撑外，还有制作者对其进行大量的歌曲投喂，帮助它学习和模仿孙燕姿的音色等特征。\n问题是，这些歌曲都是“名花有主”的作品。当年Google图书馆侵权案中，谷歌掏一笔钱购买许可才了事。从目前情况看，一些欧盟国家已开始对人工智能投喂数据问题进行审查，今年3月，意大利个人数据保护局便已就ChatGPT涉嫌违反数据收集规则展开调查，禁止使用该人工智能。\n今年4月，国家互联网信息办公室发布《生成式人工智能服务管理办法（征求意见稿）》，其中拟规定：提供生成式人工智能产品或服务，应尊重知识产权、商业道德；用于生成式人工智能产品的预训练、优化训练数据，应不含有侵犯知识产权的内容。\n事实上，《著作权法》第10条中，在列举16项具体受到保护的著作权人权利外，还设置了一个兜底条款，就是明确“应当由著作权人享有的其他权利”也在法律的保护之列。秉持知识产权立法精神，对于投喂给“AI孙燕姿”的歌曲等数据，也应给予一定保护，不宜任意取用。\n但“AI孙燕姿”只是开始，相信随着技术的进步，更多人工智能歌手很快就会铺天盖地。处在AI大爆发的今天，一定还会有更多眼花缭乱的应用给法律、监管甚至伦理出难题。\n法律是时代的精神，理应紧跟科技革命的步伐，在遵从科技伦理、人本主义、法治理念的基础上，完善人工智能相关立法。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_23057228",
-          "publishedOn": "2023-05-15T04:23:24.000Z",
-          "wordCount": 34,
-          "title": "马上评｜“AI孙燕姿”在给法律出难题",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_23057503",
-          "author": null,
-          "description": "“没人能经受住44.2℃的炙烤。”来自印度奥里萨邦的阿拉达娜（Aradhana Brahma）在晌午穿过当地的商业广场，4月的广场四下不见人影，街边的商店和饭馆大门紧闭，万籁俱寂。这个场景被阿拉达娜形容为“奥里萨的白夜”。在户外待了不到四分钟，阿拉达娜全身上下已被汗水浸透，空气在高温中像凝固了一样，让她感到喘不过气。\n一场严重的热浪在今年4月席卷了南亚、东南亚、东亚的多个地区，许多国家再次出现创纪录的高温。据英国广播电视台（BBC）5月7日报道，越南经历了有记录以来的最高温度44.1℃。此前泰国西部麦省的气温达到创纪录的44.6℃。缅甸东部一个城镇的气温高至43.8℃，是十年来的最高气温。\n\n当地时间2023年4月19日，印度新德里，人们打伞躲避高温。\n\n长期追踪全球温度记录的西班牙气候历史学家埃雷拉（Maximiliano Herrera） 在社交平台上写道，最近亚洲地区的热浪是“有记录以来最严重的高温事件之一”。\n5月3日，世界气象组织（WMO）宣布，今年7月到9月产生厄尔尼诺现象的可能性为80%，并且有60%的可能性将在5月到7月出现。持续三年并导致海洋降温的长期拉尼娜现象已经结束，厄尔尼诺现象将对全球许多地区气候产生与拉尼娜现象相反的影响，可能加剧全球升温。\n这种影响很可能已经显现。根据全球多个权威气象统计机构的数据，今年前三个月全球地表温度仅次于2016、2020和2017年（按照热的程度排序）。2023年将很有可能成为有记录以来最热的四个年份之一。\n过早到来的高温再次凸显出气候变化影响的真实性和迫切性。在情况变得更糟糕之前，我们是否有做好准备？越南可持续发展和气候变化专家萧永健（Renard Siew）告诉澎湃新闻，关键的问题是大多数人往往忽视长时间暴露在极端高温中的危险，认为这就是日常生活。因此亟需提醒人们应对极端高温。 \n那些待在有冷气的室内、乘车、点外卖、…",
-          "link": "https://www.thepaper.cn/newsDetail_forward_23057503",
-          "publishedOn": "2023-05-15T03:53:12.000Z",
-          "wordCount": 99,
-          "title": "“白夜”将至？厄尔尼诺现象或将归来，亚洲面临超级高温“烤”验",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_22846753",
-          "author": null,
-          "description": "《逐冰而上》澎湃新闻关注冰川保护特别报道预告片。澎湃新闻特派珠峰记者：邹桥 廖艳 王选辉 剪辑：吴琪 何沛芸 设计：祝碧晨 调色：江勇 配音：张兆亿(00:59)\n湖蓝色的冰塔林、清澈见底的冰碛湖、透白纯净的绒布冰川，在高耸入云的珠穆朗玛峰下，一切都近在眼前。赶在4月的最后一天，澎湃新闻（www.thepaper.cn)记者与科考队从珠峰大本营出发，海拔不断地上升，最终历时15小时，抵达东绒布冰川海拔6350米的营地。\n\n再攀至海拔6500米的绒布冰川垭口，寒风挟着冰冷的雪粒呼啸而过，打在大家脸上宛如针刺，每走一步都能听见自己喘息和心跳声。偶然的小规模雪崩突然袭来，周遭顿时变得一片亮白。未来一段时间，科考队将在此处安营扎寨，开展冰芯钻取工作。\n这里每一粒雪，都记录着气候演变历史；这里每一寸冰，都封存着地球万年记忆；这里每一滴水，都汇聚成江河奔流之源……2023年4月中旬，澎湃新闻特派记者跟随中国科学院西北生态环境资源研究院冰冻圈科学国家重点实验室科考队员，一同走进珠穆朗玛峰国家级自然保护区，登上海拔6500米的珠峰绒布冰川，持续一个月以第一视角实地记录科考队员开展的冰川科考工作。\n冰川是气候的产物，是气候变化的指示器，对气候变化的响应非常敏感。在气候变暖的背景下，全球冰川全面退缩的趋势或已不可避免。\n\n本世纪以来，气候持续变暖，冰川消融加速，引起了国内外冰冻圈研究者们的担忧。被称为“亚洲水塔”、“地球第三极”的青藏高原及周边高山地区，这里的冰川也在不断地退缩。\n“世界屋脊”青藏高原是地球上最独特的地质、地理和生态单元。这里的气候环境变化对区域乃至全球而言，可谓牵一发而动全身。\n\n随着全球气候变暖，珠穆朗玛峰从山脚到峰顶，生态环境发生了什么变化？冰川退缩了多少？\n很多问题必须要有观察才能确认，科学不能假设。\n在“第二次青藏高原综合科学考察研究”项目的支持下，今年中科院青藏高原研究所已召集13组科考小组对珠峰地区进行综合科学考察。这次考察将包括极高海拔气象梯度观测、绒布冰川融水径流变化、东绒布冰川冰芯钻取与冰川变化观测、大气温室气体浓度观测等。\n其中，中国科学院西北生态环境资源研究院冰冻圈科学国家重点实验室科考队共18人，将开展为期30天的“珠峰地区冰川变化与冰芯气候环境记录考察”。\n\n过去26年，现任中国科学院西北生态环境资源研究院冰冻圈科学国家重点实验室主任的康世昌曾十余次来到世界之巅进行科考。在他看来，研究冰川变化就是在明晰全球变暖的影响，这对全球气候变化治理和应对都是有益的。\n该科考小组执行负责人、中国科学院西北生态环境资源研究院冰冻圈科学国家重点实验室副研究员陈鹏飞向澎湃新闻介绍，他们将在珠峰东绒布冰川钻取冰芯，用于重建珠峰地区过去数百年的气候环境变化历史，为解读过去气候环境自然变化和人类活动对于气候环境影响提供科学依据。\n\n此外，他们还将使用3D扫描仪和无人机等多种仪器，获得冰川区的高精影像及高程模型，与前几年的观测结果进行对比，进一步深入解析珠峰地区冰川变化特征。\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.best",
-          "link": "https://www.thepaper.cn/newsDetail_forward_22846753",
-          "publishedOn": "2023-05-15T02:53:10.000Z",
-          "wordCount": 71,
-          "title": "逐冰而上｜澎湃记者随科考队登珠峰，在海拔6500米直击冰川科考",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_23079897",
-          "author": null,
-          "description": "5月14日下午，山东拉响全省范围的高温黄色预警，预计明起至17日，鲁西北和鲁中地区将出现35℃以上高温天气。其中明后天，滨州、东营、济南、淄博和潍坊等市的部分地区最高气温在36～38℃，局部可达39℃。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_23079897",
-          "publishedOn": "2023-05-15T01:53:10.000Z",
-          "wordCount": 27,
-          "title": "山东拉响全省范围高温黄警，预计明后天局部可达39℃",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_23078751",
-          "author": null,
-          "description": "2022年11月30日，美国初创公司OpenAI推出ChatGPT。五天用户数就破100万，两个月后，月活跃用户数就突破1亿，成为人类历史上用户数增长最快的消费级应用。\n在13日晚央视财经频道播出的《对话》节目中，我们邀请到360集团创始人周鸿祎、百川智能创始人兼CEO王小川，带我们一起寻找AI的边界。\n\n背景：ChatGPT是由美国OpenAI公司开发的大型语言模型，它是一种深度学习模型，通过对大量文本数据进行预训练，能生成像人一样的文本回复。ChatGPT可以用于多种任务，包括文本翻译、总结提炼中心思想、一键式生成PPT、写广告文案、视频编辑、图像识别、编程等任务。\nChatGPT-4.0已经是地球上最聪明的“人”\n周鸿祎：这次人工智能是真的，不是假的，它不是像过去做的人工“智障”，是“弱”人工智能，或者是垂类的人工智能，它是通用人工智能。ChatGPT-4.0已经是地球上最聪明的“人”了。所有高科技公司都在打造自己的大模型，至少是“千模大战”，不出意外，很快会发展到“万模大战”。\n\n做大模型犹如“炼丹”\n王小川：做这个事情需要三个东西，第一是资金，想做到OpenAI的水平，钱肯定是一个重要的方面；第二是认知，认知建立和打开需要我们共同的努力；第三是组织能力，这不是个人行为，不是一两个人在实验室就能做的。\n\n周鸿祎：整个训练有点像“炼丹”，在化学元素表没有被发现之前，“术师们炼丹”就是在一点点改配方，有很多不确定性，所以OpenAI也蹚了很多坑。\n不会用GPT的人未来会被淘汰？\n王小川：每个人都有能力去拥抱它。（未来）不会用GPT，就像现在还不会用搜索的人。\n周鸿祎：我觉得不会用GPT的人未来会被淘汰掉。大家不要把它看成一个新时代的搜索或者是新的聊天机器人，这只是它第一个版本的包装而已。我觉得在三到五年里，各种行业都要被GPT重塑一遍，所以现在是谁不拥抱人工智能，谁就要被淘汰。\n\n哪个行业会先被取代？又会出现哪些新行业？\n周鸿祎：我个人认为大部分不会被代替掉。就像程序员，我认为GPT不能取代程序员，它虽然现在能写代码，写具体的模块或具体的功能，但整个程序的结构还是要有系统架构师。\n王小川：不是当成工具，我反而把它当成伙伴。它不光提高我们的生产效率，而是能够帮助我们解决“怎么做”的问题。我觉得人类会走到一个新的境界，而不是原来工业革命里一种范式的变化。今天有GPT这样的技术之后，很多事情就被“端”到“端”取代了。每个人可以去感悟世界，可以活得更加自我，找到自己真实存在的意义。\n清华大学新闻学院教授 沈阳：深层次AI已经能够做到超越一般人水平的这种行业，就会被明显替代。像我们团队，现在基本全是机器翻译。同时，未来会出现很多新的职业，例如提示师。AI有一个特点，提问人的提问能力越强，它回答的能力也越强。新的职业还在不断地催生当中，薪酬也很高。\n\n（沈阳 清华大学新闻学院教授）\n\n\n\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.best",
-          "link": "https://www.thepaper.cn/newsDetail_forward_23078751",
-          "publishedOn": "2023-05-15T00:53:08.000Z",
-          "wordCount": 50,
-          "title": "不会用GPT未来将被淘汰？周鸿祎王小川对话信息量很大",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_23079700",
-          "author": null,
-          "description": "四川李白河美食广场\n\n四川自贡李白河美食广场项目被指未批先建，存在将临时用地变为临时商业用地进行招商引资等问题。\n澎湃新闻注意到，这份发在四川麻辣社区的投诉帖称，四川省国梁建筑有限公司（以下简称“国梁公司”）明知该地块的用地批复仅是临时用地，擅自扩大用途，改作临时商业用地，用于餐饮、娱乐，及其他商业用途进行招商引资。\n当地住建部回复网帖时表示，该项目按照国有企业管理规定，经上级领导批准后采取“边批边建”的方式办理了临时用地手续。\n投诉：临时用地上建了商业美食广场\n从投诉帖中可以看出，对该项目进行投诉的是成都太扬新能源科技有限公司自贡分公司（以下简称“太扬公司”），太扬公司于2021年4月15日通过投标，取得国梁公司位于四川轻化工大学东部校区周边E2-03地块临时商业区的经营权，为期三年。随后，73户商家从该公司租得商铺用于经营。\n澎湃新闻注意到，2022年6月1日，太扬公司以生意惨淡、商户拖欠管理费，公司亏损难以经营为由向国梁公司提出解除合同。双方因管理权费、违约金、资产移交等相关事宜未达成一致，最终对簿公堂。\n太扬公司称，他们是2022年5月才得知这里实为“临时用地”，实际用途为“材料堆放”。由此，便以该宗土地不合法为由，提出最初与梁建公司签订的委托经营管理合同无效。\n自贡大安区住建局4月25日回复该网帖表示：四川轻化工大学李白河校区于2021年3月正式投入使用，该校区地处东部新城，学校周边生活配套设施不完善，校周边脏、乱、差现象严重影响校园周边环境及在校学生身心健康，存在食品卫生安全风险。为改善这一现象，满足四川轻化工大学李白河校区的学生日常消费需求，国梁公司按照国有企业管理规定，经上级领导批准后，立即启动了项目施工前期准备工作，采取“边批边建”的方式办理了临时用地手续，以实现项目的快速建成投用。\n回复称，国梁公司先期完成了地块土地平整和场地硬化工作，按照市、区有关会议精神和领导批准，为彻底解决游商游贩经营区域脏、乱、差问题，便于商业经营摊区规范化管理，保障食品卫生安全，国梁公司在临时用地上修建临时板房74间以规范游商游贩经营行为，改善经营环境，为学生营造一个安全、卫生、整洁、舒适的用餐环境。该74间板房用于了商业店面经营，但房屋性质确属临时建筑，属于解决当时客观突出问题的“过渡性”措施。\n企业：土地违规在先，企业单方解除合同在后\n国梁公司与太扬公司的合同明确，该临时商业区系临时用地。大安区住建局在前述回复中称，太扬公司经营不善，对商家收取“高房租、高水电费”、各种承诺无法兑现，导致无法继续经营，太扬公司于2022年6月30日单方面提出解除委托合同，该公司在单方面解除合同后撤离了李白河临时商业区，同时与李白河临时商业区的商户解除了租赁协议。该公司撤离后，报停了李白河临时商业区供水、供电，致使商家无法继续正常经营。\n太扬公司撤离后直至现在仍有部分商家在陆续经营。国梁公司在报请上级领导同意后，在此期间并未收取商家租金，仅要求商家支付使用的水电费用、物业费用（保安、保洁等）。并已和现有商家达成一致意见，因该地块为临时用地，商家只能使用至2023年7月31日，到期后需清空搬离李白河临时商业区。\n大安区住建局表示，国梁公司于2022年10月正式对太扬公司提起法律诉讼，针对解除《李白河临时商业区委托经营管理合同》、《李白河临时商业区委托经营管理合同补充协议（一）》、拖欠的经营管理权费及延迟违约金、解除合同违约金等相关违约责任进行起诉追偿。\n澎湃新闻注意到，住建部门回复之后投诉人再次跟帖重申：大安区行政审批局、自然资源局于2021年11月对该项目的临时批复是：临时用地，具体用地范围以审核通过的土地勘测技术报告书为准。用地时间截止为：2023年10月31日。根据国家的相关法律法规，临时用地，不能用作商业用途，不能（建设）从事餐饮，娱乐等活动的建筑物或者其他设施。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_23079700",
-          "publishedOn": "2023-05-15T00:53:08.000Z",
-          "wordCount": 35,
-          "title": "四川自贡一美食广场被投诉未批先建，区住建局回应：边批边建",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_23080317",
-          "author": null,
-          "description": "作为国家地理标志产品的信阳毛尖，广受消费者喜爱。现在正值信阳毛尖销售旺季，但近日信阳市市场监督管理局（以下简称信阳市市场监管局）一则工作综述打破了信阳毛尖市场的平静，该部门发文称查处某茶企400余斤假冒信阳毛尖，涉事茶企立即予以否认。此事在网络上引发各方网友争论，甚至引发了大家对“信阳毛尖溯源体系”的质疑。真相到底如何，央广网记者对此事致电相关单位和部门了解情况。\n4斤？还是400斤？涉事茶企否认用川茶假冒信阳毛尖\n5月5日，信阳市市场监管局微信公众号刊发的文章《立足智能展作为 积极融入显担当——信阳市市场监管局全面加强茶文化节服务保障工作综述》中提到，信阳市市场监管局联合信阳市浉河区市场监管局，查获信阳盛世佳茗茶业有限公司（以下简称盛世佳茗）以四川茶叶假冒信阳毛尖400余斤。该文章经信阳市市场监管局官方渠道发布后，多家媒体纷纷转发。此事对于该企业和信阳毛尖市场产生了巨大冲击。\n在该文章发布后，盛世佳茗对此表示质疑，并于第一时间致电信阳市市场监管局。5月6日，信阳市市场监管局微信公众号下架该文章。\n针对文章中提到的问题，盛世佳茗通过社交平台发布澄清视频，否认以川茶冒充信阳毛尖销售。企业负责人孙超凡在网络上称，4月12日，信阳市市场监管局和浉河区市场监管局来到企业后，取走了产品和包装等3样东西，取走的茶叶连4斤都不到，并出示了市场监管部门暂扣物品手续。\n\n盛世佳茗通过社交平台发布澄清视频（央广网发 图片来源于网络）\n\n5月11日，记者采访了盛世佳茗负责人孙超凡，了解到当时信阳市市场监管局抽检该企业产品的具体原因，“市场监管局来到企业表示，因监测到网络舆情，便来到企业进行例行抽查。随后便取走了一个外包装和两盒信阳毛尖产品。” 孙超凡表示执法人员当时所带走的茶叶并不是信阳市市场监管局发文中所叙述的有400余斤。\n信阳市市场监管局：系工作失误，目前还在调查中\n为何信阳市市场监管局所发文章中提到的数据与盛世佳茗的说法相互矛盾？该涉事茶企到底有无售卖假冒信阳毛尖产品？为何信阳市市场监管局在5月5日发布工作综述后，却于第二日下架该文章？为了探究真相，记者致电了信阳市市场监管局。\n\n5月5日信阳市市场监管局发布工作综述（央广网发 图片来源于网络）\n\n信阳市市场监管局宣传科工作人员表示，该文是信阳第31届茶文化节结束之后，该局上报的服务保障茶文化节的工作总结。该工作人员表示，文中所说的“查获茶叶400斤”数字有误，因工作人员为了抢时间效应，尽快发稿，敲错键盘，没有认真地校稿导致数据错误。目前案件正在调查，还未结案，而稿子发在该案结案之前，属于工作失误。\n当记者咨询该文章为何在未结案阶段就定性涉事茶企假冒信阳毛尖的问题时，信阳市市场监管局工作人员则不愿回答。\n该局工作人员表示，现阶段正在考虑如何对涉事企业的茶叶样品进行进一步查证。\n当记者问到该局是如何在技术层面实现茶叶原产地鉴定时，信阳市市场监督管理局宣传科工作人员表示，“目前还没有方法对所扣茶叶进行原产地溯源，市场监管局主要在抽检重金属、农药残留方面做鉴定，在实际中很难对茶叶产地进行识别与鉴定，从外观上也很难分辨出来，目前也没有法定依据，我们正在让承办机构看看怎么进一步查证。”",
-          "link": "https://www.thepaper.cn/newsDetail_forward_23080317",
-          "publishedOn": "2023-05-14T22:53:12.000Z",
-          "wordCount": 45,
-          "title": "400斤假冒信阳毛尖被查？官方发文后删除：数字有误，敲错键盘",
-          "imageUrl": null
         }
       ]
     },
@@ -6146,6 +6126,116 @@
       "feedUrl": "https://www.nationalreview.com/feed/",
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1501441",
+          "author": "Sahar Tartak",
+          "description": "Mink has since apologized for ‘the hurt that this caused the Muslim community.’",
+          "link": "https://www.nationalreview.com/news/maryland-council-member-apologizes-for-likening-muslims-to-white-supremacists-over-opposition-to-lgbt-lessons/",
+          "publishedOn": "2023-06-13T16:27:34.000Z",
+          "wordCount": 8130,
+          "title": "Maryland Council Member Apologizes for Likening Muslims to White Supremacists over Opposition to LGBT Lessons",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2023/06/Kristin-Mink.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1501450",
+          "author": "Noah Rothman",
+          "description": "Ron DeSantis must broaden his appeal if he hopes to dethrone the former president.",
+          "link": "https://www.nationalreview.com/2023/06/anti-wokeness-isnt-enough-to-beat-trump/",
+          "publishedOn": "2023-06-13T16:17:47.000Z",
+          "wordCount": 8510,
+          "title": "Anti-Wokeness Isn’t Enough to Beat Trump",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2023/03/Trump-2.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1501335",
+          "author": "Caroline Downey",
+          "description": "Before putting on the half-naked display, Montoya shook hands and talked with Biden.",
+          "link": "https://www.nationalreview.com/news/transgender-influencer-goes-topless-at-white-house-pride-celebration/",
+          "publishedOn": "2023-06-13T14:58:47.000Z",
+          "wordCount": 7736,
+          "title": "Transgender Influencer Goes Topless at White House Pride Celebration",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2023/06/biden-pride-2.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1501296",
+          "author": "Caroline Downey",
+          "description": "Devon Archer served alongside Hunter Biden on the board of a Ukrainian energy company.",
+          "link": "https://www.nationalreview.com/news/house-republicans-subpoena-hunter-biden-business-associate/",
+          "publishedOn": "2023-06-13T12:57:35.000Z",
+          "wordCount": 7670,
+          "title": "House Republicans Subpoena Hunter Biden Business Associate",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2023/04/Hunter-Biden-5.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1501249",
+          "author": "Rich Lowry",
+          "description": "We already have a flag that includes everyone, that doesn’t require constant ideological makeover, and that isn’t an eyesore.",
+          "link": "https://www.nationalreview.com/2023/06/against-the-pride-flag/",
+          "publishedOn": "2023-06-13T10:30:51.000Z",
+          "wordCount": 7849,
+          "title": "Against the Pride Flag",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2023/06/pride-flag-jennifer-granholm.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1501035",
+          "author": "Philip A. Wallach",
+          "description": "It is the moderates in the chamber, rather than the members on either extreme, who have the most power.",
+          "link": "https://www.nationalreview.com/2023/06/who-controls-the-house-after-the-debt-limit-deal/",
+          "publishedOn": "2023-06-13T10:30:39.000Z",
+          "wordCount": 9304,
+          "title": "Who Controls the House after the Debt-Limit Deal?",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2023/06/house-speaker-kevin-mccarthy.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1501004",
+          "author": "Sahar Tartak",
+          "description": "It’s about a commitment to the anti-discrimination ethos.",
+          "link": "https://www.nationalreview.com/2023/06/opposing-affirmative-action-is-not-about-white-solidarity/",
+          "publishedOn": "2023-06-13T10:30:32.000Z",
+          "wordCount": 8179,
+          "title": "Opposing Affirmative Action Is Not about White Solidarity",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2023/06/supreme-court-affirmative-action-protest.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1501212",
+          "author": "Bobby Miller",
+          "description": "A bipartisan bill aims to counter the threat of foreign surveillance by banning the use of federal funds for foreign-made drones.",
+          "link": "https://www.nationalreview.com/2023/06/fend-off-the-drones/",
+          "publishedOn": "2023-06-13T10:30:23.000Z",
+          "wordCount": 8421,
+          "title": "Fend Off the Drones",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2020/04/drone-china.jpg?fit=2057%2C1157"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1501161",
+          "author": "Richard Garnett",
+          "description": "The Supreme Court has made clear that governments may not discriminate against religious institutions that are otherwise eligible for public benefits and contracts.",
+          "link": "https://www.nationalreview.com/2023/06/oklahomas-catholic-charter-school-passes-constitutional-muster/",
+          "publishedOn": "2023-06-13T10:30:18.000Z",
+          "wordCount": 8471,
+          "title": "Oklahoma’s Catholic Charter School Passes Constitutional Muster",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2020/09/reading-bible.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1499512",
+          "author": "Brittany Bernstein",
+          "description": "Eric McDonnell has profited from selling DEI consulting services to government agencies, records and communications reviewed by NR show.",
+          "link": "https://www.nationalreview.com/news/s-f-reparations-committee-chairman-has-lucrative-public-sector-dei-career-now-he-might-cash-in-on-his-own-proposal/",
+          "publishedOn": "2023-06-13T10:30:18.000Z",
+          "wordCount": 9760,
+          "title": "S.F. Reparations Chairman Has Lucrative DEI Career — Now He Might Cash In on His Own Proposal",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2023/06/eric-mcdonnell-kron-youtube.jpg?fit=1200%2C700"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1501135",
+          "author": "The Editors",
+          "description": "We hope that the example set in Europe is one that bothers the conscience of progressives in America.",
+          "link": "https://www.nationalreview.com/2023/06/the-world-is-turning-against-gender-experiments-on-children/",
+          "publishedOn": "2023-06-13T10:30:08.000Z",
+          "wordCount": 7872,
+          "title": "The World Is Turning against Gender Experiments on Children",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/08/tavistock-centre-no-entry-sign.jpg?fit=2057%2C1200"
+        },
         {
           "id": "https://www.nationalreview.com/?post_type=blog-post&p=1501242",
           "author": "Jeff Zymeri",
@@ -10715,36 +10805,6 @@
           "wordCount": 8886,
           "title": "Cheater! Cheater! &c.",
           "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2023/03/mlb-opening-day-2023-18.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1488403",
-          "author": "Andrew Stuttaford",
-          "description": "The Week of May 8, 2023: China’s EV opportunity, regulation, the Fed, markets and much, much, more.",
-          "link": "https://www.nationalreview.com/2023/05/electric-vehicles-a-warning-from-volkswagen/",
-          "publishedOn": "2023-05-15T02:42:03.000Z",
-          "wordCount": 10612,
-          "title": "Electric Vehicles: A Warning from Volkswagen",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/07/vw-electric-cars.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1488358",
-          "author": "Jeff Zymeri",
-          "description": "Both of the leading candidates have claimed that they are ahead and have also contested the figures in an election of enormous importance for Turkey.",
-          "link": "https://www.nationalreview.com/news/turkey-appears-set-for-runoff-election-as-erdogan-falls-short/",
-          "publishedOn": "2023-05-15T01:18:44.000Z",
-          "wordCount": 7655,
-          "title": "Turkey Appears Set for Runoff Election as Erdoğan Falls Short",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2023/05/TurkeyPresidentialElection.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1488354",
-          "author": "John Fund",
-          "description": "Will Chile and Argentina arrest that trend this fall?",
-          "link": "https://www.nationalreview.com/2023/05/capital-and-people-are-fleeing-south-america/",
-          "publishedOn": "2023-05-15T00:00:01.000Z",
-          "wordCount": 8892,
-          "title": "Capital and People Are Fleeing South America",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2023/05/chile-presdient-gabriel-boric.jpg?fit=2057%2C1200"
         }
       ]
     }
