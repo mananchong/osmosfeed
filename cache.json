@@ -6,6 +6,16 @@
       "siteUrl": "https://rweekly.org/atom.xml",
       "articles": [
         {
+          "id": "https://rweekly.org/2023-W25.html",
+          "author": null,
+          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Jonathan Carroll, with help from the RWeekly team members and contributors.\nHighlight\nRow relational operations with slice()\nMerging columns together and fixing up column labels in {gt} 0.9.0\nBayes Lived Here (Probably)\nInsights\nStep By Step: recreating a volcano plot in R\nBayesian structural equation model tutorial\nMy Computer Can Read!\n\nRow relational operations with slice()\nSimpler drawing of Pacific choropleth maps by @ellis2013nz\nR and OOP anti-patterns\nAutomating End-to-End Cypress Tests in Rhino: A Guide to Seamless UI Testing for Shiny Apps\nMastering the Power of R’s diff() Function: A Programmer’s Guide\nIntroduction to Linear Regression in R: Analyzing the mtcars Da…",
+          "link": "https://rweekly.org/2023-W25.html",
+          "publishedOn": "2023-06-19T00:00:00.000Z",
+          "wordCount": 6377,
+          "title": "R Weekly 2023-W25 slice(), columns, Bayes",
+          "imageUrl": "https://rweekly.org/public/facebook.png"
+        },
+        {
           "id": "https://rweekly.org/2023-W24.html",
           "author": null,
           "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Tony ElHabr, with help from the R Weekly team members and contributors.\nHighlight\nThree useful (to me) R patterns\nTowards easy, delightful, and customizable dashboards in Shiny for R with {bslib}\nEasily create sector (pie, donut) and series of circle charts using Cartesian coordinates and ggplot2 with the new #RStats icon {ggtricks}\nInsights\nDeveloping and Debugging Code with browser()\nUpcoming changes to popular R packages for spatial data: what you need to do\nReflecting on Macros\nQuarto at Work: Streamline Reports and Share Insights\nTidyteam code review principles\nPackage spring cleaning\nR in the Real World\nTowards easy, delightful, and customizable dashboards in Shiny for…",
@@ -491,16 +501,6 @@
           "wordCount": 88,
           "title": "黄峪评《潮汐图》︱巨蛙变形记",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_23143813",
-          "author": null,
-          "description": "薛人望（章静绘）\n\n斯坦福大学医学院教授薛人望（Aaron Hsueh）先生以达尔文的演化论观念从事生命科学研究半世纪之久，发表学术论文四百余篇，被引用近六万次。他发现了多种人类新激素及受体，并研发体外卵泡激活（IVA）治疗女性不孕，被美国《时代》杂志评为“2013年十大医学突破之一”。从1978年起，薛人望频繁回中国讲学，为中国生殖医学、演化医学培养下一代学人。最近，他在复旦大学出版社出版了《演化医学启示录》一书。在接受《上海书评》专访时，他谈到了演化论对我们理解人类身心疾病及文化现象的启示作用。\n\n《演化医学启示录》，[美] 薛人望/冯异著，复旦大学出版社2022年9月出版，282页，98.00元\n\n在中文语境中，“进化”和“演化”同时存在，“进化论”与“演化论”同被使用，想先请您谈谈，“进化”和“演化”有什么区别？\n薛人望：“进化”与“演化”同为evolution的中译，而evolution这个词最早在日文中被译为“进化”，随后被早期在日本的中国留学生带回中国。其实，严复最初的中译“演化”更为贴切。大家的想法一般是，大部分生物属于低等生物，而人类是最高等的，所以用“进化”。其实，evolution没有目的性，也没有目标，不是要变得越来越“好”，更不是非常强烈地要往哪个方向变化， “演化”才是更为准确的译法。\n有些人误解了“演化”，以为人类是从猴子“演化”（或“进化”）而来的，因而不相信演化论。这是因为不了解达尔文在《物种起源》中提出的“自然选择”理论。达尔文认为：在生活条件不断变化下，生物几乎都表现出个体差异，并有过度繁殖的倾向；在生存斗争过程中，具备有利变异的个体能生存下来并繁殖后代，逐渐产生新物种；而具备不利变异的个体则因为不适应环境逐渐被淘汰。这种优胜劣汰或适者生存的原理，被称为自然选择。在自然选择的过程中，不适应特定环境的个体遭到淘汰；有许多生物（如真菌、鲨鱼…",
-          "link": "https://www.thepaper.cn/newsDetail_forward_23143813",
-          "publishedOn": "2023-05-21T04:02:08.000Z",
-          "wordCount": 79,
-          "title": "薛人望谈演化对人类的启示",
-          "imageUrl": null
         }
       ]
     },
@@ -509,6 +509,46 @@
       "feedUrl": "https://feedx.net/rss/thepaper.xml",
       "siteUrl": "http://thepaper.cn",
       "articles": [
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_23539335",
+          "author": null,
+          "description": "6月19日，美国国务卿布林肯在美驻华大使馆举行访华记者会，60余家中外媒体现场出席。\n布林肯在回答美国有线电视新闻网（CNN）记者提问时提到其此次访华之行，他表示，中美两国关系正处于一个不稳定的时刻。双方都认识到需要努力稳定局势。“具体而言，首先，我们认为重要的是建立更好的沟通渠道、开放沟通渠道，既要解决误解、误判，又要确保竞争不会演变成冲突。我们不仅在今天和昨天恢复了这种沟通，而且我认为我们可以预见，在未来几周内，其他中国高级官员将为此目的访问美国。”\n布林肯称，第二，重要的是利用其这次访问来稳定中美两国关系，以便能够直接、面对面地提出双方所关心的问题，以及双方存在深刻分歧的领域。“这些分歧是众所周知的。双边挑战、全球问题、不同寻常的安全、价值观、人权问题。我们做了很详尽的讨论，提出了这些问题。”布林肯表示，这也有助于确保双方对这些差异有清晰的认识。\n“最后，这是一个探索我们可以在哪些领域进行合作的机会，为了我们两国人民的利益，为了全世界人民的利益，为了气候和全球经济稳定，为了全球健康，正如我提到的，为了我们两国人民之间的交流。”布林肯说。\n布林肯表示，建立开放的沟通渠道，直接提出关切的问题，在一些领域探索合作，这是美国为这次访问设定的目标，但要取得进展并不容易。“这需要时间，而且不是一次拜访、一次旅行、一次谈话就能得到结果。我的公开期望是，我们将有更好的沟通、更好的接触。这当然不能解决我们之间的所有问题，但做我们双方都认为必要的事情是至关重要的。因此美中两国有责任和义务管理好双边关系，这符合美国、中国乃至世界的利益。”\n“我认为，在过去两天里，我们朝着这个方向迈出了积极的一步。”布林肯说道。\n6月18日上午，美国国务卿布林肯抵达中国北京，开启两天访华之行。这是布林肯首次以国务卿的身份访华，他也是自2018年10月以来访问中国的最高级别美国官员。\n6月19日下午，国家主席习近平在北京会见布林肯。同日，中共中央政治局委员、中央外办主任王毅会见布林肯。6月18日，国务委员兼外长秦刚同布林肯举行会谈。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_23539335",
+          "publishedOn": "2023-06-19T15:58:04.000Z",
+          "wordCount": 32,
+          "title": "布林肯总结访华之行：“过去两天里我们迈出了积极一步”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_23539835",
+          "author": null,
+          "description": "6月19日下午，国家主席习近平在北京会见美国国务卿布林肯。\n习近平强调，世界在发展，时代在变化。世界需要总体稳定的中美关系，中美两国能否正确相处事关人类前途命运。宽广的地球完全容得下中美各自发展、共同繁荣。中国人民和美国人民一样，都是自尊自信自强的人民，都拥有追求美好生活的权利，两国之间存在的共同利益应该得到重视，各自取得成功对彼此都是机遇而非威胁。当前，国际社会普遍对中美关系现状感到担忧，不希望看到两国冲突对抗，不愿在中美之间选边站队，期盼中美和平共处、友好合作。两国应该本着对历史、对人民、对世界负责的态度，处理好中美关系，为全球和平与发展作出贡献，为变乱交织的世界注入稳定性、确定性、建设性。\n习近平指出，大国竞争不符合时代潮流，更解决不了美国自身的问题和世界面临的挑战。中国尊重美国的利益，不会去挑战和取代美国。同样，美国也要尊重中国，不要损害中国的正当权益。任何一方都不能按照自己的意愿塑造对方，更不能剥夺对方正当发展权利。中方始终希望中美关系能够健康稳定，相信两个大国能够排除万难，找到相互尊重、和平共处、合作共赢的正确相处之道。希望美方采取理性务实态度，同中方相向而行，共同努力，坚持我同拜登总统巴厘岛会晤达成的共识，把有关积极表态落实到行动上，让中美关系稳下来、好起来。\n布林肯转达拜登总统对习近平主席的问候，表示，拜登总统相信美中两国有责任和义务管理好双边关系，这符合美国、中国乃至世界的利益。美方致力于重回两国元首巴厘岛会晤确定的议程。美方遵守拜登总统作出的承诺，不寻求“新冷战”、不寻求改变中国制度、不寻求通过强化盟友关系反对中国、不支持“台湾独立”、无意同中国发生冲突，期待同中方开展高层交往，保持畅通沟通，负责任地管控分歧，寻求对话交流合作。\n习近平请布林肯转达对拜登总统的问候。\n王毅、秦刚等参加会见。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_23539835",
+          "publishedOn": "2023-06-19T12:53:11.000Z",
+          "wordCount": 39,
+          "title": "习近平会见布林肯：中美各自取得成功对彼此都是机遇而非威胁",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_23539366",
+          "author": null,
+          "description": "6月19日下午，国家主席习近平在人民大会堂会见美国国务卿布林肯。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_23539366",
+          "publishedOn": "2023-06-19T09:53:13.000Z",
+          "wordCount": 38,
+          "title": "现场视频丨习近平会见美国国务卿布林肯",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_23533405",
+          "author": null,
+          "description": "今年以来，演出市场迅速回暖，再度激起了歌迷、影迷，以及戏剧迷们久违的热情。然而，官方购票平台“一票难求”“黄牛”加价倒票“大行其道”又让很多观众“心灰意冷”。“官方还没开票二级平台已经提前预售”，“官方平台开票秒没，黄牛却票源充足，只要加价，想要什么价位的票都有”，等等乱象严重破坏了观众体验，扰乱了市场秩序。“黄牛”倒票为何屡禁不绝？二级市场票源来自何处？票务市场秩序如何规范？强制实名到底有没有用呢？\n今年一季度演唱会\n音乐节售票超110万张\n据中国演出行业协会演出票务信息采集平台数据监测分析，2023年一季度，全国营业性演出（不含娱乐场所演出）场次6.89万场，演出票房收入49.8亿元。演出市场回暖，观众们也是热情高涨，今年一季度，演唱会、音乐节售出票量超过110万张。一边是观众对演出市场的迫切需求和热切期待；另一边则是“黄牛”们借机牟利。\n\n今年的5月底至6月初，知名人气组合乐队“五月天”在国家体育场“鸟巢”连续举办6场演唱会，数十万张门票“开票即售罄”。这背后，观众在官方售票平台抢票抢不到，而“黄牛”却在一些交易平台和社交软件大量加价转售门票。\n\n看台和内场的官方门票价格区间在355元到1885元，而“黄牛”发布的各类溢价票，平均每张加价525元到925元不等，内场1855元一张的票，甚至被炒到了6980元，更有甚者，价格高达上万元。不仅是“溢价”，有媒体采访发现，不少购票人反映，自己在开票的第一时间，在大麦网、纷玩岛、猫眼等多个官方平台购买，均没有成功，但黄牛票的场次、位置却可以随便挑。\n开展演出票务市场\n“黄牛”​​​​​倒票专项整治工作\n针对此类票务市场乱象，特别是大型热门演唱会在京密集举办，从今年4月起，北京文旅、公安、网信、文化执法、市场监管等部门一起出手，联合各区开展营业性演出票务市场“黄牛”倒票乱象专项整治工作，打击“黄牛票”的销售流通。\n在专项整治过程…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_23533405",
+          "publishedOn": "2023-06-19T07:53:11.000Z",
+          "wordCount": 136,
+          "title": "“买不到”的演出票都去哪儿了？央视起底“黄牛”抢票外挂",
+          "imageUrl": null
+        },
         {
           "id": "https://www.thepaper.cn/newsDetail_forward_23536580",
           "author": null,
@@ -5838,76 +5878,6 @@
           "wordCount": 80,
           "title": "现场｜置之死地而后生，国羽的奇迹之夜",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_23160516",
-          "author": null,
-          "description": "2023年5月18日下午，男飞行学员庞某在培训教室旁的女卫生间内，对一名刚入职的女乘务学员进行偷拍，被当场发现。事发后，公司高度重视，第一时间配合警方全面调查，根据警方目前调查情况及公司规章制度，已决定开除庞某，并解除劳动合同。公司有严格的员工行为规范，对任何违法违规、有违公序良俗的行为，不论出于何种动机，始终坚持“零容忍”，都将严肃处理，绝不姑息。同时，公司始终关心关爱每一名员工，保护好员工特别是女性员工的各项权益。感谢社会各界的关注、监督、支持。\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.best",
-          "link": "https://www.thepaper.cn/newsDetail_forward_23160516",
-          "publishedOn": "2023-05-21T03:53:09.000Z",
-          "wordCount": 27,
-          "title": "男飞行学员在女厕偷拍，厦门航空：已决定开除并解除劳动合同",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_23151268",
-          "author": null,
-          "description": "据美国全国公共广播电台（NPR）报道，当地时间5月19日，白宫官员证实了和共和党代表就债务上限问题的谈判陷入僵局的消息。\n白宫官员对媒体表示，双方仍有可能达成协议，但必须本着诚意进行谈判，并都能认识到双方均不会得到想要的一切，“两党在预算问题上存在真正的分歧，谈判将很困难，总统的团队正在努力争取一个合理的两党解决方案，以通过众议院和参议院”。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_23151268",
-          "publishedOn": "2023-05-21T02:23:14.000Z",
-          "wordCount": 28,
-          "title": "美国白宫官员证实债务上限谈判陷入僵局",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_23161542",
-          "author": null,
-          "description": "刘雨辰/欧烜屹完成了大逆转。 澎湃新闻记者 蒲垚磊 摄(01:04)\n面对四个赛点，国羽已经来到了悬崖边，怎么办？\n\n只有甩开包袱拼到底！\n在全场球迷高唱国歌的映衬下，20日深夜，国羽在苏迪曼杯半决赛中与日本队狭路相逢，在总比分1-2落后，局分16-20落后的绝境下，刘雨辰/欧烜屹组合连续挽救赛点，连拿6分完成神奇逆转！\n最后的女双争夺，陈清晨/贾一凡也不负众望拿下对手，最终国羽3-2逆转日本，晋级苏迪曼杯决赛，我们的对手将是韩国队。\n\n刘雨辰兴奋地拥抱队友。\n\n在此前的四分之一决赛中，国羽3-0完胜印尼队，保持了自1995年开始对印尼的苏杯连胜纪录，同时也保持了本届苏杯至今一场不败的金身。\n此番站在对面的日本队，同样也是国羽在苏迪曼杯的老对手。\n此前，在2015、2019、2021这三届苏迪曼杯比赛中，国羽都是在决赛击败日本队获胜。而2017年苏杯，国羽也曾在半决赛战胜日本，只是最终决赛不敌韩国。\n本场交手之前，国羽对阵日本队的苏杯历史战绩是6战全胜。\n\n刘雨辰/欧烜屹的这场胜利将永载国羽历史。\n\n不过对国羽来说，在赛前的休息时间上稍处劣势——国羽的四分之一决赛是在19日晚上结束，比日本队的四分之一决赛晚了半天，因此也少休息了半天。\n而在中国队这场半决赛之前，另一场半决赛也已经在20日上午开打并决出胜负——韩国队以3-1的比分击败马来西亚，率先锁定了一个决赛名额。\n\n冯彦哲/黄东萍不敌山下恭平/筱谷菜留。\n\n相比前一场击败印尼队的四分之一决赛，国羽在半决赛中进行了阵容调整。首先在第一个混双项目上，队伍就让世界排名第1的郑思维/黄雅琼组合休息，派出了冯彦哲/黄东萍。\n面对日本的山下恭平/筱谷菜留，国羽组合首局就陷入苦战，双方比分紧咬。鏖战至局末阶段，国羽组合挽救2个局点，但还是遗憾以24-26输掉首局。\n\n现场球迷高唱国歌。  澎湃新闻记者 蒲垚磊 摄(00:22)\n进入次局，对阵双方依然难以拉开比分。国羽组合18-15领先时，击球碰到对手头发后出界，裁判依然判罚中国队失分，好在冯彦哲和黄东萍没有受到影响，还是以21-18扳回一局。\n\n决胜局，在率先取得领先的情况下，国羽组合在局末被对手追平并逼出赛点——关键时刻，他俩顶住压力挽救2个赛点，但还是以22-24遗憾失利……\n\n石宇奇和教练组庆祝胜利。\n\n第二场比赛，国羽头号男单石宇奇再度出场，对阵奈良冈功大。\n首局比赛石宇奇状态一般，以13-21落败。好在次局石宇奇及时调整，以21-15扳平比分。\n进入第三局，石宇奇继续掌控局面，以21-17实现逆转，也将比赛拉回到了同一起跑线。\n第三场女单较量，陈雨菲和山口茜这两位各自队伍的主将展开交锋。\n此前山口茜在对阵韩国队和泰国队的比赛中遭遇连败，但半决赛亮相，她展现了不错的状态，开局后取得领先，陈雨菲则失误较多，以14-21先丢一局。\n来到第二局，陈雨菲再度开局落后，最终再以15-21输掉该局……中国队大比分1-2落后。\n\n陈雨菲遗憾告负。\n\n第四场男双，中国队派出刘雨辰/欧烜屹对阵保木卓朗/小林优吾。在这没有退路的一战，国羽组合首局末段连续丢分，以17-21落败。\n危急时刻，刘雨辰/欧烜屹没有放弃，次局中段连续得分取得领先。随着比赛推进，日本队逐渐迫近比分，但依然未能阻止国羽组合以21-19扳回一局。\n关键的决胜局，刘雨辰/欧烜屹自身主动失误较多，但在关键时刻，他们连续挽救四个赛点，连拿6分完成神奇逆转！这一刻，现场彻底被点燃！\n\n激动的中国羽协主席张军（黑色衣服）。\n\n最后一场压轴的女双大战，世界排名第1的陈清晨/贾一凡组合出战，迎战福岛由纪/广田彩花。\n“凡晨组合”展现了碾压级的实力——第一局21-11取胜，第二局也是21-6轻松拿下。由此，国羽再次闯入了苏迪曼杯决赛。\n根据赛程安排，国羽没有太多时间休息，对阵韩国的决赛将在21日下午2点打响。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_23161542",
-          "publishedOn": "2023-05-21T01:53:08.000Z",
-          "wordCount": 87,
-          "title": "大逆转！男双组合挽救四个赛点，国羽3-2日本晋级苏杯决赛",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_23163495",
-          "author": null,
-          "description": "据杭州市公安局5月20日通报，近日，一则“因停车距离纠纷，乘客拒绝下车已达28小时，警方多次协调无果”的信息在网络传播。\n经查，2023年5月17日14时许，余某佳（女，25岁）、余某江（男，54岁）因与某网约车司机王某某发生司乘纠纷后不愿下车，王某某报警。余杭公安分局仓前派出所出警开展调解，但余某佳和余某江二人拒不下车并要求赔偿。调解无果后，王某某返回西湖区留下街道其居住小区，余某佳和余某江二人仍在车内拒不下车。5月18日8时许，王某某发现该二人仍在车内，再次报警，西湖分局留下派出所出警处置。期间，该二人仍不听民警劝解，拒不下车，直至22时许被民警传唤至留下派出所。\n目前，西湖公安分局对余某佳和余某江二人依法作出行政拘留处罚。\n另据王某某向媒体提供的《行政处罚决定书》 ，警方根据 《中华人民共和国治安管理处罚法》 第二十六条第（三）项之规定，决定对余某佳、余某江行政拘留七日。治安管理处罚法第二十六条法条规定，有下列行为之一的处五日以上十日以下拘留，可以并处五百元以下罚款；情节较重的，处十日以上十五日以下拘留，可以并处一千元以下罚款：(一)结伙斗殴的；(二)追逐、拦截他人的；(三)强拿硬要或者任意损毁、占用公私财物的；(四)其他寻衅滋事行为。\n对于此事，上海大邦律师事务所律师丁金坤认为，法律上，因纠纷而长时间占据车辆，妨害车辆的使用，造成车主经济损失，是有社会危害性的，可以治安处罚。他认为，本案是持续犯，但由于实践中此类案件较少，对于占车多长时间才构成违法 ，尚无规定或者先例，易导致执法延误。其实，双方发生纠纷，一方占车如果时间短暂，可视为民事侵权，若时间长久，影响对方营业，则是治安违法。\n“时间长短的标准，可以根据常识结合具体事项判断，譬如正常纠纷吵架也不过超过一二小时，若长时占据或者警方调解后还不下车，可以认定非法了。”丁金坤说。\n湖南金州律师事务所高级合伙人、律师邢鑫认为，此事件中，两名乘客长时间霸占网约车的行为，法律上来说构成对权利人依法行使物权的干扰，可能需承担民事、行政责任。\n邢鑫说，民事责任方面，霸占行为干扰网约车司机的正常经营活动，属于侵犯司机对车辆使用权的侵权行为。根据《民法典》，权利人有权要求其返还原物、排除妨害，并赔偿其所造成的车辆运营损失。\n此外，民法典第1177条对“自助行为”进行了规定，合法权益受到侵害，情况紧迫且不能及时获得国家机关保护，不立即采取措施将使其合法权益受到难以弥补的损害的，受害人可以在保护自己合法权益的必要范围内采取合理措施；但是，应当立即请求有关国家机关处理。\n邢鑫说，行政责任方面，公安民警先以调解方式处理民事纠纷无果，故只能依法采取强制措施。目前适用治安管理处罚法第26条“强拿硬要或任意损毁占用公私财物”进行处罚，是采取“公力救济”的手段保障私权，因此是合法合理的。\n另据华商报大风新闻报道，网约车司机王某某说，民警告诉她，关于她提出的索赔、道歉问题，将在行政拘留结束后，由警方再次进行调解，若调解无果，将走法律程序。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_23163495",
-          "publishedOn": "2023-05-21T00:53:09.000Z",
-          "wordCount": 38,
-          "title": "法治课｜两乘客赖网约车超24小时被行拘，“赖”多久构成违法？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_23163489",
-          "author": null,
-          "description": "问：据报道，七国集团广岛峰会发表联合声明等文件，炒作涉华议题，妄谈台海局势，对东海、南海、涉港、涉疆、涉藏等问题和中国核力量说三道四，称反对单方面改变现状，并以所谓“经济胁迫”影射中国。中方对此有何评论？\n答：七国集团嘴上唱着“迈向和平、稳定、繁荣世界”的高调，干的却是阻碍国际和平、损害地区稳定、压制他国发展的事情，这种做法毫无国际信用可言。七国集团不顾中方严重关切，执意操弄涉华议题、抹黑攻击中国、粗暴干涉中国内政，中方对此表示强烈不满和坚决反对，已向峰会主办方日本等有关方面提出严正交涉。\n台湾是中国的台湾。解决台湾问题是中国人自己的事，要由中国人来决定。一个中国原则是维护台海和平稳定的定海神针。七国集团口口声声称维护台海和平，却绝口不提反对“台独”，这实质是对“台独”势力的纵容支持，其结果只会对台海和平稳定造成严重冲击。任何人都不要低估中国人民捍卫国家主权和领土完整的坚强决心、坚定意志和强大能力。\n香港、新疆、西藏事务纯属中国内政，中国坚决反对任何外部势力打着“人权”幌子对此横加干涉。七国集团应当停止在涉港、涉疆、涉藏问题上对中国指手画脚，深刻反省自身历史和人权劣迹。\n中国是国际海洋法治的坚定捍卫者和建设者。当前东海、南海局势总体保持稳定，相关国家应切实尊重地区国家维护和平稳定的努力，停止利用涉海问题挑拨地区国家关系、制造阵营对抗。\n对于所谓“经济胁迫”，美国大搞单边制裁、“脱钩断链”，才是把经贸关系政治化、武器化的真正“胁迫者”。我们奉劝七国集团不要做经济胁迫的同谋和帮凶。\n中国始终坚定奉行自卫防御的核战略，恪守不首先使用核武器政策，始终将核力量维持在国家安全需要的最低水平。中国是五个核武器国家中唯一作出上述承诺的国家。中国的立场光明正大、坦坦荡荡，不容歪曲抹黑。\n我要强调，中方作为负责任大国，坚定维护以联合国为核心的国际体系、以国际法为基础的国际秩序和以联合国宪章宗旨和原则为基础的国际关系基本准则，决不接受少数国家炮制的“家法帮规”。国际社会不接受七国集团主导的、以意识形态和价值观划线的“西方规则”，更不接受服务于“美国第一”和少数国家既得利益的“小圈子规则”。七国集团应当反躬自省，改弦更张。\n我还要指出，西方少数几个发达国家肆意干涉别国内政、操纵全球事务的时代已经一去不复返了。我们敦促七国集团成员顺应时代大势，把精力放到解决自身存在的各种问题上来，停止搞封闭排他的“小圈子”，停止遏制打压他国，停止制造和挑动阵营对抗，回到对话合作的正确道路上来。\n\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.best",
-          "link": "https://www.thepaper.cn/newsDetail_forward_23163489",
-          "publishedOn": "2023-05-21T00:53:08.000Z",
-          "wordCount": 27,
-          "title": "G7广岛峰会炒作涉华议题，外交部：已向日本等有关方面提出严正交涉",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_23158919",
-          "author": null,
-          "description": "距离五月天北京演唱会正式开演还有10天时，“五月天演唱会‘黄牛票’价格跌近万元”冲上了热搜榜，乍一看以为票价大跳水，实际上这跌了近万元的“黄牛”票，价格还是远超原价票。\n今年演出市场复苏，导致多数演唱会“一票难求”，开票即售罄的情况层出不穷。一边是观众们对线下演出的需求高涨，一边是“黄牛”们伺机借着市场火爆大赚一笔。\n\n五月天演唱会海报图\n\n粉丝团票因“不可抗力”取消\n“不可售”的票去哪儿了？\n5月5日，五月天北京鸟巢演唱会正式官宣，此次北京演唱会分为两段，5月26日-28日连开三场《五月天2023好好好想见到你北京演唱会》，5月31日、6月1日和6月3日三场为《五月天2023诺亚方舟10周年进化复刻限定版北京演唱会》。官宣当日，两家粉丝站随即开启团票，为了防止“黄牛”入场，购票者需先答题证明粉丝身份后才可以抢票。\n\n五月天粉丝站团票发现大量异常订单。微博截图\n\n5月6日晚，五月天粉丝团票的最后一日，“MAYDAY五月天任意门”粉丝站在社交媒体公布大量0秒异常订单，并表示异常订单将全部关闭，排查完毕后即开始发货。然而不足3个小时，一则团票取消的通知让粉丝们刚刚抢到票的喜悦消失殆尽。\n据五月天歌迷智美(化名)介绍，她参与五月天演唱会团票已有十年之久，通常由3个粉丝站“五月天吧”“纯真MAYDAY”“MAYDAY五月天任意门”负责团票事宜。\n这是粉丝站与演出主办方达成的不成文规定，在票务网站预售开启前留出一部分团购票，粉丝可以通过粉丝站购买原价票。特别注意的是，粉丝站团购要求原价购买的演出票严禁加价转卖，如需转票必须原价。\n\n粉丝提供的团票背后印着严禁加价转卖字样。受访者供图\n\n原价团购票渠道被堵死，粉丝们将矛头直指主办方和“黄牛”，怀疑他们为了利益干涉团票。\n在粉丝站发布的公告中曾提到，团购票取消是“因为不可抗力因素”。据钱江晚报消息，记者联系了一位与演出主办方华乐非凡关系密…",
-          "link": "https://www.thepaper.cn/newsDetail_forward_23158919",
-          "publishedOn": "2023-05-20T23:53:09.000Z",
-          "wordCount": 80,
-          "title": "五月天演唱会黄牛票价格跌近万元，向黄牛宣战的粉丝赢了吗？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_23151160",
-          "author": null,
-          "description": "5月19日，雨后的广岛市和平公园内铺上了红毯，日本首相岸田文雄和夫人裕子一一恭迎出席七国集团（G7）峰会的领导人们。今年G7合影的背景是核爆慰灵碑和圆顶馆，与其说是带有鲜明的日本议程元素，不如说是强烈的岸田色彩。\n\n当地时间2023年5月19日，日本广岛，七国集团峰会的领导人合影。视觉中国 图\n\n为了展示原子弹造成的巨大破坏，推广岸田文雄倡导的 “无核武世界”，岸田夫妇亲自担任解说，陪同包括美国总统拜登夫妇等领导人参观广岛和平纪念资料馆，一起了解原子弹爆炸受害者留下的物品和相关资料。讽刺的是，就在前一天，美日首脑会谈就“核保护伞”不可或缺达成一致。 \n在5月19日外交部例行记者会上，外交部发言人汪文斌表示，核武器造成的灾难和悲剧不应重演。日方表面上宣扬建立无核武器世界，实际上却享受美国的“核保护伞”，反对和阻挠美国放弃首先使用核武器政策。我们希望日方在有关问题上不要采取虚伪立场。\n自去年7月宣布将在广岛举行G7峰会，岸田政府在10个月的筹备期中经历了内外的危机与转折，前首相安倍晋三遇害、安保政策转向、日韩关系回暖……临近峰会开幕，美国总统拜登险因债务危机缺席谈判，开幕日当天又临时传出乌克兰总统泽连斯基将线下参会的消息，充满变数。\n对日本而言，这是今年最重要的一场主场外交。对岸田文雄而言，这是在西方大国首脑面前担当主角的难得机会。岸田政府正在为其政治考量一步步努力，但仍面临着现实的落差。\n在广岛向世界呼唤“无核”\n岸田文雄是将此次峰会地点选在广岛的主要倡议人，那里不仅是他的选区，也是其出生地。他一直主张的核裁军和核不扩散也与其广岛出身有关。在接受《时代》杂志采访时，岸田说，他有多名亲属死于1945年广岛核爆，幼年记忆就包括祖母对他讲述关于核爆幸存者苦难的故事。“广岛及其人民所经受的难以言喻的伤痛鲜明地印在了我的脑海里。这一儿时经历是我追求无核武器世界的主要动力。”\n正是因此，…",
-          "link": "https://www.thepaper.cn/newsDetail_forward_23151160",
-          "publishedOn": "2023-05-20T23:53:09.000Z",
-          "wordCount": 63,
-          "title": "观察｜G7广岛峰会开幕，岸田文雄的政治考量与现实落差",
-          "imageUrl": null
         }
       ]
     },
@@ -5916,6 +5886,76 @@
       "feedUrl": "https://www.nationalreview.com/feed/",
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1503856",
+          "author": "Jeff Zymeri",
+          "description": "Trump is facing 37 counts, including willful retention of national-defense information, conspiracy to obstruct justice, and making false statements.",
+          "link": "https://www.nationalreview.com/news/former-ag-barr-slams-defiant-nine-year-old-trump-our-country-cant-be-a-therapy-session/",
+          "publishedOn": "2023-06-19T14:04:05.000Z",
+          "wordCount": 7584,
+          "title": "Former AG Barr Slams ‘Defiant Nine-Year-Old’ Trump: ‘Our Country Can’t Be a Therapy Session’",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2020/07/ag-bill-barr-capitol-hill-2.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1503845",
+          "author": "Jeff Zymeri",
+          "description": "Sex-change procedures ‘do not respect the fundamental order of the human person as an intrinsic unity of body and soul,’ the Bishops wrote.",
+          "link": "https://www.nationalreview.com/news/u-s-bishops-to-direct-catholic-hospitals-not-to-perform-sex-change-surgeries-hormone-treatments/",
+          "publishedOn": "2023-06-19T12:49:00.000Z",
+          "wordCount": 7341,
+          "title": "U.S. Bishops to Direct Catholic Hospitals Not to Perform Sex-Change Surgeries, Hormone Treatments",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2023/06/Conference-of-Catholic-Bishops.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1503489",
+          "author": "Ari Blaff",
+          "description": "Videos obtained by NR show massive brawls, some involving weapons. The assaults went unpunished, according to teachers.",
+          "link": "https://www.nationalreview.com/news/terminal-decline-ontario-teachers-plead-for-help-as-schools-descend-into-violent-mayhem/",
+          "publishedOn": "2023-06-19T10:30:52.000Z",
+          "wordCount": 10132,
+          "title": "‘Terminal Decline’: Ontario Teachers Plead for Help as Schools Descend into Violent Mayhem",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2023/06/Ontario-School-Brawls.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1503791",
+          "author": "Kathryn Jean Lopez",
+          "description": "The Supreme Court fails to help.",
+          "link": "https://www.nationalreview.com/2023/06/we-continue-to-harm-vulnerable-american-indian-children/",
+          "publishedOn": "2023-06-19T10:30:41.000Z",
+          "wordCount": 8272,
+          "title": "We Continue to Harm Vulnerable American-Indian Children",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/05/hualapei-reservation-2012.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1503756",
+          "author": "Jessica Melugin",
+          "description": "Surely the FTC has better things to do than prevent healthy competition.",
+          "link": "https://www.nationalreview.com/2023/06/ftc-continues-war-on-bigness-by-opposing-microsoft-video-game-acquisition/",
+          "publishedOn": "2023-06-19T10:30:15.000Z",
+          "wordCount": 8035,
+          "title": "FTC Continues War on Bigness by Opposing Microsoft Video-Game Acquisition",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2023/06/call-of-duty-mobile.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1503671",
+          "author": "Jay Nordlinger",
+          "description": "On youth sports and our culture; Turkey and its horrors; Confederate generals and U.S. military bases; scenes from Chicago; and more.",
+          "link": "https://www.nationalreview.com/2023/06/officiating-in-america-c/",
+          "publishedOn": "2023-06-19T10:30:13.000Z",
+          "wordCount": 8584,
+          "title": "Officiating in America, &c.",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/04/baseball-umpire.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1502772",
+          "author": "Benjamin Watson",
+          "description": "Abortion solves none of the problems facing black families today. It isn’t justice, it’s death.",
+          "link": "https://www.nationalreview.com/2023/06/juneteenth-is-about-the-black-family-stop-making-it-about-abortion/",
+          "publishedOn": "2023-06-19T10:30:05.000Z",
+          "wordCount": 8166,
+          "title": "Juneteenth Is about the Black Family — Stop Making It about Abortion",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2023/06/juneteenth-brothers-2021.jpg?fit=2057%2C1200"
+        },
         {
           "id": "https://www.nationalreview.com/?post_type=blog-post&p=1503647",
           "author": "Brittany Bernstein",
