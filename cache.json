@@ -34,16 +34,6 @@
           "wordCount": 6377,
           "title": "R Weekly 2023-W25 slice(), columns, Bayes",
           "imageUrl": "https://rweekly.org/public/facebook.png"
-        },
-        {
-          "id": "https://rweekly.org/2023-W24.html",
-          "author": null,
-          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Tony ElHabr, with help from the R Weekly team members and contributors.\nHighlight\nThree useful (to me) R patterns\nTowards easy, delightful, and customizable dashboards in Shiny for R with {bslib}\nEasily create sector (pie, donut) and series of circle charts using Cartesian coordinates and ggplot2 with the new #RStats icon {ggtricks}\nInsights\nDeveloping and Debugging Code with browser()\nUpcoming changes to popular R packages for spatial data: what you need to do\nReflecting on Macros\nQuarto at Work: Streamline Reports and Share Insights\nTidyteam code review principles\nPackage spring cleaning\nR in the Real World\nTowards easy, delightful, and customizable dashboards in Shiny for…",
-          "link": "https://rweekly.org/2023-W24.html",
-          "publishedOn": "2023-06-11T00:00:00.000Z",
-          "wordCount": 5955,
-          "title": "R Weekly 2023-W24 R idioms, bslib, donut plots",
-          "imageUrl": "https://rweekly.org/public/facebook.png"
         }
       ]
     },
@@ -460,16 +450,6 @@
           "publishedOn": "2023-06-12T04:02:09.000Z",
           "wordCount": null,
           "title": "龚龑读《约翰生传》｜约翰生是个“詹姆斯党人”吗？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_23418364",
-          "author": null,
-          "description": "杰伊·温特、徐国琦（章静 绘）\n\n耶鲁大学历史系教授杰伊·温特（Jay Winter）是第一次世界大战史研究的领军人物。他召集七十多名历史学家组成的国际团队共同编写《剑桥第一次世界大战史》，以跨国史视角和研究方法来叙述这场现代社会的浩劫，呈现了大量一手资料和最新研究成果。杰伊·温特的个人著作主要有《记忆之地，哀悼之所：欧洲文化史中的第一次世界大战》（Sites of Memory, Sites of Mourning: The Great War in European Cultural History, 1995）、《勿忘战争》（Remembering War, 2006）和《和平与自由的梦想》（Dreams of Peace and Freedom, 2006）等。以《中国与大战》《一战中的华工》等研究享誉国际的香港大学历史系教授徐国琦是《剑桥第一次世界大战史》编写团队中唯一的中国学者。他近年来提倡并身体力行“共有的历史”研究方法，跳出民族国家视野的学术范畴，着眼于跨国史及不同文明之间的交流，著有《中国人与美国人：一部共有的历史》《亚洲与一战：一部共有的历史》《奥林匹克之梦：中国与体育，1895-2008》等。\n在《剑桥第一次世界大战史》中文版出版之际，《上海书评》邀请徐国琦教授与杰伊·温特教授进行了一次线上对谈，他们就历史写作中的跨国史视野，以及一战史研究近十年的新议题与新动向交换了想法。\n\n《剑桥第一次世界大战史》（三卷），【美】杰伊·温特主编，姚百慧等译，浙江大学出版社2023年3月出版，238.00元\n\n徐国琦：首先祝贺您主编的《剑桥第一次世界大战史》中文版面世。如果我没记错的话，法文版是十年前的2013年出版的，所以这是十周年纪念了。\n杰伊·温特：这的确是第一次世界大战史研究中的特殊时刻。如你所知，这部书是一项集体成就，我们也都知道这并不太常见。在我们的职业领…",
-          "link": "https://www.thepaper.cn/newsDetail_forward_23418364",
-          "publishedOn": "2023-06-11T01:02:12.000Z",
-          "wordCount": 190,
-          "title": "杰伊·温特、徐国琦谈第一次世界大战史",
           "imageUrl": null
         }
       ]
@@ -5538,46 +5518,6 @@
           "wordCount": 37,
           "title": "圆桌｜扩大就业是民企促进共富最直接的实践路径，“要像保护国有产权一样保护民企产权”",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_23421627",
-          "author": null,
-          "description": "罗德里远射为曼城破门。\n\n终于，瓜迪奥拉和这支曼城圆梦了。\n11日凌晨，欧冠决赛上演——在德布劳内上半场受伤，球队战术受阻的情况下，曼城凭借后腰罗德里的远射，1-0击败国际米兰，拿下队史首个欧冠大耳朵杯，本赛季豪取英超+欧冠+足总杯的三冠王。\n\n赛后，多名曼城球员喜极而泣。\n\n这是瓜迪奥拉离开巴萨后的首个欧冠，也是他的个人第三座欧冠冠军——他终于证明了没有梅西，他也可以。\n此外，曼城也成为了欧洲足坛历史上第八支获得三冠王的球队，同时也是欧冠历史的第23个冠军。\n\n罗德里庆祝进球。\n\n赛前，英国BT SPORTS评选出了本赛季欧冠的最佳阵容，曼城多达7人入选，国米无人上榜。\n贝尔预测这场决赛曼城可以5-0胜出，曼联名宿费迪南德也指出，如果曼城打入第一球，比赛就结束了。\n就连对手国米上到主帅因扎吉下到球员奥纳纳都坦承——现在的曼城就是世界最强球队。\n\n国米主席张康阳。\n\n然而，在伊斯坦布尔的阿塔图尔克奥林匹克体育场，瓜迪奥拉的球队并未呈现出“宇宙队”的成色，在国米的众志成城下，比赛一度陷入僵持。\n此役曼城首发阵容做了一个调整，伤愈的阿克登场，阿坎吉顶替沃克踢右中卫，瓜帅表示：“沃克可以上场，但我需要一个不同类型的球员，这是唯一的原因。”\n看上去，面对速度一般的国米边锋迪马尔科，瓜迪奥拉又想整活。\n比赛中曼城一如既往掌控球权，半场控球率达到62%，不过在国米疯狂的追抢下，曼城没有觅得什么良机——25分钟后哈兰德突入禁区小角度抽射被奥纳纳挡出，这是唯一的威胁。\n\n德布劳内受伤。\n\n更让曼城球迷感到沮丧的是——第35分钟，德布劳内因伤无法坚持，不得已提前下场。\n两年前曼城与切尔西的欧冠决赛中，德布劳内就因为和吕迪格相撞受伤提前离场……最终曼城输给了蓝军。\n\n瓜迪奥拉安慰德布劳内。\n\n瓜迪奥拉赛前曾经表示：“国米是防守的高手，我们必须要有耐心。最重要的是，在0比0时我们会认为我们正在输球，而国米会觉得他们赢了。”\n这一定程度上凸显了曼城的心理状态，作为热门，曼城对于比赛的预期很高，一旦场上局面不利，会感到沮丧。\n米兰名宿内斯塔也有相似的判断，他指出曼城主场对皇马的比赛“不像是人类踢出的足球”，“如果曼城这样踢，国米没有机会，但一场决赛，压力会带来变数。”\n很明显，曼城此役不处在最佳状态，无法提供相似的速度与强度——事实上，与曼联的足总杯决赛就可以看出一些端倪，胜利得益于京多安的两脚神来之笔。\n\n哈兰德的劲射被奥纳纳扑出。\n\n下半时，失去德布劳内的曼城前场出球并不顺畅，倒是国米开始利用零星的反击威胁曼城大门。\n第58分钟，曼城后场回传门将出现配合失误，劳塔罗抢下机会射门，如果不是埃德森救险，国米将首开纪录。\n\n曼城后场失误，劳塔罗险些破门。\n\n13年前，国米就是在半决赛中战胜了瓜迪奥拉率领的巴萨梦三队并最终夺冠，彼时穆里尼奥利用防守遏制了拥有梅西的巴萨。\n回顾那场比赛，葡萄牙人表示：“决心是球队获胜的关键。”13年后，小因扎吉的球队继承了前人的风骨，但这回他们缺少了点运气。\n\n目睹后防的失误，瓜迪奥拉跪了。\n\n第68分钟，曼城在国米禁区制造混乱，随后罗德里在乱军中后排插上远射得分，1-0。\n第70分钟，迪马尔科头球击中横梁，皮球反弹回来后，迪马尔科再度头球却打在了队友卢卡库身上。\n随后，卢卡库近在咫尺的头球又被埃德森在门线前挡出……\n\n劳塔罗错过机会。\n\n今天的曼城可能是球迷近期看到的最挣扎的曼城，但他们还是笑到了最后，从客场逼平皇马到足总杯险胜曼联，场面不佳的时候他们也能扎好篱笆。\n不得不承认，这支曼城进化了，他们具备了过去所没有的抗压力，相比于如何进球，他们更懂得如何让对手不进球。\n此外，瓜迪奥拉对于球队的改造升级也在此役得到最直接的印证——将斯通斯位置前提，罗德里获得了更多的前插机会，在最需要进球的时候，一位后腰球员完成了最致命一击。\n\n国米球迷应该对球队的表现感到自豪。\n\n自从瓜迪奥拉2016年执掌曼城以来，他收获了13个冠军，唯一的遗憾是未能夺得欧冠，这一次终于得偿所愿。\n值得一提的是，曼城老板曼苏尔酋长也来到了伊斯坦布尔见证球队的辉煌，他上一次现场看正式比赛还是13年前。\n这也正是曼城的13年，他们如今拥有了一切。\n\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.best",
-          "link": "https://www.thepaper.cn/newsDetail_forward_23421627",
-          "publishedOn": "2023-06-11T00:53:08.000Z",
-          "wordCount": 76,
-          "title": "三冠王！曼城欧冠决赛1-0国米，瓜迪奥拉终于证明自我",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_23437476",
-          "author": null,
-          "description": "当地时间6月10日，乌克兰总统泽连斯基在基辅与到访的加拿大总理特鲁多举行了会谈。特鲁多表示，加拿大将参与训练乌克兰战斗机飞行员，并宣布新一批价值3.75亿美元的对乌军事支持。\n特鲁多还表示，去年加拿大扣押了一架降落在加拿大的俄罗斯运输机，现在计划将该运输机移交给乌克兰。\n乌克兰国家通讯社10日报道称，泽连斯基当天表示，乌克兰正在采取一定反攻和防御行动，但他表示，不会详细透露目前处在哪一阶段。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_23437476",
-          "publishedOn": "2023-06-11T00:53:08.000Z",
-          "wordCount": 27,
-          "title": "加拿大宣布新一批3.75亿美元对乌军事支持",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_23433235",
-          "author": null,
-          "description": "截屏图\n\n“国企领导与女子牵手逛街”事件持续引发讨论。\n6月8日，澎湃新闻《法治课｜“牵手逛街门”背后：街拍“反腐”的肖像权保护边界在哪？》一文呈现了华东政法大学民商法副教授孙维飞的观点，即若涉事二人未明确同意街拍摄影师将其肖像公开在抖音等平台，则摄影师的上传行为和网友的传播行为，构成对二人肖像权的侵犯。\n湖南省刑法学研究会原副会长、湖南省律协刑事专业委员会原主任贺小电律师认为，“牵手逛街门”中，国企领导和女子在公开场合牵手，若网传两人存在不当关系属实，系其对自身失德行为的自愿公开。基于维护社会良好风气和不特定多数人的正常情感、审美等公共利益的需求，对这种官员偏离道德行为的监督，拍摄者和传播者都不构成肖像权侵权。\n北京德润律师事务所律师刘家辉也持同样观点，她还认为，“即便目前尚未查实二人之间存在权色交易等涉及公域的腐败行为，人们对其道德和操守的质疑也是正常的、合理的。因为恶猜公权力，是实现社会监督权的方式。”\n此事源于一段发布在网上的“街拍”视频，视频中，中石油旗下寰球工程项目管理（北京）有限公司执行董事、党委书记、总经理胡继勇与一女子在成都太古里商业街牵手逛街。有网传消息称，胡继勇系有妇之夫，涉事女子董某槿为同公司职员，二人的牵手行为有失伦理规范和道德要求，这刺激到了网友的神经。事发后，中石油集团工程有限公司北京项目管理分公司回应称，胡继勇已被免职并接受公司纪委核查。有媒体报道称，涉事女子董某槿目前也被停职。\n“若官员自愿公开失德行为，传播不侵犯其肖像权”\n当街拍摄影师将“牵手逛街门”视频上传至抖音平台时，他或许没有想到数日后会引发一番舆论风暴。一些观点认为，即使是与情人牵手逛街，也属于官员的个人隐私，此事件中两人被“曝光”到网络，属于对二人隐私和肖像权的侵犯。\n贺小电律师认为，该事件中不涉及到隐私权的侵犯，因二人的行为是在成都太古里这一繁华商业街、一个完全开放的公共场所…",
-          "link": "https://www.thepaper.cn/newsDetail_forward_23433235",
-          "publishedOn": "2023-06-10T22:53:15.000Z",
-          "wordCount": 34,
-          "title": "再议“牵手门”肖像权，律师：官员自愿公开失德行为，传播不侵权",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_23433339",
-          "author": null,
-          "description": "人口第一大省广东，也开始“催生”了。\n6月7日，广东省卫健委、省发改委等17个部门发布的《关于进一步完善和落实积极生育支持措施的实施意见》挂网公开，为减轻群众生育、养育、教育负担提供支撑。这份《意见》从托育、财政、税收、保险、教育、住房、就业等多个方面着手，围绕提高生育水平、促进人口增长，出台了系列支持措施。\n作为经济实力、常住人口第一的双料大省，广东的“催生”政策有何考量？在现实中，如何落实这些措施，才能起到实效？\n广东“催生”：涵盖范围广，针对性强\n2022年，全国人口首次负增长，随着人口拐点到来，各地陆续出台相应的鼓励生育政策，拿出真金白银来支持人们生娃。\n如今年年初，杭州宣布二孩一次性补助5000元，三孩一次性补助两万元；武汉东湖高新区对2023年1月1日后满足相关条件生育三孩及以上子女的家庭，每年每孩可享受育儿补贴1万元，最长可享受至6周岁。真金白银不仅有了，也越来越大。\n在各地花式“催生”的背景下，2022年常住人口首次负增长的广东，出台生育支持政策，当然不意外。\n而从具体措施看，一是，政策涵盖的范围比较广，从生育到托育，到学前教育、义务教育，再到劳动者权益，涉及方方面面。二是，结合地方的基本情况，有一些比较有针对性的目标和措施。\n比如在学前教育领域明确提到，“十四五”期间新增33万个以上公办幼儿园学位，新建、改扩建2500所公办幼儿园。\n再比如，在减轻住房负担方面，要实施精准购房租房倾斜政策——积极发挥国有住房租赁企业建设、运营、管理等综合优势，支持其通过新建租赁住房、“城中村”住房规模化租赁改造等方式，扩大住房租赁规模。\n这一点和前不久火热的深圳统租话题，形成了呼应。用城中村统租的形式，在短期内大幅增加保障性住房的房源供应，减轻年轻人的生活成本，撬动他们的生育意愿。\n其实不管是建学校，还是搞城中村统租，都需要大手笔资金投入，它的成本要远远比单纯的生育补贴更高…",
-          "link": "https://www.thepaper.cn/newsDetail_forward_23433339",
-          "publishedOn": "2023-06-10T22:53:15.000Z",
-          "wordCount": 41,
-          "title": "新城市志︱人口第一大省，也开始“催生”了",
-          "imageUrl": null
         }
       ]
     },
@@ -5586,6 +5526,96 @@
       "feedUrl": "https://www.nationalreview.com/feed/",
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1512779",
+          "author": "Haley Strack",
+          "description": "Nassar is estimated to have abused 300 women — Olympic gymnasts, Michigan State University athletes, and young girls.",
+          "link": "https://www.nationalreview.com/news/former-usa-gymnastics-doctor-convicted-pedophile-larry-nassar-stabbed-in-prison/",
+          "publishedOn": "2023-07-10T16:21:14.000Z",
+          "wordCount": 7691,
+          "title": "Former USA Gymnastics Doctor, Convicted Pedophile Larry Nassar Stabbed in Prison",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2023/07/nassar.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1512750",
+          "author": "Caroline Downey",
+          "description": "Kamau is a member of the Democratic Socialists of America and has said he wants to turn South Fulton into a ‘real life Wakanda.’",
+          "link": "https://www.nationalreview.com/news/democratic-georgia-mayor-arrested-for-trespassing-after-walking-into-lake-house-uninvited/",
+          "publishedOn": "2023-07-10T16:10:16.000Z",
+          "wordCount": 7839,
+          "title": "Democratic Georgia Mayor Arrested for Trespassing after Walking into Lake House Uninvited",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2023/07/Khalid-Kamau.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1512676",
+          "author": "Jeff Zymeri",
+          "description": "Sam Brown, a retired Army officer who was severely burned by a roadside explosion in Afghanistan, announced Monday he would throw his hat in the ring.",
+          "link": "https://www.nationalreview.com/news/gop-leadership-taps-wounded-army-vet-to-challenge-nevadas-democratic-senator/",
+          "publishedOn": "2023-07-10T13:32:05.000Z",
+          "wordCount": 8069,
+          "title": "GOP Leadership Taps Wounded Army Vet to Challenge Nevada’s Democratic Senator",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2023/07/GettyImages-1241317568-Sam-Brown.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1512686",
+          "author": "Jeff Zymeri",
+          "description": "The meeting was held five days after Wagner forces turned around their caravan, the Kremlin said.",
+          "link": "https://www.nationalreview.com/news/kremlin-says-putin-met-with-wagner-chief-prigozhin-days-after-attempted-mutiny/",
+          "publishedOn": "2023-07-10T12:48:11.000Z",
+          "wordCount": 7225,
+          "title": "Kremlin Says Putin Met with Wagner Chief Prigozhin Days after Attempted Mutiny",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2023/06/cadfd.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1512616",
+          "author": "Andrew Stuttaford",
+          "description": "The week of July 3, 2023: Net zero questions, antitrust, the Fed, regulation, and much, much more.",
+          "link": "https://www.nationalreview.com/2023/07/net-zeros-questionable-pathway/",
+          "publishedOn": "2023-07-10T11:34:38.000Z",
+          "wordCount": 10901,
+          "title": "Net Zero’s Questionable Pathway",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2023/07/Renewables.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1511505",
+          "author": "Amity Shlaes",
+          "description": "Until more Americans know what happened in periods such as the Gilded Age, they can’t protect themselves from those who abuse history to advance poor policy.",
+          "link": "https://www.nationalreview.com/2023/07/the-curse-of-bigness/",
+          "publishedOn": "2023-07-10T10:30:59.000Z",
+          "wordCount": 9667,
+          "title": "The Curse of Bigness",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2023/07/teddy.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1512290",
+          "author": "Matt Paprocki",
+          "description": "Political expediency, corruption, and pressure from radical teachers’-union leadership have killed the state’s sole school-choice offering.",
+          "link": "https://www.nationalreview.com/2023/07/an-unforgivable-betrayal-of-working-class-families-in-illinois/",
+          "publishedOn": "2023-07-10T10:30:54.000Z",
+          "wordCount": 7836,
+          "title": "An Unforgivable Betrayal of Working-Class Families in Illinois",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2022/04/illinois-governor-pritzker.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1511800",
+          "author": "David L. Bahnsen",
+          "description": "Normal people did not do the deal Donald Trump did with the Plaza Hotel. It belongs in the history books.",
+          "link": "https://www.nationalreview.com/2023/07/the-moment-trumps-invincibility-became-a-thing/",
+          "publishedOn": "2023-07-10T10:30:38.000Z",
+          "wordCount": 9016,
+          "title": "The Moment Trump’s Invincibility Became a Thing",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2023/07/trump.jpg?fit=2057%2C1200"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1512657",
+          "author": "Kathryn Jean Lopez",
+          "description": "Transgender ideology obliterates toys for girls.",
+          "link": "https://www.nationalreview.com/2023/07/the-dylan-mulvaney-ization-of-barbie/",
+          "publishedOn": "2023-07-10T10:30:17.000Z",
+          "wordCount": 8517,
+          "title": "The Dylan Mulvaney–ization of Barbie",
+          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2023/07/abrie.jpg?fit=2057%2C1200"
+        },
         {
           "id": "https://www.nationalreview.com/?p=1512567",
           "author": "John Fund",
