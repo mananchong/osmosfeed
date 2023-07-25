@@ -24,16 +24,6 @@
           "wordCount": 6113,
           "title": "R Weekly 2023-W27 Targets validation workflow, %dofuture%, gmailr 2.0.0",
           "imageUrl": "https://rweekly.org/public/facebook.png"
-        },
-        {
-          "id": "https://rweekly.org/2023-W26.html",
-          "author": null,
-          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by , with help from the R Weekly team members and contributors.\nHighlight\nConvert a Word table to Markdown\nHow Can Someone Else Use My Model?\nHow to debug your package in a {rhub} fedora container before sending to CRAN?\nInsights\nIn Survivor is entering the merge down on numbers a disadvantage?\nStudent’s t-test explained with R and Pokemon\nR in the Real World\nData4Good Explores Visualizing Freshwater Resources on a Global Scale\nNew Packages\n📦 Go Live for More New Pkgs 📦\nCRAN\nRcppArmadillo 0.12.4.1.0 on CRAN: New Upstream Bugfix\nsurvivoR 2.1.0 is now available\nUpdated Packages\n🔍 Search on R-universe 🔍\nVideos and Podcasts\nListen to the R-Weekly Highlights Podcast\nGist & Cookb…",
-          "link": "https://rweekly.org/2023-W26.html",
-          "publishedOn": "2023-06-26T00:00:00.000Z",
-          "wordCount": 5750,
-          "title": "R Weekly 2023-W26 Table to Markdown, Model Sharing, and Rhub debugging",
-          "imageUrl": "https://rweekly.org/public/facebook.png"
         }
       ]
     },
@@ -2838,76 +2828,6 @@
           "wordCount": 45,
           "title": "上海：试点实现新建住宅“交房即交证”",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_23607114",
-          "author": null,
-          "description": "美国媒体6月24日报道称，美情报部门已提前研判瓦格纳组织创始人普里戈任计划对俄国防部门采取军事行动。\n\n当地时间2023年6月24日，俄罗斯罗斯托夫州，瓦格纳组织创始人普里戈任发布讲话。\n\n《华盛顿邮报》援引一名美国官员的话报道，早在6月中旬，美情报机构已根据获取的情报，判断普里戈任计划对俄国防部门采取军事行动。过去两周，美情报部门官员已向白宫、国务院和国防部官员及国会领导人通报相关情况。\n俄国防部10日发布命令说，所有自愿参与俄对乌克兰特别军事行动的非政府军须同俄政府签订合同。据美媒报道，美情报部门认为此举暗示俄政府将收编瓦格纳组织部队，或将导致后者采取对抗莫斯科的军事行动。报道还援引一名美国官员的话说，美情报机构相信俄总统普京最迟在瓦格纳组织部队发起军事行动前，获悉普里戈任的计划。\n另据美媒报道，美国和其他西方国家官员认为，历时约24小时的“瓦格纳组织武装叛乱事件”目前尚未在俄总统普京和俄军方领导层间造成广泛裂痕，普里戈任依旧被视为瓦格纳组织首领。\n与美方在乌克兰危机升级前夕积极散布相关情报的做法不同，美情报部门此次未及时向外公布瓦格纳组织计划采取军事行动的相关情报。《纽约时报》报道分析认为，这主要出于两方面考量：一是防止俄方借此指控美国在俄策划政变；二是“完全没兴趣”帮普京避免一场导致其支持度下降的事件。\n报道说，普里戈任同俄国防部长绍伊古和俄军总参谋长格拉西莫夫之间的矛盾已持续多年。今年早些时候，美国空军国民警卫队员杰克·特谢拉涉嫌通过社交媒体泄露的美国军方情报显示，美方通过窃听了解到俄军高层关于如何应对普里戈任的讨论，后者持续要求俄政府向瓦格纳组织部队提供弹药补给。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_23607114",
-          "publishedOn": "2023-06-26T02:53:08.000Z",
-          "wordCount": 31,
-          "title": "美媒：美情报机构已提前研判普里戈任军事行动计划",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_23609292",
-          "author": null,
-          "description": "观众在各自的手机屏幕前聚集，他们大半由黄中原在短视频里的表演吸引而来。这是个剑眉星眼的年轻人，坐在一个位于河南三门峡农村、墙壁呈青苍色的土坯房里，表演喝醋、吃青柠檬、嚼红辣椒，面不改色，这还只是开胃的前菜。“重头戏”是与其他风格类似的主播连麦，相对豪饮，时常喝得大醉。\n他的收入便是这些观众的打赏。而镜头的背面，全家都不喜欢他干这个，黄中原有爷爷奶奶、爸爸妈妈、妻子、孩子，今年年初与妻儿搬出了与长辈同住的老房子，新房就在不远处。近四五年，喝完酒下播，他都由自己又羞愧又恐惧的家人扶回房间。有看直播的粉丝记得，有一回直播过半，他七十多岁的奶奶突然出镜，对他又哭又嚎。\n黄中原对家人的劝诫保持了沉默。他日益干瘦，颧骨越来越高。去世之后，有粉丝说这是早夭的先兆。\n6月2日凌晨，他在一次直播中喝空了十个酒瓶，猝然离世。\n明眼人全都知道将发生什么，但无碍于他的自伤。5月31日傍晚，他还去过一户邻居家吃饭，吃得不多，不到八点，便要冒雨回去开播。他5岁的儿子喊着去找爸爸，跟着他走，他的妻子李红也要走。这户人家的媳妇儿记得，自己追出去对李红说：“你不准叫他喝酒了。你叫他把直播断了。”\n“我说不听。他要是听，早听了。”李红回答。\n\n黄中原直播的房间。本文图片来源均为 短视频平台截图\n\n无法劝止的狂饮\n黄中原的朋友、同样总是在直播中饮酒的“三千哥”于5月17日凌晨去世。据《齐鲁晚报》报道，他死在自己的一个同学家里——刚结束一场直播PK，四“把”之中，三“把”都是输。\nPK是一种直播平台通行的玩法，两位主播在直播间里活跃气氛，邀请各自的粉丝花钱打赏，打赏的钱大约一半给平台，一半进自己口袋。哪个主播有“财大气粗”的“大哥”很关键，因为获得打赏少的主播要接受“惩罚”，在黄中原与“三千哥”的圈子里，“惩罚”往往意味着喝酒。于是，“三千哥”在三场失败之中总共喝下了四瓶白酒与三瓶“红牛”饮料，喝完最后一瓶白酒之…",
-          "link": "https://www.thepaper.cn/newsDetail_forward_23609292",
-          "publishedOn": "2023-06-26T02:53:08.000Z",
-          "wordCount": 66,
-          "title": "饮酒主播之死",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_23606393",
-          "author": null,
-          "description": "韩国外交部长官朴振\n\n韩国外交部长官朴振25日表示，韩国政府没有理由与中国反目为仇，也不愿看到这种情况发生，韩方将继续加强与中方的战略沟通，增进双边友谊。\n据韩联社报道，朴振25日上午做客韩国一档节目时就韩中关系表示，本着互尊互惠的精神推动韩中关系成熟健康发展，这是尹锡悦政府的基本立场。\n中国外交部发言人汪文斌6月12日回应涉中国驻韩大使邢海明相关提问时表示，邢海明大使同韩各界人士广泛接触交流，是其职责所在，目的是增进理解，促进合作，维护和推动中韩关系发展。6月10日，中国外交部部长助理农融约见韩国驻华大使郑在浩，就日前韩方针对中国驻韩国大使同韩在野党党首李在明会见交流所作不当反应提出交涉，表明严重关切和不满。\n在25日的节目中，当问及美方如何向韩方介绍美国国务卿布林肯的访华结果时，朴振回答说，美方说明的核心内容是，将稳控美中关系，力争推动双边关系朝着竞争与合作的方向前进，而非对抗与矛盾。韩美双方就今后有必要为解决朝鲜核问题进一步密切合作，以及中方发挥建设性作用极其重要形成了共识。\n\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.best",
-          "link": "https://www.thepaper.cn/newsDetail_forward_23606393",
-          "publishedOn": "2023-06-26T01:53:09.000Z",
-          "wordCount": 35,
-          "title": "韩国外长：无理由与中方反目，将加强战略沟通、增进双边友谊",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_23604514",
-          "author": null,
-          "description": "6月22日，应急管理部派工作组赴宁夏银川燃气爆炸事故现场指导救援处置。新华社 图\n\n6月21日20时40分许，宁夏回族自治区银川市兴庆区民族南街富洋烧烤店发生一起特别重大燃气爆炸事故，造成31人死亡、7人受伤。为认真贯彻落实习近平总书记重要指示精神，按照李强总理等中央领导同志批示要求，根据国家有关法律法规规定，国务院决定成立事故调查组，由应急管理部牵头，公安部、住房城乡建设部、商务部、市场监管总局、全国总工会、国家消防救援局、宁夏回族自治区人民政府等相关方面参加，对宁夏银川富洋烧烤店“6·21”特别重大燃气爆炸事故进行调查。\n6月25日上午，国务院宁夏银川富洋烧烤店“6·21”特别重大燃气爆炸事故调查组在银川召开第一次全体会议。国务院事故调查组组长、应急管理部副部长宋元明通报调查安排、提出工作要求。\n会议强调，事故调查工作要认真贯彻落实习近平总书记重要指示精神和党中央、国务院决策部署，把牢事故调查重点，按照“科学严谨、依法依规、实事求是、注重实效”和“四不放过”的原则开展调查工作，原因认定要科学，责任认定要精准，工作态度要严谨，以高度的政治责任感做好事故调查工作。同时，要以“时时放心不下”的责任感，举一反三，对事故暴露出的重大风险隐患要迅速整治到位，坚决防止重蹈覆辙。\n国务院事故调查组全体成员，中央纪委国家监委有关部门负责同志，宁夏回族自治区、银川市有关负责同志参加会议。\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.best",
-          "link": "https://www.thepaper.cn/newsDetail_forward_23604514",
-          "publishedOn": "2023-06-26T01:53:09.000Z",
-          "wordCount": 34,
-          "title": "宁夏银川一烧烤店爆炸致31人死亡，国务院成立事故调查组",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_23604480",
-          "author": null,
-          "description": "6月25日上午，北京开放2023年高考成绩查询入口，并公布高招录取分数线及高考考生分数分布表。\n澎湃新闻（www.thepaper.cn）注意到，今年北京普通本科录取控制分数线为448分，较去年（425分）上涨了23分；特殊类型招生控制分数线为527分，较去年（518分）上涨了9分；普通专科录取控制分数线与去年相同，为120分（语数外三科总分）。\n同时，今年北京继续采取暂不公布排名前20名考生成绩的做法，不影响其志愿填报和录取。相关考生进行成绩查询时，将提示“祝贺你高考取得全市前20名的优异成绩！”。\n2023年北京市高考考生分数分布表显示，今年北京高考696分以上考生104人，650分以上考生累计2754人，600分以上考生累计10348人；达到特殊类型招生控制分数线、即527分及以上考生累计25551；达到普通本科录取控制分数线、即448分及以上考生累计42347人。\n2022年北京市高考考生分数分布表则显示，北京高考700以上考生106人，650分以上考生累计2744人，600分以上考生累计8671人；达到特殊类型招生控制分数线、即518分及以上考生累计22413人；达到普通本科录取控制分数线、即425分及以上考生累计37319人。\n北京市教委公布的数据显示，今年北京市参加6月高考考生共计5.8万余人，2022年为5.4万余人。\n澎湃新闻从北京市教委了解到，今年北京统考考生的本科志愿填报和单考考生单招志愿填报工作将于6月27日至7月1日进行，专科志愿填报工作于7月21日至22日进行。考生志愿填报实行网上填报方式，考生须在规定时间内登录北京教育考试院网站（www.bjeea.edu.cn；www.bjeea.cn）进行填报。\n今年，北京继续坚持首善标准，不断优化考生服务，进一步畅通考生咨询和申诉渠道。为了做好广大考生的咨询宣传、答疑解惑工作，北京分别在考试院和各区高招办设立高招录取咨询接待点，考试院咨询电话为89193989转1键，安排专人接听和接待考生及家长的咨询和申诉，依法依规维护考生合法权益。\n同时，北京加强录取组织管理，严把录取公平关，严格执行招生工作“八项基本要求”和“30个不得”招生工作禁令，在录取现场设立监察小组；邀请部分市人大代表、市政协委员检查录取工作，接受社会监督。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_23604480",
-          "publishedOn": "2023-06-26T00:53:08.000Z",
-          "wordCount": 30,
-          "title": "北京高考696分以上考生104人，前20名成绩暂不公布",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_23607312",
-          "author": null,
-          "description": "女子手持绿绒蒿打卡拍照  本文图均为 红星新闻 图\n\n绿绒蒿被称为“距天空最近的花朵”，也被很多网友誉为川西高原上的“女神”。\n夏日花海，冬日雪山。夏季的巴朗山十分漂亮，在这里有着百亩高山的花海，吸引了不少游客，很多人都为了川西高原上的“女神”绿绒蒿而来。6月24日晚，网友“薄荷榴莲”在短视频平台发布了一组在巴朗山熊猫王国之巅拍摄的打卡照片。照片中，女子手持采摘的绿绒蒿，引发众多网友举报。6月25日中午，“薄荷榴莲”删除了所发视频，其短视频账号也已被屏蔽。\n据了解，绿绒蒿属多年生草本植物。在中国植物志的记录中，它主产于我国四川西北部、西藏东北部、青海东南部和甘肃西南部，多见于海拔2800米至4300米的山坡草地。1999年，红花绿绒蒿就被列入了《国家重点保护野生植物名录》(第一批)，保护级别为二级。2021年9月7日，国家林业和草原局农业农村部发布的《国家重点保护野生植物名录》中，红花绿绒蒿与久治绿绒蒿、毛瓣绿绒蒿一起被收录其中，保护级别均为二级。\n红星新闻根据公开的举报电话联系上卧龙国家级自然保护区管理局（以下简称卧龙自然保护区），工作人员表示，巴朗山属于禁止开展户外活动区域，已经接到网友对此事举报。下一步将进行调查处理。\n\n女子手持绿绒蒿打卡拍照\n\n女游客巴朗山采绿绒蒿拍照\n网友举报：“这样的暴力采摘让人心痛”\n夏天的巴朗山十分漂亮，在这里有着百亩高山的花海，吸引了不少游客。\n夏季在巴朗山，可能见到全缘叶绿绒蒿、红花绿绒蒿、长叶绿绒蒿、巴朗山绿绒蒿、夹金山绿绒蒿等五六种绿绒蒿，这对于一座山而言，算是极为难得。从成都乘车出发三个多小时，就能一览它们的鲜艳和灿烂。\n6月24日晚，网友“薄荷榴莲”在短视频平台发布了一组在巴朗山熊猫王国之巅拍摄的打卡照片。视频相册中，女子手持采摘的绿绒蒿拍照。女子采花的行为引发网友不满“怎么可以摘花喃？”“巴朗山不是一封了事的，这种人这种事你们…",
-          "link": "https://www.thepaper.cn/newsDetail_forward_23607312",
-          "publishedOn": "2023-06-25T22:53:10.000Z",
-          "wordCount": 49,
-          "title": "女游客巴朗山采绿绒蒿拍照，卧龙保护区：违规穿越将被追责",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_23610606",
-          "author": null,
-          "description": "当地时间2023年6月24日，俄罗斯罗斯托夫，瓦格纳集团的成员准备离开南部军区总部，返回他们在顿河畔罗斯托夫的基地。 视觉中国 图\n\n从当地时间6月24日晚些时候至6月25日，瓦格纳集团的士兵陆续从俄罗斯顿河畔罗斯托夫市、沃罗涅日地区、利佩茨克州撤离。克里姆林宫24日称，针对瓦格纳集团负责人普里戈任的刑事立案将被撤销，他将前往白俄罗斯。\n然而，普里戈任于24日晚在社交平台发布音频声明撤兵回营，此后陷入了沉默。截至发稿，仍然没有普里戈任抵达白俄罗斯的消息。\n控制俄南部罗斯托夫并自称已行军至“距离莫斯科约200公里范围”的瓦格纳“24小时哗变”之后，迎来的是略为平静的一天，俄罗斯国内接下来会发生什么，还有许多悬而未决的问题。\n掉头后动向成谜\n据塔斯社报道，瓦格纳人员及其所有重型军事装备24日深夜已完全离开俄南部军区总部所在区域，并前往其野战营地。\n当地时间24日晚，当瓦格纳士兵离开俄罗斯南部城市顿河畔罗斯托夫的军事总部时，一些民众聚集在一起表达对瓦格纳的支持。英国广播公司（BBC）和法新社发布的视频中可以看到，瓦格纳车队离开时，有当地人站在道路两旁振臂欢呼、鼓掌，有人高呼“瓦格纳！瓦格纳！”一些瓦格纳士兵向空中鸣枪。一段视频显示，普里戈任乘车离开时人群簇拥，车停下后，他微笑着与当地市民握手。\n6月25日，俄罗斯沃罗涅日州州长古谢夫表示，瓦格纳车队在沃罗涅日的通行即将结束。车队行进正常，没有出现过激行为。当天下午，利佩茨克州政府表示，瓦格纳部队已经完全离开该州。\n在瓦格纳发起“武装倒戈”过程中，普里戈任在社交平台上发布多条视频与音频，24晚发布音频宣布“掉转我们的纵队，按计划掉头返回营地”之后，他的社交平台账户便没有更新。瓦格纳下属的 Telegram 频道 Gray Zone于25日转发了一首诗，标题为 “一切都已决定。几乎。”与此同时，在社交平台上，许多俄罗斯军事评论员为局势…",
-          "link": "https://www.thepaper.cn/newsDetail_forward_23610606",
-          "publishedOn": "2023-06-25T22:53:10.000Z",
-          "wordCount": 49,
-          "title": "复盘｜瓦格纳48小时：“掉头回营”之后，普里戈任动向成谜",
-          "imageUrl": null
         }
       ]
     },
@@ -2916,6 +2836,106 @@
       "feedUrl": "https://www.nationalreview.com/feed/",
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1519684",
+          "author": "Brittany Bernstein",
+          "description": "Mayor Adams said that all of the guests who were abruptly kicked out of the motel were given vouchers to cover their stays elsewhere.",
+          "link": "https://www.nationalreview.com/news/motel-guest-kicked-out-to-make-room-for-migrants-says-she-never-received-voucher-from-nyc-mayors-office/",
+          "publishedOn": "2023-07-25T16:38:28.000Z",
+          "wordCount": 8310,
+          "title": "Motel Guest Kicked Out to Make Room for Migrants Says She Never Received Voucher from NYC Mayor’s Office",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/07/Motel-.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1519978",
+          "author": "Ari Blaff",
+          "description": "‘I’m very grateful that I got a victory. How many people nationwide didn’t get a victory?’ Rench said.",
+          "link": "https://www.nationalreview.com/news/idaho-man-arrested-for-refusing-to-mask-at-outdoor-church-service-receives-300000-settlement-from-town/",
+          "publishedOn": "2023-07-25T15:11:47.000Z",
+          "wordCount": 7744,
+          "title": "Idaho Man Arrested for Refusing to Mask at Outdoor Church Service Receives $300,000 Settlement from Town",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/07/moscow.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1520000",
+          "author": "Ari Blaff",
+          "description": "‘We appreciate the prayers and well wishes of the nation for his continued protection while on the campaign trail,’ DeSantis’s spokesman said.",
+          "link": "https://www.nationalreview.com/news/desantis-uninjured-in-car-crash-en-route-to-tennessee-campaign-event/",
+          "publishedOn": "2023-07-25T14:09:18.000Z",
+          "wordCount": 7570,
+          "title": "DeSantis Uninjured in Car Crash En Route to Tennessee Campaign Event",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/07/ron-desantis-arlington-1.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1519940",
+          "author": "Ari Blaff",
+          "description": "The White House condemned McCarthy’s comments as ‘baseless.’",
+          "link": "https://www.nationalreview.com/news/not-seen-since-richard-nixon-mccarthy-floats-impeachment-inquiry-into-biden-foreign-business-ties/",
+          "publishedOn": "2023-07-25T12:26:26.000Z",
+          "wordCount": 7739,
+          "title": "‘Not Seen Since Richard Nixon’: McCarthy Floats Impeachment Inquiry Into Biden Foreign Business Ties",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/07/Kevin-McCarthy-5.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1519842",
+          "author": "The Editors",
+          "description": "The state is right to teach that slaves were more than just passive victims.",
+          "link": "https://www.nationalreview.com/2023/07/floridas-history-curriculum-is-better-than-the-lies-about-it/",
+          "publishedOn": "2023-07-25T10:30:59.000Z",
+          "wordCount": 8390,
+          "title": "Florida’s History Curriculum Is Better Than the Lies about It",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/07/kamal.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1519606",
+          "author": "Diana Furchtgott-Roth",
+          "description": "The EPA has America on a path to all pain and no gain.",
+          "link": "https://www.nationalreview.com/2023/07/china-abandons-paris-agreement-making-u-s-efforts-painful-and-pointless/",
+          "publishedOn": "2023-07-25T10:30:40.000Z",
+          "wordCount": 11950,
+          "title": "China Abandons Paris Agreement, Making U.S. Efforts Painful and Pointless",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/07/kingpon.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1519856",
+          "author": "Dominic Pino",
+          "description": "Movie-watchers are unlikely to treat AI-generated products the same as human-generated ones.",
+          "link": "https://www.nationalreview.com/2023/07/ai-is-not-a-close-substitute-for-human-actors-and-screenwriters/",
+          "publishedOn": "2023-07-25T10:30:37.000Z",
+          "wordCount": 8341,
+          "title": "AI Is Not a Close Substitute for Human Actors and Screenwriters",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/07/tom-cruise-dead-reckoning-premiere.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1519482",
+          "author": "Desmond Lachman",
+          "description": "Our economy has shown encouraging signs of a rebound, but there are still many things that could go wrong in the months ahead.",
+          "link": "https://www.nationalreview.com/2023/07/hold-the-champagne-on-the-u-s-economic-recovery/",
+          "publishedOn": "2023-07-25T10:30:17.000Z",
+          "wordCount": 7988,
+          "title": "Hold the Champagne on the U.S. Economic Recovery",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/07/cal.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1519445",
+          "author": "Jack Butler",
+          "description": "If one properly deciphers its layers of irony and satire, it is hardly a feminist screed.",
+          "link": "https://www.nationalreview.com/2023/07/conservatives-are-getting-barbie-wrong/",
+          "publishedOn": "2023-07-25T10:30:14.000Z",
+          "wordCount": 8673,
+          "title": "Conservatives Are Getting <em>Barbie</em> Wrong",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/07/barbiefg.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1519730",
+          "author": "Rich Lowry",
+          "description": "In order to smear DeSantis, progressives are now denying African-American agency.",
+          "link": "https://www.nationalreview.com/2023/07/the-left-will-say-anything-about-florida/",
+          "publishedOn": "2023-07-25T10:30:05.000Z",
+          "wordCount": 8513,
+          "title": "The Left Will Say Anything about Florida",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/07/desantiss-1.jpg?fit=1200%2C700&ssl=1"
+        },
         {
           "id": "https://www.nationalreview.com/?post_type=blog-post&p=1519798",
           "author": "Caroline Downey",
@@ -7624,6 +7644,26 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/81445",
+          "author": "Matrix机器人",
+          "description": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意以及社区产品动态呈现给大 ...查看全文",
+          "link": "https://sspai.com/post/81445",
+          "publishedOn": "2023-07-25T09:19:38.000Z",
+          "wordCount": 963,
+          "title": "社区速递 005 | 大家爱听的播客、作者的新玩意以及工具分享",
+          "imageUrl": "https://cdn.sspai.com/7/25/2023/article/54c70b9e-c28b-6201-67b9-068cc9273e74.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/81257",
+          "author": "胖鱼要进步",
+          "description": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
+          "link": "https://sspai.com/post/81257",
+          "publishedOn": "2023-07-25T07:00:00.000Z",
+          "wordCount": 667,
+          "title": "被忙碌与焦虑裹挟时，学会「停下」比「开始」更重要",
+          "imageUrl": "https://cdn.sspai.com/2023/7/25/article/9cc19aa9-7911-b878-4e41-4205a11b6cbb.jpg"
+        },
+        {
           "id": "https://sspai.com/post/81269",
           "author": "JamesHopbourn",
           "description": "在软件公司开始实习三周有余，公司内部使用「禅道」进行项目管理。每天需要时不时上去看看组长有没有派发新任务，所以经常需要手动刷新网页查看。如下图所示，橙色矩形框框选的区域就是工作总计。但是作为一个自动化玩家，每天手动刷新几十次网页去查看工作任务，这对我来说是不可接受的。所以就开始考虑是否可以使用自动化脚本，实现定时通知任务状态的功能。查看全文",
@@ -8090,6 +8130,76 @@
       "feedUrl": "https://plink.anyfeeder.com/idaily/today",
       "siteUrl": "https://docs.rsshub.app",
       "articles": [
+        {
+          "id": "https://m.idai.ly/se/5dfA42",
+          "author": null,
+          "description": "法国圣艾尼昂市博瓦尔动物园，即将归国的5岁大熊猫「圆梦」正在吃竹子。7月25日，大熊猫「圆梦」从法国巴黎乘坐飞机返回中国，预计抵达后入住成都大熊猫繁育基地。「圆梦」出生于2017年8月4日，是第一只在法国出生的大熊猫，父母分别为旅法大熊猫「圆仔」和「欢欢」。圣艾尼昂市博瓦尔动物园是法国唯一饲养大熊猫的动物园，「圆梦」回国后该园还生活着4只中国大熊猫。摄影师：Guillaume Souvant",
+          "link": "https://m.idai.ly/se/5dfA42",
+          "publishedOn": "2023-07-25T10:59:00.000Z",
+          "wordCount": 1002,
+          "title": "旅法大熊猫圆梦归国",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.idai.ly/se/094h3o",
+          "author": null,
+          "description": "美国 Twitter 公司旧金山总部大楼，工人正在拆除有小蓝鸟形象的标牌。7月24日，Twitter 公司实控人 Elon Musk 宣布这家创立17年的社交网络平台更名为「X」，品牌标志由小蓝鸟更换成黑白配色的字母「X」，意指「无限交互的未来形态」。Elon Musk 宣布将对 Twitter 进行品牌重塑，目标打造一个类似中国微信的超级应用平台，覆盖社交、娱乐、金融等多种用户服务。Twitter 公司被 Elon Musk 收购迄今广告收入已下降约50%。摄影师：John G. Mabanglo",
+          "link": "https://m.idai.ly/se/094h3o",
+          "publishedOn": "2023-07-25T09:57:00.000Z",
+          "wordCount": 1003,
+          "title": "Musk 宣布推特更名换标",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.idai.ly/se/12d3gt",
+          "author": null,
+          "description": "第20届世界游泳锦标赛女子100米蝶泳决赛，中国选手张雨霏赢得金牌，日本福冈。7月24日，张雨霏在女子100米蝶泳决赛中以56秒12的成绩获得冠军，夺得个人首枚世锦赛金牌，亦是中国队在本届世锦赛上获得的第17枚金牌。决赛中张雨霏在赛程最后5米实现反超并保持领先优势，最终逆转夺冠。至7月25日，中国队以17金5银6铜共28枚奖牌位列奖牌榜第一位。摄影师：Hiroshi Yamamura",
+          "link": "https://m.idai.ly/se/12d3gt",
+          "publishedOn": "2023-07-25T09:55:00.000Z",
+          "wordCount": 1002,
+          "title": "中国游泳世锦赛17金",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.idai.ly/se/195Ula",
+          "author": null,
+          "description": "中国人民解放军海军「枣庄号」导弹护卫舰驶入海参崴港口。7月23日，中俄「北部·联合-2023」联合海上演习在日本海圆满落幕，两国海空兵力通过联合筹划、联合指挥、联合行动顺利完成各项预定演练课目。本次演习主题为「维护海上战略通道安全」，共持续4天，主要演练海空护航、威慑驱离和锚地防御等课目，中俄双方共派出10余艘舰艇和30余架飞机参演。俄罗斯国防部强调此次演习主要目的是加强中俄之间的海军合作，维护亚太地区的和平与稳定。摄影师：Elena Kopylova",
+          "link": "https://m.idai.ly/se/195Ula",
+          "publishedOn": "2023-07-25T09:53:00.000Z",
+          "wordCount": 1002,
+          "title": "中俄海上联合军演",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.idai.ly/se/cab55I",
+          "author": null,
+          "description": "韩国士兵挥旗欢迎美国海军「安纳波利斯」号核动力潜艇抵达济州岛。7月24日，美国「安纳波利斯」号核潜艇停靠济州海军基地装载补给物资。这是美国一周内第2次向朝鲜半岛派遣攻击型核潜艇。韩国海军宣布韩美将以「安纳波利斯」号访韩为契机进一步加强联合防御态势。当天朝鲜军方从平壤附近再次向东部海域发射2枚短程弹道导弹，飞行约400公里落入东海。摄影师：South Korean Defense Ministry",
+          "link": "https://m.idai.ly/se/cab55I",
+          "publishedOn": "2023-07-25T09:51:00.000Z",
+          "wordCount": 1002,
+          "title": "美国第2艘核潜艇访韩",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.idai.ly/se/d42fii",
+          "author": null,
+          "description": "苏丹地方政府官员出席黄金出口见证仪式，苏丹港。7月23日，苏丹时隔3个月首次恢复因军方派系冲突而中断的黄金出口贸易，本批次黄金出口总重226千克，购买方为阿拉伯联合酋长国。苏丹是非洲第三大黄金生产国，2022年黄金产量达到41.8吨，总值约1.5万亿苏丹镑（约合25亿美元）。黄金出口是苏丹政府最主要的收入来源之一，2023年4月爆发的苏丹军方派系冲突已导致该国多个地区的黄金生产和出口陷入停滞。摄影师：iDaily Media",
+          "link": "https://m.idai.ly/se/d42fii",
+          "publishedOn": "2023-07-25T09:49:00.000Z",
+          "wordCount": 1002,
+          "title": "苏丹恢复黄金出口",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.idai.ly/se/27fE99",
+          "author": null,
+          "description": "泰国一家机器人技术公司展示一款名为「Dinsaw」的智能陪伴机器人，曼谷。这款机器人主要针对高龄病患人群设计，基础功能包括语音交互、提醒服药、实时健康监测及向护理人员紧急警报等。这款机器人目前已开始量产，主要目标市场为泰国和日本。泰国是世界上人口老龄化最快的国家之一，现有1200万老年人口，约占总人口的18%。摄影师：Rungroj Yongrit",
+          "link": "https://m.idai.ly/se/27fE99",
+          "publishedOn": "2023-07-25T09:47:00.000Z",
+          "wordCount": 1002,
+          "title": "泰国高龄看护机器人",
+          "imageUrl": null
+        },
         {
           "id": "https://m.idai.ly/se/c42B7W",
           "author": null,
@@ -8787,6 +8897,16 @@
       "feedUrl": "https://plink.anyfeeder.com/nytimes/dual",
       "siteUrl": "http://nytimes.com",
       "articles": [
+        {
+          "id": "https://cn.nytimes.com/film-tv/20230725/barbie-movie-review/dual",
+          "author": null,
+          "description": "MANOHLA DARGIS2023年7月25日玛格特·罗比饰演的芭比（右）和瑞恩·高斯林饰演的肯在格蕾塔·葛韦格的影片《芭比》中。 Warner Bros.\nCan a doll with an ingratiating smile, impossible curves and boobs ready for liftoff be a feminist icon? That’s a question that swirls through Greta Gerwig’s “Barbie,” a live-action, you-go-girl fantasia about the world’s most famous doll. For more than half a century, Barbie has been, by turns, celebrated as a font of girlhood pleasure and play, and rebuked as an instrument of toxic gender norms and consumerist ideals of femininity. If Barbie has been a culture-war hot spot for about as long as it’s been on the shelves, it’s because the doll perfectly encapsulates changing ideas about girls and women: our Barbies, ourselves.\n一个有着讨好人的微笑、不现实的身材曲线和胸部的玩偶能被升华为女权主义圣像吗？在格蕾塔·葛韦格的这部关于世上最著名玩偶的《芭比》、一则真人出演的“加油啊姑娘”式幻想故事里，这…",
+          "link": "https://cn.nytimes.com/film-tv/20230725/barbie-movie-review/dual",
+          "publishedOn": "2023-07-25T09:06:03.000Z",
+          "wordCount": 1524,
+          "title": "《芭比》：走出盒子，走向真实世界",
+          "imageUrl": "https://static01.nyt.com/images/2023/07/20/multimedia/18barbie-review-ftwc/18barbie-review-ftwc-articleLarge.jpg"
+        },
         {
           "id": "https://cn.nytimes.com/technology/20230725/twitter-x-elon-musk/dual",
           "author": null,
