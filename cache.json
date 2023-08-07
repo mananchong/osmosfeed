@@ -6,6 +6,16 @@
       "siteUrl": "https://rweekly.org/atom.xml",
       "articles": [
         {
+          "id": "https://rweekly.org/2023-W32.html",
+          "author": null,
+          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Jon Calder, with help from the R Weekly team members and contributors.\nHighlight\nUsing flexdashboard to create a GitHub Actions-powered YouTube feed\nBuilding Serverless Shiny Apps with webR: A Step-by-Step Guide\nCookbook Polars for R Cookbook to provide solutions to common tasks and problems in using Polars with R. A side-by-side comparison of polars, R base, dplyr, tidyr and data.table packages.\nInsights\nR-Ladies Morelia, Mexico, hosts First Anniversary Event on July 31, 2023\nrOpenSci Champions Pilot Year: Training Wrap-Up\nResources\nCookbook Polars for R Cookbook to provide solutions to common tasks and problems in using Polars with R. A side-by-side comparison of polars, R…",
+          "link": "https://rweekly.org/2023-W32.html",
+          "publishedOn": "2023-08-07T00:00:00.000Z",
+          "wordCount": 5841,
+          "title": "R Weekly 2023-W32 Video flexdashboard, Serverless Shiny, Polars",
+          "imageUrl": "https://rweekly.org/public/facebook.png"
+        },
+        {
           "id": "https://rweekly.org/2023-W31.html",
           "author": null,
           "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Tony ElHabr, with help from the R Weekly team members and contributors.\nHighlight\nReducing my for loop usage with purrr::reduce()\nHow to fill maps with density gradients with R, {ggplot2}, and {sf}\nAdding social media icons to charts with {ggplot2}\nInsights\nThree useful (to me) R notions\nAB tests and repeated checks\nImproving code reproducibility: Small steps with big impacts\nA tale of two data analysis workflows\nNew datasets and better docs in {gt} 0.9.0 \nR in the Real World\nUnderstanding the Effect of Subsidies on Agriculture with Neural Networks\n\nMr. Mastodon Farm: analysing a mastodon ActivityPub outbox.json file\nR in Organizations\nA Memorable Experience: Attending the N…",
@@ -42,6 +52,16 @@
       "feedUrl": "https://feedx.net/rss/shanghaishuping.xml",
       "siteUrl": "http://thepaper.cn",
       "articles": [
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_24136045",
+          "author": null,
+          "description": "《他者的起源》，[美]托妮·莫里森著，黄琨译，新经典文化｜南海出版公司，2023年7月出版，211页，59.00元\n\n近日，美国最高法院以六票对三票的投票结果，裁定哈佛大学和北卡罗莱纳大学按照种族进行比例招生的做法违宪，从而推翻了美国高校沿用多年的根本性招生原则。在多数观察者看来，这一裁定影响深远，不仅在于它势必将会改变非裔及拉丁裔学生在高校招生中因身份而普遍受益的局面，使得更多白人及亚裔学生得以跻身名校，更在于它是一次“保守派的胜利”——正如最高法院中的自由派大法官坦吉·布朗·杰克逊所言：“种族主义需要更长的时间才能离开我们。最终，忽视种族只会让它变得更加棘手。”\n从根本上来看，这场裁决所体现的是自上世纪六十年代以来平权运动所代表的“正义”，与普遍意义的“公平”之间的矛盾。而正义与公平之间的矛盾，很大程度上在于“视差之见”——“我们总在两点之间变换视角，而两点之间，绝不存在任何综合和调停的可能”（[斯洛文尼亚]齐泽克：《视差之见》，季光茂译，浙江大学出版社，2014年，第3页）。于是自我之外皆是他者：满眼平权措施带来逆向歧视的公平主义者看不到——或拒绝看到——历史与现实中长期不平等对个体与群体造成的桎梏；而另一边，基于苦难叙事的“正义”亦有被滥用的可能。\n在一个越发撕裂的世界阅读托妮·莫里森，尤其是她最新译介到中文世界的文集《他者的起源》，或许可以为我们骑虎难下的现实提供某种新思路。这部文集主要收录三篇作品：短篇小说《宣叙调》（Recitatif）首次发表于1983年，莫里森有意模糊了两位主角的族裔身份，以此探讨她们——以及读者——在现实与记忆中的自我构建；另有两篇由她的哈佛讲座编辑扩充而成的论文《在黑暗中游戏》（Playing in the Dark, 1993）与《他者的起源》（The Origin of Others, 2016）。于前者莫里森提出了其重要概念“非洲…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_24136045",
+          "publishedOn": "2023-08-07T04:02:13.000Z",
+          "wordCount": null,
+          "title": "暗蓝评《他者的起源》｜“他者化”的用途与滥用",
+          "imageUrl": null
+        },
         {
           "id": "https://www.thepaper.cn/newsDetail_forward_24079096",
           "author": null,
@@ -475,6 +495,16 @@
       "feedUrl": "https://www.nationalreview.com/feed/",
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
+        {
+          "id": "https://www.nationalreview.com/?p=1525932",
+          "author": "Andrew Stuttaford",
+          "description": "The week of July 31, 2023: Downgrading U.S. debt, energy, central planning, electric vehicles, and much, much more.",
+          "link": "https://www.nationalreview.com/2023/08/the-fitch-downgrade-tick-tock/",
+          "publishedOn": "2023-08-06T21:18:40.000Z",
+          "wordCount": 25518,
+          "title": "The Fitch Downgrade: Tick Tock",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/02/top-shots-021123-12.jpg?fit=1200%2C700&ssl=1"
+        },
         {
           "id": "https://www.nationalreview.com/?p=1525904",
           "author": "Rich Lowry",
@@ -4994,86 +5024,6 @@
           "wordCount": 8402,
           "title": "AriZona’s Ice-Cold Response to Inflation",
           "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2023/07/arizona-tea-cans.jpg?fit=1200%2C700"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1512397",
-          "author": "Brittany Bernstein",
-          "description": "The student, who has since completed the class with an A, expressed disappointment with the school’s decision.",
-          "link": "https://www.nationalreview.com/news/university-repeals-reprimand-against-professor-who-failed-student-for-saying-biological-women/",
-          "publishedOn": "2023-07-08T16:17:14.000Z",
-          "wordCount": 7715,
-          "title": "University Repeals Reprimand against Professor Who Failed Student for Saying ‘Biological Women’",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2018/11/transgender-flag-nyc.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1512376",
-          "author": "Brittany Bernstein",
-          "description": "The ruling came in response to a lawsuit filed by seven families with transgender children.",
-          "link": "https://www.nationalreview.com/news/kentucky-ag-appeals-ruling-that-blocked-ban-on-gender-transition-treatments-for-minors/",
-          "publishedOn": "2023-07-08T14:46:00.000Z",
-          "wordCount": 7596,
-          "title": "Kentucky AG Appeals Ruling That Blocked Ban on Gender-Transition Treatments for Minors",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2021/08/trans-flag-stadium.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1512359",
-          "author": "Brittany Bernstein",
-          "description": "Police described the teen as a ‘juvenile person of interest’ in the case.",
-          "link": "https://www.nationalreview.com/news/baltimore-police-arrest-teen-in-connection-with-shooting-that-killed-two-injured-28/",
-          "publishedOn": "2023-07-08T13:39:24.000Z",
-          "wordCount": 7645,
-          "title": "Baltimore Police Arrest Teen in Connection with Shooting That Killed Two, Injured 28",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2023/07/baltimore-mass-shooting.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1512046",
-          "author": "Haley Strack",
-          "description": "The bill would punish speech that ‘intimidates another individual’ with up to five years in prison and a $10,000 fine.",
-          "link": "https://www.nationalreview.com/news/michigan-republican-sets-the-record-straight-on-hate-crime-bill-that-could-criminalize-using-wrong-pronouns/",
-          "publishedOn": "2023-07-08T10:30:58.000Z",
-          "wordCount": 8167,
-          "title": "Michigan Republican Sets the Record Straight on Hate-Crime Bill That Could Criminalize Using ‘Wrong’ Pronouns",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2023/07/michigan-legislature.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1512123",
-          "author": "Wilfred Reilly",
-          "description": "And for everyone else too.",
-          "link": "https://www.nationalreview.com/2023/07/the-end-of-affirmative-action-is-good-news-for-black-and-hispanic-students/",
-          "publishedOn": "2023-07-08T10:30:49.000Z",
-          "wordCount": 8706,
-          "title": "The End of Affirmative Action Is Good News for Black and Hispanic Students",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2023/07/harvard-commencement.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1510739",
-          "author": "Aidan Stretch",
-          "description": "Reactions from university administrators to the recent Supreme Court decision show what they lose by being one-sided.",
-          "link": "https://www.nationalreview.com/2023/07/higher-education-fails-to-honor-diversity-of-opinion-on-affirmative-action/",
-          "publishedOn": "2023-07-08T10:30:33.000Z",
-          "wordCount": 8572,
-          "title": "Higher Education Fails to Honor Diversity of Opinion on Affirmative Action",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2023/07/Affirmative-Action.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1512018",
-          "author": "Brian T. Allen",
-          "description": "The Hershey Story Museum tells a delicious tale but also, as economic and social history, a fascinating one.",
-          "link": "https://www.nationalreview.com/2023/07/the-emperor-of-american-chocolate/",
-          "publishedOn": "2023-07-08T10:30:00.000Z",
-          "wordCount": 10175,
-          "title": "The Emperor of American Chocolate",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2023/07/one.jpg?fit=2057%2C1200"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1511845",
-          "author": "Matthew Continetti",
-          "description": "Support for Ukraine is a winning issue.",
-          "link": "https://www.nationalreview.com/2023/07/mike-pence-and-the-fight-over-gop-foreign-policy/",
-          "publishedOn": "2023-07-08T10:30:00.000Z",
-          "wordCount": 8593,
-          "title": "Mike Pence and the Fight over GOP Foreign Policy",
-          "imageUrl": "https://www.nationalreview.com/wp-content/uploads/2023/07/Pence-Ukraine.jpg?fit=2057%2C1200"
         }
       ]
     },
@@ -5082,6 +5032,26 @@
       "feedUrl": "https://sspai.com/feed",
       "siteUrl": "https://sspai.com",
       "articles": [
+        {
+          "id": "https://sspai.com/post/81644",
+          "author": "妙记多Mojidoc",
+          "description": "无声会议通过「以读代听」和「以写代说」促进了议题的思考和讨论深度，它非常适合决策与审校类会议（如项目立项、设计评审等），值得研究。查看全文",
+          "link": "https://sspai.com/post/81644",
+          "publishedOn": "2023-08-07T05:58:20.000Z",
+          "wordCount": 944,
+          "title": "开会糟透了？试试无声会议吧",
+          "imageUrl": "https://cdn.sspai.com/2023/08/01/9ed1c90842e99c6d1c7db2325d40c8c5.png"
+        },
+        {
+          "id": "https://sspai.com/post/81814",
+          "author": "少数派编辑部",
+          "description": "你可能错过的新鲜事Vim作者逝世8月5日，经典文本编辑器Vim开发者、荷兰人BramMoolenaar的家人以其账号在Vim的Google群组中发帖表示，Moolenaar已于3日因病去世，享年62岁 ...查看全文",
+          "link": "https://sspai.com/post/81814",
+          "publishedOn": "2023-08-07T01:06:05.000Z",
+          "wordCount": 891,
+          "title": "派早报：Vim 作者逝世，二季度全球手机销售额继续下降",
+          "imageUrl": "https://cdn.sspai.com/8/6/2023/article/172f215b-7df6-762a-79e1-97bda53361d3.png"
+        },
         {
           "id": "https://sspai.com/post/81761",
           "author": "少数派播客",
@@ -6039,6 +6009,56 @@
       "feedUrl": "https://plink.anyfeeder.com/idaily/today",
       "siteUrl": "https://docs.rsshub.app",
       "articles": [
+        {
+          "id": "https://m.idai.ly/se/b07Jia",
+          "author": null,
+          "description": "成都大熊猫繁育研究基地，大熊猫「芝麻」正在吃竹子，四川省。「芝麻」出生于2017年4月24日，是成都大运会吉祥物「蓉宝」的设计原型，它出生时嘴边有黑色小斑点，因此被取名为「芝麻」。8月6日，中国队在成都大运会女排决赛中以3:0战胜日本队，时隔20年再次夺得大运会女排冠军。本届大运会中国代表团共派出411名大学生运动员参赛，平均年龄22.9岁，其中94.2%的选手为首次参赛。目前中国代表队已获得90金36银33铜，以159枚奖牌位居奖牌榜第一名。摄影师：iDaily Media",
+          "link": "https://m.idai.ly/se/b07Jia",
+          "publishedOn": "2023-08-06T14:59:00.000Z",
+          "wordCount": 1165,
+          "title": "成都大运会吉祥物熊猫",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.idai.ly/se/748EMv",
+          "author": null,
+          "description": "黎巴嫩移民在埃菲尔铁塔前集会纪念贝鲁特港口大爆炸3周年，法国巴黎。8月4日是黎巴嫩贝鲁特港爆炸事故3周年，事故中严重受损的贝鲁特港谷仓目前依然处于半坍塌状态。世界银行最新报告指出，货币贬值和银行破产导致黎巴嫩的美元现金使用率大幅上升，2022年该国美元现金经济规模达到GDP的45.7%，预计将对经济复苏造成重大障碍。摄影师：Teresa Suarez",
+          "link": "https://m.idai.ly/se/748EMv",
+          "publishedOn": "2023-08-06T13:57:00.000Z",
+          "wordCount": 1165,
+          "title": "贝鲁特港爆炸3周年",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.idai.ly/se/7c9nOE",
+          "author": null,
+          "description": "巴基斯坦电视台正在播放前总理 Imran Khan 被判入狱的新闻，白沙瓦。8月5日，巴基斯坦联邦法院以「非法出售国家礼物」的罪名判处前总理 Imran Khan 有期徒刑3年，并处以10万巴基斯坦卢比（约合351美元）罚金。法院判决书指控 Imran Khan 在2018至2022年担任总理期间未披露收到的外国政治家的礼物，涉嫌贪污金额约63.5万美元。Khan 当天在私人宅邸被警方逮捕，他已否认所受指控并宣布提起上诉。摄影师：Arshad Arbab",
+          "link": "https://m.idai.ly/se/7c9nOE",
+          "publishedOn": "2023-08-06T12:55:00.000Z",
+          "wordCount": 1165,
+          "title": "巴基斯坦前总理被判刑3年",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.idai.ly/se/42eKr6",
+          "author": null,
+          "description": "无家可归的英国民众在伦敦街头露宿。英国无家可归者调查机构数据显示，2022年4月至2023年3月期间，伦敦约有10053人在街头露宿，同比增长21%，其中6391人为第一次露宿街头，同比增长26%。2023年6月英国私人租房价格同比上涨5.1%，涨幅创下8年新高，其中伦敦地区的租房价格同比增长5.3%，创2012年9月以来最高水平。摄影师：Rasid Necati Aslim",
+          "link": "https://m.idai.ly/se/42eKr6",
+          "publishedOn": "2023-08-06T11:53:00.000Z",
+          "wordCount": 1165,
+          "title": "伦敦露宿人数年增21%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.idai.ly/se/8a9bGH",
+          "author": null,
+          "description": "孟加拉国首都达卡街道被暴雨积水淹没。8月6日，孟加拉国全国多地迎来季风气候导致的强降雨天气。受连续暴雨洪灾影响，孟加拉国目前正遭遇严重登革热疫情，2023年1月迄今已累计报告登革热确诊病例63700例，死亡达303例，创2000年以来单一年份最高死亡纪录。孟加拉国是亚洲地区遭受极端气候影响最严重的国家，1970年至2021年共发生281起极端天气事件，导致超过52万人死亡。摄影师：Mohammad Ponir Hossain",
+          "link": "https://m.idai.ly/se/8a9bGH",
+          "publishedOn": "2023-08-06T11:51:00.000Z",
+          "wordCount": 1165,
+          "title": "孟加拉国暴雨天气",
+          "imageUrl": null
+        },
         {
           "id": "https://m.idai.ly/se/2e6dGx",
           "author": null,
@@ -7616,6 +7636,36 @@
       "feedUrl": "https://plink.anyfeeder.com/nytimes/dual",
       "siteUrl": "http://nytimes.com",
       "articles": [
+        {
+          "id": "https://cn.nytimes.com/china/20230807/china-barbie-women-feminism/dual",
+          "author": null,
+          "description": "王月眉, SIYI ZHAO2023年8月7日尽管在中国的上映场次有限，电影《芭比》还是迅速在社交媒体上引起了广泛讨论，在一些圈子里掀起了自己的一股小热潮。 Greg Baker/Agence France-Presse — Getty Images\nThere were plenty of reasons to think the “Barbie” movie might have a hard time finding an audience in China. It’s an American film, when Chinese moviegoers’ interest in, and government approval of, Hollywood movies is falling. It’s been widely described as feminist, when women’s rights and political representation in China are backsliding.\n有充分理由认为，电影《芭比》(Barbie)电影在中国可能很难找到观众。这是一部美国电影，而中国电影观众对好莱坞电影的兴趣和政府对好莱坞电影的认可正在下降。这部电影被广泛描述为女权主义电影，而中国的女性权利和政治代表正在倒退。\nBut not only did the film screen in China — it has been something of a sleeper hit, precisely because of its unusual nature in the Chinese movie landscape.\n然而这部电影不仅在中国上映，还成了票房黑马，这恰恰是因为这部影片在中国电影风貌中有着非同寻常的性质。\n“There are…",
+          "link": "https://cn.nytimes.com/china/20230807/china-barbie-women-feminism/dual",
+          "publishedOn": "2023-08-07T05:36:02.000Z",
+          "wordCount": 1247,
+          "title": "为何《芭比》在中国成为潜在爆款电影",
+          "imageUrl": "https://static01.nyt.com/images/2023/08/03/multimedia/00china-barbie-01-qmzj/00china-barbie-01-qmzj-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/asia-pacific/20230807/tsmc-mark-liu/dual",
+          "author": null,
+          "description": "JOHN LIU, 孟建国2023年8月7日\nTaiwan Semiconductor Manufacturing Company, which is manufacturing the world’s most advanced microchips, conducts business on the island of Taiwan, dead center in one of the most geopolitically volatile places on the planet.\n台积电是世界上最先进的微芯片生产商，它来自台湾，这座岛屿位于全球地缘政治最动荡地区之一的正中心。\nThat makes people in Washington very nervous. TSMC dominates the semiconductor industry; it’s a company that the United States can’t do without, 80 miles off the coast of China.\n这令华盛顿非常紧张。台积电在半导体行业占据主导地位；这家美国离不开的公司距离中国海岸约130公里。\nThe U.S. government has appropriated tens of billions of dollars to strengthen America’s own semiconductor sector and help fund TSMC’s nascent operations in the United States, far from China, which has never renounced the use of force to absorb Taiwan.\n美国政府已拨款数百亿美元来加强自己的半导体行…",
+          "link": "https://cn.nytimes.com/asia-pacific/20230807/tsmc-mark-liu/dual",
+          "publishedOn": "2023-08-07T04:36:03.000Z",
+          "wordCount": 1416,
+          "title": "面对地缘政治动荡，台积电为何坚持扎根台湾",
+          "imageUrl": "https://static01.nyt.com/images/2023/08/04/multimedia/04tsmc-01-zlcw/04tsmc-01-zlcw-videoLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/china/20230807/china-flood-beijing-rain/dual",
+          "author": null,
+          "description": "KEITH BRADSHER2023年8月7日周四，一名救援人员在涿州附近拉着一艘载有居民的船只。 Kevin Frayer/Getty Images\nFor days, the rain came down in sheets, pounding Beijing and areas around it in what the government said was the heaviest deluge China’s capital had seen since record keeping began 140 years ago.\n北京及其周边地区连日遭遇特大暴雨。中国政府称，此次强降雨是首都北京自有仪器测量记录140年来的最大降雨量。\nWhen the extreme downpour finally stopped on Tuesday, most of Beijing had been spared the worst — but partly because officials made sure the floodwaters went elsewhere.\n强降雨在上周二终于停止后，人们发现，北京的大部分地区都并非受影响最严重的地区，不过，出现这个结果的部分原因是，官员们为保北京将洪水泄到了其他地方。\nOfficials in Hebei Province, which borders Beijing, had opened flood gates and spillways in seven low-lying flood control zones to prevent rivers and reservoirs from overflowing in Beijing and the region’s other metropolis, Tianjin…",
+          "link": "https://cn.nytimes.com/china/20230807/china-flood-beijing-rain/dual",
+          "publishedOn": "2023-08-07T02:06:03.000Z",
+          "wordCount": 1503,
+          "title": "“当好首都护城河”：河北涿州泄洪引发愤怒",
+          "imageUrl": "https://static01.nyt.com/images/2023/08/04/multimedia/04China-Flood-zhuozhou-kmcb/04China-Flood-zhuozhou-kmcb-articleLarge.jpg"
+        },
         {
           "id": "https://cn.nytimes.com/obits/20230804/seiichi-morimura-dead/dual",
           "author": null,
