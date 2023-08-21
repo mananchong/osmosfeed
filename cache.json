@@ -6,6 +6,16 @@
       "siteUrl": "https://rweekly.org/atom.xml",
       "articles": [
         {
+          "id": "https://rweekly.org/2023-W34.html",
+          "author": null,
+          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Jonathan Carroll, with help from the RWeekly team members and contributors.\nHighlight\nBest Practices for Data Cleaning and Preprocessing\nAnalyzing new USDA data using open source tools\nTaking from Infinite Sequences\nInsights\nObject of type closure can shut up\nBest Practices for Data Cleaning and Preprocessing\nwebR 0.2.0 has been released\n\nTaking from Infinite Sequences\nPythagorean Triples with Comprehensions\nAnalyzing new USDA data using open source tools\nLittle useless-useful R functions – Goldbach’s conjecture and Sieve of Sundaram\nCan a Simple Multi-Agent Model Replicate Complex Stock Market Behaviour?\nCopernicus OpenEO NDVI time series\n\nHow to Sum Rows in R: Master Summi…",
+          "link": "https://rweekly.org/2023-W34.html",
+          "publishedOn": "2023-08-21T00:00:00.000Z",
+          "wordCount": 6218,
+          "title": "R Weekly 2023-W34 Cleaning Data, Analyzing Data, and Infinite Data",
+          "imageUrl": "https://rweekly.org/public/facebook.png"
+        },
+        {
           "id": "https://rweekly.org/2023-W33.html",
           "author": null,
           "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Ryo Nakagawara, with help from the R Weekly team members and contributors.\nHighlight\nShe issued install.packages() – you won’t believe what happened next!\nWrapping C Code in an R Package\nHow to use UNHCR’s {refugees} R package\nInsights\nA long digression about the word ‘vector’\nShe issued install.packages() – you won’t believe what happened next!\nNew Executive Director Position Created at R Consortium\nR in the Real World\nreadODS 2.0.0\nModel life tables\n\nR in Organizations\nHow to use UNHCR’s {refugees} R package\n\nR in Academia\nEnrollments open: An Introduction to R for Policy Analysis\nMulti-step Estimators and Shrinkage Effect in Time Series Models\nggcoverage: an R package to …",
@@ -405,6 +415,76 @@
       "feedUrl": "https://www.nationalreview.com/feed/",
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
+        {
+          "id": "https://www.nationalreview.com/?p=1531707",
+          "author": "Iain Murray and Samuel Peterson",
+          "description": "What if we could find ways to revive the tradition of mutual-aid societies?",
+          "link": "https://www.nationalreview.com/2023/08/how-to-help-discouraged-working-age-men/",
+          "publishedOn": "2023-08-21T15:25:07.000Z",
+          "wordCount": 8648,
+          "title": "How to Help Discouraged Working-Age Men",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/08/climbing.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1531685",
+          "author": "Ari Blaff",
+          "description": "Trump is reportedly considering deploying Coast Guard and Navy assets throughout American and Latin American waters.",
+          "link": "https://www.nationalreview.com/news/if-reelected-trump-would-screen-for-marxists-deploy-military-to-fight-cartels-report/",
+          "publishedOn": "2023-08-21T14:51:34.000Z",
+          "wordCount": 8281,
+          "title": "If Reelected, Trump Would Screen for Marxist Immigrants, Deploy Military to Fight Cartels: Report",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/08/trump-6.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1531630",
+          "author": "Ari Blaff",
+          "description": "Trump holds the largest caucus lead since George W. Bush’s presidential campaign in 2000.",
+          "link": "https://www.nationalreview.com/news/trump-boasts-massive-lead-in-new-iowa-poll-most-caucus-goers-dont-believe-hes-committed-serious-crimes/",
+          "publishedOn": "2023-08-21T12:35:29.000Z",
+          "wordCount": 8107,
+          "title": "Trump Boasts Massive Lead in New Iowa Poll; Most Caucus-Goers Don’t Believe He’s Committed Serious Crimes",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/08/Donald-Trump-12.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1531388",
+          "author": "The Editors",
+          "description": "The fate of hundreds of millions of people in the region depends on its survival.",
+          "link": "https://www.nationalreview.com/2023/08/the-japan-south-korea-alliance-is-a-breakthrough-for-biden/",
+          "publishedOn": "2023-08-21T10:30:44.000Z",
+          "wordCount": 8256,
+          "title": "The Japan–South Korea Alliance Is a Breakthrough for Biden",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/08/alex1.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1530953",
+          "author": "Zach Kessel",
+          "description": "Barr joins a growing list of prominent Republicans advocating the use of military force south of the border.",
+          "link": "https://www.nationalreview.com/news/bill-barr-lays-out-war-on-terror-playbook-for-decimating-mexican-drug-cartels/",
+          "publishedOn": "2023-08-21T10:30:44.000Z",
+          "wordCount": 8985,
+          "title": "Bill Barr Lays Out War on Terror Playbook for Decimating Mexican Drug Cartels",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/08/Barr.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1531261",
+          "author": "John Barrasso",
+          "description": "America’s abundant energy resources do us no good if President Biden and the climate extremists keep them locked up from production.",
+          "link": "https://www.nationalreview.com/2023/08/bidens-anti-nuclear-move-fits-his-anti-american-energy-agenda/",
+          "publishedOn": "2023-08-21T10:30:26.000Z",
+          "wordCount": 8334,
+          "title": "Biden’s Anti-Nuclear Move Fits His Anti-American Energy Agenda",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/04/Biden-200.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1531599",
+          "author": "Kathryn Jean Lopez",
+          "description": "Mercy doesn’t drive headlines and win votes, but it’s worth trying.",
+          "link": "https://www.nationalreview.com/2023/08/a-nashville-legend-leaves-a-legacy-of-compassion/",
+          "publishedOn": "2023-08-21T10:30:13.000Z",
+          "wordCount": 9179,
+          "title": "A Nashville Legend Leaves a Legacy of Compassion",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/08/whitebackground.jpg?fit=1200%2C700&ssl=1"
+        },
         {
           "id": "https://www.nationalreview.com/?p=1531468",
           "author": "Dan McLaughlin",
@@ -4703,6 +4783,36 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/82252",
+          "author": "kai_",
+          "description": "我们做了一个 App，帮助你通过收集语境加快学习单词的效率查看全文",
+          "link": "https://sspai.com/post/82252",
+          "publishedOn": "2023-08-21T10:01:12.000Z",
+          "wordCount": 868,
+          "title": "Context 众筹 ｜ 搭建你的个人英语「语境库」",
+          "imageUrl": "https://cdn.sspai.com/2023/08/21/ec43495b2b5d2644f974b3ed148b1db2.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/82255",
+          "author": "少数派编辑部",
+          "description": "你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的 App 或者关注的话题，也欢迎在评论区和我们进行讨论。查看全文",
+          "link": "https://sspai.com/post/82255",
+          "publishedOn": "2023-08-21T09:45:50.000Z",
+          "wordCount": 908,
+          "title": "派评 | 近期值得关注的 App",
+          "imageUrl": "https://cdn.sspai.com/2023/8/21/article/8a59c482-9345-39d0-08ea-9b3761ea8eb1.png"
+        },
+        {
+          "id": "https://sspai.com/post/82244",
+          "author": "IGN中国",
+          "description": "《黑神话：悟空》是一款以西游题材为背景的单机动作角色扮演游戏，开发团队「游戏科学」来自中国杭州，本作将于 2024 年夏季正式发售。《黑神话：悟空》于 2020 年 8 月 20 日公布了首支实机演示视频，并于 3 年后即 2023 年 8 月 20 日在杭州举行了首次千人线下试玩活动。本文作者 IGN 中国作为国内知名游戏媒体，在试玩会前一个月受邀参与了本作的内部闭门测试活动，本文即为相关游玩体验。查看全文",
+          "link": "https://sspai.com/post/82244",
+          "publishedOn": "2023-08-21T07:20:39.000Z",
+          "wordCount": 729,
+          "title": "国产热门 3A 大作举行线下试玩：《黑神话：悟空》玩起来怎么样？",
+          "imageUrl": "https://cdn.sspai.com/2023/8/21/article/5e00117d-003d-407a-4a55-7d03aec5722a.jpg"
+        },
+        {
           "id": "https://sspai.com/post/82234",
           "author": "Matrix机器人",
           "description": "每到七夕这样的节日，我们总能在网上看到许多「送XX礼物」这样的话题和讨论。在向心爱之人表达爱意这件事上，大家似乎从来不吝自己的创意与想法。在送礼的时候，有些人或许喜欢黄金、红包这样「务实」的选择，而有 ...查看全文",
@@ -5839,6 +5949,76 @@
       "feedUrl": "https://plink.anyfeeder.com/idaily/today",
       "siteUrl": "https://docs.rsshub.app",
       "articles": [
+        {
+          "id": "https://m.idai.ly/se/5c00aJ",
+          "author": null,
+          "description": "俄罗斯联盟号火箭搭载「进步 MS-24」货运飞船竖立在发射台，哈萨克斯坦。8月20日，俄国家航天集团宣布确认「月球-25号」探测器偏离预定轨道并已在月面坠毁，本次探月任务宣告失败。「月球-25号」探测器于8月19日下午14点57分尝试变轨过程中出现异常并与地面失联，初步推测故障原因为实际参数与计算值存在偏差，俄航天集团将组建专门小组调查任务失败原因。摄影师：Roscosmos",
+          "link": "https://m.idai.ly/se/5c00aJ",
+          "publishedOn": "2023-08-21T10:59:00.000Z",
+          "wordCount": 1138,
+          "title": "俄探月器着陆失败",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.idai.ly/se/98ahn1",
+          "author": null,
+          "description": "日本首相岸田文雄视察福岛第一核电站的核污染水排海设施。8月20日，岸田文雄宣布于8月22日召开内阁会议确认福岛核污水排海时间表，他强调排放核污水是「不容拖延的课题」，宣称将寻求包括中国在内国际社会的理解。民调显示88.1%日本人对核污水排海计划可能造成「日本形象受损」感到担忧。中国外交部发言人表示，中方再次敦促日方正视国际社会和国内民众合理关切，停止强推排海计划，切实以负责任的方式处置核污染水，并接受严格的国际监督。摄影师：iDaily Media",
+          "link": "https://m.idai.ly/se/98ahn1",
+          "publishedOn": "2023-08-21T09:57:00.000Z",
+          "wordCount": 1138,
+          "title": "日本核污水准备排海",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.idai.ly/se/f43rNw",
+          "author": null,
+          "description": "乌克兰总统 Volodymyr Zelensky 访问荷兰埃因霍温空军基地。8月20日，荷兰和丹麦两国正式确认将向乌克兰提供美制 F-16 战斗机并为乌军培训飞行员，荷兰承诺「在条件满足时」向乌克兰移交42架库存战机，丹麦预计2025年前分批向乌提供19架战机。F-16 战斗机飞行员的最短培训期为6个月。俄罗斯外长表示俄军已做好准备对 F-16 战机出现于乌克兰上空做出军事反应。摄影师：Rob Engelaar",
+          "link": "https://m.idai.ly/se/f43rNw",
+          "publishedOn": "2023-08-21T08:55:00.000Z",
+          "wordCount": 1138,
+          "title": "乌克兰将获得F-16战机",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.idai.ly/se/f25b2B",
+          "author": null,
+          "description": "南非约翰内斯堡准备举行第15次金砖国家峰会。8月22日，金砖国家峰会时隔3年首次以线下方式召开，巴西、俄罗斯、印度、中国和南非5个成员国的领导人将举行为期3天会议，重点讨论金砖国家扩容和本币结算等议题。中国国家主席习近平将于8月21日至24日出席金砖峰会并对南非进行国事访问。全球已有超过40个国家有意加入金砖国家合作机制，23个国家正式提出申请。摄影师：Gianluigi Guercia",
+          "link": "https://m.idai.ly/se/f25b2B",
+          "publishedOn": "2023-08-21T08:53:00.000Z",
+          "wordCount": 1138,
+          "title": "金砖峰会即将开幕",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.idai.ly/se/e6bJ9e",
+          "author": null,
+          "description": "朝鲜人民军海军进行海上巡航导弹发射训练。8月21日，朝中社报道最高领导人金正恩视察朝鲜海军舰队并现场观摩战略巡航导弹发射训练。朝中社报道称试射导弹「迅速击中目标，并无任何失误」。金正恩指示朝鲜海军时刻保持动员状态，在训练中提高实战能力，他提出朝鲜需要加快推进海军武器装备现代化，包括建造强大的战舰、开发舰载及水下武器系统。摄影师：KCNA",
+          "link": "https://m.idai.ly/se/e6bJ9e",
+          "publishedOn": "2023-08-21T08:51:00.000Z",
+          "wordCount": 1138,
+          "title": "金正恩观摩海军导弹试射",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.idai.ly/se/3afcQB",
+          "author": null,
+          "description": "游客们在喷泉汲水降温，罗马。8月20日，意大利迎来新一轮高温天气，局部地区最高气温超过40°C。罗马、佛罗伦萨、博洛尼亚等多个主要城市发布高温红色预警，预计高温将持续一周。意大利农业联盟公布报告指出2023年该国气温较往年平均水平高0.67℃，前7个月平均每天发生11起极端天气事件，对农业造成至少60亿欧元损失。摄影师：iDaily Media",
+          "link": "https://m.idai.ly/se/3afcQB",
+          "publishedOn": "2023-08-21T08:49:00.000Z",
+          "wordCount": 1138,
+          "title": "意大利新一轮高温",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.idai.ly/se/cecf3V",
+          "author": null,
+          "description": "波茨坦电影博物馆冷藏档案库内的电影胶卷。2023年8月，波茨坦电影博物馆宣布完成历时4个月的藏品库转移工作，目前所有藏品均已安放至新博物馆大楼。这座新大楼毗邻波茨坦电影学院，建筑面积约6300平方米，预计2024年正式向公众开放参观。波茨坦电影博物馆创立于1981年，是德国最古老的电影博物馆，收藏超过100万件电影胶卷、照片、剧本、服装道具和早期摄影器材。摄影师：Bernd Settnik",
+          "link": "https://m.idai.ly/se/cecf3V",
+          "publishedOn": "2023-08-21T08:47:00.000Z",
+          "wordCount": 1138,
+          "title": "波茨坦电影博物馆搬迁",
+          "imageUrl": null
+        },
         {
           "id": "https://m.idai.ly/se/788ITL",
           "author": null,
@@ -7917,6 +8097,26 @@
       "siteUrl": "http://nytimes.com",
       "articles": [
         {
+          "id": "https://cn.nytimes.com/business/20230821/china-property-crisis-country-garden/dual",
+          "author": null,
+          "description": "DAISUKE WAKABAYASHI, 艾莎2023年8月21日周六，位于中国南通的碧桂园十里海湾项目。 Qilai Shen for The New York Times\nA model Chinese property developer in a sector replete with risk takers is teetering on the edge of default. Short of cash, one of China’s biggest asset managers has missed payments to investors. And billions of dollars have flowed out of the country’s stock markets.\n房地产行业充斥着背负高风险的参与者，一家堪称典范的中国房地产开发商正在违约的边缘摇摇欲坠。由于缺乏现金，中国最大的资产管理公司之一未能向投资者付款。数十亿美元已从该国股市撤出。\nIn China, August has been a dizzying ride.\n在中国，这个8月事件频出，令人眼花缭乱。\nWhat started three years ago as a crackdown on risky business behavior by home builders, and then an ensuing housing slowdown, has spiraled rapidly this month. The broader economy has been threatened, and the confidence of consumers, businesses and investors undermined. So far, China’s typi…",
+          "link": "https://cn.nytimes.com/business/20230821/china-property-crisis-country-garden/dual",
+          "publishedOn": "2023-08-21T09:36:03.000Z",
+          "wordCount": 1514,
+          "title": "楼市危机疾速失控，中国经济何去何从",
+          "imageUrl": "https://static01.nyt.com/images/2023/08/20/multimedia/20China-Property-01-qpbz/20China-Property-01-qpbz-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/business/20230821/china-central-bank-rate-cut/dual",
+          "author": null,
+          "description": "KEITH BRADSHER2023年8月21日碧桂园的一个建设项目。该公司已成为目前最大一个陷入财务困境的中国开发商。 Qilai Shen for The New York Times\nChina’s central bank on Monday cut the main benchmark interest rate that the country’s commercial banks use in issuing one-year bank loans, the latest in a series of steps by the government to address falling apartment prices, weak consumer spending and broad debt troubles.\n周一，中国央行下调了国内商业银行发放一年期银行贷款的主要基准利率，这是政府为应对房价下跌、消费支出疲软和广泛债务问题而采取的一系列措施中的最新一步。\nBut the reduction, the second time in two months that the government has pushed down commercial banks’ lending rates, was smaller than expected. The modest cut was the latest sign that the government’s usual tools for addressing an economic slowdown may have lost some of their effectiveness, economists said.\n不过，作为近两个月内政府对商业银行贷款利率的第二次下调，其降幅低于预期。经济学者表示，此次…",
+          "link": "https://cn.nytimes.com/business/20230821/china-central-bank-rate-cut/dual",
+          "publishedOn": "2023-08-21T08:06:03.000Z",
+          "wordCount": 642,
+          "title": "房地产危机蔓延 ，中国央行再次下调一年期LPR",
+          "imageUrl": "https://static01.nyt.com/images/2023/08/21/multimedia/21China-Ratecut-cvlf/21China-Ratecut-cvlf-articleLarge.jpg"
+        },
+        {
           "id": "https://cn.nytimes.com/usa/20230821/cyberattacks-russia-china-space-companies/dual",
           "author": null,
           "description": "JULIAN E. BARNES2023年8月21日联邦政府发出的一项全面警告称，外国情报机构可能在针对航天企业、它们的雇员以及为它们服务的承包商。 Kenny Holston/The New York Times\nChinese and Russian intelligence agencies are targeting American private space companies, attempting to steal critical technologies and preparing cyberattacks aimed at degrading U.S. satellite capabilities during a conflict or emergency, according to a new warning by American intelligence agencies.\n据美国情报部门发出的最新警告，中国和俄罗斯情报部门正在瞄准私营航天公司，意在窃取关键技术，并为冲突或紧急情况下的网络攻击做好准备，这些攻击的目的是降低美国卫星的能力。\nThe National Counterintelligence and Security Center, the F.B.I. and the Air Force issued a new advisory to American companies Friday morning. The broad warning to industry said that foreign intelligence services could be targeting space firms, their employees and the contractors that serve those companies.…",
@@ -9491,36 +9691,6 @@
           "publishedOn": "2023-07-24T02:01:00.000Z",
           "wordCount": 380,
           "title": "阅读的诚意 | 2023北京图书市集·秋季场摊主招募开启",
-          "imageUrl": null
-        },
-        {
-          "id": "af01a8c19049bc3c229fc33fe3d38e1a",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E5%AD%A6%E4%BC%9A%E5%8C%BB%E5%AD%A6%E6%80%9D%E7%BB%B4%EF%BC%8C%E6%AF%94%E6%90%9C%E7%B4%A2%E6%B2%BB%E7%96%97%E6%96%B9%E6%A1%88%E6%9B%B4%E6%9C%89%E7%94%A8",
-          "publishedOn": "2023-07-23T01:49:00.000Z",
-          "wordCount": 382,
-          "title": "学会医学思维，比搜索治疗方案更有用",
-          "imageUrl": null
-        },
-        {
-          "id": "f8fb9cbba889f3b6c87dcd6cef06f0ad",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E5%A4%9C%E5%AE%B5%E4%B8%8D%E6%98%AF%E4%BD%A0%E6%83%B3%E5%90%83%EF%BC%8C%E6%83%B3%E5%90%83%E5%B0%B1%E8%83%BD%E5%90%83",
-          "publishedOn": "2023-07-23T01:49:00.000Z",
-          "wordCount": 355,
-          "title": "夜宵不是你想吃，想吃就能吃",
-          "imageUrl": null
-        },
-        {
-          "id": "67df34d947dde8b21b5a300374c1f4bc",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E5%AF%B9%E7%81%AF%E5%8F%91%E8%AA%93%EF%BC%8C%E4%BB%8A%E6%99%9A%E6%88%91%E4%B8%80%E5%AE%9A%E6%97%A9%E7%9D%A1",
-          "publishedOn": "2023-07-23T01:49:00.000Z",
-          "wordCount": 323,
-          "title": "对灯发誓，今晚我一定早睡",
           "imageUrl": null
         }
       ]
