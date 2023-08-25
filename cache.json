@@ -416,6 +416,96 @@
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
         {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1534028",
+          "author": "Ari Blaff",
+          "description": "Musk claims federal law bars him from hiring refugees because they lack the requisite security clearance.",
+          "link": "https://www.nationalreview.com/news/doj-sues-spacex-alleging-discriminatory-hiring-practices-against-refugees/",
+          "publishedOn": "2023-08-25T14:19:20.000Z",
+          "wordCount": 8034,
+          "title": "DOJ Sues SpaceX, Alleging Discriminatory Hiring Practices against Refugees",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/08/musk.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1533984",
+          "author": "Ari Blaff",
+          "description": "The post is the former president’s first since January 8, 2021.",
+          "link": "https://www.nationalreview.com/news/donald-trump-returns-to-twitter-now-x-with-georgia-mugshot/",
+          "publishedOn": "2023-08-25T12:13:16.000Z",
+          "wordCount": 8023,
+          "title": "Donald Trump Returns to Twitter, Now X, with Georgia Mugshot",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/08/donald-trump-booking-photo.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1533732",
+          "author": "Robert Zubrin",
+          "description": "The sophisticated demagogue’s plans for the U.S. abroad would punish friends and reward enemies.",
+          "link": "https://www.nationalreview.com/2023/08/viveks-foreign-policy-fallacies/",
+          "publishedOn": "2023-08-25T10:30:48.000Z",
+          "wordCount": 9304,
+          "title": "Vivek’s Foreign-Policy Fallacies",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/08/milwaukee-debate-55.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1533808",
+          "author": "Jay Nordlinger",
+          "description": "On American democracy, GOP politics, James Fenimore Cooper, Bradley Cooper, William H. Seward, and more.",
+          "link": "https://www.nationalreview.com/2023/08/like-a-whale-through-a-net-c/",
+          "publishedOn": "2023-08-25T10:30:45.000Z",
+          "wordCount": 9150,
+          "title": "Like a whale through a net, &c.",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/08/humpback-whale.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1533920",
+          "author": "Rich Lowry",
+          "description": "Every vote Ramaswamy gets is denied to some other non-Trump contender who might be a more serious threat to the former president.",
+          "link": "https://www.nationalreview.com/2023/08/trump-creates-a-spin-off/",
+          "publishedOn": "2023-08-25T10:30:39.000Z",
+          "wordCount": 8732,
+          "title": "Trump Creates a Spin-Off",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/08/vivek-ramaswamy-spin-room.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1533910",
+          "author": "Henry Olsen",
+          "description": "A supply-side-heavy immigration policy is bound to disappoint.",
+          "link": "https://www.nationalreview.com/2023/08/gop-candidates-are-glossing-over-two-big-illegal-immigration-solutions/",
+          "publishedOn": "2023-08-25T10:30:24.000Z",
+          "wordCount": 8807,
+          "title": "GOP Candidates Are Glossing Over Two Big Illegal-Immigration Solutions",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/08/migrants-border-ciudad-juarez.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1533798",
+          "author": "Philip Klein",
+          "description": "He touts his record during Covid, but that success required taking a big risk.",
+          "link": "https://www.nationalreview.com/2023/08/ron-desantis-is-failing-because-hes-campaigning-with-an-abundance-of-caution/",
+          "publishedOn": "2023-08-25T10:30:21.000Z",
+          "wordCount": 9225,
+          "title": "Ron DeSantis Is Failing Because He’s Campaigning with an Abundance of Caution",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/08/ron-desantis-campaign.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1533859",
+          "author": "Armond White",
+          "description": "An Abel Gance masterpiece brings excitement and clarity to moral confusion.",
+          "link": "https://www.nationalreview.com/2023/08/worlds-end-or-cinemas-future/",
+          "publishedOn": "2023-08-25T10:30:16.000Z",
+          "wordCount": 8238,
+          "title": "World’s End or Cinema’s Future?",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/08/end-of-the-world-kino-lorber.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1532812",
+          "author": "Douglas Carr",
+          "description": "Given its higher starting point and greater downside, China seems likely to capture the undisputed title of world history’s greatest real-estate bust.",
+          "link": "https://www.nationalreview.com/2023/08/china-shaping-up-to-be-the-worlds-greatest-real-estate-bust/",
+          "publishedOn": "2023-08-25T10:30:12.000Z",
+          "wordCount": 9047,
+          "title": "China: Shaping Up to Be the World’s Greatest Real-Estate Bust",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/08/china-evergrande-oasis.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
           "id": "https://www.nationalreview.com/?post_type=blog-post&p=1533493",
           "author": "Brittany Bernstein",
           "description": "The former president was booked, fingerprinted, and photographed for a mug shot before he arranged for bail and was released.",
@@ -4734,76 +4824,6 @@
           "wordCount": 15927,
           "title": "The admiral rises, &c.",
           "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/07/jk.jpg?fit=1200%2C700&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1521118",
-          "author": "Caroline Downey",
-          "description": "‘To be clear, pro-abortion Democrats like RFK Jr. would not even make the list.’",
-          "link": "https://www.nationalreview.com/news/pence-rebukes-desantis-rfk-comments-vows-to-appoint-pro-life-head-of-cdc-hhs/",
-          "publishedOn": "2023-07-27T02:13:36.000Z",
-          "wordCount": 7957,
-          "title": "Pence Rebukes DeSantis RFK Comments, Vows to Appoint Pro-Life Head of CDC, HHS",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/06/pencfe.jpg?fit=1200%2C700&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1520991",
-          "author": "Jeff Zymeri",
-          "description": "The indiscriminate shelling of civilian infrastructure and cultural-heritage sites continues on a regular basis.",
-          "link": "https://www.nationalreview.com/news/u-s-to-share-evidence-on-russian-war-crimes-with-icc-despite-obstruction-from-pentagon/",
-          "publishedOn": "2023-07-26T23:45:30.000Z",
-          "wordCount": 8605,
-          "title": "U.S. to Share Evidence on Russian War Crimes with ICC Despite Obstruction from Pentagon",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/07/russia-ukraine-war-072223-4.jpg?fit=1200%2C700&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1521015",
-          "author": "Haley Strack",
-          "description": "One million students opted out of public schools from Fall 2019 to Fall 2020, according to the National Center for Education Statistics.",
-          "link": "https://www.nationalreview.com/news/biggest-domestic-policy-failure-of-our-lifetime-education-experts-testify-on-lockdown-learning-loss/",
-          "publishedOn": "2023-07-26T23:21:00.000Z",
-          "wordCount": 8346,
-          "title": "‘Biggest Domestic Policy Failure of Our Lifetime’: Education Experts Testify on Lockdown Learning Loss",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2022/01/students-school-brooklyn.jpg?fit=1200%2C700&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1521048",
-          "author": "Dan McLaughlin",
-          "description": "Democrats go after legacy admissions for bad reasons with dubious law, but the case for eliminating them is solid.",
-          "link": "https://www.nationalreview.com/2023/07/democrats-go-trolling-after-legacy-admissions/",
-          "publishedOn": "2023-07-26T22:45:22.000Z",
-          "wordCount": 9463,
-          "title": "Democrats Go Trolling After Legacy Admissions",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/07/miguel-cardona-white-house-1.jpg?fit=1200%2C700&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1520981",
-          "author": "Caroline Downey",
-          "description": "McConnell returned to address reporters, assuring them, ‘I’m fine.’",
-          "link": "https://www.nationalreview.com/news/mitch-mcconnell-escorted-away-from-podium-after-freezing-during-press-conference/",
-          "publishedOn": "2023-07-26T22:04:38.000Z",
-          "wordCount": 7955,
-          "title": "Mitch McConnell Escorted away from Podium after Freezing during Press Conference",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/07/mitch-mcconnell-capitol-hill.jpg?fit=1200%2C700&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1520962",
-          "author": "Jeff Zymeri",
-          "description": "Small businesses and community banks will be squeezed, analysts noted.",
-          "link": "https://www.nationalreview.com/news/federal-reserve-hikes-interest-rates-to-22-year-high-but-u-s-projected-to-avoid-recession/",
-          "publishedOn": "2023-07-26T21:24:06.000Z",
-          "wordCount": 8184,
-          "title": "Federal Reserve Hikes Interest Rates to 22-Year High, but U.S. Projected to Avoid Recession",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/07/jerome-powell-federal-reserve.jpg?fit=1200%2C700&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1520919",
-          "author": "Caroline Downey",
-          "description": "‘He is guilty of lying before Congress,’ the 2024 GOP contender said.",
-          "link": "https://www.nationalreview.com/news/desantis-promises-to-prosecute-fauci-if-elected-president/",
-          "publishedOn": "2023-07-26T21:11:10.000Z",
-          "wordCount": 8220,
-          "title": "DeSantis Promises to Prosecute Fauci If Elected President",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/07/DeSantis-Fauci.jpg?fit=1200%2C700&ssl=1"
         }
       ]
     },
@@ -4812,6 +4832,46 @@
       "feedUrl": "https://sspai.com/feed",
       "siteUrl": "https://sspai.com",
       "articles": [
+        {
+          "id": "https://sspai.com/prime/story/web-annotators-compared",
+          "author": "PlatyHsu",
+          "description": "与先抓取再标注的常见功能相比，「在原始网页上直接标注」效率更高、适用面更广，在不少场合是更有意义的选择。本文分析和比较了 Hypothesis、Raindrop 和 Readwise Reader 三款具有直接标注功能的产品。查看全文\n本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
+          "link": "https://sspai.com/prime/story/web-annotators-compared",
+          "publishedOn": "2023-08-25T13:31:09.000Z",
+          "wordCount": 1122,
+          "title": "网页直接标注：工具比较与使用技巧",
+          "imageUrl": "https://cdn.sspai.com/8/25/2023/article/5f4f508c-37c4-2bb2-a670-f14708052462.png"
+        },
+        {
+          "id": "https://sspai.com/post/82430",
+          "author": "少数派编辑部",
+          "description": "☕️TL;DR近期佳作推荐：[国产剧]装腔启示录、[韩剧]假面女郎、[美剧]阿索卡、[美剧]亿万第七季/最终季、[电影]金币灰黄、[电影]过往人生、[电影]流水落花、[电影]死亡护理师、[动画]雾山五 ...查看全文",
+          "link": "https://sspai.com/post/82430",
+          "publishedOn": "2023-08-25T11:03:28.000Z",
+          "wordCount": 1001,
+          "title": "本周看什么 | 最近值得一看的一大坛作品",
+          "imageUrl": "https://cdn.sspai.com/2023/8/25/article/9131d3d3-eaa9-a92c-3f2b-17cdaba116a9.png"
+        },
+        {
+          "id": "https://sspai.com/post/82407",
+          "author": "waychane",
+          "description": "在入华 30 周年这样的重要时刻，葛越将 Apple 在浙江大学设立的智惠教育中心设为了行程首站——少数派受邀参观的同时，也就一些我们比较关注的问题进行了采访。查看全文",
+          "link": "https://sspai.com/post/82407",
+          "publishedOn": "2023-08-25T08:59:48.000Z",
+          "wordCount": 747,
+          "title": "入华 30 周年之际，我们参观了 Apple 智惠教育中心",
+          "imageUrl": "https://cdn.sspai.com/2023/8/25/article/82bc8ad1-7dfb-b635-8a30-b03607d20903.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/82426",
+          "author": "Kostya",
+          "description": "Excel 支持 Python 数据处理功能，有什么用、该怎么用，这篇文章汇总了这些你所关心的问题。查看全文",
+          "link": "https://sspai.com/post/82426",
+          "publishedOn": "2023-08-25T07:00:34.000Z",
+          "wordCount": 1024,
+          "title": "为表格打开新天地：Excel Python 整合上手体验",
+          "imageUrl": "https://cdn.sspai.com/8/25/2023/article/fd07ac48-76d4-9b48-b9df-e4021727ae46.jpg"
+        },
         {
           "id": "https://sspai.com/post/82268",
           "author": "Roman_Wang",
@@ -5921,26 +5981,6 @@
           "wordCount": 722,
           "title": "从制作简历到建立人脉，这些准备帮我找到心仪工作",
           "imageUrl": "https://cdn.sspai.com/2023/7/27/article/d405072e-c967-ac6a-4a3b-c80e811e4bbb.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/81363",
-          "author": "SimonYoung",
-          "description": "在打开标签页比较多的情况下，使用快捷键一路 Ctrl+W 下去，不小心关闭了最后一个 Tab 页，然后整个 Safari 窗口退出了，于是不得不再从 Dock 栏里面唤醒 Safari。而本文则介绍了一种快速关闭 Safari 浏览器所有标签页同时保留最后一个标签页的方法。查看全文",
-          "link": "https://sspai.com/post/81363",
-          "publishedOn": "2023-07-27T03:30:26.000Z",
-          "wordCount": 798,
-          "title": "一日一技 | 调用 AppleScript 给 Safari 标签页加一层「保险」",
-          "imageUrl": "https://cdn.sspai.com/7/27/2023/article/4eccec68-5610-83d6-ecda-8a9543faeec5.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/81514",
-          "author": "少数派编辑部",
-          "description": "高德地图国际图服务将于 9 月 2 日起上线、方块游戏确认《仙剑奇侠传四》重制中等。查看全文",
-          "link": "https://sspai.com/post/81514",
-          "publishedOn": "2023-07-27T00:30:53.000Z",
-          "wordCount": 766,
-          "title": "派早报：Apple 推出与 App Store 专家会面活动、ChatGPT for Android 开放下载等",
-          "imageUrl": "https://cdn.sspai.com/27/07/2023/article/c7e74517-b11f-b906-6a10-cf8ea03fe2aa.jpg"
         }
       ]
     },
@@ -5949,6 +5989,86 @@
       "feedUrl": "https://plink.anyfeeder.com/idaily/today",
       "siteUrl": "https://docs.rsshub.app",
       "articles": [
+        {
+          "id": "https://m.idai.ly/se/8ffP4v",
+          "author": null,
+          "description": "俯瞰日本福岛第一核电站核污染水排放入海现场。8月24日，东京电力公司正式启动福岛核污染水排海作业，当天约200吨核污染水通过海底隧道排放至离岸1公里近海，未来数日将逐步提高排放量，预计首轮排放17天共7800吨核污染水进入太平洋。福岛县居民及渔民团体宣布将于9月8日提起集体诉讼，要求停止排海作业并撤销日本原子能机构对排海计划的批准决定。影师：iDaily Media",
+          "link": "https://m.idai.ly/se/8ffP4v",
+          "publishedOn": "2023-08-25T11:59:00.000Z",
+          "wordCount": 1182,
+          "title": "日本启动核污水排海",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.idai.ly/se/ed0eVE",
+          "author": null,
+          "description": "中国商务部发言人出席新闻发布会，北京。8月24日，中国商务部发言人指出，日本政府单方面强行启动福岛核污染水排海是无视国际公共利益的极端自私和不负责任的行为，中国将采取一切必要措施维护食品安全和公众健康。中国海关总署当天宣布即日起全面暂停进口原产地为日本的水产品，并对日本输华食品强化监管措施，以防范福岛核污染水排海对食品安全造成的放射性污染风险。中国是日本第一大水产品出口市场，2022年日本向中国大陆出口水产品总额33.85亿元人民币，占日本水产品出口比例的17.44%。摄影师：iDaily Media",
+          "link": "https://m.idai.ly/se/ed0eVE",
+          "publishedOn": "2023-08-25T10:57:00.000Z",
+          "wordCount": 1182,
+          "title": "中国全面暂停日本水产进口",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.idai.ly/se/1dcI5D",
+          "author": null,
+          "description": "莫斯科市民献花悼念飞机失事遇难的瓦格纳雇佣兵集团创始人 Yevgeny Prigozhin。8月23日晚，瓦格纳集团创始人 Prigozhin 乘坐的私人飞机在莫斯科飞往圣彼得堡途中坠毁，机上10人全部罹难。俄罗斯总统 Vladimir Putin 在电视讲话中表示 Prigozhin 是一名有才华但命运坎坷的商人，一生中犯过严重错误，也为打击乌克兰新纳粹政权作出过重大贡献，承诺政府将彻查坠机原因并确认遇难者身份。62岁的 Prigozhin 曾于2023年6月发动瓦格纳集团未遂兵变，后在白俄调解下终止行动并被撤销叛国罪名。摄影师：iDaily Media",
+          "link": "https://m.idai.ly/se/1dcI5D",
+          "publishedOn": "2023-08-25T10:55:00.000Z",
+          "wordCount": 1182,
+          "title": "瓦格纳创始人坠机身亡",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.idai.ly/se/829C49",
+          "author": null,
+          "description": "挪威首相 Jonas Gahr Store 与乌克兰总统 Volodymyr Zelensky 出席联合新闻发布会，基辅。8月24日，挪威政府宣布向乌克兰提供一批 F-16 战斗机和防空导弹系统，成为继丹麦和荷兰后第3个承诺向乌克兰提供 F-16 战机的国家。美国国防部发言人当天宣布计划从10月开始在亚利桑那州图森的莫里斯空军基地为乌克兰培训 F-16 飞行员，预计新飞行员的培训耗时需要5至8个月。摄影师：Oleg Petrasyuk",
+          "link": "https://m.idai.ly/se/829C49",
+          "publishedOn": "2023-08-25T10:53:00.000Z",
+          "wordCount": 1182,
+          "title": "挪威提供乌克兰F-16战机",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.idai.ly/se/105U0A",
+          "author": null,
+          "description": "中国国家主席习近平与伊朗总统 Ebrahim Raisi 在金砖峰会期间举行会晤，南非约翰内斯堡。8月24日，中国国家主席习近平祝贺伊朗成为金砖成员，强调中方愿同伊朗在金砖等多边平台上加强合作，在涉及彼此核心利益问题上继续相互支持。伊方表示高度赞赏并感谢中方支持伊朗成为金砖正式成员，感谢习近平主席为推动伊沙对话和解发挥重要作用。中国连续10年成为伊朗最大贸易伙伴，2022年双边贸易额达158亿美元，同比增长7%。摄影师：Iranian Presidency",
+          "link": "https://m.idai.ly/se/105U0A",
+          "publishedOn": "2023-08-25T10:51:00.000Z",
+          "wordCount": 1182,
+          "title": "习近平会见伊朗总统",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.idai.ly/se/4824Ra",
+          "author": null,
+          "description": "美国前总统 Donald Trump 在主动投案并获得保释后向媒体发表讲话，亚特兰大机场。8月24日，美国前总统 Trump 向佐治亚州富尔顿县监狱投案自首，并在缴纳20万美元保释金后获释。Trump 目前因涉嫌推翻佐治亚州2020年总统大选结果而遭到佐州司法当局起诉，面临包括敲诈勒索、合谋伪造文件、合谋提交虚假陈述、合谋假冒公职人员等13项重罪指控。这是 Trump 2023年度第4次遭到刑事起诉。入狱记录显示 Trump 的囚犯编号为P01135809，身高6英尺3英寸（约合1.9米），体重215磅（约合97.5公斤）。摄影师：Joe Raedle",
+          "link": "https://m.idai.ly/se/4824Ra",
+          "publishedOn": "2023-08-25T10:49:00.000Z",
+          "wordCount": 1182,
+          "title": "特朗普投案自首",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.idai.ly/se/a70llp",
+          "author": null,
+          "description": "2023年德国科隆游戏展（Gamescom），一名游戏爱好者在玩古董游戏。8月23日，德国科隆游戏展览会正式开幕，本届共有63个国家逾1220家展商参加，展区面积达23万平方米，预计吸引约30万观众。科隆国际游戏展始于2009年，与美国E3游戏展、东京电玩展并列为世界三大游戏展。德国是欧洲第一大电子游戏市场，2022年行业产值约98.7亿欧元，从业人数达到3.2万。摄影师：Jana Rodenbusch",
+          "link": "https://m.idai.ly/se/a70llp",
+          "publishedOn": "2023-08-25T10:47:00.000Z",
+          "wordCount": 1182,
+          "title": "2023科隆游戏展",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.idai.ly/se/1004yv",
+          "author": null,
+          "description": "伦敦动物园工作人员正在测量一只竹节虫（Stick insect）的体长。8月24日，伦敦动物园启动一年一度的动物盘点工作，预计在未来数天对1.4万只动物进行身长和体重测量，评估健康状况和识别受孕动物。竹节虫是一种草食性昆虫，主要分布在热带和亚热带地区，擅长拟态成树枝或树叶躲避天敌，成虫最大体长达60厘米，最小仅2厘米。摄影师：Neil Hall",
+          "link": "https://m.idai.ly/se/1004yv",
+          "publishedOn": "2023-08-25T10:45:00.000Z",
+          "wordCount": 1182,
+          "title": "伦敦动物园年度盘点",
+          "imageUrl": null
+        },
         {
           "id": "https://m.idai.ly/se/b5eS6z",
           "author": null,
@@ -8067,6 +8187,16 @@
       "siteUrl": "http://nytimes.com",
       "articles": [
         {
+          "id": "https://cn.nytimes.com/usa/20230825/trumpism-trump-debate-republicans/dual",
+          "author": null,
+          "description": "LISA LERER2023年8月25日前总统特朗普的缺席为第一场辩论中更广泛的保守派立场创造了机会。但当晚的表演可能不会改变特朗普对共和党的控制。 Jamie Kelter Davis for The New York Times\nIt was, for 57 minutes, a glimpse into a post-Trump Republican Party.\n在57分钟的时间里，我们可以一睹后特朗普时代共和党的模样。\nThey wrestled for long, heated stretches over policy and ideology. Young battled old. The lone woman chastised the seven men, casting herself as the adult in the room. Their personalities shone under the bright lights, displaying the strengths of a historically diverse field.\n他们在政策和意识形态问题上进行了漫长而激烈的争论。年轻的对战年老的。唯一的女性责骂七个男性，将自己塑造成房间里唯一的成年人。他们的个性在聚光灯下闪耀，展示出该党史上空前的多元化的力量。\nIn the first primary debate of the 2024 race, the eight Republican participants tried to create a Trump-free zone — an alternative political universe where the G.O.P. race turned on issues, ideology and biography.…",
+          "link": "https://cn.nytimes.com/usa/20230825/trumpism-trump-debate-republicans/dual",
+          "publishedOn": "2023-08-25T08:36:01.000Z",
+          "wordCount": 1309,
+          "title": "共和党初选首场辩论：没有特朗普的特朗普主义什么样",
+          "imageUrl": "https://static01.nyt.com/images/2023/08/24/multimedia/24pol-debate-assess2-lvmj/24pol-debate-assess2-lvmj-articleLarge.jpg"
+        },
+        {
           "id": "https://cn.nytimes.com/usa/20230825/here-are-the-latest-developments-in-the-election-interference-case/dual",
           "author": null,
           "description": "RICHARD FAUSSET, DANNY HAKIM2023年8月25日周四，富尔顿当局公布了前总统唐纳德·特朗普的一张警方登记大头照。 Fulton County Sheriff's Office\nFormer President Donald J. Trump was booked at an Atlanta jail on Thursday in his fourth criminal arrest this year, this time in a sweeping racketeering case accusing him and his allies of conspiring to reverse his 2020 election loss in Georgia.\n周四，前总统特朗普在亚特兰大一家监狱登记入册，这是他今年第四次因刑事案件被捕，这一次是因一起牵涉广泛的舞弊案，指控他和盟友密谋扭转2020年他在佐治亚州的选举失利。\nMr. Trump flew to Atlanta in a private plane from Newark, N.J., and was whisked to the Fulton County Jail in a motorcade with a police escort, arriving at 7:35 p.m. He was then fingerprinted and photographed like other people accused of state crimes and released on bond.\n特朗普从新泽西州纽瓦克乘坐私人飞机前往亚特兰大，随后乘车由警方开道向富尔顿县监狱疾驶，于晚上7点35分抵达。然后，他像其他被指控犯有州罪行的人一样，采集指纹并拍照，然后得到保释。\nAbout 2…",
@@ -9025,36 +9155,6 @@
           "wordCount": 1325,
           "title": "朝韩“统一”梦想的褪色和幻灭",
           "imageUrl": "https://static01.nyt.com/images/2023/07/27/opinion/27kung/27kung-articleLarge-v2.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/style/20230727/gen-x-elon-musk-new-logo/dual",
-          "author": null,
-          "description": "STELLA BUGBEE2023年7月27日最重要的是，X是一种否定。 Joel Saget/Agence France-Presse — Getty Images\nThe letter has its obvious appeals. X is a versatile shape — one of the few capital letters to remain symmetrical whether bisected vertically or horizontally (the others: H, O and I). It’s legible no matter how you flip it. It signals a stop. A mark on a map. A movie too outrageous to give a rating. It’s the stuff of revolutionaries (Malcolm X) and punks (X, the band). It stands in for a kiss, and represents an unknown quantity in mathematics. XXX is porn — the first true currency of the internet. X can be the hidden conspiracy of “The X-Files,” or the shorthand for the drug Ecstasy, popular with ravers in the ’90s.\n这个字母有它明显的魅力。X形状灵活，是少数几个无论在垂直或水平等分都能保持对称的大写字母之一（其他三个是H、O和I），无论怎么翻转，它都很容易辨认。它预示着结束。地图上的一个标记。一部…",
-          "link": "https://cn.nytimes.com/style/20230727/gen-x-elon-musk-new-logo/dual",
-          "publishedOn": "2023-07-27T04:36:03.000Z",
-          "wordCount": 1071,
-          "title": "马斯克为何对“X”情有独钟",
-          "imageUrl": "https://static01.nyt.com/images/2023/07/25/multimedia/MEANING-X-1-pkcl/MEANING-X-1-pkcl-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/asia-pacific/20230727/korea-dmz-north-south-border/dual",
-          "author": null,
-          "description": "CHOE SANG-HUN2023年7月27日三年的朝鲜战争是朝鲜半岛现代史上最痛苦的经历。 \nSeen from the sky, the Demilitarized Zone, or DMZ, looks like a gigantic geographical wound across the Korean Peninsula, the continuous wire fences snaking up the hills and down the valleys from coast to coast.\n\n非军事区是一个用延绵的铁丝网在山顶和山谷间蜿蜒隔出、从东到西将朝鲜半岛一分为二的地带。从空中看，它像是一条横跨朝鲜半岛的巨大地理伤口。\n\nIt was created 70 years ago on Thursday, when an armistice was signed by the American-led United Nations Command and the North Korean and Chinese militaries at the “truce village” of Panmunjom, putting an end to the fighting, but not the Korean War itself.\n非军事区是70年前的今天设立的。那天，由美国领导的联合国军司令部与朝鲜和中国军队在板门店“停战村”签署了停战协定。熄灭的是战火，朝鲜战争本身并未结束。\nThe DMZ was meant to be a temporary buffer zone, dividing a warring nation. Instead, it has hardened into the world’s most heavily armed f…",
-          "link": "https://cn.nytimes.com/asia-pacific/20230727/korea-dmz-north-south-border/dual",
-          "publishedOn": "2023-07-27T02:06:03.000Z",
-          "wordCount": 1529,
-          "title": "70年未愈的战争伤痕：走进朝韩非军事区",
-          "imageUrl": "https://static01.nyt.com/images/2023/06/07/multimedia/00skorea-dmz-03-cbwh/00skorea-dmz-03-cbwh-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/asia-pacific/20230727/fiji-china-invitation-decline/dual",
-          "author": null,
-          "description": "NATASHA FROST2023年7月27日斐济总理兰布卡上个月在新西兰惠灵顿。 他试图让自己的国家与中国保持距离。 Mark Mitchell/NZ Herald, via Associated Press\nFiji’s uneasy relationship with China has hit an unusual roadblock, in the form of an office door.\n斐济与中国的不稳定关系遭遇了一个不同寻常的障碍——办公室的门。\nIn a video posted to social media on Tuesday, the Pacific island nation’s prime minister, Sitiveni Rabuka, said he was declining an invitation to visit China this week because he had tripped while looking at his phone, striking his head on a door at the entrance to a government building.\n在周二发布到社交媒体上的一段视频中，这个太平洋岛国总理西蒂韦尼·兰布卡表示，他取消了受邀于本周访华的行程，因为他在看手机时绊倒，头撞到了政府大楼入口处的门。\n“I do not know whether my head is hurt more than the door, or the door hurt more than my head,” Mr. Rabuka said. He was wearing a shirt flecked with bloodstains, which he pointed out to viewers, …",
-          "link": "https://cn.nytimes.com/asia-pacific/20230727/fiji-china-invitation-decline/dual",
-          "publishedOn": "2023-07-27T02:06:03.000Z",
-          "wordCount": 719,
-          "title": "斐济领导人拒绝访华邀请，自称头部受伤",
-          "imageUrl": "https://static01.nyt.com/images/2023/07/26/multimedia/26fiji1-ltqm/26fiji1-ltqm-articleLarge.jpg"
         }
       ]
     },
