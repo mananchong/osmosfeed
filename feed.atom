@@ -2,10 +2,59 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mananchong.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-26T16:38:33.468Z</updated>
+    <updated>2023-08-27T07:38:21.014Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mananchong.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://mananchong.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[乔纳森·萨姆欣谈英法百年战争]]></title>
+        <id>https://www.thepaper.cn/newsDetail_forward_24378167</id>
+        <link href="https://www.thepaper.cn/newsDetail_forward_24378167"/>
+        <updated>2023-08-27T05:02:07.000Z</updated>
+        <summary type="html"><![CDATA[乔纳森·萨姆欣（章静绘）
+
+乔纳森·萨姆欣（Jonathan Sumption，1948- ）是一位跨界奇人。他曾是世界顶级的辩护律师，于2012年至2018年间担任英国最高法院大法官；他是歌剧和古典音乐界的名人，担任英国皇家音乐学院理事；同时他是著名的中世纪历史学家，代表作为“英法百年战争”五部曲，其中前两部《战争的试炼》《烈火的审判》已由社科文献出版社甲骨文品牌推出中文版。他的历史著作还有《朝圣时代：中世纪的上帝之路》（The Age of Pilgrimage: The Medieval Journey to God）、《阿尔比十字军东征》（The Albigensian Crusade）等。
+2023年7月，陆大鹏在伦敦格林尼治采访了萨姆欣，与他聊了英法百年战争和读书等话题。
+首先祝贺您的“百年战争”系列第五卷出版，整个五部曲就算大功告成了。第一卷是1990年出版的，您花了三十多年时间，完成了这部鸿篇巨著。
+萨姆欣：谢谢。不过不止三十多年。我从上世纪七十年代末开始写这部书，去年才完成，也就是一共花了四十多年。
+我们从头聊起吧。我知道您的父亲是著名的律师，所以您从事法律工作有家学渊源。那么您是如何开始对历史，尤其是中世纪历史感兴趣的呢？
+萨姆欣：我上中学（伊顿公学）的时候，历史课是从大约1500年讲起的，并没有涉及中世纪。我在中学课程里详细学习了从1500年到1900年的英格兰历史和欧洲历史。上牛津大学之后，我想学别的东西，想知道1500年之前的事情。所以我的本科专业选择了中世纪历史。1970年我本科毕业，几乎马上就成为我所在的莫德林学院的研究员，然后开始教书。
+刚刚获得本科学位就成为学院的研究员，这是非常了不起的成就了。
+萨姆欣：这种情况的确不算常见。作为莫德林学院的研究员，我主要从事研究工作，但也花了五年时间给本科生教中世纪历史。这是我自己读本科时很享受的专业。后…]]></summary>
+        <author>
+            <name>上海书评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[这 8 件别人眼中的「电子垃圾」，是我手中的宝贝]]></title>
+        <id>https://sspai.com/post/82436</id>
+        <link href="https://sspai.com/post/82436"/>
+        <updated>2023-08-27T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[二手乃至N手的数码产品一直是我的兴趣之一。作为一个产品五花八门、技术迭代迅速，往往还带着很多个人回忆的品类，这些「旧东西」对于我的意义很多时候也远不止兴趣使然那么简单——它们反而更像是一种「时间胶囊」 ...查看全文]]></summary>
+        <author>
+            <name>PostMeridy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bob Barker, Longtime Host of <i>The Price Is Right</i>, Dead at 99]]></title>
+        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1534599</id>
+        <link href="https://www.nationalreview.com/news/bob-barker-longtime-host-of-the-price-is-right-dead-at-99/"/>
+        <updated>2023-08-26T17:45:29.000Z</updated>
+        <summary type="html"><![CDATA[Barker turned the CBS show into a hit and helped make it the longest-running game show in U.S. history.]]></summary>
+        <author>
+            <name>Brittany Bernstein</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trump Spokeswoman Questions Need for Mugshot: ‘He Is the Single Most Famous Man on the Planet’]]></title>
+        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1534558</id>
+        <link href="https://www.nationalreview.com/news/trump-spokeswoman-questions-need-for-mugshot-he-is-the-single-most-famous-man-on-the-planet/"/>
+        <updated>2023-08-26T16:31:14.000Z</updated>
+        <summary type="html"><![CDATA[‘They didn’t need the mugshot. It was, I guess to her, probably a trophy, but thank you, because now the trophy actually became ours,’ Alina Habba said of Willis during an interview on Friday.]]></summary>
+        <author>
+            <name>Brittany Bernstein</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Massachusetts Elementary Schools Ban Talk of Weapons, ‘Shooting Gestures’]]></title>
         <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1534546</id>
@@ -10112,306 +10161,6 @@ The Purchase of the Past: Collecting Culture in Post-Revolutionary Paris c.1790�
         <summary type="html"><![CDATA[McConnell froze mid-sentence while addressing reporters on Wednesday.]]></summary>
         <author>
             <name>Ari Blaff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Supreme Court Clears Way for Construction of Mountain Valley Pipeline]]></title>
-        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1522191</id>
-        <link href="https://www.nationalreview.com/news/supreme-court-clears-way-for-construction-of-mountain-valley-pipeline/"/>
-        <updated>2023-07-28T19:23:33.000Z</updated>
-        <summary type="html"><![CDATA[Congress explicitly limited judicial review of the project as part of the debt-ceiling negotiation.]]></summary>
-        <author>
-            <name>Jeff Zymeri</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Right Beach Reads]]></title>
-        <id>https://www.nationalreview.com/?p=1521973</id>
-        <link href="https://www.nationalreview.com/2023/07/the-right-beach-reads/"/>
-        <updated>2023-07-28T14:52:05.000Z</updated>
-        <summary type="html"><![CDATA[There is a small heap of books for the conservative reader to ponder this summer.]]></summary>
-        <author>
-            <name>Michael Brendan Dougherty</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Facebook Complied with White House Demands to Remove Posts Claiming Covid Was Man-Made]]></title>
-        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1521949</id>
-        <link href="https://www.nationalreview.com/news/facebook-complied-with-white-house-demands-to-remove-posts-claiming-covid-was-man-made/"/>
-        <updated>2023-07-28T14:38:16.000Z</updated>
-        <summary type="html"><![CDATA[‘We were under pressure from the administration and others to do more,’ Facebook’s VP of content policy said in an email.]]></summary>
-        <author>
-            <name>Ari Blaff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vermont Law Violates First Amendment Rights of Pro-Life Pregnancy Centers, Lawsuit Alleges]]></title>
-        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1521536</id>
-        <link href="https://www.nationalreview.com/news/vermont-law-violates-first-amendment-rights-of-pro-life-pregnancy-centers-lawsuit-alleges/"/>
-        <updated>2023-07-28T13:30:44.000Z</updated>
-        <summary type="html"><![CDATA[Plaintiffs say the law will limit the services the centers can provide and shut down their ability to communicate with clients on critical topics.]]></summary>
-        <author>
-            <name>Ryan Mills</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘No Silver Lining’ to Slavery: Tim Scott Chides DeSantis over Florida Social-Studies Curriculum]]></title>
-        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1521917</id>
-        <link href="https://www.nationalreview.com/news/no-silver-lining-to-slavery-tim-scott-chides-desantis-over-florida-social-studies-curriculum/"/>
-        <updated>2023-07-28T12:21:58.000Z</updated>
-        <summary type="html"><![CDATA[‘People have bad days. Sometimes they regret what they say, and we should ask them again to clarify their positions,’ Scott said of DeSantis.]]></summary>
-        <author>
-            <name>Ari Blaff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chromebook 漫游指南 (2023)]]></title>
-        <id>https://sspai.com/prime/story/chromebook-in-2023</id>
-        <link href="https://sspai.com/prime/story/chromebook-in-2023"/>
-        <updated>2023-07-28T12:03:33.000Z</updated>
-        <summary type="html"><![CDATA[能用一个浏览器搞定一切是一件多么理想主义的事，而现在能用 Chromebook 一台设备搞定的事情也越来越多了。查看全文
-本文为会员文章，出自《单篇文章》，订阅后可阅读全文。]]></summary>
-        <author>
-            <name>nemofq</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[天鹅座飞船即将发射]]></title>
-        <id>https://m.idai.ly/se/5599Pq</id>
-        <link href="https://m.idai.ly/se/5599Pq"/>
-        <updated>2023-07-28T11:59:00.000Z</updated>
-        <summary type="html"><![CDATA[美国安塔瑞斯运载火箭搭载「天鹅座」货运飞船准备运往发射场，佛罗里达州。这是「天鹅座」货运飞船2023年度首次执行空间站补给任务，计划发射时间为8月1日晚8点31分，预计向国际空间站运送约3.7吨货物。任务主要载荷为太空实验设备和宇航员补给物资，包括一台太空饮水机、大气层等离子体探测仪、神经细胞实验样本等。摄影师：NASA]]></summary>
-        <author>
-            <name>iDaily 每日环球视野</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[意大利总理访问美国]]></title>
-        <id>https://m.idai.ly/se/775Z8v</id>
-        <link href="https://m.idai.ly/se/775Z8v"/>
-        <updated>2023-07-28T10:57:00.000Z</updated>
-        <summary type="html"><![CDATA[美国总统 Joe Biden 与意大利总理 Giorgia Meloni 举行会晤，华盛顿白宫。7月27日，意大利总理 Meloni 上任以来首次访问美国，两国领导人就双边关系、俄乌冲突、对华政策等议题进行讨论。双方会后发表联合声明一致谴责俄罗斯退出《黑海谷物倡议》，重申将继续向乌克兰提供支持，并就中国带来的机遇和挑战加强对话磋商。Meloni 表示双方就意大利参与中国「一带一路」倡议交换意见，强调意大利对华政策不受美国影响，与中国建立平衡关系和建设性对话至关重要。摄影师：Yuri Gripas]]></summary>
-        <author>
-            <name>iDaily 每日环球视野</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[印尼总统访问中国]]></title>
-        <id>https://m.idai.ly/se/00cpEW</id>
-        <link href="https://m.idai.ly/se/00cpEW"/>
-        <updated>2023-07-28T10:55:00.000Z</updated>
-        <summary type="html"><![CDATA[中国国家主席习近平与印度尼西亚总统 Joko Widodo 举行会晤，成都。7月27日，印尼总统 Jokowi 应邀访问中国并出席成都大运会开幕式，两国领导人就地区和国际问题交换意见，见证签署多项双边合作文件。习近平表示中方愿同印尼保持经常性战略沟通，支持印尼新首都建设并继续扩大印尼大宗商品和农产品进口。印尼总统 Jokowi 表示中方参与的印尼战略性项目进展顺利，两国关系取得实质进展，印尼坚定奉行一个中国政策，愿进一步促进两国全面战略伙伴关系发展。中国是印尼第一大贸易伙伴和第二大投资来源国，2022年双边贸易额为1491亿美元，同比增长19.8%。摄影师：Yin Bogu]]></summary>
-        <author>
-            <name>iDaily 每日环球视野</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第2届俄罗斯-非洲峰会]]></title>
-        <id>https://m.idai.ly/se/daaEqX</id>
-        <link href="https://m.idai.ly/se/daaEqX"/>
-        <updated>2023-07-28T10:53:00.000Z</updated>
-        <summary type="html"><![CDATA[第2届俄罗斯-非洲峰会，俄罗斯总统 Vladimir Putin 迎接来访的布基纳法索总统 Umaro Sissoco Embalo，圣彼得堡。7月27日，Putin 宣布俄罗斯未来4个月将向布基纳法索、津巴布韦、马里、索马里、中非和厄立特里亚6个非洲国家分别免费提供2.5万至5万吨粮食。Putin 表示俄方支持非盟加入G20集团，愿与非洲建立真正的战略协作伙伴关系。2022年俄罗斯与非洲双边贸易达到180亿美元，2023年上半年增幅达35%。摄影师：Sergei Bobylyov]]></summary>
-        <author>
-            <name>iDaily 每日环球视野</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中俄代表团访问朝鲜]]></title>
-        <id>https://m.idai.ly/se/f1eVLd</id>
-        <link href="https://m.idai.ly/se/f1eVLd"/>
-        <updated>2023-07-28T10:51:00.000Z</updated>
-        <summary type="html"><![CDATA[朝鲜最高领导人金正恩向俄罗斯国防部长 Sergei Shoigu 介绍该国自主制造的武器装备，平壤。7月26日，金正恩陪同俄军事代表团参观朝鲜「火星-18」型洲际弹道导弹、高空战略无人侦察机、多功能攻击无人机等国产装备。俄罗斯防长 Shoigu 向金正恩转交俄总统普京的亲署信函和礼物，表示俄罗斯计划继续与朝鲜发展国防领域的战略战术协同合作。摄影师：KCNA]]></summary>
-        <author>
-            <name>iDaily 每日环球视野</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[朝鲜停战协定70周年]]></title>
-        <id>https://m.idai.ly/se/57c0JN</id>
-        <link href="https://m.idai.ly/se/57c0JN"/>
-        <updated>2023-07-28T10:49:00.000Z</updated>
-        <summary type="html"><![CDATA[瑞士中立国监督委员会代表向韩国政府代表移交《朝鲜停战协定》副本，坡州市。7月27日是《朝鲜停战协定》签署70周年纪念日。该协定于1953年由朝鲜、中国和联合国三方签署，规定朝鲜和韩国无限期停止军事冲突行为并建立军事分界线，「中立国监督委员会」即负责监督朝韩遵守停战协定的主要机构。《朝鲜停战协定》原件由朝鲜、中国和美国保存，瑞士作为中立国委员会成员保存的协定副本将以无偿租借的形式移交韩国。摄影师：iDaily Media]]></summary>
-        <author>
-            <name>iDaily 每日环球视野</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国高温天气破纪录]]></title>
-        <id>https://m.idai.ly/se/de7Nsi</id>
-        <link href="https://m.idai.ly/se/de7Nsi"/>
-        <updated>2023-07-28T10:47:00.000Z</updated>
-        <summary type="html"><![CDATA[广州长隆野生动物世界，大熊猫趴在冰块上消暑。7月28日，广东省广州持续遭遇高温天气，最高气温达到36.2℃。中国气象局公布信息显示本年度全国已出现6次区域性高温天气，26个国家气象站日最高气温突破历史极值，北京、天津、河北、新疆4个省区市经历有记录以来最热6月，预计8月份还将迎来4波高温。中国2023年度入夏以来用电负荷再创历史新高，最高峰值达到13.39亿千瓦。摄影师：Chen Jimin]]></summary>
-        <author>
-            <name>iDaily 每日环球视野</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[梵净山云雾景观]]></title>
-        <id>https://m.idai.ly/se/b36jlx</id>
-        <link href="https://m.idai.ly/se/b36jlx"/>
-        <updated>2023-07-28T10:45:00.000Z</updated>
-        <summary type="html"><![CDATA[贵州梵净山「红云金顶」被云雾笼罩。梵净山是武陵山脉的主峰，海拔高度2572米，主体变质岩形成于10亿年前，在喜马拉雅运动作用下形成穹隆状的孤岛地貌。梵净山在2018年被列入世界自然遗产名录，主要景点「红云金顶」由两座孤峰组成，分别建有佛教寺殿，中间由天桥连接，每年吸引超过100万游客参观。摄影师：iDaily Media]]></summary>
-        <author>
-            <name>iDaily 每日环球视野</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Deliberate Speed of ‘Fast Car’]]></title>
-        <id>https://www.nationalreview.com/?p=1521721</id>
-        <link href="https://www.nationalreview.com/2023/07/the-deliberate-speed-of-fast-car/"/>
-        <updated>2023-07-28T10:30:58.000Z</updated>
-        <summary type="html"><![CDATA[Luke Combs revives Tracy Chapman’s native aspirations.]]></summary>
-        <author>
-            <name>Armond White</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A ‘fake Midwest’? &c.]]></title>
-        <id>https://www.nationalreview.com/?p=1521349</id>
-        <link href="https://www.nationalreview.com/2023/07/a-fake-midwest-c/"/>
-        <updated>2023-07-28T10:30:39.000Z</updated>
-        <summary type="html"><![CDATA[On Michigan, Kansas, Cuba, Rudy Giuliani, RFK Jr., Joe Burrow, Babe Ruth, Shohei Ohtani, Art Carney, Cher, and more.]]></summary>
-        <author>
-            <name>Jay Nordlinger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Relating Black History without History]]></title>
-        <id>https://www.nationalreview.com/?p=1521795</id>
-        <link href="https://www.nationalreview.com/2023/07/relating-black-history-without-history/"/>
-        <updated>2023-07-28T10:30:33.000Z</updated>
-        <summary type="html"><![CDATA[Critics of Florida’s African-American history curriculum willfully misunderstand it.]]></summary>
-        <author>
-            <name>William B. Allen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[No Amount of Prudence Will Appease Opponents of Israel’s Judicial Reform]]></title>
-        <id>https://www.nationalreview.com/?p=1521804</id>
-        <link href="https://www.nationalreview.com/2023/07/no-amount-of-prudence-will-appease-opponents-of-israels-judicial-reform/"/>
-        <updated>2023-07-28T10:30:25.000Z</updated>
-        <summary type="html"><![CDATA[Those who believe that objections to the reforms are based simply on a preference for methodical change are ignoring the glaring evidence.]]></summary>
-        <author>
-            <name>Natan Ehrenreich</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Biden Considers Cutting Off America’s Best Uranium Resources Even as He Pushes to Eliminate Fossil Fuels]]></title>
-        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1521220</id>
-        <link href="https://www.nationalreview.com/news/biden-considers-cutting-off-americas-best-uranium-resources-even-as-he-pushes-to-eliminate-fossil-fuels/"/>
-        <updated>2023-07-28T10:30:22.000Z</updated>
-        <summary type="html"><![CDATA[Biden is considering designating a national monument in Arizona that would prohibit mining on 1.1 million acres of uranium-rich land.]]></summary>
-        <author>
-            <name>Haley Strack</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Protecting the Bidens]]></title>
-        <id>https://www.nationalreview.com/?p=1521815</id>
-        <link href="https://www.nationalreview.com/2023/07/protecting-the-bidens/"/>
-        <updated>2023-07-28T10:30:18.000Z</updated>
-        <summary type="html"><![CDATA[The Washington cliché is that it’s the cover-up, not the crime. In this case, it might be both.]]></summary>
-        <author>
-            <name>The Editors</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How One Income-Tax Policy Screwed Up American Health Care]]></title>
-        <id>https://www.nationalreview.com/?p=1521616</id>
-        <link href="https://www.nationalreview.com/2023/07/how-one-income-tax-policy-screwed-up-american-health-care/"/>
-        <updated>2023-07-28T10:30:01.000Z</updated>
-        <summary type="html"><![CDATA[Excluding employer-provided health coverage from the income-tax base contributes to all sorts of problems with U.S. health care.]]></summary>
-        <author>
-            <name>Dominic Pino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[本周看什么 | 最近值得一看的 8 部作品]]></title>
-        <id>https://sspai.com/post/81569</id>
-        <link href="https://sspai.com/post/81569"/>
-        <updated>2023-07-28T09:54:19.000Z</updated>
-        <summary type="html"><![CDATA[☕️TL;DR近期佳作推荐：[电影]封神第一部：朝歌风云、[英剧]好兆头第二季、[美剧]吸血鬼生活第五季、[美剧]火线警探：原始城市、[日剧]隼消防团、[动画]时光代理人第二季、[动画]勇者赫鲁库、[ ...查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7月可能成为地球有记录以来最热月份，异常变暖仍在继续]]></title>
-        <id>https://cn.nytimes.com/climate/20230728/july-heat-hottest-month/dual</id>
-        <link href="https://cn.nytimes.com/climate/20230728/july-heat-hottest-month/dual"/>
-        <updated>2023-07-28T08:06:03.000Z</updated>
-        <summary type="html"><![CDATA[RAYMOND ZHONG2023年7月28日本月来到凤凰城一个乘凉场所乘凉的人。 Ross D. Franklin/Associated Press
-Weeks of scorching summer heat in North America, Europe, Asia and elsewhere are putting July on track to be Earth’s warmest month on record, the European Union climate monitor said on Thursday, the latest milestone in what is emerging as an extraordinary year for global temperatures.
-欧盟气候监测机构周四表示，北美、欧洲、亚洲和其他地区持续数周的酷暑使7月可能成为地球有记录以来最热的一个月，这将成为这个全球气温异常之年的最新里程碑。
-Last month, the planet experienced its hottest June since records began in 1850. July 6 was its hottest day. And the odds are rising that 2023 will end up displacing 2016 as the hottest year. At the moment, the eight warmest years on the books are the past eight.
-上个月，地球经历了自1850年有记录以来最热的6月。7月6日是最热的一天。2023年取代2016年成为最热年份的可能性正在上升。目前，记录上最热的八年正是过去的八年。
-“The extreme we…]]></summary>
-        <author>
-            <name>纽约时报双语版</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[杨靖｜作家贝蒂娜：“她比歌德更伟大”]]></title>
-        <id>https://www.thepaper.cn/newsDetail_forward_23958782</id>
-        <link href="https://www.thepaper.cn/newsDetail_forward_23958782"/>
-        <updated>2023-07-28T08:02:14.000Z</updated>
-        <summary type="html"><![CDATA[贝蒂娜·冯·阿尼姆（Bettina von Arnim，1785-1859）是德国历史上的一位传奇人物，被誉为“德国第一位现代女性”。她不仅是著名作家和作曲家，也是社会活动家。她的交游广泛，其朋友圈既有歌德、贝多芬这样的文化名人，又有施莱尔马赫、格林兄弟等浪漫派作家，甚至包括普鲁士国王威廉四世和卡尔·马克思。据考证，在流亡欧洲之前，马克思曾应邀造访贝蒂娜府邸，与之一同漫步，纵论时事。1848年革命前后，贝蒂娜发表一系列思想激进的政论文，被称为“马克思主义诞生之前的马克思主义者”——或许和当年的晤谈不无关系。
-
-贝蒂娜·冯·阿尼姆（Bettina von Arnim，1785-1859）
-
-贝蒂娜出身名门，具有惊人的艺术天赋。1806年到1808年间，贝蒂娜协助两位崭露头角的浪漫派诗人克莱门斯·布伦塔诺和阿希姆·冯·阿尼姆收集民谣——前者是她的兄长，后者是她未来的丈夫——后来他们将这些民谣汇编成册，取名《儿童的神奇号角》。其中一些民谣被古斯塔夫·马勒谱成乐曲，传唱一时。事实上，长期以来，这部民谣集也被视为德国浪漫主义时期音乐和诗歌风格的“试金石”。
-1808年至1809年间，贝蒂娜在慕尼黑学习钢琴、声乐和作曲，师从音乐大师博普（Sebastian Bopp）。贝蒂娜在创作风格上独树一帜：她尝试将民间曲调与历史主题合二为一，通过对和声编排、乐句长度与即兴创作的革新，赋予作品以时代风格——她率先为浪漫派先驱荷尔德林诗作谱曲，取得了上佳的艺术效果。当时乐坛诸多名家如舒曼夫妇、门德尔松姐弟、李斯特及勃拉姆斯等对她的才华推崇备至。1853年，舒曼将他最后一部钢琴套曲《晨歌》（Gesänge der Frühe op.133）献给“至高的女诗人”贝蒂娜，后者在乐坛地位之尊崇，由此可见一斑。
-与她在音乐界的赫赫声名相比，身为作家的贝蒂娜在五十岁之前可谓籍籍无名。但谁也没有料到，她在1835…]]></summary>
-        <author>
-            <name>上海书评</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Matrix 圆桌 | 入手 Apple Watch 之后，它给我的生活带来了什么改变？]]></title>
-        <id>https://sspai.com/post/81552</id>
-        <link href="https://sspai.com/post/81552"/>
-        <updated>2023-07-28T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[作为 Apple Watch 用户，如果它也曾为你的生活带来了一些改变，欢迎在评论区与我们分享你的故事。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《奥本海默》观影指南：主要人物和历史事件解析]]></title>
-        <id>https://cn.nytimes.com/culture/20230728/oppenheimer-cast-real-life/dual</id>
-        <link href="https://cn.nytimes.com/culture/20230728/oppenheimer-cast-real-life/dual"/>
-        <updated>2023-07-28T07:36:03.000Z</updated>
-        <summary type="html"><![CDATA[CHRISTOPHER KUO2023年7月28日J·罗伯特·奥本海默，摄于1963年。此时离他的安全权限被撤销已过去10年，这一决定于去年被宣布无效。 Associated Press
-The premise of “Oppenheimer,” Christopher Nolan’s biopic, is straightforward: tell the story of J. Robert Oppenheimer, the physicist known as the “father of the atomic bomb.” But, as with the director’s other movies, the execution is far from simple. The film skips between time periods, and it features a dizzying array of scientists, politicians and possible Communist agents amid a series of government hearings.
-克里斯托弗·诺兰的传记片《奥本海默》的基本设定很简单：讲述被誉为“原子弹之父”的物理学家J·罗伯特·奥本海默的故事。但是，与这位导演的其他电影一样，该片的呈现过程绝非简单。这部电影在不同的时代之间跳跃，在一连串政府听证会中出现了一系列令人眼花缭乱的科学家、政治人士和疑似共产党特工。
-Here’s a guide to help you keep track of the real-life characters and events of the movie.
-以下这份指南可以帮助你了解电影中出现的真实人物和事件。
-J. Robert Oppenheimer (played…]]></summary>
-        <author>
-            <name>纽约时报双语版</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[城市收藏夹 | 圣地巡礼，这是我期待已久的东京推理之旅]]></title>
-        <id>https://sspai.com/post/81315</id>
-        <link href="https://sspai.com/post/81315"/>
-        <updated>2023-07-28T06:36:10.000Z</updated>
-        <summary type="html"><![CDATA[作为一名推理小说迷，我不仅喜欢阅读推理小说，还热衷于探访和推理小说有关的景点，去世界各地圣地巡礼。在《推理》杂志停刊之前，我在杂志上发表过《美国推理之旅》，后来也在我们的播客「波罗咖啡馆」中介绍过《英 ...查看全文]]></summary>
-        <author>
-            <name>Sholmes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[朝鲜战争停战70周年：照片中的冲突、离散与伤痛]]></title>
-        <id>https://cn.nytimes.com/asia-pacific/20230728/korean-war-armistice-anniversary/dual</id>
-        <link href="https://cn.nytimes.com/asia-pacific/20230728/korean-war-armistice-anniversary/dual"/>
-        <updated>2023-07-28T06:36:03.000Z</updated>
-        <summary type="html"><![CDATA[CHOE SANG-HUN2023年7月28日 Myeongdong Lee
-The Korean War broke out when a Soviet-backed, Communist North invaded the pro-American southern territory of the Korean Peninsula in 1950, leading to one of the most harrowing conflicts of the 20th century and setting the tone of the Cold War in Asia.
-1950年，苏联支持的共产主义朝鲜入侵亲美的朝鲜半岛南部领土，爆发朝鲜战争，导致了20世纪最惨烈的军事冲突之一，并为亚洲的冷战奠定了基调。
-Despite American officials who initially described the Communist invaders as little more than “bandits,” the war dragged on for three disastrous years. Troops from both sides massacred civilians. Rival villagers slaughtered each other. The American-led United Nations forces suffered a crushing defeat when the North Koreans swept down the peninsula in 1950, occupying Seoul, the South Korean capital, before they were pushed back to the …]]></summary>
-        <author>
-            <name>纽约时报双语版</name>
         </author>
     </entry>
 </feed>
