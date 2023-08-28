@@ -6,6 +6,16 @@
       "siteUrl": "https://rweekly.org/atom.xml",
       "articles": [
         {
+          "id": "https://rweekly.org/2023-W35.html",
+          "author": null,
+          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Eric Nantz, with help from the R Weekly team members and contributors.\nHighlight\n{S7} 0.1.0: An Object Oriented System Meant to Become a Successor to S3 and S4\nCreating template files with R\nA Gradual Introduction to Web APIs and JSON\nInsights\nDo more with Excel with openxlsx2 v1.0 Create cool things in Excel\nrOpenSci News Digest, August 2023\nR in the Real World\nTime Series Forecasting by Comparing Many Models: EUR/TRY Rates\nR in Academia\nWedding Bayesian and Frequentist Designs Created a Mess\nResources\nTalk on ‘Explainable deep learning for actuarial modelling’\nExploring Data Distribution in R: A Comprehensive Guide\n\nA Gradual Introduction to Web APIs and JSON\nNew Packages\n…",
+          "link": "https://rweekly.org/2023-W35.html",
+          "publishedOn": "2023-08-28T00:00:00.000Z",
+          "wordCount": 6254,
+          "title": "R Weekly 2023-W35 S7 0.1.0, Template Files, Web APIs",
+          "imageUrl": "https://rweekly.org/public/facebook.png"
+        },
+        {
           "id": "https://rweekly.org/2023-W34.html",
           "author": null,
           "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Jonathan Carroll, with help from the RWeekly team members and contributors.\nHighlight\nBest Practices for Data Cleaning and Preprocessing\nAnalyzing new USDA data using open source tools\nTaking from Infinite Sequences\nInsights\nObject of type closure can shut up\nBest Practices for Data Cleaning and Preprocessing\nwebR 0.2.0 has been released\n\nTaking from Infinite Sequences\nPythagorean Triples with Comprehensions\nAnalyzing new USDA data using open source tools\nLittle useless-useful R functions – Goldbach’s conjecture and Sieve of Sundaram\nCan a Simple Multi-Agent Model Replicate Complex Stock Market Behaviour?\nCopernicus OpenEO NDVI time series\n\nHow to Sum Rows in R: Master Summi…",
@@ -52,6 +62,16 @@
       "feedUrl": "https://feedx.net/rss/shanghaishuping.xml",
       "siteUrl": "http://thepaper.cn",
       "articles": [
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_24354332",
+          "author": null,
+          "description": "《人类世的“资本论”》，【日】斋藤幸平著，王盈译，上海译文出版社，2023年6月\n\n日本学者斋藤幸平的《人类世的“资本论”》中文译本，新近在国内出版。据报道，这本书于2020年9月出版，至2023年年初，在日本销量超过五十万册。一些日本媒体据此认为，日本社会正掀起一股马克思主义风潮，斋藤幸平被很多人誉为新一代马克思主义代言人。\n“人类世 ”（Anthropocene）是一个不大常用且很隐晦的词，日文译为“人新世”，它是由诺贝尔奖得主、荷兰大气化学家保罗·克鲁岑于2000年提出的，意为人类活动的痕迹完全覆盖整个地球表面的年代。\n斋藤幸平生于1987年，2015年从德国柏林洪堡大学获得了哲学博士学位，论文题目是《自然反对资本：马克思的生态学——未竟的资本主义批判》。读博士期间，他参与了编辑《马克思恩格斯全集》历史考证版第二版（MEGA2）的工作，阅读了很多马克思研究生态环境问题的相关资料。2017年，斋藤幸平以博士论文为基础，在美国出版了《卡尔·马克思的生态社会主义：资本主义、自然与未竟的政治经济学批判》一书，跻身于西方生态马克思主义学派青年学者之列。\n自二十世纪六七十年代西方国家环境问题引起全世界关注以来，“马克思是否有生态思想”这个问题在马克思主义思想传统内外激起热烈的争论。从西方生态马克思主义思想内容看，其理论路径体现为两个方面：其一，是回到马恩文本，发掘其中的生态哲学内蕴，并在此基础上对马克思主义进行某种生态思想维度的辩护；其二，西方生态马克思主义也抱有一种发展马克思主义或重构马克思主义的理念，即希望将生态这一维度引入马克思主义的传统中。毕竟，在马克思的时代，生态学也不过是刚刚起步的新科学，生态环境也没有遭遇到今天这样的危机。因此，生态马克思主义所进行的理论建构是将马克思主义作为一种视角和方法，来审视生态环境的诸多问题（《西方生态马克思主义的发展与当代嬗变》，中国社会科…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_24354332",
+          "publishedOn": "2023-08-28T04:02:08.000Z",
+          "wordCount": 94,
+          "title": "宿景祥评《人类世的“资本论”》| 马克思的武器库",
+          "imageUrl": null
+        },
         {
           "id": "https://www.thepaper.cn/newsDetail_forward_24378167",
           "author": null,
@@ -4624,106 +4644,6 @@
           "wordCount": 8199,
           "title": "How to Ruin a Fairytale",
           "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/07/snow-white-book.jpg?fit=1200%2C700&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1522494",
-          "author": "Brittany Bernstein",
-          "description": "New York and California saw the largest loss of tax income from migration of any states, according to a new study of IRS migration data.",
-          "link": "https://www.nationalreview.com/news/new-york-california-had-largest-loss-of-tax-income-of-any-states-due-to-outmigration/",
-          "publishedOn": "2023-07-29T19:04:38.000Z",
-          "wordCount": 8215,
-          "title": "New York, California Had Largest Loss of Tax Income of Any States due to Outmigration",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/07/SF-NY-skylines.jpg?fit=1200%2C700&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1522419",
-          "author": "Brittany Bernstein",
-          "description": "The judge dismissed the lawsuit with prejudice, which means the former president cannot file another lawsuit under the same argument.",
-          "link": "https://www.nationalreview.com/news/judge-dismisses-trumps-defamation-lawsuit-against-cnn/",
-          "publishedOn": "2023-07-29T16:20:39.000Z",
-          "wordCount": 7999,
-          "title": "Judge Dismisses Trump’s Defamation Lawsuit against CNN",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/05/donald-trump-cnn-town-hall-2.jpg?fit=1200%2C700&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1522395",
-          "author": "Brittany Bernstein",
-          "description": "Navy Joan Roberts was born in 2018 after Hunter Biden had an affair with former stripper Lunden Roberts.",
-          "link": "https://www.nationalreview.com/news/biden-publicly-acknowledges-seventh-grandchild-for-the-first-time-this-is-not-a-political-issue/",
-          "publishedOn": "2023-07-29T14:23:08.000Z",
-          "wordCount": 6894,
-          "title": "Biden Publicly Acknowledges Seventh Grandchild for the First Time: ‘This Is Not a Political Issue’",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/05/Hunter-and-Joe.jpg?fit=1200%2C700&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1522371",
-          "author": "Brittany Bernstein",
-          "description": "‘One of the things we need in our elected leaders: To tell the truth, even if it’s not popular,’ the congressman said.",
-          "link": "https://www.nationalreview.com/news/will-hurd-booed-for-saying-trump-is-running-to-stay-out-of-prison/",
-          "publishedOn": "2023-07-29T13:40:55.000Z",
-          "wordCount": 8372,
-          "title": "Will Hurd Booed for Saying Trump Is Running to Stay Out of Prison",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2019/11/will-hurd-impeachment-hearing.jpg?fit=1200%2C700&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1522365",
-          "author": "Saul Anuzis",
-          "description": "Congress should do everything in its power to make it easier for the American people to save for retirement while maximizing their returns.",
-          "link": "https://www.nationalreview.com/2023/07/leveling-the-retirement-playing-field/",
-          "publishedOn": "2023-07-29T12:21:04.000Z",
-          "wordCount": 8524,
-          "title": "Leveling the Retirement Playing Field",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2019/08/100-bills-calculator.jpg?fit=1200%2C700&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1522039",
-          "author": "Matthew Continetti",
-          "description": "Mike Gallagher, chairman of the House Select Committee on China, urges us to learn from a forgotten war.",
-          "link": "https://www.nationalreview.com/2023/07/the-korean-wars-lessons-for-americas-contest-with-china/",
-          "publishedOn": "2023-07-29T10:30:54.000Z",
-          "wordCount": 9182,
-          "title": "The Korean War’s Lessons for America’s Contest with China",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/07/army-first-cavalry-korea.jpg?fit=1200%2C700&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1521626",
-          "author": "Brian T. Allen",
-          "description": "The first exhibition at its temporary space doesn’t inspire pride or treat cultural diversity.",
-          "link": "https://www.nationalreview.com/2023/07/smithsonian-peddles-racism-and-hate-at-the-museum-of-the-american-latino/",
-          "publishedOn": "2023-07-29T10:30:52.000Z",
-          "wordCount": 10386,
-          "title": "Smithsonian Peddles Racism and Hate at the Museum of the American Latino",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/07/oneb.jpg?fit=1200%2C700&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1522061",
-          "author": "John Gustavsson",
-          "description": "Sweden erred by accepting too many immigrants, regardless of economic demand, who were forced by NIMBYism into ethnically segregated enclaves.",
-          "link": "https://www.nationalreview.com/2023/07/the-lessons-for-america-in-swedens-immigration-failures/",
-          "publishedOn": "2023-07-29T10:30:37.000Z",
-          "wordCount": 10258,
-          "title": "What America Can Learn from Sweden’s Immigration Failures",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2018/03/sweden-migrants-2015.jpg?fit=1200%2C700&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1522032",
-          "author": "Kenny Xu",
-          "description": "We need education about prejudice and discrimination that empowers young minority children, rather than flattening them into an attitude of victimhood.",
-          "link": "https://www.nationalreview.com/2023/07/critical-theory-doesnt-empower-students/",
-          "publishedOn": "2023-07-29T10:30:36.000Z",
-          "wordCount": 15631,
-          "title": "Critical Race Theory Doesn’t Empower Students",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2021/07/classroom-desks.jpg?fit=1200%2C700&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1522206",
-          "author": "Andrew C. McCarthy",
-          "description": "Is a special counsel really worse than a politicized Justice Department? That depends.",
-          "link": "https://www.nationalreview.com/2023/07/a-special-counsel-for-hunter-biden-and-his-family-business/",
-          "publishedOn": "2023-07-29T10:30:07.000Z",
-          "wordCount": 8559,
-          "title": "A Special Counsel for Hunter Biden and His Family Business?",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/07/hunter-biden-fort-mcnair.jpg?fit=1200%2C700&ssl=1"
         }
       ]
     },
@@ -4732,6 +4652,26 @@
       "feedUrl": "https://sspai.com/feed",
       "siteUrl": "https://sspai.com",
       "articles": [
+        {
+          "id": "https://sspai.com/post/82166",
+          "author": "Gerley",
+          "description": "快捷指令自推出解决了很多我的个人需求，不过作为低代码编程工具，它仍然有很多不足。然而某一天晚上我突然想到了「修饰键」。查看全文",
+          "link": "https://sspai.com/post/82166",
+          "publishedOn": "2023-08-28T03:36:23.000Z",
+          "wordCount": 830,
+          "title": "融合「修饰键」思路，让快捷指令更容易管理",
+          "imageUrl": "https://cdn.sspai.com/2023/08/23/b2e10a3a751d96c0f48c693747c6f97c.png"
+        },
+        {
+          "id": "https://sspai.com/post/82469",
+          "author": "少数派编辑部",
+          "description": "你可能错过的新鲜事数字服务法在欧生效，大平台义务加重8月25日，于去年4月获得批准、旨在监管在线内容的欧盟《数字服务法》（DigitalServicesAct,Regulation(EU)2022/2 ...查看全文",
+          "link": "https://sspai.com/post/82469",
+          "publishedOn": "2023-08-28T00:52:46.000Z",
+          "wordCount": 873,
+          "title": "派早报：数字服务法在欧生效，信安标委发布 AI 内容标识指南",
+          "imageUrl": "https://cdn.sspai.com/8/27/2023/article/b431b83d-03fd-17f9-0998-b167ba29bc90.png"
+        },
         {
           "id": "https://sspai.com/post/82466",
           "author": "sainho",
@@ -5849,6 +5789,56 @@
       "feedUrl": "https://plink.anyfeeder.com/idaily/today",
       "siteUrl": "https://docs.rsshub.app",
       "articles": [
+        {
+          "id": "https://m.idai.ly/se/6ac6cY",
+          "author": null,
+          "description": "SpaceX 猎鹰9号火箭搭载载人龙飞船发射升空，肯尼迪航天中心。8月26日，载人龙飞船执行第7次宇航员运送任务。这是载人龙飞船首次搭载4个不同国家机构的宇航员，分别为美国宇航员 Jasmin Moghbeli，欧空局宇航员 Andreas Mogensen，日本宇航员古川聪和俄罗斯宇航员 Konstantin Borisov，预计美国东部时间8月27日8时39分抵达并自动对接和谐号节点舱。新一批宇航员将在轨驻留6个月，进行超过200项科学实验。摄影师：Joel Kowsky",
+          "link": "https://m.idai.ly/se/6ac6cY",
+          "publishedOn": "2023-08-27T13:59:00.000Z",
+          "wordCount": 1179,
+          "title": "Crew-7 载人龙飞船发射",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.idai.ly/se/381Ww0",
+          "author": null,
+          "description": "中国常驻联合国副代表耿爽针对日本核污水排海问题发言，纽约。8月25日，耿爽在安理会就日本福岛核污染水排海问题阐明中方立场，中方坚决反对日本政府不顾国际社会质疑和反对，单方面强行启动核污染水排海，公然向全世界转嫁核污染风险，中方敦促日本政府纠正错误决定，立即停止核污染水排海。朝鲜常驻联合国代表谴责日本核污水排海是「反人道的恶性犯罪，让人类安全和海洋环境处于极大危险之中。」日本常驻联合国代表回应称日本核污水「所含放射性物质的浓度低于标准值」。摄影师：Liao Pan",
+          "link": "https://m.idai.ly/se/381Ww0",
+          "publishedOn": "2023-08-27T12:57:00.000Z",
+          "wordCount": 1178,
+          "title": "中国驻联合国代表谴责日本核污水排海",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.idai.ly/se/166fS3",
+          "author": null,
+          "description": "德国斯图加特国际烟花节，人们在观赏烟花表演。8月25日，德国联邦统计局公布2023年第二季度 GDP 环比增长0.0%，家庭消费支出环比增0.0%，出口环比跌-1.1%，这意味着德国经济在2023年第一季度陷入技术性衰退后陷入增长停滞状态，预计第三季度依然无法获得正增长。国际货币基金组织预测德国2023年经济增长率为-0.3%，成为七国集团中唯一面临经济萎缩的国家。摄影师：iDaily Media",
+          "link": "https://m.idai.ly/se/166fS3",
+          "publishedOn": "2023-08-27T11:55:00.000Z",
+          "wordCount": 1178,
+          "title": "德国第二季度经济零增长",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.idai.ly/se/5686BZ",
+          "author": null,
+          "description": "游客们在大英博物馆外排队入场，伦敦。8月25日，英国大英博物馆馆长 Hartwig Fischer 宣布辞职以承担文物失窃案的最终责任。他承认大英博物馆并未采取足够全面的防盗措施，亦未对2021年收到的盗窃警告作出及时回应。大英博物馆官方推测失窃文物数量大约为2000件，绝大多数为「存放在储藏室中的小尺寸文物」，包括公元前15世纪至今的黄金和珠宝制品。由于大英博物馆并未对所有馆藏进行编目登记，目前无法确认失窃文物的完整信息。受本次失窃事件影响，希腊、尼日利亚等国家再次要求大英博物馆归还被掠夺的本国文物。摄影师：Vuk Valcic",
+          "link": "https://m.idai.ly/se/5686BZ",
+          "publishedOn": "2023-08-27T11:53:00.000Z",
+          "wordCount": 1178,
+          "title": "大英博物馆馆长辞职",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.idai.ly/se/bc2IpZ",
+          "author": null,
+          "description": "一对座头鲸母子在巴西维多利亚市附近海域游弋。每年7月至10月是巴西大西洋沿岸水域的最佳观鲸季，座头鲸从极地水域迁徙至低纬度的温暖水域进行交配和繁殖。雌性座头鲸平均每两年生育一次，每胎生1崽，幼崽通常在母亲身边生活6至10个月直至具备独立生存能力。巴西海域的座头鲸数量曾因商业捕猎而大幅减少至仅300至500只，1980年代全球禁止商业捕鲸后逐步恢复至3万只左右。摄影师：Carl De Souza",
+          "link": "https://m.idai.ly/se/bc2IpZ",
+          "publishedOn": "2023-08-27T11:51:00.000Z",
+          "wordCount": 1178,
+          "title": "巴西海域观鲸季",
+          "imageUrl": null
+        },
         {
           "id": "https://m.idai.ly/se/25bgpQ",
           "author": null,
@@ -7878,26 +7868,6 @@
           "wordCount": 1013,
           "title": "SpaceX 发射最重商业卫星",
           "imageUrl": null
-        },
-        {
-          "id": "https://m.idai.ly/se/32bgRd",
-          "author": null,
-          "description": "NASA 公布一张哈勃望远镜拍摄的双鱼座「UGC 12295」棒旋星系照片。这个星系距离地球约1.92亿光年，拥有明亮清晰的中央恒星带和旋臂结构。「UGC 12295」星系曾在2015年发生一次剧烈的超新星爆炸事件，天文学家团队目前正在通过哈勃望远镜的广域相机观察这颗超新星的爆炸残骸和余波。摄影师：NASA",
-          "link": "https://m.idai.ly/se/32bgRd",
-          "publishedOn": "2023-07-29T05:59:00.000Z",
-          "wordCount": 1010,
-          "title": "双鱼座 UGC 12295 星系",
-          "imageUrl": null
-        },
-        {
-          "id": "https://m.idai.ly/se/654RY3",
-          "author": null,
-          "description": "第31届世界大学生夏季运动会开幕式在成都东安湖体育公园举行，中国四川。7月28日，中国国家主席习近平、印尼总统、毛里塔尼亚总统、布隆迪总统、圭亚那总统和格鲁吉亚总理等多国领导人出席成都大运会开幕式。本届大运会从7月28日持续至8月8日，共有来自113个国家、地区的6500名运动员参赛，角逐18个大项、269个小项比赛，预计产生269枚金牌。中国代表团本届共派出411名运动员参赛。摄影师：iDaily Media",
-          "link": "https://m.idai.ly/se/654RY3",
-          "publishedOn": "2023-07-29T04:58:00.000Z",
-          "wordCount": 1007,
-          "title": "成都大运会开幕式",
-          "imageUrl": null
         }
       ]
     },
@@ -7906,6 +7876,26 @@
       "feedUrl": "https://plink.anyfeeder.com/nytimes/dual",
       "siteUrl": "http://nytimes.com",
       "articles": [
+        {
+          "id": "https://cn.nytimes.com/asia-pacific/20230828/fukushima-water-seafood-japan-china/dual",
+          "author": null,
+          "description": "MIKE IVES, JOHN YOON, HISAKO UENO, OLIVIA WANG2023年8月28日上周四，在中国禁止进口所有日本海鲜后，北京一家水产批发市场的商贩和顾客。 Greg Baker/Agence France-Presse — Getty Images\nSeafood is having a bad week in East Asia, which is bad news for a region where it’s a major part of the diet.\n东亚的海鲜市场这周很不景气，对于一个以海鲜为重要饮食的地区来说，这无疑是个坏消息。\nExperts say Japan’s discharge into the ocean of treated radioactive wastewater from the ruined Fukushima nuclear power plant, which began on Thursday, does not and will not pose health risks to people who eat seafood. But even though the scientific evidence bears that out, not everyone is convinced.\n日本从周四开始向海洋排放来自被毁的福岛核电站经过处理的放射性废水，专家表示，这些废水现在不会、将来也不会对吃海鲜的人构成健康风险。但是，即使有科学证据证明这一点，也不是每个人都相信。\nOn Thursday, the Chinese government widened a ban on seafood imports to include all of Japan instead of only some …",
+          "link": "https://cn.nytimes.com/asia-pacific/20230828/fukushima-water-seafood-japan-china/dual",
+          "publishedOn": "2023-08-28T04:06:01.000Z",
+          "wordCount": 1281,
+          "title": "福岛核废水排海后，海鲜还能吃吗",
+          "imageUrl": "https://static01.nyt.com/images/2023/08/25/multimedia/25xp-sushi-beijing-wmgl/25xp-sushi-beijing-wmgl-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/business/20230828/china-economy-confidence/dual",
+          "author": null,
+          "description": "DAISUKE WAKABAYASHI, CLAIRE FU2023年8月28日碧桂园在南通的十里海湾住宅项目包括这个部分建成的游乐园。 Qilai Shen for The New York Times\nEarlier this year, David Yang was brimming with confidence about the prospects for his perfume factory in eastern China.\n今年早些时候，戴维·杨（音）曾对他在华东开的一家香水厂的前景充满了信心。\nAfter nearly three years of paralyzing Covid lockdowns, China had lifted its restrictions in late 2022. The economy seemed destined to roar back to life. Mr. Yang and his two business partners invested more than $60,000 in March to expand production capacity at the factory, expecting a wave of growth.\n在近三年的新冠封控措施导致社会瘫痪之后，中国在2022 年底取消了限制措施。经济似乎注定要复苏。杨先生和他的两名商业伙伴预期业务将出现增长，为扩大产能，他们在今年3月投资了四五十万人民币。\nBut the new business never materialized. In fact, it’s worse. People are not spending, he said, and orders are one-third of what they were fi…",
+          "link": "https://cn.nytimes.com/business/20230828/china-economy-confidence/dual",
+          "publishedOn": "2023-08-28T02:06:01.000Z",
+          "wordCount": 1486,
+          "title": "中国人为什么日渐对经济失去信心",
+          "imageUrl": "https://static01.nyt.com/images/2023/08/25/multimedia/00china-confidence-01-cgqt/00china-confidence-01-cgqt-articleLarge.jpg"
+        },
         {
           "id": "https://cn.nytimes.com/usa/20230825/trumpism-trump-debate-republicans/dual",
           "author": null,
