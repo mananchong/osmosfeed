@@ -44,16 +44,6 @@
           "wordCount": 6270,
           "title": "R Weekly 2023-W33 install.packages(), C code in R, refugees",
           "imageUrl": "https://rweekly.org/public/facebook.png"
-        },
-        {
-          "id": "https://rweekly.org/2023-W32.html",
-          "author": null,
-          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Jon Calder, with help from the R Weekly team members and contributors.\nHighlight\nUsing flexdashboard to create a GitHub Actions-powered YouTube feed\nBuilding Serverless Shiny Apps with webR: A Step-by-Step Guide\nCookbook Polars for R Cookbook to provide solutions to common tasks and problems in using Polars with R. A side-by-side comparison of polars, R base, dplyr, tidyr and data.table packages.\nInsights\nR-Ladies Morelia, Mexico, hosts First Anniversary Event on July 31, 2023\nrOpenSci Champions Pilot Year: Training Wrap-Up\nResources\nCookbook Polars for R Cookbook to provide solutions to common tasks and problems in using Polars with R. A side-by-side comparison of polars, R…",
-          "link": "https://rweekly.org/2023-W32.html",
-          "publishedOn": "2023-08-07T00:00:00.000Z",
-          "wordCount": 5841,
-          "title": "R Weekly 2023-W32 Video flexdashboard, Serverless Shiny, Polars",
-          "imageUrl": "https://rweekly.org/public/facebook.png"
         }
       ]
     },
@@ -401,16 +391,6 @@
           "wordCount": 117,
           "title": "吴嘉龙丨《江村销夏录》书事三题",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_24136045",
-          "author": null,
-          "description": "《他者的起源》，[美]托妮·莫里森著，黄琨译，新经典文化｜南海出版公司，2023年7月出版，211页，59.00元\n\n近日，美国最高法院以六票对三票的投票结果，裁定哈佛大学和北卡罗莱纳大学按照种族进行比例招生的做法违宪，从而推翻了美国高校沿用多年的根本性招生原则。在多数观察者看来，这一裁定影响深远，不仅在于它势必将会改变非裔及拉丁裔学生在高校招生中因身份而普遍受益的局面，使得更多白人及亚裔学生得以跻身名校，更在于它是一次“保守派的胜利”——正如最高法院中的自由派大法官坦吉·布朗·杰克逊所言：“种族主义需要更长的时间才能离开我们。最终，忽视种族只会让它变得更加棘手。”\n从根本上来看，这场裁决所体现的是自上世纪六十年代以来平权运动所代表的“正义”，与普遍意义的“公平”之间的矛盾。而正义与公平之间的矛盾，很大程度上在于“视差之见”——“我们总在两点之间变换视角，而两点之间，绝不存在任何综合和调停的可能”（[斯洛文尼亚]齐泽克：《视差之见》，季光茂译，浙江大学出版社，2014年，第3页）。于是自我之外皆是他者：满眼平权措施带来逆向歧视的公平主义者看不到——或拒绝看到——历史与现实中长期不平等对个体与群体造成的桎梏；而另一边，基于苦难叙事的“正义”亦有被滥用的可能。\n在一个越发撕裂的世界阅读托妮·莫里森，尤其是她最新译介到中文世界的文集《他者的起源》，或许可以为我们骑虎难下的现实提供某种新思路。这部文集主要收录三篇作品：短篇小说《宣叙调》（Recitatif）首次发表于1983年，莫里森有意模糊了两位主角的族裔身份，以此探讨她们——以及读者——在现实与记忆中的自我构建；另有两篇由她的哈佛讲座编辑扩充而成的论文《在黑暗中游戏》（Playing in the Dark, 1993）与《他者的起源》（The Origin of Others, 2016）。于前者莫里森提出了其重要概念“非洲…",
-          "link": "https://www.thepaper.cn/newsDetail_forward_24136045",
-          "publishedOn": "2023-08-07T04:02:13.000Z",
-          "wordCount": null,
-          "title": "暗蓝评《他者的起源》｜“他者化”的用途与滥用",
-          "imageUrl": null
         }
       ]
     },
@@ -425,6 +405,116 @@
       "feedUrl": "https://www.nationalreview.com/feed/",
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1537536",
+          "author": "Ari Blaff",
+          "description": "McConnell was first elected in 1984 and became the longest serving Republican in the Senate this January.",
+          "link": "https://www.nationalreview.com/news/capitol-hill-doctor-rules-out-stroke-seizure-disorder-after-examining-mcconnell/",
+          "publishedOn": "2023-09-05T16:25:53.000Z",
+          "wordCount": 7787,
+          "title": "Capitol Hill Doctor Rules Out Stroke, Seizure Disorder after Examining McConnell",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1537498",
+          "author": "David Zimmermann",
+          "description": "An email obtained following a FOIA lawsuit reveals that Fauci’s aide briefed him on the NIH’s ties to the Wuhan lab in January 2020.",
+          "link": "https://www.nationalreview.com/news/fauci-knew-nih-funded-wuhans-gain-of-function-research-as-pandemic-began-email-reveals/",
+          "publishedOn": "2023-09-05T16:19:12.000Z",
+          "wordCount": 7971,
+          "title": "Fauci Knew NIH Funded Wuhan’s Gain-of-Function Research as Pandemic Began, Email Reveals",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2022/10/Anthony-Fauci-4.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1537508",
+          "author": "Andrew C. McCarthy",
+          "description": "If there were, the Justice Department would already have brought charges against him.",
+          "link": "https://www.nationalreview.com/2023/09/there-is-no-insurrection-case-against-trump/",
+          "publishedOn": "2023-09-05T15:27:14.000Z",
+          "wordCount": 9186,
+          "title": "There Is No Insurrection Case against Trump",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2021/02/trump.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1537514",
+          "author": "Charles C. W. Cooke",
+          "description": "It took me a while to let go of my English disdain for the sport, but one day — it just clicked.",
+          "link": "https://www.nationalreview.com/2023/09/how-american-football-won-me-over/",
+          "publishedOn": "2023-09-05T15:26:24.000Z",
+          "wordCount": 8620,
+          "title": "How ‘American Football’ Won Me Over",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2022/11/top-shots-111822-2.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1537465",
+          "author": "David Zimmermann",
+          "description": "This is the first time since the first GOP presidential debate in late August that Haley is seen tied with DeSantis in a poll.",
+          "link": "https://www.nationalreview.com/news/nikki-haley-catches-desantis-in-new-hampshire-gop-primary-poll/",
+          "publishedOn": "2023-09-05T12:53:29.000Z",
+          "wordCount": 7807,
+          "title": "Nikki Haley Catches DeSantis in New Hampshire GOP Primary Poll",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/09/Nikki-Haley-2.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1536364",
+          "author": "Neetu Arnold",
+          "description": "The controversial social-media company gave millions to several universities, who until recently failed to properly disclose the gifts.",
+          "link": "https://www.nationalreview.com/2023/09/tiktoks-secret-effort-to-influence-american-higher-education/",
+          "publishedOn": "2023-09-05T10:30:53.000Z",
+          "wordCount": 8476,
+          "title": "TikTok’s Secret Effort to Influence American Higher Education",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/09/bytedance-logo.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1535859",
+          "author": "Jack Fencl",
+          "description": "More than 40 percent of Americans are obese, and two-thirds are overweight. It’s time for leaders to address the problem.",
+          "link": "https://www.nationalreview.com/2023/09/politicians-are-ignoring-the-obesity-crisis/",
+          "publishedOn": "2023-09-05T10:30:46.000Z",
+          "wordCount": 9209,
+          "title": "Politicians Are Ignoring the Obesity Crisis",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/09/obese-nyse.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1537316",
+          "author": "Jay Nordlinger",
+          "description": "On Saudi Arabia, Elon Musk, Iran, a Nazi defendant, online porn, an Oklahoma QB, and more.",
+          "link": "https://www.nationalreview.com/2023/09/tweet-and-be-killed-c/",
+          "publishedOn": "2023-09-05T10:30:44.000Z",
+          "wordCount": 8669,
+          "title": "Tweet and be killed, &c.",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/09/mbs.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1537157",
+          "author": "The Editors",
+          "description": "The attorney general is suing a school district whose sensible policy would notify parents of children seeking to be identified as the opposite gender.",
+          "link": "https://www.nationalreview.com/2023/09/california-tries-to-put-the-state-above-parents/",
+          "publishedOn": "2023-09-05T10:30:20.000Z",
+          "wordCount": 8115,
+          "title": "California Tries to Put the State Above Parents",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/09/bonta-california-ag.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1537070",
+          "author": "Stone Washington",
+          "description": "The Chinese system poses a significant threat to economic freedom, undermining the liberties associated with America’s market-driven economy.",
+          "link": "https://www.nationalreview.com/2023/09/hed-chinas-authoritarian-capitalism-vs-american-capitalism-dek-the-chinese-system-poses-a-significant-threat-to-economic-freedom-undermining-the-liberties-associated-with-america/",
+          "publishedOn": "2023-09-05T10:30:15.000Z",
+          "wordCount": 8381,
+          "title": "China’s Authoritarian Capitalism vs. American Capitalism",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/09/stock-exchange-hong-kong.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1537292",
+          "author": "William C. Duncan",
+          "description": "Criticisms of SCOTUS show a deficient understanding of the Constitution’s ‘structural protections’ and our need for them.",
+          "link": "https://www.nationalreview.com/2023/09/the-flawed-civic-understanding-behind-attacks-on-the-supreme-court/",
+          "publishedOn": "2023-09-05T10:30:11.000Z",
+          "wordCount": 12219,
+          "title": "The Flawed Civic Understanding behind Attacks on the Supreme Court",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/09/scotus-protest-sign.jpg?fit=1200%2C700&ssl=1"
+        },
         {
           "id": "https://www.nationalreview.com/?p=1537405",
           "author": "John Fund",
@@ -4634,16 +4724,6 @@
           "wordCount": 8715,
           "title": "Lessons in Love for a Post-<i>Dobbs</i> World",
           "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2022/06/pro-life.jpg?fit=1200%2C700&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1525932",
-          "author": "Andrew Stuttaford",
-          "description": "The week of July 31, 2023: Downgrading U.S. debt, energy, central planning, electric vehicles, and much, much more.",
-          "link": "https://www.nationalreview.com/2023/08/the-fitch-downgrade-tick-tock/",
-          "publishedOn": "2023-08-06T21:18:40.000Z",
-          "wordCount": 25518,
-          "title": "The Fitch Downgrade: Tick Tock",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/02/top-shots-021123-12.jpg?fit=1200%2C700&ssl=1"
         }
       ]
     },
@@ -4652,6 +4732,36 @@
       "feedUrl": "https://sspai.com/feed",
       "siteUrl": "https://sspai.com",
       "articles": [
+        {
+          "id": "https://sspai.com/prime/story/android-data-backup-issues-tips",
+          "author": "克莱德",
+          "description": "从 Android 原生应用备份功能的发展出发，聊聊阻碍这项功能普及的因素，以及曲线救国的技巧。查看全文\n本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
+          "link": "https://sspai.com/prime/story/android-data-backup-issues-tips",
+          "publishedOn": "2023-09-05T12:07:04.000Z",
+          "wordCount": 969,
+          "title": "如何能免重新登录与配置之苦：浅谈 Android 自动备份机制",
+          "imageUrl": "https://cdn.sspai.com/2023/9/5/article/efcd3ae1-a3bc-7958-73e9-2143e8c49370.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/82701",
+          "author": "Matrix机器人",
+          "description": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意以及社区产品动态呈现给大 ...查看全文",
+          "link": "https://sspai.com/post/82701",
+          "publishedOn": "2023-09-05T09:00:22.000Z",
+          "wordCount": 916,
+          "title": "社区速递 011 | 家庭服务器、作者的新玩意以及哭泣的折叠屏",
+          "imageUrl": "https://cdn.sspai.com/9/5/2023/article/45784e49-beb8-ab46-cd7d-d1d8dd4d953d.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/82586",
+          "author": "正弦定理",
+          "description": "推荐系统可以被理解为一个加入了内容定制的「算法」，如果用生活场景类比一下的话，可以是一个了解你口味的高级专业服务员。\n\n服务员了解你的口味，他知道你以前点过什么菜，你对哪些菜评价比较高。当你去餐厅时，他会根据你的历史选择和偏好，为你推荐一些你可能喜欢的菜。而这就是推荐系统中的「协同过滤」部分，通过你的历史行为和其他类似你的人的行为，来推测你可能会喜欢什么。查看全文",
+          "link": "https://sspai.com/post/82586",
+          "publishedOn": "2023-09-05T07:30:00.000Z",
+          "wordCount": 876,
+          "title": "你或许总不满意，但它不全是秘密：聊聊 Twitter 开源的时间线算法",
+          "imageUrl": "https://cdn.sspai.com/9/5/2023/article/b5b34dae-624a-d2bf-84c8-957d31342bc8.jpg"
+        },
         {
           "id": "https://sspai.com/post/82553",
           "author": "孙彬",
@@ -5791,16 +5901,6 @@
           "wordCount": 944,
           "title": "开会糟透了？试试无声会议吧",
           "imageUrl": "https://cdn.sspai.com/2023/08/01/9ed1c90842e99c6d1c7db2325d40c8c5.png"
-        },
-        {
-          "id": "https://sspai.com/post/81814",
-          "author": "少数派编辑部",
-          "description": "你可能错过的新鲜事Vim作者逝世8月5日，经典文本编辑器Vim开发者、荷兰人BramMoolenaar的家人以其账号在Vim的Google群组中发帖表示，Moolenaar已于3日因病去世，享年62岁 ...查看全文",
-          "link": "https://sspai.com/post/81814",
-          "publishedOn": "2023-08-07T01:06:05.000Z",
-          "wordCount": 891,
-          "title": "派早报：Vim 作者逝世，二季度全球手机销售额继续下降",
-          "imageUrl": "https://cdn.sspai.com/8/6/2023/article/172f215b-7df6-762a-79e1-97bda53361d3.png"
         }
       ]
     },
@@ -5809,6 +5909,96 @@
       "feedUrl": "https://plink.anyfeeder.com/idaily/today",
       "siteUrl": "https://docs.rsshub.app",
       "articles": [
+        {
+          "id": "https://m.idai.ly/se/82dzFd",
+          "author": null,
+          "description": "华为 Mate 60 Pro 手机中拆解出的一颗「麒麟9000S」（Kirin 9000s）芯片。这颗芯片上印有「HISILICON」（海思半导体）标记，编号为「2035-CN」，最高频率为2.62GHz，推测为中芯国际制造的中国国产7nm工艺芯片。美国商务部于2020年9月15日将华为列入「实体清单」，严格限制华为使用美国的技术、软件设计和制造半导体芯片。Mate 60 Pro 起售价为6999元人民币。摄影师：James Park",
+          "link": "https://m.idai.ly/se/82dzFd",
+          "publishedOn": "2023-09-05T11:59:00.000Z",
+          "wordCount": 1173,
+          "title": "华为麒麟9000S芯片",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.idai.ly/se/bbb7LY",
+          "author": null,
+          "description": "SpaceX 载人龙飞船在墨西哥湾溅落回收，佛罗里达州。9月4日，Crew-6 任务4名宇航员顺利返回地球，结束为期186天的国际空间站驻留任务。Crew-6 成员包括2名美国宇航员、1名俄罗斯宇航员以及1名阿联酋宇航员，任务期间完成3次太空行走和逾200项科学实验。新一批「远征70组」宇航员计划于9月15日乘坐俄罗斯联盟号载人飞船前往国际空间站。摄影师：Joel Kowsky",
+          "link": "https://m.idai.ly/se/bbb7LY",
+          "publishedOn": "2023-09-05T10:57:00.000Z",
+          "wordCount": 1173,
+          "title": "载人龙飞船返回地球",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.idai.ly/se/82d4Ab",
+          "author": null,
+          "description": "俄罗斯总统 Vladimir Putin 与土耳其总统 Recep Tayyip Erdogan 举行会晤，索契。9月4日，俄土两国领导人就两国关系、乌克兰局势、黑海粮食协议等议题进行约1.5小时会谈。Putin 抨击西方国家阻止履行粮食协议中对俄罗斯的义务，并通过欺骗手段将70%乌克兰运出的粮食送往富裕国家，运到贫困国家的粮食仅占3%。Erdogan 表示土方愿尽一切努力推动恢复黑海粮食协议，并邀请 Putin 访问土耳其。2022年土俄双边贸易额达620亿美元，同比增长86%，两国计划将贸易额进一步提升至1000亿美元。摄影师：Dogukan Keskinkilic",
+          "link": "https://m.idai.ly/se/82d4Ab",
+          "publishedOn": "2023-09-05T10:55:00.000Z",
+          "wordCount": 1173,
+          "title": "俄土领导人会晤",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.idai.ly/se/ec7pWa",
+          "author": null,
+          "description": "德国总理 Olaf Scholz 佩戴眼罩出席党内会议，柏林。9月2日，现年65岁的 Scholz 在波茨坦的住所附近慢跑时意外跌倒，导致右眼周围受伤淤青，经过1天休息后恢复正常工作。德国公共广播联盟最新民调显示 Scholz 领导的执政联盟支持率跌至36%，为2021年上台以来新低；保守派反对党「联盟党」支持率升至29%，极右翼反对党「选择党」支持率升至22%。摄影师：Kay Nietfeld",
+          "link": "https://m.idai.ly/se/ec7pWa",
+          "publishedOn": "2023-09-05T10:53:00.000Z",
+          "wordCount": 1173,
+          "title": "德国总理跑步摔伤",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.idai.ly/se/70awdv",
+          "author": null,
+          "description": "超过100名英国科学家参加反对石油开采的示威集会，伦敦。9月4日，英国物理学家、电视节目主持人 Chris Packham 邀请科学界同行发起反化石燃料抗议集会，要求英国政府停止批准所有石油和天然气开采许可。英国政府计划2023年9月起发放100张油气开采许可证以提高北海石油和天然气产量。2022年英国能源产业投资总额为167亿英镑，其中石油和天然气开采占20%，同比增长2.6%。摄影师：Andy Rain",
+          "link": "https://m.idai.ly/se/70awdv",
+          "publishedOn": "2023-09-05T10:51:00.000Z",
+          "wordCount": 1173,
+          "title": "英国科学家反石油示威",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.idai.ly/se/5a1tgt",
+          "author": null,
+          "description": "韩国约5万名教师参加大规模集会活动悼念一名轻生自杀的年轻教师，首尔。9月4日，韩国全国数万名教师请假参加首尔国会议事堂的集会活动，要求政府查明首尔瑞二小学轻生教师的死亡真相。本次事件起因是首尔瑞二小学一名23岁教师于7月18日在校内自杀身亡，她在生前日记中记述自己工作压力太大，并遭到家长投诉和故意刁难。韩国官方统计数据显示2018年1月至2023年6月该国约有100名公立学校教师自杀身亡。摄影师：Chung Sung-Jun",
+          "link": "https://m.idai.ly/se/5a1tgt",
+          "publishedOn": "2023-09-05T10:49:00.000Z",
+          "wordCount": 1173,
+          "title": "韩国教师自杀事件抗议",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.idai.ly/se/480JPJ",
+          "author": null,
+          "description": "建筑工人们正在安装首里城修复工程的主殿木柱，冲绳。9月4日，冲绳首里城修复工程进入主殿柱梁搭建阶段，约30名建筑工人采用传统木造方法复原正殿内部的构架，总共需要拼接组装513根立柱和横梁，其中主柱直径40厘米、长72米，重达500公斤。首里城是古琉球国的王宫，城内的正殿及其他8栋主要建筑在2019年10月发生的火灾中被烧毁，整体重建工作目标于2026年秋季完工。摄影师：Daisuke Urakami",
+          "link": "https://m.idai.ly/se/480JPJ",
+          "publishedOn": "2023-09-05T10:47:00.000Z",
+          "wordCount": 1173,
+          "title": "首里城正殿火灾后重建",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.idai.ly/se/bf6MMH",
+          "author": null,
+          "description": "古巴迎来新学年开学日，哈瓦那一所小学的学生们回到课堂。9月4日，古巴全国162万中小学生迎来新学年，这也是该国在新冠疫情后迎来的首个恢复线下授课的学年。当天古巴国家主席 Miguel Diaz-Canel 在哈瓦那出席新学年开学庆祝活动。古巴教育部长在新学年致辞中承诺政府将增加教师招聘以解决师资不足的问题。古巴目前约有1.6万所学校和16万名教师。摄影师：Yamil Lage",
+          "link": "https://m.idai.ly/se/bf6MMH",
+          "publishedOn": "2023-09-05T10:45:00.000Z",
+          "wordCount": 1173,
+          "title": "古巴开启新学年",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.idai.ly/se/9b5tum",
+          "author": null,
+          "description": "印尼巴厘岛最年长的猩猩「Jacky」迎来46岁生日。9月4日，巴厘岛动物园为高龄雄性婆罗洲猩猩「Jacky」准备了芒果、香蕉、火龙果和葡萄等作为生日餐。婆罗洲猩猩是亚洲仅有的三种猩猩之一，基因与人类相似度高达97%，主要生活在印尼婆罗洲的热带雨林地区，以水果、树叶为食。受森林砍伐、人类捕杀等威胁，婆罗洲猩猩数量在过去60年减少超过一半，已被列为极度濒危物种。摄影师：Johannes P. Christo",
+          "link": "https://m.idai.ly/se/9b5tum",
+          "publishedOn": "2023-09-05T10:43:00.000Z",
+          "wordCount": 1173,
+          "title": "印尼巴厘岛最年长猩猩生日",
+          "imageUrl": null
+        },
         {
           "id": "https://m.idai.ly/se/14e2zp",
           "author": null,
@@ -7917,6 +8107,26 @@
       "siteUrl": "http://nytimes.com",
       "articles": [
         {
+          "id": "https://cn.nytimes.com/world/20230905/pope-china-mongolia/dual",
+          "author": null,
+          "description": "JASON HOROWITZ2023年9月5日周日，教宗方济各抵达蒙古乌兰巴托的草原竞技场参加弥撒仪式，两名香港主教也加入其中。 Alberto Pizzoli/Agence France-Presse — Getty Images\nThe small group of Chinese Catholics who crossed the border to see Pope Francis covered their faces for fear of reprisal. Church officials blamed the Communist government for preventing mainland China’s bishops from coming to see the pope. And diplomats said that China had watched the pope’s activities closely, and warily.\n由于担心遭到报复，一小群越过国境觐见教宗方济各的中国天主教徒遮住了他们的面部。教会官员批评中共政府阻止中国大陆主教面见教宗的行为。而外交官们则表示，中国一直在密切关注教宗的活动，并保持着警惕。\nYet as Pope Francis returned to Rome on Monday from a four-day trip to Mongolia, he had nothing but positive things to say about China.\n但当教宗方济各在周一结束为期四天的蒙古之行返回罗马时，他对中国全是正面评价。\n“The relations with China are very respectful — I personally have great admiration for…",
+          "link": "https://cn.nytimes.com/world/20230905/pope-china-mongolia/dual",
+          "publishedOn": "2023-09-05T08:06:02.000Z",
+          "wordCount": 1408,
+          "title": "教宗方济各结束蒙古行，向中国示好",
+          "imageUrl": "https://static01.nyt.com/images/2023/09/04/multimedia/04pope-china1-jhzg/04pope-china1-jhzg-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/opinion/20230905/america-rome-empire/dual",
+          "author": null,
+          "description": "JOHN RAPLEY2023年9月5日 Haiyun Jiang/The New York Times\nAmerica likes to think of itself in garlanded terms. The shining city on a hill. The indispensable nation. The land of the free. There’s something to each sobriquet, to be sure. But there’s another phrase, not always so flattering, that also applies to the United States: global empire.\n美国喜欢用溢美之词来形容自己。闪闪发光的山巅之城。不可或缺的国家。自由人的家园。当然，每个绰号都有其道理。但还有另一个并不总是那么讨人喜欢的说法也适用于美国：全球帝国。\nUnlike the other notions, which originated in the birth struggles of the Republic, this one dates to the final stages of World War II. At the famous Bretton Woods Conference, the United States developed an international trading and financial system that functioned in practice as an imperial economy, disproportionately steering the fruits of global growth to the citizens of…",
+          "link": "https://cn.nytimes.com/opinion/20230905/america-rome-empire/dual",
+          "publishedOn": "2023-09-05T08:06:02.000Z",
+          "wordCount": 1597,
+          "title": "“美帝”也许正在衰落，但美国并非注定衰亡",
+          "imageUrl": "https://static01.nyt.com/images/2023/09/04/multimedia/04rapley-1-wzfh/04rapley-1-wzfh-articleLarge.jpg"
+        },
+        {
           "id": "https://cn.nytimes.com/world/20230905/putin-kim-meeting-russia-north-korea-weapons/dual",
           "author": null,
           "description": "黄安伟, JULIAN E. BARNES2023年9月5日朝鲜官媒发布的照片显示，金正恩（右）与俄罗斯国防部长谢尔盖·绍伊古在7月会面。金正恩预计将出访俄罗斯，与普京会面。 KCNA, via Associated Press\nKim Jong-un, the leader of North Korea, plans to travel to Russia this month to meet with President Vladimir V. Putin to discuss the possibility of supplying Russia with more weaponry for its war in Ukraine and other military cooperation, according to American and allied officials.\n据美国及其盟国官员透露，朝鲜领导人金正恩计划本月前往俄罗斯与普京总统会面，讨论向俄罗斯提供更多武器用于乌克兰战争，以及其他军事合作的可能性。\nIn a rare foray from his country, Mr. Kim would travel from Pyongyang, North Korea’s capital, probably by armored train, to Vladivostok, on the Pacific Coast of Russia, where he would meet with Mr. Putin, the officials said.\n官员们表示，甚少离开本国的金正恩将从朝鲜首都平壤出发，可能乘坐装甲列车前往俄罗斯太平洋沿岸城市符拉迪沃斯托克，在那里与普京会面。\nMr. Putin wants Mr. Kim to agree to send …",
@@ -8895,26 +9105,6 @@
           "wordCount": 1247,
           "title": "为何《芭比》在中国成为潜在爆款电影",
           "imageUrl": "https://static01.nyt.com/images/2023/08/03/multimedia/00china-barbie-01-qmzj/00china-barbie-01-qmzj-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/asia-pacific/20230807/tsmc-mark-liu/dual",
-          "author": null,
-          "description": "JOHN LIU, 孟建国2023年8月7日\nTaiwan Semiconductor Manufacturing Company, which is manufacturing the world’s most advanced microchips, conducts business on the island of Taiwan, dead center in one of the most geopolitically volatile places on the planet.\n台积电是世界上最先进的微芯片生产商，它来自台湾，这座岛屿位于全球地缘政治最动荡地区之一的正中心。\nThat makes people in Washington very nervous. TSMC dominates the semiconductor industry; it’s a company that the United States can’t do without, 80 miles off the coast of China.\n这令华盛顿非常紧张。台积电在半导体行业占据主导地位；这家美国离不开的公司距离中国海岸约130公里。\nThe U.S. government has appropriated tens of billions of dollars to strengthen America’s own semiconductor sector and help fund TSMC’s nascent operations in the United States, far from China, which has never renounced the use of force to absorb Taiwan.\n美国政府已拨款数百亿美元来加强自己的半导体行…",
-          "link": "https://cn.nytimes.com/asia-pacific/20230807/tsmc-mark-liu/dual",
-          "publishedOn": "2023-08-07T04:36:03.000Z",
-          "wordCount": 1416,
-          "title": "面对地缘政治动荡，台积电为何坚持扎根台湾",
-          "imageUrl": "https://static01.nyt.com/images/2023/08/04/multimedia/04tsmc-01-zlcw/04tsmc-01-zlcw-videoLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/china/20230807/china-flood-beijing-rain/dual",
-          "author": null,
-          "description": "KEITH BRADSHER2023年8月7日周四，一名救援人员在涿州附近拉着一艘载有居民的船只。 Kevin Frayer/Getty Images\nFor days, the rain came down in sheets, pounding Beijing and areas around it in what the government said was the heaviest deluge China’s capital had seen since record keeping began 140 years ago.\n北京及其周边地区连日遭遇特大暴雨。中国政府称，此次强降雨是首都北京自有仪器测量记录140年来的最大降雨量。\nWhen the extreme downpour finally stopped on Tuesday, most of Beijing had been spared the worst — but partly because officials made sure the floodwaters went elsewhere.\n强降雨在上周二终于停止后，人们发现，北京的大部分地区都并非受影响最严重的地区，不过，出现这个结果的部分原因是，官员们为保北京将洪水泄到了其他地方。\nOfficials in Hebei Province, which borders Beijing, had opened flood gates and spillways in seven low-lying flood control zones to prevent rivers and reservoirs from overflowing in Beijing and the region’s other metropolis, Tianjin…",
-          "link": "https://cn.nytimes.com/china/20230807/china-flood-beijing-rain/dual",
-          "publishedOn": "2023-08-07T02:06:03.000Z",
-          "wordCount": 1503,
-          "title": "“当好首都护城河”：河北涿州泄洪引发愤怒",
-          "imageUrl": "https://static01.nyt.com/images/2023/08/04/multimedia/04China-Flood-zhuozhou-kmcb/04China-Flood-zhuozhou-kmcb-articleLarge.jpg"
         }
       ]
     },
@@ -9681,16 +9871,6 @@
           "publishedOn": "2023-08-08T02:19:00.000Z",
           "wordCount": 327,
           "title": "在山川河流中重建人与城市的关系｜京华物语",
-          "imageUrl": null
-        },
-        {
-          "id": "85de006864aaac058102e4c12e6362e4",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E5%9C%A8%E2%80%9C%E5%9B%BD%E5%AE%B6%E2%80%9D%E4%B8%8E%E2%80%9C%E7%A4%BE%E4%BC%9A%E2%80%9D%E4%B9%8B%E9%97%B4%E7%9A%84%E9%BB%84%E5%AE%97%E6%99%BA%EF%BC%9A%E4%BC%A0%E7%BB%9F%E5%A6%82%E4%BD%95%E4%B8%8E%E7%8E%B0%E5%AE%9E%E5%85%B1%E5%AD%98%EF%BC%9F",
-          "publishedOn": "2023-08-07T02:10:00.000Z",
-          "wordCount": 333,
-          "title": "在“国家”与“社会”之间的黄宗智：传统如何与现实共存？",
           "imageUrl": null
         }
       ]
