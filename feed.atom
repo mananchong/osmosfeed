@@ -2,10 +2,152 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mananchong.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-05T16:40:26.883Z</updated>
+    <updated>2023-09-06T07:38:59.886Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mananchong.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://mananchong.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[戴若伟评《〈本草纲目〉通识》｜以“本草”流变，观历史的层累与文化的碰撞]]></title>
+        <id>https://www.thepaper.cn/newsDetail_forward_24439485</id>
+        <link href="https://www.thepaper.cn/newsDetail_forward_24439485"/>
+        <updated>2023-09-06T06:02:05.000Z</updated>
+        <summary type="html"><![CDATA[《〈本草纲目〉通识》，王家葵著，中华书局2023年7月出版，276页，56.00元
+
+《本草纲目》之名家喻户晓，但何为“本草纲目”，却是一个需要解释的“通识性”问题。2016年，科学出版社曾组织出版《本草纲目研究集成》，从《导读》《详注》《图考》《研究札记》等方面深入地介绍了《本草纲目》。不过，对一般读者来说，阅读如此巨制并不容易。《〈本草纲目〉通识》（以下简称《通识》，引用仅标注页码）一书的主要目标群体应是“从事传统医药行业以外的读者”，读罢可对《本草纲目》的文献结构与李时珍的学术思路有大概了解。与先前诸种“导读”书籍不同，《通识》并没有就药理、药物来介绍《本草纲目》，更多是从文化观念上清本溯源，使普通读者也能够对“本草”系列丛书的流与变有所知悉，以观历史的层累与文化的碰撞。
+王家葵教授深耕本草领域多年，这本《通识》小书，从一张李时珍邮票谈起，简洁明了地道出现今对李时珍以及《本草纲目》的误读，即“本草”并不等同于“药用植物”，李时珍也绝非仅仅是“辑”成了《本草纲目》。
+本书前两章，分别解“本草”与“纲目”。
+李约瑟说“明代最伟大的科学成就即《本草纲目》，是为本草系列著作的巅峰”（260页）。这里提及，本草有“系列著作”。而要想评判《本草纲目》，必先知其源流。本书的第一章即着力于此。这一章重点拎出一条主线，即“综合类大型本草”的发展始末，末了补充主线外的“旁系”，读罢可知本草来龙去脉。关于本草“主流”与“旁支”的分类说法，实际上也有其学术源流，李约瑟、白井光太郎、郑金生等人都对此有进一步的解释。《通识》一书的重点自然是在“主流”，即《神农本草经》-《本草经集注》-《新修本草》-《证类本草》-《本草纲目》等之间的起承转合。不过，知识文化的变迁往往不能只看官家，所谓的“旁系”之中，隐藏着许多有关知识在地化与日常接受的提示。比如，从使用者的角度讲，有诸如《通识》中提到的“药学类手…]]></summary>
+        <author>
+            <name>上海书评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[朝鲜与俄罗斯越走越近，金正恩想从普京身上得到什么]]></title>
+        <id>https://cn.nytimes.com/asia-pacific/20230906/north-korea-russia-kim-jong-un/dual</id>
+        <link href="https://cn.nytimes.com/asia-pacific/20230906/north-korea-russia-kim-jong-un/dual"/>
+        <updated>2023-09-06T04:36:03.000Z</updated>
+        <summary type="html"><![CDATA[CHOE SANG-HUN2023年9月6日2019年，朝鲜领导人金正恩与俄罗斯总统普京在俄罗斯符拉迪沃斯托克会面。俄罗斯长久以来都是受到孤立的朝鲜的关键盟友。 Shamil Zhumatov/Reuters
+For Kim Jong-un, the leader of North Korea, a rare trip to Russia this month to discuss military aid for President Vladimir V. Putin’s Ukraine war effort could provide two things the North has wanted for a long time: technical help with its weapons programs, and to finally be needed by an important neighbor.
+对朝鲜领导人金正恩来说，本月罕见地出访俄罗斯，讨论为普京总统的乌克兰战争提供军事援助，可能会满足朝鲜长期以来一直想要的两样东西：为武器计划争取技术援助，以及终于被一个重要邻国所需要。
+North Korea has not been used to getting a lot of attention other than global condemnation for its nuclear and intercontinental ballistic missile tests. But Russia’s urgency to make new gains in the war is offering Mr. Kim a bit of the geopolitical spotlight — and a new way to both irk the Un…]]></summary>
+        <author>
+            <name>纽约时报双语版</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从零开始搭建 Home Lab，这是我的体会与心得]]></title>
+        <id>https://sspai.com/post/82670</id>
+        <link href="https://sspai.com/post/82670"/>
+        <updated>2023-09-06T03:31:53.000Z</updated>
+        <summary type="html"><![CDATA[因为本人动手能力比较强，所以目前使用的是一台自组的 DIY NAS。其实相较于 NAS，我更喜欢称呼这类机器为家庭服务器，存储对我来说仅仅只是一部分需求。不过本篇文章的重点是分享一些我个人数据存储及备份的心得体会，其他应用只会简单介绍一下。查看全文]]></summary>
+        <author>
+            <name>炜智能</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“中国速度”抢镜慕尼黑车展，凸显德国经济多重难题]]></title>
+        <id>https://cn.nytimes.com/business/20230906/chinese-automakers-iaa-mobility-german-auto-show/dual</id>
+        <link href="https://cn.nytimes.com/business/20230906/chinese-automakers-iaa-mobility-german-auto-show/dual"/>
+        <updated>2023-09-06T02:06:03.000Z</updated>
+        <summary type="html"><![CDATA[MELISSA EDDY2023年9月6日慕尼黑的德国国际车展的举办之际，恰逢德国汽车工业以及更广泛的德国经济面临不确定性。 Angelika Warmuth/Reuters
+For decades, the phrase “Made in Germany” signaled cutting-edge automotive technology and design. But now German automakers are falling behind in the global race to produce more electric vehicles, and some executives are using a new catchphrase to describe how quickly they need to catch up: “China speed.”
+几十年来，“德国制造”曾是汽车行业尖端技术和设计的标志。但现在，德国汽车制造商在生产更多电动汽车的全球竞赛中落在了后面，一些高管用“中国速度”这个时兴词来形容他们需要多快地行动才能迎头赶上。
+The term reflects the rapid transformation of the Chinese car industry into a battery-powered juggernaut. And that speed was on display Monday at I.A.A. Mobility, a massive auto show in Munich, with newcomers from China stealing the show.
+“中国速度”反映了中国汽车工业转型为电动汽车巨头的速度。这个速度在慕尼黑周一开幕的德国国际车展上展现出来，来自中国的后起之秀在这个大型车展上…]]></summary>
+        <author>
+            <name>纽约时报双语版</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：Android 启用新版品牌标识、微信支付将上线消费分期功能等]]></title>
+        <id>https://sspai.com/post/82722</id>
+        <link href="https://sspai.com/post/82722"/>
+        <updated>2023-09-06T00:58:31.000Z</updated>
+        <summary type="html"><![CDATA[微软将不再强制欧盟地区 Windows 11 用户使用 Edge 浏览器，WPS AI 正式面向社会开放等。查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Former Proud Boys Leader Receives Longest J6-Related Jail Sentence at 22 Years]]></title>
+        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1537758</id>
+        <link href="https://www.nationalreview.com/news/former-proud-boys-leader-receives-longest-j6-related-jail-sentence-at-22-years/"/>
+        <updated>2023-09-05T22:49:40.000Z</updated>
+        <summary type="html"><![CDATA[Enrique Tarrio was convicted for his role in scheming the 2021 attack on the Capitol.]]></summary>
+        <author>
+            <name>Brittany Bernstein</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sexual Abuse Survivor Group Says Oakland Diocese Filing for Bankruptcy Should Sell Real Estate to Pay Victims]]></title>
+        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1537688</id>
+        <link href="https://www.nationalreview.com/news/sexual-abuse-survivor-group-says-oakland-diocese-filing-for-bankruptcy-should-sell-real-estate-to-pay-victims/"/>
+        <updated>2023-09-05T22:26:24.000Z</updated>
+        <summary type="html"><![CDATA[In 2019, California’s state legislature passed a law enabling youth victims of sexual assault a three-year ‘look-back’ window.]]></summary>
+        <author>
+            <name>Ari Blaff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Denver Principal Fired after Speaking Out about School Violence Claims Retaliation in Federal Lawsuit]]></title>
+        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1537695</id>
+        <link href="https://www.nationalreview.com/news/denver-principal-fired-after-speaking-out-about-school-violence-claims-retaliation-in-federal-lawsuit/"/>
+        <updated>2023-09-05T21:43:20.000Z</updated>
+        <summary type="html"><![CDATA[Board members smeared Dennis as a racist, doxed him during a town hall meeting, and falsely claimed that he had violated the law, the lawsuit says.]]></summary>
+        <author>
+            <name>Ryan Mills</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mask Mandates Return for Maryland Elementary School]]></title>
+        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1537690</id>
+        <link href="https://www.nationalreview.com/news/mask-mandates-return-for-maryland-elementary-school/"/>
+        <updated>2023-09-05T21:00:23.000Z</updated>
+        <summary type="html"><![CDATA[One week into the 2023 school year, a Maryland elementary school has reinstated mask mandates.]]></summary>
+        <author>
+            <name>Haley Strack</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kim Jong-un to Meet in Russia with Vladimir Putin amid Ukraine War]]></title>
+        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1537588</id>
+        <link href="https://www.nationalreview.com/news/kim-jong-un-to-meet-in-russia-with-vladimir-putin-amid-ukraine-war/"/>
+        <updated>2023-09-05T19:50:11.000Z</updated>
+        <summary type="html"><![CDATA[The leaders are expected to meet in September, in what many U.S. officials are calling the next step in military cooperation.]]></summary>
+        <author>
+            <name>David Zimmermann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[It Is Time to Institute Retirement Ages for Federal Officeholders]]></title>
+        <id>https://www.nationalreview.com/?p=1537646</id>
+        <link href="https://www.nationalreview.com/2023/09/it-is-time-to-institute-retirement-ages-for-federal-officeholders/"/>
+        <updated>2023-09-05T19:24:37.000Z</updated>
+        <summary type="html"><![CDATA[We should impose maximum ages on federal offices before we really face a crisis.]]></summary>
+        <author>
+            <name>Dan McLaughlin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Republicans Don’t Think They Can Lose in 2024, Even with Trump]]></title>
+        <id>https://www.nationalreview.com/?p=1537592</id>
+        <link href="https://www.nationalreview.com/2023/09/republicans-dont-think-they-can-lose-in-2024-even-with-trump/"/>
+        <updated>2023-09-05T18:10:36.000Z</updated>
+        <summary type="html"><![CDATA[There’s a strange mix of catastrophism and overconfidence surrounding the 2024 election that dominates the thinking among Republican voters.]]></summary>
+        <author>
+            <name>Noah Rothman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Philadelphia Police Chief Resigns amid Homicide Wave]]></title>
+        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1537556</id>
+        <link href="https://www.nationalreview.com/news/philadelphia-police-chief-resigns-amid-homicide-wave/"/>
+        <updated>2023-09-05T17:11:24.000Z</updated>
+        <summary type="html"><![CDATA[Over the course of her tenure, annual homicides in Philadelphia rose from 499 in 2020 to 516 in 2022.]]></summary>
+        <author>
+            <name>Ari Blaff</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Capitol Hill Doctor Rules Out Stroke, Seizure Disorder after Examining McConnell]]></title>
         <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1537536</id>
@@ -10268,266 +10410,6 @@ But recent upheavals at high levels of the People’s Liberation Army forces sug
         <summary type="html"><![CDATA[While interviewing Ron DeSantis, NBC’s Dasha Burns falsely claimed that Democrats don’t back a right to abortion through all nine months of pregnancy.]]></summary>
         <author>
             <name>John McCormack</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oberlin College Sues Insurance Companies for Refusing to Reimburse $40 Million Settlement Paid to Bakery for False Racism Accusations]]></title>
-        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1526200</id>
-        <link href="https://www.nationalreview.com/news/oberlin-college-sues-insurance-companies-for-refusing-to-reimburse-40-million-settlement-paid-to-bakery-for-false-racism-accusations/"/>
-        <updated>2023-08-07T19:10:16.000Z</updated>
-        <summary type="html"><![CDATA[Gibson’s Bakery sued Oberlin in 2017, accusing the school of libeling the business owners with accusations of racism.]]></summary>
-        <author>
-            <name>Brittany Bernstein</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘A Lot of Grit’: Media Love Affair with Triathlete Jack Smith Begins]]></title>
-        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1526187</id>
-        <link href="https://www.nationalreview.com/news/a-lot-of-grit-media-love-affair-with-triathlete-jack-smith-begins/"/>
-        <updated>2023-08-07T18:32:55.000Z</updated>
-        <summary type="html"><![CDATA[The news of Trump’s indictment has prompted a raft of coverage focused on special counsel Jack Smith’s athletic accomplishments.]]></summary>
-        <author>
-            <name>Brittany Bernstein</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hillary Clinton Finds a Way to Blame Loneliness on Republicans]]></title>
-        <id>https://www.nationalreview.com/?p=1526180</id>
-        <link href="https://www.nationalreview.com/2023/08/hillary-clinton-finds-a-way-to-blame-loneliness-on-republicans/"/>
-        <updated>2023-08-07T18:01:54.000Z</updated>
-        <summary type="html"><![CDATA[And identifies its solution in activities that appeal to her politically.]]></summary>
-        <author>
-            <name>Charles C. W. Cooke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Are Republicans Really Tiring of the Wokeness War?]]></title>
-        <id>https://www.nationalreview.com/?p=1526159</id>
-        <link href="https://www.nationalreview.com/2023/08/are-republicans-really-tiring-of-the-wokeness-war/"/>
-        <updated>2023-08-07T17:18:17.000Z</updated>
-        <summary type="html"><![CDATA[The latest New York Times poll produces just the misleading result it was designed to produce.]]></summary>
-        <author>
-            <name>Noah Rothman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cop Who Restrained Bystanders during George Floyd Murder Sentenced to Nearly Five Years in Prison]]></title>
-        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1526117</id>
-        <link href="https://www.nationalreview.com/news/cop-who-restrained-bystanders-during-george-floyd-murder-sentenced-to-nearly-five-years-in-prison/"/>
-        <updated>2023-08-07T16:08:36.000Z</updated>
-        <summary type="html"><![CDATA[In May, Thao was convicted of aiding and abetting second-degree manslaughter.]]></summary>
-        <author>
-            <name>Brittany Bernstein</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wisconsin School District Settles Lawsuit Alleging Cover-Up of Discrimination against White Students]]></title>
-        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1526124</id>
-        <link href="https://www.nationalreview.com/news/wisconsin-school-district-settles-lawsuit-alleging-cover-up-of-discrimination-against-white-students/"/>
-        <updated>2023-08-07T16:00:37.000Z</updated>
-        <summary type="html"><![CDATA[The suit accused the district of concealing records related to a policy of prioritizing the education of black students.]]></summary>
-        <author>
-            <name>Ryan Mills</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeSantis: Trump Contributed to His Own 2020 Loss When He ‘Turned the Government over to Fauci’]]></title>
-        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1526063</id>
-        <link href="https://www.nationalreview.com/news/desantis-trump-contributed-to-his-own-2020-loss-when-he-turned-the-government-over-to-fauci/"/>
-        <updated>2023-08-07T12:33:29.000Z</updated>
-        <summary type="html"><![CDATA[DeSantis cited mail-in voting, ‘Zuckerbucks,’ and social-media censorship in arguing the 2020 election was not well run.]]></summary>
-        <author>
-            <name>Brittany Bernstein</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[海洋学家种植耐热珊瑚]]></title>
-        <id>https://m.idai.ly/se/522W5D</id>
-        <link href="https://m.idai.ly/se/522W5D"/>
-        <updated>2023-08-07T10:59:00.000Z</updated>
-        <summary type="html"><![CDATA[迈阿密大学海洋学家正在海底种植人工培育的珊瑚，美国佛州。8月4日，迈阿密大学科学家团队在比斯坎湾开展珊瑚种植工作，本次种植的珊瑚苗均经过人工选育，具有更高的耐热性，预计可以抵御气候变化导致的海水变暖问题。佛罗里达礁区是世界上最大的珊瑚礁群之一，栖息着近1400种海洋动物和植物，该地区约70%珊瑚礁因环境问题正在逐步萎缩。摄影师：D.A. Varela]]></summary>
-        <author>
-            <name>iDaily 每日环球视野</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[China’s Declining Fortunes Are Looking Up (North)]]></title>
-        <id>https://www.nationalreview.com/?p=1525615</id>
-        <link href="https://www.nationalreview.com/2023/08/chinas-declining-fortunes-are-looking-up-north/"/>
-        <updated>2023-08-07T10:30:18.000Z</updated>
-        <summary type="html"><![CDATA[Don’t sleep on China’s ambitions in the Russian Far East and in the Arctic.]]></summary>
-        <author>
-            <name>Thérèse Shaheen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ohio Voters’ Chance to Save Their State Constitution from Special Interests]]></title>
-        <id>https://www.nationalreview.com/?p=1525524</id>
-        <link href="https://www.nationalreview.com/2023/08/ohio-voters-chance-to-save-their-state-constitution-from-special-interests/"/>
-        <updated>2023-08-07T10:30:12.000Z</updated>
-        <summary type="html"><![CDATA[Voting ‘yes’ to raise the threshold to amend Ohio’s constitution would improve our political process and put Ohio in line with other states.]]></summary>
-        <author>
-            <name>Frank LaRose</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Honor of Mike Pence]]></title>
-        <id>https://www.nationalreview.com/?p=1526033</id>
-        <link href="https://www.nationalreview.com/2023/08/the-honor-of-mike-pence/"/>
-        <updated>2023-08-07T10:30:04.000Z</updated>
-        <summary type="html"><![CDATA[He did the right thing and has paid the price.]]></summary>
-        <author>
-            <name>Rich Lowry</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lessons in Love for a Post-<i>Dobbs</i> World]]></title>
-        <id>https://www.nationalreview.com/?p=1526021</id>
-        <link href="https://www.nationalreview.com/2023/08/lessons-in-love-for-a-post-dobbs-world/"/>
-        <updated>2023-08-07T10:30:01.000Z</updated>
-        <summary type="html"><![CDATA[The founder of the Sisters of Life shares insights from her decades working with women in need.]]></summary>
-        <author>
-            <name>Kathryn Jean Lopez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派评 | 近期值得关注的 App]]></title>
-        <id>https://sspai.com/post/81850</id>
-        <link href="https://sspai.com/post/81850"/>
-        <updated>2023-08-07T09:40:47.000Z</updated>
-        <summary type="html"><![CDATA[你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的 App 或者关注的话题，也欢迎在评论区和我们进行讨论。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从历史中开出来，这是我和 BMW 三系共处的两年]]></title>
-        <id>https://sspai.com/post/80462</id>
-        <link href="https://sspai.com/post/80462"/>
-        <updated>2023-08-07T08:23:26.000Z</updated>
-        <summary type="html"><![CDATA[编注：本文是少数派#上车聊聊征文活动的入围文章。文章内容代表作者本人观点，少数派仅对标题和排版略作调整。本次「上车聊聊」征文活动长期有效，欢迎投稿聊聊你与车之间的故事。投稿文章一经推荐，我们还将送出包 ...查看全文]]></summary>
-        <author>
-            <name>Konstantine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[广岛原子弹爆炸78周年]]></title>
-        <id>https://m.idai.ly/se/befowi</id>
-        <link href="https://m.idai.ly/se/befowi"/>
-        <updated>2023-08-07T07:57:00.000Z</updated>
-        <summary type="html"><![CDATA[广岛市民放河灯悼念原子弹爆炸死难者。8月6日，广岛和平纪念公园举行广岛原子弹爆炸78周年纪念活动，日本首相、广岛市长、原爆幸存者和遇难者家属等约5万人参加。广岛市长在致辞中再次敦促日本政府立即加入联合国《禁止核武器条约》。至2023年7月，广岛原爆幸存者在世人数为11万3649人，平均年龄85.01岁。联合国数据显示，目前全球拥核国家至少有1.3万枚核武器库存。摄影师：iDaily Media]]></summary>
-        <author>
-            <name>iDaily 每日环球视野</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[能干掉你「启动盘」的 Windows 漏洞补丁，为什么不得不更新？]]></title>
-        <id>https://sspai.com/post/81836</id>
-        <link href="https://sspai.com/post/81836"/>
-        <updated>2023-08-07T07:55:35.000Z</updated>
-        <summary type="html"><![CDATA[尽管从系统运行的初期就已经介入，但 Windows 安全引导也不是无懈可击的。能绕过它的「黑莲花」到底是怎么回事？让我们一起来探索漏洞背后的攻防战。查看全文]]></summary>
-        <author>
-            <name>PostMeridy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[巴基斯坦前总理入狱]]></title>
-        <id>https://m.idai.ly/se/1ca8Ko</id>
-        <link href="https://m.idai.ly/se/1ca8Ko"/>
-        <updated>2023-08-07T07:55:00.000Z</updated>
-        <summary type="html"><![CDATA[巴基斯坦报纸头版刊登前总理 Imran Khan 遭逮捕入狱的新闻报道，卡拉奇。8月6日，巴基斯坦前总理的律师团队表示探监申请遭到拒绝，迄今无法与 Imran Khan 本人取得联系，有可能影响申请上诉和保释的司法程序。现年70岁的 Khan 目前被关押在距离首都伊斯兰堡约85公里的阿托克监狱，该监狱以关押条件恶劣而著称，巴基斯坦政府已封锁监狱周边道路并禁止媒体访问。摄影师：Shahzaib Akber]]></summary>
-        <author>
-            <name>iDaily 每日环球视野</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[巴基斯坦严重脱轨事故]]></title>
-        <id>https://m.idai.ly/se/d6e7N1</id>
-        <link href="https://m.idai.ly/se/d6e7N1"/>
-        <updated>2023-08-07T07:53:00.000Z</updated>
-        <summary type="html"><![CDATA[巴基斯坦救援人员正在搜救列车脱轨事故的幸存者，信德省。8月6日，巴基斯坦南部信德省一列载有950名乘客的特快客运火车发生严重脱轨事故，至少10节车厢脱轨，造成至少30人死亡、100人受伤。巴基斯坦政府在事故发生后派出军队和军用直升机协助救援，目前搜救工作已全部结束。初步调查显示事故发生时列车以正常速度行驶，脱轨原因可能是机械故障或人为破坏。摄影师：Nadeem Khawer]]></summary>
-        <author>
-            <name>iDaily 每日环球视野</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国解放军防汛救灾]]></title>
-        <id>https://m.idai.ly/se/e16S8M</id>
-        <link href="https://m.idai.ly/se/e16S8M"/>
-        <updated>2023-08-07T07:51:00.000Z</updated>
-        <summary type="html"><![CDATA[中国人民解放军北部战区陆军官兵参与防汛救灾工作，黑龙江省。8月6日，中国国家防汛抗旱总指挥部对天津、河北维持防汛二级应急响应，对北京、吉林、黑龙江维持防汛三级应急响应。目前中部战区已有1万名官兵和民兵投入北京和河北防汛救灾工作，北部战区出动3千名官兵前往黑龙江和吉林解救疏散群众、疏通道路和加固堤坝。电力、通信、建筑施工等重点领域央企累计投入8.5万人次、2.6万台次设备车辆参与抢修恢复和应急保障任务。摄影师：iDaily Media]]></summary>
-        <author>
-            <name>iDaily 每日环球视野</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国海警驱逐菲律宾船只]]></title>
-        <id>https://m.idai.ly/se/dd0oXK</id>
-        <link href="https://m.idai.ly/se/dd0oXK"/>
-        <updated>2023-08-07T07:49:00.000Z</updated>
-        <summary type="html"><![CDATA[中国海警船用水炮驱离非法进入仁爱礁邻近海域的菲律宾船只。8月6日，中国海警局新闻发言人通报8月5日菲律宾2艘运补船和2艘海警船未经中国政府批准，非法闯入中国南沙群岛仁爱礁邻近海域，中国海警依法实施必要管控，对菲搭载违规建材的船只进行拦阻。中方指出中国对包括仁爱礁在内的南沙群岛及其附近海域拥有无可争辩的主权，敦促菲方立即停止在该海域的侵权活动，中国海警将依法在中国管辖海域持续开展维权执法活动。摄影师：Philippine Government]]></summary>
-        <author>
-            <name>iDaily 每日环球视野</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[乌祖国母亲纪念碑换标]]></title>
-        <id>https://m.idai.ly/se/e075Su</id>
-        <link href="https://m.idai.ly/se/e075Su"/>
-        <updated>2023-08-07T07:47:00.000Z</updated>
-        <summary type="html"><![CDATA[工人们正在安装乌克兰祖国母亲纪念碑雕像的三叉戟标志，基辅。8月6日，乌克兰祖国母亲纪念碑的苏联国徽被替换为三叉戟标志，该标志的历史可以追溯至公元10世纪基辅大公弗拉基米尔大帝的王室纹章，1992年成为乌克兰国徽的主要设计元素。俄罗斯国家杜马国际事务委员会主席 Leonid Slutsky 指责乌克兰公然表现对历史的不尊重，企图通过改变苏联纪念碑上的符号占据反法西斯胜利荣誉。摄影师：Valentyn Ogirenko]]></summary>
-        <author>
-            <name>iDaily 每日环球视野</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[金正恩视察军工厂]]></title>
-        <id>https://m.idai.ly/se/8854sb</id>
-        <link href="https://m.idai.ly/se/8854sb"/>
-        <updated>2023-08-07T07:45:00.000Z</updated>
-        <summary type="html"><![CDATA[朝鲜最高领导人金正恩视察军工厂期间试用一支狙击步枪。8月6日，朝中社报道金正恩连续3天访问多座军工厂进行现场指导，检视武器包括大口径火箭炮、狙击步枪、战略巡航导弹及无人攻击机发动机、导弹发射车等。金正恩在视察中强调武器装备现代化的重要性，指示工厂扩大生产战略武器系统发动机，稳步提高其性能和可靠性，为贯彻落实党中央提出的国防发展战略誓死奋斗。摄影师：KCNA]]></summary>
-        <author>
-            <name>iDaily 每日环球视野</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国拟严格限制未成年人使用手机]]></title>
-        <id>https://cn.nytimes.com/business/20230807/china-smartphone-minor-mode/dual</id>
-        <link href="https://cn.nytimes.com/business/20230807/china-smartphone-minor-mode/dual"/>
-        <updated>2023-08-07T07:06:03.000Z</updated>
-        <summary type="html"><![CDATA[YAN ZHUANG, SIYI ZHAO2023年8月7日中国拟限制八岁以下儿童每日使用智能手机时间在40分钟以内。 Wang Zhao/Agence France-Presse — Getty Images
-A few years ago, China cracked down on video games. Then it imposed limits on livestreaming by children. Now China wants them to spend less time on their smartphones.
-几年前，中国严厉打击电子游戏，之后又限制儿童观看网络直播。现在中国希望他们减少花在智能手机上的时间。
-The country’s internet regulator this week proposed regulations that if adopted as written would require smartphones, apps and app stores to build a “minor mode” into their products. The aim is to restrict how long children can spend on their phones and what content they can read or watch.
-中国互联网监管机构本周提出一项规定，如果通过，按照字面规定，智能手机、应用程序和应用程序商店将被要求在其产品中内置“未成年人模式”，目的是限制儿童使用手机的时间以及限制他们可以阅读或观看的内容。
-The proposal, which is open for public comment, would expand the Chinese government’s e…]]></summary>
-        <author>
-            <name>纽约时报双语版</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[开会糟透了？试试无声会议吧]]></title>
-        <id>https://sspai.com/post/81644</id>
-        <link href="https://sspai.com/post/81644"/>
-        <updated>2023-08-07T05:58:20.000Z</updated>
-        <summary type="html"><![CDATA[无声会议通过「以读代听」和「以写代说」促进了议题的思考和讨论深度，它非常适合决策与审校类会议（如项目立项、设计评审等），值得研究。查看全文]]></summary>
-        <author>
-            <name>妙记多Mojidoc</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为何《芭比》在中国成为潜在爆款电影]]></title>
-        <id>https://cn.nytimes.com/china/20230807/china-barbie-women-feminism/dual</id>
-        <link href="https://cn.nytimes.com/china/20230807/china-barbie-women-feminism/dual"/>
-        <updated>2023-08-07T05:36:02.000Z</updated>
-        <summary type="html"><![CDATA[王月眉, SIYI ZHAO2023年8月7日尽管在中国的上映场次有限，电影《芭比》还是迅速在社交媒体上引起了广泛讨论，在一些圈子里掀起了自己的一股小热潮。 Greg Baker/Agence France-Presse — Getty Images
-There were plenty of reasons to think the “Barbie” movie might have a hard time finding an audience in China. It’s an American film, when Chinese moviegoers’ interest in, and government approval of, Hollywood movies is falling. It’s been widely described as feminist, when women’s rights and political representation in China are backsliding.
-有充分理由认为，电影《芭比》(Barbie)电影在中国可能很难找到观众。这是一部美国电影，而中国电影观众对好莱坞电影的兴趣和政府对好莱坞电影的认可正在下降。这部电影被广泛描述为女权主义电影，而中国的女性权利和政治代表正在倒退。
-But not only did the film screen in China — it has been something of a sleeper hit, precisely because of its unusual nature in the Chinese movie landscape.
-然而这部电影不仅在中国上映，还成了票房黑马，这恰恰是因为这部影片在中国电影风貌中有着非同寻常的性质。
-“There are…]]></summary>
-        <author>
-            <name>纽约时报双语版</name>
         </author>
     </entry>
 </feed>
