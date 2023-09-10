@@ -2,10 +2,90 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mananchong.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-10T07:39:07.761Z</updated>
+    <updated>2023-09-10T16:39:36.986Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mananchong.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://mananchong.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Abbott Blasts Potential WH ‘Remain in Texas’ Migrant Policy, Threatens ‘Even More Buses’ to D.C.]]></title>
+        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1539206</id>
+        <link href="https://www.nationalreview.com/news/greg-abbott-blasts-potential-wh-plan-to-make-illegal-migrants-remain-in-texas-threatens-even-more-buses-to-d-c/"/>
+        <updated>2023-09-10T14:38:52.000Z</updated>
+        <summary type="html"><![CDATA[On Wednesday, a District Court judge ruled against Abbott that the governor’s floating barriers recently placed along the Rio Grande River is unlawful.]]></summary>
+        <author>
+            <name>Ari Blaff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘They Will Hurt’: Eric Adams Warns of Painful Budget Cuts to NYC Essential Services Due to Migrant Crisis]]></title>
+        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1539203</id>
+        <link href="https://www.nationalreview.com/news/they-will-hurt-eric-adams-warns-of-painful-budget-cuts-to-nyc-essential-services-due-to-migrant-crisis/"/>
+        <updated>2023-09-10T13:46:10.000Z</updated>
+        <summary type="html"><![CDATA[Some departments are facing cuts as high as 15 percent.]]></summary>
+        <author>
+            <name>Ari Blaff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Biden Administration’s Escalating Campaign against Free Speech]]></title>
+        <id>https://www.nationalreview.com/?p=1538880</id>
+        <link href="https://www.nationalreview.com/2023/09/the-biden-administrations-escalating-campaign-against-free-speech/"/>
+        <updated>2023-09-10T10:30:59.000Z</updated>
+        <summary type="html"><![CDATA[America’s tradition of robust debate is under threat.]]></summary>
+        <author>
+            <name>Kenin M. Spivak</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[No, the Press Is Not ‘Tougher’ on Biden Than He ‘Deserves’]]></title>
+        <id>https://www.nationalreview.com/?p=1538991</id>
+        <link href="https://www.nationalreview.com/2023/09/no-the-press-is-not-tougher-on-biden-than-he-deserves/"/>
+        <updated>2023-09-10T10:30:53.000Z</updated>
+        <summary type="html"><![CDATA[If anything, it’s the opposite.]]></summary>
+        <author>
+            <name>Becket Adams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Triumph of the Nuclear Family]]></title>
+        <id>https://www.nationalreview.com/?p=1537982</id>
+        <link href="https://www.nationalreview.com/2023/09/the-triumph-of-the-nuclear-family/"/>
+        <updated>2023-09-10T10:30:37.000Z</updated>
+        <summary type="html"><![CDATA[A new book about an Upper West Side sex cult offers a cautionary tale about today’s progressive narratives.]]></summary>
+        <author>
+            <name>Hannah E. Meyers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fools in the Desert: The False Gods of Burning Man]]></title>
+        <id>https://www.nationalreview.com/?p=1538889</id>
+        <link href="https://www.nationalreview.com/2023/09/fools-in-the-desert-the-false-gods-of-burning-man/"/>
+        <updated>2023-09-10T10:30:37.000Z</updated>
+        <summary type="html"><![CDATA[In the modern world, as in the ancient one, worshiping the wrong things can leave us stranded.]]></summary>
+        <author>
+            <name>Madeleine Kearns</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Abandoning American Global Leadership Would Hurt American Consumers]]></title>
+        <id>https://www.nationalreview.com/?p=1538860</id>
+        <link href="https://www.nationalreview.com/2023/09/abandoning-american-global-leadership-would-hurt-american-consumers/"/>
+        <updated>2023-09-10T10:30:28.000Z</updated>
+        <summary type="html"><![CDATA[A ‘multi-polar’ world would be poorer and more dangerous, and the U.S. would suffer.]]></summary>
+        <author>
+            <name>John Gustavsson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lightning 或将步入历史舞台，下周的 Apple 发布会还有哪些看点？]]></title>
+        <id>https://sspai.com/post/82821</id>
+        <link href="https://sspai.com/post/82821"/>
+        <updated>2023-09-10T07:02:23.000Z</updated>
+        <summary type="html"><![CDATA[离发布会只有短短数日，根据往年的经验，各方面的爆料已经越来越接近真实。如果你想先睹为快，就一起来看看今年 Apple 可能会给我们带来什么样的惊喜吧。查看全文]]></summary>
+        <author>
+            <name>Vanilla</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[马小鹤谈摩尼教、明教与霞浦文书]]></title>
         <id>https://www.thepaper.cn/newsDetail_forward_24525769</id>
@@ -10027,152 +10107,6 @@ ggcoverage: an R package to …]]></summary>
         <summary type="html"><![CDATA[欧空局公布一张哈勃望远镜拍摄的孔雀座「NGC 6684」透镜状星系照片。这个星系距离地球约4400万光年，星系圆盘呈朦胧和弥散状态，缺少明显的旋臂结构，因此被归类为「透镜状星系」。这种星系主要由衰老恒星构成，尘埃集中于靠近星系核心的区域。摄影师：ESA]]></summary>
         <author>
             <name>iDaily 每日环球视野</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[维珍银河商业太空飞行]]></title>
-        <id>https://m.idai.ly/se/813RY6</id>
-        <link href="https://m.idai.ly/se/813RY6"/>
-        <updated>2023-08-12T03:58:00.000Z</updated>
-        <summary type="html"><![CDATA[美国维珍银河公司「团结号」太空船（VSS Unity）抵达地球外层空间。8月10日，维珍银河公司执行代号为「银河02」（Galactic 02）的商业太空飞行任务，3名私人游客在80公里高度亚轨道空间体验数分钟失重后返回地球。这是维珍银河首次将私人游客送入太空，每个座位票价为20万美元。维珍银河太空船票价目前已上调至45万美元，等候名单上已有约800名购票乘客。摄影师：Virgin Galactic]]></summary>
-        <author>
-            <name>iDaily 每日环球视野</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国外长访问新加坡]]></title>
-        <id>https://m.idai.ly/se/9af3QS</id>
-        <link href="https://m.idai.ly/se/9af3QS"/>
-        <updated>2023-08-12T02:57:00.000Z</updated>
-        <summary type="html"><![CDATA[新加坡总理李显龙与中国外交部长王毅举行会晤。8月10日，中国外长王毅应邀对新加坡进行为期2天访问，期间分别会晤新加坡总理李显龙和副总理黄循财。中新双方重申两国长久和实质的关系，重申建设开发、和平和包容区域的重要性。新方表示原则上支持中国加入 CPTPP，中方向新方介绍了中国外交政策的最新重点。中国连续10年为新加坡最大贸易伙伴，2023年一季度中新双边贸易额达到301.4亿美元，同比增长34.9%。摄影师：MCI]]></summary>
-        <author>
-            <name>iDaily 每日环球视野</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[夏威夷史上最严重山火]]></title>
-        <id>https://m.idai.ly/se/f84iOr</id>
-        <link href="https://m.idai.ly/se/f84iOr"/>
-        <updated>2023-08-12T02:55:00.000Z</updated>
-        <summary type="html"><![CDATA[夏威夷毛伊岛的住宅区被山火烧为灰烬。8月11日，美国夏威夷州毛伊岛山火已造成至少80人死亡，超过1000人失踪，逾1700栋建筑被毁。这是夏威夷州有史以来伤亡最严重的自然灾害，部分居民为躲避火灾而跳海求生。美国总统 Joe Biden 已宣布本次山火为「重大灾难」，下令调集联邦资源协助当地救灾和重建。夏威夷州长估计本次山火灾害的经济损失达数十亿美元，预计重建工作将持续数年。摄影师：Patrick T. Fallon]]></summary>
-        <author>
-            <name>iDaily 每日环球视野</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[缅甸季雨洪水灾害]]></title>
-        <id>https://m.idai.ly/se/ba6zYZ</id>
-        <link href="https://m.idai.ly/se/ba6zYZ"/>
-        <updated>2023-08-12T02:51:00.000Z</updated>
-        <summary type="html"><![CDATA[一座寺庙被暴雨洪水淹没，缅甸勃固省。8月11日，缅甸政府通报7月中旬迄今季雨洪涝灾害已造成至少5人死亡，超过6万人受灾，约4万人被安置在寺庙和学校等临时避难中心。联合国粮食计划署警告称缅甸因洪灾面临更严重的粮食危机，该国约有1500万人的粮食供给不足，预计至2023年底前需要6000万美元粮食援助资金。摄影师：Sai Aung Main]]></summary>
-        <author>
-            <name>iDaily 每日环球视野</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[雅加达空气污染加剧]]></title>
-        <id>https://m.idai.ly/se/983VZ6</id>
-        <link href="https://m.idai.ly/se/983VZ6"/>
-        <updated>2023-08-12T02:49:00.000Z</updated>
-        <summary type="html"><![CDATA[印尼首都雅加达市区被空气污染的雾霾笼罩。8月12日，雅加达连续多日高居全球空气污染城市榜首，该市主要污染源来自汽车尾气、工业烟尘排放和燃煤发电厂。为应对空气污染问题，印尼政府已宣布2023年起停建燃煤发电厂。印尼计划在2024年将首都从雅加达搬迁至努桑塔拉，从而缓解人口高度密集带来的污染问题。摄影师：Bay Ismoyo]]></summary>
-        <author>
-            <name>iDaily 每日环球视野</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023世界大象日]]></title>
-        <id>https://m.idai.ly/se/06b2X4</id>
-        <link href="https://m.idai.ly/se/06b2X4"/>
-        <updated>2023-08-12T02:47:00.000Z</updated>
-        <summary type="html"><![CDATA[印度林业部工作人员正在检查一只被火车撞伤后死亡的野生大象，阿萨姆邦。8月12日是世界大象日，世界自然基金会发布报告显示，目前全球共有约5.2万只野生亚洲象，主要分布在印度、孟加拉国、泰国、尼泊尔、中国等13个南亚和东南亚国家。受栖息地丧失、人象冲突、非法盗猎等威胁，过去100年亚洲象数量减少达50%，活动范围缩小85%。摄影师：Anupam Nath]]></summary>
-        <author>
-            <name>iDaily 每日环球视野</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[福利丨诞生20周年，“我是霸王龙”宫西达也霸王龙系列大展北京站启动]]></title>
-        <id>9aa227eab9f4b856f3f7d5df8e03d19c</id>
-        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E7%A6%8F%E5%88%A9%E4%B8%A8%E8%AF%9E%E7%94%9F20%E5%91%A8%E5%B9%B4%EF%BC%8C%E2%80%9C%E6%88%91%E6%98%AF%E9%9C%B8%E7%8E%8B%E9%BE%99%E2%80%9D%E5%AE%AB%E8%A5%BF%E8%BE%BE%E4%B9%9F%E9%9C%B8%E7%8E%8B%E9%BE%99%E7%B3%BB%E5%88%97%E5%A4%A7%E5%B1%95%E5%8C%97%E4%BA%AC%E7%AB%99%E5%90%AF%E5%8A%A8"/>
-        <updated>2023-08-12T01:59:00.000Z</updated>
-        <author>
-            <name>新京报书评周刊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我们眼中的世界是“乘法”的，还是“加法”的？]]></title>
-        <id>15c7f32b94ec71ab44be8e902010a8f3</id>
-        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E6%88%91%E4%BB%AC%E7%9C%BC%E4%B8%AD%E7%9A%84%E4%B8%96%E7%95%8C%E6%98%AF%E2%80%9C%E4%B9%98%E6%B3%95%E2%80%9D%E7%9A%84%EF%BC%8C%E8%BF%98%E6%98%AF%E2%80%9C%E5%8A%A0%E6%B3%95%E2%80%9D%E7%9A%84%EF%BC%9F"/>
-        <updated>2023-08-12T01:59:00.000Z</updated>
-        <author>
-            <name>新京报书评周刊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[李白：一个除了天才之外，毫无凭依的“失败者”]]></title>
-        <id>3fb454cbccdebd77e3d93d3dda2b372a</id>
-        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E6%9D%8E%E7%99%BD%EF%BC%9A%E4%B8%80%E4%B8%AA%E9%99%A4%E4%BA%86%E5%A4%A9%E6%89%8D%E4%B9%8B%E5%A4%96%EF%BC%8C%E6%AF%AB%E6%97%A0%E5%87%AD%E4%BE%9D%E7%9A%84%E2%80%9C%E5%A4%B1%E8%B4%A5%E8%80%85%E2%80%9D"/>
-        <updated>2023-08-12T01:59:00.000Z</updated>
-        <author>
-            <name>新京报书评周刊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[孩子说了脏话，父母先别急着生气]]></title>
-        <id>b10f3351dbdd812336320463f719fb65</id>
-        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E5%AD%A9%E5%AD%90%E8%AF%B4%E4%BA%86%E8%84%8F%E8%AF%9D%EF%BC%8C%E7%88%B6%E6%AF%8D%E5%85%88%E5%88%AB%E6%80%A5%E7%9D%80%E7%94%9F%E6%B0%94"/>
-        <updated>2023-08-12T01:59:00.000Z</updated>
-        <author>
-            <name>新京报书评周刊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘It’s Not Just About You’: DeSantis Blasts Trump’s Refusal to Sign GOP Candidate Pledge]]></title>
-        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1528412</id>
-        <link href="https://www.nationalreview.com/news/its-not-just-about-you-desantis-blasts-trumps-refusal-to-sign-gop-candidate-pledge/"/>
-        <updated>2023-08-11T23:52:17.000Z</updated>
-        <summary type="html"><![CDATA[‘I wouldn’t sign the pledge,’ Trump had told an interviewer. ‘Why would I sign a pledge if there are people on there that I wouldn’t have?’]]></summary>
-        <author>
-            <name>Brittany Bernstein</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘About Time’: 2024 Republican Field Reacts to Special Counsel Appointment in Hunter Biden Probe]]></title>
-        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1528348</id>
-        <link href="https://www.nationalreview.com/news/about-time-2024-republican-field-reacts-to-special-counsel-appointment-in-hunter-biden-probe/"/>
-        <updated>2023-08-11T21:37:11.000Z</updated>
-        <summary type="html"><![CDATA[‘The American people deserve answers, and I welcome the appointment,’ said Mike Pence.]]></summary>
-        <author>
-            <name>Brittany Bernstein</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mark Moses Reminds Us What Local Government Is For]]></title>
-        <id>https://www.nationalreview.com/?p=1528201</id>
-        <link href="https://www.nationalreview.com/2023/08/mark-moses-reminds-us-what-local-government-is-for/"/>
-        <updated>2023-08-11T20:10:35.000Z</updated>
-        <summary type="html"><![CDATA[A Capital Writing interview with the author of The Municipal Financial Crisis.]]></summary>
-        <author>
-            <name>Dominic Pino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Garland’s Special-Counsel Appointment in the Biden Probe Is a Farce]]></title>
-        <id>https://www.nationalreview.com/?p=1528301</id>
-        <link href="https://www.nationalreview.com/2023/08/garlands-special-counsel-appointment-in-the-biden-probe-is-a-farce/"/>
-        <updated>2023-08-11T20:06:41.000Z</updated>
-        <summary type="html"><![CDATA[U.S. Attorney David Weiss is clearly ineligible for the job, and he has been appointed to it to cover up rather than uncover the Bidens’ corruption.]]></summary>
-        <author>
-            <name>Andrew C. McCarthy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maryland Principal Promoted Despite 18 Reports of Sexual Assault, Harassment, Bullying]]></title>
-        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1528300</id>
-        <link href="https://www.nationalreview.com/news/maryland-principal-promoted-despite-18-reports-of-sexual-assault-harassment-bullying/"/>
-        <updated>2023-08-11T19:49:42.000Z</updated>
-        <summary type="html"><![CDATA[Joel Beidleman received a $191,000 salary.]]></summary>
-        <author>
-            <name>Haley Strack</name>
         </author>
     </entry>
 </feed>
