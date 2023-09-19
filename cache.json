@@ -44,16 +44,6 @@
           "wordCount": 6254,
           "title": "R Weekly 2023-W35 S7 0.1.0, Template Files, Web APIs",
           "imageUrl": "https://rweekly.org/public/facebook.png"
-        },
-        {
-          "id": "https://rweekly.org/2023-W34.html",
-          "author": null,
-          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Jonathan Carroll, with help from the RWeekly team members and contributors.\nHighlight\nBest Practices for Data Cleaning and Preprocessing\nAnalyzing new USDA data using open source tools\nTaking from Infinite Sequences\nInsights\nObject of type closure can shut up\nBest Practices for Data Cleaning and Preprocessing\nwebR 0.2.0 has been released\n\nTaking from Infinite Sequences\nPythagorean Triples with Comprehensions\nAnalyzing new USDA data using open source tools\nLittle useless-useful R functions – Goldbach’s conjecture and Sieve of Sundaram\nCan a Simple Multi-Agent Model Replicate Complex Stock Market Behaviour?\nCopernicus OpenEO NDVI time series\n\nHow to Sum Rows in R: Master Summi…",
-          "link": "https://rweekly.org/2023-W34.html",
-          "publishedOn": "2023-08-21T00:00:00.000Z",
-          "wordCount": 6218,
-          "title": "R Weekly 2023-W34 Cleaning Data, Analyzing Data, and Infinite Data",
-          "imageUrl": "https://rweekly.org/public/facebook.png"
         }
       ]
     },
@@ -401,16 +391,6 @@
           "wordCount": 103,
           "title": "蔡伟杰评《珍珠在蒙古帝国》︱木格哈敦的珍珠耳饰",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_24301824",
-          "author": null,
-          "description": "亚当·斯密（1723.6.5-1790.7.17）\n\n今年恰逢亚当·斯密三百周年诞辰，中外学界多有纪念活动。3月，北京大学经济学院举办了纪念亚当·斯密诞辰三百周年经济思想史研讨会。4月，美国波士顿学院举办了“亚当斯密与今日资本主义”（Adam Smith and Capitalism Today）研讨会。8月初，浙江大学历史学院举办了纪念亚当·斯密诞辰三百周年国际学术研讨会。在这番盛况空前的热闹景象中，斯密的故乡苏格兰尤为引人瞩目。今年6月，格拉斯哥大学举办了“亚当·斯密三百年纪念周”（Adam Smith Tercentenary Week）；7月，国际亚当·斯密学会（International Adam Smith Society）的年会由圣安德鲁斯大学承办。苏格兰两地纪念活动规模之大，实为历年来所罕见；初入学界的年轻人在架上藏书的作者们面前报告自己的工作，“童子何知，躬逢胜饯”之心油然而生。\n几年前国内一位学界前辈访问英国，由苏格兰而至伦敦，谈及风俗民情，幽默而不无严肃地沉吟道：“苏格兰人民富有德性。”我在今年夏天两次从财富密集的伦敦北上德性丰沛的苏格兰，仍能切身感受到三百年前的苏格兰先哲在财富与德性之间上下求索的心迹。回到三百年后的当下，他们的思索仍然是我们的关切，仍然构成今天的斯密学术与苏格兰启蒙运动研究的重要主题。过去与现在的对话、现实与学术的交织，因此成为这两次旅途中最为真切的感受。\n\n爱丁堡的Panmure House，斯密1778-1790年的居所（作者摄，下同）。\n\n格拉斯哥大学与斯密“正统”\n格拉斯哥大学是亚当·斯密的母校，也是他后来长期工作的地方。《道德情感论》和《法理学讲义》就是斯密在格拉斯哥大学的工作成果。十九世纪以来，格拉斯哥大学成为斯密“正统”之所在，并于1896年设立亚当·斯密政治经济学讲席教授（Adam Smith Professor o…",
-          "link": "https://www.thepaper.cn/newsDetail_forward_24301824",
-          "publishedOn": "2023-08-21T04:02:14.000Z",
-          "wordCount": 791,
-          "title": "孙宇辰｜跨越三百年的德性：苏格兰两地忆斯密",
-          "imageUrl": null
         }
       ]
     },
@@ -425,6 +405,96 @@
       "feedUrl": "https://www.nationalreview.com/feed/",
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
+        {
+          "id": "https://www.nationalreview.com/?p=1542593",
+          "author": "Desmond Lachman",
+          "description": "A crisis takes a much longer time coming than you think but then happens much faster than you would have thought.",
+          "link": "https://www.nationalreview.com/2023/09/a-financial-crisis-foretold/",
+          "publishedOn": "2023-09-19T15:34:30.000Z",
+          "wordCount": 8606,
+          "title": "A Financial Crisis Foretold",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/06/Fed-Reserve-5.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1542500",
+          "author": "David Zimmermann",
+          "description": "Republican Susan Collins of Maine joked with reporters that she could now ‘wear a bikini’ on the Senate floor",
+          "link": "https://www.nationalreview.com/news/republicans-blast-relaxed-senate-dress-code-as-pathetic-and-disgraceful/",
+          "publishedOn": "2023-09-19T14:37:27.000Z",
+          "wordCount": 8629,
+          "title": "Republicans Blast Relaxed Senate Dress Code as ‘Pathetic’ and ‘Disgraceful’",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2020/08/susan-collins-reporters.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1542486",
+          "author": "David Zimmermann",
+          "description": "The classified notecards were used to brief Trump about phone calls with foreign leaders or other international matters.",
+          "link": "https://www.nationalreview.com/news/trump-wrote-to-do-lists-for-former-aide-on-back-of-classified-documents-sources-say/",
+          "publishedOn": "2023-09-19T12:46:52.000Z",
+          "wordCount": 8511,
+          "title": "Trump Wrote To-Do Lists for Former Aide on Backs of Classified Documents: Report",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2021/05/Donald-Trump-4.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1542287",
+          "author": "Shay Khatiri and Andrew Ghalili",
+          "description": "Through lies, deception, and secrecy, the administration will get away with rewarding a hostile regime.",
+          "link": "https://www.nationalreview.com/2023/09/the-latest-biden-iran-deal-is-as-bad-as-youd-expect/",
+          "publishedOn": "2023-09-19T10:30:45.000Z",
+          "wordCount": 9789,
+          "title": "The Latest Biden Iran Deal Is as Bad as You’d Expect",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/03/joe-biden-anthony-blinken-1.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1542446",
+          "author": "Rich Lowry",
+          "description": "The senator from Pennsylvania has beclowned himself and his institution — not that he cares.",
+          "link": "https://www.nationalreview.com/2023/09/john-fetterman-makes-the-u-s-senate-safe-for-disgraceful-slobs/",
+          "publishedOn": "2023-09-19T10:30:24.000Z",
+          "wordCount": 8693,
+          "title": "John Fetterman Makes the U.S. Senate Safe for Disgraceful Slobs",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/09/john-fetterman-press-conference.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1542302",
+          "author": "Abigail Anthony",
+          "description": "She’s completely unremarkable, and that’s precisely her appeal.",
+          "link": "https://www.nationalreview.com/2023/09/the-averageness-of-taylor-swift/",
+          "publishedOn": "2023-09-19T10:30:23.000Z",
+          "wordCount": 9084,
+          "title": "The Averageness of Taylor Swift",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/09/taylor-swift-mtv.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1542445",
+          "author": "Jack Fowler",
+          "description": "The Democrat-led campaign to kill off a popular education-reform package may have an unexpected hope in one party-bucking Democrat.",
+          "link": "https://www.nationalreview.com/2023/09/does-the-pennsylvania-gop-have-room-for-an-amen-corner/",
+          "publishedOn": "2023-09-19T10:30:09.000Z",
+          "wordCount": 9559,
+          "title": "Does the Pennsylvania GOP Have Room for an Amen Corner?",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/09/amen-brown-nbc10-philly-youtube.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1542391",
+          "author": "Henry Olsen",
+          "description": "It would disproportionately harm working-class Americans. We need a more tailored approach to Social Security reform.",
+          "link": "https://www.nationalreview.com/2023/09/a-uniform-hike-in-the-retirement-age-is-a-bad-idea/",
+          "publishedOn": "2023-09-19T10:30:08.000Z",
+          "wordCount": 9626,
+          "title": "A Uniform Hike in the Retirement Age Is a Bad Idea",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/09/social-security-money-hand.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1541074",
+          "author": "F. Vincent Vernuccio",
+          "description": "If unions want to represent workers, they should win a vote in a free and fair election.",
+          "link": "https://www.nationalreview.com/2023/09/workplace-democracy-dies-in-darkness-at-the-nlrb/",
+          "publishedOn": "2023-09-19T10:30:01.000Z",
+          "wordCount": 8949,
+          "title": "Workplace Democracy Dies in Darkness at the NLRB",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/09/cemex-mexico.jpg?fit=1200%2C700&ssl=1"
+        },
         {
           "id": "https://www.nationalreview.com/?post_type=blog-post&p=1542396",
           "author": "Brittany Bernstein",
@@ -4753,6 +4823,46 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/83066",
+          "author": "waychane",
+          "description": "随着新一代 iPhone 系列机型的亮相以及正式发售日期的临近，在拿到新设备前，相信不少人都对几款新 iPhone 有许多感兴趣的细节和疑问。在正式发售前夕，少数派也有机会获得了提前体验新款 iPhone 的机会，对于大家比较关心的配色、外观、重量、新功能等问题，我们在短暂体验之后也进行了整理，通过这篇文章与你分享。查看全文",
+          "link": "https://sspai.com/post/83066",
+          "publishedOn": "2023-09-19T13:01:08.000Z",
+          "wordCount": 825,
+          "title": "手感更轻、性能更重：iPhone 15 Pro 快速上手体验",
+          "imageUrl": "https://cdn.sspai.com/2023/9/19/article/d8c7583b-c48c-1c64-9095-ffe57f616816.gif"
+        },
+        {
+          "id": "https://sspai.com/prime/story/qmk-firmware-tutorial",
+          "author": "炜智能",
+          "description": "入坑客制化键盘早晚都会接触到 VIA 这个改键软件，本文将带你开启自己编写键盘固件的第一步。查看全文\n本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
+          "link": "https://sspai.com/prime/story/qmk-firmware-tutorial",
+          "publishedOn": "2023-09-19T09:33:28.000Z",
+          "wordCount": 1474,
+          "title": "一步步做个最适合自己的键盘固件：QMK 固件制作全解",
+          "imageUrl": "https://cdn.sspai.com/9/19/2023/article/24cc2c20-7dd8-c33e-6878-76fcf5c822fb.png"
+        },
+        {
+          "id": "https://sspai.com/post/83052",
+          "author": "Matrix机器人",
+          "description": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意以及社区产品动态呈现给大 ...查看全文",
+          "link": "https://sspai.com/post/83052",
+          "publishedOn": "2023-09-19T09:27:48.000Z",
+          "wordCount": 858,
+          "title": "社区速递013 | 浏览器书签的 99 条用法和漫画迷的数据库",
+          "imageUrl": "https://cdn.sspai.com/2023/9/19/article/f5c81e6e-67d9-df95-5cb9-3eaeb60982fa.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/82826",
+          "author": "Lars漫步",
+          "description": "GUGA 就像班级中的全能学生，什么都能做、但什么都做不到最好——好在它的独特优势和风格，在一众缺乏新意的笔记市场中仍显难能可贵。查看全文",
+          "link": "https://sspai.com/post/82826",
+          "publishedOn": "2023-09-19T07:00:00.000Z",
+          "wordCount": 800,
+          "title": "App+1 | 白板的信息关联、整理与查找，GUGA 是如何搞定的？",
+          "imageUrl": "https://cdn.sspai.com/2023/9/19/article/796c2104-1fb2-5f98-9076-6f5b2f7e6e6e.png"
+        },
+        {
           "id": "https://sspai.com/post/83015",
           "author": "少数派编辑部",
           "description": "少数派在体验了新版系统之后，帮你整理了 iOS 17 中值得关注的新功能和新特性，希望帮你进一步了解新版系统的方方面面。查看全文",
@@ -5901,26 +6011,6 @@
           "wordCount": 708,
           "title": "Matrix Talk | 不吝想法和创意：聊聊我们收到的七夕礼物",
           "imageUrl": "https://cdn.sspai.com/2023/8/21/article/7c625e6f-b8bf-2635-a78d-50da4f0fabb8.png"
-        },
-        {
-          "id": "https://sspai.com/post/82037",
-          "author": "SIMON_",
-          "description": "九州有着丰富的自然景观，包括火山、温泉、山脉以及绝美的海岸线，还有众多当地小吃和美食，如果你已经已经去过日本其他地方或是想要体验与众不同的日本文化，它应该是不错的选择。查看全文",
-          "link": "https://sspai.com/post/82037",
-          "publishedOn": "2023-08-21T03:37:32.000Z",
-          "wordCount": 701,
-          "title": "日本浮生录 02：漫步北九州，感受自然和人文之美",
-          "imageUrl": "https://cdn.sspai.com/2023/08/15/5d3c11288639beb7189b3da5a951809f.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/82240",
-          "author": "少数派编辑部",
-          "description": "你可能错过的新鲜事《黑神话：悟空》举办线下试玩，上架Steam8月20日上午十点，《黑神话：悟空》在杭州举行首次线下试玩会，并通过B站直播。英伟达同步发布了基于线下试玩同一版本录制的实机视频，内容为4 ...查看全文",
-          "link": "https://sspai.com/post/82240",
-          "publishedOn": "2023-08-21T00:54:54.000Z",
-          "wordCount": 794,
-          "title": "派早报：《黑神话：悟空》举办线下试玩，稚晖君团队首款机器人亮相",
-          "imageUrl": "https://cdn.sspai.com/8/21/2023/article/290adb27-34c8-a5c8-7de6-9f0702e32c43.png"
         }
       ]
     },
@@ -5929,6 +6019,96 @@
       "feedUrl": "https://plink.anyfeeder.com/idaily/today",
       "siteUrl": "https://docs.rsshub.app",
       "articles": [
+        {
+          "id": "https://m.idai.ly/se/becKA2",
+          "author": null,
+          "description": "第9届「巴黎无车日」（Paris Respire），巴黎市民们踩滑轮鞋出行。9月17日，法国巴黎迎来一年一度的无车日活动，当天巴黎市区内道路从早10点至晚18点禁止私家车通行，违反者将面临135欧元罚款。巴黎市政府计划从2024年起禁止柴油车、车龄超10年的汽油车进入主城区，2030年全面禁止燃油车上路。摄影师：Mohamad Alsayed",
+          "link": "https://m.idai.ly/se/becKA2",
+          "publishedOn": "2023-09-19T10:59:00.000Z",
+          "wordCount": 1202,
+          "title": "2023巴黎无车日",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.idai.ly/se/5d1x9j",
+          "author": null,
+          "description": "中国国家副主席韩正与美国国务卿 Antony Blinken 举行会晤，纽约。9月18日，中国副主席韩正与美国国务卿 Blinken 在联合国大会开幕前夕就中美关系、俄乌冲突、朝鲜半岛和台海局势等议题交换意见。双方重申将保持开放的沟通渠道，负责任地管控分歧。韩正强调，中国的发展对美国不是风险，希望美方采取实际行动推动中美关系重回健康稳定轨道。美国国务卿 Blinken 称面对面会谈是中美两国处理分歧、探索合作的最佳方式，美方将继续利用外交手段维护美国利益和价值观。摄影师：Julia Nikhinson",
+          "link": "https://m.idai.ly/se/5d1x9j",
+          "publishedOn": "2023-09-19T09:57:00.000Z",
+          "wordCount": 1202,
+          "title": "韩正会晤美国国务卿",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.idai.ly/se/3f4LyO",
+          "author": null,
+          "description": "中共中央外办主任、外交部长王毅与美国国家安全顾问 Jake Sullivan 举行会谈，马耳他。9月16日至17日，中国外长王毅与美国总统安全顾问围绕「稳定和改善中美关系」进行长达12小时会谈，主要就亚太局势、俄乌冲突、朝鲜半岛等国际和地区问题交换意见。双方表示本次会谈坦诚、具有实质性和建设性，同意保持高层交往，举行中美亚太事务磋商、海洋事务磋商、外交政策磋商。王毅强调，台湾问题是中美关系第一条不可逾越的红线，美方必须恪守中美三个联合公报，落实不支持「台独」的承诺，中国的发展权利不容剥夺。摄影师：Lian Yi",
+          "link": "https://m.idai.ly/se/3f4LyO",
+          "publishedOn": "2023-09-19T09:55:00.000Z",
+          "wordCount": 1202,
+          "title": "王毅会晤美国安顾问",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.idai.ly/se/920h12",
+          "author": null,
+          "description": "中共中央外办主任、外交部长王毅与俄罗斯外交部长 Sergei Lavrov 举行双边会谈，莫斯科。9月18日，中国外长王毅应邀赴俄出席中俄第18轮战略安全磋商，两国外长就双边关系、乌克兰危机及共同关心的国际和地区问题协调立场。王毅表示中俄奉行独立自主外交政策，双方合作不针对第三方且不受第三方干扰，中俄对维护全球战略稳定、推动世界发展进步负有重要责任。Lavrov 表示俄中要进一步加强在联合国、上海合作组织等多边框架内的协调协作，共同维护国际关系基本准则。摄影师：Russian Foreign Ministry",
+          "link": "https://m.idai.ly/se/920h12",
+          "publishedOn": "2023-09-19T09:53:00.000Z",
+          "wordCount": 1202,
+          "title": "中俄外长战略磋商",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.idai.ly/se/7337NV",
+          "author": null,
+          "description": "联合国秘书长 Antonio Guterres 在联合国可持续发展目标峰会上发表讲话，纽约。9月18日，联合国大会通过一项旨在加速实现2030年可持续发展目标的政治宣言，呼吁改革「过时、失调和不公平」的国际金融架构，承诺加快行动实现17项可持续发展目标，促进经济繁荣、人类福祉和环境保护，支持联合国秘书长提出的每年至少5000亿美元可持续发展目标刺激方案。联合国193个会员国于2015年通过可持续发展目标，目前仅15%项目达到预期进展，约30%处于停滞或倒退状态。摄影师：Justin Lane",
+          "link": "https://m.idai.ly/se/7337NV",
+          "publishedOn": "2023-09-19T09:51:00.000Z",
+          "wordCount": 1202,
+          "title": "联合国可持续发展峰会",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.idai.ly/se/1d3Evr",
+          "author": null,
+          "description": "巴黎奥赛博物馆举行「走钢丝的人」（The Tracer）杂技表演活动庆祝第40届欧洲遗产日。9月16日，法国迎来一年一度的「欧洲遗产日」，全国超过1.7万个博物馆、剧院、历史遗址向公众免费开放2天。「欧洲遗产日」于1984年由法国文化部发起，1991年起在欧洲委员会倡议下发展成50个欧洲国家的共同文化活动，本年度主题为「活的遗产」和「体育遗产」。摄影师：Julien de Rosa",
+          "link": "https://m.idai.ly/se/1d3Evr",
+          "publishedOn": "2023-09-19T09:49:00.000Z",
+          "wordCount": 1202,
+          "title": "法国欧洲遗产日",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.idai.ly/se/7bb4hH",
+          "author": null,
+          "description": "拍卖行工作人员正在组装一具1.5亿年前的弯龙（Camptosaurus）化石，巴黎。这是迄今已知保存最完整的弯龙化石骨架之一，长5米、高2.1米、宽1.5米，头骨完整度达到90%，躯干完整度达到80%，2000年在美国怀俄明州的晚侏罗世地层出土发现。弯龙是一种生活在侏罗纪晚期北美及欧洲地区的植食性恐龙，奔跑速度可达每小时25公里。这具骨架化石将于10月20日在巴黎进行拍卖，估价120万欧元。摄影师：Abdul Saboor",
+          "link": "https://m.idai.ly/se/7bb4hH",
+          "publishedOn": "2023-09-19T09:47:00.000Z",
+          "wordCount": 1202,
+          "title": "巴黎拍卖侏罗纪弯龙化石",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.idai.ly/se/49d9P4",
+          "author": null,
+          "description": "波哥大博特罗博物馆展出一幅 Fernando Botero 1976年创作的油画《信件》。9月15日，哥伦比亚画家、雕塑家 Fernando Botero 因肺炎在摩纳哥去世，享年91岁。Botero 是拉丁美洲知名度最高的当代艺术家之一，其作品以肥硕丰满的人物肖像为特点，通过放大体积带来荒诞夸张的艺术效果，表达对政治社会现象的抨击与讽刺。摄影师：Chepa Beltran",
+          "link": "https://m.idai.ly/se/49d9P4",
+          "publishedOn": "2023-09-19T09:45:00.000Z",
+          "wordCount": 1202,
+          "title": "费尔南多·博特罗逝世",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.idai.ly/se/eedfnf",
+          "author": null,
+          "description": "游客们在杭州西湖观赏夜景。9月18日，杭州亚运会开幕式完成最后一次全要素彩排，本届亚运会将于9月23日正式开幕，赛事设置40个大项、61个分项、481个小项，预计共有45个国家和地区的逾1万名运动员参赛，角逐产生481枚金牌。中国代表团本届亚运会将派出886名运动员参赛，选手平均年龄为25岁，最大年龄60岁，最小年龄13岁。摄影师：Hector Retamal",
+          "link": "https://m.idai.ly/se/eedfnf",
+          "publishedOn": "2023-09-19T09:43:00.000Z",
+          "wordCount": 1202,
+          "title": "杭州亚运会即将开幕",
+          "imageUrl": null
+        },
         {
           "id": "https://m.idai.ly/se/638018",
           "author": null,
@@ -8047,6 +8227,16 @@
       "siteUrl": "http://nytimes.com",
       "articles": [
         {
+          "id": "https://cn.nytimes.com/technology/20230919/elon-musk-walter-isaacson-takeaways/dual",
+          "author": null,
+          "description": "JEREMY W. PETERS, NIRAJ CHOKSHI, BENJAMIN MULLIN2023年9月19日埃隆·马斯克在传记中说，特斯拉早期的困难让他度过了一段漫长而艰难的时期，身心都受到了极大的伤害。 Gonzalo Fuentes/Reuters\nA new biography of Elon Musk portrays the billionaire entrepreneur as a complex, tortured figure whose brilliance is often overshadowed by his inability to relate on a human level to the people around him — his wives, his children and those on whom he relied to help develop the space exploration and electric car businesses that made him the wealthiest man on Earth.\n埃隆·马斯克的新传记将这位亿万富翁企业家描绘成一个饱受折磨的复杂人物，无法与身边的人————他的几任妻子、孩子们，以及那些帮助他发展太空探索和电动汽车业务、使他成为全球首富的人——建立良好的人际关系，这个问题时常给他的才华蒙上阴影。\nMr. Musk’s life so far — his difficult childhood in South Africa, his stormy romantic relationships, his success as a visionary who built SpaceX and Tesla, and his impetuous decision t…",
+          "link": "https://cn.nytimes.com/technology/20230919/elon-musk-walter-isaacson-takeaways/dual",
+          "publishedOn": "2023-09-19T09:06:02.000Z",
+          "wordCount": 2148,
+          "title": "七个人生关键词，新传记带你读懂马斯克",
+          "imageUrl": "https://static01.nyt.com/images/2023/09/09/multimedia/09isaacson-book-2-bpcw/09isaacson-book-2-bpcw-articleLarge.jpg"
+        },
+        {
           "id": "https://cn.nytimes.com/opinion/20230919/china-tibet-boarding-school/dual",
           "author": null,
           "description": "GYAL LO2023年9月19日 Matt Rota\nOne day in late November 2016, back home in Tibet, I received a distressing call from my brother telling me I needed to check on his granddaughters. “Something very strange is happening,” he said.\n2016年11月下旬的一天，我在西藏家中接到了哥哥打来的一通令人不安的电话，让我去看看他孙女们的情况。“真的非常奇怪，”他说。\nMy young relatives, who were 4 and 5 years old at the time, had just enrolled in a boarding preschool that the Chinese government had established in my hometown, Kanlho, a seminomadic region in the northeast corner of the Tibetan plateau. Their new school was one of many — I have personally tracked about 160 in three Tibetan prefectures alone — and part of Beijing’s growing network of preschools in which Tibetan children are separated from their families and communities and assimilated into Chinese culture…",
@@ -9045,26 +9235,6 @@
           "wordCount": 1034,
           "title": "中国经济疲软扰乱全球股市，港股跌入熊市",
           "imageUrl": "https://static01.nyt.com/images/2023/08/18/multimedia/18hongkong-bear-vpht/18hongkong-bear-vpht-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/asia-pacific/20230821/taiwan-china-military-patrols/dual",
-          "author": null,
-          "description": "AMY CHANG CHIEN2023年8月21日去年，距离台湾不远的中国福建沿海，中国军用直升机沿海岸飞行。 Hector Retamal/Agence France-Presse — Getty Images\nChina’s military said it would stage “joint combat readiness” patrols around Taiwan on Saturday, sending a warning gesture to the island democracy soon after a leading candidate in Taiwan’s presidential election finished an overseas trip that Beijing had denounced.\n中国军方表示于上周六在台湾周边进行“联合战备”警巡，这是在向台湾民主政府发出警告。不久前，台湾总统大选的一名目前领先的候选人刚结束了一次遭到北京谴责的海外访问。\nVice President Lai Ching-te, the candidate, had flown to Paraguay — one of 13 states that keeps diplomatic relations with Taipei, and not Beijing — making stops in the United States on his way there and back. The Chinese government is trying to curtail the international activities of Taiwan, which it claims as its own territory. It especially o…",
-          "link": "https://cn.nytimes.com/asia-pacific/20230821/taiwan-china-military-patrols/dual",
-          "publishedOn": "2023-08-21T03:36:03.000Z",
-          "wordCount": 849,
-          "title": "中国在台湾周边进行军事巡逻，进一步威慑台湾",
-          "imageUrl": "https://static01.nyt.com/images/2023/08/19/multimedia/19china-taiwan-drills-01-fktq/19china-yaiwan-drills-01-fktq-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/asia-pacific/20230821/china-biden-camp-david/dual",
-          "author": null,
-          "description": "DAVID PIERSON, OLIVIA WANG2023年8月21日美国总统拜登上周五在戴维营接待了韩国总统尹锡阅（左）和日本首相岸田文雄。 Samuel Corum for The New York Times\nEver since members of the North Atlantic Treaty Organization sprang into action to help Ukraine try to thwart Russia’s invasion last year, China has warned about a similar U.S.-led security alliance forming in Asia that would seek to hobble Beijing’s ambitions and provoke a confrontation.\n自从北大西洋公约组织成员国去年突然采取行动帮助乌克兰试图抵抗俄罗斯的入侵以来，中国就一直警告不要在亚洲进行类似以美国为首的安全联盟，称这将被视为对中国的围堵并引发对抗之举。\nPresident Biden’s Camp David summit on Friday with the leaders of Japan and South Korea most likely reinforces Beijing’s perception. The talks saw Japan and South Korea put aside their historical animosities to forge a defense pact with the United States aimed at deterring Chinese and North Korean aggression.\n美国总…",
-          "link": "https://cn.nytimes.com/asia-pacific/20230821/china-biden-camp-david/dual",
-          "publishedOn": "2023-08-21T02:06:04.000Z",
-          "wordCount": 1505,
-          "title": "美日韩戴维营峰会推进防务协议，北京或加强对抗",
-          "imageUrl": "https://static01.nyt.com/images/2023/08/19/multimedia/19china-diplo-analysis-tzlm/19china-diplo-analysis-tzlm-articleLarge.jpg"
         }
       ]
     },
@@ -9781,26 +9951,6 @@
           "publishedOn": "2023-08-22T05:59:00.000Z",
           "wordCount": 333,
           "title": "香水的历史：从“神圣之物”，到单纯的享乐主义",
-          "imageUrl": null
-        },
-        {
-          "id": "568b2a687df0c075f2dca297221ce634",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E5%90%8C%E8%B4%A8%E5%8C%96%E3%80%81%E7%B2%97%E5%88%B6%E6%BB%A5%E9%80%A0%E2%80%A6%E2%80%A6%E6%B2%89%E6%B5%B8%E5%BC%8F%E8%89%BA%E6%9C%AF%E5%B1%95%E4%B8%BA%E4%BD%95%E9%99%B7%E5%85%A5%E4%BA%89%E8%AE%AE%EF%BC%9F%EF%BD%9C%E8%AF%BB%E5%88%8A",
-          "publishedOn": "2023-08-21T02:08:00.000Z",
-          "wordCount": 302,
-          "title": "同质化、粗制滥造……沉浸式艺术展为何陷入争议？｜读刊",
-          "imageUrl": null
-        },
-        {
-          "id": "1225ee951c798e70acde8e1e21e3ea56",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E4%BB%8E%E6%85%B7%E6%85%A8%E6%82%B2%E6%AD%8C%E4%B9%8B%E5%A3%AB%E5%88%B0%E6%B3%BC%E7%9A%AE%E7%A0%B4%E8%90%BD%E6%88%B7%E5%84%BF%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%8F%A4%E4%BB%A3%E6%B5%81%E6%B0%93%E7%9A%84%E8%BA%AB%E4%BB%BD%E6%B5%81%E5%8F%98",
-          "publishedOn": "2023-08-21T02:08:00.000Z",
-          "wordCount": 287,
-          "title": "从慷慨悲歌之士到泼皮破落户儿：中国古代流氓的身份流变",
           "imageUrl": null
         }
       ]
