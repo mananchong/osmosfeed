@@ -436,6 +436,96 @@
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
         {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1544022",
+          "author": "Caroline Downey",
+          "description": "Likely voters overwhelmingly disapprove of the current president’s handling of immigration and the economy.",
+          "link": "https://www.nationalreview.com/news/trump-leads-biden-by-9-points-in-new-washington-post-abc-news-poll/",
+          "publishedOn": "2023-09-24T14:01:28.000Z",
+          "wordCount": 7865,
+          "title": "Trump Leads Biden by Nine Points in New <i>Washington Post</i>/ABC News Poll",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/06/DonaldTrump-JoeBiden.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1544011",
+          "author": "Caroline Downey",
+          "description": "NYPD deployed canine and emergency units to check the facility for suspicious activity or items but found nothing.",
+          "link": "https://www.nationalreview.com/news/brooklyn-public-library-relocates-draw-queen-story-after-bomb-threat/",
+          "publishedOn": "2023-09-24T13:31:45.000Z",
+          "wordCount": 7973,
+          "title": "Brooklyn Public Library Relocates Drag-Queen Story Hour after Bomb Threat",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/09/drag-queen-story-hour.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1543982",
+          "author": "Kayla Bartsch",
+          "description": "An apologia for the Queen of Pop.",
+          "link": "https://www.nationalreview.com/2023/09/taylor-swift-empress-of-the-zeitgeist/",
+          "publishedOn": "2023-09-24T10:30:57.000Z",
+          "wordCount": 9080,
+          "title": "Taylor Swift: Empress of the Zeitgeist",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/09/ge.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1543456",
+          "author": "Sarah Schutte",
+          "description": "David Macaulay reveals the intricacies and beauty of soaring buildings and everyday objects.",
+          "link": "https://www.nationalreview.com/2023/09/the-world-in-pen-and-ink/",
+          "publishedOn": "2023-09-24T10:30:22.000Z",
+          "wordCount": 8353,
+          "title": "The World in Pen and Ink",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/09/David-Macaulay.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1543970",
+          "author": "Madeleine Kearns",
+          "description": "The formerly sex-crazed celebrity is in a mess of his own making.",
+          "link": "https://www.nationalreview.com/2023/09/the-cautionary-tale-of-russell-brand/",
+          "publishedOn": "2023-09-24T10:30:21.000Z",
+          "wordCount": 9126,
+          "title": "The Cautionary Tale of Russell Brand",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/09/brandvd.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1543136",
+          "author": "David Curry",
+          "description": "Daniel Ortega and his wife have waged war against the church. America should defend the country’s beleaguered believers.",
+          "link": "https://www.nationalreview.com/2023/09/the-catholic-church-is-the-final-obstacle-for-nicaraguas-brutal-dictatorship/",
+          "publishedOn": "2023-09-24T10:30:07.000Z",
+          "wordCount": 8667,
+          "title": "The Catholic Church Is the Final Obstacle for Nicaragua’s Brutal Dictatorship",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/09/Daniel-Ortega.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1543422",
+          "author": "Jack Butler",
+          "description": "An America where everyone sounds the same, full of people whose very words don’t give them away regionally, is a less exceptional America.",
+          "link": "https://www.nationalreview.com/2023/09/why-the-fading-of-the-southern-accent-is-bad-news/",
+          "publishedOn": "2023-09-24T10:30:04.000Z",
+          "wordCount": 8564,
+          "title": "Why the Fading of the Southern Accent Is Bad News",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/09/semap.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1543849",
+          "author": "Becket Adams",
+          "description": "The administration is at a loss to understand its own role in the public’s growing hesitancy toward Covid boosters.",
+          "link": "https://www.nationalreview.com/2023/09/biden-team-gets-a-pass-in-the-vaccine-skepticism-debate/",
+          "publishedOn": "2023-09-24T10:30:01.000Z",
+          "wordCount": 8122,
+          "title": "Biden Team Gets a Pass in the Vaccine-Skepticism Debate",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2021/09/joe-biden-white-house-2.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1543962",
+          "author": "David Zimmermann",
+          "description": "The California governor will reportedly lead Democratic counterprogramming at the GOP debate.",
+          "link": "https://www.nationalreview.com/news/newsom-to-attend-second-gop-debate-at-biden-campaigns-request/",
+          "publishedOn": "2023-09-23T15:53:02.000Z",
+          "wordCount": 7884,
+          "title": "Newsom to Attend Second GOP Debate at Biden Campaign’s Request",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2021/09/newom.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
           "id": "https://www.nationalreview.com/?p=1543956",
           "author": "Andrew Stuttaford",
           "description": "The week of Monday, September 18: A slowdown of Net Zero mandates in Britain, electric vehicles, the autoworkers’ strike, globalization, Walter Reuther, and much, much more.",
@@ -4674,56 +4764,6 @@
           "wordCount": 11217,
           "title": "Anti-Trump ‘Resistance’ Corrupted ACLU of Florida, Ousted Board Members Say",
           "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2019/07/trump-campaign-relaunch-orlando-fla.jpg?fit=1200%2C700&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1534349",
-          "author": "Haley Strack",
-          "description": "Christian and Muslim parents are asking the district to again allow them to opt out of objectionable lessons.",
-          "link": "https://www.nationalreview.com/news/judge-upholds-mandatory-lgbtq-instruction-in-maryland-school-system-even-for-uniquely-vulnerable-neurodivergent-students/",
-          "publishedOn": "2023-08-26T00:31:30.000Z",
-          "wordCount": 8355,
-          "title": "Judge Upholds Mandatory LGBTQ Instruction in Maryland School System, Even for ‘Uniquely Vulnerable’ Neurodivergent Students",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/08/montgomery-county-public-schools-protest.jpg?fit=1200%2C700&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1534423",
-          "author": "Brittany Bernstein",
-          "description": "The president said he didn’t watch Trump’s interview with Tucker Carlson, and he criticized the candidates who participated in the debate in Milwaukee.",
-          "link": "https://www.nationalreview.com/news/handsome-guy-biden-reacts-to-trumps-mug-shot/",
-          "publishedOn": "2023-08-25T23:54:41.000Z",
-          "wordCount": 7852,
-          "title": "‘Handsome Guy’: Biden Reacts to Trump’s Mug Shot",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/08/JoeBidenTrumpMugshot-2.jpg?fit=1200%2C700&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1534393",
-          "author": "Ryan Mills",
-          "description": "Ousted principal Kurt Dennis is also accused of placing minority students in a ‘seclusion room’ at McAuliffe International School.",
-          "link": "https://www.nationalreview.com/news/denver-school-board-upholds-firing-of-principal-who-expressed-safety-concerns-in-tv-interview/",
-          "publishedOn": "2023-08-25T23:07:30.000Z",
-          "wordCount": 9059,
-          "title": "Denver School Board Upholds Firing of Principal Who Expressed Safety Concerns in TV Interview",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/08/kurt-dennis-next-9news-youtube.jpg?fit=1200%2C700&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1534306",
-          "author": "Brittany Bernstein",
-          "description": "The new law will ban gender-transition surgeries for children and will ban the use of puberty blockers or hormones for minors.",
-          "link": "https://www.nationalreview.com/news/missouri-ban-on-gender-transition-services-for-minors-can-take-effect-monday-judge-rules/",
-          "publishedOn": "2023-08-25T21:03:50.000Z",
-          "wordCount": 7607,
-          "title": "Missouri Ban on Gender-Transition Services for Minors Can Take Effect Monday, Judge Rules",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/04/transgender-flags.jpg?fit=1200%2C700&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1534244",
-          "author": "Brittany Bernstein",
-          "description": "The National Institute on Alcohol Abuse and Alcoholism currently recommends that men drink no more than two drinks per day and that women stick to just one drink per day.",
-          "link": "https://www.nationalreview.com/news/u-s-could-soon-recommend-americans-limit-alcohol-consumption-to-two-drinks-per-week/",
-          "publishedOn": "2023-08-25T20:52:07.000Z",
-          "wordCount": 7857,
-          "title": "U.S. Could Soon Recommend Americans Limit Alcohol Consumption to Two Drinks Per Week",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/05/drinking-bar.jpg?fit=1200%2C700&ssl=1"
         }
       ]
     },
@@ -4732,6 +4772,16 @@
       "feedUrl": "https://sspai.com/feed",
       "siteUrl": "https://sspai.com",
       "articles": [
+        {
+          "id": "https://sspai.com/prime/story/android-intents-affordances",
+          "author": "克莱德",
+          "description": "替代应用图标、嵌入更多可见界面和提供索引甚至自动化接入，摆在应用快捷方式面前的解法其实有不少。查看全文\n本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
+          "link": "https://sspai.com/prime/story/android-intents-affordances",
+          "publishedOn": "2023-09-24T13:18:17.000Z",
+          "wordCount": 1020,
+          "title": "点一下能解决的事就别长按：Android 应用快捷方式面面观",
+          "imageUrl": "https://cdn.sspai.com/2023/9/22/article/3d3f7ae9-4223-942b-101c-7aa4f3408042.jpg"
+        },
         {
           "id": "https://sspai.com/post/62824",
           "author": "广陵止息",
@@ -5831,16 +5881,6 @@
           "wordCount": 693,
           "title": "播客 | 对话老麦：请回答什么是少数派的下一个十年",
           "imageUrl": "https://cdn.sspai.com/26/08/2023/article/1bd85df4-9462-4e4d-c371-933cc585ad59.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/82286",
-          "author": "李琦",
-          "description": "从基础知识学习、业务认知能力到如何避免过度设计、AI 带来的挑战，这 5 条是我认为程序员应该知道的常识。查看全文",
-          "link": "https://sspai.com/post/82286",
-          "publishedOn": "2023-08-26T02:12:12.000Z",
-          "wordCount": 670,
-          "title": "程序员应该知道的常识，我认为有这 5 个",
-          "imageUrl": "https://cdn.sspai.com/2023/08/22/050e32537decab40f0d37c95f892eaf6.png"
         }
       ]
     },
@@ -7868,66 +7908,6 @@
           "wordCount": 1191,
           "title": "ESO 300-16 不规则星系",
           "imageUrl": null
-        },
-        {
-          "id": "https://m.idai.ly/se/7f0awy",
-          "author": null,
-          "description": "韩国最大在野党「共同民主党」在抗日名将李舜臣雕像前抗议日本福岛核污染水排海，首尔。8月25日，韩国最大在野党约2000名党员发起大规模示威游行活动，游行队伍手举「停止排放核污染水」、「停止杀害海洋生物」等标语从光化门广场行进至龙山总统府，全程约5公里。当天日本东京电力公司公布福岛核污染水排海后的首次海域监测结果，宣称3公里范围海域内10份海水样本的放射性氚浓度均符合安全标准。摄影师：Seo Dae-yeon",
-          "link": "https://m.idai.ly/se/7f0awy",
-          "publishedOn": "2023-08-26T03:58:00.000Z",
-          "wordCount": 1189,
-          "title": "韩国在野党反日核污水游行",
-          "imageUrl": null
-        },
-        {
-          "id": "https://m.idai.ly/se/0f84Q6",
-          "author": null,
-          "description": "希腊总理 Kyriakos Mitsotakis 与印度总理 Narendra Modi 举行会晤，雅典。8月25日，印度总理 Modi 成为40年来首位对希腊进行正式访问的印度总理。两国领导人发表联合声明宣布将印度和希腊关系提升为「战略伙伴」，并在旅游业、基础设施、农业、教育、制药和技术等领域加强合作。2022年印度和希腊双边贸易额为13.2亿欧元，同比增长58%，两国目标在2030年前将贸易额再提升一倍。摄影师：Spyros Bakalis",
-          "link": "https://m.idai.ly/se/0f84Q6",
-          "publishedOn": "2023-08-26T02:57:00.000Z",
-          "wordCount": 1189,
-          "title": "印度总理首访希腊",
-          "imageUrl": null
-        },
-        {
-          "id": "https://m.idai.ly/se/2dfu7J",
-          "author": null,
-          "description": "俄罗斯海参崴港口排满从中国进口的汽车。俄开发银行数据显示，2023年前6个月中国汽车在俄罗斯市场的销量达到16.8万辆，超过2022全年销售总量，达到2022年同期的4倍，中国汽车在俄罗斯市场占有率从10.6%增长至46%。中国海关总署数据显示2023年1至7月中俄双边贸易额同比增长36.5%至1341亿美元，中国向俄出口额同比增长达73.4%。摄影师：Yuri Smityuk",
-          "link": "https://m.idai.ly/se/2dfu7J",
-          "publishedOn": "2023-08-26T02:55:00.000Z",
-          "wordCount": 1189,
-          "title": "中国汽车对俄出口暴增",
-          "imageUrl": null
-        },
-        {
-          "id": "https://m.idai.ly/se/c443DK",
-          "author": null,
-          "description": "2024年巴黎奥运会运动员村正在建造施工，法国圣但尼市。8月25日，巴黎奥运村建设进入收尾阶段，预计2023年12月前完工交付，2024年3月1日启动试运营。2024年巴黎奥运村位于巴黎北部郊区，横跨塞纳河两岸，占地面积51公顷，共规划31栋建筑满足1.5万名运动员和随行人员入住。巴黎奥运村运动员公寓将采用水冷系统替代耗电空调，从而减少奥运会期间的碳排放。摄影师：Teresa Suarez",
-          "link": "https://m.idai.ly/se/c443DK",
-          "publishedOn": "2023-08-26T02:53:00.000Z",
-          "wordCount": 1189,
-          "title": "巴黎奥运村施工收尾",
-          "imageUrl": null
-        },
-        {
-          "id": "https://m.idai.ly/se/2ceT2G",
-          "author": null,
-          "description": "美国、菲律宾、澳大利亚在中国南海附近岛屿举行联合军事演习，三描礼士省。8月25日，美菲澳三国在中国南海附近举行两栖登陆和空中突击联合军演，模拟从敌方手中夺回被占领的岛屿。本次军演共有1200名澳军、560名菲军和120名美国海军陆战队员参加，澳大利亚投入2架 F-35 战机和2艘堪培拉军舰参与演习。菲律宾总统 Ferdinand Marcos Jr. 宣称本次军演对菲澳两国的战略合作至关重要，两国还计划在中国南海开展联合巡逻行动。摄影师：Ted Aljibe",
-          "link": "https://m.idai.ly/se/2ceT2G",
-          "publishedOn": "2023-08-26T02:51:00.000Z",
-          "wordCount": 1189,
-          "title": "美菲澳中国南海军演",
-          "imageUrl": null
-        },
-        {
-          "id": "https://m.idai.ly/se/569694",
-          "author": null,
-          "description": "印度宇航局公布一组「月船3号」探测器着陆过程中拍摄的月球南极视频。8月25日，印度宇航局宣布「月船3号」探测器的轨道器、着陆器和月球车均运行正常，月球车已在月面开启巡视任务，累计行驶距离超过8米。印度首个月球登陆车名为「智慧号」（Pragyaan），重约26千克，能够以每秒1厘米的速度在月面缓慢行驶，主要通过2台机载光谱仪分析月壤成分，设计运行时限为14天。摄影师：ISRO",
-          "link": "https://m.idai.ly/se/569694",
-          "publishedOn": "2023-08-26T02:49:00.000Z",
-          "wordCount": 1189,
-          "title": "印度探月器发回月球照",
-          "imageUrl": null
         }
       ]
     },
@@ -9571,36 +9551,6 @@
           "publishedOn": "2023-08-27T02:22:00.000Z",
           "wordCount": 338,
           "title": "匈牙利文学特辑：记忆是作家的使命",
-          "imageUrl": null
-        },
-        {
-          "id": "42e23fb7480e5e11d0b5a4e3d8a441da",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E3%80%8A%E8%AE%A4%E7%9F%A5%E9%99%B7%E9%98%B1%E3%80%8B%EF%BC%9A%E5%A6%82%E4%BD%95%E5%9C%A8%E6%80%9D%E7%BB%B4%E6%96%B9%E5%BC%8F%E4%B8%8A%E4%B8%8D%E8%BD%BB%E6%98%93%E7%8A%AF%E9%94%99%EF%BC%9F",
-          "publishedOn": "2023-08-26T01:59:00.000Z",
-          "wordCount": 287,
-          "title": "《认知陷阱》：如何在思维方式上不轻易犯错？",
-          "imageUrl": null
-        },
-        {
-          "id": "0cd39c504c556d692b5c20fc62a340dc",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E3%80%8A%E8%AF%97%E7%BB%8F%E3%80%8B%E4%B8%AD%E7%9A%84%E8%92%B2%E4%B8%8E%E8%8D%B7%EF%BC%9A%E4%BD%A0%E4%BB%8E%E6%89%80%E6%9C%89%E4%BA%8B%E7%89%A9%E4%B8%AD%E6%B5%AE%E7%8E%B0%EF%BC%8C%E5%85%85%E6%BB%A1%E6%88%91%E7%9A%84%E7%81%B5%E9%AD%82%E4%B8%A8%E5%91%A8%E6%9C%AB%E8%AF%BB%E8%AF%97",
-          "publishedOn": "2023-08-26T01:59:00.000Z",
-          "wordCount": 330,
-          "title": "《诗经》中的蒲与荷：你从所有事物中浮现，充满我的灵魂丨周末读诗",
-          "imageUrl": null
-        },
-        {
-          "id": "c346b04ebd54bc4176fe761e73ae108e",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E3%80%8A%E4%B8%80%E4%B8%AA%E5%AD%A9%E5%AD%90%E7%9A%84%E8%AF%97%E5%9B%AD%E3%80%8B%EF%BC%9A%E4%B8%96%E4%B8%8A%E7%9A%84%E4%B8%9C%E8%A5%BF%E5%A4%9A%E5%A6%82%E7%B9%81%E6%98%9F%EF%BC%8C%E6%88%91%E4%BB%AC%E9%93%81%E5%AE%9A%E5%83%8F%E5%9B%BD%E7%8E%8B%E4%B8%80%E6%A0%B7%E9%AB%98%E5%85%B4",
-          "publishedOn": "2023-08-26T01:59:00.000Z",
-          "wordCount": 328,
-          "title": "《一个孩子的诗园》：世上的东西多如繁星，我们铁定像国王一样高兴",
           "imageUrl": null
         }
       ]
