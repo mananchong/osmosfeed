@@ -6,6 +6,16 @@
       "siteUrl": "https://rweekly.org/atom.xml",
       "articles": [
         {
+          "id": "https://rweekly.org/2023-W39.html",
+          "author": null,
+          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Batool Almarzouq, with help from the R Weekly team members and contributors.\nHighlight\nReflections on posit conf(2023)\nReproducible data science with Nix, part 6 – CI/CD has never been easier\nSnap Slides: a Lightweight HTML Presentation Framework\nParallel raster processing in stars\nInsights\nBenchmark of R file formats using rio and friends\nCloud-Native Geospatial If You Don’t Speak Snake\n\nMountains\nFast remote parquet\nRow Means in R: Calculating Row Averages with Ease\nRcppInt64 0.0.3 on CRAN: Now with nanotime Support\nReflections on posit conf(2023)\nLive from Chicago: Real World Data Science at posit::conf(2023)\n\nR in the Real World\nConfidence Intervals in Election Polling: …",
+          "link": "https://rweekly.org/2023-W39.html",
+          "publishedOn": "2023-09-25T00:00:00.000Z",
+          "wordCount": 6138,
+          "title": "R Weekly 2023-W39 Posit Conf(2023), Nix, Snap Slides & Raster Processing",
+          "imageUrl": "https://rweekly.org/public/facebook.png"
+        },
+        {
           "id": "https://rweekly.org/2023-W38.html",
           "author": null,
           "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Sam Parmar, with help from the R Weekly team members and contributors.\nHighlight\nrio 1.0.0\nAn Interview of Me by JP and Sarah\nHow Open Source (R and Shiny) Is Transforming Processes in the Pharmaceutical Industry\nInsights\nreadODS 2.1.0\nrio 1.0.0\nMerge Consecutive Blockquotes in Markdown\nMake HTML Elements Full-width Automatically via JavaScript and CSS\nState of Shiny 2023 – Download Report\n\nAn introduction to Python for R Users\n\nR in the Real World\nCrossing Bridges: Reporting on NYC taxi data with RStudio and Databricks\nA Tale of Outage and Revival: Building a Static Site Generator in R\nposit::conf(2023)\nUtilizing R for Reproducible Open Science Research in Tucson, Arizona\nF…",
@@ -52,6 +62,26 @@
       "feedUrl": "https://feedx.net/rss/shanghaishuping.xml",
       "siteUrl": "http://thepaper.cn",
       "articles": [
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_24721395",
+          "author": null,
+          "description": "《战时日本的媒体组合：〈翼赞一家〉与社会动员》，大塚英志著、彭雨新译，生活·读书·新知三联书店2023年8月出版，293页，59.00元\n\n1940年月10月12日，在毗邻皇居的东京会馆，“大政翼赞会”正式揭牌。所谓“大政”便指国政，所谓“翼赞”自然就是襄赞、辅助之意。该组织名义上是超党派的公共结社组织，实际上则是一个极右翼的法西斯组织。\n1932年“五一五事件”中，时任首相、立宪政友会总裁犬养毅死于激进派军人的暗杀，宣告了1918年以来日本国内的政党内阁体制已在事实上被终结。而1936年的另一起军事政变即“二二六事件”则彻底宣告了“大正德谟克拉西”留下的痕迹彻底被军国主义的幽暗所吞噬。\n1937年后，由于陷入侵华战争泥潭而无法自拔，要求建立所谓“举国一致”的新体制在日本国内迅速成为一股主导社会舆论的思潮。这股思潮在政治上的直接表现就是要求“解散政党”“取缔政党政治”，主张模仿当时的德国、意大利建立法西斯独裁体制，将全部国力毫无保留地投入侵略战争。1940年7月，近卫文麿再次组阁后，“解散政党”等主张正式被付诸实施。当时日本国会内，无论是最老牌的立宪政友会、一度主张议会中心的立宪民政党，还是被视为军部势力代言人的国民同盟，又或是走所谓基层路线的社会大众党，相继宣布自行解散，其成员大多加入了随后不久成立的“大政翼赞会”。时任首相近卫文麿兼任大政翼赞会总裁，之后的东条英机、小矶国昭以及铃木贯太郎也都兼任过总裁。\n通过吸收之前国会内的政治势力，大政翼赞会在形式上实现了所谓“举国一致”的新体制。在此后，以大政翼赞会为中心来动员、支持对外侵略战争的政治体制，也被称为“翼赞体制”。自大政翼赞会成立后，“翼赞体制”便开始全方位地影响日本社会的方方面面，除配合侵略战争的政治运作外，法西斯文化宣传也是其最重要的任务之一。“翼赞文学”“翼赞报道”“翼赞歌曲”“翼赞戏剧”等概念纷纷出炉，甚至还有…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_24721395",
+          "publishedOn": "2023-09-26T06:02:07.000Z",
+          "wordCount": 51,
+          "title": "沙青青评《战时日本的媒体组合》｜日本漫画、同人文化的“黑历史”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_24733162",
+          "author": null,
+          "description": "《孙子兵法》在英语中长期以来都被翻译成“战争的艺术”（The Art of War），这个译名及其内容的翻译一直引导着读者朝战争方向去理解。如何理解兵及其法对我们进行解读和翻译都起着极为重要的作用。郭化若是将“兵”理解成“兵器”和“用兵”的。在《孙子兵法译注》（郭化若，上海古籍出版社，2012）中，郭化若将《孙子兵法》的第一句“兵者，国之大事”解读成“兵，兵器，用兵，也就是现在所说的战争。孙子一开头就对战争的主要方面和关系之重大作了总的叙述，首先指出战争是国家的大事。战争是敌我拼搏生死场所，是将决定国家存在或灭亡的途径”。魏汝霖《孙子今注今译》（台湾商务印书馆）在解读“兵”字一词时指出“兵”有很多意思，此处指的是“战争”“兵事”，也可指“国防”。但是据李零统计，“《孙子》有71个‘兵’字，‘兵’当‘武器’讲，一条没有，绝大多数都应翻成‘军队’或军力，只有少数几条，比如下文的‘兵者，诡道也’，还有后面的‘兵闻拙速’、‘兵以诈立’，‘兵’字应指‘军事’或‘军事学’”（《孙子兵法》，陈曦译注，中华书局，2011年3月版）。翻译通常反映译者的文化或宗教背景。将《孙子兵法》翻译成“战争的艺术”显然是种过度发挥，也体现出译者对中国传统哲学缺乏足够的认识。\n\n孙武\n\n《孙子兵法》的第一个西文译本是法文本。译者是一位法国耶稣会传教士，名叫钱德明（Joseph-Marie Amiot），他受法国国王路易十五的国务大臣委托来中国收集情报。他生于1718年，1750年来华，1793年在北京去世。钱德明的译本，是《武经七书》全译，不光译《孙子兵法》。1772年，钱德明的译本在巴黎出版。据说这个版本是拿破仑的最爱。钱德明将《孙子兵法》翻译成《中国的军事艺术》（Art Militaire des Chinois），他将“兵”理解成“军事”，因而将“兵者，国之大事”翻译成“军队是国家的大事”（Les t…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_24733162",
+          "publishedOn": "2023-09-26T05:02:07.000Z",
+          "wordCount": 847,
+          "title": "王光林｜《孙子兵法》是战争之法还是战略之法",
+          "imageUrl": null
+        },
         {
           "id": "https://www.thepaper.cn/newsDetail_forward_24721365",
           "author": null,
@@ -411,16 +441,6 @@
           "wordCount": 94,
           "title": "宿景祥评《人类世的“资本论”》| 马克思的武器库",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_24378167",
-          "author": null,
-          "description": "乔纳森·萨姆欣（章静绘）\n\n乔纳森·萨姆欣（Jonathan Sumption，1948- ）是一位跨界奇人。他曾是世界顶级的辩护律师，于2012年至2018年间担任英国最高法院大法官；他是歌剧和古典音乐界的名人，担任英国皇家音乐学院理事；同时他是著名的中世纪历史学家，代表作为“英法百年战争”五部曲，其中前两部《战争的试炼》《烈火的审判》已由社科文献出版社甲骨文品牌推出中文版。他的历史著作还有《朝圣时代：中世纪的上帝之路》（The Age of Pilgrimage: The Medieval Journey to God）、《阿尔比十字军东征》（The Albigensian Crusade）等。\n2023年7月，陆大鹏在伦敦格林尼治采访了萨姆欣，与他聊了英法百年战争和读书等话题。\n首先祝贺您的“百年战争”系列第五卷出版，整个五部曲就算大功告成了。第一卷是1990年出版的，您花了三十多年时间，完成了这部鸿篇巨著。\n萨姆欣：谢谢。不过不止三十多年。我从上世纪七十年代末开始写这部书，去年才完成，也就是一共花了四十多年。\n我们从头聊起吧。我知道您的父亲是著名的律师，所以您从事法律工作有家学渊源。那么您是如何开始对历史，尤其是中世纪历史感兴趣的呢？\n萨姆欣：我上中学（伊顿公学）的时候，历史课是从大约1500年讲起的，并没有涉及中世纪。我在中学课程里详细学习了从1500年到1900年的英格兰历史和欧洲历史。上牛津大学之后，我想学别的东西，想知道1500年之前的事情。所以我的本科专业选择了中世纪历史。1970年我本科毕业，几乎马上就成为我所在的莫德林学院的研究员，然后开始教书。\n刚刚获得本科学位就成为学院的研究员，这是非常了不起的成就了。\n萨姆欣：这种情况的确不算常见。作为莫德林学院的研究员，我主要从事研究工作，但也花了五年时间给本科生教中世纪历史。这是我自己读本科时很享受的专业。后…",
-          "link": "https://www.thepaper.cn/newsDetail_forward_24378167",
-          "publishedOn": "2023-08-27T05:02:07.000Z",
-          "wordCount": 206,
-          "title": "乔纳森·萨姆欣谈英法百年战争",
-          "imageUrl": null
         }
       ]
     },
@@ -435,6 +455,96 @@
       "feedUrl": "https://www.nationalreview.com/feed/",
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1544483",
+          "author": "David Zimmermann",
+          "description": "A lawsuit accuses one school district of not adhering to the law regarding Governor Youngkin’s new guidance.",
+          "link": "https://www.nationalreview.com/news/two-parents-sue-virginia-school-board-for-not-following-new-transgender-policies/",
+          "publishedOn": "2023-09-26T01:42:48.000Z",
+          "wordCount": 8437,
+          "title": "Two Parents Sue Virginia School Board for Not Following New Transgender Policies",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/09/Bathrooms.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1544489",
+          "author": "David Zimmermann",
+          "description": "The first impeachment-inquiry hearing into President Biden is set for Thursday morning.",
+          "link": "https://www.nationalreview.com/news/overwhelming-evidence-incriminating-president-biden-will-be-presented-by-house-oversight/",
+          "publishedOn": "2023-09-25T22:44:39.000Z",
+          "wordCount": 8292,
+          "title": "House Oversight Announces Witnesses for First Biden Impeachment Hearing",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/09/Comer.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1544461",
+          "author": "Charles C. W. Cooke",
+          "description": "This isn’t rocket science: Biden is unpopular because he is terrible at being president of the United States.",
+          "link": "https://www.nationalreview.com/2023/09/joe-biden-is-a-dud/",
+          "publishedOn": "2023-09-25T21:01:56.000Z",
+          "wordCount": 9263,
+          "title": "Joe Biden Is a Dud",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/09/Biden-8.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1544416",
+          "author": "David Zimmermann",
+          "description": "A total of 21 South Carolina politicians have endorsed Donald Trump.",
+          "link": "https://www.nationalreview.com/news/trump-receives-13-more-south-carolina-endorsements-before-visit/",
+          "publishedOn": "2023-09-25T20:52:14.000Z",
+          "wordCount": 8331,
+          "title": "Trump Receives 13 More South Carolina Endorsements before Visit",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/09/Trump-18.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1544431",
+          "author": "Caroline Downey",
+          "description": "The couple was granted asylum in 2010 but the decision was later reversed.",
+          "link": "https://www.nationalreview.com/news/persecuted-for-homeschooling-in-germany-christian-couple-sought-refuge-in-the-u-s-now-theyre-being-deported/",
+          "publishedOn": "2023-09-25T20:36:58.000Z",
+          "wordCount": 9382,
+          "title": "Persecuted for Homeschooling in Germany, Christian Couple Sought Refuge in the U.S. — Now They’re Being Deported",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/09/Romeike.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1544395",
+          "author": "Kayla Bartsch",
+          "description": "The ‘red state vs. blue state’ debate will take place on November 30 in Georgia.",
+          "link": "https://www.nationalreview.com/news/ron-desantis-and-gavin-newsom-to-debate-on-fox-news-hannity/",
+          "publishedOn": "2023-09-25T20:14:39.000Z",
+          "wordCount": 8222,
+          "title": "Ron DeSantis and Gavin Newsom to Debate on Fox News’ <I>Hannity</I>",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/09/DeSantis-and-Newsom.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1544372",
+          "author": "Caroline Downey",
+          "description": "Many of the National Guardsmen will assist Venezuelan immigrants in obtaining work permits.",
+          "link": "https://www.nationalreview.com/news/governor-hochul-deploys-national-guard-to-assist-with-new-york-migrant-crisis/",
+          "publishedOn": "2023-09-25T17:50:13.000Z",
+          "wordCount": 8399,
+          "title": "Governor Hochul Deploys National Guard to Assist with New York Migrant Crisis",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/05/hochul.jpg?fit=1200%2C675&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1544367",
+          "author": "Noah Rothman",
+          "description": "If Democrats learned a lesson with Menendez, it’s that it’s better to have a party strong enough to rip its Band-Aids off than to allow its wounds to fester.",
+          "link": "https://www.nationalreview.com/2023/09/the-parties-should-be-strong-enough-to-get-rid-of-their-menendezes/",
+          "publishedOn": "2023-09-25T17:33:10.000Z",
+          "wordCount": 9570,
+          "title": "The Parties Should Be Strong Enough to Get Rid of Their Menendezes",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/09/Robert-Menendez-1.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1544345",
+          "author": "Rich Lowry",
+          "description": "He botched a choice that was even more important than usual.",
+          "link": "https://www.nationalreview.com/2023/09/joe-biden-made-the-worst-vice-presidential-pick-of-the-last-50-years/",
+          "publishedOn": "2023-09-25T16:43:17.000Z",
+          "wordCount": 8924,
+          "title": "Joe Biden Made the Worst Vice-Presidential Pick of the Last 50 Years",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/09/GettyImages-1695928712-Harris-and-Biden.jpg?fit=1200%2C700&ssl=1"
+        },
         {
           "id": "https://www.nationalreview.com/?p=1544325",
           "author": "Andrew C. McCarthy",
@@ -4694,96 +4804,6 @@
           "wordCount": 10386,
           "title": "Iran Has Already Begun to Infiltrate Higher Education in the West",
           "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/08/iran.jpg?fit=1200%2C700&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1534702",
-          "author": "Caroline Downey",
-          "description": "Vladimir Putin said Prigozhin faced a ‘difficult fate’ after making ‘serious mistakes in his life.’",
-          "link": "https://www.nationalreview.com/news/russia-claims-investigation-confirms-death-of-wagner-leader/",
-          "publishedOn": "2023-08-27T15:43:21.000Z",
-          "wordCount": 8042,
-          "title": "Russia Claims Investigation Confirms Death of Wagner Leader",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/06/Prigozhin-1.jpg?fit=1200%2C700&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1534678",
-          "author": "Caroline Downey",
-          "description": "The shooter, who the sheriff said was a white man in his 20s, killed himself after killing all black victims.",
-          "link": "https://www.nationalreview.com/news/three-people-killed-in-racially-motivated-shooting-in-florida/",
-          "publishedOn": "2023-08-27T14:40:40.000Z",
-          "wordCount": 8169,
-          "title": "Three People Killed in Racially Motivated Shooting in Florida",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/08/jacksonville-shooting.jpg?fit=1200%2C700&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1534676",
-          "author": "Andrew Stuttaford",
-          "description": "The week of Monday, August 21: China’s Woes, Argentina, Sweden, the Moon, and much, much more.",
-          "link": "https://www.nationalreview.com/2023/08/china-two-cheers-for-a-slowdown/",
-          "publishedOn": "2023-08-27T14:24:33.000Z",
-          "wordCount": 12825,
-          "title": "China: Two Cheers for a Slowdown",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/08/xi-1.jpg?fit=1200%2C700&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1534077",
-          "author": "Zach Kessel",
-          "description": "A moderate third-party candidate would be likely to siphon more votes from Biden than from the Republican front-runner.",
-          "link": "https://www.nationalreview.com/2023/08/could-no-labels-help-throw-the-election-to-trump/",
-          "publishedOn": "2023-08-27T10:30:57.000Z",
-          "wordCount": 9361,
-          "title": "Could No Labels Help Throw the Election to Trump?",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2020/08/2020-07-22T224254Z_181831426_RC2MYH97X9HU_RTRMADP_3_HEALTH-CORONAVIRUS-USA-MARYLAND.jpg?fit=1200%2C700&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1534212",
-          "author": "Jack Butler",
-          "description": "At 50, Bruce Lee’s kung fu classic stands the test of time, thanks largely to the sheer charisma of its star.",
-          "link": "https://www.nationalreview.com/2023/08/re-enter-the-dragon/",
-          "publishedOn": "2023-08-27T10:30:26.000Z",
-          "wordCount": 9156,
-          "title": "Re-<em>Enter the Dragon</em>",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/08/enter-the-dragon-2.jpg?fit=1200%2C700&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1534159",
-          "author": "Madeleine Kearns",
-          "description": "The justification for their misguided misanthropy is climate alarmism.",
-          "link": "https://www.nationalreview.com/2023/08/why-are-people-cheering-plummeting-birth-rates/",
-          "publishedOn": "2023-08-27T10:30:25.000Z",
-          "wordCount": 8575,
-          "title": "Why Are People Cheering Plummeting Birth Rates?",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/08/mother-baby-los-angeles-2016.jpg?fit=1200%2C700&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1534216",
-          "author": "Haley Strack",
-          "description": "A gifted book doesn’t need a personal touch, but it’s special when it has one.",
-          "link": "https://www.nationalreview.com/2023/08/why-books-are-better-with-inscriptions/",
-          "publishedOn": "2023-08-27T10:30:11.000Z",
-          "wordCount": 8622,
-          "title": "Why Books Are Better with Inscriptions",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/08/jk-rowling-signs-book-2.jpg?fit=1200%2C700&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1534172",
-          "author": "Leslie Fu and Jianli Yang",
-          "description": "It is time to prioritize responsible sovereign lending and hold Beijing accountable for its exploitative Belt and Road Initiative.",
-          "link": "https://www.nationalreview.com/2023/08/chinas-economic-imperialism-must-go/",
-          "publishedOn": "2023-08-27T10:30:09.000Z",
-          "wordCount": 9326,
-          "title": "China’s Economic Imperialism Must Go",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/07/xi-jinping-beijing-china.jpg?fit=1200%2C700&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1534625",
-          "author": "Jay Nordlinger",
-          "description": "On a production of Mozart’s opera at the Salzburg Festival.",
-          "link": "https://www.nationalreview.com/2023/08/the-marriage-and-miscarriage-of-figaro/",
-          "publishedOn": "2023-08-27T10:30:02.000Z",
-          "wordCount": 9522,
-          "title": "<I>The Marriage</I>, and Miscarriage, <I>of Figaro</I>",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/08/nord-1.jpg?fit=1200%2C700&ssl=1"
         }
       ]
     },
@@ -4792,6 +4812,26 @@
       "feedUrl": "https://sspai.com/feed",
       "siteUrl": "https://sspai.com",
       "articles": [
+        {
+          "id": "https://sspai.com/post/83174",
+          "author": "Humanitech",
+          "description": "如果你和我一样使用多个音乐串流平台、有记录听歌的需求，希望这篇文章能给你一点点的启发。查看全文",
+          "link": "https://sspai.com/post/83174",
+          "publishedOn": "2023-09-26T03:33:27.000Z",
+          "wordCount": 746,
+          "title": "豆瓣、Notion 和 Last.fm，哪个更适合用来记录你听过的歌？",
+          "imageUrl": "https://cdn.sspai.com/2023/09/23/344207c7151d6846a14b59e632d0feb0.png"
+        },
+        {
+          "id": "https://sspai.com/post/83219",
+          "author": "少数派编辑部",
+          "description": "抖音推出「闪电搜索」，Gmail 将于 2024 年 1 月停止基本 HTML 视图等。查看全文",
+          "link": "https://sspai.com/post/83219",
+          "publishedOn": "2023-09-26T00:58:30.000Z",
+          "wordCount": 1072,
+          "title": "派早报：华为举办秋季全场景新品发布会，大疆发布 DJI Mini 4 Pro 无人机等",
+          "imageUrl": "https://cdn.sspai.com/2023/9/26/article/811c65fe-e240-47a7-82b1-02816fd07de4.png"
+        },
         {
           "id": "https://sspai.com/post/83210",
           "author": "少数派编辑部",
@@ -5911,16 +5951,6 @@
           "wordCount": 873,
           "title": "派早报：数字服务法在欧生效，信安标委发布 AI 内容标识指南",
           "imageUrl": "https://cdn.sspai.com/8/27/2023/article/b431b83d-03fd-17f9-0998-b167ba29bc90.png"
-        },
-        {
-          "id": "https://sspai.com/post/82466",
-          "author": "sainho",
-          "description": "在科隆游戏展的展厅里，不时会见到这样的场景：无论你在社会中扮演什么样的角色，父母或是子女，上班族或是创业者，工程师还是设计师，来到游戏展，都只用展示自己作为「玩家」的一面。这便是参加游戏展的乐趣。今年 ...查看全文",
-          "link": "https://sspai.com/post/82466",
-          "publishedOn": "2023-08-27T10:50:26.000Z",
-          "wordCount": 632,
-          "title": "科隆游戏展札记：最中国的悟空，最纯粹的快乐",
-          "imageUrl": "https://cdn.sspai.com/27/8/2023/article/ada0d06f-7971-2e68-2bbe-a150f62a4fb5.jpg"
         }
       ]
     },
@@ -8028,56 +8058,6 @@
           "wordCount": 1179,
           "title": "巴基斯坦季雨洪灾",
           "imageUrl": null
-        },
-        {
-          "id": "https://m.idai.ly/se/6ac6cY",
-          "author": null,
-          "description": "SpaceX 猎鹰9号火箭搭载载人龙飞船发射升空，肯尼迪航天中心。8月26日，载人龙飞船执行第7次宇航员运送任务。这是载人龙飞船首次搭载4个不同国家机构的宇航员，分别为美国宇航员 Jasmin Moghbeli，欧空局宇航员 Andreas Mogensen，日本宇航员古川聪和俄罗斯宇航员 Konstantin Borisov，预计美国东部时间8月27日8时39分抵达并自动对接和谐号节点舱。新一批宇航员将在轨驻留6个月，进行超过200项科学实验。摄影师：Joel Kowsky",
-          "link": "https://m.idai.ly/se/6ac6cY",
-          "publishedOn": "2023-08-27T13:59:00.000Z",
-          "wordCount": 1179,
-          "title": "Crew-7 载人龙飞船发射",
-          "imageUrl": null
-        },
-        {
-          "id": "https://m.idai.ly/se/381Ww0",
-          "author": null,
-          "description": "中国常驻联合国副代表耿爽针对日本核污水排海问题发言，纽约。8月25日，耿爽在安理会就日本福岛核污染水排海问题阐明中方立场，中方坚决反对日本政府不顾国际社会质疑和反对，单方面强行启动核污染水排海，公然向全世界转嫁核污染风险，中方敦促日本政府纠正错误决定，立即停止核污染水排海。朝鲜常驻联合国代表谴责日本核污水排海是「反人道的恶性犯罪，让人类安全和海洋环境处于极大危险之中。」日本常驻联合国代表回应称日本核污水「所含放射性物质的浓度低于标准值」。摄影师：Liao Pan",
-          "link": "https://m.idai.ly/se/381Ww0",
-          "publishedOn": "2023-08-27T12:57:00.000Z",
-          "wordCount": 1178,
-          "title": "中国驻联合国代表谴责日本核污水排海",
-          "imageUrl": null
-        },
-        {
-          "id": "https://m.idai.ly/se/166fS3",
-          "author": null,
-          "description": "德国斯图加特国际烟花节，人们在观赏烟花表演。8月25日，德国联邦统计局公布2023年第二季度 GDP 环比增长0.0%，家庭消费支出环比增0.0%，出口环比跌-1.1%，这意味着德国经济在2023年第一季度陷入技术性衰退后陷入增长停滞状态，预计第三季度依然无法获得正增长。国际货币基金组织预测德国2023年经济增长率为-0.3%，成为七国集团中唯一面临经济萎缩的国家。摄影师：iDaily Media",
-          "link": "https://m.idai.ly/se/166fS3",
-          "publishedOn": "2023-08-27T11:55:00.000Z",
-          "wordCount": 1178,
-          "title": "德国第二季度经济零增长",
-          "imageUrl": null
-        },
-        {
-          "id": "https://m.idai.ly/se/5686BZ",
-          "author": null,
-          "description": "游客们在大英博物馆外排队入场，伦敦。8月25日，英国大英博物馆馆长 Hartwig Fischer 宣布辞职以承担文物失窃案的最终责任。他承认大英博物馆并未采取足够全面的防盗措施，亦未对2021年收到的盗窃警告作出及时回应。大英博物馆官方推测失窃文物数量大约为2000件，绝大多数为「存放在储藏室中的小尺寸文物」，包括公元前15世纪至今的黄金和珠宝制品。由于大英博物馆并未对所有馆藏进行编目登记，目前无法确认失窃文物的完整信息。受本次失窃事件影响，希腊、尼日利亚等国家再次要求大英博物馆归还被掠夺的本国文物。摄影师：Vuk Valcic",
-          "link": "https://m.idai.ly/se/5686BZ",
-          "publishedOn": "2023-08-27T11:53:00.000Z",
-          "wordCount": 1178,
-          "title": "大英博物馆馆长辞职",
-          "imageUrl": null
-        },
-        {
-          "id": "https://m.idai.ly/se/bc2IpZ",
-          "author": null,
-          "description": "一对座头鲸母子在巴西维多利亚市附近海域游弋。每年7月至10月是巴西大西洋沿岸水域的最佳观鲸季，座头鲸从极地水域迁徙至低纬度的温暖水域进行交配和繁殖。雌性座头鲸平均每两年生育一次，每胎生1崽，幼崽通常在母亲身边生活6至10个月直至具备独立生存能力。巴西海域的座头鲸数量曾因商业捕猎而大幅减少至仅300至500只，1980年代全球禁止商业捕鲸后逐步恢复至3万只左右。摄影师：Carl De Souza",
-          "link": "https://m.idai.ly/se/bc2IpZ",
-          "publishedOn": "2023-08-27T11:51:00.000Z",
-          "wordCount": 1178,
-          "title": "巴西海域观鲸季",
-          "imageUrl": null
         }
       ]
     },
@@ -8086,6 +8066,36 @@
       "feedUrl": "https://plink.anyfeeder.com/nytimes/dual",
       "siteUrl": "http://nytimes.com",
       "articles": [
+        {
+          "id": "https://cn.nytimes.com/world/20230926/biden-pacific-islands-china/dual",
+          "author": null,
+          "description": "MICHAEL CROWLEY2023年9月26日拜登总统周一在白宫与太平洋岛国领导人会晤。过去一年，美国在所罗门群岛和汤加开设了大使馆，并计划明年年初在瓦努阿图开设大使馆。 Haiyun Jiang for The New York Times\nThe Pacific Island state of Niue is one of the world’s tiniest. Covering just over 100 square miles and with a population of about 1,700, it has no military, is not a member of the United Nations and was not recognized as a sovereign nation by the United States until last year.\n太平洋岛国纽埃是世界上最小的国家之一，面积仅260平方公里，人口约1700人，没有军队，没有加入联合国，直到去年才被美国承认为主权国家。\nBut President Biden was talking about Niue on Monday at the White House, when he hosted the leaders of 18 Pacific Island nations, the second gathering of its kind in a year and the latest illustration of a regional competition for influence between the United States and China.\n但拜登总统周一在白宫接待18个太平洋岛国领导人时却把纽埃挂在嘴边，这是美国一年来第二次举行此类峰会，…",
+          "link": "https://cn.nytimes.com/world/20230926/biden-pacific-islands-china/dual",
+          "publishedOn": "2023-09-26T04:36:04.000Z",
+          "wordCount": 1059,
+          "title": "拜登接待太平洋岛国领导人，提及“二战”暗指中国",
+          "imageUrl": "https://static01.nyt.com/images/2023/09/25/multimedia/25dc-prexy-01-tpjm/25dc-prexy-01-tpjm-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/asia-pacific/20230926/philippines-chinese-fishing-barrier/dual",
+          "author": null,
+          "description": "ERIC NAGOURNEY2023年9月26日菲律宾海岸警卫队周一发布的视频截图显示，一名潜水员割断了中国在南中国海的斯卡伯勒浅滩用于设置屏障的绳索。 Philippine Coast Guard\nFaced with China’s determination to exert control over a vast area of the South China Sea far from its mainland, the Philippine Coast Guard said Monday that it had taken matters into its own hands, taking down a Chinese barrier that had kept Filipino fishing boats at bay.\n面对中国在远离本土的南中国海大片海域施加控制的决心，菲律宾海岸警卫队周一表示，它已采取行动，拆除了中方设置的阻止菲律宾渔船进入的中国屏障。\nThe Coast Guard released video of a diver cutting through the ropes that kept the barriers in place at the Scarborough Shoal, which is claimed by both the Philippines and China. The maritime obstacles could then be seen being hoisted out of the water.\n海岸警卫队发布的视频显示，一名潜水员在中菲都声称拥有主权的斯卡伯勒浅滩（Scarborough Shoal，中国称黄岩岛——译注）割断了固定障碍物的绳索。然后可以看到海上障碍物被吊出水面。\n“The barri…",
+          "link": "https://cn.nytimes.com/asia-pacific/20230926/philippines-chinese-fishing-barrier/dual",
+          "publishedOn": "2023-09-26T03:06:04.000Z",
+          "wordCount": 624,
+          "title": "菲律宾称已拆除中国在黄岩岛设置的屏障",
+          "imageUrl": "https://static01.nyt.com/images/2023/09/25/multimedia/25philippines-china-jkvq/25philippines-china-jkvq-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/asia-pacific/20230926/china-sea-philippines-us/dual",
+          "author": null,
+          "description": "HANNAH BEECH, JES AZNAR2023年9月26日在菲律宾巴拉望岛沿海的美济礁水域，一艘中国军舰与“加勒比虎号”船靠近时用耀眼的聚光灯照射后者。 Jes Aznar for The New York Times\nThe Chinese military base on Mischief Reef, off the Philippine island of Palawan, loomed in front of our boat, obvious even in the predawn dark.\n位于菲律宾巴拉望岛附近美济礁上的中国军事基地就在我们船头的前方，即使在黎明前的黑暗中也清晰可见。\nRadar domes, used for military surveillance, floated like nimbus clouds. Lights pointed to a runway made for fighter jets, backed by warehouses perfect for surface-to-air missiles. More than 900 miles from the Chinese mainland, in an area of the South China Sea that an international tribunal has unequivocally determined does not belong to China, cellphones pinged with a message: “Welcome to China.”\n军用雷达的雷达罩宛若漂浮的雨云。灯光指向一条为战机起降建造的跑道，远处是非常适合存放地对空导弹的仓库。在距离中国大陆约1500公里的地方，在一个国际仲裁庭已明确认定不属于中国的南海…",
+          "link": "https://cn.nytimes.com/asia-pacific/20230926/china-sea-philippines-us/dual",
+          "publishedOn": "2023-09-26T02:36:05.000Z",
+          "wordCount": 2372,
+          "title": "鸣笛、水炮与危险对峙：中国如何在南海展开军事化行动",
+          "imageUrl": "https://static01.nyt.com/images/2023/08/10/multimedia/00south-china-sea-promo/00south-china-sea-promo-articleLarge.jpg"
+        },
         {
           "id": "https://cn.nytimes.com/china/20230925/rahile-dawut-uyghur-china/dual",
           "author": null,
@@ -9023,6 +9033,36 @@
       "feedUrl": "https://plink.anyfeeder.com/weixin/ibookreview",
       "siteUrl": "http://weixin.sogou.com/weixin?type=1&s_from=input&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A",
       "articles": [
+        {
+          "id": "57e36b1797318b870d79bba792718b6e",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E8%8F%8C%E5%AD%90%E9%85%8D%E7%81%AB%E8%85%BF%EF%BC%8C%E6%98%AF%E4%B8%9C%E8%A5%BF%E6%96%B9%E5%85%B1%E5%90%8C%E7%9A%84%E9%BB%98%E5%A5%91",
+          "publishedOn": "2023-09-25T02:36:00.000Z",
+          "wordCount": 335,
+          "title": "菌子配火腿，是东西方共同的默契",
+          "imageUrl": null
+        },
+        {
+          "id": "a78fc8dccc044872fdc5818c5d442b62",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+100%E5%B9%B4%E5%89%8D%E7%9A%84%E8%A5%BF%E7%8F%AD%E7%89%99%E6%B5%81%E6%84%9F%E5%A4%A7%E6%B5%81%E8%A1%8C%EF%BC%8C%E6%98%AF%E5%A6%82%E4%BD%95%E8%A2%AB%E4%BA%BA%E4%BB%AC%E9%81%97%E5%BF%98%E7%9A%84%EF%BC%9F",
+          "publishedOn": "2023-09-25T02:36:00.000Z",
+          "wordCount": 338,
+          "title": "100年前的西班牙流感大流行，是如何被人们遗忘的？",
+          "imageUrl": null
+        },
+        {
+          "id": "f58ab0ab5c8602d3037ef31a19016e80",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E8%90%A8%E4%B9%89%E5%BE%B7%E9%80%9D%E4%B8%9620%E5%91%A8%E5%B9%B4%EF%BC%9A%E7%A6%BB%E6%95%A3%E3%80%81%E6%B5%81%E6%B5%AA%E3%80%81%E7%9F%9B%E7%9B%BE%EF%BC%8C%E6%B0%B8%E8%BF%9C%E6%A0%BC%E6%A0%BC%E4%B8%8D%E5%85%A5",
+          "publishedOn": "2023-09-25T02:36:00.000Z",
+          "wordCount": 337,
+          "title": "萨义德逝世20周年：离散、流浪、矛盾，永远格格不入",
+          "imageUrl": null
+        },
         {
           "id": "03417adee3a9656a1ce867091a2fc7f2",
           "author": null,
