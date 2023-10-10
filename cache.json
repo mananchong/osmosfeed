@@ -44,16 +44,6 @@
           "wordCount": 6402,
           "title": "R Weekly 2023-W38 rio 1.1.0, Yihui's interview, Open Source in Pharma",
           "imageUrl": "https://rweekly.org/public/facebook.png"
-        },
-        {
-          "id": "https://rweekly.org/2023-W37.html",
-          "author": null,
-          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Jonathan Carroll, with help from the RWeekly team members and contributors.\nHighlight\nPreloading your R packages in webR in an Express JS API\nA guide to annotating equations in quarto documents\n\nUsing Stan to analyse global UFO sighting reports\nInsights\nR Project Sprint.\nUsing Stan to analyse global UFO sighting reports\nLittle useless-useful R functions – Continuous, nowhere differentiable Weierstrass function\n+Adventures with parquet II: Implementing the parquetArraySeed S4 class\nThe Upcoming knitr v1.44: More Compatible with Quarto, and Locking opts_current\nEvaluate multiple modeling approaches for #TidyTuesday spam email\nR Validation Hub’s Risk Metric Application and Risk…",
-          "link": "https://rweekly.org/2023-W37.html",
-          "publishedOn": "2023-09-11T00:00:00.000Z",
-          "wordCount": 6391,
-          "title": "R Weekly 2023-W37 Preloading Packages, Annotating Equations, UFO Sightings",
-          "imageUrl": "https://rweekly.org/public/facebook.png"
         }
       ]
     },
@@ -475,6 +465,96 @@
       "feedUrl": "https://www.nationalreview.com/feed/",
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1550279",
+          "author": "Ryan Mills",
+          "description": "One family member said that there has been no formal attempt by the U.S. government to update the families of missing Americans.",
+          "link": "https://www.nationalreview.com/news/we-expect-nothing-less-families-of-americans-taken-hostage-by-hamas-urge-biden-administration-to-act/",
+          "publishedOn": "2023-10-10T15:36:37.000Z",
+          "wordCount": 9450,
+          "title": "Families of Americans Taken Hostage by Hamas Urge Biden Administration to Act: ‘We Expect Nothing Less’",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/10/biden.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1550220",
+          "author": "David Zimmermann",
+          "description": "‘The Palestinian flag should not have a place here,’ a GOP lawmaker said Monday.",
+          "link": "https://www.nationalreview.com/news/rashida-tlaib-still-flying-palestinian-flag-outside-office-despite-hamas-terror-prompting-house-gop-push-to-ban-foreign-flags/",
+          "publishedOn": "2023-10-10T14:21:40.000Z",
+          "wordCount": 8771,
+          "title": "Rashida Tlaib Still Flying Palestinian Flag outside Office despite Hamas Terror, Prompting House GOP Push to Ban Foreign Flags",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/10/Rashida-Tlaib.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1550195",
+          "author": "David Zimmermann",
+          "description": "‘Israel is going to respond very severely and aggressively and there will be more loss of life,’ a military spokesman said.",
+          "link": "https://www.nationalreview.com/news/this-is-not-tit-for-tat-tens-of-thousands-of-israeli-troops-mass-on-gaza-border-as-military-vows-swift-escalation/",
+          "publishedOn": "2023-10-10T12:43:39.000Z",
+          "wordCount": 8801,
+          "title": "‘This Is Not Tit for Tat’: Tens of Thousands of Israeli Troops Mass on Gaza Border as Military Vows Swift Escalation",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/10/israel-lebanon-1.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1549998",
+          "author": "Michael Brendan Dougherty",
+          "description": "One outlet has consistently covered this story for what it is.",
+          "link": "https://www.nationalreview.com/2023/10/bidens-border-breakdown-of-his-own-making/",
+          "publishedOn": "2023-10-10T10:30:56.000Z",
+          "wordCount": 12250,
+          "title": "Biden’s Border Breakdown of His Own Making",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/09/border-crisis-september-2023-71.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1550067",
+          "author": "Andrew C. McCarthy",
+          "description": "As the weekend’s atrocities in Israel remind us, jihadists have no interest in peaceful coexistence.",
+          "link": "https://www.nationalreview.com/2023/10/hamas-operatives-are-not-militants-they-are-jihadists/",
+          "publishedOn": "2023-10-10T10:30:52.000Z",
+          "wordCount": 10579,
+          "title": "Hamas Operatives Are Not ‘Militants.’ They Are Jihadists",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/07/top-shots-072123-35.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1550047",
+          "author": "Ryan Nabil",
+          "description": "The agency’s new merger guidelines seek to reshape U.S. antitrust law.",
+          "link": "https://www.nationalreview.com/2023/10/why-congress-and-the-courts-need-to-hold-the-ftc-accountable/",
+          "publishedOn": "2023-10-10T10:30:47.000Z",
+          "wordCount": 9242,
+          "title": "Why Congress and the Courts Need to Hold the FTC Accountable",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/10/lina-khan-confirmation-hearing.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1550080",
+          "author": "Rich Lowry",
+          "description": "The colonialism charge raises the question of how an indigenous people can be colonizers.",
+          "link": "https://www.nationalreview.com/2023/10/israel-is-not-a-colonial-state/",
+          "publishedOn": "2023-10-10T10:30:47.000Z",
+          "wordCount": 9066,
+          "title": "Israel Is Not a Colonial State",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2018/05/israeli-flag-western-wall-2009.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1550086",
+          "author": "Haley Strack",
+          "description": "Israel protects its innocent women and children. Hamas slaughters them.",
+          "link": "https://www.nationalreview.com/2023/10/the-blood-of-innocents/",
+          "publishedOn": "2023-10-10T10:30:37.000Z",
+          "wordCount": 9894,
+          "title": "The Blood of Innocents",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/10/burned-car-israel.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1549946",
+          "author": "Donald Kimball",
+          "description": "Let’s run through the most popular doomsday predictions from 2017 that might pop up again as this foolish idea threatens to return.",
+          "link": "https://www.nationalreview.com/2023/10/as-biden-tries-to-revive-net-neutrality-remember-proponents-bogus-claims/",
+          "publishedOn": "2023-10-10T10:30:10.000Z",
+          "wordCount": 9418,
+          "title": "As Biden Tries to Revive Net Neutrality, Remember Proponents’ Bogus Claims",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/10/net-neutrality-signs.jpg?fit=1200%2C700&ssl=1"
+        },
         {
           "id": "https://www.nationalreview.com/?post_type=blog-post&p=1550102",
           "author": "Zach Kessel",
@@ -5173,6 +5253,26 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/83475",
+          "author": "Matrix机器人",
+          "description": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意以及社区产品动态呈现给大 ...查看全文",
+          "link": "https://sspai.com/post/83475",
+          "publishedOn": "2023-10-10T09:10:44.000Z",
+          "wordCount": 1076,
+          "title": "社区速递 015 | 自驾游、智能推窗器和博客搭建",
+          "imageUrl": "https://cdn.sspai.com/2023/10/10/article/cfcdaadf-6eeb-e0d9-38b6-da1de9061b16.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/83445",
+          "author": "Matrix机器人",
+          "description": "分享成为跨平台用户的契机，以及弥补了哪些单平台没能提供的需求与体验。查看全文",
+          "link": "https://sspai.com/post/83445",
+          "publishedOn": "2023-10-10T07:00:00.000Z",
+          "wordCount": 1022,
+          "title": "Matrix Talk | 作为 iOS 用户，我为什么换到 / 新增 Android 设备？",
+          "imageUrl": "https://cdn.sspai.com/2023/10/10/article/2f89a0b7-fe7e-29f3-b0b3-3e5e3dbeff6a.JPG"
+        },
+        {
           "id": "https://sspai.com/post/83315",
           "author": "橙猫涉影",
           "description": "All In One 类都有一个共同的特点，就是有插件系统，覆盖面广，很多日常的需求都覆盖到，同时还能接入其他软件工具，从而简化流程。查看全文",
@@ -6171,26 +6271,6 @@
           "wordCount": 661,
           "title": "播客 | 劲爆、缺德大集合：漫谈 Apple 新品发布会",
           "imageUrl": "https://cdn.sspai.com/11/09/2023/article/7f3cd142-29fd-c4f0-c404-0f9f5ca318c4.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/82487",
-          "author": "一只波露",
-          "description": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
-          "link": "https://sspai.com/post/82487",
-          "publishedOn": "2023-09-11T03:00:00.000Z",
-          "wordCount": 646,
-          "title": "从「伪需求」到「离不开」：我的 Apple Watch 一年深体验",
-          "imageUrl": "https://cdn.sspai.com/2023/9/11/article/54546e22-b734-a3bb-eded-5767a0321f89.png"
-        },
-        {
-          "id": "https://sspai.com/post/82829",
-          "author": "少数派编辑部",
-          "description": "你可能错过的新鲜事知名手绘应用Procreate将推出动画版9月9日，知名手绘应用Procreate开发商宣布推出ProcreateDreams，旨在打造一款任何人都可以上手使用的动画工具。据介绍，P ...查看全文",
-          "link": "https://sspai.com/post/82829",
-          "publishedOn": "2023-09-11T00:57:53.000Z",
-          "wordCount": 914,
-          "title": "派早报：Procreate 将推出动画版，PowerPoint 主要开发者逝世",
-          "imageUrl": "https://cdn.sspai.com/9/10/2023/article/5a132596-18ea-16b6-4f8f-b445550cf6e3.png"
         }
       ]
     },
@@ -6199,6 +6279,96 @@
       "feedUrl": "https://plink.anyfeeder.com/idaily/today",
       "siteUrl": "https://docs.rsshub.app",
       "articles": [
+        {
+          "id": "https://m.idai.ly/se/6505uJ",
+          "author": null,
+          "description": "2023年诺贝尔经济学奖揭晓，美国哈佛大学经济系教授 Claudia Goldin 因「女性劳动力研究领域的突出贡献」而获奖，斯德哥尔摩。现年77岁的 Claudia Goldin 是迄今第3位获得诺贝尔经济学奖的女性，她的研究表明女性劳动力市场参与率呈「U」形曲线变化，同时受到社会结构性变化和社会规范演变的影响。Goldin 将获得1100万瑞朗（约合100万美元）奖金。摄影师：Jonathan Nackstrand",
+          "link": "https://m.idai.ly/se/6505uJ",
+          "publishedOn": "2023-10-10T11:59:00.000Z",
+          "wordCount": 1223,
+          "title": "2023年诺贝尔经济学奖",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.idai.ly/se/399spg",
+          "author": null,
+          "description": "RICHARD MILLE 理查米尔在新加坡揭幕 St. Martin 全新概念旗舰店，呈现创意多变且独树一帜的室内设计，通过十一处定制空间展示品牌多重灵感，演绎 RICHARD MILLE 独具创新愿景的待客之道，为品牌亚洲零售店开启新篇章。",
+          "link": "https://m.idai.ly/se/399spg",
+          "publishedOn": "2023-10-10T11:58:00.000Z",
+          "wordCount": 1224,
+          "title": "RICHARD MILLE St. Martin 旗舰店",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.idai.ly/se/371704",
+          "author": null,
+          "description": "中国国家主席习近平接见美国参议院多数党领袖 Chuck Schumer，北京。10月9日，中国国家主席习近平与美国参议院代表团举行约80分钟会谈。习近平指出中美关系是世界上最重要的双边关系，两国经济深度融合，共同利益远大于分歧，全球疫后复苏、应对气候变化、解决国际和地区热点问题都需要中美协调合作，中方欢迎美国国会议员访华，为推动中美关系稳定作出积极贡献。Schumer 重申美方不寻求同中国发生冲突，不希望同中国脱钩，愿同中方加强对话沟通，负责任地管控两国关系，推动美中关系稳定发展。2023年前8个月中美双边贸易额为3.05万亿元，同比下降-8.7%。摄影师：Andy Wong",
+          "link": "https://m.idai.ly/se/371704",
+          "publishedOn": "2023-10-10T10:57:00.000Z",
+          "wordCount": 1223,
+          "title": "习近平会见美国议员团",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.idai.ly/se/edeE8l",
+          "author": null,
+          "description": "加沙地带一座清真寺被以色列空袭摧毁。10月9日，以色列军方与巴勒斯坦哈马斯武装组织大规模冲突进入第3天，迄今造成至少900名以色列人和700名巴勒斯坦人死亡，超过6000人受伤，逾10万人失去住所。以色列目前已全面封锁加沙地带并对超过800个目标实施空袭打击。以色列国防军宣布征召30万预备役军人，准备发起针对加沙地带的地面战进攻。摄影师：Mohammed Abed",
+          "link": "https://m.idai.ly/se/edeE8l",
+          "publishedOn": "2023-10-10T10:55:00.000Z",
+          "wordCount": 1223,
+          "title": "以色列全面封锁加沙",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.idai.ly/se/514FsH",
+          "author": null,
+          "description": "法国埃菲尔铁塔亮起以色列国旗色灯光声援以色列，巴黎。10月10日，法国、英国、德国、美国和意大利5国发表联合声明坚定支持以色列并一致谴责哈马斯组织。中国、俄罗斯、埃及、沙特阿拉伯、阿联酋、土耳其等国家呼吁有关各方保持克制，尽快停火止战；伊朗公开表态支持巴勒斯坦对压迫者的「合法抵御」；黎巴嫩真主党宣布向以色列占领区发动迫击炮攻击以表达对巴勒斯坦的声援。摄影师：Michel Euler",
+          "link": "https://m.idai.ly/se/514FsH",
+          "publishedOn": "2023-10-10T10:53:00.000Z",
+          "wordCount": 1223,
+          "title": "法国声援以色列",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.idai.ly/se/b26844",
+          "author": null,
+          "description": "巴基斯坦一名邮政工作人员正在给信件加盖邮戳，白沙瓦。10月9日是第54个世界邮政日，该节日旨在纪念1874年万国邮政联盟成立，提高人们对邮政业在社会经济发展中所起作用的认识。世界邮政日本年度主题为「共筑信任：携手共创安全互联的未来」，倡议推动面向所有人的数字化服务。万国邮政联盟报告指出全球邮政业雇用超过500万名员工并为15亿人提供包括储蓄、支付和汇款等基本金融服务。摄影师：Arshad Arbab",
+          "link": "https://m.idai.ly/se/b26844",
+          "publishedOn": "2023-10-10T10:51:00.000Z",
+          "wordCount": 1223,
+          "title": "2023世界邮政日",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.idai.ly/se/189qkw",
+          "author": null,
+          "description": "一名缅甸男子骑着摩托车穿过积水路段，勃固市。10月8日，缅甸勃固市遭遇强降雨侵袭，24小时累计降雨量达到200毫米，创下50年最高纪录。强降雨造成勃固河水位持续上涨并引发洪涝灾害，全市80%被洪水淹没，最大积水深度达2.3米，当地交通、电力、通讯陷入中断状态。当地政府已经转移1.4万受灾民众。摄影师：Nyein Chan Naing",
+          "link": "https://m.idai.ly/se/189qkw",
+          "publishedOn": "2023-10-10T10:49:00.000Z",
+          "wordCount": 1223,
+          "title": "缅甸南部暴雨洪灾",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.idai.ly/se/075ZXF",
+          "author": null,
+          "description": "一只野生雄性苏门答腊象被戴上 GPS 定位项圈，印度尼西亚。10月7日，印尼廖内省自然资源保护局开展行动为野象佩戴 GPS 定位装置，希望通过掌握大象行动路线的方式避免人象冲突。苏门答腊象是亚洲象的3个亚种之一，仅分布于印尼苏门答腊岛。受栖息地减少、盗猎和人象冲突威胁，苏门答腊象过去25年来数量减少80%，现存不到2800只，被列为极度濒危物种。摄影师：Wahyudi",
+          "link": "https://m.idai.ly/se/075ZXF",
+          "publishedOn": "2023-10-10T10:47:00.000Z",
+          "wordCount": 1223,
+          "title": "印尼苏门答腊象保护",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.idai.ly/se/6ffd1u",
+          "author": null,
+          "description": "一幅法国后印象派画家 Paul Gauguin 1884年油画《睡着的克洛维》（Clovis endormi）进行拍卖前预展，伦敦。高更在这幅画作中描绘了自己儿子侧趴在桌上睡觉的场景，桌上摆放的玩偶、超大酒杯以及漂浮在空中的鲜花，构成如同梦境一般的画面，体现高更对象征主义绘画的早期实验性尝试。这幅作品将于10月13日在伦敦进行拍卖，估价300万至500万英镑。摄影师：WIktor Szymanowicz",
+          "link": "https://m.idai.ly/se/6ffd1u",
+          "publishedOn": "2023-10-10T10:45:00.000Z",
+          "wordCount": 1223,
+          "title": "高更肖像画作拍卖",
+          "imageUrl": null
+        },
         {
           "id": "https://m.idai.ly/se/ef0Gg5",
           "author": null,
@@ -8267,6 +8437,26 @@
       "siteUrl": "http://nytimes.com",
       "articles": [
         {
+          "id": "https://cn.nytimes.com/world/20231010/mongolia-tibetan-buddhist-explainer/dual",
+          "author": null,
+          "description": "DAVID PIERSON2023年10月10日西藏精神领袖达赖喇嘛。北京方面认为，达赖喇嘛是分裂分子，并声称只有执政的共产党才能指定他的转世灵童。 Jagadeesh Nv/European Pressphoto Agency\nTibetan Buddhism has long been led by the Dalai Lama, the 88-year-old spiritual leader who fled Tibet in 1959 and has been living in exile in India ever since.\n藏传佛教长期以来一直由达赖喇嘛领导，这位现年88岁的精神领袖于1959年逃离西藏，此后一直流亡印度。\nBeijing considers the Dalai Lama a separatist and asserts that only the ruling Communist Party — an avowed atheist organization — can name his next incarnation and those of other high lamas.\n北京认为达赖喇嘛是分裂分子，并声称只有执政的共产党——一个公开自称信奉无神论的组织——才能指定他和其他高僧的转世者。\nBy seeking to control the religion’s leadership, China hopes it can all but erase the Dalai Lama’s influence in Tibet and any challenges to the party’s rule. As the Dalai Lama has gotten older, tension has mounted over the e…",
+          "link": "https://cn.nytimes.com/world/20231010/mongolia-tibetan-buddhist-explainer/dual",
+          "publishedOn": "2023-10-10T08:36:04.000Z",
+          "wordCount": 718,
+          "title": "关于达赖与中共活佛转世之争，你应该知道的",
+          "imageUrl": "https://static01.nyt.com/images/2023/09/28/multimedia/00mongolia-lama-explainer-kljz/00mongolia-lama-explainer-kljz-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/world/20231010/hamas-israel-war/dual",
+          "author": null,
+          "description": "DAVID LEONHARDT2023年10月10日周六，当警报声响起时，叶夫根尼娅·西曼诺维奇跑向她位于以色列阿什凯隆家中的钢筋混凝土掩体。 Tamir Kalifa for The New York Times\nRussia has started the largest war in Europe since World War II.\n俄罗斯发动了“二战”以来欧洲最大规模的战争。\nChina has become more bellicose toward Taiwan.\n中国加剧对台湾的武力威胁。\nIndia has embraced a virulent nationalism.\n印度在奉行一种具有毒性的民族主义。\nIsrael has formed the most extreme government in its history.\n以色列组建了历史上最极端的政府。\nAnd on Saturday morning, Hamas brazenly attacked Israel, launching thousands of missiles and publicly kidnapping and killing civilians.\n上周六上午，哈马斯悍然攻击以色列，发射了数以千计的导弹，并公开绑架和杀害平民。\nAll these developments are signs that the world may have fallen into a new period of disarray. Countries — and political groups like Hamas — are willing to take big risks, rather than fearing that the consequences would be too …",
+          "link": "https://cn.nytimes.com/world/20231010/hamas-israel-war/dual",
+          "publishedOn": "2023-10-10T07:36:04.000Z",
+          "wordCount": 1344,
+          "title": "新一轮巴以冲突与全球新秩序",
+          "imageUrl": "https://static01.nyt.com/images/2023/10/09/multimedia/09-themorning01-promo/09-themorning01-pztq-articleLarge.jpg"
+        },
+        {
           "id": "https://cn.nytimes.com/asia-pacific/20231010/mongolia-tibetan-buddhism-bogd/dual",
           "author": null,
           "description": "DAVID PIERSON2023年10月10日一名男孩被选定为藏传佛教一个重要位置的转世灵童。 Khasar Sandag for The New York Times\nThe boy had seemed destined for a life of affluence and earthly pursuits. Born into the family behind a major mining conglomerate in Mongolia, he might have been picked to someday lead the company from its steel-and-glass headquarters in the country’s capital.\n这个男孩曾仿佛命中注定要过上富裕生活，去追求尘世间的享乐。他出生的家庭拥有蒙古国一家大型矿业集团，原本也许有朝一日他会被选中，在位于该国首都的玻璃和钢材结构的总部大楼里领导这家企业。\nInstead, the 8-year-old is now at the heart of a struggle between the Dalai Lama and the Chinese Communist Party.\n然而，这个八岁的孩子现在却处于达赖喇嘛与中国共产党斗争的核心。\nHe was just a toddler when everything changed. On a visit to a vast monastery in the capital city of Ulaanbaatar, known for a towering Buddha statue gilded in gold, his father brought him and his twin brother into a…",
@@ -8885,16 +9075,6 @@
           "wordCount": 1585,
           "title": "从昔日宿敌到抗衡中国“伙伴”，美国与越南关系升级",
           "imageUrl": "https://static01.nyt.com/images/2023/09/09/multimedia/09vietnam-biden-02-kgpq/09vietnam-biden-02-kgpq-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/business/20230911/china-us-business/dual",
-          "author": null,
-          "description": "艾莎2023年9月11日美国商务部长雷蒙多（中）上个月参观了波音公司在上海工厂。据她描述，美国企业中存在一种“不适合投资”中国的感觉。 Pool photo by Andy Wong\nFor decades, America’s corporate chieftains saw China as a money spinner. They gushed about its hundreds of millions of consumers, called it “one of the biggest opportunities” and made predictions that this would be “China’s century.”\n过去数十年里，美国的企业老总们将中国视作一棵摇钱树。他们夸张地称赞中国的数亿消费者，把这个市场称为“最大的机会之一”，并预测本世纪将是“中国的世纪”。\nNow, those executives have come away from recent visits to the country with a more sober view. Western companies doing business in China are facing pressures that were unimaginable several years ago. The country’s economy is floundering, and its relationship with the United States is strained. Three years of border restrictions and an effective commercial lockdown have opened cracks that have y…",
-          "link": "https://cn.nytimes.com/business/20230911/china-us-business/dual",
-          "publishedOn": "2023-09-11T02:36:03.000Z",
-          "wordCount": 1499,
-          "title": "中国充满风险，为何跨国企业仍难以离开",
-          "imageUrl": "https://static01.nyt.com/images/2023/09/09/multimedia/00China-LongGame-jvfk/00China-LongGame-jvfk-articleLarge.jpg"
         }
       ]
     },
@@ -9571,36 +9751,6 @@
           "publishedOn": "2023-09-12T02:04:00.000Z",
           "wordCount": null,
           "title": "在这个秋天感受阅读的诚意：2023北京图书市集·秋季场回顾",
-          "imageUrl": null
-        },
-        {
-          "id": "15379a1855a1d549750fd96f222549d3",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E5%A8%81%E5%BB%89%C2%B7%E5%BA%93%E7%8F%80%EF%BC%9A%E9%80%9A%E8%BF%87%E6%80%9C%E6%82%AF%E3%80%81%E5%90%8C%E6%83%85%E5%92%8C%E7%88%B1%EF%BC%8C%E6%9C%80%E9%AB%98%E8%B4%B5%E7%9A%84%E5%BF%83%E7%81%B5%E8%AF%81%E6%98%8E%E5%85%B6%E7%BE%8E%E5%BE%B7",
-          "publishedOn": "2023-09-11T02:33:00.000Z",
-          "wordCount": null,
-          "title": "威廉·库珀：通过怜悯、同情和爱，最高贵的心灵证明其美德",
-          "imageUrl": null
-        },
-        {
-          "id": "68eab8802fa57c05f15f65a22d29ff19",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E4%BD%9C%E4%B8%BA%E8%A7%81%E8%AF%81%E8%80%85%E7%9A%84%E6%96%87%E5%AD%A6%EF%BC%9A%E8%B5%AB%E5%A1%94%C2%B7%E7%B1%B3%E5%8B%92%E7%9A%84%E6%96%87%E5%AD%A6%E5%90%8E%E8%A7%86%E9%95%9C",
-          "publishedOn": "2023-09-11T02:33:00.000Z",
-          "wordCount": null,
-          "title": "作为见证者的文学：赫塔·米勒的文学后视镜",
-          "imageUrl": null
-        },
-        {
-          "id": "590512e208b9929ce10a4268bee2f8c1",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E5%A5%A5%E6%9C%AC%E6%B5%B7%E9%BB%98%E7%9A%84%E2%80%9C%E5%AD%98%E5%9C%A8%E7%84%A6%E8%99%91%E2%80%9D%EF%BC%8C%E5%8F%AF%E8%83%BD%E4%BC%9A%E5%9B%B0%E6%89%B0%E6%88%91%E4%BB%AC%E6%AF%8F%E4%B8%80%E4%B8%AA%E4%BA%BA%EF%BD%9C%E4%B8%93%E8%AE%BF%E6%B1%AA%E5%86%B0",
-          "publishedOn": "2023-09-11T02:33:00.000Z",
-          "wordCount": null,
-          "title": "奥本海默的“存在焦虑”，可能会困扰我们每一个人｜专访汪冰",
           "imageUrl": null
         }
       ]
