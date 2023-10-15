@@ -2,10 +2,59 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mananchong.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-14T16:38:42.352Z</updated>
+    <updated>2023-10-15T07:38:38.763Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mananchong.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://mananchong.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[我开发了一套 Marp 主题，Markdown 直接转换的 PPT 也可以很好看：Awesome Marp]]></title>
+        <id>https://sspai.com/post/83182</id>
+        <link href="https://sspai.com/post/83182"/>
+        <updated>2023-10-15T04:13:47.000Z</updated>
+        <summary type="html"><![CDATA[Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文]]></summary>
+        <author>
+            <name>FavourHong</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[程章灿谈作为物质文化的石刻文献]]></title>
+        <id>https://www.thepaper.cn/newsDetail_forward_24908231</id>
+        <link href="https://www.thepaper.cn/newsDetail_forward_24908231"/>
+        <updated>2023-10-15T02:02:10.000Z</updated>
+        <summary type="html"><![CDATA[程章灿（章静 绘）
+
+陈寅恪有言：“自昔长于金石之学者，必为深研经史之人。非通经无以释金文，非治史无以证石刻。群经诸史，乃古史资料多数之所汇集，金文石刻则其少数脱离之片段。未有不了解多数汇集之资料，而能考释少数脱离之片段不误者。”作为一种“少数脱离之片段”，长期以来，石刻文献在文史研究中一直处于证史、补史的位置，研究视角与方法较为固化。
+南京大学古典文献研究所所长、南京大学文学院教授程章灿多年来致力于中国古代文学、古典文献学研究，于石刻文献研究用力尤深，出版有《魏晋南北朝赋史》（江苏古籍出版社，1992）、《石刻刻工研究》（上海古籍出版社，2008）、《古刻新诠》（中华书局，2009）、《走近古典的过程》（广东高等教育出版社，2022）等专著。
+最近，程章灿教授新著《作为物质文化的石刻文献》作为国家“十三五”重点图书规划项目《中国古代文献文化史》丛书之一种由南京大学出版社出版，从物质文化的角度重新考察中国古代的石刻文献，呈现出与以往石刻研究大不相同的面貌。《上海书评》邀请南京大学文学院副教授于溯与程章灿先生就相关话题作了一次对谈。
+
+《作为物质文化的石刻文献》，程章灿著，南京大学出版社2023年5月出版，492页，150.00元
+
+您这本著作和一般石刻研究专著的最大不同，是强调从物质文化角度去看中国古代石刻。可以谈谈选择这样一个视角的原因吗？
+程章灿：我1989年博士毕业到南京大学古典文献研究所工作之后，很大一部分的学术精力就放在石刻研究上面。到2010年年底，我们申请到国家社科基金重大项目“中国古代文献文化史”，中间有二十来年了。我此前的石刻研究，基本可以分为两个层面。第一个层面我称之为史料的研究，是一篇一篇的考证文章，通过石刻文献与传世文献的对比，来做一些史料辨析工作。传统的石刻研究很多都是如此。第二个层面是史学的研究，把若干石刻文献集中在一起，对同类的问题进行一些处理…]]></summary>
+        <author>
+            <name>上海书评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘From the Air, Sea and Land’: IDF Poised for Multi-Pronged Attack on Hamas in Gaza]]></title>
+        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1552602</id>
+        <link href="https://www.nationalreview.com/news/from-the-air-sea-and-land-idf-poised-for-multi-pronged-attack-on-hamas-in-gaza/"/>
+        <updated>2023-10-14T16:40:08.000Z</updated>
+        <summary type="html"><![CDATA[Hundreds of thousands of reservists have mobilized ahead of the imminent invasion.]]></summary>
+        <author>
+            <name>Ari Blaff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IDF Confirms Death of Senior Hamas Operative Who Planned October 7 Massacre]]></title>
+        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1552572</id>
+        <link href="https://www.nationalreview.com/news/idf-confirms-death-of-senior-hamas-operative-who-planned-october-7-massacre/"/>
+        <updated>2023-10-14T14:42:45.000Z</updated>
+        <summary type="html"><![CDATA[Ali Qadi had been previously captured and detained in Israel before his release in 2011 as part of the Gilad Shalit prisoner swap.]]></summary>
+        <author>
+            <name>Ari Blaff</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Captured Documents Reveal Hamas Intentionally Targeted Israeli Schools, Children’s Center]]></title>
         <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1552544</id>
@@ -10165,280 +10214,6 @@ F…]]></summary>
         <summary type="html"><![CDATA[The doctors were negligent for rushing to remove the breasts of a ‘depressed, anxiety-ridden, gender-confused’ teenager, the lawsuit states.]]></summary>
         <author>
             <name>Caroline Downey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[All the President’s Tells: How to Spot a Biden Lie]]></title>
-        <id>https://www.nationalreview.com/?p=1541461</id>
-        <link href="https://www.nationalreview.com/2023/09/all-the-presidents-tells-how-to-spot-a-biden-lie/"/>
-        <updated>2023-09-15T19:30:25.000Z</updated>
-        <summary type="html"><![CDATA[‘I give you my word as a Biden,’ for instance, should be an instant clue.]]></summary>
-        <author>
-            <name>Noah Rothman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘No Valid Basis’ to Disqualify Judge Chutkan From Trump’s Election Fraud Case, DOJ Argues]]></title>
-        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1541334</id>
-        <link href="https://www.nationalreview.com/news/no-valid-basis-to-disqualify-judge-chutkan-from-trumps-election-fraud-case-doj-argues/"/>
-        <updated>2023-09-15T17:54:13.000Z</updated>
-        <summary type="html"><![CDATA[Trump’s lawyers have argued that the judge’s harsh sentences for January 6 defendants and a prior ruling against the former president warrant her recusal.]]></summary>
-        <author>
-            <name>David Zimmermann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trump Denies Ordering Mar-a-Lago Staffer to Delete Security Footage]]></title>
-        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1541354</id>
-        <link href="https://www.nationalreview.com/news/trump-denies-ordering-mar-a-lago-staffer-to-delete-security-footage/"/>
-        <updated>2023-09-15T16:34:58.000Z</updated>
-        <summary type="html"><![CDATA[‘And they were my tapes,’ Trump says in a new interview. ‘I didn’t even have to give them the tapes, I don’t think.’]]></summary>
-        <author>
-            <name>David Zimmermann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘Bidenomics’ Is Nothing to Celebrate]]></title>
-        <id>https://www.nationalreview.com/?p=1541373</id>
-        <link href="https://www.nationalreview.com/2023/09/bidenomics-is-nothing-to-celebrate/"/>
-        <updated>2023-09-15T16:25:35.000Z</updated>
-        <summary type="html"><![CDATA[President Biden seems to dream of a world where the term ‘Bidenomics’ takes its place in Valhalla next to Reaganomics. It won’t.]]></summary>
-        <author>
-            <name>Kevin A. Hassett</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Biden We Were Told about Never Existed]]></title>
-        <id>https://www.nationalreview.com/?p=1541377</id>
-        <link href="https://www.nationalreview.com/2023/09/the-biden-we-were-told-about-never-existed/"/>
-        <updated>2023-09-15T15:57:46.000Z</updated>
-        <summary type="html"><![CDATA[But the real Joe Biden? He doesn’t appear to be somebody voters like very much.]]></summary>
-        <author>
-            <name>Charles C. W. Cooke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NYC Residents Vent Frustration over Migrant Influx in Neighborhood: ‘No Consequences for Bad Behavior’]]></title>
-        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1540923</id>
-        <link href="https://www.nationalreview.com/news/illegal-immigrants-pouring-into-nyc-face-no-consequences-for-bad-behavior-residents-say/"/>
-        <updated>2023-09-15T14:54:30.000Z</updated>
-        <summary type="html"><![CDATA[Upper West Side residents told police that they’ve been spit at, followed, and harassed by the illegal immigrants pouring into their community.]]></summary>
-        <author>
-            <name>Caroline Downey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[United Auto Workers Launch Historic Strike Over Pay, Working Hours, and Electric Cars]]></title>
-        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1541300</id>
-        <link href="https://www.nationalreview.com/news/united-auto-workers-launch-historic-strike-over-pay-working-hours-and-electric-cars/"/>
-        <updated>2023-09-15T13:08:45.000Z</updated>
-        <summary type="html"><![CDATA[The auto workers are concerned that President Joe Biden’s push for electric vehicles could lead to union job losses.]]></summary>
-        <author>
-            <name>David Zimmermann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The War against Benefit-Cost Analysis]]></title>
-        <id>https://www.nationalreview.com/?p=1541050</id>
-        <link href="https://www.nationalreview.com/2023/09/the-war-against-benefit-cost-analysis/"/>
-        <updated>2023-09-15T10:30:44.000Z</updated>
-        <summary type="html"><![CDATA[Such are the fruits of an abandonment of analytic rigor in favor of a pursuit of ideological outcomes. The ends really do justify the means.]]></summary>
-        <author>
-            <name>Benjamin Zycher</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Rolling Stones Redefine Political Anger]]></title>
-        <id>https://www.nationalreview.com/?p=1541063</id>
-        <link href="https://www.nationalreview.com/2023/09/the-rolling-stones-redefine-political-anger/"/>
-        <updated>2023-09-15T10:30:32.000Z</updated>
-        <summary type="html"><![CDATA[An unexpected, timely moral breakthrough.]]></summary>
-        <author>
-            <name>Armond White</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why One Lawyer Worries California’s Student-Gender Policies Create a Dangerous Environment of Secrecy]]></title>
-        <id>https://www.nationalreview.com/?p=1541077</id>
-        <link href="https://www.nationalreview.com/2023/09/why-one-lawyer-worries-californias-student-gender-policies-create-a-dangerous-environment-of-secrecy/"/>
-        <updated>2023-09-15T10:30:17.000Z</updated>
-        <summary type="html"><![CDATA[‘You need a policy where children aren’t told to keep secrets from their parents or other caregivers,’ he says.]]></summary>
-        <author>
-            <name>Will Swaim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[America in Putin’s eyes, &c.]]></title>
-        <id>https://www.nationalreview.com/?p=1540895</id>
-        <link href="https://www.nationalreview.com/2023/09/america-in-putins-eyes-c/"/>
-        <updated>2023-09-15T10:30:11.000Z</updated>
-        <summary type="html"><![CDATA[On dictatorships and free societies; the horror of Haiti; the importance of free enterprise; ‘rules for reading’; and more.]]></summary>
-        <author>
-            <name>Jay Nordlinger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[本周看什么 | 最近值得一看的 9 部作品]]></title>
-        <id>https://sspai.com/post/82969</id>
-        <link href="https://sspai.com/post/82969"/>
-        <updated>2023-09-15T09:59:03.000Z</updated>
-        <summary type="html"><![CDATA[☕️TL;DR近期佳作推荐：[电影]永安镇故事集、[国产]我有一个朋友、[美剧]行尸走肉：达里尔·迪克森第一季、[韩剧]2时15分、[韩剧]恋人、[日剧]她们的犯罪、[动画]火之鸟伊甸之宙、[纪录片] ...查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JWST 观测新星星云]]></title>
-        <id>https://m.idai.ly/se/134PPd</id>
-        <link href="https://m.idai.ly/se/134PPd"/>
-        <updated>2023-09-15T08:59:00.000Z</updated>
-        <summary type="html"><![CDATA[NASA 公布一张 JWST 太空望远镜拍摄的英仙座赫比格-哈罗天体「HH 211」照片。该天体距离地球约1000光年，中央是一对诞生数万年的年轻恒星，正在以每秒80至100公里的速度向外喷射气体和恒星物质。照片中红色区域是恒星喷射的氢分子、一氧化碳和一氧化硅物质。摄影师：NASA]]></summary>
-        <author>
-            <name>iDaily 每日环球视野</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英国7月GDP下滑-0.5%]]></title>
-        <id>https://m.idai.ly/se/1cfue0</id>
-        <link href="https://m.idai.ly/se/1cfue0"/>
-        <updated>2023-09-15T08:57:00.000Z</updated>
-        <summary type="html"><![CDATA[从伦敦最高观景台「地平线22号」（Horizon 22）俯瞰金融区，该观景台高度达到254米，预计9月27日正式向公众开放。9月13日，英国国家统计局公布数据显示2023年7月 GDP 环比下降-0.5%，创下年内迄今最大单月跌幅，其中制造业下跌-0.7%，服务业下跌-0.5%，建筑业下跌-0.5%。这是英国自2022年6月以来首次出现三大行业均呈现负增长的情况，主要影响因素包括公共部门大规模罢工以及异常降雨天气等。摄影师：Chris Ratcliffe]]></summary>
-        <author>
-            <name>iDaily 每日环球视野</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国绕月任务火箭组装]]></title>
-        <id>https://m.idai.ly/se/04cUGX</id>
-        <link href="https://m.idai.ly/se/04cUGX"/>
-        <updated>2023-09-15T08:55:00.000Z</updated>
-        <summary type="html"><![CDATA[NASA 工程师正在组装「阿尔忒弥斯2号」（Artemis II）载人绕月任务使用的 SLS 火箭，路易斯安那州。9月11日，NASA 宣布完成「阿尔忒弥斯2号」任务火箭核心级第一个 RS-25 发动机的安装工作。这是目前世界上最大的分级燃烧液态氢氧发动机，起飞推力达到51.2万磅。每个 SLS 火箭需要安装4台 RS-25 发动机和2台固体火箭助推器。摄影师：NASA]]></summary>
-        <author>
-            <name>iDaily 每日环球视野</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[柬埔寨新任首相访华]]></title>
-        <id>https://m.idai.ly/se/40doD7</id>
-        <link href="https://m.idai.ly/se/40doD7"/>
-        <updated>2023-09-15T08:53:00.000Z</updated>
-        <summary type="html"><![CDATA[柬埔寨首相洪玛奈向天安门广场人民英雄纪念碑敬献花圈，北京。9月14日，柬埔寨新任首相洪玛奈应邀对中国进行为期3天正式访问，主要行程包括会晤中国国家主席习近平、国务院总理李强以及出席第20届中国—东盟博览会。这是洪玛奈8月就任以来首次出国访问，柬埔寨外交部表示本次访问将进一步巩固两国全面战略合作伙伴关系，加强中柬「钻石六边」合作架构，为两国及人民带来互惠互利。中国是柬埔寨的最大贸易伙伴，2023年1月至8月双边贸易额为80.93亿美元，同比增长1.1%。摄影师：Yue Yuewei]]></summary>
-        <author>
-            <name>iDaily 每日环球视野</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[普京会晤金正恩]]></title>
-        <id>https://m.idai.ly/se/20f0IN</id>
-        <link href="https://m.idai.ly/se/20f0IN"/>
-        <updated>2023-09-15T08:51:00.000Z</updated>
-        <summary type="html"><![CDATA[俄罗斯总统 Vladimir Putin 与朝鲜最高领导人金正恩参观东方航天发射场，阿穆尔州。9月13日，俄朝领导人在东方航天发射场举行会晤并视察「安加拉」火箭发射台和「联盟-2」号火箭发射装置。Putin 赠送金正恩一双曾在太空使用过的宇航服手套及一支俄产卡宾枪，金正恩回赠一支朝鲜工匠制造的卡宾枪。金正恩表示希望同俄方共谋两国关系百年大计，发展稳定而面向未来的新时代朝俄关系。俄总统新闻秘书当天宣布 Putin 已接受金正恩提出的访问朝鲜邀请，称俄朝计划在「所有领域」发展关系。摄影师：KCNA]]></summary>
-        <author>
-            <name>iDaily 每日环球视野</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[摩洛哥地震救援持续]]></title>
-        <id>https://m.idai.ly/se/470pbC</id>
-        <link href="https://m.idai.ly/se/470pbC"/>
-        <updated>2023-09-15T08:49:00.000Z</updated>
-        <summary type="html"><![CDATA[一名摩洛哥地震灾民提着水桶穿过废墟，豪茲省。9月14日，摩洛哥内政部通报本次7.2级地震遇难人数上升至2946人，受伤人数达到5674人，至少5万栋房屋损毁。摩洛哥王室宣布向每个受灾家庭提供3000美元救助金以及最高1.4万美元房屋重建补贴。摩洛哥政府各部长将捐出1个月的薪水支援地震灾民。英国、卡塔尔、西班牙和阿联酋的搜救团队已进入摩洛哥地震灾区协助搜救。摄影师：Mohamed Messara]]></summary>
-        <author>
-            <name>iDaily 每日环球视野</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全球首艘甲醇动力集装箱船]]></title>
-        <id>https://m.idai.ly/se/123KKL</id>
-        <link href="https://m.idai.ly/se/123KKL"/>
-        <updated>2023-09-15T08:47:00.000Z</updated>
-        <summary type="html"><![CDATA[全球首艘甲醇动力集装箱船「劳拉·马士基」（Laura Maersk）号抵达哥本哈根港。9月14日，丹麦马士基跨国航运集团的首艘甲醇动力船正式命名交付。这是该公司委托韩国现代重工建造首批25艘甲醇动力船中的第一艘，船身长172米，最大装载2100个标准箱，能够使用符合碳中和标准的甲醇燃料或传统化石燃料。这艘货船预计于2023年10月投入波罗的海航线运营，每年可减少275万吨二氧化碳排放。马士基公司宣布目标在2030年实现25%海运货船使用绿色燃料。摄影师：Sergei Gapon]]></summary>
-        <author>
-            <name>iDaily 每日环球视野</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[毕加索情人画像拍卖]]></title>
-        <id>https://m.idai.ly/se/c282n3</id>
-        <link href="https://m.idai.ly/se/c282n3"/>
-        <updated>2023-09-15T08:45:00.000Z</updated>
-        <summary type="html"><![CDATA[拍卖行工作人员正在布展一幅西班牙艺术家 Pablo Picasso 的1932年油画《戴手表的女人》，纽约。这幅作品中的女性为毕加索的灵感缪斯及情妇 Marie-Thérèse Walter，画面色彩和构图充满喜悦和激情，被视为毕加索创作生涯巅峰期的重要作品。这幅作品将于11月8日在纽约上拍，拍前估价1.2亿美元，有望打破毕加索作品拍卖成交价纪录。摄影师：Alexi J. Rosenfeld]]></summary>
-        <author>
-            <name>iDaily 每日环球视野</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Matrix Talk | 你的新手机和它们更搭：少数派的作者们爱用哪些手机配件？]]></title>
-        <id>https://sspai.com/post/82916</id>
-        <link href="https://sspai.com/post/82916"/>
-        <updated>2023-09-15T08:30:00.000Z</updated>
-        <summary type="html"><![CDATA[正所谓人靠衣装，我们平时寸步不离的手机自然也离不开各种配件的装点。无论是简单的手机壳、充电器，还是看似「花里胡哨」的手机支架、外接设备，这些能够提升「幸福感」的手机配件，往往能让我们使用手机时感到更加 ...查看全文]]></summary>
-        <author>
-            <name>Matrix机器人</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美参议院财政委员会通过法案，加深与台湾经济联系]]></title>
-        <id>https://cn.nytimes.com/usa/20230915/senate-committee-taiwan-double-taxation/dual</id>
-        <link href="https://cn.nytimes.com/usa/20230915/senate-committee-taiwan-double-taxation/dual"/>
-        <updated>2023-09-15T07:36:02.000Z</updated>
-        <summary type="html"><![CDATA[ALAN RAPPEPORT2023年9月15日尽管在税收政策的大多数领域有着截然不同的观点，共和党和民主党在支持台湾和反感中国方面是一致的。 Adriana Zehbrauskas for The New York Times
-The Senate Finance Committee on Thursday passed a bill that would deepen economic ties between the United States and Taiwan and effectively create a tax treaty that is expected to pave the way for more Taiwanese investment in the American semiconductor industry.
-周四，参议院财政委员会通过一项法案，将加深美国与台湾之间的经济联系，并在实际上创造一项税收协定，预计将为台湾对美国半导体行业的更多投资铺平道路。
-The effort by Congress could inflame tensions between the United States and China at a time when the Biden administration has been working to stabilize the relationship. President Biden dispatched three cabinet officials to Beijing this summer to improve dialogue between the world’s two largest economies.
-在拜登政府一直致力于稳定美中关系之际，国会的努力可能会加剧两国之间的紧张关系。今年夏…]]></summary>
-        <author>
-            <name>纽约时报双语版</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从 30 Pin 到 USB Type-C，细数 iPhone 接口的变化]]></title>
-        <id>https://sspai.com/post/82913</id>
-        <link href="https://sspai.com/post/82913"/>
-        <updated>2023-09-15T07:03:38.000Z</updated>
-        <summary type="html"><![CDATA[曾经那些出现在 iPhone 上「极为先进」的接口们，是怎样诞生、发展，再成为历史的。查看全文]]></summary>
-        <author>
-            <name>宛潼</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为何俄美双双向朝鲜半岛寻求武器弹药]]></title>
-        <id>https://cn.nytimes.com/asia-pacific/20230915/north-south-korea-ukraine/dual</id>
-        <link href="https://cn.nytimes.com/asia-pacific/20230915/north-south-korea-ukraine/dual"/>
-        <updated>2023-09-15T05:06:02.000Z</updated>
-        <summary type="html"><![CDATA[CHOE SANG-HUN2023年9月15日朝鲜官方媒体发布的照片显示，俄罗斯总统普京周三在俄罗斯东方航天发射场与朝鲜领导人金正恩会面。 Korean Central News Agency, via Agence France-Presse — Getty Images
-Washington and Moscow flooded the Korean Peninsula with arms and aid as they fueled the war between South and North seven decades ago. Now, in a fateful moment of history turning back on itself, Russia and the United States are reaching out to those same allies to supply badly needed munitions as the powers face each other down again, this time on the other side of the globe, in Ukraine.
-70年前，美国和莫斯科介入朝鲜战争时，大量来自华盛顿和莫斯科的武器和援助涌入朝鲜半岛。如今，历史出现了宿命的反转，俄罗斯和美国正在寻找各自在朝鲜半岛的盟友来提供急需的武器弹药，这两个大国已再次发生对峙，这次是在位于地球另一端的乌克兰。
-When President Vladimir V. Putin met North Korea’s leader, Kim Jong-un, in Russia’s far east on Wednesday, they struck what North Korea called “a satisfa…]]></summary>
-        <author>
-            <name>纽约时报双语版</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[张曦文︱晚明书法潮流的代表作——傅山《啬庐妙翰》]]></title>
-        <id>https://www.thepaper.cn/newsDetail_forward_24565464</id>
-        <link href="https://www.thepaper.cn/newsDetail_forward_24565464"/>
-        <updated>2023-09-15T05:02:07.000Z</updated>
-        <summary type="html"><![CDATA[一种纯粹的精神无意识活动。通过这种活动，人们试图用言语、书写，或其他各种方式来表现出思想真实的运作。——[法]安德烈·布勒东（André Breton）《超现实主义宣言》
-二十世纪初，欧洲大陆上迅速生长起一种影响范围极大的艺术运动——超现实主义运动，此后蔓延至全世界，造就了二十世纪生命最长也最辉煌的艺术形式。两次世界大战被认为是超现实主义产生的历史背景，而欧洲的心理学理论在当时的繁荣又为超现实主义提供了哲学依据。
-超现实主义艺术家作为“他者”，曾经从中国书画中汲取来自“异文化”的营养，创作出诸多明显带有中国书法特征的绘画作品，并且在材料上选用宣纸水墨。朱迪特·赖格尔与克里斯蒂安·多特雷蒙是最为典型的两位画家。
-
-【法/匈】朱迪特·赖格尔（1923-2020），无题2（Untitled II）
-(https://www.artnet.com/artists/judit-reigl/untitled-ii-1958-yfPSsjVJ_7_AyamXCuqHXQ2)
-
-
-【法/匈】朱迪特·赖格尔（1923-2020），无题2（Untitled II）
-(https://www.artnet.com/artists/judit-reigl/untitled-ii-rKJRZZ89o-kN2dh1Da2eUQ2)
-
-
-【比】克里斯蒂安·多特雷蒙（1922-1979），语素文字（Logogram）
-（https://www.artnet.com/artists/christian-dotremont/logogram-gcVrIIUUzbgRdxkrOyc8yg2）
-
-
-【比】克里斯蒂安·多特雷蒙（1922-1979），文字拼图（UN PUZZLE D'ENCRE SE CACHE DEVANT TOUTE ECRITURE）
-(https://www.artnet.com/artis…]]></summary>
-        <author>
-            <name>上海书评</name>
         </author>
     </entry>
 </feed>
