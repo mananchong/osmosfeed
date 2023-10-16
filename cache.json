@@ -6,6 +6,16 @@
       "siteUrl": "https://rweekly.org/atom.xml",
       "articles": [
         {
+          "id": "https://rweekly.org/2023-W42.html",
+          "author": null,
+          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Tony ElHabr, with help from the R Weekly team members and contributors.\nHighlight\nTwo recent enhancements to my testing workflow\nShiny In Production 2023: Effective Logging in Shiny\nNote to self: be aware of functions with default arguments\nInsights\ntestthat 3.2.0\nTwo recent enhancements to my testing workflow\nrang 0.3.0 or why computational reproducibility is not about recipes\nNote to self: be aware of functions with default arguments\nSome tips on unit testing with testthat and rlang\nThe R session crashed with exit code 2\nRunning R in Jupyter: Unleash the Simplicity of Notebooks\nR in the Real World\nPreregistration and Researcher Degrees of Freedom: Experiences from a Field …",
+          "link": "https://rweekly.org/2023-W42.html",
+          "publishedOn": "2023-10-16T00:00:00.000Z",
+          "wordCount": 5925,
+          "title": "R Weekly 2023-W42 testing, shiny logging, default arguments",
+          "imageUrl": "https://rweekly.org/public/facebook.png"
+        },
+        {
           "id": "https://rweekly.org/2023-W41.html",
           "author": null,
           "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Jon Calder, with help from the R Weekly team members and contributors.\nHighlight\nHow to translate your package’s messages with {potools}\nGitHub Copilot in Rstudio, it’s finally here!\nAn overview of what’s out there for reproducibility with R\nInsights\nC++ Q&A for R package developers\nAn overview of what’s out there for reproducibility with R\n\nQ3 2023 tidymodels digest\nR in the Real World\nForecasting Freddie Mac with the DeepAR Algorithm\nR in Organizations\nShiny App Successfully Reviewed by FDA CDER Staff (Pilot 2 Announcement 2)\nResources\nR-Guru.com Cheat Sheet for Statistical Programmers\nNew Packages\n📦 Go Live for More New Pkgs 📦\nCRAN\n{adaR} 0.2.0: A Fast ‘WHATWG’ Complian…",
@@ -52,6 +62,16 @@
       "feedUrl": "https://feedx.net/rss/shanghaishuping.xml",
       "siteUrl": "http://thepaper.cn",
       "articles": [
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_24925217",
+          "author": null,
+          "description": "一\n1929年1月4日，旧历十一月二十四日，郭曾炘在北京病逝。其子郭则澐请陈宝琛为撰墓志铭，即收于《沧趣楼文存》卷下的《郭文安公墓志铭》（上海古籍出版社《沧趣楼诗文集》，下册，412-415页）。作为研究郭曾炘生平的重要资料，这篇文章却并非出自陈宝琛之手，而是由何振岱代笔。《何振岱集》收录《侯官郭文安公墓志铭》，题下小字注“代”。何振岱（1867-1952），字梅生，号觉庐，晚号梅叟，和陈宝琛、郭曾炘同为福建人。有《我春室文集》《觉庐诗集》等。2016年，福建人民出版社影印出版《何振岱日记》，民国二十九年（1940）十一月十六日：\n郭舜卿使人送春老墓志拓本，宝侍郎书，楷法端严，得欧阳率更之神。文则弢老撰，而予代笔也。尚觉整洁不芜，铭词尤雅赡。\n春老即郭曾炘（春榆）。郭则寿（1883-1943），号舜卿，有《卧虎阁诗》，何振岱为作序。郭舜卿是郭柏苍曾孙，郭曾炘的祖父是郭柏荫，郭柏荫是郭阶三的次子，郭柏苍是第四子。此时距离郭曾炘去世已经过去十年。郭曾炘曾为礼部侍郎，民国后，居于北京。1925年，陈宝琛从北京迁居天津，仍往来频繁。1928年，郭曾炘为陈宝琛的弟弟、陈懋鼎的父亲陈宝瑨撰寿文。垂暮之年，郭曾炘开始手定诗作拟刊行，请陈宝琛为诗集作序。宝侍郎即宝熙，在宗室中诗文、书法皆有美名。何振岱对自己的这篇文章甚为满意，如果没有日记的记载，很难知道这篇《墓志铭》非陈宝琛的手笔。\n\n陈宝琛为近代诗文大家，有《沧趣楼诗集》《沧趣楼文存》存世。《沧趣楼诗集》刊行之前，曾经师友反复审定，足见慎重。然《沧趣楼文存》二卷，并非陈宝琛生前自定。陈遵统《〈沧趣楼文存〉校读后记》：“兹集辑成后，幾士以付陈君无竞，无竞于庚寅春校雠竣事，缀以短跋。旋复由几士托胡君孟玺珍藏，以俟刊布。”1950年春，陈海瀛校雠后交还陈懋复，由胡尔瑛（孟玺）珍藏，胡为林纾弟子，辑有《畏庐尺牍》。陈之麟《沧趣楼文存跋》称“《文…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_24925217",
+          "publishedOn": "2023-10-16T05:02:10.000Z",
+          "wordCount": 63,
+          "title": "窦瑞敏︱何振岱为陈宝琛代笔考",
+          "imageUrl": null
+        },
         {
           "id": "https://www.thepaper.cn/newsDetail_forward_24908231",
           "author": null,
@@ -475,6 +495,36 @@
       "feedUrl": "https://www.nationalreview.com/feed/",
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
+        {
+          "id": "https://www.nationalreview.com/?p=1552845",
+          "author": "John Fund and Wendell Cox",
+          "description": "New Zealand’s high-tax, pro-lockdown party is smashed at the polls.",
+          "link": "https://www.nationalreview.com/2023/10/the-left-loses-badly-down-under/",
+          "publishedOn": "2023-10-15T23:01:05.000Z",
+          "wordCount": 9167,
+          "title": "The Left Loses Badly Down Under",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/10/australia-election-sign.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1552760",
+          "author": "David Zimmermann",
+          "description": "At least 29 known Americans have died and another 15 remain missing, the U.S. State Department confirmed Saturday.",
+          "link": "https://www.nationalreview.com/news/republican-congressman-rescues-96-americans-from-israel-as-regional-conflict-persists/",
+          "publishedOn": "2023-10-15T21:21:31.000Z",
+          "wordCount": 8660,
+          "title": "Republican Congressman Rescues 96 Americans from Israel as Regional Conflict Persists",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/10/cory-mills.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1552742",
+          "author": "David Zimmermann",
+          "description": "The latest war development comes ahead of the Israeli military’s impending ground offensive in Gaza.",
+          "link": "https://www.nationalreview.com/news/hamas-blocking-mass-evacuation-in-gaza-as-idf-urges-civilians-to-move-south/",
+          "publishedOn": "2023-10-15T15:41:31.000Z",
+          "wordCount": 8879,
+          "title": "Hamas Blocking Mass Evacuation in Gaza as IDF Urges Civilians to Move South",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/10/palestine-gaza-evacuate.jpg?fit=1200%2C705&ssl=1"
+        },
         {
           "id": "https://www.nationalreview.com/?p=1552715",
           "author": "Andrew Stuttaford",
@@ -5314,86 +5364,6 @@
           "wordCount": 8675,
           "title": "Joe Biden According to Joe Biden",
           "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/02/Biden-15.jpg?fit=1200%2C700&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1541753",
-          "author": "Ari Blaff",
-          "description": "Had Paxton been convicted on any of the counts, he would have been removed from office.",
-          "link": "https://www.nationalreview.com/news/texas-state-senate-acquits-attorney-general-ken-paxton-on-16-different-articles-of-impeachment/",
-          "publishedOn": "2023-09-16T17:52:01.000Z",
-          "wordCount": 8995,
-          "title": "Texas State Senate Acquits Attorney General Ken Paxton on 16 Different Articles of Impeachment",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2017/11/paxton-ken-texas-attorney-general.jpg?fit=1200%2C700&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1541729",
-          "author": "Ari Blaff",
-          "description": "‘The emotional truth is first. The factual truth is secondary,’ the comic said.",
-          "link": "https://www.nationalreview.com/news/comedian-hasan-minhaj-under-fire-for-fabrications-in-routines-portraying-himself-as-victim-of-racism/",
-          "publishedOn": "2023-09-16T15:13:10.000Z",
-          "wordCount": 8625,
-          "title": "Comedian Hasan Minhaj Under Fire for Fabrications in Routines Portraying Himself as Victim of Racism",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/09/hasan-minhaj.jpg?fit=1200%2C700&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1541701",
-          "author": "Ari Blaff",
-          "description": "Jann Wenner also downplayed the journalistic failings of an infamous Rolling Stone article that fabricated a story of sexual assault at UVA.",
-          "link": "https://www.nationalreview.com/news/rolling-stone-founder-women-black-musicians-not-articulate-enough-on-intellectual-level-to-feature-in-new-book/",
-          "publishedOn": "2023-09-16T14:13:13.000Z",
-          "wordCount": 8726,
-          "title": "<i>Rolling Stone</i> Founder: Women, Black Musicians Not ‘Articulate Enough’ on ‘Intellectual Level’ to Feature in New Book",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/09/jann-wenner.jpg?fit=1200%2C700&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1541336",
-          "author": "Catherine R. Pakaluk",
-          "description": "Wittingly or not, Adam Smith wrote on the character of the social order in a way that is consistent with Catholic thought.",
-          "link": "https://www.nationalreview.com/2023/09/catholic-and-smithian/",
-          "publishedOn": "2023-09-16T10:30:52.000Z",
-          "wordCount": 9799,
-          "title": "Catholic and Smithian",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2022/11/adamsmith.jpg?fit=1200%2C700&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1540022",
-          "author": "Beth Akers and Joe Pitts",
-          "description": "This supposed ‘solution’ pours fuel on the fire, encouraging universities to charge higher tuition and students to take out more in loans.",
-          "link": "https://www.nationalreview.com/2023/09/bidens-latest-student-loan-plan-is-another-disaster/",
-          "publishedOn": "2023-09-16T10:30:44.000Z",
-          "wordCount": 9199,
-          "title": "Biden’s Latest Student-Loan Plan Is Another Disaster",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/09/bidena-1.jpg?fit=1200%2C700&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1541345",
-          "author": "Andrew C. McCarthy",
-          "description": "If Willis is to be believed, a person need not commit or agree to commit any statutory crime in order to be guilty of RICO conspiracy.",
-          "link": "https://www.nationalreview.com/2023/09/fani-williss-monstrous-trump-case/",
-          "publishedOn": "2023-09-16T10:30:37.000Z",
-          "wordCount": 11678,
-          "title": "Fani Willis’s Monstrous Trump Case",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/09/fani.jpg?fit=1200%2C700&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1541393",
-          "author": "Zach Kessel",
-          "description": "Russia, China, North Korea, and Iran are forming an unholy alliance bent on upending the U.S.-led international order.",
-          "link": "https://www.nationalreview.com/2023/09/meet-the-new-axis-of-evil/",
-          "publishedOn": "2023-09-16T10:30:34.000Z",
-          "wordCount": 9444,
-          "title": "Meet the New Axis of Evil",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/09/russiianputin.jpg?fit=1200%2C700&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1541081",
-          "author": "Brian T. Allen",
-          "description": "Its first exhibition on dog portraits shows that heaven on earth is a dog’s pure, total love.",
-          "link": "https://www.nationalreview.com/2023/09/dogs-get-an-art-world-belly-rub-at-londons-wallace-collection/",
-          "publishedOn": "2023-09-16T10:30:02.000Z",
-          "wordCount": 10505,
-          "title": "Dogs Get an Art-World Belly Rub at London’s Wallace Collection",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/09/13.jpg?fit=1200%2C700&ssl=1"
         }
       ]
     },
@@ -5402,6 +5372,26 @@
       "feedUrl": "https://sspai.com/feed",
       "siteUrl": "https://sspai.com",
       "articles": [
+        {
+          "id": "https://sspai.com/post/83231",
+          "author": "EricYoung",
+          "description": "我们已经习惯性地依赖碎片化的知识和海量的信息涌入我们的大脑，除了写需求文档似乎再难静下心来完成另外一件事情。当有一天回过头，发现这危险的事态越来越严重时，就必要开始有所改变。查看全文",
+          "link": "https://sspai.com/post/83231",
+          "publishedOn": "2023-10-16T03:05:12.000Z",
+          "wordCount": 668,
+          "title": "于忙碌中重拾学习能力：我的知识金字塔是如何搭建的",
+          "imageUrl": "https://cdn.sspai.com/2023/09/26/847dc7734fa8d402ed4d9c916868d378.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/83587",
+          "author": "少数派编辑部",
+          "description": "你可能错过的新鲜事微软完成收购动视暴雪交易10月12日，微软历时21个月后，宣布完成其对动视暴雪价值750亿美元的收购交易。曾对该交易构成最后实质障碍的英国竞争与市场管理局（CMA）于当日表示，鉴于微 ...查看全文",
+          "link": "https://sspai.com/post/83587",
+          "publishedOn": "2023-10-16T00:53:34.000Z",
+          "wordCount": 869,
+          "title": "派早报：微软完成收购动视暴雪交易，AMD 驱动更新导致 CS2 玩家被封号",
+          "imageUrl": "https://cdn.sspai.com/10/15/2023/article/66bf28e5-43cf-7fc8-1ab5-1dcde005d233.png"
+        },
         {
           "id": "https://sspai.com/post/83182",
           "author": "FavourHong",
@@ -6321,26 +6311,6 @@
           "wordCount": 1217,
           "title": "开学季 | 值得关注的官翻渠道汇总 (2023)",
           "imageUrl": "https://cdn.sspai.com/2023/9/17/article/6767b8b2-ab2d-b4f5-3e7c-359fe78c294e.png"
-        },
-        {
-          "id": "https://sspai.com/prime/story/ppc-history-08",
-          "author": "MIG",
-          "description": "乔布斯与盖茨和好、剿杀 Mac 克隆，使苹果得以挺过艰难时光。PowerPC 的工程师们不负众望，打造出力压奔腾 II 的 G3。但乔布斯却开始逐渐萌生向英特尔靠拢的想法。查看全文\n本文为付费栏目文章，出自《处理器简史之 PowerPC》，订阅后可阅读全文。\n查看全文\n本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
-          "link": "https://sspai.com/prime/story/ppc-history-08",
-          "publishedOn": "2023-09-16T10:13:25.000Z",
-          "wordCount": 1227,
-          "title": "处理器简史｜PowerPC 08：否极泰来 以弱胜强（下）",
-          "imageUrl": "https://cdn.sspai.com/9/16/2023/article/5101915b-0dd1-78fc-c2e6-165b8abfefa0.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/82791",
-          "author": "熊猫别熬夜",
-          "description": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
-          "link": "https://sspai.com/post/82791",
-          "publishedOn": "2023-09-16T09:00:21.000Z",
-          "wordCount": 976,
-          "title": "Eagle 的隐藏用法：批量导入并管理 Zotero 的标注图片",
-          "imageUrl": "https://cdn.sspai.com/9/16/2023/article/ba29f713-a3e8-f301-f24b-4f47741ffa14.png"
         }
       ]
     },
@@ -8388,76 +8358,6 @@
           "wordCount": 1201,
           "title": "旅日大熊猫28岁生日",
           "imageUrl": null
-        },
-        {
-          "id": "https://m.idai.ly/se/a5cB9r",
-          "author": null,
-          "description": "俄联盟号火箭搭载「联盟 MS-24」号载人飞船发射升空，拜科努尔航天发射场。9月15日，「联盟 MS-24」号飞船发射3小时零9分钟后顺利抵达国际空间站，本次任务主要运送「远征70组」3名宇航员、120公斤科学设备和生活物资。「远征70组」宇航员包括俄罗斯宇航员 Oleg Kononenko、Nikolai Chub 和美国宇航员 Loral O'Hara，他们将在国际空间站开展约60项科学实验并进行4次太空行走。摄影师：Maxim Shemetov",
-          "link": "https://m.idai.ly/se/a5cB9r",
-          "publishedOn": "2023-09-16T10:51:00.000Z",
-          "wordCount": 1205,
-          "title": "联盟 MS-24号飞船发射",
-          "imageUrl": null
-        },
-        {
-          "id": "https://m.idai.ly/se/54eYpy",
-          "author": null,
-          "description": "美国总统 Joe Biden 针对汽车行业大罢工发表讲话，华盛顿白宫。9月15日，美国汽车工会史上首次同时对美国三大汽车制造商福特、通用汽车和斯特兰蒂斯发起大规模罢工抗议，约1.3万名汽车产业工人参与，要求三大汽车厂商对工人加薪40%、取消薪酬分级和采取每周4天32小时工作制。美国总统 Biden 在讲话中呼吁美国三大汽车制造商更公平地分享利润，敦促各方重回谈判桌达成双赢协议。美国劳工统计局数据显示2023年8月汽车行业工人平均时薪为28美元。摄影师：Kevin Dietsch",
-          "link": "https://m.idai.ly/se/54eYpy",
-          "publishedOn": "2023-09-16T10:51:00.000Z",
-          "wordCount": 1204,
-          "title": "美国汽车业工人大罢工",
-          "imageUrl": null
-        },
-        {
-          "id": "https://m.idai.ly/se/386Gc2",
-          "author": null,
-          "description": "中国国家主席习近平与柬埔寨总理洪玛奈在北京人民大会堂举行会晤。9月15日，习近平指出中国和柬埔寨是铁杆朋友，中方愿同柬方推动中柬命运共同体建设走深走实，充实中柬「钻石六边」合作架构，共建「工业发展走廊」和「鱼米走廊」。柬埔寨总理表示，柬新一届政府将继续坚定奉行对华友好政策，恪守一个中国原则，愿同中方深化共建「一带一路」合作，推动两国工业、农业、投资、人文等领域合作发展，在地区和国际事务中密切配合。中国是柬埔寨第一大贸易伙伴、第一大外资来源国和外来援助国，2022年中柬双边贸易额达到160.2亿美元，同比增长17.5%。摄影师：Huang Jingwen",
-          "link": "https://m.idai.ly/se/386Gc2",
-          "publishedOn": "2023-09-16T10:51:00.000Z",
-          "wordCount": 1204,
-          "title": "习近平会见柬埔寨总理",
-          "imageUrl": null
-        },
-        {
-          "id": "https://m.idai.ly/se/f8506D",
-          "author": null,
-          "description": "朝鲜最高领导人金正恩近距离参观一架「苏-57」战斗机驾驶舱，阿穆尔河畔共青城。9月15日，金正恩率代表团访问俄罗斯加加林飞机制造厂参观「苏-35」和「苏-57」战斗机组装、生产和研发车间，并了解俄方建造现代飞机使用的数字技术和对SSJ-100客机开展的进口替代工作。金正恩高度评价俄飞机制造业的生产成果，表示俄罗斯在飞机制造方面的巨大潜力、现代化水平、向上奋发进取的精神令人感触颇深。摄影师：iDaily Media",
-          "link": "https://m.idai.ly/se/f8506D",
-          "publishedOn": "2023-09-16T10:51:00.000Z",
-          "wordCount": 1204,
-          "title": "金正恩参观俄战斗机工厂",
-          "imageUrl": null
-        },
-        {
-          "id": "https://m.idai.ly/se/e67v06",
-          "author": null,
-          "description": "韩国在野党「共同民主党」党首李在明因绝食体力不支而平躺，首尔。9月16日，李在明绝食抗议进入第17天，目前已出现体温过低、头晕无力等严重低血糖症状，医生建议其应立刻住院接受治疗。韩国执政党「国民力量党」党首金起炫当天发布声明要求李在明停止危害健康的绝食行动，表示愿与李在明随时进行坦诚的对话，提议两党通过讨论和协商解决意见分歧。最新民调显示韩国总统尹锡悦的施政好评率下跌2个百分点至31%，差评率升至60%。摄影师：iDaily Media",
-          "link": "https://m.idai.ly/se/e67v06",
-          "publishedOn": "2023-09-16T10:51:00.000Z",
-          "wordCount": 1204,
-          "title": "李在明绝食第17天",
-          "imageUrl": null
-        },
-        {
-          "id": "https://m.idai.ly/se/620n7J",
-          "author": null,
-          "description": "橘园美术馆举办意大利画家 Amedeo Modgiliani 专题展，一幅1919年油画《汉卡·兹博罗夫斯卡夫人》正在展出，巴黎。莫迪利亚尼出生于1884年，以色彩鲜明、比例修长的女性人物肖像画而闻名，被视为欧洲20世纪初表现主义画派的代表人物。本次展览主要讲述画家与法国艺术经销商 Paul Guillaume 建立的友谊与长期合作历史，展期从9月20日持续至2024年1月15日。摄影师：Teresa Suarez",
-          "link": "https://m.idai.ly/se/620n7J",
-          "publishedOn": "2023-09-16T10:51:00.000Z",
-          "wordCount": 1204,
-          "title": "巴黎举办莫迪利亚尼画展",
-          "imageUrl": null
-        },
-        {
-          "id": "https://m.idai.ly/se/c303Gf",
-          "author": null,
-          "description": "一只鲸鲨在爪哇岛海滩搁浅死亡。9月15日，印尼爪哇岛发现一只重2吨、长7.4米的死亡鲸鲨，这是该地区3个月以来发生的第4起鲸鲨死亡事件。鲸鲨是世界上现存体型最大的鱼类，体长可达12米，一般生活在热带和温带海域，以小型动植物和浮游生物为食。鲸鲨几乎没有天敌，受到的威胁主要来自人类渔业活动。全世界鲸鲨数量在过去75年中减少超过50%，目前已被列入濒危物种。摄影师：Dasril Roszandi",
-          "link": "https://m.idai.ly/se/c303Gf",
-          "publishedOn": "2023-09-16T10:51:00.000Z",
-          "wordCount": 1204,
-          "title": "印尼鲸鲨搁浅死亡",
-          "imageUrl": null
         }
       ]
     },
@@ -8466,6 +8366,26 @@
       "feedUrl": "https://plink.anyfeeder.com/nytimes/dual",
       "siteUrl": "http://nytimes.com",
       "articles": [
+        {
+          "id": "https://cn.nytimes.com/usa/20231016/bitcoin-mines-china-united-states/dual",
+          "author": null,
+          "description": "GABRIEL J.X. DANCE, 傅才德2023年10月16日 Chet Strange for The New York Times\nWhen a company with Chinese origins broke ground last year on a crypto-mining operation in Cheyenne, Wyoming, a team at Microsoft that assesses national security threats sounded the alarm.\n去年，当一家有中国背景的公司在怀俄明州夏延动工进行加密货币采矿时，微软一个评估国家安全威胁的团队拉响了警报。\nNot only was the site next door to a Microsoft data center that supported the Pentagon, but it was also about 1 mile away from an Air Force base that controlled nuclear-armed intercontinental ballistic missiles.\n这个地点紧邻为五角大楼提供支持的微软数据中心，而且距离一个控制携带核武器的洲际弹道导弹的空军基地也只有1.6公里。\nThe location could allow the Chinese to “pursue full-spectrum intelligence collection operations,” the Microsoft team wrote in an August 2022 report to the Committee on Foreign Investment in the United States, a fed…",
+          "link": "https://cn.nytimes.com/usa/20231016/bitcoin-mines-china-united-states/dual",
+          "publishedOn": "2023-10-16T06:06:02.000Z",
+          "wordCount": 1683,
+          "title": "中国比特币矿场在美引发国安忧虑",
+          "imageUrl": "https://static01.nyt.com/images/2023/10/10/autossell/10vid_Mine-03/10vid_Mine-03-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/opinion/20231016/israel-palestinians-gaza-peace/dual",
+          "author": null,
+          "description": "DAVID BROOKS2023年10月16日2000年，以色列总理巴拉克、美国总统克林顿和巴勒斯坦领导人阿拉法特在戴维营。 Ron Edmonds/Associated Press\nThroughout this horrible week, my mind has repeatedly flashed back to Dec. 23, 2000. That was the day the Palestinians were offered a path to having their own nation on roughly 95 percent of the land in the West Bank and 100 percent of the land in the Gaza Strip. Under that outline, Israel would also swap some of its own land to compensate the Palestinians in exchange for maintaining 80 percent of its settler presence in the West Bank.\n在整个恐怖的一周里，我的思绪不断回到2000年12月23日那天。就在那天，巴勒斯坦人得到了在约旦河西岸约95%的土地和加沙地带100%的土地上建立自己国家的机会。根据当时提出的路线图，以色列还会把本国的一些土地交给巴勒斯坦人，作为让西岸以色列定居点的80%继续存在下去的补偿。\nThe Palestinians would control, in President Bill Clinton’s formulation, “Arab areas” of East Jerusalem. And on the most sensitiv…",
+          "link": "https://cn.nytimes.com/opinion/20231016/israel-palestinians-gaza-peace/dual",
+          "publishedOn": "2023-10-16T02:36:01.000Z",
+          "wordCount": 1274,
+          "title": "巴以之间错失的和平机会",
+          "imageUrl": "https://static01.nyt.com/images/2023/10/14/opinion/12brooks/12brooks-articleLarge.jpg"
+        },
         {
           "id": "https://cn.nytimes.com/business/20231013/nio-china-electric-vehicles/dual",
           "author": null,
