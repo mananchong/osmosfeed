@@ -44,16 +44,6 @@
           "wordCount": 6138,
           "title": "R Weekly 2023-W39 Posit Conf(2023), Nix, Snap Slides & Raster Processing",
           "imageUrl": "https://rweekly.org/public/facebook.png"
-        },
-        {
-          "id": "https://rweekly.org/2023-W38.html",
-          "author": null,
-          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Sam Parmar, with help from the R Weekly team members and contributors.\nHighlight\nrio 1.0.0\nAn Interview of Me by JP and Sarah\nHow Open Source (R and Shiny) Is Transforming Processes in the Pharmaceutical Industry\nInsights\nreadODS 2.1.0\nrio 1.0.0\nMerge Consecutive Blockquotes in Markdown\nMake HTML Elements Full-width Automatically via JavaScript and CSS\nState of Shiny 2023 – Download Report\n\nAn introduction to Python for R Users\n\nR in the Real World\nCrossing Bridges: Reporting on NYC taxi data with RStudio and Databricks\nA Tale of Outage and Revival: Building a Static Site Generator in R\nposit::conf(2023)\nUtilizing R for Reproducible Open Science Research in Tucson, Arizona\nF…",
-          "link": "https://rweekly.org/2023-W38.html",
-          "publishedOn": "2023-09-18T00:00:00.000Z",
-          "wordCount": 6402,
-          "title": "R Weekly 2023-W38 rio 1.1.0, Yihui's interview, Open Source in Pharma",
-          "imageUrl": "https://rweekly.org/public/facebook.png"
         }
       ]
     },
@@ -495,6 +485,116 @@
       "feedUrl": "https://www.nationalreview.com/feed/",
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
+        {
+          "id": "https://www.nationalreview.com/?p=1553604",
+          "author": "The Editors",
+          "description": "Unfortunately, the United States is no longer the muscular Arsenal of Democracy it once was.",
+          "link": "https://www.nationalreview.com/2023/10/rebuild-americas-defense-industrial-base-now/",
+          "publishedOn": "2023-10-17T14:49:42.000Z",
+          "wordCount": 8747,
+          "title": "Rebuild America’s Defense-Industrial Base — Now!",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/10/defence.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1553263",
+          "author": "Abigail Anthony",
+          "description": "The suspect allegedly tore down posters of Israelis taken hostage by Hamas and, when confronted, hit the student with a stick.",
+          "link": "https://www.nationalreview.com/news/suspect-in-assault-on-israeli-columbia-student-charged-with-hate-crime/",
+          "publishedOn": "2023-10-17T14:16:58.000Z",
+          "wordCount": 8774,
+          "title": "Suspect in Assault on Israeli Columbia Student Charged with Hate Crime",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/10/columbia-protest-1.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1553559",
+          "author": "David Zimmermann",
+          "description": "‘These fifth-columnists have no place in the United States,’ Cotton said.",
+          "link": "https://www.nationalreview.com/news/senator-cotton-urges-mayorkas-to-deport-foreign-nationals-who-support-hamas/",
+          "publishedOn": "2023-10-17T13:57:20.000Z",
+          "wordCount": 8390,
+          "title": "Senator Cotton Urges Mayorkas to Deport Foreign Nationals Who Support Hamas",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2022/06/cotton.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1553569",
+          "author": "Charles C. W. Cooke",
+          "description": "Progressives’ response to Hamas’s atrocities reveals that they never believed in their own dogma.",
+          "link": "https://www.nationalreview.com/2023/10/the-woke-code-of-morality-was-all-nonsense/",
+          "publishedOn": "2023-10-17T13:38:50.000Z",
+          "wordCount": 8968,
+          "title": "The Woke Code of Morality Was All Nonsense",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/10/Columbia-Protest.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1553412",
+          "author": "Zach Kessel",
+          "description": "Haley’s campaign denied that she wants to bring Palestinian refugees to the U.S., as DeSantis claimed.",
+          "link": "https://www.nationalreview.com/news/trying-to-be-politically-correct-vs-straight-up-lying-desantis-haley-trade-blows-over-gazan-refugee-policy/",
+          "publishedOn": "2023-10-17T12:57:50.000Z",
+          "wordCount": 8831,
+          "title": "‘Trying to Be Politically Correct’ vs. ‘Straight-Up Lying’: DeSantis, Haley Trade Blows over Gazan Refugee Policy",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/09/debate-haley-desantis-1.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1553520",
+          "author": "David Zimmermann",
+          "description": "About 1.1 million Palestinian civilians were ordered to evacuate Gaza City and move southward.",
+          "link": "https://www.nationalreview.com/news/u-n-claims-israels-forcible-transfer-of-civilians-in-gaza-may-violate-international-law/",
+          "publishedOn": "2023-10-17T12:52:29.000Z",
+          "wordCount": 8507,
+          "title": "U.N. Claims Israel’s ‘Forcible Transfer of Civilians’ in Gaza May Violate International Law",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/10/top-shots-102023-18.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1552221",
+          "author": "Daryl James and Justin Pearson",
+          "description": "Milk-industry players want the government to stop non-dairy varieties from using the term.",
+          "link": "https://www.nationalreview.com/2023/10/big-dairy-is-having-a-cow-over-the-word-milk/",
+          "publishedOn": "2023-10-17T10:30:55.000Z",
+          "wordCount": 8824,
+          "title": "Big Dairy Is Having a Cow over the Word ‘Milk’",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/10/milk-grocery-store.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1553179",
+          "author": "Thomas L. Hogan",
+          "description": "They would give regulators greater ability to reward their political allies and punish their enemies.",
+          "link": "https://www.nationalreview.com/2023/10/proposed-changes-for-non-bank-entities-could-increase-systemic-risk/",
+          "publishedOn": "2023-10-17T10:30:42.000Z",
+          "wordCount": 9118,
+          "title": "Proposed Changes for Non-bank Entities Could Increase Systemic Risk",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2021/09/100-bill-magnifying-glass.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1553307",
+          "author": "Henry Olsen",
+          "description": "American conservatives can take note and take heart.",
+          "link": "https://www.nationalreview.com/2023/10/woke-politics-can-be-defeated-just-look-at-australia/",
+          "publishedOn": "2023-10-17T10:30:42.000Z",
+          "wordCount": 9090,
+          "title": "Woke Politics <i>Can</i> Be Defeated — Just Look at Australia",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/10/voice-vote-yes-australia.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1553313",
+          "author": "Anna Kriebel",
+          "description": "The dehumanizing rhetoric of a student group at the University of Virginia flies in the face of the school’s Jeffersonian principles.",
+          "link": "https://www.nationalreview.com/2023/10/a-new-form-of-antisemitism-surfaces-in-charlottesville/",
+          "publishedOn": "2023-10-17T10:30:31.000Z",
+          "wordCount": 10786,
+          "title": "A New Form of Antisemitism Surfaces in Charlottesville",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/10/university-virginia-jefferson-statue.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1553459",
+          "author": "Andrew Follett",
+          "description": "Advocating environmentalist war footing while downplaying the much greater consequences of a much deadlier possible catastrophe is a poor response to both.",
+          "link": "https://www.nationalreview.com/2023/10/the-biden-administration-is-more-worried-about-global-warming-than-nuclear-war/",
+          "publishedOn": "2023-10-17T10:30:23.000Z",
+          "wordCount": 9499,
+          "title": "The Biden Administration Is More Worried about Global Warming Than Nuclear War",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2019/04/russian-icbms-moscow.jpg?fit=1200%2C700&ssl=1"
+        },
         {
           "id": "https://www.nationalreview.com/?post_type=blog-post&p=1553420",
           "author": "Ari Blaff",
@@ -5533,6 +5633,46 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/prime/story/free-markdown-editor-2023",
+          "author": "PlatyHsu",
+          "description": "有的时候，我们需要的确只是一个能简单敲几段话、改几行字、能简单排版的输入框，或者只是想看看一个现成文件的预览效果、导出成其他格式分享出去。这篇是我们经过对比试用，找出目前各平台上最值得一试的免费方案。查看全文\n本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
+          "link": "https://sspai.com/prime/story/free-markdown-editor-2023",
+          "publishedOn": "2023-10-17T09:59:51.000Z",
+          "wordCount": 984,
+          "title": "在 2023 年找个免费 Markdown 编辑器：标准讨论与选择推荐",
+          "imageUrl": "https://cdn.sspai.com/2023/10/17/article/9bdc4240-eb22-446f-ca68-9bf9167a3482.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/83650",
+          "author": "Matrix机器人",
+          "description": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意以及社区产品动态呈现给大 ...查看全文",
+          "link": "https://sspai.com/post/83650",
+          "publishedOn": "2023-10-17T09:10:07.000Z",
+          "wordCount": 1166,
+          "title": "社区速递 016 | 命令行听歌、高效收听播客的方式以及作者们的新玩意",
+          "imageUrl": "https://cdn.sspai.com/2023/10/17/article/d9bf1d06-9bcf-e988-195c-c7e1758f20dc.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/83552",
+          "author": "waychane",
+          "description": "在 Pro 级的 iPhone 中你总能找到打动你的那一点，比如更精致的外观、ProMotion 高刷屏幕、更长的续航等等，也许，这就是你最中意的 iPhone 形态。查看全文",
+          "link": "https://sspai.com/post/83552",
+          "publishedOn": "2023-10-17T08:00:00.000Z",
+          "wordCount": 1016,
+          "title": "手感最好的 Pro 级 iPhone：聊聊我的 iPhone 15 Pro 上手体验",
+          "imageUrl": "https://cdn.sspai.com/2023/10/13/article/4004e27d-5f49-7520-f291-5f8c0ac87501.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/83561",
+          "author": "Micoxx",
+          "description": "这篇文章我们就来把 Adobe 的 AI 功能从头到尾体验一遍，看看 Adobe 和 AI 之间到底能碰撞出怎样的火花。查看全文",
+          "link": "https://sspai.com/post/83561",
+          "publishedOn": "2023-10-17T07:00:00.000Z",
+          "wordCount": 906,
+          "title": "Adobe 的老树开新花：生成式 AI 功能全面体验",
+          "imageUrl": "https://cdn.sspai.com/2023/10/14/daafccdf05d8df68460d251df9457753.png"
+        },
+        {
           "id": "https://sspai.com/post/83531",
           "author": "孙彬",
           "description": "每次把手机放到远离身边的地方，按下这个小东西的按钮，开启一段心流时间，对我来说还是挺有仪式感的。查看全文",
@@ -6471,26 +6611,6 @@
           "wordCount": 853,
           "title": "iPhone 15 发布会上没有告诉你的那些事",
           "imageUrl": "https://cdn.sspai.com/2023/9/18/article/2db3786c-d903-a110-be3a-8f893ac88d12.png"
-        },
-        {
-          "id": "https://sspai.com/post/82130",
-          "author": "Echo_Nebula_PKM",
-          "description": "「可视化笔记」在 Obsidian 环境中的对比与应用。查看全文",
-          "link": "https://sspai.com/post/82130",
-          "publishedOn": "2023-09-18T03:01:49.000Z",
-          "wordCount": 746,
-          "title": "Obsidian + Excalidraw：我的个人知识管理可视化方法论",
-          "imageUrl": "https://cdn.sspai.com/18/09/2023/article/1b0fd715-357e-0688-0b58-bd6487a08a22.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/83006",
-          "author": "少数派编辑部",
-          "description": "你可能错过的新鲜事苹果更新iPhone12软件以符合法国射频规定据路透社等报道，9月15日，在法国以违反射频辐射限制为由停售iPhone12后，苹果承诺在法国更新该型号的软件，以符合当地规定。此前在上 ...查看全文",
-          "link": "https://sspai.com/post/83006",
-          "publishedOn": "2023-09-18T00:58:01.000Z",
-          "wordCount": 971,
-          "title": "派早报：苹果更新 iPhone 12 软件以符合法国射频规定，最高检阐释人人影视案",
-          "imageUrl": "https://cdn.sspai.com/9/18/2023/article/3cb369e9-0751-86a5-2b37-359d8a397b54.png"
         }
       ]
     },
@@ -6499,6 +6619,76 @@
       "feedUrl": "https://plink.anyfeeder.com/idaily/today",
       "siteUrl": "https://docs.rsshub.app",
       "articles": [
+        {
+          "id": "https://m.idai.ly/se/cb1ud4",
+          "author": null,
+          "description": "德国科隆大教堂尖形拱门的装饰雕塑修复完成。10月16日，科隆大教堂「圣米迦勒大门」（Michaelsportal）长达10年修复工程正式完工，时隔70年首次以原貌呈现。这座尖形拱门在二战期间因炮击而受损，本次共修复拱门上58个圣人雕像，保留部分弹坑痕迹作为战争记录。科隆大教堂建成于1880年，是世界上第三大哥特式教堂，每年吸引约600万人参观。摄影师：Rolf Vennenbernd",
+          "link": "https://m.idai.ly/se/cb1ud4",
+          "publishedOn": "2023-10-17T09:59:00.000Z",
+          "wordCount": 1219,
+          "title": "科隆大教堂拱门修复",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.idai.ly/se/be79PI",
+          "author": null,
+          "description": "俄罗斯总统 Vladimir Putin 乘飞机抵达北京首都国际机场。10月17日，俄总统 Putin 抵京出席第3届「一带一路」国际合作高峰论坛，预计与中国国家主席习近平举行会晤并会见越南、泰国、蒙古国、老挝、巴基斯坦等多国领导人。这是 Putin 自俄乌冲突爆发后首次访华，他在接受采访时表示中国「一带一路」倡议与俄罗斯关于发展欧亚经济联盟的设想完全契合，双方将以此为主要议题加强合作。摄影师：Parker Song",
+          "link": "https://m.idai.ly/se/be79PI",
+          "publishedOn": "2023-10-17T09:57:00.000Z",
+          "wordCount": 1219,
+          "title": "普京俄乌冲突后首次访华",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.idai.ly/se/6f5G1q",
+          "author": null,
+          "description": "匈牙利总理 Viktor Orban 向天安门广场人民英雄纪念碑敬献花圈，北京。10月16日，匈牙利总理 Orban 抵达北京出席第3届「一带一路」国际合作高峰论坛并与中国国家主席习近平举行会晤，他亦是本届峰会唯一出席的欧盟国家首脑。习近平强调中匈两国传统友谊源远流长，中方愿扩大进口匈牙利优质农产品，争取匈塞铁路按期建成通车。Orban 表示中国企业投资显著促进了匈牙利经济社会发展，匈牙利致力于深化匈中友好合作关系的决心坚定不移，将继续做中国在欧盟可以信任的朋友和伙伴。摄影师：iDaily Media",
+          "link": "https://m.idai.ly/se/6f5G1q",
+          "publishedOn": "2023-10-17T09:55:00.000Z",
+          "wordCount": 1219,
+          "title": "匈牙利总理访华",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.idai.ly/se/e7bPNJ",
+          "author": null,
+          "description": "一名巴勒斯坦男孩穿过以色列空袭摧毁的建筑，加沙地带。10月16日，以色列与哈马斯武装组织冲突进入第10天，迄今造成至少2800名巴勒斯坦人和1400名以色列人死亡，超过1.4万人受伤。加沙地带唯一可用的过境点拉法口岸仍处于关闭状态，导致国际援助物资无法通过陆路入境。世界卫生组织官员警告加沙地带即将在24小时内耗尽水、电和燃料。中国政府宣布正向联合国及巴民族权力机构分别提供紧急人道主义援助，用于解决加沙地带食品、医疗、居住等急需。摄影师：Said Khatib",
+          "link": "https://m.idai.ly/se/e7bPNJ",
+          "publishedOn": "2023-10-17T09:53:00.000Z",
+          "wordCount": 1219,
+          "title": "加沙危机持续恶化",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.idai.ly/se/c0bZa0",
+          "author": null,
+          "description": "日本首相岸田文雄向靖国神社供奉祭品，东京。10月17日，岸田文雄以「内阁总理大臣」名义向靖国神社供奉祭品，日本经济产业大臣西村康稔等3名内阁成员先后前往参拜。韩国外交部对日方参拜靖国神社和供奉祭品深表失望和遗憾。中国外交部发言人表示，中方坚决反对日方有关消极动向，已向日方提出严正交涉，中方敦促日方切实信守正视并反省侵略历史的表态和承诺，彻底同军国主义切割，以实际行动取信于亚洲邻国和国际社会。摄影师：iDaily Media",
+          "link": "https://m.idai.ly/se/c0bZa0",
+          "publishedOn": "2023-10-17T09:51:00.000Z",
+          "wordCount": 1219,
+          "title": "岸田文雄供奉靖国神社",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.idai.ly/se/320Tu4",
+          "author": null,
+          "description": "一名巴基斯坦商贩售卖传统小吃，白沙瓦。10月16日是第43个世界粮食日，本年度主题为「水是生命之源，水是粮食之本，不让任何人掉队」，提倡更高效地利用和保护水资源，促进农业和粮食生产。联合国数据显示全球约24亿人面临水资源紧张的难题，超过6亿依赖水产食品体系的民众正在遭受污染、生态系统退化、气候变化等因素的负面影响。摄影师：Bilawal Arbab",
+          "link": "https://m.idai.ly/se/320Tu4",
+          "publishedOn": "2023-10-17T09:49:00.000Z",
+          "wordCount": 1219,
+          "title": "2023世界粮食日",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.idai.ly/se/020oza",
+          "author": null,
+          "description": "埃及文物部展示一组新出土古埃及文物，明亚省。10月15日，埃及文物部宣布在图纳山遗址发现一处新王国时期的石凿墓葬群，出土彩绘棺椁、木乃伊、纸莎草纸、护身符、巫沙布提俑等数百件文物。这座墓地位于明亚省古雷法（al-Ghoreifa）考古遗址，年代可追溯至距今约3400年前的古埃及新王国时期，推测下葬者为高级官员或祭司。摄影师：Fareed Kotb",
+          "link": "https://m.idai.ly/se/020oza",
+          "publishedOn": "2023-10-17T09:47:00.000Z",
+          "wordCount": 1219,
+          "title": "埃及新出土新王国时期文物",
+          "imageUrl": null
+        },
         {
           "id": "https://m.idai.ly/se/10c1GZ",
           "author": null,
@@ -8557,6 +8747,16 @@
       "siteUrl": "http://nytimes.com",
       "articles": [
         {
+          "id": "https://cn.nytimes.com/world/20231017/putin-china-xi/dual",
+          "author": null,
+          "description": "DAVID PIERSON, ANATOLY KURMANAEV2023年10月17日俄罗斯总统普京周二抵达北京。 Pool photo by Parker Song\nWhen President Vladimir V. Putin of Russia meets with China’s top leader, Xi Jinping, during a visit to Beijing this week, both men will likely seek to demonstrate the strength of their “no limits” partnership in challenging the Western-dominated global order.\n俄罗斯总统普京本周访问北京期间将与中国最高领导人习近平会晤，届时两人可能都会寻求展示两国“没有止境”的伙伴关系在挑战西方主导的全球秩序方面的力量。\nThe visit comes at a time of turmoil in the Middle East after Hamas’s attack on Israel this month, which has led to Israeli airstrikes in Gaza and expectations of a ground invasion. Both Russia and China have refrained from following the lead of Western countries by condemning Hamas directly. \n这次访问正值中东局势动荡，哈马斯本月袭击以色列，导致以色列对加沙发动空袭，外界预计以色列将发动地面进攻。俄罗斯和中国都没有像西方国家那样直接谴责哈马斯。\nInstead, …",
+          "link": "https://cn.nytimes.com/world/20231017/putin-china-xi/dual",
+          "publishedOn": "2023-10-17T09:06:01.000Z",
+          "wordCount": 1351,
+          "title": "普京访华参加“一带一路”论坛，中俄寻求加强伙伴关系",
+          "imageUrl": "https://static01.nyt.com/images/2023/10/17/multimedia/01-hvbz/01-hvbz-articleLarge.jpg"
+        },
+        {
           "id": "https://cn.nytimes.com/opinion/20231017/china-us-taiwan-war/dual",
           "author": null,
           "description": "ORIANA SKYLAR MASTRO2023年10月17日 The New York Times\nFor a half-century, America has avoided war with China over Taiwan largely through a delicate balance of deterrence and reassurance.\n半个世纪以来，美国在很大程度上通过威慑与安抚之间的微妙平衡避免了与中国在台湾问题上的战争。\nThat equilibrium has been upset. China is building up and flexing its military power; hostile rhetoric emanates from both Beijing and Washington. War seems likelier each day.\n这种平衡现在被打破了。中国正在建设和展示军力；北京和华盛顿都发出了敌对的言论。战争的可能性似乎与日俱增。\nIt’s not too late to restore the kind of balance that helped to keep the peace for decades, but it will require taking steps to ease China’s concerns. This will be difficult because of Chinese intransigence and the overheated atmosphere prevailing in Washington. But it is worth the political risk if it prevents war.\n恢复几十年来帮助维持和平的那种平衡，眼下还为时不…",
@@ -9145,36 +9345,6 @@
           "wordCount": 1360,
           "title": "另一场贸易战：进口化妆品在中国遇挫",
           "imageUrl": "https://static01.nyt.com/images/2023/08/20/business/00China-Cosmetics-02/00China-Cosmetics-02-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/china/20230918/china-spy-balloon-program-paused/dual",
-          "author": null,
-          "description": "JULIAN E. BARNES2023年9月18日今年2月，一架美国战斗机在南卡罗来纳州海岸击落了中国间谍气球，该气球飞越了美国大陆，导致两国关系紧张。 Randall Hill/Reuters\nAmerican officials said on Friday that China had paused its spy balloon operations after one of the craft floated across much of the United States early this year and was shot down off the coast of South Carolina, setting off a diplomatic crisis between the rival powers.\n美国官员周五表示，中国已经暂停了间谍气球行动。今年早些时候，中国的一个间谍气球飘过大半个美国，在南卡罗来纳州海岸附近被击落，引发了这两个互为竞争对手的大国之间的外交危机。\nThe officials said that they did not know how long the pause would last, but that given the investments the Chinese government had made in the balloon program, Beijing was likely to restart it.\n官员称不知道暂停会持续多久，但考虑到政府在气球项目上的投资，中方很可能会选择重启。\nThe spy balloon that crossed the United States was part of a program to collect information about military …",
-          "link": "https://cn.nytimes.com/china/20230918/china-spy-balloon-program-paused/dual",
-          "publishedOn": "2023-09-18T03:06:03.000Z",
-          "wordCount": 641,
-          "title": "美官员称中国已暂停间谍气球项目，但可能重启",
-          "imageUrl": "https://static01.nyt.com/images/2023/09/15/multimedia/15dc-balloon-pzgj/15dc-balloon-pzgj-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/asia-pacific/20230918/china-putin-kim/dual",
-          "author": null,
-          "description": "DAVID PIERSON2023年9月18日中国最高领导人习近平今年8月在约翰内斯堡的金砖国家峰会上。 Pool photo by Gianluigi Guercia\nTo challenge the power of his chief rival, the United States, China’s top leader, Xi Jinping, has linked arms with two anti-Western states, declaring a “no limits” partnership with Russia and pledging “unswerving” support for North Korea.\n为挑战美国这个主要竞争对手的影响力，中国最高领导人习近平与两个反西方国家携手，他宣告与俄罗斯的伙伴关系“无止境”，承诺支持朝鲜的立场“坚定不移”。\nBut the specter of a budding bromance between President Vladimir V. Putin of Russia and the North Korean leader, Kim Jong-un, after their meeting this week in eastern Russia, may not be as welcome a development for Mr. Xi as it might initially seem.\n但上周俄罗斯总统普京与朝鲜领导人金正恩在俄罗斯远东地区碰面后，两人萌生出的兄弟情也许并不像乍看上去那样是习近平乐于见到的。\nCloser ties between Pyongyang and Moscow could result in both countries being less reliant…",
-          "link": "https://cn.nytimes.com/asia-pacific/20230918/china-putin-kim/dual",
-          "publishedOn": "2023-09-18T02:36:03.000Z",
-          "wordCount": 1437,
-          "title": "普京金正恩“兄弟情”或令习近平为难",
-          "imageUrl": "https://static01.nyt.com/images/2023/09/16/multimedia/16china-nkorea-01-jhgq/16china-nkorea-01-jhgq-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/business/20230918/china-economy-retail-sales/dual",
-          "author": null,
-          "description": "KEITH BRADSHER2023年9月18日中国消费者上个月的支出比去年同期略有增加。 Tingshu Wang/Reuters\nChina’s trains, planes, stores and beaches were a little fuller last month than a year ago, and the pace of activity picked up at factories, particularly those making mobile phones and semiconductors.\n相比去年同期，8月中国乘坐火车和飞机、前往商店和海滩的人稍微多了一些，工厂的运转节奏有所加快，尤其是手机和半导体制造商。\nA batch of numbers released on Friday by China’s National Bureau of Statistics showed a modest improvement in the country’s overall retail sales and industrial production during August. A series of small steps taken by the government over the summer, including two rounds of interest rate cuts, seems to be yielding a slightly better-than-expected improvement in the country’s economy.\n中国国家统计局周五公布的一系列数据显示，8月全国零售额和工业生产略有提振。政府今夏采取的一揽子微调措施——包括两轮降息——似乎为中国经济带来了略好于预期的改善。\n“The…",
-          "link": "https://cn.nytimes.com/business/20230918/china-economy-retail-sales/dual",
-          "publishedOn": "2023-09-18T01:36:03.000Z",
-          "wordCount": 983,
-          "title": "解读中国最新经济数据：触底反弹在即还是持续疲软",
-          "imageUrl": "https://static01.nyt.com/images/2023/09/15/multimedia/15China-Econ-lctk/15China-Econ-lctk-articleLarge.jpg"
         }
       ]
     },
@@ -9183,6 +9353,46 @@
       "feedUrl": "https://plink.anyfeeder.com/weixin/ibookreview",
       "siteUrl": "http://weixin.sogou.com/weixin?type=1&s_from=input&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A",
       "articles": [
+        {
+          "id": "eaae1198805e0f134d663baa126b89e0",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E7%A6%8F%E6%A5%BC%E6%8B%9C%EF%BC%9A%E4%BA%BA%E7%B1%BB%E6%84%9A%E8%A0%A2%E7%9A%84%E4%B8%BE%E5%8A%A8%EF%BC%8C%E5%90%8C%E4%BA%BA%E7%B1%BB%E4%B8%80%E6%A0%B7%E6%B0%B8%E4%B9%85%EF%BD%9C%E6%99%AF%E5%87%AF%E6%97%8B%E8%AF%BB%E7%BB%8F%E5%85%B8%E2%91%A5",
+          "publishedOn": "2023-10-17T01:59:00.000Z",
+          "wordCount": 334,
+          "title": "福楼拜：人类愚蠢的举动，同人类一样永久｜景凯旋读经典⑥",
+          "imageUrl": null
+        },
+        {
+          "id": "b4c26606b6cb26ae419967f44691a14b",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E7%89%B9%E5%BE%B7%C2%B7%E4%BC%91%E6%96%AF%EF%BC%9A%E8%AE%B8%E5%A4%9A%E5%8A%A8%E7%89%A9%E5%A5%94%E8%B7%91%E5%9C%A8%E8%AF%97%E8%A1%8C%E4%B8%AD%EF%BC%8C%E7%95%99%E4%B8%8B%E5%90%84%E7%A7%8D%E5%90%84%E6%A0%B7%E7%9A%84%E8%84%9A%E5%8D%B0",
+          "publishedOn": "2023-10-17T01:59:00.000Z",
+          "wordCount": 334,
+          "title": "特德·休斯：许多动物奔跑在诗行中，留下各种各样的脚印",
+          "imageUrl": null
+        },
+        {
+          "id": "cd9ac54e733b2aa1ea868132dc1501cb",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E7%8E%8B%E9%BC%8E%E9%92%A7%EF%BC%9A%E4%B8%80%E4%B8%AA%E4%BA%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E5%86%99%E4%BD%9C%EF%BC%9F",
+          "publishedOn": "2023-10-17T01:59:00.000Z",
+          "wordCount": 332,
+          "title": "王鼎钧：一个人为什么写作？",
+          "imageUrl": null
+        },
+        {
+          "id": "9d22d6762ad32a2e9543e0d97c01eec8",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E3%80%8A%E5%9C%9F%E8%B1%86%E5%B8%9D%E5%9B%BD%E3%80%8B%EF%BC%9A%E5%9C%9F%E8%B1%86%E5%A6%82%E4%BD%95%E4%BB%8E%E5%8F%97%E4%BA%BA%E9%84%99%E8%A7%86%E7%9A%84%E6%80%AA%E6%A4%8D%E7%89%A9%EF%BC%8C%E8%BD%AC%E5%8F%98%E4%B8%BA%E4%BB%8A%E5%A4%A9%E7%9A%84%E4%B8%BB%E9%A3%9F%EF%BC%9F",
+          "publishedOn": "2023-10-17T01:59:00.000Z",
+          "wordCount": 287,
+          "title": "《土豆帝国》：土豆如何从受人鄙视的怪植物，转变为今天的主食？",
+          "imageUrl": null
+        },
         {
           "id": "19f57b3fc328e6fed82413847eb52fad",
           "author": null,
@@ -9881,36 +10091,6 @@
           "publishedOn": "2023-09-19T01:59:00.000Z",
           "wordCount": 310,
           "title": "滋养了无数北京人的胡同，记录了那个年代的日常丨京华物语",
-          "imageUrl": null
-        },
-        {
-          "id": "61c4842ae197028507e66c11e25ab124",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E6%9C%89%E6%AF%92%E7%9A%84%E5%B8%82%E5%9C%BA%EF%BC%9A%E9%87%91%E9%92%B1%E4%B8%8D%E8%AF%A5%E4%B9%B0%E4%BB%80%E4%B9%88%EF%BC%9F",
-          "publishedOn": "2023-09-18T02:26:00.000Z",
-          "wordCount": 291,
-          "title": "有毒的市场：金钱不该买什么？",
-          "imageUrl": null
-        },
-        {
-          "id": "22dec09ffb5ebf188ea7f8af14ac66aa",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E3%80%8A%E6%89%AB%E5%9C%B0%E5%87%BA%E9%97%A8%E3%80%8B%E4%BD%9C%E8%80%85%E6%96%B0%E4%BD%9C%EF%BC%9A%E4%B8%BA%E4%BB%80%E4%B9%88%E8%B4%AB%E5%9B%B0%E5%9C%A8%E7%BE%8E%E5%9B%BD%E6%8C%81%E7%BB%AD%E5%AD%98%E5%9C%A8%EF%BC%9F",
-          "publishedOn": "2023-09-18T02:26:00.000Z",
-          "wordCount": 343,
-          "title": "《扫地出门》作者新作：为什么贫困在美国持续存在？",
-          "imageUrl": null
-        },
-        {
-          "id": "ca78212745a26a2f06c7601b5a365f35",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E2%80%9C%E9%AC%BC%E2%80%9D%E5%9F%9F%E4%B9%8B%E4%B8%BA%E8%99%9A%E5%A6%84%EF%BC%8C%E6%AD%A3%E4%B8%8E%E4%BA%BA%E9%97%B4%E4%B9%8B%E7%9C%9F%E5%AE%9E%E7%9B%B8%E5%90%8C",
-          "publishedOn": "2023-09-18T02:26:00.000Z",
-          "wordCount": 336,
-          "title": "“鬼”域之为虚妄，正与人间之真实相同",
           "imageUrl": null
         }
       ]
