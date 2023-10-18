@@ -2,10 +2,154 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mananchong.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-17T16:41:30.083Z</updated>
+    <updated>2023-10-18T07:39:42.669Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mananchong.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://mananchong.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[中国三季度GDP增长超预期，房地产危机阴影未散]]></title>
+        <id>https://cn.nytimes.com/business/20231018/china-gdp-q3/dual</id>
+        <link href="https://cn.nytimes.com/business/20231018/china-gdp-q3/dual"/>
+        <updated>2023-10-18T05:36:02.000Z</updated>
+        <summary type="html"><![CDATA[KEITH BRADSHER2023年10月18日本月，连云港一家风力涡轮机厂的工人。 Agence France-Presse — Getty Images
+China’s economy grew more than expected over the summer, as the government offset some of the harm from a real estate crisis by pouring money into infrastructure construction projects, like building rail lines.
+中国经济今夏增长超出预期，政府通过向铁路等基础设施建设项目投入资金，房地产危机的部分影响得到抵消。
+Data released on Wednesday showed that gross domestic product grew from July through September compared to the prior three months. Industrial production of everything from chemicals to steel began to stabilize as the government built more roads, sewage lines and other public works.
+周三公布的数据显示，7月至9月的国内生产总值较前三个月有所增长。随着政府兴建更多的道路、污水管道和其他公共工程，从化学品到钢铁的各种工业生产开始企稳。
+China’s economy, the world’s second largest, has struggled since the spring, as housing sales slowed…]]></summary>
+        <author>
+            <name>纽约时报双语版</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[总投资近万亿美元，中国还能维系“一带一路”模式吗]]></title>
+        <id>https://cn.nytimes.com/business/20231018/chinas-belt-and-road-initiative-bri/dual</id>
+        <link href="https://cn.nytimes.com/business/20231018/chinas-belt-and-road-initiative-bri/dual"/>
+        <updated>2023-10-18T04:36:02.000Z</updated>
+        <summary type="html"><![CDATA[KEITH BRADSHER2023年10月18日印度尼西亚的高铁项目。 Ulet Ifansasti for The New York Times
+China’s top leader, Xi Jinping, founded the Belt and Road Initiative a decade ago to use the country’s economic might to enlarge its geopolitical heft and counter the influence of the United States and other industrialized democracies.
+十年前，中国最高领导人习近平提出了“一带一路”倡议，旨在利用中国强大的经济实力来扩大地缘政治影响力，对抗美国及其他工业化民主国家的影响力。
+China has since disbursed close to $1 trillion to mostly developing countries, largely in loans, to build power plants, roads, airports, telecommunications networks and other infrastructure. Mr. Xi has used China’s cash and infrastructure expertise to tie together countries across Asia, Africa, Latin America and parts of Eastern and Southern Europe.
+此后，中国（主要以贷款形式）向大多数发展中国家拨付了近1万亿美元，用于建设发电厂、道路、机场、电信网络和其他基础设施。凭借资金和基建专…]]></summary>
+        <author>
+            <name>纽约时报双语版</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[拜登出访以色列：一次充满政治风险和人身危险的旅行]]></title>
+        <id>https://cn.nytimes.com/world/20231018/biden-israel-trip/dual</id>
+        <link href="https://cn.nytimes.com/world/20231018/biden-israel-trip/dual"/>
+        <updated>2023-10-18T03:36:02.000Z</updated>
+        <summary type="html"><![CDATA[DAVID E. SANGER, PETER BAKER2023年10月18日以色利总理内塔尼亚胡周末向拜登总统发出访问邀请。 Kent Nishimura for The New York Times
+President Biden will travel to Israel on Wednesday to show solidarity with America’s closest ally in the Middle East, in a wartime trip to bolster the country’s resolve to eradicate Hamas but also to urge limits on what seems bound to be a casualty-filled ground invasion of the Gaza Strip.
+美国总统拜登将于周三前往以色列，对美国在中东最密切的盟友表示支持，这次战时之行旨在加强以色列根除哈马斯的决心，同时敦促以色列在对加沙地带进行地面入侵时保持克制，这次入侵看来势必造成大量人员伤亡。
+It will be a trip fraught with risks, both political and physical.
+这将是一次充满政治风险和人身危险的旅行。
+The White House announced the visit on Monday evening after Mr. Biden met with his top intelligence officials and his closest advisers in the Oval Office to debate whether to accept the invitation that Prime Minister Benj…]]></summary>
+        <author>
+            <name>纽约时报双语版</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[跨越 GTD 的平台鸿沟：用飞书多维表格在 Windows 上复刻 Things 3]]></title>
+        <id>https://sspai.com/post/83657</id>
+        <link href="https://sspai.com/post/83657"/>
+        <updated>2023-10-18T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[飞书多维表格可以实现 Things 3 中我特别关注的几项功能，与组织架构和合作伙伴数据表的双向关联也更适配工作场景，并且可跨越 Windows 和 macOS 的鸿沟，在多平台上同步使用。查看全文]]></summary>
+        <author>
+            <name>中杯冰拿铁</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：小米澎湃 OS 正式版完成封装、Apple 推出支持 eSIM 的新 iPad 等]]></title>
+        <id>https://sspai.com/post/83663</id>
+        <link href="https://sspai.com/post/83663"/>
+        <updated>2023-10-17T23:45:00.000Z</updated>
+        <summary type="html"><![CDATA[英特尔发布酷睿第 14 代桌面处理器，高通将与 Google 合作开发基于 RISC-V 的可穿戴平台等。查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Trump Gag Order Is Judicial Overkill]]></title>
+        <id>https://www.nationalreview.com/?p=1553816</id>
+        <link href="https://www.nationalreview.com/2023/10/the-trump-gag-order-is-judicial-overkill/"/>
+        <updated>2023-10-17T21:12:06.000Z</updated>
+        <summary type="html"><![CDATA[Judge Chutkan’s limited gag order should be invalidated on appeal.]]></summary>
+        <author>
+            <name>Andrew C. McCarthy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Poland’s Abnormal Elections, and Ours]]></title>
+        <id>https://www.nationalreview.com/?p=1553818</id>
+        <link href="https://www.nationalreview.com/2023/10/polands-abnormal-elections-and-ours/"/>
+        <updated>2023-10-17T21:00:51.000Z</updated>
+        <summary type="html"><![CDATA[Parties warning about threats to ‘democracy’ treat the opposition as criminal or treasonous and try to prevent them from ever taking power again.]]></summary>
+        <author>
+            <name>Michael Brendan Dougherty</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Princeton University Palestinian Group Scheduled Pro-Hamas ‘Teach-In’ for Same Time as Vigil for Slain Israelis]]></title>
+        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1553774</id>
+        <link href="https://www.nationalreview.com/news/princeton-university-palestinian-group-scheduled-pro-hamas-teach-in-for-same-time-as-vigil-for-slain-israelis/"/>
+        <updated>2023-10-17T20:18:17.000Z</updated>
+        <summary type="html"><![CDATA[A recording of speeches given at an SJP event the next day, obtained by NR, includes calls for Israel to be wiped out and praise for Hamas terrorists.]]></summary>
+        <author>
+            <name>Zach Kessel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Misfired Palestinian Islamic Jihad Rocket Responsible for Hospital Explosion, IDF Says]]></title>
+        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1553785</id>
+        <link href="https://www.nationalreview.com/news/misfired-palestinian-islamic-jihad-rocket-responsible-for-hospital-explosion-idf-says/"/>
+        <updated>2023-10-17T19:59:59.000Z</updated>
+        <summary type="html"><![CDATA[The Palestinian Ministry of Health previously claimed that an Israeli air strike was responsible for the hospital explosion.]]></summary>
+        <author>
+            <name>Ari Blaff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can Iran Be Deterred?]]></title>
+        <id>https://www.nationalreview.com/?p=1553759</id>
+        <link href="https://www.nationalreview.com/2023/10/can-iran-be-deterred/"/>
+        <updated>2023-10-17T19:43:16.000Z</updated>
+        <summary type="html"><![CDATA[Yes, but it won’t be a pain-free exercise.]]></summary>
+        <author>
+            <name>Noah Rothman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NPR Does Damage Control after Guest with History of Whitewashing Terror Claims Israel ‘Fabricated’ Civilian Deaths]]></title>
+        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1553731</id>
+        <link href="https://www.nationalreview.com/news/npr-does-damage-control-after-guest-with-history-of-whitewashing-terror-claims-israel-fabricated-civilian-deaths/"/>
+        <updated>2023-10-17T18:46:24.000Z</updated>
+        <summary type="html"><![CDATA[Northwestern professor Khaled Al-Hroub has a long history of glorifying terrorism, whitewashing Hamas, and promoting violence.]]></summary>
+        <author>
+            <name>Ryan Mills</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jim Jordan Fails to Secure Speaker’s Gavel in First Round of Voting]]></title>
+        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1553631</id>
+        <link href="https://www.nationalreview.com/news/jim-jordan-fails-to-secure-speakers-gavel-in-first-round-of-voting/"/>
+        <updated>2023-10-17T17:38:07.000Z</updated>
+        <summary type="html"><![CDATA[Jordan can only afford to lose a handful of Republican votes if he hopes to win the speakership.]]></summary>
+        <author>
+            <name>David Zimmermann and Audrey Fahlberg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yale’s Case Study in Free-Speech Hypocrisy]]></title>
+        <id>https://www.nationalreview.com/?p=1553679</id>
+        <link href="https://www.nationalreview.com/2023/10/yales-case-study-in-free-speech-hypocrisy/"/>
+        <updated>2023-10-17T17:21:38.000Z</updated>
+        <summary type="html"><![CDATA[The university and a professor invoke freedom of speech to protect anti-Israel comments, while throwing that principle under the bus when it’s inconvenient.]]></summary>
+        <author>
+            <name>Lauren Noble</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rebuild America’s Defense-Industrial Base — Now!]]></title>
         <id>https://www.nationalreview.com/?p=1553604</id>
@@ -10358,290 +10502,6 @@ Mr. Xi was not opposed to risky spying operations against the United States, but
         <summary type="html"><![CDATA[‘It became very clear after I started that this was exploitative and other faculty experienced the same and worse,’ a former staffer said of Kendi’s center.]]></summary>
         <author>
             <name>David Zimmermann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[White House Calls for Media to Scrutinize Republicans, Media Oblige]]></title>
-        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1542253</id>
-        <link href="https://www.nationalreview.com/news/white-house-calls-for-media-to-scrutinize-republicans-media-oblige/"/>
-        <updated>2023-09-18T19:19:16.000Z</updated>
-        <summary type="html"><![CDATA[A 2,300-word CNN ‘fact check’ failed to find any factual falsehoods with what House Speaker Kevin McCarthy said about launching the Biden impeachment inquiry.]]></summary>
-        <author>
-            <name>Brittany Bernstein</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Biden’s Reelection Gambles Backfired]]></title>
-        <id>https://www.nationalreview.com/?p=1542200</id>
-        <link href="https://www.nationalreview.com/2023/09/bidens-reelection-gambles-backfired/"/>
-        <updated>2023-09-18T17:16:42.000Z</updated>
-        <summary type="html"><![CDATA[The most convincing case against Biden’s presidency is the one Democrats themselves have made for it.]]></summary>
-        <author>
-            <name>Noah Rothman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Five Americans Freed in Iran Prisoner Swap; Republicans Allege Biden Paid $6 Billion Ransom]]></title>
-        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1542139</id>
-        <link href="https://www.nationalreview.com/news/five-americans-freed-in-iran-prisoner-swap-republicans-allege-biden-paid-6-billion-ransom/"/>
-        <updated>2023-09-18T16:09:13.000Z</updated>
-        <summary type="html"><![CDATA[‘This was a craven act of appeasement and total failure of leadership from the Biden administration,’ Arkansas senator Tom Cotton said of the deal.]]></summary>
-        <author>
-            <name>David Zimmermann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trump Attacks One of the Most Important Pro-Life Laws in the Country]]></title>
-        <id>https://www.nationalreview.com/?p=1542115</id>
-        <link href="https://www.nationalreview.com/2023/09/trump-attacks-one-of-the-most-important-pro-life-laws-in-the-country/"/>
-        <updated>2023-09-18T14:01:39.000Z</updated>
-        <summary type="html"><![CDATA[The former president’s attacks on Florida’s six-week abortion limit could have deadly consequences.]]></summary>
-        <author>
-            <name>John McCormack</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hunter Biden Sues IRS for Releasing His Tax Records After Whistleblower Testimony]]></title>
-        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1542076</id>
-        <link href="https://www.nationalreview.com/news/hunter-biden-sues-irs-for-releasing-his-tax-records-after-whistleblower-testimony/"/>
-        <updated>2023-09-18T13:28:58.000Z</updated>
-        <summary type="html"><![CDATA[The president’s son alleges the IRS unlawfully disclosed his tax return information and failed to protect his private records.]]></summary>
-        <author>
-            <name>David Zimmermann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Border Patrol Separated Immigrant Families This Summer, a Practice Biden Once Called ‘Abhorrent’]]></title>
-        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1542048</id>
-        <link href="https://www.nationalreview.com/news/border-patrol-separated-immigrant-families-this-summer-a-practice-biden-once-called-abhorrent/"/>
-        <updated>2023-09-18T13:20:36.000Z</updated>
-        <summary type="html"><![CDATA[Dr. Paul Wise said that Border Patrol agents moved children into pods with other minors for up to four days if the pods with their families were too crowded.]]></summary>
-        <author>
-            <name>David Zimmermann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Are You Doing to Help Christians in Iraq?]]></title>
-        <id>https://www.nationalreview.com/?p=1541921</id>
-        <link href="https://www.nationalreview.com/2023/09/what-are-you-doing-to-help-christians-in-iraq/"/>
-        <updated>2023-09-18T10:30:58.000Z</updated>
-        <summary type="html"><![CDATA[It’s not a geopolitical or foreign-policy issue. And it’s a responsibility.]]></summary>
-        <author>
-            <name>Kathryn Jean Lopez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[California EV Rules ‘Totally Impractical,’ Truckers Say; May as Well ‘Build a Spaceship and Go to Mars’]]></title>
-        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1540107</id>
-        <link href="https://www.nationalreview.com/news/california-ev-rules-totally-impractical-truckers-say-may-as-well-build-a-spaceship-and-go-to-mars/"/>
-        <updated>2023-09-18T10:30:58.000Z</updated>
-        <summary type="html"><![CDATA[New California regulations will force trucking companies big and small to add only electric trucks to their fleets starting in January.]]></summary>
-        <author>
-            <name>Ryan Mills</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The UAW Labor-Strike Debacle]]></title>
-        <id>https://www.nationalreview.com/?p=1541859</id>
-        <link href="https://www.nationalreview.com/2023/09/the-uaw-labor-strike-debacle/"/>
-        <updated>2023-09-18T10:30:55.000Z</updated>
-        <summary type="html"><![CDATA[The dangers of entangling government with industry and supercharging unions are now painfully apparent.]]></summary>
-        <author>
-            <name>The Editors</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Biden Lies]]></title>
-        <id>https://www.nationalreview.com/?p=1541981</id>
-        <link href="https://www.nationalreview.com/2023/09/why-biden-lies/"/>
-        <updated>2023-09-18T10:30:46.000Z</updated>
-        <summary type="html"><![CDATA[He’s a classic bullshitter.]]></summary>
-        <author>
-            <name>Rich Lowry</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UAW Is Singing the Blues Because of the Greens]]></title>
-        <id>https://www.nationalreview.com/?p=1541835</id>
-        <link href="https://www.nationalreview.com/2023/09/uaw-is-singing-the-blues-because-of-the-greens/"/>
-        <updated>2023-09-18T10:30:38.000Z</updated>
-        <summary type="html"><![CDATA[Electrification of vehicles is leading not only to shrinking worker incomes but to a fundamental fracturing of the Democratic Party coalition.]]></summary>
-        <author>
-            <name>Diana Furchtgott-Roth</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Struggle of Jimmy Lai]]></title>
-        <id>https://www.nationalreview.com/?p=1541723</id>
-        <link href="https://www.nationalreview.com/2023/09/the-struggle-of-jimmy-lai/"/>
-        <updated>2023-09-18T10:30:22.000Z</updated>
-        <summary type="html"><![CDATA[He is a legendary businessman. A champion of liberal democracy. And a political prisoner in Hong Kong. His story is heroic.]]></summary>
-        <author>
-            <name>Jay Nordlinger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hold Failed Bankers Accountable without Empowering Regulators]]></title>
-        <id>https://www.nationalreview.com/?p=1541537</id>
-        <link href="https://www.nationalreview.com/2023/09/hold-failed-bankers-accountable-without-empowering-regulators/"/>
-        <updated>2023-09-18T10:30:16.000Z</updated>
-        <summary type="html"><![CDATA[The RECOUP Act would provide regulators with broad powers that could distort the allocation of capital and weaken financial stability.]]></summary>
-        <author>
-            <name>Dan Katz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[澳门举办国际烟花节]]></title>
-        <id>https://m.idai.ly/se/638018</id>
-        <link href="https://m.idai.ly/se/638018"/>
-        <updated>2023-09-18T09:59:00.000Z</updated>
-        <summary type="html"><![CDATA[中国澳门特别行政区举办第31届国际烟花节。9月16日，澳门旅游局时隔3年恢复举办国际烟花节，本年度邀请来自中国、瑞士、日本、俄罗斯、葡萄牙等10个国家的烟火队参加表演。澳门特区统计局公布数据显示2023年第二季度 GDP 同比增长117.5%，创两年来单季最高增速，主要受旅游及博彩业复苏推动；2023年上半年 GDP 达1585.6亿澳门元（约合197亿美元），同比增长71.5%，整体经济总量恢复至疫情前71%水平。摄影师：iDaily Media]]></summary>
-        <author>
-            <name>iDaily 每日环球视野</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派评 | 近期值得关注的 App]]></title>
-        <id>https://sspai.com/post/83027</id>
-        <link href="https://sspai.com/post/83027"/>
-        <updated>2023-09-18T09:43:57.000Z</updated>
-        <summary type="html"><![CDATA[欢迎收看本期《派评》。你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的App或者关注的话题，也欢迎在评论区和我们进行讨论。值得关注的新App虽然少数派一直在为大家发现和介绍各平台上的 ...查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[越南总理访问中国]]></title>
-        <id>https://m.idai.ly/se/5d5jBT</id>
-        <link href="https://m.idai.ly/se/5d5jBT"/>
-        <updated>2023-09-18T08:57:00.000Z</updated>
-        <summary type="html"><![CDATA[中国国务院总理李强与越南总理范明政举行会晤，广西南宁。9月16日，越南总理范明政率团访华出席第20届中国-东盟博览会和中国-东盟商务与投资峰会，范明政强调越中全面战略合作伙伴关系是越南最早建立、最高水平、最受重视的对外关系，不断深化两国关系始终是越南对外关系的头等优先和战略选择，越方恪守一个中国原则，愿继续同中国加强合作，持续推动中国与东盟自贸区3.0版谈判，力争使东盟成为中国第一个进出口贸易额超过1万亿美元的贸易伙伴。摄影师：Liu Bin]]></summary>
-        <author>
-            <name>iDaily 每日环球视野</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[欧盟主席访问意大利]]></title>
-        <id>https://m.idai.ly/se/084YMt</id>
-        <link href="https://m.idai.ly/se/084YMt"/>
-        <updated>2023-09-18T07:55:00.000Z</updated>
-        <summary type="html"><![CDATA[意大利总理 Giorgia Meloni 与欧盟委员会主席 Ursula von der Leyen 出席新闻发布会，兰佩杜萨岛。9月17日，欧盟主席与意大利总理在兰佩杜萨岛讨论大规模非法移民问题。兰佩杜萨岛是意大利最南端的岛屿，2023年迄今已有12.6万难民跨海抵达该岛，相当于2022年同期的2倍。欧盟主席呼吁欧盟各国接收更多难民，意大利总理则强调阻止偷渡船抵达欧洲大陆是解决问题的唯一途径。摄影师：iDaily Media]]></summary>
-        <author>
-            <name>iDaily 每日环球视野</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大黄鸭妈妈亮相多伦多]]></title>
-        <id>https://m.idai.ly/se/c44k35</id>
-        <link href="https://m.idai.ly/se/c44k35"/>
-        <updated>2023-09-18T07:53:00.000Z</updated>
-        <summary type="html"><![CDATA[全球最大的橡皮鸭「大黄鸭妈妈」（Mama Duck）在多伦多湖滨节亮相，加拿大。9月16日，荷兰艺术家 Florentijn Hofman 装置作品「大黄鸭」时隔6年再次访问多伦多，这只巨型橡皮鸭高约20米、重达13.6吨。湖滨节是多伦多市最重要的夏季庆祝活动之一，旨在庆祝多伦多湖滨区的文化多样性和社区精神，现场举办音乐、美食、展览、水上娱乐等活动。加拿大2023年第二季度 GDP 按年率下滑-0.2%，主要受房地产投资下降、出口额和家庭消费增长减缓的影响。摄影师：iDaily Media]]></summary>
-        <author>
-            <name>iDaily 每日环球视野</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[金正恩迄今最长外访]]></title>
-        <id>https://m.idai.ly/se/39aIB2</id>
-        <link href="https://m.idai.ly/se/39aIB2"/>
-        <updated>2023-09-18T07:51:00.000Z</updated>
-        <summary type="html"><![CDATA[朝鲜最高领导人金正恩向俄方送行人员挥手告别，海参崴。9月17日，金正恩结束为期6天访俄之行启程返回朝鲜。这是金正恩执政以来最长的一次外访行程，期间分别与俄罗斯总统、俄国防部长举行会谈，并参访俄航天发射场、战斗机制造厂、水族馆、剧院、大学等地点。朝中社表示此次访问将进一步巩固基于同志友谊和战斗团结的朝俄睦邻友好关系，为开启两国关系的新篇章创造契机。摄影师：Government of Primorsky Krai]]></summary>
-        <author>
-            <name>iDaily 每日环球视野</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[尼日尔反对法国驻军]]></title>
-        <id>https://m.idai.ly/se/0ca5ST</id>
-        <link href="https://m.idai.ly/se/0ca5ST"/>
-        <updated>2023-09-18T07:49:00.000Z</updated>
-        <summary type="html"><![CDATA[尼日尔民众在反对法国军事基地的集会中挥舞尼日尔国旗、中国国旗和瓦格纳组织旗帜，尼亚美。9月17日，数千名尼日尔民众在法国驻尼空军基地前举行集会活动，要求1500名法国驻军士兵无条件撤离尼日尔。尼日尔军方发言人指控法国持续向该地区周边部署军队并准备实施入侵。前法国殖民地马里、尼日尔和布基纳法索3个国家的军事领导人已于9月16日正式签署共同防御协议，承诺彼此提供军事支援以抵御外部侵略。摄影师：iDaily Media]]></summary>
-        <author>
-            <name>iDaily 每日环球视野</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[以色列放生红海龟]]></title>
-        <id>https://m.idai.ly/se/e5bZGW</id>
-        <link href="https://m.idai.ly/se/e5bZGW"/>
-        <updated>2023-09-18T07:47:00.000Z</updated>
-        <summary type="html"><![CDATA[一只治疗康复的红海龟（Loggerhead sea turtle）被放归大海，以色列哈博尼姆。9月17日，以色列国家海龟救援中心在地中海沿岸放生3只红海龟，吸引约2500人现场观看。这3只海龟中有2只因渔网缠绕而溺水，1只因船舶撞击导致头部骨折，经过治疗照顾后均已恢复健康。红海龟广泛分布于全球各大温带和热带海域，寿命可达70年，受人类渔具和栖息地破坏威胁已被列为易危物种。摄影师：Abir Sultan]]></summary>
-        <author>
-            <name>iDaily 每日环球视野</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iPhone 15 发布会上没有告诉你的那些事]]></title>
-        <id>https://sspai.com/post/82987</id>
-        <link href="https://sspai.com/post/82987"/>
-        <updated>2023-09-18T07:06:12.000Z</updated>
-        <summary type="html"><![CDATA[每年发布会 Apple 都会留下一些悬念，等待大家去发掘。iPhone 15 系列还没正式发货，我们整理了 Apple 发布会上没提到的事，一起看看有没有你感兴趣的。查看全文]]></summary>
-        <author>
-            <name>Vanilla</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国官员称中国国防部长李尚福正接受调查]]></title>
-        <id>https://cn.nytimes.com/china/20230918/xi-china-military-general-li-shangfu/dual</id>
-        <link href="https://cn.nytimes.com/china/20230918/xi-china-military-general-li-shangfu/dual"/>
-        <updated>2023-09-18T05:36:02.000Z</updated>
-        <summary type="html"><![CDATA[储百亮, JULIAN E. BARNES2023年9月18日今年6月，中国国防部长李尚福出席新加坡的安全论坛。 How Hwee Young/EPA, via Shutterstock
-China’s defense minister, Gen. Li Shangfu, has been placed under investigation, according to two U.S. officials, fueling speculation about further upheaval in the military after the abrupt removal of two top commanders in charge of the country’s nuclear force.
-据两名美国官员透露，中国国防部长李尚福上将正在接受调查，这引发了外界对军方动荡加剧的猜测，此前两名掌管中国核力量的最高指挥官突遭免职。
-General Li has not been seen in public in more than two weeks. He had been expected to take part in a meeting last week in Vietnam, but there was no word of his attendance. Asked by reporters on Friday about General Li’s whereabouts, Mao Ning, a spokeswoman for the Chinese Foreign Ministry, said she had no information.
-李尚福已有两个多星期未在公开场合露面。他原本应参加此前在越南举行的会议，但没有关于他出席的消息。中国外交部发言人…]]></summary>
-        <author>
-            <name>纽约时报双语版</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[另一场贸易战：进口化妆品在中国遇挫]]></title>
-        <id>https://cn.nytimes.com/business/20230918/china-cosmetic-imports/dual</id>
-        <link href="https://cn.nytimes.com/business/20230918/china-cosmetic-imports/dual"/>
-        <updated>2023-09-18T05:06:03.000Z</updated>
-        <summary type="html"><![CDATA[KEITH BRADSHER, ELIZABETH PATON2023年9月18日北京的购物者。尽管中国经济放缓，但消费者仍在购买美容产品。 Tingshu Wang/Reuters
-In the gloom of China’s economy, one area of business is booming: cosmetics.
-在中国经济低迷之际，化妆品行业却在蓬勃发展。
-After enduring nearly three years of mandatory masks and frequent lockdowns during the pandemic, many Chinese consumers, wary of big-ticket purchases like apartments, are now splurging on lipstick, perfume, moisturizers and other personal care products.
-经历了近三年的强制口罩令和疫情期间频繁的封锁之后，许多中国消费者对房子等大宗商品的购买持谨慎态度，眼下却在口红、香水、保湿霜等个人护理产品上大肆挥霍。
-But cosmetics companies from France, Japan, South Korea and the United States, which have invested heavily in China, are missing out on a lot of the action.
-但是，在中国大举投资的法国、日本、韩国和美国的化妆品公司却错过了很多机会。
-As China’s cosmetics companies are booming, imports of cosmetics are wilting under …]]></summary>
-        <author>
-            <name>纽约时报双语版</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[陆灏｜回忆乔佖先生]]></title>
-        <id>https://www.thepaper.cn/newsDetail_forward_24645128</id>
-        <link href="https://www.thepaper.cn/newsDetail_forward_24645128"/>
-        <updated>2023-09-18T05:02:13.000Z</updated>
-        <summary type="html"><![CDATA[一
-近年常常想起乔佖先生。
-三十多年没见乔先生了。直到去年才辗转打听到先生已于2014年12月去世了。
-认识乔先生，自然因为他是钱锺书先生在清华大学正式指导过的两位研究生之一。1986年夏天，忘了是谁告诉我，上海师大外文系教授乔佖曾是钱锺书先生的研究生。那时我已对钱先生很感兴趣了，当即联系了去采访乔先生。采访稿“钱锺书的风格”刊登在1986年9月27日的《文汇读书周报》上。此后几年里，与乔先生交往颇多，也常通信。
-
-1986年9月27日的《文汇读书周报》上刊登的采访稿“钱锺书的风格”
-
-前两年偶然翻出几封乔先生的信，又去重新了解他。
-乔佖先生是山西祁县人，乔家大院的后人（那时还没听说过乔家大院，这也是近年才知道的）。1922年生，1949年毕业于燕京大学西语系，1952年清华大学外文系研究生毕业；1957年起任教北京大学西语系，1980年以后在上海师范大学任教。没有专著，甚至没读到过他的文章，也没有整本的译著，参与翻译过英国作家弗·福塞斯的长篇小说《豺狼的日子》，以及《狄更斯评论集》中燕卜荪等几篇论文。
-据他晚年时与他有来往的北大或上师大的老师回忆，乔先生从来不提自己是钱先生的学生，所以他们都不知道。为此，我还请清华大学的好友刘石教授查到了乔先生研究生毕业的成绩学分记载表。现照录如下：
-学号姓名：38研7，乔佖。
-籍贯：山西省祁县。入学年龄：26。
-毕业初试：
-成绩：87%。
-举行日期：一九五一年十月十日。
-应考课程：
-1. English Romanticism in the Age of Byron, Shelley and Keats；
-2. John Keats。
-考试委员：吴达元。温德、赵绍（应为诏）熊、罗念生、钱锺书、李赋宁、浦江清、卞之琳、周珏良。
-论文考试：
-导师：钱锺书。
-成绩：82%。
-举行日期：一九五二年八月十八日。
-论文题目：A Critique o…]]></summary>
-        <author>
-            <name>上海书评</name>
         </author>
     </entry>
 </feed>
