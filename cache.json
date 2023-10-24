@@ -44,16 +44,6 @@
           "wordCount": 6538,
           "title": "R Weekly 2023-W40 zoomerjoin, typewriter-style plots, system dependencies",
           "imageUrl": "https://rweekly.org/public/facebook.png"
-        },
-        {
-          "id": "https://rweekly.org/2023-W39.html",
-          "author": null,
-          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Batool Almarzouq, with help from the R Weekly team members and contributors.\nHighlight\nReflections on posit conf(2023)\nReproducible data science with Nix, part 6 – CI/CD has never been easier\nSnap Slides: a Lightweight HTML Presentation Framework\nParallel raster processing in stars\nInsights\nBenchmark of R file formats using rio and friends\nCloud-Native Geospatial If You Don’t Speak Snake\n\nMountains\nFast remote parquet\nRow Means in R: Calculating Row Averages with Ease\nRcppInt64 0.0.3 on CRAN: Now with nanotime Support\nReflections on posit conf(2023)\nLive from Chicago: Real World Data Science at posit::conf(2023)\n\nR in the Real World\nConfidence Intervals in Election Polling: …",
-          "link": "https://rweekly.org/2023-W39.html",
-          "publishedOn": "2023-09-25T00:00:00.000Z",
-          "wordCount": 6138,
-          "title": "R Weekly 2023-W39 Posit Conf(2023), Nix, Snap Slides & Raster Processing",
-          "imageUrl": "https://rweekly.org/public/facebook.png"
         }
       ]
     },
@@ -451,16 +441,6 @@
           "wordCount": 847,
           "title": "王光林｜《孙子兵法》是战争之法还是战略之法",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_24721365",
-          "author": null,
-          "description": "《汉魏六朝文人身份的变迁与文学演进》，徐俪成著，上海人民出版社2023年2月出版，449页，128.00元\n\n在近世传统中，“士人善于写作”乃是妇孺皆知之事。在从宋到清的儿童启蒙读物《三字经》中即有“唐刘晏，方七岁。举神童，作正字”，是言刘晏幼时因上《东封书》而被授予正字之职，以此为童子楷模；《儒林外史》中身处闺阁之中的鲁小姐检验夫君是否为名士的方式是“请教一篇文字”。虽然涉及的文类不同，但均显示了写作能力是维系士人身份的重要因素。但这个观念并非自古有之，从汉魏虽“士有百行”仍“以德为首”，宋初范晔对甥侄言“常耻作文士”，到齐初宰相王俭则因庾杲之“学涉文义”目之为“我辈人”，萧梁王筠以家族“人人有集”为荣，可见主流观念中对于士人身份认知的巨大转变发生在汉魏六朝间。华东师范大学徐俪成老师的新作《汉魏六朝文人身份的变迁与文学演进》即是通过梳理这一时期文人身份的变迁来论述文学才能对于士人身份认同意义的变化，尤其注重对文人社会身份与政治角色的考量。在此基础上，也对文人身份变迁影响下汉魏六朝文学风格、文类、理论的演进有所分析，为讨论汉魏六朝文学的变迁提供了新的视角。\n从点缀到标志：“文”之于士人的意义\n本书写作的一条重要线索即是文学之于士人意义的变化。作者在绪论中就通过对比蔡邕和柳宗元对“以文取士”态度的不同来说明汉唐之间士人眼中的文章“从陶冶性情的消遣一跃而成为取得精英身份和政治地位的重要手段”（第2页）。而之后的内容则更为细致地梳理了不同时期文学在士人社会身份和政治角色的实现过程中所起的作用，大体可以分为三个阶段：第一阶段是汉魏时期，本书的第一章认为这一时期文人的写作活动大多是围绕着君主喜好、朝廷需要所展开的，因此虽然他们的身份在俳优、颂者、文吏、儒生之间变化升降，但其地位的获得终究还是要依靠君主、权贵的赏识，而君主、权贵是不必善于写作的，因此文学写作更多是作为工具与能力的展现，…",
-          "link": "https://www.thepaper.cn/newsDetail_forward_24721365",
-          "publishedOn": "2023-09-25T02:02:06.000Z",
-          "wordCount": 70,
-          "title": "李傲寒评《汉魏六朝文人身份的变迁与文学演进》｜“士人”何以成为“文人”",
-          "imageUrl": null
         }
       ]
     },
@@ -475,6 +455,116 @@
       "feedUrl": "https://www.nationalreview.com/feed/",
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1556373",
+          "author": "Ari Blaff",
+          "description": "Emmer succeeds Jim Jordan as the nominee.",
+          "link": "https://www.nationalreview.com/news/house-republicans-nominate-tom-emmer-for-speaker/",
+          "publishedOn": "2023-10-24T16:35:23.000Z",
+          "wordCount": 8664,
+          "title": "House Republicans Nominate Tom Emmer for Speaker",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/10/Emmer.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1556326",
+          "author": "David Zimmermann",
+          "description": "U.S. and Israeli officials and major media outlets have concluded the blast resulted from a misfired Palestinian rocket.",
+          "link": "https://www.nationalreview.com/news/tlaib-still-refuses-to-accept-palestinian-responsibility-for-hospital-blast-demands-international-investigation/",
+          "publishedOn": "2023-10-24T16:20:30.000Z",
+          "wordCount": 8673,
+          "title": "Tlaib Still Refuses to Accept Palestinian Responsibility for Hospital Blast, Demands ‘International Investigation’",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2019/09/rashida-tlaib-hearing-capitol-hill.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1555978",
+          "author": "Zach Kessel",
+          "description": "Haley determined that U.S. funding was being used to promote ‘hatred, violence, and terrorism,’ one of her former advisers told NR.",
+          "link": "https://www.nationalreview.com/news/inside-nikki-haleys-push-to-cut-funding-to-anti-israel-u-n-palestinian-refugee-agency/",
+          "publishedOn": "2023-10-24T14:49:05.000Z",
+          "wordCount": 9587,
+          "title": "Inside Nikki Haley’s Push to Cut Funding to Anti-Israel U.N. Palestinian Refugee Agency",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/10/nikki-haley-1.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1556337",
+          "author": "David Zimmermann",
+          "description": "Ellis admitted to one count of aiding and abetting false statements and writings in Georgia.",
+          "link": "https://www.nationalreview.com/news/former-trump-campaign-lawyer-jenna-ellis-pleads-guilty-in-georgia-election-interference-case/",
+          "publishedOn": "2023-10-24T14:30:24.000Z",
+          "wordCount": 8528,
+          "title": "Former Trump Campaign Lawyer Jenna Ellis Pleads Guilty in Georgia Election-Interference Case",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/10/jenna-ellis.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1556276",
+          "author": "David Zimmermann",
+          "description": "The former hostage also said the Israeli intelligence services’ ‘lack of awareness … hurt us a lot.’",
+          "link": "https://www.nationalreview.com/news/i-went-through-hell-freed-hamas-hostage-describes-horror-of-kidnapping/",
+          "publishedOn": "2023-10-24T13:52:38.000Z",
+          "wordCount": 8617,
+          "title": "‘I Went through Hell’: Freed Hamas Hostage Describes Horror of Kidnapping",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/10/Yocheved-Lifshitz.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1556285",
+          "author": "Abigail Anthony",
+          "description": "‘This government is acting to guarantee parents’ fundamental right to know what their children are being taught in sex and relationships education.’",
+          "link": "https://www.nationalreview.com/news/u-k-education-secretary-affirms-parents-have-the-right-to-review-sex-ed-material-given-to-students/",
+          "publishedOn": "2023-10-24T12:47:42.000Z",
+          "wordCount": 8347,
+          "title": "U.K. Education Secretary Affirms Parents Have the Right to Review Sex-Ed Material Given to Students",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/10/Gillian-Keegan.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1556238",
+          "author": "Rich Lowry",
+          "description": "Both parties have played a role in pushing us toward a fiscal crisis.",
+          "link": "https://www.nationalreview.com/2023/10/a-deficit-of-good-sense/",
+          "publishedOn": "2023-10-24T10:30:42.000Z",
+          "wordCount": 8745,
+          "title": "A Deficit of Good Sense",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/10/president-joe-biden.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1556093",
+          "author": "Douglas J. Feith",
+          "description": "If people around the world grasped that Hamas ensures as many of its own civilians as possible will die, they would see the conflict in a different light.",
+          "link": "https://www.nationalreview.com/2023/10/hamass-strategy-depends-on-maximizing-palestinian-civilian-casualties/",
+          "publishedOn": "2023-10-24T10:30:41.000Z",
+          "wordCount": 9278,
+          "title": "Hamas’s Strategy Depends on Maximizing Palestinian Civilian Casualties",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/10/hospital-gaza.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1556172",
+          "author": "The Editors",
+          "description": "Even as interest rates soar and the real deficit hits $2 trillion, Washington isn’t addressing the fiscal mess.",
+          "link": "https://www.nationalreview.com/2023/10/markets-are-sounding-the-alarm-on-deficits/",
+          "publishedOn": "2023-10-24T10:30:36.000Z",
+          "wordCount": 8628,
+          "title": "Markets Are Sounding the Alarm on Deficits",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/10/nyse-trader.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1554686",
+          "author": "Ryan Mills",
+          "description": "A diverse coalition has filed more than two dozen briefs urging the Court to overturn a ruling that has driven a surge in homeless camping.",
+          "link": "https://www.nationalreview.com/news/progressive-pols-unite-with-cops-conservatives-to-urge-supreme-court-to-allow-homeless-camping-crackdown/",
+          "publishedOn": "2023-10-24T10:30:23.000Z",
+          "wordCount": 9951,
+          "title": "Progressive Pols Unite with Cops, Conservatives to Urge Supreme Court to Allow Homeless-Camping Crackdown",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/10/homeless-encampment-san-diego.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1556166",
+          "author": "Haley Strack",
+          "description": "The organization is quiet as Hamas murders and abducts women and children en masse.",
+          "link": "https://www.nationalreview.com/2023/10/why-isnt-un-women-standing-up-for-women/",
+          "publishedOn": "2023-10-24T10:30:03.000Z",
+          "wordCount": 8994,
+          "title": "Why Isn’t UN Women Standing Up for Women?",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/10/hamas-militants.jpg?fit=1200%2C700&ssl=1"
+        },
         {
           "id": "https://www.nationalreview.com/?post_type=blog-post&p=1556150",
           "author": "David Zimmermann",
@@ -5684,16 +5774,6 @@
           "wordCount": 9421,
           "title": "The Government and the Private Sector Must Start Recognizing the China Threat",
           "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2021/10/B-1B-lancer-42.jpg?fit=1200%2C700&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1544096",
-          "author": "John Fund",
-          "description": "Sacramento has a responsibility to keep its streets safe and clean, Thien Ho argues.",
-          "link": "https://www.nationalreview.com/2023/09/california-da-sues-his-own-city-for-ignoring-the-homeless-crisis/",
-          "publishedOn": "2023-09-24T21:57:21.000Z",
-          "wordCount": 9164,
-          "title": "California DA Sues His Own City for Ignoring the Homeless Crisis",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/09/thien-ho.jpg?fit=1200%2C700&ssl=1"
         }
       ]
     },
@@ -5702,6 +5782,26 @@
       "feedUrl": "https://sspai.com/feed",
       "siteUrl": "https://sspai.com",
       "articles": [
+        {
+          "id": "https://sspai.com/post/83832",
+          "author": "Matrix机器人",
+          "description": "塞入完整版新玩意，一次看个够。查看全文",
+          "link": "https://sspai.com/post/83832",
+          "publishedOn": "2023-10-24T09:04:46.000Z",
+          "wordCount": 1150,
+          "title": "社区速递 017 | 性价比SSD、宠物用品分享以及作者的新玩意",
+          "imageUrl": "https://cdn.sspai.com/2023/10/24/article/7e30dd50-5fe7-dbe7-7d80-490c4de3a8c0.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/83467",
+          "author": "Lars漫步",
+          "description": "人无法欺骗自己，面对读完一本书后空空的头脑，只会引发更多的焦虑，于是机械重复地再去速读另一本书，毫无意义。查看全文",
+          "link": "https://sspai.com/post/83467",
+          "publishedOn": "2023-10-24T07:30:00.000Z",
+          "wordCount": 726,
+          "title": "从阅读到输出，我是如何用数字工具完成这一切的",
+          "imageUrl": "https://cdn.sspai.com/2023/10/10/f1e231f491292fa60bf2defcaa4e86a2.png"
+        },
         {
           "id": "https://sspai.com/post/83786",
           "author": "张奕源Nick",
@@ -6621,26 +6721,6 @@
           "wordCount": 742,
           "title": "窗口内容钉选、跨设备使用鼠标：新版 PowerToys 这些功能值得一试",
           "imageUrl": "https://cdn.sspai.com/2023/9/25/article/ecc1bfc4-ad19-c884-bb7f-d25846541811.png"
-        },
-        {
-          "id": "https://sspai.com/post/83199",
-          "author": "拐子狼",
-          "description": "在考量了有限的时间、精力以及预算经费的情况下，我们应该如何兼顾旅行中的体验与性价比。查看全文",
-          "link": "https://sspai.com/post/83199",
-          "publishedOn": "2023-09-25T03:30:06.000Z",
-          "wordCount": 732,
-          "title": "出行锦囊 | 找到假期应有的惬意：聊聊攻略规划与星级酒店",
-          "imageUrl": "https://cdn.sspai.com/9/25/2023/article/d5e00cea-2d9a-f6cf-1204-078081b53daf.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/83189",
-          "author": "少数派编辑部",
-          "description": "你可能错过的新鲜事Unity致歉并修订争议收费政策9月22日，Unity通过官方博客发布致歉信，宣布对之前备受争议的收费政策做出重大修订。根据Unity在9月12日宣布的政策，从2024年1月起，对于 ...查看全文",
-          "link": "https://sspai.com/post/83189",
-          "publishedOn": "2023-09-25T00:56:01.000Z",
-          "wordCount": 853,
-          "title": "派早报：Unity 修订争议收费政策，全球智能手机品牌减少三分之二",
-          "imageUrl": "https://cdn.sspai.com/9/24/2023/article/f6921cf5-a1f7-8d11-2f9c-7c9b43be5837.png"
         }
       ]
     },
@@ -6649,6 +6729,66 @@
       "feedUrl": "https://plink.anyfeeder.com/idaily/today",
       "siteUrl": "https://docs.rsshub.app",
       "articles": [
+        {
+          "id": "https://m.idai.ly/se/f47a71",
+          "author": null,
+          "description": "远眺喷发中的樱岛火山，喷涌的火山灰引发「火山雷」（Volcanic lightning）现象，日本鹿儿岛县。「火山雷」是指火山灰颗粒碰撞产生静电而引发的雷暴现象。10月24日凌晨3点46分，樱岛火山发生2023年3月迄今最剧烈的一次喷发，火山灰形成高约3400米烟柱，碎石喷射最远距离达到1.3公里。日本气象厅宣布维持樱岛火山第3级「入山管制」，禁止民众进入火山口周围2公里区域。摄影师：iDaily Media",
+          "link": "https://m.idai.ly/se/f47a71",
+          "publishedOn": "2023-10-24T10:59:00.000Z",
+          "wordCount": 1223,
+          "title": "日本樱岛火山剧烈喷发",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.idai.ly/se/6c5mQ5",
+          "author": null,
+          "description": "中国香港特区政府举行纪念仪式悼念抗日英烈。10月23日是农历九月初九「重阳节」，香港特区政府在香港大会堂举行仪式悼念1941年至1945年香港沦陷期间为保卫香港而捐躯人士，现场奏国歌、献花并默哀2分钟，香港特区行政长官李家超出席仪式并敬献花圈。1941年12月8日至1945年8月15日，日军占领香港长达3年零8个月，日占期间香港人口从160万减少至不到60万。摄影师：Hou Yu",
+          "link": "https://m.idai.ly/se/6c5mQ5",
+          "publishedOn": "2023-10-24T09:58:00.000Z",
+          "wordCount": 1223,
+          "title": "香港纪念抗日先烈",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.idai.ly/se/10cvzs",
+          "author": null,
+          "description": "日本外务大臣上川阳子出席「纪念中日和平友好条约缔结45周年招待会」，东京。10月23日，中国驻日本大使吴江浩在致辞中表示，中日和平友好条约以法律的形式明确了中日和平共处、世代友好的大方向，规定了互不干涉内政、使用和平手段解决一切争端、反对任何国家谋求霸权等责任义务，成为双方处理中日关系的共同遵循，中方期待双方恪守条约精神，切实重信守诺，严格履行条约等中日四个政治文件确立的原则和义务，以两国领导人重要共识为指引，共同构建契合新时代要求的中日关系。当天中国国务院总理李强与日本首相岸田文雄就中日和平友好条约缔结45周年互致贺电。摄影师：Kazuhiro Nogi",
+          "link": "https://m.idai.ly/se/10cvzs",
+          "publishedOn": "2023-10-24T08:57:00.000Z",
+          "wordCount": 1223,
+          "title": "中日友好条约45周年",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.idai.ly/se/eba60m",
+          "author": null,
+          "description": "越南第15届国会第6次会议正式开幕，河内。10月23日，越南总理范明政在国会会议开幕式上发表2023年经济社会发展计划执行情况工作报告，强调政府将优先促进投资、消费和出口等各增长动力，全力以赴确保 GDP 增长达到5%。越南2023年1至3季度 GDP 增长幅度为4.24%，大幅落后于年初设定的6.5%增长目标，主要受到出口订单减少、国内消费降低等负面因素影响。摄影师：Luong Thai Linh",
+          "link": "https://m.idai.ly/se/eba60m",
+          "publishedOn": "2023-10-24T08:55:00.000Z",
+          "wordCount": 1225,
+          "title": "越南 GDP 落后增长目标",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.idai.ly/se/72fxrH",
+          "author": null,
+          "description": "韩国总统尹锡悦与沙特阿拉伯王储 Mohammed bin Salman 见证两国签署设立战略伙伴关系委员会的谅解备忘录，利雅得。10月22日，韩国总统尹锡悦上任以来首次对沙特进行国事访问，双方签署涵盖能源、食品、医疗、旅游、美妆、基建、电动汽车制造等领域51项合作协议，总价值达到156亿美元。韩国宣布与沙特合作在沙特建设中东首家现代汽车工厂，计划2024年上半年动工，2026年上半年投入量产。沙特是韩国在中东地区的第一大贸易伙伴，2021年双边贸易额达276亿美元。摄影师：iDaily Media",
+          "link": "https://m.idai.ly/se/72fxrH",
+          "publishedOn": "2023-10-24T08:53:00.000Z",
+          "wordCount": 1223,
+          "title": "韩国总统访问沙特",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.idai.ly/se/48eW66",
+          "author": null,
+          "description": "墨西哥总统 Andres Manuel Lopez Obrador 迎接来访的委内瑞拉总统 Nicolas Maduro，帕伦克。10月22日，墨西哥、古巴、委内瑞拉、洪都拉斯等12个拉美国家领导人抵达帕伦克出席移民问题峰会。各方会后发表联合声明，反对单方面对他国采取强制遣返措施，呼吁移民目的地国拓宽合法、安全、有序的移民渠道并保障移民人权。2023年迄今已有170万拉美移民抵达美墨边境。摄影师：Miraflores Press Office",
+          "link": "https://m.idai.ly/se/48eW66",
+          "publishedOn": "2023-10-24T08:51:00.000Z",
+          "wordCount": 1223,
+          "title": "拉美12国移民问题峰会",
+          "imageUrl": null
+        },
         {
           "id": "https://m.idai.ly/se/2aeiW4",
           "author": null,
@@ -8717,6 +8857,16 @@
       "siteUrl": "http://nytimes.com",
       "articles": [
         {
+          "id": "https://cn.nytimes.com/world/20231024/israeli-hamas-middle-east-implications/dual",
+          "author": null,
+          "description": "STEVEN ERLANGER2023年10月24日周五在以色列泽埃林郊外，以色列特种部队士兵在一处模拟的巴勒斯坦村庄内训练。 Sergey Ponomarev for The New York Times\nThe sudden and unexpected terror attack by Hamas into Israel has been a crushing blow to a host of assumptions that have defined the Israeli-Palestinian conflict for years.\n哈马斯对以色列发动突如其来的恐怖袭击，给多年来界定巴以冲突的一系列假设造成了沉重打击。\nIsraelis compare the invasion and deaths of some 1,400 Israelis, most of them civilians, to the toll of Sept. 11, 2001, in the United States. And they compare the shocking surprise of the Hamas attack both to Sept. 11 and the Yom Kippur War of 1973, when Israeli forces were unprepared for an Arab attack led by Egypt and Syria that also exploded widely held assumptions.\n以色列人将这次入侵和大约1400名以色列人的死亡（其中大部分是平民）与2001年9月11日美国遭受的伤亡相提并论。他们将哈马斯的袭击与9·11事件和1973年的赎罪日战争相提并论，在那场战争中，以色列军队对埃及和叙…",
+          "link": "https://cn.nytimes.com/world/20231024/israeli-hamas-middle-east-implications/dual",
+          "publishedOn": "2023-10-24T08:36:01.000Z",
+          "wordCount": 1749,
+          "title": "哈马斯恐袭打破了多年来界定巴以冲突的一系列假设",
+          "imageUrl": "https://static01.nyt.com/images/2023/10/23/multimedia/23israel-paradigm-1-hfcm/23israel-paradigm-1-hfcm-articleLarge.jpg"
+        },
+        {
           "id": "https://cn.nytimes.com/opinion/20231024/us-china-music-connection/dual",
           "author": null,
           "description": "CARLA DIRLIKOV CANALES2023年10月24日 Hanna Barczyk\nThere is a phrase in China, “zhiyin” (知音), used to describe the person who knows you best. The first character means to “know” or “understand” and the second means “music.”\n中国有个说法叫“知音”，用来形容最了解你的人。“知”的意思是“知道”或“理解”，“音”的意思是“音乐”。\nIt is connected to the ancient story of Boya, a revered master of the guqin, a Chinese plucked string instrument. Boya longed to find someone who could truly appreciate his music. One day as he played, he was heard by a woodcutter named Ziqi. Moved, Ziqi likened his playing to the majesty of a mountain or the power of a river. When Ziqi died, Boya played his guqin one last time, then destroyed it because he had lost his zhiyin, the only one who could understand the music in him.\n这个词出自关于伯牙的古老传说，他是位广受尊崇的古琴大师，这是中国的一种弹拨乐器。伯牙…",
@@ -9335,36 +9485,6 @@
           "wordCount": 1233,
           "title": "失踪六年的知名维吾尔学者被判无期徒刑",
           "imageUrl": "https://static01.nyt.com/images/2023/09/24/multimedia/24uyghur-professor-01-vcgp/24uyghur-professor-01-vcgp-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/china/20230925/china-metoo-journalist-trial/dual",
-          "author": null,
-          "description": "艾莎, ZIXU WANG2023年9月25日2017 年，中国记者黄雪琴在新加坡。她已在中国被关押两年。 #FreeXueBing, via Associated Press\nAfter two years in detention, a Chinese journalist who spoke up against sexual harassment stood trial on subversion charges on Friday along with a labor rights activist, the latest example of Beijing’s intensified crackdown on civil society.\n被拘禁两年后，一名公开反对性骚扰的中国记者与一名劳工维权人士于周五一起以颠覆罪名受审，这是北京加强打压公民社会的最新例证。\nHuang Xueqin, an independent journalist who was once a prominent voice in China’s #MeToo movement, and her friend Wang Jianbing, the activist, were taken away by the police in September 2021 and later charged with inciting subversion of state power. Their trial was held at the Guangzhou Intermediate People’s Court in southern China.\n曾在中国的#MeToo（#我也是）运动中响亮发声的独立记者黄雪琴和她的朋友、活动人士王建兵于2021年9月被警方带走，后来被控煽动颠覆国家政权罪…",
-          "link": "https://cn.nytimes.com/china/20230925/china-metoo-journalist-trial/dual",
-          "publishedOn": "2023-09-25T04:36:04.000Z",
-          "wordCount": 1091,
-          "title": "独立记者黄雪琴、活动人士王建兵因“煽颠”受审",
-          "imageUrl": "https://static01.nyt.com/images/2023/09/22/multimedia/22china-metoo-01-gblc/22china-metoo-01-gblc-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/opinion/20230925/china-underground-historians/dual",
-          "author": null,
-          "description": "张彦2023年9月25日\nIn 1959, a group of university students in the northwestern Chinese city of Tianshui embarked on a quixotic plan. China was in the midst of the Great Famine, a catastrophe caused by government policies that would kill as many as 45 million. These young people had witnessed farmers starving to death and cannibalism; they also saw how the government had brutally punished or killed people who appealed for help. They felt someone needed to do something to spread word of what was happening. They decided to publish a journal.\n1959年，中国西北城市天水的一群大学生开始了一场螳臂当车的计划。当时中国正处于“大饥荒”时期，这场由政府政策引发的灾难导致了多达4500万人死亡。这些年轻人亲眼目睹了农民饿死和吃人的场面；也看到了政府如何残酷惩罚或杀害上访求救者。他们觉得有必要做点什么，把正在发生的事情传出去。于是，他们决定办一本杂志。\nThe students called it Spark, after a Chinese expression, “xinghuo liaoyuan,” or “a single spark can start …",
-          "link": "https://cn.nytimes.com/opinion/20230925/china-underground-historians/dual",
-          "publishedOn": "2023-09-25T03:36:03.000Z",
-          "wordCount": 4662,
-          "title": "星火不熄：“铁拳”也不能粉碎的中国地下史学家运动",
-          "imageUrl": "https://static01.nyt.com/images/2023/09/24/multimedia/21johnson-vhwp/21johnson-vhwp-videoLarge-v2.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/business/20230925/china-economy-trusts-zhongrong-zhongzhi/dual",
-          "author": null,
-          "description": "DAISUKE WAKABAYASHI, CLAIRE FU2023年9月25日中融国际信托公司设在北京的总部，中融信托2022年直接管理的信托资金接近6300亿元。 Florence Lo/Reuters\nAn accountant in northeast China deposited her life savings and received a letter guaranteeing her investment in a trust firm. Workers at a state-owned utility pooled money from friends and relatives believing that their investments were backed by the government. A man sank $140,000 into an account that he was told would make a 10.1 percent annual return.\n一名家住东北的会计师将毕生积蓄存进了一家信托投资公司，并收到了一封保证函。一家国有公用事业公司的工人以为他们的投资有政府保底，于是把来自亲朋好友的钱集中起来投给了这家公司。一名男子购买了100万元的投资产品，因为他被告知产品的年回报率是10.1%。\nThey are among the hundreds of thousands of Chinese investors confronting a distressing reality: Their investments with Zhongzhi Enterprise Group, a financial giant managing $140 billion in assets, and its trust b…",
-          "link": "https://cn.nytimes.com/business/20230925/china-economy-trusts-zhongrong-zhongzhi/dual",
-          "publishedOn": "2023-09-25T01:36:05.000Z",
-          "wordCount": 1497,
-          "title": "中国房地产危机拉响新警报：影子银行",
-          "imageUrl": "https://static01.nyt.com/images/2023/09/20/multimedia/00China-Shadow-Bank-01-lmkf/00China-Shadow-Bank-01-lmkf-articleLarge.jpg"
         }
       ]
     },
@@ -10041,36 +10161,6 @@
           "publishedOn": "2023-09-26T01:59:00.000Z",
           "wordCount": 309,
           "title": "“逻辑流”大师奎因：博尔赫斯眼中最好的推理小说家",
-          "imageUrl": null
-        },
-        {
-          "id": "57e36b1797318b870d79bba792718b6e",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E8%8F%8C%E5%AD%90%E9%85%8D%E7%81%AB%E8%85%BF%EF%BC%8C%E6%98%AF%E4%B8%9C%E8%A5%BF%E6%96%B9%E5%85%B1%E5%90%8C%E7%9A%84%E9%BB%98%E5%A5%91",
-          "publishedOn": "2023-09-25T02:36:00.000Z",
-          "wordCount": 335,
-          "title": "菌子配火腿，是东西方共同的默契",
-          "imageUrl": null
-        },
-        {
-          "id": "a78fc8dccc044872fdc5818c5d442b62",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+100%E5%B9%B4%E5%89%8D%E7%9A%84%E8%A5%BF%E7%8F%AD%E7%89%99%E6%B5%81%E6%84%9F%E5%A4%A7%E6%B5%81%E8%A1%8C%EF%BC%8C%E6%98%AF%E5%A6%82%E4%BD%95%E8%A2%AB%E4%BA%BA%E4%BB%AC%E9%81%97%E5%BF%98%E7%9A%84%EF%BC%9F",
-          "publishedOn": "2023-09-25T02:36:00.000Z",
-          "wordCount": 338,
-          "title": "100年前的西班牙流感大流行，是如何被人们遗忘的？",
-          "imageUrl": null
-        },
-        {
-          "id": "f58ab0ab5c8602d3037ef31a19016e80",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E8%90%A8%E4%B9%89%E5%BE%B7%E9%80%9D%E4%B8%9620%E5%91%A8%E5%B9%B4%EF%BC%9A%E7%A6%BB%E6%95%A3%E3%80%81%E6%B5%81%E6%B5%AA%E3%80%81%E7%9F%9B%E7%9B%BE%EF%BC%8C%E6%B0%B8%E8%BF%9C%E6%A0%BC%E6%A0%BC%E4%B8%8D%E5%85%A5",
-          "publishedOn": "2023-09-25T02:36:00.000Z",
-          "wordCount": 337,
-          "title": "萨义德逝世20周年：离散、流浪、矛盾，永远格格不入",
           "imageUrl": null
         }
       ]
