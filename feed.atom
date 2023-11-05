@@ -2,10 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mananchong.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-04T16:40:10.684Z</updated>
+    <updated>2023-11-05T07:38:34.235Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mananchong.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://mananchong.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[贝文、韦查德、郑达谈蒋彝与二十世纪早期旅英华人]]></title>
+        <id>https://www.thepaper.cn/newsDetail_forward_25182172</id>
+        <link href="https://www.thepaper.cn/newsDetail_forward_25182172"/>
+        <updated>2023-11-05T03:02:06.000Z</updated>
+        <summary type="html"><![CDATA[蒋彝（左上）、保罗·贝文（右上）、安妮·韦查德（左下）、郑达（右下），背景系蒋彝1937年所作《克拉莫克水岸松树》——章静绘
+
+华东师大陈子善教授曾说，二十世纪中国文学史上有三位作家的双语写作值得大书特书：林语堂、熊式一，以及经常被忽略的蒋彝。今年是中国诗人、散文家、画家、书法家、设计师蒋彝（1903-1977）诞辰一百二十周年。蒋彝出身书香门第，自幼从父亲习书画。青年时期进入东南大学学习化学，后投笔从戎，加入北伐。战后历任三地县长，因求变革得罪权势，痛心政治腐败之下，辞官赴英，在1930至1940年代客居伦敦。1950到1970年代，他在哥伦比亚大学、哈佛大学、香港中文大学等高校担任教授。蒋彝是二十世纪上半叶第一批用英语写作的中国作家，旅居英美期间，他以笔名“哑行者”出版了一系列隽永的旅行画记，畅销西方。1975年，他回到阔别数十年的祖国，两年后逝于北京，归葬家乡庐山脚下的马回岭公墓。
+文集《蒋彝和他的文友：旅英华人的文艺创作与社会交往（1930-1950）》将于近日由东方出版中心出版。该书考察了英国时期的蒋彝与朋友、同事的关系，评述了他这一阶段的创作。在十位学者的共同努力下，一段伦敦中国知识界的尘封往事浮出历史地表，由此我们看到了二战前几年伦敦移民生动的生活图景，以及中西文化在汉普斯特德（Hampstead）这个英国首都最具活力的艺术社区的精彩互动。
+受《上海书评》之邀，本书作者之一、美国圣十字学院历史系助理教授任可采访了本书的三位主编——任教于牛津大学的保罗·贝文（Paul Bevan）、任教于威斯敏斯特大学的安妮·韦查德（Anne Witchard）、萨福克大学英语系荣休教授郑达，请他们谈谈以蒋彝为代表的二十世纪早期旅英华人的创作和交往。
+
+《蒋彝和他的文友：旅英华人的艺术创作与社会交往（1930-1950）》，[英]保罗·贝文、[英]安妮·韦查德、[美]郑达主编，…]]></summary>
+        <author>
+            <name>上海书评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wind Power: Blowing Up]]></title>
+        <id>https://www.nationalreview.com/?p=1561652</id>
+        <link href="https://www.nationalreview.com/2023/11/wind-power-blowing-up/"/>
+        <updated>2023-11-04T20:24:37.000Z</updated>
+        <summary type="html"><![CDATA[The week of Monday, October 30: Wind power woes, AI, antitrust, tax, water, and much, much more.]]></summary>
+        <author>
+            <name>Andrew Stuttaford</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pentagon Suspends DOD Support for Congressional Travel to Israel amid Escalating War]]></title>
+        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1561604</id>
+        <link href="https://www.nationalreview.com/news/pentagon-suspends-dod-support-for-congressional-travel-to-israel-amid-escalating-war/"/>
+        <updated>2023-11-04T17:02:16.000Z</updated>
+        <summary type="html"><![CDATA[The Department of Defense generally supports overseas travel to foreign countries and conflict zones for members of Congress and its top officials.]]></summary>
+        <author>
+            <name>David Zimmermann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rashida Tlaib, State Department Official Accuse Biden of ‘Genocide’ for Israel Support]]></title>
+        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1561617</id>
+        <link href="https://www.nationalreview.com/news/rashida-tlaib-state-department-official-accuse-biden-of-genocide-for-israel-support/"/>
+        <updated>2023-11-04T16:55:32.000Z</updated>
+        <summary type="html"><![CDATA[Their comments are the latest instances of revolt against the Biden administration within the federal government.]]></summary>
+        <author>
+            <name>David Zimmermann</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[西班牙舞者螺旋星系]]></title>
         <id>https://m.idai.ly/se/d31fFf</id>
@@ -11111,234 +11157,6 @@ CRAN
         <summary type="html"><![CDATA[The more than 100 homeless people living around the Triangle regularly vandalize the bar and use its courtyard as a toilet.]]></summary>
         <author>
             <name>Ryan Mills</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Robert F. Kennedy Jr. to Speak at CPAC]]></title>
-        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1548984</id>
-        <link href="https://www.nationalreview.com/news/robert-f-kennedy-jr-to-speak-at-cpac/"/>
-        <updated>2023-10-06T18:57:43.000Z</updated>
-        <summary type="html"><![CDATA[Vivek Ramaswamy will also speak at the conference.]]></summary>
-        <author>
-            <name>David Zimmermann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[British Prime Minister Rishi Sunak: ‘A Man Is a Man and a Woman Is a Woman’]]></title>
-        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1548860</id>
-        <link href="https://www.nationalreview.com/news/british-prime-minister-rishi-sunak-a-man-is-a-man-and-a-woman-is-a-woman/"/>
-        <updated>2023-10-06T15:21:53.000Z</updated>
-        <summary type="html"><![CDATA[Sunak’s comments come after the NHS announced a proposal to reimplement sex-segregated spaces in British hospitals.]]></summary>
-        <author>
-            <name>Abigail Anthony</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fox News’ Bret Baier to Host House Speakership Debate: Report]]></title>
-        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1548864</id>
-        <link href="https://www.nationalreview.com/news/fox-news-bret-baier-to-host-house-speakership-debate-report/"/>
-        <updated>2023-10-06T15:14:16.000Z</updated>
-        <summary type="html"><![CDATA[Three congressmen are currently competing for the speakership after McCarthy’s historic ouster.]]></summary>
-        <author>
-            <name>Caroline Downey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[鲸鱼座棒旋星系]]></title>
-        <id>https://m.idai.ly/se/16dgQu</id>
-        <link href="https://m.idai.ly/se/16dgQu"/>
-        <updated>2023-10-06T12:59:00.000Z</updated>
-        <summary type="html"><![CDATA[NASA 公布一张哈勃望远镜拍摄的鲸鱼座「NGC 1087」星系照片。这是一个距离地球约8000万光年的棒旋星系，直径达到8.7万光年，拥有明亮的棒状恒星结构。照片中暗红色区域是尘埃带，亮粉色区域为新恒星诞生区，蓝色区域为星系较早期形成的恒星群。英国天文学家 William Herschel 在1785年首次观测发现「NGC 1087」，天文学家在1995年曾观测到该星系发生一次超新星爆炸事件。摄影师：NASA]]></summary>
-        <author>
-            <name>iDaily 每日环球视野</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Biden Administration to Begin Deporting Illegal Immigrants from Venezuela]]></title>
-        <id>https://www.nationalreview.com/?post_type=blog-post&amp;p=1548811</id>
-        <link href="https://www.nationalreview.com/news/biden-administration-to-begin-deporting-illegal-immigrants-from-venezuela/"/>
-        <updated>2023-10-06T12:32:54.000Z</updated>
-        <summary type="html"><![CDATA[The deportation order comes after the Biden administration expanded temporary legal status for many Venezuelans to work in the U.S.]]></summary>
-        <author>
-            <name>Caroline Downey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本富士山初雪]]></title>
-        <id>https://m.idai.ly/se/b8e7HH</id>
-        <link href="https://m.idai.ly/se/b8e7HH"/>
-        <updated>2023-10-06T11:57:00.000Z</updated>
-        <summary type="html"><![CDATA[日本富士山顶被初雪覆盖。10月5日，甲府市气象台宣布观测到2023年秋季富士山第一场降雪，本年度富士山初雪时间比历史平均记录推迟3天。富士山是日本境内最高的山峰，海拔高度为3776.63米。富士山顶从10月开始积雪，直至次年6月融化，每年登山季为7月至9月。日本官方统计数据显示2023年登山季约有22.1万人攀登富士山，已恢复至新冠疫情前94%水平。摄影师：iDaily Media]]></summary>
-        <author>
-            <name>iDaily 每日环球视野</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023年诺贝尔文学奖]]></title>
-        <id>https://m.idai.ly/se/b51usp</id>
-        <link href="https://m.idai.ly/se/b51usp"/>
-        <updated>2023-10-06T10:55:00.000Z</updated>
-        <summary type="html"><![CDATA[瑞典文学院常务秘书长宣布2023年诺贝尔文学奖获得者为挪威作家 Jon Olav Fosse，斯德哥尔摩。现年64岁的 Fosse 是挪威当代最著名的剧作家，迄今创作约40部戏剧，作品被翻译为50种语言在全球演出超过1000场，文学代表作为散文集《七宗论》（Septology）。诺贝尔文学奖评委会称赞 Fosse「以革新性的戏剧和散文为无法发声的人们发声」，他将获得总额为1100万瑞典克朗（约合100万美元）奖金。摄影师：Tom Little]]></summary>
-        <author>
-            <name>iDaily 每日环球视野</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄孟首批核燃料交付]]></title>
-        <id>https://m.idai.ly/se/27an88</id>
-        <link href="https://m.idai.ly/se/27an88"/>
-        <updated>2023-10-06T10:53:00.000Z</updated>
-        <summary type="html"><![CDATA[俄罗斯总统 Vladimir Putin 视频连线出席孟加拉国第一座核电站的核燃料交付仪式，索契。10月5日，俄罗斯正式向孟加拉国交付「鲁普尔」（Rooppur）核电站1号机组的首批核燃料。这是俄孟两国最大的联合建设项目，2017年开始动工建造，预计2024年投入运营，项目总投资达126.5亿美元，其中90%资金由俄方提供贷款。「鲁普尔」核电站共包括2座俄制 VVER-1200 型核反应堆，总装机容量达到2400兆瓦，预计可为1500万户家庭供电，满足孟加拉国约10%电力需求。摄影师：Mikhail Metzel]]></summary>
-        <author>
-            <name>iDaily 每日环球视野</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[马斯克获颁世界航天奖]]></title>
-        <id>https://m.idai.ly/se/e7b002</id>
-        <link href="https://m.idai.ly/se/e7b002"/>
-        <updated>2023-10-06T10:51:00.000Z</updated>
-        <summary type="html"><![CDATA[SpaceX 创始人 Elon Musk 以视频访谈形式出席第74届国际宇航大会，阿塞拜疆巴库。10月5日，国际宇航联合会（IAF）向 Elon Musk 颁发2023年度「世界航天奖」，以表彰其创立的 SpaceX 公司在运载火箭和载人航天领域取得的成就。Elon Musk 在访谈中表示 SpaceX 正在等待美国政府审批星舰超重型组合体的第2次试飞，预计星舰将在3至4年内做好准备执行首次无人火星任务。摄影师：Aziz Karimov]]></summary>
-        <author>
-            <name>iDaily 每日环球视野</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[阿富汗露天流动学校]]></title>
-        <id>https://m.idai.ly/se/3d8vZA</id>
-        <link href="https://m.idai.ly/se/3d8vZA"/>
-        <updated>2023-10-06T10:49:00.000Z</updated>
-        <summary type="html"><![CDATA[阿富汗儿童前往一所露天学校上课，喀布尔。这所露天学校由阿富汗活动家 Wazir Khan 开办，主要向阿富汗贫困地区的儿童提供免费教育，开设一年迄今已接受约1000名学生，教授课程包括古兰经、英语和公共演讲。联合国儿童基金会报告指出，阿富汗境内约有420万失学儿童，其中60%为女孩。阿富汗临时政府教育部数据显示该国至少有5000所中小学校缺少固定校舍，学生需要在露天环境或帐篷内上课。摄影师：Samiullah Popal]]></summary>
-        <author>
-            <name>iDaily 每日环球视野</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[强台风「小犬」侵袭台湾]]></title>
-        <id>https://m.idai.ly/se/bfeSOs</id>
-        <link href="https://m.idai.ly/se/bfeSOs"/>
-        <updated>2023-10-06T10:47:00.000Z</updated>
-        <summary type="html"><![CDATA[2023年第14号台风「小犬」逼近中国台湾省东南沿海。10月5日，强台风「小犬」在中国台湾省屏东县鹅銮鼻登陆，最大风速达每小时252公里，中心最大风力达15级。这是中国台湾省自1897年有记录以来风速最高的台风，迄今造成至少1人死亡、350人受伤，逾37万户家庭断电。目前该台风正在向广东东部沿海靠近，预计于8日减弱为热带风暴。摄影师：NASA]]></summary>
-        <author>
-            <name>iDaily 每日环球视野</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Yom Kippur War’s Lessons for Ukraine — and Biden]]></title>
-        <id>https://www.nationalreview.com/?p=1548668</id>
-        <link href="https://www.nationalreview.com/2023/10/the-yom-kippur-wars-lessons-for-ukraine-and-biden/"/>
-        <updated>2023-10-06T10:30:54.000Z</updated>
-        <summary type="html"><![CDATA[Fifty years ago today, Nixon didn’t hesitate to help a desperate Israel, bringing about a swift end to conflict. Would that Biden could do the same for Ukraine.]]></summary>
-        <author>
-            <name>Tom Cotton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Emergency Alert System Is Useless]]></title>
-        <id>https://www.nationalreview.com/?p=1548601</id>
-        <link href="https://www.nationalreview.com/2023/10/the-emergency-alert-system-is-useless/"/>
-        <updated>2023-10-06T10:30:51.000Z</updated>
-        <summary type="html"><![CDATA[It has never been used in an actual nationwide emergency, and it probably never will be.]]></summary>
-        <author>
-            <name>Dominic Pino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Are Schools Full of Explicit Books?]]></title>
-        <id>https://www.nationalreview.com/?p=1547653</id>
-        <link href="https://www.nationalreview.com/2023/10/why-are-schools-full-of-explicit-books/"/>
-        <updated>2023-10-06T10:30:44.000Z</updated>
-        <summary type="html"><![CDATA[The mislabeled controversy over ‘banned’ books neglects the educational malpractice that brought inappropriate works to the classroom and school library in the first place.]]></summary>
-        <author>
-            <name>Daniel Buck</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<i>Airplane!</i> — the Ship-of-State Farce We Need Today]]></title>
-        <id>https://www.nationalreview.com/?p=1548635</id>
-        <link href="https://www.nationalreview.com/2023/10/airplane-the-ship-of-state-farce-we-need-today/"/>
-        <updated>2023-10-06T10:30:43.000Z</updated>
-        <summary type="html"><![CDATA[Moviegoers look for levity during this current state of ‘chaos.’]]></summary>
-        <author>
-            <name>Armond White</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Media’s Biden Blinders Are Embarrassing]]></title>
-        <id>https://www.nationalreview.com/?p=1548535</id>
-        <link href="https://www.nationalreview.com/2023/10/the-medias-biden-blinders-are-embarrassing/"/>
-        <updated>2023-10-06T10:30:29.000Z</updated>
-        <summary type="html"><![CDATA[With your help, we will continue to do the work that the mainstream press will not.]]></summary>
-        <author>
-            <name>Charles C. W. Cooke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trump’s Courtroom Campaign]]></title>
-        <id>https://www.nationalreview.com/?p=1548688</id>
-        <link href="https://www.nationalreview.com/2023/10/trumps-courtroom-campaign/"/>
-        <updated>2023-10-06T10:30:21.000Z</updated>
-        <summary type="html"><![CDATA[The former president’s various indictments, arraignments, and court appearances have given him an entirely new way to blot out the sun.]]></summary>
-        <author>
-            <name>Rich Lowry</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Biden Builds a Wall to Hide His Immigration Failure]]></title>
-        <id>https://www.nationalreview.com/?p=1548725</id>
-        <link href="https://www.nationalreview.com/2023/10/biden-builds-a-wall-to-hide-his-immigration-failure/"/>
-        <updated>2023-10-06T10:30:19.000Z</updated>
-        <summary type="html"><![CDATA[Yet the White House remains an enemy of good order at the border.]]></summary>
-        <author>
-            <name>The Editors</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Collectivism and Man at Yale]]></title>
-        <id>https://www.nationalreview.com/?p=1548546</id>
-        <link href="https://www.nationalreview.com/2023/10/collectivism-and-man-at-yale/"/>
-        <updated>2023-10-06T10:30:01.000Z</updated>
-        <summary type="html"><![CDATA[Those who advocate collectivism are betting that most young Americans won’t choose to look at the record.]]></summary>
-        <author>
-            <name>Amity Shlaes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为了打字更爽，我学了一个追求极致性能的小众输入法]]></title>
-        <id>https://sspai.com/post/83376</id>
-        <link href="https://sspai.com/post/83376"/>
-        <updated>2023-10-06T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[先看看再决定要不要试，输入法可是个大坑。查看全文]]></summary>
-        <author>
-            <name>北鸮</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[张新颖｜记程德培老师小事]]></title>
-        <id>https://www.thepaper.cn/newsDetail_forward_24836469</id>
-        <link href="https://www.thepaper.cn/newsDetail_forward_24836469"/>
-        <updated>2023-10-06T05:02:08.000Z</updated>
-        <summary type="html"><![CDATA[德培老师中秋节前一天走了。李洱说，以后每临中秋，都会想起他。
-我看着他最后一本书的书名，《要对夜晚充满激情》，想他真是喜欢夜晚：酒桌上肆言无忌，犀利痛快之余，又以妙语解颐。他喜欢热闹的前半夜，也享受独属于他一个人的后半夜：读书，写作。他常常抱怨为写一篇评论费了多少时间去读一个作家的全部作品，这种牢骚，其实于他也是享受；过一段时间，他写另一篇文章，又会同样抱怨牢骚。他的评论，动辄几万言，如果没有夜晚的孤独激情，难以想象。他前一本评论集叫《黎明时分的拾荒者》，这个书名，其实说的是实际情形，是写实的。
-
-《要对夜晚充满激情》
-
-这两本书都是他重返文学批评之后写的。在他有回归的心思而踌躇拖延的那段时间，他同代的批评家和作家朋友，有不少助推的动作。那时候陈思和老师主编《上海文学》，他让我去和德培老师做个对话，以这种形式让老朋友亮个相、开个头。我拿着录音笔跑到德培老师书店的办公室，他开口说：“快二十年没搞文学批评了，放弃甚至丧失发言权，我都已进入底层了。”对话录音转成文字，未加修饰，以《当代文学的问题在哪里》为题，发表在《上海文学》2006年第五期。
-这是件小事，我在其中的作用更不值一提，却让德培老师记住了，从此他认定我是个好人，许多年之后，还在酒酣耳热之际念叨。有一次他又说起，我为转移话题，就“刺”他一下，说：“你退过我的稿。”
-他果然急了，追问：“我怎么会退你的稿？”
-1988年，我读大三，写了篇《荒谬、困境及无效克服——余华小说试评》，德培老师刚创办的《文学角》没出几期就赢得满堂彩，我的老师李振声拿着我的文章给德培老师，德培老师有点为难：《文学角》设定的栏目固定，再就是几个专栏，没有合适的地方放。坐在对面的吴亮老师说，文章给我吧。吴亮老师那时候在办《上海文论》，这一年的第一期刚发了一篇我谈马原小说的文章，接着就在第三期发了这篇谈余华小说的。
-“这么多年了，你还耿耿于怀？”德培老师认真起来，我倒是后悔了。我哪里耿耿于怀，所以说这件往事，不过是凑巧，刚在吃饭前看到吴亮老师的朋友圈，贴出一封余华当年的信，他请吴亮寄一本有这篇评论的杂志给他看看，让我想起了这个。
-没过一会儿，德培老师又端着酒杯说：“不高兴了？”
-这是他的口头禅，常常问旁边的人，“不高兴了？”
-我说，你真是玻璃心。
-酒桌上恣肆是一面，生怕伤了别人是另一面。
-他常年西装革履白衬衫，陈思和老师说，德培年轻时候穿中山装，第一个扣子也总是扣着。和德培老师一起去过几次外地，见他总是在行李包之外，另提一个硬纸袋，专门装折叠整齐的白衬衫。那年我们同车去北京参加鲁迅文学奖颁奖典礼，我对着他的硬纸袋说：“你太太真是不怕麻烦，每天要给你熨烫白衬衫。”他反驳道：“你看看清楚，我这两件是新买的，还没拆呢。”对于得奖，他心里是高兴的，一辈子做这么一件事，有肯定，也是个安慰。他不掩饰他的高兴，有时候会表述为：“我一个退休工人，他们给了个奖。”——他得奖的那本书，名叫《谁也管不住说话这张嘴》。
-又有一次聚会，满满一桌子人，喝得兴奋。不知谁说起《沈从文的后半生》这本书，临时成为话题。德培老师忽然正色，盖过众声：“写《沈从文的后半生》算什么本事？有本事，你写前半生。”
-我坐在他对面，回应了他的前半句：“写后半生多少也得有点本事。”
-后半句没回应，却在心里佩服他的说法。几年后我出了《沈从文的前半生》，当然不能说是他的刺激，但想起他的话，愈发觉得他是真懂写作之难的人 。
-2023年10月5日]]></summary>
-        <author>
-            <name>上海书评</name>
         </author>
     </entry>
 </feed>
