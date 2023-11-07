@@ -6,6 +6,16 @@
       "siteUrl": "https://rweekly.org/atom.xml",
       "articles": [
         {
+          "id": "https://rweekly.org/2023-W45.html",
+          "author": null,
+          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Colin Fay, with help from the R Weekly team members and contributors.\nHighlight\nScanning QR codes in R\nForecasting Pittsburgh Potholes with {fable}\nAdding context to maps made with ggplot2\nInsights\nUseful functions for dealing with object names\nR in the Real World\nForecasting Pittsburgh Potholes with {fable}\n\nSluggish system or client code?\nR in Organizations\n{NCIFD} — An Internal R Package for a Fisheries Agency\nR Quixote in Spain: Organizing Annual R Conference and Writing Book for Hispanic R Users\nR in Academia\nOur first adventure with Visium Spatial Proteogenomics\nNew Packages\n📦 Go Live for More New Pkgs 📦\nCRAN\nRcppArmadillo 0.12.6.6.0 on CRAN: Bugfix, Thread Throttlin…",
+          "link": "https://rweekly.org/2023-W45.html",
+          "publishedOn": "2023-11-06T00:00:00.000Z",
+          "wordCount": 5618,
+          "title": "R Weekly 2023-W55 QRCode, fable, and maps",
+          "imageUrl": "https://rweekly.org/public/facebook.png"
+        },
+        {
           "id": "https://rweekly.org/2023-W44.html",
           "author": null,
           "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Eric Nantz, with help from the R Weekly team members and contributors.\nHighlight\nShinyUIEditor: Out of alpha\nAnswering some {tidymodels} questions\n{component} - Creating components for Shiny inspired by Vue\nInsights\nAll The Right Friends: how does Google Scholar rank co-authors?\nTed Laderas Discusses CascadiaR and the Diverse R Community in Portland\nR in the Real World\nTopic modeling for #TidyTuesday Taylor Swift lyrics\nFund Forecasting: Comparing Prophet, ETS, and ARIMA using Bagging\nResources\nAnswering some {tidymodels} questions\nA worthy collection of short R commands and tricks\n\nNew Packages\n📦 Go Live for More New Pkgs 📦\nCRAN\n{detectors} 0.1.0: Prediction Data from GPT…",
@@ -52,6 +62,16 @@
       "feedUrl": "https://feedx.net/rss/shanghaishuping.xml",
       "siteUrl": "http://thepaper.cn",
       "articles": [
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_25201087",
+          "author": null,
+          "description": "《樱与兽：帝国中心的上野动物园》，[美]伊恩·J.米勒，张涛译，上海人民出版社｜光启书局2023年7月，324页，108元\n\n2023年9月16日，北京动物园发布了大象阿拉莉雅去世的消息。通常情况下，大象的平均寿命是六十至八十岁，阿拉莉雅去世的时候只有四十四岁。即便是在人工饲养的环境下，这头在1979年由斯里兰卡总理普雷马达萨作为珍贵的国宝赠送给北京动物园的大象还是显得有些年轻。更何况，在它的故乡，斯里兰卡的锡兰象已经濒临灭绝。\n大象是地球上最古老的动物之一，它们有着丰富的情感和超群的智力，但是目前，因为人类生活的干预，大象的数量急剧减少。无论是斯里兰卡还是印度，大象在当地的宗教和文化中，往往有着特殊的含义。大象在佛教、印度教、耆那教中是极为重要的元素，大象在某种程度上也被视为佛教的重要象征之一。印度和斯里兰卡等国也会把大象作为珍贵的礼物赠送给其他国家。值得注意的是，大象在动物园的生存环境往往是衡量一个现代意义动物园水平的重要标志。\n上世纪七十年代以来，随着动物权利保护运动在全球范围内的兴起，在史学领域也逐渐出现了所谓的“文化转向”（cultural turn）与“动物转向”（the animal turn），西方史学界开始对传统的人类为中心的历史叙述方式进行反思，研究者所关注的历史主体从人类转向了动物。这种去人类中心主义化，更加强调历史发展过程中动物与人类之间的相互影响。与此同时，对于动物园的研究也开始进入历史学家的视野。动物园作为现代城市公共空间中不可或缺的组成部分，其相关研究也得以日渐丰富。西方学术界对于动物园的管理体系，现代动物园如美国国家动物园（National zoological park）、柏林动物园、上野动物园的成立、展示（display），动物园与野生动物保护等问题进行了深入探究。相关的研究有伊丽莎白·汉森的《动物景点：美国动物园的自然展示》（Eliza…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_25201087",
+          "publishedOn": "2023-11-07T05:02:08.000Z",
+          "wordCount": 248,
+          "title": "刘晓晨评《樱与兽》︱从大象到熊猫：现代化转型背景下的动物与动物园",
+          "imageUrl": null
+        },
         {
           "id": "https://www.thepaper.cn/newsDetail_forward_25191534",
           "author": null,
@@ -435,6 +455,96 @@
       "feedUrl": "https://www.nationalreview.com/feed/",
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1562375",
+          "author": "David Zimmermann",
+          "description": "Marjorie Taylor Greene reintroduced the motion Monday to censure Tlaib after the GOP congresswoman’s first attempt at doing so failed.",
+          "link": "https://www.nationalreview.com/news/rashida-tlaib-faces-renewed-censure-push-over-antisemitic-comments-illegal-occupation-of-capitol/",
+          "publishedOn": "2023-11-07T00:28:38.000Z",
+          "wordCount": 9184,
+          "title": "Rashida Tlaib Faces Renewed Censure Push over Antisemitic Comments, ‘Illegal Occupation’ of Capitol",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2019/08/rashida-tlaib-hearing.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1562321",
+          "author": "David Zimmermann",
+          "description": "‘Nothing we can do will bring back the lives lost in this tragedy, but we can work together to help prevent future shootings.’",
+          "link": "https://www.nationalreview.com/news/maine-senators-call-on-ig-to-investigate-army-over-connections-to-lewiston-mass-shooter/",
+          "publishedOn": "2023-11-06T22:12:23.000Z",
+          "wordCount": 8501,
+          "title": "Maine Senators Call on IG to Investigate Army over Connections to Lewiston Mass Shooter",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/10/card.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1562331",
+          "author": "Ryan Mills",
+          "description": "The suit claims that mail-order abortion pills assist ‘sex traffickers and sexual abusers to force their victims to get abortions.’",
+          "link": "https://www.nationalreview.com/news/gop-attorneys-general-sue-fda-over-approval-of-risky-untested-mail-order-abortion-pills/",
+          "publishedOn": "2023-11-06T21:17:59.000Z",
+          "wordCount": 8742,
+          "title": "GOP Attorneys General Sue FDA over Approval of ‘Risky, Untested’ Mail-Order Abortion Pills",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2022/10/abortion.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1562309",
+          "author": "Kayla Bartsch",
+          "description": "The Pentagon initially claimed 21 troops had suffered traumatic brain injuries from a pair of October 18 drone attacks.",
+          "link": "https://www.nationalreview.com/news/forty-five-u-s-troops-report-injury-in-iraq-syria-drone-attacks-more-than-twice-the-number-disclosed-by-pentagon/",
+          "publishedOn": "2023-11-06T20:53:10.000Z",
+          "wordCount": 8554,
+          "title": "Forty-Five U.S. Troops Report Injury in Iraq, Syria Drone Attacks, More Than Twice the Number Disclosed by Pentagon",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/11/al-Asad.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1562257",
+          "author": "Brittany Bernstein",
+          "description": "The Post’s top headline on Monday reflected the Hamas-run Gaza Health Ministry’s claim that the Palestinian death toll has surpassed 10,000.",
+          "link": "https://www.nationalreview.com/news/the-washington-post-turns-over-its-homepage-to-hamas/",
+          "publishedOn": "2023-11-06T20:16:07.000Z",
+          "wordCount": 9727,
+          "title": "The <I>Washington Post</I> Turns Over Its Homepage to Hamas",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/11/Washington-Post.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1562216",
+          "author": "Caroline Downey",
+          "description": "The vandals targeted the painting Rokeby Venus by Diego Velázquez, which hangs in the London National Gallery.",
+          "link": "https://www.nationalreview.com/news/climate-activists-attack-400-year-old-painting-with-hammers/",
+          "publishedOn": "2023-11-06T19:54:53.000Z",
+          "wordCount": 8772,
+          "title": "Climate Activists Attack 400-Year-Old Painting with Hammers",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/11/Stop-Oil-2.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1562223",
+          "author": "Noah Rothman",
+          "description": "Biden wouldn’t be in such dire political straits if he hadn’t let his closest confidants talk him into imprudently exploiting the Trumpified GOP’s weaknesses.",
+          "link": "https://www.nationalreview.com/2023/11/joe-biden-has-gotten-terrible-advice/",
+          "publishedOn": "2023-11-06T19:03:14.000Z",
+          "wordCount": 9698,
+          "title": "Joe Biden Has Gotten Terrible Advice",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/11/Joe-Biden-November.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1562190",
+          "author": "Kayla Bartsch",
+          "description": "Almaghtheh told police that she had been watching news coverage of the Israel-Hamas war and ‘couldn’t breathe anymore.’",
+          "link": "https://www.nationalreview.com/news/indianapolis-woman-arrested-for-plowing-car-into-building-she-though-was-a-jewish-school/",
+          "publishedOn": "2023-11-06T18:14:39.000Z",
+          "wordCount": 8451,
+          "title": "Indianapolis Woman Arrested for Plowing Car into Building She Thought Was a Jewish School",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/11/Ruba-Almaghtheh.jpg?fit=824%2C481&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1562119",
+          "author": "Yuval Levin",
+          "description": "An onslaught of intimidation calls for legislative and law-enforcement action.",
+          "link": "https://www.nationalreview.com/2023/11/in-response-to-antisemitism-outrage-is-not-enough/",
+          "publishedOn": "2023-11-06T16:47:27.000Z",
+          "wordCount": 9930,
+          "title": "In Response to Antisemitism, Outrage Is Not Enough",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/02/u.s.-israel.jpg?fit=1200%2C700&ssl=1"
+        },
         {
           "id": "https://www.nationalreview.com/?post_type=blog-post&p=1562085",
           "author": "Caroline Downey",
@@ -5734,106 +5844,6 @@
           "wordCount": 9260,
           "title": "Israel Needs a Long Leash to Destroy Hamas",
           "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/10/soldiers-israel.jpg?fit=1200%2C700&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1549463",
-          "author": "Ari Blaff",
-          "description": "The Canadian Broadcast Corporation (CBC), a publicly funded news outlet, released instructions to its journalists about what vocabulary to use.",
-          "link": "https://www.nationalreview.com/news/leaked-emails-show-canadian-media-exec-demanding-journalists-avoid-using-term-terrorist-in-hamas-coverage/",
-          "publishedOn": "2023-10-08T15:04:08.000Z",
-          "wordCount": 8884,
-          "title": "Leaked Emails Show Canadian Media Exec Demanding Journalists Avoid Using Term ‘Terrorist’ in Hamas Coverage",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2022/12/canadian-flag-parliament.jpg?fit=1200%2C700&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1549467",
-          "author": "Ari Blaff",
-          "description": "The Biden administration has come under increasing criticism in the wake of the attack for unfreezing $6 billion worth of Iranian assets in early August.",
-          "link": "https://www.nationalreview.com/news/hamas-confirms-iran-backed-and-supported-surprise-attack-on-israel/",
-          "publishedOn": "2023-10-08T14:06:41.000Z",
-          "wordCount": 8633,
-          "title": "Hamas Confirms Iran Backed and Supported Surprise Attack on Israel",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/01/hamas-militants-gaza.jpg?fit=1200%2C700&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1549446",
-          "author": "Ari Blaff",
-          "description": "‘Hamas wants to murder us all,’ Prime Minister Benjamin Netanyahu said in a public message.",
-          "link": "https://www.nationalreview.com/news/israel-formally-declares-war-on-hamas-following-deadly-surprise-invasion/",
-          "publishedOn": "2023-10-08T13:14:03.000Z",
-          "wordCount": 8737,
-          "title": "Israel Formally Declares War on Hamas following Deadly Surprise Invasion",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/10/34.jpg?fit=1200%2C700&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1549026",
-          "author": "Sarah Schutte",
-          "description": "A book on the difficult art of conversation offers a call to civility and a reminder to turn our attention to others.",
-          "link": "https://www.nationalreview.com/2023/10/lets-talk/",
-          "publishedOn": "2023-10-08T10:30:57.000Z",
-          "wordCount": 9222,
-          "title": "Let’s Talk",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/10/talk.jpg?fit=1200%2C700&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1548980",
-          "author": "Corey DeAngelis and Jay P. Greene",
-          "description": "Severely limiting education options through onerous regulation defeats the purpose of true education freedom.",
-          "link": "https://www.nationalreview.com/2023/10/the-lesson-is-clear-regulation-makes-charter-schools-less-innovative/",
-          "publishedOn": "2023-10-08T10:30:51.000Z",
-          "wordCount": 8642,
-          "title": "The Lesson Is Clear: Regulation Makes Charter Schools Less Innovative",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/08/GettyImages-534576757-Students.jpg?fit=1200%2C700&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1548411",
-          "author": "Álvaro Vargas Llosa",
-          "description": "Starting this month, voters throughout the region will have opportunities to begin pulling their nations back from the brink — or to weaken them further.",
-          "link": "https://www.nationalreview.com/2023/10/latin-america-on-the-knifes-edge/",
-          "publishedOn": "2023-10-08T10:30:32.000Z",
-          "wordCount": 9163,
-          "title": "Latin America on the Knife’s Edge",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/10/FourWaySplit-1-1.jpg?fit=1200%2C700&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1549072",
-          "author": "John C. Pinheiro",
-          "description": "The papacy could benefit from advisers who understand metrics, numbers, and human action and exchange.",
-          "link": "https://www.nationalreview.com/2023/10/where-pope-franciss-environmentalism-goes-astray/",
-          "publishedOn": "2023-10-08T10:30:21.000Z",
-          "wordCount": 9505,
-          "title": "Where Pope Francis’s Environmentalism Goes Astray",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/10/pope.jpg?fit=1200%2C700&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1548841",
-          "author": "Samuel Gregg",
-          "description": "We must end the undeclared bipartisan consensus that we should ignore our public-debt addiction and live in a fiscal fantasy world.",
-          "link": "https://www.nationalreview.com/2023/10/americas-despotism-of-debt/",
-          "publishedOn": "2023-10-08T10:30:15.000Z",
-          "wordCount": 9243,
-          "title": "America’s Despotism of Debt",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/10/nationaldebt.jpg?fit=1200%2C700&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1548800",
-          "author": "The Editors",
-          "description": "Expect to receive larger and more handsome issues, on a monthly basis, starting with our next one.",
-          "link": "https://www.nationalreview.com/2023/10/a-new-look-for-national-review/",
-          "publishedOn": "2023-10-08T10:30:10.000Z",
-          "wordCount": 8293,
-          "title": "A New Look for <span style=\"font-variant:small-caps\">National Review</span>",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2021/06/buckley-william-f-firing-line-5.jpg?fit=1200%2C700&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1549138",
-          "author": "Madeleine Kearns",
-          "description": "The Biden administration continues to undermine the sex-based realities and responsibilities of family life.",
-          "link": "https://www.nationalreview.com/2023/10/bidens-ridiculous-gender-neutral-family-policy/",
-          "publishedOn": "2023-10-08T10:30:02.000Z",
-          "wordCount": 8941,
-          "title": "Biden’s Ridiculous ‘Gender-Neutral’ Family Policy",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/07/bbd.jpg?fit=1200%2C700&ssl=1"
         }
       ]
     },
@@ -5842,6 +5852,26 @@
       "feedUrl": "https://sspai.com/feed",
       "siteUrl": "https://sspai.com",
       "articles": [
+        {
+          "id": "https://sspai.com/post/84220",
+          "author": "张奕源Nick",
+          "description": "在本文中，我们就来聊聊 Apple 最新发布的 24 英寸版 iMac 的上手体验。在真正用上这台电脑之后，我还是感受到了不少小惊喜和小快乐。查看全文",
+          "link": "https://sspai.com/post/84220",
+          "publishedOn": "2023-11-07T03:43:53.000Z",
+          "wordCount": 896,
+          "title": "外观出色，性能不俗：2023 款 iMac 上手体验",
+          "imageUrl": "https://cdn.sspai.com/07/11/2023/article/106e7157-3a2d-f84a-ca73-5e1dd01f3afb.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/84224",
+          "author": "少数派编辑部",
+          "description": "Discord 将于年底前改用临时文件链接，OpenELA 正式公开 Enterprise Linux 源代码等查看全文",
+          "link": "https://sspai.com/post/84224",
+          "publishedOn": "2023-11-07T01:07:17.000Z",
+          "wordCount": 856,
+          "title": "派早报：联发科发布天玑 9300，斗鱼 CEO 陈少杰上月起失联等",
+          "imageUrl": "https://cdn.sspai.com/2023/11/7/article/d6ee6420-dfeb-5241-d5c1-e19e1863624a.png"
+        },
         {
           "id": "https://sspai.com/post/84212",
           "author": "waychane",
@@ -6921,26 +6951,6 @@
           "wordCount": 839,
           "title": "派早报",
           "imageUrl": "https://cdn.sspai.com/10/9/2023/article/f7023f99-5840-7f10-795d-046b1df6b960.png"
-        },
-        {
-          "id": "https://sspai.com/post/83418",
-          "author": "克莱德",
-          "description": "虽然并非微软计划中每年一次的大更新，但 Moment 4 几乎就是 2023 年 Windows 11 功能更新的全部了。来看看它有哪些新功能。查看全文",
-          "link": "https://sspai.com/post/83418",
-          "publishedOn": "2023-10-08T10:28:32.000Z",
-          "wordCount": 1045,
-          "title": "具透 | Moment 4 更新详解：今年 Windows 11 的新功能，或许都在这里了",
-          "imageUrl": "https://cdn.sspai.com/2023/10/8/article/b360d072-31a8-6c52-b7f2-95a76f5d8830.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/83348",
-          "author": "少数派编辑部",
-          "description": "单从产品自身的品质和使用体验来说，Anker是我最喜欢的充电外设品牌之一，而作为一个非常「积极」的品牌，我也喜闻乐见Anker不断地推陈出新，并蔓延到生活中大大小小诸多领域。无论是像洗地机这样的家居清 ...查看全文",
-          "link": "https://sspai.com/post/83348",
-          "publishedOn": "2023-10-08T07:19:32.000Z",
-          "wordCount": 703,
-          "title": "派开箱 | 当老牌电源厂商来做户外设备，Anker 车载冰箱用起来怎么样？",
-          "imageUrl": "https://cdn.sspai.com/2023/10/03/8a06ae3cc50dd9fc284e1b0e936c549b.jpg"
         }
       ]
     },
@@ -9038,86 +9048,6 @@
           "wordCount": 1235,
           "title": "匈牙利展出西蒙·汉泰画作",
           "imageUrl": null
-        },
-        {
-          "id": "https://m.idai.ly/se/3f8f04",
-          "author": null,
-          "description": "美国「宇宙神5号」运载火箭搭载亚马逊太空网络测试卫星发射升空，佛罗里达州。10月6日，美国亚马逊公司宣布成功部署「柯伊伯计划」（Project Kuiper）太空网络卫星系统的首批2颗测试卫星。该项目旨在与 SpaceX 星链展开竞争，主要通过近地轨道卫星提供互联网高速接入服务。亚马逊公司计划2024年上半年部署第一批正式型号卫星，未来6年制造和部署超过3200颗卫星，投资总额超过100亿美元。摄影师：Terry Renna",
-          "link": "https://m.idai.ly/se/3f8f04",
-          "publishedOn": "2023-10-08T11:59:00.000Z",
-          "wordCount": 1240,
-          "title": "亚马逊互联网卫星发射",
-          "imageUrl": null
-        },
-        {
-          "id": "https://m.idai.ly/se/6eeeMw",
-          "author": null,
-          "description": "美国总统 Joe Biden 针对以巴冲突发表演讲，华盛顿白宫。10月7日，美国总统 Biden 公开谴责哈马斯组织对以色列发动袭击，强调美国随时准备向以色列「提供一切适当的支持」，坚定支持以色列自卫，警告「任何以色列的敌对方不要妄想在冲突中谋取利益」。当天以色列总理 Benjamin Netanyahu 发表声明感谢美国「毫无保留的支持」，宣布以色列军队将彻底消除哈马斯威胁。摄影师：iDaily Media",
-          "link": "https://m.idai.ly/se/6eeeMw",
-          "publishedOn": "2023-10-08T10:57:00.000Z",
-          "wordCount": 1240,
-          "title": "拜登宣布支持以色列",
-          "imageUrl": null
-        },
-        {
-          "id": "https://m.idai.ly/se/057Xcq",
-          "author": null,
-          "description": "哈马斯组织武装人员在一辆摧毁的以色列坦克上挥舞巴勒斯坦国旗，加沙地带。10月7日，哈马斯武装组织对以色列发动火箭弹突袭，造成以色列至少250人死亡、1500人受伤。哈马斯组织宣布本次袭击是对以色列长达16年封锁和阿克萨清真寺暴力事件的回应。以色列总理 Benjamin Netanyahu 宣布该国进入「战争状态」并切断加沙地带的电力、燃料和物资供应，下令以色列军方动用一切力量「摧毁哈马斯」。摄影师：Hani Alshaer",
-          "link": "https://m.idai.ly/se/057Xcq",
-          "publishedOn": "2023-10-08T09:55:00.000Z",
-          "wordCount": 1240,
-          "title": "以巴冲突剧烈激化",
-          "imageUrl": null
-        },
-        {
-          "id": "https://m.idai.ly/se/a1cEk6",
-          "author": null,
-          "description": "中共上海市委书记陈吉宁会见美国国会参议院多数党领袖 Chuck Schumer，中国上海。10月7日，美国国会代表团时隔4年首次访华，访问团成员包括美国参议院3名民主党议员和3名共和党议员。Schumer 宣称美方不寻求同中国脱钩或冲突，此次访华旨在增进双方了解，推动解决分歧和关注的问题，促进互利合作，确保美中关系发展惠及两国和世界。中国外交部发言人表示，希望通过此访增进美国国会对中国的客观了解，促进两国立法机构对话交流，为中美关系发展注入积极因素。摄影师：Aly Song",
-          "link": "https://m.idai.ly/se/a1cEk6",
-          "publishedOn": "2023-10-08T09:53:00.000Z",
-          "wordCount": 1240,
-          "title": "美国国会代表团访华",
-          "imageUrl": null
-        },
-        {
-          "id": "https://m.idai.ly/se/da44oM",
-          "author": null,
-          "description": "俄罗斯总统 Vladimir Putin 与哈萨克斯坦总统 Kassym-Jomart Tokayev 举行会晤，莫斯科。10月7日，俄罗斯、哈萨克斯坦和乌兹别克斯坦三国领导人共同出席合作天然气项目启动仪式，该项目管道全长超过2万公里，能够将俄罗斯天然气输送至乌兹别克斯坦以及哈萨克斯坦东北部，年输送能力达2550亿立方米。这是俄罗斯首次向中亚地区输送天然气，乌兹别克斯坦未来2年每天可获得900万立方米俄罗斯天然气供应。摄影师：Pavel Bednyakov",
-          "link": "https://m.idai.ly/se/da44oM",
-          "publishedOn": "2023-10-08T09:51:00.000Z",
-          "wordCount": 1240,
-          "title": "俄天然气首次输送中亚",
-          "imageUrl": null
-        },
-        {
-          "id": "https://m.idai.ly/se/8e3lM6",
-          "author": null,
-          "description": "俄罗斯国防部长 Sergei Shoigu 视察「萨尔马特」（Sarmat）洲际弹道导弹生产车间，克拉斯诺亚尔斯克边疆区。10月7日，俄国防部宣布首批「萨尔马特」导弹将在近期加入战斗值班，目前导弹发射井和指挥系统安装调试工作已进入最后阶段。「萨尔马特」洲际弹道导弹是俄罗斯自主研制的第五代重型洲际弹道导弹，重200吨，长35米，可搭载10枚分导式核弹头或24枚高超音速导弹，作战半径达1.8万公里。摄影师：Vadim Savitsky",
-          "link": "https://m.idai.ly/se/8e3lM6",
-          "publishedOn": "2023-10-08T09:49:00.000Z",
-          "wordCount": 1240,
-          "title": "俄第5代洲际导弹量产",
-          "imageUrl": null
-        },
-        {
-          "id": "https://m.idai.ly/se/d37ttT",
-          "author": null,
-          "description": "巴黎贾科梅蒂博物馆展出一件 Alberto Giacometti 1958年创作的青铜塑像《大鼻子头像》（Head with a Large Nose），法国。本次展览以「鼻子」为标题，首次完整呈现贾科梅蒂1947年至1964年创作的《鼻子》系列作品的所有版本以及相关绘画和文档，着重聚焦贾科梅蒂夸张而怪诞的人物塑造风格，展期持续至2024年1月7日。摄影师：Riccardo Milani",
-          "link": "https://m.idai.ly/se/d37ttT",
-          "publishedOn": "2023-10-08T09:47:00.000Z",
-          "wordCount": 1240,
-          "title": "贾科梅蒂鼻子主题展",
-          "imageUrl": null
-        },
-        {
-          "id": "https://m.idai.ly/se/82c4em",
-          "author": null,
-          "description": "莫斯科动物园新生大熊猫幼崽正在测量体重。10月6日，莫斯科动物园宣布这只新生大熊猫幼崽在出生第42天成功睁开眼睛，已经能对光线产生反应，预计出生2个月左右形成完整视力。目前幼崽体重达2.134千克，身长超过44厘米。这是俄罗斯诞生的首只大熊猫幼崽，也是2023年中国海外大熊猫研究项目出生的第3只大熊猫幼崽，莫斯科动物园计划在它出生100天后正式取名。摄影师：Moscow Zoo",
-          "link": "https://m.idai.ly/se/82c4em",
-          "publishedOn": "2023-10-08T09:45:00.000Z",
-          "wordCount": 1240,
-          "title": "莫斯科大熊猫幼崽睁眼",
-          "imageUrl": null
         }
       ]
     },
@@ -9126,6 +9056,26 @@
       "feedUrl": "https://plink.anyfeeder.com/nytimes/dual",
       "siteUrl": "http://nytimes.com",
       "articles": [
+        {
+          "id": "https://cn.nytimes.com/business/20231107/china-bri-aiddata/dual",
+          "author": null,
+          "description": "KEITH BRADSHER2023年11月7日2018年，斯里兰卡科伦坡的一个由中国提供资金的建设项目。 Adam Dean for The New York Times\nAfter lending $1.3 trillion to developing countries, mainly for big-ticket infrastructure projects, China has shifted its focus to bailing out many of those same countries from piles of debt.\n在向发展中国家提供了1.3万亿美元贷款（主要用于大型基础设施项目）之后，中国将重心转移到帮助其中许多国家摆脱巨额债务。\nThe initial loans were mostly part of the Belt and Road Initiative, which Xi Jinping, China’s top leader, started in 2013 to build stronger transportation, communications and political links in more than 150 countries.\n最初的贷款大多是“一带一路”倡议的一部分，中国的最高领导人习近平于2013年启动了这一倡议，目的是在150多个国家建立更牢固的交通、通信和政治联系。\nBut now the two main Chinese state banks that provided most of the infrastructure loans have reduced their new lending. Rescue loans climbed to 58 percent of China’s l…",
+          "link": "https://cn.nytimes.com/business/20231107/china-bri-aiddata/dual",
+          "publishedOn": "2023-11-07T06:06:02.000Z",
+          "wordCount": 1293,
+          "title": "中国对外贷款重心转移：帮助发展中国家摆脱债务",
+          "imageUrl": "https://static01.nyt.com/images/2023/11/06/multimedia/06china-debt-01-cmpl/06china-debt-01-cmpl-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/business/20231107/china-economy-property-crisis/dual",
+          "author": null,
+          "description": "KEITH BRADSHER2023年11月7日中国潍坊的一个农产品批发市场。中国经济学家表示，经济正面临着毛泽东时代以来最严峻的考验。 Gilles Sabrié for The New York Times\nChina’s political leaders, under pressure to support the country’s fragile recovery, are slowly steering the economy on a new course. No longer able to rely on real estate and local debt to drive growth, they are instead investing more heavily in manufacturing and increasing borrowing by the central government.\n面临为疲弱的经济复苏提供支持的压力，中国的政治领导人正在缓慢地将经济引至新的方向。由于经济增长不能再靠房地产和地方债推动，官员们正在加大对制造业的投资，并增加了中央政府的借贷。\nFor the first time since 2005, when comparable record keeping in China began, banks controlled by the state have started a sustained reduction in real estate lending, data released last week showed. Enormous sums are instead being channeled to manufacturers, particularly in fast-growing indu…",
+          "link": "https://cn.nytimes.com/business/20231107/china-economy-property-crisis/dual",
+          "publishedOn": "2023-11-07T02:36:02.000Z",
+          "wordCount": 1436,
+          "title": "中国新经济计划：加大对制造业投资，无意出手救楼市",
+          "imageUrl": "https://static01.nyt.com/images/2023/11/06/multimedia/00china-econ-01-hjmg/00china-econ-01-hjmg-articleLarge.jpg"
+        },
         {
           "id": "https://cn.nytimes.com/health/20231106/menopause-hot-flashes-hormone-therapy/dual",
           "author": null,
@@ -9973,6 +9923,56 @@
       "feedUrl": "https://plink.anyfeeder.com/weixin/ibookreview",
       "siteUrl": "http://weixin.sogou.com/weixin?type=1&s_from=input&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A",
       "articles": [
+        {
+          "id": "a636547690ce13cc1e5c0fc321c5503a",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E5%A1%9E%E5%B7%B4%E5%B0%94%E5%BE%B7%EF%BC%9A%E4%BA%BA%E6%98%AF%E4%B8%80%E7%A7%8D%E8%A2%AB%E6%82%B2%E5%93%80%EF%BC%8C%E6%B7%B1%E6%B7%B1%E5%8C%85%E8%A3%B9%E7%9A%84%E5%8A%A8%E7%89%A9%EF%BC%8C%E6%8A%AB%E7%9D%80%E4%B8%80%E4%BB%B6%E9%BB%91%E8%89%B2%E5%A4%96%E5%A5%97",
+          "publishedOn": "2023-11-07T01:59:00.000Z",
+          "wordCount": 333,
+          "title": "塞巴尔德：人是一种被悲哀，深深包裹的动物，披着一件黑色外套",
+          "imageUrl": null
+        },
+        {
+          "id": "616a02901d21e992fcf90f073561be30",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E5%AE%89%E4%B8%9C%C2%B7%E5%A5%91%E8%AF%83%E5%A4%AB%EF%BC%9A%E6%88%91%E6%B2%A1%E6%9C%89%E7%90%86%E7%94%B1%E4%B8%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E8%BF%87%E5%8E%BB%E6%84%9F%E5%88%B0%E5%AE%B3%E8%87%8A",
+          "publishedOn": "2023-11-07T01:59:00.000Z",
+          "wordCount": 331,
+          "title": "安东·契诃夫：我没有理由为自己的过去感到害臊",
+          "imageUrl": null
+        },
+        {
+          "id": "db435c34b3e4ecf8714c4aed47ebd3fc",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E5%A5%BD%E6%95%85%E4%BA%8B%E5%92%8C%E6%AC%A2%E7%AC%91%EF%BC%8C%E5%BC%80%E5%90%AF%E4%BA%BA%E4%BB%AC%E7%9A%84%E5%AF%B9%E8%AF%9D%EF%BD%9C%E5%8D%A1%E6%96%AF%E6%BB%95%E4%B8%93%E8%AE%BF",
+          "publishedOn": "2023-11-07T01:59:00.000Z",
+          "wordCount": 325,
+          "title": "好故事和欢笑，开启人们的对话｜卡斯滕专访",
+          "imageUrl": null
+        },
+        {
+          "id": "c2f0bd93ace53ac250e5c8f1c973db31",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E8%B6%85%E8%B6%8A%E5%B7%A6%E4%B8%8E%E5%8F%B3%E7%9A%84%E5%B0%9D%E8%AF%95%EF%BC%9A%E5%BC%A0%E8%AC%87%E4%B8%8E%E8%BF%91%E4%BB%A3%E4%B8%AD%E5%9B%BD%E6%94%BF%E6%B2%BB",
+          "publishedOn": "2023-11-06T02:48:00.000Z",
+          "wordCount": 287,
+          "title": "超越左与右的尝试：张謇与近代中国政治",
+          "imageUrl": null
+        },
+        {
+          "id": "5d1224197b3b69a13fe92bdf2efee71c",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E6%A5%9A%E7%81%B5%E7%8E%8B%E7%9A%84%E2%80%9C%E4%B8%AD%E5%8E%9F%E7%97%85%E2%80%9D%E5%A6%82%E4%BD%95%E5%A5%8F%E5%93%8D%E6%A5%9A%E5%9B%BD%E8%A1%B0%E4%BA%A1%E7%9A%84%E5%BA%8F%E6%9B%B2%EF%BC%9F",
+          "publishedOn": "2023-11-06T02:48:00.000Z",
+          "wordCount": 287,
+          "title": "楚灵王的“中原病”如何奏响楚国衰亡的序曲？",
+          "imageUrl": null
+        },
         {
           "id": "4c73371243e701ad292605f8672cac7b",
           "author": null,
