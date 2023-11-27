@@ -6,6 +6,16 @@
       "siteUrl": "https://rweekly.org/atom.xml",
       "articles": [
         {
+          "id": "https://rweekly.org/2023-W48.html",
+          "author": null,
+          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Tony ElHabr, with help from the R Weekly team members and contributors.\nHighlight\nObject-Oriented Express: Refactoring in R\nUsing benchmarking to guide the adoption of dependencies in R packages\nBuilding a DataFusion CSV reader with arrow-extendr\nInsights\nReading notes on Kill It with Fire by Marianne Bellotti\nObject-Oriented Express: Refactoring in R\nFolks, C’mon, Use Parquet\nNext-generation access to Databricks clusters in RStudio with sparklyr and pysparklyr\nI do not have time (to practice)\nMaking SearchBuilder Work in the Server Mode in DT (Help Needed)\nR in the Real World\nPredicting viewership for #TidyTuesday Doctor Who episodes\nExtracting information about spatial pat…",
+          "link": "https://rweekly.org/2023-W48.html",
+          "publishedOn": "2023-11-27T00:00:00.000Z",
+          "wordCount": 6064,
+          "title": "R Weekly 2023-W48 object-oriented refactoring, benchmarking, Rust + R",
+          "imageUrl": "https://rweekly.org/public/facebook.png"
+        },
+        {
           "id": "https://rweekly.org/2023-W47.html",
           "author": null,
           "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Sam Parmar, with help from the R Weekly team members and contributors.\nHighlight\nhttr2 1.0.0\nThe Road to Building Ten Million Binaries\nHow to Get Good with R?\nInsights\nThe Road to Building Ten Million Binaries\n\nThe current introduction to my package development workshops\nLesser-known reasons to prefer apply() over for loops\nReading notes on Git in Practice by Mike McQuaid\nThree ways errors are about to get better in tidymodels\nhttr2 1.0.0\n\nOdds Are You’re Using Probabilities to Describe Event Outcomes\nFAQs on mixed-effects models\nHow to Simulate & Plot a Bivariate Normal Distribution in R: A Hands-on Guide\nClassed conditions from rlang functions\nAn Upcoming Change in the Tin…",
@@ -42,6 +52,16 @@
       "feedUrl": "https://feedx.net/rss/shanghaishuping.xml",
       "siteUrl": "http://thepaper.cn",
       "articles": [
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_25434407",
+          "author": null,
+          "description": "《维米尔的“野心”》，[法]达尼埃尔·阿拉斯著，刘爽译，郑伊看审校，北京大学出版社，2023年9月出版，264页，98.00元\n\n作为一位以细节观察著称的法国艺术史家，达尼埃尔·阿拉斯（Daniel Arasse, 1944-2003）的目光偏离了一般的视觉惯习，却将读者拉进了真正的画面中心。从细节到整体，他致力于探秘古典世界的游戏规则，却纵容那些隐藏其中的自由之地；从西欧到南欧，他游走在名家艺廊，却无视那些禀赋天资，只为反叛的心灵停留。\n《维米尔的“野心”》（L’Ambition de Vermeer）来自作者观看画作的一次亲身经历：作为荷兰黄金时期（1630-1710）的一位“精细画家”（fijnschilder，这类画家力图在有限的作品尺幅内用无形的笔触表现精微细节），维米尔却为何画得如此模糊？精湛的画面在贴近观看时，却只有潦草的色点，正如维米尔的形象背后藏匿着不为人知的生活，其画作也与真实环境保持着微妙的距离。为此，阿拉斯从维米尔呈现给世人的形象引入，在学界研究的基础上，探究他的每一个习惯性动作，关注他的每一次情绪波动，从而打破以往建立的层层表象，从现实的内部引起反叛。\n新的描绘\n无论对于阿拉斯的写作还是维米尔研究来说，《维米尔的“野心”》都催生出一种新的描绘。纵观阿拉斯的研究史，这本于1993年出版的著作成为其方法论的首个案例实践（阿拉斯于1992年出版的《细节——为了建立一部靠近绘画的历史》[Le Détail. Pour une histoire rapprochée de la peinture]和1997年出版的《绘画中的主体/题材——论分析的图像志》[Le Sujet dans le tableau. Essais d’ iconographie analytique]均为方法论主题的著作），将细节研究置入一位画家毕生创作；但在全书的六个章节、三篇附录当…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_25434407",
+          "publishedOn": "2023-11-27T04:02:11.000Z",
+          "wordCount": 291,
+          "title": "刘爽读《维米尔的“野心”》｜流动的盛宴与偏离的表演",
+          "imageUrl": null
+        },
         {
           "id": "https://www.thepaper.cn/newsDetail_forward_25430343",
           "author": null,
@@ -459,6 +479,206 @@
       "feedUrl": "https://feedx.net/rss/thepaper.xml",
       "siteUrl": "http://thepaper.cn",
       "articles": [
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_25442604",
+          "author": null,
+          "description": "日本岐阜市开通两条自主驾驶公交车路线，25日举行发车仪式。\n据日本共同社报道，沿着两条线路行驶的公交车最初将部分实现自主驾驶，力争在一定条件下能够完全自主驾驶。据岐阜市有关部门介绍，在日本全国，类似这样在交通量较大的中心区域运行自主驾驶公交车十分罕见。\n每辆自主驾驶公交车能坐10人，最高时速19公里。这2条运营线路途经市政府大楼和岐阜公园等，遭遇天气恶劣时会停运。现阶段，这两条线路的公交车可免费乘坐，但乘客需提前预约。岐阜市自主驾驶公交路线将持续运行至2028年3月。\n共同社发布的图片显示，红色的自主驾驶公交车大小接近一辆面包车，车内有穿红色制服的工作人员站立着。（新华社）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_25442604",
+          "publishedOn": "2023-11-27T07:25:13.000Z",
+          "wordCount": 28,
+          "title": "日本岐阜市中心试运行自主驾驶公交车",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_25442617",
+          "author": null,
+          "description": "微短剧是指“单集时长从几十秒到15分钟左右、有着相对明确的主题和主线、较为连续和完整的故事情节”的剧集。根据国家广电总局发布的数据，2021年微短剧全年备案数量为398部，2022年备案数量接近2800部，同比增长600%。调查显示，微短剧投资少、见效快。微短剧行业的月充值金额，已经从今年6月份的4000万元增长至10月份的6000万元，据行业数据预测，预计2023全年将达到250亿至300亿元。在获取商业利润、培养创作力量的同时，呈现井喷式增长的微短剧也出现了不少问题。针对网络微短剧内容良莠不齐、运营模式乱象频出，国家广播电视总局持续开展治理工作，并发布多项管理措施。（@央视财经）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_25442617",
+          "publishedOn": "2023-11-27T07:25:13.000Z",
+          "wordCount": 27,
+          "title": "2022年微短剧备案数暴增600%，2023年微短剧充值金额或达300亿元",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_25440341",
+          "author": null,
+          "description": "眼下，越来越多的企业组织职工团建。团建活动在提升团队沟通能力、协作能力，提高工作效率等方面发挥了积极作用。不过，也有一些企业组织设计团建活动时，因占用休息时间、活动方式没有广泛征集职工意见，导致一些职工有抵触情绪。\n前段时间，在福州一家酒店管理公司从事宴会销售的曹旭，因拒绝参加公司周末在轰趴馆组织的团建活动，被公司人事约谈，并被部门经理在工作群里以“缺乏团队意识”为由点名批评。\n为了增强团队凝聚力，眼下，越来越多的企业组织职工团建。团建活动在提升团队沟通能力、协作能力，提高工作效率等方面发挥了积极作用。然而，记者采访发现，一些企业组织设计团建活动时，因占用休息时间、活动方式没有广泛征集职工意见，使得一些职工产生抵触情绪。\n有的团建活动成了变相加班\n多数职工对于团建并不陌生，很多企业将团建视为重要的集体活动。采访中，不少职工认为，一些形式新颖、轻松好玩的团建活动，让他们增强了体验、增进了感情，收益颇丰，对于增强团队凝聚力起到了促进作用。\n不过，有的企业利用职工休息时间组织团建，这样的团建往往被不少年轻人吐槽。曹旭之所以拒绝参加团建，不仅因为团建占用了周末时间，还因为此前团建时，公司不仅在团建期间穿插会议，还要求大家撰写心得，俨然“另一个职场”。\n在曹旭看来，公司团建无论是玩电竞还是桌游，实则是变相加班的服从性游戏，挤占了他原本就不多的休息时间。而公司也因为他拒绝参加团建而将他“踢出”企业微信，劝他离职。\n“占用职工休息时间开展团建活动并非个案。”曾在厦门一家团建公司做团建师的马锡岳坦言，在团建行业，每周存在淡旺周期，周一至周四相对清闲，周末异常繁忙。他表示：“企业一般不希望占用工作时间团建，这直接抬升了周末团建市场的热度。”\n在社交平台上，中国团建产业联盟秘书长岳磊收到过不少职工对团建的抱怨。谈及组织团建，岳磊给企业提出的第一条建议便是：“要想办好团建，就应该让职工有享受感，而非劳作感。”\n福建省法学会劳动法学研究会理事方维忠告诉记者，公司在非工作时段强制职工参与团建活动，可视为要求职工强制加班，侵犯了职工休息休假的权利。\n“我无法容忍休息的权利被公司以集体的名义裹挟，也无法忍受我的权利遭到漠视和侵害。”曹旭最终和公司人事坐到了劳动争议调解室里的会议桌前。双方协商，解除劳动合同。曹旭在该公司工作了5年，公司向曹旭支付10个月工资作为经济补偿。\n有的团建活动超出职工心理和生理承受能力\n企业组织团建，有助于凝聚人心、加强团结、融洽感情、增进互信和认同。\n不过，记者采访发现，也有一些企业组织团建活动时有些“跑偏”，有的选择休息日团建，职工直呼：“上班已经很累了，团建不过是换个说法的加班。”有的开展荒野求生式团建，危险系数较高，超出了部分职工的心理和生理承受能力。企业组织类似团建，出钱又出力，结果却不受职工集体认同。\n还有的团建要求职工互扇耳光、跪地磕头，有侮辱人格之嫌。近日，成都某公司组织团建时，多名职工往一名女职工头上浇水的视频冲上热搜。即便公司回应称“公司训练职工自己承担责任，都是自愿的”，这一做法还是引得不少网友质疑和批评。\n“30多人集体爬高、高空腾跃、盲眼背摔，磨砺团队的信任感”“20个‘旱鸭子’组团下水，龙舟竞速，挑战团队的协作力”……做团建师期间，马锡岳见过不少类似的极端团建，“有人因畏高吓得大哭，有人因不满团建安排现场退团，还有的团因领队迷路导致全团被困悬崖，不得不呼叫山地救援。”\n“团建为的是促进团队关系和谐，人是团建项目的核心。”岳磊坦言，“尊重人、愉悦人、激励人、凝聚人才是团建的初衷。”\n团建活动应当尊重职工意愿\n在知乎上拥有10多万粉丝的潘诚凯对职场心理颇有研究。他告诉记者，如今，一些公司将团建搞成烧脑、费劲、挑战人性的活动，导致了原本意在凝聚人心的团建，极端化后反倒成了让职工逃离团队的理由。\n以路是福建一家新能源公司的人力资源副经理。她发现，今年上半年，企业下料车间的离职率比以往翻了一番。令她惊讶的是，在针对离职职工的电话回访中，超过70%的受访者表示，离职是因为“新车间主管上任后，团建活动太过频繁”。\n在梳理车间提交的团建活动清单后，以路发现，半年来这个车间每两周开展一次团建，不少职工疲于参加。\n采访中，不少职工向记者表达了对于“简单而有意义”的团建的向往，希望在愉悦的活动中增强跟同事的情感交流，同时领略企业文化的魅力。\n“多数团建的组织者初衷都是很好的，但他们可能缺乏科学的团队管理方法，对年轻人的心理缺乏必要的认知。”马锡岳发现，那些不受欢迎的团建项目往往表现出太强的目的性，而职工想要的，常常是团建作为一项职工福利的畅快感。在他看来，内容单纯简单、自愿参与的“轻团建”更受职工欢迎。\n“团建的底色应当是尊重和自愿，合理开展。”方维忠呼吁，企业组织团建要有边界感，要从职工需求出发，真正让它起到凝聚人心、推进合作的作用。\n（部分受访者为化名）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_25440341",
+          "publishedOn": "2023-11-27T06:53:07.000Z",
+          "wordCount": 27,
+          "title": "工人日报调查：团建活动不受一些职工待见，问题出在哪儿？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_25437897",
+          "author": null,
+          "description": "扫码点餐如今成了大多数商家便捷的点单途径，不少人吃饭喜欢打卡拍照，殊不知偶然把一些点单付费二维码拍到照片里分享后，会带来意想不到的麻烦。\n最近，云南昆明的王女士就碰上了这样一件糟心事儿：晒照时不小心拍到了桌上的点餐二维码，就被人恶意下单至40多万。\n\n视频截图\n\n女子晒照不慎拍到点餐码，遭恶意下单\n“23号晚上的时候我同学过生日，然后我们去吃火锅。刚开始只是想分享一下酥油茶等菜品，然后拍了酥油茶的图片不小心带了点单码。”11月25日，记者联系上王女士，她表示正因为这一举动，朋友圈发的点餐二维码不知道被谁扫码并点餐。\n下单金额到几万元时，火锅店内工作人员与王女士等人核实情况。意识到不对劲后，她删除了朋友圈。她说：“但可能是图片被保存了还在一直下单，店家没办法，系统不能关就只能给我们换一个空的桌号，那个桌号下的单就不配菜了。”\n据王女士介绍，“好友”为她们疯狂下单了43万多，后面还陆续下单至60多万，最终她们支付了最初点餐下单的应付金额。“大家发朋友圈的时候一定要记得不要露二维码，无脑的人干无聊的事真的太多了。”她说。\n王女士将自己这一次的奇葩经历制作成短视频分享到社交平台上，引发了网友的热议。记者注意到，评论区也有很多网友分享了自己类似的遭遇。也有网友表示，扫码点餐固然便捷，但也存在不少风险。\n律师：可建立相应机制杜绝此类情况\n针对此类事件，如果造成损失应该如何追究责任？商家和顾客能怎么做？\n四川一上律师事务所合伙人林小明律师表示，根据《民法典》的规定意思表示真实的民事法律行为有效。因此，网友“主动”扫码为顾客点单违背了顾客的真实意思表示，该点单的民事法律行为无效，对顾客而言合同无法成立，除非顾客事前委托或者事后追认。\n林小明表示，根据《民法典》规定受到欺诈的商家可以请求撤销并追究行为人的过错责任。如果造成损失，商家可以要求恶意或虚假为顾客点单的网友或路人承担赔偿责任。\n“网友或路人能‘代为’点单，说明相关信息可能遭到了泄露，一方面我们个体需要加强个人信息保护，另一方面若发现侵害个人信息的线索应当及时采取相应措施，比如通过报警等方式，避免因个人信息泄露或被侵害而引起扩大的损失。”他表示。\n同时，他建议商家应当设置合理的点菜程序，每桌的二维码只能同时锁定一到两个手机号点餐使用，并需要顾客的确认，从而更好地维护顾客利益和减少商家的麻烦。相关平台也可以建立相应机制杜绝类似情况，避免遭受损失，比如，点单者需要先向商家或者向第三方平台支付相应款项，对恶意或虚假点单的行为人进行信用减分等惩戒措施。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_25437897",
+          "publishedOn": "2023-11-27T06:53:07.000Z",
+          "wordCount": 32,
+          "title": "朋友圈晒照误拍点餐码，云南一女子被人恶意下单40多万元",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_25435538",
+          "author": null,
+          "description": "“要真能挣一个亿，我早就躺平了。”\n谈到外界传说中“一部短剧实现财务自由”的暴富神话，爆款短剧《无双》制作方西安丰行文化创始人李涛在接受澎湃新闻记者采访时坦言。\n公开数据显示，《无双》从8月25日起在微信小程序上线，播出8天后投放收入超1亿元，从此“8天收入过亿”就成为流传短剧圈的“暴富神话”。对此，李涛告诉记者，所谓的破亿，指的是整体收入，其中流量成本就超过九成，真正到手的利润仅几百万元。\n“这几百万元还要分给制片、编剧、后期等工作人员。”李涛向记者透露，作为14部爆款短剧的出品方，公司在短剧上的整体收入不到千万元，自己作为创始人和总导演，账上现金还不到百万元。\n爆红短剧实为“流量容器”\n曾经被不少人视为“有点low”的短剧，如今被称为“2023最赚钱赛道”。\n在外界看来，短剧指的是内容短、集数多、剧情发展较快的连续剧，总集数约为80-100集，而十集以后就需要付费解锁，单部剧花费在几十元至一百元不等。\n“爽。”谈到痴迷短剧的原因，一位短剧爱好者言简意赅地告诉记者，“看短剧就是为了解压，每次剪辑都在高潮点。”他坦言，之所以付费追完了数十部短剧，主要是好奇主角如何面临外界打压逆风翻盘、扬眉吐气，“说白了，和龙傲天的网文差不多。”\n\n爆款短剧《无双》拍摄花絮\n\n“都不用特意去关注，身边影视公司的朋友基本都在往短剧赛道里扎堆，这就是个快进快出的行业。”乐视版权部负责人许天扬描述了他眼中短剧市场的火爆，在他看来，目前的短剧市场可以分为两大类，第一是精品类短剧，大多为横屏观看，在腾讯、爱奇艺等长视频平台上播放，时长一般达到10-20分钟一集，制作成本和周期都比较长，普遍单集成本接近几十万元。\n另一类就是外界更为熟知的小程序短剧，用竖屏观看。往往单集成本不超过万元，甚至几百元也有，核心的成本不在内容制作，而是流量投放上，其剧情大多为千篇一律的“歪嘴战神”“霸道总裁”，与其说是“剧”，…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_25435538",
+          "publishedOn": "2023-11-27T06:53:07.000Z",
+          "wordCount": 48,
+          "title": "爆款短剧8天收入过亿？流量成本超九成，到手利润仅几百万",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_25440844",
+          "author": null,
+          "description": "为深入贯彻党的二十大精神和中央金融工作会议要求，全面落实《中共中央 国务院关于促进民营经济发展壮大的意见》，坚持“两个毫不动摇”，引导金融机构树立“一视同仁”理念，持续加强民营企业金融服务，近日，中国人民银行、金融监管总局、中国证监会、国家外汇局、国家发展改革委、工业和信息化部、财政部、全国工商联等八部门联合印发《关于强化金融支持举措 助力民营经济发展壮大的通知》（以下简称《通知》），提出支持民营经济的25条具体举措。\n《通知》明确金融服务民营企业目标和重点。总量上，通过制定民营企业年度服务目标、提高服务民营企业相关业务在绩效考核中的权重等，加大对民营企业的金融支持力度，逐步提升民营企业贷款占比。结构上，加大对科技创新、“专精特新”、绿色低碳、产业基础再造工程等重点领域以及民营中小微企业的支持力度。\n《通知》强调要从民营企业融资需求特点出发，着力畅通信贷、债券、股权等多元化融资渠道。银行业金融机构要加大首贷、信用贷支持力度，积极开展产业链供应链金融服务，主动做好民营企业资金接续服务，不盲目停贷、压贷、抽贷、断贷，同时抓好促发展和防风险。优化民营企业债务融资工具注册机制，充分发挥民营企业债券融资支持工具作用，扩大民营企业债券融资规模。鼓励和引导机构投资者积极科学配置民营企业债券，加大对民营企业债券投资力度。支持民营企业上市融资和并购重组，发挥区域性股权市场、股权投资基金对民营企业的支持服务作用，扩大优质民营企业股权融资规模。加大外汇便利化政策和服务供给，通过提升经常项目收支便利化水平、完善跨境投融资便利化政策、优化跨境金融外汇特色服务，支持民营企业“走出去”“引进来”。\n《通知》提出，要综合运用货币政策工具、财政奖补和保险保障等措施，提升金融机构服务民营经济的积极性。加强部门合作，完善信用信息共享、融资担保、便利票据贴现、应收账款确权、税收等配套政策和机制，增强民营经济金融承载力。金融机构要加强宣传解读，主动将金融支持政策、金融产品和服务信息推送至民营企业。各地金融管理、发展改革、工信、财税、工商联等部门加强沟通协调，强化督促指导，提升政策实效。\n下一步，中国人民银行等部门将指导金融机构抓紧落实《通知》要求，制定具体实施细则，同时，加强统计监测和政策效果评估，确保政策惠及民营企业。\n附件：中国人民银行 金融监管总局 中国证监会 国家外汇局 国家发展改革委 工业和信息化部 财政部 全国工商联关于强化金融支持举措 助力民营经济发展壮大的通知",
+          "link": "https://www.thepaper.cn/newsDetail_forward_25440844",
+          "publishedOn": "2023-11-27T06:53:07.000Z",
+          "wordCount": 49,
+          "title": "央行等八部门印发通知，提出25条举措助力民营经济发展壮大",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_25440983",
+          "author": null,
+          "description": "马航MH370航班是原马来西亚航空公司的一架波音777飞机，2014年3月8日由马来西亚吉隆坡飞往北京的途中失联，航班上共有239名乘客和机组人员，其中中国乘客154名。2015年1月29日，马来西亚民航局宣布MH370已失事，并推定机上239人已遇难。今天（11月27日），这起航空运输损害责任纠纷案在北京市朝阳区人民法院开庭审理。\n据了解，共有40多名乘客的家属提起了诉讼，案件将于11月27日至12月6日期间在北京朝阳法院分别开庭审理。\n\n乘客家属的代理律师介绍，这起案件的被告共有五个，分别是马来西亚航空公司，又称老马航，马来西亚国际航空有限公司又称新马航，美国波音公司，飞机发动机制造商英国罗罗公司和德国安联保险集团。在诉讼请求上，40多名乘客的家属不尽相同，但主要集中在两点，一是要求通过案件审理查明MH370航班失联事件的真相，二是赔偿问题。据了解，这次案件庭审最大的难点还是在于事件真相的查明。\n\nMH370航班乘客家属代理律师 张起淮：这次开庭我们提出被告是责任方，被告是责任方那么他就有义务去举证，去举证自己没有责任。现在举证不能或者举证不够、举证不全是这个案子审理过程中留下的巨大空洞。\n\n据了解，乘客家属提起的民事赔偿金额在1000万至8000万元人民币之间，因为各家的情况不同所以数额也不同，赔偿费用中很大一部分是精神损害抚慰金，高的有三四千万元。\n\n另据了解，除了此次在北京朝阳法院提起诉讼的40多名乘客的家属外，其他110余名乘客的家属均已和5名被告达成和解，签署了和解协议，领取的款项在250万到300万元人民币之间。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_25440983",
+          "publishedOn": "2023-11-27T06:53:07.000Z",
+          "wordCount": 41,
+          "title": "马航MH370乘客家属索赔案今天开庭审理",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_25442486",
+          "author": null,
+          "description": "中国驻多伦多总领馆26日说，4名中国留学生在加拿大安大略省多伦多市附近发生的一起严重交通事故中身亡。\n据当地警方消息，一起两车相撞事故于25日深夜发生在多伦多附近的60号公路上。警方说，其中一辆车上的4名青少年当场死亡，另一辆车上的一名42岁女子在送医后因伤势过重死亡。\n中国驻加拿大大使馆和驻多伦多总领馆证实这4名青少年为中国留学生。中国驻多伦多总领馆已启动应急机制，第一时间向安大略省警方核实情况并迅速与遇难留学生家属取得联系。\n目前，中国驻多伦多总领馆正全力妥善处理有关后续事宜，同时提醒中国在加留学生注意交通安全。（新华社）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_25442486",
+          "publishedOn": "2023-11-27T06:53:07.000Z",
+          "wordCount": 28,
+          "title": "4名中国留学生在加拿大遇车祸身亡，均为青少年",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_25442508",
+          "author": null,
+          "description": "11月27日，北证50尾盘涨幅再度扩大至10%，午后一度收窄至3%，成交额近285亿元。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_25442508",
+          "publishedOn": "2023-11-27T06:53:07.000Z",
+          "wordCount": 27,
+          "title": "北证50尾盘涨幅再度扩大至10%，午后一度收窄至3%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_25441233",
+          "author": null,
+          "description": "“要真能挣一个亿，我早就躺平了。”\n谈到外界传说中“一部短剧实现财务自由”的暴富神话，爆款短剧《无双》制作方西安丰行文化创始人李涛在接受澎湃新闻记者采访时坦言。\n公开数据显示，《无双》从8月25日起在微信小程序上线，播出8天后投放收入超1亿元，从此“8天收入过亿”就成为流传短剧圈的“暴富神话”。对此，李涛告诉记者，所谓的破亿，指的是整体收入，其中流量成本就超过九成，真正到手的利润仅几百万元。\n“这几百万元还要分给制片、编剧、后期等工作人员。”李涛向记者透露，作为14部爆款短剧的出品方，公司在短剧上的整体收入不到千万元，自己作为创始人和总导演，账上现金还不到百万元。（澎湃新闻记者 范佳来 实习生 郭思航）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_25441233",
+          "publishedOn": "2023-11-27T04:25:16.000Z",
+          "wordCount": 34,
+          "title": "爆款短剧8天收入过亿？流量成本超九成，到手利润仅几百万",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_25440339",
+          "author": null,
+          "description": "漫画/李晓军\n\n前几天，一个午休时间，兼职做读书博主的张芳（化名）使用所在单位电脑，整理其社交媒体账号上的一些事务时被老板看到，老板当即批评她上班不务正业，滥用公司资源。这让张芳很委屈：“午休时间不应该是我自己的时间吗？”\n近期，关于“打工人做副业是对还是错”的话题引发社会热议。北京大学国家发展研究院与智联招聘联合发布的《2022雇佣关系趋势报告》显示，有53.9%的职场人员正在从事兼职，这一比例在“00后”受访者中达到54.5%。智联招聘发布的《2022年白领满意度指数调研报告》也显示，2022年有59.1%的白领在搞副业，占比大幅高于2021年的32.1%。\n《法治日报》记者近日采访发现，很多职场年轻人都考虑过做副业，其中不少人正在做副业，有人因此获利、暗自得意，也有人因为做副业而被领导或同事“说闲话”，被冷落、扣绩效、降薪甚至被迫辞职。多位受访者提出，主业和副业如何划清边界也是个难题。\n受访专家表示，在不违反劳动合同义务的前提下做副业是合理合法的。如果公司发现劳动者从事副业或兼职，不能立刻解除劳动合同，除非其副业或兼职给本单位利益带来了损害。公司在遇到员工进行副业或兼职的情况下，应当积极沟通协商解决，采取侮辱或“挤兑”的方式是不妥的。\n因从事副业被排挤\n被指工作量不饱和\n辽宁大连市民王敏（化名）在一家事业单位从事后勤工作，除了上班外他还经营着一家网店。\n“其实也赚不了多少钱，一个月可能就卖几十单。”王敏告诉记者，她的主业和副业完全没有关系，而且自己都是在下班后或午休时间处理网店的事，但自从这件事被领导知道后，便处处针对自己，“领导经常在别的同事面前嘲讽我，说‘副业随便一做，就能赚好几万’”。\n“有时午休时间，大家聚在一起聊天的时候，领导还会特意走到我面前，说‘怎么感觉你的心思和精力都不在工作上，不要光想着做副业了’。”王敏说，面对这样的“嘲讽”，她很无奈，“其实自己的…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_25440339",
+          "publishedOn": "2023-11-27T03:55:18.000Z",
+          "wordCount": 31,
+          "title": "职场人做副业被排挤降薪乃至辞职，下班回家搞副业到底行不行",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_25441193",
+          "author": null,
+          "description": "乘联会秘书长崔东树今日发文表示，10月新能源车市场季节性走强，国内零售环比9月小幅上升，出口仍保持强势增长。今年以来由于锂和镍等原材料回落导致动力电池价格有下降的趋势，有利于企业年初减产，去历史库存，实现新品较强增量。今年以来累计零售597万辆，同比增长35%。1-10月累计出口85万台，同比增0.9倍，未来几个月全年新能源汽车出口预计仍较高增长。消费升级换购插混增长迅猛，因此10月新能源车市场的换购较强，拉动插混的强势增长。2023年新能源乘用车在大城市占到总销量31.2%，较2022年下降1.3个百分点，说明大城市的新能源车市场销量逐步增速放缓，近期的中型城市市场需求旺盛，县乡市场新能源逐步启动。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_25441193",
+          "publishedOn": "2023-11-27T03:55:18.000Z",
+          "wordCount": 27,
+          "title": "乘联会秘书长崔东树：中型城市新能源车市场需求旺盛",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_25441191",
+          "author": null,
+          "description": "11月27日，认证主体为江苏省南京市住房保障和房产局的微信公众号“南京房产微政务”发文称9月7日南京在同类城市中率先发布实施促进房地产市场发展的六项新举措。新政实施以来，全市房地产市场活力不断提升，新房和二手房交易规模保持增长。\n新政实施以来，全市新建商品房日均认购量和二手房日均网签量分别较之前提升51%和10%。10月当月全市新建商品房实现认购72万平方米，环比增长2.4%、同比增长12.7%，持续保持增长态势；二手房成交82万平方米，环比增长13.9%、同比增长32.2%，其中二手住宅日均成交约270套，持续保持高位水平。\n市规资部门落实取消远郊区容积率1.0的限制要求，并印发《南京市建设工程规划设计方案审查办法》，鼓励建筑底层设置视线通透、空间开敞、无围护结构的架空层，配置配电房、垃圾房、风雨连廊等7大类设施不计容积率，引导打造差异化高品质改善性住房。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_25441191",
+          "publishedOn": "2023-11-27T03:55:18.000Z",
+          "wordCount": 27,
+          "title": "南京：楼市新政以来，全市新建商品房日均认购量和二手房日均网签量分别提升51%和10%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_25435256",
+          "author": null,
+          "description": "当地时间11月26日，中共中央政治局委员、外交部长王毅在韩国釜山出席中日韩外长会期间会见韩国外长朴振。双方确认中韩战略合作伙伴关系定位，愿持续沿着这一方向向前推进。\n王毅表示，建交30多年来，中韩关系全面快速发展，双方相互成就、共同繁荣，给两国人民带来巨大福祉，也为地区和平稳定做出积极贡献。近一时期，国际地区形势发生很多重要变化，中韩关系也出现不少新情况。但中韩是搬不走的近邻，这个客观事实永远不会变。两国关系好双方受益，反之双方受损，这个道理也永远不会变。中韩关系发展应始终锚定友好合作的大方向，这对双方来说是必须做好的必答题，而非选答题。中方愿同韩方加强交往沟通，坚守建交初心，坚持互尊互信，排除外部干扰，确认战略合作伙伴关系定位，并不断为之增添新内涵。\n王毅指出，中韩已成为利益高度融合、产供链高度互嵌的合作伙伴。中国具有完备产业体系和超大规模市场，将实施更高水平开放，这将持续为中韩互利合作提供新机遇。双方应共同抵制经济问题政治化、科技问题工具化、经贸问题泛安全化的倾向，维护产供链稳定畅通，推动两国经贸合作取得更大发展。\n朴振表示，祝贺中国成功举办杭州亚运会。韩国政府重视韩中关系，认为韩中战略合作伙伴关系符合两国和两国人民的利益，愿持续向前推进，这是韩方的明确立场。韩方愿同中方加强各层级对话沟通，深化经贸合作，维护供应链稳定，促进人文交流，推动两国战略合作伙伴关系不断取得新发展。在加强双边合作的同时，韩中还可以就东亚和世界的和平稳定共同努力。韩中日三国外长会时隔4年多再次举行，期待会议取得积极成果，深化三国合作。\n王毅表示，中方支持韩方主办中日韩外长会，愿同韩方、日方共同推动三国合作重整行装再出发。\n双方就朝鲜半岛局势等交换了意见。王毅强调，中国始终是东北亚局势中的稳定力量，一直并将继续为缓和半岛局势发挥建设性作用。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_25435256",
+          "publishedOn": "2023-11-27T02:55:28.000Z",
+          "wordCount": 27,
+          "title": "王毅会见韩国外长朴振，双方确认中韩战略合作伙伴关系定位",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_25440969",
+          "author": null,
+          "description": "11月27日，预制菜板块逆势冲高，惠发食品2连板，国联水产大涨8%，味知香、大湖股份、同庆楼积极上扬。\n\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.run",
+          "link": "https://www.thepaper.cn/newsDetail_forward_25440969",
+          "publishedOn": "2023-11-27T02:55:28.000Z",
+          "wordCount": 27,
+          "title": "预制菜板块逆势冲高，惠发食品2连板",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_25437946",
+          "author": null,
+          "description": "中新网11月27日报道，羽绒服越来越贵，似乎是每年冬天都不会缺席的话题。你更愿意为更昂贵的羽绒服买单，还是反其道而行之？\n就在网友们为“你能接受千元以上的国产羽绒服吗”这一话题讨论不休时，今年冬天，一批“整顿羽绒服市场”的大学生重新穿上花棉袄、军大衣，属实是“不是羽绒服买不起，而是平替款更有性价比”。\n寒风之下的温暖生意，究竟发生了怎样的变化？\n\n图为市民穿羽绒服出行。马铭言 摄\n\n不断涨价，买件羽绒服不“绒”易\n1936年，世界上第一件真正意义上的羽绒服诞生。不到一百年的时间里，这种轻便、保暖的御寒衣物几乎进入了北方家家户户的衣橱，就连不少南方人也会常备一件。\n但在保暖之外，越来越多附加值被添加到羽绒服上，导致了其价格的接连攀升。“印象中羽绒服七八百块钱就已经很贵了，没想到现在一千多块钱都算正常价格了。”不少近期有购置羽绒服打算的人都发出了这样的感慨。\n这确实不是“身边即世界”的个人感受。据中华全国商业信息中心数据，2015年到2020年间，中国的羽绒服均价已经从438元升到656元，大型防寒服的价格突破1000元，其中2000元以上的占比接近70%。\n在售价越来越高的背后，是羽绒服的成本走高了吗？在江苏从事羽绒服生意的司女士对中新财经记者介绍了羽绒服的成本构成，除了面辅料、杂费等，其中最重要的自然是绒。\n“市面上羽绒服以鹅绒鸭绒为主，前面带的数字就是相应的绒的含量，比如90鹅绒、70鸭绒，数字越大越保暖。区别在于70的绒可能是翅膀的毛，80的绒是胸脯的毛，90的就是脖子的毛。”\n司女士说，鹅绒的价格是鸭绒的一倍还要多。同样是70-90的绒含量，鸭绒的价格在每公斤200-400元不等，鹅绒的价格则是每公斤500-900元。\n“每克的单价乘上充绒量，可以得出每件衣服的羽绒成本。”司女士举例，一件200克左右充绒量、绒质量中等、基础款式的羽绒服，最初的出厂价可能就在160元左…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_25437946",
+          "publishedOn": "2023-11-27T02:23:10.000Z",
+          "wordCount": 44,
+          "title": "不断涨价的羽绒服，把市场让给了军大衣？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_25440434",
+          "author": null,
+          "description": "11月26日，加拿大安大略省多伦多市附近发生严重交通事故，4名中国留学生车祸身亡。中国驻加拿大使馆和驻多伦多总领馆高度重视，丛培武大使要求我馆积极妥善处理有关事宜。我馆立即启动应急机制，第一时间向安大略省警方核实情况。同时，迅速与有关留学生家属取得联系，罗伟东总领事受正在外出差的丛培武大使委托向遇难者家属表示慰问。目前我馆正持续跟踪事件进展，全力妥善处理有关后续事宜，同时提醒在加学生关注交通安全。\n\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.run",
+          "link": "https://www.thepaper.cn/newsDetail_forward_25440434",
+          "publishedOn": "2023-11-27T02:23:10.000Z",
+          "wordCount": 27,
+          "title": "4名中国留学生在加拿大车祸身亡，中国驻多伦多总领馆紧急处理",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_25440871",
+          "author": null,
+          "description": "11月27日，创业板指跌幅扩大至1%，芒果超媒跌近4%领跌成分股，德方纳米、华大基因、鹏辉能源均跌超2%，宁德时代跌近2%下逼年内低点。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_25440871",
+          "publishedOn": "2023-11-27T02:23:10.000Z",
+          "wordCount": 27,
+          "title": "创业板指跌幅扩大至1%，芒果超媒跌近4%领跌成分股",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_25440891",
+          "author": null,
+          "description": "11月27日，北证50大涨逾9%，创年内新高，指数自底部反弹逾50%。\n\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.run",
+          "link": "https://www.thepaper.cn/newsDetail_forward_25440891",
+          "publishedOn": "2023-11-27T02:23:10.000Z",
+          "wordCount": 27,
+          "title": "北证50大涨逾9%，创年内新高，指数自底部反弹逾50%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_25440654",
+          "author": null,
+          "description": "据广西壮族自治区纪委监委消息：日前，经广西壮族自治区党委批准，自治区纪委监委对广西文化产业集团有限公司原总经理唐诚希严重违纪违法问题进行立案审查调查。经查，唐诚希严重违反党的组织纪律、廉洁纪律、生活纪律，构成严重职务违法并涉嫌受贿犯罪，且在党的十八大后不收敛、不收手，性质严重，影响恶劣，应予严肃处理。依据有关规定，经自治区纪委常委会会议研究并报自治区党委批准，决定给予唐诚希开除党籍处分；由自治区监委给予其开除公职处分；将其涉嫌犯罪问题移送检察机关依法审查起诉，所涉财物随案移送。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_25440654",
+          "publishedOn": "2023-11-27T01:23:04.000Z",
+          "wordCount": 27,
+          "title": "广西文化产业集团有限公司原总经理唐诚希被“双开”",
+          "imageUrl": null
+        },
         {
           "id": "https://www.thepaper.cn/newsDetail_forward_25436958",
           "author": null,
@@ -1466,6 +1686,26 @@
       "feedUrl": "https://www.nationalreview.com/feed/",
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1569547",
+          "author": "Luther Ray Abel",
+          "description": "U.S. Navy personnel, aided by a Japanese destroyer, arrested the gunmen after warning shots and close helo support.",
+          "link": "https://www.nationalreview.com/news/u-s-destroyer-captures-houthi-pirates-israeli-linked-tanker-saved/",
+          "publishedOn": "2023-11-27T02:52:18.000Z",
+          "wordCount": 8468,
+          "title": "U.S. Destroyer Captures Houthi Pirates, Israeli-Linked Tanker Saved",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/11/uss-mason.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1569517",
+          "author": "John Fund",
+          "description": "The American Spectator’s irreverent founder hasn’t retreated an inch from his lifelong battle against left-wing ‘Kultursmog.’",
+          "link": "https://www.nationalreview.com/2023/11/fifty-years-of-spectating-r-emmett-tyrrells-rousing-memoir-of-american-politics/",
+          "publishedOn": "2023-11-26T23:48:15.000Z",
+          "wordCount": 9078,
+          "title": "Fifty Years of Spectating — R. Emmett Tyrrell’s Rousing Memoir of American Politics",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/11/r-emmett-tyrrell-cspan-2012.jpg?fit=1200%2C700&ssl=1"
+        },
         {
           "id": "https://www.nationalreview.com/?post_type=blog-post&p=1569441",
           "author": "Caroline Downey",
@@ -6145,106 +6385,6 @@
           "wordCount": 8636,
           "title": "Israel Expands Ground Operation in Gaza in ‘Second Stage of War’ against Hamas",
           "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/10/bibi.jpg?fit=1200%2C700&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1558457",
-          "author": "Ari Blaff",
-          "description": "‘I urge all my fellow Republicans . . . to give our country a Republican standard-bearer that will, as Lincoln said, appeal to the better angels of our nature.’",
-          "link": "https://www.nationalreview.com/news/i-have-no-regrets-mike-pence-suspends-republican-presidential-bid/",
-          "publishedOn": "2023-10-28T19:14:27.000Z",
-          "wordCount": 8790,
-          "title": "‘I Have No Regrets’: Mike Pence Suspends Republican Presidential Bid",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/09/Pence-2.jpg?fit=1200%2C700&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1558412",
-          "author": "Ari Blaff",
-          "description": "Trucks carrying humanitarian aid crossed into the Gaza Strip from the Egyptian border for the first time last week.",
-          "link": "https://www.nationalreview.com/news/hamas-boasts-massive-stockpile-of-food-and-fuel-as-humanitarian-supplies-dwindle-in-gaza-report-edited/",
-          "publishedOn": "2023-10-28T16:27:20.000Z",
-          "wordCount": 8829,
-          "title": "Hamas Boasts Massive Stockpile of Food and Fuel as Humanitarian Supplies Dwindle in Gaza: Report (edited)",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/10/hamas.jpg?fit=1200%2C700&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1558383",
-          "author": "Ari Blaff",
-          "description": "In giving the order, the state university system chancellor cited the group’s ‘material support’ for Hamas.",
-          "link": "https://www.nationalreview.com/news/desantis-directs-florida-state-universities-to-deactivate-students-for-justice-in-palestine-group/",
-          "publishedOn": "2023-10-28T14:31:21.000Z",
-          "wordCount": 9321,
-          "title": "DeSantis Directs Florida State Universities to ‘Deactivate’ Students for Justice in Palestine Group",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/10/Ron-DeSantis-2.jpg?fit=1200%2C700&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1558368",
-          "author": "Ari Blaff",
-          "description": "The man suspected to be behind deadliest mass shooting in the U.S. since Uvalde had what appeared to be a self-inflicted gunshot wound.",
-          "link": "https://www.nationalreview.com/news/maine-mass-shooting-suspect-found-dead/",
-          "publishedOn": "2023-10-28T13:39:22.000Z",
-          "wordCount": 8744,
-          "title": "Maine Mass-Shooting Suspect Found Dead",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/10/maine-suspect-shooting.jpg?fit=1200%2C700&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1557804",
-          "author": "Peter Gattuso",
-          "description": "Like any fictional villain, neoliberalism has been given a nefarious origin story.",
-          "link": "https://www.nationalreview.com/2023/10/problems-on-campus-blame-neoliberalism-shoddy-study-says/",
-          "publishedOn": "2023-10-28T10:30:49.000Z",
-          "wordCount": 14470,
-          "title": "Problems on Campus? Blame ‘Neoliberalism,’ Shoddy Study Says",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2022/12/free-speech.jpg?fit=1200%2C700&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1557878",
-          "author": "Brian T. Allen",
-          "description": "Meiji Modern shows we can’t put Japanese 19th-century art in a box.",
-          "link": "https://www.nationalreview.com/2023/10/modernism-and-tradition-jostle-at-the-asia-society/",
-          "publishedOn": "2023-10-28T10:30:41.000Z",
-          "wordCount": 10443,
-          "title": "Modernism and Tradition Jostle at the Asia Society",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/10/oneb.jpg?fit=1200%2C700&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1558091",
-          "author": "Haley Strack",
-          "description": "China tightens its grip on critical minerals after U.S. restrictions target the Chinese tech sector.",
-          "link": "https://www.nationalreview.com/2023/10/a-wake-up-call-in-the-graphite-fight/",
-          "publishedOn": "2023-10-28T10:30:28.000Z",
-          "wordCount": 9233,
-          "title": "A Wake-Up Call in the Graphite Fight",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/10/graphite.jpg?fit=1200%2C700&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1557468",
-          "author": "Dominic Pino",
-          "description": "Taxes and government-imposed fees on air travel amount to a 20 to 25 percent federal tax, which funds an unaccountable and underperforming bureaucracy.",
-          "link": "https://www.nationalreview.com/2023/10/air-travel-junk-fees-come-from-the-government/",
-          "publishedOn": "2023-10-28T10:30:27.000Z",
-          "wordCount": 9356,
-          "title": "Air-Travel ‘Junk Fees’ Come from the Government",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/10/lod.jpg?fit=1200%2C700&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1558023",
-          "author": "Andrew C. McCarthy",
-          "description": "Both DeSantis and Nikki Haley would do a better job than either Joe Biden or Donald Trump of protecting America in a dangerous world.",
-          "link": "https://www.nationalreview.com/2023/10/the-swipes-at-ron-desantiss-foreign-policy-chops-are-unconvincing/",
-          "publishedOn": "2023-10-28T10:30:21.000Z",
-          "wordCount": 10039,
-          "title": "The Swipes at Ron DeSantis’s Foreign-Policy Chops Are Unconvincing",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/10/desnatis.jpg?fit=1200%2C700&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1557473",
-          "author": "Michael Brendan Dougherty",
-          "description": "A lament for the land beyond the pines.",
-          "link": "https://www.nationalreview.com/2023/10/the-upstate-of-my-dreams/",
-          "publishedOn": "2023-10-28T10:30:14.000Z",
-          "wordCount": 9125,
-          "title": "The Upstate of My Dreams",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/10/sew.jpg?fit=1200%2C700&ssl=1"
         }
       ]
     },
@@ -6253,6 +6393,26 @@
       "feedUrl": "https://sspai.com/feed",
       "siteUrl": "https://sspai.com",
       "articles": [
+        {
+          "id": "https://sspai.com/post/84597",
+          "author": "MrCoffeeTalker",
+          "description": "Notion 的 AI 对话模式虽不能说超出我的预期，但确实在我想象的方向上让 Notion 走得更远了，也让我更想把笔记放在 Notion 里了。查看全文",
+          "link": "https://sspai.com/post/84597",
+          "publishedOn": "2023-11-27T03:30:00.000Z",
+          "wordCount": 1217,
+          "title": "与知识库对话、用嘴找笔记：Notion AI 对话模式体验",
+          "imageUrl": "https://cdn.sspai.com/2023/11/24/1e4d09019a95ad75c16dc1c023f3fc24.png"
+        },
+        {
+          "id": "https://sspai.com/post/84648",
+          "author": "少数派编辑部",
+          "description": "你可能错过的新鲜事淘宝将双12改名「年终好价节」11月24日，淘宝在「商家服务大厅」发布通知，称今年12月会举办平台大型活动「淘宝年终好价节」，预计11月底开始招商。淘宝曾于今年618期间使用过「好价 ...查看全文",
+          "link": "https://sspai.com/post/84648",
+          "publishedOn": "2023-11-27T00:50:45.000Z",
+          "wordCount": 824,
+          "title": "派早报：淘宝将双 12 改名「年终好价节」",
+          "imageUrl": "https://cdn.sspai.com/11/27/2023/article/55243596-7140-cf69-59fa-7869034e7892.png"
+        },
         {
           "id": "https://sspai.com/post/84622",
           "author": "北鸮",
@@ -7342,16 +7502,6 @@
           "wordCount": 816,
           "title": "如何用 Make 自动化将即刻动态同步到 Notion",
           "imageUrl": "https://cdn.sspai.com/2023/10/11/df3a25ed83eecddcdf30153b4b24ac96.png"
-        },
-        {
-          "id": "https://sspai.com/post/83441",
-          "author": "Shobek",
-          "description": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
-          "link": "https://sspai.com/post/83441",
-          "publishedOn": "2023-10-28T05:11:42.000Z",
-          "wordCount": 687,
-          "title": "识图：在茫茫手机相册中精准定位想要照片",
-          "imageUrl": "https://cdn.sspai.com/2023/10/28/article/40c2fb40-6a06-fcff-7dbc-0d6397847f15.jpg"
         }
       ]
     },
@@ -7360,6 +7510,56 @@
       "feedUrl": "https://plink.anyfeeder.com/idaily/today",
       "siteUrl": "https://docs.rsshub.app",
       "articles": [
+        {
+          "id": "https://m.idai.ly/se/14afCx",
+          "author": null,
+          "description": "俯瞰德国科隆大教堂前的圣诞集市。11月24日，德国联邦统计局公布数据显示2023年第3季度 GDP 同比下降-0.8%，主要原因为家庭消费支出下降和对外贸易萎缩，其中家庭消费支出同比减少-2.0%，商品和贸易对外出口下降-3.8%，进口下降-5.7%。欧盟所有主要国家在2023年下半年经济均出现疲软迹象，德国经济主要受到全球订单减少、能源成本和利率上升的负面影响。德国政府预测2023年全年 GDP 将录得负增长-0.4%。摄影师：Sascha Thele",
+          "link": "https://m.idai.ly/se/14afCx",
+          "publishedOn": "2023-11-26T11:59:00.000Z",
+          "wordCount": 1303,
+          "title": "德国2023年3季GDP下降-0.8%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.idai.ly/se/191Qr9",
+          "author": null,
+          "description": "美国总统 Joe Biden 针对以巴临时停火协议发表讲话，马萨诸塞州。11月25日，以色列和哈马斯组织分别释放第二批扣押人员，迄今哈马斯已释放41名被扣押的以色列人和外国公民，以色列释放78名巴勒斯坦人。双方临时停火协议生效后已有340辆救援物资卡车进入加沙地带，其中65辆抵达加沙北部，送达物资主要包括食物、水和紧急医疗用品。摄影师：Brendan Smialowski",
+          "link": "https://m.idai.ly/se/191Qr9",
+          "publishedOn": "2023-11-26T10:57:00.000Z",
+          "wordCount": 1303,
+          "title": "以色列哈马斯分批释放人质",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.idai.ly/se/3f6T2q",
+          "author": null,
+          "description": "中国外交部长王毅与日本外务大臣上川阳子在中日韩外长会前举行双边会晤，韩国釜山。11月25日，中日外长举行1小时40分钟会谈。王毅敦促日方在台湾问题上信守承诺，切实恪守一个中国原则，不得干涉中国内政。王毅指出福岛核污染水排海事关海洋安全和民众健康，中方反对日方的不负责任作法，呼吁建立各利益攸关方全面、有效、独立推进的长期监测机制。当天中日韩时隔4年首次举行三方外长会谈，由于中方行程安排有所变动，本次三方外长会议未举办联合记者会。摄影师：iDaily Media",
+          "link": "https://m.idai.ly/se/3f6T2q",
+          "publishedOn": "2023-11-26T09:55:00.000Z",
+          "wordCount": 1303,
+          "title": "第10次中日韩外长会",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.idai.ly/se/87b6Yl",
+          "author": null,
+          "description": "朝鲜最高领导人金正恩视察国家航空宇宙技术总局平壤综合管制所。11月25日，金正恩访问国家航空宇宙技术局了解「万里镜-1」号侦查卫星运行工作准备情况。朝鲜政府称「万里镜-1」号已获取到韩美主要军事基地图像，并拍摄到停靠在韩国釜山的美国海军「卡尔·文森」号核动力航母。朝鲜国防省本周严厉批评韩国中止《板门店宣言》部分条款效力，宣布朝鲜军方从即刻起不受该协议约束，立即恢复根据该协议停止的一切军事措施，并在军事分界线一带部署更强大兵力和新型军事装备。摄影师：KCNA",
+          "link": "https://m.idai.ly/se/87b6Yl",
+          "publishedOn": "2023-11-26T09:53:00.000Z",
+          "wordCount": 1303,
+          "title": "朝鲜侦查卫星运行调试",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.idai.ly/se/3f5bC9",
+          "author": null,
+          "description": "2023年新加坡亚洲动漫节（Anime Festival Asia）在新达城会议中心举行，一名 Cosplay 表演者向访客做出欢迎手势。11月24日，新加坡亚洲动漫节正式开幕，本届活动持续3天，共有超过70家动漫游戏企业参展，预计吸引超过15万动漫爱好者参加。新加坡旅游局数据显示2023年10月外国游客访问同比增长37.8%，排名前五的游客来源地依次为印度尼西亚、中国大陆、印度、马来西亚和澳大利亚。新加坡本年度迄今已累计接待1130万外国游客，全年入境游客有望达到1200万至1400万人次。摄影师：How Hwee Young",
+          "link": "https://m.idai.ly/se/3f5bC9",
+          "publishedOn": "2023-11-26T09:51:00.000Z",
+          "wordCount": 1303,
+          "title": "新加坡亚洲动漫节开幕",
+          "imageUrl": null
+        },
         {
           "id": "https://m.idai.ly/se/658R3h",
           "author": null,
@@ -9369,26 +9569,6 @@
           "wordCount": 1239,
           "title": "旅美大熊猫提前归国",
           "imageUrl": null
-        },
-        {
-          "id": "https://m.idai.ly/se/087gpl",
-          "author": null,
-          "description": "俄罗斯宇航员 Oleg Kononenko 和 Nikolai Chub 执行太空行走任务，国际空间站。10月25日，2名俄宇航员一同执行2023年第6次太空行走，历时7小时41分钟，主要任务包括为「科学号」实验舱安装雷达通信系统，检查出现冷却剂泄漏故障的散热器系统，并释放一颗测试太阳帆技术的纳米卫星。宇航员 Oleg Kononenko 的一条太空行走系绳接触到泄漏的冷却剂，因此在任务结束时被装袋弃置于空间站外。摄影师：NASA",
-          "link": "https://m.idai.ly/se/087gpl",
-          "publishedOn": "2023-10-28T05:59:00.000Z",
-          "wordCount": 1229,
-          "title": "俄宇航员太空行走",
-          "imageUrl": null
-        },
-        {
-          "id": "https://m.idai.ly/se/80f5Vd",
-          "author": null,
-          "description": "中国外交部长王毅与美国国务卿 Antony Blinken 举行双边会谈，华盛顿特区。10月27日，中美外长举行第二轮会谈，主要就中美关系、巴以冲突等国际和地区问题进行总长约9小时会谈。Blinken 表示美方愿同中方探讨合作领域，筹备下阶段高层交往。双方同意为实现中美元首旧金山会晤而共同努力。当天美国总统 Joe Biden 与王毅进行会晤时强调两国必须负责任地管理竞争，Biden 还就中国前总理李克强逝世表示哀悼。摄影师：Saul Loeb",
-          "link": "https://m.idai.ly/se/80f5Vd",
-          "publishedOn": "2023-10-28T04:58:00.000Z",
-          "wordCount": 1229,
-          "title": "中美外长第二轮会谈",
-          "imageUrl": null
         }
       ]
     },
@@ -9397,6 +9577,36 @@
       "feedUrl": "https://plink.anyfeeder.com/nytimes/dual",
       "siteUrl": "http://nytimes.com",
       "articles": [
+        {
+          "id": "https://cn.nytimes.com/usa/20231127/china-migrants-us-border/dual",
+          "author": null,
+          "description": "EILEEN SULLIVAN2023年11月27日4月，得克萨斯州。来自中国的一家移民向边境巡逻队自首后被带走。 Reuters\nThe surge of migrants entering the United States across the southern border increasingly includes people from a surprising place: China.\n跨越南部边境进入美国的移民潮中，越来越多的人来自一个令人惊讶的地方：中国。\nDespite the distances involved and the difficulties of the journey, more than 24,000 Chinese citizens have been apprehended crossing into the United States from Mexico in the past year. That is more than in the preceding 10 years combined, according to government data.\n尽管路途遥远，旅程艰难，但去年有超过2.4万名中国公民从墨西哥越境进入美国时被逮捕。政府数据显示，这一数字超过了此前10年的总和。\nThey typically fly into Ecuador, where they do not need a visa. Then, like hundreds of thousands of other migrants from Central and South America and more distant locations, they pay smugglers to guide their travel through …",
+          "link": "https://cn.nytimes.com/usa/20231127/china-migrants-us-border/dual",
+          "publishedOn": "2023-11-27T05:06:04.000Z",
+          "wordCount": 1539,
+          "title": "“走线润美”：自南美入境美国的中国移民数量骤增",
+          "imageUrl": "https://static01.nyt.com/images/2023/11/20/multimedia/00dc-immig-chinese-01-zcgw/00dc-immig-chinese-01-zcgw-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/asia-pacific/20231127/taiwan-president-opposition-collapse/dual",
+          "author": null,
+          "description": "储百亮, AMY CHANG CHIEN2023年11月27日郭台铭、马英九和侯友宜（从左至右）上周四在台湾举行的一个对记者开放的会议上。 Carlos Garcia Rawlins/Reuters\nFor weeks, Taiwan’s two main opposition parties were edging toward a coalition, in a bid to unseat the island democracy’s governing party in the coming presidential election, an outcome that Beijing would welcome. The election, one elder statesman from Taiwan’s opposition said, was a choice between war and peace.\n为了在即将到来的总统大选中击败执政党（这是中国政府欢迎的结果），台湾的两个主要在野党几周来曾慢慢走向联合。台湾反对党的一名政坛元老曾将这次大选描述为战争与和平的选择。\nThis week, though, the two parties — which both argue that they are better able to ensure peace with China — chose in spectacular fashion to go to war against each other. An incipient deal for a joint presidential ticket between the long-established Nationalist Party and the upstart Taiwan People’s P…",
+          "link": "https://cn.nytimes.com/asia-pacific/20231127/taiwan-president-opposition-collapse/dual",
+          "publishedOn": "2023-11-27T03:06:04.000Z",
+          "wordCount": 1584,
+          "title": "台湾“蓝白合”破局，将如何影响大选走向",
+          "imageUrl": "https://static01.nyt.com/images/2023/11/24/multimedia/24TAIWAN-POLITICS-zlhp/24TAIWAN-POLITICS-zlhp-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/asia-pacific/20231127/taiwan-china-disinformation/dual",
+          "author": null,
+          "description": "TIFFANY HSU, AMY CHANG CHIEN, STEVEN LEE MYERS2023年11月27日台北的赖清德竞选广告，他的总统竞选成为一条深度伪造音频的目标。 An Rong Xu for The New York Times\nSuspicious videos that began circulating in Taiwan this month seemed to show the country’s leader advertising cryptocurrency investments.\n本月开始在台湾流传的可疑视频似乎显示，台湾领导人正在给加密币投资做广告。\nPresident Tsai Ing-wen, who has repeatedly risked Beijing’s ire by asserting her island’s autonomy, appeared to claim in the clips that the government helped develop investment software for digital currencies, using a term that is common in China but rarely used in Taiwan. Her mouth appeared blurry and her voice unfamiliar, leading Taiwan’s Criminal Investigation Bureau to deem the video to be almost certainly a deepfake — an artificially generated spoof — and potentially one created by Chinese ag…",
+          "link": "https://cn.nytimes.com/asia-pacific/20231127/taiwan-china-disinformation/dual",
+          "publishedOn": "2023-11-27T00:36:04.000Z",
+          "wordCount": 1607,
+          "title": "台湾能继续抵御来自中国的虚假信息攻击吗",
+          "imageUrl": "https://static01.nyt.com/images/2023/11/20/multimedia/TAIWAN-DISINFO-04-fvqh/TAIWAN-DISINFO-04-fvqh-articleLarge.jpg"
+        },
         {
           "id": "https://cn.nytimes.com/opinion/20231124/sam-altman-openai/dual",
           "author": null,
