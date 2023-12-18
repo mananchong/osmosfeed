@@ -6,6 +6,16 @@
       "siteUrl": "https://rweekly.org/atom.xml",
       "articles": [
         {
+          "id": "https://rweekly.org/2023-W51.html",
+          "author": null,
+          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Ryo Nakagawara, with help from the R Weekly team members and contributors.\nHighlight\nStyle your code output with {epoxy}\nGet Good with R: Typing Skills and Shortcuts\nIntroduction to reproducible reporting with Quarto\nInsights\nEmpowering R in Paris: Mouna Belaid’s Journey with R-Ladies and the French R Community\nIntroduction of R activities in Japan \nfemR: Bridging Physics and Statistics in R with Support from the R Consortium\nThe 10 most popular R books of 2023\nR in the Real World\nKnowledge Retrieval and Task Automation: with R and GPT on the Histories\nPatience is overrated – embrace the thrill of parsing streaming data as it arrives!\nR in Organizations\nNew R/Insurance Webin…",
+          "link": "https://rweekly.org/2023-W51.html",
+          "publishedOn": "2023-12-18T00:00:00.000Z",
+          "wordCount": 5955,
+          "title": "R Weekly 2023-W51 Style code with {epoxy}, R typing shortcuts, quarto reproducible reporting",
+          "imageUrl": "https://rweekly.org/public/facebook.png"
+        },
+        {
           "id": "https://rweekly.org/2023-W50.html",
           "author": null,
           "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Jon Calder, with help from the R Weekly team members and contributors.\nHighlight\nAre Birth Dates Still Destiny for Canadian NHL Players?\nQuarto Dashboards\nWhy is View() capitalized, anyway?\nInsights\nBe Part of the Global R community!\nWhy is View() capitalized, anyway?\nThat’s a (W)RAP!\nR in the Real World\nR Implementation in China’s Pharmaceutical Industry in 2023\nR in Organizations\nR Validation Hub Community Meeting – December Recap\nGet a Git repo where your team can stow their throwaway data science code!\nResources\nState of the R – the New Stuff\nHierarchical classification with Tabnet and C-HMCNN\nShiny for R updates: new default look, dark mode, shinylive updates, and more\n…",
@@ -461,16 +471,6 @@
           "wordCount": 351,
           "title": "《南史》专题︱徐俊：王仲荦先生与“南朝五史”点校",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_25337324",
-          "author": null,
-          "description": "张金龙（章静 绘）\n\n从上世纪五十年代到七十年代，陆续完成、出版的点校本“二十四史”是新中国古籍整理出版工作的代表性成果。然而，限于当时的条件，点校本仍然存在不少不足，标点也有一些值得商榷的地方。2006年，点校本“二十四史”的修订工程启动，2013年以来，新的修订本陆续推出，近期问世的《南史》修订本是这一工程的最新成果。《南史》的修订由首都师范大学张金龙教授负责，《上海书评》请他谈了《南史》和《南史》修订的相关问题。\n《南史》以八十卷的体量撰写宋、齐、梁、陈一百七十年历史，就其编纂情况和内容特点，请您做一简要介绍。\n张金龙：《南史》全书八十卷，分为本纪十卷、列传七十卷，是记述南朝宋、齐、梁、陈四朝一百七十年（420至589年）历史变迁中各类人物事迹的纪传体史书。《南史》只有纪、传而没有表、志，似乎显得体例不够完备。究其原因，主要还是因为表、志修撰比起纪、传困难更大。就表而论，需要更细致精确的史料，当时李延寿并不能掌握修表所具备的基本资料。再者，南北朝史书的志都已无缺，其中涉及梁、陈、北齐、北周、隋五朝的《隋书》十志（《五代史志》）的修撰，李延寿是主要参撰者，加上《宋书》《南齐书》和《魏书》的志，体量不小，他大概没有精力和时间对之进行删削，而且典志涉及范围广泛，以一人之力熟悉这么多朝代的所有典章制度几乎不大可能。如果把志也列入《南史》和《北史》的编撰计划中，工作量可能还要翻倍，在当时来说并不具备可行性。\n李延寿的修史工作深受其父李大师的影响，请问这种影响主要体现在什么方面？根据李延寿的记述，李大师是希望能拟《吴越春秋》而以编年体修撰南北朝史，为什么最后李延寿没有采用其父编年体的修撰设想，而采用了纪传体？\n张金龙：《南史》和《北史》虽为李延寿独撰，但其缘起则始于其父李大师，也可以说这两部史书体现了李氏父子二人的历史观。《北史·序传》载：“大师少有著述之志，常以宋、齐、梁、陈、…",
-          "link": "https://www.thepaper.cn/newsDetail_forward_25337324",
-          "publishedOn": "2023-11-19T04:02:10.000Z",
-          "wordCount": 65,
-          "title": "《南史》专题︱张金龙谈点校本《南史》修订",
-          "imageUrl": null
         }
       ]
     },
@@ -479,6 +479,206 @@
       "feedUrl": "https://feedx.net/rss/thepaper.xml",
       "siteUrl": "http://thepaper.cn",
       "articles": [
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_25694960",
+          "author": null,
+          "description": "湘潭市公安局岳塘分局12月18日发布警情通报：2023年12月17日17时53分，接群众报警称岳塘区双马街道恒大翡翠华庭小区发生一起犬只伤人事件。接警后，湘潭市公安局岳塘分局民警迅速赶至现场处置。\n经查，12月17日17时22分许，王女士（61岁）从小区南门路过时，突遇一德牧犬攻击，被该犬咬伤。目前，王女士正在医院接受治疗，生命体征平稳。伤人犬只被控制，犬只主人已被传唤至公安机关接受调查，案件正在深入办理中。\n\n另据极目新闻消息，12月17日，有网友发视频称，湖南湘潭市恒大翡翠华庭小区外发生一起狗咬人事件，一名女子被一只黑狗持续撕咬，知情者称其胳膊脖子都被咬伤。18日，极目新闻记者从小区物业和辖区派出所处了解到，咬人的狗已经被警方控制，被咬人员系当地村民已经送医治疗。\n据网友发布的两段视频显示，在一条沿街人行道上，一只黑色大型犬只持续撕咬一名女子。在视频中，女子被一只黑狗从人行道撕咬拖拽至路边。两段均长达一分钟的视频中，女子被黑狗持续撕咬，地上还有血迹。视频中，有市民用砖头和棍棒击打黑狗，还有人抓住咬人黑狗的项圈，试图救下被咬女子，旁边也有群众表示已拨打110报警。\n17日晚，极目新闻记者联系到视频发布者。据其介绍，他在小区业主群里看到了这两段视频，视频中狗咬人残忍一幕发生在湘潭市恒大翡翠华庭南门沿街门面的人行道上，涉事咬人黑狗是小区外门面商户所养，“那个大姐一开始被咬胳膊，后来背部和脖子都被咬了”。这名视频发布者表示，希望有关部门能够将这条咬人黑狗处理掉，“我们业主也都怕，不是一次两次了，以前咬死过小狗，都没被处理”。\n他还发来了一段疑似涉事黑狗咬泰迪的视频。视频中，一只黑色大狗咬着一只泰迪犬，向远处跑去，这只黑狗脖颈上套有项圈。视频发布者说，他们收到物业管家关于狗咬人的情况说明，截图显示，物业称警方已经介入处理，被咬人员是附近村民，事发时正在马路上正常行走，对于涉事犬只主人，物业已经多次上门沟通要求牵绳管好。\n18日，极目新闻记者致电小区物业了解情况，物业工作人员称，被咬女子是附近村的村民，已经送医治疗，“应该是没有生命危险的，但肯定是受伤了的”。涉事犬只目前已经被警方控制。\n“那只狗是锁在他们店铺里的，可能是狗主人一时没看住就跑出来了。”该物业人员还表示，目前不清楚狗主人是商铺业主还是租户，此前涉事犬只与其他狗互相撕咬过，“我们当时上门与狗主人沟通，让他不要养这种狗”。湘潭市岳塘区双马派出所工作人员告诉极目新闻记者，涉事咬人犬只已经被控制，被咬女子已经送医治疗。\n极目新闻记者注意到，今年10月16日，四川成都一名2岁女童被未拴绳的罗威纳犬咬伤，犬主人唐某在事发后被警方依法采取刑事强制措施。\n四川鼎尺律师事务所律师胡磊向极目新闻记者表示，按照《民法典》第1245条规定，饲养的动物造成他人损害的，动物饲养人或者管理人应当承担侵权责任。按照民法典规定，黑色犬只有主人的情况下，那狗主人肯定需要承担侵权责任。如果该黑色犬只是流浪狗，根据民法典相关规定，遗弃、逃逸的动物在遗弃、逃逸期间造成他人损害的，由动物原饲养人或者管理人承担侵权责任，但如果是找不到流浪狗的身份信息，目前法律上还没有明确谁来负责。\n胡磊还表示，除了民事责任外，如果受伤妇女的伤情构成了重伤或重伤以上，那么饲养人或者管理者除了应当承担民事责任以外，还可能会被追究刑事责任，例如涉嫌过失致人重伤罪或过失致人死亡罪等。按照刑法关于前述两个罪名的规定，最高将会被判处七年以下有期徒刑。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_25694960",
+          "publishedOn": "2023-12-18T15:53:08.000Z",
+          "wordCount": null,
+          "title": "湖南湘潭女子被德牧犬咬伤，犬只被控制、其主人接受警方调查",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_25701392",
+          "author": null,
+          "description": "12月18日晚间，万达酒店发展（00169.HK）公告称，2023年12月18日，董事会决议召开公司股东特别大会，以根据公司经修订及重列的公司细则审议免去丁本锡非执行董事职务及选任刘英武为执行董事。建议免任非执行董事自2023年9月1日起，董事会无法与丁本锡取得联系。因此，自2023年9月1日起，其未有履行其非执行董事的职务。\n万达酒店发展称，根据公司细则第104条，不论公司细则或公司与该董事所订立的任何协议载有任何规定（不损害该董事就与本公司所订立任何合约遭违反而产生的损害所提出的任何索偿），公司可于董事任期届满前以普通决议案免任任何董事，并可推选另一名人士替代其职位。\n万达酒店发展表示，经考虑上述因素，为确保董事会日常经营效率，董事会决议召开股东特别大会以普通决议案的方式审议并批准建议免任。（澎湃新闻记者 李晓青）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_25701392",
+          "publishedOn": "2023-12-18T15:23:07.000Z",
+          "wordCount": null,
+          "title": "万达酒店发展：自9月1日起无法联系到丁本锡，免去其非执行董事职务",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_25697731",
+          "author": null,
+          "description": "近日，上海市民黄先生反映，为了让孩子入读小学，他们全家人在沪上知名连锁房屋中介机构的带看下，决定花费近1300万元置换一套符合入学条件的二手房。一开始，中介机构多次向黄先生展示内网系统该房入学资格“未占用”的情况，还信誓旦旦地一再承诺“没问题”。但直到黄先生卖了旧房，签了购房合同，付了60万元定金后，中介才告知该房“入学资格”已于2021年被使用过。\n这下子，黄先生真是“欲哭无泪”：不买房要违约赔钱，买了房，孩子根本没法就读对口的小学，一家人陷入了走投无路的境地！\n中介信誓旦旦，买家签约购房\n今年7月，黄先生和家人通过一家中介机构踏上了“房屋置换”之旅。他们花了几个月时间，看了十来个小区的房源，最终选中了浦东新区联洋花园的房子。\n于是，今年9月，黄先生在该中介挂牌将现在居住的房子出售，10月完成交易，共卖得700多万元。紧接着，黄先生又在11月办理手续，准备置换联洋花园这套总价近1300万元的房子。\n黄先生回忆，就在签署合同的现场，他们一家人仍反复要求中介给出明确的回答，“即使到了签购房合同的前一刻，我们还再三向中介确认，房子对口学校的入学资格有没有被使用过？”\n面对购房者的重重顾虑，中介立即抛出了所谓的“定心丸”，一而再再而三地强调：“内网系统显示，该房对口的幼儿园、小学、初中的入学资格均‘未占用’。我们还特地向卖家确认过，不会拿这么重要的事开玩笑的。”\n\n中介机构系统后台显示的“入学资格”使用情况。\n\n于是，11月22日晚，在中介一次次“拍胸脯”担保之下，黄先生与卖家签订了购房合同，支付对方60万元定金，约定明年1月份网签过户。\n遭遇晴天霹雳，孩子无法入学\n签完合同后，黄先生总觉得心里不踏实，他又仔仔细细翻看了中介提供的书面协议内的各项条款，竟发现里面没有“该房对口学校入学资格未占用”等内容。\n11月24日一大早，黄先生急急忙忙拨通了中介的电话，让对方必须马上找卖家签署“房屋对口学校入学资格未占用”的承诺书。而此时此刻，中介给出的回复竟是：房屋对口学校的入学资格曾于2021年被使用过，至今才两年多，不能满足对口学校“房屋入学名额5年未被使用”的要求。\n这个消息犹如晴天霹雳，顿时“雷”得黄先生“七窍生烟”，用他的话来说“我被气得都快要吐血了”。据黄先生所述，置换房屋几乎掏空了家底。因为“众所周知”的缘故，他接受了比同小区“已使用入学资格”房屋每平方米高出近7000元的房价，就算已经卖了现在住的房子，也要背负数百万元的贷款。\n最棘手的是，他的孩子现在没法入学了，这可是耽误不起的大事啊！\n指称卖家隐瞒，损失谁来承担\n根据黄先生提供的他与中介机构相关负责人的通话录音，记者了解到：就在签合同前，中介方还一直提及“学区未占用，你们不用担心”，表示将向黄先生提供机构内网系统登记的该套房屋入学名额“未占用”的相关证据。而事发后，当黄先生讨要说法时，该负责人却在电话里回应称“是卖方欺骗了我们”。\n黄先生指出，造成他可能蒙受巨大损失的原因，完全是中介机构在签约付款前对“房屋入学名额是否被占用”这一关键信息没有尽到审核的义务和责任，更没有在购房合同中要求卖方做出承诺。\n黄先生认为，在房屋交易流程中，买卖双方只能议价，而对于房屋情况的尽调，购房者只能无条件地信赖中介机构，中介机构必须也有必要明确、准确地提供各项信息，使购房者能即时作出符合自身需求的判断，有效规避相应的风险。\n记者与该中介机构取得联系，并提出：在上海市房地产经纪行业协会发出“规范房源挂牌和信息发布的自律倡议”后，上海主要房地产经纪平台企业都曾响应“在线上线下房源发布信息中，不使用‘学区房’进行推介宣传；在业务经营中，不以‘学区房’名义误导购房者”，但为何系统后台仍会标注“学区占用或未占用”的信息？而在此事件中，到底是卖家在刻意隐瞒，还是中介机构在“瞒天过海”？\n针对这一连串的问题，对方回复称，门店签约的房间装有监控，将仔细核实相关情况。就目前掌握的情况，确实是卖家隐瞒了入学资格已被使用的情况，“公司已成立多个部门人员参与的协调组，正全力解决黄先生的购房纠纷。”\n（原标题为：《惨了！1300万元买房，孩子的入学资格竟然“已占用”！上海娃爸，欲哭无泪→》）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_25697731",
+          "publishedOn": "2023-12-18T14:53:06.000Z",
+          "wordCount": null,
+          "title": "斥资1300万购房为孩子上学，签了合同才知道入学资格已占",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_25697584",
+          "author": null,
+          "description": "高层阳台外的装饰块脱落，结果砸中了在一楼玩耍的男童。不幸的是，虽然经过全力抢救，但男童还是抢救无效身亡。\n\n事发现场（截屏），红圈处疑为脱落物\n\n17日下午3时许，这起悲剧发生在漳州台商区龙池云龙海岸（三期）小区32#楼楼下。18日中午，导报记者赶到事发现场时，事发楼下已经被拉起了警戒线，地面上有冲洗的痕迹，低洼仍有积水。\n\n此时，一对夫妻站在楼下，两人称，是孩子的父母，他们刚从医院赶回来。两人时不时地抬头看着楼上，都经不住掩面而泣。\n“早上还活蹦乱跳的，我上班时还一直缠着我，说妈妈下班回来给我煮什么好吃的，我要吃汤圆……”没想到，才分离几个小时就接到了噩耗。孩子的母亲林女士称，他们是角美本地人，去年才搬到云龙海岸（三期）小区，她家在另一栋。孩子今年才7岁，是男孩。\n\n林女士一边哭一边地指着楼上\n\n据林女士介绍，事发时，孩子和小区里的一些小伙伴一起在32#楼楼下玩耍，结果该栋楼14层的一户阳台护栏外的装饰物脱落，正好砸在孩子的头上。事发后，孩子被紧急送到漳州市第五医院，但因伤势过重，又被紧急转送至第九零九医院。不幸的是，最终孩子因抢救无效身亡。\n\n小区物业和民警在14楼业主家查看，（红圈处）疑似装饰层脱落处\n\n小区的物业负责人黄主任接受导报记者采访时表示，他们接到消息赶到现场时，已经有业主帮忙报警并拨打120电话了，“掉下来的是阳台护栏的装饰层，水泥沙材质，比较厚。刚开始我们也不知道从哪里掉下来的，我们和该栋楼的楼梯长以及接到报警赶到现场的民警一起，从顶楼一直往下排查。”黄主任说，最终发现14楼的一户阳台外墙装饰层有脱落的迹象。\n不过黄主任表示，装饰物具体脱落的原因以及脱落的位置，还有待警方的进一步调查。\n\n据黄主任介绍，该小区交房已经十多年了，“有嫌疑的这户是出租房，近期没有装修。”黄主任称，事情发生后，小区物业管理处发出通知，希望所有业主一起查看各自身旁的护栏及外墙装饰情况，相邻之间相互观察，一旦发现隐患及时通知物业，及时消除安全隐患。\n（原题为《​事发龙池一小区：一男童被高空坠物砸到，经抢救无效身亡！》）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_25697584",
+          "publishedOn": "2023-12-18T14:53:06.000Z",
+          "wordCount": null,
+          "title": "福建漳州一男童被小区高空坠物砸到，经抢救无效身亡",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_25701388",
+          "author": null,
+          "description": "e公司讯，美股三大股指集体高开，道指涨0.05%，纳指涨0.01%，标普500指数涨0.23%。新东方涨约8%、高途跌超20%。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_25701388",
+          "publishedOn": "2023-12-18T14:53:06.000Z",
+          "wordCount": null,
+          "title": "美股三大股指集体高开，新东方涨约8%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_25701261",
+          "author": null,
+          "description": "12月18日，临港新片区2023年城市数字化转型体验周开幕式暨国际数据要素高级研修班开班仪式在临港举行。临港新片区党工委委员、管委会专职副主任唐浩致辞时表示，数字经济时代，数据要素作为第五大生产要素，已成为影响未来发展的关键战略性资源，备受各方关注。\n复旦大学副校长徐雷致辞时表示，复旦大学与临港新片区管委会有着良好的长期合作，共同致力打通产学研融合“最后一公里”，未来跨境数据和数字经济领域将成为双方合作的重点内容。\n首批7家临港新片区城市数字化转型创新实践基地在于当天授牌，将进一步融合临港新片区区域科技资源，多元应用场景，以临港新片区数字化转型创新基地为新片区全面推进城市数字化转型的战略载体，加快推进国内外有影响力的数字化创新企业，全面构建有竞争力的数字化转型生态体系。（澎湃新闻记者 贺梨萍）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_25701261",
+          "publishedOn": "2023-12-18T14:23:06.000Z",
+          "wordCount": null,
+          "title": "临港国际数据要素高级研修班开班：打通产学研融合“最后一公里”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_25694445",
+          "author": null,
+          "description": "当地时间2023年12月13日，阿根廷布宜诺斯艾利斯，阿根廷新任总统米莱政府12日宣布将本国货币比索大幅贬值50%以上，油价或将上涨，民众在加油站外排起长队为汽车加油。 IC photo 图\n\n 据央视新闻报道，截至当地时间12月16日，阿根廷11个省先后宣布进入经济紧急状态，这些地方的省长们均强调在危机期间实施预防措施和审慎管理资源的必要性。报道称，这是继12日阿根廷新一届政府宣布经济新政之后各省做出的调整反应之一。\n据此前报道，米莱政府欲采用“休克疗法”挽救阿根廷居高不下的通货膨胀率。阿根廷新任经济部长卡普托于12日公布一系列经济政策，旨在减少财政赤字、控制通货膨胀。其中包括将政府部门由18个减少至9个、降低政府对能源和交通的补贴、停止新建公共工程招标和取消尚未开始的开发项目。据悉，这些经济措施不同程度地引发这些省份的财政困境，其中一些省份可能将在支付本月和明年一月公务员工资的问题上面临挑战。\n据报道，宣布进入紧急状态的11个省份由不同的政治派系执政，包括庇隆主义联盟 (UxP)、公民激进联盟等政党。为了缓解经济危机，阿根廷内政部部长吉列尔莫·弗朗科斯办公室将与阿根廷23个省的省长及首都布宜诺斯艾利斯市的政府首脑在当地时间19日召开会议，讨论国家面临的多方面挑战。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_25694445",
+          "publishedOn": "2023-12-18T13:53:07.000Z",
+          "wordCount": null,
+          "title": "阿根廷新政府启动“休克疗法”，已有11省进入经济紧急状态",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_25696127",
+          "author": null,
+          "description": "​​@九派新闻 12月18日消息，近日，厦门技师学院25岁班主任徐某辉跳楼自杀。据媒体报道，徐某辉的姐姐认为，弟弟是因为学校的工作安排不合理，导致教学压力和工作压力增大。\n12月18日，厦门市公安局翔安分局新店派出所的工作人员称，目前警方已介入调查，具体调查结果已经告知家属。“应该是有赔偿纠纷，但可能最终也是需要通过法律去处理，”他说，“学校应该会对家属做出人道主义赔偿。”\n关于学校是否存在工作安排过多的问题，他表示，这属于教育局的管辖范围，至于教育局目前是否介入，他表示不清楚。该工作人员称，调查结果只能告知家属，不方便向公众透露。\n\n徐某辉姐姐发文。图/当事人家属账号截图\n\n据潇湘晨报，徐某辉的姐姐发文称，弟弟是厦门技师学院2023级机械系模具班班主任，2023年12月4日（周一）8点24分，他穿戴学校工服、佩戴工牌，去学校上班，随后从楼道阳台一跃而下。如果悲剧没有发生，徐某辉原本将在下周结婚。\n\n徐某辉的工作证。图/当事人家属账号\n\n“学校违规增加徐某辉的上课课时，不合理的分配工作，大大增加了身为班主任的徐某辉的工作量，导致教学压力和工作压力增大。”徐某辉姐姐认为，学校对徐某辉不合理的工作安排，是导致悲剧发生的原因。\n比如，11月17日下发任务，要求徐某辉5个工作日内完成84篇教案。11月23日，徐某辉因生病发烧向上级申请延缓提交教案，但上级不予理会。此外，学校还存在排课不合理的问题。根据教务处学生处发的徐某辉工作量，新第一学期为263.5个课时，平均每周50多课时，几乎是加倍的工作量，而且额外增加了教案的准备、教学日志的填写等。\n徐某辉姐姐发布了大量徐某辉生前获得的荣誉证书，以及聊天截图。在聊天中，徐某辉曾表达过“教案赶不完”“排课头都大了”“太累”等内容。\n\n徐某辉的荣誉证书。图/当事人家属账号\n\n徐某辉姐姐称，事情发生后，家属多次与学校交涉，但迟迟未得到答复。她称，弟弟去世后，妈妈变得神志不清，“天天在家门口抱着弟弟的遗物，等着弟弟回家吃饭，甚至连女儿都不认识。”作为退役军人的父亲，崩溃地在地上哭得像个孩子。\n厦门技师学院的一名工作人员称，目前此事仍在调查中，也正在与家属沟通，具体细节不方便透露，“目前网络上发布了一些消息，有很多不实的，对学院造成了很多不好的影响，我们也在依法依规，走法律途径进行交涉。”",
+          "link": "https://www.thepaper.cn/newsDetail_forward_25696127",
+          "publishedOn": "2023-12-18T13:53:07.000Z",
+          "wordCount": null,
+          "title": "厦门一25岁班主任疑因工作压力大婚前一周自杀，警方介入调查",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_25700951",
+          "author": null,
+          "description": "12月18日，国内期货夜盘开盘涨跌不一，沪铜跌0.09%，沪镍跌0.4%，螺纹涨0.49%，燃油涨0.57%，焦煤涨0.8%，原油涨1.36%。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_25700951",
+          "publishedOn": "2023-12-18T13:23:06.000Z",
+          "wordCount": null,
+          "title": "国内期货夜盘开盘涨跌不一，原油涨超1%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_25701001",
+          "author": null,
+          "description": "12月18日，俞敏洪称董宇辉没和自己提任何要求，自己一直想给董宇辉身份。高级合伙人不是高级打工仔，是有话语权的，类似VP性质的，甚至股东身份的概念。（澎湃新闻记者·编辑 仇依楠）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_25701001",
+          "publishedOn": "2023-12-18T13:23:06.000Z",
+          "wordCount": null,
+          "title": "俞敏洪称董宇辉没和自己提任何要求，自己一直想给董宇辉身份",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_25696288",
+          "author": null,
+          "description": "中央财政在今年四季度增发1万亿元国债。记者18日从财政部获悉，财政部日前已下达第一批资金预算2379亿元。\n第一批资金预算是如何分配的？怎样用好管好？记者采访了财政部预算司、农业农村司相关负责人。\n资金跟着项目走，2379亿元预算已下达\n按照党中央、国务院决策部署，经报全国人大常委会会议审查批准，今年中央财政增发1万亿元国债，全部通过转移支付安排给地方，专项用于支持灾后恢复重建和提升防灾减灾能力。\n此前，多部门联合成立了增发国债项目实施工作机制，并确定了第一批项目清单。根据已确定的项目，财政部下达了第一批国债资金预算2379亿元。\n其中，灾后恢复重建和提升防灾减灾能力补助资金达1075亿元，东北地区和京津冀受灾地区等高标准农田建设补助资金达1254亿元，重点自然灾害综合防治体系建设工程补助资金（气象基础设施项目建设）达50亿元。\n“项目确定一批，资金预算就及时随之下达一批。”财政部预算司司长王建凡说，为确保增发国债资金及时下达，财政部已提前对国库资金进行准备。同时，与年度国债发行进行统筹安排，已在四季度推进了国债发行。\n据介绍，此次增发国债一次性提高了对地方的补助比例或补助标准，并加大对中西部地区和受灾地区的倾斜支持力度。\n根据部署，增发的1万亿元国债拟通过今年预算安排5000亿元，结转明年5000亿元。\n王建凡说，下一步将根据项目审核的具体情况，分批下达其他领域国债资金预算。“今年预算安排的5000亿元将根据项目审核进展尽快下达。”\n资金分类使用，支持灾后恢复重建、高标准农田建设等\n增发国债第一批资金预算下达之后，将具体如何使用？\n分类型来看，此次下达的1075亿元灾后恢复重建和提升防灾减灾能力补助资金，全部按照项目分配，将用于支持京津冀等全国12个省份的1508个项目。\n具体来看，这些项目包括教育和医疗卫生机构的灾后恢复重建，交通、水利等基础设施的灾后恢复重建，水库除险加固、河道治理等工程建设。\n1254亿元东北地区和京津冀受灾地区等高标准农田建设补助资金，将用于支持全国1336个县新建、改造提升高标准农田以及修复灾毁农田共5400万亩。\n“一方面，资金优先支持东北地区和京津冀受灾地区，合计支持规模为2885万亩；另一方面，加大对粮食主产省高标准农田建设支持力度。此外，还将各地上报的248.3万亩灾毁农田全部纳入支持范围，支持地方及时修复灾毁农田。”财政部农业农村司副司长魏高明说。\n此外，第一批资金预算中还包括了50亿元重点自然灾害综合防治体系建设工程补助资金（气象基础设施项目建设）。\n“这一资金将用于支持全国30个省、自治区、直辖市、计划单列市的45个气象基础设施项目建设，进一步提升气象监测能力、气象预报预警服务能力以及人工影响天气能力。”魏高明说。\n管理多措并举，确保资金用出实效\n万亿元的国债资金来之不易。如何规范管理、加强监管，确保资金用出实效？\n据悉，为规范国债资金管理，提高资金分配使用的规范性、安全性和有效性，财政部日前已制定印发《增发2023年国债资金管理办法》，从国债资金用途、资金分配和预算下达、资金使用管理、绩效管理、监督管理等方面提出具体要求。\n“我们要求省级财政部门在收到中央财政下达的项目预算后，原则上于7日内商有关部门分解下达。地方财政部门应当按照项目实施进度及时拨付资金，不得超进度拨付资金，不得在年底突击花钱。”魏高明说。\n在加强资金监管方面，财政部已积极采取三方面举措：\n一是组织财政部各地监管局建立常态化监管机制，加强对国债资金分配、拨付和使用情况的监督管理。增发国债资金将会成为财会监督的重点。\n二是实施全流程跟踪监控。财政部在预算下达后将有关项目信息全部导入预算一体化等系统，并要求地方各级财政部门及时将国债项目具体信息、资金下达及使用等情况导入系统，通过系统实施全流程跟踪监控。\n三是要求地方各级财政部门履行财会监督主责，建立全流程监控机制，压实项目主管部门和项目单位管好用好项目资金的责任，切实提高资金使用效益。\n“财政部将会同相关部门坚决贯彻落实党中央决策部署，以更加严格的要求，管好用好每一笔资金，确保将资金用出实效。”王建凡说。\n\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.run",
+          "link": "https://www.thepaper.cn/newsDetail_forward_25696288",
+          "publishedOn": "2023-12-18T13:23:06.000Z",
+          "wordCount": null,
+          "title": "增发国债首批资金预算2379亿已下达，有关部门谈如何分配",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_25696387",
+          "author": null,
+          "description": "12月18日，最高人民法院、最高人民检察院、公安部、司法部联合发布《关于办理醉酒危险驾驶刑事案件的意见》（以下简称《意见》）。《意见》将于2023年12月28日起施行。为准确理解《意见》内容，记者采访了“两高两部”相关部门负责人。\n问：“两高两部”此次出台《意见》的背景和主要考虑是什么？\n答：2011年5月，《刑法修正案（八）》增设了危险驾驶罪，在道路上醉酒驾驶机动车（以下简称醉驾）是其中一种危险驾驶行为。最高人民法院、最高人民检察院、公安部于2013年12月印发的《关于办理醉酒驾驶机动车刑事案件适用法律若干问题的意见》（以下简称“2013年意见”），对明确醉驾认定标准、规范案件办理程序起到了积极作用。醉驾入刑以来，各地坚持严格执法、公正司法，依法惩治酒驾醉驾违法犯罪行为，有力维护了人民群众生命财产安全和道路交通安全，酒驾醉驾百车查处率明显下降，酒驾醉驾导致的恶性交通死亡事故大幅减少，“喝酒不开车，开车不喝酒”的法治观念逐步成为社会共识，酒驾醉驾治理成效显著。\n党的十八大以来，以习近平同志为核心的党中央领导人民续写了经济快速发展和社会长期稳定两大奇迹，人民群众获得感、幸福感、安全感不断增强，执法司法理念、社会治理能力也在与时俱进。如何助力更高水平的平安中国建设，更好地发挥刑罚在社会治理中的作用，更好地落实严格执法、公正司法，各地在依法惩治酒驾醉驾方面进行了有益探索，积累了丰富的司法经验。同时，在醉驾案件办理中也遇到一些新情况、新问题，对“2013年意见”进行补充完善很有必要，条件也已经成熟。为深入贯彻习近平法治思想，根据新形势新变化新要求，积极回应社会关切，在中央政法委组织领导下，最高人民法院、最高人民检察院、公安部、司法部总结各地经验，经深入调研、共同协商，听取司法实务人员和专家学者意见建议，并征求全国人大常委会法制工作委员会意见，制定了《意见》。\n问：制定《意见》的总体…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_25696387",
+          "publishedOn": "2023-12-18T13:23:06.000Z",
+          "wordCount": null,
+          "title": "两高两部：打击醉驾惩罚不能放松，但“一罚了之”不是最佳方案",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_25693457",
+          "author": null,
+          "description": "当地时间2023年12月16日，加沙南部拉法，当地遭以军袭击后，居民在废墟上搜寻物品。澎湃影像 图\n\n据半岛电视台当地时间12月17日报道，联合国近东巴勒斯坦难民救济和工程处总干事菲利普·拉扎里尼在接受采访时表示，以色列的袭击造成加沙地带60%以上的基础设施被毁，90%以上的人口流离失所。\n他还表示，加沙地带的卫生条件很糟糕，几乎没有干净的水。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_25693457",
+          "publishedOn": "2023-12-18T12:53:05.000Z",
+          "wordCount": null,
+          "title": "联合国官员：加沙地带90%以上人口流离失所",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_25694283",
+          "author": null,
+          "description": "原标题：《警情通报》",
+          "link": "https://www.thepaper.cn/newsDetail_forward_25694283",
+          "publishedOn": "2023-12-18T12:53:05.000Z",
+          "wordCount": null,
+          "title": "山东警方：编造虚假信息，“给住院婆婆吃泡面”视频博主被拘",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_25699985",
+          "author": null,
+          "description": "澎湃新闻获悉，昆山市政府与协鑫集团12月18日签署战略合作协议，双方的一揽子合作涉及钙钛矿、储能、数字能源以及数字科技金融中心等项目。协议明确，协鑫集团旗下昆山协鑫光电材料有限公司在昆山建设2吉瓦钙钛矿生产线，分两期建成。这标志着协鑫钙钛矿正式进入吉瓦级商业运营新时代。\n一个月内，协鑫光电相继宣布1米×2米钙钛矿单结组件光电转化效率突破18.04%、0.279米×0.37米钙钛矿叠层组件转换效率达到26.17%、0.369米×0.555米的钙钛矿叠层组件光电转换效率达到26.34%。截至目前，昆高新集团、凯辉、宁德时代、IDG资本、红杉中国、淡马锡等投资机构参与了协鑫光电各轮融资。（澎湃新闻记者 杨漾）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_25699985",
+          "publishedOn": "2023-12-18T12:53:05.000Z",
+          "wordCount": null,
+          "title": "昆山市政府与协鑫集团签署战略合作，将建2吉瓦钙钛矿生产线",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_25700681",
+          "author": null,
+          "description": "12月18日晚8点，俞敏洪和董宇辉于东方甄选开启直播，此次为董宇辉以东方甄选高级合伙人的新身份进行的首次直播。俞敏洪在直播中再次澄清，小孙（孙东旭）被免职一事与董宇辉以及任何个人均无关。\n俞敏洪表示，“很多人现在把祝福送给小孙，大家不用担心小孙，小孙依然非常积极地反思管理中出现的问题，并且在我管理东方甄选的过程中，完全没有任何隔阂地依然进行建言献策的工作。”（新京报贝壳财经）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_25700681",
+          "publishedOn": "2023-12-18T12:53:05.000Z",
+          "wordCount": null,
+          "title": "俞敏洪称孙东旭积极反思管理中出现的问题，并毫无隔阂地建言献策",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_25699083",
+          "author": null,
+          "description": "18日晚，在直播中董明珠再谈及孟羽童时，面对用错了人、眼力有问题的质疑，董明珠表示，“不叫用错人，是她自己的选择吧，人生的道路是自己选。人生价值观是她自己定的，你选择做什么样的人是你自己决定的。现在很难说五年后是什么样。”（@中新经纬）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_25699083",
+          "publishedOn": "2023-12-18T12:23:05.000Z",
+          "wordCount": null,
+          "title": "董明珠称现在难说孟羽童五年后什么样",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_25699144",
+          "author": null,
+          "description": "12月18日晚，俞敏洪、董宇辉现身东方甄选直播间。俞敏洪表示，东方甄选的高级合伙人，并不是大家说的“高级打工仔”的概念，高级合伙人是对公司有话语权的，相当于VP（副总裁）地位，带有股东身份色彩的一个概念。俞敏洪另外表示，“常常也有人在问为什么看不到董宇辉在股东名单，现在在网上传的那些什么股东、股份之类的，基本上没有一条是真实的。而且在上市以后的股东名单是不需要公布的，作为对于个人隐私的保护，我们也是不会公布的。”（证券时报）\n\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.run",
+          "link": "https://www.thepaper.cn/newsDetail_forward_25699144",
+          "publishedOn": "2023-12-18T12:23:05.000Z",
+          "wordCount": null,
+          "title": "俞敏洪：董宇辉东方甄选高级合伙人带有股东身份色彩",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_25696154",
+          "author": null,
+          "description": "近日，郑州的张女士向澎湃质量观投诉平台（https://tousu.thepaper.cn）反映，11月份她收到中国建设银行信用卡中心工作人员打来的电话，对方以信用卡账单金额较大，可能会被评估为套现为由，建议她11月先还2105.34元，12月再还剩余的40001.41元，并承诺不是账单分期，不会产生违约金、手续费等。然而次月还款时张女士发现，11月的账单被办理了24期分期，且被扣除了首期利息172.01元，“我是在正常额度内的消费，原本可以一次性还清的，结果被对方欺骗办了分期。”\n\n张女士被办理了24期分期，且产生首期利息172.01元。\n\n对此，建设银行的工作人员在了解情况后回应澎湃新闻称，对于张女士的反馈，已经收到并制定了解决预案，利息将会尽快退回。在澎湃新闻介入后，次日张女士收到了银行此前答应补偿的20元话费，以及被扣除的11月份利息。但对于张女士其他的补偿要求，目前双方仍在协商中。\n女子称被银行工作人员欺骗开通分期还款\n张女士介绍，11月2日，她接到中国建设银行信用卡中心工作人员打来的电话，称她的信用卡正在进行优化评估，由于最近一期账单金额较大，评估未通过，导致银行系统认定为资金周转或套现，将会影响后续卡片额度的调整。\n“我的这一期账单有4万多元，也是信用卡额度内的正常消费，原本到11月还款日是可以一次性还清的，但他建议我11月14日到期还款时先还2105.34元，剩余的40001.41元到下一期（12月14日）再还。”张女士说，对方声称11月份是最后一次评估，等评估过了再还款就可以规避风险。\n根据张女士提供的双方聊天录音，在电话里，张女士多次强调自己不需要分期，但对方表示该行为不是分期，只是到下个月再一次性还清，并表示“没有违约金、手续费，没有利息”。在张女士同意后，对方为她操作了11月的还款金额，“我的信用卡都是到期自动扣款，之后我也没有再查看过账户”。\n然而，11月26日，张女士称，她在查看12月份的还款账单时，发现11月的账单被办理了40001.41元的账单分期，并且分期24个月，11月25日已经产生了172.01元的第一期分期利息。\n张女士多次拨打建设银行信用卡中心的电话投诉。12月12日，张女士接到了建设银行工作人员打来的电话，对方让张女士12月份仍按照分期进行还款，到2024年1月份再还完全部账单，到时已经收取的利息，可以在15个工作日内退回。\n张女士同意了该方案，但要求补偿由此事造成的精神和时间损失，“这半个多月为了解决这个问题，不停打电话投诉询问，对我工作和生活都造成了很大影响，而且自己也很焦虑。”经过双方多次协商，工作人员同意补偿张女士20元的电话费，并在1到3个工作日到账。然而，张女士表示没有收到补偿，账单也没有被取消分期。\n12月13日，张女士再次联系建设银行信用卡中心，要求尽快取消账单分期。“因为12月14日就要还款了，最初工作人员说3-5个工作日会取消分期，后来我强烈要求，他们才立刻取消了分期。”张女士说，次日她查到分期已经取消，但12月仍是按照分期扣除的还款金额，11月产生的利息也一同被扣除。\n建行：将尽快退回利息\n12月14日，澎湃新闻记者致电中国建设银行，该行的工作人员在了解情况后表示，目前已经收到了张女士的反馈，并且制定了解决预案，但还在落实处理中，随后会与张女士联系并进行后续的处理，“张女士已经产生的利息一定会尽快进行退回的”。\n对于记者询问涉事工作人员是否会进行处理的问题，该工作人员称，此前联系张女士的工作人员目前已经停职，将会进一步讨论与处理。\n在澎湃新闻介入后，12月15日，张女士称已经收到了银行此前答应补偿的20元话费，以及被扣除的11月份利息。但对于张女士其他的补偿要求，目前双方仍在协商中。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_25696154",
+          "publishedOn": "2023-12-18T11:53:07.000Z",
+          "wordCount": null,
+          "title": "女子称被银行人员欺骗开通信用卡账单分期，银行：尽快退回利息",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_25697937",
+          "author": null,
+          "description": "12月17日至18日，全国发展和改革工作会议在京召开。会议强调，发展改革系统要进一步加强综合统筹和综合平衡，推动统筹高质量发展和高水平安全、协同推进降碳减污扩绿增长等取得新成效。强化粮食、能源资源、产业链供应链、数据等领域安全保障。在高质量发展中增进民生福祉，持续巩固拓展脱贫攻坚成果。加强资源节约集约循环高效利用，积极稳妥推进碳达峰碳中和，做好能耗双控工作，加快推动节能改造，扩大可再生能源消费，推动能耗“双控”逐步向碳排放“双控”转变。（国家发展改革委微信公号）\n\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.run",
+          "link": "https://www.thepaper.cn/newsDetail_forward_25697937",
+          "publishedOn": "2023-12-18T11:53:07.000Z",
+          "wordCount": null,
+          "title": "国家发改委：强化粮食、能源资源、产业链供应链、数据等领域安全保障",
+          "imageUrl": null
+        },
         {
           "id": "https://www.thepaper.cn/newsDetail_forward_25696183",
           "author": null,
@@ -9937,6 +10137,116 @@
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
         {
+          "id": "https://www.nationalreview.com/?p=1577836",
+          "author": "Noah Rothman",
+          "description": "The Biden White House must now act boldly, decisively, and in a fashion that communicates precisely the peril the Iranian regime has brought upon itself.",
+          "link": "https://www.nationalreview.com/2023/12/the-u-s-must-restore-deterrence-in-the-red-sea/",
+          "publishedOn": "2023-12-18T15:26:24.000Z",
+          "wordCount": 9082,
+          "title": "The U.S. Must Restore Deterrence in the Red Sea",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/10/uss-bataan-25.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1577840",
+          "author": "Haley Strack",
+          "description": "The blessing should not be conflated with the sacrament of marriage, the Pope said.",
+          "link": "https://www.nationalreview.com/news/pope-francis-allows-blessings-for-same-sex-couples/",
+          "publishedOn": "2023-12-18T15:17:05.000Z",
+          "wordCount": 8500,
+          "title": "Pope Francis Allows Blessings for Same-Sex Couples",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/10/francis.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1577790",
+          "author": "Haley Strack",
+          "description": "Yemen’s Houthi militants said in November that they would target any tankers linked to Israel in order to support Hamas.",
+          "link": "https://www.nationalreview.com/news/oil-giant-bp-halts-red-sea-shipments-over-houthi-attacks-on-israeli-linked-ships/",
+          "publishedOn": "2023-12-18T14:25:50.000Z",
+          "wordCount": 8460,
+          "title": "Oil Giant BP Halts Red Sea Shipments over Houthi Attacks on Israeli-Linked Ships",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/12/BP.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1577651",
+          "author": "Zach Kessel",
+          "description": "The recent explosion of campus antisemitism provided the impetus for the bill, Crenshaw told NR.",
+          "link": "https://www.nationalreview.com/news/exclusive-crenshaw-to-introduce-bill-stripping-federal-funding-from-universities-that-require-dei-statements/",
+          "publishedOn": "2023-12-18T13:31:39.000Z",
+          "wordCount": 8344,
+          "title": "Exclusive: Crenshaw to Introduce Bill Stripping Federal Funding from Universities That Require DEI Statements",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2021/09/Dan-Crenshaw.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1577708",
+          "author": "Kathryn Jean Lopez",
+          "description": "A family — a baby — is at the heart of it. That may be obvious, and yet it challenges.",
+          "link": "https://www.nationalreview.com/2023/12/christmas-pleads-with-us-what-are-we-doing-for-families/",
+          "publishedOn": "2023-12-18T11:30:56.000Z",
+          "wordCount": 9075,
+          "title": "Christmas Pleads with Us: What Are We Doing for Families?",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2018/12/father-daughter-nativity-zagreb.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1576998",
+          "author": "Chris Edwards",
+          "description": "Cutting federal aid to the states would reduce our national debt while improving governance.",
+          "link": "https://www.nationalreview.com/2023/12/the-solution-to-soaring-debt/",
+          "publishedOn": "2023-12-18T11:30:56.000Z",
+          "wordCount": 8785,
+          "title": "The Solution to Soaring Debt",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/12/Congress-2.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1577292",
+          "author": "Ryan Bangert",
+          "description": "The justices will review the FDA’s decision to gut safeguards regarding the use of a chemical-abortion drug.",
+          "link": "https://www.nationalreview.com/2023/12/the-supreme-court-once-again-has-a-chance-to-check-abortion-radicalism/",
+          "publishedOn": "2023-12-18T11:30:53.000Z",
+          "wordCount": 8898,
+          "title": "The Supreme Court Once Again Has a Chance to Check Abortion Radicalism",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/05/mifepristone-clinic-illinois.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1577661",
+          "author": "Jay Nordlinger",
+          "description": "On Trump and Putin; Giuliani and defamation; golfers and their kids; Napoleon, for and against; and more.",
+          "link": "https://www.nationalreview.com/2023/12/trump-on-the-stump-c/",
+          "publishedOn": "2023-12-18T11:30:34.000Z",
+          "wordCount": 9333,
+          "title": "Trump on the stump, &c.",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/12/donald-trump-new-hampshire-121623.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1576989",
+          "author": "Chris Griswold",
+          "description": "In the digital realm as outside of it, the public has a right to insist on regulations where the safety of our kids is at stake.",
+          "link": "https://www.nationalreview.com/2023/12/protecting-children-online-is-a-worthwhile-endeavor/",
+          "publishedOn": "2023-12-18T11:30:30.000Z",
+          "wordCount": 11014,
+          "title": "Protecting Children Online Is a Worthwhile Endeavor",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/03/TikTok.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1577702",
+          "author": "The Editors",
+          "description": "The Left has ceded the reasonable ground on education. A Wisconsin Republican has just shown the party how to take it.",
+          "link": "https://www.nationalreview.com/2023/12/a-victory-against-dei-in-wisconsin/",
+          "publishedOn": "2023-12-18T11:30:11.000Z",
+          "wordCount": 12136,
+          "title": "A Victory against DEI in Wisconsin",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/12/robin-vos-wisconsin-tmj4-2020-youtube.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1577272",
+          "author": "Josh Bandoch",
+          "description": "It’s time to change strategies.",
+          "link": "https://www.nationalreview.com/2023/12/chicagos-war-on-poverty-has-failed/",
+          "publishedOn": "2023-12-18T11:30:08.000Z",
+          "wordCount": 9108,
+          "title": "Chicago’s War on Poverty Has Failed",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/12/aid-chicago.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
           "id": "https://www.nationalreview.com/?p=1577622",
           "author": "Andrew Stuttaford",
           "description": "The week of December 11, 2023: A corporatist shambles, inflation, fiscal policy, the economy, and much, much more.",
@@ -14355,16 +14665,6 @@
           "wordCount": 9591,
           "title": "A Tale of Two Protests",
           "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/11/James-and-Trump-8.jpg?fit=1200%2C700&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1567552",
-          "author": "John Fund",
-          "description": "‘We want to be a normal country again,’ but the Peronistas are standing in the way.",
-          "link": "https://www.nationalreview.com/2023/11/argentina-faces-a-choice-reality-or-the-twilight-zone/",
-          "publishedOn": "2023-11-18T23:02:16.000Z",
-          "wordCount": 9333,
-          "title": "Argentina Faces a Choice: Reality or the Twilight Zone",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/10/Argentina-Presidential-Candidates.jpg?fit=1200%2C700&ssl=1"
         }
       ]
     },
@@ -14373,6 +14673,26 @@
       "feedUrl": "https://sspai.com/feed",
       "siteUrl": "https://sspai.com",
       "articles": [
+        {
+          "id": "https://sspai.com/post/85158",
+          "author": "少数派编辑部",
+          "description": "欢迎收看本期《派评》。你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的App或者关注的话题，也欢迎在评论区和我们进行讨论。值得关注的App虽然少数派一直在为大家发现和介绍各平台上的优 ...查看全文",
+          "link": "https://sspai.com/post/85158",
+          "publishedOn": "2023-12-18T09:49:21.000Z",
+          "wordCount": null,
+          "title": "[送码] 派评 | 近期值得关注的 App",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sspai.com/post/84561",
+          "author": "果铺知道",
+          "description": "旗舰 Apple Store 真的存在吗？到底怎样的店才能叫 Apple Store 旗舰店。查看全文",
+          "link": "https://sspai.com/post/84561",
+          "publishedOn": "2023-12-18T07:12:29.000Z",
+          "wordCount": null,
+          "title": "探寻 Apple 的都市传说：Store 也有「Pro 版」？",
+          "imageUrl": null
+        },
         {
           "id": "https://sspai.com/post/85064",
           "author": "iArter",
@@ -15390,6 +15710,66 @@
       "feedUrl": "https://plink.anyfeeder.com/idaily/today",
       "siteUrl": "https://docs.rsshub.app",
       "articles": [
+        {
+          "id": "https://m.idai.ly/se/c69CW0",
+          "author": null,
+          "description": "纽约市民在中央公园露天滑冰场上滑冰。12月15日，美国国会预算办公室（CBO）发布经济展望报告预估2023年 GDP 增长幅度达到2.5%，较前次预期大幅上调1.6个百分点，通胀率降至2.9%，失业率升至3.9%。报告预测美国2024年 GDP 增长放缓至1.5%，主要受到私人消费疲软、房产投资下降和出口增长减弱等负面影响。摄影师：Liao Pan",
+          "link": "https://m.idai.ly/se/c69CW0",
+          "publishedOn": "2023-12-18T10:59:00.000Z",
+          "wordCount": 1150,
+          "title": "美国上调GDP增长预期",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.idai.ly/se/d32v1j",
+          "author": null,
+          "description": "俄罗斯总统 Vladimir Putin 向「统一俄罗斯党」大会发表演讲，莫斯科。12月17日，俄总统 Putin 在演讲中警告西方精英试图瓦解俄罗斯国家制度，强调俄罗斯公民必须团结努力，建立一个自给自足的主权国家、决定和创造自己的未来。当天「统一俄罗斯党」党主席 Dmitry Medvedev 提议推举 Putin 为俄罗斯联邦总统候选人参加2024年3月17日举行的新一届大选，该党全体代表投票一致通过该提议。摄影师：Mikhael Klimentyev",
+          "link": "https://m.idai.ly/se/d32v1j",
+          "publishedOn": "2023-12-18T09:57:00.000Z",
+          "wordCount": 1150,
+          "title": "普京出席执政党大会",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.idai.ly/se/55e6FN",
+          "author": null,
+          "description": "塞尔维亚现任总统 Aleksandar Vucic 参加议会选举投票，贝尔格莱德。12月17日，塞尔维亚总统 Vucic 宣布其领导的「塞尔维亚不能停步」执政党联盟以约47%得票率赢得新一届国民议会选举，获得250个国民议会议席中至少127个席位，较上届增长7席。这意味着「塞尔维亚不能停步」党联盟将可以独立组建新一届政府。本次选举共有18个政党和联盟参加，合格选民人数超过650万，投票率约为59.1%。摄影师：Samir Jordamovic",
+          "link": "https://m.idai.ly/se/55e6FN",
+          "publishedOn": "2023-12-18T09:55:00.000Z",
+          "wordCount": 1150,
+          "title": "塞尔维亚执政党胜选",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.idai.ly/se/b3fgU4",
+          "author": null,
+          "description": "法国凡尔赛宫举办「国王之旅」（Parcours du Roi）圣诞季演出，巴黎。12月10日至1月7日，凡尔赛宫每晚举行「国王之旅」演出，包括圣诞宫廷音乐会、巴洛克舞蹈、魔术和击剑表演4个部分，表演者们身着17世纪欧洲贵族服装穿过大力神厅、镜厅和王后套房等展厅区域，重现法王路易十四时期的宫廷节日气氛。法国国家统计局最新报告预测2023年法国 GDP 将增长0.8%，比前次预期下调0.1个百分点，低于政府目标1%。摄影师：Thomas Samson",
+          "link": "https://m.idai.ly/se/b3fgU4",
+          "publishedOn": "2023-12-18T09:53:00.000Z",
+          "wordCount": 1150,
+          "title": "凡尔赛宫圣诞季演出",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.idai.ly/se/8d28cz",
+          "author": null,
+          "description": "日本电视台报道朝鲜再次试射洲际弹道导弹，东京。12月18日，日本防卫省宣布监测到朝鲜向半岛东部海域发射一枚疑似洲际弹道导弹，这枚导弹飞行约73分钟后落入日本海水域，飞行距离约1000公里，最大射高超过6000千米。日本军方推测这枚洲际导弹的射程超过1.5万公里，打击范围可覆盖日本和美国全境。当天韩美日三国朝核问题代表举行电话磋商，强烈谴责朝鲜试射导弹威胁地区及国际和平，重申将继续加强韩日、韩美和韩美日之间的紧密合作。摄影师：Kazuhiro Nogi",
+          "link": "https://m.idai.ly/se/8d28cz",
+          "publishedOn": "2023-12-18T09:51:00.000Z",
+          "wordCount": 1150,
+          "title": "朝鲜试射洲际导弹",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.idai.ly/se/0b6fa2",
+          "author": null,
+          "description": "从云南楚雄观测双子座流星雨，中国。12月15日凌晨，北半球双子座流星雨迎来最佳观赏期，高峰期每小时出现约150颗流星，中国全域处于最佳观测区，天气利好情况下肉眼即可观测。双子座流星雨与英仙座流星雨、象限仪座流星雨并称为北半球三大流星雨，它由小行星3200（3200 Phaethon）的碎片在地球上空坠落形成，观测辐射点位于双子座区域，活跃期为12月4日至17日，流星具有速度稳定、持续时间长、亮度高等特点。摄影师：iDaily Media",
+          "link": "https://m.idai.ly/se/0b6fa2",
+          "publishedOn": "2023-12-18T09:49:00.000Z",
+          "wordCount": 1150,
+          "title": "云南观测双子座流星雨",
+          "imageUrl": null
+        },
         {
           "id": "https://m.idai.ly/se/6a0h6o",
           "author": null,
@@ -17397,6 +17777,26 @@
       "feedUrl": "https://plink.anyfeeder.com/nytimes/dual",
       "siteUrl": "http://nytimes.com",
       "articles": [
+        {
+          "id": "https://cn.nytimes.com/film-tv/20231218/stonewalling-review/dual",
+          "author": null,
+          "description": "MANOHLA DARGIS2023年12月18日黄小雄（左）和姚红贵在以湖南省会长沙为背景的《石门》中。 KimStim\nFew movies capture the surreal comedy and engulfing horror of the money-driven world as piercingly as “Stonewalling.” A cool, quietly brilliant heartbreaker, it tracks a 20-year-old Chinese woman facing a series of seemingly impossible hurdles. She’s trying to learn English, struggling to make money and straining to please her boyfriend, who treats her like a rehab job with him playing the role of the project manager. It’s 2019 when the story opens, and she’s just trying to get by; it’s early 2020 when it ends, and everyone is wearing masks.\n很少有电影能像《石门》这样深刻地捕捉到由金钱驱动的世界的超现实喜剧和吞噬性恐怖。这部令人心碎的影片在平静与朴素中绽放着光彩，它追踪了一个20岁中国女人面对一系列看似不可能逾越的障碍。她正在努力学习英语，努力赚钱，并努力取悦她的男朋友，他把她当成一个人生改造项目来看待，自己是其中的产品经理。故事开始于2019年，她只是在勉励支持；故事结束于2020年初，每个人都戴着口罩。\nLyn…",
+          "link": "https://cn.nytimes.com/film-tv/20231218/stonewalling-review/dual",
+          "publishedOn": "2023-12-18T09:36:02.000Z",
+          "wordCount": null,
+          "title": "《石门》：一个20岁中国女性的交换价值",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cn.nytimes.com/china/20231218/jimmy-lai-trial-hong-kong/dual",
+          "author": null,
+          "description": "TIFFANY MAY, 艾莎2023年12月18日7月，在香港赤柱监狱内的黎智英。 Louise Delmotte/Associated Press\nUnlike other Hong Kong tycoons who were careful not to provoke China’s leaders, Jimmy Lai had long been a proud rebel. He founded a newspaper with a decidedly anti-Beijing slant. He was a prominent face at massive pro-democracy protests. He lobbied American officials to protest the city’s declining autonomy.\n与那些小心翼翼不去激怒中国领导人的香港大亨不同，黎智英一直都是个骄傲的反叛者。他创办了一份明显反对北京立场的报纸。他成为一场大规模民主抗议的显著代表人物。他游说美国官员为香港自治权的丧失提出抗议。\nThen, in 2020, Mr. Lai was arrested, becoming one of the first prominent targets of a national security law imposed by Beijing to crush the opposition. On Monday, after three years in prison and unusually lengthy procedural delays, Mr. Lai was finally having his day in court.\n然后在2020年，黎智英被逮捕，成为北京为清除反对派而实施的国家安全法的首批…",
+          "link": "https://cn.nytimes.com/china/20231218/jimmy-lai-trial-hong-kong/dual",
+          "publishedOn": "2023-12-18T08:36:01.000Z",
+          "wordCount": null,
+          "title": "黎智英被控“串谋勾结外国势力”，被监禁三年后出庭受审",
+          "imageUrl": null
+        },
         {
           "id": "https://cn.nytimes.com/obits/20231218/merle-goldman-dead/dual",
           "author": null,
