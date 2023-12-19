@@ -44,16 +44,6 @@
           "wordCount": 6064,
           "title": "R Weekly 2023-W48 object-oriented refactoring, benchmarking, Rust + R",
           "imageUrl": "https://rweekly.org/public/facebook.png"
-        },
-        {
-          "id": "https://rweekly.org/2023-W47.html",
-          "author": null,
-          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Sam Parmar, with help from the R Weekly team members and contributors.\nHighlight\nhttr2 1.0.0\nThe Road to Building Ten Million Binaries\nHow to Get Good with R?\nInsights\nThe Road to Building Ten Million Binaries\n\nThe current introduction to my package development workshops\nLesser-known reasons to prefer apply() over for loops\nReading notes on Git in Practice by Mike McQuaid\nThree ways errors are about to get better in tidymodels\nhttr2 1.0.0\n\nOdds Are You’re Using Probabilities to Describe Event Outcomes\nFAQs on mixed-effects models\nHow to Simulate & Plot a Bivariate Normal Distribution in R: A Hands-on Guide\nClassed conditions from rlang functions\nAn Upcoming Change in the Tin…",
-          "link": "https://rweekly.org/2023-W47.html",
-          "publishedOn": "2023-11-20T00:00:00.000Z",
-          "wordCount": 6893,
-          "title": "R Weekly 2023-W47 httr2 1.0.0, Road to Building Ten Million Binaries, How to Get Good with R",
-          "imageUrl": "https://rweekly.org/public/facebook.png"
         }
       ]
     },
@@ -471,16 +461,6 @@
           "wordCount": 62,
           "title": "《南史》专题︱楼劲：中国历史上的南朝",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_25344008",
-          "author": null,
-          "description": "“南朝五史”点校历程\n1958年6月，点校本“二十四史”被列入古籍整理出版规划小组制订的第一个古籍规划。7月，毛主席对“前四史”点校做出专门指示，要求吴晗、范文澜组织开展工作。9月13日，吴晗、范文澜召集“标点前四史及改绘杨守敬地图工作会议”，确定“前四史”点校方案，并决定其他二十史及《清史稿》标点工作由中华书局制订规划方案，着手组织人力进行。10月6日，范文澜、吴晗致函毛主席汇报会议情况：“关于标点‘前四史’工作，已遵示得同各方面有关同志讨论并布置，决定于明年10月前出书，作为国庆十周年献礼，其余二十史及杨守敬历史地图改绘工作，也作了安排（标点本为便于阅读，拟出一种平装薄本）。现将会议记录送上，妥否，乞指示。”毛主席批示“计划很好，望照此实行”。\n所谓“南朝五史”包括《宋书》《南齐书》《梁书》《陈书》和《南史》，由山东大学历史系王仲荦先生负责，王仲荦、卢振华、张维华三位先生承担点校，于1970年代先后出版。在中华书局1958年工作之初草拟的《标点二十四史（普通本）约稿计划》中，“南朝五史”的标点整理者为“拟约上海史学会”，但同件文稿经赵守俨先生粘贴重写，改为山东大学历史系。根据这份赵守俨先生的工作记录稿，可知“南朝五史”由山东大学承担、王仲荦先生负责，这是在“二十四史”点校之初就确定了的。\n\n在1963年秋王仲荦先生等借调进京之前，“南朝五史”点校工作主要在济南进行。1961年5月赵守俨先生出差武汉、济南，了解南北朝诸史的点校情况，“山东大学校点的南朝各史，年内可完成《梁书》和《南齐书》，《陈书》明年上半年可完成，《宋书》、《南史》争取在1962年完成”，“人力安排上是一人专搞一史，不是集体搞。王仲荦担任《南齐书》、卢振华担任《梁书》。明年华山、韩连琪也可参加《宋书》、《南史》的校点工作。王仲荦、卢振华建议，两史校点工作大致就绪后，最好能到北京和我们共同工作一个时期，以便…",
-          "link": "https://www.thepaper.cn/newsDetail_forward_25344008",
-          "publishedOn": "2023-11-20T04:02:08.000Z",
-          "wordCount": 351,
-          "title": "《南史》专题︱徐俊：王仲荦先生与“南朝五史”点校",
-          "imageUrl": null
         }
       ]
     },
@@ -489,6 +469,206 @@
       "feedUrl": "https://feedx.net/rss/thepaper.xml",
       "siteUrl": "http://thepaper.cn",
       "articles": [
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_25701387",
+          "author": null,
+          "description": "12月18日晚间，在董宇辉和俞敏洪一起现身东方甄选抖音直播间的同时，罗永浩在微博上发文，称东方甄选一定会继续推进“去董宇辉化”，并将俞敏洪和董宇辉16日的“合体直播”称为“史上最大规模的职场PUA直播现场”。\n当晚，“罗永浩的辟谣号”微博发布一篇长文，回答了一系列关于东方甄选本次事件的问题，包括“认为这件事是否结束”“看了公关危机后董和俞的直播有什么感想”“董宇辉离开后还能再创佳绩吗”等等。总体而言，罗永浩对于董宇辉留在东方甄选的未来表现得较为悲观，称只有完成“去董宇辉化”，作为一家MCN的东方甄选才能讲得通电商公司或品牌产品公司的故事，所以后面一定会有变数。\n罗永浩在文中表示，自己这次突然密集发言惹出不少争议，如果董宇辉以后再受委屈，自己“更大可能是尝试私下提供某些实质性的帮助，而不一定是公开的发声支持”。罗永浩也否认自己积极表态是为了“蹭热度”，而是因为他帮助董宇辉就是在帮助“年轻时的自己”。\n对于董宇辉的薪酬，罗永浩曾多次公开表示，在直播电商行业，收益分配应该基于客观规律，而根据这一规律，董宇辉应该得到至少一半左右的收益才算相对公平。在文中，罗永浩也再次强调，董宇辉应该从东方甄选分走至少一半：“东方甄选可能是直播电商在中国诞生后，我见过的最不公平、最荒唐、最欺负压榨年轻人的现象级公司，而且程度上是独一无二的。”\n对于东方甄选给董宇辉的新头衔“高级合伙人”和“董事长文化助理兼任文旅集团副总裁”，罗永浩称这些最终都不重要，只看最后东方甄选公布的股权授予情况就好：“如果没有相对公正的、实质性的股权和酬劳授予，即使给了‘集团天字第一号正总裁’也毫无意义。”\n罗永浩曾公开表示，自己退出社交平台，仅留下一个微博辟谣号。在本次文章的最后，罗永浩也重申：“除非有必要的辟谣，这个‘罗永浩的辟谣号’不再发帖了。”\n前一天，12月17日晚间，罗永浩在交个朋友直播间再次回答有关董宇辉的多个网…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_25701387",
+          "publishedOn": "2023-12-19T16:23:08.000Z",
+          "wordCount": 39,
+          "title": "罗永浩：东方甄选会继续推进“去董化”，帮董宇辉就像在帮年轻时的自己",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_25708829",
+          "author": null,
+          "description": "12月19日，在青海省海东市民和回族土族自治县中川乡草滩村，海东市消防救援支队队员在搜救。新华社 图\n\n北京时间12月18日23时59分，甘肃临夏州积石山县发生6.2级地震。地震造成与积石山县相邻的青海省海东市三个县受灾，截至目前，地震已造成13人遇难、182人受伤，20人失联，部分水、电、交通、通讯等基础设施受损。稍早前，甘肃省召开新闻发布会通报，地震已造成甘肃105人遇难。\n\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.run",
+          "link": "https://www.thepaper.cn/newsDetail_forward_25708829",
+          "publishedOn": "2023-12-19T15:53:07.000Z",
+          "wordCount": 36,
+          "title": "甘肃地震已致青海13人遇难、182人受伤，另有20人失联",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_25654111",
+          "author": null,
+          "description": "12月19日，外交部发言人汪文斌主持例行记者会。彭博社记者提问，美国印太司令部司令阿奎利诺表示，自从上个月“习拜会”以来，中方已经减少了对美国军机的所谓“危险拦截”行动，中方对此有何回应？\n汪文斌称，具体情况你可以向中方的主管部门来了解，作为原则我愿意强调，中方一贯坚决反对美方频繁派遣舰机到中国周边海空域搞抵近侦察，我们敦促美方纠正威胁、损害中国安全，推高地区冲突风险的危险做法。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_25654111",
+          "publishedOn": "2023-12-19T15:53:07.000Z",
+          "wordCount": 31,
+          "title": "美国官员称中方已减少对美军机的拦截行动，外交部回应",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_25701444",
+          "author": null,
+          "description": "12月18日晚，厦门技师学院发布情况通报称，12月4日上午，该院机械工程系徐老师于校外个人住处13楼坠亡，根据警方调查确认，已排除他杀。\n通报说，徐老师系该院2020届毕业生，在学院培养下，从一名普通学生成长为高技能人才。2022年2月，其通过公开考试，考入该院成为编内教师。徐老师从该院学生成长为本院教师，他的突然离去，学院深表痛惜。学院会尽一切所能做好其家属人文关怀，妥善处理好丧葬抚恤等善后工作。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_25701444",
+          "publishedOn": "2023-12-19T15:23:06.000Z",
+          "wordCount": 28,
+          "title": "厦门技师学院通报25岁班主任跳楼自杀：警方已排除他杀",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_25715190",
+          "author": null,
+          "description": "算力租赁概念股鸿博股份（002229）全资子公司北京英博数科科技有限公司（英博数科）从专注大模型算力服务向AGI（通用人工智能）全栈生态服务平台转型。\n12月18日，英博数科在北京举办首届“AI Tech Day”，英博数科正式宣布战略升级，从1.0阶段定位大模型算力服务商，到2.0定位“AGI全栈生态服务平台”——为AGI全产业链客户提供充足稳定的算力和全栈式解决方案。\n除了宣布战略升级外，英博数科还在会上推出“搏博云”。鸿博股份副总裁、英博数科CEO周韡韡在会上介绍，公司推出GPU云平台搏博云，希望连接客户和AI产业开发者，通过工具、应用、数据、APP商店，提供自助开户、商业交易，并可对接代理商、加盟商进行算力的商业化调度、为客户进行跨平台数据迁移、虚拟GPU等功能，从而让算力更高效的普惠化，像水和电一样随取随用。（澎湃新闻记者 周玲）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_25715190",
+          "publishedOn": "2023-12-19T15:23:06.000Z",
+          "wordCount": 34,
+          "title": "鸿博股份子公司英博数科宣布从大模型算力服务向AGI全栈生态服务平台转型",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_25707774",
+          "author": null,
+          "description": "发布会现场  澎湃新闻记者 周頔 摄\n\n12月19日，在国家发改委召开的12月例行新闻发布会上，澎湃新闻（www.thepaper.cn）记者提问：近期食品价格涨幅明显偏低，原因是什么、后期走势如何？国家发改委如何看待明年我国CPI的前景？\n对此，国家发改委政策研究室副主任、新闻发言人李超表示，今年1—11月，食品价格与去年基本持平，涨幅为近十年较低水平。究其原因，主要是受输入性、周期性、季节性等因素叠加影响，猪肉、蔬菜等价格去年基数较高、今年高位回落。具体来看：从猪肉看，去年下半年，生猪价格处于周期高位、产能明显增加，今年处于周期下行阶段，生猪、猪肉市场供应充足、价格低位运行，11月价格同比下降31.8%。\n李超表示，从近日情况看，随着“两节”临近，市场需求季节性增加，生猪、猪肉价格略有回升，后期可能继续有所回升。从鲜菜看，去年冬季，受运输物流一度不畅影响，鲜菜价格上涨较多，导致基数较高；今年同期国内物流配送畅通，鲜菜供给充足，10—11月平均价格同比下降1.6%。从粮食看，受地缘政治冲突等影响，去年国际粮食价格大幅上涨，直接导致国内小麦、玉米、大豆等谷物价格不同程度上升；今年输入性影响明显减弱，粮食、食用油价格总体平稳，对食品价格的影响远小于去年。从后期看，我国农产品市场供应充裕，产销衔接畅通，市场秩序良好，食品价格具备平稳运行基础。\n对于CPI明年前景问题，李超表示，今年CPI总体低位运行，随着输入性、周期性、季节性等因素有所改变，基数效应逐步减弱，商品服务需求持续恢复，预计明年CPI将温和回升。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_25707774",
+          "publishedOn": "2023-12-19T14:53:07.000Z",
+          "wordCount": 46,
+          "title": "国家发改委答澎湃：预计明年CPI将温和回升",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_25707337",
+          "author": null,
+          "description": "2020年，上海宝山区一名老人将价值300多万元的房产送给水果摊主刘先生，此事引发关注。在老人去世后，其亲属对遗产分配提出异议。近日，该案一审宣判，当地法院经过审理，判决涉案房屋及房屋内财物归水果摊主刘先生所有，并指出，应尊重被继承人的意愿和其所享有的财产处分权，对涉案遗赠扶养协议的效力予以认可。\n人们对这一案件的关注点、疑惑点在于其中的情感问题，也在于法律问题。情感问题关乎案件的故事性，法律问题则关乎案件的逻辑性与公正性。老人不把财产留给亲属，而是送给水果摊主这样的“外人”，让亲属想不通，也让围观者感到困惑。法院给出的答案既厘清了案件的是非，为当事人定分止争，也具有解疑释惑、普法教育的意义。\n老人把财产留给水果摊主，并不是随便说说，而是提前履行了必要的法律程序。双方在2017年签署了《遗赠扶养协议》，约定水果摊主承担老人生养死葬的义务，老人则将其房产、银行存款及其他财产在其去世后全部遗赠给对方。2019年，双方又通过公证方式签署了《意定监护协议》，老人指定水果摊主及其妻子作为意定监护人。根据我国民法典、老年人权益保障法等，这样的做法是有法律依据，也遵从了法律规定和要求的。\n当然，无论是选择意定监护人，还是达成遗赠抚养协议，都需以当事人的真实意思表示作为生效的前提，而真实意思表示则有赖于当事人的完全民事行为能力。这也是本案争议的焦点。尽管在2021年5月8日，法院通过判决宣告该老人为无民事行为能力人，但2019年公证人员公证《遗赠扶养协议》时，对其是否具备足够和真实的意思表示能力进行了审查，法院也认为，无证据表明其在签订遗赠扶养协议期间处于限制民事行为能力或者无民事行为能力状态，故该协议有法律约束力。\n情感问题有情感逻辑，法律问题则有法律逻辑。新闻中的老人在妻子、独子相继离世后，无人照顾，与水果摊主刘先生一家共同生活，得到了悉心照料，培育了深厚感情和彼此间的信任。这使得老人把财产留给刘先生一事在情感逻辑上能够自洽。在程序上合法，在事实上说得通，法院据此作出判决。\n上述案件虽是个案，但其对诸多面临或可能面临类似情况的老年人来说，具有一定的参考价值，老年人通过意定监护以及遗赠扶养对自己的财产做出安排，这是一种法定权利，每个人自由处分财产的权利都应得到尊重，司法应该为人们真实的选择和权利的实现护航。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_25707337",
+          "publishedOn": "2023-12-19T14:53:07.000Z",
+          "wordCount": 27,
+          "title": "工人日报刊文：把价值数百万元房产给“外人”带来的启示",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_25708308",
+          "author": null,
+          "description": "消防救援队员正在搜救\n\n12月19日，财政部、应急管理部紧急向甘肃、青海两省预拨中央自然灾害救灾资金2亿元，其中，甘肃1.5亿元、青海0.5亿元，支持地方开展抗震救灾工作，保障群众生命财产安全，最大限度减少灾害损失和影响。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_25708308",
+          "publishedOn": "2023-12-19T14:53:07.000Z",
+          "wordCount": 32,
+          "title": "财政部、应急管理部紧急向甘肃、青海预拨2亿元救灾资金",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_25715009",
+          "author": null,
+          "description": "12月19日，中国太保副总裁马欣在太平洋健康险蓝医保发布会上表示，近年来，我国低生育率和家庭小型化趋势明显，家庭抵御风险的能力大大降低，年轻客户更希望在有限的预算内，完成保险产品的配置。同时，在保险选择方面，除了对灾难性支出的财务安排外，也会重点关注医疗资源可及性、就医便捷性和舒适度。 \n马欣指出，国家卫健委最新发布的数据显示，去年全国卫生总费用继续增长，在直接医疗费用支出中，个人自付比例高达45%，而商保赔付支出仅为7%。商业健康险在支持国家多层次医疗保障体系建设，有效减轻居民就医负担方面，应该进一步主动作为，强化责任担当。\n据马欣介绍，一年来，“蓝医保”紧紧锚定年轻客群及其背后家庭，围绕全生命周期的客户需求，从医疗到重疾，从保障责任到就医问诊，每一次迭代升级都希望能够跳出“内卷”，用创新、有效的供给来为客户提供更多的选择、更优的服务。（澎湃新闻记者 胡志挺）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_25715009",
+          "publishedOn": "2023-12-19T14:53:07.000Z",
+          "wordCount": 30,
+          "title": "中国太保副总裁：商业健康险在支持国家多层次医疗保障体系建设，有效减轻居民就医负担方面应进一步主动作为",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_25715148",
+          "author": null,
+          "description": "美股三大股指集体高开，道指涨0.04%，纳指涨0.12%，标普500指数涨0.07%。（证券时报）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_25715148",
+          "publishedOn": "2023-12-19T14:53:07.000Z",
+          "wordCount": 27,
+          "title": "美股三大股指集体高开，纳指涨0.12%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_25714962",
+          "author": null,
+          "description": "12月19日，学而思正式发布学习机新品xPad2 Pro系列，14英寸机型xPad2 Pro Max首发价8599元，12.35英寸机型xPad2 Pro首发价6599元。在发布新机的过程中，学而思大模型MathGPT中文名确定为九章大模型，学而思教育集团CTO田密介绍，“就好像芯片之于手机一样，九章大模型就是学而思学习机的AI芯片。”\n学而思学习机负责人赵璞铮表示，传统学习机很多是“拼凑的内容+过时的硬件”，很难保证其专业性和体系性，所以实际利用率和效果很差，导致了超高的“吃灰率”。\n据悉，学而思学习机内置的自研内容目前可以涵盖启蒙至高中的全学段、全学科，并拥有20000余本数学教辅精讲，学而思教研团队会对这些内容进行同步更新，以此实现与各地校内课程的同步迭代。（澎湃新闻记者 吴雨欣）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_25714962",
+          "publishedOn": "2023-12-19T14:23:07.000Z",
+          "wordCount": 44,
+          "title": "学而思发布xPad2 Pro系列：内置自研内容，涵盖全学段全学科",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_25714966",
+          "author": null,
+          "description": "12月19日，摩尔线程首个全国产千卡千亿模型训练平台——摩尔线程KUAE智算中心正式揭牌，这也是国内首个以国产全功能GPU为底座的大规模算力集群正式落地。\n据介绍，摩尔线程KUAE智算中心解决方案以全功能GPU为底座，是软硬一体化的全栈解决方案，包括以KUAE计算集群为核心的基础设施、KUAE Platform集群管理平台以及KUAE ModelStudio模型服务，旨在以一体化交付的方式解决大规模GPU算力的建设和运营管理问题。该方案可实现开箱即用，大大降低传统算力建设、应用开发和运维运营平台搭建的时间成本，实现快速投放市场开展商业化运营。\n据介绍，此次发布的摩尔线程KUAE千卡模型训练平台，支持千亿参数模型的预训练、微调和推理。以2000亿训练数据量为例，智源研究院700亿参数Aquila2可在33天完成训练；1300亿参数规模的模型可在56天完成训练。（澎湃新闻记者 周玲）\n\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.run",
+          "link": "https://www.thepaper.cn/newsDetail_forward_25714966",
+          "publishedOn": "2023-12-19T14:23:07.000Z",
+          "wordCount": 34,
+          "title": "国内首个以国产全功能GPU为底座的大规模算力集群建成落地",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_25707726",
+          "author": null,
+          "description": "国防部新闻发言人吴谦就美对台军售答记者问。\n记者：据报道，美国国防安全合作局近日宣布一项3亿美元对台军售，以提供指挥、控制、通讯、计算机生命周期支持及相关设备。请问对此有何评论？\n吴谦：美国向中国台湾地区出售武器，严重违反一个中国原则和中美三个联合公报特别是“八一七公报”规定，严重损害中国主权安全，严重威胁台海和平稳定，向“台独”分裂势力发出错误信号，我们强烈不满，坚决反对。\n台湾问题始终是中美关系中最重要、最敏感的问题。我们要求美方停止武装台湾，切实将不支持“台独”的表态落实到具体行动，停止干涉中国内政，不要在错误和危险的道路上越走越远。“以台制华”注定失败，“以武谋独”死路一条。中国人民解放军加强练兵备战，坚决捍卫国家主权和领土完整，坚定维护台海和平稳定。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_25707726",
+          "publishedOn": "2023-12-19T13:53:07.000Z",
+          "wordCount": 30,
+          "title": "国防部回应美对台军售：“以台制华”注定失败，“以武谋独”死路一条",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_25714980",
+          "author": null,
+          "description": "12月19日，信达地产股份有限公司披露2023年面向专业投资者公开发行公司债券(第二期)发行公告。\n公告显示，信达地产面向专业投资者公开发行不超过75.40亿元(含75.40亿元)的公司债券已经上海证券交易所审核通过，并经中国证券监督管理委员会注册。\n该期为本次债券的第三期发行，本期债券发行规模不超过人民币8亿元(含8亿元)，不设置超额配售。本期债券票面金额为100元，按面值平价发行，发行数量不超过800万张，发行价格为100元/张。本期债券简称为“23信地05”。本期债券票面利率簿记建档区间为3.60%-4.90%，最终票面利率由发行人与簿记管理人根据网下向专业机构投资者的询价结果协商确定。据募集说明书显示，该期债券募集资金不超过8亿元(含8亿元)扣除发行费用后拟用于偿还有息债务。（澎湃新闻记者 李晓青）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_25714980",
+          "publishedOn": "2023-12-19T13:53:07.000Z",
+          "wordCount": 30,
+          "title": "信达地产拟发行不超8亿元公司债，利率区间3.60%-4.90%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_25714983",
+          "author": null,
+          "description": "12月19日，广州富力地产股份有限公司披露关于被列入失信被执行人名单及相关进展的公告。\n公告城，广州富力地产股份有限公司近期存在2条失信被执行人信息。被执行人为广州富力地产股份有限公司，执行法院分别为广州市天河区人民法院、贵阳市云岩区人民法院。\n公告显示，其中，(2023)粤0106执12070号执行案件，目前公司已妥善处理了相关事项并已被移出失信被执行人名单。\n(2023)黔0103执10126号执行案件，公司正在与相关机构积极沟通，公司将持续关注相关事件进展，按照法律法规及时履行相应的信息披露义务。\n公告表示，上述事项预计不会对本公司生产经营、财务状况及偿债能力产生重大不利影响。（澎湃新闻记者 李晓青）\n\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.run",
+          "link": "https://www.thepaper.cn/newsDetail_forward_25714983",
+          "publishedOn": "2023-12-19T13:53:07.000Z",
+          "wordCount": 30,
+          "title": "富力地产被列入失信名单进展：公司正在与相关机构积极沟通",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_25709999",
+          "author": null,
+          "description": "本文图均为 澎湃影像 图\n\n深夜的甘肃省临夏回族自治州积石山县，气温降到零下十多摄氏度，许多居民已早早入睡。\n12月18日23时59分，剧烈的晃动将人们从睡梦中惊醒。\n地震了！积石山县大河家镇梅坡村的丁先生至今心有余悸。地面震动持续了约一分钟，他们一家三口跑出房屋，和村民们烤火取暖过了一夜。\n天气严寒、呵气成冰，一夜不断出现余震。村里房子大多是砖房，房屋表面出现裂缝，有瓷砖贴面脱落，部分墙壁坍塌。\n此次地震震中位于积石县柳沟乡，距离县城8公里。截至19日中午，此次地震已造成甘肃105人死亡，房屋损毁4782间；造成与积石山县相邻的青海省海东市三个县受灾，13人遇难、182人受伤，20人失联，部分水、电、交通、通信等基础设施受损。\n积石山县海拔1735米至4309米，县城海拔2300米左右。近几日，雪后的积石山县气温较低，夜晚平均气温在零下15摄氏度左右。\n甘肃厚天灾害救援中心分队长汪多直言，被困人员将面临更大的风险，“地震发生在凌晨，很多人来不及躲避，一夜过去，情况很难预料”。\n鉴于灾情严重，国务院抗震救灾指挥部、应急管理部将国家地震应急响应提升至二级，国家防灾减灾救灾委员会、应急管理部将国家救灾应急响应提升至三级。\n严重的灾情、酷寒的环境，样样令人揪心。震后第一时间，各方救援力量紧急驰援，奔赴灾区。\n在寒冷的冬日里，一场争分夺秒、保卫生命的竞赛正在急速进行。\n\n寒冬深夜地震\n家住积石山县柳沟乡尕集村的李先生介绍，昨天半夜，他在家感受到地震，晃了“几分钟”。\n尕集村距震中约10公里。李先生说，尕集村有三百多户人家，有的村民在车上避险，有的住在救灾帐篷里，靠烧柴火取暖。\n李先生也将自家的车开到村里广场上避险。当地晚上气温低，零下十几度，他和家人在车内打火开暖气，“前两天还有下雪，昨天晚上幸好没下雪”。\n此次地震震中位于柳沟乡，距离积石山县8公里，距临夏市39公里。\n公开信息显…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_25709999",
+          "publishedOn": "2023-12-19T13:23:08.000Z",
+          "wordCount": 62,
+          "title": "积石山县震后的寒夜与白天",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_25714635",
+          "author": null,
+          "description": "12月19日，国内期货夜盘开盘涨跌不一，沪锡涨超1%；SC原油跌超1%，纯碱跌近2%。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_25714635",
+          "publishedOn": "2023-12-19T13:23:08.000Z",
+          "wordCount": 27,
+          "title": "国内期货夜盘开盘涨跌不一，纯碱跌近2%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_25713916",
+          "author": null,
+          "description": "12月19日晚间，农发种业（600313.SH）公告披露，基于对公司未来发展的信心，公司实际控制人之一致行动人中国华农资产经营有限公司（下称“华农资产”），于12月19日通过上海证券交易所交易系统以大宗交易方式增持本公司股份924058股，占总股本的0.09%。\n华农资产是农发种业实际控制人及第二大股东中国农业发展集团有限公司（下称“中国农发集团”）的全资子公司，与中国农发集团为一致行动人。本次增持前，华农资产持股比例为4.50%。公告同时提到，华农资产目前无后续增持计划。在符合有关法律、法规及相关制度的规定条件下，华农资产不排除未来在合适的情况下继续通过合法合规的方式增持本公司股份的可能。（澎湃新闻记者 贺梨萍）\n\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.run",
+          "link": "https://www.thepaper.cn/newsDetail_forward_25713916",
+          "publishedOn": "2023-12-19T13:23:08.000Z",
+          "wordCount": 29,
+          "title": "农发种业：公司实控人之一致行动人华农资产增持公司股份",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_25709783",
+          "author": null,
+          "description": "开园第一天，第二十五届哈尔滨冰雪大世界内有游客由于排队时间过长，无法玩到想玩的热门项目，现场有人大喊“退票”。哈尔滨市文旅局工作人员12月19日回应大皖新闻记者，事发后该局领导第一时间赶赴现场督导，18日已有部分游客退票，正督促景区细化优化接待安排。\n\n网传视频中，哈尔滨冰雪大世界一游玩项目门口，众多游客排队（视频截图）\n\n开园第一天有人喊“退票”\n12月18日上午11点，第二十五届哈尔滨冰雪大世界正式开园。开园第一日，游客在现场大喊“退票”的视频就在社交媒体传播，并引发关注。网传视频显示，不少游客挤在一起大喊“退票”。\n一名自称哈尔滨人的游客在社交媒体发布视频称，当天自己和家人去了冰雪大世界，其中门票里包含的5个项目需要预约，每半个小时预约一次，她和家人两小时预约了四次都没预约上，后来在现场听到有人喊“退票”。\n另有网民表示，冰雪大世界内有多个热门游玩项目需要预约后才能玩，自己好不容易预约上了，排了很长时间的队，却没能安排游玩。“零下20多度的天气，一排就是几个小时。”\n前述哈尔滨游客还表示，从现场预约信息看，“每半个小时摩天轮能预约210个名额，滑梯是400个名额。”而冰雪大世界从上午11点开园，晚上9点闭园，10个小时的时间，5个需要预约的项目中每个项目可能只有几千人能预约上。\n12月18日下午，第二十五届哈尔滨冰雪大世界发布了暂停售票公告，公告表示，当天预约游玩人数已达40000人，为保证游玩质量，现暂停销售12月18日门票。明日（12月19日）门票正常销售，请大家合理安排游玩时间，错峰出游。\n文旅局回应已去现场督导\n12月19日上午，大皖新闻记者多次拨打哈尔滨冰雪大世界公开的办公电话，都无法接通，其400开头的热线电话提醒称不方便接听。\n随后，大皖新闻记者联系了哈尔滨市文旅局，一名办公室工作人员告诉记者，事发后，该局领导第一时间就到冰雪大世界开展现场督导，12月18日，有部分游客进行了退票，据了解现场没有发生安全问题，由于每个项目承载的人数有限，没能百分之百满足游客的游玩需求，给一些游客带来了不好的体验，该局会督促景区细化优化接待安排。\n12月19日下午，哈尔滨冰雪大世界官方微信公众号发布致广大游客的一封信。\n尊敬的游客朋友：\n非常感谢大家对哈尔滨冰雪文化的钟爱，对哈尔滨冰雪大世界的青睐。冰雪是刻在我们骨子里的热爱，冰雪大世界是无数冰建人用他们的智慧、汗水，打造出的一片璀璨冰雪世界。2023年12月18日，第二十五届哈尔滨冰雪大世界开园，4万游客纷至沓来，部分游客的游玩需求没有得到充分满足，对此我们深表歉意。我们对服务不周进行深刻反思并连夜整改。\n为保证游客的游览体验，哈尔滨冰雪大世界将提升景区服务品质。即日起，园区内娱乐项目采取现场排队和延时服务方式，设置排队信息提示，对游玩项目分时、分段提醒，满足游客体验需求。园区内增加安保、接待、志愿服务人员，充实游客流量较高点位的服务力量，为游客提供维护秩序、问询导览等暖心服务。增加投诉受理服务台和客服人员，设置投诉服务电话400-639-1999，线下线上同步受理解决游客诉求，真诚接受广大游客的监督。\n在冰雪中为您服务的每一个人，都是城市温度的传递者。我们将敞开热情的怀抱，用最贴心的服务，让您感受冰雪的温暖和魅力。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_25709783",
+          "publishedOn": "2023-12-19T12:53:05.000Z",
+          "wordCount": 31,
+          "title": "冰雪大世界开园首日被喊退票，哈尔滨文旅局回应、园区致歉",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_25698825",
+          "author": null,
+          "description": "这两天，山东即墨实验高中的高三女生小雨（化名）过得很煎熬。\n12月9日晚上，小雨的高中班主任郑某某酒后查寝时对其进行猥亵。随后，即墨实验高中相关人员表示，学校已经积极介入处理。12月16日，小雨在网上发布了青岛市公安局即墨分局的行政处罚决定书，处理结果为行政拘留10天。\n“心情挺复杂的，不敢回去上学，现在只是暂时拘留了他。如果出来了，我怎么办？”12月18日，小雨向封面新闻记者表示，针对此事学校表示会处理此事，但实际上事情发生一个多星期后仍然没有行动，“无论是停职也好、开除也好，根本没看到任何结果。”\n一方面，学校尚未明确表态如何处理，另一方面，作为高三学生的她学业紧张，想早点回学校复课。“这段时间我一直停课在家，学校如果不处理，我就没办法回去上课、考试。”小雨说。\n男班主任猥亵女学生被行拘10天\n\n小雨的自述\n\n12月15日，小雨在网络发帖公开陈述了一周前的那件事。\n小雨就读的即墨实验高中实行寄宿制，她与另一名同学同住。据小雨描述，12月9日晚，室友走读回家，班主任郑某某在酒后查寝时，对她说了“男人都是坏人”“今晚要惩罚你”之类的话，并用手摸她的脸，对她进行搂抱。幸运的是，宿舍阿姨似乎听到了寝室内的异常声响，及时出现在宿舍门口并打开了走廊灯，这才让郑某某逃离了现场。\n\n班主任对小雨表达歉意\n\n小雨晒出的多张聊天截图显示，事发后，郑某某曾试图找当事女生一方道歉，并承认自己“做错了”。\n\n行政处罚决定\n\n12月16日，小雨发布了一份青岛市公安局即墨分局的行政处罚决定书。决定书中提到，违法行为人郑某某，52岁。2023年12月9日22时30分许，违法行为人郑某某在青岛市即墨区实验高中宿舍，趁房间无其他人在场情况下，用手抚摸女学生脸部，并对其进行搂抱，将嘴贴在其耳朵上等方式进行猥亵。以上事实有受害人陈述，证人证言，违法嫌疑人的陈述和申辩等证据证实，事实清楚，证据确凿。\n综上所述，违法嫌疑人郑某某的猥亵违法行为成立。根据相关法规，决定给予郑某某行政拘留十日的行政处罚。执行期限为2023年12月16日到2023年12月26日。\n记者了解到，郑某某为即墨区实验高中一名化学老师兼班主任。《青岛市即墨区实验高级中学2022—2023学年度第二学期工作总结》中提到，郑某某教师工作热情高，备课认真，紧抓学情，个人教学成绩突出。2021-2022学年度第一学期，郑某某还被评为师德先进个人。\n当事女学生：学校一直不处理就是逼我退学\n事情发生后，小雨就停课在家。“这几天，我都魂不守舍，浑浑噩噩，噩梦连天，没办法继续专心上课起居。”因为恐惧和不安，她一直期待学校能够给一个正面的回应，“学校一直说会处理，但是已经过去了一个多星期了，根本没看到结果。”小雨表示不解，“弄个处分需要一个多星期吗？”\n据小雨反馈，事后学校曾向她表示，为了不耽误其他学生高考，该班主任郑某某先暂且留职。“但一直没处理。”小雨说，事发后学校一直让她等待，但是只能“等待”。她表示：“学校不处理她就没办法回去上课，一直不处理就是逼我退学。”\n封面新闻记者就上述情况致电即墨区实验高中，工作人员表示其不清楚此事，随后匆匆挂断电话。该校工作人员此前曾表示，郑某某猥亵女学生情况属实。\n随后，记者致电即墨区教育和体育局，电话无人接听。此前，该单位工作人员回应媒体时表示，目前公安机关已将涉事教师行拘，后续教体局和学校也将依规依纪对涉事教师进行严肃处理。\n原标题《男班主任酒后查寝猥亵女学生 当事女生：目前一直在家 学校不处理就是逼我退学》",
+          "link": "https://www.thepaper.cn/newsDetail_forward_25698825",
+          "publishedOn": "2023-12-19T12:53:05.000Z",
+          "wordCount": 44,
+          "title": "青岛一高中班主任酒后查寝猥亵女生，当事女生：学校不处理是逼我退学",
+          "imageUrl": null
+        },
         {
           "id": "https://www.thepaper.cn/newsDetail_forward_25709904",
           "author": null,
@@ -10347,6 +10527,106 @@
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
         {
+          "id": "https://www.nationalreview.com/?p=1578292",
+          "author": "Jay Nordlinger",
+          "description": "A gift to National Review Institute is an investment in young people.",
+          "link": "https://www.nationalreview.com/2023/12/combatting-the-citadels-of-conformism-and-drivel/",
+          "publishedOn": "2023-12-19T15:25:48.000Z",
+          "wordCount": 8770,
+          "title": "Combating the Citadels of Conformism and Drivel",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/12/buckley-work.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1578254",
+          "author": "Ari Blaff",
+          "description": "Cardin announced in May that he would not seek reelection in 2024.",
+          "link": "https://www.nationalreview.com/news/breach-of-trust-dem-senator-breaks-silence-on-staffers-hearing-room-sex-tape/",
+          "publishedOn": "2023-12-19T13:16:02.000Z",
+          "wordCount": 9122,
+          "title": "‘Breach of Trust’: Dem Senator Breaks Silence on Staffer’s Hearing Room Sex Tape",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/12/Ben-Cardin-1.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1577943",
+          "author": "Jorge Jraissati",
+          "description": "Is there anything stopping Nicolás Maduro from seizing a disputed neighboring province by military force?",
+          "link": "https://www.nationalreview.com/2023/12/is-venezuela-going-to-war/",
+          "publishedOn": "2023-12-19T11:30:59.000Z",
+          "wordCount": 9277,
+          "title": "Is Venezuela Going to War?",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2022/07/venezuela-independence-13.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1578128",
+          "author": "The Editors",
+          "description": "It’s time to get wise about what Beijing is doing.",
+          "link": "https://www.nationalreview.com/2023/12/chinas-show-trial-of-jimmy-lai-is-a-sign-of-things-to-come/",
+          "publishedOn": "2023-12-19T11:30:49.000Z",
+          "wordCount": 8926,
+          "title": "China’s Show Trial of Jimmy Lai Is a Sign of Things to Come",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2022/04/jimmy-lai-hong-kong.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1578218",
+          "author": "Rich Lowry",
+          "description": "Welcome to the latest humiliation of a Biden-administration foreign policy premised on not being overly provocative toward our enemies.",
+          "link": "https://www.nationalreview.com/2023/12/the-houthis-are-humiliating-us/",
+          "publishedOn": "2023-12-19T11:30:39.000Z",
+          "wordCount": 9154,
+          "title": "The Houthis Are Humiliating Us",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2021/02/houthi-fighters-yemen.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1578155",
+          "author": "John Yoo",
+          "description": "The continuing effort to discredit the Supreme Court justice is growing ever more desperate.",
+          "link": "https://www.nationalreview.com/2023/12/the-campaign-against-clarence-thomas-misfires-yet-again/",
+          "publishedOn": "2023-12-19T11:30:39.000Z",
+          "wordCount": 9366,
+          "title": "The Campaign against Clarence Thomas Misfires Yet Again",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2020/02/20200203_clarence_thomas.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1578132",
+          "author": "Andrea Picciotti-Bayer",
+          "description": "The unserious organization’s antics have nothing to do with exercising religious freedom and everything to do with trying to undermine it.",
+          "link": "https://www.nationalreview.com/2023/12/the-satanic-temple-makes-a-mockery-of-religious-freedom/",
+          "publishedOn": "2023-12-19T11:30:35.000Z",
+          "wordCount": 9444,
+          "title": "The Satanic Temple Makes a Mockery of Religious Freedom",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/12/satanic-display-iowa.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1577910",
+          "author": "Matthew Lau",
+          "description": "The destruction of private child-care businesses is a national phenomenon.",
+          "link": "https://www.nationalreview.com/2023/12/a-canadian-tragedy-central-planning-meets-child-care/",
+          "publishedOn": "2023-12-19T11:30:26.000Z",
+          "wordCount": 9269,
+          "title": "A Canadian Tragedy: Central Planning Meets Child Care",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/12/justin-trudeau-childcare.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1577926",
+          "author": "Andre Archie",
+          "description": "A focus on character and merit is deeply rooted in the Western tradition.",
+          "link": "https://www.nationalreview.com/2023/12/we-need-a-color-blind-approach-to-race-relations/",
+          "publishedOn": "2023-12-19T11:30:17.000Z",
+          "wordCount": 9677,
+          "title": "We Need a Color-Blind Approach to Race Relations",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2019/01/martin-luther-king-nyc-1967.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1578010",
+          "author": "Michael Lucci",
+          "description": "Georgia’s leadership is showing that tax relief and a streamlined tax structure are achievable when economic growth aligns with fiscal restraint.",
+          "link": "https://www.nationalreview.com/2023/12/georgia-leaders-sweeten-tax-deal-with-more-tax-cuts/",
+          "publishedOn": "2023-12-19T11:30:03.000Z",
+          "wordCount": 8969,
+          "title": "Georgia Leaders Sweeten Tax Deal with More Tax Cuts",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/12/brian-kemp-governor-georgia.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
           "id": "https://www.nationalreview.com/?post_type=blog-post&p=1578115",
           "author": "David Zimmermann",
           "description": "The Republican-sponsored bill empowers state and local police to arrest and deport illegal immigrants.",
@@ -14875,26 +15155,6 @@
           "wordCount": 9380,
           "title": "NYC’s University System Must Stop Professor’s Antisemitic Silencing",
           "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/11/cuny-students-protest.jpg?fit=1200%2C700&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1567668",
-          "author": "Luther Ray Abel",
-          "description": "The hotly contested presidential run-off saw Milei defeating left-wing candidate Sergio Massa as Argentinians look to arrest triple-digit inflation.",
-          "link": "https://www.nationalreview.com/news/anarcho-capitalist-javier-milei-elected-president-in-argentina/",
-          "publishedOn": "2023-11-20T00:48:08.000Z",
-          "wordCount": 8775,
-          "title": "‘Anarcho-Capitalist’ Javier Milei Elected President in Argentina",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/11/javier-ilei-111923.jpg?fit=1200%2C700&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1567634",
-          "author": "Caroline Downey",
-          "description": "Former president Jimmy Carter has been in hospice care since February.",
-          "link": "https://www.nationalreview.com/news/former-first-lady-rosalynn-carter-dies-at-96/",
-          "publishedOn": "2023-11-19T20:57:05.000Z",
-          "wordCount": 8409,
-          "title": "Former First Lady Rosalynn Carter Dies at 96",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/11/jimmy-carter-rosalynn-carter-1979.jpg?fit=1200%2C700&ssl=1"
         }
       ]
     },
@@ -14903,6 +15163,46 @@
       "feedUrl": "https://sspai.com/feed",
       "siteUrl": "https://sspai.com",
       "articles": [
+        {
+          "id": "https://sspai.com/prime/story/play-integrity-and-the-demise-of-the-android-mod-community",
+          "author": "克莱德",
+          "description": "你知道 Android 什么时候开始变得无聊吗？大家都开始接受「不合理」的时候。查看全文\n本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
+          "link": "https://sspai.com/prime/story/play-integrity-and-the-demise-of-the-android-mod-community",
+          "publishedOn": "2023-12-19T13:12:01.000Z",
+          "wordCount": 1017,
+          "title": "Android 玩机社区正在走向消亡",
+          "imageUrl": "https://cdn.sspai.com/2023/12/19/article/c75140a8-f29c-6b2e-fd54-e5948023bac2.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/85179",
+          "author": "Matrix机器人",
+          "description": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意以及社区产品动态呈现给大 ...查看全文",
+          "link": "https://sspai.com/post/85179",
+          "publishedOn": "2023-12-19T09:10:46.000Z",
+          "wordCount": 912,
+          "title": "社区速递 025 | 刘海工具、百元耳机以及千奇百怪的放松姿势",
+          "imageUrl": "https://cdn.sspai.com/12/19/2023/article/ba42d234-e07b-cd29-fa78-126ef5271d7c.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/85047",
+          "author": "吃派的水獭",
+          "description": "少数派联合特洛克，定制了这款寻呼机造型的移动电源，我们相信它或许会是一份独特记忆的实体，并伴随你左右，常看常新。查看全文",
+          "link": "https://sspai.com/post/85047",
+          "publishedOn": "2023-12-19T08:31:33.000Z",
+          "wordCount": 829,
+          "title": "经典再现 | 从寻呼时代穿越到 2023，我们「重制」了曾影响世界的 BB 机",
+          "imageUrl": "https://cdn.sspai.com/2023/12/14/article/16832582-2e35-1463-d4cc-b7f272c0f341.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/85055",
+          "author": "来个板烧鸡腿堡",
+          "description": "买蔚来不仅仅只是买一台车，更是买一种生活方式。查看全文",
+          "link": "https://sspai.com/post/85055",
+          "publishedOn": "2023-12-19T07:00:00.000Z",
+          "wordCount": 828,
+          "title": "我的第三台电车，为什么选择蔚来 ES6？",
+          "imageUrl": "https://cdn.sspai.com/2023/12/17/a3f639a181a209825e5b32cc621f31de.png"
+        },
         {
           "id": "https://sspai.com/post/84576",
           "author": "艾佛利山的杨博士",
@@ -15922,26 +16222,6 @@
           "wordCount": 1511,
           "title": "iPhone 加入游戏，但 USB-C 的乱纪元还没有完结",
           "imageUrl": "https://cdn.sspai.com/11/20/2023/article/87ef3cfc-82b6-583d-ac9e-d895a3499ba3.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/84471",
-          "author": "玉树芝兰",
-          "description": "你都用到了哪些惊艳的GPTs应用呢？浪潮OpenAI开发者大会后，你不难发现创建定制化GPTs应用变得非常简单，致使众多创新者纷纷进入这一领域。我使用DALL・E3技术，在ChatGPT中绘制了一幅图 ...查看全文",
-          "link": "https://sspai.com/post/84471",
-          "publishedOn": "2023-11-20T02:30:00.000Z",
-          "wordCount": 802,
-          "title": "哪些 GPTs 应用让我眼前一亮？你又该如何找到它们？",
-          "imageUrl": "https://cdn.sspai.com/2023/11/17/b227814f827a17ad6edd77161cffdba5.png"
-        },
-        {
-          "id": "https://sspai.com/post/84504",
-          "author": "少数派编辑部",
-          "description": "你可能错过的新鲜事SamAltman被解职，正协商重返*本条资讯为正在继续发展的事件，以下信息为截至20日9点的信息，可能随时间推移而变化或过时。11月17日，OpenAI,Inc.董事会宣布，由于C ...查看全文",
-          "link": "https://sspai.com/post/84504",
-          "publishedOn": "2023-11-20T01:03:49.000Z",
-          "wordCount": 974,
-          "title": "派早报：Sam Altman 被解职，正协商重返",
-          "imageUrl": "https://cdn.sspai.com/11/19/2023/article/1a221124-2056-693a-3f35-f9d7366109e6.png"
         }
       ]
     },
@@ -15950,6 +16230,96 @@
       "feedUrl": "https://plink.anyfeeder.com/idaily/today",
       "siteUrl": "https://docs.rsshub.app",
       "articles": [
+        {
+          "id": "https://m.idai.ly/se/c31NNs",
+          "author": null,
+          "description": "欧空局公布一张 JWST 太空望远镜拍摄的「天王星」（Uranus）照片，清晰呈现天王星的行星环、大气风暴、季节性极冠等细节特征，行星环外的9颗蓝色光点是天王星的卫星。天王星距离太阳约29亿公里，是太阳系距离太阳第二远的行星，也是太阳系中温度最低的行星，大气云顶温度最低仅-224℃。天王星的行星环主要由水冰、尘埃和卫星碎片构成。摄影师：ESA",
+          "link": "https://m.idai.ly/se/c31NNs",
+          "publishedOn": "2023-12-19T11:59:00.000Z",
+          "wordCount": 1166,
+          "title": "韦伯望远镜观测天王星",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.idai.ly/se/885ix5",
+          "author": null,
+          "description": "第25届哈尔滨冰雪大世界正式向公众开放，黑龙江省。12月18日，哈尔滨冰雪大世界开园首日预约人数达4万人次，预计门票收入超过1200万元。中国铁路集团数据显示黑龙江铁路系统11月共发送旅客612万人次，同比增长达498.2%，主要受到冰雪季游客上升的利好影响。受新一波寒潮侵袭影响，哈尔滨市12月19日最低气温降至-29℃，最高气温仅-21℃。摄影师：iDaily Media",
+          "link": "https://m.idai.ly/se/885ix5",
+          "publishedOn": "2023-12-19T10:57:00.000Z",
+          "wordCount": 1166,
+          "title": "哈尔滨冰雪大世界开园",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.idai.ly/se/fa3XT0",
+          "author": null,
+          "description": "俄罗斯总统 Vladimir Putin 提交总统候选人登记文件，莫斯科。12月18日，俄总统 Putin 正式以独立候选人身份登记参加2024年总统选举。根据俄联邦总统选举法，独立候选人需要收集至少40个地区的30万人签名支持。最新民调显示 Putin 支持率约为85%，比10月上升3个百分点，主要受特别军事行动进展顺利、居民收入上涨等积极因素影响。新一届俄罗斯大选将于2024年3月15日至17日举行。摄影师：Mikhail Klimentyev",
+          "link": "https://m.idai.ly/se/fa3XT0",
+          "publishedOn": "2023-12-19T10:55:00.000Z",
+          "wordCount": 1166,
+          "title": "普京提交总统参选文件",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.idai.ly/se/825viH",
+          "author": null,
+          "description": "埃及全国选举委员会宣布现任总统 Abdel Fattah El-Sisi 以89.6%得票率成功连任，开罗。12月18日，埃及现任总统 El-Sisi 在首轮大选投票中获得3970万票，以压倒性优势再次赢得连任。本届埃及总统选举共有约4480万选民参与投票，投票率达66.8%，创下历史新高。根据埃及现行宪法，现年69岁的 El-Sisi 将在2024年4月正式开启他的第三个亦是最后一个总统任期，执政时间可持续至2030年。摄影师：Islam Safwat",
+          "link": "https://m.idai.ly/se/825viH",
+          "publishedOn": "2023-12-19T10:53:00.000Z",
+          "wordCount": 1166,
+          "title": "埃及总统塞西赢得第3任期",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.idai.ly/se/2cdXgU",
+          "author": null,
+          "description": "智利首都圣地亚哥一个投票站公布修宪公投计票结果。12月17日，智利全国公投以55.75%的反对率否决新宪法草案，这份修宪草案主要由保守极右翼在野党起草，具体条款包括驱逐非法移民，限制女性堕胎权，进一步私有化医疗、教育和养老产业等。这是智利2年内第二次进行修宪公投，现任总统 Gabriel Boric 宣布任内不会再进行修宪提案。摄影师：Ivan Alvarado",
+          "link": "https://m.idai.ly/se/2cdXgU",
+          "publishedOn": "2023-12-19T10:51:00.000Z",
+          "wordCount": 1166,
+          "title": "智利修宪公投二度失败",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.idai.ly/se/5352mE",
+          "author": null,
+          "description": "匈牙利总理 Viktor Orban 和土耳其总统 Recep Tayyip Erdogan 出席联合新闻发布会，布达佩斯。12月18日，土耳其总统应邀对匈牙利进行1天工作访问，两国领导人就双边关系、北约扩员、地区及国际局势议题进行讨论并见证签署17项协议文件。双方宣布将土匈关系提升为「高级战略伙伴关系」，加强能源、国防、文化等领域的合作关系，推动实现将双边贸易额从40亿美元提升至60亿美元。土方表示全力支持匈牙利担任2024年欧盟轮值主席国。摄影师：Attila Kisbenedek",
+          "link": "https://m.idai.ly/se/5352mE",
+          "publishedOn": "2023-12-19T10:49:00.000Z",
+          "wordCount": 1166,
+          "title": "土耳其总统访问匈牙利",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.idai.ly/se/cf24d7",
+          "author": null,
+          "description": "一名以色列空袭中遇难的加沙儿童，加沙地带。12月18日，以色列军队持续对加沙北部主城和南部汗尤尼斯的医院和居民区集中发动袭击。以巴本轮冲突已造成加沙地带19453人死亡，逾5.2万人受伤，60%以上基础设施被摧毁。联合国安理会将于12月19日就阿拉伯国家提交的新一份涉加沙草案进行表决，呼吁加沙冲突地区「紧急和可持续地停止敌对行动」，允许人道主义救援物资安全、不受阻碍地进入加沙地带。摄影师：Abed Rahim Khatib",
+          "link": "https://m.idai.ly/se/cf24d7",
+          "publishedOn": "2023-12-19T10:47:00.000Z",
+          "wordCount": 1166,
+          "title": "加沙冲突死亡19453人",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.idai.ly/se/c59jct",
+          "author": null,
+          "description": "朝鲜最高领导人金正恩携女儿观摩「火星-18」洲际弹道导弹试射。12月19日，朝中社报道「火星-18」固体燃料洲际弹道导弹飞行1002.3公里后精准落在半岛东部公海的目标水域，全程耗时73分35秒，再次验证朝军战略武器的战斗力和迅速反应能力。这是朝鲜2023年第3次试射「火星-18」导弹，金正恩亲自观摩并对训练成果表示满意，指示相关部门加快巩固发展战略核武力。美日韩三国当天宣布正式启动朝鲜导弹预警信息实时共享体系。摄影师：KCNA",
+          "link": "https://m.idai.ly/se/c59jct",
+          "publishedOn": "2023-12-19T10:45:00.000Z",
+          "wordCount": 1166,
+          "title": "金正恩观摩洲际导弹试射",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.idai.ly/se/f4aFdu",
+          "author": null,
+          "description": "韩国首尔曹溪寺僧侣正在清扫大殿内的佛像。12月18日，首尔曹溪寺进行一年一度的佛身除尘仪式，共有约20名僧侣和50名信徒参加。亚洲开发银行（ADB）本月发布经济展望报告，预测韩国2023年 GDP 增长幅度达到1.3%，通胀率上升至3.6%。韩国11月消费者价格指数（CPI）同比上涨3.3%，连续4个月超过3%，主要受能源与农产品价格上涨影响。摄影师：iDaily Media",
+          "link": "https://m.idai.ly/se/f4aFdu",
+          "publishedOn": "2023-12-19T10:43:00.000Z",
+          "wordCount": 1166,
+          "title": "首尔寺庙年末大扫除",
+          "imageUrl": null
+        },
         {
           "id": "https://m.idai.ly/se/c69CW0",
           "author": null,
@@ -17958,6 +18328,16 @@
       "siteUrl": "http://nytimes.com",
       "articles": [
         {
+          "id": "https://cn.nytimes.com/asia-pacific/20231219/chaebol-south-korea/dual",
+          "author": null,
+          "description": "VICTORIA KIM, DAISUKE WAKABAYASHI2023年12月19日在2021年拍摄的照片中，时任韩国总统文在寅（中）会见了（左起）：LG集团总裁具光谟、SK集团总裁崔泰源、现代集团总裁郑义宣、三星电子总裁金奇南。 Yonhap/EPA, via Shutterstock\nFor decades, South Korea’s economy has been dominated by a handful of family-run conglomerates that hold outsize wealth and influence and factor into nearly every aspect of life in the country.\n几十年来，韩国经济一直由少数几家家族经营的企业集团主导，它们拥有巨大的财富和影响力，几乎影响着这个国家生活的方方面面。\nBecause of their political heft, the chaebol, as these families are known, have long been a matter of immense public interest. The marriages, deaths, estrangements and legal troubles of these families are chronicled in the South Korean press. Fictional chaebol families have been depicted in Korean dramas. The Lee family of Samsung, the Koos of LG, the Cheys of SK, the Shins of Lotte and the Chung…",
+          "link": "https://cn.nytimes.com/asia-pacific/20231219/chaebol-south-korea/dual",
+          "publishedOn": "2023-12-19T07:06:02.000Z",
+          "wordCount": 1008,
+          "title": "关于韩国几大财阀家族，你应该知道的",
+          "imageUrl": "https://static01.nyt.com/images/2023/12/18/multimedia/18lg-chaebol-1-zqhw/18lg-chaebol-1-zqhw-articleLarge.jpg"
+        },
+        {
           "id": "https://cn.nytimes.com/usa/20231219/election-interference-china-russia/dual",
           "author": null,
           "description": "JULIAN E. BARNES2023年12月19日美国国家安全局局长保罗·中曾根将军正带领一个团队收集有关干预下届大选的信息。 Anna Moneymaker/Pool, via Getty Images\nThe Chinese government stepped up its efforts to influence American politics in the 2022 election, a new report released on Monday said, and intelligence officials are trying to learn if Beijing is preparing to further intensify those activities in next year’s presidential election.\n周一发布的一份新报告称，在2022年的选举中，中国政府加大了影响美国政治的努力，情报官员正在试图了解北京是否准备在明年的总统选举中进一步加强这些活动。\nAmerican intelligence agencies did not observe a foreign leader directing an interference campaign against the United States in 2022 in the same way Russia did in 2016. But, the report said, the U.S. government found an array of countries engaged in some kind of influence operations.\n美国情报机构没有发现外国领导人在2022年指挥针对美国的干预行动，就像俄罗斯在2016年所做的那样。…",
@@ -18806,16 +19186,6 @@
           "wordCount": 1524,
           "title": "中国多地推进城中村改造，希望借此提振楼市、刺激经济",
           "imageUrl": "https://static01.nyt.com/images/2023/11/14/multimedia/00china-rebuilding-01-jpgl/00china-rebuilding-01-jpgl-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/china/20231120/xi-jinping-biden-apec/dual",
-          "author": null,
-          "description": "DAVID PIERSON, ANA SWANSON, DAVID E. SANGER2023年11月20日习近平通过让政治对手或者进班房或者靠边站，以及加强对文职政府和军队的控制，把越来越多的权力集中到自己手上。 Doug Mills/The New York Times\nAs the most powerful Chinese leader in generations, Xi Jinping rarely bothers to glad-hand or to try charming a crowd. His public appearances in China are carefully crafted, with fawning cadres and adoring fans positioned around him.\n作为几代人以来最具权势的中国领导人，习近平很少会费心去讨好或者取悦民众。他在中国的公开露面都是经过精心安排的，周围全是阿谀奉承的领导干部和崇拜的粉丝。\nSo when Mr. Xi landed in San Francisco this week to meet with President Biden, to try to stabilize a relationship with the United States that has been spiraling downward, it provided a rare opportunity to see the Chinese leader up close and, at times, less filtered than usual.\n因此，当习近平抵达旧金山与拜登总统会面，试图稳定呈螺旋式下滑的中美关系时，这提供了一次难得的机会，让我们得以近距离观察这位中国领导人，时不时能看到他…",
-          "link": "https://cn.nytimes.com/china/20231120/xi-jinping-biden-apec/dual",
-          "publishedOn": "2023-11-20T04:06:02.000Z",
-          "wordCount": 1441,
-          "title": "旧金山之行让外界窥见习近平更为真实的一面",
-          "imageUrl": "https://static01.nyt.com/images/2023/11/17/multimedia/17dc-xi-assess-kpqj/17dc-xi-assess-kpqj-articleLarge.jpg"
         }
       ]
     },
@@ -18824,6 +19194,56 @@
       "feedUrl": "https://plink.anyfeeder.com/weixin/ibookreview",
       "siteUrl": "http://weixin.sogou.com/weixin?type=1&s_from=input&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A",
       "articles": [
+        {
+          "id": "ea8b61cb604e3cef691752ab29a8e07a",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E4%BC%8A%E6%9C%97%E8%AF%97%E4%BA%BA%E8%8A%99%E6%B4%9B%E6%A0%BC%C2%B7%E6%B3%95%E7%BD%97%E8%B5%AB%E6%89%8E%E5%BE%B7%EF%BC%9A%E8%A3%82%E9%9A%99%E4%B8%AD%E7%9A%84%E6%9C%80%E9%AB%98%E7%81%AB%E7%84%B0",
+          "publishedOn": "2023-12-19T01:57:00.000Z",
+          "wordCount": 326,
+          "title": "伊朗诗人芙洛格·法罗赫扎德：裂隙中的最高火焰",
+          "imageUrl": null
+        },
+        {
+          "id": "27c731e5030a20fce67db3925ee417db",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E7%99%BD%E4%BA%95%E6%99%BA%E4%B9%8B%EF%BC%9A%E5%87%BA%E9%81%93%E5%8D%81%E5%B9%B4%EF%BC%8C%E4%BB%8E%E9%AC%BC%E7%95%9C%E6%B5%81%E6%8E%A8%E7%90%86%E5%88%B0%E6%96%B0%E6%9C%AC%E6%A0%BC%E5%85%A8%E8%83%BD%E7%8E%8B",
+          "publishedOn": "2023-12-19T01:57:00.000Z",
+          "wordCount": 294,
+          "title": "白井智之：出道十年，从鬼畜流推理到新本格全能王",
+          "imageUrl": null
+        },
+        {
+          "id": "88bcbf85b37f8ae4649da03de4581977",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E4%B9%9D%E9%97%A8%E8%B5%B0%E4%B9%9D%E8%BD%A6%EF%BC%9F%E6%97%A7%E6%97%B6%E5%85%89%E9%87%8C%E7%9A%84%E5%8C%97%E4%BA%AC%E5%9F%8E%EF%BD%9C%E4%BA%AC%E5%8D%8E%E7%89%A9%E8%AF%AD",
+          "publishedOn": "2023-12-19T01:57:00.000Z",
+          "wordCount": 287,
+          "title": "九门走九车？旧时光里的北京城｜京华物语",
+          "imageUrl": null
+        },
+        {
+          "id": "4018e1849b5ef2bbfd541cb9becbc81a",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E7%BB%98%E6%9C%AC%EF%BC%8C%E6%AF%8F%E7%BF%BB%E4%B8%80%E9%A1%B5%E9%83%BD%E6%98%AF%E5%85%A8%E6%96%B0%E7%9A%84%E4%B8%96%E7%95%8C%EF%BC%9F%EF%BD%9C%E7%AB%A5%E4%B9%A6%E6%96%B0%E5%93%81",
+          "publishedOn": "2023-12-18T02:10:00.000Z",
+          "wordCount": 334,
+          "title": "什么样的绘本，每翻一页都是全新的世界？｜童书新品",
+          "imageUrl": null
+        },
+        {
+          "id": "1b375f9e09b06ac7a957af7c9b4cae7c",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E9%9A%90%E5%BD%A2%E7%9A%84%E7%BE%8E%E5%9B%BD%EF%BC%9A%E5%BA%95%E5%B1%82%E7%9A%84%E5%9B%B0%E5%85%BD%E4%B9%8B%E6%96%97%E4%B8%8E%E5%96%84%E8%89%AF",
+          "publishedOn": "2023-12-18T02:10:00.000Z",
+          "wordCount": 321,
+          "title": "隐形的美国：底层的困兽之斗与善良",
+          "imageUrl": null
+        },
         {
           "id": "6e07ca13b50ddad83a6b8d8141a8936c",
           "author": null,
@@ -19582,26 +20002,6 @@
           "publishedOn": "2023-11-21T02:00:00.000Z",
           "wordCount": 309,
           "title": "“三山五园”中玉泉山静明园的修缮与再遭劫难丨京华物语",
-          "imageUrl": null
-        },
-        {
-          "id": "909f1e0236ee4ff3db7ea93a3e330f68",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E5%B0%8F%E7%86%8A%E8%8B%B1%E4%BA%8C%E3%80%81%E7%8E%8B%E5%8D%87%E8%BF%9C%E3%80%81%E6%9D%8E%E8%BF%9C%E6%B1%9F%EF%BC%9A%E4%B8%AA%E4%BD%93%E8%AE%B0%E5%BF%86%E3%80%81%E5%8E%86%E5%8F%B2%E7%BD%AA%E8%B4%A3%E4%B8%8E%E5%AE%B6%E6%97%8F%E5%8F%B2%E4%B9%A6%E5%86%99",
-          "publishedOn": "2023-11-20T02:03:00.000Z",
-          "wordCount": 332,
-          "title": "小熊英二、王升远、李远江：个体记忆、历史罪责与家族史书写",
-          "imageUrl": null
-        },
-        {
-          "id": "086214af38639dd8ac85cdf6cd106da6",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E9%80%81%E7%BB%99%E7%88%B1%E4%B9%A6%E4%BA%BA%E7%9A%84%E4%B8%80%E4%BB%BD%E7%A7%81%E8%97%8F%E4%B9%A6%E5%8D%95%EF%BD%9C%E3%80%8A%E6%97%B6%E9%97%B4%E7%9A%84%E5%88%BB%E5%BA%A6%EF%BC%9A%E6%96%B0%E4%BA%AC%E6%8A%A5%E5%B9%B4%E5%BA%A6%E5%A5%BD%E4%B9%A620%E5%B9%B4%E3%80%8B%E7%8B%AC%E5%AE%B6%E7%83%AD%E5%8D%96%E4%B8%AD",
-          "publishedOn": "2023-11-20T02:03:00.000Z",
-          "wordCount": 289,
-          "title": "送给爱书人的一份私藏书单｜《时间的刻度：新京报年度好书20年》独家热卖中",
           "imageUrl": null
         }
       ]
