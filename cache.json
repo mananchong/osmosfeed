@@ -24,16 +24,6 @@
           "wordCount": 5851,
           "title": "R Weekly 2023-W50 NHL Birth Dates, Quarto Dashboards, View",
           "imageUrl": "https://rweekly.org/public/facebook.png"
-        },
-        {
-          "id": "https://rweekly.org/2023-W49.html",
-          "author": null,
-          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Batool Almarzouq, with help from the R Weekly team members and contributors.\nHighlight\nCliff notes about the cli package\nHow to make your own #RStats Wrapped\ndeposits R Package Delivers a Common Workflow for R Users\nInsights\nCliff notes about the cli package\ndeposits R Package Delivers a Common Workflow for R Users\ngssr Update\n\nLittle useless-useful R functions –  How to make R-squared useless\nR in the Real World\nTime Series Analysis and Understanding a Eurobond Fund with Prophet\n\nR in Organizations\nR in Action: Madrid R Users Group on Trends and Insights Navigating R’s Evolution and Future Trends in Madrid’s Dynamic Industry\n2023 : A Year of Progress for PHUSE CAMIS Working…",
-          "link": "https://rweekly.org/2023-W49.html",
-          "publishedOn": "2023-12-04T00:00:00.000Z",
-          "wordCount": 5780,
-          "title": "R Weekly 2023-W49, cli package, the deposits R package, RStats Wrapped!",
-          "imageUrl": "https://rweekly.org/public/facebook.png"
         }
       ]
     },
@@ -401,16 +391,6 @@
           "wordCount": null,
           "title": "王浩︱生物学的形式与直觉",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_25512018",
-          "author": null,
-          "description": "一百多年来各种不同层面的译介，深刻改变了中国思想的语境。西方经典的格义和诠释，极大拓展了汉语表达的疆界。今天，试图回到纯净的中国传统哲学的语境，恐怕只是一种无助的乡愁。当代汉语的丰富性，蕴涵着新的哲学可能。如何在延续中国固有哲学精神的基础上，面对当代世界展开新的思考，是中国哲学研究应该面对的问题。系列讨论“当代中国哲学五人谈”围绕当代中国哲学的问题、形态、语言等论域中的主题，在阐发和对话中开启新的思想可能。\n自2016年至今，由北京大学哲学系先刚教授主编、北京大学出版社出版的中文版“谢林著作集”将谢林的一系列经典著作首次呈现在学界公众眼前，一举扭转了长期以来汉译谢林著作的匮乏局面，使德国古典哲学的“神圣家族”（康德-费希特-谢林-黑格尔）的汉译经典文本达到了某种均衡。随着这些汉译著作的不断面世，谢林在形而上学、自然哲学、艺术哲学、历史哲学、神话哲学和宗教哲学等领域的新颖而深刻的哲学思想引发了学界关注，与当代的各种哲学思潮产生出许多碰撞和交流。2023年6月18日，“当代中国哲学五人谈·第五季”邀请先刚教授与北京大学哲学系吴增定教授、复旦大学哲学学院丁耘教授、北京大学哲学系杨立华教授、北京大学哲学系吴飞教授围绕“谢林与当代中国”展开了多视野多角度的讨论和交锋。对谈由北京大学哲学系李猛教授主持。\n本季五人谈由北京大学出版社编辑王晨玉、田炜，以及澎湃新闻记者丁雄飞共同整理，经作者审定。\n\n弗里德里希·威廉·约瑟夫·冯·谢林（1775.1.27-1854.8.20）\n\n开场白\n北京大学哲学系教授 李猛\n德国古典哲学，可以说不仅是西方哲学，而且是广义的西学，进入中国的最强劲有力的思潮。在德国哲学进入中国的历程中，最早产生影响的是叔本华和尼采，作为反传统的资源，他们直接影响了王国维和鲁迅。后来是康德哲学和黑格尔哲学，或是成为中国心学的对应物，或是成为马克思主义的思想来源。可以说，德国古…",
-          "link": "https://www.thepaper.cn/newsDetail_forward_25512018",
-          "publishedOn": "2023-12-04T03:02:05.000Z",
-          "wordCount": null,
-          "title": "先刚 吴增定 丁耘 杨立华 吴飞 李猛｜谢林与当代中国",
-          "imageUrl": null
         }
       ]
     },
@@ -419,6 +399,206 @@
       "feedUrl": "https://feedx.net/rss/thepaper.xml",
       "siteUrl": "http://thepaper.cn",
       "articles": [
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_25872602",
+          "author": null,
+          "description": "据央视新闻消息，泰国总理赛塔·他威信当地时间1月2日表示，中泰两国将从3月起永久互免对方公民签证。\n消息公布后，携程平台上，泰国关键词搜索量环比一小时前增长超90%，上海至曼谷、北京至曼谷等航班搜索量瞬时骤增40%以上。携程集团国际版Trip.com泰国站点上，中国关键词的搜索热度环比一小时前增长超80%，广州、上海、北京、昆明等城市搜索热度较高。\n\n当地时间2023年9月26日，泰国曼谷，中国游客参观玉佛寺。IC photo 资料图\n\n携程数据显示，截至1月1日，从1月2日至春节期间中国前往泰国的旅游订单量比2023年增长超10倍。从泰国前往中国大陆的旅游预订量也比2023年增长779%。泰国游客前往中国的热门目的城市为：上海、广州、北京、哈尔滨、成都、昆明、深圳、杭州、重庆、长沙。\n携程集团公共事务部总经理秦静表示：“中泰两国互为重要的客源地和目的地。泰国是2023年中国入境游十大客源国之一，刚刚过去的元旦假期，泰国位居中国游客出境游热门目的地前三。永久相互免签，这将对于两国人文交流、旅游业发展产生积极深远影响。中泰各界人士开展商务、会展、旅行等各项活动的便利程度将大幅提升，也将带动中国入境游市场在2024年迎来可观的增长。”\n消息发布后半小时内，同程旅行平台泰国旅游搜索热度较前日同一时段上涨158%。广东、江苏、上海、四川、浙江等省市居民最关注泰国旅游相关消息。\n同程研究院相关负责人分析，目前出境游市场正在快速复苏，而泰国是中国游客最关注的出境游目的地之一，此次永久互免签证政策为游客释放了更为积极的信号，将利好中国和泰国之间的旅游和商务往来。\n同程旅行数据显示，在刚刚结束的元旦假期，泰国曼谷、普吉、清迈三座城市进入元旦假期热门出境游目的地前十，其中曼谷排名第一，曼谷-芭提雅也是预订量最高的出境游线路产品。今年春节，预计泰国仍是热度较高的出境游目的地。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_25872602",
+          "publishedOn": "2024-01-02T15:53:05.000Z",
+          "wordCount": 49,
+          "title": "中泰两国3月起永久互免签证，赴泰旅游搜索热度大涨",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_25872702",
+          "author": null,
+          "description": "近日，某视频平台有近百万粉丝、ID名为“欧可爱”的机车网红在海南万宁因车祸溺水身亡，年仅20余岁。1月2日，万宁市公安局交通管理大队事故中队工作人员告诉红星新闻记者，肇事司机已满16岁，警方已对其刑事拘留。\n\n▲“欧可爱”个人账号\n\n2023年12月27日，“欧可爱”在其个人账号晒出她的登机牌，并分享了她到海南万宁日月湾游玩的视频。\n2024年1月1日，红星新闻从“欧可爱”多位亲友处获悉，“欧可爱”因车辆翻车于去年12月29日5时许在海南万宁不幸溺水离世。\n“欧可爱”家属称，当时，“欧可爱”在一个镇上的聚会中认识了一些朋友。去年12月29日5点半左右，一小伙载着“欧可爱”和另外一男一女从聚会处离开，车上几个年轻人都是刚认识的。车开出不久，行驶到一处有弯道的高架上，小伙右转弯时车冲出高架，随即翻到一旁的河里，淹没在水里，河水并不深。其他3人旁边的车窗都是打开的，但靠近“欧可爱”的车窗关着，打不开。其他3人得以逃生，身材娇小的“欧可爱”却溺水身亡。\n家属还了解到，驾驶员系一名16岁的小伙。1月2日，万宁市公安局交通管理大队事故中队工作人员告诉红星新闻，肇事司机已满16岁，警方已对其刑事拘留。\n（原题为《网红“欧可爱”因车祸溺水离世 警方：肇事司机满16岁，已被刑拘》）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_25872702",
+          "publishedOn": "2024-01-02T15:53:05.000Z",
+          "wordCount": 40,
+          "title": "网红“欧可爱”因车祸溺水离世，警方：肇事司机满16岁，已被刑拘",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_25873719",
+          "author": null,
+          "description": "钟自然 资料图\n\n2024年1月2日，迎来新年首个工作日，纪检监察机关正风肃纪的脚步并未停歇。\n当天下午，中央纪委国家监委网站通报称：中国地质调查局原党组书记、局长钟自然涉嫌严重违纪违法，目前正接受中央纪委国家监委纪律审查和监察调查。\n这也是2024年首个通报被查的中管干部。\n公开资料显示，钟自然，男，汉族，安徽桐城人，1962年8月生，1983年8月参加工作，1985年4月加入中国共产党，研究生学历，研究员。\n钟自然长期在国土资源系统工作，曾任中国地质调查局副局长、党组副书记，国土资源部总工程师，国土资源部党组成员、中国地质调查局局长、党组书记，国土资源部党组成员、中国地质调查局局长、党组书记、中国地质科学院院长等职。\n在2018年党和国家机构改革中，自然资源部组建成立，钟自然出任自然资源部党组成员、中国地质调查局局长、党组书记。\n2022年9月，钟自然卸任中国地质科学院院长，次月被免去中国地质调查局局长职务。自然资源部网站显示，钟自然已不再担任该部党组成员。\n\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.run",
+          "link": "https://www.thepaper.cn/newsDetail_forward_25873719",
+          "publishedOn": "2024-01-02T14:53:09.000Z",
+          "wordCount": 45,
+          "title": "新年第一个工作日，“首虎”钟自然通报被查",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_25874235",
+          "author": null,
+          "description": "视频来源：微博@CCTV国际时讯(00:30)\n据新华社援引日本广播协会2日报道，日本航空一架空中客车A350客机疑似与海上保安厅飞机相撞，在羽田机场跑道起火。据日本广播协会报道，机组人员和乘客近400人已全部撤离。\n\n日本海上保安厅证实，与日航A350客机相撞的飞机正在执行地震救灾任务。海上保安厅发言人称，事发当时，该飞机正准备从羽田机场飞往新潟县的空军基地，以执行地震救援任务。\n另据央视援引日本广播协会（NHK）最新消息，当地时间1月2日，日本东京羽田机场相撞事故中载有6人的日本海上保安厅飞机已确认有5人死亡，机长重伤。\n据此前报道，羽田机场与日本航空公司客机相撞的日本海上保安厅飞机上共有6人，目前1人已逃出，其余5人“状况不明”。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_25874235",
+          "publishedOn": "2024-01-02T13:53:05.000Z",
+          "wordCount": 52,
+          "title": "与客机相撞的日本海保厅飞机上5人死亡，事发时正在执行地震救灾任务",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_25877063",
+          "author": null,
+          "description": "1月2日晚间，山东钢铁（600022.SH）公告披露，公司控股股东山钢集团已于当天完成股权结构变动的工商变更登记手续。山东钢铁的控股股东、实际控制人不变，控股股东仍为山钢集团，实控人仍为山东省国资委。\n本次变更登记后，控股股东山钢集团的股权结构如下：山东省国资委持有35.7%股权，中国宝武持有49%股权，山东国惠持有10.2%股权，山东财欣持有5.1%股权，山东国惠、山东财欣均授权山东省国资委代为行使股东表决权，山东省国资委合计持有山钢集团51%表决权。\n此外，山钢日照也于1月2日完成股权转让的工商变更登记手续。本次变更登记后，山钢日照的股权结构如下：山东钢铁持股50.5981%，宝钢股份持股48.6139%，日照泽众冶金科技中心（有限合伙）持股0.7881%。山东钢铁仍能对山钢日照实施控制，公司报表合并范围不会发生变更。（澎湃新闻记者 贺梨萍）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_25877063",
+          "publishedOn": "2024-01-02T13:23:05.000Z",
+          "wordCount": 36,
+          "title": "山东钢铁：控股股东山钢集团股权结构变动完成工商变更登记",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_25877057",
+          "author": null,
+          "description": "1月2日，有消息称高合汽车所有工作暂停，包括停止发货、停止新项目开发等。对此，高合汽车方面回应称，公司运营一切正常，研发、生产、营销、交付等各项工作正常推进。\n高合汽车还表示，“原发平台己删除该帖并对该发帖会员做出警告处理。对相关信息的错误解读已对高合汽车的品牌声誉造成了严重损害，并对社会與论构成了误导，我司己向公安部门报案。请大家不信谣不传谣。”（澎湃新闻记者 吴遇利）\n\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.run",
+          "link": "https://www.thepaper.cn/newsDetail_forward_25877057",
+          "publishedOn": "2024-01-02T13:23:05.000Z",
+          "wordCount": 40,
+          "title": "高合汽车否认“工作暂停”传言：公司运营一切正常，己报案",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_25871138",
+          "author": null,
+          "description": "新年伊始、万象更新。据国家移民管理局统计，今年元旦假期全国边检机关共查验出入境人员517.9万人次，日均172.6万人次，较2023年元旦假期增长4.7倍，已恢复至2019年同期水平，其中，入境251万人次，出境266.9万人次；查验出入境交通运输工具20.3万架（艘、列、辆）次，较2023年元旦假期增长1.5倍。\n按照国家移民管理局统一部署，全国边检机关全警动员、主动作为，提前预测并向社会公布各口岸出入境人员流量高峰时段，提示、引导广大出入境旅客合理安排行程，错峰出行；科学组织勤务，加大警力投入，开足查验通道，及时疏导出入境客流，有力保障元旦假期中外人员出入境通关安全、顺畅、有序。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_25871138",
+          "publishedOn": "2024-01-02T12:53:05.000Z",
+          "wordCount": 32,
+          "title": "元旦假期日均172.6万人次出入境，恢复至2019年同期水平",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_25876651",
+          "author": null,
+          "description": "从2023年11月初以来，BDI指数，也就是衡量全球大宗散货运输市场运费波动的波罗的海干散货指数从低点1385点快速上涨，一个月时间上涨至3346点，涨幅超过138%。然而最近数周，却又大幅下跌至2000点附近。业内人士表示，散货航运市场有基本面的支撑，叠加短期运力紧张造成的紧张情绪，因此BDI指数与船舶租金短期内快速上涨。（@央视财经）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_25876651",
+          "publishedOn": "2024-01-02T12:53:05.000Z",
+          "wordCount": 32,
+          "title": "BDI指数冲高回落，最近数周BDI指数暴跌超1300点",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_25876694",
+          "author": null,
+          "description": "1月2日晚间，上海申通地铁股份有限公司（申通地铁，600834)公告，公司全资子公司上海地铁新能源有限公司（简称“新能源公司”）于2023年度投建的8.5兆瓦分布式光伏项目已全部顺利并网，共涉及上海地铁11号线赛车场，3号线江杨北路，5号线剑川路和2号线北翟路等4个基地，预计未来这4个光伏项目年均发电量约850万kWh，减排二氧化碳约3570吨，节约标煤约2371吨。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_25876694",
+          "publishedOn": "2024-01-02T12:53:05.000Z",
+          "wordCount": 32,
+          "title": "申通地铁：全资子公司投建光伏项目顺利并网",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_25872553",
+          "author": null,
+          "description": "1月2日，外交部发言人汪文斌主持例行记者会。有记者提问，据报道，1日，日本石川县能登地区发生了强烈地震并引发海啸。截至2日上午，地震已造成20多人死亡，石川县等多地受灾严重。中方是否向日方表示了慰问？在保护中国公民方面采取了哪些措施？\n汪文斌表示，昨天日本石川县能登地区发生强震，造成人员伤亡和财产损失，我们对遇难者表示哀悼，向遇难者家属和伤者表示慰问。中国驻日本使馆和驻名古屋总领馆、驻新潟总领事馆已第一时间启动应急机制，发布领事提醒，目前暂无在日中国公民伤亡报告。中国外交部和驻日使领馆将继续密切关注地震灾情，及时向在日中国公民提供必要协助。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_25872553",
+          "publishedOn": "2024-01-02T12:53:05.000Z",
+          "wordCount": 38,
+          "title": "外交部：对日本强震遇难者表示哀悼，暂无在日中国公民伤亡报告",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_25874251",
+          "author": null,
+          "description": "记者今天（2日）从交通运输部获悉：元旦假期三天，全国铁路、公路、水路、民航发送旅客总量近1.3亿人次。其中，铁路发送旅客4381.9万人次；公路发送旅客7740.5万人次；水路发送旅客190.8万人次；民航发送旅客510万人次。\n总体来看，元旦假期出行以中短途为主；热点地区主要集中在北京、上海、广州、西安、哈尔滨等城市，以及京津冀、长三角、珠三角、成渝等主要城市群；旅客出行选择更加多样，定制客运、联程运输等组织模式进一步普及推广，出行便捷度显著提升。\n\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.run",
+          "link": "https://www.thepaper.cn/newsDetail_forward_25874251",
+          "publishedOn": "2024-01-02T12:53:05.000Z",
+          "wordCount": 32,
+          "title": "元旦假期三天，全国铁路、公路、水路、民航发送旅客总量近1.3亿人次",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_25875253",
+          "author": null,
+          "description": "工业和信息化部（简称“工信部”）领导班子近日新增一名成员。\n2024年1月2日，澎湃新闻查询工信部官网“部领导”一栏注意到，工信部无线电管理局局长谢远生现已担任工信部党组成员，位列工信部党组成员、国家烟草专卖局党组书记、局长张建民和工信部总工程师赵志国之间。\n主管工作方面，谢远生目前负责节能与综合利用、无线电管理等工作，分管节能与综合利用司、无线电管理局，联系国家无线电监测中心。\n公开资料显示，谢远生，男，汉族，1966年12月生，工学硕士、高级管理人员工商管理硕士，中共党员，教授级高级工程师。\n谢远生曾任工信部无线电管理局副局长、山西省通信管理局局长等职，于2017年任工信部无线电管理局局长。（澎湃新闻记者 蒋子文）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_25875253",
+          "publishedOn": "2024-01-02T12:23:06.000Z",
+          "wordCount": 40,
+          "title": "谢远生已任工信部党组成员",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_25875421",
+          "author": null,
+          "description": "今日，证监会的相关审批进度信息显示，包括易方达、华泰柏瑞、嘉实基金、富国基金、华宝基金、摩根基金、银华基金、工银瑞信基金、大成基金、平安基金在内的10家基金公司上报了中证A50ETF。记者注意到，中证A50指数于今日正式发布，该指数是从各行业龙头上市公司中，选取市值最大的50只证券作为指数样本，以反映各行业最具代表性的龙头上市公司证券的整体表现。（每经）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_25875421",
+          "publishedOn": "2024-01-02T12:23:05.000Z",
+          "wordCount": 32,
+          "title": "10家基金公司上报中证A50ETF",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_25872390",
+          "author": null,
+          "description": "2023年12月31日，黑龙江省哈尔滨市，游客在冰雪大世界游玩。本文图片 视觉中国 图\n\n2024年的第一个网红城市诞生了。\n进入2023年底，从各地飞往哈尔滨赏冰乐雪的游客就开始多起来。截至2023年12月20日，哈尔滨机场2023年旅客吞吐量突破2000万人次，成为2023年东北地区首家客流突破2000万的机场。\n随着元旦假期的到来，哈尔滨的热度更是被顶到了一个新高度。某旅游平台数据显示，哈尔滨首次登顶最受欢迎民宿目的地，元旦民宿预订量同比增长27倍。而在社交平台上，网友和游客的花式夸赞，让当地官方在公开信中都不得不坦承——“您的传扬，把很多龙江人都‘整不会了’”，而社交平台上游客也欣然接受了“南方小土豆”的昵称。\n\n2023年12月31日，元旦假期，哈尔滨冰雪大世界里，游客挂祈福带、撞幸运钟，在新的一年祈福。\n\n这样的高人气和好评，不仅让前段时间哈尔滨冰雪大世界开业当天的“退票”阴霾烟消云散，也一扫之前不少人对于东北旅游市场以“雪乡”为代表的负面刻板印象。\n哈尔滨这回到底做对了什么？\n首先要指出的是，冬季本来就是东北地区的旅游旺季。而北京冬奥会之后，国内冰雪游持续升温，也给东北旅游市场加了一把火。如有民宿平台的报告显示，截至去年12月13日，平台含“滑雪”“冰雪”等关键词的民宿预订量比2019年增长7.5倍。\n当然，这些面上的因素并不足以完全解释目前哈尔滨人气与口碑的双丰收。要知道，同样是在冬季旅游旺季，之前哈尔滨也少有如此“出圈”的高光时刻。网友“画风突变”的背后，最主要还是因为哈尔滨确实在发生新的变化。过去几年，哈尔滨旅游市场受疫情冲击严重，现在当地对于旅游业的重视明显看涨。比如，作为哈尔滨标志性旅游景点，冰雪大世界今年的规模是史上最大，并且是提前建设、提前开业。同时，在旅游市场环境的打造上，当地也拿出了更多行动。公开报道显示，早在去年11月底，为维护旅游市场秩序和游客合法权益，营造安心、舒心、放心的旅游环境，打造冰雪旅游“无忧地”，当地相关部门就召开了全市冬季冰雪旅游“百日行动”推进会议暨旅游从业人员培训班。\n但更重要的改变，恐怕还是拜全国旅游市场的“卷”所赐。这几天互联网上所流传的种种关于哈尔滨的细节，都让人想起淄博。比如，组织欢迎队伍在机场玩快闪，把交响音乐会搬进了商场，城市地铁化身免费“摆渡车”，市民开私家车接送游客，的哥用最温柔的“夹子音”跟游客对话……这些新的服务增量，是不是和之前淄博上演的各种“花式宠游客”如出一辙？\n\n2023年12月31日晚，哈尔滨，游客们在中央大街，赏花灯，观看欧式建筑，打卡网红景点。\n\n颇为巧合的是，去年上半年淄博火起来后，全国多地都纷纷向淄博取经。其中，哈尔滨被网友视为最该去取经的城市之一。现在来看，哈尔滨是否去取经了尚不清楚，但实际表现显然和淄博有得一比。这背后，其实未必是哈尔滨真正在“模仿”淄博，而是淄博靠热情服务真正赚到了人气，让更多的城市看到了这种路径成功的可能性，并愿意付诸行动。\n有人说，哈尔滨的走红背后可能也有“高人”。但其实，任何一座城市的走红，都是很难被“计划”出来的。能不能火，火到什么程度，乃至能够火多久，都具有相当的偶然性。但要想“出圈”，有一些前提条件是最基本的，那就是必须得有“用户思维”，得知道现在的游客到底“好哪一口”，并愿意去为之改变，而不是高高在上，让游客来适应自己。\n\n2023年12月29日，哈尔滨，松花江冰雪嘉年华园区，一个颜色鲜艳的热气球成为受游客追捧的热点体验项目。\n\n尤其是在社交媒体和全域旅游时代，这一点显得更加重要。因为这个时代的旅游，人们不再仅仅是为了某个5A景点就盲目打卡，而更加看重的是过程中的体验感。相比前者更多是一种象征意义，后者是由一个个细节来支撑的。\n比如，所谓的刷屏关注，“让人整不会”的传扬，其实都是“细节决定成败”——为了游客拍照好看，哈尔滨弄了一个大的人工月亮；为了方便南方游客取暖，又造了温暖的小房子；为了让游客可以更方便吃哈尔滨冻梨，特意弄出了冻梨摆盘……这些细节不仅让游客感到舒适和被尊重，也成为在互联网上被不断传播的素材，最终变成了“网红”景观……这就是精准地洞察了互联网时代的游客心思，顺应了社交媒体的传播规律。\n不过，也还是得提醒，一座城市火起来后，并不代表着“十全十美”，甚至个别问题还可能在流量聚焦下被进一步放大，而旅游市场的“变好”，也不可能是一夕之功。当地管理部门、市场经营者要以此为动力持续改善服务，游客也得多一些“预期管理”。当然，任何一座城市总有这样或那样的不足，关键是解决问题的态度和效率。至少从目前看，哈尔滨已然是接住了这波“泼天富贵”。\n“自古套路留不住，唯有真诚得真心”，相信只要是真心改善服务，真心善待游客，就一定能够赢得更多的“真心换真心”，从“网红”变“长红”。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_25872390",
+          "publishedOn": "2024-01-02T11:53:07.000Z",
+          "wordCount": 62,
+          "title": "马上评｜“南方小土豆”受宠若惊，哈尔滨做对了什么？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_25874266",
+          "author": null,
+          "description": "1月2日晚间，港中旅华贸国际物流股份有限公司（华贸物流，603128)公告，公司拟与物产中大物流投资集团有限公司（简称“物产中大物流”）设立合资公司，合资公司注册资本4000万元，物产中大物流出资1880万元，持股47%；华贸物流出资1840万元，持股46%；员工持股平台出资280万元，持股7%。合资公司旨在提升国内、国际“两条通路”的竞争能力，切实服务“双循环”，提升国际视野下的供应链韧性。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_25874266",
+          "publishedOn": "2024-01-02T11:53:07.000Z",
+          "wordCount": 32,
+          "title": "华贸物流：拟与物产中大物流设立合资公司",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_25874268",
+          "author": null,
+          "description": "在刚刚过去的2023年，金融反腐呈现密集态势。澎湃新闻据中央纪委国家监委网站不完全统计，2023年，金融领域至少有101人被查。\n从职位看，被查的101人中，8人为中管干部，占比8%；75人为中央一级党和国家机关、国企和金融单位干部，占比74%；18人为省管干部，占比18%。\n被查的8名中管金融干部为：中国银行原党委书记、董事长刘连舸，中国光大集团股份公司原党委书记、董事长李晓鹏，国家开发银行原党委委员、副行长周清玉，中国光大集团股份公司原党委书记、董事长唐双宁，中国太平保险集团有限责任公司党委委员、副总经理肖星，国家开发银行原党委委员、副行长王用生，中国工商银行原党委委员、纪委书记刘立宪，中国工商银行原党委委员、副行长张红力。\n2023年，国有大行为金融反腐的重点之一，共有40人被查。（澎湃新闻见习记者 林倩冰）\n\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.run",
+          "link": "https://www.thepaper.cn/newsDetail_forward_25874268",
+          "publishedOn": "2024-01-02T11:53:07.000Z",
+          "wordCount": 40,
+          "title": "2023年金融反腐盘点：101人被查含8名中管干部，国有大行成反腐重点",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_25874224",
+          "author": null,
+          "description": "1月2日，乘联会秘书长崔东树在微信公号发文称，自2021年以来，随着世界新冠疫情的爆发，中国汽车产业链的韧性较强的优势充分体现，中国汽车出口市场近两年表现超强增长。出口增长重要原因是燃油车的国际性价比提升和新能源车出口暴增，加之俄罗斯贡献了近80万增量，因此中国汽车出口的数量和均价均强势增长。海关数据的中国汽车2023年1-11月出口476万台，出口增速56%，全年正常情况下超过520万左右应该是有把握的。从2023年中国汽车出口海外部分数据跟踪看，自主的主力国家出口增速很强，虽然南半球的南美洲和非洲出口下降，但发达国家出口的高质量增长很好，因此出口总体还是很好的。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_25874224",
+          "publishedOn": "2024-01-02T11:23:05.000Z",
+          "wordCount": 32,
+          "title": "乘联会崔东树：2023年中国汽车出口超过520万左右是有把握的",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_25874226",
+          "author": null,
+          "description": "1月2日晚间，阿里巴巴在港交所公告，截至2023年12月31日的12个月期间，公司以95亿美元的总价回购了总计8.979亿股普通股（相当于1.122亿股美国存托股），其中包括于截至2023年12月31日止的季度以29亿美元回购总计的2.927亿股普通股（相当于3,660万股美国存托股）。这些回购是根据公司股份回购计划在美国市场和香港市场进行的。截至2023年12月31日止，该公司流通的普通股为200亿股（相当于25亿股美国存托股）。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_25874226",
+          "publishedOn": "2024-01-02T11:23:05.000Z",
+          "wordCount": 32,
+          "title": "阿里巴巴：2023年以95亿美元回购总计8.979亿股普通股",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_25874029",
+          "author": null,
+          "description": "记者1月2日从上海数据交易所（下称“上海数交所”）获悉，2023年以来，上海数交所数据交易额不断攀升，保持每月稳步增长态势，全年数据交易额超11亿元，累计挂牌数据产品2100个，日益活跃的市场交易生态正在逐步形成。\n上海数交所表示，数据要素市场正迈入新的发展阶段，作为数据要素市场建设的主力军，上海数交所通过打造高标准市场规则、高质量数据产品、高水平数商企业，持续发挥引领示范作用，为场外交易活动提供重要对标和参照系，推动先进生产力的形成。（上证报）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_25874029",
+          "publishedOn": "2024-01-02T10:53:04.000Z",
+          "wordCount": 32,
+          "title": "上海数交所：2023年全年数据交易额超11亿元，累计挂牌数据产品2100个",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_25874033",
+          "author": null,
+          "description": "为更好满足居民刚性和改善性住房需求，经市住房公积金管理委员会审议通过，现就调整本市住房公积金个人住房贷款政策有关事项通知如下。\n关于第二套改善型住房的认定：缴存职工家庭名下在本市已有一套住房，在全国未使用过住房公积金个人住房贷款或首次住房公积金个人住房贷款已经结清的，认定为第二套改善型住房。\n关于第二套改善型住房的最低首付款比例：1、对于认定为第二套改善型住房的，最低首付款比例为50%；2、对于认定为第二套改善型住房，且贷款所购住房位于中国（上海）自由贸易试验区临港新片区以及嘉定、青浦、松江、奉贤、宝山、金山6个行政区全域的，最低首付款比例为40%。\n本通知自2024年1月3日起施行。2024年1月3日前受理的公积金贷款按原政策执行，2024年1月3日（含）后受理的公积金贷款按本通知执行。（上海公积金微信公号）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_25874033",
+          "publishedOn": "2024-01-02T10:53:04.000Z",
+          "wordCount": 33,
+          "title": "上海：调整本市住房公积金个人住房贷款政策",
+          "imageUrl": null
+        },
         {
           "id": "https://www.thepaper.cn/newsDetail_forward_25872658",
           "author": null,
@@ -12018,86 +12198,6 @@
           "wordCount": null,
           "title": "上海文旅局执法总队回应五月天被指假唱：要求主办方配合调查",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_25526090",
-          "author": null,
-          "description": "比亚迪维权力度升级。\n12月3日晚间，比亚迪集团品牌及公关处总经理李云飞在微博发文怒斥某些同行的恶意抹黑行为，他写道，“今年，汽车人提的最多的一个字就是‘卷’，卷技术、卷产品、卷价格、卷营销，甚至都要卷下限了，竞争惨烈抑或是令人发指的程度，是我入行近20年来，未曾见过的！如果是卷产品卷水平，那是要鼓掌！但要是卷下限，则令人不齿不屑！”（澎湃新闻记者 吴遇利）\n\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.run",
-          "link": "https://www.thepaper.cn/newsDetail_forward_25526090",
-          "publishedOn": "2023-12-04T04:23:08.000Z",
-          "wordCount": null,
-          "title": "比亚迪高管批行业黑公关“卷下限”：最高悬赏500万元打击恶意抹黑",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_25526228",
-          "author": null,
-          "description": "据海口海关统计，今年1至11月，海口海关共签发各类原产地证书10139份，签证金额超6.9亿美元，其中，签发RCEP原产地证书506份，签证金额5554.37万美元（约折合人民币3.96亿元），同比分别增长1.32倍和1.55倍。\n原产地证书作为国际贸易的“纸黄金”，是出口商品在进口国家或地区享受关税减免的主要凭证之一，RCEP协定则是我国与14个国家签订的经贸规模最大的自由贸易协定。今年11月1日开始原产地企业备案取消后，简化了企业办证流程，签领证书更加方便快捷，大大提升该自贸协定项下关税减让等政策利用水平。（央视新闻）",
-          "link": "https://www.thepaper.cn/newsDetail_forward_25526228",
-          "publishedOn": "2023-12-04T04:23:08.000Z",
-          "wordCount": null,
-          "title": "前11月海口海关签发RCEP证书506份，惠及出口货物近4亿元",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_25519193",
-          "author": null,
-          "description": "12月1日起，马来西亚对中国公民等实施停留不超过30天可免签入境的便利措施。12月3日，中国驻马来西亚大使馆发布提醒，请中国公民注意赴马来西亚最新入境要求。\n一、自2023年12月1日起，马来西亚对中国公民等实施停留不超过30天可免签入境的便利措施。马政府主管部门近日公布了最新入境须知，要求外国公民入境马来西亚前3天内在网上填报MDAC（马来西亚电子入境卡，具体要求详见后附说明），并打印纸质版MDAC确认信在入境时向移民官员出示。更新后的入境材料要求如下图：\n\n二、为确保来马中国公民入出境顺畅，中国驻马来西亚大使馆在此温馨提醒如下：\n（一）请来马中国公民提前了解和遵守马来西亚入出境政策和相关法律规定（马来西亚移民局官方网站：https://www.imi.gov.my/index.php/en/main-services/syarat-kemasukan-ke-malaysia-en/），按照马方要求提前准备好相关入境材料。如未能备齐材料，可能会对您顺利入境造成影响，甚至移民官员将根据当地法律法规拒绝您入境。\n（二）入出境时请配合移民官员工作，主动出示相关材料，耐心沟通解释，如有沟通障碍，可请同行旅客或航司工作人员协助。\n（三）进入马来西亚从事学习、工作等须马方主管部门事先批准的活动，或拟停留超过30天的，仍应按要求在入境前申请与入境目的相符的签证。\nMDAC填写说明：可通过以下网址或扫描下方二维码填写MDAC（马来西亚永久居留和自助通关系统持有者无需填写），网上提交后请到您在MDAC填写的邮箱中下载打印纸质版MDAC确认信随身携带，入境时向移民官员出示。自2023年12月7日起，外国公民若未提前填报MDAC，可能被拒绝入境。 https://imigresen-online.imi.gov.my/mdac/main\n\n马来西亚移民局咨询电话：+60-3-8000 8000\n外交部全球领事保护与服务应急热线（24小时）： +86-10-12308 +86-10-65612308\n驻马来西亚使馆领事保护与协助电话： +60321645301\n驻古晋总领馆领事保护与协助电话： +60128861953\n驻哥打基纳巴卢总领馆领事保护与协助电话： +60149857312\n驻槟城总领馆领事保护与协助电话： +601110592308",
-          "link": "https://www.thepaper.cn/newsDetail_forward_25519193",
-          "publishedOn": "2023-12-04T03:53:05.000Z",
-          "wordCount": null,
-          "title": "中国公民赴马来西亚有最新入境要求，中领馆发布提醒",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_25521617",
-          "author": null,
-          "description": "IC 图\n\n阿里网络继续“退出”更多公司。\n12月3日，美年大健康产业控股股份有限公司（美年健康，002044）公告称，于近日收到股东阿里巴巴（中国）网络技术有限公司（简称“阿里网络”）的通知，阿里网络决定实施存续分立，分立为阿里网络（存续公司）和新设公司杭州灏月、传滨科技（杭州）有限公司、传航科技（杭州）有限公司，阿里网络持有的美年健康股份全部由分立后新设公司杭州灏月承继，并于2023年11月30日与杭州灏月签署了《股份转让协议》，约定阿里网络将其持有的美年健康 3.13937797亿股股份转让给杭州灏月，超3亿的股份占美年健康股份总数约为8.02%。\n美年健康强调，本次股份协议转让尚需经深圳证券交易所合规性确认，并在中国证券登记结算有限责任公司深圳分公司办理股份转让过户登记手续，相关事项存在不确定性。此次权益变动未导致公司实际控制人发生变化，不会对公司实际控制权、公司治理结构及持续经营产生影响。\n3日当天，分众传媒（002027）、千方科技（002373）和居然之家（000785）也同时公告，阿里网络将所持股份转入杭州灏月。更早之前，圆通速递（600233）、美凯龙（601828）、丽人丽妆（605136）也公告，因自身要突出主业、实施存续分立，阿里网络将把所持的上市公司股份转让给新设的一致行动人公司杭州灏月，交易完成后，阿里网络不再直接持有上市公司股份。至此，已有7家公司公告，阿里网络“退出”。\n阿里网络向新设公司转让持有的全部美年健康股权\n2023半年报显示，阿里网络持有公司8.02%的股权，是美年健康第一大股东。\n\n2023半年报披露的持股5%以上的普通股股东或前10名普通股股东持股情况\n\n根据公告，阿里网络存续分立的原因是为实现阿里网络突出主业、非主业业务独立发展，各司其职，提高经营效益，进一步实现资产的保值、增值和可持续发展，打造具有竞争力的企业。分立后，存续…",
-          "link": "https://www.thepaper.cn/newsDetail_forward_25521617",
-          "publishedOn": "2023-12-04T03:53:05.000Z",
-          "wordCount": null,
-          "title": "阿里网络大腾挪：接连“退出”美年健康、分众等7家公司，非主业要独立发展",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_25525325",
-          "author": null,
-          "description": "据中华医学会和中国医师协会联合发布的报告，我国慢性疼痛的患者已超过3亿，且发病率在逐年增加。疼痛已成为继心脑血管疾病、肿瘤之后第三大健康问题。\n然而，很多疼痛患者认为“是药三分毒”，所以没有寻求专业医生的治疗，而是希望找到既能止疼又没有任何毒副作用的好办法。\n日前，河南郑州的程先生就遇到这样一款“养生茶”，初次喝下去立即有止疼效果，但再次饮用时却出现了问题。\n疼痛患者喝“养生茶” \n身体出现严重不适\n家住郑州的程先生一直被慢性疼痛折磨，一次偶然的机会，他得知了一款名叫“大雪山养生茶”的饮品。据朋友介绍，这款茶由纯食品原料制成，既能养生还能止痛，效果非常不错。\n之后，程先生便花了近千元买了两盒“养生茶”，回到家就冲泡了一杯，喝完后发现这款“养生茶”确实有去痛效果。当天晚上程先生又喝了一杯，结果没多久就出现头晕恶心的症状。\n由于身体出现严重不适，程先生便拿着“养生茶”去了医院。医生看了配料表后，告诉程先生，这款“养生茶”所标明的配料有普洱茶、金银花、桑叶等，并没有止痛的功效。\n\n据记者了解，这款云南大雪山茶叶有限公司生产的“养生茶”，消费者只有通过一款名叫“雪山生活”的App或微信小程序中的“雪山生活”才能购买，在购买时还需要有老用户提供验证码。\n记者找到这款“养生茶”的几名会员，发现他们长期饮用后也都出现了头晕、恶心等不适症状。记者随后将程先生提供的这款“养生茶”进行了检测。\n经检测，这款“大雪山养生茶”里添加了化学药物双氯芬酸钠。这种药物在治疗疼痛方面有较为明显的效果，广泛用于缓解类风湿关节炎、痛风性关节炎等各种关节炎症以及其他多种疼痛的治疗。\n目前，我国对双氯芬酸钠按处方药进行管理，患者必须遵照医生的处方严格使用。由于化学药物服用有严格的剂量规定，加入食品中容易导致滥用，引发健康问题。因此，食品安全法明确规定，化学药物禁止用于食品生产。\n\n央视财经《经济信息联播》栏目12…",
-          "link": "https://www.thepaper.cn/newsDetail_forward_25525325",
-          "publishedOn": "2023-12-04T03:53:05.000Z",
-          "wordCount": null,
-          "title": "超万人被坑！高价“养生茶”非法添加化学药物，长期服用或致肾衰竭",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_25525973",
-          "author": null,
-          "description": "A股三大股指12月4日开盘涨跌互现。早盘两市冲高后回落，午前小幅收跌。\n从盘面上看，AI应用题材走强，ChatGPT、AIGC方向领涨；文化传媒、黄金、锂矿、算力、金融科技概念活跃。医药、房地产板块回调。\n至午间收盘，上证综指跌0.04%，报3030.56点；科创50指数涨0.12%，报868.61点；深证成指跌0.15%，报9705.55点；创业板指跌0.25%，报1921.51点。\nWind统计显示，两市及北交所共2748只股票上涨，2343只股票下跌，平盘有219只股票。\n两市成交5534亿元；北向资金半日净流出16.2亿元；两市及北交所共有51只股票涨幅在9%以上，3只股票跌幅在9%以上。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_25525973",
-          "publishedOn": "2023-12-04T03:53:05.000Z",
-          "wordCount": null,
-          "title": "【午盘】A股早盘冲高回落小幅收跌，医药、房地产板块回调",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_25525980",
-          "author": null,
-          "description": "12月4日，国内商品期市午盘多数下跌，能化品领跌，原油跌近6%，燃油跌超4%，低硫燃料油跌近4%，LPG跌超2%，碳酸锂跌约2.5%；双焦期货走低，焦煤跌超3%，焦炭跌超2%；生猪跌近2%；纯碱涨超6%，但涨幅较盘初有所收窄，玻璃冲高回落，涨超1%；贵金属走高，沪金涨近2%，沪银涨1%。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_25525980",
-          "publishedOn": "2023-12-04T03:53:05.000Z",
-          "wordCount": null,
-          "title": "国内商品期市午盘多数下跌，能化品领跌",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_25525937",
-          "author": null,
-          "description": "12月4日，港股航运港口股走强，太平洋航运涨超7%，中国外运涨近7%，海丰国际涨超5%。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_25525937",
-          "publishedOn": "2023-12-04T03:23:05.000Z",
-          "wordCount": null,
-          "title": "港股航运港口股走强，太平洋航运涨超7%",
-          "imageUrl": null
         }
       ]
     },
@@ -12106,6 +12206,56 @@
       "feedUrl": "https://www.nationalreview.com/feed/",
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1581959",
+          "author": "Ari Blaff",
+          "description": "Biden administration officials have repeatedly warned that the military has been infiltrated by right-wing extremists.",
+          "link": "https://www.nationalreview.com/news/dod-report-finds-no-evidence-of-disproportionate-extremism-within-military/",
+          "publishedOn": "2024-01-02T15:35:26.000Z",
+          "wordCount": 8436,
+          "title": "DoD Report Finds No Evidence of Disproportionate Extremism within Military",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/10/defending-america-100923-3.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1581935",
+          "author": "Ari Blaff",
+          "description": "Prosecutors accused Lai of colluding with Western powers to subvert Chinese national security.",
+          "link": "https://www.nationalreview.com/news/pro-democracy-media-mogul-jimmy-lai-pleads-not-guilty-in-landmark-hong-kong-national-security-case/",
+          "publishedOn": "2024-01-02T14:19:44.000Z",
+          "wordCount": 8390,
+          "title": "Pro-Democracy Media Mogul Jimmy Lai Pleads Not Guilty in Landmark Hong Kong National-Security Case",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2020/12/jimmy-lai-hong-kong.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1580057",
+          "author": "Audrey Fahlberg",
+          "description": "Iowa’s RNC Committeeman Steve Scheffler predicts that the Colorado supreme court ruling will boost Trump in the caucus.",
+          "link": "https://www.nationalreview.com/news/trumps-iowa-court-room-caucus/",
+          "publishedOn": "2024-01-02T11:30:59.000Z",
+          "wordCount": 8860,
+          "title": "Trump’s Iowa Court-Room Caucus",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/01/donald-trump-iowa.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1581871",
+          "author": "Bradley J. Birzer",
+          "description": "A new collection includes the author’s correspondence with figures as diverse as Arthur Schlesinger Jr. and Russell Kirk, Federico Fellini and Bertrand Russell.",
+          "link": "https://www.nationalreview.com/2024/01/the-letters-of-ray-bradbury-reveal-a-man-drinking-in-all-that-life-offered/",
+          "publishedOn": "2024-01-02T11:30:36.000Z",
+          "wordCount": 9631,
+          "title": "The Letters of Ray Bradbury Reveal a Man Drinking In All That Life Had to Offer",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/02/GettyImages-1141701462-Bradbury.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1580951",
+          "author": "Matthew Lau",
+          "description": "Canada’s EV mandate is complete madness.",
+          "link": "https://www.nationalreview.com/2024/01/electric-vehicles-canadas-curious-math/",
+          "publishedOn": "2024-01-02T11:30:20.000Z",
+          "wordCount": 8915,
+          "title": "Electric Vehicles: Canada’s Curious Math",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/01/justin-trudeau-volkswagen-canada.jpg?fit=1200%2C700&ssl=1"
+        },
         {
           "id": "https://www.nationalreview.com/?p=1581862",
           "author": "Andrew C. McCarthy",
@@ -16285,16 +16435,6 @@
           "wordCount": 8650,
           "title": "Republicans Need to Get to Work on Health Care",
           "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/12/mike-johson-republicans.jpg?fit=1200%2C700&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1572669",
-          "author": "Luther Ray Abel",
-          "description": "The festival’s founder cited logistical challenges and sensitivity to the ongoing Israel–Hamas conflict as reasons for the cancellation.",
-          "link": "https://www.nationalreview.com/news/inclusive-virginia-festival-cancels-menorah-lighting-claims-ceremony-favors-israel/",
-          "publishedOn": "2023-12-04T00:07:04.000Z",
-          "wordCount": 8283,
-          "title": "‘Inclusive’ Virginia Festival Cancels Menorah Lighting, Claims Ceremony Favors Israel",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/12/national-menorah-2018.jpg?fit=1200%2C700&ssl=1"
         }
       ]
     },
@@ -16303,6 +16443,26 @@
       "feedUrl": "https://sspai.com/feed",
       "siteUrl": "https://sspai.com",
       "articles": [
+        {
+          "id": "https://sspai.com/post/85528",
+          "author": "Matrix机器人",
+          "description": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意以及社区产品动态呈现给大 ...查看全文",
+          "link": "https://sspai.com/post/85528",
+          "publishedOn": "2024-01-02T09:37:58.000Z",
+          "wordCount": 1366,
+          "title": "社区速递 027 | 最不后悔购买的X件产品大合辑",
+          "imageUrl": "https://cdn.sspai.com/1/2/2024/article/a69d7642-ce2a-cb0c-bc91-0c28583efd29.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/85521",
+          "author": "少数派编辑部",
+          "description": "新一年的第一个工作日，我们从 2023 年少数派首页推荐过的文章、会员内容和付费栏目中，挑选了一些值得收藏和重读的好文章，作为年度特别篇推送给你。查看全文",
+          "link": "https://sspai.com/post/85521",
+          "publishedOn": "2024-01-02T08:00:00.000Z",
+          "wordCount": 809,
+          "title": "不读可以先收藏：2023 少数派年度高分内容「合订本」",
+          "imageUrl": "https://cdn.sspai.com/2024/01/02/133f4365e838a29719d5379d62d52b16.png"
+        },
         {
           "id": "https://sspai.com/post/85308",
           "author": "化学心情下2",
@@ -17342,26 +17502,6 @@
           "wordCount": 771,
           "title": "全屋智能？来自建筑设计狗的不完全指北",
           "imageUrl": "https://cdn.sspai.com/2023/12/03/f8dbbcf8cba86bd7e974ea82f2471d41.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/84739",
-          "author": "非专人士",
-          "description": "只有对自己的身体状况充分清晰、对自身疾病情况充分熟悉和理解，才能真正的获得合理高效的医学建议，才能真正规避疾病风险。查看全文",
-          "link": "https://sspai.com/post/84739",
-          "publishedOn": "2023-12-04T03:34:46.000Z",
-          "wordCount": 691,
-          "title": "规划一次有针对性的健康检查：我的体检项目定制思路",
-          "imageUrl": "https://cdn.sspai.com/2023/11/30/d1e311b3e8fde32085ea4f7ab4cfeaa8.png"
-        },
-        {
-          "id": "https://sspai.com/post/84815",
-          "author": "少数派编辑部",
-          "description": "你可能错过的新鲜事工信部称2G/3G退网是必然选择，但要保障用户权益据澎湃新闻报道，近日，工业和信息化部答复了网友关于保障老旧手机用户基础通信功能的建议。留言称，我国有大量人群还在用老旧手机、按键手机 ...查看全文",
-          "link": "https://sspai.com/post/84815",
-          "publishedOn": "2023-12-04T00:54:46.000Z",
-          "wordCount": 934,
-          "title": "派早报：工信部称 2G/3G 退网是必然选择",
-          "imageUrl": "https://cdn.sspai.com/12/3/2023/article/2ed8e519-a686-0c6e-fac6-7afeeccc93cd.png"
         }
       ]
     },
@@ -19258,6 +19398,16 @@
       "siteUrl": "http://nytimes.com",
       "articles": [
         {
+          "id": "https://cn.nytimes.com/usa/20240102/china-spy-asian-americans/dual",
+          "author": null,
+          "description": "黄安伟, AMY QIN2024年1月2日“我知道有几十名外交官失去了到中国大陆、香港和越南工作的机会，”伦敦外交官由纪·近藤-沙（音）说。经过抗争，她成功解除了赴日本工作的限制。 Mary Turner for The New York Times\nWhen Thomas Wong set foot in the United States Embassy in Beijing this summer for a new diplomatic posting, it was vindication after years of battling the State Department over a perceived intelligence threat — himself.\n去年夏天，托马斯·黄（音）得以到美国驻北京大使馆担任新的外交职务，这对他来说是洗清了污名。因为多年来他都在一个问题上与国务院苦苦抗争，那就是他被认定为某种情报威胁。\nDiplomatic Security officers had informed him when he joined the foreign service more than a decade ago that they were banning him from working in China. In a letter, he said, they wrongly cited the vague potential for undue “foreign preference” and suggested he could be vulnerable to “foreign influence.”\n十几年前，他在加入外交部门时就曾被外交安全官员告知自己不可以前往中国工作。他说，他们在一封信中错误指控他有着语焉不详的不适当“外…",
+          "link": "https://cn.nytimes.com/usa/20240102/china-spy-asian-americans/dual",
+          "publishedOn": "2024-01-02T08:36:01.000Z",
+          "wordCount": 2653,
+          "title": "中美间谍战升温，亚裔美国官员称遭不公正审查和任职限制",
+          "imageUrl": "https://static01.nyt.com/images/2023/12/25/multimedia/00dc-china-counterintel-01-lpkc/00dc-china-counterintel-01-lpkc-articleLarge.jpg"
+        },
+        {
           "id": "https://cn.nytimes.com/opinion/20240102/chips-semiconductor-china-russia-military/dual",
           "author": null,
           "description": "CHRIS MILLER, JORDAN SCHNEIDER2024年1月2日 Golden Cosmos\nThe U.S. government’s efforts to stop Russia and China from using American equipment to boost their defense sectors have resulted in tough rules — but leaky enforcement. As a result, American-made tools keep turning up in Russian missile factories and in Huawei’s supply chain. With war in Europe and China threatening its neighbors, that’s just not good enough.\n为了阻止俄罗斯和中国利用美国设备来加强国防实力，美国政府制定了严格的规定，但在执行上却漏洞百出。于是我们看到，美国制造的设备还是源源不绝地出现在俄罗斯的导弹工厂和华为的供应链中。在欧洲的战争依旧持续，以及中国不停威胁邻国的情况下，目前的做法是远远不够的。\nThe United States and its allies make the most advanced tools for both precision metalworking and semiconductor manufacturing. With international tensions rising, the United States and its allies have been right to try to prohibit adversaries from using t…",
@@ -20016,26 +20166,6 @@
           "wordCount": 1630,
           "title": "美国颁布电动汽车税收抵免新规，对中国供应商加以限制",
           "imageUrl": "https://static01.nyt.com/images/2023/12/01/multimedia/01dc-ev-rules-qzvm/-01dc-ev-rules-qzvm-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/business/20231204/china-evergrande-hong-kong/dual",
-          "author": null,
-          "description": "艾莎2023年12月4日太原市一处已经停工的恒大住宅项目。 Gilles Sabrié for The New York Times\nOnce China’s most prolific property developer, China Evergrande may soon be its biggest and messiest corporate breakup.\n作为中国曾经规模最大的房地产开发商，恒大可能即将成为中国最大、最棘手的企业破产案。\nIn a Hong Kong courtroom on Monday, a bankruptcy judge could force Evergrande to liquidate and pay back creditors who are owed tens of billions of dollars.\n周一，在香港的一家法庭上，破产法官可能将强制恒大清盘，并向债权人偿还成百上千亿美元的债务。\nIt would mark an end to two years of limbo for investors who lent Evergrande money in Hong Kong and have tried to negotiate for a piece of the debt-saddled corporate behemoth that defaulted in early December 2021.\n对于在香港向恒大贷款的投资人来说，这将标志着长达两年的僵局结束，这些投资人一直试图通过谈判从这家债务缠身并于2021年12月初宣布违约的企业巨头拿到部分钱。\nA liquidation of Evergrande was once unimaginable. For two decades it was a …",
-          "link": "https://cn.nytimes.com/business/20231204/china-evergrande-hong-kong/dual",
-          "publishedOn": "2023-12-04T04:06:03.000Z",
-          "wordCount": 1026,
-          "title": "债务重组深陷僵局，恒大可能面临破产清算",
-          "imageUrl": "https://static01.nyt.com/images/2023/11/30/multimedia/00china-evergrande-03-jpwl/00china-evergrande-03-jpwl-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/usa/20231204/darien-gap-china-immigration/dual",
-          "author": null,
-          "description": "袁莉2023年12月4日高志斌（音）和女儿穿越了位于哥伦比亚和巴拿马之间的达连峡谷，于今年3月抵达美国。他在路上试图安慰生病的女儿，女儿呕吐、肚子疼。 Federico Rios for The New York Times\nGao Zhibin and his daughter left Beijing on Feb. 24 for a better life, a safer one. Over the next 35 days, by airplane, train, boat, bus and foot, they traveled through nine countries. By the time they touched American soil in late March, Mr. Gao had lost 30 pounds.\n今年2月24日，高志斌（音）和女儿离开了北京，去寻找更好、更安全的生活。在接下来的35天里，他们坐飞机、火车、轮船、公交车，加上步行，途经九个国家，于3月下旬抵达美国本土。那时，高先生的体重已比出发时轻了近15公斤。\nThe most harrowing part of their journey was trekking through the brutal jungle in Panama known as the Darién Gap. On the first day, said Mr. Gao, 39, he had sunstroke. The second day, his feet swelled. Dehydrated and weakened, he threw away his tent, a moisture-resistant sleeping pad and his change of clothes…",
-          "link": "https://cn.nytimes.com/usa/20231204/darien-gap-china-immigration/dual",
-          "publishedOn": "2023-12-04T02:36:03.000Z",
-          "wordCount": 2032,
-          "title": "为何这些中国人冒险“走线”赴美",
-          "imageUrl": "https://static01.nyt.com/images/2023/12/04/multimedia/00newworld-darien-vfqb/00newworld-darien-vfqb-articleLarge.jpg"
         }
       ]
     },
@@ -20672,36 +20802,6 @@
           "publishedOn": "2023-12-05T02:10:00.000Z",
           "wordCount": 343,
           "title": "直播预告 | 在中国古代，货币为什么重要？",
-          "imageUrl": null
-        },
-        {
-          "id": "370cefd073b207d7341b7d0bd2beb5bf",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E5%8A%A0%E5%88%A9%E8%A5%BF%E4%BA%9A%E7%9A%84%E5%B9%BD%E7%81%B5%EF%BC%9A%E6%AC%A7%E6%B4%B2%E7%9A%84%E5%91%BD%E8%BF%90%E4%B8%8E%E6%B0%91%E6%97%8F%E7%9A%84%E6%8A%89%E6%8B%A9",
-          "publishedOn": "2023-12-04T02:25:00.000Z",
-          "wordCount": 332,
-          "title": "加利西亚的幽灵：欧洲的命运与民族的抉择",
-          "imageUrl": null
-        },
-        {
-          "id": "4827080ed055bac859aeb5854580faff",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E7%BB%8F%E6%B5%8E%E5%AD%A6%E6%98%AF%E8%87%AA%E6%88%91%E9%A2%A0%E8%A6%86%E7%9A%84%E8%89%BA%E6%9C%AF%EF%BC%9A%E4%BD%9C%E4%B8%BA%E5%BC%82%E7%AB%AF%E7%9A%84%E9%98%BF%E5%B0%94%E4%BC%AF%E7%89%B9%C2%B7%E8%B5%AB%E5%B8%8C%E6%9B%BC",
-          "publishedOn": "2023-12-04T02:25:00.000Z",
-          "wordCount": 332,
-          "title": "经济学是自我颠覆的艺术：作为异端的阿尔伯特·赫希曼",
-          "imageUrl": null
-        },
-        {
-          "id": "8dc1ea1b3a933ff7a32e0a47a5a18c2b",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E5%AF%B9%E5%8C%97%E4%BA%AC%E5%9C%B0%E5%8C%BA%E8%80%8C%E8%A8%80%EF%BC%8C%E5%86%AC%E5%AD%A3%E6%98%AF%E5%85%A5%E9%97%A8%E8%A7%82%E9%B8%9F%E7%9A%84%E5%A5%BD%E6%97%B6%E5%80%99",
-          "publishedOn": "2023-12-04T02:25:00.000Z",
-          "wordCount": 334,
-          "title": "对北京地区而言，冬季是入门观鸟的好时候",
           "imageUrl": null
         }
       ]
