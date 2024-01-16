@@ -24,16 +24,6 @@
           "wordCount": 6057,
           "title": "R Weekly 2024-W02",
           "imageUrl": "https://rweekly.org/public/facebook.png"
-        },
-        {
-          "id": "https://rweekly.org/2023-W51.html",
-          "author": null,
-          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Ryo Nakagawara, with help from the R Weekly team members and contributors.\nHighlight\nStyle your code output with {epoxy}\nGet Good with R: Typing Skills and Shortcuts\nIntroduction to reproducible reporting with Quarto\nInsights\nEmpowering R in Paris: Mouna Belaid’s Journey with R-Ladies and the French R Community\nIntroduction of R activities in Japan \nfemR: Bridging Physics and Statistics in R with Support from the R Consortium\nThe 10 most popular R books of 2023\nR in the Real World\nKnowledge Retrieval and Task Automation: with R and GPT on the Histories\nPatience is overrated – embrace the thrill of parsing streaming data as it arrives!\nR in Organizations\nNew R/Insurance Webin…",
-          "link": "https://rweekly.org/2023-W51.html",
-          "publishedOn": "2023-12-18T00:00:00.000Z",
-          "wordCount": 5955,
-          "title": "R Weekly 2023-W51 Style code with {epoxy}, R typing shortcuts, quarto reproducible reporting",
-          "imageUrl": "https://rweekly.org/public/facebook.png"
         }
       ]
     },
@@ -431,16 +421,6 @@
           "wordCount": 57,
           "title": "许志强评《魔术师》︱彼岸的魔术师",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_25688213",
-          "author": null,
-          "description": "《秦汉工匠》，[美]李安敦著，林稚晖译，上海三联书店｜理想国，2023年7月出版，516页，139.00元 \n\n当你欣赏一件绘饰朱红色动物纹的战国漆器，是否会想起那是咸阳漆物作坊中的女工所为？当你邂逅一片汉代画像石拓片，是否会想到山东嘉祥县的画工正用模印和粉本熟练地摹绘？当你看到一块铸刻精美的东汉铜镜，可曾想到当时市集上的镜贩子正在以某种吉语性质的顺口溜响亮叫卖？陈列在博物馆里的文物华美的外饰固然令人眼花缭乱，或是巧妙的构思、设计令你赞不绝口，但发生在它们身后的诸多故事呢？诚然，考古学家可据现代技术复原其使用环境，历史学家亦可靠传统文献或注释重构过去，美术史学者还可以器物造型及图案展开风格学分析，但仅凭这些人们所感受到的有限信息去触摸历史，实则依然较为粗浅。特别是它出产时的社会和经济环境：它由谁制造？这个人在社会中处于怎样的地位？为什么制造了它？怎么造的？造它的人受过怎样的训练？它又是如何传到了拥有者手里保存于今？美国加州大学李安敦（Anthony J. Barbieri-Low）所著《秦汉工匠》在解答上述问题的同时，为我们呈现了艺术史研究中新的研究视角和方法。\n系统关照工匠群像\n陈丹青在《局部》第三季节目中曾谈及意大利工匠，指出他们对文艺复兴时期建筑、雕塑、绘画等艺术样式做出了巨大贡献，以及从中透露出的勃勃生命力。而早期东方大国的中国工匠们，大多籍籍无名，甚至从仅存的断瓦残片中也很难拼凑出他们的完整轮廓。在世界范围内的艺术史研究中同样也很少有涉及早期中国工匠的，这并非因为学者们忽略了这一有趣的选题，而是秦汉领域的研究资料实在乏善可陈，不足以支撑任何合理有效的立论。但随着近些年考古发掘出一批新文本，譬如湖北云梦睡虎地秦简、江陵张家山汉简，以及对旧资料进行的新阐释，终于使这一研究变得可行且有意义。\n当然，对古代工匠及其社会地位的研究也诞生过一些重要的作品，例如艾莉森·伯福德（…",
-          "link": "https://www.thepaper.cn/newsDetail_forward_25688213",
-          "publishedOn": "2023-12-18T04:02:06.000Z",
-          "wordCount": null,
-          "title": "张朋兵评《秦汉工匠》｜谁真正缔造了秦汉中国？",
-          "imageUrl": null
         }
       ]
     },
@@ -449,6 +429,206 @@
       "feedUrl": "https://feedx.net/rss/thepaper.xml",
       "siteUrl": "http://thepaper.cn",
       "articles": [
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26028075",
+          "author": null,
+          "description": "据美联社当地时间1月15日报道，美国联邦航空管理局（FAA）当日表示，日本全日空航空公司旗下一架波音777飞机于14日晚在美国芝加哥奥黑尔国际机场进行起飞滑行时，与美国达美航空公司旗下一架波音717飞机相撞。\n报道称，事故中没有人员伤亡的报告，美国联邦航空管理局将对事故进行调查。目前尚不清楚事故是否与波音飞机制造缺陷有关。此前，美国飞机制造商波音公司因一系列事故而遭到部分机型停飞及严格审查。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26028075",
+          "publishedOn": "2024-01-16T15:53:05.000Z",
+          "wordCount": 32,
+          "title": "两架波音飞机在美国芝加哥机场相撞，美国联邦航管局展开调查",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26031686",
+          "author": null,
+          "description": "西安市阎良区法院的判决书（部分）。本文图片均由 受访者 供图\n\n一个小男孩躺在床上，皮肤白皙，脸圆圆的，朝妈妈咧开小嘴，开心地笑着……这个画面，时常出现在张伟红的梦境中。梦里的小男孩是她的儿子——当年失踪时，才出生三个多月。\n张伟红是西安市阎良区人，她的儿子曾患先天性白化病。2005年孩子失踪后，她长年到各地寻找，一直没找到孩子。18年后，她从警方得到消息才确认，孩子当年被亲生父亲遗弃，后来豪豪被送到渭南市儿童福利院安置，早在2006年9月9日就因病死亡。\n2023年6月，张伟红的前夫雷某——当地检察院聘用的一名厨师，被警方刑事拘留。12月底，阎良区法院一审认定雷某犯遗弃罪，对其判处有期徒刑一年。\n一审判决书显示，法院驳回了张伟红的附带民事诉讼请求。\n2024年1月16日，张伟红告诉澎湃新闻，由于缺少民事费用方面的证据，她没有提出上诉。\n\n儿子失踪后，张伟红2005年曾向当地派出所报案。\n\n孩子出生三个月后失踪，其父母因“抚养权”打官司\n1981年出生的张伟红，在23岁那年——2004年，与邻村的雷某结婚，次年三月生下一个男婴，取名豪豪（化名）。\n“头发是白的，眉毛也是白的。”张伟红说，豪豪患先天性白化病，皮肤很白，其他方面很正常，“一逗他，马上咧开嘴朝你笑”。\n资料显示，白化病是被收录进《第一批罕见病目录》的罕见病，患者全身皮肤呈乳白或粉红色，毛发为淡白或淡黄色。由于缺乏黑色素的保护，患者皮肤对光线高度敏感，日晒后易发生晒斑和各种光感性皮炎。该病不会致人死亡，但也可能因此引发相关癌症。\n豪豪三个多月大时，有一天，张伟红与丈夫发生争吵，她一赌气，回了几公里外的娘家。在娘家吃了中饭后，张伟红不放心孩子，当天便赶回来了。\n回来后，她发现丈夫和孩子都不见了——几个小时前，她给豪豪换上蓝色的花纹衣服，是看他躺在床上睡着才离开。\n几天后，张伟红终于在当地一家修理铺找到了丈夫雷某。“他…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26031686",
+          "publishedOn": "2024-01-16T15:53:05.000Z",
+          "wordCount": 60,
+          "title": "迟到的惩罚：女子寻子18年才知已病亡，前夫因弃子获刑一年",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26028469",
+          "author": null,
+          "description": "据人民网“领导留言板”消息，针对网民关于“江西教育厅发文禁止跨市教师选调”的咨询，江西省委民声通道工作室1月15日回复称，2023年12月，江西省教育厅和省人社厅联合发文，进一步规范了全省公办中小学幼儿园教师公开招聘和选调工作，明确严格限制跨设区市选调，各地原则上不得面向全省范围选调中小学教师。\n2023年12月28日，网民在人民网“领导留言板”留言，咨询“江西教育厅发文禁止跨市教师选调”是否属实。其称，有的区县发布了教育厅通知，禁止跨市教师选调。本人目前为丰城市编制教师，家庭购房在南昌生活。未来是不是没有了通过教师选调回到南昌工作的机会？如果政策属实，是否还有其他渠道调入南昌？\n2024年1月15日，江西省教育厅通过江西省委民声通道工作室回复称，经了解，为深入贯彻中共中央办公厅、国务院办公厅《关于构建优质均衡的基本公共教育服务体系的意见》等文件精神，构建优质均衡的基本公共教育服务体系，形成科学规范、公平公正的选人用人机制，促进教师合理有序流动，稳定中小学教师队伍，2023年12月，江西省教育厅和省人社厅联合发文，进一步规范了全省公办中小学幼儿园教师公开招聘和选调工作，明确严格限制跨设区市选调，除安排乡村教师回原籍任教等政策性流动外，各地原则上不得面向全省范围选调中小学教师。\n澎湃新闻注意到，江西省教育厅和江西省人社厅已于2023年12月8日联合印发了《关于进一步规范中小学教师公开招聘和选调工作的通知》。据江西宜春靖安县政府网站2024年1月10日消息，江西省教育厅和江西省人社厅在通知中提出，各地要有序开展县域内中小学教师公开选调工作。设区市范围内跨县域公开选调中小学教师，由设区市教育、人社部门统一审批并监督实施。严格限制跨市选调，除安排乡村教师回原籍任教等政策性流动外，各地原则上不得面向全省范围选调中小学教师。严禁通过高薪酬高待遇抢挖人才，特别是从薄弱地区、农村学校抢挖优秀校长和中小学教师。\n通知同时规定，报名参加公开选调的中小学教师，须在同一县域（或市直）内任教满5年（“三支一扶”支教人员和特岗教师的服务期与其转为正式编制教师后的工作时间可累计计算）。其中，全省特级教师、省级及以上骨干教师、学科带头人、名师以及被评聘为正高级职称的教师，须自获得称号（职称）起在所在学校县域（或市直）范围内任教满5年。符合选调条件的中小学教师，须在报名前取得所在学校及其教育主管部门同意。\n关于前述网民咨询“其他渠道调入南昌”的问题，江西省教育厅在答复中表示，2022年12月，中共江西省委教育工委、江西省教育厅等九部门印发《江西省贯彻落实〈新时代基础教育强师计划〉十五条措施》（赣教办字〔2022〕25号），要求各地“开辟绿色通道，支持符合条件的乡村教师回原籍任教”。根据省级文件，各地制定出台乡村教师回原籍任教具体实施办法。如符合当地乡村教师回原籍任教有关条件，或通过全省中小学教师统一招聘考试，可跨设区市任教。\n江西省教育厅和江西省人社厅在前述《关于进一步规范中小学教师公开招聘和选调工作的通知》中强调，公办中小学教师招聘原则上应纳入全省中小学教师统一招聘，各地在制定招聘计划时可预留部分编制用于接收安置定向师范生、公费师范生、特岗教师、“三支一扶”支教人员入编和支持乡村教师回原籍任教。各设区市教育、人社部门和省直有关单位可根据建设高素质教师队伍需要，组织开展对具有高级专业技术职称或硕士以上学历学位教师的招聘。要将师范类毕业生作为中小学教师补充的重要来源，进一步提高师范类毕业生招聘比例，经省教育厅、省人社厅批准，各设区市和省直有关单位可组织开展针对中学急需紧缺学科教师的校园招聘。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26028469",
+          "publishedOn": "2024-01-16T15:53:05.000Z",
+          "wordCount": 36,
+          "title": "江西省：严格限制跨设区市选调中小学教师，严禁高薪抢挖农村教师",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26034420",
+          "author": null,
+          "description": "据上海清算所1月16日消息，联发集团有限公司2024年度第一期中期票据将于1月17日9:00至1月18日18:00进行申购，申购区间为2.8%-3.8%。本期中期票据的发行金额为10亿元，期限3+3年（存续期第3年末附发行人调整票面利率选择权和投资者回售选择权）。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26034420",
+          "publishedOn": "2024-01-16T15:23:05.000Z",
+          "wordCount": 34,
+          "title": "联发集团：拟发行10亿元中期票据，申购区间为2.8%-3.8%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26032229",
+          "author": null,
+          "description": "1月16日，有债券持有人表示，已经收到“21碧地04”10万元的“小额”兑付款。2023年碧桂园对部分境内债券展期，展期方案显示，碧桂园无差别对每个账户提前偿付10万元。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26032229",
+          "publishedOn": "2024-01-16T15:23:05.000Z",
+          "wordCount": 34,
+          "title": "债券持有人：收到“21碧地04”10万元的“小额”兑付款",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26028695",
+          "author": null,
+          "description": "新一轮机构改革正在省一级推进，近日多地党委社会工作部和数据管理机构已亮相。\n其中在1月15日，中共青海省委社会工作部挂牌成立。\n《青海日报》报道称，组建省委社会工作部，是全省机构改革的重要内容，是贯彻中央机构改革要求，落实省委工作部署，深化党的社会工作机构职能体系改革的重大举措，对坚持和加强党对社会工作的集中统一领导，推动党的社会工作在机构设置上更加科学、在体制机制上更加完善、在职能配置上更加优化、在运行管理上更加高效，进一步构建社会治理新格局、推动现代化新青海建设，具有十分重要的意义。\n青海省数据局揭牌仪式也在1月15日举行。\n新成立的青海省数据局，负责全省数字基础设施、数据基础制度、数据共享开发利用、数据安全以及政务服务和公共资源交易监督管理等工作，承担着统筹推进数字青海、数字经济、数字社会发展的职责。\n同在1月15日，河北省数据和政务服务局正式揭牌。\n\n《河北日报》报道称，新组建的省数据和政务服务局主要负责统筹推进数字河北、数字经济、数字社会、数字政府规划建设和政务服务工作。省数据和政务服务局将坚持政治引领，把牢政治方向，深入推进全省数字化工作，坚持攻坚克难，努力实现数据统筹、数字经济、数字政府、数字社会的新突破，推动数字河北跨越发展；坚持真抓实干，最大限度发挥数据赋能作用，以数据支撑政务效能提升、服务科学决策、保障公平竞争，让企业、群众方便快捷少跑腿，为加快建设经济强省、美丽河北，奋力谱写中国式现代化建设河北篇章贡献力量。\n2023年《党和国家机构改革方案》中的多项内容涉及地方层面的机构调整。例如在社会工作领域，省、市、县级党委组建社会工作部门，相应划入同级党委组织部门的“两新”工委职责；数据管理领域，新组建的国家数据局负责协调推进数据基础制度建设，统筹数据资源整合共享和开发利用，统筹推进数字中国、数字经济、数字社会规划和建设等，省级政府数据管理机构结合实际组建。\n据澎湃新闻稍早前报道，北京、江苏、内蒙古等省级党委社会工作部领导班子成员已公开亮相，四川、内蒙古、江苏等新设的省级政府数据管理机构也在近期相继亮相。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26028695",
+          "publishedOn": "2024-01-16T14:53:05.000Z",
+          "wordCount": 41,
+          "title": "新一轮机构改革逐步落地：这两个部门已在多省份组建",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26022833",
+          "author": null,
+          "description": "最近，有网友表示收到来自“河南省文旅厅”的短信：“各市满18周岁身高超过180CM的单身、未婚男青年积极返城，携带身份证去当地文旅局报到……”\n有记者随后找河南省文化和旅游厅求证，工作人员否认“号召”的真实性——这种几乎一望即知是恶作剧的短信能引发媒体求证，大概也是因为这些年各地文化和旅游主管单位都特别用力。\n\n2024年1月15日，湖南省张家界市，武陵源区文旅局长彭振华和魅力湘西艺术团成员身披“稻草”，变身“茅古斯”，在张家界国家森林公园齐跳科目三，以特殊的形式出圈招徕海内外游客。视觉中国 图\n\n找话题、蹭热度的事，原本都是我们媒体人做的，还时不时给人哂笑，你们怎么也做这种事？\n然而文旅不好做，文化要保护，要靠旅游找资金，有时不免左支右绌。十几年前，学者叶鹏曾接受媒体采访，说起某地把已现身的东周天子陵墓车马坑填上盖广场，他说：“几个晚清年代的铜兽首都可以炒到天价，那你说，东周、隋唐时期的东西要值多少钱？是不是无价？”\n他注意到一个细节，广场上出现一座“天子驾六”的雕像，马匹的姿态有些奔放，叶老质疑，说拉天子车乘的马：“怎能如此恣情放纵、咆哮无畏？”显然，没有人承认，马的咆哮，是要哮出一个能吸引游客的标题。\n旅游和文化，有时就像一对心意不通的舞伴，在社会的乐曲中旋转着，互相吸引又避让着，怕踩着对方的脚。\n有人寄希望于“文旅部门”内部，“文化”能吵过“旅游”，让它重新优雅起来——其实这种思路，放到具体的情境中，尤其遇到一些相对弱势和封闭的文化，也不容易走通。\n上个月，我刚去四川安岳采访“彩妆”文物现象。安岳及附近一些县市的习俗是初一、十五到附近庙里拜佛、在神的注视之中聚餐。若你浸淫于当地文化，恐怕也很快和他们一样，以为众神的面庞要添一点气色。现在，能劝阻当地人拿颜料来涂的，还是这样的话：“涂了就是破坏文物，不是文物，就不能收门票钱。”\n有资深文物爱好者对我说，他发表一些考证文章后，政府招商的旅游开发公司没到位，一些野生爱好者先摸到，镜头凑近到能刮伤菩萨的脸。他郁闷得不想写了。\n据我个人看，旅游开发，一定程度上也是给人“造梦”，要“亦真亦幻”。只是开发者要有底线。\n还是在安岳采访，我和村里老人聊天，说起村里从前有更多古物，有一些失去踪迹。后来，他在镇上报一个旅游团，导游带他去购物，还去看“劈山救母的裂缝”，老人家大笑，哪有那一回事？\n细想，“人造景观”古来就有。古时候连年战乱，毁掉了大多数遗迹，然后，才有传说的空间——杭州西湖疏浚了一千年，现如今的白堤、苏堤，不知有几成是白居易、苏轼建的？\n我小时候看韩剧，知道韩国有“松都三绝”，是朴渊瀑布、徐静德（哲学家）、黄真伊（艺伎），电视剧还编排美艳的黄小姐自己吹嘘似地这么说。\n黄小姐，我对您怀有深深敬意，觉得您写的“青山里碧溪水， 莫夸易移去， 一到沧海不复还；明月满空山，暂休且去若何”，比很多别的诗都好，而要我说，文章也是一种卖弄，没什么丢人的。\n可是，现在“流量”仿佛流速太大，令人担心，可能直接把文化冲走。\n我总觉得，自从流量可以买，始发于舆论场的一些操作变得更像投机行为。那对照股市，有庄家，有散户，一顿骤然的升高降低之后，肥了谁，瘦了谁，我想靠着经济规律，是可以推导而出的。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26022833",
+          "publishedOn": "2024-01-16T14:53:05.000Z",
+          "wordCount": 49,
+          "title": "文旅很“卷”，旅游与文化却是一对怨偶丨见识",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26034513",
+          "author": null,
+          "description": "1月16日，道指开盘跌0.3%，标普500跌0.4%，纳指跌0.3%。苹果跌2.2%，苹果中国官网罕见开启促销活动。特斯拉跌1.7%，马斯克称，除非控制权升至25%，否则“我更倾向于在特斯拉之外打造产品”。摩根士丹利跌3.9%，去年四季度净利润大幅下滑。高盛跌0.3%，去年四季度营收超预期。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26034513",
+          "publishedOn": "2024-01-16T14:53:05.000Z",
+          "wordCount": 32,
+          "title": "道指开盘跌0.3%，标普500跌0.4%，纳指跌0.3%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26034419",
+          "author": null,
+          "description": "1月16日，上海金桥（集团）有限公司发布公告，将于1月23日兑付上海金桥（集团）有限公司2023年度第一期超短期融资券（简称：23金桥集团SCP001），本期应偿付本息金额1,003,497,267.76元（约10.035亿元）。\n本期债券发行金额10亿元，起息日2023年12月4日，发行期限50天，债项余额10亿元，本计息期债项利率2.56%／年。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26034419",
+          "publishedOn": "2024-01-16T14:23:06.000Z",
+          "wordCount": 34,
+          "title": "金桥集团：将于1月23日兑付“23金桥集团SCP001”，兑付金额约10.035亿元",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26034421",
+          "author": null,
+          "description": "据上海清算所1月16日消息，北京天恒置业集团有限公司于1月11日发行“24天恒置业MTN001”，发行金额6亿元，发行利率3.93%，期限5+2年，起息日2024年01月15日，兑付日2031年01月15日。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26034421",
+          "publishedOn": "2024-01-16T14:23:06.000Z",
+          "wordCount": 34,
+          "title": "北京天恒置业发行6亿元中期票据，发行利率3.93%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26029650",
+          "author": null,
+          "description": "来源：@CCTV国际时讯(00:17)\n当地时间今天（16日）早上7点50分左右，一辆载有中国游客的旅游巴士在泰国普吉府塔廊县一路段发生侧翻。救援人员赶到现场后立即对受伤乘客进行急救，大多数人因撞击受到擦伤和扭伤。车上共有20人，包括16名中国游客、1名中国籍领队、1名泰籍导游，以及泰籍司机和助理。这辆大巴车正前往攀牙府斯米兰岛，行驶到事发地时，车失去控制侧翻。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26029650",
+          "publishedOn": "2024-01-16T13:53:05.000Z",
+          "wordCount": 50,
+          "title": "泰国一旅游大巴失控侧翻致17名中国游客受伤，其中2人重伤",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26022784",
+          "author": null,
+          "description": "刚刚过去的2023年，江西省会南昌成功“出圈”，成为新晋“网红”旅游城市，全年共接待游客1.9亿人次，实现旅游综合收入1977.79亿元；同时交通迎来大爆发，南昌东站、南昌南站同步开通运营，一举迈入“一城四站”时代。进入2024年，南昌旅游会有哪些新招？交通强市如何继续推进？\n2024年1月15日，南昌市第十六届人民代表大会第四次会议开幕，市长万广明在作政府工作报告时，揭晓了一系列答案。\n\n市长万广明作南昌市政府工作报告。“南昌发布”微信公众号 图\n\n万广明在政府工作报告中提到，刚刚过去的2023年，南昌紧紧围绕“一枢纽四中心”发展定位，锚定“项目为先、实干奋进，争分夺秒拼经济”工作主线，完整、准确全面贯彻新发展理念，真抓实干、担当作为，战胜各种困难挑战，全市经济运行呈现持续恢复、加快向好态势。全市地区生产总值预计增长4.0%左右，规上工业增加值预计增长4.0%左右，社会消费品零售总额预计增长6.5%左右，地方一般公共预算收入增长9.3%，城乡居民人均可支配收入预计分别增长4.0%、6.0%左右。\n在产业强市、制造业立市方面，过去一年，南昌坚持“一产一策”“一企一策”，预计全市规模以上工业营业收入突破6500亿元，电子信息（含电子信息服务业）全产业链营业收入突破2400亿元，汽车及装备、新材料、医药健康等全产业链营业收入均超千亿元。\n过去一年，南昌交通迎来大爆发，“六坝共筑、十桥同架”强力推进，高铁东站、南站以及杭昌高铁黄昌段正式投入运行；同时，持续打通断头路，畅通微循环，38条道路成功通车，全市道路平均车速提升4km/h，交通健康指数在全国36个重点城市中位居前列。\n过去一年，也是南昌旅游成功“出圈”的一年。南昌先后举办了中国南昌国际龙舟赛、南昌马拉松、烟花晚会、千人横渡赣江、八一广场升旗仪式、梅岭伶伦和扶“瑶”直上音乐节等系列活动，成为新晋“网红”旅游城市，入选“中国十大旅游目的地必去城市”，全年共接待游客1.9亿人次，增长16.9%，实现旅游综合收入1977.79亿元，增长41.3%。\n2024年，南昌有哪些新的发展目标？\n市长万广明在政府工作报告中提到，2024年，南昌的主要预期目标为：地区生产总值增长5.0%左右，规模以上工业增加值增长6.5%左右，一般公共预算收入增长5.0%左右，固定资产投资增长5.0%左右，社会消费品零售总额增长7.0%左右，城乡居民人均可支配收入分别增长5.0%、7.0%。\n在现代化产业体系建设方面，2024年，南昌将以科技创新为引领，打造8条制造业标志性产业链，8个优势明显、集中度高、关联性强、有竞争力的特色产业集群，力争实现全市规模以上工业营业收入年均增长10%左右的目标。同时，加快电子元器件、软件和信息服务等数字经济核心产业发展，积极打造移动智能终端产业示范基地；充分发挥世界VR产业大会、世界VR产业暨元宇宙博览会等品牌优势，建设世界级VR中心。\n2024年，南昌旅游也有诸多新看点。南昌将全面整合红色、绿色、古色资源，重点打造“八一起义”“海昏侯”“万寿宫”“八大山人”等文旅核心IP，以创建全国双拥模范域“十连冠”为契机，唱响“八一品牌”。高标准谋划举办2024年世界青年羽毛球锦标赛、南昌马拉松、迎春烟花晚会、八一广场升旗仪式、第十六届中国绿色食品博览会等活动，并将积极申办第十六届全国运动会，规划建设南昌国际会展中心。\n此外，交通强市也是一项重点工作。2024年，在铁路方面，南昌将加快完善南昌东站周边配套设施，扎实推进昌九高铁建设，力争推动昌福（厦）、武咸昌、长昌（九）等线路纳入国家铁路中长期规划（修编）；高速公路方面，力争西二绕城高速上半年部分路段通车、国庆前全线贯通；城市交通方面，争取洪州大桥、复兴大桥早日建成通车；水运方面，加快修订南昌港总体规划，以最严要求、最高标准抓好赣抚尾闾综合整治工程建设，并积极申报南昌—九江国家综合货枢纽补链强链城市。\n\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.run",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26022784",
+          "publishedOn": "2024-01-16T13:53:05.000Z",
+          "wordCount": 44,
+          "title": "2023年南昌共接待游客1.9亿人次，旅游收入近2千亿元",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26028583",
+          "author": null,
+          "description": "美国总统拜登 视觉中国 资料图\n\n据《参考消息》援引美国《国会山报》1月14日报道，民调显示，拜登的支持率降至新低。 只有三分之一的美国成年人表示，他们对拜登总统的工作表现感到满意——这是他担任总统以来以及过去15年历任总统以来的最低水平。\n报道称， 美国广播公司新闻部和益普索集团在1月4日至8日进行的民调显示，只有33%的受访者表示支持拜登，低于2023年9月的上一次民调中对其表现的支持率，当时他的支持率为37%。同时这也是自前总统小布什2006年至2008年以来的最低的总统支持率。\n正在竞选连任的拜登的支持率低于前总统特朗普。特朗普在共和党总统候选人提名中处于领先位置。\n报道还称， 当被问及他们在“回顾”过去时是否赞成特朗普担任总统期间的工作方式时，41%的受访者表示赞成，低于9月份的48%。对特朗普的不支持率从9月份的49%上升到现在的53%。\n当受访者分别被问及特朗普和拜登是否“诚实和值得信赖”时，拜登领先特朗普15个百分点。当被问及两位候选人是否具备有效服务的精神敏锐度以及他们的身体健康状况是否足以提供有效服务时，特朗普领先于拜登，但与去年5月相比，两人的支持率都有所下降。\n另据报道，美国头部银行认为，美国消费者经受住了联邦储备委员会加息周期的影响，处于良好状态；但是，最新民调显示，拜登在今年11月选举之前将不受信任。\n报道称，人们普遍认为消费者信心将在这场竞选中发挥重要作用。但是，1月14日公布的一项民调显示：只有13%的美国人认为，在美国总统的领导下自己的经济状况改善了。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26028583",
+          "publishedOn": "2024-01-16T13:53:05.000Z",
+          "wordCount": 55,
+          "title": "拜登支持率降至15年来历任总统最低水平：仅33%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26034157",
+          "author": null,
+          "description": "1月16日，国内期货夜盘开盘多数上涨，沪金跌0.28%，沪铜涨0.31%，铁矿涨1.61%，焦煤涨1.6%，原油涨1.38%，纯碱涨近2%。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26034157",
+          "publishedOn": "2024-01-16T13:23:04.000Z",
+          "wordCount": 32,
+          "title": "国内期货夜盘开盘多数上涨，纯碱涨近2%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26034392",
+          "author": null,
+          "description": "据外电16日报道，一艘希腊货轮在也门附近海域被导弹击中。（央视新闻）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26034392",
+          "publishedOn": "2024-01-16T13:23:04.000Z",
+          "wordCount": 32,
+          "title": "一艘希腊货轮在也门附近海域被导弹击中",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26029873",
+          "author": null,
+          "description": "1月16日，外交部发言人毛宁主持例行记者会。有记者提问，这几天，不断有国家公开表态支持一个中国原则，尊重中国领土完整，反对干涉中国内政。发言人能否介绍有关情况？\n毛宁表示，1月13日以来，许多国家和国际组织纷纷公开重申恪守一个中国原则，坚定支持中方维护国家主权和领土完整，反对任何形式的“台独”，支持中国统一大业。\n“昨天我已经介绍了有关情况。除了昨天提到的，还有巴基斯坦、马尔代夫、缅甸、伊朗、叙利亚、突尼斯、巴勒斯坦、土库曼斯坦、吉尔吉斯斯坦、亚美尼亚、阿塞拜疆、中非、尼日尔、赤道几内亚、科摩罗、莱索托、索马里、吉布提、马里、布隆迪、冈比亚、瓦努阿图、汤加、基里巴斯、多米尼克、尼加拉瓜、玻利维亚等一大批国家以及非洲联盟等，都明确表达了支持一个中国原则，反对‘台独’的心声。”毛宁说。\n毛宁称，我们对这些国家和组织的正义立场表示赞赏和感谢。相信国际社会将继续根据一个中国原则，支持中国人民反对“台独”分裂活动，争取国家统一的正义事业。\n\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.run",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26029873",
+          "publishedOn": "2024-01-16T13:23:04.000Z",
+          "wordCount": 38,
+          "title": "多国重申恪守一个中国原则、反对“台独”，外交部：赞赏、感谢",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26030118",
+          "author": null,
+          "description": "每到过节前夕，小客车免费通行问题都是大家关注的焦点之一。根据《国务院关于批转交通运输部等部门重大节假日免收小型客车通行费实施方案的通知》，以及《国务院办公厅关于2024年部分节假日安排的通知》等要求，交通运输部印发通知，部署做好优化2024年春节假期收费公路免收小型客车通行费时段有关事宜。通知明确，2024年春节假期小型客车免费通行时段起止时间为2月9日（除夕）00:00至2月17日（正月初八）24:00，共免费9天。\n在1月16日国务院新闻办公室举行的新闻发布会上，交通运输部副部长李扬介绍了2024年春节假期路网预测情况。总体来看，今年春运路网流量在去年高位运行的基础上，将继续攀升并持续高位运行。一是超大流量特征明显。预计春运期间，公路网日均流量和单日峰值流量将均创历史新高，全国高速公路日均流量将达3720万辆，比去年同期增长7.5%；整个春运流量的峰值将出现在春节假期的最后一天（2月17日，正月初八），高速公路流量峰值将达6520万辆，客车流量峰值将达6270万辆，小客车流量峰值将达6230万辆。二是跨省出行特征突出。春运期间人员流动密集，务工流、探亲流以及物流叠加，春运前期和后期跨省、跨区域长距离出行比例较平日将明显增长。三是自驾出行成为绝对主流。今年春节假期周期长，预计春运期间自驾出行比例将创新高，小客车占客车比例预计超过99%。四是高位运行持续春运全程。春运40天，时间跨度大，路网流量处于较饱和状态运行的时间长。五是高峰时段路网承压较重。尤其是在节前返乡和节后返程的高峰时段，大流量路段将会出现明显的缓行拥堵。\n第二，多措并举改善大家自驾出行服务体验。交通运输部联合公安部、金融监管总局、中国气象局联合印发通知，提出了重大节假日保障公众出行的八项举措，包括启动轻微交通事故快速处理程序、提升收费站通行效率、加强拥堵路段疏导管控、优化清障救援等。\n春运期间，我们还将指导各地在流量大的服务区适当增设移动卫生间、移动充电设施等保障设备，优化服务区停车管理，有序引导车辆停放、充电、加油，提升服务区服务质量和服务品质，保障公众便捷、舒适出行。\n第三，关于自驾出行的出行建议。春运期间，一是请大家关注天气情况，注意行车安全。二是请大家关注路况信息，合理规划行程。交通运输部已上线了“e路畅通”微信小程序，大家可以通过小程序查询高速公路充电设施位置、实时状态等信息，如果遇到事故，也可通过小程序“一键呼救”。三是请大家牢记免费时段，最大限度享受优惠政策。\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.run",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26030118",
+          "publishedOn": "2024-01-16T12:53:05.000Z",
+          "wordCount": 32,
+          "title": "春节假期小型客车共免费通行9天",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26028451",
+          "author": null,
+          "description": "当地时间2024年1月15日，朝鲜平壤，在万寿台议事堂举行的第十四届最高人民会议第十次会议的全景。  视觉中国 图\n\n据央视新闻报道，当地时间1月15日，朝鲜第十四届最高人民会议第十次会议召开，朝鲜劳动党总书记、国务委员长金正恩发表施政演说。\n会上讨论了废除对南机构的问题并一致通过了决议。废除的对南机构包括朝鲜祖国和平统一委员会、民族经济合作局以及金刚山国际旅游局。\n另据新华社援引朝中社报道，该决定指出，近80年来，朝鲜统一祖国路线是基于一个民族、一个国家、两个制度。与之形成鲜明对比的是，韩国则将“吸收统一”“体制统一”定为国策。“与他们打交道，永远不能实现国家统一。”\n资料显示，朝鲜祖国和平统一委员会成立于韩国四一九革命之后的1961年5月13日。朝鲜祖国和平统一委员会隶属于朝鲜劳动党统一战线部，也是朝鲜负责朝鲜半岛南北关系及韩国事务的主要机构之一。朝鲜劳动党统一战线部主要负责北南对话、海外侨胞以及对南宣传。\n21世纪初朝韩关系缓和时期，朝鲜设立了民族经济合作局和金刚山国际旅游局，以处理朝韩之间的联合经济和旅游项目。金刚山国际旅游局除了负责宣传推介金刚山旅游特区，还负责金刚山旅游特区的建设工作。由于朝韩两国关系恶化，此类项目已被叫停多年。\n2018年，朝韩关系曾一度呈回暖趋势，朝韩领导人时隔11年举行领导人会谈、相继发表《板门店宣言》和《平壤共同宣言》。\n但2019年初，在朝美领导人于越南河内的会晤无果而终，朝美对话陷入僵局至今，朝韩关系也随之趋冷。\n2020年6月4日，据央视新闻援引朝中社报道，时任朝鲜劳动党中央第一副部长金与正强烈谴责韩方向朝鲜散发传单的行为。同年6月5日，朝方表示将关闭位于开城工业园区的朝韩联络办公室，9日又宣布将切断朝韩之间的一切通讯联络线，并称要把对南工作全面转换为“对敌工作”。6月16日下午，朝鲜爆破了位于朝鲜开城工业园的朝韩联络办公室大楼。\n2024年1月10日，朝鲜劳动党总书记、国务委员长金正恩视察该国重要军工厂时表示，韩国是朝鲜的“主要敌人”，并强调对韩关系的重中之重是强化国防自卫力量和核战争遏制力。金正恩说，把韩国定为朝鲜最敌对国家的历史时期已经到来，朝鲜须承认这一现实。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26028451",
+          "publishedOn": "2024-01-16T12:53:05.000Z",
+          "wordCount": 49,
+          "title": "释新闻｜朝鲜最高人民会议通过决议废除的对南机构有何职能？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26019487",
+          "author": null,
+          "description": "1月5日，广州开出全市首张“房票”，标志着广州市房票政策正式落地。广州之后，佛山等地也发布“房票补偿”政策，据中指研究院监测数据，自2023年以来已有超50城推出房票安置政策。\n何为房票安置？\n通常来说，“房票”安置是指在拆迁安置过程中，对现有住宅房屋征收货币补偿方式的一种补充。房票是被征收人房屋安置补偿权益货币量化后，征收人出具给被征收人购置房屋的结算凭证。也就是说，房票安置并非直接领取安置款，而是拿着房票买房，并抵扣房款。\n以广州为例，作为首个推行“房票安置”的一线城市，广州市规划和自然资源局在回应“房票”的焦点问题时回应，“房票安置”是现有货币补偿和实物安置模式的一种补充形式，被征收人可根据自身需要灵活选择房票安置、复建安置、产权调换或货币补偿。\n广州市规划和自然资源局指出，长期以来，广州在推进城中村改造中面临诸如原地安置多，片区用于完善城市功能、统筹规划的空间受限；改造周期长等堵点。广州探索通过房票安置形式破解广州城中村改造的上述难题。\n该负责人指出，房票安置满足了被征收人的差异化安置需求。实施房票安置，有利于拓宽被征拆人的选择面，满足更加灵活、多元和个性的需求，使被征拆户有能够均等享受与商品房同样的居住质量的机会，同时可缩短安置时间，避免出现“久迁”情况，提升征拆安置幸福感。另一方面有利于空间结构优化。通过减少安置房建设量，避免大量新建安置房的资源浪费，借助市场力量合理配置资源，让“有效市场+有为政府”充分发挥各自优势，将更多土地用于安排产业、文化、公服等公共功能，优化空间布局。此外，政府通过优化资源配置，为实现供需平衡助力房地产市场健康发展。\n按照广州的做法，房票全市通用，可跨区购买“房源超市”中的房屋。\n房票有什么作用？加快去库存，提振信心\n据中指研究院监测数据，自2023年以来已有超50城推出房票安置政策，除了广州之外，还有郑州、南京、南昌、昆明、贵阳、厦门…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26019487",
+          "publishedOn": "2024-01-16T12:53:05.000Z",
+          "wordCount": 40,
+          "title": "去年以来超50城推出房票安置政策：有什么目的，效果如何？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26033605",
+          "author": null,
+          "description": "近期普华永道对105个国家和地区，4702位高管进行了调查。结果显示，有越来越多的高管计划在未来几个月部署生成式AI。国际货币基金组织的报告指出，人工智能可能会加剧各国内部财富不平等。报告称，受益于AI的工作者能提高生产力和工资，但无法受益的工作者则面临落后的风险，由此导致两极分化。（@央视财经）\n\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.run",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26033605",
+          "publishedOn": "2024-01-16T12:53:05.000Z",
+          "wordCount": 32,
+          "title": "全球企业纷纷布局生成式A，IMF警告AI或加剧贫富差距",
+          "imageUrl": null
+        },
         {
           "id": "https://www.thepaper.cn/newsDetail_forward_26030023",
           "author": null,
@@ -12018,46 +12198,6 @@
           "wordCount": null,
           "title": "网传“建行崩了”？记者探访线下网点：部分业务受影响",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_25694959",
-          "author": null,
-          "description": "12月18日，恒生指数午盘跌0.94%；恒生科技指数跌1.16%。航运、电商等部分个股逆势上扬，东方甄选跳空高开豪取15%，海丰国际涨逾11%，中远海控涨超5%；地产、金融、科技、医药悉数下跌，商汤下滑11%创历史新低，贝壳、华润置地走低3%。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_25694959",
-          "publishedOn": "2023-12-18T04:23:07.000Z",
-          "wordCount": null,
-          "title": "香港恒生指数跌0.94%，恒生科技指数跌1.16%",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_25694159",
-          "author": null,
-          "description": "据“杭州动物保护志愿者团队”微信公众号消息，一辆载有大量猫的运输车辆近日在杭州市余杭区仁和街道附近被拦截，其中一些猫戴有项圈。随后这批猫被转运至杭州国泰宠物医院暂时安置。\n12月17日晚，红星新闻记者从国泰宠物医院获悉，据统计，此次被安置的猫约有950~960只。当地派出所工作人员表示，运载大批猫的货车被拦截一事，相关部门正在跟进处理。\n\n被拦截的车辆上装有大量的猫。 视频截图\n\n参与此次救助的杭州本地企业“老爸评测”员工沈女士向记者介绍，被救助的猫被分装在多个笼子中，经过两个通宵的处置，已经做过初步检查的猫被分在一个笼子里，笼子上都盖有衣物，以免猫失温。因此前受到惊吓，有些猫不适应环境，打翻了水盆和猫粮，在志愿者安抚下，猫的情况有所好转。\n17日晚，杭州国泰宠物医院工作人员告诉红星新闻记者，据统计，此次被安置在医院的猫约有950~960只。据其介绍，被救助的猫目前整体状态较好，受外伤的情况不多，一些猫有呼吸道感染的问题。\n该工作人员同时表示，目前他们最急需的是有经验的志愿者，以帮忙观察猫的状态，注意猫是否生病、是否应激等。此外，还需要2000份安捷猫瘟测试板、1000份体内外驱虫药、3000份猫重组干扰素以作备用，“这些是大型救助中必要的医疗物资。”\n\n被救助的猫暂时安置在宠物医院里。受访者供图\n\n此外，国泰宠物医院工作人员表示，一些猫戴有项圈，可以推测是有主人的猫；也有很多亲近人的猫，但身上没有相关标识。沈女士也介绍称，此次被救助的猫中不乏市价较高的品种猫，还有戴着驱虫圈、项圈的猫。\n\n志愿者发现，有的猫戴有项圈。受访者供图\n\n其中一只获救猫的主人杨女士向红星新闻记者回忆，12月15日清晨，她家中2岁的布偶猫“大壮”像往常一样去院子里遛弯，但直到当天深夜都没有回家，让她不禁担心起来。12月16日晚，杨女士在社交平台上看到有运输猫的车辆在杭州被拦截的消息，于是连夜赶往安置地点试图寻找“大壮”。\n在救助现场，杨女士得知，此次被救助的猫中有2只布偶猫。经过信息核对，确认了其中一只布偶猫就是杨女士丢失的猫。12月17日下午，办理好各种手续后，杨女士终于把爱猫接回了家。“非常感谢志愿者们帮忙救回了猫咪，也希望偷盗猫咪的人得到相应惩罚，让伴侣动物们有更好的生存空间。”杨女士说。\n12月17日，就涉事运输车辆司机的处理情况，记者以市民身份致电货车被拦截地附近派出所，接线工作人员表示，目前相关部门正在妥善处置中，更多情况暂不便透露。17日晚，红星新闻记者从当地派出所了解到，对于运载大批猫的货车被拦截一事，“农业农村局正在跟进处理，更多情况暂不便透露。”\n原标题：《一辆运猫车在杭州被拦截，950余只猫已转运至宠物医院救助 当地派出所：相关部门正跟进处理》\n\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.run",
-          "link": "https://www.thepaper.cn/newsDetail_forward_25694159",
-          "publishedOn": "2023-12-18T03:53:03.000Z",
-          "wordCount": null,
-          "title": "一辆运猫车在杭州被拦截近千只猫被救助，不乏市价较高的品种猫",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_25691824",
-          "author": null,
-          "description": "澎湃新闻记者从中国科学院大连化学物理研究所方面获悉，我国著名的高分子材料领域专家、中国民主同盟的优秀盟员、中国科学院大连化学物理研究所周光远研究员，于2023年12月16日9:55在吉林长春不幸逝世，享年51岁。\n\n公开资料显示，周光远主要从事生物基聚酷、特种工程塑料的合成与应用技术研究，历任科技部863新材料领域专家、重点研发计划材料领域专家、面向2035材料领域专家，中国工程院面向2035高性能高分子材料领域战略研究专家，辽宁省“兴辽计划”入选者，大连市“兴连英才计划”领军人才。\n\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.run",
-          "link": "https://www.thepaper.cn/newsDetail_forward_25691824",
-          "publishedOn": "2023-12-18T03:53:03.000Z",
-          "wordCount": null,
-          "title": "我国著名高分子材料领域专家周光远逝世，享年51岁",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_25694915",
-          "author": null,
-          "description": "据北京市统计局数据，1—11月,全市固定资产投资(不含农户)同比增长5.3%，其中，房地产开发投资增长2.3%。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_25694915",
-          "publishedOn": "2023-12-18T03:53:03.000Z",
-          "wordCount": null,
-          "title": "北京1—11月房地产开发投资增长2.3%",
-          "imageUrl": null
         }
       ]
     },
@@ -12066,6 +12206,76 @@
       "feedUrl": "https://www.nationalreview.com/feed/",
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1587563",
+          "author": "David Zimmermann",
+          "description": "Hutchinson received 0.2 percent of the vote during the Republican caucuses in Iowa on Monday night.",
+          "link": "https://www.nationalreview.com/news/asa-hutchinson-ends-presidential-campaign-after-sixth-place-finish-in-iowa/",
+          "publishedOn": "2024-01-16T16:22:55.000Z",
+          "wordCount": 8028,
+          "title": "Asa Hutchinson Ends Presidential Campaign after Sixth-Place Finish in Iowa",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/01/Asa-Hutchinson-.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1587490",
+          "author": "David Zimmermann",
+          "description": "The raid was the ‘first seizure of lethal, Iranian-supplied advanced conventional weapons (ACW) to the Houthis’ since October 7.",
+          "link": "https://www.nationalreview.com/news/navy-seals-seized-iranian-weapons-bound-for-houthis-u-s-says/",
+          "publishedOn": "2024-01-16T15:59:47.000Z",
+          "wordCount": 8317,
+          "title": "Navy SEALs Seized Iranian Weapons Bound for Houthis, U.S. Says",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/01/navy-.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1587498",
+          "author": "David Zimmermann",
+          "description": "‘The next debate I do will either be with Donald Trump or with Joe Biden.’",
+          "link": "https://www.nationalreview.com/news/nikki-haley-bows-out-of-new-hampshire-debates-after-third-place-finish-in-iowa/",
+          "publishedOn": "2024-01-16T13:43:19.000Z",
+          "wordCount": 8427,
+          "title": "Nikki Haley Rules Out More Debates with DeSantis, Says She’ll Only Face Trump or Biden",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/01/nikki-haley-iowa-caucus.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1587239",
+          "author": "The Editors",
+          "description": "The endless saga continues in Washington, D.C.",
+          "link": "https://www.nationalreview.com/2024/01/michael-mann-vs-journalism/",
+          "publishedOn": "2024-01-16T11:30:38.000Z",
+          "wordCount": 8412,
+          "title": "Michael Mann vs. Journalism",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2017/03/michael-mann-house-testimony-climate-change-embarrassing-rude-1.jpg?fit=920%2C537&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1586041",
+          "author": "David M. Simon",
+          "description": "There is no strong relationship between unemployment and inflation. The tradeoff doesn’t exist at all in any systematic way.",
+          "link": "https://www.nationalreview.com/2024/01/the-anti-phillips-curve-chart-no-relationship-between-inflation-and-unemployment/",
+          "publishedOn": "2024-01-16T11:30:26.000Z",
+          "wordCount": 8744,
+          "title": "The Anti-Phillips Curve Chart: No Relationship between Inflation and Unemployment",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/01/unemployment.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1587126",
+          "author": "Andrea Picciotti-Bayer",
+          "description": "One of America’s essential liberties is now being assaulted by the government.",
+          "link": "https://www.nationalreview.com/2024/01/religious-freedom-is-under-attack/",
+          "publishedOn": "2024-01-16T11:30:15.000Z",
+          "wordCount": 8742,
+          "title": "Religious Freedom Is under Attack",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/01/Pro-Life-Rally.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1587166",
+          "author": "F. Vincent Vernuccio",
+          "description": "A recent regulatory change by the Biden administration is so poorly designed, there’s no telling exactly how many workers will be hurt.",
+          "link": "https://www.nationalreview.com/2024/01/bidens-independent-contracting-rule-destroys-worker-independence/",
+          "publishedOn": "2024-01-16T11:30:03.000Z",
+          "wordCount": 8772,
+          "title": "Biden’s Independent-Contracting Rule Destroys Worker Independence",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/01/Construction.jpg?fit=1200%2C700&ssl=1"
+        },
         {
           "id": "https://www.nationalreview.com/?p=1587407",
           "author": "The Editors",
@@ -16134,6 +16344,16 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/prime/story/teeth-whitening",
+          "author": "EurekaLab",
+          "description": "多白的牙才算白？你为牙齿美白花掉的那些钱，有多少是智商税，多少是真东西？查看全文\n本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
+          "link": "https://sspai.com/prime/story/teeth-whitening",
+          "publishedOn": "2024-01-16T14:39:52.000Z",
+          "wordCount": 961,
+          "title": "原理、对策与产品：聊聊牙齿美白两三事",
+          "imageUrl": "https://cdn.sspai.com/1/16/2024/article/452fc3d4-8eca-8a3e-4031-ca9be3d49ac9.jpg"
+        },
+        {
           "id": "https://sspai.com/post/85807",
           "author": "北鸮",
           "description": "又是一年科技春晚，来看看有什么好玩的。查看全文",
@@ -17062,26 +17282,6 @@
           "wordCount": null,
           "title": "探寻 Apple 的都市传说：Store 也有「Pro 版」？",
           "imageUrl": null
-        },
-        {
-          "id": "https://sspai.com/post/85064",
-          "author": "iArter",
-          "description": "除了核心配置够硬、屏幕素质够强、相机影像够好、系统交互够顺、充电功率够快，真正的旗舰机也应在细节方面给到位，当我们抛开品牌情绪，带着这些标准来衡量首发第三代骁龙 8 移动平台的小米 14 Pro，实际体验究竟怎么样呢？查看全文",
-          "link": "https://sspai.com/post/85064",
-          "publishedOn": "2023-12-18T04:00:42.000Z",
-          "wordCount": null,
-          "title": "抛开品牌情绪，小米 14 Pro 的体验究竟如何？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sspai.com/post/85139",
-          "author": "少数派编辑部",
-          "description": "你可能错过的新鲜事字节跳动回应被OpenAI停用账户据澎湃新闻等报道，12月16日，TheVerge根据获得的内部文件报道称，字节跳动曾秘密使用OpenAI的技术来开发自己的大语言模型，在代号为Pro ...查看全文",
-          "link": "https://sspai.com/post/85139",
-          "publishedOn": "2023-12-18T01:02:29.000Z",
-          "wordCount": null,
-          "title": "派早报：字节跳动回应被 OpenAI 停用账户",
-          "imageUrl": null
         }
       ]
     },
@@ -17090,6 +17290,66 @@
       "feedUrl": "https://plink.anyfeeder.com/idaily/today",
       "siteUrl": "https://docs.rsshub.app",
       "articles": [
+        {
+          "id": "https://m.idai.ly/se/5fac80",
+          "author": null,
+          "description": "「天舟七号」货运飞船与长征七号遥八运载火箭组合体垂直转运至发射区，海南文昌。1月15日，「天舟七号」船箭组合体进入发射前最后准备阶段，计划近日择机发射。「天舟七号」是2024年度中国载人航天工程的首次发射任务，运送货物总重约5.6吨，包括空间站设备、科学实验材料、航天员补给物资和推进剂等，可满足天宫空间站约9个月物资需求。2024年中国载人航天工程计划实施4次发射任务，包括2次货运任务和2次载人任务。摄影师：iDaily Media",
+          "link": "https://m.idai.ly/se/5fac80",
+          "publishedOn": "2024-01-16T09:59:00.000Z",
+          "wordCount": 1173,
+          "title": "天舟七号即将发射",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.idai.ly/se/1a50jw",
+          "author": null,
+          "description": "越南第15届国会第5次特别会议开幕，河内。1月15日，越南国会特别会议决议提出2024年 GDP 增长目标为6%至6.5%区间，强调促进经济增长、稳定宏观经济大盘、抑制通胀和均衡发展是越南经济社会发展的首要目标。越南国家统计局数据显示2023年该国 GDP 同比增长5.05%，低于6.5%增长目标，主要受到全球市场需求疲软、公共投资减少等负面因素影响。2023年越南对外贸易总额为6830亿美元，同比下降-6.6%，连续第8年录得贸易顺差，顺差额280亿美元创下历史新高。摄影师：Luong Thai Linh",
+          "link": "https://m.idai.ly/se/1a50jw",
+          "publishedOn": "2024-01-16T08:57:00.000Z",
+          "wordCount": 1173,
+          "title": "越南2023年GDP增5.05%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.idai.ly/se/a17slj",
+          "author": null,
+          "description": "伊朗总统 Ebrahim Raisi 会见印度外长 Subrahmanyam Jaishankar，德黑兰。1月15日，印度外长对伊朗进行为期2天正式访问，分别与伊朗总统及外交部长举行会晤。伊朗总统表示印伊两国关系根深蒂固，强调愿努力加强两国各领域合作。双方当天就联合开发伊朗东南部恰巴哈尔港达成最终协议。恰巴哈尔港是印度首个大型海外港口项目，总投资约5亿美元，协议有效期10年，建成后将打通印度与阿富汗及其他中亚国家的贸易通道。2023年前9个月印度和伊朗双边贸易额为13.24亿美元，同比下降-33%。摄影师：Iranian Presidency",
+          "link": "https://m.idai.ly/se/a17slj",
+          "publishedOn": "2024-01-16T08:55:00.000Z",
+          "wordCount": 1173,
+          "title": "印度伊朗达成港口协议",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.idai.ly/se/722bb6",
+          "author": null,
+          "description": "英国国防大臣 Grant Shapps 上任后首次发表国防政策演讲，伦敦。1月15日，英国国防大臣 Shapps 警告「世界秩序基础发生动摇，和平红利时代已经结束」，宣称未来5年英国将面对涉及俄罗斯、中国、伊朗和朝鲜的多重战场。他宣布英国政府将提高国防开支至 GDP 的2.5%，并在2024年派遣航母战斗群参加冷战后规模最大的北约联合军演。2023年英国国防开支约为541亿英镑，占 GDP 比例约2.07%。摄影师：Henry Nicholls",
+          "link": "https://m.idai.ly/se/722bb6",
+          "publishedOn": "2024-01-16T08:53:00.000Z",
+          "wordCount": 1173,
+          "title": "英国防长警告中俄威胁",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.idai.ly/se/7847fA",
+          "author": null,
+          "description": "游客们在波兰 Snowlandia 冰雪迷宫里寻找出口。这是世界上规模最大的冰雪迷宫，占地面积达3000平方米，迷宫墙高2米，总长超过1公里，建造使用超过6万块雪砖。波兰政府预测2024年 GDP 增速将达到2.7%，成为欧盟主要经济体中增长率最高的国家，主要驱动力来自通胀放缓、实际工资上涨和个人消费增长。摄影师：Omar Marques",
+          "link": "https://m.idai.ly/se/7847fA",
+          "publishedOn": "2024-01-16T08:51:00.000Z",
+          "wordCount": 1173,
+          "title": "全球最大冰雪迷宫",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.idai.ly/se/179vnQ",
+          "author": null,
+          "description": "捷克拉贝河畔皇宫镇野生动物园，一只出生1个半月的侏儒河马（pygmy hippopotamus）在母亲身边玩耍。1月15日，捷克动物园新出生的侏儒河马幼崽首次在展馆亮相，这只侏儒河马出生于2023年12月1日，由园方取名为「Mikolas」。侏儒河马原产自西非的热带雨林和沼泽地区，是河马科仅存的2个物种之一，成年体长可达175厘米，体重达275公斤，圈养环境下寿命可达55年。受栖息地破坏及人类偷猎威胁，侏儒河马野外数量仅剩约2500只，已被列为濒危物种。摄影师：Petr David Josek",
+          "link": "https://m.idai.ly/se/179vnQ",
+          "publishedOn": "2024-01-16T08:49:00.000Z",
+          "wordCount": 1173,
+          "title": "捷克新生倭河马幼崽",
+          "imageUrl": null
+        },
         {
           "id": "https://m.idai.ly/se/334Kdz",
           "author": null,
@@ -18998,6 +19258,16 @@
       "siteUrl": "http://nytimes.com",
       "articles": [
         {
+          "id": "https://cn.nytimes.com/usa/20240116/trump-wins-iowa/dual",
+          "author": null,
+          "description": "SHANE GOLDMACHER2024年1月16日前总统唐纳德·特朗普周一前往得梅因参加党内初选夜派对之前，造访了一个党团会场。 Doug Mills/The New York Times\nDonald J. Trump won the Iowa caucuses in a landslide on Monday, a crucial first step in his bid to claim the Republican nomination in a third consecutive election as voters looked past his mounting legal jeopardy and embraced his vision of vengeful disruption.\n特朗普周一在艾奥瓦州党内初选中赢得压倒性胜利，这是他连续第三次争取共和党提名的关键第一步。为他投票的选民们无视了他正越陷越深的法律困境，接受了他发起复仇式破坏的愿景。\nMr. Trump’s record-breaking triumph, called by The Associated Press on Monday night only 31 minutes after the caucuses had begun, gave the former president an important win in a state that had rejected him eight years ago.\n在党内初选开始后仅31分钟，美联社就宣布了特朗普的创纪录胜利，在这个八年前曾在党内初选中拒绝他的州，这是前总统特朗普一次重要的胜利。\nBut on a bitter cold night, Gov. Ron DeSantis of Florida finished in …",
+          "link": "https://cn.nytimes.com/usa/20240116/trump-wins-iowa/dual",
+          "publishedOn": "2024-01-16T09:36:02.000Z",
+          "wordCount": 1531,
+          "title": "特朗普在艾奥瓦州党内初选中赢得压倒性胜利",
+          "imageUrl": "https://static01.nyt.com/images/2024/01/15/us/politics/15pol-trump-wins-update/15pol-trump-wins-update-articleLarge.jpg"
+        },
+        {
           "id": "https://cn.nytimes.com/business/20240116/china-electric-cars-chips-solar/dual",
           "author": null,
           "description": "ANA SWANSON, JIM TANKERSLEY2024年1月16日俄亥俄州佩里斯堡的一家太阳能电池板工厂。拜登政府的一些官员担心，中国进口产品的涌入可能威胁美国工厂的生存。 Daniel Lozada for The New York Times\nThe Biden administration has begun pumping more than $2 trillion into U.S. factories and infrastructure, investing huge sums to try to strengthen American industry and fight climate change.\n拜登政府已开始向美国工厂和基础设施投入逾2万亿美元的巨资，旨在加强美国工业和应对气候变化。\nBut the effort is facing a familiar threat: a surge of low-priced products from China. That is drawing the attention of President Biden and his aides, who are considering new protectionist measures to make sure American industry can compete against Beijing.\n但该努力正面临一个熟悉的威胁：来自中国的低价产品激增。这引起了拜登总统及其助手的注意，他们正在考虑采取新的保护主义措施，以确保美国工业能够与北京竞争。\nAs U.S. factories spin up to produce electric vehicles, semiconductors and solar panels, China is floo…",
@@ -19856,26 +20126,6 @@
           "wordCount": null,
           "title": "美国汉学家谷梅逝世，研究中国异议政治",
           "imageUrl": null
-        },
-        {
-          "id": "https://cn.nytimes.com/usa/20231218/florida-law-chills-chinese-student-recruitment/dual",
-          "author": null,
-          "description": "AMY QIN2023年12月18日位于佛罗里达州盖恩斯维尔的佛罗里达大学。 Todd Anderson for The New York Times\nThe panic among faculty at the University of Florida began this month once word started to spread: Do not make offers yet to graduate students from seven “countries of concern.”\n本月，恐慌开始在佛罗里达大学教职员工中蔓延，校园里传播着关于暂时不要向七个“受关注国家”的研究生发出录取通知的消息。\nAmong the seven was China, the largest source of international students at Florida, a major research university, particularly in the fields of science, technology, engineering and mathematics.\n在这七个国家中，中国是佛罗里达大学最大的留学生来源国，该校是一所重要研究型大学，尤其是在科学、技术、工程和数学领域。\nThe guidance stemmed from a new law that Gov. Ron DeSantis of Florida, a Republican, and state lawmakers said was designed to prevent the Chinese Communist Party from having influence at the state’s public institutions.\n该指导原则源于佛罗里达州共和党…",
-          "link": "https://cn.nytimes.com/usa/20231218/florida-law-chills-chinese-student-recruitment/dual",
-          "publishedOn": "2023-12-18T04:06:02.000Z",
-          "wordCount": null,
-          "title": "中国留学生“禁令”？佛州新法律引发困惑与争议",
-          "imageUrl": null
-        },
-        {
-          "id": "https://cn.nytimes.com/asia-pacific/20231218/us-military-jungle-training/dual",
-          "author": null,
-          "description": "DAMIEN CAVE, MARK ABRAMSON2023年12月18日瓦胡岛上美国陆军丛林训练学校的士兵。 \nOne by one, the American soldiers slid down a muddy hillside to a river deep in the Hawaiian jungle. With guns on top of rucksacks, they kicked their way across, wobbling in the current, trying to stay quiet.\n这些美国士兵们逐个从一个泥泞的山坡滑下来，踏入夏威夷丛林深处的一条河里。他们朝着对岸摇摇晃晃地破流而行，枪放在背包上，试图不发出任何声响。\nIt was a sluggish advance stinking of sweat and silt — reminiscent of Vietnam, and similar to what they might face in a potential fight with China almost anywhere in the Pacific.\n这趟充满了汗水和淤泥臭味、速度缓慢的行进让人想起了越南，也是美军一旦在太平洋任何地方与中国发生战斗时可能面临的情况。\n“It’s incumbent on us to become resident professionals,” said Col. Christopher D. Johnson, who traversed the river arm in arm with a junior officer. “Firemen don’t figure out how to work a fire engine at the fire, right?”\n“我们必…",
-          "link": "https://cn.nytimes.com/asia-pacific/20231218/us-military-jungle-training/dual",
-          "publishedOn": "2023-12-18T02:36:03.000Z",
-          "wordCount": null,
-          "title": "应对中国威胁和台湾战争可能性，美军“重返丛林”",
-          "imageUrl": null
         }
       ]
     },
@@ -20532,26 +20782,6 @@
           "publishedOn": "2023-12-19T01:57:00.000Z",
           "wordCount": 287,
           "title": "九门走九车？旧时光里的北京城｜京华物语",
-          "imageUrl": null
-        },
-        {
-          "id": "4018e1849b5ef2bbfd541cb9becbc81a",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E7%BB%98%E6%9C%AC%EF%BC%8C%E6%AF%8F%E7%BF%BB%E4%B8%80%E9%A1%B5%E9%83%BD%E6%98%AF%E5%85%A8%E6%96%B0%E7%9A%84%E4%B8%96%E7%95%8C%EF%BC%9F%EF%BD%9C%E7%AB%A5%E4%B9%A6%E6%96%B0%E5%93%81",
-          "publishedOn": "2023-12-18T02:10:00.000Z",
-          "wordCount": 334,
-          "title": "什么样的绘本，每翻一页都是全新的世界？｜童书新品",
-          "imageUrl": null
-        },
-        {
-          "id": "1b375f9e09b06ac7a957af7c9b4cae7c",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E9%9A%90%E5%BD%A2%E7%9A%84%E7%BE%8E%E5%9B%BD%EF%BC%9A%E5%BA%95%E5%B1%82%E7%9A%84%E5%9B%B0%E5%85%BD%E4%B9%8B%E6%96%97%E4%B8%8E%E5%96%84%E8%89%AF",
-          "publishedOn": "2023-12-18T02:10:00.000Z",
-          "wordCount": 321,
-          "title": "隐形的美国：底层的困兽之斗与善良",
           "imageUrl": null
         }
       ]
