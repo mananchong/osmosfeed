@@ -6,6 +6,16 @@
       "siteUrl": "https://rweekly.org/atom.xml",
       "articles": [
         {
+          "id": "https://rweekly.org/2024-W04.html",
+          "author": null,
+          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Sam Parmar, with help from the R Weekly team members and contributors.\nHighlight\nHow to Update a Translation with Babeldown\nSix not-so-basic base R functions\n3MW (Making dashboard interactive)\nInsights\nR-universe now builds MacOS ARM64 binaries for use on Apple Silicon (aka M1/M2/M3) systems\nIntroducing saperlipopette, a package to practice Git!\n2023 Posit Year in Review\n\nReading and Writing Data with {arrow}\nrOpenSci 2023 Code of Conduct Transparency Report\nwithr 3.0.0\n\nRstats RSE January Digest\nThe new function on the block with tidyAML extract_regression_residuals()\nExploring the Enhanced Features of tidyAML’s internal_make_wflw_predictions()\nUsing .drop_na in Fast Classi…",
+          "link": "https://rweekly.org/2024-W04.html",
+          "publishedOn": "2024-01-22T00:00:00.000Z",
+          "wordCount": 6209,
+          "title": "R Weekly 2024-W04 - Babledown, Six base R functions, and Making dashboard interactive",
+          "imageUrl": "https://rweekly.org/public/facebook.png"
+        },
+        {
           "id": "https://rweekly.org/2024-W03.html",
           "author": null,
           "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Colin Fay, with help from the R Weekly team members and contributors.\nHighlight\nHow to work with APIs using the httr2 package\nFive Powerful ggplot Extensions\nCall for Speakers: ShinyConf 2024 by Appsilon\nInsights\nFinancial Assistance is Available for Your R User Group in 2024!\nCall for Speakers: ShinyConf 2024 by Appsilon\nBenchmarking the Speed of Cumulative Functions in TidyDensity\nR in the Real World\nR for Public Health Data Analysis in Karachi, Pakistan\nR in Organizations\nSecurity Headers for Shiny Applications\nNew Packages\n📦 Go Live for More New Pkgs 📦\nCRAN\nGauging Cryptocurrency Market Sentiment in R\nUpdated Packages\n🔍 Search on R-universe 🔍\n{mirai} 0.12.0: Minimalist Async Evaluation Framework for R\n{nanonext} 0.12.0: R binding for NNG (Nanomsg Next Gen), a socket library and threaded concurrency framework\ndigest 0.6.34 on CRAN: Maintanance\nBH 1.84.0-1 on CRAN: New Upstream\nRcpp 1.0.12 on CRAN: New Maintenance / Update Release\nroxygen2 7.3.0\nQ4 2023 tidymodels digest\nNew Horizons for TidyDensity: Version 1.3.0 Release\nVideos and Podcasts\nListen to the R-Weekly Highlights Podcast\nTidyX Episode 169: Predicting Hall Of Famers in 20 Minutes\nHow To Make ggplot Even Better With These Powerful Packages\nHow to work with APIs using the httr2 package\n182 - The Best CEOs Not Named Hilary\nTutorials\nFive Powerful ggplot Extensions\nOptimizing the parameters of the spatial kinetic Ising model to simulate spatial patterns\nExploring the Peaks: A Dive into the Triangular Distribution in TidyDensity\n3MW (Quarto dashboards) \nOverview of clustering methods in R\nObject-Oriented Programming in R (Part 1): An Introduction\n\n-->\n\nR Project Updates\nUpdates from R Core:\nUpcoming Events in 3 Months\nEvents in 3 Months:\nA list of R conferences and meetings\nThis week’s local R-User and applied stats events\nWeekly R Workshops for Ukraine\nJobs\n💼 Explore Jobs & Gigs Board on RStudio Community 💼",
@@ -481,16 +491,6 @@
           "wordCount": 149,
           "title": "马亮评《美国式贫困》｜美国式贫困的根源与出路",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_25764736",
-          "author": null,
-          "description": "楼巍（章静绘）\n\n维特根斯坦这位二十世纪最重要的哲学家，是每一个哲学研究者都绕不开的人物。而普通读者也往往听过一些来自他的著作的金句，或是了解一些他作为天才的怪癖。浙江大学哲学学院教授楼巍长期从事维特根斯坦研究，著有《维特根斯坦〈哲学研究〉注解》，译有《哲学研究》《论文化与价值》《蓝皮书和棕皮书》。他最近出版了《维特根斯坦十讲》（上海文艺出版社，2023年5月版），用十堂课解读维特根斯坦的哲学思想。在接受《上海书评》的专访时，他谈到了语言在维特根斯坦哲学中的意义，以及维特根斯坦式的思考方法对我们的启迪。\n\n《维特根斯坦十讲》，楼巍著，光尘/艺文志eons·上海文艺出版社2023年5月出版，232页，68.00元\n\n\n维特根斯坦\n\n能否请您谈谈写这本书的缘起，以及维特根斯坦的现存著作是一个什么状况？\n楼巍：我做维特根斯坦，平常都是跟研究者打交道，交换观点，相互商榷，时间久了，就想跳出研究者的小圈子，给大众写一本简明通俗、框架性地介绍维特根斯坦哲学观点的书。2013年，我在厦门大学哲学系教书，给研究生讲维特根斯坦，每年大概十六次课，我挑了其中一部分，重写一遍，就有了这本《维特根斯坦十讲》。\n说到维特根斯坦的现存著作，其实在他生前只出了一本《逻辑哲学论》，英文版出版于1922年，此外就是一篇名为《一些关于逻辑形式的评论》的文章。1951年，他去世之前，任命里斯为遗嘱执行人，安斯康姆和冯·赖特为其作品保管者，这三人都是与他关系亲近的学生。冯·赖特还写过一篇很长的文章，将维特根斯坦的作品存于何处，写于何时，内容为何，讲得很清楚。维特根斯坦除《逻辑哲学论》外的其他著作，都是在他去世之后，陆续由这些学生代为编辑出版的。维特根斯坦不喜欢写结构完整的长文章，总是在笔记本上写下一段段评论，这些评论构成了他的所有手稿。在这些手稿的基础上，他曾让打字员制作过一些打字稿，在此过程中又不停地对原内容加…",
-          "link": "https://www.thepaper.cn/newsDetail_forward_25764736",
-          "publishedOn": "2023-12-24T03:02:05.000Z",
-          "wordCount": 95,
-          "title": "楼巍谈维特根斯坦的哲学思想",
-          "imageUrl": null
         }
       ]
     },
@@ -499,6 +499,206 @@
       "feedUrl": "https://feedx.net/rss/thepaper.xml",
       "siteUrl": "http://thepaper.cn",
       "articles": [
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26098377",
+          "author": null,
+          "description": "2023年12月，党中央印发修订后的《中国共产党纪律处分条例》（以下简称《条例》）。这是党的十八大以来党中央第三次修订《条例》，释放了全面从严治党越来越严、越往后执纪越严的强烈信号。《条例》将“统计造假”纳入违反党的工作纪律有关条款。日前，国家统计局有关负责人接受了记者采访，就有关情况回答了记者的提问。\n1.问：请介绍一下“统计造假”被纳入《条例》处分范畴的背景。\n答：统计是经济社会发展重要综合性基础性工作，统计数据是国家宏观调控的重要依据。党的十八大以来，以习近平同志为核心的党中央高度重视统计工作，习近平总书记多次就统计工作作出重要讲话指示批示，中央先后印发《关于深化统计管理体制改革提高统计数据真实性的意见》《统计违纪违法责任人处分处理建议办法》《防范和惩治统计造假、弄虚作假督察工作规定》《关于更加有效发挥统计监督职能作用的意见》等党内法规和规范性文件，为防治统计造假、提高统计数据质量指明了方向、提供了根本遵循。统计部门坚决贯彻落实习近平总书记重要讲话指示批示精神和党中央、国务院决策部署，通过推动各地区各部门建立健全防治统计造假责任体系，对31个省（区、市）、新疆生产建设兵团和12个国务院部门开展首轮常规统计督察以及对部分地区、部门开展统计督察“回头看”、专项统计督察、新一轮常规统计督察，在全国范围组织开展统计造假不收手不收敛问题专项纠治、统计造假专项治理行动，大力推进统计法纳入各级党校（行政学院）领导干部教育培训必修课等，统计造假态势得到有效遏制，统计数据质量不断提高，统计工作科学性权威性不断增强，统计监督职能作用更加有效发挥。但也要看到，一些地方领导干部正确政绩观树得还不牢固，个别地区党政领导干部违法干预统计工作问题仍有发生。党中央此次修改《条例》，在第十章“对违反工作纪律行为的处分”中的第一百三十九条专门就统计造假应当受到的处分作出明确规定，极大强化了防治统计造假的…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26098377",
+          "publishedOn": "2024-01-22T15:53:08.000Z",
+          "wordCount": 32,
+          "title": "“统计造假”被纳入《中国共产党纪律处分条例》处分范畴，国家统计局答问",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26098760",
+          "author": null,
+          "description": "国务院总理李强1月22日主持召开国务院常务会议，听取资本市场运行情况及工作考虑的汇报。会议强调，要进一步健全完善资本市场基础制度，更加注重投融资动态平衡，大力提升上市公司质量和投资价值，加大中长期资金入市力度，增强市场内在稳定性。要加强资本市场监管，对违法违规行为“零容忍”，打造规范透明的市场环境。要采取更加有力有效措施，着力稳市场、稳信心。要增强宏观政策取向一致性，加强政策工具创新和协调配合，巩固和增强经济回升向好态势，促进资本市场平稳健康发展。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26098760",
+          "publishedOn": "2024-01-22T14:53:05.000Z",
+          "wordCount": 32,
+          "title": "国常会：要采取更加有力有效措施着力稳市场、稳信心，促进资本市场平稳健康发展",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26101703",
+          "author": null,
+          "description": "1月22日晚间，埃夫特智能装备股份有限公司(下称“埃夫特”，688165.SH)公告披露，近日，公司下属全资孙公司Autorobot收到宝马集团关于英国斯温登工厂三款车型的前后门、挡板和尾盖焊装线改建的采购订单，订单总金额预计约1.76亿人民币（2239.51万欧元），占公司2022年度经审计营业收入的13.23%，截至本公告发出日已收到订单金额约1.42亿人民币（1814.39万欧元）。\n埃夫特称，订单条款中已经对订单金额、履行地点、履行期限等内容做出了明确约定，订单双方均有履约能力。项目收入会按照项目执行进度分年度在合同履行期间确认，预计对公司2024年至2027年度业绩有积极影响，但不会构成重大影响。（澎湃新闻记者 贺梨萍）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26101703",
+          "publishedOn": "2024-01-22T14:23:04.000Z",
+          "wordCount": 36,
+          "title": "埃夫特：承接宝马集团在英国的重大订单，订单总金额约1.76亿人民币",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26096999",
+          "author": null,
+          "description": "1月22日，外交部发言人汪文斌主持例行记者会。有记者提问，有外国媒体评论称，近一时期， 国际人才对赴港工作、生活“望而却步”，甚至出现人才“离港潮”。外交部对此有何评论？\n“你刚才提到的有关言论毫无依据，无视香港继续成为国际人才聚集高地的事实，不负责任地贬损香港自由和人权状况，是对公众和舆论的误导。”汪文斌说。\n汪文斌指出，实际情况是，当前香港对国际人才的强大吸引力有增无减。香港特区政府的统计数据显示，2022年年中至2023年年中，香港人口净流入17.4万，根本不存在所谓的“离港潮”。2023年1月至11月，特区政府各项引进人才计划共收到20多万份申请，其中超过12万份获批，8万人已抵港，远远超过每年至少引入3.5万名人才的目标。在瑞士洛桑国际管理发展学院公布的2023年世界人才报告当中，香港人才竞争力水平在亚洲地区高居第二。这些数据和事实充分说明，香港继续受到世界各国人才的重视和青睐。\n汪文斌说，当前香港进入由乱到治走向由治及兴的新阶段，香港市民安居乐业，依法享有的各项权利和自由得到切实保障，这为海内外人才在港创业兴业提供了前所未有的良好环境和难得机遇。\n汪文斌表示，我们相信香港在“一国两制”下，背靠祖国、联通世界的独特优势将进一步强化，经济社会各领域蓬勃发展的良好局面将进一步巩固，对全球人才的吸引力也将进一步提升。中国中央政府将一如既往支持香港特区，吸引国际优秀人才，不断打造新优势，欢迎世界各国各领域人才到香港创业兴业，共同分享香港发展机遇，共同开创香港的美好明天。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26096999",
+          "publishedOn": "2024-01-22T13:53:05.000Z",
+          "wordCount": 41,
+          "title": "香港出现人才“离港潮”？外交部：有关言论毫无依据",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26060473",
+          "author": null,
+          "description": "“喝‘补身汤’很正常也很常见。”韩国首尔一名50多岁的出租车司机金某（化名）称，在韩国的民间习俗中，长期以来流传着“三伏天喝补身汤”的说法，其使用的肉品为狗肉。\n然而最近，根据《参考消息》报道称，韩国国会1月9日以208票对0票通过《关于禁止以食用为目的饲养、宰杀和流通犬只的特别法》草案，这一规定禁食狗肉的草案引起了国内外舆论重视。\n该草案规定禁止以食用为目的饲养、增殖、宰杀犬只，以及流通、贩卖犬只和狗肉加工食品的行为。以食用为目的宰杀犬只将被处以三年以下有期徒刑或3000万韩元（约合2.3万美元）以下的罚款。该处罚条款将在法案颁布三年之后即2027年生效。\n韩国通过禁食狗肉的禁令之后，一方面动物权益保护界欢声一片；另一方面，韩国狗肉行业愤怒满满，声称该禁令是对个人自由的攻击，并批评法律未明确对养殖户的补偿。\n食狗肉从民俗变为禁忌，一纸法案的背后都发生了什么？\n饮食习俗与认知变化\n对于禁令草案，出租车司机金某在1月14日向澎湃新闻（www.thepaper.cn）表示，从爷爷那一辈开始就吃狗肉，他自己也吃过，并没有听说有关狗肉禁令的消息，也不认为这会带来多大的影响。他介绍说，当地几乎没有专门卖狗肉料理的店，一般只作为一道菜在餐馆中售卖。通过地图软件在首尔地区搜索“补身汤”，出现结果有20多家，其中一半的店家菜单中确有狗肉汤出售，另外十多家店菜单中写明肉食种类的多为羊肉汤和参鸡汤。其中一家菜单中含有狗肉餐品的店家在被问及狗肉禁令时表示“不想谈这个问题”后直接挂断电话。\n追溯朝鲜半岛的狗肉饮食历史，韩国一些学者认为可以追溯到朝鲜三国时代，依据来源于被列为世界遗产的黄海南道高句丽古墓群，其中一幅墓葬壁画描绘了一只被屠宰的狗。而有关狗肉饮食的文字记载可见于十九世纪中叶记录朝鲜风俗的《东国岁时记》，当中提及狗肉食品，还引用了司马迁《史记》中“初伏以狗御蛊”的内容。\n根据韩国国家农业科…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26060473",
+          "publishedOn": "2024-01-22T13:53:05.000Z",
+          "wordCount": 42,
+          "title": "特写｜韩国通过禁食狗肉法案的背后",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26100625",
+          "author": null,
+          "description": "1月22日，据微信公众号“金华发布”，日前，浙江省金华市促进房地产市场平稳健康发展工作领导小组办公室发出通知，对2024年1月1日至2024年3月31日期间在金华市区购买新建商品住宅的购房人，按合同成交金额1%给予补贴。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26100625",
+          "publishedOn": "2024-01-22T13:53:05.000Z",
+          "wordCount": 34,
+          "title": "浙江金华市区新房购房补贴延至3月底",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26100804",
+          "author": null,
+          "description": "1月22日，上海豫园旅游商城(集团)股份有限公司（600655.SH）召开第十一届董事会第二十次会议(临时会议），经董事会研究，同意选举倪强为公司第十一届董事会副董事长，任期自董事会审议通过之日起至第十一届董事会任期届满之日止。\n \n\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.run",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26100804",
+          "publishedOn": "2024-01-22T13:53:05.000Z",
+          "wordCount": 35,
+          "title": "豫园股份：选举倪强为副董事长",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26100552",
+          "author": null,
+          "description": "1月22日晚间，广东柏堡龙股份有限公司（*ST柏龙，002776.SZ）公告，公司股票已于1月19日被深圳证券交易所决定终止上市，将在1月25日被深圳证券交易所摘牌。公司股票不进入退市整理期交易；公司股票终止上市后，将进入将转入全国股转公司代为管理的退市板块挂牌转让。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26100552",
+          "publishedOn": "2024-01-22T13:23:05.000Z",
+          "wordCount": 32,
+          "title": "*ST柏龙：公司股票将在1月25日被深交所摘牌",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26100594",
+          "author": null,
+          "description": "据天眼新闻，1月22日举行贵州省2023年经济运行情况新闻发布会透露，根据地区生产总值统一核算结果，2023年贵州地区生产总值20913.25亿元，按不变价格计算，比上年增长4.9%，增速比一季度、上半年、前三季度分别加快2.4个、0.5个和0.1个百分点。\n其中，第一产业增加值2894.28亿元，增长3.9%；第二产业增加值7311.44亿元，增长4.4%；第三产业增加值10707.53亿元，增长5.5%。（澎湃新闻记者 滕晗）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26100594",
+          "publishedOn": "2024-01-22T13:23:05.000Z",
+          "wordCount": 36,
+          "title": "贵州2023年GDP为20913.25亿元，同比增长4.9%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26098328",
+          "author": null,
+          "description": "@人民日报 1月22日消息，多部门联合开展为期六个月的校园食品安全排查整治专项行动，排查整治期（截至6月）各地分别开通举报邮箱和电话，鼓励广大师生和家长开展社会监督。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26098328",
+          "publishedOn": "2024-01-22T13:23:05.000Z",
+          "wordCount": 38,
+          "title": "多部门开展为期六个月校园食品安全排查整治，鼓励社会监督",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26097238",
+          "author": null,
+          "description": "近日，河南信阳淮滨县的刘女士连发多条视频称，儿子办结婚酒，37岁的自己当上“喜婆婆”了，引发关注和热议。\n刘女士发布的相关视频显示，现场正在办喜酒，多处贴满“喜”字，还有人搭台演出，她也穿上了喜庆的红色服装。刘女士还在视频下方回复称，儿子是自己亲生，自己19岁生子，儿子18岁结婚。上游新闻记者注意到，刘女士还晒出了儿子的婚礼邀请函，以及儿子儿媳拍摄的婚纱照。\n\n刘女士（左起第二）和丈夫在儿子婚礼上。视频截图\n\n1月22日，上游新闻记者联系上刘女士。她表示，自己的确是37岁，有两个孩子，办喜酒的是大儿子。对于网友们质疑的“儿子儿媳是否已登记领证”，她只表示：“儿媳比儿子大，儿媳已经到了可以办结婚证的年龄了。”\n随后，上游新闻记者联系上刘女士丈夫的弟弟黄先生。他证实，嫂子说的是真的。前些天，哥哥家为侄子侄媳妇办了结婚酒，“嫂子37岁，哥哥今年也是37岁。”他还透露，自己31岁，孩子才11岁，哥嫂结婚很早，他们是19岁时结的婚。对于哥嫂37岁当公婆一事，他表示，不同的地方有不同的习俗，不办证也可以办结婚酒。\n根据刘女士视频相关信息，上游新闻记者联系上她所在村的村委会。村委会相关负责人表示，前些天，刘女士家确实有办婚礼酒席。据查询了解，刘女士的丈夫出生于1987年，今年37岁；大儿子出生于2005年，确实未达到法定结婚登记年龄。在当地，未领证先办酒席的家庭也有，这属于双方自愿，村委会不会阻止。\n对此，淮滨县固城乡政府工作人员向上游新闻记者表示，这（未办证就办酒席）在当地农村较为常见。如果年轻人没有上大学深造，的确会在双方确定婚约后办酒席，等到了法定结婚年龄之后，再去登记领证。\n《民法典》规定，结婚年龄，男不得早于22周岁，女不得早于20周岁。对此，信阳市淮滨县民政局婚姻登记处工作人员表示，不到法定结婚年龄，肯定不能办理登记领取结婚证。刘女士在网络上所发的相关视频，他们也看到了。不过，法律并未规定成年人不允许举行婚礼，他们也没法干涉。两个成年人选择在一起，也是他们的自由。民政局工作人员只能进行提醒和政策宣传。\n原标题：《河南一女子37岁当婆婆？多方回应》\n\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.run",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26097238",
+          "publishedOn": "2024-01-22T12:53:04.000Z",
+          "wordCount": 37,
+          "title": "女子称儿子18岁结婚自己37岁当婆婆，河南淮滨县民政局回应",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26100174",
+          "author": null,
+          "description": "1月22日晚间，协创数据技术股份有限公司（协创数据，300857.SZ)发布业绩预告，预计2023年归属于上市公司股东的净利润为2.75亿元—3.1亿元，同比增长110.07%—136.81%。报告期内，公司聚焦“云—边—端”一体的智慧存储与智慧物联主要产品线，持续推出具备竞争力的产品并升级商业模式提供云平台服务；持续提升研发投入，增强创新能力和核心技术实力；持续优化供应链管理，推动原材料成本下降；持续加强智能制造与无人工厂建设，推动制造成本下降。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26100174",
+          "publishedOn": "2024-01-22T12:53:04.000Z",
+          "wordCount": 32,
+          "title": "协创数据：预计2023年净利润2.75亿元-3.1亿元，同比增长110%-137%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26100197",
+          "author": null,
+          "description": "1月22日，财政部、应急管理部紧急预拨5000万元中央自然灾害救灾资金，支持云南省做好昭通市镇雄县山体滑坡救灾，统筹用于抢险救援和受灾群众救助工作，重点做好人员搜救、转移安置、排危除险等应急处置，以及次生灾害隐患排查和倒损民房修复等工作。（央视新闻）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26100197",
+          "publishedOn": "2024-01-22T12:53:04.000Z",
+          "wordCount": 32,
+          "title": "财政部、应急管理部紧急预拨5000万元中央自然灾害救灾资金，支持云南省做好地质灾害救灾工作",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26099726",
+          "author": null,
+          "description": "1月22日晚间，创业黑马科技集团股份有限公司（创业黑马，300688.SZ）公告，全资子公司黑马天启与算能签署《战略合作框架协议》，双方拟建立紧密务实的战略合作关系，实现优势互补。双方同意在既有合作基础上，基于大模型等数字技术方面开展全面合作。\n\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.run",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26099726",
+          "publishedOn": "2024-01-22T12:23:06.000Z",
+          "wordCount": 32,
+          "title": "创业黑马：全资子公司黑马天启签订战略合作框架协议",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26099806",
+          "author": null,
+          "description": "1月22日晚间，上海美特斯邦威服饰股份有限公司（美邦服饰，002269.SZ）公告，该公司于1月22日召开第六届董事会第九次会议，同意选举周成建为该公司第六届董事会董事长，并同意聘任周成建为公司总裁，任期自本次董事会审议通过之日起至第六届董事会届满之日止。会议同意补选周成建为公司第六届董事会提名委员会委员、薪酬与考核委员会委员及战略委员会主任委员职务。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26099806",
+          "publishedOn": "2024-01-22T12:23:06.000Z",
+          "wordCount": 32,
+          "title": "美邦服饰：选举周成建为公司第六届董事会董事长，并聘任其为公司总裁",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26095517",
+          "author": null,
+          "description": "1月22日，深圳市足球俱乐部发布声明：\n根据中国足球协会公布的债务清欠俱乐部名单，深圳市足球俱乐部未能通过2024赛季职业联赛准入，无法继续征战中国足球职业联赛。\n深足俱乐部自成立以来，得到了深圳市委、市政府和市、区相关部门的指导与支持，得到了历届投资人、广大球迷、合作伙伴、媒体记者等社会各界人士的关注与帮助，在此向大家致以衷心的感谢。\n过去几年，深足多名队员入选各级国字号队伍，精彩的比赛给球迷朋友们留下了美好回忆，但严重的历史债务导致我们难以为继，联赛征程不得不划上句号。\n纵有万般不舍，终需挥手告别。我们将全力开展各项善后工作，衷心祝愿深圳足球、中国足球越来越好，希望更多有识之士能齐心协力为振兴深圳足球、中国足球做贡献。\n特此声明！\n\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.run",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26095517",
+          "publishedOn": "2024-01-22T11:53:04.000Z",
+          "wordCount": 33,
+          "title": "深圳市足球俱乐部宣布解散",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26098453",
+          "author": null,
+          "description": "据“广阳区人民法院”公号消息，河北廊坊市广阳区人民法院代院长在区人大会议上表示，对“唐山烧烤店打人案”保护伞、唐山市公安局原党委委员、路北分局原局长马爱军，以徇私枉法罪、受贿罪决定执行有期徒刑12年，并处罚金人民币70万元。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26098453",
+          "publishedOn": "2024-01-22T11:53:04.000Z",
+          "wordCount": 32,
+          "title": "“唐山烧烤店打人案”保护伞、唐山市公安局路北分局原局长马爱军获刑12年",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26098802",
+          "author": null,
+          "description": "2023年12月，党中央印发修订后的《中国共产党纪律处分条例》（以下简称《条例》）。这是党的十八大以来党中央第三次修订《条例》，释放了全面从严治党越来越严、越往后执纪越严的强烈信号。《条例》将“统计造假”纳入违反党的工作纪律有关条款。日前，国家统计局有关负责人接受了记者采访，就有关情况回答了记者的提问。\n统计造假是统计领域最大的腐败，严重违反统计法，严重影响统计数据质量，干扰甚至误导宏观决策，违背党的实事求是思想路线和求真务实工作作风，损害党和政府公信力。“统计造假”被纳入《条例》处分范畴，对直接责任者和领导责任者将依据情节严重程度给予警告直至开除党籍的处分，这对于防治统计造假、提高统计数据质量、端正党风政风、促进统计事业高质量发展都具有重大而深远的意义。（国家统计局）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26098802",
+          "publishedOn": "2024-01-22T11:53:04.000Z",
+          "wordCount": 32,
+          "title": "国家统计局：统计造假是统计领域最大的腐败，干扰甚至误导宏观决策",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26098805",
+          "author": null,
+          "description": "今日有市场消息称，贝莱德正在寻求以30%的折扣出售上海写字楼。对此，贝莱德回应记者称：不对单个投资项目发表评论，日前媒体报道的事项与贝莱德基金和贝莱德建信理财无关，对其运营没有任何影响。“我们将继续致力于在中国的长期发展战略，以满足国内投资者的投资需求，帮助他们实现财务目标。”贝莱德表示。据记者了解，传闻中被寻求出售的上海写字楼项目，是贝莱德海外地产投资团队所管理的一只私募投资基金的项目，与贝莱德在国内业务并无关系。（证券时报券中社）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26098805",
+          "publishedOn": "2024-01-22T11:53:04.000Z",
+          "wordCount": 32,
+          "title": "打七折出售上海写字楼？贝莱德回应：与贝莱德基金、贝莱德建信理财无关",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26098745",
+          "author": null,
+          "description": "国务院总理李强1月22日主持召开国务院常务会议，研究部署推动人工智能赋能新型工业化有关工作。（央视新闻联播）\n\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.run",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26098745",
+          "publishedOn": "2024-01-22T11:23:05.000Z",
+          "wordCount": 32,
+          "title": "国常会：研究部署推动人工智能赋能新型工业化有关工作",
+          "imageUrl": null
+        },
         {
           "id": "https://www.thepaper.cn/newsDetail_forward_26097168",
           "author": null,
@@ -11968,136 +12168,6 @@
           "wordCount": 27,
           "title": "部分私募旗下产品的净值巨幅回调",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_25765781",
-          "author": null,
-          "description": "为杜绝抄袭，安徽媒体《淮南日报》下重手。\n澎湃新闻记者注意到，今年12月21日，《淮南日报》“五彩地”副刊刊发了一篇题为《人间五谷》的文章，署名为“杜学峰”。\n随后，有网友在互联网平台发文指出，《淮南日报》发表的这篇《人间五谷》，全文抄袭了广东媒体《潮州日报》副刊“百花台”此前发布的文章。《潮州日报》那篇《人间五谷》的作者是“张光恒”。\n对此，微信公众号“读一首好诗”发布了一条《报刊圈已经烂成一坨屎了吗——〈淮南日报〉发表的文章抄袭〈潮州日报〉……》的推文，批评抄袭乱象。\n12月22日下午，《淮南日报》在官方微信公众号刊发《严正声明》：2023年12月22日，微信公众号“读一首好诗”发布了一条《报刊圈已经烂成一坨屎了吗——〈淮南日报〉发表的文章抄袭〈潮州日报〉……》的推文，此文受到了广大网友和粉丝的关注。\n《声明》表示，首先，网民对淮南日报的关心和爱护，我们深表感谢！我们在编辑审核过程中把关不严，刊发了《人间五谷》文稿。此稿系杜学峰通过副刊邮箱自行投稿，我们在约稿启事中特别声明要求所有投稿者须保证所投稿件为原创且享有全部合法权利，若侵犯他人合法权益，则由投稿者承担法律责任。\n随后，《淮南日报》在《声明》中公布了投稿人杜学峰包括通联地址、银行卡号、开户行等信息如下：\n\n《淮南日报》微信公众号《声明》截图\n\n《淮南日报》在《声明》中表示，我们建议原作者可以通过法律途径解决同抄袭者的版权纠纷。同时，为避免此类事件再次发生，我们采取如下措施：1、对“杜学峰”拉黑并永久封杀此人稿件；2、今后不再刊发隐形作者作品，投稿必须实名认证，提供手机号、身份证复印件和原创声明。\n《淮南日报》还在《声明》中公布了“五彩地”副刊约稿启事。这份约稿启事特别声明了两条：\n1.投稿者须写明作者真实姓名、通联地址及银行账号等信息，以便奉寄稿酬。\n2.投稿者须保证所投稿件为原创且享有全部合法权利，若侵犯他人合法权益，如知识产权、名誉权、隐私权、肖像权等，则由投稿者承担法律责任。\n澎湃新闻记者注意到，在《淮南日报》12月21日“五彩地”副刊电子版上，《人间五谷》一文的作者已经由杜学峰改为了原作者张光恒。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_25765781",
-          "publishedOn": "2023-12-24T03:53:07.000Z",
-          "wordCount": 35,
-          "title": "安徽《淮南日报》为杜绝抄袭下重手：公布抄袭者住址和银行卡号",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_25768741",
-          "author": null,
-          "description": "中国国奥在最后时刻球门失守。\n\n在2023年的结尾，正在备战U23亚洲杯的中国男足国奥队似乎依然表现得有些挣扎。\n12月23日下午，中国男足国奥队在上海金山体育中心足球场与马来西亚国奥进行热身赛。在大部分时间占据主动的情况下，国奥队最后时刻防守出现松懈，被对手打入全场唯一进球，最终以0比1输给对手。\n值得一提的是，这是中国国奥队史上首次输给马来西亚国奥队。此前两队曾交手过6次，中国队的战绩为4胜2平。\n根据赛后数据统计，此役中国国奥队在场面上占据着一定的优势，全场共有14脚射门，其中8次打在门框范围之内，相比之下，马来西亚国奥队的这两项数据分别为10次和6次。\n\n中国国奥队最后时刻在防守端出现了失误。\n\n比赛上半场，中国国奥队打出了几次有效进攻，但除了胡荷韬在第13分钟的后点捅射之外，其余机会都没能真正威胁到对方球门。易边之后，国奥队换上了陶强龙，随后他险些帮助球队打破僵局。第49分钟，陶强龙主罚的前场直接任意球击中门框弹出，这也是国奥队本场比赛的最佳得分机会。然而，伤停补时最后时刻，马来西亚获得角球机会，国奥队防线出现严重漏人失误，被对方球员绝杀得手。\n这是国奥队11月以来参加的第三场国际热身赛，在11月的两场比赛中，国奥队与塔吉克斯坦国奥队连续交手，取得1平1负。彼时，中国国奥队教练组表示，由于队内的绝大部分球员在近半年内都没能获得足够多的高质量比赛机会，因此身体状态比较糟糕。\n\n国奥队在比赛中难以抓住破门机会。\n\n到了11月30日，国奥队再次集结。12月6日，国奥队在阵容不整的情况下再次与浙江队交手，并以1比0小胜对手，状态有所提升。而本月23日和26日与马来西亚国奥的两场热身赛，则被国奥队视作检验今年最后一期集训效果的小考。\n但从这场比赛的过程和结果来看，这支中国国奥队的状况依旧挣扎。不过，这支中国国奥队还有相对充足的时间进行调整，毕竟距离卡塔尔U23亚洲杯开赛还有将近四个月。\n根据报道，中国国奥队教练组已经制定好了接下来这几个月的备战计划，力求在大赛开始前帮助球队找回最佳状态。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_25768741",
-          "publishedOn": "2023-12-24T03:53:07.000Z",
-          "wordCount": 42,
-          "title": "0比1遭马来西亚国奥绝杀，中国国奥何时走出低迷状态？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_25768802",
-          "author": null,
-          "description": "12月24日，在2023中国可持续投资发展论坛上，富兰克林邓普顿全球执行副总裁兼亚太区主席孟宇表示，向低碳经济转型需要大量资金，仅靠慈善捐款和公共政策无法填补这一差距，因此必须有效挖掘资本市场的巨大潜力。\n如何让金融市场更有效的推动可持续发展？孟宇建议，强制披露可用于投资的ESG数据，以便金融市场开发所需的工具和分析方法；取消化石燃料补贴，创造公平竞争环境；通过碳定价激励金融市场，让证券价格反映“外部性”的真实成本，“有了标准化的信披以及激励机制，金融市场就会做它最擅长的事情，即分配资本。”\n“通过向金融市场提供所需的信息使其能够开发必要的分析工具，并为环境和社会外部性的正确定价提供适当的激励，我们不仅可以避免洗绿，还能使金融市场在应对气候变化方面发挥关键作用。”孟宇说。（澎湃新闻记者 孙铭蔚）",
-          "link": "https://www.thepaper.cn/newsDetail_forward_25768802",
-          "publishedOn": "2023-12-24T03:23:05.000Z",
-          "wordCount": 29,
-          "title": "富兰克林邓普顿孟宇：向低碳经济转型必须挖掘资本市场的潜力",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_25772154",
-          "author": null,
-          "description": "沪指本周一度跌破2900点，悲观情绪蔓延，投资者应何去何从？\n沪指自2007年2月首次攀上3000点后，16年间数次发生的“3000点保卫战”让投资者感到沮丧。美股也曾经历过长达25年的熊市，道琼斯指数1929年崩盘，直到1954年才创出新高。“股神级”经济学家凯恩斯自1932年转向美国市场，到1945年的13年时间里，取得了18倍的净值增长。\n凯恩斯的业绩正是在史上最漫长的熊市中取得的。他在20世纪30年代购买了大量的公用事业公司股票，它们形成了很好的投资缓冲和收益流。即使在大萧条期间，许多美国公用事业公司仍然支付高达7%的稳定股息。\n如何应对当前的股市？凯恩斯就是个例子。在恐慌蔓延的熊市中，凯恩斯坚持长期持有低价好公司，当别人惊慌失措时，能保持自律才能做出有利于自己的决定。\n统计数据显示，截至12月20日，500只个股的股息率超过3%，合计市值高达25万亿元，约占到A股总市值的三分之一；更有200只个股的股息率超过5%，合计市值占比为两成。这些高股息、低估值、持续分红的公司构成了A股的基石。\n凯恩斯的案例\n凯恩斯在整个20世纪30年代和二战期间，都坚持持有自己精心挑选的股票——几乎代表着经济的每一个重要组成部分。如果他在危机时刻卖出这些股票，取得的回报一定很差。在看似最糟糕的时期有两次鲜为人知的价格回升，构成了凯恩斯总收益中最大的一部分。\n巴菲特和格雷厄姆等价值投资者接受的理念是购买商业模式相当简单的公司，而凯恩斯很早之前就采用了这一思路，持有铁路、公用事业、航运和大宗商品等基础公司股票，在整个20世纪30年代，尽管大萧条十分棘手，但凯恩斯一直购买美国股票。他在发现低价时，便借钱加仓。\n1932年～1937年，很少有人意识到这一时期是继1921年～1929年繁荣之后，20世纪第二大价格回升期。20世纪30年代期间单美股涨280%。凯恩斯在整个30年代均未退出市场，但他在…",
-          "link": "https://www.thepaper.cn/newsDetail_forward_25772154",
-          "publishedOn": "2023-12-24T02:53:06.000Z",
-          "wordCount": 34,
-          "title": "2900点关口，投资者何去何从？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_25536875",
-          "author": null,
-          "description": "编剧秦秦这样形容短剧行业的火热：大家一窝蜂地扑上去。\n电视剧编剧出身的秦秦从2021年下半年转型接触短剧，秦秦称，初衷只是为了温饱。因疫情影响影视行业“缩水”，长剧项目大幅减少，恰逢几部爆款短剧推动短剧行业升温，出于收入考虑，秦秦进入短剧赛道开始写“爱优腾”（爱奇艺、优酷、腾讯）平台类短剧剧本。\n“大家一窝蜂地扑上去，就像当时网络大电影兴起时一样。有的觉得短剧能赚钱，有的只是为了让自己有点钱赚，当时很多制片人有短剧项目，不少一线编剧也开始降价接戏（短剧剧本）。”秦秦这样告诉澎湃新闻记者。\n电影、电视剧制片人夏寅清，今年年中转型做短剧不久，背后的原因与影视行业的不景气也脱不了干系。\n“我也不能算转行，只是现在拍电影、电视剧的活儿少，大家都利用空闲时间，投入闲钱尝试拍短剧。”夏寅清告诉澎湃新闻记者，“之前认识的一些著名的导演、摄影师，都下海做这个了。”\n谈及当前短剧热潮，不少业内人士笑称，这个行业，有人主动进来，有人被迫进来，有人被推着进来。后来，有人看到了希望赚到了点钱，有人则想逃出“围城”。\n\n编剧：短剧收入少但稳定，制片人：刚尝试希望不赔\n“长剧转行到短剧并不容易”，不少开始接触短剧赛道的编剧感叹道。而转行前看到的短剧热潮，很可能只是“海市蜃楼”。\n据澎湃新闻记者了解，目前国内的短剧市场主要分为三大类，第一种是横屏观看的“爱优腾”精品短剧，在腾讯、爱奇艺、优酷等长视频平台上播放，时长一般达到10至20分钟一集。第二种是在快手、抖音等短视频平台兴起的竖屏“抖快短剧”，一集时长在几分钟左右。还有一类则是外界更为熟知的小程序短剧，用竖屏观看，短剧质量相对参差不齐且成本往往较低。\n从去年底切入短剧赛道后，远不及长剧项目的平均营收水平，成了众多编剧和制片人心中萦绕不去的烦恼，但同时，对新入局者而言，也多了一个赚“快钱”的机会。\n编剧秦秦介绍，其经手的平台短剧剧本，“爱优腾”平台的1…",
-          "link": "https://www.thepaper.cn/newsDetail_forward_25536875",
-          "publishedOn": "2023-12-24T02:53:06.000Z",
-          "wordCount": 48,
-          "title": "编剧们的短剧围城：靠“意识流擦边”收入稳定，迫不得已讨生活不愿署真名",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_25772126",
-          "author": null,
-          "description": "2023年1月22日，在西班牙马德里，当地民众观看庆新春彩妆游行。 当日，西班牙马德里华人街区乌塞拉举行彩妆游行，庆祝中国农历新年的到来。新华社 资料图\n\n12月22日，第七十八届联合国大会协商一致通过决议，将春节（农历新年）确定为联合国假日。从喜气洋洋的中国传统民俗节日，到其乐融融的联合国假日，传承赓续数千年历史底蕴的文明瑰宝，焕发更加夺目的时代光彩；许多国家和地区把春节作为法定节假日，全球约1/5人口以不同形式庆祝的春节，迎来更为广阔的世界舞台。\n习近平总书记强调：“春节是辞旧迎新的美好时刻，总会给人们带来新的憧憬。”春节是传承不息的文化纽带，春节文化蕴含着中国人民日用而不觉的共同价值理念，寄托着对家庭和睦的向往、对美好生活的期盼。无论是贴春联、吃年夜饭、拜年、舞狮、逛庙会等传统方式，还是城市周边短途游、非遗大集买年货、体育健身迎新春、文博场馆过大年的崭新尝试，浓郁的年味儿里总少不了沁人心脾的文化味儿。正是在中华优秀传统文化的创造性转化、创新性发展中，新春佳节守正创新、与时俱进，在传统底色上描绘现代色彩，在传统语境下进行现代表达，承载着情感寄托、精神标识，浓缩着文化张力、时代活力。\n人类文明多样性是世界的基本特征，也是人类进步的源泉。春节正式成为联合国假日，赋予传统佳节以更深意蕴、更多意义。今天，中华文化的影响力传播力日益提升，始终践行以文明交流超越文明隔阂、文明互鉴超越文明冲突、文明包容超越文明优越的价值观念。春节正在不断走向世界，世界也在热情拥抱春节。让我们携起手来，共同庆祝这个寓意美好的节日，一起迎接更加美好的明天。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_25772126",
-          "publishedOn": "2023-12-24T01:53:05.000Z",
-          "wordCount": 39,
-          "title": "人民日报：春节走向世界，世界拥抱春节",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_25765935",
-          "author": null,
-          "description": "12月的淄博，气温已降至零下，城市街道两旁的花坛中，未化的积雪压着枯黄的树叶，零星几片仍挂在树干上，也被冷风吹得摇摇欲坠。\n午饭时间，一些室内烧烤店里零星坐着几桌客人。路边的露天烧烤摊暂停营业，烧烤器材和桌椅被收到室内，只有落了积雪的户外帐篷，向路人展示着这里夏天火热的场景。\n在社交网络上，“降温后淄博烧烤行业现状”“淄博烧烤怎么样了”的话题，也开始频繁被讨论。\n流量的热潮淡去，这座城市的故事还在继续。\n\n12月16日，张店区暂停营业的露天烧烤摊。\n\n【1】寒冬\n在淄博，出租车司机对于流量的退潮有着清晰的感知。\n在出租车司机张臣（化名）的记忆中，5月到8月接单软件订单爆满，人群涌向八大局、牧羊村、水晶街等地。那段时间，他几乎每天要在车里待上15个小时，最多时一个月赚了2万块。\n转折发生在9月。暑期结束后游客渐渐减少，国庆迎来了一个短暂的高峰，节后张臣很少再接到外地游客的叫车订单。10月中旬，路边曾爆满的露天烧烤摊陆续收摊。11月张臣只拿到了六千多元的报酬。\n冬季一向是烧烤淡季，淄博天气冷，户外烧烤摊生意惨淡。以往大多烧烤店老板会转向火锅生意，或歇业等来年再开。\n在八大局便民市场——这个曾经因淄博烧烤走红的地标性市场，改变也在悄然发生。\n\n12月14日下午，八大局便民市场门口。\n\n在百度地图发布的《2023年五一假期排队大数据》中，“八大局”超越长城和迪士尼，名列榜首。\n这里原本是当地人常去的农贸市场，如今那些标着“网红店铺”“名人打卡”“特色美食”的铺面已暂停营业，人流均匀地分布在蔬菜豆腐、卤肉副食的店铺前。这个城市的便民市场，似乎又回到原本的样子。\n今年是王霞（化名）在八大局卖饼的第十三年。她的店面不大，只能放下两张桌子，一张面向客人，摆放着各种口味的紫米饼，另一张放着真空机、电子秤和一台微波炉。没客人时，王霞就在门面后的小屋取暖。\n长久以来，王霞的小店里售卖千层饼和紫米…",
-          "link": "https://www.thepaper.cn/newsDetail_forward_25765935",
-          "publishedOn": "2023-12-24T00:53:05.000Z",
-          "wordCount": 44,
-          "title": "淄博烧烤流量退潮，当地有店家称月营业额降了四分之三",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_25765686",
-          "author": null,
-          "description": "12月23日，2024年全国硕士研究生招生考试（初试）正式拉开大幕。 @人民网 图\n\n12月23日，2024年全国硕士研究生招生考试拉开帷幕，上午8:30-11:30举行的考试科目为思想政治理论/管理类综合能力。随着上午考试的结束，“考研政治简单”的话题迅速登上微博热搜榜单第二名。\n微博上不少网友表示“政治好简单啊”“感觉比做过的每一套模拟题都简单很多”，还有网友表示“提前半小时交卷”“我提前一小时写完了真爽”。\n不过，也有部分网友表示，“谁说考研政治简单的，选择题我是一半都不会”“没人觉得政治选择题很难么”“多选题很多不确定”。\n此外，也有网友提醒，“先别笑，很难没有区分度，很简单也没有区分度，等出来总分个个四百就笑不出来了。”“题简单大家都简单，题难大家都难，题简单还不是难，不是决定你能不能考上的关键。”\n对于“考研政治简单”的话题，网红考研名师张雪峰也发微博表示，“简单不代表你写的都对，考研毕竟是选拔考试，你简单大家都简单，不一定是好事，好好复习好好考后面几科，决定胜负的就是后面啦！”\n2024年全国硕士研究生招生考试时间为12月23日至25日。具体考试安排为：12月23日08:30-11:30，考思想政治理论/管理类综合能力；14:00-17:00，考外国语。12月24日08:30-11:30，考业务课一；14:00-17:00，考业务课二。12月25日08:30-17:00，考超过三小时或有特殊要求的科目。\n2024年全国硕士研究生招生考试报名人数为438万，是考研报名人数连增8年后首次下降，比上一年全国硕士研究生招生考试报名人数减少了36万。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_25765686",
-          "publishedOn": "2023-12-24T00:53:05.000Z",
-          "wordCount": 41,
-          "title": "2024年研考首日上午考试结束，“考研政治简单”登上热搜",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_25772178",
-          "author": null,
-          "description": "据伊朗塔斯尼姆通讯社当地时间23日报道，伊朗伊斯兰革命卫队一名指挥官当天表示，如果美国及其盟友在加沙地带继续犯下罪行，可能会促使新的抵抗力量出现。他称，“地中海、直布罗陀海峡和其他水道”可能会被关闭。（央视新闻）",
-          "link": "https://www.thepaper.cn/newsDetail_forward_25772178",
-          "publishedOn": "2023-12-24T00:53:05.000Z",
-          "wordCount": 27,
-          "title": "伊朗方面警告称“地中海、直布罗陀海峡和其他水道”可能会被关闭",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_25772144",
-          "author": null,
-          "description": "图说：资料图 市民在500多米的高空迎接新年第一缕阳光周馨 摄（下同）\n\n一元复始，万象更新。12月23日，记者从上海市文旅局获悉，2024年元旦假日，上海文旅以“乐游上海迎新年”为主题，策划推出登新高、观日出、迎新跑、撞晚钟、寻龙记、看彩灯六大板块，涵盖了22项重点迎新主题活动，更好地为中华优秀传统文化内涵赋予现代表达，满足市民游客的假日文旅消费需求。\n挑战登新高，奋发向上展时代风采\n元旦假日，“乐游上海•登新高”系列活动展示了上海的蓬勃和朝气，以登高祈福的方式承载市民游客对新年幸福美好生活的愿景。\n2024年1月1日上午，上海市民东方明珠元旦登高健康跑活动将如期而至，展现辞旧迎新、奋发向上的良好精神面貌。这项活动已成为上海迎接新年最具影响力的全民健康运动赛事品牌。\n一年一度的上海佘山元旦登高活动也将亮相佘山国家森林公园东佘山园，以“新时代、新使命、新征程”为主题，持续释放“佘山登高步步高”活动的品牌效应。\n第一缕阳光，向城市致以新年问候\n伴随着2024年的第一缕阳光，“乐游上海•观日出”系列活动以城市礼赞来开启新一年的新征程。\n元旦当天，临港滴水湖、上海中心观光厅、金山上海湾区等区域都将推出迎接新年第一缕阳光系列迎新活动，开启充满希望的新一年。其中，“日出上海 金山如画——迎接2024新年第一缕阳光”活动将成为上海湾区“金”彩无限金山元旦迎新活动的一部分。2024年1月1日清晨的金山城市沙滩车客渡码头，市民游客除了观日出之外，还能观赏到海面渔船烟花表演、激光秀、小白龙舞龙、钢琴演奏、歌曲演唱等演出。该活动同步进行线上直播。\n运动“加速度”，整装待发跑进2024年\n上海是一座永不停止前行的城市。这个新年，“乐游上海•迎新跑”系列活动将持续点燃市民游客的运动激情。\n元旦当天，临港滴水湖、上海国际赛车场、青浦东方绿舟、上海海湾森林公园等区域将举办迎新年健康跑系列活动，以“勇毅前行”的精神状态迎接新一年的挑战。\n对于马拉松爱好者来说，2024上海海湾森林半程马拉松是迎新不可错过的跑步赛事。作为首届上海湾户外运动节的重头戏，本次赛事以国家4A级旅游景区海湾森林公园为主体，结合最美林荫道和最美海边公路，打造上海生态最好、风景最美的半程马拉松赛事。\n撞龙华晚钟，上海新年入境游序幕开启\n有“上海新年第一游”之美誉的“迎入境游客 撞龙华晚钟”将如约而至，为市民游客带来“乐游上海•撞晚钟”的新年祝福。\n届时，约140位来自新加坡、马来西亚等国家和地区的游客参加上海新年第一游体验，通过中国最传统的方式迎接新年。活动将向世界展示中国传统的新年祈福文化，进一步强化上海世界级旅游目的地的城市形象。\n同时，来自江、浙、皖三省的百余位游客，搭乘上海假日列车“乐游长三角”专列，去上海多个地标体验citywalk，感受海派文化之源的魅力。\n迎新“寻龙记”，弘扬中华优秀传统文化\n在龙年新春之际，“乐游上海•寻龙记”系列活动为新年增添浓郁年味。人们在寻“龙”中，共同感受中华优秀传统文化之美。\n大洋千树、蟠龙古镇等区域推出以龙年生肖为主题的氛围营造，渲染传统新年氛围。支付宝、乐游上海、非遗新体验公众号线上发起上海“寻龙记”迎春系列活动，既使浓浓年味更加鲜活，又将中华民族传统文化深深扎根于人们心中。\n“虎”“兔”字形跑步路线曾引发“城市美景+路跑”迎新的风潮。近日，民间运动团体“昂跑运动社群”设计推出了上海生肖“龙（繁体）”字跑步路线，用脚步串联起身边的风景，也寄托了龙年新气象。\n\n图说：上海豫园商城充满浓浓新年氛围，主题灯组“一夜鱼龙舞”惊艳亮相\n\n张灯结彩处，描绘都市夜游新画卷\n“乐游上海•看彩灯”，全新演绎上海的经典迎新活动。\n豫园商城、苏州河畔光陆大楼、上海欢乐谷等区域推出新年彩灯展示、创意投影秀和烟花秀等活动，为亮起来的上海描绘都市旅游夜游新画卷。\n即日起至2024年2月29日，“龙腾豫跃，好运年年”豫园年礼节的龙年市集、产品展销、打卡互动等活动在豫园商城的海上梨园、华宝楼、微缩世界等举行，结合古戏楼版越剧《红楼梦》演出、2024豫园民俗艺术灯会配套寻龙趣味游戏等，为市民游客打造极具东方生活美学的新年盛宴。\n2024年，上海将继续聚焦人民精神生活富足的新需求，打造推出更多具有海派味、时尚感、烟火气的新产品、新场景、新玩法，让市民游客近悦远来、心向往之。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_25772144",
-          "publishedOn": "2023-12-24T00:53:05.000Z",
-          "wordCount": 47,
-          "title": "登新高、观日出、看彩灯……上海文旅局发布元旦迎新22项活动",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_25772125",
-          "author": null,
-          "description": "近日，内蒙古自治区一些地区“门诊5000元医保统筹额度12月底要清零”“明年没有门诊统筹这个政策了”等消息在网上传播，引起关注。这一消息是否属实？记者对此进行了求证。\n“‘政策取消’纯属谣言，‘年底清零’是对医保政策的误解误读！”内蒙古锡林郭勒盟医疗保障局称，锡林郭勒盟于2022年10月1日起实施职工基本医疗保险门诊共济保障机制，制度规定：门诊统筹待遇标准是在一个自然年度内，参保人员在定点医药机构发生的政策范围内的普通门诊医疗费用按政策结算。2024年，参保职工的门诊费用重新累计，达到起付标准后按规定享受门诊统筹待遇。因此，并不存在“报销额度清零”和“政策取消”的说法。\n据介绍，职工医保门诊统筹覆盖参加职工基本医疗保险的所有人员，即在职职工、退休人员和灵活就业人员都可以享受锡林郭勒盟职工医保门诊统筹待遇。参保职工在定点医疗机构发生的符合基本医疗保险政策范围内药品、医用耗材和医疗服务项目的普通门诊费用，超过起付标准的，纳入统筹基金支付范围。支付限额不结转、不累加到次年年度。\n此前，一则关于“呼和浩特市医保门诊统筹截止到11月20日左右”的传言也在网上传播。记者从呼和浩特市医疗保障局了解到，根据2022年6月30日呼和浩特市人民政府办公室印发，2022年10月1日起施行的《呼和浩特市建立完善职工基本医疗保险门诊共济保障实施细则》相关规定，门诊统筹待遇标准是在一个自然年度内，参保人员在定点医药机构发生的政策范围内的普通门诊医疗费用按政策结算。\n呼和浩特市医疗保障局相关负责人表示，根据规定，2023年呼和浩特市医保门诊统筹待遇享受期为1月1日到12月31日。\n相关部门提醒，及时关注当地医疗保障局官方微信公众号或官方网站，第一时间知晓医保政策动态调整权威信息，提高自己的信息识别能力，不被未经证实的消息所迷惑，做到不信谣、不传谣、不造谣！",
-          "link": "https://www.thepaper.cn/newsDetail_forward_25772125",
-          "publishedOn": "2023-12-24T00:53:05.000Z",
-          "wordCount": 31,
-          "title": "医保统筹额度12月底清零？医保局辟谣：误解误读",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_25772158",
-          "author": null,
-          "description": "据路透社近日报道，在许多欧洲国家停止从俄罗斯进口大部分石油和天然气后，土耳其成为西半球最大的俄罗斯能源进口国。身为北约成员国的土耳其并没有因为俄乌冲突而选择与俄罗斯对立，而是加深了双边经贸合作。伦敦证券交易所的数据显示，土耳其公司通过增加进口相对价格低廉的俄罗斯石油和成品油，在2023年节省了约20亿美元的能源账单。今年11月，主要出口到欧洲等地的俄罗斯乌拉尔原油出口量跃升至每天40万桶的历史最高水平，占上个月俄罗斯海运石油出口总量的14%左右，预计这一数字在未来几个月还将进一步提升。（央视新闻）",
-          "link": "https://www.thepaper.cn/newsDetail_forward_25772158",
-          "publishedOn": "2023-12-24T00:23:06.000Z",
-          "wordCount": 30,
-          "title": "北约制裁之下 俄罗斯原油出口量仍创新高",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_25767787",
-          "author": null,
-          "description": "据乌克兰国家通讯社报道，当地时间23日，乌克兰宣布对俄罗斯51名个人和134个实体实施制裁。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_25767787",
-          "publishedOn": "2023-12-23T23:53:06.000Z",
-          "wordCount": 27,
-          "title": "乌克兰对俄罗斯51名个人和134个实体实施制裁",
-          "imageUrl": null
         }
       ]
     },
@@ -12106,6 +12176,76 @@
       "feedUrl": "https://www.nationalreview.com/feed/",
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1589883",
+          "author": "Haley Strack",
+          "description": "‘I reject outright the terms of surrender of the monsters of Hamas,’ Netanyahu said over the weekend in response to Hamas’s proposal.",
+          "link": "https://www.nationalreview.com/news/hamas-says-no-chance-of-hostage-release-without-complete-israeli-withdrawal-from-gaza/",
+          "publishedOn": "2024-01-22T16:12:38.000Z",
+          "wordCount": 8576,
+          "title": "Hamas Says ‘No Chance’ of Hostage Release Without Complete Israeli Withdrawal from Gaza",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/01/hamas-israel-hostages.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1589844",
+          "author": "Haley Strack",
+          "description": "‘The current deficit will force us to make 7-figure budget cuts. This will require us to make painful decisions,’ DSA members said in a proposal.",
+          "link": "https://www.nationalreview.com/news/democratic-socialists-of-america-in-financial-crisis-following-brash-support-for-hamas/",
+          "publishedOn": "2024-01-22T13:53:12.000Z",
+          "wordCount": 8701,
+          "title": "Democratic Socialists of America in ‘Financial Crisis’ following Brash Support for Hamas",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/01/DSA.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1589688",
+          "author": "Kathryn Jean Lopez",
+          "description": "Lessons from Ed Koch in His Eminence and Hizzoner.",
+          "link": "https://www.nationalreview.com/2024/01/want-to-actually-get-somewhere-on-abortion/",
+          "publishedOn": "2024-01-22T11:30:58.000Z",
+          "wordCount": 9226,
+          "title": "Want to Actually Get Somewhere on Abortion?",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/01/March-For-Life-7.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1588905",
+          "author": "Ryan Ellis",
+          "description": "Help U.S. industry not with government favoritism but by getting government out of the way.",
+          "link": "https://www.nationalreview.com/2024/01/congress-should-cut-taxes-on-manufacturing-and-abandon-protectionism/",
+          "publishedOn": "2024-01-22T11:30:55.000Z",
+          "wordCount": 9121,
+          "title": "Congress Should Cut Taxes on Manufacturing and Abandon Protectionism",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2021/02/gm-plant-michigan.jpg?fit=1600%2C900&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1588798",
+          "author": "Jordan McGillis",
+          "description": "Instead of halting a rival’s economic activity, restrictions like China’s on gallium and America’s on chip designs might actually accelerate it.",
+          "link": "https://www.nationalreview.com/2024/01/new-wyoming-dig-shows-limits-of-chinas-export-controls/",
+          "publishedOn": "2024-01-22T11:30:20.000Z",
+          "wordCount": 8963,
+          "title": "New Wyoming Dig Shows Limits of China’s Export Controls",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2020/10/semiconductor-plant-arizona.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1589682",
+          "author": "The Editors",
+          "description": "It was worth a shot, but Republican voters still haven’t quit on Donald Trump.",
+          "link": "https://www.nationalreview.com/2024/01/ron-desantiss-failed-experiment/",
+          "publishedOn": "2024-01-22T11:30:11.000Z",
+          "wordCount": 8723,
+          "title": "Ron DeSantis’s Failed Experiment",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/01/ron-desantis-hampton-nh.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1587721",
+          "author": "Zach Kessel and Ari Blaff",
+          "description": "NR spoke with military and foreign-policy pros about the renowned paper’s credulous treatment of Hamas.",
+          "link": "https://www.nationalreview.com/news/how-the-washington-post-abandoned-basic-journalistic-standards-to-cover-the-israel-hamas-war/",
+          "publishedOn": "2024-01-22T11:30:02.000Z",
+          "wordCount": 13463,
+          "title": "How the <I>Washington Post</I> Abandoned Basic Journalistic Standards Covering the Israel–Hamas War",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/01/israel-war-012124-6.jpg?fit=1200%2C700&ssl=1"
+        },
         {
           "id": "https://www.nationalreview.com/?post_type=blog-post&p=1589510",
           "author": "Audrey Fahlberg",
@@ -16034,6 +16174,36 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/85988",
+          "author": "少数派编辑部",
+          "description": "欢迎收看本期《派评》。你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的App或者关注的话题，也欢迎在评论区和我们进行讨论。不容错过的新App虽然少数派一直在为大家发现和介绍各平台上的 ...查看全文",
+          "link": "https://sspai.com/post/85988",
+          "publishedOn": "2024-01-22T10:04:56.000Z",
+          "wordCount": 860,
+          "title": "派评 | 近期值得关注的 App",
+          "imageUrl": "https://cdn.sspai.com/2024/1/22/article/dc893097-b652-0ab8-6e69-ab4b4ad2c42a.png"
+        },
+        {
+          "id": "https://sspai.com/prime/story/tutorial-diy-eink-photoframe-with-rpi",
+          "author": "炜智能",
+          "description": "组件选购、硬件安装、软件配置，从零起步打造你的墨水屏相框查看全文\n本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
+          "link": "https://sspai.com/prime/story/tutorial-diy-eink-photoframe-with-rpi",
+          "publishedOn": "2024-01-22T09:06:22.000Z",
+          "wordCount": 1136,
+          "title": "树莓派 DIY 墨水屏相框完全指南",
+          "imageUrl": "https://cdn.sspai.com/1/22/2024/article/dfebc80d-ece2-1569-e4a4-dbedff1210b7.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/85941",
+          "author": "二一的笔记",
+          "description": "本文介绍了 Notion 的新产品 Notion Calendar，这是继 Notion 收购日历应用 Cron 后的一次重要更新。Notion Calendar 提升了 Notion 本体与日历功能的融合，支持多平台但暂不支持中文和部分系统。用户需通过谷歌账号登录，可以实现 Notion 数据库和 Notion Calendar 的双向同步。文章还详细讲解了如何关联 Notion 数据库，以及Notion Calendar 的基本和重要特性，包括订阅多个数据库日历、创建日程时调用模板等。同时，也提供了操作效率技巧，但也指出了 Notion Calendar 存在的问题和限制。最后，作者建议重度 Notion 用户下载试用，而对于非日历工具用户，建议等待进一步优化。\n想在购买前更深度了解栏目内容？欢迎前往阅读试读文章：《万字解析 | 十年磨一剑，Notion 的过去、现在与将来》\n[......]\n查看全文\n本文为付费栏目文章，出自《Notion All in One：搭建高能效率系统》，订阅后可阅读全文。",
+          "link": "https://sspai.com/post/85941",
+          "publishedOn": "2024-01-22T07:17:58.000Z",
+          "wordCount": 1039,
+          "title": "Notion Calendar 上线简评：终于打通 Notion 与日历，却难说完美",
+          "imageUrl": "https://cdn.sspai.com/2024/1/19/article/e618226d-1111-695f-9060-891753bba6f6.jpeg"
+        },
+        {
           "id": "https://sspai.com/post/85883",
           "author": "果铺知道",
           "description": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
@@ -16810,6 +16980,66 @@
       "feedUrl": "https://plink.anyfeeder.com/idaily/today",
       "siteUrl": "https://docs.rsshub.app",
       "articles": [
+        {
+          "id": "https://m.idai.ly/se/d572IG",
+          "author": null,
+          "description": "俄罗斯民众在红场纪念列宁逝世100周年，莫斯科。1月21日是苏联共产党创始人列宁逝世纪念日，俄共党员及左翼团体举行纪念活动并前往列宁墓献花。列宁于1924年1月21日逝世，享年53岁，他生前领导十月革命推翻俄国资产阶级临时政府，建立了世界上第一个社会主义国家。全俄社会舆论研究中心最新民调显示，47%俄罗斯人对列宁持积极态度，15%持消极态度，30%表示无所谓。摄影师：Alexander Zemlianichenko",
+          "link": "https://m.idai.ly/se/d572IG",
+          "publishedOn": "2024-01-22T10:59:00.000Z",
+          "wordCount": 1141,
+          "title": "列宁逝世100周年",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.idai.ly/se/d27234",
+          "author": null,
+          "description": "法国左翼工会组织在埃菲尔铁塔前抗议新移民法，巴黎。1月21日，法国爆发大规模反移民法示威活动，约7.5万人走上街头要求撤回法案。法国新移民法进一步强化移民审查和限制条件，包括引入移民配额制度、提高社会福利门槛、增加语言能力要求等。法国宪法委员会将于1月25日审查新法案是否违反宪法。法国境内约有690万外籍移民，占总人口10.3%。最新民调显示约70%法国人支持新移民法。摄影师：Yoan Valat",
+          "link": "https://m.idai.ly/se/d27234",
+          "publishedOn": "2024-01-22T09:57:00.000Z",
+          "wordCount": 1141,
+          "title": "法国出台新移民法",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.idai.ly/se/89dEb0",
+          "author": null,
+          "description": "「77国集团＋中国」第三届南方首脑会议在在乌干达首都坎帕拉举行。1月21日，第三届南方首脑会议正式开幕，本年度主题为「一个都不能落下」。联合国秘书长在致辞中指出，推动国际体系变革的力量必须来自发展中国家，呼吁各国团结一致应对气候变化和参与制定新技术规则。乌干达总统呼吁改革全球金融体系，消除对发展中国家不公平的做法，敦促发达国家在弥合数字鸿沟、消除饥贫、应对气候变化等领域为发展中国家提供支持。摄影师：Luis Tato",
+          "link": "https://m.idai.ly/se/89dEb0",
+          "publishedOn": "2024-01-22T08:55:00.000Z",
+          "wordCount": 1141,
+          "title": "第3届南方首脑会议",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.idai.ly/se/f6f6mk",
+          "author": null,
+          "description": "一名巴勒斯坦母亲抱着受伤的女儿在医院等待治疗，加沙地带。1月21日，加沙卫生部门报告本轮巴以冲突已导致至少25105人死亡，其中40%为儿童，另有62681人受伤。以色列军方在过去24小时对加沙地带进行了15次轰炸，导致178人死亡。联合国秘书长当天公开谴责以色列总理「拒绝两国方案」言论，警告剥夺巴勒斯坦人建国权利将无限期地延长冲突，严重威胁全球和平与安全。摄摄影师：Belal Khaled",
+          "link": "https://m.idai.ly/se/f6f6mk",
+          "publishedOn": "2024-01-22T08:53:00.000Z",
+          "wordCount": 1141,
+          "title": "加沙超过2.5万人死亡",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.idai.ly/se/710lw5",
+          "author": null,
+          "description": "法国昂热美术博物馆，一名纹身师正在为参观美术馆的游客绘制纹身。1月20日，法国昂热美术博物馆举行第2届「皮肤上的艺术」（L art dans la peau）主题活动，共邀请8家纹身工作室在美术馆内为游客提供纹身服务，游客可以根据自己的喜好选择纹身图案。昂热美术博物馆是法国第四大博物馆，始建立于1801年，总面积达7000平方米，馆藏超过13.3万件。摄影师：Jean-Michel Delage",
+          "link": "https://m.idai.ly/se/710lw5",
+          "publishedOn": "2024-01-22T08:51:00.000Z",
+          "wordCount": 1141,
+          "title": "法国博物馆纹身日",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.idai.ly/se/01b855",
+          "author": null,
+          "description": "一只巴布亚企鹅（Gentoo penguin）正在照顾新孵化的幼崽，南极帕拉伊索岛。巴布亚企鹅主要分布在南极地区，是仅次于帝企鹅和王企鹅的世界上体型第三大的企鹅物种，成年体重可达8.5千克，体长可达90厘米。巴布亚企鹅通常一胎产下两只蛋，幼雏会在34至36天孵出，初生时背部呈灰色，3个月后才会褪变成黑色。巴布亚企鹅现存数量超过60万只，主要生存威胁包括全球气候变暖、海洋环境污染和人类捕杀等。摄影师：Juan Barreto",
+          "link": "https://m.idai.ly/se/01b855",
+          "publishedOn": "2024-01-22T08:49:00.000Z",
+          "wordCount": 1141,
+          "title": "南极巴布亚企鹅观测",
+          "imageUrl": null
+        },
         {
           "id": "https://m.idai.ly/se/3a0r5h",
           "author": null,
@@ -20242,36 +20472,6 @@
           "publishedOn": "2023-12-26T01:59:00.000Z",
           "wordCount": 331,
           "title": "苏轼的五次赤壁之游，以及前后《赤壁赋》的主旨",
-          "imageUrl": null
-        },
-        {
-          "id": "ce1a36ee4e559b89ca1330a79bf47ee4",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E4%BA%B2%E7%88%B1%E7%9A%84%E5%BD%AD%E7%A6%B9%E2%80%94%E2%80%94%E8%89%BA%E6%9C%AF%E5%AE%B6%E5%BD%AD%E7%A6%B9%E8%AE%BF%E8%B0%88%E5%BD%95",
-          "publishedOn": "2023-12-24T02:41:00.000Z",
-          "wordCount": 287,
-          "title": "亲爱的彭禹——艺术家彭禹访谈录",
-          "imageUrl": null
-        },
-        {
-          "id": "735e6d878fdfca50db26999730f5da10",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E5%9C%A8%E9%AB%98%E6%96%B0%E6%8A%80%E6%9C%AF%E8%A1%8C%E4%B8%9A%E5%A4%B1%E4%B8%9A%EF%BC%8C%E4%B8%BA%E4%BD%95%E5%A5%B3%E6%80%A7%E6%AF%94%E7%94%B7%E6%80%A7%E6%9B%B4%E5%9B%B0%E6%89%B0%EF%BC%9F",
-          "publishedOn": "2023-12-24T02:41:00.000Z",
-          "wordCount": 333,
-          "title": "在高新技术行业失业，为何女性比男性更困扰？",
-          "imageUrl": null
-        },
-        {
-          "id": "fa6f757123a88235234d55a1f4f769ef",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E7%90%86%E6%9F%A5%E5%BE%B7%C2%B7%E9%B2%8D%E5%B0%94%E6%96%AF%EF%BC%9A%E4%B8%80%E5%9C%BA%E8%B5%B0%E5%85%A5%E6%A3%AE%E6%9E%97%E7%9A%84%E6%84%8F%E5%A4%96",
-          "publishedOn": "2023-12-24T02:41:00.000Z",
-          "wordCount": null,
-          "title": "理查德·鲍尔斯：一场走入森林的意外",
           "imageUrl": null
         }
       ]
