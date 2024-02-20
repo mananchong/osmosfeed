@@ -44,16 +44,6 @@
           "wordCount": 6150,
           "title": "R Weekly 2024-W05 - Notes from live code review, and load different R package versions at once",
           "imageUrl": "https://rweekly.org/public/facebook.png"
-        },
-        {
-          "id": "https://rweekly.org/2024-W04.html",
-          "author": null,
-          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Sam Parmar, with help from the R Weekly team members and contributors.\nHighlight\nHow to Update a Translation with Babeldown\nSix not-so-basic base R functions\n3MW (Making dashboard interactive)\nInsights\nR-universe now builds MacOS ARM64 binaries for use on Apple Silicon (aka M1/M2/M3) systems\nIntroducing saperlipopette, a package to practice Git!\n2023 Posit Year in Review\n\nReading and Writing Data with {arrow}\nrOpenSci 2023 Code of Conduct Transparency Report\nwithr 3.0.0\n\nRstats RSE January Digest\nThe new function on the block with tidyAML extract_regression_residuals()\nExploring the Enhanced Features of tidyAML’s internal_make_wflw_predictions()\nUsing .drop_na in Fast Classi…",
-          "link": "https://rweekly.org/2024-W04.html",
-          "publishedOn": "2024-01-22T00:00:00.000Z",
-          "wordCount": 6209,
-          "title": "R Weekly 2024-W04 - Babledown, Six base R functions, and Making dashboard interactive",
-          "imageUrl": "https://rweekly.org/public/facebook.png"
         }
       ]
     },
@@ -481,16 +471,6 @@
           "wordCount": 95,
           "title": "陈斐｜柳诒徵史学的“旧”与“新”——《史学概论讲义》叙论",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_26011214?commTag=true",
-          "author": null,
-          "description": "苏东坡是中国文化史上重要的文学家和思想家，为人多才多艺，富有生活情趣，既好美食，又善调制，所谓“东坡肉”，最早便出自其手。同时，对山水情有独钟，即使流放于外，也不忘游历各处。在山东日照的五莲山，我曾有幸循其足迹：据历史记载，他认为五莲山在某方面类似雁荡山，按我的实地考察，此言确实不虚。苏东坡一生虽常处逆境，但依然乐观向上，不仅自己追求人生的理想，而且为官一方时，总是努力造福世人，杭州的苏堤、惠州的西湖，均留下了他在这方面的“政绩”。\n在文学上，他是唐宋八大家之一，有很重要的建树；在学术上则是蜀学的创始人之一，其思想史地位毋庸置疑。从思想取向看，苏东坡一方面认同儒学，另一方面又在不同层面吸取佛、道两家的思想，表现出一种沟通佛、儒、道三家的趋向。他曾指出：“六祖所云不思善，不思恶，即喜怒哀乐之未发也。”（朱熹：《苏黄门老子解》，见苏轼：《道德真经注》附录一，华东师范大学出版社，2010年，101页）六祖即慧能，“喜怒哀乐之未发”是《中庸》中的观点，这里表现出引佛释儒的旨趣。同时，他又肯定了道家以虚无为存在之源的观点：“至虚极于无，至实极于有。无为大始，有为成物。”（苏轼：《东坡易传》卷七，吉林文史出版社，2002年，290页）“古者，物之所从生也。有者物之今，则无者物之古也。”（苏轼：《道德真经注》，华东师范大学出版社，2010年，15页）可以看到，儒、释、道各家在他那里都占有重要的位置。\n当然，作为一个重要的思想史人物，苏东坡的贡献首先体现于文学和学术上。在美学和艺术方面，苏东坡既是一位才华横溢的文学家，也是一位有个性的理论家，他一方面从事文学创作，有不少传世之作，另一方面又对文学现象做出了反思。在文学和艺术的反思过程中，苏东坡提出了不少重要观点。以“常形”与“常理”之间关系而言，在评论绘画的时候，他对二者做了区分，指出：“余尝论画，以为人禽宫室器用皆有常形，至于山石竹木，水…",
-          "link": "https://www.thepaper.cn/newsDetail_forward_26011214?commTag=true",
-          "publishedOn": "2024-01-21T21:02:04.000Z",
-          "wordCount": 65,
-          "title": "杨国荣︱思想史中的苏东坡",
-          "imageUrl": null
         }
       ]
     },
@@ -499,6 +479,206 @@
       "feedUrl": "https://feedx.net/rss/thepaper.xml",
       "siteUrl": "http://thepaper.cn",
       "articles": [
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26403211",
+          "author": null,
+          "description": "@五星体育 消息，多家德国媒体消息，德国传奇球星布雷默去世，享年63岁。\n布雷默在球员时代司职左后卫或左前卫，曾效力于凯泽斯劳滕、拜仁慕尼黑和国际米兰等队，被誉为德国足球“三驾马车”之一。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26403211",
+          "publishedOn": "2024-02-20T16:23:04.000Z",
+          "wordCount": 39,
+          "title": "德媒：德国传奇球星布雷默去世",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26402163",
+          "author": null,
+          "description": "春节期间，河南开封一10岁孩子被窜出的烟花炸伤头部，不治身亡。目前，肇事者尚未找到，当地相关部门正在处理此事。据“尉氏县烟花爆竹禁放区域”通知，事发地点疑属烟花爆竹禁放区域。\n据男童家属网上发帖和向媒体讲述，事发2月12日大年初三20:20左右。\n男童父亲王先生回忆，当晚，他开车经过尉氏县北三环附近的一座网红桥，现场人流密集，车辆繁多，不少人在桥上燃放烟花。经过网红桥东北角时，儿子提出想吃烧烤，他便将车辆停在路北边，牵着孩子的手，顺着斑马线到了道路南边的烧烤摊。刚买完烧烤，突然窜出一个疑似“狼嚎火箭”一类的烟花，扎向儿子的脑袋并爆炸。王先生提出，事发地点处于禁放区域。\n据开封官方2月1日发布的通知，开封市2024年春节期间对烟花爆竹燃放实施“禁改限”。通知明确了燃放时间、禁放区域、燃放烟花爆竹应遵守的规定等。\n尉氏县融媒体中心2月1日发布的“尉氏县烟花爆竹禁放区域”通知显示，禁放区域主要含“城市建成区”，以及党政机关办公场所及企事业单位的生产区、仓储区等重点区域；易燃易爆物品生产、经营、储存单位；文物保护单位；医疗机构、中小学、幼儿园、敬老院、疗养院；商场、集贸市场、公共文化设施、宗教活动场所等人员密集场所；车站、主次干道等交通枢纽；输变电、燃气、燃油等能源设施安全保护区内；公园（广场除外）、绿地、景区、林场、苗圃、草地、湿地、水源保护区等重点防火区；高层建筑、设有可燃外墙保温材料的建筑和在建工程施工工地及周边等。\n其中，根据尉氏县融媒体中心原文所注：城市建成区包括：县城沿北三环向东、北三环与建设路交汇处万发能源有限公司加气站周边100米内、建设路向南、尉州大道向东、西三干渠向南、人民路向西，纱厂西路向南，铁路北街向西、建设路向南、福星大道向西、光明路向北、尉州大道向东、滨河西路向北到北三环区域范围内。\n地图显示，尉氏县西关北路由南向北穿越康平河森林公园时，跨康平河的桥，即为王先生所说的网红桥。跨河后，该桥与北三环（东西路）相交，疑为北三环区域范围。此外，上述网红桥紧邻城市道路、公园，一路之隔还有还有住宅小区。\n在抖音等社交平台上，有不少在上述网红桥上燃放烟花的视频。\n事发地点究竟是否为禁放区？2月20日，澎湃新闻多次致电尉氏县应急管理局，电话一直无法接通。北三环及上述网红桥是否为禁放区域中的城市主、次干道？尉氏县城管、住建、规划部门均未作出回复。\n澎湃新闻多次联系男童多位家属，均未获回应。此前，尉氏县官方人士向澎湃新闻表示，相关部门正跟进处理男童被烟花炸伤头部死亡事件。\n接受澎湃新闻采访时，北京市中闻律师事务所合伙人卢义杰指出，根据现有报道，案发地在网红桥东北角，“现场人流密集，车辆繁多”，属于人员密集场所，涉事者在此情境下燃放烟花爆竹，本身存在一定危害性。如果案涉烟花的威力、危害程度足够大，涉事者影响的又是不特定多数人，则有可能涉嫌以危险方法危害公共安全罪或过失以危险方法危害公共安全罪。在刑事附带民事诉讼中，涉事者可能要承担医疗费、护理费等为治疗支付的合理费用，以及死亡赔偿金等等。\n卢义杰认为，此事已造成一人死亡的严重后果，如果查明案涉烟花不符合标准，生产者可能涉嫌生产不符合安全标准的产品罪；销售者若明知不符合有关标准而仍向他人出售，则构成销售不符合安全标准的产品罪。\n陕西恒达律师事务所高级合伙人赵良善律师向媒体表示，若最终未找到放炮人，家属可要求当地政府承担相应过错赔偿责任，理由是事发地属于网红打卡地，人流密集，当地政府可能未尽到管控责任。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26402163",
+          "publishedOn": "2024-02-20T14:53:04.000Z",
+          "wordCount": 36,
+          "title": "十岁男孩被烟花炸伤身亡：事发地疑为禁燃区，涉事各方该担何责",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26391446",
+          "author": null,
+          "description": "速览\n- 网传“春节期间上海市场日本进口鱼类销售火爆”的说法不实。关于“一天销售8000只波士顿龙虾”的说法最早可能源自一篇关于水产进口的报道，但原报道中未提及有从“日本进口“等相关说法。\n- 中国海关及日本海关最新公布的数据显示，2023年9月至12月间，中国未向日本进口 “活、鲜或冷的带壳或去壳鳌龙虾”及其余龙虾制品。 \n- 目前，中国尚未恢复从日本进口原产地为日本的水产品。有关部门的负责人表示，所有与食品进口相关的准入及恢复准入的政策，均会事先公告。 \n事件背景\n近日，中外社交平台上有说法称，今年春节期间，“上海市场的日本进口鱼类销售火爆”， “上海一天销售8000只波龙，日本核废水被忘记”。 \n\n网传说法相关截图\n\n2023年8月24日，中国海关总署发布《关于全面暂停进口日本水产品的公告》：“为全面防范日本福岛核污染水排海对食品安全造成的放射性污染风险，保护中国消费者健康，确保进口食品安全，依据《中华人民共和国食品安全法》及其实施条例、《中华人民共和国进出口食品安全管理办法》有关规定，以及世界贸易组织《实施卫生与植物卫生措施协定》有关规定，海关总署决定自2023年8月24日（含）起全面暂停进口原产地为日本的水产品（含食用水生动物）。” \n明查\n“一天销售8000只波龙”的说法源自何处？\n网传说法中提到，“上海一天销售8000只波龙”。关键词搜索发现，这一数据可能来自上观新闻的一篇报道。 \n2月9日，上观新闻的网站上刊登了一篇题为《龙年春节“波龙”走俏，沪上最大海鲜市场通宵达旦备货》的文章，其中提到， “龙年春节临近，龙虾、帝王蟹等进口海鲜供不应求”“江杨水产批发市场经营户陈俊称，‘最近每天到货的“波龙”数量都是七八千只，都是各类饭店和生鲜平台提前预订好的’。”  \n\n上观新闻网站报道截图。\n\n然而，需要指出的是，上述报道中并没有提到，这些龙虾是从日本进口的。 \n中国恢复从日本进口水产品了吗？ \n中国海关总署目前尚未公布2024年2月的完整进出口贸易数据。在海关总署的统计数据在线查询平台上，搜索波士顿龙虾所属的“活、鲜或冷的带壳或去壳鳌龙虾”类目，将起止时间设置为2023年9月至12月，贸易伙伴设置为日本时，未显示任何数据。 \n\n在海关总署的统计数据在线查询平台上查询2023年9月至12月从日本进口的“活、鲜或冷的带壳或去壳鳌龙虾”类目，显示查询到0条数据。\n\n在日本海关公布的《2023年国别出口产品清单（1-12月：最终报告）（103-108：亚洲（东亚）各国）》中，也无法找到涉及中国的与龙虾出口相关的数据。 \n中国海关数据显示，2023年，中国进口的鳌龙虾总量为33188652公斤。目前中国鳌龙虾的最大进口来源国为加拿大，约占市场份额的76%。其次为美国，约占24%。 \n\n2023年全年，中国从加拿大和美国进口的“活、鲜或冷的带壳或去壳鳌龙虾”数量分别为25191400公斤和7906143公斤。\n\n此外，根据日本海关公布的数据，2023年9月至12月间，日本出口中国的“鱼类、甲壳类、软体类和其他水生无脊椎动物 ”等主要水产品类目的数量及出口额多显示为0。这说明，自2023年8月中国海关总署发布《关于全面暂停进口日本水产品的公告》后，中国几乎未向日本进口水产品。 \n\n日本海关公布的《2023年国别出口产品清单（1-12月：最终报告）（103-108：亚洲（东亚）各国）》显示，2023年9月至12月间，日本出口中国的“鱼类、甲壳类、软体类和其他水生无脊椎动物 ”等主要水产品类目的数量及出口额大多为0。\n\n《中华人民共和国进出口食品安全管理办法》第三十六条第三款显示：“实施暂停或者禁止进口控制措施的食品，出口国家（地区）主管部门已采取风险控制措施，且经海关总署评估符合要求的，可以解除暂停或者禁止进口措施。恢复进口的食品，海关总署视评估情况可以采取本办法第三十四条规定的控制措施。” \n截至目前，中国海关总署网站上未见解除全面暂停进口日本水产品的相关公告。 \n澎湃新闻从有关部门的相关负责人处获悉，所有与食品进口相关的准入及恢复准入的政策，均会事先公告。目前，中国尚未恢复从日本进口原产地为日本的水产品。 \n综上所述，网传“春节期间上海市场日本进口鱼类销售火爆”的说法不实。关于“一天销售8000只波士顿龙虾”的说法最早可能源自上观新闻发布的一篇报道，但原报道中未涉及从日本进口龙虾或水产品等内容。 \n中国海关及日本海关最新公布的数据显示，2023年9月至12月间，中国未向日本进口 “活、鲜或冷的带壳或去壳鳌龙虾”及其余龙虾制品。 \n目前，中国尚未恢复从日本进口原产地为日本的水产品。有关部门的负责人表示，所有与食品进口相关的准入及恢复准入的政策，均会提前进行公告。 \n\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.run",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26391446",
+          "publishedOn": "2024-02-20T14:53:04.000Z",
+          "wordCount": 102,
+          "title": "明查｜春节期间上海市场日本进口鱼类销售火爆？假",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26400723",
+          "author": null,
+          "description": "当地时间2024年2月19日，韩国首尔，医疗工作人员走向专用办公区。视觉中国 图\n\n据央视新闻消息，韩国首都圈五大医院上千名实习医生和住院医生19日集体辞职，称将于20日晨起停止工作，以抗议政府扩招高校医学生的政策。如果这些医生集体离岗，一些医院恐无法正常运转，韩国医疗系统危机将升至最高级。\n韩国政府2月早些时候宣布，为解决医生短缺问题，2025学年高校医学院招生规模将从现阶段的3058人增至5058人。到2035年，韩国将新增约1万名医生。\n这项扩招计划遭到医生团体和医学院学生强烈反对，称此举将引发过度医疗并使医保系统资金紧张。一些批评人士指出，医疗界人员实际上是担忧扩招计划将导致他们的收入减少。\n报道指出，韩国首都圈五大医院超过1000名实习医生和住院医生已于19日集体递交辞职报告，将于20日6时起停止工作。这股“辞职潮”同时蔓延至韩国其他城市。韩国媒体预计，全国将有数千名医生涉及其中。\n截至19日下午，仁川、大田、釜山等地多家医院已有上千名医生提出辞职。此外，韩国40所医科大学的学生宣布将于20日起集体休学。\n\n当地时间2024年2月20日，韩国大邱，一名医生正在大邱一家大学医院行走。视觉中国 图\n\n鉴于这些医生是急诊科和治疗危重病患的主力军，外界担忧韩国医疗一线恐陷入混乱。2月早些时候，医疗界出现集体辞职迹象时，韩国保健福祉部将医疗系统危机级别上调至第二高的“警惕”。报道指出，如果这些医生20日集体停工，医疗系统危机级别将进一步提升至最高级“严重”。\n尽管集体停工尚未正式开始，一些医院19日已出现运转困难。延世大学附属世福兰斯医院的实习医生当天集体离岗后，该医院宣布进入紧急模式，手术数量减半，大量病患不得不延期接受治疗。\n另一些医院也通知病患，手术日程可能调整。不少病患和家属在网络上发帖对此表示担忧或抱怨。\n韩国保健福祉部副部长朴敏守19日谴责医生集体辞职的行为，批评大韩医师协会煽动医生集体行动。他同时向韩国200多家医疗机构发布命令，要求其实习医生和住院医生维持诊疗。\n韩国国防部19日说，如果实习医生和住院医生集体辞职罢工，国防部将开放军队医院，为民间患者提供医疗服务。警察厅表示，将严查医生集体行动的挑动者，考虑对这些人采取法律措施。此外，警方还将在各家医院周围派遣机动人员以应对突发情况。\n\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.run",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26400723",
+          "publishedOn": "2024-02-20T14:53:04.000Z",
+          "wordCount": 52,
+          "title": "韩国大批医生集体辞职抗议扩招，医疗系统危机或将升至最高级",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26400730",
+          "author": null,
+          "description": "当地时间2024年2月19日，以色列和哈马斯的冲突持续，在拉法拍摄的照片显示，在以色列的轰炸下，加沙地带南部的汗尤尼斯上空浓烟滚滚。视觉中国 图\n\n据中新网援引路透社消息，当地时间2月19日，在比利时布鲁塞尔举行的欧盟外长会议上，除匈牙利外的所有欧盟成员国都警告以色列不要对拉法发动进攻。\n据报道，目前拉法已经涌入了约150万加沙地带难民，爱尔兰外长马丁表示：“对拉法的进攻绝对是灾难性的”。\n会后，相关国家还发布了一份“欧盟26国外长”名义的联合声明，称“我们要求以色列政府不要在拉法采取军事行动，这将使本已灾难性的人道主义局势进一步恶化，并阻止提供急需的基本服务和人道主义援助。”\n\n加沙地带流离失所者四处辗转，容身之所难寻觅。视觉中国 图\n\n该声明还呼吁加沙地带“立即实行人道主义停火，从而实现持久停火，无条件释放所有人质，并提供人道主义援助”。\n据介绍，以色列正准备对加沙最南端的城市拉法发动地面进攻。经过近5个月的战斗，以色列方面称，拉法是哈马斯控制的最后堡垒。\n欧盟外交与安全事务高级代表博雷利表示，“我们必须继续向以色列施压，让他们明白拉法街头有这么多人，不可能避免平民伤亡。”",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26400730",
+          "publishedOn": "2024-02-20T13:53:04.000Z",
+          "wordCount": 53,
+          "title": "欧盟26国警告以色列不要进攻拉法，呼吁立即停火",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26400338",
+          "author": null,
+          "description": "你熬夜蹲守直播抢到的“孤品”，可能是别人丢掉的旧衣。\n有网友发帖表示，自己在短视频平台上看到某孤品毛衣直播间里正在展示的毛衣与其丢在小区回收箱的毛衣一模一样：“因为这件衣服勾到了一个小洞，而且越洗越长我才扔的。”\n不少消费者向红星新闻反映，自己在孤品直播间买到的衣物很可能是二手衣服：衣物有异味、污渍，有的还有拉链生锈、缝补痕迹，更有人打开包裹发现“有蟑螂跑出来”。\n\n网友称在孤品直播间买到二手衣。   本文图片 红星新闻\n\n红星新闻记者对此展开调查，发现“孤品”直播间回收二手衣物早已形成一条完整的灰色产业链。\n——①——\n10秒过款的深夜“孤品”直播间\n“这件有没有人要？要的扣号。”成排的衣架上挂满衣物，甚至堆放地上，几十到几百的在线人数虽不算多，却与主播互动活跃，这是凌晨12点的“孤品”直播间。\n主播将服装在镜头前进行展示，介绍适合多少斤，催促下单。有时候一件抢手的“孤品”会有好几个人“扣号”，主播会再次确认评论区最早回复的ID，如果衣架上没写编号，则会由主播贴上带有条形码和三位数编号的贴纸。随后，顾客需要记下衣服的号码再点击对应价格的链接备注编号下单。\n一件“孤品”过款速度非常之快，从主播接过衣架到丢到一旁让顾客下单，只需要10秒左右。这类直播间通常标注着“孤品”“清仓”“工厂尾单”“9.9包邮”“默认微瑕”等字样，就连“不退不换”“跑单拉黑”的规矩也几乎一致。记者发现，这类“孤品”直播间大多会选择在下午或凌晨进行直播，在线人数从几十到几百不等。\n在快速过款、先到先得的直播间氛围下，顾客可能会冲动下单，但如果没有拍下抢到的对应号码的“孤品”或者在发货前取消订单，就会被商家判定为“跑单”，许多商家会拉黑该顾客的账号，顾客便不能再进入直播间。\n顾客对到手商品不满意想要退货，则需要经过更复杂的流程。首先，提起退换货要求会被商家以低价和销售前告知“默认微瑕”的理由拒绝，即使退货…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26400338",
+          "publishedOn": "2024-02-20T13:53:03.000Z",
+          "wordCount": 65,
+          "title": "“孤品”直播灰产调查：尾单或是二手衣，六百元一吨就能批发",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26406714",
+          "author": null,
+          "description": "2月20日，国内期货夜盘开盘涨跌不一，铁矿主力合约跌超2%，苯乙烯、乙二醇、甲醇、玻璃、聚丙烯主力合约跌超1%；纯碱、烧碱主力合约涨近1%。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26406714",
+          "publishedOn": "2024-02-20T13:23:05.000Z",
+          "wordCount": 32,
+          "title": "国内期货夜盘开盘，铁矿主力合约跌超2%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26406908",
+          "author": null,
+          "description": "据中国建设报消息，2月20日下午，住房城乡建设部召开城市房地产融资协调机制工作视频调度会议。各省、自治区和50个重点城市住房城乡建设部门负责同志参加。\n自1月份城市房地产融资协调机制工作部署以来，各地和相关金融机构紧锣密鼓抓好落实，不少城市春节假期仍在推进工作，协调机制落地见效持续取得新进展。截至2月20日，全国29个省份214个城市已建立房地产融资协调机制，分批提出可以给予融资支持的房地产项目“白名单”并推送给商业银行，共涉及5349个项目；已有57个城市162个项目已获得银行融资共294.3亿元，较春节假期前增加113亿元。另据中国银行、建设银行、农业银行、邮储银行和部分股份制银行有关数据，已对“白名单”项目审批贷款1236亿元，正在根据项目建设进度需要陆续发放贷款。（澎湃新闻记者 刘畅）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26406908",
+          "publishedOn": "2024-02-20T13:23:05.000Z",
+          "wordCount": 37,
+          "title": "全国已有57个城市162个房地产项目已获得银行融资共294.3亿元",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26403866",
+          "author": null,
+          "description": "北京时间2月20日16:00，山东泰山队做客日本川崎等等力陆上竞技场，与川崎前锋进行本赛季亚冠八分之一决赛次回合较量。全场比赛战罢，泰山队凭借着贾德松的绝杀进球，以总比分6比5淘汰川崎前锋，晋级亚冠四分之一决赛。\n赛前，双方公布了各自的首发阵容。泰山队方面，贾德松、克雷桑以及卡扎伊什维利这三名外援进入首发名单。解禁复出的谢文能，同样先发出战。球队主帅崔康熙留足后手，费南多、陈蒲、帕托在替补席上待命。川崎前锋方面，首回合比赛表现出色的韩国门将郑成龙，继续先发出场。马尔西尼奥、埃里松这两名外援也进入首发阵容。\n上半场比赛开场后，两队很快地进入比赛节奏。比赛第4分钟，卡扎伊什维利禁区外起脚劲射，被对方防守球员挡出底线，泰山队获得角球机会。这个角球也制造了威胁，贾德松头球攻门，郑成龙奋力将球托出横梁。仅仅几分钟后，谢文能前场觅得杀机，起脚远射，被郑成龙扑出。比赛第7分钟，李源一上抢成功，送出妙传，克雷桑门前跟进，将球顶进。泰山队1比0暂时领先！双方总比分来到3比3，两队重新站在同一条起跑线上。第16分钟，川崎前锋发动进攻，马尔西尼奥送出传中，埃里松脚下打滑，射门未能打正。第19分钟，克雷桑右路形成突破后送出传中，险些制造对方防守球员乌龙。第23分钟，泰山队发动反击，卡扎伊什维利左路突进，送出外脚背妙传，高准翼跟进垫射破门。泰山队2比0领先！第29分钟，川崎前锋利用反击机会扳回一球。上半场比赛结束前，卡扎伊什维利远射制造威胁，稍稍高出横梁。上半场比赛战罢，泰山队暂时2比1领先，两队总比分为4比4。\n下半场比赛开场后，泰山队连换两人，费南多、帕托披挂上阵，换下郑铮、谢文能。第59分钟，川崎前锋外援埃里松补射破门，帮助川崎前锋将比分改写为2比2，泰山队总比分以4比5暂时落后。崔康熙不满主裁判吹罚，被出示黄牌警告。第73分钟，克雷桑展现出极为出众的个人能力，在前场连续突破后以一脚劲射取得进球，泰山队再度将总比分扳平。第79分钟，王大雷出击后将川崎前锋进攻球员放倒在地，被主裁判出示红牌罚下。好在经过VAR回看，裁判确认对方进攻球员越位在先，取消了这张红牌。补时阶段，李源一一脚劲射，险些帮助泰山队完成绝杀。最后时刻，贾德松绝杀建功，帮助泰山队以总比分6比5淘汰川崎前锋，晋级亚冠四分之一决赛。\n\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.run",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26403866",
+          "publishedOn": "2024-02-20T12:53:04.000Z",
+          "wordCount": 45,
+          "title": "客场逆转、绝杀，山东泰山6比5淘汰川崎前锋晋级亚冠八强",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26406279",
+          "author": null,
+          "description": "据教育部官网最新资料，俞伟跃已任教育部教师工作司司长。\n教师工作司的职责为：规划、指导各级各类学校教师队伍建设；拟订教师教育和教师管理政策法规；拟订各级各类教师资格标准并指导教师资格制度的实施；宏观指导教师教育和教师管理工作。\n俞伟跃曾任教育部基础教育司副司长等职，后于2021年出任教育部校外教育培训监管司首任司长。（澎湃新闻记者 钟煜豪）\n\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.run",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26406279",
+          "publishedOn": "2024-02-20T12:53:04.000Z",
+          "wordCount": 37,
+          "title": "教育部校外教育培训监管司首任司长俞伟跃已任教师工作司司长",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26406374",
+          "author": null,
+          "description": "2月20日晚间，汤臣倍健股份有限公司（汤臣倍健，300146.SZ)发布业绩快报，2023年实现营业总收入94.07亿元，同比增长19.66%；归属于上市公司股东的净利润17.46亿元，同比增长26.00%；基本每股收益1.03元。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26406374",
+          "publishedOn": "2024-02-20T12:53:04.000Z",
+          "wordCount": 32,
+          "title": "汤臣倍健：2023年净利润17.46亿元，同比增长26%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26403977",
+          "author": null,
+          "description": "20日，住房城乡建设部表示，自1月份城市房地产融资协调机制工作部署以来，各地和相关金融机构紧锣密鼓抓好落实，不少城市春节假期仍在推进工作，协调机制落地见效持续取得新进展。\n截至2月20日，全国29个省份214个城市已建立房地产融资协调机制，分批提出可以给予融资支持的房地产项目“白名单”并推送给商业银行，共涉及5349个项目；已有57个城市162个项目已获得银行融资共294.3亿元，较春节假期前增加113亿元。另据中国银行、建设银行、农业银行、邮储银行和部分股份制银行有关数据，已对“白名单”项目审批贷款1236亿元，正在根据项目建设进度需要陆续发放贷款。\n下一步，按照住房城乡建设部的要求，各地要高度重视城市房地产融资协调机制有关工作，精准提出房地产项目“白名单”，推动协调机制持续取得实效。同时，各地在开展工作时要形成“两个闭环”。一是要形成“推送——反馈”的工作闭环。城市房地产融资协调机制根据条件筛选项目并推送给商业银行，各商业银行按照规程审查后放贷，对不予放贷的项目向金融监管部门报送“无法贷款的原因”，由城市政府及时协调解决，形成“白名单”项目从推送到反馈的工作闭环。二是要形成“发放——使用——偿还”的管理闭环，确保资金全部用于项目开发建设，严防资金被挪用于购地、偿还债务或其他投资。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26403977",
+          "publishedOn": "2024-02-20T12:53:04.000Z",
+          "wordCount": 32,
+          "title": "住建部：214个城市已建立房地产融资协调机制",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26402458",
+          "author": null,
+          "description": "2月20日，外交部发言人毛宁主持例行记者会。有记者提问，去年中国汽车出口491万辆，首次跃居世界首位。中国汽车工业协会日前公布的数据显示，今年1月，中国出口汽车44.3万辆，同比增长47.4%，延续了快速增长态势。我们同时也注意到，美方正考虑采用关税以外的方式，限制对中国智能汽车及相关零部件的进口。欧盟也对中国电动汽车发起了反补贴调查。发言人对此有何评论？\n“你提到的有关中国汽车出口的数据，显示了中国制造业的高质量发展和科技创新的活力。”毛宁说，分工合作、互利共赢是汽车产业链的一个显著特点，中国汽车产业的跨越式发展为全球消费者提供了高质量、高性价比的产品。中国每出口三辆汽车，其中就有一辆是电动汽车，这也为全球实现绿色低碳转型作出了积极的贡献。\n对于有关国家对中国采取的贸易保护主义措施，毛宁表示，正如王毅外长指出，把正常的贸易往来泛安全化、泛意识形态化，以“去风险”为名，构筑“小院高墙”，不追求跑得更快，却试图绊倒别人，看似赢了，实则输掉了自己的长远发展，也拖累了世界的进步和繁荣。\n毛宁强调，中方始终认为，各方应当团结而不是分裂，合作而不是对抗，开放而不是封闭。在维护自身利益时兼顾他方利益，在寻求自身发展时促进共同发展，为经贸合作创造国际化、市场化、法治化的环境，推动经济全球化向着更加普惠包容的方向发展。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26402458",
+          "publishedOn": "2024-02-20T12:53:04.000Z",
+          "wordCount": 38,
+          "title": "中方回应美欧对华电动车举措：有关国家看似赢了，实则输掉了长远发展",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26405017",
+          "author": null,
+          "description": "国家知识产权局网站显示，近日，清华大学申请的“一种定制化多主体文生视频方法、装置、设备及介质”专利公布，发明人为王鑫；朱文武；陈虹。摘要显示，该申请涉及神经网络技术领域，通过多种损失对文生视频模型的参数进行优化，使优化的模型基于文本描述生成视频中的图像时，文本描述与定制化主体保持一致，且在每个主体在生成过程中的特征不会发生混淆的同时消除合成痕迹。（@中国新闻网）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26405017",
+          "publishedOn": "2024-02-20T12:23:03.000Z",
+          "wordCount": 32,
+          "title": "清华大学文生视频专利公开",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26405227",
+          "author": null,
+          "description": "2月20日，据深交所互动易网站消息，国投智能（厦门）信息股份有限公司（国投智能，300188.SZ）在平台回应投资者提问称，公司的AI-3300 “慧眼”视频图像鉴真工作站，支持Sora的生成视频识别和鉴定。公司密切关注相关技术的发展，将根据市场需求情况，适时研发并布局相关产品和服务。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26405227",
+          "publishedOn": "2024-02-20T12:23:03.000Z",
+          "wordCount": 38,
+          "title": "国投智能：AI-3300 “慧眼”视频图像鉴真工作站支持Sora的生成视频识别和鉴定",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26401735",
+          "author": null,
+          "description": "国产飞机再获56架新订单！\n2月20日，澎湃新闻记者获悉，在亚洲最大规模航空展新加坡航展开幕当天，西藏航空与中国商飞签署40架C919高原型和10架ARJ21高原型飞机订单。河南航投与中国商飞签署6架ARJ21衍生机型订单，包含ARJ21灭火机、ARJ21医疗机和ARJ21应急救援指挥机。\n西藏航空方面表示，此次50架国产大飞机高原型的飞机订单，不仅是国产大飞机高原型的全球首批订单，更意味着中国民用大飞机制造技术正式向高高原环境常态化运行发起冲击。\n据悉，C919高原型是C919飞机系列化发展的重要机型之一，在C919基本型的基础上，通过缩短机身和实施高原改装满足高原地区运输要求。座位数为140-160座，起降性能满足中国区域内全部高高原机场。ARJ21高原型最大起降高度14500英尺，具备良好的高原机场起降性能和抗侧风能力，能够覆盖中国区域内大部分高高原机场。ARJ21灭火机可以快速响应火情、精准定位火区、高效灭火，兼顾日常空中监测预警以及通勤出行。ARJ21医疗机具备航空医疗救援和医疗转运等功能，可用于病患转运、传染病转运和重症急救。ARJ21应急救援指挥机能够实现对灾情的态势感知、指挥决策和调度处置，可用于空域指挥、应急救援指挥和救援力量运送、建立灾区临时通信网络等。\n按照民航局相关规定，海拔在1500米以上修建的机场为“高原机场”，海拔在2438米以上修建的机场为“高高原机场”。由于“高高原机场”的运行环境相对于一般机场要复杂许多（包括天气、地形、气压和人员高原反应等多方面因素），所以民航局对高高原机场的运行限制极为严格，对于飞机的选择则是要求必须使用具有较好高原性能的高原型飞机执飞。目前，世界民航公认的这部分机型当中暂无“中国制造”。\n值得注意的是，除了参与订购外，西藏航空还参与高原型国产大飞机的研制。\n西藏航空方面透露，2023年12月，西藏航空与中国商飞公司在上海签署了一揽子战略合作框架协议，双方宣布将联合研制C919高原型和ARJ-21高原型飞机。西藏航空作为国内首家高高原航空公司，在西藏、云南、青海等高原和高高原航线占比丰富，区域市场份额优势明显。十多年来，西藏航空在高高原航线的安全运营积累了大量的运行数据和关键经验，将全部应用到国产大飞机高原型的研制当中。\n此次新加坡航展期间，包括中国东航C919在内的中国商飞生产的5架国产飞机将与公众见面，首次在海外“组团”亮相。C919大型客机是我国首次按照国际通行适航标准自行研制、具有自主知识产权的喷气式干线客机，采用单通道窄体布局，座级158至168座，航程4075至5555公里。\n今年C919产能将持续扩大，交付也将进一步提速，多家航司此前曾称今年将陆续接收国产大飞机。\n1月24日，上海市人大代表、中国商用飞机有限责任公司党委常委、副总经理张玉金在上海两会现场接受澎湃新闻记者独家采访时透露，今年预计C919产能将继续逐步扩大，稳步增长，实现“多快好”生产；同时，计划在三至五年内，投入几百亿元用于扩大产能。\n今年，民航还将推动C919国产民机走出国门。1月4日，2024年全国民航工作会议中指出，今年，民航将做好C919、ARJ21证后管理，做好C919、ARJ21改型优化适航审查，推动国产民机性能持续提升；做好CJ-1000A、AG600等国家重点型号审定，推进C919飞机EASA认可审查，推动国产民机走出国门。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26401735",
+          "publishedOn": "2024-02-20T11:53:04.000Z",
+          "wordCount": 41,
+          "title": "中国商飞斩获56架国产飞机订单，包括40架C919高原型",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26395040",
+          "author": null,
+          "description": "2月19日，沈晓明主持召开为基层减负赋能专题座谈会。\n\n据新湖南客户端报道，2月19日上午，湖南省委书记沈晓明主持召开专题座谈会，围绕为基层减负赋能这一主题听取各方面意见建议，进一步推动解决困扰基层的形式主义官僚主义问题，让基层有更多时间和精力谋实事干实事。\n\n座谈会现场。\n\n座谈会上，沈晓明提出全省各级各部门要提高政治站位，深入检视剖析在思想观念和工作作风等方面存在的偏差，向困扰基层的形式主义官僚主义问题开刀，推动为基层减负赋能取得新的更大成效。\n沈晓明强调，要坚持问题导向，聚焦“减负”和“赋能”两个关键词发力。“减负”重在减形式主义、减官僚主义、减层层加码，将为基层减负各项措施落到实处。“赋能”重在解决“权责不匹配”的问题，推动资源资金、管理权限、人财物等向基层一线倾斜，促进事和权相统一。要着力研究解决问责泛化等问题，加大对基层干部的关心关爱力度，“好事”多让他们去做、“好人”多让他们去当，让基层干部少一些“为难”、多一些资源，使他们做群众工作更有号召力。无论是“减负”还是“赋能”，都要坚持实事求是，注重在根源上下功夫，更好推动解决各类问题。\n\n沈晓明讲话。\n\n沈晓明强调，要坚持目标导向，通过减负赋能进一步夯实基层基础。要以思想解放引领和推动基层治理创新，更好促进基层治理水平提升。要以习近平新时代中国特色社会主义思想武装基层党员干部头脑，推动基层党组织全面进步、全面过硬，着力增强基层党组织政治功能和组织功能，充分发挥基层党组织战斗堡垒作用。要用好改革创新关键一招，进一步完善重视基层、关心基层、支持基层的体制机制，积极采取措施让基层干部更有干劲和奔头。\n沈晓明指出，全省各级党委（党组）要切实履行主体责任，把为基层减负赋能摆在突出位置，“一把手”要亲自抓，着力解决工作中的难点堵点问题。各专项工作机制要发挥统筹协调、牵头抓总、推动落实作用，对“两个主义”问题进行动态监测，紧盯不放督促问题整改。各有关部门要加强工作协同和信息共享，形成齐抓共管的强大合力。各级纪检监察机关要把为基层减负作为监督执纪的重点内容，督促落实中央八项规定精神和省委“十二个不得”措施，让基层干部有更多的时间和精力谋实事、干实事。\n此前，2月1日，湖南省委召开的2023年度市州和省直行业系统党（工）委书记抓基层党建工作述职评议会议指出，要持续为基层松绑、减负、放权、赋能，引导和支持广大基层党员干部敢闯敢干、真抓实干。湖南日报全媒体评论员文章指出，这是一项“一手抓思想解放、一手抓贯彻落实”的基础性工作。\n2月2日下午，沈晓明在湖南省委常委会会议上提出，要把为基层减负赋能摆在全局工作重要位置、作为政治监督重点，发挥各级专项工作机制牵头抓总作用，推动深入整治形式主义官僚主义、为基层松绑减负赋能取得实质性成效。\n\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.run",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26395040",
+          "publishedOn": "2024-02-20T11:53:04.000Z",
+          "wordCount": 48,
+          "title": "湖南推动为基层减负赋能：让基层干部少一些“为难”、多一些资源",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26395086",
+          "author": null,
+          "description": "中新网北京2月20日报道，2024年春节档（2月10日—2月17日）档期总票房破80亿，打破中国影史春节档票房纪录！与此同时，今年春节档破天荒出现4部电影接连撤档，分别是《我们一起摇太阳》《黄貔：天降财神猫》《红毯先生》和《八戒之天蓬下界》。这不禁令人发问：冰火交融的龙年春节档，到底发生了什么？\n\n图为江西赣州一电影院摆放的春节档相关电影宣传物料吸引民众观看。刘力鑫 摄\n\n最火爆春节档连破纪录\n票房、口碑超出预期\n据中国国家电影局初步统计，2024年春节假期全国电影票房为80.16亿元，观影人次为1.63亿，相比2023年春节假期票房和人次分别增长了18.47%和26.36%，均创造了同档期新纪录。\n灯塔专业版数据分析师陈晋向中新网记者介绍称，龙年春节档票房排名前四位的电影《热辣滚烫》《飞驰人生2》《熊出没·逆转时空》《第二十条》，单片档期票房均超过12亿，合计占档期大盘票房97.5%。\n他指出，上述四部电影成绩亮眼，其中《热辣滚烫》连续6天票房超过3亿，并夺得票房日冠；《飞驰人生2》获得春节档首日票房冠军，累计票房大幅超过前作《飞驰人生》的票房成绩，创造了韩寒导演的电影票房新高；《熊出没·逆转时空》仅用时不到4天，就打破了由《熊出没·伴我“熊芯”》保持的春节档动画片档期票房纪录；《第二十条》长尾票房强劲，在春节档内实现3次单日票房逆跌。\n影评人严蓬（电子骑士）持同样观点，他表示，今年春节档票房及口碑总体来说超出预期。据其观察，截至目前上述四部电影的票房，均超出上映前各平台给出的预期票房。“虽然今年春节档较以往多出一天，但整体来看已经比前两年的春节档好了很多，算是超出预期。”\n此外，中国电影观众满意度调查2024年春节档调查结果显示，春节档观众满意度得分85.9分，为2015年以来调查9个春节档的第二名。\n档期调查的8部影片中有4部超85分（《飞驰人生2》86.2分、《第二…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26395086",
+          "publishedOn": "2024-02-20T11:53:04.000Z",
+          "wordCount": 64,
+          "title": "4部电影接连撤档，春节档为何冰火两重天？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26402423",
+          "author": null,
+          "description": "2024年春运尾声，风沙与暴雪挡住了甘肃进入新疆的关隘星星峡。\n最低能见度不足20米，路面积雪5公分，从2月17日下午5时30分，交警部门对连霍高速甘肃酒泉辖区进疆方向车辆实施交通管制。而这段高速附近的瓜州县，滞留了大批被“挤下”高速的车辆和旅客。\n瓜州县地处河西走廊西端，与新疆哈密市接壤，过境的连霍高速是内地进入新疆的重要陆路高速通道。\n据“瓜州发布”微信公号，截至2月18日13时11分，瓜州县城共安置滞留旅客约2.5万余人，分别在酒店、学校、体育馆、社区党群服务中心、养老院等93个临时安置点和居民家中。\n教师卢志锋所在的瓜州二中是此次的安置点之一。他印象中，四五年前也有过类似的滞留情况发生，“但不像这次这么突然，这么集中。”\n那么，一座13万人的小城，一夜之间涌入2.5万名滞留旅客，发生了什么？\n被风雪阻断的归途\n春运返程，陈锦鹏夫妇带着60多岁的老人，两个八九岁的孩子，一路从广东佛山开车回新疆吐鲁番打工，一路途经湖南、湖北、河南、陕西、甘肃。正常情况下，他们会在2月18日凌晨一两点到吐鲁番。\n但到2月17日晚上9点，他们行至312国道，突遇风沙叠加降雪，交通受阻。交警和当地政府部门工作人员劝说他，“要不现在去瓜州，带着老人、孩子，那边肯定会接待你们。”\n在极端天气之下，据“瓜州发布”，瓜州县调集警力，采取巡逻巡查、限速限行、分流引导、鸣笛喊话、警车带道等措施，对高速滞留车辆进行疏导，并引导滞留车辆和群众尽快从就近收费站驶离高速公路或在高速公路服务区停车，避免发生危险。\n\n2月17日下午，高速口的车辆进入瓜州。(00:12)\n到了瓜州高速口，有志愿者主动上前问陈锦鹏，“你们是今天（滞留）的人员吗？”那时下着雪，陈锦鹏看到志愿者会每辆车挨过去问，询问对方是否需要提供帮助。他发现，志愿者给前面一些车辆人员指了瓜州二中、瓜州四中、老人活动中心等去处；又注意到他们一行人有老人和…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26402423",
+          "publishedOn": "2024-02-20T11:53:04.000Z",
+          "wordCount": 80,
+          "title": "13万人的瓜州县一夜来了2.5万人",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26404158",
+          "author": null,
+          "description": "当地时间2024年2月20日，大华股份与沙特公共投资基金（PIF）的全资子公司Alat埃耐特在沙特阿拉伯首都利雅得达成战略合作，双方共同成立合资公司——Alat AIVisio技术有限公司（AIVisio），总投资约2亿美元，在沙特设立全自动化、先进的全球智能制造中心，共同探索智慧城市、智能交通、智慧建筑、智慧教育等城市基础设施领域的发展合作。（大华股份微信公号）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26404158",
+          "publishedOn": "2024-02-20T11:53:04.000Z",
+          "wordCount": 34,
+          "title": "大华股份与沙特Alat埃耐特达成战略合作，设立海外首个合资制造中心",
+          "imageUrl": null
+        },
         {
           "id": "https://www.thepaper.cn/newsDetail_forward_26402555",
           "author": null,
@@ -12198,46 +12378,6 @@
           "wordCount": 32,
           "title": "云南镇雄县发生山体滑坡，应急管理部启动地质灾害三级应急响应",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_26095815",
-          "author": null,
-          "description": "1月22日，恒生指数午盘跌1.99%，报15004.77点，恒生科技指数跌2.46%报3052.88点，恒生中国企业指数跌1.95%报5027.31点。大市半日成交额为522.69亿港元，南向资金净流入10.08亿港元。盘面上，地产领跌，金融走低，华润置地、绿城中国、九龙建业均跌逾8%；消费、医疗、汽车尽墨，零跑汽车下探9%，蔚来、海底捞、哔哩哔哩下滑6%。\n行业板块全线下跌，房地产、医疗保健设备与服务、媒体、消费者服务、汽车与汽车零部件、材料跌逾3%，制药、生物科技与生命科学跌逾2%。\n\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.run",
-          "link": "https://www.thepaper.cn/newsDetail_forward_26095815",
-          "publishedOn": "2024-01-22T04:23:04.000Z",
-          "wordCount": 32,
-          "title": "恒指跌1.99%，科指跌2.46%",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_26095983",
-          "author": null,
-          "description": "1月22日，记者从交通运输部路网中心获悉，截至今日8时，受降雪及路面结冰影响，山西、内蒙古、吉林、黑龙江、浙江、江西、山东、河南、湖北、湖南、广东、重庆、四川、贵州、云南、陕西、新疆共封闭路段170个，关闭收费站1304个，恢复通行时间待定。（央视新闻）",
-          "link": "https://www.thepaper.cn/newsDetail_forward_26095983",
-          "publishedOn": "2024-01-22T04:23:04.000Z",
-          "wordCount": 32,
-          "title": "受降雪结冰影响，全国多地共封闭170个路段、关闭千余收费站",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_26092378",
-          "author": null,
-          "description": "如何改善儿童进入异性专用场所的现状？张玉霞委员带来建议。澎湃新闻融媒轻骑兵 陈斯斯 邹桥 陈悦 何羽茜(01:00)\n“近年来，因家长带异性儿童随意进入厕所、浴室、更衣室等场所而引发争议的现象屡见不鲜，这一行为并不利于孩子树立正确的性别意识，也会侵犯其他使用者的基本人权，尴尬之余还会陷入道德困境。”2024年上海两会期间，上海市政协委员张玉霞在接受澎湃新闻（www.thepaper.cn）记者采访时表示。\n\n张玉霞介绍，她提交了一份《关于改善儿童进入异性专用场所现状的建议》，这一提案的提出，源自上海市奉贤中学学生开展的一项调研。这也引发了张玉霞的思考，她在调研基础上形成一份提案，带到了上海两会。 \n“目前这方面的政策条例不够完善，调研发现，在不同的异性专用场所，不同人群可接受进入的异性儿童的年龄上限有所差异。观念不同往往会引发冲突，而目前针对几岁以上孩子能否进入异性专用场所也缺乏统一标准。”张玉霞进一步解释，当前在很多地区，无性别空间尚未完全普及，而亲子更衣室等无性别空间相较于第三卫生间数量更少。已建成的无性别空间存在建设不规范、设施不完善、缺少满足各类人群需要的物品等各类问题，加之管理维护不当，使其体验感不断变差，恶性循环。\n张玉霞同时表示，目前，公众对于无性别空间的认知素养仍处于较低水准，而相关科普宣教工作并不到位，导致无性别空间不能发挥其实际价值。同时，儿童性教育的到来常明显晚于其性别意识的产生。在幼童阶段，家庭与幼儿园并没有广泛开展适宜此年龄段儿童的性教育，其内容与质量也没有统一规范，工作落实并不到位。\n对此，张玉霞建议，更新完善法律法规，制定关于儿童进入异性场所的年龄限制，并予以宣传，如规定禁止5岁以上儿童进入异性卫生间、3岁以上儿童进入异性更衣室、浴室。同时，制定各类公共场所中无性别空间的国家标准，完善公共设施配备。\n此外，她还建议，充分利用现有资源、改善优化已有设施。如合理规划并提高空间利用率，全方位、多角度增设无性别空间，最大化提升无性别空间普及率；在无法设置无性别空间的情况下，公共场所工作人员应提供人力辅助，进行临时调动，提供临时性无性别空间，或者安排同性别人员予以陪同；根据各类人群需求配备物品，并设置浅显易懂的指引标识等。\n最后，张玉霞还提出家校联合开展性别教育，增强孩子的个体性别意识，建议教育部门能尽快将性别教育纳入基础教育体系，规范教育内容与质量，同时建议有关部门依托各平台推动无性别空间使用、性别意识教育宣传，提高公众认知度，加强正面舆论引导。\n\n白浪 设计\n\n \n\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.run",
-          "link": "https://www.thepaper.cn/newsDetail_forward_26092378",
-          "publishedOn": "2024-01-22T03:53:05.000Z",
-          "wordCount": 68,
-          "title": "两会之声｜男童进女厕引争议？委员建议限制儿童年龄、增设无性别空间",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_26095514",
-          "author": null,
-          "description": "据云南省镇雄县“1.22”山体滑坡灾害处置指挥部消息，22日5时51分，镇雄县塘房镇凉水村合兴村民小组、和平村民小组发生一起山体滑坡。据初步核查，灾害共造成18户47人失联。\n灾害发生后，省、市、县立即启动应急响应。截至22日10时30分，紧急转移群众500余人，组织救援力量300余人，调集各类救援设备50余台（辆）投入救援，搜救工作正紧张有序开展。\n另据@央视新闻 消息，昨夜当地遭遇较大降雪，目前降雪有所减小但仍在持续，最高温仅0℃左右。发生山体滑坡的两个村民小组房屋沿山腰至山脚分散修建，海拔落差较大，山高坡陡。目前，更多救援力量还在集结奔赴现场。盼平安！",
-          "link": "https://www.thepaper.cn/newsDetail_forward_26095514",
-          "publishedOn": "2024-01-22T03:53:05.000Z",
-          "wordCount": 34,
-          "title": "云南昭通镇雄山体滑坡致18户47人失联，搜救现场仍在下雪",
-          "imageUrl": null
         }
       ]
     },
@@ -12246,6 +12386,116 @@
       "feedUrl": "https://www.nationalreview.com/feed/",
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1600852",
+          "author": "James Lynch",
+          "description": "Gershkovich, 32, is considered by the U.S. government to be wrongfully detained by Russia.",
+          "link": "https://www.nationalreview.com/news/russian-court-upholds-evan-gershkovichs-detention-ensuring-journalist-will-remain-in-prison-past-one-year-mark/",
+          "publishedOn": "2024-02-20T16:03:00.000Z",
+          "wordCount": 8273,
+          "title": "Russian Court Upholds Evan Gershkovich’s Detention, Ensuring Journalist Will Remain in Prison Past One-Year Mark",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/04/top-shots-042123-27.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1600842",
+          "author": "Marco Rubio",
+          "description": "Republicans are poised to turn the CTC into a welfare program, just as the Democrats have always wanted it to be.",
+          "link": "https://www.nationalreview.com/2024/02/families-deserve-better-than-democrats-child-tax-credit/",
+          "publishedOn": "2024-02-20T15:47:25.000Z",
+          "wordCount": 8741,
+          "title": "Families Deserve Better Than Democrats’ Child ‘Tax Credit’",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/10/Family-Voting.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1600835",
+          "author": "Madeleine Kearns",
+          "description": "The problem with the transgender activist’s funeral in New York wasn’t who but how.",
+          "link": "https://www.nationalreview.com/2024/02/sacrilege-in-the-cathedral-how-st-patricks-was-set-up/",
+          "publishedOn": "2024-02-20T15:19:03.000Z",
+          "wordCount": 9167,
+          "title": "Sacrilege in the Cathedral: How St. Patrick’s Was Set Up",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/02/St-Patricks-Catholic-Cathedral.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1600797",
+          "author": "James Lynch",
+          "description": "The ruling was issued in response to two wrongful death lawsuits brought by IVF patients.",
+          "link": "https://www.nationalreview.com/news/alabama-supreme-court-rules-frozen-embryos-are-children-under-state-law/",
+          "publishedOn": "2024-02-20T14:07:14.000Z",
+          "wordCount": 7963,
+          "title": "Alabama Supreme Court Rules Frozen Embryos Are Children under State Law",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/02/Alabama-Supreme-Court.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1600803",
+          "author": "Abigail Anthony",
+          "description": "The post included a drawing of a hand with the Star of David and a dollar sign holding ropes around the necks of two non-white men.",
+          "link": "https://www.nationalreview.com/news/despicable-messages-harvard-investigating-faculty-staff-students-for-sharing-antisemitic-cartoon/",
+          "publishedOn": "2024-02-20T13:33:33.000Z",
+          "wordCount": 8277,
+          "title": "‘Despicable Messages’: Harvard Investigating Faculty, Staff, Students for Sharing Antisemitic Cartoon",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2020/07/Harvard.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1599820",
+          "author": "Haley Strack",
+          "description": "‘Volunteering known information about a student’s sexuality with parents is not advised,’ one policy manual states.",
+          "link": "https://www.nationalreview.com/news/utah-school-districts-discourage-teachers-from-informing-parents-of-student-gender-transitions/",
+          "publishedOn": "2024-02-20T13:02:11.000Z",
+          "wordCount": 8008,
+          "title": "Utah School Districts Discourage Teachers from Informing Parents of Student Gender Transitions",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2022/04/teacher-students-classroom.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1600449",
+          "author": "Ari Blaff",
+          "description": "The White House rushed to distance itself from CAIR after Awad’s 10/7 comments, but the remarks are totally in keeping with the group’s history.",
+          "link": "https://www.nationalreview.com/news/cair-leaders-praise-for-palestinian-terror-should-come-as-no-surprise/",
+          "publishedOn": "2024-02-20T11:30:58.000Z",
+          "wordCount": 10940,
+          "title": "CAIR Leader’s Praise for Palestinian Terror Should Come as No Surprise",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/02/Nihad-Awad-Speaking.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1600642",
+          "author": "Neal B. Freeman",
+          "description": "Enduring affection for the former because of his imperfections is difficult to comprehend; enduring affection for the latter despite his imperfections is far more sensible.",
+          "link": "https://www.nationalreview.com/2024/02/faqs-about-donald-trump-and-william-buckley/",
+          "publishedOn": "2024-02-20T11:30:41.000Z",
+          "wordCount": 12603,
+          "title": "FAQs about Donald Trump and William Buckley",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/02/wfb-1969.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1600578",
+          "author": "Noah C. Gould",
+          "description": "They have created false signals to incentivize car makers to push EVs at a faster rate than the market can handle.",
+          "link": "https://www.nationalreview.com/2024/02/blame-government-subsidies-for-the-electric-vehicle-bubble/",
+          "publishedOn": "2024-02-20T11:30:34.000Z",
+          "wordCount": 16615,
+          "title": "Blame Government Subsidies for the Electric-Vehicle Bubble",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/02/lucid-cars-california.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1600534",
+          "author": "Matthew Lau",
+          "description": "Families are facing dwindling options, wait lists are exploding, and Trudeau-government regulation is impeding the necessary growth of supply.",
+          "link": "https://www.nationalreview.com/2024/02/canadas-child-care-mess/",
+          "publishedOn": "2024-02-20T11:30:28.000Z",
+          "wordCount": 8897,
+          "title": "Canada’s Child-Care Mess",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/02/justin-trudeau-child-care-canada.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1600717",
+          "author": "Rich Lowry",
+          "description": "Starving our ally of aid could end the war — on terms unfavorable to the West.",
+          "link": "https://www.nationalreview.com/2024/02/it-doesnt-make-sense-to-abandon-ukraine/",
+          "publishedOn": "2024-02-20T11:30:21.000Z",
+          "wordCount": 8985,
+          "title": "It Doesn’t Make Sense to Abandon Ukraine",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/02/ukrainian-tank-snow.jpg?fit=2057%2C1200&ssl=1"
+        },
         {
           "id": "https://www.nationalreview.com/?post_type=blog-post&p=1600699",
           "author": "Brittany Bernstein",
@@ -16845,46 +17095,6 @@
           "wordCount": 13463,
           "title": "How the <I>Washington Post</I> Abandoned Basic Journalistic Standards Covering the Israel–Hamas War",
           "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/01/israel-war-012124-6.jpg?fit=1200%2C700&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1589510",
-          "author": "Audrey Fahlberg",
-          "description": "‘It would be nice if she could win, but I don’t think she’s going to,’ Curtis Lane, a right-leaning independent voter from Dover, told NR.",
-          "link": "https://www.nationalreview.com/news/haley-supporters-skeptical-she-can-pull-out-a-win-in-new-hampshire/",
-          "publishedOn": "2024-01-22T01:49:55.000Z",
-          "wordCount": 9320,
-          "title": "Haley Supporters Skeptical She Can Pull Out a Win in New Hampshire",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/01/nikki-haley-supporters-nh.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1589629",
-          "author": "Luther Ray Abel",
-          "description": "The area around the restaurant is the most crime-afflicted location in Oakland, according to police data.",
-          "link": "https://www.nationalreview.com/news/in-n-out-forced-to-shutter-oakland-location-because-of-crime-burger-companys-first-ever-store-closing/",
-          "publishedOn": "2024-01-22T00:36:56.000Z",
-          "wordCount": 8667,
-          "title": "In-N-Out Forced to Shutter Oakland Location Because of Crime, Burger Company’s First-Ever Store Closing",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/01/in-n-out-restaurant.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1589621",
-          "author": "John Fund",
-          "description": "If the history of 1968 repeats itself, Democrats’ pent-up concerns about the president’s electability will burst out in the open.",
-          "link": "https://www.nationalreview.com/2024/01/will-biden-trip-up-in-new-hampshires-primary-the-way-lbj-did/",
-          "publishedOn": "2024-01-21T23:30:15.000Z",
-          "wordCount": 9505,
-          "title": "Will Biden Trip Up in New Hampshire’s Primary the Way LBJ Did?",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/01/joe-biden-raleigh-north-carolina.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1589598",
-          "author": "Brittany Bernstein",
-          "description": "Trump’s campaign slammed his only remaining rival, Nikki Haley, as the ‘candidate of the globalists’ in its Sunday statement.",
-          "link": "https://www.nationalreview.com/news/trump-honored-by-desantis-endorsement-urges-party-to-unite-behind-him-after-florida-governors-exit/",
-          "publishedOn": "2024-01-21T21:37:01.000Z",
-          "wordCount": 8851,
-          "title": "Trump ‘Honored’ by DeSantis Endorsement, Urges Party to Unite behind Him after Florida Governor’s Exit",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/01/Trump-and-DeSantis.jpg?fit=2057%2C1200&ssl=1"
         }
       ]
     },
@@ -16893,6 +17103,26 @@
       "feedUrl": "https://sspai.com/feed",
       "siteUrl": "https://sspai.com",
       "articles": [
+        {
+          "id": "https://sspai.com/post/86538",
+          "author": "Matrix机器人",
+          "description": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意以及社区产品动态呈现给大 ...查看全文",
+          "link": "https://sspai.com/post/86538",
+          "publishedOn": "2024-02-20T09:05:11.000Z",
+          "wordCount": 772,
+          "title": "社区速递 032 | 写小说利器、被盗版以及春节照片后的故事",
+          "imageUrl": "https://cdn.sspai.com/2/20/2024/article/be028d58-0f54-10f0-8e5a-268f26b58603.jpg"
+        },
+        {
+          "id": "https://sspai.com/prime/story/lighting-design-for-rented-properties",
+          "author": "宛潼",
+          "description": "白色长条的日光灯是不少人童年中的记忆。而随着经济发展和审美水平的普遍提高，我们对于光的期许，也从单纯的照亮夜晚变成了营造氛围，单一、无法调节的白色照明已经无法满足我们的需求。\n但灯光配置对许多人来说也是一个难题。如果是自己购置的新房，还可以根据自己的喜好和家装设计师的方案来动态选择，但并非人人都有这样的前置条件。面对几乎无法改动硬装的租房，就必须忍受无法改变的「一片死白」了吗？\n并不是如此。我这几年一直在租房环境下探索「无主灯」式的布置思路，一路上积攒了不少经验。事实表明，即便是有主灯的设计，也可以通过一些小巧思转变为无主灯的效果，而且不用涉及到硬装改造，或者能够还原。\n如果你也想给自己打造一个合适好用的环境光，不妨跟着我的思路一起探索，或许会对你有所启发。\n\n    刚搬进来时候的样子\n\n\n文中提及的灯具汇总\n这里整理了我家里目前用的一些灯具，以偏黑白灰 + 木纹的中古简约风为主。仅供参考，你可以直接「抄作业」，也可以根据自己的审美和需求来调整。\n分类\n                产品\n                说明\n            \n可换灯泡\n                \n                    \n宜家索尔克林台灯\n宜家安卡派落地灯\n一个后续会换掉的奶油风吊灯\n淘宝随便买的一个台灯灯罩\n均搭配 Nanoleaf Essentials E27（Thread 版）灯泡使用\n            \n智能灯具\n                \n                    \nAqara 幻彩吸顶灯 T1；\nAqara 吸顶灯 T1；\nYeeLight Pro 屏幕挂灯；\nYeeLight 灯带；\n自己 DIY 的偏置照明灯条；\n飞利浦智睿球泡灯；\n均接入 HA 并桥接到 HomeKit 控制\n            \n非智能灯具\n                \n                    \n轨道灯\n双头射灯\n通过 Aqara S1E 开关接入智能控制。\n具体型号不做推荐，可以根据个人需要选择灯的数量和轨道长度等，但也别忘了重点关注频闪、Ra 值和色温\n「好灯光」是什么？\n目前的租房市场里，绝大部分的照明系统还秉承着「有了且能用就行」的原则，依旧被日光灯、单色白光吸顶灯占据主流。一旦它们开始工作，就会完全不考虑你的感受，毫不客气地、硬生生地把刺眼的白光塞满整个房间。\n所以，与之相对的，就是我对「租房好灯光」的定义：\n只照亮该照亮的位置，既能覆盖全屋，也能只点亮几个角落；\n拒绝纯粹的白光，给自己更多的颜色、亮度和色温选择权；\n灯光的显色指数达到 Ra90 以上，无可见频闪，视觉上观感舒服不刺眼。\n是不是有点熟悉？其实这也是无主灯照明的核心要义。但在租房环境下，由于无法做一些破坏性的装修，房屋的硬装、电网布局和灯具孔位都受到了严格限制，还要考虑搬家的带走和复原的需要，传统方案里常用的壁灯、轨道灯、联排射灯和吊顶灯条就毫无用武之地。\n不过让我们换一种解决的思路和角度 —— 既然上墙和入顶的灯无法使用，那么灵活可移动的落地灯、台灯乃至工作灯，都可以成为照亮环境的选择。这一方案的核心方法论非常简单粗暴：如果不能改变主灯的位置，那么就改变它的「地位」。而具体的实行方法也很简单：\n用更多的可移动的、灵活的灯光（甚至是蜡烛的光也可以）来替代主灯，或者冲淡它的存在感；\n在日常的使用中，更多地开启这些氛围灯具来代替主灯对空间的「无差别照明」。\n基于这些原则，租房的无主灯方案便有了落点。不过在改造开始前，理清自己的需求是先行步骤。千万不要脑子一热买些好看却无法优雅使用的灯具，还是要根据自己的实际环境与照明需求来思考如何安排。\n我家的照明方案\n我租下的房子为将近百平的房一厅布局，为旧村改造的回迁房。选择这个房子相比精装房有更大的好处，一是更加现代且没有「广东省省屋」的内部设计，符合我对房屋的审美，留给我改造的余地较大；二是有较好的弱电布局，方便我能为智能灯具准备好良好的无线网络。\n下面，我将根据我在家里生活的几个空间，来向你介绍我的无主灯照明方案。\n起居室：保留主灯的无主灯设计\n起居室占据的空间约在 25 平左右，开发商给的原始布局是两个白色的吸顶灯，一个位于沙发上方，一个位于餐桌上方。作为会见朋友、生活起居和猫主子的主要活动空间，我的改造目标主要有这些点：\n[......]\n查看全文\n本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
+          "link": "https://sspai.com/prime/story/lighting-design-for-rented-properties",
+          "publishedOn": "2024-02-20T06:52:00.000Z",
+          "wordCount": 1064,
+          "title": "在租来的房子里，我这样搭建怡人的光照",
+          "imageUrl": "https://cdn.sspai.com/2023/11/29/article/77b8f1ae-2510-7dbe-4145-43bc5cac0c8b.jpg"
+        },
         {
           "id": "https://sspai.com/post/86288",
           "author": "化学心情下2",
@@ -17802,26 +18032,6 @@
           "wordCount": 1039,
           "title": "Notion Calendar 上线简评：终于打通 Notion 与日历，却难说完美",
           "imageUrl": "https://cdn.sspai.com/2024/1/19/article/e618226d-1111-695f-9060-891753bba6f6.jpeg"
-        },
-        {
-          "id": "https://sspai.com/post/85883",
-          "author": "果铺知道",
-          "description": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
-          "link": "https://sspai.com/post/85883",
-          "publishedOn": "2024-01-22T03:22:03.000Z",
-          "wordCount": 952,
-          "title": "无限循环：最独特的 Apple Store 上周永久停业，但它的故事不会就此了结",
-          "imageUrl": "https://cdn.sspai.com/2024/01/17/9c5a7001acee04605903aeb850bdae6e.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/85973",
-          "author": "少数派编辑部",
-          "description": "VisionPro上架资讯汇总1月19日，苹果开放了首款空间计算设备VisionPro的预定，暂时仅限美国用户购买，将于2月2日（周五）发货。据分析师郭明錤此前说法，首发备货仅有8万台。开放预订数小时 ...查看全文",
-          "link": "https://sspai.com/post/85973",
-          "publishedOn": "2024-01-22T01:03:35.000Z",
-          "wordCount": 993,
-          "title": "派早报：Vision Pro 上架资讯汇总",
-          "imageUrl": "https://cdn.sspai.com/1/22/2024/article/57e48b8f-9983-81d8-9f31-8d37f8534c32.png"
         }
       ]
     },
@@ -17830,6 +18040,86 @@
       "feedUrl": "https://plink.anyfeeder.com/idaily/today",
       "siteUrl": "https://docs.rsshub.app",
       "articles": [
+        {
+          "id": "https://m.idai.ly/se/93f2rH",
+          "author": null,
+          "description": "NASA 公布一张 JWST 太空望远镜拍摄的鲸鱼座「NGC 1087」螺旋星系红外合成照片，清晰呈现星系中的气体和尘埃细节。该星系距离地球约8000万光年，具有明显的旋臂结构和中央恒星带，红色和橙色区域为气体和尘埃，中央亮红色区域可能存在一个超大质量黑洞，星系旋臂外围的蓝色光点是新诞生的恒星。摄影师：NASA",
+          "link": "https://m.idai.ly/se/93f2rH",
+          "publishedOn": "2024-02-20T10:59:00.000Z",
+          "wordCount": 1170,
+          "title": "JWST 观测鲸鱼座星系",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.idai.ly/se/7185yF",
+          "author": null,
+          "description": "巴黎埃菲尔铁塔因罢工而临时关闭。2月19日，埃菲尔铁塔运营商工会发起本年度首次罢工活动，抗议巴黎市政府将年度收入分成从1600万欧元提高至5000万欧元。法国财政部本周宣布下调2024年 GDP 增长预期至1%，比前次预期值降低0.4个百分点，主要负面影响因素为地缘政治紧张局势以及主要贸易伙伴经济增速放缓。法国政府还将削减100亿欧元支出，目标将财政赤字占 GDP 比重从4.9%降至4.4%。摄影师：Christian Chesnot。",
+          "link": "https://m.idai.ly/se/7185yF",
+          "publishedOn": "2024-02-20T10:57:00.000Z",
+          "wordCount": 1169,
+          "title": "法国埃菲尔铁塔罢工",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.idai.ly/se/b2dQq3",
+          "author": null,
+          "description": "美国火箭实验室公司 Electron 运载火箭搭载日本 ADRAS-J 太空垃圾监测卫星发射升空，新西兰马希亚半岛。2月19日，日本私营航天公司 Astroscale 宣布首颗太空垃圾监测卫星「ADRAS-J」成功部署至近地轨道。这颗卫星重约150公斤，高1.2米，搭载高性能相机、激光传感器和小型推进引擎，能够近距离追踪拍摄地球轨道漂浮的太空垃圾，本次追踪目标是日本宇航局2009年发射的H2A火箭残骸。摄影师：Rocket Lab",
+          "link": "https://m.idai.ly/se/b2dQq3",
+          "publishedOn": "2024-02-20T10:55:00.000Z",
+          "wordCount": 1169,
+          "title": "日本太空垃圾追踪卫星",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.idai.ly/se/f299t0",
+          "author": null,
+          "description": "日本首相岸田文雄与乌克兰总理出席两国合作文件签署仪式，东京。2月19日，日本主办举行「乌克兰经济复兴推进准备会议」，宣布将支援乌克兰恢复和重建基础设施、恢复日常生活以及产业升级与创新。岸田文雄称日本将在地雷排除、废墟清理、农业发展、能源和交通等7个领域参与乌克兰重建，其中包括158亿日元（约合1亿美元）无偿资金援助。俄乌冲突爆发以来，日本已累计向乌克兰提供超过100亿美元援助，为第4大乌克兰援助国。摄影师：Kazuhiro Nogi",
+          "link": "https://m.idai.ly/se/f299t0",
+          "publishedOn": "2024-02-20T10:53:00.000Z",
+          "wordCount": 1169,
+          "title": "日本举行乌克兰复兴会议",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.idai.ly/se/5e1i0F",
+          "author": null,
+          "description": "俄罗斯外交部长 Sergei Lavrov 向古巴革命英雄何塞·马蒂纪念碑敬献花圈，哈瓦那。2月19日，俄罗斯外长 Lavrov 访问哈瓦那并与古巴国家主席、外交部长举行会谈，重点讨论加强两国政治对话、扩大贸易和投资合作等议题。俄外长指出古巴是俄罗斯在拉美和加勒比地区最重要的盟友，俄方将继续向古巴供应石油等能源物资，敦促美国停止对古巴的非法经济封锁，俄方作为2024年金砖轮值主席国将支持古巴与金砖国家开展合作。2023年1至4月俄罗斯和古巴双边贸易额为1.37亿美元，同比增长约8倍。摄影师：iDaily Media",
+          "link": "https://m.idai.ly/se/5e1i0F",
+          "publishedOn": "2024-02-20T10:51:00.000Z",
+          "wordCount": 1169,
+          "title": "俄罗斯外长访问古巴",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.idai.ly/se/681Y36",
+          "author": null,
+          "description": "莫斯科普希金博物馆工作人员正在布展一幅荷兰文艺复兴时期画家 Otto van Veen 油画《牧羊人的崇拜》（The Adoration of The Shepherds）。2月19日，普希金博物馆首次向公众展出新购入藏品《牧羊人的崇拜》。这幅油画创作于约1600年，主要描绘圣经故事中牧羊人朝拜耶稣基督的场景。Otto van Veen 是文艺复兴时期佛兰芒画派的代表人物，亦是彼得·鲁本斯青年时期的绘画老师。这件新藏品将与鲁本斯画作并列展示，呈现 Otto van Veen 对鲁本斯绘画风格的影响。摄影师：Sergei Ilnitsky",
+          "link": "https://m.idai.ly/se/681Y36",
+          "publishedOn": "2024-02-20T10:49:00.000Z",
+          "wordCount": 1169,
+          "title": "普希金博物馆新馆藏",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.idai.ly/se/0ebl22",
+          "author": null,
+          "description": "纽约植物园举办第21届兰花展。2月17日，纽约植物园兰花展正式开幕，共呈现超过1万株来自全球各地的不同品种兰花。本届展览以「花卉时尚」（Florals in Fashion）为主题，邀请2位时装设计师和1位花艺设计师合作策划，通过服装、手袋、帽子等造型的花卉装置作品向观众展现花卉与时尚的紧密关联。展期将持续至4月21日。摄影师：Selcuk Acar",
+          "link": "https://m.idai.ly/se/0ebl22",
+          "publishedOn": "2024-02-20T10:47:00.000Z",
+          "wordCount": 1169,
+          "title": "纽约植物园兰花展",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.idai.ly/se/51fDvd",
+          "author": null,
+          "description": "日本神户王子动物园，旅日雌性大熊猫「旦旦」在庭院里休憩。旅日大熊猫「旦旦」现年28岁，相当于人类80岁年龄，是日本境内生活的最高龄大熊猫。「旦旦」于1995年9月出生于中国大熊猫保护研究中心，2000年开始旅居日本，原定2020年7月返回中国，但因新冠疫情和心脏病原因推迟回国时间至2024年底。「旦旦」病情从2023年10月出现恶化，食欲和运动量呈下降趋势，目前正在接受治疗并暂停游客参观。摄影师：Yoshiki Yagi",
+          "link": "https://m.idai.ly/se/51fDvd",
+          "publishedOn": "2024-02-20T10:45:00.000Z",
+          "wordCount": 1169,
+          "title": "旅日高龄大熊猫推迟归国",
+          "imageUrl": null
+        },
         {
           "id": "https://m.idai.ly/se/76d4Z8",
           "author": null,
@@ -20038,6 +20328,26 @@
       "siteUrl": "http://nytimes.com",
       "articles": [
         {
+          "id": "https://cn.nytimes.com/world/20240220/navalny-letters-russia/dual",
+          "author": null,
+          "description": "ANTON TROIANOVSKI2024年2月20日周六，在俄罗斯驻法兰克福领事馆附近一处纪念地的鲜花和阿列克谢·纳瓦尔尼的照片。 Michael Probst/Associated Press\nConfined to cold, concrete cells and often alone with his books, Aleksei A. Navalny sought solace in letters. To one acquaintance, he wrote in July that no one could understand Russian prison life “without having been here,” adding in his deadpan humor: “But there’s no need to be here.”\n被囚禁在冰冷的混凝土牢房，时常独自与书为伴的阿列克谢·纳瓦尔尼在书信往来中寻求慰藉。去年7月，他在给一位熟人的信中写道，“没有来过这里”，就无法理解俄罗斯的监狱生活，并以冷幽默补充说，“但没必要来这里”。\n“If they’re told to feed you caviar tomorrow, they’ll feed you caviar,” Mr. Navalny, the Russian opposition leader, wrote to the same acquaintance, Ilia Krasilshchik, in August. “If they’re told to strangle you in your cell, they’ll strangle you.”\n“如果他们接到命令，明天要给你吃鱼子酱，他们就会给你鱼子酱，”俄罗斯反对派领袖纳瓦尔尼在去年8月写给上述熟人伊利亚·克拉西利…",
+          "link": "https://cn.nytimes.com/world/20240220/navalny-letters-russia/dual",
+          "publishedOn": "2024-02-20T09:36:04.000Z",
+          "wordCount": 1672,
+          "title": "绝境中的慰藉与雄心：纳瓦尔尼最后的日子",
+          "imageUrl": "https://static01.nyt.com/images/2024/02/19/multimedia/19navalny-tiktok-01-gcfl/19navalny-tiktok-01-gcfl-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/china/20240220/hong-kong-shenzhen-shopping/dual",
+          "author": null,
+          "description": "艾莎, ZIXU WANG, OLIVIA WANG2024年2月20日\nShuen Chun-wa, 81, and her husband hurried toward a green bus with two dozen other Hong Kong residents, dragging empty suitcases. They had purple tour stickers on their jackets and were headed to shop in Shenzhen, a bustling Chinese city that sits on the northern side of the border with Hong Kong.\n81岁的孙振惠和她的丈夫拖着空行李箱，还有另外20多名香港居民匆匆走向一辆绿色巴士。他们的外套上贴着紫色的旅游团贴纸，准备前往深圳购物。深圳是位于香港边境北侧的繁华中国城市。\nIt was Ms. Shuen’s second trip to Shenzhen to find bargains in a year. Last time, she got dental implants. “You can count how much I need to pay,” she said. She paid $9,000 in Shenzhen for a procedure that would have cost $25,000 in Hong Kong. “I don’t have the money. So I went to Shenzhen.”\n这是孙振惠一年内第二次来深圳淘便宜货。上次她在这里种了牙。“你算算多少钱，”她说。她在深圳花了6.5万元人民币，而在香港则需要18万元。“我没钱，就去深圳做啦。”\nS…",
+          "link": "https://cn.nytimes.com/china/20240220/hong-kong-shenzhen-shopping/dual",
+          "publishedOn": "2024-02-20T08:06:03.000Z",
+          "wordCount": 1485,
+          "title": "“反向消费”潮：香港人北上深圳“买买买”",
+          "imageUrl": "https://static01.nyt.com/images/2024/02/16/multimedia/00hong-kong-shoppers-01-fwht/00hong-kong-shoppers-01-fwht-articleLarge.jpg"
+        },
+        {
           "id": "https://cn.nytimes.com/usa/20240220/chinese-ballot-names-san-francisco/dual",
           "author": null,
           "description": "HEATHER KNIGHT, AMY QIN2024年2月20日2020年，旧金山的中文选票。 Jim Wilson/The New York Times\nHong Le still remembers meeting a charismatic woman campaigning for San Francisco district attorney in 2003. In Cantonese, that woman’s name was 賀錦麗, which is pronounced Ho Gam-lai and means “Congratulate Brocade Beautiful.”\n乐洪（音）还记得2003年在旧金山地方检察官竞选活动中遇到的一位魅力四射的女参选人。这位女士的粤语名字是贺锦丽，读作Ho Gam-lai，意思是“祝贺美丽的锦绣”。\nMost Americans know her by another name: Kamala Harris.\n大多数美国人都知道她的另一个名字：卡玛拉·哈里斯。\n“She’s the vice president right now,” Mr. Le, 88, said in Cantonese. “And she deserves it.”\n“她现在是副总统，”88岁的乐洪用粤语说。“她当之无愧。”\nIn San Francisco, where more than a fifth of residents are of Chinese descent, politicians have long taken a second name in Chinese characters. And any serious candidate knows to order campaign materials in En…",
@@ -20666,26 +20976,6 @@
           "wordCount": 1591,
           "title": "金正恩真的计划对韩国发动战争吗",
           "imageUrl": "https://static01.nyt.com/images/2024/01/20/multimedia/00nkorea-assess-01-vmhw/00nkorea-assess-01-vmhw-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/world/20240122/taiwan-united-states-views/dual",
-          "author": null,
-          "description": "DAMIEN CAVE, AMY CHANG CHIEN2024年1月22日台湾各地都有向美国示好的标志，比如台北的这个。 \nThe collection of American memorabilia, vast and well-lit in a busy area of City Hall in the southern Taiwanese city of Tainan, reflected decades of eager courtship. Maps highlighted sister cities in Ohio and Arizona.\n台南市政中心一个灯光明亮、人来人往的地方陈列着大量来自美国的纪念品，反映了几十年来的热切示好。地图上突出标出了台南在美国俄亥俄州和亚利桑那州的姐妹城市。\nThere was a celebration of baseball, an American flag laid out on a table. And in the middle of it all, a card sent to the United States that seemed to reveal the thinking of Tainan, a metropolis of 1.8 million, and nearly all of Taiwan.\n有棒球庆祝活动，还有一面平放在桌子上的美国国旗。展品中还有一张寄往美国的明信片，上面的信息似乎揭示了大都市台南180万人，乃至几乎所有台湾人的想法。\n“Together, stronger,” it said. “Solidarity conquers all.”\n明信片上写到：“团结就是力量，团结战胜一切。”\nThe message was aspirational — a graphic illust…",
-          "link": "https://cn.nytimes.com/world/20240122/taiwan-united-states-views/dual",
-          "publishedOn": "2024-01-22T04:36:01.000Z",
-          "wordCount": 2010,
-          "title": "拜登的承诺能兑现吗？台湾民众对美国疑虑与不安加剧",
-          "imageUrl": "https://static01.nyt.com/images/2024/01/17/multimedia/00taiwan-US-01-jvgb/00taiwan-US-01-jvgb-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/business/20120122/c00appleone/dual",
-          "author": null,
-          "description": "CHARLES DUHIGG, KEITH BRADSHER2012年1月22日2010年中国河南省的一个工作招聘会上，应聘者蜂拥在富士康科技公司的展台前。 Donald Chan/Reuters\nWhen Barack Obama joined Silicon Valley’s top luminaries for dinner in California last February, each guest was asked to come with a question for the president.\n去年2月 ，巴拉克·奥巴马在加州与硅谷的各位顶尖名人共进晚餐。按照这次晚宴的规矩，每位客人都得向总统提一个问题。\n在中国，林丽娜（音）是PCH International的一个项目经理。该公司和苹果签有合同。\"有很多工作机会，\"她说。“特别是在深圳。”\nBut as Steven P. Jobs of Apple spoke, President Obama interrupted with an inquiry of his own: what would it take to make iPhones in the United States?\n然而，轮到苹果公司的史蒂芬·P·乔布斯(Steven P. Jobs)说话的时候，奥巴马总统却用自己的问题打断了他：要在美国生产iPhone的话，需要满足什么样的条件呢？\nNot long ago, Apple boasted that its products were made in America. Today, few are. Almost all of the 70 million iPhones, 30 million iPads and 59 million other products Apple s…",
-          "link": "https://cn.nytimes.com/business/20120122/c00appleone/dual",
-          "publishedOn": "2024-01-22T03:06:02.000Z",
-          "wordCount": 4775,
-          "title": "iPhone为何中国制造？",
-          "imageUrl": "https://static01.nyt.com/images/2012/01/22/business/apple/appple-articleLarge.jpg"
         }
       ]
     },
@@ -20694,6 +20984,56 @@
       "feedUrl": "https://plink.anyfeeder.com/weixin/ibookreview",
       "siteUrl": "http://weixin.sogou.com/weixin?type=1&s_from=input&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A",
       "articles": [
+        {
+          "id": "efd4e4d1b431956b23aa834fc016ff07",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E7%BE%8E%E5%9B%BD%E6%9C%80%E6%96%B0%E7%89%88%E6%96%87%E5%AD%A6%E8%89%BA%E6%9C%AF%E7%B3%BB%E5%88%97%E9%82%AE%E7%A5%A8%E5%8F%91%E5%B8%83%EF%BC%8C%E8%81%9A%E7%84%A6%E4%BD%9C%E5%AE%B6%E7%B4%A2%E5%B0%94%C2%B7%E8%B4%9D%E5%A8%84",
+          "publishedOn": "2024-02-20T01:58:00.000Z",
+          "wordCount": 334,
+          "title": "美国最新版文学艺术系列邮票发布，聚焦作家索尔·贝娄",
+          "imageUrl": null
+        },
+        {
+          "id": "e005f56166f4d9f97b95cd892d252d1b",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E5%8D%A1%E5%A4%AB%E5%8D%A1%E3%80%8A%E5%AE%A1%E5%88%A4%E3%80%8B%EF%BC%9A%E9%98%BB%E7%A2%8D%E4%BA%BA%E4%BB%AC%E8%AE%A4%E8%AF%86%E7%9C%9F%E7%90%86%E7%9A%84%EF%BC%8C%E6%98%AF%E6%88%91%E4%BB%AC%E5%86%85%E5%BF%83%E7%9A%84%E7%89%A2%E7%AC%BC%E4%B8%A8%E6%99%AF%E5%87%AF%E6%97%8B%E8%AF%BB%E7%BB%8F%E5%85%B8%E2%91%A8",
+          "publishedOn": "2024-02-20T01:58:00.000Z",
+          "wordCount": 334,
+          "title": "卡夫卡《审判》：阻碍人们认识真理的，是我们内心的牢笼丨景凯旋读经典⑨",
+          "imageUrl": null
+        },
+        {
+          "id": "f081d7cf9abf946f493032185f27060d",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E3%80%8A%E7%A7%BB%E5%8A%A8%E4%BA%91%E6%9C%B5%E7%9A%84%E4%BA%BA%E3%80%8B%EF%BC%9A%E5%8E%86%E5%8F%B2%E4%BD%95%E5%A6%82%EF%BC%8C%E9%AC%BC%E9%AD%82%E4%BB%A3%E8%A8%80",
+          "publishedOn": "2024-02-20T01:58:00.000Z",
+          "wordCount": 299,
+          "title": "《移动云朵的人》：历史何如，鬼魂代言",
+          "imageUrl": null
+        },
+        {
+          "id": "898ccf91092897ac4fe0c4b8c4e42516",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E4%BB%8E%E6%8B%BC%E9%9F%B3%E5%8C%96%E5%88%B0%E8%AF%AD%E9%9F%B3%E4%B8%AD%E5%BF%83%E4%B8%BB%E4%B9%89%EF%BC%9A%E6%98%AF%E4%BB%80%E4%B9%88%E5%BD%B1%E5%93%8D%E4%BA%86%E4%B8%AD%E5%9B%BD%E7%8E%B0%E4%BB%A3%E4%B9%A6%E5%86%99%EF%BC%9F",
+          "publishedOn": "2024-02-20T01:58:00.000Z",
+          "wordCount": 331,
+          "title": "从拼音化到语音中心主义：是什么影响了中国现代书写？",
+          "imageUrl": null
+        },
+        {
+          "id": "96aae0b6ae1f72639135cdefcddadf60",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E5%9B%BD%E4%BA%A7%E5%96%9C%E5%89%A7%E8%BF%99%E6%AC%A1%E8%AE%A9%E8%A7%82%E4%BC%97%E7%AC%91%E5%87%BA%E6%9D%A5%E4%BA%86%E5%90%97%EF%BC%9F",
+          "publishedOn": "2024-02-19T01:59:00.000Z",
+          "wordCount": 329,
+          "title": "国产喜剧这次让观众笑出来了吗？",
+          "imageUrl": null
+        },
         {
           "id": "91004da1018b5749a16b9889fe87ab53",
           "author": null,
@@ -21212,26 +21552,6 @@
           "publishedOn": "2024-01-23T01:59:00.000Z",
           "wordCount": 298,
           "title": "2024凯迪克绘本大奖揭晓：如何在崇尚渺小的世界成为大人物",
-          "imageUrl": null
-        },
-        {
-          "id": "b0fbec1ff77561fbceb6c8904cccc47b",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E6%98%AF%E6%9E%9D%E8%A3%95%E5%92%8C%E3%80%8A%E6%80%AA%E7%89%A9%E3%80%8B%EF%BC%9A%E6%B2%A1%E6%9C%89%E9%9D%9E%E9%BB%91%E5%8D%B3%E7%99%BD%E7%9A%84%E4%BA%BA%EF%BC%8C%E5%93%AA%E6%80%95%E6%98%AF%E5%8A%A0%E5%AE%B3%E8%80%85",
-          "publishedOn": "2024-01-22T02:15:00.000Z",
-          "wordCount": 341,
-          "title": "是枝裕和《怪物》：没有非黑即白的人，哪怕是加害者",
-          "imageUrl": null
-        },
-        {
-          "id": "a4c292cc3400c58c02e50003ea82469c",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E3%80%8A%E8%A2%AB%E7%89%BA%E7%89%B2%E7%9A%84%E2%80%9C%E5%B1%80%E9%83%A8%E2%80%9D%E3%80%8B%EF%BC%9A%E6%98%8E%E6%B8%85%E6%97%B6%E6%9C%9F%E2%80%9C%E6%B7%AE%E5%8C%97%E2%80%9D%E7%9A%84%E9%9D%A2%E8%B2%8C%E4%BD%95%E4%BB%A5%E2%80%9C%E4%B9%BE%E5%9D%A4%E5%A4%A7%E6%8C%AA%E7%A7%BB%E2%80%9D%EF%BC%9F",
-          "publishedOn": "2024-01-22T02:15:00.000Z",
-          "wordCount": 331,
-          "title": "《被牺牲的“局部”》：明清时期“淮北”的面貌何以“乾坤大挪移”？",
           "imageUrl": null
         }
       ]
