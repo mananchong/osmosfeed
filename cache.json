@@ -44,16 +44,6 @@
           "wordCount": 6236,
           "title": "R Weekly 2024-W06 - Teaching, renv, parquet vs. RDS",
           "imageUrl": "https://rweekly.org/public/facebook.png"
-        },
-        {
-          "id": "https://rweekly.org/2024-W05.html",
-          "author": null,
-          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Batool Almarzouq, with help from the R Weekly team members and contributors.\nHighlight\nNotes from live code review of {soils}\nLoad different R package versions at once with git worktree\nInsights\nR forward Website Relaunch\nQuarto 1.4 has been released\n\nExtract raster values to points with bilinear interpolation\nActual pixel sizes of unprojected raster maps\n\nFairness and discrimination, PhD Course, #4 Wasserstein Distances and Optimal Transport\nRemove Specific Row in R: How to & Examples with dplyr\nqlcal 0.0.10 on CRAN: Calendar Updates\nRApiDatetime 0.0.9 on CRAN: Maintenance\nRcppAnnoy 0.0.22 on CRAN: Maintenance\nx13binary 1.1.60 on CRAN: Upstream Update, Updated Build\nRProtoB…",
-          "link": "https://rweekly.org/2024-W05.html",
-          "publishedOn": "2024-01-29T00:00:00.000Z",
-          "wordCount": 6150,
-          "title": "R Weekly 2024-W05 - Notes from live code review, and load different R package versions at once",
-          "imageUrl": "https://rweekly.org/public/facebook.png"
         }
       ]
     },
@@ -501,16 +491,6 @@
           "wordCount": 81,
           "title": "俞晓群丨诸史《五行志》中的僧与佛寺",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_26176066",
-          "author": null,
-          "description": "《独行的缪斯：自传、性别研究及其他》，[美]孙康宜，纯粹Pura丨广西师范大学出版社2022年7月出版，704页，99.80元\n\n这么厚重的一本书两天就看完了，好看。\n接着看了《孙康宜文集》（以下简称《文集》）第二本、第三本……读书，也是读人，“现代”“传统”这些个字眼一并跳出来，瞬间将心绪激活了，从陌生到熟悉，任思路在注满温情的字里行间游荡，真心想跟她说些什么：想说我们的同与不同，想让更多的人认识她了解她，最想借助她的文字与她对话，以期通达我们一代华人女性浸润其间的传统和我们身在其中的现代。\n孙康宜，女，1944年北京生人，1946年随家人去了台湾，1968年留学美国，1982年就职于耶鲁大学直到退休。她是卓有成就的华裔汉学家，专修中国古典文学，兼作散文和杂文。她的论文长于“情”的历史叙事，字字都有温度；她的杂文应时而作，针砭时弊自述见解；她的散文缓缓地抒写出绵绵情丝，承载着她刻骨铭心的生命记忆——她像是同时做着两种努力：让幼时亲历的苦难在奋力搏进的岁月里化作滋养生命的甘泉，将强势的西方现代意识轻柔地带进中国传统文化视界。她用沉甸甸的《中国历代女作家选集》（孙康宜、苏源熙合编：《中国历代女作家选集》，Women Writers of Traditional China，Stanford: Stanford University Press，1999；六十三位汉学家投入此项编译工程，全书共八百九十一页，从汉代到晚清收入两百多位女作家的作品，包括一些男作家对女诗人的评论[719-806页]）让隐匿于历史文献中的女才子在海外现身发声，为寻踪的后来者铺路引航——这种兼收古今的涵养，不仅是她的行文风格，也是她做人的格调。对此，读书人早有认识，看她“注重于从现代性的视野下凝视中国古典文学的传统性变革，即作家如何在不同的时代下对政治、历史乃至自身的内心进行书写的流变过程”。《文集》导读…",
-          "link": "https://www.thepaper.cn/newsDetail_forward_26176066",
-          "publishedOn": "2024-01-29T04:02:04.000Z",
-          "wordCount": 200,
-          "title": "李小江读《独行的缪斯》｜将“现代”轻轻地揉进传统",
-          "imageUrl": null
         }
       ]
     },
@@ -519,6 +499,206 @@
       "feedUrl": "https://feedx.net/rss/thepaper.xml",
       "siteUrl": "http://thepaper.cn",
       "articles": [
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26477835",
+          "author": null,
+          "description": "近日有媒体报道称“贵州女企业家讨工程款陷‘寻衅滋事’被批捕，过亿债务政府只愿给1200万元”，引发关注。\n报道称，少数民族女企业家马艺珈伊，为贵州六盘水承建易地扶贫搬迁工程（中央专项扶贫资金项目）、幼儿园、小学等10个政府项目后，持续讨要工程款8年。2023年年末，在贵州省高级人民法院听证会召开当天，她被地方公安以涉嫌寻衅滋事罪刑事拘留。在她之前，为她代理债务执行的律师、律师助理等10余人已被刑事拘留，涉嫌罪名均为寻衅滋事罪。\n报道发出后仅过一夜，当地政府就给出了回应。27日，贵州六盘水市水城区人民政府新闻办公室发布的情况通报。通报回应大致分为两个部分。\n\n游人稀少的六盘水市水城区野玉海山地旅游度假区。   受访者供图\n\n第一部分，确认野玉海景区等10个项目实际负责人确实为此前报道中的马某某，并对债务情况作出回应。\n通报表示，“2016年至2019年，贵州鸿瑞腾建筑有限责任公司、贵州艺珈旭建筑工程有限公司、中恒建设集团分别承建的野玉海景区10个项目，项目实际负责人均为《中国经营报》所称女企业家马某某。”\n同时指出，“10个项目中，经法院判决或审计的项目8个，金额11775.52万元，目前已支付11538.9万元；未审计项目2个，根据项目建设单位提供的工程资料金额约4557.19万元，目前已支付3131.7万元。上述10个项目共计金额约16332.71万元，目前已支付14670.6万元，支付比例89.82％。综上，‘六盘水市水城区政府共欠企业约2.2亿元’，以及‘区里要以1200万元化解所有2亿余元的债务’的报道均不属实。”\n第二部分，回应马某某等人被拘留缘由。“2022年10月，马某某为讨要有争议的工程款雇佣耿某某、方某某采取安装GPS定位器等手段跟踪他人，非法获取公民个人信息；2023年9月以来，马某某、侯某某等人编造虚假信息，安排洪某某等3人、雇佣屈某某等5人在网上恶意炒作、在公共场所张贴不实大字报和抛散传单。因马某某等人的行为涉嫌侵犯公民个人信息罪和寻衅滋事罪，2023年11月27日公安机关依法对马某某刑事拘留，同年12月27日对其依法逮捕。目前，案件已移送检察机关审查起诉，正在依法办理中。”\n通报发出后，有网友表示，“能用这些手段的企业家的话，也不能全信。”“通报属实的话，对于造谣者也要处罚。”但也有网友指出，对于此前报道中提到代理债务执行的律师等10余人被刑事拘留一事，包括拘留原因，为何没有回应？马某某承建的10个项目手续都是合法合规的吗？等等。\n事情详细原委如何？究竟有没有“以刑化债”？内中是否存在隐情？显然这份通报还不够，还需官方给出更详细的说明。毕竟，无论是提高公信力，还是打造市场化、法治化、国际化一流营商环境，都需落脚在一系列细节。\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.run",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26477835",
+          "publishedOn": "2024-02-27T15:53:03.000Z",
+          "wordCount": 41,
+          "title": "国是直通车：女企业家讨工程款被批捕，官方通报还需更多细节",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26480535",
+          "author": null,
+          "description": "2024年2月27日，天津市第二中级人民法院一审公开宣判青海省委原常委、省人大常委会原党组书记、副主任李杰翔受贿一案，对被告人李杰翔以受贿罪判处无期徒刑，剥夺政治权利终身，并处没收个人全部财产；对李杰翔受贿犯罪所得及孳息，依法予以追缴，上缴国库。\n\n经审理查明：2004年至2021年，被告人李杰翔利用担任内蒙古自治区土默特右旗委书记，包头市委常委、土默特右旗委书记，包头市委常委、副市长，通辽市委常委、副市长，呼和浩特市委副书记、副市长、代理市长、市长，内蒙古和林格尔新区党工委书记，内蒙古自治区党委常委、通辽市委书记等职务上的便利以及职权、地位形成的便利条件，为相关单位和个人在工程承揽、职务晋升、获取财政补贴等事项上提供帮助，直接或通过他人非法收受财物共计折合人民币8823万余元。\n天津市第二中级人民法院认为，被告人李杰翔的行为构成受贿罪，受贿数额特别巨大，应依法惩处。鉴于李杰翔到案后如实供述自己的罪行，主动交代监察机关尚未掌握的大部分受贿犯罪事实，部分受贿犯罪系未遂，认罪悔罪，积极退赃，赃款赃物已全部追缴到案，依法可以从轻处罚。法庭遂作出上述判决。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26480535",
+          "publishedOn": "2024-02-27T14:53:04.000Z",
+          "wordCount": 38,
+          "title": "受贿超8823万，青海省人大常委会原党组书记李杰翔一审被判无期",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26481027",
+          "author": null,
+          "description": "来自普陀区的傅女士今年33岁，天生有轻微的智力残疾，但幸运的是她的奶奶对她爱护有加，早早为她做好了打算。\n2015年，奶奶的老房子动迁获得了一套44平米价值350万的安置房和100多万的现金补偿，奶奶每个月还有5000多元的退休工资，祖孙俩一起过着幸福的生活。\n本来这些积蓄已经足够傅女士在奶奶百年以后，度过接下来的人生，然而一个男子的出现彻底夺走了这些。\n\n本文图片均为“案件聚焦”微信公众号 图\n\n他不仅卷走了奶奶的450万积蓄，逃回到江西老家不知所踪，傅女士的奶奶也因此郁郁而终。\n这名男子就是傅女士的丈夫，用傅女士表姐的原话就是：这个男人吃绝户！！\n\n经邻居介绍，傅女士和丈夫相识\n2015年奶奶的老房子动迁，傅女士和奶奶搬进新房后，可谓衣食无忧，生活幸福。\n\n表姐王女士说，就在奶奶家动拆迁不久，小区棋牌室的邻居，就将外地来沪打工的小胡，介绍给了傅女士。\n傅女士说，恋爱时小胡脾气很好，烧饭、打扫都是他来干，挺老实本分的。时间久了，她也渐渐对他产生了好感，后来小胡对她说了这样一番话：万一奶奶不在了，奶奶的东西都会归姑姑，归姐姐他们了，你一分拿不到，你跟我结了婚，东西都归我的，等于我的也是你的了。\n\n单纯的傅女士相信了小胡的话，在2018年和他结了婚，平静的生活也从此被打破了。\n\n结婚后，丈夫逼迫奶奶卖掉房子\n婚后小胡其实没有和傅女士共同生活，还像变了一个人，脾气暴躁还经常向她要钱。\n\n小胡还以今后生孩子需要换大房子为由，逼她和奶奶将动迁房卖掉。奶奶并不想把房子卖掉，结果小胡就恐吓道：说要把奶奶从14楼扔下去，或者等奶奶死了以后，他去刨奶奶的祖坟。\n傅女士的奶奶已经80多岁了，最终还是将房屋以350万的价格卖了，卖房款奶奶存入了银行，并一直贴身保管着银行卡。\n丈夫拿走银行卡失联，钱被一点点取现\n2022年，小胡唆使傅女士偷换了奶奶的银行卡，说要去买房。于是，傅女士将银行卡和密码都交给了丈夫。\n\n然而事实上，小胡拿到银行卡后，就回到了江西老家。每天卡着取款上限取走2万。\n\n将奶奶的积蓄蚂蚁搬家似的全部卷走，傅女士的表姐和亲戚，调查后才知道：一笔是卖房所得的350万，还有一笔是奶奶留给傅女士的100万现金，总共450万，都在2022年6月被小胡“洗劫一空”，卡里只剩下2.6元。\n\n不幸的是，今年1月24日，郁郁寡欢的老人在医院病逝。在傅女士看来，奶奶的死与自己的丈夫小胡，脱不开干系。\n\n丈夫表示不可能还钱\n事情曝光后，傅女士要求丈夫小胡归还钱款，但小胡早已离开了上海，不知所踪，并在电话中表示，我没钱，也不可能还钱。就算法院、派出所来找我，也没钱。今后离婚后，我还可以找一个正常的女人生小孩。\n\n丈夫的行为应该如何定性呢？\n后援律师张玉霞表示，目前根据傅女士的陈述，小胡很有可能涉嫌盗窃。但具体还要结合其他证据，包括小胡他自己的陈述来综合进行判断。\n但如果小胡的行为不构成刑事犯罪的话，傅女士一方也可以通过民事诉讼，要求小胡返还这笔遗产。老人的三个儿子虽然已经去世了，但是分别都有子女。作为晚辈的直系血亲，是可以代位继承的。再加上老人还有一个女儿，所以老人的一个女儿和三个儿子的子女，是可以共同作为法定继承人，去向对方主张合法的权益，要求对方予以返还相关的钱款。\n\n因为这笔钱款目前来说，从法律上的定性很可能是老人的遗产，也建议继承人可以指定一个遗产管理人，来负责去追讨这笔款项，等到这个款项追回来之后，再予以法定继承，或者是在有遗嘱的情况下予以遗嘱继承。\n截止节目播出，傅女士的丈夫小胡仍旧没有露面，关于本案的后续，我们栏目也将继续关注。\n（原标题为《吃绝户！江西男子与上海智力残疾女子结婚卷走450万》）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26481027",
+          "publishedOn": "2024-02-27T14:53:04.000Z",
+          "wordCount": 71,
+          "title": "吃绝户！男子与上海智力残疾女子结婚卷走450万元",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26484245",
+          "author": null,
+          "description": "2月27日，中国旅游集团中免股份有限公司（中国中免，601888.SH）发布第五届董事会第八次会议决议公告。其中，董事会审议通过《关于三亚国际免税城一期二号地项目追加投资的议案》，拟对三亚国际免税城一期2号地项目追加投资10.7亿元（人民币，下同）。\n公告指出，2021年3月，经中国中免董事会审议通过，公司投资36.9亿元用于三亚国际免税城一期2号地项目建设。随着项目的开发推进，为进一步提高项目的综合竞争力，综合考虑项目产品定位、市场条件及实际推进情况等多方面因素后，公司拟对该项目追加投资10.7亿元，主要用于增加建筑面积、停车面积、外立面及幕墙品质提升、机电系统及电力系统配置提升等。\n（澎湃新闻记者 唐莹莹）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26484245",
+          "publishedOn": "2024-02-27T14:53:04.000Z",
+          "wordCount": 36,
+          "title": "中国中免：拟对三亚国际免税城一期2号地项目追加投资10.7亿元",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26484345",
+          "author": null,
+          "description": "2月27日，道指开盘跌0.1%，标普500涨0.1%，纳指涨0.2%。区块链板块齐涨，CleanSpark涨13.3%，嘉楠科技涨5.6%，Coinbase涨6.2%。Zoom涨8.3%，去年四季度业绩超预期，宣布回购15亿美元股票。Viking Therapeutics涨88.6%，减肥药试验取得积极结果。纳斯达克金龙中国指数盘初涨1.3%，成分股理想汽车涨7.8%，嘉楠科技涨7.3%，金山云涨4.2%，网易涨4%，小鹏涨2.7%，蔚来涨2.6%，B站涨1.7%。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26484345",
+          "publishedOn": "2024-02-27T14:53:04.000Z",
+          "wordCount": 34,
+          "title": "道指开盘跌0.1%，标普500涨0.1%，纳指涨0.2%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26480838",
+          "author": null,
+          "description": "近日，住房城乡建设部下发通知，要求各地科学编制2024年、2025年住房发展年度计划。各地要科学编制规划，认真组织实施，根据人口变化确定住房需求，根据住房需求科学安排土地供应、引导配置金融资源，实现以人定房，以房定地、以房定钱，促进房地产市场供需平衡、结构合理，防止市场大起大落。\n住房城乡建设部表示，住房发展规划和年度计划是建立“人、房、地、钱”要素联动机制的重要抓手。各城市要根据当地实际情况，准确研判住房需求，完善“保障+市场”的住房供应体系，以政府为主保障工薪收入群体刚性住房需求，以市场为主满足居民多样化改善性住房需求，科学编制2024年、2025年住房发展年度计划。\n按照要求，住房发展年度计划要明确年度各类住房及用地供应规模、结构和区位，测算房地产项目合理融资需求。保障性住房要进一步明确供应套数和户型结构。要将房地产市场平稳健康发展、住房保障轮候时间等纳入目标管理。2024年4月30日前、2025年3月31日前，各城市要以适当方式向社会公布当年住房发展年度计划有关情况。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26480838",
+          "publishedOn": "2024-02-27T13:53:04.000Z",
+          "wordCount": 32,
+          "title": "住建部：各城市要做好今明两年住房发展计划，防止市场大起大落",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26480706",
+          "author": null,
+          "description": "恒大集团创办人许家印前妻丁玉梅2月26日在香港高等法院提出上诉，向许家印次子许腾鹤追讨折合逾10亿港元。\n香港高等法院指出，根据原告丁玉梅与被告许腾鹤于2020年6月16日签订的贷款协议，被告没有在约定还款日向原告人还款。因此原告向被告申索港币7.3248亿元，当中包括贷款本金港币5亿元、利息港币4500万元及每日逾期利息港币逾18万元；美元4097万元，当中包括本金美元3000万元、利息美元270万元及每日逾期利息美元827万元。\n\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.run",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26480706",
+          "publishedOn": "2024-02-27T13:53:04.000Z",
+          "wordCount": 33,
+          "title": "恒大集团创办人许家印前妻丁玉梅向许腾鹤追讨逾10亿港元",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26479588",
+          "author": null,
+          "description": "2月27日，有网友爆料知名美女作家“瞎书”因病去世，年仅29岁。\n\n \n\n随后，#瞎书去世#话题词登上热搜。\n\n2月27日下午，她的妈妈通过@瞎书 微博发布消息称：书书已于今年1月5日因肺部感染经全力抢救无效离世。\n\n瞎书生前曾写过多本小说，其中热度最高的是《我不会喜欢你》《楞次定律》，其中《我不会喜欢你》在豆瓣评分高达9.2分，除此之外，她还写过《一颗青苹果》《巴洛克复调》《时止之年》，前两部作品是她2019年发表的。\n\n2021年4月26日，@瞎书 家属发微博称“瞎书病重”。\n\n2021年5月15日，瞎书自己透露，她熬夜通宵写文后发烧，感冒两周嗓子发炎不舒服，到医院挂水，回家当晚点外卖吃了青菜粥和鸡蛋。吃完后病情更加严重，心绞痛、胃痛接着去医院检查，愣是找不到病因，一天内吐了起码有15次，吃什么吐什么。\n\n2021年5月29日，瞎书发文称自己一个月瘦了20斤，骨龄密度低到几乎等于60岁老人。\n\n2022年7月，她称体重更是瘦到了39.55公斤，在做完移植后烧出了幻觉，对着护士喊妈妈。\n\n2023年1月，瞎书被诊断为巨膀胱-小结肠-肠蠕动综合征，全世界只有30几例。\n\n \n\n2023年6月，瞎书的女儿和她一样检测出携带MYLK异变，也是杂合。\n\n2023年6月，瞎书登记器官捐赠志愿者网站。\n2023年8月，瞎书发文称，自己基本确诊由脊髓空洞症引起的一种极其罕见的全身性神经元病变，迷走神经与中枢神经受损。如今不适合手术，并且手术风险极大，稍有不慎就会术中心跳停止或术后全身瘫痪。\n\n主治医师称很难过她受的罪，本来不需要做任何切除器官的手术，也不会拖到生命垂危机能衰退。\n\n她的微博最后一条停在了2023年10月。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26479588",
+          "publishedOn": "2024-02-27T13:53:04.000Z",
+          "wordCount": 83,
+          "title": "29岁女作家瞎书去世：被病痛折磨三年，去年确诊罕见病",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26483999",
+          "author": null,
+          "description": "上海市市长龚正今天（27日）会见了美国华平投资集团主席蒂莫西·盖特纳一行。\n龚正说，上海作为中国改革开放的前沿阵地和深度链接全球的国际大都市，是世界观察中国的重要窗口。当前，我们正按照习近平主席要求，以建设“五个中心”为主攻方向，加快建成具有世界影响力的社会主义现代化国际大都市。国际金融中心建设是上海发展的重中之重，我们着力完善金融市场体系、产品体系、机构体系和基础设施体系，做好科技金融、绿色金融、普惠金融、养老金融、数字金融五篇大文章，更好服务实体经济、科技创新和共建“一带一路”。欢迎华平投资集团以在华投资30周年为契机，深度参与上海国际金融中心建设，持续加强在沪投资布局，为优化上海营商环境建言献策。上海将打造一流营商环境，一如既往创造更多机遇，携手各类企业实现共赢发展。（澎湃讯）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26483999",
+          "publishedOn": "2024-02-27T13:23:03.000Z",
+          "wordCount": 35,
+          "title": "华平投资集团在华开展投资已30年，龚正市长会见集团主席盖特纳",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26484200",
+          "author": null,
+          "description": "2月27日晚间，上海之江生物科技股份有限公司（之江生物，688317.SH)发布业绩快报，2023年营业总收入2.74亿元，同比下降88.21%；归属于母公司所有者的净利润亏损1.3亿元，上年同期净利润7.6亿元。报告期内，受市场需求变化影响，公司自主分子诊断试剂产品和仪器设备的销售收入出现大幅下滑，同时公司根据企业会计准则及公司会计政策等相关规定，基于谨慎性原则，对相关存货计提跌价准备，上述因素导致营业收入及净利润同比下降。\n\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.run",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26484200",
+          "publishedOn": "2024-02-27T13:23:03.000Z",
+          "wordCount": 32,
+          "title": "之江生物：2023年净利润亏损1.3亿元",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26467047",
+          "author": null,
+          "description": "2024年2月24日是俄乌冲突爆发两周年。据央视新闻消息，当地时间2月25日，乌克兰总统泽连斯基在新闻发布会上表示，自俄乌冲突爆发以来，已有3.1万名乌军士兵阵亡。\n\n当地时间2024年2月25日，乌克兰基辅，乌克兰总统泽连斯基在“乌克兰2024年”论坛新闻发布会上发表讲话。本文图片 视觉中国\n\n泽连斯基称，最近几个月乌克兰将面临复杂局面，需要解决政治和财政等领域的问题。泽连斯基强调，假使乌克兰武装力量人员不足的问题无法解决，将导致乌领土的丧失，目前乌方在前线面临着俄方的强大压力。\n就过去两年间俄乌双方在战场上的表现、俄乌冲突的现状、2024年双方会否停火止战等问题，澎湃新闻（www.thepaper.cn）采访了国内外几位专家。以下为采访内容，以飨读者。\n专家简介（按姓氏字母顺序排列）：\n大卫·贝茨（David Betz）：伦敦国王学院战争研究系现代战争研究教授\n詹姆斯·博斯博蒂尼斯（James Bosbotinis）：英国防务和国际问题独立分析师\n马斌：复旦大学俄罗斯中亚研究中心副研究员\n阿列克谢·梅尔尼克（Oleksiy Melnyk）： 乌克兰经济和政治研究中心外交关系和国际安全项目联席主任\n\n俄乌冲突已成消耗战\n马斌：对于俄罗斯来说，2月17日俄军控制阿夫杰耶夫卡是具有比较强的象征性意义的，这是俄罗斯从去年5月到现在占领的第二座比较大的城市，对于俄罗斯控制乌东地区也有比较强的战略意义。\n对于乌克兰来说，其实在去年整一年的时间里，乌军一直是说要有一些大的反攻，要有一些对俄罗斯的大作战，但是近来乌军在阿夫杰耶夫卡在这样的一个大的城市，或者说一个相对大的双方拉锯点上有一次撤退的话，对乌军的确是一个大打击。\n\n当地时间2023年12月29日，顿涅茨克地区，乌克兰总统泽连斯基在阿夫杰耶夫卡镇的一个牌子前录制视频讲话，牌子上写着“阿夫杰耶夫卡是乌克兰的”。\n\n其实乌克兰政府上…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26467047",
+          "publishedOn": "2024-02-27T12:53:04.000Z",
+          "wordCount": 126,
+          "title": "俄乌冲突两周年·圆桌｜乌或“陆守海攻”，和谈恐遥遥无期",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26483600",
+          "author": null,
+          "description": "2月27日，联想集团董事长兼CEO杨元庆在微博发文悼念娃哈哈集团创始人宗庆后。杨元庆称，“每次谋面都是珍贵记忆，深深钦佩宗总的耿直、坚定与独树一帜。他是一代企业家的典范，是后辈学习的楷模，他的企业家精神将永续。怀念宗先生！”\n\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.run",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26483600",
+          "publishedOn": "2024-02-27T12:53:04.000Z",
+          "wordCount": 35,
+          "title": "杨元庆发文悼念宗庆后：他是一代企业家的典范，是后辈学习的楷模",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26483687",
+          "author": null,
+          "description": "2月27日，商务部国际贸易谈判代表（正部级）兼副部长王受文在京会见美国商会代表团。（商务部网站）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26483687",
+          "publishedOn": "2024-02-27T12:53:04.000Z",
+          "wordCount": 35,
+          "title": "商务部国际贸易谈判代表兼副部长王受文在京会见美国商会代表团",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26480772",
+          "author": null,
+          "description": "新华社北京2月27日电 十四届全国人大常委会第八次会议27日通过新修订的保守国家秘密法，自2024年5月1日起施行。\n全国人大常委会法工委国家法室负责人介绍，保密法此次修订坚持总体国家安全观，统筹发展与安全，将党的十八大以来保密工作成熟有效的政策措施和实践经验上升为法律制度，对于推动保密工作高质量发展，维护国家主权、安全、发展利益具有重要而深远的意义。\n新修订的保密法在总则中规定“坚持中国共产党对保守国家秘密工作的领导”，明确中央保密工作领导机构领导全国保密工作，研究制定、指导实施国家保密工作战略和重大方针政策，统筹协调国家保密重大事项和重要工作，推进国家保密法治建设。\n此次修订吸收了一些工作实践中定密和解密的成熟做法，包括：明确保密事项范围的确定应当遵循必要、合理原则，科学论证评估，并根据情况变化及时调整；完善定密责任人制度和定密授权机制，并对密点标注作出原则规定，进一步推动定密精准化、科学化；完善国家秘密审核制度，将定期审核修改为每年审核，并明确了未履行解密审核责任造成严重后果的法律责任，进一步压实定密机关、单位主体责任，便利信息资源合理利用。\n新修订的保密法还体现出对于保密科技创新和科技防护的重视，在总则中明确国家鼓励和支持保密科学技术研究和应用，提升自主创新能力，依法保护保密领域的知识产权。此次修订还明确，涉密信息系统应当按照国家保密规定和标准规划、建设、运行、维护，应按规定检查合格方可投入使用，并定期开展风险评估。\n为适应当前涉密人员管理的新特点、新要求，此次修订补充细化了涉密人员基本条件、权益保障和管理要求等方面的规定。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26480772",
+          "publishedOn": "2024-02-27T12:53:04.000Z",
+          "wordCount": 36,
+          "title": "新修订的保守国家秘密法今年5月1日起施行",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26480170",
+          "author": null,
+          "description": "新华社北京2月27日电 全国人民代表大会常务委员会公告\n〔十四届〕第三号\n上海市第十六届人大常委会第十一次会议补选黄莉新为第十四届全国人民代表大会代表。第十四届全国人民代表大会常务委员会第八次会议根据代表资格审查委员会提出的报告，确认黄莉新的代表资格有效。\n黑龙江省人大常委会决定罢免王一新、孙飚的第十四届全国人民代表大会代表职务。湖南省人大常委会决定罢免胡建文、雷冬竹的第十四届全国人民代表大会代表职务。广东省人大常委会决定罢免朱宏的第十四届全国人民代表大会代表职务。贵州省人大常委会决定罢免安九熊的第十四届全国人民代表大会代表职务。陆军军人代表大会决定罢免李志忠的第十四届全国人民代表大会代表职务。广东省人大常委会决定接受黄家武辞去第十四届全国人民代表大会代表职务。天津市人大常委会决定接受秦刚辞去第十四届全国人民代表大会代表职务。湖北省人大常委会决定接受冯杰鸿辞去第十四届全国人民代表大会代表职务。广西壮族自治区人大常委会决定接受陆伟伟辞去第十四届全国人民代表大会代表职务。依照《中华人民共和国全国人民代表大会和地方各级人民代表大会代表法》的有关规定，王一新、孙飚、胡建文、雷冬竹、朱宏、安九熊、李志忠、黄家武、秦刚、冯杰鸿、陆伟伟的代表资格终止。\n截至目前，第十四届全国人民代表大会实有代表2956人。\n特此公告。\n全国人民代表大会常务委员会\n2024年2月27日",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26480170",
+          "publishedOn": "2024-02-27T12:53:04.000Z",
+          "wordCount": 37,
+          "title": "全国人民代表大会常务委员会公告〔十四届〕第三号",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26481959",
+          "author": null,
+          "description": "2月27日晚间，广东万里马实业股份有限公司（万里马，300591.SZ)公告，持股5.00%的股东深圳市启恒私募证券基金管理有限公司——启恒点金私募证券投资基金，计划15个交易日后的3个月内通过集中竞价方式减持公司股份不超过405万股（占公司总股本的1%）。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26481959",
+          "publishedOn": "2024-02-27T12:23:05.000Z",
+          "wordCount": 32,
+          "title": "万里马：启恒点金私募证券投资基金拟减持不超1%公司股份",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26482129",
+          "author": null,
+          "description": "2月27日晚间，广电运通集团股份有限公司（广电运通，002152.SZ）发布业绩快报，2023年公司实现营业总收入90.42亿元，同比增长20.14%；归属于上市公司股东的净利润9.79亿元，同比增长18.39%；基本每股收益0.39元。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26482129",
+          "publishedOn": "2024-02-27T12:23:05.000Z",
+          "wordCount": 32,
+          "title": "广电运通：2023年净利润9.79亿元，同比增长18.39%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26481057",
+          "author": null,
+          "description": "2月27日，记者从博纳影业获悉，在粤港澳大湾区影视产业高质量发展座谈会暨发布会上，博纳影业集团与广东广播电视台签署了影视创作生产战略合作协议。双方共同发布了电影《克什米尔公主号》和澳门回归25周年题材作品《濠江潮涌》以及《珠江人家2》《钦差大臣林则徐》《明月几时有》《南海风云》等多部影视作品的创作生产计划。\n博纳影业集团董事长于冬透露，影片《克什米尔公主号》将由刘伟强导演、何冀平编剧，已准备超五年的时间，是一个跌宕起伏、悬念迭生的大戏，预计今年年内在广东取景拍摄。（上证报）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26481057",
+          "publishedOn": "2024-02-27T11:53:03.000Z",
+          "wordCount": 32,
+          "title": "博纳影业：《克什米尔公主号》计划年内开拍",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26481069",
+          "author": null,
+          "description": "2月27日晚间，赛力斯集团股份有限公司（赛力斯，601127.SH)发布股票交易异常波动公告称，公司基本面没有重大变化，除公司正在筹划员工持股计划外，不存在应披露而未披露的重大信息。公司未发现对公司股票交易价格可能产生较大影响的媒体报道或市场传闻。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26481069",
+          "publishedOn": "2024-02-27T11:53:03.000Z",
+          "wordCount": 32,
+          "title": "赛力斯：公司基本面没有重大变化",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26481019",
+          "author": null,
+          "description": "2月27日晚间，恒林家居股份有限公司（恒林股份，603661.SH）公告，公司计划开展算力服务相关业务，培育公司新的增长业务。拟以现金1.55亿元的对价（其中，收购恒升智算股权转让款100万元，偿还恒升智算股东王爱琴代恒升智算支付的算力服务器采购预付款1.54亿元）收购恒升智算100%股权并以恒升智算为主体继续履行其算力服务器采购合同。股权转让完成后，公司还需向算力服务器供应商南京坤前支付采购尾款2.44亿元。上述所有款项合计3.99亿元。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26481019",
+          "publishedOn": "2024-02-27T11:23:04.000Z",
+          "wordCount": 32,
+          "title": "恒林股份：拟购买恒升智算100%股权并开展服务器采购",
+          "imageUrl": null
+        },
         {
           "id": "https://www.thepaper.cn/newsDetail_forward_26479463",
           "author": null,
@@ -12028,36 +12208,6 @@
           "wordCount": 32,
           "title": "恒大物业：临时停牌，等待刊发一份内幕消息公告",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_26181352",
-          "author": null,
-          "description": "1月29日，港股早盘指数高位震荡，恒生指数涨0.94%，报收16102.02点；恒生科技指数涨0.61%，报收3206.02点。\n盘面上，能源指数创新高，中字头再度引领市场反攻，中国铁塔大涨9%，中国联通升逾5%，中石化油服涨超3%；大金融普遍走好，中国太平、中国华融上攻4%，招商银行、国泰君安齐升3%。\n\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.run",
-          "link": "https://www.thepaper.cn/newsDetail_forward_26181352",
-          "publishedOn": "2024-01-29T04:23:03.000Z",
-          "wordCount": 33,
-          "title": "恒生指数涨0.94%，恒生科技指数涨0.61%",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_26181360",
-          "author": null,
-          "description": "针对网友反映的“海口市美兰区龙舌坡农贸市场内一猪肉摊用木炭灰给白猪肉涂抹上色”一事，1月28日，海口市市场监督管理局美兰分局通报：已对海口美兰卓书能猪肉摊立案查处，并处罚款1万元。（央广网）",
-          "link": "https://www.thepaper.cn/newsDetail_forward_26181360",
-          "publishedOn": "2024-01-29T04:23:03.000Z",
-          "wordCount": 32,
-          "title": "摊主给白猪肉涂木炭灰冒充“黑猪肉”？海口通报：罚款1万元",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_26180590",
-          "author": null,
-          "description": "美国大选临近，联邦政府和得克萨斯州却因移民危机爆发激烈的冲突。为了是否拆除得州边境设置的铁丝网，得州共和党籍州长阿博特公开批评拜登，并获得全美25名共和党州长声援。美国前总统特朗普27日在集会上公开表示，自己非常赞赏得州对抗拜登当局的做法。同时，有议员主张由共和党控制的“红州”与由民主党控制的“蓝州”进行“国家离婚”。有美媒担心，得州与联邦政府的对峙将让这个国家滑向“内战”。有分析认为，移民问题是美国几十年来最具政治分歧和最复杂的问题之一，进入2024年后，面对临近的大选压力，共和党各州更希望利用移民问题来不断地削弱民主党的选情，从而公开、彻底地与拜登政府对峙叫板，更不利于问题的解决。俄罗斯联邦安全会议副主席梅德韦杰夫26日称，“得克萨斯人民共和国”的前景变得越来越真实，美国可能面临无法解决的宪法危机，并将长期陷入民间对立的深渊，这是美国霸权削弱的又一例证。\n\n当地时间27日，美国得克萨斯州国民警卫队士兵在美墨边界附近的谢尔比公园执勤。\n\n特朗普“火上浇油”\n阿博特27日在社交媒体上发文称：“得克萨斯州将继续行使其权利来确保我们南部边境的安全。我们将继续坚守阵线，应对拜登政府的边境危机。”特朗普同日在竞选集会上赞扬了阿博特的做法：“目前正在发生的偷渡浪潮是可怕的入侵，如果我是总统，会向得州送去增援部队而不是限制令。”“我不会和这些边境州发生冲突，而会用美国总统的一切资源和权力，保卫美国免受当下正在发生的可怕入侵。”特朗普25日在社交媒体上呼吁“所有有意愿的州”向得州支援国民警卫队，“阻止非法移民入境，并将他们驱逐”。美国VICE新闻网称，特朗普此番表态无异于“火上浇油”。\n去年12月18日，阿博特签署了一项法案，将移民非法越境进入得州定为犯罪行为。美联社称，新颁布的法案赋予当地执法部门逮捕非法移民的权力，同时赋予法官发布命令将非法移民驱逐到墨西哥的权力。在阿博特的推动下，得…",
-          "link": "https://www.thepaper.cn/newsDetail_forward_26180590",
-          "publishedOn": "2024-01-29T03:53:04.000Z",
-          "wordCount": 36,
-          "title": "得州与美联邦政府陷入武装对峙，共和党议员鼓吹“国家离婚”",
-          "imageUrl": null
         }
       ]
     },
@@ -12066,6 +12216,66 @@
       "feedUrl": "https://www.nationalreview.com/feed/",
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1603693",
+          "author": "James Lynch",
+          "description": "After he killed Riley, Ibarra allegedly brought her body to a secluded area.",
+          "link": "https://www.nationalreview.com/news/illegal-immigrant-charged-with-murdering-uga-student-laken-riley-accused-of-disfiguring-her-skull/",
+          "publishedOn": "2024-02-27T15:51:04.000Z",
+          "wordCount": 8451,
+          "title": "Illegal Immigrant Charged with Murdering UGA Student Laken Riley Accused of ‘Disfiguring Her Skull’",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/02/Georgia-Police.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1603655",
+          "author": "James Lynch",
+          "description": "The parks department is planning on cutting $4.3 million from its budget to help Denver handle the strain caused by the migrant crisis.",
+          "link": "https://www.nationalreview.com/news/denver-weighs-cutting-some-public-employees-hours-to-zero-to-tackle-migrant-crisis/",
+          "publishedOn": "2024-02-27T14:24:13.000Z",
+          "wordCount": 8496,
+          "title": "Denver Weighs Cutting Some Public Employees’ Hours to Zero to Tackle Migrant Crisis",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/02/Denver-Parks-and-Recreation.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1603542",
+          "author": "Craig S. Lerner",
+          "description": "If people begin to think that the criminal law is being used to harass political enemies, that will erode confidence in the judicial system.",
+          "link": "https://www.nationalreview.com/2024/02/the-political-prosecution-of-douglass-mackey/",
+          "publishedOn": "2024-02-27T11:30:44.000Z",
+          "wordCount": 8897,
+          "title": "The Political Prosecution of Douglass Mackey",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/02/voters-2016-election-brooklyn-new-york.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1603420",
+          "author": "Jim Schwartzel",
+          "description": "Florida legislators have identified a real problem, but they are responding to it with bills that would harm free speech.",
+          "link": "https://www.nationalreview.com/2024/02/separating-fact-from-fiction-on-floridas-defamation-bills/",
+          "publishedOn": "2024-02-27T11:30:30.000Z",
+          "wordCount": 9028,
+          "title": "Separating Fact from Fiction on Florida’s Defamation Bills",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2018/05/microphones-media-capitol-hill.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1603519",
+          "author": "Neal B. Freeman",
+          "description": "On Milton Friedman, confusion about Confederates, praise for National Review, and more.",
+          "link": "https://www.nationalreview.com/2024/02/a-february-scan-of-the-body-politic/",
+          "publishedOn": "2024-02-27T11:30:24.000Z",
+          "wordCount": 9217,
+          "title": "A February Scan of the Body Politic",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/02/tom-suozzi-2.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1603624",
+          "author": "Rich Lowry",
+          "description": "This has to rank as one of the most economically illiterate and juvenile presidential crusades in recent history.",
+          "link": "https://www.nationalreview.com/2024/02/joe-bidens-inane-war-on-packaging/",
+          "publishedOn": "2024-02-27T11:30:14.000Z",
+          "wordCount": 9039,
+          "title": "Joe Biden’s Inane War on Packaging",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/02/president-biden-white-house.jpg?fit=2057%2C1200&ssl=1"
+        },
         {
           "id": "https://www.nationalreview.com/?post_type=blog-post&p=1603571",
           "author": "James Lynch",
@@ -16795,16 +17005,6 @@
           "wordCount": 8859,
           "title": "Praise God for a Life Well Lived",
           "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/06/clouds-sun.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1592472",
-          "author": "John Fund",
-          "description": "Electric vehicles, the Goldilocks cars — they work only if not too cold or not too wet.",
-          "link": "https://www.nationalreview.com/2024/01/can-all-of-d-c-s-money-keep-the-ev-humpty-dumpty-together/",
-          "publishedOn": "2024-01-28T23:45:26.000Z",
-          "wordCount": 9052,
-          "title": "Can All of D.C.’s Money Keep the EV Humpty-Dumpty Together?",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/01/tesla-chicago.jpg?fit=2057%2C1200&ssl=1"
         }
       ]
     },
@@ -16813,6 +17013,26 @@
       "feedUrl": "https://sspai.com/feed",
       "siteUrl": "https://sspai.com",
       "articles": [
+        {
+          "id": "https://sspai.com/post/86718",
+          "author": "Matrix机器人",
+          "description": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意以及社区产品动态呈现给大 ...查看全文",
+          "link": "https://sspai.com/post/86718",
+          "publishedOn": "2024-02-27T09:09:51.000Z",
+          "wordCount": 975,
+          "title": "社区速递 033 | 最爱的第三方相机应用、小米电纸书以及快捷指令懒人记账",
+          "imageUrl": "https://cdn.sspai.com/2/27/2024/article/279c63b0-2f0b-abdc-3f8f-a56f2e86ad1a.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/86625",
+          "author": "_东东_",
+          "description": "编注：本文是「2023年度征文：分享你的关键词」的第6篇入围文章。本文仅代表作者本人观点，少数派对标题和排版略作调整。本文参加2023年度征文活动。我的2023年度关键词是：「兴趣使然」。前言相信大家 ...查看全文",
+          "link": "https://sspai.com/post/86625",
+          "publishedOn": "2024-02-27T06:43:25.000Z",
+          "wordCount": 675,
+          "title": "年度征文 | 伪斜杠青年的自救：「兴趣使然」是最好的治愈良药",
+          "imageUrl": "https://cdn.sspai.com/2024/02/23/aa5964431f5ec5bfdd60f4d4dfcac422.jpg"
+        },
         {
           "id": "https://sspai.com/post/85733",
           "author": "啊桂酱AGuiJ",
@@ -17712,26 +17932,6 @@
           "wordCount": 661,
           "title": "纸与数字碰撞：找到你最适合的记笔记方法",
           "imageUrl": "https://cdn.sspai.com/editor/u_yrzhe/17051370666532.png"
-        },
-        {
-          "id": "https://sspai.com/post/86007",
-          "author": "桌沿奇思",
-          "description": "过去的一年里，通过 4 次境内外旅行和 2 次出差，我发现了很多有意思的旅行好物，有些物品冷门但好用，有些物品常用但怕你忘，我都逐一写下来，通通安利给你。读完本文，愿你拥有更加惬意愉快的旅行体验。查看全文",
-          "link": "https://sspai.com/post/86007",
-          "publishedOn": "2024-01-29T03:33:32.000Z",
-          "wordCount": 734,
-          "title": "摩拳擦掌准备假期旅行？这些冷门但必备的好物，推荐给你",
-          "imageUrl": "https://cdn.sspai.com/2024/01/23/0ebc4deb1bf23896efba25a6fde3f1ee.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/86150",
-          "author": "少数派编辑部",
-          "description": "你可能错过的新鲜事AppStore在欧合规举措引起批评1月26日，苹果宣布了一系列针对欧盟地区的AppStore新政策，包括允许第三方应用商店、接入第三方支付方式、在浏览器中使用非SafariWebK ...查看全文",
-          "link": "https://sspai.com/post/86150",
-          "publishedOn": "2024-01-29T00:53:11.000Z",
-          "wordCount": 878,
-          "title": "派早报：App Store 在欧合规举措引起批评",
-          "imageUrl": "https://cdn.sspai.com/1/29/2024/article/9a443037-7401-f6b2-835a-9fc37f954295.png"
         }
       ]
     },
@@ -17740,6 +17940,86 @@
       "feedUrl": "https://plink.anyfeeder.com/idaily/today",
       "siteUrl": "https://docs.rsshub.app",
       "articles": [
+        {
+          "id": "https://m.idai.ly/se/c5bkGV",
+          "author": null,
+          "description": "NASA 公布一张月球勘测轨道飞行器拍摄的月表照片，白色箭头处是「奥德修斯号」（Odysseus）登月器着陆点，坐标为月球南纬80.13°、东经1.44°，海拔高度为2579米。2月26日，Intuitive Machines 公司宣布「奥德修斯号」登月器着陆侧翻导致太阳能电池板无法正常工作，预计电池电力将于2月27日耗尽，提前2天结束本次探月任务。摄影师：NASA",
+          "link": "https://m.idai.ly/se/c5bkGV",
+          "publishedOn": "2024-02-27T10:59:00.000Z",
+          "wordCount": 273,
+          "title": "奥德修斯号电力提前耗尽",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.idai.ly/se/ebevZw",
+          "author": null,
+          "description": "美国总统 Joe Biden 与脱口秀节目主持人 Seth Meyers 在录制结束后一起吃冰淇淋，纽约。2月26日，美国总统 Biden 应邀参加《赛金花深夜秀》10周年节目录制，采访讨论话题涉及竞选策略、年龄争议、国内事件和外交政策等。81岁的 Biden 称另一位候选人 Donald Trump 跟自己一样高龄并且记忆力更差，抨击共和党人试图取消堕胎权等美国坚持数十年的政策立场。最新民调显示 Biden 支持率为39%，落后于共和党总统候选人 Trump 的42%支持度。摄影师：Jim Watson",
+          "link": "https://m.idai.ly/se/ebevZw",
+          "publishedOn": "2024-02-27T09:57:00.000Z",
+          "wordCount": 273,
+          "title": "拜登录制深夜脱口秀",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.idai.ly/se/1c8he9",
+          "author": null,
+          "description": "俄罗斯「联盟-2.1b」火箭搭载1颗气象卫星和18颗立方卫星准备发射，东方航天发射场。2月26日，联盟号火箭进入发射前最后准备阶段，计划于2月29日上午8时43分发射升空。本次发射载荷中包括俄罗斯新一代气象卫星系统「Meteor-M」的第7颗卫星，重约2.7吨，搭载多通道扫描仪、红外光谱仪、微波辐射探测仪等科学设备，主要用于监测地球气候、环境、自然资源和近地空间的太阳地球物理状况。俄罗斯航天集团计划2024年进行超过40次太空发射任务，创下1994年以来最高纪录。摄影师：Roscosmos",
+          "link": "https://m.idai.ly/se/1c8he9",
+          "publishedOn": "2024-02-27T09:55:00.000Z",
+          "wordCount": 273,
+          "title": "俄罗斯发射气象卫星",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.idai.ly/se/33a7l4",
+          "author": null,
+          "description": "匈牙利国会表决通过「瑞典加入北约议定书」，布达佩斯。2月26日，匈牙利国会以188票赞成、6票反对的投票结果通过瑞典加入北约议案。这意味着瑞典将正式结束长达200年的中立和不结盟政策，成为北约第32个成员国。瑞典已于2023年12月与美国签署协议向美军开放17个军事基地使用权。北约秘书长表示「瑞典加入将让北约更强大，让瑞典和所有北约成员国更安全」。摄影师：Tibor Illyes",
+          "link": "https://m.idai.ly/se/33a7l4",
+          "publishedOn": "2024-02-27T09:53:00.000Z",
+          "wordCount": 273,
+          "title": "匈牙利批准瑞典加入北约",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.idai.ly/se/5c57L3",
+          "author": null,
+          "description": "联合国秘书长 Antonio Guterres 向人权理事会第55届会议发表开幕致辞，瑞士日内瓦。2月26日，联合国秘书长 Guterres 指出全球正处于从单极过渡至多极的转折期，权力竞争导致国际规则遭受严重破坏，世界变得越来越不安全。他对联合国安理会未能解决以巴冲突和俄乌战争感到遗憾，呼吁以理性方式为冲突和人权威胁寻求长期解决方案。摄影师：Salvatore di Nolfi",
+          "link": "https://m.idai.ly/se/5c57L3",
+          "publishedOn": "2024-02-27T09:51:00.000Z",
+          "wordCount": 273,
+          "title": "联合国人权理事会会议",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.idai.ly/se/5a4PK9",
+          "author": null,
+          "description": "西班牙巴塞罗那举行2024年世界移动通信大会（MWC），一台机器狗正在进行演示。这台机器狗搭载 AI 语音系统，能够识别语音指令作出拟真反馈动作。本届世界移动通信大会从2月26日持续至29日，主题为「未来先行」（Future First），重点关注领域包括人工智能、5G通讯、物联网和数字化转型等，共有约2400家展商参展，预计吸引约9.5万名观众。摄影师：Adria Puig",
+          "link": "https://m.idai.ly/se/5a4PK9",
+          "publishedOn": "2024-02-27T09:49:00.000Z",
+          "wordCount": 273,
+          "title": "2024世界移动通信大会",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.idai.ly/se/d82omJ",
+          "author": null,
+          "description": "俄罗斯远东地区启动2024年总统大选提前投票，萨哈共和国。2月25日，俄罗斯偏远地区和境外选民开始进行总统大选投票。俄罗斯本届总统选举正式投票从3月15日持续至17日，登记选民数量达到1.12亿人，包括来自扎波罗热、赫尔松、顿涅茨克和卢甘斯克等4个地区的450万新选民。最新民调显示82%俄罗斯民众支持现任总统 Vladimir Putin 继续连任。摄影师：Vadim Skryabin",
+          "link": "https://m.idai.ly/se/d82omJ",
+          "publishedOn": "2024-02-27T09:47:00.000Z",
+          "wordCount": 273,
+          "title": "俄罗斯大选提前投票",
+          "imageUrl": null
+        },
+        {
+          "id": "https://m.idai.ly/se/df7jJZ",
+          "author": null,
+          "description": "韩国龙仁市爱宝乐园，游客们正在拍摄旅韩大熊猫「福宝」。韩国龙仁爱宝乐园2月中旬宣布大熊猫「福宝」将于4月初返回中国，最后一次与公众见面时间为3月3日。「福宝」出生于2020年7月20日，是在韩国出生的第一只大熊猫，父母为旅韩大熊猫「乐宝」和「爱宝」。爱宝乐园是韩国唯一饲养大熊猫的动物园，目前共居住5只大熊猫，包括「乐宝」、「爱宝」和它们的3只后代。摄影师：iDaily Media",
+          "link": "https://m.idai.ly/se/df7jJZ",
+          "publishedOn": "2024-02-27T09:45:00.000Z",
+          "wordCount": 273,
+          "title": "旅韩大熊猫即将归国",
+          "imageUrl": null
+        },
         {
           "id": "https://m.idai.ly/se/082jj4",
           "author": null,
@@ -20008,6 +20288,16 @@
       "siteUrl": "http://nytimes.com",
       "articles": [
         {
+          "id": "https://cn.nytimes.com/world/20240227/nato-sweden-ukraine-russia/dual",
+          "author": null,
+          "description": "STEVEN ERLANGER2024年2月27日本月在波兰举行的北约演习中的英国士兵。 Sean Gallup/Getty Images\nBERLIN — Russia’s full-scale invasion of Ukraine two years ago was an enormous shock to Europeans. Used to 30 years of post-Cold War peace, they had imagined European security would be built alongside a more democratic Russia, not reconstructed against a revisionist imperial war machine.\n柏林——两年前，俄罗斯对乌克兰的全面入侵令欧洲人大受震动。他们原本习惯于冷战后维持了30年的和平，畅想欧洲的安全将与一个更加民主的俄罗斯共存，而不是针对一个修正主义帝国战争机器进行重建。\nThere was no bigger shock than in Finland, with its long border and historical tension with Russia, and in Sweden, which had dismantled 90 percent of its army and 70 percent of its air force and navy in the years after the collapse of the Soviet Union.\n受到冲击最大的莫过于芬兰和瑞典了，前者与俄罗斯有着漫长的边界，且两国有紧张对峙的历史；后者在苏联解体后的数年里裁减了90%的陆军、70%的空军和海军。\nAfter the decision…",
+          "link": "https://cn.nytimes.com/world/20240227/nato-sweden-ukraine-russia/dual",
+          "publishedOn": "2024-02-27T09:36:02.000Z",
+          "wordCount": 1231,
+          "title": "瑞典即将加入北约，这对欧洲意味着什么",
+          "imageUrl": "https://static01.nyt.com/images/2024/02/26/multimedia/26sweden-nato-wlcg/26sweden-nato-wlcg-articleLarge.jpg"
+        },
+        {
           "id": "https://cn.nytimes.com/film-tv/20240227/nai-nai-wa-po-oscars-short/dual",
           "author": null,
           "description": "BRANDON YU2024年2月27日奥斯卡提名短片《奶奶跟外婆》中的易扬辉（左）和张丽华。 Roger Kisby for The New York Times\nAfter he moved back home to the Bay Area in 2021, weighing a move to Los Angeles amid the pandemic, the filmmaker Sean Wang would often spend time with his two grandmothers. Yi Yan Fuei, his 96-year-old Nǎi Nai (paternal grandmother), and Chang Li Hua, his 86-year-old Wài Pó (maternal grandmother), live in the same house together, and Wang quickly began to observe two versions of them. There they were, enmeshed in the quiet rhythms of their daily lives — folding laundry, peeling fruit, napping in their shared bed. Then, Wang, 29, would intrude, coaxing out their playful sides: receiving a slap on the butt or spurring a dance session.\n2021年，考虑在疫情期间搬到洛杉矶生活的电影制作人王湘圣回到湾区的家中，经常陪在奶奶和外婆身边。他96岁的奶奶易扬辉和86岁的外婆张丽华住在同一栋房…",
@@ -20646,26 +20936,6 @@
           "wordCount": 1166,
           "title": "香港法院向恒大发出清盘令",
           "imageUrl": "https://static01.nyt.com/images/2024/01/29/multimedia/29china-evergrande-mkvp/29china-evergrande-mkvp-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/business/20240129/china-hefei-ev-city-economy/dual",
-          "author": null,
-          "description": "KEITH BRADSHER, JOY DONG2024年1月29日中国合肥的一个大型新住宅开发区附近的五里庙建材市场。 Qilai Shen for The New York Times\nUltramodern factories churn out electric cars and solar panels in Hefei, an industrial center in the heart of central China. Broad avenues link office towers and landscaped parks. Subway lines open at a brisk pace.\n工业城市合肥位于中国中部心脏地带，这里有生产电动汽车和太阳能电池板的超现代化工厂，将办公楼和景观公园连接起来的宽阔大道，还有快速落成开通的地铁线路。\nYet at Hefei’s market for construction materials, which fills 10 city blocks, local merchants are gloomy. Wu Junlin, a vendor of doors, has closed two of his three stores and laid off all but one of his dozen employees.\n然而，在占据了合肥十个街区的建筑材料市场，当地商户们却很悲观。房门经销商吴俊林（音）已关闭了三个商店中的两个，解雇了十几名员工，只留下一名雇员。\n“I have been doing this for 20 years — after all these years, this year is the worst,” he said, sitting in his last store …",
-          "link": "https://cn.nytimes.com/business/20240129/china-hefei-ev-city-economy/dual",
-          "publishedOn": "2024-01-29T03:06:02.000Z",
-          "wordCount": 1439,
-          "title": "机会背后的隐忧：从“合肥模式”看中国经济现状",
-          "imageUrl": "https://static01.nyt.com/images/2024/01/22/multimedia/00china-ev-city-01-lbzq/00china-ev-city-01-lbzq-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/china/20240129/china-britain-spy/dual",
-          "author": null,
-          "description": "王月眉, 储百亮, KEITH BRADSHER2024年1月29日北京，天安门广场前的英国和中国国旗。 Andy Wong/Associated Press\nA British businessman who disappeared from public view in China in 2018 was sentenced to five years in prison in 2022, China’s Foreign Ministry said on Friday, in its first public acknowledgment of the case.\n中国外交部上周五表示，2018年在中国从公众视野中消失的一名英国商人在2022年被判处五年监禁，这是本案首次得到公开承认。\nThe businessman, Ian J. Stones, had lived in China since the 1970s, working for companies like General Motors and Pfizer. For years after he vanished, there was no public information about his whereabouts, though some in the business community privately discussed his secret detention.\n这名商人名为石伊恩(Ian J. Stones)，自1970年代以来一直居住在中国，为通用汽车和辉瑞等公司工作。在他消失后的数年一直没有关于其下落的公开信息，尽管一些商界人士私下讨论过他被秘密关押一事。\nA spokesman for the Foreign Ministry said that Mr. Stones had …",
-          "link": "https://cn.nytimes.com/china/20240129/china-britain-spy/dual",
-          "publishedOn": "2024-01-29T01:36:02.000Z",
-          "wordCount": 1109,
-          "title": "中国承认以间谍罪名监禁一名英国商人",
-          "imageUrl": "https://static01.nyt.com/images/2024/01/27/multimedia/27china-spy-cjpq/27china-spy-cjpq-articleLarge.jpg"
         }
       ]
     },
@@ -21202,36 +21472,6 @@
           "publishedOn": "2024-01-30T02:03:00.000Z",
           "wordCount": 332,
           "title": "我们来到这世界，还不算太迟：尼采的解放哲学",
-          "imageUrl": null
-        },
-        {
-          "id": "786c17bef45d128738a2b15c0df07875",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E3%80%8A%E5%9B%BE%E5%83%8F%E3%80%8B%EF%BC%9A%E6%88%91%E4%BB%AC%E8%BA%AB%E5%A4%84%E5%9B%BE%E5%83%8F%E7%9A%84%E6%B5%B7%E6%B4%8B%EF%BC%8C%E5%8D%B4%E5%BE%88%E5%B0%91%E6%80%80%E7%96%91%E5%AE%83%E7%9A%84%E5%A4%8D%E6%9D%82%E6%80%A7",
-          "publishedOn": "2024-01-29T01:55:00.000Z",
-          "wordCount": 331,
-          "title": "《图像》：我们身处图像的海洋，却很少怀疑它的复杂性",
-          "imageUrl": null
-        },
-        {
-          "id": "1b6c7601eb7dcf2403c39c9e4b8fea14",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E7%BA%AA%E5%BF%B5%E5%A5%91%E8%AF%83%E5%A4%AB%E8%AF%9E%E8%BE%B0%E4%B8%A8%E5%A1%94%E7%94%98%E7%BD%97%E6%A0%BC%E7%9A%84%E9%BA%A6%E5%AD%90%EF%BC%8C%E6%88%96%E5%AE%89%E4%B8%9C%C2%B7%E5%A5%91%E8%AF%83%E5%A4%AB%E7%9A%84%E9%B2%B1%E9%B1%BC",
-          "publishedOn": "2024-01-29T01:55:00.000Z",
-          "wordCount": 327,
-          "title": "纪念契诃夫诞辰丨塔甘罗格的麦子，或安东·契诃夫的鲱鱼",
-          "imageUrl": null
-        },
-        {
-          "id": "44639d021664ef03d41eb46864e21d22",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E8%91%A1%E8%90%84%E9%85%92%E5%A6%82%E4%BD%95%E2%80%9C%E9%85%BF%E9%80%A0%E2%80%9D%E4%BA%BA%E7%B1%BB%E5%8E%86%E5%8F%B2%EF%BC%9F",
-          "publishedOn": "2024-01-29T01:55:00.000Z",
-          "wordCount": 318,
-          "title": "葡萄酒如何“酿造”人类历史？",
           "imageUrl": null
         }
       ]
