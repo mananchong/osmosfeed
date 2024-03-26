@@ -44,16 +44,6 @@
           "wordCount": 6129,
           "title": "R Weekly 2024-W10 patching R, data.table survey, Doom plots",
           "imageUrl": "https://rweekly.org/public/facebook.png"
-        },
-        {
-          "id": "https://rweekly.org/2024-W09.html",
-          "author": null,
-          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Jonathan Carroll, with help from the RWeekly team members and contributors.\nHighlight\nHelloWorld(“print”)\nggplot2 3.5.0\n\nBeautiful Code, Because We’re Worth It!\nInsights\nHelloWorld(“print”)\nBalanced sampling in R, Julia, and R + Julia\nPerfectly balanced treatment arm distribution in a multifactorial CRT using stratified randomization\nPerformance Optimization in R: An Example Using Memoise\nTorch for R Now in the qeML Package\nLinking overlapping hospital stays\nggplot2 3.5.0\nMoju-kapu（モジュカプ）Modular Encapsulation\nrscopus_plus: An extension of the rscopus package\nWhy pandas feels clunky when coming from R\n3MW (HTML & CSS with {htmltools})\n\nBeautiful Code, Because We’re Worth It!\n…",
-          "link": "https://rweekly.org/2024-W09.html",
-          "publishedOn": "2024-02-26T00:00:00.000Z",
-          "wordCount": 6047,
-          "title": "R Weekly 2024-W09 print, plot, pretty code",
-          "imageUrl": "https://rweekly.org/public/facebook.png"
         }
       ]
     },
@@ -581,16 +571,6 @@
           "wordCount": 119,
           "title": "成玮评《日本汉文话丛编》｜日本汉文章学的轮廓",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_26463085",
-          "author": null,
-          "description": "《日本汉文话丛编》，慈波、王汝娟编订，复旦大学出版社，2024年1月出版，1985页，498.00元\n\n中国学界注意到日本汉文话，为时并不晚。钱锺书《管锥编》尝征引斋藤正谦《拙堂文话》，称许“斋藤论文，每中肯綮”（生活·读书·新知三联书店，2001年，1419页）。1994年，王水照、吴鸿春编《日本学者中国文章学论著选》刊行（上海古籍出版社），收入《拙堂文话》、海保元备《渔村文话》及吉川幸次郎《中国文章论》，日本汉文话始广泛流播于国内。其后王先生编《历代文话》（复旦大学出版社，2007年），也附录斋藤、海保二书以备参。\n\n王水照、吴鸿春编《日本学者中国文章学论著选》\n\n\n王水照编《历代文话》\n\n但是除此而外，大量日本汉文话，迟迟未得点校整理。近年域外汉籍研究风生水起，日本汉诗话的点校整理，随之全面铺开（譬如马歌东编校《日本诗话二十种》，暨南大学出版社，2014年；赵季等辑校《日本汉诗话集成》，中华书局，2019年），汉文话更感相形见绌。如今，慈波、王汝娟编订《日本汉文话丛编》（复旦大学出版社，2024年1月；以下简称《丛编》，引用仅随文括注页码）付梓，在已知百余种文话中，择取二十五种先行推出（另附广池千九郎《中国文法书批阅目录》），极大弥补了这项阙失。\n编订者将日本汉文话分成三期：五山时代、江户时代、明治时代。五山汉文话率出禅僧之手，集中讨论四六文，影响不越宗门一步，与后世区别显然（“前言”第6页）。《丛编》因而主要收录江户、明治时代之作；五山部分，仅取集大成的大颠梵千（1629-1685）《四六文章图》示例。通览《丛编》，依稀可窥日本汉文章学的轮廓。\n安积信（1791-1860）为川西潜《唐宋八大家文格》作序，关于日本汉文章史有一综述：\n吾邦文章之起远矣。遣唐之使、留学之士，与唐朝诸名士相交，亲承指授，才藻之美彬彬如也，惜其未脱骈俪之习耳。尔后数百年，多乱少治，干戈相寻，…",
-          "link": "https://www.thepaper.cn/newsDetail_forward_26463085",
-          "publishedOn": "2024-02-26T04:02:04.000Z",
-          "wordCount": 119,
-          "title": "成玮评《日本汉文话丛编》｜日本汉文章学的轮廓",
-          "imageUrl": null
         }
       ]
     },
@@ -599,6 +579,206 @@
       "feedUrl": "https://feedx.net/rss/thepaper.xml",
       "siteUrl": "http://thepaper.cn",
       "articles": [
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26807094",
+          "author": null,
+          "description": "当地时间3月25日，波兰外交部发言人帕维乌·弗龙斯基表示，波外交部就俄罗斯导弹24日进入波兰领空一事召见俄驻波大使谢尔盖·安德烈耶夫，要求其作出解释，但安德烈耶夫并未应召前往。波兰外交照会将通过其他途径转发给俄罗斯外交部。\n24日，波兰武装部队作战司令部在社交媒体上称，当天凌晨，一枚俄罗斯导弹进入波兰东南部空域，并在波兰领空停留39秒。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26807094",
+          "publishedOn": "2024-03-26T15:53:45.000Z",
+          "wordCount": 32,
+          "title": "俄罗斯导弹进入波兰领空，波外交部召见俄大使未果",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26816779",
+          "author": null,
+          "description": "近年来，按照公安部部署要求，全国公安机关依法严厉打击查处借“灵修”等旗号从事非法培训活动的公司机构，有力遏制了此类活动的发展蔓延，有效维护了广大人民群众身心健康和生命财产安全。2018年以来，共侦破重点案件77起，依法刑事处理269人，收缴违法所得2.17亿余元。\n今天我们通过公安机关查处的一起借“灵修”等旗号从事非法培训活动的案例，来了解“精神传销”的危害。\n打着“灵修”“灵魂塑造”等旗号对学员实施精神控制\n2022年初，多地公安机关接群众举报，发现某组织神化首要分子，打着“灵修”“灵魂塑造”等旗号，对学员实施精神控制、收取高额培训费。经福建省厦门市公安局全力侦办，一个多省流窜、总部多地搬迁，以邓海鹏为首，利用“灵修”从事违法犯罪活动的非法组织逐渐浮出水面。\n\n起底“灵魂疗愈”背后的精神控制“灵修组织”。视频来源：中国反邪教网(10:13)\n邓海鹏及其创办的培训机构，打着“灵魂塑造”“集体场域”的幌子，对学员进行精神控制，然后以传销、加盟、进阶等现代营销模式达到敛财渔色目的。邓海鹏在培训中强调，“厦门总部”是宇宙中心，是“集体场域”最强的地方，自己是神选中的管道，不臣服于神或者退出场域的学员会被神“运作”（即会发生不好的事情，类似于遭天谴），以树立自己的绝对权威。\n\n专家表示，邓海鹏对学员的精神控制分三步：\n一是通过长时间的授课和所谓的集中办公，将学员与正常生活切割开来；\n二是通过同样的服装、同样的口号、同样的理论等仪式化内容加强学员们的归属感和认同感；\n三是通过贬低学员羞辱学员来弱化学员的自我，与此同时稍给些甜头拉拢学员为其所用。\n而这一切操作和理论的根本谜底，就是大力发展新学员，继而将学员发展成义工。该组织的7名骨干成员均是邓海鹏从学员—义工—核心骨干成员一步步“培养”起来的。\n\n警方收缴的非法宣传材料\n\n同时，邓海鹏在培训过程中，不断打造人设，给自己塑造出勤俭节约、不近女色、只为追求生命的真谛单身至今，无儿无女的“崇高”形象。然而实际上，邓海鹏与自己的人设截然相反，他贪财好色，淫乱奢靡。\n人前他要求学员全部吃素，自己每天大鱼大肉，必吃海参；人前他要求学员不能有不动产、钱是修行来的，自己却拿着骗来的钱去买理财产品；人前他无儿无女，实则有妻有女；人前假装不近女色，背地里却渔色女学员。\n\n一审判决现场\n\n2022年6月，厦门市警方成立专案组，历时4个多月的侦察布控，于2022年10月25日晚将46名抓捕对象全部抓捕到案。截至案发，该培训机构所涉被害人遍及全国20多个省份30多个地市3600余人，其中还包括多名未成年人，诈骗金额高达1100余万元。\n2023年10月，邓海鹏犯利用迷信破坏法律实施罪、诈骗罪、强奸罪，数罪并罚一审获刑十七年六个月，并处罚金人民币八百一十万元。其余7名从犯也得到了应有的审判。\n借“灵修”提升之名行“精神传销”之实\n通过培训来提升自我，本来是件好事儿。然而，培训市场火热，五花八门的课程中，却有可能藏着“传销”的诈骗。\n近年来，一种性质隐蔽、周期短暂、获利高昂的“灵修”组织在全国各地蔓延。这种类型的组织，往往披着合法的外衣，以“提升自我”“灵修”为名义，通过一些精心设置的课程，采取心理暗示等手法，实现对学员的精神控制，最终使得学员主动或者被动帮助这些培训分子“拉人头”，帮助主办方敛财。当前，中央政法委的文件明确将此类行为确定为“精神传销”。\n\n非法组织“灵修”培训现场\n\n“精神传销”具有极大的危害性。\n首先，有些精神传销组织具有境外背景，一旦被境外敌对势力加以利用，很容易诱发事端，将直接影响国家安全。\n其次，此类培训的费用动辄上万元甚至数万元，甚至要求学员拉人头凑人数、发展下线、招募学员，呈现一种病毒式发展的形势，大量资金投入不明账号，严重危害经济社会发展。\n第三，有的非法培训活动对学员实施非法拘禁、强奸、猥亵等人身侵害，以身心解放为名搞集体淫乱活动，对群众身心健康、家庭财产安全和社会和谐稳定构成重大威胁和潜在危害，人民群众反映强烈。个别学员因被精神控制，甚至拒医拒药、自残自杀。\n擦亮双眼，辨别“精神传销”类诈骗课程\n一般来说，“精神传销”类诈骗课程主要有以下三个特点：\n一是让人倾诉自己的痛苦经历、隐私事情。通过聊天让人不断讲述自身的经历，增加受害者的情绪程度，不断让受害者沉浸在过往的痛苦之中，为洗脑课程的进行打下基础。\n二是上课途中不断喊口号，通过不断重复的方式，让这些口号入心入脑，达到精神洗脑的方式。\n三是制造“人托”以及“积极学员”。培训者会让自己的内部人员冒充学员，在各个社群进行积极提问，并反馈在听课之后获得的神奇效果。\n公安机关提醒，当前，在经济利益驱使下，仍有一些不法之徒及机构改头换面，继续从事此类违法犯罪活动。广大群众需认清其本质与危害，自觉抵制“灵修”类非法培训活动。\n公安机关将持续保持严打高压态势，坚决维护人民群众生命财产安全。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26816779",
+          "publishedOn": "2024-03-26T15:53:45.000Z",
+          "wordCount": 59,
+          "title": "起底被公安查处的“灵修”组织：对学员精神控制，渔色女学员",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26816725",
+          "author": null,
+          "description": "中国驻巴基斯坦大使馆3月26日就达苏水电站项目遭遇恐怖袭击发表声明。\n声明表示，当地时间3月26日13时许，中方企业承建的开普省达苏水电站项目车辆在途中遭遇恐怖袭击，造成5名中方人员、1名巴方人员遇难。\n中国驻巴使领馆强烈谴责这一恐怖主义行径，对两国遇难者表示深切哀悼，对遇难者亲属致以诚挚慰问，正会同巴方全力推进事件善后处置工作。\n中国驻巴使领馆已在第一时间启动应急工作，要求巴方对袭击事件进行彻查、严惩凶手，同时采取切实有效措施保护在巴中国公民、机构和项目安全，确保类似事件不再发生。\n中国驻巴使领馆提醒在巴中国公民、企业务必密切关注当地安全形势，提高安保等级，强化安保措施，全力做好安全防范。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26816725",
+          "publishedOn": "2024-03-26T15:53:45.000Z",
+          "wordCount": 33,
+          "title": "中国驻巴基斯坦使馆：中企承建项目车辆遭恐袭，5名中方人员遇难",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26813773",
+          "author": null,
+          "description": "第21分钟，张玉宁助攻，武磊单刀破门。\n\n\n国足进球后不到一分钟，刘洋在防守时走神，拉姆利头球扳平比分。\n\n\n费南多点球破门。\n\n\n第85分钟，武磊个人表演，连续两场比赛梅开二度。\n\n\n武磊助攻，韦世豪进球。\n\n3月26日，对于中国足球而言，这一天很重要。\n上午，中国足协原主席陈戌源一审被判无期——他90度鞠躬向球迷道歉，“我无脸面面对广大球迷，在此我向全国球迷公开谢罪，真诚地向广大球迷说声对不起，希望能得到球迷的宽恕。”\n\n国足终于取得了久违的胜利。\n\n晚上，国足坐镇天津主场，在世预赛亚洲区36强赛再战新加坡——在武磊先进一球的情况下，国足边后卫刘洋“思考人生”出现离谱失误，在一分钟内被对手扳平。\n好在下半场国足赢得了点球机会，且武磊梅开二度，并助攻韦世豪进球，最终国足4-1击败了对手。\n这是中国队自去年11月16日客场2比1击败泰国队之后，时隔七场比赛再次取得胜利。\n本场过后，国足积7分排名小组第二，韩国队10分第一，泰国队积4分小组第三。\n\n武磊两场比赛进了4个球。\n\n伊万科维奇的改变\n赛前根据中国足协官网提供的交战数据显示，国足对新加坡历史交锋17次，战绩为11胜4平2负，进34球失10球。\n除了上一场交锋时的2-2，国足再之前被新加坡逼平是在2006年8月16日——亚洲杯预选赛，国足客场被新加坡0-0逼平。\n值得一提的是，那届亚洲杯预选赛对阵新加坡的主场比赛和今天一样，是在天津举行的，当时国足1-0获胜。\n\n面对刘洋的失误，王大雷很无语。\n\n相比上一场和新加坡的比赛，本场比赛伊万科维奇对阵容做了三处调整——其中最为引人关注的是主力门将从颜骏凌换成了王大雷，高准翼顶替了队长张琳芃打右后卫，高天意顶替王上源打后腰。\n国足阵型还是菱形4-4-2——门将为王大雷；四后卫高准翼、蒋光太、朱辰杰、刘洋；中场高天意和谢鹏飞两人前后站位，李源一和费南多分居左右；双前锋还是武磊搭档张玉宁。\n据统计，这是王大雷近5年来，第2次为国足在A级赛上首发。\n截至目前，王大雷共代表国足出战30场比赛，丢掉24球，完成11场零封。王大雷上次代表国足出战世预赛，还要追溯到2015年11月17日，国足0-0战平中国香港的比赛。\n自2019年6月11日首发出战了国足1-0击败塔吉克斯坦的友谊赛以来，他只代表国足首发出战了去年12月29日0-2不敌阿曼的热身赛。\n\n中国队上半场的领先只保持了不到一分钟。\n\n此外，第一队长张琳芃连续24场代表国足首发的纪录也就此告终。\n上一次张琳芃进入国足名单，但没有首发的比赛是2021年世预赛国足5-0马尔代夫的比赛。\n武磊则接替张琳芃担任国足队长——本场赛前，他为国足出战了97场比赛，打入35粒进球，送出9次助攻。\n武磊曾在2023年的两场友谊赛中首发出任国足队长，今天是他第三次以队长身份首发。\n\n国足主帅伊万科维奇。\n\n还是靠武磊\n赛前接受采访时，主教练伊万科维奇谈及了调整首发的考虑。\n“我们针对第一场比赛的表现进行了相应的人员调整，相信这个调整会对我们有所帮助，我们对新的阵容感到乐观。”\n对于比赛，克罗地亚人坦言球队通过充足的训练时间，完全准备好了，“已经给球员灌输了技战术，让他们在心理上感觉放松。”\n\n武磊和对方球员发生冲突。\n\n的确，国足开场展现了不一样的气势，但随即却出现了令所有人意想不到的画面……\n国足第21分钟打破僵局，张玉宁中场拿球后送出直塞，武磊单刀机会冷静挑射得手。\n然而新加坡开球后仅仅7秒就扳平了比分——新加坡队中圈开球长传，刘洋眼神防守漏人，斯图尔特插上传中，无人盯防的拉姆利头球破门。\n下半场比赛，国足加快了进攻节奏——第65分钟，国足开出定位球，雅各布·马勒拉倒高准翼，裁判判罚点球。\n费南多主罚点球一蹴而就，在主场收获了个人首粒国家队进球。\n\n费南多进球后上演空翻庆祝。\n\n第85分钟，武磊半场拿球后长驱直入，精准推射破门，连续两场比赛上演梅开二度。\n随后，武磊又助攻韦世豪进球——最终，国足在主场4-1拿下了对手。\n根据赛程安排，国足的下一场世预赛是6月6日晚在主场迎战泰国队，这将是国足真正意义上的生死战。\n但由于武磊本场领到了一张黄牌，他将累计两黄停赛，缺席和泰国队的较量。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26813773",
+          "publishedOn": "2024-03-26T14:53:04.000Z",
+          "wordCount": 87,
+          "title": "终于赢了！武磊梅开二度！国足4-1新加坡，下一场决战泰国",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26819835",
+          "author": null,
+          "description": "3月26日，澎湃新闻记者获悉，菜鸟集团CEO万霖今日晚间发出全员邮件，宣布将向菜鸟员工推出二次创业奖金激励计划。这是阿里巴巴集团公告要约收购菜鸟员工股权之后，菜鸟员工收到的又一项激励计划，体现了菜鸟对未来物流战略性建设的决心。\n根据上述计划，菜鸟正式员工除了在2025年4月获得正常的年终奖外，在2025年8月还将额外获得一笔同等金额的奖金。这一计划将覆盖届时在岗、且有年终奖的所有菜鸟正式员工。采用月度或季度奖金非年终奖激励的员工也会有相应方案。\n万霖在全员信中表示，今年是菜鸟二次创业路途上至关重要的一年，需要全体员工继续共同努力奋斗。接下来，菜鸟将更加紧密协同淘天集团和阿里巴巴数字商业集团，提升服务体验。同时，菜鸟将坚定面向全球市场进行物流网络扩张，构建全球竞争力，成为服务世界各地客户的领先网络。阿里巴巴集团将为菜鸟全球扩张计划提供强有力的支持。（澎湃新闻记者 邵冰燕）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26819835",
+          "publishedOn": "2024-03-26T14:23:15.000Z",
+          "wordCount": 36,
+          "title": "菜鸟启动二次创业奖金激励计划，增加员工未来收入确定性",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26820165",
+          "author": null,
+          "description": "阿里巴巴集团董事会主席蔡崇信在3月26日晚间的电话会上表示，集团宣布撤回菜鸟IPO有两个重要的考量。在战略方面，过去几个月集团对中国和国际电商业务进行了评估，认为必须实现菜鸟运营与集团电商业务之间的深度融合。集团首要目标是要在电商领域获胜，需要恢复市场份额推动业务增长。此外，集团看到新的发展机遇，菜鸟通过对基础设施的持续投入来拓展全球物流的网络，成为服务全球客户的领先平台，执行这样的拓展计划需要具备长期投资的耐心和长远的目光。\n蔡崇信还表示，第二个考量是IPO过程本身所处的阶段，刚好菜鸟向港交所提交的招股书中的财务资料已过期，因此必须要决定是否继续IPO申请，“考虑到菜鸟在集团内的战略角色和未来规划，以及目前充满挑战的IPO市场环境，我们认为菜鸟在当前或可预见将来进行IPO并不符合集团的发展策略，而IPO可实现的任何估值都无法反映我们当前认为的菜鸟的真正战略价值。”（澎湃新闻记者 邵冰燕）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26820165",
+          "publishedOn": "2024-03-26T14:23:15.000Z",
+          "wordCount": 36,
+          "title": "蔡崇信：菜鸟IPO可实现的任何估值都无法反映其真正的战略价值",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26813830",
+          "author": null,
+          "description": "据中国嵩山少林寺网站消息，少林寺3月26日发布关于网络谣言的声明称，近日来，多家自媒体账号发布所谓“佛二代现身——释永信之子释正恩接过衣钵”为主要内容的相关谣言。经部分媒体转载后，在网络上迅速传播，造成恶劣影响。\n\n对此，少林寺作如下声明:\n1.上述关于永信方丈的相关谣言纯属恶意捏造、子虚乌有，系对永信方丈的严重诬蔑。\n2.上述网络造谣诽谤，不仅对永信方丈的声誉造成了恶劣影响，对禅宗祖庭少林寺的名誉及少林僧团的形象亦造成了严重损害，更蓄意诋毁中国佛教，戏弄广大信徒的感情，引起国内外佛教界的愤慨。为此，少林寺及永信方丈只有向执法机关报案、诉诸法律途径，依法追究相关人员和账号的法律责任，并提请相关执法机关将调查及处理结果及时公布于众，还少林寺和永信方丈的清白，让违法之人承担应有的法律责任。\n3.我国社会倡导诸恶莫作、众善奉行、文明健康的社会风气，而非自造恶业、人人自危。少林寺及永信方丈欢迎各界人士的批评、建议，但同时倡导让证据说话，而非只是捕风捉影、盲目炒作，更坚决反对恶意虚构、造谣中伤。须知网络并非法外之地，任何人都应对自身的言行负责。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26813830",
+          "publishedOn": "2024-03-26T13:53:03.000Z",
+          "wordCount": 39,
+          "title": "少林寺辟谣“释永信之子释正恩接过衣钵”：恶意捏造，已报案",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26820147",
+          "author": null,
+          "description": "3月26日，道指开盘涨0.1%，标普500涨0.2%，纳指涨0.4%。特斯拉涨3.4%，全美免费试用全自动驾驶一个月。Reddit续涨11.47%，其期权吸引大量看涨押注。网络媒体Buzzfeed跌14.3%，Q4收入降至7570万美元。百度跌1.3%，有知情人士否认苹果与百度已达成AI合作。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26820147",
+          "publishedOn": "2024-03-26T13:53:03.000Z",
+          "wordCount": 32,
+          "title": "道指开盘涨0.1%，标普500涨0.2%，纳指涨0.4%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26819586",
+          "author": null,
+          "description": "3月26日晚间，信达证券股份有限公司（信达证券，601059.SH)披露年报，2023年实现营业收入34.83亿元，同比增长1.33%；归属于上市公司股东的净利润14.67亿元，同比增长19.52%；基本每股收益0.46元。公司拟向全体股东每10股派发现金红利0.46元（含税）。\n\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.run",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26819586",
+          "publishedOn": "2024-03-26T13:23:04.000Z",
+          "wordCount": 32,
+          "title": "信达证券：2023年净利润14.67亿元，同比增长19.52%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26819741",
+          "author": null,
+          "description": "3月26日，商务部部长王文涛会见德国巴伐利亚州州长索德尔一行，双方就中德经贸关系、地方经贸合作等议题进行了交流。\n王文涛表示，中国正以高质量发展全面推进中国式现代化，加快发展新质生产力，打造市场化、法治化、国际化一流营商环境，欢迎巴伐利亚州企业来华投资兴业。巴伐利亚州对华经贸合作基础好、潜力大，希望州政府坚持理性务实立场，为中国企业投资营造公平开放的竞争环境，推动中德地方经贸合作取得更多成果。\n索德尔表示，中国是巴伐利亚州第一大贸易伙伴，州政府重视对华合作，坚决反对“脱钩断链”，支持巴伐利亚州企业深耕中国市场，将为中国企业赴巴伐利亚州投资创造良好营商环境。\n参会的巴伐利亚州企业代表表示，对中国经济发展前景充满信心，将持续扩大对华投资，共享中国高质量发展机遇。（商务部网站）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26819741",
+          "publishedOn": "2024-03-26T13:23:04.000Z",
+          "wordCount": 33,
+          "title": "商务部部长王文涛会见德国巴伐利亚州州长索德尔",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26815103",
+          "author": null,
+          "description": "江西宜丰县联合调查组3月26日发布情况通报：\n针对网上举报我县人民医院一医生参与代孕一事，县委、县政府高度重视，立即责成县卫健委会同公安、市监等部门组成联合调查组，调查核实相关情况。一经查实，将依法依规严肃处理。\n【更多阅读】\n某医院产科主任被举报勾结代孕中介，江西宜丰县卫健委回应\n海报新闻3月26日消息，3月26日，打拐志愿者上官正义再次发文，举报卧底代孕及贩卖出生证案例：江西省宜春市宜丰县人民医院某产科医生涉嫌与代孕机构合作，安排代孕妈妈持他人身份在该院住院生产，而后代孕机构将出生证卖给客户。\n在视频中，上官正义介绍，自己在江西宜丰县人民医院卧底时发现，产科一吴姓主任勾结代孕中介，收受好处费。每次生产完毕，代孕中介以给吴姓主任送水果为名，将现金放在水果篮中、表示感谢。目前，吴姓主任承认已接受代孕机构安排的多名代孕妈妈生产，收受好处费现金上万元。\n上官正义提到，吴姓主任还表示，她之所以走向这条路，是因为该科室也存在其他同事安排代孕妈妈生产。“随后我规劝她，向有关部门投案自首，主动交代问题，至今未果。”上官正义呼吁，希望有关部门可以严查、严惩。\n公开资料显示，宜丰县人民医院是全县唯一的一所集医疗、保健、康复、科研、教学任务为一体的 “二级甲等”综合性医院。与南昌大学第一附属医院为紧密型医联体、南昌大学第二附属医院对口帮扶医院，并与三级综合医院签订23个专科联盟，是江西中医学院、宜春学院、宜春职业技术学院等多所院校的教学基地。\n26日上午，海报新闻记者就此事采访宜丰县卫健委，一工作人员回应称，已关注到相关消息。“目前有相关专班人员到医院去了解和核查情况了，调查结果将向社会公布。”",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26815103",
+          "publishedOn": "2024-03-26T12:53:03.000Z",
+          "wordCount": 35,
+          "title": "江西宜丰回应妇产科主任被举报参与代孕：成立联合调查组",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26813728",
+          "author": null,
+          "description": "据央视新闻消息，当地时间3月22日晚，俄罗斯首都莫斯科近郊克拉斯诺戈尔斯克市“番红花市政厅”音乐厅发生枪击事件，袭击已造成至少139人死亡，其中137人死于恐袭现场，2人死于医院，另有182人受伤。\n3月25日凌晨，4名涉嫌参与恐袭的嫌疑人被莫斯科巴斯曼区法院正式批捕，俄侦查委员会指控他们从事团伙恐怖主义行为，其中3名嫌疑人在受到指控后当庭认罪。\n\n极端组织“伊斯兰国”发布的4名“番红花市政厅”音乐厅袭击者照片 阿马克通讯社 图\n\n\n对于4名嫌疑人是否为实际作案者，近日社交平台上争论声迭起。不过，根据《纽约时报》与《泰晤士报》对音乐厅内的视频与照片、社交平台上的资料以及俄罗斯官方发布或泄露的图像信息，4名嫌疑人的着装与恐袭视频中的袭击者相同，且4名被捕时所驾驶的汽车与袭击期间音乐厅外拍摄到的汽车型号与颜色均相同，故4名嫌疑人极有可能就是实际作案者。\n嫌疑人身着衣物及驾驶汽车与袭击者一致\n报道称，4名嫌疑人在作案后没有更换服装。社交平台Telegram上的一段视频显示，嫌疑人赛达克拉米·拉恰巴利佐达 (Saidakrami Rachabalizoda)被捕后，一名男子将拉恰巴利佐达的右耳一部分割下来塞进他的嘴里，然后把他押出了树林。美国有线电视新闻网（CNN）报道称，该男子为俄罗斯安全部门人员。\n俄罗斯媒体随后发布了法院审讯拉恰巴利佐达的视频，视频中拉恰巴利佐达的右耳缠着厚重的绷带。\n在上述两段视频中，拉恰巴利佐达身穿左胸口处有鲜明标志的棕色T恤和带有Boss标签的裤子，它们与极端组织“伊斯兰国”公布的视频和照片中，莫斯科恐袭中一名袭击者所穿的衣服相匹配。\n\n拉恰巴利佐达被拘留时穿着与袭击者之一相同 阿马克通讯社 Telegram 图\n\n\n第二名嫌疑人沙姆西丁·法里杜尼 (Shamsidin Fariduni) 则穿着一件灰领T恤，他所穿的鞋子具有独特白色标记，且为厚底，这也…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26813728",
+          "publishedOn": "2024-03-26T12:53:03.000Z",
+          "wordCount": 143,
+          "title": "莫斯科恐袭｜视频与照片对比显示，俄方逮捕的四名嫌疑人与袭击者或一致",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26819033",
+          "author": null,
+          "description": "3月26日晚间，长高电新科技股份公司（长高电新，002452.SZ)披露年报，2023年实现营业收入14.93亿元，同比增长22.12%；归属于上市公司股东的净利润1.73亿元，同比增长198.57%；基本每股收益0.28元。公司拟每10股派发现金红利0.7元（含税）。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26819033",
+          "publishedOn": "2024-03-26T12:53:03.000Z",
+          "wordCount": 32,
+          "title": "长高电新：2023年净利润同比增长198.57%，拟10派0.7元",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26819052",
+          "author": null,
+          "description": "新加坡海事与港务局3月26日发文证实，一艘新加坡注册的船只于新加坡时间3月26日13时30分左右在美国马里兰州巴尔的摩撞上“弗朗西斯·斯科特·基”桥。该船是一艘总吨位为95000吨的集装箱船，事发时船上有22名船员。\n新加坡海事与港务局表示，将全力配合美国海岸警卫队的调查工作，该部门也将进行调查。\n美国时间26日凌晨，一艘货船撞上美国马里兰州巴尔的摩“弗朗西斯·斯科特·基”桥，这座长约2.6公里的桥随后坍塌。视频画面显示，船只撞桥时发生爆炸，事发时桥面上多辆车辆行驶。巴尔的摩消防部门称，26日凌晨发生的船只撞击致桥梁坍塌事件恐造成多达20人及多辆车落水。（央视新闻）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26819052",
+          "publishedOn": "2024-03-26T12:53:03.000Z",
+          "wordCount": 32,
+          "title": "新加坡海事与港务局：撞毁美国马里兰州桥梁船只为新加坡注册的集装箱船",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26815337",
+          "author": null,
+          "description": "3月26日，一年一度的中央预算公开拉开大幕，向社会公众“晒”出新一年的“花钱”安排。\n据介绍，今年公开的中央预算包括经十四届全国人大二次会议批准的中央政府预算和中央部门预算。\n“中央政府预算由财政部公开。中央部门预算经财政部批复后，由各部门向社会公开。”财政部有关负责人说。\n中央政府预算方面，2024年公开的内容涵盖中央四本预算情况、中央对地方转移支付分地区预算情况和有关说明。\n中央部门预算方面，2024年公开的内容涵盖部门总体收支预算情况、财政拨款收支预算情况以及重点事项说明等。\n记者翻阅各中央部门预算“账本”发现，今年各部门均公开了部门收支总表、财政拨款收支总表等9张报表，全面、真实反映部门收支总体情况和财政拨款收支情况。\n在公开上述预算报表的同时，各部门还对预算收支增减变化、机关运行经费安排、“三公”经费、政府采购、国有资产占用、预算绩效管理、提交全国人大审议的项目等情况予以说明，并对专业性较强的名词进行解释。\n花钱必问效，无效要问责。近年来，财政部高度重视绩效目标管理工作，指导督促中央部门科学合理设定绩效目标，严格绩效目标审核，做好绩效目标公开。\n“今年要求公开部门预算的中央部门，原则上应将一般公共预算一级项目、政府性基金预算项目、国有资本经营预算项目绩效目标表按照不低于项目数量60%的比例向社会公开。”这位负责人说。\n专家普遍认为，通过公开绩效目标，可以向公众清晰展现财政资金的“任务单、时间表、效果图”，有利于督促部门落实绩效责任，切实提高财政资金使用效益。\n党政机关少花一分钱，民生事业就可以多安排一分钱。今年，中央本级预算安排在过紧日子方面持续着力：集中财力保障国家重大战略任务，做到“大钱大方，小钱小气”；做好部门履职经费保障，坚持有压有保；强化预算约束，防止铺张浪费。\n“推动中央部门精简不必要的节庆、论坛和展会，更加节约高效地举办会议、开展培训和调研。”这位负责人说。从紧从严安排“三公”经费预算，实事求是保障合理需求。按季评估中央部门过紧日子情况，将评估结果与预算安排挂钩。\n此外，为使公众找得到、看得懂、能监督，今年各部门的部门预算除在本部门网站公开外，继续在财政部门户网站设立的“中央预决算公开平台”集中公开，方便人民群众监督政府财政工作。\n在业内人士看来，预算公开是深化财税体制改革、健全现代预算制度的重要内容，是强化预算管理、优化资源配置、硬化预算约束、加强财会监督的重要举措，是保障公众知情权、强化外部监督的机制性安排，对推动实现国家治理体系和治理能力现代化具有重要意义。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26815337",
+          "publishedOn": "2024-03-26T12:53:03.000Z",
+          "wordCount": 33,
+          "title": "预算“晒”得细、“花钱”必问效，解读2024年中央预算公开",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26815087",
+          "author": null,
+          "description": "3月26日，外交部发言人林剑主持例行记者会。\n有记者提问，据报道，3月25日，联合国安理会通过了阿尔及利亚等国提出的要求在加沙立即实现停火的第2728号决议。中国等14个安理会成员赞成，美国弃权。此系本轮巴以冲突爆发以来安理会首次通过决议要求立即实现停火。中方对此有何评论？\n林剑表示，中国常驻联合国代表在安理会表决后的解释性发言中已经全面阐述了中方立场。当前加沙冲突仍在延宕，造成了严重的人道主义危机。安理会第2728号决议旗帜鲜明要求立即停火，扩大在加沙地区的人道救援，解除对大规模人道援助的限制，符合安理会行动的正确方向，回应了国际社会的普遍期待，中方对此表示欢迎。\n林剑指出，安理会的决议具有约束力，我们要求当事方履行联合国宪章规定的义务，根据决议的要求采取应有行动。我们期待有重要影响的国家对当事方发挥积极作用，包括采取一切有效手段来支持决议的实施。安理会要继续密切关注加沙局势，为采取进一步必要的行动做好准备，确保决议得到及时充分的执行。中方将继续同各方一道，为早日平息加沙战火，缓解人道局势，推动落实两国方案不懈努力。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26815087",
+          "publishedOn": "2024-03-26T12:53:03.000Z",
+          "wordCount": 39,
+          "title": "联合国安理会通过决议要求在加沙立即停火，外交部：欢迎",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26817910",
+          "author": null,
+          "description": "“我们看到（中国）各个地方的人都满满当当的。”\n3月23日，雀巢集团首席执行官马克•施奈德(Mark Schneider) 在接受包括澎湃新闻在内的媒体采访时表示，中国的消费能力正在逐步回升，预计将在今年下半年有所好转。\n“新冠疫情结束后，当时大家的期待都非常高，都希望疫情结束后消费立刻就恢复到正常水平，甚至比之前更高，但事实上并没有那么快，”他向澎湃新闻记者表示，“不过我们相信恢复的大趋势还是在的。”\n回望过去两年全球的经济形势，施奈德认为，全球经济最大的挑战在于高企的通货膨胀，尤其在食品领域。而高企的通胀打击了消费者的消费信心和消费意愿。“好消息是现在食品行业的通胀率整体在往下走，价格也在趋于平稳。”他表示，全球的就业率及工资增长率都较为强劲。因此有理由相信，今年下半年消费者的信心和消费意愿会再次得到增强。（澎湃新闻记者 范昕茹）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26817910",
+          "publishedOn": "2024-03-26T12:23:06.000Z",
+          "wordCount": 43,
+          "title": "雀巢CEO施奈德：中国消费能力正在回升，下半年预计逐步好转",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26817937",
+          "author": null,
+          "description": "当地时间3月26日，俄罗斯国防部发布消息称，俄军米格-31战机在巴伦支海域上空拦截了2架美军В-1В轰炸机，阻止了其对俄罗斯边境的侵犯。（央视新闻）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26817937",
+          "publishedOn": "2024-03-26T12:23:05.000Z",
+          "wordCount": 32,
+          "title": "俄战机在巴伦支海上空拦截两架美国军机",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26816795",
+          "author": null,
+          "description": "3月26日晚间，中芯国际集成电路制造有限公司（中芯国际，688981.SH)公告，公司间接全资子公司芯电上海与磐石香港有限公司（简称“磐石香港”）签订股份转让协议。根据协议，芯电上海拟将其持有的长电科技2.29亿股无限售条件流通股份（于协议签署日占长电科技已发行股份总数的12.79%），以29元/股的价格转让给磐石香港或其关联方，转让价款总额为66.36亿元。本次交易完成后，芯电上海将不再持有任何长电科技的股份。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26816795",
+          "publishedOn": "2024-03-26T11:53:04.000Z",
+          "wordCount": 32,
+          "title": "中芯国际：子公司拟转让长电科技12.79%股份",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26816816",
+          "author": null,
+          "description": "3月26日晚间，中信证券股份有限公司（中信证券，600030.SH)披露年报，2023年实现营业收入600.68亿元，同比下降7.74%；归属于母公司股东的净利润197.21亿元，同比下降7.49%；基本每股收益1.3元。公司拟向全体股东每10股派发现金红利4.75元（含税）。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26816816",
+          "publishedOn": "2024-03-26T11:53:04.000Z",
+          "wordCount": 32,
+          "title": "中信证券：2023年净利润同比下降7.49%，拟10派4.75元",
+          "imageUrl": null
+        },
         {
           "id": "https://www.thepaper.cn/newsDetail_forward_26815192",
           "author": null,
@@ -12158,66 +12338,6 @@
           "wordCount": 36,
           "title": "家长晒寒假作业赶工现场，杭州一小学设一个月“作业缓交期”",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_26466098",
-          "author": null,
-          "description": "2月26日，印度SENSEX30指数低开0.13%，报73044.81点。权重股信实工业涨0.11%，塔塔咨询跌0.32%，印度国家银行跌0.58%。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_26466098",
-          "publishedOn": "2024-02-26T04:23:04.000Z",
-          "wordCount": 32,
-          "title": "印度SENSEX30指数低开0.13%",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_26466115",
-          "author": null,
-          "description": "2月26日，港股三大指数弱势调整，金融震荡走低。恒生指数午盘跌0.7%报16609.11点，恒生科技指数跌0.4%报3386.26点，恒生中国企业指数跌0.66%报5726.85点。大市半日成交额为443.20亿港元，持平0亿港元。盘面上，保险领跌，银行、多元金融走势不佳，国银金租下滑5%，中国太保、中国太平、中金公司跌逾2%；制造业造好，汽车、硬件设备持续活跃，零跑汽车、联想集团上攻4%，东风集团股份涨超3%。\n行业板块多数下跌，保险、耐用消费品与服装、软件与服务跌逾1%，银行、电信服务、多元金融、材料飘绿；上涨方面，食品与主要用品零售涨逾1%，汽车与汽车零部件、制药、生物科技与生命科学、资本货物、技术硬件与设备、消费者服务、家庭与个人用品飘红。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_26466115",
-          "publishedOn": "2024-02-26T04:23:04.000Z",
-          "wordCount": 32,
-          "title": "恒生指数午盘跌0.7%，恒生科技指数跌0.4%",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_26462132",
-          "author": null,
-          "description": "宗庆后\n\n惊闻娃哈哈创始人、董事长宗庆后辞世的消息，虽然早有心理准备，但还是泪盈双眸。\n1991年第一次见到老宗，娃哈哈4岁，宗庆后46岁。我参加公司推出第二个主导产品的发布会，“甜甜的、酸酸的，妈妈我要喝”的广告歌一夜席卷大江南北；\n2002年我和新华社同事吴晓波撰写出版娃哈哈第一部官方传记《非常营销——娃哈哈：中国最成功的实战教案》，娃哈哈15岁，宗庆后57岁。那一年，娃哈哈已崛起为中国第一、全球第五大食品饮料巨头，当年饮料总产量在中国市场第一次超越可口可乐；\n2023年最后一次见到老宗，娃哈哈36岁，宗庆后78岁。那是一次企业家大会，老宗躬身握着我的手，他说：“我戒烟有段时间了，你觉得我的脸色是不是比以前好？”这应该是老宗第一次和我聊起自己的健康，过去几十年，他谈论的永远是关于公司，关于市场。\n2024年，世间再无宗庆后。\n\n2013年11月13日，宗庆后在杭州的办公室内。新华社资料图\n\n一\n在生命的尽头，老宗累了，需要休息了。但他一生最厌恶的就是“退休”。 \n2002年《非常营销》出版后，曾经安排过一轮北大、哈工大、复旦等全国十大高校的巡回演讲。年底，我们陪同宗庆后来到北京大学。他演讲时，有一位女同学提问：“什么是企业家的终点？宗总打算什么时候退休？”说话一向气定神闲的宗庆后突然提高了声调：“对我来说，永远没有退休两个字！”站在他身边的我能感觉到，老宗甚至有一点不悦。\n宗庆后生前最后一次公开露面，是2023年12月12日的2024年度娃哈哈全国销售工作会议。被病痛折磨的他没有讲话，行走都已经困难，但仍然放心不下娃哈哈最为重要的市场营销。\n\n2023年12月12日，宗庆后出席娃哈哈集团2024年全国销售工作会议。坐在他边上的是女儿宗馥莉。新华网 图\n\n支撑“劳模”宗庆后一生拼杀到最后一刻的动力究竟是什么？\n平日不苟言笑、不轻易流露情感的宗庆后，却有两次被媒体广泛传播的…",
-          "link": "https://www.thepaper.cn/newsDetail_forward_26462132",
-          "publishedOn": "2024-02-26T03:53:04.000Z",
-          "wordCount": 92,
-          "title": "宗庆后祭：企业家、首富、“平民”及其真实的人生",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_26466050",
-          "author": null,
-          "description": "周一（2月26日），国内商品期货午盘涨跌不一，能源化工品表现疲软，纯碱跌2.92%，LPG跌2.36%，燃油跌2.08%，低硫燃料油跌2.02%，原油跌1.73%。黑色系多数下跌，铁矿石跌2.54%，螺纹钢跌0.84%，热轧卷板跌0.49%，焦炭跌0.42%，焦煤跌0.39%，硅铁跌0.33%，不锈钢跌0.04%。农产品多数下跌，红枣跌1.66%，白糖跌1.13%，豆一跌0.76%，郑棉跌0.74%，棉纱跌0.53%。基本金属多数下跌，沪铜跌0.37%，沪镍跌0.36%，氧化铝跌0.21%，沪锡跌0.12%，沪铝跌0.11%，沪锌涨0.25%，碳酸锂涨3.34%。沪金涨0.08%，沪银跌0.21%。此外，集运指数(欧线)跌4.61%报1966.1点。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_26466050",
-          "publishedOn": "2024-02-26T03:53:04.000Z",
-          "wordCount": 32,
-          "title": "国内商品期货午盘涨跌不一，集运指数(欧线)跌超4%",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_26466046",
-          "author": null,
-          "description": "A股三大股指2月26日开盘涨跌互现。早盘指数分化，沪指震荡下行失守3000点关口，深成指则表现较强，午盘三大股指涨跌互现。\n从盘面上看，银行、保险、煤炭、电力、白酒、石油等行业回调；工业母机、机器人、减速器指数携手大涨，新能源车产业链活跃。\n至午间收盘，上证综指跌0.58%，报2987.48点；科创50指数涨0.82%，报770.79点；深证成指涨0.21%，报9088.04点；创业板指跌0.16%，报1755.41点。\nWind统计显示，两市及北交所共3978只股票上涨，1243只股票下跌，平盘有127只股票。\n沪深两市成交总额5961亿元；北向资金半日净流出8.73亿元；两市及北交所共有123只股票涨幅在9%以上，1只股票跌幅在9%以上。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_26466046",
-          "publishedOn": "2024-02-26T03:53:04.000Z",
-          "wordCount": 35,
-          "title": "【午盘】A股早盘涨跌互现，近4000股收涨",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_26465941",
-          "author": null,
-          "description": "2月26日，教育板块午前大幅攀升，开元教育大涨13%，昂立教育、学大教育、美吉姆同步封板，全通教育、传智教育快速跟进。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_26465941",
-          "publishedOn": "2024-02-26T03:23:04.000Z",
-          "wordCount": 32,
-          "title": "教育板块午前大幅攀升，开元教育大涨13%",
-          "imageUrl": null
         }
       ]
     },
@@ -12226,6 +12346,86 @@
       "feedUrl": "https://www.nationalreview.com/feed/",
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1614539",
+          "author": "James Lynch",
+          "description": "Trump’s wealth soared to an estimated $6.4 billion on Monday because of his 60 percent stake in Truth Social.",
+          "link": "https://www.nationalreview.com/news/trumps-social-media-company-stock-surges-on-first-day-of-trading/",
+          "publishedOn": "2024-03-26T16:14:25.000Z",
+          "wordCount": 8648,
+          "title": "Trump’s Social-Media Company Stock Surges on First Day of Trading",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/03/donald-trump-new-hampshire.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1614437",
+          "author": "James Lynch",
+          "description": "The distress call allowed the authorities to close the bridge to traffic and ‘saved lots of lives,’ Baltimore mayor Brandon Scott said.",
+          "link": "https://www.nationalreview.com/news/major-baltimore-bridge-collapses-after-ship-collides-with-piling-search-and-rescue-efforts-underway/",
+          "publishedOn": "2024-03-26T12:12:44.000Z",
+          "wordCount": 8915,
+          "title": "Ship Lost Power, Issued Mayday Call before Colliding with Baltimore Bridge; Six People Still Unaccounted For",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/03/Baltimore-Bridge-6.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1614122",
+          "author": "Andrew Follett",
+          "description": "The argument that government planning, not free markets, can help the environment ignores history and reality.",
+          "link": "https://www.nationalreview.com/2024/03/only-capitalism-can-solve-environmental-problems/",
+          "publishedOn": "2024-03-26T10:30:45.000Z",
+          "wordCount": 9191,
+          "title": "Only Capitalism Can Solve Environmental Problems",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2022/08/solar-panels-china.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1614321",
+          "author": "Jay Nordlinger",
+          "description": "On constitutional democracy; racial nuttiness; a lesson from Monty Python; the ‘Ghost Army’; and more.",
+          "link": "https://www.nationalreview.com/2024/03/human-guardrails-c/",
+          "publishedOn": "2024-03-26T10:30:35.000Z",
+          "wordCount": 15129,
+          "title": "Human guardrails, &c.",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2022/06/pence-2.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1613373",
+          "author": "Grazie Pozo Christie",
+          "description": "When it comes to mifepristone, the agency has sacrificed its noble mission by putting politics over science and endangering girls and women.",
+          "link": "https://www.nationalreview.com/2024/03/the-fdas-failures-on-abortion-drugs-demand-supreme-court-intervention/",
+          "publishedOn": "2024-03-26T10:30:34.000Z",
+          "wordCount": 8961,
+          "title": "The FDA’s Failures on Abortion Drugs Demand Supreme Court Intervention",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/02/mifepristone-clinic.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1614371",
+          "author": "Rich Lowry",
+          "description": "Plenty of people love their gas-powered cars, and for good reason.",
+          "link": "https://www.nationalreview.com/2024/03/thank-god-for-internal-combustion-engine/",
+          "publishedOn": "2024-03-26T10:30:32.000Z",
+          "wordCount": 8767,
+          "title": "Thank God for the Internal Combustion Engine",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/03/gas-station-florida.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1614274",
+          "author": "Meghan Portfolio",
+          "description": "A new bill removes markers on driver’s licenses that indicate whether someone is undocumented, compromising citizen-only voting.",
+          "link": "https://www.nationalreview.com/2024/03/drivers-license-mischief-risks-more-voter-fraud-in-connecticut/",
+          "publishedOn": "2024-03-26T10:30:27.000Z",
+          "wordCount": 9310,
+          "title": "Driver’s-License Mischief Risks More Voter Fraud in Connecticut",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/03/connecticut-governor-ned-lamont.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1614252",
+          "author": "The Editors",
+          "description": "Israel must now contemplate the reality that it is alone in its fight against Hamas.",
+          "link": "https://www.nationalreview.com/2024/03/bidens-shameful-betrayal-of-israel-at-the-united-nations/",
+          "publishedOn": "2024-03-26T10:30:12.000Z",
+          "wordCount": 8747,
+          "title": "Biden’s Shameful Betrayal of Israel at the United Nations",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/03/president-joe-biden-tel-aviv-israel.jpg?fit=2057%2C1200&ssl=1"
+        },
         {
           "id": "https://www.nationalreview.com/?post_type=blog-post&p=1614291",
           "author": "Caroline Downey",
@@ -17465,26 +17665,6 @@
           "wordCount": 16712,
           "title": "This Century-Old Law Is Holding American Shipping Back",
           "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/02/dredging-st-johns-river-florida.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1603121",
-          "author": "John Fund",
-          "description": "The president is as reckless with his dogs as he is with inflation.",
-          "link": "https://www.nationalreview.com/2024/02/biden-bites/",
-          "publishedOn": "2024-02-25T20:28:23.000Z",
-          "wordCount": 8742,
-          "title": "Biden Bites",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/02/biden-dog-commander-white-house-2.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1603106",
-          "author": "Caroline Downey",
-          "description": "The VA this year began enforcing a 2018 policy that allows males who identify as women to access women’s exam rooms and restrooms.",
-          "link": "https://www.nationalreview.com/news/gop-representative-rosendale-vows-to-use-budgeting-process-to-protect-female-veterans-from-va-trans-intrusion/",
-          "publishedOn": "2024-02-25T20:01:30.000Z",
-          "wordCount": 8374,
-          "title": "GOP Representative Rosendale Vows to Use Budgeting Process to Protect Female Veterans from VA Trans Intrusion",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2022/09/veterans-affairs-building.jpg?fit=2057%2C1200&ssl=1"
         }
       ]
     },
@@ -17493,6 +17673,46 @@
       "feedUrl": "https://sspai.com/feed",
       "siteUrl": "https://sspai.com",
       "articles": [
+        {
+          "id": "https://sspai.com/post/87559",
+          "author": "吃派的水獭",
+          "description": "省流版：BANG!CASE现已面世：一款能调用iOS系统功能和快捷指令的手机壳，通过单击、双击、长按BANG!Button，即可完成一系列任务。超前预售进行中：即日起至4月8号，BANG!CASE以1 ...查看全文",
+          "link": "https://sspai.com/post/87559",
+          "publishedOn": "2024-03-26T10:30:44.000Z",
+          "wordCount": 709,
+          "title": "BANG!CASE 开启超前预售：一键按下，开启 iPhone 效率新世代",
+          "imageUrl": "https://cdn.sspai.com/2024/3/26/article/eb8fea2e-7189-78e1-8ee3-3c290342e5a3.jpeg"
+        },
+        {
+          "id": "https://sspai.com/prime/story/wsa-alternatives",
+          "author": "化学心情下2",
+          "description": "WSA 的命运已经终结，还剩下哪些选择可以让我们继续在 Windows 上使用 Android 应用呢？查看全文\n本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
+          "link": "https://sspai.com/prime/story/wsa-alternatives",
+          "publishedOn": "2024-03-26T09:11:49.000Z",
+          "wordCount": 1105,
+          "title": "WSA 谢幕之际，盘点 PC 运行 Android 应用解决方案",
+          "imageUrl": "https://cdn.sspai.com/3/26/2024/article/b79c621b-02c2-1575-6189-994e95d15f0a.jpeg"
+        },
+        {
+          "id": "https://sspai.com/post/87563",
+          "author": "Matrix机器人",
+          "description": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意以及社区产品动态呈现给大 ...查看全文",
+          "link": "https://sspai.com/post/87563",
+          "publishedOn": "2024-03-26T09:07:19.000Z",
+          "wordCount": 921,
+          "title": "社区速递 037 | 给父母买的手机、优秀热点机以及半入耳式耳机",
+          "imageUrl": "https://cdn.sspai.com/26/3/2024/article/04cd7a4d-821e-99bb-e9ae-5a1eaf8c6ee9.jpeg"
+        },
+        {
+          "id": "https://sspai.com/post/87413",
+          "author": "ElijahLee",
+          "description": "使用 Apple Fitness+ 锻炼成了我的每日常态，我想把它也推荐给你。查看全文",
+          "link": "https://sspai.com/post/87413",
+          "publishedOn": "2024-03-26T06:49:14.000Z",
+          "wordCount": 1185,
+          "title": "深度体验一年之后，我爱上了 Apple Fitness+",
+          "imageUrl": "https://cdn.sspai.com/2024/3/26/article/fa3720ee-ee56-770f-b703-c350c8a96f90.png"
+        },
         {
           "id": "https://sspai.com/post/86965",
           "author": "少数派编辑部",
@@ -18612,26 +18832,6 @@
           "wordCount": 687,
           "title": "年度征文｜新手家庭财务初探",
           "imageUrl": "https://cdn.sspai.com/2024/02/23/735a3350cfdfac661175ee014bcbf73f.png"
-        },
-        {
-          "id": "https://sspai.com/post/86677",
-          "author": "Kostya",
-          "description": "能，但 Office 里的 Copilot 还有很大的提升空间。查看全文",
-          "link": "https://sspai.com/post/86677",
-          "publishedOn": "2024-02-26T03:41:23.000Z",
-          "wordCount": 1260,
-          "title": "用不明白 Office 的第 365 天，微软请的「小帮手」能帮上忙吗？",
-          "imageUrl": "https://cdn.sspai.com/2/26/2024/article/728a5737-7fa3-74ce-5d22-57129218f110.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/86668",
-          "author": "少数派编辑部",
-          "description": "你可能错过的新鲜事Reddit申请上市2月22日，美国访问量最大的网站之一、在线论坛服务Reddit向美国证券交易委员会（SEC）递交上市申请，计划三月在纽交所上市，代码为RDDT。这将是今年美国大型 ...查看全文",
-          "link": "https://sspai.com/post/86668",
-          "publishedOn": "2024-02-26T00:49:57.000Z",
-          "wordCount": 912,
-          "title": "派早报：Reddit 申请上市，Vision Pro 零部件成本约为 1542 美元",
-          "imageUrl": "https://cdn.sspai.com/2/26/2024/article/f3e305fe-b12f-e4f4-6e73-1c72772bc839.png"
         }
       ]
     },
@@ -21490,6 +21690,16 @@
       "siteUrl": "http://nytimes.com",
       "articles": [
         {
+          "id": "https://cn.nytimes.com/china/20240326/china-gross-outfits-at-work/dual",
+          "author": null,
+          "description": "CLAIRE FU, DAISUKE WAKABAYASHI2024年3月26日\nWhen the weather turned cold in December, Cindy Luo started to wear her fluffy pajamas over a hooded sweatshirt at the office. Wearing cozy sleepwear to work became a habit and soon she didn’t even bother to wear matching tops and bottoms, selecting whatever was most comfortable.\n12月天气转冷时，辛迪·罗（音）开始在办公室里穿加绒睡衣，里面是连帽运动衫。穿着舒适的睡衣上班成了一种习惯，很快，她甚至懒得穿配套的上下装，只选择最舒服的。\nA few months later, she posted photos of herself to a “gross outfits at work” thread that had spread on Xiaohongshu, a Chinese app similar to Instagram. She was one of tens of thousands of young workers in China to proudly post pictures of themselves showing up at the office in onesies, sweatpants and sandals with socks. The just-rolled-out-of-bed look was shockingly casual for most Chinese workp…",
+          "link": "https://cn.nytimes.com/china/20240326/china-gross-outfits-at-work/dual",
+          "publishedOn": "2024-03-26T06:36:05.000Z",
+          "wordCount": 1442,
+          "title": "中国年轻人为何爱上“上班恶心穿搭”",
+          "imageUrl": "https://static01.nyt.com/images/2024/03/19/multimedia/00China-GrossOutfits-01-cpfj/00China-Workplace-02-cpfj-videoLarge.jpg"
+        },
+        {
           "id": "https://cn.nytimes.com/usa/20240326/china-hacking-us-sanctions/dual",
           "author": null,
           "description": "DAVID E. SANGER, MARK LANDLER2024年3月26日拜登总统去年在加利福尼亚与中国国家主席习近平会晤时，曾就入侵美国基础设施的问题向习近平主席发出警告。 Doug Mills/The New York Times\nThe United States and Britain imposed sanctions on China’s elite hacking units on Monday, accusing Beijing’s top spy agency of a yearslong effort to place malware in America’s electrical grids, defense systems and other critical infrastructure, and of stealing the voting rolls for 40 million British citizens.\n周一，美国和英国对中国的精英黑客部门实施制裁，指责北京的最高间谍机构数年来一直在美国的电网、国防系统和其他关键基础设施中植入恶意软件，并窃取了4000万英国公民的投票名册。\nTaken together, the actions on both sides of the Atlantic underscored the escalation of cyberconflict between the Western allies and Beijing, in vastly different spheres.\n大西洋两岸的同时行动凸显了西方盟国与北京在截然不同领域的网络冲突出现升级。\nAmerican intelligence agencies have warned that the malware found in U.S.…",
@@ -22418,36 +22628,6 @@
           "wordCount": 5237,
           "title": "间谍战争：中情局如何秘密帮助乌克兰对抗普京",
           "imageUrl": "https://static01.nyt.com/images/2024/02/26/multimedia/26secretswar-print-01/secretwar-kbjq-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/business/20240226/zong-qinghou-china-billionaire/dual",
-          "author": null,
-          "description": "TIFFANY MAY, KEITH BRADSHER2024年2月26日2013年，中国食品饮料公司娃哈哈总裁宗庆后在北京的一次新闻发布会上。 Wang Zhao/Agence France-Presse — Getty Images\nZong Qinghou, a self-made beverage entrepreneur who was once the richest person in China, died on Sunday.\n白手起家的饮料企业家宗庆后于周日去世，他曾一度是中国首富。\nHis death was announced by his company, Wahaha Group, which said that Mr. Zong had died from an unspecified illness and gave his age as 79. The company statement provided no further details.\n他的死讯由他的公司娃哈哈集团宣布，称他死于一种未指明的疾病，享年79岁。该公司的声明没有提供进一步的细节。\nMr. Zong’s rags-to-riches story had made him prominent in China even before a public feud with his foreign business partner considerably raised his profile — and his wealth. He founded a beverage company in the 1980s, and in the 1990s, he partnered with Danone, the French food giant, to launch one o…",
-          "link": "https://cn.nytimes.com/business/20240226/zong-qinghou-china-billionaire/dual",
-          "publishedOn": "2024-02-26T03:36:04.000Z",
-          "wordCount": 1000,
-          "title": "娃哈哈创始人、前中国首富宗庆后去世，享年79岁",
-          "imageUrl": "https://static01.nyt.com/images/2024/02/25/world/25zong-01/25zong-01-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/usa/20240226/china-hacking-files-risk/dual",
-          "author": null,
-          "description": "JULIAN E. BARNES, DAVID E. SANGER2024年2月26日美国官员说，中国使用承包商网络开展计算机渗透运动，但经济问题和猖獗的腐败已使这项运动受到削弱。 Thomas Peter/Reuters\nThe Chinese hacking tools made public in recent days illustrate how much Beijing has expanded the reach of its computer infiltration campaigns through the use of a network of contractors, as well as the vulnerabilities of its emerging system.\n前些天曝光的中国黑客工具不仅显示了中国政府通过承包商网络扩大计算机渗透的活动范围之大，也显示了其新兴系统的脆弱。\nThe new revelations underscore the degree to which China has ignored, or evaded, American efforts for more than a decade to curb its extensive hacking operations. Instead, China has both built the cyberoperations of its intelligence services and developed a spider web of independent companies to do the work.\n从新泄露的文件可以看出，十多年来，中国在多大程度上无视或避开了美国为限制其广泛的黑客活动所做的努力。它不仅建立了自己的网络情报部门，还发展出一个由独立的公司…",
-          "link": "https://cn.nytimes.com/usa/20240226/china-hacking-files-risk/dual",
-          "publishedOn": "2024-02-26T03:06:07.000Z",
-          "wordCount": 1060,
-          "title": "安洵文件泄露事件揭示中国黑客网络脆弱性",
-          "imageUrl": "https://static01.nyt.com/images/2024/02/22/multimedia/22dc-hack-hqjc/22dc-hack-hqjc-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/world/20240226/africa-donkey-china/dual",
-          "author": null,
-          "description": "ELIAN PELTIER, KEITH BRADSHER, SIYI ZHAO2024年2月26日埃塞俄比亚南部，一名养驴的农户，摄于去年。 Eduardo Soteras/Agence France-Presse — Getty Images\nFor years, Chinese companies and their contractors have been slaughtering millions of donkeys across Africa, coveting gelatin from the animals’ hides that is processed into traditional medicines, popular sweets and beauty products in China.\n多年来，中国企业及其承包商一直在非洲屠杀数百万头驴，贪求从驴皮中提炼明胶，将其加工成传统药物、受欢迎的糖果和美容产品。\nBut a growing demand for the gelatin has decimated donkey populations at such alarming rates in African countries that governments are now moving to put a brake on the mostly unregulated trade.\n然而，对明胶日益增长的需求使非洲国家的驴子数量以惊人的速度减少，以至于各国政府现在正着手制止这种基本上不受管制的贸易。\n\nThe African Union, a body that encompasses the continent’s 55 states, adopted a continentwide ban on donkey skin exports…",
-          "link": "https://cn.nytimes.com/world/20240226/africa-donkey-china/dual",
-          "publishedOn": "2024-02-26T01:36:04.000Z",
-          "wordCount": 1453,
-          "title": "非盟通过驴皮出口禁令，中国中产阿胶梦碎？",
-          "imageUrl": "https://static01.nyt.com/images/2024/02/21/multimedia/21africa-donkeys-1-gfpl/21africa-donkeys-1-gfpl-articleLarge.jpg"
         }
       ]
     },
@@ -23084,36 +23264,6 @@
           "publishedOn": "2024-02-27T01:55:00.000Z",
           "wordCount": 330,
           "title": "童话《小红帽》为什么是女性的成长模型？",
-          "imageUrl": null
-        },
-        {
-          "id": "470596ed31f95d55cbf144745b80a70b",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E4%B8%B4%E7%BB%88%E6%95%99%E6%8E%88%E7%9A%84%E5%93%B2%E5%AD%A6%E8%AF%BE%EF%BC%9A%E2%80%8B%E5%AD%A6%E4%BC%9A%E5%A6%82%E4%BD%95%E7%94%9F%E6%B4%BB%EF%BC%8C%E4%BD%A0%E5%B0%B1%E7%9F%A5%E9%81%93%E5%A6%82%E4%BD%95%E9%9D%A2%E5%AF%B9%E6%AD%BB%E4%BA%A1",
-          "publishedOn": "2024-02-26T02:07:00.000Z",
-          "wordCount": 296,
-          "title": "临终教授的哲学课：​学会如何生活，你就知道如何面对死亡",
-          "imageUrl": null
-        },
-        {
-          "id": "76578999c8176a224624b3bff10d2f12",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E8%AF%AD%E8%A8%80%E3%80%81%E6%96%87%E6%98%8E%E4%B8%8E%E8%AE%A4%E5%90%8C%EF%BC%9A%E5%8F%A4%E5%85%B8%E4%B8%96%E7%95%8C%E7%9A%84%E7%BB%88%E7%BB%93%E4%B8%8E%E7%8E%B0%E4%BB%A3%E6%AC%A7%E6%B4%B2%E7%9A%84%E5%BC%80%E7%AB%AF",
-          "publishedOn": "2024-02-26T02:07:00.000Z",
-          "wordCount": 332,
-          "title": "语言、文明与认同：古典世界的终结与现代欧洲的开端",
-          "imageUrl": null
-        },
-        {
-          "id": "90f60181e305cdf69faf35b0e76d4eb0",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E5%AE%8B%E6%9C%9D%E5%8E%86%E5%8F%B2%E2%80%9C%E9%9A%90%E7%A7%98%E7%9A%84%E8%A7%92%E8%90%BD%E2%80%9D%EF%BC%9A%E4%B8%A4%E5%AE%8B%E6%97%B6%E6%9C%9F%E7%9A%84%E7%A5%96%E5%AE%97%E5%AE%B6%E6%B3%95%E4%B8%8E%E7%A6%81%E4%B8%AD%E7%A7%98%E9%97%BB",
-          "publishedOn": "2024-02-26T02:07:00.000Z",
-          "wordCount": 287,
-          "title": "宋朝历史“隐秘的角落”：两宋时期的祖宗家法与禁中秘闻",
           "imageUrl": null
         }
       ]
