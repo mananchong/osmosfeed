@@ -44,16 +44,6 @@
           "wordCount": 5699,
           "title": "R Weekly 2024-W11 Package Marketing, Spring Clean, and NodeJS projects with webR inside",
           "imageUrl": "https://rweekly.org/public/facebook.png"
-        },
-        {
-          "id": "https://rweekly.org/2024-W10.html",
-          "author": null,
-          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Eric Nantz, with help from the R Weekly team members and contributors.\nHighlight\nI Patched R to Solve an Exercism Problem\n{data.table} Community Survey: Results and insights\nDoom plots\nInsights\nReproducible data science with Nix, part 10 – contributing to nixpkgs\nI Patched R to Solve an Exercism Problem\nKey advantages of using the keyring package\nColumn assignment and reference semantics in {data.table}\nAn introvert’s guide to networking at a conference\nR in Organizations\n{data.table} Community Survey: Results and insights\nThe R Consortium 2023: A Year of Growth and Innovation\nMoffitt Cancer Center Bio-Data Club’s New Chapter in Spatial Data Analysis and Enhanced Hackathon C…",
-          "link": "https://rweekly.org/2024-W10.html",
-          "publishedOn": "2024-03-04T00:00:00.000Z",
-          "wordCount": 6129,
-          "title": "R Weekly 2024-W10 patching R, data.table survey, Doom plots",
-          "imageUrl": "https://rweekly.org/public/facebook.png"
         }
       ]
     },
@@ -569,6 +559,206 @@
       "feedUrl": "https://feedx.net/rss/thepaper.xml",
       "siteUrl": "http://thepaper.cn",
       "articles": [
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26894900",
+          "author": null,
+          "description": "4月1日，在叙利亚首都大马士革，人们聚集在袭击现场。 叙利亚通讯社1日报道，以色列当天空袭伊朗驻叙利亚大使馆领事部门建筑。叙军方说，袭击造成大量人员伤亡。新华社 发\n\n据伊朗外交部当地时间4月2日消息，伊朗外长阿卜杜拉希扬同伊斯兰合作组织秘书长塔哈就伊朗驻叙利亚使馆领事处遭以色列袭击事件通电话。\n阿卜杜拉希扬强烈谴责以色列的行为，表示其行为违反国际法和《维也纳外交关系公约》，阿卜杜拉希扬要求伊合组织立即对以色列的行为采取适当措施。\n塔哈对这一次以色列针对外交机构的袭击表示强烈谴责，同时对伊朗政府和人民表示声援与哀悼。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26894900",
+          "publishedOn": "2024-04-02T15:53:07.000Z",
+          "wordCount": 46,
+          "title": "伊朗外长与伊合组织秘书长通话，强烈谴责以色列袭击伊朗外交机构",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26902475",
+          "author": null,
+          "description": "新华社快讯：习近平同美国总统拜登通电话。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26902475",
+          "publishedOn": "2024-04-02T15:23:05.000Z",
+          "wordCount": 32,
+          "title": "习近平同美国总统拜登通电话",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26894875",
+          "author": null,
+          "description": "京津冀养老服务协同发展试点，已经实现了养老扶持政策随着户籍老人一起走。 民生周刊 图\n\n时下，很多老年人选择离开原先的居住地，搬到周边的市县居住养老。老年人热衷跨城养老一方面是因为性价比更高，另一方面则因为区域一体化发展让异地生活更舒适便捷。目前，京津冀、长三角等地都在积极探索区域一体化养老。\n3月23日一大早，王莹和爱人带着孩子乘坐2个多小时的高铁前往河北省秦皇岛市。这天是周末，他们按每月一次的惯例去看望父母。3年前，王莹的爸妈来到离北京不远的秦皇岛，开启了他们的养老生活。\n跟王莹的父母一样，时下很多老年人选择离开原先的居住地，搬到周边的市县居住养老。记者通过采访了解到，老年人热衷跨城养老一方面是因为性价比更高，另一方面则因为区域一体化发展让异地生活更舒适便捷。\n在多种方案中选择跨城养老\n最近半年，朱靓靓一直在忙着给父母的养老房装修。在上海定居后，同为独生子女的朱靓靓夫妇一直在考虑双方父母如何养老的问题，在上海再买一套房或在同一小区租两套房成本都很高。最终，在和家人商量后，朱靓靓决定在上海周边的江苏省昆山市淀山湖旁购入一栋3层小楼供3个家庭共同居住。\n“一楼和二楼都有露台，还有户外花园，双方父母的两层楼我还特意设计了适老化的坡道和房间，这样居住互不干扰又能彼此照顾，这在上海肯定是实现不了的。”朱靓靓对自己的决策很满意，“昆山离我工作的上海市青浦区很近，搬过来以后我上班车程也就半小时。”\n记者采访发现，在考虑养老问题时，面临一代管三代的境遇，住房和其背后的经济负担是很多家庭遇到的首要问题。此外，医疗资源保障、居住环境、中老两代人是否同住、是否方便照顾老人等也是“银发族”选择在哪养老的考虑因素。\n“他们接受度还挺高的，主动提出要来这边养老，感觉很不错。”王莹说，在去秦皇岛度假几次之后，她爸妈便动了跨城养老的心思。这里离北京近，气候、饮食都能习惯，夏天还更凉快，重点是附近有很多…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26894875",
+          "publishedOn": "2024-04-02T14:53:03.000Z",
+          "wordCount": 44,
+          "title": "河北一养老机构95%以上老人来自北京，银发族为何热衷跨城养老",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26895630",
+          "author": null,
+          "description": "当地时间2024年4月1日，叙利亚大马士革，紧急救援人员正在扑灭伊朗驻叙利亚领事馆附近建筑物的火灾。  视觉中国 图\n\n4月1日下午，大马士革城区接连响起两声巨大的爆炸声。正在驻地工作的新华社记者冲上阳台，看到大马士革城西方向升起滚滚浓烟，但无法确定是空袭还是恐袭。几分钟后，街上响起警笛声。\n记者与同事第一时间赶往事发现场。抵达后看到，位于城市主干道旁的迈宰居民区内，一栋多层建筑整体垮塌，楼板交错堆叠，废墟上浓烟滚滚。旁边道路上散落着大量碎石和玻璃碎渣。爆炸造成的冲击波甚至震碎了主干道对面建筑的玻璃。\n受袭建筑紧邻伊朗驻叙利亚大使馆，废墟中清晰可见的伊朗国旗引起了记者的注意。记者意识到，这次袭击可能不同寻常。\n很快，消防车、救护车、警车和救援车辆抵达现场，救援工作随即展开。安全人员封锁了事发区域，疏散无关车辆和人员，并对周边道路实行部分戒严。\n叙利亚外长梅克达德和伊朗驻叙利亚大使侯赛因·阿克巴里很快赶到现场。阿克巴里对媒体说，遭袭建筑为伊朗驻叙大使馆领事部门建筑，他本人的官邸就位于遭袭建筑顶层，不过袭击发生时他正在旁边的使馆里办公。\n阿克巴里说，以军F-35战机从其占领的戈兰高地方向发射6枚导弹袭击该建筑，至少5人在袭击中死亡。他强烈谴责以色列的袭击，称此次袭击“不会没有回应”。梅克达德同样强烈谴责以色列袭击，并表示该行动不会影响叙伊关系。\n伊朗驻叙大使馆新闻处一名工作人员对新华社记者表示，袭击发生时，包括多名伊朗军事顾问在内的受邀人员正在楼里准备参加开斋宴。\n当下正值穆斯林斋月，但叙利亚民众对和平的期盼仍未实现，叙土地上硝烟依旧。仅在上周，叙北部阿勒颇省遭空袭和恐怖组织的无人机袭击，叙通社称东部代尔祖尔省遭美国空袭等，这些事件都导致大量人员伤亡。\n本轮巴以冲突爆发后，以色列对叙境内目标的袭击更加频繁。记者在大马士革市区时常会听到空袭或叙军方拦截导弹的爆炸声。最近，发生在白天、针对人员密集居住区建筑的袭击激增，致不少平民伤亡。\n1日发生的袭击引发民众新一轮忧虑。在被袭建筑附近餐厅工作的梅苏告诉记者，事发后她的家人纷纷来电确认她的安全情况。她担心本次袭击会使叙利亚局势进一步恶化。\n到当晚8时许，记者看到事发地点周边交通已恢复正常，救援人员仍在现场搜救。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26895630",
+          "publishedOn": "2024-04-02T14:53:03.000Z",
+          "wordCount": 46,
+          "title": "爆炸、浓烟与废墟，直击伊朗驻叙使馆领事部门建筑遭袭现场",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26902399",
+          "author": null,
+          "description": "4月2日晚间，贵州茅台酒股份有限公司（贵州茅台，600519.SH)披露年报，2023年实现营业收入1476.94亿元，同比增长19.01%；归属于上市公司股东的净利润747.34亿元，同比增长19.16%；基本每股收益59.49元。公司拟每10股派发现金红利308.76元（含税）。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26902399",
+          "publishedOn": "2024-04-02T14:23:51.000Z",
+          "wordCount": 32,
+          "title": "贵州茅台：2023年净利润747.34亿元，同比增19.16%，拟10派308.76元",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26898838",
+          "author": null,
+          "description": "澎湃新闻记者从相关部门获悉，开国少将、原福州军区顾问张力雄将军，因病医治无效，于2024年4月2日下午在江苏南京逝世，享年111岁。\n\n张力雄将军  上杭县融媒体中心 图\n\n最后一位参加过二万五千里长征的开国将军\n公开资料显示，张力雄，1913年11月21日出生于福建省上杭县通贤乡障云村燕子塔自然村，1929年加入中国共产主义青年团，1931年转入中国共产党，1932年参加中国工农红军。\n据央视新闻此前报道介绍，张力雄将军生前是全国唯一健在的参加过二万五千里长征的开国将军。\n土地革命战争时期，张力雄任红12军34师100团连政治指导员、团总支书记、团政治处主任、团政治委员等职，参加了中央苏区第四、第五次反“围剿”作战和二万五千里长征，三大红军主力会师后随西路军进入甘肃，参加了高台血战等战役。\n抗日战争时期，张力雄任抗大1大队2队队长、政治处主任、抗大总校太岳独立大队政委、太行军区第7军分区政治部主任等职，参加了林南、水林、伏牛山等战役和开辟豫北抗日根据地的战斗。\n解放战争时期，张力雄任中原军区第1纵队3旅政委、鄂西军区第3分区政委、野战旅政委、中国人民解放军第2野战军特种兵纵队政治部主任等职，参加了中原突围、淮海战役等。\n中华人民共和国成立后，张力雄任中国人民解放军原西南军区炮兵部队政治部主任、副政委，原昆明军区公安军第一副司令员，原云南军区副司令员，原昆明军区司令部副参谋长，原福州军区顾问等职，并当选第五届全国人民代表大会代表，中国人民政治协商会议第六届全国委员会委员。\n张力雄于1955年被授予大校军衔，1961年晋升少将，先后荣获二级八一勋章、二级独立自由勋章、一级解放勋章，1988年荣获一级红星功勋荣誉章。\n三过草地，百炼成钢\n据将军家乡上杭县融媒体中心去年6月刊文介绍，1934年，张力雄作为红三十四师一〇〇团的政委参加了在瑞金举行的全军政工会议。在会上，张力雄见到了…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26898838",
+          "publishedOn": "2024-04-02T13:53:03.000Z",
+          "wordCount": 70,
+          "title": "111岁开国少将张力雄逝世，系最后一位参加过长征的开国将军",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26901414",
+          "author": null,
+          "description": "根据《中国人民银行 中国银行保险监督管理委员会关于建立新发放首套住房个人住房贷款利率政策动态调整长效机制的通知》等政策精神，福州市住房信贷政策阶段性调整如下：\n一、阶段性取消福州市首套住房商业性个人住房贷款利率下限。在本政策范围内，商业银行可按市场化、法治化原则确定新发放首套住房商业性个人住房贷款的具体利率水平。如后续评估期内（上季度末月至本季度第二个月为评估期）新建商品住宅销售价格环比和同比连续3个月均上涨，则自下一个季度起，恢复执行全国统一的首套住房商业性个人住房贷款利率下限。\n二、福州市五城区首套住房商业性个人住房贷款最低首付款比例由原不低于25%，调整为不低于20%；二套住房商业性个人住房贷款最低首付款比例由原不低于35%，调整为不低于30%。住房套数认定标准按照原政策执行。上述政策自2024年4月3日起实施。（福州新闻网微信公号）\n\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.run",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26901414",
+          "publishedOn": "2024-04-02T13:23:04.000Z",
+          "wordCount": 36,
+          "title": "福州：阶段性取消首套住房商业性个人住房贷款利率下限",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26901451",
+          "author": null,
+          "description": "4月2日晚间，宁夏中科生物科技股份有限公司（宁科生物，600165.SH)公告，鉴于仍存在流动性问题，且尚未明确解决方案，公司重要控股子公司中科新材预计无法在1个月内恢复正常生产。根据相关规定，公司股票将于4月3日停牌1天，4月8日起实施其他风险警示，股票简称变更为“ST宁科”。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26901451",
+          "publishedOn": "2024-04-02T13:23:04.000Z",
+          "wordCount": 32,
+          "title": "宁科生物：4月8日起公司股票实施其他风险警示",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26889626",
+          "author": null,
+          "description": "澎湃，澎湃新闻，澎湃新闻网，新闻与思想，澎湃是植根于中国上海的时政思想类互联网平台，以最活跃的原创新闻与最冷静的思想分析为两翼，是互联网技术创新与新闻价值传承的结合体，致力于问答式新闻与新闻追踪功能的实践。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26889626",
+          "publishedOn": "2024-04-02T12:53:04.000Z",
+          "wordCount": 35,
+          "title": "浙江余姚通报公职人员被前妻举报涉黑等问题：已开展深入核查",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26889516",
+          "author": null,
+          "description": "开通仅不到40天，3月31日起，中国东方航空推出的上海浦东机场往返杭州萧山机场的航班正式停飞。\n东方航空浙江分公司回应，经营效果未达到预期，执行夏秋航班计划之后，往返杭州与上海之间的航班就不再开行。\n航班于2月22日才正式上线。自诞生以来，这条短途航线便引发诸多争议。一是价格，沪杭之间飞机经济舱票价为170元，加上机建燃油费，共260元，高铁二等座价格仅为73元。时间上也不合算，沪杭两地间高铁最快仅需46分钟，而飞机计划飞行时间为1小时零5分钟。人们质疑，有人坐飞机往返上海、杭州吗？\n沪杭航线如今正式迎来“短命”结局。沪宁、沪甬、沪温、沪肥等短途航线仍在运行。长三角公路、高铁逐渐织密成网，区域内短途航线如何发挥价值？\n\n谁坐飞机\n这趟沪杭间往返的短途航班，到底有多“短”？记者亲身体验。\n飞机开始滑行后，乘务员穿梭在机舱内提醒，特意叮嘱儿童和老人，“因为飞行时间较短，起飞后空中洗手间全程关闭，有需要的旅客现在可以使用。”\n记者留心记录了时间——3月29日0时2分，晚点22分钟后，从上海浦东机场飞往杭州萧山机场的MU5439起飞，大约0时11分，播报声音传来，飞机已经开始准备下降——上升时间不到10分钟，上升高度不到3000米，全程看得到地面，安全带警示灯全程没有熄灭。\n0时38分，飞机降落杭州萧山机场，机上时间36分钟，飞行距离176公里。\n第二天一早6时16分，MU5440从杭州萧山机场返回上海浦东机场，6时56分降落。机上时间40分钟，飞行距离176公里。因为时间太短，客舱服务几乎没有，上机后发放了矿泉水和点心餐盒。\n\n29日早上，杭州萧山飞上海浦东的飞行情况。\n翻看飞行记录，上海到杭州航线一共运营了37个班次，没有取消记录。3月31日起，这趟往返航班不再执飞。\n上海与杭州之间的距离不到200公里。乘坐高铁1小时可达，公路交通路上时间刚过2小时。谁还会选择乘飞机往返沪杭两…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26889516",
+          "publishedOn": "2024-04-02T12:53:04.000Z",
+          "wordCount": 59,
+          "title": "上海飞杭州航线诞生不足40天就停飞，折腾啥？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26900734",
+          "author": null,
+          "description": "4月2日晚间，四川华体照明科技股份有限公司（华体科技，603679.SH）发布股票交易异常波动暨风险提示公告，近期，公司关注到部分媒体、股吧等平台对公司相关业务讨论，内容涉及通感一体化、低空经济等热点概念。公司收入和利润主要来源为路灯产品销售，目前不涉及通感一体化、低空经济相关业务。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26900734",
+          "publishedOn": "2024-04-02T12:53:04.000Z",
+          "wordCount": 32,
+          "title": "华体科技：目前不涉及通感一体化、低空经济相关业务",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26900787",
+          "author": null,
+          "description": "上海中心气象台2024年04月02日20时05分发布大风黄色预警信号：受强雷暴云团影响，预计今天夜里到明天早晨本市将出现雷雨大风天气，最大阵风可达8-10级。请加强防范大风对高空作业、交通出行、设施农业等的不利影响。\n此前发布的雷电黄色预警仍高挂。（上海发布微信公号）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26900787",
+          "publishedOn": "2024-04-02T12:53:04.000Z",
+          "wordCount": 32,
+          "title": "上海发布大风黄色预警！目前雷电黄色、大风黄色双预警高挂",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26897070",
+          "author": null,
+          "description": "4月2日，外交部发言人汪文斌主持例行记者会。有记者就以色列对伊朗驻叙利亚大使馆领事处大楼空袭造成至少7人死亡提问。\n汪文斌表示，中方谴责针对伊朗驻叙利亚使馆的袭击行为。外交机构的安全不容侵犯，叙利亚的主权独立和领土完整应当得到尊重。当前中东局势动荡，我们反对任何导致局势紧张升级的行为。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26897070",
+          "publishedOn": "2024-04-02T12:53:04.000Z",
+          "wordCount": 39,
+          "title": "以色列空袭伊朗驻叙使馆致多人死亡，外交部：中方谴责袭击行为",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26895764",
+          "author": null,
+          "description": "4月1日至6月30日，“紫禁城与凡尔赛宫——17、18世纪的中法交往”展在故宫博物院文华殿呈现。该展览由故宫博物院和法国凡尔赛宫殿﹑博物馆及国家园林公共机构（以下简称凡尔赛宫）联合主办。展览以中法两国外交、文化和艺术交流为主题，展现200件文物精品。澎湃新闻在现场看到，古意盎然的故宫文华殿呈现一片浓浓的中法文化交流氛围，文华殿红柱、花砖、斑斓的天花彩画掩映在照亮展品的星星点点的灯光中。\n展览带领观众穿梭回17世纪下半叶至18世纪的中国与法国宫廷。这一时期是法国王室及其宫廷对中国文化兴趣最为浓厚的时期之一。大量中国工艺品和书籍进入法国宫廷和贵族的收藏视野，引发了以凡尔赛宫为中心波及欧洲的“中国风艺术”创作风潮。法国宫廷保存了大量来自中国的物品以及法国本土创作的中国风艺术作品，成为了解此一时期中法关系和艺术交流的重要物证。\n中国宫廷对于风潮涌动的国际世界也给出自己的回应，自路易十四派出“国王数学家”来华以后，大量法国耶稣会士东来，很多法国人长期在此服务，他们对清代宫廷在科学、艺术、建筑、医学、地图编绘等诸多领域产生了重要影响，这种状况一直持续到乾隆末年。\n展览呈现在古意盎然的故宫文华殿，文华殿红柱、花砖、斑斓的天花彩画掩映在照亮展品的星星点点的灯光中。整体氛围宁谧沉静，开篇及展陈中涉及古画的部分考虑文物保护的需要，灯光均较暗，需要驻足细看；而来自法国宫廷色彩绚丽、雕金绘彩的瓷器则被照的光辉夺目。\n\n展览现场还复原了路易十五王后玛丽·菜什琴斯卡的“中国人厅”。\n\n“中国人厅”是路易十五的王后玛丽·莱什琴斯卡在凡尔赛宫的私人房间。该房间在王后授意下以中国风格为主题经过两次重新布置。一次是在1747年，房间壁板上的图案为中国风格的“印度”壁纸，成为一间“中国厅”。另一次是在1761年，王后向当时国王藏品厅的画家们定制了8幅描绘中国人茶叶种植和贸易活动的巨幅油画，装饰整个房间，“中国厅…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26895764",
+          "publishedOn": "2024-04-02T12:53:04.000Z",
+          "wordCount": 168,
+          "title": "观展记｜当紫禁城“相遇”凡尔赛宫",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26899886",
+          "author": null,
+          "description": "4月2日，美国5年、10年和30年期国债收益率均触及年内高点。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26899886",
+          "publishedOn": "2024-04-02T12:23:05.000Z",
+          "wordCount": 32,
+          "title": "美国5年、10年和30年期国债收益率均触及年内高点",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26897977",
+          "author": null,
+          "description": "4月2日，在青岛举办的数字创新生态大会上，浪潮云正式发布海若大模型业务战略，将投入50亿元资金，依托数字创新生态共同体，加快推动海若大模型在100个城市的快速落地，持续激活数据要素价值，助力新质生产力发展。\n浪潮云总经理颜亮在主旨演讲中表示，浪潮海若大模型定位行业大模型，首批面向政府、交通、应急、制造、医疗、农业六大行业，具备可信赖、易落地、可持续三大核心优势。依托海若完整产品矩阵，浪潮云能够帮助用户打造行业专属大模型，并基于在全国布局的分布式算力平台，实现带算力入场，对于政务云覆盖用户，只需1天时间即可实现海若快速交付，其他行业最长不超过1个月。\n潮云首席技术官孙思清表示，浪潮海若大模型通过采用MoE架构、全面优化RAG、全链路安全防护等举措实现关键技术创新，解决了行业用户在大模型落地过程中所关注的运行成本、准确性、安全性等问题。（澎湃新闻记者 周玲）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26897977",
+          "publishedOn": "2024-04-02T12:23:05.000Z",
+          "wordCount": 36,
+          "title": "浪潮云发布海若大模型业务战略，投入50亿元资金，首批面向六大行业",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26889491",
+          "author": null,
+          "description": "提及同事李林国出事的前一天，司机王德胜想不出一点异常来。\n3月18日一早，李林国照例上住处附近的停车场刷车、搞卫生；中午，他载客需要的包车客运标志牌（下文简称“包车牌”）算是办下来了——每次王德胜和他碰面，两人话题无非就是新接了啥活，每次行程的包车牌有没有打出来。\n当晚七点多，他开着旅游大巴从停车场出发，驶向8公里外的郑州火车站，再过八小时，要接的老年团也将到站。王德胜说，李林国年近五十，驾龄十多年，这次就他一人开车，“（等人时）肯定要睡。”\n除了李林国和一名导游，这趟旅程的48名游客和1名领队均来自江苏省镇江市，年龄基本超过60岁。按计划，他们在接下来的五天里将前往山西临汾，陕西延安、河南三门峡等多个景点，但车祸来得猝不及防。\n\n本次旅游团的行程表  受访者供图\n\n3月19日14时37分许，大巴途经G59呼北高速（北呼方向）西家塔隧道时，与隧道壁发生碰撞。据央视新闻报道，事故造成14人死亡，37人受伤。3月22日，国务院安委会决定对该起重大事故查处实行挂牌督办。截至发稿，事故调查报告尚未公布。\n在事故发生三天后，郑州市公安、交通执法部门等多部门举办了一次安全会议。据会议纪要，初步分析事故原因为：涉事司机涉嫌疲劳驾驶;事发时车辆处于超速行驶状态;司机未按照包车牌载明的路线运行。\n而事故背后，旅游大巴司机普遍面临的问题无法忽视——为了压缩成本，旅行社通常不会使用双班司机，司机单班开长途是常事；此外，王德胜与多位司机均向澎湃新闻表示，因办包车牌手续繁琐、限制严苛，司机不仅要操心安全驾驶，还得“算时间，卡定位”。\n最年长的游客82岁\n3月18日15:59，K738（丹阳-郑州）发车，陈丽芬刚开启的旅程还算惬意。\n陈丽芬71岁，住在江苏镇江，此行与丈夫、妹妹、妹夫结伴出发。他们四个人退休后，上哪儿玩都招呼着一起，行程琐事多交给年纪最小、69岁的妹妹，前不久他们还去了趟三亚，每人报团…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26889491",
+          "publishedOn": "2024-04-02T11:53:03.000Z",
+          "wordCount": 88,
+          "title": "呼北高速车祸调查：司机涉疲劳驾驶、超速、路线违规",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26898882",
+          "author": null,
+          "description": "国家数据局局长刘烈宏表示，国家数据局组建以来各项工作实现良好开局，31省份和新疆生产建设兵团均完成机构组建，其中，独立设置机构的有26个，加挂牌子的有6个。\n这是记者从4月1日至2日召开的全国数据工作会议上了解到的。\n刘烈宏表示，各地数据工作机构职能进一步强化，大部分省份配套设立数据发展促进中心，组建数据集团。总体上看，上下联动、横向协同的数据工作体系基本形成。\n对于数据基础设施建设，刘烈宏说，2023年底，8大枢纽节点数据中心机架总规模超过105万标准机架，平均上架率达到61.9%，较2022年提升3.9个百分点。（新华社）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26898882",
+          "publishedOn": "2024-04-02T11:53:03.000Z",
+          "wordCount": 33,
+          "title": "31省份和新疆生产建设兵团已完成数据机构组建",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26898883",
+          "author": null,
+          "description": "据浙江省杭州市临平区教育局官方通报显示：2024年4月1日晚，临平区一初中学生姬某某在学校被发现坠楼，及时送医院实施救治。4月2日晨抢救无效宣布死亡，我们对此深感痛惜。临平区教育局已会同公安等部门及相关镇街成立联合调查组，依法开展调查核实工作。事件调查和善后处理等工作仍在进行中。（央视新闻）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26898883",
+          "publishedOn": "2024-04-02T11:53:03.000Z",
+          "wordCount": 32,
+          "title": "浙江杭州临平一初中生坠楼，官方通报",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_26898783",
+          "author": null,
+          "description": "据俄罗斯西西伯利亚地区交通系统检察院消息，当地时间4月2日，一架俄罗斯安-24飞机在克拉斯诺亚尔斯克边疆区斯韦特洛戈尔斯克机场冲出跑道。事故未造成人员伤亡。（央视新闻）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_26898783",
+          "publishedOn": "2024-04-02T11:23:04.000Z",
+          "wordCount": 32,
+          "title": "俄罗斯一飞机在克拉斯诺亚尔斯克边疆区一机场冲出跑道",
+          "imageUrl": null
+        },
         {
           "id": "https://www.thepaper.cn/newsDetail_forward_26897215",
           "author": null,
@@ -12188,46 +12378,6 @@
           "wordCount": 39,
           "title": "“申”聚两会｜人口形势发生转变，委员建议逐步推进幼儿教育普及免费",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_26545800",
-          "author": null,
-          "description": "3月4日12时，十四届全国人大二次会议在人民大会堂新闻发布厅举行新闻发布会，大会发言人娄勤俭就大会议程和人大工作相关问题回答中外记者提问。\n娄勤俭在新闻发布会上介绍，十四届全国人大实有代表2956名，目前已有2897名代表向大会报道，大会的各项准备工作已全部就绪。（澎湃新闻记者 高宇婷）",
-          "link": "https://www.thepaper.cn/newsDetail_forward_26545800",
-          "publishedOn": "2024-03-04T04:23:03.000Z",
-          "wordCount": 37,
-          "title": "娄勤俭：已有2897名代表向大会报道",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_26545808",
-          "author": null,
-          "description": "3月4日12时，十四届全国人大二次会议在人民大会堂新闻发布厅举行新闻发布会，大会发言人娄勤俭就大会议程和人大工作相关问题回答中外记者提问。\n娄勤俭在新闻发布会上介绍，此次会议期间将同时举行三次记者会，请国务院有关部门主要负责同志分别就外交、经济、民生等主题回答记者的提问。每次全体会议前将安排“代表通道”，全体会议将安排“部长通道”。会议采访以现场方式为主，综合采用视频、书面等多种方式进行，其中新闻发布会、记者会、“代表通道”、“部长通道”和代表团开放团组会议等集中采访活动采用现场方式进行。大会新闻中心官方网页将及时动态发布会议日程和议程，向中外记者提供有关会议文件报道素材，采访联络等服务，各代表团设立新闻发言人，代表团驻地设立大会新闻中心采访室，鼓励和支持代表积极接受采访，并就会议有关议题参与网络访谈、社交平台直播等，与网民互动。（澎湃新闻记者 高宇婷）",
-          "link": "https://www.thepaper.cn/newsDetail_forward_26545808",
-          "publishedOn": "2024-03-04T04:23:03.000Z",
-          "wordCount": 35,
-          "title": "娄勤俭：会议期间将举行三次记者会，主题涉外交、经济、民生",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_26545429",
-          "author": null,
-          "description": "记者从韩国政府获悉：七千名离岗的实习和住院医生将进入吊销医师执照程序，相关处理不可逆。\n\n当地时间2024年3月3日，韩国首尔，韩国医协在汝矣岛公园附近举行全国医生总动员大会，参与者们高喊口号。  视觉中国 图\n\n韩国保健福祉部第二次官朴敏守当地时间3月4日上午在记者会上宣布，计划对医生集体辞职离岗行动核心负责人采取严厉、迅速的措施。朴敏守说，政府将现场检查医生的出勤情况，根据法律和原则进行应对，特别是对于引起医疗现场混乱的集体辞职离岗行动的核心相关人士，将采取严正、迅速的应对措施。\n\n朴敏守强调说，如果相关实习和住院医生违反政府的复岗命令，至少3个月吊销医师执照的处分是不可避免的。他警告说，如果受到3个月吊销医师执照的处分，就不能满足专业研修时间，取得专任医生资格的时间就将推迟1年以上。另外，相关行政处分履历及其理由将会被记录下来，今后就业都有可能受到不利影响。\n据保健福祉部公布的消息，截至2月29日上午11时，对韩国100家大型综合医院进行检查的结果显示，离岗的实习和住院医生共有8945名。截至2月28日，收到政府返岗命令的实习和住院医生共有7854人。朴敏守表示，对于确认离岗的人员，将进入吊销医师执照的处分程序，该处分是不可逆的。朴敏守还说，虽然2月29日是免除处罚的最后期限，但政府将从3月4日开始进行现场检查，所以在检查前返岗的话，政府也会酌情予以考虑。如果在4日的检查中确认没有返岗，5日就将对相关人员予以处分进行事前通报。\n韩国保健福祉部4日向50家医院派遣人员，检查实习和住院医师返岗的情况。\n韩国政府2月发布医学生扩招计划，遭到医生团体和医学院学生强烈反对，实习和住院医生辞职潮发酵至今。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_26545429",
-          "publishedOn": "2024-03-04T03:53:04.000Z",
-          "wordCount": 47,
-          "title": "韩国政府：七千名离岗医生将被吊销执照，处分不可逆",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_26542895",
-          "author": null,
-          "description": "在楼价下跌、交投量缩减的背景下，香港推行了14年的楼市“辣招”全面撤销。“撤辣”后首个周末，香港房地产市场信心回升，一二手房成交均明显上涨。\n2月28日，中国香港特区政府财政司司长陈茂波发表2024至2025财政年度特区政府《财政预算案》，其指出，即日起撤销所有住宅物业需求管理措施（俗称“辣招”），即所有住宅物业交易无须再缴付额外印花税、买家印花税和新住宅印花税。\n陈茂波指出，2023年，香港住宅物业市场在息口上升及外围环境充满不确定性的情况下，市场气氛自去年中起十分审慎。楼价全年下跌7%，交投量缩减5%至约4.3万宗的低水平。非住宅物业市场大致如此。“我们认为在当前的经济及市场情况下，有关措施已无需要。”\n在业内看来，香港楼市全面撤辣，将有助市场回归正常流通量，同时，预计受撤辣刺激，首季度将迎来成交小阳春。\n二手房成交创一年新高，有卖家临时反价出售\n所谓“辣招”，主要是指香港对楼市的一种需求管理措施，即以额外印花税来打击短期炒卖活动、买家印花税来遏抑外来需求以及新住宅印花税来减少投资需求。\n机构监测信息显示，14年的“辣招”压抑需求下，物业市场流通量有所扭曲，加上过去三年的疫情，及美国接连加息11次的影响下，去年香港二手成交宗数创下28年的历史新低，仅29690宗，而楼价亦拾级而下，较高位下跌23%。\n但在全面撤辣后，市场反应迅速，业内称楼市随即“拨开云雾见青天”。\n从看房量而言，中原地产十大屋苑在撤辣后首个周末预约看楼量录得约510组，按周上涨34.2%，已连升3周，并创出去年3月后11个月新高，重上500组水平。\n同时看房量也已实现成交转化。根据中原地产的监测数据，中原地产十大屋苑周末录得25宗成交，按周反弹3.2倍，成交量创逾1年新高，其中，新界区成交占比达64%。\n\n中原地产亚太区副主席兼住宅部总裁陈永杰表示，楼市撤辣后首个周末，十大屋苑成交量重上20宗水平，创逾…",
-          "link": "https://www.thepaper.cn/newsDetail_forward_26542895",
-          "publishedOn": "2024-03-04T03:53:04.000Z",
-          "wordCount": 66,
-          "title": "香港楼市“撤辣”首个周末：新盘数小时内售罄，二手房成交量创一年新高",
-          "imageUrl": null
         }
       ]
     },
@@ -12236,6 +12386,96 @@
       "feedUrl": "https://www.nationalreview.com/feed/",
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1616855",
+          "author": "James Lynch",
+          "description": "‘TikTok is the CCP’s way to feed America’s youth their propaganda and collect data on all TikTok users,’ Pence said.",
+          "link": "https://www.nationalreview.com/news/mike-pences-policy-shop-launches-2-million-ad-campaign-urging-schumer-to-push-tiktok-bill-forward/",
+          "publishedOn": "2024-04-02T15:45:58.000Z",
+          "wordCount": 8959,
+          "title": "Mike Pence’s Policy Shop Launches $2 Million Ad Campaign Urging Schumer to Push TikTok Bill Forward",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/06/pence.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1616811",
+          "author": "James Lynch",
+          "description": "Seven aid workers from World Central Kitchen were killed in the strike.",
+          "link": "https://www.nationalreview.com/news/israeli-prime-minister-says-idf-unintentionally-killed-gaza-aid-workers-in-strike/",
+          "publishedOn": "2024-04-02T13:20:53.000Z",
+          "wordCount": 8695,
+          "title": "Israeli Prime Minister Says IDF ‘Unintentionally’ Killed Gaza Aid Workers in Strike",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/04/WCK-Vehicle-in-Gaza.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1616725",
+          "author": "James Lynch",
+          "description": "Nearly half of respondents blame Biden for the border crisis.",
+          "link": "https://www.nationalreview.com/news/over-two-thirds-of-americans-disapprove-of-bidens-handling-of-the-southern-border-new-poll-finds/",
+          "publishedOn": "2024-04-02T11:36:18.000Z",
+          "wordCount": 8885,
+          "title": "Over Two-Thirds of Americans Disapprove of Biden’s Handling of the Southern Border, New Poll Finds",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/03/border-crisis-march-2024-18.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1616690",
+          "author": "Jill Jacobson",
+          "description": "They aren’t adverse possessors; they’re trespassers and holdover tenants emboldened by progressives’ failure to deter property crime.",
+          "link": "https://www.nationalreview.com/2024/04/most-squatters-dont-own-squat/",
+          "publishedOn": "2024-04-02T10:30:51.000Z",
+          "wordCount": 9219,
+          "title": "Most ‘Squatters’ Don’t Own Squat",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/04/doorknob-open-door.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1616463",
+          "author": "Abigail Anthony",
+          "description": "Richard Lowery is suing several administrators for allegedly pressuring his supervisor to punish him for publicly criticizing their embrace of DEI.",
+          "link": "https://www.nationalreview.com/news/ut-austin-administrators-tried-to-punish-professor-over-anti-dei-crusade-hes-fighting-back/",
+          "publishedOn": "2024-04-02T10:30:33.000Z",
+          "wordCount": 10427,
+          "title": "UT Austin Administrators Tried to Punish Professor over Anti-DEI Crusade. He’s Fighting Back",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2019/04/texas-university.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1616584",
+          "author": "John Barrasso and Russ Duerstine",
+          "description": "We must stop giving our adversaries a leg up in energy markets.",
+          "link": "https://www.nationalreview.com/2024/04/bidens-war-on-energy-is-bad-for-america-and-her-allies/",
+          "publishedOn": "2024-04-02T10:30:27.000Z",
+          "wordCount": 8987,
+          "title": "Biden’s War on Energy Is Bad for America and Her Allies",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/04/joe-biden-white-house.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1616759",
+          "author": "Rich Lowry",
+          "description": "And Donald Trump is not the first person to sell an edition of a Bible catering to a niche market.",
+          "link": "https://www.nationalreview.com/2024/04/the-bible-is-americas-book/",
+          "publishedOn": "2024-04-02T10:30:26.000Z",
+          "wordCount": 9044,
+          "title": "The Bible Is America’s Book",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2018/05/bible-image-us.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1616733",
+          "author": "The Editors",
+          "description": "If it is confirmed that Russia has been using energy weapons on Americans, it will demand a strong U.S. response.",
+          "link": "https://www.nationalreview.com/2024/04/a-havana-syndrome-cover-up/",
+          "publishedOn": "2024-04-02T10:30:25.000Z",
+          "wordCount": 8742,
+          "title": "A Havana Syndrome Cover-Up?",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2021/12/us-embassy-havana.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1616544",
+          "author": "Matthew Lau",
+          "description": "Pension funds are answerable to the individuals whose money they are managing, not the government.",
+          "link": "https://www.nationalreview.com/2024/04/the-trudeau-administration-should-stop-eyeing-canadians-pensions/",
+          "publishedOn": "2024-04-02T10:30:10.000Z",
+          "wordCount": 9115,
+          "title": "The Trudeau Administration Should Stop Eyeing Canadians’ Pensions",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/04/justin-trudeau-canadian-house-commons.jpg?fit=2057%2C1200&ssl=1"
+        },
         {
           "id": "https://www.nationalreview.com/?post_type=blog-post&p=1616732",
           "author": "James Lynch",
@@ -17185,26 +17425,6 @@
           "wordCount": 8936,
           "title": "FTC’s Incoherent Case against Kroger-Albertsons Merger",
           "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/03/Kroger-Bags.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1605731",
-          "author": "Zach Kessel",
-          "description": "While the numbers are higher than past polling has indicated, a substantial minority of voters in those contests do not identify as Republicans.",
-          "link": "https://www.nationalreview.com/news/at-least-20-percent-of-gop-voters-in-first-three-primary-states-will-not-vote-for-trump-in-november-poll/",
-          "publishedOn": "2024-03-03T20:18:07.000Z",
-          "wordCount": 8958,
-          "title": "At Least 20 Percent of GOP Voters in First Three Primary States Will Not Vote for Trump in November: Poll",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/03/New-Hampshire-Voting-Booth.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1605726",
-          "author": "John Fund",
-          "description": "Should Governor Greg Abbott succeed in unseating ten house GOP representatives in Tuesday’s primary, it could set off a political earthquake.",
-          "link": "https://www.nationalreview.com/2024/03/anti-school-choice-texas-republicans-beg-public-schools-to-rescue-them/",
-          "publishedOn": "2024-03-03T19:52:44.000Z",
-          "wordCount": 13430,
-          "title": "Anti–School Choice Texas Republicans Beg Public Schools to Rescue Them",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/03/Greg-Abbot.jpg?fit=2057%2C1200&ssl=1"
         }
       ]
     },
@@ -17213,6 +17433,26 @@
       "feedUrl": "https://sspai.com/feed",
       "siteUrl": "https://sspai.com",
       "articles": [
+        {
+          "id": "https://sspai.com/post/87761",
+          "author": "Matrix机器人",
+          "description": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意以及社区产品动态呈现给大 ...查看全文",
+          "link": "https://sspai.com/post/87761",
+          "publishedOn": "2024-04-02T09:14:03.000Z",
+          "wordCount": 1108,
+          "title": "社区速递 038 | 新玩意、进度条和派友们最爱的鼠标",
+          "imageUrl": "https://cdn.sspai.com/2/4/2024/article/57ee60f0-4fd8-434e-7383-8d434fd525b1.jpeg"
+        },
+        {
+          "id": "https://sspai.com/post/86747",
+          "author": "Hessel",
+          "description": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
+          "link": "https://sspai.com/post/86747",
+          "publishedOn": "2024-04-02T07:00:00.000Z",
+          "wordCount": 872,
+          "title": "轻量化、自动化、全面化：我的「量化自我」尝试数字之旅",
+          "imageUrl": "https://cdn.sspai.com/2024/02/29/b9ef7ad3b50b4b4df8b6e0609ee4d03c.jpeg"
+        },
         {
           "id": "https://sspai.com/post/87558",
           "author": "正弦定理",
@@ -18362,26 +18602,6 @@
           "wordCount": 767,
           "title": "一日一技 | 避免 Excel 跨工作表撤消的临时方案",
           "imageUrl": "https://cdn.sspai.com/2024/3/4/article/12873642-5008-557f-0269-8955ff95c290.jpeg"
-        },
-        {
-          "id": "https://sspai.com/post/86444",
-          "author": "ThomasTeng",
-          "description": "平衡不是一个终点，而是一个起点，它是我们生活的一部分，让我们一起，用平衡的心，去创造属于自己的生活。查看全文",
-          "link": "https://sspai.com/post/86444",
-          "publishedOn": "2024-03-04T03:31:59.000Z",
-          "wordCount": 658,
-          "title": "年度征文 | 平衡的幻觉：为什么我们总是追求不到完美的平衡？",
-          "imageUrl": "https://cdn.sspai.com/2024/02/14/de305e471e32d2074992e57740383c6e.png"
-        },
-        {
-          "id": "https://sspai.com/post/86873",
-          "author": "少数派编辑部",
-          "description": "你可能错过的新鲜事马斯克起诉OpenAI2月29日，马斯克在旧金山提起诉讼，指控OpenAI及其联合创始人SamAltman、GregBrockman将利润置于人类利益之上，违反了OpenAI成立之初 ...查看全文",
-          "link": "https://sspai.com/post/86873",
-          "publishedOn": "2024-03-04T00:56:33.000Z",
-          "wordCount": 869,
-          "title": "派早报：马斯克起诉 OpenAI",
-          "imageUrl": "https://cdn.sspai.com/3/4/2024/article/73d98945-bf24-22a8-6317-f4c14003d6e1.png"
         }
       ]
     },
@@ -20554,6 +20774,16 @@
       "siteUrl": "http://nytimes.com",
       "articles": [
         {
+          "id": "https://cn.nytimes.com/business/20240402/india-economy-election-takeaways/dual",
+          "author": null,
+          "description": "ALEX TRAVELLI2024年4月2日印度经济最明显的改善是在基础设施方面。 Atul Loke for The New York Times\nNarendra Modi has big money behind him as he appears set to win a third term as India’s prime minister. His party has collected more political cash than the others combined, and the country’s richest business leaders support him.\n纳伦德拉·莫迪有大笔资金支持，似乎会赢得第三个印度总理任期。他的政党筹集的政治资金比其他政党的总和还要多，该国最富有的商界领袖也支持他。\nThe campaign is fueled partly by a winning story Mr. Modi tells about India’s economy, some of which can be traced to changes made during his decade in office. He has also benefited from geopolitical currents that have made India more attractive to global financiers. Here are five factors that are essential to understanding India’s economy. Elections will start on April 19 and conclude June 4.\n莫迪讲述了一个印度经济的成功故事，其中一些可以追溯到他执政…",
+          "link": "https://cn.nytimes.com/business/20240402/india-economy-election-takeaways/dual",
+          "publishedOn": "2024-04-02T07:36:03.000Z",
+          "wordCount": 1184,
+          "title": "关于莫迪治下的印度经济，你应该知道的",
+          "imageUrl": "https://static01.nyt.com/images/2024/04/01/multimedia/01India-Econ-Takeaways1-btfp/01India-Econ-Takeaways1-btfp-articleLarge.jpg"
+        },
+        {
           "id": "https://cn.nytimes.com/asia-pacific/20240402/oppenheimer-opens-japan/dual",
           "author": null,
           "description": "MOTOKO RICH, KIUKO NOTOYA2024年4月2日周五，日本《奥本海默》电影海报。这部电影在日本上映比美国晚了八个月。 Yuichi Yamazaki/Agence France-Presse — Getty Images\nWatching “Oppenheimer,” the Oscar-winning biopic about the father of the atomic bomb that opened in Japan on Friday, Kako Okuno was stunned by a scene in which scientists celebrated the explosion over Hiroshima with thunderous foot stomping and the waving of American flags.\n周五，关于原子弹之父的奥斯卡获奖传记片《奥本海默》在日本上映，观影期间奥野佳子（音）被一场戏震惊了：科学家们用雷鸣般的跺脚和挥舞美国国旗来庆祝广岛上空的爆炸。\nSeeing the jubilant faces “really shocked me,” said Ms. Okuno, 22, a nursery school teacher who grew up in Hiroshima and has worked as a peace and environmental activist.\n22岁的奥野说，看到这些兴高采烈的面孔“让我非常震惊”。奥野是一名幼儿园老师，在广岛长大，也是一名和平与环保活动人士。\nEight months after Christopher Nolan’s film became a box office hit in the United States, “Op…",
@@ -21522,26 +21752,6 @@
           "wordCount": 1023,
           "title": "MIT华裔博士生承认杀害耶鲁华裔研究生",
           "imageUrl": "https://static01.nyt.com/images/2021/02/11/nyregion/29new-haven-plea/11yalekilling1-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/usa/20240304/biden-age-trump-poll/dual",
-          "author": null,
-          "description": "LISA LERER, RUTH LGIELNIK2024年3月4日编注：由于四舍五入原因，图表中的数字加起来可能未到100%。 By Molly Cook Escobar\nWidespread concerns about President Biden’s age pose a deepening threat to his re-election bid, with a majority of voters who supported him in 2020 now saying he is too old to lead the country effectively, according to a new poll by The New York Times and Siena College.\n《纽约时报》和锡耶纳学院的一项新调查显示，对拜登总统年龄的普遍担忧给他的连任竞选构成了日益严重的威胁，大多数在2020年支持他的选民现在都认为他年龄太大了，无法有效领导这个国家。\nThe survey pointed to a fundamental shift in how voters who backed Mr. Biden four years ago have come to see him. A striking 61 percent said they thought he was “just too old” to be an effective president.\n调查显示，四年前支持拜登的选民现在看待他的方式发生了根本性转变。61%的人认为他“太老了”，无法胜任总统职务。\nA sizable share was even more worried: Nineteen percent of those who voted for Mr. Biden i…",
-          "link": "https://cn.nytimes.com/usa/20240304/biden-age-trump-poll/dual",
-          "publishedOn": "2024-03-04T04:36:33.000Z",
-          "wordCount": 1276,
-          "title": "超半数四年前支持拜登的选民现在认为他“太老了”",
-          "imageUrl": "https://static01.nyt.com/images/2024/03/03/multimedia/c04pol-biden-01/c04pol-biden-articleLarge.png"
-        },
-        {
-          "id": "https://cn.nytimes.com/culture/20240304/china-shenyang-shuang-xuetao/dual",
-          "author": null,
-          "description": "王月眉2024年3月4日双雪涛是中国最有名的年轻作家之一，描绘老家沈阳经济衰退的短篇小说使其出名。 Gilles Sabrié for The New York Times\nFor a long time during Shuang Xuetao’s early teenage years, he wondered what hidden disaster had befallen his family.\n在十几岁的时候，双雪涛有很长一段时间里一直想弄明白，究竟是什么隐藏的灾祸降临到了家人身上。\nHis parents, proud workers at a tractor factory in the northeastern Chinese city of Shenyang, stopped going to work, and the family moved into an empty factory storage room to save money on rent.\n他父母曾是自豪的工人，在中国东北城市沈阳的一家拖拉机厂工作，但他们不再去上班。为了节省房租，全家人搬到工厂一间闲置的储藏室里。\nBut they rarely talked about what had happened, and Mr. Shuang worried that some special shame had struck his family alone.\n但他们很少谈论发生了什么事。双雪涛曾担心只有他家遭受了某种不一般的耻辱。\nIt was not until later that he learned about the mass layoffs that swept northeastern China in the 1990s, during the country’s s…",
-          "link": "https://cn.nytimes.com/culture/20240304/china-shenyang-shuang-xuetao/dual",
-          "publishedOn": "2024-03-04T01:36:01.000Z",
-          "wordCount": 1616,
-          "title": "集体苦难与个体孤独：双雪涛和他笔下的东北",
-          "imageUrl": "https://static01.nyt.com/images/2024/02/26/multimedia/00China-Shuang-Profile-01-hlpz/00China-Shuang-Profile-01-hlpz-articleLarge.jpg"
         }
       ]
     },
