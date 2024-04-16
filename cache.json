@@ -44,16 +44,6 @@
           "wordCount": 6276,
           "title": "R Weekly 2024-W13 Testing R packages, rspell, Aligning content with flexboxes",
           "imageUrl": "https://rweekly.org/public/facebook.png"
-        },
-        {
-          "id": "https://rweekly.org/2024-W12.html",
-          "author": null,
-          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Sam Parmar, with help from the R Weekly team members and contributors.\nHighlight\nPatterns and anti-patterns of data analysis reuse\nShitty R help from shitty AI\nBest Practice for R :: Cheat Sheet\nInsights\nWhat we can learn from esoteric patterns\nPre Self: what fraction of a journal’s papers are preprinted?\nFootball Multiplicities\nUnleash the Power of Your Data: Extend Excel with Python and R!\nPatterns and anti-patterns of data analysis reuse\nIntegrating Snowflake and Posit for enhanced analytics\nShitty R help from shitty AI\n\nEllipses, eclipses and bulletses\nNo installation required: how WebAssembly is changing scientific computing\n\nrOpenSci Dev Guide 0.9.0: Multilingual Now! …",
-          "link": "https://rweekly.org/2024-W12.html",
-          "publishedOn": "2024-03-18T00:00:00.000Z",
-          "wordCount": 6709,
-          "title": "R Weekly 2024-W12 Patterns and anti-patterns, Shitty R help, and R Cheat Sheet",
-          "imageUrl": "https://rweekly.org/public/facebook.png"
         }
       ]
     },
@@ -551,16 +541,6 @@
           "wordCount": 77,
           "title": "郑非评《英国近代史讲义》｜笔下写的是英国，心中想的是日本",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_26630644?commTag=true",
-          "author": null,
-          "description": "葛兆光（章静绘）\n\n2019年6月上线的“从中国出发的全球史”播客节目由葛兆光、梁文道策划，二十多位优秀学人共同撰稿，在两年半的时间里播出了两百多集，广受好评。近日理想国丨云南人民出版社推出了三卷本《从中国出发的全球史》，葛兆光先生接受了《上海书评》的采访，谈了节目制作的甘苦和全球史书写在今天的意义。\n\n《从中国出发的全球史》（全三册），葛兆光主编，云南人民出版社丨理想国，2024年3月版\n\n三卷本《从中国出发的全球史》是“看理想”平台同名播客节目文字版的结集，播客节目历时两年半，正文加番外有两百多集，非常有影响。新出的三卷本也有一百多万字，能请您谈谈这个项目的缘起吗？\n葛兆光：2018年一次很偶然的机会，我和梁文道先生在锦江饭店见面，他说起“看理想”音频节目平台，我就提议，是否可以做一档全球史的播客。我在一周内写了六千字的大纲，大纲包括内容和章节的设想，后来的节目基本上是按照这个大纲来的。梁文道很能干，他负责组织人选、编辑加工等工作，他邀请的撰稿人堪称一时之选，比如周思成、昝涛、马晓林、尹磊、游斌、朱明、刘耀春、费晟、宋念申等二十多人，都是中青年学者里的佼佼者。一开始，播客节目还请了声优，我听了以后，觉得有点照本宣科，后来由撰稿人之一段志强来讲，大家都觉得效果很好，他的声音很适合说故事。因为这首先是一个“听”的节目，而不是“看”的书本，所以，我还给撰稿人提三个要求：第一要讲故事，不要讲大道理；第二不要写长句子，要适合朗读和聆听；第三不要太多的个人新见，因为这是个面向大众的整体节目，内容不能太偏。此后，每一讲在播出之前，我也要依照这些原则，对讲稿进行一些修订和补充。\n从2019年6月正式上线，到2021年12月，“从中国出发的全球史”播了两年半，很受欢迎，听众不仅有很多大学生、研究生和白领知识分子，还有很多不同领域的学者，包括经济学家、社会学家和法律学家。\n从2018年以来…",
-          "link": "https://www.thepaper.cn/newsDetail_forward_26630644?commTag=true",
-          "publishedOn": "2024-03-17T21:02:03.000Z",
-          "wordCount": 98,
-          "title": "葛兆光谈从中国出发的全球史",
-          "imageUrl": null
         }
       ]
     },
@@ -569,6 +549,206 @@
       "feedUrl": "https://feedx.net/rss/thepaper.xml",
       "siteUrl": "http://thepaper.cn",
       "articles": [
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_27048718",
+          "author": null,
+          "description": "继重庆市民反映更换燃气表后费用大增，四川省多个城市的居民也反映存在类似的情况。\n澎湃新闻在四川问政平台搜索发现，从4月14日开始，成都多个区的网友关于燃气计费异常的投诉超过二十条，多反映更换新燃气表后，在使用习惯未有较大变化的情况下，燃气表显示的用气量大增。\n如，4月14日，成都郫都区一名业主称，从2023年开始成都燃气换了新的燃气表后，燃气使用量暴增，其通过成都燃气微网厅查询到家里2022全年燃气使用量为287立方米，2023年换新表后，全年用气量为445立方米，到了2024年，仅仅1至4月的用气量就高达595立方米。\n对此，郫都区网络理政办回应称，已责令责任单位开展调查和处理，期间可能需要一段时间，请耐心等待。待责任单位处理完毕后，将及时进行结果公布。\n除了成都，在四川问政平台，四川南充、内江、自贡、绵阳、资阳、德阳、广安等地也有网友反映类似情况。\n4月14日，南充顺庆区一网友在四川问政平台反映，去年燃气公司换新表后，家里如以往正常用气，同样的用气方式每月费用却翻倍。“以前两月交一次，每次190元左右，现在每次交200元却还用不到35天。”\n对此，南充市政务服务管理局回应称，您反映的问题已交办相关部门处理，请耐心等候处理结果。\n同一天，内江市一名网友也反映，“自从换了新的表，那个天然气基本上比去年同期翻倍了。”内江市12345政务服务便民热线同样回应：“您的留言已转交给相关部门进行处理，请耐心等待回复。”\n绵阳网友反映，“我是绵阳燃气集团用户，目前用了燃气新表，致使每个月费用高出2-3倍。”对此，绵阳市网络发言人回应，“您反映的情况已转市住建委核实答复。”\n4月15日，四川资阳一网友反映，去年我家里的燃气表更换后，费用大增。“近期重庆、成都都有这样的反映，我才明白过来。”资阳市12345网络理政平台回应称：您所反映的问题已收悉，已转至相关部门处理中，待处理完毕后会将结果进行公布。\n针对网友投诉，成都相关部门在回复网友时还提到，根据《中华人民共和国国家计量检定规程》要求，以天然气为介质的燃气表使用期限一般不超过10年。为保护用户用气安全，结合《城镇燃气管理条例》及规程的具体要求，对使用年限满10年的燃气表，应及时更换。燃气公司初装的燃气表均经过国家授权的计量检定机构强制检定，经检定合格在气表上粘贴检定合格标识方可投入使用。如您有其他疑问，可拨打区能源保障服务中心电话028-87888001，我们将为您提供咨询服务，或根据您的需求提供第三方检测服务。\n​​此前，重庆多个区县的不少市民反映称，更换智能燃气表后，在相似的使用频度情况下，费用较以往增加了不少，有市民怀疑燃气表“跑得快”。\n4月13日晚，重庆市政府新闻办召开新闻发布会，就市民反映的家中燃气计量有误和燃气费用增加等相关问题进行回应，称已责成市级相关部门成立了联合调查组对有关问题进行深入调查。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_27048718",
+          "publishedOn": "2024-04-16T15:53:03.000Z",
+          "wordCount": 37,
+          "title": "川渝多地网友反映家中换新表后燃气费异常上涨，当地官方回应",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_27052249",
+          "author": null,
+          "description": "4月16日晚间，国信证券发布的2023年度报告显示，鹏华基金2023年实现净利润8.39亿元，同比降低16.16%；全年营业收入39.47亿元，同比降低9.57%。（澎湃新闻记者 丁欣晴）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_27052249",
+          "publishedOn": "2024-04-16T15:53:03.000Z",
+          "wordCount": 36,
+          "title": "鹏华基金2023年实现净利8.39亿元，同比降低16.16%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_27048132",
+          "author": null,
+          "description": "继4日13日重庆市成立联合调查组，调查市民反映的家中燃气计量有误和燃气费用增加等问题之后，不少成都市民也反映更换燃气表后，出现收费上涨的问题。有网友投诉称，房子一年没住人，却出现了燃气费用和违约金；还有网友投诉，以前几十元一个月，换表后都是100多元。更有网友晒出缴费账单，称换表一个月，居然有17290元的燃气费，“就是24小时不停地烧气，也用不到这么多费用！”\n在成渝两市的问政平台，类似投诉很多，且仍在持续增加中。来自重庆市政府的信息显示，截至4月12日，当地共受理咨询和投诉7362件；相关企业目前已完成20多万户用户筛查。\n燃气费应该是一笔明白账，对于当下公众的质疑吐槽，相关部门应该尽快做出全面调查。\n一者，燃气费、水费、电费，都是老百姓日常生活的必要支出。这些费用本身数目可能不是很大，但却是“细水长流”，属于常态化的刚性支出。因为常态化，所以斤斤计较；因为太熟悉，所以高度敏感。涉及这些费用任何细微的波动，都可能惹得大家琢磨半天。\n一般民众或许无法精准判别新表是否有问题，但以前一个月多少钱，现在一个月多少钱，此种源自生活经验的“比对”，则不可能造假。而当缴费数额的“异动”，恰恰又发生在换表前后，人们自然会把二者联系在一起。\n再者，燃气换表不是一个小事，而从重庆、成都等地的情形看，一般就是燃气公司发个公告就算完事。这显然是不合适的，既然联合调查组将对气表质量、燃气质量、气表计量、价格、收费、服务等方面进行全面调查，这些事务至少涉及住建、市场监督、消防、街道等，那么，这些管理机构和部门之前对换表知情吗？\n换燃气表虽然是企业行为，但却是连接政府和千家万户的公共事业，牵动着每一个老百姓的钱包，理应在严格监管下推进。如果仅仅由燃气公司委托第三方公司一换了之，事先无公开，事中少监督，事后无跟踪，如此操作被民众质疑，并不意外。特别是，燃气公司本身具有行政垄断经营地位，其价格波动，与政府公信力高度绑定。更让公众疑惑的是，上市公司重庆燃气2023年第四季度的净利润同比增长约824%，这个事应该有一个明白无误的解释。\n公共事业收费直接关系到民众切身利益，有关各方在涉及此类价格调整时，必须坚持公开透明，把计费标准、计量仪器跟大家讲清楚。遇到问题要及时调查，有误会要澄清，有问题要纠正，绝对不能有不清不楚的地方。\n\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.run",
+          "link": "https://www.thepaper.cn/newsDetail_forward_27048132",
+          "publishedOn": "2024-04-16T14:53:03.000Z",
+          "wordCount": 37,
+          "title": "【社论】燃气费的明白账，事关千家万户",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_27049567",
+          "author": null,
+          "description": "广西壮族自治区党委原常委、自治区政府原副主席秦如培涉嫌严重违纪违法，目前正接受中央纪委国家监委纪律审查和监察调查。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_27049567",
+          "publishedOn": "2024-04-16T14:53:03.000Z",
+          "wordCount": 32,
+          "title": "广西壮族自治区党委原常委、自治区政府原副主席秦如培被查",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_27052148",
+          "author": null,
+          "description": "4月16日，普华永道发布的《保险公司全面风险管理调查报告2024》显示，虽然保险业整体风险管理能力不断提升，但在应对新市场形势和新监管要求方面，仍然面临着组织协调、人员配备、模型方法、技术工具和数据平台等方面的痛点难点。约70%的受访机构认为“跨部门职责分工、协调沟通与工作配合”是推进风险管理工作的主要挑战。值得注意的是，虽然人身险公司在人员配备方面相较财产险和再保险公司具有优势，但仍有近40%的人身险受访机构表示“人员数量不足和经验欠缺”是其所面临的主要困难。\n《报告》显示，受访机构认为保险资金运用的前三大主要挑战为“投资工具不足和资产结构不合理”“资金运用与负债管理缺少有效衔接”以及“风险计量工具与技术运用不充分”，此外，人才缺失也是另一主要挑战。（澎湃新闻记者 胡志挺）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_27052148",
+          "publishedOn": "2024-04-16T14:53:02.000Z",
+          "wordCount": 36,
+          "title": "普华永道：保险业仍面临组织协调、人员配备、模型方法等方面的痛点难点",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_27045008",
+          "author": null,
+          "description": "据浙江温州市公安局微信号“平安温州”4月15日晚消息，广东揭阳一房内，随着清脆的“咔嚓”声，民警将手铐用力拷在了一名“出家人”的双手上。颤抖着起身的，正是2001年温州市区某宾馆故意杀人案的最后一名凶手李某。\n近日，温州鹿城警方经过不懈追凶，成功抓获潜逃23年命案逃犯。\n\n专案组凯旋归来\n\n追踪：一条模糊的线索\n2024年3月底，鹿城警方收到一条线索，2001年发生在市区某宾馆里的一起命案的逃犯李某可能出现在广东揭阳一带。但仅凭这一条模糊的线索，显然无法判断该名逃犯是否就在当地。于是，专案组成员林彬、吴叶挺和吴凯便立即动身，驱车1000多公里前往广东揭阳。\n\n茫茫人海，嫌犯到底藏匿在哪里？到达揭阳后，专案成员根据前期模糊的线索，不断缩小侦查范围，对每一个可能有用的信息，展开逐年、逐月、逐日的细致核查，终于当地寺庙的一名和尚逐渐进入专案组成员的视野中。\n然而掌握的线索中，和尚的样貌和23年前的李某判若两人。和尚对外自称姓刘，是寺庙的负责人。为了能够进一步确认该和尚的身份，专案组一边对寺庙开展秘密排查走访询问，一边对该和尚的生活轨迹、关系行为进行再研判。经过缜密分析，民警发现该名和尚身份和轨迹都非常可疑。\n抓捕：一次果断的出击\n侦查中，民警发现这名和尚“刘某”的身份系冒用，在寺庙内他是住持，而离开寺庙时，其与一名女子关系密切。而在几次秘密上门侦查中，民警发现该和尚均没有出现在寺庙内，通过其他人了解，此人已经离开寺庙去外地了。难道嫌疑人已经潜逃？\n\n事不宜迟，鹿城警方决定立即收网。专案组民警通过研判发现，除了寺庙，这名和尚还有一个外人不知的隐蔽落脚点。为了不惊动嫌疑人，民警制定了周密的抓捕方案，兵分两路，一组人员蹲守嫌疑人车辆，另一组人员通过视频查控紧盯嫌疑人动态，然而对方却迟迟没有出现。\n\n此时民警发现了与之关系密切的女子的踪迹，通过分析，嫌疑人很可能就藏匿在出租房中。在当地警方的配合下，鹿城警方火速出击，在出租房将还在睡梦中的嫌疑人抓获。\n归案：23年的不懈坚持\n“我们是温州公安的，你自己知道是什么事情吧？”听到民警来自浙江温州，一开始还不承认自己身份的和尚，瞬间就说不出来话了，很快就承认了自己就是潜逃23年的命案逃犯李某。\n\n涉案的宾馆照片\n\n李某，四川德阳人，2001年伙同他人在温州、宁波以残忍方式接连杀害2人，其同伙在案发后不久被抓，但李某却一直销声匿迹。23年来，鹿城警方对这起命案积案的侦破工作从未放弃、从未停止。专案组成员经历了多次人员调整、新老交替，最初的专案组成员有些都已退休，但对李某的追踪，警方一直没有停下。\n李某供述，案发后他逃窜至四川、湖南一带，期间捡到一张名为刘某的身份证，于是便冒用了刘某的身份在一佛学院学习。2008年，李某辗转逃亡至广东揭阳，以刘某的身份在当地一处寺庙内生活至今。\n\n靠着假身份，李某瞒天过海，甚至一路当上了寺庙住持。然而，李某对外是一名“出家人”，私下与一女子以夫妻名义生活，还育有一儿一女。为了躲避公安机关的追查，李某出门化装伪装，甚至在寺庙周围安装监控，如有当地公安机关上门，他还会悄悄打听民警上门的事由。李某隐姓埋名23年，切断了和老家亲人的所有联系，在民警找到他之前，李某正准备整理行李离开广东逃往西藏，然而法网恢恢，疏而不漏，李某最终还是被警方抓获。\n\n4月3日，鹿城警方横跨三省历经9小时押解李某回温，温州、宁波两起23年命案积案成功告破。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_27045008",
+          "publishedOn": "2024-04-16T13:53:03.000Z",
+          "wordCount": 59,
+          "title": "寺庙住持在出租房内被抓获，竟是23年前温州一命案逃犯且已生儿育女",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_27048382",
+          "author": null,
+          "description": "当地时间16日，新加坡副总理兼财政部长黄循财在接受采访时表示，李显龙卸任总理后将出任新加坡国务资政。\n\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.run",
+          "link": "https://www.thepaper.cn/newsDetail_forward_27048382",
+          "publishedOn": "2024-04-16T13:53:03.000Z",
+          "wordCount": 32,
+          "title": "李显龙卸任总理后将出任新加坡国务资政",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_27052121",
+          "author": null,
+          "description": "4月16日，证监会上市公司监管司司长郭瑞明就分红和退市有关问题答记者问。郭瑞明表示，本次退市指标调整旨在加大力度出清“僵尸空壳”、“害群之马”，并非针对“小盘股”。在标准设置、过渡期安排等方面均做了稳妥安排，短期内不会对市场造成冲击。市场有观点认为“本次退市规则修改主要针对小盘股”，这纯属误读。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_27052121",
+          "publishedOn": "2024-04-16T13:53:03.000Z",
+          "wordCount": 32,
+          "title": "证监会：市场有观点认为“本次退市规则修改主要针对小盘股”，为纯属误读",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_27052129",
+          "author": null,
+          "description": "4月16日，证监会上市公司监管司司长郭瑞明就分红和退市有关问题答记者问。郭瑞明表示，实施ST针对的是有盈利的企业，即最近一个会计年度净利润为正值且母公司报表年度末未分配利润为正值的公司。在判断实施条件上，只有当三年累计的分红比例（最近三个会计年度累计现金分红总额低于最近三个会计年度年均净利润的30%）和分红金额（主板为最近三个会计年度累计分红金额低于5000万元，科创板和创业板为3000万元）均不满足要求时，才会被实施ST。\n规则设置的条件，充分考虑了科创板和创业板企业研发投入大，部分企业仍处行业发展早期的特点。对于研发强度大（最近三个会计年度累计研发投入占累计营业收入15%以上）或研发投入大（三年累计在3亿元以上）的企业，即使分红未达到上述条件的，也不会被实施ST。\n以2020-2022年度数据测算，沪深两市可能触及该标准的公司数量仅80多家。（证监会官网）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_27052129",
+          "publishedOn": "2024-04-16T13:53:03.000Z",
+          "wordCount": 32,
+          "title": "证监会：对于研发强度大或研发投入大的企业，即使分红未达到条件也不会被实施ST",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_27051699",
+          "author": null,
+          "description": "当地时间4月16日，在国际货币基金组织和世界银行举行2024年春季年会之际，国际货币基金组织发布最新一期的《世界经济展望报告》，预测2024年全球经济增速为3.2%，相比2024年1月《世界经济展望报告》更新内容的预测值上调了0.1个百分点，相比2023年10月《世界经济展望报告》的预测值上调了0.3个百分点。中国2024年经济增速预计为4.6%，与之前预测保持不变。\n报告中称，全球经济仍保持韧性，但增长并不均衡，前方挑战重重。2024年和2025年全球经济增速将保持在3.2%左右，预计全球总体通胀率将从2023年6.8%的年均值下降至2024年的5.9%和2025年的4.5%。大多数指标都表明，经济将实现软着陆。（央视新闻）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_27051699",
+          "publishedOn": "2024-04-16T13:23:04.000Z",
+          "wordCount": 32,
+          "title": "国际货币基金组织上调今年全球经济增速预期至3.2%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_27051815",
+          "author": null,
+          "description": "4月16日下午6点18分，京东刘强东以“采销东哥AI数字人”的形式空降京东家电家居、京东超市采销直播间，开启自己的直播首秀。数据显示，近1小时观看量超2000万。（澎湃新闻记者 范佳来）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_27051815",
+          "publishedOn": "2024-04-16T13:23:04.000Z",
+          "wordCount": 36,
+          "title": "刘强东AI数字人首次亮相京东直播间，近1小时观看量超2000万",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_27048538",
+          "author": null,
+          "description": "近日网络上流传的一段短视频，引起了大家的广泛关注。视频显示，一位阿姨拍摄在下铺挂帘子的年轻人，并称年轻人不让70岁的老人坐下，呼吁网友们给评评理。\n对此中国铁路12306客服接受采访时表示：“没有明确规定不能使用，在不妨碍其他乘客的情况下可以使用。”网友们纷纷评论：“那是人家的下铺，让你坐是人情，不让你坐是本分”“这不是道德绑架么，不是谁发视频谁就有理”！\n@央广网 看丹观察认为，为什么很多年前坐火车，不相识的上下铺旅客都坐在下铺并没有引起什么争议？而今随着经济社会的高速发展，出行的便利性、舒适性已经成为再正常不过的要求，人们对隐私、卫生、权属等个人权益的保护意识也与日俱增。从法理上讲，“谁买的票谁做主”，只要不妨碍影响其他旅客，其合法合理地使用座位或卧铺都是可以的，当然也包括挂床帘等。从情理上讲，如果上铺旅客年纪大或行动不便，需要临时哪怕是全程使用下铺，也该有话好好说，与下铺乘客客客气气地协商解决，而不是一言不合就拍视频发到网上“道德评判”。12306的回应提醒我们，在公共空间中，平等尊重每个人需求的同时，也要考虑他人的感受。出门在外多有不便，小小床帘可以保护隐私，但不该阻隔善意与温暖。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_27048538",
+          "publishedOn": "2024-04-16T12:53:02.000Z",
+          "wordCount": 49,
+          "title": "央广网：阿姨吐槽年轻人卧铺挂帘不让坐？不是谁拍视频谁有理",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_27050953",
+          "author": null,
+          "description": "4月16日晚间，宁德时代新能源科技股份有限公司（宁德时代，300750.SZ）公告，4月15日，穆迪在其官网发布了关于上调宁德时代信用评级的相关新闻，穆迪将宁德时代的发行人评级从“Baa1”上调至“A3”，并将公司全资子公司时代瑞鼎发展有限公司（Contemporary Ruiding Development Limited）发行并由宁德时代担保的高级无抵押债券评级从“Baa1”上调至“A3”，评级展望为“稳定”。截至本公告日，公司主体信用评级情况为：（1）穆迪对公司主体信用评级为“A3”；（2）惠誉国际信用评级有限公司对公司主体信用评级为“A-”；（3）标准普尔评级服务公司对公司主体信用评级为“BBB+”；（4）联合资信评估股份有限公司对公司主体信用评级为“AAA”。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_27050953",
+          "publishedOn": "2024-04-16T12:53:02.000Z",
+          "wordCount": 38,
+          "title": "宁德时代：公司主体及债券信用评级上调",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_27051031",
+          "author": null,
+          "description": "4月16日晚间，大富科技（安徽）股份有限公司（大富科技，300134.SZ)公告，公司近日收到控股股东配天集团通知函，配天集团于4月12日收到安徽省蚌埠市禹会区人民法院（2024）皖0304破申3号《通知书》，蚌埠市远大创新创业投资有限公司（下称“远大公司”）向禹会区法院申请对配天集团进行重整（含预重整申请）。截至目前，远大公司对配天集团重整或预重整申请能否被法院受理尚存在不确定性。远大公司对配天集团申请重整（含预重整申请）不会对公司日常生产经营产生重大不利影响。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_27051031",
+          "publishedOn": "2024-04-16T12:53:02.000Z",
+          "wordCount": 32,
+          "title": "大富科技：远大公司申请公司控股股东预重整及重整",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_27048629",
+          "author": null,
+          "description": "根据党中央关于巡视工作统一部署，二十届中央第三轮巡视的15个巡视组陆续开始进驻被巡视单位。目前，中央巡视组已进驻17家单位并公布了联系方式。据了解，中央巡视组将在被巡视党组织工作3个月左右。\n本轮巡视对象有哪些？\n经党中央批准，二十届中央第三轮巡视将对国家发展和改革委员会、财政部、自然资源部、住房和城乡建设部、农业农村部、商务部、中国人民银行、审计署、海关总署、国家税务总局、国家市场监督管理总局、国家金融监督管理总局、中国证券监督管理委员会、国家统计局、国家知识产权局、国家粮食和物资储备局、国家能源局、国家林业和草原局、国家外汇管理局、中华全国供销合作总社、全国社会保障基金理事会、中国地质调查局、上海证券交易所、深圳证券交易所、中国进出口银行、中国工商银行股份有限公司、中国农业银行股份有限公司、中国银行股份有限公司、中国建设银行股份有限公司、交通银行股份有限公司、中国中信集团有限公司、中国人寿保险（集团）公司、中国太平保险集团有限责任公司、中国出口信用保险公司等34家单位党委（党组）开展常规巡视。\n哪些问题可以向中央巡视组反映？\n根据巡视工作条例规定，中央巡视组主要受理反映财政部党组领导班子及其成员、下一级党组织主要负责人和重点岗位人员问题的来信来电来访，重点是关于违反政治纪律、组织纪律、廉洁纪律、群众纪律、工作纪律和生活纪律等方面的举报和反映。其他不属于巡视受理范围的信访问题，将按规定由财政部和有关部门认真处理。\n\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.run",
+          "link": "https://www.thepaper.cn/newsDetail_forward_27048629",
+          "publishedOn": "2024-04-16T12:53:02.000Z",
+          "wordCount": 41,
+          "title": "首批进驻17家单位！二十届中央第三轮巡视开始进驻",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_27047310",
+          "author": null,
+          "description": "4月16日，外交部发言人林剑主持例行记者会。\n有记者提问，据中国官方媒体报道，中国外交部长王毅昨天与伊朗外长阿卜杜拉希扬通电话，发言人能不能提供关于他们讨论内容的更多细节？\n\n林剑资料图。图源：外交部网站\n\n林剑表示，4月15日，中共中央政治局委员、外交部长王毅应约同伊朗外长阿卜杜拉希扬通电话，有关情况我们已经发布了消息稿，我也愿意在这里再做进一步的介绍。\n王毅外长在通话中表示，中方强烈谴责并坚决反对伊朗驻叙利亚使馆馆舍遇袭事件，认为这一事件严重违反国际法，不可接受。中方注意到伊朗表示伊方采取的行动是有限度的，是对馆舍遇袭事件行使自卫权，赞赏伊方强调不针对地区国家和周边邻国，并且重申继续奉行睦邻友好政策。相信伊朗能够把握好局势，在维护伊方主权和尊严的同时，避免局势进一步动荡。\n王毅外长说，当前局势是加沙冲突升级的外溢效应。当务之急是尽快落实安理会第2728号决议，在加沙实现停火止战，切实保护平民，防止人道灾难进一步加剧。中方愿同伊方保持沟通，共同推动巴勒斯坦问题得到全面、公正、持久解决。中伊是全面战略伙伴，中方愿同伊方稳步推进各领域务实合作，推动中伊关系取得更大发展。\n\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.run",
+          "link": "https://www.thepaper.cn/newsDetail_forward_27047310",
+          "publishedOn": "2024-04-16T12:53:02.000Z",
+          "wordCount": 37,
+          "title": "外交部介绍王毅与伊朗外长通话细节",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_27049889",
+          "author": null,
+          "description": "4月16日晚间，东吴证券股份有限公司（东吴证券，601555.SH）公告，公司于2024年4月16日收到中国证监会《立案告知书》。内容为：“因你单位涉嫌国美通讯、紫鑫药业非公开发行股票保荐业务未勤勉尽责，根据《中华人民共和国证券法》《中华人民共和国行政处罚法》等法律法规，2024年4月8日，我会决定对你单位立案。”公司将积极配合中国证监会的相关工作，并严格按照监管要求履行信息披露义务。目前，公司的经营情况正常。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_27049889",
+          "publishedOn": "2024-04-16T12:23:02.000Z",
+          "wordCount": 32,
+          "title": "东吴证券：收到中国证券监督管理委员会立案告知书",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_27049960",
+          "author": null,
+          "description": "中国人民银行定于2024年4月22日发行中国纸币千年金银纪念币一套。该套纪念币共3枚，其中金质纪念币2枚，银质纪念币1枚，均为中华人民共和国法定货币。\n150克长方形金质纪念币为精制币，含纯金150克，规格64毫米×40毫米，面额2000元，成色99.9%，最大发行量500枚。\n8克长方形金质纪念币为精制币，含纯金8克，规格23毫米×15毫米，面额100元，成色99.9%，最大发行量10000枚。\n30克长方形银质纪念币为精制币，含纯银30克，规格42毫米×27.5毫米，面额10元，成色99.9%，最大发行量20000枚。（中国人民银行微信公号）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_27049960",
+          "publishedOn": "2024-04-16T12:23:02.000Z",
+          "wordCount": 36,
+          "title": "​中国人民银行定于2024年4月22日发行中国纸币千年金银纪念币一套",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_27046911",
+          "author": null,
+          "description": "近日，一段网络短视频引起广泛关注：火车卧铺车厢里，一阿姨对着在下铺挂帘子的年轻人进行拍摄，并称不让一位70岁的老人坐下，呼吁网友“评评理”。视频中，两个相对的下铺都挂上了帘子。面对指责，帘子背后的年轻人没有理会和搭腔。\n但网友们的反应，恐怕会让这位阿姨大为失望：“那是人家订的下铺，让你坐是人情，不让你坐是本分”“这不是道德绑架么，不是谁发视频谁就有理”“这么理直气壮，我还以为她买的下铺呢”……绝大多数网友并不支持这位阿姨。\n这个“评理”结果，可能和短视频发酵的平台本就以年轻用户为主有关，老年人天然不占优势。但从最基本的道理来说，“谁的铺位谁使用”是一个公认的、明确的原则，这一点很难被否定。\n12306的回复，也认同这一点：没有明确规定不能使用围挡，不影响其他旅客情况下可以使用，但需要跟各位旅客协商好。“使用围挡”的意思，其实就是用帘子将铺位围起来，拒绝他人的使用和窥探。\n曾几何时，火车下铺可以让其他乘客坐似乎是一个默认规则，大家心照不宣地认可。在前高铁时代，长途火车耗时不短，一个车厢里的旅客很容易产生一种共同体意识，彼此之间的互助与容忍再正常不过。\n但随着高铁和飞机的普及，火车共同体意识已经大幅淡化，很多年轻人不愿意再遵守这样的规则了。他们更在乎自身权利，更注重自我感受，更遵从一种边界感分明的行为模式。这当然更符合今天的社会认知。\n换句话说，年轻人现在已经开始“整顿”火车车厢了，他们在重塑一种新的公共规则和出行文化。\n视频里的老人，似乎还没跟上这种节奏，试图用一种道德绑架的方式来模糊权利边界，还诉诸让“大家评评理”的社会压力。这种方式并不讨巧，用虚张声势来模糊基本的道理，并不能说服人，反而会让很多网友反感。\n在公共场所、公共交通工具上，社会固然提倡尊老爱幼、为老年人让座，但前提是被让座者也要尊重和理解让座者，双方应当基于平等友好协商，而不是一方用年龄来逼迫或变相逼迫另一方让座。这如今也是共识和常识。\n值得一提的是，任何一种潜规则的形成，也都有现实因素。仔细看看铁路部门的回复可以发现，对“霸座”的态度非常鲜明，但是对坐别人下铺的口气却相对模糊。这或许也说明，这种“共享下铺”的模式，其实是一种解决资源不足的常见模式，管理方也没法施以过于明显的道德谴责。\n以一般的硬卧车厢为例，6个铺位，只有2个板凳座位，可坐的空间确实有限。除了2个下铺外，其余4个人经常要“抢”2个座位。正是在这个背景下，“下铺能坐”长期以来被视为合理，可以让其他铺位的乘客能放松下，最起码可以坐着吃口饭。\n在过去，这种安排或许是为了尽可能保证运力、让更多的人买到卧铺票，不得已而为之。但现如今，既然这个约定俗成的规范已经被年轻人打破，铁路部门是否也可顺应变化，推出坐卧空间分配更加合理的车厢？\n年轻人对个人空间的重视、对使用权利的敏感，会逐渐成为一种主流意识。社会应当肯定年轻人的观念变化，这本身是社会文明进步的一种体现。公共服务应当看到并尊重这种新趋势，从资源分配的源头上，把暧昧不清的部分给去除掉。\n近些年，铁路部门顺应社会需求，推出了不少特色服务，比如“静音车厢”的普及，受到了广泛好评。多年不变的卧铺车厢设计，是否也可以改改？让边界更清晰一点，让乘客之间的争端少一点，这应该是公共交通改进的方向。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_27046911",
+          "publishedOn": "2024-04-16T11:53:02.000Z",
+          "wordCount": 50,
+          "title": "马上评丨又见下铺之争，年轻人开始整顿卧铺车厢了？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_27048876",
+          "author": null,
+          "description": "今天，江西上饶、宜春等地部分地区遭遇暴雨、冰雹等强对流天气。冰雹最大直径约4～5厘米，致部分房屋受损、蔬菜折断、覆膜破损。\n目前，当地正抓紧时间调度核查受灾情况，并开展补救，争取把损失降到最低。提醒：近期江西省对流强度强，注意防范！（@央视新闻）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_27048876",
+          "publishedOn": "2024-04-16T11:53:02.000Z",
+          "wordCount": 36,
+          "title": "江西多地遭遇冰雹大如鸡蛋，致部分房屋受损、覆膜破损",
+          "imageUrl": null
+        },
         {
           "id": "https://www.thepaper.cn/newsDetail_forward_27047234",
           "author": null,
@@ -12178,86 +12358,6 @@
           "wordCount": 45,
           "title": "日媒：3万多吨核污染水已经入海，日本4月或启动新一轮排海",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_26718795",
-          "author": null,
-          "description": "3月18日，恒生指数午盘持平，恒生科技指数涨0.48%。盘面上，软件、硬件表现亮眼，多元金融回暖，美图公司大涨15%，知行汽车科技涨逾7%，陆控升超6%；地产震荡走低，保险萎靡，恒基地产下探5%，阳光保险跌逾4%，龙湖集团下滑3%。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_26718795",
-          "publishedOn": "2024-03-18T04:23:03.000Z",
-          "wordCount": 32,
-          "title": "恒生指数午盘持平，恒生科技指数涨0.48%",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_26718873",
-          "author": null,
-          "description": "最近，“夹来的娃娃最好别放床头”登上热搜榜，因为有媒体和监管部门调查发现，娃娃机里的毛绒玩具（以下称“娃娃”）质量令人担忧，部分产品含有一级致癌物甲醛。长期接触低剂量甲醛，有很大的安全隐患。不少人夹到娃娃后，习惯性放在沙发、床头，甚至有孩子抱着睡觉，如果遇到问题娃娃，着实让人担忧。\n那么，市场上常见的娃娃机里，娃娃安全吗？记者调查发现，情况不容乐观。\n在迪美购物中心的“风云再起游乐汇”中，记者统计了55台娃娃机中的娃娃情况：21台机器中的娃娃没有任何标签，无法获知生产信息、3C认证情况，其中有不少为近似或模仿知名IP的产品；9台机器中的娃娃带有“合格证”等标签，但这类“合格证”上没有生产信息，只是提醒消费者使用时注意移除娃娃上的附属物等；剩下的25台机器中，娃娃有完整的生产信息标签或吊牌。（上观新闻）\n\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.run",
-          "link": "https://www.thepaper.cn/newsDetail_forward_26718873",
-          "publishedOn": "2024-03-18T04:23:03.000Z",
-          "wordCount": 32,
-          "title": "娃娃机玩偶可能含一级致癌物？调查：55台机器，30台里是“三无”",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_26718776",
-          "author": null,
-          "description": "3月18日，国家统计局新闻发言人刘爱华表示，从未来走势看，目前国际输入性因素仍然存在不确定性。但是随着大规模设备更新相关政策推动落实，相关行业需求有望得到提振，同时消费需求恢复有利于消费品制造业价格上涨。总体看，下一步PPI有望低位回升。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_26718776",
-          "publishedOn": "2024-03-18T03:53:03.000Z",
-          "wordCount": 32,
-          "title": "国家统计局：下一步PPI有望低位回升",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_26718777",
-          "author": null,
-          "description": "3月18日，国家统计局新闻发言人刘爱华表示，从未来走势看，随着商品和服务需求持续恢复，叠加消费品以旧换新等政策带动，同时考虑到翘尾下拉影响减弱，预计居民消费价格仍然将呈温和上涨的态势。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_26718777",
-          "publishedOn": "2024-03-18T03:53:03.000Z",
-          "wordCount": 32,
-          "title": "国家统计局：预计居民消费价格仍将呈温和上涨态势",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_26718551",
-          "author": null,
-          "description": "记者从福建多部门了解到，福建省海上搜救中心3月17日半夜接台湾中华搜救协会通告，当日有两名金门人员出海海钓未归。福建多部门展开搜救。18日凌晨4点15分左右，两人在泉州围头湾水域被大陆船只救起，初步检查身体状况良好。18日上午，厦门海上搜救中心等部门将在海上把两人转交给金门方面。（央视新闻）",
-          "link": "https://www.thepaper.cn/newsDetail_forward_26718551",
-          "publishedOn": "2024-03-18T03:23:03.000Z",
-          "wordCount": 32,
-          "title": "两名金门人员出海失联，被大陆船只救起",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_26717847",
-          "author": null,
-          "description": "据俄罗斯中央选举委员会当地时间18日凌晨发布的数据，在俄总统选举统计完成的85%选票中，现任总统普京以87.19%的得票率大幅领先其他候选人，实际已经赢得此次总统选举。\n俄联邦共产党的哈里托诺夫以4.24%的得票率位居第二，俄新人党的达万科夫得票率为3.99%名列第三，俄自由民主党的斯卢茨基以3.16%的得票率位列第四。\n普京18日凌晨在竞选总部发表讲话，感谢所有选民的支持。他表示，俄罗斯是一个大家庭，本次选举结果体现了选民的信任和期望，国家的所有任务都将完成。俄罗斯将会进一步向前发展，变得更坚实、更强大、更高效。\n普京在随后召开的记者会上表示，他将在新的任期继续推动国家发展。他说，国家发展的所有主要任务都已在近期向议会两院发表的国情咨文中阐述，将竭尽所能完成既定目标。\n俄罗斯第八届总统选举正式投票于15日至17日举行。根据俄总统选举规则，在选举中获得50%以上选票者当选总统。俄中央选举委员会将不晚于3月28日确认此次总统选举结果，并在选举结果确认后3日内予以公布。\n俄中央选举委员会主席帕姆菲洛娃17日说，俄方邀请了来自129个国家和地区的1115名国际观察员监督投票，确保选举公正透明。\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.run",
-          "link": "https://www.thepaper.cn/newsDetail_forward_26717847",
-          "publishedOn": "2024-03-18T02:53:03.000Z",
-          "wordCount": 32,
-          "title": "普京赢得俄总统选举，表示将继续推动国家发展",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_26713406",
-          "author": null,
-          "description": "@北京青年报 3月17日消息，有网友当天发布一段监控视频称， 一名男孩在路边拖走小女孩，疑似实施猥亵。视频中显示的时间为今年3月12日下午，一名身着黄色衣服的男孩将一名女孩拖行至角落处，可以听到女孩在哭叫，视频中出现疑似猥亵的行为。视频后半段，可看到有行人和骑电动车的人经过，女孩逃离后，男孩也离开现场。\n\n 有网友表示，视频中的地点可能为广东梅州。3月17日下午，梅州市公安局工作人员告诉记者，目前警方已受理该案件，具体信息以官方通报为准。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_26713406",
-          "publishedOn": "2024-03-18T02:53:03.000Z",
-          "wordCount": 44,
-          "title": "一名男孩在路边拖走小女孩疑似猥亵？广东梅州公安：已受理",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_26718532",
-          "author": null,
-          "description": "3月18日，半导体板块拉升，寒武纪涨逾12%，长光华芯涨逾10%，德明利、纳芯微、国芯科技、美芯晟等均大涨。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_26718532",
-          "publishedOn": "2024-03-18T02:53:03.000Z",
-          "wordCount": 32,
-          "title": "半导体板块拉升，寒武纪领涨",
-          "imageUrl": null
         }
       ]
     },
@@ -12266,6 +12366,116 @@
       "feedUrl": "https://www.nationalreview.com/feed/",
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1622249",
+          "author": "Abigail Anthony",
+          "description": "‘The left-wing totalitarians that run the EU know that National Conservatives…pose the greatest threat to their misrule,’ Yoram Hazony told NR.",
+          "link": "https://www.nationalreview.com/news/police-try-to-shut-down-national-conservatism-conference-in-brussels-the-far-right-is-not-welcome/",
+          "publishedOn": "2024-04-16T15:52:31.000Z",
+          "wordCount": 8728,
+          "title": "Police Try to Shut Down National Conservatism Conference in Brussels: ‘The Far-Right Is Not Welcome’",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/04/brussels-police.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1622191",
+          "author": "David Zimmermann",
+          "description": "Berliner has since criticized the company’s new CEO over recently resurfaced tweets that indicate a significant left-wing bias.",
+          "link": "https://www.nationalreview.com/news/npr-suspends-longtime-editor-after-scathing-expose-on-left-wing-bias/",
+          "publishedOn": "2024-04-16T14:55:34.000Z",
+          "wordCount": 8496,
+          "title": "NPR Suspends Longtime Editor after Scathing Exposé on Left-Wing Bias",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2021/06/npr-headquarters.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1622195",
+          "author": "The Editors",
+          "description": "Harvard’s return to the SAT marks the symbolic end of an activist delusion in left-wing academics.",
+          "link": "https://www.nationalreview.com/2024/04/the-failed-experiment-with-ending-standardized-testing/",
+          "publishedOn": "2024-04-16T14:42:43.000Z",
+          "wordCount": 8589,
+          "title": "The Failed Experiment with Ending Standardized Testing",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/01/Harvard-University.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1622187",
+          "author": "Abigail Anthony",
+          "description": "Lucy Frazer met Tuesday with the heads of various sports bodies to urge them to keep males out of female divisions.",
+          "link": "https://www.nationalreview.com/news/u-k-culture-secretary-tells-sports-chiefs-to-protect-female-athletics-give-women-a-sporting-chance/",
+          "publishedOn": "2024-04-16T13:51:43.000Z",
+          "wordCount": 8581,
+          "title": "U.K. Culture Secretary Tells Sports Chiefs to Protect Female Athletics: ‘Give Women a Sporting Chance’",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/04/Lucy-Frazer.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1622132",
+          "author": "David Zimmermann",
+          "description": "Trump began his criminal trial with jury selection on Monday.",
+          "link": "https://www.nationalreview.com/news/just-one-third-of-voters-believe-trump-acted-illegally-in-hush-money-case/",
+          "publishedOn": "2024-04-16T12:33:30.000Z",
+          "wordCount": 8908,
+          "title": "Just One Third of Voters Believe Trump Acted Illegally in Hush-Money Case",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/04/Donald-Trump-50.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1622092",
+          "author": "James Lynch",
+          "description": "‘The facts do not matter to you,’ White House counsel Richard Sauber wrote in a letter to Biden.",
+          "link": "https://www.nationalreview.com/news/white-house-declines-comers-invitation-for-joe-biden-to-testify-about-familys-business-dealings/",
+          "publishedOn": "2024-04-16T11:42:55.000Z",
+          "wordCount": 8655,
+          "title": "White House Declines Comer’s invitation for Joe Biden to Testify about Family’s Business Dealings",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/04/James-Comer-8.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1621848",
+          "author": "Ryan Mills",
+          "description": "Douglas County filed a lawsuit against the state Monday, alleging that two recently passed laws barring cooperation with ICE violate the Constitution.",
+          "link": "https://www.nationalreview.com/news/denvers-neighbors-rebel-against-open-arms-approach-to-migrants-we-do-not-want-that/",
+          "publishedOn": "2024-04-16T10:30:55.000Z",
+          "wordCount": 10994,
+          "title": "Denver’s Neighbors Rebel against Open-Arms Approach to Migrants: ‘We Do Not Want That’",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/04/denver-city-hall-banner.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1622052",
+          "author": "Tal Fortgang",
+          "description": "When students turned a party into a protest, Erwin Chemerinsky learned the hard way that coddling activists won’t save you when they become the mob.",
+          "link": "https://www.nationalreview.com/2024/04/law-school-rot-hits-berkeley-dean-close-to-home-literally/",
+          "publishedOn": "2024-04-16T10:30:43.000Z",
+          "wordCount": 9068,
+          "title": "Law-School Rot Hits Berkeley Dean Close to Home — Literally",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/07/ucla-sather-gate-2007.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1622087",
+          "author": "Rich Lowry",
+          "description": "Critics hold the Jewish state to a higher standard than any other nation.",
+          "link": "https://www.nationalreview.com/2024/04/israel-alone/",
+          "publishedOn": "2024-04-16T10:30:25.000Z",
+          "wordCount": 9004,
+          "title": "The Anti-Israel Delusion",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/01/israel-war-011524-1.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1621967",
+          "author": "Michael Lucci",
+          "description": "Ohio stands to benefit as the two states continue on diverging policy paths.",
+          "link": "https://www.nationalreview.com/2024/04/the-michigan-ohio-economic-rivalry-shifts-in-the-buckeye-states-favor/",
+          "publishedOn": "2024-04-16T10:30:19.000Z",
+          "wordCount": 8913,
+          "title": "The Michigan–Ohio Economic Rivalry Shifts in the Buckeye State’s Favor",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/04/GretchenWhitmer-MikeDeWine.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1622045",
+          "author": "Jay Nordlinger",
+          "description": "On tradition and change; a remarkable college president; the wisdom of Phil Gramm; a righteous, heroic nun; and more.",
+          "link": "https://www.nationalreview.com/2024/04/a-lesson-from-augusta-c/",
+          "publishedOn": "2024-04-16T10:30:13.000Z",
+          "wordCount": 9727,
+          "title": "A lesson from Augusta, &c.",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/04/augusta-12th-hole.jpg?fit=2057%2C1200&ssl=1"
+        },
         {
           "id": "https://www.nationalreview.com/?post_type=blog-post&p=1622060",
           "author": "James Lynch",
@@ -16905,26 +17115,6 @@
           "wordCount": 8630,
           "title": "Maduro’s Venezuelan Fury",
           "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/03/nicolas-maduro-caracas-venezuela.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1611517",
-          "author": "John Fund",
-          "description": "The Trudeau government’s newly proposed online-speech law could be used to punish hate crimes before they’ve been committed.",
-          "link": "https://www.nationalreview.com/2024/03/dont-even-think-that-or-the-government-will-arrest-you/",
-          "publishedOn": "2024-03-17T22:21:17.000Z",
-          "wordCount": 8556,
-          "title": "Don’t Even <i>Think</i> That or the Government Will Arrest You",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/03/justin-trudeau-house-of-commons-canada.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1611422",
-          "author": "Haley Strack",
-          "description": "During an interrogation, the Lebanese migrant reportedly said that his training with Hezbollah focused on ‘jihad.’",
-          "link": "https://www.nationalreview.com/news/self-identified-hezbollah-terrorist-who-wanted-to-make-a-bomb-caught-by-border-patrol-in-texas/",
-          "publishedOn": "2024-03-17T19:48:14.000Z",
-          "wordCount": 8168,
-          "title": "Self-Identified Hezbollah Terrorist Who Wanted to ‘Make a Bomb’ Caught by Border Patrol in Texas",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/01/border-crisis-january-2023-36.jpg?fit=2057%2C1200&ssl=1"
         }
       ]
     },
@@ -16933,6 +17123,36 @@
       "feedUrl": "https://sspai.com/feed",
       "siteUrl": "https://sspai.com",
       "articles": [
+        {
+          "id": "https://sspai.com/prime/story/xv100vi-retro-cameras",
+          "author": "Hermanchannn",
+          "description": "理性看待 XV100VI 的热度，放眼看看其他不错的选择。查看全文\n本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
+          "link": "https://sspai.com/prime/story/xv100vi-retro-cameras",
+          "publishedOn": "2024-04-16T10:01:32.000Z",
+          "wordCount": 952,
+          "title": "电子茅台与不驯灵魂：X100VI 漫谈，以及更多的复古相机选择",
+          "imageUrl": "https://cdn.sspai.com/2024/04/08/47d586978000999004be4a411810d2ee.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/88118",
+          "author": "Matrix机器人",
+          "description": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意以及社区产品动态呈现给大 ...查看全文",
+          "link": "https://sspai.com/post/88118",
+          "publishedOn": "2024-04-16T09:32:45.000Z",
+          "wordCount": 979,
+          "title": "社区速递 040 | 季度作者、跑出半马、海鸥双反以及派友手机壳大推荐",
+          "imageUrl": "https://cdn.sspai.com/4/16/2024/article/f46154ac-956b-1006-1e5a-1170e86f2589.jpeg"
+        },
+        {
+          "id": "https://sspai.com/post/87870",
+          "author": "HarperMua",
+          "description": "恶意软件在你的电脑里做了什么？我用逆向工程的方法把它看个明白。查看全文",
+          "link": "https://sspai.com/post/87870",
+          "publishedOn": "2024-04-16T07:07:03.000Z",
+          "wordCount": 1104,
+          "title": "Ghidra 逆向工程实战：看看 macOS 恶意软件动了什么手脚",
+          "imageUrl": "https://cdn.sspai.com/2024/04/13/fce1d98ee01cc966b240c439eaff092c.png"
+        },
         {
           "id": "https://sspai.com/post/88067",
           "author": "sqybi",
@@ -17932,26 +18152,6 @@
           "wordCount": 679,
           "title": "派开箱 | 科技祛魅，返璞归真：明基新款屏幕挂灯实用也更好用了",
           "imageUrl": "https://cdn.sspai.com/2024/3/18/article/460b9550-bbb2-7337-4ed1-2c3e172a8f9b.jpeg"
-        },
-        {
-          "id": "https://sspai.com/post/86760",
-          "author": "家屹",
-          "description": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
-          "link": "https://sspai.com/post/86760",
-          "publishedOn": "2024-03-18T03:30:00.000Z",
-          "wordCount": 688,
-          "title": "做了 4 年短视频内容，我想和你分享这些心得方法",
-          "imageUrl": "https://cdn.sspai.com/2024/02/28/05dce9b28009f5151278e8d412082809.jpeg"
-        },
-        {
-          "id": "https://sspai.com/post/87349",
-          "author": "少数派编辑部",
-          "description": "你可能错过的新鲜事xAI开源Grok-1模型3月17日，马斯克创办的xAI公开发布了Grok-1模型的代码和模型权重[GitHub]，均采用Apache2开源许可证。权重文件体积为318.24GB，采 ...查看全文",
-          "link": "https://sspai.com/post/87349",
-          "publishedOn": "2024-03-18T00:45:01.000Z",
-          "wordCount": 913,
-          "title": "派早报：xAI 开源 Grok-1 模型",
-          "imageUrl": "https://cdn.sspai.com/3/18/2024/article/03f2ccb0-c745-1125-ac38-c81279c6b61b.png"
         }
       ]
     },
@@ -17960,6 +18160,118 @@
       "feedUrl": "https://plink.anyfeeder.com/idaily/today",
       "siteUrl": "https://idai.ly",
       "articles": [
+        {
+          "id": "idaily-205123",
+          "author": "法国 · 巴黎",
+          "description": "2024年巴黎奥运会倒数100天前夕，法国总统 Emmanuel Macron 视察即将结束翻修工程的巴黎大皇宫。4月15日，巴黎大皇宫翻修工程进入收尾阶段，预计4月19日交付巴黎奥组委成为击剑和跆拳道项目比赛场馆。本次翻修工程耗时长达3年，建设预算达到5亿欧元，主要改进项目包括提升建筑防火强度、提高60%最大容纳人数和增设紧急出口等。本届奥运会预计发售约1000万张门票，目前已售出760万张。摄影师：Yoan Valat",
+          "link": "https://m.idai.ly/se/6c17P8",
+          "publishedOn": "2024-04-16T09:59:00.000Z",
+          "wordCount": 267,
+          "title": "巴黎大皇宫翻修完工 - April 16, 2024",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/f5f44c7d/89289b4a.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/f5f44c7d/89289b4a.jpg"
+        },
+        {
+          "id": "idaily-205120",
+          "author": "美国 · 华盛顿特区",
+          "description": "美国总统 Joe Biden 与伊拉克总理 Mohammed Shia al-Sudani 举行会晤，华盛顿白宫。4月15日，伊拉克总理应邀对美国进行正式访问，两国领导人就双边关系、中东局势、能源合作等议题进行讨论。双方会后发表联合声明，同意在军事、能源、金融、反恐等领域加强合作，并根据美伊《战略框架协议》评估制定美方撤军时间表，推动两国从军事关系平稳系统地过渡至全面安全伙伴关系。伊拉克总理 al-Sudani 表示美伊在巴以问题上存在分歧，强调伊拉克反对任何针对平民尤其是妇女和儿童的侵略行为。摄影师：Bonnie Cash",
+          "link": "https://m.idai.ly/se/a9686L",
+          "publishedOn": "2024-04-16T09:57:00.000Z",
+          "wordCount": 267,
+          "title": "伊拉克商议美军撤军 - April 16, 2024",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/828e3339/b7f624d0.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/828e3339/b7f624d0.jpg"
+        },
+        {
+          "id": "idaily-205119",
+          "author": "中国 · 上海",
+          "description": "德国总统 Olaf Scholz 访问同济大学，中国上海。4月15日，德国总理 Scholz 抵达中国之行第二站上海，主要行程包括访问同济大学、参观德国科思亚太创新中心并与上海市委书记陈吉宁会面等。Scholz 在同济大学与学生就气候变化、人口增长、世界经济发展等话题进行交流，他表示德国市场欢迎中国汽车，但强调必须确保「公平竞争」，不存在倾销、生产过剩和侵犯知识产权等行为。德国汽车工业协会上周发表声明公开反对欧盟对中国电动汽车征收惩罚性关税，表示此举可能引发贸易战并损害德国汽车行业。摄影师：Michael Kappeler",
+          "link": "https://m.idai.ly/se/94fPyt",
+          "publishedOn": "2024-04-16T09:55:00.000Z",
+          "wordCount": 267,
+          "title": "德国总理访问上海 - April 16, 2024",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/50a7f019/d7227b13.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/50a7f019/d7227b13.jpg"
+        },
+        {
+          "id": "idaily-205118",
+          "author": "新加坡",
+          "description": "新加坡总理李显龙与新西兰总理 Christopher Luxon 举行会晤，新加坡总统府。4月15日，新加坡总理公署宣布现任总理李显龙将于5月15日卸任，他将正式建议总统任命副总理黄循财出任新加坡第4任总理，新总理将在5月15日宣誓就职。现年72岁的李显龙是新加坡开国总理李光耀的长子，毕业于英国剑桥大学数学系，曾担任新加坡贸工部部长、副总理兼财政部长等职位，2004年8月起担任新加坡总理并连任至今。新加坡人均 GDP 在李显龙执政20年中增长2倍达到8.2万美元，目前全球排名第10位。摄影师：Terence Tan",
+          "link": "https://m.idai.ly/se/f0bq1Z",
+          "publishedOn": "2024-04-16T09:53:00.000Z",
+          "wordCount": 267,
+          "title": "新加坡总理宣布卸任 - April 16, 2024",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/f28c6e12/ccd25e99.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/f28c6e12/ccd25e99.jpg"
+        },
+        {
+          "id": "idaily-205117",
+          "author": "荷兰 · 诺德韦克",
+          "description": "欧空局向媒体展示「赫拉」（Hera）小行星探测器，荷兰诺德韦克。「赫拉号」小行星探测器长约1.6米，搭载小行星分幅相机、热红外成像仪等12台仪器。该探测器目前已进入最后测试阶段，预计于2024年10月发射升空，2026年抵达近地小行星「迪莫弗斯」（Dimorphos），主要任务是观测 NASA 飞行器撞击对「迪莫弗斯」产生的后续影响。摄影师：Koen van Weel",
+          "link": "https://m.idai.ly/se/3f62H3",
+          "publishedOn": "2024-04-16T09:51:00.000Z",
+          "wordCount": 267,
+          "title": "欧空局赫拉小行星探测器 - April 16, 2024",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/aab5704d/eb08c6a7.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/aab5704d/eb08c6a7.jpg"
+        },
+        {
+          "id": "idaily-205115",
+          "author": "意大利 · 米兰",
+          "description": "2024年意大利米兰设计周期间，访客正在体验一件沉浸式装置作品。本届米兰设计周从4月15日持续至21日，预计举行约1300场活动和展览，吸引超过30万人参观。米兰设计周始于1961年，是全球规模最大的设计类展会之一，涵盖家具、家居、室内设计、建筑、服饰等多个设计产业领域。摄影师：Daniel Dal Zennaro",
+          "link": "https://m.idai.ly/se/304z97",
+          "publishedOn": "2024-04-16T09:49:00.000Z",
+          "wordCount": 267,
+          "title": "2024米兰设计周 - April 16, 2024",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/29bd42a7/a3229f90.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/29bd42a7/a3229f90.jpg"
+        },
+        {
+          "id": "idaily-205114",
+          "author": "德国 · 巴伐利亚州",
+          "description": "德国陶夫基兴史前博物馆馆长展示一组「巨恐象」化石，巴伐利亚州。4月15日，德国陶夫基兴史前博物馆宣布在慕尼黑地区发现一组距今1000万年前的「巨恐象」（D. giganteum）化石，共包括约120块骨骼化石，经分析确认来自3只不同年龄的巨恐象。巨恐象是已知陆地上最大的哺乳动物之一，生活在中新世晚期的欧洲地区，成年体重可达13吨，身高超过4米，特征是长有4根象牙，下颌比现代大象多2根弯曲的象牙。摄影师：Peter Kneffelv",
+          "link": "https://m.idai.ly/se/b96P7F",
+          "publishedOn": "2024-04-16T09:47:00.000Z",
+          "wordCount": 267,
+          "title": "德国史前大象化石 - April 16, 2024",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/34ec471a/82d69ae8.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/34ec471a/82d69ae8.jpg"
+        },
+        {
+          "id": "idaily-205113",
+          "author": "缅甸 · 仰光",
+          "description": "缅甸仰光大金塔广场举行「泼水节」（Thingyan）庆祝活动。「泼水节」是缅甸一年中最盛大的节日，人们以互相泼水的方式表达祝福并迎接缅历传统新年。缅甸本年度「泼水节」庆祝时间从4月13日持续至16日。联合国开发计划署报告显示缅甸约49.7%人口生活在贫困线以下，每天生活费不足1590缅甸元（约合0.75美元）。世界银行预计缅甸2023财年经济增速仅为1%，主要受内战冲突、物流中断、货币贬值、高通胀等负面因素影响。摄影师：iDaily Media",
+          "link": "https://m.idai.ly/se/54f9mo",
+          "publishedOn": "2024-04-16T09:45:00.000Z",
+          "wordCount": 267,
+          "title": "缅甸庆祝泼水节 - April 16, 2024",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/5576ed41/1dce5a37.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/5576ed41/1dce5a37.jpg"
+        },
         {
           "id": "idaily-205020",
           "author": "中国 · 云南省",
@@ -20936,6 +21248,16 @@
       "siteUrl": "http://nytimes.com",
       "articles": [
         {
+          "id": "https://cn.nytimes.com/business/20240416/wuxi-us-drugs-congress/dual",
+          "author": null,
+          "description": "CHRISTINA JEWETT2024年4月16日位于无锡的药明生物工厂。药明康德及其子公司药明生物已获得了数百万计美元的税收优惠，以在马萨诸塞州和特拉华州建设庞大的研发和生产基地。 Imaginechina Limited, via Alamy\nA Chinese company targeted by members of Congress over potential ties to the Chinese government makes blockbuster drugs for the American market that have been hailed as advances in the treatment of cancers, obesity and debilitating illnesses like cystic fibrosis.\n由于与中国政府的潜在关系，一家为美国市场生产重磅药物的中国公司成为了国会议员的攻击目标。这家公司生产的药物被认为在癌症、肥胖症以及囊性纤维化等严重损伤身体的疾病方面取得了重大进展。\nWuXi AppTec is one of several companies that lawmakers have identified as potential threats to the security of individual Americans’ genetic information and U.S. intellectual property. A Senate committee approved a bill in March that aides say is intended to push U.S. companies away from doing business with them.\n立法者已经…",
+          "link": "https://cn.nytimes.com/business/20240416/wuxi-us-drugs-congress/dual",
+          "publishedOn": "2024-04-16T07:36:02.000Z",
+          "wordCount": 2206,
+          "title": "中国药企药明康德成美国国会打击目标",
+          "imageUrl": "https://static01.nyt.com/images/2024/04/10/multimedia/00WUXI-DRUGS-01-vhqm/00WUXI-DRUGS-01-vhqm-articleLarge.jpg"
+        },
+        {
           "id": "https://cn.nytimes.com/business/20240416/china-gdp-q1/dual",
           "author": null,
           "description": "KEITH BRADSHER, 艾莎2024年4月16日吉利集团旗下新品牌极氪在中国宁波的一家电动汽车工厂。 Gilles Sabrié for The New York Times\nThe Chinese economy grew more than expected in the first three months of the year, new data shows, as China built more factories and exported huge amounts of goods to counter a severe real estate crisis and sluggish spending at home.\n新数据显示，随着中国建造更多工厂，出口大量商品，以应对严重的房地产危机和国内消费低迷，今年前三个月，中国经济增长超过预期。\nTo stimulate growth, China, the world’s second-largest economy, turned to a familiar tactic: investing heavily in its manufacturing sector, including a binge of new factories that have helped to propel sales around the world of solar panels, electric cars and other products.\n为刺激增长，世界第二大经济体中国采取了一种熟悉的策略：大举投资制造业，包括大量新建工厂，这有助于推动太阳能电池板、电动汽车和其他产品在全球的销售。\nBut China’s bet on exports has worried many foreign countries …",
@@ -21804,26 +22126,6 @@
           "wordCount": 1384,
           "title": "美国该如何利用朝鲜对中国的戒心和金正恩的野心",
           "imageUrl": "https://static01.nyt.com/images/2024/03/17/multimedia/13delury-qblt/13delury-qblt-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/world/20240318/foreign-interference-laws-sunny-duong/dual",
-          "author": null,
-          "description": "YAN ZHUANG2024年3月18日12月，澳大利亚墨尔本，在自家仓库里的杨怡生。 Abigail Varney for The New York Times\nThe police officers asked the man what he meant when he said that involving an Australian government minister in a charity event could benefit “us Chinese.” Was he talking about mainland China and the Chinese Communist Party, or the local Australian Chinese community? Depending on the answer, he faced up to 10 years in prison.\n警察要求这名男子解释，他此前说让澳大利亚政府部长参与一项慈善活动对“我们中国人”有利是什么意思。说这番话时，他指的是中国大陆和中国共产党，还是澳大利亚当地的华人群体？取决于他给出的答案，这名男子将面临的惩罚包括最高10年的监禁。\n“You are understanding the Chinese is China. We always say, ‘I’m Chinese,’ that not mean, ‘I’m mainland China,’” said the man, Di Sanh “Sunny” Duong, who was brought in for questioning.\n“你把中国人理解成了中国。我们总是说，‘我是中国人’，这并不意味着‘我是中国大陆’，”接受问询的男子杨怡生（又名Sunny）说。\nThe officer pressed on,…",
-          "link": "https://cn.nytimes.com/world/20240318/foreign-interference-laws-sunny-duong/dual",
-          "publishedOn": "2024-03-18T04:06:35.000Z",
-          "wordCount": 1761,
-          "title": "澳大利亚反外国干预法首案：华商因何被定罪？",
-          "imageUrl": "https://static01.nyt.com/images/2024/03/13/world/00oz-interference/00oz-interference-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/china/20240318/china-tiktok-house-bill/dual",
-          "author": null,
-          "description": "MEAGHAN TOBIN, SIYI ZHAO2024年3月18日中国批评美国立法者通过可能迫使TikTok的中国所有者在美国将其出售的立法。 Agence France-Presse — Getty Images\nThis is not the first time that China has seen a frenzy over TikTok consume Washington.\n这不是中国第一次看到华盛顿把精力消耗在有关TikTok的疯狂上。\nIn 2020, President Donald J. Trump issued an executive order that would have forced TikTok’s Chinese owners to sell the popular app. But Beijing foiled a takeover bid by American buyers by slapping curbs on technology exports. Last year, Montana lawmakers enacted a ban on TikTok in the state, but a federal judge blocked the law before it could take effect.\n前总统特朗普曾在2020年发布行政命令，试图迫使TikTok的中国所有者出售这款大受欢迎的应用程序。但中国政府通过限制技术出口挫败了美国买家的收购。去年，蒙大拿州的立法者通过了在该州禁止TikTok的立法，但一名联邦法官在法律生效前阻止了该法。\nNow, U.S. lawmakers are again trying to force ByteDance, TikTok’s Chinese owner, to give…",
-          "link": "https://cn.nytimes.com/china/20240318/china-tiktok-house-bill/dual",
-          "publishedOn": "2024-03-18T01:06:03.000Z",
-          "wordCount": 1107,
-          "title": "美国TikTok法案为何未在中国引发激烈反弹",
-          "imageUrl": "https://static01.nyt.com/images/2024/03/15/multimedia/15china-tiktok-hmkf/15china-tiktok-hmkf-articleLarge.jpg"
         }
       ]
     },
@@ -21832,6 +22134,56 @@
       "feedUrl": "https://plink.anyfeeder.com/weixin/ibookreview",
       "siteUrl": "http://weixin.sogou.com/weixin?type=1&s_from=input&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A",
       "articles": [
+        {
+          "id": "eed0296ea03013b036d7ea99afaa767f",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E6%B5%81%E4%BA%A1%E4%B8%AD%E7%9A%84%E5%B8%83%E8%8E%B1%E5%B8%8C%E7%89%B9%E4%B8%8E%E4%B8%AD%E5%9B%BD",
+          "publishedOn": "2024-04-16T01:39:00.000Z",
+          "wordCount": 288,
+          "title": "流亡中的布莱希特与中国",
+          "imageUrl": null
+        },
+        {
+          "id": "dab477361de60f1d3121094445a8a882",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E8%8E%AB%E5%A5%88%E5%92%8C%E6%88%91%E4%BB%AC%EF%BC%8C%E6%9C%AC%E8%AF%A5%E6%98%AF%E5%85%89%E7%9A%84%E5%BC%80%E6%94%BE%E5%92%8C%E5%9C%A8%E5%9C%B0",
+          "publishedOn": "2024-04-16T01:39:00.000Z",
+          "wordCount": 287,
+          "title": "莫奈和我们，本该是光的开放和在地",
+          "imageUrl": null
+        },
+        {
+          "id": "1db35b8573fae50d289e0596e418d611",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E2%80%9C%E8%80%83%E5%8F%A4%E6%98%AF%E7%A7%91%E5%AD%A6%E4%B9%9F%E6%98%AF%E8%89%BA%E6%9C%AF%E2%80%9D%EF%BC%9A%E8%91%97%E5%90%8D%E8%80%83%E5%8F%A4%E5%AD%A6%E5%AE%B6%E4%B8%A5%E6%96%87%E6%98%8E%E5%8E%BB%E4%B8%96%EF%BC%8C%E4%BA%AB%E5%B9%B492%E5%B2%81",
+          "publishedOn": "2024-04-16T01:39:00.000Z",
+          "wordCount": 300,
+          "title": "“考古是科学也是艺术”：著名考古学家严文明去世，享年92岁",
+          "imageUrl": null
+        },
+        {
+          "id": "2f236608d072bb67bd2cf6d12f13d014",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E9%9C%B8%E5%87%8C%E5%9C%A8%E5%A4%A7%E4%BA%BA%E7%9C%8B%E4%B8%8D%E8%A7%81%E7%9A%84%E5%9C%B0%E6%96%B9%E5%8F%91%E7%94%9F%EF%BC%8C%E4%B8%8D%E5%8F%AA%E6%98%AF%E2%80%9C%E5%BC%B1%E8%82%89%E5%BC%BA%E9%A3%9F%E2%80%9D%E8%80%8C%E5%B7%B2",
+          "publishedOn": "2024-04-15T02:04:00.000Z",
+          "wordCount": 334,
+          "title": "霸凌在大人看不见的地方发生，不只是“弱肉强食”而已",
+          "imageUrl": null
+        },
+        {
+          "id": "681b643946d30ae44a0a29886049ea3a",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E5%9B%BE%E4%B8%AD%E7%94%BB%E9%87%8C%E5%AF%BB%E5%AE%8B%E9%A3%8E%EF%BC%8C%E8%B0%81%E4%BA%BA%E8%AF%86%E5%BE%97%E5%90%9B%E7%8E%8B%E9%9D%A2",
+          "publishedOn": "2024-04-15T02:04:00.000Z",
+          "wordCount": 294,
+          "title": "图中画里寻宋风，谁人识得君王面",
+          "imageUrl": null
+        },
         {
           "id": "7abf8f848bad877610cc7d0c1af021b0",
           "author": null,
@@ -22420,16 +22772,6 @@
           "publishedOn": "2024-03-19T01:57:00.000Z",
           "wordCount": 322,
           "title": "关于未成年犯罪，为什么刑事责任年龄有必要在特定情形下下调？",
-          "imageUrl": null
-        },
-        {
-          "id": "8c1e3a826127122eb2981047e0d79d38",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E9%99%88%E7%8B%AC%E7%A7%80%E8%BF%99%E7%AF%87%E4%B8%8D%E8%B5%B7%E7%9C%BC%E7%9A%84%E6%96%87%E7%AB%A0%EF%BC%8C%E4%B8%8D%E7%BB%8F%E6%84%8F%E9%97%B4%E9%80%8F%E9%9C%B2%E4%BA%86%E4%BA%8C%E5%8D%81%E4%B8%96%E7%BA%AA%E4%B8%AD%E5%9B%BD%E6%80%9D%E6%83%B3%E5%8F%B2%E7%9A%84%E7%A7%98%E5%AF%86%EF%BD%9C%E4%B8%80%E5%8F%B6%E8%AF%86%E6%98%A5%E7%A7%8B",
-          "publishedOn": "2024-03-18T02:13:00.000Z",
-          "wordCount": 287,
-          "title": "陈独秀这篇不起眼的文章，不经意间透露了二十世纪中国思想史的秘密｜一叶识春秋",
           "imageUrl": null
         }
       ]
