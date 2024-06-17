@@ -6,6 +6,16 @@
       "siteUrl": "https://rweekly.org/atom.xml",
       "articles": [
         {
+          "id": "https://rweekly.org/2024-W25.html",
+          "author": null,
+          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Ryo Nakagawara, with help from the R Weekly team members and contributors.\nHighlight\nExpose CRAN deadlines and DOIs\nA fresh new look for R-universe!\n{handwriter} 3.1.1: Handwriting Analysis in R\nInsights\nKeith Karani Wachira: Leading the Dekut R Community in Kenya and Innovating with R?\nExpose CRAN deadlines and DOIs\n\nA fresh new look for R-universe!\nHack your way to a good Git history\nR in the Real World\nForecasting the UEFA Euro 2024 with a machine learning ensemble\nSimulations for 2024 Euro Cup and Copa America\n\nNew Packages\n📦 Go Live for More New Pkgs 📦\nCRAN\n{bidask} 2.0.4: Efficient Estimation of Bid-Ask Spreads from Open, High, Low,\nand Close Prices\n{RPregression} 0.…",
+          "link": "https://rweekly.org/2024-W25.html",
+          "publishedOn": "2024-06-17T00:00:00.000Z",
+          "wordCount": 6389,
+          "title": "R Weekly 2024-W25 CRAN deadlines, R-universe, {handwriter} package",
+          "imageUrl": "https://rweekly.org/public/facebook.png"
+        },
+        {
           "id": "https://rweekly.org/2024-W24.html",
           "author": null,
           "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Tony ElHabr, with help from the R Weekly team members and contributors.\nHighlight\nTwo Roads Diverged: Opinions on “dialects” in R\nWhy you need small, informative Git commits\nMaking a Ridiculously Fast™ API Client\nInsights\nTwo Roads Diverged: Opinions on “dialects” in R\nThe igraph R package crossed the 2.0 threshold!\nWhy you need small, informative Git commits\nMaking a Ridiculously Fast™ API Client\n3MW (RStudio productivity hacks)\nBoost Your Shiny App’s Code Quality with {box.linters} in {rhino} 1.8.0\nFrom scripts to package. Developing dendroNetwork and learning with rOpenSci\nR in the Real World\nPublic Pinball Machines per Capita: A new global indicator\n\nTeam Strength: A Can…",
@@ -521,16 +531,6 @@
           "wordCount": 189,
           "title": "牧冬读《托尔金传》｜走近奇幻作家的真实人生",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_27427279",
-          "author": null,
-          "description": "李零（章静绘）\n\n北京大学人文讲席教授李零的研究范围涉及诸多领域，包括考古、古文字、古文献，以及方术史、思想史、军事史、艺术史和历史地理。他的新著《考古笔记》，是他阅读考古学的读书笔记。他说，他的书都是读书笔记。李零认为：“二十世纪离我们很近。研究考古学史，这段最重要。柴尔德（Vere Gordon Childe，1892-1957）是近百年来世界最伟大的考古学家。他的名山之作诞生于1920年代。我国的考古学也是从1920年代才开始起步。这一百年来的考古学史，既投放其光芒于万古长夜，又折射出当代历史的每一步，因为它毕竟是当代人做出和写出的历史。”\n\n《考古笔记：疫中读书记》，李零著，生活书店出版有限公司，2023年9月出版，804页，239.00元\n\n\n《入山与出塞：李零考古艺术史文集》，李零著，生活·读书·新知三联书店，2023年6月出版，536页，260.00元\n\n\n《蟋蟀在堂》，李零著，生活书店出版有限公司，2023年1月出版，332页，59.00元\n\n\n《我的天地国亲师》，李零著，生活书店出版有限公司，2023年1月出版，304页，58.00元\n\n您的三册《考古笔记》，除辨析考古概念和回忆前辈的部分，均采取逐章归纳或摘引某书内容，并附按语及小结的形式。您不忌重复，为我们提供了人们对世界考古学史、中国考古学史的不同看法，并比较了五本柴尔德传记的异同。为什么您要用这种方式写书，而不是写一本您自己的考古学史专著？《笔记》上册梳理考古概念，中册讲五位中国当代考古学家，下册讲五本柴尔德传记，为什么是这些内容构成了您的考古笔记？\n李零：我没有写考古学史的打算，只想读读有关材料，学习学习。我一直怀念我在考古所当学生的那段时光。我想，不同的读者对这部书会有不同的感受，因为每个人阅读时都带有预设的文化立场和政治立场。我自己是我的第一读者，也有我自己的立场。我说过，不要对这部书有太高的…",
-          "link": "https://www.thepaper.cn/newsDetail_forward_27427279",
-          "publishedOn": "2024-05-19T03:02:08.000Z",
-          "wordCount": 221,
-          "title": "李零谈考古学思想史",
-          "imageUrl": null
         }
       ]
     },
@@ -539,6 +539,206 @@
       "feedUrl": "https://feedx.net/rss/thepaper.xml",
       "siteUrl": "http://thepaper.cn",
       "articles": [
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_27755278",
+          "author": null,
+          "description": "17岁、93分、全球第12名……\n近日，一份全球数学竞赛决赛名单引起广泛关注。其中，学服装设计的姜萍，以93分的高分名列第12位。天才少女姜萍的故事在全网引发热议。总台记者对江苏涟水中专党委书记进行了专访，揭秘姜萍选择涟水中专的原因。\n\n江苏涟水中专党委书记介绍，姜萍中考621分，能够达到当地普通高中的录取分数线，之所以选择涟水中专，据姜萍自己讲，原因之一是当时她的姐姐以及两个要好的同学都在这所学校就读。另外，就是姜萍对服装专业比较感兴趣，认为这里对自己的兴趣、爱好发展发挥更有利。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_27755278",
+          "publishedOn": "2024-06-17T14:53:02.000Z",
+          "wordCount": 51,
+          "title": "闯进全球数学竞赛12强，姜萍中考621分因何上中专？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_27757451",
+          "author": null,
+          "description": "闯岛礁，结盟，军演……近期，菲律宾“闹海”的戏码接连上演，持续升级，引发世界高度关注。\n而事实上，早在70多年前，这出闹剧就已经揭开了序幕……",
+          "link": "https://www.thepaper.cn/newsDetail_forward_27757451",
+          "publishedOn": "2024-06-17T14:53:02.000Z",
+          "wordCount": 53,
+          "title": "菲律宾“闹海”神剧｜长达70多年的荒唐表演",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_27763758",
+          "author": null,
+          "description": "记者6月17日从广铁集团获悉，受湖南西部地区强降雨影响，为确保旅客列车运行安全，广铁集团对沪昆、渝怀、焦柳等线路部分区段采取限速运行或停运措施，途经上述线路的部分列车将出现不同程度的晚点或停运。广铁集团17日15时通报，6月17日至20日，安排途经沪昆、渝怀、焦柳等普速线路的部分列车停运，计划停运普速列车85列，其中17日停运28列，18日停运28列，19日停运23列，20日停运6列。（新华社）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_27763758",
+          "publishedOn": "2024-06-17T14:23:02.000Z",
+          "wordCount": 32,
+          "title": "湖南部分列车受强降雨影响停运或晚点",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_27763769",
+          "author": null,
+          "description": "美股开盘，三大指数涨跌不一，道指跌0.36%，标普500指数跌0.1%，纳指涨0.06%。台积电涨超3%。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_27763769",
+          "publishedOn": "2024-06-17T14:23:02.000Z",
+          "wordCount": 32,
+          "title": "美股三大指数涨跌不一",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_27760621",
+          "author": null,
+          "description": "一名斯坦福大学的博士有望成功“上岸”安徽乡镇公务员。\n6月16日晚，安徽省宿州市公务员局通过宿州先锋网发布了宿州市2024年度考试录用公务员拟录用人员公示（第二批）。澎湃新闻（www.thepaper.cn）注意到，公示名单中拥有博士学位的考生苏朕来自世界顶尖学府斯坦福大学，其报考的是宿州市下辖的灵璧县乡镇机关基层事务管理职位。\n\n拟录用名单公示截图   本文图均为 宿州先锋网 图\n\n招考信息显示，代码为040167的职位共招聘2人，灵璧县下辖的韦集镇和向阳镇各招录一名，录用后考生按总成绩排名选择岗位，将从事公共服务、乡风文明建设、乡村振兴等基层综合管理工作。澎湃新闻记者注意到，报考要求中明确该岗位面向本市户籍人员，录用后需签订5年不得流出本乡镇的协议。\n\n此前宿州市公务员局公布的考试成绩表显示，报考该职位的6名考生中，苏朕的笔试、面试、总分成绩均位列第一。\n\n报考该职位的考生成绩表   \n\n值得注意的是，宿州市公务员局6月6日公布的2024年度考试录用公务员拟录用人员公示名单（第一批）共104人，6月16日公布的第二批名单有330人。这两批共计434人涵盖了宿州市级、县级、乡镇机关以及行政执法等不同类型的公务员职位，苏朕是其中唯一的博士。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_27760621",
+          "publishedOn": "2024-06-17T13:53:02.000Z",
+          "wordCount": 64,
+          "title": "安徽宿州公示：拟录用一名斯坦福大学博士为所辖县乡镇公务员",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_27759691",
+          "author": null,
+          "description": "河南平顶山叶县一辆轻型厢式冷藏货车违规乘人，车厢内8人窒息昏迷，经抢救无效均不幸遇难。\n6月17日，一名遇难者的家属杨先生（化名）向澎湃新闻介绍，自己50多岁的妻子乘坐了这辆冷藏车，不幸遇难。他说，车厢内8名遇难者皆为女性，都是叶县洪庄杨镇下辖村子的村民，此前这些女工们每天统一乘冷藏车上下班。\n杨先生说，他听现场目击者说，看到车厢里是“满满当当”一车货。但他此前接妻子下班时，冷藏车并未装过货物。据媒体报道，当地一村委会工作人员表示，有目击者称事发时车厢中还拉有冷藏的牛肉以及保温用的干冰。\n村民称车厢内8名遇难者均为女工\n据“叶县融媒”微信公众号消息，6月15日22时许，一辆车牌号为豫DJ103F的轻型厢式冷藏货车违规乘人，行驶至叶县洪庄杨镇境内（兰南高速平顶山站出站口西500米加油站）时，司机发现车厢内8人窒息昏迷，迅即拨打120进行紧急抢救。经全力抢救，截至16日3时，8人不幸遇难。\n杨先生说，这辆冷藏货车属于一家做牛肉的企业，他的妻子在这家企业做临时工，已经工作了十几天。每天早上7时，冷藏车会在事发的加油站等待，统一接上附近村子的女工前往十几公里以外的厂子打工，返回也是统一乘坐冷藏车返回加油站，女工们再骑电瓶车或步行各自回家。\n同日，叶县洪庄杨镇洪东村一名村民也告诉记者，遇难者都为女性，是在卖牛肉的企业里做临时工。\n杨先生介绍，企业下班时间不确定，妻子在晚上6点、8点、10点都有下过班。每天妻子下班后上冷藏车出发回家时，就会给他发信息，他再前往加油站接她。他说，企业离加油站大概十几公里，车程一般用时约十几二十分钟。\n但6月15日，杨先生迟迟没有等到妻子的消息。杨先生表示，自己在晚上9时左右给妻子发了信息，没有人回复，之后两小时，他多次发信息、拨打妻子电话，都无人回复。当天晚上11时许，他再次拨打妻子电话时，有一个陌生人接听了，对方只在电话说，“人出事了”。\n杨先生说，自己接到电话后赶往加油站，周围已经拉起了警戒线。6月16日凌晨1点左右，杨先生赶到叶县人民医院，见到了已经过世的妻子遗体。杨先生表示，据他了解，遇难的8人皆为女工，都是附近几个村子的村民。她们去这家企业每天工作到下午6点的工资是100元，加班超过一小时再加20元。\n杨先生说，妻子是此前经同村人介绍前去务工的，在这家牛肉企业的主要工作是打包牛肉。“（企业）从外面买生牛肉，然后切块、煮熟、冷冻、打包，再通过短视频平台卖出去。”他说。\n事发车辆被指载有冷藏牛肉和干冰\n据《中国新闻周刊》报道，平顶山洪庄杨镇曹李村村委会一名工作人员透露，8名遇难者中，有3名是曹李村村民。“她们都是在市里的牛肉作坊打工，做一些包装牛肉的工作，有目击者称事发时车厢中还拉有冷藏的牛肉以及保温用的干冰。”\n上述报道称，该工作人员介绍，遇难者年龄在四五十岁，家里都有小孩，小的十几岁，大的已经上大学了。\n杨先生表示，开冷藏车的司机是企业的员工，此前接妻子下班时，他曾注意到冷藏车车厢是空的，但这次事故发生后，有目击者告诉他曾看到车厢里是“满满当当”一车货。“（他们说）都是箱子，装满了，都不知道人怎么坐下的。”他说。\n据红星新闻报道，叶县洪庄杨镇多名村民表示，此次事故疑似是车厢内干冰泄露所致。其中一名村民称，该牛肉厂是一家私人企业，这8名遇难者在厂里包装牛肉；其婆婆春节时也去该厂工作过，“也是开着这种车来接的”。\n另一名村民称，车上除司机外有10人，有2人坐在前面没事，8名遇难者中有一人是自己亲戚的亲戚。“可能回来没车了，就坐这个车。路程也就20分钟左右，肯定想着没事。”车厢里还储存有货物，人跟货物还有干冰待在一块。\n据“叶县融媒”消息，目前，货车司机和相关责任人已被控制，善后工作已经展开，具体原因正在调查中。\n事发后，多地应急管理局提醒，冷藏车是指用来维持冷冻或保鲜的货物温度的封闭式厢式运输车，冷藏车打冷的时候车厢绝对不能待人，因为冷藏车是低温、密闭的空间，人体很容易出现缺氧、体温过低等危险状况。为了自身与他人的安全，严禁货车载人，严禁乘坐超员超载、非营运车辆。货车车厢内载人属于严重道路交通违法行为，存在安全隐患。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_27759691",
+          "publishedOn": "2024-06-17T13:53:02.000Z",
+          "wordCount": 37,
+          "title": "叶县冷藏车事故：家属称遇难8人均为女工，车厢被指载有货物和干冰",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_27760828",
+          "author": null,
+          "description": "6月17日，澎湃新闻（www.thepaper.cn）从陈政高同志多位亲友处获悉，住房和城乡建设部原部长、党组书记陈政高同志，因病于2024年6月16日在北京逝世，享年72岁。\n公开资料显示，陈政高，男，汉族，1952年3月生，辽宁海城人，1970年12月参加工作，东北财经大学金融系货币银行学专业毕业，经济学硕士，系十七届中央候补委员、十八届中央委员。\n陈政高于1970年担任辽宁省海城县革委会政工组办事员；1978年任大连海运学院团委书记；1982年任辽宁省大连团市委常委、学校部部长；1985年任辽宁省大连市长海县副县长；1988年任辽宁省大连市西岗区委常委、副区长（主持工作）；1993年任辽宁省大连市副市长；1997年任辽宁省省长助理；1998年任辽宁省副省长；2003年任辽宁省沈阳市委副书记、市长；2008年任辽宁省委副书记、省长。\n2014年4月，陈政高获任住房和城乡建设部党组书记，同年6月任住房和城乡建设部部长，至2017年卸任。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_27760828",
+          "publishedOn": "2024-06-17T13:53:02.000Z",
+          "wordCount": 40,
+          "title": "住建部原部长陈政高逝世，享年72岁",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_27763327",
+          "author": null,
+          "description": "6月17日，国内期货夜盘开盘涨跌不一，原油跌0.2%，铁矿跌0.31%，燃油跌0.5%，沪铜跌1.08%，焦煤跌1.28%，沪锡跌1.3%，纸浆涨0.57%。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_27763327",
+          "publishedOn": "2024-06-17T13:23:02.000Z",
+          "wordCount": 32,
+          "title": "国内期货夜盘开盘涨跌不一，沪锡跌1.3%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_27763489",
+          "author": null,
+          "description": "中南股份（000717.SZ）6月17日公告披露，因经营管理需要，经公司董事、总裁赖晓敏提名，公司董事会提名委员会资格审核，董事会聘任胡明为公司副总裁，其任期自董事会审议通过之日起与公司第九届董事会相同。\n胡明于1972年10月出生，历任韶钢松山第三炼钢厂设备主办工程师、机械管理主办副主任科员，韶钢松山转炉炼钢部机械设备主任工程师、设备管理部设备管理室室主任，韶钢松山炼钢厂副厂长、设备管理部副部长、设备管理部副部长（主持工作）、设备管理部部长兼党总支书记、计量中心主任、设备管理专项推进组组长、智慧制造专项工作组常务副组长，武钢集团昆明钢铁股份有限公司总经理助理（挂职）、昆钢公司设备部部长（挂职），重庆钢铁股份有限公司副总裁。（澎湃新闻记者 贺梨萍）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_27763489",
+          "publishedOn": "2024-06-17T13:23:02.000Z",
+          "wordCount": 36,
+          "title": "中南股份：董事会聘任胡明为公司副总裁",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_27759516",
+          "author": null,
+          "description": "中华人民共和国商务部（以下简称商务部）于2024年6月6日收到中国畜牧业协会（以下称申请人）代表国内猪肉及猪副产品产业正式提交的反倾销调查申请，申请人请求对原产于欧盟的进口相关猪肉及猪副产品进行反倾销调查。商务部依据《中华人民共和国反倾销条例》有关规定，对申请人的资格、申请调查产品的有关情况、中国同类产品的有关情况、申请调查产品对国内产业的影响、申请调查国家（地区）的有关情况等进行了审查。\n根据申请人提供的证据和商务部的初步审查，申请人相关猪肉和猪副产品的合计产量符合《中华人民共和国反倾销条例》关于申请人资格的规定。同时，申请书中包含了《中华人民共和国反倾销条例》第十四条、第十五条规定的反倾销调查立案所要求的内容及有关证据。\n根据上述审查结果，依据《中华人民共和国反倾销条例》第十六条的规定，商务部决定自2024年6月17日起对原产于欧盟的进口相关猪肉及猪副产品进行反倾销立案调查。现将有关事项公告如下：\n一、立案调查及调查期\n自本公告发布之日起，商务部对原产于欧盟的进口相关猪肉及猪副产品进行反倾销立案调查，本次调查确定的倾销调查期为2023年1月1日至2023年12月31日，产业损害调查期为2020年1月1日至2023年12月31日。\n二、被调查产品及调查范围\n调查范围：原产于欧盟的进口相关猪肉及猪副产品。\n被调查产品名称：相关猪肉及猪副产品。\n英文名称：Certain pork and pig by-products。\n产品描述：被调查产品为生猪屠宰加工后的产品，包括鲜、冷、冻猪肉；鲜、冷、冻猪的食用杂碎；鲜、冷、冻、干、熏、盐腌或盐渍的，未炼制或用其他方法提取的不带瘦肉的肥猪肉、猪脂肪；鲜、冷、冻、干、熏、盐腌或盐渍的，整个或切块的猪的肠、膀胱及胃。\n主要用途：主要供人食用。\n该产品归在《中华人民共和国进出口税则》：02031110、02031190、02031200、0…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_27759516",
+          "publishedOn": "2024-06-17T12:53:03.000Z",
+          "wordCount": 45,
+          "title": "商务部：对原产于欧盟的进口相关猪肉及猪副产品进行反倾销立案调查",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_27762935",
+          "author": null,
+          "description": "今天广西气象台提升发布暴雨橙色预警，广西气象局将重大气象灾害（暴雨）Ⅲ级应急响应提升至Ⅱ级应急响应。\n监测显示，16日16时-17日16时，桂北、桂中出现连片大雨到暴雨，桂林、柳州、河池等市北部出现大暴雨到特大暴雨，其中最大雨量出现在桂林市兴安县华江瑶族乡（401.9毫米），打破兴安县24小时雨量极值纪录（398.5毫米）。此外，灵川县九屋镇393.1毫米，打破灵川县24小时雨量极值纪录（历史极值391.7毫米），全州县咸水镇296.4毫米，打破全州县24小时雨量极值纪录（历史极值293.2毫米）。\n预计未来三天，强降雨、强对流将稳定在桂北，本轮降雨最强时段在今晚到19日，强降雨具有夜间增强的特点。今晚到20日累计雨量，桂北100～280毫米，局地400毫米以上；桂南10～40毫米，局地70毫米以上。（央视新闻）\n\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.run",
+          "link": "https://www.thepaper.cn/newsDetail_forward_27762935",
+          "publishedOn": "2024-06-17T12:53:03.000Z",
+          "wordCount": 33,
+          "title": "广西发布暴雨Ⅱ级应急响应，暴雨预警提升为橙色",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_27762967",
+          "author": null,
+          "description": "2024年6月17日，中国一重集团有限公司召开领导班子（扩大）会议，宣布中央组织部任免通知：张文平同志任中国一重集团有限公司总会计师、党委常委。相关职务任免按有关法律规定办理。（中国一重微信公号）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_27762967",
+          "publishedOn": "2024-06-17T12:53:03.000Z",
+          "wordCount": 32,
+          "title": "张文平任中国一重集团有限公司总会计师",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_27760752",
+          "author": null,
+          "description": "为进一步加强对考生的志愿填报服务，落实国务院“高效办成一件事”的决策部署，2024年，教育部“阳光高考”信息平台面向高考生免费开放“阳光志愿”信息服务系统，基于招生、就业、调查、测评等大数据，结合深度专业和职业解读，提供志愿推荐、专业介绍、心理测评、就业去向及前景查询等服务。和教育小微一起来看——\n海量数据、系统集成\n集合权威、详尽的专业库、院校库、就业前景情况等数据，为填报志愿提供多元参考信息，帮助考生“选大学，选专业”。\n\n \n\n \n\n \n\n \n有针对性的专业、职业心理测评\n邀请国内权威心理专家研发相关职业测评工具，从兴趣、价值观、人格、学科倾向综合四维度，帮助考生更好地了解自己的专业和职业倾向。\n\n个性定制的志愿推荐\n依据往年录取情况，根据考生高考成绩（位次），按照“冲稳保”的填报原则，结合心理测评结果，个性化生成志愿参考建议，展示录取情况、专业满意度、就业去向等全方位数据。\n\n \n\n以上服务均免费提供。\n扫描二维码可进入“阳光志愿”信息服务系统：\n\n为千万考生提供志愿填报参考，助力梦想起航，引导考生了解自我，规划美好未来，帮助家长了解全方位信息，助力孩子生涯发展。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_27760752",
+          "publishedOn": "2024-06-17T12:53:03.000Z",
+          "wordCount": 58,
+          "title": "教育部首次上线高考志愿信息系统，免费帮考生填报志愿",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_27761645",
+          "author": null,
+          "description": "澎湃新闻记者6月17日获悉，由上海理工大学智能科技学院张启明教授，智能科技学院、张江实验室光计算所顾敏院士领衔的研究团队，开发了一种超快速的卷积光学神经网络（ONN），这一技术在无需依赖光学记忆效应的情况下，实现了对散射介质后的物体进行高效、清晰的成像。这不仅是对传统光学成像技术的一次颠覆，更是卷积网络在人工智能中应用潜力的一次展示。\n该成果于6月14日以 “基于超快卷积光学神经网络的非记忆效应散射成像(Memory-less scattering imaging with ultrafast convolutional optical neural networks)”为题发表于《科学》(Science)子刊《科学进展》（Science Advances）上，智能科技学院张雨超特聘研究员为第一作者，顾敏院士和张启明教授为共同通讯作者。（澎湃新闻记者 韩晓蓉）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_27761645",
+          "publishedOn": "2024-06-17T12:23:02.000Z",
+          "wordCount": 54,
+          "title": "上海专家开发超快速的卷积光学神经网络，助力人工智能成像",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_27761657",
+          "author": null,
+          "description": "记者从贵州省气象台获悉，16日至17日，贵州省大方县、织金县、赫章县、关岭县等29个县（市、区）113个观测站出现大暴雨天气。本次强降雨导致贵州部分县区受灾，贵州各地积极组织抢险救灾。\n据贵州省气象台预测，贵州强降雨天气将持续，局地还将面临大暴雨到特大暴雨的严峻挑战。本轮强降雨天气过程具有范围广、持续时间长、累计雨量大等特点，且与前期中南部地区的强降雨落区重叠，极易诱发崩塌、滑坡、泥石流等地质灾害以及山洪、中小河流洪水、城乡积涝等次生灾害。（新华社）\n\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.run",
+          "link": "https://www.thepaper.cn/newsDetail_forward_27761657",
+          "publishedOn": "2024-06-17T12:23:02.000Z",
+          "wordCount": 32,
+          "title": "29县域遭受大暴雨袭击，贵州各地积极组织抢险救灾",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_27755230",
+          "author": null,
+          "description": "6月16日，久旱的中原大地迎来一场降雨。澎湃新闻（www.thepaper.cn）记者在河南洛阳看到，降雨从上午11时许开始一直持续到傍晚。河南省气象台监测显示，6月15日20时至16日17时，河南淮河以北大部出现小到中雨，黄淮之间部分县市（区）出现大到暴雨，局地大暴雨。\n\n6月16日，河南洛阳孟津区会盟镇黄河渠旁的水稻田已经插秧 本文图片均为 澎湃新闻记者 刁凡超 摄\n\n“前段时间旱情比较严重，这场雨下下来，再加上上游水库加大了放水，夏种用水没问题。”洛阳市孟津区河渠事务中心副主任王建党说。\n不过，6月17日到19日，河南北部、东部将仍保持35℃以上的晴热天气。另据中央气象台预计，17至19日，华北东部、黄淮、江淮等地高温天气将再度发展，高温中心将位于京津冀一带，局地气温可再度冲上40度。\n当前仍是“三夏”关键期，6月15-16日，澎湃新闻在河北、河南主粮区采访获悉，各级水利部门正加密对水利设施进行监控和调控，保障夏粮播种用水。\n小浪底水库加大下泄流量\n6月15日12时，随着2号排沙洞工作闸门开启，黄河小浪底水利枢纽下泄流量由1500立方米每秒增加至1800立方米每秒。这是自6月6日以来，小浪底水利枢纽第6次精确提高下泄流量，为黄河中下游抗旱供水提供保障。\n\n小浪底水利枢纽6月6日以来6次提高下泄流量\n\n站在小浪底水利枢纽坝顶控制楼俯瞰，汛期的小浪底水库已低水位运行。水利部小浪底水利枢纽管理中心水调处水调专员赵珂在接受澎湃新闻采访时介绍说，5月以来，黄河中下游部分地区出现待播耕地缺墒和已播作物受旱情况，预计近期旱情将持续发展。按照调度指令要求，小浪底水利枢纽自6月6日起，逐步将枢纽下泄流量调整至700立方米每秒、750立方米每秒、1000立方米每秒、1200立方米每秒、1500立方米每秒、1800立方米每秒，以保障抗旱供水。\n“我们严格执行抗旱调度指令，科学精细调度水库，…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_27755230",
+          "publishedOn": "2024-06-17T11:53:03.000Z",
+          "wordCount": 102,
+          "title": "河北河南主粮区“喊渴”，现场直击水利工程如何调度保夏种用水",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_27761143",
+          "author": null,
+          "description": "6月17日晚间，云南沃森生物技术股份有限公司（沃森生物，300142.SZ)公告，由控股子公司上海泽润研发的重组新型冠状病毒疫苗（CHO细胞）和重组新型冠状病毒变异株疫苗（CHO细胞）主要用于预防新型冠状病毒（SARS-CoV-2）感染引起的疾病。由于启动研发时间较早，疫苗主要针对当时流行的新冠病毒毒株进行抗原设计和研发。根据新冠病毒变异的情况，上述两个疫苗现已不符合当前国家对于新冠疫苗需针对当前变异株或者对当前变异株有效的要求，继续研发上述两个疫苗的经济效益和社会效益均已较低，因此公司决定终止重组新型冠状病毒疫苗（CHO细胞）和重组新型冠状病毒变异株疫苗（CHO细胞）的后续临床试验。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_27761143",
+          "publishedOn": "2024-06-17T11:53:03.000Z",
+          "wordCount": 32,
+          "title": "沃森生物：终止重组新型冠状病毒疫苗（CHO细胞）等临床试验",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_27761145",
+          "author": null,
+          "description": "6月13日至14日，中国人民银行在成都、西安分别召开优化支付服务工作推进会，强化与各部门、各行业协同合作，指导督促在川、在陕金融机构加大工作力度，共同推动优化支付服务工作。\n会议要求，各单位要将优化支付服务作为重要任务，进一步强化责任意识，坚持实事求是、问题导向，持续发力，久久为功，不断提高工作的科学性、针对性和精准性，推动构建可持续的发展模式，实现社会效益和经济效益的有机结合。中国人民银行四川省分行、陕西省分行要与文旅、商务、交通等部门进一步加强协作，形成合力，推动当地金融机构聚焦重点任务、重点场景、薄弱环节共同发力，因地制宜采取相关举措，建立健全各方共建的长效工作机制，提供更加丰富、优质、便捷的支付服务，不断提升老年人、外籍来华人员等群体的支付服务便捷性和满意度。（中国人民银行网站）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_27761145",
+          "publishedOn": "2024-06-17T11:53:03.000Z",
+          "wordCount": 32,
+          "title": "中国人民银行在四川、陕西召开优化支付服务推进会",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_27761105",
+          "author": null,
+          "description": "近日，河南省市场监管局联合省公安厅、商务厅、邮政管理局召开平台企业行政指导会暨即时配送企业警示约谈会，对京东、淘天、拼多多、抖音、美团、饿了么、盒马、UU跑腿、达达快送、闪送、顺丰同城、京东物流、中联即送等13家平台企业和即时配送企业开展行政指导和约谈警示。\n会议强调，平台企业作为链接亿万消费者、配送骑手和商家的枢纽，在“6·18”等集中促销活动、日常合规经营和电动自行车安全隐患全链条整治工作中任务重大、责任重大、使命重大。各平台企业和即时配送企业要进一步提高政治站位，积极主动服务党和国家工作大局，与监管部门相向而行、同向发力，不折不扣落实好各项要求，全力消除网络零售和即时配送环节存在的风险隐患，妥善化解网络消费纠纷，努力营造良好的网络消费环境。（“河南市场监管”微信公号）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_27761105",
+          "publishedOn": "2024-06-17T11:23:04.000Z",
+          "wordCount": 32,
+          "title": "河南省市场监管局：对13家平台企业和即时配送企业开展行政指导和约谈警示",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_27761107",
+          "author": null,
+          "description": "美联社当地时间6月17日发布一段视频，称“艾森豪威尔”号航母未受损。据称这段视频拍摄于6月11日至12日，航母舰长在视频中否认“艾森豪威尔”号航母已沉没的传闻。\n5月31日晚和6月1日晚，也门胡塞武装连续两天发表声明，称对“艾森豪威尔”号航母发动袭击并“成功命中目标”。\n此后，外界一直对这艘航母的情况十分关注。美军也多次发布视频，试图证明航母“完好无恙”。（央视新闻）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_27761107",
+          "publishedOn": "2024-06-17T11:23:03.000Z",
+          "wordCount": 32,
+          "title": "美媒发布最新视频称“艾森豪威尔”号航母未受损",
+          "imageUrl": null
+        },
         {
           "id": "https://www.thepaper.cn/newsDetail_forward_27759508",
           "author": null,
@@ -11928,96 +12128,6 @@
           "wordCount": 41,
           "title": "广西百色17岁体育生错切右膝事件最新进展：主刀医生被撤职",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_27429310",
-          "author": null,
-          "description": "巴黎奥运会火炬传递18日来到第十站热尔省，当天的第一阶段传递中，两名中国火炬手莫仁飘与赵露思作为第13、14号火炬手，在现场上演了“中国接力”。\n“今天早上3:30就起床了，因为非常兴奋，又很怕迟到。”青年演员赵露思接受新华社记者专访时表示。\n“我的奥运记忆起始于2008年，那个时候看比赛、看火炬传递就好兴奋，每次看到升国旗的瞬间就会热泪盈眶，今天在传递的过程中看到沿途有国旗，还是忍不住。”赵露思说。\n当天现场来了数十名挥舞中国国旗的华人、华侨，其中有人从西班牙和意大利远道而来，他们与当地居民一起，为参与传递的火炬手们欢呼呐喊。\n“（在异国他乡参与传递）让我能更强烈地感受到奥运精神，这一刻没有国别的界限，我们都是一家人，为所有的火炬手感到兴奋和自豪，这种热情的氛围会让每一个人陷进去。”赵露思说。\n本站参与传递的两名中国火炬手都是由国际奥委会TOP计划合作伙伴蒙牛推荐。\n“现场人虽然很多，但是我并不感觉紧张。当地人都非常友好，他们主动和我们拍照，我们感觉非常自豪。”另一位中国火炬手莫仁飘说。\n谈及对巴黎奥运会的期待，作为篮球迷的莫仁飘非常希望看到中国女篮在奥运会上有突出的表现；赵露思则表示会特别关注中国跳水队。\n巴黎奥组委火炬传递的工作人员向记者介绍，接下来还将有更多中国火炬手参与火炬接力。\n巴黎奥运会火种8日在马赛登陆，随后开始了在法国本土的传递。7月14日法国国庆日当天，火炬将抵达巴黎，开始在巴黎及其周围城市的传递，直到7月26日开幕式现场点燃主火炬台。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_27429310",
-          "publishedOn": "2024-05-19T02:53:02.000Z",
-          "wordCount": 33,
-          "title": "巴黎奥运会火炬传递上演“中国接力”",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_27429440",
-          "author": null,
-          "description": "今年3月，在四川攀枝花市公园动物园，一只金钱豹因“发福”长胖，酷似电影《疯狂动物城》中酷爱吃甜甜圈的“豹警官”在网上走红。对此，红星新闻记者采访了解到，动物园方面计划从喂养、改善环境及增加运动方面帮助其“瘦身”。\n如今，两个月过去，“豹警官”减肥成功了吗？对此，有当地网友称“它减肥失败了”。近日，红星新闻记者来到攀枝花公园动物园，看到“豹警官”的肚子依然圆滚滚的，与两个月前相比，瘦身效果似乎并不明显。\n\n减肥前的“豹警官”\n\n\n5月17日上午，记者走进攀枝花公园动物园，工作人员已将豹馆打扫干净，“豹警官”的水和早餐已准备好。被问及它减肥是否成功，工作人员笑着说：“你看它成功没有嘛？”\n据动物园工作人员刘茂俊介绍，关于“豹警官”如何减肥，他们咨询了业界很多专家，得到的结论都是，这只金钱豹年龄太大了，没必要折腾，安享晚年就好。\n\n如今的“豹警官”\n\n\n“这只金钱豹今年十六七岁了，相当于人类七八十岁，它每天吃三斤半精牛肉，有时候兔肉和鸡肉换着吃，我们咨询了很多专家，这是标准的配比。此外，园方还会定期给豹子体检，只要它健康快乐就好，至于减肥，只能随缘了。”刘茂俊说。\n今年3月27日，该动物园对豹馆进行了扩容，拆除了豹馆与隔壁馆舍之间的围栏和钢丝网，“豹警官”的馆舍面积增至45平方米，活动场地扩大为原来的两倍，住进“一室一厅的‘大房子’”。\n无独有偶，和“豹警官”一样，此前走红的“耐克熊”减肥效果似乎也不明显。\n\n此前走红的“耐克熊”（右）\n\n\n5月17日上午，记者在黑熊馆看到，“耐克熊”多了一个小伙伴，这是只母熊，之前一直在休养生息，最近才放出来。吃过早餐，两只熊在水里尽情嬉戏，兴致好的时候，“耐克熊”坐直身体，向游客招手打招呼，高兴的时候，还会转几个圈圈。\n刘茂俊介绍，熊是杂食性动物，每天吃玉米粑粑、水果、蔬菜等，都是符合规定的饮食。\n\n如今的“耐克熊”\n\n\n“园里的动物都是老朋友了，养了十几年，特别有感情。每天上班都要来看看这些老伙计，心里才踏实。希望它们平安快乐，安享晚年。”刘茂俊笑呵呵地说。\n攀枝花公园位于炳草岗景石山下，有英雄纪念碑、苏铁园、动物园等。目前，动物园有猛兽区、草食动物区、鸟语林三个观赏区，有金钱豹、黑熊、狮子、羊驼、孔雀等20余种130多只动物。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_27429440",
-          "publishedOn": "2024-05-19T02:53:02.000Z",
-          "wordCount": 48,
-          "title": "攀枝花网红金钱豹减肥失败？园方：年龄太大安享晚年就好",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_27432909",
-          "author": null,
-          "description": "5月19日，山西省大同市阳高县抗震救灾指挥部办公室发布消息，据中国地震台网正式测定，5月19日3时35分阳高县（北纬40.35度，东经113.78度）发生3.9级地震，震源深度13公里，震中处于山西省大同市阳高县龙泉镇东关村至八里台村一带。\n据山西省抗震救灾指挥部会商研判，本次地震活动后阳高县再次发生较大地震的风险很低，请大家不要恐慌，不造谣、不信谣、不传谣。（贺威通、康晓宇/央视新闻）\n\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.run",
-          "link": "https://www.thepaper.cn/newsDetail_forward_27432909",
-          "publishedOn": "2024-05-19T02:53:02.000Z",
-          "wordCount": 32,
-          "title": "山西大同阳高县凌晨发生3.9级地震，再发较大地震的风险低",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_27432910",
-          "author": null,
-          "description": "新华社快讯：据卡塔尔半岛电视台19日报道，以色列袭击了巴勒斯坦加沙地带中部一座难民营，造成至少17人死亡、数十人受伤。（新华社）",
-          "link": "https://www.thepaper.cn/newsDetail_forward_27432910",
-          "publishedOn": "2024-05-19T02:53:02.000Z",
-          "wordCount": 32,
-          "title": "以色列袭击加沙地带中部一难民营致17人死亡、数十人受伤",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_27429014",
-          "author": null,
-          "description": "【编者按】\n近年来，随着部分地区彩礼金额的水涨船高，导致彩礼纠纷呈现上升趋势。近日，山东一女子因收34万彩礼后退婚不退钱被拘留的事件引发关注。不久前，湖南高院开展的退还彩礼集中执行直播，也吸引了数百万人在线围观。\n澎湃新闻注意到，随着彩礼数额持续走高，部分地区甚至需要男方“婚前五六年积蓄、婚后三四年还债”来为结婚支付彩礼。面对高额彩礼，司法实践中关于双方未结婚但已共同生活或结婚后共同生活时间比较短等案件，各地法院裁量不一。对此，最高人民法院发布《关于审理涉彩礼纠纷案件适用法律若干问题的规定》予以回应。这一规定第二条指出，禁止借婚姻索取财物。一方以彩礼为名借婚姻索取财物，另一方要求返还的，人民法院应予支持。\n如何准确认定“彩礼”？彩礼和借婚姻索财有何区别？涉彩礼纠纷案应如何适用法律？无故拒不返还彩礼将面临何种惩罚？为此，澎湃新闻特邀西南大学法学院副教授、北京市京师（重庆）律师事务所律师杜志红撰文解读。\n“彩礼是我国的一种民间习俗，虽不值得提倡，但目前尚未被法律禁止。”杜志红表示，男女双方给付的财物要构成彩礼需要具备三方面的条件：一是男女双方必须以结婚为目的。二是当地必须要有给付彩礼的风俗习惯。三是给付的财物金额价值较大。\n借婚姻索取财物是指以索取对方财物为结婚条件的违法行为，其既不符合社会主义婚姻家庭道德观，也妨碍了婚姻的自由，“本质上是一方借婚姻敛财，其主要满足的是一方个人或家庭的欲望，是一种违法行为。”杜志红认为，一般而言，如果女方收了彩礼后携款潜逃或者短期内多次以结婚为名收取高额彩礼后无正当理由悔婚的，应认定为借婚姻索取财物。\n“彩礼该不该给，该给多少，一定要因人而异、量力而行。”在她看来，前述退婚不退钱案，女子的行为有可能是借婚姻索取财物。该案达成调解协议进入执行程序后，女子因未全部履行导致拘留，“该返还彩礼而故意拒不返还的，严重的还会被判刑”。\n以下为专稿全文：\n关…",
-          "link": "https://www.thepaper.cn/newsDetail_forward_27429014",
-          "publishedOn": "2024-05-19T01:53:03.000Z",
-          "wordCount": 39,
-          "title": "谈婚论法｜收彩礼后退婚不退钱，该担何责？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_27426547",
-          "author": null,
-          "description": "中央纪委国家监委网站微信公众号 图\n\n据中央纪委国家监委网站5月18日消息，农业农村部党组书记、部长唐仁健涉嫌严重违纪违法，目前正接受中央纪委国家监委纪律审查和监察调查。\n农业农村部官网显示，3天前的5月15日，全国乡村人才工作会议在陕西咸阳召开，唐仁健出席会议并讲话。\n唐仁健出生于1962年8月，曾任中央财经领导小组办公室副主任、中央农村工作领导小组办公室副主任、国务院扶贫开发领导小组副组长等职。\n2014年，唐仁健任广西壮族自治区党委常委、区政府副主席，2016年6月任中央农村工作领导小组副组长（正部长级）兼办公室主任，中央财经领导小组办公室副主任。\n2017年，唐仁健任甘肃省委副书记、代省长，后任省长。2020年12月，唐仁健任中央农村工作领导小组成员兼办公室主任，农业农村部党组书记、部长。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_27426547",
-          "publishedOn": "2024-05-19T01:53:03.000Z",
-          "wordCount": 46,
-          "title": "周末打虎！农业农村部部长唐仁健被查",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_27413560",
-          "author": null,
-          "description": "随着央行下调个人住房公积金贷款利率0.25个百分点，取消全国层面首套住房和二套住房商业性个人住房贷款利率政策下限，5月18日起，广州、苏州、合肥、成都、江西等多地同步下调住房公积金贷款利率。\n5月17日下午，中国人民银行决定，自2024年5月18日起，下调个人住房公积金贷款利率0.25个百分点，5年以下（含5年）和5年以上首套个人住房公积金贷款利率分别调整为2.35%和2.85%，5年以下（含5年）和5年以上第二套个人住房公积金贷款利率分别调整为不低于2.775%和3.325%。\n随后，据苏州发布，苏州对于2024年5月18日以前已经发放的个人住房公积金贷款，自2025年1月1日开始，执行调整后的利率。对于2024年5月18日前申请且未发放的个人住房公积金贷款，执行调整后的个人住房公积金贷款利率。2024年5月18日后申请的个人住房公积金贷款，按照调整后的利率执行。\n根据公积金贷款利率调整表，苏州在调整前首套房1-5年（含5年）贷款年利率为2.6%，二套房年利率为3.025%；调整后首套房为2.35%，二套房为2.775%。首套房5年以上贷款年利率为3.1%，二套房为3.575%；调整后首套房为2.85%，二套房为3.325%。\n\n苏州公积金贷款利率调整表\n\n广州住房公积金管理中心公告，自2024年5月18日起，下调个人住房公积金贷款利率0.25个百分点，5年以下（含5年）和5年以上首套个人住房公积金贷款利率分别调整为2.35%和2.85%，5年以下（含5年）和5年以上第二套个人住房公积金贷款利率分别调整为不低于2.775%和3.325%。对于2024年5月18日起发放的个人住房公积金贷款，执行新利率；2024年5月18日前已发放的个人住房公积金贷款，根据借款合同约定自2025年1月1日起执行新利率。\n合肥市住房公积金管理中心发布《关于下调个人住房公积金贷款利率的通知》，自…",
-          "link": "https://www.thepaper.cn/newsDetail_forward_27413560",
-          "publishedOn": "2024-05-19T00:53:02.000Z",
-          "wordCount": 44,
-          "title": "广州苏州成都合肥等多地今起下调住房公积金贷款利率",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_27429126",
-          "author": null,
-          "description": "一线城市皆已下调个人住房公积金贷款利率。\n5月18日，深圳市住房公积金管理中心公告，中国人民银行决定，自2024年5月18日起，下调个人住房公积金贷款利率0.25个百分点，5年以下（含5年）和5年以上首套个人住房公积金贷款利率分别调整为2.35%和2.85%，5年以下（含5年）和5年以上第二套个人住房公积金贷款利率分别调整为不低于2.775%和3.325%。\n《深圳市住房公积金贷款管理规定》第二十三条规定，公积金贷款发放后，遇国家公积金贷款利率调整的，公积金中心应当按季度对贷款利率进行调整。2024年5月18日之前深圳已经发放的个人住房公积金贷款，自2024年7月1日起开始执行调整后的利率。\n2024年5月18日之前申请且未发放的个人住房公积金贷款，以及2024年5月18日（含）之后申请的个人住房公积金贷款，均执行调整后的利率。\n上海、北京、广州也完成下调个人住房公积金贷款利率。\n5月17日，上海市公积金管理中心下发《关于调整本市个人住房公积金贷款利率的通知》称，根据中国人民银行决定，自2024年5月18日起，5年以下（含5年）和5年以上首套个人住房公积金贷款利率分别下调至2.35%和2.85%，5年以下（含5年）和5年以上第二套个人住房公积金贷款利率分别下调至2.775%和3.325%。\n2024年5月18日（含）以后发放的个人住房公积金贷款，执行《通知》规定。2024年5月18日前发放的未到期个人住房公积金贷款，如贷款期限在1年（含1年）以内的，贷款利率不作调整，2024年5月18日起仍执行原利率；如贷款期限在1年以上的，2024年5月18日起仍执行原利率，自2025年1月1日起按《通知》规定执行。\n据北京日报，5月18日，北京日报记者致电北京住房公积金管理中心，工作人员称，北京住房公积金贷款已执行新利率，下调了0.25个百分点。其中，5年以下（含5年）和5年以上首套个…",
-          "link": "https://www.thepaper.cn/newsDetail_forward_27429126",
-          "publishedOn": "2024-05-19T00:53:02.000Z",
-          "wordCount": 37,
-          "title": "北上广深领衔多地下调住房公积金贷款利率，深圳存量房7月起执行调整后利率",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_27429382",
-          "author": null,
-          "description": "近日，有关“北大招生办的于一凡主动联系网红‘郭有才’，决定破格录取其进入北大继续深造”的消息在网上流传。\n与之同时，网上出现很多诸如“著名大学急功近利”“北大也想蹭一把网红的流量”“只要当上网红，就可以进入一等一学府北大”“北大增设网红专业？”等质疑北大的声音。\n5月18日晚，澎湃新闻（www.thepaper.cn）从北大党委宣传部了解到，北大已进行核查，“于一凡”不是该校教职工，更不是“招生老师”，北大没有联系过“郭有才”。北大“招生老师”破格录取网红“郭有才”是假消息。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_27429382",
-          "publishedOn": "2024-05-19T00:53:02.000Z",
-          "wordCount": 37,
-          "title": "北大“招生老师”破格录取网红“郭有才”？北大回应：假的！",
-          "imageUrl": null
         }
       ]
     },
@@ -12026,6 +12136,56 @@
       "feedUrl": "https://www.nationalreview.com/feed/",
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
+        {
+          "id": "https://www.nationalreview.com/?p=1651841",
+          "author": "Jay Nordlinger",
+          "description": "Song Byeok was once a propaganda artist. Now he paints the reality of his native country.",
+          "link": "https://www.nationalreview.com/2024/06/depicting-north-korea-2/",
+          "publishedOn": "2024-06-17T10:30:45.000Z",
+          "wordCount": 10508,
+          "title": "Depicting North Korea",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/06/song-byeok.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1651483",
+          "author": "Jerome Gessaroli",
+          "description": "The pursuit of widespread EV adoption, driven by ambitious environmental goals, neglects critical economic, technological, and strategic considerations.",
+          "link": "https://www.nationalreview.com/2024/06/north-america-should-reconsider-its-electric-vehicle-obsession/",
+          "publishedOn": "2024-06-17T10:30:34.000Z",
+          "wordCount": 8871,
+          "title": "North America Should Reconsider Its Electric-Vehicle Obsession",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/06/fisker-electric-suvs-california.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1652211",
+          "author": "Kathryn Jean Lopez",
+          "description": "A revival for a nation in need of divine intervention.",
+          "link": "https://www.nationalreview.com/2024/06/nancy-pelosi-among-others-could-benefit-from-this-summers-eucharistic-congress/",
+          "publishedOn": "2024-06-17T10:30:24.000Z",
+          "wordCount": 9255,
+          "title": "Nancy Pelosi, among Others, Could Benefit from This Summer’s Eucharistic Congress",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2022/08/nancy-pelosi-capitol-hill.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1652168",
+          "author": "Rich Lowry",
+          "description": "She’d help Trump.",
+          "link": "https://www.nationalreview.com/2024/06/nikki-haley-is-still-the-strongest-vp-pick/",
+          "publishedOn": "2024-06-17T10:30:06.000Z",
+          "wordCount": 9455,
+          "title": "Nikki Haley Is Still the Strongest VP Pick",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/11/nikki-haley-campaign-trail-12.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1652228",
+          "author": "Ashley McGuire and Grazie Pozo Christie",
+          "description": "The Supreme Court may soon have a chance to strike down Michigan’s prohibition of public funding for nongovernment schools.",
+          "link": "https://www.nationalreview.com/2024/06/its-time-to-remove-this-trace-of-anti-catholic-bigotry-from-our-laws/",
+          "publishedOn": "2024-06-17T10:30:02.000Z",
+          "wordCount": 9198,
+          "title": "It’s Time to Remove This Trace of Anti-Catholic Bigotry from Our Laws",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2021/05/classroom-raised-hand.jpg?fit=2057%2C1200&ssl=1"
+        },
         {
           "id": "https://www.nationalreview.com/?p=1651301",
           "author": "Donald Bryson",
@@ -16424,6 +16584,36 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/79882",
+          "author": "Microhoo",
+          "description": "为即将到来的夏季带来一些夏日氛围。查看全文",
+          "link": "https://sspai.com/post/79882",
+          "publishedOn": "2024-06-17T10:02:49.000Z",
+          "wordCount": 738,
+          "title": "天气逐渐变热，派商店带你解锁夏日饮品新配方",
+          "imageUrl": "https://cdnfile.sspai.com/2023/05/18/f2828fc7c124b285cc37f18595a96932.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/89677",
+          "author": "少数派编辑部",
+          "description": "欢迎收看本期《派评》。你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的App或者关注的话题，也欢迎在评论区和我们进行讨论。值得关注的新App虽然少数派一直在为大家发现和介绍各平台上的 ...查看全文",
+          "link": "https://sspai.com/post/89677",
+          "publishedOn": "2024-06-17T09:44:21.000Z",
+          "wordCount": 944,
+          "title": "派评 | 近期值得关注的 App",
+          "imageUrl": "https://cdnfile.sspai.com/2024/6/17/article/53e8cec8-759f-9c3f-6eaa-c85bf0a403e0.png"
+        },
+        {
+          "id": "https://sspai.com/post/89662",
+          "author": "PostMeridy",
+          "description": "除了 Vitals、运动负荷，你还能在 watchOS 11 上体验到更智能的叠放、实时通知、改进后的照片表盘以及可以随时暂停的三环。查看全文",
+          "link": "https://sspai.com/post/89662",
+          "publishedOn": "2024-06-17T07:00:00.000Z",
+          "wordCount": 926,
+          "title": "具透 | 关心健康，更关心你：watchOS 11 中值得关注的更新",
+          "imageUrl": "https://cdnfile.sspai.com/6/17/2024/article/b386a9f4-befd-c2cb-2977-3ff55a862fbf.png"
+        },
+        {
           "id": "https://sspai.com/post/89135",
           "author": "乱麻",
           "description": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
@@ -17450,6 +17640,104 @@
       "feedUrl": "https://plink.anyfeeder.com/idaily/today",
       "siteUrl": "https://idai.ly",
       "articles": [
+        {
+          "id": "idaily-208838",
+          "author": "西班牙 · 毕尔巴鄂",
+          "description": "毕尔巴鄂举行「Gau Zuria」艺术节庆祝建城724周年，阿利亚加剧院外墙投映灯光艺术秀，西班牙。6月15日，毕尔巴鄂美术馆、巴斯克宫、阿利亚加剧院等地标景点共举行33场艺术灯光秀庆祝建城日。这座城市建于公元1300年，目前为西班牙最大的海港城市，2014年获得联合国教科文组织「设计之城」称号。受旅游业复苏推动，西班牙央行预计该国2024年 GDP 增长率将达到2.3%，大幅高于欧元区0.9%的平均增速。摄影师：Ander Gillenea",
+          "link": "https://m.idai.ly/se/0balSo",
+          "publishedOn": "2024-06-17T10:59:00.000Z",
+          "wordCount": 265,
+          "title": "毕尔巴鄂庆祝建城日 - June 17, 2024",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/73ca43f2/343f8bd8.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/73ca43f2/343f8bd8.jpg"
+        },
+        {
+          "id": "idaily-208837",
+          "author": "美国 · 洛杉矶",
+          "description": "美国现任总统 Joe Biden 与前总统 Barack Obama 出席大选筹款活动，洛杉矶。6月15日，Biden 竞选团队宣布在洛杉矶竞选活动中筹集超过3000万美元竞选资金，创下民主党单场竞选活动的筹款最高纪录，本次大选累计筹款金额已达到2亿美元。2024年美国总统大选的首场电视辩论将于6月27日举行。最新民调显示 Biden 支持率为37%，比竞争对手、前总统 Donald Trump 落后1个百分点。摄影师：Kevin Lamarque",
+          "link": "https://m.idai.ly/se/5c14uI",
+          "publishedOn": "2024-06-17T09:57:00.000Z",
+          "wordCount": 265,
+          "title": "拜登单场筹款3000万美元 - June 17, 2024",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/1504289b/1f484306.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/1504289b/1f484306.jpg"
+        },
+        {
+          "id": "idaily-208836",
+          "author": "瑞士 · 布尔根施托克",
+          "description": "瑞士举行的乌克兰和平峰会闭幕，布尔根施托克。6月16日，乌克兰和平峰会与会各方发表联合公报，主要内容包括要求保障核设施安全、强调不可接受威胁或使用核武器、要求保障乌克兰粮食出口、要求冲突双方交换释放所有战俘、以《联合国宪章》原则作为实现和平的基础。这份联合公报的签署方包括78个国家和4个欧洲机构，共有14个出席峰会的国家未进行签署。摄影师：Laurent Cipriani",
+          "link": "https://m.idai.ly/se/458LgM",
+          "publishedOn": "2024-06-17T09:55:00.000Z",
+          "wordCount": 265,
+          "title": "乌克兰和平峰会闭幕 - June 17, 2024",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/0eebc1ba/29f09b39.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/0eebc1ba/29f09b39.jpg"
+        },
+        {
+          "id": "idaily-208835",
+          "author": "澳大利亚 · 阿德莱德",
+          "description": "中国国务院总理李强访问澳大利亚期间探望旅澳大熊猫「网网」，阿德莱德动物园。6月17日，中澳两国总理第9轮年度会晤在堪培拉举行，中国国务院总理李强与澳大利亚总理 Anthony Albanese 针对中澳关系、经贸合作、地区及国际局势议题交换意见。双方见证签署5项合作文件并发布会晤成果联合声明，两国重申坚持中澳全面战略伙伴关系定位，同意继续发展双边关系，维护各自国家利益，明智管控分歧。中方宣布对澳大利亚实施单方面免签政策，并计划向澳大利亚借出2只新的大熊猫。中国连续15年为澳大利亚第一大贸易伙伴、出口目的地和进口来源国，2023年双边贸易额达3260亿澳元。摄影师：Asanka Ratnayake",
+          "link": "https://m.idai.ly/se/72apJp",
+          "publishedOn": "2024-06-17T09:53:00.000Z",
+          "wordCount": 265,
+          "title": "中国总理访问澳大利亚 - June 17, 2024",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/9120dd91/f8068480.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/9120dd91/f8068480.jpg"
+        },
+        {
+          "id": "idaily-208833",
+          "author": "加沙地带 · 汗尤尼斯",
+          "description": "加沙民众在废墟中准备宰牲节食物，汗尤尼斯。6月16日，以色列在宰牲节首日袭击加沙中部布雷吉难民营，造成至少9名巴勒斯坦人死亡，其中包括5名儿童。本轮以巴冲突迄今已造成加沙地带37337人死亡，85299人受伤。以色列军方当天宣布每天上午8时至晚上19时在凯雷姆沙洛姆过境点实施临时停火，允许人道主义援助进入加沙地带。联合国近东救济工程处警告加沙地带超过5万严重营养不良的儿童亟需医疗援助。摄影师：Abed Rahim Khatib",
+          "link": "https://m.idai.ly/se/60a7Y7",
+          "publishedOn": "2024-06-17T09:51:00.000Z",
+          "wordCount": 265,
+          "title": "巴勒斯坦迎来宰牲节 - June 17, 2024",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/576d2792/f4a74a36.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/576d2792/f4a74a36.jpg"
+        },
+        {
+          "id": "idaily-208831",
+          "author": "新加坡",
+          "description": "新加坡工人在圣淘沙岛海滩上清理泄漏污染的石油。6月14日，一艘荷兰籍疏浚船因动力系统失控撞上一艘新加坡籍运油船，导致约400吨石油泄漏至圣淘沙岛周边海域。新加坡政府已经派出250人团队和18艘船只参与油污清理工作。圣淘沙岛海滩短暂关闭2天后已恢复开放，目前仍禁止下水游泳或进行水上活动。当地海洋保护组织通报发现海鸟、水獭、巨蜥等多种野生动物遭受石油污染影响。摄影师：Suhaimi Abdullah",
+          "link": "https://m.idai.ly/se/f85ppi",
+          "publishedOn": "2024-06-17T09:49:00.000Z",
+          "wordCount": 265,
+          "title": "新加坡海滩石油泄漏 - June 17, 2024",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/6618a6f7/646d6249.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/6618a6f7/646d6249.jpg"
+        },
+        {
+          "id": "idaily-208830",
+          "author": "意大利 · 米兰",
+          "description": "米兰 2025 春夏男装周 Prada 秀场，模特正在展示联合创意总监 Miuccia Prada 和 Raf Simons 新一季男装作品。本季男装作品以「亲近」（Closer）为主题，设计师从上世纪父母时代的装束中汲取灵感，通过故意拉长或裁短的比例营造出年代感，极简廓形的服装中点缀金丝线细节、印花衣领和下摆以及刻意做旧的褶皱和斑驳元素，藉此探讨远观与近距离审视、真与伪、实与虚的辩证概念。摄影师：iDaily Media",
+          "link": "https://m.idai.ly/se/c18L5A",
+          "publishedOn": "2024-06-17T09:47:00.000Z",
+          "wordCount": 266,
+          "title": "Prada 2025春夏男装秀 - June 17, 2024",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/dd68170a/9ae4da13.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/dd68170a/9ae4da13.jpg"
+        },
         {
           "id": "idaily-208758",
           "author": "沙特 · 麦加",
@@ -20510,6 +20798,16 @@
       "siteUrl": "http://nytimes.com",
       "articles": [
         {
+          "id": "https://cn.nytimes.com/business/20240617/durian-china-malaysia-thailand/dual",
+          "author": null,
+          "description": "THOMAS FULLER2024年6月17日\nBefore he started a company 15 years ago selling the world’s smelliest fruit, Eric Chan had a well-paying job writing code for satellites and robots. His family and friends were puzzled when he made the career change.\n15年前，埃里克·陈（音）创办了一家公司，销售世界上气味最强烈的水果。在此之前，他有一份为卫星和机器人编写代码的高薪工作。当他改行时，家人和朋友们都不理解。\nThe fruit, durian, has long been a cherished part of local cultures in Southeast Asia, where it is grown in abundance. A single durian is typically the size of a rugby ball and can emit an odor so powerful that it is banned from most hotels. When Mr. Chan began his start-up in his native Malaysia, durians were cheap and often sold from the back of trucks.\n在盛产榴莲的东南亚，榴莲长期以来一直是当地文化中珍贵的一部分。一颗榴莲一般有橄榄球大小，散发出强烈的臭味，以至于大多数酒店都禁止携带入内。当埃里克·陈在自己的祖国马来西亚开始创业时，榴莲的价格还很低廉，经常从卡车后斗出售。\nThen, Chi…",
+          "link": "https://cn.nytimes.com/business/20240617/durian-china-malaysia-thailand/dual",
+          "publishedOn": "2024-06-17T08:06:01.000Z",
+          "wordCount": 1688,
+          "title": "中国人买买买造就东南亚“榴莲富豪”",
+          "imageUrl": "https://static01.nyt.com/images/2024/06/12/multimedia/00china-durian-01-jhfv/00china-durian-01-jhfv-videoLarge.jpg"
+        },
+        {
           "id": "https://cn.nytimes.com/sports/20240617/china-swimming-doping/dual",
           "author": null,
           "description": "MICHAEL S. SCHMIDT, TARIQ PANJA2024年6月17日中国选手汪顺（中）参加2022年布达佩斯世界游泳锦标赛。中国官员称，他是三名多次药检呈阳性的顶级游泳运动员之一。 Oli Scarff/Agence France-Presse — Getty Images\nAfter the revelation in April that 23 elite Chinese swimmers had tested positive for a banned substance months before the last Summer Olympic Games, China and the global antidoping authority vigorously defended their decisions to allow them to compete in the Games in 2021. The swimmers, they insisted, had not been doping.\n今年4月，23名中国顶尖游泳运动员在上届夏季奥运会前几个月药检呈阳性的消息曝光。在那之后，中国和全球反兴奋剂机构极力捍卫允许他们参加2021年奥运会的决定。他们坚称这些游泳运动员没有服用兴奋剂。\nBut as they made those claims, China and the antidoping authority were both aware that three of those 23 swimmers had tested positive several years earlier for a different performance-enhancing drug and had escaped being publicly ide…",
@@ -21904,36 +22202,6 @@
           "publishedOn": "2024-05-20T01:58:00.000Z",
           "wordCount": 290,
           "title": "有些甜蜜的话啊，对方想听，却说不出口",
-          "imageUrl": null
-        },
-        {
-          "id": "2adb043fbdb8d9c7ce17eba85bcf7c18",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E7%A7%A6%E6%9C%9D%E5%8D%81%E4%BA%94%E8%BD%BD%EF%BC%9A%E4%B8%80%E5%9C%BA%E5%9B%A0%E5%A4%B1%E8%B4%A5%E8%80%8C%E6%88%90%E5%8A%9F%E7%9A%84%E5%B8%9D%E5%9B%BD%E5%AE%9E%E9%AA%8C",
-          "publishedOn": "2024-05-19T02:46:00.000Z",
-          "wordCount": 333,
-          "title": "秦朝十五载：一场因失败而成功的帝国实验",
-          "imageUrl": null
-        },
-        {
-          "id": "8c2917e6261ed51e2e469326b94df71e",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E5%88%9D%E5%A4%8F%EF%BC%8C%E6%8A%95%E8%BA%AB%E4%BA%8E%E5%91%A8%E9%81%AD%E4%B8%96%E7%95%8C",
-          "publishedOn": "2024-05-19T02:46:00.000Z",
-          "wordCount": 292,
-          "title": "初夏，投身于周遭世界",
-          "imageUrl": null
-        },
-        {
-          "id": "001db0a7621b7e980a74655ef99232c6",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E4%B9%9F%E6%A2%A6%E6%83%B3%E4%BB%97%E5%89%91%E8%B5%B0%E5%A4%A9%E6%B6%AF%EF%BC%8C%E5%8D%B4%E5%8F%91%E7%8E%B0%E5%87%BA%E9%97%A8%E5%B0%B1%E7%8A%AF%E6%B3%95%EF%BC%9A%E8%AE%A9%E4%BA%BA%E6%B8%B4%E6%9C%9B%E5%8F%88%E8%8B%A6%E6%81%BC%E7%9A%84%E7%A7%A6%E6%B1%89%E5%A4%A7%E4%BE%A0",
-          "publishedOn": "2024-05-19T02:46:00.000Z",
-          "wordCount": 331,
-          "title": "也梦想仗剑走天涯，却发现出门就犯法：让人渴望又苦恼的秦汉大侠",
           "imageUrl": null
         }
       ]
