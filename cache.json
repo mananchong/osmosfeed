@@ -44,16 +44,6 @@
           "wordCount": 5921,
           "title": "R Weekly 2024-W22 Functional OOP, Overture Maps, Refactoring Tests",
           "imageUrl": "https://rweekly.org/public/facebook.png"
-        },
-        {
-          "id": "https://rweekly.org/2024-W21.html",
-          "author": null,
-          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Batool Almarzouq, with help from the R Weekly team members and contributors.\nHighlight\nAutomate code refactoring with {xmlparsedata} and {brio}\nFind Out How many Times Faster your Code is\nCommunication Tips for your Open-Source Project\nInsights\nGergely Daróczi’s Journey: Empowering R Users in Hungary\n\nEnhancing R: The Vision and Impact of Jan Vitek’s MaintainR Initiative\nThe Evolution of Melbourne’s Business Analytics and R Business User Group \nCommunication Tips for your Open-Source Project\nR in the Real World\nNew York City’s POC Population                                                                                                                                        …",
-          "link": "https://rweekly.org/2024-W21.html",
-          "publishedOn": "2024-05-21T00:00:00.000Z",
-          "wordCount": 6168,
-          "title": "R Weekly 2024-W21, Automate code refactoring, Faster Code, Open-Source Project",
-          "imageUrl": "https://rweekly.org/public/facebook.png"
         }
       ]
     },
@@ -531,16 +521,6 @@
           "wordCount": 168,
           "title": "池翔评《流动的森林》｜前近代中国森林史的华南脉络",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_27439066",
-          "author": null,
-          "description": "《从数学到哲学》，[美]王浩著，高坤、邢滔滔译，广西师范大学出版社｜大学问，2024年5月出版，528页，128.00元\n\n王浩无疑是一位科学巨匠，他在逻辑、数学和计算机科学等领域都做出了卓越贡献，这些贡献为他赢得了世界性声誉。但从学生时代起，王浩就立志要研究哲学问题。据他在一次访谈中自己讲，高考时他原本想报考西南联大哲学系，只是因为父亲反对，才改了数学系。虽然身在数学系，但并不妨碍他选修各种哲学系课程（特别是金岳霖、王宪钧和沈有鼎等人开设的逻辑学课程），以及进行广泛的哲学阅读。比如，在《从数学到哲学》（以下简称《数哲》）中，王浩回忆说，1940年他还是大一新生时，就已经开始对着罗素《数学原理》中的哲学段落苦思冥想（137页）；而据王浩在西南联大的同学好友何兆武说，大一刚入学不久，他就在图书馆里碰见王浩读一本大书——德文本的《世界的逻辑结构》（何兆武口述：《上学记》增订版，文靖执笔，人民文学出版社，2016年，224页）。\n由此可见，王浩的哲学兴趣发端很早。这种兴趣贯穿了他此后的人生，本科毕业后，王浩即进入清华研究院哲学部学习，之后赴美留学，在哈佛大学哲学系跟随分析哲学大师蒯因学习，后来又辗转任教于牛津、哈佛、洛克菲勒等大学，从事哲学方面的教学和研究。相比之下，他的许多科学工作反倒具有玩票性质，比如，他在五十年代之所以去研究计算机，只是因为当时考虑要回来建设新中国（后来因为一些原因未能成行），需要具备一些有实际用途的知识，而他已有的哲学和逻辑知识似乎于工业化建设无甚用处。\n但是，另一方面，如果因此而割裂王浩的科学工作和哲学兴趣，则又大谬不然。实际上，王浩热烈推崇的是以爱因斯坦、哥德尔等为代表的哲学-科学家传统，他的哲学思考和科学工作互为促进，是一体两面的。这也反映在了《数哲》一书的书名中。对于王浩来说，科学，尤其是包括数理逻辑在内的数学，对哲学是至关重要的。但数学为什么对哲…",
-          "link": "https://www.thepaper.cn/newsDetail_forward_27439066",
-          "publishedOn": "2024-05-21T04:02:03.000Z",
-          "wordCount": 90,
-          "title": "高坤读《从数学到哲学》｜王浩的爱智之旅",
-          "imageUrl": null
         }
       ]
     },
@@ -549,6 +529,206 @@
       "feedUrl": "https://feedx.net/rss/thepaper.xml",
       "siteUrl": "http://thepaper.cn",
       "articles": [
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_27784358",
+          "author": null,
+          "description": "6月19日，外交部发言人林剑主持例行记者会。法新社记者提问，中国将派11名游泳运动员参加下个月的巴黎奥运会。这些运动员在一起兴奋剂药检中结果呈阳性。美国反兴奋剂机构批评世界反兴奋剂机构隐瞒该事，世界反兴奋剂机构随后表示将派专家组前往中国调查此事。外交部能否提供关于该专家组赴华的最新情况？\n林剑表示，此前我们已经就有关问题作出过回应。我要强调的是，中国政府一贯坚持对兴奋剂问题“零容忍”的坚定立场，严格遵守《世界反兴奋剂条例》，坚决维护运动员的身心健康，维护体育竞赛的公平竞争，为全球统一的反兴奋剂斗争作出积极贡献。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_27784358",
+          "publishedOn": "2024-06-19T15:53:02.000Z",
+          "wordCount": 38,
+          "title": "中国游泳运动员兴奋剂药检结果呈阳性？外交部：对兴奋剂问题“零容忍”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_27779656",
+          "author": null,
+          "description": "马克·吕特（资料图）\n\n总台记者当地时间6月18日从荷兰方面获悉，荷兰首相吕特将成为新任北约秘书长。\n消息人士证实，目前吕特唯一的竞争对手、罗马尼亚总统约翰尼斯将在近期宣布退出北约秘书长的竞选。现任北约秘书长斯托尔滕贝格对此回应称，新任秘书长的选拔已接近完成，他称吕特为“强有力的候选人”。\n据悉，吕特近日也已获得匈牙利总理欧尔班和斯洛伐克总统佩列格里尼的支持。在此之前，匈牙利及斯洛伐克一直对吕特继任北约秘书长持反对及保留意见。\n现任北约秘书长斯托尔滕贝格2014年就任以来已两度延长任期，本届任期定于今年10月结束。北约秘书长提名需要获得全体32个成员国一致同意才可通过。吕特现为荷兰看守政府首相，将在荷兰新政府正式组建后卸任，是接替该职位的热门人选，已获得美、英、法、德等国支持。\n\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.run",
+          "link": "https://www.thepaper.cn/newsDetail_forward_27779656",
+          "publishedOn": "2024-06-19T14:53:03.000Z",
+          "wordCount": 39,
+          "title": "竞争对手将退出，荷兰首相吕特将成为新任北约秘书长",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_27781473",
+          "author": null,
+          "description": "全球聚焦\n\n当地时间6月19日，朝鲜劳动党总书记、国务委员长金正恩（前右）在平壤国际机场迎接俄罗斯总统普京到访。新华社 图\n据央视新闻报道，当地时间6月19日，俄罗斯总统普京抵达朝鲜平壤，开始对朝鲜进行为期两天的国事访问。朝鲜劳动党总书记、国务委员长金正恩到机场迎接。\n\n当地时间6月19日，朝鲜平壤，朝鲜最高领导人金正恩在平壤国际机场欢迎俄罗斯总统普京。视觉中国 图\n\n 当地时间6月19日，朝鲜劳动党总书记、国务委员长金正恩（中右）在平壤国际机场迎接俄罗斯总统普京到访。新华社 图\n据克里姆林宫新闻局此前消息，普京应朝鲜国务委员长金正恩的邀请对朝鲜进行国事访问。据俄罗斯总统助理尤里·乌沙科夫介绍，普京此访将与金正恩进行一对一会晤。双方还将签署关系条约，向媒体发表声明。朝方准备了音乐会、国宴等。普京上次访问朝鲜是在2000年7月。\n\n当地时间6月19日，朝鲜平壤，朝鲜最高领导人金正恩与俄罗斯总统普京亲切交谈。视觉中国 图\n\n当地时间6月19日，朝鲜平壤，朝鲜最高领导人金正恩和俄罗斯总统普京的车队。视觉中国 图\n陪同普京访问的俄方代表团成员包括：俄罗斯联邦副总理亚历山大·诺瓦克，俄罗斯外交部长拉夫罗夫，俄罗斯国防部长别洛乌索夫，以及俄罗斯自然资源和生态部部长、卫生部部长、交通部部长、俄罗斯航天部门、铁路部门负责人等。\n\n 当地时间6月19日，朝鲜劳动党总书记、国务委员长金正恩（前右）与俄罗斯总统普京抵达平壤锦绣山迎宾馆并进行交谈。新华社 图\n\n当地时间6月18日，朝鲜平壤，从一座建筑的广告牌上可以看到俄罗斯总统普京的照片。视觉中国 图\n据朝中社消息，在对朝鲜进行国事访问前夕，普京在朝鲜《劳动新闻》上发表文章说，俄罗斯和朝鲜将把双边合作提升至更高水平。普京6月17日还签署决议，同意与朝鲜签署《全面战略伙伴关系条约》。\n环球纵览\n以军批准对黎巴嫩发动进攻的作战计划\n\n当地时间6月18…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_27781473",
+          "publishedOn": "2024-06-19T14:53:03.000Z",
+          "wordCount": 125,
+          "title": "早安·世界｜普京抵达平壤开始对朝鲜进行国事访问",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_27776164",
+          "author": null,
+          "description": "近年来，在中国的影视制作领域，IP的开发越来越受到重视与追捧。其中，尤以刘慈欣所著的长篇科幻小说《三体》为代表，先后衍生出广播剧、动画剧集、电视剧、各种关联产品等；甚至还走出国门，被全球最大的流媒体平台Netflix拿去翻拍成热门剧集。就在昨天，又传出张艺谋将执导电影版的重磅消息。\n在此背景下，6月18日举办的上海国际电影节金爵电影论坛上，特辟“IP全球多元化开发的潜力与想象”这一主题，邀请来自IP运营公司、好莱坞电影公司、国内电影公司、创作团队、影视协会的各方嘉宾，畅谈制造与选择IP的标准、IP开发过程中的挑战与机遇、全球化与本土化的平衡等相关议题。\n\n论坛现场\n\n电影版《三体》最大的挑战，是对原著内容的取舍\n论坛上，首先发言的光线传媒董事长王长田开门见山地指出：“我做了那么多年IP，抵不上一个《三体》的IP。昨天，我们公布了将和张艺谋导演合作开发电影版《三体》的消息后，迅速引起社会各方很大的反应，让我体会到这个IP的影响力之强大，也感受到肩负的压力。”\n“IP本身是一个中性词，它是知识产权的总称。一个好的IP，它具有跨代际和跨地区的传播力。但它不是你想开发就能开发出来的，必然凝结了很多劳动与智慧、对社会及人性的各方面，有非常深刻的理解。非常遗憾的是，目前在国际上真正有影响力的来自中国的IP，数量还很少。”\n“老实说，我们最初对于《三体》的开发也并不成功，现在我们才算找到新的突破口。这次在张艺谋导演的带领下，我们的信心要比之前足很多。”王长田透露，“其实，我们在几年前就向张导提出，希望能由他来执导电影《三体》，但他当时并没有接受。经过长时间的沟通和双方结成的信任，最后他还是同意了。”\n问及电影版《三体》的筹备工作目前进展到哪一步，王长田表示，“电影版《三体》还处在打磨剧本的阶段，同时也在全世界范围内，筛选除导演及编剧之外的其他主创人员。我们现在面临的最大挑战是对原著内容的…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_27776164",
+          "publishedOn": "2024-06-19T13:53:03.000Z",
+          "wordCount": 66,
+          "title": "张艺谋版《三体》投资预算无上限，暂定只拍一部",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_27781395",
+          "author": null,
+          "description": "近日，记者在河南、山东卧底调查，曝光两家禽类屠宰加工厂脏乱差等问题。在生产车间，鸭肠随意堆放在地上，清洗地面的脏水混在鸭肠中，工人直接用脚踩洗鹅肠，甚至还有工人将从污水中捞出的死鸭再次送回车间。记者联系两地多个监管部门后，电话疑被泄露，随即接到涉事企业电话，此前记者从未用该号码与涉事企业进行联系。山东涉事公司负责人称，号码是政府部门“李主任”给的。\n报道中的屠宰加工厂脏乱差场景让人作呕，不可思议的是，记者举报后不久就接到了涉事企业的电话，并称是政府部门提供的。这种疑似泄露举报者电话的行为，令人不寒而栗。\n涉事企业涉嫌违反食品安全法有关规定，如严禁生产经营腐败变质、油脂酸败、霉变生虫、污秽不洁、混有异物、掺假掺杂或者感官性状异常的食品、食品添加剂。对此，当地监管部门不是不知情，涉事企业负责人曾称被监管部门多次要求整改。公众不禁要问，多次责令整改之下，涉事企业依然能够作恶，是监管无力，还是企业“头铁”？抑或监管方与涉事企业之间存在某种不可告人的关系？\n记者联系监管部门后，随即接到涉事企业负责人电话，足以说明监管部门相关人员与企业联系紧密。遗憾的是，这种联系并不是为了及时解决食品安全问题，而是走漏消息，这体现了监管部门失职失责和乱作为。为举报者、投诉者保密是受理部门的法定职责，在接到投诉举报后，首先要查证举报投诉是否属实，如果属实，则应依法处理，如不属实，则应及时回复举报者。监管部门将举报者信息泄露给被举报企业，一是相当于为其通风报信，给查处行为带来障碍，二是置举报者于危险境地，加大其遭遇打击报复的风险。\n企业存在危害食品安全的行为已令人不安，更可怕的是监管部门不作为、慢作为、乱作为。泄露举报者信息给涉事企业，轻则违反工作纪律，如果造成企业毁灭证据，或者打击报复投诉举报者的后果，泄密者还涉嫌滥用职权罪。比“此地无银”更可怕的是“能奈我何”的心态，希望有关部门彻查此事，给公众一个交代，给营商环境和消费信心一个交代。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_27781395",
+          "publishedOn": "2024-06-19T13:53:03.000Z",
+          "wordCount": 32,
+          "title": "工人日报刊文：泄露举报者电话给涉事企业，令人不寒而栗",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_27789137",
+          "author": null,
+          "description": "6月19日，2024陆家嘴论坛在上海举办，中国证券监督管理委员会副主席方星海出席。\n方星海指出，现在PEVC领域集中碰到的堵点是在募投管退环节中，大家普遍反映的目前最大的困难在募和退。募和退当中，如果仔细分析可能退是主因，募在中国的环节下是没有太大问题，中国储蓄是很多的。\n“谈到退，我在证监会分管境外上市备案的工作，跟大家分享一组数字。”方星海进一步指出，自去年3月31日监管上市备案的办法发布以来，中国企业到境外上市是非常活跃的。截至昨天，一共备案了158家企业赴境外上市，158家企业中，有85家是去中国香港上市，有73家企业去美国上市。\n方星海表示，对境外上市，证监会的态度是要加快备案，现在的速度比以前快了一些，“但是境外上市备案毕竟是新生事物，我们的速度还不够快，还要继续加快备案速度。”（澎湃新闻高级记者 田忠方）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_27789137",
+          "publishedOn": "2024-06-19T13:53:03.000Z",
+          "wordCount": 37,
+          "title": "方星海：PE、VC的堵点主要是“退”，将加快境外上市备案速度",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_27788687",
+          "author": null,
+          "description": "长沙市水文局6月19日18时发布洪水黄色预警：受湘江水位顶托和强降雨影响，预计未来15小时内，湘江一级支流浏阳河㮾梨河段将出现警戒水位（36米）左右的洪水过程，沿岸相关单位及社会公众需做好避险救灾工作。\n受昨晚（18日）以来强降雨影响，湘江干流衡阳段水位出现复涨，湖南省水文中心于19日12时发布衡山县至株洲城区河段洪水黄色预警；株洲渌水水位快速上涨，株洲于19日13时发布渌水大西滩河段洪水黄色预警。\n长沙市水文局预测，据湘江流域当前雨水情，预计20日上午，湘江长沙站出现洪峰，洪峰水位35.3米（低于警戒水位0.7米）左右。“六河”河口段受湘江顶托影响，水位将上涨1米左右。市内浏阳河水位涨幅1米至2米，其他河流水情总体平稳。（央视新闻）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_27788687",
+          "publishedOn": "2024-06-19T13:23:02.000Z",
+          "wordCount": 32,
+          "title": "长沙发布洪水黄色预警，预计20日上午出现洪峰",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_27788715",
+          "author": null,
+          "description": "6月19日，国内期货夜盘开盘涨跌不一，20号胶、沪铅、沪锌、液化石油气、橡胶、国际铜涨超1%；苯乙烯跌近1%。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_27788715",
+          "publishedOn": "2024-06-19T13:23:02.000Z",
+          "wordCount": 32,
+          "title": "国内期货夜盘开盘涨跌不一",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_27772828",
+          "author": null,
+          "description": "新媒体时代，上海如何做好健康知识的传播？医学专家如何在互联网上做好医疗科普？如何辨别网络上的“演员医生”？\n6月17日下午，由上海市委网信办、上海市卫生健康委主办，上海市健康促进中心、上海交大医学院附属瑞金医院和澎湃新闻共同承办的“互联网点亮健康上海——上海网络名人走进智慧医疗”活动在瑞金医院举办，这是今年“网络名人看上海”系列活动的第三站。\n在此次活动中同步举办的上海网络大V沙龙上，针对当前网络中存在的“演员医生”现象，上海市第一妇婴保健院的男科主治医师杨阳坦言， 医生自己也要提防那些打着医生名号实际上却在造谣的情况，目前就有一些不靠谱的MCN公司签下了大量的“演员医生”，批量生产谣言，传播的内容很多并不具备科学性，这是非常值得我们警惕的一件事情。\n围绕如何做好健康知识的传播，上海市中医药大学曙光医院老年医学科副主任崔松指出，要深入浅出，科普才能做得久远。上海长征医院脊柱外科医生曹鹏则表示，如果不做正确的医疗科普，就意味着放任劣币驱逐良币，会让谣言在网络上散布。\n或许会有很多人问“医生工作那么忙为何还做科普”，上海市东方医院产科主任刘铭对此表示，科普让自己更有职业成就感，也让她在互联网上收获病人“粉丝”。\n作为上海首个在新冠疫情中逆行而上、支援武汉抗疫的英雄，复旦大学附属中山医院重症医学科医生钟鸣坦言：科普是一个医生的责任和良心，“一方面科普可以让谣言止步，教会老百姓如何正确鉴别伪科学，一方面要做好科普，首先要成为一名好医生，去传递硬核的专业知识，而不是一味地追求流量。”\n\n活动现场。 澎湃新闻记者 朱伟辉 图\n\n“每天发3个以上视频、疯狂跨科的可能是‘演员医生’”\n来自上海市第一妇婴保健院的男科主治医师杨阳，从5年前开始做健康科普，如今，科普已经变成了他日常生活的一部分，每天下午5点下班后开始拍视频，拍到6点钟结束，再发视频到网络上。\n做科普有时也会给杨阳带来一丝焦虑，…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_27772828",
+          "publishedOn": "2024-06-19T12:53:03.000Z",
+          "wordCount": 54,
+          "title": "“演员医生”批量生产谣言？大V医生：做科普不能一味追求流量",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_27788389",
+          "author": null,
+          "description": "广西水文中心于6月19日7时30分升级发布洪水橙色预警：桂江将全线复涨，上涨2～3米，桂江桂林城区河段（警戒水位146.0米）、阳朔县城河段（警戒水位109.5米）至平乐县城河段（警戒水位99.5米）将出现超警2～3米的洪水，桂林城区河段洪水量级相当于1998年洪水；湘江继续上涨2～3米，全州县城河段（警戒水位150.5米）将出现超警0.5米左右的洪水；贺江继续上涨1～2米，贺江贺州市八步区河段（警戒水位103.5米）将出现超警0.5米左右的洪水；郁江继续上涨0.5米左右，郁江南宁城区河段（设防水位69.4米，警戒水位73.0米）将出现超设防水位0.8米左右的洪水，郁江贵港城区河段（警戒水位41.2米）将出现警戒水位左右的洪水。\n鉴于广西当前的江河洪水防御形势，按照广西水利厅洪水防御工作预案，广西水利厅决定自6月19日10时起将洪水防御三级应急响应提升为二级应急响应。（央视新闻）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_27788389",
+          "publishedOn": "2024-06-19T12:53:03.000Z",
+          "wordCount": 32,
+          "title": "广西水利厅将洪水防御三级应急响应提升为二级应急响应",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_27788421",
+          "author": null,
+          "description": "近日，国家发展改革委印发《关于做好2024年国家骨干冷链物流基地建设工作的通知》，发布新一批20个国家骨干冷链物流基地建设名单。2020年以来，国家发展改革委已分4批将86个国家骨干冷链物流基地纳入重点建设名单，覆盖31个省（自治区、直辖市，含新疆生产建设兵团）。\n下一步，国家发展改革委将继续强化政策规划引领，指导有关地方加强冷链物流设施改造提升发展能级，补齐功能短板强化服务能力，促进冷链物流与相关产业深度融合、集群发展，着力构建国家层面的骨干冷链物流基础设施网络。（国家发展改革委微信公号）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_27788421",
+          "publishedOn": "2024-06-19T12:53:03.000Z",
+          "wordCount": 35,
+          "title": "国家发展改革委发布2024年国家骨干冷链物流基地建设名单",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_27787119",
+          "author": null,
+          "description": "随着《私募证券投资基金运作指引》即将实施，私募行业的净值披露或迎来大变革。\n记者获悉，受新规的影响，没有签署代销协议的机构不得公布私募业绩，一些券商和第三方销售渠道近期陆续停更了私募业绩周报。\n与此同时，有头部私募反馈，已有多家基金销售机构紧急找该公司签署代销协议，以满足新规展示业绩的要求。在业内人士看来，新规或让私募变得更为偏向私域，大量私募产品或无法展示业绩，投资者或机构未来获取私募净值的难度将加大。此外，随着私募代销业务进一步规范，银行和券商等基金代销业务也面临新拐点。（证券时报券商中国）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_27787119",
+          "publishedOn": "2024-06-19T12:23:03.000Z",
+          "wordCount": 33,
+          "title": "多家机构停更私募业绩周报，紧急签代销协议",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_27787160",
+          "author": null,
+          "description": "在2024陆家嘴论坛开幕之际，中国证监会、上海市政府今天（19日）在沪举行关于资本市场支持上海加快“五个中心”建设协作工作机制备忘录签署仪式。中国证监会主席吴清，上海市委副书记、市长龚正见证签署。中国证监会副主席李超，上海市副市长解冬分别致辞，并代表双方签署。上交所理事长邱勇出席。\n加快上海“五个中心”建设是国家重大战略。为更好发挥资本市场在推进上海“五个中心”建设中的作用，中国证监会和上海市政府共同建立协作工作机制，强化协作合力、定期沟通会商、加强信息共享，协调解决推动资本市场高质量发展以及加快上海“五个中心”建设中的重点难点问题。协作工作机制的建立，有助于将协同协作经验做法机制化、常态化；有助于探索形成促进资本市场高质量发展合力，更好服务实体经济和新质生产力发展；有助于共同推动上海“五个中心”建设，支持上海继续当好改革开放排头兵、创新发展先行者。（上海发布）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_27787160",
+          "publishedOn": "2024-06-19T12:23:03.000Z",
+          "wordCount": 35,
+          "title": "中国证监会、上海市政府签署关于资本市场支持上海加快“五个中心”建设协作工作机制备忘录",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_27784553",
+          "author": null,
+          "description": "视频来源：玉渊谭天(00:35)\n6月17日，菲律宾再次非法闯入我仁爱礁邻近海域，并且蓄意制造碰撞事件。中国海警首次对菲运补船只进行登临检查，当时的情形是怎么样的？来看现场画面。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_27784553",
+          "publishedOn": "2024-06-19T11:53:03.000Z",
+          "wordCount": 47,
+          "title": "画面首次公布！中国海警登检菲律宾船只",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_27781930",
+          "author": null,
+          "description": "6月19日，2024陆家嘴论坛在上海举办，中国证监会主席、论坛共同轮值主席吴清出席。\n吴清在演讲中表示，将积极支持在上海建设世界一流交易所，推动股票和债券市场高质量发展，更好发挥期货和衍生品市场市场作用，促进“上海价格”影响力不断提升。\n吴清指出，支持更多外资金融机构在上海展业，鼓励本土机构用好上海发展优势，加快培育一流的投资银行和投资机构。\n\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.run",
+          "link": "https://www.thepaper.cn/newsDetail_forward_27781930",
+          "publishedOn": "2024-06-19T11:53:03.000Z",
+          "wordCount": 37,
+          "title": "证监会主席：积极支持上海建设世界一流交易所，支持更多外资金融机构在上海展业",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_27785726",
+          "author": null,
+          "description": "6月17日至19日，中央军委政治工作会议在陕西延安召开。中共中央总书记、国家主席、中央军委主席习近平出席会议并发表重要讲话。这是17日下午，习近平发表重要讲话。新华社记者 李刚 摄\n\n中央军委政治工作会议17日至19日在陕西延安召开。中共中央总书记、国家主席、中央军委主席习近平出席会议并发表重要讲话。习近平强调，要坚持党对军队绝对领导，贯彻落实新时代政治建军方略，牢牢把握政治建军时代要求，聚焦打好实现建军一百年奋斗目标攻坚战，发扬彻底的自我革命精神，持续深化政治整训，锻造政治坚定、能力过硬的坚强党组织，锻造忠诚干净担当、堪当强军重任的高素质干部队伍，为强军事业提供坚强政治保证。\n\n6月17日至19日，中央军委政治工作会议在陕西延安召开。中共中央总书记、国家主席、中央军委主席习近平出席会议并发表重要讲话。这是17日下午，习近平带领军委一班人和各部门各单位主要负责同志瞻仰王家坪革命旧址。新华社记者 李刚 摄\n\n宝塔山下，延河水畔，革命圣地延安满目葱茏，生机盎然。17日下午3时许，习近平带领军委一班人和各部门各单位主要负责同志瞻仰王家坪革命旧址。王家坪是1937年8月至1947年3月中央军委驻地，是延安时期党中央和中央军委重要决策指挥中心。在中央军委会议室，习近平认真听取讲解，观看反映延安时期重大战役运筹指挥情况的历史图表，感悟党中央和中央军委的领导智慧和艺术。习近平来到毛泽东、周恩来、朱德等老一辈革命家旧居，重温老一辈革命家在延安的革命经历，缅怀他们的丰功伟绩。途经“桃林广场”，习近平了解陕甘宁边区创造性开展双拥运动的情况，同大家共同回味当年充满革命乐观主义精神的战斗生活。在中央军委礼堂，习近平仔细观看历史照片，同大家深入交流，回顾党中央和中央军委领导全民族抗战和解放战争的光辉历程。习近平指出，10年前我们到古田召开全军政治工作会议，今天我们来延安召开军委政治工作会议，再一次寻…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_27785726",
+          "publishedOn": "2024-06-19T11:53:03.000Z",
+          "wordCount": 37,
+          "title": "中央军委政治工作会议在延安召开，习近平出席会议并发表重要讲话",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_27786083",
+          "author": null,
+          "description": "6月19日晚间，上海复星医药（集团）股份有限公司（复星医药，600196.SH)公告，公司控股子公司复星医药新加坡公司通过大宗交易以均价1771.81印度卢比/股（税前）出售所持有的990万股Gland Pharma股份（约占截至2024年6月19日Gland Pharma股份总数的6.01%），交易总对价为175.41亿印度卢比（税前），折合约2.11亿美元（税前）。本次交易每股交易价格较2024年6月18日Gland Pharma股份收盘价格折让约3.69%。交易完成后，本集团持有Gland Pharma的股权比例约为51.83%（本次交易前约为57.84%）、仍保持对Gland Pharma的控股权，Gland Pharma仍为本集团合并报表范围内子公司。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_27786083",
+          "publishedOn": "2024-06-19T11:53:03.000Z",
+          "wordCount": 53,
+          "title": "复星医药：出售控股子公司Gland Pharma Limited 6.01%股权",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_27786087",
+          "author": null,
+          "description": "6月19日，国家防灾减灾救灾委员会针对广西壮族自治区严重暴雨洪涝灾害，启动国家四级救灾应急响应，派出工作组赴灾区实地查看灾情，指导和协助地方做好受灾群众基本生活保障等救灾救助工作。（央视新闻）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_27786087",
+          "publishedOn": "2024-06-19T11:53:03.000Z",
+          "wordCount": 32,
+          "title": "国家防灾减灾救灾委员会对广西启动国家四级救灾应急响应",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_27786031",
+          "author": null,
+          "description": "受持续强降雨及漓江上游水库相继泄洪影响，6月19日，广西桂林各主要河流水位迅速暴涨。根据水文气象资料显示，截至19日17时00分，桂林站水位上升到148.55米，已超过1998年漓江特大洪水148.4米，超警2.55米，为桂林1998年以来最大洪水。桂林海事局于19日9时40分启动防汛一级应急响应，严阵以待、全力做好防汛工作。\n受强降雨影响，桂林市区安新洲、解放桥等多区域发生内涝，漓江蚂蟥洲、大洲岛、小洲岛等多个洲岛人员被困，桂林海事局派出执法人员并协调应急救援队伍前往内涝区及各洲、岛搜寻救助被困人员，分批次进行转移，并为部分地势较高、暂无危险的被困人员送去紧急救援物资。\n截至19日17时，桂林海事局共组织转移被困人员69人，目前转移救助工作仍在进行中。\n另外，桂林漓江船舶、排筏目前仍然保持停航状态。（央视新闻）\n\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.run",
+          "link": "https://www.thepaper.cn/newsDetail_forward_27786031",
+          "publishedOn": "2024-06-19T11:23:04.000Z",
+          "wordCount": 35,
+          "title": "转移被困群众69人！广西桂林遭1998年以来最大洪峰",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_27785820",
+          "author": null,
+          "description": "近日，有市场传闻称“炒美股今年要开始收税了，最晚明年开始收”。对此，富途控股高级副总裁徐礼发声称，“客户信息不离境是基本要求，富途没有任何必要冒着被吊销牌照和巨额罚款的风险去知法犯法，也绝对不会向内地税局或CSRC(中国证监会)等监管和执法部门提供任何客户资料和资金明细。”\n其次，徐礼表示，内地税局发送的通知内容主要强调的是境外收入而非境外投资，那收入数据最清楚的实际是在银行，而非券商。券商的资产变动复杂，且每家券商计算方法和规则都有所不同，因此税局在券商这显然不具备可操作性。\n“再退一步，CRS(共同申报准则)是国家及地区间的信息交换协定，跟企业是港资、陆资、外资无关，富途香港、IB香港、华泰香港，是适用同样的规则和一致性监管原则，并不存在IB作为一家美资公司在香港开展金融业务就可以享受特殊待遇。”徐礼称。（澎湃新闻记者 丁欣晴）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_27785820",
+          "publishedOn": "2024-06-19T11:23:04.000Z",
+          "wordCount": 35,
+          "title": "炒美股将收税？富途控股高级副总裁：没有任何必要冒着被吊销牌照和巨额罚款的风险去知法犯法",
+          "imageUrl": null
+        },
         {
           "id": "https://www.thepaper.cn/newsDetail_forward_27784422",
           "author": null,
@@ -12078,26 +12258,6 @@
           "wordCount": 49,
           "title": "多地“520”领证人数回升，深圳单日办理量为近5年以来最高",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_27452293",
-          "author": null,
-          "description": "好莱坞知名影星“寡姐”斯嘉丽·约翰逊拒绝ChatGPT使用或者模仿其声音。\n当地时间5月20日，斯嘉丽·约翰逊发布声明称，尽管拒绝了向OpenAI提供声音的邀约，但斯嘉丽·约翰逊仍然发现，ChatGPT最新发布的大模型GPT-4o使用了高度类似其声音的Sky语音。\n对此斯嘉丽·约翰逊表示，震惊、愤怒和难以置信，并向OpenAI发送律师函，要求说明Sky确切的创造过程。就在斯嘉丽·约翰逊声明发布不久后，OpenAI宣布暂停使用Sky语音，表示对斯嘉丽·约翰逊的尊重。\n5月14日，OpenAI发布最新多模态大模型GPT-4o（o代表omini，全能），支持文本、音频和图像的任意组合输入，并生成文本、音频和图像的任意组合输出。发布会重点强调了GPT-4o的语音对话能力，并带来了五个语音Breeze、Cove、Ember、Juniper和Sky。其中，Sky被指与斯嘉丽声音相似。（澎湃新闻记者 戚夜云）",
-          "link": "https://www.thepaper.cn/newsDetail_forward_27452293",
-          "publishedOn": "2024-05-21T04:23:03.000Z",
-          "wordCount": 40,
-          "title": "斯嘉丽·约翰逊不想当GPT里的那个“她”：拒绝声音授权，已发律师函",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_27452338",
-          "author": null,
-          "description": "昨晚20时38分，黑龙江兴安煤矿发生安全事故，9人被困，初步判断为向封闭采空区内注入液态二氧化碳时发生泄漏。事故造成5人遇难，经救援4人脱险。事故原因正在进一步调查中。（@央视新闻）",
-          "link": "https://www.thepaper.cn/newsDetail_forward_27452338",
-          "publishedOn": "2024-05-21T04:23:03.000Z",
-          "wordCount": 32,
-          "title": "黑龙江兴安煤矿发生安全事故，造成5人遇难",
-          "imageUrl": null
         }
       ]
     },
@@ -12106,6 +12266,76 @@
       "feedUrl": "https://www.nationalreview.com/feed/",
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
+        {
+          "id": "https://www.nationalreview.com/?p=1652954",
+          "author": "Abigail Anthony",
+          "description": "At Oxford, you have three hours to show what you’ve learned in nine months — a three-hour odyssey from anxiety to elation.",
+          "link": "https://www.nationalreview.com/2024/06/the-last-exam/",
+          "publishedOn": "2024-06-19T10:30:59.000Z",
+          "wordCount": 9731,
+          "title": "The Last Exam",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/06/abigail-anthony-oxford.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1653152",
+          "author": "Armond White",
+          "description": "The revival of Shoeshine reminds us of what true empathy — not the fake ‘social justice’ sort — looks like.",
+          "link": "https://www.nationalreview.com/2024/06/we-need-new-neorealism/",
+          "publishedOn": "2024-06-19T10:30:53.000Z",
+          "wordCount": 9122,
+          "title": "We Need New Neorealism",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/06/showshine-janus-films-2.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1652961",
+          "author": "Joe Pitts",
+          "description": "Athletes today may well get compensated fairly, but perhaps at the cost of accelerating contraction in higher education.",
+          "link": "https://www.nationalreview.com/2024/06/the-new-age-of-college-athletics-will-strain-higher-ed-budgets/",
+          "publishedOn": "2024-06-19T10:30:47.000Z",
+          "wordCount": 9427,
+          "title": "The New Age of College Athletics Will Strain Higher-Ed Budgets",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/06/ncaa-football-championship-game.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1653141",
+          "author": "Mike Pence",
+          "description": "Remarks from NRI’s Regional Seminars.",
+          "link": "https://www.nationalreview.com/2024/06/mike-pence-the-constitutions-safeguards-are-being-whittled-away/",
+          "publishedOn": "2024-06-19T10:30:43.000Z",
+          "wordCount": 10341,
+          "title": "Mike Pence: The Constitution’s Safeguards Are Being Whittled Away",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/06/mike-pence-nri-foundations-of-freedom.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1653004",
+          "author": "Jay Nordlinger",
+          "description": "On the use of the Web; Paul Ryan and the GOP; a historian’s life; an old joke; and more.",
+          "link": "https://www.nationalreview.com/2024/06/me-n-my-algo-c/",
+          "publishedOn": "2024-06-19T10:30:18.000Z",
+          "wordCount": 10163,
+          "title": "Me ’n’ my algo, &c.",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/06/IMG_6107-scaled-copy.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1653370",
+          "author": "The Editors",
+          "description": "This is no way to run a country.",
+          "link": "https://www.nationalreview.com/2024/06/bidens-lawless-mass-amnesty/",
+          "publishedOn": "2024-06-19T10:30:15.000Z",
+          "wordCount": 9217,
+          "title": "Biden’s Lawless Mass Amnesty",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/06/joe-biden-immigration-b.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1652550",
+          "author": "Adam N. Michel",
+          "description": "Slashing tax rates to near century lows is eminently doable if Congress is willing to clear out the accumulated tax-code junk.",
+          "link": "https://www.nationalreview.com/2024/06/tax-cuts-in-2025-republicans-should-think-bigger/",
+          "publishedOn": "2024-06-19T10:30:11.000Z",
+          "wordCount": 8929,
+          "title": "Tax Cuts in 2025: Republicans Should Think Bigger",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2020/10/money-100-bills.jpg?fit=2057%2C1200&ssl=1"
+        },
         {
           "id": "https://www.nationalreview.com/?p=1653117",
           "author": "Matthew X. Wilson",
@@ -16375,56 +16605,6 @@
           "wordCount": 9285,
           "title": "How Collins and Fauci Shattered Our Trust in Public Health",
           "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/05/AnthonyFauci-FrancisCollins.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1638218",
-          "author": "Caroline Downey",
-          "description": "OpenAI said it partnered with the voice-acting industry over many months to create ‘Sky’ but did not use Johannson’s voice.",
-          "link": "https://www.nationalreview.com/news/chatgpt-removes-scarlett-johansson-sounding-narrator-after-actress-deploys-lawyers/",
-          "publishedOn": "2024-05-21T00:17:57.000Z",
-          "wordCount": 8360,
-          "title": "ChatGPT Removes Scarlett Johansson-Sounding Narrator after Actress Deploys Lawyers",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/05/scarlett-johansson-cannes-film-festival.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1638106",
-          "author": "Caroline Downey",
-          "description": "‘I was angered because of the reduction in the bonus and so I just felt like it was self-help.’",
-          "link": "https://www.nationalreview.com/news/michael-cohen-admits-to-stealing-30000-from-trump-organization/",
-          "publishedOn": "2024-05-20T21:44:32.000Z",
-          "wordCount": 8961,
-          "title": "Michael Cohen Admits to Stealing $30,000 from Trump Organization",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/05/michael-cohen-nyc-court.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1638100",
-          "author": "Ryan Mills",
-          "description": "The companies threatened to pull out of Minneapolis over a driver-pay law passed by the progressive city council.",
-          "link": "https://www.nationalreview.com/news/uber-lyft-to-stay-in-minnesota-after-last-minute-deal-with-state-lawmakers/",
-          "publishedOn": "2024-05-20T20:05:45.000Z",
-          "wordCount": 8927,
-          "title": "Uber, Lyft to Stay in Minnesota after Last-Minute Deal with State Lawmakers",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/03/lyft-sign-car-new-york-city.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1638091",
-          "author": "Andrew Stuttaford",
-          "description": "The week of May 13, 2024: A new more intrusive command economy, tariffs, privatization, electric vehicles, and much more.",
-          "link": "https://www.nationalreview.com/2024/05/net-zero-the-race-to-a-new-command-economy/",
-          "publishedOn": "2024-05-20T20:03:29.000Z",
-          "wordCount": 11651,
-          "title": "Net Zero: The ‘Race’ to a New Command Economy",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/05/Ed-Miliband.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1638031",
-          "author": "Zach Kessel",
-          "description": "Legal experts tell NR that the program violates Titles VI and IX of the Civil Rights Act, discriminating against both whites and males.",
-          "link": "https://www.nationalreview.com/news/mit-hit-with-civil-rights-complaint-over-women-of-color-mentorship-program/",
-          "publishedOn": "2024-05-20T19:53:50.000Z",
-          "wordCount": 8887,
-          "title": "MIT Hit with Civil-Rights Complaint over ‘Women of Color’ Mentorship Program",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2021/01/mit-campus.jpg?fit=2057%2C1200&ssl=1"
         }
       ]
     },
@@ -16433,6 +16613,36 @@
       "feedUrl": "https://sspai.com/feed",
       "siteUrl": "https://sspai.com",
       "articles": [
+        {
+          "id": "https://sspai.com/post/88904",
+          "author": "来个板烧鸡腿堡",
+          "description": "编注我们启动了「FUN开玩」户外生活专题，欢迎大家前来分享与之有关的旅行、露营、徒步乃至摄影和户外好物等内容，大家可以带上「FUN开玩」标签投稿相关文章，除了稿酬可拿，我们还会提供神秘惊喜。与此同时， ...查看全文",
+          "link": "https://sspai.com/post/88904",
+          "publishedOn": "2024-06-19T09:30:00.000Z",
+          "wordCount": 773,
+          "title": "新疆的十天，在伊犁遇见人生最美景色",
+          "imageUrl": "https://cdnfile.sspai.com/2024/6/19/article/dde852f5-69ec-6cc4-54a6-d397f74a9fb0.jpeg"
+        },
+        {
+          "id": "https://sspai.com/post/89704",
+          "author": "MMMMMMarcus",
+          "description": "visionOS 2 的表现更像是 visionOS 1 的完全体，在优化细节的同时还引入了这些新功能。查看全文",
+          "link": "https://sspai.com/post/89704",
+          "publishedOn": "2024-06-19T07:00:00.000Z",
+          "wordCount": 1034,
+          "title": "具透 | 这或许才是完全体的 Vision Pro，VisionOS 2 中值得你关注的新功能",
+          "imageUrl": "https://cdnfile.sspai.com/6/19/2024/article/90d2ce9c-a0e4-d73a-74df-a871b5a69ce3.jpeg"
+        },
+        {
+          "id": "https://sspai.com/post/89678",
+          "author": "Microhoo",
+          "description": "记录什么？某天我和朋友在野外徒步，他冷不丁的问了我一个很哲学的问题。你们这个行业的人整天在互联网和信息数据打交道，会不会觉得以前的很多人没了就没了，存在于记忆里但留下记忆的人也会慢慢没了最后就永远消失 ...查看全文",
+          "link": "https://sspai.com/post/89678",
+          "publishedOn": "2024-06-19T06:41:18.000Z",
+          "wordCount": 718,
+          "title": "如果生命可以描出画面，我们该用什么方式记录",
+          "imageUrl": "https://cdnfile.sspai.com/2024/06/17/0ccc2f7d8c9b032e8bea531d4d909846.jpg"
+        },
         {
           "id": "https://sspai.com/post/89127",
           "author": "做点小事儿",
@@ -17482,26 +17692,6 @@
           "wordCount": 982,
           "title": "暴雨和洪涝的季节，这些技巧助你从容自保",
           "imageUrl": "https://cdnfile.sspai.com/article/b86ee5ac-aed5-4852-b96e-de60f86f7d45.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/88861",
-          "author": "孤独熊熊",
-          "description": "你可能面临着平台没有你想看的那一部电影、电视剧、动画，也可能是你追求更高质量的影片，或者你觉得这些平台或者应用过于臃肿……试试搭建一个专属于你自己的影音服务器吧！查看全文",
-          "link": "https://sspai.com/post/88861",
-          "publishedOn": "2024-05-21T03:19:13.000Z",
-          "wordCount": 1217,
-          "title": "自力更生 | 你可能不需要一个 NAS？从零开始搭建自托管的影音服务器",
-          "imageUrl": "https://cdnfile.sspai.com/2024/05/17/fe84e7b6001d59ec2e6d0ec0073784a6.png"
-        },
-        {
-          "id": "https://sspai.com/post/88954",
-          "author": "少数派编辑部",
-          "description": "闲鱼禁止发布数字藏品相关商品，iFixit 发布新 iPad Pro 拆解报告等查看全文",
-          "link": "https://sspai.com/post/88954",
-          "publishedOn": "2024-05-21T00:10:00.000Z",
-          "wordCount": 777,
-          "title": "派早报：英国研究所发布 LLM 安全报告，柳青升任滴滴永久合伙人等",
-          "imageUrl": "https://cdnfile.sspai.com/2024/5/21/article/381a49c0-8d64-b98e-e0f8-8731cd3bc62e.png"
         }
       ]
     },
@@ -20598,6 +20788,26 @@
       "siteUrl": "http://nytimes.com",
       "articles": [
         {
+          "id": "https://cn.nytimes.com/technology/20240619/nvidia-most-valuable-company/dual",
+          "author": null,
+          "description": "TRIPP MICKLE, JOE RENNISON2024年6月19日 The New York Times\nMove over, Microsoft and Apple. The stock market has a new king.\n微软和苹果，让开让开。股市的新王者驾到。\nOn Tuesday, Nvidia leapfrogged two of tech’s most storied names to become the world’s most valuable public company, according to data from S&P Global. Its ascent has been powered by the boom in generative artificial intelligence and surging demand for the company’s chips — known as graphics processing units, or GPUs — which have made it possible to create A.I. systems.\n标准普尔全球的数据显示，周二，英伟达超越了这两家最知名的科技企业，成为全球市值最高的上市公司。它的崛起得益于生成式人工智能的蓬勃发展，以及对该公司的芯片——也就是图形处理器，即GPU——需求激增，这些芯片使得创建人工智能系统成为了可能。\nNvidia’s rise is among the fastest in market history. Just two years ago, the company’s market valuation was a little over $400 billion. Now, in the span of a year, it…",
+          "link": "https://cn.nytimes.com/technology/20240619/nvidia-most-valuable-company/dual",
+          "publishedOn": "2024-06-19T09:36:01.000Z",
+          "wordCount": 1072,
+          "title": "英伟达超越微软，成为全球市值最高公司",
+          "imageUrl": "https://static01.nyt.com/images/2024/06/18/multimedia/datawrapper_sVtD1-promo/datawrapper_sVtD1-promo-articleLarge-v3.png"
+        },
+        {
+          "id": "https://cn.nytimes.com/asia-pacific/20240619/saving-korea-gyemoim/dual",
+          "author": null,
+          "description": "KRISSI DRIVER2024年6月19日 Arsh Raziuddin\nLast fall, Jina Kim and two of her friends splurged on a two-night stay at the Ananti at Busan Cove, a luxury resort in Busan, South Korea.\n去年秋天，吉娜·金和两个朋友在韩国釜山的豪华度假胜地釜山湾阿南蒂度过了奢侈的两个晚上。\nThe resort, where rooms start at $369 a night, features infinity pools, spas, eight restaurants, a private coastal walk and beach area, and a 4,600-meter “Water House” — an indoor pool and sauna fed by natural hot-spring water.\n这个度假村的客房每晚起价369美元，设有无边泳池、水疗中心、八家餐厅、私人海滨步道和海滩区，以及一个4600米的“水屋”——一个使用天然温泉水的室内泳池和桑拿房。\n“We just spent the whole day in the resort hotel, swimming, eating and drinking,” said Ms. Kim, a 32-year-old former teacher who is now a stay-at-home mother.\n“我们在度假酒店里呆了一整天，游泳、吃喝，”32岁的吉娜·金说。她以前是一名教师，现在是全职妈妈。\nMs. Kim and her friends weren’t worried about how they wou…",
+          "link": "https://cn.nytimes.com/asia-pacific/20240619/saving-korea-gyemoim/dual",
+          "publishedOn": "2024-06-19T08:36:02.000Z",
+          "wordCount": 1787,
+          "title": "热爱“组团”理财的韩国人：一起存钱一起花",
+          "imageUrl": "https://static01.nyt.com/images/2024/06/12/business/00Gyemoim-Groups/00Gyemoim-Groups-articleLarge.jpg"
+        },
+        {
           "id": "https://cn.nytimes.com/world/20240619/putin-north-korea-kim/dual",
           "author": null,
           "description": "PAUL SONNE2024年6月19日克里姆林宫发布的视频截图显示，俄罗斯总统普京和朝鲜领导人金正恩周三早间在平壤一个机场举行的欢迎仪式上。 Kremlin, via Reuters\nPresident Vladimir V. Putin of Russia has arrived in North Korea, according to Russian state media, visiting for the first time in 24 years after vowing to bring ties with Pyongyang to new heights and jointly rebuff what he called the “global neocolonial dictatorship” of the United States.\n据俄罗斯官方媒体报道，俄罗斯总统普京已抵达朝鲜，这是他24年来首次访问该国，此前他放话要将与平壤的关系提升到新的高度，共同抵制他所称的美国“全球新殖民主义独裁统治”。\nThe North’s leader, Kim Jong-un, met the Russian president on the airport tarmac early Wednesday local time, Russian state news agencies reported.\n据俄罗斯官方新闻机构报道，当地时间周三早些时候，朝鲜领导人金正恩在机场停机坪迎接俄罗斯总统。\nMr. Putin arrived in the dead of night, descending from his airplane to a red carpet lined by uniformed guards to embrace the waiting Nort…",
@@ -21446,26 +21656,6 @@
           "wordCount": 1753,
           "title": "美国拥抱廉价“中国制造”的时代已经终结",
           "imageUrl": "https://static01.nyt.com/images/2024/05/19/multimedia/18dc-china-econ-01-tlzw/18dc-china-econ-01-tlzw-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/technology/20240521/china-russia-deepfake/dual",
-          "author": null,
-          "description": "王月眉, SIYI ZHAO2024年5月21日宾夕法尼亚大学的乌克兰学生奥尔加·洛伊克的人工智能版本出现在中国社交媒体网站小红书上。 Xiaohongshu\nThe woman declares, in Mandarin inflected with a slight accent, that Chinese men should marry “us Russian women.” In other videos on the Chinese short video platform Douyin, she describes how much she loves Chinese food, and hawks salt and soap from her country. “Russian people don’t trick Chinese people,” she promises.\n这个女人用略带口音的普通话宣称，中国男人应该娶“我们俄罗斯女人”。在中国短视频平台抖音上的其他视频中，她描述自己有多喜欢中国食物，并兜售来自俄罗斯的盐和肥皂。“俄罗斯人不骗中国人，”她承诺。\nBut her lip movements don’t quite match the audio of the videos, which were posted recently to an account using the name “Ladina.” That is because it is footage of Shadé Zahrai, an Australian career strategist with more than 1.7 million TikTok followers, that has been modified using artificial intelli…",
-          "link": "https://cn.nytimes.com/technology/20240521/china-russia-deepfake/dual",
-          "publishedOn": "2024-05-21T04:36:02.000Z",
-          "wordCount": 1504,
-          "title": "“俄罗斯美女”爱中国？一场深伪视频社媒狂欢",
-          "imageUrl": "https://static01.nyt.com/images/2024/05/17/video/china-deepfake-cover/china-deepfake-cover-articleLarge-v3.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/business/20240521/china-companies-tiktok-overseas/dual",
-          "author": null,
-          "description": "袁莉2024年5月21日 Lisk Feng\nOne April afternoon in 2018, Zhang Yiming, the founder of the Beijing-based online media company ByteDance, got a notice from Chinese regulators to shut down an app where people shared jokes and silly videos.\n2018年4月的一个下午，北京网络媒体公司字节跳动的创始人张一鸣收到中国监管机构的通知，要求他关闭一款人们分享笑话和搞笑视频的应用程序。\nHe followed orders and expressed his deep remorse in a public apology. “I feel regretful because I have let down the guidance and expectations of the supervisory authorities all along,” he wrote.\n他照办了，并在一份公开道歉中表示了自责和内疚。“自责是因为辜负了主管部门一直以来的指导和期待，”他写道。\nMr. Zhang pledged nine remedial measures. On top of the list: Build up the Communist Party’s presence at ByteDance and educate its employees to think from the perspectives of the party and the government.\n张一鸣承诺采取九项补救措施。最重要的措施是，在字节跳动内部加强党建工作，教育员工从党和政府…",
-          "link": "https://cn.nytimes.com/business/20240521/china-companies-tiktok-overseas/dual",
-          "publishedOn": "2024-05-21T01:36:02.000Z",
-          "wordCount": 1444,
-          "title": "中国公司的困境：在国内面临威权主义，在国外面临敌意",
-          "imageUrl": "https://static01.nyt.com/images/2024/05/02/business/00nw-tiktok/00nw-tiktok-articleLarge.jpg"
         }
       ]
     },
@@ -22022,36 +22212,6 @@
           "publishedOn": "2024-05-22T01:59:00.000Z",
           "wordCount": 287,
           "title": "新京雅集——以“读史上瘾”的方式打开中国历史，有多上瘾？",
-          "imageUrl": null
-        },
-        {
-          "id": "1e0536e0210b50ddf588a821a2ee1fa7",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E7%BA%AA%E5%BF%B5%E8%89%BE%E4%B8%BD%E4%B8%9D%C2%B7%E9%97%A8%E7%BD%97%EF%BC%9A%E4%BD%A0%E8%BF%9F%E6%97%A9%E4%BC%9A%E5%9C%A8%E5%A5%B9%E7%9A%84%E6%95%85%E4%BA%8B%E9%87%8C%EF%BC%8C%E5%92%8C%E8%87%AA%E5%B7%B1%E9%9D%A2%E9%9D%A2%E7%9B%B8%E9%81%87",
-          "publishedOn": "2024-05-21T01:55:00.000Z",
-          "wordCount": 312,
-          "title": "纪念艾丽丝·门罗：你迟早会在她的故事里，和自己面面相遇",
-          "imageUrl": null
-        },
-        {
-          "id": "0523e855fe68c2a4389c02dcf1b0ecc5",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E6%88%91%E4%BB%AC%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%8E%BB%E5%B0%8F%E8%A1%8C%E6%98%9F%EF%BC%9F",
-          "publishedOn": "2024-05-21T01:55:00.000Z",
-          "wordCount": 329,
-          "title": "我们为什么要去小行星？",
-          "imageUrl": null
-        },
-        {
-          "id": "d92c61015a7acaf436aa76b46604f087",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E9%98%BF%E7%94%B2%EF%BC%9A%E4%B8%8B%E9%9B%A8%E4%B8%8B%E7%8C%AA%E4%B8%8B%E9%9D%A2%E6%9D%A1%EF%BC%9F%E9%80%97%E4%B9%90%E8%AF%97%E8%A1%8C%E4%B8%AD%E5%86%92%E7%9D%80%E5%82%BB%E6%B0%94%E7%9A%84%E6%99%BA%E6%85%A7",
-          "publishedOn": "2024-05-21T01:55:00.000Z",
-          "wordCount": 339,
-          "title": "阿甲：下雨下猪下面条？逗乐诗行中冒着傻气的智慧",
           "imageUrl": null
         }
       ]
