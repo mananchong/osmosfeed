@@ -6,6 +6,16 @@
       "siteUrl": "https://rweekly.org/atom.xml",
       "articles": [
         {
+          "id": "https://rweekly.org/2024-W27.html",
+          "author": null,
+          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Colin, with help from the R Weekly team members and contributors.\nHighlight\nA timeline of R’s first 30 years\nHow to load and save vector data in R\nR Addicts Paris: Promoting Diversity in R\nInsights\nA timeline of R’s first 30 years\nR vs Power BI\nBeyond R Shiny: PyShiny’s Clean Design For Dynamic Plot Management\nR in the Real World\nR Addicts Paris: Promoting Diversity in R\nThe Crucial Role of Release Control in R for Healthcare Organizations\nPolynomial Support Vector Machines: Why Warner Music Entering the South Asia Market?\nResources\nNew Packages\n📦 Go Live for More New Pkgs 📦\n -->\n📦 Keep up to date wtih CRANberries 📦\nUpdated Packages\n🔍 Search on R-universe 🔍\nx13binary 1…",
+          "link": "https://rweekly.org/2024-W27.html",
+          "publishedOn": "2024-07-01T00:00:00.000Z",
+          "wordCount": 5666,
+          "title": "R Weekly 2024-W27 30 years of R, Saving vectors, R Addicts Paris",
+          "imageUrl": "https://rweekly.org/public/facebook.png"
+        },
+        {
           "id": "https://rweekly.org/2024-W26.html",
           "author": null,
           "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Eric Nantz, with help from the R Weekly team members and contributors.\nHighlight\nJoining the flock from R: working with data on MotherDuck\nSculpting the Moon in R: Subdivision Surfaces and Displacement Mapping\nnanoparquet 0.3.0\nInsights\nIgnoring the IID assumption isn’t a great idea\nCreating Email Threads\nDigits Dilemma\nConstructing HTML with functions\nR in the Real World\nThe evolution of squad compositions at UEFA European Championships\nR in Academia\nMind the Gap: Using R/exams to Ease the Transition into STEM Studies\nOrdinal State Transition Models as a Unifying Risk Prediction Framework\nResources\nrOpenSci News Digest, June 2024\nData Cleaning with R Master Class is Live\nNe…",
@@ -511,16 +521,6 @@
           "wordCount": 264,
           "title": "陈力卫读《翻译与近代日本》｜明治日本的翻译面向",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_27562555",
-          "author": null,
-          "description": "梁展（章静绘）\n\n今年6月3日是卡夫卡（1883-1924）逝世一百周年。一个多世纪前，卡夫卡生活在奥匈帝国即将崩溃的时代。1914年，奥匈帝国对塞尔维亚发动复仇战争，原计划中的局部战争迅速扩大为一场“世界大战”。1916年11月，奥匈帝国皇帝弗朗茨·约瑟夫离世。1916年冬至1917年春，卡夫卡与菲莉丝·鲍威尔的爱情复燃，也在此期间，卡夫卡迎来了创作上的高峰。1918年，伴随第一次世界大战的结束，奥匈帝国解体。\n自此，从十七、十八世纪开启的民族主义浪潮席卷全球，帝国的崩解与民族国家的建构齐头并进，直至1990年代初方才显出颓势。然而，帝国的幽灵仍在二十世纪游荡。中国社会科学院外国文学研究所梁展教授的新著《帝国的想象：文明、族群与未完成的共同体》从全球史的视野出发，选取发生在这一漫长的历史过程中的几桩案例，揭示了构成当今流行的民族主义与帝国理论的诸多复杂的文学想象因素，以及隐藏在这些理论论述背后的殖民主义和自由帝国主义色彩。最近，《上海书评》围绕与此书相关的若干问题专访了梁展。\n\n《帝国的想象：文明、族群与未完成的共同体》，梁展著，生活·读书·新知三联书店，2023年8月出版，351页，49.00元\n\n《帝国的想象》涉猎人物跨度很大：卡夫卡、康有为、贝尔尼埃（François Bernier）、波德莱尔、安德森父子（James & Benedict Anderson）。书的标题和导言显示，“帝国”是串连全书的线索，您说“二十世纪是民族-国家与帝国相互纠缠的历史”。为什么会关注“帝国”？您认为这本书是一本后殖民主义著作吗？\n梁展：我的专业是西方文学理论和比较文学，经常要处理近现代德国和法国的文学现象，于是非常自然地会试图获得一种全球性的眼光。从上世纪末到本世纪初，历史学界发生了一系列方法论革命，全球史视野成了越来越多学者的研究取向。我最早关注到全球史研究方法的契机，是参与刘禾…",
-          "link": "https://www.thepaper.cn/newsDetail_forward_27562555",
-          "publishedOn": "2024-06-02T03:02:03.000Z",
-          "wordCount": 186,
-          "title": "梁展谈卡夫卡、帝国与共同体",
-          "imageUrl": null
         }
       ]
     },
@@ -529,6 +529,206 @@
       "feedUrl": "https://feedx.net/rss/thepaper.xml",
       "siteUrl": "http://thepaper.cn",
       "articles": [
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_27921628",
+          "author": null,
+          "description": "澎湃新闻记者从中国工程物理研究院方面获悉，中国共产党党员、中国科学院院士、金属物理学家、中国工程物理研究院研究员宋家树同志因病医治无效，于2024年6月30日在北京逝世，享年93岁。 \n宋家树同志1932年3月21日出生于湖南长沙，祖籍安徽舒城。1953年10月加入中国共产党。1954年毕业于东北人民大学(今吉林大学)物理系并留校任教，1958年该校研究生毕业；1960年二机部北京第九研究所(中国工程物理研究院前身)工作，历任二二一厂102车间副主任，国营九O三厂副总工程师、副厂长兼总工程师，核工业部军工局总工程师，核工业总公司军用部总工程师，中国工程物理研究院科技委委员、顾问。1993年当选中国科学院院士。 \n宋家树同志长期致力于特种材料研究，在裂变材料成分控制、核材料工艺、同位素交换方法等方面，进行了系统的开创性研究，解决了关键技术及制造工艺问题，参与第一颗原子弹、氢弹核心部件关键技术攻关，为我国核武器事业、人才培养作出了重要贡献。上世纪八十年代中期，他组织开展核军备控制科学技术研究，是我国核军备控制科技领域的开拓者、核军控核查技术奠基人，为维护国家安全利益做出了开创性贡献。\n宋家树同志曾获国家科技进步特等奖1项、国家发明三等奖2项，以及多项部委级科技进步奖。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_27921628",
+          "publishedOn": "2024-07-01T14:53:03.000Z",
+          "wordCount": 38,
+          "title": "中国科学院院士、金属物理学家宋家树逝世，享年93岁",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_27924465",
+          "author": null,
+          "description": "7月1日，据武汉市文旅局的消息，今天起，武汉市全市57家A级旅游景区中，包括黄鹤楼公园等在内的55家A级旅游景区全面取消入园预约要求。\n消息指出，这55家A级景区，采取最大承载量制度，在游客量不超过最大承载量的情况下，游客可以随时现场购票入园，此举无疑将为市民游客带来更为便捷的旅游体验。\n目前仍实行限流措施的2家景区为湖北省博物馆和武汉革命博物馆。\n（澎湃新闻记者 唐莹莹）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_27924465",
+          "publishedOn": "2024-07-01T14:23:02.000Z",
+          "wordCount": 37,
+          "title": "武汉全市55家A级旅游景区取消入园预约要求",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_27918681",
+          "author": null,
+          "description": "香港特区政府7月1日在宪报刊登2024年授勋及委任太平绅士名单，共502人获行政长官颁授勋衔及作出嘉奖。授勋名单当日在特区政府宪报上刊登，这是香港回归以来第27份授勋名单。\n值得注意的是，演员刘德华获颁授银紫荆星章。\n早在2004年，刘德华就已获荣誉勋章，2008年则获委任为非官守太平绅士，2016年刘德华再获铜紫荆星章。今次再度升级，获银紫荆星章。\n刘德华的授勋颁奖词这样写道：刘先生从事演艺事业超过四十年，在娱乐界享誉盛名。他被誉为香港乐坛“四大天王”之一，曾参演超过170部电影，屡获殊荣，更于2024年当选中国电影家协会副主席。多年来，刘先生热心公益，支持残疾人士体育发展，并创立慈善基金支援弱势社群，贡献甚丰，现获颁授银紫荆星章。\n今年获颁香港特区授勋及嘉奖制度最高荣誉大紫荆勋章的共5人，他们是行政会议非官守议员及特区立法会议员廖长江、全国港澳研究会顾问刘兆佳、香港大学饶宗颐学术馆馆长李焯芬、恒基兆业地产集团主席李家杰、香港福建社团联会荣誉主席林树哲。\n特区立法会议员梁美芬、特区高等法院前上诉法庭法官袁家宁等12人获得金紫荆星章。特区立法会议员陈勇、特区高等法院原讼法庭法官欧阳桂如等24人获银紫荆星章。\n此外，14人获纪律部队及廉政公署卓越奖章，40人获铜紫荆星章，46人获纪律部队及廉政公署荣誉奖章，105人获荣誉勋章，86人获行政长官社区服务奖状，170人获行政长官公共服务奖状。另外，共有59人获行政长官委任为太平绅士。\n勋衔颁授典礼将于今年稍后时间举行。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_27918681",
+          "publishedOn": "2024-07-01T13:53:03.000Z",
+          "wordCount": 36,
+          "title": "刘德华获银紫荆星章，演艺事业、公益精神获肯定",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_27924462",
+          "author": null,
+          "description": "美股三大指数集体高开，道指涨0.3%，纳指涨0.23%，标普500指数涨0.27%。Spirit AeroSystems涨逾4%，获波音以37.25美元/股收购。蔚来涨逾4%，6月交付新车21209辆，同比大增98.1%。理想汽车涨近4%，6月交付47774辆，同比增47%。\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.run",
+          "link": "https://www.thepaper.cn/newsDetail_forward_27924462",
+          "publishedOn": "2024-07-01T13:53:03.000Z",
+          "wordCount": 35,
+          "title": "美股三大指数集体高开，道指涨0.3%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_27923564",
+          "author": null,
+          "description": "“在未来投资中国的海外长线资金中，中东、东南亚或将成为主要来源地。”国海富兰克林基金总经理兼投资总监徐荔蓉在接受澎湃新闻记者专访时表示，如果中国经济能够维持向上的稳定状态，各类资金大概率会加速涌入。\n展望未来，徐荔蓉表示，他对于未来1年、3年甚至5年的中国经济及A股市场总体持乐观态度。“偏乐观的核心原因在于当前市场的过度悲观预期。而过度悲观是一定会被修正的，至于能修正多少、持续时间多长还有待考量，但修正自身所带来的力量，就足以支持股市有相对较好的收益。”\n此外，徐荔蓉进一步指出，近期房地产政策的加码在一定程度上稳定了经济，待房地产行业企稳后，中国经济将展现出更多的竞争力。同时，徐荔蓉也对未来中国汽车出口预期抱以信心，中国汽车出口体量过去几年增长迅猛，未来几年有望达到800万辆左右，而这也将会转化为经济增长动力的一部分。（澎湃新闻记者 丁欣晴）\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.run",
+          "link": "https://www.thepaper.cn/newsDetail_forward_27923564",
+          "publishedOn": "2024-07-01T13:23:02.000Z",
+          "wordCount": 36,
+          "title": "国海富兰克林基金总经理徐荔蓉：中东、东南亚资金或将长期流入中国",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_27923718",
+          "author": null,
+          "description": "7月1日，国内商品期货夜盘开盘多数上涨，铁矿、焦炭等涨超1%，橡胶、棉纱等小幅上涨；烧碱、纸浆等小幅下跌。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_27923718",
+          "publishedOn": "2024-07-01T13:23:02.000Z",
+          "wordCount": 32,
+          "title": "国内商品期货夜盘开盘多数上涨，铁矿、焦炭等涨超1%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_27921157",
+          "author": null,
+          "description": "河北唐山又有厅官被查。\n7月1日，河北省纪委监委发布消息：唐山市委常委、曹妃甸区委书记侯旭涉嫌严重违纪违法，目前正接受省纪委监委纪律审查和监察调查。\n公开资料显示，侯旭，男，汉族，1970年9月出生，在职大学，中共党员，现任唐山市委常委、曹妃甸区委书记，唐山曹妃甸经济技术开发区（中国〈河北〉自由贸易试验区曹妃甸片区）党工委书记。\n根据河北省纪委监委网站公开的消息，自今年4月5日以来被查的8名省管干部均与唐山有关。\n其中，4月5日，唐山市副市长李建忠被查；4月9日，唐山市人大常委会副主任、迁西县委书记李贵富被查；4月30日，唐山市人大常委会原主任郭彦洪被查；5月21日， 唐山市人大常委会党组书记、主任杨洁被查。\n李建忠曾任迁西县委书记、滦州市委书记等；郭彦洪曾任唐山市副市长，唐山市委常委、宣传部部长，唐山市政协主席等；杨洁曾任唐山市曹妃甸区区长、曹妃甸工业区党工委副书记兼管委会常务副主任，唐山市委常委、宣传部部长等。\n5月31日，河北省发展和改革委员会党组成员、副主任韩国强宣告落马。韩国强也曾长期在唐山工作，先后担任迁安市市长、迁安市委书记等，2021年出任省发改委副主任。\n6月6日下午，河北省纪委监委网站发布消息称，唐山师范学院党委原书记孙贵石涉嫌严重违纪违法，目前正接受省纪委监委纪律审查和监察调查。\n唐山师范学院是河北省省属公办全日制普通本科高等院校，位于唐山市高新技术开发区。公开报道显示，1962年11月出生的孙贵石已于2023年卸任唐山师范学院党委书记职务，后以唐山市老促会会长的身份露面。\n在到高校工作之前，孙贵石先后担任过唐山市城管局局长，唐山市路北区委副书记、区长，唐山市路北区委书记，唐山市人大常委会党组成员，唐山市曹妃甸区委书记、曹妃甸工业区党工委书记兼管委会主任，唐山市委常委、曹妃甸区委书记、曹妃甸工业区党工委书记兼管委会主任等，直至2021年出任唐山师范学院党委书记。\n6月28日下午，河北省纪委监委发布消息：唐山市副市长郝志军涉嫌严重违纪违法，目前正接受省纪委监委纪律审查和监察调查。\n公开资料显示，郝志军，男，汉族，1969年4月生，中央党校在职大学，中共党员。他曾任唐山市丰南区副区长，丰南区委常委、副区长，丰南区委常委、常务副区长，丰南区委副书记、区长，唐山市发改委党组书记、主任，唐山市副市长。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_27921157",
+          "publishedOn": "2024-07-01T12:53:03.000Z",
+          "wordCount": 40,
+          "title": "河北唐山8名省管干部接续被查：唐山市委常委侯旭接受审查调查",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_27919776",
+          "author": null,
+          "description": "7月1日，林树明和林树敏收到了辽宁省岫岩县检察院于6月28日对两人分别作出的《不起诉决定书》。\n\n2022年12月8日，被羁押了3年的林树明来到岫岩县法院参加庭审。受访者 供图\n\n林树明和林树敏是“替父追债被控寻衅滋事案”的两名当事人。澎湃新闻（www.thepaper.cn）此前报道，岫岩县汤沟镇老爷庙村村民林忠衡的四个子女——大女儿林淑清、二儿子林树明（今年70岁）、三儿子林树敏（今年64岁）和小女儿林影，在替父追债的过程中均被卷入刑事案件。\n2019年12月9日，林树明最先被抓，被指涉嫌寻衅滋事、非法拘禁等罪名；3天后，林树敏被刑拘；2020年9月9日，林影被刑拘；又3天后，林淑清也被刑拘。\n此后，岫岩县检察院指控林树明和林树敏犯寻衅滋事罪，向岫岩县法院提起公诉。后岫岩县检察院又指控林忠衡的四个子女犯虚假诉讼罪。\n最终，岫岩县法院认定林家四兄妹均不构成虚假诉讼罪。对于林树明和林树敏被控犯寻衅滋事罪部分，岫岩县法院曾两次作出有罪判决，但两次被鞍山市中院撤销判决并发回重审。岫岩县法院第三次审理该案期间，岫岩县检察院提出林树明、林树敏寻衅滋事一案，因证据不足，不符合起诉条件，决定对林树明、林树敏撤回起诉。岫岩县法院于2024年6月6日裁定准予岫岩县检察院撤回对林树明、林树敏的起诉。\n岫岩县检察院作出的《不起诉决定书》显示，岫岩县公安局移送起诉认定：被害人刘某邦、陈某祥、刘某良等人分别曾向林忠衡（已死亡）借款并根据林忠衡的要求支付高额利息，在林忠衡生病后，被不起诉人林树明、林树敏等人在向上述被害人追债过程中有寻衅滋事、诈骗的犯罪事实。本案发回重审后经补充侦查，本院仍然认为岫岩县公安局认定的犯罪事实不清、证据不足。依照《中华人民共和国刑事诉讼法》第一百七十五条第四款的规定，决定对林树明和林树敏不起诉。\n张铁雁、孙大伟、张新宇是林树明和林树敏的辩护人。三名辩护人介绍，当地侦查机关曾将该案定性为恶势力犯罪，审查起诉时，恶势力被“摘帽”。\n因岫岩县法院对林树明和林树敏作出过有罪判决。因此，根据《国家赔偿法》相关规定，岫岩县法院系该案的赔偿义务机关，他们将向岫岩县法院提出国家赔偿申请。三名辩护人表示，林树明和林树敏被长时间限制人身自由分别长达3年、3年半之久，按照最高法于今年5月公布的侵犯公民人身自由的国家赔偿金最新计算标准（每日462.44元），两人获得的赔偿金均将超过50万元。\n此前，因林淑清和林影分别被羁押258天、261天，岫岩县检察院于2023年11月决定分别赔偿林淑清和林影侵犯人身自由赔偿金15.2万元、15.4万元。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_27919776",
+          "publishedOn": "2024-07-01T12:53:03.000Z",
+          "wordCount": 44,
+          "title": "“替父追债被控寻衅滋事案”检方撤诉，当事人将申请国家赔偿",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_27923149",
+          "author": null,
+          "description": "根据产业发展和行业管理需要，有关单位提出工业和信息化部脑机接口标准化技术委员会的筹建方案。为进一步听取社会各界意见，现将筹建方案予以公示，截止日期为2024年7月31日。其中，工业和信息化部脑机接口标准化技术委员会（筹）主任委员、副主任委员拟邀请相关部门、研究机构的负责同志等担任，委员拟由脑机接口领域的企业、科研院所、高校等产业和技术专家担任，秘书处挂靠单位为中国电子技术标准化研究院。挂靠单位将为秘书处提供必要工作条件和经费配套保障。成立后工作计划包括：优化完善标准化路线图、加快关键技术标准研制、推动标准宣贯实施。（工信部网站）\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.run",
+          "link": "https://www.thepaper.cn/newsDetail_forward_27923149",
+          "publishedOn": "2024-07-01T12:53:03.000Z",
+          "wordCount": 32,
+          "title": "工业和信息化部脑机接口标准化技术委员会筹建方案公示",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_27923183",
+          "author": null,
+          "description": "巴西纳塔尔国际机场7月1日通报，一架从西班牙飞往乌拉圭的航班当日凌晨在巴西东北部的纳塔尔国际机场紧急迫降，至少30名乘客受伤。\n纳塔尔国际机场说，这架航班隶属于西班牙欧罗巴航空公司，载有325名乘客，从西班牙马德里出发，前往乌拉圭首都蒙得维的亚。当地时间1日凌晨2时32分，航班由于遇到强气流颠簸向机场请求紧急迫降。\n纳塔尔当地医疗急救机构确认接治了至少30名乘客，有超过10人被送往当地医院。伤者大部分是由于颠簸而撞击到头部，一些人颈椎骨折、面部和胸部受伤。\n据机场方面透露，这架航班是波音787-9型“梦想客机”。\n欧罗巴航空公司发表声明说，该航班由于“遇到强气流并出于安全原因”改道纳塔尔，并表示有7名乘客因不同程度的伤势需要治疗，还有多名乘客受轻伤。（新华社）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_27923183",
+          "publishedOn": "2024-07-01T12:53:03.000Z",
+          "wordCount": 33,
+          "title": "西班牙一客机在巴西紧急迫降，至少30人受伤",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_27919891",
+          "author": null,
+          "description": "7月1日，外交部发言人毛宁主持例行记者会。有记者提问，美国国家航空航天局（NASA）发言人费斯·马可28日称，中国与法国、意大利、巴基斯坦和欧洲航天局合作开展从月球背面采集样本的任务，但并未寻求NASA的参与。虽然中国欢迎世界各地的科学家参与研究月壤，但中国没有直接邀请NASA。发言人对此有何评论？\n毛宁表示，中国政府对中美航天交流合作持开放态度，嫦娥六号任务向全球发布了机遇公告，我们也欢迎世界各国参与研究月球样品。\n“美方似乎忘了‘沃尔夫条款’等国内法的存在，不知道美国的科学家和相关机构会不会被本国政府允许参与对华交流合作。”毛宁称。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_27919891",
+          "publishedOn": "2024-07-01T12:53:03.000Z",
+          "wordCount": 38,
+          "title": "NASA称中国未邀请其参与研究月壤，外交部：美国政府允许吗？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_27919762",
+          "author": null,
+          "description": "今天，是中国共产党成立103周年。今天早晨，天安门广场举行升旗仪式，来自全国各地的4.3万名群众预约观看了升旗仪式。\n\n早上4点50分，随着国歌响彻天安门广场，鲜艳的五星红旗升起，全场齐声高唱国歌。\n\n武汉大学新闻与传播学院2020级香港籍本科生杜汶婧：去了不同省份和城市之后，慢慢感觉到千山一脉万水同源，其实香港跟祖国的关系永远是非常紧密的。我也希望用武汉大学这4年的所学所得，回馈社会，参与到建设祖国当中，贡献小小的一份力量。\n\n中国航天科技集团“航天精神青年模范”获得者 侯路：看着冉冉升起的国旗，就和我脑海中的火箭发射重叠在了一起，最激动的是我们的仪仗队队员在扬起国旗的那一瞬间，我觉得我们祖国真的是越来越昌盛，我们的航天事业一定会蒸蒸日上。\n\n观礼群众：我们是从陕西西安来的，是第一次这么近距离去观察到北京升国旗，以前都只在电视上看过，今天第一次感受到，就感觉很激动。\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.run",
+          "link": "https://www.thepaper.cn/newsDetail_forward_27919762",
+          "publishedOn": "2024-07-01T12:53:03.000Z",
+          "wordCount": 57,
+          "title": "天安门广场举行升旗仪式庆祝建党103周年",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_27922249",
+          "author": null,
+          "description": "7月1日晚间，中润资源投资股份有限公司（*ST中润，000506.SZ)公告，7月1日，公司股票收盘价为0.96元/股，首次低于人民币1元。公司股票存在可能因股价低于面值被终止上市的风险。\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.run",
+          "link": "https://www.thepaper.cn/newsDetail_forward_27922249",
+          "publishedOn": "2024-07-01T12:23:02.000Z",
+          "wordCount": 32,
+          "title": "*ST中润：股票存在可能因股价低于面值被终止上市的风险",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_27922315",
+          "author": null,
+          "description": "日本内阁府1日公布的今年第一季度国内生产总值（GDP）修正数据显示，由于内需疲软，经季节调整后，当季日本实际GDP环比下降0.7%，按年率计算下降2.9%。\n内阁府6月公布的二次统计报告显示，第一季度日本GDP环比下降0.5%，按年率计算下降1.8%。日本《朝日新闻》报道说，此次向下修正经济降幅反映了日本经济停滞问题愈发严重。\n修正数据显示，内需方面，公共投资从环比增长3.0%下调至减少1.9%，住宅投资从环比下降2.5%下调至下降2.9%。占日本经济比重二分之一以上的个人消费维持环比下降0.7%不变，连续四个季度负增长。\n日本农林中金综合研究所理事研究员南武志表示，日本季度经济数据呈现明显下滑趋势，个人消费萎靡仍然是日本经济面临的挑战。（新华社）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_27922315",
+          "publishedOn": "2024-07-01T12:23:02.000Z",
+          "wordCount": 33,
+          "title": "日本向下修正第一季度经济降幅",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_27921626",
+          "author": null,
+          "description": "国家防汛抗旱总指挥部办公室、应急管理部今天（1日）继续组织防汛专题视频会商调度，视频调度湖南、安徽、江西等9个省份，研判汛情发展态势，进一步安排部署重点地区防汛抢险救灾工作。\n会商指出，当前广西、贵州至长江中下游地区强降雨天气持续，长江中下游及洞庭湖、鄱阳湖水系，太湖流域等持续超警，湖南、江西、广西、贵州等地降水集中，中小河流洪水、山洪、滑坡、泥石流和城市内涝等多灾并发风险高，黄淮地区需特别警惕旱涝急转的风险。\n会商要求：\n要紧盯重点部位，做好巡查防守，高度重视圩垸堤防管涌、渗水等险情以及重要堤防、水库的巡查防守，加密巡查频次，落实抢险方案措施。\n要狠抓预警响应联动机制和临灾预警“叫应”机制落实，关注临山沿河的旅游景区、偏远山区的乡村等区域，前置应急力量和物资装备。\n要特别关注山丘区地质灾害的滞后性，提前转移危险区人员，果断坚决采取“关停转撤”等各项措施。（央视新闻）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_27921626",
+          "publishedOn": "2024-07-01T11:53:02.000Z",
+          "wordCount": 32,
+          "title": "长江中下游等地强降雨持续，两部门部署重点地区防汛抢险救灾",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_27921631",
+          "author": null,
+          "description": "匈牙利7月1日接任欧盟轮值主席国，为期六个月。匈牙利于上周公布了其担任欧盟轮值主席国期间的口号——“让欧洲再次伟大”。\n据匈牙利的欧盟事务部长博考日前介绍，匈牙利在担任欧盟轮值主席国期间将确定七大优先事项，包括加强欧盟竞争力、加强欧洲防务政策、欧盟扩大、遏制非法移民、加强欧盟凝聚力、制定以农民为导向的欧盟农业政策以及应对欧洲人口挑战。\n博考表示，匈牙利确定的这些优先事项反映了最近欧洲议会选举中选民的意愿，即欧洲需要改变。除了加强欧盟的竞争力，加强欧洲的安全和防务政策也至关重要。（新华社）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_27921631",
+          "publishedOn": "2024-07-01T11:53:02.000Z",
+          "wordCount": 33,
+          "title": "匈牙利接任欧盟轮值主席国",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_27921599",
+          "author": null,
+          "description": "6月27日，中央网信办在四川成都召开全国重点商业网站平台管理工作会议。会议要求，要正确处理好安全与发展的关系，做到以管理促安全、以安全促发展。既要发挥平台主体作用，以科技创新催生新产业、新模式、新动能，推动网站平台高质量发展，也要加强网络内容建设和管理，防范各种风险隐患，促进网络生态健康有序。（网信中国微信公号）\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.run",
+          "link": "https://www.thepaper.cn/newsDetail_forward_27921599",
+          "publishedOn": "2024-07-01T11:23:02.000Z",
+          "wordCount": 32,
+          "title": "中央网信办召开全国重点商业网站平台管理工作会议",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_27921598",
+          "author": null,
+          "description": "7月1日晚间，保龄宝生物股份有限公司（保龄宝，002286.SZ)发布2024年半年度业绩预告，上半年预计实现净利润5800万元—7500万元，同比预增77.05%—128.94%。公司自2023年开始对益生元、膳食纤维、代糖产品等产线进行了工艺优化，加强成本管控，公司生产成本较去年同期相比有所下降；上半年公司主要原材料玉米、玉米淀粉价格以及蒸汽等能源采购价格较2023年同期相比有一定幅度下降。\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.run",
+          "link": "https://www.thepaper.cn/newsDetail_forward_27921598",
+          "publishedOn": "2024-07-01T11:23:01.000Z",
+          "wordCount": 32,
+          "title": "保龄宝：预计上半年净利润5800万元-7500万元，同比增77%-129%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_27918583",
+          "author": null,
+          "description": "本文图片 视觉中国\n\n马克龙的时代结束了。\n这是周日晚上七点五十分划过笔者脑海的一声叹息。周日是法国国民议会选举第一轮投票的日子。作为媒体，我们可以提前收到民调机构作出的选举结果预测。根据益普索发出的第一轮预测，法国总统马克龙的“在一起”同盟仅仅取得20.3%的选票，远远落后于得票34%的极右翼国民联盟以及28.1%的左翼联盟新人民阵线。\n这个糟糕的成绩意味着， 在下周日的第二轮选举之后，马克龙的政党将仅仅只能取得70至100个议会席位。相比解散议会前的250席，超过腰斩。执政党取得如此糟糕的成绩，是近三十年来首次。这也意味着马克龙从2017年打造的中间力量，正式成为“过去时”。\n这还是在近30年来最高的首轮选举投票率下达成的成绩——根据法国内政部的数据，67.35%的选民投下了选票，这是自1997年以来最高的投票率。可以说法国人民是集体投下了对马克龙的否决票。法国政坛重新回到过去的左派右派互搏的政治生态。\n只不过，这次右派的话事人已经成了极右翼的国民联盟，左派中极左翼的声音也大幅上涨。法国政坛在七年马克龙的统治之下愈发极端化的发展，终于在这次议会选举中展现其成果。\n极右翼的国民联盟预计在第二轮选举中将大跨步前进，从现有的88席跃升至取得230至280席，成为第一大势力。左翼的新人民阵线则预计可以拿下125至165席。按照这个预测，将没有政党取得289席的议会绝对多数，法国将选出一个悬浮议会。谁当总理，也成了未知数。\n不过，在6月的最后一个夜晚，有一件事情是肯定的——不论第二轮选举的结果如何，不论极右翼最后是否执政，法国政坛都正式进入了“后马克龙时代”。马克龙的时代结束了。\n马克龙阵营的崩溃\n从250席掉到70至100席，从议会第一大势力跌落至第三——马克龙的这次政治豪赌一败涂地。自从马克龙在6月9日出乎所有人意料宣布解散议会之后，几乎整个法国都在尝试理解为什么他要这么做。…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_27918583",
+          "publishedOn": "2024-07-01T10:53:02.000Z",
+          "wordCount": 61,
+          "title": "议会选举第一轮投票后：极右翼大踏步前进，马克龙时代结束了",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_27918632",
+          "author": null,
+          "description": "中国钢铁产量从1996年起跃居世界第一，占全球半壁江山已持续二十余年。其中，民营钢企龙头沙钢集团是中国钢铁行业发展史中的重要一页，创始人沈文荣在中国钢铁界更是有着“钢铁沙皇”之称。昨日，这位传奇人物谢幕。\n中国民营钢企龙头江苏沙钢集团6月30日深夜发布讣告，集团董事局主席沈文荣因病医治无效，于当天2时10分逝世，享年78岁。\n沙钢集团创办于1975年，总部位位于江苏省张家港市，现为全国特大型民营钢铁企业。根据世界钢铁协会最新发布的2023年主要公司产量排名，沙钢集团以4054万吨居全球第六位，较上年下滑一名，和被反超的河钢集团差距仅为80万吨。\n这也就意味着，在国内钢企中，沙钢集团目前规模仅次于央企中国宝武、鞍钢集团，以及河北省国有企业河钢集团。在民营钢企阵营中，沙钢集团规模则居第一。在2023年公布的《财富》世界500强排行榜中，沙钢集团位列348位。\n沈文荣于1946年2月出生于江苏省张家港市（原名沙洲）一个长江边的小村庄。简历显示，沈文荣于1968年从江苏省沙洲县锦丰棉花加工机械学校毕业后进入沙洲县锦丰镇轧花剥绒厂，成为一名钳工。在随后的几年时间里提升至机修车间主任、党委副书记等职务。\n1975年，在上述这家轧花厂内，沙钢集团的前身开始形成。新华社曾援引《沙洲县钢铁厂简史（1975年-1984年）》记载，沙钢建厂初期没有国家的一分投资，由轧花厂自筹45万元艰难起步；没有设备，沙钢人就自己动手加工设备；没有专业的轧钢工人，沈文荣就带着23名工人去吴县陆墓轧钢厂学习轧钢技术，学习培训了28天，回岗就上岗操作，试产一次成功。\n1984年，38岁的沈文荣接棒，被沙洲县政府任命为沙洲钢铁厂厂长，自此正式拉开他全面带领沙钢成长的大幕。1986年，钢厂更名为张家港市钢铁厂；1992年，更名为江苏沙钢集团；2001年，沙钢集团完成改制，沈文荣成为沙钢集团实控人。\n作为改革开放后最早一…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_27918632",
+          "publishedOn": "2024-07-01T10:53:02.000Z",
+          "wordCount": 38,
+          "title": "掌舵近半个世纪，中国最大民营钢企沙钢创始人沈文荣去世",
+          "imageUrl": null
+        },
         {
           "id": "https://www.thepaper.cn/newsDetail_forward_27919948",
           "author": null,
@@ -11868,116 +12068,6 @@
           "wordCount": 36,
           "title": "三亚航院重回航空产业链：全校师生午饭免费，可有条件退学费",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_27597999",
-          "author": null,
-          "description": "2024年5月24日，国家医保局基金监管司对一心堂药业集团股份有限公司（以下简称“一心堂”）有关负责人进行了约谈。近日，基金监管司有关负责人就约谈情况回答了记者提问。\n01\n为什么要开展约谈？\n党中央、国务院高度重视民生福祉，持续推进医保领域制度改革。近些年，国家建立完善医保谈判药品“双通道”管理机制、将定点零售药店纳入门诊统筹、加快推进跨省异地就医直接结算等，越来越多的参保人可以在家门口的零售药店刷医保码（社保卡）购药，群众的获得感、幸福感和安全感进一步提升。但随着各项医保惠民政策的广泛推进，医保基金监管也面临一些新情况新问题，一些定点零售药店出现虚假开药、串换药品、超量开药等违法违规使用医保基金问题，虽然各级医保部门及时查处了一些不法行为，但更迫切的是需要进一步压实定点零售药店的自我管理主体责任。\n《国务院办公厅关于加强医疗保障基金使用常态化监管的实施意见》（国办发〔2023〕17号）规定，对医保基金监管政策落实不到位、出现医保基金监管严重问题或存在重大风险隐患的，国家医保局可采取函询或约谈等方式，督促指导相关定点医药机构严格履行主体责任并抓好整改落实。\n从各地医保基金监管情况看，一心堂旗下一些定点连锁门店存在较为典型的违法违规使用医保基金行为。考虑到一心堂旗下门店多、医保基金用量大，为了防止出现更大的问题，国家医保局基金监管司对一心堂进行了约谈，督促提醒其加强管理、规范行为，切实履行主体责任，更好地维护医保基金安全。\n02\n约谈对一心堂提出了什么要求？\n约谈指出，一心堂要深刻认识维护医保基金安全的极端重要性，充分体会维护医保基金安全是药品零售企业实现自身长远可持续发展的必由之路，切实增强合法合规使用医保基金的紧迫感、责任感，全面落实法律法规和各项规定要求。要以本次约谈为契机，全面加强整改。一要强化思想认识，切实把合规经营作为企业发展的生命线，强化员工守法教育和日常管理…",
-          "link": "https://www.thepaper.cn/newsDetail_forward_27597999",
-          "publishedOn": "2024-06-02T03:53:02.000Z",
-          "wordCount": 38,
-          "title": "为何约谈一心堂？国家医保局：存在较为典型违法违规使用医保基金行为",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_27591207",
-          "author": null,
-          "description": "5月31日，有网友在互联网发布视频称，湖北襄阳扁山山顶一棵拥有60余年树龄的丝棉木遭遇他人砍伐，木屑散落一地。\n\n扁山上被砍伐的“网红树”。网络视频截图\n\n据了解，这棵树被当地称为“迎客松”，以其坚韧的姿态和较长的树龄，吸引了不少游客前来打卡拍照，已经成为了襄阳的一处网红地点。不少本地居民知道此事后，纷纷留言表示惋惜：“气人，每次去扁山就会拍那棵树”“砍树的动机是什么呢？无法理解”“希望严惩并公布结果”……\n6月1日，红星新闻记者致电襄阳市襄城区尹集乡人民政府，工作人员告诉记者，目前砍伐此树木的涉事人被找到，现在这棵丝棉木仍然存活。\n当天，襄阳本地媒体对外发布消息，称砍树人是一名女性，系樊城区居民，相关部门将依法对其进行处罚。扁山顶上的丝棉木被砍掉以后，襄阳市国营林场、襄阳市岘山文化旅游区管理局等部门对树桩进行了紧急保护性处理。因丝棉木所处位置树木生长环境恶劣，两部门决定在合适的机会选择适合的树种再栽种。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_27591207",
-          "publishedOn": "2024-06-02T02:53:02.000Z",
-          "wordCount": 36,
-          "title": "官方回应60岁网红迎客松被砍：砍树人已找到，树木仍存活",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_27598072",
-          "author": null,
-          "description": "5月24日，国家医保局基金监管司对一心堂药业集团股份有限公司有关负责人进行了约谈。近日，基金监管司有关负责人就约谈情况回答了记者提问。\n有关负责人表示，医保部门将保持全面从严的基调，多措并举加大对定点零售药店监管，督促定点零售药店从使用统筹基金伊始，就规范经营行为，系好入场后的第一粒“扣子”。一是加大飞行检查力度。二是提升专项整治效果。三是持续开展日常监管。四是强化技术手段应用。五是建立监管制度约束。\n下一步，国家医保局还将结合今年飞行检查、专项整治情况，对检查发现问题比较严重的相关机构开展约谈。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_27598072",
-          "publishedOn": "2024-06-02T02:23:03.000Z",
-          "wordCount": 33,
-          "title": "医保部门将多措并举加大对定点零售药店监管",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_27591292",
-          "author": null,
-          "description": "记者今天（6月1日）从市场监管总局了解到。从2023年12月起，在国务院食安办指导下，市场监管总局联合教育部、公安部、国家卫生健康委等部门开展校园食品安全排查整治专项行动，聚焦校园食品安全问题的痛点、难点、堵点。\n截至目前，专项行动开展以来发现并整改问题48.5万个，立案查处违法案件1.02万件，责令停产停业85家，吊销许可证6家，取缔无证经营14家，列入严重违法失信名单2家，校园食品安全形势得到稳步提升。据了解，各地市场监管、教育、卫生健康等部门以“防鼠”设备设施配备等具体工作为抓手，开展假期学校食堂“防鼠”等设备设施维护和改造、出台有害生物防制指引，学校食堂防鼠工作取得积极成效。\n截至目前，各地制定出台了制度文件868个，指导学校制修订学校食品安全岗位管理职责，优化学校食堂承包经营的招投标采购和退出机制，出台学校食堂信用管理办法、学校食堂委托经营管理规范，对于严重违法失信企业列入严重失信企业名单，在学生餐领域坚决出清。\n\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.run",
-          "link": "https://www.thepaper.cn/newsDetail_forward_27591292",
-          "publishedOn": "2024-06-02T01:53:02.000Z",
-          "wordCount": 32,
-          "title": "多部门联手开展校园食品安全排查整治，责令停产停业85家",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_27593339",
-          "author": null,
-          "description": "东航使用C919国产大飞机执行MU7192包机航班，​落地上海虹桥机场。  本文图均为 受访者  供图\n\n\n6月1日，澎湃新闻记者从东航获悉，当天下午，东航使用C919国产大飞机执行MU7192包机航班，自香港飞抵上海虹桥机场，成功完成首次地区商业航线飞行，承运153名旅客其中包括120多名香港大学生抵沪。\n此次航程，是沪港社团总会、沪港青年会组织的2024年“沪港同心”香港青年学生来沪实习计划，这批香港大学生赴上海后，计划开启8周的实习生活。当天中午12:00，C919在香港机场举行起飞仪式，香港特别行政区政务司司长陈国基代表香港特区政府，对东航C919在香港商业航行和载送香港学生参与沪港同心实习计划表示支持和感谢。\n东航是C919国产大飞机的全球首发用户，已在京沪、沪蓉、沪陕航线上累计执行商业航班超2100班，探索出了一套C919商业运行全环节、全过程的运行保障流程。今年5月28日，C919商业运营一周年之际，第六架C919已经交付入列东航机队；东航C919还于今年2月首次飞出国门，展翼新加坡航展；此次首次执行地区商业航线，是C919商业运营的又一次重大进展。\n6月1日14时03分，C919腾空而起、MU7192航班启程飞往上海。航程中，同学们在C919的客舱里共同唱响《沪港同心》的旋律。包机航班上特别为旅客准备了贴有C919飞机标志的曲奇饼干和上海老字号的大白兔奶糖味牛奶。包机航班于15:56顺利抵达上海虹桥机场，上海虹桥国际机场以隆重的“水门仪式”，迎接航班。\n\nC919首次执飞地区商业航线，承运120名香港大学生抵沪。\n\n\n东航选派了C919商业首航时的部分飞行员、乘务员执行本次包机航班。作为C919商业运行首航机长，东航上海飞行部C919飞行部总经理尚峰6月1日当天又驾驶国产大飞机，飞行在沪港航线上。尚峰说，自己曾经驾驶进口机型、多次执飞这条航线，而这一回是驾驶国产C919，心情大不相同。本次航班的乘务长毛文婷表示，在香港迎接登机时，就感受到香港青年人的热情，学生们几乎每个人都在廊桥上拿出手机、运动相机，拍下C919的身影。\n近年来，国产民机正成为让香港青年了解祖国发展的重要窗口。2023年，沪港青年会就曾组织百余名香港大学生来到上海，赴中国商飞参观了国产民机的总装线。2023年12月，C919飞机又抵达香港，在低空飞行中展示国产大飞机的英姿。\n搭乘本次航班的香港大学法律专业学生郑汶欣，曾在去年参加沪港青年会举办的“沪港明日领袖实习计划2023（香港大学团）”，赴上海参观C919总装生产线，并和团员小伙伴们共同许愿，希望尽快有机会在香港乘坐C919。一年之后，她参加香港青年学生来沪实习计划，体验了C919首次地区商业航班，“平稳的起飞和加速，机舱内几乎没有噪音，环境十分舒适。让我对祖国航空科技的发展有了更深入的认识”，梦想成真之际，她如是为国产大飞机点赞，这也代表了许多当天航班上香港青年的共同心声。这些香港青年也期盼着，C919的航程能越飞越远，让更多香港的同龄人有机会体验祖国民机事业、民航事业的成长。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_27593339",
-          "publishedOn": "2024-06-02T01:53:02.000Z",
-          "wordCount": 51,
-          "title": "C919完成首次地区商业航线飞行，搭载百余名香港大学生来沪实习",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_27598051",
-          "author": null,
-          "description": "2024年5月24日，国家医保局基金监管司对一心堂药业集团股份有限公司有关负责人进行了约谈。\n约谈指出，医保部门在基金监管工作中发现，一心堂旗下一些定点连锁门店存在串换药品、超量开药、为暂停医保结算的定点零售门店代为进行医保结算、药品购销存记录不匹配、处方药销售不规范等问题，造成医保基金损失。\n约谈要求，一心堂要迅速组织自查自纠，督促旗下门店及时退回类似问题造成的医保基金损失；要完善公司内控制度，制定企业营销规范，健全门店管理机制，优化内控考核办法，积极参与并实施医保药品销售追溯工作；要加大监督管理力度，加强员工守法教育、日常管理、培训考核，定期开展内部合规检查，强化技术手段应用，对出现欺诈骗保问题的管理和销售人员实行“一票否决”；要发挥零售门店的宣传触角作用，加大对参保人员合法合规使用医保基金的宣传引导，共同维护医保基金安全。（国家医保局微信公众号）",
-          "link": "https://www.thepaper.cn/newsDetail_forward_27598051",
-          "publishedOn": "2024-06-02T01:53:02.000Z",
-          "wordCount": 33,
-          "title": "国家医保局基金监管司约谈一心堂药业集团股份有限公司",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_27591342",
-          "author": null,
-          "description": "2024世界女排联赛中国女排vs泰国女排，朱婷首发登场。\n主攻：李盈莹、朱婷\n副攻：袁心玥、王媛媛\n接应：龚翔宇\n二传：刁琳宇\n自由人：王梦洁",
-          "link": "https://www.thepaper.cn/newsDetail_forward_27591342",
-          "publishedOn": "2024-06-02T00:53:02.000Z",
-          "wordCount": 37,
-          "title": "世界女排联赛中国女排对战泰国，朱婷首发登场",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_27590975",
-          "author": null,
-          "description": "为了价值不到100元的12双袜子，从上海驾车奔波一千多里路程，一名网店女店主不惜血本向“白嫖党”维权引发网友讨论。5月29日，北京青年报记者从店主以及涉事男子处获悉，这名住在河南开封通许县一个村子的男子已经为自己的不当行为道歉，并愿意赔偿女店主此行车马费3500元钱。\n\n本文图均为 北京青年报客户端 图\n\n\n\n两盒袜子只退回两双，网店女店主遇到“白嫖党” \n “我们网店的袜子一盒7双，他用两个地址买了两盒袜子并退货，直到我收到快递的时候，发现两个地址离得很近，每个盒子里面只剩下一双袜子。”网店女店主“米粒麦子妈妈”（以下简称“米粒妈妈”）5月29日告诉北青报记者，她判断有人利用网络平台的漏洞买多退少，以从店主身上薅羊毛的方式占小便宜。 \n 根据收货地址判断，两名买家所留的村子位置比较接近，使用了两个姓名、两个电话。于是，“米粒妈妈”先尝试联系对方查问原因，没想到电话另一端的人完全否认是买家，并称自己和家人都没有买过该店的袜子，另一个号码则一直无人接听。 \n “米粒妈妈”在抖音上经营一家抖店，她也听说过其他店主向“白嫖党”维权的故事，不想让不诚信的“白嫖”行为成为一种社会风气，所以决定对购买两盒袜子后只退回两双的买家当面讨一个说法。“我知道，我到千里之外去追袜子，很多粉丝会认为我小题大做。可能导致店铺都开不下去了。但是即便因此关闭店铺，我也要走这一趟，我想通过这件事给所有白嫖党上一课。” \n 5月20日，一家人踏上了特殊的维权之路，目的地在河南开封通许县。 \n接到报警后民警进村调查 ，“嫌疑人”承认自己行为不当 \n “米粒妈妈”首先到通许县的一个派出所报警，希望民警帮助调查此事。“在网络上需要使用实名制认定的号码预约快递员，才能完成退货的第一步，民警从这个号码入手，很快就能查到退货人。”“米粒妈妈”说，民警经过调查，发现退货人的家庭地址其实是在另外一个村子。 \n 和警方一起来…",
-          "link": "https://www.thepaper.cn/newsDetail_forward_27590975",
-          "publishedOn": "2024-06-02T00:53:02.000Z",
-          "wordCount": 112,
-          "title": "上海女店主奔赴千里外追踪“白嫖党”，男子道歉并承诺赔偿3500元",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_27597782",
-          "author": null,
-          "description": "当地时间5月31日，外交部副部长马朝旭在华盛顿阿斯彭学会总部同美国战略学术界人士举行座谈，就当前中美关系和共同关心的国际地区问题深入交流。\n\n座谈会由阿斯彭战略小组主办。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_27597782",
-          "publishedOn": "2024-06-02T00:23:02.000Z",
-          "wordCount": 41,
-          "title": "外交部副部长马朝旭同美国战略学术界人士举行座谈",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_27597787",
-          "author": null,
-          "description": "这是人类探索月球的历史性时刻！6月2日清晨，嫦娥六号成功着陆在月球背面南极-艾特肯盆地预选着陆区，开启人类探测器首次在月球背面实施的样品采集任务，即将“蟾宫挖宝”。\n北京航天飞行控制中心响起热烈的掌声，嫦娥六号着陆器和上升器组合体在鹊桥二号中继星支持下，成功着陆在月球背面南极-艾特肯盆地预选着陆区。\n自5月3日发射入轨以来，嫦娥六号探测器经历了约30天的奔月之旅，在经过地月转移、近月制动、环月飞行等一系列关键动作后，完成了这世界瞩目的“精彩一落”。\n相比于降落在月球正面，降落在月球背面可谓环环相扣、步步关键。特别是此次任务的预选着陆区——月球背面南极-艾特肯盆地，落差可达十多公里，好比要把一台小卡车成功降落到崇山峻岭中，每一步都不能掉以轻心，充满着中国航天人的智慧和创造。\n“渐次刹车”减速接近月表——着陆器和上升器组合体实施动力下降，搭载的7500牛变推力主发动机开机，逐步将探测器相对月球速度降为零。其间，组合体进行快速姿态调整，逐渐接近月表。\n“火眼金睛”选择理想落点——着陆器和上升器组合体通过视觉自主避障系统进行障碍自动检测，利用可见光相机根据月面明暗选择大致安全点，在安全点上方100米处悬停，利用激光三维扫描进行精确拍照以检测月面障碍，最终选定着陆点，开始缓速垂直下降。\n“关键缓冲”确保安全落月——即将到达月面时，发动机关闭，利用缓冲系统保障组合体以自由落体方式到达月面，最终平稳着陆在月球背面南极-艾特肯盆地。\n月背着陆时间短、难度大、风险高，放眼世界也仅有我国的嫦娥四号探测器曾在2019年初成功实现月背软着陆。此次嫦娥六号不仅要实现月背软着陆，更将按计划采集月球背面的月壤，走别人没走过的路。\n2004年，中国探月工程正式批准立项。从嫦娥一号拍摄全月球影像图，到嫦娥四号实现人类首次月球背面软着陆；从嫦娥五号带着月壤胜利归来，再到如今嫦娥六号即将月背“挖宝”……20年来，中国探月工程不断刷新人类月球探测的纪录。\n成功着陆月背，只是开始。后续着陆器将进行太阳翼和定向天线展开等状态检查与设置工作，随后正式开始持续约2天的月背采样工作，通过钻取和表取两种方式分别采集月球样品，实现多点、多样化自动采样。\n同时，本次任务还将开展月球背面着陆区的现场调查分析、月壤结构分析等科学探测。让我们继续期待嫦娥六号“再接再厉”，不断传来更多好消息！\n\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.run",
-          "link": "https://www.thepaper.cn/newsDetail_forward_27597787",
-          "publishedOn": "2024-06-02T00:23:02.000Z",
-          "wordCount": 32,
-          "title": "成功着陆！嫦娥六号将开始世界首次月背“挖宝”",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_27597813",
-          "author": null,
-          "description": "6月2日6时23分，嫦娥六号着陆器和上升器组合体在鹊桥二号中继星支持下，成功着陆在月球背面南极-艾特肯盆地预选着陆区。嫦娥六号任务实施人类首次月背采样返回，工程创新多，风险高，难度大，相比2020年实现月球正面采样返回的嫦娥五号任务，嫦娥六号任务突破了月球逆行轨道设计与控制技术，并将在鹊桥二号中继星的支持下，完成月背智能快速采样、月背起飞上升等关键技术节点。（人民日报客户端）",
-          "link": "https://www.thepaper.cn/newsDetail_forward_27597813",
-          "publishedOn": "2024-06-01T23:53:02.000Z",
-          "wordCount": 32,
-          "title": "成功着陆月背！嫦娥六号将实施人类首次月背采样返回",
-          "imageUrl": null
         }
       ]
     },
@@ -11986,6 +12076,66 @@
       "feedUrl": "https://www.nationalreview.com/feed/",
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
+        {
+          "id": "https://www.nationalreview.com/?p=1660311",
+          "author": "Jay Nordlinger",
+          "description": "On the Good Book in public schools; Joe Biden and the 2024 campaign; Israel and Charles Krauthammer; and more.",
+          "link": "https://www.nationalreview.com/2024/07/bible-lessons-c/",
+          "publishedOn": "2024-07-01T10:30:44.000Z",
+          "wordCount": 9348,
+          "title": "Bible lessons, &c.",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/07/holding-bible.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1659051",
+          "author": "Tim Chapman",
+          "description": "Compromising on issues such as abortion, American global leadership, the centrality of the nuclear family, and our nation’s fiscal solvency would be a mistake.",
+          "link": "https://www.nationalreview.com/2024/07/the-new-republican-platform-must-not-abandon-conservatism/",
+          "publishedOn": "2024-07-01T10:30:36.000Z",
+          "wordCount": 8940,
+          "title": "The New Republican Platform Must Not Abandon Conservatism",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2022/04/republican-convention-2016-crowd.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1660547",
+          "author": "Akash Chougule",
+          "description": "The leadership of Teamsters has maintained far-left values, even as Teamsters members have drifted right.",
+          "link": "https://www.nationalreview.com/2024/07/republicans-dont-need-to-embrace-union-leaders-to-win-union-workers/",
+          "publishedOn": "2024-07-01T10:30:21.000Z",
+          "wordCount": 8911,
+          "title": "Republicans Don’t Need to Embrace Union Leaders to Win Union Workers",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/07/sean-obrien-teamsters.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1660803",
+          "author": "Kathryn Jean Lopez",
+          "description": "In last week’s debate, Donald Trump showed his superficial, box-checking commitment to the pro-life cause.",
+          "link": "https://www.nationalreview.com/2024/07/the-most-pro-life-president/",
+          "publishedOn": "2024-07-01T10:30:14.000Z",
+          "wordCount": 9270,
+          "title": "The Most Pro-Life President?",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/06/trump-biden-debate-062724-31.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1658137",
+          "author": "James Erwin",
+          "description": "Progressive reaction to the Alitos’ flags has run headlong into the otherwise quaint debate over changing the state flag in Maine.",
+          "link": "https://www.nationalreview.com/2024/07/maine-media-insult-voters-intelligence-on-pine-tree-flag/",
+          "publishedOn": "2024-07-01T10:30:10.000Z",
+          "wordCount": 9075,
+          "title": "Maine Media Insult Voters’ Intelligence on Pine Tree Flag",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/05/appleal-to-heaven-flag-2016.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1660736",
+          "author": "James H. McGee",
+          "description": "Given the alliance’s challenges, it needs real leadership at the top, not a conciliatory Eurocrat.",
+          "link": "https://www.nationalreview.com/2024/07/natos-new-leader-isnt-up-to-the-task/",
+          "publishedOn": "2024-07-01T10:30:07.000Z",
+          "wordCount": 9293,
+          "title": "NATO’s New Leader Isn’t up to the Task",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/07/mark-rutte-nato.jpg?fit=2057%2C1200&ssl=1"
+        },
         {
           "id": "https://www.nationalreview.com/?p=1660734",
           "author": "Michael Brendan Dougherty",
@@ -15294,6 +15444,36 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/90113",
+          "author": "少数派编辑部",
+          "description": "欢迎收看本期《派评》。你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的App或者关注的话题，也欢迎在评论区和我们进行讨论。值得关注的新App虽然少数派一直在为大家发现和介绍各平台上的 ...查看全文",
+          "link": "https://sspai.com/post/90113",
+          "publishedOn": "2024-07-01T10:01:17.000Z",
+          "wordCount": 928,
+          "title": "派评 | 近期值得关注的 App",
+          "imageUrl": "https://cdnfile.sspai.com/2024/7/1/article/2e5918eb-0635-c9df-f39a-77f96cc2d9bc.png"
+        },
+        {
+          "id": "https://sspai.com/post/90075",
+          "author": "吃派的水獭",
+          "description": "天气已经开始日渐炎热，除了空调能够拯救我们于水深火热之外，在工位、宿舍等许多场景一款可靠的小风扇还是必不可少的夏天单品，我们为你带来了4款素乐的夏日新品，涵盖了不同使用场景和用途，希望可以让你的夏天更 ...查看全文",
+          "link": "https://sspai.com/post/90075",
+          "publishedOn": "2024-07-01T08:31:45.000Z",
+          "wordCount": 757,
+          "title": "带在身边的一缕风，让夏天更快乐的 4 款小风扇",
+          "imageUrl": "https://cdnfile.sspai.com/2024/7/1/article/e4793707-9c25-99f1-ba38-4fecfbc946c1.jpeg"
+        },
+        {
+          "id": "https://sspai.com/post/89834",
+          "author": "化学心情下2",
+          "description": "如果你有和我类似的需求不妨考虑 SR11 这样一款产品，花小钱却可以真正搭建起一个高品质的数播系统。查看全文",
+          "link": "https://sspai.com/post/89834",
+          "publishedOn": "2024-07-01T07:00:00.000Z",
+          "wordCount": 943,
+          "title": "玩音箱，有线和 AirPlay 我全都要：飞傲 SR11",
+          "imageUrl": "https://cdnfile.sspai.com/2024/6/25/article/aad21468-d7d4-3638-d27f-ff12582bb930.png"
+        },
+        {
           "id": "https://sspai.com/post/89705",
           "author": "Vanilla",
           "description": "编注我们启动了「FUN开玩」户外生活专题，欢迎大家前来分享与之有关的旅行、露营、徒步乃至摄影和户外好物等内容，大家可以带上「FUN开玩」标签投稿相关文章，除了稿酬可拿，我们还会提供神秘惊喜。虽然我早已 ...查看全文",
@@ -16340,6 +16520,104 @@
       "feedUrl": "https://plink.anyfeeder.com/idaily/today",
       "siteUrl": "https://idai.ly",
       "articles": [
+        {
+          "id": "idaily-209723",
+          "author": "加勒比海",
+          "description": "2024年首个大西洋飓风「贝丽尔」（Beryl）逼近加勒比海地区。6月30日，美国国家海洋和大气管理局（NOAA）通报大西洋飓风「贝丽尔」增强为4级飓风，最大持续风速达每小时215公里。这是有史以来出现最早的一个大西洋超强飓风，推测原因与厄尔尼诺现象导致海水温度升高有关。美国国家海洋和大气管理局预计2024年大西洋飓风季可能出现多达25个命名风暴，其中13个达到飓风级别。摄影师：NOAA",
+          "link": "https://m.idai.ly/se/c735dv",
+          "publishedOn": "2024-07-01T10:59:00.000Z",
+          "wordCount": 252,
+          "title": "2024年首个大西洋飓风 - July 1, 2024",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/bd4e44ec/75ac2b4d.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/bd4e44ec/75ac2b4d.jpg"
+        },
+        {
+          "id": "idaily-209722",
+          "author": "中国 · 香港",
+          "description": "香港维多利亚港举行护旗飞行仪式，庆祝香港回归祖国27周年。7月1日，香港特区行政长官李家超表示过去一年香港完成《基本法》第23条立法和完善区议会选举制度2项重要政治工作，实现公屋轮候时间六年封顶，2023年实现经济正增长3.3%，预计2024年全年经济增长在2.5%至3.5%之间。李家超宣布中央政府已同意再向香港特区赠送一对大熊猫，预计将在未来数月内抵达。摄影师：Li Zhihua",
+          "link": "https://m.idai.ly/se/0dfbhz",
+          "publishedOn": "2024-07-01T10:57:00.000Z",
+          "wordCount": 252,
+          "title": "香港回归祖国27周年 - July 1, 2024",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/e486c66f/6dd32628.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/e486c66f/6dd32628.jpg"
+        },
+        {
+          "id": "idaily-209721",
+          "author": "法国 · 勒图凯",
+          "description": "法国总统 Emmanuel Macron 参加议会选举第一轮投票，勒图凯。7月1日，法国国民议会选举第一轮投票结果显示极右翼政党「国民联盟」以33.15%得票率排名第一，左翼联盟「新人民阵线」以27.99%得票率排名第二，现任总统 Macron 领导的中间派联盟「在一起」以20.76%得票率排名第三。法国国民议会选举第二轮投票将于7月7日举行。法国总统 Macron 当天发表声明，呼吁建立一个更广泛的民主联盟以对抗极右翼政党获得议会绝对多数席。摄影师：Yara Nardi",
+          "link": "https://m.idai.ly/se/7bam4m",
+          "publishedOn": "2024-07-01T10:55:00.000Z",
+          "wordCount": 252,
+          "title": "法国国会选举极右翼领先 - July 1, 2024",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/2dcd8235/456c8174.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/2dcd8235/456c8174.jpg"
+        },
+        {
+          "id": "idaily-209720",
+          "author": "中国 · 武汉",
+          "description": "长江武汉段水位暴涨淹没黄花矶凉亭，武汉。长江2024年第1号洪水于6月28日在中下游形成，长江武汉关水位7月1日达到27.23米，距警戒水位仅0.07米，武汉市已封堵闸口50座，搭设防汛哨棚146个。中国气象局预计未来一周长江中下游干流水位将持续上涨，城陵矶以下河段、洞庭湖湖区、鄱阳湖湖区将面临全线超警险情。摄影师：iDaily Media",
+          "link": "https://m.idai.ly/se/d29LKT",
+          "publishedOn": "2024-07-01T10:53:00.000Z",
+          "wordCount": 252,
+          "title": "长江2024年1号洪水形成 - July 1, 2024",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/8ba84d5e/fb7cccb0.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/8ba84d5e/fb7cccb0.jpg"
+        },
+        {
+          "id": "idaily-209719",
+          "author": "日本 · 鹿儿岛县",
+          "description": "日本 H3 运载火箭3号机发射升空，种子岛航天中心。7月1日，日本宇航局宣布 H3 运载火箭成功将「大地4号」地球观测卫星送入距地面约620公里的近地轨道，这是该火箭型号首次成功发射大型实用卫星。「大地4号」地球观测卫星搭载合成孔径雷达，成像分辨率达3米，观测幅宽为200公里，可以每两周对日本境内所有活火山进行一次成像，主要用于防范火山喷发、地震等自然灾害。摄影师：Daisuke Urakami",
+          "link": "https://m.idai.ly/se/c97rOw",
+          "publishedOn": "2024-07-01T10:51:00.000Z",
+          "wordCount": 252,
+          "title": "日本H3火箭成功发射 - July 1, 2024",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/7777d2d6/78d2602e.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/7777d2d6/78d2602e.jpg"
+        },
+        {
+          "id": "idaily-209718",
+          "author": "以色列 · 耶路撒冷",
+          "description": "极端正统犹太教徒示威抗议最高法院的征兵判决，耶路撒冷。6月25日，以色列最高法院宣判取消1948年建国以来极端正统犹太教徒所享有的兵役豁免特权。极端正统教派犹太人以研读犹太律法为终身事业，拒绝服兵役和从事世俗工作，主要依靠国家补贴为生。以色列境内约有130万极端正统派犹太教徒，占总人口比例13%，其中约6.3万人符合入伍条件。民调显示64%以色列人支持取消极端正统派犹太人的兵役豁免待遇。摄影师：Ahmad Gharabli",
+          "link": "https://m.idai.ly/se/3b1duP",
+          "publishedOn": "2024-07-01T10:49:00.000Z",
+          "wordCount": 252,
+          "title": "极端正统犹太教抗议兵役 - July 1, 2024",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/3ce68cd7/f5336784.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/3ce68cd7/f5336784.jpg"
+        },
+        {
+          "id": "idaily-209717",
+          "author": "埃及 · 开罗",
+          "description": "游客们正在参观埃及文明博物馆展厅，开罗。埃及文明博物馆于2021年正式向公众开放，馆藏超过6.5万件文物，「王室木乃伊」展厅共展出20件古埃及第17至20王朝的法老和王后木乃伊，包括图特摩斯三世、拉美西斯二世、女法老哈特谢普苏特等著名历史人物。埃及旅游部数据显示2024年1至4月该国共接待460万名外国游客，同比增长27%，创造43亿美元旅游收入。摄影师：Ahmad Hasaballah",
+          "link": "https://m.idai.ly/se/f5aZkL",
+          "publishedOn": "2024-07-01T10:47:00.000Z",
+          "wordCount": 252,
+          "title": "埃及旅游业持续复苏 - July 1, 2024",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/466df17f/86ba9a4c.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/466df17f/86ba9a4c.jpg"
+        },
         {
           "id": "idaily-209639",
           "author": "美国 · 佛罗里达州",
@@ -19414,6 +19692,26 @@
       "siteUrl": "http://nytimes.com",
       "articles": [
         {
+          "id": "https://cn.nytimes.com/usa/20240701/biden-debate-anxious-democrats/dual",
+          "author": null,
+          "description": "KATIE ROGERS, PETER BAKER2024年7月1日拜登总统周六与第一夫人吉尔·拜登和他的孙女芬尼根和娜塔莉·拜登在一起。 Haiyun Jiang for The New York Times\nWASHINGTON — President Joe Biden’s family is urging him to stay in the race and keep fighting despite last week’s disastrous debate performance, even as some members of his clan privately expressed exasperation at how he was prepared for the event by his staff, people close to the situation said Sunday.\n华盛顿——据知情人士周日透露，尽管拜登在上周辩论中的表现是一场灾难级的失败，他的家人仍敦促他不要放弃，即使一些家族成员私下对他的幕僚为辩论做的准备工作感到不满。\nBiden huddled with his wife, children and grandchildren at Camp David while he tried to figure out how to tamp down Democratic anxiety. While his relatives were acutely aware of how poorly he did against former President Donald Trump, they argued that he could still show the country that he remains capable …",
+          "link": "https://cn.nytimes.com/usa/20240701/biden-debate-anxious-democrats/dual",
+          "publishedOn": "2024-07-01T08:36:01.000Z",
+          "wordCount": 1593,
+          "title": "拜登家人敦促其抵抗退选压力，保持斗志继续竞选",
+          "imageUrl": "https://static01.nyt.com/images/2024/06/30/multimedia/30dc-biden1-cqjf/30dc-biden1-cqjf-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/world/20240701/biden-trump-debate-europe/dual",
+          "author": null,
+          "description": "STEVEN ERLANGER, MOTOKO RICH2024年7月1日拜登总统在辩论中的疲弱表现，让欧洲、亚洲及其他地区的分析人士和官员担心特朗普会重新执政。 Ruth Fremson/The New York Times\nAmid a faltering performance by President Biden in the presidential debate Thursday night, former President Donald J. Trump caused anxiety among America’s allies with a simple shrug.\n拜登总统在周四晚上的总统辩论中表现不佳，而前总统特朗普只是耸了耸肩，就引起了美国盟友的焦虑。\nMr. Trump has regularly disparaged NATO and even threatened to withdraw the United States from it, and during the debate, he did nothing to assuage European concerns about his antipathy toward the military alliance.\n特朗普经常贬低北约，甚至威胁要让美国退出北约，他在辩论中说的话无助于缓解欧洲人对他反感该军事联盟的担忧。\nAsked by Mr. Biden if he would pull out of NATO, Mr. Trump did not answer but shrugged.\n拜登问他是否会退出北约，特朗普没有回答，只是耸了耸肩。\n“I was very worried prior to this debate and I’m even more worried now,…",
+          "link": "https://cn.nytimes.com/world/20240701/biden-trump-debate-europe/dual",
+          "publishedOn": "2024-07-01T07:06:01.000Z",
+          "wordCount": 1703,
+          "title": "拜登辩论表现不佳引发美国盟友焦虑",
+          "imageUrl": "https://static01.nyt.com/images/2024/06/28/multimedia/28debate-allies-01-jvtq/28debate-allies-01-jvtq-articleLarge.jpg"
+        },
+        {
           "id": "https://cn.nytimes.com/usa/20240701/biden-campaign-debate-scramble/dual",
           "author": null,
           "description": "LISA LERER, SHANE GOLDMACHER, KATIE ROGERS2024年7月1日拜登总统与妻子吉尔周六抵达纽约参加竞选招待会。他的竞选团队一直处于战斗状态，以安抚捐款人和支持者。 Haiyun Jiang for The New York Times\nIn the wee hours of Friday morning, not long after President Biden had walked off the stage from a disastrous debate, his campaign chair, Jen O’Malley Dillon, acknowledged in a series of private calls with prominent supporters that the night had gone poorly but urged them not to overreact.\n周五凌晨，拜登总统从一场灾难性的辩论中走下台后不久，他的竞选主席珍·奥马利·狄龙私下与一系列重要支持者通了电话，承认当晚的辩论结果不佳，但也力劝他们不要反应过度。\nLater on Friday, top White House aides worked the phones, with Mr. Biden’s chief of staff, Jeff Zients, calling the Democratic leader of the Senate, Chuck Schumer, to check in, according to a person familiar with the call. And by the afternoon, the Biden campaign had transformed its weekly…",
@@ -20251,6 +20549,56 @@
       "siteUrl": "http://weixin.sogou.com/weixin?type=1&s_from=input&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A",
       "articles": [
         {
+          "id": "a8c10d58f9ec91019a2ab386692ad8bb",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E9%A6%99%E6%96%99%E8%B4%B8%E6%98%93%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E4%BA%BA%E7%B1%BB%E5%8E%86%E5%8F%B2%E5%8F%91%E5%B1%95%EF%BC%9F",
+          "publishedOn": "2024-07-01T02:47:00.000Z",
+          "wordCount": 301,
+          "title": "香料贸易如何影响人类历史发展？",
+          "imageUrl": null
+        },
+        {
+          "id": "5b1151d19e034c07e1dd79bea7ebba9a",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E5%B7%AB%E9%B8%BF%E7%9A%84%E6%96%B0%E4%BD%9C%E3%80%8A%E5%A4%A9%E4%BA%BA%E4%B9%8B%E9%99%85%E3%80%8B%E5%AD%98%E5%9C%A8%E5%93%AA%E4%BA%9B%E7%BC%BA%E6%86%BE%EF%BC%9F",
+          "publishedOn": "2024-07-01T02:47:00.000Z",
+          "wordCount": 316,
+          "title": "巫鸿的新作《天人之际》存在哪些缺憾？",
+          "imageUrl": null
+        },
+        {
+          "id": "9578650713b1e33e719af788ff0d6354",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E5%88%9A%E5%88%9A%E8%BF%87%E5%8E%BB%E7%9A%846%E6%9C%88%EF%BC%8C%E6%88%91%E4%BB%AC%E9%80%89%E5%87%BA%E4%BA%8616%E6%9C%AC%E5%A5%BD%E4%B9%A6",
+          "publishedOn": "2024-07-01T02:47:00.000Z",
+          "wordCount": 298,
+          "title": "刚刚过去的6月，我们选出了16本好书",
+          "imageUrl": null
+        },
+        {
+          "id": "1677ac62794d386150943f5f848a280f",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E4%B8%BA%E4%BB%80%E4%B9%88%E5%90%84%E5%9B%BD%E8%AE%B0%E8%BD%BD%E5%8E%86%E5%8F%B2%E7%9A%84%E4%B9%A6%EF%BC%8C%E8%A6%81%E5%8F%AB%E4%BD%9C%E2%80%9C%E6%98%A5%E7%A7%8B%E2%80%9D%E5%91%A2%EF%BC%9F",
+          "publishedOn": "2024-06-30T01:48:00.000Z",
+          "wordCount": 302,
+          "title": "为什么各国记载历史的书，要叫作“春秋”呢？",
+          "imageUrl": null
+        },
+        {
+          "id": "c6a7f8074a4130034d35ef5839fca801",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E8%B5%B0%E5%90%A7%EF%BC%8C%E5%8E%BB%E8%8F%9C%E5%B8%82%E5%9C%BA%EF%BC%8C%E8%AE%A9%E7%83%A6%E6%81%BC%E7%BB%88%E7%BB%93%E5%9C%A8%E8%BF%99%E9%97%B9%E5%B8%82",
+          "publishedOn": "2024-06-30T01:48:00.000Z",
+          "wordCount": 294,
+          "title": "走吧，去菜市场，让烦恼终结在这闹市",
+          "imageUrl": null
+        },
+        {
           "id": "9d28ec6963ba6e6268c6a303820ae1e5",
           "author": null,
           "description": "",
@@ -20798,26 +21146,6 @@
           "publishedOn": "2024-06-03T00:35:00.000Z",
           "wordCount": 343,
           "title": "《卡夫卡的卡夫卡》：他的画不是文学意象，是打破了写作束缚的图像",
-          "imageUrl": null
-        },
-        {
-          "id": "9c5c97c0e94081db967e54c651a239d5",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E5%A4%8F%E6%97%A5%E5%B1%B1%E5%B1%85%EF%BC%9A%E5%8F%AA%E6%B6%88%E5%B1%B1%E6%B0%B4%E5%85%89%E4%B8%AD%EF%BC%8C%E6%97%A0%E4%BA%8B%E8%BF%87%E8%BF%99%E4%B8%80%E5%A4%8F%E4%B8%A8%E5%91%A8%E6%9C%AB%E8%AF%BB%E8%AF%97",
-          "publishedOn": "2024-06-02T01:34:00.000Z",
-          "wordCount": 324,
-          "title": "夏日山居：只消山水光中，无事过这一夏丨周末读诗",
-          "imageUrl": null
-        },
-        {
-          "id": "980327cc35bd051a0d17721ee335a145",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E8%91%9B%E5%85%86%E5%85%89%E3%80%81%E6%A2%81%E6%96%87%E9%81%93%E3%80%81%E6%AE%B5%E5%BF%97%E5%BC%BA%E5%AF%B9%E8%B0%88%E5%9B%9E%E9%A1%BE%EF%BC%9A%E6%88%91%E4%BB%AC%E4%BB%8E%E6%9D%A5%E5%B0%B1%E5%9C%A8%E4%B8%96%E7%95%8C%E4%B9%8B%E4%B8%AD",
-          "publishedOn": "2024-06-02T01:34:00.000Z",
-          "wordCount": 330,
-          "title": "葛兆光、梁文道、段志强对谈回顾：我们从来就在世界之中",
           "imageUrl": null
         }
       ]
