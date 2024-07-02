@@ -44,16 +44,6 @@
           "wordCount": 5881,
           "title": "R Weekly 2024-W24 R dialects, small git commits, fast geocoding",
           "imageUrl": "https://rweekly.org/public/facebook.png"
-        },
-        {
-          "id": "https://rweekly.org/2024-W23.html",
-          "author": null,
-          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Jon Calder, with help from the R Weekly team members and contributors.\nHighlight\nMake your functions compa-tibble\nCreating R tutorial worksheets (with and without solutions) using Quarto\nInsights\nMake your functions compa-tibble\nNon-API calls conundrum, CRAN, cpp11, minty, true length, vendoring, readODS\nR4HR in Buenos Aires: Leveraging R for Dynamic HR Solutions\nR in the Real World\nRace and Ethnicity in New York City\n\nR in Organizations\nOne More Step Forward: The R Consortium Submission Working Group’s Presentation to Swissmedic on Regulatory Submission using R and Shiny\nNew Packages\n📦 Keep up to date wtih CRANberries 📦\nCRAN\n{ggfoundry} 0.1.1: Hand-crafted fillable shapes…",
-          "link": "https://rweekly.org/2024-W23.html",
-          "publishedOn": "2024-06-03T00:00:00.000Z",
-          "wordCount": 5805,
-          "title": "R Weekly 2024-W23 Compa-tibble, Tutorials with Quarto",
-          "imageUrl": "https://rweekly.org/public/facebook.png"
         }
       ]
     },
@@ -521,16 +511,6 @@
           "wordCount": 264,
           "title": "陈力卫读《翻译与近代日本》｜明治日本的翻译面向",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_27598480",
-          "author": null,
-          "description": "《翻译与近代日本》，[日]丸山真男、[日]加藤周一著，陈力卫译，商务印书馆，2024年6月出版，210页，38.00元\n\n一\n这本《翻译与近代日本》是以岩波新书1998年版为底本翻译的，原著作者是日本知识界两位最杰出的代表人物：丸山真男和加藤周一。正如书前岩波书店编辑部所写的出版说明和加藤周一后记中所述，该书源自二人共同编辑《日本近代思想大系》第十五集《翻译的思想》期间，加藤前往探望病中的丸山时就相关问题的交谈讨论，可以说是基于两位学者就翻译及其背景问题所做的问答式谈话记录整理出来的一个副产品。\n仅看标题，读者可能会以为这是一本讲述翻译史的书。曾经有朋友建议将标题顺序反过来译作“近代日本与翻译”更符合本书的内容。这么说不无道理。从本书内容看，这实际上可以成为关于日本近代史，也可说是日本近代思想史的简明入门书。日本思想史何以那么重视荻生徂徕？为何福泽谕吉的影响如此巨大？再看近代史，为什么要打着尊皇攘夷的口号推翻幕府？为什么盛行一时的自由民权运动会失败？而日本又是如何走向国家主义的？围绕这些问题，当时日本最负盛名的两位思想大家一问一答，娓娓道来，提纲挈领地将历史变化节点上知识分子所起的作用一一列举，而其中很重要的部分，即是日本社会从接纳朱子学的时代转向吸收西洋学说这一历史变迁中，日本知识分子通过翻译所作的贡献。\n\n丸山真男（1914-1996）\n\n\n加藤周一（1919-2008）\n\n作为近代思想史的一环，日本翻译史的核心问题，归根结底就是加藤最后所总结的：翻译的目的何在？翻译什么？如何翻译？\n二\n全书分为四章，一、翻译文化的到来；二、译什么？如何译？三、《万国公法》的翻译；四、翻译对社会文化的影响。第一章主要论述——即近代以前日本有识阶层的观念，其核心内容为日本如何吸纳与改造中国的思想文化，建立自己的思想体系，摆脱中国儒学的束缚。这一部分是丸山最擅长的领域，他于1952年出版的…",
-          "link": "https://www.thepaper.cn/newsDetail_forward_27598480",
-          "publishedOn": "2024-06-03T04:02:03.000Z",
-          "wordCount": 264,
-          "title": "陈力卫读《翻译与近代日本》｜明治日本的翻译面向",
-          "imageUrl": null
         }
       ]
     },
@@ -539,6 +519,206 @@
       "feedUrl": "https://feedx.net/rss/thepaper.xml",
       "siteUrl": "http://thepaper.cn",
       "articles": [
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_27924605",
+          "author": null,
+          "description": "理想L6\n\n多家造车新势力6月交付量创下新高。\n7月1日，各家造车新势力纷纷交出6月交付成绩，今年上半年销量榜单也随之出炉。今年6月份，理想汽车再度延续5月的强势表现，成为新势力销量冠军，问界则依旧为第二名。\n就上半年来看，理想汽车以18.9万辆问鼎冠军，问界以轻微差距位居第二。\n值得一提的是，包括问界、蔚来、极氪、零跑在内的几家企业均创下交付量新高。而刚开始交付三个月的小米汽车也实现了月交付过万辆，哪吒汽车是唯一一家交付量同步下滑的新势力。\n\n具体来看，今年6月，理想汽车交付新车4.78万辆，同比增长46.7%。2024年第二季度交付10.86万辆，1-6月交付18.9万辆。截至2024年6月30日，理想汽车累计交付量达到82.23万辆，位居中国新势力品牌总交付量第一。\n理想汽车董事长兼CEO李想评价说，“6月理想L系列的销售势能继续提升，理想L6月交付量成功突破两万辆，全系产品月交付量超过四万辆。二季度以来，在新车型理想L6上市和门店效率提升的双重作用下，理想汽车重回中国新势力品牌销量榜首。”\n据赛力斯方面数据，AITO问界全系6月单月交付突破4万，达到4.28万辆，创历史新高，较去年同期的5668辆更是增长654.76%。值得一提的是，AITO问界M9再创新高，6月交付1.72万辆，累计大定超10万辆。2024年1-6月，AITO问界累计交付量为10.08万辆。\n6月，蔚来交付新车2.12万辆，同比增长98%，创历史新高；2024年第二季度，蔚来交付新车5.74万辆，超交付指引，同比增长143.9%；2024年上半年，蔚来共交付新车8.74万辆，同比增长60.2%。\n除问界与蔚来，还有极氪与零跑两家车企销量创下新高，并首次迈入了“两万辆俱乐部”。\n极氪6月交付2.01万辆，同比增89%，再创历史新高。这也是极氪品牌首次单月交付破2万辆。今年1-6月极氪共交付8.79万辆。\n零跑汽车6月交付2.01万辆，同比增长52.3%，环比增长10.7%，创历史新高。零跑汽车上半年累计交付量为8.67万辆。\n6月，小鹏汽车共交付新车1.07万台，同比增长24%，环比增长5%。2024年1-6月，小鹏累计交付新车共5.2万台，同比增长26%。\n哪吒汽车6月交付1.02万台，同比下滑15.88%;1-6月共交付5.37万台。此外，小米汽车发布的数据显示，今年6月小米SU7交付量超1万辆。\n乘联会分析认为，北京电动车号牌发放和以旧换新政策拉动等因素，共同推动6月购车热度的延续。截至6月25日中午12时，商务部汽车以旧换新信息平台已收到汽车报废更新补贴申请11.3万份，近一周以来新增补贴申请数量超3.6万份，政策效果呈现加快增长态势，推动了6月车市的增长。\n此外，乘联会还提到，随着乘用车市场进入半年收官期，各地方和车企努力冲刺销量业绩的意愿很强烈，厂商和经销商无论如何也要努力卷收官的销量，因此6月仍是销量走势较好的月份。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_27924605",
+          "publishedOn": "2024-07-02T15:53:02.000Z",
+          "wordCount": 46,
+          "title": "多家新势力6月交付量创新高：理想再夺销冠，极氪、零跑首超两万辆",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_27937702",
+          "author": null,
+          "description": "近日，2024母基金年度论坛暨第五届鹭江创投论坛上，FOFWEEKLY发布了《GP生存发展报告2024 》。在2023年，LP（有限合伙人）出资规模持续下降，全年认缴出资1.8万亿元，已然跌落到接近2020年的水平。市场信心不足带来的是投资端的近乎腰斩，对比2021年，2023年的投资金额几乎下降了一半，投资数量更是来到了10年前的水平；同时，退出数量同比下降了13%，仅有4000多笔。\n进入2024年，一级市场环境已经出现3大特征：一，美元中性化，意味着人民币市场对资产判断的波动将逐步脱离美元影响。二，货币多元化，意味着产品贸易越来越少的收到美元支付体系影响，贸易摩擦对一级市场的影响将逐步消除。三，定价本币化，意味着本土资产进入一个新的定价体系，本土的基金产品也应该有稳定的、具有本土特征的收益预期。整体而言，从货币层面，中国投资机构面对的市场环境，将出现修复信号。（澎湃新闻记者 戚夜云）\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.run",
+          "link": "https://www.thepaper.cn/newsDetail_forward_27937702",
+          "publishedOn": "2024-07-02T15:23:03.000Z",
+          "wordCount": 39,
+          "title": "报告：2023年LP出资规模持续下降，全年认缴出资1.8万亿",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_27936293",
+          "author": null,
+          "description": "农村学生营养餐补被挪用偿还政府债务，涉及66县、近20亿元。对此，多家媒体纷纷发表评论称，从孩子口中“夺食”，零容忍。农村学生营养餐补贴不是“唐僧肉”！\n日前发布的《国务院关于2023年度中央预算执行和其他财政收支的审计工作报告》（简称《报告》）显示，针对农村义务教育学生营养改善计划专项资金，国务院重点审计了13省159县2021年至2023年8月补助资金231.37亿元，占抽审县同期补助总金额的91%。\n审计发现存在如下主要问题：一是部分补助资金管理使用较为混乱。有的被直接挪用，66县将19.51亿元用于偿还政府债务、基层“三保”等支出。有的被变相挤占，41县和1533所学校等通过压低供餐标准、虚构采购业务等变相截留挤占2.7亿元。有的被串通套取，5县教育部门与中标供应商合谋，通过供应商分红、捐赠等方式套取4216.02万元，用于发放福利等。\n二是部分供餐单位违规经营。147家供应商和部分学校食堂等供餐单位违规经营，偷工减料、以次充好供餐。\n三是餐食采购招标和供餐监管等不够规范严格。25县通过违规直接指定、设置不合理条款等方式，确定52家供应商向2605所学校供餐。78户企业或个人通过违规借用资质、伪造资料、围标串标等方式，中标35县的101个营养餐项目。监管权力寻租，相关监管部门和77所学校的工作人员，在供餐监管等过程中涉嫌徇私枉法，谋取个人利益。\n《报告》建议，用心用情用力落实好暖民心行动，督促地方压实农村义务教育学生营养改善计划工作的主体责任，确保每一分钱都吃到学生嘴里。\n农村义务教育学生营养改善计划始于2011年。2022年11月，教育部会同有关部门制定并印发了《农村义务教育学生营养改善计划实施办法》。在资金使用与管理方面，实施办法提出，中央财政安排的营养膳食补助资金要设立专门台账，明细核算，确保全额用于为学生提供营养膳食，补助学生用餐。不得直接发放给学生个人和家…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_27936293",
+          "publishedOn": "2024-07-02T14:53:02.000Z",
+          "wordCount": 38,
+          "title": "这事儿丨零容忍！农村学生餐补近20亿元被挪用偿还政府债务",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_27934245",
+          "author": null,
+          "description": "——国家建立健全突发事件新闻采访报道制度。有关人民政府和部门应当做好新闻媒体服务引导工作，支持新闻媒体开展采访报道和舆论监督。\n——报送报告突发事件信息要做到及时、客观、真实，不得迟报、谎报、瞒报、漏报或者授意他人迟报、谎报、瞒报，不得阻碍他人报告信息……\n6月28日，十四届全国人大常委会第十次会议高票通过修订后的《中华人民共和国突发事件应对法》，自今年11月1日起施行。该法对于信息报送和发布、支持新闻采访等作出了明确规定。\n突发事件应对是一项系统工程。包括预防与应急准备、监测与预警、应急处置与救援等环节，都需要一套科学、高效的处置流程。此次法律修订在这方面着墨颇多，呼应了现实需求，具有很强的针对性和指导性。\n众所周知，信息供给是突发事件应对中最宝贵的资源之一。一方面，突发事件出现后，处置方需要尽快搜集各方信息，为科学应对作参考，并通过高效、动态发布相关信息，及时回应社会关切；另一方面，事件处置过程中，信息供给越滞后、越不透明，就越容易引发猜疑乃至恐慌，带来次生灾害，如导致政府部门公信力受损，甚至把简单问题复杂化，最终抬高突发事件处置应对的社会成本。比如在一些突发安全事件中，迟报、缓报、瞒报就直接影响到应急处置与救援效率，甚至事关人命。\n在突发事件中，正当履行新闻报道、监督职责的新闻记者和媒体，不是“累赘”，不是“捣乱”，是增信，是帮助，能有效引导社会资源的投入。基层不能对突发事件有“舆情洁癖”。要抵制谣言、传言干扰对突发事件的处置，所以更需要有高效、准确的信息发布，以及新闻媒体的独立客观报道，不要将舆情引导和正常的新闻报道对立起来。抵达现场，是记者的职责，采访报道，是法律赋予新闻媒体的责任，地方政府应依法“服务、引导、支持”，而不是对立、排斥、干扰。\n此次修法也对新闻报道提出了要求：“新闻媒体采访报道突发事件应当及时、准确、客观、公正。新闻媒体应当开展突发事件应对法律法规、预防与应急、自救与互救知识等的公益宣传。”\n法律中专门规定“支持新闻媒体开展采访报道和舆论监督”，这在相关的部门法立法中尚属首次，也是明确的立法信号，这是中国立法史、新闻事业发展史上的一件大事。它以法律的形式明确了：新闻报道、舆论监督是处置突发事件的系统性措施中的重要组成部分，是受法律保障的。\n在突发事件中，依法履职的记者不能缺位，及时、准确、客观、公正的报道不能失声，这是法律的要求！",
+          "link": "https://www.thepaper.cn/newsDetail_forward_27934245",
+          "publishedOn": "2024-07-02T14:53:02.000Z",
+          "wordCount": 39,
+          "title": "【社论】支持采访报道突发事件，是法律的要求",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_27937773",
+          "author": null,
+          "description": "7月2日晚，赛力斯集团股份有限公司（赛力斯，601127）公告：控股子公司赛力斯汽车有限公司拟收购华为技术有限公司及其关联方持有的已注册或申请中的919项问界等系列文字\n和图形商标，以及44项相关外观设计专利，收购价款合计25亿元。\n华为回应这一交易时表示，华为将问界等系列商标转让给赛力斯，同时华为将继续支持赛力斯造好问界、卖好问界。华为一贯坚持不造车，而是利用领先的智能网联汽车技术，持续帮助车企造好车、卖好车。华为将继续与车企为用户打造卓越的智能汽车产品，提供极致的智慧出行体验。\n赛力斯也在公告中表示，协议标的的转让不影响双方的合作业务，双方将进一步深化合作关系，华为助力赛力斯造好车、卖好车。（澎湃新闻记者 周玲）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_27937773",
+          "publishedOn": "2024-07-02T14:53:02.000Z",
+          "wordCount": 36,
+          "title": "华为回应赛力斯收购问界等系列商标：坚持不造车，继续支持赛力斯造好、卖好问界",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_27931450",
+          "author": null,
+          "description": "卧龙大熊猫苑神树坪基地发布关于不文明行为情况的通报：\n李某某（女，39岁），王某某（男，39岁），王某某（男，41岁），张某某（女，52岁）一行4人，2024年7月1日在卧龙中华大熊猫苑神树坪基地参观时，明知园区不准携带宠物，将宠物藏匿于背包中携带入园，违反入园参观规定，携带宠物进入园区，安保发现后劝导并陪同其离开。鉴于李某某等人的行为违反入园参观规定并可能对大熊猫造成严重危害，禁止其自不文明行为发生起终身再次进入卧龙中华大熊猫苑神树坪基地参观。\n经监控调查及专业人员对园内动物检查及观察，园内大熊猫身体情况正常，我们将持续关注每一只大熊猫的身体状况，确保它们的健康与安全。\n7月2日起，所有进入卧龙中华大熊猫苑神树坪基地参观的游客，请自觉开包检查，如有不配合游客，基地有权拒绝入园。\n请各位游客朋友游览时做到文明参观，遵守入园参观要求，严禁携带宠物、易燃易爆、有毒有害物品入园，不投喂、不抛物、不吸烟，共同守护可爱的国宝大熊猫！",
+          "link": "https://www.thepaper.cn/newsDetail_forward_27931450",
+          "publishedOn": "2024-07-02T13:53:03.000Z",
+          "wordCount": 33,
+          "title": "卧龙大熊猫苑神树坪基地：四人违规携带宠物入园，被终身禁入",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_27931476",
+          "author": null,
+          "description": "受持续强降雨影响，湖南省岳阳市平江县中心城区多处内涝，城区水位破70年纪录。\n\n2024年7月2日凌晨，湖南武警某队救援人员开着搜救艇在城区搜救被困民众。中新社记者 杨华峰/视觉中国 图\n\n\n7月1日21时30分，平江县已启动防汛Ⅰ级应急响应。当地开启全社会总动员模式，全县所有干部职工以战时状态投入抗洪抢险，紧急转移危险区群众，做好防汛救灾的各项工作。\n\n7月1日，在湖南平江县城区拍摄的被淹现场。  新华社记者 谢奔 摄\n\n\n7月1日，湖南平江县天岳街道大西村，志愿者在转移群众。新华社记者 谢奔 摄\n\n7月2日01时20分，岳阳水文水资源勘测中心发布水情快报：7月2日00时30分，汨罗江干流平江站出现77.67米的洪峰水位，超过警戒水位（70.50米）7.17 米，超过保证水位(74.00米)3.67米。\n记者从湖南省水文水资源勘测中心了解到，截至7月2日10时，汨罗江平江站水位已经下降到76.85米，相比于洪峰水位77.67米下降了0.82米。\n\n城区多处内涝，水位逼近红绿灯\n暴雨如注。据了解，自6月18日以来，平江县降雨量高达759.6毫米，为当地自1961年有气象记录以来同期最高值。\n\n2024年7月2日凌晨，湖南平江，暴雨如注，救援人员在岸边等待搜救艇，转移被困民众。中新社记者 杨华峰 摄\n\n截至1日19时许，全县共计190座水库溢洪。平江县城两段堤防共计7000米出现洪水漫溢，短时强降雨后县城内涝，局地积水深达3米，水位逼近红绿灯高度。平江多个乡镇受淹比较严重，多地出现山体滑坡、道路中断、房屋垮塌、洪水漫溢等灾情。\n7月2日00时30分，汨罗江干流平江站出现77.67米的洪峰水位，超警戒水位7.17米，为1954年以来最高水位。\n截至7月2日10时，汨罗江平江站水位已经下降到76.85米，水位在逐步回落。\n\n7月1日，在湖南平江县城区拍摄的被淹现场。新华社记者 陈思汗 摄\n\n\n7月1日，湖南平江县天岳街道大西村，志愿者在转移群众。新华社记者 谢奔 摄\n\n\n2024年7月2日凌晨，湖南平江，城区部分民房一楼已被淹没。中新社记者 杨华峰/视觉中国 图\n\n\n2024年7月2日凌晨，湖南平江，城区内涝严重，水位逼近路段指示牌。图为湖南武警某队救援人员开着搜救艇在城区搜救被困民众。中新社记者 杨华峰/视觉中国 图\n\n\n7月1日，平江县县城发生严重洪涝灾害。新湖南客户端 图\n\n据平江县防汛抗旱指挥部有关负责人介绍，全县已经出动166支专业救援队伍、抗洪抢险人数15539人次、大型救援设备1695台（套），全力处置堤防险情，转移受淹区域的群众，逐步做好受灾群众安置工作。\n\n7月1日，湖南平江县天岳街道大西村，民兵在转移群众。新华社记者 陈思汗 摄\n\n\n消防官兵正在转移一名婴儿。@湖南消防 图\n\n\n7月1日，平江县三阳乡大西村，平江县人武部民兵和村干部在转移被困群众。新湖南客户端 图\n\n\n7月1日，在平江县天岳街道大西村，民兵在转移群众。新华社记者 陈思汗 摄\n\n\n7月1日，在平江县天岳街道大西村，民兵在转移群众。新华社记者 陈思汗 摄",
+          "link": "https://www.thepaper.cn/newsDetail_forward_27931476",
+          "publishedOn": "2024-07-02T13:53:03.000Z",
+          "wordCount": 209,
+          "title": "南方强降雨｜平江内涝：水位逼近红绿灯，正逐步下降",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_27934392",
+          "author": null,
+          "description": "澎湃新闻暗访揭露多地螺肉生产商将福寿螺剥壳后冒充田螺肉销售后，连日来，陆续有消费者反映，多个平台网店热销的螺肉疑似掺杂有福寿螺肉。\n7月2日，澎湃新闻（www.thepaper.cn）致电网售螺肉所涉生产厂家工商注册地属地市场监管部门，其中，广西柳州市柳江区市场监督管理局相关工作人员回应称，已将落实情况和整改情况上报至柳州市市场监管局和柳州市网信办处；湖南沅江市市场监督管理局工作人员表示，该局重视此事，目前已移交处理。\n6月28日，澎湃新闻刊发的福寿螺产业链调查报道中，记者根据网友线索，在抖音、淘宝等店铺，购买了“豆大亨”爆爽螺蛳酱、“抓猫的鱼”麻辣味吮指螺肉、“沅江市野食神食品有限公司”生产的腊肉螺肉酱、“灯泡厂孙姐”螺蛳粉和“辣岚格”牙签田螺肉，多款产品热销。经专家辨认，上述使用的螺肉与福寿螺肉高度相似。\n“豆大亨”爆爽螺蛳酱的生产企业湖南洞口辣妹子食品有限公司，位于湖南省邵阳市。7月2日下午，邵阳市洞口县市场监督管理局接线人员称，“没听说，听说了肯定就会现场调查出结果”。\n“抓鱼的猫”螺肉产品生产企业为湖北省多又多食品有限公司。潜江市市场监督管理局办公室接线人员称，会向领导请示，由相关科室联系处理。\n就沅江市野食神食品有限公司生产的腊肉螺肉酱，沅江市市场监督管理局投诉举报维权部门接线人员称，6月29日就接到了市民的相关投诉，7月1日已将此事转交至食品生产部门处理。“局内比较重视，目前正在处理中，还没有处理结果。”\n柳州市柳江区市场监督管理局办公室的接听电话的工作人员称，关于“孙姐螺的店”是否使用福寿螺作为螺肉原料一事，该办公室主任已将落实情况和整改情况上报至柳州市市场监管局和柳州市网信办，“已经处理”。不过，该工作人员称其未经手处理此事，不清楚具体的处理结果。\n“辣岚格”牙签螺肉生产企业为湖南梦享时代农业科技发展有限公司。7月2日下午，澎湃新闻暂未拨通长沙市望城区市场监管局的电话。长沙市12315热线工作人员称，会对“辣岚格”相关情况及其相关资质进行调查，调查后会反馈。\n此外，就澎湃新闻记者暗访时发现的衡阳市祁东县“湖南味了谁食品有限责任公司”生产时混用福寿螺、食品加工环境令人堪忧等情况，7月2日，祁东县市场监督管理局一位工作人员表示，目前还在调查中，不便接受采访。\n据澎湃新闻此前报道，6月上旬，澎湃新闻赴湖南、重庆等多地暗访发现，从野外捕捞的福寿螺价格低廉，与田螺等相差数倍，多被去壳加工“伪装”成田螺肉，流入市场。经剥壳筛选成串或熟制等工艺后，让人难以分辨。有贩子称，这几年，他们主卖去壳的福寿螺冻肉，一年销量有几百吨，主要销往一些餐饮店和预制菜工厂。\n专家指出，福寿螺可能存在寄生虫、重金属、新污染物等潜在风险，或对人体造成不可逆的伤害。从食品安全等多方面综合考虑，现阶段放开食用福寿螺不妥。\n近年来，多地疾控部门也呼吁，建议不要食用福寿螺。若要食用，务必煮熟、煮透。\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.run",
+          "link": "https://www.thepaper.cn/newsDetail_forward_27934392",
+          "publishedOn": "2024-07-02T13:53:03.000Z",
+          "wordCount": 41,
+          "title": "网上多款热销螺肉被指掺杂福寿螺肉，多地市监部门回应：正调查",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_27924118",
+          "author": null,
+          "description": "点击进入澎湃新闻全球事实核查平台\n速览\n-  网传“阿根廷欠中国350亿元到期不还，却一口气援乌5架战机”的说法具有误导性，两者之间并不存在直接关联。据阿根廷媒体报道，该国一直在讨论向乌克兰提供5架法制“超军旗”战机的可能性，但由于英国的禁运限制，阿根廷无法获得这些战机所需的弹射座椅，因此这些飞机也无法正常使用。此外，阿根廷军方已于去年5月宣布，这5架战机已进入退役状态。\n-  阿根廷总统发言人已就此事澄清，称阿根廷无意向乌克兰提供军事支持，并表示该国对乌克兰的援助仅限于人道主义援助。\n事件背景\n近日，中文社交平台广泛流传一则消息称，阿根廷在欠中国350亿元人民币贷款不还的情况下，竟转身一口气援助了乌克兰5架“超军旗”战机。\n\n网传说法相关截图。\n\n明查\n阿根廷欠中国350亿元人民币不还？\n经核查，网传说法的背景与阿根廷央行于近日发布的一则声明有关。\n据环球时报援引阿根廷央行6月12日发布的声明，中国已同意与阿根廷续签价值350亿元人民币的货币互换协议。声明表示，两国决定将货币互换协议的有效期延长12个月。自2025年年中起，阿根廷央行将用大约一年的时间逐步偿还货币互换协议中已经动用的部分资金。\n\n2024年6月12日，阿根廷央行在其官方网站发布声明截图。\n\n根据阿根廷央行5月公布的数据，原本今年6月和7月该国应分别向中国人民银行还款约29亿美元和19亿美元。然而，阿根廷媒体指出，如果双方未达成延期协议，本就深陷经济困难的米莱政府将在短期内面临巨大的偿还压力。\n2009年，阿根廷与中国首次签署货币互换协议，此后多次展期并陆续扩大互换额度。2023年1月8日，阿根廷央行发表声明称，该国和中国已经正式扩大货币互换协议，在原有的1300亿元人民币之外，阿根廷再获得额外350亿元人民币以增加外汇储备。此前，时任阿根廷总统费尔南德斯表示，该国获得“自由支配”350亿元人民币的权利，这…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_27924118",
+          "publishedOn": "2024-07-02T13:53:03.000Z",
+          "wordCount": 120,
+          "title": "明查｜阿根廷欠中国350亿到期不还，却转身援乌5架战机？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_27937678",
+          "author": null,
+          "description": "美股三大指数开盘集体下跌，道指跌0.19%，纳指跌0.42%，标普500指数跌0.29%。特斯拉涨近5%。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_27937678",
+          "publishedOn": "2024-07-02T13:53:03.000Z",
+          "wordCount": 32,
+          "title": "美股三大指数开盘集体下跌，特斯拉涨近5%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_27933021",
+          "author": null,
+          "description": "湖南平江县防汛抗旱指挥部7月2日下午发布《关于接受社会捐赠的公告》。公告表示，近日，平江县遭遇自有气象记录以来持续时间最长、强度最大、雨量最多的一次汛情，县防指于7月1日21时30分启动防汛Ⅰ级应急响应。水位之高、损失之大、受灾面积之广，前所未有，城区街道、老城区居民区几乎全部被淹，各乡镇多处塌方，道路阻断，全县农作物受灾严重，人民群众生命财产安全受到空前威胁。一方有难八方支援。值此危难关头，全县上下，众志成城，全力抗洪抢险。\n公告表示，县防汛抗旱指挥部倡议全县广大干部、职工，各中小企业，工商个体户，在外乡友和社会各界爱心组织、爱心人士伸出援助之手，踊跃捐款捐物，共克时艰，战胜特大灾害，重建最美家园。\n此次所有捐赠的款物，由平江县红十字会、平江县民政局统一接收，全部用于平江县受灾群众恢复家园，所有捐赠款物接收使用情况将及时向社会公布。衷心感谢社会各界对平江县防汛救灾给予的深切关怀和大力帮助。\n平江县在此前发布的《告全县父老乡亲书》曾表示，6月18日8时至7月1日20时，平江站降雨量762.4毫米，平江县遭遇自有气象记录以来持续时间最长、强度最大、雨量最多的一次汛情，县防指已于7月1日21时30分启动防汛Ⅰ级应急响应。在此重要时间节点，希望全县干部群众坚定信心、理解支持、共克时艰，打好打赢本次防汛抗灾攻坚战。据岳阳水文水资源勘测中心发布水情快报：7月2日00时30分，汨罗江干流平江站出现77.67米的洪峰水位，超过警戒水位（70.50米）7.17 米，超过保证水位（74.00米）3.67米。\n7月2日，汨罗江水位有所回落，湖南省水文水资源勘测中心官网显示，至7月2日15时，平江站水位略微回落到76.41米，超保2.41米，与洪峰水位相比降低了1.26米。\n附捐赠方式：\n1\n现金捐赠\n账户捐赠方式\n捐赠账户：（捐赠备注填写：防汛救灾）\n户名：平江县红十字会\n账号：1907061109026430695\n开户行：工商银行岳阳市平江县支行\n联系人：李国兵13874006779\n户名：平江县民政局慈善协会\n开户行：建设银行平江县天岳分理处\n账号：43001723666052500244\n联系人：余松柏19067211889、15842821788\n现场捐赠方式\n平江县红十字会办公室（平江县卫健局前栋一楼）\n联系人：李国兵13874006779\n平江县民政局机关慈善协会办公室\n联系人：余松柏19067211889、15842821788\n2\n物资捐赠\n需要的重点物资：矿泉水、面包、方便面、八宝粥、米、油、蜡烛、消杀用品等。\n联系人：李国兵13874006779\n地址：平江县红十字会办公室（平江县卫健局前栋一楼）\n联系人：余松柏19067211889、15842821788\n地址：平江县民政局机关慈善办公室",
+          "link": "https://www.thepaper.cn/newsDetail_forward_27933021",
+          "publishedOn": "2024-07-02T13:23:02.000Z",
+          "wordCount": 42,
+          "title": "关注平江｜平江发布公告：受灾情况前所未有，接受社会捐赠",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_27934376",
+          "author": null,
+          "description": "“上海向辖区内寺庙临时借款100亿人民币的香火钱作为短期周转债务”“静安寺贡献最大，贡献了48亿”……7月2日，一张显示来源为网易新闻的截图在社交平台流传，传言称这些消息的来源为上海市财政局一位不愿透露姓名的工作人员。\n这属实吗？上海辟谣平台记者从民宗部门、财政部门获悉，该传言不实，纯属谣言。\n上海市财政局预算处浦处长向记者介绍，今年上半年，上海地方一般公共预算收入平稳有增，财政运行总体健康，具体数字按照信息公开规定会在7月中旬在相关权威平台公布。\n目前，网信部门已对相关不实信息介入调查，并将相关违法线索移交公安机关进一步处置。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_27934376",
+          "publishedOn": "2024-07-02T13:23:02.000Z",
+          "wordCount": 32,
+          "title": "上海跟佛祖借了100亿元？权威部门回应",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_27937245",
+          "author": null,
+          "description": "记者从湖北省水利厅了解到，自6月以来，截止到7月2日，湖北全省平均降雨量达234毫米，较历史同期偏多27%，且大部分降雨集中在6月18日入梅以后。受此影响，长江干流及湖北省内中小河流、湖泊和水库水位迅速上涨。目前长江干流洞庭湖以下江段全线超警戒。截至7月2日19时，湖北全省共有761座水库超汛限。\n根据气象预报，7月2日到4日，湖北省的降雨带将逐步向西转移，并且会有明显降雨减弱的过程。但预计长江干流水位仍将缓涨，受长江水位顶托影响，府澴河、富水、滠水、倒水水位将缓慢上涨。（央视新闻）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_27937245",
+          "publishedOn": "2024-07-02T13:23:02.000Z",
+          "wordCount": 32,
+          "title": "湖北6月以来降雨偏多近三成，大部分集中在入梅以后",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_27937272",
+          "author": null,
+          "description": "7月2日，特斯拉美股盘前短线拉升涨超4%。消息面上，特斯拉第二季度交付量443956辆，高于预期。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_27937272",
+          "publishedOn": "2024-07-02T13:23:02.000Z",
+          "wordCount": 32,
+          "title": "特斯拉美股盘前涨超4%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_27932976",
+          "author": null,
+          "description": "据中国载人航天工程办公室消息，自圆满完成首次出舱活动以来，神十八乘组先后完成空间站实验机柜维护及组件安装、空间站舱内环境监测、第二次出舱活动准备等工作，承担的空间材料科学、空间生命科学、航天医学等领域实（试）验项目扎实稳步推进。\n目前，神十八乘组状态良好，空间站组合体运行稳定，“80后”乘组将于近日择机实施第二次出舱活动。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_27932976",
+          "publishedOn": "2024-07-02T13:23:02.000Z",
+          "wordCount": 32,
+          "title": "神十八乘组将择机第2次出舱",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_27932806",
+          "author": null,
+          "description": "7月2日，外交部发言人毛宁主持例行记者会。有记者问及有中国公民在菲律宾遭绑架遇害一事。\n毛宁表示，经核实，遭绑架遇害的人员包括一名中国公民。案发之后，中国驻菲律宾使馆同菲方保持着密切的联系，敦促菲方全力侦办案件，切实采取有效措施维护在菲律宾中国公民的安全，并为遇害人员的家属善后提供了协助。外交部将会同有关部门指导驻菲律宾使馆继续密切关注案件的进展，做好后续工作。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_27932806",
+          "publishedOn": "2024-07-02T13:23:02.000Z",
+          "wordCount": 39,
+          "title": "中国公民在菲遇害，外交部：将会同有关部门指导驻菲使馆密切关注案件进展",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_27935718",
+          "author": null,
+          "description": "徐州市近日出台《关于进一步优化政策措施促进房地产市场平稳健康发展的通知》，推出降低首付比例、取消贷款利率下限、加大房地产项目融资支持、优化主城区卖旧换新补贴流程、加大公积金支持卖旧换新力度等16条房地产“新政”。\n其中提出，降低首付比例。首套房最低首付比例由不低于20%调整为不低于15%，二套房最低首付比例不低于30%调整为不低于25%。\n取消首套房和二套房个人住房贷款利率下限。商业银行可根据经营状况、客户风险状况等因素，自主确定每笔贷款的具体利率水平。\n进一步优化主城区卖旧换新补贴流程。加快资金拨付，同时在信息查询、签约换购、登记办理、抵押权转移等方面出台一系列服务政策。\n加大公积金支持卖旧换新力度，对申请住房卖旧换新的购房人，只要享受到政府购房补贴，即可通过绿色服务专窗办理提取和贷款业务，贷款最高上限提高20%。（徐州发布）\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.run",
+          "link": "https://www.thepaper.cn/newsDetail_forward_27935718",
+          "publishedOn": "2024-07-02T12:23:02.000Z",
+          "wordCount": 32,
+          "title": "江苏徐州房地产新政：首套房最低首付比例由不低于20%调整为不低于15%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_27935763",
+          "author": null,
+          "description": "徐州市近日出台《关于进一步优化政策措施促进房地产市场平稳健康发展的通知》。其中提出，凭购房合同入学。购房人凭网签备案合同、契税发票在所在辖区就近入学，并接受教育主管部门的统筹安排。\n房票（购房卡）的使用单位由主城区扩大至市区范围（含铜山区、贾汪区、经开区、高新区、港务区），被征收人凭房票享受安置房契税减免。被征收人购房新建商品住宅未取得房产证（不动产权证）的，被征收人子女可在房产所在地报名入学，接受房产所在地教育行政部门统筹安排。\n不再新建安置房。鼓励国有企业收购存量商品住房用作安置房、公租房和人才房。\n实行商品房优质优价管理，房企根据市场变化情况自愿申报价格，行业监管部门做好指导和监督工作，享受国家优惠政策居民住宅价格，应当实行政府指导价或政府定价。\n另外，《通知》还在加大房地产项目融资支持，助力房地产企业纾困解难，营造向上向好的房地产行业网络环境作出了要求。（徐州发布）\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.run",
+          "link": "https://www.thepaper.cn/newsDetail_forward_27935763",
+          "publishedOn": "2024-07-02T12:23:02.000Z",
+          "wordCount": 32,
+          "title": "江苏徐州：不再新建安置房，鼓励国有企业收购存量商品住房用作安置房、公租房和人才房",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_27934237",
+          "author": null,
+          "description": "新华社雅加达7月2日消息，印度尼西亚羽毛球协会1日就17岁国羽小将张志杰6月30日在该国参加比赛时意外离世举行新闻发布会，介绍事件经过，并表示医院的治疗和检查显示张志杰因突发心脏骤停离世。\n另据新华社记者了解，张志杰姐姐已赶赴印尼。\n印尼羽协公关部主任布罗托·哈皮在1日发布会上描述了事件的紧急处理过程。他说：“张志杰在参加亚洲青年羽毛球锦标赛团体赛小组赛最后一场比赛时突然倒地。按照世界羽联和亚洲羽联的规定，医疗人员在接到裁判的允许后立即进入赛场进行初步检查和急救。”\n哈皮表示，医疗人员在检查后发现张志杰意识减弱，呼吸不畅，决定立即将其送往距离赛场4.7公里的日惹空军中心医院，而选择该医院是因为其符合亚洲羽联关于医院距离和设施的要求。他说：“从医疗人员进入赛场到决定送往医院，仅用了1分20秒。”\n哈皮介绍，在空军中心医院急诊室，医生发现张志杰没有脉搏和自主呼吸后，立即进行了CPR并使用呼吸机进行辅助治疗。急救持续了三个小时，但张志杰未见任何自主呼吸反应。哈皮说：“30日20时50分，医生宣布张志杰死亡。”\n他补充说，中方团队随后要求将张志杰转送至中央综合医院进行进一步治疗。尽管又进行了一个半小时的心肺复苏，但依然未见自主呼吸反应，最终于23时20分停止了抢救。\n他说：“经过在空军中心医院和中央综合医院的治疗和检查，结果均显示张志杰因突发心脏骤停离世。”\n哈皮还在发布会上表示，根据目前世界羽联的标准操作规范，医疗人员必须在得到裁判的允许后才能进入赛场。印尼羽协已向世界羽联提交书面申请，请求世界羽联修订医疗团队在未经裁判允许的情况下不得入场的规则。\n“如果发生紧急情况，医疗人员进场的速度必须比本次意外更快。为了运动员的安全，也许可以废除这条规则。”他说。\n1日，亚洲羽毛球联合会、中国羽毛球协会等多方发布公告，对张志杰不幸离世深表哀悼。中国羽协表示将与亚洲羽毛球联合会、亚洲青年羽毛球锦标赛组委会和印尼各方继续保持联系，并将竭尽全力为张志杰的家人提供帮助，做好各项善后工作。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_27934237",
+          "publishedOn": "2024-07-02T11:53:03.000Z",
+          "wordCount": 32,
+          "title": "印尼羽协称张志杰因心脏骤停离世，家属已赴印尼",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_27934583",
+          "author": null,
+          "description": "欧洲中部时间7月2日，经济合作与发展组织（经合组织）和联合国粮食及农业组织（粮农组织）共同发布《2024-2033农业展望》报告，对未来十年全球、区域和国家层面农产品等市场前景进行全面分析。报告通过模拟场景预测，到2030年，全球食品损失和浪费如果减半，可使农业温室气体排放量下降4%，营养不良人口减少1.53亿。但这一目标非常具有挑战性，需要消费者和生产者做出重大改变。\n根据粮农组织的数据，全球约三分之一的人类食物生产被浪费或损失，造成无用排放和粮食资源浪费。2021年至2023年间，食品浪费的一半来自水果和蔬菜，主要原因是它们的保质期较短，容易变质；其次是谷物，占食品浪费总量的四分之一以上。粮农组织估计，到2030年大约还有6亿人面临饥饿。报告称，减少食品损失和浪费可以确保低收入人群有更多机会获得粮食。（央视新闻）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_27934583",
+          "publishedOn": "2024-07-02T11:53:03.000Z",
+          "wordCount": 32,
+          "title": "粮农组织估计到2030年大约还有6亿人面临饥饿",
+          "imageUrl": null
+        },
         {
           "id": "https://www.thepaper.cn/newsDetail_forward_27932947",
           "author": null,
@@ -11928,86 +12108,6 @@
           "wordCount": 32,
           "title": "京东健康回应核心部门被裁传闻",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_27604604",
-          "author": null,
-          "description": "对于近期市场上关于特斯拉单踏板模式或被禁止的传言，特斯拉方面向记者回应称，这项标准目前尚未正式发布和实施，不影响现有的产品和功能。近期，工信部就一项强制性国家标准《乘用车制动系统技术要求及实验方法》公开征求意见，其中涉及对新能源汽车能量回收制动功能应用条件的变化。对此，市场上有声音认为，特斯拉单踏板模式或许将被禁止。（贝壳财经）",
-          "link": "https://www.thepaper.cn/newsDetail_forward_27604604",
-          "publishedOn": "2024-06-03T04:23:03.000Z",
-          "wordCount": 32,
-          "title": "特斯拉回应“单踏板模式被禁”传言：不影响现有的产品和功能",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_27604739",
-          "author": null,
-          "description": "6月3日，记者从中国铁路南昌局集团有限公司（以下简称“南铁”）获悉，今年端午假期，铁路运输期限为6月7日至11日。5天时间里，南铁预计发送旅客514万人次，江西、福建分别预计发送旅客259万人次和255万人次。其中，客流最高峰预计出现在假期首日6月8日，当天单日旅客发送量将达到116万人次。\n与往年不同的是，今年端午假期与高考时间有所重叠，且临近暑假，因而中长途出游需求相应减少，南铁管内客流将以短途探亲流、旅游流为主，主要集中在江西的南昌、上饶、萍乡、赣州，福建的福州、南平、龙岩、厦门等方向。（澎湃新闻记者 罗振宇）",
-          "link": "https://www.thepaper.cn/newsDetail_forward_27604739",
-          "publishedOn": "2024-06-03T04:23:03.000Z",
-          "wordCount": 36,
-          "title": "端午假期，南昌铁路局预计发送旅客514万人次",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_27604150",
-          "author": null,
-          "description": "记者获悉，财政部日前下达2024年财政贴息和奖补资金64.4亿元，用于2024年汽车以旧换新中央财政补贴资金预拨。\n财政部关于下达2024年汽车以旧换新补贴中央财政预拨资金预算的通知",
-          "link": "https://www.thepaper.cn/newsDetail_forward_27604150",
-          "publishedOn": "2024-06-03T03:53:07.000Z",
-          "wordCount": 35,
-          "title": "64.4亿元！财政部下达2024年汽车以旧换新补贴",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_27604545",
-          "author": null,
-          "description": "6月3日，截至11:30，亚太主要股指集体上涨，日经225指数涨0.88%报38819.88点，个股方面，三菱日联金融、索尼、三菱商事、迅销等多股涨近2%。\n韩国综指涨1.96%报2687.56点，现代汽车涨超6%，三星电子涨近4%，三星生物制剂、起亚汽车涨超3%，SK海力士涨超2%。\n澳洲标普200指数涨0.76%报7760.40点；新西兰标普50指数涨0.77%报7761点。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_27604545",
-          "publishedOn": "2024-06-03T03:53:07.000Z",
-          "wordCount": 33,
-          "title": "亚太主要股指午间集体上涨，韩国综指涨1.96%",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_27604567",
-          "author": null,
-          "description": "6月3日，印度SENSEX30指数高开3.55%报76583.29点，续创历史新高。权重股印度国家银行涨4.56%，信实工业涨4.03%，塔塔咨询涨2.87%。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_27604567",
-          "publishedOn": "2024-06-03T03:53:07.000Z",
-          "wordCount": 32,
-          "title": "印度SENSEX30指数高开3.55%",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_27604450",
-          "author": null,
-          "description": "6月3日，国内黑色系期货大跌，硅铁主力合约跌超7%，跌破7500元/吨，锰硅跌超4%，焦炭跌超2%，铁矿石、螺纹钢跌超1%。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_27604450",
-          "publishedOn": "2024-06-03T03:23:03.000Z",
-          "wordCount": 32,
-          "title": "国内黑色系期货大跌，硅铁主力合约跌超7%",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_27604519",
-          "author": null,
-          "description": "总台记者从山东华丰煤矿救援现场获悉，6月1日华丰煤矿事故发生后，山东省现场救援指挥部采取抢排水、打钻放水、打通救援通道等措施，全力搜救被困人员。通过连续作业，截至6月3日凌晨4时，巷道积水已基本排清，发现一名被困人员，经医学鉴定，已无生命体征。\n\n目前巷道现场淤泥堆积量较大，长达90余米，救援队伍今天开始清淤作业，预计作业时间或将持续几天。救援队伍将继续全力以赴做好被困人员搜救工作，同时严防发生次生事故。\n\n（央视新闻）",
-          "link": "https://www.thepaper.cn/newsDetail_forward_27604519",
-          "publishedOn": "2024-06-03T03:23:03.000Z",
-          "wordCount": 38,
-          "title": "山东华丰煤矿事故现场发现一名被困人员，已无生命体征",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_27604189",
-          "author": null,
-          "description": "据国家医保局6月2日消息，5月24日，国家医保局基金监管司对一心堂药业集团股份有限公司（一心堂，002727）有关负责人进行了约谈。医保局有关负责人介绍，从医保基金监管实践看，一些定点零售药店违法违规使用医保基金主要存在五种情形，包括虚假开药、串换药品、超量开药、为其他药店代为进行医保结算等。\n一心堂、大参林（603233）、老百姓（603883）、益丰药店（603939）被称为A股四大连锁药店。6月3日，记者以投资者身份联系了大参林投资者热线，工作人员表示，公司从头到尾都是合规经营，内部也一直有检查。从公司层面，一直是按标准执行的，医保该怎么运行就怎么运行。\n据2023年财报，大参林的门店覆盖全国19个省（自治区、直辖市），门店数量达到 14074 家，其中直营门店9909 家，加盟店4165家。（澎湃新闻记者 李潇潇）",
-          "link": "https://www.thepaper.cn/newsDetail_forward_27604189",
-          "publishedOn": "2024-06-03T02:53:02.000Z",
-          "wordCount": 42,
-          "title": "连锁药店大参林：公司一直合规经营，医保按标准执行",
-          "imageUrl": null
         }
       ]
     },
@@ -12016,6 +12116,86 @@
       "feedUrl": "https://www.nationalreview.com/feed/",
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
+        {
+          "id": "https://www.nationalreview.com/?p=1661981",
+          "author": "The Editors",
+          "description": "Contrary to Justice Sonia Sotomayor’s dissent, this does not place the president ‘above the law.’",
+          "link": "https://www.nationalreview.com/2024/07/trumps-partial-victory-at-the-supreme-court/",
+          "publishedOn": "2024-07-02T13:42:29.000Z",
+          "wordCount": 8963,
+          "title": "Trump’s Partial Victory at the Supreme Court",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/01/donald-trump-sioux-city-iowa.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1661744",
+          "author": "Neal B. Freeman",
+          "description": "Jill Biden’s no mere moneygrubber, Florida eludes Democrats, Shohei Ohtani excels, and more.",
+          "link": "https://www.nationalreview.com/2024/07/nobody-asked-me-but/",
+          "publishedOn": "2024-07-02T10:30:52.000Z",
+          "wordCount": 8651,
+          "title": "Nobody Asked Me, But . . .",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/07/joe-biden-jill-biden-atlanta-ga.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1659316",
+          "author": "Paul Terdal",
+          "description": "It’s understandable to want to help troubled kids. But the evidence simply isn’t there that unproven drugs and surgeries are what they need.",
+          "link": "https://www.nationalreview.com/2024/07/progressives-drive-for-equity-is-leading-them-astray-on-medical-gender-transition-for-minors/",
+          "publishedOn": "2024-07-02T10:30:43.000Z",
+          "wordCount": 9117,
+          "title": "Progressives’ Drive for Equity Is Leading Them Astray on Medical Gender Transition for Minors",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2022/10/transgender-boston-childrens-hospital.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1661502",
+          "author": "Andre Archie",
+          "description": "DEI may be on the wane, but mere creedalism can no longer sustain America. We need something deeper.",
+          "link": "https://www.nationalreview.com/2024/07/what-should-replace-the-diversity-equity-and-inclusion-regime/",
+          "publishedOn": "2024-07-02T10:30:41.000Z",
+          "wordCount": 10207,
+          "title": "What Should Replace the ‘Diversity, Equity, and Inclusion’ Regime",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2019/07/naturalization-ceremony-los-angeles-2018.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1658989",
+          "author": "Steven Wills",
+          "description": "Recent events have reminded a forgetful nation that seafaring soldiers can make a big difference, in times of peace and war.",
+          "link": "https://www.nationalreview.com/2024/07/it-turns-out-we-actually-need-a-navy/",
+          "publishedOn": "2024-07-02T10:30:39.000Z",
+          "wordCount": 9704,
+          "title": "It Turns Out We Actually Need a Navy",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/02/defending-america-020524-25.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1661335",
+          "author": "Tevi Troy",
+          "description": "How previous White Houses — and the press — might have handled Tyler Cherry’s controversial tweets.",
+          "link": "https://www.nationalreview.com/2024/07/what-to-do-when-a-white-house-aide-goes-rogue/",
+          "publishedOn": "2024-07-02T10:30:31.000Z",
+          "wordCount": 8924,
+          "title": "What to Do When a White House Aide Goes Rogue",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/07/white-house-staff.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1661695",
+          "author": "Iain Murray",
+          "description": "No longer can a federal agency be its own judge, interpreter of the law, and jury.",
+          "link": "https://www.nationalreview.com/2024/07/the-supreme-court-reasserts-procedural-justice/",
+          "publishedOn": "2024-07-02T10:30:25.000Z",
+          "wordCount": 8827,
+          "title": "The Supreme Court Reasserts Procedural Justice",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2021/12/supreme-court-pedestrians.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1661778",
+          "author": "Rich Lowry",
+          "description": "He’s poorly positioned to assist Joe Biden when he needs it most.",
+          "link": "https://www.nationalreview.com/2024/07/jack-smith-might-not-save-democrats-after-all/",
+          "publishedOn": "2024-07-02T10:30:25.000Z",
+          "wordCount": 8930,
+          "title": "Jack Smith Might Not Save Democrats after All",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/08/jack-smith-indictment.jpg?fit=2057%2C1200&ssl=1"
+        },
         {
           "id": "https://www.nationalreview.com/?p=1661649",
           "author": "Dan McLaughlin",
@@ -15305,16 +15485,6 @@
           "wordCount": 11546,
           "title": "Xi Jinping’s Thoughts — and Delusions",
           "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/06/xi-jinping-ccp.jpg?fit=1200%2C700&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?post_type=blog-post&p=1644724",
-          "author": "James Lynch",
-          "description": "More than 1,000 complaints have been made against Aileen Cannon for her supposedly ruling in Trump’s favor throughout the proceedings.",
-          "link": "https://www.nationalreview.com/news/judge-rejects-orchestrated-campaign-to-remove-trump-appointed-judge-from-classified-docs-case/",
-          "publishedOn": "2024-06-02T20:35:42.000Z",
-          "wordCount": 8762,
-          "title": "Judge Rejects ‘Orchestrated Campaign’ to Remove Trump-Appointed Judge from Classified-Docs Case",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/06/judge-aileen-cannon.jpg?fit=2057%2C1200&ssl=1"
         }
       ]
     },
@@ -15323,6 +15493,26 @@
       "feedUrl": "https://sspai.com/feed",
       "siteUrl": "https://sspai.com",
       "articles": [
+        {
+          "id": "https://sspai.com/post/90160",
+          "author": "Matrix机器人",
+          "description": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。一周热评彷徨 ...查看全文",
+          "link": "https://sspai.com/post/90160",
+          "publishedOn": "2024-07-02T11:13:26.000Z",
+          "wordCount": 965,
+          "title": "社区速递 051 | 一周热评、AirTag 平替与派友的主屏幕",
+          "imageUrl": "https://cdnfile.sspai.com/2/7/2024/article/d537a8f2-ee97-b025-7360-66681c58b08c.gif"
+        },
+        {
+          "id": "https://sspai.com/post/90121",
+          "author": "Wonz",
+          "description": "写在前面即将离开北京前，决定写点什么记录一下自己曾经热爱的北京live现场。当初选择毕业后来北京工作其中有一个原因就是觉得北京演出多，音乐氛围好。但经历过疫情，加上最近这两年自己的亲身经历，对北京的演 ...查看全文",
+          "link": "https://sspai.com/post/90121",
+          "publishedOn": "2024-07-02T07:00:00.000Z",
+          "wordCount": 971,
+          "title": "北京 LiveHouse 地图：那个塑造了我音乐喜好的地方",
+          "imageUrl": "https://cdnfile.sspai.com/2024/07/01/62f069775d7ae220458f74a1b3786c43.jpg"
+        },
         {
           "id": "https://sspai.com/post/89281",
           "author": "爱拼安小匠",
@@ -16382,26 +16572,6 @@
           "wordCount": 703,
           "title": "卡夫卡逝世 100 周年：他的困境，就是我们现代人的困境",
           "imageUrl": "https://cdnfile.sspai.com/2024/6/3/article/14356644-5fe7-6b94-9243-9e8db15fb803.png"
-        },
-        {
-          "id": "https://sspai.com/post/89289",
-          "author": "化学心情下2",
-          "description": "经过一段时间的试用，我正式将自部署的 Readeck 作为我的主要稍后读服务，并且实现了我接触的场景下全平台的发送网址/阅读解决方案。查看全文",
-          "link": "https://sspai.com/post/89289",
-          "publishedOn": "2024-06-03T03:29:26.000Z",
-          "wordCount": 958,
-          "title": "自力更生 | 基于 Readeck 搭建个人稍后读与书签服务",
-          "imageUrl": "https://cdnfile.sspai.com/2024/06/02/ca4de222253d78dcc505012e4623c194.png"
-        },
-        {
-          "id": "https://sspai.com/post/89306",
-          "author": "少数派编辑部",
-          "description": "你可能错过的新鲜事音乐文件共享平台Napster推出25周年6月1日，在文件共享和数字音乐历史上有重要地位的软件Napster推出满25周年。1999年，17岁的ShawnFanning在其IRC聊天 ...查看全文",
-          "link": "https://sspai.com/post/89306",
-          "publishedOn": "2024-06-03T00:55:29.000Z",
-          "wordCount": 879,
-          "title": "派早报：Napster 推出 25 周年",
-          "imageUrl": "https://cdnfile.sspai.com/6/3/2024/article/80e4556e-e8fd-741b-fe2b-b8e9b0671378.png"
         }
       ]
     },
@@ -19484,6 +19654,26 @@
       "siteUrl": "http://nytimes.com",
       "articles": [
         {
+          "id": "https://cn.nytimes.com/usa/20240702/biden-debate-performance/dual",
+          "author": null,
+          "description": "SHANE GOLDMACHER2024年7月2日拜登总统在上周四辩论中的表现，引发了新一轮关于他是否应该继续竞选的质疑。 Haiyun Jiang for The New York Times\nFor years, President Biden has had a ready retort for the naysayers who have questioned his facility and fitness to run for president again at age 81 and to serve until he is 86. “Watch me,” he has said.\n多年来，拜登总统对那些质疑他是否有能力、是否适合以81岁高龄再次竞选总统并任职到86岁的反对者，一直有一个挂在嘴边的反驳。“看我的，”他说。\nBut in the days since tens of millions of Americans watched him fumble Thursday’s debate in real time, Mr. Biden has essentially adopted a new line: Trust me.\n但自从数千万美国人观看了他在周四辩论直播中的笨拙表现后，拜登就完全采用了一个新说法：相信我。\n“Folks,” he said at a New York fund-raiser the next night, “I would not be running again if I did not believe with all of my heart and soul that I can do this job.”\n“各位，”第二天晚上他在纽约的一个筹款活动上说，“如果我不是充分相信自己能够胜任这份工作，我是不会再次参选的。”…",
+          "link": "https://cn.nytimes.com/usa/20240702/biden-debate-performance/dual",
+          "publishedOn": "2024-07-02T08:36:02.000Z",
+          "wordCount": 1272,
+          "title": "拜登团队无视退选呼声与质疑，坚持继续参选",
+          "imageUrl": "https://static01.nyt.com/images/2024/07/01/multimedia/01pol-biden-memo-top-cmbh/01pol-biden-memo-top-cmbh-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/world/20240702/macron-election-national-rally/dual",
+          "author": null,
+          "description": "ROGER COHEN2024年7月2日周日，法国总统马克龙在法国北部勒图凯的一个投票站。 Pool photo by Yara Nardi\nAn era has ended in France.\n法国的一个时代结束了。\nThe seven-year domination of national politics by President Emmanuel Macron was laid to rest by his party’s overwhelming defeat in the first round of parliamentary elections on Sunday. Not only did he dissolve Parliament by calling a snap vote, he effectively dissolved the centrist movement known as “Macronism.”\n周日，法国总统马克龙领导的政党在第一轮议会选举中遭遇了压倒性的失败，他对国家政治中长达七年的统治也随之告终。他不仅通过临时投票解散了议会，实际上解散了被称为“马克龙主义”的中间派运动。\nThe far-right National Rally, in winning a third of the vote, did not guarantee that it will win an absolute majority in a runoff six days from now, although it will likely get close. But Mr. Macron, risking all by calling the election, did end up guaranteeing that he will be margi…",
+          "link": "https://cn.nytimes.com/world/20240702/macron-election-national-rally/dual",
+          "publishedOn": "2024-07-02T07:06:02.000Z",
+          "wordCount": 1741,
+          "title": "“马克龙主义”自残式失败，法国面临危险分水岭",
+          "imageUrl": "https://static01.nyt.com/images/2024/07/01/multimedia/01macron-analysis-1-vlkm/01macron-analysis-1-vlkm-articleLarge.jpg"
+        },
+        {
           "id": "https://cn.nytimes.com/usa/20240702/trump-supreme-court-immunity/dual",
           "author": null,
           "description": "MAGGIE HABERMAN2024年7月2日前总统特朗普周五在弗吉尼亚州的竞选集会上。 Tom Brenner for The New York Times\nA legal system that has dealt Donald J. Trump painful blows over the last six months has just granted him one of the most significant pieces of good news he’s received since his campaign began.\n过去六个月来给特朗普带来沉重打击的法律体系刚刚为他带来了一个自竞选开始以来最重要的好消息。\nThe U.S. Supreme Court, whose conservative supermajority was cemented by Mr. Trump’s nominations, ruled on Monday that the former president is partly shielded from prosecution as he tries to fend off an indictment from the special counsel Jack Smith in connection with Mr. Trump’s efforts to thwart the transfer of power after the 2020 election.\n美国最高法院保守派占绝对多数的情况因特朗普任内提名的法官而得以巩固，该法院周一裁定，特朗普在试图抵御特别检察官杰克·史密斯针对他在2020年大选后阻挠权力移交而提出的诉讼时，可部分免于起诉。\nThe broad contours of the ruling — th…",
@@ -20322,36 +20512,6 @@
           "wordCount": 926,
           "title": "北京指英国MI6策反中国公务员夫妇从事间谍活动",
           "imageUrl": "https://static01.nyt.com/images/2024/06/03/multimedia/03china-MI6-mwgk/03china-MI6-mwgk-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/asia-pacific/20240603/palau-taiwan-china-hack/dual",
-          "author": null,
-          "description": "JACOB JUDAH2024年6月3日2022年，帕劳总统萨兰格尔·惠普斯（右）在访问台湾期间与时任台湾总统蔡英文会面。帕劳是世界上少数几个承认台湾是独立民主国家的国家之一。 Ann Wang/Reuters\nPalau, a clump of about 350 small islands in the Pacific Ocean, has become increasingly important to the United States as China tries to build clout in the Indo-Pacific. This year, Washington finalized a long-delayed plan to give Palau hundreds of millions of dollars in aid over two decades.\n帕劳是太平洋上由大约350个小岛组成的岛群，随着中国试图在印度洋-太平洋地区建立影响力，帕劳对美国的重要性与日俱增。今年，华盛顿敲定了一项拖延已久的计划，将在20年内向帕劳提供数亿美元的援助。\nHours before diplomats gathered at the U.S. Embassy in Palau to toast the agreement, the island nation was hit by an enormous cyberattack. More than 20,000 documents were stolen from the government.\n就在外交官们聚集在美国驻帕劳大使馆为协议干杯的几个小时前，这个岛国遭受了一次大规模网络攻击。2万多份政府文件被盗。\nA few weeks later, in April, they appeared on t…",
-          "link": "https://cn.nytimes.com/asia-pacific/20240603/palau-taiwan-china-hack/dual",
-          "publishedOn": "2024-06-03T04:36:03.000Z",
-          "wordCount": 1334,
-          "title": "台湾邦交国帕劳遭黑客攻击，是否出于政治原因？",
-          "imageUrl": "https://static01.nyt.com/images/2024/05/21/multimedia/00palau-gmft/00palau-gmft-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/world/20240603/zelensky-singapore-ukraine-china/dual",
-          "author": null,
-          "description": "储百亮, DAMIEN CAVE2024年6月3日中国国防部长董军周日在新加坡的香格里拉对话上发表讲话，反对美国支持台湾。 Nhac Nguyen/Agence France-Presse — Getty Images\nThe competing strains on U.S. global power came into sharp focus at a security conference on Sunday, where China accused the United States of stoking tensions around Taiwan and the South China Sea, and President Volodymyr Zelensky of Ukraine sought greater support for his embattled country.\n全球多个地区纷纷竞争美国影响力的支持，这给美国造成的压力在周日一个安全会议上备受关注。中国在会上指责美国在台湾海峡和南海制造紧张局势，乌克兰总统泽连斯基则在会上为他处境艰难的祖国寻求更多支持。\nThese scenes played out at the Shangri-La Dialogue, an annual security forum in Singapore that has long been a barometer of the ups and downs of U.S.-China relations.\n这些场景发生在香格里拉对话期间。长期以来，这个在新加坡举行的年度安全论坛一直是美中关系起伏的晴雨表。\nThis year, the United States defense secretary, Lloyd J. Austin III, and China’s de…",
-          "link": "https://cn.nytimes.com/world/20240603/zelensky-singapore-ukraine-china/dual",
-          "publishedOn": "2024-06-03T02:36:01.000Z",
-          "wordCount": 1287,
-          "title": "“美中关系晴雨表”：香格里拉对话凸显双方分歧",
-          "imageUrl": "https://static01.nyt.com/images/2024/06/02/multimedia/02asia-security-gmcv/02asia-security-gmcv-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/world/20240603/trump-conviction-world-reaction/dual",
-          "author": null,
-          "description": "HANNAH BEECH, PAUL SONNE2024年6月3日周四，特朗普被定罪后在纽约。 Hiroko Masuike/The New York Times\nThe world does not vote in American presidential elections. Nor do its jurors play a part in the American judicial system. Nevertheless, the conviction of Donald J. Trump on all 34 felony counts in a hush-money trial in a New York court on Thursday has again made clear how consequential what happens in the United States is for the rest of the planet.\n国际社会不参与美国总统大选的投票。它的陪审员也不参与美国的司法系统。尽管如此，特朗普于周四在纽约一家法院的封口费审判中被判定犯有全部34项重罪，这件事再次清楚地表明，美国发生的事情对世界其他地区的影响有多大。\nMany America-watchers are grappling with the same questions posed by people in the United States: Can Mr. Trump still run for president? (Yes.) And if so, will the guilty verdicts cut into the support from his political base? (Unclear.)\n许多观察美国的人士正在努力弄清美国人民提出的同…",
-          "link": "https://cn.nytimes.com/world/20240603/trump-conviction-world-reaction/dual",
-          "publishedOn": "2024-06-03T01:06:02.000Z",
-          "wordCount": 1647,
-          "title": "声援、警惕与担忧：世界各国密切关注特朗普政治前景",
-          "imageUrl": "https://static01.nyt.com/images/2024/05/31/multimedia/31trump-world-reaction-vczq/31trump-world-reaction-vczq-articleLarge.jpg"
         }
       ]
     },
@@ -20928,36 +21088,6 @@
           "publishedOn": "2024-06-05T02:00:00.000Z",
           "wordCount": 294,
           "title": "从“医疗消费主义”到“照顾自己”：药物成瘾者难以完成的拯救",
-          "imageUrl": null
-        },
-        {
-          "id": "aec46f03507e6e84ca1c92e39f5c4e62",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E6%B5%8B%E9%87%8F%E6%98%9F%E6%98%9F%E7%9A%84%E5%A5%B3%E5%A3%AB%EF%BC%9A%E5%A5%B9%E4%BB%AC%E8%A7%81%E8%AF%81%E4%BA%86%E6%91%84%E5%BD%B1%E6%9C%AF%E4%B8%8E%E5%85%89%E8%B0%B1%E5%AD%A6%E5%85%B4%E8%B5%B7%E7%9A%84%E6%97%B6%E4%BB%A3",
-          "publishedOn": "2024-06-03T00:35:00.000Z",
-          "wordCount": 328,
-          "title": "测量星星的女士：她们见证了摄影术与光谱学兴起的时代",
-          "imageUrl": null
-        },
-        {
-          "id": "db69fa3955d0867c50db84ea012a9be9",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E7%BA%AA%E5%BF%B5%E5%8D%A1%E5%A4%AB%E5%8D%A1%E9%80%9D%E4%B8%96100%E5%91%A8%E5%B9%B4%E4%B8%A8%E5%8D%A1%E5%A4%AB%E5%8D%A1%EF%BC%9A%E6%B0%B8%E8%BF%9C%E7%9A%84%E5%84%BF%E5%AD%90",
-          "publishedOn": "2024-06-03T00:35:00.000Z",
-          "wordCount": 287,
-          "title": "纪念卡夫卡逝世100周年丨卡夫卡：永远的儿子",
-          "imageUrl": null
-        },
-        {
-          "id": "431a2111c4d80512f520d25ad1848bf7",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E3%80%8A%E5%8D%A1%E5%A4%AB%E5%8D%A1%E7%9A%84%E5%8D%A1%E5%A4%AB%E5%8D%A1%E3%80%8B%EF%BC%9A%E4%BB%96%E7%9A%84%E7%94%BB%E4%B8%8D%E6%98%AF%E6%96%87%E5%AD%A6%E6%84%8F%E8%B1%A1%EF%BC%8C%E6%98%AF%E6%89%93%E7%A0%B4%E4%BA%86%E5%86%99%E4%BD%9C%E6%9D%9F%E7%BC%9A%E7%9A%84%E5%9B%BE%E5%83%8F",
-          "publishedOn": "2024-06-03T00:35:00.000Z",
-          "wordCount": 343,
-          "title": "《卡夫卡的卡夫卡》：他的画不是文学意象，是打破了写作束缚的图像",
           "imageUrl": null
         }
       ]
