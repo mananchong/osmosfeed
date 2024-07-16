@@ -44,16 +44,6 @@
           "wordCount": 5819,
           "title": "R Weekly 2024-W26 MotherDuck, sculpting the moon, nanoparquet",
           "imageUrl": "https://rweekly.org/public/facebook.png"
-        },
-        {
-          "id": "https://rweekly.org/2024-W25.html",
-          "author": null,
-          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Ryo Nakagawara, with help from the R Weekly team members and contributors.\nHighlight\nExpose CRAN deadlines and DOIs\nA fresh new look for R-universe!\n{handwriter} 3.1.1: Handwriting Analysis in R\nInsights\nKeith Karani Wachira: Leading the Dekut R Community in Kenya and Innovating with R?\nExpose CRAN deadlines and DOIs\n\nA fresh new look for R-universe!\nHack your way to a good Git history\nR in the Real World\nForecasting the UEFA Euro 2024 with a machine learning ensemble\nSimulations for 2024 Euro Cup and Copa America\n\nNew Packages\n📦 Go Live for More New Pkgs 📦\nCRAN\n{bidask} 2.0.4: Efficient Estimation of Bid-Ask Spreads from Open, High, Low,\nand Close Prices\n{RPregression} 0.…",
-          "link": "https://rweekly.org/2024-W25.html",
-          "publishedOn": "2024-06-17T00:00:00.000Z",
-          "wordCount": 6389,
-          "title": "R Weekly 2024-W25 CRAN deadlines, R-universe, {handwriter} package",
-          "imageUrl": "https://rweekly.org/public/facebook.png"
         }
       ]
     },
@@ -529,6 +519,206 @@
       "feedUrl": "https://feedx.net/rss/thepaper.xml",
       "siteUrl": "http://thepaper.cn",
       "articles": [
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28084713",
+          "author": null,
+          "description": "7月4日，上海正式发布无驾驶人智能网联汽车示范应用许可，至今已有约半个月。其间，各家智驾企业主要都在聚焦测试前期的准备与微调，预计最快将在未来一周内启动面向普通市民的无驾驶人智能网联汽车实地测试，测试期间全程免费。\n在上海临港约有68平方公里的测试区域，微信小程序上，每一个“R”字显示的位置，都是可以上车的地点。\n输入目的地，等候差不多几分钟的时间，一辆无驾驶人的智能网联汽车就开了过来。和目前如火如荼的武汉全车无工作人员的模式不同，上海这边的测试方案和其表述一致，为“无驾驶人”，但会在副驾位置安排一位安全员，以应对突发状况，安全系数无疑更高。\n\n上车后，乘客可以在车载平台电脑上输入四位手机号，系好安全带，点击出发，即可前往设定好的目的地。\n\n在后排，乘客既可以查看行驶路线，也可以实时查看周围路况，并附带有空调调节、音乐娱乐等功能。\n乘坐体验来看，行驶平稳，掉头、避让等动作不会让乘客出现明显的不适感、顿挫感。识别红绿灯主要通过车载摄像头的视觉算法实现，但偶尔也会遭遇一些突发状况。在此次测试中，透视记者也确实遇到了此类情况。“红绿灯没开，它现在可能因为红绿灯信号灯今天正好有问题，导致车现在不动了，停在路上了。”\n\n过了大约1分半，车辆又恢复启动并顺利通过路口。除了部分有待优化的内容之外，诸如没有车道线的场地内部道路识别，内部窄路坡道通过等“小路考”测试题也令人惊喜。\n透视记者现场观察到，它的算法是偏向于保守，在整个行驶过程中变道次数也不频繁，相对会在通行状况尚可的一条车道上长期保持行驶。\n\n测试企业方面介绍，首批预计将有5辆车投入公开测试，后续还会有新车陆续跟进，车型也会有所增加，具体以实际测试后的表现机动调节运能。\n赛可智能科技(上海)有限公司质量与运营总监陈国发表示：“现在基本上城区百分之九十以上的场景、相当于比人类新手司机驾驶要安全很多，然后还有一些小部分的场景，比如说加塞、一些交通规则里面比较含糊的地带，可能还要做一些比较好的博弈算法，也不是说完全礼让或者在道路拥挤时不动。我们首批是拿到五辆车，现在我们第三代的产品也正在研发生产‘考试’的过程中，估计年底我们会投放四十台车以上。”\n（原标题为《重磅！面向市民 全程免费！上海将启动无人驾驶汽车公测》）\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.run",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28084713",
+          "publishedOn": "2024-07-16T15:53:02.000Z",
+          "wordCount": 57,
+          "title": "上海预计最快一周内启动无人驾驶汽车公测，面向市民、全程免费",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28090793",
+          "author": null,
+          "description": "建龙微纳（688357.SH）7月16日公告披露，公司近日与新星惠尔绿色科技有限公司签订了买卖合同，合同总金额为人民币9900.00万元（含税），合同标的物系制氢分子筛。公告称，由于本项目所需分子筛数量较大，交货时间可能跨年度，预计将主要对公司2024年度经营成果产生影响，但实际影响可能因市场环境变化、生产能力限制、技术更新等因素而有所差异，具体影响数以各年度经审计的财务报告为准。\n建龙微纳称，若本次销售合同顺利实施，有利于提升公司的持续盈利能力和核心竞争力，为后续经营发展提供有力保障，公司将持续通过技术研发，产品迭代升级，结合市场及客户的实际情况，为客户提供更加精准、高效的技术解决方案。（澎湃新闻记者 贺梨萍）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28090793",
+          "publishedOn": "2024-07-16T14:23:02.000Z",
+          "wordCount": 36,
+          "title": "建龙微纳披露重大合同：金额为9900万元，标的物为制氢分子筛",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28090310",
+          "author": null,
+          "description": "新华社快讯：国际货币基金组织16日发布《世界经济展望报告》更新内容，预计2024年中国经济增长5%，较今年4月份报告的预期上调0.4个百分点。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28090310",
+          "publishedOn": "2024-07-16T13:23:02.000Z",
+          "wordCount": 32,
+          "title": "国际货币基金组织：预计2024年中国经济增长5%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28090325",
+          "author": null,
+          "description": "7月16日，国内期货夜盘开盘涨跌不一，沪金涨0.37%，沪铜跌近0.8%，沪锌跌逾1%，铁矿跌0.67%，焦炭涨0.39%，玻璃跌0.28%，原油跌1.69%，橡胶涨0.17%。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28090325",
+          "publishedOn": "2024-07-16T13:23:02.000Z",
+          "wordCount": 32,
+          "title": "国内期货夜盘开盘，沪锌跌超1%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28074197",
+          "author": null,
+          "description": "7月16日，外交部发言人林剑主持例行记者会。有记者提问，昨天，国家统计局发布了中国经济最新数据，今年上半年中国国内生产总值同比增长 5%。有分析认为，面对复杂严峻的外部环境，中国经济实现 5%的增速难能可贵，将为世界带来更多机遇。请问发言人对此有何评论?\n“昨天我已就此作了回应。中方主管部门发布的上半年中国经济数据非常全面系统，大家感兴趣的话可以查阅。”林剑说。\n林剑表示，今年上半年，中国经济各项宏观指标总体保持稳中有进态势：国内生产总值突破60 万亿人民币，同比增长 5%;第二和第三产业分别同比增长 5.8%和 4.6%，对经济增长的贡献率分别达43.6%和 52.6%；最终消费支出、资本形成总额、货物和服务净出口“三驾马车”对经济增长贡献率分别为60.5%、25.6%和13.9%；货物进出口总额达21.2 万亿元人民币，规模创历史同期新高;全国居民人均可支配收入同比实际增长5.3%。“看到这些数字，相信大家和我有一样的感受那就是上半年中国经济交出了一份可圈可点的‘半年报’成绩单，在不稳定不确定性上升的全球经济中顶住压力，发挥了‘稳定器’和‘动力源’的重要作用。”\n林剑指出，稳扎稳打、量质齐升的“上半场”，为今年中国经济实现全年发展预期目标奠定了坚实基础。中国经济底盘牢、韧性强、潜力大、动能足，稳中向好、长期向好的发展态势没有变，保持高质量发展的前进势头没有变，坚持高水平对外开放的方向没有变。手握“上半场”打下的底子和底气，加上进一步全面深化改革为推动高质量发展持续注入的强劲动力，我们有决心、有能力、有条件继续推动中国经济实现质的有效提升和量的合理增长。我们对中国经济的未来发展充满信心!",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28074197",
+          "publishedOn": "2024-07-16T12:53:03.000Z",
+          "wordCount": 55,
+          "title": "外交部：上半年中国经济交出一份可圈可点的“半年报”成绩单",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28089687",
+          "author": null,
+          "description": "哈萨克斯坦国家银行7月15日发布消息称，为了向哈萨克斯坦国家预算提供资金，哈萨克斯坦政府决定向哈萨克斯坦国家基金（National fund of the Republic of Kazakhstan）购买世界最大铀生产商哈萨克斯坦国家原子能公司（Kazatomprom）的部分股份，总金额为4674亿坚戈（约合9.85亿美元）。\n哈萨克斯坦国家原子能公司2023年生产了全球40%的天然铀。\n哈萨克斯坦国家原子能公司是哈萨克斯坦国家铀及其化合物、核电站燃料、特种设备和技术的国家运营商，由“萨姆鲁克-卡泽纳”国家财富基金股份公司控股，持股比例为81.28%。（澎湃新闻记者 杨漾 实习生 施语非）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28089687",
+          "publishedOn": "2024-07-16T12:53:03.000Z",
+          "wordCount": 56,
+          "title": "哈萨克斯坦国家银行收购世界最大铀生产商股份，约9.85亿美元",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28089984",
+          "author": null,
+          "description": "7月16日晚间，青海盐湖工业股份有限公司（盐湖股份，000792.SZ）公告，公司于近日收到持股5%以上股东中化集团的通知，获悉中化集团于7月12日与中化股份签署了《增资协议》，中化集团拟通过作价增资的方式向中化股份转让其持有的公司无限售流通股3.11亿股股份，占公司总股本的5.73%。标的股份的交易价格为《评估报告》确定的标的股份评估价值，即44.92亿元。本次权益变动不涉及要约收购，亦不会导致本公司控股股东、实际控制人发生变化。本次权益变动后，中化集团不再直接持有公司股份。本次权益变动目的系中化集团内部资源优化配置，以促进优质资产向中化股份集中，优化股权结构。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28089984",
+          "publishedOn": "2024-07-16T12:53:03.000Z",
+          "wordCount": 32,
+          "title": "盐湖股份：中化集团拟通过作价增资的方式向中化股份转让5.73%公司股份",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28086036",
+          "author": null,
+          "description": "根据年度计划和中俄双方共识，近日，中俄两国海军舰艇编队在太平洋西部和北部相关海域开展第4次海上联合巡航。\n中俄海军海上联合巡航编队，由中国海军导弹驱逐舰银川舰、导弹护卫舰衡水舰和俄罗斯海军“完美”号护卫舰组成，双方均搭载舰载直升机和特战队员。编队在太平洋北部和西部相关海域接连开展了临检拿捕、直升机互降等课目演练。演练中，双方临检拿捕队搭乘舰载小艇登临“可疑船只”，组成混编临检拿捕队展开搜查。其间，双方官兵紧密协同，迅速控制“可疑船只”驾驶室等重要部位，顺利将其押运至指定海域。巡航期间，俄方还派出联络员登上银川舰，全程参与联合巡航编队指挥所工作，与中方人员共同开展方案研讨、演练组织和复盘总结，进一步加强双方沟通交流协作。\n\n俄罗斯海军安德烈：此次联合巡航过程中，中国海军官兵让我印象深刻，他们良好的战斗素养和专业水平以及双方官兵高效的协同配合都留在我的记忆中，正是因为双方的相互支持、高效协同，使双方更加了解、友谊更加深厚，更为开展联合行动打下坚实基础。\n此次联合巡航是自2021年以来中俄连续组织的第4次海上联合巡航。中俄联合编队从济州岛以南附近海域启航，穿越大隅海峡，经西太平洋南下，从巴林塘海峡进入南海。其间，中俄海军官兵默契配合、高效协同，圆满完成既定任务。此次行动不针对第三方，与当前国际和地区局势无关。\n\n南部战区海军王光正：此次中俄联合巡航，推动了双方多方向、多领域合作走深走实，有效增强了双方共同应对海上安全威胁的能力。\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.run",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28086036",
+          "publishedOn": "2024-07-16T12:53:03.000Z",
+          "wordCount": 39,
+          "title": "中俄海军第4次海上联合巡航圆满结束",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28088723",
+          "author": null,
+          "description": "7月16日晚间，深圳市道通科技股份有限公司（道通科技，688208.SH)公告，公司实控人、董事长李红京提议公司制定并实施2024年度中期分红方案，建议向全体股东每10股派发现金红利4元（含税）。具体利润分配方案由公司结合自身经营情况并报董事会及股东大会审议确定。李红京承诺将在相关会议审议该事项时投“同意”票。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28088723",
+          "publishedOn": "2024-07-16T12:23:02.000Z",
+          "wordCount": 32,
+          "title": "道通科技：实控人提议实施2024年度中期分红",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28088724",
+          "author": null,
+          "description": "当地时间16日，国际移民组织就苏丹局势发布最新报告称，苏丹武装冲突已导致超过1000万苏丹人流离失所，占苏丹总人口的约20%。这是当前世界上最严峻的流离失所危机。\n报告中指出，自苏丹武装冲突爆发以来，有近780万苏丹人在国内流离失所，另有约220万人前往周边邻国寻求避难。此外，在武装冲突爆发前，苏丹国内已有约280万人流离失所。\n2023年4月15日，苏丹武装部队与快速支援部队在首都喀土穆爆发武装冲突，随后蔓延至其他地区，并持续至今。据非政府组织“武装冲突地点和事件数据库项目”日前发布的最新数据，苏丹武装冲突已经造成超过18760人死亡。（央视新闻）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28088724",
+          "publishedOn": "2024-07-16T12:23:02.000Z",
+          "wordCount": 35,
+          "title": "国际移民组织：苏丹武装冲突导致超1000万人流离失所",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28086345",
+          "author": null,
+          "description": "一段时间以来，中国公民自驾入境蒙古受阻情况时有发生。根据蒙古有关法律，目前尚不具备中国大陆公民自驾中国牌照车辆入境蒙古旅游的条件。现就相关问题解答如下：\n一、蒙古国是否承认中国大陆驾照？\n答：不承认。作为《维也纳道路交通公约》缔约国，蒙古国《道路交通安全法》第17章第4条规定，不得持非缔约国驾驶证或其他国际驾驶证在蒙境内驾驶机动车。中国大陆未加入该公约，因此蒙方不承认中国大陆驾驶证（包括经公证的翻译件）。\n二、蒙古国是否允许中国牌照小型机动车上路行驶？\n答：我国边境口岸户籍人口的小型机动车经向当地公安机关备案并取得通行证后，可在毗邻蒙古边境县行驶，但不得进入蒙古其他地区。其他中国牌照小型机动车不得在蒙行驶，蒙古国亦不向中国车辆发放临时牌照。\n三、中国大陆居民在蒙古国如何合法自驾？\n答：在蒙自驾游须办理蒙古驾照，并租借在蒙古注册登记牌照的车辆。获取蒙古驾照须办理常住卡并通过驾照考试。\n常用联系方式\n1、蒙古国报警电话：102\n2、蒙古国急救电话：103\n3、外交部全球领事保护与服务应急热线：+86-10-12308\n4、驻蒙古使馆领事保护与协助电话：+976-99112578\n5、驻扎门乌德总领馆领事保护与协助电话：+976-95186992\n（原题为《关于中国公民不能自驾中国牌照车辆赴蒙古旅游的提醒》）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28086345",
+          "publishedOn": "2024-07-16T11:53:02.000Z",
+          "wordCount": 33,
+          "title": "中国驻蒙古国大使馆：中国公民不能自驾中国牌照车辆赴蒙古国旅游",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28087810",
+          "author": null,
+          "description": "武汉市人民政府印发《武汉市推进商业航天突破性发展若干措施》。其中提出，深化商业航天产业空间布局。按照“统筹推进、特色集聚、重点突破、协同创新”原则，因地制宜打造商业航天产业创新聚集区，构建“一核两区多园”发展格局。武汉国家航天产业基地，重点布局新型运载火箭、卫星平台及载荷等研发、制造和发射服务，地面及终端产品制造，卫星测运控、卫星互联网、通导遥一体化等应用，打造“中国星谷”。先进制造集聚区，重点开展运载火箭、卫星平台及载荷的核心技术攻关、重点产品和关键零部件研制。创新应用集聚区，重点发展以北斗产业为核心的空间信息数据获取、处理、分发等业态，打造国家地球空间信息及应用服务创新型产业集群。武汉经开区、江岸区、黄陂区等区结合实际差异化布局建设“航天+”示范产业园，推进特色延伸产业集聚发展。（武汉市人民政府网站）\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.run",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28087810",
+          "publishedOn": "2024-07-16T11:53:02.000Z",
+          "wordCount": 32,
+          "title": "武汉市人民政府印发《武汉市推进商业航天突破性发展若干措施》",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28087813",
+          "author": null,
+          "description": "7月16日，国家防总办公室、应急管理部继续组织气象、水利、自然资源、住房城乡建设等部门进行防汛专题联合会商，视频调度四川、河南、山东、甘肃等10省份，分析研判雨情汛情发展态势，研究部署“七下八上”防汛关键期防汛抢险救灾工作，细化重点地区工作措施。\n全国正式进入“七下八上”防汛最关键时期，当前鲁豫苏皖等地强降雨持续，局地极端性强、致灾风险高；陕甘等地地质条件脆弱，山洪和地质灾害风险突出；四川盆地降雨与前期高度重叠，次生灾害易发多发；长江上中游、淮河干流水位可能复涨，堤防巡查防守压力大，防汛形势严峻复杂。\n国家防总维持针对安徽、湖南的防汛三级应急响应和针对江苏、湖北、江西、河南、四川、山东的防汛四级应急响应。\n国家防总办公室前期派出的2个工作组、4个专家组及1个城市防洪排涝联合工作组继续在四川、湖南、江西、安徽、湖北、江苏等重点省份协助指导防汛抢险救灾工作。（央视新闻）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28087813",
+          "publishedOn": "2024-07-16T11:53:02.000Z",
+          "wordCount": 32,
+          "title": "全国进入防汛最关键时期，两部门研究部署防汛抢险救灾工作",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28087749",
+          "author": null,
+          "description": "△新加坡樟宜机场\n总台记者16日获悉，新加坡樟宜机场表示，今年上半年，新加坡樟宜机场的中新双向航班乘客量达到370万人次，占机场总乘客量约11%，连续五个月超过或接近2019年疫情前的水平。其中，上海、厦门和昆明成为增长最快的三大城市。\n据悉，中新之间30天互免签证政策和航班运力的增加推动了两国双向航班乘客量的上升。（央视新闻）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28087749",
+          "publishedOn": "2024-07-16T11:23:17.000Z",
+          "wordCount": 36,
+          "title": "新加坡樟宜机场中新双向航班乘客量达370万人次",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28087767",
+          "author": null,
+          "description": "7月16日晚间，三只松鼠股份有限公司（三只松鼠，300783.SZ）发布业绩预告，预计2024年上半年公司营业收入50.40亿元-51.00亿元，同比增长74.19%-76.27%；归属于上市公司股东的净利润2.86亿元-2.92亿元，同比增长85.85%-90.08%。报告期内，“D+N”（短视频+全渠道）全渠道协同的打法进一步夯实，全渠道均实现高质增长；子品牌小鹿蓝蓝实现双位数增长并获得较好盈利。\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.run",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28087767",
+          "publishedOn": "2024-07-16T11:23:17.000Z",
+          "wordCount": 32,
+          "title": "三只松鼠：预计上半年净利润2.86亿元-2.92亿元，同比增85.85%-90.08%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28085185",
+          "author": null,
+          "description": "“尊敬的环卫工人、建筑工人、外卖员、快递员、消防员、警察等户外一线工作者，您辛苦了”——杭州“90后”店主辛俊已连续5年在他的连锁棒冰批发店门口摆放“爱心冰箱”，供户外高温工作者免费自取棒冰。\n\n“现在有50多个点位，景芳社区的一个点6月底以来已经补货5次，每次30箱、一箱50根；笕桥街道党群服务中心的点位两三天补一次，每次10箱。”7月16日，辛俊告诉澎湃新闻（www.thepaper.cn），2020年至2023年已累计送出30多万支棒冰，成本约40万元。\n1994年出生的辛俊是安徽阜阳人，2009年到杭州打工，2019年夏天曾做过半年外卖员，“夏天在外面跑真的热，特别是中午，吹过来的风都是烫的。”2020年开第一家棒冰批发店时，他就有了设立“爱心冰箱”的想法。当时，一位满头大汗的环卫工人进店避暑，他递了支雪糕过去，并表示欢迎随时来免费吃，“一瞬间，我突然想到以前的自己。”当年夏天，辛俊的“爱心冰箱”送出4万支棒冰，此后数年，连锁店越开越多，“爱心冰箱”也越设越多。\n\n辛俊说，妻子见过他送外卖时又累又热、汗湿了一身又一身的样子，对他有能力后帮助更多人很支持。去年夏天，有一位陌生顾客到店买棒冰时看到“爱心冰箱”，扫码转账2万元表示支持，几天后又送来100多只新的炒菜锅，委托送给户外工作者，始终不肯透露姓名。\n“前几年一些点位送出去的不多：一来冰箱不能外摆，二来有些人不好意思进店里拿。”辛俊说，去年开始他与几个街道合作，部分点位的冰箱被允许摆到室外，24小时供应。“只要我还干这行，就会一直做下去。”",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28085185",
+          "publishedOn": "2024-07-16T10:53:02.000Z",
+          "wordCount": 42,
+          "title": "90后店主4年向户外工作者送出30万支棒冰：我跑过外卖，知道风都是烫的",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28074196",
+          "author": null,
+          "description": "7月16日，外交部发言人林剑主持例行记者会。\n法新社记者提问，据了解，7月20日至21日，哈马斯和法塔赫高层官员将在北京举行和解会谈，中方能否证实这个消息？哪些官员将会出席？具体要讨论哪些内容？\n林剑表示，中方一贯支持巴勒斯坦各派通过对话协商实现和解、团结，愿为巴各派开展和解对话，提供平台、创造机会。中方同有关各方的努力方向是一致的，愿同各方加强沟通协调，为实现巴勒斯坦内部和解这一目标共同努力。\n“关于你提到的具体问题，如有消息中方将适时发布。”林剑说。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28074196",
+          "publishedOn": "2024-07-16T10:53:02.000Z",
+          "wordCount": 39,
+          "title": "哈马斯和法塔赫7月将在北京会面？外交部：有消息将适时发布",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28087148",
+          "author": null,
+          "description": "2024年7月16日，江西省宜春市中级人民法院一审公开宣判国家能源投资集团有限责任公司原党组成员、副总经理李东受贿案，对被告人李东以受贿罪判处无期徒刑，剥夺政治权利终身，并处没收个人全部财产；对其受贿所得财物及孳息依法予以追缴，上缴国库。\n\n经审理查明：1999年至2023年，被告人李东利用担任神华准格尔煤炭公司党委副书记、经理，准格尔能源公司党委副书记、董事长，神华集团副总工程师、党组成员、副总经理，国家能源集团党组成员、副总经理等职务上的便利，为有关单位和个人在产品销售、煤炭采购、企业经营、职务调整等事项上提供帮助，直接或通过他人非法收受有关单位和个人给予的财物，共计折合人民币1.08亿余元，其中部分未实际取得。\n\n宜春市中级人民法院认为，被告人李东的行为构成受贿罪，受贿数额特别巨大，应依法惩处。鉴于李东部分受贿犯罪系未遂，归案后如实供述全部罪行，认罪悔罪，积极退赃，涉案赃款赃物已全部追缴到案，具有法定、酌定从轻情节，依法可以对其从轻处罚。法庭遂作出上述判决。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28087148",
+          "publishedOn": "2024-07-16T10:53:02.000Z",
+          "wordCount": 38,
+          "title": "受贿超1.08亿，国家能源投资集团原副总经理李东一审被判无期徒刑",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28087579",
+          "author": null,
+          "description": "7月16日晚间，江苏南大光电材料股份有限公司（南大光电，300346.SZ）发布业绩预告，预计2024年上半年归属于上市公司股东的净利润1.68亿元-1.82亿元，同比增长10.35%-19.55%。报告期内，主要量产产品持续放量，带动业绩快速增长；氟类特气实现销量和销售额双增长。报告期内，预计非经常性损益对净利润的影响金额约为3900万元，主要系当期确认的各项政府补助。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28087579",
+          "publishedOn": "2024-07-16T10:53:02.000Z",
+          "wordCount": 32,
+          "title": "南大光电：预计上半年净利润1.68亿元-1.82亿元，同比增10.35%-19.55%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28087604",
+          "author": null,
+          "description": "7月16日晚间，TCL中环新能源科技股份有限公司（TCL中环，002129.SZ）公告，拟与Vision Industries Company（以下简称“Vision Industries”）、沙特阿拉伯公共投资基金PIF(以下简称“PIF”)的子公司Renewable Energy Localization Company (以下简称“RELC”)签署《股东协议》，设立合资公司，共同在沙特建设年产20GW光伏晶体晶片项目（以下简称“中东项目”）。三方约定在沙特阿拉伯成立合资公司建设年产20GW光伏晶体晶片工厂，总投资额预计约为20.8亿美元。TCL中环通过新加坡全资子公司LumeTech S.A.PTE.LTD.持股40%，RELC持股40%， Vision Industries持股20%。合资公司业务包括太阳能光伏晶体和晶片的制造、组装和销售。中东项目资金来源为股东出资及项目融资贷款。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28087604",
+          "publishedOn": "2024-07-16T10:53:02.000Z",
+          "wordCount": 54,
+          "title": "TCL中环：拟设立合资公司，在沙特建设年产20GW光伏晶体晶片项目",
+          "imageUrl": null
+        },
         {
           "id": "https://www.thepaper.cn/newsDetail_forward_28086265",
           "author": null,
@@ -11968,56 +12158,6 @@
           "wordCount": 37,
           "title": "贵州茅台将减少出货量？公司回应：有自己的发货节奏 也会根据市场情况进行一定的调整",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_27758256",
-          "author": null,
-          "description": "澎湃新闻从旭辉控股集团获悉，截至6月17日，该公司在全国有68个项目入围“白名单”，36个项目已获融资支持，其中3个项目获得新增融资。本月至今，旭辉新增临沂星汇城、成都江山院、南通东升旭辉中心3个“白名单”项目。\n\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.run",
-          "link": "https://www.thepaper.cn/newsDetail_forward_27758256",
-          "publishedOn": "2024-06-17T04:23:02.000Z",
-          "wordCount": 34,
-          "title": "旭辉控股集团：本月新增3个“白名单”项目，已有68个项目入围“白名单”",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_27758309",
-          "author": null,
-          "description": "周一（6月17日）午盘，香港恒生指数涨0.2%报17978.3点，恒生科技指数涨0.12%报3712.07点，恒生国企指数涨0.25%报6390.47点，恒生红筹指数跌0.16%报3886.65点，大市成交563亿港元。\n蓝筹板块中，比亚迪电子涨6.3%，康师傅控股涨3.7%，舜宇光学科技涨3.3%，比亚迪股份涨近3%。\n新能源汽车及产业链个股多数下跌，耐世特跌12.6%，雅迪控股跌1%。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_27758309",
-          "publishedOn": "2024-06-17T04:23:02.000Z",
-          "wordCount": 32,
-          "title": "香港恒生指数涨0.2%，恒生科技指数涨0.12%",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_27752933",
-          "author": null,
-          "description": "光线传媒董事长王长田\n\n“中国电影多元化趋势大家都看到了，但我想谈的是，现在的电影类型结构还很不合理。”6月16日，在上海国际电影节金爵论坛上，光线传媒（300251.SZ）董事长王长田抛出上述观点，他认为，动画片、科幻片等影片在整个电影票房中占的比例太低。\n“以动画片为例，美国的动画片市场可以占到15%至20%，在中国可能是百分之七、八，有时是百分之四、五，最高可能占到百分之十几。如果我们也能和发达国家一样，那每年的票房规模是50亿元到100亿元，但实际我们最好的年份可能是50亿元，通常情况下可能也就二三十亿元或三四十亿元。”王长田认为，发展动画电影是中国电影人下一步要做的事情。\n除动画电影外，王长田认为，电影行业在科幻电影方面也做的不够，“科幻电影代表一个国家的电影工业水平，这一块有很大的运作空间。动画、科幻我们都在做，动画方面，公司希望未来每一年能够做四五部的产量，现在大概是2至3部/年，通常情况是三部左右。科幻方面，我们也有在做的几个电影项目，包括由光线传媒与三体宇宙联合出品的《三体》电影。”\n会上，王长田表示，《三体》电影导演已确定是张艺谋，项目进入前期运作，“《三体》是科幻片的大制作，希望电影不仅能抓住《三体》这部小说的精髓，同时也能够带来突破和创新，带动中国电影在国际市场上有所收获。”\n今年5月，王长田在“2024文化强国建设高峰论坛电影业高质量发展分论坛”上透露，《三体》电影明年开机。\n据悉，作家刘慈欣创作的科幻小说《三体》三部曲被认为是国产科幻小说的巅峰之作，此前已经陆续播出电视剧版和动画版，但因其宏大的宇宙观和复杂的情节，让其改编成电影充满了挑战。\n会上，王长田还谈及商业和艺术的关系。王长田认为，作为电影公司，生存和发展是第一需求，若没有商业片做支撑，公司很难生存和做大，但在公司做大之后，可以反哺艺术电影或艺术性创新，“艺术片都很难上映，因为找不到发行公司为片子做发行，这说明艺术片的市场空间相当有限。以商养艺，而后以艺促商，用艺术创新或艺术片赢得观众的口碑，来扩大中国电影的表达空间，这是一个电影公司发展到一定程度，应该去着力推动的事情。”\n光线传媒一季度财报显示，该公司营业收入为10.70亿元，同比大幅增长159.33%；取得的归属于上市公司股东的净利润为4.25亿元，同比大幅增长248.01%。光线传媒参与投资、发行并计入报告期内票房的影片包括《大雨》《第二十条》，总票房约为24.66亿元。\n光线传媒表示，公司已储备数十部神话宇宙的作品，此外还有多题材、多类型的其他项目在同时推进，其一系列的作品将在未来逐步呈现。为了促进公司动画电影项目的产能提升，公司已经投资了一部分动画制作公司，也在内部组建了第一条动画制作产线，能够在提升内容质量的同时为动画电影的制作提供保障。\n据大智慧VIP，截至6月14日收盘，光线传媒涨1.63%，报9.34元/股，总市值274.00亿元。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_27752933",
-          "publishedOn": "2024-06-17T03:53:02.000Z",
-          "wordCount": 42,
-          "title": "王长田：《三体》电影确定由张艺谋执导，项目进入前期运作",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_27755228",
-          "author": null,
-          "description": "张磊\n\n澎湃新闻记者从北京市极限运动协会方面获悉，北京市极限运动协会副会长、北京市极限运动协会跑酷委员会会长、极限梦跑酷创始人、中国跑酷运动的重要推动者张磊同志，于2024年6月12日上午11时，因心脏疾病医治无效，在北京去世，终年39岁。\n协会方面介绍，从2007年跑酷运动进入中国到2024年6月12日的18年间，张磊同志一直致力于跑酷运动的培训推广以及新模式的探索：多次发起国内重要跑酷赛事、通过《十月围城》《精武陈真》等优秀影视作品让跑酷运动在大荧幕上绽放、2023年组织团队完成国内首个跑酷项目团体标准的制定。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_27755228",
-          "publishedOn": "2024-06-17T03:53:02.000Z",
-          "wordCount": 40,
-          "title": "中国跑酷运动重要推动者张磊因心脏疾病去世，终年39岁",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_27758266",
-          "author": null,
-          "description": "6月17日，国内商品期市午盘多数飘绿，化工品低迷，玻璃、20号胶、棕榈油、丁二烯橡胶、橡胶、氧化铝跌超2%；集运指数（欧线）涨超2%，LPG涨1%。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_27758266",
-          "publishedOn": "2024-06-17T03:53:02.000Z",
-          "wordCount": 32,
-          "title": "国内商品期市午盘多数飘绿，化工品低迷",
-          "imageUrl": null
         }
       ]
     },
@@ -12026,6 +12166,46 @@
       "feedUrl": "https://www.nationalreview.com/feed/",
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
+        {
+          "id": "https://www.nationalreview.com/?p=1669290",
+          "author": "The Editors",
+          "description": "J. D. Vance will be an effective spokesman for Trump, but other choices would have had a better chance of marginally helping the ticket.",
+          "link": "https://www.nationalreview.com/2024/07/trump-picks-a-maga-convert/",
+          "publishedOn": "2024-07-16T16:11:33.000Z",
+          "wordCount": 9038,
+          "title": "Trump Picks a MAGA Convert",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/07/trump-vance-1.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1669176",
+          "author": "Dan McLaughlin",
+          "description": "A study of battleground Senate races in presidential years suggests that Democrats will struggle to separate themselves from Joe Biden.",
+          "link": "https://www.nationalreview.com/2024/07/what-a-biden-collapse-could-mean-for-senate-races/",
+          "publishedOn": "2024-07-16T13:54:50.000Z",
+          "wordCount": 10818,
+          "title": "What a Biden Collapse Could Mean for Senate Races",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/07/Joe-Biden-28.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1669014",
+          "author": "Rich Lowry",
+          "description": "Over-the-top attacks on Trump haven’t been incidental to the Democratic 2024 campaign, but central to it.",
+          "link": "https://www.nationalreview.com/2024/07/is-donald-trump-still-a-quasi-nazi/",
+          "publishedOn": "2024-07-16T10:30:37.000Z",
+          "wordCount": 8956,
+          "title": "Is Donald Trump Still a Quasi-Nazi?",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/07/rnc-trump-2.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1668757",
+          "author": "Andrea Picciotti-Bayer",
+          "description": "Despite what many progressives seem to think, Christianity and patriotism are not mutually exclusive.",
+          "link": "https://www.nationalreview.com/2024/07/christians-should-take-pride-in-americas-heritage/",
+          "publishedOn": "2024-07-16T10:30:02.000Z",
+          "wordCount": 9143,
+          "title": "Christians Should Take Pride in America’s Heritage",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/02/Cross-and-Flag.jpg?fit=2057%2C1200&ssl=1"
+        },
         {
           "id": "https://www.nationalreview.com/?p=1668860",
           "author": "Philip Klein",
@@ -14634,6 +14814,36 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/prime/story/ppc-history-12",
+          "author": "MIG",
+          "description": "2001 年新年之际，Motorola 终于带着新工艺和新芯片展现在世人的眼前。但在合作伙伴的持续颓势下，苹果也逐渐将目光转向英特尔。查看全文\n本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
+          "link": "https://sspai.com/prime/story/ppc-history-12",
+          "publishedOn": "2024-07-16T10:23:00.000Z",
+          "wordCount": 1258,
+          "title": "2001: 让乔布斯下定转向英特尔决心的转折之年",
+          "imageUrl": "https://cdnfile.sspai.com/7/16/2024/article/b1f1c3ae-5e2b-5af3-3648-cca9dd17509a.jpeg"
+        },
+        {
+          "id": "https://sspai.com/post/90521",
+          "author": "Matrix机器人",
+          "description": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。一周热评任大 ...查看全文",
+          "link": "https://sspai.com/post/90521",
+          "publishedOn": "2024-07-16T09:12:52.000Z",
+          "wordCount": 999,
+          "title": "社区速递 053 | 一周最热评、派友六月买了啥汇总",
+          "imageUrl": "https://cdnfile.sspai.com/16/7/2024/article/dbee9224-e303-5103-2d54-91607a189eb6.gif"
+        },
+        {
+          "id": "https://sspai.com/post/90227",
+          "author": "少数派编辑部",
+          "description": "7 月 16 日，Apple 推送了 iOS 18、iPadOS 18 的首个 Public Beta 公开测试版本，用户可以注册参与 Apple Beta 版软件计划更新公测版系统，提前体验新功能。\n\n由于测试版系统可能存在影响正常使用的 Bug，对于软件的兼容性也无法保证，我们不推荐你现在将主要设备升级到 Public Beta 版本。如果你有合适的设备，想在第一时间体验新系统功能，少数派帮你准备了这份升降级指南。查看全文",
+          "link": "https://sspai.com/post/90227",
+          "publishedOn": "2024-07-16T07:00:00.000Z",
+          "wordCount": 821,
+          "title": "iOS / iPadOS 18 Public Beta 公测版来了：升降级指南 & 注意事项",
+          "imageUrl": "https://cdnfile.sspai.com/7/16/2024/article/f1273015-efc7-2424-4445-4343a5e4c774.jpeg"
+        },
+        {
           "id": "https://sspai.com/post/90269",
           "author": "SUNTRISE",
           "description": "翻译搞得好，不再锟斤考。查看全文",
@@ -15692,26 +15902,6 @@
           "wordCount": 926,
           "title": "具透 | 关心健康，更关心你：watchOS 11 中值得关注的更新",
           "imageUrl": "https://cdnfile.sspai.com/6/17/2024/article/b386a9f4-befd-c2cb-2977-3ff55a862fbf.png"
-        },
-        {
-          "id": "https://sspai.com/post/89135",
-          "author": "乱麻",
-          "description": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
-          "link": "https://sspai.com/post/89135",
-          "publishedOn": "2024-06-17T03:30:00.000Z",
-          "wordCount": 902,
-          "title": "挑选适合自己的夏日被子，享受凉爽舒适睡眠",
-          "imageUrl": "https://cdnfile.sspai.com/2024/05/27/5202d6d77bf64001caa48b8bdd208b83.png"
-        },
-        {
-          "id": "https://sspai.com/post/89656",
-          "author": "少数派编辑部",
-          "description": "你可能错过的新鲜事YouTube测试在服务端向视频植入广告6月12日，知名YouTube去广告插件SponsorBlock在X上表示，发现YouTube正测试在服务端向视频植入广告。这意味着广告内容将 ...查看全文",
-          "link": "https://sspai.com/post/89656",
-          "publishedOn": "2024-06-17T00:58:19.000Z",
-          "wordCount": 859,
-          "title": "派早报：YouTube 测试在服务端向视频植入广告",
-          "imageUrl": "https://cdnfile.sspai.com/6/17/2024/article/6b809849-1342-ea62-6f44-5d3db786345b.png"
         }
       ]
     },
@@ -15720,6 +15910,118 @@
       "feedUrl": "https://plink.anyfeeder.com/idaily/today",
       "siteUrl": "https://idai.ly",
       "articles": [
+        {
+          "id": "idaily-210661",
+          "author": "国际空间站",
+          "description": "国际空间站机械臂准备释放「天鹅座 NG-20」货运飞船。7月12日，「天鹅座 NG-20」货运飞船结束为期5个半月的在轨任务，携带空间站垃圾返回大气层焚毁。国际空间站目前共停靠5艘宇宙飞船，包括1艘载人龙飞船、1艘波音载人飞船、1艘联盟号载人飞船、2艘进步号货运飞船。波音载人飞船因氦气泄漏和推进器故障持续滞留国际空间站，NASA 预计波音飞船最晚可能在8月中旬返回地球。摄影师：NASA",
+          "link": "https://m.idai.ly/se/eb8xwS",
+          "publishedOn": "2024-07-16T09:59:00.000Z",
+          "wordCount": 291,
+          "title": "天鹅座飞船返回地球 - July 16, 2024",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/a5d47aec/5742eeca.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/a5d47aec/5742eeca.jpg"
+        },
+        {
+          "id": "idaily-210660",
+          "author": "美国 · 威斯康星州",
+          "description": "美国前总统、共和党总统候选人 Donald Trump 出席2024年共和党全国代表大会，密沃尔基。7月15日，美国共和党正式宣布提名 Trump 为2024年总统大选候选人。这是现年78岁的 Trump 第3次代表共和党参加美国总统竞选，当天他正式宣布选择俄亥俄州参议员 JD Vance 为竞选搭档及副总统候选人。现年39岁的 JD Vance 毕业于耶鲁大学法学院，从政前为风险投资人和作家，2022年当选参议员，持反堕胎、反移民和反对军援乌克兰的保守派立场，他亦是美国有史以来最年轻的副总统候选人之一。摄影师：Brendan Smialowski",
+          "link": "https://m.idai.ly/se/c30h2e",
+          "publishedOn": "2024-07-16T09:57:00.000Z",
+          "wordCount": 291,
+          "title": "特朗普获得共和党提名 - July 16, 2024",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/c3371093/0ecb5614.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/c3371093/0ecb5614.jpg"
+        },
+        {
+          "id": "idaily-210657",
+          "author": "中国 · 北京",
+          "description": "人们骑车穿过北京朝阳区中央商业区。7月15日，中国国家统计局公布初步核算数据显示2024年第2季度 GDP 同比增长4.7%，低于市场预期，主要受到极端天气灾害等短期负面因素影响。2024年上半年中国 GDP 总值达到61.7万亿元，同比增长5.0%；货物贸易进出口总值达21.17万亿元，同比增长6.1%，创历史同期新高；规模以上工业增加值同比增长6%，居民消费价格（CPI）同比上涨0.1%，人均可支配收入增长5.3%至20733元，失业率同比下降0.2个百分点至5.1%。摄影师：Vincent Thian",
+          "link": "https://m.idai.ly/se/77az05",
+          "publishedOn": "2024-07-16T09:55:00.000Z",
+          "wordCount": 291,
+          "title": "中国上半年GDP增长5% - July 16, 2024",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/2e9e41b6/26127593.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/2e9e41b6/26127593.jpg"
+        },
+        {
+          "id": "idaily-210655",
+          "author": "泰国 · 曼谷",
+          "description": "游客们正在参观曼谷大皇宫玉佛寺。7月15日，泰国政府正式扩大免签入境政策至93个国家和地区，单次停留期限从30天延长至60天，同时向有意在泰国长期旅行和远程工作的外国公民提供最长180天「目的地签证」（DTV）。泰国旅游局数据显示2024年上半年该国共接待外国游客超过1750万人次，同比增长35%，产生8250亿泰铢（约合224亿美元）旅游收入，前三大游客来源地依次为中国、马来西亚和印度。摄影师：Rungroj Yongrit",
+          "link": "https://m.idai.ly/se/62bboZ",
+          "publishedOn": "2024-07-16T09:53:00.000Z",
+          "wordCount": 291,
+          "title": "泰国扩大至93地免签 - July 16, 2024",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/e04d6f12/0435119d.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/e04d6f12/0435119d.jpg"
+        },
+        {
+          "id": "idaily-210654",
+          "author": "中国 · 湛江",
+          "description": "俄罗斯海军太平洋舰队「响亮」号护卫舰抵达湛江军港，中国广东。7月14日，中俄「海上联合-2024」军事演习在广东湛江附近海空域启动。本次演习重点演练锚地防御、联合侦察预警、联合搜救、联合防空反导等课目，旨在展示中俄加强共同应对海上安全威胁、维护国际和地区和平稳定的决心能力。中方参演兵力包括导弹驱逐舰南宁舰、导弹护卫舰咸宁舰和大理舰、综合补给舰微山湖舰4艘舰船，俄方参演兵力包括响亮号、凛冽号护卫舰和伊尔库特号油船共3艘舰船。摄影师：Wang Jian",
+          "link": "https://m.idai.ly/se/f7355d",
+          "publishedOn": "2024-07-16T09:51:00.000Z",
+          "wordCount": 291,
+          "title": "中俄联合海上军演 - July 16, 2024",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/3f97f86a/b0e38b2e.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/3f97f86a/b0e38b2e.jpg"
+        },
+        {
+          "id": "idaily-210653",
+          "author": "日本 · 福冈",
+          "description": "日本福冈市举行「博多祇园山笠」祭典，人们身穿传统服饰参加花车游行仪式。「博多祇园山笠」是日本传统夏季民间祭典之一，迄今已有近800年历史，每年7月1日至15日在福冈栉田神社举办。祭典活动最后一天举行「追山」竞跑比赛，共有7支不同地域的队伍参赛，每支队伍需要肩扛重达1吨的花车全力奔跑约5公里至终点栉田神社。摄影师：Daisuke Urakamai",
+          "link": "https://m.idai.ly/se/3c2EhF",
+          "publishedOn": "2024-07-16T09:49:00.000Z",
+          "wordCount": 291,
+          "title": "日本博多祇园山笠祭 - July 16, 2024",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/3daaf7c2/737d1cd7.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/3daaf7c2/737d1cd7.jpg"
+        },
+        {
+          "id": "idaily-210652",
+          "author": "墨西哥 · 瓜达拉哈拉",
+          "description": "墨西哥瓜达拉哈拉动物园，一只非洲狮正在接受例行体检。瓜达拉哈拉动物园是墨西哥饲养动物种类最丰富的动物园，共饲养超过300种、逾6000只动物。7月15日，瓜达拉哈拉动物园医学综合中心正式启用运营，该设施占地面积达2000平方米，分为临床分析实验室、药房、手术室、影像诊断区、动物康复区等不同功能区域，是拉丁美洲迄今最大的现代化兽医院。动物园访客可以现场观摩动物护理和治疗的日常过程。摄影师：Francisco Guasco",
+          "link": "https://m.idai.ly/se/2a1v11",
+          "publishedOn": "2024-07-16T09:47:00.000Z",
+          "wordCount": 291,
+          "title": "拉丁美洲最大兽医院 - July 16, 2024",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/fda73bb7/b998968f.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/fda73bb7/b998968f.jpg"
+        },
+        {
+          "id": "idaily-210651",
+          "author": "危地马拉 · 危地马拉城",
+          "description": "危地马拉国家考古和民族博物馆展出「六天空女王」（Lady Six Heaven）浮雕石碑。「六天空女王」是公元7世纪玛雅城邦纳兰霍的统治者，被认为是玛雅文明古典时期最具权势的女性之一。这件浮雕石碑制作于公元714年，高1.9米、宽0.88米，塑造出「六天空女王」身穿祭祀服装、脚踩一名战俘的形象。这件文物刚刚结束近3个月的海外巡展，7月13日起恢复在危地马拉考古和民族博物馆展出。摄影师：Johan Ordonez",
+          "link": "https://m.idai.ly/se/80crw3",
+          "publishedOn": "2024-07-16T09:45:00.000Z",
+          "wordCount": 291,
+          "title": "危地马拉玛雅女王石碑 - July 16, 2024",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/32b81e87/ca0390d9.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/32b81e87/ca0390d9.jpg"
+        },
         {
           "id": "idaily-210616",
           "author": "法国 · 巴黎",
@@ -18920,6 +19222,26 @@
       "siteUrl": "http://nytimes.com",
       "articles": [
         {
+          "id": "https://cn.nytimes.com/usa/20240716/trump-vp-pick/dual",
+          "author": null,
+          "description": "MICHAEL GOLD2024年7月16日万斯在参议院一直是特朗普的狂热捍卫者。 Maddie McGarvey for The New York Times\nFormer President Donald J. Trump has chosen Senator J.D. Vance of Ohio to be his running mate, wagering that the young senator will bring fresh energy to the Republican ticket and ensure that the movement Mr. Trump began nearly a decade ago can live on after him.\n前总统特朗普选择了俄亥俄州参议员J·D·万斯作为他的竞选伙伴，他看好这位年轻的参议员能为共和党的选情注入新的活力，确保自己在近十年前发起的运动在未来也能得以延续。\nMr. Vance, 39, is a political newcomer who entered the Senate only last year, but he has spent that time methodically ascending the conservative firmament. Once an acerbic Trump critic — attacking Mr. Trump as “reprehensible” and calling him “cultural heroin” — he won Mr. Trump’s backing in his 2022 Senate race by wholly embracing his politics and his lies about a stolen…",
+          "link": "https://cn.nytimes.com/usa/20240716/trump-vp-pick/dual",
+          "publishedOn": "2024-07-16T10:06:02.000Z",
+          "wordCount": 2069,
+          "title": "特朗普为何选择昔日“反特先锋”万斯做竞选搭档",
+          "imageUrl": "https://static01.nyt.com/images/2024/06/24/multimedia/00trump-vp-pinned-vance-gbmh/00trump-vp-pinned-vance-gbmh-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/usa/20240716/secret-service-security-roof-trump-shooting/dual",
+          "author": null,
+          "description": "DAVID A. FAHRENTHOLD, ZOLAN KANNO-YOUNGS, CHRISTINA MORALES, MARK WALKER2024年7月16日周六，前总统特朗普在宾夕法尼亚州巴特勒市的一次集会上发表讲话前，特勤局的狙击小组正在进行警戒。 Eric Lee/The New York Times\nWASHINGTON — The building from which a gunman fired at former President Donald Trump on Saturday was — at least in hindsight — an obvious security risk. Its rooftop offered an ideal sniper’s perch, with a close, elevated and unobstructed view of Trump.\n华盛顿——至少在事后看来，周六一名枪手向前总统特朗普开枪的那座建筑是一个明显的安全风险。它的屋顶提供了一个理想的狙击位置，可以居高临下、畅通无阻地近距离观察特朗普。\nBut when the Secret Service drew up plans for Saturday’s rally, it left that building outside its security perimeter. Instead, local law enforcement officials in Butler, Pennsylvania, were given responsibility for that building, and no police officers were stationed on the roof itself.\n但是，在为周六的集会制定计划时，特勤局…",
+          "link": "https://cn.nytimes.com/usa/20240716/secret-service-security-roof-trump-shooting/dual",
+          "publishedOn": "2024-07-16T07:36:01.000Z",
+          "wordCount": 1464,
+          "title": "特朗普遇刺引发对美国特勤局失职的质疑",
+          "imageUrl": "https://static01.nyt.com/images/2024/07/15/multimedia/15DC-SECRETSERVICE-TOP-gpmt/15DC-SECRETSERVICE-TOP-gpmt-articleLarge.jpg"
+        },
+        {
           "id": "https://cn.nytimes.com/usa/20240716/who-is-jd-vance-trump-vp/dual",
           "author": null,
           "description": "MAGGIE ASTOR2024年7月16日参议员J·D·万斯曾对前总统特朗普持批评态度，但2022年他在特朗普的支持下当选为美国参议院议员。 Nic Antaya for The New York Times\nSenator J.D. Vance of Ohio, the newly announced running mate to former President Donald J. Trump, has gone on a rapid journey over the past eight years from best-selling author and outspoken Trump critic to one of Mr. Trump’s staunchest defenders and, now, his would-be second in command.\n俄亥俄州参议员J·D·万斯是前总统特朗普新宣布的竞选搭档，在过去八年里，他的人生经历了快速的变化，从畅销书作家和高调的特朗普批评者，变成了特朗普最坚定的捍卫者之一，现在又成了他未来的副手。\nBefore running for office, Mr. Vance, 39, was known as the author of “Hillbilly Elegy,” a best-selling memoir recounting his upbringing in a poor family that also served as a sort of sociological examination of white working-class Americans. The book was published the summer before Mr. Trump’s election in 201…",
@@ -19868,26 +20190,6 @@
           "wordCount": 2161,
           "title": "三名中国顶尖游泳运动员被披露两次药检呈阳性",
           "imageUrl": "https://static01.nyt.com/images/2024/06/15/multimedia/15china-swimming-01-pcmj/15china-swimming-01-pcmj-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/world/20240617/g7-summit-china-russia/dual",
-          "author": null,
-          "description": "DAVID E. SANGER2024年6月17日乌克兰总统泽连斯基和美国总统拜登周四在七国集团峰会上举行联合新闻发布会。 Erin Schaff/The New York Times\nPresident Biden was eager to get off the stage at the Group of 7 summit Thursday night, clearly a bit testy after answering questions about Hunter Biden’s conviction and the prospects of a cease-fire in Gaza.\n在周四晚的七国集团峰会上，拜登总统急于走下讲台，在回答了有关亨特·拜登的定罪和加沙停火可能性的提问后，他显然有点不耐烦。\nBut at the end of his news conference with President Volodymyr Zelensky of Ukraine, he couldn’t seem to help jumping in as the Ukrainian leader spoke delicately about China’s tightening relationship with Russia. He leaned into his microphone as soon as Mr. Zelensky was finished.\n但当他与乌克兰总统泽连斯基的新闻发布会接近尾声，这位乌克兰领导人小心翼翼地谈到中俄日益密切的关系时，他似乎忍不住要插话。泽连斯基话音刚落，他就凑到了麦克风前。\n“By the way, China is not supplying weapons” for the war in Ukraine, Mr. Bide…",
-          "link": "https://cn.nytimes.com/world/20240617/g7-summit-china-russia/dual",
-          "publishedOn": "2024-06-17T01:36:03.000Z",
-          "wordCount": 1337,
-          "title": "G7公报28处提及中国：措辞强硬、凸显对抗性",
-          "imageUrl": "https://static01.nyt.com/images/2024/06/15/multimedia/15G7-china-01-zwbj/15G7-china-01-zwbj-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/china/20240617/china-me-too-verdict/dual",
-          "author": null,
-          "description": "艾莎, ZIXU WANG2024年6月17日周五，“#我也是”运动的活动人士黄雪琴和劳工运动人士王建兵在中国广州市中级人民法院被判有罪。 David Kirton/Reuters\nA court in southern China on Friday found a prominent feminist journalist guilty of endangering national security and sentenced her to five years in prison, Beijing’s latest blow to civil society. A labor activist convicted of the same charge got a sentence of three years and six months.\n周五，中国南方一家法院裁定一位著名女权主义记者犯有煽动颠覆国家政权罪，判处她五年有期徒刑，这是北京对公民社会的最新打击。一名被判犯有同样罪名的劳工活动人士被判处三年六个月有期徒刑。\nThe activities that prompted the arrest and conviction of the two, Huang Xueqin and Wang Jianbing, involved organizing discussions, providing support to other activists and receiving overseas training. The subversion charges and the sentences, handed down by the Guangzhou Intermediate People’s Court, were confirmed by Reporters…",
-          "link": "https://cn.nytimes.com/china/20240617/china-me-too-verdict/dual",
-          "publishedOn": "2024-06-17T01:06:01.000Z",
-          "wordCount": 1156,
-          "title": "独立记者黄雪琴、活动人士王建兵因“煽颠罪”获刑",
-          "imageUrl": "https://static01.nyt.com/images/2024/06/14/multimedia/14china-activist-cptb/14china-activist-cptb-articleLarge.jpg"
         }
       ]
     },
@@ -20454,36 +20756,6 @@
           "publishedOn": "2024-06-18T01:34:00.000Z",
           "wordCount": 295,
           "title": "“童年是一针疫苗”：来自童诗的治愈力与智慧启蒙",
-          "imageUrl": null
-        },
-        {
-          "id": "b520453660cdf7e8b5bce10708954af4",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E5%A4%A7%E9%99%86%E4%B8%8E%E5%A4%A7%E6%B4%8B%E7%9A%84%E7%A2%B0%E6%92%9E%EF%BC%9A%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%98%AF%E5%A6%82%E4%BD%95%E8%AE%A4%E8%AF%86%E6%B5%B7%E6%B4%8B%E6%96%87%E6%98%8E%E7%9A%84%EF%BC%9F",
-          "publishedOn": "2024-06-17T02:16:00.000Z",
-          "wordCount": 337,
-          "title": "大陆与大洋的碰撞：中国人是如何认识海洋文明的？",
-          "imageUrl": null
-        },
-        {
-          "id": "60720b7a9c79f321e557737974f57a72",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E9%87%91%E9%92%B1%E3%80%81%E5%A5%87%E7%8F%8D%E5%BC%82%E5%93%81%E4%B8%8E%E9%80%A0%E7%89%A9%E6%9C%AF%EF%BC%9A%E5%85%A8%E7%90%83%E8%B4%B8%E6%98%93%E4%B8%AD%E8%AF%9E%E7%94%9F%E7%9A%84%E7%8E%B0%E4%BB%A3%E7%A7%91%E5%AD%A6",
-          "publishedOn": "2024-06-17T02:16:00.000Z",
-          "wordCount": 334,
-          "title": "金钱、奇珍异品与造物术：全球贸易中诞生的现代科学",
-          "imageUrl": null
-        },
-        {
-          "id": "12243c6af4d6e15add64efa0b02f8535",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E8%B0%81%E6%98%AF%E2%80%9C%E5%8F%AF%E6%80%9C%E7%9A%84%E4%B8%9C%E8%A5%BF%E2%80%9D%EF%BC%9A%E8%BF%BD%E6%B1%82%E7%A7%91%E5%AD%A6%E4%B9%8B%E8%B7%AF%E4%B8%8A%E7%9A%84%E4%BA%BA%E6%80%A7%E4%B8%8E%E6%88%90%E9%95%BF",
-          "publishedOn": "2024-06-17T02:16:00.000Z",
-          "wordCount": 343,
-          "title": "谁是“可怜的东西”：追求科学之路上的人性与成长",
           "imageUrl": null
         }
       ]
