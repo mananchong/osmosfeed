@@ -44,16 +44,6 @@
           "wordCount": 5666,
           "title": "R Weekly 2024-W27 30 years of R, Saving vectors, R Addicts Paris",
           "imageUrl": "https://rweekly.org/public/facebook.png"
-        },
-        {
-          "id": "https://rweekly.org/2024-W26.html",
-          "author": null,
-          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Eric Nantz, with help from the R Weekly team members and contributors.\nHighlight\nJoining the flock from R: working with data on MotherDuck\nSculpting the Moon in R: Subdivision Surfaces and Displacement Mapping\nnanoparquet 0.3.0\nInsights\nIgnoring the IID assumption isn’t a great idea\nCreating Email Threads\nDigits Dilemma\nConstructing HTML with functions\nR in the Real World\nThe evolution of squad compositions at UEFA European Championships\nR in Academia\nMind the Gap: Using R/exams to Ease the Transition into STEM Studies\nOrdinal State Transition Models as a Unifying Risk Prediction Framework\nResources\nrOpenSci News Digest, June 2024\nData Cleaning with R Master Class is Live\nNe…",
-          "link": "https://rweekly.org/2024-W26.html",
-          "publishedOn": "2024-06-24T00:00:00.000Z",
-          "wordCount": 5819,
-          "title": "R Weekly 2024-W26 MotherDuck, sculpting the moon, nanoparquet",
-          "imageUrl": "https://rweekly.org/public/facebook.png"
         }
       ]
     },
@@ -539,6 +529,206 @@
       "feedUrl": "https://feedx.net/rss/thepaper.xml",
       "siteUrl": "http://thepaper.cn",
       "articles": [
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28169975",
+          "author": null,
+          "description": "近日，中国人民大学教师王贵元被控强制猥亵一事持续引发关注。\n7月23日，澎湃新闻（www.thepaper.cn）注意到，网络上开始流传一张附有“王贵元”署名的“致歉函”截图。当日，澎湃新闻从中国人民大学相关部门处获悉，该网传“致歉函”是假的。\n\n上述网传“致歉函”称，“我是中国人民大学文学院原教授、博士生导师，现因严重违反党纪校规和教师职业道德，被中国人民大学开除党籍，撤销教师职称和教师岗位任职资格。首先，我完全接受组织上对我的处理处置。下一阶段，我还要依法接受有关机关的调查处理。”\n据澎湃新闻此前报道，7月21日晚， B站一名为“人大维权博士生王D”的UP主发布了一段58分钟的视频，实名举报中国人民大学文学院原党委书记兼副院长、博导王贵元，“在工作和学习期间对其实施强制猥亵，遭到拒绝后被对方打击报复，并以不允许毕业来对其进行威胁”。\n该UP主在视频中声明：“我是王迪，是中国人民大学文学院在读博士生。我实名举报我的导师——人大文学院原党委书记兼副院长、博导王贵元教授于2022年5月21日性骚扰且强制猥亵我，并要求与我发生性关系。因我拒绝，他在其后两年多时间里对我进行打击报复，并威胁我不能毕业。两年来，王教授步步进逼，委曲难求周全。此刻，我忍无可忍，退无可退，因此发声。我要求依法依规惩治王贵元，并更换指导老师。”\n该UP主还表示，“以上举报，均有录音和聊天记录作为证据，我愿意承担相应法律责任。”\n22日上午，@中国人民大学 官方微博发布一则声明：7月21日晚，中国人民大学关注到网上关于我校教师王某某涉嫌师德失范行为的举报信息后，高度重视，第一时间成立工作组，连夜开展调查核实。我校严格坚持师德师风第一标准，对师德失范行为“零容忍”，坚决发现一起、查处一起，依规依纪依法、从严从快处理，决不姑息。学校将于近日公布调查处理结果。\n22日晚间，@中国人民大学 官方微博发布了一则情况通报：针对7月21日晚网上关于中国人民大学教师王某某涉嫌师德失范行为的举报信息，学校高度重视，第一时间成立专门工作组，连夜开展调查核实。经调查，举报情况属实，王某某严重背弃教书育人的初心使命，严重违反党纪校规和教师职业道德。\n22日晚10时许，北京海淀警方通过@平安北京海淀 微博发布情况通报：针对“一高校在读学生举报其导师涉嫌违法”情况，海淀公安分局已依法介入调查。目前，正在进一步工作中。 ​​​\n据人民大学文学院网站介绍，上述被举报的王贵元出生于1959年，山西省平定人，教授、博士生导师，汉语言文字学学科带头人，1995年进入中国人民大学任教，研究方向为文字学、词汇学。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28169975",
+          "publishedOn": "2024-07-23T15:53:03.000Z",
+          "wordCount": 55,
+          "title": "人民大学方面确认：猥亵女生被开除的王贵元“致歉函”为假",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28170158",
+          "author": null,
+          "description": "总台记者当地时间7月23日获悉，美国特勤局局长金伯莉·奇特尔当日辞职，原因是特勤局未能阻止特朗普遇刺事件。\n当地时间13日傍晚，宾夕法尼亚州20岁男子托马斯·马修·克鲁克斯在该州巴特勒市竞选集会现场从距特朗普演讲台大约140米的一处建筑屋顶连开数枪，导致特朗普右耳上部受伤，并致现场观众一人死亡、两人重伤。克鲁克斯被当场击毙。\n事件发生后，外界对美国特勤局及局长金伯莉·奇特尔频频提出质疑。据报道，包括美国众议院议长约翰逊和美国参议院少数党领袖麦康奈尔在内的共和党高层要求金伯莉·奇特尔辞职。（央视新闻）\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.run",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28170158",
+          "publishedOn": "2024-07-23T15:23:02.000Z",
+          "wordCount": 33,
+          "title": "未能阻止特朗普遇刺事件，美国特勤局局长辞职",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28165050",
+          "author": null,
+          "description": "21日晚，中国人民大学一名在读女博士实名举报该校文学院原党委书记兼副院长、博导王某某，“在工作和学习期间对其实施强制猥亵，遭到拒绝后被对方打击报复，并以不允许毕业来对其进行威胁。”22日晚，中国人民大学官方微博发布情况通报称：“举报情况属实，经研究决定，给予王某某开除党籍处分，撤销教授职称，取消研究生指导教师资格，撤销其中国人民大学教师岗位任职资格，解除聘用关系。同时，报请上级教育行政部门撤销其教师资格，并将问题线索依法反映给有关机关。”该事件发酵期间，多个平台出现不同热帖，均称王某某在三十多年前在北京外国语大学任教期间有过类似前科，后被北京师范大学著名学者王某“力保”，因为王某正是涉事教授王某某在北师大读研时的导师。23日，北师大党委/校长办公室工作人员回应记者，称此事已经记录下来，会进行查证。\n记者在相关网帖中看到：“1988-1991他（王某某）在北外就有前科，当时北外没有包庇，给他处分，还停课了。他也待不下去了。之后他导师（学术大佬王某）把他保下来换了个学校。”同时，多名自称王某学生的网友发帖驳斥该说法，“王老师其实是替陆宗达和周祖谟带的学生，当年王老师去指导这败类论文，他还在宿舍睡觉，王老师在门外坐着等他。王老师对学术有很强的使命感，也因此得罪了不少你好我好大家好的恶人……”\n有网友表示，“王老师真是无妄之灾，到底谁在传王老师保的王某某？我在北师大读书的时候所有老师同学都对王老师敬重无比，她在北师大的口碑是毋庸置疑的。她是一位德高望重的学者，八九十岁还耕耘在文学研究一线，这样子攻击一位踏实研究的学者到底是何居心？能不能不要乱扣帽子？”\n23日上午，记者联系上北京师范大学党委/校长办公室，工作人员表示：“您说的这个情况已经记录下来了，我们也再查一下。”随后，记者多次尝试联系北京外国语大学党委/校长办公室，但电话无人接听。公开资料显示，中国人民大学涉事教授王某某1985-1988年硕士就读于北京师范大学文学院，1988-1991年在北京外国语大学任教，1991-1994年博士就读于北京师范大学文学院，均师从王某。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28165050",
+          "publishedOn": "2024-07-23T14:53:03.000Z",
+          "wordCount": 32,
+          "title": "人民大学被举报教授早年曾有类似前科？北师大：会进行查证",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28165106",
+          "author": null,
+          "description": "7月23日，国家医保局发布《关于印发按病组和病种分值付费2.0版分组方案并深入推进相关工作的通知》。\n通知提到，对因住院时间长、医疗费用高、新药耗新技术使用、复杂危重症或多学科联合诊疗等不适合按DRG/DIP标准支付的病例，医疗机构可自主申报特例单议，特例单议数量原则上为DRG出院总病例的5％或DIP出院总病例的5‰以内。\n7月23日，国家医保局召开“按病组（DRG）和病种分值（DIP）付费2.0版分组方案”新闻发布会，介绍医保支付方式改革和2.0版分组方案有关情况，并答媒体提问。\n会上，澎湃新闻（www.thepaper.cn）记者提问，对于“特例单议”机制，医疗机构都比较关心，能否展开讲一讲这个机制是什么，如何用好这个机制？\n对此，国家医保局医疗保障事业管理中心副主任王国栋介绍，特例单议机制是DRG/DIP支付方式改革的重要组成部分，如果说DRG/DIP的支付标准解决的是一般性问题，那么特例单议机制主要是解决特殊性问题。一般性和特殊性相结合才构成了整个完整的支付制度。\n特例单议机制，通俗讲就是特殊病例单独审核评议。在通知里明确讲到一些特殊病例，比如说住院时间长、医疗费用高、新药耗新技术使用、复杂危重症或多学科联合诊疗等不适合按DRG/DIP标准支付的病例，医疗机构可自主申报特例单议。\n王国栋介绍，从范围来看，特例单一机制实际上是对医疗机构收治的非常特殊的、少量的、危重的复杂病例，在现有分组还不能完全涵盖临床需要的时候，提供的补充机制。“有一些病例，即使按照规范的诊疗，也可能会偏离DRG/DIP的支付标准，但这种偏离有时候是客观合理的，所以提出特例单议机制是为了尊重临床实践需要。”\n王国栋表示，下一步，医保部门首先要加强宣传，让医疗机构、医务人员能够充分的知晓政策，让医疗机构不要因为费用的问题影响病人的救治。\n第二，要规范特例单议机制的条件、程序等。第三，要推进公开透明。在这个过程中，需要医疗机构和医保部门加强沟通，要定时公布DRG/DIP的分组情况。\n希望医疗机构能够了解这项政策，不光是医院管理层面，临床科室，医务人员也要知道有这样的机制，积极进行申报。因为这项机制的主导权是在医疗机构，如果认为某一个病例符合特例单议机制的条件，可以主动提出。王国栋表示，希望医疗机构能够积极配合。“这项政策需要医疗机构的支持，希望通过这种机制的逐步推进，能够更好发挥医保支付方式改革的引导作用，真正让医保和医疗机构相向而行。”",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28165106",
+          "publishedOn": "2024-07-23T14:23:03.000Z",
+          "wordCount": 37,
+          "title": "国家医保局答澎湃：用好特例单议机制，不因费用问题影响病人救治",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28165058",
+          "author": null,
+          "description": "7月22日，杭州东站候车大厅。本文图片均为澎湃新闻记者 钟常宇 图\n\n“在杭州东站候车室汗如雨下”“火车站不开空调吗？”......烈日炎炎，网上出现不少吐槽杭州火车东站候车大厅太热，怀疑空调未开的帖子。\n“阳光透过天窗照到身上，很热。”7月22日上午，小马乘火车从郑州抵达杭州东站，准备下午从杭州东站去桐乡。他告诉澎湃新闻（www.thepaper.cn），候车时自己开始坐在18B检票口旁的座椅上，头顶正对着屋顶天窗，11时许，阳光透过天窗照在他身上。他身上冒汗，起身坐到检票口边的地板上，“也许是候车厅空间大，人流量大，空调难以降温，才这么闷热”。\n“我进候车厅后出了一身汗，衣服都被打湿了。”台州的郑先生上周末带孩子到杭州走亲戚，打算22日15时许从杭州东站返程，当天提前一小时候车。他告诉澎湃新闻，自己从东进站口进站后，在候车厅没找到座位，就坐到东进站口左侧二楼商务区，不一会儿就开始出汗。他微胖，怕热，本想到餐饮店会凉快，结果看到店员也热得不行，就打消了念头。\n60多岁的赵大爷坐在离郑先生不远的地方，买了22日下午到金华的高铁票。他说，每个人的体感不一样，候车大厅是有点热，但他能接受，待在人少的地方，静下来，人会凉快下来。\n\n7月22日13时22分，杭州东站东进站18号和19号检票口处，温度计显示该位置温度为34.4摄氏度。\n\n22日中午，杭州气温38℃。澎湃新闻记者在杭州东站候车厅内外5处位置分别测温：东进站口外为36.5℃，东进站口安检处30.7℃，东进站口左侧一楼商务区后侧31.3℃，东进站口左侧二楼商务区33.2℃，候车大厅18号、19号检票口为34.5℃。\n\n7月22日12时56分，杭州东站东进站口安检处，温度计显示该位置温度为30.7摄氏度。\n\n上述五个位置中，东进站口安检处的温度最低，到这里要经过进站口，大门上方装有一排空调，不断有冷气下沉。温度最高的是18号、19号检票口，这里处于大厅中心，人流量大，头顶有一排排透明的天窗。\n铁路杭州站相关负责人表示，网友反映东站闷热的事他们很重视，也采取了相关措施，在候车厅范围内新增了27台冷风机，在人员较密集的宁杭甬场检票口加装4台风幕机，后续还会加装。候车大厅的空调已通宵运行，但杭州持续高温，进站口、检票口又开放，冷气流失，有些乘客还是感到热。\n“候车大厅闷热”并非个例。央视新闻“新闻周刊”去年报道，北京南站候车大厅采用拱形玻璃屋顶，阳光照射下，虽有空调，但大厅内温度仍上升明显。为缓解闷热，车站在候车厅内撑起了数十把遮阳伞。主持人白岩松提出，机场、火车站等公共建筑大面积采用玻璃穹顶，采光变好了，但综合看是节能还是耗能，真希望建筑界好好思考一下这个问题。\n澎湃新闻搜索发现，参与杭州东站建筑设计的中南建筑设计院建筑师王力2014年曾作为第三作者，在“第十届国际绿色建筑与建筑节能大会”上发表《大空间采光屋顶遮阳设计分析——以杭州东站采光屋顶遮阳设计为例》的论文，提及杭州东站一类使用天窗采光的大空间建筑的热舒适性变差，空调负荷增大，改善措施之一是加上遮阳构造。      \n他表示，杭州东站室内空间大，如只有侧面采光无法满足室内照度需求，顶部采光天窗不可缺少。但杭州1981年~2010年出现35℃以上的高温天数居中国省会城市第三，夏季炎热，太阳辐射给屋顶透光部分造成大量太阳辐射热，直接影响建筑内部空间的热环境，降低了热舒适性、增大了空调负荷。对此，可以在天窗上设计合适的遮阳构造。由于屋顶是弧形屋面，考虑到成本、日常维护、机器故障和施工等因素，建议选用固定式遮阳百叶。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28165058",
+          "publishedOn": "2024-07-23T14:23:03.000Z",
+          "wordCount": 62,
+          "title": "候车厅热得让人直冒汗，杭州东站：空调通宵运行、加装冷风机",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28169982",
+          "author": null,
+          "description": "美股基本平开，道指涨0.05%，纳指跌0.16%，标普500指数涨0.01%。Spotify Technology涨近15%，Q2净利润同比扭亏为盈，Q3利润指引远超预期。恩智浦跌逾8%，三季度业绩指引逊于市场预期。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28169982",
+          "publishedOn": "2024-07-23T14:23:03.000Z",
+          "wordCount": 35,
+          "title": "美股基本平开，道指涨0.05%，纳指跌0.16%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28169689",
+          "author": null,
+          "description": "7月23日晚间， 武汉东湖高新集团股份有限公司（东湖高新，600133.SH）公告，全资子公司武汉东湖高新数科投资有限公司拟向关联方湖北数据集团有限公司增资不超过3.1亿元，本次增资完成后，湖北数据集团注册资本金由7亿元变更为10亿元。公司将间接持有湖北数据集团30%的股权，湖北数据集团成为公司参股公司，不纳入公司合并报表范围。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28169689",
+          "publishedOn": "2024-07-23T13:23:03.000Z",
+          "wordCount": 34,
+          "title": "东湖高新：子公司拟向湖北数据集团增资不超3.1亿元",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28169748",
+          "author": null,
+          "description": "7月23日晚间，厦门金龙汽车集团股份有限公司（金龙汽车，600686.SH）发布股票交易异常波动公告，公司股票交易连续3个交易日内日收盘价格涨幅偏离值累计达20%，属于股票交易异常波动情形。公司关注到近期公共传媒报道了公司涉及“无人驾驶汽车概念股”的相关内容。公司现有主营业务以需人员驾驶的普通客车为主，无人驾驶客车2023年的销售收入占公司营业收入比例不超过0.3%，占比极小，且自2017年相关产品研发投产至今，销售规模始终未出现较大变化。无人驾驶客车市场目前总体尚处于探索阶段，尚不成熟。公司相关产品未来在技术研发、产品竞争能力、盈利能力等方面尚存在不确定性，该类产品的生产销售受到未来的市场需求变化、行业和国家政策变化等多种因素影响，对于公司未来业绩的影响存在较大不确定性，敬请各位投资者注意投资风险。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28169748",
+          "publishedOn": "2024-07-23T13:23:03.000Z",
+          "wordCount": 32,
+          "title": "金龙汽车：无人驾驶客车2023年的销售收入占公司营业收入比例不超过0.3%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28163744",
+          "author": null,
+          "description": "当地时间7月21日下午，美国总统拜登宣布，他不再谋求连任，并全力支持副总统哈里斯作为民主党总统候选人，参与2024年总统角逐。22日，哈里斯发表声明称，已获得足够支持成为民主党总统候选人。\n拜登“主动请辞”，让民主党总算松了口气。然而，临阵换帅怎么说也是兵家大忌。相比拜登，副总统哈里斯尽管有年龄、性别及少数族裔等诸多“优势”加持，但想在未来短短几个月内扭转颓势，给民主党带来好运，恐怕是“不可能完成的任务”。\n\n哈里斯与拜登。视觉中国 资料图\n\n临危受命，哈里斯手里有几张牌？\n被推上风口浪尖的副总统哈里斯，在拜登宣布支持提名她作为党内总统候选人的第一时间，表达了对拜登的感谢之情，希望自己能够“赢得党内总统候选人的提名”，尽一切努力击败共和党总统候选人特朗普。\n临危受命的哈里斯，手里到底握有几张牌？\n首先，哈里斯的年龄优势。1964年出生的哈里斯，比拜登整整年轻了22岁，比特朗普年轻19岁，享有巨大的年龄优势。在拜登的年龄、健康状况和认知能力饱受质疑、成为特朗普竞选团队重要攻击把柄的情况下，选择年轻的哈里斯无疑是对特朗普竞选策略的釜底抽薪，让对手无法再将火力集中于民主党总统候选人的年龄和健康状况上。一个朝气蓬勃、充满活力的哈里斯将为民主党沉闷的竞选活动注入新鲜血液，相比之下，特朗普的年龄反而成了劣势和诟病对象。\n其次，哈里斯的女性身份。民调显示，特朗普在女性选民中的支持率一直低迷，远低于拜登在女性中的支持率。特朗普私生活的不检点和在堕胎问题上的首鼠两端立场，让很多女性选民对他望而却步。然而，拜登由于年龄、健康问题以及在堕胎问题上的不坚定立场，也无法激起女性选民、特别是年轻女性选民的热情。哈里斯在堕胎问题上“支持选择权”（支持女性有堕胎权利和自由）的坚定立场和对女性权利的坚强捍卫，无疑在情感上与女性、特别是年轻女性更能产生共鸣。特别是在面对特朗普时，哈里斯的女性身份和女权立场，更…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28163744",
+          "publishedOn": "2024-07-23T12:53:05.000Z",
+          "wordCount": 61,
+          "title": "美国那点事｜哈里斯要赢特朗普很难，但也并非完全无计可施",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28165637",
+          "author": null,
+          "description": "近日，重庆一网友在社交平台发视频称，他在工作日上午9点左右去重庆市云阳县堰坪镇政府办事，但大厅内空空如也，8台电脑、8个工位，却只有一名工作人员。\n针对此事，7月23日，海报新闻记者采访了当地镇政府，工作人员表示，按照规定，上班时间为8点半，目前他们正在调查此事，暂不方便向记者回复。\n原标题：《“8个工位 仅1人在岗” 重庆一镇政府回应“上班不在岗”：不便回复，自查中》",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28165637",
+          "publishedOn": "2024-07-23T12:53:05.000Z",
+          "wordCount": 51,
+          "title": "重庆一镇政府回应“8个工位仅1人在岗”：不便回复，自查中",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28169059",
+          "author": null,
+          "description": "美国交通部当地时间7月23日表示，已开始对达美航空自7月19日以来大面积取消航班事件展开调查。\n美国交通部长皮特·布蒂吉格表示，该调查是为了“确保航空公司在持续的网络故障期间遵守法律并照顾好乘客”。\n据悉，受全球网络故障影响，达美航空自19日以来已取消了超过5000架次航班。在其他航空公司已经能够恢复正常运营时，达美航空仍因机组人员排班系统问题继续取消数百架次航班。（央视新闻）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28169059",
+          "publishedOn": "2024-07-23T12:53:05.000Z",
+          "wordCount": 36,
+          "title": "美国交通部对达美航空大面积取消航班事件展开调查",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28169087",
+          "author": null,
+          "description": "当地时间23日，乌克兰总理什梅加尔在政府会议上表示，7月乌克兰将获得第一笔来自俄罗斯被冻结资产的利息收益，欧盟方面承诺将划拨约15亿欧元给乌克兰。这些款项将用于乌克兰国防，购买防空系统、炮弹等必要的武器，以及发展乌克兰国防工业。\n今年6月24日，多名欧盟外交官表示，欧盟决定将俄罗斯中央银行被冻结资产所产生的十多亿欧元利润转入乌克兰援助基金。7月23日，针对欧盟外交与安全政策高级代表博雷利称，来自俄罗斯被冻结资产的第一笔收益将用于在8月初援助乌克兰购买军备，俄罗斯总统新闻秘书佩斯科夫表示，俄罗斯将会作出回应。佩斯科夫强调，欧盟这种行为违反国际法，俄罗斯将研究对欧盟决定的相关决议者和执行者进行司法起诉的可能性。（央视新闻）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28169087",
+          "publishedOn": "2024-07-23T12:53:05.000Z",
+          "wordCount": 32,
+          "title": "乌克兰总理：欧盟援助的15亿俄冻结资产收益将被用于乌国防",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28167984",
+          "author": null,
+          "description": "伴随着LPR调整，房贷利率也迎来下调，广州最低房贷利率已降至3%以下，创历史新低。7月23日，记者从广州多家主要银行获悉，人民银行公布2024年7月22日贷款市场报价利率（LPR）后，广州各家商业银行从23日起执行最新房贷利率标准。\n目前房贷业务规模占比较大的工商银行、农业银行、中国银行、建设银行等国有大行，首套房贷利率下调至3.1%（即LPR-75BP）；二套房贷利率下调至3.75%（即LPR-10BP）。此外，记者获悉，目前部分优质客户在汇丰银行等外资行，若申请房贷达到一定金额，利率有望降至“2”字头。（南方+）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28167984",
+          "publishedOn": "2024-07-23T12:23:11.000Z",
+          "wordCount": 32,
+          "title": "广州最低房贷利率已降至2字头",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28168098",
+          "author": null,
+          "description": "7月23日，商务部部长王文涛会见美中贸委会董事会主席芮思博率领的代表团。双方就中美经贸关系、美国企业在华发展等议题交换了意见。\n王文涛表示，中国共产党二十届三中全会刚刚胜利闭幕，会议对进一步全面深化改革、推进中国式现代化作出系统部署，强调要更加注重系统集成，注重突出重点，注重改革实效。高水平社会主义市场经济体制是中国式现代化的重要保障，开放是中国式现代化的鲜明标识，中方将坚持对外开放基本国策，以开放促改革，建设更高水平开放型经济新体制，做好外资准入的“减法”和优化营商环境的“加法”。欢迎包括美国企业在内的各国企业继续深耕中国市场，共享发展机遇。（商务部网站）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28168098",
+          "publishedOn": "2024-07-23T12:23:11.000Z",
+          "wordCount": 33,
+          "title": "商务部部长王文涛王文涛会见美中贸委会董事会代表团",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28166502",
+          "author": null,
+          "description": "记者今天（23日）从中国科学院物理研究所获悉，中国科学院物理研究所/北京凝聚态物理国家研究中心研究员陈小龙、副研究员金士锋、博士研究生郝木难等，联合北京科技大学副教授郭中楠、天津大学工程师殷博昊、中国科学院青海盐湖研究所研究员马云麒、郑州大学工程师邓丽君等，在嫦娥五号带回的月球样本中，发现了月球上一种富含水分子和铵的未知矿物晶体——ULM-1。这标志着科学家首次在月壤中发现了分子水，揭示了水分子和铵在月球上的真实存在形式。该研究成果近日在学术期刊《自然-天文学》（Nature Astronomy）在线发表。\n月球上是否存在水，对于月球演化研究和资源开发至关重要。对1969年至1972年采集的阿波罗样品的研究表明，月壤中未发现任何含水矿物。此后，月球不含水成为月球科学的基本假设，这对认识月球火山演化、月地起源等问题产生了重要影响。1994年，研究人员通过克莱门汀探测器对月球两极进行观测，提出极区永久阴影区的月壤中可能存在水冰。2009年，月船一号搭载的月球矿物绘图光谱仪发现，月球表面存在太阳风导致的羟基和/或水分子信号。同年，月球观测和传感卫星以2.5公里/秒的速度撞击了月球永久阴影区，而对撞击尘埃的遥感测量显示了水的信号。近年来，遥感数据表明月球光照区有水分子存在的迹象。针对当年采集的阿波罗月球样品，科学家运用高灵敏度的表征技术，在部分玻璃和矿物中发现了百万分之一量级的“水”（H+、OH-或H2O），但没有水分子存在的确凿证据。\n\n富含水分子和铵的未知矿物晶体——ULM-1和成分组成\n\n我国嫦娥5号采集的月壤样品属于最年轻的玄武岩，是迄今为止纬度最高的月球样品，为月球水的研究提供了新机遇。我国科研人员开展的这项研究基于单晶衍射和化学分析发现，这些月球水和铵以一种成分为(NH4,K,Cs,Rb) MgCl3·6H2O的水合矿物形式出现。该矿物分子式中含有多达六个结晶水，水分子在样品中的质量比高达41%。红外光谱和拉曼光谱上均可以清晰地观察到源于水分子和铵的特征振动峰。晶体的电荷密度可以清晰地看到水分子中的氢。ULM-1的晶体结构和组成与地球上近年来发现的一种稀有火山口矿物相似。地球上，该矿物是由热玄武岩与富含水和氨的火山气体相互作用形成。这为月球上的水和氨的来源提供了新线索。\n为了确保这一发现的准确性，该研究进行了严格的化学和氯同位素分析。纳米二次离子质谱数据表明，该矿物的Cl同位素组成和地球矿物显著不同，与月球上的矿物相符。研究人员对该矿物化学成分和形成条件进行分析，进一步排除了地球污染或火箭尾气作为这种水合物的来源。该六水矿物的存在为月球火山气体的组成给出了重要的约束。热力学分析显示，当时月球火山气体中水的含量下限与目前地球中最为干燥的伦盖火山相当。这揭示了复杂的月球火山脱气历史，对探讨月球的演化过程具有重要意义。\n这种水合矿物的发现揭示了月球上水分子可能存在的一种形式——水合盐。与易挥发的水冰不同，这种水合物在月球高维度地区（嫦娥5号采样点）非常稳定。这意味着，即使在广阔的月球阳光照射区，也可能存在这种稳定的水合盐。这为未来月球资源的开发和利用提供了新的可能性。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28166502",
+          "publishedOn": "2024-07-23T11:53:06.000Z",
+          "wordCount": 40,
+          "title": "我国科学家在月壤中首次发现分子水",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28166897",
+          "author": null,
+          "description": "当地时间23日，俄罗斯外交部宣布对15名英国公民进行制裁。（央视新闻）\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.run",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28166897",
+          "publishedOn": "2024-07-23T11:53:06.000Z",
+          "wordCount": 32,
+          "title": "俄罗斯外交部宣布制裁15名英国公民",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28166938",
+          "author": null,
+          "description": "国家药监局今天发布通告，通告称：在2023年国家化妆品抽样检验工作中，经西藏自治区食品药品检验研究院等单位检验，产品标签标示为广州普伽娜生物科技有限公司生产的SAMKUS上官氏熊果苷光感亮肤安瓶面膜等36批次化妆品不符合规定（见链接）。其中，广州普伽娜生物科技有限公司提出样品真实性异议申请，经广东省药品监督管理局审查，被抽检不符合规定的产品确为上述生产企业注册或生产。上述企业提供虚假信息、隐瞒真实情况的行为属于《化妆品监督管理条例》规定的情节严重的情形，将依法从重从严处罚。（央视新闻）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28166938",
+          "publishedOn": "2024-07-23T11:53:06.000Z",
+          "wordCount": 32,
+          "title": "36批次化妆品不符合规定，国家药监局发布通告",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28165270",
+          "author": null,
+          "description": "7月23日，外交部发言人毛宁主持例行记者会。有记者提问，今天（23日）上午，巴各派代表共同签署了关于结束分裂，加强巴勒斯坦民族团结的《北京宣言》，请问中方能否详细介绍北京对话的具体情况？\n毛宁介绍，应中方邀请，巴勒斯坦14个派别高级别代表于7月21日至23日在北京举行和解对话。今天上午中共中央政治局委员、外交部长王毅出席了和解对话闭幕式并致辞。巴各派签署了关于结束分裂，加强巴勒斯坦民族团结的《北京宣言》。这是巴勒斯坦14个派别首次齐聚北京举行和解对话，为饱受苦难的巴勒斯坦人民带来了宝贵希望。\n毛宁表示，宣言高度赞赏中国为支持巴勒斯坦人民权利、结束分裂、统一巴立场所做的真诚努力，强调应在联合国主持下召开地区和国际广泛参与的具有充分授权的国际会议，认为北京对话展现了积极和建设性的精神，同意在巴解组织这一巴人民唯一合法代表的框架下，实现涵盖所有派别的民族大团结。\n毛宁指出，根据联合国有关决议，建立以耶路撒冷为首都的独立的巴勒斯坦国，坚持包括约旦河西岸、耶路撒冷和加沙在内的巴勒斯坦领土完整；表示将根据巴各派共识，按照巴现行基本法组建临时民族和解政府，开展加沙重建，并根据通过的选举法尽快筹备并举行大选，强调根据通过的选举法，采取务实举措，组建新的全国委员会；一致同意激活临时统一领导框架，并机制性运行，共同进行政治决策；同意成立集体性机制，全面落实宣言各项条款，为落实宣言设定时间表。\n正如王毅外长在致辞中所说，此次对话最重要的共识就是实现所有14个派别的大和解、大团结。最核心的成果就是明确巴解组织是巴勒斯坦人民唯一合法代表，最突出的亮点就是围绕加沙战后治理，组建临时民族和解政府达成一致。最强烈的呼吁就是要根据联合国有关决议，实现巴勒斯坦真正的独立建国。\n王毅外长在和解对话闭幕式致辞中，针对当前加沙冲突困境，提出三步走的中方倡议：第一步是推动加沙地带尽快实现全面持久、可持续停火，确保人道援助和救援顺畅准入；第二步是秉持“巴人治巴”原则，携手推进加沙战后治理；第三步是推动巴勒斯坦成为联合国正式会员国，并着手落实两国方案。三步走环环相扣、缺一不可。\n中国同巴勒斯坦是相互信任的好兄弟、好伙伴。中方真诚期待巴勒斯坦各派在内部和解的基础上，早日实现巴勒斯坦民族团结统一和独立建国。我们将同有关各方一道继续为此作出不懈努力。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28165270",
+          "publishedOn": "2024-07-23T11:23:05.000Z",
+          "wordCount": 38,
+          "title": "外交部：《北京宣言》为饱受苦难的巴勒斯坦人民带来宝贵希望",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28166832",
+          "author": null,
+          "description": "据灯塔专业版，截止7月23日19时15分，2024年7月总票房（含预售）突破40亿。（@灯塔专业版）\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.run",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28166832",
+          "publishedOn": "2024-07-23T11:23:05.000Z",
+          "wordCount": 32,
+          "title": "2024年7月票房破40亿",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28166838",
+          "author": null,
+          "description": "7月23日晚间，江铃汽车股份有限公司（江铃汽车，000550.SZ）发布2024年半年度业绩快报，上半年实现营业总收入179.2亿元，同比增长16.14%；归属于上市公司股东的净利润8.95亿元，同比增长22.77%；基本每股收益1.04元。上半年，公司销售了159,677辆整车，包括38,274辆轻型客车，28,982辆卡车，36,579辆皮卡，55,842辆SUV。总销量较上年同期上升9.11%。上半年，公司利润总额和归属于上市公司股东的净利润较上年同期分别上涨56%和22.77%，主要是由于销量增长、严控费用及本期确认了增值税进项加计抵减带来的利润增加。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28166838",
+          "publishedOn": "2024-07-23T11:23:05.000Z",
+          "wordCount": 32,
+          "title": "江铃汽车：上半年净利润8.95亿元，同比增长22.77%",
+          "imageUrl": null
+        },
         {
           "id": "https://www.thepaper.cn/newsDetail_forward_28165232",
           "author": null,
@@ -11988,66 +12178,6 @@
           "wordCount": 48,
           "title": "又是波音？韩国航班空中骤降6000多米，13人被送医",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_27836176",
-          "author": null,
-          "description": "6月24日，香港恒生指数午盘跌1.02%，恒生科技指数跌1.76%。板块方面，生物医药、教育等行业或概念涨幅居前。其中，生物医药板块走高，康方生物涨超5%，再鼎医药涨超2%。稀土、互联网医疗、芯片、建材水泥、光伏太阳能、内地物业管理等行业或概念跌幅居前。其中，芯片股下挫，中电华大科技跌超6%，华虹半导体、晶门半导体、上海复旦跌超4%，中芯国际跌超3%；建材水泥股走弱，东吴水泥跌超20%，海螺水泥、中国建材跌超2%。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_27836176",
-          "publishedOn": "2024-06-24T04:23:10.000Z",
-          "wordCount": 32,
-          "title": "恒指跌1.02%，恒生科技指数跌1.76%",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_27836210",
-          "author": null,
-          "description": "澎湃，澎湃新闻，澎湃新闻网，新闻与思想，澎湃是植根于中国上海的时政思想类互联网平台，以最活跃的原创新闻与最冷静的思想分析为两翼，是互联网技术创新与新闻价值传承的结合体，致力于问答式新闻与新闻追踪功能的实践。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_27836210",
-          "publishedOn": "2024-06-24T04:23:10.000Z",
-          "wordCount": 35,
-          "title": "长沙地铁：受暴雨天气影响，2、3号线全线（含西环线）停止运营服务",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_27835439",
-          "author": null,
-          "description": "6月23日晚10时，四川省2024年高考成绩开放查询。备受网友关注的成都“高考钉子户”梁实，也查询了他的第28次高考成绩，总分446分，比今年四川文科本科第二批分数线457分差11分。“心情烂透了。”梁实说。\n\n梁实（极目新闻记者摄）\n\n据媒体此前报道，6月8日，高考结束时，梁实完成了他的第28次高考。走出考场时愁眉不展。他向记者表示，感觉情况不妙，可能要重演落榜的历史。他还表示，如果成绩出来后有可以接受的学校，他会选择上大学，“哪怕是勉强的也去了算了。”\n6月23日晚10时许，梁实查到了自己第28次高考的成绩，总分446分，其中语文107分，数学91分，外语89分，文科综合159分。\n四川省教育考试院公布的普通类各批次录取控制分数线，其中文科本科第二批为457分。\n看到分数后，梁实脸色凝重，长叹了一口气，直言“心情烂透了，有点无语”，尤其是看到文科综合中的地理仅考了37分，更是直拍大腿。\n关于明年是否要再考，他只表示要再考虑一下。\n\n梁实（极目新闻记者摄）\n\n根据公开报道，梁实1967年生于四川仁寿县，1983年起开始报名参加高考，至2023年已经参加过27次高考。去年他第27次高考语文为85分，数学104分，外语86分，文科综合149分，总分424分。\n\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.run",
-          "link": "https://www.thepaper.cn/newsDetail_forward_27835439",
-          "publishedOn": "2024-06-24T03:53:04.000Z",
-          "wordCount": 40,
-          "title": "“高考钉子户”梁实第28次高考总分446分，仍未过二本线",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_27835899",
-          "author": null,
-          "description": "2023年度国家最高科学技术奖6月24日在京揭晓，李德仁院士、薛其坤院士获得中国科技界崇高荣誉。\n李德仁是著名的摄影测量与遥感学家，一直致力于提升我国测绘遥感对地观测水平。他攻克卫星遥感全球高精度定位及测图核心技术，解决了遥感卫星影像高精度处理的系列难题，带领团队研发全自动高精度航空与地面测量系统，为我国高精度高分辨率对地观测体系建设作出了杰出贡献。\n薛其坤是凝聚态物理领域著名科学家，取得多项引领性的重要科学突破。他率领团队首次实验观测到量子反常霍尔效应，在国际上产生重大学术影响；在异质结体系中发现界面增强的高温超导电性，开启了国际高温超导领域的全新研究方向。\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.run",
-          "link": "https://www.thepaper.cn/newsDetail_forward_27835899",
-          "publishedOn": "2024-06-24T03:53:04.000Z",
-          "wordCount": 36,
-          "title": "李德仁、薛其坤获2023年度国家最高科学技术奖",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_27836141",
-          "author": null,
-          "description": "问：6月21日，美财政部发布对华投资限制拟议规则。请问中方对此有何评论？\n答：中方注意到美方发布相关文件。美方反复强调无意对华“脱钩”，无意阻挠中国经济发展，但却执意发布拟议规则，限制美方企业对华投资，打压中国产业正常发展。这是典型的泛化国家安全做法，违背两国元首旧金山会晤共识，影响中美两国企业正常经贸合作，破坏国际经贸秩序，扰乱全球产业链供应链安全稳定。中方对此表示严重关切、坚决反对，将保留采取相应措施的权利。\n美方应尊重市场经济规律和公平竞争原则，停止将经贸问题政治化、武器化，取消对华投资限制，为中美经贸合作创造良好环境。（商务部网站）",
-          "link": "https://www.thepaper.cn/newsDetail_forward_27836141",
-          "publishedOn": "2024-06-24T03:53:04.000Z",
-          "wordCount": 33,
-          "title": "商务部回应美财政部发布对华投资限制拟议规则：坚决反对",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_27836154",
-          "author": null,
-          "description": "近期，个人所得税APP更新引起关注。\n记者注意到，在个人所得税APP的“收入纳税明细”中，新增展示五项个人所得，即经营所得；利息、股息、红利所得；财产租赁所得；财产转让所得；偶然所得。\n对此，记者致电12366咨询，客服人员表示，该五项个人所得确实为今年新增的显示项目，主要是可以让有上述个人所得的人在个税APP上查询收入、个税明细。\n根据《中华人民共和国个人所得税法》，应当缴纳个人所得税的个人所得包括九项，分别是，（一）工资、薪金所得；（二）劳务报酬所得；（三）稿酬所得；（四）特许权使用费所得；（五）经营所得；（六）利息、股息、红利所得；（七）财产租赁所得；（八）财产转让所得；（九）偶然所得。\n12366客服表示，汇算清缴是指个人所得税综合所得年度汇算清缴，即《个人所得税法》中提到的前四项个人所得，此次新增展示的五项个人所得主要是查询、展示的作用，并不改变汇算清缴方式。（澎湃新闻记者 滕晗）",
-          "link": "https://www.thepaper.cn/newsDetail_forward_27836154",
-          "publishedOn": "2024-06-24T03:53:04.000Z",
-          "wordCount": 40,
-          "title": "个人所得税APP “收入纳税明细”新增显示五项个人所得，12366：主要是查询、展示",
-          "imageUrl": null
         }
       ]
     },
@@ -12056,6 +12186,56 @@
       "feedUrl": "https://www.nationalreview.com/feed/",
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
+        {
+          "id": "https://www.nationalreview.com/?p=1673784",
+          "author": "Charles C. W. Cooke",
+          "description": "Rather than appeal to a majority of normal voters, both the GOP and the Democrats are proceeding as if their problems are structural rather than political.",
+          "link": "https://www.nationalreview.com/2024/07/the-exasperating-era-of-the-political-block-party/",
+          "publishedOn": "2024-07-23T16:30:01.000Z",
+          "wordCount": 9089,
+          "title": "The Exasperating Era of the Political Block Party",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/07/Trump-Harris.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1673280",
+          "author": "Oran P. Smith",
+          "description": "A blue state or two could learn from our example.",
+          "link": "https://www.nationalreview.com/2024/07/south-carolina-quietly-fixing-its-tax-problems/",
+          "publishedOn": "2024-07-23T10:30:40.000Z",
+          "wordCount": 9229,
+          "title": "South Carolina Quietly Fixing Its Tax Problems",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2021/09/Henry-McMaster.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1673297",
+          "author": "Clarke D. Forsythe",
+          "description": "Each state needs to establish a beachhead, a secure, enforceable limit supported by public sentiment before further pro-life progress can be made.",
+          "link": "https://www.nationalreview.com/2024/07/align-abortion-law-with-majority-support/",
+          "publishedOn": "2024-07-23T10:30:36.000Z",
+          "wordCount": 9214,
+          "title": "Align Abortion Law with Majority Support",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2022/08/pro-life-tennessee.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1673401",
+          "author": "The Editors",
+          "description": "The train-wreck congressional testimony only made the Secret Service’s failure at the Trump rally look worse.",
+          "link": "https://www.nationalreview.com/2024/07/if-cheatle-wont-resign-fire-her/",
+          "publishedOn": "2024-07-23T10:30:09.000Z",
+          "wordCount": 9045,
+          "title": "If Cheatle Won’t Resign, Fire Her",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/07/kimberly-cheatle-secret-service-congress-hearing.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1673126",
+          "author": "Jay Nordlinger",
+          "description": "On the Gershkovich case, Joe Biden, Kamala Harris, Shohei Ohtani, the Virginia Tech Hokies, and more.",
+          "link": "https://www.nationalreview.com/2024/07/hostage-in-russia-c/",
+          "publishedOn": "2024-07-23T10:00:45.000Z",
+          "wordCount": 9566,
+          "title": "Hostage in Russia, &c.",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/07/Evan-Gershkovich.jpg?fit=2057%2C1200&ssl=1"
+        },
         {
           "id": "https://www.nationalreview.com/?p=1673406",
           "author": "Dan McLaughlin",
@@ -14684,6 +14864,26 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/90736",
+          "author": "Matrix机器人",
+          "description": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。一周热评Ch ...查看全文",
+          "link": "https://sspai.com/post/90736",
+          "publishedOn": "2024-07-23T09:06:47.000Z",
+          "wordCount": 946,
+          "title": "社区速递 054 | 你没见过的社区文章、一周最热评、派友用的翻译服务",
+          "imageUrl": "https://cdnfile.sspai.com/23/7/2024/article/d7b5a29e-bb98-8a43-0360-d48d9dfdb916.gif"
+        },
+        {
+          "id": "https://sspai.com/post/90673",
+          "author": "化学心情下2",
+          "description": "在计算机网络安全已得到空前重视的今天，这次席卷全球的 Windows 蓝屏故障究竟是如何发生的呢？查看全文",
+          "link": "https://sspai.com/post/90673",
+          "publishedOn": "2024-07-23T07:00:00.000Z",
+          "wordCount": 851,
+          "title": "盖是「蓝屏」的，但锅不全是微软的：聊聊近期的 Windows 大规模宕机",
+          "imageUrl": "https://cdnfile.sspai.com/7/23/2024/article/c29ba108-d6b8-88de-4bf9-80c272d474d8.jpeg"
+        },
+        {
           "id": "https://sspai.com/post/90641",
           "author": "Geekcat",
           "description": "让 iCloud 照片在本地多一重保险。查看全文",
@@ -15762,26 +15962,6 @@
           "wordCount": 1265,
           "title": "没有 E3 但新作扎堆：「御三家」的 6 月谁更精彩？",
           "imageUrl": "https://cdnfile.sspai.com/2024/06/24/9231f8a5794538dd5cc21fd7bcad5dca.jpeg"
-        },
-        {
-          "id": "https://sspai.com/post/89448",
-          "author": "SUNTRISE",
-          "description": "几条小小的横幅，其中也有苹果的匠心独运。查看全文",
-          "link": "https://sspai.com/post/89448",
-          "publishedOn": "2024-06-24T03:31:26.000Z",
-          "wordCount": 1226,
-          "title": "WWDC 横幅：可能是苹果又一项失传的手艺",
-          "imageUrl": "https://cdnfile.sspai.com/2024/06/23/4a7b28f5011515fa89058d8f9d2e09eb.png"
-        },
-        {
-          "id": "https://sspai.com/post/89868",
-          "author": "少数派编辑部",
-          "description": "你可能错过的新鲜事TikTok就反对美国禁令提交法律意见据路透社报道，6月20日，TikTok就其上月针对美国政府提起的诉讼提交法律意见书，指责美国政府从2022年以后拒绝参与任何严肃谈判。该诉讼针对 ...查看全文",
-          "link": "https://sspai.com/post/89868",
-          "publishedOn": "2024-06-24T00:56:30.000Z",
-          "wordCount": 843,
-          "title": "派早报：TikTok 就反对美国禁令提交法律意见",
-          "imageUrl": "https://cdnfile.sspai.com/6/24/2024/article/0e6b9209-5a79-e312-b245-34258b972d39.png"
         }
       ]
     },
@@ -15790,6 +15970,146 @@
       "feedUrl": "https://plink.anyfeeder.com/idaily/today",
       "siteUrl": "https://idai.ly",
       "articles": [
+        {
+          "id": "idaily-211046",
+          "author": "火星",
+          "description": "NASA 公布一张「好奇号」火星车拍摄的含有天然硫晶体的岩石照片。7月18日，NASA 宣布「好奇号」火星车在盖迪兹山谷地区执行任务时碾碎一块岩石，意外发现其中存在大量黄色的天然硫晶体。这是人类首次在火星表面发现晶体形式存在的天然硫，形成原因尚不明确。「好奇号」火星车从2012年8月6日迄今已在火星工作4251个火星日，累计行驶达32公里。摄影师：NASA",
+          "link": "https://m.idai.ly/se/2c3OSn",
+          "publishedOn": "2024-07-23T10:59:00.000Z",
+          "wordCount": 288,
+          "title": "火星首次发现硫晶体 - July 23, 2024",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/b1d4fe8b/916994be.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/b1d4fe8b/916994be.jpg"
+        },
+        {
+          "id": "idaily-211044",
+          "author": "中国 · 北京",
+          "description": "中国外交部长王毅、法塔赫副主席 Mahmoud al-Aloul 与哈马斯组织高级成员 Mussa Abu Marzuk 举行会面，北京钓鱼台国宾馆。7月21日至23日，巴勒斯坦14个派别内部和解对话在北京举行，各方经过3天谈判后签署《北京宣言》，同意组建「临时民族和解政府」推进加沙战后治理，明确巴解组织是巴勒斯坦人民的唯一合法代表，要求根据联合国决议实现巴勒斯坦独立建国。中国外长王毅强调，巴勒斯坦问题是中东问题的核心，中方始终坚定支持巴勒斯坦人民恢复民族的合法权利，倡议通过停火止战、巴人治巴、两国方案三步走措施推动解决加沙危机。摄影师：Pedro Pardo",
+          "link": "https://m.idai.ly/se/61c0zL",
+          "publishedOn": "2024-07-23T09:58:00.000Z",
+          "wordCount": 288,
+          "title": "中国斡旋巴勒斯坦和解 - July 23, 2024",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/18673718/ccb5bf3b.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/18673718/ccb5bf3b.jpg"
+        },
+        {
+          "id": "idaily-211043",
+          "author": "美国 · 华盛顿",
+          "description": "美国副总统 Kamala Harris 在白宫主持2023-2024赛季美国大学体育协会（NCAA）冠军队颁奖仪式，华盛顿特区。7月22日，美国副总统 Harris 替代新冠检测呈阳性、正在家中康复的总统 Joe Biden 主持白宫活动，她在致辞中称赞总统 Biden 过去三年的政绩超过多数连任两届的美国总统，向 Biden 为国家做出的贡献表示感谢。美国民主党全国委员会将于8月7日举行线上投票确定总统候选人。最新民调显示 Harris 在民主党内的支持率为79%。Harris 竞选团队在 Biden 退选后的24小时内筹集到创纪录的8100万美元竞选资金。摄影师：Brendan Smialowski",
+          "link": "https://m.idai.ly/se/09c3gG",
+          "publishedOn": "2024-07-23T08:57:00.000Z",
+          "wordCount": 288,
+          "title": "哈里斯表态竞选总统 - July 23, 2024",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/44b7c483/39c4d98b.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/44b7c483/39c4d98b.jpg"
+        },
+        {
+          "id": "idaily-211042",
+          "author": "美国 · 纽约",
+          "description": "一份刚刚印刷的《纽约时报》头版刊登美国总统 Joe Biden 退选报道，纽约皇后区。7月22日，美国总统 Biden 致电民主党竞选总部敦促团队全力支持副总统 Kamala Harris 竞选下一届美国总统。现年81岁的 Biden 因新冠确诊已连续5天未公开露面，目前正在居家隔离康复，预计返回白宫后就退选事宜发表全国电视讲话。英国、德国、法国、日本、加拿大、乌克兰、以色列、菲律宾等多国领导人均对 Biden 退选表示支持和尊重。俄罗斯克里姆林宫发言人表示俄方对此并不感到惊讶。中国外交部发言人表示美国大选是美国的内政，中方不作评论。摄影师：Caitlin Ochs",
+          "link": "https://m.idai.ly/se/b8e0U6",
+          "publishedOn": "2024-07-23T08:55:00.000Z",
+          "wordCount": 288,
+          "title": "拜登退选支持哈里斯 - July 23, 2024",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/d0cbe651/f7ccf1fc.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/d0cbe651/f7ccf1fc.jpg"
+        },
+        {
+          "id": "idaily-211041",
+          "author": "法国 · 巴黎",
+          "description": "法国总统 Emmanuel Macron 视察奥运村与法国运动员共进午餐，巴黎。7月22日，法国总统 Macron 在巴黎奥运会倒数第4天视察奥运村，会见法国奥运代表团成员并在餐厅用餐。巴黎奥运村餐厅设有3200个座位，包含2家法国餐厅、6家亚洲餐厅、1家清真餐厅和1家世界餐厅，约200名厨师为运动员定制超过500种食谱，每天可提供4万份餐食。Macron 表示法国已做好奥运会准备工作，呼吁全球各冲突方在奥运会期间实现休战。摄影师：Michel Euler",
+          "link": "https://m.idai.ly/se/a2dYfr",
+          "publishedOn": "2024-07-23T08:53:00.000Z",
+          "wordCount": 288,
+          "title": "马克龙视察奥运村 - July 23, 2024",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/09c37c8e/e7e39471.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/09c37c8e/e7e39471.jpg"
+        },
+        {
+          "id": "idaily-211040",
+          "author": "菲律宾 · 马尼拉",
+          "description": "菲律宾总统 Ferdinand Marcos Jr. 向国会发表国情咨文，马尼拉。7月22日，菲律宾总统 Marcos Jr. 发表任内第3次国情咨文报告，涉及粮食价格、教育医疗、科技环保、社会安全、国际关系等议题。Marcos Jr. 宣布菲律宾贫困率从2021年的18%大幅下降至15.5%，缉毒行动中逮捕超过97000名贩毒者，预计2024年底向30万户贫困家庭提供食品救济。Marcos Jr. 宣称将以基于规则的国际秩序、通过外交渠道解决领土争端，同时宣布2024年底全面禁止网络博彩公司的运营。摄影师：Gerard V. Carreon",
+          "link": "https://m.idai.ly/se/97bzVw",
+          "publishedOn": "2024-07-23T08:51:00.000Z",
+          "wordCount": 288,
+          "title": "菲律宾总统国情咨文 - July 23, 2024",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/7cebbf84/91f3798b.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/7cebbf84/91f3798b.jpg"
+        },
+        {
+          "id": "idaily-211039",
+          "author": "柬埔寨 · 金边",
+          "description": "柬埔寨首相洪玛奈会见新任中国驻柬埔寨大使汪文斌，金边。7月22日，中国驻柬大使汪文斌到任拜会柬埔寨首相洪玛奈。洪玛奈表示柬中两国是铁杆朋友，柬政府将坚定奉行对华友好政策，致力于巩固两国传统友谊，推动两国关系不断向前发展。汪文斌承诺在任期内竭尽全力推动中柬铁杆关系再上新台阶。中国是柬埔寨最大贸易伙伴和最大外资来源国，2024年上半年中柬双边贸易额达73.13亿美元，同比增长18.8%，中国在柬投资达13.8亿美元，占柬投资总额的42.6%。摄影师：iDaily Media",
+          "link": "https://m.idai.ly/se/976OE9",
+          "publishedOn": "2024-07-23T08:49:00.000Z",
+          "wordCount": 288,
+          "title": "中国驻柬埔寨大使履新 - July 23, 2024",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/68b6dc42/a030c9a6.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/68b6dc42/a030c9a6.jpg"
+        },
+        {
+          "id": "idaily-211038",
+          "author": "泰国 · 曼谷",
+          "description": "泰国诗丽吉王后国家会议中心举行「泰国未来科学力量」展览会（Sci-Power for Future Thailand），中国「嫦娥五号」探月器采集的月壤样品首次在海外展出，曼谷。本次展览会由泰国高等教育科学研究与创新部主办，聚焦太空技术、全民健康、终身学习等前沿科技领域，展览面积达2.3万平方米，汇集逾170家科研机构和300家企业的创新技术成果，展期从7月22日持续至28日。摄影师：Rungroj Yongrit",
+          "link": "https://m.idai.ly/se/b68sjy",
+          "publishedOn": "2024-07-23T08:47:00.000Z",
+          "wordCount": 288,
+          "title": "中国月壤样品赴泰展出 - July 23, 2024",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/54fcbdf3/525f6ad8.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/54fcbdf3/525f6ad8.jpg"
+        },
+        {
+          "id": "idaily-211036",
+          "author": "肯尼亚 · 埃尔多雷特",
+          "description": "肯尼亚野生动物管理局（KWS）工作人员正在转移一只野生成年长颈鹿。肯尼亚野生动物管理局从2024年6月开始进行一项野生长颈鹿迁居行动，计划将8只罗氏长颈鹿从西部裂谷地区运往140公里外的鲁科保护区。罗氏长颈鹿是世界上最濒危的长颈鹿亚种之一，原产于非洲乌干达和肯尼亚，目前野外成年个体数量不到1400只，已被列为近危物种。摄影师：Luis Tato",
+          "link": "https://m.idai.ly/se/31437n",
+          "publishedOn": "2024-07-23T08:45:00.000Z",
+          "wordCount": 288,
+          "title": "肯尼亚迁移野生长颈鹿 - July 23, 2024",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/152fdcc3/2121971f.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/152fdcc3/2121971f.jpg"
+        },
+        {
+          "id": "idaily-211033",
+          "author": "中国 · 重庆",
+          "description": "重庆动物园大熊猫「渝爱」正在舔冰块消暑。7月22日，重庆市气象台发布2024年首个高温红色预警，预计部分地区最高气温将升至40°C以上。当天重庆动物园为大熊猫龙凤胎兄妹「渝可」和「渝爱」举办2周岁生日会，准备了用竹笋、西瓜、胡萝卜等食材制作的蛋糕，以及供其消暑纳凉的冰块。重庆动物园是中国大熊猫饲养数量最多的城市动物园，现有大熊猫23只。摄影师：iDaily Media",
+          "link": "https://m.idai.ly/se/093xh3",
+          "publishedOn": "2024-07-23T08:43:00.000Z",
+          "wordCount": 288,
+          "title": "重庆大熊猫冰块纳凉 - July 23, 2024",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/250e7ad7/3b5ee982.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/250e7ad7/3b5ee982.jpg"
+        },
         {
           "id": "idaily-211009",
           "author": "太阳系",
@@ -18948,6 +19268,26 @@
       "siteUrl": "http://nytimes.com",
       "articles": [
         {
+          "id": "https://cn.nytimes.com/usa/20240723/kamala-harris-women-voters/dual",
+          "author": null,
+          "description": "PATRICIA MAZZEI, JENNA RUSSELL, RICHARD FAUSSET, CHRISTINA MORALES2024年7月23日副总统卡玛拉·哈里斯看起来几乎肯定将成为民主党的总统提名人。 Erin Schaff/The New York Times\nIn the eight years since Hillary Clinton failed to win the American presidency, the work force for the first time grew to include more college-educated women than college-educated men. The #MeToo movement exposed sexual harassment and toppled powerful men. The Supreme Court overturned the federal right to abortion.\n希拉里·克林顿未能赢得美国总统大选后的八年里，在职人口中受过大学教育的女性人数首次超过了受过大学教育的男性。#我也是(#MeToo)运动揭露了性骚扰，推翻了有权势的男性。最高法院推翻了联邦堕胎权。\nWill any — or all — of it make a difference for Vice President Kamala Harris?\n这其中的任何一点，或者全部，对副总统卡玛拉·哈里斯会有什么影响吗？\nMs. Harris seems almost certain to become the Democratic Party’s presidential nominee after President Biden’s decision not to seek re-…",
+          "link": "https://cn.nytimes.com/usa/20240723/kamala-harris-women-voters/dual",
+          "publishedOn": "2024-07-23T10:06:02.000Z",
+          "wordCount": 1814,
+          "title": "“女性因素”能帮助哈里斯击败特朗普吗",
+          "imageUrl": "https://static01.nyt.com/images/2024/07/22/multimedia/22nat-women-voters-01-mbvf/22nat-women-voters-01-mbvf-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/business/20240723/kazakhstan-china-electric-vehicles/dual",
+          "author": null,
+          "description": "DAISUKE WAKABAYASHI2024年7月23日 \nKenges Rakishev, one of the richest men in Kazakhstan, stepped off a private jet at a Soviet-era airport and hopped into the lead car of a convoy of sport utility vehicles. The cars tore down a two-lane road, zipping past the snow-covered steppe in eastern Kazakhstan at 90 miles per hour.\n肯吉斯·拉基舍夫是哈萨克斯坦最富有的人之一，他从停在一个苏联时代机场的私人飞机上走下，跳上一个运动型多功能车队的领头车。车队在一条双车道公路上以每小时145公里的速度疾驰，从哈萨克斯坦东部白雪覆盖的高原上呼啸而过。\nRiding shotgun, Mr. Rakishev gestured toward the vast emptiness.\n拉基舍夫坐在副驾驶座位上，指着车外一望无际的旷野。\n“Nothing, right?” he said with a chuckle. “But it’s a unique opportunity.”\n“什么都没有，对吧？”他笑着说道。“但这里有一个难得的机会。”\nThat opportunity is in nickel, a key mineral used in electric vehicles and other clean energy technologies. Kazakhstan, a mineral-rich country in Central Asia, has a lot of …",
+          "link": "https://cn.nytimes.com/business/20240723/kazakhstan-china-electric-vehicles/dual",
+          "publishedOn": "2024-07-23T07:36:03.000Z",
+          "wordCount": 2158,
+          "title": "中国为何对哈萨克斯坦充满兴趣",
+          "imageUrl": "https://static01.nyt.com/images/2024/06/27/00vid-kazakhstan-coal-14372-cover/00vid-kazakhstan-coal-14372-cover-articleLarge.jpg"
+        },
+        {
           "id": "https://cn.nytimes.com/usa/20240723/kamala-harris-trump-presidential-election/dual",
           "author": null,
           "description": "NICHOLAS NEHAMAS, KATIE GLUECK2024年7月23日与拜登总统不同，副总统哈里斯在堕胎权利问题上直言不讳。 Erin Schaff/The New York Times\nFrom the beginning of President Biden’s ill-fated re-election bid, Democrats struggled to frame the race as a choice between two radically different visions, rather than a referendum on Mr. Biden’s age and abilities.\n从拜登总统命运多舛的连任竞选开始，民主党人就努力将这场竞选描述为在两种截然不同的愿景之间做出选择，而不是对拜登的年龄和能力的公投。\nBut now that he has dropped out and Vice President Kamala Harris is cruising toward the Democratic nomination, her party sees fresh opportunities to turn the public’s attention back to the vulnerabilities of former President Donald J. Trump on key issues for voters, including abortion rights, fundamental democratic principles and questions of economic fairness.\n但现在他已经退出，副总统卡玛拉·哈里斯正在向民主党提名稳步迈进，她的政党看到了新的机会，可以将公众的注意力转…",
@@ -19866,26 +20206,6 @@
           "wordCount": 3079,
           "title": "追寻我父亲的边疆：他在中共军队的岁月",
           "imageUrl": "https://static01.nyt.com/images/2024/06/20/us/politics/00dc-chinabook/00dc-chinabook-videoLarge-v2.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/asia-pacific/20240624/putin-korea-china-disruption/dual",
-          "author": null,
-          "description": "DAMIEN CAVE2024年6月24日俄罗斯总统普京周四在越南河内。 Pool photo by Manan Vatsyayana\nFour days in Asia. That’s all President Vladimir V. Putin of Russia needed to anger Washington, undermine Beijing and rattle a collection of Indo-Pacific nations already scrambling to cope with a jumbled world order.\n四天的亚洲之行。俄罗斯总统普京仅用四天就激怒了华盛顿，削弱了北京的影响力，并且让一些已经手忙脚乱应对混乱世界秩序的印太地区国家紧张不已。\nAfter stops in Pyongyang and Hanoi this week that were draped in Communist red, Mr. Putin left behind a redrawn map of risk in Asia. North Korea sat at the center: a rogue nuclear state that regularly threatens its neighbors, suddenly empowered by Russian promises of sophisticated military aid and a mutual defense pact.\n在本周访问了红色共产主义之都平壤跟河内后，普京留下了一张重新绘制的亚洲风险地图。位于地图中心的是朝鲜：一个经常威胁邻国的无赖核国家，突然因俄罗斯承诺提供尖端军事援助和签订共同防御条约而气势大涨。\nMr. Putin also signed at l…",
-          "link": "https://cn.nytimes.com/asia-pacific/20240624/putin-korea-china-disruption/dual",
-          "publishedOn": "2024-06-24T03:06:02.000Z",
-          "wordCount": 1571,
-          "title": "普京来亚洲“搞破坏“，他成功了",
-          "imageUrl": "https://static01.nyt.com/images/2024/06/22/multimedia/22asia-russia-assess-01-kqbj/22asia-russia-assess-01-kqbj-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/business/20240624/china-germany-tariffs-trade/dual",
-          "author": null,
-          "description": "KEITH BRADSHER2024年6月24日大众汽车和上汽集团在上海的合资企业生产电动汽车和汽油车。 Qilai Shen for The New York Times\nWith billions of dollars in trade at stake, China and the European Union have agreed to engage in talks to try to resolve an escalating dispute over tariffs.\n由于关系到数十亿美元的贸易，中国和欧盟同意进行谈判，试图解决不断升级的关税争端。\nChina’s commerce minister, Wang Wentao, and Valdis Dombrovskis, the European Union trade commissioner, will hold discussions on the European Union’s plan for tariffs on electric cars from China, the Chinese commerce ministry said late Saturday.\n中国商务部周六晚间表示，部长王文涛与欧盟贸易委员瓦尔迪斯·东布罗夫斯基斯商定，将就欧盟对华电动汽车征收关税启动磋商。\nHours earlier, Robert Habeck, Germany’s vice chancellor and economic minister, said that the European Union was willing to hold consultations, and he expressed a hope that tariffs could be avoided.\n在数小时前，德国副总理兼…",
-          "link": "https://cn.nytimes.com/business/20240624/china-germany-tariffs-trade/dual",
-          "publishedOn": "2024-06-24T01:06:01.000Z",
-          "wordCount": 1353,
-          "title": "中国欧盟将启动汽车关税磋商，避免贸易争端升级",
-          "imageUrl": "https://static01.nyt.com/images/2024/06/22/multimedia/22china-germany-ctzg/22china-germany-ctzg-articleLarge.jpg"
         }
       ]
     },
@@ -20472,26 +20792,6 @@
           "publishedOn": "2024-06-25T02:00:00.000Z",
           "wordCount": 327,
           "title": "罗贝尔·潘热：当文学仅剩语言和思考",
-          "imageUrl": null
-        },
-        {
-          "id": "77b297c66b9f02564856ec3d7331f52a",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+20%E4%B8%96%E7%BA%AA%E7%9A%84%E6%B3%95%E5%9B%BD%EF%BC%8C%E6%9C%89%E8%BF%99%E6%A0%B7%E4%B8%80%E4%B8%AA%E4%BB%A4%E4%BA%BA%E7%A5%9E%E5%BE%80%E7%9A%84%E5%93%B2%E5%AD%A6%E5%8E%86%E9%99%A9%E6%97%B6%E5%88%BB",
-          "publishedOn": "2024-06-24T02:01:00.000Z",
-          "wordCount": 335,
-          "title": "20世纪的法国，有这样一个令人神往的哲学历险时刻",
-          "imageUrl": null
-        },
-        {
-          "id": "ed2d3300708aa4942dccbacccb9fcf04",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E7%BA%B7%E4%B9%B1%E4%B8%8E%E5%86%B2%E7%AA%81%E7%9A%84%E8%A5%BF%E6%96%B9%E4%B8%96%E7%95%8C%EF%BC%8C%E4%BA%9F%E9%A1%BB%E6%89%BE%E5%9B%9E%E6%B8%85%E6%99%B0%E6%80%9D%E8%80%83%E7%9A%84%E8%89%BA%E6%9C%AF",
-          "publishedOn": "2024-06-24T02:01:00.000Z",
-          "wordCount": 321,
-          "title": "纷乱与冲突的西方世界，亟须找回清晰思考的艺术",
           "imageUrl": null
         }
       ]
