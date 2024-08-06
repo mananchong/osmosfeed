@@ -44,16 +44,6 @@
           "wordCount": 6015,
           "title": "R Weekly 2024-W28, webrcli & spidyr, compare slider widget",
           "imageUrl": "https://rweekly.org/public/facebook.png"
-        },
-        {
-          "id": "https://rweekly.org/2024-W28.html",
-          "author": null,
-          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Sam Parmar, with help from the R Weekly team members and contributors.\nHighlight\nDiving into R with Isabella Velasquez: Perspectives from R-Ladies Seattle\nFaster R code with Rust\nConditional LinkingTo in R: Innovations Supporting Shiny\nInsights\nConditional LinkingTo in R: Innovations Supporting Shiny\n\nIntroducing Positron: A New, Yet Familiar IDE for R and Python\n{nara} demos\nType safe(r) R code\nR in the Real World\nShiny in Production 2024: Workshops\nDiving into R with Isabella Velasquez: Perspectives from R-Ladies Seattle\n\nWinners of the 2024 Table Contest\n\nFaster R code with Rust\nReproducible reports and presentations with Quarto\nR in Organizations\nR Consortium’s Submissio…",
-          "link": "https://rweekly.org/2024-W28.html",
-          "publishedOn": "2024-07-08T00:00:00.000Z",
-          "wordCount": 6130,
-          "title": "R Weekly 2024-W28 R-Ladies Seattle, Faster R code with Rust, Conditional LinkingTo",
-          "imageUrl": "https://rweekly.org/public/facebook.png"
         }
       ]
     },
@@ -521,16 +511,6 @@
           "wordCount": 137,
           "title": "吴其尧评《济慈传》｜诗人济慈最后的日子",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_27932667?commTag=true",
-          "author": null,
-          "description": "潘静如（章静绘）\n\n1912年清帝退位，民国诞生，同时也产生了大量遗民。与之前历朝遗民不同，清遗民面临着道德和价值之源的干涸，经历着从“遗民”到“弃民”的角色转变，他们由此成为国家“脱节的部分”。中国社会科学院文学研究所副研究员潘静如最近出版的新书《末代士人的身份、角色与命运：清遗民文学研究》，从这一士人群体的文学书写入手，揭示他们在不同政治生态下的情感、体察与因应。在接受《上海书评》的专访时，他指出：相比忠清，清遗民对逝去的时间、变迁的人事有更多感喟；与其说他们“遗于清”，不如说他们“遗于同光”——一个定格了他们的生活和存在的同光。“同光”并不多么美好，因此这样的情感要从正、反两面看：正面看，是权势转移问题；反面看，则是由各种时事、生态所引发。\n\n《末代士人的身份、角色与命运：清遗民文学研究》，潘静如著，社会科学文献出版社·大有，2024年4月版\n\n您在书中没有对“清遗民”做出明确的定义，这是出于什么考虑？与宋遗民、明遗民相比，清遗民最大的不同是什么？\n潘静如：对，怎么定义“清遗民”，是我斟酌了很久的问题。虽然绪论中正面给出了属于本书讨论范围的三种情况，但那算不上明确定义。之所以如此，包含两个方面的考虑：第一是站在研究者角度，我不希望因为追求准确性而做过于约化、排他化的处理，这容易把真实生活中的复杂性抹掉。这是研究者的失责或失察。比如绪论中明确提及孙雄，“相比于论定他的遗民身份，我们更应该去呈现出他的‘遗民发生史’”，就是这种思考的一个体现。第二站在研究对象的角度，不明确定义也有它的合理性，甚至必然性。绪论中举及时人李详、胡先骕、黄维翰关于易代之际士大夫的分类，李详、黄维翰两人本身就是清遗民，可是连他们都或语焉不详，或说得支离琐碎。这就是说，关于清遗民，所谓确定性存不存在还是个问题。不仅清遗民本身如此，旁观者也是如此。我可以举一个书里没提到的例子。胡嗣瑗是一位清遗民，他在…",
-          "link": "https://www.thepaper.cn/newsDetail_forward_27932667?commTag=true",
-          "publishedOn": "2024-07-07T21:02:03.000Z",
-          "wordCount": 62,
-          "title": "潘静如谈清遗民的情感与精神史",
-          "imageUrl": null
         }
       ]
     },
@@ -539,6 +519,206 @@
       "feedUrl": "https://feedx.net/rss/thepaper.xml",
       "siteUrl": "http://thepaper.cn",
       "articles": [
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28320641",
+          "author": null,
+          "description": "中新网8月6日援引日本广播协会(NHK)报道，当地时间6日上午，日经指数开盘后全面上涨，一度上涨超过3200点，超过1990年10月的2677.54点，创下有史以来交易时间内的最大涨幅。\n\n图片来源：日本广播协会(NHK)报道截图\n\n据报道，因市场担忧美国经济放缓，日本股市在5日遭遇恐慌性下跌，创下有史以来最大跌幅。而在6日开盘后，市场出现回购走势。\n由于涨幅过大，大阪证券交易所从当地时间6日8时45分开始一度熔断了10分钟。而前一日，该交易所也因跌幅过大而紧急熔断。\n报道援引一位市场人士表示，“5日，美国公布的服务业企业信心经济指标超出市场预期，市场对美国经济未来的过度谨慎情绪有所缓解。在东京外汇市场上，日元兑美元正在走弱，回购与出口相关股票的动作正在加速。”\n另据券中社客户端消息，日本股市、韩国股市全线大反攻。日经225指数一度反弹超10%，而韩国KOSPI股指一度反弹超5%。在昨天大跌之后，这两国股市今天早上的反攻显得十分抢眼。而与此同时，美股盘后的期指亦大幅反弹。\n分析人士认为，强劲的反弹，一方面可能与相应国家的预期管理有一定关系。韩国表示，政府和韩国央行有足够的政策能力，将在市场过度波动的情况下采取措施，而外汇、货币市场表现出稳定趋势。日本内阁官房长官林芳正则表示，日本政府将继续观察市场动向，稳定经济财政运营。另一方面，市场单日杀跌过多，亦有反弹的需求。日元今天亦开始大幅走软。\n那么，问题是否得到了解决？从美联储的动作和言论来看，似乎并没有明显的变化。另外，今天早上亚太开盘之后，昨天跌幅相对较小的澳洲股市并未有强势表现。\n日韩大反攻\n早盘，日韩股市杀疯了。日经225指数一度大涨超10%，昨天该指数大跌12.4%收盘。而韩国股指大涨超5%，昨天亦跌幅较大。MSCI亚太指数上涨2%。\n那么，究竟发生了什么？\n首先，昨天晚上美国市场并未出现预期中的暴跌，虽然跌幅较大，但…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28320641",
+          "publishedOn": "2024-08-06T15:53:03.000Z",
+          "wordCount": 44,
+          "title": "日本股市创最大涨幅、盘中一度涨到“熔断”，发生了什么？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28322760",
+          "author": null,
+          "description": "北京时间8月6日，巴黎奥运会跳水项目的比赛继续进行。\n在当天上演的女子单人十米台决赛中，中国队毫无悬念地包揽金银牌，最终，全红婵摘金，陈芋汐获银牌。\n第一跳中，两位中国选手就开始建立了领先优势，陈芋汐第一跳获得82.5分，全红婵则收获完美一跳，六位裁判全部打出10分，第一跳全红婵得到90分；第二跳中，陈芋汐获得78.4分，全红婵得到84.8分。\n随后的三跳，中国的两位选手还是“没有对手”，大幅度拉开了领先优势，陈芋汐在第三跳获得89.1分，全红婵在第三跳略有瑕疵，得到76.8分，陈芋汐距离全红婵仅差1.6分。\n第四跳，陈芋汐得到89.1分，全红婵得到92.4分，陈芋汐暂时落后4.9分。最后一跳，陈芋汐获得81.6分，全红婵得到81.6分，最终全红婵获得金牌，陈芋汐得到银牌。\n\n全红婵与教练\n\n在此前已经结束的女子双人十米台决赛中，陈芋汐/全红婵搭档出场，以绝对优势夺得该项目金牌，延续了在该项目上的统治。\n进入单人项目，女子10米台也被认为是最没有悬念的比赛，唯一的悬念就是，究竟是哪位中国选手会站上最高领奖台。\n在上一届东京奥运会上，陈芋汐搭档张家齐夺得女双十米台冠军，全红婵则一鸣惊人夺得单人十米台金牌。进入巴黎奥运周期，两人联手在单双人项目中都实现了在国际赛场的统治。\n尤其是在单人项目的对抗中，两人屡屡上演“神仙打架”的精彩对决，屡屡与第三名拉开“断层式”的领先优势。\n\n陈芋汐与教练\n\n总体而言，全红婵在巴黎奥运会周期的大赛单人项目较量中并不占优势。\n2022年的世锦赛和世界杯，陈芋汐都在单人10米台摘得金牌。2023年世锦赛，陈芋汐再度在单人项目摘金，蝉联该项目世锦赛三连冠。\n不过在世界杯赛场，全红婵有所斩获。2023年，陈芋汐在世界杯西安站和超级总决赛夺冠，但在世界杯蒙特利尔站，全红婵力压队友夺得单人10米台冠军。\n而在今年2月的世锦赛上，全红婵成功在女单十米台摘金，终于加冕了奥运会、世锦赛、世界杯三大赛的单人项目大满贯。\n\n王璐瑶 设计\n\n随后，陈芋汐夺得2024年世界杯蒙特利尔站的单人十米台冠军，全红婵拿下世界杯柏林站单人项目冠军（陈芋汐本站未参加），4月份的世界杯总决赛上，陈芋汐力压全红婵在单人项目再夺一金。\n来到奥运会赛场，都具备高水平的两人谁能够胜出，很大程度上取决于临场的发挥和对于紧张心态的克服情况。\n最终两人也再次为观众贡献了一场精彩的表演。全红婵夺得金牌后，成功实现了奥运会女子单人十米台的卫冕，也为中国跳水队完成了在该项目的奥运5连冠。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28322760",
+          "publishedOn": "2024-08-06T15:53:03.000Z",
+          "wordCount": 57,
+          "title": "最稳的金牌没有之一！全红婵跳水女子10米台摘金，陈芋汐获银牌",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28323400",
+          "author": null,
+          "description": "在重庆旅游期间，江西上饶17岁的小齐（化名）在酒店遭砍伤，目前仍在医院救治。8月6日，小齐的母亲王女士告诉澎湃新闻（www.thepaper.cn），犯罪嫌疑人当场被控制。她从民警处获悉，嫌疑人疑存在精神问题，但仍需要鉴定确定。截至目前，嫌疑人家属没有联系过她。\n\n小齐双手、面部被砍伤。受访者供图\n\n针对此案，目前警方正在侦办中。\n王女士介绍，小齐今年12月份将满18岁。7月25日，小齐和小飞（化名）等两个同学结伴前往重庆旅游，三人一路乘坐火车，于7月26日上午到达重庆。\n“我在网上订了一个带沙发的标间，我们三人轮流睡沙发。”小飞介绍，他们住在重庆市九龙坡区某酒店1106房间，位于11楼。办理完入住后，三人前往洪崖洞、十八梯、李子坝等景点参观。小飞说，三人原计划乘坐7月31日上午11点的火车前往成都再玩几天，没想到在临走前遭遇人身危险。\n小飞回忆，7月31日凌晨1点多，他和另一个朋友躺在酒店房间床上，小齐躺在靠近门的沙发上，三人一起聊天。1点20分许，有人来敲房间的门，小齐起身去开门。“我就听见‘嘭’的一声，紧接着就听到了小齐的惨叫。”小飞说，他看到一个穿白色T恤、身材较高壮的年轻男子手持菜刀砍向小齐，小齐一边挡一边后退。\n小飞和另一个同学立即想办法报警，警察赶到后，嫌疑人被当场控制，小齐则被紧急送往医院救治。\n小飞称，他后来了解到，嫌疑人住在隔壁的隔壁。“警察给我做了笔录，但是到现在我还不知道为什么一个从来没有见到过的人，会二话不说，上来就砍人。”\n重庆长城骨科医院出具的《诊断证明书》显示，小齐存在刀砍伤：左手掌部血管神经肌腱损伤；左前臂血管神经肌腱损伤；左手中指血管神经肌腱损伤；左手背部皮肤挫裂伤；左手第五掌骨基底部骨折；右手拇、中、环、小指血管神经肌腱损伤；右手环指中节指骨基底部骨折；右手中指近节指骨远段撕脱骨折；右手中指、小指甲床损伤；右手食指皮肤挫裂伤；面部皮肤裂伤。\n王女士称，小齐已进行了手术，目前仍在医院接受进一步的治疗。他们已花费近10万元医药费，但后续的恢复、康健、祛疤等更是大头支出，“本来孩子即将上大学，前途一片美好，但现在手能不能恢复正常功能都不知道。行凶者的家人一个电话也没打过”。\n王女士告诉澎湃新闻，她从办案民警处获悉，犯罪嫌疑人是外地人，曾接受过精神治疗，但治疗到一半就没再继续治疗了。到案发之日时，嫌疑人已在涉事酒店住了一个月。民警表示，仍需要鉴定才能明确嫌疑人案发时的精神状态。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28323400",
+          "publishedOn": "2024-08-06T14:53:05.000Z",
+          "wordCount": 40,
+          "title": "准大学生旅游在酒店遭砍伤，同学：对方半夜敲门二话不说就砍",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28327149",
+          "author": null,
+          "description": "8月6日，隆平高科（000998）发布公告称，公司拟向中信集团下属中信农业科技股份有限公司（简称“中信农业”）发行A股股票，拟募集资金总额不超过12亿元。本次发行完成后，中信集团通过下属中信农业等子公司合计持有隆平高科的股权比例将由17.36%提升至25.93%。\n对于募资的用途，隆平高科表示，为助力公司优化资本结构，增强公司高质量研发投入、运营发展及产业整合的资金实力，进一步提升公司种业龙头地位。\n中信集团表示，自2016年入股后，公司致力于将隆平高科创建成世界一流种业集团，深入贯彻种业振兴行动部署，坚持长期投资，做耐心资本，从加强资本和技术投入、推动产业整合、完善公司治理等方面支持隆平高科高质量发展，打造服务“国之大者”的种业国家队。\n业绩方面，2023年隆平高科营业收入同比增长22.45%，达到92.23亿元，较2016年中信集团入股时的22.99亿元已翻两番。（澎湃新闻记者 田忠方）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28327149",
+          "publishedOn": "2024-08-06T14:23:03.000Z",
+          "wordCount": 36,
+          "title": "中信集团增资隆平高科，持股比例将从17.36%升至25.93%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28323824",
+          "author": null,
+          "description": "北京时间8月6日，巴黎奥运会乒乓球男团16强赛，中国队对阵印度，马龙迎来巴黎奥运会首秀。\n首场比赛，马龙搭档王楚钦，大比分3比0战胜印度男双组合，为国乒拿下第一分。三局比赛仅丢12分，具体局分：11比2、11比3、11比7。\n随后樊振东3比1战胜对手，为中国男队再拿一分，而王楚钦也以3比0战胜对手，中国乒乓球男队以总比分3比0战胜印度，晋级8强。\n36岁的马龙是伦敦、里约、东京、巴黎四朝奥运元老。马龙先后获得2012年的男团金牌、2016年的男团男单金牌、2021年的男团男单金牌。马龙是奥运会乒乓球历史上第一位双圈大满贯得主，也和邹凯、吴敏霞、陈若琳并列，成为奥运会五金获得者。\n作为巴黎奥运会中国代表团唯一的奥运五金王，如果本届奥运会中国男团夺冠，马龙将成为中国历史上获得奥运金牌最多的球员。\n\n本届奥运会，马龙担当中国体育代表团开幕式旗手。谈到这一身份，马龙表示：“作为旗手，我代表的不仅仅是我个人，更是中国乒乓球队这个集体。一代人有一代人的拼搏，一代人有一代人的长征。接过前辈们的接力棒，我们要努力继续在巴黎延续国乒荣耀，将中华体育精神传播出去，讲好中国乒乓、中国体育故事，在体育强国建设的伟大征程上，贡献国乒的智慧和力量！”",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28323824",
+          "publishedOn": "2024-08-06T13:53:05.000Z",
+          "wordCount": 43,
+          "title": "马龙迎巴黎奥运会首秀，中国乒乓男团3比0完胜印度晋级8强",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28315467",
+          "author": null,
+          "description": "“细推物理须行乐，何用浮名绊此身。”2023年，李政道曾将自己的藏书房作为展览，复刻进了上海图书馆东馆的7楼，彼时，这两句便是引领读者“穿梭”进书房的“门头”。如今，这两句出现在了纪念他的讣文中，作为他一生的写照。\n8月5日，上海交通大学方面发布讣告称，诺贝尔物理学奖获得者、美籍华裔物理学家、中国科学院外籍院士、中国高等科技中心终身主任、上海交通大学名誉教授、上海交通大学李政道研究所名誉所长李政道先生，于当地时间2024年8月4日凌晨2时33分，在美国旧金山家中去世，享年97周岁。\n在量子场论、基本粒子理论、核物理、统计力学、流体力学、天体物理等诸多领域，李政道不断攀登科学高峰，“功勋卓著”；在中国科技教育事业发展方面，李政道也作出诸多贡献，如促成中国科学技术大学“少年班”的建立，设立CUSPEA（中美联合招考物理研究生项目），建言设置博士后、国家自然科学基金等制度，设立中国高等科学技术中心，提议建立李政道研究所，推动中国基础研究聚焦根本性科学问题。\n李政道图书馆和李政道研究所坐落的上海交通大学，更是与李政道渊源颇深。“我挑选交大为我珍藏的科艺作品、一生累积的手稿及各类文稿的存储之地的重要因素，在您的亲自领导和积极推动下，李政道图书馆在交大成功建成……您对䇹政基金和李政道科艺基金等活动热心参与，使这些项目对交大乃至全国产生影响，惠及青年。在您的不懈协调和推动下，李政道研究所亦正式成立，深信在您的继续关注下，一定亦能如波尔研究所成世界一流水平，为国家培养人才做出贡献。”2017年，被李政道视为“忘年至交”的张杰，从上海交通大学调任中国科学院，李政道曾致信于他，高度概括了近年来自己与上海交大的故事。\n澎湃新闻（www.thepaper.cn）记者从上海交大了解到，事实上，1987年李政道受聘为上海交大名誉教授之前，他便与上海交大产生了深厚情谊，至今已四十余年。\n早在1978年，…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28315467",
+          "publishedOn": "2024-08-06T13:53:05.000Z",
+          "wordCount": 60,
+          "title": "李政道为何将手稿、艺术珍藏和故居捐赠给了上海交大？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28315438",
+          "author": null,
+          "description": "中国恒大\n\n8月5日，中国恒大集团(清盘中)（中国恒大，03333.HK）发布公告，于2024年3月22日，清盘人以公司名义在香港特别行政区高等法院（高等法院）针对3名被告展开法律诉讼，即许家印、公司前行政总裁夏海钧以及公司前首席财务官潘大荣。该诉讼逐步发展至加入其余4名被告，即许家印之配偶或前配偶丁玉梅以及3间与许家印及丁玉梅有关联的实体。\n在该诉讼中，公司寻求向7名被告收回（其中包括）公司根据其声称为误报的截至2017年12月31日至2020年12月31日止各财政年度的财务报表支付的股息及酬金共约60亿美元。\n与该诉讼有关的令状以及香港禁制令此前受高等法院发出的保密令约束，该等保密令已于2024年8月2日解除。\n中国恒大将继续停牌，直至另行通知。\n此外，当日早间，中国恒大新能源汽车集团有限公司（00708.HK）公告相关附属公司进入破产重整程序。\n公告称，相关地方人民法院于2024年8月2日就相关附属公司破产重整进行听证， 相关地方人民法院裁定相关附属公司进入破产重整程序。\n此前的7月28日，恒大汽车公告，该公司的附属公司恒大新能源汽车(广东)有限公司及恒大智能汽车(广东)有限公司于2024年7月26日收到相关地方人民法院下发的通知书。\n通知书显示，相关附属公司的个别债权人于2024年7月25日向相关地方人民法院申请对相关附属公司进行破产重整。通知书对本公司和相关附属公司的生产经营活动产生重大影响。\n财报显示，恒大汽车2023年产生亏损119.95亿元（2022年亏损276.64亿元），累计亏损及股东亏损分别为1108.41亿元（2022年亏损989.06亿元）及376.93亿元（2022年亏损686.51亿元）。该公司资产总额约为348.51亿元，负债总额约725.43亿元，其中借款264.84亿元，贸易及其他应付款430.12亿元，其他负债30.47亿元；同期，现金及现金等价物约1.28亿元。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28315438",
+          "publishedOn": "2024-08-06T13:53:05.000Z",
+          "wordCount": 45,
+          "title": "中国恒大：寻求向许家印、丁玉梅等7名被告收回股息及酬金共约60亿美元",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28327137",
+          "author": null,
+          "description": "美股三大指数小幅高开，道指涨0.1%，纳指涨0.4%，标普500指数涨0.35%。英伟达涨超3%，台积电涨近2%，百胜中国涨逾8%。\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.run",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28327137",
+          "publishedOn": "2024-08-06T13:53:05.000Z",
+          "wordCount": 32,
+          "title": "美股三大指数小幅高开，英伟达涨超3%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28326577",
+          "author": null,
+          "description": "近日，黎以边境冲突持续升级，黎巴嫩首都贝鲁特发生空袭事件，造成大量人员伤亡。当前黎巴嫩安全形势严峻复杂。\n外交部和中国驻黎巴嫩使馆提醒中国公民密切关注当地局势发展，近期谨慎前往黎巴嫩，提醒在黎中国公民和机构保持高度警惕，加强安全防范和应急准备。如遇紧急情况，请及时报警并与中国驻黎巴嫩使馆联系寻求协助。\n鉴于当前特殊情况，如中国公民在谨慎前往提醒发布后仍坚持前往，有可能面临较高安全风险，并可能影响其获得协助的实效。（央视新闻）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28326577",
+          "publishedOn": "2024-08-06T13:23:04.000Z",
+          "wordCount": 33,
+          "title": "外交部提醒中国公民近期谨慎前往黎巴嫩",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28326612",
+          "author": null,
+          "description": "据美国媒体6日报道，已锁定民主党总统候选人提名的美国副总统哈里斯选择明尼苏达州州长沃尔兹为其竞选搭档。（新华社）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28326612",
+          "publishedOn": "2024-08-06T13:23:04.000Z",
+          "wordCount": 32,
+          "title": "美国民主党总统竞选人哈里斯选出竞选搭档",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28322607",
+          "author": null,
+          "description": "诺贝尔物理学奖获得者、美籍华裔物理学家李政道，于当地时间2024年8月4日，在美国旧金山家中逝世，享年97周岁。\n澎湃新闻记者从李政道先生代表、中国高等科学技术中心学术委员会副主任、研究员王垂林等多位李政道教授友人方面了解到，李政道先生生前遗愿是安葬于家乡苏州。\n李政道先生的夫人秦惠䇹女士1996年11月去世，后葬于苏州吴中区东山镇华侨公墓万隆墓区。秦惠䇹墓碑前的祭台上题有李政道悼念夫人的诗句：“竹神萧萧问秋风，君影茫茫去何处”。 \n8月6日，澎湃新闻记者从苏州市民政部门确认，李政道、秦惠䇹夫妇的墓地此前已选定在东山镇华侨公墓万隆墓区，秦惠䇹女士已葬于此处多年。\n另据广州日报报道，李政道先生的儿子、香港科技大学人文及社会科学学部讲座教授李中清表示，母亲（秦惠䇹）安葬在苏州，所以父亲的遗愿是与母亲合葬于苏州。今年11月，他将和家人带着父亲的骨灰回到苏州，举行安葬仪式。父亲生前还表示，希望子女们继续为推动中国科技事业的发展作出贡献。\n江苏省地方志编纂委员会办公室方面介绍，李政道，1926年生于中国上海，原籍江苏苏州。“我不知道天堂是什么样子，如果天堂有苏州十分之一的美丽，那就很好了”——这是美籍华裔诺贝尔物理学奖获得者李政道在一次重游苏州时发出的感叹。对于海外游子来说，最思念的莫过于祖祖辈辈生活过的那片土地。苏州不仅是李政道祖辈的故乡，也是他曾经读书成长的地方。\n李政道1946年离开祖国，在阔别家乡26年后，于1972年第一次回国，受到了国家领导人的亲切接见。这次回国，让李政道的人生除了物理之外，又多了一项任务，就是为国家培养更多的科技人才。他每年把三分之一的工作时间用来帮助中国发展教育和培养人才，他倡导的中美联合培养物理类研究生项目（CUSPEA），为中国培养了不少高水平的物理人才。\n此外，李政道不忘关心家乡苏州的教育。除了担任苏州大学名誉教授，李政道于1985年在家乡苏州设立李政道奖学金，初衷是加快教育普及，多出人才、快出人才。奖学金分三等，分别奖给苏州市获得全国高考成绩第一、二、三名的应届高中毕业生，理工科和文科各前3名。2015年，随着苏州教育事业的发展，李政道奖学金完成了最初的使命，于2015年终止。30年来，苏州共有29所中学的202名学生获此殊荣。\n20世纪80年代改革开放后，李政道至少七次回母校苏州大学访问讲学和指导工作。\n1986年国庆节，李政道携夫人秦惠䇹女士应邀回校参观访问，与学校领导及部分校友座谈。在参观激光研究室时，李政道为母校的科研水平提高而高兴，欣然挥毫题词：“激光生彩，苏州增色”。次年5月，李政道回校接受苏州大学授予的名誉教授称号。\n1996年11月，与李政道恩爱一生的秦惠䇹女士逝世。为了纪念夫人，李政道根据夫人“希望中国大学生，特别是女大学生，能够利用假期跨学科地熟悉科学研究，多接触科学家，增进对科学研究和科学家的了解”的遗愿，召开家庭会议，宣布用全部存款设立“秦惠䇹与李政道中国大学生见习进修基金”。\n1998年1月，李政道和家人用私人积蓄设立了“秦惠䇹与李政道中国大学生见习进修基金”（“䇹政基金”），北京大学、复旦大学、兰州大学、苏州大学为第一批试点学校，开辟了本科生暑期进行跨学科科学研究的新途径。遵照秦惠䇹女士遗愿，“䇹政学者”应不少于一半为女性。随后，台湾新竹清华大学（2000年）和上海交通大学（2013年）加盟该基金项目。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28322607",
+          "publishedOn": "2024-08-06T12:53:02.000Z",
+          "wordCount": 42,
+          "title": "亲友称李政道骨灰将葬于故乡苏州，夫人已于多年前安葬在东山墓园",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28322707",
+          "author": null,
+          "description": "8月5日，有官方人士向澎湃新闻证实，近日被举报“让患病孩子妈妈陪睡才拨捐款”的中华少年儿童慈善救助基金会（下称中华儿慈会）9958项目区域负责人雷某，数月前已因涉嫌职务犯罪被相关部门带走调查，目前案件已转至检察机关。对于网上举报内容是否属实、是道德问题还是刑事犯罪等问题，相关部门正在进一步核查中。\n另据媒体报道，河南省民政厅慈善事业促进处工作人员表示，民政部门非常重视网友反映的关于雷某的情况，正在进一步核查。\n雷某曾为南阳市志愿者联合会副会长，现为南阳市卧龙区志愿者协会法定代表人。澎湃新闻注意到，河南省慈善总会公布的理事名单中，已没有雷某。对此，河南省慈善总会有关人士告诉澎湃新闻，雷某曾为该会常务理事，但因长期不积极履行职责，数月前已被依照章程规定免职。“（当时）已经好久和他联系不上了。”该有关人士表示。\n近日，有人在网上爆料称，雷某让患病孩子妈妈“陪他睡一次，给一点捐款；再睡一次，再给点捐款”，引起社会关注。\n8月5日中午，前述官方人士告诉澎湃新闻，雷某户籍地为河南南阳，这些年主要在北京、郑州活动。数月前，雷某已因涉嫌职务犯罪接受有关部门调查。目前，案件已被移交至检察机关。近日，雷某家属已经委托律师会见雷某。\n长期关注儿慈会的多名公益人士告诉澎湃新闻，去年，儿慈会柯某孝骗捐一事案发，儿慈会原副秘书长王某被抓。而雷某和王某关系密切，其也因涉嫌职务犯罪被抓。\n民政部2024年6月11日曾通报，经查，2023年6月至8月，柯某孝私自以“儿慈会9958项目”的名义向患儿家长筹集资金，骗取患儿家长钱款近千万元。2023年9月，因涉嫌诈骗，柯某孝被采取强制措施，目前案件已移送司法机关处理。儿慈会副秘书长、9958项目负责人王某涉嫌职务犯罪，经有关监察机关立案调查已移送司法机关处理。\n8月6日，在举报雷某的公益人士郑女士向澎湃新闻表示，她也是9958项目创始人之一，雷某有多个手机号和微信。郑女士提供的微信聊天截图显示，2024年7月底，她的一位朋友还通过雷某常用的一个手机号添加上对方微信，通过了之后，对方自称是“雷某媳妇”，还表示雷某（现在）没办法联系人，需要帮助。郑女士认为，雷某前述常用手机号和微信未被有关部门掌握，他们希望向有关部门递交这些证据以及雷某涉嫌要求患病孩子妈妈陪睡的证据。\n郑女士说，2020年，自己曾就一位刘女士“被雷某要求陪睡”一事向警方举报，不过，警察调查时这位刘女士后来改口说是自愿的，出于情感。据红星新闻报道，一位当时经手此事的民警表示，因当事人说是自愿的，证据也不充分，因此无法立案。\n郑女士告诉澎湃新闻，网上反映被雷某要求“陪睡”的短信记录，是一位网友今年6月通过微博私信给她的，其怀疑该网友即受害者，自己一直在做对方工作，也曾把警方联系方式发给对方，不过，对方表示，在做当事人的工作，没有正面回应是否会直接举报。\n郑女士介绍，儿慈会有很多项目，9958项目获得的资源较多。按照规定，儿慈会不得设立地方分支机构。雷某最早负责9958项目河南地区，称为“河南负责人”，后其成为华中（河南、湖北等省）负责人。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28322707",
+          "publishedOn": "2024-08-06T12:53:02.000Z",
+          "wordCount": 39,
+          "title": "被举报的儿慈会河南负责人此前涉罪被抓，河南慈善总会理事职务已被免",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28326031",
+          "author": null,
+          "description": "江苏省人民政府近日发布《省政府关于成立江苏省数据集团有限公司的通知》称，决定成立江苏省数据集团有限公司（以下简称：江苏省数据集团），旨在推动数据要素市场化配置改革，发挥数据的基础资源作用和创新引擎作用，做强做优做大数据产业。江苏省数据集团在整合江苏省属企业相关资产的基础上组建，注册资本30亿元。其中，省财政出资5亿元，占16.7%；省属企业出资25亿元，占83.3%。（证券时报）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28326031",
+          "publishedOn": "2024-08-06T12:53:02.000Z",
+          "wordCount": 32,
+          "title": "注册资本30亿元，江苏省数据集团成立",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28326057",
+          "author": null,
+          "description": "巴黎当地时间8月6日，巴黎奥运会滑板女子碗池预赛在协和广场进行。中国选手郑好好在3轮滑行中最终获得63.19分，未能跻身前8无缘决赛。小孩姐已经很棒啦！\n\n11岁360天的郑好好是本届奥运会所有代表团中年龄最小的运动员。（综合@人民日报体育、@北青体育）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28326057",
+          "publishedOn": "2024-08-06T12:53:02.000Z",
+          "wordCount": 38,
+          "title": "已经很棒了！11岁滑板小将郑好好未能取得前8，无缘决赛",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28323840",
+          "author": null,
+          "description": "8月6日，巴黎奥运会依然如火如荼，进行到了第11个比赛日。中国体育代表团也在中国之家举行发布会，介绍评价了代表团在前期参赛的整体情况，同时也对中国运动员展现的运动精神给予了肯定。\n\n奥运会竞争异常激烈，运动员都承受着巨大的压力，失误率往往高于其他比赛，胜负输赢都很正常。国家体育总局副局长周进强以体操为例，“昨天进行的女子平衡木、男子单杠决赛中，能够进入决赛的运动员都是世界顶级选手，都经历了长期、刻苦训练，但很大一部分运动员出现了不同程度的扶木、掉杠或其他失误。因此，我也呼吁，对在奥运会比赛中出现失误或未能达到预期成绩的运动员，给予善意的理解和包容。”\n\n周进强强调，取得运动成绩和精神文明双丰收是中国体育代表团的参赛目标。“今天我想重点谈谈自己对运动员在赛场上表现出的爱国主义精神、顽强拼搏精神的感受，这也是中华体育精神中最为核心的两个方面。为国争光是中国体育最鲜明的底色和最执着的追求。”\n巴黎奥运会比赛期间，运动员时时处处、点点滴滴中，都自然流露出、表达着对祖国的热爱。无论是运动员们获得奖牌后展示国旗的自信自豪，还是对国旗不能签名、必须轻轻摆放的自然反应，抑或是“国家荣誉永远超过个人”“为了我的祖国，我还能再战三个小时”等言语表达，以及每次升国旗、奏国歌时赛场响起的高亢国歌声，“这些既集中展示了中国体育健儿长期养成的爱国情怀，更是一次又一次生动的爱国主义教育。”\n\n此外，中国代表团认为，巴黎奥运会期间，中国体育健儿充分展示了中国青年一代顽强拼搏的精神风貌。比如，张博恒在团体预赛、决赛以及个人全能比赛中，连续参加了18个单项的比赛，全网为之心疼。张雨霏在女子200米蝶泳决赛前发烧，还能咬牙坚持完成比赛，并夺得女子200米蝶泳的铜牌。还有一些项目，虽然竞技水平与外国选手还有差距，成绩也不是很突出。“但我们的运动员不怕苦、不怕累，与对手比，与自己比，全力争取更好成绩，默默无闻完成比赛，他们的顽强拼搏的精神同样值得赞颂。”周进强表示。\n中国体育代表团共716人，42支参赛队伍，是大兵团作战。周进强透露，比赛期间，代表团紧紧盯住运动员参赛这个核心工作，做好管理和服务，对重点项目、关键场次，及时召开领队会，解决难点问题，进行思想动员；还通过小范围、一对一谈心谈话等方式，解决思想困惑，为运动队参赛提供坚实的支持和保障。\n竞技体育是硬实力的竞争，也是意志品质和理想信念的考验。周进强举例，比赛前，团领导与竞走队全体人员谈心，全面分析参赛形势，研究布置战术，坚定运动员、教练员的夺金信心和必胜信念。比赛过程中，运动员锚定金牌目标不动摇，稳定发挥，时隔8年再次夺回女子竞走这枚奥运会金牌。\n\n女排是中国体育的一面旗帜，团领导分别与队伍主教练、领队谈心谈话，一起研究参赛方案，分析对阵形势，鼓舞士气，提振信心。比赛期间，中国女排团结一心、众志成城、全力争胜，目前小组赛三战全胜闯进八强，在奥运赛场上再次展现了“祖国至上、团结协作、顽强拼搏、永不言败”的女排精神。\n 奥运会不仅是全球运动员实现梦想的最大舞台，也是增进各国各地区人文交流的重要平台。周进强表示，赛场上，中国运动员与其他国家/地区运动员亲切互动，留下了一段段佳话；羽毛球运动员何冰娇在颁奖时拿着西班牙奥委会的徽章，以示对马林退赛的惋惜和不舍，获得外媒的赞誉。赛场外，我们设立了巴黎奥运会“中国之家”。国际奥委会主席巴赫、国际单项体育联合会领导人和各国家/地区体育界人士纷纷到访。\n\n巴黎奥运会比赛还剩6天，中国体育代表团还将参加90个小项的比赛，将继续在跳水、举重、乒乓球、田径、花样游泳、皮划艇静水、场地自行车、拳击、跆拳道、摔跤、攀岩、霹雳舞等项目上争夺奖牌。周进强说：“后面的比赛充满竞争，也充满挑战，我们将不断总结经验，全力做好指挥管理和服务保障，保持昂扬斗志和必胜信念，全力夺取运动成绩和精神文明双丰收，向全国人民交上一份合格的答卷。”\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.run",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28323840",
+          "publishedOn": "2024-08-06T12:53:02.000Z",
+          "wordCount": 68,
+          "title": "呼吁包容失误运动员，中国代表团：后半程将交上合格答卷",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28323859",
+          "author": null,
+          "description": "巴黎奥运会中国代表团。视觉中国 图\n\n巴黎奥运会激战正酣，中国代表团运动健儿在奋勇争先，给无数体育爱好者在炎炎夏日带来了精神上的鼓励，朝着目标勇敢坚定地走下去。\n澎湃新闻记者注意到，从7月27日开始，人民日报在“第三十三届夏季奥运会特别报道”专版中列出了“奥林匹克与我”专题，经人民日报记者采访整理后，由多位体坛名将署名发表相关文章。\n从7月27日开始，到8月6日，发表了署名文章的体坛名将已有10位，包括：中国乒乓球队运动员马龙，中国网球队运动员张之臻，东京奥运会男子4×100米接力季军、男子100米亚洲纪录保持者苏炳添，伦敦奥运会男子花剑个人冠军、巴黎奥运会中国女子花剑队教练雷声，巴黎奥运会中国射击队教练姚烨，伦敦奥运会帆船激光雷迪尔级金牌获得者徐莉佳，中国体操队运动员肖若腾，中国攀岩队速度组主教练钟齐鑫，中国网球队运动员郑钦文。\n此外，8月2日在该栏目署名发文的是巴黎奥运村志愿者林海禄。\n最新一篇文章的作者是中国网球队运动员郑钦文，她刚刚在巴黎奥运会上拿下网球女子单打项目冠军。文章字里行间依然可以看出她在夺冠后的兴奋。\n郑钦文写道：决赛中，我克服了紧张情绪，表现得比以往都要沉稳和专注。其实，拿到赛点时我能感觉到自己的手在颤抖，但我的注意力非常集中，只想着如何打好下一个球。当我赢下比赛的那一刻，我战胜了压力，也超越了自己。\n拿到金牌后，郑钦文写下了这么一段感性的话：我一直很羡慕那些可以创造历史的人，如今我也成为其中一员。当金牌挂上我的脖颈，我才发现它有那么重，这让我感受到沉甸甸的责任。我希望通过自己的努力让更多人了解网球，让更多孩子拿起球拍。其实不管选择什么运动，都要学会热爱和享受，朝着目标勇敢坚定地走下去。远大的梦想，唯有坚持才能抵达。\n栏目的开篇，请到的是第四次参加奥运会的乒乓传奇，也是开幕式中国体育代表团旗手之一马龙。\n马龙表示，走下领奖台，一切从零开始。这就要求我们…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28323859",
+          "publishedOn": "2024-08-06T12:53:02.000Z",
+          "wordCount": 46,
+          "title": "10位体坛名将在《人民日报》撰文：梦想唯有坚持才能抵达",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28325166",
+          "author": null,
+          "description": "（△澎湃新闻记者根据《财富》世界500强排行榜制图）\n受益于中国互联网行业的回暖，《财富》世界500强的互联网领域大公司整体上升。\n8月5日，《财富》杂志发布了最新的《财富》世界500强排行榜。榜单显示，中国今年共有133家公司上榜，比去年的142家减少9家，其中128家来自中国大陆（包括香港）地区，比去年减少7家。\n细分到互联网领域，榜单显示，五家互联网巨头中，除了阿里巴巴（NYSE:BABA，09988.HK）下滑2位之外，京东（Nasdaq：JD，09618.HK）、腾讯（00700.HK）和美团（03690.HK）的排位均有提升，同时拼多多（Nasdaq：PDD）首次上榜，美团成为榜单中排名提升最多的中国公司，排名跃升83名，位居第384位。排在第47名的京东集团更是再次进入前50名，取代中国平安成为中国大陆最大的民营公司。（澎湃新闻记者 吴雨欣）\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.run",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28325166",
+          "publishedOn": "2024-08-06T12:23:05.000Z",
+          "wordCount": 41,
+          "title": "财富世界500强中国互联网企业排名整体上升：京东营收最高，腾讯最赚钱",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28325169",
+          "author": null,
+          "description": "8月6日，曾走出“11连板”的腾达科技股价出现巨震，盘中上演“地天板”后，又上演“天地板”。截至收盘，公司股价报32.44元/股，跌幅为9.99%。\n对于股价巨震，腾达科技证券部工作人员回应记者：“公司一直正常生产经营。信息披露范围内的内容，公司都公布了。”\n对于股价大涨，上述工作人员表示，有报道说是因为和商业航天有关，但公司没有直接对接的商业航天客户。（中国证券报·中证金牛座）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28325169",
+          "publishedOn": "2024-08-06T12:23:05.000Z",
+          "wordCount": 33,
+          "title": "“11连板”后走出“地天地”行情，腾达科技回应：公司一直正常生产经营",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28323764",
+          "author": null,
+          "description": "北京时间8月6日，中国女排迎来了奥运会淘汰赛的残酷竞争。\n面对世界排名比自己高出一位的土耳其女排，中国女排经历了一场苦战，最终2比3不敌土耳其。\n第一局，双方一开始就紧咬比分，一直到17比17，随后中国队打出一波小高潮连得3分，土耳其不得不喊出暂停，尽管土耳其一度将比分追至23比24，但随后土耳其发球失误，中国女排以25比23赢得第一局。\n第二局比赛，土耳其一上来就开始冲击中国队，以4比1领先，蔡斌随即喊出暂停，暂停后中国队状态有所回升，但比分仍未迫近，5比10落后时中国再次喊出暂停，末局阶段，中国女排曾以16比22落后，但中国女排没有放弃连得5分，将比分迫近至21比22，可惜土耳其连得3分，21比25中国女排第二局告负。\n\n王璐瑶 设计\n\n第三局上来，中国队又以1比4落后，中国队又喊出暂停，暂停过后中国队连得3分，将比分追至4比4，不过随后又被对手拉开，6比11落后时中国队再次喊出暂停，局末阶段中国队曾将比分追至24比24，但随后土耳其连得2分又赢下一局。\n第四局比赛，背水一战的中国女排顶住压力，上来就奠定优势以13比4取得巨大领先，尽管土耳其曾一度连得6分，但中国队顶住了对手的反扑，以25比21赢下第四局将总比分扳成2比2，双方进入决胜局的争夺。\n决胜局中，中国女排12比15输掉了决胜局，总比分2比3负于土耳其无缘四强。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28323764",
+          "publishedOn": "2024-08-06T11:53:05.000Z",
+          "wordCount": 53,
+          "title": "中国女排经历苦战2比3不敌土耳其，无缘四强",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28315619",
+          "author": null,
+          "description": "当地时间2024年8月4日凌晨2时33分，李政道先生在美国旧金山家中去世，享年97周岁。\n\n上海交通大学官网\n\n\n上海交大李政道研究所官网\n\n\n上海交大李政道数字资源中心网站\n\n8月5日夜间，澎湃新闻记者搜索发现，上海交通大学官方网站、李政道研究所官方网站、李政道数字资源中心等多个网页呈现黑白页面。与此同时，李政道研究所TDLI、李政道图书馆等多个微信公众平台，头像也换成了黑白色。\n此外，北京大学官网首页也设置板块深切缅怀。\n\n北京大学官网\n\n2024年8月5日，上海交通大学李政道研究所、上海交通大学李政道图书馆、中国高等科学技术中心发布讣告：享誉全球的科学家、诺贝尔物理学奖获得者、美籍华裔物理学家、中国科学院外籍院士、第三世界科学院院士、美国国家科学院院士、美国艺术和科学院院士、意大利国家科学院院士、中国高等科学技术中心终身主任、上海交通大学名誉教授、上海交通大学李政道研究所名誉所长李政道先生，于当地时间2024年8月4日凌晨2时33分，在美国旧金山家中去世，享年97周岁。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28315619",
+          "publishedOn": "2024-08-06T11:53:05.000Z",
+          "wordCount": 56,
+          "title": "李政道逝世，上海交大及李政道研究所官网已呈黑白页面",
+          "imageUrl": null
+        },
         {
           "id": "https://www.thepaper.cn/newsDetail_forward_28322698",
           "author": null,
@@ -11938,16 +12118,6 @@
           "wordCount": 37,
           "title": "华容洞庭湖大堤决堤后的“第二道防线”现多处管涌，正在处置",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_27997127",
-          "author": null,
-          "description": "7月7日，网传消息称，懂车帝在北京举办了一场改装车大会，并遭遇执法部门查处被“一锅端”。针对网络传言，懂车帝于7日晚在社交平台上发表声明称，该活动系主办方自行组织的车友聚会活动，与懂车帝无关。北京市交管局海淀交通支队中关村大队工作人员7日晚向记者表示，“车现在（被）交通队暂扣”，对于活动的具体细节及其他相关信息，该工作人员则表示不太清楚。8日上午，活动举办方之一的汽车文化自媒体“iAcro”相关负责人向新黄河记者透露，“商城举办活动，邀请我们去停车，我们就去了，没人被扣，都回家了，车现在都是放在车管所了，大概40多台。”（新黄河）",
-          "link": "https://www.thepaper.cn/newsDetail_forward_27997127",
-          "publishedOn": "2024-07-08T04:23:02.000Z",
-          "wordCount": 35,
-          "title": "改装车地下车库“偷偷狂欢”变“一锅端”？交管部门回应",
-          "imageUrl": null
         }
       ]
     },
@@ -11956,6 +12126,56 @@
       "feedUrl": "https://www.nationalreview.com/feed/",
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
+        {
+          "id": "https://www.nationalreview.com/?p=1678568",
+          "author": "Alexander William Salter",
+          "description": "It is quintessentially American to proclaim God’s dominion over the public square.",
+          "link": "https://www.nationalreview.com/2024/08/public-christianity-is-as-american-as-apple-pie/",
+          "publishedOn": "2024-08-06T10:30:50.000Z",
+          "wordCount": 9465,
+          "title": "Public Christianity Is as American as Apple Pie",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/02/Cross-and-Flag.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1679452",
+          "author": "Kerry Jackson",
+          "description": "Independent contractors anxiously await how a President Harris might hurt worker freedom.",
+          "link": "https://www.nationalreview.com/2024/08/kamala-harris-is-bad-news-for-gig-workers/",
+          "publishedOn": "2024-08-06T10:30:28.000Z",
+          "wordCount": 13143,
+          "title": "Kamala Harris Is Bad News for Gig Workers",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2020/12/uber-drive-new-york-city.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1679412",
+          "author": "Kayla Bartsch",
+          "description": "Masoud Pezeshkian is merely a polished front man for a bloody, theocratic regime incapable of reforming itself.",
+          "link": "https://www.nationalreview.com/2024/08/irans-new-president-is-no-liberal/",
+          "publishedOn": "2024-08-06T10:30:27.000Z",
+          "wordCount": 13963,
+          "title": "Iran’s New President Is No Liberal",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/08/masoud-pezeshkian-iran.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1679237",
+          "author": "Colin Grabow",
+          "description": "Although Peter Goodman’s new book raises some valid concerns, none of them sufficiently compensate for the book’s shortcomings.",
+          "link": "https://www.nationalreview.com/2024/08/how-the-world-ran-out-of-everything-paints-an-incomplete-picture-of-pandemic-era-supply-chain-woes/",
+          "publishedOn": "2024-08-06T10:30:23.000Z",
+          "wordCount": 10362,
+          "title": "<em>How the World Ran Out of Everything</em> Paints an Incomplete Picture of Pandemic-Era Supply-Chain Woes",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2021/10/truck-containers-port-long-beach.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1679526",
+          "author": "The Editors",
+          "description": "There is nothing to justify a rate cut.",
+          "link": "https://www.nationalreview.com/2024/08/market-crash-shouldnt-create-policy-panic/",
+          "publishedOn": "2024-08-06T10:30:09.000Z",
+          "wordCount": 9062,
+          "title": "Market Crash Shouldn’t Create Policy Panic",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/08/new-york-stock-exchange-080524.jpg?fit=2057%2C1200&ssl=1"
+        },
         {
           "id": "https://www.nationalreview.com/?p=1679418",
           "author": "Andrew Stuttaford",
@@ -14554,6 +14774,36 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/91204",
+          "author": "waychane",
+          "description": "BeatsPill+是Apple在2014年以30亿美元收购Beats之后，于次年推出的第一款产品。而在2022年，Apple将BeatsPill+从品牌官网下线，也代表着这款产品长达8年的生命周期正 ...查看全文",
+          "link": "https://sspai.com/post/91204",
+          "publishedOn": "2024-08-06T14:00:00.000Z",
+          "wordCount": 947,
+          "title": "功能加量还「减价」：全新 Beats Pill 首发体验",
+          "imageUrl": "https://cdnfile.sspai.com/8/6/2024/article/04aa121b-acd0-d07d-bb01-883ad779f649.png"
+        },
+        {
+          "id": "https://sspai.com/prime/story/inside-release-notes-240806",
+          "author": "少数派编辑部",
+          "description": "如果说三家浏览器在七月的动态共同说明了什么，那就是保护隐私这种事情不能也不应该指望厂商的效率和良心。查看全文\n本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
+          "link": "https://sspai.com/prime/story/inside-release-notes-240806",
+          "publishedOn": "2024-08-06T08:47:51.000Z",
+          "wordCount": 1001,
+          "title": "具透 Plus | 三大浏览器争相介绍隐私保护「好」消息",
+          "imageUrl": "https://cdnfile.sspai.com/8/6/2024/article/9ba30379-9652-7d58-0886-e7beb7c3ef46.jpeg"
+        },
+        {
+          "id": "https://sspai.com/post/91207",
+          "author": "Matrix机器人",
+          "description": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。🔥一周热评来 ...查看全文",
+          "link": "https://sspai.com/post/91207",
+          "publishedOn": "2024-08-06T08:46:41.000Z",
+          "wordCount": 1018,
+          "title": "社区速递 056 | 你没见过的社区文章、一周最热评、派友给学子的购机建议",
+          "imageUrl": "https://cdnfile.sspai.com/6/8/2024/article/a3999b5d-7492-95c8-bd31-a20f3b074367.png"
+        },
+        {
           "id": "https://sspai.com/post/91091",
           "author": "YellowColr",
           "description": "论起优雅，新模具 MacBook Pro 显然是比不上前代由 Jony Ive 亲自操刀的 Touch Bar 模具 MacBook Pro 的；但新的设计看起来更为稳重，更能凸显出这款产品的 Pro 属性。查看全文",
@@ -15562,26 +15812,6 @@
           "wordCount": 1155,
           "title": "放烟火的人生而平等：AI 应用从概念到落地需要克服哪些问题",
           "imageUrl": "https://cdnfile.sspai.com/editor/u_chivier/17201448178135.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/90265",
-          "author": "老木曾雪菜",
-          "description": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
-          "link": "https://sspai.com/post/90265",
-          "publishedOn": "2024-07-08T03:51:45.000Z",
-          "wordCount": 781,
-          "title": "花点心思，「平价」也能拥有皮实的隐形车衣",
-          "imageUrl": "https://cdnfile.sspai.com/2024/07/07/02c64e88939d7380aa80e8e3b2c9ba39.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/90275",
-          "author": "少数派编辑部",
-          "description": "你可能错过的新鲜事苹果批准Epic在欧盟区开设第三方应用商店据路透社报道，7月5日，苹果宣布已经批准Epic根据其欧盟特殊政策开设iOS上的第三方应用商店。此前不久，Epic公开批评苹果两次无端拒绝其 ...查看全文",
-          "link": "https://sspai.com/post/90275",
-          "publishedOn": "2024-07-08T00:59:38.000Z",
-          "wordCount": 837,
-          "title": "派早报：苹果批准 Epic 在欧盟区开设第三方应用商店",
-          "imageUrl": "https://cdnfile.sspai.com/7/8/2024/article/b5b35efc-59db-96dc-5ab5-6a11c3c9a426.png"
         }
       ]
     },
@@ -15590,6 +15820,118 @@
       "feedUrl": "https://plink.anyfeeder.com/idaily/today",
       "siteUrl": "https://idai.ly",
       "articles": [
+        {
+          "id": "idaily-212087",
+          "author": "美国 · 佛罗里达州",
+          "description": "2024年第4号大西洋飓风「黛比」（Debby）逼近美国佛罗里达州海岸。8月5日，一级飓风「黛比」在佛罗里达州沿海登陆，最大持续风速达每小时129公里，造成至少5人死亡，近20万户家庭断电，超过1600个航班被取消。美国东南海岸佛罗里达州、佐治亚州和南卡罗来纳州均宣布进入联邦紧急状态。目前「黛比」已减弱为热带风暴并向北方移动，预计8月8日在南卡罗来纳州沿海再次登陆。摄影师：NOAA",
+          "link": "https://m.idai.ly/se/215X5N",
+          "publishedOn": "2024-08-06T10:59:00.000Z",
+          "wordCount": 264,
+          "title": "飓风侵袭美国佛州 - August 6, 2024",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/ecc65227/538e472a.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/ecc65227/538e472a.jpg"
+        },
+        {
+          "id": "idaily-212086",
+          "author": "孟加拉国 · 达卡",
+          "description": "孟加拉国反政府抗议者占领总理官邸，达卡。8月5日，孟加拉国陆军参谋长宣布现任总理 Sheikh Hasina 已于当天辞职，军方将尽快成立临时政府接管国家。孟加拉国公务员配额制度引发的暴力骚乱已持续1个月，累计造成至少300人死亡，超过1.1万人被逮捕拘留，成为该国1971年独立以来伤亡最严重的一场暴乱运动。孟加拉国总理 Sheikh Hasina 辞职后临时逃亡至印度，她在1996年首次担任孟加拉国总理，2009年再次当选后连任4次，是该国迄今执政最久的领导人。摄影师：KM Asad",
+          "link": "https://m.idai.ly/se/32ev3U",
+          "publishedOn": "2024-08-06T09:58:00.000Z",
+          "wordCount": 264,
+          "title": "孟加拉国总理被迫辞职 - August 6, 2024",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/a69b380c/122759bd.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/a69b380c/122759bd.jpg"
+        },
+        {
+          "id": "idaily-212082",
+          "author": "伊朗 · 德黑兰",
+          "description": "伊朗总统 Masoud Pezeshkian 与俄罗斯联邦安全会议秘书 Sergei Shoigu 举行会面，德黑兰。8月5日，俄联邦安全会议秘书、前国防部长 Shoigu 应邀对伊朗进行工作访问，分别与伊朗总统、代理外长及总参谋长举行会晤，双方主要针对地区和国际局势等议题交换意见。Shoigu 谴责哈马斯领导人遭暗杀事件，重申伊朗是俄罗斯在中东地区的重要战略盟友。伊朗总统 Pezeshkian 感谢俄罗斯在困难时期始终站在伊朗一方，强调扩大与俄罗斯的战略伙伴关系是伊朗外交政策的优先事项。摄影师：Iranian Presidency",
+          "link": "https://m.idai.ly/se/ba8e6U",
+          "publishedOn": "2024-08-06T08:57:00.000Z",
+          "wordCount": 264,
+          "title": "俄联邦安全秘书访伊朗 - August 6, 2024",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/9a504ac6/deda4ca1.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/9a504ac6/deda4ca1.jpg"
+        },
+        {
+          "id": "idaily-212081",
+          "author": "俄罗斯 · 上佩什马",
+          "description": "俄罗斯境内现存唯一苏联「暴风雪号」（Buran）航天飞机运抵上佩什马军事博物馆。8月5日，俄罗斯上佩什马军事博物馆开始对「暴风雪」号航天飞机进行修复工作，预计2年完工后向公众展出。「暴风雪号」航天飞机是苏联1980年代研制的可重复使用太空运载飞船，机身长36.4米，翼展约24米，近地轨道运载能力达30吨，1988年11月15日首次成功试飞。目前全球仅存2架「暴风雪号」航天飞机，另一架保存于哈萨克斯坦拜科努尔航天发射场。摄影师：Donat Sorokin",
+          "link": "https://m.idai.ly/se/6dclZy",
+          "publishedOn": "2024-08-06T08:55:00.000Z",
+          "wordCount": 264,
+          "title": "俄修复暴风雪号航天飞机 - August 6, 2024",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/b88787e0/2d32fa4c.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/b88787e0/2d32fa4c.jpg"
+        },
+        {
+          "id": "idaily-212080",
+          "author": "中国 · 北京",
+          "description": "北京野生动物园，一只小熊猫抱着冰砖降温消暑。8月6日，中央气象台继续发布高温橙色预警，预计全国超过10个省区市最高气温超过37°C，浙江、安徽、湖北和江西等局部地区气温可达40°C以上。2024年7月中国全境平均气温达到23.2°C，为1961年以来历史同期最高值；北京高温日数达7天，大幅超过往年同期平均4.8天；南方多地区连续高温日数超过20天，共有59个国家级气象站日最高气温突破或持平历史极值。中央气象台预测8月中上旬全国还将有两次明显的高温天气过程。摄影师：iDaily Media",
+          "link": "https://m.idai.ly/se/b9dnrg",
+          "publishedOn": "2024-08-06T08:53:00.000Z",
+          "wordCount": 264,
+          "title": "中国7月破纪录高温 - August 6, 2024",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/f1391306/c196e17f.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/f1391306/c196e17f.jpg"
+        },
+        {
+          "id": "idaily-212079",
+          "author": "日本 · 冲绳县",
+          "description": "美国海军陆战队新型「AN/TPS-80」多用途雷达系统部署至日本自卫队与那国岛营地，冲绳县。8月4日，日本陆上自卫队与美国海军陆战队在「坚毅之龙」联合军演中使用「AN/TPS-80」雷达开展针对导弹攻击的警戒训练。本次演习从7月28日持续至8月7日，参训人数达8900人，是日本境内迄今规模最大的一次美日联合军演，重点演练空地一体化和联合兵种作战，旨在加强美日联合作战能力和互操作性。演练地点与那国岛是最靠近中国领土的冲绳岛屿，距离中国台湾省仅110公里。摄影师：iDaily Media",
+          "link": "https://m.idai.ly/se/02944x",
+          "publishedOn": "2024-08-06T08:51:00.000Z",
+          "wordCount": 264,
+          "title": "美日冲绳实战演练 - August 6, 2024",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/6269950a/24a2a728.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/6269950a/24a2a728.jpg"
+        },
+        {
+          "id": "idaily-212078",
+          "author": "朝鲜 · 平壤",
+          "description": "朝鲜平壤体育馆广场举行抗洪救灾队伍启程仪式。8月5日，朝鲜劳动党宣布派遣平壤党员团队奔赴洪灾地区开展救灾重建工作。朝鲜劳动党中央委员会下令在平安北道和慈江道设立救灾重建司令部，要求建材部、金属工业部、林业部、铁道部、陆海交通部等相关部委合作保障紧急物资供应，农业委员会及地方政府做好恢复被淹农田作物生产的准备。朝鲜最高领导人金正恩表示「朝鲜绝不会牺牲国防换取援助」，批评韩国散播虚假灾情新闻故意损害朝鲜形象。摄影师：KCNA",
+          "link": "https://m.idai.ly/se/d7ekK2",
+          "publishedOn": "2024-08-06T08:49:00.000Z",
+          "wordCount": 264,
+          "title": "朝鲜劳动党员抗洪救灾 - August 6, 2024",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/48fbb40e/6a0ebea6.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/48fbb40e/6a0ebea6.jpg"
+        },
+        {
+          "id": "idaily-212076",
+          "author": "英国 · 伦敦",
+          "description": "英国伦敦富艺斯拍卖行举办「达米恩·赫斯特：文明绘画」特展，一幅名为《文明与真相》（Civilisation and Truth）的油画正在展出。本次展览主要呈现英国当代艺术家 Damien Hirst 新作系列《文明绘画》（The Civilisation Paintings），该系列作品以「混乱和希望」为主题，共包含32幅油画，艺术家在作品中融合现实主义与抽象绘画技法，表达在文明面临复杂挑战的情况下依然抱有乐观精神的态度。展期从8月5日持续至9月2日。摄影师：Andy Rain",
+          "link": "https://m.idai.ly/se/668f6f",
+          "publishedOn": "2024-08-06T08:47:00.000Z",
+          "wordCount": 264,
+          "title": "伦敦达米恩·赫斯特画展 - August 6, 2024",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/d5438ba8/dbbc199a.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/d5438ba8/dbbc199a.jpg"
+        },
         {
           "id": "idaily-211986",
           "author": "意大利 · 西西里岛",
@@ -18776,6 +19118,26 @@
       "siteUrl": "http://nytimes.com",
       "articles": [
         {
+          "id": "https://cn.nytimes.com/asia-pacific/20240806/bangladesh-protest-sheikh-hasina/dual",
+          "author": null,
+          "description": "MUJIB MASHAL2024年8月6日担任总理多年后变得越来越独裁的谢赫·哈西娜，在发生了大规模的抗议活动后流亡印度。 Atul Loke for The New York Times\nPrime Minister Sheikh Hasina’s life, as well as her politics, had been defined by an early trauma at once personal in its pain and national in its imprint.\n孟加拉国总理谢赫·哈西娜的生活以及她的政治生涯都深受早年创伤的影响，这种创伤既是个人的痛苦，也是国家的印记。\nIn 1975, her father, Sheikh Mujibur Rahman, Bangladesh’s charismatic founding leader, and most of their family were massacred in a military coup. Ms. Hasina, who was abroad at the time, was forced into exile in India.\n那是1975年，她的父亲、富有魅力的孟加拉国开国领袖谢赫·穆吉布·拉赫曼和大部分家人在一场军事政变中遇害。当时身在国外的哈西娜被迫流亡印度。\nHer eventual return and elevation to prime minister embodied Bangladesh’s hopes of a better, more democratic future. She was celebrated as a secular Muslim woman who tried to rein in a coup-prone military,…",
+          "link": "https://cn.nytimes.com/asia-pacific/20240806/bangladesh-protest-sheikh-hasina/dual",
+          "publishedOn": "2024-08-06T10:06:02.000Z",
+          "wordCount": 1718,
+          "title": "她认为自己的统治牢不可破，孟加拉人民证明并非如此",
+          "imageUrl": "https://static01.nyt.com/images/2024/08/05/multimedia/05bangladesh-01-mbck/05bangladesh-01-mbck-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/world/20240806/uk-riots-protests/dual",
+          "author": null,
+          "description": "《纽约时报》2024年8月6日周日，反移民抗议者在英格兰的罗瑟勒姆与警察发生冲突。 Hollie Adams/Reuters\nAfter a weekend of violent uprisings across Britain, set off by a deadly stabbing rampage and an anti-immigrant disinformation campaign that followed it, tensions are high from the streets to government leaders’ offices.\n一起致命的持刀砍人事件和随后的反移民虚假宣传在周末触发了英国各地的暴力骚乱，从街头到政府领导人的办公室，气氛十分紧张。\nHere is what we know as the country enters a new week of uncertainty.\n随着这个国家进入充满不确定的新一周，我们了解到的情况如下。\nWhere has the unrest taken place?\n骚乱发生在哪里？\nProtesters over the weekend took to the streets of a dozen cities across the United Kingdom, most of them in England. Trouble broke out from Aldershot in the south to Sunderland in the north and Liverpool in the west. Belfast, in Northern Ireland, was also drawn into the fray.\n周末，英国有十几个城市出现街头抗议，其中大多数在英格兰。从南部的奥尔德…",
+          "link": "https://cn.nytimes.com/world/20240806/uk-riots-protests/dual",
+          "publishedOn": "2024-08-06T06:36:01.000Z",
+          "wordCount": 907,
+          "title": "关于英国各地爆发的暴力骚乱，目前我们所知的",
+          "imageUrl": "https://static01.nyt.com/images/2024/08/05/multimedia/05ukprotests-wwk-lzpq/05ukprotests-wwk-lzpq-articleLarge.jpg"
+        },
+        {
           "id": "https://cn.nytimes.com/business/20240806/global-stocks/dual",
           "author": null,
           "description": "DAISUKE WAKABAYASHI, RIVER AKIRA DAVIS2024年8月6日 LSEG Data & Analytics • By Karl Russell\nAnxiety over a slowdown in the U.S. economy intensified on Monday, with a retreat in markets that began last week snowballing into a global rout.\n对美国经济放缓的担忧在周一加剧，上周开始的市场下挫如滚雪球般演变为全球崩盘。\nThe turmoil was the latest example of how distinct economic forces can ricochet across markets, forcing down company stock prices and erasing billions of dollars in value. In this case, a rapidly rising yen over the past week had disrupted the flow of global capital, prompting a pullback from some popular investments.\n这场动荡是一个最新例证，表明不同的经济力量可以在市场上相互影响，迫使公司股价下跌，并抹去数十亿美元的市值。在这种情况下，过去一周日元的快速升值扰乱了全球资本的流动，促使一些热门投资回撤。\nBut the sell-off quickly expanded into a more widespread panic that the Federal Reserve may have waited too long …",
@@ -19754,16 +20116,6 @@
           "wordCount": 1807,
           "title": "法国大选：左翼联盟崛起，联合阻击极右翼",
           "imageUrl": "https://static01.nyt.com/images/2024/07/07/multimedia/07france-election-wqjc/07france-election-wqjc-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/world/20240708/global-economy-debt-inequality/dual",
-          "author": null,
-          "description": "PATRICIA COHEN, JACK NICAS2024年7月8日玻利维亚6月爆发了抗议活动。燃料短缺导致居民排起长队，一名军队将领领导了一起未遂政变。 Juan Karita/Associated Press\nLike a globe-spanning tornado that touches down with little predictability, deep economic anxieties are leaving a trail of political turmoil and violence across poor and rich countries alike.\n深重的经济焦虑像不可预测的龙卷风横扫全球，在穷国和富国都留下了长串的政治动荡和暴力的痕迹。\nIn Kenya, a nation buckling under debt, protests over a proposed tax increase last week resulted in dozens of deaths, abductions of demonstrators and a partly scorched Parliament.\n遭受债务重压的肯尼亚上周爆发了针对增税提案的抗议活动，导致数十人死亡，示威者遭绑架，议会大楼的部分建筑遭纵火焚烧。\nAt the same time in Bolivia, where residents have lined up for gas because of shortages, a military general led a failed coup attempt, saying the president, a former economist, must “stop impoverishing our country,” …",
-          "link": "https://cn.nytimes.com/world/20240708/global-economy-debt-inequality/dual",
-          "publishedOn": "2024-07-08T02:36:02.000Z",
-          "wordCount": 1671,
-          "title": "物价高企、债务失控：经济焦虑加剧全球政治动荡",
-          "imageUrl": "https://static01.nyt.com/images/2024/07/05/multimedia/05global-unrest-gljp/05global-unrest-gljp-articleLarge.jpg"
         }
       ]
     },
@@ -19772,6 +20124,56 @@
       "feedUrl": "https://plink.anyfeeder.com/weixin/ibookreview",
       "siteUrl": "http://weixin.sogou.com/weixin?type=1&s_from=input&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A",
       "articles": [
+        {
+          "id": "fd5315c96a1a5877a86222d1e86a7050",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E7%B1%B3%E4%BA%9A%C2%B7%E7%A7%91%E6%89%98%EF%BC%9A%E2%80%9C%E4%B8%80%E4%B8%AA%E4%BA%BA%E8%87%AA%E8%BA%AB%E5%B0%B1%E6%98%AF%E7%8B%AC%E4%B8%80%E6%97%A0%E4%BA%8C%E7%9A%84%E5%85%A8%E4%BA%BA%E7%B1%BB%E2%80%9D",
+          "publishedOn": "2024-08-06T01:50:00.000Z",
+          "wordCount": 262,
+          "title": "米亚·科托：“一个人自身就是独一无二的全人类”",
+          "imageUrl": null
+        },
+        {
+          "id": "df302543d8242fd0899886335de10216",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E4%BA%AC%E5%8D%8E%E7%89%A9%E8%AF%AD%E4%B8%A8%E9%B2%81%E8%BF%85%E5%9C%A8%E5%8C%97%E4%BA%AC%E6%9C%9F%E9%97%B4%E4%BB%8E%E4%BA%8B%E8%BF%87%E5%93%AA%E4%BA%9B%E5%B7%A5%E4%BD%9C%EF%BC%9F",
+          "publishedOn": "2024-08-06T01:50:00.000Z",
+          "wordCount": 256,
+          "title": "京华物语丨鲁迅在北京期间从事过哪些工作？",
+          "imageUrl": null
+        },
+        {
+          "id": "2364c57f4beb806751bc6c1aa671035d",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E5%BA%B7%E6%8B%89%E5%BE%B7%E3%80%8A%E9%BB%91%E6%9A%97%E7%9A%84%E5%BF%83%E3%80%8B%EF%BC%9A%E5%A4%A7%E5%9C%B0%E5%A0%99%E7%81%AD%E4%BA%86%E8%AF%97%E6%84%8F%E7%9A%84%E6%A0%96%E5%B1%85%EF%BC%8C%E6%9C%9D%E5%A4%A9%E7%A9%BA%E5%8F%91%E5%87%BA%E7%AC%91%E5%A3%B0%E4%B8%A8%E6%99%AF%E5%87%AF%E6%97%8B%E8%AF%BB%E7%BB%8F%E5%85%B8%E2%91%AE",
+          "publishedOn": "2024-08-06T01:50:00.000Z",
+          "wordCount": 302,
+          "title": "康拉德《黑暗的心》：大地堙灭了诗意的栖居，朝天空发出笑声丨景凯旋读经典⑮",
+          "imageUrl": null
+        },
+        {
+          "id": "1cef21c9f521a3526fcefe48368b3763",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E5%A5%BD%E7%83%AD%E5%A5%BD%E7%83%AD%EF%BC%8C%E5%88%B0%E5%BA%95%E6%80%8E%E6%A0%B7%E6%89%8D%E8%83%BD%E5%87%89%E5%BF%AB%E4%B8%8B%E6%9D%A5%E5%95%8A%EF%BC%81",
+          "publishedOn": "2024-08-05T02:00:00.000Z",
+          "wordCount": 298,
+          "title": "好热好热，到底怎样才能凉快下来啊！",
+          "imageUrl": null
+        },
+        {
+          "id": "15a1e70c76696ec402bf35d6fcb92003",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E7%9B%B4%E6%92%AD%E9%A2%84%E5%91%8A%20%7C%20%E5%BA%B7%E7%86%99%E7%9A%84%E2%80%9C%E7%BA%A2%E7%A5%A8%E2%80%9D%EF%BC%8C%E4%B8%80%E6%AE%B5%E5%8E%86%E5%8F%B2%E5%BE%80%E4%BA%8B",
+          "publishedOn": "2024-08-05T02:00:00.000Z",
+          "wordCount": 286,
+          "title": "直播预告 | 康熙的“红票”，一段历史往事",
+          "imageUrl": null
+        },
         {
           "id": "c8066571095db7235b6dc60e637962d9",
           "author": null,
@@ -20410,16 +20812,6 @@
           "publishedOn": "2024-07-09T01:50:00.000Z",
           "wordCount": 318,
           "title": "特德·休斯：一个真正的幻想家和现代原始人",
-          "imageUrl": null
-        },
-        {
-          "id": "5144fdb6ea1c27d1b5e8a0b89b5e04eb",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E7%BE%8E%E5%9B%BD%E7%A4%BE%E4%BC%9A%E7%9A%84%E5%8D%81%E5%AD%97%E8%B7%AF%E5%8F%A3%EF%BC%9A%E5%BD%93%E6%9E%81%E5%8C%96%E6%94%BF%E6%B2%BB%E9%81%AD%E9%81%87%E7%A7%91%E6%8A%80%E5%A4%A7%E7%88%86%E7%82%B8",
-          "publishedOn": "2024-07-08T02:39:00.000Z",
-          "wordCount": 256,
-          "title": "美国社会的十字路口：当极化政治遭遇科技大爆炸",
           "imageUrl": null
         }
       ]
