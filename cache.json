@@ -44,16 +44,6 @@
           "wordCount": 5690,
           "title": "R Weekly 2024-W31 Oz Weather, Shiny Contest",
           "imageUrl": "https://rweekly.org/public/facebook.png"
-        },
-        {
-          "id": "https://rweekly.org/2024-W30.html",
-          "author": null,
-          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Ryo Nakagawara, with help from the R Weekly team members and contributors.\nHighlight\nTile-style sprite delight\nSome thoughts after a trial run of GitHub’s Copilot Workspace\nExtracting names of functions defined in a script with treesitter\nInsights\nSome thoughts after a trial run of GitHub’s Copilot Workspace\nR in the Real World\nTile-style sprite delight\n\nResources\nEuro 2024 data\nIntroduction to R with Tidyverse - A 2-day introduction to the wonders of R.\nNew Packages\n📦 Go Live for More New Pkgs 📦\n -->\n📦 Keep up to date wtih CRANberries 📦\nCRAN\n{iC10} 2.0.2: A Copy Number and Expression-Based Classifier for Breast Tumours\n{tidydelta} 0.1.0: Estimation of Standard Errors us…",
-          "link": "https://rweekly.org/2024-W30.html",
-          "publishedOn": "2024-07-22T00:00:00.000Z",
-          "wordCount": 5943,
-          "title": "R Weekly 2024-W30 Tile sprites, GitHub Copilot, extract functions",
-          "imageUrl": "https://rweekly.org/public/facebook.png"
         }
       ]
     },
@@ -609,6 +599,206 @@
       "feedUrl": "https://feedx.net/rss/thepaper.xml",
       "siteUrl": "http://thepaper.cn",
       "articles": [
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28465378",
+          "author": null,
+          "description": "立秋以后暑气未消。能与炎热天气相媲美的，是持续火爆的热门景点门票抢票。在北京，整个暑期，故宫都一票难求，每天放票即秒没，一般人很难抢到。\n每天4万张的故宫门票都去哪儿了？记者调查发现，一些外地游客有的是通过黄牛购票，有的是通过购买高价“门票+导游”产品买到故宫门票。不同时段的门票，黄牛每张加价几十到上百、上千元不等。而近期，一张7日内的任意时段门票，最高已经叫卖到1600元。\n黄牛为什么能拿到门票？旅行社为什么可以抢到预约票？故宫售票平台能否发现异常购买行为并加以阻止？记者对此进行了深入调查。\n加价买门票是游客无奈之举\n日前，记者在北京积水潭遇到3个从湖南益阳来北京旅游的小学生。其中稍年长一些的小男生对记者说，他们家一共来了9口人，但是由于没有约到故宫门票，所以他们一家都去不了，两个妹妹很是失望。“我们家人太多了，妈妈说加价买门票的话太贵了。”小哥哥遗憾地说。\n7月底，记者还曾在北京北土城公交站遇到几位河南游客。他们是老两口、小两口加上孩子一共5人来北京旅游，并去了故宫。孩子爸爸告诉记者，来之前一直抢故宫门票未果。为了此行不留遗憾，孩子妈妈在网上找黄牛买的票，一张加价100元。“毕竟每个来北京的游客都想去故宫，多花500元也算能接受吧。”他说。\n然而黄牛票也是水涨船高。北京的杨先生对记者说：“加价70到100元是淡季的行情，现在无保障预约票（即不保证能否约到）是加价300元，且至少提前7天，也就是说很多游客来北京之前就得找他们买票。”\n杨先生告诉记者， 8月3日，他的同学在屡抢不中后，无奈想找他帮忙买3张故宫黄牛票。他想起早前曾加过一个买火车票的黄牛，随口一问，黄牛表示也可以买门票。不过，一张有保障的预约票要1100元。另一个黄牛告诉他，如果来了北京临时想去，一张非预约期（即7天以内）的有保障票，已经被叫卖到1600元，而故宫旺季门票仅仅60元一张。\n\n故宫门票被叫卖到千元…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28465378",
+          "publishedOn": "2024-08-20T14:53:04.000Z",
+          "wordCount": 48,
+          "title": "每日4万张的故宫门票，游客为啥难抢到？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28472226",
+          "author": null,
+          "description": "美股三大指数集体低开，道指跌0.05%，标普500指数跌0.06%，纳指跌0.15%。热门中概股多数下跌，阿里巴巴跌1.84%，拼多多跌0.80%。（证券时报）\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.run",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28472226",
+          "publishedOn": "2024-08-20T14:23:04.000Z",
+          "wordCount": 32,
+          "title": "​美股三大指数集体低开，热门中概股多数下跌",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28471946",
+          "author": null,
+          "description": "8月20日，碧桂园（02007.HK）旗下的碧桂园地产集团有限公司发布公告，拟于近期召集相关债券持有人会议，审议相关债券增信手续办理时限等事项。8月22日开市起，H20碧地 3、H20碧地4及H1碧地03将停牌，H1碧地02继续停牌。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28471946",
+          "publishedOn": "2024-08-20T14:23:04.000Z",
+          "wordCount": 36,
+          "title": "碧桂园地产集团：拟于近期召开债券持有人会议，8月22日开市起H20碧地3等三只债券停牌",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28457077",
+          "author": null,
+          "description": "又一座城市或将迎来官方认定的市歌。\n据浙江省政府新闻办官方微信视频号“美丽浙江”近日消息，歌词里没有一个“杭州”但句句是杭州的“民间市歌”《梦想天堂》或将迎来“官方盖章”——经杭州市政府常务会议同意，拟将《梦想天堂》设立为“杭州市市歌”，即将进入人大立法程序。\n作为城市的“主打歌”，市歌是一座城市为宣传自身形象而制作、推广的歌曲。它代表城市的精神面貌、理想斗志或宏伟目标，表达群众心声，也可以是一个城市历史文化的缩影，能够于润物细无声处提升城市影响力、塑造独特的城市精神、凝聚市民的向心力，从而激发人们建设美丽和谐家园的巨大激情。\n据四川《攀枝花日报》2020年对全国地级市开展的市歌搜集查证工作，截至当年11月，全国由官方认定的市歌有14首，其中当地市人大及常委会审议表决通过12首，当地市委宣传部新闻发布会宣布1首，当地市政府网站公布1首。\n澎湃新闻（www.thepaper.cn）梳理发现，2021年、2023年四川南充市、黑龙江黑河市也分别经市人大常委会审议通过定下官方市歌。目前，经官方认定的市歌包括江苏无锡的《太湖美》、扬州的《好一朵茉莉花》、连云港市的《在海一方》，吉林长春市的《我们在长春相遇》，四川攀枝花市的《太阳在这里歌唱》，南充市的《印象南充》（主歌）、《嘉陵谣》（副歌），黑河市的《亲亲的黑河》等。\n“杭州最为耳熟的音乐”\n\n《梦想天堂》MV截图\n\n“我们的家，住在天堂，碧绿的湖水荡漾着美丽的梦想。我们的家，住在天堂，美丽的梦想，期盼明珠耀眼在东方……”\n歌词一句未提“杭州”却处处都是“杭州”的《梦想天堂》，由杭州音乐人应豪于1995年创作，是当地家喻户晓的经典曲目，被民间视作“市歌”。\n据新华社报道，当年应豪的朋友组织了一场公益活动，请他写一首公益广告歌曲，但一直找不到灵感。一个雷雨初晴的午后，应豪沿杭州南山路骑行，路过涌金门，身边时而有水珠从梧桐叶上落下，眼前…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28457077",
+          "publishedOn": "2024-08-20T13:53:22.000Z",
+          "wordCount": 41,
+          "title": "全国已有十余城推出官方市歌：什么样的歌曲能为一座城市代言",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28468166",
+          "author": null,
+          "description": "8月18日23时至20日10时，辽宁省西部地区出现暴雨到大暴雨，葫芦岛市部分乡镇出现特大暴雨。受到强降雨影响，导致葫芦岛市建昌县部分村镇出现山洪，300多名受灾群众被困，当地已经出动了直升机对被困群众进行紧急转移。\n记者从辽宁省消防部门了解到，受强降雨影响，建昌县的黑山科乡、雷家店乡、和尚房子乡、养马甸子乡、大屯镇受灾严重，另外，绥中县的秋子沟乡、明水乡、葛家乡受强降水影响受灾较重。\n据正在赶往受灾现场的葫芦岛市消防救援支队介绍，由于降雨急、雨量大，一些山区乡镇受灾严重。目前，建昌县50多名消防员已投入到一线救援中，葫芦岛各地的消防救援人员也正赶往受灾现场。\n此外，受到强降雨影响，建昌县目前只能通过卫星电话通信，前往当地的高速公路已经封闭。截至目前，辽宁省防汛、应急、消防、电力、通信等相关部门已经派出力量赶赴葫芦岛市建昌县支援。\n另据@央视新闻 消息，国家防总今天已派出工作组赴辽宁协助指导防汛工作。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28468166",
+          "publishedOn": "2024-08-20T13:53:22.000Z",
+          "wordCount": 34,
+          "title": "辽宁建昌强降雨致300多人被困，国家防总派工作组协助防汛",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28471799",
+          "author": null,
+          "description": "当地时间8月20日，美国礼来公司在官网发布消息称，旗下明星GLP-1药物替尔泊肽将患有糖尿病前期和肥胖或超重的成年人进展为二型糖尿病的风险显著降低94%。\n上述数据来自SURMOUNT-1研究的积极顶线结果，该研究在1032名患有糖尿病前期和肥胖或超重的成人中评估替尔泊肽（包括减重版Zepbound和降糖版Mounjaro）的效果。此次研究的治疗期长达三年，持续了176周，加上17周的停药期，共计193周。礼来称，针对成年糖尿病前期患者进行为期176周的 SURMOUNT-1 三期研究是替尔泊肽迄今为止完成时间最长的试验。\n除了降低二型糖尿病的进展风险，最新的研究结果还显示，替尔泊肽可以在整个治疗期间带来体重的持续减轻，在患有糖尿病前期、肥胖或超重的成人中，服用15mg剂量的成人体重平均下降22.9%，而安慰剂组的体重平均下降2.1%。（澎湃新闻记者 李潇潇）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28471799",
+          "publishedOn": "2024-08-20T13:23:07.000Z",
+          "wordCount": 41,
+          "title": "礼来：替尔泊肽将肥胖成人患二型糖尿病风险降低94%，体重下降近23%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28471832",
+          "author": null,
+          "description": "当地时间20日，俄罗斯外交部召见美国驻俄罗斯临时代办，对美国记者非法进入库尔斯克州、有证据显示美国一私营军事公司人员参与乌方对库尔斯克州的袭击表示强烈抗议。\n俄外交部强调，这些行为证明美国作为直接参与者参与了冲突。\n俄方指出，俄相关机构将根据《俄罗斯联邦刑法典》采取必要的调查措施。此外，俄外交部还表示，非法越过俄罗斯边境的外国“专家”和雇佣兵将自动成为俄罗斯联邦武装力量的合法军事目标。\n美国《华盛顿邮报》18日发表文章称，该报两名记者和一名摄影师在乌克兰武装部队军人陪同下于17日抵达库尔斯克州边境城镇苏贾。俄罗斯媒体19日报道称，美国一私营军事公司在其社交媒体发布了军事人员在库尔斯克州的照片。照片显示，美方人员参与了对俄罗斯库尔斯克州的袭击。（央视新闻）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28471832",
+          "publishedOn": "2024-08-20T13:23:07.000Z",
+          "wordCount": 33,
+          "title": "俄外交部召见美驻俄临时代办，抗议美方近期行为",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28465072",
+          "author": null,
+          "description": "国务院总理李强8月19日主持召开国务院常务会议，决定核准江苏徐圩一期工程等五个核电项目。会议强调，安全是核电发展的生命线，要不断提升核电安全技术水平和风险防范能力，加强全链条全领域安全监管，确保核电安全万无一失，促进行业长期健康发展。\n据澎湃新闻了解，上述经国常会审议通过的五个核电项目分别为：中核集团所属的江苏徐圩一期工程，中国广核集团所属的山东招远一期工程、广东陆丰一期工程、浙江三澳二期工程，以及国家电投集团所属的广西白龙核电一期工程，共计11台新核电机组。\n获批的新项目涉及多种自主三代、四代核电技术路线，经澎湃新闻粗略计算，这批项目的总投资超过两千亿元。在取得国家核安全局颁发的《核电厂建造许可证》后，上述项目即可开始全面建设。\n江苏徐圩项目是全球首个将高温气冷堆与压水堆耦合，以工业供热为主、兼顾电力供应的核动力厂，建成后将为连云港万亿级石化产业基地大规模供应高品质低碳工业蒸汽。\n澎湃新闻从中核集团获悉，该项目采用我国具有完全自主知识产权的第三代核电技术华龙一号和第四代核电技术高温气冷堆组合的方案建设核能供热系统。一期工程拟建设2台华龙一号压水堆核能发电机组和1台高温气冷堆核能发电机组，配套建设蒸汽换热站，首次采取以热定电的运行模式，通过华龙一号主蒸汽加热除盐水制备饱和蒸汽，再利用高温气冷堆主蒸汽对饱和蒸汽二次升温，建成后设计工况下将同时具备高品质蒸汽供应能力和发电能力。\n江苏徐圩一期工程建成投产后，年供应工业蒸汽3250万吨，最大发电量超115亿度，每年可减少燃用标准煤726万吨，减少排放二氧化碳1960万吨，将有效缓解高耗能产业减排脱碳压力。\n与此同时，中广核将有6台新机组正式落地，华龙一号批量化继续加速推进。\n新获得核准的招远项目，是中广核在山东落地的首个核电项目，也是中广核开辟的第十个核电基地。招远核电项目规划建设6台单机120万千瓦的华龙一号核电机组，此次获得核准的为其1、2号机组。三澳核电项目位于浙江省苍南县，规划建设6台华龙一号机组，同样是一次规划、分期实施，一期工程已于2020年底开工，最新获得核准的为其3、4号机组。\n除华龙一号、高温气冷堆之外，本次核准的5个项目中，2个采用国产化CAP1000技术路线。其中，广东陆丰核电项目一期工程已经历长期准备。\n广西白龙核电一期工程1、2号机组亦采用CAP1000三代非能动核电技术，单台机组容量125万千瓦，计划工期56个月，两台机组投资约400亿元。两台机组建成投产后，年发电量约200亿千瓦时，每年可减少标煤消耗约600万吨，减排二氧化碳约1600万吨、二氧化硫约5.2万吨、氮氧化物约4.5万吨。\n在“积极安全有序发展核电”主基调下，近年来国内核电审批稳步推进。2022年、2023年，均有10台核电新机组在年内获得核准。\n近日印发的《中共中央 国务院关于加快经济社会发展全面绿色转型的意见》提出，加快西北风电光伏、西南水电、海上风电、沿海核电等清洁能源基地建设，积极发展分布式光伏、分散式风电，因地制宜开发生物质能、地热能、海洋能等新能源，推进氢能“制储输用”全链条发展。统筹水电开发和生态保护，推进水风光一体化开发。积极安全有序发展核电，保持合理布局和平稳建设节奏。到2030年，非化石能源消费比重提高到25%左右。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28465072",
+          "publishedOn": "2024-08-20T12:53:03.000Z",
+          "wordCount": 38,
+          "title": "核电建设提速！国常会核准五个新项目：共11台核电机组，拉动千亿级投资",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28470950",
+          "author": null,
+          "description": "国产游戏《黑神话：悟空》今日上午10时正式上线，目前在Steam平台的在线玩家突破200万。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28470950",
+          "publishedOn": "2024-08-20T12:53:03.000Z",
+          "wordCount": 35,
+          "title": "《黑神话：悟空》Steam在线玩家突破200万",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28470760",
+          "author": null,
+          "description": "当地时间20日，埃及总统塞西在阿拉曼会见了到访的美国国务卿布林肯一行，双方就加沙停火以及如何推动地区紧张局势缓解等问题交换了意见。\n塞西在会谈中强调，现在是发出理智和智慧声音的时候，是结束在加沙地区冲突的时候了。加沙停火必须成为国际社会更广泛承认巴勒斯坦国和实施“两国方案”的开始，因为这是中东地区稳定的主要保障。塞西还强调，扩大地区冲突范围非常危险，其后果难以想象。（央视新闻）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28470760",
+          "publishedOn": "2024-08-20T12:53:03.000Z",
+          "wordCount": 33,
+          "title": "埃及总统会见美国国务卿，讨论地区局势",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28456022",
+          "author": null,
+          "description": "8月20日，外交部发言人毛宁主持例行记者会。法新社记者提问，关于昨天菲律宾和中国海警船发生的碰撞事件，美国谴责了中国在南海的行为，并重申了对菲律宾的支持，请问中方对此有何评论？\n毛宁强调：“昨天我已经就菲律宾海警船侵闯中国南沙群岛仙宾礁邻近海域阐明了中方的严正立场。菲律宾侵权在先，中方依法采取维权措施，旨在维护自身领土主权和海洋权益，正当合法，无可非议。”\n毛宁表示，美国不是南海问题的当事方，无权介入中菲两国之间的涉海问题，更不得以《美菲共同防御条约》为借口，侵害中国在南海的主权和权益。美方应当停止在南海挑动对抗，不要再破坏地区稳定，加剧局势紧张。\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.run",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28456022",
+          "publishedOn": "2024-08-20T12:53:03.000Z",
+          "wordCount": 38,
+          "title": "美国就海警船碰撞事件为菲律宾撑腰，外交部：美方应停止挑动对抗",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28469316",
+          "author": null,
+          "description": "中共中央总书记、国家主席、中央军委主席习近平20日下午在人民大会堂接见第33届夏季奥林匹克运动会中国体育代表团全体成员。他强调，在巴黎奥运会上，你们团结一心、顽强拼搏，奋勇争先、不负使命，取得我国参加夏季奥运会境外参赛历史最好成绩，实现了比赛成绩和精神文明双丰收，为祖国和人民赢得了荣誉。他代表党中央和国务院欢迎大家凯旋，向大家致以热烈祝贺和诚挚慰问，并向全国体育战线的同志们表示亲切问候。\n中共中央政治局常委赵乐际、王沪宁、蔡奇、李希，国家副主席韩正参加接见。\n人民大会堂金色大厅洋溢着喜庆热烈的气氛。下午3时20分许，习近平等党和国家领导人来到代表团成员中间，全场响起长时间热烈掌声。习近平等同大家亲切握手，并合影留念。\n在热烈的掌声中，习近平发表重要讲话。他表示，中国体育代表团的优异成绩，既是我国体育事业发展进步的集中体现，也是中国式现代化建设成就的一个缩影，充分彰显了新时代中国力量。国运兴则体育兴、国家强则体育强。我国能够跻身世界体育大国、奥运强国之列，根本在于综合国力不断增强，为体育竞技训练提供了先进科技支撑和坚实物质保障，也为各领域体育人才脱颖而出创造了良好成长环境和广泛群众基础。新时代新征程，以中国式现代化全面推进强国建设、民族复兴伟业，必将为我国体育事业发展提供更好条件、注入强劲动力。我们要继续大力发展以人民为中心的体育事业，推动全民健身和全民健康深度融合，向着建设体育强国、健康中国的目标不断迈进。\n习近平指出，中国体育代表团的优异成绩，将中华体育精神和奥林匹克精神发扬光大，让中华民族精神和时代精神交相辉映，生动诠释了新时代中国精神。赛场上，大家牢记党和人民重托，“国家荣誉永远超过个人”、“我的这块金牌献给伟大的祖国”等誓言掷地有声，展现了祖国至上、为国争光的赤子情怀，展现了顽强拼搏、自强不息的必胜信念，展现了团结协作、并肩作战的宝贵品质，展现了中国青年一代自信乐观、热情友好的阳光气质。你们让全世界看到了中华优秀传统文化的深厚积淀，看到了中国开放包容、昂扬进取的时代风貌，看到了中国人民的志气、锐气和底气。祖国和人民为你们骄傲，为你们点赞。\n习近平强调，中国体育代表团坚持拿道德的金牌、风格的金牌、干净的金牌，弘扬了体育道德风尚，赢得了广泛尊重认可，充分展现了新时代中国形象。赛场上，大家遵守规则、尊重对手、尊重裁判、尊重观众，保持良好的赛风赛纪和文明礼仪，胜不骄、败不馁，在竞技上、道德上、风格上都拿到了金牌。\n习近平指出，新的奥运备战周期已经开始。希望大家戒骄戒躁、再接再厉，提高训练和比赛水平，扬长补短，加快人才培养，高质量做好备战工作。竞技体育和群众体育相辅相成，希望大家进一步提升竞技体育综合实力，带动全民健身、青少年体育蓬勃开展，为建设体育强国再立新功。\n王毅、刘国中、李书磊、李鸿忠、何卫东、陈武，中央和国家机关有关部门负责同志、各省区市和新疆生产建设兵团体育部门负责同志参加接见。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28469316",
+          "publishedOn": "2024-08-20T12:53:03.000Z",
+          "wordCount": 38,
+          "title": "习近平接见第33届奥运会中国体育代表团",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28470328",
+          "author": null,
+          "description": "根据国游畅销榜统计，截至目前，《黑神话：悟空》在steam上已售出超过300万份，加上wegame、epic和ps平台，目前总销量超过450万份，总销售额超过15亿元。当前，游戏steam好评率维持在95%+的水平，其中，中文评论占比约为90%。（一财）\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.run",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28470328",
+          "publishedOn": "2024-08-20T12:23:08.000Z",
+          "wordCount": 32,
+          "title": "《黑神话：悟空》全平台销量超450万份，销售额超15亿元",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28469463",
+          "author": null,
+          "description": "8月20日晚间，金山办公正式公布了2024半年报数据。2024年上半年，金山办公营收与净利润全面增长，营收24.13亿元，同比增长11.09%；归属于母公司所有者的净利润为7.21亿元，同比增长20.38%；公司上半年基本每股收益为1.56元。\n作为金山办公的核心增长引擎，订阅业务在2024上半年收入19.73亿元，约占总收入的82%，同比提升近5%。在今年上半年，金山办公累计年度付费个人用户增长至3815万，主要产品月活设备数达6.02亿，均创历史新高。截至报告期末，WPS 365已服务超过18000家头部政企客户。（澎湃新闻记者 胡含嫣）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28469463",
+          "publishedOn": "2024-08-20T12:23:08.000Z",
+          "wordCount": 38,
+          "title": "金山办公上半年净利润7.21亿元，同比增长20.38%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28467762",
+          "author": null,
+          "description": "“身边的同事很多都请假了。”8月20日，杭州一位大厂员工告诉澎湃新闻记者，“有几个请假的同事，签名甚至都改成了‘直面天命’（《黑神话：悟空》宣传词）。”\n8月20日，国产3A游戏《黑神话：悟空》一经发售就登上热搜第一，截至发稿时，这款游戏在Steam平台玩家在线数量突破140万，远超第二名的CS2，超过2万篇用户评测中94%给出了“好评”。\n多位游戏圈大佬也公开发文表达认可，“黑神话是个巨大的里程碑，能影响中国游戏行业未来的方向，激励更多有才华的创作团队，走下网络游戏这条独木桥，尝试做一款体面的单机游戏，并赢得更多尊重和回报。”心动网络CEO黄一孟表示。\n\n黄一孟社交媒体截图\n\n而小米Redmi品牌总经理王腾也表示，自己到公司第一件事就是下载《黑神话：悟空》，对此，不少网友笑称要向雷军举报“王腾上班摸鱼”。\n游戏行业分析师张书乐告诉记者，《黑神话：悟空》销量有望突破千万套，据此估算，其销售营收可达到26亿元，远超过4亿元的投入成本。\n资本市场同样火热，黑神话悟空概念股全天强势，旗天科技（300061）、中信出版（300788）等20cm涨停，华谊兄弟（300027）涨超19%，浙版传媒（601921）、国旅联合（600358）等涨停。\n多个IT公司“放假”，网文作家停更玩游戏\n《黑神话：悟空》的故事背景源于经典名著《西游记》，“直面天命”则对应游戏玩家扮演的 “天命人”，玩家将探寻昔日传说的真相，踏上一条充满危险与惊奇的西游之路。\n《黑神话》的开发商游戏科学（深圳市游科互动科技有限公司）成立于2014年6月，其创始团队成员全部来自腾讯。在创业初期，游戏科学曾获得来自英雄互娱（现名“英雄游戏科技股份有限公司”）的投资。\n据天眼查信息，目前游戏科学的实控人为CEO冯骥，也是《黑神话：悟空》的制作人，持股比例38.76%；第二大股东为深圳市游科互动企业管理中心，持股比例27.36…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28467762",
+          "publishedOn": "2024-08-20T11:53:05.000Z",
+          "wordCount": 55,
+          "title": "游戏圈请假捧场？销售额冲击26亿？《黑神话悟空》能否创造中国3A游戏新时代",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28467833",
+          "author": null,
+          "description": "西安金地九玺小区\n\n8月18日，澎湃新闻刊发《西安金地物业被指撬门占用业主空置别墅，业主：协商赔款十万只收到五万》一文，报道了西安金地物业人员被指未经业主许可，擅自占用业主空置别墅一事。\n白先生家在西安金地九玺小区有一栋联排别墅，因为种种原因，一直没有装修，处于空置状态。今年5月的一天，白先生发现别墅房间内被堆放了垃圾桶、保洁工具、废纸箱等物，还有物业人员在地上铺了泡沫垫子休息。白先生怀疑，物业人员是将地下室连通车库的门锁撬开后进入房间，并已占用了较长时间。\n报道刊发后，西安金地物业8月18日、19日先后向澎湃新闻提供了两份内容不同的回复，第一份回复称因小区无公共垃圾收置点，近1个月将业主地下室车位处作为垃圾暂存处，保洁员看到房屋空置便将空垃圾桶等堆放在别墅一层；第二份回复未提上述缘由及将地下室车位处作为垃圾暂存处等细节，只称保洁业务为外包，该户院子推拉门未关，保洁员私自将闲置垃圾桶临时搁置在该户。两份回复均否认故意侵占业主房屋，第二份回复否认撬锁。\n此外，对于业主称收到5万元赔偿，涉事物业经理表示，先前转账5万元给业主系其个人行为，公司并不知情。\n两份内容不同的回复\n澎湃新闻报道后，西安金地物业相关人员接受澎湃新闻采访，并先后提供了两份书面回复。\n8月18日，西安金地物业提供的第一份回复题为《关于九玺XXXX投诉处理情况说明》，落款部门为“西安一片区运营中心”，时间为8月14日。\n关于事情经过，该情况说明称：“2024年5月9日，XXXX号业主投诉物业服务中心在其空置房屋放置垃圾桶并有保洁人员在房内休息，业主认为物业严重损害其自身利益。经公司了解，九玺项目因无公共垃圾集中收置点，近1个月将业主地下室车位处作为垃圾暂存处，但保洁员工看到房屋为毛坯空置，为方便工作便将空垃圾桶及杂物堆放在业主一层家中，中午午休纳凉。真实情况并不是业主所说故意长期侵占房屋当做垃圾集中处理站。”\n…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28467833",
+          "publishedOn": "2024-08-20T11:53:05.000Z",
+          "wordCount": 46,
+          "title": "西安金地物业被指占用业主别墅：否认撬门，经理称赔五万系个人行为",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28469464",
+          "author": null,
+          "description": "记者从中国铁路沈阳局、北京局集团公司了解到，8月20日，受强对流天气影响，山海关站发生水害，铁路部门及时封锁线路进行抢修。受此影响，G1266次、G1280次、G1256次、G1230次等旅客列车不同程度晚点运行。\n受此影响，8月20日北京站开Z203次、Z15次、Z211次等部分普速列车停运。\n请广大旅客朋友及时关注中国铁路12306网站、手机App信息或车站公告。12306网站将在原车票乘车日之后5日内自动为旅客办理车票退票手续，不收退票费。已购联程车票的旅客，请在联程车票开车前自行登录12306网站（含12306 移动端）与停运列车车票一并办理退票，均不收取退票费。已打印报销凭证的请妥善保管，退票后请持购票证件到车站售票窗口凭报销凭证办理领款手续。（央视新闻）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28469464",
+          "publishedOn": "2024-08-20T11:53:05.000Z",
+          "wordCount": 34,
+          "title": "受强对流天气影响，这些列车晚点或停运",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28469469",
+          "author": null,
+          "description": "8月20日晚间，广东辰奕智能科技股份有限公司（辰奕智能，301578.SZ）发布股价异动公告，公司2023年归属于上市公司股东的扣除非经常性损益的净利润为9,065.18元，同比下滑6.45%；2024年第一季度归属于上市公司股东的扣除非经常性损益的净利润为1,335.16万元，同比下滑25.06%。公司注意到近期“华为星闪概念”受市场关注较大。经公司核实说明如下：公司星闪样品仅为前期技术储备，目前暂无相关研发项目，也未实质量产。公司供应华为公司的产品主要为蓝牙遥控器和摄像头，不涉及星闪遥控器。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28469469",
+          "publishedOn": "2024-08-20T11:53:05.000Z",
+          "wordCount": 32,
+          "title": "辰奕智能：供应华为公司的产品主要为蓝牙遥控器和摄像头，不涉及星闪遥控器",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28469390",
+          "author": null,
+          "description": "当地时间8月20日，俄罗斯莫斯科巴斯曼区法院批准将4名涉嫌参与“克罗库斯城”音乐厅恐怖袭击人员的羁押候审期延长3个月，至2024年11月22日。这4人分别是尤素福佐达、卢特福尔洛伊、沙里普佐达和库尔博诺夫。\n本月19日，俄罗斯莫斯科市巴斯曼区法院批准了调查机关对另外4名涉嫌参与“克罗库斯城”音乐厅恐怖袭击人员延长羁押候审期限的请求。\n今年3月22日晚，莫斯科近郊“克罗库斯城”音乐厅发生严重恐袭事件。截至3月29日，音乐厅恐袭事件已造成144人死亡、382人受伤，是近年来俄罗斯本土最严重的恐怖袭击事件。（央视新闻）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28469390",
+          "publishedOn": "2024-08-20T11:23:20.000Z",
+          "wordCount": 32,
+          "title": "俄罗斯法院延长4名音乐厅恐袭案嫌疑人羁押期限",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28469436",
+          "author": null,
+          "description": "8月20日，上交所向长城汽车下发监管工作函，处理事由为就长城汽车股份有限公司舆情相关事项发出监管工作函，涉及对象为上市公司、董事、监事、高级管理人员。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28469436",
+          "publishedOn": "2024-08-20T11:23:20.000Z",
+          "wordCount": 32,
+          "title": "上交所就舆情相关事项向长城汽车发出监管工作函",
+          "imageUrl": null
+        },
         {
           "id": "https://www.thepaper.cn/newsDetail_forward_28467912",
           "author": null,
@@ -11938,86 +12128,6 @@
           "wordCount": 61,
           "title": "宁海一企业起诉县政府：竞得采矿权未“净矿”交割，生产遇阻",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_28150840",
-          "author": null,
-          "description": "据卓创资讯，根据往年历史规律来看，白羽肉鸡产品市场存在一定的季节性变化，尤其是在传统节假日的阶段性需求提振下，产品价格和销量呈现出明显波动。然而，2024年上半年白羽肉鸡市场节假日特征强度不明显，“反季节性”的价格下跌情况频繁，而三季度伴随需求回暖表现，预计产品市场季节性变化规律或由弱转强，利多肉鸡产品市场。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_28150840",
-          "publishedOn": "2024-07-22T04:23:04.000Z",
-          "wordCount": 32,
-          "title": "卓创资讯：上半年白羽肉鸡分割品反季节性走势频现，三季度或趋于明朗",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_28150848",
-          "author": null,
-          "description": "7月22日，恒生指数午盘涨0.82%，恒生科技指数涨1.69%。盘面上，AI方向走势喜人，计算机软件、硬件携手上攻，东方甄选大涨10%，小米集团涨逾4%，金山软件、升能集团升超3%；制药、零售涨幅居前，康龙化成上攻7%，和黄医药涨逾5%，美团涨逾2%。\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.run",
-          "link": "https://www.thepaper.cn/newsDetail_forward_28150848",
-          "publishedOn": "2024-07-22T04:23:04.000Z",
-          "wordCount": 32,
-          "title": "恒生指数午盘涨0.82%，恒生科技指数涨1.69%",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_28147648",
-          "author": null,
-          "description": "新华社7月21日受权全文播发《中共中央关于进一步全面深化改革、推进中国式现代化的决定》（下称《决定》）。\n《决定》提出，健全保障和改善民生制度体系，加快建立租购并举的住房制度，加快构建房地产发展新模式。加大保障性住房建设和供给，满足工薪群体刚性住房需求。支持城乡居民多样化改善性住房需求。充分赋予各城市政府房地产市场调控自主权，因城施策，允许有关城市取消或调减住房限购政策、取消普通住宅和非普通住宅标准。改革房地产开发融资方式和商品房预售制度。完善房地产税收制度。\n上海交通大学住房与城乡建设研究中心主任陈杰指出，随着房地产供求关系发生重大变化，房地产调控政策工具也要相应改变和进阶，从原来高度依赖行政化手段转向市场化手段为主，更加注重基于城市住房供需特征和城市发展需求来精准施策。此外，更加强调运用“市场+保障”相结合的机制来进行住房资源配置，并以着力支持住房刚需和释放住房改善需求为中心点进行施策。\n“新时期‘房住不炒’的基本理念仍会坚持，房地产市场会在房地产开发融资及预售制度变革及信贷财税土地相关配套制度的改革完善驱动下，让商品房更加回归商品属性，降低获取门槛，可及性更高，供需匹配更好提升，房地产市场更加平稳健康发展。”陈杰说道。\n加快建立租购并举的住房制度\n《决定》提出，健全保障和改善民生制度体系，加快建立租购并举的住房制度，加快构建房地产发展新模式。\n广东省住房政策研究中心首席研究员李宇嘉提到，打造租购并举的住房制度，写入了党的十九大、党的二十大的报告中，是我国新时期住房制度发展的方向，也是房地产新模式框架中住房供给侧结构性改革的主要内容。\n李宇嘉认为，目前来看，住房需求的主体是新市民、年轻人、外来人口，其中也有工薪阶层和人才群体。他们居住的模式就是先租后买，甚至是长租。租购并举的住房制度，一方面将租房作为重要的、等同于买房的居住形式，要在公共服务上实现均等化，比如租房可以落…",
-          "link": "https://www.thepaper.cn/newsDetail_forward_28147648",
-          "publishedOn": "2024-07-22T03:53:05.000Z",
-          "wordCount": 37,
-          "title": "深读｜中共中央定调房地产政策：充分赋予城市调控自主权，改革商品房预售制度",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_28150803",
-          "author": null,
-          "description": "7月22日，截至午盘，国内期货主力合约涨跌不一，丁二烯橡胶（BR）涨超2%，花生、菜油涨超1.5%。跌幅方面，集运指数（欧线）跌超6%，烧碱跌超4%，焦煤、焦炭、SC原油跌超2%。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_28150803",
-          "publishedOn": "2024-07-22T03:53:05.000Z",
-          "wordCount": 32,
-          "title": "国内期货主力合约涨跌不一，丁二烯橡胶（BR）涨超2%",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_28150806",
-          "author": null,
-          "description": "7月22日，截至11:30，亚太主要股指多数下跌，日经225指数跌1.17%报39593.81点，成分股多数下跌，其中16只个股涨幅超1%，74只个股跌幅超1%。权重股方面，日立跌3.99%，东京电子跌2.25%，三井物产跌1.73%，。涨幅方面中外制药涨0.44%，日本电报电话涨0.31%，软银集团涨0.29%。\n韩国综合指数跌1.36%报2757.34点，成分股多数下跌，其中76只个股涨幅超1%，392只个股跌幅超1%。权重股方面，三星SDI跌3.92%，LG化学跌3.75%，浦项制铁跌2.56%，现代汽车跌2.32%。涨幅方面，赛尔群涨3.25%，新韩金融集团涨2.81%，三星生物制剂涨1.92%，KB金融集团涨1.42%，韩亚金融集团涨0.96%。\n澳洲标普200指数跌0.6%报7923.9点。新西兰标普50指数涨0.4%报12375.0点。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_28150806",
-          "publishedOn": "2024-07-22T03:53:05.000Z",
-          "wordCount": 32,
-          "title": "截至11:30，亚太主要股指多数下跌",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_28150702",
-          "author": null,
-          "description": "7月22日，港股小鹏汽车涨超5%。\n消息面上，小鹏与大众达成战略合作，联合开发电气架构。\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.run",
-          "link": "https://www.thepaper.cn/newsDetail_forward_28150702",
-          "publishedOn": "2024-07-22T03:23:12.000Z",
-          "wordCount": 33,
-          "title": "与大众达成战略合作，港股小鹏汽车涨超5%",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_28150748",
-          "author": null,
-          "description": "7月22日，恒生科技指数涨幅扩大至2%，东方甄选涨近12%领涨成分股。恒生指数涨近1%。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_28150748",
-          "publishedOn": "2024-07-22T03:23:12.000Z",
-          "wordCount": 32,
-          "title": "恒生科技指数涨幅扩大至2%，恒生指数涨近1%",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_28150585",
-          "author": null,
-          "description": "7月22日，商业航天概念震荡走强，上海瀚讯大涨14%，天银机电、超捷股份升超8%，上海沪工触板。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_28150585",
-          "publishedOn": "2024-07-22T02:53:05.000Z",
-          "wordCount": 32,
-          "title": "商业航天概念震荡走强，上海瀚讯大涨14%",
-          "imageUrl": null
         }
       ]
     },
@@ -12026,6 +12136,56 @@
       "feedUrl": "https://www.nationalreview.com/feed/",
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
+        {
+          "id": "https://www.nationalreview.com/?p=1685687",
+          "author": "Rich Lowry",
+          "description": "Like any huckster working in a boiler room, Harris is hoping to find people credulous enough to believes what’s too good to be true.",
+          "link": "https://www.nationalreview.com/2024/08/kamala-harris-is-no-investor/",
+          "publishedOn": "2024-08-20T14:08:18.000Z",
+          "wordCount": 9133,
+          "title": "Kamala Harris Is No Investor",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/08/kamala-harris-25.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1685794",
+          "author": "The Editors",
+          "description": "The impeachment report prepared by House Republicans is an essential part of any record of the Biden-Harris administration.",
+          "link": "https://www.nationalreview.com/2024/08/the-biden-family-scandal/",
+          "publishedOn": "2024-08-20T10:30:34.000Z",
+          "wordCount": 9282,
+          "title": "The Biden Family Scandal",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/08/joe-biden-hunter-biden-white-house.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1683861",
+          "author": "Stephen T. Parente and Theo Merkel",
+          "description": "The cost of the vice president’s vision of government-provided health care, outlined during the 2019 primary, would be stupendous.",
+          "link": "https://www.nationalreview.com/2024/08/quantifying-medicare-for-all-harris-style/",
+          "publishedOn": "2024-08-20T10:30:33.000Z",
+          "wordCount": 9578,
+          "title": "Quantifying Medicare for All, Harris-style",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/08/kamala-harris-16.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1685717",
+          "author": "Rich Lowry",
+          "description": "They can’t handle the truth.",
+          "link": "https://www.nationalreview.com/2024/08/the-media-bristle-at-inconvenient-facts-on-immigration/",
+          "publishedOn": "2024-08-20T10:30:11.000Z",
+          "wordCount": 10260,
+          "title": "The Media Bristle at Inconvenient Facts on Immigration",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/12/border-crisis-122923-12.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1685377",
+          "author": "Itxu Díaz",
+          "description": "Knife violence and mass immigration are merging into a crisis European officials are reluctant to seriously address.",
+          "link": "https://www.nationalreview.com/2024/08/germanys-brilliant-police-strategy-give-us-your-knife-get-free-netflix/",
+          "publishedOn": "2024-08-20T10:30:11.000Z",
+          "wordCount": 14844,
+          "title": "Germany’s Brilliant Police Strategy: Give Us Your Knife, Get Free Netflix",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/08/german-police.jpg?fit=2057%2C1200&ssl=1"
+        },
         {
           "id": "https://www.nationalreview.com/?p=1685383",
           "author": "NR Staff",
@@ -14385,16 +14545,6 @@
           "wordCount": 9341,
           "title": "Canceling cable, &c.",
           "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/07/customer-service-call-center.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1672698",
-          "author": "The Editors",
-          "description": "Dropping out of the race was the first step, but given his rapid mental decline, he should take the logical next step.",
-          "link": "https://www.nationalreview.com/2024/07/joe-biden-should-resign-the-presidency/",
-          "publishedOn": "2024-07-21T22:24:08.000Z",
-          "wordCount": 8509,
-          "title": "Joe Biden Should Resign the Presidency",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/07/joe-biden-desk-oval-office.jpg?fit=2057%2C1200&ssl=1"
         }
       ]
     },
@@ -14403,6 +14553,16 @@
       "feedUrl": "https://sspai.com/feed",
       "siteUrl": "https://sspai.com",
       "articles": [
+        {
+          "id": "https://sspai.com/post/91639",
+          "author": "Matrix机器人",
+          "description": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。一周热评来自 ...查看全文",
+          "link": "https://sspai.com/post/91639",
+          "publishedOn": "2024-08-20T08:47:00.000Z",
+          "wordCount": 1088,
+          "title": "社区速递 058 | 你没见过的社区文章、一周最热评、派友在用的电纸书",
+          "imageUrl": "https://cdnfile.sspai.com/20/8/2024/article/b27fff07-42d1-90d2-cd1c-a3114cd0ee7d.png"
+        },
         {
           "id": "https://sspai.com/post/80972",
           "author": "二一的笔记",
@@ -15402,26 +15562,6 @@
           "wordCount": 715,
           "title": "它的反反复复、你的难以启齿：口腔溃疡二三事",
           "imageUrl": "https://cdnfile.sspai.com/2024/7/19/article/6b3c1922-197b-94ff-acf6-11aed14307e3.jpeg"
-        },
-        {
-          "id": "https://sspai.com/post/90665",
-          "author": "玉树芝兰",
-          "description": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
-          "link": "https://sspai.com/post/90665",
-          "publishedOn": "2024-07-22T03:29:36.000Z",
-          "wordCount": 947,
-          "title": "GraphRAG + GPT-4o mini 低成本构建 AI 图谱知识库",
-          "imageUrl": "https://cdnfile.sspai.com/2024/07/21/3a4b9b7234c4a0589826a3618828cbff.png"
-        },
-        {
-          "id": "https://sspai.com/post/90680",
-          "author": "少数派编辑部",
-          "description": "你可能错过的新鲜事安全软件缺陷导致全球Windows设备故障7月19日，由于安全软件提供商CrowdStrike的软件更新缺陷，全球约850万台Windows系统设备遭遇蓝屏故障并陷入重启循环，受影响 ...查看全文",
-          "link": "https://sspai.com/post/90680",
-          "publishedOn": "2024-07-22T01:03:37.000Z",
-          "wordCount": 1026,
-          "title": "派早报：安全软件缺陷导致全球 Windows 设备故障",
-          "imageUrl": "https://cdnfile.sspai.com/7/22/2024/article/d472847b-6e1b-0bea-0db7-084dfac676f0.png"
         }
       ]
     },
@@ -15430,6 +15570,118 @@
       "feedUrl": "https://plink.anyfeeder.com/idaily/today",
       "siteUrl": "https://idai.ly",
       "articles": [
+        {
+          "id": "idaily-213006",
+          "author": "澳大利亚 · 悉尼",
+          "description": "从澳大利亚悉尼观测「超级月亮」现象。8月20日，全球多个地区观测到2024年首次「超级月亮」现象，当天月球运行至距离地球约36.33万公里的近地点，观测直径比普通满月大14%、亮度提高30%。全球本年度将迎来4次「超级月亮」，未来3次观测时间分别为9月18日、10月17日和11月16日。摄影师：Saeed Khan",
+          "link": "https://m.idai.ly/se/d24C23",
+          "publishedOn": "2024-08-20T10:59:00.000Z",
+          "wordCount": 250,
+          "title": "2024年首个超级月亮 - August 20, 2024",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/e05c78d2/745ee743.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/e05c78d2/745ee743.jpg"
+        },
+        {
+          "id": "idaily-213005",
+          "author": "阿塞拜疆 · 巴库",
+          "description": "俄罗斯总统 Vladimir Putin 与阿塞拜疆总统 Ilham Aliyev 一同参观东正教主教座堂，巴库市。8月19日，俄总统 Putin 应邀对阿塞拜疆进行首次国事访问，两国领导人就双边关系、地区安全及国际局势等议题交换意见，会后发表联合声明并签署6项合作协议。阿塞拜疆总统 Aliyev 强调南高加索地区安全依赖于与俄罗斯密切合作。Putin 表示支持提高阿塞拜疆在上合组织框架内的地位并支持其与金砖国家加强合作，愿尽最大努力推动阿塞拜疆与亚美尼亚关系正常化。俄罗斯是阿塞拜疆第三大贸易伙伴，2023年双边贸易额为43.6亿美元，同比增长17.5%，阿塞拜疆对俄出口本币结算率达70%。摄影师：Vyacheslav Prokofyev",
+          "link": "https://m.idai.ly/se/9ccHlR",
+          "publishedOn": "2024-08-20T09:58:00.000Z",
+          "wordCount": 250,
+          "title": "俄总统访问阿塞拜疆 - August 20, 2024",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/08ac2c9b/debf25d2.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/08ac2c9b/debf25d2.jpg"
+        },
+        {
+          "id": "idaily-213004",
+          "author": "中国 · 北京",
+          "description": "中国国家主席习近平与越共中央总书记、国家主席苏林举行会晤，北京。8月19日，中越两国领导人就双边关系、经贸投资、国际和地区局势等议题交换意见，双方会后发表联合声明并签署14项双边合作文件。习近平指出，中方将越南作为周边外交优先方向，愿同越方积极探讨拓展共建「一带一路」倡议和「两廊一圈」框架对接合作，加快推进铁路、高速公路、口岸基础设施「硬联通」，进一步促进双方在本币结算、本币互换及跨境支付互联互通等领域的合作，中方愿进口更多越南农产品。苏林表示，越方坚定支持中国实现国家统一，反对任何势力干涉中国内政，愿同中方妥善管控海上分歧，共同维护地区和平稳定。摄影师：Andres Martinez Casares",
+          "link": "https://m.idai.ly/se/b30j7k",
+          "publishedOn": "2024-08-20T08:57:00.000Z",
+          "wordCount": 258,
+          "title": "中越最高领导人会晤 - August 20, 2024",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/aada50de/1531772f.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/aada50de/1531772f.jpg"
+        },
+        {
+          "id": "idaily-213002",
+          "author": "德国 · 不来梅",
+          "description": "德国总理 Olaf Scholz 出席新公民入籍仪式，不来梅市政厅。8月19日，德国不来梅市政厅举行新公民入籍仪式，共有来自几内亚、叙利亚、哥伦比亚、约旦、埃塞俄比亚、墨西哥、加纳、俄罗斯和乌克兰的11名外籍移民获得德国国籍。德国新版《国籍法》于2024年6月27日正式生效，该法律允许在德国留居5年的外籍移民申请公民资格，同时大幅简化入籍程序。德国联邦统计局数据显示2023年共有20.01万名外籍人士成为德国公民，同比增长19%，创下1999年以来最高纪录，排名前三的入籍者来源国依次为叙利亚、土耳其和伊拉克。摄影师：Christopher Neundorf",
+          "link": "https://m.idai.ly/se/741oO2",
+          "publishedOn": "2024-08-20T08:55:00.000Z",
+          "wordCount": 250,
+          "title": "德国新公民入籍仪式 - August 20, 2024",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/4f2e4b22/1ff96006.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/4f2e4b22/1ff96006.jpg"
+        },
+        {
+          "id": "idaily-213001",
+          "author": "英国 · 伦敦",
+          "description": "伦敦动物园举行年度动物盘点，一名工作人员正在为一群洪堡企鹅（Humboldt penguin）称重，英国。8月19日，伦敦动物园启动一年一度的动物称重盘点，预计未来一周对园内超过300种1.4万只动物进行身长和体重测量，评估健康状况并筛查受孕个体。洪堡企鹅原产自南美洲秘鲁和智利，野外现存成年个体数量仅约3.2万只，已被列为易危物种。伦敦动物园于2024年4月新孵化出11只洪堡企鹅幼崽，目前这群小企鹅已长出能够防水的硬羽毛并开始学习游泳。摄影师：Wiktor Szymanowicz",
+          "link": "https://m.idai.ly/se/c0dFR7",
+          "publishedOn": "2024-08-20T08:53:00.000Z",
+          "wordCount": 250,
+          "title": "伦敦动物园年度盘点 - August 20, 2024",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/e860589c/3b261cb9.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/e860589c/3b261cb9.jpg"
+        },
+        {
+          "id": "idaily-213000",
+          "author": "日本 · 东京",
+          "description": "日本靖国神社使用蓝布遮挡遭到涂鸦的石柱，东京。8月19日，东京靖国神社入口的石柱遭遇3个月内第2次涂鸦破坏，不明人士在该石柱上使用黑色记号笔写上「厕所」「狗屎」「军国主义去死」等内容。日本警方正在以涉嫌损坏财物罪进行调查，涉事者可能面临三年监禁和30万日元（约合2000美元）罚款。靖国神社供奉着日本明治维新以来的246万名战死者，大部分死于对外侵略战争，包括14名二战甲级战犯，被视为日本「军国主义」的象征。摄影师：Kazuhiro Nogi",
+          "link": "https://m.idai.ly/se/462YUK",
+          "publishedOn": "2024-08-20T08:51:00.000Z",
+          "wordCount": 250,
+          "title": "日本靖国神社再遭涂鸦 - August 20, 2024",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/90b8dde5/c6406600.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/90b8dde5/c6406600.jpg"
+        },
+        {
+          "id": "idaily-212999",
+          "author": "中国 · 南海",
+          "description": "菲律宾海岸警卫队巡逻船蓄意撞击中国海警船后受损，中国南海海域。8月19日，中国海警局通报2艘菲律宾海警船当天未经中国政府允许，非法闯入中国南沙群岛仙宾礁邻近海域，中国海警依法对菲船只采取管控措施，菲律宾海警船无视中方警告，多次以不专业、危险方式故意冲撞正常执法的中国海警船，导致发生擦碰。中国外交部敦促菲方信守承诺，切实遵守同中方达成的共识和安排，不要采取使局势复杂化的举动，同中方共同管控好海上局势。摄影师：Philippine Coast Guard",
+          "link": "https://m.idai.ly/se/05bt5C",
+          "publishedOn": "2024-08-20T08:49:00.000Z",
+          "wordCount": 250,
+          "title": "中菲海警船南海冲撞 - August 20, 2024",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/193369ff/4f94c619.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/193369ff/4f94c619.jpg"
+        },
+        {
+          "id": "idaily-212997",
+          "author": "俄罗斯 · 堪察加半岛",
+          "description": "俄罗斯堪察加半岛希韦卢奇火山（Shiveluch volcano）剧烈喷发。8月18日上午7时10分，俄堪察加半岛东岸远海发生7.0级地震，引发希韦卢奇火山剧烈喷发，火山灰升至8000米高空，并向东和东南方向扩散逾490公里。俄火山地震研究所已发布最高级别航空风险警报，预测该地区未来24小时内有可能发生震级达到9.0的第二次地震。希韦卢奇火山是堪察加半岛最大、最活跃的火山之一，海拔高度为3283米，2022年中期起进入活跃状态。摄影师：Viktor Frolov",
+          "link": "https://m.idai.ly/se/780THM",
+          "publishedOn": "2024-08-20T08:47:00.000Z",
+          "wordCount": 250,
+          "title": "堪察加半岛火山喷发 - August 20, 2024",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/282b9085/5ae2a789.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/282b9085/5ae2a789.jpg"
+        },
         {
           "id": "idaily-212939",
           "author": "泰国 · 曼谷",
@@ -18560,6 +18812,26 @@
       "siteUrl": "http://nytimes.com",
       "articles": [
         {
+          "id": "https://cn.nytimes.com/usa/20240820/hillary-clinton-dnc-harris/dual",
+          "author": null,
+          "description": "ADAM NAGOURNEY2024年8月20日芝加哥，民主党大会首日，希拉里·克林顿发表讲话。 Jamie Kelter Davis for The New York Times\nThe last time Hillary Clinton appeared in person before a Democratic National Convention, the year was 2016, the city was Philadelphia and Mrs. Clinton was accepting her party’s nomination to run for president in what her audience thought would be a shoo-in of a race against Donald J. Trump.\n希拉里·克林顿上一次在民主党全国大会上露面，是2016年，地点在费城，当时她接受了其所在政党的总统候选人提名，而在场的观众则认为，在她与唐纳德·特朗普的选战中，希拉里可以轻松取胜。\n“Standing here as my mother’s daughter, and my daughter’s mother, I’m so happy this day has come,” Mrs. Clinton, the first woman nominated for president by a major party, said that night.\n“我以我母亲的女儿、我女儿的母亲的身份站在这里，对这一天的到来感到欣喜万分，”克林顿在当晚说道，这是第一次有女性成为主要政党的总统提名人。\nEight years later, Mrs. Clinton came out of semiretirement to retur…",
+          "link": "https://cn.nytimes.com/usa/20240820/hillary-clinton-dnc-harris/dual",
+          "publishedOn": "2024-08-20T09:36:01.000Z",
+          "wordCount": 925,
+          "title": "希拉里为贺锦丽站台：这次能否“打破玻璃天花板”？",
+          "imageUrl": "https://static01.nyt.com/images/2024/08/19/us/politics/19pol-Clinton-Speech-1/19pol-Clinton-Speech-1-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/world/20240820/there-is-no-childhood-in-gaza/dual",
+          "author": null,
+          "description": "RAJA ABDUIRAHIM2024年8月20日10月，在加沙中部代尔巴拉赫一家医院的停尸间，哈立德·贾乌德向他的小妹妹告别。 Samar Abu Elouf for The New York Times\nThe war in Gaza had barely begun when 9-year-old Khaled Joudeh suffered an unimaginable loss. His mother, father, older brother and baby sister, along with dozens of other relatives, were all killed in an Israeli airstrike on their home.\n加沙的战争刚刚开始，九岁的哈立德·贾乌德就遭受了难以想象的损失。他的父母、哥哥和襁褓中的妹妹，以及其他几十名亲戚都在以色列的空袭中丧生。\nIn the months that followed, Khaled tried to be brave, his uncle, Mohammad Faris, recalled. He would comfort his younger brother Tamer, who, like Khaled, had survived the Oct. 22 strike that killed their family. But Tamer, 7, was left badly injured with a broken back and a broken leg, and was in constant pain.\n他的叔叔穆罕默德·法里斯回忆说，在接下来的几个月里，哈立德努力表现得勇敢。他会安慰弟弟塔默，塔默和哈立德一样，在10月22日那场夺走家人的袭击中活了下来。…",
+          "link": "https://cn.nytimes.com/world/20240820/there-is-no-childhood-in-gaza/dual",
+          "publishedOn": "2024-08-20T08:06:02.000Z",
+          "wordCount": 1621,
+          "title": "“加沙没有童年”，只有战火、恐惧和死亡",
+          "imageUrl": "https://static01.nyt.com/images/2024/08/17/multimedia/17palestinians-khaled-photoedit-01-vlgz/17palestinians-khaled-photoedit-01-vlgz-articleLarge.jpg"
+        },
+        {
           "id": "https://cn.nytimes.com/books/20240820/prisoner-of-lies-barry-werth/dual",
           "author": null,
           "description": "KEVIN PERAINO2024年8月20日\nPRISONER OF LIES: Jack Downey’s Cold War, by Barry Werth\n《谎言的囚徒——杰克·唐尼的冷战》(Prisoner of Lies: Jack Downey’s Cold War)，巴里·沃斯著\nAt the height of the Cold War, C.I.A. pilots carried a silver dollar attached to a poison-tipped stickpin. Their handlers encouraged them, if their planes went down, to use the pin on themselves to avoid betraying their country.\n在冷战的高峰期，中情局的飞行员会随身携带一枚银元，上面附有一枚毒针。上司鼓励他们，如果飞机坠毁，就把毒针用在自己身上，以免背叛国家。\nOf course, not every spy heeded this advice. In the spring of 1960, the Soviet military shot down the American U-2 pilot Francis Gary Powers and captured him alive, leaving President Dwight D. Eisenhower caught in a quandary. His administration initially issued a false cover story but quickly regretted it. “When the world can entertain not the slightest …",
@@ -19498,36 +19770,6 @@
           "wordCount": 1460,
           "title": "哈里斯能否顺利“接班”拜登？",
           "imageUrl": "https://static01.nyt.com/images/2024/07/21/multimedia/21DC-KAMALAHARRIS-jcbv/21DC-KAMALAHARRIS-jcbv-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/china/20240722/china-economy-third-plenum-decision/dual",
-          "author": null,
-          "description": "KEITH BRADSHER, 储百亮2024年7月22日屏幕上播放了中国国家主席习近平周四在北京出席中共政策会议的新闻画面。 Tingshu Wang/Reuters\nChina engaged in a monthslong drumbeat of anticipation that a Communist Party leaders’ meeting would show the way to a new era of growth for the slowing economy.\n数月来，中国一直在期待共产党领导人的会议将为放缓的经济指明通往增长新时代的道路。\nThe outcome was a plan released on Sunday offering more than 300 steps on everything from taxes to religion. It echoed many familiar themes, like an emphasis on government investments in high-tech manufacturing and scientific innovation. There was little mention of anything that would directly address China’s plunging real estate prices or the millions of unfinished apartments left behind by failed developers.\n会议最终的结果是在周日公布了一项计划，包括从税收到宗教等方方面面的300多项措施。它重复了许多人们耳熟能详的主题，比如强调政府对高科技制造业和科学创新的投资。其中几乎没有提到任何措施，其中几乎没有…",
-          "link": "https://cn.nytimes.com/china/20240722/china-economy-third-plenum-decision/dual",
-          "publishedOn": "2024-07-22T04:06:01.000Z",
-          "wordCount": 793,
-          "title": "解读中共三中全会《决定》：未提出解决经济问题具体方案",
-          "imageUrl": "https://static01.nyt.com/images/2024/07/21/multimedia/21China-Plenum-Decision-1-kfzg/21China-Plenum-Decision-1-kfzg-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/usa/20240722/bidens-decision-throws-the-2024-race-into-disarray-heres-the-latest/dual",
-          "author": null,
-          "description": "MICHAEL D. SHEAR2024年7月22日拜登总统周日在社交媒体平台上宣布，他将不再寻求连任。 Bonnie Cash for The New York Times\nPresident Biden, 81, abandoned his bid for re-election on Sunday as he caved to relentless pressure from his closest allies to drop out of the race amid deep concerns that he was too old and frail to defeat former President Donald J. Trump. Vice President Kamala Harris said she would seek the nomination in his place, and many Democrats quickly lined up behind her after Mr. Biden gave her his endorsement.\n周日，81岁的拜登总统放弃竞选连任，屈服于最亲密盟友要求其退选的无情压力，因为人们深感他太老太弱，无法击败前总统特朗普。副总统卡玛拉·哈里斯表示，她将代替拜登寻求提名，在拜登为她背书后，许多民主党人迅速表达了对她的支持。\n“While it has been my intention to seek re-election, I believe it is in the best interest of my party and the country for me to stand down and focus entirely on fulfilling my duties as presiden…",
-          "link": "https://cn.nytimes.com/usa/20240722/bidens-decision-throws-the-2024-race-into-disarray-heres-the-latest/dual",
-          "publishedOn": "2024-07-22T01:36:02.000Z",
-          "wordCount": 983,
-          "title": "拜登宣布退选：放弃寻求连任，转而支持哈里斯",
-          "imageUrl": "https://static01.nyt.com/images/2024/07/21/multimedia/21-biden-header4-fhwc/21-biden-header4-fhwc-articleLarge-v2.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/business/20240722/jack-ma-xiao-jianhua-takaeaways/dual",
-          "author": null,
-          "description": "傅才德, KATRINA NORTHROP, ELIOT CHEN2024年7月22日\nNo businessman in China was more successful, famous or rich than Jack Ma, whose magic touch turned companies like Alibaba into international juggernauts. He was also unafraid to cross the Chinese authorities, insisting he would not do business with them.\n在中国，马云无疑是最成功、最知名和最富有的商人，他的妙手经营把阿里巴巴这样的公司打造成为国际巨头。他还不怕惹恼中国当局，坚决表示不会跟他们做生意。\nBut an investigation by The New York Times and The Wire China found that another Chinese businessman, with deep connections to relatives of China’s political elite, had been secretly investing in Mr. Ma’s companies. Through a network of shell companies and stand-ins, that businessman, Xiao Jianhua, entered into deals in Mr. Ma’s companies over a period of five years, the investigation found.\n但《纽约时报》和《连线中国》(The Wire China)的一…",
-          "link": "https://cn.nytimes.com/business/20240722/jack-ma-xiao-jianhua-takaeaways/dual",
-          "publishedOn": "2024-07-22T01:36:02.000Z",
-          "wordCount": 1134,
-          "title": "关于时报对马云和肖建华的调查，你需要知道的七个要点",
-          "imageUrl": "https://static01.nyt.com/images/2024/07/21/multimedia/c22china-tomorrow-takeaways-original/c22china-tomorrow-takeaways-original-videoLarge.jpg"
         }
       ]
     },
@@ -20094,16 +20336,6 @@
           "publishedOn": "2024-07-23T02:56:00.000Z",
           "wordCount": 323,
           "title": "纪念詹姆斯·C. 斯科特｜城墙与文字：早期国家是如何形成的？",
-          "imageUrl": null
-        },
-        {
-          "id": "fa49ac12ec3faea82939a7b4235cdce9",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+7%E6%9C%88%EF%BC%8C%E6%88%91%E4%BB%AC%E9%80%89%E5%87%BA%E4%BA%8616%E6%9C%AC%E5%A5%BD%E4%B9%A6",
-          "publishedOn": "2024-07-22T01:58:00.000Z",
-          "wordCount": 303,
-          "title": "7月，我们选出了16本好书",
           "imageUrl": null
         }
       ]
