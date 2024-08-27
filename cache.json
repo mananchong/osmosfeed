@@ -44,16 +44,6 @@
           "wordCount": 5732,
           "title": "R Weekly 2024-W32 Tidymodels, Positron",
           "imageUrl": "https://rweekly.org/public/facebook.png"
-        },
-        {
-          "id": "https://rweekly.org/2024-W31.html",
-          "author": null,
-          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Jon Calder, with help from the R Weekly team members and contributors.\nHighlight\nLet’s Talk About the Weather\n2024 Shiny Contest\nInsights\nR-Ladies Rome: Empowering Women in Data Science Through Collaboration and Innovation\nEmpowering the R Community: Insights from Myles Mitchell of the Leeds Data Science Group\nR in the Real World\nAmerican Idol Episodes’ Viewership\n\nGlobal movement of Happiness ladder with Machine learning in R\nNew Packages\n📦 Go Live for More New Pkgs 📦\n -->\n📦 Keep up to date wtih CRANberries 📦\n{weatherOz} 1.0.0: An API Client for Australian Weather and Climate Data Resources\n{precommit} 0.4.3: Pre-Commit Hooks\n{poldis} 0.1.1: Analyse Political Texts\n{ten…",
-          "link": "https://rweekly.org/2024-W31.html",
-          "publishedOn": "2024-07-29T00:00:00.000Z",
-          "wordCount": 5690,
-          "title": "R Weekly 2024-W31 Oz Weather, Shiny Contest",
-          "imageUrl": "https://rweekly.org/public/facebook.png"
         }
       ]
     },
@@ -589,6 +579,206 @@
       "feedUrl": "https://feedx.net/rss/thepaper.xml",
       "siteUrl": "http://thepaper.cn",
       "articles": [
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28533151",
+          "author": null,
+          "description": "澎湃，澎湃新闻，澎湃新闻网，新闻与思想，澎湃是植根于中国上海的时政思想类互联网平台，以最活跃的原创新闻与最冷静的思想分析为两翼，是互联网技术创新与新闻价值传承的结合体，致力于问答式新闻与新闻追踪功能的实践。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28533151",
+          "publishedOn": "2024-08-27T14:53:03.000Z",
+          "wordCount": 35,
+          "title": "杭州警方：网红“铁头”涉嫌敲诈勒索罪被采取刑事强制措施",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28531437",
+          "author": null,
+          "description": "拼多多  IC 资料图\n\n拼多多业绩仍在高速增长，但股价却出现明显波动。\n8月26日，拼多多（Nasdaq：PDD）发布截至6月30日的2024第二季度财报，数据显示，拼多多二季度营收达到971亿元，同比增长86%，预期则为999.85亿元；归属于普通股股东的净利润为320.1亿元，同比增长144%；归属于普通股股东的非公认会计准则净利润为344.3亿元，同比增长125%。\n值得注意的是，尽管数据仍十分亮眼，拼多多高层在电话会议中，反复强调了利润波动：“在这个过程中，牺牲短期的利润是必须的，管理层已经达成共识，愿意为长期的健康付出巨大的当下代价。未来几个季度的利润也许会有波动、反弹，但长期利润降低的趋势是不可避免的。”拼多多集团执行董事、联席CEO赵佳臻表示。\n值得注意的是，此次财报发布后，拼多多股价大幅跳水，截至发稿跌近30%。\n谈商家治理：将投入百亿资源扶持新质商家\n具体来看，财报分析称，总营收的增长主要是由于在线营销服务和交易服务的收入增加。其中，在线营销服务和其他收入为491.2亿元，同比增长29%；交易服务收入为479.4亿元，同比增长234%。\n拼多多全球化业务多多跨境（Temu）的收入也包含在交易服务收入中，拼多多没有单独给出其营收。\n拼多多对商家的管理受到外界强烈关注。\n“为了平台长期健康的发展，我们将通过‘扶持与治理’并举的方式，继续完善生态建设，未来一年将投入百亿资源包扶持新质商家，并坚决地进行商家生态治理。”拼多多集团董事长、联席CEO陈磊表示，平台的整体规模已经具备了相当的体量，完善生态建设并非一夕之功，管理层已达成一致共识，做好了牺牲短期利润，长期投入的准备。“我们准备接受短期牺牲和潜在的盈利能力下降。”陈磊在财报中表示。\n赵佳臻表示，“我们致力于培育一个健康和可持续的生态系统，让优质商家蓬勃发展。我们将大力支持优质商家，同时坚决打击劣质商家，持续构建健康、可持续的生态系统。”\n拼多多宣布推出交易手续费减免计划，未来一年，预计减免优质商家100亿元交易手续费。目前，拼多多已向商家推出资源位技术服务费、推广软件服务费可退权益。\n在电话会议中，拼多多高层反复强调未来利润可能会下滑。陈磊表示，过去一段时间曾多次强调：过去几个季度的利润增长是短期投入周期和财报周期不同步的结果，不能够作为长期指引，“当前我们的业务正面临着激烈的竞争和一些外部的环境因素影响，这些将必然为我们的业务发展带来波动，收入的增长也会放缓。”\n股东回报方面，拼多多高管表示，当前公司仍然处于投入的阶段。公司业务在多线都面临着激烈的竞争和外部环境所带来的不确定性，“我以及其他的管理层都一致认为，在当前进行资本层面的回购或者分红是不合适的。在我们管理层可预见的未来几年，我们也觉得没有这方面的必要。”\n谈出海：竞争环境不断加剧\n对于拼多多全球化业务多多跨境（Temu）的最新进展，拼多多高管仍然保持了谨慎的态度。\n“我们依然在不断迭代全球化业务的形态。”拼多多高管称，“目前全球化业务已经进入70多个市场，在业务拓展过程中，我们始终将合规思维放在发展的重要前提。随着业务的发展，我们也感受到外部环境变化加速，业务经营受到干扰变多，不确定性显著增加。”\n“我们面临的竞争环境不断加剧，竞争作为电商行业的主旋律是不可避免的。”该高管坦言，“在这样的激烈的竞争环境下，我们的营收增长可能会放缓。比如刚过去的二季度，我们的收入增速就显著下滑，这也说明了高收入的增长其实是不可持续的。”\n据公开资料，多多跨境于2022年9月启动，目前已推动全国百余个制造业产业带的优质产品。Temu于7月29日在泰国正式上线，正式进入其在东南亚的第三个市场，其在全球的增长速度十分惊人。有数据称，Temu在2024年上半年GMV高达约200亿美元，超过2023年全年销售额。截至今年7月，Temu已进驻全球70多个国家和地区。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28531437",
+          "publishedOn": "2024-08-27T14:53:03.000Z",
+          "wordCount": 50,
+          "title": "股价跌近30%！拼多多二季度营收增近九成：准备接受短期牺牲和潜在的盈利能力下降",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28536004",
+          "author": null,
+          "description": "8月27日，华天酒店集团股份有限公司（华天酒店，000428.SZ）发布2024年半年报。\n财务数据显示，今年上半年华天酒店营业收入约3.06亿元（人民币，下同），同比增长0.24%；归母净亏损约7876.91万元，同比增亏5.44%。\n截至本报告披露日，华天酒店直营加托管酒店共40家，已开业39家（直营酒店17家，托管酒店22家），未开业1家，累计拥有会员300余万。报告期内，华天酒店的酒店业实现营业收入约2.61亿元，较上年同期下降2.87%。\n华天酒店指出，酒店业营业收入和净利润下降的主要原因是上半年市场景气度不佳，商务需求仍处于恢复期，旅游需求难以支撑酒店业的经营业绩。\n（澎湃新闻记者 唐莹莹）\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.run",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28536004",
+          "publishedOn": "2024-08-27T14:23:03.000Z",
+          "wordCount": 37,
+          "title": "华天酒店：上半年净亏损约7876.91万元，“市场景气度不佳”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28536003",
+          "author": null,
+          "description": "8月27日，大连圣亚旅游控股股份有限公司（大连圣亚，600593.SH）发布2024年半年报。\n财务数据显示，今年上半年大连圣亚营业收入约2.01亿元（人民币，下同），同比增长10.29%；归母净利润约1228.19万元，同比减少36.47%。\n（澎湃新闻记者 唐莹莹）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28536003",
+          "publishedOn": "2024-08-27T14:23:03.000Z",
+          "wordCount": 37,
+          "title": "大连圣亚：上半年盈利约1228.19万元，同比减少36.47%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28532495",
+          "author": null,
+          "description": "8月27日，中央纪委国家监委网站发布消息：四川省政协原党组副书记、副主席崔保华涉嫌严重违纪违法，目前正接受中央纪委国家监委纪律审查和监察调查。\n公开资料显示，崔保华，男，汉族，1958年11月生，山东巨野人，1978年7月加入中国共产党，1976年12月参加工作，西南交通大学公共管理学院行政管理专业毕业，研究生学历，管理学硕士。\n崔保华早年在原人事部工作，曾任人事部办公厅副主任，2003年9月后长期在四川工作，曾任四川省委副秘书长、省委常委办主任，眉山市委副书记、市政府市长，遂宁市委书记，四川省委统战部部长，四川省政协副主席、省委统战部部长，四川省委常委、统战部部长，四川省政协党组副书记、副主席，2022年1月卸任。\n崔保华被查后，今年1到8月中央纪委国家监委官方公开通报被查的中管干部已升至39人。\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.run",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28532495",
+          "publishedOn": "2024-08-27T13:53:04.000Z",
+          "wordCount": 37,
+          "title": "四川省政协原副主席崔保华被查，今年被查中管干部已有39人",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28534976",
+          "author": null,
+          "description": "记者今天（8月27日）从全国市场监管系统价监竞争守护行动工作推进会上获悉，2024年上半年，各级市场监管部门聚焦维护公平竞争市场秩序、解决人民群众急难愁盼问题，扎实推进价格监督检查和反不正当竞争守护行动，取得积极成效。\n民生领域价格监管质效逐步提升，教育、医疗、旅游等领域价格收费监管持续加强，直播、货运等平台经济领域常态化监管不断推进，节假日稳价保质工作有序开展。\n2024年上半年，各级市场监管部门查办不正当竞争案件6076件，比去年同期增长29.8%，罚没3.78亿元。其中：\n网络不正当竞争案件2157件，占35.5%；\n检查涉企收费单位4.48万家，立案1253件，督促退还违规收费3.93亿元；\n查办民生领域价格违法案件4457件，罚没4.04亿元。\n在助力经济回升向好、增进民生福祉方面作出了积极贡献。（央视新闻）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28534976",
+          "publishedOn": "2024-08-27T13:53:04.000Z",
+          "wordCount": 32,
+          "title": "上半年各级市场监管部门查办不正当竞争案件6076件",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28535766",
+          "author": null,
+          "description": "证券时报网讯，美股三大指数集体低开，道指开盘跌0.13%，纳指跌0.4%，标普500跌0.25%。英伟达跌1.11%，亚马逊跌0.77%，苹果跌0.52%。纳斯达克中国金龙指数涨1.63%，京东涨3.88%，小鹏汽车涨2.8%。（证券时报）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28535766",
+          "publishedOn": "2024-08-27T13:53:04.000Z",
+          "wordCount": 32,
+          "title": "美股三大指数集体低开，京东涨3.88%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28534940",
+          "author": null,
+          "description": "8月27日，国内期货夜盘开盘涨跌不一，沪金跌0.1%，沪铜涨0.41%，沪锡涨逾1%，螺纹跌0.21%，铁矿涨0.66%，焦煤涨近1%，原油跌0.44%。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28534940",
+          "publishedOn": "2024-08-27T13:23:09.000Z",
+          "wordCount": 32,
+          "title": "国内期货夜盘开盘涨跌不一，沪锡涨超1%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28532768",
+          "author": null,
+          "description": "2024年8月27日，内蒙古自治区高级人民法院对上诉人李建平贪污、受贿、挪用公款、纵容黑社会性质组织案二审公开宣判，裁定驳回上诉，维持死刑判决，并依法报请最高人民法院核准。\n\n \n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.run",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28532768",
+          "publishedOn": "2024-08-27T12:53:03.000Z",
+          "wordCount": 39,
+          "title": "呼和浩特经济技术开发区党工委原书记李建平案二审宣判：维持死刑",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28534433",
+          "author": null,
+          "description": "8月27日晚间，探路者控股集团股份有限公司（探路者，300005.SZ)披露半年报，公司上半年实现营业收入7.08亿元，同比增长27.52%；归属于上市公司股东的净利润8550.21万元，同比增长295.64%；基本每股收益0.0997元。报告期内，公司户外业务实现营业收入和利润稳步增长；芯片业务实现营业收入和利润同比大幅增加。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28534433",
+          "publishedOn": "2024-08-27T12:53:03.000Z",
+          "wordCount": 32,
+          "title": "探路者：上半年净利润8550.21万元，同比增长295.64%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28534485",
+          "author": null,
+          "description": "@东方甄选 8月27日晚间发布辟谣声明称，近日，“说书人土土”、“紫霞仙子”等自媒体根据公司财报内容，恶意编造谣言，称“某选外场要向当地收钱”、“向各地政府收取宣传费用”、“董宇辉挡了俞老板的财路”。这些谣言造成了网友朋友们对东方甄选的误解。\n对此，东方甄选澄清如下：东方甄选财报公示的该款项并非向各地文旅收取的“宣传费”，而是合规合法的税收补贴。其中也包含“与辉同行”公司申请的相关补贴（已经打入与辉同行账户）。东方甄选自2022年7月至今，先后在国内23个省、自治区、直辖市举办了省级外景直播专场活动。在此期间，东方甄选从来没有向各地政府收取过所谓“宣传费”，也没有向任何企业、商家收取过“坑位费”。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28534485",
+          "publishedOn": "2024-08-27T12:53:03.000Z",
+          "wordCount": 38,
+          "title": "东方甄选：从来没有向各地政府收取过所谓“宣传费”，也没有向任何企业、商家收取过“坑位费”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28532576",
+          "author": null,
+          "description": "8月27日，上海市房屋管理局发布《关于优化本市新出让商品住房用地套型供应结构的通知》。\n《通知》主要涉及优化新出让商品住房用地中小套型住房建筑面积标准、供应比例以及加强新出让商品住房用地套型结构的区域统筹三个方面。\n《通知》显示，根据本市人均住房建筑面积、家庭人口结构、住房套型的市场需求以及住房建筑设计和施工等情况，本市多层、小高层、高层建筑的商品住房中小套型住房建筑面积标准分别调整为100平方米、110平方米、120平方米。提升住房套型配置均衡性，引导套内空间合理布局。\n原则上，中外环间区域不低于70%，中环以内区域不低于60%，新城和南北转型重点区域不低于60%，外环外其他区域不低于50%。继续将新建各类商品住房用地中配建的5%保障房和15%自持租赁房等纳入商品住房用地套型结构统筹范围。根据市场主体住宅产品适销等情况，符合《关于进一步完善上海市详细规划实施深化的工作意见》中所列住宅套数调整适用情形的，结合统筹实施方案，可适当弹性调整。\n《通知》要求要加强区域协调，相关区（管委会）可根据城市总规、单元规划，对拟规划用作商品住房的地块按照建筑面积总量不变原则，统筹中小套型商品住房；新出让的商品住房地块在一定时间内做好项目统筹平衡；具体地块规划设计条件在土地出让合同中予以明确。\n《通知》明确此次发文是为落实今年5月27日发布的《关于优化本市房地产市场平稳健康发展政策措施的通知》（即“沪九条”），适应房地产市场供求关系的新变化。\n沪九条在优化土地和住房供应中要求，充分发挥城市总规的统领作用，合理把握区域规划时序和开发节奏、结构，着力提升土地资源配置效率，根据区域基础设施、公共配套、产业发展、市场需求等，实现高质量精准供地。完善房地联动机制，差异化调整优化中小套型住房面积标准和比例要求，支持区域统筹、总体平衡，更好促进区域人口、土地、住房协调发展。\n事实上，早在今年3月15日，上海已在土地出让要求中作出调整，告别“7090”政策。“上海土地市场”官网挂出今年第一批次第二轮土拍的6宗宅地，并在出让要求中规定多层、小高层、高层的中小套型住宅建筑面积上限为100平方米、110平方米和120平方米，中小套型占比为50%到70%。同时，6宗地块的中小套型比例要求也进行了下调。 6宗地块中，浦东曹路、闵行浦锦地块要求比例50%，奉贤新城地块要求比例55%，嘉定菊园、静安中兴地块60%，普陀桃浦地块70%。\n在4月16日的出让活动中，6宗宅地全部成交，收金118.86亿元。其中，3宗地块触顶摇号，1宗地块溢价成交，2宗地块底价成交。\n上海易居房地产研究院副院长严跃进表示，此次政策充分说明上海立足供求关系变化和改善型住房需求导向，同时立足“人房地钱”的模式，在户型政策方面做了进一步放宽和引导。严跃进指出，此次政策核心要点就是提高了住房建筑面积的标准。政策规定，本市多层、小高层、高层建筑的商品住房中小套型住房建筑面积标准分别调整为100平方米、110平方米、120平方米。该标准也意味着，后续在新房的建造设计方面，各楼盘项目会有户型更大的房源推出，客观上满足了不同楼盘认购的需求。该标准也在很大程度上说明，传统住房紧缺的时代已经过去，住房产品设计更加注重户型宽敞的导向。\n另一方面，政策明确，优化新出让商品住房用地中小套型住房供应比例，“实际上对于后续不同区域的中小套型的供应结构产生了影响。从此类数据上看，中小户型比重最大的区域是中外环之间，这比较符合目前刚需购房者的购房选择。过去偏远的区域并没有像过去那样刻意强调中小套型，因为类似外环外等区域的比例是50%。换句话说，一些郊区市场本身也在改善型住房产品供给方面发力。”严跃进进一步表示，至于加强新出让商品住房用地套型结构的区域统筹，意味着后续各开发商户型设计方面的灵活性增加，空间增大，这也有助于结合后续购房市场变化等进行产品优化，有助于产品适销对路。\n\n\n \n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.run",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28532576",
+          "publishedOn": "2024-08-27T12:53:03.000Z",
+          "wordCount": 43,
+          "title": "上海优化新出让商品住房用地套型供应结构，告别“7090”政策",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28532432",
+          "author": null,
+          "description": "8月27日，外交部发言人林剑主持例行记者会。法新社记者就加拿大宣布将对从中国进口的电动汽车征收关税一事提问。\n林剑表示，商务部发言人已就此阐明了中方的严正立场，我要强调的是加方此举无视客观事实，罔顾世贸规则，违背历史潮流，是典型的保护主义做法。不仅破坏中加的经贸关系，损害了加企业和消费者的利益，也无助于加绿色转型的进程和全球应对气候变化的努力。中方对此强烈坚决反对。\n林剑指出，补贴补不出产业竞争力，保护主义保护的是落后，失去的是未来。中国电动汽车产业依靠持续的技术创新，完善的产供应链体系和充分的市场竞争快速发展，这是比较优势和市场规律共同作用的结果。\n“中方敦促加方尊重客观事实，遵守世贸组织规则，立即纠正错误的做法，不要将经贸问题政治化。中方将采取一切必要措施，坚定维护中国企业的正当权益。”林剑说。\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.run",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28532432",
+          "publishedOn": "2024-08-27T12:53:03.000Z",
+          "wordCount": 39,
+          "title": "加拿大将对中国电动车征收关税，外交部：罔顾世贸规则，违背历史潮流",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28533456",
+          "author": null,
+          "description": "8月27日晚间，京东方科技集团股份有限公司（京东方A，000725.SZ）披露半年报，2024年上半年公司实现营收933.9亿元，同比增长16.47%；归属于上市公司股东的净利润22.84亿元，同比增长210.41%；基本每股收益0.06元。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28533456",
+          "publishedOn": "2024-08-27T12:23:04.000Z",
+          "wordCount": 32,
+          "title": "京东方A：上半年净利润22.84亿元，同比增长210.41%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28533476",
+          "author": null,
+          "description": "当地时间8月27日，乌克兰总统泽连斯基当天在基辅举行的乌克兰独立论坛上表示，乌军在库尔斯克地区的行动是乌克兰“胜利计划”的要点之一，9月乌克兰将向美国提出乌克兰的“胜利计划”。\n泽连斯基表示目前还不能透露该计划的细节，但将包括几个方面，其中包括库尔斯克地区局势、经济问题，还有乌克兰安全地位等。他表示，乌克兰不准备用领土妥协来进行任何谈判。\n此外泽连斯基透露，在F-16战斗机的协助下，乌克兰在26日俄军对乌最大规模的袭击中击落了一些导弹。泽连斯基另外还表示，不会与俄罗斯续签关于通过乌克兰转运俄罗斯天然气的合同。（央视新闻）\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.run",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28533476",
+          "publishedOn": "2024-08-27T12:23:04.000Z",
+          "wordCount": 32,
+          "title": "泽连斯基：乌克兰9月将提出“胜利计划”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28532773",
+          "author": null,
+          "description": "谭海。 人民日报客户端 资料图\n\n8月27日上午，湖北省石首市人民法院一审公开开庭审理了中国足球协会裁判管理部原部长谭海受贿一案。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28532773",
+          "publishedOn": "2024-08-27T11:53:02.000Z",
+          "wordCount": 45,
+          "title": "中国足球协会裁判管理部原部长谭海受贿案一审开庭",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28530491",
+          "author": null,
+          "description": "近日，有网友发布视频称，8月24日贵阳飞上海的飞机上，两位女乘客因忍受不了一位一岁多的小女孩哭闹，直接把小女孩从奶奶身边抱走，关到机舱厕所“立规矩”。8月26日，澎湃新闻（www.thepaper.cn）记者从吉祥航空获悉，两名女乘客将儿童抱至洗手间教育系祖母同意，过程中儿童的祖母一同前往并在洗手间门口等候。\n\n其中一名女乘客将“教育”女童的视频发到网上。 视频截图\n\n\n网传视频显示，一名女童在飞机厕所内大声哭泣，视频中一名女士说道：“不哭了，就可以出去，你是听得懂的乖宝宝，不哭了，阿姨带你找奶奶。”此前，其中一位女乘客把“教育”小女孩的视频发布到网络上，并提到不让孩子奶奶进厕所，要求孩子答应不哭才能出去，目前该视频已被删除。\n8月26日晚，吉祥航空针对此事回应称，已注意到网传儿童旅客机上哭闹被陌生人带至洗手间教育的事件，立即展开内部调查并联系儿童旅客家长询问情况和核实。\n经了解，8月24日HO2382(贵阳-浦东)航班，该儿童旅客与祖父母共同出行。航班于上午7时许准点起飞，飞行途中该儿童持续哭闹，为避免打扰到其他旅客休息，在其祖母的同意下，两名旅客将儿童抱至洗手间教育，过程中儿童的祖母一同前往并在洗手间门口等候。\n吉祥航空表示，已通过电话与儿童母亲进行情况核实，儿童母亲表示已从祖母处知悉完整事件，同时表示理解。\n回应最后提到，感谢社会各界的关切，感谢网友和媒体的关注和监督，并对HO2382航班的旅客表示感谢。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28530491",
+          "publishedOn": "2024-08-27T11:53:02.000Z",
+          "wordCount": 44,
+          "title": "两女子把哭闹的女童关进机舱厕所“立规矩”？吉祥航空回应",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28533118",
+          "author": null,
+          "description": "8月27日晚间，四川省新能源动力股份有限公司（川能动力，000155.SZ)公告，公司控股股东四川省能源投资集团有限责任公司计划自8月28日起6个月内，以自有资金择机增持公司股份，拟增持股份数量不低于2769.25万股（占公司总股本的1.5%）且不超过3692.34万股（占公司总股本的2%）。此次增持计划不设价格区间。\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.run",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28533118",
+          "publishedOn": "2024-08-27T11:53:02.000Z",
+          "wordCount": 32,
+          "title": "川能动力：控股股东拟增持1.5%-2%公司股份",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28533123",
+          "author": null,
+          "description": "8月27日晚间，深南电路股份有限公司（深南电路，002916.SZ）发布2024年半年度报告，上半年公司实现营业收入83.21亿元，同比增长37.91%；归属于上市公司股东的净利润9.87亿元，同比增长108.32%。营业收入同比增长主要为各业务订单增加影响。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28533123",
+          "publishedOn": "2024-08-27T11:53:02.000Z",
+          "wordCount": 32,
+          "title": "深南电路：上半年净利润9.87亿元，同比增长108.32%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28533085",
+          "author": null,
+          "description": "8月27日，有市场传闻称，北京20家私募已经有审计派驻。此外，网传截图显示，传言称“北上深三地各留60-80家私募即可，其他都可以倒闭。”\n对此，记者向北京多家头部私募了解情况，对方均表示，暂未有审计机构驻场。多位业内人士认为，该传闻真实性不强。不过，有律师认为，全都派驻不太可行，但有可能会采取抽查方式进行检查。（中国证券报·中证金牛座）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28533085",
+          "publishedOn": "2024-08-27T11:23:13.000Z",
+          "wordCount": 33,
+          "title": "北京20家私募被审计派驻？头部私募回应",
+          "imageUrl": null
+        },
         {
           "id": "https://www.thepaper.cn/newsDetail_forward_28532499",
           "author": null,
@@ -11998,36 +12188,6 @@
           "wordCount": 36,
           "title": "2024上半年全国黄金消费量下降5.61%，金条及金币销量暴涨46.02%",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_28232246",
-          "author": null,
-          "description": "7月29日，恒生指数午盘劲升1.81%，恒生科技指数涨1.78%。盘面上，零售强势上攻，金融企稳，阿里巴巴、中升控股大涨5%，东莞农商银行涨逾4%，陆控涨超3%；汽车、新能源概念走低，福耀玻璃、恒大汽车下探7%，赣锋锂业跌逾4%，长城汽车下滑3%。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_28232246",
-          "publishedOn": "2024-07-29T04:23:03.000Z",
-          "wordCount": 32,
-          "title": "恒生指数午盘劲升1.81%，恒生科技指数涨1.78%",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_28211278",
-          "author": null,
-          "description": "太阳毒，晒得满河道堆积的鹅卵石热乎乎。7月23日，李帆和他的两个亲戚穿着雨鞋，徒步溯流而上，在河中央的石块之间翻找着，想寻找被大水冲走的三个亲人。\n三天前，7月20日凌晨2时30分左右，四川省雅安市汉源县马烈乡新华村发生山洪泥石流灾害，石头与大量泥沙翻滚而下，在新华村流向下游马烈村的大窑沟河段形成沙洲，绵延了至少四五公里。\n沙洲之间水流湍急，李帆他们沿摸索出来的路跑跳。23日这一天，仍然什么也没找着。李帆说，前几天在这片石头间找寻亲友的人更多，很多人找不到就放弃了。\n\n大窑沟下游堆积的砂石上，消防员在寻找失联人员\n\n据当地抢险救援指挥部，截至7月22日下午两点半，已搜寻到14具遇难者遗体，有25人失联。\n另据知名科普博主“中国气象爱好者”发布的数据，事发的20日凌晨一点到二点间，新华村上游的一个雨量站录得雨强53.8毫米，3小时内就倾泻100毫米短时大暴雨，降雨量是周围站点的1至3倍。\n这次山洪泥石流发生在雅安，当地地质断裂带纵横，2013年和2019年分别发生了7.0级和4.5级地震。\n在极端天气频发的当下，尤其像雅安这类地质情况复杂的地区，能否在防灾减灾方面做更为充足的预备？我们采访多位灾害亲历者及相关专家，希望从这场灾害中获得启示。\n\n寻找失联亲友的当地人\n\n不起眼的支沟\n新华村八组在山的高处。几位八组村民对记者回忆，7月20日凌晨，大雨来袭，同时停了电。\n村民朱刚一直拿手电筒照着家门前的河，他家房子离河很近，他感到不安全。\n朱刚记得，雨才下了不到一小时，水从更上游涌来：“不是一般的水。”手电的光亮所及之处，大水裹挟很多石头，仿佛有“几十吨、上百吨”那么多，炮弹似地“泼”到他家门前。朱刚知道不好由正门逃生，赶忙叫醒了家人，一家人用绳子拴在楼上彩钢棚的杆杆上，挨个荡下来，再往更高处跑，侥幸逃脱。\n安置在马烈乡中心小学的多名新华村八组村民说，他们村组受灾的严重程度不及地势…",
-          "link": "https://www.thepaper.cn/newsDetail_forward_28211278",
-          "publishedOn": "2024-07-29T03:53:03.000Z",
-          "wordCount": 76,
-          "title": "汉源山洪致灾启示：支流与公路交错引风险，下游建房贴近河谷",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_28232211",
-          "author": null,
-          "description": "7月29日，国内商品期市午盘多数飘绿，化工品领跌，农产品低迷，纯碱、玻璃跌超4%，碳酸锂、氧化铝、红枣、豆粕跌超2%，花生、豆二、苹果、菜粕跌超1%；集运指数（欧线）涨超3%，低硫燃料油、沪金涨超1%。\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.run",
-          "link": "https://www.thepaper.cn/newsDetail_forward_28232211",
-          "publishedOn": "2024-07-29T03:53:03.000Z",
-          "wordCount": 32,
-          "title": "国内商品期市午盘多数飘绿，化工品领跌",
-          "imageUrl": null
         }
       ]
     },
@@ -12036,6 +12196,76 @@
       "feedUrl": "https://www.nationalreview.com/feed/",
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
+        {
+          "id": "https://www.nationalreview.com/?p=1690276",
+          "author": "Steven A. Camarota",
+          "description": "Large-scale immigration allows us to ignore the deterioration in labor-force participation.",
+          "link": "https://www.nationalreview.com/2024/08/trump-is-likely-right-about-illegal-immigrants-accounting-for-job-growth/",
+          "publishedOn": "2024-08-27T10:30:59.000Z",
+          "wordCount": 8076,
+          "title": "Trump Is Likely Right about Illegal Immigrants Accounting for Job Growth",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/06/border-crisis-june-2024-19.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1690728",
+          "author": "The Editors",
+          "description": "At a minimum, Donald Trump should commit to vetoing any federal legislation to enact a national right to abortion or to expand taxpayer funding.",
+          "link": "https://www.nationalreview.com/2024/08/republicans-need-to-take-a-stand-on-abortion/",
+          "publishedOn": "2024-08-27T10:30:48.000Z",
+          "wordCount": 7059,
+          "title": "Republicans Need to Take a Stand on Abortion",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/08/donald-trump-11.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1690955",
+          "author": "Rich Lowry",
+          "description": "Don’t mind her, she’s just trying to say things that sound good.",
+          "link": "https://www.nationalreview.com/2024/08/the-great-price-gouging-walk-back/",
+          "publishedOn": "2024-08-27T10:30:37.000Z",
+          "wordCount": 7091,
+          "title": "The Great Price-Gouging Walk-Back",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/08/kamala-harris-32.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1690795",
+          "author": "Daniel J. Pilla",
+          "description": "The Democratic presidential nominee has only begun to outline her 2024 tax proposals. But her far-left 2020 agenda could provide some hints.",
+          "link": "https://www.nationalreview.com/2024/08/how-radical-will-kamala-harriss-tax-policy-be-look-to-her-past/",
+          "publishedOn": "2024-08-27T10:30:21.000Z",
+          "wordCount": 7596,
+          "title": "How Radical Will Kamala Harris’s Tax Policy Be? Look to Her Past",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2019/06/democratic-debate-2-25.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1690930",
+          "author": "Paul Sherman",
+          "description": "The kind of meat that Florida has banned may or may not catch on. But consumers, not lobbyists, should determine whether it does.",
+          "link": "https://www.nationalreview.com/2024/08/floridas-flawed-beef-with-cultivated-meat/",
+          "publishedOn": "2024-08-27T10:30:20.000Z",
+          "wordCount": 7399,
+          "title": "Florida’s Flawed Beef with Cultivated Meat",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/08/upside-foods-cultured-meat.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1690848",
+          "author": "Howard Husock",
+          "description": "If Harris intends to model her energy policies on California’s ‘net zero’ crusade, then we might expect some of the same negative results.",
+          "link": "https://www.nationalreview.com/2024/08/kamala-harriss-home-state-shows-the-risks-of-green-power/",
+          "publishedOn": "2024-08-27T10:30:19.000Z",
+          "wordCount": 7953,
+          "title": "Kamala Harris’s Home State Shows the Risks of Green Power",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2019/10/wind-farm-usa-1.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1690367",
+          "author": "Jay Nordlinger",
+          "description": "On a style of campaigning, RFK Jr., Viktor Orbán, Gus Walz, Shohei Ohtani, Ronda Rousey, and more.",
+          "link": "https://www.nationalreview.com/2024/08/trumps-daisy-ads-c/",
+          "publishedOn": "2024-08-27T10:30:07.000Z",
+          "wordCount": 7865,
+          "title": "Trump’s daisy ads, &c.",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/08/daisy-ad.jpg?fit=2057%2C1200&ssl=1"
+        },
         {
           "id": "https://www.nationalreview.com/?p=1690683",
           "author": "Dominic Pino",
@@ -14355,16 +14585,6 @@
           "wordCount": 8182,
           "title": "Ten Tax-Reform Ideas for a Trump-Vance Administration",
           "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2020/12/treasury-check-100-bill-ben-franklin.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1676200",
-          "author": "John Fund",
-          "description": "Why we should limit the terms of Supreme Court justices.",
-          "link": "https://www.nationalreview.com/2024/07/yes-president-biden-has-one-good-idea/",
-          "publishedOn": "2024-07-28T22:17:51.000Z",
-          "wordCount": 8841,
-          "title": "Yes, President Biden Has One Good Idea",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/07/Biden-and-SCOTUS.png?fit=2057%2C1200&ssl=1"
         }
       ]
     },
@@ -14373,6 +14593,26 @@
       "feedUrl": "https://sspai.com/feed",
       "siteUrl": "https://sspai.com",
       "articles": [
+        {
+          "id": "https://sspai.com/post/91831",
+          "author": "Matrix机器人",
+          "description": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。🔥一周热评来 ...查看全文",
+          "link": "https://sspai.com/post/91831",
+          "publishedOn": "2024-08-27T08:58:15.000Z",
+          "wordCount": 591,
+          "title": "社区速递 059 | 你没见过的社区文章、一周最热评、派友的黑神话体验",
+          "imageUrl": "https://cdnfile.sspai.com/8/27/2024/article/7ff910f5-d3a6-6450-971b-52b52b09ac1e.png"
+        },
+        {
+          "id": "https://sspai.com/post/88491",
+          "author": "SUNTRISE",
+          "description": "尽管「设置」应用并非完美，但与两套「设置」共存的局面相比，合二为一到「设置」应用的选择也容易让人接受。查看全文",
+          "link": "https://sspai.com/post/88491",
+          "publishedOn": "2024-08-27T07:00:00.000Z",
+          "wordCount": 420,
+          "title": "和控制面板说再见：Windows 系统设置的迁移之路",
+          "imageUrl": "https://cdnfile.sspai.com/8/27/2024/article/6a73fa09-f548-2502-571a-2d6e1b16ad6a.jpeg"
+        },
         {
           "id": "https://sspai.com/post/91599",
           "author": "francisfeng",
@@ -15392,26 +15632,6 @@
           "wordCount": 897,
           "title": "派评 | 近期值得关注的 App",
           "imageUrl": "https://cdnfile.sspai.com/2024/7/29/article/e147cb94-ecfe-90fe-67f3-4bb03d0e53ca.png"
-        },
-        {
-          "id": "https://sspai.com/post/90884",
-          "author": "Cyan_Zhou",
-          "description": "用铝型材自己做一个显示器支架。查看全文",
-          "link": "https://sspai.com/post/90884",
-          "publishedOn": "2024-07-29T03:34:26.000Z",
-          "wordCount": 732,
-          "title": "铝型材 DIY 实录：做一个和桌面更搭的电脑支架",
-          "imageUrl": "https://cdnfile.sspai.com/2024/07/27/47265e58e1c65621b358761bb173327c.png"
-        },
-        {
-          "id": "https://sspai.com/post/90898",
-          "author": "少数派编辑部",
-          "description": "你可能错过的新鲜事淘宝天猫收取软件服务费，放松仅退款规则据《晚点》报道，7月26日，淘天集团宣布对商家规则做出密集调整，重点围绕流量分配、售后服务和平台费用展开。其中最受关注的是，淘天将开始向商家收取 ...查看全文",
-          "link": "https://sspai.com/post/90898",
-          "publishedOn": "2024-07-29T01:01:13.000Z",
-          "wordCount": 990,
-          "title": "派早报：淘宝天猫收取软件服务费，放松仅退款规则",
-          "imageUrl": "https://cdnfile.sspai.com/7/29/2024/article/862e0f98-cb45-9b1b-8375-4c3739917187.png"
         }
       ]
     },
@@ -15420,6 +15640,118 @@
       "feedUrl": "https://plink.anyfeeder.com/idaily/today",
       "siteUrl": "https://idai.ly",
       "articles": [
+        {
+          "id": "idaily-213434",
+          "author": "太空",
+          "description": "JWST 太空望远镜拍摄的一张深空照片呈现宇宙中的古老遥远星系。8月26日，《天文期刊》刊登研究报告指出，很多宇宙远古星系的实际质量可能比科学家此前估算值更小，原因是远古星系中的黑洞吸收物质产生辐射，使其亮度更高，导致根据星系亮度估算的质量数据大于实际值。摄影师：NASA",
+          "link": "https://m.idai.ly/se/ec4DD7",
+          "publishedOn": "2024-08-27T10:59:00.000Z",
+          "wordCount": 230,
+          "title": "黑洞影响星系质量估算 - August 27, 2024",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/5723ca55/e70d5930.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/5723ca55/e70d5930.jpg"
+        },
+        {
+          "id": "idaily-213433",
+          "author": "美国 · 佛罗里达州",
+          "description": "「北极星黎明」（Polaris Dawn）商业载人航天任务的4名宇航员正在进行模拟演练，肯尼迪航天中心。8月26日，SpaceX 宣布载人龙飞船将于8月28日执行「北极星黎明」商业载人飞行任务，本次任务乘组共4名宇航员，包括1名美国空军退役飞行员、2名 SpaceX 工程师和美国亿万富豪 Jared Isaacman，后者将在本次任务中成为人类史上首个进行太空行走的商业乘客。摄影师：SpaceX",
+          "link": "https://m.idai.ly/se/451CGr",
+          "publishedOn": "2024-08-27T09:58:00.000Z",
+          "wordCount": 230,
+          "title": "美国富豪商业太空行走任务 - August 27, 2024",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/835f5cfd/dd759508.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/835f5cfd/dd759508.jpg"
+        },
+        {
+          "id": "idaily-213431",
+          "author": "法国 · 巴黎",
+          "description": "2024巴黎残奥会奖牌向公众展出，吕特斯竞技场。第17届夏季残疾人奥林匹克运动会开幕式将于8月28日在巴黎香榭丽舍大街举行，本届残奥会共设22个大项，赛程持续至9月8日，共有来自182个国家和地区的约4400名运动员参赛，角逐产生549枚金牌。这是法国首次主办夏季残奥会，巴黎市公共交通系统已全面完成无障碍改造。中国代表队共有284名运动员参赛，包括126名男运动员和158名女运动员，平均年龄25.8岁，参加19个大项、302个小项的角逐。摄影师：Jumeau Alexis",
+          "link": "https://m.idai.ly/se/ecbU06",
+          "publishedOn": "2024-08-27T08:57:00.000Z",
+          "wordCount": 230,
+          "title": "巴黎残奥会即将开幕 - August 27, 2024",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/c239dcae/45e0b136.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/c239dcae/45e0b136.jpg"
+        },
+        {
+          "id": "idaily-213430",
+          "author": "韩国 · 釜山",
+          "description": "美国海军「拳师」（Boxer）号两栖攻击舰驶入韩国釜山海军基地。8月26日，美韩军方举行第二届「双龙」联合登陆作战演习，本次演习为师级规模，设立联合司令部进行统一指挥，共出动约40艘军舰、40架飞机和40辆装甲车。韩国军方表示本次演习旨在加强韩美同盟的备战态势和相互操作性，分为装备装载、护送作战、登陆目标区域、决定性攻击四个阶段，演习时间将持续至9月7日。摄影师：Son Hyeong-ju",
+          "link": "https://m.idai.ly/se/1da366",
+          "publishedOn": "2024-08-27T08:55:00.000Z",
+          "wordCount": 230,
+          "title": "美韩「双龙」登陆演习 - August 27, 2024",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/c05544d2/37abe96f.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/c05544d2/37abe96f.jpg"
+        },
+        {
+          "id": "idaily-213429",
+          "author": "德国 · 萨克森州",
+          "description": "一只喀尔巴阡猞猁（Carpathian lynx）被放归森林，德国艾本施托克。8月26日，萨克森州环境部向艾本施托克附近森林放归一只名为「安东」（Anton）的雄性猞猁。这只猞猁来自比利时的一家动物园，年龄1岁半，体重约17.3公斤，放归前已进行为期数周的野化培训。这是德国萨克森州放归野外的第5只猞猁，预计2027年前共放归20只猞猁以促进该物种的野生种群恢复。摄影师：Hendrik Schmidt",
+          "link": "https://m.idai.ly/se/f323cg",
+          "publishedOn": "2024-08-27T08:53:00.000Z",
+          "wordCount": 230,
+          "title": "德国猞猁野化放归 - August 27, 2024",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/10f4eb43/9b0a2675.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/10f4eb43/9b0a2675.jpg"
+        },
+        {
+          "id": "idaily-213428",
+          "author": "中国南海",
+          "description": "中国海警正在拦截菲律宾船艇冲闯中国南海仙宾礁。8月26日，中国海警局通报菲律宾2艘海警船非法冲闯中国南沙群岛仙宾礁邻近海域，中国海警对菲肇事船只依法依规采取管控措施。菲律宾海岸警卫队发布声明称中方在仙宾礁附近海域部署6艘海军舰艇、3艘海警船以及31艘武装渔船，导致菲律宾无法向滞留仙宾礁的船只运送基本物资。摄影师：Jam Sta Rosa",
+          "link": "https://m.idai.ly/se/625WVQ",
+          "publishedOn": "2024-08-27T08:51:00.000Z",
+          "wordCount": 230,
+          "title": "中国海警南海执法 - August 27, 2024",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/42980c6a/49a53119.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/42980c6a/49a53119.jpg"
+        },
+        {
+          "id": "idaily-213427",
+          "author": "乌克兰 · 基辅",
+          "description": "乌克兰民众在地铁站躲避空袭，基辅。8月26日，俄罗斯国防部宣布俄军当天使用高精度远程武器对乌克兰军工综合体的能源设施和武器存放点进行大规模集群打击，所有目标均被摧毁。乌克兰军方通报称俄军共使用127枚导弹和109架无人机，打击范围覆盖乌克兰一半以上领土，造成至少7人死亡、47人受伤。乌克兰国家电力公司宣布全境实施紧急停电。摄影师：Danylo Antoniuk",
+          "link": "https://m.idai.ly/se/a0cyUy",
+          "publishedOn": "2024-08-26T10:57:00.000Z",
+          "wordCount": 230,
+          "title": "俄军大规模空袭乌克兰 - August 26, 2024",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/c531ae82/ab19bdc6.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/c531ae82/ab19bdc6.jpg"
+        },
+        {
+          "id": "idaily-213425",
+          "author": "红海",
+          "description": "一艘悬挂希腊国旗的油轮遭到胡塞武装袭击起火，红海海域。8月22日，也门胡塞武装宣布对希腊籍游轮「苏尼翁」号（Sounion）发起无人机袭击，理由是该船只「违反禁令进入以色列港口」。本次袭击导致「苏尼翁」号油轮发生多次爆炸并失去航行控制力，目前油轮上25名船员和4名安保人员已成功撤离，船内装载的15万吨原油暂未泄漏。2023年10月以巴冲突爆发以来，胡塞武装已对红海和亚丁湾海域超过80艘以色列及欧美船只发动导弹和无人机袭击。摄影师：Eunavfor Aspides",
+          "link": "https://m.idai.ly/se/0b4078",
+          "publishedOn": "2024-08-26T10:55:00.000Z",
+          "wordCount": 230,
+          "title": "胡塞武装袭击希腊油轮 - August 26, 2024",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/b2b78fdd/59b5532b.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/b2b78fdd/59b5532b.jpg"
+        },
         {
           "id": "idaily-213361",
           "author": "俄罗斯 · 莫斯科",
@@ -18522,6 +18854,26 @@
       "siteUrl": "http://nytimes.com",
       "articles": [
         {
+          "id": "https://cn.nytimes.com/opinion/20240827/kamala-harris-china/dual",
+          "author": null,
+          "description": "PETER COY2024年8月27日 Illustration by The New York Times; Images by CSA-Images, via Getty Images\nThe United States needs a strategy for dealing with China as an economic and national security threat, and Donald Trump’s blustery “America First” approach ain’t it. Kamala Harris has a better shot because of her belief in strengthening alliances.\n美国需要制定一项战略，以应对中国的经济和国家安全威胁，而特朗普高调的“美国优先”政策并不能实现这一目标。贺锦丽的机会更大，因为她相信加强联盟的力量。\nIn her acceptance speech at the Democratic National Convention on Thursday, the vice president promised to make sure that “America, not China, wins the competition for the 21st century.” In the same sentence, she hinted at how she intends to make that happen. She promised to “strengthen, not abdicate, our global leadership.”\n在周四的民主党全国代表大会上发表的接受提名演说中，这位副总统承诺要确保“赢得21世纪竞争的是美国，而不是中国”…",
+          "link": "https://cn.nytimes.com/opinion/20240827/kamala-harris-china/dual",
+          "publishedOn": "2024-08-27T10:36:02.000Z",
+          "wordCount": 1400,
+          "title": "贺锦丽该制定怎样的对华战略",
+          "imageUrl": "https://static01.nyt.com/images/2024/08/26/opinion/26-coy-newsletter/26-coy-newsletter-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/technology/20240827/pavel-durov-telegram-founder/dual",
+          "author": null,
+          "description": "孟建国, ADAM SATARIANO2024年8月27日2014年，Telegram创始人帕维尔·杜罗夫。“归根结底，隐私比我们对恐怖主义等坏事发生的恐惧更重要，”他在2015年写道。 Jim Wilson/The New York Times\nMore than a decade ago, when Russia pushed Pavel Durov to shut down the pages of opposition politicians on a Facebook-like site he had created, the tech entrepreneur responded online by posting a cheeky picture of a hoodie-wearing dog with its tongue out.\n十多年前，当俄罗斯敦促帕维尔·杜罗夫在他创建的类似Facebook的网站上关闭反对派政治人士的页面时，这位科技企业家在网上发布了一张放肆的照片，上面是一只穿着连帽衫、吐着舌头的狗。\n“Official response to the intelligence services to the request to block groups,” he wrote unapologetically.\n他毫无歉意地写道：“这是对情报部门要求封锁群组的正式回应。”\nThirteen years later, Mr. Durov’s anti-establishment streak appears to have gotten him into a fresh round of trouble with the authorities. On Saturday, he was arrested in France as part of a…",
+          "link": "https://cn.nytimes.com/technology/20240827/pavel-durov-telegram-founder/dual",
+          "publishedOn": "2024-08-27T09:06:01.000Z",
+          "wordCount": 1468,
+          "title": "Telegram创始人被捕案：捍卫自由的英雄还是犯罪者",
+          "imageUrl": "https://static01.nyt.com/images/2024/08/26/multimedia/DUROV-SUB-1-jwvf/DUROV-SUB-1-jwvf-articleLarge.jpg"
+        },
+        {
           "id": "https://cn.nytimes.com/china/20240827/hong-kong-sex-education-badminton/dual",
           "author": null,
           "description": "OLIVIA WANG, MIKE IVES2024年8月27日在香港打羽毛球。 Jeffrey Greenberg/Universal Images Group, via Getty Images\nA 15-year-old girl and her boyfriend are studying alone together on a hot summer day when she removes her jacket and clings to his shoulder. What should he do?\n炎热的夏天，一个15岁女孩和男朋友单独在一起学习，她脱下外套，依偎在他的肩上。他该做什么呢？\nIn Hong Kong, the authorities advise the young man to continue studying or to seek a diversion, including badminton, to avoid premarital sex and other “intimate behaviors.”\n在香港，政府建议这名年轻男子继续学习或转移注意力，包括去打羽毛球，以避免婚前性行为和其他“亲密的行为”。\nCritics, including lawmakers and sex educators, say that the Chinese territory’s new sex education materials are regressive. But top officials are not backing down, and the standoff is getting kind of awkward.\n包括立法者和性教育者在内的批评人士称，香港这块中国领土上的新版性教育教材是倒退的。但高层官员并没有让步，僵局变得有…",
@@ -19470,26 +19822,6 @@
           "wordCount": 1696,
           "title": "贺锦丽为何很少被视为“亚裔美国人”",
           "imageUrl": "https://static01.nyt.com/images/2024/07/27/multimedia/27nat-harris-asian-vfkb/27nat-harris-asian-vfkb-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/business/20240729/china-solar-energy/dual",
-          "author": null,
-          "description": "KEITH BRADSHER2024年7月29日潍坊的一个太阳能发电场，摄于去年10月。太阳能电池板制造商正在降价，但仍在建厂。 Gilles Sabrié for The New York Times\nOver the past 15 years, China has come to dominate the global market for solar energy. Nearly every solar panel on the planet is made by a Chinese company. Even the equipment to manufacture solar panels is made almost entirely in China. The country’s solar panel exports, measured by how much power they can produce, jumped another 10 percent in May over last year.\n在过去15年里，中国主导了全球太阳能市场。地球上几乎所有的太阳能电池板都是由中国公司制造的。就连生产太阳能电池板的设备也几乎全部在中国制造。根据产生的电力来衡量，今年5月中国的太阳能电池板的出口较去年又增长了10%。\nBut China’s solar panel domestic industry is in upheaval.\n但中国太阳能电池板的国内产业正在经历动荡。\nWholesale prices plummeted by almost half last year and have fallen another 25 percent this year. Chinese manufacturers are competing for custo…",
-          "link": "https://cn.nytimes.com/business/20240729/china-solar-energy/dual",
-          "publishedOn": "2024-07-29T04:36:02.000Z",
-          "wordCount": 1433,
-          "title": "产能过剩、价格大跌：中国太阳能产业陷入动荡",
-          "imageUrl": "https://static01.nyt.com/images/2024/07/22/multimedia/00china-solar-01-hkvb/00china-solar-01-hkvb-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/world/20240729/blinken-wang-yi-china-united-states-tensions/dual",
-          "author": null,
-          "description": "黄安伟2024年7月29日美国国务卿布林肯周六在老挝万象与中国外交部长王毅举行会晤。 Pool photo by Achmad Ibrahim\nSecretary of State Antony J. Blinken pressed his Chinese counterpart Saturday on areas of sharp disagreement between the two nations, including China’s support of Russia’s military industrial sector, the State Department said in a statement.\n据美国国务院的声明，国务卿布林肯上周六就美中两国存在严重分歧的领域，包括它为俄罗斯军工业提供支持的做法，向中国外长施加压力。\nMr. Blinken met with the Chinese official, Wang Yi, on the sidelines of an annual international conference of Southeast Asian nations in the Laotian capital of Vientiane. Also in attendance was Sergey V. Lavrov, the Russian foreign minister, who at one group session blamed the United States for provoking Russia’s full-scale invasion of Ukraine in 2022, a senior State Department official told reporters traveling with Mr.…",
-          "link": "https://cn.nytimes.com/world/20240729/blinken-wang-yi-china-united-states-tensions/dual",
-          "publishedOn": "2024-07-29T02:06:01.000Z",
-          "wordCount": 1357,
-          "title": "布林肯与王毅会面，就中国对俄罗斯军事支持向中方施压",
-          "imageUrl": "https://static01.nyt.com/images/2024/07/27/multimedia/27blinken-laos-mqvz/27blinken-laos-mqvz-articleLarge.jpg"
         }
       ]
     },
@@ -20016,36 +20348,6 @@
           "publishedOn": "2024-07-30T02:05:00.000Z",
           "wordCount": 263,
           "title": "拎着瓶子来打散装“二八酱”，“老国营”里的老味道丨京华物语",
-          "imageUrl": null
-        },
-        {
-          "id": "c9b813c24cd85aae6d040d16ef38fcd7",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E6%B0%91%E5%9B%BD%E5%9B%9E%E5%BF%86%E5%BD%95%E4%B8%AD%E7%9A%84%E4%B8%A4%E4%BB%B6%E7%90%90%E4%BA%8B%EF%BC%8C%E8%AE%B0%E5%BD%95%E4%BA%86%E5%8E%86%E5%8F%B2%E2%80%9C%E6%8D%A2%E6%B0%94%E2%80%9D%E7%9A%84%E7%9E%AC%E9%97%B4%EF%BD%9C%E4%B8%80%E5%8F%B6%E8%AF%86%E6%98%A5%E7%A7%8B",
-          "publishedOn": "2024-07-29T02:13:00.000Z",
-          "wordCount": 312,
-          "title": "民国回忆录中的两件琐事，记录了历史“换气”的瞬间｜一叶识春秋",
-          "imageUrl": null
-        },
-        {
-          "id": "fda7084bcea6d98b293b0f29b822bf30",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E3%80%8A%E4%B8%BA%E6%A0%91%E6%9C%A8%E5%8F%91%E5%A3%B0%E3%80%8B%EF%BC%9A%E6%A0%91%E6%9C%A8%E6%98%AF%E6%88%91%E4%BB%AC%E5%86%85%E5%BF%83%E6%B7%B1%E5%A4%84%E9%82%A3%E4%B8%AA%E2%80%9C%E5%86%85%E5%9C%A8%E5%B0%8F%E5%AD%A9%E2%80%9D%E7%9A%84%E7%88%B6%E6%AF%8D",
-          "publishedOn": "2024-07-29T02:13:00.000Z",
-          "wordCount": 262,
-          "title": "《为树木发声》：树木是我们内心深处那个“内在小孩”的父母",
-          "imageUrl": null
-        },
-        {
-          "id": "bd26d4f7ed49073841461a641dac5b45",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E4%BF%9D%E5%8D%AB%E9%98%B4%E5%BD%B1%EF%BC%9A%E8%A9%B9%E5%A7%86%E6%96%AF%C2%B7C.%20%E6%96%AF%E7%A7%91%E7%89%B9%E7%9A%84%E2%80%9C%E5%BC%B1%E8%80%85%E5%85%B3%E6%80%80%E2%80%9D",
-          "publishedOn": "2024-07-29T02:13:00.000Z",
-          "wordCount": 269,
-          "title": "保卫阴影：詹姆斯·C. 斯科特的“弱者关怀”",
           "imageUrl": null
         }
       ]
