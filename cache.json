@@ -44,16 +44,6 @@
           "wordCount": 5599,
           "title": "R Weekly 2024-W33 Snakes & Ladders, Tables, Deutschland Tour",
           "imageUrl": "https://rweekly.org/public/facebook.png"
-        },
-        {
-          "id": "https://rweekly.org/2024-W32.html",
-          "author": null,
-          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Jon Calder, with help from the R Weekly team members and contributors.\nHighlight\nConverting New York’s Forest Carbon Assessment to Tidymodels\nR package development in Positron\nInsights\nR Consortium Grants Committee Announces New Chair\nPharma RUG: The Rise of R in China’s Pharmaceutical Industry\nR in Organizations\nPositron IDE - A new IDE for data science\nR package development in Positron\n\nAll You Need to Know About Rhino 1.8 and 1.9 Updates: A Fireside Chat\nR in Academia\nEpiLPS for estimation of incubation times\nVersion 1.2.1 of NIMBLE released\nNew Packages\n📦 Go Live for More New Pkgs 📦\n -->\n📦 Keep up to date wtih CRANberries 📦\n{maestro} 0.1.2: Orchestration of Data Pipe…",
-          "link": "https://rweekly.org/2024-W32.html",
-          "publishedOn": "2024-08-05T00:00:00.000Z",
-          "wordCount": 5732,
-          "title": "R Weekly 2024-W32 Tidymodels, Positron",
-          "imageUrl": "https://rweekly.org/public/facebook.png"
         }
       ]
     },
@@ -591,16 +581,6 @@
           "wordCount": 344,
           "title": "李直评《技术封建主义》｜晚期资本主义的悲歌？",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_28307331",
-          "author": null,
-          "description": "《洞穴公案：中华法系的思想实验》，秦涛著，广西师范大学出版社｜大学问，2024年5月出版，192页，69.00元\n\n作为个案的洞穴\n洞阴县的大旱，从华朝本元二年的五月以来，已经持续了将近八个月。大旱引发的大饥荒已经夺走了将近七千条人命，要知道全县总人口也不过十一万。政府的赈灾又迟迟未到，逃荒几乎成了洞阴县百姓想要活命的唯一选项。到了十二月，一对名叫陈千秋、陈祥的父子在把家里事情安排妥当以后，带着所剩无几的粮食也踏上了他们的求生之路。他们的目的地是最近的洞阳县，但前方那片无人荒原正等待着他们的穿越。\n在路上，陈氏父子遇上了一对杨氏兄弟。这对兄弟也是洞阴县的灾民，因为在无人荒原里迷了路，再加上他们已经无粮可吃，兄弟二人实在可怜。陈氏父子先是匀出了一些粮食给杨氏兄弟，随后答应了他们结伴同行的请求。傍晚，四人找到一个洞穴，准备在这里歇脚，往里一看，里面还有一个逃难的医士，于是，五人一起夜宿于此。\n但就在这个夜晚，无情的暴雪席卷了整片荒原。第二天一早，五人发现洞口已经被封。杨氏小弟不信邪，非要钻出去看看，结果再也没有回来。剩下的四个人觉得情况不妙，哪里还敢轻举妄动。五天后，全部粮食吃完了。又过了六天，父亲陈千秋饿晕过去，医士诊断，三日之内得不到食物，陈千秋必死。经过一番内心挣扎，陈祥最终选择杀死了杨氏大哥，用他的血肉救父亲。\n提问：陈祥是否有罪？\n以上便是法律史学者秦涛的《洞穴公案》设定的故事背景与案情梗概。对于“信法律、得永生”的人来说，陈祥杀人一案几乎铁板钉钉，没太多值得思考的必要。但形成对照的是，在秦涛虚构的那个时空里，这个案子却激起了全国上上下下的关心，以至于朝廷不得不启动了集议制度。十四个官员在集议这个平台上，轮流发表对此案的看法，唇枪舌剑，好不热闹，俨然就是古装版的《十二公民》（徐昂导演，何冰、韩童生主演的电影，2014年上映）。\n如果仅仅就这本书写了什么而言，介绍就算完…",
-          "link": "https://www.thepaper.cn/newsDetail_forward_28307331",
-          "publishedOn": "2024-08-05T04:02:03.000Z",
-          "wordCount": 145,
-          "title": "孙少石评《洞穴公案》｜个案的尽头",
-          "imageUrl": null
         }
       ]
     },
@@ -609,6 +589,206 @@
       "feedUrl": "https://feedx.net/rss/thepaper.xml",
       "siteUrl": "http://thepaper.cn",
       "articles": [
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28615560",
+          "author": null,
+          "description": "外交部发言人毛宁宣布：\n应国务院总理李强邀请，西班牙首相桑切斯将于9月8日至11日对中国进行正式访问。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28615560",
+          "publishedOn": "2024-09-03T15:53:02.000Z",
+          "wordCount": 33,
+          "title": "西班牙首相桑切斯将访华",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28612755",
+          "author": null,
+          "description": "北京时间9月2日，中国男足国家队从大连启程飞往日本东京，备战5日傍晚和世预赛18强赛首战和日本队的比赛。双方实力间的巨大差距，让本场比赛从胜负悬念上来说并不大。但伊万科维奇主教练，还是期待自己能够复制三年前带领阿曼队12强赛首战做客击败日本的奇迹。\n\n阿兰和队友们在训练中。\n\n抵达客场，赛前3次训练找状态\n本次客场之旅，中国足协领导班子没有随队。集训期间，只有新近分管负责国足的副主席许基仁抽空前往大连并赴训练场观看了一堂训练课——8月28日中午，借全队共进午餐之机，许基仁为全队做了一番动员。期间，许基仁还结合自身工作中的一些经历，以讲故事的方式鼓励全队，希望大家能够放下思想包袱，打好18强赛。\n考虑到大连往返东京有常备航班，国足此次往返也都是选择民航出行，算是延续了此前36强赛期间不包机的传统。2日上午，国足从大连出发飞往东京，落地后全队也是正常排队出关，随后全体进驻在位于东京市中心的一家酒店，整个旅途算上飞行和出关、抵达酒店也就是四五个小时，不算很久。\n晚间，全队来到J联赛球队东京FC主场味之素体育场旁边的训练场开启首练。伊万科维奇将全部27名球员都带到了日本，2日晚间的训练，除了左后卫刘洋有轻伤没有合练外，其余26名球员全部参加了合练。由于在大连集训最后期间安排了大运动量的训练，因此在东京的几天训练，国足将以调整恢复和技战术演练为主，2日首训身体唤醒和抢圈等内容都是调整恢复内容。\n3日，国足将在同一片场地进行训练，由于日本球场普遍保养较好，球队对于训练场地评价较高，不似以往出国经常遇到坑坑洼洼的场地。而在4日，国足将前往埼玉2002世界杯体育场进行赛前官方训练，满打满算，赛前总共就3次训练课。\n\n拜合拉木在训练中。\n\n日本队提防三年前噩梦重现\n虽然外界对于本次球队客场作战前景普遍悲观，伊万科维奇还是期待能够在客场打出水准，近期技战术演练，36强赛最后一场客场和韩国比赛的4-4-2平行中场体系成为球队首选，客场面对强队，增强中场对防线的保护是伊万释放出比较明确的信号。\n本场比赛预计国足控球率会非常有限，因此在进攻方面，伊万也要求球员打得更加直接，尽可能利用攻防转换的空间。\n对于伊万来说，三年前12强赛首战带领阿曼队击败日本队是一段非常成功的往事，克罗地亚人期待带领国足同样可以在比赛中实现奇迹。不过，日本队方面显然非常在意三年前被爆冷的经历，继名单公布日主教练森保一表示球队不能掉以轻心后，老将长友佑都也在训练后接受采访时表达了对于国足的重视。\n“中国队的主教练是上届世预赛最后阶段比赛阿曼队的主帅伊万科维奇，这的确有些让人不太舒服。”长友佑都坦言中国队有能力给日本队制造麻烦，“说实话，上届世界杯预选赛阿曼让我们做了充分的对策，而中国队的球员在能力和组织性方面都要高于上届的阿曼队，如果让他们针对我们采取了相关策略，那可是会给我们带来很大麻烦的。这一点是最让我感到不舒服的地方。”",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28612755",
+          "publishedOn": "2024-09-03T15:53:02.000Z",
+          "wordCount": 47,
+          "title": "国足抵达日本低调备战，主帅伊万期待复制阿曼奇迹",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28613312",
+          "author": null,
+          "description": "近日，上海业主张先生向澎湃质量观投诉平台（https://tousu.thepaper.cn）反映称，2022年他在上海闵行区购买了一套商品房，如今临近交付却被一再延期，预看房发现房屋存在多处漏水、地板高低不平等质量问题，也迟迟没有得到开发商的整改和回复，“现在怕开发商一直不交房，又怕会被强制收房”。\n针对上述情况，华漕·柏悦前湾项目相关负责人表示，该楼盘项目确实出现了交付日期较合同约定有所延迟的情况，目前正在加紧收尾等待政府验收，计划于近期交付。针对业主反映的问题，正式交付前也会按照相关规范要求整改完毕。\n\n6月预看房业主发现房屋多处出现漏水、渗水情况。\n\n楼盘一再延迟交付，预看房发现问题多多\n据张先生介绍，2022年6月，他看中了上海闵行区碧桂园·柏悦前湾（现名为“华漕·柏悦前湾）小区的一套商品房，并在7月4日和开发商签订了《商品房预售合同》，房屋总价约600万元，合同约定该房屋为精装修交付，交付时间为2024年6月20日。\n然而在交付前夕，张先生却接连收到开发商发布的延期交付告知书，“6月8日说受疫情的影响，预计延期到7月31日交付，到了7月28日，又发告知书，说要延期到八月中下旬交付。”张先生说，如今两次延期，到9月仍未正常交付。\n张先生称，在延期交付之前，开发商曾在房屋各项条件未达标的情况下，就组织业主预看房。“当时房子的公区和套内建设都没有完成，但已经发现了很多质量问题。”\n根据张先生介绍和提供的图片，房屋存在多处漏水、渗水的情况。“我们当时一打开洗手间和厨房的水龙头，下面就开始哗哗的漏水，漏的整个屋子都是水。”张先生说，过半业主反映房屋存在漏水情况。此外，还有20户左右的业主家中出现了“泡水”情况，“墙皮都浮起来了，客厅、房屋、电梯厅的天花板都出现了发黄、有水渍的情况”。\n此外，张先生称，房屋的地板也存在空鼓、高低不平、发软的情况，“踩上去软软的，后来有业主家因泡水把地板全部翘起来，我们才发现地板下面根本没有找平，直接就铺了地暖水管和地板，导致踩上去都是软软的，有些地方的高低差甚至达到了一公分以上”。\n张先生告诉澎湃新闻，发现上述问题后，业主们整理了房屋问题报给开发商，然而7月8日至7月14日，开发商在未经整改的情况下，再次组织业主看房，并强迫业主签字确认，“当时还存在瓷砖空鼓、屋内漏水、多户地板泡水等问题”。\n8月28日，张先生和业主们又接到了第三份延期交付告知书，称交房时间预计延期至9月12日前后。这让张先生非常无奈，“一方面我们反映的问题迟迟没有整改，担心开发商会强制交房，另一方面迟迟不交房，业主们经济压力也很大，都是要一边还房贷，一边付租房租金，还有的业主按照合同规定的6月20日购买了家具、电器，现在还要另外花钱租仓库。”张先生称，目前业主已经无法进入小区内，向开发商询问整改进展也无人回复。\n\n开发商第三次发布延期交付告知书\n\n开发商：计划近期整改交付\n据澎湃新闻了解，涉事楼盘华漕·柏悦前湾的开发商为上海瓴晟房地产开发有限公司，该公司为碧桂园旗下的企业。\n针对上述情况，8月30日，澎湃新闻记者致电华漕·柏悦前湾开发商，该项目相关负责人表示，该楼盘项目受到疫情等综合因素的影响，确实出现了交付日期较合同约定有所延迟的情况，“目前项目正在加紧收尾等待政府验收，计划于近期交付”。\n对于业主们反映的漏水、泡水、地砖等问题，该负责人回应称，项目高度重视业主的意见，对预看房过程中反映的各类问题，将按照相关规范要求在正式交付前整改完毕。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28613312",
+          "publishedOn": "2024-09-03T14:53:02.000Z",
+          "wordCount": 49,
+          "title": "期房一再延期交付多名业主称房屋漏水渗水，开发商：近期整改后交付",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28614278",
+          "author": null,
+          "description": "9月2日，由中国作家协会和共青团中央共同主办的全国青年作家创作会议在北京开幕。\n此次会议上，诺贝尔文学奖获得者、中国作协副主席莫言作了发言。\n\n中国作协副主席莫言为与会青年作家寄语\n\n9月3日，中国作家网刊发了莫言的发言内容。\n他在发言中谈到了自己的一个梦：梦到马斯克来中国招募第一批移民火星的志愿者，我没有犹豫，立刻就报名了。他们通知我去面试，面试的人竟然是我的小学启蒙老师。她问我：“你为什么要去火星？”我说：“因为我没去过。”她又问：“去了之后，你还想回来吗？”我说：“如果能回来当然还想回来，回不来也就算了。”她又问我：“你去了想干什么？”我说：“我去写小说。”她说：“我们已经招了两个写小说的了，你还会写什么？”我说：“我正在学着写剧本。”她说：“我们正好缺一个写剧本的，你被录取了。”接下来老师就问：“你到了火星上，写的内容是什么？”我说：“我写的还是地球啊。”\n他指出，尽管生活的环境是火星，尽管一切都和之前不同，但我的生活积累没办法改变，我是地球上的中国人，这是一个最根本的性质，不会改变。\n“我希望将来，假如我们在座的哪一位青年作家真正到了火星去写作，希望你拿起笔来的时候，能够想起今天上午我的发言。”莫言最后表示。\n公开资料显示，莫言出生于1955年，原名管谟业，山东高密人，中共党员，现任中国作协副主席、中国艺术研究院文学院院长、全国政协委员等。\n他于1986年毕业于解放军艺术学院文学系，后又毕业于北京师范大学鲁迅文学院研究生班，文学硕士；1976年应征入伍，历任战士、班长、教员、干事、专业作家；1997年转业，后在《检察日报》工作。\n莫言从1981年开始发表作品，1985年加入中国作家协会，著有《莫言文集》，影视、话剧剧本多部，中篇小说《红高粱》获全国中篇小说奖，《丰乳肥臀》获首届《大家》文学奖等。他于2004年获法国法兰西“文学与艺术骑士勋章”，2012年获诺贝尔文…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28614278",
+          "publishedOn": "2024-09-03T13:53:22.000Z",
+          "wordCount": 41,
+          "title": "莫言谈自己的梦：要在火星写关于地球的剧本",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28619733",
+          "author": null,
+          "description": "美股三大指数集体低开，道指跌0.48%，纳指跌0.73%，标普500指数跌0.59%。大型科技股普跌，英伟达跌超2%，Arm跌超1%，谷歌、Meta跌近1%。（证券时报）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28619733",
+          "publishedOn": "2024-09-03T13:53:22.000Z",
+          "wordCount": 32,
+          "title": "美股三大指数集体低开，道指跌0.48%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28619112",
+          "author": null,
+          "description": "9月2日，商务部部长王文涛会见南非贸工部长帕克斯·陶。双方重点就巩固深化双方贸易投资合作深入交换意见，为即将举行的两国元首会晤作经贸准备。\n王文涛表示，习近平主席与拉马福萨总统多次会面，为深化中南经贸合作指明了方向。中方愿以两国元首新一轮会晤达成的重要共识为指引，进一步优化两国贸易结构，持续深化两国在绿色能源、数字经济等领域合作，更好发挥经贸“压舱石”作用，推动中南关系与合作稳健发展。\n帕克斯表示，南非致力于发展对华友好务实关系，愿与中方共同推动南中经贸关系纵深发展。南方希望进一步扩大工业品和农产品对华出口，欢迎中国企业积极参加南非投资大会，在南非新能源、数字经济等领域投资兴业。（商务部网站）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28619112",
+          "publishedOn": "2024-09-03T13:23:12.000Z",
+          "wordCount": 33,
+          "title": "商务部部长王文涛会见南非贸工部长帕克斯·陶",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28619146",
+          "author": null,
+          "description": "9月3日，国内期货夜盘开盘多数下跌，燃料油跌超2%，螺纹钢、SC原油跌超1%；涨幅方面，菜粕涨超3%，菜油涨超2%，豆二涨超1%。\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.run",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28619146",
+          "publishedOn": "2024-09-03T13:23:12.000Z",
+          "wordCount": 32,
+          "title": "国内期货夜盘开盘多数下跌，燃料油跌超2%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28615527",
+          "author": null,
+          "description": "9月3日，外交部发言人毛宁主持例行记者会。环球时报环球网记者提问。据报道，美国国会众院中国特设委主席莫伦纳及多名议员日前访问日本，声称此访旨在表达对美日同盟的支持，讨论美日合作对抗中共日益增长的军事经济及意识形态挑衅，敦促日方继续抵制中共恶意经济议程，中方对此有何评论？\n毛宁表示，上述机构出于政治目的，长期抹黑中国和中国共产党，毫无公信力可言。有关政客的言论充斥冷战思维和意识形态偏见，渲染“中国威胁”，鼓噪阵营对抗，中方对此坚决反对。中方一贯认为，国与国之间的合作应当有利于促进地区的和平、稳定与繁荣，不应当针对第三方，更不得损害第三方的利益，拉帮结派，拼凑封闭排他的“小圈子”，与时代潮流背道而驰，不得人心。\n毛宁强调，中方敦促美方政客客观理性看待中国的发展，停止制造阵营对抗，停止挑动“新冷战”，少给地区局势点火浇油。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28615527",
+          "publishedOn": "2024-09-03T13:23:12.000Z",
+          "wordCount": 38,
+          "title": "外交部：美有关政客言论充斥冷战思维，渲染“中国威胁”，中方坚决反对",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28615279",
+          "author": null,
+          "description": "全球第二批100个地质遗产地名录中的中国入选遗产地。\n\n内蒙古自治区乌海市、四川省自贡市、广西壮族自治区桂林市各有一地入选第二批国际地质科学联合会100个地质遗产地名录。\n9月3日上午，在中国科学院南京地质古生物研究所主办相关新闻发布会上，国际地质科学联合会（IUGS，国际地科联）国际地质遗迹委员会副主席、中国地质大学（北京）教授张建平宣布了上述消息。\n“最高”科学相关性、“非凡”地质要素过程的“关键”地点、可作为“全球”参考、独一无二、“最佳”代表，并/或对历史上地质科学的发展作出“重大”贡献，这是国际地科联遗产地的筛选标准。\n地质遗产是真实记录地球46亿年演化历史的不可再生的珍贵资料，是地质学家进行科学研究的野外基地。\n第二批具体的中国入选遗产地分别是：《植物庞贝城——乌达二叠纪植被化石产地》（内蒙古）、《自贡大山铺恐龙化石群遗址》（四川）和《桂林喀斯特》（广西）。它们涉及了古生物学、地貌和地质活动过程等领域。\n发布会上，中国科学院南京地质古生物研究所所长王军、自贡恐龙博物馆馆长曾小芸、中国地质调查局岩溶地质研究所副总工程师陈伟海等三家地质遗产地提案人分别介绍了各自地质遗产地的情况。\n全球第二批100个地质遗产地名录在8月25日至31日于韩国釜山召开的第37届国际地质大会上公布。\n成立于1961年的国际地科联是目前世界上最大、最权威的地球科学团体，目前入会的国家和地区有121个，代表着全球100多万名地质科学家。它也是是联合国教科文组织的官方合作伙伴。\n据澎湃新闻此前报道，2022年10月，全球首批100个地质遗产地名录公布，首批入选的7个中国地质遗产地分别是：珠峰奥陶纪岩石、浙江长兴煤山二叠纪/三叠纪生物大灭绝和“金钉子”、云南澄江寒武纪化石产地和化石库、香港早白垩世酸性火成岩柱状节理、藏南绒布峡谷滑脱构造体系、云南石林喀斯特、内蒙古巴丹吉林沙漠必鲁特高大沙山和湖泊。…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28615279",
+          "publishedOn": "2024-09-03T13:23:12.000Z",
+          "wordCount": 56,
+          "title": "全球第二批100个地质遗产地公布，中国乌海、自贡、桂林等3地入选",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28603959",
+          "author": null,
+          "description": "近日，白俄罗斯总统卢卡申科对外界透露，乌克兰军队已经在白乌两国边境集结了约12万人的部队。为了应对乌军有可能随时发动的、类似于进攻俄罗斯库尔斯克州那样的大规模入侵行动，白俄罗斯也在两国边境部署了约1/3的兵力。\n一时间，乌克兰与白俄罗斯两国之间再次进入到剑拔弩张的军事对峙阶段。那么，白俄罗斯军事实力如何？其国防工业能否支持白俄军队打一场大战？\n\n白俄罗斯装备的“波罗乃兹”300毫米远程制导火箭炮，该炮可与乌军的“海马斯”火箭炮抗衡。\n\n白俄罗斯军事实力如何？\n在对外声明中，白俄罗斯总统卢卡申科只是较为含糊地表示在两国边境地区部署了约1/3的兵力，但是具体有哪些部队和装备并没有细谈。不过，我们可以根据目前的公开资料来做一分析。\n白俄罗斯国土总面积20余万平方公里，总人口940余万人，在整个东欧地区来说是名副其实的小国。所以，白俄罗斯军队的规模也并不算大，而且其属于内陆国家，没有一米的海岸线，只由陆军和空军组成。其中，陆军兵力约4.35万人，空军兵力约2.25万人，再加上国防部机关以及直属部队1.71万人，白俄罗斯的常备正规部队总兵力人数约8.31万人。除此之外，白俄罗斯还有约11万人的准军事部队，主要负责国内安全反恐以及边防警戒等任务。在战时，白俄罗斯国内还有能力集结近30万人的预备役人员（主要是最近5年内退役的军人）。\n那么，根据白俄罗斯总统卢卡申科所说的约1/3兵力，笔者分析应当为陆军和空军总员额的1/3，即大约2万人。因为白俄罗斯军队以往防御的重点方向主要针对北方的拉脱维亚、西北方向的立陶宛以及西部方向的波兰。这三个国家均已加入北约，其领土上也都驻扎有北约各国军队，对白俄罗斯构成了严重威胁。\n而白俄罗斯在与乌克兰接壤的南部方向上，之前一直主要由俄军以及瓦格纳部队帮助其防守。如今，在乌军攻入库尔斯克州、俄军自顾不暇以及瓦格纳部队早已土崩瓦解的情况下，面对乌军12万大军的威…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28603959",
+          "publishedOn": "2024-09-03T12:53:07.000Z",
+          "wordCount": 58,
+          "title": "讲武谈兵｜白乌两国边境对峙升级，白俄罗斯军事实力如何？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28616763",
+          "author": null,
+          "description": "澎湃，澎湃新闻，澎湃新闻网，新闻与思想，澎湃是植根于中国上海的时政思想类互联网平台，以最活跃的原创新闻与最冷静的思想分析为两翼，是互联网技术创新与新闻价值传承的结合体，致力于问答式新闻与新闻追踪功能的实践。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28616763",
+          "publishedOn": "2024-09-03T12:53:07.000Z",
+          "wordCount": 35,
+          "title": "吉林长春通报男子闹事、袭警、夺枪：民警1人殉职2人受伤",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28618640",
+          "author": null,
+          "description": "当地时间9月2日，阿根廷卫生部发布报告称，2024年该国累计确诊22例猴痘病例。\n报告指出，自2022年5月以来，阿根廷已累计确诊猴痘病例1171例。（央视新闻）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28618640",
+          "publishedOn": "2024-09-03T12:53:07.000Z",
+          "wordCount": 33,
+          "title": "阿根廷今年已确诊22例猴痘病例",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28618735",
+          "author": null,
+          "description": "“产业链各环节均处于周期底部，未来价格的向上走势非常明显。”9月2日举行的隆基绿能（601012.SH）半年度业绩说明会上，该公司董事长钟宝申作出判断。他表示，隆基近期的硅片提价“能够站得住”，接下来硅片价格将继续向上，不会再下跌。但行业全面变好的时点仍难预测，影响彻底反转的因素很多。\n根据中报，隆基绿能上半年硅片出货量44.44GW（对外销售21.96GW），电池对外销售2.66GW，组件出货量31.34GW。从各家光伏上市公司披露的中报数据来看，隆基绿能的组件出货量排名行业第四。钟宝申坦言，公司上半年的出货量偏低，从在手订单来看，下半年出货将显著高于上半年。“我们对过去两年及今年出现的‘上半年出货低、下半年出货高’进行了反思，正在积极调整，希望明年业务能更加均衡。”（澎湃新闻记者 杨漾）\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.run",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28618735",
+          "publishedOn": "2024-09-03T12:53:07.000Z",
+          "wordCount": 36,
+          "title": "隆基绿能：硅片价格将继续回升，公司下半年出货量高于上半年",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28616402",
+          "author": null,
+          "description": "记者今天了解到，国家标准委下达《食用植物油散装运输卫生要求》强制性国家标准制定计划的通知。具体内容如下：\n\n国家标准计划《食用植物油散装运输卫生要求》由国家粮食和储备局组织起草，委托全国粮油标准化技术委员会执行。主要起草单位为河南工业大学、南京财经大学、国家粮食和物资储备局科学研究院。\n国家标准化管理委员会关于下达《食用植物油散装运输卫生要求》强制性国家标准制定计划的通知",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28616402",
+          "publishedOn": "2024-09-03T11:53:03.000Z",
+          "wordCount": 37,
+          "title": "事关食用油运输，强制性国家标准制定计划通知下达",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28603989",
+          "author": null,
+          "description": "北京时间9月2日，中国男足一行抵达日本东京，备战9月5日客场和日本队的2026世界杯亚洲区预选赛18强赛首场比赛。本阶段是2026世预赛亚洲区的第三阶段比赛，三个小组的前两名直接获得世界杯入场券，各组中三、四名球队将进入第四阶段的争夺。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28603989",
+          "publishedOn": "2024-09-03T11:53:03.000Z",
+          "wordCount": 46,
+          "title": "中国男足抵达东京，18强赛首轮将于5日客战日本",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28617181",
+          "author": null,
+          "description": "据气象部门最新预报和自然资源部地质灾害技术指导中心综合研判，9月2日—11日，内蒙古、甘肃、青海、宁夏等地部分地区有暴雨、局部大暴雨，局地累计降雨可能接近或达到历史极值，发生地质灾害的风险较高。根据《自然资源部地质灾害防御响应工作方案》，自然资源部决定于2024年9月3日10时启动地质灾害防御Ⅳ级响应。\n自然资源部要求上述省份自然资源主管部门及时组织开展巡查排查，切实做好监测预警、会商研判、灾情险情处置和值班值守、信息报送等工作；中国地质调查局、自然资源部地质灾害技术指导中心加强专家调度、组织协调、会商研判，全力协助指导做好技术支撑等工作。（自然资源部微信公号）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28617181",
+          "publishedOn": "2024-09-03T11:53:03.000Z",
+          "wordCount": 32,
+          "title": "自然资源部对内蒙古、甘肃、青海、宁夏启动地质灾害防御Ⅳ级响应",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28617186",
+          "author": null,
+          "description": "9月3日晚间，上海良信电器股份有限公司（良信股份，002706.SZ)公告，公司拟以2亿元—4亿元回购股份，维护公司价值及股东权益。回购价格不超过9.02元/股。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28617186",
+          "publishedOn": "2024-09-03T11:53:03.000Z",
+          "wordCount": 32,
+          "title": "良信股份：拟2亿元-4亿元回购公司股份",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28614933",
+          "author": null,
+          "description": "近日，网店“小天鹅东山专卖店”称，因运营人员对平台活动规则理解错误，误将全店洗衣机标价设置为成本价的4到5折，导致开售20分钟被拍下近4万单，涉及货值7000余万元，店铺损失高达3000万元。商家恳请买家申请退款，并表示歉意。很多网友支持商家，但也有一些消费者并不买账，认为商家自己操作失误，就该承担后果。\n\n在电商流行的今天，类似因为标错价格引发的纷争，屡见不鲜。就在前几天，一店铺将39元的月饼误标价1元，遭疯抢600万单。随后，店铺表示无法发货并发布了致歉声明，表示这一误操作预计会造成数亿元的经济损失，希望下单的消费者主动退款，也引发广泛讨论。\n电商平台的优惠系统复杂，商家在进行促销活动时，各种优惠叠加，人工操作导致价格设置失误，属于情理之中，确实可以理解。此类消费纠纷的关键在于，这种异常的低价，究竟是无心之失导致的真失误，还是商家刻意为之的刷单营销或炒作？\n目前，当地市场监管局已经介入调查，对于“价格乌龙”的来龙去脉，相信很快就有一个权威的调查结论。\n对于商家来说，尽管道歉视频情感真挚，不像“演的”，但要让消费者信服，不妨主动提供价格设置失误的相关证据。另一方面，哪怕是标错价格，也属于商家疏忽，基于给消费者造成的困扰，光道歉还不够，或许还可以拿出有诚意的补偿方案。\n通常来说，消费者一旦下单，就和商家建立了具有法律约束力的合同关系，商家当然有发货的义务。但法律在保障交易公平的同时，其实也为特殊情况预留了一定的容错空间。《民法典》第一百四十七条规定：“基于重大误解实施的民事法律行为，行为人有权请求人民法院或者仲裁机构予以撤销合同”。\n也就是说，一旦价格设置失误，可能给商家造成严重的经济损失，商家可以“重大误解”为由，请求解除相关订单。当然前提是，商家必须提供充分证据，证明该异常低价确实是由于重大误解所致。\n在类似的风波中，一些下单的用户，坚持不退款，不能全怪他们“贪小便宜”；还有网友质疑商家炒作，这也不能说完全是臆测。现实中，不乏一些商家利用假打折、真刷单的手段进行营销。如果故意设置低价以吸引流量，随后又要求无理由退款，一番营销炒作戏耍完消费者，零成本就能全身而退，无论如何也说不过去。\n所以还是那句话，在呼吁消费者宽容、体谅之前，商家应该积极和消费者沟通，表明确实是操作失误，并提出合理的解决方案。当然，更重要的是回头源头，在设置价格优惠时慎之又慎，避免因为操作不当造成难以挽回的经济损失。\n网购不同于线下购物，订单可能瞬间激增，此前就有一些网店商家，因为标错价被大量下单，损失惨重，最后直接关店。这应当在行业内成为一种警示。\n面对频繁上演的标错价现象，电商平台也应该完善风险管理系统，构建起更为灵敏的异常交易监测机制。一旦发现类似“爆单”的异常情形，立即介入处理，确保在最短时间内控制事态发展，保护商家正当利益。\n对消费者来说，如果商家低价打折并非炒作刷单，那么不妨给予宽容与理解，主动退款。大量下单，甚至将订单在二手平台转卖牟利，如此“薅羊毛”可能涉嫌违法违规。切莫因为眼前的蝇头小利而触碰了法律红线。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28614933",
+          "publishedOn": "2024-09-03T10:53:18.000Z",
+          "wordCount": 39,
+          "title": "马上评丨又见网店被薅羊毛数千万，人们争议的是什么？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28616965",
+          "author": null,
+          "description": "8月26日，中国国家能源局副局长何洋在京会见来访的乌兹别克斯坦矿业与地质部副部长贾马尔·法伊祖拉耶夫。双方就深化中乌铀资源领域合作深入交换意见。\n国家能源局核电司、国际合作司、核电发展中心陪同会见。（ 国家能源局网站）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28616965",
+          "publishedOn": "2024-09-03T10:53:18.000Z",
+          "wordCount": 34,
+          "title": "国家能源局负责人会见乌兹别克斯坦矿业与地质部副部长",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_28616968",
+          "author": null,
+          "description": "9月3日17时，台北检方就台北地方法院裁定台湾民众党主席柯文哲无保请回提出抗告，请求高院撤销原裁定。\n据悉，高院最快将于3日晚或4日作出新裁定，裁定结果有两种：一是驳回抗告，柯文哲确定无保开释；其二是撤销北院原本无保请回的裁定，将全案发回更裁，届时北院将传唤柯文哲重开羁押庭。\n柯文哲被告发在台北市市长任内涉嫌台北京华城容积率弊案，台检廉单位近期持续侦办此案。8月30日，台北地检署和民进党当局“廉政署”将柯文哲带走询问。8月31日，台北检方以涉贪污、违背职务受贿等罪名，向法院申请将台湾民众党主席柯文哲羁押禁见。9月2日凌晨，台北地方法院认为检方举证无法认定柯文哲犯罪嫌疑重大，裁定将其无保请回。（央视新闻）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_28616968",
+          "publishedOn": "2024-09-03T10:53:18.000Z",
+          "wordCount": 33,
+          "title": "台北检方就地方法院裁定柯文哲无保请回提出抗告",
+          "imageUrl": null
+        },
         {
           "id": "https://www.thepaper.cn/newsDetail_forward_28615632",
           "author": null,
@@ -12088,46 +12268,6 @@
           "wordCount": 32,
           "title": "2024年7月份中国仓储指数为46.5%",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_28309944",
-          "author": null,
-          "description": "8月5日，恒生指数午盘跌0.22%，恒生科技涨0.12%。盘面上，地产、保险、多元金融走势活跃，中国再保险大涨11%，新世界发展上攻7%，九龙仓置业升超6%，众安在线涨超3%；能源、制造业低迷，瑞声科技、中国海洋石油下滑5%，比亚迪电子、中国石油股份挫跌3%。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_28309944",
-          "publishedOn": "2024-08-05T04:23:04.000Z",
-          "wordCount": 32,
-          "title": "恒生指数午盘跌0.22%，恒生科技涨0.12%",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_28309999",
-          "author": null,
-          "description": "8月5日，日股午后跌幅再次扩大，日本东证指数日内跌幅扩大至8%，日经225指数跌超7%。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_28309999",
-          "publishedOn": "2024-08-05T04:23:04.000Z",
-          "wordCount": 32,
-          "title": "日股午后跌幅再次扩大",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_28304407",
-          "author": null,
-          "description": "2024年8月1日，上海街头，市民打伞出行。 中新社记者 汤彦俊  图\n\n上海中心气象台8月4日12时21分更新高温橙色预警信号为高温红色预警信号：受副热带高压影响，预计本市中心城区今天的最高气温将达到40℃，高温橙色预警信号更新为高温红色预警信号，请特别加强防范强高温对工农业生产、人体健康的不利影响，确保生产、消防、用电等方面的安全。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_28304407",
-          "publishedOn": "2024-08-05T03:53:03.000Z",
-          "wordCount": 48,
-          "title": "上海发布高温红色预警：预计今天最高气温将达40℃",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_28309038",
-          "author": null,
-          "description": "近日，浙江、江苏、上海、安徽、新疆等地局地出现40～43.9℃的高温天气，7个国家站日最高气温突破当地历史极值。未来几天，南方的大范围高温还会持续，江淮、江南、华南等地超10个省市的最高气温将达37℃以上。值得关注的是，高温核心区仍位于江浙沪一带，这里高温持续时间长、强度大、具有一定极端性。\n江苏浙江福建等地出现持续高温天气\n从7月28日以来，江苏省出现持续高温天气，8月4日，高温强度和范围进一步升级，江苏省气象台8月4日上午升级发布高温红色预警，无锡、常州、镇江的最高气温可达40摄氏度，其他地区37摄氏度以上。\n\n预计本轮高温“超长待机”，将一直持续到8月上旬后期，提醒市民外出务必做好防暑降温措施，尽量不要长时间在户外活动。\n多地气温打破历史最高纪录\n\n截至8月4日16时30分，浙江全省大部分地区突破40℃，杭州主城区最高气温达到41.9摄氏度、桐庐、义乌、永康、缙云等地，均打破当地最高气温纪录。据浙江省气象台预测，8月2日至5日期间为本轮高温最强时段。随着副热带高压西伸加强，浙北地区可能还会出现10天或10天以上的高温天气。\n持续高温天气，高温预警提升为三级\n\n截至8月4日14时，福建南平浦城县、建阳区等地气温突破40℃。福建省气象台4日11时将高温预警从四级提升为三级，据预报，未来七天福建省以高温晴热天气为主，大部分县市城区最高气温将达35℃以上。天气炎热，气象部门提醒公众及时补水，减少户外活动时间，谨防中暑。\n持续高温是否反常？\n这两天的持续高温是否反常？江南多地为何成了“火炉”？来听听气象专家的分析。\n中国气象局天气分析师 周丽贤：这轮高温天气的重心在浙江、上海、江苏一带，对于这些地方来说，正在经历着今年以来最持久也最猛烈的一轮高温天气过程。\n\n像杭州已经是连续三天出现四十多摄氏度的酷热天气，尤其是3日，最高气温达到了41.9摄氏度，这在当地有气象记录以来还从来没有出现过。\n\n而且高温在一天当中持续的时间很长，基本上早晨8、9时就开始高温，即使早晨出门也是有中暑的风险。\n这轮极端的高温主要是受到副热带高压的控制，和常年同期相比，副热带高压非常强势，而且预计本周这样的格局还将持续。\n在本周副热带高压还将会牢牢控制着浙江、上海、江苏等地，对应着这些地方依然是我们国家高温最久，强度最强的地方，最高气温普遍会接近甚至超过40摄氏度。\n\n比如杭州8月5日到11日依然预计会持续40多摄氏度的一个高温酷热天气，再加上最近这三天的40摄氏度的气温，就是连续十天最高气温超过40摄氏度。从高温的连续性来看的话，当地还从来没有出现过这么长的一个40多摄氏度的酷热天气。之前最长的纪录是2013年的八天。\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.run",
-          "link": "https://www.thepaper.cn/newsDetail_forward_28309038",
-          "publishedOn": "2024-08-05T03:53:03.000Z",
-          "wordCount": 52,
-          "title": "江南多地热成“火炉”，持续高温是否反常？专家分析",
-          "imageUrl": null
         }
       ]
     },
@@ -12136,6 +12276,56 @@
       "feedUrl": "https://www.nationalreview.com/feed/",
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
+        {
+          "id": "https://www.nationalreview.com/?p=1695118",
+          "author": "Jay Nordlinger",
+          "description": "On our Puritan fathers; political terms; the Trump campaign; Hong Kong; the NBA; Richard Nixon; and more.",
+          "link": "https://www.nationalreview.com/2024/09/increase-n-cotton-c/",
+          "publishedOn": "2024-09-03T10:30:58.000Z",
+          "wordCount": 7939,
+          "title": "Increase ’n’ Cotton, &c.",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/09/IncreaseMather-CottonMather.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1694036",
+          "author": "The Editors",
+          "description": "Kamala Harris has embraced tax hikes that represent a massive assault on incentives to work harder, to save, and to invest.",
+          "link": "https://www.nationalreview.com/2024/09/the-tax-lady-cometh/",
+          "publishedOn": "2024-09-03T10:30:55.000Z",
+          "wordCount": 7404,
+          "title": "The Tax Lady Cometh",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/08/kamala-harris-3-2.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1693555",
+          "author": "Daniel Buck and Cory Brewer",
+          "description": "Families need not sit idly by while it inserts itself into American schools, nor should they.",
+          "link": "https://www.nationalreview.com/2024/09/how-to-combat-gender-ideology-in-schools/",
+          "publishedOn": "2024-09-03T10:30:18.000Z",
+          "wordCount": 7749,
+          "title": "How to Combat Gender Ideology in Schools",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/08/schoolyard-pride.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1695179",
+          "author": "Rich Lowry",
+          "description": "Nothing she says now matters.",
+          "link": "https://www.nationalreview.com/2024/09/president-harris-would-be-a-transformational-left-winger/",
+          "publishedOn": "2024-09-03T10:30:18.000Z",
+          "wordCount": 7590,
+          "title": "President Harris Would Be a Transformational Left-Winger",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/09/kamala-harris-savannah-ga.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1693926",
+          "author": "Wesley J. Smith",
+          "description": "The medical establishment is laying the groundwork for imposing left-wing political policies from the top down and disguising them as health-related.",
+          "link": "https://www.nationalreview.com/2024/09/get-ready-for-public-health-authoritarianism/",
+          "publishedOn": "2024-09-03T10:30:10.000Z",
+          "wordCount": 7667,
+          "title": "Get Ready for ‘Public Health’ Authoritarianism",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/09/doctors-nurses-hospital.jpg?fit=2057%2C1200&ssl=1"
+        },
         {
           "id": "https://www.nationalreview.com/?p=1695233",
           "author": "John Fund",
@@ -14344,6 +14534,36 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/prime/story/hdr-photo-issues",
+          "author": "广陵止息",
+          "description": "聊聊 HDR 照片显示要克服的这些「重重障碍」，以及苹果是如何通过软硬件功能试图克服这些障碍的。查看全文\n本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
+          "link": "https://sspai.com/prime/story/hdr-photo-issues",
+          "publishedOn": "2024-09-03T13:12:30.000Z",
+          "wordCount": 324,
+          "title": "正确显示 HDR 照片，怎么就这么难？",
+          "imageUrl": "https://cdnfile.sspai.com/9/3/2024/article/90080ae2-bc46-7710-a2c8-691c421a2e38.jpeg"
+        },
+        {
+          "id": "https://sspai.com/post/91985",
+          "author": "Matrix机器人",
+          "description": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。🔥一周热评来 ...查看全文",
+          "link": "https://sspai.com/post/91985",
+          "publishedOn": "2024-09-03T09:06:49.000Z",
+          "wordCount": 610,
+          "title": "社区速递 060 | 你没见过的社区文章、一周最热评、中秋国庆去哪玩",
+          "imageUrl": "https://cdnfile.sspai.com/9/3/2024/article/8e496871-29e1-afea-64ca-0c66a3602245.png"
+        },
+        {
+          "id": "https://sspai.com/post/91989",
+          "author": "Vanilla",
+          "description": "根据最近一段时间国内外的各种爆料，我整理了传闻中发布会上可能会出现的新产品和新特性，带大家一起看看今年可能会有哪些亮点。查看全文",
+          "link": "https://sspai.com/post/91989",
+          "publishedOn": "2024-09-03T07:31:51.000Z",
+          "wordCount": 716,
+          "title": "Apple 发布会前瞻：屏幕更大、AI 更强，除了 iPhone 还有哪些看点？",
+          "imageUrl": "https://cdnfile.sspai.com/2024/9/3/article/440f2210-d6b4-c0b5-8351-de1ed1506668.png"
+        },
+        {
           "id": "https://sspai.com/post/91983",
           "author": "吃派的水獭",
           "description": "各位少数派的读者们，大家好，为了创造更多和大家面对面交流的机会，少数派门店计划从7月开始每月组织至少一次的线下活动。前三期，从音乐品析、手工花艺，再到游戏研讨，我们无所不谈。一起度过了几个放松、愉快又 ...查看全文",
@@ -15372,26 +15592,6 @@
           "wordCount": 800,
           "title": "App+1 | Mebot 离真正「懂你」的小助手还有多远？",
           "imageUrl": "https://cdnfile.sspai.com/2024/08/03/22942885c47e1a500d1b5e2e1b78aa5f.png"
-        },
-        {
-          "id": "https://sspai.com/post/90074",
-          "author": "程天冲",
-          "description": "编注我们启动了「FUN开玩」户外生活专题，欢迎大家前来分享与之有关的旅行、露营、徒步乃至摄影和户外好物等内容，大家可以带上「FUN开玩」标签投稿相关文章，除了稿酬可拿，我们还会提供神秘惊喜。与此同时， ...查看全文",
-          "link": "https://sspai.com/post/90074",
-          "publishedOn": "2024-08-05T03:18:46.000Z",
-          "wordCount": 714,
-          "title": "城市漫步指南：海风、海景，神户人的霓虹生活",
-          "imageUrl": "https://cdnfile.sspai.com/2024/06/30/0c142a97e428d5e1416c3790f9407703.jpeg"
-        },
-        {
-          "id": "https://sspai.com/post/91149",
-          "author": "少数派编辑部",
-          "description": "你可能错过的新鲜事苹果就内购分成问题向腾讯和字节跳动施压据彭博社报道，苹果近期向腾讯和字节跳动施压，要求确保微信和抖音等应用的内容类和游戏类等数字产品均使用苹果内购系统。据知情人士透露，苹果近期要求两 ...查看全文",
-          "link": "https://sspai.com/post/91149",
-          "publishedOn": "2024-08-05T01:01:14.000Z",
-          "wordCount": 951,
-          "title": "派早报：苹果就内购分成问题向腾讯和字节跳动施压",
-          "imageUrl": "https://cdnfile.sspai.com/8/5/2024/article/318c328d-ffa1-e982-0d1d-05a6f52e3753.png"
         }
       ]
     },
@@ -15400,6 +15600,90 @@
       "feedUrl": "https://plink.anyfeeder.com/idaily/today",
       "siteUrl": "https://idai.ly",
       "articles": [
+        {
+          "id": "idaily-213764",
+          "author": "墨西哥 · 墨西哥城",
+          "description": "墨西哥总统 Andres Manuel Lopez Obrador 在宪法广场发表任期内最后一份政府工作报告，墨西哥城。9月1日，墨西哥总统 Lopez Obrador 在长达2小时演讲中回顾任期内的主要政绩，包括新增200万个就业岗位、实现950万人口脱贫、最低工资增幅超过100%、贫富差距倍数缩小至15倍、犯罪率下降-24.8%等。他表示任内成功扭转墨西哥「新自由主义时期」的国家衰落趋势，让墨西哥成为「真正的民主国家」，自己将「问心无愧地退休」。现年70岁的 Lopez Obrador 将于10月1日正式卸任，目前民调支持率仍高达73%。摄影师：Victor Mendiola",
+          "link": "https://m.idai.ly/se/cba1I1",
+          "publishedOn": "2024-09-03T09:59:00.000Z",
+          "wordCount": 282,
+          "title": "墨西哥总统施政报告 - September 3, 2024",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/7ec9cd9f/fde48ba9.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/7ec9cd9f/fde48ba9.jpg"
+        },
+        {
+          "id": "idaily-213763",
+          "author": "美国 · 华盛顿",
+          "description": "美国总统 Joe Biden 和副总统 Kamala Harris 在白宫战情室会见美方人质协议谈判小组，华盛顿特区。9月1日，以色列军方宣布在加沙地下隧道中发现6名人质遗体，遇难者均在以军接近前被看守处决，其中包括一名23岁以色列裔美国公民。当天以色列约70万人走上街头抗议要求以色列政府尽快与哈马斯组织达成停火协议以确保人质安全。以色列总理 Benjamin Netanyahu 重申以军将彻底消灭哈马斯并取得战争胜利。联合国安理会将于9月4日召开首次人质问题紧急会议，目前仍有101名人质被哈马斯扣押。摄影师：The White House",
+          "link": "https://m.idai.ly/se/1942L6",
+          "publishedOn": "2024-09-03T08:58:00.000Z",
+          "wordCount": 282,
+          "title": "美国施压以军停火谈判 - September 3, 2024",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/959932da/304a83b4.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/959932da/304a83b4.jpg"
+        },
+        {
+          "id": "idaily-213762",
+          "author": "蒙古国 · 乌兰巴托",
+          "description": "俄罗斯总统 Vladimir Putin 与蒙古国总统 Ukhnaagiin Khurelsukh 举行会晤，乌兰巴托。9月2日，俄总统 Putin 应邀对蒙古国进行正式访问，主要行程包括会晤蒙古国总统、出席苏蒙联合抗日胜利85周年纪念仪式等，双方预计将签署多份合作文件。Putin 在会晤中强调俄罗斯和蒙古国之间的关系将全面发展，并邀请蒙古国总统参加俄罗斯喀山举行的金砖国家领导人第十六次会晤。俄罗斯是蒙古国第二大贸易伙伴，2024年前7个月俄蒙双边贸易额超过14亿美元，俄罗斯向蒙出口额同比增长22.1%。摄影师：Vyacheslav Prokofyev",
+          "link": "https://m.idai.ly/se/5dc3eU",
+          "publishedOn": "2024-09-03T07:57:00.000Z",
+          "wordCount": 282,
+          "title": "普京访问蒙古国 - September 3, 2024",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/2472e6d4/9e2c82ca.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/2472e6d4/9e2c82ca.jpg"
+        },
+        {
+          "id": "idaily-213761",
+          "author": "中国空间站",
+          "description": "「神舟十八号」乘组航天员在天和核心舱内开展科研工作，中国天宫空间站。9月1日，中国载人航天工程办公室公布「神舟十八号」乘组最新在轨工作视频，驻站航天员在空间科学实验、站内环境监测、站务管理等方面工作进展顺利。「神舟十八号」乘组迄今在轨驻留超过4个月，预计2024年10月下旬返航。本次任务指令长叶光富在轨飞行总时长已超过300天，目前为在轨飞行时间最长的中国航天员。摄影师：CMS",
+          "link": "https://m.idai.ly/se/1039m4",
+          "publishedOn": "2024-09-03T07:55:00.000Z",
+          "wordCount": 282,
+          "title": "神舟十八号乘组在轨工作 - September 3, 2024",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/b6bbf167/e0f3a58b.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/b6bbf167/e0f3a58b.jpg"
+        },
+        {
+          "id": "idaily-213760",
+          "author": "韩国 · 巨济",
+          "description": "美国海军「沃利·施艾拉」号补给舰停靠在韩华海洋造船厂准备检修，韩国巨济市。9月3日，韩国三大造船巨头之一的韩华海洋启动美国海军「沃利·施艾拉」号补给舰的维护检修作业，预计耗时3个月。这艘美军补给舰长210米、宽32.2米，排水量4万吨，主要负责运送弹药、食物、燃料和武器零件等战备物资。这是韩国造船厂首次承揽美国海军舰艇检修业务。根据美韩7月签署的《主船维修协议》，韩华海洋造船厂将在未来5年向美国海军提供后勤舰艇检修服务。摄影师：Hanwha Ocean Co.",
+          "link": "https://m.idai.ly/se/d8fdZd",
+          "publishedOn": "2024-09-03T07:53:00.000Z",
+          "wordCount": 282,
+          "title": "韩国船厂检修美国军舰 - September 3, 2024",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/d415ccfd/0c4b98e4.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/d415ccfd/0c4b98e4.jpg"
+        },
+        {
+          "id": "idaily-213759",
+          "author": "伊拉克 · 摩苏尔",
+          "description": "俯瞰重建过程中的伊拉克努里大清真寺（Al-Nuri mosque），摩苏尔。努里大清真寺建成于公元1172年，2017年被伊斯兰国极端组织炸毁，2018年获得联合国资助启动重建工程，预计2024年底完工。9月1日，伊拉克总理 Mohammed Shia Al-Sudani 宣布伊斯兰国极端组织已不再对伊拉克造成威胁，该国境内绝大多数伊斯兰国武装分子已被消灭，伊拉克将结束美国主导的「全球反伊斯兰国联盟」的驻军授权。目前美军在伊拉克境内部署约2500名士兵，伊拉克政府要求美方在2025年9月前完成撤军。摄影师：Zaid Al-Obeidi",
+          "link": "https://m.idai.ly/se/a16VCn",
+          "publishedOn": "2024-09-03T07:51:00.000Z",
+          "wordCount": 284,
+          "title": "伊拉克解除 IS 威胁 - September 3, 2024",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/548cb197/cc6b4fd9.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/548cb197/cc6b4fd9.jpg"
+        },
         {
           "id": "idaily-213716",
           "author": "国际空间站",
@@ -18390,6 +18674,26 @@
       "siteUrl": "http://nytimes.com",
       "articles": [
         {
+          "id": "https://cn.nytimes.com/world/20240903/putin-mongolia/dual",
+          "author": null,
+          "description": "VALERIE HOPKINS, DAVID PIERSON2024年9月3日周二，在蒙古首都乌兰巴托举行的官方欢迎仪式上，俄罗斯总统普京与蒙古总统乌赫那·呼日勒苏赫。 Byambasuren Byamba-Ochir/Agence France-Presse — Getty Images\nPresident Vladimir V. Putin of Russia began meetings with the leader of Mongolia on Tuesday in his first state visit to a member of the International Criminal Court since it issued a warrant for his arrest in March 2023.\n\n俄罗斯总统普京周二会见了蒙古国领导人，这是自2023年3月国际刑事法院对其发出逮捕令以来，他首次对国际刑事法院成员国展开国事访问。\nIn advance of Mr. Putin’s trip, the I.C.C. stated that Mongolia was obligated to arrest Mr. Putin, but Mongolia is heavily dependent on Russia for fuel, and an arrest was considered extremely unlikely.\n在普京出访前，国际刑事法院表示，蒙古国有义务逮捕普京，不过由于该国在燃料方面严重依赖俄罗斯，外界认为蒙古逮捕普京的可能性极小。\n\nFar from being arrested, Mr. Putin was given a red-carpet welcome in the central square of the Mong…",
+          "link": "https://cn.nytimes.com/world/20240903/putin-mongolia/dual",
+          "publishedOn": "2024-09-03T09:06:01.000Z",
+          "wordCount": 1289,
+          "title": "石油大于国际法？蒙古无视国际逮捕令欢迎普京",
+          "imageUrl": "https://static01.nyt.com/images/2024/10/02/multimedia/02putin-mongolia-pzck/02putin-mongolia-pzck-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/business/20240903/china-economy-consumption/dual",
+          "author": null,
+          "description": "DAISUKE WAKABAYASHI, CLAIRE FU2024年9月3日出口激增有助于推动中国经济增长，但削弱了关键行业的盈利能力，并招致贸易伙伴的强烈反对。 Qilai Shen for The New York Times\nIn 2004, as China’s economy was emerging as a global force, a group of researchers started conducting nationwide surveys asking Chinese people if they were better off financially than they were five years earlier.\n2004年，随着中国经济逐渐成为一股全球力量，一组研究人员开始在全国范围内进行调查，询问中国人的财务状况是否比五年前更好。\nThe percentage who felt wealthier climbed when surveyed five years later and again in 2014, when it reached a high of 77 percent.\n在五年后的调查中，认为自己更富有的比例有所上升，2014年再次攀升，达到77%的高点。\nLast year, when respondents were asked the same question, that figure dropped to 39 percent.\n去年，当受访者被问及同样的问题时，这一数字降至39%。\nThe results of that survey, titled “Getting Ahead in Today’s China: From Optimism to Pessimism,” speak to a new …",
+          "link": "https://cn.nytimes.com/business/20240903/china-economy-consumption/dual",
+          "publishedOn": "2024-09-03T07:36:02.000Z",
+          "wordCount": 1543,
+          "title": "中国重振经济为何这么难",
+          "imageUrl": "https://static01.nyt.com/images/2024/08/30/multimedia/00China-Economy-01-zgml/00China-Economy-01-zgml-articleLarge.jpg"
+        },
+        {
           "id": "https://cn.nytimes.com/china/20240903/china-rainfall-crops/dual",
           "author": null,
           "description": "TIFFANY MAY, CLAIRE FU2024年9月3日受强降雨影响，中国的蔬菜作物受损，蔬菜价格已在近几周出现上涨。 Agence France-Presse — Getty Images\nAfter weeks of drought, farmers in the typically arid agricultural belt in northern China were ill prepared for the torrential rain that inundated fields earlier this summer and decimated their crops of eggplant, cucumbers and cabbage.\n持续数周的旱情之后，中国北方通常干旱的农产区的农民对今夏早些时候的暴雨毫无防备，农田被淹没，茄子、黄瓜和卷心菜等农作物几近绝收。\nFarmers in the city of Shijiazhuang, 180 miles from Beijing, showed in a video posted to social media in late August how days of downpours and an overflowing reservoir had turned soil into sludge unfit for growing plants. Across the country, a shift in weather patterns has caught people off guard, with floods arriving two months earlier than usual in the south and then extending to northern and ea…",
@@ -19328,16 +19632,6 @@
           "wordCount": 3024,
           "title": "走私、幕后交易和假标签：中国如何规避美国人工智能禁令",
           "imageUrl": "https://static01.nyt.com/images/2024/07/18/multimedia/00trade-bans-01-zqmp/00trade-bans-01-zqmp-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/usa/20240805/florida-attorney-chinese-embassy-guilty/dual",
-          "author": null,
-          "description": "HANK SANDERS2024年8月5日据联邦检察官称，中国驻美大使馆是一次爆炸未遂的目标。 Justin T. Gellerson for The New York Times\nA Florida lawyer pleaded guilty on Friday to placing a bag of explosives near the Chinese Embassy in Washington, D.C., and trying to detonate it with a rifle, according to court records.\n根据法庭记录，佛罗里达州一名律师周五认罪，承认自己在中国驻华盛顿大使馆附近放置了一袋爆炸物，并试图用步枪引爆。\nThis was not the first time the lawyer, Christopher Rodriguez, had attempted a detonation, prosecutors said. He had previously set off explosives in 2022 that caused “significant damage” to a statue of the Communist leaders Vladimir Lenin and Mao Zedong in San Antonio, Texas, by shooting at canisters of explosives with a rifle, according to court records.\n检方表示，这并非这位名叫克里斯托弗·罗德里格斯的律师第一次企图引爆。法庭记录显示，2022年他曾在得克萨斯州圣安东尼奥引爆炸药，给一尊共产主义领导人列宁和毛泽东的雕塑造成了“重大破坏”，那一次他也是用步枪向装有爆炸物…",
-          "link": "https://cn.nytimes.com/usa/20240805/florida-attorney-chinese-embassy-guilty/dual",
-          "publishedOn": "2024-08-05T01:06:01.000Z",
-          "wordCount": 785,
-          "title": "试图在中国大使馆外引爆爆炸物的美国律师认罪",
-          "imageUrl": "https://static01.nyt.com/images/2024/08/03/multimedia/03xp-embassy-mvcz/03xp-embassy-mvcz-articleLarge.jpg"
         }
       ]
     },
@@ -19844,26 +20138,6 @@
           "publishedOn": "2024-08-06T01:50:00.000Z",
           "wordCount": 302,
           "title": "康拉德《黑暗的心》：大地堙灭了诗意的栖居，朝天空发出笑声丨景凯旋读经典⑮",
-          "imageUrl": null
-        },
-        {
-          "id": "1cef21c9f521a3526fcefe48368b3763",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E5%A5%BD%E7%83%AD%E5%A5%BD%E7%83%AD%EF%BC%8C%E5%88%B0%E5%BA%95%E6%80%8E%E6%A0%B7%E6%89%8D%E8%83%BD%E5%87%89%E5%BF%AB%E4%B8%8B%E6%9D%A5%E5%95%8A%EF%BC%81",
-          "publishedOn": "2024-08-05T02:00:00.000Z",
-          "wordCount": 298,
-          "title": "好热好热，到底怎样才能凉快下来啊！",
-          "imageUrl": null
-        },
-        {
-          "id": "15a1e70c76696ec402bf35d6fcb92003",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E7%9B%B4%E6%92%AD%E9%A2%84%E5%91%8A%20%7C%20%E5%BA%B7%E7%86%99%E7%9A%84%E2%80%9C%E7%BA%A2%E7%A5%A8%E2%80%9D%EF%BC%8C%E4%B8%80%E6%AE%B5%E5%8E%86%E5%8F%B2%E5%BE%80%E4%BA%8B",
-          "publishedOn": "2024-08-05T02:00:00.000Z",
-          "wordCount": 286,
-          "title": "直播预告 | 康熙的“红票”，一段历史往事",
           "imageUrl": null
         }
       ]
