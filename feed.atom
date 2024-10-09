@@ -2,10 +2,91 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mananchong.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-09T07:39:23.456Z</updated>
+    <updated>2024-10-09T16:45:39.421Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mananchong.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://mananchong.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[从零开始，入门 Android 自动化高级应用 Tasker]]></title>
+        <id>https://sspai.com/prime/story/get-started-with-tasker-intro</id>
+        <link href="https://sspai.com/prime/story/get-started-with-tasker-intro"/>
+        <updated>2024-10-09T14:52:22.000Z</updated>
+        <summary type="html"><![CDATA[聊聊 Tasker 从 Palm 到 Android 的诞生故事，以及一些下载、安装时需要注意的小问题。查看全文
+本文为会员文章，出自《单篇文章》，订阅后可阅读全文。]]></summary>
+        <author>
+            <name>hAPPydOg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kamala as LBJ, Not FDR]]></title>
+        <id>https://www.nationalreview.com/?p=1710318</id>
+        <link href="https://www.nationalreview.com/2024/10/kamala-as-lbj-not-fdr/"/>
+        <updated>2024-10-09T10:30:56.000Z</updated>
+        <summary type="html"><![CDATA[Experimentation without accountability, and laws like chocolate-chip cookies.]]></summary>
+        <author>
+            <name>Amity Shlaes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kamala Harris’s Main Priority Is Expanding Welfare, Not Strengthening the Middle Class]]></title>
+        <id>https://www.nationalreview.com/?p=1709810</id>
+        <link href="https://www.nationalreview.com/2024/10/kamala-harriss-main-priority-is-expanding-welfare-not-strengthening-the-middle-class/"/>
+        <updated>2024-10-09T10:30:35.000Z</updated>
+        <summary type="html"><![CDATA[Harris’s agenda: big new welfare checks for nonworkers and inevitably higher taxes for everyone else who has to pick up the tab.]]></summary>
+        <author>
+            <name>Matt Weidinger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Francis Ford Coppola Ransacks an H. G. Wells Classic]]></title>
+        <id>https://www.nationalreview.com/?p=1710375</id>
+        <link href="https://www.nationalreview.com/2024/10/francis-ford-coppola-ransacks-an-h-g-wells-classic/"/>
+        <updated>2024-10-09T10:30:18.000Z</updated>
+        <summary type="html"><![CDATA[Hungry for movies, starving for truth.]]></summary>
+        <author>
+            <name>Armond White</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Elite Students Can’t Read Books]]></title>
+        <id>https://www.nationalreview.com/?p=1710384</id>
+        <link href="https://www.nationalreview.com/2024/10/why-elite-students-cant-read-books/"/>
+        <updated>2024-10-09T10:30:17.000Z</updated>
+        <summary type="html"><![CDATA[And what might be done about it.]]></summary>
+        <author>
+            <name>Ian Tuttle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Long Road to Freedom for Jack Phillips]]></title>
+        <id>https://www.nationalreview.com/?p=1710462</id>
+        <link href="https://www.nationalreview.com/2024/10/the-long-road-to-freedom-for-jack-phillips/"/>
+        <updated>2024-10-09T10:30:13.000Z</updated>
+        <summary type="html"><![CDATA[In America, it should not take twelve years of litigation to have the right to live one’s faith freely.]]></summary>
+        <author>
+            <name>The Editors</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如果 Zune 还活着，它应该长什么样子？]]></title>
+        <id>https://sspai.com/post/92714</id>
+        <link href="https://sspai.com/post/92714"/>
+        <updated>2024-10-09T09:28:06.000Z</updated>
+        <summary type="html"><![CDATA[谨以此作品纪念 RealOne、Winamp、豪杰 V8、Zune、AirPlay 还有那段再也回不去的美好时光。查看全文]]></summary>
+        <author>
+            <name>LOSSES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[让洗衣不再为难：看标签选购适合自己的洗衣液]]></title>
+        <id>https://sspai.com/post/92764</id>
+        <link href="https://sspai.com/post/92764"/>
+        <updated>2024-10-09T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[面对市面上品类众多的洗衣液产品，消费者该如何选购呢？查看全文]]></summary>
+        <author>
+            <name>谷丰</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[打造自主、安全、可控的摄像头：我的智能家居监控方案]]></title>
         <id>https://sspai.com/post/92566</id>
@@ -24607,21 +24688,6 @@ https://feedx.run]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[苹果推出首款人工智能iPhone]]></title>
-        <id>https://cn.nytimes.com/technology/20240910/apple-event-iphone-16-watch/dual</id>
-        <link href="https://cn.nytimes.com/technology/20240910/apple-event-iphone-16-watch/dual"/>
-        <updated>2024-09-10T04:36:02.000Z</updated>
-        <summary type="html"><![CDATA[TRIPP MICKLE2024年9月10日iPhone 16有四种型号，旨在运行该公司称为“苹果智能”的生成式人工智能系统。 Justin Sullivan/Getty Images
-The iPhone has grown predictable. Over the past seven years, it has generally looked the same, with incremental improvements to its cameras, processors and battery life.
-iPhone已经变得不能出人意料了。在过去七年里，除了摄像头、处理器和电池寿命的不断改进之外，它的外观基本上没有什么变化。
-But on Monday, Apple tried to turn the page on that predictability by introducing its first artificially intelligent iPhone.
-但在周一，苹果试图通过推出首款人工智能iPhone来改变这种可预测性。
-The iPhone 16, which was unveiled in a prerecorded video at the company’s futuristic Silicon Valley campus, comes in four different models that are designed to run the company’s generative artificial intelligence system, called Apple Intelligence. The company said that the phones will be able to sort messages, of…]]></summary>
-        <author>
-            <name>纽约时报双语版</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[恒生指数午盘涨0.28%，恒生科技涨0.09%]]></title>
         <id>https://www.thepaper.cn/newsDetail_forward_28689741</id>
         <link href="https://www.thepaper.cn/newsDetail_forward_28689741"/>
@@ -24746,140 +24812,6 @@ The iPhone 16, which was unveiled in a prerecorded video at the company’s futu
 （原标题：《博主揭秘“中药磨粉”骗局：磨粉机内连刀片都没有！市监局回应》）]]></summary>
         <author>
             <name>澎湃新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[贺锦丽与特朗普辩论前瞻：关乎美国未来的九大问题]]></title>
-        <id>https://cn.nytimes.com/usa/20240910/trump-harris-debate-abc/dual</id>
-        <link href="https://cn.nytimes.com/usa/20240910/trump-harris-debate-abc/dual"/>
-        <updated>2024-09-10T02:06:06.000Z</updated>
-        <summary type="html"><![CDATA[REID J. EPSTEIN, JONATHAN SWAN2024年9月10日副总统贺锦丽已在匹兹堡花了几天时间为辩论做准备。 Haiyun Jiang for The New York Times
-The debate on Tuesday night stands to be the most important night in Vice President Kamala Harris’s political career. It will offer her her biggest audience yet as the country tries to learn more about what kind of president she would make.
-周二晚的辩论很可能会成为副总统贺锦丽政治生涯中最重要的夜晚。在美国人试图对她会成为怎样的总统有更多了解时，这场辩论将为她带来迄今为止最大的观众群。
-Former President Donald J. Trump enters the debate hoping to turn the page on a tough summer. Ms. Harris has closed the polling gap with him since she replaced President Biden as the Democratic Party’s nominee. Tuesday may be one of Mr. Trump’s best shots to reverse that momentum before Americans begin early voting.
-前总统特朗普抱着在经历了艰难的夏季后翻开新一页的希望来参加辩论。自从取代拜登总统成为民主党提名的总统候选人以来，贺锦丽已缩小了与特朗…]]></summary>
-        <author>
-            <name>纽约时报双语版</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[台榭参差金碧里：皇家园林鉴赏指南｜京华物语]]></title>
-        <id>d1a2cf8f2ab961f0e1b72eb1a27c06dc</id>
-        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E5%8F%B0%E6%A6%AD%E5%8F%82%E5%B7%AE%E9%87%91%E7%A2%A7%E9%87%8C%EF%BC%9A%E7%9A%87%E5%AE%B6%E5%9B%AD%E6%9E%97%E9%89%B4%E8%B5%8F%E6%8C%87%E5%8D%97%EF%BD%9C%E4%BA%AC%E5%8D%8E%E7%89%A9%E8%AF%AD"/>
-        <updated>2024-09-10T02:00:00.000Z</updated>
-        <author>
-            <name>新京报书评周刊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[R Weekly 2024-W37, chart axes, custom roxygen2 tag, FAIR]]></title>
-        <id>https://rweekly.org/2024-W37.html</id>
-        <link href="https://rweekly.org/2024-W37.html"/>
-        <updated>2024-09-10T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Hello and welcome to this new issue!
-How to have (my) content shared by R Weekly?
-This week’s release was curated by Batool Almarzouq, with help from the R Weekly team members and contributors.
-Highlight
-Five ways to improve your chart axes
-Create and use a custom roxygen2 tag
-Making your blog FAIR
-Insights
-PLANES: Plausibility Analysis of Epidemiological Signals with the rplanes package
-
-R-Ladies Bariloche in Argentina: Fostering a Different Approach to  Leadership
-Gender and sexuality in Australian surveys and census by @ellis2013nz
-R in Academia
-An IV study design to estimate an effect size when randomization is not ethical
-
-New Packages
-📦 Go Live for More New Pkgs 📦
- -->
-📦 Keep up to date wtih CRANberries 📦
-CRAN
-{rplanes} 0.1.0: Plausibility Analysis of Epidemiological Signals
-{mmi…]]></summary>
-        <author>
-            <name>RWeekly.org - Blogs to Learn R from the Community</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：Apple 发布多款新品，Thread 更新 1.4 版规范等]]></title>
-        <id>https://sspai.com/post/92166</id>
-        <link href="https://sspai.com/post/92166"/>
-        <updated>2024-09-10T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[微信公众平台更新关于公众人物误导性内容的规范，中国广电携手中国移动打造全国首个地铁 5G-A 共建共享网络等查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新配色，新亮点：iPhone 16 Pro 快速上手体验]]></title>
-        <id>https://sspai.com/post/92168</id>
-        <link href="https://sspai.com/post/92168"/>
-        <updated>2024-09-09T23:34:54.000Z</updated>
-        <summary type="html"><![CDATA[北京时间9月10日凌晨，一年一度的秋季Apple特别活动在ApplePark召开，会上发布了iPhone16、AppleWatch、AirPods三个系列的多款新品。本次Apple特别活动，少数派也受 ...查看全文]]></summary>
-        <author>
-            <name>waychane</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一图流 | 一张图带你看完 iPhone 16 发布会]]></title>
-        <id>https://sspai.com/post/92164</id>
-        <link href="https://sspai.com/post/92164"/>
-        <updated>2024-09-09T22:44:45.000Z</updated>
-        <summary type="html"><![CDATA[一张图带你看完 iPhone 16 发布会。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Double Standard over ‘Democratic Backsliding’ in Brazil]]></title>
-        <id>https://www.nationalreview.com/?p=1699631</id>
-        <link href="https://www.nationalreview.com/2024/09/the-double-standard-over-democratic-backsliding-in-brazil/"/>
-        <updated>2024-09-09T21:36:57.000Z</updated>
-        <summary type="html"><![CDATA[Because the country’s slide is now occurring under a socialist president, it isn’t attracting the same condemnation as it did under the previous right-wing leader.]]></summary>
-        <author>
-            <name>Dominic Pino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新按钮、新配色，还有这些意外惊喜……Apple 发布会看点回顾]]></title>
-        <id>https://sspai.com/post/92163</id>
-        <link href="https://sspai.com/post/92163"/>
-        <updated>2024-09-09T21:23:03.000Z</updated>
-        <summary type="html"><![CDATA[Apple 正式举行发布会，发布 iPhone 16 系列、Apple Watch Series 10、AirPods 4 等多款新品。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kamala Harris’s Plan to Raise the Corporate Tax Would Hurt All Americans]]></title>
-        <id>https://www.nationalreview.com/?p=1699598</id>
-        <link href="https://www.nationalreview.com/2024/09/kamala-harriss-plan-to-raise-the-corporate-tax-would-hurt-all-americans/"/>
-        <updated>2024-09-09T20:29:38.000Z</updated>
-        <summary type="html"><![CDATA[The corporate-income tax is one of the most economically damaging taxes there is.]]></summary>
-        <author>
-            <name>Preston Brashers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Second Trump Term Is Unlikely to Be Good]]></title>
-        <id>https://www.nationalreview.com/?p=1699566</id>
-        <link href="https://www.nationalreview.com/2024/09/a-second-trump-term-is-unlikely-to-be-good/"/>
-        <updated>2024-09-09T20:19:44.000Z</updated>
-        <summary type="html"><![CDATA[Lower your expectations and be clear-eyed about what a second Trump term would mean.]]></summary>
-        <author>
-            <name>Dan McLaughlin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Harris Is Quiet]]></title>
-        <id>https://www.nationalreview.com/?p=1699564</id>
-        <link href="https://www.nationalreview.com/2024/09/why-harris-is-quiet/"/>
-        <updated>2024-09-09T19:58:08.000Z</updated>
-        <summary type="html"><![CDATA[It’s not because she’s been hamstrung with overly cautious ex-Biden staffers; it’s because she is flatly incapable of effective extemporaneous speaking.]]></summary>
-        <author>
-            <name>Charles C. W. Cooke</name>
         </author>
     </entry>
     <entry>
@@ -25201,76 +25133,6 @@ https://feedx.net
 https://feedx.run]]></summary>
         <author>
             <name>澎湃新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IC 4709 螺旋星系 - September 9, 2024]]></title>
-        <id>idaily-214106</id>
-        <link href="https://m.idai.ly/se/7cfNq1"/>
-        <updated>2024-09-09T09:59:00.000Z</updated>
-        <summary type="html"><![CDATA[欧空局公布一张哈勃太空望远镜拍摄的望远镜座「IC 4709」螺旋星系照片，明亮的活跃星系核清晰可见。「IC 4709」距离地球约2.4亿光年，直径约6万光年，该星系中央存在一个质量相当于6500万个太阳的超大质量黑洞，正在不断吸收周边气体和星际物质并释放出高能电磁辐射。摄影师：ESA]]></summary>
-        <author>
-            <name>望远镜座</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024巴黎残奥会闭幕 - September 9, 2024]]></title>
-        <id>idaily-214105</id>
-        <link href="https://m.idai.ly/se/96cU8Q"/>
-        <updated>2024-09-09T08:58:00.000Z</updated>
-        <summary type="html"><![CDATA[2024巴黎残奥会闭幕式在法兰西体育场举行。9月8日，第17届夏季残疾人奥运会正式闭幕，这是巴黎首次主办夏季残奥会，12天比赛日程共角逐产生549枚金牌，中国代表队以94金76银50铜总计220枚奖牌的绝对优势连续第6届蝉联残奥会奖牌榜首，英国队以49金44银31铜位列第二，美国队以36金42银27铜位列第三。2024巴黎奥运会和残奥会累计售出1200万张门票，创下历史新高。摄影师：Mustafa Yalcin]]></summary>
-        <author>
-            <name>法国 · 巴黎</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄载人飞船准备发射 - September 9, 2024]]></title>
-        <id>idaily-214103</id>
-        <link href="https://m.idai.ly/se/e1e39h"/>
-        <updated>2024-09-09T07:57:00.000Z</updated>
-        <summary type="html"><![CDATA[「联盟 MS-26」载人飞船与火箭组合体竖立在发射台，拜科努尔航天发射场。9月8日，「联盟 MS-26」载人飞船进入发射前最后准备阶段，计划9月11日运送3名宇航员前往国际空间站，分别为俄罗斯宇航员 Alexey Ovchinin、Ivan Vagner 和美国宇航员 Don Pettit。本次任务将采取快速对接模式，联盟号载人飞船发射入轨绕地球飞行2圈后与国际空间站自动对接，预计耗时仅3个小时。摄影师：Pavel Mikheyev]]></summary>
-        <author>
-            <name>哈萨克斯坦 · 拜科努尔</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[乌克兰总统访问意大利 - September 9, 2024]]></title>
-        <id>idaily-214102</id>
-        <link href="https://m.idai.ly/se/3d1L06"/>
-        <updated>2024-09-09T07:55:00.000Z</updated>
-        <summary type="html"><![CDATA[意大利总理 Giorgia Meloni 与乌克兰总统 Volodymyr Zelensky 举行会晤，切尔诺比奥。9月6日，乌克兰总统 Zelensky 访问意大利出席第50届「安布罗塞蒂商业论坛」并与意大利总理举行会面，双方就结束俄乌冲突和重建乌克兰议题举行约40分钟会谈。意大利总理 Meloni 承诺绝不会放弃乌克兰来解决冲突，表示中国和印度在解决俄乌冲突问题上也「发挥着作用」。乌克兰总统 Zelensky 呼吁意大利和欧盟提高武器援助并解除中远程导弹的使用限制。摄影师：President of Ukraine]]></summary>
-        <author>
-            <name>意大利 · 切尔诺比奥</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[印度庆祝象头神节 - September 9, 2024]]></title>
-        <id>idaily-214101</id>
-        <link href="https://m.idai.ly/se/b6ah2d"/>
-        <updated>2024-09-09T07:53:00.000Z</updated>
-        <summary type="html"><![CDATA[印度教信徒向象头神祈愿，海得拉巴。9月7日，印度教迎来每年最隆重的节日庆典「象神节」（Ganesh Chaturthi），该节日是纪念代表智慧、财富与幸运的象头神诞辰的节日，共持续10天。印度贸易商联合会（CAIT）预计2024年象神节将创造2500亿卢比（约合29.8亿美元）经济收入。世界银行最新报告预测印度2025财年 GDP 增速将达到7%，比前次预测值上调0.4个百分点，主要受到私人消费和投资增长推动。摄影师：Mahesh Kumar A.]]></summary>
-        <author>
-            <name>印度 · 海得拉巴</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[荷兰国博极端环保抗议 - September 9, 2024]]></title>
-        <id>idaily-214100</id>
-        <link href="https://m.idai.ly/se/bbag5i"/>
-        <updated>2024-09-09T07:51:00.000Z</updated>
-        <summary type="html"><![CDATA[极端环保组织成员在荷兰国立博物馆燃放烟雾弹进行示威抗议，阿姆斯特丹。9月7日上午，约60名极端环保组织「灭绝叛乱」成员在荷兰国立博物馆举行示威活动，要求该博物馆停止接受「涉及化石燃料行业投资」的荷兰国际集团赞助资金。荷兰国立博物馆因本次抗议活动被迫临时关闭，共有约33名示威者被警方逮捕。该博物馆发言人对本次事件表示「不能接受任何威胁艺术品、工作人员及游客安全的行为」。摄影师：Dingena Mol]]></summary>
-        <author>
-            <name>荷兰 · 阿姆斯特丹</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[泰国最长寿河马庆生 - September 9, 2024]]></title>
-        <id>idaily-214099</id>
-        <link href="https://m.idai.ly/se/245Hy5"/>
-        <updated>2024-09-09T07:49:00.000Z</updated>
-        <summary type="html"><![CDATA[泰国绿山动物园，59岁雌性河马「茉莉花」（Mae Mali）获得生日礼物，春武里府。9月8日，泰国绿山动物园使用西瓜、苹果、火龙果、土豆、胡萝、鲜草制作蔬果大餐为雌性河马「茉莉花」庆祝59岁生日。这只雌性河马1967年由荷兰蒂尔堡动物园赠送给泰国，迄今共诞下14只幼崽，年龄相当于人类85至90岁，目前身体状况良好，是已知最高龄的圈养河马之一。摄影师：Chaiwat Subprasom]]></summary>
-        <author>
-            <name>泰国 · 春武里府</name>
         </author>
     </entry>
     <entry>
