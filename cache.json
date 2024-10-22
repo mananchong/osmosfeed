@@ -44,16 +44,6 @@
           "wordCount": 5862,
           "title": "R Weekly 2024-W40 Data Career Insights, In-Place Modifications, rix",
           "imageUrl": "https://rweekly.org/public/facebook.png"
-        },
-        {
-          "id": "https://rweekly.org/2024-W39.html",
-          "author": null,
-          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Tony ElHabr,, with help from the R Weekly team members and contributors.\nHighlight\npatchwork 1.3.0\nPrime numbers as sums of three squares. by @ellis2013nz\n{gguidance}: Extended guide options for ‘ggplot2’\nInsights\nDeposits In The Wild\n\nEase renv::restore() by updating your repository to Posit Public Package Manager\nR in the Real World\n3MW (Dealing With Shitty Text Data)\nIntroducing Shiny Assistant - You Can Now Build Shiny Applications with GPT and GenerativeAI\nR in Organizations\nCreate a free Llama 3.1 405B-powered chatbot on an R package’s GitHub repo in <1 min\n\nFree Boba Tea and Technical R Topics Lure Young Learners to New Brunei R User Group\nR in Academia\nExtended-suppo…",
-          "link": "https://rweekly.org/2024-W39.html",
-          "publishedOn": "2024-09-23T00:00:00.000Z",
-          "wordCount": 5822,
-          "title": "R Weekly 2024-W39 patchwork, gguidance, prime numbers",
-          "imageUrl": "https://rweekly.org/public/facebook.png"
         }
       ]
     },
@@ -541,16 +531,6 @@
           "wordCount": 68,
           "title": "陈麦青︱关于上海博物馆藏《曹全碑》“因”字未损本",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_28788882",
-          "author": null,
-          "description": "三、梁谱“复旦校注本”的来龙去脉\n（一）中华点将、复旦接手\n据“《梁任公年谱长编初稿》专档”，目前可见发起动议的第一函，为1961年11月3日“中华书局近代史组”致复旦大学胡绳武、金冲及函，内称：\n《梁启超年谱长编》，外间要求颇急，我们计划在明年出版。前次李侃同志在武汉开会时，曾向您们说及此事，并蒙同意担任校订、增补工作。刘德麟同志对整理工作提出的初步意见，也已送请参阅，未悉尊意如何？可否在近日内将您们对这一工作的具体意见（整理方式、完成时间、是否需要补充材料、如何增补等等）见告，以便商量。\n按，李侃（1922-2010），时为中华书局近代史编辑组组长。1958年金灿然担任中华书局总编辑后，提出中华书局要搞近代史图书出版，从历史编辑组析出历史二组，后改称近代史编辑组，张静庐任组长。同年７月，李侃从商务印书馆调到中华书局近代史组，主持编辑组全面工作。1961年张静庐退休，李侃任近代史组组长，卢文迪为副组长，编辑有刘德麟、赵仲兰、何炳然、段昌同、胡宜柔、段双生等人（《我与中华书局》，收入《李侃史学随笔选》，中华书局2008年，610页）。\n据卢文迪撰写的情况说明：“《梁启超年谱长编》以史料价值较高，打算出版。61年8月19日总编室通知，此书已由田家英同志看过，同意出版，但不加删节，内部发行。”（《卢文迪关于陈匡时整理〈年谱长编〉的说明》，1964年5月8日）1961年10月，李侃赴武汉参加辛亥革命五十周年纪念活动时，与复旦大学胡绳武（1923-2016）、金冲及（1930-）面洽，商及重新整理《梁启超年谱长编》事，并得到后者“同意担任校订、增补工作”的允诺，故11月3日去信咨询“具体意见”，同信并提出“请您们两位撰写《梁启超》一书，亦请慨允”。\n\n辛亥革命五十周年学术讨论会留影（1961 年10 月21 日，武汉）\n\n胡绳武、金冲及当时均为复旦大学历史系青年教师。按1952年院…",
-          "link": "https://www.thepaper.cn/newsDetail_forward_28788882",
-          "publishedOn": "2024-09-23T04:02:03.000Z",
-          "wordCount": 358,
-          "title": "戴海斌︱陈匡时与《梁启超年谱长编》“复旦校注本”（二）",
-          "imageUrl": null
         }
       ]
     },
@@ -559,6 +539,206 @@
       "feedUrl": "https://feedx.net/rss/thepaper.xml",
       "siteUrl": "http://thepaper.cn",
       "articles": [
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_29113378",
+          "author": null,
+          "description": "10月22日，在央地融合协同发展主题峰会上，上海交易集团下属的长三角要素公司揭牌成立。\n长三角要素公司坚持以上海交易集团专业化、市场化、数字化、绿色化、国际化发展方向为引领，立足上海，联动长三角，依托“综合交易+集成服务”双轮驱动，积极整合内外部资源，构建一核三链新质服务体系；持续巩固提升国有产权交易核心业务，拓展深化集成链、产业链、价值链，致力于成为具有一流集成创新力、核心竞争力、区域辐射力与品牌影响力的要素资源配置服务商。\n上海交易集团党委书记、董事长余旭峰指出，长三角要素公司是承载上海交易集团优势的重要功能平台，希望长三角要素公司为服务区域经济和长三角一体化发展贡献新力量。\n会上，长三角要素公司分别与中远海运集团等9家中央企业的贸易、产权管理、资产管理和混改私募基金管理子公司代表，6家上海国企代表，以及8家专业综合服务机构代表签署战略合作协议，构建常态化合作机制。（澎湃新闻记者 戚夜云）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_29113378",
+          "publishedOn": "2024-10-22T16:23:04.000Z",
+          "wordCount": 30,
+          "title": "长三角要素公司揭牌成立，央地协同打造要素资源配置新名片",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_29110338",
+          "author": null,
+          "description": "10月22日，我国首个国产移动操作系统——华为原生鸿蒙操作系统正式发布，这也是继苹果iOS和安卓系统后，全球第三大移动操作系统。\n据介绍，此前已经发布过的鸿蒙系统，由于系统底座仍使用了部分AOSP开放源代码，而不得不兼容部分安卓应用软件。而此次发布的原生鸿蒙，实现了系统底座的全部自研，系统的流畅度、性能、安全特性等提升显著，也实现了国产操作系统的自主可控。\n\n华为常务董事、终端BG董事长、智能汽车解决方案BU董事长余承东介绍，此次发布的原生鸿蒙在续航时间、安全和隐私保护等方面均属于行业前列。当前，每天上架的应用软件，几乎每天迭代更新一次。\n据了解，目前已经有超过15000个鸿蒙原生应用和元服务上架，覆盖18个行业，通用办公应用覆盖全国3800万多家企业。原生鸿蒙降低了接入新系统的难度和成本，流畅度提升30%，很多应用一天一个版本迭代更新。\n同时，原生鸿蒙实现了手机、平板、汽车座舱等多设备、多场景的互联互通。目前，支持鸿蒙系统的设备数量已超过10亿，注册开发者675万。同时，华为已经和全国超过300所高校展开了合作，进一步加快技术研发和迭代速度。\n过去近二十年，提到移动操作系统，都会说起苹果iOS和安卓两大系统。那么想要自主开发出一套完整的移动操作系统，究竟难在哪？\n专家介绍，操作系统的搭建，都需要基于一套技术内核。过去的操作系统，基本上都是由Unix和Linux两大内核研发而来，包括我们熟悉的苹果iOS和安卓系统。也就是说，如果我们再基于这两个内核进行研发，技术底座就不具备自主性。而这次的原生鸿蒙，让我国第一次摆脱了内核的依赖，创造了一个“鸿蒙内核”。\n\n中国科学院信息工程研究所研究员徐震说：“有了自主性，就可以去有效地解决安全性。因为底下的东西如果不是你自己的，你说我要做个防护，人家不同意你是干不了的。有了自己的一个基础平台，在上面就可以设计很好的架构，可以把用户数据保护得非常好，网络连接保护得非常好。”\n\n另外一个操作系统国产化的难点，在于用户。如果所有的软件开发者，都只在原有的安卓、苹果IOS系统上进行研发迭代，即便技术研发实现突破，仍然无法形成中国真正意义上自主可控的移动操作系统。所以，此次国产操作系统的发布，背后是我国相关产业的全面发展。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_29110338",
+          "publishedOn": "2024-10-22T14:53:04.000Z",
+          "wordCount": 37,
+          "title": "我国首个、自主可控！华为原生鸿蒙操作系统正式发布",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_29112897",
+          "author": null,
+          "description": "10月22日晚，美股开盘，道指跌0.33%，标普500指数跌0.47%，纳指跌0.46%。欧洲最大软件公司SAP涨超3%，Q3业绩超预期并上调全年指引。老虎证券跌超7%，拟增发1500万股美国存托股票。通用汽车上涨3.8%，第三季度净销售额和营收、调整后每股收益均超预期。\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.run",
+          "link": "https://www.thepaper.cn/newsDetail_forward_29112897",
+          "publishedOn": "2024-10-22T13:53:23.000Z",
+          "wordCount": 27,
+          "title": "美股三大指数集体低开，老虎证券跌超7%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_29112413",
+          "author": null,
+          "description": "10月22日，国内商品期货夜盘开盘，纯碱涨超2%，玻璃、菜油等涨超1%；沪锡、沪镍等小幅下跌。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_29112413",
+          "publishedOn": "2024-10-22T13:23:04.000Z",
+          "wordCount": 27,
+          "title": "国内商品期货夜盘开盘，纯碱涨超2%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_29112539",
+          "author": null,
+          "description": "当地时间10月22日，国际货币基金组织（IMF）发布最新一期《世界经济展望报告》。报告称，在通货紧缩过程中，全球经济保持了异常强劲的韧性，预计2024年和2025年全球经济增速为3.2%。与7月份发布的预测相比，2024年全球经济增长预期保持不变，2025年预测值则下调0.1%。\n具体来看，发达经济体2024年经济增长预测值为1.8%，较7月预测值上调0.1个百分点。其中预计2024年美国经济增速为2.8%，较7月份上调0.2%；欧洲发达经济体预计今年增速为0.8%，较7月份下调0.1%。新兴市场和发展中经济体将继续保持强劲增长，2024年经济增长预测值为4.2%，较7月预测值保持不变。\n报告称，全球通胀形势好转，全球平均通胀率2024年预计为5.8%，2025年为4.3%。（央视新闻）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_29112539",
+          "publishedOn": "2024-10-22T13:23:04.000Z",
+          "wordCount": 27,
+          "title": "IMF发布最新报告：预计今明两年全球经济增速为3.2%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_29092548",
+          "author": null,
+          "description": "作为战略性新兴产业，低空经济乃新质生产力典型代表，系全球范围内共同探索的重要领域。\n低空经济，是指一般在垂直高度1000米以下、根据实际需要延伸至不超过3000米的低空空域范围内，以民用有人驾驶航空器和无人驾驶航空器的低空飞行活动为牵引，辐射带动航空器研发、生产、销售以及低空飞行活动相关的基础设施建设运营、飞行保障、衍生综合服务等领域产业融合发展的综合经济形态。低空经济逐步进入新发展阶段，能够为我国经济持续良好发展提供新引擎、开辟新赛道。\n一、低空经济的法治需求\n实际上，我国关于航空器管理制度建设追溯到20世纪80年代——1987年的《民用航空器适航管理条例》。\n当前，我国已经初步构建包括《民用航空法》《无人驾驶航空器飞行管理暂行条例》《国家空域基础分类方法》在内的法律、法规、规章等制度体系。现有立法以规制传统航空器为主，缺乏对低空经济发展的通盘考量，导致制度供给不能满足现实需求。从根本来看，是管理传统与产业勃兴之间张力造成的困境。例如，我国更强调空域管理的主权与安全，往往采用单一的空域审批模式，严格控制低空空域的利用，阻碍低空经济的快速发展。\n在地方层面，各地关于低空经济的政策文件，大多以方案、措施、计划、规划等形式出现。例如，《广东省推动低空经济高质量发展行动方案(2024—2026年)》《安徽省加快培育发展低空经济实施方案(2024—2027年)及若干措施》《山东省低空经济高质量发展三年行动方案(2024—2026年)》《福建省低空旅游产业发展规划纲要(2021—2035年)》等。各地上升到具有普遍约束力的专门法律文件形式情况较少，对低空经济中涉及的质量管理、风险防控、事故处理等法律问题，缺乏明确规范。\n各地政策“碎片化”治理、缺乏法治的层次性、系统性，甚至弱化了法治的基本要求。低空经济能够覆盖一二三产业，包括空域管理、市场准入、安全生产、飞行保障等环节，职能则归属军…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_29092548",
+          "publishedOn": "2024-10-22T12:53:05.000Z",
+          "wordCount": 28,
+          "title": "新质观察｜保障低空经济高质量发展，立法须先行",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_29108628",
+          "author": null,
+          "description": "10月19日晚，非法中介苏某某在江苏无锡江阴市违法进行买卖婴儿交易，并牟取利益。\n据江阴市公安局10月20日晚通报，20日9时54分，群众报警称发现疑似贩卖婴儿线索。该局第一时间将犯罪嫌疑人苏某某控制，迅速成立专案组赶赴外省，在当地公安机关协助下，将收买婴儿的冯某某等人抓获，安全解救被贩卖婴儿。相关犯罪嫌疑人已被依法采取刑事强制措施，案件正在进一步侦办中，涉及在其他省市的犯罪线索，公安机关也将彻查到底。\n\n澎湃新闻(www.thepaper.cn)记者了解到，警方通报中报警的群众是打拐志愿者上官正义，10月19日晚，他以卧底身份出现在贩婴现场。\n为何没有在交易当晚报警？上官正义22日告诉澎湃新闻，对于中介苏某某参与贩婴的经过，他已卧底近三个月，19日晚完成对现场交易的取证后，第二天早上向江阴警方报警。根据他多年的打拐经验，涉拐案件中，孩子的生命安全一般不会受到威胁，且从当晚收买婴儿一方带来衣物、抱被等表现判断，收买方定会照顾好孩子。\n上官正义表示，涉拐案件具有流动性作案的特点，情况很复杂，各方警惕性都很高。从当天晚上交易的实际情况看，本来双方约定晚上7点多交易，后来僵持了几个小时，且更换了接头的地点，最终到晚上10点多结束交易，他与苏某某分开后，住下来已经是深夜12点了。\n“证据在法律上才是最有力的东西。”他向澎湃新闻表示，这种事情涉及的人、地方都比较多，情节比较严重，不是一两句话就说得清楚，应该将相关情况写下来，形成书面材料再报警，这样有利于公安机关侦破案件。为此，他连夜写了三页纸的事情经过，并附上了8张图片作为证据，于20日早上交给无锡江阴警方。\n他从某网络平台发现中介苏某某的行踪后，假称“想要孩子”，以此接触苏某某。按照苏某某的计划，在江阴的交易结束后，就会带他去其他地方“找孩子”，所以他提出想看看是怎么交易，买家怎么接孩子的，“他（苏某某）答应带上我”。\n“10月19日晚，我全程都跟中介（苏某某）在一起。”上官正义告诉澎湃新闻，他见证了这次违法交易，并冒险全程录音、录视频，记录了交易中买卖双方、中介的犯罪证据。对于交易金额，上官正义透露，这个出生仅14天的男婴被以15万元非法交易，其中交给卖家司机7.8万元现金，其余为中介费用。\n据江阴警方20日通报，经审查，苏某某对其通过网络平台充当中介，促成买卖婴儿交易并获取非法利益的犯罪事实供认不讳。现查明，2024年10月6日，送养人李某某(女，18岁，外省在江阴务工)生下一子，因无力抚养，通过其表姐夫薛某在网上发布信息寻找领养人。苏某某看到相关信息后，联系到外省有领养需求的冯某某夫妇，于10月19日晚在江阴当面交易。公安机关迅速成立专案组赶赴外省，在当地公安机关协助下，将收买婴儿的冯某某等人抓获，安全解救被贩卖婴儿。相关犯罪嫌疑人已被依法采取刑事强制措施。\n谈及卧底调查贩婴过程中的自身安全问题，上官正义表示，此前已有人威胁恐吓过他以及他的家人，这次肯定也担心自己的安全，但面对违法犯罪行为，特别是拐卖儿童的犯罪线索，有时明知有危险他还是会跟进。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_29108628",
+          "publishedOn": "2024-10-22T12:53:05.000Z",
+          "wordCount": 33,
+          "title": "卧底目击江阴非法贩婴交易现场，打拐志愿者回应为何隔夜报警",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_29107106",
+          "author": null,
+          "description": "短短21天，黎巴嫩真主党领导人纳斯鲁拉和哈马斯最高领导人辛瓦尔相继命丧以色列之手。以色列甚至高调公布了辛瓦尔死前视频。\n外界已知的哈马斯核心领导层，大都殒命。分析认为，这一轮巴以冲突或将迎来转折点。\n一次次成功的对外军事及情报活动，无疑增强了以色列总理内塔尼亚胡在以色列右翼以及极右翼势力中的声威；与此同时，他也在加强对新鹰派势力的依赖。希伯来大学国际关系和媒体专家弗里曼（Yonatan Freeman）告诉澎湃新闻（www.thepaper.cn），“以色列正在寻求不让哈马斯统治加沙地带，将继续与该组织作战，直到达到这一目标。”\n但美国中东项目（US/Middle East Project）智库负责人、以色列前和谈代表丹尼尔·利维（Daniel Levy）告诉澎湃新闻，“辛瓦尔之死，将成为巴勒斯坦乃至更远地区的骄傲之源，而不是（以色列所设想的）羞辱之源。”他认为，辛瓦尔死亡的画面将进一步形成一种“神话”，而非以色列想要的“失败”。\n\n当地时间2024年10月18日，也门萨那，胡塞武装的支持者举行集会，抗议以色列对黎巴嫩的袭击以及以色列和哈马斯武装分子在加沙地带的持续战争。他们聚集在一起，举着被杀害的哈马斯领导人叶海亚·辛瓦尔的照片，高呼口号。视觉中国 图\n\n“哈马斯将继续存活”\n10月17日哈马斯最高领导人辛瓦尔被以色列“偶然”打死。以色列官方公布了辛瓦尔死前的最后视频画面，他受了重伤，坐在废墟建筑物内的一个破椅子上，缠着头巾，佝偻着腰，半侧身向以色列的无人机扔出了一个木棍。\n\n当地时间2024年10月17日，加沙地带，哈马斯领导人辛瓦尔被击毙前画面曝光，曾向无人机投掷棍子。视觉中国 图\n\n“这表明他一直在战斗到最后一刻。”加沙青年穆罕默德告诉《华尔街日报》的记者，他被辛瓦尔死前的视频刺激到了。穆罕默德在巴以冲突后一直居无定所，一度反对由辛瓦尔策划的阿克萨洪水行动。\n“如果…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_29107106",
+          "publishedOn": "2024-10-22T12:53:05.000Z",
+          "wordCount": 145,
+          "title": "专家：哈马斯不死不灭，内塔尼亚胡将延长战争直至占领加沙",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_29112047",
+          "author": null,
+          "description": "甘肃首套50兆乏新能源分布式调相机示范项目日前顺利并网，将在完成168小时试运行后，正式应用于我国“西电东送”重要通道±800千伏祁韶直流输电工程配套项目——泰源桥南第三风电场。\n分布式调相机作为一种能够调节电力系统无功功率的同步电机，有“稳定器”的作用，可以有效提升新能源消纳能力。该分布调相机投入运行后，可提高新能源消纳能力15万千瓦。（央视新闻）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_29112047",
+          "publishedOn": "2024-10-22T12:53:05.000Z",
+          "wordCount": 27,
+          "title": "甘肃首台新能源分布式调相机成功并网投运",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_29112105",
+          "author": null,
+          "description": "安徽省联社迎来新任掌门，原党委书记、理事长调任安徽省国资委。\n10月21日，据公众号“安徽先锋”，日前，省委决定，叶红云同志任省农村信用社联合社党委书记，提名任理事长。“安徽先锋”为中共安徽省委组织部公众号。\n公开资料显示，叶红云长期任职于安徽省银行系统，2024年4月获准出任安徽省联社理事、副理事长、主任。此前，叶红云曾任职于建行系统，2016年8月获准出任建设银行安徽省分行行长助理，2018年10月获准出任建设银行安徽省分行副行长。\n安徽省联社原党委书记、理事长黄然已调任安徽省国资委。安徽省人民政府国有资产监督管理委员会官网10月12日发布的信息显示，黄然现任省国资委党委委员、副主任（正厅级）。（澎湃新闻记者 林倩冰）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_29112105",
+          "publishedOn": "2024-10-22T12:53:05.000Z",
+          "wordCount": 30,
+          "title": "安徽省联社主任叶红云任党委书记，原党委书记、理事长黄然已调任安徽省国资委副主任",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_29110244",
+          "author": null,
+          "description": "记者从国家发展改革委最新了解到，截至目前，有将近一半增量政策已出台实施，其余增量政策也将加快出台。国家发展改革委将密切跟踪形势变化，及时研究新的增量政策。\n一揽子增量政策涉及5个方面，它们分别是：\n加强宏观政策逆周期调节\n进一步扩大国内需求\n加大助企帮扶力度\n推动房地产市场止跌回稳\n努力提振资本市场\n目前，有将近一半增量政策已出台实施，具体举措包括：\n提前下达2025年1000亿元中央预算内投资计划；\n1000亿元“两重”建设项目清单、降息降准、调整住房限购政策等。\n国家发展改革委表示，接下来，还将有一批增量政策继续出台实施，比如，\n提高学生资助补助标准并扩大政策覆盖面，\n提高本专科生研究生国家助学贷款额度并推动降低贷款利率，\n最大限度扩大专项债券投向领域等。\n此外，一批改革举措在陆续推出。国家发展改革委将加快研究修订扩大鼓励外商投资产业目录、制定国有经济布局优化和结构调整指引目录，尽快出台全国统一大市场建设指引等。\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.run",
+          "link": "https://www.thepaper.cn/newsDetail_forward_29110244",
+          "publishedOn": "2024-10-22T12:53:05.000Z",
+          "wordCount": 28,
+          "title": "国家发展改革委：近一半增量政策已出台实施，还有一批政策“在路上”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_29111263",
+          "author": null,
+          "description": "当地时间10月22日，黎巴嫩真主党媒体关系办公室负责人穆罕默德·阿菲夫在贝鲁特南郊的戈贝里区举行新闻发布会。阿菲夫称，黎真主党的军事和后勤能力已经恢复。\n就隶属于黎巴嫩真主党的金融机构场所——“卡德哈桑协会”多个办事网点遭以军空袭一事，阿菲夫表示，黎真主党并不从该机构发放薪水或筹集资金。“卡尔德哈桑协会”本着为储户负责的原则提前做好了准备。\n此外，阿菲夫证实黎真主党有成员被以色列国防军俘获，表示真主党会进行谈判，让成员返回黎巴嫩。\n另据黎巴嫩国家通讯社报道，就在新闻发布会开始前不久，贝鲁特南郊戈贝里区（Ghobeiry）遭以军空袭。（央视新闻）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_29111263",
+          "publishedOn": "2024-10-22T12:23:05.000Z",
+          "wordCount": 28,
+          "title": "真主党称其军事和后勤能力已恢复，证实有成员被以军俘获",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_29111268",
+          "author": null,
+          "description": "据微信公众号“辽宁日报”消息，根据省委工作安排，10月21日至22日，省委副书记、省长李乐成率队在北京走访国家发展改革委、科技部、工业和信息化部、住房和城乡建设部、国家能源局，进行工作会商，加强工作对接，积极争取支持，共谋高质量发展。国家发展改革委主任郑栅洁，中央科技办主任、科技部部长阴和俊，工业和信息化部部长金壮龙，住房和城乡建设部部长倪虹，国家发展改革委副主任刘苏社，国家能源局局长章建华分别与李乐成一行进行会见交流或出席会商会议。\n消息称，中央科技办副主任、科技部副部长林新，工业和信息化部总经济师高东升，住房和城乡建设部副部长董建国、秦海翔，国家能源局副局长宋宏坤及相关司局负责同志，省及大连市领导王健、高涛、王利波、李强、陈绍旺参加相关活动。\n上述官媒报道显示，科技部部长阴和俊已任中央科技办主任，科技部副部长林新已任中央科技办副主任。（澎湃新闻记者 蒋子文）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_29111268",
+          "publishedOn": "2024-10-22T12:23:05.000Z",
+          "wordCount": null,
+          "title": "中央科技办亮相：科技部部长阴和俊已任该办主任",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_27922499",
+          "author": null,
+          "description": "近日，澎湃新闻从多个信源处得知，武汉中院判定武汉金凰收购三环集团有限公司（以下简称三环集团）来自诈骗资金，该收购被认定为骗取股权，并要求股权转让方湖北省兴楚国有资产经营管理有限公司（以下简称兴楚公司）将股权收购款48.3亿退还给武汉金凰。\n此前5月28日，湖北省武汉市中级人民法院一审对武汉金凰珠宝股份有限公司（以下简称武汉金凰）、武汉金凰实业集团有限公司、合肥渤银投资咨询有限公司及贾志宏等18名被告人合同诈骗、骗取贷款、违法发放贷款、非国家工作人员受贿、对非国家工作人员行贿、职务侵占、假冒注册商标一案依法公开宣判。\n贾志宏以合同诈骗罪、非国家工作人员受贿罪、对非国家工作人员行贿罪，数罪并罚，判处无期徒刑，并处没收个人全部财产，剥夺政治权利终身。其他被告人分别被判处三年二个月至十二年不等的有期徒刑及相应财产刑，对被告单位武汉金凰珠宝股份有限公司、武汉金凰实业集团有限公司、合肥渤银投资咨询有限公司判处相应罚金。目前被告人邹大春（中国人保东西湖支公司负责人）、胡志军（北方信托业务部门负责人）已提出上司，案件已移至湖北省高院二审。\n此案因涉及巨额假黄金诈骗，被外界称为百亿假黄金诈骗案。\n三环集团最核心资产为上市公司襄阳轴承（000678.SZ），襄阳轴承目前实控人仍为金凰集团，如果上述收购被认定无效，这意味着襄阳轴承的实控人会再次变更为湖北省国资委。10月21日，襄阳轴承董秘办在回复澎湃新闻时表示，“对该情况不知情，没有收到控股股东方面消息”。\n三环集团一位人士在10月16日时回复称，“我们这里没有可以发布的消息，一切以政府相关部门发布信息为准”。\n而一位接近武汉金凰债权委员会的人士告诉澎湃新闻，“这笔钱被退回可能性不大，因为收购导致的三环集团改制而产生的人员安置等费用都没有支付，即便退回来资金也不会多”。\n此外，澎湃新闻还获知，案件涉事方东莞信托、中国人保的相关诉求被武汉中院驳回…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_27922499",
+          "publishedOn": "2024-10-22T11:53:07.000Z",
+          "wordCount": 78,
+          "title": "百亿假黄金骗局追踪｜襄阳轴承要易主？金凰用诈骗资金收购三环被判无效，要求退还48亿",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_29110368",
+          "author": null,
+          "description": "朝鲜劳动党中央委员会副部长金与正22日发表谈话。\n谈话称，韩国军方对朝鲜的主权侵害行为是绝对不可容忍的穷凶极恶的军事挑衅行为。朝鲜有关部门将继续进行对韩国无人机的调查，将进一步详细分析韩国军方挑衅的真相，朝鲜的报复行为将无法预测。\n金与正还表示，21日又在朝鲜多地发现了韩国空投的反朝垃圾物品。韩方执政者不反省，反而加剧局势，应当受到世人谴责。（央视新闻）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_29110368",
+          "publishedOn": "2024-10-22T11:53:07.000Z",
+          "wordCount": 28,
+          "title": "金与正：朝鲜将进一步详细分析韩国军方挑衅的真相",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_29110340",
+          "author": null,
+          "description": "10月22日晚的原生鸿蒙之夜上，华为正式发布纯血鸿蒙系统HarmonyOS 5.0，成为与苹果iOS系统和谷歌安卓系统鼎足并立的第三大操作系统。华为常务董事、终端 BG 董事长余承东介绍，2019年，鸿蒙操作系统一经发布便深受广大用户喜爱。截至目前，鸿蒙在中国市场占据Top2的领先地位，拥有1.1亿+的代码行、675万注册开发者和10亿+鸿蒙生态设备。在各行各业伙伴的共同努力下，已有超过15000个鸿蒙原生应用和元服务上架，且原生鸿蒙APP迭代迅速，几乎达到了一天一个版本的惊人速度。通用办公应用覆盖全国超过3800万个企业，数千个政企内部办公应用加速上线。（澎湃新闻记者 吴遇利）\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.run",
+          "link": "https://www.thepaper.cn/newsDetail_forward_29110340",
+          "publishedOn": "2024-10-22T11:53:07.000Z",
+          "wordCount": 36,
+          "title": "华为正式发布纯血鸿蒙系统，余承东：鸿蒙生态设备数已超10亿",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_29110287",
+          "author": null,
+          "description": "因未能及时支付股份回购款，万达集团再度被申请仲裁。\n10月22日，ST易购（002024.SZ，苏宁易购）发布关于重大仲裁的公告。\n公告显示，苏宁易购请求裁决大连万达集团股份有限公司（以下简称“万达集团”） 向苏宁易购集团股份有限公司（以下简称“公司”）及其子公司苏宁国际集团股份有限公司（Suning International Group Co., Limited，以下简称“苏宁国际”）支付股份回购款5040598551.33元。同时，请求裁决大连万达商业管理集团股份有限公司（以下简称“万达商管”）对万达集团的上述付款义务承担连带责任。请求裁决万达集团和万达商管承担本案仲裁费、保全费、保险费、 律师费等全部费用，该仲裁已被受理。（澎湃新闻记者 李晓青）\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.run",
+          "link": "https://www.thepaper.cn/newsDetail_forward_29110287",
+          "publishedOn": "2024-10-22T11:23:05.000Z",
+          "wordCount": 43,
+          "title": "苏宁易购对万达集团提起仲裁，要求支付50.4亿元股份回购款",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_29110325",
+          "author": null,
+          "description": "10月22日，我国首个国产移动操作系统——华为原生鸿蒙操作系统正式发布，这也是继苹果iOS和安卓系统后，全球第三大移动操作系统。\n据介绍，此前已经发布过的鸿蒙系统，由于系统底座仍使用了部分AOSP开放源代码，而不得不兼容部分安卓应用软件。而此次发布的原生鸿蒙，实现了系统底座的全部自研，系统的流畅度、性能、安全特性等提升显著，也实现了国产操作系统的自主可控。\n华为常务董事、终端BG董事长、智能汽车解决方案BU董事长余承东介绍，此次发布的原生鸿蒙在续航时间、安全和隐私保护等方面均属于行业前列。当前，每天上架的应用软件，几乎每天迭代更新一次。\n据了解，目前已经有超过15000多个鸿蒙原生应用和元服务上架，覆盖18个行业，通用办公应用覆盖全国3800万多家企业。原生鸿蒙降低了接入新系统的难度和成本，流畅度提升30%，很多应用一天一个版本迭代更新。（央视新闻）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_29110325",
+          "publishedOn": "2024-10-22T11:23:04.000Z",
+          "wordCount": 34,
+          "title": "摆脱内核依赖，我国首个国产移动操作系统正式发布",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_29108901",
+          "author": null,
+          "description": "就辽宁多地沿岸突发的异常增水事件，10月22日，澎湃新闻（www.thepaper.cn）从自然资源部获悉，本次异常增水过程强且持续时间长，1米左右的异常增水在渤海沿岸持续时间超过20小时，叠加天文高潮导致21日凌晨前后辽宁省多个潮位站出现破历史纪录的高潮位，辽宁、河北、天津等多地出现海水倒灌现象。目前，在国内外尚未发现有明确记载的此类案例。\n自然资源部有关专家分析认为，此次异常增水主要与外海大范围风暴潮波的震荡回流和天文高潮的叠加有关。在此次异常增水发生前，受冷空气和出海气旋共同影响，10月18日至19日上午，渤海湾、莱州和山东半岛沿岸出现了一次强风暴潮过程。19日下午至20日白天，渤海沿岸普遍出现了最大超过100厘米的持续减水过程，致大量海水在外海堆积，20日夜间到21日早晨，堆积的海水震荡回流正好叠加在当地天文高潮上，导致辽宁、河北和天津等地沿岸普遍潮位较高。\n10月20日傍晚到21日下午，渤海和黄海中北部各潮位站在无明显天气系统的情况下出现80到160厘米的增水，辽宁省沿岸出现了达到当地红色警戒潮位的高潮位，河北省秦皇岛市、唐山市和山东省烟台市出现了达到当地橙色警戒潮位的高潮位，天津市、河北省沧州市、山东省潍坊市和威海市出现了达到当地黄色警戒潮位的高潮位。\n此外，10月19日中午，江苏南通沿海还出现了达到当地红色警戒潮位的高潮位。长江口以南沿海尚未发现异常增水，我国乃至全球其他海域同时段也未发现类似异常情况。\n自然资源部已于10月21日启动海洋灾害四级应急响应，派出5个专家组赶赴辽宁、天津、河北、山东指导地方核查部分岸段异常增水情况，做好灾情调查和评估工作。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_29108901",
+          "publishedOn": "2024-10-22T10:53:05.000Z",
+          "wordCount": 29,
+          "title": "辽宁等地突发海水倒灌，自然资源部：国内外尚未发现有明确记载的此类案例",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_29110171",
+          "author": null,
+          "description": "10月22日，澎湃新闻记者从上海铁路警方获悉，21日，由上海开往盐城的G8988次列车运行至苏州园区站时，旅客邱某因未能及时下车，在车门关闭后按下紧急制动按钮，导致列车晚点7分钟。目前，该女子邱某因涉嫌扰乱公共交通工具上的秩序被警方行政拘留7日。\n事发当日8时55分许，本该正点驶出苏州园区站的G8988次列车却停靠在站台上迟迟未开出。旅客邱某在列车关门后按下了紧急制动按钮，触发列车警报。接到报警后，苏州站派出所民警立即将该女子带至办案区进一步调查。（澎湃新闻资深记者 邹桥 通讯员 方逸凡）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_29110171",
+          "publishedOn": "2024-10-22T10:53:05.000Z",
+          "wordCount": 36,
+          "title": "高铁车门关闭，女子按下紧急制动按钮想下车，被行拘7日",
+          "imageUrl": null
+        },
         {
           "id": "https://www.thepaper.cn/newsDetail_forward_29108841",
           "author": null,
@@ -11728,66 +11908,6 @@
           "wordCount": 27,
           "title": "群智咨询：预计2024年全球机器人出货规模约4700万台",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_28825925",
-          "author": null,
-          "description": "国家发改委23日举行专题新闻发布会，介绍大规模设备更新和消费品以旧换新政策总体进展成效。国家发改委党组成员、副主任赵辰昕表示，下一步，国家发改委将会同有关方面，做好回收循环利用这篇大文章，加快构建覆盖各领域、各环节的废弃物循环利用体系，持续畅通资源回收利用链条，推动实现“去旧更容易，换新更便捷”。一是加快“换新+回收”物流体系和新模式发展，进一步完善废旧产品设备回收网络。二是强化生产者责任延伸，支持企业建设回收废旧产品的逆向物流体系，推进退役风电光伏、动力电池等高效利用。同时，支持组建中国资源循环利用集团，推动设立全国性、功能性资源回收利用平台。三是优化二手车交易登记管理，完善相关资源进口标准和政策，构建国际化回收循环利用更大的体系。与此同时，回收循环利用需要方方面面形成合力，我们呼吁广大消费者和企业积极参与废旧物资回收、再生资源利用等各环节具体的工作和行动，共同践行绿色生产生活方式。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_28825925",
-          "publishedOn": "2024-09-23T04:23:03.000Z",
-          "wordCount": 27,
-          "title": "国家发改委：支持企业建设回收废旧产品的逆向物流体系",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_28825949",
-          "author": null,
-          "description": "9月23日，恒生指数午盘涨0.55%，恒生科技指数涨0.71%。盘面上，硬件设备走高，消费、能源劲升，海信家电攀升5%，中兴通讯上攻4%，华润燃气升超3%；金融表现活跃，银行、保险涨幅居前，中国太平、浙商银行涨逾3%，中国财险上扬2%。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_28825949",
-          "publishedOn": "2024-09-23T04:23:03.000Z",
-          "wordCount": 27,
-          "title": "恒生指数午盘涨0.55%，恒生科技指数涨0.71%",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_28825553",
-          "author": null,
-          "description": "72岁的杨某某、62岁的邱某某与25岁的叶某，三人的片子几乎一模一样（图源：央广网）\n\n\n针对近期网上举报的无锡虹桥医院涉嫌欺诈骗保问题，国家医保局派出飞行检查组，于今日上午进驻该院开展专项飞行检查。\n同时，国家医保局指导江苏省医保局，派出20个检查组进驻无锡市下辖所有区县，对100多家定点医药机构开展全面检查。\n对欺诈骗保问题，医保部门始终保持“零容忍”。一经查实，将坚决从严从重惩处。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_28825553",
-          "publishedOn": "2024-09-23T03:53:02.000Z",
-          "wordCount": 33,
-          "title": "无锡虹桥医院涉嫌欺诈骗保，国家医保局进驻开展专项飞行检查",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_28825087",
-          "author": null,
-          "description": "在豪华车市场竞争日益激烈的背景下，8月份宝马销量几近“腰斩”。数据显示，8月份，宝马在华市场仅售出3.48万辆，较去年同期下跌了42%。而近日，宝马做出了下调相关车型售价的决定。\n接受《证券日报》记者采访的业内人士普遍认为，宝马重返“价格战”，受近期销量暴跌、市场压力、前期涨价策略失败以及市场竞争激烈等多重因素影响。\n不得不采取降价策略\n宝马最新财务报告显示，2024年上半年，其汽车业务的总收入为630.09亿欧元，与上一财年同期大致持平，而净利润却降至56.56亿欧元，同比缩减了14.6个百分点。其中，在中国市场，宝马的交付量滑落至37.64万辆，同比减少4.3%。\n对于中国市场销量下滑，宝马认为，近年来，中国本土电动汽车制造商在电动汽车领域迅速崛起，凭借自身优势，持续抢占市场份额，迫使包括宝马在内的多个欧洲汽车品牌不得不采取降价策略。此外，今年8月份，宝马在中国市场的总销量已锐减至3.48万辆，与去年同期的约6万辆相比，近乎减半。\n反观竞争对手，奔驰在8月份实现了4.9万辆的销量，奥迪则为4.79万辆，而国内新能源汽车领域的“新势力”品牌，例如理想汽车也达到了4.8万辆的销量。\n宝马在公告中表示，预计2024财年交付量同比将略有下降，而此前曾预计略有增加；预计息税前利润率将在6%至7%之间，低于此前预测的8%至10%，也大幅低于市场预期的8.37%；资本使用回报率（RoCE）预计为11%至13%，同样低于此前预测的15%至20%。\n一位不愿具名的汽车行业分析师向《证券日报》记者表示：“当前，宝马正处于一个进退维谷的境地。若继续深陷“价格战”，无疑将侵蚀其品牌价值并影响利润空间；但若不采取积极的价格策略，又难以有效捍卫市场份额，导致销量持续承受下行压力。这一现状对宝马而言，无疑构成了严峻的挑战。”\n热销车型均降价\n值得注意的是，宝马重返“价格战”也反映出汽车市场竞争的激烈程度。在“价格战”的背后，是各大品牌对市场份额的激烈争夺和对消费者需求的敏锐洞察。然而，价格竞争并非长久之计，如何在“价格战”中保持品牌竞争力，并在新技术、新产品等方面实现突破，将是宝马等豪华品牌未来需要重点思考的问题。\n在这种情况下，宝马不得不重新审视其市场定位和竞争策略。虽然降价可能会压缩品牌利润空间，但在当前市场环境下，却是提振销量、维护市场份额的有效手段。\n连日来，《证券日报》记者走访北京多个宝马销售门店了解到，宝马此次下调售价的幅度相当大，旗舰纯电车型i7、宝马3系和5系等热销车型均有不同程度的价格下调。这一系列降价措施显然是为了在年底前冲刺销量目标，弥补之前的销量损失。\n宝马重返“价格战”，不仅是对市场变化的快速响应，也是对其前期策略的反思和调整。在燃油车时代，宝马凭借其卓越的技术和品牌影响力，在豪华车市场占据了领先地位。然而，随着新能源汽车市场的快速发展和消费者购车偏好的变化，宝马也面临着前所未有的挑战。特别是以理想、问界等为代表的中国新能源汽车品牌，凭借技术创新和高性价比优势，迅速占领了市场，对宝马等传统豪华品牌构成了威胁。\n“由于各国燃油车相关法规日渐严格及新兴电动汽车品牌的竞争加剧，使得宝马在华以及欧洲市场的制造成本提高，进一步压缩了其生存空间和市场份额。这些因素共同作用下，影响了宝马的销量和股价表现。”国际智能运载科技协会秘书长张翔对《证券日报》记者表示，“短期来看，宝马可通过降价策略来提升销量和占有率，但长期而言，必须加强新能源车型的研发和推广，以适应燃油车销量下降的趋势，并维持其市场竞争优势。尽管此前宝马在豪华车市场中通过不降价策略维持了一定的地位，但随着新能源汽车市场的迅速崛起和发展，这种策略已不再可行。”\n张翔认为，未来消费者将大规模转向新能源汽车，因此宝马应该积极开发新能源汽车产品，从根本上解决所面临的挑战并顺应消费趋势的变化。“为了应对挑战，宝马需要加大在新能源技术上的投入，丰富产品线，并适应日益严格的全球市场环境。”\n上述不具名分析师进一步表示：“8月份销量的暴跌让宝马不得不重返‘价格战’，以应对市场的挑战。通过下调车型售价，宝马希望能够提振销量、维护市场份额，并为未来的发展奠定坚实基础。然而，在这场激烈的市场竞争中，宝马能否成功实现目标，还需市场和消费者的进一步检验。”",
-          "link": "https://www.thepaper.cn/newsDetail_forward_28825087",
-          "publishedOn": "2024-09-23T03:53:02.000Z",
-          "wordCount": 30,
-          "title": "8月份在华销量几近“腰斩”，宝马正式重返“价格战”",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_28825876",
-          "author": null,
-          "description": "A股三大股指9月23日开盘涨跌互现。早盘沪深股指快速走高转涨，而高开的创指则冲高回落一度转跌。\n从盘面上看，华为概念股加速冲高，网络安全、教育、车路云概念表现抢眼，银行、能源等红利资产企稳走强；CRO概念高开低走，光伏逆变器板块逆势下挫，光刻机、民航、半导体设备板块表现不佳。\n至午间收盘，上证综指涨0.72%，报2756.39点；科创50指数跌0.48%，报645.25点；深证成指涨0.58%，报8122.25点；创业板指涨0.09%，报1538.02点。\nWind统计显示，两市及北交所共3129只股票上涨，1841只股票下跌，平盘有378只股票。\n沪深两市早间成交总额3657亿元；据大智慧VIP，两市及北交所共有56只股票涨幅在9%以上，6只股票跌幅在9%以上。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_28825876",
-          "publishedOn": "2024-09-23T03:53:02.000Z",
-          "wordCount": 28,
-          "title": "【午盘】沪深两市早盘低开高走，银行、能源等红利资产企稳走强",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_28825909",
-          "author": null,
-          "description": "9月23日，印度SENSEX30指数高开0.13%报84651.15点。权重股信实工业涨0.24%，塔塔咨询涨0.02%，HDFC BANK持平。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_28825909",
-          "publishedOn": "2024-09-23T03:53:02.000Z",
-          "wordCount": 30,
-          "title": "印度SENSEX30指数高开0.13%",
-          "imageUrl": null
         }
       ]
     },
@@ -11796,6 +11916,66 @@
       "feedUrl": "https://www.nationalreview.com/feed/",
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
+        {
+          "id": "https://www.nationalreview.com/?p=1714793",
+          "author": "Andrew Stuttaford",
+          "description": "The week of October 14, 2024: Brussels vs. Musk, housing, labor, healthcare, and electric vehicles.",
+          "link": "https://www.nationalreview.com/2024/10/space-and-censorship-the-eus-struggle-with-musk/",
+          "publishedOn": "2024-10-22T12:40:37.000Z",
+          "wordCount": 8302,
+          "title": "Space and Censorship: The EU’s Struggle with Musk",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/10/elon-musk-2.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1714406",
+          "author": "Nina Shea",
+          "description": "They stand as a testament to the reality that China represses the Catholic Church along with all its other religions.",
+          "link": "https://www.nationalreview.com/2024/10/dont-forget-the-catholic-bishops-persecuted-by-china/",
+          "publishedOn": "2024-10-22T10:30:54.000Z",
+          "wordCount": 6023,
+          "title": "Don’t Forget the Catholic Bishops Persecuted by China",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/08/xi-1.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1714697",
+          "author": "The Editors",
+          "description": "The alarming leak of U.S. intel about Israel’s retaliation plans shows the Biden administration is compromised by individuals sympathetic to the terrorist regime.",
+          "link": "https://www.nationalreview.com/2024/10/the-biden-iran-scandal-gets-worse/",
+          "publishedOn": "2024-10-22T10:30:50.000Z",
+          "wordCount": 5442,
+          "title": "The Biden Iran Scandal Gets Worse",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/10/joe-biden-3.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1714583",
+          "author": "Gregg Girvan",
+          "description": "Instead of expanding Medicare’s footprint, we should pursue more-sustainable solutions to address the long-term-care crisis.",
+          "link": "https://www.nationalreview.com/2024/10/americans-cannot-afford-harriss-home-health-entitlement/",
+          "publishedOn": "2024-10-22T10:30:19.000Z",
+          "wordCount": 6049,
+          "title": "Americans Cannot Afford Harris’s Home Health Entitlement",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/10/kamala-harris-16.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1714737",
+          "author": "Rich Lowry",
+          "description": "The unnecessary delays create uncertainty and breed distrust.",
+          "link": "https://www.nationalreview.com/2024/10/our-vote-counting-is-a-national-embarrassment/",
+          "publishedOn": "2024-10-22T10:30:08.000Z",
+          "wordCount": 5699,
+          "title": "Our Vote-Counting Is a National Embarrassment",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/10/voting-1.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1714715",
+          "author": "Ryan Ellis",
+          "description": "If Trump is reelected with a Republican Congress, the first order of business will be making the tax cuts in the Tax Cuts and Jobs Act permanent.",
+          "link": "https://www.nationalreview.com/2024/10/trumps-tax-bill-helped-mcdonalds-franchisees/",
+          "publishedOn": "2024-10-22T10:30:05.000Z",
+          "wordCount": 6064,
+          "title": "Trump’s Tax Bill Helped McDonald’s Franchisees",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2018/06/donald-trump-gop-tax-cut-2.jpg?fit=2057%2C1200&ssl=1"
+        },
         {
           "id": "https://www.nationalreview.com/?p=1714467",
           "author": "Noah Rothman",
@@ -14075,16 +14255,6 @@
           "wordCount": 6814,
           "title": "Why Are Both Parties Targeting Civil Society?",
           "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/09/trump-harris-1.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1704503",
-          "author": "John Fund",
-          "description": "The vice president’s evasive campaign has nothing new to offer.",
-          "link": "https://www.nationalreview.com/2024/09/we-already-have-a-harris-administration/",
-          "publishedOn": "2024-09-22T19:47:11.000Z",
-          "wordCount": 7240,
-          "title": "We Already Have a Harris Administration",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/09/kamala-harris-pennsylvania-2.jpg?fit=2057%2C1200&ssl=1"
         }
       ]
     },
@@ -14093,6 +14263,26 @@
       "feedUrl": "https://sspai.com/feed",
       "siteUrl": "https://sspai.com",
       "articles": [
+        {
+          "id": "https://sspai.com/post/93112",
+          "author": "waychane",
+          "description": "可以说，不管到哪里，我的包里大概率会装着一台iPadmini。这台iPad有着单手友好的尺寸，装上智能双面夹之后也就只有两台手机的重量，放进随身的包里完全没有负担。在过去的两三年时间里，第六代iPad ...查看全文",
+          "link": "https://sspai.com/post/93112",
+          "publishedOn": "2024-10-22T13:01:32.000Z",
+          "wordCount": 928,
+          "title": "AI 而不得，未来可期：iPad mini (A17 Pro) 首发体验",
+          "imageUrl": "https://cdnfile.sspai.com/2024/10/22/article/17bfb967-f43d-6545-a6fd-cd27263484d8.png"
+        },
+        {
+          "id": "https://sspai.com/post/93114",
+          "author": "Matrix机器人",
+          "description": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。🔥一周热评来 ...查看全文",
+          "link": "https://sspai.com/post/93114",
+          "publishedOn": "2024-10-22T09:01:09.000Z",
+          "wordCount": 930,
+          "title": "社区速递 065 | 你没见过的社区文章、一周最热评、派友的音频听文",
+          "imageUrl": "https://cdnfile.sspai.com/10/22/2024/article/693b3f7f-141c-d595-650d-7a42105a3249.png"
+        },
         {
           "id": "https://sspai.com/post/92955",
           "author": "爱拼安小匠",
@@ -14972,36 +15162,6 @@
           "wordCount": 1174,
           "title": "BlackBerry 10 的最后时光与 RIM 的全面转向",
           "imageUrl": "https://cdnfile.sspai.com/9/23/2024/article/f108b004-dd0b-1d48-4459-07be76e5bd93.png"
-        },
-        {
-          "id": "https://sspai.com/post/92306",
-          "author": "PlatyHsu",
-          "description": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
-          "link": "https://sspai.com/post/92306",
-          "publishedOn": "2024-09-23T03:41:08.000Z",
-          "wordCount": 998,
-          "title": "如何获取美亚纸版书的 PDF：寄送扫描服务及手工优化记录",
-          "imageUrl": "https://cdnfile.sspai.com/9/23/2024/article/ac5d1368-8775-74c0-9781-92f3c55c6f11.jpeg"
-        },
-        {
-          "id": "https://sspai.com/post/91866",
-          "author": "少数派编辑部",
-          "description": "visionOS 2 的表现更像是 visionOS 1 的完全体，在优化细节的同时还引入了这些新功能。查看全文",
-          "link": "https://sspai.com/post/91866",
-          "publishedOn": "2024-09-23T03:30:00.000Z",
-          "wordCount": 928,
-          "title": "具透 | 这或许才是完全体，visionOS 2 中值得你关注的新功能",
-          "imageUrl": "https://cdnfile.sspai.com/6/19/2024/article/90d2ce9c-a0e4-d73a-74df-a871b5a69ce3.jpeg"
-        },
-        {
-          "id": "https://sspai.com/post/92468",
-          "author": "少数派编辑部",
-          "description": "你可能错过的新鲜事高通接触英特尔探讨收购意向据《华尔街日报》报道，高通近期接洽英特尔，提议收购。若交易达成，将成为近年来规模最大、影响最深远的科技行业并购案，价值也可能创下历史新高。英特尔曾是全球市值 ...查看全文",
-          "link": "https://sspai.com/post/92468",
-          "publishedOn": "2024-09-23T00:58:00.000Z",
-          "wordCount": 734,
-          "title": "派早报：高通接触英特尔探讨收购意向",
-          "imageUrl": "https://cdnfile.sspai.com/9/23/2024/article/25905ed1-6e3b-2a13-c286-4d6ab3e0dfd6.png"
         }
       ]
     },
@@ -15016,6 +15176,26 @@
       "feedUrl": "https://plink.anyfeeder.com/nytimes/dual",
       "siteUrl": "http://nytimes.com",
       "articles": [
+        {
+          "id": "https://cn.nytimes.com/usa/20241022/elon-musk-federal-agencies-contracts/dual",
+          "author": null,
+          "description": "ERIC LIPTON, DAVID A. FAHRENTHOLD, AARON KROLIK, KIRSTEN GRIND2024年10月22日无论谁赢得总统大选，全球首富埃隆·马斯克都将是一个重要的政治势力。 Haiyun Jiang for The New York Times\nElon Musk’s influence over the federal government is extraordinary, and extraordinarily lucrative.\n埃隆·马斯克对联邦政府有着异乎寻常的影响力，这种影响力也为他带来了极为丰厚的利润。\nMr. Musk’s rocket company, SpaceX, effectively dictates NASA’s rocket launch schedule. The Defense Department relies on him to get most of its satellites to orbit. His companies were promised $3 billion across nearly 100 different contracts last year with 17 federal agencies.\n马斯克的火箭公司SpaceX实质上决定着美国国家航空航天局(NASA)的火箭发射时间表。美国国防部的大部分卫星需要靠他来送入轨道。去年，他的公司与17个联邦机构签订了近100份不同的合同，将从中得到30亿美元。\n马斯克的两家公司在过去十年里得到了至少154亿美元的政府合同。 By Jonathan Corum\nHis entanglements with federal regulators are also numerous and adversarial. His co…",
+          "link": "https://cn.nytimes.com/usa/20241022/elon-musk-federal-agencies-contracts/dual",
+          "publishedOn": "2024-10-22T08:06:02.000Z",
+          "wordCount": 2204,
+          "title": "美国政府机构会成为马斯克的“工具”吗",
+          "imageUrl": "https://static01.nyt.com/images/2024/11/16/multimedia/16DC-MUSKCONFLICTS-TOP-02-chzb/16DC-MUSKCONFLICTS-TOP-02-chzb-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/world/20241022/russia-china-brics/dual",
+          "author": null,
+          "description": "VALERIE HOPKINS, DAVID PIERSON2024年10月22日俄罗斯官方媒体提供的一张照片显示，今年7月，俄罗斯总统普京在圣彼得堡出席金砖国家议会论坛。 Valery Sharifulin/Sputnik\nAfter Russia launched its full-scale invasion of Ukraine in 2022, the West imposed sweeping economic sanctions, cut its access to the global banking system, and sought to isolate Russia diplomatically from the rest of the world.\n在俄罗斯于2022年全面入侵乌克兰后，西方对其实施了全面的经济制裁，切断了俄罗斯与全球银行体系的联系，并试图在外交上将俄罗斯与世界其他国家隔离开来。\nAs President Vladimir V. Putin gathers the leaders of emerging market countries this week in the Russian city of Kazan, he wants to show the West that he has important allies on his side.\n本周，俄罗斯总统普京在俄罗斯城市喀山召集新兴市场国家的领导人，希望向西方表明，有重要的盟友和他站在同一边。\nRussia is hosting the so-called BRICS group, which stands for Brazil, Russia, India, China and South Africa. This year the meeting, which beg…",
+          "link": "https://cn.nytimes.com/world/20241022/russia-china-brics/dual",
+          "publishedOn": "2024-10-22T08:06:02.000Z",
+          "wordCount": 1554,
+          "title": "金砖国家峰会：普京和习近平打的什么“算盘”",
+          "imageUrl": "https://static01.nyt.com/images/2024/10/21/multimedia/21russia-brics-01-btfk/21russia-brics-01-btfk-articleLarge.jpg"
+        },
         {
           "id": "https://cn.nytimes.com/usa/20241022/trump-harris-undecided-voters/dual",
           "author": null,
@@ -15675,26 +15855,6 @@
           "wordCount": 1342,
           "title": "以色列和真主党冲突继续升级，引发全面战争担忧",
           "imageUrl": "https://static01.nyt.com/images/2024/09/22/multimedia/22mideast-ledeall-ltmq/22mideast-ledeall-ltmq-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/opinion/20240923/israel-pager-attacks-supply-chain/dual",
-          "author": null,
-          "description": "BRUCE SCHNEIER2024年9月23日\nIsrael’s brazen attacks on Hezbollah last week, in which hundreds of pagers and two-way radios exploded and killed at least 37 people, graphically illustrated a threat that cybersecurity experts have been warning about for years: Our international supply chains for computerized equipment leave us vulnerable. And we have no good means to defend ourselves.\n上周，以色列对真主党发动了公然袭击，数百台寻呼机和对讲机相继爆炸，造成了至少37人死亡，血淋淋地展示了网络安全专家们多年来一直在警告的威胁：我们的电脑化设备的国际供应链让我们易受攻击。而且，我们没有好的手段来保护自己。\nThough the deadly operations were stunning, none of the elements used to carry them out were particularly new. The tactics employed by Israel, which has neither confirmed nor denied any role, to hijack an international supply chain and embed plastic explosives in Hezbollah devices have been used for years. …",
-          "link": "https://cn.nytimes.com/opinion/20240923/israel-pager-attacks-supply-chain/dual",
-          "publishedOn": "2024-09-23T03:06:03.000Z",
-          "wordCount": 1228,
-          "title": "以色列的寻呼机攻击改变了世界",
-          "imageUrl": "https://static01.nyt.com/images/2024/09/22/multimedia/mzcf/mzcf-videoLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/china/20240923/china-japan-seafood-ban-fukushima/dual",
-          "author": null,
-          "description": "DAISUKE WAKABAYASHI, KIUKO NOTOYA, CLAIRE FU2024年9月23日在日本开始排放核废水几天后，福岛县的一个港口正在分拣水产品，摄于去年9月。 Jiji Press, via Agence France-Presse — Getty Images\nChina said on Friday that it would gradually resume imports of seafood from Japan, a year after banning them in response to Japan’s release of treated radioactive water from the crippled Fukushima Daiichi nuclear plant into the ocean.\n中国上周五宣布，将逐步恢复从日本进口水产品。一年前，在福岛第一核电站将处理过的放射性废水排海后，中国对日本海鲜下达了禁令。\nThe announcement came after the countries reached an agreement to expand monitoring of the treated water, which Japan began discharging in August of last year. The Japanese government and Tokyo Electric Power Company, which operated the Fukushima plant and is overseeing its cleanup, have assured the public that the water is safe for human consumption.\n做出宣布之…",
-          "link": "https://cn.nytimes.com/china/20240923/china-japan-seafood-ban-fukushima/dual",
-          "publishedOn": "2024-09-23T01:06:03.000Z",
-          "wordCount": 921,
-          "title": "中国将逐步解禁日本水产品进口",
-          "imageUrl": "https://static01.nyt.com/images/2024/09/20/multimedia/20china-japan-01-jbwk/20china-japan-01-jbwk-articleLarge.jpg"
         }
       ]
     },
@@ -16151,36 +16311,6 @@
           "publishedOn": "2024-09-25T02:51:00.000Z",
           "wordCount": 297,
           "title": "攀岩与登山不仅仅是一项运动，更是一种生活方式",
-          "imageUrl": null
-        },
-        {
-          "id": "d63dd8326c6847ab54c1a544ad512fe1",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E9%87%8D%E6%96%B0%E8%AE%A4%E8%AF%86%E6%AF%92%E4%B8%8E%E8%8D%AF%EF%BC%9A%E2%80%9C%E6%AF%92%E2%80%9D%E7%9A%84%E4%B8%A4%E9%9D%A2%E6%80%A7%E5%9C%A8%E4%B8%AD%E5%9B%BD%E4%BC%A0%E7%BB%9F%E8%8D%AF%E5%AD%A6%E4%B8%AD%E5%A6%82%E4%BD%95%E4%BD%93%E7%8E%B0%EF%BC%9F",
-          "publishedOn": "2024-09-23T02:08:00.000Z",
-          "wordCount": 295,
-          "title": "重新认识毒与药：“毒”的两面性在中国传统药学中如何体现？",
-          "imageUrl": null
-        },
-        {
-          "id": "19fa07441a77fcd34b9172d30f19f117",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E3%80%8A%E9%87%8C%E6%96%AF%E6%9C%AC%E4%B8%B8%E6%B2%89%E6%B2%A1%E3%80%8B%EF%BC%9A%E9%82%A3%E4%BA%9B%E6%B2%A1%E6%9C%89%E5%A2%93%E7%A2%91%E7%9A%84%E7%94%9F%E5%91%BD%EF%BC%8C%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88%EF%BC%9F",
-          "publishedOn": "2024-09-23T02:08:00.000Z",
-          "wordCount": 256,
-          "title": "《里斯本丸沉没》：那些没有墓碑的生命，意味着什么？",
-          "imageUrl": null
-        },
-        {
-          "id": "d6c5f8f387536f123b84eeaaabe64a0f",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E6%89%93%E9%80%A0%E5%B7%A8%E5%85%BD%EF%BC%9A%E6%88%98%E4%BA%89%E4%B8%8E%E7%A8%8E%E6%94%B6%E5%A6%82%E4%BD%95%E5%82%AC%E7%94%9F%E7%8E%B0%E4%BB%A3%E6%AC%A7%E6%B4%B2%EF%BC%9F",
-          "publishedOn": "2024-09-23T02:08:00.000Z",
-          "wordCount": 303,
-          "title": "打造巨兽：战争与税收如何催生现代欧洲？",
           "imageUrl": null
         }
       ]
