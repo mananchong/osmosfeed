@@ -6,6 +6,16 @@
       "siteUrl": "https://rweekly.org/atom.xml",
       "articles": [
         {
+          "id": "https://rweekly.org/2024-W44.html",
+          "author": null,
+          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Sam Parmar, with help from the R Weekly team members and contributors.\nHighlight\n{sortable} card games in {shiny}\nHTML Table to DataFrame Tool\nShiny Assistant: Prototype and build Shiny applications with the help of AI - Winston Chang - Posit \nInsights\nWinners of the 2024 Shiny Contest\n\nPython for R users\nTime Series Machine Learning: S&P 500\nIterating to achieve my first accepted posit::conf talk\nDyson’s Algorithm for the Twelve Coins Problem\n3 Lessons learned from 3 years of testing as an R developer\n{sortable} card games in {shiny}\nA note about a bug in irr::kripp.alpha()\nR in the Real World\nPosit’s Hadley Wickham honored with the 2025 ASA Award for Statistical Computing …",
+          "link": "https://rweekly.org/2024-W44.html",
+          "publishedOn": "2024-10-28T00:00:00.000Z",
+          "wordCount": 5855,
+          "title": "R Weekly 2024-W44 {sortable}, HTML table to dataframe, Shiny Assistant",
+          "imageUrl": "https://rweekly.org/public/facebook.png"
+        },
+        {
           "id": "https://rweekly.org/2024-W43.html",
           "author": null,
           "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Jonathan Carroll, with help from the RWeekly team members and contributors.\nHighlight\nExploring the tidyHeatmap R package\nDon’t Expect That “Function Works Correctly”, Do This Instead\nComparing data.table reshape to duckdb and polars\nInsights\nR and Python consoles + JupyterLite in www.techtonique.net\nGradient-Boosting anything (alert: high performance): Part2, R version\nHighlights from Shiny in Production (2024)\nPositron in action with #TidyTuesday orca encounters\nMonads in R\nAuthenticate with Alpaca API\nComparison of spatial patterns in continuous raster data for overlapping regions using R\n\nHow to Loop Through Column Names in Base R with Examples\nHow to Add Suffix to Colum…",
@@ -33,16 +43,6 @@
           "publishedOn": "2024-10-07T00:00:00.000Z",
           "wordCount": 5574,
           "title": "R Weekly 2024-W41 Generative Art, Word Templates, Expectations",
-          "imageUrl": "https://rweekly.org/public/facebook.png"
-        },
-        {
-          "id": "https://rweekly.org/2024-W40.html",
-          "author": null,
-          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Tony ElHabr, with help from the R Weekly team members and contributors.\nHighlight\nData Career Insights: Lessons from four senior leaders in the data space\nIn-Place Modifications\nReproducible data science with Nix, part 13 – {rix} is on CRAN!\nInsights\nCover and modify, some tips for R package development\nData Career Insights: Lessons from four senior leaders in the data space\nRStudio IDE and Posit Workbench 2024.09.0: What’s New\nReproducible data science with Nix, part 13 – {rix} is on CRAN!\nSome Options for Fast Matrix Decompositions in R\n\n{surveydown 0.3.0}\nSeal of Approval: collapse\nR in the Real World\nA Bayesian Plackett-Luce model in Stan applied to pinball championship …",
-          "link": "https://rweekly.org/2024-W40.html",
-          "publishedOn": "2024-09-29T00:00:00.000Z",
-          "wordCount": 5862,
-          "title": "R Weekly 2024-W40 Data Career Insights, In-Place Modifications, rix",
           "imageUrl": "https://rweekly.org/public/facebook.png"
         }
       ]
@@ -541,16 +541,6 @@
           "wordCount": 304,
           "title": "戴海斌︱陈匡时与《梁启超年谱长编》“复旦校注本”（三）",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_28892192",
-          "author": null,
-          "description": "詹姆斯·A. 哈里斯（章静绘）\n\n詹姆斯·A. 哈里斯（James A. Harris）是英国圣安德鲁斯大学哲学系教授，圣安德鲁斯大学哲学、人类学与电影研究学院院长，主要研究领域为十七至十八世纪的欧洲道德哲学与政治哲学。著有《自由与必然：十八世纪英国哲学关于自由意志的辩论》（Of Liberty and Necessity: The Free Will Debate in Eighteenth-Century British Philosophy, Oxford University Press, 2005）、《大卫·休谟思想传》（Hume: An Intellectual Biography, Cambridge University Press, 2015）和牛津通识读本《休谟》（Hume: A Very Short Introduction, Oxford University Press, 2021）。\n《大卫·休谟思想传》是迄今唯一一部休谟思想传记。与莫斯纳（Ernest Campbell Mossner）的《大卫·休谟传》（The Life of David Hume）相比，哈里斯的这部思想传记侧重休谟的思想发展而非生平故事。哈里斯批评传统上将《人性论》（A Treatise of Human Nature）看作休谟最重要甚至唯一重要的作品的观点，同时反对为休谟的思想生涯寻求系统或整体解释的做法，主张把休谟当作一位十八世纪的文人来阅读，将休谟的不同作品看作同一种温和怀疑的文人心性在不同领域的表达。本书中文版出版后，《上海书评》特邀清华大学政治学系孙宇辰和圣安德鲁斯大学哲学系祁箫采访了哈里斯教授，请他谈谈休谟的哲学心性、十八世纪文人共和国与苏格兰启蒙运动。\n\n《大卫·休谟思想传》，[英]詹姆斯·A. 哈里斯著，张正萍译，启真馆｜浙江大学出版社，2023年12月出版…",
-          "link": "https://www.thepaper.cn/newsDetail_forward_28892192",
-          "publishedOn": "2024-09-29T02:02:04.000Z",
-          "wordCount": 277,
-          "title": "詹姆斯·A. 哈里斯谈休谟、文人共和国与苏格兰启蒙运动",
-          "imageUrl": null
         }
       ]
     },
@@ -559,6 +549,206 @@
       "feedUrl": "https://feedx.net/rss/thepaper.xml",
       "siteUrl": "http://thepaper.cn",
       "articles": [
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_29169355",
+          "author": null,
+          "description": "位于全球财富金字塔尖端的富人所制造的碳排放，正在造成数万亿美元的经济损失，并导致数百万人的生命面临威胁。\n10月28日，英国乐施会等机构发布报告，对全球范围内的碳排放不平等现象及其造成的恶劣影响进行了分析。报告称，过去30年，全球最富有群体的碳排放导致全球经济产出减少2.9万亿美元，因此而损失的农作物产量足够养活约1450万人。\n这份报告对全球最富有的50名富豪的出行（私人飞机和豪华游艇）和投资方式进行了分析研究。报告显示，这些富豪所制造的碳排放给全球经济造成了巨大的损失。据该报告预测，从1990年到2050年，占世界人口1%的超级富豪给全球造成的经济损失预计约为52.6万亿美元，而这将对低收入和中低收入国家带来最显著的影响：1990年至2050年期间，低收入和中低收入国家将遭受总计44万亿美元的经济损失。在2035年至2050年期间，全球最富有的10%的人在1990年至2030年期间消费排放造成的农业损失，每年可以养活约1.5亿人。亿万富豪们仅在2015年至2019年期间的消费排放，就足以在2020年至2120年间导致150万人的超额死亡。\n乐施会气候正义高级政策顾问琪娅拉·利古奥里在接受英国《卫报》访问时表示，“证据很明显：富人的奢侈生活方式以及污染性投资造成的极端排放加剧了不平等、饥饿并威胁着生命。”\n撰写报告的研究人员发现，这些亿万富翁是毫无疑问的“碳排放大户”。数据显示，他们在不到3个小时内产生的碳排放量，就比普通英国人一生产生的平均碳排放量还要多。他们平均一年乘坐184次私人飞机，在空中停留425小时，这将制造普通人300年才能产生的碳排放量。富豪们的豪华游艇更是碳排放大户：豪华游艇一年的碳排放量，相当于普通人860年的碳排放量，是全球最贫困的50%人口碳排放量的5600倍。\n报告还指出，富豪们的投资组合也是他们产生了大量“碳排放”的原因。这些富豪们持股的企业中，有40%属于石油、采矿、航运和水泥等排放密集型企业，仅有24%的企业设立了“净零排放”目标。数据显示，亿万富豪的投资组合造成的污染几乎是美国主要股指投资的两倍。同时，这些亿万富豪们投资的很多公司，近年来还大量雇佣说客和营销专家来拖延和破坏应对气候变化的行动。数据预测，仅这些富豪在2018年至2028年10年间的投资所制造的碳排放，到2050年就可能造成约2500亿美元的经济损失。这相当于新西兰2023年全年的GDP。\n报告称，这些亿万富翁正在不成比例地消耗全球碳预算的剩余额度，这将全人类置于通往不可逆转的、灾难性的全球变暖的道路上。数据显示，如果全世界的人都像这些亿万富豪一样生活，那么只需要不到两天，人类就将耗尽维持全球变暖在1.5℃水平的全部碳预算。利古奥里表示，这些亿万富豪“肆无忌惮的污染加剧了威胁我们共同未来的危机，这不仅不公平，而且是致命的”。\n报告呼吁各国政府向高排放行业征收碳税，向亿万富豪们征收更高的所得税，以抑制过度消费，同时为全球向清洁能源转型提供资金，并补偿那些受全球变暖影响最严重的人群。利古奥里表示，“对加速气候行动和消除不平等的行动来说，对超级富豪征收更公平的税至关重要。很明显，私人飞机和豪华游艇之类的‘奢侈玩具’不仅仅是过度消费的象征，它们正对人类和地球的未来构成直接威胁。”",
+          "link": "https://www.thepaper.cn/newsDetail_forward_29169355",
+          "publishedOn": "2024-10-28T15:53:04.000Z",
+          "wordCount": 30,
+          "title": "报告：人人都像亿万富豪一样生活，人类耗尽碳预算只需两天",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_29172197",
+          "author": null,
+          "description": "10月25日，进出口银行在上海召开新闻发布会，发布为第七届中国国际进口博览会（以下简称进博会）量身定制的“智融全球2024”专项金融服务方案。进出口银行副行长杨东宁、中国国际进口博览局财务总监戈宏出席发布会发表致辞，并共同为专项金融服务方案发布揭牌。\n发布会上，进出口银行相关负责人还介绍了支持上一届进博会所取得的成果。依托支持第六届进博会专项金融服务方案“智融全球”，进出口银行已为来自德国、澳大利亚、印度尼西亚等33个国家和地区的企业客户提供金融服务，业务金额超800亿元人民币。截至今年9月末，进出口银行进口信贷余额超8600亿元。（澎湃新闻记者 林倩冰）\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.run",
+          "link": "https://www.thepaper.cn/newsDetail_forward_29172197",
+          "publishedOn": "2024-10-28T15:23:04.000Z",
+          "wordCount": 29,
+          "title": "进出口银行发布“智融全球2024”专项金融服务方案，为第七届进博会量身定制",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_29165759",
+          "author": null,
+          "description": "孤身闯荡NBA的中国球员崔永熙终于迎来了自己梦寐以求的NBA首秀。\n北京时间10月28日，篮网在主场115比102力克雄鹿。比赛第四节，在终场前1分58秒，崔永熙披挂登场，迎来了个人的NBA正赛首秀。\n\n在这短暂的出场时间里，崔永熙突破对方球员杰克逊，制造了对手的犯规。随后崔永熙凭借罚篮，2罚1中，拿到了NBA生涯的第一分。\n此前，日本球员河村勇辉也上演了NBA首秀，尽管在3分钟时间里只有1次助攻，但对于河村勇辉而言，这位NBA现役最矮的球员向着自己的目标又迈出了一大步。\n\n对于中国球迷甚至亚洲球迷来说，这个赛季最大的关注点之一无疑就是崔永熙。\n一个月前，布鲁克林篮网为崔永熙提供了一份双向合同，这也就意味着，他有机会最多在常规赛中出战50场比赛。\n这份双向合同不能把崔永熙带进季后赛，但踏上NBA的赛场，对中国球员而言，就是一次重要的尝试和突破。\n季前赛中，崔永熙也得到了上场机会，而且一场比一场打得好。首秀出战9分钟，崔永熙2投0中，通过一个罚球得到进入NBA的第一分；第二场，他在不到5分钟的时间里得到5分，其中那个“拆炸药”的三分球更是点燃了球队替补席。球队主力球员托马斯赛后表示：“我们为每个球员的成功感到开心，他是一个很好的队友。他的3分球命中后，我们都感到很开心，这也点燃了球队。我真心为他感到开心。”\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.run",
+          "link": "https://www.thepaper.cn/newsDetail_forward_29165759",
+          "publishedOn": "2024-10-28T14:53:05.000Z",
+          "wordCount": 42,
+          "title": "突破造犯规2罚1中拿下1分，崔永熙迎来NBA正赛首秀",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_29167292",
+          "author": null,
+          "description": "10月28日，商务部新闻发言人就欧盟有关单独与相关企业进行价格承诺谈判的表态答记者问。\n问：10月25日，欧委会在有关中欧举行视频会谈的新闻中表示，根据世贸组织规则，欧委会有权与参与调查的不同企业商谈价格承诺，与中国机电商会进行价格承诺谈判，并不排斥其他企业单独与欧方商谈价格承诺。请问中方对此有何评论？\n答：我们注意到上述信息。10月25日，王文涛部长与欧委会东布罗夫斯基斯执行副主席的视频会谈中，中方已明确表示，中国机电商会获得不同类型中国企业的充分授权，提出了代表行业整体立场的价格承诺方案，中欧双方已在此基础上进行多轮磋商，付出艰苦努力，取得一定进展。如欧方在与中方磋商的同时，又与部分企业单独进行价格承诺谈判，将动摇彼此信任，干扰磋商整体进程，也将给价格承诺协议的后续执行和监管增加更多行政成本。\n目前，双方已开启下一阶段磋商，中方希望双方按照现有框架，在前期磋商的基础上加快推进，尽早取得实质性突破。\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.run",
+          "link": "https://www.thepaper.cn/newsDetail_forward_29167292",
+          "publishedOn": "2024-10-28T14:53:05.000Z",
+          "wordCount": null,
+          "title": "“单独谈判”干扰中欧磋商进程，商务部郑重表态",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_29172175",
+          "author": null,
+          "description": "10月28日，据接近京东物流和菜鸟的内部人士向澎湃新闻记者透露，继京东物流全面接入淘宝天猫平台后，菜鸟也将正式接入京东第三方平台，入驻京东平台的第三方商家可以选择菜鸟速递、菜鸟大件服务，目前双方已基本完成对接，双方的合作让京东平台第三方商家有了新的服务选择。所谓第三方平台，通俗来说就是京东的非自营业务，为商家在京东平台开设店铺，可自主选择物流服务商。（澎湃新闻记者 范佳来）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_29172175",
+          "publishedOn": "2024-10-28T14:53:05.000Z",
+          "wordCount": 29,
+          "title": "菜鸟将接入京东第三方平台，双方已基本完成对接",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_29171669",
+          "author": null,
+          "description": "10月28日，张家界旅游集团股份有限公司（000430.SZ）发布2024年第三季度报告。财务数据显示，张家界第三季度营业收入约1.36亿元，同比减少7.76%；归母净亏损约356.21万元，同比增亏199.07%。前三个季度张家界的营业收入约3.1亿元，同比减少5.08%；归母净亏损约6472.51万元，同比减少53.36%。\n当日，张家界还发布公告公开招募重整投资人。张家界称，本次招募重整投资人的目的在于引入产业协同、实力雄厚的重整投资人，为公司提供产业及资金等方面支持：一是有效整合产业资源，提升资产的运营效率，改善公司持续经营和盈利能力；二是全面化解公司经营及债务风险，优化公司的资产和负债结构；三是依法维护和保障债权人公平受偿权益，努力实现债权人、债务人、出资人和投资人等各方共赢。\n（澎湃新闻记者 唐莹莹）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_29171669",
+          "publishedOn": "2024-10-28T14:23:06.000Z",
+          "wordCount": 29,
+          "title": "张家界：第三季度亏损约356.12万元，同比增亏近200%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_29168212",
+          "author": null,
+          "description": "10月28日，内蒙古自治区市场监督管理局发布内蒙古自治区中小学校园食品安全突出问题专项整治行动典型案例（第三批），其中涉及学校食堂使用未消毒餐具、未按要求对场所设备设施进行清洁维护、使用发芽土豆为食材制作食品等违法行为。\n其中，包头市达茂旗市场监管局5月30日对达茂旗某中学食堂进行现场检查时，发现该食堂加工区存放着发芽的土豆。在6月13日，对该中学食堂进行整改情况复查时，发现该中学食堂仍然使用发芽的土豆，为学生提供就餐服务。对此，包头市达茂旗市场监管局依法责令该校园改正违法行为，并给予20000元行政处罚。\n具体案例如下：\n呼和浩特市和林格尔县市场监管局查处和林格尔县某小学餐具使用前未消毒案\n2024年6月28日，呼和浩特市和林格尔县市场监管局依法对和林格尔县某小学餐具使用前未消毒的违法行为给予警告的行政处罚，并责令7日内改正。\n2024年6月28日，呼和浩特市和林格尔县市场监管局执法人员对和林格尔县某小学食堂进行现场检查，检查发现清洗后的餐具未放置在消毒柜内。经调查，该批待使用的餐具未进行消毒。当事人餐具使用前未经消毒的行为，违反了《中华人民共和国食品安全法》第三十三条第五项的规定，依据《中华人民共和国食品安全法》第一百二十六条第一款第五项的规定，责令当事人7日内改正，并给予警告的行政处罚。\n呼伦贝尔市额尔古纳市市场监管局查处额尔古纳市某中学食堂未按要求对场所设备设施进行清洁维护案\n2024年6月18日，呼伦贝尔市额尔古纳市市场监管局依法对额尔古纳市某中学食堂未按要求对场所设备设施进行清洁维护的违法行为给予警告的行政处罚。\n2024年6月18日，呼伦贝尔额尔古纳市市场监管局执法人员对额尔古纳市某中学食堂进行现场检查，发现该食堂对场所和设备设施未按要求进行清洁维护，食品处理区地面、墙面有破损。当事人的行为违反了《学校食品安全与营养健康管理规定》第二十六条的规定。依据《学校食…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_29168212",
+          "publishedOn": "2024-10-28T13:53:05.000Z",
+          "wordCount": 39,
+          "title": "包头一中学食堂使用发芽土豆未改正，市监部门：罚款2万元",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_29171689",
+          "author": null,
+          "description": "美股三大股指开盘集体走高，道指涨0.55%，标普500指数涨0.52%，纳指涨0.71%。飞利浦跌超17%，哔哩哔哩涨超4%，名创优品涨8%。（证券时报）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_29171689",
+          "publishedOn": "2024-10-28T13:53:05.000Z",
+          "wordCount": null,
+          "title": "美股三大股指开盘集体走高，道指涨0.55%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_29171002",
+          "author": null,
+          "description": "10月28日，国内商品期货夜盘开盘，原油跌超4%，LU燃油跌超2%，燃料油、BR橡胶、豆油跌超1%；焦煤、焦炭、玻璃、纯碱、烧碱涨超1%。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_29171002",
+          "publishedOn": "2024-10-28T13:23:05.000Z",
+          "wordCount": null,
+          "title": "国内商品期货夜盘开盘，原油跌超4%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_29171097",
+          "author": null,
+          "description": "宁波银行（002142.SZ）10月28日晚间公布的三季度业绩报告显示，今年1-9月，实现归属于母公司股东的净利润207.07亿元，同比增长7.02%；实现营业收入507.53亿元，同比增长7.45%；年化加权平均净资产收益率为14.51%；总资产收益率为0.96%。\n其中，7-9月，宁波银行实现归属于母公司股东的净利润70.58亿元，同比增长10.25% ；实现营业收入163.16亿元，同比增长8.12%。\n资产质量方面，截至9月末，宁波银行不良贷款率 0.76%，与年初持平；不良贷款余额110.65亿元，较上年末的94.99亿元增加15.66亿元； 拨贷比3.08%，拨备覆盖率404.80%。（澎湃新闻记者 陈月石）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_29171097",
+          "publishedOn": "2024-10-28T13:23:05.000Z",
+          "wordCount": 34,
+          "title": "宁波银行前三季度净利207亿增7.02%，不良率持平年初",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_29166338",
+          "author": null,
+          "description": "一次偶然的相遇，一次简短的寒暄，一次网上的留言……可能不是简单巧合，而是境外间谍情报机关精心设计的圈套。记者从国家安全机关了解到，境外间谍情报机关通常会以贴靠搭讪、交流咨询等形式寻觅“猎物”，进而实施拉拢策反。\n境外间谍情报机关惯用伎俩\n别有用心的街头搭讪。\n境外间谍情报机关人员通常会紧盯核心涉密岗位人员，以问路、咨询等各种借口与其关注人员进行搭讪。当得到回应后，其会在交谈中套问个人基本情况，想尽办法留下联系方式，以“再请教问题”“交朋友”“请吃饭”等名义为日后进一步联系打下基础。在几次联系熟络后，境外间谍情报机关人员可能会通过各种方式，伺机套取我内部涉密信息，开展窃密活动。\n处心积虑的公务交往。\n境外间谍情报机关人员可能会乔装打扮身份，通过参加谈判、讲座、展会、研讨会等各种交流活动，有目的、有针对性地结识参会人员，并以现场交换名片等方式获取其重点关注人员联系方式，进而通过打电话、发邮件等方式，以“请教问题”“交换意见”“结交朋友”等名义与被选定人联系约见，逐步实施拉拢、渗透，伺机开展窃密活动。\n暗流涌动的网络社交。\n利用网络开展策反活动，是境外间谍情报机关较常使用的手段，比如他们会事先搜集我重要领域人员的电子邮箱，伪装身份后通过电子邮件结识攀拉；比如在各类论坛、聊天室、网络游戏中物色有价值对象等。在网络上成功结识后，境外间谍情报机关人员可能继续在线上保持来往伺机渗透，也可能从线上发展到线下，面对面实施策反。\n国家安全机关提示\n提高警惕，增强防范意识。\n广大人民群众应主动学习国家安全知识，有效提高自身的防范意识。如遇突如其来的无端搭讪，要第一时间提高警惕，尤其是涉及敏感话题时，不轻易透露个人信息和工作情况，如遇境外人员主动索要联系方式或私下单独邀约，则更要留神注意，避免深入交流。\n严格自律，规范个人行为。\n广大人民群众要注意保护个人信息，不在网上随意透露自己的工作单位、职务、联系方式等敏感信息，重点领域涉密人员要严格遵守保密纪律和工作纪律，坚决拒绝任何人员提出的涉及国家秘密或可能危害国家安全的要求。\n及时报告，共筑安全防线。\n广大人民群众如发现危害国家安全的违法行为及可疑线索，请及时通过12339国家安全机关举报受理电话、网络举报平台（www.12339.gov.cn）、国家安全部微信公众号举报受理渠道或直接向当地国家安全机关进行举报。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_29166338",
+          "publishedOn": "2024-10-28T13:23:05.000Z",
+          "wordCount": 27,
+          "title": "偶遇还是蓄谋已久？国安部门揭露境外间谍情报机关惯用伎俩",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_29167558",
+          "author": null,
+          "description": "10月28日，外交部发言人林剑主持例行记者会。俄通塔斯社记者提问，以色列军队近日打击伊朗境内军事设施，加剧冲突升级、危及平民。以色列不断扩大袭击范围，造成大量人员伤亡，使地区人民的福祉大量下降。请问中方对最近几天在中东发生的局势有何评论？\n林剑表示，中方反对侵犯别国主权、安全，反对动辄输出武力。当前中东的局势高度紧张，有关各方应避免进一步推高地区的整体安全风险。近期发生的一系列事件再次表明了停火止战的紧迫性，国际社会特别是有影响力的大国，应切实发挥建设性作用，为缓和地区紧张局势创造必要条件。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_29167558",
+          "publishedOn": "2024-10-28T13:23:05.000Z",
+          "wordCount": 31,
+          "title": "外交部评论以军打击伊朗军事设施：再次表明停火止战的紧迫性",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_29169131",
+          "author": null,
+          "description": "据新华社10月28日消息，中共中央决定：王浩同志任浙江省委书记，易炼红同志不再担任浙江省委书记、常委、委员职务。\n此前，王浩担任浙江省委副书记、省长、省政府党组书记。\n\n王浩 资料图\n\n\n公开资料显示，王浩，男，汉族，1963年10月生，省委党校大学，中共党员，二十届中央委员。\n王浩曾在山东、河北、陕西等省工作，担任过山东省委副秘书长，省委、省政府信访局局长，省民政厅厅长，淄博市委书记，烟台市委书记等职，于2017年6月升任山东省委常委、烟台市委书记。2017年12月，王浩调任河北省委常委、唐山市委书记，后于2019年8月转任陕西省委常委、西安市委书记。\n2021年9月，王浩调赴浙江工作，出任省委副书记，省政府党组书记、代省长，并于次年1月当选浙江省省长。\n原任浙江省委书记的易炼红出生于1959年9月，湖南涟源人，系十九届中央候补委员、二十届中央委员。\n易炼红曾任湖南省委常委、岳阳市委书记，湖南省委常委、秘书长，湖南省委常委、长沙市委书记，辽宁省委常委、沈阳市委书记，辽宁省委副书记、沈阳市委书记，于2018年10月任江西省省长，2021年10月任江西省委书记，2022年12月任浙江省委书记。\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.run",
+          "link": "https://www.thepaper.cn/newsDetail_forward_29169131",
+          "publishedOn": "2024-10-28T12:53:05.000Z",
+          "wordCount": null,
+          "title": "浙江省省长王浩获任浙江省委书记",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_29170571",
+          "author": null,
+          "description": "10月28日晚间，文一三佳科技股份有限公司（文一科技，600520.SH）发布股票交易严重异常波动公告，截止2024年10月28日，公司股票交易连续10个交易日内日收盘价格涨幅偏离值累计达到100%，属于股票交易严重异常波动情形。公司所属行业为电气机械及器材制造业（证监会行业分类），根据WIND大数据统计，目前行业内平均市盈率为26.3倍，公司最新市盈率为320倍，明显高于同行业平均水平。公司2024年第三季度营业收入下滑，营业收入为2.34亿元，比上年同期下降9.28%。公司提醒广大投资者注意公司经营业绩风险。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_29170571",
+          "publishedOn": "2024-10-28T12:53:05.000Z",
+          "wordCount": 27,
+          "title": "文一科技：公司最新市盈率为320倍，明显高于同行业平均水平",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_29170723",
+          "author": null,
+          "description": "“最新的天气会商表明，神舟十九号载人飞行任务发射日天气较好，各项气象条件满足任务要求，适宜发射。”酒泉卫星发射中心气象室任凤杰28日向记者介绍。\n根据计划，我国近期将发射神舟十九号载人飞船。连日来，发射场进行了最后一次全区合练和全系统气密性检查，目前，火箭、飞船完成加电性能测试，航天员及发射场各系统进行全流程发射演练，均状态良好。\n据了解，这次发射任务时值秋末，发射场夜间温度较低，为保障神舟十九号载人飞行任务圆满成功，中心气象人员紧守最后一道“天气关”，于一个月前便开展了关键设备的状态检查工作，并针对十月份天气特点开展了历史天气回顾和专项天气分析，对历史大风、降水、低温等重点气象要素进行专题分析，以提高对复杂天气的机理认识。（新华社）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_29170723",
+          "publishedOn": "2024-10-28T12:53:05.000Z",
+          "wordCount": 28,
+          "title": "酒泉卫星发射中心：气象条件适宜神舟十九号发射",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_29170111",
+          "author": null,
+          "description": "记者28日从中国科学院了解到，中国科学院日前在深圳启动了合成细胞国际科学计划。该计划聚焦合成生物学领域的前沿基础研究问题，汇聚全球跨学科的优势力量，共同推动生命科学前沿研究和生物技术创新合作。\n来自中国科学院的消息显示，该国际科学计划将以中国科学院深圳先进技术研究院在合成生物学领域的科技任务布局、重大科技基础设施、建制化团队等优势为基础，开展国际合作，努力突破合成生物学前沿科学与技术的核心瓶颈，形成应对人类共性挑战的合作范式。（新华社）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_29170111",
+          "publishedOn": "2024-10-28T12:23:04.000Z",
+          "wordCount": 27,
+          "title": "中国科学院启动合成细胞国际科学计划",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_29170117",
+          "author": null,
+          "description": "10月28日晚间，华峰化学股份有限公司（华峰化学，002064.SZ）公告，公司正在筹划发行股份等方式购买华峰集团有限公司（简称“华峰集团”）持有的浙江华峰热塑性聚氨酯有限公司（简称“浙江热塑”或“TPU”）100%股权以及华峰集团、尤小平、尤金焕、尤小华共同持有的浙江华峰合成树脂有限公司（简称“浙江合成”）100%股权。本次交易预计不构成重大资产重组，不构成重组上市。经公司申请，公司证券自2024年10月29日开市时起开始停牌。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_29170117",
+          "publishedOn": "2024-10-28T12:23:04.000Z",
+          "wordCount": 27,
+          "title": "华峰化学：筹划发行股份等方式购买资产，股票停牌",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_29167687",
+          "author": null,
+          "description": "13人死亡、35人受伤，直接经济损失约8799万元。2023年1月15日，就在春节前几天，辽宁省盘锦浩业化工有限公司发生重大爆炸着火事故。国务院安委会挂牌督办、国务院安委会办公室约谈。\n辽宁省应急管理厅近日公布该起事故责任追究及整改措施落实情况评估报告。\n目前，事故企业已全面整改并恢复生产，14名事故责任人已全部判决完毕，3家事故责任单位和11名责任人员，已合计罚款5957万元。盘锦市市委书记、市长、分管副市长等48名监察对象已分别给予不同程度的党纪、政务处理处分。\n此外，在评估报告中还提出在一季度国务院安全生产明查暗访中发现部分危化品生产企业主要负责人不清楚“1·15”事故情况。吸取同类事故教训、举一反三工作，仍然存在盲区。\n\n事件回顾：2023年1月15日13时25分左右，盘锦浩业化工有限公司在烷基化装置水洗罐入口管道带压密封作业过程中发生爆炸着火事故，造成13人死亡、35人受伤，直接经济损失约8799万元。2023年8月25日事故调查报告在辽宁省应急管理厅官网公布显示，14名事故责任人已被公安机关采取强制措施，同时事故调查报告还提出对11名事故有关责任人员进行行政处罚；对48名与事故有关的公职人员进行追责问责；对浩业化工、江达扬升、中化十四建等责任单位进行罚款、书面检查的处理建议。\n责任追究已全部落实到位\n事故调查报告中行政处罚、刑事责任追究、党政纪处分等责任追究建议已全部落实：\n对浩业化工董事长、江达扬升施工队长、中化十四建16万吨烷基化装置项目部施工负责人、融达监理总经理等14人提出的追究刑事责任的建议，目前已经全部判决完毕，其中4人按照重大责任事故罪判决，9人按照工程重大安全事故罪判决（1人因其他罪行已在服刑之中）。\n对3家事故责任单位和11名责任人员进行了行政处罚，合计罚款5957万元，现已全部缴纳到位；融达监理公司化工石油工程监理资质已被依法吊销。\n对盘锦市市委书记、市长、分管副市长、有关政府部门人员共计48名监察对象分别给予了批评教育、诫勉谈话、警告、记过、撤职、降级等不同程度的党纪、政务处理处分。\n事故企业已全面整改并恢复生产\n浩业化工有限公司开展了全厂停产大检修，深入排查治理事故隐患和突出问题：\n一是开展了为期9个月的大检修，检修项目共计519大项、共计17424小项，检修更换各类设备4167台。\n二是制定了“1+6”隐患排查方案，通过企业自查、外聘专业机构、安全设计诊断、特种设备检定四种方式开展隐患排查工作。2023年检查出问题、隐患和建议提升项共计1814项，已整改1725项，计划整改45项，建议提升项44项。\n三是复产工作准备充分。企业重新修订了各层级人员安全生产责任制，强化了安全管理工作，并修订完善了92项制度，实施了梳理岗位编制、组织员工培训、修订工艺指标以及做好开车前安全检查（PSSR检查）等措施。\n盘锦市委、市政府组织市直部门、属地政府、第三方机构和企业召开复产联席会议，强化企业自查、部门复核、权威机构综合评估“三层”把关，确保企业隐患排查彻底、整改合格。\n2023年7月6日首批复产装置一次开车成功，同年11月27日其余计划复产装置全部实现开工。\n存在问题情况\n评估组在评估过程中也发现了一些问题，主要表现在：\n一是部分企业汲取事故教训还不深刻。在一季度国务院安全生产明查暗访中发现，部分危化品生产企业主要负责人不清楚“1·15”事故情况，企业安全风险承诺与实际不符、重大组织变更未研判风险、操作工不熟悉岗位异常工况处置措施、特种作业人员未取证等同类隐患仍然不同程度存在，吸取同类事故教训、举一反三工作仍然存在盲区。\n二是在落实行业部门牵头、多部门协同配合的监管机制建设上还存在差距。各部门基本上都能够履行监管职责，但在信息共享、联合执法等方面机制还不够顺畅，行业部门牵头作用发挥不够，对乡镇监管人员监管能力的指导不够，监管合力还没有有效形成。\n三是企业在风险全面辨识与动态排查隐患方面还存在差距。部分企业在全面加强风险辨识、动态排查隐患方面能力不足，对第三方作业管理不到位，对施工单位施工方案审核把关不严；安全风险研判制度不健全、要求不明确，危害辨识与风险评价预防措施描述不准确，部门职责不明确；风险防控措施存在漏洞，安全指标数据监控还存在不足；特种设备管理存在漏洞，部分特种设备管道还未完成登记。\n四是化工园区安全管理仍需持续提升。盘锦市化工园区数量多，但达到较低安全风险等级的园区还是少数，部分化工园区安全风险排查治理和整治提升精准性、有效性不高，存在缺乏规划统筹、功能定位不清、企业入园门槛低、配套水平不高、监管力量不足等问题。\n点击查看>>评估报告全文",
+          "link": "https://www.thepaper.cn/newsDetail_forward_29167687",
+          "publishedOn": "2024-10-28T11:53:04.000Z",
+          "wordCount": 31,
+          "title": "盘锦致13死重大爆炸着火事故最新情况：市委书记、市长等被处理处分",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_29167804",
+          "author": null,
+          "description": "记者今天（28日）从市场监管总局获悉，为规范促销经营行为，维护“双11”期间网络交易秩序，保护消费者合法权益，市场监管总局向主要电商平台发布《“双11”网络集中促销合规提示》，主要包括八方面内容。\n1、严格落实主体责任\n切实落实审查核验义务，加大对平台内经营者的主体信息抽查比例，确保经营者主体信息真实有效。严格落实信息公示义务，提升线上经营行为透明度和公平性。\n2、严格规范促销行为\n严格禁止“二选一”等违法行为，公平有序参与市场竞争。围绕促销工具、折扣展示、优惠发放、结算支付等关键环节，全链条优化促销规则，保障活动规范、透明。严禁不按规定明码标价、价格欺诈等侵害消费者权益行为。\n3、严格加强广告内容审核\n完善广告业务登记、审核、档案管理，重点规范医疗美容、明星代言等广告行为，防范、制止违法广告。\n4、严格规范直播营销行为\n建立健全直播营销行为管理规范，强化对平台内主播及其经营活动的审核监测，重点把控直播商品的质量，强化对直播选品、直播卖点等环节的审核把关，及时处置直播营销中发生的违法违规行为。\n5、严格加强商品管控\n健全完善商品质量管控制度和措施，严格商品信息发布审核，进一步加强对平台内经营者商标、专利等注册或授权信息的核查，严格执行问题商品处置规则。认真开展实时巡查，及时下架或删除违法违规产品链接。\n6、及时妥善化解网络消费纠纷\n畅通消费者投诉举报渠道，及时受理、高效处理投诉举报，积极协助消费者维护合法权益。督促平台内经营者遵守网络购物七日无理由退货、产品“三包”等规定。\n7、保障平台内经营者合法权益\n提升相关平台规则的透明度，认真听取商家意见，及时优化完善相关规则，充分尊重商家自主经营权。健全商家申诉机制，及时回应商家合理诉求。\n8、强化政企沟通协作\n发现违法违规问题，主动、及时向所在地县级以上市场监管部门报告，形成平台自治与政府监管的良性互动，共同引导平台内经营者增强守法经营意识。\n市场监管部门提示，“双11”期间，广大消费者应当理性消费，增强维权意识，遇到违法行为及时向市场监管部门或有关主管部门投诉举报，依法维护自身合法权益。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_29167804",
+          "publishedOn": "2024-10-28T11:53:04.000Z",
+          "wordCount": 27,
+          "title": "规范来了，市场监管总局发布“双11”促销合规提示",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_29167411",
+          "author": null,
+          "description": "中共中央政治局10月28日召开会议，审议《关于二十届中央第三轮巡视情况的综合报告》。中共中央总书记习近平主持会议。\n会议指出，在以习近平同志为核心的党中央坚强领导下，巡视工作坚持围绕中心、服务大局，突出问题导向、贯彻严的基调，创新组织方式、深化上下联动，利剑作用持续彰显。从巡视情况看，中央和国家机关、中管金融单位党的建设得到加强，各项工作取得新成效，但也存在一些问题。要严肃认真抓好巡视整改，强化“一把手”和领导班子成员的政治责任，加强对巡视整改的组织统筹和日常监督，把巡视整改与深化改革结合起来，与全面从严治党结合起来，与领导班子和干部队伍建设结合起来，融入日常工作、融入职能职责，以整改实效推动高质量发展。\n会议强调，各级党委（党组）要不断提高政治站位，强化履职政治担当，敢作善为、攻坚克难，主动为党分忧、为国尽责。要认真贯彻党的二十届三中全会部署，以钉钉子精神抓好改革任务落实。要增强忧患意识，统筹好发展和安全，着力防范化解重点领域风险，牢牢守住安全底线。要加强领导班子建设，严格执行民主集中制，推进领导干部能上能下，不断增强凝聚力、战斗力。要清醒认识反腐败斗争形势，纵深推进全面从严治党，以彻底的自我革命精神把反腐败斗争进行到底，坚持一体推进不敢腐、不能腐、不想腐，深化标本兼治、系统施治，持续保持惩治腐败高压态势，不断完善权力配置和运行制约机制，着力铲除腐败滋生的土壤和条件，推动防范和治理腐败问题常态化、长效化。\n会议还研究了其他事项。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_29167411",
+          "publishedOn": "2024-10-28T11:53:04.000Z",
+          "wordCount": 28,
+          "title": "中共中央政治局召开会议，中共中央总书记习近平主持会议",
+          "imageUrl": null
+        },
         {
           "id": "https://www.thepaper.cn/newsDetail_forward_29167645",
           "author": null,
@@ -11618,76 +11808,6 @@
           "wordCount": 30,
           "title": "南京江北新城完成发行2024年度第二期中票，实际发行总额6亿元",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_28888548",
-          "author": null,
-          "description": "“空降全国各地，打压你的当地，贵阳医院已落地，目标先赚一个亿！”这段“鑫聚幸和贵阳医院开工大吉”的视频引起众人热议。9月27日，贵州省贵阳市卫生健康局医政处庞女士接受@大皖新闻 记者采访时说，她也看到了这段视频，但是在贵阳市卫生健康局的监管名单里，没有“鑫聚幸和贵阳医院”，贵阳市卫生健康局没有批准过这家医疗机构。\n\n视频显示，在一个装饰豪华的场所正在进行“鑫聚幸和贵阳医院开工大吉”活动，室外挂有“诊所”的招牌，在室内有“产后康复中心”的匾牌。一群人齐声高喊 “空降全国各地，打压你的当地，贵阳医院已落地，目标先赚一个亿！”因诊所前面的文字被遮挡，所以无法看清诊所名称。\n这个视频发布后，立即引起转发和质疑。有网民质疑“从什么时候开始，医院是为了赚钱？”“这么明目张胆么！”\n9月27日，大皖新闻记者致电贵阳市卫生健康局。该局医政处一位姓庞的女同志说，诊所和医院的性质不一样，视频中的场所可能是一家美容机构或者诊所。她请同事查询了一下该局审批的医疗机构监管名单，没有发现“鑫聚幸和贵阳医院”这个医院。\n（原标题《贵阳一医院开工员工齐声高喊“目标先赚一个亿”？官方回应》）",
-          "link": "https://www.thepaper.cn/newsDetail_forward_28888548",
-          "publishedOn": "2024-09-29T03:53:04.000Z",
-          "wordCount": 34,
-          "title": "医院开工员工齐喊“先赚一个亿”？官方：没审批过这家医疗机构",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_28895706",
-          "author": null,
-          "description": "又有房企跟进涨价。\n9月28日，微信公众号“常绿蓝城金水宸苑”发布涨价通知：“9月30日24:00起，常绿·金水宸苑在售房源全线涨价2%（约300元/㎡）!最后3天，主城改善置业人群抓住机遇！”。通知显示，该项目已全期封顶、二次结构施工已超预期完工，整盘以准现房呈现。\n常绿蓝城金水宸苑的注册主体为河南卓凯置业有限公司，常绿·金水宸苑位于河南省郑州市。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_28895706",
-          "publishedOn": "2024-09-29T03:53:04.000Z",
-          "wordCount": 28,
-          "title": "又有房企宣布涨价！郑州一楼盘宣布在售房源全线涨价2%",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_28895679",
-          "author": null,
-          "description": "“要把房地产止跌回稳作为经济运行的重点。”9月28日，河南省省长王凯到郑州市督导经济运行工作，主持召开座谈会研究部署重点工作时提出了上述观点。会上，针对房地产市场，王凯强调，要对商品房建设严控增量、优化存量、提高质量，加大“白名单”项目贷款投放力度，打赢保交房攻坚战，加力推进以旧换新和存量商品房收购，积极构建房地产发展新模式。（中国房地产报）\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.run",
-          "link": "https://www.thepaper.cn/newsDetail_forward_28895679",
-          "publishedOn": "2024-09-29T03:23:03.000Z",
-          "wordCount": 27,
-          "title": "河南省省长：要把房地产止跌回稳作为经济运行重点",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_28895600",
-          "author": null,
-          "description": "周日，券商IT（信息技术）部门忙不停！\n记者获悉，9月29日（周日）上午，各券商IT部门紧锣密鼓地进行业务测试。根据上交所日前通知，于9月29日组织券商等金融机构开展竞价、综业等平台相关业务测试。\n此次测试旨在模拟实盘压力，主要涉及券商、公募基金等金融机构，并不开放给普通股民。此前，9月27日上交所因上交所股票竞价交易出现成交确认缓慢的异常情况，并导致交易受到影响。\n此外，不少券商在近日暂停隔日委托等服务，还有部分券商向客户通知称，受到业务测试等影响客户周末或无法正常登录。不过，已有不少券商最新公告，9月29日起服务将陆续恢复正常。\n周日上午10点多，一位券商IT部门人士告诉记者，“测试已经开始了，我们忙得冒烟。”（证券时报）",
-          "link": "https://www.thepaper.cn/newsDetail_forward_28895600",
-          "publishedOn": "2024-09-29T02:53:04.000Z",
-          "wordCount": 28,
-          "title": "上交所，正在全网测试！券商IT部门，周末大加班",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_28895614",
-          "author": null,
-          "description": "记者日前从业内独家获悉，上交所技术有限责任公司决定暂免收取2024年1月22日至11月30日期间的交易网关流速费，后续具体收取时间将另行通知。\n公开信息显示，交易网关流速费是指交易所在特定情境下向会员收取的一种费用。“交易网关”即交易所为会员提供的用于接入交易系统并进行证券交易的技术接口，“流速”则是指单位时间内处理交易请求的能力或速率。当会员使用的交易网关流速超出交易所规定的免费额度时，超出的部分就需要按照一定标准缴纳流速费。\n据业内人士介绍，交易网关流速费的收取，一方面，可以促使会员更加合理地使用交易网关资源，避免资源的浪费和滥用；另一方面，也可以为交易所提供一定的收入来源，用于维护和改进交易系统的性能和稳定性。\n据初步估算，上述降费措施预计每年为市场主体节省超过4.33亿元的费用。（中证）\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.run",
-          "link": "https://www.thepaper.cn/newsDetail_forward_28895614",
-          "publishedOn": "2024-09-29T02:53:04.000Z",
-          "wordCount": 28,
-          "title": "沪市交易网关流速费暂免！助力市场轻装上阵",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_28895432",
-          "author": null,
-          "description": "这个国庆节上海又有新玩法啦。\n上海即将新增一条低空载客航线，从10月1日起可从徐汇滨江搭乘直升机低空观光黄浦江两岸。\n龙华飞行基地至陆家嘴往返\n飞行约24公里用时10分钟\n昼间价格\n1980元/人/次\n3800元/双人/次\n5600元/三人/次\n7500元/四人/次\n20分钟包机 25800元/架次\n（可坐6人）\n龙华飞行基地至陆家嘴至迪士尼往返\n包机飞行约64公里用时25分钟\n昼间价格：35800元/架次\n（可坐6人）\n（新闻坊）",
-          "link": "https://www.thepaper.cn/newsDetail_forward_28895432",
-          "publishedOn": "2024-09-29T02:23:03.000Z",
-          "wordCount": 32,
-          "title": "上海中心城区再启低空游览：坐直升机从徐汇滨江到陆家嘴，价格公布",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_28891905",
-          "author": null,
-          "description": "“我生来就是高山而非溪流，我欲于群峰之巅俯视平庸的沟壑。我生来就是人杰而非草芥，我站在伟人之肩藐视卑微的懦夫”，这是最壮丽的誓词之一，这是云南省丽江市华坪女子高中誓词，是很多个大山女孩的座右铭，也是校长张桂梅想要让所有孩子都拥有的精神品质。\n在电视剧《山花烂漫时》播出前，无数知晓张桂梅故事的人早已被她深深打动，她是丽江华坪女子高中的校长，创建了全国唯一一所全免费的女子高中，将一生奉献给贫困山区教育事业，她的故事值得被反复诉说与铭记。\n《山花烂漫时》就是根据张桂梅校长的真实事迹改编。该剧讲述了以张桂梅为代表的基层共产党员通过教育，让一批批女孩走出了大山，改变了命运的故事。剧中通过细腻的笔触和真实的场景，展现了张桂梅校长及其团队在艰难困苦中坚持教育梦想，为贫困女孩点亮希望之灯的历程。\n9月27日，《山花烂漫时》创作座谈会在京举行。\n\n《山花烂漫时》剧照\n\n研讨会上，歆光影业高级副总裁、《山花烂漫时》制片人李行从一则剧评谈起，这则剧评里，一位观众写道：“《山花烂漫时》这部剧，让人看到了尊重和自重。”李行认为，一部现实主义题材的人物传记式作品，尊重人物原型、尊重客观事实、尊重内容是题中应有之意，“但是自重是什么？这是我今天特别想分享的。”\n\n李行\n\n“在落实这份‘自重’时，我们真的是在不断地、长期地进行剧本的打磨，我们不断地把自己代入观众的角色去真实面对自己的感受；其次，我们把表演交给了真正的演员，她们经过了一轮一轮的筛选，她们身上的泥土味和精气神不是演出来的。我们把孩子们召集在一起，让她们光着脚去感受自己的身体，感受自己的呼吸，是从这样一步一步训练她们进入到表演这个领域；最后，大家也许也已经关注到我们的制作，里面每张卷子、每道题都是还原当年高考的，包括当年的准考证长什么样，云南师范大学的录取通知书长什么样子，那时候的校长是谁，我们都是基本还原的。”李行谈道。\n\n袁子弹\n\n《山花烂漫时》的编剧袁子弹介绍，自己给剧本的创作定下了三个目标：绝对的真实性、充足的戏剧性和一定的社会性。\n绝对的真实性来源于张桂梅真实情感与事迹，“在我与张老师接触中感受到她乐观、坚毅、勇敢、幽默的性格特征，我们以此作为人物的基底，同时尽可能还原女校建立过程中遭遇的真实困境和问题，通过人物和情节的设计，我们将张老师一生与之对抗的贫穷和落寞观念具象化呈现在观众面前。”\n袁子弹介绍，剧本写作中，也充分挖掘张桂梅作为理想主义者纯粹的快乐，并在她身边设计了诸如马副县长、周局长这样的基层官员和各有特色的老师、学生们，这些人物与张老师情感交织，极大丰富了剧的色彩看点。“另外比起大众所熟知的办学成功获得不少荣誉的张老师，我坚持去写最初的张老师，尽全力还原当年办校的不确定性，因为这个事情本身就是缺少其中任何一个环节都可能出现截然不同的结果，这本身是很传奇、很跌宕起伏的。这是生活的真实，也是整部剧戏剧张力的来源。”\n“一个普通人能以什么样的方式去改善我们所在的世界。张老师以自己的一生为我们做出了最好的榜样。我们希望通过这个剧，让观众感受到张老师那种盎然勃发的生命力，让他们意识到理想依旧值得追逐。”袁子弹谈道。\n\n宋佳\n\n“张桂梅”的扮演者、演员宋佳谈起拍摄这部戏几个月的心路历程时，将感受概括为：追光而遇，沐光而行。\n“亲眼见到张老师之后，我就始终怀着一颗敬畏之心去饰演这个角色，我几乎是带着只许成功、不许失败的心去经历整个创作。我初见张老师时就觉得她没有什么距离感，她当时带着我去学校参观，这里走走，那里看看。她风趣坦诚可爱，我们一起开怀大笑，我觉得张老师是一个眼睛里只有光的人，她也愁也烦，也急躁，甚至会急着转圈。但是对于张老师这样一个心中有信仰的人来说，那都不是个事儿，所以她的眼睛总是明亮的，她的内心是充盈的、积极的、快乐的。”宋佳分享道。\n在饰演张桂梅这样一个有着强烈信念感的人物时，也让宋佳思考自己作为一个演员，自己的初心是什么，“我饰演过很多历史人物，宋庆龄、萧红等等，每当遇到需要饰演历史上真实人物时，我希望自己能做到的就是唤起人们对那个人的注意。这次不同的是，我饰演的是一位生活在我们身边的当代楷模。我更希望的是通过我，通过这部剧，让更多的人了解张老师，有更多的人去热爱她，铭记她，学习她，我要忠实地演绎角色。我有很多次感动的瞬间。有一次拍完送女孩们进高考考场，在门口等待那场戏，我当时一直流泪，忍都忍不住。”\n在座谈会中，还举行了一场特殊的捐赠仪式，以绵薄之力让“山花烂漫”。《山花烂漫时》剧组、演员宋佳捐赠善款，专项用于云南省丽江市华坪县教育体育、妇女儿童等公共事业基础设施补短板建设项目。宋佳、王娟、杨于明、康捷代表《山花烂漫时》剧组将捐赠书递交给华坪县委常委、县人民政府常务副县长李升贵，在剧外传递“燃灯精神”，以实际行动去支持青少年的教育与发展。\n\n捐款仪式",
-          "link": "https://www.thepaper.cn/newsDetail_forward_28891905",
-          "publishedOn": "2024-09-29T01:53:03.000Z",
-          "wordCount": 49,
-          "title": "《山花烂漫时》：春风化雨，她的眼睛总是明亮",
-          "imageUrl": null
         }
       ]
     },
@@ -11696,6 +11816,46 @@
       "feedUrl": "https://www.nationalreview.com/feed/",
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
+        {
+          "id": "https://www.nationalreview.com/?p=1716638",
+          "author": "Paul Winfree",
+          "description": "The AI Safety Institute has no authorization from Congress to receive funding or even exist, yet it could shape AI’s future.",
+          "link": "https://www.nationalreview.com/2024/10/how-the-biden-harris-administration-created-an-unlawful-ai-regulatory-agency/",
+          "publishedOn": "2024-10-28T10:30:44.000Z",
+          "wordCount": 5893,
+          "title": "How the Biden-Harris Administration Created an Unlawful AI Regulatory Agency",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/10/harris-ai.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1717296",
+          "author": "Kathryn Jean Lopez",
+          "description": "We need new political and personal habits.",
+          "link": "https://www.nationalreview.com/2024/10/angry-for-trump-lonely-for-harris/",
+          "publishedOn": "2024-10-28T10:30:34.000Z",
+          "wordCount": 6454,
+          "title": "Angry for Trump? Lonely for Harris?",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/10/Trump-Harris-6.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1716827",
+          "author": "Jay Nordlinger",
+          "description": "The Right today often sounds like the Left of yore.",
+          "link": "https://www.nationalreview.com/2024/10/our-political-world-topsy-turvy/",
+          "publishedOn": "2024-10-28T10:30:11.000Z",
+          "wordCount": 7889,
+          "title": "Our Political World, Topsy-Turvy",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/10/jeane-kirkpatrick.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1717126",
+          "author": "Andrew C. McCarthy",
+          "description": "Even if Trump wins the presidency, we could be entering a stage of lawfare that makes the last two years seem placid.",
+          "link": "https://www.nationalreview.com/2024/10/the-specters-of-self-pardon-and-impeachment-in-the-j6-case/",
+          "publishedOn": "2024-10-28T10:30:07.000Z",
+          "wordCount": 8334,
+          "title": "The Specters of Self-Pardon and Impeachment in the J6 Case",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/10/campaign-trail-102724-7.jpg?fit=2057%2C1200&ssl=1"
+        },
         {
           "id": "https://www.nationalreview.com/?p=1716874",
           "author": "Andrew C. McCarthy",
@@ -13924,6 +14084,26 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/93362",
+          "author": "少数派编辑部",
+          "description": "欢迎收看本期《派评》。你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的App或者关注的话题，也欢迎在评论区和我们进行讨论。值得关注的新App虽然少数派一直在为大家发现和介绍各平台上的 ...查看全文",
+          "link": "https://sspai.com/post/93362",
+          "publishedOn": "2024-10-28T10:28:01.000Z",
+          "wordCount": 922,
+          "title": "派评 | 近期值得关注的 App",
+          "imageUrl": "https://cdnfile.sspai.com/2024/10/28/article/ea6ba202-eab0-9cbf-f06b-e776bfea5eaa.png"
+        },
+        {
+          "id": "https://sspai.com/post/93230",
+          "author": "潘誉晗",
+          "description": "打开外卖软件看看有什么能点，发现最快也要半个小时，内心不由得惆怅。咕咕叫的肚子等不了那么久。这个时候，我更倾向于做份盖饭。查看全文",
+          "link": "https://sspai.com/post/93230",
+          "publishedOn": "2024-10-28T07:00:00.000Z",
+          "wordCount": 661,
+          "title": "最快 10 分钟，比外卖更迅速的快手盖饭",
+          "imageUrl": "https://cdnfile.sspai.com/2024/10/28/article/fe4b6b5a-0f20-df3f-753e-a1cf5c1fa711.jpeg"
+        },
+        {
           "id": "https://sspai.com/post/93255",
           "author": "墨戥玳",
           "description": "是否有一天可以总结归纳大佬前辈们的经验和技术，并将它们通俗易懂地写出来，供有需要的朋友接触和了解这个圈子呢？或许，今天我可以给当时的自己一个答案了。查看全文",
@@ -14762,16 +14942,6 @@
           "wordCount": 999,
           "title": "本月玩什么 | 智慧的再现、宇宙机器人、UFO 50、冰汽时代 2 等",
           "imageUrl": "https://cdnfile.sspai.com/2024/09/29/f3192f3756d40b9f067f1aa6c6e33928.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/92388",
-          "author": "Enc3lMag1k",
-          "description": "每个人都在寻找通往新经济时代的大门，但事实上，他们需要找一扇窗。查看全文",
-          "link": "https://sspai.com/post/92388",
-          "publishedOn": "2024-09-29T03:20:00.000Z",
-          "wordCount": 1513,
-          "title": "All in Windows 的失败，是傲慢还是必然？",
-          "imageUrl": "https://cdnfile.sspai.com/2024/09/19/6cd5f8c4d34ecd46b4dafe72fa8ce487.jpg"
         }
       ]
     },
@@ -14786,6 +14956,26 @@
       "feedUrl": "https://plink.anyfeeder.com/nytimes/dual",
       "siteUrl": "http://nytimes.com",
       "articles": [
+        {
+          "id": "https://cn.nytimes.com/china/20241028/china-xi-jinping-adviser-taiwan/dual",
+          "author": null,
+          "description": "储百亮2024年10月28日2022年的王沪宁。 Tingshu Wang/Reuters\nWhen Xi Jinping held the first-ever talks in Beijing with a former president of Taiwan, seeking to press the island closer to unification, a bookish-looking official stood out for his ease around China’s leader.\n当习近平为了寻求推动台湾更接近两岸统一，在北京与台湾前总统举行首次会谈时，一位看上去有些书卷气的官员在中国领导人身旁举止从容，这让他显得十分出众。\nWhile others treated Mr. Xi with stiff formality, the official, Wang Huning, spoke confidently in his presence and sat next to him during the meeting, said Chiu Kun-hsuan, a member of the delegation that accompanied Ma Ying-jeou, the former Taiwanese president.\n当时陪同前台湾总统马英九前往北京的代表团成员邱坤玄说，面对习近平，其他人都十分拘谨，这位名为王沪宁的官员在习近平面前讲话时却充满自信，会谈期间就坐在他旁边。\nThe scene gave a glimpse of one of the most important, yet little understood, relationships in China: between Mr. Xi, the count…",
+          "link": "https://cn.nytimes.com/china/20241028/china-xi-jinping-adviser-taiwan/dual",
+          "publishedOn": "2024-10-28T10:36:01.000Z",
+          "wordCount": 2542,
+          "title": "中共意识形态“国师”王沪宁的新任务：台湾",
+          "imageUrl": "https://static01.nyt.com/images/2024/05/09/multimedia/00WANGHUNING-01-vgkb/00WANGHUNING-01-vgkb-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/usa/20241028/american-democracy-poll/dual",
+          "author": null,
+          "description": "NICK CORASANITI, RUTH LGIELNIK, CAMILLE BAKER2024年10月28日 The New York Times\nNearly half of all voters are skeptical that the American experiment in self-governance is working, with 45 percent believing that the nation’s democracy does not do a good job representing ordinary people, according to a new New York Times/Siena College poll.\n根据《纽约时报》和锡耶纳学院的最新民调，几乎一半选民对美国自我治理实验的成效表示怀疑，45%的人认为美国的民主制度未能很好地代表普通民众。\nThree-quarters of voters in the United States say democracy is under threat, though their perception of the forces imperiling it varies widely based on partisan leanings. And a majority of voters believe that the country is plagued by corruption, with 62 percent saying that the government is mostly working to benefit itself and elites rather than the common good.\n四分之三的美国选民认为，民主正受到威胁，尽管对于究竟是…",
+          "link": "https://cn.nytimes.com/usa/20241028/american-democracy-poll/dual",
+          "publishedOn": "2024-10-28T09:06:02.000Z",
+          "wordCount": 1315,
+          "title": "美国民主还好吗？美国人不乐观",
+          "imageUrl": "https://static01.nyt.com/images/2024/10/25/multimedia/2024-10-25-democracy-polls-index/2024-10-25-democracy-polls-index-articleLarge-v2.png"
+        },
         {
           "id": "https://cn.nytimes.com/usa/20241028/trump-vance-hack/dual",
           "author": null,
@@ -15901,26 +16091,6 @@
           "publishedOn": "2024-09-30T02:09:00.000Z",
           "wordCount": 263,
           "title": "从“睡在上铺的兄弟”到“谢不杀之恩”：​重建我们的室友关系",
-          "imageUrl": null
-        },
-        {
-          "id": "0672cc532962b1cb9f1c3dea9d52a53f",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E6%BD%AE%E6%B1%95%EF%BC%9A%E5%A5%BD%E9%A3%9F%E6%98%AF%E4%B9%A1%E5%91%B3",
-          "publishedOn": "2024-09-29T01:48:00.000Z",
-          "wordCount": 306,
-          "title": "潮汕：好食是乡味",
-          "imageUrl": null
-        },
-        {
-          "id": "a0e8cbd91c65813be0ec70b6ac70fe8d",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E2%80%9C%E6%88%91%E7%9F%A5%E9%81%93%E5%81%9A%E4%B8%80%E4%BB%BD%E6%B2%A1%E4%BA%BA%E6%83%B3%E8%A6%81%E7%9A%84%E5%B7%A5%E4%BD%9C%E6%98%AF%E4%BB%80%E4%B9%88%E6%84%9F%E8%A7%89%E2%80%9D",
-          "publishedOn": "2024-09-29T01:48:00.000Z",
-          "wordCount": 262,
-          "title": "“我知道做一份没人想要的工作是什么感觉”",
           "imageUrl": null
         }
       ]
