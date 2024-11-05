@@ -6,6 +6,16 @@
       "siteUrl": "https://rweekly.org/atom.xml",
       "articles": [
         {
+          "id": "https://rweekly.org/2024-W45.html",
+          "author": null,
+          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Batool Almarzouq, with help from the R Weekly team members and contributors.\nHighlight\nTalk recordings and workshop materials from posit::conf(2024)\n3MW (Automate Anything With R & GitHub Actions)\nParameterized plots and reports with R and Quarto\nInsights\nAugust 2024: Top 40 New CRAN Packages\nR in the Real World\nShiny Gatherings x Pharmaverse: Building Clinical Data Analysis Apps with {teal} \n\nSpendDash: a free online dashboard that allows you to keep track of your spending habits over time\nR in Academia\nComparison of spatial patterns in categorical raster data for overlapping regions using R\n\nResources\nTalk recordings and workshop materials from posit::conf(2024)\n10 New Boo…",
+          "link": "https://rweekly.org/2024-W45.html",
+          "publishedOn": "2024-11-05T00:00:00.000Z",
+          "wordCount": 6171,
+          "title": "R Weekly 2024-W45 Talk recordings from posit::conf(2024), GitHub actions, Parameterized plots",
+          "imageUrl": "https://rweekly.org/public/facebook.png"
+        },
+        {
           "id": "https://rweekly.org/2024-W44.html",
           "author": null,
           "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Sam Parmar, with help from the R Weekly team members and contributors.\nHighlight\n{sortable} card games in {shiny}\nHTML Table to DataFrame Tool\nShiny Assistant: Prototype and build Shiny applications with the help of AI - Winston Chang - Posit \nInsights\nWinners of the 2024 Shiny Contest\n\nPython for R users\nTime Series Machine Learning: S&P 500\nIterating to achieve my first accepted posit::conf talk\nDyson’s Algorithm for the Twelve Coins Problem\n3 Lessons learned from 3 years of testing as an R developer\n{sortable} card games in {shiny}\nA note about a bug in irr::kripp.alpha()\nR in the Real World\nPosit’s Hadley Wickham honored with the 2025 ASA Award for Statistical Computing …",
@@ -34,16 +44,6 @@
           "wordCount": 5854,
           "title": "R Weekly 2024-W42 Nested Tests, ShinyChat, Post Summaries",
           "imageUrl": "https://rweekly.org/public/facebook.png"
-        },
-        {
-          "id": "https://rweekly.org/2024-W41.html",
-          "author": null,
-          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Colin Fay, with help from the R Weekly team members and contributors.\nHighlight\nGetting started with generative art\n3MW (Using Word Templates With R)\nExpectations, Verified! Dive into the World of Unit Tests with expect_*()\nInsights\nUsing property-based testing in R\nR in the Real World\nExamining exams using Rasch models and assessment of measurement invariance\nR in Organizations\nA Guide to R Package Validation in Pharma\nWhat is GxP Validation in Clinical Software Development?\nNew Packages\n📦 Go Live for More New Pkgs 📦\n -->\n📦 Keep up to date wtih CRANberries 📦\nUpdated Packages\n🔍 Search on R-universe 🔍\nsimaerep release 0.6.0\nVideos and Podcasts\nListen to the R-Weekly Highlights Podcast\nR Internationally\nA comunidade R fala português\nTutorials\nSet up your own universe on R-universe\nAI code completion in Positron\nMLOps from Zero to Hero : Build your ML model\nAutomated random variable distribution inference using Kullback-Leibler divergence and simulating best-fitting distribution\nExpectations, Verified! Dive into the World of Unit Tests with expect_*()\nA Safe Space for Learning How to Make Pull Requests\nEconomic Calendar\nGetting started with generative art\nHow to Split Data into Equal Sized Groups in R: A Comprehensive Guide for Beginners\nMastering Data Manipulation in R: Comprehensive Guide to Stacking Data Frame Columns\n3MW (Using Word Templates With R)\n\n-->\n\nR Project Updates\nUpdates from R Core:\nUpcoming Events in 3 Months\nEvents in 3 Months:\nSpatial modelling with GAMs in R workshop\nR/Pharma APAC track\nA list of R conferences and meetings\nThis week’s local R-User and applied stats events\nWeekly R Workshops for Ukraine\nConnect\nJoin the Data Science Learning Community",
-          "link": "https://rweekly.org/2024-W41.html",
-          "publishedOn": "2024-10-07T00:00:00.000Z",
-          "wordCount": 5574,
-          "title": "R Weekly 2024-W41 Generative Art, Word Templates, Expectations",
-          "imageUrl": "https://rweekly.org/public/facebook.png"
         }
       ]
     },
@@ -52,6 +52,16 @@
       "feedUrl": "https://feedx.net/rss/shanghaishuping.xml",
       "siteUrl": "http://thepaper.cn",
       "articles": [
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_29241381",
+          "author": null,
+          "description": "《可以阅读的图像》，[加]阿尔维托·曼古埃尔著，孙淼译，上海文化出版社，2024年8月出版，380页，108.00元\n\n阿尔贝托·曼古埃尔（Alberto Manguel），作家、编辑、译者、文学评论家、图书馆长，以及狂热的阅读者。这位曾出版过《阅读的历史》（A History of Reading）、《夜晚的图书馆》（The Library at Night）、《虚构地点词典》（The Dictionary of Imaginary Places）等诸多畅销书的作家，最终将阅读的热情与思辨延伸至了图像世界。2002年，英文版《可以阅读的图像》（Reading Pictures: What We Think About When We Look at Art）首次由兰登书屋出版。“曼古埃尔以他迷人的冷静、不慌不忙的方式，迫使你重新审视自己对艺术的遐想和信念”——《星期日电讯报》如是评价。而作者表示“这本书的诞生，源于让像我这样的普通观者能够阅读这些图像和故事的责任和权利”（前言，第I页）。因此，稍作浏览，读者就会发现，与其将它的类型归为“图像志”，毋宁说这是一本剔除了晦涩图像理论，打破艺术史线性叙事，将图像归还于“讲故事”的文化读物。\n阅读的游荡者，游荡的写作者\n曼古埃尔将自己定义为一个随意的、有好奇心的旅行者（traveler）：“我喜欢在漫无目的地游荡中探索那些可能看到的图像：风景、建筑、明信片、纪念碑和画廊等各种保存着当地记忆的地方。”（前言，第I页）这样的描述不禁令人联想起另一位沉醉于文字与图像的诗人波德莱尔，这位以笔调阴郁、观察冷峻著称的诗人，为人们留下了一个沉着地漫步穿梭于城市，漫无目的地闲逛，却又暗暗地高度警觉的“游荡者”（flâneur）意象（[英]伊格尔顿：《瓦尔特·本雅明或走向革命批评》，郭国良、陆汉臻译，译林出版社，2005年，33页）。不同于波德莱尔…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_29241381",
+          "publishedOn": "2024-11-05T08:02:06.000Z",
+          "wordCount": 132,
+          "title": "张妤静评《可以阅读的图像》｜艺术史的游荡者",
+          "imageUrl": null
+        },
         {
           "id": "https://www.thepaper.cn/newsDetail_forward_29214121",
           "author": null,
@@ -571,16 +581,6 @@
           "wordCount": 376,
           "title": "张翼读《19世纪法国读者与社会》︱作为规训与抵抗的阅读史",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_28895782",
-          "author": null,
-          "description": "罗伯特·弗罗斯特（1874-1963）\n\n一\n每周，我开着一辆旧日本车，揣着一颗新中国心，穿梭在波士顿郊外的各市镇，去数学课外班接女儿（多么“东亚家长”的剧情！）。有时，初秋的斜阳正好，我路过一片树林，心头一动，禁不住拐出大路。接近黄昏，松巅的夕阳更显珍贵，透过树影，我已看到那一汪湖水。水上的候鸟还没有迁走吧？我停了车，却没关发动机，犹豫着，是不是应该绕着湖在林中散步或慢跑。我知道垂钓者正在享受一天结束后的安宁，甚至能听见遛狗人在林中沙土路上的脚步声。但周围朝向高速路的车流，却又提示着下班晚高峰的紧迫。我调转车头，继续赶路，而这“暂驻”的片刻，竟让我想起了罗伯特·弗罗斯特《雪夜林间暂驻》诗句——\n可爱的林子里既深且暗，\n但我还有约定必须履行，\n睡前还有漫长的路要赶，\n睡前还有漫长的路要赶。\n（杨铁军译本，以下不再注明）\n\n《林间空地》修订版，[美]弗罗斯特著，杨铁军译，人民文学出版社，2016年9月出版，588页，56.00元\n\n对啊，我“还有漫长的路要赶”。\n开始读罗伯特·弗罗斯特，是世纪初我读本科的时候。看过一系列短诗译作后，记得大二2000年秋，我在图书馆架子上撞见一本美国诗歌教材，桂冠诗人唐纳德·霍尔（Donald Hall）编的《读一首诗》（To Read a Poem），开篇的作品解析便选了《雪夜林间暂驻》。那大约是我第一次接触弗罗斯特诗歌原文。霍尔要通过这首短诗来说明，何为“好诗”。他认为，诗的情节大多不难概括，这一首也完全可以用“电视剧梗概”的语言来复述：某夜，一个马车赶路人停在树林前，雪落下，马儿要继续走，而他也觉得还是该抓紧时间，虽然树林美丽，引人流连。如此一来，光要“雪夜林间暂驻”这个“标签”似乎就够了。但诗，恰恰是在“概述中丢失的东西”——这里霍尔是在模仿弗罗斯特的名言，“诗是翻译中丢失的东西”。\n对无法复述的种种，霍尔的细读尤其精妙，比如最后一节首…",
-          "link": "https://www.thepaper.cn/newsDetail_forward_28895782",
-          "publishedOn": "2024-10-07T04:02:04.000Z",
-          "wordCount": 284,
-          "title": "罗伯特·弗罗斯特诞辰一百五十年｜王璞：弗罗斯特和新英格兰",
-          "imageUrl": null
         }
       ]
     },
@@ -589,6 +589,206 @@
       "feedUrl": "https://feedx.net/rss/thepaper.xml",
       "siteUrl": "http://thepaper.cn",
       "articles": [
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_29254120",
+          "author": null,
+          "description": "11月5日，美股三大指数开盘集体上涨，道指涨0.1%，纳指涨0.39%，标普500指数涨0.2%。特朗普媒体科技集团涨近10%，法拉利跌近6%。\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.run",
+          "link": "https://www.thepaper.cn/newsDetail_forward_29254120",
+          "publishedOn": "2024-11-05T14:53:05.000Z",
+          "wordCount": 27,
+          "title": "美股三大指数开盘上涨，特朗普媒体科技集团涨近10%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_29253381",
+          "author": null,
+          "description": "11月5日，据天津生态环境局官方公众号消息，根据空气质量会商结果，预计从11月7日晚起，天津将出现一次重污染天气过程。经天津市人民政府批准，天津市重污染天气应急指挥部发布重污染天气橙色预警，从11月7日20时起启动Ⅱ级应急响应，具体措施如下： \n强制性减排措施 \n 1.对工业企业管控，依据2024年新修订的重污染天气应急减排清单，通过停止涉气排放生产线或主要产排污环节（设备）、提高治污效率等方式，严格落实相应的应急减排措施； \n 2.停止室外建筑拆除、喷涂、粉刷、切割、护坡喷浆作业； \n 3.除涉及保障类建设工程和应急抢险任务外，停止所有施工工地的土石方作业（包括土石方开挖、回填、场内倒运、掺拌石灰、混凝土剔凿等作业，建筑工程配套道路和管沟开挖作业），渣土存放点全面停止生产、运行； \n 4.各区应采取科学措施，根据空气温度及相对湿度，对本行政区域内主要道路适时调整湿法作业频次，降低湿法作业频次时应适当加大吸扫作业力度； \n 5.施工工地、企事业单位停止使用国二及以下排放标准柴油非道路移动机械（承担紧急检修作业任务的除外）； \n 6.停止使用国四及以下排放标准的建筑垃圾、渣土、砂石料等运输车辆上路行驶； \n 7.重点行业企业按照生态环境部技术指南和本市重污染天气重点行业企业绩效分级要求，落实重型载货车运输管理措施（货车白名单车辆除外）； \n 8.用车大户停止使用国四及以下排放标准重型载货车（含燃气）进行运输（货车白名单车辆除外）； \n 9.天津港区域内停止使用国五及以下排放标准重型载货车（含燃气）进行铁矿石、焦炭短倒运输。 \n健康防护指引 \n1.提醒儿童、老年人和心脏病、肺病患者以及过敏性疾病患者应当留在室内，停止户外运动，一般人群减少户外运动，确需外出的，应当采取防护措施； \n2.学校、幼儿园停止户外课程及活动； \n 3.医疗卫生机构加强对呼吸类疾病患者的防护宣传和就医指导。 \n建议性措施 \n 1.倡导公众绿色出行和绿色生活，尽量选择乘坐公共交通工具或电动汽车等方式出行； \n 2.倡导公众绿色消费，尽量减少含挥发性有机物的涂料、油漆、溶剂等原材料及产品的使用； \n 3.加强公交运力保障。\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.run",
+          "link": "https://www.thepaper.cn/newsDetail_forward_29253381",
+          "publishedOn": "2024-11-05T14:23:05.000Z",
+          "wordCount": 76,
+          "title": "天津发布重污染天气橙色预警，建议学校停止户外活动",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_29249869",
+          "author": null,
+          "description": "11月4日拍摄的第七届中国国际进口博览会举办场地——国家会展中心（上海）外景。  新华社记者 王翔 摄\n\n\n“四叶草”再次迎来全球宾客。\n11月5日至10日，第七届中国国际进口博览会在国家会展中心（上海）举办，本届参与发布活动的世界500强及龙头企业数量、新品发布数量均创历届之最。国务院总理李强5日在上海出席第七届中国国际进口博览会暨虹桥国际经济论坛开幕式，并发表主旨演讲。\n李强表示，举办进博会是中国扩大开放合作的重要举措，是我们面向世界作出的郑重承诺。从2018年至今，进博会年年举办，从未间断。如果说首届进博会是中国向世界发出的单向邀约，之后的每一届便是中国和世界双向奔赴的共同约定，反映了大家对开放合作的共同心愿。当今世界，百年变局加速演进，逆全球化思潮抬头，单边主义、保护主义明显上升，全球和平和发展事业面临的不稳定、不确定因素增多。越是在这样的情况下，我们越要坚持开放、扩大开放、提升开放，推动持久的和平稳定、发展繁荣。\n李强提出三点建议：一是要在坚持重信守诺中更好凝聚开放共识。各方应共同遵守国际经贸秩序规则，切实履行多双边经贸协议。中国将进一步扩大制度型开放，积极对接国际高标准经贸规则，深入实施自贸试验区提升战略。二是要在坚持互利共赢中更好拓展开放空间。各方应坚持以彼此成就的胸怀，通过更紧密的市场和资源对接，以更有利于创新合作的方式，开辟发展新空间。中国愿进一步开放超大规模市场，包括实施单边开放措施，落实好给予最不发达国家100%税目产品零关税待遇等，持续办好进博会、广交会等展会，真正把中国大市场变成世界大机遇。三是要在坚持命运与共中更好担起开放使命。中国坚定维护以世贸组织为核心的多边贸易体制，支持发展中国家更好分享全球化红利，愿同各方继续密切在国际经济组织的协调配合，率先探索实施世贸组织《促进发展的投资便利化协定》等成果，携手建设开放型世界经济。中国经济的良好基本面没…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_29249869",
+          "publishedOn": "2024-11-05T14:23:05.000Z",
+          "wordCount": 78,
+          "title": "外企高管热议7岁进博：扩大开放是定心丸，投资中国就是投资未来",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_29249952",
+          "author": null,
+          "description": "“哪里的深山都没有门，如果在进山的地方有一扇上面生长着草木泥石的浑然一体的山门，关上后，整个山区就是一个寓言的世界，甚至本身就是一个寓言。”在《深山》里，吕新描绘了一个中国乡土的世界。\n日前，吕新长篇小说《深山》研讨会在京举行。作家吕新，中国作协副主席吴义勤、阎晶明，山西省作协主席李骏虎出席，贺绍俊、梁鸿鹰、张柠、黄德海、阿乙等作家学者共同参与研讨。\n\n《深山》研讨会现场\n\n吴义勤在发言时说到，吕新是中国当代文学重要的先锋作家，他的先锋是扎根在中国乡土大地上的，作品具有浓厚的民族味道和乡土味道，风格突出，辨识度很高。许多作品都具有继续阐释的空间和必要性，《深山》也是这样的作品。小说以生活流的展示、纵深向的人物塑造和原生态的乡村呈现，聚焦五十到七十年代的乡村生活，描绘了晋北太行山壑里的生命群像。小说采取了高密度叙事，所有人物都在说话，都能够在小说里面进行叙事。每个人都在用自己的方式抵抗命运，试图冲破深山的环绕。作品中的细节呈现饱满生动，吕新笔下意象化、审美化、寓言化的乡村，又是真实存在过、经历过的乡村，展现了更多乡村写作的可能性，拓展了乡土小说的辽阔空间。\n\n《深山》作者吕新\n\n“我在读这部作品过程中也常常想起萧红的《呼兰河传》，都是写的大地上的生生死死，都是写一个空间、一个世界里的人和事，”李朝全分享了自己阅读《深山》的感受，在他看来，“深山”是一个独立世界，它不是世外桃源，而是指涉了某个特定的生活场景或者特定的年代，过去中国的一个寓言。\n阎晶明指出，吕新的《深山》在延续扎根于现实描写的先锋性的同时，表现力也变得更加饱满。《深山》的语言富有八九十年代小说的诗性，又与寓言化的反讽式描写共同建构出奇特的语境，表达的既不是简单的抒情，也不是冷漠和繁琐，而是一种悲悯。吕新的创作，对作家如何克服浮躁，潜心进行艺术探索具有启示意义和学习价值。\n李骏虎说到，吕新是“先锋派”和“晋军崛起”…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_29249952",
+          "publishedOn": "2024-11-05T14:23:05.000Z",
+          "wordCount": 46,
+          "title": "吕新《深山》：用现代的手法写一个乡土的故事",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_29251114",
+          "author": null,
+          "description": "今天，人民空军官宣：在第十五届中国航展上，红19地空导弹首次展出。快跟上总台记者的脚步，一起直击第十五届中国航展，看导弹起竖画面。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_29251114",
+          "publishedOn": "2024-11-05T13:23:04.000Z",
+          "wordCount": 41,
+          "title": "视频丨红19地空导弹首秀航展",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_29252445",
+          "author": null,
+          "description": "今天（11月5日），空军在京组织新闻发布会介绍庆祝空军成立75周年以及参加第十五届中国航展有关信息。空军装备部牛文博上校介绍：第十五届中国航展期间，中型隐身多用途战斗机歼-35A也将有机会与大家见面。\n对此，中国航空工业集团沈阳所首席专家王永庆透露：歼-35是一个系列。\n\n中国航空工业集团沈阳所首席专家 王永庆：歼-35系列是“一机多型，空海孪生”，很多技术的复用大大提高了关键技术的成熟度。技术成熟度高、系统成熟度高，装备的可靠性也会大幅提高。今天，我们看见了歼-35A，说明我们还在有序推进中。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_29252445",
+          "publishedOn": "2024-11-05T13:23:04.000Z",
+          "wordCount": 46,
+          "title": "“一机多型 空海孪生”，首席专家透露歼-35是一个系列",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_29253049",
+          "author": null,
+          "description": "金融监管总局网站  视觉中国 资料图\n\n\n11月5日下午，中国银行业协会召开第九届会员代表大会第一次会议（换届大会）。金融监管总局党委书记、局长李云泽出席会议并讲话。 \n 李云泽指出，银行业健康发展事关经济社会发展大局，事关人民群众切身利益。近年来，银行业主动服务大局，加快改革转型，强化风险防控，为经济社会高质量发展提供了有力支撑。要充分认识银行业在经济社会发展全局中的重要作用，进一步强化使命担当，切实增强做好银行工作的责任感使命感。 \n 李云泽强调，银行业要深入学习领会习近平总书记关于金融工作的重要论述，坚决贯彻党的二十大和二十届二中、三中全会精神，认真落实中央金融工作会议精神，紧紧锚定金融强国建设目标，坚定不移走中国特色金融发展之路，在推动经济社会高质量发展中实现自身高质量发展。要坚守定位，把握正确发展方向，做到错位发展、优势互补、各展所长，切实增强竞争力和服务能力。要牢记宗旨，聚焦重点领域和薄弱环节，健全服务实体经济的体制机制，加力落实稳增长一揽子增量政策。要严守底线，防范化解重点领域风险，筑牢抵御风险的“堤坝”。要强化引领，深入践行“五要五不”要求，大力弘扬中国特色金融文化，以坚实的文化力量助力银行业行稳致远。 \n 李云泽要求，银行业协会要切实强化党的政治建设，坚决落实巡视整改要求，纵深推进全面从严治党。坚持民主办会，完善协会治理，优化会员服务。坚持助力监管，履行社会责任，为银行业高质量发展、更好服务经济社会发展大局作出新的更大贡献。 \n 中国银行业协会理事会主要负责同志，民政部社会组织管理局负责同志出席会议。金融监管总局相关司局负责人，银行业金融机构、地方银行业协会等会员代表单位负责人共计200余人参加会议。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_29253049",
+          "publishedOn": "2024-11-05T13:23:04.000Z",
+          "wordCount": 50,
+          "title": "李云泽：加力落实稳增长一揽子增量政策，筑牢抵御风险的“堤坝”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_29253459",
+          "author": null,
+          "description": "当地时间11月5日，央视记者获悉，截至美国东部时间5日早上7时（北京时间20时），美国已有超过20个州开放2024年总统大选投票站，其中包括北卡罗来纳州、特拉华州、佐治亚州、密歇根州、宾夕法尼亚州和马萨诸塞州等。（央视新闻）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_29253459",
+          "publishedOn": "2024-11-05T13:23:04.000Z",
+          "wordCount": 31,
+          "title": "美国已有超过20个州开放2024年总统大选投票站",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_29253334",
+          "author": null,
+          "description": "11月5日，在第七届中国进口博览会重要配套活动，虹桥Hub大会——“聚能虹桥”新能源企业出海主题闭门会上，中国出口信用保险公司举行了2024年《国家风险分析报告》长三角首发仪式。\n《报告》基于产业结构视角，从高端制造业、现代服务业、可再生能源等行业洞察一国经济增长支柱；基于风险视角，从政治、经济、法律、营商环境等领域立体式呈现一国风险敞口；基于数据视角，从财政收支、国际收支、外债、汇率、就业等维度多角度解构一国经济运行趋势；基于机遇视角，从资源禀赋、政策环境、国际关系等方面，为中国出海企业的市场开拓、项目推动、风险防控提供可靠的政策建议。\n据介绍，2024年1-10月，该公司支持外经贸出口497.83亿美元，其中支持“一带一路”共建国家出口及投资102.89亿美元；服务企业数超过1.4万家，均创历史新高。（澎湃新闻记者 胡志挺）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_29253334",
+          "publishedOn": "2024-11-05T13:23:04.000Z",
+          "wordCount": 29,
+          "title": "中国信保《国家风险分析报告》长三角首发，为中国出海企业提供政策建议",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_29251581",
+          "author": null,
+          "description": "11月5日，国航在中国商飞接收第二架C919飞机。飞机注册号为B-919Y，已飞抵北京。\n\n \n\n国航表示，未来将持续筑牢C919飞机运营保障体系，为规模化运营夯实基础，发挥自身航线网络优势，扩大机队的运载能力，满足旅客大众化航空出行需求，助力国产大飞机事业展翼新时代。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_29251581",
+          "publishedOn": "2024-11-05T12:53:04.000Z",
+          "wordCount": 37,
+          "title": "第二架C919飞机交付国航，今日已飞抵北京",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_29251214",
+          "author": null,
+          "description": "近日，澎湃新闻报道了自称“刘嘉昊”的网民公开兜售《星星》诗刊等杂志版面费，被《星星》诗刊方面严正否认并委托律师取证维权的消息。随后，云南省作协发布声明谴责了刘嘉昊的行为，宣威市作协则声明决定对刘嘉昊进行除名处理。\n在舆论热议这一话题期间，澎湃新闻接获读者报料，这名“作家刘嘉昊”近期反而成为了一家“省级刊物”的副主编。\n根据读者提供的资料，澎湃新闻记者注意到，“作家刘嘉昊”近期在个人微信公众号晒出一张《黄淮文学》杂志的版权页，“刘嘉昊”在该杂志的副主编之列。\n\n“作家刘嘉昊”在个人微信公众号晒出一张《黄淮文学》杂志的版权页，显示其列入该杂志的副主编之列。\n\n\n不过，澎湃新闻记者注意到，有网友对“刘嘉昊”担任副主编的《黄淮文学》杂志提出了质疑，其中一条就是“刘嘉昊”晒出的版权页显示，该杂志的国内期刊号为“CN41-1470/I”，这一刊号实际上是另一家文学期刊《中原文学》杂志的国内刊号。\n公开资料显示，《中原文学》杂志是由河南省文联主管、省作协主办的面向全国公开发行的文学评论期刊。其前身为《热风》杂志，创刊32 年来，先后有张一弓、田中禾、李佩甫、邵丽、乔叶等多位文坛大家担任社长。2023年12月28日，经国家新闻出版署批准，正式更名为《中原文学》杂志，国内刊号：CN41-1470/I，国际刊号：ISSN1672-3759。\n国家新闻出版署的期刊/期刊社查询结果也能证实上述《中原文学》杂志的刊号信息，但查不到所谓《黄淮文学》的刊号。\n\n国家新闻出版署官方查询结果显示，“CN41-1470/I”实际上是《中原文学》杂志刊号。\n\n\n11月5日下午，一个名为“FUDEPING”的微信公众号以“黄淮文学杂志社”的名义发布了一则《致广大网友一封信》：“《黄淮文学》是由一群志同道合的文学爱好者共同创办的，原先是一个公众号（微刊），免费发表一些网友的作品。后来在2024年5月份的一天，我们在网上认识了一位作家，名叫（网名）江风月（姚俊），江风月承诺与《中原文学》主编关系密切，可以向我们提供《中原文学》的刊号使用授权书，一年使用费3000元，于是，我们向江风月如数缴纳了刊号使用费。在有了授权书之后我们才开始在网上公开征稿。”\n“黄淮文学杂志社”还称：“当有关部门找我们之后，认为我们对《中原文字》社是侵权，让我们立即停办，随即我们不再征稿了，并且注销了《黄淮文学》公众号，删除了以前在公众号《微刊》上发表的文章，但是部分投稿的作者不同意我们向他们退订刊费用（印刷费和快递费），我们只好赶快印制了这一期，并且在刊物的最后一页附上了刊讯，（即停刊声明）待完成升级改造后，符合上级有关部门要求后，有了属于自己的正规刊号后，再重新创办。”\n11月5日下午，河南省作协、《中原文字》杂志编辑部工作人员接受澎湃新闻记者电话采访时明确表示，冒用刊号的《黄淮文学》并非正规出版物。一名中原文学杂志编辑部工作人员表示，已经对《黄淮文学》提起诉讼，并强调没有给任何人提供过刊号授权书。\n公开资料显示，刘嘉昊，本名刘寅，汉族，1987年出生，祖籍云南，现居江苏省昆山市。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_29251214",
+          "publishedOn": "2024-11-05T12:53:04.000Z",
+          "wordCount": 49,
+          "title": "被除名的刘嘉昊成省级刊物副主编？《中原文学》打假：系冒用刊号",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_29250670",
+          "author": null,
+          "description": "前不久，工信部公布了《电动自行车安全技术规范（征求意见稿）》公开征求意见。“新国标”草案沿用了2018年的限速要求——最高25km/h的规定，针对防火阻燃、防范非法改装行为等做出了新的规定，比如要求电动自行车的塑料件重量不能超过整车质量的5.5%。\n\n2024年10月9日，广东省广州市，一小区外设立的电动自行车停放点，并配备消防器材。视觉中国 图\n\n\n 此外，国家市场监管总局、工信部、公安部等部门联合发布的《关于加强电动自行车产品准入及行业规范管理的公告》，自11月1日起实行，要求生产电动自行车应符合相关强制性国家标准要求。而且，央视等多家媒体也在近期报道了电动自行车被非法改装，限速成摆设的问题。\n但是，这几条新闻在一些平台的自媒体账号那里，却彻底变了味道，被故意带歪了节奏：“骑小电驴的天塌了，国家标准又又又改了，专家建议电动自行车限速不得超过25公里”“国家又逼着大家买汽车了”……一位宏观经济学家的相关发言也被自媒体反复传播：竞速自行车、公路自行车时速可以达到35-40公里，也就是说，电动自行车的速度可能比不上自行车。\n在如今碎片化、圈层化的传播环境之下，很多观点很容易在传播当中被激化、被极化。但不能以民粹绑架政策措施，不顾血的教训、安全底线，指向国务院部署开展的电动自行车安全隐患全链条整治工作。\n今年2月23日，南京一场因为电动自行车违规充电、停放引发的火灾，造成15人遇难，举国震惊。之后各地都开展了新的一轮电动自行车的整治工作，包括严格禁止电动自行车进入楼道、电梯、“飞线充电”。\n\n2月23日，南京的火灾小区现场\n\n\n我国电动自行车保有量特别大，截至2023年底，电动自行车社会保有量超3.5亿辆，锂电池电动自行车保有量约5000万辆，而且整个产业牵涉面非常广，涉及到标准制定、生产、销售、充电桩安置、社区设备更新等方方面面，不能够再“头痛医头，脚痛医脚”，而是应该给出系…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_29250670",
+          "publishedOn": "2024-11-05T12:53:04.000Z",
+          "wordCount": 56,
+          "title": "马上评丨落实全链条整治，电动车限速是吸取“血的教训”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_29252783",
+          "author": null,
+          "description": "11月5日晚间，江苏中天科技股份有限公司（中天科技，600522.SH）公告，公司拟以集中竞价交易方式回购股份，回购金额不低于2亿元（含），不超过4亿元（含），回购价格不超过22.00元/股（含）。回购股份将用于实施员工持股计划。回购期限为董事会审议通过后12个月。回购资金来源为公司自有资金和自筹资金。公司已经取得了建设银行南通分行出具《中国建设银行贷款承诺书》，同意为公司本次回购股票提供不高于2.8亿元的股票回购专项贷款，贷款期限为1年。除上述贷款外，本次公司股份回购的其余资金为公司自有资金。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_29252783",
+          "publishedOn": "2024-11-05T12:53:04.000Z",
+          "wordCount": 27,
+          "title": "中天科技：拟2亿元-4亿元回购公司股份，用于实施员工持股计划",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_29252797",
+          "author": null,
+          "description": "据伊拉克总理媒体办公室当地时间11月5日的声明，当天伊拉克总理苏达尼在巴格达会见了联合国伊拉克问题特别代表兼联合国伊拉克援助团（联伊援助团）团长穆罕默德·哈桑。双方在会上回顾了伊拉克与联合国之间关系发展及共同合作项目，并商讨联伊援助团即将结束在伊境内任务的框架下，推动双方合作的途径。\n会谈期间，双方还讨论了该地区局势的最新进展，特别是在加沙地带和黎巴嫩南部持续发生的冲突，以及以色列针对巴勒斯坦的“种族灭绝”行径持续升级等。\n苏达尼在会上赞扬了联合国多年来对伊拉克的援助，特别是在2003年后协助伊拉克应对各种挑战和重大节点时所发挥的作用。（央视新闻）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_29252797",
+          "publishedOn": "2024-11-05T12:53:04.000Z",
+          "wordCount": 27,
+          "title": "伊拉克总理会见联伊援助团团长，探讨双方合作及地区问题",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_29252146",
+          "author": null,
+          "description": "11月5日晚间，鹏博士电信传媒集团股份有限公司（*ST鹏博，600804.SH)公告，11月5日，公司收到债权人海之盈（广州）商业保理有限公司（简称“海之盈”）的通知书，因公司不能清偿到期债务且明显缺乏清偿能力，但具备重整价值为由，海之盈已向青岛市中级人民法院申请对公司进行预重整。截至本公告披露日，公司尚未收到法院受理预重整的文件，申请人的申请能否被法院受理，公司后续是否进入预重整及重整程序均存在重大不确定性。截至本公告披露日，公司、公司子公司、分公司被列为失信被执行人共计五家，分别为：鹏博士电信传媒集团股份有限公司、鹏博士电信传媒集团股份有限公司广州分公司、公司孙公司北京时代互通电信技术有限公司、北京宽带通电信技术有限公司、北京时代宏远网络通信有限公司。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_29252146",
+          "publishedOn": "2024-11-05T12:23:04.000Z",
+          "wordCount": 27,
+          "title": "*ST鹏博：被债权人申请重整并申请启动预重整程序",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_29252175",
+          "author": null,
+          "description": "近日，农银投资与全部18个试点城市达成AIC股权投资试点基金合作意向，并签署了18份战略合作协议，在多地实现同业首单签约。至此，五大行AIC（工商银行、农业银行、中国银行、建设银行、交通银行）均已在试点城市陆续落地股权投资业务。其中，个别银行透露签约意向合作规模近千亿元。\n这标志着，以化解金融风险推动市场化债转股为目的而生的银行系AIC将作为耐心资本，加速布局在科技创新和先进制造领域的股权投资，以支持国家经济发展和科技创新。据兴业研究测算，扩大试点范围后，5家国有大型银行旗下金融AIC可以试点开展的不以债转股为目的的股权投资规模将增加352.19亿元。（一财）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_29252175",
+          "publishedOn": "2024-11-05T12:23:04.000Z",
+          "wordCount": 27,
+          "title": "千亿“长钱”将至：五大行AIC股权投资合作意向落地全部18个试点城市",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_29251405",
+          "author": null,
+          "description": "11月5日，国航在中国商飞接收第二架C919飞机。飞机注册号为B-919Y，已飞抵北京。国航表示，未来将持续筑牢C919飞机运营保障体系，为规模化运营夯实基础，发挥自身航线网络优势，扩大机队的运载能力，满足旅客大众化航空出行需求，助力国产大飞机事业展翼新时代。（央视新闻）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_29251405",
+          "publishedOn": "2024-11-05T11:53:05.000Z",
+          "wordCount": 31,
+          "title": "第二架C919飞机交付，今日已飞抵北京",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_29251408",
+          "author": null,
+          "description": "11月5日晚间，山东华泰纸业股份有限公司（华泰股份，600308.SH）公告，11月3日，公司收到控股股东华泰集团拟增持公司股份的通知，基于对公司未来发展的信心和对公司长期投资价值的认可，拟自本公告披露之日起12个月内，通过上海证券交易所交易系统以集中竞价交易方式增持公司股份，增持股份比例不超过公司总股本的2%，增持总金额不低于7,500万元（含），不超过15,000万元（含）。本次增持不设定价格区间，将根据对公司股票价值判断及二级市场波动情况实施增持计划。本次拟通过自有资金和自筹资金(包括股票增持专项贷款)增持公司A股股份。11月1日，交通银行股份有限公司东营分行与华泰集团签署《借款合同》，交通银行股份有限公司东营分行将向华泰集团发放人民币贷款不超过15,000万元，用于增持公司股票。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_29251408",
+          "publishedOn": "2024-11-05T11:53:05.000Z",
+          "wordCount": 27,
+          "title": "华泰股份：控股股东华泰集团拟以7500万元-1.5亿元增持公司股份",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_29251254",
+          "author": null,
+          "description": "中共中央总书记、国家主席、中央军委主席习近平4日到空降兵军视察。他强调，空降兵部队在我军力量体系和作战体系中具有特殊重要作用，要深入贯彻新时代强军思想，贯彻新时代军事战略方针，落实空军转型建设要求，全面加强练兵备战，全面提高空降作战能力，努力建设一支强大的现代化空降兵部队。\n深秋时节，荆楚大地层林尽染、景色宜人。下午3时许，习近平来到空降兵军机关，在热烈的掌声中，亲切接见空降兵军官兵代表，同大家合影留念。\n\n11月4日，中共中央总书记、国家主席、中央军委主席习近平到空降兵军视察。这是习近平亲切接见空降兵军官兵代表。\n\n\n合影结束后，习近平察看了空降作战和保障装备，详细了解典型武器装备技战术性能，听取有关情况介绍。得知这些年空降兵部队武器装备体系建设取得积极成效，习近平很高兴。他强调，要强化作战需求牵引，加强空降装备标准化、系列化、通用化建设和实战化运用，构建新型空降装备体系。\n\n11月4日，中共中央总书记、国家主席、中央军委主席习近平到空降兵军视察。这是习近平参观空降兵军军史馆。\n\n\n随后，习近平参观了空降兵军军史馆。该军是一支历史厚重、功勋卓著的英雄部队，革命战争年代历经战火硝烟洗礼，抗美援朝战争上甘岭战役中打出了国威军威，和平建设时期出色完成一系列重大任务，涌现出一大批英雄集体和英模人物。习近平仔细观看展陈，认真听取讲解。他叮嘱大家，要用好红色资源优势，教育引导官兵把光荣传统弘扬好，争做新时代英雄传人。\n在听取空降兵军工作汇报后，习近平发表重要讲话。习近平对党的十八大以来空降兵部队建设取得的成绩给予肯定。他强调，要牢记职责使命，增强备战打仗意识，把军事斗争准备抓得又紧又实。要把握现代战争空降力量运用特点和规律，更新空降作战思维理念，创新作战样式和兵力运用方式，把空降兵部队独特优势发挥好。要抓好基础训练和重难点课目专攻精练，立足复杂困难条件加强全要素、成体系、实案化训练，加大同其他军兵种部队协同训练力度，推进战训深度耦合，提升联合指挥、联合行动、联合保障能力。\n习近平指出，要贯彻体系建设思想，统筹加强空降作战力量建设，全链路加强干部队伍建设，扎实推进高质量发展，成体系形成作战能力。要加强新质战斗力建设实践探索，运用先进科技成果为空降兵部队建设赋能增效，牵引战斗力生成模式转变。要聚焦实现建军一百年奋斗目标，扭住空降作战核心能力，落实好“十四五”规划各项任务，确保如期实现既定目标。要坚持立足当前、着眼长远，加强空降兵部队建设谋划设计，把目标图、路线图、施工图搞科学。\n习近平强调，要扎实抓好中央军委政治工作会议精神贯彻落实，把政治工作威力充分发挥出来，为空降兵部队建设提供坚强政治保证。要深化政治整训，压紧压实管党治党政治责任，锻造政治坚定、能力过硬的坚强党组织，严肃查处官兵身边的腐败问题和不正之风，确保英雄部队始终纯洁光荣。要坚持更高标准、更严要求，大力加强战斗精神培育，加强实践磨砺和摔打锤炼，培养空降兵特有的血性胆气。要贯彻依法治军、从严治军要求，严格教育管理，保持正规秩序，确保部队高度集中统一和安全稳定。各级要坚持重心下移，做好抓基层打基础工作，满腔热忱为官兵排忧解难，激发广大官兵团结奋进、干事创业积极性，齐心协力开创空降兵部队建设新局面。\n何卫东等参加活动。\n（总台央视记者 黄显文 步晓强 李斌 张麒 郭鹏 王震 康鹏程 摄影记者 李刚）\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.run",
+          "link": "https://www.thepaper.cn/newsDetail_forward_29251254",
+          "publishedOn": "2024-11-05T11:23:07.000Z",
+          "wordCount": 58,
+          "title": "习近平视察空降兵军",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_29250370",
+          "author": null,
+          "description": "设立2亿元微短剧发展基金后，杭州市余杭区11月4日启动扶持政策申报，年度优秀原创网络微短剧可获奖励100万—500万元。\n余杭区去年实现GDP2936亿元，居浙江区（县、市）第一。今年上半年，当地出台《创新驱动人才引领加快形成新质生产力若干政策意见》，设立全国首个网络微短剧发展基金，给予微短剧创作全链路支持，已吸引200余家重点企业落户。\n据了解，当地的微短剧扶持政策涵盖剧本创作、上线播出、主题创作、人才交流、作品出海等方面，如对原创网络微短剧，经评审论证，根据影响力大小评出年度优秀作品若干，给予100万—500万元奖励；对根据重要宣传节点和国家广电总局扶持倡导的规划选题创作的特别项目，提供最高300万元的资金扶持；在浙江省获得《网络剧片发行许可证》的横屏网络微短剧，在国家主管部门颁发资质的新媒体平台上线播出后，年度平台分账收入高于200万元的，按该部作品年度实际收入最高15%给予第一出品方补助，每部作品补助额最高100万元。\n新媒体视听产业正处于发展风口，去年短剧市场规模达到373.9亿，预计今年超过500亿。余杭去年实现文化产业增加值1739.8亿元，占GDP的59%，影视、动漫、游戏、创意设计是其特色产业，区内有阿里巴巴、字节跳动、快手等头部企业，营收超亿元的文化企业37家，符合国家规定的网络影视机构800余家，还有影视基地和中国美院良渚校区、杭州师范大学等高校资源。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_29250370",
+          "publishedOn": "2024-11-05T11:23:07.000Z",
+          "wordCount": 30,
+          "title": "浙江最强区设2亿元微短剧发展基金，原创剧最高奖500万元",
+          "imageUrl": null
+        },
         {
           "id": "https://www.thepaper.cn/newsDetail_forward_29249672",
           "author": null,
@@ -11558,116 +11758,6 @@
           "wordCount": 29,
           "title": "中央气象台：又有一股弱冷空气将影响北方，未来三天降水主要集中在西部",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_28955589",
-          "author": null,
-          "description": "10月7日，恒生指数午盘涨1.15%，恒生科技指数涨2.35%。半导体股继续大涨，脑洞科技涨超320%。内险股、中资券商股、消费股表现亮眼。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_28955589",
-          "publishedOn": "2024-10-07T04:23:03.000Z",
-          "wordCount": 27,
-          "title": "恒生指数午盘涨1.15%，恒生科技指数涨2.35%",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_28951759",
-          "author": null,
-          "description": "10月6日，山东省鄄城县公安局发布警情通报，一起重大刑事案件嫌疑人今日被抓获。\n2024年9月25日，山东省菏泽市鄄城县陈王街道办事处发生一起重大刑事案件，造成一人死亡。犯罪嫌疑人宋本良（男，汉族，69岁，鄄城县陈王街道办事处居民）已于10月6日13时10分被公安机关抓获归案。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_28951759",
-          "publishedOn": "2024-10-07T03:53:03.000Z",
-          "wordCount": 31,
-          "title": "山东鄄城警方：当地发生重大刑案，69岁嫌疑人今日被抓获",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_28953638",
-          "author": null,
-          "description": "四川成灌高速能否免费通行，以进一步带动都江堰的经济发展？近期，有网民再次通过网络问政平台向成都相关政府部门提出上述建议。此前，类似建议已在网上多次被提及。\n澎湃新闻（www.thepaper.cn）注意到，成都交通投资集团（以下简称“成都交投”）在回复中表示，成灌高速是经四川省交通运输厅、四川省物价局《关于成灌高速公路正式收取车辆通行费的批复》批准的经营性收费公路，收费期限从2000年7月20日起至2030年7月19日止，目前仍在批准收费的有效期内。暂无取消收费的计划。\n此前，针对成灌高速免费的建议在网上已经出现多次。三个月前，也有网民提出类似建议，这名网友认为，成灌高速免费，可以带动都江堰和阿坝州经济发展。该网友还表示，成灌高速公开收费年限虽然截止为2030年，但去年开始又在扩建整修，其担心收费年限又会因此被延长。\n这名网友在建议中说到，都江堰作为成都的一个旅游资源丰富的历史文化城市，环境好，但需要充分发挥自身优势，吸引更多的人到都江堰定居。因为有人员流动才有发展，成灌高速免费以后，成都西部上班的人均可以到都江堰购房、消费，这会极大带动都江堰的经济发展。因为成都西部自然环境好，宜居，凭借成都高新西区的人口基数，可以形成有自己特色的环成都西部经济圈，从而带动都江堰区域的第3产业发展，也会给沿线居民带来更好的生活体验。\n这位网友表示，这看似少了高速公路的收费项目，实则在其他方面会有更大的促进，明显利大于弊的措施。目前，成都绕城高速一圈80公里，对成都牌照免费就极大地促进了成都绕城内的人员流动，而成灌高速只有40公里，要实现免费通行并不难。\n7月3日，成都交投回复称，经向成都高速运营管理有限公司核实，绕城高速目前对成都牌照ETC车辆实行免费通行政策，车主不承担通行费，但并非免费通行，而是由成都市政府向绕城高速管理单位统筹缴纳。\n回复称，这是依据《四川省交通运输厅关于优化调整成都绕城和成温邛高速公路政府统缴政策的批复》文件规定：自2019年12月1日起，对合法装载并安装使用ETC装置的成都籍车辆，行驶成都绕城高速公路及环内连接线高速公路时，由成都市政府财政统一缴纳高速公路车辆通行费。\n而成灌高速，系经《四川省交通运输厅 四川省物价局关于成灌高速公路正式收取车辆通行费的批复》批准为经营性收费公路，收费期限从2000年7月20日起至2030年7月19日止。目前，成灌高速仍在批准收费的有效期内，暂无取消收费的计划。\n澎湃新闻注意到，成都交投未回应网民担心因“扩建整修”收费年限被延长的问题。\n此外，还有网友希望取消成灌高速成都收费站至郫县的收费。因为这一段只有2.5公里，一两分钟车程收费3元。但成都交投在上述回应中表示，暂无取消收费的计划。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_28953638",
-          "publishedOn": "2024-10-07T03:53:03.000Z",
-          "wordCount": 36,
-          "title": "网民多次呼吁四川成灌高速免费，成都交投回复：收费至2030年",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_28955578",
-          "author": null,
-          "description": "周一（10月7日），截至11:30，亚太主要股指多数上涨，日经225指数涨1.86%报39354.63点，成分股多数上涨，其中132只个股涨幅超1%，4只个股跌幅超1%。权重股方面，日立涨4.17%，三井住友金融集团涨3.85%，三菱日联金融涨3.82%，任天堂涨3.73%。跌幅方面，软银公司跌0.16%。\n韩国综合指数涨0.95%报2594.23点，成分股多数上涨，其中252只个股涨幅超1%，82只个股跌幅超1%。权重股方面，韩华宇航涨4.74%，刷新历史新高，KB金融集团涨3.87%，LG化学涨3.73%，SK海力士涨3.1%。跌幅方面，LG电子跌2.46%，NaverCorp跌0.94%，三星电子跌0.83%，三星物产跌0.81%，现代摩比斯跌0.46%。\n澳洲标普200指数涨0.46%报8187.8点。新西兰标普50指数跌0.71%报12530.07点。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_28955578",
-          "publishedOn": "2024-10-07T03:53:03.000Z",
-          "wordCount": 27,
-          "title": "截至11:30，亚太主要股指多数上涨",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_28955583",
-          "author": null,
-          "description": "10月7日，印度SENSEX30指数开盘涨0.48%，印度烟草公司涨近2%，塔塔咨询、印度工业信贷投资银行、印度国家银行等多股涨近1%。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_28955583",
-          "publishedOn": "2024-10-07T03:53:03.000Z",
-          "wordCount": 27,
-          "title": "印度SENSEX30指数开盘涨0.48%",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_28955535",
-          "author": null,
-          "description": "10月7日，韩国综合指数涨超1%，LG新能源涨超5%，SK海力士、LG化学涨超3%。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_28955535",
-          "publishedOn": "2024-10-07T03:23:03.000Z",
-          "wordCount": 27,
-          "title": "韩国综合指数涨超1%，LG新能源涨超5%",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_28955162",
-          "author": null,
-          "description": "淮滨县联合调查组发布关于网传“男子接亲被加要18万彩礼”情况说明，全文如下：\n近日，网传“男子接亲被加要18万彩礼”的视频，引发网民和媒体关注。淮滨县委县政府高度重视，立即成立由宣传部、民政局、公安局、谷堆乡党委政府等部门组成的联合调查组，迅速开展调查处理。经查，10月1日，淮滨县谷堆乡村民黄某（新郎）与陈某（新娘）举办婚礼，在接亲过程中，因新郎将18.8万元礼金转账至新娘个人银行账户，新娘家人认为没有直接收到礼金，便阻止婚车离开。公安部门接警后立即赶赴现场处置，新娘顺利出嫁。后谷堆乡和公安部门对新娘哥哥的行为进行训诫，并组织双方调解，由新郎支付新娘家购置嫁妆费用3万元，至此涉事双方达成和解。\n10月6日下午，淮滨县召开全县专项会议，强化宣传引导，推进移风易俗，坚决防止此类问题再次发生。\n感谢媒体和社会各界的关注和监督，同时请大家理性对待，不信谣、不传谣。\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.run",
-          "link": "https://www.thepaper.cn/newsDetail_forward_28955162",
-          "publishedOn": "2024-10-07T02:53:03.000Z",
-          "wordCount": 28,
-          "title": "河南淮滨通报“男子接亲被加要18万彩礼”",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_28955473",
-          "author": null,
-          "description": "中国人民银行10月7日公布的黄金储备数据显示，9月末黄金储备为7280万盎司，与4月末、5月末、6月末、7月末和8月末持平，此前中国央行曾连续18个月增持黄金。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_28955473",
-          "publishedOn": "2024-10-07T02:53:03.000Z",
-          "wordCount": 27,
-          "title": "央行连续第五个月暂停增持黄金",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_28955299",
-          "author": null,
-          "description": "澎湃新闻记者从中国铁路上海局集团有限公司获悉，10月7日是国庆黄金周假期最后一天，长三角铁路迎来返程客流高峰，预计当日发送旅客357万人次，较2023年同期（10月6日）增加16.6万人次，增幅达到4.9%。\n10月6日是国庆假期第六天，长三角铁路实际发送旅客337万人次。铁路国庆黄金周运输启动（9月29日）以来，长三角铁路持续迎来出行大客流，截至10月6日已累计发送旅客逾2816万人次, 日均发送旅客352万人次，客流持续保持高位运行。值得一提的是，9月6日开通的杭州至义乌至温州高铁昨日迎来“满月”，沿线车站30天（截至10月5日）安全运送旅客逾72万人次，客流红火。（澎湃新闻记者 邵冰燕）",
-          "link": "https://www.thepaper.cn/newsDetail_forward_28955299",
-          "publishedOn": "2024-10-07T02:23:03.000Z",
-          "wordCount": 31,
-          "title": "长三角铁路预计今日发送旅客357万人次，同比增幅达4.9%",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_28955446",
-          "author": null,
-          "description": "国家外汇管理局：截至2024年9月末，我国外汇储备规模为33164亿美元，较8月末上升282亿美元，升幅为0.86%。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_28955446",
-          "publishedOn": "2024-10-07T02:23:03.000Z",
-          "wordCount": 27,
-          "title": "国家外汇管理局：截至2024年9月末我国外汇储备规模为33164亿美元，较8月末上升282亿美元",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_28953149",
-          "author": null,
-          "description": "国庆假期哀牢山突然爆火登上热搜。哀牢山究竟是座什么样的山，山里都有什么？\n哀牢山全长约500公里，自西北向东南纵贯云南省中部，是云南省东西两半部气候的分界线，山上有全国最大的原始中山湿性常绿阔叶林区。\n哀牢山脉中段和北段是哀牢山国家级自然保护区。这里不仅是数以百万计珍贵野生动植物的家，也是它们的庇护所。\n登上热搜后的哀牢山引发巨大关注。10月6日，哀牢山自然保护区楚雄管护局发布了《云南哀牢山国家级自然保护区楚雄市管护分局关于禁止进入自然保护区开展各类未经批准的人为活动的告知书》。告知书表示，支持自然保护，最好的行为就是不随意进入保护区，让动植物们自然生长，不受干扰。未经批准，不得擅自进入自然保护区开展科学考察、登山探险、穿越、游憩、拍摄等对野生动植物及其栖息地构成干扰的人为活动。\n纵贯云南省中部，野生动植物资源丰富\n云南省林业和草原局官方网站发布的信息显示，哀牢山脉地处青藏高原南缘、横断山脉和云贵高原三大地理区域的结合部，是重要的自然地理分界线。哀牢山自西北向东南纵贯云南省中部，全长约500公里，也是云南省东西两半部气候的分界线，是云贵高原温润气候的天然屏障。\n哀牢山形成于中生代燕山运动时期至第四纪喜马拉雅运动时期，地面大规模抬升，河流急剧下切，形成深度切割的山地地貌。由于山体相对高差大，气候垂直分布明显，从山麓至山顶依次为南亚热带、中亚热带、北亚热带、暖温带、温带、寒温带气候。\n1988年经国务院批准，哀牢山保护区晋升为国家级自然保护区。哀牢山国家级自然保护区（以下简称“哀牢山保护区”）位于哀牢山脉中段和北段，地跨云南3州（市）6县（市），即楚雄彝族自治州的楚雄市、双柏县、南华县，普洱市的景东彝族自治县、镇沅彝族哈尼族拉祜族自治县和玉溪市的新平彝族傣族自治县。总面积67700公顷。\n\n云南哀牢山国家级自然保护区所处位置。云南省林业和草原局官网图\n\n微信公众号“哀牢山自然保…",
-          "link": "https://www.thepaper.cn/newsDetail_forward_28953149",
-          "publishedOn": "2024-10-07T01:53:03.000Z",
-          "wordCount": 123,
-          "title": "释新闻｜登上热搜的哀牢山在哪里，山里都有什么？",
-          "imageUrl": null
         }
       ]
     },
@@ -13954,6 +14044,46 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/93603",
+          "author": "Matrix机器人",
+          "description": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。🔥一周热评来 ...查看全文",
+          "link": "https://sspai.com/post/93603",
+          "publishedOn": "2024-11-05T09:41:00.000Z",
+          "wordCount": 890,
+          "title": "社区速递 067 | 你没见过的社区文章、一周最热评、派友用多少流量",
+          "imageUrl": "https://cdnfile.sspai.com/11/5/2024/article/61ade840-88d6-ef4a-3af6-b8559183a371.png"
+        },
+        {
+          "id": "https://sspai.com/post/93596",
+          "author": "福利派",
+          "description": "又到了一年一度双十一，少数派照例为大家带来了众多优质正版软件和实用教程的大型活动专场。如果你有心仪的软件或者教程，都可以趁着优惠果断出手。TL;DR:活动时间：2024年11月5日00:00至11月1 ...查看全文",
+          "link": "https://sspai.com/post/93596",
+          "publishedOn": "2024-11-05T08:16:40.000Z",
+          "wordCount": 1027,
+          "title": "正版软件双十一：年度大促开幕，多款产品史低",
+          "imageUrl": "https://cdnfile.sspai.com/2024/11/5/article/83073b12-4fbd-a30d-32b3-2739c46a508c.jpeg"
+        },
+        {
+          "id": "https://sspai.com/post/93588",
+          "author": "北鸮",
+          "description": "我倒是期待在办公鼠标领域看见更多参与者，游戏鼠标已经被整顿好了，该有优质产品去清理一下堆堆垃圾就能卖个几十块的办公市场了。查看全文",
+          "link": "https://sspai.com/post/93588",
+          "publishedOn": "2024-11-05T07:00:00.000Z",
+          "wordCount": 1206,
+          "title": "双十一鼠标怎么挑？（2024 版）",
+          "imageUrl": "https://cdnfile.sspai.com/2024/11/5/article/6123a798-5dd2-2f4b-a34f-5575b844dfe6.jpeg"
+        },
+        {
+          "id": "https://sspai.com/post/92908",
+          "author": "吃派的水獭",
+          "description": "经过一段时间的准备，BANG!CASE for iPhone 16 Pro 今天正式上架销售。查看全文",
+          "link": "https://sspai.com/post/92908",
+          "publishedOn": "2024-11-05T06:40:47.000Z",
+          "wordCount": 680,
+          "title": "BANG!CASE for iPhone 16 Pro & Pro Max 上架：变轻了，手感也更好了",
+          "imageUrl": "https://cdnfile.sspai.com/2024/10/14/f8cf5a767e65f38cae046c81fa0261c5.jpg"
+        },
+        {
           "id": "https://sspai.com/post/93088",
           "author": "Enc3lMag1k",
           "description": "你也许会忘了它的存在，但对于工具，遗忘恰恰意味着完美。查看全文",
@@ -14986,6 +15116,26 @@
       "feedUrl": "https://plink.anyfeeder.com/nytimes/dual",
       "siteUrl": "http://nytimes.com",
       "articles": [
+        {
+          "id": "https://cn.nytimes.com/business/20241105/china-us-trade-tariffs/dual",
+          "author": null,
+          "description": "PETER S. GOODMAN2024年11月5日Wolfspeed是一家为电动汽车使用的计算机芯片制造原材料的公司，该公司正在北卡罗莱纳州西勒城建厂。 Sebastian Siadecki for The New York Times\nFor much of the last half century, economic life in the heart of North Carolina has been dominated by factory closings, joblessness and downgraded expectations. Textile mills and furniture plants have been undercut by low-priced imports from Mexico and China. Tobacco processing jobs have disappeared.\n在过去半个世纪的大部分时间里，北卡罗莱纳州中心地区的经济生活一直被工厂倒闭、失业和预期下调所主导。纺织厂和家具厂受到来自墨西哥和中国的低价进口产品的影响。烟草加工业的职位已经消失。\nYet over the last several years, an infusion of investment in cutting-edge industries like biotechnology, computer chips and electric vehicles has lifted the fortunes of long-struggling communities.\n然而，在过去几年里，对生物技术、计算机芯片和电动汽车等尖端行业的投资注入，使长期处于困境的社区的命运得到了改善。\nNorth Carolina presents a consp…",
+          "link": "https://cn.nytimes.com/business/20241105/china-us-trade-tariffs/dual",
+          "publishedOn": "2024-11-05T08:36:02.000Z",
+          "wordCount": 1568,
+          "title": "美国工厂能抵挡新一轮“中国冲击”吗",
+          "imageUrl": "https://static01.nyt.com/images/2024/11/04/multimedia/00CHINA-SHOCK-01-zfjk/00CHINA-SHOCK-01-zfjk-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/usa/20241105/election-ground-game/dual",
+          "author": null,
+          "description": "EDUARDO MEDINA, JACK HEALY, JULIE BOSMAN2024年11月5日成千上万的志愿者周末在全国各地拉票。贺锦丽竞选团队的志愿者米歇尔·加西亚-丹尼尔斯（左）周六在宾夕法尼亚州北费城登门拉票。 Michelle Gustafson for The New York Times\nMichael Magnanti listened in his church in Oxford, N.C., on Sunday morning as the pastor asked whether anyone had an announcement for the congregation.\n礼拜天早上，在北卡罗莱纳州牛津，迈克尔·马格南蒂在他的教堂里听牧师讲道，牧师问有没有要向会众宣布的事情。\nMr. Magnanti stood from the choir loft, his voice warmed up from hymns.\n马格南蒂从唱诗班席站起来，刚才的赞美诗帮他的嗓子做了热身。\n“Election Day is happening on Tuesday,” said Mr. Magnanti, the chair of the Granville County Republican Party. “I’m begging you to get out and vote, because this is the most important election if you’re alive today.”\n“礼拜二就是选举日了，”身为格兰维尔县共和党主席的马格南蒂说。“我恳求大家去投票，因为这是你们有生以来最重要的一次选举。”\nIt was a final, nearly desperate plea to voters in a battleg…",
+          "link": "https://cn.nytimes.com/usa/20241105/election-ground-game/dual",
+          "publishedOn": "2024-11-05T08:06:01.000Z",
+          "wordCount": 1282,
+          "title": "“有生以来最重要的一次选举”：两党为投票日最后冲刺",
+          "imageUrl": "https://static01.nyt.com/images/2024/11/04/multimedia/04nat-ground-game-topart-hwjm/04nat-ground-game-topart-hwjm-articleLarge.jpg"
+        },
         {
           "id": "https://cn.nytimes.com/usa/20241105/election-anxiety/dual",
           "author": null,
