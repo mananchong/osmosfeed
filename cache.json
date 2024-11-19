@@ -44,16 +44,6 @@
           "wordCount": 5855,
           "title": "R Weekly 2024-W44 {sortable}, HTML table to dataframe, Shiny Assistant",
           "imageUrl": "https://rweekly.org/public/facebook.png"
-        },
-        {
-          "id": "https://rweekly.org/2024-W43.html",
-          "author": null,
-          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Jonathan Carroll, with help from the RWeekly team members and contributors.\nHighlight\nExploring the tidyHeatmap R package\nDon’t Expect That “Function Works Correctly”, Do This Instead\nComparing data.table reshape to duckdb and polars\nInsights\nR and Python consoles + JupyterLite in www.techtonique.net\nGradient-Boosting anything (alert: high performance): Part2, R version\nHighlights from Shiny in Production (2024)\nPositron in action with #TidyTuesday orca encounters\nMonads in R\nAuthenticate with Alpaca API\nComparison of spatial patterns in continuous raster data for overlapping regions using R\n\nHow to Loop Through Column Names in Base R with Examples\nHow to Add Suffix to Colum…",
-          "link": "https://rweekly.org/2024-W43.html",
-          "publishedOn": "2024-10-21T00:00:00.000Z",
-          "wordCount": 5849,
-          "title": "R Weekly 2024-W43 tidyHeatmap, test titles, reshape",
-          "imageUrl": "https://rweekly.org/public/facebook.png"
         }
       ]
     },
@@ -551,16 +541,6 @@
           "wordCount": 197,
           "title": "楼天雄评《巴比伦怪物》｜乱世危局中的警匪江湖",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_29092644",
-          "author": null,
-          "description": "《约翰生传》，[英] 詹姆斯·鲍斯威尔著，蒲隆译，上海译文出版社2023年4月出版，1800页，698.00元\n\n说十八世纪的英国社会浓缩在《约翰生传》里，这并不夸张。蒲隆先生的中文全译本准确、流畅，大量注释更是很有帮助。它不仅具有文学价值，更兼备史料功效。1980年代以降，克拉克等英国学者试图证明，约翰生是一个保守的托利党人，甚至是一个真正的“詹姆斯党人”。本文主要依据鲍斯威尔的这本传记（以下引用本书，仅标注页码），同时辅以十八世纪的史实，对约翰生究竟是何种意义上的“托利党人”这一话题，略加申说。\n辉格和托利党的早期发展史\n为了理清“托利党人”内涵的演变，不妨先追溯一段英国政党的早期发展史。1670年代中期以来，围绕着宗教和王位继承等问题，英国议会中的政治分歧正日益加深，最终导致托利党和辉格党的诞生。大致而言，托利党人代表着乡绅地主的利益，主张扩大王权，限制议会的作用。他们信奉英国国教，主张限制和打压极端的不从国教徒。辉格党中，则既有贵族，也有商人、金融家和自由职业者。他们要求限制王权，增强议会的权力。他们大多也是国教徒，但思想观念略为灵活，要求实行宗教宽容政策，只是对天主教同样满怀仇恨，一如托利分子。1678年至1681年间，围绕着“排除法案”等问题，托利党和辉格党的确有分歧：辉格党人希望将詹姆士二世排除在外；而托利党反对这样做。1688年，为了避免天主教的全面复辟，两派的领袖捐弃前嫌，联手发动政变，邀请荷兰执政者威廉武装干涉英国内政。\n“光荣革命”的宪政意义，并不是一望而知的。大约一百年以后，柏克在《法国革命论》（1790）不厌其详地解释这一事件的历史意义。他认为，此后在英国建立的，不是真正意义上的君主立宪制，君主依然是权力的中心，政府向君主负责。这种政体其实符合洛克的政治主张：立法权归议会，行政和联盟权属于君主。在约翰生、休谟、柏克等人看来，英国政体是由国王、上院和…",
-          "link": "https://www.thepaper.cn/newsDetail_forward_29092644",
-          "publishedOn": "2024-10-21T04:02:06.000Z",
-          "wordCount": 152,
-          "title": "龚龑｜约翰生是何种意义上的托利党人",
-          "imageUrl": null
         }
       ]
     },
@@ -569,6 +549,206 @@
       "feedUrl": "https://feedx.net/rss/thepaper.xml",
       "siteUrl": "http://thepaper.cn",
       "articles": [
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_29394535",
+          "author": null,
+          "description": "北京时间11月19日晚间，世预赛亚洲区18强赛第六轮，日本队客场3比1击败中国队，6场比赛拿到5胜1平的成绩，积分达到16分继续扩大领先优势。\n赛后，日本队主教练森保一在新闻发布会上表示，“虽然赢下比赛，但这是一场艰苦的比赛，我们很长一段时间我们在防守，然后通过两个定位球取得进球，很开心能够赢球。”\n日本队36强赛首次被对手攻破球门（主场对阵澳大利亚丢球是定位球），如何看待中国队的进步？对此森保一回答道，“这支中国队和上一场在日本0比7输球的球队是完全不同的球队，中国队从开局就展现了强大的潜力，伊万主教练让每一位球员都发挥了足够的潜力。我们打得很艰难，厦门的球迷也一直给中国队加油，如果中国队取得第一个进球，那么结果可能就会不一样。”\n对于是否预判到了中国队战术这个问题，森保一表示，“我们球员很好控制了比赛，这和我们预判有一定关系，中国队表现也很好，在一些时间内压制了我们，我对球员表现感到满意。”\n梅开二度的小川航基当选本场比赛最佳球员。他赛后表示，“这是非常艰苦的比赛，从一开始就是如此。好在我们通过角球打破了僵局，所有人斗志很高涨，我们赢下了比赛，大家都很开心。”\n再次谈及中国队和上一场0比7比赛的不同，森保一表示：“中国队获得了更多的经验。上一次两队的比赛是18强赛的第一场比赛，现在中国队刚刚取得了18强赛的两连胜。我不认为中国队取得了进步，而是中国队本来就有巨大的潜力，比如向前快速传球，更具侵略性。还有中国队的球迷，他们和球员一起战斗，给我们制造了很多的困难。”",
+          "link": "https://www.thepaper.cn/newsDetail_forward_29394535",
+          "publishedOn": "2024-11-19T14:53:04.000Z",
+          "wordCount": 36,
+          "title": "日本主帅森保一：中国队和0比7输球时完全不同了",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_29394537",
+          "author": null,
+          "description": "美股三大指数集体低开，道指跌0.77%，纳指跌0.49%，标普500指数跌0.58%。超微电脑涨超24%，消息面上，超微电脑表示已经聘请了世界第五大会计师事务所BDO作为其独立审计师，并向纳斯达克提交了符合上市要求的计划。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_29394537",
+          "publishedOn": "2024-11-19T14:53:04.000Z",
+          "wordCount": 27,
+          "title": "美股三大指数集体低开，超微电脑涨超24%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_29392956",
+          "author": null,
+          "description": "11月18日，一则视频刷屏。\n视频由30张摄于东方明珠的定点照片拼接而成，照片里没有东方明珠，却扎扎实实地记录了东方明珠“朋友圈”扩容的全过程。随着激昂的音乐声，陆家嘴中心绿地、金茂大厦、环球金融中心、上海中心相继“生长”起来。\n\n姚建良为东方明珠庆生创作的视频。 视频来源：姚建良(01:08)\n这则视频是姚建良为30岁的东方明珠庆生而创作的。1992年他进入上海陆家嘴开发公司（今陆家嘴集团）工作，从1994年东方明珠竣工开放开始，在固定点位沿着世纪大道向东拍摄，一拍就是30年。\n姚建良做摄影做了将近50年，做视频还是第一次。为了生动形象展示陆家嘴一年一个样的变化，他把30张照片一张张做叠化，做校准，从17日早晨一直捣鼓到18日凌晨，眼睛看花了，但是心里很激动。他说：“这则视频让很多和我一样的‘老开发’们看了心潮澎湃、热泪盈眶。”\n【姚建良自述】\n我是学工程施工管理的，也喜欢摄影。我把拍摄陆家嘴的事情叫作“摄影工程”，就是选好特定的位置，每年在同一地点，以同一角度，拍摄陆家嘴的变化。\n1993年的时候，由于工作原因，我坐飞机航拍了陆家嘴，东方明珠是那里唯一至高的建筑物，再加上它以后是要对公众开放的，相对而言比较容易取景。如果要定点拍摄，东方明珠是最理想的位置。\n\n陆家嘴模型与航拍陆家嘴。图片来源：姚建良 \n\n\n这些年，由于一些不可抗的外力，我在东方明珠拍摄的点位一共变了四次，上上下下移动，视角却未曾发生变化。\n1994年东方明珠开放经营，268米的观光层是我定点拍摄的第一个点位。1995年，随着东方明珠电视塔太空舱339米的观光层开放启用，我把定点拍摄位置选定在更高的太空舱下球体的位置。2012年，下球体封闭，我的拍摄点位更改到了太空舱上球体，首次将原先不在拍摄范围内的上海中心大厦收入镜头。2022年，由于内部装修，原先的点位因为内部改造而封闭，现在我拍摄点位只有汽车挡风玻璃大小的一个窗口，但我永不放弃。\n让我印象最深刻的一件事是，1995年的某天，我当时所在的陆家嘴开发公司总经理王安德把我叫到他的办公室，给我布置了一项工作，要我到东方明珠电视塔上多角度、多景别，详细拍摄小陆家嘴的现状。因为此前我已经开始了这项拍摄工作，也积累了一定的拍摄经验，所以很快将照片交给了领导。\n看了照片之后王安德沉思片刻，我能体会他当时的心情：从高处俯瞰整个小陆家嘴就是密密麻麻旧居和厂房，灰蒙蒙的就像长在地表面上的青苔，远处28平方公里的开发范围内是一片田野的城乡接合部，陆家嘴的开发建设任重道远！\n\n俯拍中心绿地建造。图片来源：姚建良 \n\n\n1996年陆家嘴中心绿地启动建设，为了详细拍摄记录这一开发的全过程，我自费去了东方明珠23次。11个月3500多户居民动迁安置和10万平方米绿地公园的建设，这是浦东开发的奇迹。\n\n俯拍陆家嘴。 图片来源：姚建良 \n\n\n2011年，英国一家全球知名的电视机构要拍摄一部反映二十一世纪前后20年、全球20座新型发展城市的纪录片，英国编导在看到这组照片感到十分惊奇，最终决定要来了解浦东，实地拍摄陆家嘴。编导对我说：“这是我在全球范围内找到的最成系列、最为完整的城市发展影像图片，这组教科书式历史文献照片该让那些顽固的政客和爱挑剔的批评家们对中国永远闭嘴。”\n\n从和平饭店阳台拍摄陆家嘴金融城。图片来源：姚建良 \n\n\n2015年，随着上海中心的建设完成，根据规划陆家嘴地区的开发已经基本完成，我仍然每年都在记录，但从俯瞰面貌上，除了气象条件外，已经没有更多的变化。不过只要身体条件允许，我会一直拍下去。在东方明珠上看了这么多年，外面的景色对我来说永远是更新的。\n除了东方明珠点位，还有一个位置我也持续记录了30年，从浦西和平饭店的阳台拍摄浦东。开年时候，《繁花》热播。我每次路过黄河路，就想到电视剧里热热闹闹的场景，恍惚间又看见了黄浦江对岸崛起的金融城，这是《繁花》的续集，也是我们一代人的努力。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_29392956",
+          "publishedOn": "2024-11-19T14:23:05.000Z",
+          "wordCount": 79,
+          "title": "30年30张照片，在东方明珠塔上看陆家嘴是如何生长起来的",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_29392568",
+          "author": null,
+          "description": "北京时间11月19日晚，中国足球队在厦门白鹭体育场迎来了世预赛18强赛与日本队的第二回合比赛。\n在两连胜后，国足的状态有了明显的提升，尽管首回合客场0比7不敌日本队，但回到主场球队打出了精气神。不过在防守定位球方面，再次出现了问题，被对手两次利用角球破门，最终，国足1比3不敌日本队。\n在另一场同时开打的同组比赛中，印尼坐镇主场2比0击败了沙特，积分同样来到6分，国足所在C组形势更加混乱。也就是说，目前在C组中，国足、沙特和印尼在打完6场比赛后同积6分。这也意味着中国队未来有机会在大乱斗的局面下，争取更多的积分。\n\n林良铭（右）帮助国足打进一球。\n\n因为伤病和停赛的原因，国足本场比赛的首发阵容变化较大。伊万科维奇还是采用4-3-1-2体系，门将王大雷，后防线三名申花球员杨泽翔、蒋圣龙、朱辰杰继续首发，胡荷韬顶替李磊打左后卫，中场王上源继续打拖后，谢文能解禁复出、徐皓阳和曹永竞也从上一场的替补进入首发，韦世豪和林良铭这两名上一场打中场的球员本场比赛被推上锋线。\n\n本场比赛，有45336名球迷来到现场观战。\n\n此前，日本队客场和印尼的比赛因为天气原因延期一天进行，因此他们备战本场比赛的时间从常规的5天缩减为4天，主教练森保一也对阵容进行了一定的轮换，久保建英、田中碧、伊东纯也、中村敬斗、濑古步梦此役代表日本队首发登场，上轮对阵印尼，上述5人并未首发。而两个主力边翼卫三笘薰和堂安律则替补待命。\n从首发阵容身价来看，国足只有470万欧元，而日本队达到1.4亿欧元，身价上的巨大差异也是双方客观实力差距的一种体现。国足最近两届世预赛三次遭遇日本队全部输球，其中双方第一回合客场0比7大败，而上届世预赛两场比赛也分别以0比1和0比2输球。\n\n本场比赛如何应对？伊万科维奇抵达现场接受采访时表示，“需要付出得更多，做得更好。队员在场上全力以赴付出，展现真正实力，同时需要一点运气，就会有一个合理的结果。”\n他坦言过去两连胜非常及时，“给予足够信心和6个积分，当然接下来的对手是最强的，希望场上有激烈拼搏的精神，展现出一场精彩的比赛。”\n从比赛进程来看，中国队积极的整体防守抑制住了日本队的攻势，虽然半场日本队射门达到8次，射正也有4次，但直到比赛第39分钟久保健英远射被王大雷侧身扑出底线前，日本队并没有绝对意义上的机会。\n\n然而，正是这个射门后的角球机会，久保健英助攻小川航基头球破门。\n\n上半场结束前最后一次进攻，日本队再次利用角球机会破门，板仓滉后点无人盯防头球接力破门。\n定位球防守几乎成为国足征战18强赛的最大顽疾。首战0比7输给日本，远藤航利用角球机会在空位的情况下头球破门；第二场回到主场对阵沙特，国足又在领先情况下被沙特利用两个角球机会完成逆转；第三场对阵澳大利亚比赛上半场结束前，澳大利亚古德温主罚任意球助攻队友头球扳平比分；第四场主场2比1击败印尼的比赛，客队下半场利用大力手抛球制造二点球机会完成进球。\n算上本场比赛上半场两个角球，国足18强赛已经被对手7次利用定位球破门。\n\n国足下半场取得完美开局，第48分钟，谢文能中场突破两名球员直传韦世豪，后者直塞禁区，后点林良铭包抄推射破门，中国队扳回一球。\n至此，中国队五场18强赛连续取得进球，也攻破了本组全部五支球队的球门，这个进球也是最近两届世预赛国足和日本队四场比赛中的第一个进球。\n同时，这也是日本队18强赛以来首次被对手球员攻破大门，此前对阵澳大利亚的丢球，是谷口彰悟打进的一粒乌龙球。\n\n然而日本队很快再次取得两球领先优势，第54分钟，伊东纯也右路连续晃动后传中，小川航基后点头球完成梅开二度。\n\n伊万随后进行调整，第62分钟，张玉宁和李源一对位换下受伤的林良铭以及体能消耗极大的曹永竞。\n日本队随后也进行人员调整，主力镰田大地和三笘薰替补登场。 ​​​\n张玉宁带伤上场后，前场有了支点，国足也开始加强在进攻方面的投入，也创造出了一些机会。\n\n第69分钟，张玉宁左路长传至右路，韦世豪接球后闪开角度兜射，皮球被日本队门将铃木彩艳扑出。 ​​​\n随后的比赛中，两队消耗都比较大。日本队用效力于凯尔特人队的古桥亨梧换下梅开二度的小川航基。国足则用魏震和王子铭换下体能有些透支的蒋圣龙和韦世豪。\n日本队继续利用娴熟的技术掌控局面，在中前场继续施压国足，限制中国队球员组织反击。 ​​​由于中场无法组织起有威胁的进攻，王子铭和张玉宁也没能获得更好的机会。\n最终，中国队在主场1比3不敌日本队，但整体来说，本场比赛国足的表现还是多少让人眼前一亮，不过，接下来的比赛中，定位球的防守仍然需要进一步去打磨。\n中国队也由此结束了2024年的所有赛事，接下来，他们的下一次比赛将是明年的3月20日，客场挑战沙特。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_29392568",
+          "publishedOn": "2024-11-19T14:23:05.000Z",
+          "wordCount": 78,
+          "title": "1比3不敌日本！国足打出精气神，无奈定位球防守成顽疾",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_29394207",
+          "author": null,
+          "description": "黑龙江勃利就东北虎过境事件再做部署。\n据勃利县融媒体中心消息，11月19日，省林草局召开东北虎保护工作视频会议，勃利县林草局设分会场。省林草局野生动植物保护处处长刘正罡、国家林草局猫科动物研究中心部分专家及市、县林草局主要负责人在勃利分会场参加会议。\n\n视频会议上，听取了勃利县关于此次东北虎过境相关情况汇报；刘正罡通报了黑龙江省东北虎活动情况；国家林草局猫科动物研究中心专家从防范措施、信息管理、建立应急救护长效机制等方面对东北虎豹危害冲突风险防范进行了专题培训，并对东北虎的分布和活动规律进行了研判分析；会议还对下一步关于东北虎保护工作进行了具体安排部署。\n勃利县林草局表示，将认真贯彻此次会议精神，汲取培训中的经验做法，在布控防范和舆论宣传上再加力，增强应急处突能力，切实开展好此次东北虎过境防范和野生动物保护工作。\n此前，勃利县林草局于11月18日发布消息称，当天6时38分，县110指挥中心接到报告：“6时许，勃利县吉兴朝鲜族满族乡长太村发现老虎行踪。”经现场初步核实，长太村一名村民左手部被老虎咬伤，目前正在医疗机构接受治疗，伤者情绪稳定，生命体征平稳。县公安局、林业和草原局、应急管理局等部门及属地乡镇工作人员已到达现场，对老虎行踪进行追踪。\n勃利县地处黑龙江东部，全县总面积2390平方公里，辖5镇5乡，133个行政村，11个国有林场，耕地面积174万亩，林地面积146万亩，森林覆盖率40.7%。11月18日以来，勃利县周边的密山、桦南、依兰等县市陆续发布关于加强东北虎保护防范的通告。\n其中，鸡西密山市林业和草原局18日向各乡镇、农场发出工作提示称：要加强野生动物安全防范宣传警示工作，通过设立警示牌、提示语、宣传条幅等多种方式，做好区域内野生动物安全防范宣传警示工作。要避免单独出行。尽量结伴而行，尤其是在进入山林、农田等可能有老虎出没的区域时。如果发现有老虎活动的迹象，如脚印、粪便等，切勿好奇靠近，应立即远离。要规范家畜放养工作。加强重点区域家畜放养管理工作，重点区域禁止散放家畜，避免发生伤家畜事件，造成人民群众财产损失。\n另据东北虎豹国家公园管理局消息，勃利县吉兴乡长太村发生东北虎进入村庄并造成村民受伤事件后，该局立即启动应急处置预案和保险理赔工作程序，协调保险公司派出工作组前往现场协助地方林草部门开展勘查工作，如确认为野生东北虎肇事，将立即启动保险理赔程序，按照民生至上原则，为伤者垫付医疗费用，力求为受伤群众提供最及时最有效的关爱与帮助。\n东北虎豹国家公园管理局消息称，此次事件发生地距东北虎豹国家公园直线距离约200公里，不属国家公园范围，依据《东北虎豹国家公园野生动物造成损失补偿办法（试行）》规定，在吉林省、黑龙江省全域范围内因野生东北虎豹导致的人身伤害，经过保险公司现场核实后，将依照程序获得相应的人身伤害经济补偿。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_29394207",
+          "publishedOn": "2024-11-19T14:23:05.000Z",
+          "wordCount": 34,
+          "title": "东北虎过境，黑龙江勃利要求在布控防范上再加力",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_29392882",
+          "author": null,
+          "description": "11月19日，京东与亚马逊海外购共同宣布，“亚马逊海外官方旗舰店”在京东开业，为消费者带来超40万海外商品、超过12000个国际品牌，并提供全球好物限时免邮、最快2日达的跨境购物体验。\n此外，自正式开业起至2024年底，京东亚马逊海外官方旗舰店将推出限时零门槛免邮优惠。消费者可以享受全店单件免邮服务，商品将通过亚马逊海外购国际直邮或亚马逊海外购宁波前置保税仓发货，最快2日即可送达。（澎湃新闻记者 范佳来）\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.site",
+          "link": "https://www.thepaper.cn/newsDetail_forward_29392882",
+          "publishedOn": "2024-11-19T14:23:05.000Z",
+          "wordCount": 29,
+          "title": "京东亚马逊海外官方旗舰店正式开业",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_29394043",
+          "author": null,
+          "description": "11月19日美股盘前，沃尔玛发布截至2024年10月25日的2025财年第三财季业绩，业绩超出市场预期。第三季度总收入达1696亿美元同比增5.5%；归母净利润为45.8亿美元同比增超9倍。前三季度总收入达5004亿美元同比增5.4%；归母净利润为141.8亿美元同比增超四成。所有细分市场的渗透率都有所上升。\n聚焦中国市场，第三季度可比销售额同比增15%，净销售额同比增17%，连续三个季度销售额增速实现逐季增长，电商业务增长25%。销售额度方面，中国山姆会员商店和电商业务继续保持强劲势头，中秋节期间销售额实现两位数增长，山姆会员商店和大卖场模式的线下流量均呈正增长。第三季度中国市场毛利率增加主要由于商品组合变化，但部分被持续的模式组合变化所抵消。\n展望未来，沃尔玛上调了2025财年的指引，预计净销售额将增长4.8%⾄5.1%，调整后的营业利润将提升8.5%至9.25%。（澎湃新闻记者 邵冰燕）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_29394043",
+          "publishedOn": "2024-11-19T14:23:05.000Z",
+          "wordCount": 29,
+          "title": "沃尔玛中国：上财季净销售额同比增17%，山姆会员商店线下流量呈正增长",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_29342367",
+          "author": null,
+          "description": "本打算改一下熬夜的习惯，但这个计划又泡汤了。因为喜欢上了深夜健身。\n之前我习惯上午醒来后喝杯黑咖，醒个神，然后在健身房里“泡”上两个小时左右。对于健身，我对自己要求不高，没有刻意控制饮食，作息不算规律，健身房里我也是练一会，歇一会，主打一个“随性”。好在时间久了，效果还是有一些的，最明显的，我对自己的体脂率还算满意。\n随性中也有一些刻意，那就是健身的时间。健身房晚上9点闭店，我一般会选择在上午10点到12点左右。因为只有这个时间段，健身房没什么人，没有此起彼伏的举铁声，也不必烦恼人多器械少的问题。这个时候你的身心是自由的：没有人在乎你的动作是否标准，也没有人对你“指点”，任何一个器械你都可以用到力竭。\n可是我慢慢发现，为了享受健身房里的自由，每天必须把上午的这个时间段刻意腾出来，一旦固定，就有那么一些“上班打卡”的感觉了。\n没想到这家健身房换了运营团队，要歇业重新装修。正巧小区门口的底商开了一家社区24小时自助营业的健身房，很自然地接续上了。起初，我并未在意24小时营业的时间对我来说有什么特别意义。只是有几天，上午的工作实在推不开，不得不换到晚上去健身。晚上10点之后，健身房几乎就是包场模式。一来二去，我发现深夜的健身房太有魔力了。它似乎拉长了你一天的时间，我不必像之前那样为了避开健身房的喧闹不得不安排上午的时间，只要你还有精力，晚上10点之后你随时都可以去健身房里安安静静地举铁。\n白天的时间，属于工作，属于老板，属于家庭，属于孩子，只有睡前的时间才是自己的，这几乎成了现代人的共识。尤其对于一个习惯晚睡、习惯了每天撸铁的人来说，不用精确地计划健身时间到底是从晚上10点开始还是11点开始，一切随兴致出发，这种“自由”的感觉真好。\n能让人感觉自由的事物，都值得被爱。\n深夜健身房空荡荡的，我发现一个很有意思的现象。24小时健身房在选址以及装修时，他们其实严格考虑了避免噪音干扰附近居民的问题。深夜来健身的人，似乎更文明一些。我仔细观察过他们，拿放器械的动作都很小心，无论卧推或硬拉，在器械着地的前几秒，他们绝对会有意识地停顿一下，轻轻地放下器械。白天的健身房可不是这样，如果器械不发出“咣咣”的碰撞声，好像就没有健身氛围似的。你时不时会听到哑铃或者杠铃落地时“咣”的一声巨响，接着你都能感受到地面的震动。\n深夜的健身房，没有工作人员的监督，没有其他客人的侧目，每个人的自我约束反而更强烈一些。前天晚上健身时，一个小伙子走的时候还不忘提醒我，“大哥你走时记得把空调关一下。”那天降温，健身房里开了暖风，小伙子的提醒让我更暖。\n深夜健身房里，我相信他们和我一样，挥汗如雨的同时享受着身心的自由。加缪说，“自由应是一个能使自己变得更好的机会”，我们不能辜负这个机会。\n之前的健身搭子听说我改到了深夜健身，半开玩笑半认真地批评我“在自控中失控”。他说的没错，“在自控中失控”，这是很多人对深夜健身人士的评价，也是深夜健身人士的高级哲学。起初我是有过担心，不过翻阅了一些资料后打消了顾虑：根据美国心脏协会的说法，健身时间不分优劣，对于个人来说，最佳的运动时间就是能保持规律运动的时间。从这个角度来看，午夜健身并不算不健康啊。\n何况，中国人睡得越来越晚了。看到一份调查说，2022年我国居民入睡时间集中在晚上23点到凌晨1点，较2021年入睡时间推迟了1小时。传统的健康作息似乎正在被越来越多的人消解，人们需要在深夜“失控”，在“失控”中寻找身心自由。那天晚上在跑步机上跑步时，刷到陈铭在一场辩论会上说：人类就是在熬夜中长大的啊。农耕文明时，人类7点睡觉8点就叫熬夜，工业时代发明了电灯，睡眠时间推迟到10-11点，信息时代有了电脑，睡觉时间大体推到11点到12点，手机短视频流行了，人们熬夜的时间又推迟到12-1点。\n人类就是在熬夜中长大的。熬夜有了这么“诗意”的理由，想到这里，熬夜、失控等所带来的负面顾虑都荡然无存，我更在乎在推门离开健身房时背挺直了一点，步伐轻快一点，身心愉悦一点。\n我们需要在深夜时享受自我的生活，确定什么是我、我在哪儿。那些所有肯定的确定的自我认知，大抵都来自于深夜里的消遣或思索。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_29342367",
+          "publishedOn": "2024-11-19T13:53:05.000Z",
+          "wordCount": 33,
+          "title": "夜读丨深夜健身房的魔力",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_29392904",
+          "author": null,
+          "description": "【编者按】《世界科学》联合“澎湃新闻”平台，在上海市科学技术委员会资助（项目编号：22DZ2304300）下，对获得国家及上海市科技奖励的成果进行科普化报道。\n2022年度上海市科技进步奖一等奖项目“餐废油脂生物柴油制备及车用关键技术”由同济大学汽车学院汽车发动机设计研究所楼狄明教授领衔完成。\n未来，奔赴火星的人类，也会利用地沟油吗？\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.site",
+          "link": "https://www.thepaper.cn/newsDetail_forward_29392904",
+          "publishedOn": "2024-11-19T13:53:05.000Z",
+          "wordCount": 44,
+          "title": "视频｜地沟油，跟登陆火星也有关系？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_29394058",
+          "author": null,
+          "description": "习近平会见朔尔茨：欧盟对中国电动汽车加征关税引发全世界关注。中方始终坚持通过对话磋商解决分歧，希望德方继续为此发挥重要作用。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_29394058",
+          "publishedOn": "2024-11-19T13:53:05.000Z",
+          "wordCount": 30,
+          "title": "习近平会见朔尔茨：中方始终坚持通过对话磋商解决分歧",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_29394028",
+          "author": null,
+          "description": "明年起，上海首批有效期为20年的二代居民身份证将陆续期满。据市公安局10月份统计，约有230万上海户籍人员二代居民身份证需进行到期换证。对此，市公安局人口管理办公室提醒，身份证有效期满前6个月就可申请换领，既能避开高峰，又能避免旧证过期给生活带来不便。\n目前，居民身份证业务已实现“全国通办”。本市居民可选择就近的公安派出所综合窗口申请换领。上海市户籍人员在外省市居住的，可在居住地公安派出所就近申请换领。\n具体该如何换领居民身份证？据介绍，市民凭本人原居民身份证即可换领；无民事行为能力或限制行为能力换领居民身份证的，应当由监护人陪同，另需提供监护关系凭证及监护人的居民身份证。未携带原居民身份证的，可提交“随申办”或国家政务服务平台电子证照，经核实身份后即可办理。到期换领居民身份证的工本费为20元/证。如果身份证遗失，要按照丢失补领，需支付工本费40元/证。\n还有不少市民关心，身份证上照片能否自行拍摄。据公安部门介绍，换证市民可提前通过有身份证拍照资质的社会化照相馆，或“上海数码证照中心”手机拍照小程序，拍摄身份证照片。当然，也可选择在派出所综合窗口拍照点、自助拍照机处拍摄照片。\n在证件领取方面，市民可选择到受理点领取证件或付费寄递到家。若选择寄递到家，证件将在受理之日起7个工作日内送达指定地址。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_29394028",
+          "publishedOn": "2024-11-19T13:53:05.000Z",
+          "wordCount": 31,
+          "title": "约230万上海人身份证将在明年到期！公安提醒：可错峰换证",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_29394125",
+          "author": null,
+          "description": "深圳市住房和建设局 深圳市财政局 国家税务总局深圳市税务局关于取消普通住房标准有关事项的通知\n深建字〔2024〕328号\n各有关单位：\n为贯彻落实国家工作部署，更好满足居民刚性住房需求和多样化改善性住房需求，经市政府同意，现将有关事项通知如下：\n一、取消本市普通住房和非普通住房标准。\n二、对个人销售住房涉及的增值税、个人购买住房涉及的契税，按照《关于促进房地产市场平稳健康发展有关税收政策的公告》（财政部 税务总局 住房城乡建设部公告2024年第16号）有关规定执行。\n三、对个人转让住房未提供完整、准确的房屋原值凭证，不能正确计算房屋原值和应纳税额的，根据规定实行个人所得税核定征税，以转让收入的1%核定应纳个人所得税额。\n本《通知》自2024年12月1日起施行。\n深圳市住房和建设局\n深圳市财政局\n国家税务总局深圳市税务局\n2024年11月19日",
+          "link": "https://www.thepaper.cn/newsDetail_forward_29394125",
+          "publishedOn": "2024-11-19T13:53:05.000Z",
+          "wordCount": 51,
+          "title": "深圳取消普通住房和非普通住房标准",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_29394157",
+          "author": null,
+          "description": "11月19日，深圳市住房和建设局、深圳市财政局、国家税务总局深圳市税务局等三部门联合印发《关于取消普通住房标准有关事项的通知》（以下简称《通知》），明确自2024年12月1日起取消普通住房和非普通住房标准，并对相关征税问题予以明确。\n在个人出售住房增值税方面，深圳市取消普通住房和非普通住房标准后，个人将购买2年以上（含2年）的住房对外销售的，免征增值税。个人将购买不足2年的住房对外销售的，按照5%的征收率全额缴纳增值税。\n在个人购买住房契税方面，深圳市适用与全国统一的个人购房契税优惠政策。对个人购买家庭唯一住房（家庭成员范围包括购房人、配偶以及未成年子女，下同），面积为140平方米及以下的，减按1%的税率征收契税；面积为140平方米以上的，减按1.5%的税率征收契税。对个人购买家庭第二套住房，面积为140平方米及以下的，减按1%的税率征收契税；面积为140平方米以上的，减按2%的税率征收契税。\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.site",
+          "link": "https://www.thepaper.cn/newsDetail_forward_29394157",
+          "publishedOn": "2024-11-19T13:53:05.000Z",
+          "wordCount": 27,
+          "title": "深圳取消普通住房和非普通住房标准",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_29391424",
+          "author": null,
+          "description": "据环球网援引俄新社等俄媒报道，当地时间11月19日，俄罗斯总统普京签令，批准新版俄罗斯核威慑国家基本政策（下文简称核学说），该命令自签署之日起生效。另据央视新闻客户端援引乌克兰媒体报道，当地时间11月19日，乌克兰部队首次使用美国陆军战术导弹系统（ATACMS）袭击了俄罗斯布良斯克州的一处设施。目前，乌克兰和俄罗斯方面对此均暂无回应。\n俄罗斯《生意人报》指出，19日公开的新版核学说扩大了俄实施核威慑的国家和军事联盟范围，任何无核国家在有核国家参与或支持下对俄发动的侵略都将被视为对俄罗斯的联合攻击。与此同时，新版核学说指明，俄罗斯的主权受到常规武器的“极度威胁”，或者盟国白俄罗斯受到攻击，俄也可能做出核反应。此前版本的核学说并没有明确指明盟国身份。\n俄总统新闻秘书佩斯科夫19日表示，国际形势的变化要求俄罗斯对核学说进行修改。他强调，俄一直将核武器视为一种威慑力量和最后手段，并已采取措施避免与其他国家的关系恶化。克宫深信，核威慑是必要的，因为它能让俄罗斯的对手意识到，一旦俄罗斯受到侵略，“报复是不可避免的”。\n佩斯科夫表示，根据19日公布的新版核学说，如乌克兰使用西方的非核导弹攻击俄罗斯，俄罗斯可以使用核武器进行回应。\n此前，多家美媒于17日披露称，拜登政府已同意乌克兰使用美国提供的远程武器深入打击俄领土目标。据《生意人报》19日报道，美国负责西半球事务的助理国务卿尼科尔斯（Brian Nichols）证实，美国总统拜登已授权乌克兰使用美援远程武器打击俄罗斯领土目标。报道称，这是美国政府官员首次证实有关解禁的消息。\n当被问及美国的决定是否会使冲突升级时，尼科尔斯表示：“拜登总统允许乌克兰使用的武器将为乌克兰提供更多的自卫机会。希望（这）能让俄罗斯明白，使用武力夺取乌克兰领土是不会成功的。也许俄罗斯会开始和平谈判，或者更好的办法是干脆撤出乌克兰领土。”\n乌克兰媒体RBC Ukraine 19日援引乌武装部队消息来源报道称，乌克兰军方使用美国制造的ATACMS导弹对俄罗斯领土实施了首次打击，目标是俄罗斯布良斯克州卡拉齐夫镇附近的一处军事设施，“该设施被成功击中”。俄独立媒体称，卡拉齐夫距离乌克兰边境约130公里，位于俄罗斯导弹和火炮总局第67兵工厂附近。\n俄罗斯国防部19日称，莫斯科时间19日夜间3时25分，乌军用6枚ATACMS导弹袭击了布良斯克州的一处军事设施，导弹碎片落在设施的技术区内引发火情，目前火势已被扑灭。\n在新版核学说中，俄使用核武器的其他条件还包括：敌方对俄罗斯领土或其盟国领土，以及俄罗斯在境外的军事编队和设施使用核武器和其他大规模杀伤性武器；收到关于空天攻击武器集中发射并越过俄边界的可靠情报时，包括战略飞机、战术飞机、巡航导弹、无人机、高超音速飞行器和其他飞行器。\n同时，俄新版核学说还首次对俄“潜在对手”进行了定义，这一概念指“视俄罗斯联邦为潜在对手，并拥有核武器和（或）其他类型的大规模杀伤性武器，或通用部队作战潜力巨大的单个国家和军事同盟（集团、联盟）”。\n新版核学说也明确了一系列俄罗斯面临的军事风险，这些风险根据军事、政治和战略形势的变化，可能发展成为军事威胁。在这种情况下，俄将实施“核威慑”以消除这些威胁。潜在的军事威胁包括：\n潜在对手拥有可用于对付俄罗斯的各类大规模杀伤性武器；\n拥有导弹防御系统、中短程巡航导弹和弹道导弹、高精度非核武器和高超音速武器以及攻击性无人机；\n在俄罗斯或其邻国领土附近集结“包括核武器运载工具在内的通用部队群”；\n在太空部署导弹防御和反卫星武器；\n建立新的或扩大现有的军事同盟（集团、联盟），使其军事基础设施更接近俄联邦边界；\n在无核武器国家领土上部署核武器。\n普京曾于9月25日宣布将修改俄罗斯核学说。当时他表示，俄当局有义务考虑不断变化的军事和政治局势，以及俄罗斯及其盟国面临的新军事威胁和风险来源。在此次更新前，相关政策文件最后一次更新是在2020年。\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.site",
+          "link": "https://www.thepaper.cn/newsDetail_forward_29391424",
+          "publishedOn": "2024-11-19T13:23:03.000Z",
+          "wordCount": 39,
+          "title": "俄新版核学说扩大核威慑范围，乌军首次用美国导弹袭击俄本土",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_29393380",
+          "author": null,
+          "description": "当地时间19日，根据俄罗斯国防部公布的消息，19日凌晨3时25分，乌军使用6枚美制陆军战术导弹系统（ATACMS）导弹袭击俄罗斯境内布良斯克州一处设施。俄军使用S-400防空系统和“铠甲”防空系统击落5枚导弹，另1枚导弹被击中。导弹碎片落在布良斯克州一处军事设施内引发了火灾，火灾很快被消防人员扑灭，事件没有造成人员伤亡。\n有消息称，本次袭击是美国决定允许乌克兰使用美国制造的武器袭击俄罗斯境内后，俄境内目标首次遭美制导弹袭击。此外，遭袭击的俄方军事设施距乌俄边境115公里。\n近期，有美国媒体报道说美国民主党政府允许乌方使用美制陆军战术导弹系统（ATACMS）打击俄罗斯纵深。针对该报道，俄罗斯方面多次回应说，此举将挑动紧张局势进一步升级，俄方将采取强硬手段回应。\n在19日当天，俄罗斯总统普京签署法令，批准了俄罗斯新核威慑国家基本政策，法令从签署之日起生效。俄总统新闻秘书佩斯科夫随后表示，如果乌克兰使用西方的非核导弹攻击俄罗斯，那么根据新的核威慑政策，俄罗斯可以使用核武器进行回应。\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.site",
+          "link": "https://www.thepaper.cn/newsDetail_forward_29393380",
+          "publishedOn": "2024-11-19T13:23:03.000Z",
+          "wordCount": 31,
+          "title": "乌军首次使用美陆军战术导弹袭击俄本土，俄国防部：击落5枚",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_29393755",
+          "author": null,
+          "description": "林良铭庆祝进球。视觉中国 图\n\n11月19日，在福建厦门举行的2026美加墨世界杯亚洲区预选赛18强赛第六轮比赛中，中国队破门进球，目前1:2日本队。\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.site",
+          "link": "https://www.thepaper.cn/newsDetail_forward_29393755",
+          "publishedOn": "2024-11-19T13:23:03.000Z",
+          "wordCount": 37,
+          "title": "破门！国足对战日本进球，目前1:2日本队",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_29393460",
+          "author": null,
+          "description": "11月19日下午，国家数据局党组书记、局长刘烈宏主持召开民营企业座谈会，与海天瑞声、中兴通讯、滴滴、观安信息、软通智慧、360集团、宏景科技、来布科技、品高股份、金山办公、金杜律师事务所等民营企业负责人座谈交流。会上，企业家结合生产经营实际，分析研判行业发展现状、面临困难问题，并对数据工作提出意见建议。\n刘烈宏表示，国家数据局成立以来高度重视民营企业意见，推动建立企业联系制度，多次召开企业家座谈会，着力为民营企业发展创造良好政策环境。下一步，国家数据局将在制定数据领域重大政策、重大规划和推进重大改革等工作中，认真研究吸纳企业提出的意见建议，会同相关部门推动优化营商环境，加快建设全国一体化数据市场，进一步发挥数据要素叠加倍增效应，深化数据领域国际合作。（国家数据局微信公号）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_29393460",
+          "publishedOn": "2024-11-19T13:23:03.000Z",
+          "wordCount": 27,
+          "title": "国家数据局局长刘烈宏主持召开民营企业座谈会",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_29393478",
+          "author": null,
+          "description": "11月19日，国内商品期货夜盘开盘多数上涨，烧碱、液化气、氧化铝、铁矿石、沪金、沪镍涨超1%。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_29393478",
+          "publishedOn": "2024-11-19T13:23:03.000Z",
+          "wordCount": 27,
+          "title": "国内期货夜盘开盘多数上涨，烧碱涨超1%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_29392269",
+          "author": null,
+          "description": "美国总统特使阿莫斯·霍克斯坦 资料图\n\n当地时间19日，黎巴嫩议会议长纳比·贝里在贝鲁特和来访的美国总统特使阿莫斯·霍克斯坦举行了近两个小时的会谈。\n会晤后，霍克斯坦对外表示，与贝里的会晤具有建设性，目前有机会结束这场（黎以）冲突，解决方案已经接近达成（the solution is close）。\n美国总统特使阿莫斯·霍克斯坦当天还会见了黎巴嫩看守政府总理纳吉布·米卡提。\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.site",
+          "link": "https://www.thepaper.cn/newsDetail_forward_29392269",
+          "publishedOn": "2024-11-19T12:53:04.000Z",
+          "wordCount": 43,
+          "title": "美总统特使：有机会结束当前黎以冲突，解决方案接近达成",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_29393068",
+          "author": null,
+          "description": "11月19日，据微信公众号“临沂发布”消息，山东省临沂市发布关于阶段性上调住房公积金贷款额度的通知。\n通知显示，在临沂市购买普通自住住房，单缴存职工家庭住房公积金贷款额度上限，由50万元上调至70万元；双缴存职工家庭住房公积金贷款额度上限，由80万元上调至100万元。\n同时，优化住房公积金贷款额度上浮政策。在临沂市购买普通自住住房，多子女家庭（二孩及以上）住房公积金贷款额度上限上浮30万元。即单缴存职工多子女家庭贷款额度上限100万元，双缴存职工多子女家庭贷款额度上限130万元；购买高品质住宅，住房公积金贷款额度上限上浮20万元。即单缴存职工家庭购买高品质住宅贷款额度上限90万元，双缴存职工家庭购买高品质住宅贷款额度上限120万元。\n上述上浮政策可叠加使用，叠加后最高贷款额度为150万元。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_29393068",
+          "publishedOn": "2024-11-19T12:53:04.000Z",
+          "wordCount": 28,
+          "title": "山东临沂阶段性上调住房公积金贷款额度，最高150万元",
+          "imageUrl": null
+        },
         {
           "id": "https://www.thepaper.cn/newsDetail_forward_29389326",
           "author": null,
@@ -12088,56 +12268,6 @@
           "wordCount": 27,
           "title": "深圳住宅装修补贴升级，新增零星装修改造补贴",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_29096716",
-          "author": null,
-          "description": "资料图\n总台记者获悉，当地时间10月20日，美国海军表示，美国华盛顿州飞机坠毁事故中失踪的两名飞行员已被证实死亡。\n美国军方16日说，海军一架EA-18G电子战机前一天坠毁，两名飞行员下落不明。这架战机属于美国海军，15日下午执行训练任务时坠毁在美国西北部华盛顿州雷尼尔山地区。（央视新闻）",
-          "link": "https://www.thepaper.cn/newsDetail_forward_29096716",
-          "publishedOn": "2024-10-21T04:23:03.000Z",
-          "wordCount": 32,
-          "title": "美国海军一架电子战机坠毁，两名飞行员被确认死亡",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_29096728",
-          "author": null,
-          "description": "10月21日，恒生指数午盘跌0.55%，恒生科技指数跌0.25%。盘面上，制造业活跃，半导体持续走高，硬件设备强势上攻，中芯国际攀升8%，华虹半导体升超5%，中兴通讯升超3%，长飞光纤光缆涨逾2%。银行、软件、医药低迷，中国中药下滑34%，迈富时跌逾14%，广州农商银行走低10%，万国数据回撤3%。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_29096728",
-          "publishedOn": "2024-10-21T04:23:03.000Z",
-          "wordCount": 27,
-          "title": "恒生指数午盘跌0.55%，恒生科技指数跌0.25%",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_29093865",
-          "author": null,
-          "description": "农民在农田焚烧秸秆残茬。 视觉中国 资料图\n\n近段时间，湖南部分地区推动秸秆“全域禁烧”改为“划区限烧”，引起舆论关注。\n根据10月15日公布的《津市市人民政府关于划定秸秆禁烧区、限烧区的通告》，涔澹农场、三洲驿街道、汪家桥街道、襄阳街街道、金鱼岭街道、嘉山街道全域和新洲镇万寿宫社区、孟姜女社区、五泉社区、麓山村、庹家峪村，全时段禁止露天焚烧秸秆（包括水稻、油菜、棉花、玉米等农作物产生的秸秆）以及落叶垃圾等易产生烟尘污染的物质。\n通告明确，全市未列入禁烧区域的为限烧区域，在限烧区域内重污染天气预警指令发布期间禁止露天焚烧秸秆，其他时段分区域有序组织焚烧。\n禁改限，为基层减负\n澎湃新闻注意到，2017年，津市市人民政府曾发布公告明确，全市行政区划范围内禁止露天焚烧秸秆。\n津市为湖南常德代管的县级市。近期，常德市石门县、临澧县也在相继划定秸秆限烧区。\n其中，常德市生态环境局石门分局10月18日公布的《关于划定秸秆禁烧区、限烧区的通告（征求意见稿）》显示，楚江街道、永兴街道、宝峰街道、二都街道、易家渡镇、新关镇、洛浦林场、夹山管理处全域等地为禁烧区，全时段禁止露天焚烧秸秆（包括水稻、油菜、棉花、玉米等农作物产生的秸秆。全县未列入禁烧区域的其他区域为限烧区，在限烧区域内，重污染天气预警指令发布期间禁止露天焚烧秸秆，其他时段分区域组织有序焚烧。\n常德市生态环境局临澧分局9月7日公布的《关于划定秸秆禁烧区、限烧区的通告（征求意见稿）》显示，县中心城区周边、二广高速两侧、沅澧干线两侧区域全时段禁止露天焚烧秸秆。未列入禁烧区域的为限烧区域，在限烧区域内，重污染天气预警指令发布期间禁止露天焚烧秸秆，其他时段分区域组织有序焚烧。\n澎湃新闻注意到，今年8月末，常德市生态环境局曾对《常德市人民政府关于划定秸秆禁烧区、限烧区的通告》内容予以解读。\n其中提到，为大力推进秸秆综合利用，切实改善环境空气质…",
-          "link": "https://www.thepaper.cn/newsDetail_forward_29093865",
-          "publishedOn": "2024-10-21T03:53:04.000Z",
-          "wordCount": 55,
-          "title": "这事儿丨秸秆焚烧“禁改限”，背后啥原因？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_29096668",
-          "author": null,
-          "description": "10月21日，A股三大股指集体高开。早盘两市出现一波急跌后快速回暖，个股始终呈现普涨态势，北证50大涨近14%创历史新高。\n从盘面上看，科技股展现强劲弹性，军工信息化、芯片产业链双双爆发，中芯国际历史首破百元关口；游戏、黄金、教育板块全线走强。红利资产逆势下跌，四大行跌逾2%，券商股退居二线。\n至午间收盘，上证综指涨0.82%，报3288.32点；科创50指数涨6.77%，报1044.87点；深证成指涨1.95%，报10560.11点；创业板指涨2.1%，报2241.27点。\nWind统计显示，两市及北交所共4144只股票上涨，1045只股票下跌，平盘有163只股票。\n沪深两市成交总额13989亿元；据大智慧VIP，两市及北交所共有368只股票涨幅在9%以上，没有股票跌幅在9%以上。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_29096668",
-          "publishedOn": "2024-10-21T03:53:04.000Z",
-          "wordCount": 28,
-          "title": "【午盘】沪指早盘涨0.82%，创指涨2.1%：军工信息化、芯片产业链双双爆发",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_29096689",
-          "author": null,
-          "description": "10月21日，印度SENSEX30指数高开0.94%报81770.02点。成分股中，马衡达信息技术高开3.67%，HDFC BANK涨2.31%，TITAN上扬1.78%；下跌方面，科塔克银行低开1.48%，BAJAJ FINSERV下跌0.48%。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_29096689",
-          "publishedOn": "2024-10-21T03:53:04.000Z",
-          "wordCount": 32,
-          "title": "印度SENSEX30指数高开0.94%",
-          "imageUrl": null
         }
       ]
     },
@@ -14424,6 +14554,26 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/94063",
+          "author": "Matrix机器人",
+          "description": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。🔥一周热评来 ...查看全文",
+          "link": "https://sspai.com/post/94063",
+          "publishedOn": "2024-11-19T09:16:23.000Z",
+          "wordCount": 934,
+          "title": "社区速递 069 | 你没见过的社区文章、一周最热评、派友的实况照片",
+          "imageUrl": "https://cdnfile.sspai.com/11/19/2024/article/a046cf72-3d69-6e92-24d0-cbf410e572a8.png"
+        },
+        {
+          "id": "https://sspai.com/post/94061",
+          "author": "张奕源Nick",
+          "description": "完了，我的生产力不会又提升了吧 :)查看全文",
+          "link": "https://sspai.com/post/94061",
+          "publishedOn": "2024-11-19T07:54:43.000Z",
+          "wordCount": 859,
+          "title": "「低配」不低能：2024 款 MacBook Pro 快速体验",
+          "imageUrl": "https://cdnfile.sspai.com/19/11/2024/article/edac7d65-4f9f-20b1-b029-154bb6b3a4fe.jpeg"
+        },
+        {
           "id": "https://sspai.com/post/94047",
           "author": "少数派播客",
           "description": "一起聊聊 2024 年的「移动应用创新赛」。查看全文",
@@ -15472,26 +15622,6 @@
           "wordCount": 578,
           "title": "口之于味，有同嗜焉：在短视频中重识中华美食的现在、过去和未来",
           "imageUrl": "https://cdnfile.sspai.com/2024/10/21/article/beff3440-cb53-8a48-8b86-0194e75d53a4.png"
-        },
-        {
-          "id": "https://sspai.com/post/92888",
-          "author": "程天冲",
-          "description": "已经记不清自己是第几次去香港，每次去香港的时间也不长，从前在深圳的时候都是一日早晚来回，现在离得远了也就是每次去待两三天。我每回到访香港，最常见的理由都是看朋友，次之常见的理由是陪曾经在香港的朋友故地 ...查看全文",
-          "link": "https://sspai.com/post/92888",
-          "publishedOn": "2024-10-21T03:16:43.000Z",
-          "wordCount": 623,
-          "title": "城市漫步指南：香港，繁体的花花世界陌生也新鲜",
-          "imageUrl": "https://cdnfile.sspai.com/2024/10/13/29e364bcc296629daacfdedc9249c341.jpeg"
-        },
-        {
-          "id": "https://sspai.com/post/93058",
-          "author": "少数派编辑部",
-          "description": "你可能错过的新鲜事大疆起诉美国国防部据环球网等报道，10月18日，大疆向美国华盛顿特区地方法院提起诉讼，控告美国国防部将其列入所谓「中国军事企业清单」（ChineseMilitaryCompanies ...查看全文",
-          "link": "https://sspai.com/post/93058",
-          "publishedOn": "2024-10-21T01:03:58.000Z",
-          "wordCount": 776,
-          "title": "派早报：大疆起诉美国国防部",
-          "imageUrl": "https://cdnfile.sspai.com/10/21/2024/article/e39eb23e-27d7-c9d5-5d4a-557311d1f830.png"
         }
       ]
     },
@@ -15506,6 +15636,36 @@
       "feedUrl": "https://plink.anyfeeder.com/nytimes/dual",
       "siteUrl": "http://nytimes.com",
       "articles": [
+        {
+          "id": "https://cn.nytimes.com/usa/20241119/tulsi-gabbard-trump-russia/dual",
+          "author": null,
+          "description": "STEVEN LEE MYERS, JIM RUTENBERG, JULIAN E. BARNES2024年11月19日图尔西·加巴德的言论让她成为了克里姆林宫庞大的官方媒体机构的宠儿，而最近，她又成为候任总统特朗普的宠儿。 Haiyun Jiang for The New York Times\nIn 2017, when she was still a Democratic member of Congress, Tulsi Gabbard traveled to Syria and met the country’s authoritarian president, Bashar al-Assad. She also accused the United States of supporting terrorists there.\n2017年，还是民主党众议员的图尔西·加巴德前往叙利亚，与该国威权总统巴沙尔·阿萨德会面。她还指责美国支持那里的恐怖分子。\nThe day after Vladimir V. Putin began a full-scale invasion of Ukraine in 2022, Ms. Gabbard blamed the United States and NATO for provoking the war by ignoring Russia’s security concerns.\n2022年，普京开始全面入侵乌克兰的第二天，加巴德指责美国和北约无视俄罗斯的安全担忧，引发了这场战争。\nShe has since suggested that the United States covertly worked with Ukraine on dangerous biological pathogens and was culpabl…",
+          "link": "https://cn.nytimes.com/usa/20241119/tulsi-gabbard-trump-russia/dual",
+          "publishedOn": "2024-11-19T08:36:02.000Z",
+          "wordCount": 1544,
+          "title": "特朗普的情报总监加巴德，俄罗斯人的“同志”？",
+          "imageUrl": "https://static01.nyt.com/images/2024/11/18/multimedia/18dc-gabbard-01-mhfk/18dc-gabbard-01-mhfk-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/health/20241119/sweet-potatoes-health-benefits-recipes/dual",
+          "author": null,
+          "description": "ISOBEL WHITCOMB2024年11月19日\nThe marshmallows notwithstanding, sweet potatoes are one of the healthiest foods on your Thanksgiving table. They’re full of nutrients that keep your systems humming and your blood sugar steady, and they can even reduce your cancer risk.\n尽管要加棉花糖，但红薯是感恩节餐桌上最健康的食物之一。它们营养丰富，能帮助身体系统运转，稳定血糖，甚至还能降低患癌症的风险。\nThey’re a natural source of electrolytes.\n它们是电解质的天然来源。\nSweet potatoes are a good source of potassium, an electrolyte that you sweat out when you exercise. The body relies on potassium, which carries a charge, to send electrical signals between nerves, said Holly Gilligan, a registered dietitian at the University of Rochester Medical Center’s Fitness Science program. Potassium helps to keep your nerves firing, your heart beating and your muscles contracting. One medium…",
+          "link": "https://cn.nytimes.com/health/20241119/sweet-potatoes-health-benefits-recipes/dual",
+          "publishedOn": "2024-11-19T07:06:01.000Z",
+          "wordCount": 741,
+          "title": "红薯有多健康？",
+          "imageUrl": "https://static01.nyt.com/images/2024/11/02/multimedia/HEALTHY-SWEET-POTATOES1-bwvm/HEALTHY-SWEET-POTATOES1-bwvm-videoLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/china/20241119/hong-kong-democrats-sentenced/dual",
+          "author": null,
+          "description": "TIFFANY MAY2024年11月19日周二，在香港西九龙法院外警戒的警察。 Chan Long Hei/Associated Press\nA Hong Kong court on Tuesday sentenced 45 former politicians and activists in a mass trial that has decimated the city’s once vibrant pro-democracy opposition and served as a warning that resistance to Beijing can be costly.\n周二，香港一家法院宣布了45名前政界人士和活动人士的刑期。这场大规模的审判彻底摧毁了香港一度活跃的亲民主反对派，同时也发出警告：反抗北京的代价可能是高昂的。\nThe landmark trial is the most forceful use of a national security law Beijing imposed on Hong Kong in 2020 in response to months of large protests against Chinese rule. The prosecution of the activists, the vanguard of Hong Kong’s opposition, has delivered what experts described as a knockout blow to hopes for democracy in the city.\n这场里程碑审判是北京对2020年在香港实施的国家安全法的最有力运用，该法是对持续数月的反对中国统治的大规模抗议活动的回应。专家称，领导香港反对派的活动人士遭起诉一事对香港的民主…",
+          "link": "https://cn.nytimes.com/china/20241119/hong-kong-democrats-sentenced/dual",
+          "publishedOn": "2024-11-19T06:36:02.000Z",
+          "wordCount": 1076,
+          "title": "香港“47人案”：45人获刑，戴耀廷被判10年监禁",
+          "imageUrl": "https://static01.nyt.com/images/2024/11/19/multimedia/19hongkong-democrats-01-jghf/19hongkong-democrats-01-jghf-articleLarge.jpg"
+        },
         {
           "id": "https://cn.nytimes.com/world/20241119/biden-g20-trump/dual",
           "author": null,
@@ -16455,16 +16615,6 @@
           "wordCount": 1621,
           "title": "中东局势正发生转变，以色列被“抛弃”？",
           "imageUrl": "https://static01.nyt.com/images/2024/10/10/multimedia/00gulf-realignment-01-mvpj/00gulf-realignment-01-mvpj-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/world/20241021/yahya-sinwar-final-moments-gaza/dual",
-          "author": null,
-          "description": "MARK MAZZETTI, NATAN ODENHEIMER, AARON BOXERMAN, RONEN BERGMAN, ADAM GOLDMAN2024年10月21日以色列无人机拍摄的一段视频捕捉到一名男子在被打死前不久的样子（图为视频截图），以色列官员后来确认此人是叶海亚·辛瓦尔。 Israel Defense Force, via Associated Press\nAt the end, the fearsome militant leader who had helped unleash a vicious war seemed barely a threat.\n在最后的时刻，这名曾帮助引发一场残酷战争、令人生畏的武装分子领导人看来几乎不是威胁。\nIn video captured by an Israeli drone, a man sat alone, badly wounded and caked in dust amid the ruins of a building in the Gaza Strip, wrapped in a kaffiyeh and staring directly into the camera. The man, Israeli officials say, was Yahya Sinwar, the chief of Hamas.\n以色列无人机拍摄的视频中，一名身负重伤、满身尘土的男子独自坐在加沙地带一栋建筑的废墟里，头上裹着方头巾，眼睛直视镜头。以色列官员说，这名男子是哈马斯领导人叶海亚·辛瓦尔。\nThe stare-down lasted some 20 seconds, then the man limply but defiantly hurled a broken piece of wood toward the…",
-          "link": "https://cn.nytimes.com/world/20241021/yahya-sinwar-final-moments-gaza/dual",
-          "publishedOn": "2024-10-21T02:06:03.000Z",
-          "wordCount": 1862,
-          "title": "辛瓦尔的最后时刻：逃亡、负伤、死前仍不忘挑衅",
-          "imageUrl": "https://static01.nyt.com/images/2024/10/18/multimedia/18sinwar-reconstruct01-photo-tgcv/18sinwar-reconstruct01-photo-tgcv-articleLarge.jpg"
         }
       ]
     },
@@ -16981,36 +17131,6 @@
           "publishedOn": "2024-10-24T01:58:00.000Z",
           "wordCount": 263,
           "title": "《再见爱人4》：情感综艺为何变成“吐槽爽综”？",
-          "imageUrl": null
-        },
-        {
-          "id": "6c241884e54254b17a127727beb1d4b1",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E5%9C%A8%E5%81%9C%E9%A1%BF%E5%A4%84%E6%89%BE%E5%88%B0%E8%AE%B0%E5%BF%86%E4%B8%8E%E6%9C%AA%E6%9D%A5%EF%BC%9A%E6%B6%88%E9%80%9D%E4%B8%AD%E7%9A%84%E7%89%88%E7%94%BB%E8%89%BA%E6%9C%AF",
-          "publishedOn": "2024-10-21T02:16:00.000Z",
-          "wordCount": 299,
-          "title": "在停顿处找到记忆与未来：消逝中的版画艺术",
-          "imageUrl": null
-        },
-        {
-          "id": "25bc6290b0c1bc8e7a0cd8ad7f718fc0",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E5%BD%93%E5%90%B8%E8%A1%80%E9%AC%BC%E5%92%8C%E7%8B%BC%E4%BA%BA%E9%83%BD%E4%B8%8D%E5%86%8D%E5%90%93%E4%BA%BA%EF%BC%8C%E4%B8%BA%E4%BB%80%E4%B9%88%E6%80%AA%E5%A5%87%E6%96%87%E5%AD%A6%E4%BE%9D%E6%97%A7%E5%90%B8%E5%BC%95%E6%88%91%E4%BB%AC%EF%BC%9F",
-          "publishedOn": "2024-10-21T02:16:00.000Z",
-          "wordCount": 303,
-          "title": "当吸血鬼和狼人都不再吓人，为什么怪奇文学依旧吸引我们？",
-          "imageUrl": null
-        },
-        {
-          "id": "73f2303c59e53325adbc7b3530da54eb",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E8%B7%9F%E4%B8%8D%E4%B8%8A%E7%A7%91%E5%AD%A6%E6%AD%A5%E4%BC%90%E7%9A%84%E5%93%B2%E5%AD%A6%EF%BC%8C%E8%BF%98%E8%83%BD%E5%9B%9E%E7%AD%94%E4%BA%BA%E7%B1%BB%E7%9A%84%E7%BB%88%E6%9E%81%E4%B9%8B%E9%97%AE%E5%90%97%EF%BC%9F",
-          "publishedOn": "2024-10-21T02:16:00.000Z",
-          "wordCount": 299,
-          "title": "跟不上科学步伐的哲学，还能回答人类的终极之问吗？",
           "imageUrl": null
         }
       ]
