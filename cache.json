@@ -6,6 +6,16 @@
       "siteUrl": "https://rweekly.org/atom.xml",
       "articles": [
         {
+          "id": "https://rweekly.org/2024-W51.html",
+          "author": null,
+          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Colin Fay, with help from the R Weekly team members and contributors.\nHighlight\nWriting Signed Trinary: or, Back To the Four Weights Problem\nParallel and Asynchronous Programming in Shiny with future, promise, future_promise, and ExtendedTask\nAdvent of Code with data.table: Week One\nInsights\nTurn a GitHub repo into a single text file for LLM-friendly input, with R and Python packages as examples\nParallel and Asynchronous Programming in Shiny with future, promise, future_promise, and ExtendedTask\nProblems with iconv on macOS\nThe most efficient way to manage snapshot tests in R.\nR in the Real World\nLime Bike Summary Stats Dashboard\nR in Organizations\nDiffify & Posit Package Manager\n#44: r2u For ML and MLops Talk\nNew Packages\n📦 Go Live for More New Pkgs 📦\n -->\n📦 Keep up to date wtih CRANberries 📦\nUpdated Packages\n🔍 Search on R-universe 🔍\nRcppCCTZ 0.2.13 on CRAN: Maintenance\npinp 0.0.11 on CRAN: Maintenance\nVideos and Podcasts\nListen to the R-Weekly Highlights Podcast\nGist & Cookbook\n7 New Books added to Big Book of R [7/12/2024]\nTutorials\nHow to Use drop_na to Drop Rows with Missing Values in R: A Complete Guide\nHow to Select Row with Max Value in Specific Column in R: A Complete Guide\nHow to Find the Column with the Max Value for Each Row in R\n3MW (AI Chat-Bots With R, {shiny} & {elmer})\nWant to get code coverage report, but not share your private code with codecov.io? Use cobertura-action.\nAdvent of Code with data.table: Week One\nWriting Signed Trinary: or, Back To the Four Weights Problem\n\n-->\n\nR Project Updates\nUpdates from R Core:\nUpcoming Events in 3 Months\nEvents in 3 Months:\nA list of R conferences and meetings\nThis week’s local R-User and applied stats events\nWeekly R Workshops for Ukraine\nConnect\nJoin the Data Science Learning Community",
+          "link": "https://rweekly.org/2024-W51.html",
+          "publishedOn": "2024-12-16T00:00:00.000Z",
+          "wordCount": 5616,
+          "title": "R Weekly 2024-W51 Signed Trinary, Async and Parallel, and Advent of Code",
+          "imageUrl": "https://rweekly.org/public/facebook.png"
+        },
+        {
           "id": "https://rweekly.org/2024-W50.html",
           "author": null,
           "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Eric Nantz, with help from the R Weekly team members and contributors.\nHighlight\nR-Universe Named R Consortium’s Newest Top Level Project\nPositron vs RStudio - is it time to switch?\nSummer is Coming: AI for Shiny, R, and Pharma\nInsights\nR-Universe Named R Consortium’s Newest Top Level Project\nPositron vs RStudio - is it time to switch?\nQuantitative Analysis: NVIDIA\nBachet’s Four Weights Problem\nposit::glimpse() Newsletter – December 2024\nR in the Real World\nPolitely mapping recommended travel vaccines\n\nModernizing Clinical Trial Design and Analysis to Improve Efficiency & Flexibility\n{SLmetrics}: Machine Learning performance evaluation on steroids\nPredicting Best Picture at …",
@@ -561,16 +571,6 @@
           "wordCount": 106,
           "title": "王钦｜“少女”与日本的“零度”",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_29366060",
-          "author": null,
-          "description": "金雯（章静绘）\n\n华东师范大学教授任金雯在其新著《情感时代》中，从情感视角出发，阐释现代小说在十八世纪兴起的过程。在接受《上海书评》专访时，她谈到了为何以理性自我标榜的“启蒙时代”能够被定义为“情感时代”，并结合时代背景，对理查逊、伊丽莎白·海伍德、菲尔丁、斯特恩、沃尔普尔、安·拉德克利夫等十八世纪的作家作品做出了精彩分析。\n\n《情感时代》，金雯著，华东师范大学出版社2024年1月出版，440页，95.00元\n\n在《情感时代》的弁言和第一编中，您着重论述了人类情感被重新发现和定义的历程，并将我们耳熟能详的以理性自我标榜的十八世纪这个“启蒙时代”定义为“情感时代”。这个时代的来临，与西方现代文学的诞生过程——尤其是媒介文化和大众文化的崛起——之间，存在着怎样的关联？\n金雯：这首先关乎一个问题：社会何以成立？这是十八世纪的人们不断思考的一个问题，此时的西方历史来到了一个关键节点。具体而言，如果我们认为政治经济制度决定了整个社会机体的运行方式，到了十八世纪，随着宗教和政治权威的松动以及资本主义的兴起，人们为什么没有陷入对利益、权力的无限制的角逐？如果人们完全被工具理性推动，社会就无法成立，而是会像反乌托邦小说刻画的那样，进入霍布斯所说的“所有人对所有人的战争”，或少数人掌控大部分资源、压迫绝大部分人的末日情景。但是，这些情况并非常态。这就让我们必须追问：究竟是什么力量对抗着末日的威胁？对十八世纪的思想家、文学家而言，他们自然也不愿看到这种情景。如何避免这种情景，如何缔造一种更为良性的社会秩序，如何使有利于社会建构的理念得到更好的传播和渗透，就成了关键的问题。在这场思考中，情感成为一个核心议题。其实，我们今天的情况也与之相似。现代社会长期处于“道德崩溃”的潜在危机之中，但这种危机始终没有全然压倒人类的“良知”，这与情感在社会关系中的角色是密不可分的。情感的力量和人们对情感的想象，为…",
-          "link": "https://www.thepaper.cn/newsDetail_forward_29366060",
-          "publishedOn": "2024-11-17T02:02:06.000Z",
-          "wordCount": 70,
-          "title": "金雯谈十八世纪西方启蒙思想与现代小说的兴起",
-          "imageUrl": null
         }
       ]
     },
@@ -579,6 +579,206 @@
       "feedUrl": "https://feedx.net/rss/thepaper.xml",
       "siteUrl": "http://thepaper.cn",
       "articles": [
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_29662880",
+          "author": null,
+          "description": "国务院总理李强12月16日主持召开国务院常务会议，学习贯彻习近平总书记在中央经济工作会议上的重要讲话精神，对贯彻落实中央经济工作会议决策部署作出安排。会议强调，要把思想和行动统一到党中央关于经济形势的科学判断和对明年经济工作的决策部署上来，切实增强抓落实的责任感、紧迫感和主动性。国务院各部门要按照党中央确定的各项部署，全面对标对表，主动认领任务，制定落实方案，形成具体的任务书、时间表、路线图，确保各项工作有力有序推进。要靠前抓好落实，能早则早、宁早勿晚，齐心协力、积极作为，以扎实有效的工作为全局多作贡献。\n会议对优化完善地方政府专项债券管理机制作出部署，指出要实行地方政府专项债券投向领域“负面清单”管理，允许用于土地储备、支持收购存量商品房用作保障性住房，扩大用作项目资本金范围。要优化项目审核和管理机制，适度增加地方政府自主权和灵活性，提高债券发行使用效率。要强化专项债券全流程管理，完善资金监管机制和偿还机制。要做好明年专项债券发行使用，尽早形成实物工作量，为推动经济持续回升向好提供有力支撑。\n会议研究促进政府投资基金高质量发展政策举措，指出要构建科学高效的管理体系，突出政府引导和政策性定位，按照市场化、法治化、专业化原则规范运作政府投资基金，更好服务国家发展大局。要发展壮大长期资本、耐心资本，完善不同类型基金差异化管理机制，防止对社会资本产生挤出效应。要健全权责一致、激励约束相容的责任机制，营造鼓励创新、宽容失败的良好氛围。\n会议听取安全生产治本攻坚三年行动进展情况汇报，指出要压实安全监管责任，持续深查彻改本行业本系统重大风险隐患，全链条堵塞漏洞、监管到位，构建安全生产长效机制。要强化标准引领保障作用，进一步健全标准体系、提高标准要求、强化标准实施。要做好岁末年初安全防范，强化重点时段、重点场所、薄弱环节隐患排查和安全管控，确保人民群众生命财产安全和社会大局稳定。\n会议研究推进足球振兴发展相关工作，指出振兴足球是建设体育强国的重点工作，要加大力度落实各项政策举措，推动足球工作不断迈上新台阶。\n会议审议通过《公共安全视频图像信息系统管理条例（草案）》，指出要规范公共安全视频系统建设和使用，更好维护公共安全、保护个人隐私。\n会议还研究了其他事项。\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.site",
+          "link": "https://www.thepaper.cn/newsDetail_forward_29662880",
+          "publishedOn": "2024-12-16T15:53:05.000Z",
+          "wordCount": 27,
+          "title": "李强主持召开国常会，研究推进足球振兴发展相关工作等",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_29665473",
+          "author": null,
+          "description": "12月16日晚，美股三大指数集体高开，道指涨0.11%，纳指涨0.45%，标普500指数涨0.22%。\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.site",
+          "link": "https://www.thepaper.cn/newsDetail_forward_29665473",
+          "publishedOn": "2024-12-16T14:53:04.000Z",
+          "wordCount": 27,
+          "title": "美股三大指数集体高开，纳指涨0.45%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_29664316",
+          "author": null,
+          "description": "稚晖君（真名：彭志辉）率领的智元机器人在去年2月成立于上海临港新片区，半年后发布首款人形机器人“远征A1”。今年初，这家初创公司宣布2024年会是智元机器人商用元年，并于临港奉贤打造上海首座人形机器人量产工厂。\n12月16日，智元机器人对外宣布“开启通用机器人商用量产”。彭志辉同时在社交平台写道：两年时间磨一剑，从灵感到蓝图，从样机到量产，智元机器人终于跨越初创沟堑～目标星辰大海，继续砥砺前行。\n\n澎湃新闻（www.thepaper.cn）记者从智元机器人方面独家获悉，截至12月底，上述量产工厂将总计下线超过900台机器人，“其中自用两百多台，发货将近700台。”目前智元机器人包括双足机器人和轮式机器人，今年出货量中双足机器人占比过半。\n上述数据超出此前公司对外披露的规划。澎湃新闻记者在今年8月从智元机器人召开的媒体会上曾了解到，公司将于10月开始发货，2024年预估发货量将达到300台左右，其中双足机器人200台左右，此外轮式机器人在100台左右。据智元机器人合伙人兼营销服副总裁姜青松当天介绍，公司彼时实际订单量已超过300台。\n据澎湃新闻记者了解，智元机器人临港工厂于今年10月开始生产，经过一段时间的产能爬坡后，12月开始“大上量”。今年出货的机器人基本用于交互场景和柔性制造场景，“明年场景将会进一步多元化，比如特殊场景之类的。”\n值得一提的是，智元机器人还布局了业内最大的具身数采工厂。公司最新介绍中也强调这一信息，上百台机器人同时作业，日产数万条机器人真机数据和仿真环境数据，稳定提升机器人性能、加速学习与训练、增强适应性和灵活性。\n数采工厂内还搭建了多个人类生活空间的模拟场景，涵盖家庭生活中的卧室、客厅、卫生间等。智元机器人采集贴近人类生活的场景数据，显然是为未来其产品走进家庭做准备。\n具身真机数据也被视为人形机器人最为稀缺的数据。就这类数据的采集，姜青松在今年8月对澎湃新闻记者表示，“预计到9月底，智元会建成100台左右规模的一个采集场。”他提到，相较于互联网数据、仿真数据，真机数据是具身大脑真正需要的数据，“相当于需要一个人来教一台机器做一个动作，从而产生一条数据，这个数据获取的难度最大、成本最高，但它的效率最高。”据悉，近6000条真机数据可以把一个动作训练泛化。\n\n在今年8月，也就是智元机器人首款人形机器人远征A1发布一年之际，公司发布了2024年度新品，共包括“远征”与“灵犀”两大系列五款商用人形机器人新品——远征A2、远征A2-W、远征A2-Max、灵犀X1及灵犀X1-W。\n彭志辉当天还提出，类似于自动驾驶分级，智元机器人定义了具身智能G1至G5的技术演进路线。他表示，过去一年，智元机器人在G2路线取得了阶段性突破，实现了通用的位姿估计模型UniPose、通用的抓取模型UniGrasp，通用的力控插拔模型UniPlug等一系列zero-shot和few-shot的通用原子技能。在G2阶段的原子能力模型，面向柔性智造和交互服务场景，已经在多个实际场景中得到了商业应用。\n\n智元机器人的创始团队包括“稚晖君”彭志辉在内的多位业内资深人士。在此前发布的《临港新片区2023年企业融资榜单》中，智元机器人凭借2023年3月拿到天使轮融资、一年内连续获得5轮融资、合计21家参投机构，一举斩获“融资速度之最”“融资次数之最”“投资方数量之最”。今年9月，智元机器人完成 A++++++ 轮融资，投资方包括慕华创投、软通动力、LCVPF Holdco Limited、慕华资本以及中科创星，其中中科创星为老股东。据悉估值已超过70 亿元。\n值得关注的是，智元机器人还得到包括北汽、上汽、比亚迪在内的国内汽车巨头支持。而来自产业方的认可，也被业内认为是这一波具身智能浪潮相较以往的一个显著的不同点。\n“这一次有大量的产业巨头开始进入这个领域，我们关注到不仅仅是比亚迪、华为，还包括一些新能源行业的产业龙头等，他们对具身智能这件事情的认可度很高，这会加速具身智能的进步。”一家专注于初创公司的投资机构合伙人对澎湃新闻（www.thepaper.cn）记者表示。\n不过，尽管具身智能是今年最火的赛道之一，但其真正的商业落地前景仍不明朗。\n“我们觉得这个赛道还有科学的问题没有解决，或者有待解决。在目前这种情况下，很多创业公司已经涌现了，不见得是他们一开始就做好了充分的创业准备，很多时候是被各种力量推着做创业。”在上个月由上海市大学生科技创业基金会主办的2024（第18届）创业周暨全球创业周中国站（简称GEW）的一场具身智能产业主题论坛上， 上海燕缘私募基金管理有限公司总经理、管理合伙人李军表示，“坦白来讲，就创业这件事情而言，具身智能这个赛道是提前了。”",
+          "link": "https://www.thepaper.cn/newsDetail_forward_29664316",
+          "publishedOn": "2024-12-16T13:53:06.000Z",
+          "wordCount": 59,
+          "title": "独家丨人形机器人公司智元临港工厂量产：今年总计下线预计超900台",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_29663902",
+          "author": null,
+          "description": "总台记者获悉，当地时间16日下午，巴沙尔·阿萨德发表了在抵达俄罗斯首都莫斯科后的首个声明，介绍其离开叙利亚前后的详细情况。\n\n巴沙尔·阿萨德（资料图）\n\n\n\n阿萨德离开叙利亚并非计划好的 \n 阿萨德在声明中表示，在“沙姆解放组织”12月7日晚间抵达大马士革后，城中通信发生中断，导致本声明迟迟未能发布。 \n 阿萨德强调，他本人离开叙利亚的行为“既非有计划的，也不是像有些人声称的那样‘在战斗的最后时刻发生的’”。 \n局势恶化后，俄方安排相关人员撤离 \n 声明表示，在12月8日凌晨之前，阿萨德一直留在首都大马士革履行职责，并在“沙姆解放组织”抵达大马士革后与俄罗斯“盟友”协调前往拉塔基亚监督战斗行动。但在8日早上抵达赫梅米姆空军基地后，叙利亚政府军已完全撤出了所有战线，并失去了最后的军事阵地。随着战地局势继续恶化，俄罗斯方面要求基地指挥部8日晚上安排相关人员撤离到俄罗斯。 \n坚信叙利亚人民有意愿并有能力保护国家 \n 声明强调称，阿萨德在这一过程中从未考虑过辞职或寻求庇护，也没有任何个人或政党向其提出这样的建议，他本人唯一的行动方针也是“继续与恐怖主义袭击作斗争”。 \n 声明最后重申，坚信叙利亚人民有意愿并有能力保护国家、捍卫国家机构，阿萨德本人也将坚持自己的选择。\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.site",
+          "link": "https://www.thepaper.cn/newsDetail_forward_29663902",
+          "publishedOn": "2024-12-16T13:23:04.000Z",
+          "wordCount": 54,
+          "title": "巴沙尔·阿萨德抵俄后首次发声：离开叙利亚不是计划好的",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_29662914",
+          "author": null,
+          "description": "国家统计局12月16日公布11月国民经济运行情况相关数据。 \n 11月份，社会消费品零售总额43763亿元，同比增长3.0%；环比增长0.16%。1-11月份，社会消费品零售总额442723亿元，同比增长3.5%。\n\n1-11月份，全国固定资产投资（不含农户）465839亿元，同比增长3.3%。11月份，固定资产投资（不含农户）环比增长0.10%。\n\n在同日举行的国新办新闻发布会上，国家统计局新闻发言人、国民经济综合统计司负责人付凌晖表示，在宏观政策组合效应持续释放的作用下，11月份，生产较快增长，需求继续扩大，就业物价总体稳定，楼市和股市趋于活跃，市场预期持续改善，新质生产力稳步发展，经济运行延续回升态势。但是也要看到，国际环境更趋复杂和不确定，国内有效需求不足、部分企业经营困难。下阶段，要实施更加积极有为的宏观政策，扩大国内需求，加快科技创新和产业创新融合发展，推动经济持续回升向好，有效保障和改善民生。 \n“双十一”网购分流影响，11月社零同比增速有所回落 \n 11月份，社会消费品零售总额43763亿元，同比增长3.0%，比上月回落1.8个百分点，环比增速（0.16%）弱于季节性（过去10年同期社零季调环比增速均值为0.60%）。前11月，社会消费品零售总额442723亿元，同比增长3.5%，与1-10月持平。 \n 11月社零同比增速有所回落，主要原因之一是“双十一”网购分流影响。付凌晖指出，受“双十一”网购启动时间提前的影响，部分商品销售分流到10月份，相应11月份市场销售增速有所回落。 \n 民生银行首席经济学家温彬指出，11月消费增速整体回落，一方面由于脉冲式的“以旧换新”政策效应略有下降，另一方面，则由于居民加杠杆意愿仍然薄弱。尽管11月全国城镇调查失业率持平于5.0%，保证了居民工资性收入，存量房贷利率下调降低了居民还款支出，但11月居民短期贷款减少370亿元，…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_29662914",
+          "publishedOn": "2024-12-16T13:23:04.000Z",
+          "wordCount": 106,
+          "title": "分析｜11月消费回升态势延续，投资增速整体平稳",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_29664599",
+          "author": null,
+          "description": "12月16日晚间，哈尔滨威帝电子股份有限公司（*ST威帝，603023.SH）公告，公司拟使用自有资金购买奇瑞新能源汽车股份有限公司（以下简称“奇瑞新能源”）及上海洛顿信息科技有限公司（以下简称“上海洛顿”）合计持有的阿法硅新能源共性技术研究院有限公司（以下简称“阿法硅”）51%股权，交易对价为4165.418万元。本次交易完成后，标的公司将成为公司控股子公司，本次交易合并成本大于标的公司可辨认净资产公允价值份额的差额，确认为商誉。董事郁琼对本议案投反对票，理由：本次标的收购价格按收益法估值确定，高估值，没有业绩承诺和补偿措施，可能给公司带来经营风险。本次交易对价是以标的公司按收益法评估结果为参考，经交易各方协商一致确定。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_29664599",
+          "publishedOn": "2024-12-16T13:23:04.000Z",
+          "wordCount": 27,
+          "title": "*ST威帝：拟收购阿法硅51%股权，董事郁琼对议案投反对票",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_29664674",
+          "author": null,
+          "description": "记者今天（16日）从民政部了解到，民政部在其官方网站对拟指定的个人求助网络服务平台名单进行了公示。公示时间为2024年12月17日至2024年12月23日。\n公示名单包括三个平台，分别是：\n北京水滴互保科技有限公司的水滴筹\n北京众意互联网络科技有限公司运营的轻松筹\n北京暖心惠民科技有限公司运营的暖心惠民\n（央视新闻）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_29664674",
+          "publishedOn": "2024-12-16T13:23:04.000Z",
+          "wordCount": 28,
+          "title": "民政部公示拟指定的个人求助网络服务平台名单，三平台入选",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_29661206",
+          "author": null,
+          "description": "12月16日，一段关于天津市滨海新区开发区泰达一中高中部新校区教室天花板坍塌的视频在网络上引起关注。据视频发布者称，由于当时教室内的学生正在用餐，因此未造成人员伤亡。\n\n视频内容显示，教室天花板坍塌的照片拍摄时间为12月12日。为了解相关情况，记者联系了滨海新区教体局、泰达街道办居民服务中心以及经济开发区应急管理局等多个部门。\n\n滨海新区教体局的工作人员表示，泰达一中直属泰达文教集团，与教体局属于平级行政，因此建议记者直接联系泰达文教集团。记者随后按照提供的联系方式，拨打了泰达文教集团的电话，但接电话的工作人员表示其所属部门为泰达街道居民服务中心，对于天花板坍塌的具体细节并不清楚。该工作人员表示，已经登记了记者反馈的情况，并将与职能部门对接后给予回复。\n\n经济开发区应急管理局综合管理科的工作人员则表示，对泰达一中教室天花板坍塌的事情有所了解，但并未透露更多细节。工作人员表示没有人员伤亡，但对于恢复上课的时间以及事故原因等关键问题，均表示不清楚。该工作人员透露，目前泰达街道以及教委部门正在介入处理此事。 \n 记者多次拨打泰达一中学校电话，以及经济开发区管委会办公室，电话均未接听。\n\n（原题为《监控画面曝光！天津一学校教室天花板坍塌，多部门回应》）\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.site",
+          "link": "https://www.thepaper.cn/newsDetail_forward_29661206",
+          "publishedOn": "2024-12-16T12:53:05.000Z",
+          "wordCount": 50,
+          "title": "天津一学校教室天花板坍塌，多部门回应",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_29663757",
+          "author": null,
+          "description": "据深圳市规划和自然资源局官网，近日，深圳市规划和自然资源局发布1宗拟出让居住用地项目清单。\n此次拟出让居住用地位于龙岗区，宗地编号G01045-0200，该地块用地面积2.08公顷，容积率4.97，建筑面积10.35万平方米，土地用途为二类居住用地。清单内地块将于2024年12月13日至2025年3月13日期间发布出让公告。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_29663757",
+          "publishedOn": "2024-12-16T12:53:05.000Z",
+          "wordCount": 28,
+          "title": "深圳发布龙岗1宗拟出让居住用地项目，用地面积2.08公顷",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_29664207",
+          "author": null,
+          "description": "据江西卫视《江西新闻联播》消息，江西省人大常委会党组（扩大）会议12月16日召开。吴忠琼以江西省人大常委会党组书记身份出席会议。\n吴忠琼，女，汉族，1964年9月出生，湖北武汉人，1988年8月参加工作，1987年12月加入中国共产党，工学硕士，高级工程师。\n她早年曾任国家国防科技工业局总工程师，辽宁省科学技术厅党组书记、副厅长，辽宁省科学技术厅厅长，鞍山市委副书记、市长，辽宁省发展和改革委员会主任等，2018年1月调任江西省副省长，2020年7月任江西省委常委、副省长，2021年1月任江西省委常委、赣州市委书记，2021年11月起任江西省委副书记、赣州市委书记。\n今年12月，吴忠琼卸任江西省委副书记、赣州市委书记职务。（澎湃新闻记者 岳怀让）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_29664207",
+          "publishedOn": "2024-12-16T12:53:05.000Z",
+          "wordCount": 30,
+          "title": "吴忠琼任江西省人大常委会党组书记",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_29661244",
+          "author": null,
+          "description": "12月16日，外交部发言人林剑主持例行记者会。法新社记者提问，台湾“国防部”今天表示，已从美国接收了38辆先进的艾布拉姆斯主战坦克。中方对此有何评论？\n“首先我要纠正的是台湾不存在什么国防部。”林剑强调，中方坚决反对美台的军事联系和美对台出售武器的立场是一贯的明确。我们敦促美方恪守一个中国原则和中美三个联合公报，特别是《八一七公报》的规定，停止武装台湾，停止纵容支持“台独”势力“以武谋独”。台湾当局“以武谋独”“倚洋谋独”的图谋注定不可能得逞。中方将坚定捍卫国家主权、安全和领土完整。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_29661244",
+          "publishedOn": "2024-12-16T12:53:05.000Z",
+          "wordCount": 32,
+          "title": "台当局接收美国38辆主战坦克，外交部：敦促美方停止武装台湾",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_29662898",
+          "author": null,
+          "description": "12月16日，中国人民银行党委召开会议，传达学习中央经济工作会议精神，按照全国金融系统工作会议部署，研究明确贯彻落实举措。中国人民银行党委书记、行长潘功胜主持会议，各党委成员出席会议。\n会议认为，习近平总书记在中央经济工作会议上的重要讲话，全面总结了一年来经济工作和所取得的成绩，深刻分析了当前我国经济运行面临的国际国内形势，系统部署了明年经济工作的总体要求、主要目标、政策取向，明确了明年经济工作的重点任务，统揽全局、视野宏阔、思想深邃，具有很强的政治性、思想性、战略性和指导性，为做好明年各项工作指明了方向。李强总理的总结讲话，对贯彻落实习近平总书记重要讲话精神、做好明年经济工作提出要求。中国人民银行系统要切实把思想和行动统一到中央经济工作会议精神上来，以更加勤勉、务实、专业、担当的作风，扎实做好中央银行宏观调控和金融管理工作。\n会议强调，做好明年中国人民银行工作，要以习近平新时代中国特色社会主义思想为指导，全面贯彻党的二十大和二十届二中、三中全会精神，认真落实中央经济工作会议和中央金融工作会议决策部署，坚持稳中求进工作总基调，完整准确全面贯彻新发展理念，实施适度宽松的货币政策，防范化解重点领域金融风险和外部冲击，进一步深化金融改革和高水平对外开放，着力扩大内需、稳定预期、激发活力，为推动经济持续回升向好营造良好的货币金融环境。重点抓好以下工作任务：\n一是实施好适度宽松的货币政策。综合运用多种货币政策工具，适时降准降息，保持流动性充裕，使社会融资规模、货币供应量增长同经济增长、价格总水平预期目标相匹配。引导银行充分满足有效信贷需求，增强信贷增长稳定性。强化利率政策执行和传导，促进社会综合融资成本稳中有降。增强外汇市场韧性，稳定市场预期，保持人民币汇率在合理均衡水平上的基本稳定。\n二是更好支持高质量发展重点领域和薄弱环节。坚持金融服务实体经济的根本宗旨，健全做好金融“五篇大文章”政策框架，引导商业银行持续优化信贷结构。科学运用结构性货币政策工具，并与财政等政策相协同，打好政策“组合拳”，重点支持科技创新、绿色发展、提振消费、稳外贸，促进房地产市场和资本市场平稳发展。\n三是稳妥有效防范化解重点领域金融风险。探索拓展中央银行宏观审慎与金融稳定功能，创新金融工具，落实好支持资本市场稳定发展的两项货币政策工具，维护金融市场稳定。按照市场化、法治化原则，积极支持稳妥处置地方中小金融机构风险，继续做好金融支持融资平台债务风险化解工作，支持房地产市场止跌回稳。\n四是稳步推进金融改革和高水平开放。有序推进金融服务业和金融市场制度型开放，推进多层次债券市场建设，增强金融市场功能和服务实体经济能力。稳慎扎实推进人民币国际化，进一步增强人民币跨境支付、投融资、储备、计价等国际货币功能。提升人民币跨境支付系统竞争力。深化外汇领域改革开放，促进跨境贸易和投融资便利化。积极参与国际金融治理与合作，推进全球宏观政策协调和国际金融规则制定。务实做好中美、中欧等双边金融工作。支持上海国际金融中心建设与发展，巩固和提升香港国际金融中心地位。坚持统筹发展和安全，维护国家金融安全。\n五是纵深推进全面从严治党。扎实开展中央巡视整改，强化整改成果运用，以高质量整改成效促进中央银行事业高质量发展。推进党纪学习教育常态化长效化，持之以恒正风肃纪反腐。进一步强化内部管理。树立正确选人用人导向，建设高素质干部人才队伍。\n会议要求，要认真做好岁末年初各项工作。密切跟踪监测，促进金融市场平稳运行。加大支付清算、现金供应等中央银行金融服务工作力度，满足人民群众金融需求。高度重视安全生产工作，确保金融基础设施安全稳定运行。\n会议强调，中国人民银行系统要坚定拥护“两个确立”，坚决做到“两个维护”，坚持党中央对金融工作的集中统一领导，坚定不移走中国特色金融发展之路，以金融高质量发展服务中国式现代化。\n（原题为《中国人民银行党委召开会议传达学习中央经济工作会议精神》）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_29662898",
+          "publishedOn": "2024-12-16T12:23:04.000Z",
+          "wordCount": 32,
+          "title": "央行：适时降准降息，支持房地产市场止跌回稳",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_29662143",
+          "author": null,
+          "description": "澎湃新闻记者 袁璐 何锴 视频编辑 吴佳颖 实习生 左聿瑶 调色 江勇 设计 王煜(08:27)\n【编者按】\n一个默默无闻的名字，出现在第九届全国道德模范候选人名单公示上。她叫唐才英，今年88岁，是江西省新余市分宜县人民医院一名退休保洁员。与唐才英并列的，还有另一个名字，张佳港，今年27岁，分宜县消防救援大队岭北东路消防救援站灭火救援班班长。\n他是唐才英收养的38名弃婴之一。\n如今，张佳港长大了，其他孩子也都成人了。唐才英老了，不过，他们的故事没有被人遗忘，如同珍宝一般，依然闪着光。\n唐才英看上去是生活中最常见、最不起眼的普通老人，额头、面庞和下巴布满细小的皱纹，脸上和手上有显眼的淡茶色老人斑，长年累月干活，掌心布满粗糙的皲裂，手指上缠绕着大大小小的茧。\n老人即将进入人生第90个年头，她的丈夫、两个哥哥、朋友、过去的同事已经离世，她和孩子们生活在一起，日子循环往复。\n上个世纪80年代至90年代间，唐才英相继收养了三十多名婴儿。最开始，她“捡”回婴儿的举动被人质疑过，如果是怀着获取金钱利益的居心，孩子便成了工具。老人从不反驳，只埋头做自己认定的事。\n事实证明，这些孩子最后都好好活了下来，老人凭微薄的收入，精打细算维持起码的生活，付出心血抚养他们，替他们找到好的归宿，除此倒也别无他求。那时，老人朴素的心意才被人理解。\n当她进入衰老之境，回忆起那些不为人知的往事时，她先停顿几秒，两片薄唇被笑容拉成弯月的弧度，眼睛眯成缝，然后才开口说话。那些遥远的记忆像高清电影画面一样在她眼前铺开。\n\n唐才英与丈夫、自己的孩子以及收养的孩子合影。 澎湃新闻记者何锴 摄\n\n\n救的是命\n如果问她，她能准确地说出哪年哪天。\n1982年，一个冬天的凌晨四点，46岁的唐才英起床到分宜县医院做清洁工，路过家附近的铁轨时，听到阵阵婴儿哭声。她被这哭声吓到，心扑通通地跳。她返回家里带上手电筒，寻着哭声摸索过去，才…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_29662143",
+          "publishedOn": "2024-12-16T12:23:04.000Z",
+          "wordCount": 282,
+          "title": "让38个孩子活下去",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_29662866",
+          "author": null,
+          "description": "巴勒斯坦加沙地带卫生部门16日发表声明说，自去年10月新一轮巴以冲突爆发以来，以色列在加沙地带的军事行动已造成45028人死亡、106962人受伤。 \n 声明说，过去24小时内，以色列在加沙地带的军事行动造成52人死亡、203人受伤，还有很多受害者被困在废墟下，救援人员无法接近。 \n 另据巴勒斯坦通讯社16日报道，以军当天轰炸加沙地带北部和中部地区，共造成8人死亡、多人受伤。 \n 以军尚未对此作出回应。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_29662866",
+          "publishedOn": "2024-12-16T12:23:04.000Z",
+          "wordCount": 42,
+          "title": "以色列在加沙地带军事行动已致超4.5万人死亡",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_29663418",
+          "author": null,
+          "description": "12月16日晚间，上海龙宇数据股份有限公司（*ST龙宇，603003.SH）公告，公司于12月16日收到中国证券监督管理委员会（以下简称“中国证监会”）《立案告知书》，因涉嫌信息披露违法违规，中国证监会决定对公司立案。目前公司日常经营秩序正常，各项业务活动均有序开展。公司将积极配合中国证监会相关调查工作，并严格按照有关法律法规的规定和要求，及时履行信息披露义务。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_29663418",
+          "publishedOn": "2024-12-16T12:23:04.000Z",
+          "wordCount": 27,
+          "title": "*ST龙宇：因涉嫌信息披露违法违规，证监会决定对公司立案",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_29663565",
+          "author": null,
+          "description": "记者16日从国家电网有限公司西北分部了解到，随着陕西延安边塞湖15万千瓦风电场近日顺利并网，西北电网装机规模突破5亿千瓦。据了解，在这5亿千瓦装机中，新能源装机达到2.69亿千瓦，占比超过53%。未来随着碳达峰、碳中和进程深入推进，预计“十五五”末，西北电网装机规模将突破12亿千瓦，其中新能源装机近8亿千瓦，新型储能并网近8000万千瓦，新能源发电量占比达50%，实现由装机主体向电量主体的历史性转变，西北电网将基本建成新型电力系统先行示范区。（新华社）\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.site",
+          "link": "https://www.thepaper.cn/newsDetail_forward_29663565",
+          "publishedOn": "2024-12-16T12:23:04.000Z",
+          "wordCount": 27,
+          "title": "西北电网装机规模突破5亿千瓦",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_29657717",
+          "author": null,
+          "description": "当地时间12月15日，叙利亚“沙姆解放组织”领导人朱拉尼表示，叙利亚正在研究提高工资。除了一些特殊专业的短期强制征兵外，不会强制征兵入伍，所有派系都将被解散，除了国家手中，不会有任何武器。\n朱拉尼还表示，当前首要任务是重建被拆毁的房屋，让流离失所者返回家园。\n朱拉尼称，叙利亚已筋疲力尽，因此无意与以色列发生战斗或对抗。我们将努力与国际社会建立关系。\n对此，当地时间15日，以色列总理内塔尼亚胡进行回应，称“我们没有兴趣对抗叙利亚，我们将根据当地的实际情况决定对叙利亚的政策”。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_29657717",
+          "publishedOn": "2024-12-16T11:53:04.000Z",
+          "wordCount": 32,
+          "title": "叙利亚“沙姆解放组织”领导人：无意对抗以色列",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_29662910",
+          "author": null,
+          "description": "12月16日18时00分，我国在文昌航天发射场使用长征五号乙运载火箭/远征二号上面级，成功将卫星互联网低轨01组卫星发射升空，卫星顺利进入预定轨道，发射任务获得圆满成功。\n这次任务是长征系列运载火箭的第552次飞行。（新华社）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_29662910",
+          "publishedOn": "2024-12-16T11:53:04.000Z",
+          "wordCount": 27,
+          "title": "我国成功发射卫星互联网低轨卫星",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_29662911",
+          "author": null,
+          "description": "12月16日，中国民生银行股份有限公司（民生银行，600016.SH）公告，经国家金融监督管理总局核准，同意新希望化工投资有限公司（以下简称“新希望化工”）自批复之日起六个月内通过二级市场增持本行不超过6800万股股份。新希望化工于12月16日通过集中竞价交易方式增持本行1761.65万股H股股份，占本行总股本的0.04%。本次权益变动前，新希望化工及其一致行动人南方希望实业有限公司（简称“南方希望”）、新希望六和投资有限公司（简称“新希望六和投资”）持有本行21.72亿股无限售流通股，占本行总股本比例为4.96%。本次权益变动后，新希望化工及其一致行动人持有本行21.89亿股无限售流通股，占本行总股本比例为5.00%。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_29662911",
+          "publishedOn": "2024-12-16T11:53:04.000Z",
+          "wordCount": 27,
+          "title": "民生银行：新希望化工及其一致行动人持股比例增至5%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_29662744",
+          "author": null,
+          "description": "据中国载人航天工程办公室消息，自北京时间2024年10月30日顺利进驻空间站组合体以来，神舟十九号航天员乘组已在轨工作生活48天，将于近日择机实施第一次出舱活动。 \n 神舟十九号航天员乘组入驻空间站以来，先后完成了与神舟十八号航天员乘组轮换、空间站平台维护照料、生活和健康保障、舱外航天服巡检测试、出舱活动准备等工作，开展了全系统压力应急演练、医疗救护演练等在轨训练项目，承担的各项空间科学实（试）验任务稳步推进。 \n 目前，神舟十九号航天员乘组状态良好，空间站组合体运行稳定，具备开展出舱活动条件。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_29662744",
+          "publishedOn": "2024-12-16T11:23:04.000Z",
+          "wordCount": 33,
+          "title": "神舟十九号航天员乘组将于近日择机实施第一次出舱活动",
+          "imageUrl": null
+        },
         {
           "id": "https://www.thepaper.cn/newsDetail_forward_29661277",
           "author": null,
@@ -14634,6 +14834,26 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/94903",
+          "author": "少数派编辑部",
+          "description": "欢迎收看本期《派评》。你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的App或者关注的话题，也欢迎在评论区和我们讨论。不容错过的App更新除了「新鲜」App，AppStore中的许多 ...查看全文",
+          "link": "https://sspai.com/post/94903",
+          "publishedOn": "2024-12-16T09:51:24.000Z",
+          "wordCount": 868,
+          "title": "派评 | 近期值得关注的 App",
+          "imageUrl": "https://cdnfile.sspai.com/2024/12/16/article/e84f3b7e-deb9-0f5a-07e1-5a4d8eebeb7d.png"
+        },
+        {
+          "id": "https://sspai.com/post/94704",
+          "author": "少数派编辑部",
+          "description": "你是否也会在每年冬天期待一场大雪 ❄️查看全文",
+          "link": "https://sspai.com/post/94704",
+          "publishedOn": "2024-12-16T07:00:00.000Z",
+          "wordCount": 655,
+          "title": "你住的城市下不下雪？用这份「雪天片单」感受浪漫季节",
+          "imageUrl": "https://cdnfile.sspai.com/2024/12/11/article/6e95f9fd-a43f-35f6-ca08-1511a1135d85.png"
+        },
+        {
           "id": "https://sspai.com/post/94242",
           "author": "雷蒙斯与狗",
           "description": "聊聊 Apple Watch 里一些可圈可点的设计思路和体验巧思。查看全文",
@@ -15606,6 +15826,26 @@
       "feedUrl": "https://plink.anyfeeder.com/nytimes/dual",
       "siteUrl": "http://nytimes.com",
       "articles": [
+        {
+          "id": "https://cn.nytimes.com/business/20241216/tech-sales-china-huawei/dual",
+          "author": null,
+          "description": "ANA SWANSON2024年12月16日2023年5月，应用材料公司的一片晶圆。 Jim Wilson/The New York Times\nAt a meeting in Washington this spring, tech company representatives and government officials once again found themselves at odds over where to draw the line when it came to selling coveted technology to China.\n今年春天在华盛顿举行的一次会议上，科技公司代表和政府官员再次发现，在向中国出售令人觊觎的技术时，双方在底线问题上存在分歧。\nThe Biden administration was considering cutting off the sales of equipment used to manufacture semiconductors to three Chinese companies that the government had linked to Huawei, a technology giant that is sanctioned by the United States and is central to China’s efforts to develop advanced chips.\n拜登政府正在考虑停止向三家中国公司出售用于生产半导体的设备，因为政府将这三家公司与科技巨头华为联系在一起，后者在中国开发先进芯片的努力中处于核心地位，受到美国的制裁。\nApplied Materials, KLA Corporation and Lam Research, which make semico…",
+          "link": "https://cn.nytimes.com/business/20241216/tech-sales-china-huawei/dual",
+          "publishedOn": "2024-12-16T06:06:01.000Z",
+          "wordCount": 2009,
+          "title": "美国公司如何对抗政府禁令，向中国出售先进技术",
+          "imageUrl": "https://static01.nyt.com/images/2024/12/05/multimedia/DC-EXPORTCONTROLS-01-jlqt/CFPB-01-jlqt-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/opinion/20241216/china-brics-xi-jinping-trump/dual",
+          "author": null,
+          "description": "高安西, SAM CHETWIN GEORGE2024年12月16日 Pool photo by Maxim Shemetov/EPA, via Shutterstock\nIn late October, while much of the world was focused on the buildup to the U.S. elections, President Xi Jinping of China was issuing a call for global resistance to the American-led world order.\n10月底，当全世界都在关注逐渐升温的美国选举时，中国国家主席习近平呼吁全球抵制美国主导的世界秩序。\nSpeaking in Kazan, Russia, at the summit of BRICS nations, he told the leaders of Brazil, Russia, India, South Africa, Iran, Egypt and several other countries that the world had entered a pivotal new era “defined by turbulence and transformation.”\n在俄罗斯喀山举行的金砖国家峰会上，他对巴西、俄罗斯、印度、南非、伊朗、埃及和其他几个国家的领导人说，世界已经进入了一个“以动荡和变革为特征”的关键新时代。\n“Should we allow the world to remain turbulent or push it back on to the right path of peaceful development?” Mr. Xi asked. He invoked, as a sp…",
+          "link": "https://cn.nytimes.com/opinion/20241216/china-brics-xi-jinping-trump/dual",
+          "publishedOn": "2024-12-16T04:36:01.000Z",
+          "wordCount": 1457,
+          "title": "一本成为习近平精神指南的俄罗斯小说",
+          "imageUrl": "https://static01.nyt.com/images/2024/12/15/multimedia/15-vhbl/15-vhbl-articleLarge.jpg"
+        },
         {
           "id": "https://cn.nytimes.com/world/20241216/prince-andrew-china-spy-suspect/dual",
           "author": null,
@@ -17051,26 +17291,6 @@
           "publishedOn": "2024-11-18T02:20:00.000Z",
           "wordCount": 268,
           "title": "《特技狂人》：绚丽之下的丑恶",
-          "imageUrl": null
-        },
-        {
-          "id": "c0d36d9a2492ae5b27dbf551d3c60568",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+10%E6%9C%88%EF%BC%8C%E6%88%91%E4%BB%AC%E9%80%89%E5%87%BA%E4%BA%86%E8%BF%998%E6%9C%AC%E6%96%B0%E4%B9%A6%E4%B8%A8%E7%AB%A5%E4%B9%A6%E6%96%B0%E5%93%81%E7%AC%AC33%E6%9C%9F",
-          "publishedOn": "2024-11-17T01:59:00.000Z",
-          "wordCount": 325,
-          "title": "10月，我们选出了这8本新书丨童书新品第33期",
-          "imageUrl": null
-        },
-        {
-          "id": "64819098b007e380ed01ec64e916edc0",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E6%88%91%E7%9A%84%E6%97%B6%E9%97%B4%EF%BC%8C%E9%83%BD%E5%8E%BB%E5%93%AA%E5%95%A6%EF%BC%9F",
-          "publishedOn": "2024-11-17T01:59:00.000Z",
-          "wordCount": 303,
-          "title": "我的时间，都去哪啦？",
           "imageUrl": null
         }
       ]
