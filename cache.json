@@ -44,16 +44,6 @@
           "wordCount": 6024,
           "title": "R Weekly 2025-W08 CRAN, Lit Review, Laziness",
           "imageUrl": "https://rweekly.org/public/facebook.png"
-        },
-        {
-          "id": "https://rweekly.org/2025-W07.html",
-          "author": null,
-          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Jonathan Carroll, \nwith help from the RWeekly team members and contributors. This issue includes \nsome posts we overlooked over the end of year break.\nHighlight\nDesigning monochrome data visualisations\nThe life changing magic of tidying text files\nRlinguo — Why Did We Build It?\nInsights\nExploring the bioRxiv API with R, httr2, rvest, tidytext, and Datawrapper\nRlinguo — Why Did We Build It?\nKerning and Kerning in a Widening Gyre\nKey considerations for retiring/superseding an R package\nDesigning monochrome data visualisations\n\n3MW (Save Data at AWS S3 With {paws})\nHow to Combine Lists in R: A Complete Guide with Examples\nHow to Append Values to List in R: A Complete Guide with…",
-          "link": "https://rweekly.org/2025-W07.html",
-          "publishedOn": "2025-02-10T00:00:00.000Z",
-          "wordCount": 6121,
-          "title": "R Weekly 2025-W07 Monochrome plots, Tidying text, Rlinguo",
-          "imageUrl": "https://rweekly.org/public/facebook.png"
         }
       ]
     },
@@ -561,16 +551,6 @@
           "wordCount": 72,
           "title": "董铁柱读《王羲之》｜吉川忠夫的“镜头”与“彩蛋”",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_30100710",
-          "author": null,
-          "description": "几年前我就开始为洛奇先生的健康感到不安，但突然得知并证实他逝世的消息，还是无法接受，哀从中来。先生的生命定格于2025年新年元旦，我与他三十多年远与近的交往就此划上句号，再见不复可期。\n戴维·洛奇最后的日子\n最后一次收到洛奇的邮件是2022年10月15日，告知我寄给他的新星出版社新书《天才的私密》收到，还像之前一再调侃的那样说，很遗憾他不懂中文，但他欣赏书的封面设计图，“希望中国读者喜欢这本书”。\n\n《天才的私密》，新星出版社2022年10月版\n\n此前两个多月，我应新星出版社编辑李文彧和《上海书评》之约联系洛奇，探讨就新星社最新洛奇系列的出版做一次访谈。他在2022年7月24日的信中应允受访，但希望访谈问题只需要简短回答，他说他“很忙”。这一回复让我欣然，一是因为他答应受访，一如他之前的积极合作态度与慷慨；二是因为“很忙”是我接收到的一个十分积极、也让我放下心来的信息，因我有些担心他尚未从妻子去世的打击中恢复过来。此前一段时间里，他在不同邮件中似乎对同一事项有重复回应的现象，我隐隐有些担心他的健康出了问题。答应受访之后，我发给他的连续两封信长时间没有得到回复，惴惴不安的我给洛奇的经纪人凯特发邮件，询问洛奇近况，凯特回复说“戴维最近不大写信”，并给了我他女儿朱莉娅和儿子斯蒂芬的联系方式。这几乎可以证实我的不祥预感。然而，她说“不大写信”（doesn’t do a great deal of correspondence），还是让我幻想他是不是正潜心于某项重要工作，不想被他人打扰。转而一想，年近九旬的老人身体有恙实属正常。但我从未想过世界正在失去戴维·洛奇。我仍然怀着先生不久就会康复的希望，想着也许我们还有机会再见一面。如果家人不主动告知，询问先生是否生病或者病因是不礼貌的。我遍寻国际媒体，但找不到任何有关洛奇近况的信息，更未见他新发表哪怕只言片语。我几次给朱莉娅发信表达对她父…",
-          "link": "https://www.thepaper.cn/newsDetail_forward_30100710",
-          "publishedOn": "2025-02-10T04:02:04.000Z",
-          "wordCount": 330,
-          "title": "罗贻荣｜再见不复可期：忆戴维·洛奇与三十年译事",
-          "imageUrl": null
         }
       ]
     },
@@ -579,6 +559,206 @@
       "feedUrl": "https://feedx.net/rss/thepaper.xml",
       "siteUrl": "http://thepaper.cn",
       "articles": [
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_30367238",
+          "author": null,
+          "description": "新华社北京3月11日消息，第十四届全国人民代表大会第三次会议在圆满完成各项议程后，11日下午在北京人民大会堂闭幕。大会批准政府工作报告、全国人大常委会工作报告等。大会通过关于修改全国人民代表大会和地方各级人民代表大会代表法的决定，国家主席习近平签署第45号主席令予以公布。\n受大会主席团的委托，闭幕会由大会主席团常务主席、执行主席李鸿忠主持。大会主席团常务主席、执行主席王东明、肖捷、郑建邦、丁仲礼、郝明金、蔡达峰、何维、武维华、铁凝、彭清华、张庆伟、洛桑江村、雪克来提·扎克尔、刘奇在主席台执行主席席就座。\n习近平、李强、王沪宁、蔡奇、丁薛祥、李希、韩正和大会主席团成员在主席台就座。\n会议应出席代表2929人，出席2884人，缺席45人，出席人数符合法定人数。\n下午3时，李鸿忠宣布会议开始。\n会议经表决，通过了十四届全国人大三次会议关于政府工作报告的决议。决议指出，会议充分肯定国务院过去一年的工作，同意报告提出的2025年经济社会发展的总体要求、政策取向和工作任务，决定批准这个报告。\n会议经表决，通过了关于修改全国人民代表大会和地方各级人民代表大会代表法的决定。决定自2025年3月12日起施行。《中华人民共和国全国人民代表大会和地方各级人民代表大会代表法》根据决定作相应修改，重新公布。\n会议表决通过了十四届全国人大三次会议关于2024年国民经济和社会发展计划执行情况与2025年国民经济和社会发展计划的决议，决定批准关于2024年国民经济和社会发展计划执行情况与2025年国民经济和社会发展计划草案的报告，批准2025年国民经济和社会发展计划；表决通过了十四届全国人大三次会议关于2024年中央和地方预算执行情况与2025年中央和地方预算的决议，决定批准关于2024年中央和地方预算执行情况与2025年中央和地方预算草案的报告，批准2025年中央预算。\n会议表决通过了十四届全国人大三次会议关于全国人大常委会工作报告的决议。决议指出，会议充分肯定全国人大常委会过去一年的工作，同意报告提出的今后一年的任务，决定批准这个报告。\n会议经表决，通过了十四届全国人大三次会议关于最高人民法院工作报告的决议、关于最高人民检察院工作报告的决议，决定批准这两个报告。\n随后，李鸿忠作了讲话。他说，十四届全国人大三次会议圆满完成了各项议程。会议充分发扬民主，严格依法办事，明确了目标任务，传递了信心力量，是一次凝心聚力、真抓实干、团结奋进的大会。今年是“十四五”规划收官之年，改革发展稳定任务繁重。我们要在以习近平同志为核心的党中央坚强领导下，坚持以习近平新时代中国特色社会主义思想为指导，全面贯彻落实党的二十大和二十届二中、三中全会精神，坚持稳中求进工作总基调，认真落实本次大会部署要求，坚定信心，真抓实干，扎扎实实做好各项工作，高质量完成“十四五”规划目标任务，为实现“十五五”良好开局打牢基础。我们要坚持以人民为中心的发展思想，尊重人民首创精神，践行全过程人民民主，凝聚广大人民群众智慧和力量，坚持一切为了人民、一切依靠人民，不断满足人民对美好生活的向往。我们要锚定强国建设、民族复兴宏伟蓝图，坚定不移走中国特色社会主义道路，聚精会神办好自己的事，一步一个脚印把既定的行动纲领、战略决策、工作部署变为现实。让我们更加紧密地团结在以习近平同志为核心的党中央周围，同心同德，求真务实，开拓进取，为以中国式现代化全面推进强国建设、民族复兴伟业而不懈奋斗。\n下午3时30分，李鸿忠宣布：中华人民共和国第十四届全国人民代表大会第三次会议闭幕。大会在雄壮的国歌声中结束。\n在主席台就座的还有：马兴瑞、王毅、尹力、石泰峰、刘国中、李干杰、李书磊、何卫东、何立峰、张又侠、张国清、陈文清、陈吉宁、陈敏尔、袁家军、黄坤明、刘金国、王小洪、吴政隆、谌贻琴、张军、应勇、胡春华、沈跃跃、王勇、周强、何厚铧、梁振英、巴特尔、苏辉、邵鸿、高云龙、陈武、穆虹、咸辉、王东峰、姜信治、蒋作君、何报翔、王光谦、秦博勇、朱永新、杨震，以及中央军委委员刘振立、张升民等。\n中央和国家机关有关部门、解放军有关单位和武警部队、各人民团体有关负责人列席或旁听了大会。\n外国驻华使节旁听了大会。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_30367238",
+          "publishedOn": "2025-03-11T15:53:05.000Z",
+          "wordCount": 38,
+          "title": "十四届全国人大三次会议在京闭幕",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_30367087",
+          "author": null,
+          "description": "3月11日，肯尼亚旅游局发布的数据显示，肯尼亚旅游业在经历疫情低谷后实现了强劲反弹，国际旅游市场在2024年实现了突破性增长：2024年接待国际游客达240万人次，较2023年增长15%，创下历史新高；国际旅游收入较2023年增长了19.79%。\n肯尼亚旅游局的数据显示，中国已成为肯尼亚第二大增长最快的客源市场，2024年中国游客数量达到90,462人次，较2023年增长了47.4%，增幅在所有市场中排名第二。\n值得一提的是，邮轮旅游市场表现尤为突出，2024年肯尼亚接待邮轮游客6,561人次，较2023年的2,490人次增长了163.5%。\n（澎湃新闻记者 唐莹莹）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_30367087",
+          "publishedOn": "2025-03-11T14:53:05.000Z",
+          "wordCount": 29,
+          "title": "2024年中国赴肯尼亚游客数量同比增长47.4%，成为肯尼亚第二大增长最快的客源市场",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_30365952",
+          "author": null,
+          "description": "菲律宾媒体11日援引前总统杜特尔特律师的话报道，杜特尔特当晚已登上一架包机，将被带往荷兰海牙。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_30365952",
+          "publishedOn": "2025-03-11T13:53:03.000Z",
+          "wordCount": 27,
+          "title": "菲媒：杜特尔特已登上一架包机，将被带往荷兰海牙",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_30366270",
+          "author": null,
+          "description": "据山东大学官网消息，3月1日，山东大学微生物改造技术全国重点实验室第一届学术委员会第一次会议在山东大学中心校区举行。会议举行了全体学术委员会委员聘任仪式。山东大学校长、中国工程院院士李术才与南京师范大学校长华桂宏为学术委员会主任谭天伟，副主任朱永官、颜宁、黄和、张友明以及9名参会委员颁发聘书。\n关于此次聘任，有媒体随后以“颜宁任职山东大学”为题予以报道。对此，颜宁个人微博3月11日发布消息，对误导信息作了澄清。\n颜宁在其微博中表示，“并没有（任职山东大学）。学术委员会与任职无关，是学术界公共服务的一种常见形式，一般都是请外单位专家组成，请勿过度解读。当然，深圳医学科学院确实与山东大学马上会有非常多的密切合作，我们很荣幸，我也很期待。”\n基础生物学家颜宁主要从事膜蛋白结构生物学研究，1977年11月生于山东省济南市，2000年于清华大学获学士学位，2004年于美国普林斯顿大学获博士学位，分别于2019年及2023年当选为美国国家科学院外籍院士及中国科学院院士。\n颜宁在科学研究方面有开拓性的贡献，她的实验室率先成功阐明几种关键膜蛋白原子结构，为药物研发提供了重要启示，其研究成果发表于《自然》《科学》《细胞》等世界顶尖学术期刊，更曾两度被《科学》期刊评选为十大科学突破之一，其研究的影响延伸到医学的实际应用，尤其在理解疾病机理和开发新的治疗方法方面。\n近年，颜宁回国建立和领导深圳医学科学院，出任深圳医学科学院院长、深圳湾实验室主任，致力推动生命科学研究和教育。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_30366270",
+          "publishedOn": "2025-03-11T13:53:03.000Z",
+          "wordCount": 29,
+          "title": "颜宁回应“任职山大”：学术委员会与任职无关，请勿过度解读",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_30365285",
+          "author": null,
+          "description": "今天（3月11日），受冷暖空气共同影响，南方多地降雨增强，北方降雪天气发展，13日前后还将有新一股冷空气接棒，两股冷空气接连来袭，多地累计降温幅度可超10℃。中央气象台今天发布暴雪黄色预警和沙尘暴黄色预警，并继续发布大风黄色预警。\n明起中东部大幅降温，局地降幅超15℃\n中央气象台预计，明天起，随着冷空气东移南下，中东部大部地区将自北向南迎来降温。13日前后，还将有新一股冷空气无缝衔接。受两股冷空气影响，12日至16日，大部地区气温将波动下滑，转为较常年同期偏低的状态。西北地区东部、华北、黄淮西部以及贵州到江南多地气温降幅将超过15℃，冷暖转换明显。\n今明两天青海新疆等地有雨雪局地大暴雪\n\n受冷暖空气共同影响，预计今天开始，南方降雨天气将再度发展增强。预计今明两天，内蒙古东北部、东北地区中北部及新疆北部、西藏北部和东部、青海南部、川西高原等地的部分地区有小到中雪或雨夹雪，新疆北部、内蒙古东北部、黑龙江西部等地的部分地区有大到暴雪，局地大暴雪。中央气象台今天发布暴雪黄色预警。\n明起至15日江南华南等地有中到大雨\n明天起至15日，江南、华南、贵州东部、江汉东部及江淮等地将有中到大雨，部分地区有暴雨，上述地区局地并伴有短时强降水、雷暴大风等强对流天气。\n今明两天北方地区局地阵风超10级\n\n此外，今明两天，北方地区有大风天气，预计，今天到明天，西北地区东部、内蒙古、东北地区中西部、华北北部、西藏中西部等地的部分地区有5~6级风，其中，内蒙古中东部等地的部分地区有7~8级风，局地阵风可达10级及以上；渤海、渤海海峡将有7级、阵风8级的大风。\n今明两天新疆华北等地有扬沙局地沙尘暴\n\n新疆南部、内蒙古中西部、甘肃东部、宁夏、陕西中北部、山西、河北、北京、天津、河南北部、山东北部、辽宁西部、吉林西部等地有扬沙或浮尘天气，其中内蒙古中西部的部分地区有沙尘暴，局地有强沙尘暴。中央气象台今天发布沙尘暴黄色预警，并继续发布大风黄色预警。\n气象部门提醒，北方部分地区风力较大并伴有沙尘天气，请公众出行做好防护，并注意交通安全。\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.site",
+          "link": "https://www.thepaper.cn/newsDetail_forward_30365285",
+          "publishedOn": "2025-03-11T13:23:03.000Z",
+          "wordCount": 45,
+          "title": "暴雪、沙尘暴黄色预警！南方多地降雨增强，北方降雪天气发展",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_30365538",
+          "author": null,
+          "description": "3月11日，中渝置地（01224.HK）发布内幕消息，宣布集团预计在截至2024年12月31日的财年中，股东应占亏损约为6.5亿港元，相较于2023年同期的19亿港元亏损，亏损额大幅减少。\n此次亏损减少的主要原因在于，集团对位于英国的投资物业进行了重估，产生了约3.09亿港元的公平值收益，而2023年同期则录得20亿港元的公平值亏损。尽管如此，部分收益被集团合营企业因物业销售收入减少及物业组合的减值亏损所抵消，导致贡献减少。（澎湃新闻记者 李晓青）\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.site",
+          "link": "https://www.thepaper.cn/newsDetail_forward_30365538",
+          "publishedOn": "2025-03-11T13:23:03.000Z",
+          "wordCount": 29,
+          "title": "中渝置地：预计2024年度股东应占亏损约6.5亿港元",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_30365536",
+          "author": null,
+          "description": "3月11日，京能置业（600791.SH）发布公告称，为提高公司抗风险能力和财务稳健性，降低资产负债率，改善公司资本结构，根据公司经营状况及发展需要，拟与信托公司开展永续债权融资业务，融资金额不超过20亿元。\n此次融资的资金来源为公司控股股东北京能源集团有限责任公司，融资利率不超过同期贷款市场报价利率，且无需提供担保。根据公告，该融资计划需提交股东大会审议批准。融资金额不超过20亿元，主要用于项目建设和偿还存量借款，期限为3+N或5+N年，具体以合同签订为准。利率方面，将不高于同期贷款市场报价利率。（澎湃新闻记者 李晓青）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_30365536",
+          "publishedOn": "2025-03-11T13:23:03.000Z",
+          "wordCount": 29,
+          "title": "京能置业：拟与信托公司开展永续债权融资业务，融资金额不超过20亿元",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_30364487",
+          "author": null,
+          "description": "据《环球时报》援引“欧洲新闻网”3月10日报道，丹麦自治领地格陵兰岛将于11日举行议会选举。在美国总统特朗普多次宣称要将这个世界最大岛屿纳入美国版图之际，这场选举引起全球关注。英国《卫报》称，格陵兰岛选民面临着“决定命运的选择”。\n\n当地时间2025年3月10日，格陵兰岛伊卢利萨特，投票站外悬挂着竞选海报，为3月11日即将举行的议会选举做准备。视觉中国 图\n\n\n格陵兰岛位于北美洲东北部，面积216.6万平方公里，全岛80%的土地覆盖着永久冰雪，岛上总人口约5.6万人，大多数是土著因纽特人。根据2009年格陵兰岛全民公投通过的《自治法》，只要岛上人民支持，格陵兰岛便可从丹麦独立。\n格陵兰资深政治家卡伊·克莱斯特在接受英国广播公司（BBC）访问时表示，尽管自决权已载入《自治法》，但格陵兰获得完全独立仍需要“大约10到15年”。这意味着，无论选举结果如何，“格陵兰岛都不可能在特朗普第二任期结束前获得独立。”\n独立成为选举“关键议题”\n据英国广播公司（BBC）报道，尽管关于格陵兰独立的讨论并不新鲜，但本次选举是这个主题“首次成为选举中的焦点”。据报道，参与选举的6个政党中有5个支持格陵兰最终成为独立国家，区别主要在采用何种方式以及在多长的时间内实现独立。格陵兰议会设有31个席位，取得至少16个席位的政党或政党联盟将成为执政党。\n路透社报道称，现任格陵兰岛总理穆特·埃格德所属的因纽特人共同体（IA）主张逐步实现独立，因为“格陵兰岛公民必须感到安全”。目前议会第二大党、执政联盟成员“前进党”（Siumut）也支持逐步脱离丹麦，该党曾提议在未来四年内举行独立公投，不过最近改变了主意。中右翼的民主党则认为，目前推动独立还为时过早，该党候选人贾斯特斯·汉森对路透社表示：“独立的前提是，格陵兰的经济必须比现在强劲得多。”\n\n当地时间2025年3月10日，格陵兰岛伊卢利萨特，工人在投票站设置投票…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_30364487",
+          "publishedOn": "2025-03-11T12:53:03.000Z",
+          "wordCount": 65,
+          "title": "“入美”、“独立”、“公愤”：格陵兰岛议会选举成为“决定未来的选择”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_30365523",
+          "author": null,
+          "description": "当地时间11日，在白宫谈崩的美乌双方又在沙特坐在了一起，就俄乌初步停火及美乌矿产协议等问题举行会谈，而同一时间，俄欧双方也开展了会谈。\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.site",
+          "link": "https://www.thepaper.cn/newsDetail_forward_30365523",
+          "publishedOn": "2025-03-11T12:53:03.000Z",
+          "wordCount": 41,
+          "title": "玉渊谭天丨现场直击：美乌沙特会谈，同一时间俄欧也在会谈",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_30366143",
+          "author": null,
+          "description": "3月11日晚间，杭州天地数码科技股份有限公司（天地数码，300743.SZ)公告，合计持有公司股份11,575,303股（占剔除公司回购专用证券账户股份后总股本的7.6536%）的股东升华集团控股有限公司（以下简称“升华集团”）及其一致行动人钱小妹计划自本公告披露之日起15个交易日后的三个月内分别以大宗交易和集中竞价交易的方式减持公司股份合计不超过4,500,000股（占剔除公司回购专用证券账户股份后总股本的2.9754%），其中升华集团通过大宗交易的方式减持公司股份不超过3,000,000股（占剔除公司回购专用证券账户股份后总股本的1.9836%），钱小妹通过集中竞价交易的方式减持公司股份不超过1,500,000股（占剔除公司回购专用证券账户股份后总股本的0.9918%）。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_30366143",
+          "publishedOn": "2025-03-11T12:53:03.000Z",
+          "wordCount": 27,
+          "title": "天地数码：升华集团及其一致行动人钱小妹拟合计减持不超2.98%公司股份",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_30366171",
+          "author": null,
+          "description": "3月11日，中国金茂（00817.HK）发布了正面盈利预告。\n公告称，根据对集团截至2024年12月31日止年度未经审核管理账目及董事会现有数据的初步评估，预期集团在2024年度将录得公司所有者应占盈利约10亿元，较集团截至2023年12月31日止公司所有者应占亏损约69亿元实现扭亏及录得大幅增长。\n集团经营业绩增长主要由于：集团持续强化精益管理，全力推进控费提效，管理费用、销售及营销开支、融资成本等在2024年下降；及集团及集团的部分联营及合营企业项目计提发展中物业、持作出售物业等资产减值拨备于本年度下降。（澎湃新闻记者 李晓青）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_30366171",
+          "publishedOn": "2025-03-11T12:53:03.000Z",
+          "wordCount": 30,
+          "title": "中国金茂：预计2024年扭亏为盈，盈利约10亿元",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_30365407",
+          "author": null,
+          "description": "3月11日，中国证监会党委召开扩大会议，深入学习习近平总书记在全国两会期间的重要讲话精神和全国两会精神，研究部署资本市场贯彻落实具体举措。证监会党委书记、主席吴清主持会议并讲话，证监会党委班子成员出席会议。\n\n会议认为，2025年全国两会是在“十四五”规划全面收官、“十五五”规划谋篇布局的关键时期召开的重要会议。习近平总书记三次到团组同代表委员深入交流、共商国是，围绕因地制宜发展新质生产力、进一步全面深化改革、强化教育对科技和人才支撑作用、推进强军建设等重大问题，提出了一系列重要观点、重要论述。习近平总书记的重要讲话高屋建瓴、思想深邃、内涵丰富，体现了对经济社会发展规律的深刻把握、对全局工作的深刻洞察，具有很强的战略性、前瞻性、指导性。证监会系统必须深入学习领会其精神内涵、核心要义和实践要求，认真抓好贯彻落实，以实际行动坚定拥护“两个确立”、坚决做到“两个维护”。\n会议指出，过去一年，面对复杂严峻的内外部形势，以习近平同志为核心的党中央英明决策，国务院周密部署落实，全党全国人民勠力同心，圆满实现全年经济社会发展目标，赢得了战略主动。2025年政府工作报告全面落实中央经济工作会议部署，充分体现了高质量发展的战略导向和积极进取的政策取向，为做好今年经济社会发展工作进一步明确了“任务书”和“施工图”。证监会系统要把贯彻落实习近平总书记重要讲话精神和政府工作报告部署同落实党的二十届三中全会、中央经济工作会议、民营企业座谈会精神结合起来，紧扣防风险、强监管、促高质量发展的工作主线，强本强基、严监严管，扎实办好资本市场自己的事。一是全力巩固市场回稳向好势头。强化上市公司增强回报投资者的意识和能力，更大力度推动中长期资金入市指导意见及实施方案落实落地，加强战略性力量储备和稳市机制建设，坚决守住风险底线。二是在支持科技创新和新质生产力发展上持续加力。增强制度包容性、适应性，支持优质未盈利科技企业发行上市，稳妥恢复科创板第五套标准适用，尽快推出具有示范意义的典型案例，更好促进科技创新和产业创新融合发展。三是进一步全面深化资本市场改革。以深化投融资综合改革为牵引，全面启动实施新一轮资本市场改革，推动各项改革举措平稳落地，取得可感可及的改革成果。四是坚定扩大资本市场高水平制度型开放。研究制定资本市场对外开放总体规划，稳步拓展跨境互联互通，切实提升境外上市备案质效，进一步提高跨境投融资便利性，更好实现以开放促改革、促发展。五是着力提升监管执法效能。坚持依法严惩、依责严防，加快完善监管法规制度体系，强化科技赋能，增强非现场监管和现场检查穿透力，快、准、狠打击恶性违法违规。六是加快建设“三个过硬”的监管铁军。纵深推进证监会系统全面从严治党，打好巡视集中整改攻坚战。坚持严管厚爱相结合，推动干部切实强化履职政治担当，不断提升干部队伍的纯洁性、专业性和战斗力。\n会议指出，人大代表建议和政协委员提案集中反映社情民意，体现代表委员的真知灼见和对资本市场的关心。证监会系统要自觉提高政治站位，强化责任担当，进一步健全两会建议提案办理工作制度机制，努力推动办理工作提质增效，更好促进资本市场各方面工作改进提升。\n驻证监会纪检监察组负责同志，会机关各司局、上交所、深交所、北交所主要负责同志参加会议。\n（原标题：《证监会党委传达学习习近平总书记重要讲话精神和全国两会精神》）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_30365407",
+          "publishedOn": "2025-03-11T12:23:05.000Z",
+          "wordCount": 33,
+          "title": "证监会：全力巩固市场回稳向好势头，强化上市公司增强回报投资者的意识和能力",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_30365350",
+          "author": null,
+          "description": "十四届全国人大三次会议第三场“部长通道”集中采访活动  中国网 伦晓璇 摄\n\n\n3月11日下午闭幕会后，十四届全国人大三次会议第三场“部长通道”集中采访活动如期举行，自然资源部部长关志鸥、文化和旅游部部长孙业礼和国家体育总局局长高志丹走上通道接受媒体采访。\n澎湃新闻注意到，今年全国两会期间，共有10位部长走上了“部长通道”。他们分别是参加首场“部长通道”的交通运输部部长刘伟、教育部部长怀进鹏、国家市场监督管理总局局长罗文、国家金融监管总局局长李云泽，以及“亮相”第二场“部长通道”的生态环境部部长黄润秋、水利部部长李国英、农业农村部部长韩俊。其中，自然资源部部长关志鸥、农业农村部部长韩俊以及交通运输部部长刘伟和教育部部长怀进鹏，均是首次走上“部长通道”接受媒体采访。\n10位部长回应的问题涉及耕地保护、“三北”工程、文旅产业发展、冰雪经济，以及污染防治、水资源利用、洪涝灾害防范、粮食安全、巩固脱贫攻坚成果、推进乡村振兴、降低物流成本、振兴县城中学、提高平台企业算法透明度、金融更好促进消费等。\n在第三场“部长通道”中，部长们则重点就坚守18亿亩耕地红线、抵制饭圈文化对体育的侵蚀和破坏、稳住冰雪经济万亿基本盘，以及谁才能在火热的文旅市场中赚到钱等问题作出回答。\n“占一亩、补一亩”，确保耕地补足补优\n自然资源部部长关志鸥今年是首次走上“部长通道”接受媒体采访。\n关志鸥，男，满族，1969年12月生，辽宁沈阳人，1993年12月加入中国共产党，1995年7月参加工作，在职研究生学历，理学博士学位。中共二十届中央候补委员。\n他曾任辽宁省沈阳市副市长，辽宁省农委主任、党组书记兼省粮食局局长，辽宁省政府党组成员、秘书长，辽宁省委常委、省总工会主席等，2018年任山东省委常委、宣传部部长兼省委教育工委书记，2020年任自然资源部党组成员，国家林业和草原局（国家公园管理局）党组书记、局长。202…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_30365350",
+          "publishedOn": "2025-03-11T12:23:05.000Z",
+          "wordCount": 42,
+          "title": "第三场“部长通道”：关注文旅产业和冰雪经济的高质量发展",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_30365530",
+          "author": null,
+          "description": "3月11日，傲拓科技股份有限公司（简称：傲拓科技）科创板IPO申请获得上交所受理，这是今年上交所受理的首单IPO。据悉，傲拓科技拟募资7.79亿元。（证券时报）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_30365530",
+          "publishedOn": "2025-03-11T12:23:05.000Z",
+          "wordCount": 27,
+          "title": "今年首单！傲拓科技科创板IPO申请获上交所受理",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_30365531",
+          "author": null,
+          "description": "3月11日晚间，陕西能源投资股份有限公司（陕西能源，001286.SZ）公告，公司近日接到持股5%以上股东陕西榆林能源集团汇森投资管理有限公司（以下简称“榆能汇森”）来函，基于对公司未来持续稳定发展的信心以及对公司价值的认可，榆能汇森计划自公告之日起 6 个月内以自有资金和金融机构增持专项贷款通过集中竞价方式增持公司股份。本次增持不设定价格区间，具体根据公司股票价格波动情况及资本市场整体趋势，择机实施。拟增持股份的金额不低于人民币2.5亿元，不超过人民币5亿元。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_30365531",
+          "publishedOn": "2025-03-11T12:23:05.000Z",
+          "wordCount": 31,
+          "title": "陕西能源：股东榆能汇森拟2.5亿元-5亿元增持公司股份",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_30365031",
+          "author": null,
+          "description": "3月11日下午，十四届全国人大三次会议在北京人民大会堂闭幕。出席会议的上海代表团圆满完成大会各项议程后，当天傍晚乘班机回到上海。\n代表们表示，这是一次民主、团结、求实、奋进的大会。一周时间里，来自上海的全国人大代表带着深入调研、精心准备的议案建议，聚焦会议议题积极履职，共商国是、献计献策，充分交流了思想、增进了共识。代表们表示，接下来将认真贯彻落实全国两会精神，奋力谱写中国式现代化的上海新篇章。\n上海代表团新闻发言人、市人大常委会副秘书长刘世军介绍，十四届全国人大三次会议期间，上海代表团共提交议案6件、建议150件。这些议案建议着眼全国发展大局，立足上海实际，对国家战略在沪落地落实和上海加快建设“五个中心”，推动解决制约经济社会发展瓶颈问题，助力高质量发展，回应人民群众期盼等具有重要作用。\n全国人大代表、上海富申评估咨询集团董事长樊芸说，她将持续关注民营经济、国企改革等议题，还将关注深化医疗卫生体制改革，推动商业保险进入医保领域，满足人民群众多层次的消费需求，“医疗服务消费既是一个民生问题，又是一个经济发展问题，更是一个提振消费增长的大课题。”\n发展长期资本、耐心资本是促进科技、产业、金融良性循环的重要举措。全国人大代表，上海国有资本投资有限公司党委书记、董事长袁国华说，将关注优化税收制度、完善国有资产评估管理，更好支持政府资金和国有资本投向科技创新。\n全国人大代表、上海歌剧院院长许忠说，“希望把中国故事用艺术的形式、歌剧的形式让世界倾听。”作为艺术领域的代表，未来他将创作更多优秀的中国歌剧作品，邀请全球顶尖音乐家共同演绎中国声音，讲好中国故事，让其更精彩地绽放在世界舞台。\n“技能改变了我的人生，我希望通过自己的努力，让更多的产业工人得到关注和支持，让他们的技能也能绽放出光芒。”全国人大代表、中核检修焊接专业首席技能专家师延财说，产业工人是支撑中国式现代化建设的主力军，肩负着实现制造强国战略的历史使命。当前我国技术工人队伍仍面临人员不足等问题，针对这些问题，他在今年两会上提出了一系列务实的建议，比如构建“技能价值”导向的薪酬体系，相信中国的产业工人队伍将会更加壮大。\n作为一名来自基层农村的全国人大代表，上海市闵行区浦锦街道芦胜村党总支书记张义民说，他在本次两会上深切感受到国家发展的坚定步伐与民生为本的执政理念。2025年开展乡村工作，他会重点聚焦三个维度：一是强化粮食安全保障，推广智慧农业技术等举措，确保粮食稳定供给；二是深化城乡融合发展，促进要素双向流动；三是激发乡村内生动力，培育新型农业经营主体，让广大农民共享现代化发展成果。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_30365031",
+          "publishedOn": "2025-03-11T11:53:03.000Z",
+          "wordCount": 54,
+          "title": "刚刚，上海代表团乘班机返沪，他们有这些计划",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_30364286",
+          "author": null,
+          "description": "2025年3月11日下午，文化和旅游部部长孙业礼在十四届全国人大三次会议第三场“部长通道”上表示，国家博物馆去年推出了一款新设计的冰箱贴——凤冠冰箱贴。因为设计很好，一推出来以后就成为爆款，很多人非常喜欢，一大早就到国博门口排队，就是为了买这个冰箱贴。当时没想到这么受喜欢、受欢迎，每天生产量有限，大家排队经常买不到，买到的就到网上炫，买不到也觉得很遗憾。半年下来这款冰箱贴卖了80多万个，所以有好的产品，不愁没消费，不愁没钱赚。\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.site",
+          "link": "https://www.thepaper.cn/newsDetail_forward_30364286",
+          "publishedOn": "2025-03-11T11:53:03.000Z",
+          "wordCount": 31,
+          "title": "文旅部部长：国博“凤冠冰箱贴”半年卖了80多万个，好产品不愁没消费",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_30365471",
+          "author": null,
+          "description": "3月11日，建业新生活有限公司（09983.HK）发布正面盈利预告，建业新生活预计2024年录得净利润介乎约人民币2.15亿元至2.55亿元，而2023年显示为净亏损约人民币5.78亿元。建业新生活表示，预期将从净亏损扭转为净利润，主要归因于金融及合约资产减值亏损大幅减少。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_30365471",
+          "publishedOn": "2025-03-11T11:53:03.000Z",
+          "wordCount": 27,
+          "title": "建业新生活：预计2024年录得净利润约2.15亿元至2.55亿元",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_30365500",
+          "author": null,
+          "description": "欧盟委员会主席冯德莱恩11日在法国斯特拉斯堡举行的欧洲议会全会上发表演讲，呼吁欧洲国家大幅增加国防开支，放弃对美国和俄罗斯的幻想。\n冯德莱恩说：“冷战结束后，一些人认为俄罗斯可以融入欧洲的经济和安全架构，其他人则希望我们能够无限期地依赖美国的全面保护……幻想时代已经结束，欧洲需要为自己的国防承担起更多责任。”\n她强调，欧洲大幅增加国防开支已经刻不容缓，“这不是循序渐进的过程，而是需要迎难而上的勇气”。（新华社）\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.site",
+          "link": "https://www.thepaper.cn/newsDetail_forward_30365500",
+          "publishedOn": "2025-03-11T11:53:03.000Z",
+          "wordCount": 28,
+          "title": "冯德莱恩呼吁欧洲大幅增加国防开支，放弃对美俄幻想",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_30365370",
+          "author": null,
+          "description": "3月11日，外交部发言人毛宁主持例行记者会。\n法新社记者：菲律宾前总统杜特尔特今天在马尼拉被逮捕。请问中方有何回应？\n毛宁：这是一个重要的突发事件，中方注意到有关消息，并正密切关注事态发展。我愿重申，中国一贯主张国际刑事法院应严格遵循补充性管辖原则，依法审慎行使职权，避免政治化和双重标准。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_30365370",
+          "publishedOn": "2025-03-11T11:23:03.000Z",
+          "wordCount": 35,
+          "title": "菲律宾前总统杜特尔特被逮捕，外交部回应",
+          "imageUrl": null
+        },
         {
           "id": "https://www.thepaper.cn/newsDetail_forward_30364034",
           "author": null,
@@ -12168,16 +12348,6 @@
           "wordCount": 59,
           "title": "穿越海峡的热线｜“00后”台青温亭玮：年轻人是沟通两岸的主力军",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_30119927",
-          "author": null,
-          "description": "近日，有媒体报道称，有关部门要求航司不得售卖低于200元的机票。对此，澎湃新闻（www.thepaper.cn）搜索发现，多家航司App上的特价机票，价格基本为200元起步，未见有低于200元的票价。\n此前，微博账号为“航旅圈”的博主曝料称，其从多家国内航司获悉，有关部门要求航司不得售卖低于200元的机票。该规定从2024年12月就开始落实，被发现低于200元卖票的航司会接到“警告”。\n公开信息显示，“航旅圈”系航空博主、微博航评团成员，其在微博的粉丝数达到406万。\n2月10日，澎湃新闻就此致电12326中国民航服务相关热线，但未获有效回复。\n稍早前的2月8日下午，澎湃新闻分别致电中国南方航空、中国国际航空、四川航空和山东航空的客服热线。\n\n中国南方航空App特价机票价格\n\n\n中国南方航空相关人员表示，“目前暂时没有收到相关通知。”\n 中国国际航空客服回复称，“我们可为您提供客票服务相关方面的咨询，对于您提到的问题暂时无法作出回答。”\n 四川航空客服称，“我们这边确实没有接到这个通知，机票价格以实际查询为准。”\n 山东航空的客服热线则回应称，“机票价格是根据市场需求上下浮动的。”\n\n春秋航空App特价机票（上海出发）\n\n\n不过，多家航司的特价机票未见低于200元的票价。记者在春秋航空App搜索特价机票显示，从上海出发成都、深圳、广州、厦门等全国多地的价格均为200元以上，如上海2月14日飞往深圳的早间7：30的航班价格为229元。记者更换了多个出发地搜索，价格均未见到200元以下的。\n东方航空App上的特价机票中，价格最低为249元，也有299元、349元和399元的，未见有低于200元的机票。\n\n中国国际航空App特价机票价格\n\n\n此外，澎湃新闻在中国南方航空、中国国际航空App搜索特价机票发现，最低机票价格为200元，也未发现低于200元的机票。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_30119927",
-          "publishedOn": "2025-02-10T04:23:28.000Z",
-          "wordCount": 62,
-          "title": "机票价不得低于200元？多家航司称未接相关通知，特价票均为200元起步",
-          "imageUrl": null
         }
       ]
     },
@@ -12186,6 +12356,36 @@
       "feedUrl": "https://www.nationalreview.com/feed/",
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
+        {
+          "id": "https://www.nationalreview.com/?p=1812400",
+          "author": "John Gerardi",
+          "description": "Housing male inmates in women’s prisons and jails — which he has supported — is a nightmarish transgender policy.",
+          "link": "https://www.nationalreview.com/2025/03/dont-be-fooled-gavin-newsom-is-no-moderate-on-trans-issues/",
+          "publishedOn": "2025-03-11T10:30:47.000Z",
+          "wordCount": null,
+          "title": "Don’t Be Fooled: Gavin Newsom Is No Moderate on Trans Issues",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1812378",
+          "author": "Matt Weidinger",
+          "description": "Opposition to DOGE is driving Democrats to reject legislation to recover stolen pandemic unemployment benefits.",
+          "link": "https://www.nationalreview.com/2025/03/democrats-doge-delusions/",
+          "publishedOn": "2025-03-11T10:30:42.000Z",
+          "wordCount": null,
+          "title": "Democrats’ DOGE Delusions",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1812236",
+          "author": "David B. McGarry",
+          "description": "When it comes to European tech policy, just say no.",
+          "link": "https://www.nationalreview.com/2025/03/what-american-lawmakers-should-learn-from-europes-newest-tech-policy-blunders/",
+          "publishedOn": "2025-03-11T10:30:23.000Z",
+          "wordCount": null,
+          "title": "What American Lawmakers Should Learn from Europe’s Newest Tech-Policy Blunders",
+          "imageUrl": null
+        },
         {
           "id": "https://www.nationalreview.com/?p=1812396",
           "author": "Andrew C. McCarthy",
@@ -14414,6 +14614,26 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/97244",
+          "author": "Matrix机器人",
+          "description": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。🔥一周热评来 ...查看全文",
+          "link": "https://sspai.com/post/97244",
+          "publishedOn": "2025-03-11T09:41:26.000Z",
+          "wordCount": null,
+          "title": "社区速递 083 | 你没见过的社区文章、一周最热评、派友的私藏清洁工具",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sspai.com/post/96911",
+          "author": "yzlnew",
+          "description": "本文我们将介绍更为实用的推理框架和上层应用。无论你是本地大模型玩家还是 API 用户，本文内容都会对你有所帮助。查看全文",
+          "link": "https://sspai.com/post/96911",
+          "publishedOn": "2025-03-11T07:00:00.000Z",
+          "wordCount": 910,
+          "title": "本地大模型之路（三）：推理引擎和 LLM 应用",
+          "imageUrl": "https://cdnfile.sspai.com/2025/03/03/3106fc2c498ee636eeccb5be3de3f982.jpg"
+        },
+        {
           "id": "https://sspai.com/post/97049",
           "author": "bakamio",
           "description": "去年底迷上了串珠，就心想要自己「复刻」一枚来着，没想到看到今年的征文活动共创赛道竟然有提到「手工作品」。这不就是为我准备的吗！当然这全凭我的一腔热血，跟少数派官方完全没有一点关系，那么就叫它——野生周边吧。查看全文",
@@ -15492,26 +15712,6 @@
           "wordCount": 1018,
           "title": "城市漫步指南：行走在举世倾羡之城，伊斯坦布尔",
           "imageUrl": "https://cdnfile.sspai.com/2025/02/02/4603d0ee41bf6aa6f996fbf4304e4d85.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/94951",
-          "author": "阿飞Vic",
-          "description": "本文分享了笔者近期的一些时间管理经验，并提供了基于 Apple 生态+飞书的 workflow 搭建方案，以及快捷指令分享。查看全文",
-          "link": "https://sspai.com/post/94951",
-          "publishedOn": "2025-02-10T03:33:30.000Z",
-          "wordCount": 649,
-          "title": "挤出摸鱼时间，系统日历和快捷指令就够了",
-          "imageUrl": "https://cdnfile.sspai.com/2025/2/10/article/06838f18-0b54-1791-c9f1-c7ae98d87541.jpeg"
-        },
-        {
-          "id": "https://sspai.com/post/96184",
-          "author": "少数派编辑部",
-          "description": "你可能错过的新鲜事宁波暂停支持刷医保买华为手表据《成都商报》报道，近期，部分地区药店允许消费者使用医保个人账户购买华为WATCHD2，上海多家药店甚至出现超过500人预约排队的情况。然而，因合规性存疑 ...查看全文",
-          "link": "https://sspai.com/post/96184",
-          "publishedOn": "2025-02-10T00:58:34.000Z",
-          "wordCount": 787,
-          "title": "派早报：宁波暂停支持刷医保买华为手表",
-          "imageUrl": "https://cdnfile.sspai.com/2/10/2025/article/ffb34331-373c-736e-2541-384db6383d96.png"
         }
       ]
     },
@@ -15526,6 +15726,26 @@
       "feedUrl": "https://plink.anyfeeder.com/nytimes/dual",
       "siteUrl": "http://nytimes.com",
       "articles": [
+        {
+          "id": "https://cn.nytimes.com/china/20250311/china-xi-trump/dual",
+          "author": null,
+          "description": "储百亮2025年3月11日中国领导人习近平出席上周的人大开幕会。他通过这个场合给他的工作重点增加了一道公众认可的光环。 Kevin Frayer/Getty Images\nThroughout China’s annual legislative meeting, the national leader Xi Jinping made clear that he wants nothing to hold back his plans for China to march past its rivals by becoming a technological superpower. Not the economic slowdown or heavy local government debt, nor a trade war with the United States.\n在中国的年度立法会议上，国家领导人习近平明确表示，他不希望任何事情阻碍他让中国超越对手、成为科技超级大国的计划。经济放缓或沉重的地方政府债务，乃至与美国的贸易战，都无法阻挠。\nThe meeting in Beijing, called the National People’s Congress, was once a stage for Communist Party leaders to make a show of public consultation. Congress delegates, although handpicked by the party, sometimes chided officials over problems like pollution. There were even rare flashes of discord among senior official…",
+          "link": "https://cn.nytimes.com/china/20250311/china-xi-trump/dual",
+          "publishedOn": "2025-03-11T08:06:01.000Z",
+          "wordCount": 1065,
+          "title": "经济放缓？贸易战？习近平眼中只有“科技强国”",
+          "imageUrl": "https://static01.nyt.com/images/2025/03/11/multimedia/11int-china-xi-01-vjqg/11int-china-xi-01-vjqg-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/opinion/20250311/tariffs-europe-trade-war/dual",
+          "author": null,
+          "description": "KAREN KARNIOL-TAMBOUR2025年3月11日 María Jesús Contreras\nFor decades, the rest of the world, especially China and countries in Europe, have produced much more than they have consumed, selling goods to America in exchange for an ever-growing pile of U.S. dollars. This could happen because the United States consumes much more than it produces, gobbling up the difference in the form of persistent trade deficits, and financing those deficits with debt, which Chinese and European investors are happy to buy.\n几十年来，世界其他国家（尤其是中国和欧洲国家）生产的产品远远超出消费需求，这些国家向美国出售商品，换取越来越多的美元。之所以会出现这种情况，是因为美国的消费远远超过了自身的生产，以持续的贸易逆差的形式来填补两者的差异，并通过举债为这些逆差融资，而中国和欧洲的投资者乐于购买这些债务。\nPresident Trump is unwilling to accept this state of affairs. His administration has accelerated a shift to what my colleagues and I at the investment ma…",
+          "link": "https://cn.nytimes.com/opinion/20250311/tariffs-europe-trade-war/dual",
+          "publishedOn": "2025-03-11T07:06:01.000Z",
+          "wordCount": 1207,
+          "title": "谁是贸易战的最大输家",
+          "imageUrl": "https://static01.nyt.com/images/2025/03/10/opinion/10tambour-image/10tambour-image-articleLarge.jpg"
+        },
         {
           "id": "https://cn.nytimes.com/usa/20250311/stephen-bannon-elon-musk-maga/dual",
           "author": null,
@@ -16445,36 +16665,6 @@
           "wordCount": 1364,
           "title": "DeepSeek的成功是中国教育的胜利吗",
           "imageUrl": "https://static01.nyt.com/images/2025/02/10/world/10china-deepseek-education/10china-deepseek-education-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/opinion/20250210/trump-musk-doge/dual",
-          "author": null,
-          "description": "MAUREEN DOWD2025年2月10日 Haiyun Jiang for The New York Times\nTom Stoppard wrote in “The Real Thing,” his enticing play about infidelity: “To marry one actress is unfortunate. To marry two is simply asking for it.”\n汤姆·斯托帕德在他那部关于不忠的动人话剧《真东西》中写道：“娶一个女演员是不幸的。娶两个简直是自讨苦吃。”\nHere’s a political corollary: To elect one Emperor of Chaos is unfortunate. To let two run the government is simply asking for it.\n这里有一个政治上的类比：选出一个制造混乱的皇帝是不幸的。让两个这样的人管理政府则是自讨苦吃。\nPresidents Trump and Musk have merged their cult followings, attention addictions, conspiratorial mind-sets, disinformation artistry, disdain for the Constitution, talent for apocalyptic marketing and jumping-from-thing-to-thing styles.\n特朗普总统和马斯克将他们的狂热追随者、对关注的上瘾、阴谋论心态、造谣艺术、对宪法的蔑视、世界末日式营销的天赋，以及朝三暮四的行事风格融为了一体。\nWith a pitiless and mindless velocity, they ar…",
-          "link": "https://cn.nytimes.com/opinion/20250210/trump-musk-doge/dual",
-          "publishedOn": "2025-02-10T04:06:07.000Z",
-          "wordCount": 1104,
-          "title": "特朗普和马斯克的危险之“爱”",
-          "imageUrl": "https://static01.nyt.com/images/2025/02/08/multimedia/08dowd2-fzjg/08dowd2-fzjg-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/obits/20250210/gyalo-thondup-dead-dalai-lama-brother/dual",
-          "author": null,
-          "description": "ALI WATKINS2025年2月10日\nGyalo Thondup, the eldest brother of the Dalai Lama and a political operator in Tibet and the greater region, has died, the Dalai Lama’s office confirmed in a statement. He died on Sunday in Kalimpong in West Bengal, India, according to Tibetan media. He was 97.\n达赖喇嘛办公室在声明中证实，达赖喇嘛的兄长、大藏区政治人士嘉乐顿珠已经去世。据藏人媒体报道，他于周日在印度西孟加拉邦的噶伦蓬去世，享年97岁。\n“He was a good man who did his best for the Tibetan cause,” the Dalai Lama said in the statement. “I pray that he will take a good rebirth as a Tibetan again and that he will be able to serve the Tibetan administration that is a combination of spirituality and politics once more,” he said, referring to the Buddhist belief in the cycle of rebirth.\n“善哉，我的兄长嘉乐顿珠，为利藏民，尽心尽力，”达赖喇嘛在声明中表示，“愿其功德令兄长早日投身善趣，成为藏族，继续利益西藏政教。”他指的是佛教对轮回重生的信仰。\nA prominent f…",
-          "link": "https://cn.nytimes.com/obits/20250210/gyalo-thondup-dead-dalai-lama-brother/dual",
-          "publishedOn": "2025-02-10T03:36:06.000Z",
-          "wordCount": 753,
-          "title": "达赖喇嘛兄长嘉乐顿珠去世，一生致力于争取西藏自治",
-          "imageUrl": "https://static01.nyt.com/images/2025/02/09/multimedia/09xp-thondup1-ltbv/09xp-thondup1-ltbv-videoLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/business/20250210/trump-tariffs-china-de-minimis-trade/dual",
-          "author": null,
-          "description": "ANA SWANSON2025年2月10日天津港。 The New York Times\nLatest: President Trump on Sunday said that he would impose a 25 percent tariff on all foreign steel and aluminum imports into the United States starting Monday and would take other action to even out tariff rates with the rest of the world later this week. The president said his metal tariffs would apply to “everybody,” including Canada and Mexico, America’s allies and its largest trading partners.\n最新消息：特朗普周日表示，他将从周一开始对所有进口到美国的外国钢铁和铝征收25%的关税，并将在本周晚些时候采取其他措施，使关税水平与其他国家对美国产品的征税保持对等。总统表示，金属关税将适用于“所有人”，包括加拿大和墨西哥——美国的盟友和最大的贸易伙伴。\nPresident Trump indicated he was ready to broaden his trade war on Friday, saying that he would announce reciprocal tariffs on other countries next week.\n特朗普总统上周五表示，他已准备好扩大贸易战，下周将宣布对其他国家征收对等关税。\nSuch a measure would raise the…",
-          "link": "https://cn.nytimes.com/business/20250210/trump-tariffs-china-de-minimis-trade/dual",
-          "publishedOn": "2025-02-10T01:06:01.000Z",
-          "wordCount": 1275,
-          "title": "特朗普新关税行动：征收钢铝关税、推出对等关税",
-          "imageUrl": "https://static01.nyt.com/images/2025/02/07/multimedia/07DC-TRADE-mvjw/07DC-TRADE-mvjw-articleLarge.jpg"
         }
       ]
     },
@@ -16483,6 +16673,56 @@
       "feedUrl": "https://plink.anyfeeder.com/weixin/ibookreview",
       "siteUrl": "http://weixin.sogou.com/weixin?type=1&s_from=input&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A",
       "articles": [
+        {
+          "id": "a3bd09ab30775a5f90c0ec61b793776b",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E4%B8%8D%E6%8C%89%E5%A5%97%E8%B7%AF%E5%87%BA%E7%89%8C%E7%9A%84%E2%80%9C%E7%90%86%E7%A7%91%E7%94%B7%E2%80%9D%EF%BC%8C%E9%9D%A0%E5%A5%BD%E5%A5%87%E5%BF%83%E6%88%90%E4%B8%BA%E2%80%9C%E5%8D%8E%E6%96%87%E6%8E%A8%E7%90%86%E4%B9%8B%E5%85%89%E2%80%9D%EF%BC%81",
+          "publishedOn": "2025-03-11T02:00:00.000Z",
+          "wordCount": 263,
+          "title": "不按套路出牌的“理科男”，靠好奇心成为“华文推理之光”！",
+          "imageUrl": null
+        },
+        {
+          "id": "9a0259408f2692ac1b89f71ca0462f64",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E2%80%9C%E7%A9%BF%E8%B6%8A%E2%80%9D%E9%A2%98%E6%9D%90%E9%A6%96%E9%80%89%E7%9A%84%E5%94%90%E6%9C%9D%EF%BC%8C%E9%A4%90%E6%A1%8C%E4%B8%8A%E7%A9%B6%E7%AB%9F%E6%9C%89%E4%BB%80%E4%B9%88%EF%BC%9F",
+          "publishedOn": "2025-03-11T02:00:00.000Z",
+          "wordCount": 313,
+          "title": "“穿越”题材首选的唐朝，餐桌上究竟有什么？",
+          "imageUrl": null
+        },
+        {
+          "id": "667fec19d06d8187c3d33f568c16f51c",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E6%B3%B0%E6%88%88%E5%B0%94%E7%9A%84%E7%AB%A5%E8%AF%97%EF%BC%9A%E5%9C%A8%E8%87%AA%E7%84%B6%E4%B8%8E%E7%94%9F%E5%91%BD%E4%B8%AD%E5%AF%BB%E6%B1%82%E5%93%B2%E6%80%9D",
+          "publishedOn": "2025-03-11T02:00:00.000Z",
+          "wordCount": 301,
+          "title": "泰戈尔的童诗：在自然与生命中寻求哲思",
+          "imageUrl": null
+        },
+        {
+          "id": "e844c27b72f438f6dbd17e328e1cbade",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E8%AF%9D%E8%AF%AD%E3%80%81%E6%83%85%E6%84%9F%E4%B8%8E%E5%88%86%E6%9E%90%E6%A6%82%E5%BF%B5%EF%BC%9A%E5%BB%BA%E7%AD%91%E5%8F%B2%E6%95%99%E6%9D%90%E8%AF%A5%E5%A6%82%E4%BD%95%E5%86%99%EF%BC%9F",
+          "publishedOn": "2025-03-10T02:06:00.000Z",
+          "wordCount": 295,
+          "title": "话语、情感与分析概念：建筑史教材该如何写？",
+          "imageUrl": null
+        },
+        {
+          "id": "c6d65ae2f3880742d266d6b55e616e26",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E9%9B%85%E5%90%84%E5%B8%83%C2%B7%E5%B8%83%E5%85%8B%E5%93%88%E7%89%B9%EF%BC%9A%E6%88%91%E6%97%A9%E5%B0%B1%E7%9F%A5%E9%81%93%EF%BC%8C%E6%88%91%E7%9A%84%E4%BA%BA%E6%96%87%E7%90%86%E6%83%B3%E4%B8%8E%E7%8E%B0%E4%BB%A3%E6%97%A0%E7%BC%98",
+          "publishedOn": "2025-03-10T02:06:00.000Z",
+          "wordCount": 306,
+          "title": "雅各布·布克哈特：我早就知道，我的人文理想与现代无缘",
+          "imageUrl": null
+        },
         {
           "id": "cf5fb65f041c61a685a8ce29efdd1021",
           "author": null,
@@ -17051,36 +17291,6 @@
           "publishedOn": "2025-02-11T02:00:00.000Z",
           "wordCount": 294,
           "title": "假期结束好几天了，我还没回过神来……",
-          "imageUrl": null
-        },
-        {
-          "id": "e29b7bc09235d762239a8f8d1cd35261",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E4%BB%8E%E4%BD%9B%E6%95%99%E5%88%B0%E9%81%93%E6%95%99%EF%BC%8C%E5%93%AA%E5%90%92%E5%A6%82%E4%BD%95%E6%88%90%E4%B8%BA%E4%B8%AD%E5%8D%8E%E6%96%87%E5%8C%96%E4%B8%AD%E7%9A%84%E6%8A%A4%E6%B3%95%E7%A5%9E%EF%BC%9F",
-          "publishedOn": "2025-02-10T02:07:00.000Z",
-          "wordCount": 301,
-          "title": "从佛教到道教，哪吒如何成为中华文化中的护法神？",
-          "imageUrl": null
-        },
-        {
-          "id": "c2689c2343b4e37de9901af4ba2d53c2",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E5%8D%A2%E6%A2%AD%EF%BC%8C%E4%B8%80%E4%BD%8D%E5%AD%A4%E7%8B%AC%E6%BC%AB%E6%AD%A5%E8%80%85%E7%9A%84%E8%87%AA%E6%88%91%E9%87%8D%E5%A1%91",
-          "publishedOn": "2025-02-10T02:07:00.000Z",
-          "wordCount": 299,
-          "title": "卢梭，一位孤独漫步者的自我重塑",
-          "imageUrl": null
-        },
-        {
-          "id": "272022ee837683416634598fee036bda",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E5%8F%A4%E4%BA%BA%E5%AF%B9%E8%9B%87%E7%9A%84%E5%B0%8A%E9%87%8D%E4%B8%8E%E5%B4%87%E6%8B%9C%EF%BC%8C%E9%83%BD%E5%87%9D%E7%BB%93%E5%9C%A8%E4%BA%86%E8%BF%99%E4%BA%9B%E6%96%87%E7%89%A9%E4%B8%8A",
-          "publishedOn": "2025-02-10T02:07:00.000Z",
-          "wordCount": 303,
-          "title": "古人对蛇的尊重与崇拜，都凝结在了这些文物上",
           "imageUrl": null
         }
       ]
