@@ -34,16 +34,6 @@
           "wordCount": 6282,
           "title": "R Weekly 2025-W10 ellmer, Closeread Prize winnners, Rapid RAG Prototyping",
           "imageUrl": "https://rweekly.org/public/facebook.png"
-        },
-        {
-          "id": "https://rweekly.org/2025-W09.html",
-          "author": null,
-          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Colin Fay, with help from the R Weekly team members and contributors.\nHighlight\nnhyris - The minimal framework for transform R shiny application into standalone\ntisthemachinelearner: A Lightweight interface to scikit-learn with 2 classes, Classifier and Regressor (in Python and R)\nThe Dynamic Relationship of Forks with their Upstream Repository\nInsights\nWhy we forked nixpkgs\nRcpp now used by 3000 CRAN packages!\nThe Dynamic Relationship of Forks with their Upstream Repository\nR in Academia\nWin a Battle in the Game of Risk\nResources\nnhyris - The minimal framework for transform R shiny application into standalone\nNew Packages\n📦 Go Live for More New Pkgs 📦\n -->\n📦 Keep up to d…",
-          "link": "https://rweekly.org/2025-W09.html",
-          "publishedOn": "2025-02-24T00:00:00.000Z",
-          "wordCount": 5707,
-          "title": "R Weekly 2025-W09 nhyris, tisthemachinelearner, Forks",
-          "imageUrl": "https://rweekly.org/public/facebook.png"
         }
       ]
     },
@@ -499,6 +489,206 @@
       "feedUrl": "https://feedx.net/rss/thepaper.xml",
       "siteUrl": "http://thepaper.cn",
       "articles": [
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_30486321",
+          "author": null,
+          "description": "当地时间3月25日，美国分别就与俄罗斯和乌克兰在沙特阿拉伯的会谈发表声明。\n声明表示，美国和俄罗斯、乌克兰已同意在黑海确保航行安全，杜绝使用武力，并防止将商业船只用于军事目的。\n美国将帮助俄罗斯恢复农产品和化肥出口进入世界市场的渠道，降低海上保险成本，并加强此类交易的港口准入和支付系统。\n美国和乌克兰同意，美国将继续致力于帮助实现战俘交换、平民被拘留者和被强制转移的乌克兰儿童的遣返。\n美国和俄罗斯、乌克兰同意制定措施，以实施关于禁止袭击俄罗斯和乌克兰能源设施的协议。\n美国和俄罗斯、美国和乌克兰将继续努力实现持久和平，并欢迎第三国斡旋，以支持能源和海事协议的实施。\n美国重申，俄乌冲突双方必须停止杀戮，这是实现持久和平解决的必要步骤。为此，美国将继续促进双方谈判，以根据在利雅得达成的协议实现和平解决。\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.site",
+          "link": "https://www.thepaper.cn/newsDetail_forward_30486321",
+          "publishedOn": "2025-03-25T15:53:03.000Z",
+          "wordCount": 34,
+          "title": "美国就与俄罗斯和乌克兰会谈发表声明",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_30473028",
+          "author": null,
+          "description": "农历二月的申城乍暖还寒，特别是太阳下山以后，老小区栋距不宽的两幢楼间形成“狭管效应”，是北风“呼呼”聚会的天堂，让过路人不得不“苟头缩颈”。不过，人总要到成年后才晓得，这种空间本就不是理想的户外活动场所。人事不懂只会“疯皮”的孩童时代，是不会有这样的感觉的。\n同样没这感觉的，还有隔壁阿爹和他的棋搭子——“阿胡子”。阿爹姓许，60来岁时不幸成了鳏夫，虽有一对孙子孙女，但平日只一个人住，把我也当自己孙子一样待。\n那时候小区里难得见到一部轿车的身影。孩子们放学到家，“狭管”确实就是嬉闹天堂。通常是隔壁楼杰杰的爸爸当教练，带着一群孩子追着足球到处乱跑。亏得孩子们球技不精，隔壁阿爹和阿胡子摆在天井里已进中盘的棋局不用挪窝，哪怕寒风呼啸，照旧可以在黑白世界里杀到昏天黑地。阿胡子长于贴身肉搏，实战水平一般的学理派隔壁阿爹则讲究行棋方正。虽然风格迥异，倒恰巧凑成一对卧龙凤雏，很有棋逢对手、英雄相惜之慨。\n以我现在的水平回想，两人最多是业余K级，连段位都打不上。但孩童时代没有张无忌的主角光环（当然现在也无），没法练成九阳神功再来围观，提些建设性的批评意见。所以，我踢完球身上裹着一身臭汗，就呆呆地坐在水泥墩子上，看着两个老头各裹一件绿色的臃肿军大衣，你一言我一嘴，既在棋局里决胜负，也在口头上分高下，直到妈妈脸带愠色下楼拎我回家。\n他们都可以算我的围棋蒙师。可惜虽然青出于蓝，但毕竟师傅水平就有限，徒弟是断不能靠围棋吃饭的。\n“老许啊，下棋和人生一样，能看多远才是真水平。师傅再教你一招。”这句是阿胡子常说的，说完就“神兜兜”（上海话，神气活现、得意洋洋的意思）地用拇指和食指捏起简陋的玻璃棋子，落在隔壁阿爹老许没想到的地方。\n“你这又是什么形状”？嘴上虽然硬，但隔壁阿爹却不知如何拆招，只恨自己的眼光不及对手长远，整个面孔涨得通红。\n但隔壁阿爹也有高光时刻。\n比如，阿胡子那下“无理棋”的风格——有时可能也不是故意为之，没有经过正规训练，他本就不知道正经棋形该是怎么样的——再兼酣战之余，脑容量一时短缺，老眼昏花，一招不慎也是常事。人和人之间有心灵感应，阿胡子的手甫离开棋子便知不妙，但想悔棋也不能够了，隔壁阿爹早已用手重重地按住了他刚落下的棋子。\n“一直和你说，要下本手、本手。下棋就和做人一样，要本分、本分。”觅得战机的隔壁阿爹，先嘴上揶揄回击一番挣回场子，然后就低头冥思，手指在棋盘上来回比划，嘴里嘟囔着，“差不起的。人生有时候差不起这一手棋的。”想得久了，抬头正好和我四目相对，就笑着摸摸我的头，又重复嘟囔一句。\n他用食指和中指夹起棋子的姿势很优雅。据说是年轻时候看川端康成的《名人》，学着里面的描述自己琢磨出来的。“啪”，重重地拍在不到半厘米厚残木做成的棋盘上。可惜这本该确立胜势的一手棋下后，最后结果还是胜负各半。\n这让我从小到大都想不明白，人生究竟是差得起，还是差不起那一手棋。\n20多年后的今天，我早买了上好的榧木棋盘和玛瑙云子，很多时候却只放在角落里积灰，怎么也找不回当年隔壁阿爹那残木棋盘和破玻璃棋子带给我的那份专注、那份恬静。\n这时我才明白，时光虽已把旧事褪为黑白剪影，但残木棋盘和粗粝的玻璃子，却可能比精工棋具更近真谛。人生差不起的那一手棋，或许正是一股汗酸的少年回眸，感受北风掠过端坐在天井里的隔壁阿爹时，那轻荡的回响。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_30473028",
+          "publishedOn": "2025-03-25T14:53:04.000Z",
+          "wordCount": 33,
+          "title": "夜读丨人生差不起的那一手棋",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_30486230",
+          "author": null,
+          "description": "体坛名将肖爱华、张雨霏近日相继履新。两人还是南京体育学院的校友。\n3月25日下午，南京体育学院特邀学校优秀运动员代表、奥运冠军张雨霏，在校图书馆第一报告厅开展两会精神专题宣讲。张雨霏结合自身经历，分享对两会精神的感悟与实践，展现新时代青年运动员的责任担当。\n南京体育学院官网显示，张雨霏已经担任了南京体育学院游泳学院副院长。\n\n张雨霏  新华社记者 薛宇舸 摄\n\n\n张雨霏，1998年4月19日出生于江苏省徐州市，中国游泳运动员。 2012年11月，张雨霏首次参加短池游泳世界杯北京站就斩获一银一铜。2015年，夺得游泳世锦赛女子200米蝶泳获得铜牌，打破女子青年世界纪录。2018年8月，张雨霏获得雅加达亚运会女子100米蝶泳银牌、女子200米蝶泳金牌、男女混合4×100米混合泳金牌。\n2021年7月，张雨霏夺得东京奥运会女子100米蝶泳银牌、女子200米蝶泳金牌，创造了新的奥运会纪录，并夺得女子4×200米自由泳接力金牌。2023年7月，夺得2023年世界游泳锦标赛女子100蝶泳金牌。2023年9月，在杭州第19届亚运会中斩获六枚金牌，被评为杭州第19届亚运会最具价值运动员。\n2024年7月的巴黎奥运会中，张雨霏随中国队打破亚洲纪录获男女混合4x100米混合泳接力银牌、女子4x100米自由泳接力铜牌；并获女子100米蝶泳铜牌、女子200米蝶泳铜牌、女子50米自由泳铜牌、女子4x100米混合泳接力铜牌。\n目前，张雨霏已获10枚奥运奖牌，是中国奖牌数量最多的运动员。\n近日，江苏省政府发布了一批职务任免通知，其中包括任命肖爱华为省体育局副局长。\n\n肖爱华  南京体育学院 资料图\n\n\n肖爱华，女，汉族，1971年3月生，江苏江都人，省委党校研究生，高级教练，1996年7月加入中国共产党，1985年11月参加工作。曾为中国女子击剑运动员，连续参加四届奥运会。\n肖爱华自幼开始练习击剑，1984年2月被招进省体校，开始其击剑生涯。1985年11月进入省击剑队，1987年12月，被选拔到国家队。运动员职业生涯中，肖爱华曾在全国和世界级赛事中夺得多项击剑冠军。\n退役后，肖爱华历任南京体育学院训练处副处长，江苏省体育局青少年训练管理中心副主任，江苏省体育局青少年训练管理中心党支部书记、副主任(正处级)，南京体育学院击剑自行车系主任，2012年7月任南京体育学院党委常委、副校长。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_30486230",
+          "publishedOn": "2025-03-25T14:53:04.000Z",
+          "wordCount": 62,
+          "title": "体坛名将肖爱华、张雨霏履新职",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_30485806",
+          "author": null,
+          "description": "3月25日，绿地香港控股有限公司（00337.HK）发布盈利预警。\n绿地香港预期，2024年该公司将录得拥有人应占亏损介乎约人民币18亿元至人民币21亿元，2023年度该公司拥有人应占亏损约人民币17.5亿元。绿地香港表示，亏损乃主要由于受房地产行业下行的影响导致2024年全年交付房产收益减少和毛利率降低。（澎湃新闻记者 刘畅）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_30485806",
+          "publishedOn": "2025-03-25T14:53:04.000Z",
+          "wordCount": 30,
+          "title": "绿地香港：2024年拥有人应占亏损介乎约18亿元至21亿元",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_30485877",
+          "author": null,
+          "description": "3月25日，大山教育控股有限公司（09986.HK）发布盈利警告。\n2024年，大山教育预期录得除所得税前亏损为约人民币3000万元至3500万元之间，较2023年除所得税前亏损人民币5560万元减少约37%至46%。该减少主要由于本集团收益及毛利上升。\n根据2024年中期报告，大山教育主要办公地点位于中国郑州金水区。2022年3月以前，该集团主要从事于中国为中小学生提供课后学术教育服务。目前，该集团主要业务包括：提供课外个人素质课程及海外教育谘询服务，向教育机构、学校及其他实体提供培训及谘询服务。\n2024上半年，大山教育收益为约人民币4750万元，同比增长131.7%，主要由于本集团海外教育谘询服务产生的收益增加约人民币2090万元；毛利率为约39.9%，同比减亏1080万元至亏损约880万元。（澎湃新闻记者 刘畅）\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.site",
+          "link": "https://www.thepaper.cn/newsDetail_forward_30485877",
+          "publishedOn": "2025-03-25T14:53:04.000Z",
+          "wordCount": 30,
+          "title": "大山教育：预期2024年税前亏损同比收窄约37%至46%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_30486200",
+          "author": null,
+          "description": "北京时间25日晚间，世预赛亚洲区18强赛C组第八轮，中国队在主场杭州奥体中心0比2不敌澳大利亚，遭遇18强赛第二个三连败。\n本场比赛过后，国足8场比赛依然只拿到6分，排名小组垫底。对于国足来说，想要最终拿到小组第四名获得附加赛席位，最后两场比赛对阵印尼和巴林的比赛就必须要拿到6分。\n赛后，国足主帅伊万科维奇在新闻发布会上表示，“恭喜澳大利亚赢下比赛，恭喜东道主杭州把比赛组织这么好，那么多球迷来给我们助威，感谢球迷的支持，也要感谢球员的付出，他们全力以赴奔跑、拼搏。比赛结果是大家不想看到的，但这就是足球比赛的一部分。”\n“比赛过程很曲折，队员拼了，上下半场差异很大，上半场对手更出色，打进了两个球。下半场我们更加出色，数据上也可以看到。我们遗憾那么多次进攻没有取得进球，我们积极看待的话，首次登场的塞尔吉尼奥和王钰栋，我们比较满意，希望他们继续好的状态。接下来要利用间歇期对我们这两场比赛进行总结，更好完善球队。再次感谢东道主，感谢球迷的支持，感谢协会组织如此精彩的比赛。”\n具体谈及塞尔吉尼奥和王钰栋的表现，伊万透露：“我没有评价具体球员表现的习惯，当然他们这场比赛完全达到了我们的预期。王钰栋18岁，能在大赛不怯场，可以预见他是中国足球的新生代。我赛前就说了，塞尔吉尼奥已经四个多月没有比赛，也出现了一些伤病，目前肯定不是最佳状态，希望接下来联赛他可以出场调整状态，迎接6月的比赛。”\n对于李源一没有进入比赛23人大名单，伊万解释道，“国家队对队员的选择是持续跟进、更新的，联赛中有好的表现就会进入，李源一在俱乐部表现很出色，打沙特出现伤病和停赛，他出场加强防守端任务。这场主场，强调进攻性，这是他没有进入大名单的主要原因，国家队大门对球员永远打开。选择黄政宇，主要是王上源停赛，这是对位调整。”\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.site",
+          "link": "https://www.thepaper.cn/newsDetail_forward_30486200",
+          "publishedOn": "2025-03-25T14:23:03.000Z",
+          "wordCount": 50,
+          "title": "国足主帅伊万：比赛结果是大家不想看到的，遗憾没能进球",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_30483102",
+          "author": null,
+          "description": "上海重磅推出两个500亿级基金。\n3月25日，2025上海全球投资促进大会暨“投资上海”活动周正式拉开帷幕。会上，上海市产业转型升级二期基金、上海市国资并购基金矩阵正式发布，为城市产业能级提升注入新动能。\n其中，上海市产业转型升级二期基金的总规模达500亿元，首期基金100亿元，重点支持新一代电子信息、高端装备、汽车、新材料、软件和信息服务、工业服务等符合市区协同主导产业的项目。\n上海市国资并购基金矩阵的总规模达500亿元以上，涉及国资国企改革、集成电路、生物医药、高端装备、民用航空、商业航天、文旅消费等领域。\n分析人士认为，两个500亿级基金的推出，将成为资本力量促进产业加速发展的重要抓手。\n千亿基金群崛起\n创新是上海未来产业发展的原始动力。新一代电子信息、高端装备、汽车、新材料、软件和信息服务、工业服务等项目，汇聚了大量的先进制造业企业，但作为创新技术密集、资本密集的产业主体，其发展离不开持续的资金支持。\n2025年政府工作报告中提出，要推动科技创新和产业创新融合发展，大力推进新型工业化，做大做强先进制造业，积极发展现代服务业，促进新动能积厚成势、传统动能焕新升级。\n上海此次推出500亿元规模的产业转型升级二期基金，可谓恰逢其时。\n去年，上海就已成为创投圈最大的活水，启动运行总规模1000亿元的三大先导产业母基金和未来产业基金，引导金融资本投早、投小、投长期、投硬科技。\n上海市产业转型升级二期基金的落地，也将成为产业升级发展的新助推力。\n业内人士认为，科技创新往往风险高、投入大、周期长，需要长期稳定的资金投入。上海启动的500亿级基金，既能够为科创企业提供充足资金支持，促进产业链集聚整合、推动产业转型升级，着力提升固链补链强链塑链能力，还可以通过引导社会资本参与特定产业的战略性投资，还能够以大基金带动大产业，促进产业集群的形成和发展，能够放大对社会资本的“撬动”效应，从…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_30483102",
+          "publishedOn": "2025-03-25T14:23:03.000Z",
+          "wordCount": 30,
+          "title": "两个500亿级基金重装出击，上海产业升级将迎来哪些新动能",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_30484386",
+          "author": null,
+          "description": "总台记者当地时间25日获悉，俄罗斯联邦委员会国防与安全委员会第一副主席弗拉基米尔·奇若夫表示，由于乌克兰方面的立场，俄美双方未能在利雅得磋商后达成联合声明。\n当地时间24日晚间，俄罗斯和美国代表团在沙特阿拉伯首都利雅得的会谈结束。此次谈判持续了超过12个小时。俄新社此前援引相关人士的话报道称，双方就谈判结果达成的联合声明将于25日公布。但据塔斯社报道，俄罗斯总统新闻秘书佩斯科夫24日曾表示，俄美代表团没有计划在当天的利雅得会谈结束后签署任何文件。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_30484386",
+          "publishedOn": "2025-03-25T13:23:06.000Z",
+          "wordCount": 28,
+          "title": "俄称未能与美在利雅得磋商后达成联合声明",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_30485862",
+          "author": null,
+          "description": "一言不合就“开盒”、意见不同就“人肉”、口角冲突就“挂你”……近年来，网络“人肉开盒”事件时有发生。\n“人肉开盒”为何时有发生？如何保护个人信息安全？“新华视点”记者展开了调查。\n每个人都可能成为受害者\n“人肉开盒”“开盒挂人”指利用非法手段公开曝光他人隐私数据与信息，最初来自网络贴吧、论坛等匿名平台，意思是“打开盒子揭露隐私”“把某人的信息在网上挂出来”。一些“开盒”事件，从单纯的信息曝光演变为叠加电话骚扰、语言攻击、恐吓威胁等违法行为。\n“人肉开盒”等网络暴力带来诸多不良社会影响。\n除了明星或公众人物，普通人也可能成为“人肉开盒”的受害者。有些人仅仅因为在网上发表了不同看法，就会被“开盒者”人肉搜索，随之遭到辱骂、骚扰。\n不少“开盒”事件背后，有未成年人的身影，部分超话、贴吧、网络“校园墙”等成为“开盒”的重灾区。\n2023年，某视频平台通报了一起“人肉开盒”案例。经公安机关查明，此次网暴侵权案件牵涉18个省份，共计40余人，而这当中的主要活动成员是两名未成年人。\n专家表示，未成年人处于“三观”塑造期，往往缺乏对行为危害、法律后果的判断能力；有的人甚至将获取并公开他人信息，当作一种能力向身边同学、朋友炫耀。\n与此同时，部分“开盒者”未达到刑事责任年龄，事件发生后仅受到轻微处罚；一些“开盒者”通过海外设备及账号隐匿身份，追踪打击难度较大。\n暗藏黑色“产业链”\n“人肉开盒”事件时有发生，背后折射出信息安全等多重风险，甚至在网络上形成一条“开盒”黑色产业链。\n记者在一些社交平台搜索“开盒”“人肉”等关键词，发现不少包含隐晦话术的帖子。一些“黑话”如“cx”代表“普通查询”，可查姓名、手机号、身份证号等要素；“lm”表示“猎魔”，可进一步查询快递地址、车牌车主等。\n“人肉开盒”之所以能够获得“开”的机会，很大程度上是用户数据泄露所致。\n据了解，一些黑灰产业从业者收集泄露的个人信息，搭建可供查询的数据库。这类数据库俗称“社工库”，数据来源各不相同，如外卖、快递地址泄露的数据，以及网络上倒卖的各类数据。\n记者在某境外社交平台检索“开盒”，发现多个相关公开群组，其中一个以“查人/社工”等为关键词的群组成员数近5000名。该群组的简介显示，仅需提供身份证号码，就可查询开房记录、名下资产、航班信息等；如仅提供手机号，亦可查询定位、快递和外卖地址、通话记录等。\n记者浏览群组页面看到，多个匿名用户频繁发布“人肉”广告帖，并附上境内外网络平台联系方式。有匿名用户发帖称“全国招收内部人员”，列举了公安、税务、银行、运营商、快递等机构，称“缺钱想要赚钱的可以联系我”。\n记者点进一名推销“开盒”业务的群组成员主页，上面晒出多条“出单”截图——从IP定位地址到社会保险参保证明，从网逃记录到家庭户籍信息，从通话记录到快递收货地址，其中不少为电脑屏幕拍摄照片。\n根据一个广告帖发布的QQ号，记者与一名从业人员建立了联系。此人表示，提供手机号码，就可以查询全家户籍、工作单位、外卖地址、快递地址等，标价则为500-1000元不等。他反复强调信息“保真”，但对信息来源三缄其口，表示这是“保密”内容。\n向“人肉开盒”说“不”\n国家有关部门已在发力整治网络暴力行为。2023年11月中央网信办开展的“清朗·网络戾气整治”专项行动明确，坚决打击“网络厕所”“开盒挂人”行为，坚决取缔以“网络厕所”“开盒挂人”“拉踩引战”等为主题的账号、群组。\n2024年，北京、河南、贵州等地网信部门深入核查问题线索，解散关闭1500余个提供“挂人”服务的话题、超话、贴吧，对存在突出问题的平台予以从重处罚，相关违法线索已转公安机关。\n防止“人肉开盒”，企业和平台应承担起主体责任。中国人民大学法学院教授刘俊海等建议，平台可以优化举报机制，对涉隐私内容及时删除，并对违规账号采取更严厉的惩罚措施；同时提升敏感词监测的精准度，及时清理不良言论。\n奇安信安全专家裴智勇等建议，相关平台在收集数据时应遵循“最小必要原则”，减少前端数据收集，从源头降低数据泄露风险。同时，对隐私数据要建立信息加密机制、向第三方提供信息的责任机制；一旦出现信息泄露事件，能够及时倒查。\n中国政法大学讲师许博洋建议，中小学要多开展普法教育，可邀请办理未成年人案件的司法人员走入校园，结合案例讲解相关法律知识，增强青少年的法治意识，让他们了解“开盒”等行为的风险和危害。\n专家表示，网民要提高个人隐私保护意识，尽量避免在网络上透露自己的真实姓名、家庭住址、行程等信息。一旦遭遇“开盒”或被人以“开盒”相威胁，可向平台举报，要求删除侵权内容；同时，积极采取法律手段维护自身权益，必要时依法向法院提起诉讼。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_30485862",
+          "publishedOn": "2025-03-25T13:23:06.000Z",
+          "wordCount": 28,
+          "title": "调查：“人肉开盒”为何时有发生？如何保护个人信息安全？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_30485804",
+          "author": null,
+          "description": "就“快递员疑被高空坠物砸中身亡”一事，四川巴中市公安局巴州区分局3月25日晚间发布通报：\n\n2025年3月25日11时许，巴州区分局接报警称，巴州区回风街道某小区一男子被高空坠物砸中头部受伤倒地。接警后，民警迅速赶赴现场开展调查处置工作。\n经查，江某(男，35岁)、吴某某(男，47岁)在该小区4栋1单元21楼进行装修作业时，因焊接操作失当，致使一块方钢掉落，砸中正在该单元楼下驾驶三轮车的杨某(男，33岁)头部，致杨某经抢救无效死亡。\n目前，犯罪嫌疑人江某、吴某某已被公安机关依法刑事拘留，案件正在进一步侦办中。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_30485804",
+          "publishedOn": "2025-03-25T13:23:06.000Z",
+          "wordCount": 35,
+          "title": "巴中警方通报“快递员被高空坠物砸中身亡”：装修操作失当致方钢掉落，2人被刑拘",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_30484523",
+          "author": null,
+          "description": "北京时间25日晚间7点，世预赛亚洲区18强赛第八轮，中国队主场迎来澳大利亚队。90分钟的鏖战后，中国队最终在杭州主场以0比2不敌澳大利亚，晋级附加赛的压力进一步加码，国足已经没有容错空间，未来的两场比赛已经不容有失。尽管同组印尼和巴林的比赛尚未开打， 但国足输球后继续排名垫底。\n目前的形势对国足来说，印尼和巴林打平最有利。与此同时，由于净胜球落后较多，国足下一场客场面对印尼的生死战中，很可能输球就将提前出局。本场比赛杭州奥体中心涌入了70588名观众，这也创造了中国足球赛事上座人数的新纪录，遗憾的是，创纪录的观众并未能迎来积分。\n\n前七轮打完，日本队6胜1平拿到19分已经提前出线，澳大利亚10分排名第二，沙特9分排名第三，印尼、巴林和中国都是6分，由于已经落后澳大利亚4分，如果本场比赛输球，就意味着国足肯定无法获得第二名这个直通2026年世界杯的名额。\n首发阵容来看，伊万延续了23日傍晚公开训练时的分组，伊万依然是菱形中场体系，门将王大雷，四后卫高准翼、韩鹏飞、蒋圣龙、李磊，后腰黄政宇、身前徐皓阳、谢文能，前腰曹永竞，双前锋韦世豪、张玉宁。塞尔吉尼奥和王钰栋这两位备受球迷追捧的球员依然在替补席待命。\n双方首发阵容估值，国足为557.5万欧元，而澳大利亚差不多是国足两倍，达到1145万欧元。国际足联排名，国足第90，澳大利亚则为第26。国足此前四次对阵澳大利亚1平3负，国足上一次大赛击败澳大利亚还是遥远的2008年6月，当时世界杯小组赛收官战客场凭借孙祥的远射1比0赢球，不过那场比赛的背景是国足提前出局，而澳大利亚已经提前晋级。国足唯一一次在主场击败袋鼠军团，那已经是41年（1984年11月）之前的往事了，当时国足以3比2取胜。\n\n赛前抵达球场接受采访时，国足主帅伊万科维奇表示，虽然有4名主力缺席，但是球员已经做好准备，“针对澳大利亚是一支身体很强壮的球队，擅于高空球，我们也在这方面做好了特殊的准备。”\n“澳大利亚可能是一支热门球队，但是毕竟是在我们自己的主场，我们要踢出我们的气势，我们要把我们的优势发挥到最大，也希望在我们的球迷面前展现出我们最优秀的一面。”\n在国足本场23人大名单中，有张玉宁、李磊、谢文能、韦世豪、杨泽翔、曹永竞6名球员身背一张黄牌，而这6人全部进入了国足本场的首发名单。如果他们在本场比赛中再吃到黄牌，就将因累计黄牌停赛一场，缺席国足6月对阵印尼的世预赛。\n上半场开场第12分钟，谢文能左路防守铲球犯规吃到黄牌，下一场对阵印尼将要停赛。澳大利亚持续进攻。\n\n第16分钟，澳大利亚前锋欧文禁区右肋部射门被封堵，但他拿球二次进攻闪开空档左脚兜射远射打破僵局，澳大利亚1比0领先。\n\n第28分钟，澳大利亚攻击手韦卢皮莱禁区内射门，国足门将王大雷出现失误，将球漏进球门，澳大利亚将比分扩大为2比0，随后拜合拉木出场替换受伤的曹永竞。\n澳大利亚半场2比0领先，数据统计显示国足上半场2次射门零射正，澳大利亚5次射门，2次射正都转换为进球，控球率方面，国足也只有42%。\n足球评论员詹俊对于上半场国足的表现直言，单后腰可能并不合适：“伊万执念什么时候能破一下? 进攻4312防守442，菱形中场单后腰，咱们国足没有能具备踢单后腰能力的球员，最适合韦世豪的位置难道是双前锋之一? 拜合拉木上来踢前腰，对路么？上半场最有威胁的进攻仅是两个角球。”范志毅在解说比赛中，也公开质疑国足的单后腰打法。\n\n下半场刚开始，塞尔吉尼奥换下韦世豪，这位刚刚完成归化的国安中场完成国足A级赛首秀。\n第50分钟，塞尔吉尼奥分边，李磊左路传中，拜合拉木头球射门完成国足首次射正。\n\n随后，国足连续发动进攻，塞尔吉尼奥禁区弧顶远射质量极高，可惜皮球被澳大利亚门将扑出。\n国足开始逐渐掌握比赛的主动权，继续发起攻势。第57分钟，杨泽翔下底传中，张玉宁前点甩头攻门稍稍顶偏，球队的气势也逐渐找了回来。\n\n第65分钟，汪海健和王钰栋分别换下黄政宇和谢文能，试图变换进攻套路。\n两分钟后，张玉宁左肋突破至禁区，制造威胁，最终传球被对手解围。\n应该说，球队整体的表现有了不小的提升，年轻的王钰栋也屡屡有亮眼的表现。第81分钟，王钰栋左路传中，杨泽翔禁区内跟近，差一点形成破门机会。\n尽管国足全力进攻，但在澳大利亚队稳健的战术面前，国足的绝对机会并不多。第86分钟，张玉宁拼到抽筋，王子铭替换张玉宁登场。\n国足尽管能够组织起一定的进攻，但最终还是无法改变比分。国足主场0比2最终不敌澳大利亚。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_30484523",
+          "publishedOn": "2025-03-25T13:23:06.000Z",
+          "wordCount": 85,
+          "title": "逼上悬崖！国足0比2不敌澳大利亚，下一场客战印尼不容有失",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_30485976",
+          "author": null,
+          "description": "3月25日，国内期市夜盘开盘多数上涨，沪金涨0.18%，沪银涨0.88%，沪铜涨0.29%，螺纹涨0.41%，铁矿涨0.32%，玻璃涨1.78%，原油涨0.78%。\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.site",
+          "link": "https://www.thepaper.cn/newsDetail_forward_30485976",
+          "publishedOn": "2025-03-25T13:23:06.000Z",
+          "wordCount": 27,
+          "title": "国内期市夜盘开盘多数上涨，玻璃涨1.78%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_30485988",
+          "author": null,
+          "description": "“中央企业人工智能产业发展将进一步提速加力。”国务院国资委规划发展局有关负责人25日表示，国务院国资委将继续深化央企“AI+”专项行动，更加突出应用领航，更加突出数据赋能，更加突出智算筑基，深化与各方协同合作，为加快推动我国人工智能产业高质量发展作出更大贡献。\n这位负责人是在25日国务院国资委举行的一场专题媒体通气会上作出上述表示的。\n据了解，国务院国资委下一步还将积极引导中央企业加大资金投入，持续壮大发展人工智能的长期资本、战略资本、耐心资本，优化人才引育，建立更加符合行业特点规律的人才评价体系。（新华社）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_30485988",
+          "publishedOn": "2025-03-25T13:23:06.000Z",
+          "wordCount": 27,
+          "title": "国务院国资委：“三个更加突出”深化央企“AI+”专项行动",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_30484200",
+          "author": null,
+          "description": "北京时间3月25日，世预赛18强赛第8轮，中国男足对阵澳大利亚男足首发出炉。韩鹏飞代替受伤的蒋光太先发，徐皓阳、黄政宇首发出战。\n门将：14-王大雷（C）\n后卫：8-杨泽翔、2-韩鹏飞、16-蒋圣龙、4-李磊\n中场：7-徐皓阳、18-黄政宇、19-曹永竞、20-谢文能\n前锋：9-张玉宁 ​​​、10-韦世豪\n国足的对手澳大利亚队也确认发布了首发阵容：\n门将：1-马修·瑞安\n后卫：2-米洛什·迪基尼克、3-刘易斯·米勒、8-贾森·杰里亚、16-阿齐兹·贝希奇、21-卡梅隆·伯吉斯中场：17-瑞安·蒂格、22-杰克逊·欧文\n前锋：6-马丁·博伊尔、7-韦卢皮莱、11-布兰登·博雷洛",
+          "link": "https://www.thepaper.cn/newsDetail_forward_30484200",
+          "publishedOn": "2025-03-25T12:53:04.000Z",
+          "wordCount": 31,
+          "title": "国足对阵澳大利亚首发名单公布：张玉宁、韦世豪出战",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_30485611",
+          "author": null,
+          "description": "3月25日，交通运输部部长刘伟在京会见越南建设部部长陈宏明，双方就加强交通运输合作深入交换意见。刘伟指出，中越交通运输领域始终保持着密切联系，在铁路、公路、国际道路运输、海上搜救、海事等方面取得了诸多务实成果。希望双方继续落实两国元首重要共识，进一步加强沟通对接，建设好红河界河公路大桥，推进中越国际道路运输便利化，强化北仑河口自由航行区合作，共同推动两国交通运输合作不断迈上新台阶。（交通运输部微信公号）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_30485611",
+          "publishedOn": "2025-03-25T12:53:04.000Z",
+          "wordCount": 27,
+          "title": "交通运输部部长刘伟会见越南建设部部长陈宏明",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_30485654",
+          "author": null,
+          "description": "3月25日，商务部部长王文涛会见康宁公司董事会主席兼首席执行官魏文德。双方就康宁公司对华合作情况、中美经贸关系等议题交换意见。\n王文涛表示，尽管外部环境的不确定性进一步上升，中国经济持续回升向好的态势仍在不断巩固拓展，各方面政策举措将为经济增长提供强有力支撑，中国的稳定性将为包括康宁在内的外资企业加大在华投入创造有利条件。\n王文涛指出，中国政府高度重视知识产权保护，相关成就有目共睹。知识产权保护促进了中国的高质量发展，让“中国制造”加速向“中国创造”转变，并助力中国高水平的对外开放。希望康宁进一步加大在华创新投入，我们将为跨国企业在华经营提供良好的法治和鼓励创新的营商环境。（商务部网站）\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.site",
+          "link": "https://www.thepaper.cn/newsDetail_forward_30485654",
+          "publishedOn": "2025-03-25T12:53:04.000Z",
+          "wordCount": 28,
+          "title": "商务部部长王文涛会见康宁公司董事会主席兼首席执行官魏文德",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_30484587",
+          "author": null,
+          "description": "德国慕尼黑经济研究所25日公布的数据显示，经季节调整后，德国3月商业景气指数从上月的85.3点升至86.7点，连续第三个月环比上升，显示企业信心有所回暖。\n数据显示，构成商业景气指数的四项指标环比均上升。其中，制造业指标涨幅明显，服务业、建筑业和贸易指标也有所改善。不过，建筑业仍面临订单不足的挑战。\n慕尼黑经济研究所所长克莱门斯·菲斯特在声明中表示，在德企业对当前业务状况满意度有所上升，对未来几个月的前景预期明显改善。德国经济复苏前景趋于乐观。\n慕尼黑经济研究所商业景气指数被视为德国经济发展的风向标，对观察德国经济形势具有重要参考价值。（新华社）\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.site",
+          "link": "https://www.thepaper.cn/newsDetail_forward_30484587",
+          "publishedOn": "2025-03-25T12:23:07.000Z",
+          "wordCount": 28,
+          "title": "德国商业景气指数连续第三个月环比上升",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_30484624",
+          "author": null,
+          "description": "3月25日，有市场传言称，山东两家券商合并预期渐近，中泰证券已入驻联储证券开始尽职调查。\n对此，记者第一时间向中泰证券求证，中泰证券方面表示“并不知情”。（上证报）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_30484624",
+          "publishedOn": "2025-03-25T12:23:07.000Z",
+          "wordCount": 28,
+          "title": "中泰证券和联储证券要合并？中泰证券辟谣",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_30484524",
+          "author": null,
+          "description": "日前，北京市委全面深化改革委员会召开第十四次会议，审议《市委全面深化改革委员会2025年工作要点》，听取关于北京市深化市属国有文化资产监管体制改革方案（试行）等情况汇报。会议强调，做强做优做大首都文化科技集团。稳妥推进市属国有文化企业整合重组，推动首文科集团业务板块调整，优化首都文化全产业链生态体系。（证券时报）\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.site",
+          "link": "https://www.thepaper.cn/newsDetail_forward_30484524",
+          "publishedOn": "2025-03-25T11:53:03.000Z",
+          "wordCount": 27,
+          "title": "北京：稳妥推进市属国有文化企业整合重组",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_30484533",
+          "author": null,
+          "description": "3月25日，国家药监局、国家卫生健康委发布消息，根据《中华人民共和国药品管理法》，2025年版《中华人民共和国药典》（以下简称《中国药典》）经第十二届药典委员会执行委员会全体会议审议通过，现予颁布，自2025年10月1日起施行。（央视新闻）\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.site",
+          "link": "https://www.thepaper.cn/newsDetail_forward_30484533",
+          "publishedOn": "2025-03-25T11:53:03.000Z",
+          "wordCount": 27,
+          "title": "2025年版《中华人民共和国药典》今天颁布，10月1日起施行",
+          "imageUrl": null
+        },
         {
           "id": "https://www.thepaper.cn/newsDetail_forward_30483139",
           "author": null,
@@ -12277,6 +12467,46 @@
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
         {
+          "id": "https://www.nationalreview.com/?p=1817873",
+          "author": "Pete Sepp and John Hendrickson",
+          "description": "Preserving lower rates and other essential provisions while delaying or forgoing carve-outs would provide certainty for states.",
+          "link": "https://www.nationalreview.com/2025/03/another-big-reason-congress-should-make-the-tax-cuts-and-jobs-act-permanent/",
+          "publishedOn": "2025-03-25T10:30:54.000Z",
+          "wordCount": null,
+          "title": "Another Big Reason Congress Should Make the Tax Cuts and Jobs Act Permanent",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1818692",
+          "author": "Rich Lowry",
+          "description": "Progressives such as Wu still can’t give up their near-theological commitment to illegal immigration.",
+          "link": "https://www.nationalreview.com/2025/03/michelle-wu-vs-immigration-enforcement/",
+          "publishedOn": "2025-03-25T10:30:41.000Z",
+          "wordCount": null,
+          "title": "Michelle Wu vs. Immigration Enforcement",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1818469",
+          "author": "Bryan Cutsinger and Alexander William Salter",
+          "description": "Smarter policies and healthier citizens are worthy goals. But good intentions alone won’t deliver them.",
+          "link": "https://www.nationalreview.com/2025/03/simple-economics-may-derail-the-maha-reform-of-food-stamps/",
+          "publishedOn": "2025-03-25T10:30:24.000Z",
+          "wordCount": null,
+          "title": "Simple Economics May Derail the MAHA Reform of Food Stamps",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1818621",
+          "author": "The Editors",
+          "description": "Free academic inquiry is advanced, not stifled, in this case. But the Trump administration should take more care to follow the rules.",
+          "link": "https://www.nationalreview.com/2025/03/columbia-pays-for-its-sins/",
+          "publishedOn": "2025-03-25T10:30:24.000Z",
+          "wordCount": null,
+          "title": "Columbia Pays for Its Sins",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nationalreview.com/?p=1818583",
           "author": "Dominic Pino",
           "description": "Accidentally texting war plans to a journalist is clear cause for dismissal.",
@@ -14394,6 +14624,36 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/97749",
+          "author": "Matrix机器人",
+          "description": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件限制无法得到有效曝光，因此我们决定重启「Matrix周报」，并在原有基础上增加更多社区内容以及作者投稿的「新玩意」，一并呈现 ...查看全文",
+          "link": "https://sspai.com/post/97749",
+          "publishedOn": "2025-03-25T09:18:48.000Z",
+          "wordCount": 788,
+          "title": "社区速递 085 | 你没见过的社区文章、一周最热评、派友的换季收纳法则",
+          "imageUrl": "https://cdnfile.sspai.com/2025/3/25/article/9bd39cd4-a910-03bd-92fd-10a82123124e.png"
+        },
+        {
+          "id": "https://sspai.com/prime/story/MTranServer-tutorial",
+          "author": "化学心情下2",
+          "description": "MTranServer 是基于 Mozilla Firefox 翻译模型的自托管服务，完全通过 CPU 计算实现，无需通过独立显卡，这使得我们可以借此搭建一个「私有翻译服务」。查看全文\n本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
+          "link": "https://sspai.com/prime/story/MTranServer-tutorial",
+          "publishedOn": "2025-03-25T09:07:41.000Z",
+          "wordCount": 1239,
+          "title": "在本地搭建私有翻译服务：MTranServer 上手指南",
+          "imageUrl": "https://cdnfile.sspai.com/3/25/2025/article/3e83f5be-cbbc-f11b-501b-cc42df56cd4c.png"
+        },
+        {
+          "id": "https://sspai.com/post/97739",
+          "author": "广陵止息",
+          "description": "希望每个买 Surface 的人都不用被小细节折磨。查看全文",
+          "link": "https://sspai.com/post/97739",
+          "publishedOn": "2025-03-25T07:00:00.000Z",
+          "wordCount": 1054,
+          "title": "换了颗芯，能有多不一样：Surface Pro 11 中期体验报告",
+          "imageUrl": "https://cdnfile.sspai.com/3/25/2025/article/75e0195e-9d96-3abd-be4f-d2090f52df59.jpeg"
+        },
+        {
           "id": "https://sspai.com/post/97076",
           "author": "KookyBread",
           "description": "AI 已经大大降低了编程的门槛，它不再是遥不可及的技能，而是一座通往创意实现的桥梁。如果你有想法，那就勇敢去实践吧！查看全文",
@@ -15462,26 +15722,6 @@
           "wordCount": 749,
           "title": "Obsidian 商用免费，我是如何用它搭建团队知识库的？",
           "imageUrl": "https://cdnfile.sspai.com/2/24/2025/article/7b635ca2-053a-847c-92ca-e8e86e2b3676.jpeg"
-        },
-        {
-          "id": "https://sspai.com/post/96598",
-          "author": "听歌的水獭",
-          "description": "你是否厌倦了:满屏幕的「震惊」、「颠覆」的AI新闻，却找不到真正实用的内容？学了一堆提示词模板，效果还是差强人意？东拼西凑用了很多工具，却达不到想要的结果？为了让AI真正可以被所有人使用起来，少数派特 ...查看全文",
-          "link": "https://sspai.com/post/96598",
-          "publishedOn": "2025-02-24T03:00:00.000Z",
-          "wordCount": 615,
-          "title": "线下活动：「AI 的魔法」我用 AI 重构了整个工作流",
-          "imageUrl": "https://cdnfile.sspai.com/2025/2/22/article/42360eff-16e4-07fd-8be2-2216128b80cd.jpeg"
-        },
-        {
-          "id": "https://sspai.com/post/96652",
-          "author": "少数派编辑部",
-          "description": "你可能错过的新鲜事AppleIntelligence将于四月支持中文2月21日，苹果在官网发布新闻稿称，Apple智能（AppleIntelligence）将于四月拓展至更多语言与地区，包括法语、德语 ...查看全文",
-          "link": "https://sspai.com/post/96652",
-          "publishedOn": "2025-02-24T00:57:22.000Z",
-          "wordCount": 832,
-          "title": "派早报：Apple Intelligence 将于四月支持中文",
-          "imageUrl": "https://cdnfile.sspai.com/2/24/2025/article/94b0b1c4-1c8e-e119-63c9-4fcaebe1f359.png"
         }
       ]
     },
@@ -15496,6 +15736,36 @@
       "feedUrl": "https://plink.anyfeeder.com/nytimes/dual",
       "siteUrl": "http://nytimes.com",
       "articles": [
+        {
+          "id": "https://cn.nytimes.com/opinion/20250325/voice-of-america-shutdown/dual",
+          "author": null,
+          "description": "SERGE SCHMEMANN2025年3月25日\nPresident Trump’s efforts to mute Voice of America and other U.S.-government-funded international broadcasters may not have received as much attention as his many other sallies, perhaps because these media outlets do not broadcast within the United States and so are not well known. But stifling America’s voice around the world carries serious consequences: It strips the United States of one of its most venerable and effective instruments of soft power.\n特朗普总统让美国之音以及其他由美国政府资助的国际广播机构噤声的举措或许没有像他在其它领域的出击那么受关注，这可能是因为这些媒体机构并不在美国国内进行广播，因而知名度不高。但在全球范围内压制美国的声音会带来严重后果：这会让美国失去其最古老且最有效的软实力工具之一。\nThe order to eliminate the U.S. Agency for Global Media “to the maximum extent consistent with applicable law” was tucked into a measure also shutting down several other small governmen…",
+          "link": "https://cn.nytimes.com/opinion/20250325/voice-of-america-shutdown/dual",
+          "publishedOn": "2025-03-25T08:36:01.000Z",
+          "wordCount": 1293,
+          "title": "美国失去了声音",
+          "imageUrl": "https://static01.nyt.com/images/2025/03/25/opinion/00schmemann/00schmemann-videoLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/usa/20250325/hegseth-classified-war-plans-group-chat/dual",
+          "author": null,
+          "description": "HELENE COOPER, ERIC SCHMITT2025年3月25日几名国防部官员表示，国防部长皮特·海格塞斯等人在Signal群聊中进行的谈话可能违反了《反间谍法》。 Haiyun Jiang for The New York Times\nDefense Secretary Pete Hegseth disclosed war plans in an encrypted group chat that included a journalist two hours before U.S. troops launched attacks against the Houthi militia in Yemen, the White House said on Monday, confirming an account in the magazine The Atlantic.\n周一，白宫证实了《大西洋月刊》(The Atlantic)杂志的报道——在美军对也门胡塞武装发动袭击两小时前，美国国防部长皮特·海格塞斯在一个加密聊天群组中透露了战争计划，群组中包括一名记者。\nThe editor in chief of The Atlantic, Jeffrey Goldberg, wrote in an article published on Monday that he was mistakenly added to the text chat on the commercial messaging app Signal by Michael Waltz, the national security adviser.\n《大西洋月刊》主编杰弗里·戈德堡在周一发表的文章中写道，他被国家安全顾问迈克尔·瓦尔兹误添加到了民用通讯应用Signal的聊天群组中。\nIt was an …",
+          "link": "https://cn.nytimes.com/usa/20250325/hegseth-classified-war-plans-group-chat/dual",
+          "publishedOn": "2025-03-25T08:36:01.000Z",
+          "wordCount": 1349,
+          "title": "美国防部长在Signal群聊中透露机密战争计划",
+          "imageUrl": "https://static01.nyt.com/images/2025/03/24/multimedia/24DC-military-jvbf/24DC-military-jvbf-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/china/20250325/china-mintz-release-us/dual",
+          "author": null,
+          "description": "DAVID PIERSON, KEITH BRADSHER2025年3月25日2023年，北京一座写字楼内已关闭的美思明智集团办公室。 Greg Baker/Agence France-Presse — Getty Images\nChina has released five employees of an American corporate investigations firm, the Mintz Group, two years after they were detained as part of a crackdown by Beijing on foreign business consultancies.\n中国释放了美国企业调查公司美思明智集团的五名员工。两年前，他们在北京打击外国商业咨询公司的行动中被捕。\n“We understand that the Mintz Group Beijing employees who were detained, all Chinese nationals, have now all been released,” the firm said in a statement on Tuesday.\n美思明智在周二的声明中表示：“据我们了解，被拘留的美思明智北京公司员工——均为中国公民——目前已全部获释。”\n“We are grateful to the Chinese authorities that our former colleagues can now be home with their families,” the company said.\n“感谢中国当局，我们的前同事现在可以回家与家人团聚，”该公司说。\nThe employees’ release comes as China is trying to …",
+          "link": "https://cn.nytimes.com/china/20250325/china-mintz-release-us/dual",
+          "publishedOn": "2025-03-25T07:06:02.000Z",
+          "wordCount": 693,
+          "title": "中国释放五名美思明智员工，对外资释放友好信号？",
+          "imageUrl": "https://static01.nyt.com/images/2025/03/25/multimedia/25int-china-mintz-tvmb/25int-china-mintz-tvmb-articleLarge.jpg"
+        },
         {
           "id": "https://cn.nytimes.com/usa/20250325/trump-misinformation-false-claims/dual",
           "author": null,
@@ -16415,36 +16685,6 @@
           "wordCount": 1531,
           "title": "德国中间保守派赢得大选，默茨料将出任总理",
           "imageUrl": "https://static01.nyt.com/images/2025/02/23/multimedia/23german-election-mqbz/23german-election-mqbz-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/business/20250224/trump-tariffs-asia-impact/dual",
-          "author": null,
-          "description": "艾莎2025年2月24日越南河内的一家制衣厂。近年来，越南是中国工厂外迁的最大受益国之一。 Luong Thai Linh/EPA, via Shutterstock\nAs President Trump uses tariffs as a weapon in his quest to even the score on trade with the world, Asia is emerging as target No. 1. And it’s not just because of China.\n随着特朗普总统将关税作为武器，以求扭转与世界各国贸易的不利局势，亚洲正成为头号目标。这不仅仅是因为中国。\nAsia is home to seven countries that run the biggest trade surpluses with the United States, Mr. Trump’s go-to yardstick. It has some of the biggest exporters of goods that Mr. Trump promised to tax, like Japanese and South Korean cars, Taiwanese chips, and Indian drugs. Many of the region’s countries have become top destinations for Chinese goods and investment, evidence that Mr. Trump cites to accuse China of using a back door into the U.S. market.\n亚洲有七个国家对美国的贸易顺差最大，而这种差异正是特朗普常用的衡量标准。亚洲…",
-          "link": "https://cn.nytimes.com/business/20250224/trump-tariffs-asia-impact/dual",
-          "publishedOn": "2025-02-24T04:36:02.000Z",
-          "wordCount": 1424,
-          "title": "特朗普的关税可能会伤害亚洲，但也将损害美国",
-          "imageUrl": "https://static01.nyt.com/images/2025/02/21/multimedia/21trump-tariffs-asia-01-cthg/21trump-tariffs-asia-01-cthg-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/business/20250224/xi-jinping-jack-ma/dual",
-          "author": null,
-          "description": "袁莉2025年2月24日 Dongyan Xu\nWhen Xi Jinping, China’s leader, made his entrance at a symposium with a group of top entrepreneurs this week, he seemed to be in good spirits.\n当中国领导人习近平上周出席跟一群杰出企业家的座谈会时，他看上去心情不错。\nChina has had a few good weeks. The artificial intelligence models by the start-up DeepSeek sent U.S. stocks tumbling and Western commentators screaming, “Sputnik moment.” Then an animated film based on Chinese mythology raked in nearly $2 billion. Mr. Xi signaled that he stood behind the private sector at the meeting on Monday, pushing the Hong Kong stock market to its highest point in three years.\n中国过去几周好消息不断。初创公司DeepSeek的人工智能模型让美国股市暴跌，西方的评论人士惊呼这是一个“斯普特尼克时刻”。然后，一部根据中国神话改编的动画电影获得了超过130亿元的票房。习近平在上周一的会议上暗示他支持民营经济，推动香港股市达到三年来的最高点。\nFor China, it all provided a respite from two years of malai…",
-          "link": "https://cn.nytimes.com/business/20250224/xi-jinping-jack-ma/dual",
-          "publishedOn": "2025-02-24T02:06:01.000Z",
-          "wordCount": 1457,
-          "title": "习近平突然拥抱民企是真的吗？“每个人都没有底”",
-          "imageUrl": "https://static01.nyt.com/images/2025/02/21/business/xxnewworld-illo/xxnewworld-illo-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/technology/20250224/openai-chinese-surveillance/dual",
-          "author": null,
-          "description": "CADE METZ2025年2月24日研究人员表示，他们发现了一种中国监控工具，因为开发该工具的人使用了OpenAI技术调试计算机代码。 Kevin Frayer/Getty Images\nOpenAI said on Friday that it had uncovered evidence that a Chinese security operation had built an artificial intelligence-powered surveillance tool to gather real-time reports about anti-Chinese posts on social media services in Western countries.\nOpenAI于周五表示，它发现了证据，表明中国一个安全行动建立了由人工智能驱动的监控工具，用于收集西方国家的社交媒体服务上反中帖子的实时报告。\nThe company’s researchers said they had identified this new campaign, which they called Peer Review, because someone working on the tool used OpenAI’s technologies to debug some of the computer code that underpins it.\n该公司的研究人员表示，他们之所以能发现这个被他们称为“同行评审”的新活动，是因为开发该工具的人使用了OpenAI的技术来调试支撑它的部分计算机代码。\nBen Nimmo, a principal investigator for OpenAI, said this was the first time the company h…",
-          "link": "https://cn.nytimes.com/technology/20250224/openai-chinese-surveillance/dual",
-          "publishedOn": "2025-02-24T01:36:02.000Z",
-          "wordCount": 578,
-          "title": "OpenAI称中国使用人工智能打造监控工具",
-          "imageUrl": "https://static01.nyt.com/images/2025/02/21/multimedia/21OPENAI-CHINA-vcpk/21OPENAI-CHINA-vcpk-articleLarge.jpg"
         }
       ]
     },
@@ -16453,6 +16693,56 @@
       "feedUrl": "https://plink.anyfeeder.com/weixin/ibookreview",
       "siteUrl": "http://weixin.sogou.com/weixin?type=1&s_from=input&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A",
       "articles": [
+        {
+          "id": "66454d6002bd7aca95e778c6a0879e7f",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E7%BA%AA%E5%BF%B5%E8%AF%9E%E8%BE%B0100%E5%91%A8%E5%B9%B4%E4%B8%A8%E5%BC%97%E5%85%B0%E7%BA%B3%E9%87%8C%C2%B7%E5%A5%A5%E5%BA%B7%E7%BA%B3%EF%BC%9A%E5%80%BE%E5%90%AC%E9%B2%9C%E6%B4%BB%E7%94%9F%E5%91%BD%E7%9A%84%E4%BD%8E%E8%AF%AD%E4%B8%8E%E5%91%90%E5%96%8A",
+          "publishedOn": "2025-03-25T01:09:00.000Z",
+          "wordCount": 256,
+          "title": "纪念诞辰100周年丨弗兰纳里·奥康纳：倾听鲜活生命的低语与呐喊",
+          "imageUrl": null
+        },
+        {
+          "id": "ed6424a587d82742e9e2ddc289ede965",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E3%80%8A803%E3%80%8B%EF%BC%9A%E7%A7%91%E6%8A%80%E5%9C%A8%E6%96%87%E5%AD%A6%E4%B8%AD%E7%9A%84%E8%A1%A8%E8%BE%BE%EF%BC%8C%E6%98%AF%E5%90%A6%E5%8F%AA%E6%9C%89%E6%97%A2%E5%AE%9A%E9%80%94%E5%BE%84%EF%BC%9F",
+          "publishedOn": "2025-03-25T01:09:00.000Z",
+          "wordCount": 302,
+          "title": "《803》：科技在文学中的表达，是否只有既定途径？",
+          "imageUrl": null
+        },
+        {
+          "id": "f198039e60394cb022c3a53a2d5d5b2a",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E6%8A%80%E6%9C%AF%E5%BF%85%E7%84%B6%E4%BC%9A%E5%AF%BC%E8%87%B4%E5%8C%BB%E7%94%9F%E6%9D%83%E5%8A%9B%E7%9A%84%E4%B8%A7%E5%A4%B1%E5%90%97%EF%BC%9F",
+          "publishedOn": "2025-03-25T01:09:00.000Z",
+          "wordCount": 297,
+          "title": "技术必然会导致医生权力的丧失吗？",
+          "imageUrl": null
+        },
+        {
+          "id": "d8e20b581c2a3fc8e535f320eec0ce5f",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E9%92%B1%E8%B0%A6%E7%9B%8A%E7%9A%84%E6%96%87%E5%AD%A6%E4%B8%96%E7%95%8C",
+          "publishedOn": "2025-03-24T02:06:00.000Z",
+          "wordCount": 300,
+          "title": "钱谦益的文学世界",
+          "imageUrl": null
+        },
+        {
+          "id": "799f6693fbf6e4a9bdfa2b823bfe9c34",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E8%BF%9B%E5%85%A5%E5%8D%9A%E7%89%A9%E9%A6%86%EF%BC%8C%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8D%B3%E4%BE%BF%E2%80%9C%E8%B5%B0%E9%A9%AC%E8%A7%82%E8%8A%B1%E2%80%9D%EF%BC%8C%E4%B9%9F%E8%83%BD%E6%84%9F%E5%8F%97%E5%88%B0%E4%B8%80%E7%A7%8D%E8%A7%84%E5%BE%8B%EF%BC%9F",
+          "publishedOn": "2025-03-24T02:06:00.000Z",
+          "wordCount": 308,
+          "title": "进入博物馆，为什么即便“走马观花”，也能感受到一种规律？",
+          "imageUrl": null
+        },
         {
           "id": "50f7bf2997323f980e6a7e68f1f25192",
           "author": null,
