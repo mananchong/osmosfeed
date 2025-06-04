@@ -44,16 +44,6 @@
           "wordCount": 6283,
           "title": "R Weekly 2025-W20 R ecosystem, GitHub Actions weather, PIN code India",
           "imageUrl": "https://rweekly.org/public/facebook.png"
-        },
-        {
-          "id": "https://rweekly.org/2025-W19.html",
-          "author": null,
-          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Batool Almarzouq, with help from the R Weekly team members and contributors.\nHighlight\nMarch 2025 Top 40 New CRAN Packages\nrecipes 1.3.0\n30 Day Chart Challenge 2025\nRotation with Modulo\nInsights\nMarch 2025 Top 40 New CRAN Packages\n\nSearch and Query 25+ Years of Friends of Saxonville Newsletters\nvowels: Phonetics cloze quiz about Cardinal vowels\nR in the Real World\nAnalysis of 1,041 Terminated NSF Grants Totaling $613.26M\n\nDisaster Death Distributions: 1950-2020\n\nR in Organizations\nrOpenSci News Digest, April 2025\nRunning AI/LLM Hackathons at Posit: What We’ve Learned\nR in Academia\nAlphaMissenseR: an integrated framework for investigating missense mutations in human protein-c…",
-          "link": "https://rweekly.org/2025-W19.html",
-          "publishedOn": "2025-05-06T00:00:00.000Z",
-          "wordCount": 6150,
-          "title": "R Weekly 2025-W19, Top 40 New CRAN Packages, recipes, 30 Day Chart Challenge, Rotation with Modulo",
-          "imageUrl": "https://rweekly.org/public/facebook.png"
         }
       ]
     },
@@ -489,6 +479,206 @@
       "feedUrl": "https://feedx.net/rss/thepaper.xml",
       "siteUrl": "http://thepaper.cn",
       "articles": [
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_30930204",
+          "author": null,
+          "description": "2025年6月4日中午，湖南省岳阳临湘市公安局受理了一起涉嫌利用智障人员从事体力劳动案。接报警后，公安机关解救5名疑似智障人员，并将该公司负责人等5人依法控制。6月4日晚，临湘市公安局副局长吴焰星告诉澎湃新闻，目前警方已联系上2名疑似智障人员的家属，对5人的智力或精神障碍也正在进行鉴定。\n\n涉事砖厂的办公场所  本文图片均由上官正义提供\n\n\n据大象新闻同日报道，知名打拐志愿者上官正义收到线索，湖南岳阳临湘市艳飞建材有限公司（砖厂）使用疑似智力障碍人员搬砖。大象新闻记者和上官正义暗访调查发现，砖厂内的工人主要进行砖头搬运和打包工作，工人中有疑似智障人士，年龄在40岁至50岁之间，大多来自云南和贵州交界的村子，交流时发现其表达能力存在明显欠缺。\n厂区工作人员称，这些工人都是外包的，由工头带着干活，有工人干了十多年了。工厂24小时不间断生产，这些工人被分成7人一个班，每班工作12小时，每天中午12点换班。厂里给工人开的工资是300元一天。工作人员还称，这些工人“倒也不是智障，傻傻的”。\n当日中午，在工人交接班之际，上官正义向警方报案，警方赶到现场后，拦截了一辆从厂区驶出的面包车，车上有5名疑似智障人员、一名工头和司机。\n\n该砖厂老板的老厂  \n\n\n吴焰星告诉澎湃新闻，2025年6月4日12时32分，该市110报警平台接群众报警，称临湘市艳飞建材公司（砖厂）涉嫌利用智障人员从事体力芳动。接到警情后，公安机关第一时间出警，迅速解救了5名疑似智障人员，控制了包括老板、工头等关键人员在内的5名人员。\n“目前我们已联系上2名疑似智障人员的家属。因他们表达欠佳，查找亲属困难较大，我们正全力以赴。”吴焰星说，对于5人的智力或精神残疾情况，也在联系长沙有资质的机构进行鉴定。\n\n涉事砖厂车间  \n\n\n天眼查信息显示，临湘市艳飞建材有限公司法定代表人系刘艳飞，该公司成立于2021年，属于砖瓦、石材行业，位于临湘市聂市镇红土村四方组。\n上官正义介绍，该砖厂此前还有一个老厂，名为岳阳市如斯环保建材有限公司，在临湘市羊楼司镇。\n\n涉事砖厂车间内，工人正在搬砖  \n\n\n吴焰星介绍，刘艳飞向警方供述其砖厂有员工几十人。\n该砖厂除被解救的5名疑似智障人员外，是否还有其他智障人员？“暂时还没有发现”，吴焰星说。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_30930204",
+          "publishedOn": "2025-06-04T14:53:06.000Z",
+          "wordCount": 63,
+          "title": "5名疑似智障人员从砖厂被解救，临湘警方：暂未发现其他智障者",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_30929949",
+          "author": null,
+          "description": "6月4日，“高位截瘫女博主与前夫的民间借贷纠纷案”在河北邯郸市成安县法院开庭审理，原告李女士要求前夫归还婚前借款10.5万元。\n4日下午，当事人李女士告诉澎湃新闻（www.thepaper.cn），其前夫即被告丁某某未出庭，代理律师到庭。经过两个多小时的庭审，审判长宣布休庭，将择期宣判。\n李女士的案件引发关注。李女士在民事诉状中称，她是一位只能依靠轮椅活动的残疾人，丁某某利用虚构的身份骗取了她的信任和感情，“因看清被告丁某某骗财骗色的图谋，遂拒绝再向其借款和为其贷款提供担保。被告因无法榨取更多钱财，便将原告抛弃”。\n2013年，李女士出车祸导致高位截瘫。康复治疗期间，她通过做自媒体成为一名博主，获取收入补贴家用。2021年年底，李女士通过网络与丁某某相识相恋，不久，李女士发现自己怀孕了。2022年4月2日两人登记结婚。\n李女士称，婚后不久，丁某某涉嫌强奸其他女子被警方带走，因证据不足被释放。李女士说，出来后，丁某某要借贷300万元，提出要她做担保人，被她拒绝了。2022年10月16日，丁某某离家出走，四天后，他们的孩子出生。丁某某却再也没回来。\n2023年5月，李女士提起离婚诉讼。离婚判决书显示，2022年10月16日，两人开始分居生活。经一审、二审开庭审理，2024年2月29日，河北邯郸中级法院判决两人离婚。\n李女士提到，在结婚前，丁某某以“做生意需要资金周转”，陆续向其借款10.5万元，至今未归还。她要求丁某某归还这笔婚前借款。\n上述离婚判决书显示，经查，李女士婚前于2022年1月24日至2022年3月11日期间，共计向丁某某转账10.5万元，李女士主张该款项系婚前借款。一审法院认为，因李女士主张的借款与本案离婚纠纷案不是同一法律关系，李女士可另行主张权利。\n在本次“借贷纠纷案”庭审中，李女士提供了三组证据。一是离婚判决书中提及其另行主张的权利；二是银行流水转账记录；三是“丁某某承认借款”的微信聊天记录。\n6月4日上午，经过两个多小时的庭审，法庭宣布休庭，将择期宣判。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_30929949",
+          "publishedOn": "2025-06-04T14:23:05.000Z",
+          "wordCount": 32,
+          "title": "邯郸高位截瘫女博主与前夫的借贷纠纷案今日开庭，将择期宣判",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_30930194",
+          "author": null,
+          "description": "情况通报\n现就通津铺镇长峪铺村杨家坡溶洞、东岳观镇彩球村大田坑天坑污染整治情况通报如下。\n杨家坡溶洞位于通津铺镇长峪铺村十五组，深度约150米、呈漏斗型、最窄处直径约1.5米，洞内存有陈年垃圾、污水。因洞口作业面窄、内部结构复杂，无法启用吊装设备，已采用高空作业下洞人工清运。截至目前，共清理垃圾约4吨。\n大田坑天坑位于东岳观镇彩球村九组，深度约70米、呈竖井型、洞口不规则、直径约15米，洞内有陈年生活垃圾，暂未发现地下水流经。已第一时间疏通通道、加装大型机械、组织专业人员清运。截至目前，共清理垃圾约10吨。\n我县已制定《慈利县溶洞（天坑）摸排治理工作方案》，聘请湖南省城市地质调查检测所，对全县溶洞（天坑）的数量、分布、利用、环境等情况进行深入排查，按照“一洞（坑）一策”开展系统治理。\n现向社会公开招募具有相应资质的人员，共同参与溶洞（天坑）摸排治理工作。感谢社会各界对慈利县生态环境工作的关注和支持！\n慈利县环境风险隐患调查处置工作专班\n2025年6月4日",
+          "link": "https://www.thepaper.cn/newsDetail_forward_30930194",
+          "publishedOn": "2025-06-04T13:53:02.000Z",
+          "wordCount": 28,
+          "title": "湖南慈利通报张家界天坑溶洞垃圾整治情况：已清理14吨",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_30930189",
+          "author": null,
+          "description": "美股三大指数集体高开，道指涨0.11%，纳指涨0.19%，标普500指数涨0.14%。蔚来、小鹏汽车涨逾2%。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_30930189",
+          "publishedOn": "2025-06-04T13:53:02.000Z",
+          "wordCount": 27,
+          "title": "美股三大指数集体高开",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_30930087",
+          "author": null,
+          "description": "桥水基金创始人达利欧将继续担任印尼主权财富基金Daya Anagata Nusantara（Danantara）的顾问。\n据报道，在6月4日发布的联合声明中，Danantara和达利欧均澄清说，他们的合作关系没有变化，达利欧将继续担任该机构和印尼总统Prabowo Subianto的非正式顾问。达利欧表示：“我始终坚定支持Danantara的使命。我承诺将为其领导层和Subianto总统提供咨询，这一承诺保持不变，且是非正式、自愿和无偿的。”\nDanantara在声明中表示：“他的建议对我们作为主权投资机构的发展方向至关重要。在追求可持续经济增长的过程中，我们将继续重视他的指导。”\n主权财富基金Danantara由印尼政府在2月24日推出，计划管理逾9000亿美元资产，被誉为“印尼版淡马锡”。达利欧被任命为Danantara的顾问之一。（澎湃新闻记者 孙铭蔚）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_30930087",
+          "publishedOn": "2025-06-04T13:53:02.000Z",
+          "wordCount": 38,
+          "title": "达利欧不再担任印尼主权财富基金顾问？澄清：合作关系不变",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_30929176",
+          "author": null,
+          "description": "近日，有多位网友发帖称，白象“多半袋面”系列产品背后包装上显示，“多半”是白象食品股份有限公司的注册商标。此事登顶热搜第一。对此，白象客服表示，“多半“确是商标，“多半袋/桶面”仅为产品名称，商品克重以包装上标注为准。对于网友的意见，客服称将反馈给建议部门。\n有网友发视频称，白象多半袋方便面的包装上，多半袋的“多半”后出现了代表商标的®。更是在包装条码处有一样小字写着：“多半”是白象食品股份有限公司的注册商标。\n也有网友对比称，白象多半袋面红烧牛肉面的包装显示“净含量：面饼+配料129克；面饼：110克”。而白象红烧牛肉面的商品信息显示“净含量：面饼+配料104克；面饼：85克”。多半袋面仅在面饼含量上比普通款多了25克。\n此外，还有视频显示，白象多一半系列方便面外包装上显示：“多一半”是指比白象60克系列产品多40克。该系列面饼是100克。\n对此，白象客服表示，“‘多半’确实是商标，产品具体克重以包装上显示的为准，产品本身是没有问题的。”对于网友的意见，客服称将反馈给建议部门。\n企查查APP显示，白象食品股份有限公司曾于2018年至2021年之间申请注册“多半”“多半袋”“多半桶”“白象多半袋”“白象多半桶”商标，国际分类为方便食品，当前部分商标已成功注册。值得一提的是，该公司申请的“多半袋”“多半桶”商标因易导致消费者对商品的数量等特点产生误认被驳回，处于无效状态。\n类似的情况还有今麦郎旗下的“1袋半”商标。2020年9月29日，国家知识产权局裁定对今麦郎食品股份有限公司“1袋半”商标的注册予以无效宣告。相关裁定认定该商标核定使用在“方便面、面条”等商品上，不仅直接表示了商品的分量、数量等特点，难以起到区分商品来源的作用，缺乏显著性。同时，诉争商标的注册还具有欺骗性，容易使公众对商品的分量、数量等特点产生误认。\n不仅是分量上，一些商家通过模糊宣传、擦边营销等手段，利用消费者对健康饮食的追求，玩起了“文字游戏”。近些年，产品包装上各种“零添加”“零蔗糖”“零防腐剂”等“零字号”盛行。其中，最沸沸扬扬的事件还是“千禾0”酱油一事。据媒体报道，千禾御藏本酿380天酱油在检测中查出0.011mg/kg的镉，虽然未超出国家食品安全标准，但这一检测结果，让一直宣称酱油产品“零添加”的“千禾0”成为争议焦点。\n但是，商标的“文字游戏”却远不止于此。今年5月，有媒体报道，三德子官方旗舰店直播间宣传的“德子土鸡”，其外包装商标实际名为“德子土”。此前还有注册商标为“壹号土”的“壹号土猪”。\n从“千禾0”酱油、“壹号土猪”，到“其他没了”酸奶、“多半”袋方便面，商家利用商标与商品特性“打擦边球”的现象愈演愈烈，正在一步步透支着消费者的信任。\n面对这种情况，监管部门也出手打击。今年3月27日，国家卫生健康委会同国家市场监督管理总局发布了50项食品安全国家标准和9项标准修改单。其中明确提出，不允许再使用“不添加”“零添加”等用语对食品配料进行特别强调。商标争议也由相关部门逐步规范。\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.site",
+          "link": "https://www.thepaper.cn/newsDetail_forward_30929176",
+          "publishedOn": "2025-06-04T13:23:05.000Z",
+          "wordCount": 27,
+          "title": "媒体：白象多半袋方便面“多半”竟是商标，文字游戏何时休？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_30929543",
+          "author": null,
+          "description": "据俄罗斯驻朝鲜平壤大使馆4日消息，俄联邦安全会议秘书绍伊古当天会见朝鲜最高领导人金正恩，讨论了乌克兰危机和朝鲜半岛局势。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_30929543",
+          "publishedOn": "2025-06-04T13:23:05.000Z",
+          "wordCount": 27,
+          "title": "绍伊古会见金正恩，讨论乌克兰危机和朝鲜半岛局势",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_30929705",
+          "author": null,
+          "description": "北京时间6月5日21点45分，世预赛第9轮中国队将在雅加达客场挑战印尼；4日傍晚，国足主帅伊万科维奇和前锋张玉宁出席了赛前新闻发布会，伊万坦言印尼主场7万名左右的球迷会给中国队带来压力，但他也强调，“我们会全力以赴，注意力集中，不受负面因素的干扰。”\n\n不受客场负面因素干扰\n“我们很高兴来这里，有这个机会踢一场精彩比赛，相信比赛当天会来超过七万观众，这对我们也是难得的机会，希望球员能在场上有完美的发挥。”讲述对于比赛的观点时，伊万主动提及了印尼魔鬼主场可能对国足带来的不确定性因素。\n而在随后的媒体提问环节，也有印尼媒体询问伊万如何应对7万多名球迷所带来的压力，对此伊万也坦言，“我们对印尼主场的氛围有所了解，这么多球迷到场肯定会造成一些压力，我们也在给球员做工作，要把这种压力转换成积极的动力。印尼有一些新归化的球员，实力有提升，我们清楚认识到这场比赛的难度很大。我们会全力以赴，注意力集中，不受到负面因素的干扰。”\n雅加达的格罗拉蓬卡诺体育场堪称亚洲足坛最恐怖的“地狱主场”之一。这座能容纳8万人的体育场能够给客队球员带来巨大的心理压力，比赛期间通常上座率会超过7万人，澳大利亚队、韩国队曾在此翻车。\n数据显示，18强赛期间印尼主场比赛，客队传球失误率比平均水平高出12%。不仅如此，雅加达6月份的平均气温高达32℃，湿度超过80%，这对于中国队来说会是一个严峻的考验。\n\n目标依然是晋级下一阶段\n本届18强赛期间，只有日本队在印尼主场带走3分，而对于中国队来说，想要延续争夺第四名的希望，就必须在本场比赛中击败印尼。\n对此伊万也坦言，“大家都很清楚我们这个小组竞争很激烈，澳大利亚、日本和沙特是世界杯常客，印尼、巴林和中国队有着很高的热情竞争晋级资格。首先祝贺日本已经取得了出线权，印尼、巴林和中国在竞争三四名。”\n他坦言，“印尼是有实力的球队，通过比赛踢出了很好的内容，相信接下来的两场比赛对我们两队都是关键的比赛，决定我们是否晋级。\n希望有好的运气，晋级下一阶段的比赛。”\n张玉宁则表示，“作为球员，我们在国内做了充分备战，来这里后，也为这场艰难的比赛做好了准备。除了胜利，其他任何结果都是没有意义的，为了取胜，我们会在场上付出所有。”第一回合主场和印尼的比赛，张玉宁打进了关键的第二个进球， “首先我们很尊重印尼这个对手，他们在小组里是很难踢的。足球比赛很残酷，作为前锋不光是为了进球，还有很多事情要做。”张玉宁表示不在意自己能否进球，关键是球队能够取胜，“每个球员都有可能是杀死比赛的球员，我们会为了这个目标奋斗到底。”\n\n主力阵容浮出水面，蒋光太或缺席\n本次出征印尼，伊万总共选择了25名球员，基本上以老面孔为主，也有完成会籍转换的杨明洋这样的新人。对于球员的选择，伊万还是延续了此前的说法，“我们队伍对球员的选择是对所有人开放的，要看他的俱乐部表现，是否有好的状态。我们确实有一些球员第一次参加这样的大赛，希望他们体现出自己优秀的状态和价值。”\n对于媒体关心的蒋光太的状态问题，伊万坦言赛前并不方便讨论球员的具体情况，“任何球队都会遭遇伤病问题。不管球员是首发还是替补，每个人都会做好全力的准备和技战术理解，随时上场都能达到比赛的要求，这是每个人都能做到的。”\n赛前适应场地过程中，蒋光太并没有出现在主力阵容一组，国足中卫搭档是朱辰杰和韩鹏飞，边后卫是杨泽翔和胡荷韬，门将还是王大雷。伊万还是采用4-4-2菱形中场的体系，和以往一样，伊万训练中会在中前场多安排一人，此番踩场过程中王上源、徐皓阳、塞尔吉尼奥、韦世豪和曹永竞五人身穿象征主力的背心，届时只需要拿下一人就能构成四中场，锋线组合没有悬念，张玉宁搭档王钰栋。\n从中场组合来看，韦世豪、曹永竞都是纯攻击手，徐皓阳和塞尔吉尼奥也是偏组织类型，赛前伊万亮出底牌的情况来看，本场比赛他的思路是要主打进攻。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_30929705",
+          "publishedOn": "2025-06-04T13:23:05.000Z",
+          "wordCount": 55,
+          "title": "印尼主场7万球迷制造压力？伊万亮出底牌，国足主打进攻",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_30928391",
+          "author": null,
+          "description": "北京时间6月4日晚，中国女排迎来了在2025年世界女排联赛的亮相。\n在北京主场对阵比利时女排，派出众多新生代球员的中国女排以3比0完胜对手，取得了本届赛事的开门红。\n\n中国女排斩获开门红。\n\n\n进入洛杉矶奥运会周期，中国女排开启了更新换代。4月10日，执教过辽宁女排、中国女排二队和中国青年女排的赵勇正式上任女排国家队主教练。而在随之出炉的中国女排集训名单中，也出现了众多新生代球员的身影。\n今年的世界女排联赛，成了新一届中国女排的亮相之战。这支年轻的队伍能够拿出怎样的发挥，也备受中国观众的关注与期待。\n在本站比赛的中国女排参赛名单中，有超过一半的运动员是首次入选国家队，同时也保留了龚翔宇、王媛媛、王梦洁和吴梦洁等几位有巴黎奥运经验的队员（李盈莹暂时因伤缺席）。从整体年龄来看，这份名单的平均年龄不足22岁。\n世界女排联赛正式开始前，中国女排还与法国队进行了一场热身赛，打满5局以4比1击败对手。主教练赵勇在赛前发布会上表示，“主场作战的压力和动力是并存的，但动力更强于压力。我们这支年轻的队伍希望通过实战的磨炼，不断提高。”\n\n这支中国女排阵中有许多年轻球员。\n\n\n首场比赛面对比利时队，中国女排派出的首发阵容是：庄宇珊、吴梦洁、王媛媛、陈厚羽、龚翔宇、张籽萱、王梦洁。\n开局后，比利时队率先打出7比4的领先优势，中国女排主帅赵勇叫出暂停，提醒队员缓解紧张情绪放松心态，随后中国女排逐渐追回比分并实现反超，随着庄宇珊一记扣球打手出界得分，中国女排以25比18先下一局。\n第二局，中国女排在局中阶段一度拉开比分差距，但比利时队顽强追回。局末关键分上，王媛媛一扣一拦连得两分，中国女排以27比25险胜。\n随后的第三局比赛，手握优势的中国女排没有放松，在开局阶段就打出了领先优势，最终成功压制住对手，以25比13斩获一场完胜。\n今年的世界女排联赛，中国女排将参加中国北京、中国香港、美国阿灵顿三站分站赛。击败比利时队后，中国女排在中国北京站的比赛中还将先后和波兰队、法国队、土耳其队展开交锋。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_30928391",
+          "publishedOn": "2025-06-04T13:23:05.000Z",
+          "wordCount": 44,
+          "title": "新阵容亮相！中国女排完胜比利时，斩获世界女排联赛开门红",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_30929790",
+          "author": null,
+          "description": "6月4日，雅居乐集团（03383.HK）披露5月份销售情况。\n数据显示，5月份雅居乐集团实现预售金额约9.3亿元，对应建筑面积约为10.2万平方米，平均价格为每平方米9131元。\n截至5月底，雅居乐集团累计实现预售金额约42.4亿元，累计对应建筑面积约为45.1万平方米，累计平均价格为每平方米9402元。（澎湃新闻记者 李晓青）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_30929790",
+          "publishedOn": "2025-06-04T13:23:05.000Z",
+          "wordCount": 30,
+          "title": "雅居乐集团前5个月销售额约42.4亿元",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_30929987",
+          "author": null,
+          "description": "6月4日，国内期货夜盘开盘多数上涨，沪金涨0.06%，沪铜跌0.19%，沪锡涨1.29%，铁矿涨0.36%，焦煤涨超2%，原油跌0.19%。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_30929987",
+          "publishedOn": "2025-06-04T13:23:05.000Z",
+          "wordCount": 27,
+          "title": "国内期货夜盘开盘多数上涨",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_30928253",
+          "author": null,
+          "description": "6月4日，外交部发言人林剑主持例行记者会。有韩媒记者提问，今天有中国媒体报道称，希望韩国总统采取平衡的对华政策，请问发言人，中方希望韩国采取什么样的对华外交政策？中方认为韩国新政府上台，中韩关系会得到改善吗？\n林剑表示，中韩关系发展的根本动力源于双方的共同利益，不针对第三方，也不应受第三方因素的影响。“中方一贯反对选边站队和阵营对抗，我们愿同韩方一道，推动中韩关系健康稳定发展，为两国人民创造更多福祉，为促进地区和平稳定与发展繁荣发挥积极作用。”",
+          "link": "https://www.thepaper.cn/newsDetail_forward_30928253",
+          "publishedOn": "2025-06-04T13:23:05.000Z",
+          "wordCount": 31,
+          "title": "外交部谈未来中韩关系：愿同韩方一道为两国人民创造更多福祉",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_30929262",
+          "author": null,
+          "description": "看球的观众太多，场地不够用了——因“一票难求”，“苏超”多支参赛队伍更换主场，苏州为这次业余联赛动用了江苏省唯一满足国际足联比赛要求的一流专业足球场。‌\n“苏超”即2025年江苏省城市足球联赛，全省13个设区市各组一支队伍，捉对厮杀。5月10日开赛后，“苏超”迅速出圈，足球与热梗齐飞，近期比赛几乎场场爆满，在场外更掀起泼天流量。\n\n6月1日，盐城队在主场战胜淮安队，现场2万多人观赛。\n\n\n6月1日，15669名球迷冒雨在五台山体育场观看南京队主场迎战无锡队，创五台山体育场的上座纪录。据南京“紫金山新闻”4日报道，接下去，南京队至少有3场主场比赛拟从五台山体育场移师南京奥体中心体育场，门票扩容、销售方案已在筹划。  \n南京奥体中心是2005年十运会、2013年亚青会和2014青奥会主会场，主体育场看台区域共6层，设6.1万个观众席。  \n6月4日，苏州市体育局发布公告：经申请，省组委会批准苏州队第5轮（6月29日）、第13轮（9月27日）主场对战扬州队、常州队的比赛场地移至昆山市奥体中心体育场。\n据昆山市文体广电和旅游局公众号，昆山市奥体中心体育场是采用国际足联标准建造的专业足球场，也是江苏省唯一满足国际足联比赛要求的国际一流专业足球场，可容纳约4.5万人。\n专业足球场有别于综合性体育场，专为足球比赛设计、符合国际足联标准，特点包括无跑道、观众席近距离环绕等‌。\n目前“苏超”常规赛战罢三轮，南通队三胜，其中唯一的主场作战在“南通大学西操场”。据“南通发布”，6月29日南通队将在主场对阵宿迁队，为提升观赛体验，市体育局经向主办方申请，决定将场地安排在南通足球训练中心海门基地。\n南通足球训练中心海门基地是中乙球队海门珂缔缘俱乐部的主场，可容纳观众11000人。\n此外，常州也已向组委会提交主场更换方案，常州队本赛季主场比赛将迁至常州奥林匹克体育中心体育场。常州奥体中心体育场拥有标准足球比赛场地，设41000个座位。\n此前，徐州队已将主场从市体育中心换到市奥体中心，5月31日迎战连云港队的比赛吸引了22198人到场观赛。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_30929262",
+          "publishedOn": "2025-06-04T12:53:04.000Z",
+          "wordCount": 45,
+          "title": "“苏超”多支参赛队更换主场，苏州动用国际一流专业足球场",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_30929698",
+          "author": null,
+          "description": "澎湃，澎湃新闻，澎湃新闻网，新闻与思想，澎湃是植根于中国上海的时政思想类互联网平台，以最活跃的原创新闻与最冷静的思想分析为两翼，是互联网技术创新与新闻价值传承的结合体，致力于问答式新闻与新闻追踪功能的实践。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_30929698",
+          "publishedOn": "2025-06-04T12:53:04.000Z",
+          "wordCount": 33,
+          "title": "白象食品致歉：将尽快调整“多半”产品包装，避免引发消费者的误解",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_30929819",
+          "author": null,
+          "description": "美国总统特朗普对钢铁和铝进口征收50%关税的措施于6月4日生效，引发欧盟官员对高额关税的担忧。\n欧洲议会国际贸易委员会主席贝恩德·朗格当地时间4日表示，特朗普这一毫无道理的新挑衅正在破坏关税谈判，所谓的国家安全担忧仅仅是保护主义的借口。\n朗格强调，如果美国不对钢铝暂征50%关税，其认为除立即实施反制措施外别无选择。（央视新闻）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_30929819",
+          "publishedOn": "2025-06-04T12:53:04.000Z",
+          "wordCount": 28,
+          "title": "欧洲议会官员：美政府提高钢铝关税至50%毫无道理",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_30928048",
+          "author": null,
+          "description": "“若问古今兴废事，请君只看洛阳城”。 澎湃新闻获悉，汉魏洛阳故城遗址博物馆将于2025年6月5日正式面向公众免费试开放。位于河南省洛阳市瀍河区白马寺镇的这一博物馆作为洛阳“五大都城”遗址博物馆群关键组成部分，与汉魏洛阳故城国家考古遗址公园相辅相成，荟萃1300余件（套）珍贵文物，系统展示汉魏洛阳故城遗址60年来的重要考古发掘研究成果及其珍贵的历史、科学和艺术价值。\n据悉，北魏时期的洛阳城，面积达100平方公里，是当时世界范围内规模最大、格局保存最完整、保存状况最好的都城遗址。\n\n汉魏洛阳故城遗址博物馆（图源：洛报融媒记者 张光辉/摄  ）\n\n\n汉魏洛阳城遗址是中国国务院首批公布的全国重点文物保护单位。该遗址位于洛阳市东15公里，始建于西周，建城史近1600年，作为都城长达600年，是中国古代建都总时间最长的都城。自1962年中国社科院考古研究所洛阳工作队开始进行考古勘察工作以来，汉魏洛阳故城的整体规模已得到基本探明，其中包含南郊礼制建筑遗址、金墉城遗址、永宁寺遗址和宫城阊阖门、太极殿、显阳殿遗址等，出土文物约2万件（套），是目前考古资料最为丰富的都城遗址，为历史文化遗产保护和遗址博物馆建设提供了翔实的考古资料。\n\n展览现场\n\n\n汉魏洛阳故城遗址博物馆 展览现场（图源：洛报融媒记者 张光辉/摄  ）  \n\n\n定名争议\n今年4月，这座位于洛阳白马寺东侧的博物馆定名才尘埃落定。从2023年立项时的“汉魏洛阳城遗址博物馆”到2024年更名“汉魏故城遗址博物馆”，再到2025年4月正式定名“汉魏洛阳故城遗址博物馆”，名称中“洛阳”二字的去留不仅牵动公众神经，更折射出文化遗产命名中学术逻辑与地方认同的深层博弈。\n争议始于2024年11月，有网友发现博物馆施工现场的门牌石上名称悄然去掉“洛阳”二字，引发关注。部分网友认为此举削弱了洛阳作为汉魏都城的历史地位，甚至质疑是“自我矮化”。另一部…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_30928048",
+          "publishedOn": "2025-06-04T12:23:03.000Z",
+          "wordCount": 219,
+          "title": "当时世界最大都市！汉魏洛阳故城遗址博物馆明开放",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_30929335",
+          "author": null,
+          "description": "泰国空军4日说，今后10年打算采购12架由瑞典萨博集团制造的JAS-39“鹰狮”战斗机，以替代日渐老化的现役美制F-16战机。\n泰国空军说，打算在2025年至2029年期间斥资195亿泰铢（约合5.96亿美元）购买4架“鹰狮”战斗机，完成第一阶段采购任务，后续再购买另外8架。相关采购计划将在7月中旬提交内阁审批，如果顺利通过，预计将在8月签署采购协议。\n瑞典萨博集团发表声明证实泰国空军的采购意愿，但指出尚未收到泰国方面的订单，也未签署任何合同。（新华社）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_30929335",
+          "publishedOn": "2025-06-04T12:23:03.000Z",
+          "wordCount": 28,
+          "title": "泰国拟采购瑞典“鹰狮”替代美制F-16",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_30929352",
+          "author": null,
+          "description": "韩国总统李在明4日正式开启总统任期，前往首尔龙山总统府履职。谈及出任总统首日，他称总统府“空无一物”，由于前任政府未作交接，那里没有电脑、网络、打印机。\n与往届韩国总统选举不同的是，本届总统选举是在总统缺位情况下举行的，因此没有前任总统与当选总统交接的流程，当选总统在选举结果正式确定后立即履职。按韩国媒体说法，前总统尹锡悦去年12月遭国会弹劾后，龙山总统府已停止运作。（新华社）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_30929352",
+          "publishedOn": "2025-06-04T12:23:03.000Z",
+          "wordCount": 28,
+          "title": "李在明谈履职首日：总统府“空无一物”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_30929267",
+          "author": null,
+          "description": "6月4日，巨子生物在官微发布关于公司重组胶原蛋白产品检测结果的说明​。说明中称，可复美相关产品中真实添加重组胶原蛋白成分，不存在网传的“虚假宣传、误导消费者”行为。此外，自今年4月16日起，可复美胶原棒2.0已开始迭代上新，各渠道可复美胶原棒1.0也因为售罄而陆续下架，目前部分渠道仍有库存持续销售，不存在网传的“悄悄下架”一说。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_30929267",
+          "publishedOn": "2025-06-04T11:53:04.000Z",
+          "wordCount": 27,
+          "title": "巨子生物：可复美相关产品中真实添加重组胶原蛋白成分，不存在网传的“虚假宣传、误导消费者”行为",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_30929268",
+          "author": null,
+          "description": "6月4日晚间，中衡设计集团股份有限公司（中衡设计，603017.SH）发布股票交易风险提示性公告，近期公司关注到市场对公司的“低空经济”、“商业航天”等概念关注度较高，现就相关情况说明如下：根据公司披露的《2024年年报》，公司中标了部分低空经济及商业航天设计项目。2024年至今，公司中标低空经济产业园（通用机场等）相关设计项目累计合同额1,406.86万元，其中2024年无确认收入，2025年一季度累计确认收入100.35万元，占公司2025年一季报合并报表收入的0.41%；公司中标商业航天产业基地相关设计项目累计合同额2,048.64万元，其中2024年累计确认收入293.09万元，占同期公司合并报表收入的0.22%，2025年一季度无确认收入。由于单个项目设计合同额都有限，公司目前“低空经济”、“商业航天”相关项目设计收入占公司合并报表收入比例很小。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_30929268",
+          "publishedOn": "2025-06-04T11:53:04.000Z",
+          "wordCount": 27,
+          "title": "中衡设计：公司目前“低空经济”、“商业航天”相关项目设计收入占公司合并报表收入比例很小",
+          "imageUrl": null
+        },
         {
           "id": "https://www.thepaper.cn/newsDetail_forward_30928055",
           "author": null,
@@ -12058,36 +12248,6 @@
           "wordCount": 27,
           "title": "“五一”假期海南离岛免税购物金额5.1亿元",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_30772644",
-          "author": null,
-          "description": "5月6日午盘，香港恒生指数上扬0.69%，报22658.98点；恒生科技指数微跌0.10%，报5238.94点；恒生国企指数攀升0.23%，报8250.37点。\n恒生指数成分股中，金沙中国有限公司劲升6.3%，周大福走强5.9%，农夫山泉攀升4.9%。友邦保险上涨3.3%，太古股份公司A上涨1.0%。跌幅方面，石药集团下挫5.0%，舜宇光学科技走低3.8%，药明生物下跌2.9%。石药集团的JMT202重组全人源抗β KLOTHO单克隆抗体获美国临床试验批准。\n恒生科技指数成分股中，美团-W攀升4.5%，腾讯控股上涨1.4%，快手-W走强1.9%。跌幅方面，蔚来-SW下挫6.6%，小鹏汽车-W下跌2.7%，小米集团-W走低2.5%。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_30772644",
-          "publishedOn": "2025-05-06T04:23:04.000Z",
-          "wordCount": 29,
-          "title": "恒指早盘涨0.69%，恒生科技指数微跌0.10%",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_30772396",
-          "author": null,
-          "description": "5月5日，网传上海虹桥高铁站出现“拦门事件”。网传的视频显示，一名乘客被车门夹住，一旁工作人员试图将这名乘客从车门处拉出。\n对此，铁路上海站5月5日23点59分发布情况说明称，5月5日11时52分，G1673次列车停靠在始发站上海虹桥站7号站台办理旅客乘降作业完毕，在正常关闭车门过程中，6号车厢一名旅客突感身体不适，急忙下车时被车门夹住。为确保旅客安全和列车安全，铁路工作人员迅速处置，将该旅客从车门处拉至站台安全区域。该旅客未受伤，该趟列车随后安全正点发车。\n\n铁路上海站发布情况说明 微博截图",
-          "link": "https://www.thepaper.cn/newsDetail_forward_30772396",
-          "publishedOn": "2025-05-06T03:53:03.000Z",
-          "wordCount": 40,
-          "title": "有乘客被高铁车门夹住？铁路回应：系突感不适下车，未受伤，列车正点发车",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_30770697",
-          "author": null,
-          "description": "2004年青春版《牡丹亭》首演时，绝大部分大学生都没看过昆曲，但二十多年后，大学生自己上台去演了。白先勇在南京东南大学校园里接受澎湃新闻·文学花边独家专访时感慨道，昆曲，是以最美的艺术形式来表现中国人最深刻的情感。他说：我的家乡不是桂林也不是台北，是中国传统文化，一听到昆曲，我就回家了。\n\n白先勇是校园青春版《牡丹亭》艺术总监。摄影：孟椿\n\n\n4月26日，江苏大剧院，校园青春版《牡丹亭》近三个小时的首演在一阵经久不息的掌声中缓缓落幕，该剧艺术总监、作家白先勇走上舞台激动不已：“我要祝贺这次校园青春版《牡丹亭》大大成功！太惊艳了！”他几次提到2004年由他担任总制作人、由青年演员俞玖林、沈丰英演绎的青春版《牡丹亭》，同样在一片紧张与期待中完成首演。它的成功，让汤显祖那出来自十六世纪的经典之作再度“还魂”，在二十一世纪的舞台上重放光芒。\n此次的《牡丹亭》，是一台完全由学生演出和伴奏的校园青春版《牡丹亭》。它由东南大学在全国海选出50位学员担任演员与乐队成员，他们平均年龄不到22岁，其中80%是“00后”。从去年夏天起，这群近乎“0基础”的学员就利用周末与假期到苏州学习、排练。\n同样难得的是，学员们的执教老师，正是包括俞玖林、沈丰英等在内的青春版《牡丹亭》的原班人马。曾经的新人成为老师，他们“一对一、手把手”的传授画面，让白先勇惊叹于一份愿望的实现——一代代昆曲人把一身的功夫传承下去，让昆曲永远青春，永葆生命力。\n“我想，校园青春版《牡丹亭》就是青春版《牡丹亭》的延续。”\n在校园青春版《牡丹亭》首演之后，白先勇在东南大学“昆曲的校园传承”研讨会间隙接受了澎湃新闻·文学花边独家专访。他感叹道，2004年青春版《牡丹亭》首演时，可能95%以上的中国大学生没看过昆曲，但二十多年后，大学生自己上台去演了，“这中间，变化多大啊。”\n在他看来，昆曲，是以最美的艺术形式来表现中国人最深刻的情感…",
-          "link": "https://www.thepaper.cn/newsDetail_forward_30770697",
-          "publishedOn": "2025-05-06T03:53:03.000Z",
-          "wordCount": 231,
-          "title": "独家专访｜白先勇：我的家乡不是哪个地点，是中国传统文化",
-          "imageUrl": null
         }
       ]
     },
@@ -12096,6 +12256,76 @@
       "feedUrl": "https://www.nationalreview.com/feed/",
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
+        {
+          "id": "https://www.nationalreview.com/?p=1841567",
+          "author": "Andrew Stuttaford",
+          "description": "The week of May 26, 2025: AI and graduate (un)employment, tariffs, nuclear power, Apple, and much more.",
+          "link": "https://www.nationalreview.com/2025/06/ai-job-losses-straws-in-the-wind/",
+          "publishedOn": "2025-06-04T15:22:14.000Z",
+          "wordCount": null,
+          "title": "AI & Job Losses: Straws in the Wind",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1841484",
+          "author": "The Editors",
+          "description": "Democrats will have difficulty restraining their gender zealots.",
+          "link": "https://www.nationalreview.com/2025/06/californias-trans-athlete-ruse/",
+          "publishedOn": "2025-06-04T13:37:38.000Z",
+          "wordCount": null,
+          "title": "California’s Trans-Athlete Ruse",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1841358",
+          "author": "Armond White",
+          "description": "A filmmaker distorts the past and dooms mankind’s future.",
+          "link": "https://www.nationalreview.com/2025/06/tornado-fails-history-and-genre/",
+          "publishedOn": "2025-06-04T10:30:32.000Z",
+          "wordCount": null,
+          "title": "<i>Tornado</i> Fails History and Genre",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1841275",
+          "author": "Abigail Anthony",
+          "description": "The confident claims that the boxer is a woman look even less defensible today.",
+          "link": "https://www.nationalreview.com/2025/06/test-results-confirm-how-bad-the-fact-checking-was-on-algerian-boxer-imane-khelif/",
+          "publishedOn": "2025-06-04T10:30:27.000Z",
+          "wordCount": null,
+          "title": "Test Results Confirm How Bad the Fact-Checking Was on Algerian Boxer Imane Khelif",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1841428",
+          "author": "Jon Hartley and Joshua Rauh",
+          "description": "If the ‘price’ of making full expensing permanent had to be additional spending cuts, that would be a trade worth making.",
+          "link": "https://www.nationalreview.com/2025/06/how-to-get-more-growth-from-the-republican-tax-bill/",
+          "publishedOn": "2025-06-04T10:30:21.000Z",
+          "wordCount": null,
+          "title": "How to Get More Growth from the Republican Tax Bill",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1841389",
+          "author": "Tim Chapman and Timothy Harper",
+          "description": "Rejecting unilateral presidential tariffs was not an act of judicial activism by the U.S. Court of International Trade. It protected the separation of powers.",
+          "link": "https://www.nationalreview.com/2025/06/striking-down-tariffs-a-coup-prevented-not-made/",
+          "publishedOn": "2025-06-04T10:30:17.000Z",
+          "wordCount": null,
+          "title": "Striking Down Tariffs: A ‘Coup’ Prevented, Not Attempted",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1841379",
+          "author": "Clare Ath",
+          "description": "A rallying cry to affirm the dignity of every human life and encourage a culture in which children are cherished and moms are supported.",
+          "link": "https://www.nationalreview.com/2025/06/let-june-be-life-month/",
+          "publishedOn": "2025-06-04T10:30:17.000Z",
+          "wordCount": null,
+          "title": "Let June Be Life Month",
+          "imageUrl": null
+        },
         {
           "id": "https://www.nationalreview.com/?p=1841438",
           "author": "John Fund",
@@ -14205,16 +14435,6 @@
           "wordCount": null,
           "title": "Trump’s Anti-Abundance Agenda",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1832197",
-          "author": "Noah Rothman",
-          "description": "Greene again positioned herself far over her skis in her attempt to accuse her colleagues in Congress of subordinating core American values to Israel’s whims.",
-          "link": "https://www.nationalreview.com/2025/05/mtg-is-confused-about-the-anti-boycott-act/",
-          "publishedOn": "2025-05-05T19:50:39.000Z",
-          "wordCount": null,
-          "title": "MTG Is Confused About the Anti-Boycott Act",
-          "imageUrl": null
         }
       ]
     },
@@ -15236,6 +15456,26 @@
       "feedUrl": "https://plink.anyfeeder.com/nytimes/dual",
       "siteUrl": "http://nytimes.com",
       "articles": [
+        {
+          "id": "https://cn.nytimes.com/usa/20250604/china-international-students-trump/dual",
+          "author": null,
+          "description": "KURT STREETER2025年6月4日1987年来美留学时，薛海培受到了热情的欢迎。 KT Kanazawich for The New York Times\nIn 1987, when Haipei Shue arrived in the United States as a student, he recalls receiving the warmest of welcomes. He was a graduate student in sociology at the University of Wisconsin-Madison.\n薛海培记得，他1987年来美国留学时受到了最热烈的欢迎。当时他是威斯康星大学麦迪逊分校社会学系的一名研究生。\n“People were curious about us, inviting us to their homes, wanting to be friends,” Mr. Shue said on Thursday, describing an openness that defined his early years in a country then seen by many in China as a beacon of opportunity.\n“人们对我们充满好奇，邀请我们去家里做客，想和我们交朋友，”薛海培上周四接受采访时说道。在那个许多中国人视美国为机遇灯塔的年代，这种开放态度是他早年在这个国家生活的鲜明写照。\n“It was an extraordinary time,” he said.\n“那是个非凡的年代，”他说。\nThat era of academic exchange between China and the United States, beginning in the 1970s unde…",
+          "link": "https://cn.nytimes.com/usa/20250604/china-international-students-trump/dual",
+          "publishedOn": "2025-06-04T09:36:03.000Z",
+          "wordCount": 1162,
+          "title": "美国为何向中国学生敞开大门，而特朗普为何关上它",
+          "imageUrl": "https://static01.nyt.com/images/2025/05/30/multimedia/30-nat-chinese-students-fjgt/30-nat-chinese-students-fjgt-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/business/20250604/us-china-trade-supply-chains/dual",
+          "author": null,
+          "description": "ANA SWANSON2025年6月4日为飞机提供动力的喷气发动机技术主要来自美国公司，但如果没有主要在中国生产的稀土，发动机就无法运转。 Lindsey Wasson for The New York Times\nThe U.S.-China trade conflict is quickly morphing into a fight over global supply chains, as the two nations limit the sharing of critical technologies that could have lasting consequences for scores of industries.\n美中贸易冲突正迅速演变为一场围绕全球供应链的斗争，因为两国限制关键技术的共享，可能会对数十个行业造成持久影响。\nThe United States last week suspended some sales to China of components and software used in jet engines and semiconductors, a response to a clampdown by Beijing on the export of minerals used in large sectors of manufacturing. Both sides over the last few days have accused the other of operating in bad faith.\n上周，美国暂停了对中国部分用于喷气发动机和半导体的零部件和软件的销售，这是对北京限制出口用于大型制造业部门的矿物的回应。在过去的几天里，双方都指责对方缺乏诚意。\nThe supply chain warfare, wh…",
+          "link": "https://cn.nytimes.com/business/20250604/us-china-trade-supply-chains/dual",
+          "publishedOn": "2025-06-04T08:06:03.000Z",
+          "wordCount": 1440,
+          "title": "中美贸易战从关税升级到供应链之战",
+          "imageUrl": "https://static01.nyt.com/images/2025/06/03/multimedia/03dc-supply-chain-war-gpbj/03dc-supply-chain-war-gpbj-articleLarge.jpg"
+        },
         {
           "id": "https://cn.nytimes.com/asia-pacific/20250604/lee-south-korea-new-president/dual",
           "author": null,
@@ -16275,26 +16515,6 @@
           "wordCount": 753,
           "title": "CIA发布普通话视频招募中国官员从事间谍活动",
           "imageUrl": "https://static01.nyt.com/images/2025/05/01/multimedia/01trump-news-china-recruit-ztvh/01trump-news-china-recruit-ztvh-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/business/20250506/china-tariffs-de-minimis-guangzhou/dual",
-          "author": null,
-          "description": "MEAGHAN TOBIN2025年5月6日广州服装产业区上夜班的工人。 Qilai Shen for The New York Times\nLiu Miao has sold clothing on Amazon to wholesale buyers in the United States for the past five years. That trade has come to an abrupt stop.\n过去五年里，刘淼（音）一直通过亚马逊平台向美国的批发商出售服装。如今，那笔生意已经戛然而止。\nMr. Liu owns a small factory in Guangzhou, long the center of China’s highly competitive garment industry. He and other factory managers, already dealing with tight profit margins, said last week that the combination of tariffs and President Trump’s new tax on cheap imports had cut deeply into their businesses. Costs along the supply chain are also higher.\n刘淼在广州拥有一家小工厂，中国的服装业竞争激烈，广州长期占据该产业的中心地位。面对本已微薄的利润空间，他和多位工厂负责人上周表示，关税和特朗普总统对廉价进口商品征收的新税已经严重影响到他们的业务。供应链各环节的成本也在持续攀升。\nThe tariffs have made it impossible for Mr. Liu to continue sellin…",
-          "link": "https://cn.nytimes.com/business/20250506/china-tariffs-de-minimis-guangzhou/dual",
-          "publishedOn": "2025-05-06T04:36:02.000Z",
-          "wordCount": 1170,
-          "title": "“小额豁免”政策终止，广州外贸服装厂面临转折点",
-          "imageUrl": "https://static01.nyt.com/images/2025/05/05/multimedia/05Biz-China-Guangzhou-01-zhcm/05Biz-China-Guangzhou-01-zhcm-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/world/20250506/us-china-trade-tariffs-talks/dual",
-          "author": null,
-          "description": "ALAN RAPPEPORT2025年5月6日美中之间显而易见的沉默对全球经济而言是一个严肃的问题。 Erin Schaff/The New York Times\nAs trade tensions flared between the world’s largest economies, communication between the United States and China has been so shaky that the two superpowers cannot even agree on whether they are talking at all.\n随着全球两大经济体之间的贸易紧张局势持续升级，美中之间的沟通变得极不稳定，这两个超级大国甚至无法就是否正在对话取得共识。\nAt a White House economic briefing this week, Treasury Secretary Scott Bessent demurred multiple times when pressed about President Trump’s recent claim that President Xi Jinping of China had called him. Although top economic officials might usually be aware of such high-level talks, Mr. Bessent insisted that he was not logging the president’s calls.\n在白宫上周的一次经济简报会上，当被追问特朗普总统最近声称中国国家主席习近平给他打了电话的说法时，财政部长斯科特·贝森特始终避而不答。尽管高级经济官员通常会知悉此类高层通话，贝森特却坚持说…",
-          "link": "https://cn.nytimes.com/world/20250506/us-china-trade-tariffs-talks/dual",
-          "publishedOn": "2025-05-06T02:06:01.000Z",
-          "wordCount": 1215,
-          "title": "中美贸易战陷入僵局，双方暂无正式谈判计划",
-          "imageUrl": "https://static01.nyt.com/images/2025/05/03/multimedia/03dc-uschina-talks-jmfk/02dc-uschina-talks-jmfk-articleLarge.jpg"
         }
       ]
     },
@@ -16781,36 +17001,6 @@
           "publishedOn": "2025-05-07T02:03:00.000Z",
           "wordCount": 294,
           "title": "平均每天多花50分钟：他们比同龄人更易沉迷于社交媒体",
-          "imageUrl": null
-        },
-        {
-          "id": "0f093391e5e40a444f6d6ab094d46aaa",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E2%80%9C%E5%AE%9E%E9%94%A4%E2%80%9D%E5%B0%B1%E4%BB%A3%E8%A1%A8%E6%AD%A3%E4%B9%89%E5%90%97%EF%BC%9A%E4%BF%A1%E6%81%AF%E7%BA%B7%E7%B9%81%E7%9A%84%E6%97%B6%E4%BB%A3%EF%BC%8C%E6%88%91%E4%BB%AC%E8%BF%98%E8%83%BD%E7%9B%B8%E4%BF%A1%E4%BB%80%E4%B9%88%EF%BC%9F",
-          "publishedOn": "2025-05-06T02:00:00.000Z",
-          "wordCount": 312,
-          "title": "“实锤”就代表正义吗：信息纷繁的时代，我们还能相信什么？",
-          "imageUrl": null
-        },
-        {
-          "id": "2cd90d2674833db70a2b78e7490740b6",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E5%9C%A8%E5%AD%A9%E5%AD%90%E7%9C%BC%E4%B8%AD%EF%BC%8C%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E7%88%B6%E6%AF%8D%E6%98%AF%E5%A5%BD%E7%88%B6%E6%AF%8D%EF%BC%9F",
-          "publishedOn": "2025-05-06T02:00:00.000Z",
-          "wordCount": 296,
-          "title": "在孩子眼中，什么样的父母是好父母？",
-          "imageUrl": null
-        },
-        {
-          "id": "06929a88acd374c496ae568353986d02",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E5%8D%83%E7%99%BE%E5%B9%B4%E6%9D%A5%EF%BC%8C%E8%AE%B8%E5%A4%9A%E4%BC%9F%E5%A4%A7%E7%9A%84%E6%95%85%E4%BA%8B%E5%92%8C%E8%AF%97%E6%AD%8C%E9%83%BD%E4%B8%8E%E6%97%85%E6%B8%B8%E6%9C%89%E5%85%B3",
-          "publishedOn": "2025-05-06T02:00:00.000Z",
-          "wordCount": 302,
-          "title": "千百年来，许多伟大的故事和诗歌都与旅游有关",
           "imageUrl": null
         }
       ]
