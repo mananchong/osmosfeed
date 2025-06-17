@@ -44,16 +44,6 @@
           "wordCount": 5855,
           "title": "R Weekly 2025-W22 Writing a book with Quarto, clean R code, when good pseudorandom numbers go bad",
           "imageUrl": "https://rweekly.org/public/facebook.png"
-        },
-        {
-          "id": "https://rweekly.org/2025-W21.html",
-          "author": null,
-          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Jon Calder, with help from the R Weekly team members and contributors.\nHighlight\nHack your way to a good Git history (SLC-RUG May) (slides)\nIntroducing dockViewR 0.1.0: a layout manager for R and Shiny.\nMock Them All: Simulate to Better Test with testthat\nInsights\nMulti-language pipelines with rixpress\nBridges and Communities. My Journey as an rOpenSci Champion\nR in the Real World\nAnimated population pyramids for the Pacific by @ellis2013nz\nR in Academia\nCHOIR: A principled approach to clustering single-cell data\n\nResources\nFonts in R\nNew Packages\n📦 Go Live for More New Pkgs 📦\n -->\n📦 Keep up to date wtih CRANberries 📦\n{aRtsy} 1.0.1: Generative Art with ‘ggplot2’\n{okcolor…",
-          "link": "https://rweekly.org/2025-W21.html",
-          "publishedOn": "2025-05-19T00:00:00.000Z",
-          "wordCount": 5779,
-          "title": "R Weekly 2025-W21 Git history, dockViewR, Mock Them All!",
-          "imageUrl": "https://rweekly.org/public/facebook.png"
         }
       ]
     },
@@ -421,16 +411,6 @@
           "wordCount": 310,
           "title": "吴双评《发展法学》｜穷国致富的钥匙：制度，还是产业活动？",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_30828274?commTag=true",
-          "author": null,
-          "description": "Rosario Hubert, \nDisoriented Disciplines: China, Latin America, and the Shape of World Literature, Northwestern University Press, December 2024, 328pp\n\n\n初涉罗萨里奥·休伯特（Rosario Hubert）力作《无序的学科：中国、拉丁美洲与世界文学的形态》（Disoriented Disciplines: China, Latin America, and the Shape of World Literature），宛若步入一次智识的探索，一场围绕误读、联结与重构的思想漫游。书名中看似离散却张力十足的词汇，激发人无限遐想：在“世界文学形态”的广阔舞台上，中国与拉丁美洲如何交织出一幅斑斓的跨文化图景？这种交织又如何导向“无序的学科”这一蕴含悖论的命题？而“学科”与“世界文学”的对话，又究竟预示着怎样的文化批评新路径？\n\n罗萨里奥·休伯特（Rosario Hubert）\n\n\n怀揣诸多疑问进入阅读，迎面而来的是一场既熟悉又新奇的文化对话。熟悉的是拉美文学史上那些熠熠闪光的中国元素：从鲁文·达里奥（Rubén Darío）到豪尔赫·路易斯·博尔赫斯（Jorge Luis Borges），再到奥克塔维奥·帕斯（Octavio Paz），他们的诗行间无不流淌着东方的意象，或借浪漫想象之翼，或沉浸于哲思意趣之中。而新奇之处，则在于休伯特笔下的中国文化书写——那既非关于“真实”的还原，也非“理解”的最终呈现，而是一种误读之美、一种迷失之魅，甚至是一种通过“无秩序”去建构跨文化视野的独特策略。\n休伯特的这部新作，为探究拉美文学与中国文化传播的学者开启了一扇全新的视窗，将国内学者的目光从现当代拉美文学引向了更早的拉美文化时期，以及更为广阔的中…",
-          "link": "https://www.thepaper.cn/newsDetail_forward_30828274?commTag=true",
-          "publishedOn": "2025-05-19T00:02:05.000Z",
-          "wordCount": 363,
-          "title": "孟夏韵评《无序的学科》丨误读与重构的文化漂流",
-          "imageUrl": null
         }
       ]
     },
@@ -439,6 +419,206 @@
       "feedUrl": "https://feedx.net/rss/thepaper.xml",
       "siteUrl": "http://thepaper.cn",
       "articles": [
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_30997455",
+          "author": null,
+          "description": "在深入贯彻中央八项规定精神学习教育中，上海、山西、海南等地一体推进学查改，坚持学在深处、查在细处、改在实处，让学习教育触及灵魂，精准定位突出问题，推进风腐同查同治，推动学习教育走深走实。\n让学习教育抵达人心、触及灵魂\n“旁听庭审让我深受触动，在今后的工作中，我一定要坚守廉洁底线，绝不触碰法律红线。”上海市金山区一位新提拔的干部感慨道。\n近期，上海市金山区组织区内新提拔干部、年轻干部、关键岗位干部等旁听职务犯罪案件庭审。在庭审后的“听庭+谈话”环节，主审法官等专业人员对案件涉及的纪法知识进行深入解读，旁听人员现场分享感悟。\n深入贯彻中央八项规定精神学习教育开展以来，上海各级党组织因地制宜，创新学习教育方式方法：金山区精心构建“旁听庭审—案例剖析—家庭廉洁”三维警示教育体系；上海申通地铁集团纪委以地铁站为特色载体，形成“一角一廊一墙一柱”的廉洁文化阵地等；崇明区纪委监委组建宣讲团，目前深入乡镇等宣讲27场，受众达2300人。\n警钟长鸣，方能行稳致远。上海、山西、海南等地持续推动深入贯彻中央八项规定精神学习教育入脑入心，教育引导党员干部把“眼里的教训”转化为“心里的敬畏”。\n忏悔书、警示片、实景剧……山西省晋城市沁水县以党风廉政教育基地为载体，通过多元形式让学习教育从“会场”走向“现场”，真正触及灵魂、震撼心灵。3月以来，这个基地已累计接待200多个党组织、1万余人次。\n6月15日，海南海口举行现职市领导“家庭式”廉政教育会。当天参会的还有现职市领导的配偶、成年子女及其配偶。与会人员现场开展集体廉政谈话、家庭廉政交流等，以家庭为单位开展家教家风建设讨论，并签订递交《廉洁齐家承诺书》。\n截至目前，海南省“家庭式”廉政教育已覆盖全部市县领导班子、102个省直单位领导干部超3600人。\n真查问题，查真问题\n“小区里电动车多，过去横七竖八地随意摆放。有人为了充电还从家里‘飞线’。现在小区修建了电动车充电棚，新增了100多个充电位，既安全又方便。”山西省晋中市平遥县汇丰社区居民李颖说。\n自深入贯彻中央八项规定精神学习教育启动以来，山西省晋中市组织党员干部进企业、进社区、进村镇，深入基层一线开展调研，重点梳理群众关心的民生问题。山西省太原市则以工作“小切口”推动作风提升，协调解决老旧小区改造、农村道路硬化等民生实事1.26万件。\n查问题要查真问题，要真查问题。上海、山西、海南等地通过持续全面查，找准问题不足，为“因病施治”“对症下药”打下基础。\n上海紧扣中心工作重点任务，紧紧围绕“五个中心”建设、长三角一体化发展等战略任务和解决群众急难愁盼问题、精准惠企利企助企等中心工作，逐一查摆、深入研判。\n海南则确定了领导干部家教家风，违规吃喝，违规收送礼品礼金，公职人员不担当不作为、推诿扯皮，农村集体“三资”监管等5个集中整治项目，从省委层面部署推进。\n“当下改”和“长久立”相结合\n“重复查”“多头查”“随意查”曾是企业面对涉企检查诟病较多的问题。\n上海市司法局系统梳理涉企行政检查相关案件中暴露出来的突出问题，立足91个综合监管重点行业领域，大力推行联合检查。\n“对于‘查什么’‘怎么查’，我们向社会公布重点监管事项清单、‘无事不扰’检查事项清单、随机抽查事项清单等‘三张清单’，助力涉企检查减量提质不扰企。”上海市市场监管局相关负责人说。\n学习教育期间，上海、山西、海南等地坚持“当下改”和“长久立”相结合，推进作风建设常态化、长效化，努力确保集中整治取得实实在在的效果。\n山西省晋城市阳城县聚焦种桑养蚕产业发展中廉洁风险易发频发环节，对每年单列1500余万元专项扶持资金和5000万元产业发展基金使用情况跟进监督。\n此前，海南省东方市一度因村集体土地确权不彻底，并且多由村委会和村民小组负责出租，导致一些村组在土地流转承包过程中产生腐败问题。\n东方市积极开展农村集体“三资”监管问题集中整治，通过搭建东方市农村产权交易中心平台，建立市镇村三级服务体系，打造“流转—办证—贷款”一站式服务窗口等，堵上了农村“三资”管理的漏洞，有效破解土地“流转难、办证难、融资难”问题。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_30997455",
+          "publishedOn": "2025-06-17T14:23:01.000Z",
+          "wordCount": 27,
+          "title": "学在深处、查在细处、改在实处——上海、山西、海南等地扎实推进深入贯彻中央八项规定精神学习教育",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_30998324",
+          "author": null,
+          "description": "当地时间6月17日，总台记者获悉，据当地消息人士的话称，伊朗已经准备好在领导人遇刺的情况下管理敏感部门的计划。\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.site",
+          "link": "https://www.thepaper.cn/newsDetail_forward_30998324",
+          "publishedOn": "2025-06-17T14:23:01.000Z",
+          "wordCount": 27,
+          "title": "伊朗称已准备好领导人遇刺情况下的计划",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_30998466",
+          "author": null,
+          "description": "中国于2027年主办第三届中国－中亚峰会。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_30998466",
+          "publishedOn": "2025-06-17T14:23:01.000Z",
+          "wordCount": 27,
+          "title": "中国于2027年主办第三届中国－中亚峰会",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_30997992",
+          "author": null,
+          "description": "6月17日，北京住总集团有限责任公司发布公告，宣布其2025年面向专业投资者公开发行的可续期公司债券（第一期）发行结果。\n本期债券简称为“25住总Y1”，代码为243106，实际发行规模10亿元，最终票面利率定为2.10%，认购倍数为2.35。\n主承销商中信建投证券股份有限公司和中国国际金融股份有限公司分别认购并获配了1亿元和8000万元。（澎湃新闻记者 李晓青）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_30997992",
+          "publishedOn": "2025-06-17T13:53:03.000Z",
+          "wordCount": 30,
+          "title": "北京住总完成发行10亿元公司债，利率2.10%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_30997990",
+          "author": null,
+          "description": "6月17日，宝能汽车发布声明称，近期，有部分媒体歪曲事实，恶意报道公司及关联公司发布了解散、清算公告，扰乱了网络秩序，侵害了公司的合法声誉。\n宝能汽车方面强调，部分公司虽然在国家信用信息公示平台上显示为“该企业已发布解散公示”、“该企业已发布清算组备案信息”、“该企业正在进行营业执照作废声明”等，但公司一切经营正常，且有新车即将上市。\n此外，宝能汽车表示，虽然部分董事、监事等高级管理人员已离职，但并不影响公司的正常运作和经营，公司一切业务不受任何影响均在正常开展。（澎湃新闻记者 李晓青）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_30997990",
+          "publishedOn": "2025-06-17T13:53:03.000Z",
+          "wordCount": 30,
+          "title": "宝能汽车：公司未被被清算解散，经营正常且新车即将上市",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_30998235",
+          "author": null,
+          "description": "新华社阿斯塔纳6月17日电 弘扬“中国－中亚精神”\n推动地区合作高质量发展\n——在第二届中国－中亚峰会上的主旨发言\n（2025年6月17日，阿斯塔纳）\n中华人民共和国主席 习近平\n尊敬的托卡耶夫总统，\n各位同事，朋友们：\n很高兴来到美丽的阿斯塔纳，和大家共同出席第二届中国－中亚峰会。感谢托卡耶夫总统和哈萨克斯坦政府的热情周到安排。\n两年前，我们相聚中国西安，共同擘画了中国中亚合作的“西安愿景”。我们一起栽下的6棵石榴树，已经花满枝头，象征着六国合作欣欣向荣。\n两年来，中国同中亚国家共建“一带一路”走深走实，贸易额增长35%，产业投资、绿色矿产、科技创新等合作积极推进。中方提供的一揽子金融支持项目正在全面落实。越来越多新能源汽车、光伏等中国产品走进中亚，蜂蜜、水果、小麦、禽肉等中亚农产品丰富了中国老百姓的餐桌。\n两年来，中吉乌铁路项目正式启动，中哈第三条铁路规划稳步推进，中塔公路二期修复进展顺利，中土能源合作稳步开展。越来越多中国城市开通中亚班列，跨里海国际运输走廊提质扩容，绿色产业、数字经济、人工智能、航空航天成为双方合作新的增长点，跨境电商、在线教育等新模式新业态惠及中国和中亚国家广大人民。\n两年来，中国和中亚国家互设文化中心、开设中国高校分校和鲁班工坊等取得进展，中哈、中乌实现互免签证，去年仅中哈人员往来就超过120万人次。中亚国家旅游年、文化年、艺术节在中国广受欢迎，《山海情》、《我的阿勒泰》等中国影视作品走红中亚，中国－中亚人文旅游班列成功开行。今天，我们将见证中国同中亚友城突破100对。\n两年来，中国－中亚机制建立起13个部级合作平台，秘书处全面运行，四梁八柱基本成型。\n我欣喜地看到，从千年古都西安到草原明珠阿斯塔纳，从黄海之滨到里海之畔，从天山南北到帕米尔高原，首届中国－中亚峰会共识全面落地，合作之路越走越宽广，友谊之花越开越灿烂。\n同事们、朋友们！\n我们的合作…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_30998235",
+          "publishedOn": "2025-06-17T13:23:02.000Z",
+          "wordCount": 36,
+          "title": "习近平在第二届中国－中亚峰会上的主旨发言",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_30998224",
+          "author": null,
+          "description": "6月17日，国内期货夜盘开盘涨跌不一，沪金跌0.21%，沪银涨1.08%，沪铜涨0.09%，铁矿跌0.14%，焦煤跌1%，原油涨2.46%，燃油涨1.36%。\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.site",
+          "link": "https://www.thepaper.cn/newsDetail_forward_30998224",
+          "publishedOn": "2025-06-17T13:23:02.000Z",
+          "wordCount": 27,
+          "title": "国内期货夜盘开盘涨跌不一",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_30998231",
+          "author": null,
+          "description": "当地时间6月17日，美国人口普查局公布的数据显示，美国5月零售销售环比下降0.9%，4月前值经修订后为环比下降0.1%。\n此外，当地时间6月17日，美国劳工统计局公布数据显示，美国5月进口价格指数保持不变，出口价格指数环比下降0.9%。（央视新闻）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_30998231",
+          "publishedOn": "2025-06-17T13:23:02.000Z",
+          "wordCount": 28,
+          "title": "美国5月零售销售环比下降0.9%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_30997375",
+          "author": null,
+          "description": "被养母从福利院收养六年后，2014年底，养母再嫁，时年12岁的唐鑫龙，户口从福利院直接迁到继父名下。户口本显示，唐鑫龙系户主“养子”。\n\n2014年唐鑫龙户口迁入唐某户下，显示与户主关系为“养子”。 \n\n\n后来，因在拆迁安置中被归类为“再婚配偶随迁子女”，唐鑫龙只能享受成本价安置。同样70平方米的安置房，相比婚生子，他要多掏6倍的钱。\n唐鑫龙坚持认为“法律上养子和婚生子并无区别”。2025年2月，他将郑州市郑东新区圃田乡人民政府、第三人圃田社区居民委员会告上法庭。3月27日，该案在河南自贸区郑州片区人民法院开庭审理。目前，该案尚未宣判。\n针对该案件，江苏世纪同仁律师事务所陈卓律师分析指出，唐鑫龙和其养母的丈夫间，存在被抚养教育关系。结合多种实际情况，从农村习俗角度看，可以解释为村集体已认可唐鑫龙为养子。因此，相关安置待遇的合理性有待商榷。\n养子被按照“随迁子女”安置\n盖有“郑州市民政局收养登记专用章”的《收养登记证》显示，2008年10月27日，45岁的李某（化名）从郑州市儿童福利院收养了6岁的唐鑫龙。\n“我是小时候养母捡的，后来去福利院办的收养手续。”唐鑫龙告诉澎湃新闻，养母是四川资阳人，收养他时是已婚，后来，养母和前夫离婚。经媒人介绍，2014年9月30日，养母和圃田乡村民、初婚的唐某登记结婚。2014年12月，养母的户口迁到唐某名下。当月，12岁的唐鑫龙户口也从福利院直接迁到唐某的户口。\n户口本显示，唐鑫龙曾用名“李鑫龙”，与户主唐某的关系为“养子”。“我以前随养母的姓，养母再婚后，就改名跟了养父的姓。”唐鑫龙说。\n唐某所在村2015年开始拆迁，其住宅被回购，2018年回迁安置方案出炉。\n\n唐某一家当时被征迁的房屋\n\n\n2018年7月，圃田乡党政办印发《圃田乡回迁安置工作方案》。一个月后，“圃田乡圃田社区回迁安置工作领导小组”依据上述《工作方案》，制定出台《圃田社区回…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_30997375",
+          "publishedOn": "2025-06-17T12:53:02.000Z",
+          "wordCount": 74,
+          "title": "养子购回迁安置房需多付六倍款项？郑州一村民养子诉乡政府主张平等权益",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_30997390",
+          "author": null,
+          "description": "你可以将轿车开到还没有通车的长江大桥上吗？\n你不可以，有人可以。\n近日，IP地址显示为安徽的抖音账号“潘华”上传了一则其在G3铜陵长江公铁大桥上驱车驰骋的短视频。\n网友“潘华”是安徽铜陵地区一个小有名气的网红，在抖音上拥有数万粉丝。\n\n视频画面显示，其和另一人将一辆轿车开上了G3铜陵长江公铁大桥的主桥面。在轿车行驶过程中，其还将整个身子从天窗处伸出，尽情挥舞右手。\n还有多人在同日发布了内容相似的驱车登桥拍摄的照片和视频。\nG3铜陵长江公铁大桥路线全长11.877公里，目前正在修建之中，尚未通车。新闻报道中披露的正式通车时间为今年7月。\n那么问题来了：G3铜陵长江公铁大桥尚未开通，网友“潘华”等人是擅自登桥还是有组织登桥？如果是前者，相关施工方和监管部门有没有尽到阻挡的责任？如果是后者，相关组织者是否涉及滥用特权？\n在网友“潘华”所发布短视频的评论区，已经有不少网友指出其行为有炫耀特权之嫌，并@了相关管理部门，请求介入。\n仔细分析网友“潘华”的抖音短视频及其在评论区与其他网友的“互怼”，问题没那么简单。我仅列出四个疑问。\n第一，网友“潘华”是如何登上正在建设中的大桥的？\n近日，已经有网友通过铜陵12345反映“大桥未开通有人却能驱车登桥”一事。6月17日，铜陵12345经询市交投集团公司，回应相关问题称，“经核查，6月9日大桥荷载试验完成后，确有少数社会车辆不服从管劝，擅自通过施工便道进入桥面。”\n铜陵12345回应称，为严格管控大桥通行秩序，杜绝未通车期间社会车辆违规驶入。\n网友“潘华”等人居然能突破“重重管劝”驱车登桥，是否存在有关管理部门管理不力甚至“故意放水”的嫌疑？\n第二，车辆在行驶过程中是否能够身子探出天窗之外并做挥手动作？\n从网友“潘华”发布的短视频来看，其不仅将机动车开上了正在建设中的公铁大桥，而且还在机动车行驶过程中将整个身子探出了天窗并做挥手动作。\n根据《中华人民共和国道路交通安全法实施条例》第七十七条规定，乘坐机动车应当遵守下列规定：（四）机动车行驶中，不得干扰驾驶，不得将身体任何部分伸出车外，不得跳车。\n\n根据这一规定，在机动车行驶中，网友“潘华”将“整个身体深处车外”，属于明显的违法行为。有关执法部门应该对其进行相应的处罚。\n第三，党建活动什么时候可以变成炫耀行为？\n\n网友“潘华”的短视频发布后，有网友对其行为的正当性与合法性提出质疑，潘华回复称驱车登桥是“党建活动”，并表示“党员必须要带头参加宣传”。\n党建活动是一项严肃的政治行为，是对每一个参加党员的心灵洗礼。但是从网友“潘华”回复网友的文字当中完全感受不到任何严肃性，只有炫耀特权的意味。\n\n网友“潘华”所在党组织是否组织了这次驱车登桥的党建活动？在正在建设中的公铁大桥上开展党建活动是否合适？此次党建活动是否经过了周密的论证？\n党建活动绝不是个别人肆意炫耀的“挡箭牌”。\n第四，网友公然挑战交警的行为是否应该认真查处？\n在网友“潘华”发布的短视频评论区，有网友@铜陵公安交警，请铜陵交警部门管一管这种“太猖狂”的行为。\n\n网友“潘华”对此回复道：“管不了。”还附上了龇牙笑脸。\n通过以上分析可以看出，网友“潘华”驱车登上正在建设中的G3铜陵长江公铁大桥，属于明显的交通违法行为，违反了《中华人民共和国道路交通安全法》和《关于严禁非施工车辆及人员进入G3铜陵长江公铁大桥施工区域的公告》。铜陵交警部门不但能管，更应该管。\n近年来，一些网红为了流量，不择手段，毫无敬畏感，对法律法规视若无物。铜陵官方应彻查此次G3铜陵长江公铁大桥炫耀事件真相，依法依规处理。\n网红不能自外于法律。\n（作者陈良飞系澎湃新闻政治新闻部总监、港澳台新闻部总监，高级记者）\n\n设计：王璐瑶",
+          "link": "https://www.thepaper.cn/newsDetail_forward_30997390",
+          "publishedOn": "2025-06-17T12:23:02.000Z",
+          "wordCount": 86,
+          "title": "言短意长｜铜陵官方应彻查G3公铁大桥炫耀事件",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_30997500",
+          "author": null,
+          "description": "6月16日，湖南省常德市临澧县山洲烟花有限责任公司发生爆炸事故，目前已造成9人死亡、26人受伤。\n为深刻吸取事故教训，防范同类事故再次发生，国务院安委会办公室决定对该起事故查处实行挂牌督办，要求按照《生产安全事故报告和调查处理条例》等有关法律法规及规章规定，抓紧组织开展事故调查，尽快查明事故原因，依法依规问责。\n\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.site",
+          "link": "https://www.thepaper.cn/newsDetail_forward_30997500",
+          "publishedOn": "2025-06-17T12:23:02.000Z",
+          "wordCount": 28,
+          "title": "国务院安委会对湖南常德山洲烟花有限责任公司爆炸事故查处挂牌督办",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_30994807",
+          "author": null,
+          "description": "“达州教育”微信公号6月17日消息，四川达州严肃查处一起中考体育考试违规事件。通报全文如下：\n近日，我市在组织高中阶段学校招生考试过程中，经同场考生举报，发现并处置一起体育考试违规事件。\n经调阅考试现场录像视频，并向监考教师和参考学生调查核实，3名监考教师违规为孟姓学生在4项体考项目中的“引体向上”和“排球发球”项目取得高分成绩。为维护考试公平，严肃考风考纪，我局已按规定对该考生此次体育考试总成绩作“0”分处理。按照《事业单位工作人员处分规定》《四川省中小学教师违反职业道德行为处理实施细则》，对胡某、李某、何某3名监考教师给予行政职务免职和记过处分。\n体育考试是中考的重要组成部分，公平公正极度重要。任何违规扰乱、阻碍、影响中考组考的行为都必须得到严肃惩处。我们将坚持“零容忍”的态度，坚决打击考试过程中出现的违纪违规行为，坚决确保考试公平、群众公认、社会公信。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_30994807",
+          "publishedOn": "2025-06-17T12:23:02.000Z",
+          "wordCount": 28,
+          "title": "中考体育三名监考教师助一考生舞弊，四川达州通报：免职、记过",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_30997550",
+          "author": null,
+          "description": "当地时间6月17日，总台记者获悉，据伊朗通信管理局声明称，禁止所有政府部门、安全部门人员使用连接到开放通信网络的移动设备。（央视新闻）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_30997550",
+          "publishedOn": "2025-06-17T12:23:02.000Z",
+          "wordCount": 27,
+          "title": "伊朗禁止政府及安全部门人员移动设备连接开放网络",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_30997577",
+          "author": null,
+          "description": "6月16日，浙江民营企业传化集团董事长徐冠巨受邀出席2025亚洲能源论坛并演讲。徐冠巨表示，传化在众多产业链、供应链中都扮演不可或缺的角色，从过去服务纺织、造纸、塑料、建筑建材等轻工行业，到今天服务光伏太阳能、新能源汽车、高铁、芯片半导体等新兴产业，传化依靠科技创新实现跨越发展，同时成为新能源转型的推动力量之一。\n他尤其谈到，科技创新是能源转型的关键，特别是终端应用创新蕴含着巨大价值。“过去，我们靠能源、市场和成本优势快速成长，今天的中国，不仅有大规模的市场，更有大批的创新企业，传化是其中一员。”徐冠巨强调，传化把科技创新放在首位，坚持在功能化学品和新材料领域攻关新技术、新产品，提高能源和产品价值，迈向全球产业链的中高端。\n传化成立于1986年，陆续布局传化化学、新安化工、传化物流、传化科技城、传化农业等业务，下属传化智联和新安股份两家上市公司。（澎湃新闻记者 贺梨萍）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_30997577",
+          "publishedOn": "2025-06-17T12:23:02.000Z",
+          "wordCount": 29,
+          "title": "传化集团董事长徐冠巨：依靠科技创新成为新能源转型的推动力量之一",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_30997429",
+          "author": null,
+          "description": "当地时间6月17日，国家主席习近平在阿斯塔纳出席第二届中国－中亚峰会期间会见乌兹别克斯坦总统米尔济约耶夫。两国元首就当前中东局势交换意见。\n习近平表示，以色列发动对伊朗军事行动，造成中东地区紧张局势骤然加剧，中方对此深感担忧。我们反对任何侵犯别国主权安全和领土完整的行为。军事冲突不是解决问题之道，地区局势升温不符合国际社会共同利益。各方应该推动冲突尽快降温，避免紧张事态进一步升级。中方愿同各方一道努力，为恢复中东地区和平稳定发挥建设性作用。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_30997429",
+          "publishedOn": "2025-06-17T11:53:03.000Z",
+          "wordCount": 28,
+          "title": "习近平：各方应该推动中东局势尽快降温",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_30997458",
+          "author": null,
+          "description": "当地时间6月17日，以色列国防部长卡茨发表声明称，以军已摧毁了伊朗纳坦兹核设施的中心区域，并计划摧毁伊朗核计划的所有基础设施。以方将继续针对伊朗军事领导人、核计划和导弹系统。\n以军计划17日晚袭击德黑兰的“重要目标”，“以方将对任何重启伊朗核计划的企图作出回应。”（央视新闻）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_30997458",
+          "publishedOn": "2025-06-17T11:53:03.000Z",
+          "wordCount": 27,
+          "title": "以防长：以军今晚计划袭击德黑兰的“重要目标”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_30997459",
+          "author": null,
+          "description": "当地时间6月17日，卡塔尔外交部发言人马吉德·安萨里表示，卡塔尔正在努力推动伊朗与美国就伊朗核问题恢复谈判，并化解伊朗与以色列之间的军事冲突。\n安萨里说，中东地区无法承受危机继续升级，卡塔尔正与地区伙伴一道，寻求缓和当前紧张局势。他强调，谈判是化解危机的唯一路径，卡塔尔与地区国家正在进行一切可能的外交接触，旨在推动伊朗与美国恢复谈判，并最终就伊朗核问题达成协议，同时推动伊朗与以色列停止当前军事冲突。\n安萨里还表示，卡塔尔还在继续努力推动在加沙地带实现停火，但伊朗与以色列之间的军事冲突正在阻碍加沙停火协议的达成。（央视新闻）\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.site",
+          "link": "https://www.thepaper.cn/newsDetail_forward_30997459",
+          "publishedOn": "2025-06-17T11:53:02.000Z",
+          "wordCount": 28,
+          "title": "卡塔尔外交部：卡方正努力推动伊朗与美国恢复核谈判",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_30996428",
+          "author": null,
+          "description": "中华传统文化根脉如何与现代科技巧妙结合，海峡两岸青年又如何碰撞出文化和声？\n近日，在厦门举行的海峡青年论坛现场，两岸青年已经给出积极而清晰的答案。\n“海峡捧出黎明第一缕光，原乡人接过先祖的船桨……千年根系连成骨血铿锵，浪尖相拥何惧暗潮冲撞。”\n这是一首由大陆和台湾青年以关键词实现“共创”，最后AI即时生成的歌曲，仅用几分钟完成的作品，却承载了两岸青年共同的文化认同与殷切期盼，并引发现场与会者情感共鸣。\n“现在大陆科技简直太先进了。”台湾青年陈舒（化名）对澎湃新闻称，他已连续三年参加海峡青年论坛，特别喜欢听两岸青年坐在一起分享彼此的工作和生活。\n“每次都让我学到新的知识，感受到时代的进步。”陈舒称，不只是科技进步让台湾青年惊讶，大陆文化IP也在台湾深入人心；从此前大陆影视剧《甄嬛传》《琅琊榜》《繁花》和《庆余年》，到今年初风靡全球的《哪吒2》、《黑神话：悟空》，包括近期在台北上映的《长安三万里》闽南语版，两岸年轻一代正在形成新的文化沟通方式。\n作为《长安三万里》的台湾发行方，春晖映像有限公司创始人陈俊荣难掩激动，他说有位台中的观众专程驱车至台北观影，乃至还有在北京工作的台湾青年，特地飞回台湾来观看，最不可思议的是在社交媒体上收获数千条评论，却“无一差评”。\n从2003年创办以来，海峡青年论坛不断用各种形式的活动构架起两岸青年交流的桥梁，迄今已成功举办二十三届，见证了两岸青年的共同成长和融合发展的历程。\n今年，参加论坛的两岸青年约470名，其中330名台湾青年，这充分说明两岸年轻一代强烈的沟通意愿。\n“这就是两岸共同的文化根脉，任何力量都难以分割。”陈舒称。\n\n《哪吒2》艺术总监王毅在海峡青年论坛，讲述自己的创作之路。 主办方 供图\n\n\n“华流才是顶流”\n共同的汉字、习俗和民间故事，既是两岸最深的文化血脉，更是共同的身份见证。\n王毅是本届海峡青年论坛的受邀嘉宾，他负责向在场两岸…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_30996428",
+          "publishedOn": "2025-06-17T11:23:02.000Z",
+          "wordCount": 100,
+          "title": "特写｜两岸青年用文化叩醒血脉记忆，打捞被割裂的温情与敬意",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_30997218",
+          "author": null,
+          "description": "“我叫张璐，来自中国科学院空间应用工程与技术中心，我是一名85后的航天人，非常有幸，2014年我加入了中国载人航天工程空间应用系统工作。”6月17日，中国载人航天工程空间应用系统总指挥助理、中国科学院空间应用工程与技术中心研究员张璐在国新办举行的“新征程上的奋斗者”中外记者见面会上作自我介绍。\n过去十余年来，张璐一直在一线从事空间站应用系统的总体设计和科学载荷研制工作。“大家可能会关心，空间应用系统是干什么的？空间应用系统就是利用太空的特殊环境，开展科学研究和相应的应用验证。”\n见面会现场张璐向现场的媒体展示了核心舱科学实验柜的模型——无容器材料科学实验柜，“这也是我们最早上天的科学实验柜之一，真实的柜子比这个大得多，大概有1.8米的高度。我们的目标就是要将地面上各类学科的综合性实验室搬到太空里去，放进这么一个不到2立方米的实验柜内，支持科学家开展相关的科学和应用研究。”\n张璐介绍，实验柜突破了一系列关键技术，包括轻量化的、大承载的结构动力学设计等，让实验柜的承载比达到国际空间站的2倍以上，这意味着可以用最小的承载代价搭载更多的科学载荷上天，来满足科学家未来十年科学研究的需求。\n会上澎湃新闻记者提问：作为“85后”的航天青年代表，您觉得青年一代如何在建设航天强国的实践中快速成长？如何跑好新时代的历史接力棒？\n\n澎湃新闻记者提问。\n\n\n张璐表示，我一直认为，载人航天工程能够快速发展的最大的优势之一，就是咱们的队伍年轻。我是2012年参与载人航天工程相关工作的，当时我们的平均年龄大概是在27岁-28岁。最近我统计了一下，虽然十几年过去了，我们的平均年龄也就32岁，我们有不断的新生的青年力量加入到载人航天工作中来。\n张璐回忆，2012年，我博士毕业的时候，刚好赶上整个空间站论证的时期，作为我国首个空间站的参与者，我觉得这是一种莫大的荣耀。当个人科技报国的想法符合国家重大战略需求的时候，你更能体会到航天工作的重要性和意义。当看到我们设计的图纸变成了空间站里面一个个支持各种实验的重大科学设施、变成国之重器的时候，我也更加深刻体会到将个人奋斗融入国家事业里面的意义。\n“到现在为止，我都一直印象深刻，在核心舱发射以后，当我再一次在大屏里面看到阔别几个月的实验柜出现在我面前的时候，我第一次感觉到幸福感具象化了。正是这种‘心系国家事、肩扛国家责’的信念和使命感，让我们一直以主人公的精神投入到工程研制里面来，也督促我们快速成长。”张璐说。\n张璐提到，在成长过程中正是因为有老一辈航天人的“传帮带”，“老一辈航天人严慎细实的工作作风，一直激励着我们，让我们全身心地投入到工作里面去。我们的顾逸东院士将近80岁了，现在依然坚守在工作一线。他经常告诫我，做工作一定要秉持如履薄冰、如临深渊的风险意识，要求我们要有高度的责任心和钉钉子的精神，要反复验证、精益求精，这样才能把工作做好、做到位。也正是在载人航天精神的感召下，在老一辈航天人的引领下，我们青年人才能够快速成长，为实现中国航天强国梦贡献我们的青春力量。”\n张璐发言中不无感慨，这十年来也得益于载人航天事业快速发展，我自己从一个博士毕业生成长为了博士生导师，从一名一线的设计师成长为空间应用系统的总指挥助理。这十年来，我们全程参与并且见证了整个空间科学和应用从“跟跑到领跑”的全过程，我们的团队也获得了“中国青年五四奖章集体”、“中国科学院年度团队”等荣誉，现阶段我们最重要、最核心的任务就是要“用好、发展好”我们的空间站，要实现“造船为建站，建站为应用”的目标，我们要和广大的优秀科学家一道，共同探索浩瀚宇宙的奥秘，去实现我们航天强国的梦想。\n谈到航天人的奋斗精神，张璐直言，当年先辈们在戈壁滩“干惊天动地事、做隐姓埋名人”，干成了“两弹一星”。现在我们年轻一代建成了空间站，正在实施载人月球探测任务。我认为，“自力更生、艰苦奋斗”正是一代又一代航天人传承的精神密码。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_30997218",
+          "publishedOn": "2025-06-17T11:23:02.000Z",
+          "wordCount": 36,
+          "title": "85后航天人张璐答澎湃：“自力更生、艰苦奋斗”是航天人传承的精神密码",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_30997363",
+          "author": null,
+          "description": "新华社快讯：国家主席习近平出席第二届中国－中亚峰会。\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.site",
+          "link": "https://www.thepaper.cn/newsDetail_forward_30997363",
+          "publishedOn": "2025-06-17T11:23:02.000Z",
+          "wordCount": 28,
+          "title": "国家主席习近平出席第二届中国－中亚峰会",
+          "imageUrl": null
+        },
         {
           "id": "https://www.thepaper.cn/newsDetail_forward_30996223",
           "author": null,
@@ -10408,36 +10588,6 @@
           "wordCount": 31,
           "title": "武汉警方通报一起故意伤害案件：1人死亡，嫌疑人已被抓获",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_30840050",
-          "author": null,
-          "description": "江西萍乡市生态环境保护委员会5月19日发布情况通报：2025年5月18日晚，央视《财经调查》栏目报道反映了萍乡市湘东区、安源区在工业固废、建筑垃圾、生活垃圾处理方面存在的问题。市委、市政府高度重视，当晚即召开专题会议，研究部署相关工作。决定立即由生态环境、城管、住建、公安和纪检监察等部门组成联合调查组，对报道反映的问题依法依规依纪、实事求是调查处理。同时，举一反三，制定工作方案，对全市工业固废、建筑垃圾、生活垃圾处理存在的问题进行全面排查，开展专项整治，坚决遏增量、消存量。针对专项整治中发现的工作短板、薄弱环节，有针对性地制定措施，进一步健全完善常态化治理机制。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_30840050",
-          "publishedOn": "2025-05-19T04:23:03.000Z",
-          "wordCount": 53,
-          "title": "被央视曝光“废旧厂区沦为垃圾山”，江西萍乡成立调查组查处",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_30837581",
-          "author": null,
-          "description": "据复旦大学5月18日消息，当日下午，复旦大学谢希德-俞吾金哲学发展基金（第二期）捐赠签约仪式举行。一位热心的复旦校友为基金捐赠1亿元，支持哲学学科发展，却不留名出名，不图回报。\n复旦哲学是新中国成立后国内最早的三家哲学系之一，1956年哲学系成立，2006年哲学学院成立。2016年，哲学建系60周年、建院10周年之际，捐赠人出资3000万发起谢希德-俞吾金哲学发展基金，支持学院的学术建设与人才培养。\n谢希德是复旦大学老校长、半导体之母，俞吾金则是复旦大学文科资深教授、哲学界著名学者，两位大师名声远扬，桃李天下。\n捐赠人表示，设立该基金是表达对谢希德校长和俞吾金教授的敬意，表达对人文精神和哲学事业的尊崇，同时也是对复旦哲学学科的发展寄予厚望重托。\n创立九年来，基金支持了学院优化学科布局，延揽顶尖人才，推动重大原创性研究成果涌现，集聚一流哲学学子。近年，复旦哲学先后成立国内首个科学哲学与逻辑学系、艺术哲学系，形成了具有复旦特色的哲学学科体系。2024年11月，《俞吾金全集》（二十卷）发布，在复旦哲学学术共同体建设方面具有里程碑式的意义。\n5月17日，谢希德-俞吾金哲学发展基金再添1亿元捐赠。复旦大学党委书记裘新表示，哲学作为复旦文科的一面旗帜，更要在新文科创新建设上打头阵、当尖兵，用好基金，强老根、发新枝，在中国式现代化的复旦篇章中书写璀璨一笔。希望哲学学科善出新的成果，善发新的思想，善育新的人才。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_30837581",
-          "publishedOn": "2025-05-19T04:23:03.000Z",
-          "wordCount": 29,
-          "title": "复旦一校友捐赠1亿元，却不留名",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_30840082",
-          "author": null,
-          "description": "18日7时许，广东茂名高州市荷花镇平头岗村因强降雨致山体滑坡。记者19日上午在事故救援现场了解到，共有7人被困，已搜救出6人。截至目前，有3人经抢救无效死亡，3人正在接受治疗无生命危险，仍有1人失联。\n记者在现场看到，受灾地为一处三层自建房，一层和二层楼体背部已被冲破，楼房前累积起大量淤泥，楼房大门已被冲至数十米远。\n据高州市应急管理局工作人员介绍，此次损毁自建房非削坡建房点、非在册地质灾害隐患点，塌方点在自建房屋后约20米处，初步估计塌方量约6000立方米。接报后，茂名、高州两级迅速组织公安、消防、应急、医疗等现场救援力量140余人前往搜救。目前，剩余失联1人正在全力搜救中。（@新华社）",
-          "link": "https://www.thepaper.cn/newsDetail_forward_30840082",
-          "publishedOn": "2025-05-19T04:23:03.000Z",
-          "wordCount": 27,
-          "title": "广东茂名高州市山体滑坡已致3死1失联，搜救仍在继续",
-          "imageUrl": null
         }
       ]
     },
@@ -10446,6 +10596,76 @@
       "feedUrl": "https://www.nationalreview.com/feed/",
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
+        {
+          "id": "https://www.nationalreview.com/?p=1846759",
+          "author": "Noah Rothman",
+          "description": "Their denial about the reality of Iran’s nuclear program has opened a rift with Trump.",
+          "link": "https://www.nationalreview.com/2025/06/tulsi-and-tucker-get-thrown-under-the-maga-bus/",
+          "publishedOn": "2025-06-17T16:22:02.000Z",
+          "wordCount": null,
+          "title": "Tulsi and Tucker Get Thrown Under the MAGA Bus",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1846699",
+          "author": "The Editors",
+          "description": "We don’t have the wherewithal — neither the ICE agents nor the detention space — to effect a ‘mass deportation.’",
+          "link": "https://www.nationalreview.com/2025/06/strong-workforce-enforcement-is-the-key-to-combating-illegal-immigration/",
+          "publishedOn": "2025-06-17T14:57:27.000Z",
+          "wordCount": null,
+          "title": "Strong Workforce Enforcement Is the Key to Combating Illegal Immigration",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1846660",
+          "author": "Andrew C. McCarthy",
+          "description": "To negotiate when our strategic objective is within our grasp risks failing to achieve it.",
+          "link": "https://www.nationalreview.com/2025/06/the-point-is-to-end-the-iran-nuclear-threat-not-to-secure-a-deal/",
+          "publishedOn": "2025-06-17T13:59:26.000Z",
+          "wordCount": null,
+          "title": "The Point Is to End the Iran Nuclear Threat, Not to Secure a ‘Deal’",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1846501",
+          "author": "Tony Morley",
+          "description": "Policies that hinder globalization and reduce trade are policies that decrease global prosperity and increase global poverty.",
+          "link": "https://www.nationalreview.com/2025/06/factories-of-progress/",
+          "publishedOn": "2025-06-17T10:30:41.000Z",
+          "wordCount": null,
+          "title": "Factories of Progress",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1846506",
+          "author": "Rich Lowry",
+          "description": "The face mask is now part of the kit of rioters, as useful, indispensable, and emblematic as a Klansman’s white hood.",
+          "link": "https://www.nationalreview.com/2025/06/the-rioters-white-hood/",
+          "publishedOn": "2025-06-17T10:30:34.000Z",
+          "wordCount": null,
+          "title": "The Rioter’s White Hood",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1846487",
+          "author": "John Gerardi",
+          "description": "A dramatic showdown with Trump is Gavin Newsom’s only remaining path to the 2028 Democratic nomination — and relevance.",
+          "link": "https://www.nationalreview.com/2025/06/gavins-last-gasp/",
+          "publishedOn": "2025-06-17T10:30:32.000Z",
+          "wordCount": null,
+          "title": "Gavin’s Last Gasp",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1846449",
+          "author": "Dan McLaughlin",
+          "description": "For one bloody day, New England militia were the nation’s first army.",
+          "link": "https://www.nationalreview.com/2025/06/bunker-hill-the-battle-that-made-america-possible/",
+          "publishedOn": "2025-06-17T10:30:29.000Z",
+          "wordCount": null,
+          "title": "Bunker Hill: The Battle That Made America Possible",
+          "imageUrl": null
+        },
         {
           "id": "https://www.nationalreview.com/?p=1846439",
           "author": "Andrew C. McCarthy",
@@ -12465,16 +12685,6 @@
           "wordCount": null,
           "title": "Pope Leo XIV: A Love Story",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1836407",
-          "author": "John Fund",
-          "description": "We need congressional hearings to learn the full story.",
-          "link": "https://www.nationalreview.com/2025/05/why-the-biden-health-cover-up-really-matters/",
-          "publishedOn": "2025-05-18T20:10:15.000Z",
-          "wordCount": null,
-          "title": "Why the Biden Health Cover-Up Really Matters",
-          "imageUrl": null
         }
       ]
     },
@@ -12483,6 +12693,36 @@
       "feedUrl": "https://sspai.com/feed",
       "siteUrl": "https://sspai.com",
       "articles": [
+        {
+          "id": "https://sspai.com/post/100333",
+          "author": "Matrix机器人",
+          "description": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。🔥一周热评来 ...查看全文",
+          "link": "https://sspai.com/post/100333",
+          "publishedOn": "2025-06-17T09:36:00.000Z",
+          "wordCount": 1198,
+          "title": "社区速递 097 | 派友的WWDC观、你没见过的社区文章、一周最热评",
+          "imageUrl": "https://cdnfile.sspai.com/6/17/2025/article/4c57b4eb-332a-06a9-a5ee-c1cad09c7b07.png"
+        },
+        {
+          "id": "https://sspai.com/post/100271",
+          "author": "张奕源Nick",
+          "description": "作为布局未来的重要基石，AppleVisionPro自诞生以来就主导着Apple产品的设计方向。在本届WWDC开幕式keynote上，尽管单独属于visionOS26的篇幅不算长，但整个发布会都可以算 ...查看全文",
+          "link": "https://sspai.com/post/100271",
+          "publishedOn": "2025-06-17T07:38:11.000Z",
+          "wordCount": 757,
+          "title": "具透 | 体验更沉浸，表达更自我：visionOS 26 值得关注的新特性",
+          "imageUrl": "https://cdnfile.sspai.com/2025/6/17/article/c3654bc1-3d89-17f7-094d-a7000a2598cc.gif"
+        },
+        {
+          "id": "https://sspai.com/post/92561",
+          "author": "水獭Store",
+          "description": "上周，我们正式向大家介绍了Slice#00200开箱刀的「拆獭」特别版，这把独特的小刀通过特殊的陶瓷刀刃结构设计，在保证开箱能力的前提下，有效降低因操作失误导致的划伤。不但做到比传统的刀片安全，还能干 ...查看全文",
+          "link": "https://sspai.com/post/92561",
+          "publishedOn": "2025-06-17T07:11:00.000Z",
+          "wordCount": 634,
+          "title": "618 限时特惠：不割手、带着走的「拆獭」开箱刀",
+          "imageUrl": "https://cdnfile.sspai.com/2024/9/26/article/e2e7b233-f7a4-faa9-8e54-c07a6a2ed04f.jpeg"
+        },
         {
           "id": "https://sspai.com/post/99311",
           "author": "littlelove",
@@ -13562,26 +13802,6 @@
           "wordCount": 759,
           "title": "利器善事，用 FOLO 和语鲸打造个人信息流",
           "imageUrl": "https://cdnfile.sspai.com/2025/5/19/article/efc6f709-3232-eb55-aeba-a880bd7c7f3f.png"
-        },
-        {
-          "id": "https://sspai.com/post/99156",
-          "author": "Victor_42",
-          "description": "AI 是柔性的、随机的，传统手段是刚性的、确定的，这两者结合起来用，就像建造一尊大型泥塑。全都用泥，整体软趴趴很难成型，但如果往一个木芯上面糊泥巴，则既稳固，又有细节。查看全文",
-          "link": "https://sspai.com/post/99156",
-          "publishedOn": "2025-05-19T03:23:12.000Z",
-          "wordCount": 1242,
-          "title": "「卖 AI 图」从开单到金盆洗手：谋事靠智能，成事还看人",
-          "imageUrl": "https://cdnfile.sspai.com/2025/05/13/2406ec403aca0a7abeb1fc2045b02536.jpeg"
-        },
-        {
-          "id": "https://sspai.com/post/99349",
-          "author": "少数派编辑部",
-          "description": "你可能错过的新鲜事OpenAI发布编程助理Codex5月16日，OpenAI宣布在ChatGPT中推出AI编程助手Codex的研究预览版。Codex由专为软件工程优化的codex-1模型驱动，该模型基 ...查看全文",
-          "link": "https://sspai.com/post/99349",
-          "publishedOn": "2025-05-19T00:56:52.000Z",
-          "wordCount": 885,
-          "title": "派早报：OpenAI 发布编程助理 Codex",
-          "imageUrl": "https://cdnfile.sspai.com/5/19/2025/article/aab6f1c2-f4d5-bfe9-ecc6-d99f00aaceda.png"
         }
       ]
     },
@@ -13590,6 +13810,104 @@
       "feedUrl": "https://plink.anyfeeder.com/idaily/today",
       "siteUrl": "https://idai.ly",
       "articles": [
+        {
+          "id": "idaily-231226",
+          "author": "中国 · 北京",
+          "description": "故宫博物院太和殿倒映在雨后的积水上。6月16日，中国国家统计局公布数据显示2025年5月全国规模以上工业增加值同比增长5.8%，继续保持较快增长；社会消费品零售总额同比增长6.4%，创下2023年12月以来最快增速；70个大中城市二手住宅销售价格指数均录得同比下跌，房地产开发景气指数为93.72，处于较低景气水平。世界银行新版《全球经济展望》报告维持对中国2025年 GDP 增长4.5%预期不变。摄影师：iDaily Media",
+          "link": "https://m.idai.ly/se/de3i3Q",
+          "publishedOn": "2025-06-17T09:59:00.000Z",
+          "wordCount": 258,
+          "title": "中国规上工业增长5.8% - June 17, 2025",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/618dcfa4/e797b5aa.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/618dcfa4/e797b5aa.jpg"
+        },
+        {
+          "id": "idaily-231225",
+          "author": "加拿大 · 卡纳纳斯基斯",
+          "description": "第51届七国集团（G7）峰会在加拿大艾伯塔省举行。6月16日，七国集团峰会首日聚焦讨论贸易关税、俄乌冲突、中东局势等议题。美国总统 Donald Trump 当天向媒体表示「俄罗斯被踢出八国集团是一个重大错误」，并称不介意中国加入G7。七国集团领导人针对以色列伊朗冲突发表联合声明，强调伊朗是造成中东地区不稳定的根源，重申支持以色列自卫权与安全。美国总统 Trump 在本次G7峰会未达成新的贸易协议，目前已提前1天返回美国。摄影师：Stefan Rousseau",
+          "link": "https://m.idai.ly/se/d17Px8",
+          "publishedOn": "2025-06-17T09:58:00.000Z",
+          "wordCount": 258,
+          "title": "第51届七国集团峰会 - June 17, 2025",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/35b6cd44/5bfefca3.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/35b6cd44/5bfefca3.jpg"
+        },
+        {
+          "id": "idaily-231223",
+          "author": "哈萨克斯坦 · 阿斯塔纳",
+          "description": "哈萨克斯坦总统 Kassym-Jomart Tokayev 亲赴机场迎接到访的中国国家主席习近平，阿斯塔纳。6月16日，中国国家主席习近平应邀访问哈萨克斯坦并出席第2届中国-中亚峰会，两国元首就中哈关系、经贸合作等议题交换意见，见证签署10余份合作文件。习近平表示中方始终从战略高度和长远角度看待和发展中哈关系。哈总统 Tokayev 强调中国是哈萨克斯坦的友好邻邦、亲密朋友和可信赖伙伴，愿同中方深化战略互信和全方位互利合作，提升两国关系至新水平。中国是哈萨克斯坦最大贸易伙伴，2024年中哈双边贸易额达到创纪录的438亿美元，同比增长6.8%。摄影师：Kazakhstan’s Presidential Press Office",
+          "link": "https://m.idai.ly/se/d13bUG",
+          "publishedOn": "2025-06-17T09:57:00.000Z",
+          "wordCount": 258,
+          "title": "习近平访问哈萨克斯坦 - June 17, 2025",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/f66b1346/7a9dbce3.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/f66b1346/7a9dbce3.jpg"
+        },
+        {
+          "id": "idaily-231220",
+          "author": "法国 · 巴黎",
+          "description": "法国总理 Francois Bayrou 参观第55届巴黎国际航空航天展，勒布尔歇机场。6月16日，2025年巴黎航展正式开幕，本年度共有来自48个国家和地区的逾2400家企业参展，展区面积达70公顷，时间持续至6月22日。中国航空工业集团本次巴黎航展共呈现8大类30项重点航空产品，包括歼-10CE、歼-20、歼-35A、「翼龙」系列、运-20运输机等重点产品，其中歼-35A为首次海外展出。摄影师：Alain Jocard",
+          "link": "https://m.idai.ly/se/7afLEp",
+          "publishedOn": "2025-06-17T09:55:00.000Z",
+          "wordCount": 258,
+          "title": "第55届巴黎航展开幕 - June 17, 2025",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/8a7527b7/06ecd134.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/8a7527b7/06ecd134.jpg"
+        },
+        {
+          "id": "idaily-231219",
+          "author": "以色列 · 特拉维夫",
+          "description": "以色列「铁穹」防空系统拦截伊朗导弹空袭，特拉维夫。6月17日，以色列与伊朗空袭交火进入第5天，以色列国防军宣布击毙伊朗最高军事指挥官 Ali Shadmani，宣称已摧毁伊朗三分之一导弹发射器。沙特、埃及、土耳其、巴基斯坦、阿联酋、利比亚等21个阿拉伯和穆斯林国家外长当天发表联合声明，对以伊局势危险升级表示严重关切，谴责以色列对伊朗领土袭击违反国际法，敦促以色列立即停止对伊敌对行动，全面缓和局势并通过外交途径解决争端。摄影师：Leo Correa",
+          "link": "https://m.idai.ly/se/6bfJm8",
+          "publishedOn": "2025-06-17T09:53:00.000Z",
+          "wordCount": 258,
+          "title": "以色列伊朗持续空袭交火 - June 17, 2025",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/ba1da0ef/8c36bace.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/ba1da0ef/8c36bace.jpg"
+        },
+        {
+          "id": "idaily-231218",
+          "author": "中国 · 成都",
+          "description": "一台智能人形机器人正在街道上维持交通秩序，四川省成都市。6月16日，成都市开展首批智能机器人实景验证，共有来自10家企业的16款机器人产品参加。这批机器人将在东御街88号、红星路、天府广场、泡桐树小学、武侯祠5个点位进行实景测试，验证项目包括交通指挥、智慧教育、文旅服务、治安巡逻、安全指引等。中国前瞻产业研究院报告预测2025年中国人形机器人市场规模将达到53亿元人民币，同比增长92%。摄影师：iDaily Media",
+          "link": "https://m.idai.ly/se/6563X6",
+          "publishedOn": "2025-06-17T09:51:00.000Z",
+          "wordCount": 258,
+          "title": "成都机器人实景验证 - June 17, 2025",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/01c56c86/1e3ff13e.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/01c56c86/1e3ff13e.jpg"
+        },
+        {
+          "id": "idaily-231217",
+          "author": "瑞士 · 巴塞尔",
+          "description": "2025年瑞士巴塞尔艺术展，一件德国艺术家 Martin Kippenberger 的装置作品《地铁网，可移动地铁入口》正在展出。本届瑞士巴塞尔艺术展从6月16日持续至22日，共有来自42个国家和地区的289家艺术机构参展，呈现超过4000位艺术家的作品。巴塞尔艺术展市场报告显示2024年全球艺术品销售额为575亿美元，同比下跌-12%，美国保持全球第一大艺术市场地位，份额占比达43%，英国以18%排名第二，中国以15%排名第三。摄影师：Georgios Kefalas",
+          "link": "https://m.idai.ly/se/469Hhg",
+          "publishedOn": "2025-06-17T09:49:00.000Z",
+          "wordCount": 258,
+          "title": "瑞士巴塞尔艺术展开幕 - June 17, 2025",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/7684a711/8d6f7ce2.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/7684a711/8d6f7ce2.jpg"
+        },
         {
           "id": "idaily-231206",
           "author": "中国 · 温州",
@@ -15992,6 +16310,36 @@
       "siteUrl": "http://nytimes.com",
       "articles": [
         {
+          "id": "https://cn.nytimes.com/business/20250617/tariffs-china-exports/dual",
+          "author": null,
+          "description": "艾莎2025年6月17日中国重庆的航运码头，这里是连接中国与东南亚国家贸易航线的枢纽。 Gilles Sabrié for The New York Times\nTwo decades ago, China shocked the United States with its ability to make and ship things fast and inexpensively on a scale never before seen. The resulting surge of exports reshaped America’s economy and its politics.\n20年前，中国以其前所未有的快速、廉价的制造和运输能力震惊了美国。由此产生的出口激增重塑了美国的经济和政治。\nToday, a new China shock is cascading across the globe from Indonesia to Germany to Brazil.\n如今，从印度尼西亚到德国再到巴西，一场新的中国冲击正在席卷全球。\nAs President Trump’s tariffs start to shut China out of the United States, its biggest market, Chinese factories are sending their toys, cars and shoes to other countries at a pace that is reshaping economies and geopolitics.\n随着特朗普总统的关税开始将中国挡在其最大市场美国之外，中国工厂正以一种正在重塑经济和地缘政治的速度将玩具、汽车和鞋子运往其他国家。\nThis year so far, China’s tr…",
+          "link": "https://cn.nytimes.com/business/20250617/tariffs-china-exports/dual",
+          "publishedOn": "2025-06-17T08:36:01.000Z",
+          "wordCount": 1278,
+          "title": "一场新的中国冲击正席卷全球",
+          "imageUrl": "https://static01.nyt.com/images/2025/06/13/multimedia/00Biz-New-China-Shock-02-wfvl/00Biz-New-China-Shock-02-wfvl-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/usa/20250617/trump-escalator-10-years/dual",
+          "author": null,
+          "description": "PETER BAKER2025年6月17日\nThe trip down that escalator took less than 30 seconds, but it opened a much longer journey for the man and his country.\n搭乘那部自动扶梯下来的用时不足30秒，但由此为他和他的国家开启的一段旅程，却要长久得多。\nIt has been 10 years now, as of Monday, since Donald J. Trump descended to the lobby of his namesake tower to announce his campaign for president. Ten years of jaw-dropping, woke-busting, scandal-defying, status quo-smashing politics that have transformed America for good or ill in profoundly fundamental ways.\n十年前的这个周一，特朗普从以他的名字命名的大厦的自动扶梯下到大堂，宣布竞选总统。在这十年令人瞠目结舌的政治生涯里，他声讨觉醒主义，颠覆常态，视缠身的丑闻如无物，以深刻而根本的方式改变了美国——无论这种改变是好是坏。\nIn those 10 years, Mr. Trump has come to define his age in a way rarely seen in America, more so than any president of the past century other than Franklin D. Roosevelt and Ronald Reagan, even…",
+          "link": "https://cn.nytimes.com/usa/20250617/trump-escalator-10-years/dual",
+          "publishedOn": "2025-06-17T07:36:01.000Z",
+          "wordCount": 1340,
+          "title": "“特朗普时代”迈入第二个十年：他如何主宰当代美国",
+          "imageUrl": "https://static01.nyt.com/images/2025/06/16/multimedia/16DC-ASSESS-TOP-cqlt/16DC-ASSESS-TOP-cqlt-videoLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/business/20250617/trump-battery-factories-electric-vehicles/dual",
+          "author": null,
+          "description": "REBECCA F. ELLIOTT2025年6月17日在中国客户拒绝支付更高的关税后，新成立的Group14 Technologies公司放慢了在华盛顿州摩西湖建设电池材料工厂的步伐。 Margaret Albaugh for The New York Times\nBattery manufacturing began to take off in the United States in recent years after Congress and the Biden administration offered the industry generous incentives.\n近年来，国会和拜登政府为电池制造业提供了慷慨的激励措施，电池制造业开始在美国迅速发展。\nBut that boom now appears to be stalling as the Trump administration and Republican lawmakers try to restrict China’s access to the American market.\n但随着特朗普政府和共和党议员试图限制中国进入美国市场，这种繁荣现在似乎正在停滞。\nFrom South Carolina to Washington State, companies are slowing construction or reconsidering big investments in factories for producing rechargeable batteries and the ingredients needed to make them.\n从南卡罗来纳到华盛顿州，许多公司正在放慢建设速度，或者重新考虑对生产可充电电池及其所需原料的工厂进行大规模投资。\nA big reason…",
+          "link": "https://cn.nytimes.com/business/20250617/trump-battery-factories-electric-vehicles/dual",
+          "publishedOn": "2025-06-17T05:36:02.000Z",
+          "wordCount": 1259,
+          "title": "特朗普贸易政策正在遏制美国电池业的繁荣",
+          "imageUrl": "https://static01.nyt.com/images/2025/06/16/multimedia/16biz-batteryfactories-01-wlvb/16biz-batteryfactories-01-wlvb-articleLarge.jpg"
+        },
+        {
           "id": "https://cn.nytimes.com/opinion/20250617/china-education-students-visas/dual",
           "author": null,
           "description": "米华健2025年6月17日 Joanna Blémont\nPresident Trump’s first term gave us the “China Initiative,” a government program intended to root out Chinese espionage. The result was ethnic profiling of Chinese and Asian American researchers, flimsy cases that were eventually dropped and no prosecutions of scholars for spying or theft of secrets. President Joe Biden wisely eliminated it.\n特朗普总统的第一个任期给了我们“中国行动计划”，目的是铲除中国的间谍活动。结果却是对华裔和亚裔美国研究人员的种族形象定性，一些站不住脚的案件最终被撤销，没有学者因间谍活动或窃取机密而受到起诉。拜登总统明智地取消了该计划。\nMr. Trump’s current administration is back at it, however, demonizing Chinese citizens once again with Secretary of State Marco Rubio’s announcement on May 28 that the United States would “aggressively revoke” the visas of Chinese students. While it appears that Mr. Trump’s team may have backed off on that measure…",
@@ -16970,36 +17318,6 @@
           "wordCount": 1220,
           "title": "一个属于中国的世纪可能已经到来",
           "imageUrl": "https://static01.nyt.com/images/2025/05/19/opinion/19chan-image/19chan-image-articleLarge.png"
-        },
-        {
-          "id": "https://cn.nytimes.com/technology/20250519/apple-alibaba-ai-tool-china/dual",
-          "author": null,
-          "description": "TRIPP MICKLE2025年5月19日白宫和国会官员一直在仔细审查苹果公司的计划，该计划旨在达成一项协议，使阿里巴巴的人工智能技术能够在iPhone上使用。 Qilai Shen for The New York Times\nApple believes the future success of the iPhone depends on the availability of new artificial intelligence features. But tensions between Washington and Beijing may cripple the tech giant’s plans to deliver A.I. in its second-most-important market, China.\n苹果公司认为iPhone未来的成功取决于能否引入新的人工智能功能。但华盛顿与北京之间的紧张关系可能会阻碍这家科技巨头在其第二大市场——中国——推出人工智能的计划。\nIn recent months, the White House and congressional officials have been scrutinizing Apple’s plan to strike a deal with Alibaba to make the Chinese company’s A.I. available on iPhones in China, three people familiar with the deliberations said. They are concerned that the deal would help a Chinese company improve its artificial intelligence abi…",
-          "link": "https://cn.nytimes.com/technology/20250519/apple-alibaba-ai-tool-china/dual",
-          "publishedOn": "2025-05-19T04:06:02.000Z",
-          "wordCount": 1455,
-          "title": "苹果拟与阿里就iPhone AI展开合作，引发美国政府审查",
-          "imageUrl": "https://static01.nyt.com/images/2025/05/17/multimedia/17biz-apple-alibaba-2-tmvk/17biz-apple-alibaba-2-tmvk-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/usa/20250519/biden-prostate-cancer/dual",
-          "author": null,
-          "description": "TYLER PAGER, GINA KOLATA2025年5月19日前总统拜登上个月在芝加哥。 AJ Mast for The New York Times\nFormer President Joseph R. Biden Jr. was diagnosed on Friday with an aggressive form of prostate cancer that has spread to his bones, his office said in a statement on Sunday.\n前总统拜登的办公室周日在一份声明中称，拜登于周五被诊断出患有一种侵袭性前列腺癌，且已扩散至骨骼。\nThe diagnosis came after Mr. Biden reported urinary symptoms, which led doctors to find a “small nodule” on his prostate. Mr. Biden’s cancer is “characterized by a Gleason score of 9” with “metastasis to the bone,” the statement said.\n声明称，在拜登报告出现泌尿症状后，医生在其前列腺发现一个“小结节”。拜登的癌症“格里森评分为9分”且“已转移至骨骼”。\nThe Gleason score is used to describe how prostate cancers look under a microscope; 9 and 10 are the most aggressive. The cancer is Stage 4, which means it has spread.\n格里森评分用于描述前列腺癌在显微镜下的特征，9分和10分代表恶性程…",
-          "link": "https://cn.nytimes.com/usa/20250519/biden-prostate-cancer/dual",
-          "publishedOn": "2025-05-19T04:06:02.000Z",
-          "wordCount": 1077,
-          "title": "拜登确诊前列腺癌，已扩散至骨骼",
-          "imageUrl": "https://static01.nyt.com/images/2025/05/18/multimedia/18dc-Biden/18dc-Biden-articleLarge-v3.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/business/20250519/trump-tariffs-apec-trade/dual",
-          "author": null,
-          "description": "DAISUKE WAKABAYASHI2025年5月19日美国最高贸易官员杰米森·格里尔上周四出席在韩国举行的亚太经合组织会议。 Kim Hong-Ji/Reuters\nThe gathering of Asia-Pacific Economic Cooperation trade ministers is usually a staid meeting, but this year it offered more intrigue and urgency as countries throughout the region scrambled to engage the United States in talks before a 90-day pause on punishing tariffs expires in July.\n亚太经合组织贸易部长会议通常是平淡的会议，但今年却带上了更多谋划与紧迫感，因为该地区各国都在争先恐后赶在惩罚性关税90天暂停期于7月到期前与美国展开对话。\nThe meeting, which took place this week on South Korea’s resort island of Jeju, was the first opportunity for the group of mostly Asian economies and the United States to meet collectively since President Trump announced — and then suspended — what he called reciprocal tariffs on dozens of trading partners. The heaviest duties were applied to impo…",
-          "link": "https://cn.nytimes.com/business/20250519/trump-tariffs-apec-trade/dual",
-          "publishedOn": "2025-05-19T01:36:02.000Z",
-          "wordCount": 1062,
-          "title": "美国贸易代表成APEC会议焦点，各国争相与其展开对话",
-          "imageUrl": "https://static01.nyt.com/images/2025/05/16/multimedia/16Biz-Asia-Trade-wmbk/16Biz-Asia-Trade-wmbk-articleLarge.jpg"
         }
       ]
     },
