@@ -44,16 +44,6 @@
           "wordCount": 5830,
           "title": "R Weekly 2025-W31 Recreate, Speed Test, Test APIs",
           "imageUrl": "https://rweekly.org/public/facebook.png"
-        },
-        {
-          "id": "https://rweekly.org/2025-W30.html",
-          "author": null,
-          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Jon Calder, with help from the R Weekly team members and contributors.\nHighlight\nPositron Assistant: GitHub Copilot and Claude-Powered Agentic Coding in R\nYour LLM-powered guide to the posit::conf(2025) agenda\nInsights\nHow I’m using Claude Code to write R code\nR Package Quality: Maintainer Criteria\nPositron Assistant: GitHub Copilot and Claude-Powered Agentic Coding in R\nR in Academia\nResearch Publications Affiliated with Luxembourg: A Data-Driven Analysis\nTagging Bioconductor packages with EDAM\nNew Packages\n📦 Go Live for More New Pkgs 📦\n -->\n📦 Keep up to date wtih CRANberries 📦\nCRAN\n{chopin} 0.9.4: Spatial Parallel Computing by Hierarchical Data Partitioning\n{ggchord} 0…",
-          "link": "https://rweekly.org/2025-W30.html",
-          "publishedOn": "2025-07-21T00:00:00.000Z",
-          "wordCount": 5722,
-          "title": "R Weekly 2025-W30 Positron Assistant, LLM-powered posit::conf guide",
-          "imageUrl": "https://rweekly.org/public/facebook.png"
         }
       ]
     },
@@ -62,6 +52,16 @@
       "feedUrl": "https://feedx.net/rss/shanghaishuping.xml",
       "siteUrl": "http://thepaper.cn",
       "articles": [
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_31422966?commTag=true",
+          "author": null,
+          "description": "《都铎谍影：弗朗西斯·沃尔辛厄姆与伊丽莎白一世的宫廷》， [英]约翰·库珀著，杜宣莹译，上海人民出版社2025年7月出版，416页，98.00元\n\n\n伊丽莎白一世\n\n\n伊丽莎白一世（1533-1603）或许是英国历史上最受欢迎的君主，没有之一。在诸如“最伟大的英国人”“最受欢迎的英国人”历次公选中，伊丽莎白一世几乎都是位于前列，大幅领先英国历史上的其他君主。而她治下的时代（1558-1603），也被视为英国近代的“第一个黄金时代”。对内，她维系了政权统一稳定，以各类高明的政治手段缓和天主教与新教的冲突，竭力促进工商外贸发展——莎士比亚、培根等一大批英国文艺复兴的杰出人物，正是在此期间涌现。对外，不同于好大喜功的父亲亨利八世，她长期巧妙地周旋于法国、西班牙之间，不轻易卷入战端，同时也支持对所谓“新大陆”的探险与殖民。近代以来，英国崛起之路的起点往往也都会追溯至伊丽莎白一世这位都铎王朝的末代君主身上，而当代人最熟悉的她的形象，大多来自英国著名演员凯特·布兰切特主演的电影《伊丽莎白》（1998）及其续作《伊丽莎白：辉煌年代》（2007），此外便是海伦·米伦主演的电视剧《伊丽莎白一世》（2005）。实际上，伊丽莎白一世是自十七世纪起被各类文艺作品描绘最多的英国君主（同样没有之一），从早期的绘画、小说、戏剧直至当代的影视作品，都充斥着她的形象。毫无疑问，这位或则穿着华服、或则身披金甲的黄金时代的女王，在历史上总是绽放着夺目光芒。之所以如此，则离不开背后的阴暗之处有人发挥着重要且关键的作用。在诸多重臣中，既有威廉·塞西尔（William Cecil）这类在台前代表女王发号施令的财政大臣，也有弗朗西斯·沃尔辛厄姆（Francis Walsingham）这类躲在宫廷角落却时刻都能影响着女王乃至整个欧洲局势的国务大臣。\n较之于女王或同时代其他的权贵精英，沃尔辛厄姆的历史形象似乎要模糊不少。在…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_31422966?commTag=true",
+          "publishedOn": "2025-08-19T08:02:05.000Z",
+          "wordCount": null,
+          "title": "沙青青评《都铎谍影》｜暗中守护女王伊丽莎白一世的“间谍头子”",
+          "imageUrl": null
+        },
         {
           "id": "https://www.thepaper.cn/newsDetail_forward_31316729?commTag=true",
           "author": null,
@@ -481,16 +481,6 @@
           "wordCount": 57,
           "title": "孙竹读《契诃夫的玫瑰》︱无常才是生命的常态",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_31225085",
-          "author": null,
-          "description": "《李白的诗歌与生平》，[英]阿瑟·韦利著，曹祎黎译，华文出版社，2025年2月出版，136页，27.50元\n\n\n1913年，自剑桥大学国王学院古典学专业毕业三年后，二十四岁的阿瑟·韦利（Arthur David Waley，1889-1966）成功进入大英博物馆印刷绘画部东方印刷与绘画分部工作，并开始自学中文和日文，从此正式踏上他成为二十世纪英国最杰出的汉学家和翻译家的道路。1929年，韦利以个人身体健康为由从大英博物馆辞职，之后更加专注于中国古典文学的翻译，先后翻译出版了《道德经》《诗经》《论语》《西游记》（韦利将书名译为“猴”）《九歌》等经典作品，并对李白、白居易、袁枚等中国古代重要文人进行了研究和译介。\n韦利出生于一个定居英国的德国犹太人家庭，其祖辈、父辈、同辈中商人、学者、政治家辈出，为家族积累了巨大的经济财富与社会资源，使他得以成长在一个经济条件优渥且文化氛围浓厚的环境中。1903年，韦利进入英国著名的拉格比学校读书，随后又进入剑桥大学国王学院古典学专业就读，这样的教育经历给了他全面的古典文学熏陶，对他日后走上东方学研究的道路至关重要。早在1903年之前，良好的家境和教育便培养了韦利对文学和语言的热爱，使其在诗歌创作领域颇有声名，甚至在他翻译事业起步初期，“诗人”比“翻译家”更能代表他的身份。作为一位擅作诗歌的汉学家，韦利对“中国”的态度也颇为诗意——他倾注一生心血热爱和研究的并非现实的中国，而是其想象中的、纸面上的、古典的中国，这在当时的西方汉学界中较为少见。韦利本人并不羞于承认这一点。1940年，他在接待慕名前来拜访的中国记者萧乾时表示，没有去过中国恐怕是自己周身唯一有趣的事了（萧乾：《伦敦日记》，湖北人民出版社，2005年，219页）。虽然韦利终身未曾到访中国，甚至不能流利地进行中文会话，但他一生笔耕不辍，发表有大量关于中国的译著、论文、选集及书评。其用功最…",
-          "link": "https://www.thepaper.cn/newsDetail_forward_31225085",
-          "publishedOn": "2025-07-21T04:02:03.000Z",
-          "wordCount": 295,
-          "title": "曹祎黎评阿瑟·韦利《李白的诗歌与生平》｜异域之眼看李白",
-          "imageUrl": null
         }
       ]
     },
@@ -499,6 +489,206 @@
       "feedUrl": "https://feedx.net/rss/thepaper.xml",
       "siteUrl": "http://thepaper.cn",
       "articles": [
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_31432230",
+          "author": null,
+          "description": "当地时间2025年8月18日，中共中央政治局委员、外交部长王毅在新德里同印度外交部长苏杰生举行会谈。双方就共同关心的双边、地区和国际问题进行了积极、建设性、前瞻性讨论，达成以下共识和成果：\n一、双方强调，两国领导人的战略引领对中印关系发展发挥着不可替代的重要作用。双方认为，一个稳定、合作、前瞻性的中印关系有助于充分释放双方发展潜力，符合双方共同利益。双方进一步认为，要认真落实两国领导人达成的重要共识，推动中印关系持续健康稳定发展。\n二、中方欢迎印度总理莫迪出席即将举行的上海合作组织天津峰会。印方重申全力支持中方担任上合组织轮值主席国工作，期待上合组织天津峰会圆满成功，取得丰硕成果。\n三、双方同意相互支持办好主场外交活动。中方支持印方主办2026年金砖国家领导人会晤。印方支持中方主办2027年金砖国家领导人会晤。\n四、双方同意探讨重启各类政府间双边对话交流机制，加强合作并照顾彼此关切，妥善管控分歧。双方同意2026年在印度举行中印高级别人文交流机制第三次会议。\n五、双方同意继续相互支持，办好2025年中印建交75周年系列纪念活动。\n六、双方同意尽早恢复中国内地和印度直航航班，同时修订两国民航运输协定。双方同意为两国从事旅游、商务、媒体等活动的人员双向来往提供签证便利。\n七、双方同意2026年继续开展印度香客赴中国西藏自治区神山圣湖朝圣并扩大规模。\n八、双方同意采取具体措施为两国经贸投资流动提供便利。\n九、双方同意通过友好协商，共同维护边境地区和平安宁。\n十、双方同意弘扬多边主义，加强在重大国际地区问题上的沟通，维护以世界贸易组织为核心、以规则为基础的多边贸易体制，推动世界多极化，捍卫发展中国家利益。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_31432230",
+          "publishedOn": "2025-08-19T16:23:07.000Z",
+          "wordCount": null,
+          "title": "中印外长会谈达成10项成果",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_31430582",
+          "author": null,
+          "description": "LABUBU上半年销售数据曝光。\n8月19日，泡泡玛特（09992.HK）发布2025年半年报，上半年泡泡玛特营收138.8亿元，同比增长204.4%，经调整净利润47.1亿元，同比增长362.8%；公司拥有人应占溢利45.74亿元，同比增长396.5%。泡泡玛特上半年的营收、净利润均超去年全年。\n\n2025年上半年，泡泡玛特的毛利率为70.3%，同比提升了6.3个百分点，创下历史新高。\n这是泡泡玛特全球组织架构调整后的首份财报，首次披露了中国、亚太（指中国以外的其他亚洲及大洋洲国家和地区）、美洲和欧洲及其他地区四大区域业绩：中国营收82.8亿元，同比增长135.2%；亚太营收28.5亿元，同比增长257.8%；美洲营收22.6亿元，同比增长1142.3%；欧洲及其他地区营收4.8亿元，同比增长729.2%。四大区域业绩均实现超三位数增长，美洲增速超十倍。\n\n2025年上半年，LABUBU全球爆火成为超级IP，LABUBU所在的THE MONSTERS营收48.1亿元，同比增长668.0%，在总营收中的占比34.7%。在2024年的年报中，THE MONSTERS的营收占比是23.3%。\nMOLLY、SKULLPANDA、CRYBABY和DIMOO相关IP营收均突破10亿元；HIRONO、星星人、Zsiga、PUCKY、HACIPUPU等13个IP实现营收破亿元。\n\n值得关注的是，泡泡玛特上半年毛绒品类营收61.4亿元，收入占比首次超过手办。\n财报显示，泡泡玛特的毛绒产品实现营收61.4亿元，同比增长1276.2%，在总收入占比44.2%；手办产品实现营收51.8亿元，同比增长94.8%，占比37.3%；MEGA实现营收10.1亿元，同比增长71.8%，占比7.3%；衍生品及其他营收15.5亿元，同比增长78.9%，占比11.2%。\n泡泡玛特在财报中称，今年上半年，为10个IP推出近20款毛绒产品，涵盖软脸、硬脸款式，采用不同尺寸大小和材质。依托LABUBU搪胶毛绒的产品经验，以搪胶工艺为基础，结合喷色工艺及时装面料，呈现不同IP的特征，赋予IP更强的生命力与辨识度，提升产品竞争力。\n\n财报披露，截至2025年6月30日，中国内地累计注册会员总数从2024年12月31日的4608万人增长至5912万人，新增注册会员数1304万人。2025上半年会员贡献销售占比91.2%，会员复购率为50.8%。截至6月30日，泡泡玛特在全球18个国家开设了共571家门店，其中线下门店新增40家，机器人商店新增105台。\n据大智慧VIP，截至8月19日收盘，泡泡玛特跌1.40%，报280.80港元/股，总市值3771亿港元。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_31430582",
+          "publishedOn": "2025-08-19T14:53:04.000Z",
+          "wordCount": null,
+          "title": "泡泡玛特上半年净利增近4倍：毛利率突破70%，LABUBU所属IP大卖48亿",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_31432189",
+          "author": null,
+          "description": "8月19日，据上海证券交易所披露的信息显示，重庆渝富控股集团有限公司拟于2025年面向专业投资者公开发行的公司债券项目状态已更新为“已受理”。该债券发行总额预计为人民币100亿元，品种为公募。\n此次债券发行的承销商团队包括国开证券、中金公司、中信证券、华泰联合证券、中信建投证券、国泰海通、西南证券及广发证券。债券项目的受理日期为2025年8月8日，目前已获得上交所的更新反馈。（澎湃新闻记者 李晓青）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_31432189",
+          "publishedOn": "2025-08-19T14:53:04.000Z",
+          "wordCount": null,
+          "title": "重庆渝富集团100亿元公司债状态已更新为“已受理”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_31432188",
+          "author": null,
+          "description": "8月19日，合肥城建（002208.SZ）公告披露，公司拟以自有资产抵押向银行申请贷款。\n根据公告，合肥城建此次申请的贷款金额为21亿元。抵押资产为合肥市包河区龙川宸园购物中心D地块（商业），产权证号为皖(2024)合肥市不动产权第1148625号，产权人为合肥润珀商业管理有限公司。该抵押资产的面积为202147平方米，位于合肥市包河区龙川路200号龙川宸园。经评估，抵押物价值为300796.26万元，评估机构为安徽中立公鉴房地产资产造价评估有限公司，评估报告编号为皖中立公鉴[2025]房估字第06735号。（澎湃新闻记者 李晓青）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_31432188",
+          "publishedOn": "2025-08-19T14:53:04.000Z",
+          "wordCount": null,
+          "title": "合肥城建：拟以自有资产抵押向银行申请贷款21亿元",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_31431281",
+          "author": null,
+          "description": "据“常州发布”消息，8月18日，常州市政府召开经济运行分析会议，分析研判当前全市经济运行及重点工作推进情况，安排部署下阶段工作。会议要求充分发挥“苏超”撬动作用，最大限度将赛事流量转化为消费增量。\n这是常州再次部署借“苏超”促消费工作。不同的是，它这次“品尝”的是“胜利的果实”。\n8月16日晚，在“苏超”第九轮主场迎战镇江队的比赛中，常州队以1:0取得开赛以来的第一粒进球、第一场胜利，相关话题立即冲上微博热搜，其中“常州终于进球了”微博阅读量超2500万人次。随后，常州市委书记王剑锋、市长周伟到更衣室为球员和教练送花祝贺的视频，再次引发二次大规模传播。\n\n2025年8月16日，江苏常州，2025苏超第九轮，常州队主场1比0战胜镇江队。视觉中国 图\n\n\n此前，因难进一球、难赢一场，常州“越输越红”，已屡次成为“流量中心”。在“苏超”前三轮比赛中，常州以三连败惨遭垫底，但它开启“自嘲模式”，官方账号玩起“笔画保卫战”，发起#为常州补笔画#挑战，该话题发布48小时内阅读量破亿。\n“玩梗”的流量迅速被转化为文旅消费——端午小长假期间，常州所有A级景区向扬州市民免门票，3天接待扬州游客15万人，带动餐饮、住宿、零售等消费激增25%。\n6月21日，常州队主场迎战南京队，尽管以0:4的大比分告负，但在“抢流量”方面没有输。携程数据显示，6月21日，常州各景区预订人次较去年同期增长6倍，酒店预订人次增长30.5%。“苏超常州”相关抖音热点65个，其中5个登上热榜第一位，相关视频播放量超过21亿次。\n此次面对“进一球、赢一场”的“双丰收”，已在花式整活“接流量”上玩出心得的常州岂能错过机会。8月16日当晚，常州仿佛“过年”，为庆祝常州队“苏超”首胜，该市火速推出“六重狂欢礼”：增加一轮“常州赢球”抽奖；实行新一轮新能源汽车消费补贴活动；8月17日“乐享常州”平台全线文旅产品5折优惠并发放千份“赢球”宠粉礼包；8月17日，市民和游客乘坐公交、地铁继续免费；18-24日，全市公共体育场馆免费开放、免费健身指导一周。\n常州文旅更是接连放出“大招”。淹城春秋乐园聚焦特定群体推出特色礼遇，8月17日至8月22日，镇江市民可免票入园，同时全国体育老师免门票，并可携带一名美术或音乐老师同行；8月17日至8月31日，针对全国所有赵姓游客（因常州队首球由球员赵连平踢进），天目湖山水园、天目湖南山竹海景区实施门票全免；至8月31日，全国范围内8月出生的游客，可凭身份证享受金坛茅山森林世界游园套票免费等。\n18日的常州市政府经济运行分析会议强调，要围绕消费挖潜力。充分发挥“苏超”撬动作用，精心策划各类文商旅体活动，持续提升接待能力和服务水平，优化“一站式”消费体验，最大限度将赛事流量转化为消费增量。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_31431281",
+          "publishedOn": "2025-08-19T14:23:06.000Z",
+          "wordCount": null,
+          "title": "“仿佛过年”：拼得“苏超”首胜后，常州趁势“抢流量”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_31432177",
+          "author": null,
+          "description": "8月19日，越秀地产股份有限公司发布海外监管公告，宣布广州市城市建设开发有限公司2025年面向专业投资者公开发行公司债券（第一期）的发行结果。\n债券发行已获得中国证券监督管理委员会“证监许可〔2025〕1504号”文同意注册，总面值不超过96亿元。本期债券发行规模不超过14亿元（含14亿元），分为两个品种：品种一为3+2年期，品种二为10年期。\n具体发行结果显示，品种一发行规模为9亿元，票面利率为1.95%，认购倍数达到2.27倍；品种二发行规模为5亿元，票面利率为2.50%，认购倍数为1.67倍。发行人的董事、监事、高级管理人员、持股比例超过5%的股东及其他关联方均未参与本期债券认购。承销机构为中信证券股份有限公司，其及其关联方最终获配金额为27亿元，报价及程序符合相关法律法规的规定。（澎湃新闻记者 李晓青）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_31432177",
+          "publishedOn": "2025-08-19T14:23:06.000Z",
+          "wordCount": null,
+          "title": "越秀地产：广州城建完成发行14亿元公司债",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_31432160",
+          "author": null,
+          "description": "8月19日，保利发展（600048.SH）公告称，公司近日收到中国银行间市场交易商协会出具的两份《接受注册通知书》，同意接受公司中期票据注册，注册额度自《接受注册通知书》落款之日起2年内有效。\n根据公告，保利发展控股集团股份有限公司获得两份《接受注册通知书》，分别批准了50亿元的中期票据注册额度，总计100亿元。《接受注册通知书》编号分别为中市协注〔2025〕MTN771号和中市协注〔2025〕MTN772号。联席主承销商包括中国工商银行、平安银行、招商银行等多家银行机构。（澎湃新闻记者 李晓青）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_31432160",
+          "publishedOn": "2025-08-19T14:23:06.000Z",
+          "wordCount": null,
+          "title": "保利发展：100亿元中期票据注册额度已获批准",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_31431203",
+          "author": null,
+          "description": "8月19日，核药龙头企业远大医药（0512.HK）发布2025年中期财报，上半年公司收入创历史新高，达到约61.1亿港元，期内净利润录得约11.7亿港元。公司核药抗肿瘤诊疗板块实现收入约4.2亿港元，同比增长106%。其中，创新核药易甘泰在国内保持高速放量，同时，该药在今年7月提前获得美国FDA批准用于治疗不可切除肝细胞癌（HCC）的新增适应证，成为全球首个且唯一获FDA批准用于不可切除HCC和结直肠癌肝转移双重适应证的选择性内放射治疗产品。\n远大医药称，以易甘泰为核心，远大医药在核药领域已打造了从研发到上市的良性产品梯队。目前公司该领域在研发注册阶段已储备15款创新产品，并形成了诊疗一体化的产品矩阵，是进入中国三期临床研究中诊断和治疗类RDC创新药总计储备最多的企业。（澎湃新闻记者 李潇潇）\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.site",
+          "link": "https://www.thepaper.cn/newsDetail_forward_31431203",
+          "publishedOn": "2025-08-19T13:53:03.000Z",
+          "wordCount": null,
+          "title": "核药龙头远大医药上半年收入创新高，核药抗肿瘤诊疗板块收入翻倍",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_31430780",
+          "author": null,
+          "description": "8月19日，诺诚健华（9969.HK；688428.SH）发布2025年半年报，上半年收入同比增长74.3%，达到7.3亿元。公司称，收入增长主要归功于核心产品奥布替尼的持续放量以及公司与Prolium达成授权许可获得的首付款。药品收入上半年同比增长53.5%，达到6.4亿元，主要是源于奥布替尼纳入国家医保后持续放量，尤其是独家适应证边缘区淋巴瘤惠及更多患者，以及商业化团队执行能力的不断强化。\n此外，诺诚健华上半年亏损同比降低86.7%，减少至0.36亿元，亏损大幅缩窄是源于营业收入的增加以及成本效率进一步提升。（澎湃新闻记者 李潇潇）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_31430780",
+          "publishedOn": "2025-08-19T13:53:03.000Z",
+          "wordCount": null,
+          "title": "诺诚健华上半年药品收入达6.4亿元，亏损收窄86%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_31430658",
+          "author": null,
+          "description": "在媒体连续多日打假之后，备受关注的假院士阮少平、假国务院参事余鹏翔终于“栽了”。\n8月19日，深圳市公安局南山分局发布警情通报：近日，网传阮某平假冒院士等身份行骗。我局对此高度重视，经全面深入调查，现初步查明阮某平（男，63岁）涉嫌假冒退役少将、中科院院士等特殊身份非法获利，并多次假冒特殊身份参加社会活动。目前，阮某平因涉嫌冒充军人招摇撞骗罪已被依法刑事拘留，案件正在进一步侦办中。\n广州市公安局白云分局也发布警情通报：近日，网传一余姓男子涉嫌假冒国务院参事、抗美援朝老兵等身份。我局对此高度重视，立即展开调查。8月14日，我局抓获犯罪嫌疑人余某翔（男，73岁）。目前，余某翔因涉嫌冒充军人招摇撞骗罪已被依法采取刑事强制措施。案件正在进一步侦办中。\n两周前的8月5日，澎湃新闻率先刊发《“中国科学院院士阮少平”被打假，近年在多所小学登台》一文，指出这位频繁公开露面、游走于教育界、医疗圈的“阮院士”，身份系伪造。\n8月7日，澎湃新闻又刊发《又一查无此人：“国务院参事余鹏翔”确认系冒充》一文，披露以“国务院参事”身份公开活动的余鹏翔，身份也是伪造的。\n两篇报道随即在舆论场引发广泛关注。随后，国内多家媒体跟进合力深入打假，人民日报、央视、新华社三大央媒也先后发布评论文章，呼吁关注假院士、假参事背后暴露出的更多问题。\n如今，随着阮少平被刑拘、余鹏翔被采取刑事强制措施，相信等待他们的必然是法律的严惩。\n值得注意的是，此次警方初步查明二人都“涉嫌冒充军人招摇撞骗罪”。冒充军人招摇撞骗的行为，严重损害了军队声誉和军人形象，同时侵害了人民群众的合法利益。我国刑法第三百七十二条规定，冒充军人招摇撞骗的，处3年以下有期徒刑、拘役、管制或者剥夺政治权利；情节严重的，处3年以上10年以下有期徒刑。\n回看假院士、假参事被揭露真面目的过程，也给社会留下了一些思考。\n澎湃新闻对阮少平、余鹏翔身份的打假，过程并不复杂，主要途径就是在中科院官网、国务院参事室官网上进行查证，向权威部门求证。其实，这也是识别假名人最直接有效的办法。\n坦白说，按照现在的信息公开程度和技术手段，普通人要核实一位公共人物的身份、头衔、职位，其实难度并不高。难的是，不人云亦云，不跟风追捧，多点质疑精神，不怕麻烦多交叉验证。\n据报道，部分阮少平、余鹏翔此前参加过活动的单位，已经删除了与其相关的信息。这当然是必要的，但更希望相关单位“痛定思痛”，坚决摒弃“头衔”饥渴和“帽子”崇拜，对活动严加审核把关，不给骗子提供任何登台的机会。\n这也是铲除假名人滋生的社会土壤的题中之义。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_31430658",
+          "publishedOn": "2025-08-19T13:23:04.000Z",
+          "wordCount": null,
+          "title": "马上评｜假院士假参事双双落网，留下哪些思考？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_31430603",
+          "author": null,
+          "description": "上届上海书展被戏称为“上海敲章展”，而今年则出现了“上海文创展”的调侃。首次设立的阅界夜市也让部分读者怀疑，觉得“烟火气”冲淡了“书香味”。\n上海书展服务于多种对象和城市文化发展，今年更提出“不止于书，不止于展”的口号，不同需求必然带来不同的声音，但我们仍然能相信这一上海文化品牌将持续创新和进化。\n2025上海书展落幕。\n这是上海书展的第21个年头，“奔三”的上海书展面临着全新的局面。\n\n什么局面呢？首先是上海书展已办了20届了，无论从主办方、出版社还是读者的角度看，都需要更多更新的刺激，更符合当下时代需求的“玩法”。这是上海书展迈向下一个十年的开局之年，创新变革是作为老牌书展的内在动力。\n其次也是更为迫切的动力是当下的图书出版市场环境。今年上半年，国内整体图书销售境况不佳，出版社亟需上海书展这样的大平台提振士气。\n内在动力和外部环境的双重压力下，“奔三”的上海书展需要打好这场开局之战、破局之战。\n\n七天过后，本届书展共接待市民读者超38.2万人次，同比增长28.4%；图书销售总码洋6472.7万元，同比增长31.6%；文创产品销售收入1017万元，同比增长100.1%；全市共举办1267场阅读活动，同比增长23.8%；出票39.58万张，其中现场售票2.62万张，阅界夜市6天销售收入64.8万元，外省市来沪观众占比25%，文旅商体展联动溢出效应凸显。\n从数据上看，上海书展交出了令人满意的答卷，令人振奋。但也不能忽视一些声音。\n上届书展被戏称为“上海敲章展”，而今年则出现了“上海文创展”的调侃。首次设立的阅界夜市也让部分读者怀疑，觉得“烟火气”冲淡了“书香味”。\n\n这些声音值得被听见，也一定会被倾听和珍视，因为它们来自关心书展、热爱阅读的读者。这些读者希望上海书展能葆有初心，长盛不衰。\n但在初心这块，读者们并不必太过担心。事实证明，本届上海书展依然是书展，图书展销依然是根本…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_31430603",
+          "publishedOn": "2025-08-19T12:53:04.000Z",
+          "wordCount": null,
+          "title": "初心依然，书香依旧",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_31396467",
+          "author": null,
+          "description": "这个暑期档，你看了几部电影？\n8月18日，2025年暑期档（6月—8月）电影总票房（含预售）突破100亿。其中，《南京照相馆》《浪浪山小妖怪》《长安的荔枝》暂列档期票房前3名。\n虽说破百亿的时间与去年相当，比2023年却晚了将近一个月。\n近十年口碑最佳的暑期档，热的不止“一出好戏”\n猫眼专业版数据显示，当前，今年暑期档共有316部电影（含重映）登上大银幕，其中有上百部新片与大众初次见面。\n《南京照相馆》《浪浪山小妖怪》《长安的荔枝》…… 这些影片涵盖历史、动画、喜剧、奇幻等十多种类型，让 “电影的夏天” 热度持续攀升。\n\n澎湃美数课选取了约占暑期档票房九成的TOP16电影（以下简称头部电影）发现，今年出现了不少高票房、高口碑且低成本的作品。\n像《南京照相馆》《浪浪山小妖怪》，虽制作成本不高，却凭扎实故事与鲜明风格稳坐冠亚军。不仅如此，《浪浪山小妖怪》还拿下了中国影史二维动画电影票房冠军、挤进了中国动画电影票房的TOP10。\n今年的动画片持续出佳作。暑期档的《浪浪山小妖怪》《罗小黑战记2》两部动画片目前的豆瓣评分，甚至还超过了今年春节档的现象级电影《哪吒2》。\n与此同时，《侏罗纪世界：重生》《F1：狂飙飞车》《碟中谍 8：最终清算》等好莱坞传统大制作，在国内外市场表现依然亮眼，是国内暑期档前期的主力推手。\n据电影数据网站The Numbers，《F1：狂飙飞车》以全球5.9亿美元（约42.4亿人民币）票房成为影史最卖座体育电影，也刷新了布拉德·皮特主演生涯的票房纪录。\n目前，在头部电影中有9部票房占比显著高于排片占比，意味着近七成高票房电影仍供不应求，足见这些优质影片还具备很强的票房吸附力。\n截至目前，暑期档头部电影中已有7部跻身“8分俱乐部”。这一成绩远超往年同期，更被不少业内人士评为近十年口碑最佳的暑期档。\n\n相比之下，上一个被称作“最强”的暑期档，虽仅凭三部影片（《孤注…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_31396467",
+          "publishedOn": "2025-08-19T12:53:04.000Z",
+          "wordCount": null,
+          "title": "一个更多元的百亿暑期档：口碑“十年最佳”，中年人观影占比上升",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_31430686",
+          "author": null,
+          "description": "今年，“民办本科院校招生难”问题再次引起外界关注。\n其中，在广东20多所民办本科院校中，有14所高校需要补录。经过三次征集志愿后，仍有多所高校“未招满”。如湛江科技学院经第三次征集志愿后，仍“缺口”2900余人。\n除了广东，针对2025年普通高校招生，广西、黑龙江启动了本科第四次征集志愿。其中，广西更是最后征集志愿时“不受文化录取最低控制线限制”。云南则启动了第六轮征集志愿。在最后征集志愿时，这些高校的录取分数线普遍比最初降低了30分或40分，所涉及的学校多数为民办本科院校。\n\n经第三次征集志愿，广东仍有多所民办本科院校出现“未招满”现象。\n\n\n广东一所民办本科院校招生办工作人员向澎湃新闻表示，目前，全国都有招生难的问题，今年的情况更为严峻。而且，不仅民办本科院校招生难，公立学校也同样存在此难题。该工作人员说，因民办本科学费贵，不少学生选择读专科或者复读。\n专家表示，近年来，除了民办本科院校招生遇冷，民办初中、高中也遭遇了同样的困境，一些公立高校也存在招生难的问题，原因是民办本科院校学费贵，教学质量良莠不齐，就业行情不乐观等，导致了很多学生及家长做其他选择。专家呼吁，民办本科院校面临巨大挑战，需改变办学思路，为学生提供多元化选择，探索特色化办学。\n经三次征集志愿，还是“未招满”\n8月15日，微信公众号“湛江科技学院招生办”发布文章称，该校2025年招生录取工作已全部完成，今年将有7928名普高学生以及4800名普通专升本学生加入。在7928名普高学生中，本科6936人，专科992人。\n此前，湛江科技学院因招生遇冷、“缺口大”而多次征集志愿引起外界关注。\n据广东省教育考试院官网信息，在《广东省2025年本科普通类（历史）征集志愿投档情况》中，湛江科技学院计划招生1870人，投档人数为286人，投档最低分为454分；在《广东省2025年本科普通类（物理）征集志愿投档情况》中，湛…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_31430686",
+          "publishedOn": "2025-08-19T12:23:03.000Z",
+          "wordCount": null,
+          "title": "多地出现民办高校三、四轮征集志愿后仍未招满，专家：需改变办学思路",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_31430715",
+          "author": null,
+          "description": "近日，上海医生团队救回一个几乎“身首离断”的患者，引起广泛关注。\n“这几乎是我三十多年从医生涯中遇到的最为凶险的情况，患者颈椎脱位极为罕见。”8月19日，正值中国医师节，澎湃新闻（www.thepaper.cn）记者找到了救回该患者的主刀医生——海军军医大学第二附属医院（上海长征医院）颈椎外科病区主任陈华江。\n\nCT影像显示，术前患者颈椎罕见大跨度脱落，几乎“身首离断”，术后颈椎已复位。澎湃新闻记者 李佳蔚 图\n\n\n当天陈华江仍排了多台手术，一直到傍晚时分，他在工作间隙向记者介绍了救治上述患者经过。这名55岁的患者是一名江苏常熟的工人，5月31日下午因意外遭受机械臂重击，颈椎瞬间受到毁灭性损伤，当场高位截瘫、心跳骤停。患者先被工友送至常熟当地医院，经紧急心肺复苏后勉强恢复微弱生命体征。\n由于当地医院只能勉强维持患者生命体征，无法进一步施救，6月3日，患者被送至上海长征医院。陈华江回忆，入院时，患者游走在灾难性大出血导致休克，或椎动脉损伤继发致命性脑梗死的边缘。影像学检查结果令人震惊：患者颈椎发生罕见的大跨度脱位，其严重程度犹如“身首离断”，已造成脊髓严重挫伤、关键神经血管结构撕裂。\n\n影像检查显示患者颈椎罕见大跨度脱落。上海长征医院 图\n\n\n陈华江说，人的颈部有两根动脉向大脑供血。患者一根动脉已被完全砸断，所幸血凝块和软组织将血管闭合没有造成大出血；另一根动脉受创被拉长后变得很纤细，勉强向大脑供血。患者骨折脱位区域，还形成了巨大血肿，导致血压如同过山车般频繁骤降至约50mmHg的危险低值，不得不依赖大剂量血管活性药物勉强维持循环。\n“我们做了进一步的检查，因为颈部发生的损伤所涉及的重要器官非常多，稍有不慎后果很严重。”陈华江，不幸中的万幸是，这个患者虽然几乎“身首离断”，但他脑部控制心跳和呼吸的中枢没有被毁掉，如果能把患者完全断离的三节脊椎连起来，他还有一线生机。\n\n陈华江…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_31430715",
+          "publishedOn": "2025-08-19T12:23:03.000Z",
+          "wordCount": null,
+          "title": "“身首离断”患者被救回！主刀医生讲述从医三十多年最凶险情况",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_31430765",
+          "author": null,
+          "description": "8月19日，澎湃新闻记者获悉，DeepSeek线上模型版本已升级至 V3.1，上下文长度拓展至 128k，用户可前往官方网页、APP、小程序测试，API 接口调用方式保持不变。（澎湃新闻记者 范佳来）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_31430765",
+          "publishedOn": "2025-08-19T11:53:04.000Z",
+          "wordCount": null,
+          "title": "DeepSeek线上模型版本升级至V3.1",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_31429449",
+          "author": null,
+          "description": "【编者按】\n五十年春风化雨，中欧从相识到相知，走过了半个世纪的合作之路。“志合者，不以山海为远”，这段跨越山海与制度差异的关系，如今已不仅是一份经贸数据的增长图谱，更是两大力量、两大市场、两大文明之间思想互鉴、理念交汇的深层对话。\n在中欧建交50周年之际，澎湃新闻推出《再遇见——中欧建交50周年特别策划》，其中邀请数十位来自中国与欧洲各国及欧盟机构的各界代表性人物，通过他们的亲历、记忆与洞见，讲述这段关系如何影响着个体、社会乃至世界的走向。我们努力呈现一幅更加立体的中欧人文关系图景，也倾听他们对中欧未来的真诚期待。\n这一次，我们对话的人物是：中国德国商会华北及东北地区执行董事欧阳利文。\n\n“这些年来，中德合作展现出很强的互补性，比如在新能源、电动汽车、工业数字化等领域。”谈到中德经贸合作，中国德国商会华北及东北地区执行董事欧阳利文（Oliver Oehms）6月下旬在北京接受澎湃新闻（www.thepaper.cn）记者专访时这样表示。\n中国德国商会隶属德国海外商会联盟·大中华区，在北京、上海、广州及中国其他7个城市设有办事处，是促进中德经贸关系的重要桥梁。商会的北京办事处设在北京东三环亮马桥附近的一幢写字楼里，多家德国企业的总部或办事处也在这里，工作人员笑称，这里是在京德企的“中枢”。数十年来，数千家德国企业深深扎根于中国经济之中，根据德国商会5月的最新调查，尽管面临重重挑战，但仍有约半数德国企业计划进一步在华投资。\n“对德国企业来说，中国是一个规模庞大的市场，消费潜力和制造潜力巨大，”欧阳利文表示，“同时，我们必须将新兴的中国理解为一个在创新和技术方面同样卓越的市场。因此，在某些领域，德国企业可以向中国同行学习。”而谈到关税和贸易管制措施时，欧阳利文说，尽管这些措施目前还没有对德国企业在华经营产生太多直接影响，但商会成员不赞成任何一方征收关税，或采取更强硬的出口管制措施…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_31429449",
+          "publishedOn": "2025-08-19T11:23:03.000Z",
+          "wordCount": null,
+          "title": "再遇见丨欧阳利文：期待中德企业建立新合作模式",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_31430717",
+          "author": null,
+          "description": "当地时间2025年8月19日，中印边界问题特别代表第24次会晤在新德里举行。中方特别代表、中共中央政治局委员、中央外办主任王毅同印方特别代表、国家安全顾问多瓦尔就中印边界问题和双边关系等进行了全面深入、富有成效的沟通。\n王毅表示，习近平主席同莫迪总理喀山会晤达成重要共识，为中印关系改善和妥处边界问题指明了方向、提供了动力。今年以来，双边关系进入稳步发展轨道，边境局势持续稳定向好。作为两大邻国、两大发展中国家，中印理念相通，共同利益广泛，理应相互信任、相互支持，这才是两个新兴大国的应有状态。中方高度重视莫迪总理赴华出席上海合作组织天津峰会，期待印方为峰会成功举行作出积极贡献。\n王毅强调，历史和现实一再证明，中印关系健康稳定发展符合两国人民根本利益，也是广大发展中国家的共同期待。双方应按照两国领导人战略指引，秉持双轨并进、相互促进、良性循环的思路看待和处理双边关系和边界问题，通过对话沟通增进互信，扩大交流合作，共同推动在边境管控、划界谈判、跨境交流等方面汇聚共识、明确方向、设定目标，妥善解决具体问题，取得更多积极进展，为两国关系改善发展不断营造有利条件。\n\n多瓦尔表示，两国领导人喀山会晤是印中关系改善发展的转折点，双方相互认知发生积极变化，边境地区保持和平安宁，两国关系取得突破性进展。当前国际形势动荡不安，印中面临一系列共同挑战，有必要增进理解、深化信任、加强合作，这关乎两国人民福祉与世界和平发展。印方一贯坚持一个中国政策。今年是印中建交75周年。莫迪总理期待赴华出席上海合作组织天津峰会，相信这将推动双边关系取得新的发展。印方支持中方作为上合组织轮值主席国办好峰会。印方愿同中方本着积极务实的态度，保持沟通对话，为最终解决边界问题不断积累条件。\n双方就边界谈判早期收获交换了意见，重申将充分发挥特别代表会晤机制作用，按照2005年达成的政治指导原则，本着相互尊重、相互谅解精神，探讨公平合理和双方均能接受的解决方案。与此同时，加强边境常态化管控，共同维护边境地区和平安宁。双方商定明年在中国举行中印边界问题特别代表第25次会晤。\n双方还就共同关心的重大国际和地区问题交换意见。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_31430717",
+          "publishedOn": "2025-08-19T11:23:03.000Z",
+          "wordCount": null,
+          "title": "中印举行边界问题特别代表会晤",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_31430617",
+          "author": null,
+          "description": "近日，澎湃新闻独家报道曝光了假院士阮少平和假参事余鹏翔长期利用假身份招摇撞骗。目前，两人均已官宣落网。\n\n假院士阮少平。资料图\n\n\n8月19日，广东深圳市公安局南山分局发布警情通报称：近日，网传阮某平假冒院士等身份行骗。我局对此高度重视，经全面深入调查，现初步查明阮某平（男，63岁）涉嫌假冒退役少将、中科院院士等特殊身份非法获利，并多次假冒特殊身份参加社会活动。目前，阮某平因涉嫌冒充军人招摇撞骗罪已被依法刑事拘留，案件正在进一步侦办中。\n\n假参事余鹏翔。资料图\n\n\n同一天，广东广州市公安局白云分局通报称：近日，网传一余姓男子涉嫌假冒国务院参事、抗美援朝老兵等身份。我局对此高度重视，立即展开调查。8月14日，我局抓获犯罪嫌疑人余某翔（男，73岁）。目前，余某翔因涉嫌冒充军人招摇撞骗罪已被依法采取刑事强制措施。案件正在进一步侦办。\n8月5日，澎湃新闻独家报道披露了一位名为阮少平的男子。近些年，他打着“中国科学院院士”“第一军医大学原常务副校长”“火神山医院政委”等旗号，混迹于部分中小学、革命场馆和公立医院，还在一些所谓论坛上频频登台演讲。澎湃新闻从相关方面获悉，其“中国科学院院士”“中国人民解放军第一军医大学原常务副校长”等身份均系伪造。\n8月7日，澎湃新闻又独家报道，有一声称是“国务院参事余鹏翔”的男子身份存疑。澎湃新闻当日从权威部门了解到，余鹏翔“国务院参事”的身份系伪造。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_31430617",
+          "publishedOn": "2025-08-19T10:53:02.000Z",
+          "wordCount": null,
+          "title": "澎湃新闻独家打假后，假院士阮少平、假参事余鹏翔同日官宣落网",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_31430507",
+          "author": null,
+          "description": "8月19日，平安健康医疗科技有限公司（平安好医生，1833.HK）发布2025年半年报，上半年总营收25亿元，同比增长19.5%；归母净利润1.34亿元，同比增长136.8%。其中，综合金融客户端及企业端企康业务收入同比增长30.2%，公司整体付费用户数同比增长35.1%。报告期内，公司建立37个科室约5万名内外部医生团队，累计签约超3200位专家医生，合作超4000家医院、近10.6万家健康服务供应商、24万家药店、超百家养老护理机构。\n平安好医生提到，通过AI赋能，公司实现AI辅助咨询问诊准确率约98%，复杂疾病MDT（多学科会诊）治疗方案准确率近80%，AI辅助医生日问诊承接量可达400万人次；AI助力家医客均服务成本同比下降约52%，助力业务中台运营效率提升约50%。（澎湃新闻记者 李潇潇）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_31430507",
+          "publishedOn": "2025-08-19T10:53:02.000Z",
+          "wordCount": null,
+          "title": "平安健康上半年利润增长1.3倍，称AI辅助医生日问诊承接量可达400万人次",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_31430440",
+          "author": null,
+          "description": "8月19日，泡泡玛特国际集团发布2025年半年报，财报显示，上半年泡泡玛特营收138.8亿元，同比增长204.4%；经调整净利润47.1亿元，同比增长362.8%；本公司拥有人应占溢利45.74亿元，同比增长396.5%。营收、净利润均超2024全年。（澎湃新闻记者 吴雨欣）\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.site",
+          "link": "https://www.thepaper.cn/newsDetail_forward_31430440",
+          "publishedOn": "2025-08-19T10:53:02.000Z",
+          "wordCount": null,
+          "title": "泡泡玛特上半年净利增近四倍，营收、净利润均超2024全年",
+          "imageUrl": null
+        },
         {
           "id": "https://www.thepaper.cn/newsDetail_forward_31429436",
           "author": null,
@@ -11297,6 +11487,46 @@
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
         {
+          "id": "https://www.nationalreview.com/?p=1866968",
+          "author": "Rich Lowry",
+          "description": "Instead, make it a priority to take advantage of it, since it’s not going anywhere.",
+          "link": "https://www.nationalreview.com/2025/08/dont-blame-mail-in-voting/",
+          "publishedOn": "2025-08-19T10:30:42.000Z",
+          "wordCount": 6492,
+          "title": "Don’t Blame Mail-In Voting",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2025/08/mail-in-ballosts.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1866864",
+          "author": "The Editors",
+          "description": "Donald Trump shouldn’t imitate Joe Biden’s effort to federalize elections.",
+          "link": "https://www.nationalreview.com/2025/08/presidents-dont-run-our-elections/",
+          "publishedOn": "2025-08-19T10:30:21.000Z",
+          "wordCount": 6674,
+          "title": "Presidents Don’t Run Our Elections",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2025/08/donald-trump-1.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1866945",
+          "author": "Aidan Grogan",
+          "description": "The dramatic aging of many countries’ populations will present immense economic, political, and social challenges. Market-oriented reforms can help.",
+          "link": "https://www.nationalreview.com/2025/08/the-coming-japanification-of-economies/",
+          "publishedOn": "2025-08-19T10:30:21.000Z",
+          "wordCount": 10883,
+          "title": "The Coming Japanification of Economies",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2025/08/elderly-japan.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1866648",
+          "author": "Desmond Lachman",
+          "description": "America’s highly compromised public finances require that it do everything to promote economic growth to help manage the debt burden.",
+          "link": "https://www.nationalreview.com/2025/08/the-economic-consequences-of-donald-trump/",
+          "publishedOn": "2025-08-19T10:30:02.000Z",
+          "wordCount": 7166,
+          "title": "The Economic Consequences of Donald Trump",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2025/08/donald-trump-nyse.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
           "id": "https://www.nationalreview.com/?p=1866804",
           "author": "Dominic Pino",
           "description": "Both presidential candidates who advanced to the runoff promise to undo two decades of leftism.",
@@ -14211,6 +14441,104 @@
       "siteUrl": "https://idai.ly",
       "articles": [
         {
+          "id": "idaily-235192",
+          "author": "哈萨克斯坦 · 拜科努尔",
+          "description": "俄罗斯宇航局技术人员正在进行「Bion-M 2号」生物实验卫星的检查工作，哈萨克斯坦拜科努尔。8月19日，俄罗斯「Bion-M 2号」卫星进入发射前最后阶段，预计8月20日由「联盟-2.1b」火箭发射至近地轨道。这颗卫星装载的实验载荷包括75只活体小鼠、1000只果蝇、细胞培养物、微生物和植物种子，计划在太空中停留30天后返回地球，主要任务目标是研究长期处于微重力和辐射环境对生物体的影响。摄影师：Ivan Timoshenko",
+          "link": "https://m.idai.ly/se/ad1S84",
+          "publishedOn": "2025-08-19T10:57:00.000Z",
+          "wordCount": null,
+          "title": "俄罗斯发射生物实验卫星 - August 19, 2025",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/5efd4b49/9df12f20.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/5efd4b49/9df12f20.jpg"
+        },
+        {
+          "id": "idaily-235190",
+          "author": "中国 · 北京",
+          "description": "北京天安门地区举行纪念抗战胜利80周年大会第二次彩排仪式。8月17日凌晨，纪念中国人民抗日战争暨世界反法西斯战争胜利80周年大会第二次综合演练在北京天安门地区举行，共约4万人参加全流程演练。9月3日正式阅兵式检阅装备预计将包括中国新型高超音速反舰导弹、公路机动洲际弹道导弹系统、激光武器、无人水下航行器、无人机及下一代主战坦克和装甲车等。印尼总统 Prabowo Subianto、马来西亚总理 Anwar Ibrahim、越南国家主席梁强等东南亚国家领导人已确认出席本次纪念阅兵仪式。摄影师：iDaily Media",
+          "link": "https://m.idai.ly/se/34a952",
+          "publishedOn": "2025-08-19T09:58:00.000Z",
+          "wordCount": null,
+          "title": "中国抗战胜利阅兵第2次彩排 - August 19, 2025",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/541d94c5/49266391.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/541d94c5/49266391.jpg"
+        },
+        {
+          "id": "idaily-235189",
+          "author": "美国 · 白宫",
+          "description": "美国总统 Donald Trump 与乌克兰总统 Volodymyr Zelensky 举行双边会谈，华盛顿特区。8月18日，乌克兰总统 Zelensky 时隔半年再次访问美国白宫，两国总统就乌克兰战况、战俘交换、持久和平及安全保障问题举行会谈，Trump 承诺美国将参与向乌克兰提供安全保障，声称「已经开始安排俄乌元首会晤，后续可能进行美俄乌三方领导人会晤」。Zelensky 表示已经准备好与俄罗斯举行任何形式的领导人层面会晤，并不再坚持将停火作为谈判的先决条件。摄影师：Ukrainian Presidential Press Service",
+          "link": "https://m.idai.ly/se/aa5qDd",
+          "publishedOn": "2025-08-19T08:57:00.000Z",
+          "wordCount": null,
+          "title": "美乌欧领导人会晤 - August 19, 2025",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/9f39269a/9ddf8531.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/9f39269a/9ddf8531.jpg"
+        },
+        {
+          "id": "idaily-235185",
+          "author": "埃及 · 拉法",
+          "description": "埃及外交部长 Badr Abdelatty 与巴勒斯坦总理 Mohamed Mostafa 在拉法口岸举行联合发布会。8月18日，埃及外交部长访问拉法口岸了解加沙援助物资运送情况。埃及总理 Mostafa Madbouly 当天重申埃方将全力推动加沙地带实现停火，继续通过拉法口岸持续提供援助物资。本轮以巴冲突爆发以来埃及累计向加沙地带提供55万吨人道主义援助物资，占该地区援助总量的70%。摄影师：Mohamed Hossam",
+          "link": "https://m.idai.ly/se/16buZB",
+          "publishedOn": "2025-08-19T08:55:00.000Z",
+          "wordCount": null,
+          "title": "埃及外长访问加沙口岸 - August 19, 2025",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/bc346483/b6cedb13.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/bc346483/b6cedb13.jpg"
+        },
+        {
+          "id": "idaily-235183",
+          "author": "泰国 · 曼谷",
+          "description": "游客们参观曼谷大皇宫玉佛寺。8月18日，泰国旅游局公布2025年迄今累计接待外国游客2081万人次，同比下降-7.04%，主要受中国游客数量低于预期以及日本、越南等地区国家旅游业竞争加剧影响，前五大游客来源地依次为中国、马来西亚、印度、俄罗斯和韩国。泰国国家经济与社会发展委员会宣布将全年外国游客人数预测下调-11%至3300万人次，旅游收入预测下调-8%至1.57万亿泰铢（约合483亿美元)，预计2025年 GDP 增幅在1.8%至2.3%区间。摄影师：Rungroj Yongrit",
+          "link": "https://m.idai.ly/se/fdaEXk",
+          "publishedOn": "2025-08-19T08:53:00.000Z",
+          "wordCount": null,
+          "title": "泰国下调旅游业预期 - August 19, 2025",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/ddf0a706/77274636.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/ddf0a706/77274636.jpg"
+        },
+        {
+          "id": "idaily-235182",
+          "author": "巴西 · 圣保罗州",
+          "description": "巴西总统 Luiz Inácio Lula da Silva 出席长城汽车巴西工厂首辆汽车下线庆祝仪式，伊拉塞马波利斯。8月15日，中国长城汽车巴西工厂正式竣工投产，该工厂是长城汽车海外第三大全工艺整车制造中心，总占地面积120万平方米，年产能5万辆，为当地直接创造1300个就业岗位。巴西全国汽车制造商协会数据显示，2025年上半年巴西自中国进口汽车13万4582辆，同比增长3.6%，占巴西进口汽车总量的62.1%。摄影师：Lin Chunyin",
+          "link": "https://m.idai.ly/se/e16hL2",
+          "publishedOn": "2025-08-19T08:51:00.000Z",
+          "wordCount": null,
+          "title": "长城汽车巴西工厂投产 - August 19, 2025",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/621242bf/49e48e82.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/621242bf/49e48e82.jpg"
+        },
+        {
+          "id": "idaily-235181",
+          "author": "印度尼西亚 · 东努沙登加拉省",
+          "description": "远眺喷发中的印尼勒沃托比火山（Mount Lewotobi Laki-Laki），东努沙登加拉省。8月18日，印尼勒沃托比火山多次剧烈喷发，火山灰烟柱最高升至8000米高空。当地政府已发布最高级红色航空飞行警报，禁止飞机在火山周边6公里以下范围内飞行。印尼火山灾害机构继续维持勒沃托比火山最高级别喷发警戒，禁止民众进入距离火山口7公里范围。勒沃托比火山是印尼境内127座活火山之一，海拔高度1584米，从6月18日起进入间歇喷发状态。摄影师：Arnold Welianto",
+          "link": "https://m.idai.ly/se/188E3L",
+          "publishedOn": "2025-08-19T08:49:00.000Z",
+          "wordCount": null,
+          "title": "印尼勒沃托比火山喷发 - August 19, 2025",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/e06331f4/24a482e2.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/e06331f4/24a482e2.jpg"
+        },
+        {
           "id": "idaily-235132",
           "author": "中国 · 太原",
           "description": "中国长征六号改运载火箭搭载新一批「国网星座」互联网卫星发射升空，太原卫星发射中心。8月17日，长征六号改火箭成功将「国网星座」低轨互联网卫星系统的第9批5颗组网卫星送入预定轨道。「国网星座」目前在轨卫星总数达到72颗，目标2035年前部署完成12992颗，下一批组网卫星预计于8月25日发射。摄影师：iDaily Media",
@@ -16906,6 +17234,16 @@
       "siteUrl": "http://nytimes.com",
       "articles": [
         {
+          "id": "https://cn.nytimes.com/usa/20250819/zelensky-trump-ukraine-trust/dual",
+          "author": null,
+          "description": "ZOLAN KANNO-YOUNGS2025年8月19日乌克兰总统泽连斯基周一抵达白宫，与特朗普总统举行会谈。 Kenny Holston/The New York Times\nFor President Volodymyr Zelensky of Ukraine, a lot is riding on how much he can trust President Trump.\n对于乌克兰总统泽连斯基而言，能在多大程度上信任特朗普总统是至关重要的。\nMr. Trump offered only vague assurances on Monday that the United States would play a role in guaranteeing Ukraine’s safety if Mr. Zelensky were to cut a deal with President Vladimir V. Putin of Russia to stop the fighting.\n周一，特朗普只是含糊其辞地保证，若泽连斯基与俄罗斯总统普京达成停火协议，美国将在保障乌克兰安全方面发挥作用。\n“We’re going to make sure it works,” Mr. Trump said at the start of an hourslong meeting with Mr. Zelensky and a delegation of European leaders at the White House. “And I think if we can get to peace, it’s going to work. I have no doubt about it.”\n“我们会确保协议发挥作用，”特朗普在白宫与泽连斯基及欧洲领导人代表团举行的数小时会谈伊始说…",
+          "link": "https://cn.nytimes.com/usa/20250819/zelensky-trump-ukraine-trust/dual",
+          "publishedOn": "2025-08-19T08:36:01.000Z",
+          "wordCount": 1048,
+          "title": "泽连斯基能信任特朗普吗？乌克兰的命运或许取决于此",
+          "imageUrl": "https://static01.nyt.com/images/2025/08/18/multimedia/18dc-assess-cghj/18dc-assess-cghj-articleLarge.jpg"
+        },
+        {
           "id": "https://cn.nytimes.com/usa/20250819/white-house-summit-diplomacy-courting-trump/dual",
           "author": null,
           "description": "SHAWN McCREESH2025年8月19日周一，特朗普总统在白宫国宴厅会见了乌克兰总统泽连斯基以及其他欧洲领导人。 Doug Mills/The New York Times\nOver the course of the last seven months, the leaders of the Western world have been enrolled in an intensive course of Trumpology. One by one, presidents and prime ministers of European countries have traveled to Washington, learning all sorts of lessons about how best to handle the tricky man who sits behind the big desk in the gold-wrapped room shaped like an Oval.\n过去七个月里，西方世界的领导人一直在接受“特朗普学”的强化课程。欧洲国家的总统和总理们一个接一个地前往华盛顿，学习各种经验教训，以便更好地跟坐在金碧辉煌的椭圆形办公室大办公桌后面那位难缠的人物打交道。\nOn Monday, the whole class showed up at the White House. The time had come to put their education to use. And it was the Ukrainian leader, Volodymyr Zelensky, who seemed to have learned the most since his last visit, when he was mocked f…",
@@ -17984,26 +18322,6 @@
           "wordCount": 888,
           "title": "特朗普反驳赠爱泼斯坦性暗示图画报道，他真的不画画吗？",
           "imageUrl": "https://static01.nyt.com/images/2025/07/18/us/politics/dc-trump-doodles1/dc-trump-doodles1-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/world/20250721/trump-china-technology/dual",
-          "author": null,
-          "description": "ANA SWANSON, TRIPP MICKLE2025年7月21日美国财政部长斯科特·贝森特（左）与美国贸易代表贾米森·格里尔（右二）于5月在日内瓦与中方官员会面。 Martial Trezzini/Keystone, via Reuters\nIn recent years, one of China’s biggest requests of American officials has been that the United States relax its strict controls on advanced artificial intelligence chips, measures that were put in place to slow Beijing’s technological and military gains.\n近年来，中国对美国官员提出的一个主要要求就是希望能够放宽对先进人工智能芯片的严格管控，这些限制措施旨在延缓北京在科技和军事上的发展。\nLast week, the Trump administration did just that, as it allowed the world’s leader in A.I. chips, the U.S.-based Nvidia, to begin selling a lower-level but still coveted chip known as H20 to China.\n上周，特朗普政府真的这么做了，它允许全球人工智能芯片的主导企业——总部位于美国的英伟达——开始向中国销售一款性能较低但仍令人垂涎的H20芯片。\nThe move was a dramatic reversal from three months ago, when President Trump himse…",
-          "link": "https://cn.nytimes.com/world/20250721/trump-china-technology/dual",
-          "publishedOn": "2025-07-21T04:06:03.000Z",
-          "wordCount": 2234,
-          "title": "从一味强硬到试图拉拢，特朗普对华政策为何戏剧性逆转",
-          "imageUrl": "https://static01.nyt.com/images/2025/07/20/multimedia/20dc-trump-china-01-pkjg/20dc-trump-china-01-pkjg-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/china/20250721/china-exit-ban-business-anxiety/dual",
-          "author": null,
-          "description": "KEITH BRADSHER2025年7月21日富国银行在纽约市的一家分行。富国银行是主导处理中国进出口美元支付业务的六家全球性银行之一。 Gabby Jones for The New York Times\nChina wants foreign businesses to invest more in the country, but recent actions taken against foreign executives and a U.S. government employee are sending a chill. Chinese authorities have blocked a U.S.-based Wells Fargo banker from returning home, and separately sentenced a Japanese executive to more than three years’ imprisonment for espionage.\n中国希望外国企业加大对华投资，但最近针对数名外国高管以及一名美国政府雇员的举动却令人不寒而栗。中国当局阻止了一名常驻美国的富国银行银行家回国，并以间谍罪判处一名日本高管三年以上监禁。\nThough few details of the cases have been made known, they are a reminder of China’s expansive security apparatus and what to some executives, business groups and foreign governments is an opaque legal system that makes traveling to the country risky.…",
-          "link": "https://cn.nytimes.com/china/20250721/china-exit-ban-business-anxiety/dual",
-          "publishedOn": "2025-07-21T00:36:02.000Z",
-          "wordCount": 1031,
-          "title": "富国银行驻美高管被中国限制离境引发商界担忧",
-          "imageUrl": "https://static01.nyt.com/images/2025/07/20/multimedia/20biz-china-banker-qwlf/20biz-china-banker-qwlf-articleLarge.jpg"
         }
       ]
     },
@@ -18530,36 +18848,6 @@
           "publishedOn": "2025-07-24T01:58:00.000Z",
           "wordCount": 272,
           "title": "爱女叙事下，我们如何想象“姐妹情谊”？",
-          "imageUrl": null
-        },
-        {
-          "id": "5d5ac5593f5fa2ffb995be5e215470e6",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E4%BD%9C%E4%B8%BA%E9%A2%A0%E8%A6%86%E5%8A%9B%E9%87%8F%E7%9A%84%E8%AF%AD%E8%A8%80%EF%BC%8C%E9%87%8D%E5%86%99%E9%A9%AC%E5%85%8B%C2%B7%E5%90%90%E6%B8%A9%E7%9A%84%E7%BB%8F%E5%85%B8%EF%BD%9C%E3%80%8A%E8%A9%B9%E5%A7%86%E6%96%AF%E3%80%8B",
-          "publishedOn": "2025-07-21T02:18:00.000Z",
-          "wordCount": 308,
-          "title": "作为颠覆力量的语言，重写马克·吐温的经典｜《詹姆斯》",
-          "imageUrl": null
-        },
-        {
-          "id": "27b31eeb219b93ee8ed186d4cf5eccbd",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E5%8F%8D%E6%80%9D%E7%8E%B0%E4%BB%A3%E5%93%B2%E5%AD%A6%EF%BC%8C%E8%AE%A9%E2%80%9C%E5%B9%B8%E7%A6%8F%E2%80%9D%E5%9B%9E%E5%BD%92%E6%97%A5%E5%B8%B8%E8%AF%AD%E5%A2%83",
-          "publishedOn": "2025-07-21T02:18:00.000Z",
-          "wordCount": 310,
-          "title": "反思现代哲学，让“幸福”回归日常语境",
-          "imageUrl": null
-        },
-        {
-          "id": "c04df4eda4cd7a232211b67d02b0cec2",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E6%97%85%E6%B8%B8%E2%80%9C%E8%BF%87%E8%BD%BD%E2%80%9D%E8%AD%A6%E6%8A%A5%EF%BC%9A%E8%B0%81%E5%9C%A8%E5%AE%9A%E4%B9%89%E5%9F%8E%E5%B8%82%E7%9A%84%E6%9D%83%E5%88%A9%EF%BC%9F",
-          "publishedOn": "2025-07-21T02:18:00.000Z",
-          "wordCount": 310,
-          "title": "旅游“过载”警报：谁在定义城市的权利？",
           "imageUrl": null
         }
       ]
