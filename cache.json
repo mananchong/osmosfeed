@@ -44,16 +44,6 @@
           "wordCount": 6058,
           "title": "R Weekly 2025-W35 Introducing g6R, Julia for R users",
           "imageUrl": "https://rweekly.org/public/facebook.png"
-        },
-        {
-          "id": "https://rweekly.org/2025-W34.html",
-          "author": null,
-          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Colin Fay, with help from the R Weekly team members and contributors.\nHighlight\nAnnouncing Positron, a new Data Science IDE\n{shinytesters}: Updating Inputs in testServer\nAdding Shiny app’s parameters to the URL\nInsights\nThe Pharma Leader’s Reading List: 14 Resources for Busy Executives\nA Personal Message from an Open Source Contributor\nWhich AI model writes the best R code?\nR in the Real World\nKyoto (京都), Japan, vs. Montréal, Canada, a first comparison\nAnnouncing Positron, a new Data Science IDE\nManaging Remote Database Connections from Quarto Documents\nMen’s domestic chores and fertility rates - Part I by @ellis2013nz\nLearning Antimicrobial Resistance (AMR) genes with Bioconductor\nResources\nC++ for R Users\nNew Packages\n📦 Go Live for More New Pkgs 📦\n -->\n📦 Keep up to date wtih CRANberries 📦\nGitHub or Bitbucket\n{shinytesters}: Updating Inputs in testServer\nUpdated Packages\n🔍 Search on R-universe 🔍\n{osmapiR} 0.2.4: Interface to OpenStreetMap API - diffify\nVideos and Podcasts\nListen to the R-Weekly Highlights Podcast\nTutorials\n\n-->\n\n\n  \nAdding Shiny app’s parameters to the URL\nMeasures of Central Tendency for an Asymmetric Distribution, and Confidence Intervals\nSeven accessibility tips for Quarto and R Markdown users\nR Project Updates\nUpdates from R Core:\nCall for Participation\n  \n \nPost by @rOpenSci@hachyderm.io\n View on Mastodon\n  \n\n\nUpcoming Events in 3 Months\nEvents in 3 Months:\nRAG (Retrieval Augmented Generation) in R with ragnar workshop\nA list of R conferences and meetings\nThis week’s local R-User and applied stats events\nWeekly R Workshops for Ukraine\nConnect\nJoin the Data Science Learning Community",
-          "link": "https://rweekly.org/2025-W34.html",
-          "publishedOn": "2025-08-18T00:00:00.000Z",
-          "wordCount": 5548,
-          "title": "R Weekly 2025-W34",
-          "imageUrl": "https://rweekly.org/public/facebook.png"
         }
       ]
     },
@@ -469,6 +459,206 @@
       "feedUrl": "https://feedx.net/rss/thepaper.xml",
       "siteUrl": "http://thepaper.cn",
       "articles": [
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_31621125",
+          "author": null,
+          "description": "当地时间9月16日，波兰“爱国者”防空系统在该国北部小镇乌斯特卡附近的军事训练场首次进行实弹射击。\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.site",
+          "link": "https://www.thepaper.cn/newsDetail_forward_31621125",
+          "publishedOn": "2025-09-16T15:53:05.000Z",
+          "wordCount": 27,
+          "title": "波兰“爱国者”防空系统首次进行实弹射击",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_31621130",
+          "author": null,
+          "description": "9月16日，藏东南至粤港澳大湾区±800千伏特高压直流输电工程建设动员大会以视频会议形式在广东、西藏、云南、广西四省区同步举行。广东省委书记黄坤明、西藏自治区党委书记王君正、广东省省长王伟中、西藏自治区主席嘎玛泽登以及广西、云南、国家电网、南方电网的负责同志出席大会并共同启动工程建设。\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.site",
+          "link": "https://www.thepaper.cn/newsDetail_forward_31621130",
+          "publishedOn": "2025-09-16T15:53:05.000Z",
+          "wordCount": 27,
+          "title": "藏粤直流工程启动建设，黄坤明王君正王伟中嘎玛泽登出席工程建设动员大会",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_31621112",
+          "author": null,
+          "description": "当地时间9月16日，罗伯特·雷德福去世的消息传出后，众多好莱坞的业内人都在社交媒体上发文怀念。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_31621112",
+          "publishedOn": "2025-09-16T15:23:04.000Z",
+          "wordCount": 31,
+          "title": "一个传奇离场了，电影人缅怀罗伯特·雷德福",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_31619616",
+          "author": null,
+          "description": "今年5月，江苏省政府办公厅印发的《江苏省实施提振消费专项行动若干措施》提出，鼓励有条件的地方试行将“五一”前3个工作日、“国庆”前3个工作日分别设置为中小学春假和秋假。\n眼下距离“国庆”只剩下两周时间，不少学生家长关心秋假是否落地，也有部分家长担心如果放秋假，可能存在孩子无人照管的情况。\n9月16日，人民网从江苏省教育厅相关负责人获悉，中小学春秋假并非省级层面的硬性要求，各设区市正在研究相关事宜，将结合各地不同情况做出安排。\n昨日，南京市教育局工作人员对人民网表示，暂时没有关于秋假的最新消息，后续如有放秋假的通知，将第一时间通过官方平台发布，请学校和学生家长留意官网信息。此外，苏州、常州市教育部门均表示，暂未收到秋假的安排通知。\n目前，浙江省杭州市、广东省佛山市已明确实行中小学春秋假制度。对于春秋假期间确实无法陪同孩子的部分家庭，两地均明确提供春秋假托管服务，且不可收取托管服务费，学生用餐据实收费，收费标准提前公示并告知家长。\n9月16日，商务部等9部门对外发布了《关于扩大服务消费的若干政策措施》，提出五方面19条举措。其中优化学生假期安排，完善配套政策中提到，在放假总天数和教学时间总量保持不变的情况下，鼓励有条件的地方结合气候条件、生产安排、职工带薪休假制度落实等因素，科学调整每学年的教学和放假时间，探索设置中小学春秋假，相应缩短寒暑假时间，增加旅游出行等服务消费时间。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_31619616",
+          "publishedOn": "2025-09-16T14:53:03.000Z",
+          "wordCount": 27,
+          "title": "江苏省教育厅回应“中小学秋假”：将结合各地不同情况做出安排",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_31621059",
+          "author": null,
+          "description": "一张全家福照片里，人物突然动了起来，微笑着开口说话：“幸福美满的祖孙三代，一代比一代强。”创造这个神奇画面的是89岁的贺储兴——一位在养老院里学习AI技术的上海老兵。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_31621059",
+          "publishedOn": "2025-09-16T14:53:03.000Z",
+          "wordCount": 29,
+          "title": "养老院里的AI课堂：老人们学做动态照片，把豆包当“搭子”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_31620260",
+          "author": null,
+          "description": "近日，日本发生一起涉中国公民严重交通事故，一名乘客不幸去世，三名乘客受重伤。中国驻日本大使馆提醒在日中国公民增强交通安全意识，遵守当地交通法规，确保出行安全。\n一、自驾机动车出行时，确保驾驶人持有有效国际驾照或日本驾照。提前购买保险、检查车况，做好路线规划，切勿无照驾驶、鲁莽驾驶、超速驾驶、酒后驾驶、疲劳驾驶，通过无信号灯的路口时务必停车观察。\n二、包车出行时，选择正规营运客车,不乘坐超员客车及非法营运的无证车辆。旅途中如发现司机疲劳驾驶、车速过快等情况，及时主动提醒。\n三、乘坐公共交通出行时，提前确认路线及车次，确保事先购买车票，有序排队上下车。乘车时不大声喧哗，尊重当地风俗习惯。\n四、步行外出时，留意来往车辆，过马路须走人行横道或过街设施。切勿闯红灯或横穿马路。通过铁路道口时务必确保安全，切勿在道口内停留。\n如遇交通事故，请保持冷静，在确保自身安全的前提下及时拨打当地报警、急救电话，并联系中国驻日本使领馆求助。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_31620260",
+          "publishedOn": "2025-09-16T14:23:02.000Z",
+          "wordCount": 28,
+          "title": "日本发生一起涉中国公民交通事故致1死3重伤，中使馆发提醒",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_31620962",
+          "author": null,
+          "description": "上海电力（600021.SH）9月16日公告，披露关于终止重大资产购买事项投资者说明会内容。针对历时9年重大跨境资产收购告吹，上海电力称不会对上市公司现有生产经营活动、财务状况造成重大不利影响，未来将继续落实“均衡增长战略”，坚定不移地推进“做强做优做大上海，健康有序发展国内，精准布局决胜海外”。\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.site",
+          "link": "https://www.thepaper.cn/newsDetail_forward_31620962",
+          "publishedOn": "2025-09-16T14:23:02.000Z",
+          "wordCount": 29,
+          "title": "上海电力9年跨国并购长跑告吹，但重组预期下近两月股价涨超130%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_31620940",
+          "author": null,
+          "description": "澎湃，澎湃新闻，澎湃新闻网，新闻与思想，澎湃是植根于中国上海的时政思想类互联网平台，以最活跃的原创新闻与最冷静的思想分析为两翼，是互联网技术创新与新闻价值传承的结合体，致力于问答式新闻与新闻追踪功能的实践。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_31620940",
+          "publishedOn": "2025-09-16T13:53:03.000Z",
+          "wordCount": 33,
+          "title": "于朦胧母亲：于朦胧系饮酒意外坠楼",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_31620946",
+          "author": null,
+          "description": "9月15日，由国峡新能源科技（上海）有限公司投资建设的集散两用纯电动智能船舶“国峡001号”举行吉水仪式。此举标志着上海内河航运纯电动船舶示范应用正式迈入新阶段，将为落实“交通强国建设纲要”，推进内河航运绿色低碳转型提供有力支撑。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_31620946",
+          "publishedOn": "2025-09-16T13:53:03.000Z",
+          "wordCount": 29,
+          "title": "推进内河航运绿色低碳转型，上海首艘集散两用纯电动智能船舶吉水投用",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_31620949",
+          "author": null,
+          "description": "固态电池话题火爆之际，蜂巢能源也对外持续披露公司在该技术路线上的布局和进展。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_31620949",
+          "publishedOn": "2025-09-16T13:53:03.000Z",
+          "wordCount": 29,
+          "title": "蜂巢能源董事长杨红新：全固态电池成本仍为液态电池的5-10倍",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_31620686",
+          "author": null,
+          "description": "据多家美国媒体报道，曾主演《虎豹小霸王》《走出非洲》《往日情怀》《总统班底》等影片的好莱坞著名电影人罗伯特·雷德福（Robert Redford），于当地时间9月16日去世，享年89岁。\n\n2019年，罗伯特·雷德福出席恺撒奖颁奖典礼。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_31620686",
+          "publishedOn": "2025-09-16T13:23:03.000Z",
+          "wordCount": 88,
+          "title": "著名电影人罗伯特•雷德福去世，享年89岁",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_31620917",
+          "author": null,
+          "description": "近日，网传“我校男留学生与国内女生同住一栋学生公寓”。对此，我校高度重视，立即开展核查。\n经查，2025年我校留学生规模增加，招收了37个国家的近三百名来华留学生。9月15日为我校2025级留学生报到日，自上午10时开始，陆续有留学生前来报到。因原定为2025级男留学生住宿点的16号学生公寓部分家具尚未到位，学校将当天陆续报到的男留学生30人临时安排于6号学生公寓2、3、4层暂住（此前该栋2、3、4层为空置房）。考虑到6号公寓5至8层为女生宿舍，学校在此期间实行了严格的电梯管控、专人值班、分层管理等相关措施。截至9月16日17时，学校已将6号公寓临时安排的男留学生全部安排入住到16号公寓。目前，学校教学秩序正常。\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.site",
+          "link": "https://www.thepaper.cn/newsDetail_forward_31620917",
+          "publishedOn": "2025-09-16T13:23:03.000Z",
+          "wordCount": 28,
+          "title": "多名男性留学生混住女生宿舍楼？重庆理工大学通报",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_31620919",
+          "author": null,
+          "description": "当地时间9月15日，委内瑞拉总统马杜罗强烈谴责美国近期对委内瑞拉渔船的非法拦截行为，宣布中断与美国政府之间的一切联系。马杜罗表示，近期委内瑞拉与美国之间发生的事件并非“关系紧张”，而是美方对委内瑞拉的“侵略”。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_31620919",
+          "publishedOn": "2025-09-16T13:23:03.000Z",
+          "wordCount": 33,
+          "title": "马杜罗谴责美国侵略委内瑞拉：“中断与美政府一切联系”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_31618571",
+          "author": null,
+          "description": "“台风”战斗机 视觉中国 资料图\n\n\n英国将在北约东翼行动中部署“台风”战斗机。\n据央视新闻9月15日报道，波兰国家安全局在社交平台宣布，波兰总统纳夫罗茨基已签署关于同意北约成员国军队驻扎波兰领土的决议。关于该进驻决定的具体安排和细节涉及机密内容不予公开。\n据俄罗斯塔斯社16日报道，英国国防部表示，皇家空军的“台风”战斗机将参与北约启动的“东方哨兵”行动，预计将在未来几天启程，随后在波兰上空执行飞行任务，并将获得英国皇家空军布莱兹诺顿基地“航海者”空中加油机的支援。参与此次行动的盟军飞机包括丹麦的 F-16 战斗机、法国的“阵风”战斗机和德国的“台风”战斗机，将一起为荷兰的 F-35 和波兰的 F-16 战机提供增援。\n目前，北约正在部署“东方哨兵”系统，并整合丹麦、法国、英国、德国等多个盟友的军事资源，以强化欧洲东翼防御态势。据悉，北约秘书长马克・吕特于 9 月 12 日宣布启动‘东方哨兵’行动，该行动是10日俄罗斯无人机进入波兰事件发生后，北约根据“第四条”（要求成员国承诺“当北约成员国在领土完整、政治独立或安全受到威胁时，在任何一个成员国的提议下，北约各国将进行紧急磋商”）进行磋商的结果。\n“台风”战机配备先进的传感器和武器系统，非常适合探测、监视和拦截潜在的空中威胁。据英国《卫报》称，“台风”战斗机将在必要时击落波兰和东欧其他北约盟国上空的俄罗斯无人机。英国国防大臣约翰·希利表示，北约正“团结一致、强力应对”来自俄罗斯的威胁：如果无人机危及波兰人的生命，北约就会采取行动将其消灭。他还表示，“台风”战斗机是“保卫北约领空”行动的一部分，如有必要，将“台风”战机将把行动范围扩大到罗马尼亚（东欧第二个在一周内发现俄罗斯无人机进入其领空的北约盟国）。\n据央视新闻报道，俄罗斯驻波兰使馆临时代办安德烈·奥尔达什10日称，俄方认为波兰的指控“毫无根据”“没有任何证据表明这些无人机来自俄罗斯”。俄罗斯外交部10日发表声明说，就波兰所谓无人机越界事件，俄外交部愿意加入两国国防部之间可能举行的磋商。\n声明说，俄国防部已确认波兰境内并无俄方打击目标。俄军当天对乌打击中使用的、波方所谓进入波兰境内的无人机，其最大飞行距离不超过700公里。俄国防部发布的事实驳斥了波方再次散布旨在加剧乌克兰危机的谣言。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_31618571",
+          "publishedOn": "2025-09-16T12:53:03.000Z",
+          "wordCount": 69,
+          "title": "英国将在北约东翼部署战斗机，英军称必要时将击落俄军无人机",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_31620180",
+          "author": null,
+          "description": "9月16日，河南省南阳市淅川县就“豫鄂交界水域存在以清淤、采砂之名违法淘金情况”发布通报，全文如下：\n9月16日上午，媒体对豫鄂交界水域存在的以清淤、采砂之名违法淘金情况进行报道。淅川县第一时间成立联合调查组，组织公安、水利、生态环境、自然资源等相关部门迅速开展调查核实。目前，公安机关已控制5名责任人，并对涉案采砂船和砂场相关设备进行扣押封存，将根据调查结果依法严肃处理。同时，对全县范围内砂石场和河道采砂作业开展全面排查整治，确保依法规范及河道生态安全。\n涉及部门和行业监管责任的，纪检监察机关已介入调查。\n淅川县联合调查组\n2025年9月16日\n\n【此前报道】\n据中国青年网报道，在河南省南阳市淅川县、西峡县和湖北省十堰市郧阳区、郧西县，大量船只在河道、江面以清淤、采砂之名“淘金”，采用“水银吸金”工艺，污水直排河道。\n该现象在河道周边砂场同样大量存在。\n报道称，上述地区的一些采砂船看上去是在清淤、采砂，实际上是在“捞金”。船工及当地村民介绍，采金最明显的标志是，在筛砂的振动筛下铺有绿色的“粘金毯”。\n“粘金毯”之所能粘住金子，是向毯子上撒了水银。水银有吸附金子的特性，业内称为“水银吸金”工艺。每艘船上铺有多张“粘金毯”。此外，记者在现场看到，“水银吸金”后的污水均就地直排。船工往船上运送燃料柴油后，直接把柴油桶丢到河里。\n\n\n视频截图 来源“青蜂侠”\n\n\n9月16日，记者联系十堰市郧阳区水利和湖泊局、十堰市生态环境局郧阳分局了解相关情况，工作人员均表示已注意到相关报道，当日上午，单位领导已赴现场调查了解详细情况。\n“调查是郧阳区政府组织的，到现场的单位有区环保局和区水利局，正在开展相关工作。”十堰市生态环境局郧阳分局工作人员表示，后续将向记者反馈调查结果。\n记者注意到，《中华人民共和国矿产资源法》第四条规定，矿产资源属于国家所有，禁止任何单位和个人以任何手段侵占或者破坏矿产资源。《中华人民共和国河道管理条例》第二十五条规定，在河道管理范围内进行采砂、取土、淘金、弃置砂石或者淤泥等活动，必须报经河道主管机关批准。（综合红星新闻、中国青年网）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_31620180",
+          "publishedOn": "2025-09-16T12:53:03.000Z",
+          "wordCount": 54,
+          "title": "河南湖北等地被曝以采砂之名淘金，南阳淅川警方已控制5名责任人",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_31620698",
+          "author": null,
+          "description": "9月15日，也门胡塞武装发言人叶海亚·萨雷亚在社交平台发表视频声明称，胡塞武装共发射4架无人机对2处以色列目标发起攻击，其中3架无人机袭击了以色列第二大机场——拉蒙机场，还有1架无人机袭击了位于内盖夫地区的以色列军事目标。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_31620698",
+          "publishedOn": "2025-09-16T12:53:03.000Z",
+          "wordCount": 33,
+          "title": "胡塞武装：无人机再袭以色列第二大机场",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_31620700",
+          "author": null,
+          "description": "据多家美国媒体报道，曾主演《虎豹小霸王》《往日情怀》《总统班底》等影片的好莱坞著名电影人罗伯特·雷德福（Robert Redford）去世，享年89岁。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_31620700",
+          "publishedOn": "2025-09-16T12:53:03.000Z",
+          "wordCount": 32,
+          "title": "著名电影人罗伯特•雷德福去世，享年89岁",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_31618658",
+          "author": null,
+          "description": "9月16日，外交部发言人林剑主持例行记者会。\n有记者提问，据报道，作为两国联合演习的一部分，美国已在日本部署“堤丰”中导系统。中方曾表示反对在地区部署“堤丰”，称其升级军备竞赛。发言人对于这一新的动向有何评论？\n林剑表示，美方、日方不顾中方的严正关切，执意以联合演训之名在日本部署“堤丰”中导系统。中方对此强烈不满，坚决反对。\n美国在亚洲国家部署“堤丰”中导系统，损害其他国家正当安全利益，推高地区军备竞赛和军事对抗风险，对地区的战略安全构成实质性威胁。美方、日方应切实尊重他国的安全关切，以实际行动为地区的和平稳定发挥正面作用，而不是相反。中方敦促美方、日方正视地区国家的呼声，纠正错误的做法，尽快撤走“堤丰”中导系统。\n林剑指出，由于军国主义侵略历史，日本的军事安全动向一直备受亚洲邻国和国际社会高度关注。今年是中国人民抗日战争暨世界反法西斯战争胜利80周年，我们敦促日方深刻反省侵略历史，坚持走和平道路，在军事安全领域谨言慎行，不要为虎作伥，做失信于亚洲邻国和破坏地区和平稳定的事。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_31618658",
+          "publishedOn": "2025-09-16T12:53:03.000Z",
+          "wordCount": 32,
+          "title": "外交部回应美在日部署“堤丰”中导系统：强烈不满，坚决反对，尽快撤走",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_31619701",
+          "author": null,
+          "description": "刘强东在现场炒菜“黄狗猪头肉” 澎湃新闻记者 范佳来 摄(00:36)\n9月16日，在京东首次品酒会上，京东创始人、董事局主席刘强东现身，并为现场观众炒菜，菜品为宿迁四大名菜之一“黄狗猪头肉”，此次品酒会吸引不少关注，在直播平台上也吸引超百万观众。\n现场刘强东表示，自己是第一次参加直播，还是略感紧张，自己只要回家就会给家人做菜，“在座的都是一家人”。\n\n澎湃新闻记者 范佳来 图\n\n\n澎湃新闻记者在现场看到，刘强东在现场与众多嘉宾合影交谈，并将与现场嘉宾逐一敬酒交流。\n刘强东此次亮相，或与京东即将大力发力酒旅业务有关，此前澎湃新闻记者获悉，京东旅行正式推出“京东品酒会”，将定期举办，联动酒店和酒品牌，打造差异化住宿体验。\n当时京东曾预告，首场品酒会将在北京国际饭店举办，刘强东将亲临现场与现场嘉宾共同品酒。\n根据京东App显示，生活旅游服务已经悄然上线，其中包含酒店、机票、火车票、景点门票等分类。在外卖业务站稳脚跟后，京东开始正式进军酒旅，曾经引发广泛关注。\n6月18日，京东面向全体酒店经营者发布公开信，酒店商家参与“酒店PLUS会员计划”，享受最高三年0佣金。其中提到：“京东有全国超8亿高消费力用户，与全国超30000家大型企业和超800万中小企业客户深度合作，京东用户及合作伙伴与四星以上酒店主力客群高度重合。”\n在京东App首页的“品质生活”频道，京东旅行和品质外卖入口位列同一排，同时酒旅业务和外卖业务也进行了联动，可享受“订酒店每满100元返10元外卖券”。\n此次京东品酒会，也被外界视为京东进一步进军酒旅业务的信号。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_31619701",
+          "publishedOn": "2025-09-16T12:23:04.000Z",
+          "wordCount": 69,
+          "title": "刘强东亮相京东品酒会：称首次直播有点紧张，现场炒制宿迁名菜",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_31619824",
+          "author": null,
+          "description": "北京时间9月16日晚，2025/26亚冠精英联赛小组赛东亚区首轮将正式拉开战幕，上海申花客场1比2不敌江原FC。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_31619824",
+          "publishedOn": "2025-09-16T12:23:04.000Z",
+          "wordCount": 27,
+          "title": "客场1比2不敌江原FC，上海申花亚冠首场遭逆转",
+          "imageUrl": null
+        },
         {
           "id": "https://www.thepaper.cn/newsDetail_forward_31618742",
           "author": null,
@@ -11668,156 +11858,6 @@
           "wordCount": 28,
           "title": "广东廉江一家三人遭邻居杀害案一审宣判：被告被判死刑",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_31421086",
-          "author": null,
-          "description": "A股三大股指8月18日集体跳空高开，沪指更是站上3700点之上。早盘两市继续高歌猛进，沪指突破2021年新高后创出十年来新高。\n从盘面上看，金融科技概念连续爆发，覆铜板、CPO等AI硬件端再掀历史新高潮，稀土、短剧概念强劲补涨。\n\n至午间收盘，上证综指涨1.18%，报3740.5点；科创50指数涨3.11%，报1135.54点；深证成指涨2.25%，报11896.38点；创业板指涨3.63%，报2626.29点。\nWind统计显示，两市及北交所共4492家上涨，816家下跌，平盘有111家。\n两市早盘成交17220亿元；据大智慧VIP，两市及北交所共有187只股票涨幅在9%以上，3只股票跌幅在9%以上。\n从板块上看，申万所有板块均处于上涨态势，科技股依旧是上涨的主力军。\n通信、计算机和电子板块联袂上攻，大幅上涨掀起涨停潮，南亚新材（688519）、天承科技（688603）、影石创新（688775）、腾景科技（688195）、中兴通讯（0000063）等大批个股涨停或涨超10%。\n券商股盘初下挫后迅速拉起，带动非银金融表现强势，长城证券（002939）涨停，湘财股份（600095）、西部证券（002673）等涨超6%，天风证券（601162）、东方财富（300059）、电投产融（000958）等涨超4%。\n社会服务涨幅居前，西藏旅游（600749）、凯撒旅业（000796）等涨停，安邦护卫（603373）、豆神教育（300010）、中公教育（002607）等涨超4%。\n兴证策略指出，在国家战略方向指引下，叠加关键时刻的政策与资金托底、新动能的持续显现，带动市场信心活化、增量资金入市不断形成合力之下，当前市场正在经历“健康牛”。往后看，机构开户热情增长下，权益基金新发有望继续改善。历史上机构新开户数与权益基金新发规模显著正相关。机构开户热情增长下，后续权益基金新发有望继续改善。资产端与负债端的正反馈有望逐步形成，新一轮“机构牛”或已在途。\n中信建投证券指出，本轮慢牛行情始于6月23日，共有4个特征：结构性景气是当下市场的主要推力；内外部不确定性限制短期资金的快速涌入；市场做多方向明确但节奏稳健。目前投资者情绪上升较快，注意市场后续过热可能。中期市场慢牛行情后续两个演化的可能：一是市场回调整固，放慢上涨节奏，市场慢牛的格局有望延续；二是市场加速赶顶，可能因为交易过热或交易结构恶化出现大幅回调，导致本轮慢牛行情结束。行业配置方面，建议以红利板块作为底仓，对新赛道的进攻应注重赛道间轮动。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_31421086",
-          "publishedOn": "2025-08-18T04:23:04.000Z",
-          "wordCount": 36,
-          "title": "A股早盘高开高走放量上攻，沪指创10年来新高",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_31420983",
-          "author": null,
-          "description": "本周8月18日至8月24日\n据外交部网站消息，8月18日至20日，中共中央政治局委员、外交部长、中印边界问题中方特别代表王毅将应邀访问印度并举行中印边界问题特别代表第24次会晤。\n据新华社报道，美国总统特朗普和乌克兰总统泽连斯基16日分别证实，双方将于18日在美国首都华盛顿举行会晤。同时，多位欧洲领导人宣布将同泽连斯基一道前往美国。\n据新华社报道，韩国总统李在明将于8月23日至24日访问日本，并与日本首相石破茂举行日韩首脑会谈。另据韩联社报道，李在明将于24日至26日对美国进行工作访问，并将在白宫同美国总统特朗普举行会谈并共进午餐。\n“三年多来首次”，王毅今起访问印度\n8月16日，外交部发言人宣布： 8月18日至20日，中共中央政治局委员、外交部长、中印边界问题中方特别代表王毅将应邀访问印度并举行中印边界问题特别代表第24次会晤。这将是自2020年中印军队发生致命冲突以来第二次举行边界问题特别代表会晤，也是王毅三年多来首次访问印度。\n据《印度斯坦时报》16日报道，王毅将在此访期间与印度外长苏杰生和国家安全顾问多瓦尔举行会谈。知情人士透露，在与多瓦尔的会谈中，两人预计将探讨多项增加互信的措施，他们还将讨论恢复边境贸易以及双方都能接受的边界问题解决框架。\n印度《德干纪事报》称，今年6月，前往中国参加上合组织相关会议的多瓦尔与王毅在北京会晤，表达了在印度主办印中边界问题特别代表会晤的意愿。苏杰生上月也访问了中国，强调进一步缓和边境局势对于实现双边关系正常化是必要的。\n《印度快报》称，双方将讨论下一步如何缓解紧张局势并减少军事人员的部署。彭博社引述知情人士的说法称，讨论在边境地区减少驻军将标志着印中两国在恢复互信方面取得重大进展。\n自去年以来，中国与印度关系出现回暖。据新加坡《联合早报》8月14日报道，两国正在商谈恢复边境贸易。此外，《印度时报》等多家媒体13日报道称，两国将于9月恢复直飞航班。\n中国外交部发言人林剑14日在回应彭博社“如何看待美印关系面临挑战，中印关系显现积极势头”有关问询时表示，中国和印度都是发展中大国、全球南方重要成员，做相互成就的伙伴，实现“龙象共舞”，是双方正确选择。\n泽连斯基再度访美，多位欧洲领导人将同行\n据新华社报道，特朗普16日表示，泽连斯基将于美国东部时间18日下午前往白宫椭圆形办公室。“如果一切顺利，我们接下来将安排与（俄罗斯）普京总统的（三方）会晤。”\n当天早些时候，泽连斯基说，他同特朗普进行了“长时间且内容充实”的通话，将应邀于18日在华盛顿与特朗普会晤，讨论结束俄乌冲突的“所有细节”。乌克兰支持举行乌克兰、美国和俄罗斯三方会议的提议。\n据央视新闻8月17日报道，欧盟委员会主席冯德莱恩及法国总统马克龙、德国总理默茨、英国首相斯塔默、意大利总理梅洛尼等也将于同一天赴美。据悉，泽连斯基17日到访布鲁塞尔并与冯德莱恩会见，双方举行了新闻发布会。冯德莱恩表示，欧盟将与乌克兰继续合作，实现尊重乌克兰以及欧洲重要安全利益的公正和平。\n当地时间15日，特朗普和普京在阿拉斯加州安克雷奇市埃尔门多夫-理查森联合军事基地举行会晤。双方对会晤评价积极，但未就俄乌停火等问题达成协议。\n据报道，特朗普在从阿拉斯加返回华盛顿的专机上向泽连斯基，以及英国、法国、德国、意大利、芬兰、北约和欧盟委员会的领导人通报了普京的立场。特朗普16日在社交媒体表示，“各方一致认为，结束俄乌之间这场可怕战争的最佳途径是直接达成一项能够结束战争的和平协议”。\n韩国总统李在明将访问日美\n据新华社8月13日报道，韩国总统府宣布，李在明将于8月23日至24日访问日本，他将与石破茂就深化韩日、韩美日合作方案以及区域和平稳定、地区与全球议题等交换意见。随后，李在明将启程赴美，25日与美国总统特朗普举行会谈。\n日本共同社称，这是李在明6月当选以来首次访日。会谈拟确认两国是应作为伙伴开展合作的重要邻国，并商定日韩之间保持密切沟通。应对推进核与导弹开发的朝鲜、日韩及日美韩安全保障合作也将成为主要议题。预计双方都将严重关切俄罗斯与朝鲜推进军事合作。\n另据央视新闻报道，韩国总统府表示，韩美双方将在近期关税磋商基础上就深化韩美同盟、构筑半岛和平以及双方在半导体、造船等领域的合作展开交流。韩国《朝鲜日报》称，韩美之间堆积了一系列艰巨的任务，其中包括贸易协定的后续措施、扩大国防支出及增加防卫费分担金额、调整驻韩美军的作用和责任等同盟现代化协商。李在明还面临确定除特朗普7月30日通报贸易协定消息时预告的3500亿美元对美投资之外的“追加投资金额”的课题。\n韩联社称，李在明是韩国首位就任后先访日再访美的总统。报道称，政府换届后，韩国领袖先与日方举行会谈，再与美方举行会谈，这种安排较为罕见，过去韩国总统通常将华府列为外交首站。但韩国总统秘书室发言人姜由桢表示，这只是总统府在与美日两国协调日程后做出的安排。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_31420983",
-          "publishedOn": "2025-08-18T04:23:04.000Z",
-          "wordCount": 31,
-          "title": "全球前瞻丨中国外长三年来首次访印，美俄峰会后泽连斯基再次访问美国",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_31420793",
-          "author": null,
-          "description": "2025年8月17日，持续13个月、横跨两个炽热夏天的上海博物馆“金字塔之巅：古埃及文明大展”在完成了一项前所未有的创举——连续开放168小时后，于当天24时圆满收官。\n\n2025年8月17日晚，上海博物馆，观众在“法老的国度”展厅参观。澎湃新闻记者 朱伟辉 图\n\n\n这场堪称“史诗级”的文化盛宴，以逾277万人次观众、逾7.6亿元展览总收入、逾300亿次全网曝光量创下全球博物馆单个收费特展参观人数、总营收和传播总量的世界纪录，更以带动城市综合消费超过350亿元的溢出效应，为文旅商体展深度融合发展树立了新标杆。\n多项记录见证展览“史诗级”盛况\n据统计，展览累计接待观众总数2,777,966人次，一举刷新全球博物馆单个收费特展参观人数的纪录。其中，近七成观众来自外省市，外埠观众中逾7成为本次特展专程来沪。另因受展览持续火爆的带动，埃及旅游和文物部表示，埃及入境游中国游客数量同比增长65%。\n\n2025年8月17日，上海博物馆，古埃及展现场摩肩接踵。澎湃新闻记者 朱伟辉 图\n\n\n2025年8月17日晚，上海博物馆，观众在参观图坦卡蒙雕像。澎湃新闻记者 朱伟辉 图\n\n\n2025年8月17日晚，上海博物馆，观众在参观埃赫纳吞雕像。澎湃新闻记者 朱伟辉\n\n\n2025年8月17日晚，上海博物馆，观众在“图坦卡蒙的时代”展厅参观。澎湃新闻记者 朱伟辉 图\n\n\n2025年8月17日晚，上海博物馆，“法老的国度”展厅人头攒动。澎湃新闻记者 朱伟辉 图\n\n\n2025年8月17日晚，上海博物馆，观众在“萨卡拉的秘密”展厅参观。澎湃新闻记者 朱伟辉 图\n\n\n2025年8月17日晚，上海博物馆，观众在参观“彩绘人形棺”。澎湃新闻记者 朱伟辉 图\n\n\n2025年8月17日晚，上海博物馆，一名男孩坐在地上认真地看展览。澎湃新闻记者 朱伟辉 图\n\n\n2025年8月17日晚，上海博物馆，展厅内的讲解团随处可见…",
-          "link": "https://www.thepaper.cn/newsDetail_forward_31420793",
-          "publishedOn": "2025-08-18T04:23:04.000Z",
-          "wordCount": 293,
-          "title": "魔都眼｜持续13个月，上博古埃及展营收逾7.6亿元",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_31421011",
-          "author": null,
-          "description": "8月17日，中国队主教练郭士强（中）和队员在颁奖仪式上合影。  本文图均为 新华社 图\n\n\n北京时间8月18日，2025男篮亚洲杯决赛，中国队以1分惜败于澳大利亚队，夺得本届赛事的亚军。这个成绩也创造了中国男篮十年以来的亚洲杯最佳战绩。同时也是自大洋洲球队加入亚洲杯以来，中国男篮取得的最好成绩。\n毫无疑问，这样的表现足够让熬夜看球的球迷热泪盈眶。有人说，中国队差的这一分是运气。的确，直到第三节打完中国队还以71-68领先3分，如果最后一刻的三分绝杀没有失手，那么笑到最后的将是中国队。\n在面对中国队之前，澳大利亚这支世界级强队，已经打出了令人惊诧的17连胜纪录，对一些亚洲强队“砍瓜切菜”的强势表现更是让人惊呼：谁能拦住澳大利亚队？\n令人振奋的是，中国队是第一支把在亚洲属于“独一档”的澳大利亚队逼入绝境的传统亚洲强队。这也印证了对方主帅的赛前判断：我们真的对接下来的硬仗（决赛）感到兴奋。\n在为中国队的失利扼腕之余，不能不问，这支直到最后三秒还有机会拿到冠军的中国队，何以锐气逼人？\n出征本届亚洲杯的中国队和澳大利亚队一样，没有派出最强阵容。不同的是，这支在世界排名中仅列亚洲第六、在本届亚洲杯实力榜仅列第四的中国队，赛前并不被看好。阵中只有三人此前参加过亚洲杯，没有“大腿”，也没有所谓的“终结者”，但就是这支特别年轻的中国队带来了罕见的惊艳感。\n\n8月17日，中国队球员赵睿在比赛中突破。\n\n\n小组赛3仗全胜，淘汰赛首轮战胜韩国队，继而在一场被亚洲杯官方社媒描述为“史诗般的对决”中赢下新西兰队。他们把手中的牌几乎发挥到了极致，他们才是本届亚洲杯最大的黑马。\n战术上，中国队的变化肉眼可见，那就是内外结合、铁血防守，他们把老男篮的技术特色打回来了。但更大的变化是中国队精神面貌上的大不同：场场全员“拼命三郎”，场场看不到任何一名球员的懈怠，人人堵枪眼、人人挺身而出。\n特别是，在队友状态不佳时，他们互相“护犊子”、互相打气。例如，在中韩之战中，一分未得的胡明轩受到了外界的质疑，但是从主帅到队友都力挺他、相信他。决赛中，胡明轩骁勇异常，独得26分，为自己正名。这对成长中的中国队来说，是莫大的幸事。\n这是十年来最团结、最热血、最自信的中国男篮，让人有一种久违感的感动。何以如此？主教练郭士强表示，现在是男篮的低谷期，所有人都想证明一下我们中国男篮到底还行不行。此话揭示了竞技体育最大的“奥秘”——有了心气，才能有神奇。\n\n8月17日，中国队球员廖三宁（前右）在比赛中上篮。\n\n\n本届亚洲杯，中国队在完成一次逆袭和自我救赎后，也最终在全亚洲面前重新证明了自己。尽管没有如愿登顶亚洲杯，但他们已经书写了神奇篇章。\n过去的十年间，亚洲篮坛发生了翻天覆地的变化，中韩伊这三个老对手的地位不断下降，日本等新贵呈现上升势头。而自澳大利亚和新西兰于2017年加入亚洲篮坛之后，更是全面改写了亚洲篮坛的格局。澳大利亚即便以“二队”“三队”出战，也遭遇不到真正的抵抗。\n与此同时，多年来，亚洲篮球逐步被世界潮流甩开、竞争力下降，也是不争的事实。面对亚洲篮坛的新格局，仅有“拼命”是不够的，中国篮坛是时候以革新的决心与勇气，应对白热化的亚洲竞争形势了。\n中国队早已告别“后姚明”时代，曾经的荣光早已定格为历史。眼下，中国队不仅要加快建设一支过硬的战队，更要和其他亚洲强队一起担负起复兴亚洲篮球的重任。这是让人意难平也格外期许的本届亚洲杯，带给我们最深的感受。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_31421011",
-          "publishedOn": "2025-08-18T04:23:04.000Z",
-          "wordCount": 57,
-          "title": "马上评｜这是十年来最团结最热血的中国男篮",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_31421085",
-          "author": null,
-          "description": "云南丘北县市场监督管理局近日作出的一份行政处罚决定引发关注，执法人员对该县曰者镇中心小学校开展校园食品安全检查时发现，学生食堂37公斤鲜猪肉部分肉体表面已变为绿色，并散发臭味。目前，当地市监局已对学校经营感官性状异常的鲜猪肉的行为罚款一万元。\n行政处罚决定文书认定的违法事实载明，丘北县曰者镇中心小学学生食堂使用的鲜猪肉是向丘北普者黑商贸有限公司订购的，并由该公司直接配送到学校食堂。2025年6月22日上午9点23分该公司向学校送达160公斤鲜猪肉，学校安排食堂管理人员以及当天值班教师进行验收，验收后交由食堂从业人员将鲜猪肉分解成小块，其中大部分鲜猪肉使用碎肉机绞成肉沫后装袋放入冰柜冷冻，骨头肉分解成小块后直接装袋放入冰柜冰冻。\n6月23日当天，学生食堂使用了该批鲜猪肉47公斤(早上出库使用了15公斤，下午出库使用了32公斤)。因当事人对鲜猪肉储存不当，相关人员对食材管理不到位等原因，导致其中两袋(共37公斤)鲜猪肉部分肉体表面已变为绿色，并散发臭味。至2025年6月23日下午被市监局执法人员开展校园食品安全检查时发现。\n由于曰者镇中心小学是事业单位法人主体，其学生食堂属于集中用餐单位食堂，不存在违法所得。按照学校提供的丘北普者黑商贸有限公司的配送单据记录显示，该批次鲜猪肉单价为13.1元/市斤(即26.2元/KG)，该局认定涉案鲜猪肉货值金额为969.4元。\n丘北县市场监督管理局决定，曰者镇中心小学经营感官性状异常的鲜猪肉行为，违反了《中华人民共和国食品安全法》第三十四条第六项的规定，依据《中华人民共和国食品安全法》第一百二十四条第一款第四项的规定，现责令当事人改正上述违法行为，并处罚如下：没收被市监局扣押的感官性状异常的鲜猪肉37公斤：对经营感官性状异常的鲜猪肉的行为罚款一万元。\n公开资料显示，感官性状异常是指食品的物理、化学状态明显发生改变，与食品正常状态存在差异，通过感官直接能发现异常的食品。一般是污染、不按规定贮存、过期变质等导致的。\n丘北县位于云南省东南部，文山州北部，而曰者镇中心小学地处丘北县西北部，是一所二级二等示范小学，截至2025年6月数据显示，义务教育阶段在校生2661人，学前适龄儿童在校生1138人。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_31421085",
-          "publishedOn": "2025-08-18T04:23:04.000Z",
-          "wordCount": 29,
-          "title": "在食堂发现37公斤绿色臭肉，云南丘北一中心小学被罚一万元",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_31421068",
-          "author": null,
-          "description": "针对央视报道的“和田玉假鉴定证书2元一张还能扫码验真，央视曝光玉石市场乱象”，8月18日，河南省镇平县联合调查组公开通报称，4名涉嫌造假的直播带货主播及制作假证书人员目前已被控制。\n\n通报称，8月17日晚，媒体对镇平县石佛寺镇玉器市场相关问题进行报道。经核实，报道中反映的个别商家通过非法手段，欺骗引导消费者购买假冒和田玉情况确实存在。对此，镇平县第一时间成立联合调查组，连夜组织公安、市场监管等相关部门开展调查取证，4名涉嫌造假的直播带货主播及制作假证书人员目前已被控制，相关网上直播间也已被关闭，后续将根据调查结果依法依规严肃处理。\n下一步，镇平县将持续开展玉器市场经营规范整治行动。\n\n据8月17日央视财经报道称，石佛寺镇是国内最大的和田玉加工与交易集散地之一，在这里上演“科技与狠活儿”，在“榆树庄市场”的和田玉籽料批发区，记者在多个摊位前闻到刺鼻气味，客户挑选时也都戴塑料手套。摊主坦言，这些是用化学药剂染色的假籽料。知情人告诉记者，由于和田玉籽料产量有限，因此一些不法商家采取以次充好的手段，用低品质的青海料、韩料玉石仿造和田玉籽料，这样的假籽料价格很低廉。\n\n在知情人推荐的玉雕店里，店铺老板向记者详细描述了他这里假冒和田玉籽料的制作流程。不到半小时，假的和田玉“鉴定证书”就做好了。这些和田玉“鉴定证书”的出具机构为“国石珠宝首饰检验检测中心”，证书上颜色、质量、折射率、密度等信息样样俱全，扫描二维码也能显示鉴定内容。\n镇平县政府官网资料显示，镇平县自称玉乡，创造了“无中生有”经济现象，即不产玉，是“中国玉雕之乡”，玉雕从业人员40万，省级以上玉雕大师800人（其中国家级大师30人），年产值超500亿元，建成了全省唯一设在乡镇（石佛寺）的特色商业区，是全国最大的玉雕加工销售集散地。\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.site",
-          "link": "https://www.thepaper.cn/newsDetail_forward_31421068",
-          "publishedOn": "2025-08-18T03:53:04.000Z",
-          "wordCount": 47,
-          "title": "河南镇平通报假和田玉乱象：4名涉事主播和制假人员被控制",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_31421087",
-          "author": null,
-          "description": "A股三大股指8月18日集体跳空高开，沪指更是站上3700点之上。早盘两市继续高歌猛进，沪指更是突破2021年新高后创出十年来新高。\n从盘面上看，金融科技概念连续爆发，覆铜板、CPO等AI硬件端再掀历史新高潮，稀土、短剧概念强劲补涨。\n至午间收盘，上证综指涨1.18%，报3740.5点；科创50指数涨3.11%，报1135.54点；深证成指涨2.25%，报11896.38点；创业板指涨3.63%，报2626.29点。\nWind统计显示，两市及北交所共4492家上涨，816家下跌，平盘有111家。\n两市早盘成交17220亿元；据大智慧VIP，两市及北交所共有187只股票涨幅在9%以上，3只股票跌幅在9%以上。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_31421087",
-          "publishedOn": "2025-08-18T03:53:03.000Z",
-          "wordCount": 28,
-          "title": "A股早盘高开高走放量上攻，沪指创10年来新高",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_31420857",
-          "author": null,
-          "description": "8月18日，沪指突破2021年2月18日盘中创下的3731.69点高点，创下自2015年8月20日之后的新高。\n至此，沪指从2025年4月7日盘中探底至3040.69点开始，上涨幅度已高达22.72%。值得注意的是，同期深成指的涨幅已近30%，创指涨幅则达到惊人的47%。\n从个股上看，截至发稿时超4000股上涨，市场呈现普涨态势。\n兴业证券表示，本轮市场的上涨并不在于宏观经济预期的上修，背后更重要的是政策托底下，新动能的持续显现，带动市场信心活化、增量资金入市不断形成合力。市场调整更多在于连续上涨之后，市场需要一个阶段性休整的窗口，近期国内外政策的落地只是提供了一个契机。整体而言，支撑此前市场上涨的三个核心逻辑：政策底线思维、新动能亮点涌现、增量资金入市，均未出现任何变化。\n国泰海通证券则认为，展望后市，继续看升中国股市前景，A股股指还有新高。一直以来，市场认为影响股票估值的因素主要在公司的业绩、无风险利率、风险偏好等。事实上非常容易被忽视，但绝不能忽视的是制度变化，这个因素在中国市场比其他市场更重要，在特定时期甚至起到决定性的作用。\n如今，“提高投资者回报”的资本市场制度改革，改变的不仅仅是制度，还有社会各界对中国资产的价值观念，以及降低股市的风险评价。由此，中国转型加快、无风险收益下沉与资本市场改革共同构筑起中国股市“转型牛”的基石，A股股指还有新高。\n中国历史上曾有多次与资本市场改革相关的股市走牛案例，远有2005年的股权分置改革；近有2019年注册制改革与科创板设立。2025年以来全国各地客户拜访中，我们更坚信了中国“转型牛”之大势所趋。无风险收益下沉与资本市场改革，中国行情也将更全面。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_31420857",
-          "publishedOn": "2025-08-18T03:23:05.000Z",
-          "wordCount": 30,
-          "title": "沪指突破3731.69点，创10年来新高",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_31421000",
-          "author": null,
-          "description": "8月18日，国新办举行“高质量完成‘十四五’规划”系列主题新闻发布会，会上介绍了“十四五”时期发展社会主义民主有关情况。\n澎湃新闻会上提问：人民政协作为专门协商机构，在服务“十四五”规划实施过程中开展了哪些工作？有哪些具体举措？\n全国政协副秘书长胡衡庐会上表示，人民政协作为协商民主的重要渠道和专门协商机构，发挥人才荟萃、智力密集的优势，围绕“十四五”规划的实施深入协商建言、开展民主监督，做到建言建在需要时、议政议在点子上、监督监在关键处，服务党和国家的科学民主决策、精准有效施策。\n胡衡庐指出，人民政协聚焦“十四五”规划的目标任务制定年度协商计划，报党中央批准后组织实施。五年来，围绕构建高水平社会主义市场经济体制、加强生态环境保护、推进文化自信自强等共召开10次专题议政性常委会会议；围绕推进高水平对外开放、统筹城乡融合发展等召开10次专题协商会；围绕优化区域教育医疗资源配置、积极发展银发经济、强化粤港澳大湾区规则衔接机制等召开57次双周协商座谈会和16次远程协商会。同时，经常性地开展提案办理协商、界别协商、对口协商、专家协商等，以高质量协商助推高质量发展。\n同时，注重发挥调查研究基础作用。胡衡庐提到，人民政协出台加强和改进调研工作的意见，在“深、实、细、准、效”上持续用力，通过“调研—协商—再调研”，努力把问题研深议透，提出针对性、可操作性强的对策建议，向党中央、国务院报送调研报告150余篇，刊发《政协调研》180期。今年还聚焦“十五五”规划的制定，增设《政协调研（关于“十五五”规划制定建言专题）》，印发了50余期。\n此外，还创立主席会议成员牵头、跨专门委员会、跨领域的专题研究制度，围绕新质生产力发展、新污染物治理、中华文明发展史研究阐释传播等重大战略性、前瞻性的课题开展深度研究84项，形成一批高质量的研究成果。主席会议成员深入到委员所在的单位，开展学习调研148场次。\n胡衡庐还介绍，自2021年起，全国政协围绕“十四五”规划中关于持续优化营商环境、加强黑土地保护、加快推进社会适老化改造等10个方面重点任务，全国政协10个专门委员会分别聚焦一个主题，连续5年选择不同侧重点持续开展民主监督。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_31421000",
-          "publishedOn": "2025-08-18T03:23:05.000Z",
-          "wordCount": 30,
-          "title": "全国政协答澎湃：围绕“十四五”规划的实施深入协商建言，做到建言建在需要时",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_31421008",
-          "author": null,
-          "description": "8月18日，A股继续大涨，上证指数续创阶段新高。证券时报记者根据实时数据统计，截至10点34分，A股公司A股市值总和突破100万亿元（以A股最新价*A股总股本计算），创历史新高，这也是A股历史上首次突破100万亿元大关。\n具体到公司方面，截至发稿时间，农业银行位居A股市值榜首位，2.19万亿元，工商银行A股市值2.02万亿元位居次席。此外，贵州茅台、中国石油、中国银行、宁德时代等4股A股市值均超万亿元。（证券时报）",
-          "link": "https://www.thepaper.cn/newsDetail_forward_31421008",
-          "publishedOn": "2025-08-18T03:23:05.000Z",
-          "wordCount": 27,
-          "title": "A股市值突破100万亿元大关，再破纪录",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_31420880",
-          "author": null,
-          "description": "8月18日，沪指突破2021年2月18日盘中创下的3731.69点高点，创下自2015年8月20日之后的新高。\n至此，沪指从2025年4月7日盘中探底至3040.69点开始，上涨幅度已高达22.72%。值得注意的是，同期深成指的涨幅已近30%，创指涨幅则达到惊人的47%。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_31420880",
-          "publishedOn": "2025-08-18T03:23:05.000Z",
-          "wordCount": 28,
-          "title": "沪指突破3731.69点，创10年来新高",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_31420902",
-          "author": null,
-          "description": "8月18日，沪指盘中突破沪指突破3723.85，创2021年9月14日以来新高。截至发稿时，沪指摸高至3723.98点。\n与此同时，深成指和创指继续大涨模式，截至发稿时候分别涨超1.5%和2.5%。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_31420902",
-          "publishedOn": "2025-08-18T02:53:04.000Z",
-          "wordCount": 31,
-          "title": "沪指盘中突破3723.85，创2021年9月14日以来新高",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_31420901",
-          "author": null,
-          "description": "8月18日，沪指突破沪指突破3723.85，创2021年9月14日以来新高。截至发稿时，沪指摸高至3723.98点。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_31420901",
-          "publishedOn": "2025-08-18T02:53:03.000Z",
-          "wordCount": 27,
-          "title": "沪指突破3723.85，创2021年9月14日以来新高",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_31420500",
-          "author": null,
-          "description": "A股连续攻下多个关键心理关口后，接下来市场行情将如何演绎呢？\n澎湃新闻搜集了10家券商的观点，大部分券商认为，虽然近期市场波动有所放大，但不必因为短期行情的休整就改变对本轮大行情趋势的判断。随着国内政策积极发力，中长期资金流入，以及海外流动性有望边际改善，市场有望继续维持强势表现。\n兴业证券表示，上周后半周市场波动放大、指数也有所回落，引发了部分投资者做多情绪的动摇，但不必因为短期行情的休整就改变对本轮大行情趋势的基本判断。支撑此前市场上涨的三个核心逻辑：政策底线思维、新动能亮点涌现、增量资金入市，均未出现任何变化。\n“国内政策积极发力，中长期资金以及个人投资者资金积极流入权益市场，叠加海外流动性有望边际改善，市场风险偏好逐步抬升，支撑A股市场维持强势表现。”光大证券指出。\n配置方面，银河证券提醒投资者，当前不要用所谓加息周期的经验，来看降息时代的估值。当前市场仍存在部分领域的预期差，如短期基本面改善的持续性、资金持续流入及新兴产业发展带来的机遇等。结合对八月业绩走蓄势概率偏大的判断，这个阶段中期布局要坚守自我，一旦市场出现调整后对中线布局会显得更加关键。\n“基于‘短线强势节奏难测，中长线行情继续看好’的判断，建议投资者适度忽略短线走势，放弃对回调节奏的预测，不要试图在当前行情中先卖后买、博取差价，以免丢失筹码，反而应该在重要支撑（如20日、60日均线）附近分别增加短线、中线配置。”浙商证券称。\n中信证券：供给在内反内卷、需求在外出利润\n梳理今年以来四个因为出口管制或配额导致出口利润贡献激增的行业（例如稀土、钴、磷肥、制冷剂），发现历史上通过控制供给或出口来控制全球市场价格并提升稳态利润是可行的，但共性是需要生产国在全球拥有极高份额和附带的议价能力。\n去年底铝材、铜材等行业取消出口退税，虽然被动提高了现金成本，但也出现了一定的价格转嫁。这些现象背后的本质是稀缺资源和战略优质…",
-          "link": "https://www.thepaper.cn/newsDetail_forward_31420500",
-          "publishedOn": "2025-08-18T02:23:04.000Z",
-          "wordCount": 38,
-          "title": "十大券商看后市｜上涨核心逻辑未变，市场有望维持强势表现",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_31420504",
-          "author": null,
-          "description": "2025年8月17日，江苏南京，珠江路商圈的电子大屏现场直播“苏超”南京主场对盐城比赛，吸引众多市民前来观赛。视觉中国 图\n\n\n17日晚的南京奥体中心，声浪阵阵，江苏省城市足球联赛南京主场对战盐城，60633万名观众刷新上个月南京奥体创下的“苏超”最高现场观赛人数纪录。南京全城367家各类上规模经营主体借力“苏超”拉动更大消费，“苏超的快乐”从球场、商场向街区、社区、家庭蔓延，“欢乐经济”席卷南京。\n第二现场引爆“纯粹快乐”\n8月17日晚，南京奥体中心体育场内，南京队与盐城队激战正酣。而在600多年历史的南京明城墙脚下——老门东历史文化街区，一场户外观赛体验同步上演。巨型屏幕将赛场实况清晰地投射到古老城墙上，吸引了众多市民和游客驻足观看，城墙下的古街区澎湃着现代活力。\n青石板道路上，人群簇拥在屏幕前，加油声此起彼伏。沿街的地面水系喷雾系统被巧妙改造，从高处喷洒出细密水雾降温；多台加装了冰块的移动冷风机也被布置在观赛区周围，送出阵阵清凉。“在明城墙下看球，很有历史感，加上这些降温措施很贴心，体验感超绝！”与家人一同前来的市民闫贤雅对这样的观赛氛围赞不绝口。当终场哨响，老门东的欢呼声与奥体中心的呐喊声遥相呼应。\n南京老门东上个月开启“门东运动嘉年华”，融合城墙文化、攀岩、足球、篮球、亲子运动等元素，打造持续性的运动文化盛会。\n栖霞山山脚下，“苏超”赛事转播大屏前，1000多名观众激情四溢，他们紧盯赛况，当南京队进球，全场欢呼，人群时不时齐声高喊“南京队加油”。旁边40个小吃、农副产品、文创灯等摊位依次排开，为这场持续96分钟的夜间狂欢增添了烟火气。\n来看比赛的大部分都是周边的居民。天幕低垂、星光点点、晚风轻拂，配上激情的足球、嗞嗞作响的烧烤和冰爽的啤酒，与亲友共同度过轻松惬意又跌宕起伏的夜晚，千金难换。\n栖霞山景区相关负责人蔡晖介绍，这份社区观赛的热情，始于6月14日“苏超”第…",
-          "link": "https://www.thepaper.cn/newsDetail_forward_31420504",
-          "publishedOn": "2025-08-18T02:23:04.000Z",
-          "wordCount": 42,
-          "title": "苏超欢乐经济席卷南京：全城皆主场，文商旅体借势“激情进球”",
-          "imageUrl": null
         }
       ]
     },
@@ -11826,6 +11866,66 @@
       "feedUrl": "https://www.nationalreview.com/feed/",
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
+        {
+          "id": "https://www.nationalreview.com/?p=1876113",
+          "author": "Rich Lowry",
+          "description": "There is an alternative to the dizzying confusion we’ve created for ourselves about identity: the message of traditional morality that Charlie Kirk delivered.",
+          "link": "https://www.nationalreview.com/2025/09/the-aberrant-killed-the-normal/",
+          "publishedOn": "2025-09-16T15:03:25.000Z",
+          "wordCount": 6797,
+          "title": "The Aberrant Killed the Normal",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2025/09/Kirk-916.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1876088",
+          "author": "Andrew C. McCarthy",
+          "description": "The White House says the president will appeal to the Supreme Court.",
+          "link": "https://www.nationalreview.com/2025/09/divided-d-c-circuit-panel-rules-trump-may-not-remove-fed-board-member/",
+          "publishedOn": "2025-09-16T13:47:56.000Z",
+          "wordCount": 7455,
+          "title": "Divided D.C. Circuit Panel Rules Trump May Not Remove Fed Board Member",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2025/09/Donald-Trump-916.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1875938",
+          "author": "Gregory W. Slayton",
+          "description": "Allowing Putin to continue his onslaught against a smaller democratic ally could be the straw that breaks Republican majorities in 2026.",
+          "link": "https://www.nationalreview.com/2025/09/will-ukraine-cost-the-gop-the-midterms/",
+          "publishedOn": "2025-09-16T10:30:48.000Z",
+          "wordCount": 7039,
+          "title": "Will Ukraine Cost the GOP the Midterms?",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2025/09/ukraine-artillery.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1875806",
+          "author": "John Yoo",
+          "description": "MAGA owes a lot to his vision for American foreign policy.",
+          "link": "https://www.nationalreview.com/2025/09/in-defense-of-john-bolton/",
+          "publishedOn": "2025-09-16T10:30:24.000Z",
+          "wordCount": 7918,
+          "title": "In Defense of John Bolton",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2020/06/john-bolton-2.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1875825",
+          "author": "Bill Cassidy and John Barrasso",
+          "description": "Creating and distributing a Covid vaccine in under a year was more than a medical achievement. It was a triumph of American greatness and leadership.",
+          "link": "https://www.nationalreview.com/2025/09/president-trump-deserves-a-nobel-peace-prize-for-operation-warp-speed/",
+          "publishedOn": "2025-09-16T10:30:19.000Z",
+          "wordCount": 6598,
+          "title": "President Trump Deserves a Nobel Peace Prize for Operation Warp Speed",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2025/09/operation-warp-speed.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1875912",
+          "author": "The Editors",
+          "description": "With a shutdown looming, Democrats are demanding that the majority extend Covid-era funding for health insurance subsidies.",
+          "link": "https://www.nationalreview.com/2025/09/republicans-shouldnt-cave-on-obamacare-expansion/",
+          "publishedOn": "2025-09-16T10:30:11.000Z",
+          "wordCount": 6535,
+          "title": "Republicans Shouldn’t Cave on Obamacare Expansion",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2025/09/john-thune.jpg?fit=2057%2C1200&ssl=1"
+        },
         {
           "id": "https://www.nationalreview.com/?p=1875869",
           "author": "Ramesh Ponnuru",
@@ -13865,16 +13965,6 @@
           "wordCount": 6625,
           "title": "Democracy’s Machine Learning Problem",
           "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2025/08/ai-capitol-hill.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1866561",
-          "author": "John Fund",
-          "description": "California’s governor hopes that his new gerrymander will help his 2028 presidential prospects.",
-          "link": "https://www.nationalreview.com/2025/08/gavin-newsom-rolls-the-dice/",
-          "publishedOn": "2025-08-17T23:35:04.000Z",
-          "wordCount": 6515,
-          "title": "Gavin Newsom Rolls the Dice",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2025/08/gavin-newsom-redistricting.jpg?fit=2057%2C1200&ssl=1"
         }
       ]
     },
@@ -13883,6 +13973,26 @@
       "feedUrl": "https://sspai.com/feed",
       "siteUrl": "https://sspai.com",
       "articles": [
+        {
+          "id": "https://sspai.com/post/102570",
+          "author": "Matrix机器人",
+          "description": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。💬一派热议在 ...查看全文",
+          "link": "https://sspai.com/post/102570",
+          "publishedOn": "2025-09-16T09:02:38.000Z",
+          "wordCount": 1074,
+          "title": "社区速递 110 | 派友们都用什么开机工具，以及尝尝「老罗泡面」",
+          "imageUrl": "https://cdnfile.sspai.com/9/16/2025/article/db9c3858-0039-b6fe-0f4a-8d19003fd186.png"
+        },
+        {
+          "id": "https://sspai.com/post/102372",
+          "author": "少数派编辑部",
+          "description": "少数派在体验了新版系统之后，帮你整理了 iOS 26 中值得关注的新功能和新特性，希望帮你了解新版系统的方方面面。查看全文",
+          "link": "https://sspai.com/post/102372",
+          "publishedOn": "2025-09-16T07:00:00.000Z",
+          "wordCount": 1041,
+          "title": "具透 | 新面貌、上手更奇妙，iOS 26 中值得关注的新特性",
+          "imageUrl": "https://cdnfile.sspai.com/9/16/2025/article/2d7f72fc-506b-ca64-19ab-3f6fa5066e5b.png"
+        },
         {
           "id": "https://sspai.com/post/102151",
           "author": "谷丰",
@@ -14862,26 +14972,6 @@
           "wordCount": 1239,
           "title": "Setapp 车门焊死，你用的 app「平替」有哪些？",
           "imageUrl": "https://cdnfile.sspai.com/8/18/2025/article/11941d55-3c0f-cafe-7c17-f66cbb687b99.png"
-        },
-        {
-          "id": "https://sspai.com/post/101506",
-          "author": "Nnnobel",
-          "description": "这只是一个 Mac 用户对游戏的探索，「能玩」便已经满足了很大一部分期待。查看全文",
-          "link": "https://sspai.com/post/101506",
-          "publishedOn": "2025-08-18T03:30:41.000Z",
-          "wordCount": 883,
-          "title": "在 Mac 上爽玩游戏？我的折腾与收获",
-          "imageUrl": "https://cdnfile.sspai.com/2025/08/05/4ecedb32e707e2d7fae22ffbd836094e.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/101913",
-          "author": "少数派编辑部",
-          "description": "你可能错过的新鲜事机场拦截充电宝回流市场据8月17日播出的央视《经济信息联播》栏目报道，民航局充电宝新规全面实施后，很多旅客在登机前会将不符合标准的充电宝弃置在机场。然而，近期有观众提供线索称，二手平 ...查看全文",
-          "link": "https://sspai.com/post/101913",
-          "publishedOn": "2025-08-18T00:47:30.000Z",
-          "wordCount": 767,
-          "title": "派早报：机场拦截充电宝回流市场",
-          "imageUrl": "https://cdnfile.sspai.com/8/18/2025/article/178e722e-2cd4-24d7-d25b-b3600e865099.png"
         }
       ]
     },
@@ -14890,6 +14980,118 @@
       "feedUrl": "https://plink.anyfeeder.com/idaily/today",
       "siteUrl": "https://idai.ly",
       "articles": [
+        {
+          "id": "idaily-236917",
+          "author": "英国 · 伦敦",
+          "description": "伦敦泰特现代美术馆举办「毕加索剧场」（Theatre Picasso）特展，一幅毕加索1949年版画《和平鸽》正在展出。本次展览旨在庆祝泰特现代美术馆馆藏毕加索代表作《三名舞者》诞生100周年，共展出45件来自欧洲多个艺术机构的毕加索作品，涵盖绘画、雕塑、版画等多种艺术形式。展览空间采用剧场式设计，旨在让访客感受毕加索作为艺术家本身的表演和戏剧性特质。展期从2025年9月17日持续至2026年4月12日。摄影师：Wiktor Szymanowicz",
+          "link": "https://m.idai.ly/se/2945zU",
+          "publishedOn": "2025-09-16T10:59:00.000Z",
+          "wordCount": 303,
+          "title": "泰特美术馆毕加索特展 - September 16, 2025",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/219a2a44/ce4a98d8.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/219a2a44/ce4a98d8.jpg"
+        },
+        {
+          "id": "idaily-236913",
+          "author": "美国 · 华盛顿特区",
+          "description": "美国副总统 JD Vance 在白宫录制《查理·柯克秀》特别节目，华盛顿特区。9月15日，美国副总统 Vance 代班主持保守派政治活动家 Charlie Kirk 的同名播客节目以悼念其遭刺杀身亡。Vance 在节目中指控美国左翼团体应为本次刺杀事件负主要责任，并宣称将摧毁美国「庞大的国内恐怖主义网络」。31岁的 Kirk 于9月10日在犹他州山谷大学演讲时遭枪击身亡，FBI 调查结果显示嫌犯为一名来自共和党保守派家庭的22岁年轻白人男性 Tyler Robinson，目前作案动机尚未查明。摄影师：Doug Mills",
+          "link": "https://m.idai.ly/se/7162Pc",
+          "publishedOn": "2025-09-16T09:58:00.000Z",
+          "wordCount": 303,
+          "title": "美国副总统代班右翼节目 - September 16, 2025",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/5d65322a/7e6bbbe2.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/5d65322a/7e6bbbe2.jpg"
+        },
+        {
+          "id": "idaily-236912",
+          "author": "西班牙 · 马德里",
+          "description": "中国商务部国际贸易谈判代表李成钢出席新闻发布会，马德里。9月15日，中美双方经贸团队结束为期2天的第4轮经贸会谈，双方宣布就以合作方式妥善解决 TikTok 问题、减少投资障碍、促进有关经贸合作等达成基本框架共识。根据该框架，中美将通过 TikTok 美国用户数据和内容安全业务委托运营、算法等知识产权使用权授权等方式解决 TikTok 问题。美国财政部长 Scott Bessent 称该协议能够在维护美国国家安全利益的同时保留 TikTok 的「中国特色」。摄影师：Fernando Villar",
+          "link": "https://m.idai.ly/se/842MWs",
+          "publishedOn": "2025-09-16T08:57:00.000Z",
+          "wordCount": 303,
+          "title": "中美马德里经贸会谈成果 - September 16, 2025",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/fb3a7ae5/58c38e03.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/fb3a7ae5/58c38e03.jpg"
+        },
+        {
+          "id": "idaily-236911",
+          "author": "以色列 · 耶路撒冷",
+          "description": "美国国务卿 Marco Rubio 与以色列总理 Benjamin Netanyahu 举行会晤，耶路撒冷。9月14日，美国国务卿 Rubio 对以色列进行为期2天访问，主要行程包括会晤以色列领导人、访问耶路撒冷西墙、出席大卫城考古公园揭幕仪式等。美以双方就同盟关系、以巴冲突、伊朗核问题等议题进行讨论。以色列总理 Netanyahu 宣称空袭卡塔尔境内目标是以色列单方面决定。美国国务卿 Rubio 重申美方致力于消灭哈马斯，强调以色列空袭卡塔尔并不会影响以色列与美国的盟友关系。摄影师：Haim Tzach",
+          "link": "https://m.idai.ly/se/f0499B",
+          "publishedOn": "2025-09-16T08:55:00.000Z",
+          "wordCount": 303,
+          "title": "美国务卿访问以色列 - September 16, 2025",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/2b01ed96/587c80e3.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/2b01ed96/587c80e3.jpg"
+        },
+        {
+          "id": "idaily-236910",
+          "author": "中国 · 合肥",
+          "description": "中国聚变堆主机关键系统综合研究设施「夸父」（CRAFT）的测试平台完成验收，安徽合肥。9月15日，中国科学院「夸父」项目的遥操作系统测试平台正式通过验收，该平台系统的维护机器人负载能力达60吨，环向转运精度正负3.1毫米，垂直吊运精度为正负3.8毫米；重载机械臂负载2.5吨，灵巧双臂末端重复定位精度为正负0.01毫米，能够完成最高达0.01毫米精度的操作。摄影师：Han Suyuan",
+          "link": "https://m.idai.ly/se/86c5Y4",
+          "publishedOn": "2025-09-16T08:53:00.000Z",
+          "wordCount": 303,
+          "title": "全球首个聚变堆遥控测试平台 - September 16, 2025",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/5439fe99/3a0159d2.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/5439fe99/3a0159d2.jpg"
+        },
+        {
+          "id": "idaily-236909",
+          "author": "日本 · 东京",
+          "description": "东京市政工人正在使用福岛核事故去污染土壤填充政府办公楼花坛，日本。9月14日，日本政府公布第二批福岛核事故污染土壤再利用工程进展，本次共向环境省、经济产业省、复兴厅3个中央省厅办公大楼的花坛区域移入约45立方米核去污土壤。这批新移入土壤的放射性铯浓度约为每公斤4000贝克勒尔。福岛周边储存设施内共有1413万立方米去污染土壤及废弃物，根据日本法律规定必须在2045年3月底前完成处置工作。摄影师：iDaily Media",
+          "link": "https://m.idai.ly/se/b10gGx",
+          "publishedOn": "2025-09-16T08:51:00.000Z",
+          "wordCount": 303,
+          "title": "日本福岛核污土第2批填埋 - September 16, 2025",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/5925193a/0c2e9bcc.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/5925193a/0c2e9bcc.jpg"
+        },
+        {
+          "id": "idaily-236908",
+          "author": "墨西哥 · 克雷塔罗",
+          "description": "墨西哥圣克鲁斯修道院举行传统阿兹特克战舞表演，克雷塔罗。9月16日是墨西哥独立日，旨在纪念1810年墨西哥民族英雄 Miguel Hidalgo 率领起义军向西班牙殖民政府宣战，历经11年独立战争建立国家。墨西哥国家统计局数据显示2025年上半年 GDP 同比增长0.9%，为2020年以来最差表现，主要受采矿业、批发贸易和旅游业等下滑影响。国际货币基金组织（IMF）预测墨西哥全年经济增长率仅为0.2%。摄影师：Jose Carrera",
+          "link": "https://m.idai.ly/se/6aeWOt",
+          "publishedOn": "2025-09-16T08:49:00.000Z",
+          "wordCount": 303,
+          "title": "墨西哥独立215周年 - September 16, 2025",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/96f606ca/bcf31fdb.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/96f606ca/bcf31fdb.jpg"
+        },
+        {
+          "id": "idaily-236907",
+          "author": "中国 · 珠海",
+          "description": "广东珠海长隆海洋王国为中国首例人工育幼成功的太平洋海象幼崽「喔喔」举办百日庆祝活动。9月15日，珠海长隆海洋王国的太平洋海象幼崽「喔喔」迎来出生第100天，这只雄性小海象出生于6月8日，因母亲产生攻击性而无法自然哺育，保育团队使用虎鲸乳、海象母乳和特制人工奶粉混合的奶汁成功实现人工育幼。目前它的体重已从56公斤成长至100公斤。海象主要生活于北冰洋海域，成年体重可达2000公斤，由于气候变化和人类活动干预已被列为易危物种。摄影师：Chen Jimin",
+          "link": "https://m.idai.ly/se/b42Naw",
+          "publishedOn": "2025-09-16T08:47:00.000Z",
+          "wordCount": 303,
+          "title": "广东人工育幼海象百日 - September 16, 2025",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/4264a6c1/099e4bcc.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/4264a6c1/099e4bcc.jpg"
+        },
         {
           "id": "idaily-236847",
           "author": "美国 · 佛罗里达州",
@@ -17908,6 +18110,36 @@
       "siteUrl": "http://nytimes.com",
       "articles": [
         {
+          "id": "https://cn.nytimes.com/world/20250916/israel-gaza-city-ground-offensive/dual",
+          "author": null,
+          "description": "ISABEL KERSHNER, LARA JAKES2025年9月16日周二，从以色列南部可以看到以军装甲部队正在加沙边境集结区完成作战部署。 Leo Correa/Associated Press\nThe Israeli military launched a ground incursion into Gaza City early Tuesday, according to three Israeli officials, embarking on a risky operation to take control of a key urban area even as hundreds of thousands of residents remain there.\n据三名以色列官员透露，以色列军方于周二凌晨对加沙城发动地面入侵，在数十万居民仍居住在该城的情况下，以色列军方采取了一项危险的行动，试图夺取这一关键城区的控制权。\nTwo of the officials said the ground invasion was in its early stages. They all spoke on the condition of anonymity to discuss sensitive military and government operations.\n其中两名官员表示，地面入侵尚处于初期阶段。由于讨论敏感的军事和政府行动，他们均要求匿名。\nThe ground operation and intensifying Israeli bombardment risks deepening the humanitarian crisis in a war that has already killed tens of thousands of people.\n此次地面行动和以色列不断加剧的轰炸可能会加剧这场已造成数万人死亡的战争中的人道主义危机。\nMore than 300,000 people had already fled the city by Monday, according to the Israeli military. On Tuesday, the military urged up to half a million Palestinians remaining in the city to move south as quickly as possible, by vehicle or on foot, describing the city as a “dangerous combat zone.”\n据以色列军方称，截至周一，已有超过30万人逃离加沙。周二，军方敦促留在该城的近50万巴勒斯坦人尽快乘车或步行向南撤离，并将该城描述为“危险交战区”。\nAvichay Adraee, the Arabic language spokesman for the Israeli military, said that the military had “begun dismantling Hamas terrorist infrastructure in Gaza City.”\n以色列军方的阿拉伯语发言人阿维查伊·阿德雷表示，军方已“开始拆除加沙城内的哈马斯恐怖主义基础设施”。\n“Gaza is burning,” Israel’s defense minister, Israel Katz, said in a statement after a night of heavy bombardment of Gaza City. The Israeli military “is striking with an iron fist at the terrorist infrastructure,” he added.\n“加沙正在燃烧，”以色列国防部长以色列·卡茨在加沙城遭受一夜猛烈轰炸后发表声明称。他还补充道，以色列军方“正在以铁拳打击恐怖分子的基础设施”。\n\nNatan Odenheimer对本文有报道贡献。\n翻译：Annie Xu\n点击查看本文英文版。",
+          "link": "https://cn.nytimes.com/world/20250916/israel-gaza-city-ground-offensive/dual",
+          "publishedOn": "2025-09-16T08:36:03.000Z",
+          "wordCount": 427,
+          "title": "以色列对加沙发起地面进攻",
+          "imageUrl": "https://static01.nyt.com/images/2025/09/16/multimedia/16mideast-crisis-header-fckl/16mideast-crisis-header-fckl-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/business/20250916/china-young-people-boom/dual",
+          "author": null,
+          "description": "袁莉2025年9月16日 Dongyan Xu\nA new catchphrase is sweeping China’s social media: The Beauty of the Boom Years.\n一个新的流行语正在席卷中国社交媒体：经济上行期的美。\nUsing apps like RedNote and Douyin, people are reviving memories of the 2000s and the early 2010s with photos of daring outfits, upbeat songs and vintage TV commercials, all of which, in different ways, evoke a time in China that pulsed with optimism.\n通过小红书和抖音等应用程序，人们用大胆的着装照片、欢快的歌曲和复古电视广告重温2000年代和2010年代初的记忆，这些元素以不同方式唤醒了那个在中国处处跃动着乐观主义的时代。\n“The music back then throbbed with exuberance, brimming with the sense that the future could only get brighter,” a middle-aged man said in a RedNote video. “Today’s lyrics begin with lines like, ‘We’re trying our best to survive.’”\n“那时的音乐洋溢着蓬勃活力，充满了未来只会越来越好的感觉，”一位中年男子在小红书的视频中说，“而如今的歌词开头都是‘我们都在努力活着’。”\nOthers reminisced about f…",
+          "link": "https://cn.nytimes.com/business/20250916/china-young-people-boom/dual",
+          "publishedOn": "2025-09-16T08:06:02.000Z",
+          "wordCount": 1405,
+          "title": "中国年轻人为何怀念“经济上行期的美”",
+          "imageUrl": "https://static01.nyt.com/images/2025/09/11/business/00nw-nostalgia/00nw-nostalgia-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/business/20250916/china-economy-us-tariffs/dual",
+          "author": null,
+          "description": "DAISUKE WAKABAYASHI, KEITH BRADSHER2025年9月16日电动汽车工厂生产线上的工人。 Gilles Sabrié for The New York Times\nThe trade war this year between China and the United States started with a bang, a fast-and-furious escalation of tariffs to astronomical levels. In the ensuing months, both countries showed a willingness to pull back and not shut down trade between the world’s largest economies.\n今年中美贸易战轰轰烈烈地拉开序幕，关税以迅雷不及掩耳之势飙升至天文数字。在随后的几个月里，双方都表现出让步的意愿，并未切断这两个世界最大经济体之间的贸易往来。\nBut they have made little discernible progress in resolving their differences on trade. On Monday, after a fourth round of talks, U.S. Treasury Secretary Scott Bessent said that the two sides would talk about trade again in about a month.\n但在解决贸易分歧方面，双方几乎没有取得明显进展。周一，经过第四轮谈判后，美国财政部长斯科特·贝森特表示，双方将在约一个月后再次就贸易问题展开磋商。\nWhile other countries have sc…",
+          "link": "https://cn.nytimes.com/business/20250916/china-economy-us-tariffs/dual",
+          "publishedOn": "2025-09-16T07:36:03.000Z",
+          "wordCount": 1137,
+          "title": "贸易僵局中，中国如何扛住压力、不先低头",
+          "imageUrl": "https://static01.nyt.com/images/2025/09/16/multimedia/16Biz-China-Trade-01-hkql/16Biz-China-Trade-01-hkql-articleLarge.jpg"
+        },
+        {
           "id": "https://cn.nytimes.com/business/20250915/us-china-trade-talks-tariffs-tiktok/dual",
           "author": null,
           "description": "ALAN RAPPEPORT, JOSÉ BAUTISTA2025年9月15日周一，财政部长斯科特·贝森特（中）和美国贸易代表贾米森·格里尔（最右）与中国官员举行贸易谈判后。 Thomas Coex/Agence France-Presse — Getty Images\nU.S. officials said on Monday that they had reached a preliminary deal with China on the fate of the social media platform TikTok that would address one of the biggest points of contention between the world’s two largest economies.\n美国官员周一表示，已与中国就社交媒体平台TikTok的命运达成初步协议，这将解决两个世界最大经济体之间最具争议的问题之一。\nAfter two days of talks in Madrid, Treasury Secretary Scott Bessent said that the sides had agreed to a “framework” for a deal to divest TikTok from its Chinese owner, ByteDance. President Trump and China’s top leader, Xi Jinping, are set to speak on Friday to approve the deal, which Mr. Bessent described as an agreement between “two private parties” and would shift t…",
@@ -18866,16 +19098,6 @@
           "wordCount": 1289,
           "title": "美印关系陷僵局，特朗普“助力”印度重新向中国靠拢",
           "imageUrl": "https://static01.nyt.com/images/2025/08/15/multimedia/15int-china-india-01-lkwq/15int-china-india-01-lkwq-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/world/20250818/trump-putin-approach-ukraine/dual",
-          "author": null,
-          "description": "PETER BAKER2025年8月18日“我的目标是停止杀戮，”特朗普在飞往阿拉斯加时说。而当他离开安克雷奇时，只留下了他与普京在红毯和总统专车“野兽”里说笑的照片。 Doug Mills/The New York Times\nOn the flight to Alaska, President Trump declared that if he did not secure a cease-fire in Ukraine during talks with President Vladimir V. Putin of Russia, “I’m not going to be happy,” and there would be “severe consequences.”\n在飞往阿拉斯加的专机上，特朗普总统宣称，如果他在与俄罗斯总统普京的会谈中没有达成乌克兰停火协议，“我不会高兴”，并且会有“严重的后果”。\nJust hours later, he got back on Air Force One and departed Alaska without the cease-fire he deemed so critical. Yet he had imposed no consequences, and had pronounced himself so happy with how things went with Mr. Putin that he said “the meeting was a 10.”\n仅仅几个小时后，他又登上“空军一号”离开阿拉斯加，并没有签署他认为至关重要的停火协议。然而，他没有施加任何后果，反而宣称自己对与普京的会谈感到非常满意，说“这是一次能打满分的会晤”。\nEven in the annals of Mr. Trump’s erra…",
-          "link": "https://cn.nytimes.com/world/20250818/trump-putin-approach-ukraine/dual",
-          "publishedOn": "2025-08-18T00:36:02.000Z",
-          "wordCount": 1315,
-          "title": "特朗普对普京的屈服：无停火协议、无制裁计划",
-          "imageUrl": "https://static01.nyt.com/images/2025/08/16/multimedia/16dc-assess-01-ztmb/16dc-assess-01-ztmb-articleLarge.jpg"
         }
       ]
     },
@@ -19352,26 +19574,6 @@
           "publishedOn": "2025-08-19T01:47:00.000Z",
           "wordCount": 256,
           "title": "故宫里的“避火咒”与“镇火兽”丨京华物语",
-          "imageUrl": null
-        },
-        {
-          "id": "61bc121650d5dd692a5456d99791692c",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E5%8E%86%E5%8F%B2%E5%AD%A6%E5%AE%B6%E5%B0%B1%E6%98%AF%E9%98%B2%E6%AD%A2%E5%8E%86%E5%8F%B2%E4%BB%85%E4%BB%85%E6%88%90%E4%B8%BA%E5%8E%86%E5%8F%B2%E7%9A%84%E4%BA%BA%EF%BD%9C%E7%BA%AA%E5%BF%B5%E3%80%8A%E8%AE%B0%E5%BF%86%E4%B9%8B%E5%9C%BA%E3%80%8B%E4%B8%BB%E7%BC%96%E7%9A%AE%E5%9F%83%E5%B0%94%C2%B7%E8%AF%BA%E6%8B%89",
-          "publishedOn": "2025-08-18T02:13:00.000Z",
-          "wordCount": 306,
-          "title": "历史学家就是防止历史仅仅成为历史的人｜纪念《记忆之场》主编皮埃尔·诺拉",
-          "imageUrl": null
-        },
-        {
-          "id": "7eec62f58565bb21befe6cdd33792549",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E4%BB%8E%E5%9C%9F%E8%80%B3%E5%85%B6%E5%9B%9E%E6%9C%9B%E5%A5%A5%E6%96%AF%E6%9B%BC%EF%BC%9A%E7%99%BE%E5%B9%B4%E7%BA%B7%E4%BA%89%E7%9A%84%E8%83%8C%E5%90%8E%E8%97%8F%E7%9D%80%E6%80%8E%E6%A0%B7%E7%9A%84%E8%BF%87%E5%8E%BB%EF%BC%9F",
-          "publishedOn": "2025-08-18T02:13:00.000Z",
-          "wordCount": 300,
-          "title": "从土耳其回望奥斯曼：百年纷争的背后藏着怎样的过去？",
           "imageUrl": null
         }
       ]
