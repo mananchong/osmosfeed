@@ -6,6 +6,16 @@
       "siteUrl": "https://rweekly.org/atom.xml",
       "articles": [
         {
+          "id": "https://rweekly.org/2025-W42.html",
+          "author": null,
+          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Sam Parmar, with help from the R Weekly team members and contributors.\nHighlight\nAaaaand… they’re off!\nGenerative AI for Data Visualisation\nBehavior-Driven Development in R Shiny: A Step-By-Step Example\nInsights\nforeach: Making All %dopar% Behave Like %dofuture% Everywhere\nA Primer on Domain Verification\nGenerative AI for Data Visualisation\n\n2025-10-10 AI Newsletter\n\nAaaaand… they’re off!\n\nMapping locations related to the Amelia Earhart disappearance by @ellis2013nz\nTutorials\nRaking a Survey to Another Survey\nHalloween in the Round\nA new simstudy function to make simulating replications easier\nNested Forecasting with Spark: Blockchain ETF Trends\nHow to Select Row with Max Va…",
+          "link": "https://rweekly.org/2025-W42.html",
+          "publishedOn": "2025-10-13T00:00:00.000Z",
+          "wordCount": 6113,
+          "title": "R Weekly 2025-W42 Aaaaand… they’re off!, Generative AI for Data Visualisation, and Behavior-Driven Development",
+          "imageUrl": "https://rweekly.org/public/facebook.png"
+        },
+        {
           "id": "https://rweekly.org/2025-W41.html",
           "author": null,
           "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Colin Fay, with help from the R Weekly team members and contributors.\nHighlight\nR-multiverse: a new way to publish R packages\nggplot2 styling\nThe Sovereign Tech Fund invests $450,000 in R Foundation to Enhance R’s Sustainability and Security\nInsights\nIterating some sample data\nExploring ggbot2: Creating a volcano plot with your voice\nThe Cadence of Behavior-Driven Development\nR in the Real World\nThe Sovereign Tech Fund invests $450,000 in R Foundation to Enhance R’s Sustainability and Security\nrOpenSci Code of Conduct Committee Templates\nrOpenSci News Digest, September 2025\nR-multiverse: a new way to publish R packages\nUncertainty Analysis: Gold vs. Bitcoin\nTutorials\n#052: Running r-ci with Coverage\n#051: A Neat Little Rcpp Trick\nggplot2 styling\nData Imputation and Scaling with healthyR.ai: A Guide for R Programmers\nMapply: When You Need to Iterate Over Multiple Inputs\nVoice control ggplot2 with ggbot2\nConstruct objects with idiomatic R code\nResources\nNew Packages\n📦 Go Live for More New Pkgs 📦\n -->\n📦 Keep up to date wtih CRANberries 📦\nUpdated Packages\n🔍 Search on R-universe 🔍\ntinythemes 0.0.4 at CRAN: Micro Maintenance\nVideos and Podcasts\nListen to the R-Weekly Highlights Podcast\nWeb Apps\nReal-time pricing with a pretrained probabilistic stock return model\n\n-->\n\nR Project Updates\nUpdates from R Core:\nCall for Participation\n  \n \nPost by @rOpenSci@hachyderm.io\n View on Mastodon\n  \n\n\nUpcoming Events in 3 Months\nEvents in 3 Months:\nA list of R conferences and meetings\nThis week’s local R-User and applied stats events\nWeekly R Workshops for Ukraine\nConnect\nJoin the Data Science Learning Community",
@@ -420,16 +430,6 @@
           "publishedOn": "2025-09-15T05:02:04.000Z",
           "wordCount": 143,
           "title": "胡箫白评《瓜生同蒂》｜并蒂瓜的“罗生门”",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_31569327",
-          "author": null,
-          "description": "斯托伊奇塔（章静绘）\n\n\n斯托伊奇塔是出生于罗马尼亚，自九十年代起在法国、德国、瑞士等地崭露头角的艺术史学者。其以法语写作完成的一系列作品吸纳了欧陆后结构主义思潮、符号学、图像人类学、媒介观念等不同的学术取向，并辅以扎实的语文学和图像学功底，逐步阐发出一套灵动跨越历史和学科边界的艺术史叙事。今年正值其两部重要著作《画作的诞生：近代早期欧洲的元绘画》（1995）和《皮格马利翁效应》（2008）中译出版，加上数年前《影子简史》的译本，让中文读者第一次得以全面了解这位法语写作的学者的整体学术面貌。《画作的诞生》作为其人生中第一部作品以结构分析、符号学理论等为方法核心，发展出一种全新的视觉图像阅读方法，把十五十六世纪的欧洲绘画视为对视觉图像自身属性和媒介特质的视觉反思，提供了一种与上世纪下半叶的图像志、社会艺术史等不同的解读途径，并将这种自我反思的现代特质与欧洲当时的艺术理论和宗教思潮（尤其是宗教改革对图像观念的冲击和近代早期艺术收藏系统的确立）做出了有益的历史语境联系，以此改写了西欧绘画史的叙事。《皮格马利翁效应》作为作者中后期的作品则转向历史跨度更大的叙事手法，以一个雕塑创作的古罗马神话为线索，追索了雕塑与模型、原型与拟像、图像与灵动生机之间的跨时段历史。其组织逻辑更贴近新千年图像人类学的框架，也在结构上呼应了艺术史先驱阿比瓦尔堡在《记忆女神图集》中提出的构想。以灵动娴熟的手法，对西方艺术史做出贯穿古今的新叙述，勾勒了一段“拟像的历史人类学”探究。今年夏天，《画作的诞生》的译者以邮件通信的方式，与斯托伊奇塔展开采访笔谈，回顾其近四十年的学术生涯和思想历程，与欧洲上一代重要学者的思想友谊，以及对学科当下的展望。以下的访谈是斯托伊奇塔在作品中译序以外首次直接与中文读者对话。\n\n《画作的诞生：近代早期欧洲的元绘画》，[罗] 维克多·斯托伊奇塔著，钱文逸译，华东师范大学出版社丨六点图书…",
-          "link": "https://www.thepaper.cn/newsDetail_forward_31569327",
-          "publishedOn": "2025-09-14T02:02:05.000Z",
-          "wordCount": 317,
-          "title": "斯托伊奇塔谈作为思想实验的图像史",
           "imageUrl": null
         }
       ]
@@ -12088,46 +12088,6 @@
           "wordCount": 27,
           "title": "气候变暖导致加拿大北极海域出现入侵物种藤壶",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_31609455",
-          "author": null,
-          "description": "第八届辽宁摄影金像奖组委会9月13日发布声明称，近日，组委会接到关于第八届辽宁摄影金像奖获奖者李靖部分参评作品涉嫌抄袭的举报。组委会高度重视，组织专家鉴定，认定其作品与他人作品高度相似，确定为模仿抄袭，研究决定取消李靖获奖者资格，收回相关荣誉，禁止参加辽宁省摄协举办的评奖和展赛。\n这是赛事组委会所能作出的针对参赛作品涉嫌抄袭者的处理。而鉴于涉嫌抄袭者还是高校的系主任，其所在单位，应据此作出进一步处理，才能切实做到对学术不端“零容忍”。\n\n李靖参评作品此前被曝涉嫌抄袭。\n\n\n公开资料显示，李靖为辽宁省摄影家协会会员，现任辽宁传媒学院美术系系主任。李靖的作品《造梦者：冰雪奇缘》，此前被曝与另一作者的作品十分相似。作为高校老师，参评作品被组委会查证存在抄袭行为，属于严重学术不端。大学不能在其获奖时，把获奖作为学校荣誉，而在发现其存在抄袭行为后，却淡化处理或不处理。\n怎么看待高校教师申报课题、参加校外竞赛中存在的学术不端行为？当前高校的处理，有“别人已经处理了，自己就不再处理”的倾向。比如，某教授申请某基金课题项目，被发现存在抄袭、造假行为，被取消课题项目，追回资助资金，并限制五年内不能再申请该基金项目后，学校并不会对涉事教授作进一步处理，在校内当作没事发生一样。还有学者在国外期刊发文，被举报存在抄袭行为，被学术期刊查证后撤稿，但学者所在高校、研究机构，并不对其作出学术处理。\n如此对待学术不端，就让涉嫌学术不端者，基本上是“零受损”，相当于申报课题、奖项、发表论文，跟什么都没有发生过一样。赛事组委会、学术期刊、项目设立方，对涉嫌学术不端者的处理权限，只能是撤销获奖资格、撤稿、撤销项目，以及禁止参赛、不再录取稿件、禁止申报。要进一步根据学术不端行为，撤销涉嫌学术不端者的学术头衔、职务，只能由其所在单位进行。\n而之所以高校采取这种方式进行处理，一方面是尽力淡化控制学术不端事件的影响，另一方面则是因为从利益角度看，涉嫌学术不端者获得的课题、奖项，也曾被视为学校的成果、荣誉。\n从现实看，如果竞赛组委会、学术期刊、课题设立方，不向社会通报查证的学术不端问题，涉嫌学术不端者所在单位，很大概率不会对其再作出处理，这说明建立学术不端通报制度的重要性。\n而在这些学术机构通报学术不端行为后，涉嫌学术不端人员所在单位，应按照学术原则，对其作出进一步的处理。这是对学术不端“零容忍”的基本要求。《新时代高校教师职业行为十项准则》明确的高校教师职业行为准则之一是，“遵守学术规范。严谨治学，力戒浮躁，潜心问道，勇于探索，坚守学术良知，反对学术不端；不得抄袭剽窃、篡改侵吞他人学术成果，或滥用学术资源和学术影响。”\n因此，在赛事组委会发布声明后，其所在的高校，要由教授委员会或学术委员会，审查其学术不端行为，对其作出相应的学术处理，以此倡导学术诚信，形成明确的学术规范。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_31609455",
-          "publishedOn": "2025-09-14T04:23:03.000Z",
-          "wordCount": 36,
-          "title": "马上评｜抄袭者荣誉被撤销后，高校应否作进一步处理",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_31609477",
-          "author": null,
-          "description": "为广泛延揽高校优秀人才投身新时代强军事业，近日，中央军委政治工作部部署展开2025年度第二批次军队直接选拔招录军（警）官工作。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_31609477",
-          "publishedOn": "2025-09-14T04:23:03.000Z",
-          "wordCount": 27,
-          "title": "2025年度第二批次军队直接选拔招录军（警）官工作全面展开",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_31609480",
-          "author": null,
-          "description": "9月14日，浙江省书法家协会发布关于“灵桥杯”浙江省第二届隶书大展抄袭违规问题的情况通报。\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.site",
-          "link": "https://www.thepaper.cn/newsDetail_forward_31609480",
-          "publishedOn": "2025-09-14T04:23:03.000Z",
-          "wordCount": 27,
-          "title": "浙江省第二届隶书大展有作品抄袭，浙江书协取消作者入展资格",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_31609459",
-          "author": null,
-          "description": "问：9月12日，尼泊尔前首席大法官苏希拉·卡尔基就任临时政府总理。中方对此有何评论？\n答：中方对卡尔基女士就任尼泊尔临时政府总理表示祝贺。\n中尼传统友好源远流长。中方一贯尊重尼泊尔人民自主选择的发展道路，愿同尼方一道努力，弘扬和平共处五项原则，推进各领域交流合作，推动中尼关系不断向前发展。\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.site",
-          "link": "https://www.thepaper.cn/newsDetail_forward_31609459",
-          "publishedOn": "2025-09-14T03:53:03.000Z",
-          "wordCount": 29,
-          "title": "外交部发言人就尼泊尔临时政府总理就任答记者问",
-          "imageUrl": null
         }
       ]
     },
@@ -12136,6 +12096,66 @@
       "feedUrl": "https://www.nationalreview.com/feed/",
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
+        {
+          "id": "https://www.nationalreview.com/?p=1884279",
+          "author": "The Editors",
+          "description": "Today’s return of hostages is the direct result of Jerusalem’s commitment and Trump’s unwavering support in the face of immense pressure.",
+          "link": "https://www.nationalreview.com/2025/10/a-hard-fought-triumph-in-israel/",
+          "publishedOn": "2025-10-13T15:37:25.000Z",
+          "wordCount": 6597,
+          "title": "A Hard-Fought Triumph in Israel",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2025/10/trump-netanyahu.jpg?fit=1879%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1883952",
+          "author": "The Editors",
+          "description": "The White House correctly celebrates the courage, entrepreneurial ambition, religious zeal, and daring that impelled figures like Columbus.",
+          "link": "https://www.nationalreview.com/2025/10/restoring-columbus-to-his-rightful-place/",
+          "publishedOn": "2025-10-13T10:30:30.000Z",
+          "wordCount": 6430,
+          "title": "Restoring Columbus to His Rightful Place",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2019/10/christopher-columbus-statue-spain.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1884127",
+          "author": "Susan Hanssen",
+          "description": "Let’s return to the genuine Columbus of the Italian immigrants and not to the fictional Columbus of the French revolutionaries and their flat Earth myth.",
+          "link": "https://www.nationalreview.com/2025/10/could-the-real-christopher-columbus-please-step-forward/",
+          "publishedOn": "2025-10-13T10:30:26.000Z",
+          "wordCount": 7757,
+          "title": "Could the Real Christopher Columbus Please Step Forward?",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2025/10/columbus-painting-met.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1884149",
+          "author": "Kathryn Jean Lopez",
+          "description": "And the signs are everywhere.",
+          "link": "https://www.nationalreview.com/2025/10/hearts-seek-more-than-politics/",
+          "publishedOn": "2025-10-13T10:30:14.000Z",
+          "wordCount": 6639,
+          "title": "Hearts Seek More Than Politics",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2025/10/pope-leo.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1884142",
+          "author": "Guy Denton",
+          "description": "The twice-failed presidential candidate’s book tour is an excruciating reminder of why she lost.",
+          "link": "https://www.nationalreview.com/2025/10/kamala-harriss-grand-delusions/",
+          "publishedOn": "2025-10-13T10:30:09.000Z",
+          "wordCount": 7235,
+          "title": "Kamala Harris’s Grand Delusions",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2025/10/kamala-harris-book-tour.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1883939",
+          "author": "Gregory W. Slayton",
+          "description": "The West must make clear that Putin cannot win.",
+          "link": "https://www.nationalreview.com/2025/10/beware-vlad-the-mad-cornered-russian-bears-are-extremely-dangerous/",
+          "publishedOn": "2025-10-13T10:30:02.000Z",
+          "wordCount": 7315,
+          "title": "Beware ‘Vlad the Mad’: Cornered Russian Bears Are Extremely Dangerous",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2025/10/vladimir-putin-zapad-military-exercises.jpg?fit=2057%2C1200&ssl=1"
+        },
         {
           "id": "https://www.nationalreview.com/?p=1883479",
           "author": "Sally C. Pipes",
@@ -14054,6 +14074,26 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/103067",
+          "author": "少数派编辑部",
+          "description": "欢迎收看本期《派评》。你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的App或者关注的话题，也欢迎在评论区和我们讨论。值得关注的新App虽然少数派一直在为大家发现和介绍各平台上的优质 ...查看全文",
+          "link": "https://sspai.com/post/103067",
+          "publishedOn": "2025-10-13T10:06:41.000Z",
+          "wordCount": 544,
+          "title": "派评 | 近期值得关注的 App",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sspai.com/prime/story/gliding-discs-trx-exercise-band-training-guide",
+          "author": "举铁的马里奥",
+          "description": "常去健身房的朋友或许有同感：除了熟悉的哑铃和杠铃，总有些新奇的训练工具，让人好奇却又不知如何下手。经过一番探索，我发现这些工具各有其独特的魅力和功用，其中一些不仅适用于健身房，也非常适合居家训练。在之 ...查看全文\n本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
+          "link": "https://sspai.com/prime/story/gliding-discs-trx-exercise-band-training-guide",
+          "publishedOn": "2025-10-13T09:45:01.000Z",
+          "wordCount": 273,
+          "title": "陌生而有趣的训练伙伴——滑行盘和 TRX 训练带使用指南",
+          "imageUrl": null
+        },
+        {
           "id": "https://sspai.com/post/102934",
           "author": "ElijahLee",
           "description": "和以前一样，Apple 的发布会充满了炫目的新技术，但我总有一个问题：这项新技术将如何使我们的照片和视频更好？查看全文",
@@ -14881,6 +14921,48 @@
       "siteUrl": "https://idai.ly",
       "articles": [
         {
+          "id": "idaily-238613",
+          "author": "美国 · 得克萨斯州",
+          "description": "SpaceX 星舰原型机与超重型助推器组合体竖立在发射台，得克萨斯州。10月12日，SpaceX 宣布将于美东时间10月13日19时15分进行星舰第11次试飞，发射窗口持续75分钟，主要目标包括部署8颗模拟星链卫星、对星舰隔热系统进行极限压力测试以及超重型助推器的海上悬停和受控溅落等。本次任务使用的超重型助推器为第二次发射，并搭载24台再次使用的猛禽发动机。摄影师：Steve Nesius",
+          "link": "https://m.idai.ly/se/bf4tOS",
+          "publishedOn": "2025-10-13T08:39:00.000Z",
+          "wordCount": 258,
+          "title": "星舰即将第11次试飞 - October 13, 2025",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/cebc572f/0c01f538.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/cebc572f/0c01f538.jpg"
+        },
+        {
+          "id": "idaily-238611",
+          "author": "日本 · 大阪",
+          "description": "大阪世博会举行闭幕前最后一场烟火表演。10月13日，2025年大阪世博会正式闭幕，本届世博会为期184天，共有来自158个国家和地区以及7个国际组织参展，累计参观人数为2529万人次，达到预期目标的90%，预计带来3万亿日元经济效益，实现230亿至280亿日元（约合1.5亿至1.85亿美元）运营收入盈余。下一届世界博览会将于2030年在沙特阿拉伯首都利雅得举行。摄影师：iDaily Media",
+          "link": "https://m.idai.ly/se/6e3z55",
+          "publishedOn": "2025-10-13T08:39:00.000Z",
+          "wordCount": 258,
+          "title": "2025年大阪世博会闭幕 - October 13, 2025",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/c64a0ff3/c6ef15bc.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/c64a0ff3/c6ef15bc.jpg"
+        },
+        {
+          "id": "idaily-238609",
+          "author": "加沙地带 · 汗尤尼斯",
+          "description": "国际人道主义援助卡车进入加沙地带分发物资。10月12日，加沙地带停火协议生效进入第3天，约400辆载有超过9000吨物资的人道主义援助卡车进入加沙地带，主要物资包括食物、药品、帐篷、毛毯、燃料等生活必需品。联合国救援机构已准备17万吨食品、药品及其他救援物资，目标为加沙全境210万人口提供食品供应，并为约50万营养不良者提供医疗支持。摄影师：Haitham Imad",
+          "link": "https://m.idai.ly/se/d32Sjg",
+          "publishedOn": "2025-10-13T08:39:00.000Z",
+          "wordCount": 258,
+          "title": "人道援助物资进入加沙 - October 13, 2025",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/90c40cda/63ffbec1.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/90c40cda/63ffbec1.jpg"
+        },
+        {
           "id": "idaily-238536",
           "author": "中国 · 海阳",
           "description": "「引力一号」遥二运载火箭在海上平台发射升空，山东海阳。10月11日，中国民营航天企业东方空间自主研制的「引力一号」固体运载火箭执行第2次发射任务，成功将吉林一号宽幅02B07星、数天宇星01和02试验星共3颗卫星送入预定轨道。「引力一号」是目前全球起飞推力最大的固体燃料运载火箭，采用三级半构型，高约30米，整流罩直径4.2米，起飞推力达600吨，近地轨道运载能力为6.5吨，500公里太阳同步轨道运载能力为4.2吨，具备规模化部署低轨卫星的能力。摄影师：iDaily Media",
@@ -14935,6 +15017,20 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://pic.yupoo.com/fotomag/7cb59951/a7d71592.jpg"
+        },
+        {
+          "id": "idaily-238606",
+          "author": "阿富汗 · 喀布尔",
+          "description": "阿富汗塔利班政府发言人就与巴基斯坦边境冲突发表讲话，喀布尔。10月11日晚上，阿富汗与巴基斯坦边境地区发生2021年迄今最严重的冲突交火，阿富汗方面宣称击毙58名巴基斯坦士兵并占领25个军事哨所，巴基斯坦军方称击毙超过200名塔利班军事人员。本次冲突起因为巴基斯坦10月9日对阿富汗首都喀布尔实施空袭，巴基斯坦宣称打击目标为袭击巴方的恐怖分子，阿富汗塔利班政府则坚称其境内不存在任何针对他国的威胁。摄影师：Samiullah Popal",
+          "link": "https://m.idai.ly/se/7b5y1R",
+          "publishedOn": "2025-10-12T09:54:00.000Z",
+          "wordCount": 258,
+          "title": "阿富汗巴基斯坦边境交火 - October 13, 2025",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/2f876df5/c9738a00.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/2f876df5/c9738a00.jpg"
         },
         {
           "id": "idaily-238532",
@@ -18579,6 +18675,56 @@
       "siteUrl": "http://weixin.sogou.com/weixin?type=1&s_from=input&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A",
       "articles": [
         {
+          "id": "82b5ecd8efe6d547a3a271842dc4c233",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E6%97%B6%E9%97%B4%E7%9A%84%E8%A4%B6%E7%9A%B1%EF%BC%9A%E4%B8%BB%E9%A2%98%E6%B2%99%E9%BE%99%E5%BC%80%E7%A5%A8%20%7C%202025%E5%8C%97%E4%BA%AC%E5%9B%BE%E4%B9%A6%E5%B8%82%E9%9B%86%C2%B7%E7%A7%8B%E5%AD%A3%E5%9C%BA",
+          "publishedOn": "2025-10-13T02:11:00.000Z",
+          "wordCount": 311,
+          "title": "时间的褶皱：主题沙龙开票 | 2025北京图书市集·秋季场",
+          "imageUrl": null
+        },
+        {
+          "id": "922bab98aaa484c59d14e9a2c04b4f47",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+2025%E5%8C%97%E4%BA%AC%E5%9B%BE%E4%B9%A6%E5%B8%82%E9%9B%86%C2%B7%E7%A7%8B%E5%AD%A3%E5%9C%BA%20%7C%20%E8%89%BA%E6%9C%AF%E6%96%87%E5%88%9B%E5%8C%BA%E9%80%9B%E6%91%8A%E6%94%BB%E7%95%A5%E2%91%A1",
+          "publishedOn": "2025-10-13T02:11:00.000Z",
+          "wordCount": 334,
+          "title": "2025北京图书市集·秋季场 | 艺术文创区逛摊攻略②",
+          "imageUrl": null
+        },
+        {
+          "id": "6744ba404373a6623b1698fc39a019a0",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E2%80%9C%E6%96%A1%E8%85%B9%E4%B9%8B%E8%B0%8B%E2%80%9D%E6%98%AF%E5%B0%86%E9%94%99%E5%B0%B1%E9%94%99%EF%BC%9F%E6%89%80%E5%90%91%E6%8A%AB%E9%9D%A1%E7%9A%84%E8%92%99%E5%8F%A4%E9%93%81%E9%AA%91%E5%8E%9F%E6%9D%A5%E4%B9%9F%E6%98%AF%E8%BE%B9%E6%89%93%E8%BE%B9%E7%94%BB%E5%9B%BE",
+          "publishedOn": "2025-10-13T02:11:00.000Z",
+          "wordCount": 262,
+          "title": "“斡腹之谋”是将错就错？所向披靡的蒙古铁骑原来也是边打边画图",
+          "imageUrl": null
+        },
+        {
+          "id": "a794fe1e1ed95670e787661155a33c9d",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E6%B2%A1%E6%9C%89%E4%BA%86%E7%9A%87%E5%B8%9D%E7%9A%84%E7%B4%AB%E7%A6%81%E5%9F%8E%EF%BC%8C%E6%89%8D%E6%9C%89%E4%BA%86%E8%80%81%E7%99%BE%E5%A7%93%E7%9A%84%E6%95%85%E5%AE%AB%20%7C%20%E6%95%85%E5%AE%AB%E5%8D%9A%E7%89%A9%E9%99%A2%E6%88%90%E7%AB%8B100%E5%91%A8%E5%B9%B4",
+          "publishedOn": "2025-10-12T02:34:00.000Z",
+          "wordCount": 266,
+          "title": "没有了皇帝的紫禁城，才有了老百姓的故宫 | 故宫博物院成立100周年",
+          "imageUrl": null
+        },
+        {
+          "id": "bcc0de0d955732489f8dffe32f7f6905",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E4%BA%BA%E7%94%9F%E8%BF%99%E4%B9%88%E5%BF%99%EF%BC%8C%E6%AD%87%E4%BC%9A%E5%84%BF%E7%9C%8B%E5%BC%A0%E7%94%BB%E5%84%BF%E5%90%A7",
+          "publishedOn": "2025-10-12T02:34:00.000Z",
+          "wordCount": 309,
+          "title": "人生这么忙，歇会儿看张画儿吧",
+          "imageUrl": null
+        },
+        {
           "id": "a2f62ccd1ef7d55dca22ef6f9467a580",
           "author": null,
           "description": "",
@@ -19036,36 +19182,6 @@
           "publishedOn": "2025-09-17T02:03:00.000Z",
           "wordCount": 306,
           "title": "张贴在机场的高价咨询：为什么有企业愿为“抽象”战略买单？",
-          "imageUrl": null
-        },
-        {
-          "id": "87da024297b61aa61b1fa6a12bb6733c",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E7%86%8A%E3%80%81%E5%9E%83%E5%9C%BE%E5%92%8C%E8%A7%82%E7%86%8A%E8%80%85%E7%9A%84%E7%94%9F%E6%80%81%E8%A7%82%E5%AF%9F",
-          "publishedOn": "2025-09-14T01:54:00.000Z",
-          "wordCount": 297,
-          "title": "熊、垃圾和观熊者的生态观察",
-          "imageUrl": null
-        },
-        {
-          "id": "c811afbb2c072e6cb6b5b505e9dcc53b",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E6%88%98%E5%90%8E%E5%BE%B7%E5%9B%BD%E7%9A%84%E7%BD%AA%E4%B8%8E%E7%BD%9A",
-          "publishedOn": "2025-09-14T01:54:00.000Z",
-          "wordCount": 294,
-          "title": "战后德国的罪与罚",
-          "imageUrl": null
-        },
-        {
-          "id": "ce5210228df453605cd92d67789f05e8",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E5%8D%9A%E7%89%A9%E5%AD%A6%E8%BF%87%E6%97%B6%E4%BA%86%E5%90%97%EF%BC%9F",
-          "publishedOn": "2025-09-14T01:54:00.000Z",
-          "wordCount": 330,
-          "title": "博物学过时了吗？",
           "imageUrl": null
         }
       ]
