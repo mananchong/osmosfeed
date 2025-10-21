@@ -34,16 +34,6 @@
           "wordCount": 6254,
           "title": "R Weekly 2025-W40 Ducklake, Slidecrafting, Shiny & LLMs",
           "imageUrl": "https://rweekly.org/public/facebook.png"
-        },
-        {
-          "id": "https://rweekly.org/2025-W39.html",
-          "author": null,
-          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Jonathan Carroll, with help from the RWeekly team members and contributors.\nHighlight\nAll the Ways to Programmatically Edit or Parse R Markdown / Quarto Documents\nI Vibe Coded an R Package\nQuality Control for Scanned Multiple-Choice Exams\nInsights\nPhoenician colonization\nQuality Control for Scanned Multiple-Choice Exams\n\nAll the Ways to Programmatically Edit or Parse R Markdown / Quarto Documents\nComplete Guide to Applying Functions to Each Row in R Matrices and Data Frames\nPositron at posit::conf(2025) Roundup\nRStudio IDE and Posit Workbench 2025.09.0: What’s New\nWhat’s New in Posit Package Manager: September 2025\nPositron for Product Owners\nDeploy to Connect Cloud from Pos…",
-          "link": "https://rweekly.org/2025-W39.html",
-          "publishedOn": "2025-09-22T00:00:00.000Z",
-          "wordCount": 6010,
-          "title": "R Weekly 2025-W39 Parse RMarkdown, Vibe Code, Quality Control",
-          "imageUrl": "https://rweekly.org/public/facebook.png"
         }
       ]
     },
@@ -421,16 +411,6 @@
           "wordCount": 101,
           "title": "秋水读《信仰与利益之网》︱“禅僧外交”中的政治",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_31645029",
-          "author": null,
-          "description": "《信仰与利益之网: 僧侣、海商与中日交流》，李怡文著，冯立君、傅亭瑄译，北京大学出版社2025年1月出版，240页，80.00元\n\n\n香港城市大学中文与历史学系李怡文副教授的《信仰与利益之网：僧侣、海商与中日交流》是今年获得列文森奖荣誉提名的一本东亚研究著作。本书将中世日本的对外交流形容为“宗教-商业网络”，对日本遣唐使的官方外交取消后的交流史进行了大框架式的概括，是一个具有启发性的视角。这一选题关注到中世日本对外交流中的“信仰与利益之网”，对英文世界的读者来说，有助于修正东亚世界“朝贡体系”的单一印象，对中文世界的读者来说，也系统梳理了九至十五世纪的中日“非正式外交”，有助于读者认识到一般常识以外的海域交流诸多面向。\n书中提出了“共同的宗教信仰是否能提升贸易效率”的探讨，但对另一个不容忽视的在场因素——政治之网——则讨论不多。回顾日本学界的研究史可见，中世日本的交流史不仅仅是基于群体性人际关系网络的“宗教-商业”框架。贸易航路的转变、僧侣的政治·外交功能、商业活动中与政治密切相关的“伪使”问题、汉诗唱和的礼仪文化等都说明中世日本对外交流史的考察不应仅在“宗教-商业网络”框架下进行，利益、信仰与政治也是密不可分的。无论是“禅僧外交”或“伪使”现象，还是对“唐物”的需求，都与政治史脱不开关系。村井章介曾经指出，史料上以求法僧身份出现的人，同时也存在作为外交使节的可能性，也就是“外交与求法不可分离论”。在中世日本，无论是宗教还是商业，都是广义政治的一部分。\n“大洋路”与“南岛路”的反复\n学者河上麻由子曾指出，当遣唐使派遣的意义随着平安王朝国家的政治推进而消失，天皇不再需要通过派遣遣唐使来进行王朝国家的外交礼仪，天皇与外部世界的联系发生了逆转。但中世日本与大陆和半岛的东亚海域交流，继续通过《信仰与利益之网》指出的僧侣与海商组成的网络进行着。在以博多为中心的中世东亚海域贸易网络中，…",
-          "link": "https://www.thepaper.cn/newsDetail_forward_31645029",
-          "publishedOn": "2025-09-22T04:02:03.000Z",
-          "wordCount": 101,
-          "title": "秋水读《信仰与利益之网》︱“禅僧外交”中的政治",
-          "imageUrl": null
         }
       ]
     },
@@ -439,6 +419,206 @@
       "feedUrl": "https://feedx.net/rss/thepaper.xml",
       "siteUrl": "http://thepaper.cn",
       "articles": [
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_31820342",
+          "author": null,
+          "description": "10月21日，商务部部长王文涛应约与荷兰经济大臣卡雷曼斯通话，双方围绕安世半导体等问题交换意见。\n王文涛表示，中方高度重视中荷经贸合作。荷方针对安世半导体采取的有关措施，严重影响全球产供链稳定。中方敦促荷方从维护全球产供链安全稳定的大局出发，秉持契约精神和市场化、法治化原则，尽快妥善解决问题，保护中国投资者合法权益，营造公平、透明、可预期的营商环境。\n卡雷曼斯表示，荷方高度重视荷中经贸关系，愿与中方密切沟通，为安世半导体问题寻找建设性的解决方案。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_31820342",
+          "publishedOn": "2025-10-21T15:53:02.000Z",
+          "wordCount": 28,
+          "title": "商务部部长王文涛与荷兰经济大臣卡雷曼斯通话",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_31820353",
+          "author": null,
+          "description": "当地时间10月21日，据美国有线电视新闻网报道，美国副总统万斯已抵达以色列，协助特朗普政府推进加沙停火计划的第二阶段。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_31820353",
+          "publishedOn": "2025-10-21T15:53:02.000Z",
+          "wordCount": 27,
+          "title": "美副总统万斯抵达以色列，推进加沙停火计划第二阶段",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_31820338",
+          "author": null,
+          "description": "10月21日，王文涛部长应约与欧盟委员会贸易和经济安全委员谢夫乔维奇举行视频会谈，就出口管制、欧盟对华电动汽车反补贴案等中欧经贸重点议题深入交换意见。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_31820338",
+          "publishedOn": "2025-10-21T15:23:02.000Z",
+          "wordCount": 27,
+          "title": "商务部部长王文涛与欧盟委员会贸易和经济安全委员谢夫乔维奇举行视频会谈",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_31820343",
+          "author": null,
+          "description": "10月21日，商务部部长王文涛应约与荷兰经济大臣卡雷曼斯通话，双方围绕安世半导体等问题交换意见。\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.site",
+          "link": "https://www.thepaper.cn/newsDetail_forward_31820343",
+          "publishedOn": "2025-10-21T15:23:02.000Z",
+          "wordCount": 27,
+          "title": "商务部部长王文涛与荷兰经济大臣卡雷曼斯通话",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_31820176",
+          "author": null,
+          "description": "今年一路狂飙的黄金、白银价格突然高台跳水。\n在前一日刷新历史高点4381.21美元/盎司后，伦敦金现于10月21日高台跳水，盘中大跌超3.8%，跌破4200美元/盎司；伦敦银现10月21日盘中跌破50美元/盎司，为10月10日以来首次，日内跌幅一度超6%。\nWind数据显示，截至发稿时，伦敦金现报4197.156美元/盎司，跌3.64%；伦敦银现报49.586美元/盎司，跌5.35%。\n\n分析人士指出，随着地缘政治出现缓和消息，特朗普在贸易态度上的软化，贵金属市场也出现快速调整和获利了结情绪。此外，当前金银价格已重回历史高位区间，短期下行风险逐渐累积，对于普通投资者而言，应根据自身风险承受能力理性配置。\n不过，展望后市，多家国际投行仍然看好黄金。汇丰银行近期在一份大宗商品展望报告中表示，黄金的上涨动能有望持续至2026年，其背后动力包括各国央行的强劲购金、美国持续的财政担忧以及进一步货币宽松的预期，目标价为5000美元。\n黄金、白银回调明显\n本周一，现货黄金价格强势上涨逾2.5%，不仅收复了上周五的全部跌势，还一度刷新历史高点至4381.29美元/盎司，最终收报4356.26美元/盎司，涨幅约2.5%。而10月21日，黄金、白银双双高台跳水。\n不过，由于前一日现货黄金价格冲高，国内金饰克价周二依然大涨。\n10月21日，老庙足金饰品报价1294元/克，较前一日的1258元/克上涨36元/克；周大福、六福珠宝、金至尊足金饰品报价1292元/克，较前一日的1262元/克上涨30元/克；老凤祥黄金足金饰品报价1290元/克，较前一日的1258元/克上涨32元/克。\n\n光大期货研究所有色金属总监展大鹏表示，上周贵金属价格一度出现快速冲高，不仅黄金，银铂钯也出现较大上涨的表现，从盘面来看存在过热现象，因此随着地缘政治出现缓和消息，特朗普在贸易态度上的软化，贵金属市场也出现快速调整和获利…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_31820176",
+          "publishedOn": "2025-10-21T14:53:03.000Z",
+          "wordCount": 55,
+          "title": "高台跳水！现货黄金一度跌超3.8%、现货白银大跌逾6%，什么原因？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_31820255",
+          "author": null,
+          "description": "10月21日，高市早苗当选日本首相。当晚20时56分左右，内阁大臣认证仪式结束，高市内阁正式成立。\n\n当地时间2025年10月21日，日本东京，日本首相高市早苗在办公室举行记者会。视觉中国 图\n\n\n一个多小时后，高市早苗召开记者会表示：“要打造强大的日本经济，在外交与安全保障上坚决维护日本的国家利益。”同时，她就“新内阁成立耗时较长”一事，对政治空白的长期化向国民表示歉意。\n高市内阁中有10人为初次入阁，而外相、防相、总务相、经济产业相均为政坛老面孔。据日本广播协会（NHK）报道，高市早苗及18位阁僚的平均年龄为59.37岁，其中最年轻的是经济安全保障大臣小野田纪美，现年42岁，也是除高市之外的两名女性阁僚之一。\n官房长官作为首相的左膀右臂，由高市早苗的亲信木原稔出任。木原稔是原茂木派的保守派议员，曾在安倍晋三和菅义伟两届政权中担任首相辅佐官。高市担任党政调会长时，他曾作为事务局长为其提供支持。在新冠疫情期间，他曾积极推动向中国台湾地区提供疫苗，也以亲台派身份为人所知。\n另一个焦点是，此次没有涉及黑金丑闻的议员进入高市内阁。自丑闻曝光以来，岸田文雄和石破茂两届内阁都避免起用相关议员，但高市曾表示“（黑金丑闻）不会影响人事任命”。此前，她任命曾卷入黑金丑闻的前安倍派核心成员、前自民党政调会长萩生田光一为干事长代行，引发在野党的强烈批评。\n《朝日新闻》指出，高市内阁体现了保守政治立场，具有鲜明的“高市色彩”。日本维新会作为自民党的联合执政伙伴，不派成员入阁，根据协定以“阁外合作”的方式参与政权运作，两党联合也难以摆脱少数派执政的困境。\n“我本来就喜欢工作”\n随着首位女性首相的诞生，女性参政也被寄予期待。高市早苗9月宣布参选自民党总裁时曾表示，在内阁和自民党领导班子的构成上，会组建一个即使与北欧国家相比也毫不逊色的女性众多的团队，并谈及推动女性参政的重要性。\n然而，21日成立的高市内阁中除高市本人外仅有两名女性。历史上，女性阁僚最多的是2001年4月成立的小泉纯一郎内阁，有5名女性大臣，其中两人甚至是非国会议员。据《朝日新闻》报道，高市身边人士透露，她在就任自民党总裁不久后就开始考虑人事安排，目标是女性阁僚的数量超过历届。\n但是，自民党内女性议员数量较少，所属的196名众议员中，女性只有19人，其中当选5次以上、具备入阁资历的约12人。参议院方面，101名自民党议员中女性只有19人，当选3次以上的仅8人。\n两名女性阁僚分别为财务大臣片山皋月和经济安全保障担当大臣小野田纪美，这两人都是高市此次自民党总裁选举的推荐人，有观点认为这属于“论功行赏”。\n\n高市早苗内阁\n\n\n现年66岁的片山一头卷发，极具辨识度。她曾是原安倍派成员，在旧大藏省（现财务省）工作超过20年，历任主计官等重要职务，全力支持高市提出的 “负责任的积极财政政策”。\n据《每日新闻》报道，当被问及，高市在本月4日当选自民党总裁时表示“要让所有议员像拉车的马一样拼命工作，“抛弃生活与工作平衡”时，片山回应称：“我本来就喜欢工作，会这么做。但政府部门的职员们已经非常努力，绝不会让他们过劳。”\n小野田纪美出生于美国，在日本冈山长大，是日美混血。她于2016年首次当选参议员，历任法务、防卫政务官，参议院外交防卫委员会主席。在今年9月自民党总裁选举中，她担任高市阵营“早苗之队”的队长，此次入阁还兼任新设的“与外国人有序共生社会担当”一职，负责外国人政策。\n小泉进次郎担任防卫大臣引热议\n高市早苗在9月自民党总裁选举中的4名主要竞争对手全部被委以重任。前农林水产大臣小泉进次郎出任防卫大臣、前官方长官林芳正出任总务大臣、自民党前干事长茂木敏充为外务大臣。前经济安保大臣小林鹰之则任自民党政调会长。\n此外，日本前首相石破茂的亲信、负责对美关税谈判的前经济再生担当大臣赤泽亮正被任命为经济产业大臣。\n日媒分析指出，面对少数派执政的艰难局面，高市意在通过团结党内各派的人事安排来稳固政治基础。\n值得一提的是，今年自民党总裁选举进入决胜轮的小泉进次郎确认出任防相后，在日本社交平台上引发热议，既有 “进次郎能当好防相吗”、“他继续担任农林水产大臣就好”这样的评论，也有留言称“只要安全保障的总指挥是高市，防卫相只需要按首相方针行事”。\n小泉进次郎21日在首相官邸接受日媒采访时说：“我出生并成长于横须贺，那是一座以防卫为特色的城市。今后我将充分发挥以往积累的各种联系与经验，尽全力履行职责。”\n小泉进次郎的家世与安全保障也颇有渊源。他的高祖父小泉由兵卫靠为日本海军输送劳动力掘到了第一桶金。进次郎的祖父小泉纯也曾在内阁中担任防卫厅长官，因在国会中专注于安全保障问题，被称为“国会的安保男”。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_31820255",
+          "publishedOn": "2025-10-21T14:53:03.000Z",
+          "wordCount": 51,
+          "title": "释新闻｜三名女性、主要对手均受重用，高市早苗内阁都有谁？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_31820325",
+          "author": null,
+          "description": "10月21日，高市早苗当选日本首相。当晚20时56分左右，内阁大臣认证仪式结束，高市内阁正式成立。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_31820325",
+          "publishedOn": "2025-10-21T14:53:03.000Z",
+          "wordCount": 30,
+          "title": "释新闻｜三名女性、主要对手均受重用，高市早苗内阁都有谁？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_31820329",
+          "author": null,
+          "description": "浙江省杭州市交通运输局网站日前发布消息称，对于市政协委员提出的《试点开放宠物乘坐公共交通工具的建议》，经该局主办，市综合行政执法局、市农业农村局、市地铁集团等单位会办，现已作出答复。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_31820329",
+          "publishedOn": "2025-10-21T14:53:03.000Z",
+          "wordCount": 29,
+          "title": "杭州回应“试点宠物乘公交地铁”建议：社会接受度明显分化，短期不具备条件",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_31820304",
+          "author": null,
+          "description": "当地时间10月21日，正在率团访问开罗的巴勒斯坦伊斯兰抵抗运动（哈马斯）高级官员哈利勒·哈亚在埃及首都开罗接受媒体采访时表示，该组织将与巴勒斯坦各派系一道，全力履行加沙地带停火协议。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_31820304",
+          "publishedOn": "2025-10-21T14:23:03.000Z",
+          "wordCount": 27,
+          "title": "哈马斯：将全力履行加沙停火协议",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_31820305",
+          "author": null,
+          "description": "宁德时代（300750.SZ/03750.HK）的巧克力换电站建设正在向年度目标冲刺。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_31820305",
+          "publishedOn": "2025-10-21T14:23:03.000Z",
+          "wordCount": 31,
+          "title": "700座巧克力换电站落成，宁德时代今年冲刺1000座：明年目标2500座",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_31820069",
+          "author": null,
+          "description": "四季度作为生产和消费的传统旺季，对于实现全年目标至关重要。近期，江苏的南通、南京、苏州、无锡等四座“GDP万亿城市”陆续召开会议，总结前三季度经济工作，部署冲刺四季度，确保高质量实现全年目标任务和“十四五”圆满收官，扛好“经济大市挑大梁”责任。\n\n2025年10月19日，江苏南通，南通队球迷在呐喊助阵。视觉中国 图\n\n\n火爆出圈的“苏超”，展现出体育赛事作为城市消费催化剂的强大动能。澎湃新闻注意到，南通、南京两市在谋划四季度“促消费文章”时，不约而同将目光投向了“苏超”，表示要抓住用好赛事流量，深化文商旅体展融合，激活消费活力。\n“第二经济大省”江苏拥有5座“GDP万亿城市”，数量居各省份第一，五市GDP合计总量约占全国的6%、全省逾六成。去年，苏州GDP达2.67万亿元，南京、无锡、南通、常州分别为1.85万亿元、1.63万亿元、1.24万亿元、1.08万亿元。五个经济大市能否实现全年目标，对全省年度目标的完成具有决定性作用。\n10月17日，江苏省委常委会会议暨省委财经委员会会议召开，研究部署冲击全年目标任务。随后，南通、南京、苏州、无锡四座“GDP万亿城市”先后召开会议贯彻落实，围绕拓展消费、扩大投资、稳外贸外资、保障改善民生等方面加以谋划。\n四座城市结合自身禀赋及优势，在确定下一阶段的着力方向时各有侧重。10月18日，南通市委财经委员会会议暨经济形势分析会召开，强调要更大力度补短板、锻长板，坚决稳住工业基本盘，促进现代服务业高质量发展，加快建筑业转型升级，巩固外贸领先优势，持续优化营商环境，抓好企业走访服务和惠企政策落实，以经营主体的发展壮大支撑经济回升向好。要紧张快干抓好落实，加强工作统筹，不断浓厚“七虎竞南通、十强逐江海”发展氛围，凝聚奋战四季度、夺取全年胜的强大合力。\n10月20日，南京市委财经委员会召开会议，强调要统筹经济运行监测和重点行业突破，稳住工业基本盘，提升服务业支撑力，进一步做好稳外贸稳外资工作。要统筹科技创新和产业创新，加快推进重大科技基础设施等平台载体建设，加大高校技术成果转移转化力度，紧盯产业强市目标狠抓攻坚，突出抓好“人工智能+”行动发展战略。\n同在20日，苏州市政府召开常务会议，强调要狠抓项目投资，加强项目招引和服务保障，推动项目早投产达产。要全力抢抓订单，发挥苏州工贸联动优势，提前争取明年订单。要坚持投资于人，大力引留人才，持续强化创新支持。\n无锡市政府也在20日召开第69次常务会议。会议指出，要紧抓市场主体培育、项目建设推进、创新能力提升和风险防范化解等核心环节，“一企一策”助力企业做大做强，一体推进投资达产和增资扩产、项目签约引进和服务跟进、招大引强和培优育强。\n谈及“拼消费”时，南通、南京两市的会议均“点名”了“苏超”。其中，南通提出，要激发消费活力，精心办好江苏城市足球联赛半决赛南通主场比赛，以“全域主场、全域观赛、全域消费”理念抓住用好赛事流量，分类施策扩大商品消费，积极培育服务消费新场景新业态新模式。南京则表示，要统筹消费提振和扩大投资，抓住重要时点和“苏超”等重大活动，深化文商旅体展融合，做好促消费文章。\n被称为“苏超”的江苏省城市足球联赛，已演变成“体育+文旅”的现象级“全民狂欢”。通过低票价策略和全民参与模式，“苏超”激活了文体旅商融合的消费活力，一张票根撬动了城市文旅消费增长。据江苏省商务厅测算，“苏超”实现了“1元门票带动7.3元周边消费”的杠杆效应。\n刚于10月18日和19日结束的半决赛，让南京和南通两个主场城市赚得“盆满钵满”。支付平台监测数据显示，南京主场比赛当天，全市重点商圈和商业街区零售、餐饮、住宿等行业单位实现交易金额7.8亿元，环比前一周同期增长5.4%；商务部门监测的重点商场百货类企业、住宿餐饮类企业客流量环比分别增长8.1%、10.3%。南通的主场日，全市共接待游客50.46万人次，相较于去年同期增长24.2%；实现旅游收入3.11亿元，同比增长25.3%；重点监测住餐企业营收464.5万元，增长15.4%；重点商贸企业销售额6758.3万元，增长11.1%。\n11月1日，南通队与泰州队将在南京奥体中心上演“苏超”决赛。\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.site",
+          "link": "https://www.thepaper.cn/newsDetail_forward_31820069",
+          "publishedOn": "2025-10-21T13:53:03.000Z",
+          "wordCount": 38,
+          "title": "江苏多座万亿城市部署冲刺全年目标，南京南通紧盯“苏超”拼消费",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_31819515",
+          "author": null,
+          "description": "美国总统特朗普和澳大利亚总理阿尔巴尼斯20日签署一项重要矿产协议，被指针对中国。\n\n当地时间2025年10月20日，美国华盛顿，白宫内阁会议室，美国总统特朗普（右）与澳大利亚总理阿尔巴尼斯展示双方签署的关键矿产协议。视觉中国 图\n\n\n据参考消息援引美国世界新闻网报道，特朗普和阿尔巴尼斯签署了关于关键矿产和稀土的协议。协议完整内容尚未公布。特朗普和阿尔巴尼斯表示，协议的一部分涉及矿产加工。阿尔巴尼斯说，美澳两国将在未来6个月内各自投入10亿美元，推动共同计划。     \n环球网援引英国广播公司（BBC）报道称，美澳签署协议之际，美政府正寻求方法对抗中国在关键矿产市场的主导地位。此前有分析称，在中国收紧对全球关键矿产出口管制之时，阿尔巴尼斯此次赴美行程的目标是争取美国对澳大利亚关键矿产的更大支持。澳大利亚的稀土储量位居全球第四。\n特朗普在与阿尔巴尼斯会晤时表示：“大约一年后，我们将拥有如此多的关键矿产和稀土，以至于你们不知道该如何处理它们。”对此，分析人士指出，“在稀土行业任何事情都不会迅速发生”，特朗普不得不等待很长时间才能将供应链从中国转移出去。\n中国外交部发言人郭嘉昆21日对此表示，全球产供链的形成是市场和企业选择的结果。关键矿产资源国应为保障产业链、供应链的安全稳定发挥积极作用，确保正常的经贸合作。\n细节尚不明确\n当地时间20日，特朗普在白宫会见阿尔巴尼斯。根据双方达成的《美澳关键矿产和稀土开采和加工供应保障框架》协议，两国将成立由美国能源部长与澳大利亚资源部长共同领导的关键矿产供应链安全应对小组，负责协调政策工具、投资项目与工程落地。\n阿尔巴尼斯在与特朗普会晤时表示，美澳双方将分别在未来六个月内为总额达85亿美元的“准备就绪”项目投入至少10亿美元。根据他的说法，这些项目分为三类：美国和澳大利亚的联合投资、澳大利亚的独资项目以及美国、澳大利亚和日本的合作项目。\n白宫随…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_31819515",
+          "publishedOn": "2025-10-21T13:53:03.000Z",
+          "wordCount": 54,
+          "title": "释新闻｜美澳签关键矿物协议，特朗普“一年后”会得到很多稀土吗？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_31820249",
+          "author": null,
+          "description": "创立了台北新剧团的著名文武老生李宝春，在阔别上海近6年后，将再度带着他的新作品参演中国上海国际艺术节。10月25日、26日，由他担任编剧、导演和主演，更融入了他对“伶人生命”思考的新编京剧《戏里戏外》将在宛平剧院上演两场。\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.site",
+          "link": "https://www.thepaper.cn/newsDetail_forward_31820249",
+          "publishedOn": "2025-10-21T13:53:03.000Z",
+          "wordCount": 29,
+          "title": "台北新剧团重返上海，李宝春新剧《戏里戏外》演“伶人生命”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_31820250",
+          "author": null,
+          "description": "美股开盘三大指数涨跌不一，道指涨0.02%，纳指跌0.03%，标普500指数涨0.04%。人造肉概念股BeyondMeat涨超60%，哔哩哔哩涨超6%。（证券时报）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_31820250",
+          "publishedOn": "2025-10-21T13:53:03.000Z",
+          "wordCount": 27,
+          "title": "美股开盘，三大指数涨跌不一",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_31819669",
+          "author": null,
+          "description": "韩国总统李在明表示，将在2030年前投入超预期预算，用于国防和航空航天研究，以期打造全球第四大国防工业体系。\n\n近年来，韩国军火出口取得了不小的成绩，军工技术的进步也引发了关注，但是大部分武器的核心技术仍掌握在美国和欧洲手里。\n\n\n据参考消息网19日报道，2025年首尔国际航空航天与防务展于17日开幕，韩国空军飞行表演同步举行。本届展会吸引参展企业数量创历史新高，各家企业将集中展示先进军事技术。\n本届防务展将持续至24日，主会场设于首尔南部城南市的首尔空军基地。展会第二阶段活动将于20日启动，举办地为首尔西北方向高阳市的韩国国际展览中心。\n韩联社报道称，首尔国际航空航天与防务展是韩国规模最大的航空航天及防务贸易展会，旨在为本土防务产品拓展出口渠道，并推动与全球制造商的技术交流。韩国空军出动主力装备进行了观赏性飞行表演，参演机型包括美制F-35战斗机、F-15K战斗机以及KF-16战斗机。本土研制的T-50TH战斗机与仍在研发中的KF-21战斗机随后登场，参加了飞行演示。空军“黑鹰”飞行表演队以彩烟拉烟表演将庆典氛围推向高潮。\n据主办方介绍，本届展会吸引了来自35个国家和地区的600家企业参展，参展企业数量创历史纪录。展会首次设立新技术专属展区，展出内容包括可重复使用运载火箭模型、尖端卫星通信设备，以及先进空中机动飞行器实物模型。\n据路透社报道，李在明10月20日在防务展上表示，将在2030年前投入超预期预算，用于国防和航空航天研究，以期打造全球第四大国防工业体系。李在明说：“跻身全球第四大防务强国，绝非遥不可及的梦想。我们会通过重点投资自主研发关键技术、零部件和材料，例如国防领域的专用半导体，来确立技术主权。”\n李在明还表示，韩国承诺向海外防务伙伴共享的，不仅是武器系统，还包括构建工业基础的技术和经验。\n据报道，过去三年，军火已成为韩国增长最快的出口品之一，出口武器类装备涵盖榴弹炮、弹药、导弹、军舰等，全球销售额已达数十亿美元。2000年，韩国武器出口额在全球仅排第31位，到2023年，其出口额飙升至135亿美元，排名跃升至全球第九位，首次跻身前十。据俄罗斯世界武器贸易分析中心数据，2024年韩国武器出口额已位列全球第四位。预计今年武器出口额将首次突破200亿美元。\n目前，韩国重点推销的武器包括海军舰艇、主战坦克、装甲车、火炮、教练机和多种精确制导弹药，未来还将扩展至隐身战机、无人机、雷达和高超声速导弹等尖端武器。\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.site",
+          "link": "https://www.thepaper.cn/newsDetail_forward_31819669",
+          "publishedOn": "2025-10-21T13:23:05.000Z",
+          "wordCount": 37,
+          "title": "韩国最大规模防务展开幕，李在明：韩国成为全球第四大防务强国不是梦",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_31819522",
+          "author": null,
+          "description": "备受关注的沪语电影《菜肉馄饨》官宣定档11月15日，并以分线发行的模式，在上海、江苏、浙江率先上映。影片由吴天戈执导，周野芒、潘虹、茅善玉、陈国庆、徐祥、王琳、高博文、王菊出演。“这个故事其实我们是写给上海的一封情书，希望这个情书真正被打开的时候，大家可以体会到其中浓浓的感情。”原著小说作者、影片编剧金莹说。\n定档当日，影片发布全新定档预告，一碗馄饨既串联起老上海的弄堂生活，又连接起人与人之间最温暖的情感，实力派沪籍演员倾情演绎，一展独具韵味的海派风情。预告片里，步入晚年生活的老汪，希望儿子能像自己和老伴一样，早日组建幸福家庭，却不知怎样与年轻人沟通；去相亲角替儿子找对象，反而被儿子误会，父子矛盾升级……然而老汪的生活却因此发生了转变，他与新结识的朋友们吃饭、跳舞、喝下午茶，学会放松自己、享受生活，对于人生也有了新的认识。“每个在这个城市里生活的人，都会去营造自己的生活，这是上海人最牛的地方。”饰演老汪的周野芒这样形容他对上海城市文化的观察。\n\n《菜肉馄饨》预告片段(00:15)\n最新释出的定档海报也给人一种扑面而来的温馨感。老汪与爱人素娟坐在长椅上说说笑笑，旁边停着陪伴两人走过无数岁月的老式自行车。美琴、阿芳、老金、小汪相约来到老汪家吃他最拿手的菜肉馄饨，让人不禁对这一碗上海人无法割舍的日常美食充满想象，好奇它将牵出怎样的温情故事。导演吴天戈说，“菜肉馄饨不仅抓住了我们的胃，也抓住了我们的心。”\n\n《菜肉馄饨》海报\n\n\n上海题材、上海班底、上海取景\n“菜肉馄饨热气腾腾地出锅，上海观众应该品尝到第一口。”上影集团副总裁徐春萍谈到，这部电影是“地道的上海味道：上海题材、上海班底、上海取景，讲的是饮食男女日常，他们以温暖、朴实、踏实的态度重塑熟悉的日常生活”。\n近年来，上海涌现了一批充满城市气息的影视剧佳作，从2021年的《爱情神话》，2023年的《繁花》，2024年的《好东西》，到如今这部《菜肉馄饨》，“作品当中都融入了上海的市井的烟火和人情世故的百态。这些影视剧内核当中，有一个共同的大的IP就是我们生活和热爱的这座城市。”\n徐春萍提到的几部上海电影里，周野芒几乎部部都参与其中。和《爱情神话》中的“老克勒”老乌和《好东西》中八卦的看门大爷不同，周野芒“剧透”自己在《菜肉馄饨》中演了一个十分“温柔”的上海男人，他现场解读“温柔和细心是上海男人很突出的特点”，并神秘表示，这是自己演戏以来“台词最少的一次”。\n和周野芒人设形成强烈对比的是滑稽戏演员陈国庆饰演的老金。他在电影中是个花花公子，是“人民公园相亲角最靓的仔”，但他直言自己在生活中是个“宅男”，和电影里一点也不一样。\n\n陈国庆饰老金\n\n\n菜肉馄饨会客厅线下营业\n在梧桐树下，在洋房深处，总藏着上海最动人的故事，“菜肉馄饨”会客厅将打开一扇通往海派生活的窗口。10月21日，影片携手思南公馆共同打造的菜肉馄饨·思南会客厅也正式启动。\n\n阿庆在会客厅迎客\n\n\n思南公馆将三层老洋房复原为电影场景，并精心打造“上海咖啡”零售区、电影主题沉浸式打卡区及“菜肉馄饨美味会客室”文化活动区，通过策划的30余场系列活动，用时尚、年轻、有趣的形式全方位传播上海文化，让电影IP的效应与城市空间相融共生。\n即日起至12月14日，每天都安排了各种丰富有趣的活动：“茅老师的咖啡馆”“沪语大课堂”“寻根上海老品牌”“电影文化讲堂”“馄饨论道”等。除了本片主创之外，黄英、孔祥东、沈宏非、高博文、马尚龙等上海各界文化名人都将到场。吃一碗馄饨，喝一杯咖啡，讲两句上海闲话，在光影、美食与乡音中，寻回那座记忆里温润如玉的上海。\n\n周野芒担任“一日店长”\n\n\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.site",
+          "link": "https://www.thepaper.cn/newsDetail_forward_31819522",
+          "publishedOn": "2025-10-21T13:23:05.000Z",
+          "wordCount": 114,
+          "title": "“写给上海的一封情书”，沪语电影《菜肉馄饨》定档",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_31812700",
+          "author": null,
+          "description": "“中国的航空安全运营水平令人印象深刻，行业增长也极为迅速。尤其是中国国内航空市场以11%的复合年均增长率持续扩张，在规模和体量上仅次于美国，并有望超越。中国航司在发展规模增长的同时高度重视安全，过去25年中国航司市场份额从2.5%提升至11.4%。”\n近日，国际航协理事长威利·沃尔什（Willie Walsh）在接受包括澎湃新闻在内的媒体采访时作出上述表述。由厦门航空承办的国际航空运输协会（IATA）2025年世界航空安全与运营大会（WSOC）日前在厦门举办。作为国际航协在航空安全与运行领域的最高规格年度盛会，本次大会首次落地中国。\n近年来，中国民航始终致力于积极为全球民航安全发展贡献力量。中国民用航空局副局长韩钧在大会开幕会上指出，经过多年发展，中国民航在强化安全管理、提高运行效率、加快行业复苏、增强行业韧性、改进服务质量、推动行业加速数智化、绿色化转型等方面开展了许多有益探索，也取得了一定的成绩。\n厦门航空董事长赵东在大会期间也介绍，厦航深耕行业四十余载，保持着连续38年盈利的稳健发展态势，在安全领域成效显著，还曾将自主研发的发动机空中停车预防方案与全球共享，为航空安全治理提供中国经验。\n谈及商飞，沃尔什在采访中提到，国际航协与商飞有着较好的合作关系，商飞也设定了雄心勃勃的发展目标，虽然是一家年轻的公司，但已经在业界站稳脚跟，同时也在航空制造领域发挥着重要的作用。虽然供应链不可避免出现一些扰动，但商飞也在积极增强自身的制造能力，同样国际航协也在寻找其他的供应链解决方案，进一步提升供应链的韧性。\n航空供应链挑战如何缓解？\n当前全球民航安全发展仍面临诸多风险挑战。此次大会期间，民航局副局长韩钧指出，航材供应链的稳定性和效率有待提高，极端天气增多导致运行环境更为复杂，自动化、人工智能、无人机等新技术在为行业运行质效带来巨大变革的同时也带来衍生风险，供应链有序保障可能因为地缘政…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_31812700",
+          "publishedOn": "2025-10-21T13:23:05.000Z",
+          "wordCount": 35,
+          "title": "观察｜供应链问题或致今年航空业多花百亿美元，航空安全挑战如何破局？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_31820146",
+          "author": null,
+          "description": "澎湃，澎湃新闻，澎湃新闻网，新闻与思想，澎湃是植根于中国上海的时政思想类互联网平台，以最活跃的原创新闻与最冷静的思想分析为两翼，是互联网技术创新与新闻价值传承的结合体，致力于问答式新闻与新闻追踪功能的实践。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_31820146",
+          "publishedOn": "2025-10-21T13:23:05.000Z",
+          "wordCount": 34,
+          "title": "天津中医药大学发布严正声明：张伯礼从未授权同名医馆药房",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_31820231",
+          "author": null,
+          "description": "获取更多RSS：\nhttps://feedx.net \nhttps://feedx.site",
+          "link": "https://www.thepaper.cn/newsDetail_forward_31820231",
+          "publishedOn": "2025-10-21T13:23:05.000Z",
+          "wordCount": 34,
+          "title": "天津中医药大学发布严正声明：张伯礼从未授权同名医馆药房",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_31820235",
+          "author": null,
+          "description": "据微信公众号“华声”10月21日消息，湖南省人民政府任免工作人员。其中，段晓明任省博物馆馆长。\n段晓明，男，汉族，1975年生，中共党员，硕士学历。他曾任湖南省文物局副处长、处长，2012年任湖南省博物馆党委书记，2016年任湖南省博物馆馆长，后任湖南博物院党委书记、院长。在今年9月湖南省委组织部公示中，段晓明拟任省直副厅级单位正职。\n湖南省博物馆此前几经更名。2022年7月，湖南省博物馆宣布正式更名为湖南博物院。今年10月12日，官方发布公告称，根据中央编办、湖南省委编办文件精神，湖南博物院更名为湖南省博物馆，机构规格由正处级调整为副厅级，隶属关系保持不变。更名后，湖南省博物馆场馆地址、开放时间、展览活动等均保持不变。\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.site",
+          "link": "https://www.thepaper.cn/newsDetail_forward_31820235",
+          "publishedOn": "2025-10-21T13:23:05.000Z",
+          "wordCount": 30,
+          "title": "湖南博物院更名并升格，院长升副厅",
+          "imageUrl": null
+        },
         {
           "id": "https://www.thepaper.cn/newsDetail_forward_31769527",
           "author": null,
@@ -11937,6 +12117,46 @@
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
         {
+          "id": "https://www.nationalreview.com/?p=1886375",
+          "author": "The Editors",
+          "description": "Babies produced through IVF become cherished members of their families — but there’s no getting around how the process involves the creation and destruction of embryos.",
+          "link": "https://www.nationalreview.com/2025/10/the-moral-stakes-of-trumps-ivf-order/",
+          "publishedOn": "2025-10-21T10:49:43.000Z",
+          "wordCount": 6627,
+          "title": "The Moral Stakes of Trump’s IVF Order",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2025/10/Trump-white-house-3.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1886300",
+          "author": "J. P. De Gance",
+          "description": "Karen Wright should be remembered in the pantheon of modern American heroes.",
+          "link": "https://www.nationalreview.com/2025/10/the-most-influential-family-advocate-you-probably-hadnt-heard-of/",
+          "publishedOn": "2025-10-21T10:30:52.000Z",
+          "wordCount": 6651,
+          "title": "The Most Influential Family Advocate You Probably Hadn’t Heard Of",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2025/10/karen-wright-ariel-corp.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1886379",
+          "author": "Rich Lowry",
+          "description": "It will take us years for the U.S. to make up lost ground in mining critical minerals, but this is a solvable problem.",
+          "link": "https://www.nationalreview.com/2025/10/the-rare-earths-travesty/",
+          "publishedOn": "2025-10-21T10:30:39.000Z",
+          "wordCount": 6443,
+          "title": "The Rare Earths Travesty",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2022/11/rare-earth-mine.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1886370",
+          "author": "Rich Lowry",
+          "description": "The violence from the left, the attacks on free markets, the rise of antisemitism — NR is fighting these trends, and we hope you’ll support us.",
+          "link": "https://www.nationalreview.com/2025/10/were-not-having-it/",
+          "publishedOn": "2025-10-21T10:30:02.000Z",
+          "wordCount": 13201,
+          "title": "We’re Not Having It",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2025/10/ice-protests-chicago.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
           "id": "https://www.nationalreview.com/?p=1886131",
           "author": "The Editors",
           "description": "Extending money to the South American nation is risky but could help spur reforms that would create a prosperous, powerful American ally.",
@@ -13775,16 +13995,6 @@
           "wordCount": 6753,
           "title": "Do Not Kill",
           "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2025/09/britain-physician-assisted-suicide-bill-protest.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1878020",
-          "author": "John Fund",
-          "description": "Put it on the ash heap of history so no one can misuse it.",
-          "link": "https://www.nationalreview.com/2025/09/the-fcc-is-a-new-deal-relic/",
-          "publishedOn": "2025-09-22T01:20:13.000Z",
-          "wordCount": 6559,
-          "title": "The FCC Is a New Deal Relic",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2022/10/FCC-1.jpg?fit=2057%2C1200&ssl=1"
         }
       ]
     },
@@ -13793,6 +14003,26 @@
       "feedUrl": "https://sspai.com/feed",
       "siteUrl": "https://sspai.com",
       "articles": [
+        {
+          "id": "https://sspai.com/post/103240",
+          "author": "Matrix机器人",
+          "description": "如果你也想分享「新玩意」🔉：获取Matrix社区写作权限并签署Matrix共创计划；在少数派独家发布一篇文章，在标题中标注「新玩意」前缀；用至少800字介绍产品，并配上2-3张产品的实拍图片；在网站个 ...查看全文",
+          "link": "https://sspai.com/post/103240",
+          "publishedOn": "2025-10-21T09:07:35.000Z",
+          "wordCount": 580,
+          "title": "社区速递 114 | 新车该「裸奔」还是「穿衣」、作者的新玩意和一周热评",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sspai.com/post/103037",
+          "author": "Vanilla",
+          "description": "带上 iPhone 17 Pro 和 Project Indigo 加持的 iPhone 15 Pro Max，记录下南半球九天的美好瞬间。查看全文",
+          "link": "https://sspai.com/post/103037",
+          "publishedOn": "2025-10-21T07:25:25.000Z",
+          "wordCount": 1021,
+          "title": "澳大利亚九日游记：新老 iPhone 齐出动，记录十年重逢的喜悦",
+          "imageUrl": null
+        },
         {
           "id": "https://sspai.com/post/103213",
           "author": "不许任性",
@@ -14622,26 +14852,6 @@
           "wordCount": 1128,
           "title": "少数派 1024 程序员节征文：码上，与鸿蒙一起进击！",
           "imageUrl": null
-        },
-        {
-          "id": "https://sspai.com/post/102678",
-          "author": "少数派编辑部",
-          "description": "作为布局未来的重要基石，AppleVisionPro自诞生以来就主导着Apple产品的设计方向。在本届WWDC开幕式keynote上，尽管单独属于visionOS26的篇幅不算长，但整个发布会都可以算 ...查看全文",
-          "link": "https://sspai.com/post/102678",
-          "publishedOn": "2025-09-22T03:03:40.000Z",
-          "wordCount": 1255,
-          "title": "具透 | 有了新交互，还有新视野：visionOS 26 值得关注的新特性",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sspai.com/post/102639",
-          "author": "少数派编辑部",
-          "description": "中美宣布 TikTok 问题进展\n特朗普对 H-1B 收费冲击美国科技公司\n三星开始在美国的智能冰箱上展示广告\n国务院食安办：加快推进预制菜国家标准制定\nChrome 增加基于 Gemini 的 AI 功能\n小米因辅助驾驶隐患召回 30% 的已交付 SU7\n看看就行的小道消息\n少数派的近期动态\n你可能错过的好文章\n查看全文",
-          "link": "https://sspai.com/post/102639",
-          "publishedOn": "2025-09-22T00:55:14.000Z",
-          "wordCount": 1342,
-          "title": "派早报：中美宣布 TikTok 问题进展",
-          "imageUrl": null
         }
       ]
     },
@@ -14650,6 +14860,132 @@
       "feedUrl": "https://plink.anyfeeder.com/idaily/today",
       "siteUrl": "https://idai.ly",
       "articles": [
+        {
+          "id": "idaily-239036",
+          "author": "太阳系",
+          "description": "从西班牙坎塔布里亚观测长周期彗星「C/2025 R2」。10月20日，「C/2025 R2」彗星抵达距离地球约3900万公里的近地点，亮度达到肉眼可见级别，观测位置在火星方向附近。「C/2025 R2」是一颗来自太阳系边缘「奥尔特云」的长周期彗星，轨道周期约为600至700年，预计11月3日穿过天球赤道。摄影师：Pedro Puente Hoyos",
+          "link": "https://m.idai.ly/se/f7alDM",
+          "publishedOn": "2025-10-21T10:59:00.000Z",
+          "wordCount": 253,
+          "title": "C/2025 R2 彗星近地点 - October 21, 2025",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/a43cb5d4/9b084ecc.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/a43cb5d4/9b084ecc.jpg"
+        },
+        {
+          "id": "idaily-239035",
+          "author": "中国 · 北京",
+          "description": "北京市民骑车经过天安门广场。10月20日，中国国家统计局公布2025年第三季度 GDP 同比增长4.8%，增速较上季度回落0.4个百分点，主要受外部环境复杂严峻、国内结构调整压力较大等因素影响。中国2025年前三季度累计 GDP 增长5.2%，高于年度目标5%，货物进出口总额同比增长4.0%，CPI指数同比降低-0.1%，居民人均可支配收入扣除价格因素实际增长5.2%。摄影师：Jessica Lee",
+          "link": "https://m.idai.ly/se/069z3p",
+          "publishedOn": "2025-10-21T09:58:00.000Z",
+          "wordCount": 251,
+          "title": "中国第3季度GDP增幅下降 - October 21, 2025",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/810cb74d/6a80e071.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/810cb74d/6a80e071.jpg"
+        },
+        {
+          "id": "idaily-239034",
+          "author": "美国 · 华盛顿特区",
+          "description": "美国总统 Donald Trump 与澳大利亚总理 Anthony Albanese 签署关键矿物与稀土合作框架协议，华盛顿白宫。10月20日，澳大利亚总理 Albanese 新任期首次正式访问美国，两国领导人就关键矿产、国防军售、贸易关税等议题举行会谈，并签署一份价值约85亿美元的关键矿物与稀土合作框架协议。根据该协议，美国和澳大利亚将在未来6个月内投资30亿美元用于关键矿产项目，涉及可开采资源价值估计为530亿美元。摄影师：Yuri Gripas",
+          "link": "https://m.idai.ly/se/059g19",
+          "publishedOn": "2025-10-21T08:57:00.000Z",
+          "wordCount": 251,
+          "title": "美澳签署稀土框架协议 - October 21, 2025",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/870ea562/38e462cb.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/870ea562/38e462cb.jpg"
+        },
+        {
+          "id": "idaily-239033",
+          "author": "日本 · 东京",
+          "description": "日本众议院举行首相指名选举全体会议，高市早苗当选新一任首相，东京。10月21日，现年64岁的日本自民党总裁高市早苗在指名选举中以237票过半选票获胜，当选日本第104任首相，亦是该国第一位女性首相。日本自民党在本次指名选举前宣布与极右翼政党「维新会」组成执政联盟，但是维新会成员将不会加入内阁。新一届日本政府已公布内阁名单包括内阁官房长官木原稔、外务大臣茂木敏充、防卫大臣小泉进次郎、总务大臣林芳正等。摄影师：Eugene Hoshiko",
+          "link": "https://m.idai.ly/se/4183tk",
+          "publishedOn": "2025-10-21T08:55:00.000Z",
+          "wordCount": 251,
+          "title": "高市早苗当选日本首相 - October 21, 2025",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/d55a7383/9cbcf45c.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/d55a7383/9cbcf45c.jpg"
+        },
+        {
+          "id": "idaily-239029",
+          "author": "中国 · 香港",
+          "description": "中国外交部副部长华春莹与香港特区行政长官李家超为「国际调解院」（International Organization for Mediation）进行揭幕，香港。10月20日，全球首个专门致力于和平解决国家间分歧的政府间国际组织「国际调解院」正式在香港揭幕开业，共有近200名来自30余个缔约国、签署国的代表及各界人士出席，香港特区前律政司司长郑若骅被任命为国际调解院首任秘书长。国际调解院由中华人民共和国于2022年发起，共有32个创始成员国，目前公约签署国已达37个。摄影师：Hou Yu",
+          "link": "https://m.idai.ly/se/62fYZp",
+          "publishedOn": "2025-10-21T08:53:00.000Z",
+          "wordCount": 251,
+          "title": "国际调解院正式揭幕 - October 21, 2025",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/a4fb8502/bc03ecda.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/a4fb8502/bc03ecda.jpg"
+        },
+        {
+          "id": "idaily-239027",
+          "author": "越南 · 河内",
+          "description": "越南第十五届国会第10次会议在首都河内举行。10月20日，越南第十五届国会第10次会议正式开幕，主要议程包括评估经济社会发展计划执行情况、国家预算草案及公共投资计划等。越南总理范明政在政府工作报告中指出，越南经济在过去5年表现出较强韧性，增速保持世界前列，年均 GDP 增速达到6.3%，预计2025年增速达到8%以上。范明政对2026年经济社会发展提出15项主要目标，包括 GDP 增长10%以上，人均 GDP 超过5400美元，CPI 平均上涨约4.5%，社会劳动生产率平均提高约8%等。摄影师：Luong Thai Linh",
+          "link": "https://m.idai.ly/se/f2c41m",
+          "publishedOn": "2025-10-21T08:51:00.000Z",
+          "wordCount": 251,
+          "title": "越南目标2026经济增速10% - October 21, 2025",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/2173311f/ce49430f.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/2173311f/ce49430f.jpg"
+        },
+        {
+          "id": "idaily-239026",
+          "author": "印度尼西亚 · 雅加达",
+          "description": "印度尼西亚总统 Prabowo Subianto 视察「棕榈油腐败案」追回的现金赃款，雅加达。10月20日，印尼最高检察院将2018至2023年棕榈油出口许可证腐败案的追回赃款共计13.2万亿印尼盾（约合7.84亿美元）现金移交国库。印尼总统 Prabowo 宣布相关追回资金将用于学校翻修、沿海渔村建设等民生项目，承诺继续加大力度打击非法走私和贪腐活动。印尼反腐败委员会数据显示本届政府上任一年来共查处43起腐败案件，累计追回赃款总额达320.4万亿印尼盾。摄影师：Bay Ismoyo",
+          "link": "https://m.idai.ly/se/b14c8K",
+          "publishedOn": "2025-10-21T08:49:00.000Z",
+          "wordCount": 251,
+          "title": "印尼法院移交腐败案赃款 - October 21, 2025",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/ff8ab731/da66e893.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/ff8ab731/da66e893.jpg"
+        },
+        {
+          "id": "idaily-239025",
+          "author": "巴拿马 · 巴拿马城",
+          "description": "巴拿马泛美野生动物保护协会（APPC）举办「国际树懒日」活动，饲养员抱着一只树懒与游客进行互动，巴拿马城。10月20日是「国际树懒日」，这一节日由哥伦比亚动物保护机构发起，旨在提高公众对树懒及其栖息地的保护意识。树懒是世界上行动最慢的哺乳动物之一，主要分布于南美洲和中美洲的热带雨林，以树叶和水果为食。树懒的首要生存威胁来自栖息地破坏和非法偷猎，现存6种树懒中已有3种被列为濒危或极危物种。摄影师：Enea Lebrun",
+          "link": "https://m.idai.ly/se/9129C1",
+          "publishedOn": "2025-10-21T08:47:00.000Z",
+          "wordCount": 251,
+          "title": "2025年国际树懒日 - October 21, 2025",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/6de533d3/a4273cae.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/6de533d3/a4273cae.jpg"
+        },
+        {
+          "id": "idaily-239023",
+          "author": "中国 · 兰州",
+          "description": "兰州野生动物园，一只新生大熊猫幼崽趴在保温箱里，中国甘肃。10月19日，兰州野生动物园通过自然交配方式繁育的首只大熊猫幼崽迎来满月。这只雄性大熊猫幼崽出生于9月19日，出生时体重仅100克，现已增至近1300克，身体状况健康，四肢、肩带和眼窝逐渐显现黑色，眼睛尚未完全睁开。甘肃省东南部是中国野生大熊猫的主要栖息地之一，境内约有132只野生大熊猫。摄影师：iDaily Media",
+          "link": "https://m.idai.ly/se/4d6f40",
+          "publishedOn": "2025-10-21T08:45:00.000Z",
+          "wordCount": 251,
+          "title": "兰州新生大熊猫幼崽 - October 21, 2025",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/470396eb/6c8b2f41.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/470396eb/6c8b2f41.jpg"
+        },
         {
           "id": "idaily-238980",
           "author": "法国 · 巴黎",
@@ -17584,6 +17920,26 @@
       "siteUrl": "http://nytimes.com",
       "articles": [
         {
+          "id": "https://cn.nytimes.com/business/20251021/china-tariffs-trump-trade/dual",
+          "author": null,
+          "description": "艾莎2025年10月21日坦桑尼亚企业家罗达·恩格尔姆比在中国义乌国际贸易城。 Chang W. Lee/The New York Times\nNot long after it joined the World Trade Organization in 2001, China became the factory floor of the United States. But free trade with China cost America jobs. Economists later termed that period the “China Shock,” lamenting how the United States had critically underestimated the scale of China’s manufacturing prowess.\n2001年加入世界贸易组织后不久，中国便成为了美国的工厂。但与中国的自由贸易却让美国流失了大量就业岗位。经济学家后来将这一时期称为“中国冲击”，痛惜美国严重低估了中国制造业的实力规模。\nNow President Trump wants to bring those jobs back to America. Through a series of whiplash tariffs, he has tried to shut off the U.S. market to China. But instead of slowing down, China is selling more goods than ever, this time to the rest of the world.\n如今，特朗普总统希望将这些工作岗位带回美国。他通过一系列突然的关税政策，试图切断中国进入美国市场的渠道。但中国非但…",
+          "link": "https://cn.nytimes.com/business/20251021/china-tariffs-trump-trade/dual",
+          "publishedOn": "2025-10-21T08:36:02.000Z",
+          "wordCount": 1002,
+          "title": "关税重塑中国贸易，如今谁在大量购买中国商品？",
+          "imageUrl": "https://static01.nyt.com/images/2025/10/17/multimedia/17Biz-China-Importer-01-qmfh/17Biz-China-Importer-01-qmfh-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/opinion/20251021/chinese-students-universities-trump/dual",
+          "author": null,
+          "description": "BETHANY ALLEN, JENNY WONG LEUNG2025年10月21日 Arne Bellstorf\nPresident Trump and other influential Republicans want to stop Chinese students from enrolling in strategic technology fields at top U.S. colleges and universities.\n特朗普总统和其他有影响力的共和党人希望阻止中国学生进入美国顶尖高校的战略性技术领域。\nAt the heart of this push lies the fear that the United States could fall behind in the science and tech race with China. The former U.S. representative Mike Gallagher, a China hawk, called it “absurd” for America to train researchers from a country dedicated to “surpassing the U.S. in emerging technologies.”\n这一举措的核心在于担心美国在与中国的科技竞赛中落后。前联邦众议员、对华鹰派人士迈克·加拉格尔称，美国为一个致力于“在新兴技术领域超越美国”的国家培养研究人员是“荒谬的”。\nThis logic overlooks a startling new reality: China is already surpassing the United States in science and technology research. Chinese s…",
+          "link": "https://cn.nytimes.com/opinion/20251021/chinese-students-universities-trump/dual",
+          "publishedOn": "2025-10-21T08:36:02.000Z",
+          "wordCount": 1092,
+          "title": "拒中国学生于门外？但也许他们已不需要美国",
+          "imageUrl": "https://static01.nyt.com/images/2025/10/19/opinion/19allen-huang-image/19allen-huang-image-articleLarge.jpg"
+        },
+        {
           "id": "https://cn.nytimes.com/business/20251021/trump-china-tariffs-exports-yiwu/dual",
           "author": null,
           "description": "艾莎2025年10月21日在义乌这个拥有全球最大批发市场的城市，横跨多个街区的综合体里挤满了商贩。 Chang W. Lee/The New York Times\nWith trade hostilities between the world’s two economic superpowers back on, China has sent the unmistakable message that it is ready to fight. A week ago, it invoked its grip over virtually the entire world’s supply of critical materials, breaking a delicate trade détente between the two countries.\n随着世界两大经济超级大国之间的贸易敌对行动再度升级，中国发出了明确无误的信号，表明它已准备好战斗。一周前，中国动用了对全球几乎全部关键物资供应的控制权，打破了两国之间脆弱的贸易缓和。\nBeijing feels it has another ace card: its booming factories. Even in the face of sky-high tariffs by President Trump, China’s manufacturing sector is helping to maintain growth and give the country’s top leader, Xi Jinping, a stronger hand to face down the United States.\n北京认为自己还有一张王牌：蓬勃发展的工厂。即使面对特朗普总统的天价关税，中国制造业仍在帮助维持经济增长，…",
@@ -18292,36 +18648,6 @@
           "wordCount": 1215,
           "title": "特朗普关税与中国竞争双重压力下，台湾螺丝制造业陷困境",
           "imageUrl": "https://static01.nyt.com/images/2025/09/16/multimedia/Biz-Taiwan-Screws-12-thvk/Biz-Taiwan-Screws-12-thvk-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/business/20250922/china-rare-earths-magnets/dual",
-          "author": null,
-          "description": "KEITH BRADSHER2025年9月22日 \nNearly six months ago, China sent an unmistakable message about its grip on critical supply chains. Its leaders suspended exports of powerful rare earth magnets that many industries around the world can’t live without.\n约六个月前，中国用一种明白无误的方式宣示了其对关键供应链的掌控。中国领导人暂停了全球许多行业赖以生存的强力稀土磁铁的出口。\nThe move gave renewed urgency to efforts begun in recent years to develop alternatives. In the United States, four factories to make rare earth magnets are finishing construction or starting to produce magnets. An especially large factory has just opened in Eastern Europe.\n这一举动让近年来启动的那些寻找替代方案的努力变得更加紧迫。在美国，四家生产稀土磁铁的工厂正接近竣工或已开始投产。东欧刚刚有一座规模尤其庞大的工厂投产。\nBut the scramble since April has served only to underline the lead that China has after three decades of heavy investment, and how hard it will…",
-          "link": "https://cn.nytimes.com/business/20250922/china-rare-earths-magnets/dual",
-          "publishedOn": "2025-09-22T04:36:02.000Z",
-          "wordCount": 1542,
-          "title": "寻找中国稀土磁铁替代品：一场全球追逐战",
-          "imageUrl": "https://static01.nyt.com/images/2025/09/19/multimedia/Biz-Rare-Earths-video-still-twzm/Biz-Rare-Earths-video-still-twzm-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/technology/20250922/fox-corporation-tiktok-lachlan-rupert-murdoch-ellison-trump/dual",
-          "author": null,
-          "description": "LAUREN HIRSCH,EMMETT LINDNER2025年9月22日特朗普总统在周日播出的福克斯新闻采访中表示，媒体大亨鲁珀特·默多克及其子、福克斯公司首席执行官拉克兰·默多克可能成为TikTok交易的投资者之一。 Hiroko Masuike/The New York Times\nPresident Trump said in an interview aired on Sunday that the media mogul Rupert Murdoch and his son Lachlan, the chief executive of Fox Corporation, could be among the investors involved in a deal to bring the popular video app TikTok under U.S. ownership.\n特朗普总统在周日播出的采访中表示，媒体大亨鲁珀特·默多克及其子、福克斯公司首席执行官拉克兰·默多克可能参与收购热门视频应用TikTok，使其由美资掌控的交易。\n“A man named Lachlan is involved,” he said in a recorded interview on Fox News’s “The Sunday Briefing.” He and Rupert Murdoch are “probably going to be in the group, I think they’re going to be in the group.”\n“一个叫拉克兰的人参与了进来，”他在福克斯新闻《周日简报》节目录制的采访中说。拉克兰和鲁珀特·默多克“可能加入投资方，我认为他们会加入”。\nThe potential investment would be mad…",
-          "link": "https://cn.nytimes.com/technology/20250922/fox-corporation-tiktok-lachlan-rupert-murdoch-ellison-trump/dual",
-          "publishedOn": "2025-09-22T01:36:02.000Z",
-          "wordCount": 724,
-          "title": "特朗普称默多克家族可能参与TikTok交易",
-          "imageUrl": "https://static01.nyt.com/images/2025/09/21/multimedia/21biz-tiktok-investors-lcwz/21biz-tiktok-investors-lcwz-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/technology/20250922/white-house-tiktok-deal/dual",
-          "author": null,
-          "description": "EMMETT LINDNER2025年9月22日过去一周，特朗普政府与中国方面就允许TikTok继续在美运营的协议进展均发表了模糊声明。 Ore Huiying for The New York Times\nThe White House press secretary, Karoline Leavitt, on Saturday offered a fuller picture of a TikTok deal between the United States and China that would allow the app to continue operating on American phones. She said the software giant Oracle would handle data and privacy for the new American TikTok, and described a new board for the company with a majority of American directors.\n白宫新闻秘书卡罗琳·莱维特周六进一步披露了美中就TikTok达成的协议细节，该协议将允许这款应用继续在美国人的手机上运行。她表示，软件巨头甲骨文将管理新的“美国版TikTok”的数据和隐私事务，并表示该公司将设立一个由美国董事占多数的新董事会。\nSpeaking on the Fox News program “Saturday in America,” Ms. Leavitt said that “we are 100 percent confident that a deal is done,” but added in the same breath that the deal had not yet been …",
-          "link": "https://cn.nytimes.com/technology/20250922/white-house-tiktok-deal/dual",
-          "publishedOn": "2025-09-22T01:06:03.000Z",
-          "wordCount": 833,
-          "title": "白宫披露TikTok协议细节：甲骨文将负责数据和隐私管理",
-          "imageUrl": "https://static01.nyt.com/images/2025/09/20/multimedia/20biz-tiktok-pgbk/20biz-tiktok-pgbk-articleLarge.jpg"
         }
       ]
     },
@@ -18818,26 +19144,6 @@
           "publishedOn": "2025-09-23T02:00:00.000Z",
           "wordCount": 264,
           "title": "手机一显示“对方正在输入……”，我就手心冒汗",
-          "imageUrl": null
-        },
-        {
-          "id": "75ac3cff12abdb7a39837631ca6cf56c",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E3%80%8A%E5%A6%82%E4%BD%95%E4%BB%8E%E6%95%8C%E4%BA%BA%E8%BA%AB%E4%B8%8A%E8%8E%B7%E7%9B%8A%E3%80%8B%EF%BC%9A%E6%99%AE%E9%B2%81%E5%A1%94%E5%85%8B%E7%9A%84%E6%99%BA%E6%85%A7",
-          "publishedOn": "2025-09-22T03:05:00.000Z",
-          "wordCount": 300,
-          "title": "《如何从敌人身上获益》：普鲁塔克的智慧",
-          "imageUrl": null
-        },
-        {
-          "id": "c4a56f1a6e892dc4b742e6f7ed57f7ac",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E8%94%9A%E8%93%9D%E6%96%87%E6%98%8E%E7%9A%84%E7%86%B5%E5%A2%9E%E5%AE%9E%E9%AA%8C%E5%AE%A4%EF%BC%9A%E5%86%8D%E8%AE%BF%E5%9C%B0%E4%B8%AD%E6%B5%B7%E5%8E%86%E5%8F%B2",
-          "publishedOn": "2025-09-22T03:05:00.000Z",
-          "wordCount": 308,
-          "title": "蔚蓝文明的熵增实验室：再访地中海历史",
           "imageUrl": null
         }
       ]
