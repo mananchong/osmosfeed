@@ -2,10 +2,453 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mananchong.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-22T16:50:30.632Z</updated>
+    <updated>2025-10-23T07:41:15.326Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mananchong.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://mananchong.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[安世中国驳斥荷兰安世不实言论：所有在华生产并交付产品均合法合规，坚持一贯品质]]></title>
+        <id>https://www.thepaper.cn/newsDetail_forward_31826864</id>
+        <link href="https://www.thepaper.cn/newsDetail_forward_31826864"/>
+        <updated>2025-10-23T07:23:03.000Z</updated>
+        <summary type="html"><![CDATA[10月23日，安世半导体中国有限公司发布双语版《致客户信》，表示荷兰安世半导体现任管理层散布与事实不符的信息，无端质疑产品合规性、质量标准和技术能力，企图混淆视听，干扰客户正常采购决策。对此公司坚决反对，并将采取一切手段依法维权。同时，安世半导体中国有限公司承诺，所有在华生产并交付的产品均符合中国法律法规及相关监管部门的要求，完全满足安世一贯的技术标准、生产工艺及品质要求，符合与客户合同的各项约定，并在出厂检验环节通过公司的严格质量检验。后续关于产品供应、生产工艺、技术标准等如有变更或调整，公司将会按照正常流程与客户提前沟通。目前，安世半导体中国实体各项生产经营正有序推进，公司董事会、管理层及全体员工正尽最大努力致力于保障广大客户供应链稳定。]]></summary>
+        <author>
+            <name>澎湃新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谷歌量子计算向实际应用迈出一大步：比超算快1.3万倍，有望五年内实现]]></title>
+        <id>https://www.thepaper.cn/newsDetail_forward_31826303</id>
+        <link href="https://www.thepaper.cn/newsDetail_forward_31826303"/>
+        <updated>2025-10-23T07:23:03.000Z</updated>
+        <summary type="html"><![CDATA[科技巨头谷歌在旗下量子芯片上实现了量子计算突破性研究。
+当地时间10月22日，谷歌宣布其量子计算机取得突破性进展，使用一种名为“量子回声（Quantum Echoes）”的算法，在量子芯片Willow（柳树）上完成了传统超级计算机无法胜任的任务，使量子计算机在特定任务上的运行速度比传统超级计算机快13000倍，并且这种算法可以在类似平台上得到重现。
+谷歌方面表示，虽然量子计算机的实际应用仍需数年时间，但此次研究“是量子计算向实际应用迈出的一大步”，“量子回声”算法是史上首个量子计算机能够在硬件上成功运行的、超越了超级计算机能力的可验证算法。量子可验证性意味着其结果可以在其他规格相近的量子计算机上重现，从而验证结果。
+据谷歌介绍，该算法由一组指导量子计算机操作的指令构成，能够计算分子的结构，为医学和材料科学等领域的重大发现铺平了道路：“‘量子回声’可用于了解自然界系统的结构，从分子到磁铁再到黑洞，我们已经证明它在Willow芯片上的运行速度比世界上最快的超级计算机之一上的最佳经典算法快13000倍。”
+谷歌在《自然》（Nature）期刊上发布的论文显示，“量子回声”算法的核心在于测量一种特殊的量子物理量，这种可观测量被称为OTOC（out-of-time-order correlator，时序无序关联函数），是用来研究量子系统中信息如何传播和混合的一种指标。在本项研究中，谷歌和合作团队使用超导量子处理器，通过一种被称为“时间反演（time reversal）”的技术，成功测量了更高阶的OTOC。
+不过，这次突破对于现实应用的影响依然有限。谷歌工程副总裁哈特穆特·内文（Hartmut Neven）认为，五年之内，量子计算机可能在现实世界中得到实际应用：“‘量子回声’的出现让我们保持乐观，相信在未来五年内，我们将看到只有量子计算机才能实现的实际应用。”
+谷歌将本次突破归功于旗下量子芯片的进步。2024年12月，谷歌发布量子芯片Willow以及基于该芯片的量子计算机。Willow芯片内含105个物理量子比特，可以通过改进芯片中的量子比特成倍地减少计算错误，需要在极低温环境中发挥性能。
+获得2025年诺贝尔物理学奖的谷歌量子AI团队首席科学家米歇尔·H·德沃雷特（Michel H. Devoret）表示，该消息是量子领域中的又一个里程碑，“标志着我们迈向全面量子计算的新一步”。
+就在不久前，德沃雷特和科学家约翰·克拉克（John Clarke）、约翰·M·马蒂尼斯（John M. Martinis）被瑞典皇家科学院授予2025年诺贝尔物理学奖，以表彰他们“发现电路中的宏观量子力学隧道效应和能量量子化”。
+英国萨塞克斯大学的量子技术教授温弗里德·亨辛格（Winfried Hensinger）表示，谷歌的这项成果仍局限于实验层面，真正具备广泛实用性的量子计算机需要上百万个乃至数十亿个稳定的量子比特：“需要明确的是，谷歌完成的这项任务还没有达到人们预期的那种颠覆世界的量子应用水平。不过，它确实是又一次有力的证明，显示出量子计算机正在逐步变得越来越强大。”
+22日当天，谷歌（Nasdaq：GOOGL）股价涨0.49%收于每股251.69美元，总市值3.05万亿美元。]]></summary>
+        <author>
+            <name>澎湃新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A股午后直线拉升，沪深股市尾盘双双转涨0.22%：两市成交1.6万亿元]]></title>
+        <id>https://www.thepaper.cn/newsDetail_forward_31826996</id>
+        <link href="https://www.thepaper.cn/newsDetail_forward_31826996"/>
+        <updated>2025-10-23T07:23:03.000Z</updated>
+        <summary type="html"><![CDATA[A股三大股指10月23日集体低开。早盘弱势震荡，科技股一路走低。午后市场回暖，沪深股指直线拉升尾盘双双转涨。]]></summary>
+        <author>
+            <name>澎湃新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[金沙中国：第三季净利润同比增长1.5%，澳门伦敦人客房收入同比增50%]]></title>
+        <id>https://www.thepaper.cn/newsDetail_forward_31827003</id>
+        <link href="https://www.thepaper.cn/newsDetail_forward_31827003"/>
+        <updated>2025-10-23T07:23:03.000Z</updated>
+        <summary type="html"><![CDATA[10月23日，金沙中国有限公司（金沙中国，1928.HK）发布2025年第三季度业绩报告。]]></summary>
+        <author>
+            <name>澎湃新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[马上评｜破坏小区电梯钢绳，触碰了“安全高压线”]]></title>
+        <id>https://www.thepaper.cn/newsDetail_forward_31826771</id>
+        <link href="https://www.thepaper.cn/newsDetail_forward_31826771"/>
+        <updated>2025-10-23T06:53:02.000Z</updated>
+        <summary type="html"><![CDATA[视频截图
+
+
+电梯是小区重要的公共设施，关系着市民每天的出行便利和安全，其重要性无需赘言。然而没想到，竟然有人胆敢在电梯钢绳上动手脚。
+10月23日，内蒙古呼和浩特市公安局赛罕区分局微信公众号发布警情通报：该区呼伦贝尔南路祥瑞家园小区发生一起严重电梯人为破坏事件，小区内50部电梯中，有23部电梯的钢绳被人恶意切割。警方已对涉嫌损坏电梯缆绳的犯罪嫌疑人毛某某、高某某依法予以刑事拘留，案件还在进一步侦办中。
+目前，相关信息披露还不够完整，当事人的恶劣行为究竟基于何种目的，外界还不得而知，不排除是寻衅滋事，或者蓄意报复，但可以断定的是，嫌疑人必定会受到法律严肃制裁。
+破坏电梯钢绳，首先是损坏公私财产。《民法典》规定，行为人造成他人民事权益损害，应当承担侵权责任，包括停止侵害、排除妨碍、消除危险、经济赔偿等。对于破坏电梯者，需全额赔偿维修、更换等费用，如果造成他人的人身伤害相关损失，医疗费、误工费等一个也少不了。按照《治安管理处罚法》，‌‌此类损毁公私财物的行为，还要受到拘留和罚款等行政处罚。
+破坏电梯钢绳，更是危害公共安全。电梯是用户上下楼的日常通道，零件设施的损坏，极可能造成伤亡事故，危及不特定公众的人身安全。恶意切割电梯钢绳，给公共安全带来极大的风险隐患，俨然埋下了一枚“定时炸弹”。幸亏电梯检修人员在日常巡检中及时发现隐患，否则后果不堪设想。
+虽说没有造成人员伤亡，但并不能改变这种行为危害公共安全的本质，仍应严肃追究法律责任。根据《刑法》，这种故意破坏电梯钢绳的行为，属于使用放火、决水、爆炸、投放危险物质以外的危险方法危害公共安全，涉嫌构成以危险方法危害公共安全罪。即便是没有造成伤亡后果，仍可以处三年以上十年以下有期徒刑，一旦造成重伤、死亡或重大财产损失的，最高可判十年以上有期徒刑、无期徒刑或死刑。
+在司法实践中，对故意破坏电梯的行为，不乏严惩的案例。之前，媒体曾报道一起发生在广州市的案例：李某某在某大厦一楼使用工具破坏电梯的控制面板，使电梯无法正常运行，电梯修复后，再次破坏电梯，并将4条金属管扔进电梯井，导致电梯运行异常并受损。法院认为，李某某行为构成以危险方法危害公共安全罪，依法判处有期徒刑两年六个月。
+相比上述案例，这起最新发生在居民小区的案件，性质更为恶劣，情节更为严重。小区内的50部电梯中，居然近一半的钢绳都被人恶意切割，没有发生伤亡事件，已经是万幸。
+电梯关系千家万户的安全，容不得丝毫马虎。对无视公共安全、在电梯钢绳上动手脚的不法分子，必须以最严厉的惩罚予以震慑。从长远看，还需未雨绸缪，加强电梯这类特种器材设施的日常维护和安全监管，安装更加灵敏、高效的监控仪器，一旦钢绳等关键部件受损即停运报警，为公众筑起一道更为坚固、可靠的安全屏障。
+
+
+获取更多RSS：
+https://feedx.net 
+https://feedx.site]]></summary>
+        <author>
+            <name>澎湃新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[商务部新闻发言人就中美经贸磋商有关问题答记者问]]></title>
+        <id>https://www.thepaper.cn/newsDetail_forward_31826904</id>
+        <link href="https://www.thepaper.cn/newsDetail_forward_31826904"/>
+        <updated>2025-10-23T06:53:02.000Z</updated>
+        <summary type="html"><![CDATA[有记者问：近日，何立峰副总理与美国财政部长贝森特和贸易代表格里尔进行视频通话，双方同意尽快举行新一轮中美经贸磋商，请问商务部是否有进一步消息？
+答：经中美双方商定，中共中央政治局委员、国务院副总理何立峰将于10月24日至27日率团赴马来西亚与美方举行经贸磋商。双方将按照今年以来两国元首历次通话重要共识，就中美经贸关系中的重要问题进行磋商。]]></summary>
+        <author>
+            <name>澎湃新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[沪指尾盘翻红]]></title>
+        <id>https://www.thepaper.cn/newsDetail_forward_31826903</id>
+        <link href="https://www.thepaper.cn/newsDetail_forward_31826903"/>
+        <updated>2025-10-23T06:53:02.000Z</updated>
+        <summary type="html"><![CDATA[10月23日临近尾盘，上证指数拉升翻红，深证成指、创业板指跌幅收窄，全市场成交额超1.4万亿元。
+
+
+获取更多RSS：
+https://feedx.net 
+https://feedx.site]]></summary>
+        <author>
+            <name>澎湃新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[商务部新闻发言人就中美经贸磋商有关问题答记者问]]></title>
+        <id>https://www.thepaper.cn/newsDetail_forward_31826906</id>
+        <link href="https://www.thepaper.cn/newsDetail_forward_31826906"/>
+        <updated>2025-10-23T06:53:02.000Z</updated>
+        <summary type="html"><![CDATA[有记者问：近日，何立峰副总理与美国财政部长贝森特和贸易代表格里尔进行视频通话，双方同意尽快举行新一轮中美经贸磋商，请问商务部是否有进一步消息？
+答：经中美双方商定，中共中央政治局委员、国务院副总理何立峰将于10月24日至27日率团赴马来西亚与美方举行经贸磋商。双方将按照今年以来两国元首历次通话重要共识，就中美经贸关系中的重要问题进行磋商。]]></summary>
+        <author>
+            <name>澎湃新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[安世中国驳斥荷兰安世不实言论：所有在华生产并交付产品均合法合规，坚持一贯品质]]></title>
+        <id>https://www.thepaper.cn/newsDetail_forward_31826866</id>
+        <link href="https://www.thepaper.cn/newsDetail_forward_31826866"/>
+        <updated>2025-10-23T06:23:02.000Z</updated>
+        <summary type="html"><![CDATA[10月23日，安世半导体中国有限公司发布双语版《致客户信》，表示荷兰安世半导体现任管理层散布与事实不符的信息，无端质疑产品合规性、质量标准和技术能力，企图混淆视听，干扰客户正常采购决策。对此公司坚决反对，并将采取一切手段依法维权。同时，安世半导体中国有限公司承诺，所有在华生产并交付的产品均符合中国法律法规及相关监管部门的要求，完全满足安世一贯的技术标准、生产工艺及品质要求，符合与客户合同的各项约定，并在出厂检验环节通过公司的严格质量检验。后续关于产品供应、生产工艺、技术标准等如有变更或调整，公司将会按照正常流程与客户提前沟通。目前，安世半导体中国实体各项生产经营正有序推进，公司董事会、管理层及全体员工正尽最大努力致力于保障广大客户供应链稳定。]]></summary>
+        <author>
+            <name>澎湃新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[波音公司任命陆一鸣为波音中国总裁]]></title>
+        <id>https://www.thepaper.cn/newsDetail_forward_31826835</id>
+        <link href="https://www.thepaper.cn/newsDetail_forward_31826835"/>
+        <updated>2025-10-23T06:23:02.000Z</updated>
+        <summary type="html"><![CDATA[10月23日，澎湃新闻记者获悉，波音公司任命陆一鸣（兰登·卢米斯，Landon Loomis）为波音中国总裁，即刻生效。陆一鸣将常驻北京，负责公司在中国的日常运营、战略、合作伙伴关系，以及高级别政府关系。
+据悉，陆一鸣是在前任波音中国总裁柳青退休后接任这一职务的。陆一鸣能使用中文交流，曾在美国驻华大使馆担任贸易专员五年，负责其中的航空板块并支持多个交流项目。
+陆一鸣于2019年加入波音公司，自2022年以来，陆一鸣一直担任波音拉丁美洲及加勒比地区总裁、波音巴西首席执行官，以及全球政策副总裁。在新职位上，他还将继续担任波音全球政策副总裁，负责协调波音公司在国际市场的政府事务和政策工作。（澎湃新闻记者 邵冰燕）
+
+
+获取更多RSS：
+https://feedx.net 
+https://feedx.site]]></summary>
+        <author>
+            <name>澎湃新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[超三千名海内外科技领袖联名呼吁暂停开发“超级智能”]]></title>
+        <id>https://www.thepaper.cn/newsDetail_forward_31826389</id>
+        <link href="https://www.thepaper.cn/newsDetail_forward_31826389"/>
+        <updated>2025-10-23T05:53:02.000Z</updated>
+        <summary type="html"><![CDATA[10月22日，中美两国人工智能领域的顶尖专家和技术领袖联名发起一项呼吁，在科学界达成“安全可控开发超级智能的广泛共识”前，应暂停“超级智能”的研发。
+
+中外顶尖科技专家联名签署情况
+
+
+该声明由非营利组织未来生命研究所发起，包括人工智能先驱杰弗里·辛顿（Geoffrey Hinton）、苹果公司联合创始人史蒂夫·沃兹尼亚克（Steve Wozniak）、维珍集团董事长理查·布兰森（Richard Branson）、经济学家达龙·阿西莫格鲁（Daron Acemoglu）以及前美国国家安全顾问苏珊·赖斯（Susan Rice），都参与了签名。
+值得一提的是，哈里王子及其妻子梅根、萨塞克斯公爵和公爵夫人、史蒂夫·班农（Steve Bannon）和等知名人士也参与了联合签署声明。
+截至10月23日中午，这份声明的签署人数已经达3193人。中国科学院院士、图灵奖得主姚期智、清华大学智能科学讲席教授、智能产业研究院院长张亚勤，以及清华大学战略与安全研究中心学术委员、苏世民书院院长薛澜等中国学者也位列其中。
+
+声明 来源：官网截图
+
+
+“超级智能”是一种在所有认知任务上都超过人类的人工智能形式。有别于当下绝大多数公司研发通用人工智能，“超级智能”的前景引发业界担忧。该声明称，许多顶尖AI企业将要打造超级智能，“引起了人们的担忧，从人类经济过时和被剥夺权力、自由、公民自由、尊严和控制的丧失，到国家安全风险，甚至潜在的人类灭绝。”
+参与这一呼吁的北京前瞻人工智能安全与治理研究院院长，中国科学院自动化研究所研究员曾毅告诉澎湃科技（www.thepaper.cn），目前我们还没有坚实的科学证据和切实可行的方法来确保超级智能的安全，使其不会给人类带来灾难性的风险。世界尚未准备好迎接不是可控工具的超级智能。
+当前，超级智能已成为人工智能领域的热门词汇。从埃隆·马斯克（Elon Musk）的xAI到萨姆·奥特曼（Sam Altman）的OpenAI等公司都在竞相推出更先进的大语言模型。Meta甚至将其LLM部门命名为“Meta超级智能实验室”。
+科技界的人们对人工智能的看法越来越两极分化：一方认为它是推动社会进步的强大力量，理应不受限制地发展；另一方则担忧其潜在风险，主张加强监管。
+然而，即使是马斯克和奥特曼等世界领先人工智能公司的领导人，过去也曾警告过超级智能的危险。在担任OpenAI首席执行官之前，奥特曼在2015年的一篇博客文章中写道：“发展超人类机器智能（SMI）可能是对人类持续存在的最大威胁。”
+曾毅认为，绝大多数公司研发的只是通用人工智能工具，这并不是超级智能。但是超级智能的风险是并没有科学依据可以控制的。美国企业，例如Meta建立超级智能实验室，以及阿里声称的开发超级智能，这并不只是通用人工智能工具。
+澎湃科技注意到，据《纽约时报》报道，10月22日联合声明发布当天，Meta在超级智能实验室裁员 600人。该部门拥有约 3000 名员工，他们被授权开发“超级智能”，即超越人脑的人工智能。
+Ｍeta新任首席人工智能官亚历山大·王 （Alexandr Wang）表示，裁员旨在清理因三年来过快建立Meta人工智能工作而导致的组织臃肿，从而帮助Meta更快地开发人工智能产品。Meta高管强调，裁员并不意味着他们正在缩减人工智能方面的工作，超级智能仍然是扎克伯格公司的首要任务之一。]]></summary>
+        <author>
+            <name>澎湃新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[段毅君履新国家宗教事务局局长，卸任国家民委副主任]]></title>
+        <id>https://www.thepaper.cn/newsDetail_forward_31826370</id>
+        <link href="https://www.thepaper.cn/newsDetail_forward_31826370"/>
+        <updated>2025-10-23T05:53:02.000Z</updated>
+        <summary type="html"><![CDATA[国家宗教事务局迎来新局长。
+10月23日，人社部网站发布国务院任免国家工作人员信息。其中提到，任命段毅君为国家宗教事务局局长，免去段毅君的国家民族事务委员会副主任职务。
+
+公开资料显示，段毅君，男，汉族，1967年7月生，在职研究生，中共党员。
+他曾任四川省石渠县委书记，甘孜州委常委、秘书长，甘孜州委常委、康定县委书记，省公安厅副厅长，省安监局副局长，省应急管理厅厅长等职，于2021年任凉山州委书记，2023年1月升任四川省副省长。
+在四川省副省长岗位上，段毅君负责民政、自然资源、住房城乡建设、退役军人事务、林业草原、地震地质灾害防救、森林草原防灭火等工作。
+2023年7月，段毅君调任国家民族事务委员会副主任、党组成员，至此番履新。
+在2018年的党和国家机构改革中，国家宗教事务局并入中央统战部，中央统战部对外保留国家宗教事务局牌子，不再保留单设的国家宗教事务局。
+稍早前，原任中央统战部副部长、国家宗教事务局局长的陈瑞峰已于今年9月履新中央统战部副部长、国家民族事务委员会主任、党组书记。]]></summary>
+        <author>
+            <name>澎湃新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta超级智能实验室裁员约600人，华人科学家田渊栋回应“被裁员”]]></title>
+        <id>https://www.thepaper.cn/newsDetail_forward_31826613</id>
+        <link href="https://www.thepaper.cn/newsDetail_forward_31826613"/>
+        <updated>2025-10-23T05:53:02.000Z</updated>
+        <summary type="html"><![CDATA[Meta纠正招聘热潮，超级智能实验室裁员约600人。此次裁员并未波及Meta最新招聘的人工智能人才。
+根据一份转达给《纽约时报》的Meta员工备忘录，Meta于周三表示在其超级智能实验室裁员约600人。该实验室于今年7月成立，负责加速通用人工智能（AGI）研发，并由数据标注初创公司Scale AI 28岁的前首席执行官Alexandr Wang领导，约有员工3000名。
+据CNBC报道，此次裁员是Meta为继续精简部门、进一步巩固Alexandr Wang在公司人工智能战略领导地位所采取的举措，通过减少层级，提高运营效率。
+Alexandr Wang在发给员工的备忘录中写道，“通过缩减团队规模，决策所需的沟通环节将减少，每个人的责任会更重，所负责的范围和影响力也会更大。”
+据了解，在超级智能实验室，由Alexandr Wang领导、负责研发超级智能并管理Meta大语言模型的TBD部门未受裁员影响。知情人士表示，TBD部门包含今年夏天Meta招聘的多名顶尖人工智能人才，这些由Alexandr Wang主管的员工未被裁员，凸显出Meta首席执行官马克·扎克伯格更看重这些高薪招聘的人才，而非老员工。
+Meta高管强调，裁员并不意味着公司会缩减AI业务投入，超级智能仍是核心优先事项之一。两名知情人士则透露，此次裁员是为了清理组织臃肿问题。过去三年，Meta人工智能业务扩张过快，最终导致这一局面，裁员旨在帮助Meta更快地研发人工智能产品。
+过去三年，Meta一直在应对人工智能技术的快速崛起。2022年ChatGPT横空出世后，OpenAI、谷歌和微软都在大举招聘，研发下一代人工智能聊天机器人及其他产品。Meta早期开发了Llama开源人工智能模型，但后续进展陷入停滞。在过去18个月里，Meta重启了招聘热潮，但也出现了战略失误，最终导致产品研发问题频发。
+在经历了今年上半年的动荡后，扎克伯格重启人工智能业务，大举招聘，高薪吸纳顶尖AI人才。今年6月，他向Scale AI投资143亿美元，随后扎克伯格将包括Alexandr Wang在内的Scale AI顶尖人才纳入Meta超级智能实验室。
+扎克伯格还斥资数十亿美元，从OpenAI、谷歌、微软、苹果等其他人工智能实验室和公司挖来顶尖研究人员，甚至向其中一些人才开出高达数亿美元的薪酬。
+今年8月，扎克伯格将Meta超级智能实验室拆分为四个部门，其中人工智能基础研究部门（FAIR）负责人工智能研究，其余三个部门分别负责超级智能研发、产品开发和基础设施建设。在Meta内部，像FAIR这样的研究团队与更侧重产品的团队常常争夺计算资源。
+两名知情人士称，重组之后，FAIR部门的员工纷纷争取加入Alexandr Wang的团队。Alexandr Wang领导的核心团队成员均来自OpenAI、谷歌等公司的外部招聘人员，不过最近他也从Meta其他部门吸纳了数十名具备特定专业知识的人工智能研究人员。
+据了解，此次裁员将波及的是超级智能实验室的FAIR部门、产品部门和基础设施部门的员工，负责研发超级智能的TBD部门未受裁员影响。被裁员工已收到邮件通知，Meta计划为受影响员工在公司内部寻找其他岗位。10月23日，Meta AI华人科学家、FAIR研究员及高级经理田渊栋在社交平台发文称，他和他的几个团队成员都受到了裁员影响。田渊栋的研究方向为大模型高效训练及推理、表示学习、智能决策与优化。
+随后，澎湃科技联系到了田渊栋本人，他向澎湃科技证实了这一消息。他透露，在此之前，他已经在寻找一些外部机会，公司领导也知情，Meta这次裁员赔偿了他八个月的薪资，现在他也在积极接洽一些外部工作机会。]]></summary>
+        <author>
+            <name>澎湃新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[卢浮宫重新开放，游客盼追回遭劫文物]]></title>
+        <id>https://www.thepaper.cn/newsDetail_forward_31826794</id>
+        <link href="https://www.thepaper.cn/newsDetail_forward_31826794"/>
+        <updated>2025-10-23T05:53:02.000Z</updated>
+        <summary type="html"><![CDATA[当地时间22日上午9时，卢浮宫博物馆在抢劫案发生3天后重新开放，供游客参观，但抢劫案事发地点阿波罗长廊目前仍然关闭。]]></summary>
+        <author>
+            <name>澎湃新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[港珠澳大桥开通七周年：经大桥往来三地旅客已超1亿人次]]></title>
+        <id>https://www.thepaper.cn/newsDetail_forward_31826801</id>
+        <link href="https://www.thepaper.cn/newsDetail_forward_31826801"/>
+        <updated>2025-10-23T05:53:02.000Z</updated>
+        <summary type="html"><![CDATA[10月23日，港珠澳大桥迎来开通七周年。
+据微信公众号“港珠澳大桥”10月23日消息，七年来，经港珠澳大桥往来三地的旅客已超1亿人次，大桥双向通行车辆超1350万辆车次。截至今年9月，经港珠澳大桥珠海公路口岸进出口货物总值累计1.24万亿元。大桥极大缩短了粤港澳三地间的时空距离，为大湾区深度融合发展注入强劲动力。]]></summary>
+        <author>
+            <name>澎湃新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[卢浮宫劫后重开：追回被抢文物为何“可能性极低”]]></title>
+        <id>https://www.thepaper.cn/newsDetail_forward_31826275</id>
+        <link href="https://www.thepaper.cn/newsDetail_forward_31826275"/>
+        <updated>2025-10-23T05:23:03.000Z</updated>
+        <summary type="html"><![CDATA[世界最大博物馆之一在光天化日之下被劫走价值8800万欧元珠宝，暴露了其安保系统的致命弱点。
+在让人震惊的卢浮宫抢劫案发生并闭馆三天之后，当地时间22日，卢浮宫重新对公众开放，但事发地点阿波罗长廊仍然关闭，珠宝界专业人士分析称：“追回被抢文物的可能性低”。
+现场游客表达了他们对文物可能被熔毁的担忧，这种担忧恰恰指向了此案最令人痛心的可能性——这些承载法国历史的珠宝，或许将永远无法完整回归。
+
+卢浮宫玻璃金字塔入口前
+
+
+大量游客22日早晨已在卢浮宫玻璃金字塔入口前排起长队，博物馆现场工作人员表示当天“正常对公众开放”。然而，就在三天前，就在这座知名艺术圣殿内，4名蒙面劫匪在短短数分钟内盗走了9件“价值不可估量”的珠宝。巴黎检方此前表示，卢浮宫博物馆遭抢所致经济损失预估可达8800万欧元。法国媒体援引检方消息称，约百名调查人员正在追缉在逃的4名作案者。
+巴黎居民巴萨姆说：“我想现在卢浮宫已经安全了，应该不会再发生劫案了。但说实话，当我走过卢浮宫，我觉得他们甚至能再抢一次，也许仍然能得手。”
+相关专家对路透社表示，能够犯下巴黎卢浮宫这起大胆窃案的犯罪分子其实屈指可数，警方甚至早已锁定这些人的身份。然而，赃物往往会迅速被拆解、分售，难以追踪。巴塞隆纳文化遗产犯罪专家巴尔塞斯（Marc Balcells）说：“如果我偷走一幅梵高画作，那就是一幅梵高画作，我只能通过非法艺术市场出售。但如果我偷的是珠宝，我能将其当成宝石在黑市流通。”法国媒体分析，犯罪分子极有可能将这批被抢文物拆解，在黑市秘密出售。一名欧洲珠宝业人士认为，追回被抢文物的可能性低，“如果被拆分出售，它们将永远消失于历史”。
+
+玛丽-阿梅莉王后与奥尔唐斯王后的冠冕、蓝宝石项链及蓝宝石耳环 （资料图）
+
+
+22日，卢浮宫博物馆馆长洛朗丝·德卡尔出席法国参议院就卢浮宫抢劫案举行的听证会，首次就这一事件公开发声。德卡尔承认，卢浮宫…]]></summary>
+        <author>
+            <name>澎湃新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[上场5分钟，得2分，1个篮板，杨瀚森体验NBA万事开头难]]></title>
+        <id>https://www.thepaper.cn/newsDetail_forward_31826021</id>
+        <link href="https://www.thepaper.cn/newsDetail_forward_31826021"/>
+        <updated>2025-10-23T05:23:03.000Z</updated>
+        <summary type="html"><![CDATA[就在开拓者新赛季揭幕战的前两天，一位美国记者向杨瀚森抛出了一个常规问题，“常规赛首秀，你自己有什么期待？”
+杨瀚森思索片刻，“没什么太大心情，就是好好训练，准备好后面的比赛。”
+对于所有刚进入NBA的“菜鸟”来说，生涯的第一场常规赛都是非常难打的，即便是当年的状元郎姚明也只有0分、2个篮板和1次助攻。20岁的杨瀚森，自然也要体验“万事开头难”的这个过程。
+
+北京时间10月23日，波特兰摩达中心球馆里，开拓者在揭幕战中以114比118不敌森林狼，未能迎来新赛季开门红。本场比赛，杨瀚森替补出战5分钟，得到2分、1个篮板，以这样的一份成绩单正式开启了自己的NBA生涯。
+作为继姚明和易建联之后第三位通过NBA首轮选秀就直接进入联盟的中国球员，杨瀚森在第16顺位被波特兰选中之后，他在美国的一举一动就一直受到千万中国球迷的关注，而新赛季的首场正式比赛自然也是关注的焦点。其实除了中国球迷的期待，赌上一个“乐透签”得到杨瀚森的开拓者也在期待着这位中国的年轻中锋能够给球队带来的不只是球场外的关注，还有球场上的即战力。
+
+“我相信第一场正式比赛会让杨瀚森记住一辈子，无论比赛结果如何，我为杨瀚森感到兴奋。”开拓者主教练昌西·比卢普斯在赛前就谈到了对于杨瀚森的期待，“说实话，我丝毫没有感觉到杨瀚森对第一场比赛很紧张。以他的年龄来说，他很成熟。”
+
+经历过夏季联赛和季前赛的历练，杨瀚森确实在心理和身体状态上都有了明显的进步。毕竟，就如他自己所说，在对阵勇士的首场季前赛中，那一整场比赛都是他的“欢迎来到NBA”的时刻。彼时，勇士队的几位老将轮番给杨瀚森“上课”，最终，他以4分和6次犯规结束了季前赛首秀；不过，到了第二场比赛，杨瀚森就迅速做出调整，在对阵国王的第三节5投5中轰下14分；第三场再次遇到勇士，杨瀚森已经沉稳了不少，9分、6个篮板、1次助攻和1次封盖的数据虽然不算抢眼，但是6个篮板是他在季前赛的新高；然而，季前赛的收官之战，杨瀚森在15分钟里快速积累了6次犯规，而且没有一个篮板球进账。
+
+这样的大起大落，对于杨瀚森来说不算是坏事。他在季前赛的替补席上流下的泪水，已经说明了球场上的那些挑战给他带来的冲击。杨瀚森自己也说，能做的就是继续进步和弥补不足，“体能比之前好多了，感觉确实比之前跑起来轻盈了很多。”
+带着这些肉眼可见的改变，杨瀚森站上了常规赛的舞台。就在主场对阵森林狼的第一节7分13秒，杨瀚森替补出场，全场的掌声已经说明了球迷对他的期待。在接近3分钟的亮相时间里，杨瀚森没有太多抢眼的表现，主要是负责队友进行挡拆，不过出现了一次三秒违例。
+
+第二节8分钟左右，杨瀚森再次上场，回到球场的第一个回合，他就在内线造成对手犯规，随后两罚全中，打开了自己的NBA生涯的得分账户。不过，在此后的一个回合，戈贝尔就送给杨瀚森一个遮天蔽日的大帽，以此“欢迎”杨瀚森来到NBA，此后，在防守过程中，麦克丹尼尔斯有隔扣了杨瀚森，再给这个年轻人送了一个欢迎礼。
+
+从常规赛首秀的上半场不难看出，作为克林根的替补，杨瀚森在场上的首要任务是做好“蓝领球员”的工作，保护篮板以及通过挡拆跑位为队友制造空间，而他擅长的三分线弧顶“发牌”在赛季开始阶段可能难有太多表现的机会。比卢普斯也不止一次强调过，杨瀚森想要用更多方式帮助球队，他需要更好地与队友进行场上的交流。
+在来到美国的这几个月时间，除了适应NBA的训练和比赛强度以及节奏之外，杨瀚森最大挑战就是语言关。在新赛季开始前，他也坦言，自己在努力学习英语，尽管“大部分情况还是靠猜”，但是他也渐渐可以和教练以及队友进行单独沟通。
+事实上，杨瀚森的英语水平并不是评判他融入球队的唯一标准，开拓者球员阿夫迪亚在接受采访时就表示，自己已经会说“左手”和“右手”，以便于在场上和杨瀚森沟通挡拆以及突破的位置和方向。这样一个细节足以说明，杨瀚森跟球队的融合正在向着积极的方向发展。
+在首秀的下半场，双方打得愈发胶着，比卢普斯也没有给杨瀚森更多的出场机会。杨瀚森则是在替补席上给队友们加油。
+
+最终，开拓者未能赢下开门红。
+尽管是首轮16顺位的“乐透球员”，但杨瀚森想要真正在残酷的NBA联盟站稳脚跟还需要一个过程。即便是当年的姚明也在第一个赛季的前七场比赛表现得相当挣扎，首秀更是只有0分和2个篮板。所以就如姚明给杨瀚森的建议那样，“不必过度担心，认真做每件事就行。认真会成为你的标签，赢得好感的同时也是对自我负责。”
+常规赛首秀只是一个开始，不管这条逐梦征途最终通往何处，至少杨瀚森已经迈出了第一步。]]></summary>
+        <author>
+            <name>澎湃新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[马上评｜校园不是背景板，而是有“生命”的公共空间]]></title>
+        <id>https://www.thepaper.cn/newsDetail_forward_31826365</id>
+        <link href="https://www.thepaper.cn/newsDetail_forward_31826365"/>
+        <updated>2025-10-23T05:23:03.000Z</updated>
+        <summary type="html"><![CDATA[近日，有多名云南大学学生称，《红舞鞋》剧组在云南大学取景拍摄过程中，将一只校园猫撞死。校园内限制时速10km，有很多同学质疑当时车速过快。
+10月23日凌晨，涉事剧组发布致歉声明：剧组承担全部责任，涉事司机已引咎辞职，不再继续于剧组任职；剧组会妥善安排后续拍摄工作，在拍摄过程中建立有效的校园动物保护机制，对拍摄相关区域开展小动物活动安全排查；剧组将以小猫小橘子的名字成立基金，专门用于云南大学校园内流浪动物喂养、看病、绝育等事宜。
+这件事引发了广泛关注，甚至上了热搜，或许也令当事方意想不到。在外人看来，“撞死流浪猫”谈不上多么严重，但一到校园场景，事情就不一样了。
+校园里的流浪猫（很多学生拒绝说是“流浪猫”，而是他们共同喂养的“校园猫”），很多时候已经内化成了校园文化的一部分。这些小动物往往成了校园生活的温柔角落，见证了学生们从入学到毕业的人生过程。它们陪伴着深夜自习、午后散步，甚至被拍进了毕业照、写进了校园公众号。对于许多师生而言，它们不只是猫，而是情感的寄托、生活的组成、共同的校园记忆，更是大学生生命教育的重要章节。
+很多学校很珍视这些小动物，也有专门的救助团队，而这些动物一旦离去，还会引发校园层面的纪念。比如2016年10月，山东某高校一只蹭课猫在校园内被电动车撞击身亡，学校官方微博随后发文悼念，由此不难理解，为什么这次事故会引发众多学生的反弹。
+客观来说，剧组的这次事故并非故意，但至少也敲响了警钟：当外部团队进入校园时，更要遵守管理制度，对于花花草草、众多生灵，都要有所关照。
+另外不可忽视的是，学生意见的表达，背后也有某种情绪：近些年有不少剧组进校园取景拍摄，这对于展现校园魅力、提高学校的知名度当然有帮助；但同时也出现了不少冲突，很多过于轻率的举动，就会被视为一种“不尊重”。
+2023年时，有网友称有剧组在校园拍摄时，疑似用激光笔驱赶学生，引发高度关注；2022年时，有学生反映自己的无人机被剧组工作人员砸落，事后剧组致歉；而在2016年时，还有剧组被曝出，在校园拍戏时与路人发生冲突；而在更早前，甚至有剧组被学生质疑破坏了百年老楼等等。
+客观来说，很多事件未见得是剧组有意的侵扰与破坏，他们可能是出于一种常见的“秩序维护”和“拍摄需要”。
+但大学校园毕竟不是无人的片场，这里是师生共同的生活区域。校园的秩序与氛围，是由学生、教师、建筑、自然与历史共同构成的，因此校园也是有“生命”的。当剧组进入这样的空间，就意味着一种“外来力量”的介入——若缺乏敬意与沟通，对校园的鲜活生态缺乏关照，那么任何疏忽或是僵硬措施，都可能被视作对这份共同体的冒犯。
+所以，这些事件表面上是偶发的摩擦，实质上反映了公众对“校园使用权”的重新思考。剧组应当明白，校园并非单纯的背景板，而是一种具有精神延续性的公共空间，师生乃至校园猫，才是这里的“原住者”。当剧组进驻这些空间时，更应尊重校园独有的生活秩序与文化氛围，尽可能地以温和和体贴的方式融入，避免造成不必要的滋扰。]]></summary>
+        <author>
+            <name>澎湃新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[齐海斌当选内蒙古乌海市市长，此前在山西任职]]></title>
+        <id>https://www.thepaper.cn/newsDetail_forward_31826754</id>
+        <link href="https://www.thepaper.cn/newsDetail_forward_31826754"/>
+        <updated>2025-10-23T05:23:03.000Z</updated>
+        <summary type="html"><![CDATA[据微信公众号“乌海融媒”消息，乌海市第十届人民代表大会第六次会议10月23日选举齐海斌为乌海市政府市长。
+此前，原任山西省文化和旅游厅党组书记的齐海斌，已跨省份履新内蒙古自治区乌海市委副书记、代市长。]]></summary>
+        <author>
+            <name>澎湃新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中小学春秋假来了，各地怎么放？]]></title>
+        <id>https://www.thepaper.cn/newsDetail_forward_31826015</id>
+        <link href="https://www.thepaper.cn/newsDetail_forward_31826015"/>
+        <updated>2025-10-23T04:53:03.000Z</updated>
+        <summary type="html"><![CDATA[冷空气南下，让不少地方一夜入秋。
+秋高气爽，正是出游的好时节。今年，多地的中小学生还将迎来可以在秋天出游的新假期——“秋假”。
+今年9月，商务部等9部门印发《关于扩大服务消费的若干政策措施》，明确提出在放假总天数和教学时间总量保持不变的情况下，鼓励有条件的地方结合气候条件、生产安排、职工带薪休假制度落实等因素，科学调整每学年的教学和放假时间，探索设置中小学春秋假。
+其实， “春秋假” 并不是新概念。2013年国务院办公厅印发的《国民旅游休闲纲要（2013—2020年）》就提出地方政府可以探索安排中小学放春假或秋假。具体到地方，杭州地区自2004年实施中小学“春秋假”至今，已有21个年头。
+到了2025年，更多地方开始落实中小学生“春秋假”，其模式基本是与清明、五一、国庆等小长假连休。值得一提的是，乌鲁木齐市还在今年将12月1日至12月5日定为“雪假”，并为中小学生提供免费滑雪的机会。
+
+相比于传统的寒暑假，春秋季天气不会过热或过冷，气候适宜，更加适合出游。此外，由于幅员辽阔，各地入春入秋存在时间差异，不同地方可以因地制宜调整春秋假时间，为错峰出游创造了条件。
+中国宏观经济研究院高级顾问专家、国家发展改革委市场与价格研究所前所长杨宜勇在接受《中国经营报》记者采访时表示，推行春秋假作为优化假期结构的重要探索，其对居民消费的提振作用并非简单的“假期数量增加”所能概括，而是涉及消费时间再分配、需求结构升级与区域经济平衡的系统性影响。
+杨宜勇指出，2024年国庆假期全国旅游人数达8.26亿人次，但游客满意度仅为78分（满分100分），低于平日均值10分。而春秋季（3—5月、9—11月）正值旅游淡季，气候适宜且避开传统高峰，若增设3—5天春秋假，可分流约30%的长假客流。
+根据杨宜勇的测算，从短期（1至2年）看，春秋假可以贡献社会消费品零售总额约0.4%～0.6%的增量，长期（3至5年）则可提升至约1%～1.66%。
+
+如果要放好“春秋假”，不只多增加几天假期，还需要学校、家庭和社会的协同配合。
+中国青年报社社会调查中心联合问卷网2024年进行的一项有1333名受访者参与的调查显示，71.3%的受访者支持在更多大中小学放春假，但同时也有很多受访者认为要把放春假落到实处——有58.7%的受访者认为要落实义务教育阶段学生家长带薪休假，55.2%的受访者认为学校要安排好课程进度和课程时间。
+此前广西、四川南充等地统计部门也针对职工家庭做过春假调研，多数人表示支持，少数反对声音也集中在类似的现实顾虑上。
+
+今年春假期间，针对部分家庭孩子无人看管的问题，杭州市多个城区设置了托管服务点，为春假期间家长看护有困难、有托管需求的学生提供免费托管服务。托管服务以看护为主，开放教室、图书馆、运动场馆等资源设施，提供阅读指导、文体活动、兴趣拓展等服务，不组织集体补课、讲授新课，不增加学生课业负担。
+北京第二外国语学院中国文化和旅游产业研究院教授吴丽云也表示：“对于促进春假市场的进一步发展和扩大，最重要的一点是鼓励带薪休假制度持续落地。如果孩子放假了，家长没有假期，那大概率孩子还是在家待着，春假的作用就无法发挥出来。”
+2025年3月中办、国办印发的《提振消费专项行动方案》中，中小学春秋假放在了“保障休息休假权益”章节内，和“严格落实带薪年休假制度”“实现弹性错峰休假”“不得违法延长劳动者工作时间”等并列。
+中小学生“春秋假”的落地发芽，或许能成为一个起点，助推全社会假期福利的更进一步。
+
+参考资料：
+多地中小学生11月喜提5天“小长假”：机票预订量增长超2倍，北京、西安成最受欢迎目的地 https://www.thepaper.cn/newsDetail_forward_31808232
+专家解读“中小学春秋假”：每年或新增消费5000亿—8000亿元http://www.cb.com.cn/index/show/zj/cv/cv135323001260
+71.3%受访者支持更多大中小学放春假 https://news.youth.cn/jsxw/202404/t20240411_15189415.htm
+学校放春假 旅行社瞄准新机遇 https://travel.gmw.cn/2025-04/24/content_37987892.htm
+中小学春秋假，如何放得好推得开？ https://www.news.cn/politics/20250509/72e199a05b8349a78004a1a45f960794/c.html]]></summary>
+        <author>
+            <name>澎湃新闻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国是如何在全球核能竞赛中超越美国的]]></title>
+        <id>https://cn.nytimes.com/science/20251023/china-us-nuclear-energy-race/dual</id>
+        <link href="https://cn.nytimes.com/science/20251023/china-us-nuclear-energy-race/dual"/>
+        <updated>2025-10-23T04:36:02.000Z</updated>
+        <summary type="html"><![CDATA[BRAD PLUMER, HARRY STEVENS2025年10月23日2013年以来建成或在建的核反应堆 Source: World Nuclear Association. Images by Planet Labs, Vexcel, Airbus DS via Google. The New York Times
+In 2013, construction began on the first two U.S. nuclear reactors in a generation. Atomic energy was back. Or was it?
+2013年，美国开始建设一代人以来的首批两座核反应堆。原子能时代回来了。果真如此吗？
+Plagued by delays, these reactors became two of the costliest ever built. Nuclear power seemed hopeless, at least in the U.S.
+受工期延误的困扰，它们已成为史上建造成本最昂贵的两座反应堆。核能似乎前途渺茫，至少在美国是这样。
+Yet in the same period, China built 13 similar reactors, with 33 more underway. And Beijing’s nuclear ambitions are global.
+但在同一时期，中国建设了13座类似的反应堆，另外还有33座正在建设中。而且，中国政府的核能雄心是全球性的。
+China is swiftly becoming the world leader in nuclear power, with nearly as many reactors under construction as every other…]]></summary>
+        <author>
+            <name>纽约时报双语版</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[李公明︱一周书记：生存竞争中的世代焦虑与……残酷困境]]></title>
+        <id>https://www.thepaper.cn/newsDetail_forward_31818804</id>
+        <link href="https://www.thepaper.cn/newsDetail_forward_31818804"/>
+        <updated>2025-10-23T04:02:03.000Z</updated>
+        <summary type="html"><![CDATA[《坐困穷途：“无限竞争社会”的苦恼》，[韩]金敬哲著，艾同立译，广东人民出版社丨万有引力，2025年9月版，281页，69.00元
+
+
+先从一部近日在韩国热映的电影《无可奈何》（朴赞郁执导）谈起吧。该片自9月底上映以来引发热议，被称为今年韩国电影中最值得关注的现象级作品。影片改编自美国的一部小说，讲述一位被解雇的中年人为重返职场而逐一“除掉”潜在竞争者的故事。生存竞争的焦虑、绝处求生的拼搏，从业人之间你死我活的生存法则，揭示了中产阶层生存的残酷现实。这是继奉俊昊执导的《寄生虫》（2020年）之后又一部以生存竞争的残酷悲喜剧撼动人心的力作，而《无可奈何》更以其对人性在竞争生存中扭曲的深刻剖析和极其冷峻的黑色幽默把忧虑与无奈之情推向高潮。
+韩国作家和媒体人金敬哲的《坐困穷途：“无限竞争社会”的苦恼》（韓国 行き過ぎた資本主義 「無限競争社会」の苦悩，2019；艾同立译，广东人民出版社，“万有引力”，2025年9月）以四个世代的全景记录，揭开在韩国的生存竞争中的“无限竞争”的众生相。故事虽然发生在韩国，但是那些众生相在当下许多社会语境中都并不陌生，《坐困穷途》中的很多新奇的词汇听起来也毫无隔阂之感。如“N抛世代”“汤匙阶级论”“纸巾实习生”“补习街少年”“N抛世代”“大雁爸爸”与“空巢老人”等等，语中所言均是我们意中所思所感。说实在的，“内卷”这个源自社会学的语汇在无限竞争的社会众生相中早已不堪重负，“无限竞争”和“坐困穷途”似乎更为直接地撕开了“内卷”的学术性面纱——虽然它也并不温柔。
+这个韩国的“坐困穷途”故事在许多社会语境中有着共同的缘起，那就是跨大西洋的新自由主义思想的历史演变。新自由主义旨在消除所有限制竞争动力的法律规范和社会规则，力图将社会生活的每一个领域（包括医疗、情感、文化等）转变为经济空间，唯一有效的规则就是供需法则（参见贝拉尔迪《灵魂在工作：从异化到自主》，李…]]></summary>
+        <author>
+            <name>上海书评</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[鸿蒙 1024｜为缓你升级鸿蒙的阵痛，我做了一款工具箱：NEXT 升级站]]></title>
+        <id>https://sspai.com/post/103018</id>
+        <link href="https://sspai.com/post/103018"/>
+        <updated>2025-10-23T03:27:31.000Z</updated>
+        <summary type="html"><![CDATA[以运营的角色，从「内容赛道」和「产品载体」两个方面聊聊我为什么要做 NEXT 升级站。查看全文]]></summary>
+        <author>
+            <name>NEXT升级站</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[陪诊员、“躺平”博主、女电工：中国的新型劳动者]]></title>
+        <id>https://cn.nytimes.com/china/20251023/china-work-force/dual</id>
+        <link href="https://cn.nytimes.com/china/20251023/china-work-force/dual"/>
+        <updated>2025-10-23T03:06:01.000Z</updated>
+        <summary type="html"><![CDATA[ISABELLE QIAN, BEN LAFFIN, AARON BYRD, QILAI SHEN2025年10月23日 
+The Chinese dream once followed a simple formula: move to a big city, work hard, and buy a home. That model, once a reliable engine of progress in China, is breaking down after the collapse of the housing market in 2021, which set off an ongoing economic downturn.
+曾经的中国梦遵循着一个简单模式：迁往大城市、努力工作、买房安家。这个模式一度是发展可靠的引擎，但在2021年房地产市场崩盘引发持续经济下行后，它正逐渐瓦解。
+Today, many workers are opting out of the old system and finding new careers in China’s digital gig economy — and in the process, redefining what work looks like.
+如今，许多劳动者正脱离旧有体系，在中国的数字零工经济中开辟新职业，并在这一过程中重新定义工作的形态。
+The New York Times profiled some of these workers: a mother helping people navigate China’s bureaucratic hospital system; a lifestyle influencer who drives from city to city scouti…]]></summary>
+        <author>
+            <name>纽约时报双语版</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特朗普的超级大国自杀行为]]></title>
+        <id>https://cn.nytimes.com/opinion/20251023/trump-xi-summit-world-economy/dual</id>
+        <link href="https://cn.nytimes.com/opinion/20251023/trump-xi-summit-world-economy/dual"/>
+        <updated>2025-10-23T02:06:02.000Z</updated>
+        <summary type="html"><![CDATA[REBECCA LISSNER, MIRA RAPP-HOOPER2025年10月23日
+The world will look to Seoul next week as leaders gather for a major economic summit and President Trump and President Xi Jinping of China are expected to meet for the first time since 2019. Both leaders hope the meeting will stabilize the superpowers’ rocky relations. But even a détente in the U.S.-China trade war will not restore faith in America’s economic leadership. By continuing to wield sky-high tariffs punitively, unilaterally and unpredictably, Mr. Trump has upended the rules-based international economic order that America led for 80 years.
+下周，全球目光将聚焦首尔。届时各国领导人将齐聚此地，举行一场重大经济峰会，美国总统特朗普与中国国家主席习近平预计将自2019年以来首次会晤。两位领导人都希望此次会晤能稳定两大强国动荡的关系。但即便中美贸易战出现缓和，也难以重建外界对美国经济领导力的信心。特朗普持续单方面、不可预测地施加天价惩罚性关税，已颠覆了美国主导80年的基于规则的国际经济秩序。
+The tariff campaign is …]]></summary>
+        <author>
+            <name>纽约时报双语版</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：三星发布 Galaxy XR 头显、OpenAI 推出 AI 浏览器等]]></title>
+        <id>https://sspai.com/post/103289</id>
+        <link href="https://sspai.com/post/103289"/>
+        <updated>2025-10-23T00:37:32.000Z</updated>
+        <summary type="html"><![CDATA[Steam 测试「个人日历」功能、微软确认淘汰 Office Online Server 等。查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[No, Trump Isn’t Destroying the White House]]></title>
+        <id>https://www.nationalreview.com/?p=1887027</id>
+        <link href="https://www.nationalreview.com/2025/10/no-trump-isnt-destroying-the-white-house/"/>
+        <updated>2025-10-22T19:49:23.000Z</updated>
+        <summary type="html"><![CDATA[Good grief, people. Pull yourselves together.]]></summary>
+        <author>
+            <name>The Editors</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[泰国官员：泰国推出多项举措保障中国游客安全]]></title>
         <id>https://www.thepaper.cn/newsDetail_forward_31824443</id>
@@ -819,6 +1262,42 @@ https://feedx.site]]></summary>
         <summary type="html"><![CDATA[今年我们会以 「不止代码，更有生活」为主题，在少数派深圳后海汇线下店举行一场兼具深度与温度的直播体验。查看全文]]></summary>
         <author>
             <name>水獭Store</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“这是谁妈？自己过来抓”：被年轻人驱逐的老年粉丝]]></title>
+        <id>46c9ba9e78546f7a715c14a1e9f71077</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E2%80%9C%E8%BF%99%E6%98%AF%E8%B0%81%E5%A6%88%EF%BC%9F%E8%87%AA%E5%B7%B1%E8%BF%87%E6%9D%A5%E6%8A%93%E2%80%9D%EF%BC%9A%E8%A2%AB%E5%B9%B4%E8%BD%BB%E4%BA%BA%E9%A9%B1%E9%80%90%E7%9A%84%E8%80%81%E5%B9%B4%E7%B2%89%E4%B8%9D"/>
+        <updated>2025-10-22T02:00:00.000Z</updated>
+        <author>
+            <name>新京报书评周刊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新京雅集——中国十大博物馆，一次逛遍]]></title>
+        <id>3d60926036ebe6ce7aa8df9a17256a76</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E6%96%B0%E4%BA%AC%E9%9B%85%E9%9B%86%E2%80%94%E2%80%94%E4%B8%AD%E5%9B%BD%E5%8D%81%E5%A4%A7%E5%8D%9A%E7%89%A9%E9%A6%86%EF%BC%8C%E4%B8%80%E6%AC%A1%E9%80%9B%E9%81%8D"/>
+        <updated>2025-10-22T02:00:00.000Z</updated>
+        <author>
+            <name>新京报书评周刊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[遭前夫新书指控，布兰妮回击称“我已忍无可忍”]]></title>
+        <id>ea8877490aa8db44afaa5ebc9b2b350b</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E9%81%AD%E5%89%8D%E5%A4%AB%E6%96%B0%E4%B9%A6%E6%8C%87%E6%8E%A7%EF%BC%8C%E5%B8%83%E5%85%B0%E5%A6%AE%E5%9B%9E%E5%87%BB%E7%A7%B0%E2%80%9C%E6%88%91%E5%B7%B2%E5%BF%8D%E6%97%A0%E5%8F%AF%E5%BF%8D%E2%80%9D"/>
+        <updated>2025-10-22T02:00:00.000Z</updated>
+        <author>
+            <name>新京报书评周刊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我在故宫“闻到了三百年前的灰”]]></title>
+        <id>35177cc67f69dafd184ae28bb488acb2</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E6%88%91%E5%9C%A8%E6%95%85%E5%AE%AB%E2%80%9C%E9%97%BB%E5%88%B0%E4%BA%86%E4%B8%89%E7%99%BE%E5%B9%B4%E5%89%8D%E7%9A%84%E7%81%B0%E2%80%9D"/>
+        <updated>2025-10-22T02:00:00.000Z</updated>
+        <author>
+            <name>新京报书评周刊</name>
         </author>
     </entry>
     <entry>
@@ -1828,6 +2307,15 @@ The incident occurred as Prime Minister Anthony Albanese of Australia was schedu
 The South China Sea incident is the latest…]]></summary>
         <author>
             <name>纽约时报双语版</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[去电影院，电影还没有邻座大娘有看头儿]]></title>
+        <id>a92d3a72cdf2cce9eaeecb4029cf29b2</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E5%8E%BB%E7%94%B5%E5%BD%B1%E9%99%A2%EF%BC%8C%E7%94%B5%E5%BD%B1%E8%BF%98%E6%B2%A1%E6%9C%89%E9%82%BB%E5%BA%A7%E5%A4%A7%E5%A8%98%E6%9C%89%E7%9C%8B%E5%A4%B4%E5%84%BF"/>
+        <updated>2025-10-21T02:00:00.000Z</updated>
+        <author>
+            <name>新京报书评周刊</name>
         </author>
     </entry>
     <entry>
@@ -25166,796 +25654,6 @@ The bipartisan group, composed mostly of members of the House Armed Services Com
         <summary type="html"><![CDATA[Google 为 Play 商店带来多项新功能，Google 相册对话式照片编辑功能上线等。查看全文]]></summary>
         <author>
             <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Where Is the Never Mamdani Movement?]]></title>
-        <id>https://www.nationalreview.com/?p=1878614</id>
-        <link href="https://www.nationalreview.com/2025/09/where-is-the-never-mamdani-movement/"/>
-        <updated>2025-09-23T19:36:28.000Z</updated>
-        <summary type="html"><![CDATA[In reality, Democrats are never going to lift a finger to stop an antisemitic communist from becoming the face of their party.]]></summary>
-        <author>
-            <name>Dan McLaughlin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[游本昌也拍微短剧了，还将以数字人方式还原年轻济公]]></title>
-        <id>https://www.thepaper.cn/newsDetail_forward_31666438</id>
-        <link href="https://www.thepaper.cn/newsDetail_forward_31666438"/>
-        <updated>2025-09-23T16:23:02.000Z</updated>
-        <summary type="html"><![CDATA[9月23日，演员游本昌在微博发布了一张微短剧《济公之冒牌降龙》的海报，上面写着他将担任该剧的艺术指导一职。随后，@济公之冒牌降龙 官博转发了这篇微博，配文称：“我们的‘定海神针’来啦，坐等好戏开场。”
-
-《济公之冒牌降龙》海报
-
-
-今天稍早时候，在郑州举行的微短剧大会上，游本昌女儿游思涵宣布，游本昌已经跟红果短剧达成协议。她表示：“我们已经与红果短剧达成战略合作，在济公首播40周年，将以意料不到的方式出现。”
-而未能出席大会的游本昌本人，则发来一段VCR，他说：“从过去传统的表演形式，一步步发展到如今多元的创作格局，我想只要是优秀的作品，每一种形式都有它独特的魅力，所以我也想要尝试一下，看看自己还能不能演一下短剧。目前我正在跟红果短剧一起，筹备济公主题的精品短剧。我不但可以参演，而且还可以以数字人的方式，还原年轻时候的济公。对我而言，这也是一种全新的奇妙的体验。”
-
-游本昌录制VCR。]]></summary>
-        <author>
-            <name>澎湃新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[国家防总办公室向广东调拨中央应急抢险救灾物资，支持做好防汛防台风工作]]></title>
-        <id>https://www.thepaper.cn/newsDetail_forward_31666504</id>
-        <link href="https://www.thepaper.cn/newsDetail_forward_31666504"/>
-        <updated>2025-09-23T15:53:04.000Z</updated>
-        <summary type="html"><![CDATA[9月23日，应广东省防汛防旱防风总指挥部请求，国家防总办公室会同国家粮食和物资储备局紧急调拨编织袋、复膜编织布、折叠式金属网箱、抢险舟艇、发电机、排涝设备、照明设备等1700余件中央应急抢险救灾物资（防汛抗旱类），支持广东省做好防汛防台风工作。]]></summary>
-        <author>
-            <name>澎湃新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个美国记者的第十次赛艇世锦赛体验：组织最棒，上海太美]]></title>
-        <id>https://www.thepaper.cn/newsDetail_forward_31666424</id>
-        <link href="https://www.thepaper.cn/newsDetail_forward_31666424"/>
-        <updated>2025-09-23T15:23:03.000Z</updated>
-        <summary type="html"><![CDATA[挥舞着小旗，拿着手机随处拍，还不忘向河道上的摇橹船挥手致意……9月23日下午，朱家角古镇迎来了一群特别的客人——来沪参与2025世界赛艇锦标赛的国际赛联新闻团队与媒体代表。
-
-Lisa（右二）对上海的赛事组织能力赞不绝口。
-
-
-在组委会特别安排下，平日奔波在赛事现场的国际赛联新闻团队与媒体代表们，先后参观了课植园、大清邮局等朱家角特色景点，乘坐了极具江南风情的摇橹船，更体验了火漆封蜡等手工DIY环节。报道了十届世界赛艇锦标赛的美国记者Lisa感慨，“在报道过赛艇世锦赛的这些年，上海给我的感觉是最棒的！论赛事组织工作的专业，这里无与伦比。”
-“赛道风景很好，志愿者能够随时给你提供帮助，还有很棒的食物，总之每一件事情都很棒。”和Lisa的对话正好在朱家角特色的摇橹船上进行，“之前没有体验过这样的船，很有特色。我记得前些年曾经去过韩国举办的世锦赛，中国和上海的体验是最好的。”
-
-因为本次世锦赛的缘故，Lisa有了第一次来到中国和上海的机会，她已经在上海度过了一周多的时间，“我在上海有朋友，刚来的两天朋友带我逛了一下市中心，晚上我在外滩去了一家高处的酒吧，喝着啤酒，拍上海的夜景，太美了，我留下了太深刻的印象。”
-在朱家角特色景点参观晚餐期间，Lisa学会了用筷子夹菜，“我很喜欢中餐，我住在佛罗里达州，美国很多地方的中餐，和我在中国这几天吃的食物完全不是一回事。”Lisa说离开上海前她还有一个关于中餐的愿望，“我想去尝试一下火锅。”
-和Lisa同行的一位美国男同行向澎湃新闻记者请教了如何用中文说“火锅”，“欢迎你们有机会来美国，明年有世界杯。我肯定申请不到证件了，我打算去当志愿者，这样就有机会近距离感受世界杯了。”
-巧合的是，Lisa的儿子目前正在英超阿森纳俱乐部工作，“相信我儿子能帮我买到球票，这应该并不困难。”话锋一转，Lisa问起了中国男足的情况，见到记者面露难色，她也主动接过话茬，“可能并不好。”
-在这趟江南之旅中，老外们首先造访了始建于1912年的江南园林课植园。从宽敞的正厅到蜿蜒的花园小路，从爬上太湖石的假山到投喂一池锦鲤，许多首次来到中国的外国媒体代表兴致勃勃地感受着古典园林的独特魅力。来自澳大利亚赛艇协会的Patrick直言，这是他第一次来到中国，这些古建筑和园林特别吸引自己，“透过它们，我们能看到过去的历史”。
-
-在最具特色的水上体验环节，见惯了赛艇航道上碧波翻涌的国际赛联新闻团队与媒体代表们同样按捺不住兴奋。橹声欸乃，水波荡漾，他们随手记录两岸白墙黛瓦的民居，一边好奇地观望蜿蜒的水巷、形态各异的石桥构成流动的水墨画卷。
-而当一行人来到1903年的大清邮局，传统火漆封蜡制作中国结挂坠的活动也让众人跃跃欲试。在现场工作人员的指导下，他们小心地融化不同颜色的火漆蜡块，创作属于自己的中国结。
-“现在它是我的啦”，来自希腊的女记者Gita得知可以带走这份独一无二的纪念品时直呼惊喜，“这太有意思了！我要把它带回家。”而来自波兰赛艇协会的Julia也在现场精心挑选了一张风景明信片，亲笔写下自己的水乡记忆，投递到复古的邮筒里，与远方的亲友分享喜悦。
-值得一提的是，2025世界赛艇锦标赛期间，青浦区也推出了一系列文旅商体展联动服务，让来自世界各地的游客手持一张票根就能玩转青浦，深度体验江南文化的魅力。其中，大观园、朱家角古镇都推出了多项凭世艇赛相关证件享受景点免费、景区直通船免费等权益。
-
-
-获取更多RSS：
-https://feedx.net 
-https://feedx.site]]></summary>
-        <author>
-            <name>澎湃新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个美国记者的第十次赛艇世锦赛体验：组织最棒，上海太美]]></title>
-        <id>https://www.thepaper.cn/newsDetail_forward_31666482</id>
-        <link href="https://www.thepaper.cn/newsDetail_forward_31666482"/>
-        <updated>2025-09-23T15:23:03.000Z</updated>
-        <summary type="html"><![CDATA[挥舞着小旗，拿着手机随处拍，还不忘向河道上的摇橹船挥手致意……9月23日下午，朱家角古镇迎来了一群特别的客人——来沪参与2025世界赛艇锦标赛的国际赛联新闻团队与媒体代表。]]></summary>
-        <author>
-            <name>澎湃新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[上海绿捷致歉：全面接受有关部门采取的措施，全力配合]]></title>
-        <id>https://www.thepaper.cn/newsDetail_forward_31666488</id>
-        <link href="https://www.thepaper.cn/newsDetail_forward_31666488"/>
-        <updated>2025-09-23T15:23:03.000Z</updated>
-        <summary type="html"><![CDATA[澎湃，澎湃新闻，澎湃新闻网，新闻与思想，澎湃是植根于中国上海的时政思想类互联网平台，以最活跃的原创新闻与最冷静的思想分析为两翼，是互联网技术创新与新闻价值传承的结合体，致力于问答式新闻与新闻追踪功能的实践。]]></summary>
-        <author>
-            <name>澎湃新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What the Kirk Memorial Reveals About the Right]]></title>
-        <id>https://www.nationalreview.com/?p=1878492</id>
-        <link href="https://www.nationalreview.com/2025/09/what-the-kirk-memorial-reveals-about-the-right/"/>
-        <updated>2025-09-23T14:59:03.000Z</updated>
-        <summary type="html"><![CDATA[Erika Kirk and Donald Trump channel the American right’s spirit.]]></summary>
-        <author>
-            <name>Michael Brendan Dougherty</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[王毅会见美国国会众议员代表团]]></title>
-        <id>https://www.thepaper.cn/newsDetail_forward_31666443</id>
-        <link href="https://www.thepaper.cn/newsDetail_forward_31666443"/>
-        <updated>2025-09-23T14:53:03.000Z</updated>
-        <summary type="html"><![CDATA[2025年9月23日，中共中央政治局委员、外交部长王毅在北京会见来华访问的美国国会众议员代表团史密斯一行。双方就进一步加强沟通交流、推动中美关系稳定健康可持续发展坦诚、深入交换了意见。
-王毅表示，此访是2019年以来首个访华的美国联邦众议员代表团，带来了美国两党的声音和美国人民对中美关系的期待，堪称是一次破冰之旅。希望此访有助于美方准确了解中国，客观认识中方，理性看待分歧，友善接触互动，积极探索合作，助力中美关系真正实现稳定、健康、可持续发展，最终找到中美两个大国在这个星球上的正确相处之道，造福两国，惠及世界。
-
-王毅强调，元首外交对中美关系发挥着不可替代的重要引领作用。习近平主席同特朗普总统保持接触、三次通话，为改善发展中美关系确定了基调、指明了方向。当前中美关系出现企稳态势，来之不易，值得珍惜。
-王毅表示，你们这次访华，可谓好事多磨，一波三折，又为中美交往打开了一扇窗口。了解是建立信任的基础，也是探讨合作的开端，更是开创未来的动能。中国的大门随时敞开，欢迎更多美国议员访华交流。
-
-王毅指出，中美是伙伴而非对手，更不是敌人。作为两个大国，中美需要加强交流对话，避免误解误判，防止对立对抗，推进互利合作，共担大国责任。台湾问题是中国内部事务，大陆和台湾同属一个中国是自古到今的事实，是台海真正的现状。美国在一个中国问题上是有政治承诺的。维护台海和平稳定，就应坚决反对“台独”。]]></summary>
-        <author>
-            <name>澎湃新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[云南省科技馆在建新馆明火已扑灭：正调查起火原因和损失情况]]></title>
-        <id>https://www.thepaper.cn/newsDetail_forward_31666472</id>
-        <link href="https://www.thepaper.cn/newsDetail_forward_31666472"/>
-        <updated>2025-09-23T14:53:03.000Z</updated>
-        <summary type="html"><![CDATA[9月23日下午，位于云南省昆明市呈贡区的云南省科技馆新馆燃起大火，现场冒出浓烟的视频引发关注。当日晚间，澎湃新闻从呈贡区消防救援局获悉，18时35分，现场明火已被扑灭，未接到人员伤亡报告。起火原因、财产损失等情况正在调查核实。]]></summary>
-        <author>
-            <name>澎湃新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[胜宏科技77折定增募资19亿元，今年以来高管套现已超21亿元]]></title>
-        <id>https://www.thepaper.cn/newsDetail_forward_31666476</id>
-        <link href="https://www.thepaper.cn/newsDetail_forward_31666476"/>
-        <updated>2025-09-23T14:53:03.000Z</updated>
-        <summary type="html"><![CDATA[9月23日，PCB龙头胜宏科技（300476.SZ）收于314元/股，尽管较9月12日的历史新高355元跌超11%，但市值依然突破2700亿元。]]></summary>
-        <author>
-            <name>澎湃新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“网红教授”郑强在海南谈地方高校跨越式发展：结构重组与调整是首选路径]]></title>
-        <id>https://www.thepaper.cn/newsDetail_forward_31666414</id>
-        <link href="https://www.thepaper.cn/newsDetail_forward_31666414"/>
-        <updated>2025-09-23T14:23:07.000Z</updated>
-        <summary type="html"><![CDATA[郑强
-
-
-近日，曾任浙江大学党委副书记的“网红教授”郑强赴海南作专题报告。
-据“海南师范大学”微信公众号消息，9月22日上午，浙江大学教授郑强来到海南师范大学，为学校师生作题为“新时期区域性地方高校实现创新跨越式发展的方略与举措”专题报告。报告会在学校桂林洋校区图书馆一楼报告厅举行，全体校领导出席，校党委书记许玫主持报告会。
-消息提到，“思想的解放是改革成功的关键，行动的力度则决定了改革的成效。”郑强结合丰富的案例、数据与自身治校经验，明确指出结构重组与调整是地方高校实现跨越式发展的首选路径，深化改革、注重内涵则是持续健康发展的必由之路。
-郑强提出要围绕观念变革、学科转型、绩效考核、人才引育四大核心点，全校上下齐心协力，共同推动学校向更高质量发展阶段迈进。针对海南师范大学的发展前景，郑强指出要锚定“海南师大姓海南，海南师大姓师范，海南师大姓中国”准则，奋力实现建成一流师范大学的目标和愿景。
-许玫在报告会总结中指出，郑强教授从“高等教育功能需要深度认识”“高校办学目标需要定力与坚守”“区域地方高校建设需要更新观念”“未来治校发展需要坚定理想信念”等四个维度，深刻剖析了新时期区域性地方高校实现跨越发展的路径和方法，并通过鲜活生动的案例与平易近人的语言风格引起在场全体师生的共鸣，为学校科学编制“十五五”规划、加快推动一流师范大学建设提供了重要的理论参考和实践指引。
-郑强出生于1960年9月，2012年6月任贵州大学校长、党委副书记，2016年12月任浙江大学党委副书记（正厅级），2020年4月任太原理工大学党委书记，2023年12月因年龄原因不再担任太原理工大学党委书记。]]></summary>
-        <author>
-            <name>澎湃新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[货拉拉回应被约谈：全盘接受，立即整改]]></title>
-        <id>https://www.thepaper.cn/newsDetail_forward_31666423</id>
-        <link href="https://www.thepaper.cn/newsDetail_forward_31666423"/>
-        <updated>2025-09-23T14:23:07.000Z</updated>
-        <summary type="html"><![CDATA[澎湃，澎湃新闻，澎湃新闻网，新闻与思想，澎湃是植根于中国上海的时政思想类互联网平台，以最活跃的原创新闻与最冷静的思想分析为两翼，是互联网技术创新与新闻价值传承的结合体，致力于问答式新闻与新闻追踪功能的实践。]]></summary>
-        <author>
-            <name>澎湃新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[张勇出任海南海口市长，此前从广东跨省调任]]></title>
-        <id>https://www.thepaper.cn/newsDetail_forward_31666428</id>
-        <link href="https://www.thepaper.cn/newsDetail_forward_31666428"/>
-        <updated>2025-09-23T14:23:07.000Z</updated>
-        <summary type="html"><![CDATA[据“海口发布”微信公众号消息，9月23日，海口市第十七届人民代表大会第六次会议召开。大会第一次全体会议表决通过《海口市第十七届人民代表大会第六次会议选举办法》。第二次全体会议表决通过大会总监票人、监票人名单；采用无记名投票方式，补选张勇为市人民政府市长。随后，大会举行了宪法宣誓仪式。张勇在会上作任职讲话。]]></summary>
-        <author>
-            <name>澎湃新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[货拉拉回应被约谈：全盘接受，立即整改]]></title>
-        <id>https://www.thepaper.cn/newsDetail_forward_31666433</id>
-        <link href="https://www.thepaper.cn/newsDetail_forward_31666433"/>
-        <updated>2025-09-23T14:23:07.000Z</updated>
-        <summary type="html"><![CDATA[获取更多RSS：
-https://feedx.net 
-https://feedx.site]]></summary>
-        <author>
-            <name>澎湃新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Charlie Kirk Memorial Wasn’t Christian Nationalism]]></title>
-        <id>https://www.nationalreview.com/?p=1878467</id>
-        <link href="https://www.nationalreview.com/2025/09/the-charlie-kirk-memorial-wasnt-christian-nationalism/"/>
-        <updated>2025-09-23T14:05:48.000Z</updated>
-        <summary type="html"><![CDATA[It’s okay to mix politics and religion.]]></summary>
-        <author>
-            <name>Rich Lowry</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[视频丨习近平率中央代表团抵达乌鲁木齐出席新疆维吾尔自治区成立70周年庆祝活动]]></title>
-        <id>https://www.thepaper.cn/newsDetail_forward_31666099</id>
-        <link href="https://www.thepaper.cn/newsDetail_forward_31666099"/>
-        <updated>2025-09-23T13:53:03.000Z</updated>
-        <summary type="html"><![CDATA[中共中央总书记、国家主席、中央军委主席习近平率中央代表团23日下午乘专机抵达乌鲁木齐，出席新疆维吾尔自治区成立70周年庆祝活动。习近平等在机场和乌鲁木齐市区受到新疆各族群众的热烈欢迎。中共中央政治局常委、全国政协主席、中央代表团团长王沪宁，中共中央政治局常委、中央办公厅主任蔡奇等同机抵达。]]></summary>
-        <author>
-            <name>澎湃新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美股开盘三大指数涨跌不一，台积电涨近3%]]></title>
-        <id>https://www.thepaper.cn/newsDetail_forward_31666407</id>
-        <link href="https://www.thepaper.cn/newsDetail_forward_31666407"/>
-        <updated>2025-09-23T13:53:03.000Z</updated>
-        <summary type="html"><![CDATA[9月23日，美股开盘三大指数涨跌不一，道指涨0.1%，纳指跌0.04%，标普500指数跌0.02%。台积电涨近3%，金山云跌超4%。]]></summary>
-        <author>
-            <name>澎湃新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从客户到股东再到共造电池，理想汽车和二线动力电池生产商成立合资公司]]></title>
-        <id>https://www.thepaper.cn/newsDetail_forward_31666408</id>
-        <link href="https://www.thepaper.cn/newsDetail_forward_31666408"/>
-        <updated>2025-09-23T13:53:03.000Z</updated>
-        <summary type="html"><![CDATA[动力电池是新能源汽车的核心部件，汽车厂商则对此核心部件有着降低成本、提高性能的持续诉求。双方之间的合作关系对各自的市占率均有着深远影响。上海市场监督管理局9月19日的公示信息显示，创立近30年的老牌锂电企业欣旺达电子股份有限公司旗下的欣旺达动力科技股份有限公司与北京理想汽车有限公司将以50：50的出资比例成立合资公司。
-
-
-获取更多RSS：
-https://feedx.net 
-https://feedx.site]]></summary>
-        <author>
-            <name>澎湃新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[成纽约交通管制“受害者”，马克龙给特朗普打电话：就是为给你让路]]></title>
-        <id>https://www.thepaper.cn/newsDetail_forward_31666365</id>
-        <link href="https://www.thepaper.cn/newsDetail_forward_31666365"/>
-        <updated>2025-09-23T13:23:04.000Z</updated>
-        <summary type="html"><![CDATA[环球网报道，当地时间9月22日，美国纽约警方因特朗普车队经过，拦下法国总统马克龙的车。马克龙在路边致电特朗普告知此事，并选择继续步行。
-
-
-获取更多RSS：
-https://feedx.net 
-https://feedx.site]]></summary>
-        <author>
-            <name>澎湃新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[华润置地：郭世清辞任首席财务官等职务，赵伟接任首席财务官]]></title>
-        <id>https://www.thepaper.cn/newsDetail_forward_31666392</id>
-        <link href="https://www.thepaper.cn/newsDetail_forward_31666392"/>
-        <updated>2025-09-23T13:23:04.000Z</updated>
-        <summary type="html"><![CDATA[9月23日晚间，华润置地（01109.HK）发布人事变动公告。]]></summary>
-        <author>
-            <name>澎湃新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国农业大学、中央民族大学等高校纷纷开设小红书账号]]></title>
-        <id>https://www.thepaper.cn/newsDetail_forward_31666180</id>
-        <link href="https://www.thepaper.cn/newsDetail_forward_31666180"/>
-        <updated>2025-09-23T12:53:06.000Z</updated>
-        <summary type="html"><![CDATA[近日，中国人民大学党委书记张东刚的小红书账号@人大刚子 引起社会舆论关注。不到十天，这一账号的粉丝数已经超过了人大官方小红书账号的9.5万粉丝。
-澎湃新闻记者注意到，除了张东刚个人小红书账号之外，近期国内多所大学纷纷开设小红书账号，入驻这一网络平台。
-9月23日，中国农业大学通过官方微信公众号发布消息，宣布正式入驻小红书平台。中国农大在这一消息中介绍，中国农大迎来建校120周年的重要时刻。从初心启程到薪火相传，“解民生之多艰，育天下之英才”的校训早已融入血脉，化作每一代农大人扎根大地、逐梦前行的力量。如今，我们带着百年学府的厚重底蕴，也携着青春校园的鲜活气息，正式入驻小红书，与每一个热爱生活、心怀理想的你温暖相遇！
-
-稍早前，9月5日，中央民族大学发布消息：新学期伊始，在热烈欢迎2025级新生的同时，我们民大的官方新媒体矩阵也迎来了新朋友——今天，中央民族大学小红书官方账号正式上线！
-
-截至9月23日下午，中国农业大学小红书账号已有超过4200粉丝，中央民族大学小红书账号已有接近5000粉丝。
-目前，入驻小红书平台的国内高校中，北京大学拥有粉丝154.8万，清华大学拥有粉丝143.1万，哈尔滨工业大学拥有粉丝32.4万，复旦大学拥有粉丝30.8万，浙江大学拥有粉丝18万，位居前列。
-
-
-获取更多RSS：
-https://feedx.net 
-https://feedx.site]]></summary>
-        <author>
-            <name>澎湃新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[西方集体转向承认巴勒斯坦国，历史与现实令德国进退维谷]]></title>
-        <id>https://www.thepaper.cn/newsDetail_forward_31666132</id>
-        <link href="https://www.thepaper.cn/newsDetail_forward_31666132"/>
-        <updated>2025-09-23T12:53:06.000Z</updated>
-        <summary type="html"><![CDATA[欧盟“双驾马车”之一的德国，正在是否承认巴勒斯坦国的问题上面临越来越大的国内外压力。
-据央视新闻9月23日报道，继9月21日英国、加拿大、澳大利亚和葡萄牙正式承认巴勒斯坦国后，当地时间9月22日下午，法国、摩纳哥、比利时、卢森堡、马耳他、安道尔也宣布正式承认巴勒斯坦国。至此，联合国193个会员国中，已有157国承认巴勒斯坦国。
-同一天，欧盟委员会主席冯德莱恩和欧洲理事会主席科斯塔先后表态称，欧盟支持“两国方案”解决巴以冲突，并表示，目前大多数欧盟成员国已承认巴勒斯坦国。
-9月22日，德国外长瓦德富尔在启程前往纽约参加联合国大会一般性辩论前表示，对德国而言，承认巴勒斯坦国应当作为旨在实现“两国方案”谈判进程的终点，但这样的进程必须现在开始。“建立巴勒斯坦国是我们的目标。我们支持‘两国方案’，没有其他道路。”
-
-当地时间2025年9月22日，德国勃兰登堡，德国外交部长瓦德富尔准备飞往纽约。视觉中国 图
-
-
-支持“两国方案”却不承认巴勒斯坦
-据中新社报道，瓦德富尔指出，自2023年10月7日新一轮巴以冲突爆发以来，眼下依然看不到出路。当前地区最迫切的需要是立即停火、向加沙民众提供更多人道主义援助，并实现人质无条件立即释放。他批评以色列在加沙城的军事行动是“完全错误的道路”，强调通过谈判达成“两国方案”，才是让以色列人和巴勒斯坦人能够在和平、安全与尊严中生活的路径。
-另据土耳其《每日晨报》报道，瓦德富尔同时警告以色列不要吞并被占领的巴勒斯坦领土，他说：“任何违反国际法吞并被占领领土的举措，都会破坏最终持久解决冲突的可能。”
-瓦德富尔将在参加联大一般性辩论期间，出席由沙特和法国共同主办的、旨在推动“两国方案”的高级别会议。不过，他的这一表态与稍早前德国总理默茨的表态并没有多大区别。9月18日，默茨在访问西班牙时表示，对德国而言，承认巴勒斯坦“目前尚未形成讨论的议题”。“德国政府目前不…]]></summary>
-        <author>
-            <name>澎湃新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[上海三部门通报“部分学校午餐中虾仁炒蛋存在问题”]]></title>
-        <id>https://www.thepaper.cn/newsDetail_forward_31666299</id>
-        <link href="https://www.thepaper.cn/newsDetail_forward_31666299"/>
-        <updated>2025-09-23T12:53:06.000Z</updated>
-        <summary type="html"><![CDATA[澎湃，澎湃新闻，澎湃新闻网，新闻与思想，澎湃是植根于中国上海的时政思想类互联网平台，以最活跃的原创新闻与最冷静的思想分析为两翼，是互联网技术创新与新闻价值传承的结合体，致力于问答式新闻与新闻追踪功能的实践。]]></summary>
-        <author>
-            <name>澎湃新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[法国承认巴勒斯坦国 - September 23, 2025]]></title>
-        <id>idaily-237329</id>
-        <link href="https://m.idai.ly/se/95fSnd"/>
-        <updated>2025-09-23T10:59:00.000Z</updated>
-        <summary type="html"><![CDATA[巴黎埃菲尔铁塔上投映巴勒斯坦国旗、以色列国旗与和平鸽图案，法国。9月22日，法国、比利时、卢森堡、摩纳哥、马耳他和安道尔6国在联合国大会上正式宣布承认巴勒斯坦国，成为最近一周内继英国、加拿大、澳大利亚、葡萄牙4国之后第2批承认巴勒斯坦国家地位的西方国家。联合国193个会员国中已有157个国家承认巴勒斯坦国，安理会五个常任理事国中仅剩美国尚未承认。联合国秘书长对会员国承认巴勒斯坦国表示欢迎，强调建国是巴勒斯坦人的权利，「两国方案」是实现中东地区持久和平的唯一途径。摄影师：Bertrand Guay]]></summary>
-        <author>
-            <name>法国 · 巴黎</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When Financial Industry Regulators Are Judge, Prosecutor, and Beneficiary]]></title>
-        <id>https://www.nationalreview.com/?p=1878295</id>
-        <link href="https://www.nationalreview.com/2025/09/when-financial-industry-regulators-are-judge-prosecutor-and-beneficiary/"/>
-        <updated>2025-09-23T10:30:48.000Z</updated>
-        <summary type="html"><![CDATA[The Financial Industry Regulatory Authority banned me from the financial industry for life and imposed a $243,000 fine.]]></summary>
-        <author>
-            <name>Frank Black</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Palestine Recognitions from Europe and Beyond Ensure Long-Term Irrelevance]]></title>
-        <id>https://www.nationalreview.com/?p=1878150</id>
-        <link href="https://www.nationalreview.com/2025/09/palestine-recognitions-from-europe-and-beyond-ensure-long-term-irrelevance/"/>
-        <updated>2025-09-23T10:30:39.000Z</updated>
-        <summary type="html"><![CDATA[Several countries join a growing list whose recognition of a Palestinian state will ironically shut them out of the future Middle East.]]></summary>
-        <author>
-            <name>Naftali Shavelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The U.N. Deserves a Trumpian Reckoning]]></title>
-        <id>https://www.nationalreview.com/?p=1878359</id>
-        <link href="https://www.nationalreview.com/2025/09/the-u-n-deserves-a-trumpian-reckoning/"/>
-        <updated>2025-09-23T10:30:31.000Z</updated>
-        <summary type="html"><![CDATA[A fundamental reassessment of the United Nations has been long in coming. Trump may give one when he addresses the body.]]></summary>
-        <author>
-            <name>Danielle Pletka and Brett D. Schaefer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trump Doubles Down on Lawfare]]></title>
-        <id>https://www.nationalreview.com/?p=1878267</id>
-        <link href="https://www.nationalreview.com/2025/09/trump-doubles-down-on-lawfare/"/>
-        <updated>2025-09-23T10:30:19.000Z</updated>
-        <summary type="html"><![CDATA[His push for AG Bondi to go after political enemies is an outrage. Sadly, Democrats paved the way for such abuses.]]></summary>
-        <author>
-            <name>The Editors</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[End Louisiana’s Lousy Lawsuits Against Energy Companies]]></title>
-        <id>https://www.nationalreview.com/?p=1878297</id>
-        <link href="https://www.nationalreview.com/2025/09/end-louisianas-lousy-lawsuits-against-energy-companies/"/>
-        <updated>2025-09-23T10:30:02.000Z</updated>
-        <summary type="html"><![CDATA[The Constitution entrusts questions of war, defense, and foreign policy to the federal government, not to state courts or parish juries.]]></summary>
-        <author>
-            <name>Christopher Mills</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国迎接76周年国庆 - September 23, 2025]]></title>
-        <id>idaily-237325</id>
-        <link href="https://m.idai.ly/se/7e4e24"/>
-        <updated>2025-09-23T09:58:00.000Z</updated>
-        <summary type="html"><![CDATA[北京天安门广场迎接建国76周年「祝福祖国」巨型花篮亮相。9月22日，天安门广场2025年国庆花坛正式搭建完成，这座立体花坛高18米，直径12米，装饰元素包括荷花、月季、珙桐、橄榄枝、向日葵、山丹等代表美好寓意的花卉，表达对祖国繁荣富强、世界和平发展的美好祝福。2025年中国国庆假期为10月1日至8日，中国国家铁路集团预计国庆假期全国铁路发送旅客将达到2.19亿人次，日均计划开行旅客列车约1.3万列。摄影师：iDaily Media]]></summary>
-        <author>
-            <name>中国 · 北京</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[社区速递 111 | 派友的 iOS 26 桌面长啥样，以及 500 元投影仪体验]]></title>
-        <id>https://sspai.com/post/102712</id>
-        <link href="https://sspai.com/post/102712"/>
-        <updated>2025-09-23T09:24:38.000Z</updated>
-        <summary type="html"><![CDATA[除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。💬一派热议在 ...查看全文]]></summary>
-        <author>
-            <name>Matrix机器人</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特朗普“退群”制造联合国权力真空，威权国家争相填补]]></title>
-        <id>https://cn.nytimes.com/usa/20250923/trump-un-china-authoritarian/dual</id>
-        <link href="https://cn.nytimes.com/usa/20250923/trump-un-china-authoritarian/dual"/>
-        <updated>2025-09-23T09:06:03.000Z</updated>
-        <summary type="html"><![CDATA[马语琴2025年9月23日2月，特朗普总统呼吁全面审查美国对联合国的资金支持及参与情况。 Eric Lee/The New York Times
-As President Trump threatened to slash American funding for the United Nations this spring, diplomats from around the world met privately at a lakeside resort in Switzerland to weigh painful spending cuts.
-今年春天，在特朗普总统威胁大幅削减美国对联合国的资金支持之际，来自世界各地的外交官在瑞士的一个湖畔度假地私下举行会晤，商讨痛苦的削减开支方案。
-One proposal hinted at the potential cost of America’s withdrawal: What if the United Nations cut funding for human rights investigations?
-其中一项提议暗示了美国撤回支持可能导致的代价：如果联合国削减对人权调查的资助，会发生什么？
-The ambassadors of China and Cuba, which have long faced scrutiny over their own rights records, were the ones pushing to limit inquiries into government-sanctioned abuses like torture, war crimes, and jailing of dissidents, according to two diplomats who attended…]]></summary>
-        <author>
-            <name>纽约时报双语版</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国福建舰电磁弹射成功 - September 23, 2025]]></title>
-        <id>idaily-237324</id>
-        <link href="https://m.idai.ly/se/8011ut"/>
-        <updated>2025-09-23T08:57:00.000Z</updated>
-        <summary type="html"><![CDATA[中国人民解放军海军「歼-35」隐身战斗机在福建舰航母上进行电磁弹射起降训练。9月22日，中国海军宣布「歼-15T」、「歼-35」和「空警-600」三型舰载机成功完成在福建舰上的首次电磁弹射起飞和着舰训练。「歼-35」成为世界上第一款在航母上实现电磁弹射的第五代战斗机。福建舰是中国自主设计建造的第一艘弹射型航空母舰，采用平直通长飞行甲板，配置电磁弹射和阻拦装置，电磁弹射系统响应时间仅需15分钟，满载排水量8万余吨，可搭载约60架军机，作战半径覆盖西太平洋第二岛链。摄影师：Li Tang]]></summary>
-        <author>
-            <name>太平洋</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国众议院代表团访华 - September 23, 2025]]></title>
-        <id>idaily-237317</id>
-        <link href="https://m.idai.ly/se/fd4vhZ"/>
-        <updated>2025-09-23T08:55:00.000Z</updated>
-        <summary type="html"><![CDATA[中国国务院副总理何立峰与美国众议院军事委员会民主党领袖 Adam Smith 出席双边会谈，北京。9月21日，美国众议院代表团时隔6年首次访华。中美双方就两国关系、两军关系、核扩散和核现代化计划、贸易关税、打击芬太尼、稀土资源出口、人工智能等议题交换意见。中国国务院总理李强表示，中方愿同美方通过沟通解决各自关切，希望美国国会正确看待中国和中美关系，积极促进两国交流合作，为两国友好和共同发展发挥建设性作用。摄影师：Mahesh Kumar A.]]></summary>
-        <author>
-            <name>中国 · 北京</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[普京提议延长核控条约 - September 23, 2025]]></title>
-        <id>idaily-237316</id>
-        <link href="https://m.idai.ly/se/926141"/>
-        <updated>2025-09-23T08:53:00.000Z</updated>
-        <summary type="html"><![CDATA[俄罗斯总统 Vladimir Putin 主持召开俄安全委员会议，莫斯科。9月22日，俄总统 Putin 宣布俄罗斯愿意在2026年2月5日《新削减战略武器条约》到期之后一年内继续遵守该条约规定的限制，前提是美国采取类似行动并不破坏或违反现有威慑平衡。Putin 批评西方国家破坏了核大国之间的对话基础和建设性关系，强调俄罗斯无意加剧紧张局势或助长军备竞赛，但是完全有能力应对任何现有或新出现的威胁。Putin 警告称，如果美国在太空部署反导系统，将导致俄方维持现状的努力归零。摄影师：Alexander Kazakov]]></summary>
-        <author>
-            <name>俄罗斯 · 莫斯科</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本自民党总裁竞选启动 - September 23, 2025]]></title>
-        <id>idaily-237315</id>
-        <link href="https://m.idai.ly/se/63aZaO"/>
-        <updated>2025-09-23T08:51:00.000Z</updated>
-        <summary type="html"><![CDATA[日本自民党总裁选举候选人出席联合记者会，东京。9月22日，日本自民党总裁选举进入12天竞选期，最终5名候选人分别为内阁官房长官林芳正、农相小泉进次郎、前经济安保相小林鹰之、前经济安保相高市早苗和自民党前干事长茂木敏充，正式投票日期为10月4日。《朝日新闻》发布的自民党党内民调显示，现任农林水产大臣小泉进次郎以41%支持率排名第一，其核心政策主张包括经济为优先，努力实现国民收入增长超过物价涨幅；前经济安保担当大臣高市早苗以24%的支持率排名第二，其核心政策主张包括采取积极经济刺激措施，扩大执政联盟框架。摄影师：Franck Robichon]]></summary>
-        <author>
-            <name>日本 · 东京</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[金正恩强调不放弃核武 - September 23, 2025]]></title>
-        <id>idaily-237313</id>
-        <link href="https://m.idai.ly/se/016ly5"/>
-        <updated>2025-09-23T08:49:00.000Z</updated>
-        <summary type="html"><![CDATA[朝鲜最高领导人金正恩出席第十四届最高人民会议第十三次会议，平壤。9月21日，朝鲜第十四届最高人民会议第十三次会议在平壤万寿台议事堂举行。金正恩在讲话中概述2025年朝鲜各经济部门取得的成就，分析朝鲜半岛及周边局势并阐明朝鲜政府对美韩双方的原则立场。金正恩表示朝鲜不会与韩国进行任何谈判，原因是韩国已成为「在各个领域均已美国化的畸形体、殖民地属国」，他强调朝鲜永远不会放弃核武器，朝美元首会晤的前提是美国放弃「朝鲜无核化」的执念。摄影师：KCNA]]></summary>
-        <author>
-            <name>朝鲜 · 平壤</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[奥赛博物馆萨金特展 - September 23, 2025]]></title>
-        <id>idaily-237311</id>
-        <link href="https://m.idai.ly/se/ece4lR"/>
-        <updated>2025-09-23T08:47:00.000Z</updated>
-        <summary type="html"><![CDATA[法国奥赛博物馆举办「萨金特：璀璨巴黎」特展，一幅美国画家 John Singer Sargent 1884年作品《X夫人的肖像》（Portrait of Madame X）正在展出，巴黎。本次展览是法国举办的首个萨金特回顾展，旨在纪念其逝世100周年，由法国奥赛博物馆与纽约大都会艺术博物馆联合策展，共展出超过90件萨金特作品，回顾这位画家从1874年至1885年在巴黎度过的早期艺术生涯。展期持续至2026年1月11日。摄影师：Teresa Suarez]]></summary>
-        <author>
-            <name>法国 · 巴黎</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[玛雅古城遗址庆祝秋分 - September 23, 2025]]></title>
-        <id>idaily-237310</id>
-        <link href="https://m.idai.ly/se/e394iO"/>
-        <updated>2025-09-23T08:45:00.000Z</updated>
-        <summary type="html"><![CDATA[萨尔瓦多原住民聚集在塔苏莫古城（Tazumal）庆祝秋分日，查尔丘阿帕。9月22日是北半球秋分日，标志着夏季的结束。当天萨尔瓦多原住民在塔苏莫古城遗址举行传统玛雅仪式，向火坛投入祭品，以祈求健康、丰收与繁荣。塔苏莫古城位于萨尔瓦多西部的查尔丘阿帕市，是世界上唯一幸存历经玛雅文明三个阶段的古代遗址，时间横跨从公元100年至1200年，主体金字塔高度达24米。摄影师：Alex Pena]]></summary>
-        <author>
-            <name>萨尔瓦多 · 查尔丘阿帕</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[国家能源局：8月份全社会用电量再破万亿，同比增长5.0%]]></title>
-        <id>https://www.thepaper.cn/newsDetail_forward_31664791</id>
-        <link href="https://www.thepaper.cn/newsDetail_forward_31664791"/>
-        <updated>2025-09-23T07:23:05.000Z</updated>
-        <summary type="html"><![CDATA[9月23日，国家能源局发布8月份全社会用电量等数据。
-8月份，全社会用电量10154亿千瓦时，同比增长5.0%。从分产业用电看，第一产业用电量164亿千瓦时，同比增长9.7%；第二产业用电量5981亿千瓦时，同比增长5.0%；第三产业用电量2046亿千瓦时，同比增长7.2%；城乡居民生活用电量1963亿千瓦时，同比增长2.4%。
-1-8月，全社会用电量累计68788亿千瓦时，同比增长4.6%，其中规模以上工业发电量为64193亿千瓦时。从分产业用电看，第一产业用电量1012亿千瓦时，同比增长10.6%；第二产业用电量43386亿千瓦时，同比增长3.1%；第三产业用电量13297亿千瓦时，同比增长7.7%；城乡居民生活用电量11094亿千瓦时，同比增长6.6%。]]></summary>
-        <author>
-            <name>澎湃新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[广东中山：深中通道临时封闭]]></title>
-        <id>https://www.thepaper.cn/newsDetail_forward_31664879</id>
-        <link href="https://www.thepaper.cn/newsDetail_forward_31664879"/>
-        <updated>2025-09-23T07:23:04.000Z</updated>
-        <summary type="html"><![CDATA[根据广东省气象台监测研判，预计今年第18号台风“桦加沙”将于9月24日在珠海到徐闻一带沿海地区以强台风级或超强台风级（14-16级）登陆，台风10级风圈将覆盖深中通道所在区域。受台风影响，自9月23日20时起至24日，深中通道全线将有暴雨到大暴雨过程，且23日傍晚起风力将逐渐加大，24日0时起阵风或将达到14-15级。]]></summary>
-        <author>
-            <name>澎湃新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[云南铁路预计国庆中秋假期客流创新高，计划增开69列临客车]]></title>
-        <id>https://www.thepaper.cn/newsDetail_forward_31664881</id>
-        <link href="https://www.thepaper.cn/newsDetail_forward_31664881"/>
-        <updated>2025-09-23T07:23:04.000Z</updated>
-        <summary type="html"><![CDATA[据中国铁路昆明局集团有限公司（下称“国铁昆明局”）消息，今年铁路国庆中秋假期运输期限自9月29日起至10月10日，共计12天。其间，国铁昆明局预计将发送旅客超490万人次，日均发送旅客40.85万人次，较去年同期增长12.2%。客流将呈现“头尾长途多、中间中短途多”的特点，高峰日预计出现在9月30日、10月1日、7日和8日，客流总量和峰值均有望创历史新高。旅游流、探亲流、学生流交织叠加，出行需求将得到全面释放。]]></summary>
-        <author>
-            <name>澎湃新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从零打造可行、可用的产品：Dify AI 工作流上手指南]]></title>
-        <id>https://sspai.com/post/102434</id>
-        <link href="https://sspai.com/post/102434"/>
-        <updated>2025-09-23T07:00:16.000Z</updated>
-        <summary type="html"><![CDATA[Dify 的大多数功能几乎不需要使用者拥有编程技能，加之 Dify 官方设计好了众多开箱即用的工作流节点，结合插件市场提供丰富的三方生态，相信你也可以快速搭建属于自己的 AI 工作流。查看全文]]></summary>
-        <author>
-            <name>别为馒头</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苏超、浙BA为什么火？两省体育局长当面交流道出“真经”]]></title>
-        <id>https://www.thepaper.cn/newsDetail_forward_31664045</id>
-        <link href="https://www.thepaper.cn/newsDetail_forward_31664045"/>
-        <updated>2025-09-23T06:53:03.000Z</updated>
-        <summary type="html"><![CDATA[二十天内，被国家体育总局在国新办新闻发布会、政策吹风会上接连点赞——苏超、浙BA为什么这么火？日前，2025年华东区体育局长会议在杭州召开，江苏、浙江两省体育局局长在座谈交流时道出“真经”。
-据浙江省体育局官网9月22日发布的会议消息，江苏省体育局党组书记、局长陈少军表示，“苏超”的成功举办，一方面源于民间智慧的成功运用，另一方面也说明群众体育赛事在活跃社会文化、促进经济发展方面具有极大潜力，为未来群众体育赛事的举办提供了新视野、新思路。
-澎湃新闻注意到，办赛初期，“苏超”凭借以地域文化为核心，又有全新表达的“热梗”出道，官方以普通人的立场造梗、接梗、引导梗，让民间创意得以舒张、风行。至常规赛前十一轮，“苏超”66场比赛吸引171.6万人次现场观赛，线上观看近15亿人次；各设区市推出贯穿赛期的文旅活动和消费场景，打造众多集观赛、美食、互动娱乐等于一体的“第二现场”，组织开展老字号、外贸优品等展销活动，收获了“流量红利”。
-同时，苏超“业余球员+城市对抗+全域联动+文旅融合”的组合拓宽了群众性体育赛事的办赛思路。目前，全国范围内对标“苏超”优化赛制的“超字号”省级业余足球联赛就有8个。
-
-南京地铁推出“快乐‘苏超’主题摄影展”，200余幅作品展现了“苏超”的激情瞬间。陈俨 图
-
-
-浙江人均体育场地面积3.17平方米，全省24.4万个运动设施中篮球场有5.5万个。“浙BA”即7月启动的省城市篮球联赛，是浙江在赛事促消费、促发展方面的新探索，以“赛事引流、文商旅农融合”火爆出圈。
-该省体育局党组书记、局长金志认为，“浙BA”初见成效，主要在于“群众篮球”“业余联赛”的精准定位，“预选赛+城市争霸赛”的全新赛程设计，一场体育盛会、一场文旅盛宴、一场美食大餐、一场展销集市、一个科技窗口的“五个一”办赛模式，并通过政府主导、市场运作，确保办赛高效筹备、高标准推进。通过这样的方式，赛事将成为全域嘉年华、全民狂欢节，实现让老百姓动起来、城市活起来、消费旺起来、产业兴起来。
-过去一年，上海举办178项国际国内体育赛事，开展全民健身赛事活动近万场。市体育局党组书记、局长徐彬在华东区体育局长会议上表示，上海围绕打造国际一流体育赛事之都，正谋划打造火爆出圈、群众喜爱的品牌赛事。他认为，“苏超”“浙BA”“赣超”的火爆并非偶然，未来体育赛事应结合商旅文农资源融合发展，实现赛事主场向消费主场的转型升级。
-9月初，国务院办公厅发布《关于释放体育消费潜力进一步推进体育产业高质量发展的意见》，作出扩大体育产品供给、激发体育消费需求、壮大体育经营主体等一系列政策安排。作为我国经济最活跃的区域之一，此次华东区体育局长会议达成共识：在发展赛事经济方面联动合作，共同谋划举办区域特色赛事，在赛事资源、市场推广、人才培养等方面共享与合作，体系化打造品牌赛事，共同营造有利于赛事经济发展的政策环境，吸引更多优质赛事和体育企业落户。]]></summary>
-        <author>
-            <name>澎湃新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我国移动互联网用户数突破16亿，8月户均接入流量20.87GB]]></title>
-        <id>https://www.thepaper.cn/newsDetail_forward_31664143</id>
-        <link href="https://www.thepaper.cn/newsDetail_forward_31664143"/>
-        <updated>2025-09-23T06:53:03.000Z</updated>
-        <summary type="html"><![CDATA[2025年前8个月通信业经济运行情况
-前8个月，通信业呈现平稳运行态势。电信业务量收保持增长，新型基础设施建设有序推进，5G、千兆、物联网等用户规模持续扩大，移动互联网接入流量保持较快增势。
-一、总体运行情况
-
-电信业务收入保持正增长，电信业务总量较快增长。前8个月，电信业务收入累计完成11821亿元，同比增长0.8%。按照上年不变价计算的电信业务总量同比增长8.8%。
-
-图1 电信业务收入和电信业务总量累计增速
-
-
-二、电信用户发展情况
-固定宽带接入用户规模稳步扩大，千兆用户数持续增加。截至8月末，三家基础电信企业的固定互联网宽带接入用户总数达6.89亿户，比上年末净增1885万户。其中，100Mbps及以上接入速率的固定互联网宽带接入用户达6.55亿户，占总用户数的95.2%；1000Mbps及以上接入速率的固定互联网宽带接入用户达2.33亿户，比上年末净增2664万户，占总用户数的33.9%，占比较上年末提升3个百分点。
-移动电话用户稳中有增，5G用户规模持续扩大。截至8月末，三家基础电信企业及中国广电的移动电话用户总数达18.19亿户，比上年末净增2953万户。其中，5G移动电话用户达11.54亿户，比上年末净增1.4亿户，占移动电话用户的63.4%。
-
-图2 5G移动电话用户情况
-
-
-移动物联网终端用户增长较快，互联网电视（IPTV、OTT）稳步增加。截至8月末，三家基础电信企业发展移动物联网终端用户28.72亿户，比上年末净增2.16亿户。互联网电视（IPTV、OTT）用户数达4.12亿户，比上年末净增424.6万户。
-三、电信业务使用情况
-移动互联网流量延续较快增势，8月DOU值处于高位。前8个月，移动互联网累计流量达2534亿GB，同比增长16.4%。截至8月末，移动互联网用户数达16.01亿户，比上年末净增3132万户。8月当月户均移动互联网接入流量（DOU）达到20.87GB/户·月，同比增长14.3%，比上年底高1.17GB/户·月。
-移动电话通话量持续下滑，移动短信业务量保持快速增长。前8个月，移动电话去话通话时长完成1.4万亿分钟，同比下降5.4%；固定电话主叫通话时长完成452.9亿分钟，同比下降12.6%。前8个月，全国移动短信业务量同比增长21.9%；移动短信业务收入同比增长0.4%。
-四、通信能力情况
-千兆光纤宽带网络建设有序推进。截至8月末，全国互联网宽带接入端口数量达12.39亿个，比上年末净增3710万个。其中，光纤接入（FTTH/O）端口达到11.98亿个，比上年末净增3771万个，占互联网宽带接入端口的96.7%。截至8月末，具备千兆网络服务能力的10G PON端口数达3076万个，比上年末净增255.1万个。
-5G网络建设稳步推进。截至8月末，5G基站总数达464.6万个，比上年末净增39.5万个，占移动基站总数的36.3%，占比较前7个月提高0.3个百分点。
-五、地区发展情况
-各地区千兆、5G用户渗透率持续提升。截至8月末，东、中、西部和东北地区1000Mbps及以上固定宽带接入用户渗透率分别为33.9%、33.5%、35.7%和27.1%，较上年末分别提升2.7个、2.3个、4个和3.5个百分点；5G移动电话用户渗透率分别为63.1%、64%、63.3%、63.9%，较上年末分别提升6.4个、6.8个、7个和7.6个百分点。
-各地区移动互联网接入流量增速保持两位数水平。前8个月，东、中、西部和东北地区移动互联网接入流量分别达到1063亿GB、595.2亿GB、724.7亿GB和150.5亿GB，同比增长16.4%、16.2%、15%和25.2%。
-
-
-获取更多RSS：
-https://feedx.net 
-https://feedx.site]]></summary>
-        <author>
-            <name>澎湃新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[超30亿！《南京照相馆》票房再创新高]]></title>
-        <id>https://www.thepaper.cn/newsDetail_forward_31664484</id>
-        <link href="https://www.thepaper.cn/newsDetail_forward_31664484"/>
-        <updated>2025-09-23T06:53:03.000Z</updated>
-        <summary type="html"><![CDATA[据网络平台数据，电影《南京照相馆》总票房（含预售）破30亿。
-
-还原不能忘却的历史真相
-电影《南京照相馆》口碑票房双赢
-电影《南京照相馆》取材于南京大屠杀期间日军真实罪证影像，故事围绕“日军罪证照片”展开。
-电影以历史照片为依据，揭示了日军罪证照片的来源，展现了罪证得以曝光的艰难险阻。
-面对日军，手无寸铁的百姓没有退缩，他们以底片作为“武器”完成了一场坚定的抗争。
-
-电影《南京照相馆》由刘昊然、王传君、高叶、王骁主演，于7月25日全国上映。在纪念中国人民抗日战争暨世界反法西斯战争胜利80周年之际，《南京照相馆》将历史“具象化”地呈现在观众眼前。
-此前，电影《南京照相馆》已宣布延长上映，密钥延期至2025年9月24日。]]></summary>
-        <author>
-            <name>澎湃新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[教育部：五年新增63所职业本科学校，52所普通高校开设职业本科专业]]></title>
-        <id>https://www.thepaper.cn/newsDetail_forward_31664515</id>
-        <link href="https://www.thepaper.cn/newsDetail_forward_31664515"/>
-        <updated>2025-09-23T06:53:03.000Z</updated>
-        <summary type="html"><![CDATA[“十四五”期间我国新增了63所职业本科学校，52所普通高校开设了职业本科专业。
-9月23日，在国新办举行的“高质量完成‘十四五’规划”系列主题新闻发布会上，谈到“十四五”期间的职业教育发展时，教育部副部长熊四皓指出，大国工匠、高技能人才是国家战略人才的重要组成部分，是推动产业创新升级的重要人力资源。我国职业教育供给了现代产业70%以上新增高素质高技能人才。
-“回望‘十四五’，我想用四句话来介绍职业教育推动‘中国制造’走向‘中国创造’、培养高技能人才等方面我们所做的工作和取得的成效。”熊四皓表示，一是健全体系。目前，我国职业院校有中职、高职和本科三个层次，中职学校有9302所，高职有1562所，职业本科有87所，在校生共3400万人，我们建成了世界上规模最大的职业教育体系。一共设置了19个专业大类、97个专业类、1434个专业、12万个专业点，基本涵盖了国民经济各领域，全面覆盖了联合国产业分类的41个工业大类。
-二是优化结构。围绕国家战略调整专业结构：五年新增了专业点1.2万个，年均调整达到10%；专业点的50%为工程、技术类专业。围绕产业升级完善层次结构：五年新增了63所职业本科学校，52所普通高校开设了职业本科专业。围绕区域和产业发展重点优化布局结构：组建了市域产教联合体、行业产教融合共同体，提升技能人才培养与区域经济、产业发展的匹配度。
-三是提升质量。着眼“办学能力高水平、产教融合高质量”，实施第二期“中国特色高水平高职学校和专业建设计划”，建设技能型高校的“国家队”。组织校校联合、企企联手、校企对接，实施“高技能人才集群培养计划”，推动行业企业向职业院校开放技术标准、生产资源、职业场景，让学生在生产一线、真实环境中，锻炼实践能力，提高实战本领。
-四是营造环境。党中央高度重视职业教育，国家相关部委、行业企业、各级政府以及社会各界实实在在支持技能人才培养。职业院校建设了一大批劳动教育、职业体验中心，为广大中小学生开展职业启蒙教育；每年5月，举办职业教育活动周……通过这些载体，“劳动光荣、技能宝贵、创造伟大”的时代风尚得到大力弘扬。]]></summary>
-        <author>
-            <name>澎湃新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吉林省纪委副书记武胜国履新吉林省委组织部常务副部长]]></title>
-        <id>https://www.thepaper.cn/newsDetail_forward_31664727</id>
-        <link href="https://www.thepaper.cn/newsDetail_forward_31664727"/>
-        <updated>2025-09-23T06:53:03.000Z</updated>
-        <summary type="html"><![CDATA[据“吉林人大”微信公众号消息，9月22日，省十四届人大常委会第十九次会议在长春举行。会议听取了省委组织部常务副部长武胜国作的关于省人大常委会主任会议提请决定接受有关辞职人员辞职事项的说明。
-上述消息显示，武胜国已任吉林省委组织部常务副部长。]]></summary>
-        <author>
-            <name>澎湃新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全国秋粮收获近两成，1000万台套农机具参加“三秋”作业]]></title>
-        <id>https://www.thepaper.cn/newsDetail_forward_31664653</id>
-        <link href="https://www.thepaper.cn/newsDetail_forward_31664653"/>
-        <updated>2025-09-23T06:23:04.000Z</updated>
-        <summary type="html"><![CDATA[眼下，我国秋粮正陆续成熟，开镰收获。农业农村部最新农情调度显示，全国秋粮收获近两成，其中，中稻收获过三成，玉米大豆过一成。]]></summary>
-        <author>
-            <name>澎湃新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[教育部：五年新增63所职业本科学校，52所普通高校开设职业本科专业]]></title>
-        <id>https://www.thepaper.cn/newsDetail_forward_31664654</id>
-        <link href="https://www.thepaper.cn/newsDetail_forward_31664654"/>
-        <updated>2025-09-23T06:23:04.000Z</updated>
-        <summary type="html"><![CDATA[“十四五”期间我国新增了63所职业本科学校，52所普通高校开设了职业本科专业。
-9月23日，在国新办举行的“高质量完成‘十四五’规划”系列主题新闻发布会上，谈到“十四五”期间的职业教育发展时，教育部副部长熊四皓指出，大国工匠、高技能人才是国家战略人才的重要组成部分，是推动产业创新升级的重要人力资源。我国职业教育供给了现代产业70%以上新增高素质高技能人才。]]></summary>
-        <author>
-            <name>澎湃新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[教育部：全面提升县中办学水平，持续扩大普通高中学位供给]]></title>
-        <id>https://www.thepaper.cn/newsDetail_forward_31664490</id>
-        <link href="https://www.thepaper.cn/newsDetail_forward_31664490"/>
-        <updated>2025-09-23T05:53:03.000Z</updated>
-        <summary type="html"><![CDATA[“扩充资源，适应学龄人口变化，持续扩大普通高中学位供给，不断提升农村学生接受普通高中教育的机会。”9月23日，在国新办举行的“高质量完成‘十四五’规划”系列主题新闻发布会上，回应县中振兴行动计划相关提问时，教育部部长怀进鹏说道。]]></summary>
-        <author>
-            <name>澎湃新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国从联合国“撤退”，北京趁机提升影响力]]></title>
-        <id>https://cn.nytimes.com/china/20250923/china-united-nations-trump/dual</id>
-        <link href="https://cn.nytimes.com/china/20250923/china-united-nations-trump/dual"/>
-        <updated>2025-09-23T05:36:03.000Z</updated>
-        <summary type="html"><![CDATA[马语琴2025年9月23日2024年，中国最高领导人习近平同夫人彭丽媛在北京迎接联合国秘书长安东尼奥·古特雷斯。 Pool photo by Andres Martinez Casares
-China has long sought greater influence in international bodies. Now, as the White House cuts funding for the United Nations and other global organizations, it finally has its chance.
-中国长期以来一直寻求扩大在国际机构中的影响力。如今，随着白宫削减对联合国及其他全球组织的资金支持，中国终于迎来了机会。
-And instead of trying to match America’s deep pockets, as once seemed necessary, Beijing can gain influence on the cheap.
-北京无需再像过去那样与美国展开财力比拼，如今可以用较低成本来获得影响力。
-The Trump administration has canceled billions in funding for the United Nations, the U.S. Agency for International Development and other international aid agencies. The clawback has aggravated a pre-existing U.N. budget crisis, prompting widespread cuts.
-特朗普政府已取消对联合国、美国国际开发署等国际援助机构数十亿美元的资助，这加剧了联合国本已存…]]></summary>
-        <author>
-            <name>纽约时报双语版</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[广州一医院发生伤医事件，知情人：凶手反锁房门行凶，医生多脏器损伤严重]]></title>
-        <id>https://www.thepaper.cn/newsDetail_forward_31664235</id>
-        <link href="https://www.thepaper.cn/newsDetail_forward_31664235"/>
-        <updated>2025-09-23T05:23:03.000Z</updated>
-        <summary type="html"><![CDATA[9月22日，广州中医药大学第一附属医院发生伤医事件，该院骨伤中心主任王海彬教授出诊时遭遇袭击受伤。澎湃新闻记者从该院一位知情人处获悉，王医生目前虽脱离生命危险，但伤情仍然严重。
-
-广州中医药大学附一院
-
-
-据该知情人介绍，行凶者是王医生多年前的膝关节手术患者，一周前曾来找过王医生。9月22日上午，该名患者持刀入院，反锁了房门对王医生行凶，导致王医生多处受伤严重。目前王医生已经脱离生命危险，被送到ICU，但由于多处重要脏器损伤严重，后续恢复情况或许不乐观。
-据《中国新闻周刊》报道，王医生是22日上午出诊，有两名学生跟诊，事发时跟诊学生均未受伤。跟诊学生称：“王老师是一个特别好的人，科研临床教学三手抓，对待病人也特别有耐心，手术技术高超，我们都很爱戴他，患者们的口碑也非常好。希望大家多一些包容和理解，祝王老师早日康复。”目前行凶者已经被抓捕。
-广州中医药大学第一附属医院官网信息显示，王医生1971年4月生于山东，博士生导师，教授，从医30余年，是广东省首位中医骨科博士后，现为广州中医药大学全国重点学科骨科实验室主任。]]></summary>
-        <author>
-            <name>澎湃新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[广州一医院发生伤医事件，知情人：凶手反锁房门行凶，医生多脏器损伤严重]]></title>
-        <id>https://www.thepaper.cn/newsDetail_forward_31664427</id>
-        <link href="https://www.thepaper.cn/newsDetail_forward_31664427"/>
-        <updated>2025-09-23T05:23:03.000Z</updated>
-        <summary type="html"><![CDATA[9月22日，广州中医药大学第一附属医院发生伤医事件，该院骨伤中心主任王海彬教授出诊时遭遇袭击受伤。澎湃新闻记者从该院一位知情人处获悉，王医生目前虽脱离生命危险，但伤情仍然严重。
-
-
-获取更多RSS：
-https://feedx.net 
-https://feedx.site]]></summary>
-        <author>
-            <name>澎湃新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[股价连创新高，中际旭创各路股东接连减持：实控人之子套现超2亿元]]></title>
-        <id>https://www.thepaper.cn/newsDetail_forward_31664433</id>
-        <link href="https://www.thepaper.cn/newsDetail_forward_31664433"/>
-        <updated>2025-09-23T05:23:03.000Z</updated>
-        <summary type="html"><![CDATA[股价连创新高的CPO龙头中际旭创（300308.SZ），遭遇接连减持。据深交所最新消息，9月19日，中际旭创董事兼常务副总裁王晓东通过竞价交易，减持5000股公司股份，成交均价为420.01元/股，套现210万元。王晓东为中际旭创实际控制人王伟修之子。]]></summary>
-        <author>
-            <name>澎湃新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[反复横跳的政策与被当作筹码的中国留学生：特朗普政府正在伤害谁]]></title>
-        <id>https://www.thepaper.cn/newsDetail_forward_31663935</id>
-        <link href="https://www.thepaper.cn/newsDetail_forward_31663935"/>
-        <updated>2025-09-23T04:53:04.000Z</updated>
-        <summary type="html"><![CDATA[眼下正值美国高校秋季学期注册高峰。对许多将美国作为留学目的地的中国学生而言，签证审批、身份续签可能受阻的现实，让求学之路充满变数。
-
-美国总统特朗普  视觉中国 资料图
-
-
-尽管美国总统特朗普在今年6月的中美元首通话中表示美方欢迎中国留学生来美学习。但特朗普政府近期针对中国留学生签证政策的不同表态，让“欢迎”与“设限”形成反差。在现实中，这些政策带来的直接后果已经落到了普通学生头上。
-正在美国普渡大学攻读计算机专业的小陈告诉澎湃新闻（www.thepaper.cn），周围朋友被吊销签证和直接遣返的情况较少，对普通留学生来说，最担心的是回国后再返美时无法正常入境。
-此次与澎湃新闻交流的两位在美留学生都谈到上述问题。
-在接受澎湃新闻采访时，复旦大学国际问题研究院教授、美国研究中心副主任赵明昊直言，特朗普政府显然将中国留学生问题当作了中美博弈的重要筹码。
-“60万中国学生”的表态与现实中的不公正对待
-在6月中美元首通话中做出欢迎中国留学生的表态两个多月后，特朗普再次提高了调门。
-8月25日，特朗普在白宫回答记者提问时表示中美关系很重要，尽管他听到很多美国“不允许中国学生来”的说法，但他表示“我们会允许的，这非常重要——60万名学生。”次日，特朗普在内阁会议上再次声称很“荣幸”能有中国学生来美国留学，帮助美国大学维持运营。
-然而，这段时间以来，美国政府的实际行动却与特朗普的表态大相径庭。
-
-美国国务卿鲁比奥  视觉中国 资料图
-
-
-早在今年5月，美国国务卿鲁比奥就表示，美国将开始吊销部分中国学生的签证，其中包括就读“关键领域”的学生，并要求领事系统在调整更严格社媒审查标准前暂停新增F、M、J类签证面试的安排。同一时期，移民与海关执法局（ICE）与其他部门也采取了一系列更强硬的审查与执法动作，直接影响部分在美学生的身份与出入境计划。此轮动作被美方定性为“防范学术渗透”和“国家安全需要…]]></summary>
-        <author>
-            <name>澎湃新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[接住电话那端的情绪：上海心理热线的接线志愿者们]]></title>
-        <id>https://www.thepaper.cn/newsDetail_forward_31663860</id>
-        <link href="https://www.thepaper.cn/newsDetail_forward_31663860"/>
-        <updated>2025-09-23T04:53:04.000Z</updated>
-        <summary type="html"><![CDATA[“每个人都有可能走到心灵的迷宫里，你很痛苦，觉得没有希望，心理热线可能就像一座灯塔，帮你去照亮，让你发现不是都像你想得那么可怕。”
-“凌晨的来电往往是更加棘手的，经常伴随着咨询者轻生的念头或倾向，这对接线员来说是身体和心理的双重考验。”
-自卑、焦虑、孤独、愤怒、恐惧、无助……生活中总有一些情绪、情感，有时不方便向身边亲友倾诉，或者尚未准备好求助医生，但你仍需要有人给你一个温暖的倾听。拨打12356也许是一个选项。2025年5月起，各地现有心理援助热线与“12356”连接，实现一个号码接通心理援助热线。近日，我们采访了上海市心理援助热线的接线志愿者，记录了一年接通超6万通咨询电话背后，这条热线的日常和来电者们的心事。
-以下是他们的口述：
-金金
-上海市心理援助热线负责人，上海精神卫生中心副主任医师
-
-金金
-
-
-上海市心理热线最早诞生于1990年，当时受到国外一些心理热线的启发，国内也有一些心理危机发生，就开始做了这条心理热线。后来还有一些公共卫生事件，每到这个时候，热线的作用是非常突出的，因为人们不可能冒着感染的风险随便跑，但又很害怕，怎么办？那就打电话。
-
-1990年，上海市精神卫生中心参与心理援助公益热线的医生
-
-
-平时我们接的电话，一般接线时长可能在一刻钟到三十分钟，但如果这个电话涉及到了一些危险，比如来电者可能有自伤自杀的行为，我们就可能会适当地把咨询时间延长。
-来电咨询的问题主要有这么几大块，一是关于学业的，第二是情感类。有些问题可能在现实中讲出来觉得有些矫情，到医院又不至于去讲自己的情感困扰，有些人会在下班之后，夜深人静的时候来咨询一下自己的情感问题。第三大块和职场压力有关，关于“内卷”，虽然努力了，但可能是无效的。我觉得这是这两年大众比较会感到困扰的问题，就是好像在努力，好像已经拼尽全力了，但是没办法，达不到想要的效果。这两年空巢老人的问题也有一个上升的趋势。
-热…]]></summary>
-        <author>
-            <name>澎湃新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[西方多国民众：承认巴勒斯坦国“来得太晚了”]]></title>
-        <id>https://www.thepaper.cn/newsDetail_forward_31664372</id>
-        <link href="https://www.thepaper.cn/newsDetail_forward_31664372"/>
-        <updated>2025-09-23T04:53:04.000Z</updated>
-        <summary type="html"><![CDATA[近日，比利时、英国、澳大利亚、加拿大等多国民众表示，承认巴勒斯坦国“来得太晚了” ，“两国方案”是巴以和平共处的唯一可行的长期解决方案 。
-
-
-获取更多RSS：
-https://feedx.net 
-https://feedx.site]]></summary>
-        <author>
-            <name>澎湃新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[以色列誓言报复“承认潮”，内塔尼亚胡：我下周见特朗普，你们等着瞧]]></title>
-        <id>https://www.thepaper.cn/newsDetail_forward_31664398</id>
-        <link href="https://www.thepaper.cn/newsDetail_forward_31664398"/>
-        <updated>2025-09-23T04:53:04.000Z</updated>
-        <summary type="html"><![CDATA[据新华社报道，在22日举行的和平解决巴勒斯坦问题和落实“两国方案”高级别国际会议期间，法国总统马克龙宣布承认巴勒斯坦国。安道尔、比利时、卢森堡、马耳他、摩纳哥也宣布承认巴勒斯坦国。然而，以色列方面则坚称没有巴勒斯坦国，还表示将阻止人道援助船只抵达加沙地带。]]></summary>
-        <author>
-            <name>澎湃新闻</name>
         </author>
     </entry>
 </feed>
