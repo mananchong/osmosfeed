@@ -6,6 +6,16 @@
       "siteUrl": "https://rweekly.org/atom.xml",
       "articles": [
         {
+          "id": "https://rweekly.org/2025-W45.html",
+          "author": null,
+          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Jon Calder, with help from the R Weekly team members and contributors.\nHighlight\nPledging My Time VII\nBioconductor 3.22 Released\nNeon Ghosts with ggplot2\nInsights\nOf course, someone has to write imperative code to build reproducible data science pipelines. It doesn’t have to be you.\nSeptember 2025 Top 40 New CRAN Packages\nNew Council Members\nrOpenSci News Digest, October 2025\nR in Academia\nBioconductor 3.22 Released\nTutorials\nRAG with Ollama and ragnar in R: A Practical Guide for R Programmers\nPledging My Time VII\n\n#054: Faster r-ci Continuous Integration via r2u Container\nNeon Ghosts with ggplot2\nSimplifying Interactions with Complex Widgets in shinytest2 Using JavaScript A…",
+          "link": "https://rweekly.org/2025-W45.html",
+          "publishedOn": "2025-11-04T00:00:00.000Z",
+          "wordCount": 5800,
+          "title": "R Weekly 2025-W45 Pledging my time, neon ghosts, bioconductor release",
+          "imageUrl": "https://rweekly.org/public/facebook.png"
+        },
+        {
           "id": "https://rweekly.org/2025-W44.html",
           "author": null,
           "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Ryo Nakagawara & Batool Almarzouq, with help from the R Weekly team members and contributors.\nHighlight\nMapping Antarctica\nCan you predict when Lou Bega’s greatest hit, Mambo No. 5, was released based on the names of all the women mentioned in the song?\nCompositional modeling of plant communities with Dirichlet regression\nInsights\nFutures: Interrupts, Crashes, and Retries\nCan you predict when Lou Bega’s greatest hit, Mambo No. 5, was released based on the names of all the women mentioned in the song?\nCycles in Lynx Numbers\nReducing the Backlog of Open Bug Reports\nA pathetic tale of searching for an R function on Google\nR in the Real World\nInequality and homicide, within-coun…",
@@ -23,16 +33,6 @@
           "publishedOn": "2025-10-13T00:00:00.000Z",
           "wordCount": 6113,
           "title": "R Weekly 2025-W42 Aaaaand… they’re off!, Generative AI for Data Visualisation, and Behavior-Driven Development",
-          "imageUrl": "https://rweekly.org/public/facebook.png"
-        },
-        {
-          "id": "https://rweekly.org/2025-W41.html",
-          "author": null,
-          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Colin Fay, with help from the R Weekly team members and contributors.\nHighlight\nR-multiverse: a new way to publish R packages\nggplot2 styling\nThe Sovereign Tech Fund invests $450,000 in R Foundation to Enhance R’s Sustainability and Security\nInsights\nIterating some sample data\nExploring ggbot2: Creating a volcano plot with your voice\nThe Cadence of Behavior-Driven Development\nR in the Real World\nThe Sovereign Tech Fund invests $450,000 in R Foundation to Enhance R’s Sustainability and Security\nrOpenSci Code of Conduct Committee Templates\nrOpenSci News Digest, September 2025\nR-multiverse: a new way to publish R packages\nUncertainty Analysis: Gold vs. Bitcoin\nTutorials\n#052: Running r-ci with Coverage\n#051: A Neat Little Rcpp Trick\nggplot2 styling\nData Imputation and Scaling with healthyR.ai: A Guide for R Programmers\nMapply: When You Need to Iterate Over Multiple Inputs\nVoice control ggplot2 with ggbot2\nConstruct objects with idiomatic R code\nResources\nNew Packages\n📦 Go Live for More New Pkgs 📦\n -->\n📦 Keep up to date wtih CRANberries 📦\nUpdated Packages\n🔍 Search on R-universe 🔍\ntinythemes 0.0.4 at CRAN: Micro Maintenance\nVideos and Podcasts\nListen to the R-Weekly Highlights Podcast\nWeb Apps\nReal-time pricing with a pretrained probabilistic stock return model\n\n-->\n\nR Project Updates\nUpdates from R Core:\nCall for Participation\n  \n \nPost by @rOpenSci@hachyderm.io\n View on Mastodon\n  \n\n\nUpcoming Events in 3 Months\nEvents in 3 Months:\nA list of R conferences and meetings\nThis week’s local R-User and applied stats events\nWeekly R Workshops for Ukraine\nConnect\nJoin the Data Science Learning Community",
-          "link": "https://rweekly.org/2025-W41.html",
-          "publishedOn": "2025-10-06T00:00:00.000Z",
-          "wordCount": 5556,
-          "title": "R Weekly 2025-W40 Ducklake, Slidecrafting, Shiny & LLMs",
           "imageUrl": "https://rweekly.org/public/facebook.png"
         }
       ]
@@ -391,16 +391,6 @@
           "wordCount": 201,
           "title": "暗蓝评《拉纳克》丨必要或不必要的希望",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_31730853",
-          "author": null,
-          "description": "《文弱书生：前现代中国的男性气概》，宋耕著，上海书店出版社，2025年6月出版，360页，88.00元\n\n\n在近年来的中文互联网世界，“阳刚”话语被一次次重置：从热门视频中的铁血想象，到资本成功学里的强势语气；从“少年感”的妆造，到“硬核科技”的修辞——看似各说各话，其实都在争论一个问题：谁有权界定“何为男人”？那么，理想中的中国男性到底是怎样的？是“高富帅”“小鲜肉”，还是“霸道总裁”“经济适用男”？现实中的中国男性又是什么样的？“直男癌”“娘炮”还是“普信男”？这些都涉及一个基本问题：有没有（以及什么是）中国式的男性气概？脱口秀演员张骏前不久调侃，“直男癌”的早期症状是“直男炎”，主要症状就是老发炎（言）。所以，出版一本关于中国男性气概的书籍，不仅需要深厚扎实的学术功底，更需要直面“拳”打脚踢的勇气。\n面对新近译介的《文弱书生：前现代中国的男性气概》，我仿佛翻开了一幅绵密的“性别-权力”图谱。这部专著以“才子”这一颇具文化意蕴的男性形象为中心，在权力与审美的交织中重建了古代中国男性气概的谱系。作者提醒我们：男性气质从不是天赋本质，而是由礼制、文本、舞台与权力共同“生产”的。理解了“才子”作为男性气质正当形象的历史根源，我们也就更能读懂当下中国男性对自身形象的焦虑：它并非道德真理之争，而是权力话语与规训装置的位移。我们应该思考的不是谁够不够男人，而是谁在形塑“男人”。\n“文弱书生”的谱系\n首先，何为“文弱书生”？其并非自然存在的人群，而是在元明清的“爱情叙事—戏曲舞台—市民审美”三者交织中建构而成的类型化男性。所谓“阴柔”并非简单的“欠阳刚”，而是在特定历史语境中经由权力与礼制锚定的一种合理化气质。作者梳理了“小生”近年来在中西语境中遭到误读并被贬称为“娘炮”的过程，强调只有从其生成环境出发，才能理解纤弱身体如何成为文化合法的“男性美”。如《西厢记》中的张生等典型形象所代…",
-          "link": "https://www.thepaper.cn/newsDetail_forward_31730853",
-          "publishedOn": "2025-10-06T03:02:04.000Z",
-          "wordCount": 79,
-          "title": "王翔评《文弱书生》｜古典才子与当代阳刚",
-          "imageUrl": null
         }
       ]
     },
@@ -409,6 +399,206 @@
       "feedUrl": "https://feedx.net/rss/thepaper.xml",
       "siteUrl": "http://thepaper.cn",
       "articles": [
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_31894784",
+          "author": null,
+          "description": "俄罗斯总统普京11月4日签署法律，对俄罗斯国防法和兵役法做出修订。修订后的法律允许根据俄罗斯总统令征召俄军预备役人员保卫关键设施和重要民生设施。具体的征召办法由俄联邦政府制定。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_31894784",
+          "publishedOn": "2025-11-04T16:23:04.000Z",
+          "wordCount": 27,
+          "title": "征兵工作全年不间断，普京签署法律修订国防法和兵役法",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_31894255",
+          "author": null,
+          "description": "俄罗斯总统普京当地时间11月4日签署决定，由总统办公厅副主任奥列什金率领俄罗斯代表团出席在南非举行的G20峰会。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_31894255",
+          "publishedOn": "2025-11-04T15:53:03.000Z",
+          "wordCount": 27,
+          "title": "俄总统办公厅副主任奥列什金将率团出席南非G20峰会",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_31894258",
+          "author": null,
+          "description": "当地时间11月4日16时左右，印度中部恰蒂斯加尔邦发生火车相撞事故，一辆客运列车在行驶途中撞上前方的货运列车。截至当晚8时左右，事故已造成至少5人死亡，另有14人受伤。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_31894258",
+          "publishedOn": "2025-11-04T15:53:03.000Z",
+          "wordCount": 27,
+          "title": "印度恰蒂斯加尔邦发生火车相撞事故，已致5人死亡",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_31894217",
+          "author": null,
+          "description": "新华社布鲁塞尔11月4日消息，欧盟理事会4日发布公报说，理事会当天通过了向乌克兰提供第五笔定期援助款项的决定，乌克兰将获得超过18亿欧元的资金。\n公报说，这笔援助是在欧盟对乌克兰援助机制下进行的，主要将用于增强乌克兰的宏观金融稳定性，并支持其公共行政部门的持续运作。\n公报说，乌克兰援助机制于2024年3月1日生效，旨在向乌提供高达500亿欧元的稳定资金，以赠款和贷款的形式支持乌克兰在2024年至2027年期间的复苏、重建和现代化进程。自生效以来，该机制已分四期拨付了约42亿欧元、41亿欧元、35亿欧元和32亿欧元。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_31894217",
+          "publishedOn": "2025-11-04T15:23:04.000Z",
+          "wordCount": 28,
+          "title": "欧盟将再向乌克兰提供18亿欧元援助",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_31894251",
+          "author": null,
+          "description": "北京时间11月4日晚，C罗与英国名嘴皮尔斯·摩根的最新访谈内容出炉。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_31894251",
+          "publishedOn": "2025-11-04T15:23:04.000Z",
+          "wordCount": 28,
+          "title": "C罗敞开心扉：用世界杯来定义我不公平，曼联丢了精神根基",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_31894174",
+          "author": null,
+          "description": "11月4日晚，上海昆剧团全本55出《牡丹亭》荣获第十八届文华奖剧目奖。\n当晚，全本《牡丹亭》的两位主演罗晨雪、胡维露表演的剧中【惊梦】片段，作为开场节目为本届中国艺术节闭幕式拉开大幕。上海市文联专职副主席、上海市戏剧家协会主席、上海昆剧团团长谷好好作为获奖代表上台接受颁奖。\n\n上昆全本《牡丹亭》剧照\n\n\n谷好好表示，“今晚站在这个承载着中国文化艺术最高荣誉的舞台上，我的内心充满了感恩与激动。这份殊荣，不仅属于上海昆剧团，更属于滋养我们的这座城市。上海这片文化沃土，以海纳百川的胸怀、追求卓越的精神，以及对传统文化的珍视与尊重，为我们提供了最丰厚的创作土壤，和最为坚定的精神支撑。正是这座城市特有的文化气质与艺术氛围，让我们有勇气、有底气、有信心去挑战全本五十五出《牡丹亭》这座文学与艺术的高峰。\n\n昆曲《牡丹亭》作为第十四届中国艺术节闭幕式暨第十八届文华奖颁奖典礼上的开场节目表演\n\n\n汤显祖的《牡丹亭》穿越四百余年时光，是中国戏剧文学发展史上的重要里程碑。将这部文学巨著完整呈现于舞台，是几代昆曲人共同的梦想。上海昆剧团建团47年，历经十余次对《牡丹亭》的打磨与演绎，为此番全本创作奠定了坚实基础。\n2022年，上昆推出全本55出《牡丹亭》，通过上、中、下三台大戏的体量，实现传统经典的当代回归。\n导演郭小男秉持“旧中见新、新中有根”的创作理念，带领全部主创和演员进行了一次“向古典致敬”的深度跋涉。上昆秉持“守正创新”的理念，坚守昆曲艺术的本体精神和美学核心，以当代的审美视角和舞台语汇，让这部经典焕发出契合时代脉搏的新生命。\n\n罗晨雪和胡维露在文华奖颁奖仪式上表演《牡丹亭》\n\n\n自首演以来，全本《牡丹亭》已演出逾60场，足迹遍布世界17个城市及重要艺术节，并入选中宣部、文旅部、中国文联等重要展演活动。同时也创下上海昆剧团单部作品演出场次与演出收入的历史新高。\n2023年，两位主演罗晨雪和胡维露凭借该剧分获第31届中国戏剧梅花奖和第31届上海白玉兰戏剧表演艺术奖主角奖榜首。\n\n上昆全本《牡丹亭》剧照\n\n\n此次全本《牡丹亭》获得我国舞台艺术领域的政府最高奖项——文华奖，所有参与者都倍感振奋、欢欣鼓舞。\n在剧中扮演杜丽娘的罗晨雪说：“非常开心上昆全本《牡丹亭》获得文华奖。这部作品凝聚了太多心血——从排练到呈现，每一处细节都浸透着整个团队的坚守与付出。”\n扮演柳梦梅的胡维露表示能收获这份殊荣“与有荣焉”：“自2022年投入排练，我们一路风雨兼程、历经考验，既收获了观众们的喜爱，更深切体悟到传统文化复兴的澎湃力量。每场演出的背后，是台前幕后所有人的凝心聚力，正是这份合力，让我们始终保持阵容齐整、精气神饱满的状态。”\n\n上昆全本《牡丹亭》剧照\n\n\n全本《牡丹亭》全部启用青年演员，但也集齐了上昆国宝级老艺术家担任艺术指导，岳美缇、蔡正仁、张静娴、计镇华、刘异龙、张铭荣、李小平都倾囊相授。得知获奖，老艺术家们无不感到欣喜。\n岳美缇说：“祝贺上昆全本《牡丹亭》历经四年多艰辛打磨、笃定前行，终于获得文华奖。数十载梦想，今朝得圆！《牡丹亭》是昆曲史上最闪亮的坐标，是无数人心中萦绕不去的梦，众多生旦演员都是从‘游园惊梦’迈出舞台第一步。而今，上昆一代代青年演员已茁壮成长为观众喜爱的杜丽娘与柳梦梅，我心花怒放。”\n蔡正仁也由衷感到高兴，“这份沉甸甸的荣誉，不仅是对上昆艺术水准的充分肯定，更是对剧团多年来守正创新艺术实践的高度认可。昆曲艺术源远流长，离不开一代又一代人的坚守与耕耘。愿上昆以此为契机，继续潜心创作、精研技艺，排出更多经得起时间检验的经典剧目，让雅韵清音代代相传、生生不息。”\n\n上昆全本《牡丹亭》剧照\n\n\n张静娴说：“得知上昆全本《牡丹亭》荣获文华奖，我感慨万千、热泪盈眶。这部作品凝聚着上昆几代人数十年的心血，更见证了新一代年轻人的成长，是我们引以为傲的作品。文华奖对昆曲的肯定与褒奖，是对我们极大的鼓舞。”",
+          "link": "https://www.thepaper.cn/newsDetail_forward_31894174",
+          "publishedOn": "2025-11-04T14:53:03.000Z",
+          "wordCount": 90,
+          "title": "数十载梦想今朝得圆！上昆全本《牡丹亭》获文华奖剧目奖",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_31894138",
+          "author": null,
+          "description": "11月4日晚，由文化和旅游部、重庆市人民政府、四川省人民政府共同主办的第十四届中国艺术节闭幕式在重庆举行。当晚，备受瞩目的“第十八届文华奖”评奖结果也正式揭晓。\n\n上海出品在此次文华奖角逐中再创佳绩。上海昆剧团全本55出《牡丹亭》荣获文华剧目奖。上海话剧艺术中心导演何念凭借上话出品《觉醒年代》斩获第十八届文华导演奖。\n\n上海话剧艺术中心导演何念获文华导演奖\n\n\n作为全国规格最高、规模最大、最具影响力的综合性文化艺术活动，2025年10月16日-11月4日，第十四届中国艺术节在重庆与四川两地联袂举办。半个多月的时间里，从全国428部剧（节）目中脱颖而出的100部佳作入围终评，在川渝两地剧场上演。\n\n颁奖现场照片\n\n\n在本届中国艺术节闭幕式上，55个第十八届文华奖（含剧目奖、节目奖、单项奖）获奖作品最终揭晓。\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.site",
+          "link": "https://www.thepaper.cn/newsDetail_forward_31894138",
+          "publishedOn": "2025-11-04T14:53:03.000Z",
+          "wordCount": 62,
+          "title": "“文华奖”揭晓！上昆全本《牡丹亭》获剧目奖，何念获导演奖",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_31894185",
+          "author": null,
+          "description": "据环球网援引美国有线电视新闻网（CNN）4日报道，美国前副总统迪克·切尼去世，终年84岁。根据其家族声明，切尼的死因是肺炎及心脑血管疾病引发的并发症。\n\n迪克·切尼\n\n\n切尼曾作为美国前总统小布什的竞选搭档两度赢得大选，并在恐怖主义威胁、战争与经济变革交织的时代成为白宫颇具影响力的政治人物。在担任小布什副手的八年间，切尼被广泛认为是一位“影子总统”，并基于错误的假设将美国拖入了注定失败的伊拉克战争。\n在切尼生命的最后几年，尽管他仍然是一位强硬的保守派，却因对美国总统特朗普的猛烈抨击而逐渐被党内孤立。他称特朗普为“懦夫”，并指责他是美国有史以来最大的威胁。\n主导多次重大军事行动，提出“百分之一原则”\n1941年，切尼出生于内布拉斯加州。考入耶鲁大学后两年后，他选择辍学，转而在怀俄明大学完成了大学学业。\n在其政治导师兼挚友唐纳德·拉姆斯菲尔德的举荐下，切尼在1975年担任前总统福特的白宫副幕僚长，成为史上担任该职位最年轻的人。三年后，切尼当选为怀俄明州众议员。\n《纽约时报》在讣文中称，切尼虽比近代任何一位副总统都更有权势，却对更高的职位毫无野心。他拥有无可挑剔的资历和人脉，并且精于办事之道，尤其擅长低调行事。\n该报评价道，切尼的性格难以捉摸，对闲聊毫无耐心，几乎从不谈论自己，也很少接受采访或召开新闻发布会。“尽管他有时会出现在电视上宣传政府政策，也经常出现在新闻报道中，但他显然更喜欢幕后工作，而不是站在聚光灯下。”\n在老布什和小布什任内的国防和外交政策中，切尼扮演了关键角色。在老布什执政时期，身为国防部长的切尼主导了两次重大军事行动，包括推翻巴拿马领导人曼努埃尔·诺列加的入侵行动，以及第一次海湾战争。\n\n作为乔治·H·W·布什总统的国防部长，迪克·切尼虽然从未穿过军装，但在柏林墙倒塌和冷战结束后，他美国重新定义了美国的军事政策。\n\n\n与第二次伊拉克战争不同，1991年的海湾战争…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_31894185",
+          "publishedOn": "2025-11-04T14:53:03.000Z",
+          "wordCount": 44,
+          "title": "从伊拉克战争幕后推手到特朗普批评者，美国“影子总统”切尼逝世",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_31894208",
+          "author": null,
+          "description": "哈尔滨市消防救援支队11月4日发布通报，近日，哈尔滨市双城区消防救援大队消防文员招录工作引发新闻媒体和公众质疑。事件发生后，支队立即开展核查，现将情况通报如下：\n9月4日，支队发布《2025年度消防文员招录公告》，为下辖双城区消防救援大队招录消防文员（分6个岗位，共招录10人）。共33人参加了笔试和面试，因只有6人笔试成绩合格，未达到招录人数目标，支队分岗位从笔试不合格人员中，按综合成绩从高到低另选4人入围。10月21日，支队在微信公众号发布了所有报考人员综合成绩排名表和入围体检环节人员名单，在发布时未对人员身份证号码进行“脱敏”处理。\n支队在开展人员招录和信息发布工作中，未严格执行招录标准规定，暴露出相关领导和工作人员作风漂浮、责任缺失，法律意识淡薄、审核把关不严。哈尔滨市消防救援支队向被泄露个人身份信息的考生表示歉意，并将深刻反思，纠正错误，进一步完善和执行招录标准程序，对成绩不合格者不予录用。同时，支队将认真核查网民关注的问题，依纪依规对相关人员进行处理。衷心感谢并诚恳接受新闻媒体和公众的批评与监督！",
+          "link": "https://www.thepaper.cn/newsDetail_forward_31894208",
+          "publishedOn": "2025-11-04T14:53:03.000Z",
+          "wordCount": 27,
+          "title": "4名考生笔试不合格仍进招录体检名单，哈尔滨市消防救援支队通报",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_31894228",
+          "author": null,
+          "description": "据北京证券交易所披露，11月3日，北交所向杭州觅睿科技股份有限公司及其保荐机构国信证券股份有限公司就公开发行股票并在北交所上市的申请文件提出第三轮审核问询，问询函主要围绕其收入真实性核查、外协加工核查充分性以及毛利率下滑及业绩增长持续性三大核心问题。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_31894228",
+          "publishedOn": "2025-11-04T14:53:03.000Z",
+          "wordCount": 29,
+          "title": "觅睿科技北交所IPO第三轮问询：境外客户实地走访地点均在境内",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_31894238",
+          "author": null,
+          "description": "六款全球顶尖AI（人工智能）大模型参与的实盘投资比赛落下帷幕，阿里千问最终反超DeepSeek获得冠军。\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.site",
+          "link": "https://www.thepaper.cn/newsDetail_forward_31894238",
+          "publishedOn": "2025-11-04T14:53:03.000Z",
+          "wordCount": 29,
+          "title": "中国大模型赢下AI投资大赛：阿里千问、DeepSeek盈利领跑，GPT-5垫底",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_31894214",
+          "author": null,
+          "description": "11月4日晚，由文化和旅游部、重庆市人民政府、四川省人民政府共同主办的第十四届中国艺术节闭幕式在重庆举行。当晚，备受瞩目的“第十八届文华奖”评奖结果也正式揭晓。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_31894214",
+          "publishedOn": "2025-11-04T14:23:10.000Z",
+          "wordCount": 29,
+          "title": "“文华奖”揭晓！上昆全本《牡丹亭》获剧目奖，何念获导演奖",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_31894216",
+          "author": null,
+          "description": "据环球网援引美国有线电视新闻网（CNN）4日报道，美国前副总统迪克·切尼去世，终年84岁。根据其家族声明，切尼的死因是肺炎及心脑血管疾病引发的并发症。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_31894216",
+          "publishedOn": "2025-11-04T14:23:10.000Z",
+          "wordCount": 29,
+          "title": "从伊拉克战争幕后推手到特朗普批评者，美国“影子总统”切尼逝世",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_31894154",
+          "author": null,
+          "description": "近日，有网友在社交平台晒出的作业帮App截图显示，一道物理题目居然以“学生受地球引力影响而不慎做自由落体运动”为场景案例，引发争议。对此，11月4日，作业帮官方客服核实上述情况称，工作人员表示该题目此前确实存在，目前已做下架处理。\n\n暂且不说，这样的事例合不合适，通读这一题目，语言之间的轻挑和戏谑，散发出浓浓的恶趣味。而这样荒唐的题目，居然堂而皇之地出现在一家知名教育辅导平台上，让人匪夷所思。究竟是哪个环节出现了问题？值得追问。\n不过，不管是哪种原因，哪怕是用户或第三方上传的，平台也应该有最基本的审核。此事显然已经暴露了作业帮审核把关环节上的不足。在线教育不同于实体公司，但某种程度可以说，题目及其讲解就是在线教育平台的产品，而产品都是有质量的。\n稍微懂点教育常识的都知道，类似的应用题题目从来都不只是单纯的题目，其材料本身也具有教育功能。譬如，有的是励志故事，有的是百科知识，有的是生活场景，但它们的共同点都应该是坚守积极的、健康的价值观。\n再进一步说，平台也应该有价值观，教育平台更应该有正确的价值导向。\n前不久，宝宝巴士旗下一款儿歌App因为开屏跳出低俗广告，也曾引发争议。类似现象说明了，一些教育领域的创业者或从业者，并没有深刻理解这个行业的使命与责任。服务未成年人的App应用也好，相关电子产品也罢，都应该有更严格的质量标准、更精细的服务。\n有人推测，涉事题目也可能是AI出的题。的确，现在AI技术发展日新月异，可以极大提高一些工作的效率，以作业帮为例，海量的题库如果全部由人工来制作，需要花费不小的财力和人力，借助AI来出题可能就是分分钟的事。但是无论如何，不能为了提高效率而忽视质量。\n关于后续是否将发布正式情况说明，据媒体报道，作业帮回应称“暂未接到通知，会进一步核实”。希望作业帮能够查清相关题目的来龙去脉，查找平台存在的漏洞，完善相应的审核机制。当事情已经发生，下架只是第一步，引以为戒、查漏补缺才是更关键的。\n近年来，一些教育服务类平台借助时代的风口和庞大的市场规模，短时间内就集聚起海量的用户和可观的商业效益。越是在风头正劲的时候，越应该严于律己，而一旦失去了敬畏心和责任心，就无异于玩火。\n从这道离奇的题目也可以看出，摆在作业帮面前的，又何尝不是一道需要用心、耐心作答的考题。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_31894154",
+          "publishedOn": "2025-11-04T13:53:03.000Z",
+          "wordCount": 35,
+          "title": "马上评｜作业帮该好好“写作业”了",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_31894159",
+          "author": null,
+          "description": "张家坡墓地位于陕西省西安市灞桥区十里铺街道张家坡村东，东距浐河约1.2千米，西距韩森寨战国秦陵约2.2千米。2025年5月至10月，为配合当地用地需要，经国家文物局批准，陕西省考古研究院对该墓地进行了考古发掘，共发掘古代遗迹566处，其中，战国墓葬309座、车马坑1座；唐代墓葬214座；还有少量汉代、隋代、宋代和清代墓葬和灰坑。\n\n出土器物1169件（组），以陶器为主，器型主要有鬲、罐、壶、盆、俑等。\n\n战国墓葬以东西向竖穴土坑墓为主，占比95%以上。随葬器物主要有陶鬲、罐、盆等。从墓葬形制、葬式和随葬品组合来看，墓主多为秦人。陪葬品形制和组合与任家咀墓地第四期极为相似，年代主体应为战国中期，有个别墓葬年代可到战国早期。特别值得注意的是，墓地中还分布有25座积石墓。这些墓葬的墓向、葬式、随葬品均与其他墓葬无异，但在生土二层台上或墓底放置大量河卵石。\n\n唐代墓葬以南北向斜坡墓道洞室墓为主，占比98%以上。其中，M144为一座东西向斜坡墓道砖室墓。基址中出土一块刻有唐代“开元三大士”之一不空法师译本《佛顶尊胜陀罗尼》的石碑，为西安地区首次发现。从营建过程、墓葬形制、塔基尺寸及出土刻经碑等方面来看，M144与河南登封法王寺二号塔地宫十分相似，应为一座唐代塔墓。\n\n张家坡墓地墓葬分布密集、时代跨度大，是研究西安东郊地区战国至清代社会生活的重要考古资料。在浐河流域以往的考古工作中，战国时期积石墓仅有零星发现，而像张家坡墓地这样集中出现的情况尚属首次。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_31894159",
+          "publishedOn": "2025-11-04T13:53:03.000Z",
+          "wordCount": 55,
+          "title": "首次集中出现，西安发现25座战国积石墓",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_31894189",
+          "author": null,
+          "description": "11月4日，南卫股份（603880.SH，江苏南方卫材医药股份有限公司）公告称，公司控股股东及实际控制人李平、前任财务总监项琴华收到江苏证监局下发的《行政处罚决定书》。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_31894189",
+          "publishedOn": "2025-11-04T13:53:03.000Z",
+          "wordCount": 29,
+          "title": "南卫股份：实际控制人及前财务总监获知内幕信息后精准卖股避损，被合计罚没约4870万元",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_31894195",
+          "author": null,
+          "description": "11月4日，阳光新业地产股份有限公司（000608.SZ，证券简称：*ST阳光）发布公告称，公司控股股东京基集团有限公司近日办理了股份解除质押及质押手续，在解除此前1.798亿股质押后，将其所持公司全部股份2.24771亿股重新质押，本次质押后京基集团质押股份占其所持股份比例达100%，占公司总股本比例29.97%。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_31894195",
+          "publishedOn": "2025-11-04T13:53:03.000Z",
+          "wordCount": 29,
+          "title": "*ST阳光：控股股东京基集团解押1.798亿股后，重新质押所持公司全部2.2477亿股",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_31893664",
+          "author": null,
+          "description": "11月4日，“全民健康大讲堂”在上海正式启动。项目由上海市卫生健康委员会、上海申康医院发展中心与上海报业集团联合主办，上海市健康促进中心、澎湃新闻联合承办，华东医院为支持单位，将采取“线下讲坛+线上直播”双轨运行模式，整合优质医疗资源，共同打造一个立足上海、辐射全网的权威健康科普与免费咨询平台。\n启动仪式后，“全民健康大讲堂”首场线下活动正式开讲。中国工程院院士、上海市糖尿病研究所所长、上海交通大学主动健康战略与发展研究院院长贾伟平教授围绕“科学控体重，健康少生病”主题展开分享。她结合权威数据与研究成果，深入拆解中国慢病现状、肥胖人群特点及科学体重管理方法，并向公众提醒：从现在起，不妨尝试“吃凉一点、加把杂粮、少放糖盐”，让体重管理自然融入日常生活，成为轻松易行的习惯。\n\n“全民健康大讲堂”首场线下活动上，中国工程院院士、上海市糖尿病研究所所长、上海交通大学主动健康战略与发展研究院院长贾伟平教授围绕“科学控体重，健康少生病”主题展开分享。\n\n\n慢病数据引关注，肥胖成“万病之源”\n在贾伟平教授的分享中，一组中国慢病数据引发关注：我国现有3亿超重人群、1.5亿肥胖人群、1.25亿糖尿病患者、3亿高血压患者，还有超1亿慢阻肺病患者。心血管事件仍是我国首要死亡原因。\n贾伟平教授指出，慢性病发病与遗传背景、生活环境密切相关，后者更是当下健康问题的关键。回溯物资配给年代，每月粮食、油、肉定量供应，人们生活规律，70年代中国糖尿病患病率仅0.69%；如今食品可获得性大幅提升，外卖普及，而大众运动减少、静坐时间增加，这与“健康中国”延长期望寿命、提升健康寿命的目标相悖。\n“多吃少动”催生的肥胖，更是多种慢病的“串联者”。肥胖人群患糖尿病概率是正常人的2-3倍，是心血管事件高发重要因素，还常伴随脂肪肝、年轻女性多囊卵巢综合征，甚至因体重过大导致行动不便、骨关节病变。\n“肥胖是万病之源，国家推…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_31893664",
+          "publishedOn": "2025-11-04T13:23:03.000Z",
+          "wordCount": 45,
+          "title": "首讲聚焦体重管理，贾伟平院士详解控重密码｜全民健康大讲堂",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_31889087",
+          "author": null,
+          "description": "11月3日，江苏响水高三男生张某豪被邻居冲撞致死案在响水县人民法院一审开庭审理。潇湘晨报记者从张某豪的母亲处获悉，法院未当庭宣判。\n张某豪母亲透露，此前被告人王某桂承认故意撞人，但在庭审中，面对法官提问，王某桂当庭翻供，称“当时脑子懵了”。但检方随后出示司法鉴定、证人证言等证据，王某桂一时语塞，以至于前后多次出现自相矛盾的表达，改口称自己并没有想要杀人，只是想要伤害张某豪。\n\n△张某豪骑行电动车被撞击。受访者提供。\n\n\n正月初八两家曾因小事冲突，\n三个多月后发生撞击事件\n响水县公安局向县检察院出具的《起诉意见书》显示，2024年5月29日13时许，犯罪嫌疑人王某桂在开车回家的路上，于G15沈海高速便道遇到正在骑电瓶车上学的被害人张某豪，因两家地界纠纷犯罪嫌疑人一直怀有报复心理，遂开车掉头追赶并尾随被害人，后于响水县开发区国盛纺织南门往东70米左右处加速撞击被害人张某豪所骑电瓶车，致被害人张某豪受伤严重，经法医初步判断，张某豪损伤程度构成重伤或以上。\n\n△张某豪在学校时的留影。母亲称他很有希望考入重点大学。受访者提供。\n\n\n张某豪母亲告诉潇湘晨报记者，张某豪在家里排行老二，案发时，他是江苏省响水中学高三学生。“这是当地最好的高中，他成绩也很好，三次模拟考试的成绩都可以读重点大学。”\n事故发生后，张某豪被送往当地医院，被判定为脑死亡。随后家人将其转到上海的医院治疗，同样被判定为脑死亡。经过一年多的治疗和抢救，张某豪于2025年7月29日不幸离世。公安机关认为，王某桂的行为涉嫌故意杀人罪。起诉意见书还提到，犯罪嫌疑人王某桂认罪认罚。\n张某豪母亲称，案件发生时，王某桂36岁，未婚，也没有正式的工作，和母亲在家中生活。“他妈妈种什么菜，他就吃什么。”王某桂的家与张某豪的家就隔着一条巷子，两家是邻居关系。\n2024年春节两家曾发生过一次冲突，张某豪母亲记得很清楚，当天是农历的正月初八（阳历2月17日），两个儿子都回家过年了。王某桂在道路上堆放鸡粪，张某豪的爸爸去交涉，王某桂态度蛮狠，两家发生冲突，有相互推搡的行为。张俊豪的哥哥出来后，把王某桂抱住。张某豪出来看到情况后，表示不要吵了，“不要再吵了，我已经报了警。”没想到张俊豪的话，似乎激怒了王某桂：“你就是张某豪啊？就是你要考大学啊？”\n\n△张某豪生前照片。受访者提供。\n\n\n被告人王某桂当庭翻供，\n新的证据、证人证言让其认罪\n11月4日，潇湘晨报记者从张某豪母亲处得知，被告人王某桂当庭翻供。其在个人作案动机、撞人性质等多个方面为自己的行为进行辩解。\n在11月3日的庭审中，法官提问：“你知道自己开到近100码的速度，会让孩子有生命危险吗？”，王某桂回答：“我不知道，我当时头脑发懵了。”检方称，在此前的口供中，王某桂已经承认自己故意撞人，为何又称自己头脑发懵。司法鉴定意见显示，王某桂在撞击张某豪时，精神并无异常，具备完全行为能力。在证据面前，王某桂一时语塞。\n张某豪母亲提到，检方现场还出具了一份证人证言，这份证言是与王某桂同一拘留所的“狱友”提供的。被拘留期间，王某桂曾与该“狱友”多次聊天，表达了自己“被张家压了一头”，想要报复即将高考的张某豪的想法。\n在检方摆证据面前，王某桂又改口称，自己并没有想要杀人，只是想要伤害张某豪，并且事发后，自己还拨打了110和120进行了报警处理。检方表示，王某桂当时的报警，只是按照交通意外来报警的，并没有说真话。\n在庭审中，张某豪母亲第一次得知案发时的细节。张某豪当时为了躲避后车，先后三次变道，“可以想象一下，他当时有多绝望啊！”而尾随其后的被告人王某桂也三次变道并两次加速。“他辩解孩子没有被撞飞，而是在他的车顶。然后他匀速刹车，把孩子往前拖了一段距离之后孩子才掉下来。”张某豪母亲表示，当在法庭上被质疑是否看见这一情况，王某桂回应称安全气囊弹开了，所以没有看见孩子掉下来，是自己的猜测。\n张某豪母亲认为，为了不让他人看到自己的罪恶行为，王某桂一直在选择合适的时机，一直等到有公交车驶过，挡住前方人员的视线，才加速撞击张某豪。“他就是想弄成普通的交通事故或者肇事，想要逃避责任。”\n（原题为《江苏高三男生被邻居冲撞致死案开庭，死者家属：两家曾因小事发生冲突，被拘期间嫌犯向“狱友”表示“被压了一头”想报复》）\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.site",
+          "link": "https://www.thepaper.cn/newsDetail_forward_31889087",
+          "publishedOn": "2025-11-04T13:23:03.000Z",
+          "wordCount": 52,
+          "title": "高三男生被邻居驾车冲撞致死案开庭，死者家属：两家曾因小事起冲突",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_31894166",
+          "author": null,
+          "description": "11月3日，“煤炭一哥”中国神华（601088）公告称，2025年上半年，公司拟每股派发现金红利0.98元（含税），共计派发现金红利194.71亿元（含税）。其中，A股派发现金红利161.61亿元（含税）。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_31894166",
+          "publishedOn": "2025-11-04T13:23:03.000Z",
+          "wordCount": 29,
+          "title": "194亿！中国神华中期净利降12%，近八成分红底气何来？",
+          "imageUrl": null
+        },
         {
           "id": "https://www.thepaper.cn/newsDetail_forward_31890168",
           "author": null,
@@ -11988,26 +12178,6 @@
           "wordCount": 27,
           "title": "青海门源紧急搜救徒步受困者：137名受困人员已安全转移，1人遇难",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_31733259",
-          "author": null,
-          "description": "【编者按】\n在人工智能与人形机器人的一骑绝尘中，中国大学迎来2025。\n2025年，注定要成为变革的年份。是以战略敏捷赢得战略主动，还是在延误中错失转型机遇，中国大学踏上征途。\n人工智能技术如何赋能学科建设？人工智能技术给创新人才培养带来哪些启示？澎湃新闻特推出“大学2025”专题，以深入探讨人工智能时代的大学之变。\n近日，农业机械设计制造专家、中国工程院院士、石河子大学教授陈学庚在接受澎湃新闻专访时表示，人工智能说得再好，但不和农机装备不和生产一线结合起来，就是空的。关键是通过人工智能把农机的使用可靠性和耐用度提升起来，提升以后让农民有好机可用。他认为，通过人工智能更重要的是提高效率、降低成本，让产量更高。单独谈智能化没有意义，通过智能化让农民挣到更多的钱才有意义。\n\n农业机械设计制造专家、中国工程院院士、石河子大学教授陈学庚。澎湃新闻记者 刘璐 摄\n\n\n“我想中国农业未来发展，一句话吧，发展更美好。”近日，中国工程院院士陈学庚在接受澎湃新闻专访时感言。\n陈学庚江苏泰兴人，今年78岁，农业机械设计制造专家、中国工程院院士、石河子大学教授。13岁时他随父母来到新疆支边，一直扎根新疆一线，已连续从事农机研究和推广工作58年。目前，他在新疆石河子大学从事科学与人才培养，研究方向是旱田农业机械关键技术与装备。\n1964年，陈学庚考入原新疆兵团奎屯农校学习农业机械，立志改变新疆落后的农业面貌，解放农民的双手。上世纪80年代，他带着团队成功研制出铺膜播种机，使日工效达120-150亩，相当于300个人工。这项技术助推新疆兵团皮棉亩产从1982年的38.6公斤提高到1994年的82公斤，为新疆棉花生产带来第一次飞跃，成果于1995年获国家科技进步一等奖。\n陈学庚团队又成功研制出膜下滴灌精量播种机，这项技术支撑新疆兵团皮棉亩产从1994年的82公斤进一步提升到2014年的155.7公斤，…",
-          "link": "https://www.thepaper.cn/newsDetail_forward_31733259",
-          "publishedOn": "2025-10-06T04:23:03.000Z",
-          "wordCount": 50,
-          "title": "大学2025｜对话陈学庚院士：农业智能化不是目的，通过智能化让农民挣到钱才有意义",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_31733236",
-          "author": null,
-          "description": "受高市早苗胜选影响，日元重挫、日股大涨。\n10月6日，日元下挫。Wind数据显示，截至发稿，美元兑日元报149.758，日内上涨1.53%，美元兑日元的上涨对应着日元汇率的下跌；日元兑欧元一度跌至0.56935，为有记录来的最低点，截至发稿报0.5694，日内下跌1.43%。与此同时，日经225指数大涨，截至发稿，涨幅超4.5%。\n据新华社报道，当地时间10月4日，日本前经济安全保障担当大臣高市早苗在执政党自民党的总裁选举中胜出，有望成为日本首位女性首相。\n日经中文网报道称，在当日召开的记者会上，高市明确了“积极财政”政策方向。除了尽早降低汽油税之外，高市还提出将支援亏损企业为员工加薪。关于日本银行（即日本中央银行）的货币政策，高市表示“政府应承担责任”，并要求与央行开展紧密对话。\n据新华社报道，高市表示，日本政府和央行必须密切合作，确保经济实现由工资和企业利润上涨支撑的需求驱动型增长。她认为，当前日本通胀的主要原因是原材料成本上涨带来的输入性通胀，而不是经济增长带来的内生性通胀。\n“我们不能忽视由成本推动的通胀。对重返通缩（deflation）的风险掉以轻心还为时过早。”高市表示。\n新华社分析称，高市早苗的立场与刚刚辞去首相职务的石破茂鲜明对立，两者主要分歧在于对前首相安倍晋三的“安倍经济学”的看法。石破茂认为，“安倍经济学”尝试摆脱日本长达数十年的通缩，但过度偏重金融宽松，导致资产价格上涨、财富分配不均、贫富差距拉大。因此，石破茂执政期间经济政策求稳，重心从“增长”转移到“分配”，同时也主张扩大税基、提高消费税。而高市被视为“安倍经济学”的继承人，主张扩张性财政政策。她认为，经济增长对日本最为重要，要制定规划让日本经济规模在10年内翻倍，这意味着减税、经济刺激和政府投资。\n明治安田综合研究所（Meiji Yasuda Research Institute）经济学家Kazutaka Maeda认为，高市似乎并不支持加息，这可能使日本央行更难继续实施紧缩的货币政策。他对路透社表示，日本央行可能会采取更谨慎和渐进的方式，下一次加息可能会被推迟到明年年初。\n野村证券执行利率策略师Mari Iwashita也认为，高市的胜出可能使日本央行采取观望态度并推迟10月的加息。\n日本央行自2024年3月终止持续17年的负利率政策并开启加息周期。2024年3月，日本央行将政策利率提升至0%-0.1%，同年7月将政策利率由0%-0.1%上调至0.25%。2025年1月，日本央行宣布再加息25个基点，将政策利率由0.25%上调至0.5%并维持至今。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_31733236",
-          "publishedOn": "2025-10-06T04:23:03.000Z",
-          "wordCount": 40,
-          "title": "日元重挫、日股大涨！“安倍经济学”继承人高市早苗执政将如何影响市场",
-          "imageUrl": null
         }
       ]
     },
@@ -12016,6 +12186,46 @@
       "feedUrl": "https://www.nationalreview.com/feed/",
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
+        {
+          "id": "https://www.nationalreview.com/?p=1890880",
+          "author": "The Editors",
+          "description": "The former vice president served the country for decades and had a profound influence on the nation’s response to September 11.",
+          "link": "https://www.nationalreview.com/2025/11/dick-cheney-r-i-p/",
+          "publishedOn": "2025-11-04T15:39:16.000Z",
+          "wordCount": 6471,
+          "title": "Dick Cheney, R.I.P.",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2025/11/cheney-3.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1890464",
+          "author": "Mark Goldfeder and Stuart Force",
+          "description": "A lawsuit on behalf of American victims of terrorism seeks to end, once and for all, the PA’s practice of rewarding murderers and their families with cash.",
+          "link": "https://www.nationalreview.com/2025/11/dont-let-the-palestinian-authority-derail-a-new-middle-east/",
+          "publishedOn": "2025-11-04T11:30:20.000Z",
+          "wordCount": 6806,
+          "title": "Don’t Let the Palestinian Authority Derail a New Middle East",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2025/11/Mahmoud-Abbas-at-a-Ramallah.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1890001",
+          "author": "Robert Zubrin",
+          "description": "Casey Means is into ‘psychedelic therapy’ and ‘full moon ceremonies.’",
+          "link": "https://www.nationalreview.com/2025/11/trumps-bizarre-pick-for-surgeon-general/",
+          "publishedOn": "2025-11-04T11:30:10.000Z",
+          "wordCount": 7155,
+          "title": "Trump’s Bizarre Pick for Surgeon General",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2025/11/Casey-Means.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1890758",
+          "author": "Rich Lowry",
+          "description": "He has made it clear that self-avowed racist Nick Fuentes is his ideological compatriot and friend.",
+          "link": "https://www.nationalreview.com/2025/11/tucker-carlson-outdoes-himself/",
+          "publishedOn": "2025-11-04T11:30:07.000Z",
+          "wordCount": 6651,
+          "title": "Tucker Carlson Outdoes Himself",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2025/11/tucker-nick-fuentes-interview.jpg?fit=2057%2C1200&ssl=1"
+        },
         {
           "id": "https://www.nationalreview.com/?p=1890623",
           "author": "Dan McLaughlin",
@@ -13884,6 +14094,26 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/103512",
+          "author": "Matrix机器人",
+          "description": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。💬一派热议在 ...查看全文",
+          "link": "https://sspai.com/post/103512",
+          "publishedOn": "2025-11-04T09:00:00.000Z",
+          "wordCount": 680,
+          "title": "社区速递 116 | 派友激辩电池优化、一周热评以及可爱的新玩意",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sspai.com/post/103499",
+          "author": "两颗皮蛋",
+          "description": "中国高校计算机大赛(ChinaCollegiateComputingContest，简称C4)于2016年由教育部高等学校计算机类专业教学指导委员会、教育部高等学校软件工程专业教学指导委员会、教育部高 ...查看全文",
+          "link": "https://sspai.com/post/103499",
+          "publishedOn": "2025-11-04T08:18:34.000Z",
+          "wordCount": 318,
+          "title": "专访 | 第十届移动应用创新赛收官，聊聊我们眼中的赛场内外",
+          "imageUrl": null
+        },
+        {
           "id": "https://sspai.com/post/103312",
           "author": "不做PD的PD",
           "description": "当真实地感受了当地的风土人情之后，这块土地给我带来了很混杂的感受。查看全文",
@@ -14860,6 +15090,76 @@
       "feedUrl": "https://plink.anyfeeder.com/idaily/today",
       "siteUrl": "https://idai.ly",
       "articles": [
+        {
+          "id": "idaily-239789",
+          "author": "中国 · 文昌",
+          "description": "中国长征七号改运载火箭搭载「遥感四十六号」卫星发射升空，海南文昌航天发射场。11月3日，长征七号改火箭执行2025年第4次发射任务，成功将「遥感四十六号」卫星送入预定轨道。新卫星主要用于防灾减灾、国土资源勘察、水利气象等领域。长征七号改是中国新一代中型高轨液体运载火箭，全箭总长60.13米，地球同步转移轨道运载能力达到7吨以上，具备一箭一星和一箭双星发射能力。摄影师：Luo Yunfei",
+          "link": "https://m.idai.ly/se/8e5Ri8",
+          "publishedOn": "2025-11-04T09:59:00.000Z",
+          "wordCount": 272,
+          "title": "长征七号发射遥感卫星 - November 4, 2025",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/98c1ba29/4adb68cf.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/98c1ba29/4adb68cf.jpg"
+        },
+        {
+          "id": "idaily-239788",
+          "author": "中国 · 杭州",
+          "description": "中国国务院总理李强与俄罗斯总理 Mikhail Mishustin 出席双边文件签署仪式，杭州。11月3日，俄总理 Mishustin 应邀对中国进行为期2天访问并出席中俄总理第30次定期会晤。两国总理会晤后签署《中俄总理第三十次定期会晤联合公报》，并共同见证签署海关、卫星导航等领域合作文件。中国海关总署数据显示2025年前三季度中俄双边贸易额为1636.21亿美元，同比下跌-9.4%。摄影师：Dmitry Astakhov",
+          "link": "https://m.idai.ly/se/de9t1s",
+          "publishedOn": "2025-11-04T08:58:00.000Z",
+          "wordCount": 272,
+          "title": "俄罗斯总理访问中国 - November 4, 2025",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/27560ce9/3bd5624e.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/27560ce9/3bd5624e.jpg"
+        },
+        {
+          "id": "idaily-239787",
+          "author": "越南 · 顺化",
+          "description": "越南顺化市遭洪水侵袭。11月4日，越南政府通报中部地区暴雨洪灾已造成40人死亡，近8万栋房屋被淹，逾1.08万公顷农作物损毁。越南是全球最易遭受暴雨洪灾的国家之一，2025年6月迄今已经历12场风暴侵袭，累计经济损失达20亿美元。新生成的台风「海鸥」（Kalmaegi）预计11月7日登陆越南中部沿海地区。摄影师：Thanh Hue",
+          "link": "https://m.idai.ly/se/af7lSt",
+          "publishedOn": "2025-11-04T07:57:00.000Z",
+          "wordCount": 272,
+          "title": "越南中部洪灾加剧 - November 4, 2025",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/2f6170bb/45e6ac72.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/2f6170bb/45e6ac72.jpg"
+        },
+        {
+          "id": "idaily-239785",
+          "author": "韩国 · 板门店",
+          "description": "美国国防部长 Pete Hegseth 在韩国国防部长安圭伯陪同下访问韩朝非军事区分界线，板门店。11月3日，韩美防长时隔8年再次共同视察板门店警备区。韩国国防部长称本次访问旨在彰显韩美同盟力量和联合防御态势。第57次韩美安保会议将于11月4日举行，主要讨论议题包括联合建造核动力潜艇、美国向韩国移交战时作战指挥权、韩国提高防卫开支等。摄影师：South Korean Defense Ministry",
+          "link": "https://m.idai.ly/se/959QUB",
+          "publishedOn": "2025-11-04T07:55:00.000Z",
+          "wordCount": 272,
+          "title": "美韩防长视察板门店 - November 4, 2025",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/2532707e/dd49e2b3.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/2532707e/dd49e2b3.jpg"
+        },
+        {
+          "id": "idaily-239784",
+          "author": "英国 · 伦敦",
+          "description": "英国报纸刊登英国王室剥夺安德鲁王子头衔的报道，伦敦。10月30日，英国白金汉宫发表声明宣布英王查尔斯三世已正式下令剥夺安德鲁王子的所有尊号、头衔及荣誉，责令其使用本名安德鲁·蒙巴顿·温莎（Andrew Mountbatten Windsor）并搬离王室居所。现年65岁的安德鲁王子是已故英国女王伊丽莎白二世的次子，因陷入美国爱泼斯坦「萝莉岛」丑闻而损害英国王室声誉。最新民调显示91%英国民众对安德鲁王子持负面看法。摄影师：Rhianna Chadwick",
+          "link": "https://m.idai.ly/se/71f3DA",
+          "publishedOn": "2025-11-04T07:53:00.000Z",
+          "wordCount": 272,
+          "title": "安德鲁王子被剥夺头衔 - November 4, 2025",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/50fd16f4/7fd26619.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/50fd16f4/7fd26619.jpg"
+        },
         {
           "id": "idaily-239729",
           "author": "印度 · 斯里赫里戈达岛",
@@ -17611,6 +17911,26 @@
       "feedUrl": "https://plink.anyfeeder.com/nytimes/dual",
       "siteUrl": "http://nytimes.com",
       "articles": [
+        {
+          "id": "https://cn.nytimes.com/health/20251104/apples-health-benefits-recipes/dual",
+          "author": null,
+          "description": "ISOBEL WHITCOMB2025年11月4日\n“An apple a day” might seem like overkill, but America’s most popular fruit — currently weighing down branches in orchards everywhere — is packed with health benefits. Here’s what nutrition experts have to say about apples, plus some recipes from New York Times Cooking to help you eat more of them all year long.\n“每天一个苹果”听起来或许有些夸张，但作为美国最受欢迎的水果——此刻正压弯各地果园枝头——苹果确实有许多健康益处。以下是营养专家对苹果的看法，以及《纽约时报》烹饪专栏中一些帮助你全年多吃苹果的食谱。\nThey’re good for your gut.\n苹果是肠道健康卫士。\nApples are rich in dietary fiber, a type of complex carbohydrate that our body isn’t capable of digesting on its own. That fiber acts as food for many of the bacteria species that reside in our guts. These bacteria have a powerful impact on our health, affecting everything from cancer risk, to weight, to mood.\n苹果富含膳食纤维，这…",
+          "link": "https://cn.nytimes.com/health/20251104/apples-health-benefits-recipes/dual",
+          "publishedOn": "2025-11-04T09:06:02.000Z",
+          "wordCount": 1114,
+          "title": "“美国最受欢迎的水果”有多健康？",
+          "imageUrl": "https://static01.nyt.com/images/2024/09/04/multimedia/WELL-HEALTHY-APPLES1-vzch/WELL-HEALTHY-APPLES1-vzch-videoLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/usa/20251104/trump-nuclear-tests-energy-secretary/dual",
+          "author": null,
+          "description": "DAVID E. SANGER, ZOLAN KANNO-YOUNGS2025年11月4日\nPresident Trump has often thrived on vagueness, demonstrating a deep unwillingness to be pinned down on specifics and forgo maximum leeway in future actions.\n特朗普总统往往以含糊其辞见长，表现得极不愿意在具体问题上受到束缚，以便在未来行动中保留最大的回旋余地。\nBut one area where precision matters, a lot, is when presidents talk about their plans for America’s nuclear weapons. And this weekend, the president and his energy secretary, who oversees the development and maintenance of the nuclear stockpile, contradicted each other on the critical question of whether the United States is about to break the three-decade taboo on explosive testing of nuclear weapons.\n但有一个领域非常需要精确性，那就是一个总统在谈论美国的核武器计划的时候。上周末，特朗普总统和负责监督核武器研发与维护的能源部长在一个关键问题上出现了相互矛盾，这个问题就是美国是否即将打破30年之久的核武器爆炸试验禁忌。\nIn short, Mr. Trump has dou…",
+          "link": "https://cn.nytimes.com/usa/20251104/trump-nuclear-tests-energy-secretary/dual",
+          "publishedOn": "2025-11-04T08:36:01.000Z",
+          "wordCount": 1392,
+          "title": "美国真的会恢复核爆炸试验吗？特朗普和官员各执一词",
+          "imageUrl": "https://static01.nyt.com/images/2025/11/04/multimedia/c04dc-nukes/c04dc-nukes-articleLarge.jpg"
+        },
         {
           "id": "https://cn.nytimes.com/opinion/20251104/trump-china-trade-tariffs/dual",
           "author": null,
