@@ -6,6 +6,16 @@
       "siteUrl": "https://rweekly.org/atom.xml",
       "articles": [
         {
+          "id": "https://rweekly.org/2025-W47.html",
+          "author": null,
+          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Jonathan Carroll, with help from the RWeekly team members and contributors.\nHighlight\nWhen plotting, LLMs see what they expect to see\nWinners of the 2025 Table Contest\nHow much do you know about pipes?\nInsights\nHow much do you know about pipes?\nreadtextgrid now uses C++ (and ChatGPT helped)\nLittle useless-useful R functions – Finding substrings in number Pi\nBest Practices for Cleaning Data in R\nEvaluating a New Job Market Data Feed\nWhen plotting, LLMs see what they expect to see\nWinners of the 2025 Table Contest\n\nSpatial autocorrelation: what’s the problem?\nUsing R/anomalize to identify delays in games of Australian Rules football\nRainfall\nMinimal roman\n2125\n10 minutes\nR in …",
+          "link": "https://rweekly.org/2025-W47.html",
+          "publishedOn": "2025-11-17T00:00:00.000Z",
+          "wordCount": 6110,
+          "title": "R Weekly 2025-W47 Plots, Tables, Pipes",
+          "imageUrl": "https://rweekly.org/public/facebook.png"
+        },
+        {
           "id": "https://rweekly.org/2025-W46.html",
           "author": null,
           "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Jonathan Kitt, with help from the R Weekly team members and contributors.\nHighlight\nAn introduction to writing your own ggplot2 geoms\nReverse dependency check speedrun: a data.table case study\nMamdani vs Sliwa and Cuomo\nInsights\nReverse dependency check speedrun: a data.table case study\n\nAnaconda ends R support - Here’s what it means and how to move forward\nR in the Real World\nImpact study of vaccination campaigns\nMamdani vs Sliwa and Cuomo\n\nR in Academia\nComputo - A journal for transparent and reproducible research in statistics and machine learning\nTutorials\nAn introduction to writing your own ggplot2 geoms\nHow to analyze bluesky posts and trends with R\nReversed - Day 5 of…",
@@ -461,16 +471,6 @@
           "wordCount": 94,
           "title": "徐英瑾｜大语言模型的软肋：今天我们为何仍要读塞尔？",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_31768582",
-          "author": null,
-          "description": "段志强（蒋立冬绘）\n\n\n上海人民出版社“论衡”丛书今夏推出了复旦大学文史研究院副研究员段志强的新著《旧庙新神：晚清变局中的孔庙从祀》。“旧庙”，指的是在传统轨道上持续运行的孔庙及其从祀制度，“新神”则指以政治改革理念象征的面貌进入孔庙的顾炎武、黄宗羲、王夫之。\n以“旧庙”的运行逻辑，顾、黄、王三位思想新偶像入祀孔庙，哪怕经过包装“蒙混过关”，也始终争议不断。但在清末改革的背景下，三儒作为改革家的思想资源，最终得以入祀正统。“旧庙”如何接纳“新神”？传统何以应对改革？围绕相关问题，《上海书评》专访了段志强。\n\n《旧庙新神：晚清变局中的孔庙从祀》，段志强著，上海人民出版社，2025年7月出版，238页，58.00元\n\n\n新书中“新神”部分的内容基于您的硕士论文，“旧庙”的部分则是新作。可否谈谈补充“旧庙”这部分的思路？\n段志强：《旧庙新神》这本书由我的硕士论文扩展而来。硕士论文聚焦的是一个尚未被充分讨论的课题，即顾炎武、黄宗羲、王夫之从祀孔庙事件。扩展成书的过程中，我的责任编辑高笑红为读者考虑，建议增加晚清其他从祀孔庙案例的讨论。\n所谓“旧庙”，书中指的是在传统轨道上持续运行的孔庙及其从祀制度，“新神”则指以政治改革理念象征的面貌进入孔庙的顾、黄、王。从全书结构来看，若不梳理“旧庙”中先儒入祀的历史背景与流程，读者可能不易理解顾、黄、王个案的特殊性。无论是思想争议还是行政程序，前期入祀与后期情况存在显著差异，因此对前期的阐述成为理解整体脉络的必要铺垫。\n我本来以为这些主题不会有太多可以发掘的内容，但逐渐发现仍有不少细节未被深入探讨，尤其在近年来大量新资料涌现的背景下，即便是一些已有研究覆盖的内容，也具备了重新阐释的空间与价值。例如，我特别关注了先儒入祀过程中的行政流程——以往研究从思想史角度探讨得比较多，行政流程的问题表面看来较为简单，但实际上它涉及一个根本性问题：这些儒者进入…",
-          "link": "https://www.thepaper.cn/newsDetail_forward_31768582",
-          "publishedOn": "2025-10-19T02:02:04.000Z",
-          "wordCount": 89,
-          "title": "段志强谈晚清孔庙与思想新偶像",
-          "imageUrl": null
         }
       ]
     },
@@ -479,6 +479,206 @@
       "feedUrl": "https://feedx.net/rss/thepaper.xml",
       "siteUrl": "http://thepaper.cn",
       "articles": [
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_31981818",
+          "author": null,
+          "description": "今年，是中国人民抗日战争暨世界反法西斯战争胜利80周年。前不久，我国和世界上许多爱好和平的国家都对“二战”这段历史进行了认真的审视与反思。\n可就在近日，日本首相高市早苗公然发表涉台言论，扬言要以武力介入台海。这番叫嚣，实在是令人惊诧：这个日本政客的狂妄和无知，简直到了匪夷所思的程度！\n“二战”中，日寇对中国造成的伤害真真是罄竹难书。抚顺、南京、大同……小鬼子在华夏大地上留下了多少个“万人坑”！不久前，笔者到黑龙江虎林采访，闻知，如今“虎头要塞”附近的旷野里，仍不时发现当年的累累白骨。\n作恶如此，日本政客真心忏悔了吗？没有！完全没有！我们看到的，是他们不停地掩盖侵略事实，不停地为军国主义“招魂”，不停地修改教科书美化丑恶嘴脸。而岸信介、小泉纯一郎、安倍晋三、麻生太郎之流，不顾世界正义人士的抗议，不停地到靖国神社“拜鬼”。这个高市早苗，更是变本加厉，当年在安倍内阁，她就于日本投降日当天参拜了靖国神社……\n台湾问题，是中国的内政，涉及中国主权和领土完整等核心利益，不容任何外部势力以任何方式进行干涉。\n作为一个政客，高市早苗不可能不了解中国目前的国力。奉劝你不要误判了形势，今日的中国早已不再是“甲午战争”“九一八”时的情景。如果你错过了观看“纪念中国人民抗日战争暨世界反法西斯战争胜利80周年阅兵式”，希望你在互联网上补补课。\n“如日方胆敢武力介入台海局势，将构成侵略行为，中方必将迎头痛击！”这是外交部发言人林剑日前在记者会上，给出的严正回答。\n也是全体中国人民的心声！",
+          "link": "https://www.thepaper.cn/newsDetail_forward_31981818",
+          "publishedOn": "2025-11-17T16:23:04.000Z",
+          "wordCount": 28,
+          "title": "光明时评：狂妄到家了，这个日本政客！",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_31985671",
+          "author": null,
+          "description": "浙江宁波市卫生健康委11月17日晚发布情况通报称，近日，宁波大学附属妇女儿童医院一医疗纠纷事件引发关注，对患儿的不幸离世，我们深感痛心。目前，宁波市卫生健康委已成立调查组，本着实事求是、客观公正的原则，对该事件进行彻查，依法依规及时处理。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_31985671",
+          "publishedOn": "2025-11-17T16:23:04.000Z",
+          "wordCount": 27,
+          "title": "宁波市卫健委通报一患儿不幸离世：成立调查组彻查",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_31985516",
+          "author": null,
+          "description": "《蜡笔小新：炽热的春日部舞者们》《工作细胞》等进口日本影片将暂缓上映。记者经向影片引进方和发行方核实，此次调整是对日本进口片综合市场表现与我国观众情绪评估作出的审慎决策。\n此前，动画电影《鬼灭之刃:无限城篇 第一章 猗窝座再袭》上映后，依托IP积累的粉丝基础，取得初期票房佳绩。但是，随着日本首相高市早苗发表错误言论，立即引发广大中国观众的强烈不满。受高市早苗奇谈怪论的拖累，此动画电影上映三天后票房已呈显著下滑态势，市场热度快速回落。目前，上映第五日的票房预测已经跌至2000万元左右。\n在此背景下，对原拟于近期上映的日本影片，相关进口方和发行方均表示，日方的挑衅性言论，势必会影响中国观众对日本影片的观感。相关方面将遵循市场规律，尊重观众意愿，决定暂缓上映。\n截至11月16日，今年中国内地票房已达455.43亿元，稳居全球第二大电影市场。其中，国产影片402.98亿元，占比达到88.48%。今年也成为中国影史上国产影片票房第三次破400亿元大关的年份。\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.site",
+          "link": "https://www.thepaper.cn/newsDetail_forward_31985516",
+          "publishedOn": "2025-11-17T15:53:03.000Z",
+          "wordCount": 31,
+          "title": "相关影片进口方、发行方确认：暂缓日本进口片上映",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_31985527",
+          "author": null,
+          "description": "《蜡笔小新：炽热的春日部舞者们》《工作细胞》等进口日本影片将暂缓上映。记者经向影片引进方和发行方核实，此次调整是对日本进口片综合市场表现与我国观众情绪评估作出的审慎决策。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_31985527",
+          "publishedOn": "2025-11-17T15:53:03.000Z",
+          "wordCount": 27,
+          "title": "相关影片进口方、发行方确认：暂缓日本进口片上映",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_31984549",
+          "author": null,
+          "description": "外卖大战“三国杀”即将进入进一步厮杀。\n11月17日，澎湃新闻记者获悉，在京东品酒会现场，京东创始人刘强东宣布，京东外卖将推出独立App，并推出京东点评，承诺“永不商业化”。刘强东还介绍，京东将推出“京东真榜”，对餐饮、酒店、航司、景点进行排序。\n据了解，京东点评由京东在近期上线，主要负责本地生活服务，目前处于测试阶段，针对部分城市用户开放‌。\n刘强东表示，“刚推出外卖的时候很多用户反馈找不到我们的外卖入口，今天京东外卖独立的APP终于上线了，对于经常点外卖的用户来说可能更加方便、容易。”他介绍，京东外卖APP不仅提供外卖服务，计划将集中“外卖+即时零售+点评+酒旅+购物”等一体，提供更全面的本地生活服务。\n刘强东说，“我们的点评也好、真榜也好，我们宣布，永远不做商业化。作为一个商业企业，大家都会追求商业利益，但是我坚定认为，作为商业企业不应该什么事都以赚钱为目的。该去赚的钱可以赚，但是如果给用户提供排名和点评服务，还要再赚钱，那就一定不可能真实。点评和排行榜一旦商业化，绝对不可能公平，一定导致劣币驱逐良币。”",
+          "link": "https://www.thepaper.cn/newsDetail_forward_31984549",
+          "publishedOn": "2025-11-17T15:23:02.000Z",
+          "wordCount": 30,
+          "title": "刘强东：京东外卖将推独立App，并推出京东点评，承诺“永不商业化”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_31985182",
+          "author": null,
+          "description": "海南大学药学院、山东大学药学院联合发布讣告称，中国致公党党员、著名药物化学家、国家级重大人才项目获得者李敏勇教授，于2025年11月16日在广州突发疾病，经全力抢救无效不幸逝世，享年49岁。\n\n李敏勇1976年9月出生于江西南昌，曾任山东大学药学院教授、副院长，现任海南大学药学院教授、副院长。讣告指出，作为我国药物化学领域的优秀学者，他始终践行科研报国初心，以毕生精力深耕可视化与光控调节导向的创新药物研究。他治学笃实严谨，学术成果卓著，突破多项重大疾病靶点蛋白可视化成像关键核心技术，为我国生物医药创新事业的发展作出了重大贡献。他在药学学科建设、人才培养及国际交流与合作等方面倾注了大量心血，工作成效凸显，其言传身教、甘为人梯的师者风范，深受师生爱戴。\n海南大学药学院、山东大学药学院方面表示，李敏勇教授的骤然离世，不仅是海南大学药学院、山东大学药学院的重大损失，更是我国教育界和药学界的重大损失。我们谨以最沉痛的心情，对李敏勇教授致以最沉痛的悼念！\n公开资料显示，李敏勇博士毕业于中国药科大学，之后在美国佐治亚州立大学进行博士后研究工作，2007年任佐治亚州立大学化学系助理教授。2009年，李敏勇回国出任山东大学药学院教授、博士生导师，后于今年6月起任海南大学药学院教授、博士生导师。\n李敏勇针对重大疾病药物靶点，进行基于光控技术和生物活性可视化技术的新药创制研究。先后发表SCI论文229篇，被SCI总引用6700余次，他引6100余次，被引H-指数为46；近五年以通讯作者在J. Am. Chem. Soc.、Cell Chem. Biol.、Acta Pharm. Sin. B、Anal. Chem.、J. Med. Chem.、Pharmacol. Res.等期刊发表SCI论文45篇。\n他先后获山东省技术发明奖二等奖、中国分析测试协会科学技术奖CAIA奖一等奖和24th World Congress on Analytical and Bio Analytical Chemistry Professional-Level Research Excellence Awards；2019年入选英国皇家化学会会士(FRSC)，2021年入选英国皇家生物学会会士(FRSB)，2022年入选国际先进材料学会会士(FIAAM)和山东省泰山学者特聘专家，2023年入选中国科协海智计划特聘专家和山东大学特聘教授，2024年入选教育部重大人才工程特聘教授；担任国际药物化学权威期刊Med. Res. Rev.主编、Protein Peptide Lett.等多个学术期刊编委。\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.site",
+          "link": "https://www.thepaper.cn/newsDetail_forward_31985182",
+          "publishedOn": "2025-11-17T15:23:02.000Z",
+          "wordCount": 91,
+          "title": "著名药物化学家李敏勇突发疾病逝世，年仅49岁",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_31985270",
+          "author": null,
+          "description": "11月14日，神舟二十号航天员乘组乘坐神舟二十一号载人飞船返回地球，顺利着陆。从神舟二十号飞船决定推迟返航任务，到中间确定方案，再到三位航天员平安落地，这中间，一共9天时间。其他国家处理类似问题，用了9个月、6个月……中国是怎么做到的呢？\n1.这背后，是中国航天对每一个工作环节近乎苛刻的严谨，是中国航天对生命至上、安全第一的坚守。在航天工作中，有一个环节，叫作“归零”。归零，绝对不是最有效率的方式，也不是性价比最高的方式，它是“最笨的方式”，也是最严谨的方式。\n2.中国用“冗余设计+流程管理”，把一次突发状况化解了。这背后，离不开中国航天生命至上、安全第一的理念，离不开中国航天一以贯之的底线思维，也离不开我们滚动备份的策略。\n3.在航空航天领域，美国对中国采取遏制和打压的手段。美国对中国航空航天领域的技术封锁，已经到了几乎全面覆盖的地步。但外界封锁和打压，只会让中国航天更加坚定地走在独立自主的道路上。\n美国以为增强管制，其他国家的航空航天领域就发展不起来，这样，美国就能取得“太空竞赛”的胜利。但谭主想说，真正的“太空竞赛”，比的应该是接人回家的速度，比的应该是探索人类未来的可能性。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_31985270",
+          "publishedOn": "2025-11-17T15:23:02.000Z",
+          "wordCount": 34,
+          "title": "玉渊谭天丨太空竞赛比的是接人回家的速度，永远可以相信中国航天",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_31984757",
+          "author": null,
+          "description": "宁德时代  视觉中国 资料图\n\n\n国内锂电池龙头宁德时代（300750.SZ/03750.HK）联合创始人、第三大股东黄世霖百亿级减持事件有了最新进展。11月17日晚间，宁德时代公告披露，根据当天询价申购情况，初步确定的本次询价转让价格为376.12元/股。\n此前的11月14日深夜，宁德时代发布一则公告，引发市场震动。根据公告，宁德时代联合创始人、重要股东黄世霖因自身资金需求，拟通过询价转让方式出让公司4563.24万股股份，占公司总股本的1%。\n以宁德时代11月14日收盘价每股404.12元计算，这笔减持市值高达约184.4亿元。\n黄世霖目前直接持有宁德时代4.66亿股，占总股本的10.21%。本次拟转让的4563.24万股约占其个人所持股份的9.79%，转让完成后其仍将是宁德时代第三大股东。\n不过，与常规减持方式不同，此次转让避开二级市场，采用询价转让方式，仅面向符合条件的机构投资者。\n宁德时代在11月17日的最新公告中也强调，本次询价转让为非公开转让，不通过集中竞价交易或大宗交易方式进行，不属于通过二级市场减持。受让方通过询价转让受让的股份，在受让后6个月内不得转让。\n\n根据公告，本次询价转让收到有效报价单共55份，涵盖基金管理公司、合格境外机构投资者、保险公司、证券公司、私募基金管理人等专业机构投资者。参与本次询价转让报价的机构投资者合计有效认购股份数量为146500000股，对应的有效认购倍数为3.2倍。\n公告称，本次询价转让拟转让股份已获全额认购，初步确定受让方为16家机构投资者，拟受让股份总数为45632363股。\n值得一提的是，上述减持事件引发市场关注不仅在于减持市值高达百亿级，还在于拟转让股东黄世霖并非普通大股东。\n黄世霖与宁德时代董事长曾毓群渊源颇深。据公开信息，两人为福建宁德老乡，也是高中同学。1991年，黄世霖接到曾毓群邀请，加入东莞市新科磁电厂。此后，两人便是事业上的同行者，并于2011年回到家乡共同创立了宁德时代。\n在宁德时代任职期间，黄世霖曾先后担任公司研发总监、总经理、副董事长、副总经理等职务，在宁德时代内部有“二当家”之称。不过，2022年8月，宁德时代一纸公告称，黄世霖已申请辞去了公司副董事长、董事、董事会战略委员会委员和副总经理职务，不再在公司任职。\n尽管黄世霖此次未通过二级市场减持，但市场仍对此有反应。11月17日，宁德时代A股股价低开近4%，盘中跌幅超5%，市值一度蒸发超千亿元。截至当天收盘，宁德时代股价报390.78元/股，下跌3.30%。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_31984757",
+          "publishedOn": "2025-11-17T14:53:04.000Z",
+          "wordCount": 51,
+          "title": "宁德时代联合创始人百亿级减持新进展：初步确定询价转让价格376.12元/股",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_31984990",
+          "author": null,
+          "description": "地球以外还存在生命吗？诺奖得主给出肯定的答案。\n11月17日，第十三期“浦江科学大师讲坛”在复旦大学相辉堂举行。诺贝尔物理学奖得主、瑞士苏黎世联邦理工学院物理学教授迪迪埃·奎洛兹以“系外行星革命及其对宇宙生命的影响”为题，与上海市高校及中学师生代表面对面畅谈。\n\n11月17日，第十三期“浦江科学大师讲坛”在复旦大学相辉堂举行。 本文图片均为“复旦大学”微信公众号 图\n\n\n“您为何选择了天体物理学作为自己的研究领域？”面对现场学生提问，奎洛兹分享，他一开始并不知道自己喜欢什么，而且对于大学专业还有些“选择恐惧症”。高中时，他的物理和数学都学得不错，因此他在大学很自然地选择了物理学。而选择天体物理学研究，则主要是因为他是个热爱户外运动的人。“做粒子物理学就要一直待在实验室里，见不到阳光。做天文研究还可以经常爬山。”他笑着坦言。\n当年，奎洛兹在博士生阶段发现了第一颗系外行星，令整个天文学界震动。有听众好奇，为何他在如此年轻的时候就有此成就。奎洛兹分享道 ，对科学的好奇心是他前进的最大动力。“如果你拥有强烈的热情，那么你在工作中更可能取得成功”，他鼓励年轻学子们勇敢追逐自己的梦想，因为“人生在前方，而非在过往”。\n\n现场学生提问\n\n\n作为一名科学家，奎洛兹也热爱阅读科幻小说、观看科幻电影，尤其喜欢斯坦利·库布里克（Stanley Kubrick）的电影。他认为科幻的目的不在于提供一份“right or wrong”的答案，而是试图探讨未来可能发生的事情。\n那么，世界上真的存在外星人吗？他们会像《三体》小说中描绘的一样影响我们的生活吗？面对来自听众的提问，奎洛兹给出了坚定的回答：“我认为地球以外存在生命，因为我无法相信生命在地球上是独一无二的，有如此多的行星，那里一定有生命，这种生命可能只是细菌的痕迹。但在银河系中，我们是稀有的，可能是唯一意识到宇宙存在的智慧生命。”\n我们还需要多久才能找到“宇宙中有其他生命”的证据？奎洛兹笑说，“科学的魅力就在于，我们不知道。它可能明天就发生，也可能需要五十年。但有一点是肯定的，它一定会发生。”在他看来，正是人类的好奇心与持续探索，才让这些关于生命的终极追问不断向前推进。\n\n\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.site",
+          "link": "https://www.thepaper.cn/newsDetail_forward_31984990",
+          "publishedOn": "2025-11-17T14:53:04.000Z",
+          "wordCount": 67,
+          "title": "地球之外还有生命吗？诺奖得主给出坚定的回答",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_31985455",
+          "author": null,
+          "description": "当地时间11月16日晚间，第16届奥斯卡理事会奖（Governors Awards）暨终身成就奖的颁奖典礼在洛杉矶好莱坞高地中心举行。今年最大的看点非压轴登场领奖的汤姆·克鲁斯莫属。四度获得提名却次次名落孙山的阿汤哥，终于等来了属于他的小金人。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_31985455",
+          "publishedOn": "2025-11-17T14:53:04.000Z",
+          "wordCount": 32,
+          "title": "四度提名却从未获奖，汤姆•克鲁斯这次拿了奥斯卡终身成就奖",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_31985477",
+          "author": null,
+          "description": "11月14日，神舟二十号航天员乘组乘坐神舟二十一号载人飞船返回地球，顺利着陆。从神舟二十号飞船决定推迟返航任务，到中间确定方案，再到三位航天员平安落地，这中间，一共9天时间。其他国家处理类似问题，用了9个月、6个月……中国是怎么做到的呢？",
+          "link": "https://www.thepaper.cn/newsDetail_forward_31985477",
+          "publishedOn": "2025-11-17T14:53:04.000Z",
+          "wordCount": 27,
+          "title": "玉渊谭天丨太空竞赛比的是接人回家的速度，永远可以相信中国航天",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_31980602",
+          "author": null,
+          "description": "近日，一起“律师在某银行取款4万元遭盘问”的事件引舆论关注。银行柜台工作人员表示，在该行取现1万元以上就要说明用途，要求取款人解释过往账户流水情况。这一系列操作问懵了储户，也引发质疑：银行执行反诈政策何以“误伤”正常客户？该如何界定金融安全与个人合法权益的边界？",
+          "link": "https://www.thepaper.cn/newsDetail_forward_31980602",
+          "publishedOn": "2025-11-17T14:23:05.000Z",
+          "wordCount": 41,
+          "title": "新华视评｜取钱需“自证清白”？银行不能把为难储户当成反诈“高招”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_31985184",
+          "author": null,
+          "description": "高市早苗发表涉台错误言论罔顾法理和历史事实，一系列言行危害地区稳定、祸及日本自身。对此，日本令和新选组代表山本太郎近日表示，高市早苗的言论有违日本政府此前做出的承诺，是在干涉中国内政，从某种意义上来说相当于“预告战争”。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_31985184",
+          "publishedOn": "2025-11-17T14:23:05.000Z",
+          "wordCount": 47,
+          "title": "日本党派人士：高市早苗言论相当于预告战争",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_31985246",
+          "author": null,
+          "description": "海南大学药学院、山东大学药学院联合发布讣告称，中国致公党党员、著名药物化学家、国家级重大人才项目获得者李敏勇教授，于2025年11月16日在广州突发疾病，经全力抢救无效不幸逝世，享年49岁。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_31985246",
+          "publishedOn": "2025-11-17T14:23:05.000Z",
+          "wordCount": 29,
+          "title": "著名药物化学家李敏勇突发疾病逝世，年仅49岁",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_31984619",
+          "author": null,
+          "description": "据日本媒体报道，日本外务省亚洲大洋洲局局长金井正彰于11月17日起访问中国，将就日本首相高市早苗围绕“台湾有事”的国会答辩同中方进行协商。\n在高市早苗涉台露骨挑衅言论引起轩然大波后，日方派出高官来华协商，被视为日方试图缓和当前中日关系态势。\n中方迅速强烈反应\n中日关系遭受严重冲击，“导火索”在于高市早苗近期在国会公然宣称“台湾有事”可能构成日本可行使集体自卫权的“存亡危机事态”，暗示可能武力介入台海问题。\n这是1945年以来，日本领导人首次在正式场合鼓吹所谓“台湾有事就是日本有事”并与行使集体自卫权相关联，首次在台湾问题上表达试图武装介入的野心，首次对中国发出武力威胁。在中国人民抗日战争暨世界反法西斯战争胜利80周年、台湾光复80周年之际，高市此论性质影响极其恶劣。\n中国社会科学院日本研究所所长杨伯江说，日方领导人首次将“存亡危机事态”用于中国内政，“开了一个非常恶劣的先例”，中方无法接受。\n针对高市早苗谬论，中国迅速通过多层次渠道释出清晰明确的信号，其中，两个罕见用词格外受到关注。\n——“奉示”\n11月13日，中国外交部副部长孙卫东奉示召见日本驻华大使金杉宪治，就日本首相高市早苗涉华错误言行提出严正交涉。11月14日，中国驻日本大使吴江浩奉示约见日本外务事务次官船越健裕，就日本首相高市早苗涉华错误言行提出严正交涉。\n“奉示”这一表述在中国外交辞典中极为罕见，专家认为，这意味着中国外交部官员是直接代表更高层级表达立场，是中国外交体系中极为罕见的抗议形式。\n——“迎头痛击”\n连日来，中国外交部、中国驻日本大使馆、国台办等多方发声：如日方胆敢武力介入台海局势，中方必将迎头痛击！\n“迎头痛击”一词形容正面给予对方沉重打击。中国国际问题研究院亚太研究所特聘研究员项昊宇说，“迎头痛击”不仅是外交辞令，该词首次被用于中日外交场合，“既体现出中方对于高市早苗错误行径的定性，也向对方讲明，…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_31984619",
+          "publishedOn": "2025-11-17T13:53:03.000Z",
+          "wordCount": 28,
+          "title": "央媒：日本为何着急派官员来华协商？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_31984558",
+          "author": null,
+          "description": "11月17日，微信公众号“思想政治工作研究”刊文介绍了铁路系统探索“集中干、集中休”乘务模式的经验做法。其中提到，涉改机车乘务员在连续值乘3个循环（约6至8天）后，休息时间由原来的16小时—20小时增长到72小时—96小时。\n消息称，国铁郑州局新乡机务段是集客车、货车、调车及高坡重载于一体的重大站段，担当瓦日、侯月、太焦、京广、新兖五大繁忙干线牵引任务，共有5902人，其中机车乘务员3346人。长子南运用车间担当瓦日线370公里的乘务交路，是全局唯一高坡万吨重载运用车间。\n该车间从2014年12月29日成立以来，就面临休息时间短、异地职工回家难等问题，导致了机车乘务员辞职率高、思想不稳定等情况，给安全生产带来极大隐患。长子南运用车间勇于创新、积极探索，推行了“集中干、集中休”乘务模式，解决了机车乘务员休息时间短、异地职工回家难等突出矛盾，让机车乘务员有更多的时间自行支配。为此，国铁郑州局党委宣传部与新乡机务段党委近期组成联合调研组，进行了专题调研。\n调研文章称，改革前，该车间职工队伍呈现“三多”特点：一是青年职工多。28岁以下职工占比55.1%，车间职工平均年龄29岁；二是异地职工多。异地职工473人占职工73.2%；三是辞职职工多。近三年已经辞职39人。\n“队伍不稳安全更难稳，不找到一条合理的科学方法是无法破解这些难题的。”2023年7月6日，长子南运用车间全面推行了“双集中”乘务模式。该乘务模式是以汤阴东为支点，上行在长子南、下行在台前北行车公寓调休的“半循环”值乘方式，即“汤阴东—长子南—台前北—汤阴东”值乘满一个循环算4趟积4分，3个循环合计12趟积12分算一次值乘时间，机车乘务员到达汤阴东后办理退勤手续，组织集中调休。这样下来，机车乘务员在连续值乘3个循环（约6至8天）后，休息时间由原来的16小时—20小时增长至如今的72小时—96小时。\n调研文章还提到，长子南运用车间职工648人，74%为异地职工，分布在陕西省、河北省等8省54市，由于新职工多，基本上都居住在单身宿舍和外出租房居住，九成以上异地职工没有将家安在安阳市。车间班子成员主动上手，收集异地职工购房需求，组成职工代表团从基础设施、医疗教育等方面挑选7家房地产公司，对经营状况及房屋建设情况实地考察，最终选定两个楼盘。“双集中”推行以来，有39名职工明确了购房意向、12名职工购房成功。另外，该车间全部为男性青年职工，未婚职工占比61%，婚恋难题成为制约单位和个人发展的绊脚石。车间主动联系安阳地区医院、学校和企事业单位，连续组织开展“青春有约、才聚西裴”“音随你动、相约七夕”等青年联谊活动，解决职工的婚恋问题。\n“双集中”乘务模式推行后，长子南运用车间职工队伍趋于稳定。调研文章指出，查阅数据得知：车间2022年离职20人，离职率3.4%；2023年离职17人，离职率2.8％；2024年仅有2人离职，职工离职率由往年的居高不下到现在的大幅下降。随着休息时间延长，职工生活、学习、工作得到兼顾，能够安心投入工作，工作热情很高。\n据联合调研组统计，“双集中”推行前，机车乘务员平均工时155小时/月、延时加班工资月平均480279.25元，推行后平均工时155.95小时/月、延时加班月平均工资354673.27元。对比看出：休息时间延长了、平均工时基本保持不变，而延时加班工资却大幅度下降，充分证明这种改革模式既减少人力资源浪费又降低了生产成本。另外，“双集中”推行前，机车乘务员“病事旷”假天数17人/日、“病事旷”缺勤率3.3%；推行后机车乘务员“病事旷”假天数4人/日、“病事旷”缺勤率0.08%；出勤率同比增长3.22%。从机车乘务员配班情况看：由以往的每日频繁调整人员转变为固定配备机车人员，车间、车队无需再将大量精力耗费在人员配班上，平均配班数由推行前的200班/日，增加至推行后的220班/日。\n调研文章还指出，“双集中”推行后，机车乘务员值乘大约6至8天即可在汤阴东退勤下班，平均休息时间3天至4天，职工有更多时间照顾家庭，做到工作家庭双兼顾，促进了家庭和谐，解决了职工后顾之忧。同时，职工有充足时间参加业务学习，学习动力空前高涨；职工参加集体购房活动的积极性也大大提高，尤其是未婚职工将“家”安在安阳市的愿望逐步增强。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_31984558",
+          "publishedOn": "2025-11-17T13:53:03.000Z",
+          "wordCount": 29,
+          "title": "地方探索“集中干、集中休”铁路乘务模式改革：职工离职率大幅下降",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_31984980",
+          "author": null,
+          "description": "11月17日，外交部发言人毛宁主持例行记者会。彭博社记者就李强总理会否在二十国集团领导人峰会期间会见日本首相提问。\n对此，毛宁干脆地表示，“李强总理没有会见日方领导人的安排。”\n在17日记者会上，澎湃新闻（www.thepaper.cn）记者在现场注意到，包括以上提问在内，现场近一半的提问与高市早苗涉台错误言论以及日本近期相关动向有关。回看最近一周的外交部例行记者会，自11月10日开始的6场记者会中，外交部发言人每场都会重点回应涉日提问，表达对高市早苗错误言论的强烈抗议。\n与此同时，根据澎湃新闻不完全统计，从11月10日起，包括6场记者会在内，外交部、文化和旅游部、教育部、中国驻日本大使馆、国台办、国防部、中国海警等中方多部门联合发力，在一周时间里对日发声或采取相关措施达16次，这也是一段时间以来中方向日本发出的最强烈信号。\n13日，外交部副部长孙卫东奉示召见日本驻华大使金杉宪治，14日，驻日本大使吴江浩奉示约见日本外务事务次官船越健裕，就高市早苗涉华错误言行提出严正交涉。中国驻日本大使馆发言人也于10日第一时间发声，表达对高市早苗错误言论的强烈不满和坚决反对。\n在14日下午的外交部例行记者会上，外交部发言人林剑用五个“严重”传递中方严正立场。林剑表示，孙卫东副部长召见了日本驻华大使，有关问题根源在于日本首相高市早苗发表极其错误、极为危险、极具挑衅的涉台言论，还不思悔改，拒不撤回。这种行为粗暴干涉中国内政，严重违背国际法和国际关系基本准则，严重破坏战后国际秩序，严重违背一个中国原则和中日四个政治文件精神，严重破坏中日关系政治基础，严重伤害中国人民感情。\n同一时间段，14日下午，国防部新闻局副局长、国防部新闻发言人蒋斌大校就高市早苗涉台错误言论表示，日方若不深刻汲取历史教训，胆敢铤而走险，甚至武力介入台海局势，必将在中国人民解放军的铜墙铁壁面前碰得头破血流，付出惨痛代价。\n国…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_31984980",
+          "publishedOn": "2025-11-17T13:53:03.000Z",
+          "wordCount": 30,
+          "title": "蓝厅观察｜中方多部门一周内对日密集发声或采取相应措施16次",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_31985091",
+          "author": null,
+          "description": "得益于宏观政策的持续发力，经济低物价运行的状态得到改善，核心CPI同比涨幅连续两个月在1%以上，PPI同比跌幅连续3个月收窄，10月末至-2.1%，不过距离趋势性逆转还有一定距离。从10月CPI和PPI的同比涨幅来看，预计四季度GDP平减指数尚不能由负转正，而央行的预期调查显示，居民与企业对未来物价下降的预期微降，但对未来物价预期不变的占比有所上升，尤其是居民的预期还是十分谨慎，反映出微观主体的通胀预期尚未趋势性扭转。\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.site",
+          "link": "https://www.thepaper.cn/newsDetail_forward_31985091",
+          "publishedOn": "2025-11-17T13:53:03.000Z",
+          "wordCount": 27,
+          "title": "金融月评｜降息是扭转预期的必要条件",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_31985142",
+          "author": null,
+          "description": "据孟加拉国媒体报道，孟加拉国国际犯罪法庭17日裁定前总理哈西娜在2024年全国性抗议活动期间犯下罪行，缺席判处她死刑。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_31985142",
+          "publishedOn": "2025-11-17T13:53:03.000Z",
+          "wordCount": 28,
+          "title": "孟加拉国法庭缺席判处前总理哈西娜死刑",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_31984543",
+          "author": null,
+          "description": "北京叶合拍卖有限公司（原名北京小观拍卖有限公司）的网络拍卖业务已于2024年7月停止，“观复”客户端因公司无力支付相关费用停止运营。\n上述消息由北京市东城区市场监督管理局11月17日发布的一份行政处罚告知书透露。该行政处罚告知书表明，北京叶合拍卖有限公司主要从事网络拍卖业务，拍卖使用的手机程序为“观复”客户端。此外，这份行政处罚告知书涉及的处罚信息为：北京叶合拍卖有限公司因“工作人员涉嫌以竞买人的身份参与自己组织的拍卖活动一案”被处以警告处罚。\n媒体报道显示，“观复”客户端此前由知名收藏家马未都创办的北京观复文化有限公司（以下简称“观复文化”）运营。2024年，观复文化被指有80余名员工被单方面解约，而该公司共有员工86人。\n随后，马未都对此回应称：“公司实际并没有像网上说的裁员80人。无论是我个人，还是两个观复博物馆的资金都非常充裕，就算几年没有收入，仍可以运转。”其在回应中称，观复文化旗下3家公司共有91人，目前51人正常在职，38人离职给予了满意的补偿，另有2人因为诉讼尚在处理中，会尊重并执行法律的裁判结果。\n媒体报道称，目前，美团、携程、大众点评等消费平台均可正常购买观复博物馆北京、上海两馆的门票。\n工商资料显示，北京叶合拍卖有限公司成立于2018年，法定代表人为尹帆，尹帆持有该公司95%股份。2025年7月8日，北京市东城区市场监督管理局将该公司列入经营异常名录，原因是“通过登记的住所或者经营场所无法联系的”。\n天眼查信息显示，马未都等人2024年退出并交由他人运营。北京叶合拍卖有限公司原名北京小观拍卖有限公司，2024年7月3日，马未都之子马天等人退股，同年8月13日更名为北京叶泰拍卖有限公司；同年10月22日，北京叶泰拍卖有限公司更名为北京叶合拍卖有限公司。\n此外，北京观复文化有限公司于2024年7月4日更名为北京叶泰文化有限公司，同时股东马未都、马天等人退出，新股东尹帆、陈业进入，目前由陈业控股95.1871%。\n北京市东城区市场监督管理局在行政处罚告知书中透露，2025年6月19日，该局接举报称北京叶合拍卖有限公司工作人员涉嫌以竞买人的身份参与自己组织的拍卖活动。2025年7月25日，办案人员对该公司住所地进行现场检查，办案人员制作了《现场笔录》。2025年7月31日，该局立案调查。2025年9月26日，办案人员按照举报人提供的线索进行现场检查，办案人员制作了《现场笔录》。其后该局分别向北京市文物局发函协查、北京市东城区人力资源和社会保障局发函协查。本案未采取行政强制措施。\n经查，北京叶合拍卖有限公司主要从事网络拍卖业务，拍卖使用的手机程序为“观复”客户端，该程序现已无法正常登录使用。经向该公司法定代表人尹帆身份证地址邮寄《询问通知书》及《限期提供材料通知书》，该公司提交情况说明表示网络拍卖业务已于2024年07月停止，“观复”客户端因公司无力支付相关费用停止运营，并提交了2023年06月至2024年07月期间向北京市文物局的请示、批复等拍卖会相关材料。\n王某2023年06月至2024年06月期间为该公司缴纳社保的工作人员，其在公司组织的2024年5月13日拍卖会上以竞买人身份拍得一件铜九宫八卦咒轮牌（成交价：210元），在公司组织的2024年5月17日拍卖会上以竞买人身份拍得一件锻铁九宫八卦转轮牌、铜九宫八卦咒轮牌（成交价：210元）。\n综上，北京叶合拍卖有限公司的上述行为涉嫌拍卖人的工作人员以竞买人的身份参与自己组织的拍卖活动，涉嫌违反了《中华人民共和国拍卖法》第二十二条的规定。\n北京市东城区市场监督管理局表示，鉴于该公司工作人员两次竞得拍品的成交金额较低，违法情节轻微，也未发现上述竞买行为造成损害其他竞买人利益等危害后果，社会危害性较小，符合《北京市市场监督管理局行政处罚裁量权适用规定》第十五条第（二）项规定可以依法从轻或者减轻行政处罚的情形。该局拟从轻作出如下行政处理决定：警告。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_31984543",
+          "publishedOn": "2025-11-17T13:23:05.000Z",
+          "wordCount": 36,
+          "title": "处罚告知书透露“观复文化”现状：马未都去年已退出，客户端与网络拍卖业务停止运营",
+          "imageUrl": null
+        },
         {
           "id": "https://www.thepaper.cn/newsDetail_forward_31983248",
           "author": null,
@@ -12218,66 +12418,6 @@
           "wordCount": 29,
           "title": "“滴滴出行”红河分公司负责人被立案调查：整改敷衍了事，司乘人员权益保障问题突出",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_31806448",
-          "author": null,
-          "description": "今明两天（10月19至20日），随着较强冷空气继续影响中东部，北方冷意将日渐加深，南方气温也会频刷新低。与此同时，西南地区东部、西北地区东南部等地将仍多阴雨，华南沿海随着台风“风神”的靠近风雨天气也将逐渐增多。\n西南等地阴雨持续，台风“风神”靠近华南沿海风雨渐增\n昨天，随着冷空气南下，主雨带南压、减弱，西南到江淮、江南等地出现降雨，云南等地部分地区雨势较强。监测显示，浙江中南部、江西北部、湖北东南部、湖南南部、贵州西部和东北部、云南中部和东北部、四川南部等地出现分散性大雨或暴雨，四川攀枝花等局地大暴雨。\n今明两天，西南地区东部、西北地区东南部、黄淮西部、江淮等地还会有阴雨天气，以小到中雨为主，西藏东部、青海南部等地将有小到中雪或雨夹雪。\n此外，随着今年第24号台风“风神”逐渐靠近，未来几天台湾、福建、广东等地降雨将会陆续增多。“风神”将以每小时30-35公里的速度向西北方向移动，今天傍晚前后进入南海东部海面，强度逐渐加强，最强可达强热带风暴级或台风级。\n具体来看，中央气象台预计，今天，内蒙古东北部、黑龙江西南部、西藏中部和东部、青海南部和西部、甘肃西南部、川西高原北部等地部分地区有小到中雪或雨夹雪，其中，青海南部、川西高原北部等地部分地区有大到暴雪。甘肃南部、陕西中南部、四川东北部和南部、云南西部和北部、台湾岛等地部分地区有中到大雨，其中，台湾岛中北部等地部分地区有暴雨或大暴雨。\n\n明天，新疆西部、青海西部和东南部、甘肃西南部、陕西北部、山西北部、川西高原北部等地部分地区有小雪或雨夹雪。陕西中南部、河南西部、福建北部和东南部、四川东部和南部、云南东北部和西部、广东东南部、台湾岛等地部分地区有中到大雨，其中，台湾岛东部和北部等地部分地区有暴雨或大暴雨。\n\n后天，内蒙古南部、新疆西部、甘肃中部和西南部、陕西北部、山西北部、川西高原北部等地部分地区有小雪或雨夹雪。\n\n今明两天，西南地区东部、西北地区东南部、黄淮西部、江淮等地阴雨持续，公众外出请携带雨具，雨天道路湿滑、能见度降低，驾车请注意交通安全。同时，台风“风神”对华南的风雨影响将逐渐增强，请注意防范。\n今明天北方冷意持续加深，南方气温将频刷新低\n昨天，今年下半年来最强冷空气继续影响我国中东部，北方大部气温持续偏低，南方多地也加入降温行列，贵州到江淮、江南等地现显著降温。\n今明两天，北方气温仍将十分低迷，最高气温普遍比常年同期偏低8至10℃，多地堪比常年11月上旬或中旬的气温水平，并且部分地区的气温还会继续下探，像太原明天仅有7℃，将创今年立秋后最高气温新低。此外，今明两天北方多地的最低气温也将连创新低，东北大部的最低气温将跌至零下，华北多地的最低气温也将只有0℃出头，寒意日渐加重。\n在南方，今天西南、江南等地的气温将继续下降，暑热未退的华南也将开启降温。未来三天，南方大部将陆续刷新最高气温新低，预计21日前后，江南一带最高气温将普遍不足20℃，华南等地的最高气温也会降至25℃上下。例如福州，昨天最高气温达到35℃以上，出现高温天气，21日最高气温就会降至21℃，盼来秋凉。\n中国天气网提醒，未来两天北方大部的气温将持续偏低，南方的气温也会快速下滑，多地将冷如常年11月，公众请及时添衣保暖，谨防因气温剧烈变化引发的呼吸系统和心脑血管等疾病。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_31806448",
-          "publishedOn": "2025-10-19T04:23:03.000Z",
-          "wordCount": 48,
-          "title": "北方冷意加深南方频刷气温新低，台风“风神”将影响华南沿海",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_31806449",
-          "author": null,
-          "description": "近日，江苏省泰州市姜堰区生态环境局办公室主任沈某发布微博视频，实名举报前任局长郭某，称其主政姜堰区生态环境局期间，主导建设的环保工程存在围标串标、操纵招投标、虚增工程量等行为，并通过其发小实际控制的公司套取财政资金，工程尚在服务期就已烂尾，在姜堰区财政本不宽裕的背景下，浪费财政资金超亿元。\n10月19日，沈某向澎湃新闻（www.thepaper.cn)确认系自己举报，沈某称郭某现已担任泰州市生态环境局执法局局长，自己已将上述举报材料提交至泰州市生态环境局、江苏省生态环境厅等相关部门，并将微博举报视频设置为“仅本人可见”。\n19日，江苏省生态环境厅相关负责人回应澎湃新闻，沈某举报的情况，省厅、市局尚在调查处理中，如有结果会告知。\n澎湃新闻致电郭某，郭某先是表示完全不知晓此事。后又回电称沈某已经举报了两三个月之久，沈某的举报系捏造，完全不属实，自己将配合相关部门的调查。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_31806449",
-          "publishedOn": "2025-10-19T04:23:03.000Z",
-          "wordCount": null,
-          "title": "泰州一区生态环境局办公室主任实名举报前局长，被举报人称系诬告，省厅、市局已介入调查",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_31806484",
-          "author": null,
-          "description": "日前，中共中央批准：\n据“河南日报”微信公众号10月19日消息，日前，中共中央批准：陈春江同志任中共河南省委委员、常委。中共河南省委决定：陈春江同志任中共洛阳市委委员、常委、书记，江凌同志不再担任中共洛阳市委书记、常委、委员。\n公开资料显示，陈春江，男，蒙古族，1971年5月出生，内蒙古科尔沁左翼中旗人，研究生学历，理学博士，1995年6月加入中国共产党，1998年7月参加工作。\n陈春江曾长期在天津工作，担任过天津市发改委副主任、党组成员，宁河区委常委、常务副区长等职，于2017年4月任和平区委副书记、代区长，次月任区长。\n2021年1月，商务部发布职务任免事项，陈春江获任商务部服务贸易和商贸服务业司司长，此后他还曾担任商务部外国投资管理司司长等职。2023年1月，陈春江出任商务部部长助理。\n2023年11月，陈春江任陕西省副省长。\n此番卸任的江凌出生于1964年9月，早年在广东工作，曾任清远市委副书记、市长，珠海市委副书记、市长。2016年，江凌履新韶关市委书记。2017年，江凌跻身副部级干部，升任广东省委常委、秘书长。2018年，江凌北上跨省履新河南省委常委，后兼任省委宣传部部长。2021年7月，江凌兼任洛阳市委书记。\n2025年1月，江凌当选河南省人大常委会副主任。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_31806484",
-          "publishedOn": "2025-10-19T04:23:03.000Z",
-          "wordCount": 29,
-          "title": "陕西省副省长陈春江跨省调任河南省委常委、洛阳市委书记",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_31806487",
-          "author": null,
-          "description": "中国共产党第二十届中央委员会第四次全体会议于10月20日至23日在北京召开。党的二十届四中全会主要议程有哪些？更多内容，一张图带你了解。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_31806487",
-          "publishedOn": "2025-10-19T04:23:03.000Z",
-          "wordCount": 33,
-          "title": "召开在即！一图了解党的二十届四中全会",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_31806489",
-          "author": null,
-          "description": "10月18日，联合国分管人道主义事务的副秘书长弗莱彻到加沙地带北部的加沙城，查看在冲突中遭破坏的污水处理厂。他表示，加沙城经历毁灭性打击，重建工作十分艰巨。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_31806489",
-          "publishedOn": "2025-10-19T04:23:03.000Z",
-          "wordCount": 47,
-          "title": "联合国副秘书长：加沙重建工作十分艰巨",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_31806493",
-          "author": null,
-          "description": "10月19日11时33分，力箭一号遥八运载火箭在东风商业航天创新试验区发射升空，将搭载的巴基斯坦遥感卫星02星、中科卫星03星和04星共3颗卫星顺利送入预定轨道，飞行试验任务获得圆满成功。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_31806493",
-          "publishedOn": "2025-10-19T04:23:03.000Z",
-          "wordCount": 27,
-          "title": "一箭三星！力箭一号遥八运载火箭发射成功",
-          "imageUrl": null
         }
       ]
     },
@@ -12286,6 +12426,56 @@
       "feedUrl": "https://www.nationalreview.com/feed/",
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
+        {
+          "id": "https://www.nationalreview.com/?p=1894276",
+          "author": "Andrew C. McCarthy",
+          "description": "The Justice Department is in the business of investigating crime, not the business of conducting political opposition research.",
+          "link": "https://www.nationalreview.com/2025/11/is-bondi-saying-her-dojs-prior-exhaustive-epstein-review-was-a-sham/",
+          "publishedOn": "2025-11-17T16:48:52.000Z",
+          "wordCount": 18286,
+          "title": "Is Bondi Saying Her DOJ’s Prior ‘Exhaustive’ Epstein Review Was a Sham?",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2025/11/pam-bondi-papers.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1893887",
+          "author": "Jared Bauman and Susan Greene",
+          "description": "A misapplication of the First Amendment has led to an injustice.",
+          "link": "https://www.nationalreview.com/2025/11/court-ruling-strikes-a-blow-against-civil-rights-enforcement/",
+          "publishedOn": "2025-11-17T11:30:50.000Z",
+          "wordCount": 7313,
+          "title": "Court Ruling Strikes a Blow Against Civil Rights Enforcement",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2025/11/pro-palestinian-encampment-mit-2.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1894072",
+          "author": "The Editors",
+          "description": "It would behoove the administration to apply the logic of the latest relief more broadly.",
+          "link": "https://www.nationalreview.com/2025/11/trumps-overdue-tariff-rollback/",
+          "publishedOn": "2025-11-17T11:30:28.000Z",
+          "wordCount": 6553,
+          "title": "Trump’s Overdue Tariff Rollback",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2025/11/donald-trump-oval-office.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1894088",
+          "author": "Kathryn Jean Lopez",
+          "description": "Love is the antidote to our poisonous culture of abortion.",
+          "link": "https://www.nationalreview.com/2025/11/women-need-good-men/",
+          "publishedOn": "2025-11-17T11:30:20.000Z",
+          "wordCount": 7457,
+          "title": "Women Need Good Men",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2018/07/RTX23LVG.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1894065",
+          "author": "Jason Locasale",
+          "description": "A recent segment was a sad attempt to cloak the shortcomings of academic science in hype, sentimentality, and public relations theater.",
+          "link": "https://www.nationalreview.com/2025/11/what-60-minutes-got-wrong-about-harvard-and-the-biomedical-research-enterprise/",
+          "publishedOn": "2025-11-17T11:30:04.000Z",
+          "wordCount": 7858,
+          "title": "What <i>60 Minutes</i> Got Wrong About Harvard and the Biomedical Research Enterprise",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2025/11/harvard-medical-research-60-minutes.jpg?fit=2057%2C1200&ssl=1"
+        },
         {
           "id": "https://www.nationalreview.com/?p=1893952",
           "author": "The Editors",
@@ -14095,16 +14285,6 @@
           "wordCount": 7490,
           "title": "Pete Hegseth Oversteps with New Press Policy",
           "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2025/10/hegseth.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1886039",
-          "author": "Andrew C. McCarthy",
-          "description": "The administration has appealed to the Supreme Court as challenges in other states mount.",
-          "link": "https://www.nationalreview.com/2025/10/seventh-circuit-blocks-trump-national-guard-deployment-in-chicago/",
-          "publishedOn": "2025-10-18T23:06:43.000Z",
-          "wordCount": 8333,
-          "title": "Seventh Circuit Blocks Trump National Guard Deployment in Chicago",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2025/10/national-guard-chicago.jpg?fit=2057%2C1200&ssl=1"
         }
       ]
     },
@@ -14113,6 +14293,26 @@
       "feedUrl": "https://sspai.com/feed",
       "siteUrl": "https://sspai.com",
       "articles": [
+        {
+          "id": "https://sspai.com/post/103895",
+          "author": "少数派编辑部",
+          "description": "欢迎收看本期《派评》。你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的App或者关注的话题，也欢迎在评论区和我们讨论。不容错过的App更新除了「新鲜」App，AppStore中的许多 ...查看全文",
+          "link": "https://sspai.com/post/103895",
+          "publishedOn": "2025-11-17T09:43:51.000Z",
+          "wordCount": 573,
+          "title": "派评 | 近期值得关注的 App",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sspai.com/post/103881",
+          "author": "waychane",
+          "description": "随着iPhone17系列机型的供应情况日趋稳定，AppleStore也趁着礼品季为AppleTradeIn换购计划推出了额外购机补贴优惠。现在，在AppleStore用旧设备参与折抵换购入手新设备时， ...查看全文",
+          "link": "https://sspai.com/post/103881",
+          "publishedOn": "2025-11-17T07:07:16.000Z",
+          "wordCount": 417,
+          "title": "Apple Trade In 换购计划体验：今年有什么不一样？",
+          "imageUrl": null
+        },
         {
           "id": "https://sspai.com/post/103693",
           "author": "Justinye233",
@@ -15160,6 +15360,104 @@
       "feedUrl": "https://plink.anyfeeder.com/idaily/today",
       "siteUrl": "https://idai.ly",
       "articles": [
+        {
+          "id": "idaily-240514",
+          "author": "德国 · 科隆",
+          "description": "2025年德国科隆大教堂广场圣诞集市搭建完成。11月17日，科隆大教堂一年一度的圣诞集市正式开幕，本年度共设立超过140个手工艺品和美食摊铺，并现场举行音乐演奏、木偶戏和舞蹈表演等活动，开放时间持续至12月23日。欧盟统计局数据显示2025年第三季度欧元区 GDP 环比增幅仅0.2%，其中德国和意大利均录得零增长。欧洲央行预测欧元区全年经济增长率为1.2%。摄影师：Roberto Pfeil",
+          "link": "https://m.idai.ly/se/79b66U",
+          "publishedOn": "2025-11-17T10:59:00.000Z",
+          "wordCount": 255,
+          "title": "科隆大教堂圣诞集市开幕 - November 17, 2025",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/2c99fe09/56400945.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/2c99fe09/56400945.jpg"
+        },
+        {
+          "id": "idaily-240513",
+          "author": null,
+          "description": "2025年广州国际灯光节举行亮灯仪式，一只27米长的巨型「鳌鱼」彩灯在主会场亮相。这件巨型彩灯的设计灵感来自《山海经》记载的古瑞兽「鳌鱼」，彩灯内填充氦气从而可以在空中悬浮。11月16日，第14届广州国际灯光节正式开幕，本届主题为「智汇湾区·悦动全运」，主会场海心沙亚运公园和花城广场共展出36组灯光艺术作品，展期将持续至11月26日。摄影师：iDaily Media",
+          "link": "https://m.idai.ly/se/a36nCj",
+          "publishedOn": "2025-11-17T09:58:00.000Z",
+          "wordCount": 255,
+          "title": "第14届广州国际灯光节 - November 17, 2025",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/95dd9538/13098e27.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/95dd9538/13098e27.jpg"
+        },
+        {
+          "id": "idaily-240512",
+          "author": "韩国 · 首尔",
+          "description": "韩国总统李在明与三星集团会长李在镕出席工商界代表沟通会，首尔。11月16日，韩国总统李在明会见三星电子、SK、现代汽车、LG、韩华等韩国主要企业高管，要求相关企业提高对韩国国内投资，避免因美韩投资协议而牺牲国内产业。三星电子当天承诺未来5年投资450万亿韩元扩大其国内业务；SK集团承诺投资600万亿韩元在龙仁建设4家大型半导体制造厂；现代汽车承诺投资125万亿韩元推进AI和自动驾驶等技术研发；韩华集团承诺投资11万亿韩元强化韩国造船和武器制造业务。摄影师：iDaily Media",
+          "link": "https://m.idai.ly/se/f0e5Xs",
+          "publishedOn": "2025-11-17T08:57:00.000Z",
+          "wordCount": 255,
+          "title": "韩国要求企业扩大国内投资 - November 17, 2025",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/32b68703/134ca638.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/32b68703/134ca638.jpg"
+        },
+        {
+          "id": "idaily-240510",
+          "author": "德国 · 杜塞尔多夫",
+          "description": "第57届德国杜塞尔多夫医疗器械展（MEDICA），一台中资德企 KUKA 公司研发的手术机器人正在进行演示。11月17日，全球最大的医疗设备展会 MEDICA 在杜塞尔多夫展览中心举行，共有来自72个国家的逾5000家医疗企业参展，涵盖医学诊断、实验室设备、医疗信息技术等领域，展期持续至11月20日，预计将吸引超过8万人参观。德国医学技术协会（BVMed）报告指出2024年德国医疗技术行业市场规模超过410亿欧元，其中出口占比达68%。摄影师：Ying Tang",
+          "link": "https://m.idai.ly/se/7117xT",
+          "publishedOn": "2025-11-17T08:55:00.000Z",
+          "wordCount": 255,
+          "title": "德国杜塞尔多夫医疗器械展 - November 17, 2025",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/8cf77a84/1f2d11cc.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/8cf77a84/1f2d11cc.jpg"
+        },
+        {
+          "id": "idaily-240509",
+          "author": "墨西哥 · 墨西哥城",
+          "description": "抗议民众试图闯入墨西哥国家宫，墨西哥城。11月15日，墨西哥首都爆发大规模示威活动抗议政府治安维护不力，至少100名警察和20名抗议者在冲突中受伤。本次抗议活动由墨西哥「Z世代」青年团体发起，起因是墨西哥前乌鲁阿潘市市长 Carlos Manzo 在亡灵节活动中遭枪击身亡。墨西哥国家公共安全系统数据显示2025年1至10月该国累计发生20096起凶杀案，平均每天有66.1人遇害。摄影师：Alfredo Estrella",
+          "link": "https://m.idai.ly/se/ed5tmy",
+          "publishedOn": "2025-11-17T08:53:00.000Z",
+          "wordCount": 255,
+          "title": "墨西哥爆发反政府示威 - November 17, 2025",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/edcfbd52/b46455e7.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/edcfbd52/b46455e7.jpg"
+        },
+        {
+          "id": "idaily-240508",
+          "author": "中国 · 西安",
+          "description": "陕西省首列中吉乌 X9015 次国际班列从西安发车，中国陕西省。11月13日，中国西安至乌兹别克斯坦的首条铁公联运国际班列顺利开行。首发班列共装载45个汽车零配件货物集装箱，首先经铁路抵达喀什，然后转公路出境进入中亚地区，全程预计20天，较传统运输方式节省约4至5天。2025年前10个月中亚班列累计开行1.19万列，同比增长22.9%。摄影师：iDaily Media",
+          "link": "https://m.idai.ly/se/6a57RP",
+          "publishedOn": "2025-11-17T08:51:00.000Z",
+          "wordCount": 255,
+          "title": "陕西首趟中吉乌铁公联运班列 - November 17, 2025",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/44b9af60/4b4bc576.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/44b9af60/4b4bc576.jpg"
+        },
+        {
+          "id": "idaily-240507",
+          "author": "肯尼亚 · 奈瓦沙",
+          "description": "肯尼亚动物保护人员正在转移一只野生成年雌性马赛长颈鹿（Masai giraffe），纳库鲁郡奈瓦沙。11月16日，肯尼亚野生动物保护局在奈瓦沙克东牧场开展野生长颈鹿迁移行动，成功将2只长颈鹿转移至新保护区。克东牧场是东非大裂谷地区主要的动物迁徙通道之一，由于当地土地开发导致野生动物栖息地大幅减少，肯尼亚政府从2025年8月迄今已转移包括长颈鹿、羚羊、斑马、水牛在内的超过240只动物至其他动物保护区。摄影师：Tony Karumba",
+          "link": "https://m.idai.ly/se/d27Kd8",
+          "publishedOn": "2025-11-17T08:49:00.000Z",
+          "wordCount": 255,
+          "title": "肯尼亚迁移野生长颈鹿 - November 17, 2025",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/50ae16b1/aa396a2b.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/50ae16b1/aa396a2b.jpg"
+        },
         {
           "id": "idaily-240475",
           "author": "法国 · 巴黎",
@@ -17870,6 +18168,16 @@
       "siteUrl": "http://nytimes.com",
       "articles": [
         {
+          "id": "https://cn.nytimes.com/opinion/20251117/silicon-valley-meta-apple-trump/dual",
+          "author": null,
+          "description": "AARON ZAMOST2025年11月17日 Ben Denzer\nWhile working at YouTube in an era when a wedding dance and a 7-year-old hallucinating on dental anesthesia were top viral videos, I received the news that my employer had won a Peabody Award, which honors the most powerful storytelling achievements in electronic media. The committee praised YouTube as an “ever-expanding archive-cum-bulletin board that both embodies and promotes democracy.” Instead of displaying the statuette in the lobby with our other awards, I put it on my desk. I have no idea where it went after I left the company two years later.\n我在YouTube工作的那个年代，爆款视频还只是婚礼舞蹈和七岁小孩牙科麻醉后产生幻觉的片段，某天我收到消息，公司斩获了皮博迪奖——这一奖项旨在表彰电子媒体领域最具影响力的叙事成就。评审委员会称赞YouTube是“兼具档案库与公告栏功能、既体现又推动民主的平台”。我没有把奖杯和其他奖项一起摆在大厅，而是放在了自己的办公桌上。两年后我离职时，完全不知道它最终流落何方。\nIt’s hard to square the…",
+          "link": "https://cn.nytimes.com/opinion/20251117/silicon-valley-meta-apple-trump/dual",
+          "publishedOn": "2025-11-17T07:36:03.000Z",
+          "wordCount": 1218,
+          "title": "硅谷的堕落：从革命者到逐利忘义",
+          "imageUrl": "https://static01.nyt.com/images/2025/11/16/opinion/31zamost/31zamost-articleLarge.jpg"
+        },
+        {
           "id": "https://cn.nytimes.com/usa/20251117/trump-organization-saudi-development-deal/dual",
           "author": null,
           "description": "VIVIAN NEREIM, REBECCA R. RUIZ2025年11月17日\nThe Trump Organization is in talks that could bring a Trump-branded property to one of Saudi Arabia’s largest government-owned real estate developments, according to the chief executive of the Saudi company leading the development.\n一家沙特阿拉伯公司的首席执行官表示，该公司负责的一个项目——沙特最大的政府所有房地产开发项目之一——正在与特朗普集团洽谈，以期在项目中引入一座特朗普品牌物业。\nThe negotiations are the latest example of President Trump blending governance and family business, particularly in Persian Gulf countries. Since returning to office, the president’s family and businesses have announced new ventures abroad involving billions of dollars, made hundreds of millions from cryptocurrency, and sold tickets to a private dinner hosted by Mr. Trump.\n这一谈判是特朗普总统将执政与家族生意交织在一起的最新例子，尤其是在波斯湾国家。自再度上台以来，总统的家人和企业宣布了涉及数十亿美元的海外新项…",
@@ -19454,26 +19762,6 @@
           "publishedOn": "2025-10-21T02:00:00.000Z",
           "wordCount": 310,
           "title": "去电影院，电影还没有邻座大娘有看头儿",
-          "imageUrl": null
-        },
-        {
-          "id": "b8766f1f048a12f176dba48e3b5deb4f",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+2025%E5%8C%97%E4%BA%AC%E5%9B%BE%E4%B9%A6%E5%B8%82%E9%9B%86%C2%B7%E7%A7%8B%E5%AD%A3%E5%9C%BA%E2%80%9C%E6%9C%AA%E5%AE%8C%E6%88%90%E2%80%9D%EF%BC%8C%E8%BF%98%E5%89%A9%E6%9C%80%E5%90%8E%E4%B8%80%E5%A4%A9",
-          "publishedOn": "2025-10-19T02:01:00.000Z",
-          "wordCount": 309,
-          "title": "2025北京图书市集·秋季场“未完成”，还剩最后一天",
-          "imageUrl": null
-        },
-        {
-          "id": "9ba77eb24cefce4f937996d67985e8dd",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E5%8F%A3%E8%A2%8B%E4%B9%A6%E6%B5%81%E8%A1%8C%EF%BC%9F%E9%82%A3%E4%BA%9B%E5%8D%83%E5%A5%87%E7%99%BE%E6%80%AA%E7%9A%84%E4%B9%A6%E7%B1%8D%E5%BD%A2%E5%BC%8F%E6%97%A9%E5%B0%B1%E6%9C%89%E4%BA%86",
-          "publishedOn": "2025-10-19T02:01:00.000Z",
-          "wordCount": 256,
-          "title": "口袋书流行？那些千奇百怪的书籍形式早就有了",
           "imageUrl": null
         }
       ]
