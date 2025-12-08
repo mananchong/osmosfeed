@@ -6,6 +6,16 @@
       "siteUrl": "https://rweekly.org/atom.xml",
       "articles": [
         {
+          "id": "https://rweekly.org/2025-W50.html",
+          "author": null,
+          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Sam Parmar, with help from the R Weekly team members and contributors.\nHighlight\n2025-12-05 AI Newsletter\nThe Test Set: Now on YouTube + a look at what’s next\nHaskell IS a Great Language for Data Science\nInsights\nSeeing the forest for the lines - Scaling complex base plots in Shiny\nWeekly Recap (December 4, 2025)\nbookdown.org Hosting Service Sunset\n2025-12-05 AI Newsletter\n\nLatinR 2025: future.p2p: Peer-to-Peer Compute Clusters in R\n\nNet migration in Pacific island countries by @ellis2013nz\nVisual summaries of population in Pacific islands by @ellis2013nz\nR for Geospatial Predictive Mapping: Takeaways from the Talk\nBuilding a Clinical Dashboard Prototype in 2 Days: An AI-Ass…",
+          "link": "https://rweekly.org/2025-W50.html",
+          "publishedOn": "2025-12-08T00:00:00.000Z",
+          "wordCount": 5782,
+          "title": "R Weekly 2025-W50 New AI Newsletter, Test Set on Youtube, Haskell for Data Science",
+          "imageUrl": "https://rweekly.org/public/facebook.png"
+        },
+        {
           "id": "https://rweekly.org/2025-W49.html",
           "author": null,
           "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Colin Fay, with help from the R Weekly team members and contributors.\nHighlight\nCreate custom GPS route maps in R\nFrom RUnit to testthat with Coding Agent Support\nDoes winning back-to-back individual immunity challenges decrease your chances of surviving the next Tribal Councils?\nInsights\nnlmixr2 is Becoming an R Consortium Working Group\nFrom the adas.utils Package to R-Trento: Paolo Bosetti on Building Tools and Community\nTranslating the rOpenSci Dev Guide into Portuguese: Collaboration, Community, Challenges, and Impact\nR in the Real World\nExpanding the Reach of R Across Cleveland’s Data and Tech Community\nDoes winning back-to-back individual immunity challenges decrease your chances of surviving the next Tribal Councils?\nTutorials\nFrom RUnit to testthat with Coding Agent Support\nCreate custom GPS route maps in R\nGuides for migrating to Positron\nNew Packages\n📦 Go Live for More New Pkgs 📦\n -->\n📦 Keep up to date wtih CRANberries 📦\nUpdated Packages\n🔍 Search on R-universe 🔍\n{gdalraster} 2.3.0: API bindings to GDAL (Geospatial Data Abstraction Library) - diffify\ntidyCpp 0.0.8 on CRAN: Maintenance\nRcppQuantuccia 0.1.3 on CRAN: Micro Maintenance\nRcppArmadillo 15.2.2-1 on CRAN: Upstream Update, OpenMP Updates\nVideos and Podcasts\nListen to the R-Weekly Highlights Podcast\n\n-->\n\nR Project Updates\nUpdates from R Core:\nUpcoming Events in 3 Months\nEvents in 3 Months:\nA list of R conferences and meetings\nThis week’s local R-User and applied stats events\nWeekly R Workshops for Ukraine\n30daymapchallenge\nWealth boundaries\nRailways\nToponymy\nConnect\nJoin the Data Science Learning Community",
@@ -631,16 +641,6 @@
           "wordCount": 116,
           "title": "白虎评《生命的尺度》｜在死亡与技术之间思考",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_31890159",
-          "author": null,
-          "description": "杨斌（蒋立冬 绘）\n\n\n《江南以南：被湮没的严州府》是历史学家杨斌最近出版的新书，是他为家乡浙江建德写作的一部跨越两千年的地方史研究著作。\n杨斌，美国波士顿东北大学博士，现为香港城市大学中文及历史学系教授。研究方向为中国史、全球史、科技医疗史及海洋史。此前出版的著作有《海贝与贝币：鲜为人知的全球史》《人海之间：海洋亚洲中的中国与世界》等。\n在施坚雅（G. William Skinner）提出的中国九大宏观区域当中，江南以及华南被研究者关注最多，相关成果也最多。学术界讨论的江南，狭义上指镇江以东的江苏南部和浙江北部地区，其中杭州居于最南面。所以，在《江南以南：被湮没的严州府》一书序言中，杨斌写道：“历史上严州府和杭州府并立，因而严州不属于杭嘉湖所在的江南；同时，严州山区并不滨海，以山林经济为主，其他各个行业均不发达。因此，从地理上看，严州虽然属于施坚雅归纳的东南沿海(也就是闽浙)，但从文化和经济上看，严州府与浙江沿海和福建省千差万别。”\n因此，在这部《江南以南：被湮没的严州府》中，杨斌描述了一个地处山区、经济不发达的“非典型江南”，打破了“江南=富庶水乡”的刻板印象。他结合方志、小说、域外文献等资料，选取了严州的地理特征、伍子胥崇拜、东汉隐士严光、严州籍杨太后、南宋浮桥等角度，写出了一部微观、地区、国家和跨国视野下的地方史：“既正视了建德与北邻江南地区的不同之处，又揭示了这个地方是在与国家建构的相互过程中得以形成的，同时还指出建德这个内陆山区如何在跨国的交流中有其一席之地。”\n在杨斌看来，长期以来地方史的书写是在国别史的大框架下进行的，其前提与立场是：某个地区其内部是均质的，在国家的框架下形成显著的地方特色，因而可以拿出来自成一体，从古至今顺流而下。但这个范式，最近几十年来遭到了挑战和修订。“某个地区是在和相邻以及不相邻的其他地区、国家以及跨国的势力多重维度的联系和交往中形成…",
-          "link": "https://www.thepaper.cn/newsDetail_forward_31890159",
-          "publishedOn": "2025-11-09T02:02:03.000Z",
-          "wordCount": 130,
-          "title": "杨斌谈江南以南的严州与地方史书写新范式",
-          "imageUrl": null
         }
       ]
     },
@@ -649,6 +649,206 @@
       "feedUrl": "https://feedx.net/rss/thepaper.xml",
       "siteUrl": "http://thepaper.cn",
       "articles": [
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_32133959",
+          "author": null,
+          "description": "根据日本原子力规制厅接到的通报，当地时间12月8日深夜日本本州东部近海强震发生后，位于北海道的泊核电站“观测到震度为2的晃动”，但截至目前尚未确认因本次地震出现异常。据称，泊核电站所有核反应堆均处于长期停运状态，其周边辐射量监测数值未发生变化。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_32133959",
+          "publishedOn": "2025-12-08T16:53:04.000Z",
+          "wordCount": 27,
+          "title": "日本青森强震影响区域内未收到核电站异常报告",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_32133663",
+          "author": null,
+          "description": "新华社伦敦12月8日消息，英国《自然》杂志网站8日发布2025年度十大科学人物榜单，中国人工智能企业深度求索创始人梁文锋和中国科学院深海科学家杜梦然入选。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_32133663",
+          "publishedOn": "2025-12-08T16:23:04.000Z",
+          "wordCount": 27,
+          "title": "《自然》评出年度十大科学人物，梁文锋和杜梦然入选",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_32133938",
+          "author": null,
+          "description": "中国驻札幌总领馆提醒领区内中国公民，特别是北海道、青森县太平洋沿岸地区和岩手县中国公民，通过官方渠道及时了解最新情况，遵循当地政府发布的避难指令，做好应急避难，远离海边，确保人身安全。注意海啸可能会反复来袭，不要因为取东西或观察情况等靠近海岸。如遇紧急情况，请及时报警并与中国驻札幌总领馆联系寻求协助。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_32133938",
+          "publishedOn": "2025-12-08T16:23:04.000Z",
+          "wordCount": 27,
+          "title": "日本发生强震，我领馆提醒在日中国公民防范海啸及余震",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_32133614",
+          "author": null,
+          "description": "澎湃，澎湃新闻，澎湃新闻网，新闻与思想，澎湃是植根于中国上海的时政思想类互联网平台，以最活跃的原创新闻与最冷静的思想分析为两翼，是互联网技术创新与新闻价值传承的结合体，致力于问答式新闻与新闻追踪功能的实践。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_32133614",
+          "publishedOn": "2025-12-08T15:53:03.000Z",
+          "wordCount": 34,
+          "title": "贵州榕江再发通报：涉事公司被立案侦查，女选手被骚扰为不实消息",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_32133615",
+          "author": null,
+          "description": "澎湃，澎湃新闻，澎湃新闻网，新闻与思想，澎湃是植根于中国上海的时政思想类互联网平台，以最活跃的原创新闻与最冷静的思想分析为两翼，是互联网技术创新与新闻价值传承的结合体，致力于问答式新闻与新闻追踪功能的实践。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_32133615",
+          "publishedOn": "2025-12-08T15:53:03.000Z",
+          "wordCount": 34,
+          "title": "贵州榕江再发通报：涉事公司被立案侦查，女选手被骚扰为不实消息",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_32133608",
+          "author": null,
+          "description": "日本气象厅修正了当地时间今天（12月8日）23:15（北京时间22:15）的强震震级，将青森县东部近海发生地震的震级从7.2级修正为7.6级，最大震度达到“6强”（日本10级震度中的第二高）。北海道太平洋沿岸中部地区，预计海啸即将到达，预计海啸浪高3米。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_32133608",
+          "publishedOn": "2025-12-08T15:23:04.000Z",
+          "wordCount": 45,
+          "title": "现场丨日本青森近海发生7.6级地震，有民众惊呼“糟了糟了”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_32133611",
+          "author": null,
+          "description": "记者从自然资源部了解到，北京时间8日22时15分，日本本州东岸近海海域发生地震。自然资源部海啸预警中心根据初步地震参数判断，地震可能会在震源周围引发局地海啸，但不会对我国沿岸造成影响。\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.site",
+          "link": "https://www.thepaper.cn/newsDetail_forward_32133611",
+          "publishedOn": "2025-12-08T15:23:04.000Z",
+          "wordCount": 27,
+          "title": "日本本州东岸近海海域地震或引发海啸，不会对我国沿岸造成影响",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_32130743",
+          "author": null,
+          "description": "据新华社，中共中央政治局12月8日召开会议，分析研究2026年经济工作。\n本次会议为明年经济工作指明了哪些方向？最新定调和部署有何深意？政策布局有何新变化？又将如何影响A股市场？\n对此，多位券商首席经济学家不约而同地指出，宏观政策保持了连续性，延续了积极定调，但在细节上略有区别。\n广发证券首席经济学家郭磊分析称，在“持续扩大内需”的后面新增“优化供给、做优增量、盘活存量”的表述，是基于“十四五”期间的经济特征，政策更加重视经济的供需平衡以及新旧经济动能的平衡。\n申万宏源证券首席经济学家赵伟表示，本次会议政策部署新增“协同性”与“存量政策和增量政策集成效应”，即会议在延续积极财政与适度宽松货币基调的基础上，明确提出“增强政策前瞻性针对性协同性”，“发挥存量与增量政策集成效应”。\n相应变化之下，赵伟预计，首先，政策仍将内需置于核心；其次，“坚持改革攻坚”基调下，“纵深推进全国统一大市场建设”等举措或加快；再次，“坚持民生为大”仍是重点，稳就业、稳企业、稳市场、稳预期相关政策可期。\n定调延续积极\n对于本次会议的整体定调，郭磊便指出，一方面，本次会议对于形势的判断保持了连续性。“经济运行总体平稳、稳中有进”、“新质生产力稳步发展、民生保障更加有力（去年为扎实有力）”等关键提法和去年底政治局会议基本一致。对风险化解的表述更为积极，去年是“重点领域风险化解有序有效”，今年是“重点领域风险化解取得积极进展”。\n“另一方面，政策保持连续性。‘实施更加积极有为的宏观政策’、‘实施更加积极的财政政策和适度宽松的货币政策’等关键提法，均和去年底政治局会议一致。”郭磊表示。\n兴业证券宏观首席分析师段超同样指出，本次会议重提跨周期，宏观政策定调延续积极。会议表示继续实施更加积极的财政政策和适度宽松的货币政策，这一表述与2024年12月相同，此次会议对宏观政策定调延续积极。\n粤开证券首席经济学家、研究…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_32130743",
+          "publishedOn": "2025-12-08T14:53:04.000Z",
+          "wordCount": 50,
+          "title": "政治局会议深读｜释放哪些信号，有何投资启示？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_32132836",
+          "author": null,
+          "description": "新华社快讯：日本气象厅将青森县附近海域地震震级修正为7.6级。\n日本气象厅8日23时23分发布海啸警报，预计部分海域将出现最高3米海啸，呼吁沿岸民众高度警戒。\n另据央视新闻消息，当日23时15分左右，日本青森近海发生强震，东京等地亦有明显震感。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_32132836",
+          "publishedOn": "2025-12-08T14:53:04.000Z",
+          "wordCount": 34,
+          "title": "日本青森县附近海域发生7.6级地震：触发海啸警报，东京震感明显",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_32132863",
+          "author": null,
+          "description": "据新华社消息，日本气象厅将青森县附近海域地震震级修正为7.6级。\n央视新闻此前报道，据日本气象厅消息，当地时间12月8日23时15分，青森县东部近海发生7.2级地震，最大震度达6强。\n日本气象厅8日23时23分发布海啸警报，预计部分海域将出现最高3米海啸，呼吁沿岸民众高度警戒。\n当日23时15分左右，日本青森近海发生强震，东京等地亦有明显震感。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_32132863",
+          "publishedOn": "2025-12-08T14:53:04.000Z",
+          "wordCount": 28,
+          "title": "日本青森县附近海域发生7.6级地震",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_32133140",
+          "author": null,
+          "description": "近日，有报道称，医师提醒，服用玛巴洛沙韦片（商品名：速福达）时，最好别用矿泉水送服，原因是矿泉水中的矿物质会降低口服的吸收率。\n12月8日，对于上述药物送服的问题，罗氏方面向澎湃新闻记者表示，根据药品说明书，玛巴洛沙韦片剂和干混悬剂应避免本品与乳制品、钙强化饮料、含高价阳离子的泻药、抗酸药或口服补充剂（如，钙、铁、镁、硒或锌）同时服用。无论是片剂，还是干混悬剂，用矿泉水、纯净水送服是完全符合药品使用说明书且安全的。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_32133140",
+          "publishedOn": "2025-12-08T14:53:04.000Z",
+          "wordCount": 30,
+          "title": "矿泉水影响抗流感药吸收率？罗氏回应：矿泉水、纯净水送服均安全",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_32132534",
+          "author": null,
+          "description": "12月8日，以军突然搜查了联合国近东救济处设在耶路撒冷的办事处。有巴勒斯坦消息人士称，以军没收了安保人员的手机，还在其办公楼上升起了以色列国旗。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_32132534",
+          "publishedOn": "2025-12-08T14:23:04.000Z",
+          "wordCount": 47,
+          "title": "以军强行搜查，联合国近东救济处：不可接受的侵犯",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_32132756",
+          "author": null,
+          "description": "当地时间12月8日，俄罗斯总统普京在战略发展与国家项目会议上表示，2025年俄罗斯国内生产总值预计增长约1%，通货膨胀率将维持在6%左右或更低水平。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_32132756",
+          "publishedOn": "2025-12-08T14:23:04.000Z",
+          "wordCount": 27,
+          "title": "普京：2025年俄罗斯国内生产总值预计增长约1%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_32130421",
+          "author": null,
+          "description": "泡泡玛特股价跌超8%。\n12月8日，恒指收跌1.23%，报25765.36点。个股方面，被称为“新消费三姐妹”的泡泡玛特(09992.HK)跌8.49%、老铺黄金(06181.HK)跌6.72%、蜜雪集团（02097.HK）跌3.02%。其中，泡泡玛特股价收报200.4港元/股，较最高点（8月26日，339.8港元/股）累计下跌了41%，近5日累计跌6.88%，近一个月累计跌14.14%。\n另据Wind数据，截至收盘，泡泡玛特沽空金额为10.92亿港元，较上一交易日上升210.58%，较最近30个交易日均值上升47.35%；沽空比率为19.23%，较近30个交易日沽空比率均值的偏离幅度达-17.33%。\n消息面上，有媒体引用摩根士丹利（大摩）11月27日的研报称，泡泡玛特正在从过去两年的“爆发式增长”阶段，过渡到未来的“可持续增长”阶段。该机构预计Labubu2025年的销售额将达到155亿元人民币，较2023年增长41倍，但基于高基数，泡泡玛特2026年Labubu的收入增速将显著放缓，因为一些追随潮流的消费者可能不会再回来。鉴于较低的广告与推销费用比率、较低的降价幅度、较高比例的线上直销及较低的租金比率，大摩认为，泡泡玛特能够维持约30%的净利润率增长。\n大摩将泡泡玛特的目标市盈率从原先2026年预估的32倍下调至26倍，对泡泡玛特的目标价从382港元降至325港元，评级为“增持”。\n据香港《经济日报》，德银发布的报告称，为满足激增需求，Labubu产能从上半年的1000万只拉升至年底的月均5000万只。对于依赖“酷”和“稀缺”属性的潮流玩具而言，普及往往是热度衰退的前兆。报告称，自今年8月以来，Labubu及其他热门IP的市场溢价已见消退。其中，Labubu隐藏款的溢价幅度缩水超过50%，而Labubu3.0及4.0常规款式在二手平台价格已跌穿官方零售价。\n德银预测，在熊市情境(Bear Case)下，假设Labubu热度在2026年见顶下滑，且无新IP接棒，泡泡玛特2026年中国市场收入将年减20%，海外市场收入将下跌10%。而如果是牛市情景（Bull Case）下，假设增长势头持续且新IP爆发，中国收入增长30%，海外增长50%，2026年净利润将超过231亿元，股票将迎来重新评级。\n目前，德银仍给予泡泡玛特“持有”评级，目标价228港元。\n光大证券国际策略师Kenny Ng表示，投资者对泡泡玛特销售势头放缓存在担忧，同时卖方的一些谨慎观点也打压了股价。伯恩斯坦驻香港亚洲消费股分析师Melinda Hu则指出，股价疲软“很可能是受11月份北美线下销售趋势下滑推动”，她预计公司本季度美国销售增速将放缓至500%以下。\n10月21日，泡泡玛特发布公告，2025年第三季度整体收入同比增长245%至250%。其中，中国收入同比增长185%至190%；海外收入同比增长365%至370%。\n第三季度，中国各渠道收入表现方面，线下渠道同比增长130%至135%；线上渠道同比增长300%至305%。\n海外各区域收入表现方面，亚太同比增长170%至175%；美洲同比增长1265%至1270%；欧洲及其他地区同比增长735%至740%。\n今年8月，泡泡玛特创始人王宁曾在中期业绩会上谈业绩指引，王宁说：“今年是希望能够做到200亿元（营收），但是感觉今年应该300亿元也很轻松。”",
+          "link": "https://www.thepaper.cn/newsDetail_forward_32130421",
+          "publishedOn": "2025-12-08T13:53:03.000Z",
+          "wordCount": 40,
+          "title": "泡泡玛特跌超8%，机构担忧Labubu热度消退，明年销售增速承压",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_32130755",
+          "author": null,
+          "description": "12月8日，上海市人民政府官网公布杨浦区人民政府《关于印发〈杨浦区打造互联网优质内容创作集聚区支持政策〉的通知》。\n《杨浦区打造互联网优质内容创作集聚区支持政策》（以下简称《支持政策》）针对在杨浦区开展经营并经认定为互联网优质内容创作领域的各类企业及其他组织，以及具有一定社会影响力和知名度的互联网优质内容创作人才，从“免”“奖”“服”“投”“补”“管”等六个方面提出具体举措，旨在打造具有区域特色和国际竞争力的互联网优质内容创作集聚区产业生态。\n\nV聚场 杨浦区供图\n\n\n一是“免”。对经认定入孵创智天地6号楼“V聚场”（以下简称“V聚场”）的创业企业，首年全额减免房租及物业费，第二年减免75%、第三年减免50%。后续根据产业培育情况分阶段将孵化空间租金减免范围扩展至哔哩哔哩新世代产业园等全区经认定的各类优质载体，鼓励杨浦科技创业中心打造微短剧产业基地、中船科技园和东方购物打造互联网直播孵化基地，形成“一楼（V聚场）一街（创智天地大学路步行街）一园（哔哩哔哩新世代产业园）一区（全域优质内容创作集聚区）”的互联网优质内容创作集聚区。\n二是“奖”。每年度举办互联网优质内容创作综合评比，对于其中讲好杨浦故事、上海故事且有较大影响力的优质内容，单项内容给予最高10万元奖励。开展网络视听、在线文娱、直播经济、创意设计等领域创作者荣誉评选，根据称号评定给予最高10万元一次性奖励，并优先推荐互联网优质内容创作者参加“中国正能量网络精品”“五一劳动奖”“青年五四奖章”“三八红旗手”等国家级、市级、区级荣誉奖项申报。\n三是“服”。在内容出海方面，鼓励优质内容创作者参加“中华文化国际传播”专项、银鸽奖评选，支持优质互联网内容出海发展，讲好中国故事、传播中国文化，经认定符合互联网原创优质内容出海的项目，给予最高50万元的资金扶持。在实习招聘方面，制订“YOUNG V实习计划”，支持“V聚场”等互联网优质内容载体空间建设大学生实习基地，鼓励企业联动区域内各类高校，为大学生提供专业实习岗位；联动“V聚场”周边宾馆资源，支持建设青年人才驿站，鼓励大学生实习就业。在社群生态方面，针对“V聚场”内企业，以“大学路串门儿卡”形式，提供包含创智天地大学路周边区域的高校资源链接、内容场景赋能、各类活动参与、金融综合支持、生活消费优惠等服务便利。在平台支持方面，根据平台企业内部内容创作者人才评价体系，通过置顶宣传、首页展示、流量扶持、广告业务支持等方式给予优质内容创作者培育支持。网信事务快速通道；建立创作主体合法权益维护快速通道、内容创作申诉服务通道，聚焦服务和促进，鼓励引导优质内容创作。\n四是“投”。联动平台企业共同设立规模不少于10亿元的互联网内容创作投资基金，支持微短剧、二次元、动漫游戏、网络文学、直播经济等“互联网内容创作”产业发展。联动上海市大学生科技创业基金会设立“互联网优质内容创作”基金，给予种子期成长支持。与银行、担保等机构合作，建立“金融伙伴计划”，通过“园区贷”“批次贷”“创新贷”等方式，推出具有互联网内容产业特点的金融产品。对创作者和产业链企业提供政策性担保（担保费率0.5%），并给予银行贷款50%贴息支持。\n五是“补”。在场景补贴方面，发布杨浦区共享直播资源清单，对入孵“V聚场”企业开放共享清单内场景，以“杨浦直播券”形式提供场景使用费补贴，单家企业年度综合补贴比例最高50%、补贴额度最高50万元。在活动补贴方面，鼓励对互联网优质内容创作集聚区建设有推动作用的各类活动、节展等落地，经认定符合条件的，按活动实际投入给予最高50%的费用补贴，同一企业同一年度累计最高给予200万元的扶持；对于特别有影响力的活动，给予专项综合支持。在人才补贴方面，国内互联网优质内容创作者，经认定符合条件的，优先给予落户资格；外籍互联网优质内容创作者，经认定符合条件的，在通关通行、在华工作、证照办理等方面给予便利；对在本区内购买首套自住商品住房的互联网优质内容创作者，经认定符合条件的，给予一次性住房补贴支持，补贴额度最高200万元；支持互联网优质内容创作者优先入住本区指定的人才社区，经认定符合条件的，给予三年期每月最高8000元的租房补贴支持。\n六是“管”。在合规指导方面，加强法律法规宣传，做好内容合规分类指导，引导创作主体健康可持续发展。在包容审慎监管方面，加强业务咨询、合规培训和守信激励等，以包容性监管思路、审慎性监管手段、多样化支持体系，引导和帮助互联网优质内容企业成长壮大。\n上述政策自发布之日起施行，有效期三年。政策实行期间，将根据年度评估情况，动态调整优化。此外，该政策实施期间，如可同时享受本区其他政策的，按照“从高不重复”原则执行。在实施过程中如遇国家、上海市颁布新政策，按新政策执行。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_32130755",
+          "publishedOn": "2025-12-08T13:53:03.000Z",
+          "wordCount": 40,
+          "title": "上海杨浦：优秀“博主”在区内购房最高补贴200万元",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_32131382",
+          "author": null,
+          "description": "近日，消费者王先生向澎湃公众互动平台“服务湃”（https://tousu.thepaper.cn）反映称，近期热播的电影《疯狂动物城2》上映后，他注意到因蓝色竹叶青（学名海岛竹叶青）长相与《疯狂动物城2》中的新角色盖瑞（Gary）十分相似，于是在闲鱼平台出现大量被标价售卖的蓝色竹叶青（学名海岛竹叶青），价格从288元到3000元不等。\n\n海岛竹叶青在网购平台被公开售卖，价格从几百到数千元不等\n\n\n王先生说，竹叶青属于剧毒蛇类，他认为此类活体不应在网商平台售卖，遂向闲鱼进行举报，但被以证据不足为由驳回。\n澎湃新闻调查发现，在抖音、小红书、闲鱼等多家平台均有商家在售卖海岛竹叶青。商家称，海岛竹叶青根据品相不同，价格从几百到数千元不等，《疯狂动物城2》上映后，近期咨询量剧增，价格也略有上浮。\n对此，北京市京师（上海）律师事务所吴风虎律师认为，该现象不仅严重威胁公众安全，更暴露出平台、物流及监管等多个环节的漏洞。社会公众应坚决抵制购买此类剧毒外来蛇类，避免参与违规交易。\n多家平台售卖海岛竹叶青，价格高达数千元\n据王先生介绍，自从《疯狂动物城2》上映之后，闲鱼平台上部分商家将标价售卖的蓝色竹叶青直接注明是“《疯狂动物城2》盖瑞同款小蓝蛇”。\n王先生说，蓝色竹叶青含有剧毒，可能存在安全隐患，此外，根据《国家林业和草原局关于规范禁食野生动物分类管理范围的通知》规定，海岛竹叶青属于禁食野生动物范围，若“确需适量保留种源用于科学研究等非食用性目的的，要充分论证工作方案的可行性，并严格履行相关手续”。而他在咨询过后发现，网购蓝色竹叶青根本没有任何要求强制性办理相关手续，付钱就能收货。\n12月4日，王先生对相关商家进行举报，但被平台以“证据不足”为由驳回。\n接到王先生投诉后，澎湃新闻在闲鱼、抖音、小红书等社交媒体平台以“蓝竹”“海岛竹叶青”为关键词进行检索发现，部分商家会在相关平台发布关键词为…",
+          "link": "https://www.thepaper.cn/newsDetail_forward_32131382",
+          "publishedOn": "2025-12-08T13:53:03.000Z",
+          "wordCount": 41,
+          "title": "《疯狂动物城2》热播后引发剧毒蛇类热卖，律师称寄售有毒活体或违法",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_32131996",
+          "author": null,
+          "description": "12月8日，商务部部长王文涛会见来华访问的德国外长瓦德富尔，双方就中德、中欧经贸关系交换意见。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_32131996",
+          "publishedOn": "2025-12-08T13:53:03.000Z",
+          "wordCount": 27,
+          "title": "王文涛会见德国外长瓦德富尔，双方就中德、中欧经贸关系交换意见",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_32132243",
+          "author": null,
+          "description": "56岁龚德雄离任东方证券股份有限公司（下称“东方证券”，600958）董事长职务。\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.site",
+          "link": "https://www.thepaper.cn/newsDetail_forward_32132243",
+          "publishedOn": "2025-12-08T13:53:03.000Z",
+          "wordCount": 29,
+          "title": "东方证券董事长龚德雄因“工作调动”辞职，副董事长鲁伟铭代行职责",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_32131630",
+          "author": null,
+          "description": "（原题为《警情通报》）",
+          "link": "https://www.thepaper.cn/newsDetail_forward_32131630",
+          "publishedOn": "2025-12-08T13:23:04.000Z",
+          "wordCount": 36,
+          "title": "南昌警方通报医院发生伤害案件：嫌疑人已被刑拘，2人受伤",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.thepaper.cn/newsDetail_forward_32131680",
+          "author": null,
+          "description": "12月8日，深圳迎来12月首场土拍，本次土拍共2宗宅地，分别位于南山深圳湾超级总部基地和光明区马田街道，最终1宗高溢价成交、1宗底价成交，共计收金39.52亿元。",
+          "link": "https://www.thepaper.cn/newsDetail_forward_32131680",
+          "publishedOn": "2025-12-08T13:23:04.000Z",
+          "wordCount": 29,
+          "title": "深圳两宗宅地收金39.52亿元，深圳湾超级总部地块溢价42.49%成交",
+          "imageUrl": null
+        },
         {
           "id": "https://www.thepaper.cn/newsDetail_forward_32129597",
           "author": null,
@@ -12378,76 +12578,6 @@
           "wordCount": 49,
           "title": "中国提交2035气候目标，专家：几十万亿投资已落地，绿色转型绝不后退",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_31927341",
-          "author": null,
-          "description": "最高人民法院11月9日公布关于审理交通事故责任纠纷案件适用法律若干问题的解释（二）（征求意见稿），向社会公开征求意见。该司法解释拟就“开门杀”、电动自行车与机动车发生交通事故造成机动车一方人身损害等问题作出规定，征求意见截止日期为11月15日。\n征求意见稿规定，因租赁、借用等情形机动车所有人、管理人与使用人不是同一人时，发生交通事故造成他人损害，属于该机动车一方责任的，机动车所有人、管理人对损害的发生有过错，被侵权人合并请求机动车使用人与机动车所有人、管理人承担侵权责任的，造成损害的机动车使用人承担侵权人应承担的全部责任，机动车所有人、管理人在其过错范围内与机动车使用人共同承担责任，但责任主体实际支付的赔偿费用总和不应超出被侵权人应受偿的损失数额。\n征求意见稿同时规定，机动车乘车人开车门致他人损害，被侵权人主张乘车人责任属于机动车一方责任，并依据民法典第一千二百一十三条请求承保机动车交通事故责任强制保险的保险人在责任限额范围内予以赔偿、承保机动车第三者责任商业保险的保险人按照保险合同的约定予以赔偿的，人民法院应予支持；保险人以乘车人不属于被保险人或其允许的驾驶人为由主张不向被侵权人承担赔偿责任的，人民法院不予支持。\n征求意见稿提出，电动自行车与机动车发生交通事故造成机动车一方人身损害，机动车一方有证据证明电动自行车一方存在过错，并主张电动自行车一方承担赔偿责任的，人民法院对赔偿数额的确定应当综合考虑行为人过错程度、损害后果、事故各方交通工具危险程度等因素。\n征求意见稿还针对非营运机动车发生交通事故造成无偿搭乘人损害，以挂靠形式从事道路运输经营活动的机动车发生交通事故等作出规定。最高法表示，欢迎社会各界提出宝贵意见，并请在提出意见建议时说明具体理由。书面意见可寄往北京市东城区东交民巷27号，最高人民法院民事审判第一庭薄彩霞，邮编100745，电子邮箱mytlaw@163.com。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_31927341",
-          "publishedOn": "2025-11-09T04:53:04.000Z",
-          "wordCount": 27,
-          "title": "拟就“开门杀”等问题作出规定，最高法就交通事故责任纠纷司法解释征求意见",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_31927387",
-          "author": null,
-          "description": "11月6日至9日，2025年世界互联网大会乌镇峰会在浙江乌镇举行。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_31927387",
-          "publishedOn": "2025-11-09T04:53:04.000Z",
-          "wordCount": 30,
-          "title": "聆听“乌镇声音”：互联网大会上，企业家如何思考AI和未来",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_31927390",
-          "author": null,
-          "description": "《联合国气候变化框架公约》第三十次缔约方大会(COP30)即将在巴西贝伦举行。目前中国已正式向联合国提交了2035年国家自主贡献目标（NDC），该目标历史性地扩展到全经济范围、包括所有温室气体，首次提出了温室气体绝对量减排目标，中方称该目标“体现了最大的决心和力度”。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_31927390",
-          "publishedOn": "2025-11-09T04:53:04.000Z",
-          "wordCount": 29,
-          "title": "中国提交2035气候目标，专家：几十万亿投资已落地，绿色转型绝不后退",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_31927298",
-          "author": null,
-          "description": "据重庆大学官网消息，近日，重庆大学D1236教室内，美国数学学会会士、国家级高层次人才李寒峰教授正在为2025级“强基计划”新生讲授《数学分析》课程。这位在数学四大顶刊发表过多篇论文的知名学者，本学期多了一个新身份——本科新生基础课主讲教师。他的出现，为教育界“由顶尖学者讲授基础大课，是最好的学术启蒙”这一箴言，写下了最为生动的注脚。\n\n消息介绍，2025年5月，长期任职于美国纽约州立大学水牛城分校的李寒峰教授作出人生重要抉择——回国全职加盟重庆大学。这位成就卓著的学者，毅然回到巴渝大地，投身于祖国基础学科拔尖创新人才培养事业。\n李寒峰回国之时，正值学校新学期排课阶段，他主动提出要为本科新生讲授《数学分析》。在他看来，这门被誉为现代数学体系“基石”的课程，是数学专业学生培养科学思维的“第一粒扣子”，必须由最有经验的教师亲自把握。“没有扎实的数学分析基础，就不可能有真正的数学创新。”李寒峰常常强调这一观点。\n此外，据南京大学数学学院官网介绍，2025年10月29日，重庆大学李寒峰教授应邀为学院师生做了一场题为“Sofic Groups”的精彩报告。这是数学学院的第二十九场综合报告，报告由数学学院院长喻良教授主持。\n李寒峰教授主要从事泛函分析，算子代数，非交换几何，动力系统和组合数论的研究。他的工作开创泛函分析，算子代数，非交换几何在动力系统的深刻应用，是当今国际上动力系统领域的顶尖学者。他在国际顶尖数学期刊Acta Mathematics, Annals of Mathematics, Journal of American Mathematical Society, Inventiones Mathematicae等发表了多篇学术论文。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_31927298",
-          "publishedOn": "2025-11-09T04:23:04.000Z",
-          "wordCount": 59,
-          "title": "国际知名数学家李寒峰已全职加盟重庆大学",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_31927273",
-          "author": null,
-          "description": "这段时间的影视圈确实热闹。今天你一个曝光，明天我一个反驳；今天你一个声明，明天我一会回应。各种真假难辨、似是而非的说法在社交媒体热传，让很多“吃瓜”网友看得不亦乐乎。\n但“热闹”背后，留下的问题却是共通的——争来争去，争的无非是一个“名”、一个“利”，和文艺创作本身又有多少关系？影视行业的从业者们把大量时间和精力都花费在了“权谋”上，还能沉下心来，做好自己应该做好的工作吗？\n一转眼，2025年即将走到尾声。那么回顾这一年，无论是电影还是电视，到底给观众留下了多少印象深刻的优质作品？各个平台不断发布的流量和热度看上去都是天文数字，但其中又有多少作品真的出了圈，能够得到观众的一致认可？\n今年8月，国家广播电视总局印发实施“广电21条”，一个大背景就是，微短剧、短视频等新型娱乐方式的出现以及用户注意力的碎片化，都对整个影视行业形成了不可忽视的冲击。按理说，所有从业者都应该感受到形势、环境变化带来的巨大压力，抓紧时间钻研业务，安安心心拍好作品，争取交出一份令人满意的答卷，不辜负社会和观众的期望。\n然而，现实情况却是，为了争夺“名”和“利”，各方各出奇招，好不热闹，哪里还有把观众放在第一位的心思？考虑得更多的，显然还是自己的那点小算盘、小九九。\n和最近的争吵形成鲜明对比的，是如今越来越“肉麻”的观众见面会。一部新电影上映或一部新电视剧开播前，制作方基本都会安排活动，让主创人员和观众见见面，介绍一下作品的内容、风格，也让他们倾听一下受众的看法和意见。这本来是一件好事。\n但我们常常见到的场景是：作为同行，一些演员、导演常常“无意”间来捧场，被“不小心”发现后，就站起来发言。一开口，就是对主创不遗余力地赞扬，不是折服于主演演技的精湛，就是被作品深刻的思想所感动。\n表面上同行之间一团和气、互相吹捧，实质上却是明争暗斗、尔虞我诈，影视圈生生把自己塑造成了一部《甄嬛传》。如果从业者关心的都是怎么维护好“人际关系”，怎么处理好“人情世故”，还能专心致志地搞好创作吗？还有可能带来令人满意的作品吗？\n还要看到，各种热闹的“瓜”背后，还有一系列值得思考和审视的行业痼疾：在被权势者掌握话语权的“圈子”里，有才华的新人还能冒头吗？没有这些新鲜的行业活水，文艺创作真的能进步吗？拍影视作品的目的到底是什么，是为了“奖项”“荣誉”，还是为了反映社会现实，推动社会进步？\n“戏比天大”，最终还是要靠作品说话。各种风波终究会过去，但对每一位影视从业者而言，面对汹涌而来的变革浪潮，是时候走出自己的舒适圈了。场外的“戏太多”，这样的风气对整个文艺界绝不是一件好事。文艺工作者的职责应该是拍好场内的每一场戏，用更严肃、认真的态度对待艺术创作。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_31927273",
-          "publishedOn": "2025-11-09T04:23:04.000Z",
-          "wordCount": 29,
-          "title": "马上评︱别让“场外戏”大过场内戏",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_31927337",
-          "author": null,
-          "description": "今天，力箭一号遥九运载火箭在东风商业航天创新试验区发射升空，将搭载的楚天二号技术试验01星、02星顺利送入预定轨道，飞行试验任务获得圆满成功。",
-          "link": "https://www.thepaper.cn/newsDetail_forward_31927337",
-          "publishedOn": "2025-11-09T04:23:04.000Z",
-          "wordCount": 27,
-          "title": "力箭一号遥九运载火箭发射成功",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_31927344",
-          "author": null,
-          "description": "最高人民法院11月9日公布关于审理交通事故责任纠纷案件适用法律若干问题的解释（二）（征求意见稿），向社会公开征求意见。该司法解释拟就“开门杀”、电动自行车与机动车发生交通事故造成机动车一方人身损害等问题作出规定，征求意见截止日期为11月15日。\n\n\n获取更多RSS：\nhttps://feedx.net \nhttps://feedx.site",
-          "link": "https://www.thepaper.cn/newsDetail_forward_31927344",
-          "publishedOn": "2025-11-09T04:23:04.000Z",
-          "wordCount": 27,
-          "title": "最高法就交通事故责任纠纷司法解释公开征求意见",
-          "imageUrl": null
         }
       ]
     },
@@ -12456,6 +12586,56 @@
       "feedUrl": "https://www.nationalreview.com/feed/",
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
+        {
+          "id": "https://www.nationalreview.com/?p=1900162",
+          "author": "Brett Schaefer and Danielle Pletka",
+          "description": "Setting the record straight on the recent New York Times screed by Obama’s deputy national security adviser.",
+          "link": "https://www.nationalreview.com/2025/12/ben-rhodes-keeps-getting-it-wildly-wrong-on-israel-and-gaza/",
+          "publishedOn": "2025-12-08T11:30:55.000Z",
+          "wordCount": 7612,
+          "title": "Ben Rhodes Keeps Getting It Wildly Wrong on Israel and Gaza",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/04/Ben-Rhodes.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1900496",
+          "author": "Kathryn Jean Lopez",
+          "description": "What a 17th-century monk can still teach us.",
+          "link": "https://www.nationalreview.com/2025/12/pope-leo-reveals-his-secret/",
+          "publishedOn": "2025-12-08T11:30:51.000Z",
+          "wordCount": 7119,
+          "title": "Pope Leo Reveals His Secret",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2025/12/pope-leo-vatican.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1900085",
+          "author": "John Yoo",
+          "description": "Judges are improperly turning courts into bastions of climate activism.",
+          "link": "https://www.nationalreview.com/2025/12/why-state-courts-should-not-set-national-energy-policy/",
+          "publishedOn": "2025-12-08T11:30:10.000Z",
+          "wordCount": 6694,
+          "title": "Why State Courts Should Not Set National Energy Policy",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2018/04/wind-farm-desert-hot-springs-2.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1900461",
+          "author": "The Editors",
+          "description": "A bipartisan pattern of executive abuse shows why the unilateral power to pardon should be reconsidered.",
+          "link": "https://www.nationalreview.com/2025/12/rein-in-the-presidential-pardon-power/",
+          "publishedOn": "2025-12-08T11:30:10.000Z",
+          "wordCount": 7333,
+          "title": "Rein In the Presidential Pardon Power",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2025/12/donald-trump-oval-office-white-house.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1900484",
+          "author": "Andrew C. McCarthy",
+          "description": "Is the Trump administration claiming the power to do what previous administrations have done: compile lists of ‘enemy combatants’ and kill them?",
+          "link": "https://www.nationalreview.com/2025/12/report-hegseth-gave-order-to-kill-boat-operators-because-they-were-on-a-target-list/",
+          "publishedOn": "2025-12-08T11:30:01.000Z",
+          "wordCount": 8776,
+          "title": "Report: Hegseth Gave Order to Kill Boat Operators Because They Were on a Target List",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2025/12/pete-hegseth-reagan-library.jpg?fit=2057%2C1200&ssl=1"
+        },
         {
           "id": "https://www.nationalreview.com/?p=1899919",
           "author": "Audrey Fahlberg",
@@ -14244,6 +14424,26 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/104425",
+          "author": "少数派编辑部",
+          "description": "欢迎收看本期《派评》。你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的App或者关注的话题，也欢迎在评论区和我们讨论。值得关注的新App虽然少数派一直在为大家发现和介绍各平台上的优质 ...查看全文",
+          "link": "https://sspai.com/post/104425",
+          "publishedOn": "2025-12-08T09:54:32.000Z",
+          "wordCount": 570,
+          "title": "派评 | 近期值得关注的 App",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sspai.com/post/64749",
+          "author": "包包呀嘿",
+          "description": "大家今天、昨天、明天吃火锅了吗？查看全文",
+          "link": "https://sspai.com/post/64749",
+          "publishedOn": "2025-12-08T07:04:56.000Z",
+          "wordCount": 272,
+          "title": "工作日的冬夜吃什么？15 分钟就能搞定的绝味火锅们",
+          "imageUrl": null
+        },
+        {
           "id": "https://sspai.com/post/104334",
           "author": "rainy",
           "description": "黑莓 Q25 在 2025 年用起来怎么样？查看全文",
@@ -15270,6 +15470,90 @@
       "feedUrl": "https://plink.anyfeeder.com/idaily/today",
       "siteUrl": "https://idai.ly",
       "articles": [
+        {
+          "id": "idaily-241712",
+          "author": "意大利 · 罗马",
+          "description": "2026年米兰-科尔蒂纳冬奥会火炬传递仪式途经罗马斗兽场，意大利。12月6日，米兰冬奥会火炬传递仪式在意大利首都罗马正式启动，首日共有164名火炬手参与传递，途经罗马斗兽场、特雷维喷泉、圣伯多禄广场、万神殿、威尼斯广场等地标景点。本届冬奥会火炬传递仪式将持续63天，共有10001名火炬手参与，路线全长1.2万公里，途经意大利全部20个大区、110个省份和61处世界遗产，最终于2026年2月6日抵达米兰圣罗西体育场开幕式现场。摄影师：Massimo Percossi",
+          "link": "https://m.idai.ly/se/2285mB",
+          "publishedOn": "2025-12-08T09:59:00.000Z",
+          "wordCount": 272,
+          "title": "米兰冬奥会火炬传递 - December 8, 2025",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/b92bd6be/02d3b9dd.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/b92bd6be/02d3b9dd.jpg"
+        },
+        {
+          "id": "idaily-241711",
+          "author": "美国 · 华盛顿特区",
+          "description": "美国总统 Donald Trump 向获奖演员及音乐人颁发2025年肯尼迪中心荣誉奖，华盛顿白宫。12月6日，美国总统 Trump 成为有史以来首位亲自主持肯尼迪中心荣誉奖颁奖仪式的在任总统，他在演讲中称本届获奖者们代表了美国文化艺术的最高水平，其作品激励、鼓舞和团结了数以百万计的美国人。本年度肯尼迪中心荣誉奖共有5组获奖者，包括美国电影明星 Sylvester Stallone、乡村音乐歌手 George Strait、摇滚乐队 KISS、迪斯科歌手 Gloria Gaynor 和英国演员 Michael Crawford。摄影师：Bonnie Cash",
+          "link": "https://m.idai.ly/se/1540ft",
+          "publishedOn": "2025-12-08T08:58:00.000Z",
+          "wordCount": 272,
+          "title": "特朗普颁发肯尼迪中心荣誉奖 - December 8, 2025",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/96446341/eb07e6a0.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/96446341/eb07e6a0.jpg"
+        },
+        {
+          "id": "idaily-241710",
+          "author": "中国 · 香港",
+          "description": "香港特区行政长官李家超参加第8届立法会选举投票，中国。12月8日，香港特区第8届立法选举结果公布，香港最大建制派政党「民建联」共获得20席，比上届选举增加1席，保持为立法会第一大党，「经民联」以8席位列第二，「工联会」以7席排名第三。本届选举共有131.7万选民参与投票，投票率为31.9%，比上届增加1.7个百分点。香港特区行政长官李家超表示，特区政府将与新一届立法会共同推动大埔火灾灾后支援和重建工作，推动法例检讨和修订，推行系统性改革，让香港更安全、市民更安心。新一届立法会将于2026年1月1日正式上任，任期4年。摄影师：Chen Yongnuo",
+          "link": "https://m.idai.ly/se/a14yH9",
+          "publishedOn": "2025-12-08T07:57:00.000Z",
+          "wordCount": 272,
+          "title": "香港第8届立法会选举 - December 8, 2025",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/ea8cfcc9/7a13c820.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/ea8cfcc9/7a13c820.jpg"
+        },
+        {
+          "id": "idaily-241709",
+          "author": "日本 · 东京",
+          "description": "日本防卫大臣小泉进次郎与澳大利亚国防部长 Richard Marles 在日本防卫省部署的「爱国者3型」导弹系统前合影，东京。12月7日，澳大利亚国防部长 Marles 对日本进行为期2天访问，两国防长就日澳防务关系及地区安全等议题举行磋商。双方会后发表联合声明宣布建立「战略防务协调框架」（FSDC），加强网络、太空、后勤、情报及国防工业供应链等领域合作。澳大利亚海军计划向日本订购11艘升级版「最上级」护卫舰，预计2026年3月底前正式签约。摄影师：Franck Robichon",
+          "link": "https://m.idai.ly/se/485kBH",
+          "publishedOn": "2025-12-08T07:55:00.000Z",
+          "wordCount": 272,
+          "title": "日澳加强防务合作 - December 8, 2025",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/560e6b25/63dcad0e.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/560e6b25/63dcad0e.jpg"
+        },
+        {
+          "id": "idaily-241708",
+          "author": "西班牙 · 马德里",
+          "description": "2025年马德里电子游戏展（Madrid Game Show）的复古电子游戏体验区，西班牙。12月6日，首届马德里电子游戏展在比利亚韦德仓库举办，展区总面积约6000平方米，设置新游戏体验区、商业展示区以及电子游戏博物馆区，现场提供超过200台不同世代的游戏主机和复古街机供访客试玩，展期持续至12月7日。游戏市场调研机构 Newzoo 预测2025年欧洲游戏市场规模将达到331亿美元，同比增长3.6%；电子游戏用户总数达4.65亿人，同比增长2.3%。摄影师：Jesús Hellín",
+          "link": "https://m.idai.ly/se/98ccq2",
+          "publishedOn": "2025-12-08T07:53:00.000Z",
+          "wordCount": 272,
+          "title": "首届马德里电子游戏展 - December 8, 2025",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/5b27ec5d/07c21540.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/5b27ec5d/07c21540.jpg"
+        },
+        {
+          "id": "idaily-241707",
+          "author": "英国 · 伦敦",
+          "description": "一具距今约6800万年前的近颌龙（Caenagnathid dinosaur）化石骨架在拍卖前预展，英国伦敦。这具名为「Spike」的化石骨架于2022年在美国南达科他州出土，长约2米，高约2米，共包含近100块骨骼，是迄今发现最完整的近颌龙化石标本之一。该化石骨架将于12月11日在伦敦拍卖，估价300万至500万英镑。近颌龙是一种生活在白垩纪晚期的小型恐龙，主要分布在北美洲和亚洲，拥有类似鸟类的颌部特征，全身覆盖羽毛。摄影师：Carlos Jasso",
+          "link": "https://m.idai.ly/se/d27TWz",
+          "publishedOn": "2025-12-08T07:51:00.000Z",
+          "wordCount": 272,
+          "title": "伦敦拍卖近颌龙骨架化石 - December 8, 2025",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/bffcb7f0/0d6f2d9a.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/bffcb7f0/0d6f2d9a.jpg"
+        },
         {
           "id": "idaily-241679",
           "author": "中国 · 海南",
@@ -18106,6 +18390,16 @@
       "siteUrl": "http://nytimes.com",
       "articles": [
         {
+          "id": "https://cn.nytimes.com/china/20251208/hong-kong-fire-election-campaign/dual",
+          "author": null,
+          "description": "DAVID PIERSON2025年12月8日香港上月发生火灾的宏福苑公寓大楼。 Lam Yik Fei for The New York Times\nThe Hong Kong government was doubling down on a campaign to increase voter turnout in tightly controlled legislative elections on Sunday that are largely devoid of opposition parties, even as the city continued mourning a deadly fire that has prompted calls for official accountability.\n香港政府加大力度推动提升周日立法会选举的投票率，这场选举在严格管控下进行，几乎没有反对派参与，与此同时香港仍在哀悼一场致命的火灾，这场火灾引发了向官员追责的呼声。\nAt least 159 people were killed last month when a blaze engulfed Wang Fuk Court, a high-rise apartment complex, in the city’s deadliest fire in decades. Officials have said that substandard construction materials likely contributed to the spread of the fire, raising questions about the city’s oversight of its building industry and whether warnings had b…",
+          "link": "https://cn.nytimes.com/china/20251208/hong-kong-fire-election-campaign/dual",
+          "publishedOn": "2025-12-08T08:36:01.000Z",
+          "wordCount": 1591,
+          "title": "火灾阴影下的香港立法会选举：当局打击“反华”势力",
+          "imageUrl": "https://static01.nyt.com/images/2025/12/07/multimedia/07int-hongkong-fire-politics-01-lqtm/07int-hongkong-fire-politics-01-lqtm-articleLarge.jpg"
+        },
+        {
           "id": "https://cn.nytimes.com/china/20251208/hong-kong-fire-survivors-housing/dual",
           "author": null,
           "description": "艾莎, THEODORA YU, JOY DONG2025年12月8日宏福苑是位于香港大埔区的一处住宅屋苑，上个月底这里被一场大火吞噬。 Ng Han Guan/Associated Press\nMore than a week after a fire tore through a Hong Kong housing complex, killing 159 people, the city is confronting a major challenge. It must find homes for the thousands of residents who survived with little more than the clothes on their backs.\n在香港一处屋苑发生大火造成159人遇难一周多后，这座城市正面临着一项重大挑战。它必须妥善安置数以千计的受灾民众，他们除了身上的衣服一无所有。\nThe government is already facing questions over its role in the worst tragedy to befall the city in seven decades. Now, survivors of the deadly fire are looking to the government to help them start over in one of the world’s most expensive and unequal places to live, where the average living space is smaller than a one-car garage.\n这起自上世纪70年代以来香港最为严重的悲剧，让政府饱受质疑。香港是世界上生活成本最高、贫富差距最为悬…",
@@ -19630,26 +19924,6 @@
           "publishedOn": "2025-11-10T02:05:00.000Z",
           "wordCount": 314,
           "title": "跟AI学习，用“编程”优化我们的学习系统",
-          "imageUrl": null
-        },
-        {
-          "id": "b1c0adce251bfc9c3d22b2b003b9aa93",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E4%BB%8E%E4%B8%9C%E6%B1%89%E5%88%B0%E4%B8%89%E5%9B%BD%EF%BC%8C%E5%8F%AA%E9%9C%80%E8%A6%81%E5%85%AD%E4%B8%AA%E7%9E%AC%E9%97%B4",
-          "publishedOn": "2025-11-09T02:02:00.000Z",
-          "wordCount": 275,
-          "title": "从东汉到三国，只需要六个瞬间",
-          "imageUrl": null
-        },
-        {
-          "id": "7f14b179248d4bd21da5717cfd7f6f15",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E7%A6%8F%E5%88%A9%E4%B8%A8%E5%8F%B2%E5%AD%A6%E5%A4%A7%E5%AE%B6%E8%AE%B8%E5%80%AC%E4%BA%91%E9%81%97%E4%BD%9C%EF%BC%9A%E4%BB%A5%E8%BF%9C%E8%A7%81%E8%B6%85%E8%B6%8A%E6%9C%AA%E8%A7%81%EF%BC%8C%E6%95%99%E8%82%B2%E6%98%AF%E5%94%A4%E9%86%92%E4%BA%BA%E5%AF%B9%E2%80%9C%E8%87%AA%E6%88%91%E4%BD%8D%E7%BD%AE%E2%80%9D%E7%9A%84%E8%AE%A4%E7%9F%A5",
-          "publishedOn": "2025-11-09T02:02:00.000Z",
-          "wordCount": 303,
-          "title": "福利丨史学大家许倬云遗作：以远见超越未见，教育是唤醒人对“自我位置”的认知",
           "imageUrl": null
         }
       ]
