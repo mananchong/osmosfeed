@@ -44,16 +44,6 @@
           "wordCount": 5545,
           "title": "R Weekly 2025-W49 Custom GPS, testing, Tribal Councils",
           "imageUrl": "https://rweekly.org/public/facebook.png"
-        },
-        {
-          "id": "https://rweekly.org/2025-W48.html",
-          "author": null,
-          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Eric Nantz, with help from the R Weekly team members and contributors.\nHighlight\nmini007 - A Lightweight Framework for Multi-Agent Orchestration in R\nJarl: just another R linter\n{rbranding} 0.1.0: Manage Branding and Accessibility of R Projects\nInsights\nWhy I wrote Rmlx\nMy First Contribution to base R\nJarl: just another R linter\n2025-11-21 AI Newsletter\nPrivacy and AI Assistants\nR in the Real World\nAcidification\nR in Organizations\nmini007 - A Lightweight Framework for Multi-Agent Orchestration in R\nR in Academia\nBias, Variance, and Doubly Robust Estimation: Testing The Promise of TMLE in Simulated Data\nLabels for Clear Feedback in Peer Review\nTutorials\nSparkle & Atmosphere: …",
-          "link": "https://rweekly.org/2025-W48.html",
-          "publishedOn": "2025-11-24T00:00:00.000Z",
-          "wordCount": 5988,
-          "title": "R Weekly 2025-W48 Multi-agents, linter, rbranding",
-          "imageUrl": "https://rweekly.org/public/facebook.png"
         }
       ]
     },
@@ -9148,16 +9138,6 @@
           "wordCount": 30,
           "title": "潍坊一供热企业虚开发票案重审：是否致税款损失引辩论，一审另两名被告人认罪认罚",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_32029062",
-          "author": null,
-          "description": "本周11月24日至11月30日：\n据新华社消息，针对美方就结束俄乌冲突提出的28点新计划，美国、乌克兰、欧盟及英法德三国代表11月23日在瑞士日内瓦举行会谈。在此次会谈前两天，当地时间21日，美国总统特朗普表示，他认为27日是乌克兰接受美国支持的和平计划的最后期限。\n据央视新闻23日报道，多名美国官员近日表示，美国准备在未来几天启动与委内瑞拉有关的新一轮行动。目前暂不清楚新一轮行动的具体时间和范围，也不清楚特朗普是否就采取行动做出了最终决定。有美国官员称，正在考虑中的选项包括尝试推翻马杜罗政权。\n11月18日，德国联邦财政部发布通知称，自2025年11月24日零时起，所有从中国进口的跨境电商小额包裹，无论货值多少，都需统一缴纳23%的增值税。\n特朗普要求乌克兰27日前接受和平计划\n据央视新闻报道，美国政府正尝试重启俄罗斯与乌克兰的和平谈判，并已起草一项结束俄乌冲突的“28点”新计划，并同俄方展开深度讨论。当地时间21日，美国总统特朗普表示，他认为27日是乌克兰接受美国支持的和平计划的最后期限。\n报道称，如果乌克兰不在11月27日前签署美国提出的结束俄乌冲突新计划草案（即所谓“和平计划”），美国威胁将停止武器供应和情报共享。\n当地时间21日，乌克兰总统泽连斯基对乌克兰民众公开讲话时称，乌克兰可能面临非常艰难的选择：要么失去尊严，要么冒着失去关键伙伴的风险。他表示，必须考虑乌克兰的国家利益，将与欧洲和美国平静地合作。\n在谈及美方提出的28点计划时，泽连斯基表示会提出替代方案，但“绝不会给敌人理由说是乌克兰不想要和平”。他强调，乌克兰国内应保持团结一致，“战时国家的议会必须团结运作，战时国家的政府必须高效运作。”\n这项28点计划的要点包括俄罗斯与乌克兰和欧洲缔结互不侵犯协议，乌克兰承诺不加入北约等。白宫新闻秘书莱维特20日证实，特朗普支持这项新计划，并表示计划“还在不断修订”，白…",
-          "link": "https://www.thepaper.cn/newsDetail_forward_32029062",
-          "publishedOn": "2025-11-24T04:23:04.000Z",
-          "wordCount": 30,
-          "title": "全球前瞻｜特朗普就“28点”向乌克兰下最后通牒，准备对委动手考虑推翻马杜罗",
-          "imageUrl": null
         }
       ]
     },
@@ -9166,6 +9146,56 @@
       "feedUrl": "https://www.nationalreview.com/feed/",
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
+        {
+          "id": "https://www.nationalreview.com/?p=1905257",
+          "author": "Giancarlo Sopo",
+          "description": "Jay Kelly reminds us that home isn’t merely a place to which you return. It’s a presence you build through daily acts of attention.",
+          "link": "https://www.nationalreview.com/2025/12/jay-kelly-or-why-i-skipped-the-sergio-leone-award/",
+          "publishedOn": "2025-12-23T11:30:46.000Z",
+          "wordCount": 7077,
+          "title": "Jay Kelly, or Why I Skipped the Sergio Leone Award",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2025/12/jay-kelly-netflix.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1905265",
+          "author": "Corey DeAngelis",
+          "description": "The Colorado governor’s move to boost educational options is one his fellow Democrats should follow.",
+          "link": "https://www.nationalreview.com/2025/12/jared-polis-becomes-the-first-democratic-governor-to-back-trumps-school-choice-plan/",
+          "publishedOn": "2025-12-23T11:30:45.000Z",
+          "wordCount": 6855,
+          "title": "Jared Polis Becomes the First Democratic Governor to Back Trump’s School-Choice Plan",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2022/04/polis.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1905311",
+          "author": "Alexander William Salter",
+          "description": "A predictable, rules-based monetary policy would deliver the price stability that labor markets require to thrive.",
+          "link": "https://www.nationalreview.com/2025/12/the-feds-phantom-tradeoff/",
+          "publishedOn": "2025-12-23T11:30:23.000Z",
+          "wordCount": 15409,
+          "title": "The Fed’s Phantom Tradeoff",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2025/12/stock-exchange-federal-reserve.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1905434",
+          "author": "The Editors",
+          "description": "Millennial white men were systematically excluded from employment in the culture-making industries.",
+          "link": "https://www.nationalreview.com/2025/12/when-whites-not-right/",
+          "publishedOn": "2025-12-23T11:30:19.000Z",
+          "wordCount": 6193,
+          "title": "When White’s Not Right",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/08/New-York-Times.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1905393",
+          "author": "Rich Lowry",
+          "description": "A half-century-old theory that the Jewish state deliberately attacked the USS Liberty during the Six-Day War has renewed currency.",
+          "link": "https://www.nationalreview.com/2025/12/for-elements-of-the-anti-israel-right-everything-old-is-new-again/",
+          "publishedOn": "2025-12-23T11:30:15.000Z",
+          "wordCount": 6450,
+          "title": "No, the USS <i>Liberty</i> Attack Wasn’t Israeli Treachery",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2025/12/uss-liberty-c1966.jpg?fit=2057%2C1200&ssl=1"
+        },
         {
           "id": "https://www.nationalreview.com/?p=1905157",
           "author": "Noah Rothman",
@@ -10874,6 +10904,16 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/104836",
+          "author": "Matrix机器人",
+          "description": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。💬一派热议在 ...查看全文",
+          "link": "https://sspai.com/post/104836",
+          "publishedOn": "2025-12-23T09:00:00.000Z",
+          "wordCount": 1628,
+          "title": "社区速递 123 | 年终大放送，盘点派友们的十一月「剁手」实录",
+          "imageUrl": null
+        },
+        {
           "id": "https://sspai.com/post/104779",
           "author": "王隐",
           "description": "战斗更丰富、武器更多样、暴力美学更直接—……它做到了续作该做的事——让你喜欢的东西变得更好。查看全文",
@@ -11862,26 +11902,6 @@
           "wordCount": 345,
           "title": "智能手机的「最后一道保险」：卫星通讯的过去、现在与未来",
           "imageUrl": null
-        },
-        {
-          "id": "https://sspai.com/post/104040",
-          "author": "PiEgg",
-          "description": "今天，在 PicGo 即将迎来 8 岁生日之际，我发布了它的 2.4.0 正式版；而我于今天也迎来了我 30 岁的农历生日。30岁，对我来说是个新的起点，人生的长跑，终点都一样，但是我可以有机会选择不同的起点。而你，我的朋友，未来的我们又会在哪里相遇呢？查看全文",
-          "link": "https://sspai.com/post/104040",
-          "publishedOn": "2025-11-24T03:21:07.000Z",
-          "wordCount": 1199,
-          "title": "代码人生的碎碎念：写在 PicGo 八周年之际",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sspai.com/post/104042",
-          "author": "少数派编辑部",
-          "description": "微软因反复鼓吹 Copilot 频招批评\n《大型网络平台个人信息保护规定》公开征求意见\n惠普、戴尔为省成本屏蔽 H.265 硬件编解码支持\nGrok 表现出「崇拜」马斯克倾向\n英国国防电竞运动会将设《使命召唤》和无人机模拟等项目\nX 开始展示账号所在地等信息\n看看就行的小道消息\n少数派的近期动态\n你可能错过的好文章\n查看全文",
-          "link": "https://sspai.com/post/104042",
-          "publishedOn": "2025-11-24T00:57:28.000Z",
-          "wordCount": 490,
-          "title": "派早报：微软因反复鼓吹 Copilot 频招批评",
-          "imageUrl": null
         }
       ]
     },
@@ -11890,6 +11910,118 @@
       "feedUrl": "https://plink.anyfeeder.com/idaily/today",
       "siteUrl": "https://idai.ly",
       "articles": [
+        {
+          "id": "idaily-242583",
+          "author": "水蛇座",
+          "description": "欧空局公布一张「欧几里得」（Euclid）太空望远镜拍摄的水蛇座「NGC 646」棒旋星系照片。这个星系距离地球约3.92亿光年，拥有明亮的星系核和两条向外延伸的星系旋臂，形似一只「圣诞花环」。欧空局计划于2026年底公布「欧几里得」太空望远镜运行第一年内的观测数据，包含数十万个星系、覆盖天空面积约1900平方度，相当于总观测面积的14%。摄影师：ESA",
+          "link": "https://m.idai.ly/se/742p0Z",
+          "publishedOn": "2025-12-23T10:59:00.000Z",
+          "wordCount": 256,
+          "title": "欧几里得拍摄星系花环 - December 23, 2025",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/9ca1daba/0fbb8548.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/9ca1daba/0fbb8548.jpg"
+        },
+        {
+          "id": "idaily-242582",
+          "author": "英国 · 伦敦",
+          "description": "伦敦圣保罗大教堂唱诗班正在进行圣诞音乐会彩排，英国。12月22日，英国国家统计局公布2025年第三季度 GDP 同比增长1.3%，其中服务业增长0.2%，建筑业增长0.2%，制造业下降-0.3%，整体经济增速较年初大幅放缓。普华永道预测2025年圣诞假期英国消费总额将达到246亿英镑，同比增长3.5%，人均节日花费从449英镑增加至461英镑，主要用于采购食品饮料、圣诞晚餐、健康和美容产品。摄影师：Carlos Jasso",
+          "link": "https://m.idai.ly/se/aa0V86",
+          "publishedOn": "2025-12-23T09:58:00.000Z",
+          "wordCount": 256,
+          "title": "英国唱诗班圣诞彩排 - December 23, 2025",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/bf6959d1/d9877760.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/bf6959d1/d9877760.jpg"
+        },
+        {
+          "id": "idaily-242581",
+          "author": "美国 · 佛罗里达州",
+          "description": "美国总统 Donald Trump 在海湖庄园公布「特朗普级」（Trump-class）战列舰，佛罗里达州。12月22日，美国总统 Trump 公布以他名字命名的新型战列舰，宣称这将是美国海军有史以来「最快、最大、最强」的战列舰，威力相当于现有战舰的「100倍」。Trump 宣布将在美国本土建造20至25艘该级别战列舰，首艘命名为「无畏号」（USS Defiant）。美国国防部公布数据显示「特朗普级」战列舰的长度约260米、宽约35米，排水量超过3.5万吨，航速达30节以上，将配备高超音速导弹、核巡航导弹、电磁炮和高功率激光武器。摄影师：Andrew Caballero-Reynolds",
+          "link": "https://m.idai.ly/se/cf16d9",
+          "publishedOn": "2025-12-23T08:57:00.000Z",
+          "wordCount": 256,
+          "title": "特朗普公布「特朗普级」战舰 - December 23, 2025",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/bd0dc80d/4312338b.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/bd0dc80d/4312338b.jpg"
+        },
+        {
+          "id": "idaily-242580",
+          "author": "俄罗斯 · 圣彼得堡",
+          "description": "俄罗斯总统 Vladimir Putin 出席2025年列夫·托尔斯泰国际和平奖颁奖典礼，圣彼得堡。12月21日，俄总统 Putin 向吉尔吉斯斯坦、塔吉克斯坦和乌兹别克斯坦三国总统颁发列夫·托尔斯泰国际和平奖，以表彰他们为促进中亚地区和平与安全做出的重大贡献。Putin 称赞吉塔乌三国领导人于2025年3月31日签署关于边界交汇点的条约及永久友好宣言，解决了三国边界勘定问题，对加强中亚地区和平与安全做出重大贡献。摄影师：Alexey Danichev",
+          "link": "https://m.idai.ly/se/b2dnpl",
+          "publishedOn": "2025-12-23T08:55:00.000Z",
+          "wordCount": 256,
+          "title": "普京颁发托尔斯泰和平奖 - December 23, 2025",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/f3b9b0ba/ab6c6e9d.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/f3b9b0ba/ab6c6e9d.jpg"
+        },
+        {
+          "id": "idaily-242579",
+          "author": "阿联酋 · 扎耶德",
+          "description": "法国总统 Emmanuel Macron 在圣诞节前夕访问法国驻中东军事基地，阿联酋阿布扎比。12月21日，法国总统 Macron 访问阿联酋与驻阿法国官兵共度圣诞节。Macron 当天宣布法国将投入102.5亿欧元建造一艘新核动力航空母舰，预计2038年替代「戴高乐号」航母投入服役。这艘新核动力航母舰身长约310米，满载排水量约7.8万吨，可搭载2000名舰员及30架战斗机，届时将成为欧洲最大的军舰。摄影师：Ludovic Marin",
+          "link": "https://m.idai.ly/se/019QSJ",
+          "publishedOn": "2025-12-23T08:53:00.000Z",
+          "wordCount": 256,
+          "title": "法国宣布新核航母计划 - December 23, 2025",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/dc956c89/b540756a.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/dc956c89/b540756a.jpg"
+        },
+        {
+          "id": "idaily-242578",
+          "author": "日本 · 新潟县",
+          "description": "日本新潟县议会批准重启柏崎刈羽核电站，保安人员要求旁听席民众保持安静，东京。12月22日，新潟县议会以多数赞成票批准重启柏崎刈羽核电站的预算案。柏崎刈羽核电站是日本境内最大的核电站，总装机容量达821.2万千瓦，2012年3月因福岛核事故影响而停止运营。东京电力公司宣布最快于2026年1月重启柏崎刈羽核电站6号机组，预计将为东京地区增加2%电力供应。野村综合研究所民调显示约60%新潟县居民反对重启柏崎刈羽核电站。摄影师：Issei Kato",
+          "link": "https://m.idai.ly/se/816Z2l",
+          "publishedOn": "2025-12-23T08:51:00.000Z",
+          "wordCount": 256,
+          "title": "日本最大核电站将重启 - December 23, 2025",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/4f3d8f85/ff446ad5.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/4f3d8f85/ff446ad5.jpg"
+        },
+        {
+          "id": "idaily-242577",
+          "author": "韩国 · 龙仁",
+          "description": "韩国京畿道博物馆举办「东洋志士安重根：统一即独立」特展，一幅韩国抗日义士安重根的遗墨《长叹一声 先吊日本》首次公开展出，龙仁市。安重根是日本殖民统治时期的朝鲜爱国志士，1909年10月在哈尔滨火车站刺杀日本前首相伊藤博文后被捕，次年3月被处以绞刑，年仅31岁。这幅书法是安重根赴死前在狱中留下的遗墨，意为「发出一声长叹，提前吊唁日本灭亡」。本次展览旨在纪念韩国光复80周年，展期持续至2026年4月5日。摄影师：iDaily Media",
+          "link": "https://m.idai.ly/se/5b1trL",
+          "publishedOn": "2025-12-23T08:49:00.000Z",
+          "wordCount": 256,
+          "title": "韩国展出抗日志士遗墨 - December 23, 2025",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/329beddc/622dd36f.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/329beddc/622dd36f.jpg"
+        },
+        {
+          "id": "idaily-242576",
+          "author": "比利时 · 布吕热莱特",
+          "description": "比利时天堂动物园，一只新出生的南方白犀牛幼崽站在母亲身旁，布吕热莱特。12月22日，比利时天堂动物园宣布启动新生白犀牛的命名投票活动。这只小犀牛出生于12月10日，体重60公斤，是18岁雌性白犀牛「Madiba」诞下的第3只幼崽。目前天堂动物园内共生活着6只白犀牛，分别为1只成年公犀、2只成年母犀和3只幼崽。白犀牛是现存体型最大的犀牛物种，分为北白犀和南白犀2个亚种，受人类盗猎和栖息地丧失威胁，北白犀仅存2只雌性个体，南白犀数量约1.8万只，被列为近危物种。摄影师：Pairi Daiza",
+          "link": "https://m.idai.ly/se/08caGd",
+          "publishedOn": "2025-12-23T08:47:00.000Z",
+          "wordCount": 256,
+          "title": "比利时新生白犀幼崽 - December 23, 2025",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/3eb7c3b7/6b634be6.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/3eb7c3b7/6b634be6.jpg"
+        },
         {
           "id": "idaily-242526",
           "author": "英国 · 威尔特郡",
@@ -14670,6 +14802,16 @@
       "siteUrl": "http://nytimes.com",
       "articles": [
         {
+          "id": "https://cn.nytimes.com/business/20120122/c00appleone/dual",
+          "author": null,
+          "description": "CHARLES DUHIGG, KEITH BRADSHER2012年1月22日2010年中国河南省的一个工作招聘会上，应聘者蜂拥在富士康科技公司的展台前。 Donald Chan/Reuters\nWhen Barack Obama joined Silicon Valley’s top luminaries for dinner in California last February, each guest was asked to come with a question for the president.\n去年2月 ，巴拉克·奥巴马在加州与硅谷的各位顶尖名人共进晚餐。按照这次晚宴的规矩，每位客人都得向总统提一个问题。\n在中国，林丽娜（音）是PCH International的一个项目经理。该公司和苹果签有合同。\"有很多工作机会，\"她说。“特别是在深圳。”\nBut as Steven P. Jobs of Apple spoke, President Obama interrupted with an inquiry of his own: what would it take to make iPhones in the United States?\n然而，轮到苹果公司的史蒂芬·P·乔布斯(Steven P. Jobs)说话的时候，奥巴马总统却用自己的问题打断了他：要在美国生产iPhone的话，需要满足什么样的条件呢？\nNot long ago, Apple boasted that its products were made in America. Today, few are. Almost all of the 70 million iPhones, 30 million iPads and 59 million other products Apple s…",
+          "link": "https://cn.nytimes.com/business/20120122/c00appleone/dual",
+          "publishedOn": "2025-12-23T09:36:02.000Z",
+          "wordCount": null,
+          "title": "iPhone为何中国制造？",
+          "imageUrl": null
+        },
+        {
           "id": "https://cn.nytimes.com/usa/20251223/linda-sun-mistrial/dual",
           "author": null,
           "description": "SANTUL NERKAR, ANUSHA BAYYA2025年12月23日2024年9月被捕并进行公诉提控后，孙雯（中右）与丈夫胡骁出现在布鲁克林联邦地区法院外。 Jefferson Siegel for The New York Times\nA federal judge in Brooklyn on Monday declared a mistrial in the case of Linda Sun, a former aide to Democratic governors who was accused of working as an agent of China, after jurors said they could not reach a verdict.\n周一，布鲁克林的一名联邦法官宣布孙雯案审判无效。此前陪审团表示无法就此案达成一致裁决。孙雯(Linda Sun)曾是民主党州长的一名助手，被控充当中国代理人。\nMs. Sun, 42, was accused by federal prosecutors of being an unscrupulous public servant who sold her allegiance to China, which rewarded her handsomely for helping to carry out its global campaign of influence peddling.\n42岁的孙雯被联邦检察官指控为一名不择手段的公务员，将自己的忠诚出卖给了中国，帮助中国实施全球影响力渗透行动并得到丰厚的回报。\nShe and her husband, Chris Hu, who was also on trial, carried out Beijing’s bidding, prosecu…",
@@ -15648,26 +15790,6 @@
           "wordCount": 1201,
           "title": "面对特朗普和平方案，泽连斯基能否再次力挽狂澜？",
           "imageUrl": "https://static01.nyt.com/images/2025/11/23/multimedia/23int-ukraine-zelensky-moment-01-twhf/23int-ukraine-zelensky-moment-01-twhf-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/climate/20251124/china-climate-leadership-belem-cop30/dual",
-          "author": null,
-          "description": "LISA FRIEDMAN, SOMINI SENGUPTA2025年11月24日上周在巴西贝伦举行的COP30会议中国馆。 Adriano Machado/Reuters\nFor evidence of China’s prominence at the United Nations climate summit in Brazil, look no further than the convention hall, where China boasts one of the largest pavilions, prominently located in the center next to the host country.\n若论中国在巴西举办的联合国气候大会上的重要地位，只需看看会场就够了，中国在那里拥有大会规模最大的展位之一，占据着紧邻东道国展位的中心显要位置。\nBefore a fire tore through part of the Pavilion Hall on Thursday, throngs converged daily at China’s exhibition area to pick up panda-themed tote bags, listen to energy experts and admire displays of China’s global investments in clean energy: a solar farm in the Gobi Desert, battery storage in Saudi Arabia, transmission lines in Egypt and Brazil.\n周四展馆部分区域发生火灾前，每天都有很多人涌向中国展位，领取熊猫主题手提袋、聆听能源专家演讲，同时驻足参观中国在全…",
-          "link": "https://cn.nytimes.com/climate/20251124/china-climate-leadership-belem-cop30/dual",
-          "publishedOn": "2025-11-24T03:36:02.000Z",
-          "wordCount": 1239,
-          "title": "联合国气候大会上的中国：存在感满满，却无所作为",
-          "imageUrl": "https://static01.nyt.com/images/2025/11/21/multimedia/21cli-COP30-ChinaClimate-sub-vwgj/21cli-COP30-ChinaClimate-sub-vwgj-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/asia-pacific/20251124/japan-china-taiwan-dispute/dual",
-          "author": null,
-          "description": "赫海威2025年11月24日10月，在韩国庆州，日本首相高市早苗抵达与中国领导人习近平会晤的会场。 Visual China Group, via Getty Images\nInside a crowded convention center in South Korea last month, Japan’s new prime minister, Sanae Takaichi, beamed as she met China’s leader, Xi Jinping, for the first time. Mr. Xi smiled back, a rare display of warmth between the rival countries.\n上个月，在韩国一个座无虚席的会展中心里，日本新任首相高市早苗与中国国家主席习近平首次会面，高市笑容满面。习近平也回以微笑——在这两个存在嫌隙的国家之间，这是难得一见的温暖场面。\nOnly a few weeks later, the relationship has come undone. Mr. Xi has unleashed a wave of reprisals against Japan over a recent comment by Ms. Takaichi about defending Taiwan, a self-governed democracy that Beijing considers part of its territory.\n但仅仅几周之后，两国关系便急转直下。由于高市早苗近日关于保卫台湾的言论，习近平对日本采取了一系列报复措施。台湾是一个自治的民主政体，但北京视其为中国领土的一部分。\nThe dispute poses an early test for Ms. Takaichi,…",
-          "link": "https://cn.nytimes.com/asia-pacific/20251124/japan-china-taiwan-dispute/dual",
-          "publishedOn": "2025-11-24T02:06:01.000Z",
-          "wordCount": 1063,
-          "title": "中日争端无缓和迹象，高市早苗面临考验",
-          "imageUrl": "https://static01.nyt.com/images/2025/11/21/world/21int-japan-china/21int-japan-china-articleLarge.jpg"
         }
       ]
     },
@@ -15676,6 +15798,56 @@
       "feedUrl": "https://plink.anyfeeder.com/weixin/ibookreview",
       "siteUrl": "http://weixin.sogou.com/weixin?type=1&s_from=input&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A",
       "articles": [
+        {
+          "id": "07c0691722bb31978c97befad18e757a",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E7%A6%8F%E5%88%A9%E4%B8%A8%E5%9C%A8%E7%AE%97%E6%B3%95%E6%97%B6%E4%BB%A3%EF%BC%8C%E5%AD%A6%E4%BC%9A%E5%9C%A8%E2%80%9C%E4%BC%97%E5%A3%B0%E5%96%A7%E5%93%97%E2%80%9D%E4%B8%AD%E4%BB%8D%E7%84%B6%E5%81%9A%E4%B8%80%E4%B8%AA%E6%80%9D%E8%80%83%E7%9A%84%E4%BA%BA",
+          "publishedOn": "2025-12-23T01:57:00.000Z",
+          "wordCount": 308,
+          "title": "福利丨在算法时代，学会在“众声喧哗”中仍然做一个思考的人",
+          "imageUrl": null
+        },
+        {
+          "id": "4029fc73b12e5721bbc56c9ec935e106",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+2025%EF%BC%8C%E4%BB%96%E4%BB%AC%E7%A6%BB%E6%88%91%E4%BB%AC%E8%BF%9C%E5%8E%BB",
+          "publishedOn": "2025-12-23T01:57:00.000Z",
+          "wordCount": 287,
+          "title": "2025，他们离我们远去",
+          "imageUrl": null
+        },
+        {
+          "id": "34c764e9096b41f27e48a3cb662c1c0d",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E5%9B%9E%E5%BA%94%E3%80%8A%E7%BA%A2%E6%A5%BC%E6%A2%A6%E3%80%8B%E2%80%9C%E6%82%BC%E6%98%8E%E2%80%9D%E7%AD%89%E4%BA%89%E8%AE%AE%EF%BC%8C%E5%8C%97%E4%BA%AC%E6%9B%B9%E9%9B%AA%E8%8A%B9%E5%AD%A6%E4%BC%9A2025%E5%B9%B4%E5%AD%A6%E6%9C%AF%E5%B9%B4%E4%BC%9A%E5%8F%AC%E5%BC%80",
+          "publishedOn": "2025-12-23T01:57:00.000Z",
+          "wordCount": 256,
+          "title": "回应《红楼梦》“悼明”等争议，北京曹雪芹学会2025年学术年会召开",
+          "imageUrl": null
+        },
+        {
+          "id": "174378b7926e24388cba5e2ffb8928cd",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+2025%E6%96%B0%E4%BA%AC%E6%8A%A5%E5%B9%B4%E5%BA%A6%E9%98%85%E8%AF%BB%E6%8E%A8%E8%8D%90%C2%B7%E5%85%A5%E5%9B%B4%E4%B9%A6%E5%8D%95%E4%B8%A8%E6%96%87%E5%AD%A6%E8%89%BA%E6%9C%AF",
+          "publishedOn": "2025-12-23T01:57:00.000Z",
+          "wordCount": 311,
+          "title": "2025新京报年度阅读推荐·入围书单丨文学艺术",
+          "imageUrl": null
+        },
+        {
+          "id": "dcbdbca6b7f0ea50681896366fb2ed2c",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E8%A2%AB%E9%BC%A0%E7%96%AB%E6%94%B9%E5%8F%98%E7%9A%84%E4%BA%BA%E7%B1%BB%E7%BA%AA%EF%BC%9A%E8%B6%8A%E4%BC%A0%E6%9F%93%EF%BC%8C%E8%B6%8A%E8%BF%9B%E6%AD%A5%EF%BC%9F",
+          "publishedOn": "2025-12-22T02:07:00.000Z",
+          "wordCount": 304,
+          "title": "被鼠疫改变的人类纪：越传染，越进步？",
+          "imageUrl": null
+        },
         {
           "id": "3c89cd401a7efbdee901a26a912503dd",
           "author": null,
