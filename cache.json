@@ -34,16 +34,6 @@
           "wordCount": 5782,
           "title": "R Weekly 2025-W50 New AI Newsletter, Test Set on Youtube, Haskell for Data Science",
           "imageUrl": "https://rweekly.org/public/facebook.png"
-        },
-        {
-          "id": "https://rweekly.org/2025-W49.html",
-          "author": null,
-          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Colin Fay, with help from the R Weekly team members and contributors.\nHighlight\nCreate custom GPS route maps in R\nFrom RUnit to testthat with Coding Agent Support\nDoes winning back-to-back individual immunity challenges decrease your chances of surviving the next Tribal Councils?\nInsights\nnlmixr2 is Becoming an R Consortium Working Group\nFrom the adas.utils Package to R-Trento: Paolo Bosetti on Building Tools and Community\nTranslating the rOpenSci Dev Guide into Portuguese: Collaboration, Community, Challenges, and Impact\nR in the Real World\nExpanding the Reach of R Across Cleveland’s Data and Tech Community\nDoes winning back-to-back individual immunity challenges decrease your chances of surviving the next Tribal Councils?\nTutorials\nFrom RUnit to testthat with Coding Agent Support\nCreate custom GPS route maps in R\nGuides for migrating to Positron\nNew Packages\n📦 Go Live for More New Pkgs 📦\n -->\n📦 Keep up to date wtih CRANberries 📦\nUpdated Packages\n🔍 Search on R-universe 🔍\n{gdalraster} 2.3.0: API bindings to GDAL (Geospatial Data Abstraction Library) - diffify\ntidyCpp 0.0.8 on CRAN: Maintenance\nRcppQuantuccia 0.1.3 on CRAN: Micro Maintenance\nRcppArmadillo 15.2.2-1 on CRAN: Upstream Update, OpenMP Updates\nVideos and Podcasts\nListen to the R-Weekly Highlights Podcast\n\n-->\n\nR Project Updates\nUpdates from R Core:\nUpcoming Events in 3 Months\nEvents in 3 Months:\nA list of R conferences and meetings\nThis week’s local R-User and applied stats events\nWeekly R Workshops for Ukraine\n30daymapchallenge\nWealth boundaries\nRailways\nToponymy\nConnect\nJoin the Data Science Learning Community",
-          "link": "https://rweekly.org/2025-W49.html",
-          "publishedOn": "2025-12-01T00:00:00.000Z",
-          "wordCount": 5545,
-          "title": "R Weekly 2025-W49 Custom GPS, testing, Tribal Councils",
-          "imageUrl": "https://rweekly.org/public/facebook.png"
         }
       ]
     },
@@ -320,26 +310,6 @@
           "publishedOn": "2025-12-02T05:02:04.000Z",
           "wordCount": 298,
           "title": "王紫珠评《大西洋现实主义》｜从世界政策到地缘政治：跨越德美的成长小说",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_32062893",
-          "author": null,
-          "description": "《牛津英国海军史》，[英]约翰·理查德·希尔主编，侯美译，上海人民出版社｜光启书局，2025年8月出版，584页，188.0元\n\n\n“变化的速度如此之快，以至于在考虑当前和未来的问题时，历史——甚至是相当近的历史——都变得无关紧要了”，这是《牛津英国海军史》（The Oxford Illustrated History of the Royal Navy）引述的一句历史学家的玩笑话（549页）。英国海军少将约翰·理查德·希尔（John Richard Hill）主编的这部著作原版于1995年问世，其中译本近期由上海人民出版社·光启书局推出。该著系统梳理了英国海军自盎格鲁—撒克逊时代至二十世纪末的兴衰历程。创作团队以主编希尔为核心，汇聚了十四位海军史权威专家，另由布莱恩·兰夫特（Bryan Ranft）担任顾问编辑。每位作者各负责撰写一章，全书正文依时间顺序编排为十四章，每章配有精美插图，共同为读者呈现了一场英国海军史的饕餮盛宴。该书问世时，正值冷战结束不久，世界格局剧烈变动，海军发展日新月异。在回顾历史的同时，希尔更致力于探求：在一个剧烈变化的时代，书写海军史究竟意义何在？\n得与失\n英国海军史研究源远流长。十九世纪下半叶，在约翰·诺克斯·劳顿（John Knox Laughton）的推动下，英国海军史研究走上了专业化的发展道路，形成了以海战史为中心的研究模式。当时学者多醉心于战略战术、武器装备及海军将领生平的研究，而疏于对海军的行政运行、后勤保障及海员征召等制度性问题的探讨，乃至于劳顿也承认：“海军委员会的工作始终笼罩于神秘之中。”二战结束后，英国海军史的研究潮流开始发生改变。就在这时，约翰·厄尔曼（John Ehrman）提出了著名的蛋糕比喻。他将海军史视为微缩的国家历史，指出若将国家历史比作一块蛋糕，各层代表国家生活的不同面向，那么海军史并非其中一层，而是贯穿各层的一块…",
-          "link": "https://www.thepaper.cn/newsDetail_forward_32062893",
-          "publishedOn": "2025-12-01T04:02:03.000Z",
-          "wordCount": 168,
-          "title": "陈剑评《牛津英国海军史》｜历史无关紧要了吗？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thepaper.cn/newsDetail_forward_32074259",
-          "author": null,
-          "description": "《〈君士坦丁赠礼〉伪作考》，[意] 洛伦佐·瓦拉著，陈文海译注，商务印书馆丨光启文库，2022年7月出版，232页，73.00元\n\n\n关于君士坦丁大帝与罗马教会之间“复杂而玄妙”（布克哈特语）的历史渊源，诗人但丁一言以蔽之：“啊，君士坦丁，多少邪恶由此诞生——不是因为你的皈依，而是因为第一位富有的教皇从你那里收到的捐赠！”（《神曲·地狱篇》第十九章，115-117行）。此处的“捐赠”，即指中世纪影响西欧长达千年的教会官方文件——《君士坦丁赠礼》（Donation of Constantine）（以下简称《赠礼》）。\n据教会《法典》记载，君士坦丁早年患有麻风病，时任罗马主教西尔维斯特为之施洗，手到病除。君士坦丁为答谢主教恩德，不仅自愿皈依基督教，而且颁布《赠礼》诏令，将罗马城及帝国西部地区统治权悉数移交教会，而他本人则主动东迁至新都拜占庭。罗马帝国由是正式一分为二，罗马主教摇身一变而成教皇，俨然以西方基督教世界最高权威自居——日后格列高利七世在《教皇教谕》中宣称“罗马教会从未错过，也永远不会错”，并认为教皇作为上帝在人间的代表，不仅“有权……废黜皇帝”，而且“不受任何人裁判”。1077年，神罗皇帝亨利四世徒步前往格列高利七世驻跸的意大利卡诺莎城堡，在暴风雪中赤足站立三天三夜，最终求得教皇赦免，史称“卡诺莎之辱”，这一幕也堪称中世纪教权与王权斗争最富戏剧性的场面——而彼时教皇所倚仗的正是教廷钦定文书《赠礼》‌。\n时至十五世纪，教皇尤金四世（Pope Eugenius IV）与阿拉贡国王阿方索五世（Alfonso V）因那不勒斯王国归属权问题爆发冲突，教皇纠集北意大利诸侯联盟，向“雅君”阿方索五世发起“合围”，而后者一面积极武力备战，一面又命手下文人撰写声讨教皇的檄文——从根本上消解教皇权威，以期不战而屈人之兵。其结果便是意大利人文主义者瓦拉（Lorenzo Valla，1407…",
-          "link": "https://www.thepaper.cn/newsDetail_forward_32074259",
-          "publishedOn": "2025-12-01T04:02:03.000Z",
-          "wordCount": 184,
-          "title": "杨靖︱语文学的诞生：从《〈君士坦丁赠礼〉伪作考》谈起",
           "imageUrl": null
         }
       ]
@@ -6187,6 +6157,36 @@
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
         {
+          "id": "https://www.nationalreview.com/?p=1906967",
+          "author": "Rich Lowry",
+          "description": "The HHS secretary, to say the least, isn’t always very careful about evidence, but, on this one, the most painstaking research is on his side.",
+          "link": "https://www.nationalreview.com/2025/12/rfk-jr-is-right-about-gender-affirming-care/",
+          "publishedOn": "2025-12-30T16:30:17.000Z",
+          "wordCount": 14344,
+          "title": "RFK Jr. Is Right About ‘Gender-Affirming Care’",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2025/12/Robert-F-Kennedy-JR.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1906955",
+          "author": "Noah Rothman",
+          "description": "The Iranian people are at the end of their rope, and they’re letting their dissatisfaction be known.",
+          "link": "https://www.nationalreview.com/2025/12/are-these-iran-protests-different/",
+          "publishedOn": "2025-12-30T16:06:23.000Z",
+          "wordCount": 17825,
+          "title": "Are These Iran Protests Different?",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2025/12/Iran-currency.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1903085",
+          "author": "Tevi Troy",
+          "description": "If there was one bookshelf theme this year, it was liberals discovering the concept of abundance.",
+          "link": "https://www.nationalreview.com/2025/12/2025-a-year-in-reading/",
+          "publishedOn": "2025-12-30T11:30:41.000Z",
+          "wordCount": 8487,
+          "title": "2025: A Year in Reading",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2025/12/2025Books.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
           "id": "https://www.nationalreview.com/?p=1906685",
           "author": "Noah Rothman",
           "description": "Israel’s recognition of the breakaway state could upend a sclerotic status quo in the region.",
@@ -7814,6 +7814,36 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/105004",
+          "author": "Matrix机器人",
+          "description": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光。因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。💬一派热议在 ...查看全文",
+          "link": "https://sspai.com/post/105004",
+          "publishedOn": "2025-12-30T08:51:22.000Z",
+          "wordCount": 668,
+          "title": "社区速递 124 | 怪奇物语盲盒开箱，几块钱搞定「干眼症」？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sspai.com/prime/story/times-new-american",
+          "author": "PlatyHsu",
+          "description": "[......]\n查看全文\n本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
+          "link": "https://sspai.com/prime/story/times-new-american",
+          "publishedOn": "2025-12-30T07:41:12.000Z",
+          "wordCount": 577,
+          "title": "Times New American: 闲话美国国务院「换字体」事件",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sspai.com/post/104978",
+          "author": "AstrianZ",
+          "description": "方便从来都不是安全的敌人，复杂才是；脱离人参与的安全策略，从来都不是一个好的安全策略。查看全文",
+          "link": "https://sspai.com/post/104978",
+          "publishedOn": "2025-12-30T07:00:00.000Z",
+          "wordCount": 337,
+          "title": "安全键盘：一场横跨 30 年的大型掩耳盗铃",
+          "imageUrl": null
+        },
+        {
           "id": "https://sspai.com/post/104802",
           "author": "Vanilla",
           "description": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
@@ -8772,26 +8802,6 @@
           "wordCount": 854,
           "title": "派评 | 近期值得关注的 App",
           "imageUrl": null
-        },
-        {
-          "id": "https://sspai.com/post/104178",
-          "author": "二一的笔记",
-          "description": "Notion Agent 给了我一种不同的可能：AI 不再是一个外部工具，而是一个可以被训练、可以被塑造、可以和你一起成长的协作者。查看全文",
-          "link": "https://sspai.com/post/104178",
-          "publishedOn": "2025-12-01T03:27:14.000Z",
-          "wordCount": 814,
-          "title": "聊聊被低估的 Notion Agent，迷人的自动化工作流",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sspai.com/post/104201",
-          "author": "少数派编辑部",
-          "description": "取款超 5 万将不再需要登记\n空客紧急召回约 6000 架 A320，撤销软件升级\n监管部门再次表态打击虚拟货币交易\n京东宣布 2026 年起调整京豆规则\n北京修订非机动车条例，快递外卖车将发专用牌\n特斯拉进入印度四个月仅售出一百辆\n 看看就行的小道消息\n少数派的近期动态\n你可能错过的好文章\n查看全文",
-          "link": "https://sspai.com/post/104201",
-          "publishedOn": "2025-12-01T00:59:13.000Z",
-          "wordCount": 411,
-          "title": "派早报：取款超 5 万将不再需要登记",
-          "imageUrl": null
         }
       ]
     },
@@ -8800,6 +8810,118 @@
       "feedUrl": "https://plink.anyfeeder.com/idaily/today",
       "siteUrl": "https://idai.ly",
       "articles": [
+        {
+          "id": "idaily-243001",
+          "author": "意大利 · 西西里岛",
+          "description": "远眺喷发中的意大利埃特纳火山（Mount Etna），西西里岛。12月26日，意大利埃特纳火山发生28年来最大规模的一次喷发，火山灰柱升至1万米高空，熔岩喷出高度达500米。意大利国家地质与火山研究所（INGV）已发布最高级别红色航空警告，要求周边航线所有航班绕开火山喷发区域。埃特纳火山处于欧亚板块和非洲板块交汇处，海拔高度达3357米，是欧洲境内最高、最活跃的火山。摄影师：Salvatore Allegra",
+          "link": "https://m.idai.ly/se/b7688E",
+          "publishedOn": "2025-12-30T10:39:00.000Z",
+          "wordCount": 255,
+          "title": "意大利埃特纳火山喷发 - December 30, 2025",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/4c5622e1/5ddd81e1.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/4c5622e1/5ddd81e1.jpg"
+        },
+        {
+          "id": "idaily-243000",
+          "author": "美国 · 佛罗里达州",
+          "description": "美国总统 Donald Trump 与以色列总理 Benjamin Netanyahu 在海湖庄园举行会晤，佛罗里达州。12月29日，美以两国领导人举行2025年第6次面对面会晤，双方就加沙停火第二阶段协议、伊朗核问题、中东局势等议题进行会谈。美国总统 Trump 在联合记者会上表示，如果伊朗继续发展弹道导弹和重建核武器项目，美国将支持以色列再次军事打击伊朗。以色列总理 Netanyahu 在记者会上感谢 Trump 对以色列展现出的「非凡」友谊，邀请对方于2026年4月以色列独立日期间进行访问。摄影师：Jonathan Ernst",
+          "link": "https://m.idai.ly/se/3869cC",
+          "publishedOn": "2025-12-30T09:58:00.000Z",
+          "wordCount": 255,
+          "title": "美以领导人会晤 - December 30, 2025",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/3d6e1b90/b4f56f22.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/3d6e1b90/b4f56f22.jpg"
+        },
+        {
+          "id": "idaily-242998",
+          "author": "德国 · 埃森",
+          "description": "德国民众在埃森关税同盟煤矿工业区冬季溜冰场上滑冰。埃森关税同盟煤矿工业区始建于1847年，占地面积约100公顷，曾是世界上最大的煤矿之一，1986年关闭停产后被改建为艺术文化中心。本年度埃森关税同盟煤矿工业区冬季溜冰场的开放时间从12月6日持续至2026年1月6日。德国经济研究所（IW）最新报告预测2025年德国 GDP 增长率仅为0.1%，比前次预期下调0.1个百分点，主要受到出口疲软和全球贸易放缓等因素影响。摄影师：Martin Meissner",
+          "link": "https://m.idai.ly/se/dab22X",
+          "publishedOn": "2025-12-30T08:57:00.000Z",
+          "wordCount": 255,
+          "title": "德国煤矿遗址溜冰场 - December 30, 2025",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/401a8059/67058aa5.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/401a8059/67058aa5.jpg"
+        },
+        {
+          "id": "idaily-242997",
+          "author": "日本 · 东京",
+          "description": "东京市民在阿美横丁商店街采购年货。阿美横丁商店街是东京最著名的商店街之一，全长约500米，设有超过400家店铺，预计新年前最后5天的购物流量将达到190万人次。12月26日，日本帝国数据库公司发布调查报告显示，2025年日本共有20609种食品涨价，数量比前一年增加约60%，涨价原因主要与原材料、人工成本上涨和日元贬值有关。日本央行预测2026年通胀压力将逐步缓解，消费者物价指数涨幅将回落至1.6%-2.0%区间。摄影师：iDaily Media",
+          "link": "https://m.idai.ly/se/a22pOB",
+          "publishedOn": "2025-12-30T08:55:00.000Z",
+          "wordCount": 255,
+          "title": "日本民众采购年货 - December 30, 2025",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/03eae80a/aa6f5089.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/03eae80a/aa6f5089.jpg"
+        },
+        {
+          "id": "idaily-242996",
+          "author": "中国 · 湖州",
+          "description": "中国航天私企蓝箭航天公司的发动机总装工厂，湖州市。12月30日，中国航天2025年累计火箭发射总量达到90次，打破年度运载火箭发射次数纪录，发射成功率达96.7%；其中民营商业火箭企业执行23次发射任务，入轨航天器324颗，参与发射的火箭系列包括捷龙、快舟、朱雀、力箭、谷神星等。中国商业航天发展大会报告指出，2025年中国商业航天产业规模超过2.5万亿元，年均复合增长率逾20%，融资总额达到186亿元。摄影师：Maxim Shemetov",
+          "link": "https://m.idai.ly/se/4cdD91",
+          "publishedOn": "2025-12-30T08:53:00.000Z",
+          "wordCount": 255,
+          "title": "中国2025年火箭发射90次 - December 30, 2025",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/63a5dc32/0fd1b89b.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/63a5dc32/0fd1b89b.jpg"
+        },
+        {
+          "id": "idaily-242995",
+          "author": "韩国 · 首尔",
+          "description": "韩国总统李在明乘专车抵达青瓦台，首尔。12月29日，韩国总统府搬迁工作正式结束，韩国总统办公地时隔3年7个月重返青瓦台。韩国总统李在明当天在青瓦台与幕僚举行茶叙，并视察青瓦台设置的国家危机管理中心。青瓦台主要由主楼、与民馆、迎宾馆、春秋馆和总统官邸组成，李在明及其主要幕僚将一同在与民馆办公。青瓦台官邸的维修工程目前尚未完成，李在明仍需暂居汉南洞官邸，每天单程通勤距离约8公里。摄影师：iDaily Media",
+          "link": "https://m.idai.ly/se/bb688x",
+          "publishedOn": "2025-12-30T08:51:00.000Z",
+          "wordCount": 255,
+          "title": "韩国总统府迁回青瓦台 - December 30, 2025",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/c3eb31f6/250148f5.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/c3eb31f6/250148f5.jpg"
+        },
+        {
+          "id": "idaily-242993",
+          "author": "朝鲜",
+          "description": "朝鲜官方公布一张远程战略巡航导弹试射照片。12月29日，朝鲜导弹总局在西部海域试射2枚远程战略巡航导弹，朝中社报道称导弹发射后沿预定轨道飞行约170分钟后击中靶标，朝鲜最高领导人金正恩在现场观摩导弹试射。韩国军方推测本次试射的导弹可能是「箭矢-1」改良版，最大射程估计超过2000公里。据韩方统计，朝鲜最高领导人金正恩在2025年累计共参与21次军事相关的公开活动。摄影师：KCNA",
+          "link": "https://m.idai.ly/se/209513",
+          "publishedOn": "2025-12-30T08:49:00.000Z",
+          "wordCount": 255,
+          "title": "朝鲜试射战略巡航导弹 - December 30, 2025",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/d08c9141/d9a2a2d7.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/d08c9141/d9a2a2d7.jpg"
+        },
+        {
+          "id": "idaily-242992",
+          "author": "中国 · 台湾省",
+          "description": "中国人民解放军海军导弹驱逐舰在台湾岛以东海域参加演习。12月29日，中国解放军东部战区组织陆军、海军、空军、火箭军等兵力，在台湾岛周边开展「正义使命-2025」演习，重点演练海空战备警巡、夺取综合制权、要港要域封控、外线立体慑阻等科目。东部战区新闻发言人表示，本次演习是对「台独」分裂势力和外部干涉势力的严重警告，是捍卫国家主权、维护国家统一的正当必要行动。摄影师：iDaily Media",
+          "link": "https://m.idai.ly/se/90aV41",
+          "publishedOn": "2025-12-30T08:47:00.000Z",
+          "wordCount": 255,
+          "title": "中国人民解放军东部战区「正义使命-2025」军演 - December 30, 2025",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/050108dd/67b17af2.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/050108dd/67b17af2.jpg"
+        },
         {
           "id": "idaily-242915",
           "author": "美国 · 新罕布什尔州",
@@ -11678,6 +11800,16 @@
       "siteUrl": "http://nytimes.com",
       "articles": [
         {
+          "id": "https://cn.nytimes.com/asia-pacific/20251230/japan-china-island-yonaguni/dual",
+          "author": null,
+          "description": "赫海威, HISAKO UENO2025年12月30日与那国岛是位于台湾以东约110公里的日本军事前哨，坐落在所谓的“第一岛链”上，这是一片用于限制中国海军扩张的战略性岛屿弧形地带。 \nAs a lifelong resident of Yonaguni, a remote island that is Japan’s westernmost point, Himeyo Ukemasu remembers the distant days when life was measured by the bright stars, the tides and the ripening of mulberry trees.\n作为一辈子生活在日本最西端的偏远岛屿与那国岛的居民， 请舛日美代（音）依然记得那些以星辰、潮汐和桑葚成熟为生活刻度的遥远岁月。\nToday, the stars have been obscured by radar towers, and Ms. Ukemasu, a 70-year-old volunteer at a tourist site, has other concerns. Yonaguni, a Japanese military outpost about 70 miles east of Taiwan, sits along the so-called “first island chain,” a strategic arc of islands used to hem in Chinese naval expansion. As China fumes over Japan’s recent expression of support for Taiwan, Ms. Ukemasu and the island’s roughly 1,…",
+          "link": "https://cn.nytimes.com/asia-pacific/20251230/japan-china-island-yonaguni/dual",
+          "publishedOn": "2025-12-30T07:36:02.000Z",
+          "wordCount": 1509,
+          "title": "探访中日争端最前线的冲绳小岛",
+          "imageUrl": "https://static01.nyt.com/images/2025/12/30/multimedia/30int-japan-island-01-hmkl/30int-japan-island-01-hmkl-articleLarge.jpg"
+        },
+        {
           "id": "https://cn.nytimes.com/business/20251230/rare-earth-processing-phoenix-tailings/dual",
           "author": null,
           "description": "REBECCA F. ELLIOTT2025年12月30日Phoenix Tailings在新罕布什尔州埃克塞特运营一座金属制造工厂。 Tony Luong for The New York Times\nEvery few hours, two furnaces in a New Hampshire office park quietly transform batches of taupe-colored powder into rough ingots.\n每隔几个小时，新罕布什尔州一处办公园区内的两座熔炉就会悄无声息地将一批批灰褐色粉末转化为粗糙的金属锭。\nThese mottled chunks of metal, about the size of a few bricks, ultimately will be used to make electric vehicle motors or maybe a fighter jet.\n这些大小相当于几块砖的斑驳金属块最终将被用于制造电动汽车的电机，或者可能用于战斗机。\nThis is what rare-earth processing looks like in the United States, where university researchers and start-ups are trying to wrest a slice of this small but vital industry from China.\n这就是美国的稀土加工：大学研究人员和初创企业正试图从中国手中夺取这个规模虽小却至关重要的产业的一席之地。\nRare earths are a family of elements toward the bottom of the periodic table, with tongue-twi…",
@@ -12576,26 +12708,6 @@
           "wordCount": 1067,
           "title": "缅甸军政府突袭妙瓦底KK园区，斩草除根是还是作秀？",
           "imageUrl": "https://static01.nyt.com/images/2025/11/26/multimedia/00int-myanmar-scams-01-zfqt/00int-myanmar-scams-01-zfqt-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/china/20251201/hongkong-fire-domestic-workers/dual",
-          "author": null,
-          "description": "ANJALI TSUI, FRANCESCA REGALADO2025年12月1日菲律宾人周日在香港参加社区祈祷活动，悼念11月26日大埔火灾的遇难者。 Philip Fong/Agence France-Presse — Getty Images\nFor many Hong Kong families, they are the women who cook their meals, bathe their elderly parents and care for infants at home — often unseen, they are indispensable. More than 200 foreign domestic workers, mostly from the Philippines and Indonesia, were living in the Wang Fuk Court housing complex, the site of the deadliest fire in the city for decades that broke out last week.\n在香港众多家庭中，她们是准备三餐、为年迈父母沐浴、看护幼儿的女性——虽常隐于幕后，却是不可或缺的存在。上周，香港数十年最严重的火灾在大埔宏福苑爆发，这处屋邨内居住着200多名外籍家庭佣工，其中绝大多数来自菲律宾和印度尼西亚。\nIn one 16th-story apartment, Cucu Susilawati, a worker from Indonesia, ran down the stairs with nothing but the clothes she was wearing. Elsewhere in the complex, Carren Dadap, a F…",
-          "link": "https://cn.nytimes.com/china/20251201/hongkong-fire-domestic-workers/dual",
-          "publishedOn": "2025-12-01T04:06:02.000Z",
-          "wordCount": 1441,
-          "title": "“救救我们”：宏福苑大火中的香港外籍家佣",
-          "imageUrl": "https://static01.nyt.com/images/2025/11/30/multimedia/30int-hongkong-maids-wmzg/30int-hongkong-maids-wmzg-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/china/20251201/hong-kong-fire-beijing-john-lee/dual",
-          "author": null,
-          "description": "艾莎2025年12月1日\nThe images on social media this week showed Chinese fire engines parked at the border, their lights flashing as they waited to be dispatched toward the inferno that was raging eight miles away in northern Hong Kong.\n本周社交媒体上流传的画面显示，中国消防车停在边境，警灯闪烁，等待被派往约13公里外香港北部肆虐的大火现场。\nThe trucks never entered the city.\n这些消防车最终并未进入香港。\nOn Chinese social media, people questioned why Hong Kong did not take the firefighting help even as its own fire trucks struggled to extinguish the blaze that burned for more than a day and eventually resulted in at least 128 deaths. The moment underscored the delicate political challenge for the city’s Beijing-backed chief executive, John Lee.\n在中国社交媒体上，人们质疑为什么香港不接受内地的消防支援，即使香港自己的消防部门奋力扑救超过一天仍难以控制大火，最终造成至少128人死亡。这一时刻凸显了由北京支持的行政长官李家超所面临的微妙政治考验。\nMr. Lee needs to de…",
-          "link": "https://cn.nytimes.com/china/20251201/hong-kong-fire-beijing-john-lee/dual",
-          "publishedOn": "2025-12-01T02:36:02.000Z",
-          "wordCount": 1503,
-          "title": "宏福苑致命大火考验北京对香港统治",
-          "imageUrl": "https://static01.nyt.com/images/2025/11/29/multimedia/29int-hongkong-fire-analysis-pczm/29int-hongkong-fire-analysis-pczm-videoLarge.jpg"
         }
       ]
     },
