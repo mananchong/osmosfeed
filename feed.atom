@@ -2,10 +2,85 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mananchong.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-15T17:08:24.336Z</updated>
+    <updated>2026-01-16T07:46:05.371Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mananchong.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://mananchong.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[中国大学全球排名大幅跃升，美国大学排名下滑]]></title>
+        <id>https://cn.nytimes.com/education/20260116/harvard-global-ranking-chinese-universities-trump-cuts/dual</id>
+        <link href="https://cn.nytimes.com/education/20260116/harvard-global-ranking-chinese-universities-trump-cuts/dual"/>
+        <updated>2026-01-16T07:06:02.000Z</updated>
+        <summary type="html"><![CDATA[MARK ARSENAULT2026年1月16日哈佛在一些其他全球排名中仍然名列前茅，但校领导人警告称，联邦经费削减正威胁其科研能力。 Sophie Park for The New York Times
+Until recently, Harvard was the most productive research university in the world, according to a global ranking that looks at academic publication.
+根据一项以学术论文发表数量为依据的全球排名，直到最近，哈佛一直是世界上科研成果最多的研究型大学。
+That position may be teetering, the most recent evidence of a troubling trend for American academia.
+这一地位如今可能正岌岌可危，这是美国学术界一个令人担忧趋势的最新证据。
+Harvard recently dropped to No. 3 on the ranking. The schools racing up the list are not Harvard’s American peers, but Chinese universities that have been steadily climbing in rankings that emphasize the volume and quality of research they produce.
+在最新排名中，哈佛已跌至第三位。排名快速跃升的并非美国名校，而是来自中国的高校——在强调科研产出数量与质量的排名体系中，它们正稳步攀升。
+The reordering comes as the Trump administrat…]]></summary>
+        <author>
+            <name>纽约时报双语版</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从理论、方法到工具，一套科学的时间精力待办管理系统：TimeGPT]]></title>
+        <id>https://sspai.com/post/104549</id>
+        <link href="https://sspai.com/post/104549"/>
+        <updated>2026-01-16T03:40:38.000Z</updated>
+        <summary type="html"><![CDATA[Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文]]></summary>
+        <author>
+            <name>风尘噗噗啊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[台湾与美国达成贸易协议，承诺在美建造更多晶圆厂]]></title>
+        <id>https://cn.nytimes.com/business/20260116/taiwan-trade-deal/dual</id>
+        <link href="https://cn.nytimes.com/business/20260116/taiwan-trade-deal/dual"/>
+        <updated>2026-01-16T03:06:02.000Z</updated>
+        <summary type="html"><![CDATA[MEAGHAN TOBIN, AMY CHANG CHIEN, XINYUN WU2026年1月16日全球大多数先进半导体由台湾制造。 Wen-Yee Lee/Reuters
+The United States announced a trade agreement with Taiwan on Thursday, securing commitments to invest $250 billion in semiconductor and technology manufacturing in America in exchange for lowering tariffs on imports from the island.
+美国周四宣布与台湾达成一项贸易协议，台湾承诺在美国半导体和技术制造业投资2500亿美元，以换取降低该岛出口美国商品的关税。
+Taiwan’s government would provide an additional $250 billion in credit guarantees to support smaller companies in the industry’s complex chip supply chain to expand in the United States, the Commerce Department said in a statement.
+美国商务部在一份声明中表示，台湾政府将额外提供2500亿美元的信用担保，支持芯片供应链中较小型企业在美国扩张。
+After months of negotiations, the Trump administration said it would lower the U.S. tariff rate on goods from Taiwan to 15 percen…]]></summary>
+        <author>
+            <name>纽约时报双语版</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：iQOO 发布 iQOO Z11 Turbo 手机、大疆发布 DJI RS 5 轻量商拍稳定器等]]></title>
+        <id>https://sspai.com/post/105494</id>
+        <link href="https://sspai.com/post/105494"/>
+        <updated>2026-01-16T00:55:36.000Z</updated>
+        <summary type="html"><![CDATA[联发科发布天玑 9500s 和天玑 8500 芯片，菲律宾对华免签等。查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特朗普对部分外国半导体产品加征25%关税]]></title>
+        <id>https://cn.nytimes.com/business/20260116/trump-chips-tariffs/dual</id>
+        <link href="https://cn.nytimes.com/business/20260116/trump-chips-tariffs/dual"/>
+        <updated>2026-01-16T00:36:03.000Z</updated>
+        <summary type="html"><![CDATA[ANA SWANSON, TRIPP MICKLE2026年1月16日芯片产业严重依赖来自海外的材料。 Jim Wilson/The New York Times
+President Trump signed a proclamation on Wednesday to impose a 25 percent tariff on a narrow list of foreign semiconductors, providing a way for the government to earn revenue off the sale of lucrative chips used in artificial intelligence.
+特朗普总统周三签署了一项公告，对一小类外国半导体征收25%的关税，让政府可以在用于人工智能的高利润芯片销售中获利。
+The tariff, which would take effect Thursday, is far more limited than what the president initially threatened. Last year, the administration began an investigation aimed at encouraging tech companies and chip makers to buy semiconductors made in America. But instead of approving sweeping tariffs that would affect the industry, the administration settled on Wednesday for narrower levies that allow it to take a cut o…]]></summary>
+        <author>
+            <name>纽约时报双语版</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Americans Are Going Where No Man Has Gone Before]]></title>
+        <id>https://www.nationalreview.com/?p=1911414</id>
+        <link href="https://www.nationalreview.com/2026/01/americans-are-going-where-no-man-has-gone-before/"/>
+        <updated>2026-01-15T20:57:37.000Z</updated>
+        <summary type="html"><![CDATA[We’re back in the space race, and it’s awesome.]]></summary>
+        <author>
+            <name>Noah Rothman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[中国2025年贸易顺差近1.2兆美元 - January 15, 2026]]></title>
         <id>idaily-243994</id>
@@ -242,6 +317,42 @@ Mr. Carney, under pressure by a recalcitrant President Trump who has all but nix
         <summary type="html"><![CDATA[自2014年推出以来，ApplePay已经从最初替代实体钱包的电子支付体验，发展成为了如今覆盖商品交易、身份认证、出行场景的电子钱包服务平台。除了基础的交易功能，我们可以用HomeKey解锁家门、用C ...查看全文]]></summary>
         <author>
             <name>waychane</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[必须做点什么才能证明“配得”？这是不平等的结果 | 专访谢晶]]></title>
+        <id>54be7cc1eae842632d2f85dea1389972</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E5%BF%85%E9%A1%BB%E5%81%9A%E7%82%B9%E4%BB%80%E4%B9%88%E6%89%8D%E8%83%BD%E8%AF%81%E6%98%8E%E2%80%9C%E9%85%8D%E5%BE%97%E2%80%9D%EF%BC%9F%E8%BF%99%E6%98%AF%E4%B8%8D%E5%B9%B3%E7%AD%89%E7%9A%84%E7%BB%93%E6%9E%9C%C2%A0%7C%C2%A0%E4%B8%93%E8%AE%BF%E8%B0%A2%E6%99%B6"/>
+        <updated>2026-01-15T02:15:00.000Z</updated>
+        <author>
+            <name>新京报书评周刊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[造梦之土：我们为什么爱去迪士尼？]]></title>
+        <id>9f5a327dc02035981dd159fd571407f9</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E9%80%A0%E6%A2%A6%E4%B9%8B%E5%9C%9F%EF%BC%9A%E6%88%91%E4%BB%AC%E4%B8%BA%E4%BB%80%E4%B9%88%E7%88%B1%E5%8E%BB%E8%BF%AA%E5%A3%AB%E5%B0%BC%EF%BC%9F"/>
+        <updated>2026-01-15T02:15:00.000Z</updated>
+        <author>
+            <name>新京报书评周刊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[知名作家阿迪契1岁儿子因病去世：“正经历最可怕的噩梦”]]></title>
+        <id>6dbcc8412edafe3a3f3830a6863760f8</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E7%9F%A5%E5%90%8D%E4%BD%9C%E5%AE%B6%E9%98%BF%E8%BF%AA%E5%A5%911%E5%B2%81%E5%84%BF%E5%AD%90%E5%9B%A0%E7%97%85%E5%8E%BB%E4%B8%96%EF%BC%9A%E2%80%9C%E6%AD%A3%E7%BB%8F%E5%8E%86%E6%9C%80%E5%8F%AF%E6%80%95%E7%9A%84%E5%99%A9%E6%A2%A6%E2%80%9D"/>
+        <updated>2026-01-15T02:15:00.000Z</updated>
+        <author>
+            <name>新京报书评周刊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《卡夫卡乡的爱因斯坦》：一场生动的表达实验，突破传统叙事的边界]]></title>
+        <id>fbabf2d401d4fdd10d0eb4f62bcb4881</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E3%80%8A%E5%8D%A1%E5%A4%AB%E5%8D%A1%E4%B9%A1%E7%9A%84%E7%88%B1%E5%9B%A0%E6%96%AF%E5%9D%A6%E3%80%8B%EF%BC%9A%E4%B8%80%E5%9C%BA%E7%94%9F%E5%8A%A8%E7%9A%84%E8%A1%A8%E8%BE%BE%E5%AE%9E%E9%AA%8C%EF%BC%8C%E7%AA%81%E7%A0%B4%E4%BC%A0%E7%BB%9F%E5%8F%99%E4%BA%8B%E7%9A%84%E8%BE%B9%E7%95%8C"/>
+        <updated>2026-01-15T02:15:00.000Z</updated>
+        <author>
+            <name>新京报书评周刊</name>
         </author>
     </entry>
     <entry>
@@ -545,6 +656,15 @@ But as China ramps up ambitions to become a biotechnology superpower, the disgra
 He can’t travel abroad because his passport has been seized, but he…]]></summary>
         <author>
             <name>纽约时报双语版</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[楼上楼下，左邻右舍，噪音“盲盒”又响了]]></title>
+        <id>d6699a4c3ee81e7214c5a3e5842acfe6</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E6%A5%BC%E4%B8%8A%E6%A5%BC%E4%B8%8B%EF%BC%8C%E5%B7%A6%E9%82%BB%E5%8F%B3%E8%88%8D%EF%BC%8C%E5%99%AA%E9%9F%B3%E2%80%9C%E7%9B%B2%E7%9B%92%E2%80%9D%E5%8F%88%E5%93%8D%E4%BA%86"/>
+        <updated>2026-01-14T02:06:00.000Z</updated>
+        <author>
+            <name>新京报书评周刊</name>
         </author>
     </entry>
     <entry>
@@ -6610,147 +6730,6 @@ Despite the public fascination, concerns are growing that China’s robotics ind
         <summary type="html"><![CDATA[As is often the case, there is a kernel of a shade of truth in the president’s hyperbolic talk on social media.]]></summary>
         <author>
             <name>Andrew C. McCarthy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Norman Podhoretz, R.I.P.]]></title>
-        <id>https://www.nationalreview.com/?p=1903290</id>
-        <link href="https://www.nationalreview.com/2025/12/norman-podhoretz-r-i-p/"/>
-        <updated>2025-12-17T15:04:59.000Z</updated>
-        <summary type="html"><![CDATA[He fought zealously because the stakes were high.]]></summary>
-        <author>
-            <name>The Editors</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spike Lee’s Affordability Thriller]]></title>
-        <id>https://www.nationalreview.com/?p=1902742</id>
-        <link href="https://www.nationalreview.com/2025/12/spike-lees-affordability-thriller/"/>
-        <updated>2025-12-17T11:30:35.000Z</updated>
-        <summary type="html"><![CDATA[Highest 2 Lowest remakes Kurosawa for the DNC.]]></summary>
-        <author>
-            <name>Armond White</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Arsenal of Democracy Can’t Be Backordered]]></title>
-        <id>https://www.nationalreview.com/?p=1903069</id>
-        <link href="https://www.nationalreview.com/2025/12/the-arsenal-of-democracy-cant-be-backordered/"/>
-        <updated>2025-12-17T11:30:07.000Z</updated>
-        <summary type="html"><![CDATA[We must push harder to build a capable American defense system for the 21st century.]]></summary>
-        <author>
-            <name>Michael Baumgartner</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ford Pays the Price for Electric Vehicle Investments]]></title>
-        <id>https://www.nationalreview.com/?p=1903222</id>
-        <link href="https://www.nationalreview.com/2025/12/ford-pays-the-price-for-electric-vehicle-investments/"/>
-        <updated>2025-12-17T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Government mandates and subsidies drove the automaker to bet big on electric vehicles, leaving it now with a $19.5 billion loss.]]></summary>
-        <author>
-            <name>The Editors</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[宇宙神5号发射亚马逊卫星 - December 17, 2025]]></title>
-        <id>idaily-242221</id>
-        <link href="https://m.idai.ly/se/5d1hT2"/>
-        <updated>2025-12-17T10:59:00.000Z</updated>
-        <summary type="html"><![CDATA[美国联合发射联盟「宇宙神5号」火箭搭载亚马逊公司新一批互联网卫星发射升空，卡纳维拉尔角。12月16日，「宇宙神5号」火箭成功将亚马逊「Leo」卫星星座的第7批27颗组网卫星送入近地轨道。「Leo」是亚马逊公司于2019年启动的低轨互联网卫星系统，原名「柯伊伯计划」，2025年11月更名为「Amazon Leo」，目前累计在轨卫星达到180颗。摄影师：Manuel Mazzanti]]></summary>
-        <author>
-            <name>美国 · 佛罗里达州</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[哈尔滨冰雪大世界开园 - December 17, 2025]]></title>
-        <id>idaily-242220</id>
-        <link href="https://m.idai.ly/se/fb9WGW"/>
-        <updated>2025-12-17T09:58:00.000Z</updated>
-        <summary type="html"><![CDATA[第27届哈尔滨冰雪大世界冰建工程竣工，黑龙江省。12月17日，第27届哈尔滨冰雪大世界正式向公众开放，本届园区面积扩大至120万平方米，总用冰量突破40万立方米，创下历届最大规模。园区冰雪景观以「冰天雪地，童话世界」为主题，建有以山东岱庙、福建土楼、深圳罗湖口岸、武汉黄鹤楼等建筑为原型的冰雪景观群，以及高达120米的雪花摩天轮、全长521米的超级冰滑梯等游乐项目。摄影师：iDaily Media]]></summary>
-        <author>
-            <name>中国 · 哈尔滨</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[时间、项目双维度，打造真正有用的工作笔记]]></title>
-        <id>https://sspai.com/post/103960</id>
-        <link href="https://sspai.com/post/103960"/>
-        <updated>2025-12-17T09:41:52.000Z</updated>
-        <summary type="html"><![CDATA[详实的记录可以减轻头脑的负担，过度的计划则容易带来焦虑——老板对你的计划已经够多了，自己还是尽量放过自己吧。查看全文]]></summary>
-        <author>
-            <name>清垚土土土</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[旅日大熊猫将提前归国 - December 17, 2025]]></title>
-        <id>idaily-242219</id>
-        <link href="https://m.idai.ly/se/af46OF"/>
-        <updated>2025-12-17T08:57:00.000Z</updated>
-        <summary type="html"><![CDATA[日本民众在东京上野动物园排队参观大熊猫。12月15日，日本东京都政府宣布旅日双胞胎大熊猫「蕾蕾」和「晓晓」将于2026年1月下旬正式返回中国，比原定期限提前1个月，两只大熊猫的最后展出日定为1月25日。届时日本将出现自1972年中日邦交正常化以来首次境内无大熊猫的状况。上野动物园宣布大熊猫馆从12月23日开始实行线上预约入场制，每日参观人数上限为4800人。摄影师：iDaily Media]]></summary>
-        <author>
-            <name>日本 · 东京</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本防卫开支占GDP提前达到2% - December 17, 2025]]></title>
-        <id>idaily-242216</id>
-        <link href="https://m.idai.ly/se/527iC7"/>
-        <updated>2025-12-17T08:55:00.000Z</updated>
-        <summary type="html"><![CDATA[日本国会表决通过2025财年补充预算案，东京。12月16日，日本参议院表决通过一份总额达18.3万亿日元（约合1180亿美元）的2025财年补充预算案，创2019年以来新高。这份预算案中包括追加1.7万亿日元防卫支出，这意味着日本2025年防卫开支将达到11万亿日元，提前2年实现防卫费占 GDP 比重超2%的目标。由于财政收入不足以覆盖支出，日本政府将追加发行11.6万亿日元国债以弥补资金缺口。摄影师：Kaname Yoneyama]]></summary>
-        <author>
-            <name>日本 · 东京</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[欧洲国家承诺对乌安全保障 - December 17, 2025]]></title>
-        <id>idaily-242214</id>
-        <link href="https://m.idai.ly/se/8478Sd"/>
-        <updated>2025-12-17T08:53:00.000Z</updated>
-        <summary type="html"><![CDATA[乌克兰总统 Volodymyr Zelensky 与德国总理 Friedrich Merz 举行会晤，柏林。12月15日，德国、法国、英国、意大利、西班牙、波兰、挪威等欧洲多国领导人发表联合声明，宣布欧洲将与美国共同为乌克兰提供安全保障和经济复苏援助，具体承诺包括支持乌克兰维持80万人兵力规模、建立欧洲主导的多国部队部署乌克兰境内、建立美国主导的停火监督机制、乌克兰被再次攻击时提供武力支持和援助等。俄罗斯副外交部长当天表示，俄罗斯绝不会同意北约在乌克兰部署和驻扎军队的任何行为。摄影师：Nadja Wohlleben]]></summary>
-        <author>
-            <name>德国 · 柏林</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[罗马地铁站展出古代遗址 - December 17, 2025]]></title>
-        <id>idaily-242213</id>
-        <link href="https://m.idai.ly/se/baa307"/>
-        <updated>2025-12-17T08:51:00.000Z</updated>
-        <summary type="html"><![CDATA[意大利罗马斗兽场-帝国广场地铁站，游客们参观一处施工过程中发现的古罗马建筑遗迹。12月16日，罗马市地铁站「斗兽场-帝国广场站」和「梅特罗尼亚门站」正式启用，这两座地铁站的建造历时13年，耗资6.6亿欧元，施工过程中发现多处古罗马时期遗址和各种文物，包括罗马浴池、水井、雕像和祭祀品，年代可追溯至公元前5世纪至1世纪。摄影师：Massimo Barsoum]]></summary>
-        <author>
-            <name>意大利 · 罗马</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[柏林动物园河马命名 - December 17, 2025]]></title>
-        <id>idaily-242211</id>
-        <link href="https://m.idai.ly/se/2e7TKM"/>
-        <updated>2025-12-17T08:49:00.000Z</updated>
-        <summary type="html"><![CDATA[德国柏林动物园新出生的河马幼崽与母亲一起游泳。12月16日，柏林动物园宣布为园内9月28日出生的雄性河马幼崽取名「Willi Wackelöhrchen」，德语意为「摇耳朵的威利」。这只幼年河马的体重目前已增至80公斤。河马原产于非洲撒哈拉以南的稀树草原地区，受栖息地减少等因素威胁，野外现存数量不足15万只，被列为易危物种。摄影师：Bernd von Jutrczenka]]></summary>
-        <author>
-            <name>德国 · 柏林</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[具透：微软改名部上线，Homebrew 弃用实用选项引起争议]]></title>
-        <id>https://sspai.com/prime/story/inside-release-notes-251217</id>
-        <link href="https://sspai.com/prime/story/inside-release-notes-251217"/>
-        <updated>2025-12-17T08:27:22.000Z</updated>
-        <summary type="html"><![CDATA[Windows112025-11预览更新：最擅长的只有改名了@克莱德：都说大公司最厉害的部门都是「改名部」，微软更是如此。从本月推送到稳定通道的KB5070311更新开始，Windows11系统更新的 ...查看全文
-本文为会员文章，出自《单篇文章》，订阅后可阅读全文。]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[骏马贺新岁，挑一本日历迎接腾跃的 2026 年]]></title>
-        <id>https://sspai.com/post/104604</id>
-        <link href="https://sspai.com/post/104604"/>
-        <updated>2025-12-17T07:25:34.000Z</updated>
-        <summary type="html"><![CDATA[在 2025 年最后一个月，我们也按照往年惯例，挑选了一些精美的新年日历。一起来看看这些好看好玩的日历，为 2026 年挑选第一份礼物吧。查看全文]]></summary>
-        <author>
-            <name>ElijahLee</name>
         </author>
     </entry>
 </feed>
