@@ -45,6 +45,16 @@
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
         {
+          "id": "https://www.nationalreview.com/?p=1912214",
+          "author": "John Fund",
+          "description": "Glenn Youngkin’s single term was easily one of the most successful of any governor in recent memory.",
+          "link": "https://www.nationalreview.com/2026/01/youngkins-common-sense-legacy-in-virginia/",
+          "publishedOn": "2026-01-20T00:36:07.000Z",
+          "wordCount": 6269,
+          "title": "Youngkin’s ‘Common Sense’ Legacy in Virginia",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/01/glenn-youngkin-virginia.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
           "id": "https://www.nationalreview.com/?p=1911967",
           "author": "Scott Turner",
           "description": "HUD has proposed a rule to end the agency’s use of this pernicious legal doctrine.",
@@ -1683,56 +1693,6 @@
           "wordCount": 6714,
           "title": "The Productive Path to Affordability",
           "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2025/12/home-construction-california.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1904602",
-          "author": "Becket Adams",
-          "description": "What else are we to infer from the Vanity Fair episode?",
-          "link": "https://www.nationalreview.com/2025/12/republicans-still-crave-the-mainstream-medias-affection/",
-          "publishedOn": "2025-12-21T11:30:58.000Z",
-          "wordCount": 16029,
-          "title": "Republicans Still Crave the Mainstream Media’s Affection",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2025/12/Susie-Wiles-2.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1903002",
-          "author": "Andrea Picciotti-Bayer",
-          "description": "Faith is not an intruder in public life; it’s a part of our civic DNA.",
-          "link": "https://www.nationalreview.com/2025/12/what-the-founders-understood-about-faith-and-freedom/",
-          "publishedOn": "2025-12-21T11:30:32.000Z",
-          "wordCount": 7529,
-          "title": "What the Founders Understood About Faith and Freedom",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2025/12/moses-ten-commandments.jpg?fit=2036%2C1178&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1904542",
-          "author": "Cory Miller",
-          "description": "The CDC’s plan to end primate research will weaken our biomedical capabilities just as our global competitors are shoring up theirs.",
-          "link": "https://www.nationalreview.com/2025/12/americas-risky-retreat-in-biomedical-leadership/",
-          "publishedOn": "2025-12-21T11:30:18.000Z",
-          "wordCount": 7765,
-          "title": "America’s Risky Retreat in Biomedical Leadership",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2025/12/rfk-jr-1.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1904640",
-          "author": "John Gerardi",
-          "description": "Donald Trump’s political advisers don’t want to talk about abortion, but pro-lifers need to speak up.",
-          "link": "https://www.nationalreview.com/2025/12/the-rights-simmering-tensions-over-abortion/",
-          "publishedOn": "2025-12-21T11:30:17.000Z",
-          "wordCount": 18419,
-          "title": "The Right’s Simmering Tensions over Abortion",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2025/12/Marty-Makary-fda.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1903301",
-          "author": "Sarah Schutte",
-          "description": "The oft-overlooked Marmee steadies and guides.",
-          "link": "https://www.nationalreview.com/2025/12/little-womens-unsung-heroine/",
-          "publishedOn": "2025-12-21T11:30:13.000Z",
-          "wordCount": 7701,
-          "title": "<i>Little Women</i>’s Unsung Heroine",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2025/12/little-women-1.jpg?fit=2057%2C1200&ssl=1"
         }
       ]
     },
@@ -1741,6 +1701,26 @@
       "feedUrl": "https://sspai.com/feed",
       "siteUrl": "https://sspai.com",
       "articles": [
+        {
+          "id": "https://sspai.com/post/93614",
+          "author": "烟酸Niacin",
+          "description": "你必须要知道的秋衣外穿和 ECWCS 穿衣系统的细节。查看全文",
+          "link": "https://sspai.com/post/93614",
+          "publishedOn": "2026-01-20T03:06:39.000Z",
+          "wordCount": 358,
+          "title": "冬天也不用裹成球，这是你需要了解的冬季穿衣指南",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sspai.com/post/105600",
+          "author": "少数派编辑部",
+          "description": "安克与飞书联合推出安克 AI 录音豆，小红书上线社区公约 2.0 等。查看全文",
+          "link": "https://sspai.com/post/105600",
+          "publishedOn": "2026-01-20T00:25:17.000Z",
+          "wordCount": 477,
+          "title": "派早报：荣耀发布 Magic8 Pro Air 等",
+          "imageUrl": null
+        },
         {
           "id": "https://sspai.com/post/105585",
           "author": "少数派编辑部",
@@ -5807,90 +5787,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://pic.yupoo.com/fotomag/a0e7e54c/4cad136d.jpg"
-        },
-        {
-          "id": "idaily-242415",
-          "author": "中国 · 文昌",
-          "description": "中国长征五号运载火箭搭载「通信技术试验卫星二十三号」发射升空，海南文昌航天发射场。12月20日，长征五号火箭成功将中国航天科技集团五院研制的「通信技术试验卫星二十三号」送入预定轨道，该卫星主要用于开展多频段、高速率卫星通信技术验证。这是长征系列火箭本月执行的第7次发射任务，2025年迄今累计完成的第64次发射，大幅超出2024年全年49次发射纪录。摄影师：iDaily Media",
-          "link": "https://m.idai.ly/se/486CAj",
-          "publishedOn": "2025-12-21T11:32:00.000Z",
-          "wordCount": 259,
-          "title": "长征火箭年度第64次发射 - December 21, 2025",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/d23676c8/dfa877b1.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/d23676c8/dfa877b1.jpg"
-        },
-        {
-          "id": "idaily-242414",
-          "author": "美国 · 华盛顿特区",
-          "description": "美国总统 Donald Trump 展示一张「特朗普金卡」（Trump Gold Card），华盛顿白宫。12月19日，美国总统 Trump 宣布金卡签证计划自12月10日正式推出以来申请费收入已超过13亿美元，他表示金卡签证收入将全部进入美国国库用于偿还政府债务。美国政府目前已开放2种金卡签证方案，一种面向个人购买价格为100万美元；另一种面向企业购买，价格为每名员工200万美元，并允许付费更换使用人。摄影师：Will Oliver",
-          "link": "https://m.idai.ly/se/f46O3u",
-          "publishedOn": "2025-12-21T10:59:00.000Z",
-          "wordCount": 259,
-          "title": "特朗普宣布金卡收入13亿美元 - December 21, 2025",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/476e22cc/f1940e94.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/476e22cc/f1940e94.jpg"
-        },
-        {
-          "id": "idaily-242413",
-          "author": "德国 · 柏林",
-          "description": "特斯拉公司人形机器人「擎天柱」（Optimus）正在柏林圣诞集市上派发爆米花，德国。12月20日，特斯拉公司在柏林一个圣诞集市上首次向德国公众展示人形机器人「擎天柱」，这台机器人负责将圣诞礼品和爆米花装在纸盒里，然后派发给顾客并问候致意。特斯拉计划在2026年底至2027年初开始正式销售「擎天柱」机器人，预计定价为每台2万至2.5万美元。特斯拉财报显示2025年第三季度公司净利润为13.7亿美元，同比下降-37%，主要受到人工智能等研发支出增加以及美国政府关税带来的负面因素影响。摄影师：Christoph Soeder",
-          "link": "https://m.idai.ly/se/c39G6J",
-          "publishedOn": "2025-12-21T10:57:00.000Z",
-          "wordCount": 259,
-          "title": "特斯拉人形机器人亮相柏林 - December 21, 2025",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/e4e0aea2/884d5500.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/e4e0aea2/884d5500.jpg"
-        },
-        {
-          "id": "idaily-242412",
-          "author": "美国 · 华盛顿特区",
-          "description": "美国新任国家航空航天局局长 Jared Isaacman 宣誓就职，华盛顿特区。12月18日，美国亿万富豪、商业宇航员 Jared Isaacman 正式就任第15任美国航天局局长，成为该机构史上最年轻的局长。现年43岁的 Isaacman 出生于新泽西州一个犹太家庭，拥有企业家、飞行员和私人宇航员多重身份，个人净资产估计达到12亿美元，他曾赞助指挥过2次商业太空飞行计划并实现人类首次商业太空行走，是美国亿万富豪 Elon Musk 的私人密友。Isaacman 在就职当天接受采访时表示，NASA 将在未来三年内将美国宇航员再次送上月球，并在月球建立长期驻留的基础设施。摄影师：Bill Ingalls",
-          "link": "https://m.idai.ly/se/dfbr3b",
-          "publishedOn": "2025-12-21T10:55:00.000Z",
-          "wordCount": 260,
-          "title": "NASA 新任局长宣誓就职 - December 21, 2025",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/a5643225/b0dd5556.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/a5643225/b0dd5556.jpg"
-        },
-        {
-          "id": "idaily-242411",
-          "author": "利比亚 · 的黎波里",
-          "description": "利比亚民众参观重新开放的国家博物馆，的黎波里。12月12日，利比亚国家博物馆自2011年卡扎菲政府被推翻以来首次恢复开放，目前仅面向学校团体参观，预计2026年初正式向所有公众开放。利比亚国家博物馆又称红堡博物馆，是利比亚最大的博物馆，始建于1980年代，主要收藏展出利比亚史前时期至古希腊、古罗马及伊斯兰时期的文物，包括雕塑、壁画、马赛克镶嵌画、钱币和工艺品等，文物年代跨度达5000年。摄影师：iDaily Media",
-          "link": "https://m.idai.ly/se/81cy19",
-          "publishedOn": "2025-12-21T10:53:00.000Z",
-          "wordCount": 259,
-          "title": "利比亚国家博物馆恢复开放 - December 21, 2025",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/eb8d9971/c9796090.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/eb8d9971/c9796090.jpg"
-        },
-        {
-          "id": "idaily-242410",
-          "author": "印度 · 阿萨姆邦",
-          "description": "一只印度野生大象被火车撞击而死，阿萨姆邦。12月20日凌晨，印度阿萨姆邦一列载有650名乘客的客运火车与野生象群发生相撞事故，造成7只大象当场死亡，1只大象受伤，列车乘客无人员伤亡。印度铁路公司通报称，事故发生时约有100只野生大象组成的象群正在穿越铁轨，司机立即采取紧急制动仍未能阻止事故发生。这是印度2025年发生的第4起列车撞死野象事故。摄影师：Biju Boro",
-          "link": "https://m.idai.ly/se/7ddvSq",
-          "publishedOn": "2025-12-21T10:51:00.000Z",
-          "wordCount": 259,
-          "title": "印度火车撞击象群事故 - December 21, 2025",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/84f46477/f8b3f3c5.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/84f46477/f8b3f3c5.jpg"
         }
       ]
     },
@@ -5899,6 +5795,26 @@
       "feedUrl": "https://plink.anyfeeder.com/nytimes/dual",
       "siteUrl": "http://nytimes.com",
       "articles": [
+        {
+          "id": "https://cn.nytimes.com/world/20260120/trump-greenland-europe-nato-alliance/dual",
+          "author": null,
+          "description": "MICHAEL D. SHEAR2026年1月20日特朗普总统去年8月在白宫与欧洲领导人会晤。周六，特朗普表示除非欧洲国家允许他收购格陵兰岛，否则将对多个欧洲国家提高关税。 Doug Mills/The New York Times\nWhat happens to an 80-year-old diplomatic alliance when its leading power threatens a military invasion of one member, wages economic war on the others and vows to cultivate political and cultural resistance to their governments?\n在一个延续80年的外交同盟中，当主导国威胁军事入侵其中一员、对其他成员国发动经济战，还扬言培植反对这些国家政府的政治与文化势力，这个联盟会面临怎样的命运？\nIs the alliance doomed?\n这个外交同盟注定会走向覆灭吗？\nThat question is being asked in capitals across Europe as leaders rush to respond to President Trump’s rapidly escalating campaign to acquire Greenland over the objections of the people who live there. At issue most urgently is whether resisting Mr. Trump’s territorial ambitions risks damaging Europe’s relationship with the United St…",
+          "link": "https://cn.nytimes.com/world/20260120/trump-greenland-europe-nato-alliance/dual",
+          "publishedOn": "2026-01-20T03:36:02.000Z",
+          "wordCount": 1244,
+          "title": "威胁吞并格陵兰岛，特朗普将美欧同盟推向悬崖边缘",
+          "imageUrl": "https://static01.nyt.com/images/2026/01/19/multimedia/19int-europe-alliance01-photo-jbtp/19int-europe-alliance01-photo-jbtp-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/china/20260120/china-ships-fishing-militia-blockade/dual",
+          "author": null,
+          "description": "储百亮, AGNES CHANG, AMY CHANG CHIEN2026年1月20日1月11日的船只编队。注：船只位置为当地时间1月11日下午2时的最后已知位置。 \n China quietly mobilized thousands of fishing boats twice in recent weeks to form massive floating barriers of at least 200 miles long, showing a new level of coordination that could give Beijing more ways to impose control in contested seas.\n中国在最近几周内两次悄然调动数千艘渔船，组成至少320公里长的巨型漂浮屏障，显示出一种前所未有的协同水平，这可能为北京在争议海域施加控制提供更多手段。\nThe two recent operations unfolded largely unnoticed. An analysis of ship-tracking data by The New York Times reveals the scale and complexity of the maneuvers for the first time.\n这两次行动在实施过程中几乎未引起注意。《纽约时报》通过对船舶追踪数据的分析首次揭示了这些行动的规模与复杂程度。\nLast week, about 1,400 Chinese vessels abruptly dropped their usual fishing activities or sailed out of their home ports and congregated in the East China Sea. B…",
+          "link": "https://cn.nytimes.com/china/20260120/china-ships-fishing-militia-blockade/dual",
+          "publishedOn": "2026-01-20T03:06:01.000Z",
+          "wordCount": 1459,
+          "title": "中国加强海上民兵力量，悄然调动数千艘渔船形成漂浮屏障",
+          "imageUrl": "https://static01.nyt.com/images/2026/01/19/multimedia/c20china-ships-fishing-01/c20china-ships-fishing-articleLarge.png"
+        },
         {
           "id": "https://cn.nytimes.com/china/20260119/china-population-data/dual",
           "author": null,
@@ -6666,6 +6582,56 @@
       "feedUrl": "https://plink.anyfeeder.com/weixin/ibookreview",
       "siteUrl": "http://weixin.sogou.com/weixin?type=1&s_from=input&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A",
       "articles": [
+        {
+          "id": "99105c87e96cf0b578ec493a0d10f777",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E9%80%A0%E9%B8%A2%EF%BC%8C%E9%80%A0%E4%BA%BA%EF%BC%8C%E9%80%A0%E6%B5%81%E9%A9%AC%EF%BC%9A%E4%BD%9C%E4%B8%BA%E6%80%9D%E6%83%B3%E2%80%9C%E6%A5%94%E5%AD%90%E2%80%9D%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%8F%A4%E4%BB%A3%E8%87%AA%E5%8A%A8%E6%9C%BA",
+          "publishedOn": "2026-01-19T02:24:00.000Z",
+          "wordCount": 291,
+          "title": "造鸢，造人，造流马：作为思想“楔子”的中国古代自动机",
+          "imageUrl": null
+        },
+        {
+          "id": "001049c13438f27c8f8c2b11167cf89d",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E9%99%88%E9%BC%93%E5%BA%94%EF%BC%9A%E4%B8%AD%E5%9B%BD%E2%80%9C%E6%A2%A6%E6%96%87%E5%8C%96%E2%80%9D%E4%B8%8E%E5%BA%B7%E5%84%92%E5%8D%9A%E7%9A%84%E6%A2%A6%E5%A2%83%E7%A0%94%E7%A9%B6",
+          "publishedOn": "2026-01-19T02:24:00.000Z",
+          "wordCount": 262,
+          "title": "陈鼓应：中国“梦文化”与康儒博的梦境研究",
+          "imageUrl": null
+        },
+        {
+          "id": "a706882026e3e68622007da9e7dd08da",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E4%B8%BA%E4%BA%86%E8%AE%A9%E6%AC%A7%E6%B4%B2%E4%BA%BA%E7%90%86%E8%A7%A3%E4%B8%AD%E5%9B%BD%EF%BC%8C%E6%98%8E%E6%B8%85%E4%BC%A0%E6%95%99%E5%A3%AB%E7%BC%96%E9%80%A0%E4%BA%86%E5%A4%9A%E5%B0%91%E2%80%9C%E4%BC%AA%E5%8F%B2%E2%80%9D%EF%BC%9F",
+          "publishedOn": "2026-01-19T02:24:00.000Z",
+          "wordCount": 305,
+          "title": "为了让欧洲人理解中国，明清传教士编造了多少“伪史”？",
+          "imageUrl": null
+        },
+        {
+          "id": "c196f07f67463fa85dc62cc73c9bc498",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E4%BB%96%E6%98%AF%E5%8F%B2%E4%B9%A6%E4%B8%8A%E8%B4%AA%E5%9B%BE%E5%A5%BD%E8%89%B2%E7%9A%84%E4%BA%AB%E4%B9%90%E8%80%85%EF%BC%8C%E4%B9%9F%E6%98%AF%E6%98%8E%E6%9C%9D%E4%B8%AD%E5%85%B4%E7%9A%84%E5%85%B3%E9%94%AE%E8%A7%92%E8%89%B2",
+          "publishedOn": "2026-01-18T01:48:00.000Z",
+          "wordCount": 294,
+          "title": "他是史书上贪图好色的享乐者，也是明朝中兴的关键角色",
+          "imageUrl": null
+        },
+        {
+          "id": "5766db61113702e5bd041b34cf00a22a",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E5%B1%A0%E6%A0%BC%E6%B6%85%E5%A4%AB%EF%BC%9A%E5%9C%A8%E5%93%88%E5%A7%86%E9%9B%B7%E7%89%B9%E5%92%8C%E5%A0%82%E5%90%89%E8%AF%83%E5%BE%B7%E4%B9%8B%E9%97%B4",
+          "publishedOn": "2026-01-18T01:48:00.000Z",
+          "wordCount": 270,
+          "title": "屠格涅夫：在哈姆雷特和堂吉诃德之间",
+          "imageUrl": null
+        },
         {
           "id": "6ad647307b54cd372a1b5b37ae2d48a9",
           "author": null,
