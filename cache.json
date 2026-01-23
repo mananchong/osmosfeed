@@ -45,6 +45,16 @@
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
         {
+          "id": "https://www.nationalreview.com/?p=1913448",
+          "author": "Caroline Downey",
+          "description": "Having helicopter parents is hardly a situation worth blowing up your family over.",
+          "link": "https://www.nationalreview.com/2026/01/brooklyn-beckhams-tawdry-tantrum/",
+          "publishedOn": "2026-01-22T21:06:29.000Z",
+          "wordCount": 6349,
+          "title": "Brooklyn Beckham’s Tawdry Tantrum",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/01/brooklyn-beckam-nicola-peltz-2.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
           "id": "https://www.nationalreview.com/?p=1913158",
           "author": "Andrew C. McCarthy",
           "description": "What goes around comes around.",
@@ -1723,56 +1733,6 @@
           "wordCount": 5827,
           "title": "O Holy Night",
           "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2021/12/adoration-of-the-shepherd-honthorst.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1903451",
-          "author": "Armond White",
-          "description": "Craig Brewer celebrates Neil Diamond’s ecumenical working-class pop.",
-          "link": "https://www.nationalreview.com/2025/12/the-miraculous-song-sung-blue/",
-          "publishedOn": "2025-12-24T11:30:31.000Z",
-          "wordCount": 6883,
-          "title": "The Miraculous <i>Song Sung Blue</i>",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2025/12/song-sung-blue.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1905702",
-          "author": "Bobby Mukkamala",
-          "description": "When vaccine guidance shifts without evidence, confusion rises — and more children are put at risk.",
-          "link": "https://www.nationalreview.com/2025/12/the-cdcs-hepatitis-b-vaccine-decision-is-wrongheaded-and-illogical/",
-          "publishedOn": "2025-12-24T11:30:17.000Z",
-          "wordCount": 6335,
-          "title": "The CDC’s Hepatitis B Vaccine Decision Is Wrongheaded and Illogical",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2018/11/cdc-sign-atlanta.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1905860",
-          "author": "The Editors",
-          "description": "It is a relief to hear a president give more than lip service to what has become a crisis for our ability to project power.",
-          "link": "https://www.nationalreview.com/2025/12/president-trumps-golden-fleet-is-a-step-in-the-right-direction/",
-          "publishedOn": "2025-12-24T11:30:08.000Z",
-          "wordCount": 6888,
-          "title": "President Trump’s ‘Golden Fleet,’ a Welcome Change",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2025/12/trump-navy-golden-gleet.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1905707",
-          "author": "Michael Brendan Dougherty",
-          "description": "For most of us, the resolutions we need to make to bounce back from a difficult year don’t have to be hyperspecific.",
-          "link": "https://www.nationalreview.com/2025/12/resolutions-for-overcoming-a-bad-year/",
-          "publishedOn": "2025-12-24T11:30:06.000Z",
-          "wordCount": 7052,
-          "title": "Resolutions for Overcoming a Bad Year",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2025/12/2026-sign-times-square.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1905219",
-          "author": "Rolando Pujol",
-          "description": "Sixty Christmases ago, the icon made its television debut — and it’s still a backdrop to our holidays.",
-          "link": "https://www.nationalreview.com/2025/12/why-we-still-love-the-yule-log/",
-          "publishedOn": "2025-12-24T11:30:04.000Z",
-          "wordCount": 7304,
-          "title": "Why We Still Love the Yule Log",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2025/12/fireplace-2.jpg?fit=2057%2C1200&ssl=1"
         }
       ]
     },
@@ -1781,6 +1741,26 @@
       "feedUrl": "https://sspai.com/feed",
       "siteUrl": "https://sspai.com",
       "articles": [
+        {
+          "id": "https://sspai.com/post/105578",
+          "author": "SamWanng",
+          "description": "不能用 Wi-Fi 和 U 盘恢复系统的 Mac，你还能试试这个重装方法。查看全文",
+          "link": "https://sspai.com/post/105578",
+          "publishedOn": "2026-01-23T03:30:01.000Z",
+          "wordCount": 304,
+          "title": "一日一技 | 老 Mac 系统恢复指北",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sspai.com/post/105695",
+          "author": "少数派编辑部",
+          "description": "索尼发布 LinkBuds Clip 开放式耳机、Adobe 将支持把 PDF 转换成播客等。查看全文",
+          "link": "https://sspai.com/post/105695",
+          "publishedOn": "2026-01-23T00:46:18.000Z",
+          "wordCount": 547,
+          "title": "派早报：realme 真我发布新品、Xbox 应用登陆 Arm PC 等",
+          "imageUrl": null
+        },
         {
           "id": "https://sspai.com/post/105568",
           "author": "鸿苓",
@@ -2699,36 +2679,6 @@
           "publishedOn": "2025-12-25T00:22:16.000Z",
           "wordCount": 402,
           "title": "派早报：微信公众号上线「付费加热」功能等",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sspai.com/post/104769",
-          "author": "无限回响",
-          "description": "Google 的 Antigravity 好用吗？查看全文",
-          "link": "https://sspai.com/post/104769",
-          "publishedOn": "2025-12-24T09:27:16.000Z",
-          "wordCount": 790,
-          "title": "号称「反重力」的谷歌 AI 编辑器，能原地起飞吗？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sspai.com/post/85156",
-          "author": "少数派编辑部",
-          "description": "🎄MerryChristmas!随着商业街和社交平台的圣诞气氛越来越浓，虽然像家居博主一样把房间里布置成圣诞风格没那么容易，但在周末的晚上看一部与圣诞节有关的电影，无论是圣诞爱情小故事《真爱至上》，还 ...查看全文",
-          "link": "https://sspai.com/post/85156",
-          "publishedOn": "2025-12-24T07:17:05.000Z",
-          "wordCount": 372,
-          "title": "敲响圣诞「叮叮当」，让这 9 部圣诞影片陪你迎接新年",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sspai.com/post/104517",
-          "author": "福利派",
-          "description": "从2021年推出至今，少数派会员服务已走过第5个年头。作为一个在内容变现领域持续探索的项目，目前的会员服务已累计超过10000人次订阅，产出了数百篇深度文章，并推出了众多定制周边。从绝对数字来看，这个 ...查看全文",
-          "link": "https://sspai.com/post/104517",
-          "publishedOn": "2025-12-24T07:06:34.000Z",
-          "wordCount": 309,
-          "title": "关于价值的计算：少数派会员五周年的回顾与展望",
           "imageUrl": null
         }
       ]
@@ -5985,76 +5935,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://pic.yupoo.com/fotomag/9b202e8e/ec06b8b0.jpg"
-        },
-        {
-          "id": "idaily-242629",
-          "author": "巴西 · 马拉尼昂州",
-          "description": "韩国首枚商业运载火箭「韩光-Nano」（Hanbit-Nano）从巴西阿尔坎塔拉航天中心发射升空。12月22日，韩国太空初创公司 Innospace 自主研发的「韩光-Nano」号运载火箭执行首次发射任务，火箭升空约30秒后异常起火，随后在安全区域内坠毁，发射任务宣告失败。本次坠毁的火箭共搭载5颗小型卫星和3颗技术试验卫星。「韩光-Nano」号火箭总长21.8米，直径1.4米，重约18.8吨，太阳同步轨道运载能力为90公斤，主要用于小型卫星定制发射任务。摄影师：Innospace",
-          "link": "https://m.idai.ly/se/9d8gD4",
-          "publishedOn": "2025-12-24T09:49:00.000Z",
-          "wordCount": 255,
-          "title": "韩国首枚商业火箭发射失败 - December 24, 2025",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/f758a512/5ecf9170.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/f758a512/5ecf9170.jpg"
-        },
-        {
-          "id": "idaily-242628",
-          "author": "美国 · 纽约",
-          "description": "委内瑞拉常驻联合国代表 Samuel Moncada 在安理会紧急会议上发言，美国纽约。12月23日，联合国安理会就委内瑞拉局势召开紧急会议，委内瑞拉代表在会上谴责美国觊觎委内瑞拉领土、石油及矿产资源，非法动用国家武力在公海实施盗窃和谋杀行为，公然践踏国际法与人权，要求联合国安理会明确谴责和阻止美国的海盗行为。美国驻联合国代表宣称，美方是在国际水域执行对毒贩的制裁，将动用全部力量打击并铲除毒枭集团。俄罗斯驻联合国代表表示，美国正在以反恐之名公然侵略和干涉主权国家。中国驻联合国代表表示，美方行径严重侵犯他国主权安全和合法权益，违反《联合国宪章》和国际法。联合国秘书长呼吁各方保持克制并缓和紧张局势。摄影师：Spencer Platt",
-          "link": "https://m.idai.ly/se/a9egZ0",
-          "publishedOn": "2025-12-24T08:58:00.000Z",
-          "wordCount": 255,
-          "title": "安理会委内瑞拉局势会议 - December 24, 2025",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/60514f38/29531734.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/60514f38/29531734.jpg"
-        },
-        {
-          "id": "idaily-242626",
-          "author": "土耳其 · 伊斯坦布尔",
-          "description": "土耳其伊斯坦布尔，一家金店橱窗中展示黄金制品。12月24日，国际现货黄金价格史上首次突破4500美元关口，触及4524美元/盎司历史高位，年内累计涨幅达72%，当天现货白银价格史上首次突破70美元/盎司，年内累计涨幅近150%。本轮国际金价上涨主要受委内瑞拉局势紧张以及美联储降息预期升温等因素影响。世界黄金协会数据显示2025年11月全球实物黄金ETF连续6个月实现流入，流入规模达52亿美元，全年流入总量有望创历史纪录。摄影师：Kerem Uzel",
-          "link": "https://m.idai.ly/se/0b4Ye1",
-          "publishedOn": "2025-12-24T07:57:00.000Z",
-          "wordCount": 255,
-          "title": "国际金价突破4500美元 - December 24, 2025",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/62b35dd3/c19d0f0e.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/62b35dd3/c19d0f0e.jpg"
-        },
-        {
-          "id": "idaily-242625",
-          "author": "埃及 · 吉萨",
-          "description": "大埃及博物馆公开展示胡夫船的修复组装过程，吉萨。12月23日，大埃及博物馆启动胡夫船二号船拼装工作，计划耗时4年完成，整个过程向公众开放参观。胡夫船一号船与二号船于1954年在吉萨胡夫金字塔南侧被发现，年代可追溯至公元前2500年，推测为运送法老木乃伊的陪葬船。这两艘船以雪松木制成，长度约45米，采用无钉榫卯结构组装，木板间以草绳捆扎固定，是迄今发现最古老的木板船之一。摄影师：Mohamed Hossam",
-          "link": "https://m.idai.ly/se/d8eH1x",
-          "publishedOn": "2025-12-24T07:55:00.000Z",
-          "wordCount": 255,
-          "title": "埃及胡夫太阳船公开修复 - December 24, 2025",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/0853bef2/cac92055.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/0853bef2/cac92055.jpg"
-        },
-        {
-          "id": "idaily-242624",
-          "author": "朝鲜 · 三池渊",
-          "description": "俯瞰朝鲜三池渊旅游景区一座新建成的酒店。12月20日，朝鲜最高领导人金正恩出席三池渊旅游景区宜家酒店和密营酒店的竣工仪式，现场视察酒店客房、餐厅、游泳池等设施。金正恩称赞新酒店在实用性、多样性和艺术性上均体现出高水平，强调「发展旅游业的关键在于服务质量」，并要求酒店致力于提升服务能力和工作人员的专业素质。韩国统计厅估计2024年朝鲜 GDP 增速达3.7%，连续第二年维持在3%以上水平，主要得益于国家重点政策项目推进以及朝俄经济合作扩大；人均国民总收入为171.9万韩元（约合1200美元）。摄影师：KCNA",
-          "link": "https://m.idai.ly/se/3ba52z",
-          "publishedOn": "2025-12-24T07:53:00.000Z",
-          "wordCount": 255,
-          "title": "金正恩携女儿视察度假区 - December 24, 2025",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/e7628972/ef707593.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/e7628972/ef707593.jpg"
         }
       ]
     },
@@ -6063,6 +5943,36 @@
       "feedUrl": "https://plink.anyfeeder.com/nytimes/dual",
       "siteUrl": "http://nytimes.com",
       "articles": [
+        {
+          "id": "https://cn.nytimes.com/technology/20260123/tiktok-deal-oracle-bytedance-china-us/dual",
+          "author": null,
+          "description": "DAVID McCABE, EMMETT LINDNER2026年1月23日 Timo Lenzen\nTikTok said on Thursday that its Chinese owner, ByteDance, had struck a deal with a group of non-Chinese investors to create a new U.S. TikTok, concluding a six-year legal saga that saw the app banned by Congress, ensnared in politicking between global superpowers and forced into a 14-hour blackout in the United States.\nTikTok周四表示，其中国母公司字节跳动已与一群非中国投资者达成协议，创建一个新的美国TikTok，从而结束一场长达六年的法律风波。该应用曾被国会禁止，在全球超级大国间的政治博弈中陷入困境，并在美国被迫经历持续14小时的下线。\nInvestors including the software giant Oracle; MGX, an Emirati investment firm; and Silver Lake, another investment firm will own more than 80 percent of the new venture. That list also includes the personal investment entity for Michael Dell, the tech billionaire behind Dell Technologies, and other firms, TikT…",
+          "link": "https://cn.nytimes.com/technology/20260123/tiktok-deal-oracle-bytedance-china-us/dual",
+          "publishedOn": "2026-01-23T06:06:02.000Z",
+          "wordCount": 1453,
+          "title": "TikTok美国方案落地，结束长达六年法律风波",
+          "imageUrl": "https://static01.nyt.com/images/2026/01/23/business/00tiktok/00tiktok-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/world/20260123/trump-greenland-foreign-policy/dual",
+          "author": null,
+          "description": "ZOLAN KANNO-YOUNGS2026年1月23日特朗普总统周三在瑞士达沃斯世界经济论坛与商业领袖们的招待会上。 Doug Mills/The New York Times\nFor days, President Trump insisted that he would accept nothing less than full ownership of Greenland. He dismissed concerns that his demands were risking the disintegration of the primary Western military alliance, deriding it as impotent anyway without the United States. And he threatened economic war on anyone who tried to stop him.\n几日来，特朗普总统一直坚称，完全拥有格陵兰是最起码的条件。人们担心这一主张可能导致西方主要军事联盟的解体，对此他表达了不屑，嘲笑这个联盟如果没有美国本来也就是个空架子。他还威胁对任何试图阻止他的人发动经济战。\nThen he took it all back.\n然后他就收回了所有这些言论。\nOn Wednesday, Mr. Trump’s dizzying approach to foreign policy was on full display in the thin air of the Swiss Alps. Just hours after using a keynote speech in Davos, Switzerland, to insult European leaders and demand control …",
+          "link": "https://cn.nytimes.com/world/20260123/trump-greenland-foreign-policy/dual",
+          "publishedOn": "2026-01-23T04:06:02.000Z",
+          "wordCount": 1365,
+          "title": "反复无常、有恃无恐：特朗普的达沃斯外交风暴",
+          "imageUrl": "https://static01.nyt.com/images/2026/01/22/multimedia/22int-davos-trump-wrapup01-photo-jmqh/22int-davos-trump-wrapup01-photo-jmqh-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/opinion/20260123/trump-europe-greenland/dual",
+          "author": null,
+          "description": "纪思道2026年1月23日 Sean Gallup/Getty Images\nPresident Trump pounces on weakness, but retreats from strength. That’s one reason for Europe’s present troubles: For too long it was weak both toward President Vladimir Putin of Russia in the East and toward the new menace arising in the West.\n特朗普总统见到弱者会痛打，面对强者则退缩。这正是欧洲当前困境的一个原因：长期以来，它在东方对俄罗斯总统普京表现出软弱，在西方对新生的威胁也同样软弱。\nThat’s certainly Trump’s perception. “I think they’re weak,” Trump said last month of European leaders, and he had a point. They fawned over him and meekly surrendered as he steamrolled them with tariffs.\n这当然是特朗普的认知。上个月他在谈到欧洲领导人时说：“我觉得他们很弱。”他说的有道理。他们对他阿谀奉承，在他用关税碾压他们时乖乖就范。\nTrump was preying upon that weakness as he threatened to seize Greenland and effectively destroy NATO, while warning of a new trade war if Europe resisted. In Davos on …",
+          "link": "https://cn.nytimes.com/opinion/20260123/trump-europe-greenland/dual",
+          "publishedOn": "2026-01-23T02:06:01.000Z",
+          "wordCount": 1408,
+          "title": "特朗普让世界认识到来自美国的威胁",
+          "imageUrl": "https://static01.nyt.com/images/2026/01/22/multimedia/21kristof-zckb/21kristof-zckb-articleLarge-v2.jpg"
+        },
         {
           "id": "https://cn.nytimes.com/world/20260122/davos-trump-speech-greenland-deal/dual",
           "author": null,
@@ -6822,16 +6732,6 @@
           "wordCount": 1236,
           "title": "五角大楼称中国正寻求缩短核反击响应时间",
           "imageUrl": "https://static01.nyt.com/images/2025/12/24/multimedia/24int-china-military-01-qfzk/24int-china-military-01-qfzk-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/business/20251224/pentagon-weapons-ai-artificial-intelligence-china-batteries/dual",
-          "author": null,
-          "description": "HIROKO TABUCHI, BRAD PLUMER, HARRY STEVENS2025年12月24日位于弗吉尼亚州阿什本的数据中心。巨型电池对于保护敏感的人工智能计算机软件至关重要。 Andrew Caballero-Reynolds/Agence France-Presse — Getty Images\nIn Northern Virginia’s Data Center Alley, windowless buildings the size of aircraft hangars are powering America’s artificial intelligence industry, which is locked in a race against China.\n在北弗吉尼亚的“数据中心走廊”，一座座没有窗户、大小如飞机库般的建筑正为美国的人工智能产业提供动力，后者正与中国展开竞赛。\nYet, these data centers are increasingly reliant on China, America’s geopolitical rival, for a vital technology: batteries.\n然而，这些数据中心日益依赖美国的地缘政治对手中国提供一项关键技术：电池。\nThese facilities can use as much electricity as a small city, straining local power grids. Even flickers can have cascading effects, corrupting sensitive A.I. computer coding.\n这些设施的耗电量堪比一座小型城市，给当地电网带来巨大压力。即使是瞬时电压波动也可能引发连锁反应，损坏敏感的人…",
-          "link": "https://cn.nytimes.com/business/20251224/pentagon-weapons-ai-artificial-intelligence-china-batteries/dual",
-          "publishedOn": "2025-12-24T09:06:02.000Z",
-          "wordCount": null,
-          "title": "五角大楼和AI巨头的共同弱点：高度依赖中国电池",
-          "imageUrl": null
         }
       ]
     },
