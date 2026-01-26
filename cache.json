@@ -6,6 +6,16 @@
       "siteUrl": "https://rweekly.org/atom.xml",
       "articles": [
         {
+          "id": "https://rweekly.org/2026-W05.html",
+          "author": null,
+          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Jonathan Kitt, with help from the R Weekly team members and contributors.\nHighlight\nLLMs interpret plots well, until expectations interfere\nStudents, software, and soil flux\nfuturize: Parallelize Common Functions via a “Magic” Touch\nInsights\nWhere Questions Become Queries: Meet querychat\nLLMs interpret plots well, until expectations interfere\nAnnouncing {typeR}: simulate live typing of R scripts\nfuturize: Parallelize Common Functions via a “Magic” Touch\n{width=”100%”}\nR in the Real World\nStudents, software, and soil flux\nnycOpenData: A Curated Interface for NYC Open Data\nTutorials\nBuilding an R Weekly Highlights Podcast Asisstant with Shiny\nUsing {ellmer} for Dynamic Alt Tex…",
+          "link": "https://rweekly.org/2026-W05.html",
+          "publishedOn": "2026-01-26T00:00:00.000Z",
+          "wordCount": 5772,
+          "title": "R Weekly 2026-W05 LLMs & plots, soil flux, futurize",
+          "imageUrl": "https://rweekly.org/public/facebook.png"
+        },
+        {
           "id": "https://rweekly.org/2026-W04.html",
           "author": null,
           "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Jon Calder, with help from the R Weekly team members and contributors.\nHighlight\nSemi-automating 200 Pull Requests with Claude Code\nHow to create a more accessible line chart\nInsights\nFrom scripts to pipelines in the age of LLMs\nContributing to base R with Coding Equity and Joy - Inside the R Contributors Project\nCrops, Code, and Community Build R-Mob User Group in Australia\n2025 Posit Open Source Year in Review\nSemi-automating 200 Pull Requests with Claude Code\nR in the Real World\nGold/Silver Ratio: GenAI with Quant Agent on Azure AI Foundry\nTutorials\nHow to create a more accessible line chart\n\nSetting Up A Cluster of Tiny PCs For Parallel Computing - A Note To Myself\nResou…",
@@ -44,6 +54,16 @@
       "feedUrl": "https://www.nationalreview.com/feed/",
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
+        {
+          "id": "https://www.nationalreview.com/?p=1914147",
+          "author": "Andrew Stuttaford",
+          "description": "The week of January 19, 2026: Trump’s ‘left’ turn, Javier Milei and free enterprise, Mark Carney and technocracy, Gavin Newsom and ambulances, and much more.",
+          "link": "https://www.nationalreview.com/2026/01/trumps-horseshoe/",
+          "publishedOn": "2026-01-25T20:51:00.000Z",
+          "wordCount": 10092,
+          "title": "Trump’s Horseshoe",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2025/12/donald-trump-oval-office-white-house.jpg?fit=2057%2C1200&ssl=1"
+        },
         {
           "id": "https://www.nationalreview.com/?p=1913757",
           "author": "Becket Adams",
@@ -1793,46 +1813,6 @@
           "wordCount": 6262,
           "title": "Bring Back Snow Days",
           "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2025/12/sledding.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1905763",
-          "author": "Andrew C. McCarthy",
-          "description": "Muslim jihadists’ actions are consistent with centuries-old sharia law.",
-          "link": "https://www.nationalreview.com/2025/12/who-is-the-radical/",
-          "publishedOn": "2025-12-27T11:30:13.000Z",
-          "wordCount": 20413,
-          "title": "Who Is the Radical?",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2025/12/bondi-beach-police.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1905933",
-          "author": "Brian T. Allen",
-          "description": "Hoping for the best at two biennial shows, and will your art critic get to the new Grand Egyptian Museum?",
-          "link": "https://www.nationalreview.com/2025/12/art-in-the-new-year-wants-and-needs/",
-          "publishedOn": "2025-12-27T11:30:05.000Z",
-          "wordCount": 7698,
-          "title": "New Year’s Wants, with a Nod to William Blake",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2025/12/blake.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1903901",
-          "author": "Thomas Nelson and Jerald Podair",
-          "description": "More U.S.-built cargo ships would help revitalize the country’s industrial landscape.",
-          "link": "https://www.nationalreview.com/2025/12/50-years-after-the-edmund-fitzgerald-its-time-to-fix-american-shipbuilding/",
-          "publishedOn": "2025-12-27T11:30:05.000Z",
-          "wordCount": 6848,
-          "title": "50 Years After the <em>Edmund Fitzgerald</em>, It’s Time to Fix American Shipbuilding",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2025/12/SS-Edmund-Fitzgerald.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1905720",
-          "author": "Andrew Follett",
-          "description": "Democrats talk a big game on bringing down costs, but in reality, their energy approach raises the price of everything.",
-          "link": "https://www.nationalreview.com/2025/12/the-lefts-hypocrisy-problem-with-energy-and-affordability/",
-          "publishedOn": "2025-12-27T11:30:02.000Z",
-          "wordCount": 15225,
-          "title": "The Left’s Hypocrisy Problem with Energy and Affordability",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/06/gas-prices-encenitas-california-1.jpg?fit=2057%2C1200&ssl=1"
         }
       ]
     },
@@ -1841,6 +1821,26 @@
       "feedUrl": "https://sspai.com/feed",
       "siteUrl": "https://sspai.com",
       "articles": [
+        {
+          "id": "https://sspai.com/post/105506",
+          "author": "噩梦飘雷",
+          "description": "像 TrendRadar 这类应用，或许才是许多公司和工作室采购 NAS 的原因之一。NAS 并非只能在家用环境中保存照片、挂挂 PT，更是能通过持久稳定工作，帮助用户圈出一块清醒的自留地，把实现各种功能的主动权重新握在自己手里。查看全文",
+          "link": "https://sspai.com/post/105506",
+          "publishedOn": "2026-01-26T03:36:45.000Z",
+          "wordCount": 811,
+          "title": "NAS 自部署 TrendRadar：搭建基于 AI 的热点情报站",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sspai.com/post/105741",
+          "author": "少数派编辑部",
+          "description": "高铁客服和专家回应「高铁二氧化碳超标」\n因不堪 AI 骚扰，cURL 将终止漏洞赏金计划\n联通推出「果粉」卡套餐\n微软证实向 FBI 移交 BitLocker 加密密钥\nMeta 裁员引发「VR 寒冬」担忧\n初代宝可梦成为流行 AI 测试方法\n看看就行的小道消息\n少数派的近期动态\n你可能错过的好文章\n查看全文",
+          "link": "https://sspai.com/post/105741",
+          "publishedOn": "2026-01-26T00:57:40.000Z",
+          "wordCount": 698,
+          "title": "派早报：高铁客服和专家回应「高铁二氧化碳超标」",
+          "imageUrl": null
+        },
         {
           "id": "https://sspai.com/post/105482",
           "author": "bakamio",
@@ -2719,16 +2719,6 @@
           "publishedOn": "2025-12-28T07:28:43.000Z",
           "wordCount": 328,
           "title": "借 AntiGravity，给个人消费一次「年度盘点」",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sspai.com/post/104832",
-          "author": "王隐",
-          "description": "你要做的，就是让自己看起来掌握了那 90%。查看全文",
-          "link": "https://sspai.com/post/104832",
-          "publishedOn": "2025-12-27T06:47:51.000Z",
-          "wordCount": 374,
-          "title": "AI 饭局装腔指南：3 分钟速成行业大佬",
           "imageUrl": null
         }
       ]
@@ -5957,20 +5947,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://pic.yupoo.com/fotomag/0e1e25da/9d8b638f.jpg"
-        },
-        {
-          "id": "idaily-242758",
-          "author": "中国 · 文昌",
-          "description": "中国长征八号甲运载火箭搭载新一批「国网星座」互联网卫星发射升空，海南商业航天发射场。12月26日，长征八号甲火箭执行2025年最后一次发射任务，成功将「国网星座」低轨互联网卫星系统的第17批9颗组网卫星送入预定轨道，目前该系统在轨卫星总数达到136颗。这是长征八号甲火箭自2025年2月首飞以来执行的第6次发射任务，累计部署完成6批54颗「国网星座」卫星，入轨卫星总重达到37.53吨。摄影师：Luo Yunfei",
-          "link": "https://m.idai.ly/se/1347tT",
-          "publishedOn": "2025-12-27T04:59:00.000Z",
-          "wordCount": 243,
-          "title": "长征八号年度收官发射 - December 27, 2025",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/90eec563/0fee823c.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/90eec563/0fee823c.jpg"
         }
       ]
     },
@@ -5979,6 +5955,26 @@
       "feedUrl": "https://plink.anyfeeder.com/nytimes/dual",
       "siteUrl": "http://nytimes.com",
       "articles": [
+        {
+          "id": "https://cn.nytimes.com/business/20260126/tiktok-china-technology/dual",
+          "author": null,
+          "description": "MEAGHAN TOBIN2026年1月26日字节跳动旗下的短视频平台TikTok已成为中美关系中的地缘政治角力场。 Qilai Shen/Bloomberg\nWhen the Chinese internet giant ByteDance officially split TikTok into separate entities for America and the rest of the world on Thursday, the deal marked a final capitulation for the survival of its popular social media app in the United States after an arduous six-year fight.\n上周四，中国互联网巨头字节跳动正式将TikTok拆分为美国本土和全球业务两个独立实体，这场历经六年艰难博弈后达成的交易标志着这款热门社交媒体应用为保住美国市场做出了最终妥协。\nThe outcome of a fractured TikTok underscores the difficult choice facing Chinese technology companies with global aspirations. In the United States, they must contend with shifting geopolitical fault lines, drawn-out legal battles and mistrust of any company with Chinese roots. Alternatively, they could chart a different international path — one wit…",
+          "link": "https://cn.nytimes.com/business/20260126/tiktok-china-technology/dual",
+          "publishedOn": "2026-01-26T04:06:01.000Z",
+          "wordCount": 1292,
+          "title": "TikTok分拆结局凸显中国科技企业“出海”难题",
+          "imageUrl": "https://static01.nyt.com/images/2025/09/18/business/CHINA-TIKTOK-1/CHINA-TIKTOK-1-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/china/20260126/china-top-general-xi-military-purge/dual",
+          "author": null,
+          "description": "储百亮2026年1月26日中国国防部周六表示，中央军委副主席张又侠上将涉嫌严重违纪违法。 Ng Han Guan/Associated Press\nChina’s top general, second only to Xi Jinping, the nation’s leader, in the military command, has been put under investigation and accused of “grave violations of discipline and the law,” the Ministry of National Defense said on Saturday, the most stunning escalation yet in Mr. Xi’s purge of the People’s Liberation Army elite.\n中国国防部周六表示，中国军队中地位仅次于国家领导人习近平的最高将领已被立案调查，并被指控存在“严重违纪违法”行为。这是习近平清洗解放军高层行动中迄今为止最令人震惊的一次升级。\nThe general, Zhang Youxia, is a vice chairman of the Central Military Commission, the Communist Party body that controls China’s armed forces. Another member of the commission, Gen. Liu Zhenli, who leads the military’s Joint Staff Department, is also under investigation, the Defense Ministry said. Its announ…",
+          "link": "https://cn.nytimes.com/china/20260126/china-top-general-xi-military-purge/dual",
+          "publishedOn": "2026-01-26T01:36:02.000Z",
+          "wordCount": 1422,
+          "title": "张又侠落马，习近平清洗解放军高层行动再升级",
+          "imageUrl": "https://static01.nyt.com/images/2026/01/24/multimedia/24int-china-military-mvfl/24int-china-military-mvfl-articleLarge.jpg"
+        },
         {
           "id": "https://cn.nytimes.com/usa/20260123/greenland-trump-cold-war/dual",
           "author": null,
