@@ -6,6 +6,16 @@
       "siteUrl": "https://rweekly.org/atom.xml",
       "articles": [
         {
+          "id": "https://rweekly.org/2026-W06.html",
+          "author": null,
+          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Jonathan Carroll, with help from the R Weekly team members and contributors.\nHighlight\nThe Test Set Pod - Column selectors, data quality, and learning in public (Episode link)\nGit & GitHub: Practical Version Control for Data Work\ndplyr comes to duckdb\nInsights\nnycOpenData: A unified R interface to NYC Open Data APIs\nParallel strands between learning crochet and learning programming\nVariable Fonts in R Graphics\n\nrOpenSci News Digest, January 2026\nHow to Recruit a New Maintainer for Your Package\nDebugging Sensitivity to C math library on Linux\nThe Test Set Pod - Column selectors, data quality, and learning in public (Episode link)\ndplyr comes to duckdb\nAI Newsletter 2026-01-30…",
+          "link": "https://rweekly.org/2026-W06.html",
+          "publishedOn": "2026-02-02T00:00:00.000Z",
+          "wordCount": 5926,
+          "title": "R Weekly 2026-W06 Interview, Practical git, duckdb",
+          "imageUrl": "https://rweekly.org/public/facebook.png"
+        },
+        {
           "id": "https://rweekly.org/2026-W05.html",
           "author": null,
           "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Jonathan Kitt, with help from the R Weekly team members and contributors.\nHighlight\nLLMs interpret plots well, until expectations interfere\nStudents, software, and soil flux\nfuturize: Parallelize Common Functions via a “Magic” Touch\nInsights\nWhere Questions Become Queries: Meet querychat\nLLMs interpret plots well, until expectations interfere\nAnnouncing {typeR}: simulate live typing of R scripts\nfuturize: Parallelize Common Functions via a “Magic” Touch\n{width=”100%”}\nR in the Real World\nStudents, software, and soil flux\nnycOpenData: A Curated Interface for NYC Open Data\nTutorials\nBuilding an R Weekly Highlights Podcast Asisstant with Shiny\nUsing {ellmer} for Dynamic Alt Tex…",
@@ -2153,46 +2163,6 @@
           "wordCount": 6288,
           "title": "Trump’s Audacious Maduro Raid Sends a Powerful Message",
           "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/01/trump-co.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1907875",
-          "author": "Guy Denton",
-          "description": "Members of the Democratic Socialists of America were seen handing out flyers, in a definitional example of preaching to the converted.",
-          "link": "https://www.nationalreview.com/2026/01/cold-confusion-and-resistance-buttons-on-the-ground-at-mamdanis-inauguration/",
-          "publishedOn": "2026-01-03T17:55:33.000Z",
-          "wordCount": 17606,
-          "title": "Cold, Confusion, and ‘Resistance’ Buttons: On the Ground at Mamdani’s Inauguration",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/01/zohran-mamdani-inauguration.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1907683",
-          "author": "The Editors",
-          "description": "Nick Shirley’s viral video is useful, but the focus should be on nailing as many of the malefactors as possible.",
-          "link": "https://www.nationalreview.com/2026/01/minneapolis-daycares-only-the-tip-of-the-fraud-scandal/",
-          "publishedOn": "2026-01-03T11:30:49.000Z",
-          "wordCount": 6225,
-          "title": "Minneapolis Daycares Only the Tip of the Fraud Scandal",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/01/daycare-center.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1907362",
-          "author": "Brian T. Allen",
-          "description": "It looks great, but is the curatorial vision awry?",
-          "link": "https://www.nationalreview.com/2026/01/highs-and-lows-at-princetons-new-art-museum/",
-          "publishedOn": "2026-01-03T11:30:37.000Z",
-          "wordCount": 8911,
-          "title": "Highs and Lows at Princeton’s New Art Museum",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2025/12/princeton-art-museum1.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1906486",
-          "author": "Graham Hillard",
-          "description": "Sadly, the organization’s upcoming conference will further delegitimize the humanities.",
-          "link": "https://www.nationalreview.com/2026/01/strange-days-at-the-modern-language-association/",
-          "publishedOn": "2026-01-03T11:30:23.000Z",
-          "wordCount": 6711,
-          "title": "Strange Days at the Modern Language Association",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/01/conference.jpg?fit=2057%2C1200&ssl=1"
         }
       ]
     },
@@ -2201,6 +2171,36 @@
       "feedUrl": "https://sspai.com/feed",
       "siteUrl": "https://sspai.com",
       "articles": [
+        {
+          "id": "https://sspai.com/post/86328",
+          "author": "Xenogeneic",
+          "description": "从火车票放票原理开始，让我们探究如何在高峰期买到一张火车票。查看全文",
+          "link": "https://sspai.com/post/86328",
+          "publishedOn": "2026-02-02T07:00:02.000Z",
+          "wordCount": 440,
+          "title": "2026 春运买票指北：乡愁愈烈，莫添烦恼",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sspai.com/post/105660",
+          "author": "EchoYu",
+          "description": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
+          "link": "https://sspai.com/post/105660",
+          "publishedOn": "2026-02-02T03:53:02.000Z",
+          "wordCount": 450,
+          "title": "又要上台讲 PPT？用 AutoHotkey 解决翻页笔「断连」时刻",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sspai.com/post/105959",
+          "author": "少数派编辑部",
+          "description": "Moltbook 引发 AI 智能体新热度与安全担忧\n微软计划集中精力修复 Windows 11 稳定性\n英伟达 Shield TV 发布十年仍获系统更新\n电视厂商集体淡出 8K 市场\nChatGPT 将下架 GPT-4o 等多款旧模型\nAnthropic 称过度依赖 AI 编程可能导致初级开发者技能显著退化\n看看就行的小道消息\n少数派的近期动态\n你可能错过的好文章\n查看全文",
+          "link": "https://sspai.com/post/105959",
+          "publishedOn": "2026-02-02T00:59:43.000Z",
+          "wordCount": 640,
+          "title": "派早报：Moltbook 引发 AI 智能体新热度与安全担忧",
+          "imageUrl": null
+        },
         {
           "id": "https://sspai.com/post/105948",
           "author": "waychane",
@@ -3179,16 +3179,6 @@
           "publishedOn": "2026-01-04T03:03:00.000Z",
           "wordCount": 305,
           "title": "关于「学习」，一些流传甚广的误读和迷思",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sspai.com/post/95907",
-          "author": "乔淼",
-          "description": "制定计划，是一个关于自我探索的过程，而不仅仅是一次简单的愿望表达。查看全文",
-          "link": "https://sspai.com/post/95907",
-          "publishedOn": "2026-01-03T07:31:41.000Z",
-          "wordCount": 279,
-          "title": "与其重复「新年计划」的失败，不如反思「新年目标」是否恰当",
           "imageUrl": null
         }
       ]
@@ -6445,104 +6435,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://pic.yupoo.com/fotomag/023b066d/556969bc.jpg"
-        },
-        {
-          "id": "idaily-243198",
-          "author": "中国 · 哈尔滨",
-          "description": "游客们在元旦假期游览哈尔滨冰雪大世界，黑龙江省。1月2日，中国交通运输部公布2026年元旦假期首日全社会跨区域人员流动量达2.07亿人次，同比增长20.3%，其中公路人员流动量同比增长17.5%至1.86亿人次，铁路客运量同比增长67.9%至1856万人次，民航客运量同比下降10.3%至195.1万人次，水路客运量同比增长2.9%至68.4万人次。国家移民管理局预测元旦假期日均出入境旅客将突破210万人次，同比增长22.4%。摄影师：iDaily Media",
-          "link": "https://m.idai.ly/se/117VLL",
-          "publishedOn": "2026-01-03T10:59:00.000Z",
-          "wordCount": 244,
-          "title": "中国元旦假期出游增长 - January 3, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/8cd3882c/ade20e1a.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/8cd3882c/ade20e1a.jpg"
-        },
-        {
-          "id": "idaily-243197",
-          "author": "日本 · 福冈县",
-          "description": "日本民众前往太宰府天满宫（Dazaifu Tenmangu）进行新年参拜，福冈县。12月31日，日本总务省公布2026年满18周岁的新成年人口总数为109万，与2025年持平，为历史第二低值。《朝日新闻》根据厚生劳动省数据估算2025年日本新出生人口预计跌至66.7万，创下1899年有统计数据以来最低纪录。为应对少子化问题，日本政府宣布2026年4月起分阶段向居民征收公共医疗保险附加费以扩大育儿补贴支出，目标2026财年筹集6000亿日元，2028财年筹集1万亿日元。摄影师：iDaily Media",
-          "link": "https://m.idai.ly/se/2a3ukX",
-          "publishedOn": "2026-01-03T09:59:00.000Z",
-          "wordCount": 244,
-          "title": "日本2026年109万人成年 - January 3, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/51a1adcc/606a80d2.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/51a1adcc/606a80d2.jpg"
-        },
-        {
-          "id": "idaily-243196",
-          "author": "印度 · 比哈尔邦",
-          "description": "印度教信徒参拜马哈维拉神庙（Mahavir Mandir），比哈尔邦。1月1日，印度马哈维拉神庙在2026年新年首日迎来超过40万信徒参拜，该神庙是北印度第二大宗教圣地，主要供奉印度教猴神哈奴曼。印度政府本周发布2025年经济评估报告称，该国名义 GDP 总值已达4.18万亿美元，超越日本成为全球第4大经济体，有望未来3年取代德国成为全球第3大经济体。印度2025年第三季度 GDP 增幅达8.2%，较前一个季度加快0.4个百分点，创下6个季度以来最快增速，主要受到私人消费等内需因素推动。摄影师：Santosh Kumar",
-          "link": "https://m.idai.ly/se/e2b8LL",
-          "publishedOn": "2026-01-03T09:57:00.000Z",
-          "wordCount": 246,
-          "title": "印度宣布 GDP 超越日本 - January 3, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/09f1d35d/2593762b.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/09f1d35d/2593762b.jpg"
-        },
-        {
-          "id": "idaily-243195",
-          "author": "瑞士 · 日内瓦州",
-          "description": "瑞士民众在日内瓦湖参加新年冬泳活动，日内瓦州。瑞士联邦经济事务秘书处（SECO）公布数据显示2025年第三季度 GDP 环比下降-0.5%，主要受到美国加征关税、化工和制药产业下滑等负面因素影响，预计全年经济增幅为1.3%。瑞银集团预测瑞士经济将在2026年进一步放缓至1%，经济增长面临劳动力市场恶化风险，美国关税政策将继续对瑞士外贸产业产生负面影响。摄影师：Martial Trezzini",
-          "link": "https://m.idai.ly/se/e75md4",
-          "publishedOn": "2026-01-03T09:55:00.000Z",
-          "wordCount": 244,
-          "title": "瑞士日内瓦湖新年冬泳 - January 3, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/728dac18/ae910fea.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/728dac18/ae910fea.jpg"
-        },
-        {
-          "id": "idaily-243194",
-          "author": "美国 · 纽约",
-          "description": "纽约新市长 Zohran Mamdani 在市政厅广场宣誓就职，美国。1月1日，现年34岁的民主党人 Zohran Mamdani 手按《古兰经》宣誓就任美国第一大城市纽约市的第112任市长，成为纽约史上首位印度裔及穆斯林市长，任期4年。Mamdani 在约25分钟的就职演讲中称将开启纽约政治新时代，以民主社会主义者的身份进行施政，建立服务于劳动人民而非权贵与富人的新政府，兑现向富人增税、为市民提供免费公交乘车服务、冻结租金、普及免费儿童保育福利等承诺。本次就职仪式由美国左翼参议员 Bernie Sanders 主持见证，共有约4000名持票观众参加。摄影师：Olga Fedorova",
-          "link": "https://m.idai.ly/se/529ONp",
-          "publishedOn": "2026-01-03T09:53:00.000Z",
-          "wordCount": 244,
-          "title": "纽约新市长宣誓就职 - January 3, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/369972fe/5dd501fd.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/369972fe/5dd501fd.jpg"
-        },
-        {
-          "id": "idaily-243193",
-          "author": "伊朗 · 德黑兰",
-          "description": "伊朗总统 Masoud Pezeshkian 在纪念伊斯兰革命卫队前指挥官苏莱曼尼遭美军暗杀6周年的活动上发表讲话，德黑兰。1月1日，伊朗总统 Pezeshkian 再次抨击美国和以色列实施国家恐怖主义，誓言将继承苏莱曼尼遗志，坚决抵御一切外部施压。伊朗于2025年12月28日爆发新一轮反政府示威抗议，迄今造成至少10人死亡，成为该国2022年以来最大规模的抗议活动，主要与伊朗通胀率暴涨、货币汇率暴跌等经济困难因素有关。摄影师：Fatemeh Bahrami",
-          "link": "https://m.idai.ly/se/87d3o2",
-          "publishedOn": "2026-01-03T09:51:00.000Z",
-          "wordCount": 244,
-          "title": "伊朗纪念苏莱曼尼遇刺6周年 - January 3, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/1a00dae3/5947e5c3.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/1a00dae3/5947e5c3.jpg"
-        },
-        {
-          "id": "idaily-243191",
-          "author": "乌克兰 · 哈尔科夫州",
-          "description": "乌克兰费尔德曼生态公园（Feldman Ecopark），工作人员正在转移空袭中幸存的鸟类动物，哈尔科夫州。1月1日，乌克兰哈尔科夫州的费尔德曼生态公园被俄军滑翔炸弹击中，造成1名员工受伤，多只动物死亡，鸟舍、猛兽馆等设施严重受损。这家私人动物园位于乌克兰哈尔科夫以北，距离俄军前线阵地仅约17公里，2022年俄乌冲突爆发后曾经被迫关闭，2023年6月重新开放。俄乌冲突即将满4年，基辅国际社会学研究所最新民调显示33%乌克兰民众表示接受领土让步换取和平，比例较2022年上升约2倍。摄影师：Viacheslav Madiievskyi",
-          "link": "https://m.idai.ly/se/c8cJDA",
-          "publishedOn": "2026-01-03T09:49:00.000Z",
-          "wordCount": 244,
-          "title": "乌克兰动物园遭俄军空袭 - January 3, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/505000b2/70dd3204.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/505000b2/70dd3204.jpg"
         }
       ]
     },
@@ -6551,6 +6443,36 @@
       "feedUrl": "https://plink.anyfeeder.com/nytimes/dual",
       "siteUrl": "http://nytimes.com",
       "articles": [
+        {
+          "id": "https://cn.nytimes.com/usa/20260202/alex-pretti-minneapolis/dual",
+          "author": null,
+          "description": "KURT STREETER2026年2月2日在亚历克斯·普雷蒂遭联邦特工枪杀的现场，四天后仍有哀悼者聚集。 Victor J. Blue for The New York Times\nRenee Good was killed on Jan. 7. Alex Pretti on Jan. 24. Federal agents killed both of them, and the administration labeled both of them terrorists — labels that quickly fell apart when the public learned more about each case and saw videos of the shootings.\n蕾妮·古德于1月7日身亡，亚历克斯·普雷蒂于1月24日丧生。两人皆死于联邦探员枪下，政府还给两人都贴上了恐怖分子的标签。但随着公众逐渐了解两起案件的真相、看到枪击现场视频，这些标签迅速不攻自破。\nYet it was Mr. Pretti’s death that broke the dam, galvanizing public sentiment against the federal government’s tactics and forcing a remarkable retreat by the Trump administration.\n然而正是普雷蒂之死冲破了阻塞的堤坝，激起公众对联邦政府执法手段的强烈不满，迫使特朗普政府做出惊人让步。\nGun-rights groups turned on the White House. Republican senators called for investigations. One poll found that suppo…",
+          "link": "https://cn.nytimes.com/usa/20260202/alex-pretti-minneapolis/dual",
+          "publishedOn": "2026-02-02T07:06:01.000Z",
+          "wordCount": 1496,
+          "title": "亚历克斯·普雷蒂之死如何成为了美国的转折点",
+          "imageUrl": "https://static01.nyt.com/images/2026/02/01/multimedia/01nat-minn-pretti-01-thkj/01nat-minn-pretti-01-thkj-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/business/20260202/panama-canal-ck-hutchison/dual",
+          "author": null,
+          "description": "PETER EAVIS, 艾莎2026年2月2日特朗普总统多次表示，他希望美国重新夺回对巴拿马运河的控制权。 Nathalia Angarita for The New York Times\nA top court in Panama ruled on Thursday that a lucrative port contract held by a Hong Kong company was unconstitutional, a decision that will most likely deepen tensions between the United States and China in Latin America.\n巴拿马最高法院周四裁定，一家香港公司持有的利润丰厚的港口特许经营合同违宪。此举很可能会加剧美国与中国在拉丁美洲的紧张关系。\nThe decision against the company, CK Hutchison, could eventually clear the way for U.S. and European companies to operate the strategically important ports. Last year, President Trump backed a deal that would have transferred control of the Panamanian ports and many others to a group led by a large American financial firm.\n这项针对长江和记实业的裁决可能最终为美国和欧洲企业运营这些具有重要战略意义的港口扫清道路。去年，特朗普总统曾支持一项交易，试图把这家企业运营的巴拿马港口及其他多处港口的控制权转移给一家美…",
+          "link": "https://cn.nytimes.com/business/20260202/panama-canal-ck-hutchison/dual",
+          "publishedOn": "2026-02-02T03:36:01.000Z",
+          "wordCount": 1177,
+          "title": "巴拿马法院裁定长江和记港口经营合同违宪",
+          "imageUrl": "https://static01.nyt.com/images/2026/01/16/multimedia/00biz-panama-ports-wmcg/00biz-panama-ports-wmcg-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/world/20260202/trump-xi-starmer-carney/dual",
+          "author": null,
+          "description": "DAVID PIERSON, BERRY WANG2026年2月2日上周五，英国首相斯塔默在上海。他是2018年以来首位访问中国的英国领导人。 Pool photo by Kin Cheung\nWhen President Trump upended global trade with his “Liberation Day” tariffs last year, China could have seized the moment to win over bewildered U.S. allies and partners with a charm offensive. Instead, it did the opposite.\n去年，特朗普总统用“解放日“关税政策颠覆全球贸易时，中国本可以借此机会发起魅力攻势，赢得那些困惑不安的美国盟友和伙伴。但中国却反其道而行之。\nBeijing threatened countries that dared to cooperate with the Trump administration in restricting trade with China. And when China unveiled a plan to choke exports of its critical supplies of rare earths, it targeted the world, not just the United States.\n北京威胁那些敢于配合特朗普政府限制对华贸易的国家。当中国公布一项掐断其关键稀土供应出口的计划时，其目标并不只是美国，而是全世界。\nIt was a high-stakes gamble by President Xi Jinping of China. Rather than provide relie…",
+          "link": "https://cn.nytimes.com/world/20260202/trump-xi-starmer-carney/dual",
+          "publishedOn": "2026-02-02T02:06:02.000Z",
+          "wordCount": 1444,
+          "title": "习近平豪赌见成效：美国盟友纷纷寻求与中国加深经贸关系",
+          "imageUrl": "https://static01.nyt.com/images/2026/01/31/multimedia/31int-china-diplo01-photo-gwkm/31int-china-diplo01-photo-gwkm-articleLarge.jpg"
+        },
         {
           "id": "https://cn.nytimes.com/opinion/20260130/trump-china-policy-xi/dual",
           "author": null,
