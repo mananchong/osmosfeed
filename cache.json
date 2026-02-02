@@ -65,6 +65,26 @@
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
         {
+          "id": "https://www.nationalreview.com/?p=1916586",
+          "author": "Noah Rothman",
+          "description": "Portland wasn’t alone, as local protesters clashed with local police over the weekend.",
+          "link": "https://www.nationalreview.com/2026/02/the-mostly-peaceful-riots-are-back/",
+          "publishedOn": "2026-02-02T15:50:31.000Z",
+          "wordCount": 6843,
+          "title": "The ‘Mostly Peaceful’ Riots Are Back",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/02/los-angeles.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1916406",
+          "author": "The Editors",
+          "description": "Census figures for the first half of the 2020s show citizens and power flowing to red states, while blue states became dangerously dependent upon illegal immigration.",
+          "link": "https://www.nationalreview.com/2026/02/americans-vote-with-their-feet-for-red-states/",
+          "publishedOn": "2026-02-02T11:30:19.000Z",
+          "wordCount": 6429,
+          "title": "Americans Vote with Their Feet for Red States",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/02/uhaul-california-freeway.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
           "id": "https://www.nationalreview.com/?p=1916036",
           "author": "Becket Adams",
           "description": "‘Vanishingly few’ stations have shuttered so far. Surprised?",
@@ -2153,16 +2173,6 @@
           "wordCount": 7054,
           "title": "Why Parents Should Read to Their Kids",
           "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/01/parentsreading-tochildren.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1907918",
-          "author": "The Editors",
-          "description": "The question now is what comes next in Caracas.",
-          "link": "https://www.nationalreview.com/2026/01/trumps-audacious-maduro-raid-sends-a-powerful-message/",
-          "publishedOn": "2026-01-03T20:35:33.000Z",
-          "wordCount": 6288,
-          "title": "Trump’s Audacious Maduro Raid Sends a Powerful Message",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/01/trump-co.jpg?fit=2057%2C1200&ssl=1"
         }
       ]
     },
@@ -2171,6 +2181,16 @@
       "feedUrl": "https://sspai.com/feed",
       "siteUrl": "https://sspai.com",
       "articles": [
+        {
+          "id": "https://sspai.com/post/105972",
+          "author": "少数派编辑部",
+          "description": ">下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文",
+          "link": "https://sspai.com/post/105972",
+          "publishedOn": "2026-02-02T09:59:15.000Z",
+          "wordCount": 556,
+          "title": "派评 | 近期值得关注的 App",
+          "imageUrl": null
+        },
         {
           "id": "https://sspai.com/post/86328",
           "author": "Xenogeneic",
@@ -3170,16 +3190,6 @@
           "wordCount": null,
           "title": "派早报：Clicks 推出 Power Keyboard 和 Communicator 手机",
           "imageUrl": null
-        },
-        {
-          "id": "https://sspai.com/post/104956",
-          "author": "知道分子吴先先",
-          "description": "学习类书籍里有哪些以讹传讹的错误观点？查看全文",
-          "link": "https://sspai.com/post/104956",
-          "publishedOn": "2026-01-04T03:03:00.000Z",
-          "wordCount": 305,
-          "title": "关于「学习」，一些流传甚广的误读和迷思",
-          "imageUrl": null
         }
       ]
     },
@@ -3188,6 +3198,132 @@
       "feedUrl": "https://plink.anyfeeder.com/idaily/today",
       "siteUrl": "https://idai.ly",
       "articles": [
+        {
+          "id": "idaily-245227",
+          "author": "美国 · 华盛顿特区",
+          "description": "美国国会大厦广场被积雪覆盖，华盛顿特区。1月30日，美国国会参议院以71:29的投票结果通过一项1.2万亿美元的联邦政府剩余财年拨款法案，同意为大多数联邦机构提供资金至9月30日，但针对国土安全部的拨款仅能维持两周。民主党要求优先立法加强对「移民与海关执法局」（ICE）的监管，否则拒绝为国土安全部提供长期拨款。由于新拨款法案的立法程序尚未完成，美国联邦政府从1月31日零时进入「技术性部分停摆」状态，距离上次「史上最长停摆」结束仅11周。摄影师：Ken Cedeno",
+          "link": "https://m.idai.ly/se/377f62",
+          "publishedOn": "2026-02-02T11:49:00.000Z",
+          "wordCount": 272,
+          "title": "美国联邦政府技术性停摆 - February 2, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/c746d420/f788eec8.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/c746d420/f788eec8.jpg"
+        },
+        {
+          "id": "idaily-245226",
+          "author": "俄罗斯 · 堪察加半岛",
+          "description": "俄罗斯堪察加半岛遭遇60年来最强降雪，市区道路被积雪覆盖。1月30日，世界气象组织发布报告指出全球多地在过去1个月遭遇暴雪、极寒、洪灾、酷暑等极端天气影响，造成严重的经济、环境及人员损失。俄罗斯堪察加半岛在2025年12月和2026年1月先后遭遇降雪深度达3.7米和超过2米的强降雪天气，创下1970年代以来最高纪录，首府彼得罗巴甫洛夫斯克市因严重积雪导致交通瘫痪，当地政府已宣布进入紧急状态并向联邦政府申请援助。俄罗斯国防部已派遣军机向堪察加半岛运送除雪设备和全地形车，并出动国民警卫队协助清雪和疏散受灾民众。摄影师：Alexander A. Piragis",
+          "link": "https://m.idai.ly/se/78fqEW",
+          "publishedOn": "2026-02-02T10:58:00.000Z",
+          "wordCount": 272,
+          "title": "堪察加半岛60年最强降雪 - February 2, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/aba376e4/8fa99ab2.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/aba376e4/8fa99ab2.jpg"
+        },
+        {
+          "id": "idaily-245225",
+          "author": "俄罗斯 · 莫斯科",
+          "description": "俄罗斯总统 Vladimir Putin 主持召开对外军事技术合作委员会会议，莫斯科。1月30日，俄总统 Putin 指出，2025年俄罗斯军工业产品出口至全球逾30个国家，创造超过150亿美元的外汇收入，在西方国家施压下依然实现出口合同的可靠履行。Putin 强调开展军事技术合作是俄罗斯保障欧亚大陆稳定与安全的首要任务，目前俄方正与14个国家开展340多项军事技术合作，预计2026年俄罗斯军工出口将实现大幅增长。摄影师：Vyacheslav Prokofyev",
+          "link": "https://m.idai.ly/se/14a2yl",
+          "publishedOn": "2026-02-02T09:57:00.000Z",
+          "wordCount": 272,
+          "title": "俄罗斯军工出口稳定增长 - February 2, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/6cdce892/fd0e9621.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/6cdce892/fd0e9621.jpg"
+        },
+        {
+          "id": "idaily-245224",
+          "author": "泰国 · 曼谷",
+          "description": "一名泰国公务员参加大选提前投票，曼谷。2月1日，泰国启动国会下议院选举提前投票，超过240万选民登记提前投票，其中包括13.8万境外公民和驻边士兵。泰国将于2月8日举行大选正式投票，全国57个政党将角逐众议院的500个席位，计票结果预计于4月9日公布。最新民调显示主要反对党「人民党」以33.56%支持率排名第一，执政党「自豪泰党」以22.76%支持率位列第二，前总理他信家族支持的「为泰党」以16.92%支持率居第三，保皇派「民主党」以12.76%支持率排名第四。摄影师：Rungroj Yongrit",
+          "link": "https://m.idai.ly/se/556KH2",
+          "publishedOn": "2026-02-02T09:55:00.000Z",
+          "wordCount": 272,
+          "title": "泰国大选提前投票 - February 2, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/7b87d4aa/7fc58c16.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/7b87d4aa/7fc58c16.jpg"
+        },
+        {
+          "id": "idaily-245223",
+          "author": "伊朗 · 德黑兰",
+          "description": "伊朗议员们集体身穿伊斯兰革命卫队制服表达对军方支持，德黑兰。2月1日，伊朗议会宣布将欧洲国家军队列为「恐怖组织」，作为针对欧盟成员国将伊朗伊斯兰革命卫队列入「恐怖组织」名单的对等反制措施。伊朗外交部声明指出，伊斯兰革命卫队是伊朗正规武装力量不可分割的组成部分，欧洲将主权军队定性为恐怖组织的行径公然违反国际法原则。伊朗外长在社交媒体发文，指责欧洲「对以色列在加沙的种族屠杀行为无动于衷，却急于在伊朗捍卫人权」，警告称一旦中东地区爆发全面战争，欧洲大陆必将遭受巨大冲击。摄影师：Islamic Consultative Assembly",
+          "link": "https://m.idai.ly/se/18843e",
+          "publishedOn": "2026-02-02T09:53:00.000Z",
+          "wordCount": 272,
+          "title": "伊朗将欧洲军队列为恐怖组织 - February 2, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/6cca524f/aa268a4f.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/6cca524f/aa268a4f.jpg"
+        },
+        {
+          "id": "idaily-245222",
+          "author": "阿拉伯海",
+          "description": "一架美国海军 F/A-18E「超级大黄蜂」战斗机从林肯号核动力航空母舰甲板上起飞，阿拉伯海。2月1日，伊朗最高领袖 Ayatollah Ali Khamenei 向美国发出警告「任何对伊朗的攻击都将引发地区全面战争」。美国总统 Donald Trump 宣布已向伊朗周边海域部署「最大、最强」的美军舰队，数日内就能准备就绪。美国国防部公布信息显示，目前美军在阿拉伯海部署军舰包括1艘核动力航空母舰、6艘驱逐舰和3艘濒海战斗舰。摄影师：Zoe Simpson",
+          "link": "https://m.idai.ly/se/c541S8",
+          "publishedOn": "2026-02-02T09:51:00.000Z",
+          "wordCount": 272,
+          "title": "美国航母打击群抵近伊朗 - February 2, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/bfdba53d/5d2b9de8.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/bfdba53d/5d2b9de8.jpg"
+        },
+        {
+          "id": "idaily-245221",
+          "author": "俄罗斯 · 圣彼得堡",
+          "description": "俄罗斯圣彼得堡艺术学院博物馆，一幅17世纪意大利巴洛克画家 Luca Giordano 油画《屠杀无辜者》（Massacre of the Innocents）修复后首次展出。1月31日，叶卡捷琳娜大帝收藏的卢卡·焦尔达诺早期代表作《屠杀无辜者》历经3年修复后首次向公众展出。这幅油画描绘了《马太福音》中希律王因害怕耶稣诞生而下令屠杀伯利恒城所有婴儿的圣经故事，画家通过强烈的画面明暗对比突出屠杀的悲剧性和冲击力。这幅画作曾因保存不善而严重受损，本次展览还将通过文献和视频资料，详细呈现本次修复的复杂过程，展期持续至3月22日。摄影师：Anatoly Maltsev",
+          "link": "https://m.idai.ly/se/62f3E8",
+          "publishedOn": "2026-02-02T09:49:00.000Z",
+          "wordCount": 272,
+          "title": "卢卡·焦尔达诺画作修复展 - February 2, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/338bdda6/2049b23c.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/338bdda6/2049b23c.jpg"
+        },
+        {
+          "id": "idaily-245220",
+          "author": "韩国 · 华川郡",
+          "description": "韩国江原道举行华川山鳟鱼庆典烟花秀。2月1日，韩国一年一度「华川山鳟鱼庆典」正式落幕，本届山鳟鱼节为期23天，累计吸引约159万人次游客，同比减少-14.5%，创造近10亿韩元（约合69万美元）农产品销售额。华川山鳟鱼节创办于2023年，是韩国最具代表性的冬季庆典之一，传统活动包括冰钓和徒手抓鱼等。韩国央行数据显示2025年该国 GDP 增速仅为1%，其中第四季度 GDP 环比下降-0.3%，创3年来最大跌幅，主要受不动产投资低迷和出口萎缩等因素影响。摄影师：iDaily Media",
+          "link": "https://m.idai.ly/se/543Gkg",
+          "publishedOn": "2026-02-02T09:47:00.000Z",
+          "wordCount": 272,
+          "title": "韩国华川山鳟鱼节闭幕 - February 2, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/a2a9922c/0dc05a56.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/a2a9922c/0dc05a56.jpg"
+        },
+        {
+          "id": "idaily-245219",
+          "author": "斯里兰卡 · 科伦坡",
+          "description": "斯里兰卡庆祝「纳瓦姆月圆节」（Navam Perahera），一只大象在寺院门口接受僧侣祈福和供奉，科伦坡。1月31日，斯里兰卡迎来一年一度的「纳瓦姆月圆节」，该节日于每年佛历2月的满月前夕庆祝，旨在纪念释迦摩尼任命舍利弗和目犍连为主要弟子。斯里兰卡旅游发展局公布报告显示2025年共接待外国游客236万人次，同比增长15.1%，创下历史新高，斯里兰卡政府计划2026年实现游客接待量300万人次和旅游收入50亿美元的目标。斯里兰卡央行预测2026年 GDP 将增长4%-5%。摄影师：Thilina Kaluthotage",
+          "link": "https://m.idai.ly/se/b50IW6",
+          "publishedOn": "2026-02-02T09:45:00.000Z",
+          "wordCount": 272,
+          "title": "斯里兰卡纳瓦姆月圆节 - February 2, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/c6ed6ad6/c1080099.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/c6ed6ad6/c1080099.jpg"
+        },
         {
           "id": "idaily-245157",
           "author": "美国 · 佛罗里达州",
@@ -6444,6 +6580,16 @@
       "siteUrl": "http://nytimes.com",
       "articles": [
         {
+          "id": "https://cn.nytimes.com/china/20260202/china-muslim/dual",
+          "author": null,
+          "description": "袁莉2026年2月2日\nIn the final years of his career as a Chinese Communist Party official, Ma Ruilin lived two lives.\n 在马瑞林担任中国共产党官员的最后几年里，他过着两种截然不同的生活。\nDuring the day, he carried out policies that were used to control Muslims. In the evening, he visited a mosque to pray. To hide his identity from surveillance cameras, he wore a motorcycle helmet when he entered.\n白天，他执行用于管控穆斯林的政策；到了晚上，他会去清真寺祈祷。为了在监控摄像头前隐藏身份，他进去的时候会戴上摩托车头盔。\nMr. Ma knew exactly how China’s surveillance systems worked — he helped design them.\n马瑞林对中国的监控系统如何运作了如指掌——这些系统的设计中就有他的参与。\n“By day, my face looked exactly like one of my colleagues,” he said. “At night, I knelt on the prayer mat and became a different human being.”\n“白天，我的面孔看起来和其他同事没什么两样，”他说。“到了晚上，我跪在祈祷垫上，就变成了另外一个人。”\nFor two decades, Mr. Ma was a midlevel party cadre in China’s r…",
+          "link": "https://cn.nytimes.com/china/20260202/china-muslim/dual",
+          "publishedOn": "2026-02-02T07:36:02.000Z",
+          "wordCount": 1877,
+          "title": "“我自由了”：一名穆斯林前中共官员的自白",
+          "imageUrl": "https://static01.nyt.com/images/2026/01/29/multimedia/Biz-Newworld-01-wjkt/Biz-Newworld-01-wjkt-videoLarge.jpg"
+        },
+        {
           "id": "https://cn.nytimes.com/usa/20260202/alex-pretti-minneapolis/dual",
           "author": null,
           "description": "KURT STREETER2026年2月2日在亚历克斯·普雷蒂遭联邦特工枪杀的现场，四天后仍有哀悼者聚集。 Victor J. Blue for The New York Times\nRenee Good was killed on Jan. 7. Alex Pretti on Jan. 24. Federal agents killed both of them, and the administration labeled both of them terrorists — labels that quickly fell apart when the public learned more about each case and saw videos of the shootings.\n蕾妮·古德于1月7日身亡，亚历克斯·普雷蒂于1月24日丧生。两人皆死于联邦探员枪下，政府还给两人都贴上了恐怖分子的标签。但随着公众逐渐了解两起案件的真相、看到枪击现场视频，这些标签迅速不攻自破。\nYet it was Mr. Pretti’s death that broke the dam, galvanizing public sentiment against the federal government’s tactics and forcing a remarkable retreat by the Trump administration.\n然而正是普雷蒂之死冲破了阻塞的堤坝，激起公众对联邦政府执法手段的强烈不满，迫使特朗普政府做出惊人让步。\nGun-rights groups turned on the White House. Republican senators called for investigations. One poll found that suppo…",
@@ -7748,26 +7894,6 @@
           "publishedOn": "2026-01-05T02:05:00.000Z",
           "wordCount": 309,
           "title": "雅典的“前浪”“后浪”与“新浪”",
-          "imageUrl": null
-        },
-        {
-          "id": "45453bf32a86ec13ae1d13f9caaa7180",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E5%A6%82%E4%BD%95%E8%8E%B7%E5%BE%97%E5%86%85%E5%BF%83%E7%9A%84%E5%AE%89%E5%AE%81%EF%BC%9F%E6%9D%A5%E8%87%AA%E6%96%AF%E5%A4%9A%E8%91%9B%E5%93%B2%E5%AD%A6%E5%AE%B6%E5%A1%9E%E6%B6%85%E5%8D%A1%E7%9A%84%E5%BB%BA%E8%AE%AE",
-          "publishedOn": "2026-01-04T01:58:00.000Z",
-          "wordCount": 298,
-          "title": "如何获得内心的安宁？来自斯多葛哲学家塞涅卡的建议",
-          "imageUrl": null
-        },
-        {
-          "id": "f314d075cbde2f57b101d4c9d5b08348",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E8%AF%BB%E8%80%85%E4%B8%8D%E5%86%8D%E5%96%9C%E6%AC%A2%E9%9D%9E%E8%99%9A%E6%9E%84%E4%B9%A6%E7%B1%8D%E4%BA%86%EF%BC%9F",
-          "publishedOn": "2026-01-04T01:58:00.000Z",
-          "wordCount": 294,
-          "title": "读者不再喜欢非虚构书籍了？",
           "imageUrl": null
         }
       ]
