@@ -65,6 +65,56 @@
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
         {
+          "id": "https://www.nationalreview.com/?p=1917018",
+          "author": "James Lileks",
+          "description": "On the south side of Minneapolis, getting rid of the ice has a different meaning.",
+          "link": "https://www.nationalreview.com/2026/02/where-ice-and-ice-meet/",
+          "publishedOn": "2026-02-05T11:30:58.000Z",
+          "wordCount": 6671,
+          "title": "Where Ice and ICE Meet",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/02/snow-whistles-minneapolis.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1917438",
+          "author": "The Editors",
+          "description": "A federal judge’s ruling blocking President Trump from ending Haiti’s protected status doesn’t pass the smell test.",
+          "link": "https://www.nationalreview.com/2026/02/the-egregious-haitian-immigration-decision/",
+          "publishedOn": "2026-02-05T11:30:57.000Z",
+          "wordCount": 6688,
+          "title": "The Egregious Haitian-Immigration Decision",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/02/kristi-noem-dhs.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1917254",
+          "author": "Isaac Orr and Mitch Rolling",
+          "description": "Americans are at greater risk of power outages when we rely too much on wind, solar, and battery storage systems.",
+          "link": "https://www.nationalreview.com/2026/02/overreliance-on-renewables-leaves-americans-out-in-the-cold/",
+          "publishedOn": "2026-02-05T11:30:47.000Z",
+          "wordCount": 7116,
+          "title": "Overreliance on Renewables Leaves Americans Out in the Cold",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/02/wind-farm-south-dakota.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1917409",
+          "author": "Christian Schneider",
+          "description": "It’s the height of arrogance for bureaucrats to tell us what to eat.",
+          "link": "https://www.nationalreview.com/2026/02/the-government-food-pyramid-is-all-junk/",
+          "publishedOn": "2026-02-05T11:30:21.000Z",
+          "wordCount": 7377,
+          "title": "The Government Food Pyramid Is All Junk",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/02/kennedy-nutrition.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1917333",
+          "author": "Brian T. Allen",
+          "description": "New directors, federal arts money keeps flowing, and a young lion finds a new home.",
+          "link": "https://www.nationalreview.com/2026/02/in-the-glass-hive-of-art-news-dark-clouds-at-the-met-bostons-mfa/",
+          "publishedOn": "2026-02-05T11:30:06.000Z",
+          "wordCount": 25320,
+          "title": "In the Glass Hive of Art News: Dark Clouds at the Met, Boston’s MFA",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/02/John-Singleton-Copley-Watson-and-the-Shark-2.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
           "id": "https://www.nationalreview.com/?p=1917380",
           "author": "Jeffrey Blehar",
           "description": "We should not overlook former editor Marty Baron’s role in the newspaper’s predicament.",
@@ -2023,16 +2073,6 @@
           "wordCount": 7732,
           "title": "Oil: Venezuela’s Problem",
           "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/01/venezuela-oil-mural.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1908739",
-          "author": "Noah Rothman",
-          "description": "The elevation of figures such as the fanatical Cea Weaver has been edifying.",
-          "link": "https://www.nationalreview.com/2026/01/a-look-into-the-mind-of-the-mamdani-marxist/",
-          "publishedOn": "2026-01-06T21:09:27.000Z",
-          "wordCount": 16319,
-          "title": "A Look into the Mind of the Mamdani Marxist",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/01/William-DeFoor-vance1.jpg?fit=2057%2C1200&ssl=1"
         }
       ]
     },
@@ -2041,6 +2081,16 @@
       "feedUrl": "https://sspai.com/feed",
       "siteUrl": "https://sspai.com",
       "articles": [
+        {
+          "id": "https://sspai.com/post/106090",
+          "author": "少数派编辑部",
+          "description": "很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有商务内 ...查看全文",
+          "link": "https://sspai.com/post/106090",
+          "publishedOn": "2026-02-05T09:15:28.000Z",
+          "wordCount": 486,
+          "title": "新玩意 235｜少数派的编辑们最近买了啥？",
+          "imageUrl": null
+        },
         {
           "id": "https://sspai.com/post/106060",
           "author": "少数派编辑部",
@@ -3050,26 +3100,6 @@
           "wordCount": 658,
           "title": "成为「新标配」的磁轴，真的是游戏键盘的终点吗？",
           "imageUrl": null
-        },
-        {
-          "id": "https://sspai.com/post/104946",
-          "author": "烟酸Niacin",
-          "description": "那么奇、那么秘，下站去极地。查看全文",
-          "link": "https://sspai.com/post/104946",
-          "publishedOn": "2026-01-07T03:02:10.000Z",
-          "wordCount": 490,
-          "title": "当世界尽头成为热搜：一份南极旅游指南",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sspai.com/post/105214",
-          "author": "少数派编辑部",
-          "description": "惠普发布键盘式迷你电脑 Eliteboard G1a，英特尔发布酷睿 Ultra 300 系列 AI 处理器等。查看全文",
-          "link": "https://sspai.com/post/105214",
-          "publishedOn": "2026-01-07T00:57:10.000Z",
-          "wordCount": 657,
-          "title": "派早报：英伟达发布 DLSS 4.5、戴尔发布 XPS 14/16 等",
-          "imageUrl": null
         }
       ]
     },
@@ -3078,6 +3108,104 @@
       "feedUrl": "https://plink.anyfeeder.com/idaily/today",
       "siteUrl": "https://idai.ly",
       "articles": [
+        {
+          "id": "idaily-245462",
+          "author": "太阳",
+          "description": "NASA 公布一张太阳动力学天文台（SDO）拍摄的太阳耀斑爆发照片。2月4日，太阳黑子区「AR4366」出现一次X4.2级强耀斑爆发，电磁辐射导致西非和南欧部分地区无线电信号暂时中断。太阳黑子区「AR4366」位于太阳表面东北部，目前宽度达到地球的约15倍，自1月底以来累计发生至少6次X级太阳耀斑爆发，其中一次达到X8.1级，为2024年10月迄今最强耀斑。摄影师：NASA",
+          "link": "https://m.idai.ly/se/a66aOi",
+          "publishedOn": "2026-02-05T09:59:00.000Z",
+          "wordCount": 276,
+          "title": "太阳爆发X8.1级耀斑 - February 5, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/087d493e/50e4029b.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/087d493e/50e4029b.jpg"
+        },
+        {
+          "id": "idaily-245461",
+          "author": "俄罗斯 · 莫斯科",
+          "description": "俄罗斯总统 Vladimir Putin 与中国国家主席习近平举行视频会晤，莫斯科。2月4日，中俄两国元首在视频会晤中互致新年祝福，并就双边关系、国际和地区热点问题等进行约1个半小时深入交流。中国国家主席习近平表示，2026年是中俄战略协作伙伴关系建立30周年，双方有义务推动国际社会坚守公平正义，携手维护全球战略稳定。俄总统 Putin 表示，俄方愿同中方继续在联合国、上海合作组织、金砖国家等多边平台加强战略协作，并将积极支持中国在深圳举行亚太经合组织领导人非正式会议。摄影师：Vyacheslav Prokofyev",
+          "link": "https://m.idai.ly/se/1211ND",
+          "publishedOn": "2026-02-05T09:58:00.000Z",
+          "wordCount": 276,
+          "title": "中俄元首举行视频会晤 - February 5, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/e4934865/8fff5cff.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/e4934865/8fff5cff.jpg"
+        },
+        {
+          "id": "idaily-245460",
+          "author": "意大利 · 米兰",
+          "description": "2026年米兰-科尔蒂纳冬奥会速度滑冰馆，选手们正在进行赛前训练。2月4日，距离米兰冬奥会开幕还有最后2天，大部分场馆建设已进入收尾和清洁阶段，仅剩冰球赛事主场馆尚未竣工。本届米兰冬奥会共设13个竞赛场馆，约85%使用既有或临时设施，其中速度滑冰馆由米兰国际展览中心改造，现场可容纳6500名观众。米兰冬奥会组委会本周宣布已售出近120万张门票，售出率约75%，最受欢迎的比赛项目依次为冰球、冬季两项和越野滑雪。摄影师：Robin van Lonkhuijsen",
+          "link": "https://m.idai.ly/se/f109Wo",
+          "publishedOn": "2026-02-05T09:57:00.000Z",
+          "wordCount": 276,
+          "title": "米兰冬奥会倒数2天 - February 5, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/c95957f6/ec456490.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/c95957f6/ec456490.jpg"
+        },
+        {
+          "id": "idaily-245459",
+          "author": "阿联酋 · 阿布扎比",
+          "description": "美国、乌克兰和俄罗斯代表团在阿布扎比举行第二轮三方会谈，阿联酋。2月4日，美俄乌代表团在阿布扎比启动为期2天的新一轮谈判，首日未达成任何协议。乌克兰谈判代表称本次会谈「充实且富有成效」。克里姆林宫发言人表示俄军将继续战斗直至乌方做出「能够结束战争的决定」。美国国务卿 Marco Rubio 表示俄美乌三方会谈已取得一定进展，但最棘手的问题仍未解决，短期内难以实现突破。俄乌冲突将于2月24日迎来4周年。摄影师：UAE MFA",
+          "link": "https://m.idai.ly/se/af7Gyc",
+          "publishedOn": "2026-02-05T09:55:00.000Z",
+          "wordCount": 276,
+          "title": "美俄乌第2轮三方会谈 - February 5, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/50dd4ae7/7a119852.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/50dd4ae7/7a119852.jpg"
+        },
+        {
+          "id": "idaily-245458",
+          "author": "日本 · 札幌",
+          "description": "第76届日本札幌冰雪节期间，游客们正在观赏一组动漫主题冰雪雕塑，北海道。2月4日，2026年札幌冰雪节正式开幕，本年度共展出约210座大型冰雕和雪雕作品，创作主题包括福岛会津鹤之城、绳文时代土偶、大阪世博会吉祥物、流行动漫电影角色等，时间持续至2月11日，预计将吸引超过200万人参观。日本总务省通报1月20日以来的极端降雪已造成35人死亡、358人受伤。日本气象厅预计2月6日该国北部地区还将迎来新一轮强降雪天气。摄影师：iDaily Media",
+          "link": "https://m.idai.ly/se/044BDK",
+          "publishedOn": "2026-02-05T09:53:00.000Z",
+          "wordCount": 276,
+          "title": "第76届札幌冰雪节 - February 5, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/f92197ed/dc70c721.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/f92197ed/dc70c721.jpg"
+        },
+        {
+          "id": "idaily-245457",
+          "author": "法国 · 巴黎",
+          "description": "巴黎卢浮宫博物馆公布欧仁妮皇后王冠受损情况的照片。2月4日，卢浮宫宣布将对在2025年10月19日博物馆盗窃案中受损追回的欧仁妮皇后王冠进行全面修复。照片显示这件王冠整体顶部拱形结构严重塌陷，遗失1枚金鹰装饰和10颗碎钻，4支金棕叶饰脱离底座，其余部分基本完好。卢浮宫博物馆已成立专家委员会负责这件王冠的修复工作，并邀请 Mellerio、Chaumet、Cartier、Boucheron 和 Van Cleef & Arpels 共5家法国珠宝商的工坊负责人一同拟定修复方案。本起失窃案的另外8件遗失法国王室珠宝目前依然下落不明。摄影师：Louvre Museum",
+          "link": "https://m.idai.ly/se/c55hAk",
+          "publishedOn": "2026-02-05T09:51:00.000Z",
+          "wordCount": 276,
+          "title": "卢浮宫被盗王冠修复 - February 5, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/725e24b5/4ce4f70e.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/725e24b5/4ce4f70e.jpg"
+        },
+        {
+          "id": "idaily-245456",
+          "author": "美国 · 纽约",
+          "description": "荷兰画家伦勃朗素描习作《休息中的幼狮》（Young Lion Resting）在拍卖前预展，美国纽约。2月4日，一幅罕见的伦勃朗动物主题素描习作《休息中的幼狮》在纽约苏富比以1786万美元的价格成交，刷新伦勃朗素描作品的最高成交价纪录，成为迄今最贵的伦勃朗纸上作品，拍卖所得将捐赠给野生猫科动物保护组织。这幅素描推测完成于1638至1642年间，尺寸为11.5x15厘米，是现存仅有的6幅伦勃朗狮子素描之一，亦是唯一一幅由私人收藏的伦勃朗动物素描。摄影师：Selcuk Acar",
+          "link": "https://m.idai.ly/se/88dmRd",
+          "publishedOn": "2026-02-05T09:49:00.000Z",
+          "wordCount": 276,
+          "title": "伦勃朗素描习作破纪录成交 - February 5, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/a5803a2b/e7538544.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/a5803a2b/e7538544.jpg"
+        },
         {
           "id": "idaily-245365",
           "author": "美国 · 佛罗里达州",
@@ -6320,6 +6448,16 @@
       "siteUrl": "http://nytimes.com",
       "articles": [
         {
+          "id": "https://cn.nytimes.com/china/20260205/rethinking-shakespeare-in-shanghai/dual",
+          "author": null,
+          "description": "ANDREW HIGGINS2026年2月5日 Gilles Sabrié for The New York Times\nThomas Caron has performed as Hamlet, Macbeth and King Lear, but Othello, the fourth of Shakespeare’s great tragic heroes, was out of reach for the American actor without resorting to blackface — until he got to China.\n托马斯·卡伦曾饰演过哈姆雷特、麦克白与李尔王，但对这位美国演员而言，莎士比亚四大悲剧英雄中的最后一位奥赛罗却始终无法触及，除非采用涂黑脸的办法——直到他来到中国。\n“There was no way I was ever going to play Othello in the United States,” said Mr. Caron, 74. The actor is white and was unlikely, because of racial sensitivities, to play a character Shakespeare described as a “Moor,” early 17th-century English parlance for a dark-skinned foreigner.\n“在美国，我绝无可能出演奥赛罗，”74岁的卡伦说。因种族敏感性考量，这位白人演员很难扮演莎士比亚笔下的“摩尔人”角色——这是17世纪初英语中对深色皮肤外国人的称谓。\nThe bilingual version of the play in which Mr. Caron recently performe…",
+          "link": "https://cn.nytimes.com/china/20260205/rethinking-shakespeare-in-shanghai/dual",
+          "publishedOn": "2026-02-05T08:06:02.000Z",
+          "wordCount": 1482,
+          "title": "在上海，重新思考莎士比亚",
+          "imageUrl": "https://static01.nyt.com/images/2026/01/30/multimedia/00int-china-shakespeare-promo-tvqz/00int-china-shakespeare-promo-tvqz-articleLarge.jpg"
+        },
+        {
           "id": "https://cn.nytimes.com/asia-pacific/20260205/xi-phone-call-taiwan/dual",
           "author": null,
           "description": "ERICA L. GREEN2026年2月5日去年10月，特朗普总统与中国国家主席习近平在韩国会晤。 Haiyun Jiang/The New York Times\nPresident Trump and President Xi Jinping of China had a lengthy phone call on Wednesday during which, Mr. Trump said, the two leaders discussed a wide range of issues — including Iran, the war in Ukraine and soybeans — ahead of Mr. Trump’s visit to China this spring.\n周三，特朗普总统与中国国家主席习近平进行了长时间通话。特朗普将于今年春季访华，他表示两国领导人在通话中就广泛议题进行了讨论，包括伊朗、乌克兰战争以及大豆贸易。\nBut the call, which Mr. Trump enthusiastically described as “excellent” and “long and thorough,” included a warning from Mr. Xi about an issue that Mr. Trump has tiptoed around: the future of Taiwan.\n特朗普在他的社交平台Truth Social上兴奋地称这通电话“非常棒”“时间很长、很充分”，但习近平也就一个特朗普始终刻意回避的问题发出了警告：台湾的未来。\nIn Mr. Trump’s description of the call, posted to his Truth Social account, he listed the…",
@@ -7228,76 +7366,6 @@
           "wordCount": 2796,
           "title": "美国大麻农场背后的纽约华人同乡会“大佬”",
           "imageUrl": "https://static01.nyt.com/images/2025/12/22/multimedia/00ccp-pot-promo-hzkp/00ccp-pot-promo-hzkp-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/world/20260107/looking-ahead-2026-ukraine-middle-east-china/dual",
-          "author": null,
-          "description": "KATRIN BENNHOLD2026年1月7日\nUkraine, the Middle East and China in 2026\n2026年的乌克兰、中东与中国\nAt the end of last year, I asked my colleagues what they expected in 2026 for the regions they cover. I asked them specifically to flag any potential wild cards. Well, the mother of all wild cards was played last weekend. Ripples of the U.S. attack on Venezuela are likely to be felt across the world throughout the year, as I wrote yesterday.\n去年年底，我请驻世界各地的同事展望2026年他们负责区域的可能动向，并特别请他们指出可能存在的意外变数。而在上周末，所有意外变数中最重磅的变数发生了。正如我昨日所写，美国袭击委内瑞拉引发的连锁反应或将贯穿全年并震荡全球。\nBut that doesn’t mean other stories won’t also be important. Will Russia’s war in Ukraine finally end? Will Israel go back to war in Gaza? Will China keep winning — or are there bumps ahead in its competition with the United States? Today my colleagues on the g…",
-          "link": "https://cn.nytimes.com/world/20260107/looking-ahead-2026-ukraine-middle-east-china/dual",
-          "publishedOn": "2026-01-07T04:36:03.000Z",
-          "wordCount": 1349,
-          "title": "展望2026年全球局势：中国、乌克兰和中东会发生什么",
-          "imageUrl": "https://static01.nyt.com/images/2026/01/07/multimedia/07int-theworld-ukraine-top-gtlc/07int-theworld-ukraine-top-gtlc-videoLarge-v2.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/usa/20260107/us-venezuela-cuba-russia-china-iran/dual",
-          "author": null,
-          "description": "JULIAN E. BARNES, 黄安伟, ERIC SCHMITT2026年1月7日美国国务卿鲁比奥周一在国会大厦。他在与国会领导人举行的机密会议上发表了讲话。 Eric Lee for The New York Times\nThe United States is pressuring the interim Venezuelan government to expel official advisers from China, Russia, Cuba and Iran, American officials said.\n美国官员表示，美国政府正向委内瑞拉临时政府施压，要求其驱逐来自中国、俄罗斯、古巴和伊朗的官方顾问。\nMarco Rubio, the secretary of state, listed the Trump administration’s demands to Venezuela’s new leader, Delcy Rodríguez, in a classified meeting on Monday with senior congressional leaders. The U.S. officials, who were granted anonymity because they were not authorized to discuss the matter publicly, said that spies and military personnel from Cuba, Russia, China and Iran would be forced out, while some diplomats would be permitted to stay in Venezuela.\n国务卿鲁比奥在周一与国会高级领导人的机密会议…",
-          "link": "https://cn.nytimes.com/usa/20260107/us-venezuela-cuba-russia-china-iran/dual",
-          "publishedOn": "2026-01-07T03:06:02.000Z",
-          "wordCount": 641,
-          "title": "知情人称美国要求委内瑞拉驱逐中俄等国官方顾问",
-          "imageUrl": "https://static01.nyt.com/images/2026/01/06/multimedia/06us-venezuela-cong-briefing1/06dc-rubio-01-zhcg-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/world/20260107/venezuela-china-trump-taiwan/dual",
-          "author": null,
-          "description": "DAVID PIERSON2026年1月7日中国国家主席习近平与委内瑞拉总统马杜罗于2014年在加拉加斯会晤。 Carlos Garcia Rawlins/Reuters\nJust hours before American commandos seized President Nicolás Maduro of Venezuela in a daring raid, a senior Chinese official had met the Venezuelan leader at the presidential palace, a show of support for one of Beijing’s closest partners in the Western Hemisphere.\n就在美国突击队突袭抓获委内瑞拉总统马杜罗的数小时前，一名中国高级官员刚在总统府与这位委内瑞拉领导人进行了会面，这展现了北京对其在西半球最紧密伙伴之一的支持。\nThe speed with which U.S. forces acted afterward to capture Mr. Maduro sent a blunt message to Beijing about the limits of its influence in a region that Washington treats as its own. China now risks losing ground in Venezuela after Saturday’s assault in Caracas, despite decades of investment and billions of dollars in loans.\n美军随后迅速抓获马杜罗的行动向北京发出了一个明确信号：在这个被华盛顿视为自家后院…",
-          "link": "https://cn.nytimes.com/world/20260107/venezuela-china-trump-taiwan/dual",
-          "publishedOn": "2026-01-07T02:06:01.000Z",
-          "wordCount": 1385,
-          "title": "委内瑞拉事件如何强化习近平在亚洲的权力愿景",
-          "imageUrl": "https://static01.nyt.com/images/2026/01/06/multimedia/06int-china-venezuela-analysis-bhjm/06int-china-venezuela-analysis-bhjm-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/business/20260106/venezuela-oil-china-deal/dual",
-          "author": null,
-          "description": "艾莎2026年1月6日2009年，时任委内瑞拉领导人乌戈·查韦斯访问北京。 Peter Parks/Agence France-Presse — Getty Images\nThe bargain was struck when China was thirsty for oil and Venezuela was hungry for cash. Now, with the ouster of Venezuela’s leader, Nicolás Maduro, the partnership’s future is in question.\n这笔交易是在中国渴求石油而委内瑞拉急需现金之际达成的。如今，随着委内瑞拉领导人尼古拉斯·马杜罗被赶下台，这一伙伴关系的未来充满不确定性。\nIn the early 2000s, China’s economy was expanding at such a voracious pace that it needed more energy to power its growth. Beijing, which imports most of its oil, sent its companies to scour the world to secure access to resources. They found a willing partner in Venezuela, where its leader at the time, Hugo Chávez, was looking to diversify his country’s economic ties away from the United States.\n21世纪初，中国经济以极其迅猛的速度扩张，需要更多能源来支撑增长。高度依赖石油进口的北京政府派遣本国企业在全球…",
-          "link": "https://cn.nytimes.com/business/20260106/venezuela-oil-china-deal/dual",
-          "publishedOn": "2026-01-07T01:06:02.000Z",
-          "wordCount": 1012,
-          "title": "中国和委内瑞拉“以油换贷”伙伴关系面临转折点",
-          "imageUrl": "https://static01.nyt.com/images/2026/01/05/world/05Biz-China-Venezuela-Oil/05Biz-China-Venezuela-Oil-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/business/20260106/china-rare-earths-history/dual",
-          "author": null,
-          "description": "KEITH BRADSHER2026年1月6日 The New York Times\nThe origin of China’s dominance of rare earths can be traced to an iron ore mine near Baotou in the country’s north, 50 miles from the Mongolian border.\n中国稀土主导地位的起源可以追溯到该国北部包头附近的一个铁矿，距离蒙古边境约80公里。\nIt was April 1964 and Chinese geologists had discovered that the mine also held the world’s largest deposit of rare earths, a set of 17 metals that have become essential ingredients for today’s global economy. Deng Xiaoping, then a high-ranking Chinese Communist Party official, visited the remote desert mine, owned by a military steel maker, to inspect the massive cache.\n那是1964年四月，中国地质学家发现，这座矿藏中还拥有世界上最大的稀土矿床，这种由17种金属组成的矿物如今已成为全球经济的重要组成部分。当时身为中国共产党高级官员的邓小平前往由军工钢铁企业拥有的偏远沙漠矿山，视察这座巨大的矿藏。\n“We need to develop steel, and we also need to develop rare earths,” dec…",
-          "link": "https://cn.nytimes.com/business/20260106/china-rare-earths-history/dual",
-          "publishedOn": "2026-01-07T01:06:02.000Z",
-          "wordCount": 2151,
-          "title": "中国稀土霸权之路：历经六十年规划，最高层直接发出指示",
-          "imageUrl": "https://static01.nyt.com/images/2025/12/27/multimedia/China-Longgame-Videostill-lmkj/China-Longgame-Videostill-lmkj-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/world/20260106/trump-venezuela-china-russia/dual",
-          "author": null,
-          "description": "ANTON TROIANOVSKI2026年1月6日去年5月，中国国家主席习近平与俄罗斯总统弗拉基米尔·普京在克里姆林宫。中国和俄罗斯都与尼古拉斯·马杜罗关系密切。 Pool photo by Evgenia Novozhenina\nAfter attacking Venezuela and seizing its head of state, President Trump said on Saturday that the country had been “hosting foreign adversaries” and asserted that “American dominance in the Western Hemisphere will never be questioned again.”\n在袭击委内瑞拉并抓捕其国家元首之后，特朗普总统上周六称委内瑞拉“接纳外国敌对势力”，并宣称“美国在西半球的主导地位将再也不会受到质疑”。\nHis remarks appeared to be a broadside against Russia and China, which both built close ties to Nicolás Maduro, the captured Venezuelan leader. But in fact, there was also plenty in Mr. Trump’s words and deeds that Beijing and Moscow could get behind.\n此番言论看似剑指俄罗斯和中国——这两个国家都与被俘的委内瑞拉领导人尼古拉斯·马杜罗建立了密切关系。但实际上，特朗普的言行中亦有不少能让北京与莫斯科能够赞同的。\nMr. Trump’s stunning assault on Venezue…",
-          "link": "https://cn.nytimes.com/world/20260106/trump-venezuela-china-russia/dual",
-          "publishedOn": "2026-01-07T01:06:02.000Z",
-          "wordCount": 1418,
-          "title": "特朗普为侵略“背书”？美国抓捕马杜罗令中俄看到机遇",
-          "imageUrl": "https://static01.nyt.com/images/2026/01/05/multimedia/05dc-prexy-top-gkwh/05dc-prexy-top-gkwh-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/china/20260106/venezuela-china-maduro/dual",
-          "author": null,
-          "description": "袁莉2026年1月6日马杜罗的支持者聚集在总统府附近，要求释放他。 The New York Times\nWhen U.S. forces captured Venezuela’s president, Nicolás Maduro, Chinese social media lit up.\n当美国军队抓获委内瑞拉总统马杜罗时，中国的社交媒体上一片哗然。\nPeople with nationalist views asked: Why can’t Beijing do the same in Taiwan and arrest its president?\n持民族主义观点的人质问：北京为何不能在台湾采取同样行动逮捕其总统？\nOn the other side of the political spectrum, people cheered the downfall of a dictator. Trying to avoid censors when criticizing China’s leader, Xi Jinping, they invoked the title of a pop song, “Too bad it’s not you.”\n政治光谱另一端的民众欢呼独裁者的垮台。为规避审查而批评中国领导人习近平时，他们援引流行歌曲标题《可惜不是你》。\nWithin hours, the discourse online became a proxy debate over China’s power, its limits and its future. For nationalist Chinese, the U.S. military operation had exposed American lawlessness and frustrations in…",
-          "link": "https://cn.nytimes.com/china/20260106/venezuela-china-maduro/dual",
-          "publishedOn": "2026-01-07T01:06:02.000Z",
-          "wordCount": 1297,
-          "title": "中国人如何看待美国抓捕马杜罗？",
-          "imageUrl": "https://static01.nyt.com/images/2026/01/06/multimedia/05Biz-Newworld-Venezuela-01-wfhb/05Biz-Newworld-Venezuela-01-wfhb-articleLarge.jpg"
         }
       ]
     },
