@@ -6,6 +6,16 @@
       "siteUrl": "https://rweekly.org/atom.xml",
       "articles": [
         {
+          "id": "https://rweekly.org/2026-W07.html",
+          "author": null,
+          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Eric Nantz, with help from the R Weekly team members and contributors.\nHighlight\nWhy Every R Package Wrapping External Tools Needs a sitrep() Function\nwebRios - R on iOS through webR\nJarl 0.4.0: A fast R linter\nInsights\nJarl 0.4.0: A fast R linter\nsecretbase: The hash package smaller than most hex stickers\nPaleontology R Packages to Benefit from Software Sustainability Institute Grant\nAnnouncing New Statistical Software Peer Review Editors: Natalia da Silva and Andrew Heiss\nWhy Every R Package Wrapping External Tools Needs a sitrep() Function\nA roguelike-like with tyle\nAnnouncing the Positron Notebook Editor for Jupyter Notebooks\nFifty Releases of Pointblank: a Year of Build…",
+          "link": "https://rweekly.org/2026-W07.html",
+          "publishedOn": "2026-02-09T00:00:00.000Z",
+          "wordCount": 6977,
+          "title": "R Weekly 2026-W07 sitrep, webRios, Jarl linter",
+          "imageUrl": "https://rweekly.org/public/facebook.png"
+        },
+        {
           "id": "https://rweekly.org/2026-W06.html",
           "author": null,
           "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Jonathan Carroll, with help from the R Weekly team members and contributors.\nHighlight\nThe Test Set Pod - Column selectors, data quality, and learning in public (Episode link)\nGit & GitHub: Practical Version Control for Data Work\ndplyr comes to duckdb\nInsights\nnycOpenData: A unified R interface to NYC Open Data APIs\nParallel strands between learning crochet and learning programming\nVariable Fonts in R Graphics\n\nrOpenSci News Digest, January 2026\nHow to Recruit a New Maintainer for Your Package\nDebugging Sensitivity to C math library on Linux\nThe Test Set Pod - Column selectors, data quality, and learning in public (Episode link)\ndplyr comes to duckdb\nAI Newsletter 2026-01-30…",
@@ -64,6 +74,26 @@
       "feedUrl": "https://www.nationalreview.com/feed/",
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
+        {
+          "id": "https://www.nationalreview.com/?p=1918326",
+          "author": "The Editors",
+          "description": "The Trump administration should step up political pressure on Starmer to change course.",
+          "link": "https://www.nationalreview.com/2026/02/the-best-chagos-deal-is-no-deal/",
+          "publishedOn": "2026-02-09T11:30:57.000Z",
+          "wordCount": 6737,
+          "title": "The Best Chagos Deal Is No Deal",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/02/b-52-diego-garcia.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1918167",
+          "author": "Andrew C. McCarthy",
+          "description": "When Trump won the 2024 election, Tahnoon saw his opportunity to influence the U.S. government.",
+          "link": "https://www.nationalreview.com/2026/02/how-sheikh-tahnoon-bought-the-uaes-way-into-trump-world/",
+          "publishedOn": "2026-02-09T11:30:29.000Z",
+          "wordCount": 7036,
+          "title": "How Sheikh Tahnoon Bought the UAE’s Way into Trump World",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/02/sheikh-tahnoon.jpg?fit=2057%2C1200&ssl=1"
+        },
         {
           "id": "https://www.nationalreview.com/?p=1918024",
           "author": "Edward Longe",
@@ -2022,6 +2052,16 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/106250",
+          "author": "少数派编辑部",
+          "description": ">下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文",
+          "link": "https://sspai.com/post/106250",
+          "publishedOn": "2026-02-09T10:07:06.000Z",
+          "wordCount": 586,
+          "title": "派评 | 近期值得关注的 App",
+          "imageUrl": null
+        },
+        {
           "id": "https://sspai.com/post/106213",
           "author": "少数派编辑部",
           "description": "分享那些好吃、好看、好用的年货好物，欢迎晒出你的春节心选！查看全文",
@@ -3008,6 +3048,118 @@
       "feedUrl": "https://plink.anyfeeder.com/idaily/today",
       "siteUrl": "https://idai.ly",
       "articles": [
+        {
+          "id": "idaily-245711",
+          "author": "美国 · 纽约",
+          "description": "纽约市民在积雪的布鲁克林滨海步道上散步，美国。2月7日，美国国家气象局向纽约市发布20年来首个「极端寒潮预警」，风寒效应导致市区体感温度最低降至-30℃，预计未来一周最低气温仍将维持在0℃以下。纽约警方通报称2026年迄今该市已有17人在户外死亡，其中13人死因与低温症有关。纽约市政府已在全市设置60个避寒中心安置无家可归者。纽约是美国无家可归者最多的城市，约有超过15万人无固定住所。摄影师：Spencer Platt",
+          "link": "https://m.idai.ly/se/50a7F7",
+          "publishedOn": "2026-02-09T10:39:00.000Z",
+          "wordCount": 251,
+          "title": "纽约极端寒潮预警 - February 9, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/94cd8288/3e431a93.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/94cd8288/3e431a93.jpg"
+        },
+        {
+          "id": "idaily-245710",
+          "author": "日本 · 东京",
+          "description": "日本首相、执政党自民党总裁高市早苗在竞选总部确认当选议员名单，东京。2月9日，日本第51届众议院选举结果公布，现任执政党「自民党」赢得465个众议院席位中的316席，成为日本二战后首个获得众议院三分之二以上绝对多数席位的单一政党，这意味着自民党已拥有修宪所需的议会席位。最大在野党「中道改革联合党」仅获得49席，席位数大幅减少118席。现年64岁的高市早苗预计将在2月中旬召开的特别国会会议上连任首相。受日本大选结果影响，日经指数早盘一度上涨超过5%，首次突破57000点大关。摄影师：Kim Kyung-Hoon",
+          "link": "https://m.idai.ly/se/3e3b5i",
+          "publishedOn": "2026-02-09T09:58:00.000Z",
+          "wordCount": 251,
+          "title": "日本自民党压倒性胜选 - February 9, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/7c350a14/0fbe5a77.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/7c350a14/0fbe5a77.jpg"
+        },
+        {
+          "id": "idaily-245709",
+          "author": "泰国 · 曼谷",
+          "description": "泰国总理、执政党「自豪泰党」党首 Anutin Charnvirakul 在大选投票结束后出席记者会，曼谷。2月8日，泰国大选初步计票结果显示执政党「自豪泰党」获得众议院500个席位中的192席，较上届选举增长一倍，成为国会第一大党。反对党「人民党」以118席位列第二，前总理他信家族支持的「为泰党」以74席暂列第三。正式计票结果将在4月9日前公布。这是本世纪以来泰国保皇派政党首次在选举中获胜。摄影师：Narong Sangnak",
+          "link": "https://m.idai.ly/se/6adAQ2",
+          "publishedOn": "2026-02-09T08:57:00.000Z",
+          "wordCount": null,
+          "title": "泰国保皇派赢得大选 - February 9, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/3f6fa9c9/7c798afe.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/3f6fa9c9/7c798afe.jpg"
+        },
+        {
+          "id": "idaily-245708",
+          "author": "马来西亚 · 布城",
+          "description": "印度总理 Narendra Modi 与马来西亚总理 Anwar Ibrahim 举行会晤，布城。2月8日，印度总理 Modi 应邀对马来西亚进行为期2天正式访问，两国领导人就印马关系、经贸合作、国际及地区局势等议题交换意见，见证签署11份谅解备忘录和合作文件。双方会后发表联合声明，同意加强贸易便利化和本币结算，扩大能源、半导体、数字经济、国防安全等领域合作。印度是马来西亚在南亚的最大贸易伙伴，2025年两国双边贸易额达794.9亿令吉（约合200亿美元）。摄影师：Hasnoor Hussain",
+          "link": "https://m.idai.ly/se/85dOiw",
+          "publishedOn": "2026-02-09T08:55:00.000Z",
+          "wordCount": 251,
+          "title": "印度总理访问马来西亚 - February 9, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/d6c8d6a4/b26bf766.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/d6c8d6a4/b26bf766.jpg"
+        },
+        {
+          "id": "idaily-245706",
+          "author": "加沙地带 · 汗尤尼斯",
+          "description": "加沙儿童在受损的教室内上课，汗尤尼斯。2月7日，联合国儿童基金会警告称，2025年10月加沙停火迄今已有至少100名儿童在以色列袭击中遇难，死因包括空袭、无人机袭击、坦克炮击及中弹，其中约60名为男孩，约40名为女孩。加沙地带超过90%的学校遭到以色列军队破坏或摧毁，逾70万名学龄儿童被迫中断学业。联合国儿童基金会已在加沙地带设立超过110个学习场所为约13.5万名儿童提供教育，并计划2026年内帮助33.6万名加沙儿童重返课堂。摄影师：Adam Bilal",
+          "link": "https://m.idai.ly/se/620KN6",
+          "publishedOn": "2026-02-09T08:53:00.000Z",
+          "wordCount": 251,
+          "title": "加沙70万儿童失学 - February 9, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/de3b15b1/f3f5c46d.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/de3b15b1/f3f5c46d.jpg"
+        },
+        {
+          "id": "idaily-245705",
+          "author": "英国 · 沃尔索尔",
+          "description": "第38届英国什罗普郡锦标赛猫展，一只蓝白波斯猫（Persian cat）获得「全场最佳」（Best In Show）荣誉，沃尔索尔。2月7日，2026年什罗普郡赛级猫展在布洛克斯威奇中心举行，这是英国猫咪管理委员会（GCCF）认证的专业猫咪选美赛事，每年2月第一个周六举行，比赛分为成年组、幼猫组、绝育组等类别。国际爱猫联合会（CFA）报告显示2025年全球最受欢迎的五个纯种猫品种分别是缅因猫、布偶猫、波斯猫、异国短毛猫、德文卷毛猫。摄影师：Shirlaine Forrest",
+          "link": "https://m.idai.ly/se/ebbrA4",
+          "publishedOn": "2026-02-09T08:51:00.000Z",
+          "wordCount": null,
+          "title": "英国猫咪选美比赛 - February 9, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/695fccbb/13dbcd0e.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/695fccbb/13dbcd0e.jpg"
+        },
+        {
+          "id": "idaily-245704",
+          "author": "智利 · 阿尔加罗沃",
+          "description": "一只塞鲸在智利阿尔加罗沃海岸搁浅死亡。这只成年雄性塞鲸于2月3日在阿尔加罗沃海滩被发现，体长约15米，当地海事部门将对其进行尸检以确定死因。塞鲸是仅次于蓝鲸与长须鲸的世界第三大须鲸，成年体长可达20米，体重超过20吨。该物种曾在19至20世纪因人类商业捕鲸活动扩张而大幅减少，现存仅约8万只，已被列为濒危物种。摄影师：Lucas Aguayo Araos",
+          "link": "https://m.idai.ly/se/77a54D",
+          "publishedOn": "2026-02-09T08:49:00.000Z",
+          "wordCount": 251,
+          "title": "智利海滩搁浅塞鲸 - February 9, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/318e5bf0/4006ea18.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/318e5bf0/4006ea18.jpg"
+        },
+        {
+          "id": "idaily-245703",
+          "author": "南极洲 · 马蹄岛",
+          "description": "土耳其国家南极科考队在马蹄岛拍摄的野生海豹，南极洲。2月8日，土耳其国家南极科考队抵达南极洲马蹄岛开展第10次考察任务。本次科考队由来自土耳其和保加利亚的17名研究人员组成，计划在1个月内开展14项科学研究，涵盖生命科学、物理科学、地球科学和环境研究等领域。NASA 卫星数据显示2025年9月南极冬季海冰峰值面积为1781万平方公里，比往年平均值减少约90万平方公里，创有记录以来第三低。摄影师：Sebnem Coskun",
+          "link": "https://m.idai.ly/se/1b4fHI",
+          "publishedOn": "2026-02-09T08:47:00.000Z",
+          "wordCount": 251,
+          "title": "土耳其第10次南极科考 - February 9, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/05bb40d3/d7643110.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/05bb40d3/d7643110.jpg"
+        },
         {
           "id": "idaily-245608",
           "author": "地球",
@@ -6236,6 +6388,16 @@
       "siteUrl": "http://nytimes.com",
       "articles": [
         {
+          "id": "https://cn.nytimes.com/opinion/20260209/trump-obama-apes-post-video/dual",
+          "author": null,
+          "description": "MAUREEN DOWD2026年2月9日 Kenny Holston/The New York Times\nIt seems etymologically, metaphysically, geologically and ethically impossible that President Trump could reach a new low. But he has.\n纵究词源学、形而上学、地质学与伦理学，特朗普总统似乎不可能再刷新下限。但他确实做到了。\nEvery Friday, when I’m planning my column, I find fresh evidence that the president is unfit for his office. He taunts his foes in crude, creepy ways and tries to tattoo his name on everything.\n每周五构思专栏时，我都能发现新的证据，表明这位总统不称其职。他以粗鄙、令人不适的方式嘲弄对手，而且还想处处留名。\nLate Thursday night, a vile clip appeared on Truth Social, depicting Barack and Michelle Obama as apes in a jungle cartoon, to the Tokens’ “The Lion Sleeps Tonight.” It was at the end of a video filled with baseless conspiracy theories about the 2020 election. The man who pushed the despicable “birther” conspiracy…",
+          "link": "https://cn.nytimes.com/opinion/20260209/trump-obama-apes-post-video/dual",
+          "publishedOn": "2026-02-09T08:36:02.000Z",
+          "wordCount": 1195,
+          "title": "特朗普再一次刷新了下限",
+          "imageUrl": "https://static01.nyt.com/images/2026/02/07/multimedia/07dowd-pwft/07dowd-pwft-articleLarge.jpg"
+        },
+        {
           "id": "https://cn.nytimes.com/asia-pacific/20260209/thailand-election-opposition-conservatives/dual",
           "author": null,
           "description": "黄瑞黎2026年2月9日保守派泰自豪党阿努廷·参威拉恭周日在曼谷。 Lauren Decicca/Getty Images\nIt boiled down to a choice between two starkly different visions of Thailand’s future: one dominated by nationalism, respect for the monarchy and defense of the status quo, the other by promises of change and true democracy.\n这场选举归根结底是在两种截然不同的泰国未来愿景之间作出抉择：一种以民族主义、尊崇君主制和维护现状为主导，另一种则承诺变革与真正的民主。\nIn a surprising outcome that analysts say reflected in part the growing unpredictability in global affairs, it was the nationalist vision that prevailed in Sunday’s election. With 89 percent of the vote counted, Bhumjaithai, the party seen as the standard-bearer for the conservative-royalist establishment, won 194 seats in the 500-seat House of Representatives, besting the progressive People’s Party, which came in second with 115 seats, acco…",
@@ -7520,26 +7682,6 @@
           "publishedOn": "2026-01-12T02:13:00.000Z",
           "wordCount": 301,
           "title": "丹尼尔·丹尼特：真正的解谜者拒绝成为赌徒",
-          "imageUrl": null
-        },
-        {
-          "id": "b461034222ab5406c3df6749dcf674e2",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E3%80%8A%E5%8F%91%E6%98%8E%E5%9B%BD%E9%99%85%E7%A7%A9%E5%BA%8F%E3%80%8B%EF%BC%9A%E5%9B%BD%E9%99%85%E7%A7%A9%E5%BA%8F%E6%98%AF%E5%A6%82%E4%BD%95%E5%BB%BA%E6%9E%84%E7%9A%84%EF%BC%9F",
-          "publishedOn": "2026-01-11T03:14:00.000Z",
-          "wordCount": 263,
-          "title": "《发明国际秩序》：国际秩序是如何建构的？",
-          "imageUrl": null
-        },
-        {
-          "id": "010f0de72b86c44b7f0c4eb1c95c6cd1",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E6%98%86%E4%BB%91%E6%9C%89%E4%BB%80%E4%B9%88%E5%A5%BD%EF%BC%8C%E8%AE%A9%E7%A5%9E%E4%BB%99%E9%83%BD%E6%8A%A2%E7%9D%80%E8%90%BD%E6%88%B7%E5%A4%A7%E8%A5%BF%E5%8C%97%EF%BC%9F",
-          "publishedOn": "2026-01-11T03:14:00.000Z",
-          "wordCount": 310,
-          "title": "昆仑有什么好，让神仙都抢着落户大西北？",
           "imageUrl": null
         }
       ]
