@@ -75,6 +75,36 @@
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
         {
+          "id": "https://www.nationalreview.com/?p=1918653",
+          "author": "John Fund",
+          "description": "It’s time for Washington State’s voters to wake up to the dangers that progressive lawmakers pose.",
+          "link": "https://www.nationalreview.com/2026/02/seattle-won-the-super-bowl-but-its-economy-has-gone-from-boom-to-gloom/",
+          "publishedOn": "2026-02-09T22:45:17.000Z",
+          "wordCount": 6257,
+          "title": "Seattle Won the Super Bowl, but Its Economy Has Gone from Boom to Gloom",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/02/seattle-downtown.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1918641",
+          "author": "Noah Rothman",
+          "description": "We must be able to call domestic political terrorism by its proper name.",
+          "link": "https://www.nationalreview.com/2026/02/is-motiveless-political-violence-really-on-the-rise/",
+          "publishedOn": "2026-02-09T21:58:50.000Z",
+          "wordCount": 7687,
+          "title": "Is Motiveless Political Violence Really on the Rise?",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2025/09/luigi-mangione-1.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1918519",
+          "author": "Elisha Maldonado",
+          "description": "In the wake of Jimmy Lai’s sentencing, the U.S. must stand up for democratic values.",
+          "link": "https://www.nationalreview.com/2026/02/a-hong-kong-tragedy-and-a-test-for-the-u-s/",
+          "publishedOn": "2026-02-09T18:05:53.000Z",
+          "wordCount": 6454,
+          "title": "A Hong Kong Tragedy — and a Test for the U.S.",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/01/jimmy-lai-2020.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
           "id": "https://www.nationalreview.com/?p=1918326",
           "author": "The Editors",
           "description": "The Trump administration should step up political pressure on Starmer to change course.",
@@ -1993,56 +2023,6 @@
           "wordCount": 6413,
           "title": "Proceed with Caution on Venezuelan Oil",
           "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/01/trump-oil-industry-executives.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1909565",
-          "author": "Benjamin Zycher",
-          "description": "Expect the Trump administration to act to protect U.S. oil producers from downward price pressures, instead of letting the free market work.",
-          "link": "https://www.nationalreview.com/2026/01/how-will-prospective-venezuelan-oil-production-affect-the-u-s-petroleum-market/",
-          "publishedOn": "2026-01-11T11:30:58.000Z",
-          "wordCount": 6898,
-          "title": "How Will Prospective Venezuelan Oil Production Affect the U.S. Petroleum Market?",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/01/venezuela-oil-refinery.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1909573",
-          "author": "Becket Adams",
-          "description": "It was all a myth, peddled by the Democratic apparatus and the media.",
-          "link": "https://www.nationalreview.com/2026/01/the-affable-coach-walz-never-existed/",
-          "publishedOn": "2026-01-11T11:30:40.000Z",
-          "wordCount": 6765,
-          "title": "The ‘Affable’ Coach Walz Never Existed",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/01/tim-walz-6.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1909326",
-          "author": "John Gustavsson",
-          "description": "To recover, Venezuela needs its people back. Will they return?",
-          "link": "https://www.nationalreview.com/2026/01/why-venezuela-needs-repatriation/",
-          "publishedOn": "2026-01-11T11:30:39.000Z",
-          "wordCount": 7259,
-          "title": "Why Venezuela Needs Repatriation",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/01/venezuela.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1908910",
-          "author": "Guy Denton",
-          "description": "Introducing the latest in a dangerous line of counterfeit alternatives to true connection.",
-          "link": "https://www.nationalreview.com/2026/01/ai-friends-are-no-cure-for-loneliness/",
-          "publishedOn": "2026-01-11T11:30:23.000Z",
-          "wordCount": 16468,
-          "title": "AI ‘Friends’ Are No Cure for Loneliness",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/01/ai-friend.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1909589",
-          "author": "Sarah Schutte",
-          "description": "Satire and small-town charm can get you through the cold winter months.",
-          "link": "https://www.nationalreview.com/2026/01/a-month-in-literary-britain/",
-          "publishedOn": "2026-01-11T11:30:06.000Z",
-          "wordCount": 6665,
-          "title": "A Month in Literary Britain",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/01/english-countryside.jpg?fit=2057%2C1200&ssl=1"
         }
       ]
     },
@@ -2051,6 +2031,26 @@
       "feedUrl": "https://sspai.com/feed",
       "siteUrl": "https://sspai.com",
       "articles": [
+        {
+          "id": "https://sspai.com/post/105791",
+          "author": "乔淼",
+          "description": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
+          "link": "https://sspai.com/post/105791",
+          "publishedOn": "2026-02-10T03:10:43.000Z",
+          "wordCount": 770,
+          "title": "不只是健康指标：也试试用 HRV 指导自己的健身计划",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sspai.com/post/106265",
+          "author": "少数派编辑部",
+          "description": "Discord 将默认为账号开启未成年人模式，Linux Kernel 6.19 正式版发布等。查看全文",
+          "link": "https://sspai.com/post/106265",
+          "publishedOn": "2026-02-10T00:30:20.000Z",
+          "wordCount": 516,
+          "title": "派早报：天涯社区宣布回归等",
+          "imageUrl": null
+        },
         {
           "id": "https://sspai.com/post/106250",
           "author": "少数派编辑部",
@@ -3029,16 +3029,6 @@
           "publishedOn": "2026-01-12T00:38:24.000Z",
           "wordCount": 537,
           "title": "派早报：国务院开展外卖市场竞争调查评估",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sspai.com/post/105364",
-          "author": "宛潼",
-          "description": "都说天马行空的想象和不被理解的抽象之间，有一条细红线。查看全文",
-          "link": "https://sspai.com/post/105364",
-          "publishedOn": "2026-01-11T13:50:55.000Z",
-          "wordCount": 647,
-          "title": "CES 2026 盘点：你可能错过的新奇花活",
           "imageUrl": null
         }
       ]
@@ -6295,90 +6285,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://pic.yupoo.com/fotomag/d157d471/98f866dc.jpg"
-        },
-        {
-          "id": "idaily-243728",
-          "author": "俄罗斯 · 莫斯科",
-          "description": "人们在雪中游览红场，莫斯科。1月9日，俄罗斯首都莫斯科遭遇56年来最强降雪天气，24小时降雪量达22毫米，相当于月平均降雪量的42%，部分地区积雪深度达到64厘米。莫斯科周边四座主要机场至少313个航班延误或取消，其中谢列梅捷沃国际机场单日清理积雪量超过100万立方米。莫斯科市政府已出动13万人和1.5万台设备参与除雪工作。摄影师：Ramil Sitdikov",
-          "link": "https://m.idai.ly/se/78cBuY",
-          "publishedOn": "2026-01-11T08:59:00.000Z",
-          "wordCount": 259,
-          "title": "莫斯科56年最强降雪 - January 11, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/d9532e77/5ed86252.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/d9532e77/5ed86252.jpg"
-        },
-        {
-          "id": "idaily-243727",
-          "author": "美国 · 华盛顿特区",
-          "description": "美国总统 Donald Trump 与美国主要石油企业高管举行会谈，华盛顿白宫。1月9日，美国总统 Trump 邀请雪佛龙、埃克森美孚、康菲、壳牌等17家美国大型石油企业高管在白宫举行会谈，他现场提议美国石油企业投资1000亿美元以重建委内瑞拉境内的产油设施，并承诺为这些公司在委内瑞拉运营提供安全保障。委内瑞拉拥有世界最大的已探明石油储量，占全球比例约20%，但因长期管理不善、投资不足和美国制裁影响，日产量仅约100万桶，供应量占全球不到1%。摄影师：Bonnie Cash",
-          "link": "https://m.idai.ly/se/c2d4Ps",
-          "publishedOn": "2026-01-11T07:59:00.000Z",
-          "wordCount": 259,
-          "title": "特朗普要求美国油企投资委内瑞拉 - January 11, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/31cb1c62/43922751.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/31cb1c62/43922751.jpg"
-        },
-        {
-          "id": "idaily-243726",
-          "author": "韩国 · 江原道",
-          "description": "韩国江原道举行2026年华川山鳟鱼庆典，游客们在结冰的华川河面上垂钓。1月10日，韩国一年一度的「华川山鳟鱼庆典」正式开幕，主办方共在华川河投放150吨鳟鱼供游客垂钓，首日吸引超过6.5万人参与。本年度庆典会场总面积达30万平方米，相当于40个标准足球场，现场设置冰上垂钓、冰上雪橇、溜冰、雪雕展、室内冰雕展等活动。本届「华川山鳟鱼庆典」将持续至2月1日，预计吸引超过100万名游客。摄影师：Jeon Heon-Kyun",
-          "link": "https://m.idai.ly/se/4495sP",
-          "publishedOn": "2026-01-11T07:57:00.000Z",
-          "wordCount": 259,
-          "title": "韩国华川山鳟鱼庆典 - January 11, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/9e4deb7a/3902b253.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/9e4deb7a/3902b253.jpg"
-        },
-        {
-          "id": "idaily-243723",
-          "author": "比利时 · 布鲁塞尔",
-          "description": "2026年布鲁塞尔车展（Brussels Motor Show）期间，法国布加迪公司展示一辆「陀飞轮」（Tourbillon）插电式混合动力超级跑车，比利时。1月9日，第102届布鲁塞尔车展正式开幕，本年度共有来自全球67个汽车品牌参展，品牌数量创历史纪录，展区面积达6万平方米，展期持续至1月18日，预计将吸引30万参观者。欧洲汽车制造商协会（ACEA）数据显示，2025年前11个月欧盟新车注册量同比增长1.4%至986万辆，其中纯电动汽车占比16.9%，混合动力汽车占比34.6%，汽油和柴油汽车合计占比为36.1%。摄影师：Olivier Matthys",
-          "link": "https://m.idai.ly/se/c12BbZ",
-          "publishedOn": "2026-01-11T07:55:00.000Z",
-          "wordCount": 259,
-          "title": "第102届布鲁塞尔车展 - January 11, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/e9383e08/d30831cd.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/e9383e08/d30831cd.jpg"
-        },
-        {
-          "id": "idaily-243722",
-          "author": "缅甸 · 仰光",
-          "description": "缅甸选举委员会工作人员正在安装第二阶段投票使用的电子投票机，仰光。1月11日，缅甸全国大选第二阶段投票在全国100个乡镇启动，投票时间从上午6时开始持续至下午4时结束。缅甸本届大选共有来自57个政党逾4800名候选人参加，第一阶段投票结果显示军方支持的缅甸第一大政党「联邦巩固与发展党」取得压倒性胜利，赢得联邦议会89%下议院席位、68%上议院席位以及80%地方议会席位。摄影师：Nyein Chan Naing",
-          "link": "https://m.idai.ly/se/2e65Pa",
-          "publishedOn": "2026-01-11T07:53:00.000Z",
-          "wordCount": 259,
-          "title": "缅甸大选第二阶段投票 - January 11, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/f61f78d5/c1317bd5.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/f61f78d5/c1317bd5.jpg"
-        },
-        {
-          "id": "idaily-243721",
-          "author": "马来西亚 · 雪兰莪州",
-          "description": "马来西亚国家动物园，旅马雌性大熊猫「晓月」首次亮相，雪兰莪州。1月10日，新一对旅居马来西亚的大熊猫「辰星」和「晓月」结束检疫隔离期，正式与当地公众见面。马来西亚总理 Anwar Ibrahim 当天亲赴国家动物园探访这对大熊猫。马来西亚国家动物园熊猫馆目前实施限流参观制度，每次限50名游客进入参观10分钟。这2只大熊猫均出生于2020年，预计将在马来西亚旅居至2035年。摄影师：Chen Yue",
-          "link": "https://m.idai.ly/se/22fuNN",
-          "publishedOn": "2026-01-11T07:51:00.000Z",
-          "wordCount": 259,
-          "title": "旅马大熊猫正式亮相 - January 11, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/adedafe3/66fcf732.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/adedafe3/66fcf732.jpg"
         }
       ]
     },
@@ -6387,6 +6293,36 @@
       "feedUrl": "https://plink.anyfeeder.com/nytimes/dual",
       "siteUrl": "http://nytimes.com",
       "articles": [
+        {
+          "id": "https://cn.nytimes.com/world/20260210/trump-nuclear-arms-underground-tests/dual",
+          "author": null,
+          "description": "DAVID E. SANGER, WILLIAM J. BROAD2026年2月10日1955年在内华达试验场尤卡平原附近进行的地下核试验。美国最后一次核武器爆炸试验是在1992年。 U.S. Atomic Energy Commission, via Associated Press\nIn the five days since the last remaining nuclear treaty between the United States and Russia expired, statements by administration officials have made two things clear: Washington is actively weighing the deployment of more nuclear weapons, and it is also likely to conduct a nuclear test of some kind.\n美俄间最后一份核军控条约失效后的五天里，美国政府官员的表态已明确释放出两大信号：华盛顿正积极考虑部署更多核武器，且很可能进行某种形式的核试验。\nBoth steps would reverse nearly 40 years of stricter nuclear control by the United States, which has reduced or kept steady the number of weapons it has loaded into silos, bombers and submarines. President Trump would be the first president since Ronald Reagan to increase them ag…",
+          "link": "https://cn.nytimes.com/world/20260210/trump-nuclear-arms-underground-tests/dual",
+          "publishedOn": "2026-02-10T05:36:02.000Z",
+          "wordCount": 1287,
+          "title": "核军控条约失效，特朗普考虑部署更多核武器",
+          "imageUrl": "https://static01.nyt.com/images/2026/02/09/multimedia/09dc-nukes-photo-wbht/09dc-nukes-photo-wbht-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/asia-pacific/20260210/japan-election-takaichi-analysis/dual",
+          "author": null,
+          "description": "赫海威2026年2月10日周一，日本首相高市早苗在东京举行的记者会上。 Pool photo by Franck Robichon\nLast summer, Japan’s long-dominant political force, the Liberal Democratic Party, faced a crisis. Plagued by scandal, it had suffered a series of electoral defeats so devastating that its leader, Japan’s prime minister, was forced to resign.\n去年夏天，日本长期执政的政治力量自民党陷入危机。受丑闻困扰，该党接连遭遇毁灭性的选举失利，时任党魁兼日本首相被迫辞职。\nThen, just as the political obituaries were being written, the Liberal Democrats found a savior: Sanae Takaichi, a veteran conservative lawmaker who in October became the first woman to serve as Japan’s prime minister.\n就在政治讣告即将写成之际，该党迎来了救星：资深保守派议员高市早苗。她于去年10月成为日本首位女性首相。\nMs. Takaichi, 64, spoke plainly and energetically — sometimes with Trumpian flourishes — about immigration, taxes and the high cost of living. She had a knack fo…",
+          "link": "https://cn.nytimes.com/asia-pacific/20260210/japan-election-takaichi-analysis/dual",
+          "publishedOn": "2026-02-10T03:06:03.000Z",
+          "wordCount": 1192,
+          "title": "从危机中挽救自民党，高市早苗是如何做到的",
+          "imageUrl": "https://static01.nyt.com/images/2026/02/09/multimedia/09int-japan-analysis-jbmv/09int-japan-analysis-jbmv-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/china/20260210/jimmy-lai-sentence-analysis/dual",
+          "author": null,
+          "description": "DAVID PIERSON2026年2月10日2020年，黎智英在香港家中。 Lam Yik Fei for The New York Times\nFor decades, Jimmy Lai, the media mogul, used his wealth and his newsroom in Hong Kong to criticize Beijing’s authoritarian excesses and give voice to those who hoped for democracy in China.\n几十年来，媒体大亨黎智英一直利用自己的财富以及在香港掌控的新闻机构批评北京的威权暴行，并为那些希望中国实现民主的人士发声。\nOn Monday, as a court in Hong Kong sentenced him to 20 years in prison, the city made clear that defiance now carries the same price as it does across the border.\n周一，香港一家法院判处他20年监禁，这座城市清楚地表明，如今在这里违抗政府所要付出的代价，已与中国内地别无二致。\nThe landmark ruling completes a yearslong effort by Beijing to dismantle the influence of a self-proclaimed “troublemaker” whom it blamed for masterminding Hong Kong’s pro-democracy protests nearly seven years ago. Critics say Beijing declared Mr. Lai g…",
+          "link": "https://cn.nytimes.com/china/20260210/jimmy-lai-sentence-analysis/dual",
+          "publishedOn": "2026-02-10T01:36:02.000Z",
+          "wordCount": 1470,
+          "title": "黎智英获刑20年，北京加速侵蚀香港自由",
+          "imageUrl": "https://static01.nyt.com/images/2026/02/10/multimedia/00int-hong-kong-lai-sentence-HFO-gqpc/00int-hong-kong-lai-sentence-HFO-gqpc-articleLarge.jpg"
+        },
         {
           "id": "https://cn.nytimes.com/opinion/20260209/trump-obama-apes-post-video/dual",
           "author": null,
