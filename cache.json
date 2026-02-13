@@ -65,6 +65,16 @@
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
         {
+          "id": "https://www.nationalreview.com/?p=1919679",
+          "author": "Andrew Stuttaford",
+          "description": "Some three dozen lawsuits are in the American legal system, with more to come.",
+          "link": "https://www.nationalreview.com/2026/02/lawfare-is-the-climate-warriors-best-friend/",
+          "publishedOn": "2026-02-13T02:25:56.000Z",
+          "wordCount": 8769,
+          "title": "Lawfare Is the Climate Warriors’ Best Friend",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/02/climate-protest-citi-group-nyc.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
           "id": "https://www.nationalreview.com/?p=1919579",
           "author": "Anna Kwok",
           "description": "My father’s conviction is Beijing’s litmus test for Washington: Will the U.S. stand firm in favor of freedom?",
@@ -1973,76 +1983,6 @@
           "wordCount": 6733,
           "title": "The Restoration of Federal Funding for Planned Parenthood Is Yet Another Bad Sign for Pro-Lifers",
           "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2025/01/march-for-life-9.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1911038",
-          "author": "Rich Lowry",
-          "description": "What we’re seeing in Minneapolis is not peaceful protest.",
-          "link": "https://www.nationalreview.com/2026/01/the-anti-ice-insurgency/",
-          "publishedOn": "2026-01-14T18:12:09.000Z",
-          "wordCount": 6669,
-          "title": "The Anti-ICE Insurgency",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/01/ice-agitators.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1910964",
-          "author": "Andrew C. McCarthy",
-          "description": "The objective is likely to identify leakers with an eye toward firing them.",
-          "link": "https://www.nationalreview.com/2026/01/fbi-searches-home-of-washington-post-reporter/",
-          "publishedOn": "2026-01-14T16:04:59.000Z",
-          "wordCount": 6839,
-          "title": "FBI Searches Home of <em>Washington Post</em> Reporter",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/01/the-washington-post.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1910829",
-          "author": "Jessica Melugin",
-          "description": "It’s past time for the U.S. government to push back on these discriminatory foreign policies.",
-          "link": "https://www.nationalreview.com/2026/01/dont-let-harmful-eu-tech-regulations-spread-across-the-globe/",
-          "publishedOn": "2026-01-14T11:30:48.000Z",
-          "wordCount": 6683,
-          "title": "Don’t Let Harmful EU Tech Regulations Spread Across the Globe",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/01/eu-flags-eu-commission-2.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1910896",
-          "author": "The Editors",
-          "description": "A Supreme Court argument comes down to the most basic difference between men and women.",
-          "link": "https://www.nationalreview.com/2026/01/theres-no-sex-discrimination-without-sex/",
-          "publishedOn": "2026-01-14T11:30:42.000Z",
-          "wordCount": 6452,
-          "title": "There’s No Sex Discrimination Without Sex",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/01/scotus-transgender-sports-hearing.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1910424",
-          "author": "Gregory W. Slayton and Sergei Ivashenko",
-          "description": "Russia continues to lose allies and influence around the world.",
-          "link": "https://www.nationalreview.com/2026/01/putins-rapidly-shrinking-world/",
-          "publishedOn": "2026-01-14T11:30:16.000Z",
-          "wordCount": 6942,
-          "title": "Putin’s Rapidly Shrinking World",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/01/vladimir-putin-2.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1910780",
-          "author": "Armond White",
-          "description": "Baumbach seems trapped in his own dishonest fantasy, attempting to fashion a glamorous Willy Loman out of a self-sentimentalizing Hollywood egotist.",
-          "link": "https://www.nationalreview.com/2026/01/jay-kelly-a-movie-stars-pity-party-about-the-cost-of-fame/",
-          "publishedOn": "2026-01-14T11:30:10.000Z",
-          "wordCount": 6309,
-          "title": "<i>Jay Kelly</i>, a Movie Star’s Pity Party About the Cost of Fame",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/01/jay-kelly-trailer-2.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1910788",
-          "author": "Ryan Ellis",
-          "description": "Current IRS tax rules trap empty-nest Boomers and freeze out younger homebuyers. It’s time to change them.",
-          "link": "https://www.nationalreview.com/2026/01/how-to-alleviate-the-middle-class-crunch-on-homeownership/",
-          "publishedOn": "2026-01-14T11:30:02.000Z",
-          "wordCount": 6822,
-          "title": "How to Alleviate the Middle-Class Crunch on Homeownership",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/01/homes-san-diego.jpg?fit=2057%2C1200&ssl=1"
         }
       ]
     },
@@ -2051,6 +1991,26 @@
       "feedUrl": "https://sspai.com/feed",
       "siteUrl": "https://sspai.com",
       "articles": [
+        {
+          "id": "https://sspai.com/post/106144",
+          "author": "车不能快",
+          "description": "在这个玄学肆虐的音频市场里，能有这样一个朴素，甚至有点接地气的品牌，何尝不是一种浪漫。查看全文",
+          "link": "https://sspai.com/post/106144",
+          "publishedOn": "2026-02-13T03:04:38.000Z",
+          "wordCount": 382,
+          "title": "Kali LP-UNF：我心中的入门级桌面音箱最优解",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sspai.com/post/106337",
+          "author": "少数派编辑部",
+          "description": "字节跳动发布视频创作模型 Seedance 2.0，小米 Tag 追踪器已在欧洲市场上市。查看全文",
+          "link": "https://sspai.com/post/106337",
+          "publishedOn": "2026-02-13T00:30:55.000Z",
+          "wordCount": 498,
+          "title": "派早报：智谱上线并开源 GLM-5 模型、网信办开展春节清朗行动",
+          "imageUrl": null
+        },
         {
           "id": "https://sspai.com/post/106284",
           "author": "北鸮",
@@ -3039,26 +2999,6 @@
           "publishedOn": "2026-01-15T00:53:33.000Z",
           "wordCount": 644,
           "title": "派早报：SK 海力士称并未有计划退出消费级存储器市场等",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sspai.com/post/105224",
-          "author": "知道分子吴先先",
-          "description": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
-          "link": "https://sspai.com/post/105224",
-          "publishedOn": "2026-01-14T09:40:40.000Z",
-          "wordCount": 345,
-          "title": "我们是如何学习的？关于学习的 N 个「关键词」",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sspai.com/post/105437",
-          "author": "IGN中国",
-          "description": "本文编译自IGNUS相关内容，原作者MaxScoville、翻译Zoe、编辑KamuiYe，少数派经IGN中国授权转载，仅对文章格式略作调整。阅读原文>新年快乐，或者说是新年的前夕，又或者是……你阅读 ...查看全文",
-          "link": "https://sspai.com/post/105437",
-          "publishedOn": "2026-01-14T07:48:05.000Z",
-          "wordCount": 927,
-          "title": "IGN 盘点 | 2026 年最值得期待的游戏作品",
           "imageUrl": null
         }
       ]
@@ -6301,132 +6241,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://pic.yupoo.com/fotomag/02fe78cb/381f5e25.jpg"
-        },
-        {
-          "id": "idaily-243968",
-          "author": "美国 · 加利福尼亚州",
-          "description": "猎鹰9号火箭执行美国宇航局「潘多拉」（Pandora）探测卫星发射任务，加州。1月11日，猎鹰9号火箭成功将「潘多拉」探测器在内的40颗卫星送入太阳同步轨道。「潘多拉」是 NASA 用于研究系外行星的一颗小型探测卫星，重约325公斤，搭载45厘米口径望远镜，主要任务是对系外行星的大气层成分进行观测分析，目标观测至少20颗系外行星。摄影师：SpaceX",
-          "link": "https://m.idai.ly/se/c95L7h",
-          "publishedOn": "2026-01-14T10:59:00.000Z",
-          "wordCount": 250,
-          "title": "NASA 潘多拉探测卫星发射 - January 14, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/8ffd796f/4ce6b134.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/8ffd796f/4ce6b134.jpg"
-        },
-        {
-          "id": "idaily-243966",
-          "author": "国际空间站",
-          "description": "国际空间站 Crew-11 任务乘组的4名宇航员在希望号实验舱内合影。1月13日，NASA 宣布 Crew-11 任务乘组中的1名宇航员出现「健康问题」，因此决定安排该乘组于1月14日提前返回地球。这是国际空间站首次因医疗原因提前撤离宇航员，原定于1月8日进行的太空行走任务亦被取消。NASA 表示该宇航员目前情况稳定，但是并未公布其身份。Crew-11 任务乘组包括美国宇航员 Mike Fincke、Zena Cardman、俄罗斯宇航员 Oleg Platonov 和日本宇航员油井龟美也，他们于2025年8月2日抵达国际空间站，原计划2026年2月返回地球。摄影师：NASA",
-          "link": "https://m.idai.ly/se/030Q3L",
-          "publishedOn": "2026-01-14T09:58:00.000Z",
-          "wordCount": 249,
-          "title": "国际空间站首次医疗撤离 - January 14, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/fe4b2606/e0164606.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/fe4b2606/e0164606.jpg"
-        },
-        {
-          "id": "idaily-243965",
-          "author": "日本 · 奈良",
-          "description": "韩国总统李在明与日本首相高市早苗举行会晤，奈良县。1月13日，韩国总统李在明对日本进行为期2天正式访问，两国领导人就双边关系、朝鲜半岛无核化、地区和国际局势等议题举行约90分钟会谈。双方会后出席联合记者会，同意在经济和安全领域深化合作，并探讨供应链方面合作可能性。日本首相高市早苗重申日韩关系具有重要的战略意义，两国应携手为地区稳定发挥作用，继续推进日韩美三边合作。韩国总统李在明强调韩日中三国应尽可能寻求共同点，并加强沟通和推进合作。摄影师：Issei Kato",
-          "link": "https://m.idai.ly/se/d914q8",
-          "publishedOn": "2026-01-14T08:57:00.000Z",
-          "wordCount": 249,
-          "title": "韩国总统访问日本 - January 14, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/bdc20970/323df4e5.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/bdc20970/323df4e5.jpg"
-        },
-        {
-          "id": "idaily-243961",
-          "author": "中国 · 文昌",
-          "description": "中国长征八号甲运载火箭搭载新一批「国网星座」互联网卫星发射升空，海南商业航天发射场。1月11日，国际电信联盟（ITU）官网显示，中国申报主体于2025年底正式向ITU提交新增20.3万颗卫星的频率与轨道资源申请，覆盖14个卫星星座，包括中低轨卫星。这是中国迄今规模最大的一次国际频轨集中申报行动，相当于 SpaceX 星链计划总规模的5倍。目前全球有超过1万颗卫星在近地轨道运行，其中美国卫星约占75.9%，中国卫星仅占9.4%。摄影师：Luo Yunfei",
-          "link": "https://m.idai.ly/se/c165yx",
-          "publishedOn": "2026-01-14T08:55:00.000Z",
-          "wordCount": 249,
-          "title": "中国申请20万卫星轨道资源 - January 14, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/727f2a65/2ae73ab4.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/727f2a65/2ae73ab4.jpg"
-        },
-        {
-          "id": "idaily-243960",
-          "author": "乌克兰 · 基辅",
-          "description": "基辅居民在紧急取暖帐篷里避寒，乌克兰。1月13日，俄军对乌克兰境内的能源设施发动大规模无人机和导弹袭击，导致多地电力、供暖和供水系统大面积瘫痪。基辅市约70%区域陷入停电状态，超过470栋高层建筑供暖中断，部分公共交通停止运营。当天基辅最高气温仅零下-10°C，预计未来几天气温将进一步下降。联合国数据显示俄乌冲突迄今已造成至少1.49万平民死亡、逾4万人受伤，乌克兰境内约1080万人亟需人道主义援助。摄影师：Valentyn Ogirenko",
-          "link": "https://m.idai.ly/se/9bfcpT",
-          "publishedOn": "2026-01-14T08:53:00.000Z",
-          "wordCount": 249,
-          "title": "乌克兰首都大范围停电 - January 14, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/298068ab/02956803.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/298068ab/02956803.jpg"
-        },
-        {
-          "id": "idaily-243959",
-          "author": "中国 · 青岛",
-          "description": "山东青岛人形机器人数据采集训练场，一名工作人员通过手持感应手柄对机器人进行数据训练，中国。这座机器人训练场于2025年12月初启动试运营，占地面积约1500平方米，提供汽车制造、3C工厂、物流、商超等7种训练场景，主要由数据采集员通过VR头显、感应手柄等设备指导人形机器人学习抓取、搬运与分拣等精细化操作。市场调研公司 Omdia 报告显示2025年全球人形机器人出货量达1.33万台，同比增长4.8倍，其中87%来自中国制造商。摄影师：iDaily Media",
-          "link": "https://m.idai.ly/se/99aKb9",
-          "publishedOn": "2026-01-14T08:51:00.000Z",
-          "wordCount": 249,
-          "title": "青岛机器人训练场试启用 - January 14, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/81c6a324/81622553.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/81c6a324/81622553.jpg"
-        },
-        {
-          "id": "idaily-243958",
-          "author": "苏丹 · 苏丹港",
-          "description": "苏丹政府举行流失文物回归仪式，苏丹港。1月13日，苏丹政府宣布成功追回喀土穆国家博物馆被盗流失的570件文物，包括雕像、花瓶、石器、圣甲虫护身符等，最早年代可追溯至史前时期。这批文物在苏丹内战期间遭武装分子洗劫，相当于喀土穆国家博物馆被盗文物总数的30%。苏丹国家文物局通报该国仍有约4000件记录在案的丢失文物下落不明。摄影师：Sophie Pons",
-          "link": "https://m.idai.ly/se/ee364O",
-          "publishedOn": "2026-01-14T08:49:00.000Z",
-          "wordCount": 249,
-          "title": "苏丹追回内战流失文物 - January 14, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/6901ad12/a2c77c55.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/6901ad12/a2c77c55.jpg"
-        },
-        {
-          "id": "idaily-243957",
-          "author": "法国 · 勒卡内",
-          "description": "法国博纳尔博物馆举办 Pierre Bonnard 回顾展，一幅画家1932年创作的油画《勒卡内的用餐室》正在展出，勒卡内。本次展览聚焦法国后印象派画家 Pierre Bonnard 在勒卡内生活期间创作的绘画，核心展品为蓬皮杜中心借展的《带含羞草风景的工作室》，通过油画、素描及档案，展现这位艺术家对构图、色彩和光线的独特运用。展期持续至5月31日。摄影师：Sebastien Nogier",
-          "link": "https://m.idai.ly/se/eb04JN",
-          "publishedOn": "2026-01-14T08:47:00.000Z",
-          "wordCount": 249,
-          "title": "法国博纳尔专题展 - January 14, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/113a2851/8b82141e.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/113a2851/8b82141e.jpg"
-        },
-        {
-          "id": "idaily-243956",
-          "author": "德国 · 汉堡",
-          "description": "德国哈根贝克热带水族馆，工作人员正在测量一条亚利桑那山地王蛇的长度，汉堡。这条山地王蛇长1.06米，重330克，健康状况良好。1月13日，哈根贝克热带水族馆启动一年一度的动物盘点工作，对馆内生活的海马、蜥蜴、蟾蜍、鲨鱼、山王蛇、天竺鲷等动物进行身长和体重测量。哈根贝克热带水族馆是德国最大的热带水族馆，占地面积超过8000平方米，目前饲养逾350种、约1.4万只动物。摄影师：Georg Wendt",
-          "link": "https://m.idai.ly/se/9c6dZl",
-          "publishedOn": "2026-01-14T08:45:00.000Z",
-          "wordCount": 249,
-          "title": "德国水族馆年度盘点 - January 14, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/63da26e5/f8595c23.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/63da26e5/f8595c23.jpg"
         }
       ]
     },
@@ -6435,6 +6249,56 @@
       "feedUrl": "https://plink.anyfeeder.com/nytimes/dual",
       "siteUrl": "http://nytimes.com",
       "articles": [
+        {
+          "id": "https://cn.nytimes.com/business/20260213/trump-europe-sovereignty/dual",
+          "author": null,
+          "description": "PATRICIA COHEN, ADAM SATARIANO2026年2月13日\nPresident Trump’s seizure of Venezuela’s oil and his on-again, off-again vows to acquire Greenland, by force if necessary, have underscored the new threat that Washington poses to nations’ sovereignty.\n特朗普总统夺取委内瑞拉石油资源，还时断时续地宣称要吞并格陵兰岛，必要时不惜动用武力，他的种种言行凸显了华盛顿对各国主权构成的新威胁。\nThe land and resource grabs have alarmed even once-close allies, compelling them to consider other, less obvious risks. The most pointed stems from American dominance over the global financial networks and technology systems that undergird nearly every purchase or exchange of information made by citizens, businesses and governments.\n这种对土地和资源的掠夺甚至让昔日关系密切的盟友也警觉起来，迫使他们开始考虑其他尚不醒目的风险。其中最尖锐的担忧源自美国对全球金融网络和技术系统的主导地位——而这些系统支撑着公民、企业和各国政府几乎所有购买行为或信息交换。\nAllies are concerned for their financial ind…",
+          "link": "https://cn.nytimes.com/business/20260213/trump-europe-sovereignty/dual",
+          "publishedOn": "2026-02-13T07:36:03.000Z",
+          "wordCount": 1112,
+          "title": "欧洲担忧美国会对盟友金融和科技主权构成威胁",
+          "imageUrl": "https://static01.nyt.com/images/2026/02/11/multimedia/Biz-Europe-Sovereignty-01-pzgw/Biz-Europe-Sovereignty-01-pzgw-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/usa/20260213/epstein-files/dual",
+          "author": null,
+          "description": "ROBERT DRAPER2026年2月13日司法部公布的经编辑处理的文件显示了杰弗里·爱泼斯坦的电子邮件往来记录。 Jon Elswick/Associated Press\nJournalists and researchers will spend the next months ferreting through the Epstein files in search of further criminal conduct or a new conspiratorial wrinkle. But one truth has already emerged.\n记者与研究人员将在未来数月里深挖爱泼斯坦相关文件，寻找更多犯罪行为或新的阴谋论线索。但有一个真相已经浮出水面。\nIn unsparing detail, the documents lay bare the once-furtive activities of an unaccountable elite, largely made up of rich and powerful men from business, politics, academia and show business. The pages tell a story of a heinous criminal given a free ride by the ruling class in which he dwelled, all because he had things to offer them: money, connections, sumptuous dinner parties, a private plane, a secluded island and, in some cases, sex.\n这些文件以毫不留情的细节揭露了…",
+          "link": "https://cn.nytimes.com/usa/20260213/epstein-files/dual",
+          "publishedOn": "2026-02-13T07:36:03.000Z",
+          "wordCount": 1449,
+          "title": "爱泼斯坦丑闻背后：一场全球精英阶层的共谋",
+          "imageUrl": "https://static01.nyt.com/images/2026/02/10/multimedia/dc-epsteinstory-thpl/dc-epsteinstory-thpl-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/asia-pacific/20260213/japan-seizes-chinese-boat/dual",
+          "author": null,
+          "description": "赫海威2026年2月13日日本水产厅发布的一张照片显示，周四在长崎近海，一艘日本巡逻船（左）与中国渔船并行航行。 Japan's Fisheries Agency, via Agence France-Presse — Getty Images\nThe Japanese authorities said on Friday that they had seized a Chinese fishing boat sailing in waters off the coast of Nagasaki and detained its captain, adding to rising tensions between the two countries.\n日本当局周五表示，在长崎附近海域扣押一艘中国渔船并将船长拘留，此举进一步加剧了两国间本已紧张的关系。\nThe Japanese fisheries agency said in a statement that officials had ordered the Chinese vessel, a trawler equipped with nets, to stop for an inspection around noon on Thursday after discovering it had entered Japan’s exclusive economic zone in the East China Sea. The vessel “refused to comply and fled,” according to the agency. The authorities then seized the boat, which had a crew of 11 including the 47-year-old c…",
+          "link": "https://cn.nytimes.com/asia-pacific/20260213/japan-seizes-chinese-boat/dual",
+          "publishedOn": "2026-02-13T06:36:01.000Z",
+          "wordCount": 648,
+          "title": "日本扣押一艘中国渔船并拘留船长，两国紧张局势继续升级",
+          "imageUrl": "https://static01.nyt.com/images/2026/02/13/multimedia/13int-japan-china-gpmw/13int-japan-china-gpmw-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/climate/20260213/china-clean-energy-technology/dual",
+          "author": null,
+          "description": "DAVID GELLES2026年2月13日\nIn a series of articles published last year, my colleagues and I charted the remarkable rise of clean energy in China, and the degree to which the United States is falling behind in the race to adopt low-carbon technologies like solar power and electric vehicles. Importantly, these products are often less expensive and provide greater convenience than fossil fuel technologies.\n去年，我和同事们发表了一系列文章，记录了中国清洁能源的惊人崛起，以及美国在采用太阳能、电动汽车等低碳技术方面如何逐渐落后。值得注意的是，这些产品往往比化石燃料技术更便宜，也更便捷。\nWe explored the extraordinary scale of Chinese solar farms, including one that covers some 162 square miles, and its construction of thousands of miles of ultrahigh-voltage transmission lines.\n我们探访了规模惊人的中国太阳能发电场，其中一处占地约4.2万公顷；还报道了中国修建成千上万公里特高压输电线路的工程。\nWe examined how China was exporting cheap solar panels…",
+          "link": "https://cn.nytimes.com/climate/20260213/china-clean-energy-technology/dual",
+          "publishedOn": "2026-02-13T04:06:03.000Z",
+          "wordCount": 1033,
+          "title": "生活在中国，“常让我感觉生活在未来世界”",
+          "imageUrl": "https://static01.nyt.com/images/2026/02/12/multimedia/12cli-newsletter-china-01-btfj/12cli-newsletter-china-01-btfj-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/usa/20260213/cia-china-spies/dual",
+          "author": null,
+          "description": "JULIAN E. BARNES2026年2月13日出席一场活动的解放军，摄于去年12月。中国军队的腐败问题阻碍了其推进现代化和提升作战能力的努力。 Hector Retamal/Agence France-Presse — Getty Images\nThe C.I.A. issued a new video on Thursday aimed at recruiting spies within China’s military.\n中央情报局周四发布了一条新视频，意在从中国军队内部招募情报人员。\nThe video highlights allegations of corruption in the People’s Liberation Army that have contributed to the ouster of numerous generals and senior leaders on the Central Military Committee, the Communist Party body that controls China’s armed forces.\n这条视频强调了人民解放军内部的贪腐指控，这些腐败问题已导致多名将领及中央军委高层被撤职。中央军委是中共控制中国武装力量的机构。\nLast month, President Xi Jinping of China removed the country’s top military officer and another senior general. Chinese officials announcing an investigation into their conduct spoke of unspecified “grave violations of discipline an…",
+          "link": "https://cn.nytimes.com/usa/20260213/cia-china-spies/dual",
+          "publishedOn": "2026-02-13T02:06:02.000Z",
+          "wordCount": 922,
+          "title": "CIA发布新视频招募中国军方线人",
+          "imageUrl": "https://static01.nyt.com/images/2026/02/12/multimedia/12dc-cia-china-zqlc/12dc-cia-china-zqlc-articleLarge.jpg"
+        },
         {
           "id": "https://cn.nytimes.com/opinion/20260212/america-china-universities-rankings/dual",
           "author": null,
@@ -7334,26 +7198,6 @@
           "wordCount": 1384,
           "title": "北京蓝天的代价：河北多地村民寒冬里面临取暖危机",
           "imageUrl": "https://static01.nyt.com/images/2026/01/14/multimedia/14int-china-cold-01-ptlb/14int-china-cold-01-ptlb-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/asia-pacific/20260114/myanmar-scam-center/dual",
-          "author": null,
-          "description": "HANNAH BEECH2026年1月14日缅甸克伦邦顺达园区诈骗园区，摄于12月。 \nIn a Southeast Asian war zone, cloaked in dense rainforest, the Chinese settlement dedicated to scamming people from Kentucky to Kazakhstan grew fast on fertile ground.\n在东南亚一片战火纷飞、热带雨林茂密的地带，一座专为诈骗而生的中国人聚居区在这片沃土迅速扩张，诈骗对象遍布于从美国肯塔基州到哈萨克斯坦的世界各地。\nOver just a few months, a sprawling office park materialized and metastasized in the chaotic borderlands of Myanmar, with cavernous rooms holding rows of computer monitors and walls decorated with inspirational work slogans: “Dream chaser,” “Keep going,” “Making money matters the most.” In video conference suites, bookshelves stocked with fake business tomes and ersatz modern art simulated the kind of boardroom a successful crypto investor might inhabit.\n短短数月间，一座规模庞大的办公园区在缅甸局势混乱的边境地带拔地而起，且不断向外蔓延。园区内，宽敞的房间里整齐排…",
-          "link": "https://cn.nytimes.com/asia-pacific/20260114/myanmar-scam-center/dual",
-          "publishedOn": "2026-01-14T09:06:02.000Z",
-          "wordCount": 2011,
-          "title": "“这里比地狱还要糟糕”：为诈骗而生的妙瓦底顺达园区",
-          "imageUrl": "https://static01.nyt.com/images/2026/01/01/multimedia/00int-myanmar-scams-01-vpht/00int-myanmar-scams-01-vpht-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/business/20260114/china-trade-surplus-exports/dual",
-          "author": null,
-          "description": "KEITH BRADSHER2026年1月14日杭州一家汽车厂的生产线，摄于去年10月。虽然对美国的出口下降了，但中国对世界上大多数其他地区的出口却在上升。 Chang W. Lee/The New York Times\nChina announced on Wednesday the world’s largest trade surplus ever, even adjusting for inflation, as a tsunami of exports flooded markets around the world last year.\n中国周三公布的数据显示，随着大量出口商品涌入全球市场，即使经通胀调整后，其去年的贸易顺差仍创下全球有史以来的最高水平。\nChina’s surplus, the value of goods and services it sold abroad versus its imports, reached $1.19 trillion, an increase of 20 percent from 2024, according to data released by the country’s General Administration of Customs. The number had already exceeded $1 trillion through November.\n中国海关总署的数据表明，去年中国的贸易顺差——即其商品和服务出口值与进口值之差——达到1.19万亿美元，较2024年增长20%。截至去年11月，该数字已突破1万亿美元。\nThe country’s surplus is still widening: for December alone, China’s surplus reached $114.1…",
-          "link": "https://cn.nytimes.com/business/20260114/china-trade-surplus-exports/dual",
-          "publishedOn": "2026-01-14T05:36:02.000Z",
-          "wordCount": 935,
-          "title": "中国2025年贸易顺差创全球有史以来最高水平",
-          "imageUrl": "https://static01.nyt.com/images/2026/01/12/multimedia/12Biz-China-Trade-kcmh/12Biz-China-Trade-kcmh-articleLarge.jpg"
         }
       ]
     },
