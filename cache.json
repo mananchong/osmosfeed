@@ -6,6 +6,16 @@
       "siteUrl": "https://rweekly.org/atom.xml",
       "articles": [
         {
+          "id": "https://rweekly.org/2026-W08.html",
+          "author": null,
+          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Batool Almarzouq, with help from the R Weekly team members and contributors.\nHighlight\nSubmissions Working Group: 2026 Plans and 2025 Success\nViewing Nested Lists with xfun::tabset()\nInsights\nPick a License, Not Any License: Why you should care about data science software licenses and how to learn more\n\nRcppSpdlog 0.0.27 on CRAN: C++20 Accommodations\nchronometre: A new package (pair) demo for R and Python\nR in the Real World\nThe world’s biggest ‘Pacific’ cities\nVisualising income inequality social tables by @ellis2013nz\nR in Organizations\nSubmissions Working Group: 2026 Plans and 2025 Success\n2026-02-13 AI Newsletter\nTutorials\nAssociated Keywords: The Missed Opportunity in S…",
+          "link": "https://rweekly.org/2026-W08.html",
+          "publishedOn": "2026-02-16T00:00:00.000Z",
+          "wordCount": 6084,
+          "title": "R Weekly 2026-W08 submissions working group, nested Lists with xfun::tabset",
+          "imageUrl": "https://rweekly.org/public/facebook.png"
+        },
+        {
           "id": "https://rweekly.org/2026-W07.html",
           "author": null,
           "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Eric Nantz, with help from the R Weekly team members and contributors.\nHighlight\nWhy Every R Package Wrapping External Tools Needs a sitrep() Function\nwebRios - R on iOS through webR\nJarl 0.4.0: A fast R linter\nInsights\nJarl 0.4.0: A fast R linter\nsecretbase: The hash package smaller than most hex stickers\nPaleontology R Packages to Benefit from Software Sustainability Institute Grant\nAnnouncing New Statistical Software Peer Review Editors: Natalia da Silva and Andrew Heiss\nWhy Every R Package Wrapping External Tools Needs a sitrep() Function\nA roguelike-like with tyle\nAnnouncing the Positron Notebook Editor for Jupyter Notebooks\nFifty Releases of Pointblank: a Year of Build…",
@@ -64,6 +74,16 @@
       "feedUrl": "https://www.nationalreview.com/feed/",
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
+        {
+          "id": "https://www.nationalreview.com/?p=1920474",
+          "author": "John Fund and Rainer Zitelmann",
+          "description": "Postwar Vietnam is a good model for how a nation can emerge from collectivist tyranny.",
+          "link": "https://www.nationalreview.com/2026/02/cuba-faces-a-sunset-of-its-socialist-revolution/",
+          "publishedOn": "2026-02-17T01:20:37.000Z",
+          "wordCount": 7058,
+          "title": "Cuba Faces a Sunset of Its Socialist Revolution",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/02/havana-cuba-sunset.jpg?fit=2057%2C1200&ssl=1"
+        },
         {
           "id": "https://www.nationalreview.com/?p=1920216",
           "author": "Rachel Greszler",
@@ -1953,46 +1973,6 @@
           "wordCount": 6629,
           "title": "Pro-Lifers Still Need to Be Heard in Washington",
           "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/01/march-for-life-capitol-2012.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1911250",
-          "author": "Andrew Follett",
-          "description": "With sky-high costs for minimal returns, the ISS has failed on both the geopolitical and scientific research fronts.",
-          "link": "https://www.nationalreview.com/2026/01/its-way-past-time-to-retire-the-international-space-station/",
-          "publishedOn": "2026-01-18T11:30:56.000Z",
-          "wordCount": 6686,
-          "title": "It’s Way Past Time to Retire the International Space Station",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/01/ISS.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1911726",
-          "author": "Kendall Tietz",
-          "description": "America’s largest teachers’ union acknowledges a school violence crisis but refuses to try to improve it.",
-          "link": "https://www.nationalreview.com/2026/01/the-nea-doubles-down-on-failing-restorative-discipline/",
-          "publishedOn": "2026-01-18T11:30:50.000Z",
-          "wordCount": 6331,
-          "title": "The NEA Doubles Down on Failing ‘Restorative Discipline’",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/01/disciplining-student.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1911686",
-          "author": "Becket Adams",
-          "description": "Her directive to ‘be the news’ reflects the precise opposite of what the industry needs to do.",
-          "link": "https://www.nationalreview.com/2026/01/an-inauspicious-start-for-bari-weiss-at-cbs/",
-          "publishedOn": "2026-01-18T11:30:08.000Z",
-          "wordCount": 6649,
-          "title": "An Inauspicious Start for Bari Weiss at CBS News",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2025/10/bari-weiss0-.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1911781",
-          "author": "Thérèse Shaheen",
-          "description": "Xi’s intimidation campaign has been effective so far, but the nation he leads is not actually a peer power.",
-          "link": "https://www.nationalreview.com/2026/01/china-is-not-as-strong-as-trump-seems-to-think/",
-          "publishedOn": "2026-01-18T11:30:06.000Z",
-          "wordCount": 7170,
-          "title": "Trump’s Hard Line Should Not Have a China Exception",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2025/02/Xi-Jinping.jpg?fit=2057%2C1200&ssl=1"
         }
       ]
     },
@@ -2959,16 +2939,6 @@
           "publishedOn": "2026-01-19T00:39:59.000Z",
           "wordCount": 468,
           "title": "派早报：ChatGPT 将上线广告",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sspai.com/post/104972",
-          "author": "Mystery0",
-          "description": "无论你是想体验一个纯净的网速显示工具，还是对 AI 辅助开发的代码质量感兴趣，都欢迎来试一试 Pixel Meter。查看全文",
-          "link": "https://sspai.com/post/104972",
-          "publishedOn": "2026-01-18T06:21:37.000Z",
-          "wordCount": 370,
-          "title": "App+1｜它和你的 Pixel 更配，宛如原生的网速显示工具",
           "imageUrl": null
         }
       ]
@@ -6141,90 +6111,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://pic.yupoo.com/fotomag/e50c1ba3/a211ba18.jpg"
-        },
-        {
-          "id": "idaily-244187",
-          "author": "美国 · 佛罗里达州",
-          "description": "「阿尔忒弥斯2号」（Artemis II）载人绕月任务使用的太空发射系统火箭与猎户座飞船组合体竖立在肯尼迪航天中心装配大楼，佛罗里达州。1月17日，「阿尔忒弥斯2号」任务火箭飞船组合体从装配大楼垂直转运至发射台，正式进入发射前的湿排练阶段，包括加注推进剂、模拟发射倒计时等环节。NASA 计划最早于2月6日执行本次绕月任务，乘组人员包括美国宇航员 Reid Wiseman、Victor Glover、Christina Koch 和加拿大宇航员 Jeremy Hansen，这4名宇航员将绕月飞行10天后返回地球。摄影师：Joe Raedle",
-          "link": "https://m.idai.ly/se/d04pZ9",
-          "publishedOn": "2026-01-18T10:59:00.000Z",
-          "wordCount": 297,
-          "title": "美国载人绕月火箭最后测试 - January 18, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/ed7345ee/01a0c2b6.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/ed7345ee/01a0c2b6.jpg"
-        },
-        {
-          "id": "idaily-244185",
-          "author": "英国 · 伦敦",
-          "description": "联合国秘书长 Antonio Guterres 在伦敦卫理公会中央礼堂发表纪念联合国大会第一届会议召开80周年的演讲，英国。1月17日，伦敦卫理公会中央礼堂举办联大第一届会议召开80周年纪念活动，共有来自全球的超过1000名代表出席。联合国秘书长 Guterres 在演讲中警告称，强大的势力正在联合起来破坏全球合作，数据算法正在传播虚假信息、助长仇恨并为独裁者提供强大控制工具，随着全球权力中心的转移，国际社会面临着构建更公平还是更动荡未来的抉择。受到成员国拖欠会费影响，联合国2026年常规运营预算被迫削减-7%至34.5亿美元，该机构还将在本年度裁撤2900个岗位以降低运营成本。美国为联合国会费的最大欠费国。摄影师：Toby Shepheard",
-          "link": "https://m.idai.ly/se/42bzN0",
-          "publishedOn": "2026-01-18T09:59:00.000Z",
-          "wordCount": 297,
-          "title": "联合国大会80周年 - January 18, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/07c8a4a6/ee04b772.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/07c8a4a6/ee04b772.jpg"
-        },
-        {
-          "id": "idaily-244184",
-          "author": "俄罗斯 · 莫斯科",
-          "description": "俄罗斯总统 Vladimir Putin 参观无人技术成果展，莫斯科。1月16日，莫斯科阿米尼耶夫斯科耶地铁列车库举行无人技术发展及成果展，俄总统 Putin 现场视察了莫斯科地铁无人驾驶有轨电车、无人穿梭巴士、无人驾驶出租车、无人拖拉机、无人多用途船和无人机系统等产品。Putin 在视察中指示应加快部署无人技术产品，从而解决人口结构限制所带来的社会经济发展挑战，同时保障俄罗斯主权和国家安全。摄影师：Valeriy Sharifulin",
-          "link": "https://m.idai.ly/se/c31urk",
-          "publishedOn": "2026-01-18T09:57:00.000Z",
-          "wordCount": 297,
-          "title": "普京参观无人技术成果展 - January 18, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/aa8e12aa/b2bc461d.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/aa8e12aa/b2bc461d.jpg"
-        },
-        {
-          "id": "idaily-244194",
-          "author": "日本 · 东京",
-          "description": "轻轨乘客从中断行驶的列车上步行撤离，东京。1月16日凌晨，日本铁路「新桥-品川」段突发严重电力故障，导致山手线和京滨东北线两条主线路一度全线停运，首都圈早高峰交通陷入严重混乱，共计影响约67.3万居民的出行。受影响线路于当天下午13时恢复运行。根据东日本铁路公司和东京消防厅的通报，「新桥-品川」段附近田町站的电力设备发生起火事故，燃烧约1个小时后被扑灭，目前尚未查明具体故障原因。摄影师：Kotaro Numata",
-          "link": "https://m.idai.ly/se/e0a3pl",
-          "publishedOn": "2026-01-18T09:55:00.000Z",
-          "wordCount": 297,
-          "title": "东京地铁路线停电故障 - January 18, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/b99e2bba/86c55db4.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/b99e2bba/86c55db4.jpg"
-        },
-        {
-          "id": "idaily-244183",
-          "author": "美国 · 底特律",
-          "description": "2026年底特律汽车展，美国新一代主战坦克「M1E3 艾布拉姆斯」原型车首次对公众展出，密歇根州。1月15日，美国陆军在底特律车展首次公开展出新一代「M1E3 艾布拉姆斯」主战坦克原型车，这款主战坦克的重量降至60吨，采用柴电混合动力，乘员配置减少至三人，炮塔顶部搭载 EOS R400 Mk2 反无人机遥控武器站，炮塔尾舱加装自动装弹机。美国陆军预计将在2026年接收4辆「M1E3 艾布拉姆斯」原型车进行测试。本届底特律车展从1月14日持续至25日，共有41家汽车品牌参展，预计参观人数将超过25万。摄影师：Jim West",
-          "link": "https://m.idai.ly/se/d9c8ei",
-          "publishedOn": "2026-01-18T09:53:00.000Z",
-          "wordCount": 297,
-          "title": "美国新一代主战坦克原型 - January 18, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/a716c74c/f61908be.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/a716c74c/f61908be.jpg"
-        },
-        {
-          "id": "idaily-244182",
-          "author": "斯里兰卡 · 科伦坡",
-          "description": "一名斯里兰卡宝石学家展示一颗重达3563克拉的天然紫色星光蓝宝石，科伦坡。这颗蓝宝石的原石于2023年开采自斯里兰卡南部的拉特纳普勒矿区，经过切割抛光后成为一颗具有六芒星的圆形星光蓝宝石，被命名为「净土之星」（Star of Pure Land）。这颗宝石的持有者宣称这是世界上已知最大的天然紫色星光蓝宝石，出售估价达3亿至4亿美元。摄影师：Eranga Jayawardena",
-          "link": "https://m.idai.ly/se/d3arDX",
-          "publishedOn": "2026-01-18T09:51:00.000Z",
-          "wordCount": 297,
-          "title": "世界最大紫色星光蓝宝石 - January 18, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/5f3ab60d/2436be49.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/5f3ab60d/2436be49.jpg"
         }
       ]
     },
@@ -6233,6 +6119,16 @@
       "feedUrl": "https://plink.anyfeeder.com/nytimes/dual",
       "siteUrl": "http://nytimes.com",
       "articles": [
+        {
+          "id": "https://cn.nytimes.com/china/20260217/xi-military-zhang-youxia-mao/dual",
+          "author": null,
+          "description": "郭莉莉2026年2月17日中国国家主席习近平去年在一个军队仪式上。过去两年间，习近平已撤换了中国最高军事机构六位将军中的五位。 Florence Lo/Reuters\nWhen Xi Jinping rang in the new year from Beijing, he called on China to remember the legacy of Yan’an, the rural stronghold where Mao Zedong transformed revolutionary guerrilla fighters into a disciplined force under his command that would go on to take the country.\n习近平在北京迎接新年的到来时，呼吁中国铭记延安精神。当年在这个农村根据地，毛泽东将革命游击队战士锻造成一支纪律严明、听他指挥的部队，最终夺取了全国政权。\nIt may have been a hint of what was to come. Yan’an was also where Mao Zedong launched his party’s first major “rectification,” a campaign of political terror that eliminated rivals and cemented his absolute authority over the party. Three weeks after Mr. Xi’s speech, China effectively purged the military’s top commander Gen. Zhang Youxia, who had once been seen as a c…",
+          "link": "https://cn.nytimes.com/china/20260217/xi-military-zhang-youxia-mao/dual",
+          "publishedOn": "2026-02-16T21:06:02.000Z",
+          "wordCount": 1466,
+          "title": "解放军高层巨震，习近平寻求“绝对忠诚”",
+          "imageUrl": "https://static01.nyt.com/images/2026/02/16/multimedia/16int-china-general-kvzh/16int-china-general-kvzh-articleLarge.jpg"
+        },
         {
           "id": "https://cn.nytimes.com/technology/20260215/they-are-in-love-but-dont-speak-the-same-language/dual",
           "author": null,
