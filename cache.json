@@ -44,16 +44,6 @@
           "wordCount": 5772,
           "title": "R Weekly 2026-W05 LLMs & plots, soil flux, futurize",
           "imageUrl": "https://rweekly.org/public/facebook.png"
-        },
-        {
-          "id": "https://rweekly.org/2026-W04.html",
-          "author": null,
-          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Jon Calder, with help from the R Weekly team members and contributors.\nHighlight\nSemi-automating 200 Pull Requests with Claude Code\nHow to create a more accessible line chart\nInsights\nFrom scripts to pipelines in the age of LLMs\nContributing to base R with Coding Equity and Joy - Inside the R Contributors Project\nCrops, Code, and Community Build R-Mob User Group in Australia\n2025 Posit Open Source Year in Review\nSemi-automating 200 Pull Requests with Claude Code\nR in the Real World\nGold/Silver Ratio: GenAI with Quant Agent on Azure AI Foundry\nTutorials\nHow to create a more accessible line chart\n\nSetting Up A Cluster of Tiny PCs For Parallel Computing - A Note To Myself\nResou…",
-          "link": "https://rweekly.org/2026-W04.html",
-          "publishedOn": "2026-01-20T00:00:00.000Z",
-          "wordCount": 5814,
-          "title": "R Weekly 2026-W04 Automate PR's with Claude, Accessible line charts",
-          "imageUrl": "https://rweekly.org/public/facebook.png"
         }
       ]
     },
@@ -74,6 +64,76 @@
       "feedUrl": "https://www.nationalreview.com/feed/",
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
+        {
+          "id": "https://www.nationalreview.com/?p=1920997",
+          "author": "Caroline Downey",
+          "description": "Is it any surprise his show is getting canceled?",
+          "link": "https://www.nationalreview.com/2026/02/stephen-colberts-talarico-tantrum-further-vindicates-cbs/",
+          "publishedOn": "2026-02-18T17:21:26.000Z",
+          "wordCount": 7118,
+          "title": "Stephen Colbert’s Talarico Tantrum Further Vindicates CBS",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/02/stephen-colbert-1.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1920974",
+          "author": "John R. Puri",
+          "description": "Government should not be able to decide which political candidates must and must not appear on broadcast television.",
+          "link": "https://www.nationalreview.com/2026/02/abolish-the-fccs-equal-time-rule/",
+          "publishedOn": "2026-02-18T16:44:04.000Z",
+          "wordCount": 7223,
+          "title": "Abolish the FCC’s Equal-Time Rule",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/02/carr-fcc.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1919650",
+          "author": "Eric O'Neill",
+          "description": "Twenty-five years after Robert Hanssen’s capture, espionage has found a new home.",
+          "link": "https://www.nationalreview.com/2026/02/the-spy-is-always-in-the-worst-possible-place/",
+          "publishedOn": "2026-02-18T11:30:46.000Z",
+          "wordCount": 7348,
+          "title": "The Spy Is Always in the Worst Possible Place",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2020/12/keyboard-hands.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1920860",
+          "author": "Armond White",
+          "description": "John Boorman’s restored masterpiece salvages the era of bad movies.",
+          "link": "https://www.nationalreview.com/2026/02/lessons-from-excalibur/",
+          "publishedOn": "2026-02-18T11:30:45.000Z",
+          "wordCount": 6568,
+          "title": "Lessons from <i>Excalibur</i>",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/02/excalibur.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1920789",
+          "author": "Josh Golin",
+          "description": "As Meta CEO Mark Zuckerberg testifies in a landmark case, it’s time for Congress to stand up for children’s safety online.",
+          "link": "https://www.nationalreview.com/2026/02/mark-zuckerberg-faces-the-tough-questions-he-deserves/",
+          "publishedOn": "2026-02-18T11:30:44.000Z",
+          "wordCount": 6796,
+          "title": "Mark Zuckerberg Faces the Tough Questions He Deserves",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2025/01/mark-zuckerberg-1.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1920768",
+          "author": "Rich Lowry",
+          "description": "Netflix has released a new documentary, Miracle: The Boys of ’80.",
+          "link": "https://www.nationalreview.com/2026/02/the-greatest-sports-story-ever-told/",
+          "publishedOn": "2026-02-18T11:30:21.000Z",
+          "wordCount": 6606,
+          "title": "The Greatest Sports Story Ever Told",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/02/miracle-netflix.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1920820",
+          "author": "The Editors",
+          "description": "We shouldn’t further federalize elections, much less nuke the filibuster, to address a problem of marginal scale that states can address on their own.",
+          "link": "https://www.nationalreview.com/2026/02/the-save-acts-virtuous-goals-are-not-worth-the-cost/",
+          "publishedOn": "2026-02-18T11:30:16.000Z",
+          "wordCount": 6827,
+          "title": "The SAVE Act’s Virtuous Goals Are Not Worth the Cost",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2020/11/polling-place-oklahoma-city.jpg?fit=2057%2C1200&ssl=1"
+        },
         {
           "id": "https://www.nationalreview.com/?p=1920609",
           "author": "Noah Rothman",
@@ -1973,16 +2033,6 @@
           "wordCount": 6574,
           "title": "Trump at Year One",
           "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2025/05/donald-trump-seal.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1912214",
-          "author": "John Fund",
-          "description": "Glenn Youngkin’s single term was easily one of the most successful of any governor in recent memory.",
-          "link": "https://www.nationalreview.com/2026/01/youngkins-common-sense-legacy-in-virginia/",
-          "publishedOn": "2026-01-20T00:36:07.000Z",
-          "wordCount": 6269,
-          "title": "Youngkin’s ‘Common Sense’ Legacy in Virginia",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/01/glenn-youngkin-virginia.jpg?fit=2057%2C1200&ssl=1"
         }
       ]
     },
@@ -2890,26 +2940,6 @@
           "wordCount": 288,
           "title": "从雪地陷车到撞围栏：境外租车自驾复盘与避坑攻略",
           "imageUrl": null
-        },
-        {
-          "id": "https://sspai.com/post/93614",
-          "author": "烟酸Niacin",
-          "description": "你必须要知道的秋衣外穿和 ECWCS 穿衣系统的细节。查看全文",
-          "link": "https://sspai.com/post/93614",
-          "publishedOn": "2026-01-20T03:06:39.000Z",
-          "wordCount": 358,
-          "title": "冬天也不用裹成球，这是你需要了解的冬季穿衣指南",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sspai.com/post/105600",
-          "author": "少数派编辑部",
-          "description": "安克与飞书联合推出安克 AI 录音豆，小红书上线社区公约 2.0 等。查看全文",
-          "link": "https://sspai.com/post/105600",
-          "publishedOn": "2026-01-20T00:25:17.000Z",
-          "wordCount": 477,
-          "title": "派早报：荣耀发布 Magic8 Pro Air 等",
-          "imageUrl": null
         }
       ]
     },
@@ -2918,6 +2948,104 @@
       "feedUrl": "https://plink.anyfeeder.com/idaily/today",
       "siteUrl": "https://idai.ly",
       "articles": [
+        {
+          "id": "idaily-246183",
+          "author": "俄罗斯 · 莫斯科",
+          "description": "莫斯科马涅什广场举行中国农历新年庆祝活动，俄罗斯。2月16日，第3届「莫斯科的中国新年」正式拉开帷幕，莫斯科全市超过60处地标景点将举行美食市集、文化工坊、京剧和武术表演等庆祝活动，莫斯科地铁将在活动期间开通中国春节主题专列，时间持续至3月1日。俄罗斯旅游运营商协会数据显示，2025年俄罗斯赴华旅游人数达246.9万人次，同比增长30.1%，中国已成为俄罗斯游客第二大海外旅游目的地，仅次于土耳其。摄影师：Pavel Bednyakov",
+          "link": "https://m.idai.ly/se/7a7P3e",
+          "publishedOn": "2026-02-18T04:59:00.000Z",
+          "wordCount": 275,
+          "title": "莫斯科中国春节活动 - February 18, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/14c8005b/e9e243e2.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/14c8005b/e9e243e2.jpg"
+        },
+        {
+          "id": "idaily-246182",
+          "author": "印度 · 孟买",
+          "description": "印度总理 Narendra Modi 与法国总统 Emmanuel Macron 举行会晤，孟买。2月16日，法国总统 Macron 上任以来第4次访问印度，两国领导人就双边关系、经贸、国防、全球及地缘政治局势等议题举行会谈，宣布将印法关系提升至「特殊全球战略伙伴关系」，并共同揭幕空客 H125 直升机在印度的首条总装生产线。印度政府上周初步批准一项总价值400亿美元的军备采购计划，其中包括向法国购买114架「阵风」战斗机。法国是印度在欧盟的第三大贸易伙伴，2025年印法双边贸易额超过150亿美元。摄影师：Ludovic Marin",
+          "link": "https://m.idai.ly/se/b4a2ZJ",
+          "publishedOn": "2026-02-18T03:58:00.000Z",
+          "wordCount": 275,
+          "title": "法国总统访问印度 - February 18, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/52e5225e/3729032a.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/52e5225e/3729032a.jpg"
+        },
+        {
+          "id": "idaily-246181",
+          "author": "孟加拉国 · 达卡",
+          "description": "孟加拉国民族主义党党首 Tarique Rahman 宣誓就任孟加拉国第11任总理，达卡。2月17日，孟加拉国新任总理 Rahman 正式宣誓就职。现年60岁的 Rahman 是孟加拉国前总统 Ziaur Rahman 和孟加拉国首任女总理 Khaleda Zia 的长子，1988年进入政坛，2008年因涉嫌腐败指控而流亡英国长达17年，2024年哈西娜政权倒台后重返孟加拉国。Rahman 在就职演讲中承诺将继承父母遗志，忠实履行总理职责，恢复国家稳定并重振经济，呼吁所有政党保持团结。国际货币基金组织（IMF）预测2026年孟加拉国 GDP 增速将恢复至4.7%，主要受到税收和金融政策改革提振。摄影师：Mahmud Hossain Opu",
+          "link": "https://m.idai.ly/se/9ecFf8",
+          "publishedOn": "2026-02-18T02:57:00.000Z",
+          "wordCount": 275,
+          "title": "孟加拉国新总理就职 - February 18, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/6fb3e9b2/f846ae39.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/6fb3e9b2/f846ae39.jpg"
+        },
+        {
+          "id": "idaily-246180",
+          "author": "印度 · 新德里",
+          "description": "2026年印度人工智能影响力峰会（AI Impact Summit），一台印度公司研发的人工智能机器狗正在进行演示，新德里。2月16日，第4届人工智能影响力峰会在印度新德里开幕，主题为「人类，地球，进步」，共有来自约100个国家的政府和科技业代表出席，包括印度总理、法国总统、巴西总统等20国领导人和45国部长级代表。本届峰会展区面积达7万平方米，参展企业超过300家，预计5天展期将吸引超过25万人参观。谷歌、微软、亚马逊等科技企业已承诺在2030年前向印度人工智能和云基础设施领域投资总计680亿美元资金。摄影师：Arun Sankar",
+          "link": "https://m.idai.ly/se/650trR",
+          "publishedOn": "2026-02-18T02:55:00.000Z",
+          "wordCount": 275,
+          "title": "印度第4届AI峰会 - February 18, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/00da61f8/5339fbbe.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/00da61f8/5339fbbe.jpg"
+        },
+        {
+          "id": "idaily-246178",
+          "author": "马来西亚 · 吉隆坡",
+          "description": "马来西亚宗教事务部神职人员正在观测新月以确定斋月开始时间，吉隆坡。2月17日，马来西亚国家掌玺大臣宣布2026年斋月从2月19日正式开始，斋月期间全国政府部门公务员可提前半小时下班。伊斯兰教是马来西亚的官方宗教，该国共有约2240万穆斯林信徒，占总人口比例约65%。马来西亚央行上周公布数据显示2025年 GDP 增长率达到5.2%，创下3年来最快增速，主要受到强劲的内需、出口和投资推动，预计2026年仍将保持4%-4.5%的稳定增速。摄影师：Arif Kartono",
+          "link": "https://m.idai.ly/se/a66Ppe",
+          "publishedOn": "2026-02-18T02:53:00.000Z",
+          "wordCount": 275,
+          "title": "马来西亚迎接斋月 - February 18, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/60c1a4d3/4a796fe1.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/60c1a4d3/4a796fe1.jpg"
+        },
+        {
+          "id": "idaily-246177",
+          "author": "伊朗 · 霍尔木兹海峡",
+          "description": "伊朗伊斯兰革命卫队（IRGC）公布一张导弹在霍尔木兹海峡击中军演目标的照片。2月16日，伊朗军方举行代号为「智能控制霍尔木兹海峡」的实弹演习活动，伊朗官方媒体报道称本次演习旨在演练伊朗海军应对潜在威胁的反击能力，演练内容包括军舰在电子战环境下作战并发射新型导弹命中指定目标、无人机部队在信号干扰环境下作战等。伊朗代表团与美国代表团于2月17日在瑞士日内瓦举行第二轮间接谈判，双方谈判后表示「分歧仍然存在，但较上一轮谈判取得进展，同意继续接触」。摄影师：IRGC",
+          "link": "https://m.idai.ly/se/19863B",
+          "publishedOn": "2026-02-18T02:51:00.000Z",
+          "wordCount": 275,
+          "title": "伊朗霍尔木兹海峡军演 - February 18, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/c5027e09/d7cff99a.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/c5027e09/d7cff99a.jpg"
+        },
+        {
+          "id": "idaily-246176",
+          "author": "朝鲜 · 平壤",
+          "description": "朝鲜最高领导人金正恩携女儿金主爱出席平壤和盛地区第四期万套住宅竣工典礼，平壤。2月16日，平壤和盛地区第四期10000套住宅项目举行竣工剪彩仪式，该住宅区专用于分配给在海外军事行动中阵亡朝鲜士兵的遗属家庭。朝鲜最高领导人金正恩在讲话中表示，新住宅区象征着「英勇参战烈士的奉献精神」，希望能够让失去儿子或丈夫的军人遗属们「感到骄傲并幸福地生活下去」。摄影师：KCNA",
+          "link": "https://m.idai.ly/se/560m1E",
+          "publishedOn": "2026-02-18T02:49:00.000Z",
+          "wordCount": 275,
+          "title": "朝鲜赴俄军人遗属新住宅 - February 18, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/65848342/3dfe56d5.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/65848342/3dfe56d5.jpg"
+        },
         {
           "id": "idaily-246131",
           "author": "中国 · 香港",
@@ -6908,26 +7036,6 @@
           "wordCount": 1315,
           "title": "特朗普还在痴迷石油，中国则将以电池主宰世界",
           "imageUrl": "https://static01.nyt.com/images/2026/01/16/opinion/16wang/16wang-articleLarge-v3.png"
-        },
-        {
-          "id": "https://cn.nytimes.com/world/20260120/trump-greenland-europe-nato-alliance/dual",
-          "author": null,
-          "description": "MICHAEL D. SHEAR2026年1月20日特朗普总统去年8月在白宫与欧洲领导人会晤。周六，特朗普表示除非欧洲国家允许他收购格陵兰岛，否则将对多个欧洲国家提高关税。 Doug Mills/The New York Times\nWhat happens to an 80-year-old diplomatic alliance when its leading power threatens a military invasion of one member, wages economic war on the others and vows to cultivate political and cultural resistance to their governments?\n在一个延续80年的外交同盟中，当主导国威胁军事入侵其中一员、对其他成员国发动经济战，还扬言培植反对这些国家政府的政治与文化势力，这个联盟会面临怎样的命运？\nIs the alliance doomed?\n这个外交同盟注定会走向覆灭吗？\nThat question is being asked in capitals across Europe as leaders rush to respond to President Trump’s rapidly escalating campaign to acquire Greenland over the objections of the people who live there. At issue most urgently is whether resisting Mr. Trump’s territorial ambitions risks damaging Europe’s relationship with the United St…",
-          "link": "https://cn.nytimes.com/world/20260120/trump-greenland-europe-nato-alliance/dual",
-          "publishedOn": "2026-01-20T03:36:02.000Z",
-          "wordCount": 1244,
-          "title": "威胁吞并格陵兰岛，特朗普将美欧同盟推向悬崖边缘",
-          "imageUrl": "https://static01.nyt.com/images/2026/01/19/multimedia/19int-europe-alliance01-photo-jbtp/19int-europe-alliance01-photo-jbtp-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/china/20260120/china-ships-fishing-militia-blockade/dual",
-          "author": null,
-          "description": "储百亮, AGNES CHANG, AMY CHANG CHIEN2026年1月20日1月11日的船只编队。注：船只位置为当地时间1月11日下午2时的最后已知位置。 \n China quietly mobilized thousands of fishing boats twice in recent weeks to form massive floating barriers of at least 200 miles long, showing a new level of coordination that could give Beijing more ways to impose control in contested seas.\n中国在最近几周内两次悄然调动数千艘渔船，组成至少320公里长的巨型漂浮屏障，显示出一种前所未有的协同水平，这可能为北京在争议海域施加控制提供更多手段。\nThe two recent operations unfolded largely unnoticed. An analysis of ship-tracking data by The New York Times reveals the scale and complexity of the maneuvers for the first time.\n这两次行动在实施过程中几乎未引起注意。《纽约时报》通过对船舶追踪数据的分析首次揭示了这些行动的规模与复杂程度。\nLast week, about 1,400 Chinese vessels abruptly dropped their usual fishing activities or sailed out of their home ports and congregated in the East China Sea. B…",
-          "link": "https://cn.nytimes.com/china/20260120/china-ships-fishing-militia-blockade/dual",
-          "publishedOn": "2026-01-20T03:06:01.000Z",
-          "wordCount": 1459,
-          "title": "中国加强海上民兵力量，悄然调动数千艘渔船形成漂浮屏障",
-          "imageUrl": "https://static01.nyt.com/images/2026/01/19/multimedia/c20china-ships-fishing-01/c20china-ships-fishing-articleLarge.png"
         }
       ]
     },
@@ -7214,26 +7322,6 @@
           "publishedOn": "2026-01-21T02:00:00.000Z",
           "wordCount": 257,
           "title": "为什么很多人叫momo？关于面容的溃散与拯救",
-          "imageUrl": null
-        },
-        {
-          "id": "d4f72b348ac6f27521dcf57dd1a84dab",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E2%80%9C%E7%BA%B8%E9%A9%AC%E2%80%9D%E6%9D%A5%E4%BA%86%EF%BC%81%E5%A4%A9%E5%9C%B0%E9%BE%99%E8%BD%A6%E3%80%81%E8%B5%90%E7%A6%8F%E8%B4%A2%E7%A5%9E%E3%80%81%E6%A2%85%E8%91%9B%E4%BB%99%E7%BF%81%E2%80%A6%E2%80%A6",
-          "publishedOn": "2026-01-20T01:59:00.000Z",
-          "wordCount": 263,
-          "title": "“纸马”来了！天地龙车、赐福财神、梅葛仙翁……",
-          "imageUrl": null
-        },
-        {
-          "id": "9e3fc8de5f809be36380e76d945c0e10",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E5%8A%A0%E7%BC%AA%EF%BC%9A%E5%AF%B9%E7%94%9F%E5%91%BD%E5%85%A8%E7%84%B6%E7%9A%84%E6%8E%A5%E7%BA%B3%EF%BC%8C%E4%BE%BF%E6%98%AF%E6%88%91%E5%9C%A8%E4%B8%96%E9%97%B4%E6%9C%80%E5%B4%87%E6%95%AC%E7%9A%84%E7%BE%8E%E5%BE%B7",
-          "publishedOn": "2026-01-20T01:59:00.000Z",
-          "wordCount": 306,
-          "title": "加缪：对生命全然的接纳，便是我在世间最崇敬的美德",
           "imageUrl": null
         }
       ]
