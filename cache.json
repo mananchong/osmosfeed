@@ -6,6 +6,16 @@
       "siteUrl": "https://rweekly.org/atom.xml",
       "articles": [
         {
+          "id": "https://rweekly.org/2026-W09.html",
+          "author": null,
+          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Sam Parmar, with help from the R Weekly team members and contributors.\nHighlight\nGit commits: please mark your stitches!\nPick a License, Not Any License\nHow to choose the best LLM using R and vitals\nInsights\nGit commits: please mark your stitches!\n\nPacific diaspora by @ellis2013nz\nThe world’s biggest ‘Pacific’ cities by @ellis2013nz\nModeling Bitcoin Volatility Through Structural Breaks: A Compositional Perspective\nPick a License, Not Any License\n\nR in the Real World\nApply to be an Opportunity Scholar at posit::conf(2026)\nWeekly Recap (February 20, 2026)\nA Year of Learning, Growth, and Community at R-Ladies Rome 🌟\nFrom Data to Decisions: Digital Twins for Smarter Maintenance…",
+          "link": "https://rweekly.org/2026-W09.html",
+          "publishedOn": "2026-02-23T00:00:00.000Z",
+          "wordCount": 5749,
+          "title": "R Weekly 2026-W09 Git commits, Pick a License, and How to choose the best LLM using R and vitals",
+          "imageUrl": "https://rweekly.org/public/facebook.png"
+        },
+        {
           "id": "https://rweekly.org/2026-W08.html",
           "author": null,
           "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Batool Almarzouq, with help from the R Weekly team members and contributors.\nHighlight\nSubmissions Working Group: 2026 Plans and 2025 Success\nViewing Nested Lists with xfun::tabset()\nInsights\nPick a License, Not Any License: Why you should care about data science software licenses and how to learn more\n\nRcppSpdlog 0.0.27 on CRAN: C++20 Accommodations\nchronometre: A new package (pair) demo for R and Python\nR in the Real World\nThe world’s biggest ‘Pacific’ cities\nVisualising income inequality social tables by @ellis2013nz\nR in Organizations\nSubmissions Working Group: 2026 Plans and 2025 Success\n2026-02-13 AI Newsletter\nTutorials\nAssociated Keywords: The Missed Opportunity in S…",
@@ -64,6 +74,46 @@
       "feedUrl": "https://www.nationalreview.com/feed/",
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
+        {
+          "id": "https://www.nationalreview.com/?p=1922680",
+          "author": "Charles C. W. Cooke",
+          "description": "A decision as consequential as this one deserves a real debate in Congress.",
+          "link": "https://www.nationalreview.com/2026/02/we-need-a-vote-on-iran/",
+          "publishedOn": "2026-02-23T21:00:28.000Z",
+          "wordCount": 7273,
+          "title": "We Need a Vote on Iran",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/02/congress-iran2.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1922606",
+          "author": "Joshua Treviño",
+          "description": "Why does the MAGA base now seem to approve of an approach to war they supposedly sought to reject?",
+          "link": "https://www.nationalreview.com/2026/02/an-acceptable-war/",
+          "publishedOn": "2026-02-23T18:48:11.000Z",
+          "wordCount": 7342,
+          "title": "An ‘Acceptable War’",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/02/naval-air-buildup.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1922584",
+          "author": "Noah Rothman",
+          "description": "Even left-of-center analysts have thrown cold water on the far left’s self-flattering narratives.",
+          "link": "https://www.nationalreview.com/2026/02/would-you-believe-that-democrats-were-not-anti-israel-enough-in-2024/",
+          "publishedOn": "2026-02-23T18:24:25.000Z",
+          "wordCount": 7444,
+          "title": "Would You Believe That Democrats Were Not Anti-Israel Enough in 2024?",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/02/pro-palestinian-protest.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1922566",
+          "author": "Michael W. McConnell",
+          "description": "The Court’s decision aligns with the Framers’ views of presidential authority.",
+          "link": "https://www.nationalreview.com/2026/02/the-supreme-court-makes-a-prudent-ruling-on-the-trump-tariffs/",
+          "publishedOn": "2026-02-23T17:53:25.000Z",
+          "wordCount": 7552,
+          "title": "The Supreme Court Makes a Prudent Ruling on the Trump Tariffs",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/02/supreme-court-building.jpg?fit=2057%2C1200&ssl=1"
+        },
         {
           "id": "https://www.nationalreview.com/?p=1922261",
           "author": "David Guenthner",
@@ -1933,56 +1983,6 @@
           "wordCount": 10092,
           "title": "Trump’s Horseshoe",
           "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2025/12/donald-trump-oval-office-white-house.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1913757",
-          "author": "Becket Adams",
-          "description": "This is counterproductive.",
-          "link": "https://www.nationalreview.com/2026/01/canadian-media-outlets-help-whip-up-u-s-invasion-fears/",
-          "publishedOn": "2026-01-25T11:30:36.000Z",
-          "wordCount": 7083,
-          "title": "Canadian Media Outlets Help Whip Up U.S. Invasion Fears",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/01/CBC-news.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1913878",
-          "author": "Dale Wilcox and Chuck Edwards",
-          "description": "Restoring a citizenship question to the U.S. census would help rectify imbalances in congressional representation.",
-          "link": "https://www.nationalreview.com/2026/01/equal-representation-should-mean-equal-representation-for-american-citizens/",
-          "publishedOn": "2026-01-25T11:30:35.000Z",
-          "wordCount": 6786,
-          "title": "‘Equal Representation’ Should Mean Equal Representation for American Citizens",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/01/us-census.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1912755",
-          "author": "Douglas J. Feith",
-          "description": "The former Arizona senator, who is withdrawing from public life, was an admired legislator who understood the limits of diplomacy alone.",
-          "link": "https://www.nationalreview.com/2026/01/jon-kyl-a-persuasive-advocate-of-defense/",
-          "publishedOn": "2026-01-25T11:30:15.000Z",
-          "wordCount": 7700,
-          "title": "Jon Kyl, a Persuasive Advocate of Defense",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2018/12/RTS22Z0S.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1913640",
-          "author": "Payton McNabb",
-          "description": "The Supreme Court can either protect women as a real, distinct class, or it can green-light the erasure of women’s spaces and sports. There is no middle ground.",
-          "link": "https://www.nationalreview.com/2026/01/the-supreme-court-must-find-the-courage-to-defend-the-truth-on-womens-sports/",
-          "publishedOn": "2026-01-25T11:30:11.000Z",
-          "wordCount": 11504,
-          "title": "The Supreme Court Must Find the Courage to Defend the Truth on Women’s Sports",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/01/women-sports-1.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1913666",
-          "author": "Ingrid Skop",
-          "description": "Mail-order abortion drugs are redefining medical standards — and not in a good way.",
-          "link": "https://www.nationalreview.com/2026/01/in-the-abortion-industry-access-now-matters-more-than-care/",
-          "publishedOn": "2026-01-25T11:30:07.000Z",
-          "wordCount": 7052,
-          "title": "In the Abortion Industry, ‘Access’ Now Matters More Than Care",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/01/mifepristone.jpg?fit=2057%2C1200&ssl=1"
         }
       ]
     },
@@ -1991,6 +1991,36 @@
       "feedUrl": "https://sspai.com/feed",
       "siteUrl": "https://sspai.com",
       "articles": [
+        {
+          "id": "https://sspai.com/post/106056",
+          "author": "Sholmes",
+          "description": "编者按：本文是少数派2025年度征文活动#TeamCarbon25标签下的入围文章。本文仅代表作者本人观点，少数派只略微调整排版。今年的征文活动更有创意，「只能用AI」和「不能用AI」两大赛道激情PK ...查看全文",
+          "link": "https://sspai.com/post/106056",
+          "publishedOn": "2026-02-24T06:46:51.000Z",
+          "wordCount": 318,
+          "title": "旅居在滇西小城，体验美食与美景",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sspai.com/post/105218",
+          "author": "Soar_Freely",
+          "description": "在一个 AI 技术、云服务大肆发展的数字世界中，每个人都有必要开辟出一块完全属于自己的、利于深度思考与知识生产的自治领地。 这便是对生产力祛魅的最深刻实践。查看全文",
+          "link": "https://sspai.com/post/105218",
+          "publishedOn": "2026-02-24T02:56:34.000Z",
+          "wordCount": 367,
+          "title": "AI 时代的工具本地化：构建稳定、可迁移的数字堡垒",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sspai.com/post/106538",
+          "author": "少数派编辑部",
+          "description": "Linux 7.0-rc1 系统内核已发布，Firefox 浏览器 115 ESR 将于本月内停止支持 Windows 7/8 等。查看全文",
+          "link": "https://sspai.com/post/106538",
+          "publishedOn": "2026-02-23T23:53:01.000Z",
+          "wordCount": 514,
+          "title": "派早报：三星将 Perplexity AI 引入 Galaxy 手机等",
+          "imageUrl": null
+        },
         {
           "id": "https://sspai.com/post/105647",
           "author": "约斯特普通",
@@ -2769,16 +2799,6 @@
           "publishedOn": "2026-01-26T00:57:40.000Z",
           "wordCount": 698,
           "title": "派早报：高铁客服和专家回应「高铁二氧化碳超标」",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sspai.com/post/105482",
-          "author": "bakamio",
-          "description": "人未至，但耳朵可以先过去「溜达溜达」。查看全文",
-          "link": "https://sspai.com/post/105482",
-          "publishedOn": "2026-01-25T06:17:04.000Z",
-          "wordCount": 584,
-          "title": "从 triple j 到「字母汤」：澳洲音乐电台指北",
           "imageUrl": null
         }
       ]
@@ -5889,6 +5909,36 @@
       "feedUrl": "https://plink.anyfeeder.com/nytimes/dual",
       "siteUrl": "http://nytimes.com",
       "articles": [
+        {
+          "id": "https://cn.nytimes.com/business/20260224/china-electric-vehicle-troubles/dual",
+          "author": null,
+          "description": "AARON KROLIK2026年2月24日去年上海车展上的比亚迪展台。比亚迪股价较去年5月的高点已下跌逾35%。 Andrea Verdelli for The New York Times\nBy almost every metric, the Chinese carmaker BYD looks unstoppable.\n从几乎所有指标来看，中国汽车制造商比亚迪都势不可挡。\nAfter a decade of struggling to establish itself in the automobile industry, BYD has surpassed Tesla to become the world’s largest electric vehicle manufacturer. The company’s sales are rapidly expanding in Europe and Latin America, and new and potentially lucrative markets like Canada could soon open to it.\n在汽车行业艰难打拼十多年以站稳脚跟后，比亚迪如今已超越特斯拉，成为全球最大的电动汽车生产商。该公司在欧洲和拉丁美洲的销量迅速扩张，加拿大等新兴且利润潜力巨大的市场也可能很快向其敞开大门。\nBut investors are cooling on BYD’s ascent from a little-known battery maker to the top of the automotive world’s fast-growing segment. The company’s stock has fallen roughly 40 percent from its peak last …",
+          "link": "https://cn.nytimes.com/business/20260224/china-electric-vehicle-troubles/dual",
+          "publishedOn": "2026-02-24T07:06:01.000Z",
+          "wordCount": 1048,
+          "title": "股价下跌、销量下滑：中国电动车市场怎么了",
+          "imageUrl": "https://static01.nyt.com/images/2026/02/18/multimedia/00Biz-China-EVs-01-kwmg/00Biz-China-EVs-01-kwmg-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/technology/20260224/anthropic-chinese-startups-distillation/dual",
+          "author": null,
+          "description": "CADE METZ2026年2月24日深度求索是三家被指控利用Anthropic人工智能系统数据训练自身模型的中国初创企业之一，该过程被称为知识蒸馏。 Cfoto/Future Publishing, via Getty Images\nThe San Francisco artificial intelligence start-up Anthropic has accused three Chinese companies of improperly harvesting large amounts of data from its A.I. technologies in an effort to accelerate the development of their own systems.\n旧金山人工智能初创企业Anthropic指控三家中国公司通过不当手段大量抓取其人工智能技术数据，以加速自研系统开发。\nAnthropic said in a blog post on Monday that DeepSeek, Moonshot and MiniMax — three prominent Chinese start-ups — had used about 24,000 fraudulent accounts to generate over 16 million conversations with its Claude chatbot that could be used to teach skills to their own chatbots.\nAnthropic周一在一篇博客文章中表示，中国三家知名初创企业深度求索、月之暗面和稀宇科技利用约2.4万个虚假账号，与Anthropic的Claude聊天机器人产生了超过1600万次对话，这些数据可用于训练三家公…",
+          "link": "https://cn.nytimes.com/technology/20260224/anthropic-chinese-startups-distillation/dual",
+          "publishedOn": "2026-02-24T04:06:02.000Z",
+          "wordCount": 914,
+          "title": "Anthropic指控深度求索等中国公司不当获取其数据",
+          "imageUrl": "https://static01.nyt.com/images/2026/02/23/multimedia/23biz-anthropic-china-deepseek-mljk/23biz-anthropic-china-deepseek-mljk-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/usa/20260224/jimmy-lai-mike-johnson-sotu/dual",
+          "author": null,
+          "description": "CATIE EDMONDSON2026年2月24日\nSpeaker Mike Johnson on Monday said he would bring Claire Lai, the daughter of an imprisoned Hong Kong pro-democracy media mogul, to the State of the Union address at the Capitol.\n众议院议长迈克·约翰逊周一表示，他将邀请香港被监禁的民主派媒体大亨黎智英之女黎采出席国会大厦的国情咨文演讲。\nMs. Lai’s father, Jimmy Lai, has been blamed by Beijing for masterminding the city’s major protests nearly seven years ago. Her appearance is meant to underscore that “America is determined to secure Jimmy’s release,” Mr. Johnson said in a statement that praised her “extraordinary courage.”\n黎采的父亲黎智英被北京指控为近七年前香港大规模抗议活动的策划者。约翰逊在声明中赞扬她具有“非凡勇气”，并称她的出席旨在强调“美国决心确保黎智英获释”。\n“Jimmy Lai has devoted his career to championing democracy in Hong Kong, steadfastly fighting for the freedoms we too often take for granted in America,” Mr. Johnson said.…",
+          "link": "https://cn.nytimes.com/usa/20260224/jimmy-lai-mike-johnson-sotu/dual",
+          "publishedOn": "2026-02-24T02:06:02.000Z",
+          "wordCount": 684,
+          "title": "黎智英之女获邀出席特朗普国情咨文演讲",
+          "imageUrl": "https://static01.nyt.com/images/2026/02/23/multimedia/23trump-news-johnson-guest-vjpb/23trump-news-johnson-guest-vjpb-videoLarge.jpg"
+        },
         {
           "id": "https://cn.nytimes.com/china/20260217/xi-military-zhang-youxia-mao/dual",
           "author": null,
