@@ -2,10 +2,90 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mananchong.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-24T17:35:35.566Z</updated>
+    <updated>2026-02-25T08:07:07.222Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mananchong.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://mananchong.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[在 AI 的帮助下，给自己建了个数字人生档案馆]]></title>
+        <id>https://sspai.com/post/106401</id>
+        <link href="https://sspai.com/post/106401"/>
+        <updated>2026-02-25T07:00:25.000Z</updated>
+        <summary type="html"><![CDATA[编者按：本文是少数派2025年度征文活动#TeamSilicon25标签下的入围文章。本文仅代表作者本人观点，少数派只略微调整排版。今年的征文活动更有创意，「只能用AI」和「不能用AI」两大赛道激情P ...查看全文]]></summary>
+        <author>
+            <name>吃瓜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trump’s Supersized State of the Union]]></title>
+        <id>https://www.nationalreview.com/?p=1923236</id>
+        <link href="https://www.nationalreview.com/2026/02/trumps-supersized-state-of-the-union/"/>
+        <updated>2026-02-25T05:20:15.000Z</updated>
+        <summary type="html"><![CDATA[As a matter of performance, it often had the feel of a rally inside the congressional chamber.]]></summary>
+        <author>
+            <name>The Editors</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[出门在外也能远程 CLI Coding：我的 SSH 远程开发方案分享]]></title>
+        <id>https://sspai.com/post/105621</id>
+        <link href="https://sspai.com/post/105621"/>
+        <updated>2026-02-25T03:30:31.000Z</updated>
+        <summary type="html"><![CDATA[随着 CLI Coding Agent 的出现，我可以在 iPad 或手机上，通过 SSH 远程连接 Mac，在乘坐地铁等碎片时间远程开发，这是我的实践方式。查看全文]]></summary>
+        <author>
+            <name>Blanboom</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trump’s State of the Union Address: Live Updates]]></title>
+        <id>https://www.nationalreview.com/?p=1922655</id>
+        <link href="https://www.nationalreview.com/2026/02/trumps-state-of-the-union-address-live-updates/"/>
+        <updated>2026-02-25T01:20:54.000Z</updated>
+        <summary type="html"><![CDATA[Follow along for live updates and analysis on Trump’s State of the Union address.]]></summary>
+        <author>
+            <name>NR Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：五角大楼对 Anthropic 下达最后通牒、松下外包电视业务]]></title>
+        <id>https://sspai.com/post/106568</id>
+        <link href="https://sspai.com/post/106568"/>
+        <updated>2026-02-25T00:42:56.000Z</updated>
+        <summary type="html"><![CDATA[>下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[John Marshall Didn’t Invent Judicial Review]]></title>
+        <id>https://www.nationalreview.com/?p=1923028</id>
+        <link href="https://www.nationalreview.com/2026/02/john-marshall-didnt-invent-judicial-review/"/>
+        <updated>2026-02-24T20:05:10.000Z</updated>
+        <summary type="html"><![CDATA[The judicial power, and duty, to invalidate unconstitutional laws wasn’t the work of one inventive judge.]]></summary>
+        <author>
+            <name>Dan McLaughlin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[To the Left, the ‘Blue State Model’ Is About Much More Than Economics]]></title>
+        <id>https://www.nationalreview.com/?p=1923011</id>
+        <link href="https://www.nationalreview.com/2026/02/to-the-left-the-blue-state-model-is-about-much-more-than-economics/"/>
+        <updated>2026-02-24T19:45:07.000Z</updated>
+        <summary type="html"><![CDATA[There is something revealing about a discourse in which anything short of toleration for the incontinent unhoused is tantamount to fascism.]]></summary>
+        <author>
+            <name>Noah Rothman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unicorns in Sweden]]></title>
+        <id>https://www.nationalreview.com/?p=1922908</id>
+        <link href="https://www.nationalreview.com/2026/02/unicorns-in-sweden/"/>
+        <updated>2026-02-24T17:38:08.000Z</updated>
+        <summary type="html"><![CDATA[The week of February 16, 2026: Sweden’s venture capital success, tariffs, AI, pensions, and much more.]]></summary>
+        <author>
+            <name>Andrew Stuttaford</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Our Men’s Hockey Team’s Historic Win Was Just Too Much for Sports Writers to Bear]]></title>
         <id>https://www.nationalreview.com/?p=1922889</id>
@@ -6234,243 +6314,6 @@ General Zhang did not appear worried that he had to look over his shoulder to ma
         <summary type="html"><![CDATA[At a minimum, the DHS secretary should immediately become the least visible member of this administration.]]></summary>
         <author>
             <name>Jeffrey Blehar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trump Sends Tom Homan to Minneapolis]]></title>
-        <id>https://www.nationalreview.com/?p=1914395</id>
-        <link href="https://www.nationalreview.com/2026/01/trump-sends-tom-homan-to-minneapolis/"/>
-        <updated>2026-01-26T17:50:04.000Z</updated>
-        <summary type="html"><![CDATA[Dispatching Homan to the scene is, it appears, an attempt to dial down tension and reset the mission.]]></summary>
-        <author>
-            <name>Andrew C. McCarthy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Scale of the Iranian Massacre Comes into View]]></title>
-        <id>https://www.nationalreview.com/?p=1914389</id>
-        <link href="https://www.nationalreview.com/2026/01/the-scale-of-the-iranian-massacre-comes-into-view/"/>
-        <updated>2026-01-26T17:43:28.000Z</updated>
-        <summary type="html"><![CDATA[In securing its survival through slaughter, the Iranian regime has sacrificed its tenuous remaining claims to legitimacy.]]></summary>
-        <author>
-            <name>Noah Rothman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Conservative’s Guide to the 2026 Best Picture Nominees]]></title>
-        <id>https://www.nationalreview.com/?p=1914357</id>
-        <link href="https://www.nationalreview.com/2026/01/a-conservatives-guide-to-the-2026-best-picture-nominees/"/>
-        <updated>2026-01-26T16:39:51.000Z</updated>
-        <summary type="html"><![CDATA[The outrage peddlers will tell you the Best Picture category is a wasteland. It isn’t.]]></summary>
-        <author>
-            <name>Giancarlo Sopo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Congress Can Change the Cancer Story with a Vote]]></title>
-        <id>https://www.nationalreview.com/?p=1913953</id>
-        <link href="https://www.nationalreview.com/2026/01/congress-can-change-the-cancer-story-with-a-vote/"/>
-        <updated>2026-01-26T11:30:51.000Z</updated>
-        <summary type="html"><![CDATA[An early-detection blood test, if covered by Medicare, could save money and lives.]]></summary>
-        <author>
-            <name>Michael Burgess</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[President Trump Can Make the Americas Great Again]]></title>
-        <id>https://www.nationalreview.com/?p=1913772</id>
-        <link href="https://www.nationalreview.com/2026/01/president-trump-can-make-the-americas-great-again/"/>
-        <updated>2026-01-26T11:30:38.000Z</updated>
-        <summary type="html"><![CDATA[After several years of a U.S. in retreat, the Monroe Doctrine is experiencing a resurgence.]]></summary>
-        <author>
-            <name>French Hill</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Save Bayh–Dole’s $2 Trillion Impact on American Innovation]]></title>
-        <id>https://www.nationalreview.com/?p=1913456</id>
-        <link href="https://www.nationalreview.com/2026/01/save-bayh-doles-2-trillion-impact-on-american-innovation/"/>
-        <updated>2026-01-26T11:30:33.000Z</updated>
-        <summary type="html"><![CDATA[A proposed 50 percent royalty seizure would be a death knell for our system of academic technology transfer.]]></summary>
-        <author>
-            <name>Alden Abbott</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why 2026 Marks the Dawn of Nationwide School Choice]]></title>
-        <id>https://www.nationalreview.com/?p=1913767</id>
-        <link href="https://www.nationalreview.com/2026/01/why-2026-marks-the-dawn-of-nationwide-school-choice/"/>
-        <updated>2026-01-26T11:30:17.000Z</updated>
-        <summary type="html"><![CDATA[Trump’s new federal school choice program includes an irresistible pathway for taxpayers to help kids.]]></summary>
-        <author>
-            <name>Corey DeAngelis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reeling Minnesota]]></title>
-        <id>https://www.nationalreview.com/?p=1914176</id>
-        <link href="https://www.nationalreview.com/2026/01/reeling-minnesota/"/>
-        <updated>2026-01-26T11:30:07.000Z</updated>
-        <summary type="html"><![CDATA[The latest immigration-enforcement-related shooting deserves a credible investigation.]]></summary>
-        <author>
-            <name>The Editors</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We Don’t Need Politicians to Know That Life Is Worth Living]]></title>
-        <id>https://www.nationalreview.com/?p=1914171</id>
-        <link href="https://www.nationalreview.com/2026/01/we-dont-need-politicians-to-know-that-life-is-worth-living/"/>
-        <updated>2026-01-26T11:30:02.000Z</updated>
-        <summary type="html"><![CDATA[The March for Life has very little to do with JD Vance or Donald Trump.]]></summary>
-        <author>
-            <name>Kathryn Jean Lopez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本民众送别大熊猫 - January 26, 2026]]></title>
-        <id>idaily-244772</id>
-        <link href="https://m.idai.ly/se/20707h"/>
-        <updated>2026-01-26T10:59:00.000Z</updated>
-        <summary type="html"><![CDATA[东京上野动物园，旅日雌性大熊猫「蕾蕾」正在吃竹子。1月25日，东京上野动物园的大熊猫龙凤胎「晓晓」和「蕾蕾」在返回中国前最后一天向日本公众展出，当天共有4400名抽签选中的日本民众进入大熊猫馆参观，申请中签率仅为4%。这对大熊猫将于1月27日启程返回中国，届时日本将出现自1972年中日邦交正常化以来首次境内无大熊猫的状况。摄影师：Soichiro Koriyama]]></summary>
-        <author>
-            <name>日本 · 东京</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国遭遇冬季风暴侵袭 - January 26, 2026]]></title>
-        <id>idaily-244768</id>
-        <link href="https://m.idai.ly/se/bfeVJh"/>
-        <updated>2026-01-26T09:58:00.000Z</updated>
-        <summary type="html"><![CDATA[纽约圣帕特里克大教堂被大雪笼罩。1月24日，美国南部及东北部地区遭遇新一轮冬季风暴侵袭，全美24个州已宣布进入紧急状态，受影响人口超过2.45亿，暴雪和冻雨天气导致超过100万户家庭停电，逾1.7万个航班被取消，创下新冠疫情后的最高纪录。纽约市当天最低气温降至-9℃，累积降雪量达到44厘米，全市所有公立学校停课或改为线上授课。摄影师：Roy Rochlin]]></summary>
-        <author>
-            <name>美国 · 纽约</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派评 | 近期值得关注的 App]]></title>
-        <id>https://sspai.com/post/105782</id>
-        <link href="https://sspai.com/post/105782"/>
-        <updated>2026-01-26T09:53:55.000Z</updated>
-        <summary type="html"><![CDATA[>下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[缅甸大选最后阶段投票 - January 26, 2026]]></title>
-        <id>idaily-244765</id>
-        <link href="https://m.idai.ly/se/af35lL"/>
-        <updated>2026-01-26T08:57:00.000Z</updated>
-        <summary type="html"><![CDATA[缅甸民众参加大选第三阶段投票，仰光。1月25日，缅甸大选最后一轮投票在仰光、曼德勒等9个省邦启动，预计最终结果在本周内公布。缅甸本次大选前两阶段投票结果显示，缅甸军方支持的「联邦巩固与发展党」（USDP）赢得92%下议院席位和66%上议院席位。缅甸宪法规定军方有权指定25%的国会席位，这意味着军方与巩发党已掌握国会上下议院的绝对控制席位。缅甸军政府宣布计划于3月向议会移交国家职责，新一届政府将于4月正式就职。摄影师：Sai Aung Main]]></summary>
-        <author>
-            <name>缅甸 · 仰光</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国CBP击毙白人男子 - January 26, 2026]]></title>
-        <id>idaily-244762</id>
-        <link href="https://m.idai.ly/se/d2dbI8"/>
-        <updated>2026-01-26T08:55:00.000Z</updated>
-        <summary type="html"><![CDATA[芝加哥民众冒着暴雪游行抗议美国海关及边境保护局（CBP）暴力执法。1月24日，美国海关及边境保护局警员在明尼阿波利斯市开枪击毙一名37岁的美国白人男性公民 Alex Pretti。这是美国联邦移民执法人员本月开枪打死的第2名美国白人公民，死者生前为一名重症监护室护士。美国国土安全部称被击毙的男子「持枪」接近执法人员，并在后者试图缴械时「激烈反抗」，声称警员开枪是出于「正当防卫」。现场目击者录制的视频显示，这名男子被击毙时已被执法人员搜走枪支，处于无枪械状态。警方事后证实该男子拥有合法的持枪许可，没有除交通违章以外的任何犯罪记录。摄影师：Jacek Boczarski]]></summary>
-        <author>
-            <name>美国 · 芝加哥</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[普京视察物理技术学院 - January 26, 2026]]></title>
-        <id>idaily-244760</id>
-        <link href="https://m.idai.ly/se/50ff6K"/>
-        <updated>2026-01-26T08:53:00.000Z</updated>
-        <summary type="html"><![CDATA[俄罗斯总统 Vladimir Putin 访问莫斯科物理技术学院。1月23日，俄总统 Putin 在莫斯科物理技术学院校庆75周年之际访问该校并与师生进行交流。Putin 在交流中指出，俄罗斯目前拥有全球规模最大的破冰船队，包括34艘柴油动力破冰船、8艘现役核动力破冰船和多艘在建核动力破冰船，开发北海航线对俄罗斯具有重要的战略意义。Putin 透露称俄罗斯远东红星造船厂正在建造世界上最强大的核动力破冰船「Lider」，功率达150兆瓦，预计2030年完工交付。摄影师：Grigory Sysoyev]]></summary>
-        <author>
-            <name>俄罗斯 · 莫斯科</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hermès 2026秋冬男装秀 - January 26, 2026]]></title>
-        <id>idaily-244759</id>
-        <link href="https://m.idai.ly/se/754B1T"/>
-        <updated>2026-01-26T08:51:00.000Z</updated>
-        <summary type="html"><![CDATA[巴黎 2026 秋冬男装周 Hermès 秀场，模特们正在展示品牌男装艺术总监 Véronique Nichanian 的最后一季时装作品，耶纳宫。本季男装作品以「契合当下，亦启向永恒」为主题，设计师在飞行员夹克、旅行大衣、双排扣西装等经典廓形单品中融入羊羔毛、绒里皮和光面牛皮，实现多重材质纹理的碰撞交织，并加入马镫式缝线、双层翻领、箱型口袋等细节，塑造出既可纵情驰骋、亦能步履悠然的男士形象。摄影师：Aurelien Morissard]]></summary>
-        <author>
-            <name>法国 · 巴黎</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[北京颐和园昆明湖冰场 - January 26, 2026]]></title>
-        <id>idaily-244753</id>
-        <link href="https://m.idai.ly/se/32brq2"/>
-        <updated>2026-01-26T08:49:00.000Z</updated>
-        <summary type="html"><![CDATA[北京市民们在颐和园昆明湖冰场上游玩。1月17日，北京最大的天然户外滑冰场昆明湖冰场正式向公众开放，首日接待游客数量达1.4万人次。昆明湖位于北京颐和园内，面积达200公顷，湖中建有仿杭州西湖的「西堤六桥」，周围标志性景点包括万寿山、佛香阁、清晏舫、排云殿、知春亭等。受北京入冬气温较暖影响，本季昆明湖冰场整体运营面积从往年的35万平方米缩小至16万平方米，开放时间持续至2月4日。摄影师：iDaily Media]]></summary>
-        <author>
-            <name>中国 · 北京</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特朗普称格陵兰岛面临中俄威胁，果真如此吗？]]></title>
-        <id>https://cn.nytimes.com/world/20260126/trump-china-russia-greenland/dual</id>
-        <link href="https://cn.nytimes.com/world/20260126/trump-china-russia-greenland/dual"/>
-        <updated>2026-01-26T08:36:02.000Z</updated>
-        <summary type="html"><![CDATA[黄安伟2026年1月26日特朗普总统多次声称安全是他希望获得格陵兰岛的理由。 Jonathan Nackstrand/Agence France-Presse — Getty Images
-Fourteen years ago, a Chinese icebreaker called the Snow Dragon made a long and surprising voyage.
-14年前，中国破冰船“雪龙”号开启了一段漫长而惊人的航程。
-Over three months in the summer, the scientific research vessel crossed from the Pacific to the Atlantic, traversing nearly 5,400 nautical miles of the Arctic Ocean, a first for China. The crew discovered that melting ice meant the ship could travel through the remote region without great difficulty, the expedition leader told reporters after docking in Iceland.
-那年夏天，这艘科考船首次实现了中国船只穿越北冰洋近5400海里的航程，从太平洋驶抵大西洋。考察队领队在冰岛靠岸后向记者透露，队员们发现，冰层消融让船只得以顺利穿越这片偏远海域。
-“To our astonishment,” said the leader, Huigen Yang, “most part of the Northern Sea Route is open.”
-“我们十分惊讶，”杨惠根表示，“东北航道的大…]]></summary>
-        <author>
-            <name>纽约时报双语版</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[密会华商引发丑闻，秘鲁总统或遭弹劾]]></title>
-        <id>https://cn.nytimes.com/world/20260126/peru-president-chinese-businessmen-meetings/dual</id>
-        <link href="https://cn.nytimes.com/world/20260126/peru-president-chinese-businessmen-meetings/dual"/>
-        <updated>2026-01-26T08:36:02.000Z</updated>
-        <summary type="html"><![CDATA[MAX BEARAK, MITRA TAJ2026年1月26日周三，秘鲁总统何塞·耶里抵达利马的国会大厦向议员发表讲话。此前他因未公开与华商的会面而陷入丑闻。 Martin Mejia/Associated Press
-Secret recordings of Peruvian presidents are nothing new. Nor are corruption accusations leading to impeachments. Over the past decade, Peru has had seven presidents, none of whom has managed to hang on for longer than three years. One resigned within a week.
-秘鲁总统被秘密录音或者偷拍并不是什么新鲜事。因腐败指控而导致的弹劾同样屡见不鲜。过去十年间，秘鲁已经更换了七位总统，没有一位任期超过三年，其中一位甚至上台不到一周即宣告辞职。
-The country’s current president, José Jerí, 39, who presided over the impeachment of his predecessor and who was then installed in her place last October, could join that list.
-现任总统何塞·耶里现年39岁，他曾主持对前任总统的弹劾，随后于去年10月接替了这一职位，而如今，他也可能与前任们面临同样的命运。
-In a leaked video released this month, CCTV footage from Dec. 26 shows Mr. Jerí being dropped off by…]]></summary>
-        <author>
-            <name>纽约时报双语版</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从「墓碑」到见机行事：iOS 后台机制现状分析]]></title>
-        <id>https://sspai.com/prime/story/the-state-of-ios-background-tasks</id>
-        <link href="https://sspai.com/prime/story/the-state-of-ios-background-tasks"/>
-        <updated>2026-01-26T07:46:07.000Z</updated>
-        <summary type="html"><![CDATA[在 WWDC25 的主题演讲上，Apple 提到 iPadOS 26（同时适用于 iOS 26）提供了一个新的后台 API。这个 API 旨在为计算密集型任务提供后台能力，调用时会显示一个实时活动（Live Activity），让用户了解并完全控制当前运行的内容。而到了 iOS 26.1，新的「相册后台备份」API 还允许第三方应用在后台上传照片等资源文件。由此观察，iOS 的后台机制，似乎已经相比于早年那种被称为「墓碑」的假后台发生了很大变化。查看全文
-本文为会员文章，出自《单篇文章》，订阅后可阅读全文。]]></summary>
-        <author>
-            <name>广陵止息</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kindle Paperwhite 3 杂谈：为什么它是我高中生涯最值的电子产品？]]></title>
-        <id>https://sspai.com/post/105685</id>
-        <link href="https://sspai.com/post/105685"/>
-        <updated>2026-01-26T07:24:45.000Z</updated>
-        <summary type="html"><![CDATA[对于高中生来说，在还不能够完全掌握自己的生活之前，KPW3也许是他第一次尝试用科技手段解决传统问题的美好体验。查看全文]]></summary>
-        <author>
-            <name>Haoo_7</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[徒手攀爬台北101大楼，一场全球直播大冒险]]></title>
-        <id>https://cn.nytimes.com/asia-pacific/20260126/climbing-buildings-skyscrapers-alex-honnold/dual</id>
-        <link href="https://cn.nytimes.com/asia-pacific/20260126/climbing-buildings-skyscrapers-alex-honnold/dual"/>
-        <updated>2026-01-26T07:06:02.000Z</updated>
-        <summary type="html"><![CDATA[JOHN YOON2026年1月26日成功徒手攀登台北101大楼后，亚历克斯·霍诺德在楼顶向众人挥手致意。 I-Hwa Cheng/Agence France-Presse — Getty Images
-Alex Honnold, a rock climber who was the subject of the Oscar-winning documentary “Free Solo,” successfully climbed the 1,667-foot-tall skyscraper Taipei 101 in Taiwan on Sunday, without a rope.
-周日，奥斯卡获奖纪录片《徒手攀岩》(Free Solo)的主角、攀岩运动员亚历克斯·霍诺德在台湾徒手攀上了高508米的台北101大楼。
-Scaling a building that tall is not like climbing a mountain. Those in the club of just a dozen or so known skyscraper climbers worldwide say the activity comes with unique physical and mental demands.
-攀爬如此高度的建筑与攀岩截然不同。全球仅有十几位知名的摩天大楼攀爬者，他们表示这项运动对人的身心有着独特的要求。
-It is also a largely underground sport because it is usually illegal. Alain Robert, a Frenchman who has scaled some 200 buildings since the 1990s, mostly with his bare hands, s…]]></summary>
-        <author>
-            <name>纽约时报双语版</name>
         </author>
     </entry>
 </feed>
