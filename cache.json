@@ -1933,56 +1933,6 @@
           "wordCount": 7679,
           "title": "Like January 6, Minnesota Is a Test of American National Sovereignty",
           "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/01/ice-minnesota-january-18.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1914753",
-          "author": "Rich Lowry",
-          "description": "More than 200 years after the Kentucky Resolutions, a version of nullification still lives.",
-          "link": "https://www.nationalreview.com/2026/01/minnesotas-campaign-for-interposition-and-nullification/",
-          "publishedOn": "2026-01-27T18:10:09.000Z",
-          "wordCount": 6657,
-          "title": "Minnesota’s Campaign for Interposition and Nullification",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/01/walz-frey.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1914591",
-          "author": "The Editors",
-          "description": "The truth is, legally, Alex Pretti was within his rights to have his gun on his person; but that doesn’t mean his actions were prudent.",
-          "link": "https://www.nationalreview.com/2026/01/the-second-amendment-role-reversal/",
-          "publishedOn": "2026-01-27T11:30:54.000Z",
-          "wordCount": 6788,
-          "title": "The Second Amendment Role Reversal",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/01/minneapolis-agents-protesters.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1914124",
-          "author": "Frederick M. Hess and Aidan Grogan",
-          "description": "Its slimmed-down finances could prove as significant as its curriculum.",
-          "link": "https://www.nationalreview.com/2026/01/can-the-university-of-austin-be-replicated/",
-          "publishedOn": "2026-01-27T11:30:49.000Z",
-          "wordCount": 6659,
-          "title": "Can the University of Austin Be Replicated?",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/01/austin-students.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1914454",
-          "author": "Marc L. Busch",
-          "description": "Stronger trade policy begins with consistent treatment of essential medical products.",
-          "link": "https://www.nationalreview.com/2026/01/apply-health-care-tariffs-evenly-or-not-at-all/",
-          "publishedOn": "2026-01-27T11:30:26.000Z",
-          "wordCount": 7161,
-          "title": "Apply Health-Care Tariffs Evenly, or Not at All",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2021/03/pill-bottles.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1914535",
-          "author": "Jianli Yang",
-          "description": "The move by Xi marks a seismic shift in Beijing’s power structure.",
-          "link": "https://www.nationalreview.com/2026/01/with-xi-jinpings-purge-of-chinas-most-senior-uniformed-official-war-in-taiwan-may-be-a-step-closer/",
-          "publishedOn": "2026-01-27T11:30:06.000Z",
-          "wordCount": 8580,
-          "title": "With Xi Jinping’s Purge of China’s Most Senior Uniformed Official, War in Taiwan May Be a Step Closer",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/01/XiJinping-ZhangYouxia.jpg?fit=2057%2C1200&ssl=1"
         }
       ]
     },
@@ -1991,6 +1941,36 @@
       "feedUrl": "https://sspai.com/feed",
       "siteUrl": "https://sspai.com",
       "articles": [
+        {
+          "id": "https://sspai.com/post/105484",
+          "author": "小胡小胡0009",
+          "description": "我测了 8 款 AI PPT 工具，只有 2 款真正能用。查看全文",
+          "link": "https://sspai.com/post/105484",
+          "publishedOn": "2026-02-26T06:33:00.000Z",
+          "wordCount": 417,
+          "title": "深度横评：2026 年，AI 生成 PPT 到底进化到什么程度了？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sspai.com/prime/story/on-dsstore",
+          "author": "Neighbor_Z",
+          "description": "引\n你是否在 Windows 与 macOS 之间频繁切换工作、互传数据？你是否拥有 NAS 并且局域网内同时存在 Mac 和 PC 访问其资源？或者，你是否拥有一位使用 Mac 的朋友、同事、同学，并使用储存介质在他们的 Mac 上拷贝过文件？如果满足上述任一条件，那么你应该大概率见过 .DS_Store 文件。\n如果你进入互联网搜索 .DS_Store 文件，扑面而来的却可能是大量「讨伐」.DS_Store 的声音。主流的搜索结果包括「如何删除 .DS_Store 文件」「如何阻止 .DS_Store 生成」「如何在项目/仓库中排除 .DS_Store」「.DS_Store 文件清理工具」等等。\n可以说，大多数搜索结果以及针对 .DS_Store 的批评意见其，实围绕着 .DS_Store 文件本身展开，而「.DS_Store」与产生这一文件的 macOS Finder 之间的关联却常常被人忽视。抛开 Finder 谈 .DS_Store 就如同抛开前提条件谈问题——在很大程度上失去讨论问题的意义。\n因此，本文希望从 .DS_Store 出发，基于与 Windows 平台下的类似文件 Desktop.ini 和 Thumbs.db 的对比，论述 Finder 与 Windows 资源管理器在某些设计方面的差异。\n概述\n在开始 macOS 的 Finder 与 Windows 资源管理器的比较前，这里还是有必要对本文将要讨论的几个对象做出简要概述。\n首先是 .DS_Store 文件，其英文全称为 Desktop Services Store（桌面服务存储），诞生于 1999 年 Mac OS X Finder 重写时期。这是一种由 macOS 自动创建的隐藏文件，本质上是一个采用 B-树（B-tree）结构的专有二进制文件。它主要用于存储 Finder 文件夹的自定义属性…",
+          "link": "https://sspai.com/prime/story/on-dsstore",
+          "publishedOn": "2026-02-26T03:27:16.000Z",
+          "wordCount": 419,
+          "title": "再谈 .DS_Store：兼论 Windows 与 macOS Finder 的布局理念差异",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sspai.com/post/106602",
+          "author": "少数派编辑部",
+          "description": "Aqara 发布智能可视门铃 G400，Spotify 推出骨灰盒造型音箱等。查看全文",
+          "link": "https://sspai.com/post/106602",
+          "publishedOn": "2026-02-26T01:01:50.000Z",
+          "wordCount": 628,
+          "title": "派早报：三星发布 S26 系列手机、Anthropic 的新动态等",
+          "imageUrl": null
+        },
         {
           "id": "https://sspai.com/post/106401",
           "author": "吃瓜",
@@ -2749,26 +2729,6 @@
           "publishedOn": "2026-01-28T00:17:04.000Z",
           "wordCount": 718,
           "title": "派早报：森海塞尔发布两款 USB-C 有线耳机等",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sspai.com/post/105807",
-          "author": "Matrix机器人",
-          "description": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。🖊️季度创作 ...查看全文",
-          "link": "https://sspai.com/post/105807",
-          "publishedOn": "2026-01-27T08:48:20.000Z",
-          "wordCount": 1338,
-          "title": "社区速递 127 | 派友的 12 月剁手清单、8 年不换电池的温湿度计",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sspai.com/post/105584",
-          "author": "Bestony",
-          "description": "2026 年你依然可以 Happy Coding。查看全文",
-          "link": "https://sspai.com/post/105584",
-          "publishedOn": "2026-01-27T07:09:12.000Z",
-          "wordCount": 597,
-          "title": "软件工程师的 AI Coding 进化论",
           "imageUrl": null
         }
       ]
@@ -5885,104 +5845,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://pic.yupoo.com/fotomag/74fb94b1/05dd73a6.jpg"
-        },
-        {
-          "id": "idaily-244837",
-          "author": "中国 · 上海",
-          "description": "上海城隍庙豫园展出农历马年主题彩灯迎接春节。1月26日，上海豫园2026马年灯会正式亮灯，本年度主灯命名为「骏驰九州，步步生花」，灵感来自唐太宗昭陵六骏石刻，每一匹马均融入洛阳博物馆馆藏文物的标志性元素，展期持续至3月3日。上海市文旅局公布数据显示，2025年上海全市共接待入境游客936.02万人次，同比增长39.58%，创下历史新高，前五大游客来源地依次为韩国、日本、美国、泰国和马来西亚。摄影师：iDaily Media",
-          "link": "https://m.idai.ly/se/70e0s1",
-          "publishedOn": "2026-01-27T10:49:00.000Z",
-          "wordCount": 253,
-          "title": "上海豫园新春灯会亮灯 - January 27, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/2d146f98/30b3d608.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/2d146f98/30b3d608.jpg"
-        },
-        {
-          "id": "idaily-244836",
-          "author": "日本 · 东京",
-          "description": "日本共产党、国民民主党、中道改革联合党、自民党、维新会、参政党和令和新选组7党党首参加辩论会，东京。1月26日，日本朝野7个政党党首围绕物价上涨对策、外交、安保等议题进行辩论。自民党总裁兼现任首相高市早苗的竞选主张为「负责任的积极财政」，主张以投资和减税拉动经济增长；最大在野党中道改革联合党党首野田佳彦的竞选主张为「生活者优先」，主张避免日元过度贬值，并推行务实的外交与防卫政策。日本第51届众议院选举将于2月8日进行投票，最新民调显示自民党以40%支持率位居第一，中道改革联合党以13%支持率排名第二，国民民主党以9%支持率排名第三。摄影师：David Mareuil",
-          "link": "https://m.idai.ly/se/d20Y6R",
-          "publishedOn": "2026-01-27T09:58:00.000Z",
-          "wordCount": 253,
-          "title": "日本朝野7党党首辩论 - January 27, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/a50d5d35/0db86498.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/a50d5d35/0db86498.jpg"
-        },
-        {
-          "id": "idaily-244833",
-          "author": "印度 · 新德里",
-          "description": "印度共和国日阅兵式在新德里责任大道举行，印俄联合研制的「布拉莫斯」（BrahMos）超音速巡航导弹方队接受检阅。1月26日，印度首都新德里举行阅兵典礼庆祝第77个共和国日，印度总理 Narendra Modi 以及欧盟委员会主席等约1万名嘉宾现场观摩。本次阅兵共有18个方队约6000名士兵、29架飞机接受检阅，亮相武器装备包括「布拉莫斯」超音速巡航导弹、印度国产远程反舰高超音速导弹、「阿卡什」防空系统、「苏里亚斯特拉」火箭炮和「阿琼」主战坦克等。摄影师：Sajjad Hussain",
-          "link": "https://m.idai.ly/se/0c3mGS",
-          "publishedOn": "2026-01-27T08:57:00.000Z",
-          "wordCount": 253,
-          "title": "印度庆祝独立77周年 - January 27, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/dec4afcf/44c0efa9.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/dec4afcf/44c0efa9.jpg"
-        },
-        {
-          "id": "idaily-244830",
-          "author": "韩国 · 首尔",
-          "description": "韩国黄金交易所工作人员展示一组金条，首尔。1月26日，国际现货黄金价格首次突破5100美元关口，盘中触及5110.50美元/盎司，创下历史新高。当天铂金价格涨至2918.8美元/盎司，白银价格涨至117.69美元/盎司，均刷新最高纪录。2026年迄今金价累计上涨近18%，主要受地缘政治紧张加剧、各国央行增持黄金等因素推动。高盛估计目前全球央行的月均黄金购买量约为60吨，远高于2022年以前的平均水平17吨。摄影师：iDaily Media",
-          "link": "https://m.idai.ly/se/aaa1bN",
-          "publishedOn": "2026-01-27T08:55:00.000Z",
-          "wordCount": 253,
-          "title": "国际金价突破5100美元 - January 27, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/2db647ab/179b3491.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/2db647ab/179b3491.jpg"
-        },
-        {
-          "id": "idaily-244829",
-          "author": "俄罗斯 · 圣彼得堡",
-          "description": "俄罗斯总统 Vladimir Putin 陪同马来西亚最高元首 Ibrahim Iskandar 参观冬宫博物馆，圣彼得堡。1月26日，马来西亚最高元首 Ibrahim 应邀对俄罗斯进行为期3天私人访问，主要行程包括参观冬宫博物馆及出席列宁格勒保卫战解除封锁纪念活动等。俄罗斯是马来西亚在欧洲的第9大贸易伙伴，2025年前11个月两国双边贸易额约为32亿美元，同比增长超过30%。摄影师：Anatoly Maltsev",
-          "link": "https://m.idai.ly/se/a17ShE",
-          "publishedOn": "2026-01-27T08:53:00.000Z",
-          "wordCount": 253,
-          "title": "马来西亚最高元首访俄 - January 27, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/1cadfcf4/487b4e6b.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/1cadfcf4/487b4e6b.jpg"
-        },
-        {
-          "id": "idaily-244827",
-          "author": "朝鲜 · 平壤",
-          "description": "朝鲜最高领导人金正恩指导海外作战士兵雕像创作工作，平壤。1月25日，金正恩访问平壤万寿台创作社，亲自指导海外军事作战功勋纪念馆的雕像创作过程。金正恩在讲话中强调，朝鲜军队向时代证明了「精神力量的强者百战必胜」这一实力法则和不变哲理，指示创作人员以高标准完成雕像创作，要求作品具有真实感、细腻性、造型美，反映朝鲜军队的战斗气概、崇高的战友情和热爱祖国的精神，确保雕塑形式和建筑物之间的和谐统一。摄影师：KCNA",
-          "link": "https://m.idai.ly/se/e15bJq",
-          "publishedOn": "2026-01-27T08:51:00.000Z",
-          "wordCount": 253,
-          "title": "金正恩指导援俄士兵雕像创作 - January 27, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/9527c45d/693b95d9.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/9527c45d/693b95d9.jpg"
-        },
-        {
-          "id": "idaily-244825",
-          "author": "泰国 · 普吉岛",
-          "description": "一只幼年印度太平洋豹纹鲨（Leopard shark）正在接受野化训练，普吉岛。泰国海洋与沿海资源部于2025年5月启动「泰国豹纹鲨复苏计划」（StAR），迄今已成功向大海放归7只人工圈养的豹纹鲨。放归野外的豹纹鲨均孵化于普吉水族馆，大约1岁时被转移至海水养殖笼接受野化训练，经过数月训练完全适应大海环境后再进行放生。豹纹鲨主要分布于印度洋和西太平洋近岸水域，身长可达3.5米，受过度捕捞和栖息地丧失威胁，已被列为濒危物种。摄影师：Napat Wesshasartar",
-          "link": "https://m.idai.ly/se/6726JF",
-          "publishedOn": "2026-01-27T08:49:00.000Z",
-          "wordCount": 253,
-          "title": "泰国豹纹鲨野放计划 - January 27, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/7731ee9a/e8620e51.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/7731ee9a/e8620e51.jpg"
         }
       ]
     },
@@ -5991,6 +5853,76 @@
       "feedUrl": "https://plink.anyfeeder.com/nytimes/dual",
       "siteUrl": "http://nytimes.com",
       "articles": [
+        {
+          "id": "https://cn.nytimes.com/usa/20260226/trump-state-of-the-union-takeaways/dual",
+          "author": null,
+          "description": "TYLER PAGER, LUKE BROADWATER2026年2月26日\nPresident Trump delivered the longest State of the Union address in American history on Tuesday night, insisting that he had overseen a “turnaround for the ages” during his first year back in office, even as voters lose confidence in his handling of the economy.\n特朗普总统于周二晚间发表了美国历史上最长的国情咨文演讲，坚称自己在重返白宫的第一年里实现了“划时代的扭转”，尽管选民对他处理经济问题的信心正在下降。\nIn his remarks, which clocked in at one hour and 47 minutes, Mr. Trump introduced few new policies and instead appeared to relish the theatrics of the moment. He used the opportunity to berate Democrats as “crazy” for not standing or applauding for his priorities, especially on crime, immigration and the economy.\n他的讲话时长达1小时47分钟，期间没有提出什么新的政策，反而似乎沉浸在演讲时刻的戏剧化场面之中。他借此机会斥责民主党人“疯了”，因为他们没有起立鼓掌支持他的优先议题，尤其在犯罪、移民和经济方面。\nMr. Trump’…",
+          "link": "https://cn.nytimes.com/usa/20260226/trump-state-of-the-union-takeaways/dual",
+          "publishedOn": "2026-02-26T07:06:02.000Z",
+          "wordCount": 1454,
+          "title": "特朗普“史上最长国情咨文”六大要点",
+          "imageUrl": "https://static01.nyt.com/images/2026/02/24/multimedia/24dc-takeaways-top-qvkf/24dc-takeaways-top-qvkf-videoLarge-v2.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/business/20260225/china-chips-nvidia-huawei/dual",
+          "author": null,
+          "description": "MEAGHAN TOBIN2026年2月25日上海中芯国际集成电路制造有限公司园区。中国政府已投入逾1500亿美元，致力于推动国内尖端芯片的自主研发。 Qilai Shen for The New York Times\nAt a conference at Tsinghua University in Beijing in January, a group of the most influential executives and founders working in artificial intelligence in China gathered to discuss the state of their industry. The mood was bullish. One of the companies in the room, which included people from Tencent, Alibaba and Zhipu AI, could soon lead the world, they agreed.\n今年1月，在位于北京的清华大学举行的一场会议上，一批中国人工智能领域最具影响力的企业高管与创始人齐聚一堂，探讨行业现状。现场气氛乐观高昂。与会者包括来自腾讯、阿里巴巴、智谱AI等企业的人士，他们一致认为，在座的某家公司很快有望领跑全球。\nBut one thing was holding them back: They needed more superfast semiconductors.\n但有一件事在拖后腿：他们需要更多超高速半导体。\nThis year, Chinese chip makers are likely to produce a small fraction of the number of advanced chips …",
+          "link": "https://cn.nytimes.com/business/20260225/china-chips-nvidia-huawei/dual",
+          "publishedOn": "2026-02-26T03:06:02.000Z",
+          "wordCount": 1607,
+          "title": "中国资金大量涌入AI领域，但芯片生产仍面临瓶颈",
+          "imageUrl": "https://static01.nyt.com/images/2026/02/14/multimedia/14Biz-China-Chips-01-mpwq/14Biz-China-Chips-01-mpwq-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/asia-pacific/20260225/china-japan-export-ban/dual",
+          "author": null,
+          "description": "赫海威2026年2月25日2023年，日本防卫大学校学员在横须贺参加阅兵式。该校是日本20家受中国新出口管制措施影响的机构之一。 The Yomiuri Shimbun, via Reuters\nChina on Tuesday said it would restrict exports to Japanese companies with ties to the defense industry, the latest escalation in Beijing’s monthslong feud with Tokyo over Taiwan.\n中国周二宣布将限制向与国防工业有关联的日本企业出口商品，这是北京与东京围绕台湾问题持续数月争端的最新升级。\nChina’s commerce ministry said in a statement that it would block the export of all “dual-use” items to 20 entities, including Mitsubishi Heavy Industries; JAXA, the Japanese space agency; and the National Defense Academy of Japan, a military training university. Dual-use products are those that have both civilian and military purposes.\n中国商务部在声明中表示，将禁止向包括三菱重工、日本宇宙航空研究开发机构及军事培训院校日本防卫大学在内的20家实体出口所有“两用”物品。两用产品指兼具民用和军用功能的商品。\nThe restrictions are meant to thwart Japan’…",
+          "link": "https://cn.nytimes.com/asia-pacific/20260225/china-japan-export-ban/dual",
+          "publishedOn": "2026-02-26T03:06:02.000Z",
+          "wordCount": 756,
+          "title": "中国对多家日本涉军工企业实施出口禁令",
+          "imageUrl": "https://static01.nyt.com/images/2026/02/24/multimedia/24int-japan-china-qbtf/24int-japan-china-qbtf-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/china/20260225/china-military-purges-xi/dual",
+          "author": null,
+          "description": "储百亮2026年2月25日时任中央军委副主席的张又侠上将于2024年在中国青岛举行的西太平洋海军论坛上挥手致意。 Kevin Frayer/Getty Images\nOne was a general who had commanded Chinese forces arrayed against Taiwan. Another was an officer who had led the People’s Liberation Army’s training department and been praised for modernizing combat drills. A third had long served as the chief military aide to China’s leader, Xi Jinping.\n一位将军曾指挥过针对台湾部署的军队。另一位将军曾领导解放军训练部门，因推动作战训练现代化而备受赞誉。第三位将军则长期担任中国国家主席习近平的首席军事助理。\nThese men are among dozens of once-rising senior military officers who have been detained, dismissed or simply disappeared from view without explanation over the last four years. Their downfall, documented in a study released Tuesday, reveals the staggering extent of Mr. Xi’s campaign to shake up the People’s Liberation Army, which culminated las…",
+          "link": "https://cn.nytimes.com/china/20260225/china-military-purges-xi/dual",
+          "publishedOn": "2026-02-26T03:06:02.000Z",
+          "wordCount": 1061,
+          "title": "报告揭示习近平军方大清洗影响深远",
+          "imageUrl": "https://static01.nyt.com/images/2026/02/23/multimedia/00int-china-military-pklq/00int-china-military-pklq-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/world/20260225/merz-germany-china-trip-beijing-xi/dual",
+          "author": null,
+          "description": "JIM TANKERSLEY, DAVID PIERSON2026年2月25日德国总理默茨去年在白宫参加会议。默茨去年5月就任总理后首次访华，此行将考验他平衡柏林与北京关系的能力。 Kenny Holston/The New York Times\nChancellor Friedrich Merz of Germany has spent the opening months of this year sketching out a new vision for Europe in a world increasingly shaped by the bullying behavior of superpowers.\n在今年开年数月间，德国总理弗里德里希·默茨勾勒出了一个在超级大国霸凌行为日益主导的世界中欧洲的新愿景。\nHis idea is roughly this: Europe should cut its dependence on China and the United States to avoid being pushed around on the global stage — but it should not cut them off entirely.\n他的核心主张大致如下：欧洲应减少对中美两国的依赖，避免在全球舞台上受制于人——但不应完全切断与中国和美国的联系。\nThis week, Mr. Merz will road-test that idea on a trip to Beijing and Hangzhou, China. It will be his first visit to the country since he became chancellor last year, challenging his ability to ad…",
+          "link": "https://cn.nytimes.com/world/20260225/merz-germany-china-trip-beijing-xi/dual",
+          "publishedOn": "2026-02-26T03:06:02.000Z",
+          "wordCount": 1292,
+          "title": "德国总理默茨访华，在中美之间小心周旋",
+          "imageUrl": "https://static01.nyt.com/images/2026/02/24/multimedia/24int-Germany-China-01-cfvh/24int-Germany-China-01-cfvh-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/business/20260225/taiwan-china-chips-silicon-valley-tsmc/dual",
+          "author": null,
+          "description": "TRIPP MICKLE2026年2月25日\nFederal officials have for years tried to wean Silicon Valley from its dependence on Taiwan, an island democracy roughly the size of Maryland that makes 90 percent of the world’s high-end computer chips.\n多年来，联邦政府一直试图让硅谷摆脱对台湾的依赖。这个面积与马里兰州大致相当的民主岛屿制造了全球90%的高端计算机芯片。\nIn secret briefings held in Washington and Silicon Valley, national security officials warned executives from companies like Apple, Advanced Micro Devices and Qualcomm that China was making plans to retake Taiwan, which Beijing has long considered a breakaway territory. A Chinese blockade of Taiwan, the officials said, could choke the supply of computer chips made on the island and bring the U.S. tech industry to its knees.\n在华盛顿和硅谷举行的多次秘密简报会上，国家安全官员警告苹果、AMD、高通等公司的高管，中国正计划收复台湾——北京长期以来一直视台湾为其分离出去的领土。官员们表示，中国对台…",
+          "link": "https://cn.nytimes.com/business/20260225/taiwan-china-chips-silicon-valley-tsmc/dual",
+          "publishedOn": "2026-02-26T03:06:02.000Z",
+          "wordCount": 3628,
+          "title": "一场迫在眉睫、却被硅谷长期忽视的台湾芯片灾难",
+          "imageUrl": "https://static01.nyt.com/images/2026/02/21/business/00taiwan-chips/00taiwan-chips-videoLarge-v2.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/world/20260226/china-germany-merz-visit-xi/dual",
+          "author": null,
+          "description": "DAVID PIERSON, JIM TANKERSLEY2026年2月26日中国国家主席习近平周三在北京钓鱼台国宾馆会见德国总理默茨。 Pool photo by Michael Kappeler\nChancellor Friedrich Merz of Germany arrived in China on Wednesday with an outstretched hand and a list of complaints for his hosts, asking for closer diplomatic ties but also relief from economic policies that he said were impeding “fair competition.”\n德国总理默茨周三抵达中国，他向东道主伸出橄榄枝，同时也列出了一系列不满，一方面呼吁深化外交关系，同时也要求中国调整他所称的阻碍“公平竞争”的经济政策。\nMr. Merz, who took pains before the trip to say he would not be “lecturing” Beijing, laid out his critiques in a speech at a meeting of the Advisory Council of German-Chinese Business, to an audience that included Premier Li Qiang, China’s second-highest ranking official.\n默茨在出访前特意强调，不会对北京“说教”，但在中德经济顾问委员会座谈会上，他直面包括中国第二号人物、国务院总理李强在内的听众，阐述了批评意见。\nThe chancellor was more bl…",
+          "link": "https://cn.nytimes.com/world/20260226/china-germany-merz-visit-xi/dual",
+          "publishedOn": "2026-02-26T03:06:02.000Z",
+          "wordCount": 1320,
+          "title": "德国总理批中国经济政策阻碍“公平竞争”，敦促北京调整",
+          "imageUrl": "https://static01.nyt.com/images/2026/02/25/multimedia/25int-china-germany-tbmj/25int-china-germany-tbmj-articleLarge.jpg"
+        },
         {
           "id": "https://cn.nytimes.com/china/20260224/china-travel-japan-fear/dual",
           "author": null,
@@ -6600,26 +6532,6 @@
           "wordCount": 1812,
           "title": "“看着美国走向分崩离析”：明尼阿波利斯事件震动全美",
           "imageUrl": "https://static01.nyt.com/images/2026/01/26/multimedia/26nat-minn-mood-top-qfmj/26nat-minn-mood-top-qfmj-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/world/20260127/uk-china-visit-starmer-trade/dual",
-          "author": null,
-          "description": "MICHAEL D. SHEAR, DAVID PIERSON2026年1月27日2024年，英国首相斯塔默与中国最高领导人习近平在巴西里约热内卢出席会议。 Stefan Rousseau/Pool, via Reuters\nPrime Minister Keir Starmer of Britain will leave on Tuesday for a high-stakes visit to China, seeking new trade and investment from the world’s second-largest economy as relations between the United States and its Western allies grow increasingly volatile.\n英国首相斯塔默将于周二启程，对中国进行一次成败攸关的访问。在美国与其西方盟友关系日益动荡之际，他希望从世界第二大经济体寻求新的贸易与投资机会。\nMr. Starmer took office 18 months ago with a promise to improve relations with China, and British officials hope that his three-day, finance-focused mission to Beijing and Shanghai will result in deals that can spur Britain’s lagging economy — and his Labour Party’s dismal standing — into recovery.\n斯塔默于18个月前上任时曾承诺改善对华关系。英国官员希望，他此次为期三天、以金融议题为核心的北京与上海之行能够促成…",
-          "link": "https://cn.nytimes.com/world/20260127/uk-china-visit-starmer-trade/dual",
-          "publishedOn": "2026-01-27T08:36:02.000Z",
-          "wordCount": 1427,
-          "title": "英国首相斯塔默访华，伦敦在中美之间“走钢丝”",
-          "imageUrl": "https://static01.nyt.com/images/2026/01/27/multimedia/27int-china-starmer-01-tcbl/27int-china-starmer-01-tcbl-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/usa/20260127/minneapolis-protests-midterm-politics/dual",
-          "author": null,
-          "description": "KATIE GLUECK2026年1月27日明尼阿波利斯市为遭联邦特工枪杀的亚历克斯·普雷蒂设立的悼念地点。 Jamie Kelter Davis for The New York Times\nA young asylum-seeking family, terrified to go outside or even to look out of the window. Parents of elementary schoolers, struggling to explain to their children why their Latino classmates were staying home. Another fatal shooting of a U.S. citizen by federal agents.\n一个寻求庇护的年轻家庭吓得不敢出门，甚至不敢向窗外张望；家里孩子上小学的父母费力地向孩子解释，为何他们的拉丁裔同学待在家中不敢来上学；联邦特工又一次开枪打死美国公民。\nThese are some of the painful and extraordinary scenes my colleagues in Minneapolis are documenting during the federal immigration crackdown there.\n这都是我在明尼阿波利斯的同事们在联邦政府当地展开移民执法行动期间记录下的一幕幕令人心痛的异常场景。\nIt’s a fast-moving, fluid and unpredictable situation, as the sudden move to reassign Greg Bovino shows.\n格雷格·博维诺（负责在明尼苏达指挥移民执法行动的边境巡逻队指挥官——编注）突然被调任的消息足…",
-          "link": "https://cn.nytimes.com/usa/20260127/minneapolis-protests-midterm-politics/dual",
-          "publishedOn": "2026-01-27T07:36:01.000Z",
-          "wordCount": 1298,
-          "title": "明尼阿波利斯事件对美国意味着什么",
-          "imageUrl": "https://static01.nyt.com/images/2026/01/26/multimedia/newsletter-1-gjqf/newsletter-1-gjqf-articleLarge.jpg"
         }
       ]
     },
