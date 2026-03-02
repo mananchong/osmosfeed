@@ -65,6 +65,16 @@
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
         {
+          "id": "https://www.nationalreview.com/?p=1924931",
+          "author": "John Fund",
+          "description": "A familiar historical example might shed some light on the wisdom of the decision.",
+          "link": "https://www.nationalreview.com/2026/03/should-trump-have-authorized-khameneis-assassination/",
+          "publishedOn": "2026-03-02T01:16:13.000Z",
+          "wordCount": 7032,
+          "title": "Should Trump Have Authorized Khamenei’s Assassination?",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/03/donald-trump-press.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
           "id": "https://www.nationalreview.com/?p=1922707",
           "author": "Robert VerBruggen",
           "description": "Modest reforms can reduce crime, whereas big bets often backfire.",
@@ -1933,76 +1943,6 @@
           "wordCount": 6690,
           "title": "Sauce for a Snowy Day",
           "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/01/pasta-sauce.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1916301",
-          "author": "Michael Brendan Dougherty",
-          "description": "A backlash to the backlash is forming. We can’t be complacent.",
-          "link": "https://www.nationalreview.com/2026/01/the-gender-ideology-fight-is-far-from-over/",
-          "publishedOn": "2026-01-31T17:57:47.000Z",
-          "wordCount": 6646,
-          "title": "The Gender Ideology Fight Is Far from Over",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2016/05/transgender-bathroom-academic-feminism_1-2.jpg?fit=920%2C537&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1916273",
-          "author": "Michael Brendan Dougherty",
-          "description": "In an age of disintegration, Italian delis are keeping the art of celebrating the rhythms of life alive.",
-          "link": "https://www.nationalreview.com/2026/01/my-deli-my-civilization/",
-          "publishedOn": "2026-01-31T17:17:43.000Z",
-          "wordCount": 6339,
-          "title": "My Deli, My Civilization",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/01/nj-deli.jpg?fit=2051%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1914836",
-          "author": "Anastasia Boden",
-          "description": "By embracing rent control, New York City’s mayor is recycling a policy that feels compassionate but fails everyone it touches.",
-          "link": "https://www.nationalreview.com/2026/01/mamdani-has-learned-nothing-from-rent-control-history/",
-          "publishedOn": "2026-01-31T11:30:57.000Z",
-          "wordCount": 6933,
-          "title": "Mamdani Has Learned Nothing from Rent-Control History",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/01/zohran-mamdani-1.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1915966",
-          "author": "Shawn Regan and P. J. Hill",
-          "description": "The Trump administration just undermined property rights — and ranchers should be worried.",
-          "link": "https://www.nationalreview.com/2026/01/a-battle-over-bison-in-montana-sets-a-dangerous-precedent/",
-          "publishedOn": "2026-01-31T11:30:49.000Z",
-          "wordCount": 6911,
-          "title": "A Battle over Bison in Montana Sets a Dangerous Precedent",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2021/03/american-prairie-reserve.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1916122",
-          "author": "Andrew C. McCarthy",
-          "description": "The credibility of federal law enforcement depends on its not being politicized.",
-          "link": "https://www.nationalreview.com/2026/01/the-problem-with-trumps-fraud-prosecutor-plan/",
-          "publishedOn": "2026-01-31T11:30:36.000Z",
-          "wordCount": 7582,
-          "title": "The Problem with Trump’s Fraud-Prosecutor Plan",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/01/donald-trump-white-house-briefing.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1915902",
-          "author": "Brian T. Allen",
-          "description": "Art is selling at the annual fair at the Armory, but dealers are under duress from tariffs, a spotty market, and the inscrutability of younger buyers.",
-          "link": "https://www.nationalreview.com/2026/01/looking-good-at-the-winter-show/",
-          "publishedOn": "2026-01-31T11:30:08.000Z",
-          "wordCount": 9053,
-          "title": "Looking Good at the Winter Show",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/01/Entrance-to-Tautira-River.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1916027",
-          "author": "Eric Edelman and Franklin Miller",
-          "description": "Pundits’ claims that the alliance is on the verge of demise are greatly exaggerated.",
-          "link": "https://www.nationalreview.com/2026/01/natos-not-dead/",
-          "publishedOn": "2026-01-31T11:30:05.000Z",
-          "wordCount": 7611,
-          "title": "NATO’s Not Dead",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/01/nato-flag.jpg?fit=2057%2C1200&ssl=1"
         }
       ]
     },
@@ -2011,6 +1951,26 @@
       "feedUrl": "https://sspai.com/feed",
       "siteUrl": "https://sspai.com",
       "articles": [
+        {
+          "id": "https://sspai.com/post/106438",
+          "author": "西郊次生林",
+          "description": "当向 AI 寻求意见已经成为日常，我开始思考一个问题：AI 作为一个私人顾问，它到底干得怎么样呢？我究竟能不能依赖它？查看全文",
+          "link": "https://sspai.com/post/106438",
+          "publishedOn": "2026-03-02T03:42:30.000Z",
+          "wordCount": 415,
+          "title": "年度征文｜2025 年总结：一个纠结党试图向 AI 外包他的意志",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sspai.com/post/106730",
+          "author": "少数派编辑部",
+          "description": "OpenAI 接替 Anthropic 与五角大楼达成合作\n派拉蒙将收购华纳兄弟，Netflix 出局\n韩国解除对谷歌地图的数据限制\nUltrahuman 推出 Ring Pro 指环\n英伟达将推出 AI 推理专用芯片\n内存成本提升可能让入门 PC 消失\n不妨一看的简讯\n少数派的近期动态\n你可能错过的好文章\n查看全文",
+          "link": "https://sspai.com/post/106730",
+          "publishedOn": "2026-03-01T23:04:42.000Z",
+          "wordCount": 608,
+          "title": "派早报：OpenAI 接替 Anthropic 与五角大楼达成合作",
+          "imageUrl": null
+        },
         {
           "id": "https://sspai.com/post/106454",
           "author": "keeping",
@@ -2729,36 +2689,6 @@
           "publishedOn": "2026-02-01T03:30:00.000Z",
           "wordCount": 248,
           "title": "Apple 新春大片如期而至，今年的故事有点不一样",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sspai.com/post/105946",
-          "author": "板斧",
-          "description": "你的每月游玩清单（2026 年 1 月版）。查看全文",
-          "link": "https://sspai.com/post/105946",
-          "publishedOn": "2026-01-31T15:58:40.000Z",
-          "wordCount": 345,
-          "title": "本月玩什么｜明日方舟：终末地、孤山独影、暴走甜心",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sspai.com/prime/story/inside-release-notes-260131",
-          "author": "少数派编辑部",
-          "description": "Clawdbot的成功是桌面系统的成功@PlatyHsu：只要你关注科技新闻，最近几乎一定会听说过Clawdbot（经历两次更名，现在叫做OpenClaw），可能也已经刷到了无数教程和分享。简单回顾： ...查看全文\n本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
-          "link": "https://sspai.com/prime/story/inside-release-notes-260131",
-          "publishedOn": "2026-01-31T11:29:42.000Z",
-          "wordCount": 506,
-          "title": "具透 Plus：Clawdbot 的成功是桌面系统的成功；如何手动开启 Chrome 中的 Gemini",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sspai.com/post/105827",
-          "author": "Victor42",
-          "description": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
-          "link": "https://sspai.com/post/105827",
-          "publishedOn": "2026-01-31T08:04:04.000Z",
-          "wordCount": 387,
-          "title": "用数据分析项目，带你走进成语里的数字世界",
           "imageUrl": null
         }
       ]
@@ -5777,76 +5707,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://pic.yupoo.com/fotomag/96f9c757/375138f9.jpg"
-        },
-        {
-          "id": "idaily-245112",
-          "author": "飞马座",
-          "description": "欧空局公布一张哈勃太空望远镜拍摄的飞马座「NGC 7722」星系照片。这个星系距离地球约1.87亿光年，拥有明亮星系核和环状星系盘，但是缺少明显的旋臂结构，因此被归类为「透镜状星系」（Lenticular galaxy）。天文学家推测「NGC 7722」曾与另一个星系发生碰撞融合，并于2020年观测到该星系发生一次超新星爆发事件。摄影师：ESA",
-          "link": "https://m.idai.ly/se/9692PU",
-          "publishedOn": "2026-01-31T06:59:00.000Z",
-          "wordCount": 294,
-          "title": "NGC 7722 透镜状星系 - January 31, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/40897d8c/48780c6f.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/40897d8c/48780c6f.jpg"
-        },
-        {
-          "id": "idaily-245111",
-          "author": "中国 · 上海",
-          "description": "英国首相 Keir Starmer 参观上海豫园。1月30日，英国首相 Starmer 抵达访华之行第二站上海，主要行程包括参观上海豫园和外滩、出席中英商务招待酒会并与上海市委书记陈吉宁举行会谈等。Starmer 强调英国愿同中国发展长期稳定的战略伙伴关系，希望两国合作能够为英国民众带来切实经济利益和就业机会。英国首相府公布本次访华成果包括签署总价值22亿英镑的对华出口协议、价值23亿英镑的市场准入协议和数亿英镑投资协议，中国方面已同意对英国公民实施单方面30天免签入境政策。摄影师：Kin Cheung",
-          "link": "https://m.idai.ly/se/e161d5",
-          "publishedOn": "2026-01-31T05:58:00.000Z",
-          "wordCount": 292,
-          "title": "英国首相访问上海 - January 31, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/e081bafb/7239180f.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/e081bafb/7239180f.jpg"
-        },
-        {
-          "id": "idaily-245110",
-          "author": "意大利 · 米兰",
-          "description": "2026年米兰-科尔蒂纳冬奥会官方倒计时钟显示距离开幕最后7天，意大利。1月30日，米兰冬奥会奥运村正式开放启用，意大利、德国、捷克和日本等多国代表团已陆续抵达入住。本届冬季奥林匹克运动会将于2月6日至22日在意大利城市米兰和科尔蒂纳丹佩佐举行，预计将有来自93个国家和地区的2871名运动员参赛，角逐产生8个大项、16个分项共116枚金牌。这将是意大利第3次主办冬季奥运会，亦是首次由2座城市共同命名的冬奥会。摄影师：Emanuele Cremaschi",
-          "link": "https://m.idai.ly/se/07ezWW",
-          "publishedOn": "2026-01-31T04:57:00.000Z",
-          "wordCount": 292,
-          "title": "米兰冬奥会倒计时7天 - January 31, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/850dc570/90b0e21f.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/850dc570/90b0e21f.jpg"
-        },
-        {
-          "id": "idaily-245109",
-          "author": "泰国 · 曼谷",
-          "description": "泰国曼谷一家金店正在出售黄金饰品。1月30日，国际现货黄金价格盘中一度跌至每盎司4700美元以下，当日收跌-11.4%至4745.10美元/盎司，创下1980年以来最大单日跌幅；现货白银价格盘中一度下跌-36%，创下有史以来最大盘中跌幅，最终收跌-28%至83.45美元/盎司。本轮金价暴跌主要受到市场回调和美国总统公布鹰派美联储主席提名人选等因素影响，2026年初迄今国际金价累计涨幅仍高达17%，白银价格累计涨幅达39%。摄影师：Anusak Laowilas",
-          "link": "https://m.idai.ly/se/086J49",
-          "publishedOn": "2026-01-31T04:55:00.000Z",
-          "wordCount": 292,
-          "title": "黄金40年最大单日跌幅 - January 31, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/5d7f3739/f5219ec0.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/5d7f3739/f5219ec0.jpg"
-        },
-        {
-          "id": "idaily-245108",
-          "author": "日本 · 横须贺",
-          "description": "日本防卫大臣小泉进次郎与韩国国防部长安圭伯在日本海上自卫队横须贺基地切磋乒乓球技，神奈川县。1月30日，日韩两国防长首次在横须贺基地举行会晤，双方就防务合作、地区局势等议题举行约50分钟会谈，同意继续加强日韩军事合作、设立每年互访交流机制、重启海上搜救联合演习，并在人工智能、无人系统和航天等尖端领域开展合作。日本航空自卫队公布消息称，韩国空军「黑鹰」特技飞行队于1月28日在冲绳那霸基地进行加油补给，这是日本航空自卫队首次为韩国军机提供加油支援。摄影师：Eugene Hoshiko",
-          "link": "https://m.idai.ly/se/516PZb",
-          "publishedOn": "2026-01-31T04:53:00.000Z",
-          "wordCount": 292,
-          "title": "日韩防长横须贺会晤 - January 31, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/e62512b5/b033be8f.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/e62512b5/b033be8f.jpg"
         }
       ]
     },
@@ -5855,6 +5715,46 @@
       "feedUrl": "https://plink.anyfeeder.com/nytimes/dual",
       "siteUrl": "http://nytimes.com",
       "articles": [
+        {
+          "id": "https://cn.nytimes.com/business/20260302/iran-war-oil-prices/dual",
+          "author": null,
+          "description": "REBECCA F. ELLIOTT2026年3月2日视频截取的一张照片显示，周日，一艘停泊在阿曼附近的油轮正起火燃烧。 Agence France-Presse — Getty Images\nOil prices rose 10 percent as markets opened on Sunday evening, underscoring the economic risks of the widening conflict in the Middle East.\n周日晚间市场开盘，油价暴涨10%，凸显出中东冲突扩大带来的经济风险。\nThe U.S.-Israeli attacks on Iran could severely restrict supplies from a key oil and gas-producing region. Even if the disruption is brief, it will almost certainly make energy more expensive worldwide. The magnitude of those price increases and how long they last will depend on what the United States and Israel do next — and how Iran responds.\n美以对伊朗发动的打击可能严重限制这一重要油气产区的供应。即便中断时间短暂，也几乎必然推高全球能源价格。涨幅大小与持续时长将取决于美以下一步行动以及伊朗如何回应。\nInternational oil prices had already climbed about 20 percent this year, nearing $73 a barrel on Fr…",
+          "link": "https://cn.nytimes.com/business/20260302/iran-war-oil-prices/dual",
+          "publishedOn": "2026-03-02T07:06:01.000Z",
+          "wordCount": 1128,
+          "title": "伊朗袭击事件后油价上涨，凸显经济风险",
+          "imageUrl": "https://static01.nyt.com/images/2026/03/02/multimedia/02biz-iran-oil-2-chtv/02biz-iran-oil-2-chtv-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/world/20260302/trump-taiwan-arms-sale/dual",
+          "author": null,
+          "description": "黄安伟, ROBERT JIMISON2026年3月2日去年台湾年度汉光军事演习期间，空军爱国者导弹系统部署于当地公园。 I-Hwa Cheng/Agence France-Presse — Getty Images\nThe Trump administration has delayed announcing a package of arms sales to Taiwan valued at billions of dollars to avoid upsetting Xi Jinping, China’s leader, ahead of President Trump’s planned trip to Beijing in April, U.S. officials said.\n美国官员透露，特朗普政府推迟宣布一项价值数十亿美元的对台军售计划，目的是避免在特朗普计划中的4月访问北京之前激怒中国领导人习近平。\nThe weapons sale, which includes air-defense missiles, is in an advanced stage. Senior Republican and Democratic lawmakers approved the package after the State Department sent it to them in January for informal review.\n这项军售计划已进入后期阶段，内容包括防空导弹。美国国务院于1月将其送交国会进行非正式审查后，共和党与民主党的高层议员均已批准。\nHowever, since then, the sales package has languished in the State Department, the officials said. Ad…",
+          "link": "https://cn.nytimes.com/world/20260302/trump-taiwan-arms-sale/dual",
+          "publishedOn": "2026-03-02T04:36:01.000Z",
+          "wordCount": 1054,
+          "title": "特朗普推迟对台军售计划，避免在访华前激怒习近平",
+          "imageUrl": "https://static01.nyt.com/images/2026/02/27/multimedia/27dc-taiwan-weapons-cvbm/27dc-taiwan-weapons-cvbm-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/usa/20260302/iran-war-troops-deaths-casualties/dual",
+          "author": null,
+          "description": "HELENE COOPER, ERIC SCHMITT2026年3月2日周日，埃尔比勒国际机场附近升起浓烟。该机场位于伊拉克库尔德自治区，驻有美国领导的联军部队。 Agence France-Presse — Getty Images\nIran struck a base housing American troops in Kuwait, killing three U.S. service members, military officials said on Sunday, as the stakes for the United States became immediately clear in its latest war in the Middle East.\n美国军方官员周日表示，伊朗袭击了科威特境内的一处美军基地，造成三名美军士兵死亡，美国在中东最新战争中的风险由此立即显现。\nThe fatalities were the first for the United States since the U.S. and Israeli militaries jointly began attacks in Iran on Saturday. The U.S. military’s Central Command said that five service members were “seriously wounded” and several others “sustained minor shrapnel injuries and concussions” in the attack.\n这是自美国与以色列军方周六联合对伊朗发动袭击以来，美方首次出现人员阵亡。美国中央司令部称，袭击中另有五名军人“受重伤”，数人“遭受轻微弹片伤和脑震荡”。\nThe Irani…",
+          "link": "https://cn.nytimes.com/usa/20260302/iran-war-troops-deaths-casualties/dual",
+          "publishedOn": "2026-03-02T03:06:02.000Z",
+          "wordCount": 1317,
+          "title": "三名美军士兵在美伊冲突中死亡，凸显美国战争风险",
+          "imageUrl": "https://static01.nyt.com/images/2026/03/01/multimedia/01dc-military-assess-hcvl/01dc-military-assess-hcvl-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/usa/20260302/trump-peace-president-war/dual",
+          "author": null,
+          "description": "PETER BAKER2026年3月2日在凭借承诺“美国优先”登上总统宝座十年后，特朗普总统越来越倾向于在海外行使权力。 Anna Rose Layden for The New York Times\nWhen he first ran for president in 2016, Donald J. Trump disavowed the military adventurism of recent years, declaring that “regime change is a proven, absolute failure.” He promised to “stop racing to topple foreign regimes.”\n在2016年首次竞选总统时，唐纳德·特朗普曾与近年来的军事冒险主义划清界限，宣称“政权更迭已被证明是彻底的失败”。他承诺要“停止竞相推翻外国政权”。\nWhen Mr. Trump ran for president in 2024, he boasted of starting “no new wars,” and asserted that if Kamala Harris won, “she would get us into a World War III guaranteed,” and send the “sons and daughters” of Americans “to go fight for a war in a country that you’ve never heard of.”\n2024年再次竞选总统时，特朗普夸耀自己“没有发动任何新的战争”，并断言如果贺锦丽(Kamala Harris)当选，“她肯定会把我们拖入第三次世界大战”，并把美国的“儿子和女儿”送到“一个你们从未听说过的国家去打仗”。\nBa…",
+          "link": "https://cn.nytimes.com/usa/20260302/trump-peace-president-war/dual",
+          "publishedOn": "2026-03-02T02:07:03.000Z",
+          "wordCount": 1841,
+          "title": "自诩为“和平总统”的特朗普将美国拖入战争",
+          "imageUrl": "https://static01.nyt.com/images/2026/02/28/multimedia/28dc-trump-power-mwkh/28dc-trump-power-mwkh-articleLarge.jpg"
+        },
         {
           "id": "https://cn.nytimes.com/usa/20260301/iran-attacks-what-to-know/dual",
           "author": null,
