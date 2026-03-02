@@ -6,6 +6,16 @@
       "siteUrl": "https://rweekly.org/atom.xml",
       "articles": [
         {
+          "id": "https://rweekly.org/2026-W10.html",
+          "author": null,
+          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Ryo Nakagawara, with help from the R Weekly team members and contributors.\nHighlight\nWhy I don’t use {tidymodels}\nTidyplots empowers life scientists with easy code-based data visualization\n{ggvariant} 0.1.0: Tidy Visualization for Genomic Variants - A native ggplot2 toolkit that simplifies creating publication-ready lollipop plots and mutational spectrum charts from VCF files.\nInsights\nA Claude Skill for creating _brand.yml, and sharing with Quarto 1.9\n\nSoftware Review in the Era of AI: What We Are Testing at rOpenSci\nWhy I don’t use {tidymodels}\nR in the Real World\nPacific island population pyramids (again)\nR in Academia\nTidyplots empowers life scientists with easy code-bas…",
+          "link": "https://rweekly.org/2026-W10.html",
+          "publishedOn": "2026-03-02T00:00:00.000Z",
+          "wordCount": 6323,
+          "title": "R Weekly 2025-W10 tidymodels, tidyplots, ggvariant package",
+          "imageUrl": "https://rweekly.org/public/facebook.png"
+        },
+        {
           "id": "https://rweekly.org/2026-W09.html",
           "author": null,
           "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Sam Parmar, with help from the R Weekly team members and contributors.\nHighlight\nGit commits: please mark your stitches!\nPick a License, Not Any License\nHow to choose the best LLM using R and vitals\nInsights\nGit commits: please mark your stitches!\n\nPacific diaspora by @ellis2013nz\nThe world’s biggest ‘Pacific’ cities by @ellis2013nz\nModeling Bitcoin Volatility Through Structural Breaks: A Compositional Perspective\nPick a License, Not Any License\n\nR in the Real World\nApply to be an Opportunity Scholar at posit::conf(2026)\nWeekly Recap (February 20, 2026)\nA Year of Learning, Growth, and Community at R-Ladies Rome 🌟\nFrom Data to Decisions: Digital Twins for Smarter Maintenance…",
@@ -64,6 +74,66 @@
       "feedUrl": "https://www.nationalreview.com/feed/",
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
+        {
+          "id": "https://www.nationalreview.com/?p=1925018",
+          "author": "Noah Rothman",
+          "description": "The regime’s armed forces are mounting the very offensive that was expected to accompany the theocracy’s final moments.",
+          "link": "https://www.nationalreview.com/2026/03/irans-last-stand-strategy/",
+          "publishedOn": "2026-03-02T14:40:18.000Z",
+          "wordCount": 6955,
+          "title": "Iran’s Last-Stand Strategy",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/03/iran-strikes-030126-16.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1924897",
+          "author": "Mark Dubowitz",
+          "description": "Israel has emerged as the Middle East’s preeminent military power just as the U.S. seeks to reduce its permanent footprint in the region.",
+          "link": "https://www.nationalreview.com/2026/03/over-iran-u-s-and-israeli-aircraft-fly-as-equals/",
+          "publishedOn": "2026-03-02T11:30:48.000Z",
+          "wordCount": 6751,
+          "title": "Over Iran, U.S. and Israeli Aircraft Fly as Equals",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/03/USAF-IDFAF-3.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1924892",
+          "author": "The Editors",
+          "description": "There’s a reason that it is not the usual practice of the DOJ to release unverified, disparaging information about people it’s not charging with crimes.",
+          "link": "https://www.nationalreview.com/2026/03/the-epstein-panic/",
+          "publishedOn": "2026-03-02T11:30:46.000Z",
+          "wordCount": 6378,
+          "title": "The Epstein Panic",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/03/chuck-schumer-epsteinp-files.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1924919",
+          "author": "Joseph T. Burns",
+          "description": "Zohran Mamdani’s choice for a key foreign policy position in his administration shows the power of a progressive Tammany Hall.",
+          "link": "https://www.nationalreview.com/2026/03/the-new-machine-gets-its-spoils/",
+          "publishedOn": "2026-03-02T11:30:44.000Z",
+          "wordCount": 7134,
+          "title": "The New Machine Gets Its Spoils",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/03/ana-maria-archila.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1924546",
+          "author": "Phillip W. Magness and Marc Wheat",
+          "description": "Despite Donald Trump’s claims, history shows that Section 122 does not justify his new tariffs.",
+          "link": "https://www.nationalreview.com/2026/03/no-mr-president-section-122-tariffs-wont-work-either/",
+          "publishedOn": "2026-03-02T11:30:09.000Z",
+          "wordCount": 8045,
+          "title": "No, Mr. President, Section 122 Tariffs Won’t Work Either",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/03/container-ship-oakland.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1924171",
+          "author": "Tomas J. Philipson",
+          "description": "The FDA talks a big game on deregulation, but it’s not paired with real action.",
+          "link": "https://www.nationalreview.com/2026/03/from-trumps-warp-speed-to-the-fdas-warp-stall/",
+          "publishedOn": "2026-03-02T11:30:02.000Z",
+          "wordCount": 7037,
+          "title": "From Trump’s Warp Speed to the FDA’s Warp Stall",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2020/05/fda-sign.jpg?fit=2057%2C1200&ssl=1"
+        },
         {
           "id": "https://www.nationalreview.com/?p=1924931",
           "author": "John Fund",
@@ -1952,6 +2022,26 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/106749",
+          "author": "少数派编辑部",
+          "description": ">下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文",
+          "link": "https://sspai.com/post/106749",
+          "publishedOn": "2026-03-02T09:41:03.000Z",
+          "wordCount": 554,
+          "title": "派评 | 近期值得关注的 App",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sspai.com/post/106467",
+          "author": "StephenFang",
+          "description": "现代设备无疑能做更多事，但我在 2026 年想重新试试 Windows Phone 8.1。查看全文",
+          "link": "https://sspai.com/post/106467",
+          "publishedOn": "2026-03-02T07:15:20.000Z",
+          "wordCount": 854,
+          "title": "给 Lumia 1020 用户的 Windows 8.1 漫游指南（2026）",
+          "imageUrl": null
+        },
+        {
           "id": "https://sspai.com/post/106438",
           "author": "西郊次生林",
           "description": "当向 AI 寻求意见已经成为日常，我开始思考一个问题：AI 作为一个私人顾问，它到底干得怎么样呢？我究竟能不能依赖它？查看全文",
@@ -2680,16 +2770,6 @@
           "wordCount": 640,
           "title": "派早报：Moltbook 引发 AI 智能体新热度与安全担忧",
           "imageUrl": null
-        },
-        {
-          "id": "https://sspai.com/post/105948",
-          "author": "waychane",
-          "description": "每一年iPhone新春大片的上映，都在告诉着我们新春的脚步将近；而每一支片中蕴含的细腻情感，也在回应着我们的情绪共鸣，承载对新一年的期望。《碰见你》是Apple推出的第九支iPhone新春大片，也是又 ...查看全文",
-          "link": "https://sspai.com/post/105948",
-          "publishedOn": "2026-02-01T03:30:00.000Z",
-          "wordCount": 248,
-          "title": "Apple 新春大片如期而至，今年的故事有点不一样",
-          "imageUrl": null
         }
       ]
     },
@@ -2698,6 +2778,104 @@
       "feedUrl": "https://plink.anyfeeder.com/idaily/today",
       "siteUrl": "https://idai.ly",
       "articles": [
+        {
+          "id": "idaily-246929",
+          "author": "中国 · 上海",
+          "description": "从上海外滩远眺陆家嘴金融区。2月28日，中国国家统计局发布2025年国民经济和社会发展统计公报，2025年中国 GDP 总值达140.19万亿元，同比增长5.0%，首次突破140万亿元；全年研发经费支出39262亿元，比上年增长8.1%，占 GDP 比例为2.80%；国民总收入为139.37万亿元，同比增长5.1%；全员劳动生产率为184413元/人，同比增长6.1%。全国居民人均可支配收入43377元，同比增长5.0%，人均消费支出29476元，同比增长4.4%。摄影师：iDaily Media",
+          "link": "https://m.idai.ly/se/129JtF",
+          "publishedOn": "2026-03-02T10:59:00.000Z",
+          "wordCount": 274,
+          "title": "中国GDP突破140万亿元 - March 2, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/218a9b77/d52a7e2c.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/218a9b77/d52a7e2c.jpg"
+        },
+        {
+          "id": "idaily-246928",
+          "author": "美国 · 佛罗里达州",
+          "description": "美国总统 Donald Trump 在海湖庄园远程观看美军对伊朗军事打击行动，佛罗里达州。3月1日，美国总统 Trump 宣布美以联合军事行动共击毙48名伊朗高层领导人、击沉9艘军舰并摧毁伊朗海军总部。美军中央司令部通报本次行动中共动用超过20种武器装备，包括B-2战略隐形轰炸机、F-22、F-35、F/A-18战斗机、MQ-9侦察无人机、「战斧」巡航导弹、M142高机动性火箭炮系统以及低成本无人机等，共打击超过1000个伊朗目标，成功摧毁伊斯兰革命卫队总部。美军方面共有3名士兵死亡，5人重伤。摄影师：Daniel Torok",
+          "link": "https://m.idai.ly/se/890ZGy",
+          "publishedOn": "2026-03-02T09:58:00.000Z",
+          "wordCount": 274,
+          "title": "美国宣布打击伊朗战果 - March 2, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/bfd9417e/a4225f1d.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/bfd9417e/a4225f1d.jpg"
+        },
+        {
+          "id": "idaily-246926",
+          "author": "伊朗 · 德黑兰",
+          "description": "伊朗民众集会哀悼最高领袖 Ali Khamenei 遇袭身亡，德黑兰。3月1日，伊朗政府宣布成立由总统、司法总监、宪法监护委员会法学家代表组成的三人临时领导委员会代行最高领袖职权。根据伊朗宪法，新任最高领袖将由神职人员组成的特殊权力机构「专家会议」选举产生，目前潜在继任人选包括 Ali Khamenei 的次子 Mojtaba、现任最高国家安全委员会秘书 Ali Larijani、司法总监 Gholam-Hossein Mohseni-Ejei、宪法监护委员会法学家 Alireza Arafi、强硬派宗教人士 Mohammad Mehdi Mirbagheri 等。摄影师：Abedin Taherkenareh",
+          "link": "https://m.idai.ly/se/b1ctJ6",
+          "publishedOn": "2026-03-02T08:57:00.000Z",
+          "wordCount": 274,
+          "title": "伊朗悼念已故最高精神领袖 - March 2, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/9125d88d/dee05c05.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/9125d88d/dee05c05.jpg"
+        },
+        {
+          "id": "idaily-246924",
+          "author": "泰国 · 曼谷",
+          "description": "泰国曼谷一家金店正在销售黄金饰品。3月2日，受中东冲突局势升级影响，国际现货黄金价格盘中涨至5419.32美元/盎司，创4周以来新高；现货白银价格盘中上涨2%至每盎司96.41美元。全球原油基准布伦特原油价格开盘后一度飙升13%，触及每桶82.37美元，创2025年1月以来最高水平。伊朗伊斯兰革命卫队已宣布禁止任何船只通过霍尔木兹海峡，预计将影响全球五分之一的石油运输。当天美股期货全线下跌，其中标普500指数期货下跌1.1%，纳指期货下跌1.2%，道指期货下跌1%。摄影师：Narong Sangnak",
+          "link": "https://m.idai.ly/se/104iDz",
+          "publishedOn": "2026-03-02T08:55:00.000Z",
+          "wordCount": 274,
+          "title": "国际金价油价上涨 - March 2, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/14255f70/44aacaf9.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/14255f70/44aacaf9.jpg"
+        },
+        {
+          "id": "idaily-246923",
+          "author": "日本 · 东京",
+          "description": "2026年东京马拉松赛开跑，参赛选手们从东京都政府大楼起点出发，日本。第19届东京马拉松赛于3月1日举行，本年度共有约3.9万名选手参加，赛程全长42.195公里，途经浅草寺、天空树、八幡宫、东京铁塔等地标景点，终点为东京车站。埃塞俄比亚选手 Tadese Takele 以2小时3分37秒卫冕男子组冠军，肯尼亚选手 Brigid Kosgei 以2小时14分29秒夺得女子组冠军并刷新赛会纪录。中国选手丰配友以2小时6分57秒在亚洲选手中排名首位。摄影师：Miho Takahashi",
+          "link": "https://m.idai.ly/se/666AP0",
+          "publishedOn": "2026-03-02T08:53:00.000Z",
+          "wordCount": 274,
+          "title": "2026东京马拉松赛 - March 2, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/e2cfe48a/747ec84b.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/e2cfe48a/747ec84b.jpg"
+        },
+        {
+          "id": "idaily-246922",
+          "author": "韩国 · 首尔",
+          "description": "韩国民间团体举行光化门韩文牌匾主题活动，首尔。3月1日，韩国民间团体「光华门韩文牌匾安装委员会」发表《三一节纪念韩文文化独立宣言书》，宣称「在光化门悬挂韩文牌匾，是摆脱列强统治、成为真正独立国家的途径」。光化门始建于1395年朝鲜王朝，曾在16和20世纪日本入侵朝鲜期间2次被毁，现用汉字牌匾复原自1865年朝鲜王朝将军任泰瑛题写的版本，韩国文化部已提出在「光化门第二层加装悬挂韩文牌匾」的方案。摄影师：iDaily Media",
+          "link": "https://m.idai.ly/se/623zdX",
+          "publishedOn": "2026-03-02T08:51:00.000Z",
+          "wordCount": 274,
+          "title": "光化门拟增韩文牌匾 - March 2, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/e12bf68b/5fd413a3.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/e12bf68b/5fd413a3.jpg"
+        },
+        {
+          "id": "idaily-246921",
+          "author": "中国 · 北京",
+          "description": "北京隆福寺新春市集开设现场摇元宵活动。3月3日是中国农历正月十五元宵节，标志着农历新年庆祝正式结束。「元宵节」最早可追溯至秦汉时期，传统习俗包括吃元宵汤圆、赏花灯、猜灯谜等。当天中国各地将迎来二十年一遇的元宵节月全食，时间从17时50分持续至21时18分，东部地区可见完整月全食，中西部地区可见从全食到复圆的过程。下一次元宵节月全食将出现在2054年。摄影师：iDaily Media",
+          "link": "https://m.idai.ly/se/c3aIff",
+          "publishedOn": "2026-03-02T08:49:00.000Z",
+          "wordCount": 274,
+          "title": "中国迎接元宵节 - March 2, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/420c4641/8795ba12.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/420c4641/8795ba12.jpg"
+        },
         {
           "id": "idaily-246892",
           "author": "梵蒂冈城",
@@ -5715,6 +5893,26 @@
       "feedUrl": "https://plink.anyfeeder.com/nytimes/dual",
       "siteUrl": "http://nytimes.com",
       "articles": [
+        {
+          "id": "https://cn.nytimes.com/world/20260302/iran-regime-middle-east-khamenei/dual",
+          "author": null,
+          "description": "STEVEN ERLANGER2026年3月2日周日，伊朗民众哀悼身亡的最高领袖哈梅内伊。 Arash Khamooshi for The New York Times\nIran’s supreme leader may be dead, but there will be another. Its slain military commanders will be replaced. A governing system created over 47 years will not easily disintegrate under air power alone. Iran retains the capacity to strike back against American and Israeli airstrikes, and the war’s trajectory is unclear.\n伊朗的最高领袖或许已经身亡，但还会有继任者。被击毙的军事指挥官也将被替换。一个历经47年建立起来的治理体系不会仅因空中打击就轻易瓦解。伊朗仍然具备对美国和以色列的空袭发起反击的能力，战争走向仍不明朗。\nBut the Islamic Republic, already weakened and unpopular, is now further diminished, its power at home and in the region at one of its lowest ebbs since its leaders took power during the revolution that overthrew Iran’s American-backed shah in 1978-79.\n但这个本已虚弱且不得人心的伊斯兰共和国如今进一步遭到削弱，其在国内和地区的影响…",
+          "link": "https://cn.nytimes.com/world/20260302/iran-regime-middle-east-khamenei/dual",
+          "publishedOn": "2026-03-02T08:06:02.000Z",
+          "wordCount": 1293,
+          "title": "堪比苏联解体：一个衰落的伊朗将对中东意味着什么",
+          "imageUrl": "https://static01.nyt.com/images/2026/03/01/multimedia/01Iran-change-01-bwqz/01Iran-change-01-bwqz-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/world/20260302/iran-what-next/dual",
+          "author": null,
+          "description": "ERIKA SOLOMON2026年3月2日伊朗民众在德黑兰集会悼念最高领袖。 Arash Khamooshi for The New York Times\nThe death of Iran’s supreme leader, Ayatollah Ali Khamenei, is a watershed moment in the 47-year existence of the Islamic Republic. The scenes that followed — throngs of Iranians taking to the streets to celebrate, others turning out to grieve — signal the deep uncertainty about what comes next.\n伊朗最高领袖阿亚图拉阿里·哈梅内伊的死是伊斯兰共和国47年存在历史上的一个分水岭时刻。随后出现的景象——成群的伊朗人走上街头庆祝，另一些人则出来哀悼——表明人们对接下来会发生什么充满深深的不确定性。\nThere are now three key questions: How will protesters respond to President Trump’s call to take over the government? Can Iran’s authoritarian system survive? And could the attack unleash a chaotic battle for power?\n现在有三个关键问题：抗议者将如何回应特朗普总统号召他们接管政府的呼吁？伊朗的威权体制能否存续？这次袭击是否会引发一场混乱的权力争夺战？\nMr. Trump and Israel’s prime minister, B…",
+          "link": "https://cn.nytimes.com/world/20260302/iran-what-next/dual",
+          "publishedOn": "2026-03-02T08:06:02.000Z",
+          "wordCount": 1385,
+          "title": "伊朗迎来变革时刻：决定未来命运的三个问题",
+          "imageUrl": "https://static01.nyt.com/images/2026/03/01/multimedia/01int-iran-next-jqpb/01int-iran-next-jqpb-articleLarge.jpg"
+        },
         {
           "id": "https://cn.nytimes.com/business/20260302/iran-war-oil-prices/dual",
           "author": null,
