@@ -65,6 +65,36 @@
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
         {
+          "id": "https://www.nationalreview.com/?p=1925939",
+          "author": "The Editors",
+          "description": "Democratic voters showed discipline in rejecting their own flashy bomb thrower in favor of a plausible statewide candidate. Will Republicans do the same?",
+          "link": "https://www.nationalreview.com/2026/03/the-gop-can-still-avoid-shooting-itself-in-the-foot-in-texas/",
+          "publishedOn": "2026-03-04T23:27:31.000Z",
+          "wordCount": 6925,
+          "title": "The GOP Can Still Avoid Shooting Itself in the Foot in Texas",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/03/KenPaxton-JohnCornyn.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1925889",
+          "author": "Michael Brendan Dougherty",
+          "description": "Can air power change a regime’s character and orientation?",
+          "link": "https://www.nationalreview.com/2026/03/the-wishful-thinking-of-surgical-strikes/",
+          "publishedOn": "2026-03-04T20:46:06.000Z",
+          "wordCount": 7070,
+          "title": "The Wishful Thinking of Surgical Strikes",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/03/operation-epic-fury-030326-9B.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1925761",
+          "author": "John Yoo",
+          "description": "Despite what his congressional critics say, Trump’s actions in Iran are in line with the Framers’ views of presidential power.",
+          "link": "https://www.nationalreview.com/2026/03/congress-had-plenty-of-opportunities-to-stop-the-iran-strikes/",
+          "publishedOn": "2026-03-04T19:00:18.000Z",
+          "wordCount": 8715,
+          "title": "Congress Had Plenty of Opportunities to Stop the Iran Strikes",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/03/trump-congress.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
           "id": "https://www.nationalreview.com/?p=1925561",
           "author": "Elizabeth Mirabelli and Lori Ann West",
           "description": "Teachers shouldn’t be forced to lie to parents about their child’s asserted gender identity.",
@@ -2003,26 +2033,6 @@
           "wordCount": 7013,
           "title": "Beware the Biden Nostalgia",
           "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/04/joe-biden-madison-wisconsin.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1916686",
-          "author": "Jianli Yang",
-          "description": "The struggle is best understood as a code war — originating in technology but extending far beyond it.",
-          "link": "https://www.nationalreview.com/2026/02/how-five-common-chinese-expressions-help-explain-beijings-conflicting-chip-signals/",
-          "publishedOn": "2026-02-03T11:30:44.000Z",
-          "wordCount": 7389,
-          "title": "How Five Common Chinese Expressions Help Explain Beijing’s Conflicting Chip Signals",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/02/china-flg-computer-chip.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1916788",
-          "author": "The Editors",
-          "description": "So much for the ‘warmth of collectivism.’",
-          "link": "https://www.nationalreview.com/2026/02/the-godawful-homeless-deaths-in-mamdanis-new-york-city/",
-          "publishedOn": "2026-02-03T11:30:15.000Z",
-          "wordCount": 6429,
-          "title": "The God-Awful Homeless Deaths in Mamdani’s New York City",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/02/nyc-mayor-zohran-mamdani.jpg?fit=2057%2C1200&ssl=1"
         }
       ]
     },
@@ -2031,6 +2041,36 @@
       "feedUrl": "https://sspai.com/feed",
       "siteUrl": "https://sspai.com",
       "articles": [
+        {
+          "id": "https://sspai.com/post/103846",
+          "author": "Belcheck_",
+          "description": "如果你是一名新入坑的 F1 车迷，肯定不想在一整年里都看到没有悬念的无聊比赛，但即将到来的 2026 年却可以说集齐了所有变量，足够为你带来一场混乱却有趣的开局……查看全文",
+          "link": "https://sspai.com/post/103846",
+          "publishedOn": "2026-03-05T06:32:05.000Z",
+          "wordCount": 593,
+          "title": "开赛在即，疾速入坑：F1 2026 观赛指南",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sspai.com/post/106443",
+          "author": "LOSSES",
+          "description": "出发点只是嫌一台 MP3 的 UI 太丑——在一个完全不是我专业领域的方向上，借助两个模型和一份手册，把一颗嵌入式芯片的字符渲染管线从头到尾摸了个七七八八。查看全文",
+          "link": "https://sspai.com/post/106443",
+          "publishedOn": "2026-03-05T03:01:58.000Z",
+          "wordCount": 571,
+          "title": "靠大模型「吵架」完成固件逆向，我有哪些心得体会？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sspai.com/post/106844",
+          "author": "少数派编辑部",
+          "description": "OpenAI 确认即将推出新版模型、Claude Code 上线语音模式等。查看全文",
+          "link": "https://sspai.com/post/106844",
+          "publishedOn": "2026-03-05T00:37:55.000Z",
+          "wordCount": 499,
+          "title": "派早报：Apple 推出 MacBook Neo、Setapp 调整商业模式等",
+          "imageUrl": null
+        },
         {
           "id": "https://sspai.com/prime/story/pollen-allergy-a-guide",
           "author": "鸿苓",
@@ -2789,26 +2829,6 @@
           "publishedOn": "2026-02-03T23:00:00.000Z",
           "wordCount": 453,
           "title": "派早报：Firefox 上线 AI 功能开关、OpenAI 推出 Codex 桌面应用等",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sspai.com/post/106004",
-          "author": "Matrix机器人",
-          "description": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光。因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。🏆年度创作少 ...查看全文",
-          "link": "https://sspai.com/post/106004",
-          "publishedOn": "2026-02-03T08:46:53.000Z",
-          "wordCount": 642,
-          "title": "社区速递 128 | 小红书里的「奇怪知识」、打开 14 天的血糖盲盒",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sspai.com/post/105893",
-          "author": "KingTsui",
-          "description": "相较于我们提到过的 TWX7，CKS50TW2 并没有把很多功夫都下到声音调校上，而是做了一个各方面功能都挺有意思的产品。查看全文",
-          "link": "https://sspai.com/post/105893",
-          "publishedOn": "2026-02-03T07:20:22.000Z",
-          "wordCount": 509,
-          "title": "不是只做样子货：铁三角 ATH-CKS50TW2 星战联名耳机体验",
           "imageUrl": null
         }
       ]
@@ -5841,118 +5861,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://pic.yupoo.com/fotomag/fdd03aaa/cc69ebe0.jpg"
-        },
-        {
-          "id": "idaily-245318",
-          "author": "法属圭亚那",
-          "description": "欧空局技术团队正在组装「阿丽亚娜6型」（Ariane 6）运载火箭的助推器，法属圭亚那。2月2日，新一枚「阿丽亚娜6型」火箭运抵发射台进入发射前准备阶段，预计2月12日执行亚马逊公司「Leo」低轨卫星网络第8批32颗卫星的部署任务。本次任务使用的「阿丽亚娜6型」火箭首次配备4个助推器，每个助推器长13.5米、直径3.4米，可装填142吨固体推进剂，提供4500千牛起飞推力，让近地轨道运载能力提升一倍至21.6吨。摄影师：Manuel Pédoussaut",
-          "link": "https://m.idai.ly/se/c25E3I",
-          "publishedOn": "2026-02-03T10:59:00.000Z",
-          "wordCount": 250,
-          "title": "阿丽亚娜火箭准备发射 - February 3, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/a38acf81/8c88faf7.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/a38acf81/8c88faf7.jpg"
-        },
-        {
-          "id": "idaily-245317",
-          "author": "美国 · 华盛顿特区",
-          "description": "美国总统 Donald Trump 宣布启动建立关键矿产储备项目「金库计划」（Project Vault），华盛顿白宫。2月2日，美国总统 Trump 宣布启动一项投资总额近120亿美元的美国首个关键矿产储备项目「金库计划」，该项目旨在建立美国国家级稀土储备，通过采购、投资等方式确保美国制造业的稀土供应链安全，减少对中国稀土的依赖。美国进出口银行将为该项目提供为期15年的100亿美元贷款，另外16.7亿美元由私人资本提供。美国白宫数据显示至2024年美国有12种关键矿产100%依赖进口。中国是全球最大的关键矿产生产国，控制着全球约70%稀土提炼和90%以上稀土精加工产能。摄影师：Bonnie Cash",
-          "link": "https://m.idai.ly/se/5b6Wnp",
-          "publishedOn": "2026-02-03T09:58:00.000Z",
-          "wordCount": 250,
-          "title": "特朗普公布国家稀土储备计划 - February 3, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/26536679/2f3985c4.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/26536679/2f3985c4.jpg"
-        },
-        {
-          "id": "idaily-245316",
-          "author": "意大利 · 米兰",
-          "description": "2026年米兰-科尔蒂纳冬奥会吉祥物周边在官方纪念品商店发售，意大利。2月2日，距米兰冬奥会开幕还有最后4天，火炬传递、开幕式彩排等各项筹备工作已进入最后冲刺阶段，开幕式将于2月6日晚20点在米兰圣西罗体育场举行。本届冬奥会及冬残奥会吉祥物为一对雪鼬姐弟「蒂娜」（Tina）和「米罗」（Milo），由意大利塔韦尔纳综合学院的学生设计，其中姐姐「蒂娜」是一只白毛雪鼬，弟弟「米罗」是一只右脚残疾的棕毛雪鼬，分别代表两大主办城市「科尔蒂纳丹佩佐」和「米兰」。摄影师：Francesca Volpi",
-          "link": "https://m.idai.ly/se/e482zO",
-          "publishedOn": "2026-02-03T08:57:00.000Z",
-          "wordCount": 250,
-          "title": "米兰冬奥会倒计时4天 - February 3, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/5434907a/b0ca29ee.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/5434907a/b0ca29ee.jpg"
-        },
-        {
-          "id": "idaily-245315",
-          "author": "美国 · 宾夕法尼亚州",
-          "description": "美国宾州旁苏托尼镇举行第140届「土拨鼠日」（Groundhog Day）春季预测庆祝活动，一只专门预测春季的土拨鼠被高高托起。2月2日是北美传统节日「土拨鼠日」，根据当地传说，如果土拨鼠在这一天从洞穴出来后看到自己的影子，意味着冬季还将持续6周，反之则代表今年将迎来早春。本届活动共吸引约3000人到场观看，土拨鼠 Phil 预测2026年的春季不会提前降临。美国国家海洋和大气管理局（NOAA）数据显示过去20年来旁苏托尼镇土拨鼠预测活动的准确率约为35%。摄影师：Jeff Swensen",
-          "link": "https://m.idai.ly/se/168Ts0",
-          "publishedOn": "2026-02-03T08:55:00.000Z",
-          "wordCount": 250,
-          "title": "美国宾州土拨鼠日 - February 3, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/03cc1130/dba47cea.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/03cc1130/dba47cea.jpg"
-        },
-        {
-          "id": "idaily-245314",
-          "author": "韩国 · 首尔",
-          "description": "首尔景福宫工作人员正在清理广场上的积雪。2月2日，韩国多地遭遇暴雪天气，局部地区每小时降雪量达3厘米，降雪量最大的江原道山区积雪厚达17.3厘米；首尔市积雪量达6.2厘米，创下入冬以来最高纪录，多地出现路面结冰和黑冰现象。首尔市政府已发布二级降雪响应预警，出动工作人员在道路上提前喷洒除冰剂，并设立指挥中心实时监控交通状况。韩国气象局预测新一轮冷空气将于2月6日抵达，届时首尔最高气温将再次跌至零度以下。摄影师：Jung Yeon-je",
-          "link": "https://m.idai.ly/se/f504Wv",
-          "publishedOn": "2026-02-03T08:53:00.000Z",
-          "wordCount": 250,
-          "title": "韩国遭遇强降雪天气 - February 3, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/f671adb5/99f017e6.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/f671adb5/99f017e6.jpg"
-        },
-        {
-          "id": "idaily-245313",
-          "author": "巴西 · 萨尔瓦多",
-          "description": "巴西非裔民众参加「海神节」（Iemanja Festival）庆祝活动，萨尔瓦多市。海洋女神「叶玛亚」（Iemanja）是非裔巴西坎东布雷教中保护渔民和沉船幸存者的神灵，当地按照传统每年2月2日会在海边举行祭祀仪式，向海洋女神祈愿新年幸福安康。巴西拥有非洲大陆之外最大的非裔人口，自认为拥有非裔血统的人数达1.1亿人，占该国总人口的55.5%。摄影师：Antonello Veneri",
-          "link": "https://m.idai.ly/se/719Kou",
-          "publishedOn": "2026-02-03T08:51:00.000Z",
-          "wordCount": 250,
-          "title": "巴西非裔海洋女神节 - February 3, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/90f1c5f3/bd9dc2a6.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/90f1c5f3/bd9dc2a6.jpg"
-        },
-        {
-          "id": "idaily-245311",
-          "author": "美国 · 佛罗里达州",
-          "description": "一只被冻僵的野生绿鬣蜥在路边陷入昏迷，美国迈阿密。2月2日，美国佛州野生动物管理局通报过去2天共收集到超过2000只因低温「冻僵」的野生绿鬣蜥。绿鬣蜥是一种树栖变温动物，当外界气温过低时会进入休眠状态并降低代谢。受极地寒流影响，美国东南部地区正遭遇新一轮冬季风暴侵袭，迈阿密气温跌至1.6℃，创下2010年以来同期最低水平，奥兰多、墨尔本、利斯堡、桑福德等多地气温跌破历史纪录。摄影师：Joe Raedle",
-          "link": "https://m.idai.ly/se/655i10",
-          "publishedOn": "2026-02-03T08:49:00.000Z",
-          "wordCount": 250,
-          "title": "美国寒潮冻僵野生蜥蜴 - February 3, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/92664835/a0fc66b5.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/92664835/a0fc66b5.jpg"
-        },
-        {
-          "id": "idaily-245309",
-          "author": "中国 · 重庆",
-          "description": "重庆大学空天科学与技术研究院院长展示太空生命试验搭载的蝴蝶品种标本，中国。2月2日，重庆大学宣布跟随「神农开物2号」小型太空生态系统试验载荷进入太空的柑橘凤蝶蛹成功孵化成蝶，新生蝴蝶对太空微重力环境展现出良好适应性。「神农开物2号」试验载荷于2025年12月13日由「快舟十一号」遥八运载火箭部署进入近地轨道。该试验平台使用镁合金材料打造生物密闭舱体，质量约8.3公斤，内部可用空间14.2升，通过植物、蝴蝶和微生物构成三链闭环的微型生态系统，主要目标为验证地球生命在太空极端环境下的生存与物质循环能力。摄影师：Zhou Yi",
-          "link": "https://m.idai.ly/se/3bbF1o",
-          "publishedOn": "2026-02-03T08:47:00.000Z",
-          "wordCount": 250,
-          "title": "中国太空试验舱蝶蛹孵化 - February 3, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/9cdc3856/bc11d8a9.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/9cdc3856/bc11d8a9.jpg"
         }
       ]
     },
@@ -5961,6 +5869,86 @@
       "feedUrl": "https://plink.anyfeeder.com/nytimes/dual",
       "siteUrl": "http://nytimes.com",
       "articles": [
+        {
+          "id": "https://cn.nytimes.com/china/20260305/china-us-technology-trade-military/dual",
+          "author": null,
+          "description": "储百亮, 郭莉莉2026年3月5日周四，中国领导人习近平在北京出席全国立法机构的年度会议。 Lintao Zhang/Getty Images\nFrom its strikes on Iran to its global tariffs, the United States has wielded military force and economic threats to impose its will. China’s top leader, Xi Jinping, is preparing for this era of perilous rivalry by pouring resources into artificial intelligence, quantum computing and other strategic technologies, while also expanding the country’s armed forces.\n 从对伊朗的袭击到全球关税政策，美国正动用军事力量和经济威胁来强加其意志。中国最高领导人习近平正通过向人工智能、量子计算及其他战略技术领域倾注资源，同时扩张武装力量，为这个充满险恶竞争的时代做准备。\nMr. Xi’s ambitious goals for the next five years of China’s technological ascent were expected to be endorsed at a weeklong meeting of the national legislature in Beijing that started on Thursday. The approach reflects Mr. Xi’s view that competition with the Unite…",
+          "link": "https://cn.nytimes.com/china/20260305/china-us-technology-trade-military/dual",
+          "publishedOn": "2026-03-05T07:36:02.000Z",
+          "wordCount": 1056,
+          "title": "风险和竞争加剧，中国押注科技以抵御美国压力",
+          "imageUrl": "https://static01.nyt.com/images/2026/03/05/multimedia/05int-china-politics-ljgv/05int-china-politics-ljgv-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/world/20260305/iran-war-oil-gas-strait-of-hormuz/dual",
+          "author": null,
+          "description": "BLACKI MIGLIOZZI, CHRISTIAAN TRIEBERT, PETER EAVIS, KEITH COLLINS, JACQUELINE GU, REBECCA F. ELLIOTT2026年3月5日袭击开始前后霍尔木兹海峡附近的船只。注：显示时间为伊朗标准时间。该地区部分船只发送虚假位置，部分船只偶尔停止位置广播，可能未在图中反映。位置数据较少的船只以较浅颜色显示。来源：Kpler。 \nEvery day, around 80 oil and gas tankers typically pass through the Strait of Hormuz, the narrow waterway off Iran’s southern coast that carries a fifth of the world’s oil and a significant amount of natural gas.\n 通常，每天有约80艘油气运输船只通过霍尔木兹海峡。这条位于伊朗南海岸的狭窄水道承载了全球五分之一的石油和相当一部分天然气的运输。\nOn Monday, just two oil and gas tankers appear to have crossed the strait, according to a New York Times analysis of shipping activity from Kpler, an industry data firm. On Tuesday, one tanker passed through.\n 通过分析行业数据公司Kpler的航运活动数据，《纽约时报》发现，周一似乎仅有两艘油气运输船只穿过该海峡，周二仅有一艘油轮通过。\n“It’s a de facto closure,” said Dan Picker…",
+          "link": "https://cn.nytimes.com/world/20260305/iran-war-oil-gas-strait-of-hormuz/dual",
+          "publishedOn": "2026-03-05T07:06:02.000Z",
+          "wordCount": 879,
+          "title": "伊朗冲突如何影响世界石油和天然气供应",
+          "imageUrl": "https://static01.nyt.com/images/2026/03/05/chinese/c05iran-oil-gas-01/c05iran-oil-gas-articleLarge.png"
+        },
+        {
+          "id": "https://cn.nytimes.com/business/20260305/iran-us-israel-war-investing-stocks-bonds/dual",
+          "author": null,
+          "description": "JEFF SOMMER2026年3月5日德黑兰遭遇美以袭击后的景象。投资者有诸多理由避免仓促行动。 Arash Khamooshi for The New York Times\nThere is chaos in the Middle East and global markets have been oscillating wildly. But rather than panic about what the Iran war may be doing to your investments, try to forget about all of it.\n中东局势陷入混乱，全球市场也在剧烈波动。但是，与其因伊朗战争可能对你的投资产生的影响而惶惶不安，不如试着把这一切抛诸脑后。\nThat, in a nutshell, is the standard long-term investing playbook for times of crisis.\n简而言之，这正是危机时期长期投资的标准策略。\nIt’s not the most exciting approach. You may be able to profit if you behave opportunistically. Buy and sell energy and military stocks — or gold, or U.S. Treasuries, or anything else that may be the flavor of the moment — and do so at just the right time. But speculating in the markets and consistently coming out ahead is hard to do.\n这并不是最刺激的…",
+          "link": "https://cn.nytimes.com/business/20260305/iran-us-israel-war-investing-stocks-bonds/dual",
+          "publishedOn": "2026-03-05T05:36:02.000Z",
+          "wordCount": 1701,
+          "title": "中东战乱、市场动荡，普通人该如何投资？",
+          "imageUrl": "https://static01.nyt.com/images/2026/03/08/multimedia/05biz-strategies-iran-hbzw/05biz-strategies-iran-hbzw-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/world/20260305/uk-spying-china-arrests/dual",
+          "author": null,
+          "description": "STEPHEN CASTLE, MICHAEL D. SHEAR2026年3月5日伦敦中国大使馆大楼，摄于11月。近期，中国间谍活动在英国成为敏感话题。 Justin Tallis/Agence France-Presse — Getty Images\nThe husband of a British lawmaker was one of three men arrested on Wednesday by the British police on suspicion of spying for China, deepening concerns about the possible extent of Chinese espionage in Western nations.\n三名涉嫌为中国从事间谍活动的男子于周三被英国警方逮捕，其中包括一名英国议员的丈夫，这加剧了外界对中国在西方国家间谍活动可能范围的担忧。\nA statement from the Metropolitan Police in London said that three men had been taken into custody on suspicion of “assisting a foreign intelligence service, contrary to Section 3 of the National Security Act.” The release confirmed that the country in question was China.\n伦敦警察厅发表声明称，三男子因涉嫌“协助外国情报机构，违反《国家安全法》第三条”而被拘留。声明证实所涉国家为中国。\nThe statement did not name the men, in keeping with Bri…",
+          "link": "https://cn.nytimes.com/world/20260305/uk-spying-china-arrests/dual",
+          "publishedOn": "2026-03-05T04:36:02.000Z",
+          "wordCount": 1112,
+          "title": "英国议员丈夫涉嫌为中国从事间谍活动被捕",
+          "imageUrl": "https://static01.nyt.com/images/2026/03/04/multimedia/04int-uk-china-spies-mjlb/04int-uk-china-spies-mjlb-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/opinion/20260305/trump-iran-liberation/dual",
+          "author": null,
+          "description": "PETER W. KLEIN2026年3月5日\n“Take over your government,” President Trump urged Iranians as bombs began raining down this past weekend. “It will be yours to take. This will be, probably, your only chance for generations.” It was a stirring call, drawing on the dream of democracy and the promise of liberation. The United States has issued it to other nations many times in the past, and it tends to end in disaster.\n “接管你们的政府，”上周末炮火如雨点般落下时，特朗普总统向伊朗人民发出了号召。“它将由你们主宰。这可能是你们几代人中唯一的机会。”这是一个激动人心的号召，利用了民主的梦想和解放的承诺。美国在过去曾多次向其他国家发出这种号召，而结果往往以灾难告终。\nDuring the Cold War, Radio Free Europe broadcasts encouraged the people of Hungary — my parents among them — to rise up, offering guidance on tactics and strategies and leading many listeners to believe they would receive U.S. military assistance. On Oct. 23, 195…",
+          "link": "https://cn.nytimes.com/opinion/20260305/trump-iran-liberation/dual",
+          "publishedOn": "2026-03-05T03:36:03.000Z",
+          "wordCount": 1169,
+          "title": "伊朗人该把性命押在美国的承诺上吗？",
+          "imageUrl": "https://static01.nyt.com/images/2026/03/03/opinion/03klein-Naila/03klein-Naila-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/world/20260305/trump-iran-intelligence-leaders/dual",
+          "author": null,
+          "description": "MICHAEL CROWLEY, JULIAN E. BARNES, RONEN BERGMAN2026年3月5日周二空袭后，德黑兰上空升起黑烟。 Arash Khamooshi for The New York Times\nIn public, Iran’s surviving leaders have defiantly refused to negotiate with President Trump to end the American and Israeli assault on their country. But a day after the attacks began, operatives from Iran’s Ministry of Intelligence reached out indirectly to the C.I.A. with an offer to discuss terms for ending the conflict, according to officials briefed on the outreach.\n在公开场合，伊朗幸存的领导人仍强硬拒绝与特朗普总统谈判，以结束美国和以色列对其国家的攻击。但据知情官员透露，袭击开始一天后，伊朗情报部的特工通过间接渠道联系了美国中央情报局，表示愿意商讨结束冲突的条件。\nU.S. officials are skeptical — at least in the short term — that either the Trump administration or Iran is really ready for an offramp, the officials briefed on the outreach said.\n知情官员称，美国官员怀疑，至少短期内，无论是特朗普政府还是…",
+          "link": "https://cn.nytimes.com/world/20260305/trump-iran-intelligence-leaders/dual",
+          "publishedOn": "2026-03-05T03:06:02.000Z",
+          "wordCount": 1413,
+          "title": "伊朗特工曾在袭击开始后与美国秘密接触",
+          "imageUrl": "https://static01.nyt.com/images/2026/03/03/multimedia/03dc-iran-next-01-bjqp/03dc-iran-next-01-bjqp-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/business/20260305/china-gdp-target-2025/dual",
+          "author": null,
+          "description": "AARON KROLIK2026年3月5日中国国家主席习近平周三出席中国人民政治协商会议全国委员会第十四届委员会第一次会议开幕式。 Florence Lo/Reuters\nEvery March, China’s leaders gather in Beijing’s Great Hall of the People to announce how much the world’s second-largest economy is expected to grow that year.\n每年3月，中国领导人都会齐聚北京的人民大会堂，宣布全球第二大经济体当年的预期增长目标。\nIt doesn’t change much from year to year.\n这一目标每年变化不大。\nOn Thursday, the target for 2026 was set at between 4.5 percent and 5 percent. It was the first time in more than three decades that the benchmark was placed below the 5 percent mark, an acknowledgment that China is on a slower growth path.\n周四，2026年的增长目标被设定在4.5%至5%之间。这是30多年来该基准首次低于5%的门槛，表明中国已进入增速放缓轨道。\nThe announcement came at the start of the National People’s Congress, the meeting of China’s Communist Party controlled legislature, when leaders unveil…",
+          "link": "https://cn.nytimes.com/business/20260305/china-gdp-target-2025/dual",
+          "publishedOn": "2026-03-05T02:36:01.000Z",
+          "wordCount": 1014,
+          "title": "30余年来首次，中国年度经济增长目标低于5%",
+          "imageUrl": "https://static01.nyt.com/images/2026/03/05/multimedia/05biz-china-econ-01-ztvm/05biz-china-econ-01-ztvm-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/china/20260305/china-ai-enthusiasm/dual",
+          "author": null,
+          "description": "王月眉2026年3月5日去年在上海举行的世界人工智能大会上展示的服务机器人。 Qilai Shen for The New York Times\nWhen the A.I. video generation tool Seedance 2.0 debuted recently, with the ability to create impressively realistic clips of just about anything a user could imagine, it prompted two drastically different reactions on opposite sides of the world.\n最近发布的人工智能视频生成工具Seedance 2.0能够根据用户的想象创造出令人惊艳的逼真视频片段，它在地球两端引发了两种截然不同的反应。\nIn the United States, many in the movie industry responded with fear. After a Seedance-generated video purporting to show a fight scene between Brad Pitt and Tom Cruise spread widely online, Hollywood filmmakers and writers said their jobs were fast becoming obsolete.\n在美国，电影行业的许多人对此感到恐惧。一段据称是布拉德·皮特和汤姆·克鲁斯打斗场面的Seedance生成视频在网上广泛传播后，好莱坞的电影制作人和编剧们表示，他们的工作正迅速变得过时。\nBut in China, many reacted with pride and exci…",
+          "link": "https://cn.nytimes.com/china/20260305/china-ai-enthusiasm/dual",
+          "publishedOn": "2026-03-05T00:06:01.000Z",
+          "wordCount": 1427,
+          "title": "中国的人工智能末日论者在哪？",
+          "imageUrl": "https://static01.nyt.com/images/2026/03/02/multimedia/02int-china-ai-enthusiasm-01-tqhj/02int-china-ai-enthusiasm-01-tqhj-articleLarge.jpg"
+        },
         {
           "id": "https://cn.nytimes.com/china/20260304/china-education-ai/dual",
           "author": null,
@@ -6730,26 +6718,6 @@
           "wordCount": 1219,
           "title": "习近平的军队大清洗对台湾意味着什么",
           "imageUrl": "https://static01.nyt.com/images/2026/02/03/multimedia/03garnaut-btfh/03garnaut-btfh-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/china/20260203/china-xi-military-purge/dual",
-          "author": null,
-          "description": "AMY CHANG CHIEN, AGNES CHANG, 储百亮2026年2月3日这些是2023年在中央军事委员会任职、效力于习近平的高级将领。此后，除一人外，其他人都被习近平清除出局。习近平在过去三年中进行了非同寻常的大清洗，使得这个世界第二强大军队的高层出现了权力空白。 The New York Times\nChina’s military leadership stood before the nation in March 2023, an image of unity behind Xi Jinping. After nearly a decade in power, Mr. Xi had installed the high command that he wanted: loyalists hand-picked to make the People’s Liberation Army a world-class force.\n2023年3月，中国军队领导层站在全国人民面前，展现出团结一致、拥护习近平的形象。在执政近十年后，习近平按照自己的意愿组建了最高指挥层：一批他亲自挑选、对其忠诚的将领，以将人民解放军打造为世界一流军队。\nBut not even Mr. Xi’s loyalists have been spared from his sweeping campaign to clean up the military — with purges that are ostensibly focused on corruption but are also about fealty to him. One by one, members of the Central Military Commission have been dismissed and …",
-          "link": "https://cn.nytimes.com/china/20260203/china-xi-military-purge/dual",
-          "publishedOn": "2026-02-03T07:36:01.000Z",
-          "wordCount": 768,
-          "title": "消失的将领：习近平军队高层大清洗",
-          "imageUrl": "https://static01.nyt.com/images/2026/02/03/multimedia/c03china-military-purge-01/c03china-military-purge-articleLarge.png"
-        },
-        {
-          "id": "https://cn.nytimes.com/business/20260203/china-ai-regulations/dual",
-          "author": null,
-          "description": "MEAGHAN TOBIN, XINYUN WU2026年2月3日智谱AI的高管上月在香港交易所举行的上市仪式上亮相。该公司是中国最具前景的人工智能初创企业之一。 Tommy Wang/Agence France-Presse — Getty Images\nIn late January, China’s leader, Xi Jinping, told a gathering of officials from across the country that China was on the cusp of an “epoch-making major technological revolution.”\n1月下旬，中国领导人习近平在一场全国性官员会议上表示，中国正处于“新一轮科技革命”的门槛。\nArtificial intelligence, he said, is as transformative as the steam engine, electricity and the internet. But for all of its promise, China must not let the new technology “spiral out of control,” Mr. Xi warned during a study session for leaders of the Chinese Communist Party, according to state media. China must act early and decisively, anticipating and preventing problems with prudence and caution, he said.\n据官方媒体报道，习近平在中共中央政治局集体学习时指出，人工智能的…",
-          "link": "https://cn.nytimes.com/business/20260203/china-ai-regulations/dual",
-          "publishedOn": "2026-02-03T06:06:02.000Z",
-          "wordCount": 1462,
-          "title": "既要发展又要“听话”：中国人工智能企业面临的两项重任",
-          "imageUrl": "https://static01.nyt.com/images/2026/01/30/multimedia/Biz-China-AI-01-vgmb/Biz-China-AI-01-vgmb-articleLarge.jpg"
         }
       ]
     },
