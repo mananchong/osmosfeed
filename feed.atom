@@ -2,10 +2,123 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mananchong.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-05T18:27:18.189Z</updated>
+    <updated>2026-03-06T07:59:48.486Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mananchong.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://mananchong.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[通用、福特等美国老牌车企会被时代淘汰吗？]]></title>
+        <id>https://cn.nytimes.com/business/20260306/ford-gm-ev-self-driving-cars-china/dual</id>
+        <link href="https://cn.nytimes.com/business/20260306/ford-gm-ev-self-driving-cars-china/dual"/>
+        <updated>2026-03-06T06:06:02.000Z</updated>
+        <summary type="html"><![CDATA[JACK EWING2026年3月6日福特汽车位于密歇根州韦恩的一家工厂。美国汽车制造商正面临艰难抉择。 Emily Elconin for The New York Times
+Perhaps no business needs certainty more than the auto industry. It usually takes at least four years to design a new model and bring it to market, requiring carmakers to divine what buyers will find appealing by the time the vehicles reach showrooms.
+或许没有哪个行业比汽车业更需要确定性。一款新车型从设计到上市通常至少需要四年时间，这要求车企必须预判出当车辆最终进入展厅时，消费者会青睐哪些特性。
+Yet industry veterans say they can’t remember a time when the biggest carmakers faced as much uncertainty as they do now. They have been whipsawed by tariffs. Chinese carmakers are breathing down their necks around the world. Self-driving taxi companies like Waymo are changing the very nature of transportation. Software has replaced horsepower as a key selling point. Sales are flat…]]></summary>
+        <author>
+            <name>纽约时报双语版</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[调查显示，伊朗小学遭袭时美军正打击邻近海军基地]]></title>
+        <id>https://cn.nytimes.com/world/20260306/iran-school-us-strikes-naval-base/dual</id>
+        <link href="https://cn.nytimes.com/world/20260306/iran-school-us-strikes-naval-base/dual"/>
+        <updated>2026-03-06T05:36:02.000Z</updated>
+        <summary type="html"><![CDATA[MALACHY BROWNE, AARON BOXERMAN2026年3月6日 
+The Feb. 28 strike that hit an elementary school in the southern Iranian town of Minab is the deadliest known episode of civilian casualties since the United States and Israel attacked Iran — and no side has yet taken responsibility.
+2月28日对伊朗南部米纳卜市一所小学的袭击是美国和以色列打击伊朗以来已知的导致平民死亡最惨重的事件——而到目前为止，没有任何一方承认对此负责。
+But a body of evidence assembled by The New York Times — including newly released satellite imagery, social media posts and verified videos — indicates the school building was severely damaged by a precision strike that occurred at the same time as attacks on an adjacent naval base operated by the Islamic Revolutionary Guards Corps.
+但《纽约时报》整理的一系列证据——包括新发布的卫星图像、社交媒体帖子和经核实验证的视频——表明，这栋校舍是在一次精准打击中遭到严重破坏的，而在同一时间，邻近的伊斯兰革命卫队海军基地也遭到了袭击。
+And official stateme…]]></summary>
+        <author>
+            <name>纽约时报双语版</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特朗普确立先例，美国总统发动战争不再受约束？]]></title>
+        <id>https://cn.nytimes.com/usa/20260306/trump-iran-war-presidential-power/dual</id>
+        <link href="https://cn.nytimes.com/usa/20260306/trump-iran-war-presidential-power/dual"/>
+        <updated>2026-03-06T05:36:02.000Z</updated>
+        <summary type="html"><![CDATA[CHARLIE SAVAGE2026年3月6日
+Since World War II, presidents of both parties have found ways to hollow out the Constitution’s constraints on their power to order military attacks. President Trump’s unilateral decision to launch a war against Iran threatens to gut nearly all of what little remains.
+自第二次世界大战以来，两党的美国总统都各显神通，架空了宪法对其发动军事攻击的权力的约束。特朗普总统单方面决定对伊朗开战可能将抹去最后仅存的那一点约束。
+It is supposed to be a foundational principle of American democracy that unless the United States is under attack, the power to declare war is vested in Congress. But especially since the start of the Cold War, presidents of both parties have chipped away at that by claiming a right to order the military into various limited hostile situations.
+美国民主的一项基本原则是：除非美国遭受攻击，否则宣战权属于国会。但两党总统——尤其是自冷战开始以来——都通过宣称有权下令军队进入各种有限的敌对状态逐步削弱了这一原则。
+…]]></summary>
+        <author>
+            <name>纽约时报双语版</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一日一技｜用 NAS 与 LanCache 构建本地游戏缓存服务器]]></title>
+        <id>https://sspai.com/post/106796</id>
+        <link href="https://sspai.com/post/106796"/>
+        <updated>2026-03-06T03:29:03.000Z</updated>
+        <summary type="html"><![CDATA[这套利用NAS构建本地游戏缓存服务器的方法，非常适合宿舍、家庭或者公司这类多人下载相同游戏的共享环境，也可以用来解决带宽或者流量受限的问题。查看全文]]></summary>
+        <author>
+            <name>噩梦飘雷</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国、朝鲜、俄罗斯，伊朗“友邦”为何无人出手相助？]]></title>
+        <id>https://cn.nytimes.com/world/20260306/iran-turkey-india-russia/dual</id>
+        <link href="https://cn.nytimes.com/world/20260306/iran-turkey-india-russia/dual"/>
+        <updated>2026-03-06T03:06:02.000Z</updated>
+        <summary type="html"><![CDATA[BEN HUBBARD2026年3月6日遭美以联军空袭摧毁的一个德黑兰警察局。 Arash Khamooshi for The New York Times
+Despite long being treated as a pariah by the West and isolated by U.S. sanctions, Iran’s revolutionary Islamic government maintained diplomatic, commercial and military ties with a range of countries.
+尽管伊朗伊斯兰革命政府长期被西方视为弃儿，并在美国制裁下陷入孤立，它仍与多个国家保持着外交、经贸和军事联系。
+Turkey and India engaged with it on trade and security. China looked to it for cheap oil. North Korea, Venezuela and Russia considered it an ally in their struggle against the West and conspired with it to develop military technology and subvert sanctions.
+土耳其与印度在贸易和安全领域同伊朗往来；中国从伊朗获取廉价石油；朝鲜、委内瑞拉和俄罗斯将伊朗视为对抗西方的盟友，并与其合谋开发军事技术，规避制裁。
+Now that Iran finds itself under attack by the United States and Israel, those friends, neighbors and partners have little more than …]]></summary>
+        <author>
+            <name>纽约时报双语版</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[亚洲股市波动，中东局势带来连锁反应]]></title>
+        <id>https://cn.nytimes.com/business/20260306/stocks-asia-iran-energy/dual</id>
+        <link href="https://cn.nytimes.com/business/20260306/stocks-asia-iran-energy/dual"/>
+        <updated>2026-03-06T01:06:02.000Z</updated>
+        <summary type="html"><![CDATA[MEAGHAN TOBIN2026年3月6日周四，首尔韩亚银行总行的外汇交易员。 Ahn Young-Joon/Associated Press
+Stocks across most of Asia rallied on Thursday, a day after tumbling over fears around the region’s heavy reliance on imported oil and gas.
+亚洲大多数地区的股市周四出现反弹。此前一天，由于投资者担心该地区对进口石油和天然气的高度依赖，市场曾大幅下跌。
+The turnaround illustrates the hair-trigger reactions of investors around the world who are trying to assess the immediate and possible long-term effects of the strikes on Iran by the United States and Israel and the repercussions around the Persian Gulf, where much of the world’s oil and gas is produced.
+这种反转凸显了全球投资者的高度敏感反应，他们正试图评估美国和以色列对伊朗发动打击所带来的即时影响以及可能产生的长期后果，以及这些行动在波斯湾地区引发的连锁反应——该地区是全球主要的石油和天然气产地。
+The swing was particularly stark for South Korea’s Kospi index, which had dropped 12 percent in its worst single-day crash, …]]></summary>
+        <author>
+            <name>纽约时报双语版</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：Aqara 发布集悦妙控屏 S1 Plus Siri 版等]]></title>
+        <id>https://sspai.com/post/106880</id>
+        <link href="https://sspai.com/post/106880"/>
+        <updated>2026-03-06T00:45:33.000Z</updated>
+        <summary type="html"><![CDATA[海信发布 UX 2026 款 RGB-Mini LED 旗舰电视、Nothing 推出 Phone(4a) 系列手机等。查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Colin Gray’s Conviction Is Just, but It’s Not a Game Changer]]></title>
+        <id>https://www.nationalreview.com/?p=1926240</id>
+        <link href="https://www.nationalreview.com/2026/03/colin-grays-conviction-is-just-but-its-not-a-game-changer/"/>
+        <updated>2026-03-05T19:29:07.000Z</updated>
+        <summary type="html"><![CDATA[Gray’s murder conviction for supplying the gun his son used to commit a mass shooting is not the remarkable moment many want it to be.]]></summary>
+        <author>
+            <name>Amy Swearer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[America and Israel Remind the World How Wars Are Fought to Victory]]></title>
+        <id>https://www.nationalreview.com/?p=1926209</id>
+        <link href="https://www.nationalreview.com/2026/03/america-and-israel-remind-the-world-how-wars-are-fought-to-victory/"/>
+        <updated>2026-03-05T18:55:13.000Z</updated>
+        <summary type="html"><![CDATA[For some, it is a disorienting experience.]]></summary>
+        <author>
+            <name>Noah Rothman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[天龙座「猫眼星云」 - March 5, 2026]]></title>
         <id>idaily-247139</id>
@@ -257,6 +370,33 @@ On Thursday, the target for 2026 was set at between 4.5 percent and 5 percent. I
 The announcement came at the start of the National People’s Congress, the meeting of China’s Communist Party controlled legislature, when leaders unveil…]]></summary>
         <author>
             <name>纽约时报双语版</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[她如何写作“学界小说”？｜专访苏枕书]]></title>
+        <id>4bec9af7958329aa3b4a30bfb45cec24</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E5%A5%B9%E5%A6%82%E4%BD%95%E5%86%99%E4%BD%9C%E2%80%9C%E5%AD%A6%E7%95%8C%E5%B0%8F%E8%AF%B4%E2%80%9D%EF%BC%9F%EF%BD%9C%E4%B8%93%E8%AE%BF%E8%8B%8F%E6%9E%95%E4%B9%A6"/>
+        <updated>2026-03-05T02:01:00.000Z</updated>
+        <author>
+            <name>新京报书评周刊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[奇幻作品《权力的游戏》将制作电影版]]></title>
+        <id>57d85d70aace4f83da184902abd9d717</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E5%A5%87%E5%B9%BB%E4%BD%9C%E5%93%81%E3%80%8A%E6%9D%83%E5%8A%9B%E7%9A%84%E6%B8%B8%E6%88%8F%E3%80%8B%E5%B0%86%E5%88%B6%E4%BD%9C%E7%94%B5%E5%BD%B1%E7%89%88"/>
+        <updated>2026-03-05T02:01:00.000Z</updated>
+        <author>
+            <name>新京报书评周刊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[梁小民：走出理解凯恩斯的误区]]></title>
+        <id>6c32805891f781aca4ff7913ddebf79f</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E6%A2%81%E5%B0%8F%E6%B0%91%EF%BC%9A%E8%B5%B0%E5%87%BA%E7%90%86%E8%A7%A3%E5%87%AF%E6%81%A9%E6%96%AF%E7%9A%84%E8%AF%AF%E5%8C%BA"/>
+        <updated>2026-03-05T02:01:00.000Z</updated>
+        <author>
+            <name>新京报书评周刊</name>
         </author>
     </entry>
     <entry>
@@ -571,6 +711,24 @@ The Islamic Republic of Iran’s first priority is to survive. To do that, its l
 Faced with the overwhelming firepower of the United States and Israel, diplomats and analysts say, Iran is working to enlarge the battlefield from its own territory to the broader region. The goals are to damage oil and gas infrastructure in neighboring countries, shut the Strait of Hormuz to shipping and curtail air traffic — all to disrupt the economi…]]></summary>
         <author>
             <name>纽约时报双语版</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新京雅集——曹操，被低估了]]></title>
+        <id>33b20c29dc3a23ea92fbcb3e21fcdf10</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E6%96%B0%E4%BA%AC%E9%9B%85%E9%9B%86%E2%80%94%E2%80%94%E6%9B%B9%E6%93%8D%EF%BC%8C%E8%A2%AB%E4%BD%8E%E4%BC%B0%E4%BA%86"/>
+        <updated>2026-03-04T02:45:00.000Z</updated>
+        <author>
+            <name>新京报书评周刊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吵架，以及没吵完的架：一对夫妻的纸上爱恨录]]></title>
+        <id>d98facd3a7f8d0a29eb846dc765bd002</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E5%90%B5%E6%9E%B6%EF%BC%8C%E4%BB%A5%E5%8F%8A%E6%B2%A1%E5%90%B5%E5%AE%8C%E7%9A%84%E6%9E%B6%EF%BC%9A%E4%B8%80%E5%AF%B9%E5%A4%AB%E5%A6%BB%E7%9A%84%E7%BA%B8%E4%B8%8A%E7%88%B1%E6%81%A8%E5%BD%95"/>
+        <updated>2026-03-04T02:45:00.000Z</updated>
+        <author>
+            <name>新京报书评周刊</name>
         </author>
     </entry>
     <entry>
@@ -6495,181 +6653,6 @@ But the targets of that effort, which escalated dramatically last month with the
         <summary type="html"><![CDATA[We should not overlook former editor Marty Baron’s role in the newspaper’s predicament.]]></summary>
         <author>
             <name>Jeffrey Blehar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Iran Wants to Turn Back Time]]></title>
-        <id>https://www.nationalreview.com/?p=1917276</id>
-        <link href="https://www.nationalreview.com/2026/02/iran-wants-to-turn-back-time/"/>
-        <updated>2026-02-04T19:33:42.000Z</updated>
-        <summary type="html"><![CDATA[But why would the United States indulge this fantasy?]]></summary>
-        <author>
-            <name>Noah Rothman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Resist the Temptation of Woodrow Wilson]]></title>
-        <id>https://www.nationalreview.com/?p=1917275</id>
-        <link href="https://www.nationalreview.com/2026/02/resist-the-temptation-of-woodrow-wilson/"/>
-        <updated>2026-02-04T18:46:26.000Z</updated>
-        <summary type="html"><![CDATA[Don’t admire Woodrow Wilson. Not even once.]]></summary>
-        <author>
-            <name>Dan McLaughlin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Medical Malpractice Comes Home to Roost in Detransitioner Verdict]]></title>
-        <id>https://www.nationalreview.com/?p=1917052</id>
-        <link href="https://www.nationalreview.com/2026/02/medical-malpractice-comes-home-to-roost-in-detransitioner-verdict/"/>
-        <updated>2026-02-04T11:30:54.000Z</updated>
-        <summary type="html"><![CDATA[Young people who were victimized by ideology masquerading as medicine are beginning to get justice in our courts.]]></summary>
-        <author>
-            <name>The Editors</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The University of Notre Dame’s Alarming Pro-Abortion Appointment]]></title>
-        <id>https://www.nationalreview.com/?p=1916907</id>
-        <link href="https://www.nationalreview.com/2026/02/the-university-of-notre-dames-alarming-pro-abortion-appointment/"/>
-        <updated>2026-02-04T11:30:50.000Z</updated>
-        <summary type="html"><![CDATA[Susan Ostermann’s elevation would mark the first time the school has had a leader known for publicly and habitually repudiating a core component of its Catholic mission.]]></summary>
-        <author>
-            <name>Alexandra DeSanctis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The ‘Stolen Land’ Charge Ignores Most of Human History]]></title>
-        <id>https://www.nationalreview.com/?p=1916994</id>
-        <link href="https://www.nationalreview.com/2026/02/the-stolen-land-charge-ignores-most-of-human-history/"/>
-        <updated>2026-02-04T11:30:46.000Z</updated>
-        <summary type="html"><![CDATA[If we are guilty of ‘stealing land,’ so is nearly everyone else in history, including Native Americans.]]></summary>
-        <author>
-            <name>Rich Lowry</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<i>Melania</i> Outfoxes the Haters]]></title>
-        <id>https://www.nationalreview.com/?p=1916961</id>
-        <link href="https://www.nationalreview.com/2026/02/melania-outfoxes-the-haters/"/>
-        <updated>2026-02-04T11:30:13.000Z</updated>
-        <summary type="html"><![CDATA[The FLOTUS documentary doubles as news and redemption.]]></summary>
-        <author>
-            <name>Armond White</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NASA 推迟载人绕月任务 - February 4, 2026]]></title>
-        <id>idaily-245365</id>
-        <link href="https://m.idai.ly/se/94cIzH"/>
-        <updated>2026-02-04T09:59:00.000Z</updated>
-        <summary type="html"><![CDATA[「阿尔忒弥斯2号」（Artemis II）载人绕月任务使用的太空发射系统火箭与猎户座飞船组合体竖立在发射台，肯尼迪航天中心。2月3日，NASA 宣布「阿尔忒弥斯2号」载人绕月任务使用的SLS火箭在湿装排练中发现液氢泄漏故障，任务发射日期将推迟至不早于2026年3月。执行本次任务的4名宇航员已解除隔离，预计在确定正式发射日期前两周再次进入隔离状态。摄影师：John Kraus]]></summary>
-        <author>
-            <name>美国 · 佛罗里达州</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第10届新加坡航展开幕 - February 4, 2026]]></title>
-        <id>idaily-245363</id>
-        <link href="https://m.idai.ly/se/6b3wPw"/>
-        <updated>2026-02-04T09:58:00.000Z</updated>
-        <summary type="html"><![CDATA[中国国产大型客机 C919 亮相新加坡航展。2月3日，第10届新加坡航展在樟宜展览中心开幕，本届共有来自50多个国家和地区的逾1000家企业参展，规模创历史新高，展期将持续至2月8日，预计吸引超过6万名专业人士参观。中国国产大型客机 C919 将在本次航展期间进行地面展示和演示飞行，这也是该型飞机连续第2次参加新加坡航展。摄影师：Seong Joon Cho]]></summary>
-        <author>
-            <name>新加坡</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国政府结束部分停摆 - February 4, 2026]]></title>
-        <id>idaily-245360</id>
-        <link href="https://m.idai.ly/se/948CST"/>
-        <updated>2026-02-04T09:57:00.000Z</updated>
-        <summary type="html"><![CDATA[美国总统 Donald Trump 签署联邦政府拨款法案，华盛顿白宫。2月3日，美国众议院以217:214的投票结果通过2026财年拨款法案并递交总统签署生效，结束自1月31日开始的联邦政府部分停摆。这项拨款法案总金额为1.2万亿美元，将为美国96%联邦机构及项目提供资金至9月30日，但国土安全部的资金仅能维持运营2周。美国国会两党尚未对国土安全部的拨款问题达成共识，该机构有可能从2月14日开始进入停摆状态。摄影师：Yuri Gripas]]></summary>
-        <author>
-            <name>美国 · 华盛顿特区</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[哥伦比亚总统访美 - February 4, 2026]]></title>
-        <id>idaily-245359</id>
-        <link href="https://m.idai.ly/se/cafjuz"/>
-        <updated>2026-02-04T09:55:00.000Z</updated>
-        <summary type="html"><![CDATA[美国总统 Donald Trump 与哥伦比亚总统 Gustavo Petro 举行会晤，华盛顿白宫。2月3日，哥伦比亚总统 Petro 上任后首次与美国总统 Trump 举行面对面会晤，双方就打击贩毒、安全合作和地区局势等议题进行约2小时闭门会谈。美国总统 Trump 会后称与哥伦比亚总统「相处得非常融洽」，双方正在就解除对哥方制裁问题进行磋商。哥伦比亚总统 Petro 表示本次会晤「富有成效」，呼吁两国加强合作共同打击毒品犯罪。哥伦比亚政府当天正式恢复向美国引渡毒贩的程序。摄影师：Colombian Presidency]]></summary>
-        <author>
-            <name>美国 · 华盛顿特区</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[乌拉圭总统访华 - February 4, 2026]]></title>
-        <id>idaily-245358</id>
-        <link href="https://m.idai.ly/se/f0d69X"/>
-        <updated>2026-02-04T09:53:00.000Z</updated>
-        <summary type="html"><![CDATA[中国国家主席习近平与乌拉圭总统 Yamandu Orsi 举行会晤，北京。2月1日，乌拉圭总统 Yamandu Orsi 应邀对中国进行为期7天的国事访问，成为2026年首位访华的拉美国家元首。本次乌拉圭访华代表团中包括超过80名企业界人士，为该国迄今规模最大的官方出访团。两国领导人会晤后发表《关于深化中乌全面战略伙伴关系的联合声明》，共同见证签署投资促进、贸易等领域19份合作文件。中国是乌拉圭最大的出口市场和进口来源国，2025年中乌双边贸易额为71.9亿美元，同比增长9.2%，相当于乌拉圭进出口总额的四分之一。摄影师：Jessica Lee]]></summary>
-        <author>
-            <name>中国 · 北京</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美印达成贸易协议 - February 4, 2026]]></title>
-        <id>idaily-245356</id>
-        <link href="https://m.idai.ly/se/9efgW8"/>
-        <updated>2026-02-04T09:51:00.000Z</updated>
-        <summary type="html"><![CDATA[印度商务和工业部长 Piyush Goyal 举行新闻发布会，新德里。2月3日，美国总统 Donald Trump 在社交媒体发文宣布美国与印度达成一项贸易协议，宣称印度总理 Narendra Modi 同意停止购买俄罗斯石油，并承诺从美国加购超过5000亿美元能源、技术、农业商品，从而换取美国对印度关税从25%减少至18%。印度总理 Modi 当天证实美国将下调对印度商品关税，但未对是否停购俄罗斯石油做出表态。美国是印度第三大贸易伙伴，2025财年两国双边贸易额达到创纪录的1322亿美元，同比增长10.4%。摄影师：Rajat Gupta]]></summary>
-        <author>
-            <name>印度 · 新德里</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[金价重回5000美元 - February 4, 2026]]></title>
-        <id>idaily-245355</id>
-        <link href="https://m.idai.ly/se/ba3Yr9"/>
-        <updated>2026-02-04T09:49:00.000Z</updated>
-        <summary type="html"><![CDATA[泰国曼谷一家金店员工清点现钞。2月3日，国际现货黄金价格连续2个交易日大幅下跌后强劲反弹，盘中一度上涨逾6%至每盎司4948美元，创2008年11月以来最大单日涨幅；2月4日继续小幅上涨，重返5000美元上方。本轮金价回升主要原因是投资者在历史性暴跌后趁低价买入，2026年迄今国际金价累计涨幅仍高达近15%。摩根大通本周预测2026年底黄金价格将达到每盎司6300美元，比前次预测上调900美元。摄影师：Chalinee Thirasupa]]></summary>
-        <author>
-            <name>泰国 · 曼谷</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日经指数再创新高 - February 4, 2026]]></title>
-        <id>idaily-245354</id>
-        <link href="https://m.idai.ly/se/a0e2KE"/>
-        <updated>2026-02-04T09:47:00.000Z</updated>
-        <summary type="html"><![CDATA[东京证券交易所屏幕上显示日经平均指数收盘数据，日本。2月3日，日经指数收盘上涨3.92%，报54720.66点，创历史新高。本轮日股上涨主要受日元贬值、日本大选前夕投资者信心改善、国内企业业绩良好、海外股市走高等因素影响。日本共同社最新民调显示日本执政党自民党的支持率为36.1%，比前一周上升6.9个百分点，持续扩大领先优势，有望在2月8日大选中单独获得过半数议席。摄影师：Taketo Oishi]]></summary>
-        <author>
-            <name>日本 · 东京</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[少数派 2025 年度征文：听说你对写作是真 AI？]]></title>
-        <id>https://sspai.com/post/105805</id>
-        <link href="https://sspai.com/post/105805"/>
-        <updated>2026-02-04T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[请你尽情地用 AI——或者完全不用，只要写出风格、写出水平。两种方法的高下，将由少数派读者通过投票选出。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[爱泼斯坦档案：为何如此多权贵名流愿与他来往]]></title>
-        <id>https://cn.nytimes.com/usa/20260204/epstein-files-russia-ukraine-venezuela/dual</id>
-        <link href="https://cn.nytimes.com/usa/20260204/epstein-files-russia-ukraine-venezuela/dual"/>
-        <updated>2026-02-04T07:36:02.000Z</updated>
-        <summary type="html"><![CDATA[KATRIN BENNHOLD2026年2月4日 Jon Elswick/Associated Press
-The case of Jeffrey Epstein, the wealthy sex offender with links to President Trump and a vast number of other rich and powerful figures in the U.S. and beyond, has made headlines for years. Everyone knows about it.
-多年来，杰弗里·爱泼斯坦案一直占据新闻头条，早已是家喻户晓的话题。爱泼斯坦是一名富有的性犯罪者，与特朗普总统以及美国乃至全球众多权贵人物都有联系。
-But the case presents such a sprawling scandal that it feels hard to wrap your arms around. Who was involved — and what does “involved” mean anyway? These are some of the questions I’m hearing at the school gates and at dinner parties.
-但这起案件牵扯出的丑闻枝蔓丛生，令人难以厘清全貌。到底都有哪些人牵涉其中——而所谓“牵涉”究竟又该作何解读？这是我在学校门口和饭局上时常听到人们讨论的问题。
-So I called up my colleague Matthew Goldstein, who has been covering the story since 2019, when Epstein was indicted and arrested in New York…]]></summary>
-        <author>
-            <name>纽约时报双语版</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[城市漫步指南：软件名城，泉城济南]]></title>
-        <id>https://sspai.com/post/105859</id>
-        <link href="https://sspai.com/post/105859"/>
-        <updated>2026-02-04T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[济南确实是个不错的地方，对比石家庄来说我个人认为更宜居一些，有水有山有文化有历史有底蕴，甚至还有很多城市羡慕的高新技术产业。查看全文]]></summary>
-        <author>
-            <name>PJHubs</name>
         </author>
     </entry>
 </feed>
