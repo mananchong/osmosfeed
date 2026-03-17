@@ -44,16 +44,6 @@
           "wordCount": 5749,
           "title": "R Weekly 2026-W09 Git commits, Pick a License, and How to choose the best LLM using R and vitals",
           "imageUrl": "https://rweekly.org/public/facebook.png"
-        },
-        {
-          "id": "https://rweekly.org/2026-W08.html",
-          "author": null,
-          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Batool Almarzouq, with help from the R Weekly team members and contributors.\nHighlight\nSubmissions Working Group: 2026 Plans and 2025 Success\nViewing Nested Lists with xfun::tabset()\nInsights\nPick a License, Not Any License: Why you should care about data science software licenses and how to learn more\n\nRcppSpdlog 0.0.27 on CRAN: C++20 Accommodations\nchronometre: A new package (pair) demo for R and Python\nR in the Real World\nThe world’s biggest ‘Pacific’ cities\nVisualising income inequality social tables by @ellis2013nz\nR in Organizations\nSubmissions Working Group: 2026 Plans and 2025 Success\n2026-02-13 AI Newsletter\nTutorials\nAssociated Keywords: The Missed Opportunity in S…",
-          "link": "https://rweekly.org/2026-W08.html",
-          "publishedOn": "2026-02-16T00:00:00.000Z",
-          "wordCount": 6084,
-          "title": "R Weekly 2026-W08 submissions working group, nested Lists with xfun::tabset",
-          "imageUrl": "https://rweekly.org/public/facebook.png"
         }
       ]
     },
@@ -74,6 +64,56 @@
       "feedUrl": "https://www.nationalreview.com/feed/",
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
+        {
+          "id": "https://www.nationalreview.com/?p=1930677",
+          "author": "Andrew Stuttaford",
+          "description": "The week of March 9, 2026: How net zero is making Britain less secure, housing, refrigerators, weapons, Tylenol, and much more.",
+          "link": "https://www.nationalreview.com/2026/03/net-zeros-green-and-defenseless-land/",
+          "publishedOn": "2026-03-17T17:09:45.000Z",
+          "wordCount": 24127,
+          "title": "Net Zero’s Green and Defenseless Land",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/03/net-zeo.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1930610",
+          "author": "Dan McLaughlin",
+          "description": "250 years ago today, Boston was freed from eight years of occupation — thanks largely to 25-year-old Henry Knox.",
+          "link": "https://www.nationalreview.com/2026/03/the-first-american-liberation/",
+          "publishedOn": "2026-03-17T15:05:54.000Z",
+          "wordCount": 8147,
+          "title": "The First American Liberation",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/03/evacuation-of-boston.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1930524",
+          "author": "John Mac Ghlionn",
+          "description": "Newsom’s approach to the overdose problem is more about burnishing his resume than saving lives.",
+          "link": "https://www.nationalreview.com/2026/03/gavin-newsoms-disingenuous-boast-on-california-drug-policy/",
+          "publishedOn": "2026-03-17T13:03:03.000Z",
+          "wordCount": 5870,
+          "title": "Gavin Newsom’s Disingenuous Boast on California Drug Policy",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/03/newsom-san-quentin.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1930353",
+          "author": "Caroline Downey",
+          "description": "You could feel Hollywood squirm as the Irish actress affirmed that maternal instinct is a formidable force of nature.",
+          "link": "https://www.nationalreview.com/2026/03/jessie-buckleys-beautiful-homage-to-mothers/",
+          "publishedOn": "2026-03-17T10:30:46.000Z",
+          "wordCount": 6468,
+          "title": "Jessie Buckley’s Beautiful Homage to Mothers",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/03/jessie-buckley-oscars.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1930106",
+          "author": "Bryan Cutsinger and Alexander William Salter",
+          "description": "Total demand in the economy is determined by monetary policy, not technological change.",
+          "link": "https://www.nationalreview.com/2026/03/ai-wont-cause-a-spending-collapse/",
+          "publishedOn": "2026-03-17T10:30:43.000Z",
+          "wordCount": 6944,
+          "title": "AI Won’t Cause a Spending Collapse",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/03/shoppers-target.jpg?fit=2057%2C1200&ssl=1"
+        },
         {
           "id": "https://www.nationalreview.com/?p=1930139",
           "author": "Dan McLaughlin",
@@ -2092,6 +2132,26 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/107466",
+          "author": "Matrix机器人",
+          "description": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿的新玩意呈现给大家。💬一派热议 ...查看全文",
+          "link": "https://sspai.com/post/107466",
+          "publishedOn": "2026-03-17T08:52:57.000Z",
+          "wordCount": 780,
+          "title": "社区速递 133 | 派友热议 AI Coding 方案、西圣 Pencil X 平替笔体验",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sspai.com/post/106439",
+          "author": "Nnnobel",
+          "description": "希望九寨之行是个契机，在新的一年，继续踏足荒野，去感受，去风里从头再来。查看全文",
+          "link": "https://sspai.com/post/106439",
+          "publishedOn": "2026-03-17T07:43:01.000Z",
+          "wordCount": 260,
+          "title": "年度征文 | 冬游九寨，或许这个季节更适合叙述她的美",
+          "imageUrl": null
+        },
+        {
           "id": "https://sspai.com/post/106917",
           "author": "听歌的水獭",
           "description": "不仅仅是一块盖板最好的设计往往不是正襟危坐的苦思冥想，而是对生活平凡瞬间的细致观察。在整理BeatBox盖板设计大赛的作品时，我们发现，这块方寸之间的透明面板，正成为连接数字音乐与实体触感的桥梁。它不 ...查看全文",
@@ -2998,6 +3058,132 @@
       "feedUrl": "https://plink.anyfeeder.com/idaily/today",
       "siteUrl": "https://idai.ly",
       "articles": [
+        {
+          "id": "idaily-247923",
+          "author": "中国空间站",
+          "description": "神舟二十一号航天员正在执行太空行走任务，天宫空间站。3月16日，神舟二十一号航天员张陆和武飞执行第2次出舱任务，历时约7小时，圆满完成空间碎片防护装置安装等任务。现年49岁的张陆已累计完成6次太空行走，成为目前执行舱外任务次数最多的中国航天员之一。神舟二十一号乘组自2025年11月进驻天宫以来已在轨工作超过4个月，按计划还将再执行一次太空行走任务，预计2026年上半年返回地球。摄影师：iDaily Media",
+          "link": "https://m.idai.ly/se/a06OcF",
+          "publishedOn": "2026-03-17T10:59:00.000Z",
+          "wordCount": 261,
+          "title": "神舟二十一号航天员太空行走 - March 17, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/81c93b86/31085906.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/81c93b86/31085906.jpg"
+        },
+        {
+          "id": "idaily-247921",
+          "author": "美国 · 华盛顿特区",
+          "description": "美国总统 Donald Trump 在白宫签署行政命令，华盛顿特区。3月16日，美国总统 Trump 宣布已向中方提议将原定于3月底进行的访华行程推迟约一个月，原因是必须留在国内指挥对伊朗的军事打击行动。Trump 表示期待与中国国家主席习近平举行会面，强调推迟访华行程没有任何其他「隐情」。中国外交部发言人当天表示「元首外交对中美关系发挥着不可替代的战略引领作用，中美双方就特朗普总统访华事宜保持着沟通」。摄影师：Alex Wong",
+          "link": "https://m.idai.ly/se/affnNM",
+          "publishedOn": "2026-03-17T09:58:00.000Z",
+          "wordCount": 261,
+          "title": "特朗普宣布推迟访华 - March 17, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/ecb593a0/5f7949cb.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/ecb593a0/5f7949cb.jpg"
+        },
+        {
+          "id": "idaily-247920",
+          "author": "法国 · 巴黎",
+          "description": "中国国务院副总理何立峰与美国财政部长 Scott Bessent 出席中美第6轮经贸磋商，巴黎。3月15日，中美两国经贸团队在巴黎举行新一轮经贸磋商，重点围绕关税安排、促进贸易投资、维护已有磋商共识等议题举行约6小时会谈。双方会后均表示本次会谈「富有建设性」。中国国务院副总理何立峰指出，中方对美方出台有关301调查、企业制裁、市场准入限制等涉华消极举措表示严正关切，敦促美方彻底取消单边关税等限制措施。中国海关总署数据显示2026年1至2月中美双边贸易额为866.43亿美元，同比下降-15.1%。摄影师：Ludovic Marin",
+          "link": "https://m.idai.ly/se/ada1OF",
+          "publishedOn": "2026-03-17T08:57:00.000Z",
+          "wordCount": 261,
+          "title": "中美第6轮经贸磋商 - March 17, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/b1a772b3/5394d99a.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/b1a772b3/5394d99a.jpg"
+        },
+        {
+          "id": "idaily-247919",
+          "author": "美国 · 芝加哥",
+          "description": "芝加哥河被染成绿色以庆祝「圣帕特里克节」（St. Patrick's Day），伊利诺伊州。3月14日，芝加哥市举行一年一度的圣帕特里克节庆祝活动，当地水管工工会向芝加哥河倾倒约18公斤植物染料将河水变为绿色。圣帕特里克节是爱尔兰人纪念主保圣人「圣帕特里克」的节日，按照传统人们会穿上绿色衣服和帽子，并在脸上涂三叶草图案进行庆祝。美国境内生活着约3240万爱尔兰裔人口，占总人口比例达9.5%，为仅次于德裔和英裔的第三大族裔。摄影师：Jacek Boczarski",
+          "link": "https://m.idai.ly/se/a8cUJu",
+          "publishedOn": "2026-03-17T08:55:00.000Z",
+          "wordCount": 261,
+          "title": "芝加哥庆祝圣帕特里克节 - March 17, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/6d48cd98/41d1a0a1.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/6d48cd98/41d1a0a1.jpg"
+        },
+        {
+          "id": "idaily-247917",
+          "author": "英国 · 伦敦",
+          "description": "英国国王查尔斯三世在白金汉宫接见加拿大总理 Mark Carney，伦敦。3月16日，加拿大总理 Mark Carney 抵达伦敦与英国首相 Keir Starmer 举行会晤，双方主要针对双边合作、中东局势、乌克兰问题进行沟通。双方会后发表联合声明谴责伊朗袭击中东地区民用和能源设施，要求尽快恢复霍尔木兹海峡的航行自由。英国首相声明称该国不希望卷入战争，将与欧洲国家在内的合作伙伴制定集体计划推动霍尔木兹海峡的开放。摄影师：Aaron Chown",
+          "link": "https://m.idai.ly/se/3887cb",
+          "publishedOn": "2026-03-17T08:53:00.000Z",
+          "wordCount": 261,
+          "title": "加拿大总理访问英国 - March 17, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/0a3d482b/803cdbad.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/0a3d482b/803cdbad.jpg"
+        },
+        {
+          "id": "idaily-247915",
+          "author": "阿联酋 · 迪拜",
+          "description": "阿联酋迪拜国际机场遭无人机袭击后起火。3月16日，阿联酋首都阿布扎比、迪拜国际机场以及重要石油港口富查伊拉港遭遇无人机和导弹袭击，阿联酋民航总局被迫暂时关闭部分领空。阿联酋国防部通报当天防空系统拦截了来自伊朗的6枚弹道导弹和21架无人机。美以伊战争爆发以来，伊朗已向阿联酋境内目标发射超过1900枚导弹和无人机，累计造成7人死亡。摄影师：iDaily Media",
+          "link": "https://m.idai.ly/se/9cfZ4Q",
+          "publishedOn": "2026-03-17T08:51:00.000Z",
+          "wordCount": 261,
+          "title": "迪拜机场遭无人机袭击 - March 17, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/2394ddaf/2e24befd.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/2394ddaf/2e24befd.jpg"
+        },
+        {
+          "id": "idaily-247914",
+          "author": "阿联酋 · 阿布扎比",
+          "description": "阿布扎比谢赫扎耶德大清真寺举行斋月「吉庆夜」（Laylat al-Qadr）祷告，阿联酋。3月16日，全球穆斯林迎来斋月第27夜「吉庆夜」，这是伊斯兰斋月期间最神圣的夜晚，旨在纪念真主将《古兰经》降示给伊斯兰教创始人穆罕默德。当天共有约7万名穆斯林前往谢赫扎耶德大清真寺参加夜间祷告，清真寺共准备了1500条祈祷毯和3万张祈祷垫供信徒使用。摄影师：Ryan Lim",
+          "link": "https://m.idai.ly/se/47a1bt",
+          "publishedOn": "2026-03-17T08:49:00.000Z",
+          "wordCount": 261,
+          "title": "伊斯兰斋月吉庆夜 - March 17, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/828ea5eb/7db942ec.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/828ea5eb/7db942ec.jpg"
+        },
+        {
+          "id": "idaily-247913",
+          "author": "缅甸 · 内比都",
+          "description": "缅甸联邦议会举行第三届人民院第一次会议，内比都。3月16日，缅甸联邦议会召开2021年军政府发动政变以来的首次会议，缅甸军方支持的「联邦巩固与发展党」（USDP）主席 Khin Yi 在会议上当选为人民院新任议长。缅甸联邦议会分为人民院和民族院两个部分，共设664个议席，其中四分之一的席位直接保留给军方。根据大选结果，缅甸巩发党共获得人民院231个席位、民族院108个席位，意味着军方完全掌握议会的控制权。缅甸联邦议会预计将于3月20日启动新任总统选举程序。摄影师：Sai Aung Main",
+          "link": "https://m.idai.ly/se/2afXbU",
+          "publishedOn": "2026-03-17T08:47:00.000Z",
+          "wordCount": 261,
+          "title": "缅甸议会5年来首次会议 - March 17, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/3f09b2bb/9925a4d5.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/3f09b2bb/9925a4d5.jpg"
+        },
+        {
+          "id": "idaily-247912",
+          "author": "法国 · 巴黎",
+          "description": "巴黎奥赛博物馆举办「雷诺阿与爱情」特展，一幅法国印象派画家 Pierre-Auguste Renoir 1887年油画《抱着猫的孩子》正在展出，法国。本次展览由法国奥赛博物馆、英国国家美术馆、美国波士顿美术馆三方合作策划，共汇集来自全球多个收藏机构的约50幅雷诺阿作品，聚焦雷诺阿作品中对日常生活情感的细节描绘。展期持续至7月19日。摄影师：Teresa Suarez",
+          "link": "https://m.idai.ly/se/f505tf",
+          "publishedOn": "2026-03-17T08:45:00.000Z",
+          "wordCount": 261,
+          "title": "奥赛博物馆雷诺阿特展 - March 17, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/8d6074c8/b0a62942.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/8d6074c8/b0a62942.jpg"
+        },
         {
           "id": "idaily-247853",
           "author": "中国 · 北京",
