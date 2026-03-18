@@ -65,6 +65,56 @@
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
         {
+          "id": "https://www.nationalreview.com/?p=1931409",
+          "author": "The Editors",
+          "description": "If his theories about Israel are the baseless suppositions Joe Kent took into public service, Americans should be gratified by his departure.",
+          "link": "https://www.nationalreview.com/2026/03/israel-didnt-make-us-do-it/",
+          "publishedOn": "2026-03-18T16:53:59.000Z",
+          "wordCount": 6958,
+          "title": "Israel Didn’t Make Us Do It",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/03/joe-kent-2.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1931024",
+          "author": "Desmond Lachman",
+          "description": "If ever we needed an independent Fed to navigate us through troubled waters, it has to be now.",
+          "link": "https://www.nationalreview.com/2026/03/the-fed-in-a-fog-of-uncertainty/",
+          "publishedOn": "2026-03-18T10:30:44.000Z",
+          "wordCount": 5834,
+          "title": "The Fed in a Fog of Uncertainty",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/06/Fed-Reserve.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1930930",
+          "author": "Armond White",
+          "description": "How One Battle roots for a race war.",
+          "link": "https://www.nationalreview.com/2026/03/the-oscars-postmortem-hollywoods-political-radicalism/",
+          "publishedOn": "2026-03-18T10:30:35.000Z",
+          "wordCount": 6616,
+          "title": "The Oscars Postmortem: Hollywood’s Political Radicalism",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2025/09/one-battle-after-another-4.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1930681",
+          "author": "Rob Maness",
+          "description": "Clinging to closed AI architecture makes the U.S. vulnerable to corporate whims that may not prioritize national interests.",
+          "link": "https://www.nationalreview.com/2026/03/to-counter-china-americas-military-ai-needs-an-open-source-reboot/",
+          "publishedOn": "2026-03-18T10:30:12.000Z",
+          "wordCount": 5899,
+          "title": "To Counter China, America’s Military AI Needs an Open-Source Reboot",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/03/us-flag-circuit-board.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1930631",
+          "author": "Ryan Young and Hayden Stolzenberg",
+          "description": "Idaho serves as a good model for deregulation.",
+          "link": "https://www.nationalreview.com/2026/03/sunset-for-regulations-sunrise-for-opportunity/",
+          "publishedOn": "2026-03-18T10:30:09.000Z",
+          "wordCount": 6793,
+          "title": "Sunset for Regulations, Sunrise for Opportunity",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/03/capitol-dome-sunrise.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
           "id": "https://www.nationalreview.com/?p=1930878",
           "author": "Michael Brendan Dougherty",
           "description": "The latter still provide the GOP coalition with electoral muscle.",
@@ -2133,16 +2183,6 @@
           "wordCount": 6782,
           "title": "Congress Should Close the Big Hospitals Tax Loophole",
           "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/02/cleveland-clinic.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1920474",
-          "author": "John Fund and Rainer Zitelmann",
-          "description": "Postwar Vietnam is a good model for how a nation can emerge from collectivist tyranny.",
-          "link": "https://www.nationalreview.com/2026/02/cuba-faces-a-sunset-of-its-socialist-revolution/",
-          "publishedOn": "2026-02-17T01:20:37.000Z",
-          "wordCount": 7058,
-          "title": "Cuba Faces a Sunset of Its Socialist Revolution",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/02/havana-cuba-sunset.jpg?fit=2057%2C1200&ssl=1"
         }
       ]
     },
@@ -2151,6 +2191,26 @@
       "feedUrl": "https://sspai.com/feed",
       "siteUrl": "https://sspai.com",
       "articles": [
+        {
+          "id": "https://sspai.com/post/106878",
+          "author": "Haoo_7",
+          "description": "如果你现在比较迷茫，不知道怎么学习才好，那希望这个学习方法论可以给你提供一些参考。切记：一切都要以自己的需求为主。查看全文",
+          "link": "https://sspai.com/post/106878",
+          "publishedOn": "2026-03-18T09:30:00.000Z",
+          "wordCount": 897,
+          "title": "年度征文｜效率杂谈：告别纸笔拓荒，怎么用 AI 来辅助学习？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sspai.com/post/106734",
+          "author": "Microhoo",
+          "description": "用心记录，快乐拍照。查看全文",
+          "link": "https://sspai.com/post/106734",
+          "publishedOn": "2026-03-18T07:30:45.000Z",
+          "wordCount": 378,
+          "title": "越过参数的凝视：哈苏 X2D II 100C 漫谈",
+          "imageUrl": null
+        },
         {
           "id": "https://sspai.com/post/106992",
           "author": "yzlnew",
@@ -3108,6 +3168,118 @@
       "feedUrl": "https://plink.anyfeeder.com/idaily/today",
       "siteUrl": "https://idai.ly",
       "articles": [
+        {
+          "id": "idaily-247971",
+          "author": "哈萨克斯坦 · 拜科努尔",
+          "description": "俄罗斯「联盟-2.1a」运载火箭运抵拜科努尔航天发射场，哈萨克斯坦。3月17日，「联盟-2.1a」火箭和「进步 MS-33」号货运飞船组合体进入发射前最后准备阶段，预计3月22日执行国际空间站2026年第1次货运补给任务。本次任务将向空间站运送约2.5吨货物，包括828公斤燃料、420公斤饮用水、619公斤食品、393公斤空间站维护设备、52公斤科学实验设备、50公斤氧气和12公斤医疗用品等。摄影师：Evgeny Kudashkin",
+          "link": "https://m.idai.ly/se/0c5ZxB",
+          "publishedOn": "2026-03-18T10:39:00.000Z",
+          "wordCount": 261,
+          "title": "俄货运飞船即将发射 - March 18, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/b6df5bd6/487267d2.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/b6df5bd6/487267d2.jpg"
+        },
+        {
+          "id": "idaily-247970",
+          "author": "美国 · 华盛顿特区",
+          "description": "美国白宫举行圣帕特里克节庆祝活动，爱尔兰总理 Micheal Martin 向美国总统 Donald Trump 赠送三叶草盆栽，华盛顿特区。3月17日，爱尔兰总理按惯例在圣帕特里克节期间访问白宫，两国领导人就经贸关系、中东局势等议题举行约1小时会谈。爱尔兰总理在记者会上表示「希望和平解决中东冲突」，提议在美国和爱尔兰之间建立合法的移民渠道。美国总统 Trump 再次公开抨击英国首相拒绝派遣军舰参与霍尔木兹海峡护航，并敦促爱尔兰购买美国液化天然气以解决两国「巨大的贸易逆差」。摄影师：Yuri Gripas",
+          "link": "https://m.idai.ly/se/86b1Ar",
+          "publishedOn": "2026-03-18T09:58:00.000Z",
+          "wordCount": 261,
+          "title": "爱尔兰总理访问白宫 - March 18, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/314476ce/8f546438.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/314476ce/8f546438.jpg"
+        },
+        {
+          "id": "idaily-247968",
+          "author": "日本 · 熊本县",
+          "description": "日本熊本市陆上自卫队展示新部署的「改进型12式陆基反舰导弹系统」。3月17日，日本防卫省举行关于部署国产新型远程导弹的公开说明会，首次向熊本县知事、熊本市市长和约100名当地议员和居民代表展示「改进型12式陆基反舰导弹」的发射车、弹药运输车、火控系统和指挥控制系统等装备。这是日本首次在境内部署具备「对敌基地攻击能力」的远程导弹，预计3月31日正式完成部署，射程可达1000公里以上，打击范围可达到中国上海在内的沿海地区。摄影师：Hiroshi Adachi",
+          "link": "https://m.idai.ly/se/b83TUW",
+          "publishedOn": "2026-03-18T08:57:00.000Z",
+          "wordCount": 261,
+          "title": "日本部署1000公里远程导弹 - March 18, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/e95306ce/24eb15fb.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/e95306ce/24eb15fb.jpg"
+        },
+        {
+          "id": "idaily-247965",
+          "author": "以色列",
+          "description": "以色列总理办公室公布一张以色列总理 Benjamin Netanyahu 下达对伊朗高级官员进行空袭的作战指令的照片。3月18日，伊朗政府证实最高国家安全委员会秘书 Ali Larijani 在以军空袭中遇害。Larijani 是伊朗重要的改革派政治人物以及「伊朗核协议」的主要推动者之一，被以色列视为伊朗前最高领袖哈梅内伊遇袭身亡后的「实际领导人」。伊朗伊斯兰革命卫队当天宣布发起「真实承诺4」行动第61轮军事行动，对以色列境内超过100个军事和安全目标发动打击作为报复。摄影师：Maayan Toaf",
+          "link": "https://m.idai.ly/se/2fassq",
+          "publishedOn": "2026-03-18T08:55:00.000Z",
+          "wordCount": 261,
+          "title": "伊朗最高安全官员遇害 - March 18, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/07ddb876/e385ebe7.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/07ddb876/e385ebe7.jpg"
+        },
+        {
+          "id": "idaily-247963",
+          "author": "古巴 · 哈瓦那",
+          "description": "古巴首都哈瓦那陷入停电。3月16日，古巴电力联盟通报国家电力系统发生全面断电，全国约1100万人口陷入断电状态。这是古巴近4个月以来第3次大范围停电，目前该国可用发电能力仅1140兆瓦，电力缺口达1207兆瓦。古巴国家主席 Miguel Díaz-Canel 指出，古巴已连续3个月未获得外部石油供应，目前主要依靠太阳能、天然气和煤炭提供电能。他谴责美国对古巴人民发动残酷的经济战争，誓言「任何外部侵略者都将遭遇坚决的抵抗」。摄影师：Adalberto Roque",
+          "link": "https://m.idai.ly/se/78d1LY",
+          "publishedOn": "2026-03-18T08:53:00.000Z",
+          "wordCount": 261,
+          "title": "古巴遭遇全国停电 - March 18, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/c9b851f4/fd8dd734.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/c9b851f4/fd8dd734.jpg"
+        },
+        {
+          "id": "idaily-247961",
+          "author": "韩国 · 仁川",
+          "description": "韩国仁川松岛市区被雾霾笼罩。3月17日，韩国气象局通报首尔市 PM2.5 浓度高达74微克/立方米，比正常水平高出3倍，主要污染物来自境外山火烟霾以及大气积聚污染物。韩国气候能源环境部下令采取紧急减排措施，包括实施公务车辆限行制度、缩短超过500个建筑工地的施工时间、强制热电厂等污染企业减排至少15%等。摄影师：iDaily Media",
+          "link": "https://m.idai.ly/se/f79s5S",
+          "publishedOn": "2026-03-18T08:51:00.000Z",
+          "wordCount": 261,
+          "title": "韩国首都圈空气污染 - March 18, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/f5bc8c26/8339a1a6.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/f5bc8c26/8339a1a6.jpg"
+        },
+        {
+          "id": "idaily-247960",
+          "author": "法国 · 巴黎",
+          "description": "巴黎迪士尼乐园新主题园区「冰雪奇缘世界」（World of Frozen）举行揭幕仪式，马恩拉瓦莱。巴黎迪士尼「冰雪奇缘世界」园区将于3月29日正式向公众开放，这座新游乐园区的设计灵感来自电影《冰雪奇缘》的故事背景艾伦戴尔王国，游客们能够乘船游览艾伦戴尔村庄、魔法森林、巨魔谷、冰雪宫殿等电影场景，并与安娜、艾莎、雪宝、克里斯托弗、驯鹿斯特等角色进行互动。全球目前共有6座迪士尼主题乐园，位于加州、奥兰多、巴黎、东京、香港和上海。2025财年全球迪士尼乐园门票收入达117.07亿美元，同比增长4.8%。摄影师：Fred Dugit",
+          "link": "https://m.idai.ly/se/319W6C",
+          "publishedOn": "2026-03-18T08:49:00.000Z",
+          "wordCount": 261,
+          "title": "巴黎迪士尼冰雪奇缘园区 - March 18, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/e3d2c748/c18bd29d.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/e3d2c748/c18bd29d.jpg"
+        },
+        {
+          "id": "idaily-247959",
+          "author": "德国 · 柏林",
+          "description": "德国柏林动物园，一只2个半月的苏门答腊虎幼崽正在与母亲玩耍。3月17日，柏林动物园宣布为新出生的雌性苏门答腊虎幼崽取名为「Lilly」，希望它像小说《彼得·潘》中的印第安公主 Tiger Lily 一样勇敢、聪明且独立。这只苏门答腊虎幼崽出生于1月2日，是园内15岁雌虎「Mayang」诞下的第3只幼崽。苏门答腊虎是现存体型最小、最稀有的老虎亚种之一，野外仅余约400只，被列为极度濒危物种。摄影师：Jens Kalaene",
+          "link": "https://m.idai.ly/se/6a384y",
+          "publishedOn": "2026-03-18T08:47:00.000Z",
+          "wordCount": 261,
+          "title": "柏林新生苏门答腊虎 - March 18, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/aa5bb627/d9cecad9.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/aa5bb627/d9cecad9.jpg"
+        },
         {
           "id": "idaily-247923",
           "author": "中国空间站",
@@ -7184,16 +7356,6 @@
           "wordCount": 684,
           "title": "黎智英之女获邀出席特朗普国情咨文演讲",
           "imageUrl": "https://static01.nyt.com/images/2026/02/23/multimedia/23trump-news-johnson-guest-vjpb/23trump-news-johnson-guest-vjpb-videoLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/china/20260217/xi-military-zhang-youxia-mao/dual",
-          "author": null,
-          "description": "郭莉莉2026年2月17日中国国家主席习近平去年在一个军队仪式上。过去两年间，习近平已撤换了中国最高军事机构六位将军中的五位。 Florence Lo/Reuters\nWhen Xi Jinping rang in the new year from Beijing, he called on China to remember the legacy of Yan’an, the rural stronghold where Mao Zedong transformed revolutionary guerrilla fighters into a disciplined force under his command that would go on to take the country.\n习近平在北京迎接新年的到来时，呼吁中国铭记延安精神。当年在这个农村根据地，毛泽东将革命游击队战士锻造成一支纪律严明、听他指挥的部队，最终夺取了全国政权。\nIt may have been a hint of what was to come. Yan’an was also where Mao Zedong launched his party’s first major “rectification,” a campaign of political terror that eliminated rivals and cemented his absolute authority over the party. Three weeks after Mr. Xi’s speech, China effectively purged the military’s top commander Gen. Zhang Youxia, who had once been seen as a c…",
-          "link": "https://cn.nytimes.com/china/20260217/xi-military-zhang-youxia-mao/dual",
-          "publishedOn": "2026-02-16T21:06:02.000Z",
-          "wordCount": 1466,
-          "title": "解放军高层巨震，习近平寻求“绝对忠诚”",
-          "imageUrl": "https://static01.nyt.com/images/2026/02/16/multimedia/16int-china-general-kvzh/16int-china-general-kvzh-articleLarge.jpg"
         }
       ]
     },
@@ -7690,16 +7852,6 @@
           "publishedOn": "2026-02-18T01:59:00.000Z",
           "wordCount": 264,
           "title": "“老己”的年味，涌动的希望",
-          "imageUrl": null
-        },
-        {
-          "id": "ef2f7c2ba1f418cf6451b0f2c2fea1e3",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E4%B8%8D%E7%BB%99%E4%BA%BA%E9%AA%91%E7%9A%84%E9%A9%AC%EF%BC%8C%E6%89%8D%E6%98%AF%E6%9C%80%E5%A5%BD%E7%9C%8B%E7%9A%84%E9%A9%AC",
-          "publishedOn": "2026-02-17T01:58:00.000Z",
-          "wordCount": 297,
-          "title": "不给人骑的马，才是最好看的马",
           "imageUrl": null
         }
       ]
