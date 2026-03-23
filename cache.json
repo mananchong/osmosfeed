@@ -6,6 +6,16 @@
       "siteUrl": "https://rweekly.org/atom.xml",
       "articles": [
         {
+          "id": "https://rweekly.org/2026-W13.html",
+          "author": null,
+          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Jonathan Kitt , with help from the R Weekly team members and contributors.\nHighlight\nWhat’s new in {dplyr} 1.2.0: A Tour with Isabella Velàsquez\nAtmospheric Simulation in R\nInsights\nMeet the posit::conf(2026) Keynote Speakers\nCan I use Skills with Posit Assistant for the RStudio IDE?\nDeploying boosted tree models with Orbital\n{width=”400”}\nR in the Real World\nstats19 v4.0.0: 45 Years of UK Road Crash Data, Unified\nR in Organizations\nReproducible Analytical Pipelines\nQ1 2026 Update: Community Growth, Collaboration, and Momentum Across the R Ecosystem\nTutorials\nAtmospheric Simulation in R\nWhat’s new in {dplyr} 1.2.0: A Tour with Isabella Velàsquez\n{width=”400”}\nResources\nNew P…",
+          "link": "https://rweekly.org/2026-W13.html",
+          "publishedOn": "2026-03-23T00:00:00.000Z",
+          "wordCount": 5798,
+          "title": "R Weekly 2026-W13 What's new in dplyr, Atmospheric simulation",
+          "imageUrl": "https://rweekly.org/public/facebook.png"
+        },
+        {
           "id": "https://rweekly.org/2026-W12.html",
           "author": null,
           "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Jon Calder, with help from the R Weekly team members and contributors.\nHighlight\nSharing data across shiny modules, an update\nFormula 1 Analysis in R with f1dataR: Lap Times, Pit Stops and Driver Performance\nInsights\nSharing data across shiny modules, an update\nThree Posit Platform Features Worth Knowing About\nposit::glimpse() Newsletter – March 2026\nDoes every finite string of numbers appear within π?\nBreaking Release of the patentsview R Package\nR in the Real World\nPacific island remittances by @ellis2013nz\n\nFrom Black to Glass Box: Rethinking the Actuarial Lifecycle\nFormula 1 Analysis in R with f1dataR: Lap Times, Pit Stops and Driver Performance\nR in Organizations\nIgniti…",
@@ -64,6 +74,16 @@
       "feedUrl": "https://www.nationalreview.com/feed/",
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
+        {
+          "id": "https://www.nationalreview.com/?p=1933691",
+          "author": "John Fund",
+          "description": "Unsurprisingly, the private sector gets the job done.",
+          "link": "https://www.nationalreview.com/2026/03/as-tsa-chaos-spreads-some-airports-have-solved-the-security-screening-problem/",
+          "publishedOn": "2026-03-22T21:00:21.000Z",
+          "wordCount": 6468,
+          "title": "As TSA Chaos Spreads, Some Airports Have Solved the Security-Screening Problem",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/03/tsa-line-atlanta.jpg?fit=2057%2C1200&ssl=1"
+        },
         {
           "id": "https://www.nationalreview.com/?p=1930778",
           "author": "Brian Stewart",
@@ -2123,36 +2143,6 @@
           "wordCount": 7235,
           "title": "Everything I Learned About Show Biz Came from <i>The Muppet Show</i>",
           "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/02/tony-randall-muppet-show.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1920751",
-          "author": "James Lileks",
-          "description": "Meat simulations won’t convince our tastebuds.",
-          "link": "https://www.nationalreview.com/2026/02/food-of-the-future-ill-pass/",
-          "publishedOn": "2026-02-21T11:30:48.000Z",
-          "wordCount": 6324,
-          "title": "Food of the Future? I’ll Pass",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/02/lab-grown-beef.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1920651",
-          "author": "Andrew Follett",
-          "description": "The benefits of an expedited nuclear reactor approval process are coming closer to fruition.",
-          "link": "https://www.nationalreview.com/2026/02/how-america-quietly-made-nuclear-power-great-again/",
-          "publishedOn": "2026-02-21T11:30:25.000Z",
-          "wordCount": 16712,
-          "title": "How America Quietly Made Nuclear Power Great Again",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/02/Chris-Wright-nuclear-reactor.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1922061",
-          "author": "Brian T. Allen",
-          "description": "Couture with dash and sparkle delivered in New York’s first Gainsborough show.",
-          "link": "https://www.nationalreview.com/2026/02/georgian-gorgeous-courtesy-of-gainsborough-and-the-frick/",
-          "publishedOn": "2026-02-21T11:30:10.000Z",
-          "wordCount": 8805,
-          "title": "Georgian Gorgeous, Courtesy of Gainsborough and the Frick",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/02/Thomas-Gainsborough.jpg?fit=2057%2C1055&ssl=1"
         }
       ]
     },
@@ -2161,6 +2151,36 @@
       "feedUrl": "https://sspai.com/feed",
       "siteUrl": "https://sspai.com",
       "articles": [
+        {
+          "id": "https://sspai.com/post/85735",
+          "author": "Kostya",
+          "description": "我该不该用 MacBook Neo 入门 macOS？以及其他 Mac 我应该怎么选。查看全文",
+          "link": "https://sspai.com/post/85735",
+          "publishedOn": "2026-03-23T06:38:38.000Z",
+          "wordCount": 2576,
+          "title": "Mac 选购指南 2026 春季版",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sspai.com/post/106993",
+          "author": "化学心情下2",
+          "description": "手握非国行的 Android 手机或者 Pixel 机型的小伙伴不妨试试。查看全文",
+          "link": "https://sspai.com/post/106993",
+          "publishedOn": "2026-03-23T03:30:00.000Z",
+          "wordCount": 442,
+          "title": "一日一技｜基于 Tasker 的节假日补班闹钟怎么做？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sspai.com/post/107674",
+          "author": "少数派编辑部",
+          "description": "微软承诺多项 Windows 11 改善措施\nAndroid 拟要求安装非商店应用前「冷静」一天\n知名摄影应用 Halide CEO 指控被苹果挖角的前联合创始人\n美国科技公司出现「刷 token」竞争\nMeta 的元宇宙计划走向终结\n预印本平台 arXiv 将脱离康奈尔大学独立运营\n看看就行的简讯\n少数派的近期动态\n你可能错过的好文章\n查看全文",
+          "link": "https://sspai.com/post/107674",
+          "publishedOn": "2026-03-22T22:52:13.000Z",
+          "wordCount": 592,
+          "title": "派早报：微软承诺多项 Windows 11 改善措施",
+          "imageUrl": null
+        },
         {
           "id": "https://sspai.com/post/107642",
           "author": "waychane",
@@ -6209,118 +6229,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://pic.yupoo.com/fotomag/e413a072/e9787cc5.jpg"
-        },
-        {
-          "id": "idaily-246365",
-          "author": "太阳",
-          "description": "欧空局公布一张「普罗巴2号」卫星从地球轨道上拍摄的「日环食」照片。2月17日，全球迎来2026年唯一一次「日环食」现象，此时月球运行至太阳与地球之间，三者处于同一条直线，且月球仅遮挡太阳中间的光线，形成太阳「光环」。本次日食最大阶段发生于格林威治时间2月17日中午12时12分，持续约2分20秒，地球上只有南极洲无人区能够观测到日环食，智利、阿根廷南端及非洲南部地区能够观测到日偏食。天文学家推算下一次日环食将出现在2027年2月6日，最佳观测点在南美洲和非洲地区。摄影师：ESA",
-          "link": "https://m.idai.ly/se/dc8KLx",
-          "publishedOn": "2026-02-21T07:59:00.000Z",
-          "wordCount": 244,
-          "title": "2026年唯一日环食 - February 21, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/defaa226/2e180a5b.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/defaa226/2e180a5b.jpg"
-        },
-        {
-          "id": "idaily-246364",
-          "author": "美国 · 华盛顿",
-          "description": "美国总统 Donald Trump 针对「美国最高法院裁决对等关税违宪」发表讲话，华盛顿白宫。2月20日，美国最高法院以6:3表决结果裁定美国总统无权实施对等关税在内的一系列征税政策。判决强调，美国宪法规定征税权为国会权力，《国际紧急经济权力法》（IEEPA）并未赋予总统征收关税的权力。这项裁决意味着美国现政府在全球范围内推行的「对等关税」及「芬太尼关税」措施都将被撤销，并有可能需要退还已征收的高达1750亿美元税款。美国总统 Trump 在白宫讲话中辱骂最高法院大法官为「背叛宪法的傻瓜和走狗」，宣布将援引其它法律从2月24日起对全球进口商品加征10%新关税。摄影师：Kevin Dietsch",
-          "link": "https://m.idai.ly/se/80e5ef",
-          "publishedOn": "2026-02-21T06:58:00.000Z",
-          "wordCount": 244,
-          "title": "美最高法院裁定特朗普关税违宪 - February 21, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/6ad96073/7407e27d.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/6ad96073/7407e27d.jpg"
-        },
-        {
-          "id": "idaily-246362",
-          "author": "西班牙 · 巴塞罗那",
-          "description": "西班牙圣家堂正在吊装「耶稣基督塔」顶部的十字架构件，巴塞罗那。2月20日上午11时，圣家堂完成主塔楼的最后一个构件吊装施工，建筑高度正式达到172.5米的完整设计高度。圣家堂主塔楼的外部施工目前已经全部结束，后续将继续进行内部装修，预计于高迪逝世100周年纪念日的2026年6月10日举行竣工和祝圣仪式，2028年向公众正式开放。摄影师：Enric Fontcuberta",
-          "link": "https://m.idai.ly/se/e7cdUu",
-          "publishedOn": "2026-02-21T05:57:00.000Z",
-          "wordCount": 244,
-          "title": "圣家堂主塔楼封顶 - February 21, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/6ca9adc0/e8a6173f.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/6ca9adc0/e8a6173f.jpg"
-        },
-        {
-          "id": "idaily-246361",
-          "author": "英国 · 利物浦",
-          "description": "英国报纸头版刊登前英国王室成员、英国国王的弟弟 Andrew Mountbatten-Windsor 被逮捕的报道，利物浦。2月19日，英国警方以「涉嫌渎职罪」逮捕英国国王查尔斯三世的弟弟前安德鲁王子，检方指控其在担任英国贸易特使期间涉嫌向美国性侵犯爱泼斯坦泄露商业机密。现年66岁的 Andrew 成为近400年来首位被警方逮捕的英国王室高级成员，他在接受约11个小时审讯后获释返回住所。英国王室已于2025年10月剥夺 Andrew 所有王室头衔并将其逐出王室住所。英国国王查尔斯三世当天发表声明表示将「全力支持并配合调查」，强调「法律必须公正执行」。摄影师：Adam Vaughan",
-          "link": "https://m.idai.ly/se/f94EP7",
-          "publishedOn": "2026-02-21T05:55:00.000Z",
-          "wordCount": 244,
-          "title": "英国前王子安德鲁被捕 - February 21, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/3fbd8106/e31d246c.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/3fbd8106/e31d246c.jpg"
-        },
-        {
-          "id": "idaily-246360",
-          "author": "中国 · 香港",
-          "description": "香港黄金交易所举行2026马年开市仪式，中国。2月20日，香港黄金交易所举行新春开市仪式，九九金每两开市价为46518港元，收报46685港元，单日上涨0.56%。香港特区政府财经事务及库务局副局长陈浩濂在仪式上表示，特区政府正全力推动香港成为国际黄金交易中心，目标3年内在港黄金仓储突破2000吨，使香港成为区域黄金储备枢纽。世界黄金协会（WGC）报告显示2025年全年中国投资者累计购入432吨金条金币，同比增长28%，创下历史新高。摄影师：Vernon Yuen",
-          "link": "https://m.idai.ly/se/2f80AZ",
-          "publishedOn": "2026-02-21T05:53:00.000Z",
-          "wordCount": 244,
-          "title": "香港黄金交易所新春开市 - February 21, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/e25ad939/d953b617.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/e25ad939/d953b617.jpg"
-        },
-        {
-          "id": "idaily-246359",
-          "author": "朝鲜 · 平壤",
-          "description": "朝鲜最高领导人金正恩向朝鲜劳动党第九次代表大会发表开幕致辞，平壤。2月19日，朝鲜劳动党第九次代表大会在首都平壤开幕，中央党机关干部、地方及各界代表共5000名劳动党党员出席。这是朝鲜劳动党时隔5年再次召开党代表大会，主要议程包括制定未来5年的内政、外交政策路线及国家战略目标。朝鲜最高领导人金正恩在开幕辞中指出，朝鲜过去5年克服了前所未有的挑战并取得巨大成就，强调朝鲜国家地位已实现「不可逆转的巩固」，新时期将致力于推进经济建设和提高人民生活水平的艰巨而紧迫的历史任务。摄影师：KCNA",
-          "link": "https://m.idai.ly/se/9845Nb",
-          "publishedOn": "2026-02-21T05:51:00.000Z",
-          "wordCount": 244,
-          "title": "朝鲜劳动党第9次代表大会 - February 21, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/249c0291/757520dd.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/249c0291/757520dd.jpg"
-        },
-        {
-          "id": "idaily-246358",
-          "author": "尼泊尔 · 加德满都",
-          "description": "尼泊尔佛教徒在满愿塔庆祝藏历新年「洛萨节」（Losar），加德满都。「洛萨节」是尼泊尔佛教徒的传统新年，庆祝时间为每年藏历的正月初一。佛教是尼泊尔第二大宗教，佛教徒占总人口比例约8.2%。世界银行预测2026财年尼泊尔 GDP 增速将放缓至2.1%，比2025财年下跌2.5个百分点，主要受政治不确定性和社会动荡影响，预计2027财年 GDP 增长率将回升至4.7%。摄影师：Narendra Shrestha",
-          "link": "https://m.idai.ly/se/6c3695",
-          "publishedOn": "2026-02-21T05:49:00.000Z",
-          "wordCount": 244,
-          "title": "尼泊尔庆祝藏历新年 - February 21, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/106530d7/22dd02be.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/106530d7/22dd02be.jpg"
-        },
-        {
-          "id": "idaily-246357",
-          "author": "意大利 · 利维尼奥",
-          "description": "2026米兰-科尔蒂纳冬奥会自由式滑雪男子空中技巧决赛，中国选手王心迪正在完成空中动作，意大利。2月20日，中国选手王心迪以132.60分获得自由式滑雪男子空中技巧比赛冠军，为中国队赢得本届冬奥会第4枚金牌。现年30岁的王心迪是第3次参加冬奥会，他在决赛最后一轮高质量完成翻腾三周转体五周的高难度动作，最终以132.60分的总得分跃居第一。瑞士选手 Noe Roth 以131.58分获得银牌，中国选手李天马以123.93分获得铜牌。摄影师：Alex Plavevski",
-          "link": "https://m.idai.ly/se/21csDJ",
-          "publishedOn": "2026-02-21T05:47:00.000Z",
-          "wordCount": 244,
-          "title": "米兰冬奥会中国队第4金 - February 21, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/a4e83d2f/fa930897.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/a4e83d2f/fa930897.jpg"
         }
       ]
     },
@@ -6329,6 +6237,66 @@
       "feedUrl": "https://plink.anyfeeder.com/nytimes/dual",
       "siteUrl": "http://nytimes.com",
       "articles": [
+        {
+          "id": "https://cn.nytimes.com/usa/20260323/san-francisco-pedestrian-deaths-toddler/dual",
+          "author": null,
+          "description": "HEATHER KNIGHT2026年3月23日玛丽·方·刘撞死一家四口的公交车站。车站在车祸中被毁后重建。 Ian C. Bates for The New York Times\nIt was a sunny Saturday in the West Portal neighborhood of San Francisco. The public library was bustling, and so were the cafes and ice cream shops.\n那是一个阳光明媚的周六，旧金山西门社区。公共图书馆里人来人往，附近的咖啡馆和冰淇淋店也同样热闹。\nJust outside the library, a mother, a father and their two little boys waited for a bus ride to the San Francisco Zoo. A perfect way, the couple figured, to celebrate their fourth wedding anniversary.\n就在图书馆外，一对夫妇带着两个小男孩在等公交车去旧金山动物园。他们觉得这是庆祝结婚四周年纪念日的最完美方式。\nThen, at 12:12 p.m. on March 16, 2024, a boom shook the neighborhood, and the horror that followed still reverberates in San Francisco today.\n然后，2024年3月16日中午12:12，一声巨响震撼了整个社区，随之而来的恐怖至今仍在旧金山回荡。\nA white Mercedes S.U.V. had traveled at highway speeds before…",
+          "link": "https://cn.nytimes.com/usa/20260323/san-francisco-pedestrian-deaths-toddler/dual",
+          "publishedOn": "2026-03-23T06:06:02.000Z",
+          "wordCount": 1561,
+          "title": "高龄华裔女性超速撞死一家四口，缓刑判罚引争议",
+          "imageUrl": "https://static01.nyt.com/images/2026/03/19/multimedia/19nat-sf-crash-jvzp/19nat-sf-crash-jvzp-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/usa/20260323/trump-iran-offramp/dual",
+          "author": null,
+          "description": "DAVID E. SANGER2026年3月23日特朗普总统这场伊朗\"远足\"的后果可能比他对这趟\"远足\"的兴趣持续更久。 Al Drago for The New York Times\nEver since President Trump began what he now delicately calls his “excursion” into Iran, Washington has been consumed by the question of when he would call it a day — even if many of his war goals remain unaccomplished.\n自从特朗普总统开始了他现在委婉地称为对伊朗的“远足”以来，华盛顿一直纠结于他何时会收手的问题——尽管他的许多战争目标仍未实现。\nOn Friday evening, as he headed to Florida, Mr. Trump seemed to be designing that much-discussed exit. But he clearly has not yet decided whether to take it.\n周五晚上，在前往佛罗里达州途中，特朗普似乎正在设计那个被广泛讨论的退出方案。但他显然尚未决定是否要这么做。\nAnd there is mounting evidence — average gas price approaching $4 a gallon, infrastructure in ruins across the Persian Gulf, a decimated Iranian theocracy digging in and American allies at first rebuffing and no…",
+          "link": "https://cn.nytimes.com/usa/20260323/trump-iran-offramp/dual",
+          "publishedOn": "2026-03-23T04:37:02.000Z",
+          "wordCount": 1489,
+          "title": "特朗普考虑伊朗战争退出方案，究竟何时收手？",
+          "imageUrl": "https://static01.nyt.com/images/2026/03/21/multimedia/21dc-assess-top-qtkg/21dc-assess-top-qtkg-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/opinion/20260323/washington-china-officials-visit/dual",
+          "author": null,
+          "description": "JING QIAN, NEIL THOMAS2026年3月23日 Andy Wong/Associated Press\nPresident Trump has postponed his visit to China by several weeks, blaming the U.S.-Israel war with Iran. The trip, which could help stabilize the U.S. relationship with Beijing and revive wider exchanges, should not be allowed to slide indefinitely.\n特朗普总统已将其访华行程推迟数周，理由是美国与以色列对伊朗的战争。此次访问本有助于稳定美中关系、重启两国更广泛的交流，它不应无限期拖延下去。\nWashington needs to restore regular travel by American policymakers to China, which dropped sharply in recent years, just as the economic and geopolitical competition between the two countries has intensified.\n华盛顿需要恢复美国政策制定者对华的常态化出访——近年来这类出访大幅减少，而美中之间的经济与地缘政治竞争却在加剧。\nNo American president has set foot in China since Mr. Trump did in 2017, during his first term. That absence highlights a simple but troubling truth: A…",
+          "link": "https://cn.nytimes.com/opinion/20260323/washington-china-officials-visit/dual",
+          "publishedOn": "2026-03-23T04:06:02.000Z",
+          "wordCount": 1190,
+          "title": "美国官员应该多去中国看看",
+          "imageUrl": "https://static01.nyt.com/images/2026/03/23/multimedia/22qianthomas-hbpc/22qianthomas-hbpc-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/asia-pacific/20260323/k-pop-china-japan-south-korea/dual",
+          "author": null,
+          "description": "JOHN YOON2026年3月23日 \nWhile BTS does not have any shows planned in mainland China, fans in the country will likely contribute significantly to the supergroup’s album and ticket sales as it returns from hiatus. Fan clubs based in China are marking the comeback by spending tens of thousands of dollars on celebratory billboards in Seoul.\n虽然防弹少年团(BTS)目前没有在中国大陆举办任何演出的计划，但中国粉丝很可能在该超级组合结束暂歇期回归时，为他们的专辑销量和门票销售做出重大贡献。中国当地的粉丝俱乐部正在通过在首尔投放价值数万美元的庆祝广告牌，来庆祝他们的回归。\nBut the Chinese market for K-pop, while enormous and lucrative, can also be capricious.\n但虽然K-pop在中国市场规模庞大且利润丰厚，却也可能相当反复无常。\nCase in point: Japanese stars in South Korean pop groups have been absent from some recent concerts and events in China, a pattern that experts say is linked to a diplomatic spat between Beijing and Tokyo.\n举例来说：韩国流行团体中的日本艺人最近…",
+          "link": "https://cn.nytimes.com/asia-pacific/20260323/k-pop-china-japan-south-korea/dual",
+          "publishedOn": "2026-03-23T02:37:02.000Z",
+          "wordCount": 1222,
+          "title": "中日关系紧张波及娱乐业：K-pop被卷入地缘政治雷区",
+          "imageUrl": "https://static01.nyt.com/images/2026/03/22/multimedia/cn-kpop-span/cn-kpop-span-articleLarge.png"
+        },
+        {
+          "id": "https://cn.nytimes.com/china/20260323/laid-off-in-midlife-chinas-reform-generation-braces-for-downward-mobility/dual",
+          "author": null,
+          "description": "袁莉2026年3月23日 Lisk Feng\nHarry Guo built a life that defined success in China. Born in 1971, he came of age in the 1990s, when China deepened its economic reforms. He taught himself computing and found his way into jobs in multinational firms and then Chinese internet giants. By his mid-40s, he was comfortably middle class. He and his wife paid off two mortgages early and sent their daughter to high school and college in Canada.\n哈里·郭（音）打造了堪称中国式成功范本的人生。他生于1971年，在90年代中国深化经济改革的浪潮中步入成年。他自学计算机技术，先后入职多家跨国企业，之后又进入中国互联网巨头公司。40多岁时，他已跻身中产阶级，生活安稳，和妻子提前还清了两套房产的房贷，把女儿送到加拿大读高中和大学。\nThen Mr. Guo was laid off. Now 55, he has not had a job in more than two years. It’s not for lack of trying. The supermarket near his Beijing apartment won’t hire cashiers over 50. The warehouse where he inquired about work turn…",
+          "link": "https://cn.nytimes.com/china/20260323/laid-off-in-midlife-chinas-reform-generation-braces-for-downward-mobility/dual",
+          "publishedOn": "2026-03-23T02:37:02.000Z",
+          "wordCount": 1310,
+          "title": "中年失业、向下流动：中国“改革一代”的职场困境",
+          "imageUrl": "https://static01.nyt.com/images/2026/03/13/business/00newworld-sub/00newworld-articleLarge.png"
+        },
+        {
+          "id": "https://cn.nytimes.com/business/20260323/oil-jetfuel-asia/dual",
+          "author": null,
+          "description": "艾莎, AARON KROLIK, TUNG NGO, VICTORIA KIM2026年3月23日新西兰惠灵顿国际机场。新西兰航空公司已取消了约1100架次航班，影响将持续至5月初。 Marty Melville/Agence France-Presse — Getty Images\nThree weeks into a war in the Middle East that is roiling energy markets, Asia is confronting one of the first major consequences of an oil shortage, as jet fuel prices surge to record levels and governments scramble to keep flights running.\n中东爆发战争三周后，能源市场剧烈动荡，亚洲正面临石油短缺引发的第一批重大后果：航空煤油价格飙升至历史最高水平，各国政府奋力维持航班正常运行。\nAirlines have canceled thousands of flights, stranding tens of thousands of passengers. Major regional energy suppliers, including China, South Korea and Thailand, are restricting exports, while import-dependent countries like Vietnam are forced to ration and call on others for help.\n航空公司已取消数千架次航班，数以万计的乘客滞留。包括中国、韩国和泰国在内的主要区域能源供应国开始限制出口，而越南这样…",
+          "link": "https://cn.nytimes.com/business/20260323/oil-jetfuel-asia/dual",
+          "publishedOn": "2026-03-22T23:36:02.000Z",
+          "wordCount": 1357,
+          "title": "油价飙升、航班取消：航空燃油危机席卷亚洲",
+          "imageUrl": "https://static01.nyt.com/images/2026/03/20/multimedia/20biz-iran-asia-jetfuel-01-bmhl/20biz-iran-asia-jetfuel-01-bmhl-articleLarge.jpg"
+        },
         {
           "id": "https://cn.nytimes.com/opinion/20260320/trump-iran-war/dual",
           "author": null,
