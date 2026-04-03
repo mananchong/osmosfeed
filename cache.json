@@ -65,6 +65,66 @@
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
         {
+          "id": "https://www.nationalreview.com/?p=1940436",
+          "author": "Matthew X. Wilson",
+          "description": "Building coalitions around older voters shows a lack of understanding of growing generational tensions in politics.",
+          "link": "https://www.nationalreview.com/2026/04/europes-right-wing-parties-cant-afford-to-neglect-young-people/",
+          "publishedOn": "2026-04-03T15:19:13.000Z",
+          "wordCount": 6205,
+          "title": "Europe’s Right-Wing Parties Can’t Afford to Neglect Young People",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/04/france-protests.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1940257",
+          "author": "The Editors",
+          "description": "President Trump, much as he might wish otherwise, is not Congress.",
+          "link": "https://www.nationalreview.com/2026/04/trump-has-no-authority-to-federalize-elections/",
+          "publishedOn": "2026-04-03T10:30:53.000Z",
+          "wordCount": 6045,
+          "title": "Trump Has No Authority to Federalize Elections",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/04/trump-oval-office.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1940201",
+          "author": "NR Editors",
+          "description": "Plus: America returns to outer space.",
+          "link": "https://www.nationalreview.com/2026/04/the-week-theres-no-end-in-sight-for-the-iran-war/",
+          "publishedOn": "2026-04-03T10:30:42.000Z",
+          "wordCount": 21248,
+          "title": "The Week: There’s No End in Sight for the Iran War",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/03/epic-fury-032426-8.jpg?resize=300%2C300&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1940058",
+          "author": "Armond White",
+          "description": "François Ozon reinterprets the Camus classic.",
+          "link": "https://www.nationalreview.com/2026/04/the-stranger-updates-existential-crisis/",
+          "publishedOn": "2026-04-03T10:30:23.000Z",
+          "wordCount": 5640,
+          "title": "<i>The Stranger</i> Updates ‘Existential Crisis’",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/04/the-stranger.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1940096",
+          "author": "Elaine Dezenski and Josh Birenbaum",
+          "description": "The scandal thrust financial secrecy into the spotlight. Why is dirty money still such a big problem?",
+          "link": "https://www.nationalreview.com/2026/04/the-broken-promise-of-the-panama-papers-ten-years-on/",
+          "publishedOn": "2026-04-03T10:30:12.000Z",
+          "wordCount": 7510,
+          "title": "The Broken Promise of the Panama Papers, Ten Years On",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/04/mossack-fonseca-2.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1939872",
+          "author": "Daniel J. Flynn",
+          "description": "Chambers is perhaps the most misunderstood figure of the postwar American conservative movement.",
+          "link": "https://www.nationalreview.com/2026/04/whittaker-chambers-turns-125/",
+          "publishedOn": "2026-04-03T10:30:07.000Z",
+          "wordCount": 6568,
+          "title": "Whittaker Chambers Turns 125",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/04/whittaker-chambers-wikimedia.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
           "id": "https://www.nationalreview.com/?p=1940166",
           "author": "John Fund",
           "description": "The little-known U.S. weakness is that it’s running out of high-tech munitions.",
@@ -1933,26 +1993,6 @@
           "wordCount": 7120,
           "title": "You Can’t Escape the AI Grid",
           "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/03/doorbell-camera.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1925939",
-          "author": "The Editors",
-          "description": "Democratic voters showed discipline in rejecting their own flashy bomb thrower in favor of a plausible statewide candidate. Will Republicans do the same?",
-          "link": "https://www.nationalreview.com/2026/03/the-gop-can-still-avoid-shooting-itself-in-the-foot-in-texas/",
-          "publishedOn": "2026-03-04T23:27:31.000Z",
-          "wordCount": 6925,
-          "title": "The GOP Can Still Avoid Shooting Itself in the Foot in Texas",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/03/KenPaxton-JohnCornyn.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1925889",
-          "author": "Michael Brendan Dougherty",
-          "description": "Can air power change a regime’s character and orientation?",
-          "link": "https://www.nationalreview.com/2026/03/the-wishful-thinking-of-surgical-strikes/",
-          "publishedOn": "2026-03-04T20:46:06.000Z",
-          "wordCount": 7070,
-          "title": "The Wishful Thinking of Surgical Strikes",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/03/operation-epic-fury-030326-9B.jpg?fit=2057%2C1200&ssl=1"
         }
       ]
     },
@@ -1961,6 +2001,16 @@
       "feedUrl": "https://sspai.com/feed",
       "siteUrl": "https://sspai.com",
       "articles": [
+        {
+          "id": "https://sspai.com/post/108231",
+          "author": "少数派编辑部",
+          "description": "📅本周新预告《超级少女》正式预告4月1日，DC新片《超级少女》发布了正式预告，将于6月26日在北美上映。克雷格·吉勒斯佩执导，米莉·阿尔柯克饰演超女，杰森·莫玛饰演暴狼罗伯，伊芙·雷德利、马提亚斯·修 ...查看全文",
+          "link": "https://sspai.com/post/108231",
+          "publishedOn": "2026-04-03T10:09:50.000Z",
+          "wordCount": 607,
+          "title": "本周看什么 | 最近值得一看的 9 部作品",
+          "imageUrl": null
+        },
         {
           "id": "https://sspai.com/post/107928",
           "author": "SUNTRISE",
@@ -3120,26 +3170,6 @@
           "wordCount": 593,
           "title": "开赛在即，疾速入坑：F1 2026 观赛指南",
           "imageUrl": null
-        },
-        {
-          "id": "https://sspai.com/post/106443",
-          "author": "LOSSES",
-          "description": "出发点只是嫌一台 MP3 的 UI 太丑——在一个完全不是我专业领域的方向上，借助两个模型和一份手册，把一颗嵌入式芯片的字符渲染管线从头到尾摸了个七七八八。查看全文",
-          "link": "https://sspai.com/post/106443",
-          "publishedOn": "2026-03-05T03:01:58.000Z",
-          "wordCount": 571,
-          "title": "靠大模型「吵架」完成固件逆向，我有哪些心得体会？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sspai.com/post/106844",
-          "author": "少数派编辑部",
-          "description": "OpenAI 确认即将推出新版模型、Claude Code 上线语音模式等。查看全文",
-          "link": "https://sspai.com/post/106844",
-          "publishedOn": "2026-03-05T00:37:55.000Z",
-          "wordCount": 499,
-          "title": "派早报：Apple 推出 MacBook Neo、Setapp 调整商业模式等",
-          "imageUrl": null
         }
       ]
     },
@@ -3148,6 +3178,104 @@
       "feedUrl": "https://plink.anyfeeder.com/idaily/today",
       "siteUrl": "https://idai.ly",
       "articles": [
+        {
+          "id": "idaily-248947",
+          "author": "地球",
+          "description": "NASA 发布一张「阿尔忒弥斯2号」任务宇航员从绕近地轨道拍摄地球的照片。4月2日晚19时49分，猎户座飞船成功实施第一次关键推进器点火，主发动机点火持续5分50秒后成功进入地月转移轨道，预计4天后抵达月球轨道并首次飞掠月球表面。NASA 指出本次任务宇航员将在飞掠月表期间观测到持续近1个小时的日食，届时有可能看到流星体撞击月球产生的闪光以及更深空的行星目标。摄影师：NASA",
+          "link": "https://m.idai.ly/se/1fbVvt",
+          "publishedOn": "2026-04-03T10:59:00.000Z",
+          "wordCount": 262,
+          "title": "猎户座飞船进入地月转移轨道 - April 3, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/a6ce3d34/c0bdb1a4.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/a6ce3d34/c0bdb1a4.jpg"
+        },
+        {
+          "id": "idaily-248946",
+          "author": "日本 · 东京",
+          "description": "东京铁塔点亮蓝色灯光庆祝「世界提高自闭症意识日」（World Autism Awareness Day）。4月2日是联合国第19个「世界提高自闭症意识日」，本年度主题为「自闭症与人性关怀：每一个生命都有价值」，呼吁人们尊重自闭症人士的身份、平等权利及生命价值，推动社会各领域制定包容性政策。世界卫生组织指出，全球每127人中就有1人患有自闭症，自闭症群体仍然面临污名化、歧视、社交阻碍以及有限医疗保健和支持服务等困境，早期识别、包容性教育以及社会关爱能够显著改善自闭症人士的健康与社会参与度。摄影师：iDaily Media",
+          "link": "https://m.idai.ly/se/d9f22Y",
+          "publishedOn": "2026-04-03T09:58:00.000Z",
+          "wordCount": 262,
+          "title": "世界提高自闭症意识日 - April 3, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/846d1eeb/41bd8278.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/846d1eeb/41bd8278.jpg"
+        },
+        {
+          "id": "idaily-248945",
+          "author": "韩国 · 首尔",
+          "description": "韩国总统李在明在国会针对补充预算案进行发言，首尔。4月2日，韩国总统李在明强调国家已进入「战时民生经济状态」，有必要调动一切可用资源应对中东局势导致的能源短缺危机，敦促国会尽快批准总额达26.2万亿韩元（约合172亿美元）的补充预算案。李在明指出本轮补充预算案无需额外发行国债，而是从股市和半导体行业的超额税收中拨款筹措。韩国贸易协会数据显示该国70%石油和20%液化天然气来自中东地区。摄影师：Jeon Heon-Kyun",
+          "link": "https://m.idai.ly/se/5f211S",
+          "publishedOn": "2026-04-03T08:57:00.000Z",
+          "wordCount": 262,
+          "title": "李在明警告经济「战时状态」 - April 3, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/89d7bbbd/091dbf33.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/89d7bbbd/091dbf33.jpg"
+        },
+        {
+          "id": "idaily-248944",
+          "author": "俄罗斯 · 莫斯科",
+          "description": "俄罗斯总统 Vladimir Putin 接见埃及外交部长 Badr Abdelatty，莫斯科。4月2日，俄总统 Putin 与埃及外长 Abdelatty 就双边关系、粮食供应、中东冲突等议题举行会谈。Putin 表示已指示相关部门解决对埃及的粮食供应问题，双方正在探讨在埃及建立一个粮食和能源中心。Putin 赞扬埃及在缓和紧张局势、维护中东安全稳定方面发挥的建设性作用，强调俄方希望中东冲突尽快结束，愿尽一切努力帮助稳定局势。埃及外长感谢俄罗斯对中东地区能源和粮食安全的支持，并确认埃方将参加10月举行的俄罗斯-非洲峰会。摄影师：Vyacheslav Prokofyev",
+          "link": "https://m.idai.ly/se/843H4m",
+          "publishedOn": "2026-04-03T08:55:00.000Z",
+          "wordCount": 262,
+          "title": "埃及外长访问俄罗斯 - April 3, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/e6a69fbe/d0652157.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/e6a69fbe/d0652157.jpg"
+        },
+        {
+          "id": "idaily-248943",
+          "author": "荷兰 · 阿森",
+          "description": "荷兰德伦特博物馆向媒体展示失窃追回的罗马尼亚金头盔和金手镯，阿森。4月2日，荷兰政府检方宣布成功追回德伦特博物馆失窃的多件重要展品，包括一件公元前5世纪的罗马尼亚科托费内什蒂黄金头盔以及2只黄金手镯，追回的黄金头盔表面轻微凹陷，手镯完好无损。这批文物由罗马尼亚国家历史博物馆于2025年1月借展至荷兰德伦特博物馆，展出期间遭到盗窃，目前仍有1只金手镯下落不明。摄影师：Sem van der Wal",
+          "link": "https://m.idai.ly/se/cb623B",
+          "publishedOn": "2026-04-03T08:53:00.000Z",
+          "wordCount": 262,
+          "title": "荷兰寻回失窃金制文物 - April 3, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/cabfd209/b9c6c95f.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/cabfd209/b9c6c95f.jpg"
+        },
+        {
+          "id": "idaily-248941",
+          "author": "韩国 · 龙仁",
+          "description": "韩国龙仁市爱宝乐园，旅韩大熊猫双胞胎「睿宝」和「辉宝」迎来出生1000天。4月2日，韩国爱宝乐园为旅韩大熊猫双胞胎「睿宝」和「辉宝」准备了特制竹筒紫菜包饭以及木制摩托车玩具庆祝出生1000天。这两只大熊猫出生于2023年7月7日，是韩国境内诞生的第一对双胞胎大熊猫，父母分别为旅韩大熊猫「乐宝」和「爱宝」，目前体重均已超过80公斤，预计将于2027年满4岁时返回中国。摄影师：iDaily Media",
+          "link": "https://m.idai.ly/se/ba8P6A",
+          "publishedOn": "2026-04-03T08:51:00.000Z",
+          "wordCount": 262,
+          "title": "旅韩大熊猫双胞胎出生1000天 - April 3, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/6a43a792/51aaa74e.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/6a43a792/51aaa74e.jpg"
+        },
+        {
+          "id": "idaily-248940",
+          "author": "德国 · 珀尔岛",
+          "description": "从空中俯拍一只在德国波罗的海沿岸再次搁浅的座头鲸。4月1日，德国政府环境部门宣布放弃对这只搁浅座头鲸的救援行动，主要原因是这只鲸鱼的身体状况已十分虚弱，推断获救几率极低，进一步营救行为将加重其死亡前的痛苦。这只年轻的雄性座头鲸最初于3月23日被发现搁浅，经过多日营救后曾短暂脱困，但是随后再次搁浅。当地政府已在这只鲸鱼周围设置500米隔离区，待其自然死亡后将由德国海洋博物馆进行解剖检查以调查搁浅原因。摄影师：Greenpeace",
+          "link": "https://m.idai.ly/se/b74upq",
+          "publishedOn": "2026-04-03T08:49:00.000Z",
+          "wordCount": 262,
+          "title": "德国放弃救援搁浅座头鲸 - April 3, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/b1d34327/8ce2ca5a.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/b1d34327/8ce2ca5a.jpg"
+        },
         {
           "id": "idaily-248886",
           "author": "美国 · 佛罗里达州",
@@ -7538,56 +7666,6 @@
           "wordCount": 1701,
           "title": "中东战乱、市场动荡，普通人该如何投资？",
           "imageUrl": "https://static01.nyt.com/images/2026/03/08/multimedia/05biz-strategies-iran-hbzw/05biz-strategies-iran-hbzw-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/world/20260305/uk-spying-china-arrests/dual",
-          "author": null,
-          "description": "STEPHEN CASTLE, MICHAEL D. SHEAR2026年3月5日伦敦中国大使馆大楼，摄于11月。近期，中国间谍活动在英国成为敏感话题。 Justin Tallis/Agence France-Presse — Getty Images\nThe husband of a British lawmaker was one of three men arrested on Wednesday by the British police on suspicion of spying for China, deepening concerns about the possible extent of Chinese espionage in Western nations.\n三名涉嫌为中国从事间谍活动的男子于周三被英国警方逮捕，其中包括一名英国议员的丈夫，这加剧了外界对中国在西方国家间谍活动可能范围的担忧。\nA statement from the Metropolitan Police in London said that three men had been taken into custody on suspicion of “assisting a foreign intelligence service, contrary to Section 3 of the National Security Act.” The release confirmed that the country in question was China.\n伦敦警察厅发表声明称，三男子因涉嫌“协助外国情报机构，违反《国家安全法》第三条”而被拘留。声明证实所涉国家为中国。\nThe statement did not name the men, in keeping with Bri…",
-          "link": "https://cn.nytimes.com/world/20260305/uk-spying-china-arrests/dual",
-          "publishedOn": "2026-03-05T04:36:02.000Z",
-          "wordCount": 1112,
-          "title": "英国议员丈夫涉嫌为中国从事间谍活动被捕",
-          "imageUrl": "https://static01.nyt.com/images/2026/03/04/multimedia/04int-uk-china-spies-mjlb/04int-uk-china-spies-mjlb-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/opinion/20260305/trump-iran-liberation/dual",
-          "author": null,
-          "description": "PETER W. KLEIN2026年3月5日\n“Take over your government,” President Trump urged Iranians as bombs began raining down this past weekend. “It will be yours to take. This will be, probably, your only chance for generations.” It was a stirring call, drawing on the dream of democracy and the promise of liberation. The United States has issued it to other nations many times in the past, and it tends to end in disaster.\n “接管你们的政府，”上周末炮火如雨点般落下时，特朗普总统向伊朗人民发出了号召。“它将由你们主宰。这可能是你们几代人中唯一的机会。”这是一个激动人心的号召，利用了民主的梦想和解放的承诺。美国在过去曾多次向其他国家发出这种号召，而结果往往以灾难告终。\nDuring the Cold War, Radio Free Europe broadcasts encouraged the people of Hungary — my parents among them — to rise up, offering guidance on tactics and strategies and leading many listeners to believe they would receive U.S. military assistance. On Oct. 23, 195…",
-          "link": "https://cn.nytimes.com/opinion/20260305/trump-iran-liberation/dual",
-          "publishedOn": "2026-03-05T03:36:03.000Z",
-          "wordCount": 1169,
-          "title": "伊朗人该把性命押在美国的承诺上吗？",
-          "imageUrl": "https://static01.nyt.com/images/2026/03/03/opinion/03klein-Naila/03klein-Naila-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/world/20260305/trump-iran-intelligence-leaders/dual",
-          "author": null,
-          "description": "MICHAEL CROWLEY, JULIAN E. BARNES, RONEN BERGMAN2026年3月5日周二空袭后，德黑兰上空升起黑烟。 Arash Khamooshi for The New York Times\nIn public, Iran’s surviving leaders have defiantly refused to negotiate with President Trump to end the American and Israeli assault on their country. But a day after the attacks began, operatives from Iran’s Ministry of Intelligence reached out indirectly to the C.I.A. with an offer to discuss terms for ending the conflict, according to officials briefed on the outreach.\n在公开场合，伊朗幸存的领导人仍强硬拒绝与特朗普总统谈判，以结束美国和以色列对其国家的攻击。但据知情官员透露，袭击开始一天后，伊朗情报部的特工通过间接渠道联系了美国中央情报局，表示愿意商讨结束冲突的条件。\nU.S. officials are skeptical — at least in the short term — that either the Trump administration or Iran is really ready for an offramp, the officials briefed on the outreach said.\n知情官员称，美国官员怀疑，至少短期内，无论是特朗普政府还是…",
-          "link": "https://cn.nytimes.com/world/20260305/trump-iran-intelligence-leaders/dual",
-          "publishedOn": "2026-03-05T03:06:02.000Z",
-          "wordCount": 1413,
-          "title": "伊朗特工曾在袭击开始后与美国秘密接触",
-          "imageUrl": "https://static01.nyt.com/images/2026/03/03/multimedia/03dc-iran-next-01-bjqp/03dc-iran-next-01-bjqp-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/business/20260305/china-gdp-target-2025/dual",
-          "author": null,
-          "description": "AARON KROLIK2026年3月5日中国国家主席习近平周三出席中国人民政治协商会议全国委员会第十四届委员会第一次会议开幕式。 Florence Lo/Reuters\nEvery March, China’s leaders gather in Beijing’s Great Hall of the People to announce how much the world’s second-largest economy is expected to grow that year.\n每年3月，中国领导人都会齐聚北京的人民大会堂，宣布全球第二大经济体当年的预期增长目标。\nIt doesn’t change much from year to year.\n这一目标每年变化不大。\nOn Thursday, the target for 2026 was set at between 4.5 percent and 5 percent. It was the first time in more than three decades that the benchmark was placed below the 5 percent mark, an acknowledgment that China is on a slower growth path.\n周四，2026年的增长目标被设定在4.5%至5%之间。这是30多年来该基准首次低于5%的门槛，表明中国已进入增速放缓轨道。\nThe announcement came at the start of the National People’s Congress, the meeting of China’s Communist Party controlled legislature, when leaders unveil…",
-          "link": "https://cn.nytimes.com/business/20260305/china-gdp-target-2025/dual",
-          "publishedOn": "2026-03-05T02:36:01.000Z",
-          "wordCount": 1014,
-          "title": "30余年来首次，中国年度经济增长目标低于5%",
-          "imageUrl": "https://static01.nyt.com/images/2026/03/05/multimedia/05biz-china-econ-01-ztvm/05biz-china-econ-01-ztvm-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/china/20260305/china-ai-enthusiasm/dual",
-          "author": null,
-          "description": "王月眉2026年3月5日去年在上海举行的世界人工智能大会上展示的服务机器人。 Qilai Shen for The New York Times\nWhen the A.I. video generation tool Seedance 2.0 debuted recently, with the ability to create impressively realistic clips of just about anything a user could imagine, it prompted two drastically different reactions on opposite sides of the world.\n最近发布的人工智能视频生成工具Seedance 2.0能够根据用户的想象创造出令人惊艳的逼真视频片段，它在地球两端引发了两种截然不同的反应。\nIn the United States, many in the movie industry responded with fear. After a Seedance-generated video purporting to show a fight scene between Brad Pitt and Tom Cruise spread widely online, Hollywood filmmakers and writers said their jobs were fast becoming obsolete.\n在美国，电影行业的许多人对此感到恐惧。一段据称是布拉德·皮特和汤姆·克鲁斯打斗场面的Seedance生成视频在网上广泛传播后，好莱坞的电影制作人和编剧们表示，他们的工作正迅速变得过时。\nBut in China, many reacted with pride and exci…",
-          "link": "https://cn.nytimes.com/china/20260305/china-ai-enthusiasm/dual",
-          "publishedOn": "2026-03-05T00:06:01.000Z",
-          "wordCount": 1427,
-          "title": "中国的人工智能末日论者在哪？",
-          "imageUrl": "https://static01.nyt.com/images/2026/03/02/multimedia/02int-china-ai-enthusiasm-01-tqhj/02int-china-ai-enthusiasm-01-tqhj-articleLarge.jpg"
         }
       ]
     },
@@ -7596,6 +7674,36 @@
       "feedUrl": "https://plink.anyfeeder.com/weixin/ibookreview",
       "siteUrl": "http://weixin.sogou.com/weixin?type=1&s_from=input&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A",
       "articles": [
+        {
+          "id": "2742aad60c08385b7abad18d3fe00e9e",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E5%9B%A0%E4%B9%A6%E8%AF%84%E4%BA%BA%E4%BD%BF%E7%94%A8%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%92%B0%E6%96%87%EF%BC%8C%E3%80%8A%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%E3%80%8B%E6%AD%A3%E5%BC%8F%E5%AE%A3%E5%B8%83%E4%B8%8E%E5%85%B6%E8%A7%A3%E7%BA%A6",
+          "publishedOn": "2026-04-03T02:46:00.000Z",
+          "wordCount": 310,
+          "title": "因书评人使用人工智能撰文，《纽约时报》正式宣布与其解约",
+          "imageUrl": null
+        },
+        {
+          "id": "a06dc35a5081697d76d276d1122a44d3",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E5%88%9D%E6%98%A5%E6%97%B6%E8%8A%82%EF%BC%8C%E6%88%91%E4%BB%AC%E9%80%89%E5%87%BA%E4%BA%8619%E6%9C%AC%E5%A5%BD%E4%B9%A6",
+          "publishedOn": "2026-04-03T02:46:00.000Z",
+          "wordCount": 317,
+          "title": "初春时节，我们选出了19本好书",
+          "imageUrl": null
+        },
+        {
+          "id": "bdcfc37641e12002a676bf19e9adbfab",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E7%BE%8E%E5%9B%BD%E9%A6%96%E4%BE%8B%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93%E6%88%90%E7%98%BE%E6%A1%88%EF%BC%9A%E5%AD%A9%E5%AD%90%E6%B2%89%E8%BF%B7%E7%BD%91%E7%BB%9C%EF%BC%8C%E6%8A%80%E6%9C%AF%E8%AF%A5%E8%B4%9F%E5%A4%9A%E5%A4%A7%E8%B4%A3%E4%BB%BB%EF%BC%9F",
+          "publishedOn": "2026-04-03T02:46:00.000Z",
+          "wordCount": 295,
+          "title": "美国首例社交媒体成瘾案：孩子沉迷网络，技术该负多大责任？",
+          "imageUrl": null
+        },
         {
           "id": "d655b7222e33c83f5cb40d1479d2c755",
           "author": null,
@@ -8024,36 +8132,6 @@
           "publishedOn": "2026-03-06T03:48:00.000Z",
           "wordCount": 276,
           "title": "《构建和平》：缔造战后欧洲的解决方案",
-          "imageUrl": null
-        },
-        {
-          "id": "4bec9af7958329aa3b4a30bfb45cec24",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E5%A5%B9%E5%A6%82%E4%BD%95%E5%86%99%E4%BD%9C%E2%80%9C%E5%AD%A6%E7%95%8C%E5%B0%8F%E8%AF%B4%E2%80%9D%EF%BC%9F%EF%BD%9C%E4%B8%93%E8%AE%BF%E8%8B%8F%E6%9E%95%E4%B9%A6",
-          "publishedOn": "2026-03-05T02:01:00.000Z",
-          "wordCount": 263,
-          "title": "她如何写作“学界小说”？｜专访苏枕书",
-          "imageUrl": null
-        },
-        {
-          "id": "57d85d70aace4f83da184902abd9d717",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E5%A5%87%E5%B9%BB%E4%BD%9C%E5%93%81%E3%80%8A%E6%9D%83%E5%8A%9B%E7%9A%84%E6%B8%B8%E6%88%8F%E3%80%8B%E5%B0%86%E5%88%B6%E4%BD%9C%E7%94%B5%E5%BD%B1%E7%89%88",
-          "publishedOn": "2026-03-05T02:01:00.000Z",
-          "wordCount": 307,
-          "title": "奇幻作品《权力的游戏》将制作电影版",
-          "imageUrl": null
-        },
-        {
-          "id": "6c32805891f781aca4ff7913ddebf79f",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E6%A2%81%E5%B0%8F%E6%B0%91%EF%BC%9A%E8%B5%B0%E5%87%BA%E7%90%86%E8%A7%A3%E5%87%AF%E6%81%A9%E6%96%AF%E7%9A%84%E8%AF%AF%E5%8C%BA",
-          "publishedOn": "2026-03-05T02:01:00.000Z",
-          "wordCount": 292,
-          "title": "梁小民：走出理解凯恩斯的误区",
           "imageUrl": null
         }
       ]
