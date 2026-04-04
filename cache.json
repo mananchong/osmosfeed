@@ -65,6 +65,46 @@
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
         {
+          "id": "https://www.nationalreview.com/?p=1940111",
+          "author": "Andrew C. McCarthy",
+          "description": "When America loses a war, it is generally because of political reaction at home, notwithstanding smashing success on the battlefield.",
+          "link": "https://www.nationalreview.com/2026/04/the-fog-of-war-against-iran/",
+          "publishedOn": "2026-04-04T10:30:23.000Z",
+          "wordCount": 7500,
+          "title": "The Fog of War Against Iran",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/04/trump-iran-speech-1.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1939942",
+          "author": "Brian T. Allen",
+          "description": "A gratifying visit to Newfields, the garden and museum campus, for flower sculptures, Rembrandt, Van Gogh, and more.",
+          "link": "https://www.nationalreview.com/2026/04/spring-splendor-in-indianapolis/",
+          "publishedOn": "2026-04-04T10:30:16.000Z",
+          "wordCount": 8862,
+          "title": "Spring Splendor in Indianapolis",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/04/Flower.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1939279",
+          "author": "Barry Latzer",
+          "description": "The current rate of executions reflects the enormous slowdown in the carrying out of sentences.",
+          "link": "https://www.nationalreview.com/2026/04/there-is-no-death-penalty-surge/",
+          "publishedOn": "2026-04-04T10:30:16.000Z",
+          "wordCount": 6680,
+          "title": "There Is No Death Penalty Surge",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/06/prison-bars.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1939478",
+          "author": "John Gustavsson",
+          "description": "Empty pumps down under.",
+          "link": "https://www.nationalreview.com/2026/04/australia-and-new-zealands-self-inflicted-fuel-crisis/",
+          "publishedOn": "2026-04-04T10:30:04.000Z",
+          "wordCount": 7312,
+          "title": "Australia and New Zealand’s Self-Inflicted Fuel Crisis",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/04/gas-prices-australia.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
           "id": "https://www.nationalreview.com/?p=1940473",
           "author": "Rich Lowry",
           "description": "Getting back to the moon is nice, but it is a manned mission to Mars that should be our ultimate objective.",
@@ -1932,6 +1972,16 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/108103",
+          "author": "Barryhimself",
+          "description": "千问G1确实有其独特的优势，但在软硬件细节体验上也还有很多需要打磨的地方。查看全文",
+          "link": "https://sspai.com/post/108103",
+          "publishedOn": "2026-04-04T09:11:10.000Z",
+          "wordCount": 381,
+          "title": "买前必看：千问 AI 眼镜 G1 自费长测",
+          "imageUrl": null
+        },
+        {
           "id": "https://sspai.com/post/108231",
           "author": "少数派编辑部",
           "description": "📅本周新预告《超级少女》正式预告4月1日，DC新片《超级少女》发布了正式预告，将于6月26日在北美上映。克雷格·吉勒斯佩执导，米莉·阿尔柯克饰演超女，杰森·莫玛饰演暴狼罗伯，伊芙·雷德利、马提亚斯·修 ...查看全文",
@@ -3059,26 +3109,6 @@
           "publishedOn": "2026-03-06T07:00:00.000Z",
           "wordCount": 423,
           "title": "年度征文｜给 NPC 接上 AI：重生爽文看不够？我直接做了个能骂反派的游戏",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sspai.com/post/106796",
-          "author": "噩梦飘雷",
-          "description": "这套利用NAS构建本地游戏缓存服务器的方法，非常适合宿舍、家庭或者公司这类多人下载相同游戏的共享环境，也可以用来解决带宽或者流量受限的问题。查看全文",
-          "link": "https://sspai.com/post/106796",
-          "publishedOn": "2026-03-06T03:29:03.000Z",
-          "wordCount": 337,
-          "title": "一日一技｜用 NAS 与 LanCache 构建本地游戏缓存服务器",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sspai.com/post/106880",
-          "author": "少数派编辑部",
-          "description": "海信发布 UX 2026 款 RGB-Mini LED 旗舰电视、Nothing 推出 Phone(4a) 系列手机等。查看全文",
-          "link": "https://sspai.com/post/106880",
-          "publishedOn": "2026-03-06T00:45:33.000Z",
-          "wordCount": 857,
-          "title": "派早报：Aqara 发布集悦妙控屏 S1 Plus Siri 版等",
           "imageUrl": null
         }
       ]
@@ -7512,26 +7542,6 @@
           "wordCount": 1927,
           "title": "特朗普确立先例，美国总统发动战争不再受约束？",
           "imageUrl": "https://static01.nyt.com/images/2026/03/04/multimedia/dc-ideas-war-vhjm/dc-ideas-war-vhjm-videoLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/world/20260306/iran-turkey-india-russia/dual",
-          "author": null,
-          "description": "BEN HUBBARD2026年3月6日遭美以联军空袭摧毁的一个德黑兰警察局。 Arash Khamooshi for The New York Times\nDespite long being treated as a pariah by the West and isolated by U.S. sanctions, Iran’s revolutionary Islamic government maintained diplomatic, commercial and military ties with a range of countries.\n尽管伊朗伊斯兰革命政府长期被西方视为弃儿，并在美国制裁下陷入孤立，它仍与多个国家保持着外交、经贸和军事联系。\nTurkey and India engaged with it on trade and security. China looked to it for cheap oil. North Korea, Venezuela and Russia considered it an ally in their struggle against the West and conspired with it to develop military technology and subvert sanctions.\n土耳其与印度在贸易和安全领域同伊朗往来；中国从伊朗获取廉价石油；朝鲜、委内瑞拉和俄罗斯将伊朗视为对抗西方的盟友，并与其合谋开发军事技术，规避制裁。\nNow that Iran finds itself under attack by the United States and Israel, those friends, neighbors and partners have little more than …",
-          "link": "https://cn.nytimes.com/world/20260306/iran-turkey-india-russia/dual",
-          "publishedOn": "2026-03-06T03:06:02.000Z",
-          "wordCount": 1497,
-          "title": "中国、朝鲜、俄罗斯，伊朗“友邦”为何无人出手相助？",
-          "imageUrl": "https://static01.nyt.com/images/2026/03/05/multimedia/05int-iran-friends-01-lqbv/05int-iran-friends-01-lqbv-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/business/20260306/stocks-asia-iran-energy/dual",
-          "author": null,
-          "description": "MEAGHAN TOBIN2026年3月6日周四，首尔韩亚银行总行的外汇交易员。 Ahn Young-Joon/Associated Press\nStocks across most of Asia rallied on Thursday, a day after tumbling over fears around the region’s heavy reliance on imported oil and gas.\n亚洲大多数地区的股市周四出现反弹。此前一天，由于投资者担心该地区对进口石油和天然气的高度依赖，市场曾大幅下跌。\nThe turnaround illustrates the hair-trigger reactions of investors around the world who are trying to assess the immediate and possible long-term effects of the strikes on Iran by the United States and Israel and the repercussions around the Persian Gulf, where much of the world’s oil and gas is produced.\n这种反转凸显了全球投资者的高度敏感反应，他们正试图评估美国和以色列对伊朗发动打击所带来的即时影响以及可能产生的长期后果，以及这些行动在波斯湾地区引发的连锁反应——该地区是全球主要的石油和天然气产地。\nThe swing was particularly stark for South Korea’s Kospi index, which had dropped 12 percent in its worst single-day crash, …",
-          "link": "https://cn.nytimes.com/business/20260306/stocks-asia-iran-energy/dual",
-          "publishedOn": "2026-03-06T01:06:02.000Z",
-          "wordCount": 761,
-          "title": "亚洲股市波动，中东局势带来连锁反应",
-          "imageUrl": "https://static01.nyt.com/images/2026/03/05/multimedia/00Biz-Iran-AI-Energy-cght/00Biz-Iran-AI-Energy-cght-articleLarge.jpg"
         }
       ]
     },
@@ -8008,36 +8018,6 @@
           "publishedOn": "2026-03-07T01:59:00.000Z",
           "wordCount": 298,
           "title": "《紫罗兰》：她说出了她的名字，并把我们唤进她的黑暗中丨诗人读诗㉛",
-          "imageUrl": null
-        },
-        {
-          "id": "53882efd2f3a143fc629c84a11c11e4a",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E4%B8%80%E5%AE%B6%E5%87%BA%E7%89%88%E7%A4%BE%E8%81%98%E8%AF%B7%E2%80%9C%E8%AF%BB%E4%B9%A6%E5%8D%9A%E4%B8%BB%E2%80%9D%E5%81%9A%E4%B9%A6%EF%BC%8C%E8%BF%99%E7%A7%8D%E5%81%9A%E6%B3%95%E6%9C%89%E6%95%88%E5%90%97%EF%BC%9F",
-          "publishedOn": "2026-03-06T03:48:00.000Z",
-          "wordCount": 305,
-          "title": "一家出版社聘请“读书博主”做书，这种做法有效吗？",
-          "imageUrl": null
-        },
-        {
-          "id": "a5b02a064e86cb3e4312836422ec8910",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E5%9C%A8%E4%B8%87%E7%89%A9%E7%94%9F%E9%95%BF%E7%9A%84%E5%AD%A3%E8%8A%82%EF%BC%8C%E6%88%91%E4%BB%AC%E9%80%89%E5%87%BA%E4%BA%8621%E6%9C%AC%E5%A5%BD%E4%B9%A6",
-          "publishedOn": "2026-03-06T03:48:00.000Z",
-          "wordCount": 298,
-          "title": "在万物生长的季节，我们选出了21本好书",
-          "imageUrl": null
-        },
-        {
-          "id": "f16ac5918aed1c5f35737023402f2bbf",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E3%80%8A%E6%9E%84%E5%BB%BA%E5%92%8C%E5%B9%B3%E3%80%8B%EF%BC%9A%E7%BC%94%E9%80%A0%E6%88%98%E5%90%8E%E6%AC%A7%E6%B4%B2%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88",
-          "publishedOn": "2026-03-06T03:48:00.000Z",
-          "wordCount": 276,
-          "title": "《构建和平》：缔造战后欧洲的解决方案",
           "imageUrl": null
         }
       ]
