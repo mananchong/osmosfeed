@@ -75,6 +75,56 @@
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
         {
+          "id": "https://www.nationalreview.com/?p=1941501",
+          "author": "Noah Rothman",
+          "description": "On Easter morning, U.S. forces rescued a downed pilot from the middle of Iranian territory, advancing America’s tactical and strategic position.",
+          "link": "https://www.nationalreview.com/2026/04/a-rescue-mission-for-the-ages/",
+          "publishedOn": "2026-04-06T17:05:59.000Z",
+          "wordCount": 7801,
+          "title": "A Rescue Mission for the Ages",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/03/epic-fury-040526-14.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1940763",
+          "author": "Daniel Buck",
+          "description": "The Education Department’s national tour shows conservatives are once again engaging in the culture war.",
+          "link": "https://www.nationalreview.com/2026/04/the-department-of-education-celebrates-america-and-the-left-hates-it/",
+          "publishedOn": "2026-04-06T10:30:53.000Z",
+          "wordCount": 7088,
+          "title": "The Department of Education Celebrates America, and the Left Hates It",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2025/06/star-spangled-banner-smithsonian.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1941056",
+          "author": "The Editors",
+          "description": "The president’s tariffs have impoverished Americans and hurt businesses’ ability to plan, with very few benefits to show for it.",
+          "link": "https://www.nationalreview.com/2026/04/liberation-day-at-one-year/",
+          "publishedOn": "2026-04-06T10:30:43.000Z",
+          "wordCount": 6900,
+          "title": "‘Liberation Day’ at One Year",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2025/04/donald-trump3985.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1941171",
+          "author": "Kathryn Jean Lopez",
+          "description": "Has America rediscovered the salvific effects of churchgoing?",
+          "link": "https://www.nationalreview.com/2026/04/church-is-more-than-a-lifestyle-choice/",
+          "publishedOn": "2026-04-06T10:30:27.000Z",
+          "wordCount": 6207,
+          "title": "Church Is More Than a Lifestyle Choice",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/04/church-washington-dc.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1940550",
+          "author": "Steven Wills",
+          "description": "A U.S. effort to reopen the Strait of Hormuz would not replicate the operational problem faced at the Dardanelles in World War I.",
+          "link": "https://www.nationalreview.com/2026/04/the-strait-of-hormuz-is-not-the-1915-dardanelles-campaign/",
+          "publishedOn": "2026-04-06T10:30:21.000Z",
+          "wordCount": 7169,
+          "title": "The Strait of Hormuz Is Not the 1915 Dardanelles Campaign",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/04/hornet-abraham-lincoln.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
           "id": "https://www.nationalreview.com/?p=1939133",
           "author": "James Lileks",
           "description": "Making the case for ‘man’s best friend.’",
@@ -1882,6 +1932,16 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/108294",
+          "author": "烧饼",
+          "description": "截图作为一种「临时性内容」，一直有点尴尬——不值得精心管理，但也不该被粗暴删除，大多数相册工具也没有专门对它做什么。查看全文",
+          "link": "https://sspai.com/post/108294",
+          "publishedOn": "2026-04-06T12:45:30.000Z",
+          "wordCount": 268,
+          "title": "App+1｜装上它、然后忘掉它：用 ShotClean 自动化管理截图",
+          "imageUrl": null
+        },
+        {
           "id": "https://sspai.com/post/69901",
           "author": "Microhoo",
           "description": "「数字遗产」对现代人越来越重要，尤其是具有隐私属性的数据，有可能会导致用户逝世后叠加「社会性死亡」的风险，更别提敏感隐私数据暴露后，对逝者家属的进一步打击。查看全文",
@@ -2980,16 +3040,6 @@
           "wordCount": 493,
           "title": "派早报：苹果禁止美国用户下载中国版字节跳动应用",
           "imageUrl": null
-        },
-        {
-          "id": "https://sspai.com/post/106483",
-          "author": "Enc3lMag1k",
-          "description": "晚安，明天见，过去的一切都不再属于崭新的你。查看全文",
-          "link": "https://sspai.com/post/106483",
-          "publishedOn": "2026-03-08T04:53:12.000Z",
-          "wordCount": 316,
-          "title": "晚安，明天见：Arrows N 与富士通的退场",
-          "imageUrl": null
         }
       ]
     },
@@ -2998,6 +3048,90 @@
       "feedUrl": "https://plink.anyfeeder.com/idaily/today",
       "siteUrl": "https://idai.ly",
       "articles": [
+        {
+          "id": "idaily-249074",
+          "author": "泰国 · 清迈",
+          "description": "泰国清迈地标景点双龙寺的参观游客因空气污染而减少。4月4日，泰国北部最大城市清迈 PM 2.5 浓度录得400微克/立方米以上，达到「极度危险」水平，情况最严重时超过900微克/立方米。泰国本轮空气污染的主要来源为森林火灾和农作物焚烧产生的大量烟霾，清迈周边的山谷地形导致空气污染物更容易积聚。受空气污染和国际油价波动影响，泰国「泼水节」期间的清迈酒店预订量已下降超过50%。摄影师：Arnun Chonmahatrakool",
+          "link": "https://m.idai.ly/se/790rz6",
+          "publishedOn": "2026-04-06T09:59:00.000Z",
+          "wordCount": 233,
+          "title": "泰国清迈严重空气污染 - April 6, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/25817162/bd3fb1b4.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/25817162/bd3fb1b4.jpg"
+        },
+        {
+          "id": "idaily-249073",
+          "author": "美国 · 纽约",
+          "description": "一名身穿盛装的纽约市民参加复活节花帽游行，美国。4月5日，纽约市举行一年一度复活节花帽游行。这项传统庆典最早可追溯至19世纪70年代，参与者会盛装打扮并戴上充满创意的复活节花帽，从曼哈顿第五大道49街游行至57街，庆祝活动从早上10点持续至下午4点。美国劳工统计局本周公布数据显示2026年3月非农就业岗位增加17.8万个，创下14个月以来最大单月增幅，主要原因为医疗服务业罢工结束以及建筑和物流业回暖。摄影师：Spencer Platt",
+          "link": "https://m.idai.ly/se/c3a8MJ",
+          "publishedOn": "2026-04-06T09:58:00.000Z",
+          "wordCount": 233,
+          "title": "纽约复活节花帽游行 - April 6, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/2e155ee1/2699926f.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/2e155ee1/2699926f.jpg"
+        },
+        {
+          "id": "idaily-249072",
+          "author": "伊朗 · 伊斯法罕省",
+          "description": "伊朗革命卫队公布一张美军飞机残骸照片。4月5日，美国总统 Donald Trump 在社交平台发文称，美军成功在伊朗山区营救出一名 F-15E 战机跳伞飞行员，他宣称这是「美国历史上最英勇的搜救行动之一」，并强调美军在本次任务中无伤亡。路透社报道称，美军特种部队在救援过程中使用的2架 MC-130 运输机因故障无法起飞，紧急调用其他飞机后炸毁了出现故障的飞机。伊朗武装部队发言人称，美军营救行动因伊朗武装力量的介入而「彻底失败」，美方有2架「黑鹰」直升机和2架「C-130」运输机被击落。摄影师：IRGC",
+          "link": "https://m.idai.ly/se/77eRtL",
+          "publishedOn": "2026-04-06T09:57:00.000Z",
+          "wordCount": 233,
+          "title": "美国宣布成功营救飞行员 - April 6, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/3187945f/835782cb.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/3187945f/835782cb.jpg"
+        },
+        {
+          "id": "idaily-249071",
+          "author": "黎巴嫩 · 贝鲁特",
+          "description": "黎巴嫩流离失所者在贝鲁特国家剧院观看演出，贝鲁特。4月5日，以色列国防军再次对黎巴嫩首都贝鲁特南郊及南部多地发动空袭。黎巴嫩卫生部门通报过去24小时以军袭击造成39人死亡、136人受伤，3月初以来累计造成1461人死亡、4430人受伤，死者包括129名儿童和97名妇女，逾120万人流离失所。当天黎巴嫩总统 Joseph Aoun 发表电视讲话呼吁各方通过外交谈判结束冲突，以免黎巴嫩南部成为「另一个加沙」。摄影师：Adri Salido",
+          "link": "https://m.idai.ly/se/367Q4s",
+          "publishedOn": "2026-04-06T09:55:00.000Z",
+          "wordCount": 233,
+          "title": "黎巴嫩冲突持续 - April 6, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/15252cda/19c89bc2.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/15252cda/19c89bc2.jpg"
+        },
+        {
+          "id": "idaily-249070",
+          "author": "韩国 · 首尔",
+          "description": "第22届汝矣岛春花节开幕，韩国空军飞行表演队用彩烟在空中绘出「爱心」图案，首尔。春花节是首尔最具代表性的春季庆典活动之一，本年度庆祝活动从4月3日持续至7日，主题为「春日花园，相聚」（Spring Garden, Together），汝矣岛将举行电影放映、艺术展、美食集市等活动，该地区超过1800棵樱花树已全部进入盛开状态，预计将吸引300万游客访问。摄影师：iDaily Media",
+          "link": "https://m.idai.ly/se/1d1TzC",
+          "publishedOn": "2026-04-06T09:53:00.000Z",
+          "wordCount": 233,
+          "title": "首尔汝矣岛春花节 - April 6, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/d2e540ca/1e4defaa.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/d2e540ca/1e4defaa.jpg"
+        },
+        {
+          "id": "idaily-249069",
+          "author": "日本 · 名古屋",
+          "description": "日本名古屋科学馆举办「大灭绝展：生命史五大灭绝事件」特展，一件冰冠龙骨架模型正在展出，爱知县。冰冠龙是早侏罗世南极洲最大的肉食动物，体长约7米，重达450公斤。地球上迄今共发生5次大规模集群灭绝事件，分别是在奥陶纪末期、泥盆纪晚期、二叠纪末期、三叠纪晚期、白垩纪末期。本次展览通过三叶虫、奇虾、邓氏鱼、大海牛、霸王龙等生物的化石标本及复制品，探索地球生命史上五次生物大灭绝事件的成因与后续，追溯生命在灭绝幸存后的进化史。展期持续至6月14日。摄影师：Manabu Kato",
+          "link": "https://m.idai.ly/se/7c2JtZ",
+          "publishedOn": "2026-04-06T09:51:00.000Z",
+          "wordCount": 233,
+          "title": "名古屋大灭绝特展 - April 6, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/5b81bf57/0786912f.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/5b81bf57/0786912f.jpg"
+        },
         {
           "id": "idaily-249012",
           "author": "太阳系",
@@ -7734,36 +7868,6 @@
           "publishedOn": "2026-03-09T02:17:00.000Z",
           "wordCount": 306,
           "title": "对话马国兴：读库偷走的时光",
-          "imageUrl": null
-        },
-        {
-          "id": "6089c9fc05652f77ab2453f4a0da8a3c",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E7%A6%8F%E5%88%A9%E4%B8%A8%E5%AF%BB%E6%B1%82%E5%86%85%E5%9C%A8%E7%9A%84%E8%A7%89%E9%86%92%EF%BC%8C%E6%89%BE%E5%88%B0%E8%87%AA%E5%B7%B1%E7%9A%84%E5%BF%AB%E4%B9%90%E4%BA%BA%E7%94%9F",
-          "publishedOn": "2026-03-08T01:46:00.000Z",
-          "wordCount": 261,
-          "title": "福利丨寻求内在的觉醒，找到自己的快乐人生",
-          "imageUrl": null
-        },
-        {
-          "id": "df88fd3182d2d60c9fbdca9fafb5ad68",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E5%85%A8%E6%B0%91%E2%80%9C%E5%85%BB%E9%BE%99%E8%99%BE%E2%80%9D%E6%97%B6%E4%BB%A3%EF%BC%8C%E6%88%91%E4%BB%AC%E4%B8%BA%E4%BB%80%E4%B9%88%E5%86%99%E4%BD%9C%EF%BC%9F",
-          "publishedOn": "2026-03-08T01:46:00.000Z",
-          "wordCount": 271,
-          "title": "全民“养龙虾”时代，我们为什么写作？",
-          "imageUrl": null
-        },
-        {
-          "id": "61d3ff414cd81766896337fd213fa3f0",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E5%BD%93%E4%B8%80%E4%B8%AA%E5%A5%B3%E5%AD%A9%E5%86%B3%E5%AE%9A%E6%88%90%E4%B8%BA%E8%87%AA%E5%B7%B1",
-          "publishedOn": "2026-03-08T01:46:00.000Z",
-          "wordCount": 300,
-          "title": "当一个女孩决定成为自己",
           "imageUrl": null
         }
       ]
