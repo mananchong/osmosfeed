@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mananchong.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-05T17:03:06.585Z</updated>
+    <updated>2026-04-06T08:53:15.181Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mananchong.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://mananchong.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[R Weekly 2026-W15 dataviewR difftastic R-universe]]></title>
+        <id>https://rweekly.org/2026-W15.html</id>
+        <link href="https://rweekly.org/2026-W15.html"/>
+        <updated>2026-04-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hello and welcome to this new issue!
+How to have (my) content shared by R Weekly?
+This week’s release was curated by Colin Fay, with help from the R Weekly team members and contributors.
+Highlight
+Meet dataviewR: The View() You Always Wanted
+Better Git diff with difftastic
+Collaborating between Bioconductor and R-universe on Development of Common Infrastructure
+Insights
+Collaborating between Bioconductor and R-universe on Development of Common Infrastructure
+rOpenSci News Digest, March 2026
+Weekly Recap (April 2, 2026)
+R in the Real World
+Pacific island energy supply by @ellis2013nz
+Momentum Investing Enhanced by Microsoft Foundry-Hosted Large Language Model
+Navigating Financial Statement And The Story It Tells Us - A Note To Myself
+R in Organizations
+A Complete Guide to the Drug Developme…]]></summary>
+        <author>
+            <name>RWeekly.org - Blogs to Learn R from the Community</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Maybe Society <i>Should</i> Go to the Dogs]]></title>
         <id>https://www.nationalreview.com/?p=1939133</id>
@@ -7544,56 +7570,6 @@ GPS 干扰泛滥推动替代技术发展
         <updated>2026-03-08T01:46:00.000Z</updated>
         <author>
             <name>新京报书评周刊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lessons for Subduing the Oldest Hatred]]></title>
-        <id>https://www.nationalreview.com/?p=1926315</id>
-        <link href="https://www.nationalreview.com/2026/03/lessons-for-subduing-the-oldest-hatred/"/>
-        <updated>2026-03-07T11:30:47.000Z</updated>
-        <summary type="html"><![CDATA[Forget grievance. To counteract bigotry takes a particular resolve.]]></summary>
-        <author>
-            <name>Matthew H. Solomson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Biplanes, Trains, and Super-Fast Ponies, Zip Codes, Stamps, and Ben Franklin]]></title>
-        <id>https://www.nationalreview.com/?p=1926547</id>
-        <link href="https://www.nationalreview.com/2026/03/biplanes-trains-and-super-fast-ponies-zip-codes-stamps-and-ben-franklin/"/>
-        <updated>2026-03-07T11:30:39.000Z</updated>
-        <summary type="html"><![CDATA[The fascinating history of the U.S. Postal Service, but, alas, it’s now illegal to mail your child.]]></summary>
-        <author>
-            <name>Brian T. Allen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Pro-Democracy Supreme Court]]></title>
-        <id>https://www.nationalreview.com/?p=1926531</id>
-        <link href="https://www.nationalreview.com/2026/03/the-pro-democracy-supreme-court/"/>
-        <updated>2026-03-07T11:30:35.000Z</updated>
-        <summary type="html"><![CDATA[There’s no doubt that the Roberts Court has reallocated power to the people.]]></summary>
-        <author>
-            <name>Jacob Eisler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Vilification of Bernie Goetz, Redux]]></title>
-        <id>https://www.nationalreview.com/?p=1926551</id>
-        <link href="https://www.nationalreview.com/2026/03/the-vilification-of-bernie-goetz-redux/"/>
-        <updated>2026-03-07T11:30:14.000Z</updated>
-        <summary type="html"><![CDATA[The case of the 1980s NYC subway shooter continues to fascinate.]]></summary>
-        <author>
-            <name>Michael Washburn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On Iran, Congress Still Has a Say]]></title>
-        <id>https://www.nationalreview.com/?p=1926567</id>
-        <link href="https://www.nationalreview.com/2026/03/on-iran-congress-still-has-a-say/"/>
-        <updated>2026-03-07T11:30:07.000Z</updated>
-        <summary type="html"><![CDATA[The further we are from an actual threat, the greater is the president’s political need for congressional support.]]></summary>
-        <author>
-            <name>Andrew C. McCarthy</name>
         </author>
     </entry>
 </feed>

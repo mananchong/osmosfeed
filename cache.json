@@ -6,6 +6,16 @@
       "siteUrl": "https://rweekly.org/atom.xml",
       "articles": [
         {
+          "id": "https://rweekly.org/2026-W15.html",
+          "author": null,
+          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Colin Fay, with help from the R Weekly team members and contributors.\nHighlight\nMeet dataviewR: The View() You Always Wanted\nBetter Git diff with difftastic\nCollaborating between Bioconductor and R-universe on Development of Common Infrastructure\nInsights\nCollaborating between Bioconductor and R-universe on Development of Common Infrastructure\nrOpenSci News Digest, March 2026\nWeekly Recap (April 2, 2026)\nR in the Real World\nPacific island energy supply by @ellis2013nz\nMomentum Investing Enhanced by Microsoft Foundry-Hosted Large Language Model\nNavigating Financial Statement And The Story It Tells Us - A Note To Myself\nR in Organizations\nA Complete Guide to the Drug Developme…",
+          "link": "https://rweekly.org/2026-W15.html",
+          "publishedOn": "2026-04-06T00:00:00.000Z",
+          "wordCount": 6032,
+          "title": "R Weekly 2026-W15 dataviewR difftastic R-universe",
+          "imageUrl": "https://rweekly.org/public/facebook.png"
+        },
+        {
           "id": "https://rweekly.org/2026-W14.html",
           "author": null,
           "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Jonathan Carroll, with help from the RWeekly team members and contributors.\nHighlight\nIntroducing ggauto: automating better charts\nAdding Alt Text in Quarto with Claude Code\nUsing science to find the best decaf\nInsights\nJarl 0.5.0: A fast R linter\nWhy Learning R is a Good Career Move in 2026\nPacific island demograpy, the narrative by @ellis2013nz\nPython version of ‘Option pricing using time series models as market price of risk Pt.3’\nYou shall know a word by the company it keeps — so choose your prompts wisely\nIntroducing ggauto: automating better charts\n\n2026-03-27 AI Newsletter\nFebruary 2026 Top 40 New CRAN Packages\nSpeeding up tidySummarizedExperiment through query optimi…",
@@ -1863,56 +1873,6 @@
           "wordCount": 7404,
           "title": "Washington’s Chance to Force Qatar and Iran’s Breakup",
           "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/03/doha-qatar.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1926315",
-          "author": "Matthew H. Solomson",
-          "description": "Forget grievance. To counteract bigotry takes a particular resolve.",
-          "link": "https://www.nationalreview.com/2026/03/lessons-for-subduing-the-oldest-hatred/",
-          "publishedOn": "2026-03-07T11:30:47.000Z",
-          "wordCount": 7367,
-          "title": "Lessons for Subduing the Oldest Hatred",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/03/any-means-necessary.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1926547",
-          "author": "Brian T. Allen",
-          "description": "The fascinating history of the U.S. Postal Service, but, alas, it’s now illegal to mail your child.",
-          "link": "https://www.nationalreview.com/2026/03/biplanes-trains-and-super-fast-ponies-zip-codes-stamps-and-ben-franklin/",
-          "publishedOn": "2026-03-07T11:30:39.000Z",
-          "wordCount": 8867,
-          "title": "Biplanes, Trains, and Super-Fast Ponies, Zip Codes, Stamps, and Ben Franklin",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/03/us-mail-1.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1926531",
-          "author": "Jacob Eisler",
-          "description": "There’s no doubt that the Roberts Court has reallocated power to the people.",
-          "link": "https://www.nationalreview.com/2026/03/the-pro-democracy-supreme-court/",
-          "publishedOn": "2026-03-07T11:30:35.000Z",
-          "wordCount": 8000,
-          "title": "The Pro-Democracy Supreme Court",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/03/john-roberts.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1926551",
-          "author": "Michael Washburn",
-          "description": "The case of the 1980s NYC subway shooter continues to fascinate.",
-          "link": "https://www.nationalreview.com/2026/03/the-vilification-of-bernie-goetz-redux/",
-          "publishedOn": "2026-03-07T11:30:14.000Z",
-          "wordCount": 7783,
-          "title": "The Vilification of Bernie Goetz, Redux",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/03/Bernhard-Goetz.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1926567",
-          "author": "Andrew C. McCarthy",
-          "description": "The further we are from an actual threat, the greater is the president’s political need for congressional support.",
-          "link": "https://www.nationalreview.com/2026/03/on-iran-congress-still-has-a-say/",
-          "publishedOn": "2026-03-07T11:30:07.000Z",
-          "wordCount": 7842,
-          "title": "On Iran, Congress Still Has a Say",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/03/donald-trump662541978853.jpg?fit=2057%2C1200&ssl=1"
         }
       ]
     },
