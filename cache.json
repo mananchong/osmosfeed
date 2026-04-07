@@ -44,16 +44,6 @@
           "wordCount": 6226,
           "title": "R Weekly 2026-W12 Sharing across shiny modules, F1 data",
           "imageUrl": "https://rweekly.org/public/facebook.png"
-        },
-        {
-          "id": "https://rweekly.org/2026-W11.html",
-          "author": null,
-          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Colin Fay, with help from the R Weekly team members and contributors.\nHighlight\nA Few Claude Skills for R Users\nInteractive beeswarm charts in R\nIntroducing AI in RStudio\nInsights\nA Few Claude Skills for R Users\nR in the Real World\nExtracting the grammar of U.S. stream names\nA map that glows with the vocabulary of water\nPacific island population pyramids (again) by @ellis2013nz\nR in Organizations\nJeremy Horne on Building Inclusive R Communities Across the UK\nIntroducing AI in RStudio\nR in Academia\nGetting to the bottom of TMLE: the (almost) vanishing nuisance interaction\nTutorials\nInteractive beeswarm charts in R\nA tiny CLI weather {Rapp}ort\nBuilding realistic fake datasets …",
-          "link": "https://rweekly.org/2026-W11.html",
-          "publishedOn": "2026-03-09T00:00:00.000Z",
-          "wordCount": 7602,
-          "title": "R Weekly 2026-W11 claude beeswarm rstudio",
-          "imageUrl": "https://rweekly.org/public/facebook.png"
         }
       ]
     },
@@ -74,6 +64,46 @@
       "feedUrl": "https://www.nationalreview.com/feed/",
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
+        {
+          "id": "https://www.nationalreview.com/?p=1941715",
+          "author": "The Editors",
+          "description": "Following the Trump administration’s cuts, the federal government employs the lowest percentage of U.S. workers since World War II.",
+          "link": "https://www.nationalreview.com/2026/04/a-first-step-toward-shrinking-government/",
+          "publishedOn": "2026-04-07T10:30:59.000Z",
+          "wordCount": 6581,
+          "title": "A First Step Toward Shrinking Government",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/02/business-people-walking-3.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1941509",
+          "author": "Deroy Murdock",
+          "description": "Silver State voters should ask themselves if they want someone responsible for their state’s fiscal health who has such a troubling relationship with money.",
+          "link": "https://www.nationalreview.com/2026/04/will-the-nevada-gop-bet-on-an-anti-trump-accused-cyberscammer-for-state-treasurer/",
+          "publishedOn": "2026-04-07T10:30:18.000Z",
+          "wordCount": 7206,
+          "title": "Will the Nevada GOP Bet on an Anti-Trump Accused Cyberscammer for State Treasurer?",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/04/jeffrey-carter-nevada.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1941732",
+          "author": "Rich Lowry",
+          "description": "‘The United States can’t take care of daycare. That has to be up to a state. We’re fighting wars.’",
+          "link": "https://www.nationalreview.com/2026/04/trump-wants-more-guns-and-should-get-them/",
+          "publishedOn": "2026-04-07T10:30:17.000Z",
+          "wordCount": 7134,
+          "title": "Trump Wants More Guns — and Should Get Them",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/04/gtrump-911-anniversary.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1941551",
+          "author": "Kyle Balzer",
+          "description": "The outcome of the war in Iran may determine whether our East Asian allies go for the bomb.",
+          "link": "https://www.nationalreview.com/2026/04/the-future-of-nuclear-non-proliferation-in-east-asia-depends-on-iran/",
+          "publishedOn": "2026-04-07T10:30:02.000Z",
+          "wordCount": 6987,
+          "title": "The Future of Nuclear Non-Proliferation in East Asia Depends on Iran",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2022/10/south-korea-exercises-11.jpg?fit=2057%2C1200&ssl=1"
+        },
         {
           "id": "https://www.nationalreview.com/?p=1941611",
           "author": "Andrew C. McCarthy",
@@ -1872,6 +1902,16 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/108343",
+          "author": "Matrix机器人",
+          "description": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文",
+          "link": "https://sspai.com/post/108343",
+          "publishedOn": "2026-04-07T09:00:00.000Z",
+          "wordCount": 1131,
+          "title": "社区速递 136 | 派友大秀 Vibe Coding 作品、ROCK 数据线收纳盒与空气凤梨",
+          "imageUrl": null
+        },
+        {
           "id": "https://sspai.com/post/108150",
           "author": "阿帅的健康笔记",
           "description": "提到跑步热身，你想到的是什么？查看全文",
@@ -2990,26 +3030,6 @@
           "wordCount": 288,
           "title": "我与驿站斗智斗勇 3 个月，终于如愿让快递送货上门",
           "imageUrl": null
-        },
-        {
-          "id": "https://sspai.com/post/106762",
-          "author": "bakamio",
-          "description": "AI 是在混沌的概率中计算出来的，偶尔出错是很正常的事；但作为「人」，或者说作为我自己，潜意识里总觉得出错是不可原谅的。这或许，也是一种只有拥有肉身的人类才会有的纠结吧。查看全文",
-          "link": "https://sspai.com/post/106762",
-          "publishedOn": "2026-03-09T02:31:51.000Z",
-          "wordCount": 468,
-          "title": "年度征文｜荷马与人工智能：一场跨越三千年的「众筹」",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sspai.com/post/106955",
-          "author": "少数派编辑部",
-          "description": "苹果禁止美国用户下载中国版字节跳动应用\n微软证实下一代主机 Project Helix\nGemini 被诉劝导自杀\n因出口中国前景不明朗，英伟达停产 H200\nGPS 干扰泛滥推动替代技术发展\n维基百科被植入恶意 JavaScript 蠕虫\n看看就行的简讯\n少数派的近期动态\n你可能错过的好文章\n查看全文",
-          "link": "https://sspai.com/post/106955",
-          "publishedOn": "2026-03-08T23:03:31.000Z",
-          "wordCount": 493,
-          "title": "派早报：苹果禁止美国用户下载中国版字节跳动应用",
-          "imageUrl": null
         }
       ]
     },
@@ -3018,6 +3038,76 @@
       "feedUrl": "https://plink.anyfeeder.com/idaily/today",
       "siteUrl": "https://idai.ly",
       "articles": [
+        {
+          "id": "idaily-249144",
+          "author": "月球",
+          "description": "NASA 公布一张「阿尔忒弥斯2号」任务宇航员拍摄的月球照片，清晰呈现月球背面的大型撞击坑。4月6日，猎户座飞船成功近距离飞掠月球，距离月球表面最近仅6400公里，距离地球最远达40.6万公里，创下人类有史以来最远太空飞行纪录。「阿尔忒弥斯2号」任务宇航员在飞掠月球过程中共进行约7个小时科学观测，对月球背面的撞击坑、远古熔岩流等地貌进行拍摄和记录，其中包括时长约1个小时的日全食现象。猎户座飞船目前已开始返回地球，预计4月10日在加州附近太平洋海域溅落。摄影师：NASA",
+          "link": "https://m.idai.ly/se/d49MEj",
+          "publishedOn": "2026-04-07T10:59:00.000Z",
+          "wordCount": 242,
+          "title": "猎户座飞船飞掠近月点 - April 7, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/93a303d2/a18a5eb5.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/93a303d2/a18a5eb5.jpg"
+        },
+        {
+          "id": "idaily-249141",
+          "author": "中国 · 北京",
+          "description": "游客们在清明节假期游览北京天坛祈年殿。4月6日，中国交通运输部公布2026年清明假期3天全社会跨区域人员流动量预计超过8.45亿人次，同比增长6%，其中公路人员流动量同比增长5.8%至7.78亿人次，铁路客运量增长8.2%至5767.9万人次，水路客运量增长9.8%至372.5万人次，民航客运量同比下降-1.3%至552.4万人次。清明假期北京全市公园共接待游客594.16万人次，游客量排名前三的公园依次为颐和园、天坛公园和玉渊潭公园。摄影师：Yang Yuran",
+          "link": "https://m.idai.ly/se/8258zz",
+          "publishedOn": "2026-04-07T09:58:00.000Z",
+          "wordCount": 242,
+          "title": "中国清明假期出游增长6% - April 7, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/f2d25d82/ae86c1ba.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/f2d25d82/ae86c1ba.jpg"
+        },
+        {
+          "id": "idaily-249140",
+          "author": "美国 · 华盛顿特区",
+          "description": "美国总统 Donald Trump 就伊朗冲突局势举行新闻发布会，华盛顿白宫。4月6日，美国总统 Trump 在白宫记者会上说明美军营救飞行员的详细任务过程，包括出动数百名军人和总计176架飞机，耗时50个小时，炸毁2架无法起飞的运输机，最终实现零伤亡撤离。Trump 威胁称如果伊朗在4月7日晚20时前未能达成停战协议，美军将在4个小时内摧毁伊朗境内的所有桥梁和发电厂。美国三大股指当天集体收涨，纳斯达克指数上涨0.54%，标普500指数上涨0.44%，道琼斯指数上涨0.36%。摄影师：Brendan Smialowski",
+          "link": "https://m.idai.ly/se/8dfuAw",
+          "publishedOn": "2026-04-07T08:57:00.000Z",
+          "wordCount": 242,
+          "title": "特朗普威胁炸毁伊朗电厂 - April 7, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/069446bf/b35b5b03.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/069446bf/b35b5b03.jpg"
+        },
+        {
+          "id": "idaily-249137",
+          "author": "美国 · 华盛顿特区",
+          "description": "美国总统 Donald Trump 夫妇出席白宫复活节庆祝活动，华盛顿特区。4月6日，白宫举办第146届复活节滚彩蛋活动，本年度主题为庆祝美国建国250周年，现场设置滚彩蛋比赛、彩蛋涂绘、小鸡农场科普展、迷你高尔夫球和月球探索体验等活动，共有近5万名宾客受邀参加。美国农场局数据显示2026年2月美国鸡蛋零售价格为每打2.5美元，同比下降-57%，主要原因为禽流感疫情结束、鸡蛋产量恢复正常。摄影师：Brendan Smialowski-Pool",
+          "link": "https://m.idai.ly/se/d49bE7",
+          "publishedOn": "2026-04-07T08:55:00.000Z",
+          "wordCount": 242,
+          "title": "白宫复活节庆祝活动 - April 7, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/c1876b2b/9acc97c0.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/c1876b2b/9acc97c0.jpg"
+        },
+        {
+          "id": "idaily-249135",
+          "author": "越南 · 河内",
+          "description": "越共中央总书记苏林宣誓就任越南国家主席，河内。4月7日，越南第十六届国会第一次会议在河内开幕，越共总书记苏林以全票当选新一任国家主席，任期至2031年。这是越南1976年迄今首次由越共中央总书记正式担任国家主席职务，意味着该国打破长期以来「四驾马车」集体领导制的传统。苏林在就职演说中指出，当前政府首要任务是维护和平稳定的环境，推动国家快速、可持续发展，全面提高人民生活水平，让人民共享发展成果，为地区和世界的和平、稳定、发展与进步作出更大贡献。越南统计局公布2026年第一季度 GDP 增幅为7.83%，主要受到消费、旅游和制造业增长推动。摄影师：Dang Anh",
+          "link": "https://m.idai.ly/se/595Q3K",
+          "publishedOn": "2026-04-07T08:53:00.000Z",
+          "wordCount": 242,
+          "title": "苏林当选越南国家主席 - April 7, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/8af72db4/1a6d2327.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/8af72db4/1a6d2327.jpg"
+        },
         {
           "id": "idaily-249074",
           "author": "泰国 · 清迈",
@@ -7338,56 +7428,6 @@
           "wordCount": 1497,
           "title": "“禁片之王”娄烨为何会拍一部演唱会电影？",
           "imageUrl": "https://static01.nyt.com/images/2026/01/29/multimedia/00int-china-director-profile-01-vbpz/00int-china-director-profile-01-vbpz-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/world/20260309/trump-russia-ukraine-iran-war/dual",
-          "author": null,
-          "description": "ANTON TROIANOVSKI2026年3月9日特朗普政府在伊朗问题上的一些言辞，与俄罗斯在2022年入侵乌克兰时所使用的如出一辙。 Doug Mills/The New York Times\nDefense Secretary Pete Hegseth said last Monday that the United States “didn’t start this war, but under President Trump, we are finishing it.”\n国防部长皮特·海格塞斯上周一表示，美国“不是这场战争的发动者，但在特朗普总统的领导下，我们会是战争的终结者”。\nAfter he invaded Ukraine in 2022, President Vladimir V. Putin of Russia put it this way: “We didn’t start the so-called war in Ukraine. Rather, we are trying to finish it.”\n俄罗斯总统弗拉基米尔·V·普京在2022年入侵乌克兰后也曾这样表态：“所谓乌克兰战争不是我们发动的。我们倒是在努力结束它。”\nMr. Putin’s war was a disastrous ground invasion of a fledgling democracy. Mr. Trump’s war on Iran is a sophisticated bombing campaign against an aggressive theocracy that was killing its own people in the streets. But some similarities are uncanny, starting with t…",
-          "link": "https://cn.nytimes.com/world/20260309/trump-russia-ukraine-iran-war/dual",
-          "publishedOn": "2026-03-09T04:36:02.000Z",
-          "wordCount": 1440,
-          "title": "特朗普的伊朗“重大作战行动”：普京乌克兰战争的回响",
-          "imageUrl": "https://static01.nyt.com/images/2026/03/08/multimedia/08dc-putin-trump-01-zgjt/08dc-putin-trump-01-zgjt-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/world/20260309/iran-minab-school-strike/dual",
-          "author": null,
-          "description": "MALACHY BROWNE, JOHN ISMAY2026年3月9日 \nA newly released video adds to the evidence that an American missile likely hit an Iranian elementary school where 175 people, many of them children, were reported killed.\n一段新发布的视频提供了进一步证据，表明一枚美国导弹很可能击中了一所伊朗小学。据报道，该校有175人丧生，其中许多是儿童。\nThe video, uploaded on Sunday by Iran’s semiofficial Mehr News Agency and verified by The New York Times, shows a Tomahawk cruise missile striking a naval base beside the school in the town of Minab on Feb. 28. The U.S. military is the only force involved in the conflict that uses Tomahawk missiles.\n这段视频由伊朗半官方的迈赫尔通讯社在周日上传发布，《纽约时报》对其进行了核实。视频显示，在2月28日，一枚“战斧”巡航导弹击中了米纳卜市一所小学旁边的海军基地。在这场冲突中，美军是参与的军队中唯一使用“战斧”导弹的部队。\n\n\nA body of evidence assembled by The Times — including satellite imagery, social media posts and other verified video…",
-          "link": "https://cn.nytimes.com/world/20260309/iran-minab-school-strike/dual",
-          "publishedOn": "2026-03-09T04:06:02.000Z",
-          "wordCount": 1058,
-          "title": "究竟哪国导弹击中了伊朗小学？",
-          "imageUrl": "https://static01.nyt.com/images/2026/03/08/arts/minabstill1/minabstill1-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/world/20260309/mojtaba-khamenei-iran-leader/dual",
-          "author": null,
-          "description": "FARNAZ FASSIHI2026年3月9日穆杰塔巴·哈梅内伊2019年在德黑兰。 Morteza Nikoubazl/NurPhoto, via Associated Press\nIran named Mojtaba Khamenei, a son of the recently killed supreme leader, as his father’s successor, according to a statement from top clerics published on state media early Monday local time, signaling the continuity of hard-line theocratic rule as Israeli and U.S. airstrikes pound the country.\n当地时间周一凌晨，伊朗通过官方媒体发布高级教士声明，宣布任命前不久被杀的最高领袖之子穆杰塔巴·哈梅内伊为其父继任者。美以空袭持续轰炸伊朗之际，此举标志着强硬派神权统治的延续。\nMr. Khamenei himself, though, is something of a mystery even within Iran.\n但穆杰塔巴·哈梅内伊本人即使在伊朗国内也颇具神秘色彩。\nHe is a son of the recently killed supreme leader, Ayatollah Ali Khamenei, and has been an influential figure in the shadows of power, coordinating military and intelligence operations at his father’s office. He is known …",
-          "link": "https://cn.nytimes.com/world/20260309/mojtaba-khamenei-iran-leader/dual",
-          "publishedOn": "2026-03-09T03:06:02.000Z",
-          "wordCount": 1358,
-          "title": "伊朗新最高领袖：哈梅内伊之子延续强硬神权统治",
-          "imageUrl": "https://static01.nyt.com/images/2026/03/03/multimedia/03int-Iran-successor-01-jtvh/03int-Iran-successor-01-jtvh-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/business/20260309/oil-prices-iran-100-dollars-barrel/dual",
-          "author": null,
-          "description": "REBECCA F. ELLIOTT, JOE RENNISON2026年3月9日自2月28日美国和以色列攻击伊朗以来，每加仑普通汽油的价格已上涨了约16%。 Ken Cedeno/Reuters\nOil prices surged on Sunday evening, briefly topping $110 a barrel soon after markets opened, in a sign of growing concern that the war in the Middle East will continue to take a toll on energy supplies.\n周日晚间，原油价格大幅飙升，开盘后不久一度突破每桶110美元。这表明市场愈发担心持续的中东战争将对能源供应造成严重冲击。\nIt was the first time in almost four years that the global oil benchmark, known as Brent, cost more than $100 a barrel. Oil is now around 50 percent more expensive than it was before the United States and Israel began attacking Iran on Feb. 28.\n这是全球原油基准价格——布伦特原油——近四年来首次突破100美元大关。目前，油价已比2月28日美国与以色列开始打击伊朗前高出约50%。\nIn Asia, where economies are heavily dependent on imported oil from the Middle East, stocks tumbled in early trading on Mon…",
-          "link": "https://cn.nytimes.com/business/20260309/oil-prices-iran-100-dollars-barrel/dual",
-          "publishedOn": "2026-03-09T03:06:02.000Z",
-          "wordCount": 882,
-          "title": "中东冲突引发能源供应担忧，国际油价突破每桶100美元",
-          "imageUrl": "https://static01.nyt.com/images/2026/03/08/multimedia/08biz-iran-oil-price-qctl/08biz-iran-oil-price-qctl-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/china/20260309/china-iran-power/dual",
-          "author": null,
-          "description": "DAVID PIERSON2026年3月9日习近平上周三在北京出席全国人大会议。 Maxim Shemetov/Reuters\nThe sudden and furious attacks by U.S. and Israeli forces on Iran this past week, including the killing of the country’s supreme leader, are confirming Xi Jinping’s worldview that hard power is king.\n过去一周，美国和以色列军队对伊朗发动了突然且猛烈的攻击，击杀了伊朗最高领袖，这正在印证习近平的一种世界观：硬实力为王。\nFor years, Mr. Xi, China’s top leader, has warned his country about American military hostility and directed his generals to build a world-class army, or what he called a “Great Wall of Steel,” strong enough to deter the United States and ensure peace on Beijing’s terms.\n多年来，中国最高领导人习近平一直警告国内要警惕美国的军事敌意，并指示军方打造一支世界一流的军队——他称之为“钢铁长城”，其强大程度要足以威慑美国，并确保按照北京设定的条件实现和平。\n“It is necessary to speak to invaders in the language they know,” Mr. Xi once said. “That is, a war must be fough…",
-          "link": "https://cn.nytimes.com/china/20260309/china-iran-power/dual",
-          "publishedOn": "2026-03-09T00:06:02.000Z",
-          "wordCount": 1449,
-          "title": "伊朗战争给习近平的教训：硬实力为王",
-          "imageUrl": "https://static01.nyt.com/images/2026/03/07/multimedia/07int-china-iran-power-pjtc/07int-china-iran-power-pjtc-articleLarge.jpg"
         }
       ]
     },
@@ -7794,26 +7834,6 @@
           "publishedOn": "2026-03-10T02:00:00.000Z",
           "wordCount": 268,
           "title": "战争是什么？其实童书里早有答案",
-          "imageUrl": null
-        },
-        {
-          "id": "6a4ac036eb9e37d20057b581dc628bd6",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E5%8A%A9%E5%8A%9B%E5%BC%9F%E5%BC%9F%E5%A6%B9%E5%A6%B9%E4%B8%8A%E5%A4%A7%E5%AD%A6%EF%BC%9A%E5%AE%B6%E5%BA%AD%E7%AC%AC%E4%B8%80%E4%BB%A3%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%9A%84%E8%8B%A6%E4%B8%8E%E4%B9%90",
-          "publishedOn": "2026-03-09T02:17:00.000Z",
-          "wordCount": 292,
-          "title": "助力弟弟妹妹上大学：家庭第一代大学生的苦与乐",
-          "imageUrl": null
-        },
-        {
-          "id": "f895a7aee744872eb30120cd471763a3",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E5%AF%B9%E8%AF%9D%E9%A9%AC%E5%9B%BD%E5%85%B4%EF%BC%9A%E8%AF%BB%E5%BA%93%E5%81%B7%E8%B5%B0%E7%9A%84%E6%97%B6%E5%85%89",
-          "publishedOn": "2026-03-09T02:17:00.000Z",
-          "wordCount": 306,
-          "title": "对话马国兴：读库偷走的时光",
           "imageUrl": null
         }
       ]
