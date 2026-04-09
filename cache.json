@@ -65,6 +65,26 @@
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
         {
+          "id": "https://www.nationalreview.com/?p=1942737",
+          "author": "The Editors",
+          "description": "There’s a cease-fire for now, but there won’t be an end to the larger war until the Islamic Republic falls.",
+          "link": "https://www.nationalreview.com/2026/04/an-uncertain-cease-fire/",
+          "publishedOn": "2026-04-08T18:27:21.000Z",
+          "wordCount": 6774,
+          "title": "An Uncertain Cease-Fire",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/04/ceasefire.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1942742",
+          "author": "Andrew C. McCarthy",
+          "description": "Madman theory doesn’t work against other madmen.",
+          "link": "https://www.nationalreview.com/2026/04/trumps-iran-miscalculation/",
+          "publishedOn": "2026-04-08T17:56:06.000Z",
+          "wordCount": 7584,
+          "title": "Trump’s Iran Miscalculation",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/04/president-trump-white-house.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
           "id": "https://www.nationalreview.com/?p=1942566",
           "author": "Noah Rothman",
           "description": "Those who believed the war was a disaster from the outset seem convinced that worst-case outcomes are inevitable. They’re not.",
@@ -1833,66 +1853,6 @@
           "wordCount": 7525,
           "title": "Don’t Assume the Iran War Is a Blow to China",
           "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/02/trump-jinping.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1927361",
-          "author": "Andrew C. McCarthy",
-          "description": "The time to prepare the public for the sacrifices of warfare is before launching a war, not after you’ve started shooting.",
-          "link": "https://www.nationalreview.com/2026/03/trump-prepares-his-iran-off-ramp/",
-          "publishedOn": "2026-03-10T18:18:24.000Z",
-          "wordCount": 8269,
-          "title": "Trump Prepares His Iran Off-Ramp",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/03/president-trump-.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1927282",
-          "author": "Andrew Stuttaford",
-          "description": "The week of March 2, 2026: The death (or not) of net zero, antitrust, AI, tariffs, and much more.",
-          "link": "https://www.nationalreview.com/2026/03/zombie-net-zero/",
-          "publishedOn": "2026-03-10T17:02:35.000Z",
-          "wordCount": 28434,
-          "title": "Zombie Net Zero",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/03/wind-turbines.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1927114",
-          "author": "The Editors",
-          "description": "He is not, in fact, a moderate, unless ‘moderate’ is now a synonym for ‘white man.’",
-          "link": "https://www.nationalreview.com/2026/03/talarico-the-texas-trickster/",
-          "publishedOn": "2026-03-10T10:30:47.000Z",
-          "wordCount": 6536,
-          "title": "Talarico the Texas Trickster",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/03/james-talarico-campaign-1.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1927142",
-          "author": "Rich Lowry",
-          "description": "Hey, some people in New York City throw bombs, and others don’t. Diversity is our strength!",
-          "link": "https://www.nationalreview.com/2026/03/terror-in-mamdanis-new-york/",
-          "publishedOn": "2026-03-10T10:30:40.000Z",
-          "wordCount": 7046,
-          "title": "Terror in Mamdani’s New York",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/03/emir-balat-nypd.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1927081",
-          "author": "Thérèse Shaheen",
-          "description": "It is not too late for the president and his team to be clear about why we did this.",
-          "link": "https://www.nationalreview.com/2026/03/the-realist-case-for-the-iran-war/",
-          "publishedOn": "2026-03-10T10:30:10.000Z",
-          "wordCount": 7418,
-          "title": "The Realist Case for the Iran War",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/03/operation-epic-fury-030926-6.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1926797",
-          "author": "Gene Schaerr",
-          "description": "The Hong Kong dissident’s persecution is a reminder that capitalism and civil liberties reinforce one another.",
-          "link": "https://www.nationalreview.com/2026/03/jimmy-lais-free-market-witness/",
-          "publishedOn": "2026-03-10T10:30:07.000Z",
-          "wordCount": 6541,
-          "title": "Jimmy Lai’s Free-Market Witness",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2022/04/jimmy-lai-hong-kong.jpg?fit=2057%2C1200&ssl=1"
         }
       ]
     },
@@ -1901,6 +1861,36 @@
       "feedUrl": "https://sspai.com/feed",
       "siteUrl": "https://sspai.com",
       "articles": [
+        {
+          "id": "https://sspai.com/post/69533",
+          "author": "化学心情下2",
+          "description": "掌握这些方法，重装 Windows 11 不求人。查看全文",
+          "link": "https://sspai.com/post/69533",
+          "publishedOn": "2026-04-09T06:32:35.000Z",
+          "wordCount": 564,
+          "title": "疑难杂症不求人：如何在 Windows 11 中搞定「重装」这件事",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sspai.com/post/108367",
+          "author": "Barryhimself",
+          "description": "本次分享为自费购入雷鸟 Air3 一年多的真实使用体验，所有感受均来自日常真实使用场景。查看全文",
+          "link": "https://sspai.com/post/108367",
+          "publishedOn": "2026-04-09T03:04:06.000Z",
+          "wordCount": 269,
+          "title": "雷鸟 Air3 AR 眼镜：一年使用体验复盘",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sspai.com/post/108426",
+          "author": "少数派编辑部",
+          "description": "DeepSeek 上线专家模式、闪迪推出 2TB Extreme Pro UHS-II SD 卡等。查看全文",
+          "link": "https://sspai.com/post/108426",
+          "publishedOn": "2026-04-09T00:33:27.000Z",
+          "wordCount": 419,
+          "title": "派早报：智谱发布旗舰模型 GLM-5.1、索尼推出 Playerbase 计划等",
+          "imageUrl": null
+        },
         {
           "id": "https://sspai.com/prime/story/a-look-at-the-galapagos-era-of-japanese-cellphones",
           "author": "WangMT",
@@ -2979,36 +2969,6 @@
           "publishedOn": "2026-03-10T23:30:00.000Z",
           "wordCount": 613,
           "title": "派早报：荣耀 Magic V6 发布、OPPO 宣布上调部分机型售价等",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sspai.com/post/107031",
-          "author": "waychane",
-          "description": "配备8GB内存、256GB存储空间、没有指纹解锁1、屏幕也不支持P3广色域，甚至用的还是手机上的芯片，很难想象这是一台在2026年推出的笔记本电脑，但这就是Mac家族备受期待的全新产品：MacBook ...查看全文",
-          "link": "https://sspai.com/post/107031",
-          "publishedOn": "2026-03-10T13:00:50.000Z",
-          "wordCount": 490,
-          "title": "最便宜的 Mac 笔记本：MacBook Neo 首发体验",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sspai.com/post/107008",
-          "author": "Matrix机器人",
-          "description": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。💬一派热议在 ...查看全文",
-          "link": "https://sspai.com/post/107008",
-          "publishedOn": "2026-03-10T09:00:00.000Z",
-          "wordCount": 761,
-          "title": "社区速递 132 | 奶爸的 Xreal 1s 观影指南、派友分享小鹏 M03 驾驶体验",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sspai.com/post/106710",
-          "author": "小胡小胡0009",
-          "description": "让 AI 扮演专家、对它说「你」「我」，到底有没有用？有用。但不是你以为的那种用法。查看全文",
-          "link": "https://sspai.com/post/106710",
-          "publishedOn": "2026-03-10T06:20:48.000Z",
-          "wordCount": 857,
-          "title": "年度征文｜「你是专家」这句话，到底是在帮 AI 还是在害你？",
           "imageUrl": null
         }
       ]
@@ -5971,132 +5931,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://pic.yupoo.com/fotomag/6b46691c/717e1e03.jpg"
-        },
-        {
-          "id": "idaily-247418",
-          "author": "中国 · 北京",
-          "description": "北京市民在拍摄颐和园十七孔桥夜景。3月9日，中国国家统计局公布2026年2月全国居民消费价格指数（CPI）同比上涨1.3%，涨幅较上月扩大1.1个百分点，创下2023年2月以来最高纪录，主要受到春节错月叠加消费需求恢复影响；其中食品价格同比上涨1.7%，工业消费品价格上涨1.1%，服务价格上涨1.6%，扣除食品和能源价格的核心CPI同比上涨1.8%。中国2月全国工业生产者出厂价格指数（PPI）同比下降-0.9%，降幅比上月收窄0.5个百分点。摄影师：iDaily Media",
-          "link": "https://m.idai.ly/se/4949G0",
-          "publishedOn": "2026-03-10T10:59:00.000Z",
-          "wordCount": 260,
-          "title": "中国2月CPI上涨1.3% - March 10, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/d1e6b14f/80b467d5.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/d1e6b14f/80b467d5.jpg"
-        },
-        {
-          "id": "idaily-247417",
-          "author": "伊朗 · 德黑兰",
-          "description": "伊朗民众集会支持新任最高领袖 Mojtaba Khamenei，德黑兰。3月9日，伊朗伊斯兰革命卫队宣布启动「真实承诺4」第33轮军事行动，使用重型导弹对美军中东基地及以色列军事目标实施打击。当天美以对伊朗境内石油设施发动大规模空袭，导致德黑兰沙赫兰油库储罐大规模起火。伊朗卫生部通报本轮美以袭击已造成伊朗至少1255人死亡，包括200名儿童和11名医护人员，另有超过1.2万人受伤。摄影师：Abedin Taherkenareh",
-          "link": "https://m.idai.ly/se/1f3WQJ",
-          "publishedOn": "2026-03-10T10:58:00.000Z",
-          "wordCount": 260,
-          "title": "伊朗民众集会支持新任最高领袖 - March 10, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/7478d849/25803067.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/7478d849/25803067.jpg"
-        },
-        {
-          "id": "idaily-247415",
-          "author": "美国 · 佛罗里达州",
-          "description": "美国总统 Donald Trump 在私人度假酒店召开新闻发布会，迈阿密。3月9日，美国总统 Trump 举行对伊朗发动军事行动以来的首场新闻发布会，他宣布美以联合军事行动已「取得重大进展」，并称战争将「很快结束」。Trump 对伊朗前最高领袖哈梅内伊之子 Mojtaba Khamanei 被选为新任最高领袖表示「失望」。受 Trump 关于战争即将结束的言论影响，美国三大股指当天集体上涨，布伦特原油价格下跌-2.65%至每桶90美元。摄影师：Mark Schiefelbein",
-          "link": "https://m.idai.ly/se/a43tiH",
-          "publishedOn": "2026-03-10T10:57:00.000Z",
-          "wordCount": 260,
-          "title": "特朗普称伊朗战争很快结束 - March 10, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/ea3c71ba/d1ac0803.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/ea3c71ba/d1ac0803.jpg"
-        },
-        {
-          "id": "idaily-247412",
-          "author": "希腊 · 克里特岛",
-          "description": "法国总统 Emmanuel Macron 在戴高乐号核动力航母上向媒体发表讲话，地中海东部。3月9日，法国总统 Macron 访问塞浦路斯并视察部署至地中海的戴高乐号核动力航母，他宣布法国将在该地区部署戴高乐号航母、8艘护卫舰及2艘两栖舰，从而保障霍尔木兹海峡的航运安全。受美以伊冲突局势影响，欧洲天然气价格当天飙升至2023年1月以来最高水平，达到800美元/千立方米，全球油价最高突破119美元/桶。摄影师：Gonzalo Fuentes",
-          "link": "https://m.idai.ly/se/b6bIKk",
-          "publishedOn": "2026-03-10T10:55:00.000Z",
-          "wordCount": 260,
-          "title": "法国向地中海部署核航母 - March 10, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/1151745e/492d8833.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/1151745e/492d8833.jpg"
-        },
-        {
-          "id": "idaily-247410",
-          "author": "韩国 · 首尔",
-          "description": "韩国国会特别委员会通过对美投资特别法案，首尔。3月9日，韩国跨党派国会议员组成的委员会以朝野协商一致的方式通过《关于韩美战略投资管理的特别法案》，预计该法案将于3月12日提交国会批准。根据该法案，韩国政府将全额出资2万亿韩元（约合13.4亿美元）成立韩美战略投资公司，该公司将负责落实规模达3500亿美元的对美投资项目，涉及天然气开发、电网、造船等领域。摄影师：iDaily Media",
-          "link": "https://m.idai.ly/se/50cBvb",
-          "publishedOn": "2026-03-10T10:53:00.000Z",
-          "wordCount": 260,
-          "title": "韩国推进对美投资法案 - March 10, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/2824de08/fb32f580.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/2824de08/fb32f580.jpg"
-        },
-        {
-          "id": "idaily-247409",
-          "author": "韩国 · 首尔",
-          "description": "韩国民众在日本驻韩大使馆前抗议福岛核污染水排海，首尔。3月6日，东京电力公司启动第18次核污水排海作业，计划19天内排放7800吨核污水，含放射性氚总量约2万亿贝克勒尔。日本自2023年8月迄今已累计向太平洋排放13.3万吨核污水。东电发布报告显示2025年度福岛第一核电站日均产生60吨污染水。该公司计划2026年度分8次总计排放6.24万吨核污水。摄影师：iDaily Media",
-          "link": "https://m.idai.ly/se/654dd6",
-          "publishedOn": "2026-03-10T10:51:00.000Z",
-          "wordCount": 260,
-          "title": "日本启动第18次核污水排海 - March 10, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/dd227c52/4cca756c.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/dd227c52/4cca756c.jpg"
-        },
-        {
-          "id": "idaily-247408",
-          "author": "哥伦比亚 · 波哥大",
-          "description": "哥伦比亚总统 Gustavo Petro 参加国会选举投票，波哥大。3月8日，哥伦比亚举行国会两院选举，超过4120万选民将从3000余名候选人中投票选出102名参议员和182名众议员。初步计票结果显示，左翼执政联盟「历史公约联盟」以22.72%得票率成为参议院第一大党，右翼政党「民主中心党」以13.53%的支持率成为众议院第一大党，参众两院均无单一党派获得过半数席位。新一届议员将于7月20日正式就职，任期4年。摄影师：Luisa Gonzalez",
-          "link": "https://m.idai.ly/se/eb9SnE",
-          "publishedOn": "2026-03-10T10:49:00.000Z",
-          "wordCount": 260,
-          "title": "哥伦比亚举行国会选举 - March 10, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/9dddce87/0e823349.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/9dddce87/0e823349.jpg"
-        },
-        {
-          "id": "idaily-247407",
-          "author": "西班牙 · 格拉纳达",
-          "description": "西班牙格拉纳达大学向媒体展示使用鱼鳞制作的人造角膜材料。3月9日，西班牙格拉纳达大学医学院研究团队宣布成功利用鱼鳞研制出具有高度生物相容性、耐用性和透明性的人工角膜植入物。该研究团队指出，鱼鳞中提取出的胶原蛋白与人类角膜组织结构相似，且来源丰富、成本低廉，适合作为人造角膜的材料。这种新型材料目前已经在实验室研究和动物实验中取得良好的效果，预计最快5年后投入临床应用，有可能大幅降低角膜移植手术对器官捐献的依赖。摄影师：Miguel Angel Molina",
-          "link": "https://m.idai.ly/se/60b3xI",
-          "publishedOn": "2026-03-10T10:47:00.000Z",
-          "wordCount": 260,
-          "title": "西班牙大学研究鱼鳞人造角膜 - March 10, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/be38b390/cdd7ea8c.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/be38b390/cdd7ea8c.jpg"
-        },
-        {
-          "id": "idaily-247406",
-          "author": "法国 · 巴黎",
-          "description": "巴黎 2026 秋冬时装周 Balenciaga 秀场，模特正在展示品牌创意总监 Pierpaolo Piccioli 的新一季时装作品。本季时装作品以「光与影」（ClairObscur）为主题，灵感来自文艺复兴时期艺术标志性的「明暗对照」绘画技法，通过强烈的明暗对比塑造立体的时装轮廓，探寻光与影之间的极致张力。摄影师：iDaily Media",
-          "link": "https://m.idai.ly/se/845Jr4",
-          "publishedOn": "2026-03-10T10:45:00.000Z",
-          "wordCount": 261,
-          "title": "Balenciaga 2026秋冬时装秀 - March 10, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/5ff70b54/83d2e81a.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/5ff70b54/83d2e81a.jpg"
         }
       ]
     },
@@ -6105,6 +5939,66 @@
       "feedUrl": "https://plink.anyfeeder.com/nytimes/dual",
       "siteUrl": "http://nytimes.com",
       "articles": [
+        {
+          "id": "https://cn.nytimes.com/asia-pacific/20260409/vietnam-rice-food-shortage-iran-war/dual",
+          "author": null,
+          "description": "DAMIEN CAVE2026年4月9日3月下旬，越南同塔省，一艘船运载着新收割的稻谷。 \nA dozen barges, heavy with just-harvested rice, cut their engines and floated to a halt. Two huge rice mills upriver stopped de-husking and bagging as electricity prices peaked.\n十几艘满载新收稻谷的驳船熄了引擎，顺水漂着停下来。上游两家大型碾米厂因电价飙至峰值，停止了稻谷脱壳与装袋的作业。\nIt was midmorning in Vietnam’s Mekong River Delta — one of the most productive agricultural areas on Earth, in a nation that is the world’s second-largest exporter of rice.\n此时是越南湄公河三角洲的上午时分。这里是全球最富饶的的农业区之一，越南是全球第二大稻米出口国。\nOnly birds and a stray motorbike could be heard.\n四下里只听得见鸟鸣，偶尔传来摩托车驶过的声响。\nAnd in the quiet, anxieties unfurled.\n在这片寂静里，焦虑正悄然蔓延。\n载着新收割稻谷的船只排成一列，准备驶入同塔省的一家加工中心。\nBoat captains talked about diesel prices doubling, surging higher and for longer than they did after Russia invaded Ukraine in 2022. Workers…",
+          "link": "https://cn.nytimes.com/asia-pacific/20260409/vietnam-rice-food-shortage-iran-war/dual",
+          "publishedOn": "2026-04-09T05:36:02.000Z",
+          "wordCount": 1303,
+          "title": "陷入停摆的水稻大国：中东战争冲击全球粮食供应",
+          "imageUrl": "https://static01.nyt.com/images/2026/04/09/multimedia/09int-mekong-iran-dispatch-01-gpmc/09int-mekong-iran-dispatch-01-gpmc-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/opinion/20260409/war-iran-economy-world/dual",
+          "author": null,
+          "description": "JAMIE MARTIN2026年4月9日 Damon Winter/The New York Times\nIn 1910, a British journalist published “The Great Illusion,” one of the worst-timed best sellers in history.\n1910年，一位英国记者出版了《大幻觉》(The Great Illusion)一书，这本书堪称史上“最不合时宜的畅销书”之一。\nThe author, Norman Angell, argued that the growing interconnection of the world economy meant that no one could ever truly win a world war. Even if Germany were to invade Britain and take all the gold held in the Bank of England, the integration of Europe’s banking systems guaranteed a financial crisis that would leave the Germans worse off than if they’d just stayed home.\n作者诺曼·安吉尔认为，世界经济日益紧密的互联意味着没有人能真正赢得一场世界大战。即使德国入侵英国并夺走英格兰银行的所有黄金，欧洲银行体系的高度一体化也会引发金融危机，使德国的处境比按兵不动还要更糟。\nThis fact did not make war impossible, Mr. Angell wrote. But it made conflict much more costly …",
+          "link": "https://cn.nytimes.com/opinion/20260409/war-iran-economy-world/dual",
+          "publishedOn": "2026-04-09T05:06:01.000Z",
+          "wordCount": 1391,
+          "title": "伊朗战争对经济的损害比你想象的更严重",
+          "imageUrl": "https://static01.nyt.com/images/2026/04/09/multimedia/09martin-lhzg/09martin-lhzg-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/usa/20260409/trump-war-goals/dual",
+          "author": null,
+          "description": "黄安伟2026年4月9日周三，特朗普总统宣布，在与伊朗达成为期两周的脆弱停火期间，他将推进外交努力。 Tom Brenner for The New York Times\nOn the first day of the U.S.-Israeli strikes against Iran, President Trump laid out his war goals in an eight-minute video.\n美以对伊朗发动空袭首日，特朗普总统在一段八分钟的视频中公布了他的战争目标。\n“Our objective is to defend the American people by eliminating imminent threats from the Iranian regime,” he said as an overview on Feb. 28, even though there is no evidence that Iran posed an urgent danger to the United States.\n2月28日，他在概述讲话中声称：“我们的目标是通过消除伊朗政权迫在眉睫的威胁来保护美国人民。”尽管目前没有任何证据表明伊朗对美国构成了紧迫威胁。\nNow with a tenuous cease-fire in place, the president and his aides are expected to try to force Iran to make concessions during negotiations, with the aim of meeting some of the goals he initially stated.\n如今，随着一份脆弱的停火协议正式生效，预计总统及其幕僚将试图在谈判期间迫使伊朗做出让步，…",
+          "link": "https://cn.nytimes.com/usa/20260409/trump-war-goals/dual",
+          "publishedOn": "2026-04-09T03:36:02.000Z",
+          "wordCount": 1376,
+          "title": "美伊达成临时停火，特朗普的战争目标实现了吗？",
+          "imageUrl": "https://static01.nyt.com/images/2026/04/08/multimedia/08dc-wargoals-explainer-01-fgqw/08dc-wargoals-explainer-01-fgqw-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/world/20260409/iran-ceasefire-hormuz-lebanon/dual",
+          "author": null,
+          "description": "ADAM RASGON, YEGANEH TORBATI, EUAN WARD, MICHAEL LEVENSON2026年4月9日周三，伊朗民众在德黑兰庆祝停火协议达成。 Arash Khamooshi for The New York Times\nA tenuous cease-fire between the United States and Iran was being tested on Wednesday by heavy Israeli bombardment in Lebanon, which Israel and President Trump insisted was not part of the cease-fire deal, and by continued Iranian attacks on its Persian Gulf neighbors.\n美伊之间脆弱的停火协议在周三受到了严峻考验：以色列对黎巴嫩发动了猛烈轰炸，而以色列和特朗普总统坚称此次行动不属于停火协议范围；同时，伊朗继续对其波斯湾邻国发动袭击。\nAlthough the cease-fire promised to bring two weeks of relative calm to the Middle East and buy time for Iran and the United States to hammer out a longer-term peace deal, many questions remained about the fate of Iran’s highly enriched uranium, the safe passage of ships in the Strait of Hormuz and whether ongoing Irani…",
+          "link": "https://cn.nytimes.com/world/20260409/iran-ceasefire-hormuz-lebanon/dual",
+          "publishedOn": "2026-04-09T03:36:02.000Z",
+          "wordCount": 1306,
+          "title": "美伊停火协议前景不明，黎巴嫩和海湾国家遭受攻击",
+          "imageUrl": "https://static01.nyt.com/images/2026/04/08/multimedia/08int-iran-leadall-top-placeholder-zcfg/08int-iran-leadall-top-placeholder-zcfg-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/business/20260409/china-natural-gas-reserves-iran-war/dual",
+          "author": null,
+          "description": "KEITH BRADSHER2026年4月9日中国拥有全球最大的地表天然气储备，这帮它缓冲了中东战争带来的冲击。 Qilai Shen for The New York Times\nTwo rows of storage tanks the height of 20-story buildings, filled with liquefied gas, help explain why China is better prepared than many countries to endure the interruption of gas supplies from the Middle East.\n两排20层楼高的储罐，里面装满了液化天然气，这在一定程度上解释了为什么中国比许多国家更有能力应对来自中东的天然气供应中断。\nEach of six tanks in Yancheng, an industrial port, holds enough natural gas to meet the household needs of Beijing’s 22 million people for more than two months. Adjacent to them are four more tanks that are only slightly smaller.\n在工业港口盐城的六座储罐中，每一座都储存着足以满足北京2200万人口两个多月的家庭用气需求。旁边还有另外四个梯级略小的储罐。\nThe storage tanks are part of a huge effort by China over the past decade to accumulate stockpiles of all kinds of commodities, from pork an…",
+          "link": "https://cn.nytimes.com/business/20260409/china-natural-gas-reserves-iran-war/dual",
+          "publishedOn": "2026-04-09T03:06:02.000Z",
+          "wordCount": 1463,
+          "title": "中国如何建立起规模庞大的天然气储备",
+          "imageUrl": "https://static01.nyt.com/images/2026/04/07/multimedia/Biz-China-Natural-Gas-01-phvw/Biz-China-Natural-Gas-01-phvw-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/world/20260409/china-iran-cease-fire/dual",
+          "author": null,
+          "description": "KEITH BRADSHER, FARNAZ FASSIHI2026年4月9日周二，中国站在伊朗一边，否决了一项旨在开放霍尔木兹海峡的安理会决议。 Jeenah Moon/Reuters\nFor years, China has been one of Iran’s most important lifelines. China has bought almost all of its oil exports, shielded it diplomatically and helped it weather international isolation. Now, according to three Iranian officials, Beijing has used that influence for a different purpose: to press Iran to accept the cease-fire with the United States.\n多年来，中国一直是伊朗最重要的生命线之一。中国买下了伊朗几乎全部的石油出口，在外交上为其提供庇护，并帮助其抵御国际孤立。如今，据三名伊朗官员透露，北京利用这种影响力达到了另一个目的：施压伊朗接受与美国的停火协议。\nIran’s decision to accept the two-week cease-fire proposal brokered by Pakistan came after diplomatic efforts by Pakistan and a last-minute push by China, according to the Iranian officials. China asked Iran to show flexibility and defuse tensions,…",
+          "link": "https://cn.nytimes.com/world/20260409/china-iran-cease-fire/dual",
+          "publishedOn": "2026-04-09T01:06:02.000Z",
+          "wordCount": 994,
+          "title": "伊朗官员称北京施压伊朗接受与美国停火协议",
+          "imageUrl": "https://static01.nyt.com/images/2026/04/08/multimedia/08israel-iran-china-mcpv/08israel-iran-china-mcpv-articleLarge.jpg"
+        },
         {
           "id": "https://cn.nytimes.com/asia-pacific/20260408/north-korea-kim-jong-un-daughter-tank/dual",
           "author": null,
