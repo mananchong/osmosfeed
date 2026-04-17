@@ -1783,66 +1783,6 @@
           "wordCount": 5658,
           "title": "The Coalition Car Is on a Crash Course",
           "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/03/trump-marine-one.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1931508",
-          "author": "Charles C. W. Cooke",
-          "description": "They don’t actually want European-style taxation, even if they admire European-style spending.",
-          "link": "https://www.nationalreview.com/2026/03/the-democrats-tax-lies-have-caught-up-with-them/",
-          "publishedOn": "2026-03-18T19:26:49.000Z",
-          "wordCount": 7075,
-          "title": "The Democrats’ Tax Lies Have Caught Up with Them",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/03/Chris-Van-Hollen-Cory-Booker.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1931409",
-          "author": "The Editors",
-          "description": "If his theories about Israel are the baseless suppositions Joe Kent took into public service, Americans should be gratified by his departure.",
-          "link": "https://www.nationalreview.com/2026/03/israel-didnt-make-us-do-it/",
-          "publishedOn": "2026-03-18T16:53:59.000Z",
-          "wordCount": 6958,
-          "title": "Israel Didn’t Make Us Do It",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/03/joe-kent-2.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1931024",
-          "author": "Desmond Lachman",
-          "description": "If ever we needed an independent Fed to navigate us through troubled waters, it has to be now.",
-          "link": "https://www.nationalreview.com/2026/03/the-fed-in-a-fog-of-uncertainty/",
-          "publishedOn": "2026-03-18T10:30:44.000Z",
-          "wordCount": 5834,
-          "title": "The Fed in a Fog of Uncertainty",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/06/Fed-Reserve.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1930930",
-          "author": "Armond White",
-          "description": "How One Battle roots for a race war.",
-          "link": "https://www.nationalreview.com/2026/03/the-oscars-postmortem-hollywoods-political-radicalism/",
-          "publishedOn": "2026-03-18T10:30:35.000Z",
-          "wordCount": 6616,
-          "title": "The Oscars Postmortem: Hollywood’s Political Radicalism",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2025/09/one-battle-after-another-4.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1930681",
-          "author": "Rob Maness",
-          "description": "Clinging to closed AI architecture makes the U.S. vulnerable to corporate whims that may not prioritize national interests.",
-          "link": "https://www.nationalreview.com/2026/03/to-counter-china-americas-military-ai-needs-an-open-source-reboot/",
-          "publishedOn": "2026-03-18T10:30:12.000Z",
-          "wordCount": 5899,
-          "title": "To Counter China, America’s Military AI Needs an Open-Source Reboot",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/03/us-flag-circuit-board.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1930631",
-          "author": "Ryan Young and Hayden Stolzenberg",
-          "description": "Idaho serves as a good model for deregulation.",
-          "link": "https://www.nationalreview.com/2026/03/sunset-for-regulations-sunrise-for-opportunity/",
-          "publishedOn": "2026-03-18T10:30:09.000Z",
-          "wordCount": 6793,
-          "title": "Sunset for Regulations, Sunrise for Opportunity",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/03/capitol-dome-sunrise.jpg?fit=2057%2C1200&ssl=1"
         }
       ]
     },
@@ -1851,6 +1791,26 @@
       "feedUrl": "https://sspai.com/feed",
       "siteUrl": "https://sspai.com",
       "articles": [
+        {
+          "id": "https://sspai.com/post/108547",
+          "author": "一群小羊说",
+          "description": "只要选对豆子、控制好手冲时的变量，一杯好咖啡也很简单。查看全文",
+          "link": "https://sspai.com/post/108547",
+          "publishedOn": "2026-04-17T03:29:29.000Z",
+          "wordCount": 217,
+          "title": "来一杯不翻车的自信：手冲咖啡入门指北",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sspai.com/post/108742",
+          "author": "少数派编辑部",
+          "description": "OpenAI 升级 Codex 新增多项实用功能，大疆发布 Osmo Pocket 4 云台相机等。查看全文",
+          "link": "https://sspai.com/post/108742",
+          "publishedOn": "2026-04-17T01:04:59.000Z",
+          "wordCount": 673,
+          "title": "派早报：Canva AI 2.0 发布、Anthropic 发布 Claude Opus 4.7 模型等",
+          "imageUrl": null
+        },
         {
           "id": "https://sspai.com/post/108070",
           "author": "Sholmes",
@@ -2849,36 +2809,6 @@
           "publishedOn": "2026-03-19T00:44:28.000Z",
           "wordCount": 553,
           "title": "派早报：腾讯 QClaw 正式上线、小鹏 P7 发布 Max 版等",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sspai.com/post/106878",
-          "author": "Haoo_7",
-          "description": "如果你现在比较迷茫，不知道怎么学习才好，那希望这个学习方法论可以给你提供一些参考。切记：一切都要以自己的需求为主。查看全文",
-          "link": "https://sspai.com/post/106878",
-          "publishedOn": "2026-03-18T09:30:00.000Z",
-          "wordCount": 897,
-          "title": "年度征文｜效率杂谈：告别纸笔拓荒，怎么用 AI 来辅助学习？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sspai.com/post/106734",
-          "author": "Microhoo",
-          "description": "用心记录，快乐拍照。查看全文",
-          "link": "https://sspai.com/post/106734",
-          "publishedOn": "2026-03-18T07:30:45.000Z",
-          "wordCount": 378,
-          "title": "越过参数的凝视：哈苏 X2D II 100C 漫谈",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sspai.com/post/106992",
-          "author": "yzlnew",
-          "description": "Home Assistant 凭借其强大、丰富、开放的 API 工具，必将成为这个 Agentic 时代智能家居的第一选择。查看全文",
-          "link": "https://sspai.com/post/106992",
-          "publishedOn": "2026-03-18T06:30:00.000Z",
-          "wordCount": 495,
-          "title": "打造我的「智能家」：使用 Claude Code 轻松使用 Home Assistant",
           "imageUrl": null
         }
       ]
@@ -5771,132 +5701,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://pic.yupoo.com/fotomag/65870f64/6ce95cff.jpg"
-        },
-        {
-          "id": "idaily-247971",
-          "author": "哈萨克斯坦 · 拜科努尔",
-          "description": "俄罗斯「联盟-2.1a」运载火箭运抵拜科努尔航天发射场，哈萨克斯坦。3月17日，「联盟-2.1a」火箭和「进步 MS-33」号货运飞船组合体进入发射前最后准备阶段，预计3月22日执行国际空间站2026年第1次货运补给任务。本次任务将向空间站运送约2.5吨货物，包括828公斤燃料、420公斤饮用水、619公斤食品、393公斤空间站维护设备、52公斤科学实验设备、50公斤氧气和12公斤医疗用品等。摄影师：Evgeny Kudashkin",
-          "link": "https://m.idai.ly/se/0c5ZxB",
-          "publishedOn": "2026-03-18T10:39:00.000Z",
-          "wordCount": 261,
-          "title": "俄货运飞船即将发射 - March 18, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/b6df5bd6/487267d2.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/b6df5bd6/487267d2.jpg"
-        },
-        {
-          "id": "idaily-247970",
-          "author": "美国 · 华盛顿特区",
-          "description": "美国白宫举行圣帕特里克节庆祝活动，爱尔兰总理 Micheal Martin 向美国总统 Donald Trump 赠送三叶草盆栽，华盛顿特区。3月17日，爱尔兰总理按惯例在圣帕特里克节期间访问白宫，两国领导人就经贸关系、中东局势等议题举行约1小时会谈。爱尔兰总理在记者会上表示「希望和平解决中东冲突」，提议在美国和爱尔兰之间建立合法的移民渠道。美国总统 Trump 再次公开抨击英国首相拒绝派遣军舰参与霍尔木兹海峡护航，并敦促爱尔兰购买美国液化天然气以解决两国「巨大的贸易逆差」。摄影师：Yuri Gripas",
-          "link": "https://m.idai.ly/se/86b1Ar",
-          "publishedOn": "2026-03-18T09:58:00.000Z",
-          "wordCount": 261,
-          "title": "爱尔兰总理访问白宫 - March 18, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/314476ce/8f546438.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/314476ce/8f546438.jpg"
-        },
-        {
-          "id": "idaily-247968",
-          "author": "日本 · 熊本县",
-          "description": "日本熊本市陆上自卫队展示新部署的「改进型12式陆基反舰导弹系统」。3月17日，日本防卫省举行关于部署国产新型远程导弹的公开说明会，首次向熊本县知事、熊本市市长和约100名当地议员和居民代表展示「改进型12式陆基反舰导弹」的发射车、弹药运输车、火控系统和指挥控制系统等装备。这是日本首次在境内部署具备「对敌基地攻击能力」的远程导弹，预计3月31日正式完成部署，射程可达1000公里以上，打击范围可达到中国上海在内的沿海地区。摄影师：Hiroshi Adachi",
-          "link": "https://m.idai.ly/se/b83TUW",
-          "publishedOn": "2026-03-18T08:57:00.000Z",
-          "wordCount": 261,
-          "title": "日本部署1000公里远程导弹 - March 18, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/e95306ce/24eb15fb.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/e95306ce/24eb15fb.jpg"
-        },
-        {
-          "id": "idaily-247965",
-          "author": "以色列",
-          "description": "以色列总理办公室公布一张以色列总理 Benjamin Netanyahu 下达对伊朗高级官员进行空袭的作战指令的照片。3月18日，伊朗政府证实最高国家安全委员会秘书 Ali Larijani 在以军空袭中遇害。Larijani 是伊朗重要的改革派政治人物以及「伊朗核协议」的主要推动者之一，被以色列视为伊朗前最高领袖哈梅内伊遇袭身亡后的「实际领导人」。伊朗伊斯兰革命卫队当天宣布发起「真实承诺4」行动第61轮军事行动，对以色列境内超过100个军事和安全目标发动打击作为报复。摄影师：Maayan Toaf",
-          "link": "https://m.idai.ly/se/2fassq",
-          "publishedOn": "2026-03-18T08:55:00.000Z",
-          "wordCount": 261,
-          "title": "伊朗最高安全官员遇害 - March 18, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/07ddb876/e385ebe7.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/07ddb876/e385ebe7.jpg"
-        },
-        {
-          "id": "idaily-248051",
-          "author": "黎巴嫩 · 贝鲁特",
-          "description": "黎巴嫩首都贝鲁特市中心一座建筑遭以色列空袭炸毁。3月18日，以色列对黎巴嫩首都贝鲁特市中心及南部郊区发动空袭，造成至少12人死亡、41人受伤，4栋建筑完全被毁，2座桥梁倒塌。黎巴嫩公共卫生部通报，以色列3月迄今对黎巴嫩袭击已造成968人死亡、2432人受伤，遇难者中包括77名妇女、116名儿童和40名医护人员；黎巴嫩现有超过100万人流离失所，相当于全国人口的20%。摄影师：Wael Hamzeh",
-          "link": "https://m.idai.ly/se/5cesYe",
-          "publishedOn": "2026-03-18T08:54:00.000Z",
-          "wordCount": 264,
-          "title": "以色列持续空袭黎巴嫩 - March 19, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/2aebe9de/bbaf2c1b.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/2aebe9de/bbaf2c1b.jpg"
-        },
-        {
-          "id": "idaily-247963",
-          "author": "古巴 · 哈瓦那",
-          "description": "古巴首都哈瓦那陷入停电。3月16日，古巴电力联盟通报国家电力系统发生全面断电，全国约1100万人口陷入断电状态。这是古巴近4个月以来第3次大范围停电，目前该国可用发电能力仅1140兆瓦，电力缺口达1207兆瓦。古巴国家主席 Miguel Díaz-Canel 指出，古巴已连续3个月未获得外部石油供应，目前主要依靠太阳能、天然气和煤炭提供电能。他谴责美国对古巴人民发动残酷的经济战争，誓言「任何外部侵略者都将遭遇坚决的抵抗」。摄影师：Adalberto Roque",
-          "link": "https://m.idai.ly/se/78d1LY",
-          "publishedOn": "2026-03-18T08:53:00.000Z",
-          "wordCount": 261,
-          "title": "古巴遭遇全国停电 - March 18, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/c9b851f4/fd8dd734.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/c9b851f4/fd8dd734.jpg"
-        },
-        {
-          "id": "idaily-247961",
-          "author": "韩国 · 仁川",
-          "description": "韩国仁川松岛市区被雾霾笼罩。3月17日，韩国气象局通报首尔市 PM2.5 浓度高达74微克/立方米，比正常水平高出3倍，主要污染物来自境外山火烟霾以及大气积聚污染物。韩国气候能源环境部下令采取紧急减排措施，包括实施公务车辆限行制度、缩短超过500个建筑工地的施工时间、强制热电厂等污染企业减排至少15%等。摄影师：iDaily Media",
-          "link": "https://m.idai.ly/se/f79s5S",
-          "publishedOn": "2026-03-18T08:51:00.000Z",
-          "wordCount": 261,
-          "title": "韩国首都圈空气污染 - March 18, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/f5bc8c26/8339a1a6.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/f5bc8c26/8339a1a6.jpg"
-        },
-        {
-          "id": "idaily-247960",
-          "author": "法国 · 巴黎",
-          "description": "巴黎迪士尼乐园新主题园区「冰雪奇缘世界」（World of Frozen）举行揭幕仪式，马恩拉瓦莱。巴黎迪士尼「冰雪奇缘世界」园区将于3月29日正式向公众开放，这座新游乐园区的设计灵感来自电影《冰雪奇缘》的故事背景艾伦戴尔王国，游客们能够乘船游览艾伦戴尔村庄、魔法森林、巨魔谷、冰雪宫殿等电影场景，并与安娜、艾莎、雪宝、克里斯托弗、驯鹿斯特等角色进行互动。全球目前共有6座迪士尼主题乐园，位于加州、奥兰多、巴黎、东京、香港和上海。2025财年全球迪士尼乐园门票收入达117.07亿美元，同比增长4.8%。摄影师：Fred Dugit",
-          "link": "https://m.idai.ly/se/319W6C",
-          "publishedOn": "2026-03-18T08:49:00.000Z",
-          "wordCount": 261,
-          "title": "巴黎迪士尼冰雪奇缘园区 - March 18, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/e3d2c748/c18bd29d.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/e3d2c748/c18bd29d.jpg"
-        },
-        {
-          "id": "idaily-247959",
-          "author": "德国 · 柏林",
-          "description": "德国柏林动物园，一只2个半月的苏门答腊虎幼崽正在与母亲玩耍。3月17日，柏林动物园宣布为新出生的雌性苏门答腊虎幼崽取名为「Lilly」，希望它像小说《彼得·潘》中的印第安公主 Tiger Lily 一样勇敢、聪明且独立。这只苏门答腊虎幼崽出生于1月2日，是园内15岁雌虎「Mayang」诞下的第3只幼崽。苏门答腊虎是现存体型最小、最稀有的老虎亚种之一，野外仅余约400只，被列为极度濒危物种。摄影师：Jens Kalaene",
-          "link": "https://m.idai.ly/se/6a384y",
-          "publishedOn": "2026-03-18T08:47:00.000Z",
-          "wordCount": 261,
-          "title": "柏林新生苏门答腊虎 - March 18, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/aa5bb627/d9cecad9.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/aa5bb627/d9cecad9.jpg"
         }
       ]
     },
@@ -5905,6 +5709,76 @@
       "feedUrl": "https://plink.anyfeeder.com/nytimes/dual",
       "siteUrl": "http://nytimes.com",
       "articles": [
+        {
+          "id": "https://cn.nytimes.com/health/20260417/oats-health-benefits-recipes/dual",
+          "author": null,
+          "description": "SIMAR BAJAJ2026年4月17日\nHearty, basic and cheap, oats have been eaten for centuries. And now, they’re a staple of wellness culture — for good reason.\n几个世纪以来，燕麦一直被作为一种营养丰富、基础且廉价的食物。而现在，它已经成为健康文化的一大支柱——这不无道理。\nOats are a “balanced food” with a good amount of protein, relatively little fat and a variety of vitamins and minerals, said Elizabeth Hyde-Daddio, a dietitian and certified diabetes educator at Northwell Health in Long Island. What really sets them apart, however, is that they’re one of the best sources of a powerful type of fiber.\n长岛诺斯韦尔健康中心的营养师兼认证糖尿病教育工作者伊丽莎白·海德-达迪奥说，燕麦是一种“均衡食品”，含有大量的蛋白质、相对较少的脂肪以及各种维生素和矿物质。而真正让它们与众不同的是，它们是一种强大的纤维的最佳来源之一。\nHere’s a closer look, along with recipes from New York Times Cooking.\n以下是进一步的详细介绍，以及来自《纽约时报》烹饪版(New York Times Cooking)的食谱。\nThey’re great for your hea…",
+          "link": "https://cn.nytimes.com/health/20260417/oats-health-benefits-recipes/dual",
+          "publishedOn": "2026-04-17T05:36:02.000Z",
+          "wordCount": 1071,
+          "title": "燕麦有多健康？",
+          "imageUrl": "https://static01.nyt.com/images/2026/04/13/well/13WELL-HEALTHY-OATS/13WELL-HEALTHY-OATS-videoLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/asia-pacific/20260417/south-korea-emergency-room-medical-crisis/dual",
+          "author": null,
+          "description": "JIN YU YOUNG2026年4月17日首尔郊外的城南市，一家医院里的急救人员。 Jun Michael Park for The New York Times\nFive days after 4-year-old Kim Dong Hee had his tonsils removed, he started vomiting blood. He passed out before an ambulance arrived.\n四岁的金东希（音）在接受扁桃体切除手术五天后开始吐血。在救护车赶到之前，他就已经失去了意识。\nAs he was being raced to the hospital where he had his tonsillectomy, near Busan, South Korea’s second largest city, doctors told the paramedics that the emergency room was full. The nearest available E.R. was more than 10 miles away. The trip felt like an eternity to his mother, Kim So Hee. “My vision went white and my head went blank,” she said.\n当他被紧急送往位于韩国第二大城市釜山附近、为他实施手术的医院时，医生却告知急救人员，急诊室已满。最近的可接收患者的急诊室在十几二十公里外。对他的母亲金素熙（音）来说，这段路仿佛无比漫长。“我眼前一片空白，脑子里一片茫然，”她说。\nBy the time a doctor saw Dong Hee, about 30 minutes after the initial …",
+          "link": "https://cn.nytimes.com/asia-pacific/20260417/south-korea-emergency-room-medical-crisis/dual",
+          "publishedOn": "2026-04-17T05:06:02.000Z",
+          "wordCount": 1533,
+          "title": "急诊室为何拒收病人？韩国的医疗危机",
+          "imageUrl": "https://static01.nyt.com/images/2026/03/24/multimedia/00int-skorea-er-07-mjht/00int-skorea-er-07-mjht-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/world/20260417/bitcoin-satoshi-adam-back-israel-lebanon-ceasefire/dual",
+          "author": null,
+          "description": "KATRIN BENNHOLD2026年4月17日 Amir Hamja for The New York Times\nMy mum, a privacy-minded German in her 80s, hates using her credit card. She still carries around wads of cash to pay for everything: a coffee, her weekly supermarket shopping — even a plane ticket to visit me in Wales.\n我母亲是一位80多岁、极度注重隐私的德国人。她痛恨使用信用卡，至今出门仍揣着厚厚一沓现金，什么都用现金支付：咖啡、每周的超市采购，就连来威尔士看我的机票也不例外。\nShe would get along with Satoshi Nakamoto, the legendary inventor of Bitcoin who operates under a pseudonym and created the first cryptocurrency — a form of electronic cash that leaves no digital trace for banks and governments to follow.\n她肯定能跟中本聪合得来，这位比特币的传奇发明者一直以化名示人，他创造了世界上第一种加密货币——一种不会留下任何数字痕迹、银行和政府都无法追踪的电子现金。\nNakamoto is a godlike figure in the crypto community. But who is he really? Countless people have tried to unmask him. My …",
+          "link": "https://cn.nytimes.com/world/20260417/bitcoin-satoshi-adam-back-israel-lebanon-ceasefire/dual",
+          "publishedOn": "2026-04-17T04:36:02.000Z",
+          "wordCount": 1182,
+          "title": "揭开比特币最大谜团：谁是中本聪？",
+          "imageUrl": "https://static01.nyt.com/images/2026/04/17/multimedia/17int-theworld-asia-nl-back-mjvz/17int-theworld-asia-nl-back-mjvz-articleLarge-v2.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/usa/20260417/trump-under-pressure/dual",
+          "author": null,
+          "description": "KATIE ROGERS2026年4月17日上周，特朗普总统在迈阿密出席了一场UFC比赛。 Tierney L. Cross/The New York Times\nIn a 12-hour span this week, President Trump promised that the war with Iran was ending soon. He picked a fight with the pope on social media. He threatened to fire the chair of the Federal Reserve. He posted an illustration of himself receiving an encouraging hug from Jesus Christ.\n本周，在短短12小时内，特朗普总统承诺与伊朗的战争即将结束。他在社交媒体上对教宗发起挑衅。他威胁要解雇美联储主席。他还发布了一张画，展示耶稣基督正拥抱他以示鼓励。\nThis is what it looks like when Mr. Trump is under pressure and burrowing his way into a more flattering news cycle. And anyone who has been paying even a little bit of attention over the past decade can pinpoint where we are in a well-established routine, when, intentionally or not, the president tosses out little rhetorical grenades meant to shift …",
+          "link": "https://cn.nytimes.com/usa/20260417/trump-under-pressure/dual",
+          "publishedOn": "2026-04-17T03:06:02.000Z",
+          "wordCount": 1531,
+          "title": "耶稣“梗图”、威胁和战争：重重压力之下的特朗普",
+          "imageUrl": "https://static01.nyt.com/images/2026/04/15/multimedia/15DC-TRUMP-PRESSURE-top-cplh/15DC-TRUMP-PRESSURE-top-cplh-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/china/20260417/china-iran-trump-diplomacy-hormuz/dual",
+          "author": null,
+          "description": "郭莉莉, DAVID PIERSON2026年4月17日德黑兰一栋建筑外墙描绘霍尔木兹海峡的壁画。该海峡是中国能源和货物流通的关键通道。 Arash Khamooshi for The New York Times\nAs the United States imposes a blockade of Iranian ports, pressure is mounting on Beijing to push Tehran to accept terms that will end the war and the global energy crisis. In reality, there is little that Beijing could or would do to pressure its partner in the Middle East.\n随着美国对伊朗港口实施封锁，北京方面正面临越来越大的压力，要求它推动德黑兰接受结束战争与全球能源危机的条件。但实际上，中国无论从能力还是意愿上，都不会去施压它的这个中东伙伴。\nThis week, as an array of leaders including the crown prince of Abu Dhabi and the prime minister of Spain visited Beijing, the question of what China could do to help resolve the crisis was the inescapable backdrop to every meeting. In these talks, China’s leader, Xi Jinping, condemned the flouting of international law as a “r…",
+          "link": "https://cn.nytimes.com/china/20260417/china-iran-trump-diplomacy-hormuz/dual",
+          "publishedOn": "2026-04-17T02:06:01.000Z",
+          "wordCount": 1492,
+          "title": "中国为何不会对伊朗施压？意愿有限，能力不足",
+          "imageUrl": "https://static01.nyt.com/images/2026/04/16/multimedia/00int-china-diplo-analysis-wqlg/00int-china-diplo-analysis-wqlg-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/world/20260417/lebanon-isreal-cease-fire/dual",
+          "author": null,
+          "description": "EUAN WARD, TYLER PAGER, JOHNATAN REISS, PRANAV BASKAR2026年4月17日周五凌晨，在以色列与黎巴嫩之间的停火协议即将生效之际，庆祝的炮火照亮了黎巴嫩的夜空。 Hassan Ammar/Associated Press\nA 10-day cease-fire went into effect at midnight on Friday morning in Lebanon. The truce pauses fighting between Israeli forces and the militant group Hezbollah, removing a major obstacle to peace talks between the United States and Iran.\n黎巴嫩为期10天的停火协议于周五凌晨零时正式生效。这份停火协议暂停了以色列军队与武装组织真主党之间的战事，为美国与伊朗的和平谈判扫清了一大障碍。\nIsraeli and Lebanese officials had confirmed they would implement the truce, which was first announced by President Trump after a diplomatic push by the U.S. government earlier in the day. Hezbollah acknowledged the cease-fire in a pair of statements on Thursday, but did not directly address whether it would accept the truce, saying its actions would…",
+          "link": "https://cn.nytimes.com/world/20260417/lebanon-isreal-cease-fire/dual",
+          "publishedOn": "2026-04-17T01:36:02.000Z",
+          "wordCount": 735,
+          "title": "黎巴嫩与以色列停火协议生效",
+          "imageUrl": "https://static01.nyt.com/images/2026/04/16/multimedia/16israel-iran-header530p-cfmv/16israel-iran-header530p-cfmv-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/asia-pacific/20260417/xi-china-vietnam-security/dual",
+          "author": null,
+          "description": "DAVID PIERSON, TUNG NGO2026年4月17日周三，中国领导人习近平在北京举行仪式欢迎越南国家主席苏林。习近平表示，捍卫共产党的执政地位是双方共同的战略利益。 Shen Hong/Xinhua, via Associated Press\nWith the United States and China vying for influence in Asia, China’s leader, Xi Jinping, is keen to show that Vietnam is in his corner on trade, political ideology and, increasingly, security.\n在美国与中国争夺亚洲影响力之际，中国领导人习近平极力想表明，越南在贸易、政治意识形态以及日益重要的安全领域站在中国一边。\nThat was underscored this week when Mr. Xi met with Vietnam’s new leader, To Lam, in Beijing. Mr. Xi alluded to President Trump’s tariffs and the blockage of the Strait of Hormuz as reasons for China and Vietnam to ensure that trade flowed normally and their industrial supply chains were protected.\n本周，习近平在北京会见越南新任领导人苏林时，这一点得到了体现。习近平提到了特朗普总统的关税以及霍尔木兹海峡的封锁，以此作为中越需要确保贸易畅通、保护工业供应链的理由。\nHe also appealed to the two nati…",
+          "link": "https://cn.nytimes.com/asia-pacific/20260417/xi-china-vietnam-security/dual",
+          "publishedOn": "2026-04-17T01:06:01.000Z",
+          "wordCount": 990,
+          "title": "习近平会见越南领导人苏林，中越在安全领域加强合作",
+          "imageUrl": "https://static01.nyt.com/images/2026/04/16/multimedia/16int-china-vietnam-security-bjpm/16int-china-vietnam-security-bjpm-articleLarge.jpg"
+        },
         {
           "id": "https://cn.nytimes.com/china/20260416/lu-xun-chinese-writer-communist-mascot/dual",
           "author": null,
