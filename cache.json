@@ -65,6 +65,16 @@
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
         {
+          "id": "https://www.nationalreview.com/?p=1947877",
+          "author": "Dan McLaughlin",
+          "description": "The desire to identify with others is subject to the same human passions as the draw of defending our own.",
+          "link": "https://www.nationalreview.com/2026/04/toxic-empathy-is-just-tribalism/",
+          "publishedOn": "2026-04-17T20:44:56.000Z",
+          "wordCount": 6865,
+          "title": "‘Toxic Empathy’ Is Just Tribalism",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/04/Allie-Stuckey.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
           "id": "https://www.nationalreview.com/?p=1947726",
           "author": "Noah Rothman",
           "description": "The United Kingdom is on a trajectory toward slow-motion collapse.",
@@ -1783,76 +1793,6 @@
           "wordCount": 6657,
           "title": "The Tariff Game",
           "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2025/11/mike-johnson-john-thune.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1932306",
-          "author": "Noah Rothman",
-          "description": "So far, the data do not suggest that Republicans lack the stomach for challenging the status quo in the Middle East.",
-          "link": "https://www.nationalreview.com/2026/03/the-pre-war-world-is-gone/",
-          "publishedOn": "2026-03-19T16:24:32.000Z",
-          "wordCount": 17941,
-          "title": "The Pre-War World Is Gone",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/03/donald-trump6625548893.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1927494",
-          "author": "Pat McCrory and Mark Schweiker",
-          "description": "Election administration has been — and should be — a core responsibility of the states.",
-          "link": "https://www.nationalreview.com/2026/03/the-supreme-court-should-let-states-run-their-elections/",
-          "publishedOn": "2026-03-19T10:30:55.000Z",
-          "wordCount": 6731,
-          "title": "The Supreme Court Should Let States Run Their Elections",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2020/11/ballot-count-lehigh-county-pennsylvania.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1930954",
-          "author": "Jordan McGillis",
-          "description": "Graduates entering the job market still have an advantage over their non-college peers.",
-          "link": "https://www.nationalreview.com/2026/03/ais-overblown-threat-to-college-graduates/",
-          "publishedOn": "2026-03-19T10:30:54.000Z",
-          "wordCount": 6561,
-          "title": "AI’s Overblown Threat to College Graduates",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/03/commencement-boston-college.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1931710",
-          "author": "The Editors",
-          "description": "If the Jones Act is so essential for the United States to respond to wars and national emergencies, why is it repeatedly waived?",
-          "link": "https://www.nationalreview.com/2026/03/the-jones-act-is-a-failure/",
-          "publishedOn": "2026-03-19T10:30:25.000Z",
-          "wordCount": 6629,
-          "title": "The Jones Act Is a Failure",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2022/08/oil-tankers-staten-island.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1931776",
-          "author": "Steven Wills",
-          "description": "Despite claims to the contrary, dilapidated minesweepers were never the answer.",
-          "link": "https://www.nationalreview.com/2026/03/how-the-u-s-navy-can-clear-the-strait-of-hormuz/",
-          "publishedOn": "2026-03-19T10:30:17.000Z",
-          "wordCount": 6783,
-          "title": "How the U.S. Navy Can Clear the Strait of Hormuz",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/03/seahawk-mines.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1931672",
-          "author": "Christian Schneider",
-          "description": "Vandalism shouldn’t get a free pass because the guy with a spray can is a famous artist.",
-          "link": "https://www.nationalreview.com/2026/03/for-banksy-crime-does-actually-pay/",
-          "publishedOn": "2026-03-19T10:30:13.000Z",
-          "wordCount": 5830,
-          "title": "For Banksy, Crime Does Actually Pay",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/03/banksy-HM-reading-prison.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1931559",
-          "author": "Brian T. Allen",
-          "description": "There’s lots to see and learn online — plus, thoughts on art tariffs.",
-          "link": "https://www.nationalreview.com/2026/03/the-art-of-visiting-an-art-fair-from-afar/",
-          "publishedOn": "2026-03-19T10:30:03.000Z",
-          "wordCount": 7538,
-          "title": "The Art of Visiting an Art Fair from Afar",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/03/Meissen.jpg?fit=2057%2C1200&ssl=1"
         }
       ]
     },
@@ -1861,6 +1801,16 @@
       "feedUrl": "https://sspai.com/feed",
       "siteUrl": "https://sspai.com",
       "articles": [
+        {
+          "id": "https://sspai.com/post/87807",
+          "author": "休伯利安",
+          "description": "入门业余无线电，圆梦童年时的梦想。查看全文",
+          "link": "https://sspai.com/post/87807",
+          "publishedOn": "2026-04-18T02:33:57.000Z",
+          "wordCount": 206,
+          "title": "你好，我是一名「火腿」",
+          "imageUrl": null
+        },
         {
           "id": "https://sspai.com/post/108760",
           "author": "少数派编辑部",
@@ -2849,46 +2799,6 @@
           "publishedOn": "2026-03-20T00:38:32.000Z",
           "wordCount": 655,
           "title": "派早报：小米发布多款新品、稀宇科技发布 MiniMax-M2.7 模型等",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sspai.com/post/97965",
-          "author": "揪惹个咪",
-          "description": "编者按：本文是少数派2025年度征文活动#TeamCarbon25标签下的入围文章。本文仅代表作者本人观点，少数派只略微调整排版。今年的征文活动更有创意，「只能用AI」和「不能用AI」两大赛道激情PK ...查看全文",
-          "link": "https://sspai.com/post/97965",
-          "publishedOn": "2026-03-19T09:22:05.000Z",
-          "wordCount": 236,
-          "title": "年度征文 | 沿海公路的出口：10年后，重返宝岛",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sspai.com/post/107517",
-          "author": "潘誉晗",
-          "description": "伴着诸多争议的新版《呼啸山庄》上映，与我们一同重温勃朗特三姐妹那些文艺作品……查看全文",
-          "link": "https://sspai.com/post/107517",
-          "publishedOn": "2026-03-19T08:00:00.000Z",
-          "wordCount": 249,
-          "title": "勃朗特三姐妹书影单：贫瘠土地生出的女性之花",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sspai.com/post/106957",
-          "author": "Enc3lMag1k",
-          "description": "AI 不会用定论结束一个新的故事，正如新时代不会以一个变数走向终结一样，因为最后一页并不存在，唯有一次次的启程。查看全文",
-          "link": "https://sspai.com/post/106957",
-          "publishedOn": "2026-03-19T07:15:37.000Z",
-          "wordCount": 278,
-          "title": "年度征文 | 最后一页并不存在——我的2025",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sspai.com/post/106923",
-          "author": "LOSSES",
-          "description": "不要让「自我」在洪流中溶解。祝你成为自己 :)查看全文",
-          "link": "https://sspai.com/post/106923",
-          "publishedOn": "2026-03-19T05:26:50.000Z",
-          "wordCount": 320,
-          "title": "杀死你的不是它：聊聊我们的 AI 的焦虑",
           "imageUrl": null
         }
       ]
@@ -5781,104 +5691,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://pic.yupoo.com/fotomag/3740001d/8b423eb2.jpg"
-        },
-        {
-          "id": "idaily-248060",
-          "author": "美国 · 佛罗里达州",
-          "description": "「阿尔忒弥斯2号」载人绕月任务使用的太空发射系统（SLS）火箭与猎户座飞船组合体即将转运至发射区，肯尼迪航天中心。3月18日，NASA 宣布「阿尔忒弥斯2号」火箭与飞船组合体将于3月19日再次从装配大楼转运至发射区，预计最早发射日期为4月1日，有效窗口期最迟至4月6日。这将是美国自1972年以来首次载人绕月任务，4名任务宇航员目前已进入14天隔离期。摄影师：Kim Shifflett",
-          "link": "https://m.idai.ly/se/d7cUQC",
-          "publishedOn": "2026-03-19T10:25:00.000Z",
-          "wordCount": 264,
-          "title": "阿尔忒弥斯2号任务再次预备 - March 19, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/f3631719/7221f853.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/f3631719/7221f853.jpg"
-        },
-        {
-          "id": "idaily-248059",
-          "author": "美国 · 华盛顿特区",
-          "description": "美联储主席 Jerome Powell 出席新闻发布会，华盛顿特区。3月18日，美联储宣布联邦基准利率维持在3.5%-3.75%区间不变。这是美联储自2025年7月以来连续第2次暂停降息，符合市场预期。美联储决议声明指出当前美国经济稳步扩张，就业增长依然缓慢，中东局势发展对美国经济的影响尚不明朗。受美联储维持利率及中东局势升级影响，美国三大股指当天全线下跌，道琼斯指数收盘下跌-1.63%至46225.15点，创下年内新低；标普500指数收跌-1.36%至6624.70点，纳斯达克指数收跌-1.46%至22152.42点。摄影师：Jim Lo Scalzo",
-          "link": "https://m.idai.ly/se/f428f6",
-          "publishedOn": "2026-03-19T10:25:00.000Z",
-          "wordCount": 264,
-          "title": "美联储维持利率不变 - March 19, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/055bc968/82e14640.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/055bc968/82e14640.jpg"
-        },
-        {
-          "id": "idaily-248057",
-          "author": "委内瑞拉 · 加拉加斯",
-          "description": "委内瑞拉民众庆祝委内瑞拉队夺得2026年世界棒球经典赛冠军，加拉加斯。3月17日，委内瑞拉队以3:2比分爆冷击败东道主美国队，历史上首次赢得世界棒球经典赛冠军。本场决赛中委内瑞拉击球手 Eugenio Suárez 在第9局上半凭借二垒安打实现反超，投手 Daniel Palencia 随后连续三振美国队，为委内瑞拉队锁定胜局。委内瑞拉代总统 Delcy Rodríguez 宣布3月18日为「国家欢庆日」（National Day of Joy），全国放假一天庆祝胜利。摄影师：Ronald Pena R",
-          "link": "https://m.idai.ly/se/226FkX",
-          "publishedOn": "2026-03-19T10:25:00.000Z",
-          "wordCount": 264,
-          "title": "委内瑞拉击败美国夺得世棒赛冠军 - March 19, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/97e3067c/6992d70e.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/97e3067c/6992d70e.jpg"
-        },
-        {
-          "id": "idaily-248055",
-          "author": "法国 · 南特",
-          "description": "法国总统 Emmanuel Macron 视察法国海军集团造船厂航母建造工地，南特。3月18日，法国总统 Macron 宣布正式启动新一代核动力航母的建造工作，并将新航母命名为「自由法国号」（France Libre）。Macron 强调这艘新核动力航母将成为法国未来数十年「保持独立的保障」。这艘新航母预计造价约100亿欧元，设计舰长310米，宽约90米，排水量8万吨，可搭载2000名船员及30架战机，配备美制电磁弹射系统，预计2038年正式加入法国海军服役，届时将取代「戴高乐号」航母成为欧洲最大的战舰。摄影师：Gonzalo Fuentes",
-          "link": "https://m.idai.ly/se/21cXw4",
-          "publishedOn": "2026-03-19T10:25:00.000Z",
-          "wordCount": 264,
-          "title": "法国启动建造新核航母 - March 19, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/1d6ef2a0/dba4ef46.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/1d6ef2a0/dba4ef46.jpg"
-        },
-        {
-          "id": "idaily-248052",
-          "author": "日本 · 东京",
-          "description": "日本首相高市早苗与新加坡总理黄循财举行会晤，东京。3月17日，新加坡总理黄循财对日本开启为期3天的正式访问。这是黄循财上任以来首次访日，旨在庆祝新加坡与日本建交60周年。两国领导人就双边关系和国际局势问题举行约1小时会谈，宣布提升两国关系为「战略伙伴关系」，并深化贸易投资、数字科技、安全防卫、绿色能源、人员交流等领域合作。日本是新加坡第8大贸易伙伴，2025年两国商品贸易额达561亿新元（约合437亿美元）。摄影师：Kim Kyung-Hoon",
-          "link": "https://m.idai.ly/se/592c11",
-          "publishedOn": "2026-03-19T10:25:00.000Z",
-          "wordCount": 264,
-          "title": "新加坡总理访问日本 - March 19, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/fad36f44/8efc61e9.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/fad36f44/8efc61e9.jpg"
-        },
-        {
-          "id": "idaily-248050",
-          "author": "斯里兰卡 · 科伦坡",
-          "description": "斯里兰卡首都科伦坡的油罐车正在运送燃油。3月18日，斯里兰卡政府宣布公立机构和学校施行「四天工作制」以减少能源消耗，每周三为新增休息日，医院、港口、紧急服务等必要设施照常运行。斯里兰卡政府已从3月15日开始实施燃油配给制度，每辆私家车每周限购15升燃油，公交车每辆限购200升。斯里兰卡的石油供应完全依赖进口，中东局势升级导致该国陷入严重的燃油不足状态，现有燃油储备仅能满足6周需求。摄影师：Thilina Kaluthotage",
-          "link": "https://m.idai.ly/se/f140DO",
-          "publishedOn": "2026-03-19T10:25:00.000Z",
-          "wordCount": 264,
-          "title": "斯里兰卡宣布四天工作制 - March 19, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/266d4fc0/026c0bf1.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/266d4fc0/026c0bf1.jpg"
-        },
-        {
-          "id": "idaily-248049",
-          "author": "法国 · 巴黎",
-          "description": "游客们体验埃菲尔铁塔高空悬索桥项目，巴黎。3月17日，埃菲尔铁塔时隔1年再次推出高空悬索桥体验项目，即日起至5月3日，购票登塔游客可以免费预约穿行铁塔一层的悬索桥，从空中观赏埃菲尔铁塔结构及周边巴黎街区。这座悬索桥的两端分别连接埃菲尔铁塔东西塔柱，长约40米，高度60米，是巴黎最高的悬索桥。法国政府公布数据显示，埃菲尔铁塔2025年共接待游客675万人次，同比增长7.1%。摄影师：Apaydin Alain",
-          "link": "https://m.idai.ly/se/017324",
-          "publishedOn": "2026-03-19T10:25:00.000Z",
-          "wordCount": 264,
-          "title": "埃菲尔铁塔悬索桥开放 - March 19, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/65870f64/6ce95cff.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/65870f64/6ce95cff.jpg"
         }
       ]
     },
@@ -7186,16 +6998,6 @@
           "wordCount": 1021,
           "title": "谁来判断伊朗构成的威胁？美国情报总监“甩锅”特朗普",
           "imageUrl": "https://static01.nyt.com/images/2026/03/18/multimedia/18DC-THREATS-jfmc/18DC-THREATS-jfmc-videoLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/culture/20260319/jesse-appell-comedian-china/dual",
-          "author": null,
-          "description": "SOPAN DEB2026年3月19日\nBecoming a successful comedian in the United States typically means grinding through open-mic nights, taking expensive improv classes and creating content for TikTok to build an online following.\n在美国，要成为一名成功的喜剧演员通常意味着要经过多次开放麦的打磨，上昂贵的即兴表演课，并在TikTok上创作内容以积累粉丝。\nJesse Appell skipped all that. When he arrived in China in 2012, he was a recent Brandeis graduate who didn’t speak the language. By the time he moved back to the United States a decade later, he had become a fixture of China’s burgeoning stand-up comedy scene. He now has more than a million followers on Douyin, China’s domestic version of TikTok, by bridging the gap between American-style standup and more traditional forms of Chinese performance.\n艾杰西(Jesse Appell)跳过了这些步骤。2012年他来到中国时，还是个刚从布兰戴斯大学毕业、完全不会中文的小伙子。等到十年后他搬…",
-          "link": "https://cn.nytimes.com/culture/20260319/jesse-appell-comedian-china/dual",
-          "publishedOn": "2026-03-19T05:36:02.000Z",
-          "wordCount": 1566,
-          "title": "在中国学会讲笑话：一个美国喜剧演员的跨文化之旅",
-          "imageUrl": "https://static01.nyt.com/images/2026/02/23/multimedia/00xp-appell-top-plmg/00xp-appell-top-plmg-videoLarge.jpg"
         }
       ]
     },
