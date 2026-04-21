@@ -34,16 +34,6 @@
           "wordCount": 6239,
           "title": "R Weekly 2026-W14 ggauto, alt text, scientific coffee",
           "imageUrl": "https://rweekly.org/public/facebook.png"
-        },
-        {
-          "id": "https://rweekly.org/2026-W13.html",
-          "author": null,
-          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Jonathan Kitt , with help from the R Weekly team members and contributors.\nHighlight\nWhat’s new in {dplyr} 1.2.0: A Tour with Isabella Velàsquez\nAtmospheric Simulation in R\nInsights\nMeet the posit::conf(2026) Keynote Speakers\nCan I use Skills with Posit Assistant for the RStudio IDE?\nDeploying boosted tree models with Orbital\n{width=”400”}\nR in the Real World\nstats19 v4.0.0: 45 Years of UK Road Crash Data, Unified\nR in Organizations\nReproducible Analytical Pipelines\nQ1 2026 Update: Community Growth, Collaboration, and Momentum Across the R Ecosystem\nTutorials\nAtmospheric Simulation in R\nWhat’s new in {dplyr} 1.2.0: A Tour with Isabella Velàsquez\n{width=”400”}\nResources\nNew P…",
-          "link": "https://rweekly.org/2026-W13.html",
-          "publishedOn": "2026-03-23T00:00:00.000Z",
-          "wordCount": 5798,
-          "title": "R Weekly 2026-W13 What's new in dplyr, Atmospheric simulation",
-          "imageUrl": "https://rweekly.org/public/facebook.png"
         }
       ]
     },
@@ -64,6 +54,46 @@
       "feedUrl": "https://www.nationalreview.com/feed/",
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
+        {
+          "id": "https://www.nationalreview.com/?p=1948942",
+          "author": "Michael Toth",
+          "description": "Progressive efforts to derail the Paramount merger are baseless.",
+          "link": "https://www.nationalreview.com/2026/04/warner-bros-shareholders-set-to-increase-streaming-competition/",
+          "publishedOn": "2026-04-21T10:30:16.000Z",
+          "wordCount": 6987,
+          "title": "Warner Bros. Shareholders Set to Increase Streaming Competition",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/04/warner-bros-tower.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1948968",
+          "author": "Andrea Picciotti-Bayer",
+          "description": "What the Court does with a newly accepted case out of Colorado will shape the place of religion in American life for years to come.",
+          "link": "https://www.nationalreview.com/2026/04/a-historic-chance-to-strengthen-religious-rights/",
+          "publishedOn": "2026-04-21T10:30:02.000Z",
+          "wordCount": 6779,
+          "title": "A Historic Chance to Strengthen Religious Rights",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/04/supreme-court-statue.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1948889",
+          "author": "Roy Eappen",
+          "description": "Will the activist community now admit the truth?",
+          "link": "https://www.nationalreview.com/2026/04/the-transgender-house-of-cards-just-came-crashing-down/",
+          "publishedOn": "2026-04-21T10:30:00.000Z",
+          "wordCount": 5809,
+          "title": "The Transgender House of Cards Just Came Crashing Down",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2025/06/trans-protest.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1949039",
+          "author": "The Editors",
+          "description": "Forecasts of perpetual state-driven growth were destined to end in disappointment.",
+          "link": "https://www.nationalreview.com/2026/04/the-china-model-falters/",
+          "publishedOn": "2026-04-21T10:30:00.000Z",
+          "wordCount": 6274,
+          "title": "The China Model Falters",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/04/china-financial-district.jpg?fit=2057%2C1200&ssl=1"
+        },
         {
           "id": "https://www.nationalreview.com/?p=1948881",
           "author": "Charles C. W. Cooke",
@@ -1782,6 +1812,26 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/108945",
+          "author": "PlatyHsu",
+          "description": "4月20日，苹果宣布TimCook将于8月31日卸任CEO，并自9月1日起担任董事会执行董事长（ExecutiveChair）。现任硬件工程高级副总裁JohnTernus将接替Cook担任CEO并加入 ...查看全文",
+          "link": "https://sspai.com/post/108945",
+          "publishedOn": "2026-04-21T10:09:24.000Z",
+          "wordCount": 445,
+          "title": "Tim Cook 将要转任的「执行董事长」是什么职务？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sspai.com/post/108943",
+          "author": "Matrix机器人",
+          "description": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文",
+          "link": "https://sspai.com/post/108943",
+          "publishedOn": "2026-04-21T09:32:51.000Z",
+          "wordCount": 733,
+          "title": "社区速递 138 | 派友让闲置旧设备「再就业」、大疆 Mic Mini 与 MUJI 桧木蜡烛",
+          "imageUrl": null
+        },
+        {
           "id": "https://sspai.com/post/108909",
           "author": "什么陈",
           "description": "口袋先知是一款专为日常决策和轻量陪伴打造的包挂，它既可以无缝融入你的日常，也可以随时拿起来把玩。查看全文",
@@ -2760,26 +2810,6 @@
           "wordCount": 2576,
           "title": "Mac 选购指南 2026 春季版",
           "imageUrl": null
-        },
-        {
-          "id": "https://sspai.com/post/106993",
-          "author": "化学心情下2",
-          "description": "手握非国行的 Android 手机或者 Pixel 机型的小伙伴不妨试试。查看全文",
-          "link": "https://sspai.com/post/106993",
-          "publishedOn": "2026-03-23T03:30:00.000Z",
-          "wordCount": 442,
-          "title": "一日一技｜基于 Tasker 的节假日补班闹钟怎么做？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sspai.com/post/107674",
-          "author": "少数派编辑部",
-          "description": "微软承诺多项 Windows 11 改善措施\nAndroid 拟要求安装非商店应用前「冷静」一天\n知名摄影应用 Halide CEO 指控被苹果挖角的前联合创始人\n美国科技公司出现「刷 token」竞争\nMeta 的元宇宙计划走向终结\n预印本平台 arXiv 将脱离康奈尔大学独立运营\n看看就行的简讯\n少数派的近期动态\n你可能错过的好文章\n查看全文",
-          "link": "https://sspai.com/post/107674",
-          "publishedOn": "2026-03-22T22:52:13.000Z",
-          "wordCount": 592,
-          "title": "派早报：微软承诺多项 Windows 11 改善措施",
-          "imageUrl": null
         }
       ]
     },
@@ -2788,6 +2818,76 @@
       "feedUrl": "https://plink.anyfeeder.com/idaily/today",
       "siteUrl": "https://idai.ly",
       "articles": [
+        {
+          "id": "idaily-249941",
+          "author": "中国 · 北京",
+          "description": "北京玉渊潭公园紫藤花进入最佳观赏季。4月21日，北京市统计局公布2026年第一季度地区生产总值达12931.5亿元，同比增长5.9%，快于同期全国5.0%增速水平，其中全市规模以上工业增加值同比增长5.3%，服务业增加值同比增长6.4%，固定资产投资同比增长5.5%，总消费额同比增长2.4%，居民人均可支配收入同比增长4.2%，居民消费价格同比上涨0.7%。北京市政府目标2026年全年实现 GDP 增长5%左右。摄影师：iDaily Media",
+          "link": "https://m.idai.ly/se/155ppI",
+          "publishedOn": "2026-04-21T10:59:00.000Z",
+          "wordCount": 253,
+          "title": "北京一季度GDP增5.9% - April 21, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/685a728faf/d6a47107.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/685a728faf/d6a47107.jpg"
+        },
+        {
+          "id": "idaily-249940",
+          "author": "德国 · 汉诺威",
+          "description": "2026年汉诺威工业博览会（Hannover Messe），德国总理 Friedrich Merz 参观德国思灵机器人公司展位。4月19日，全球最大的工业展会「汉诺威工博会」正式开幕，本届主题为「以技术洞见产业未来」，聚焦工业人工智能和机器人技术等前沿领域，共有来自50多个国家和地区的约2900家展商参展，其中中国企业数量占比达24%，仅次于主办国德国。2026年汉诺威工博会由巴西担任主宾国，会期持续至4月24日，预计将吸引超过12万人次参观。摄影师：Fabian Bimmer",
+          "link": "https://m.idai.ly/se/d49dM8",
+          "publishedOn": "2026-04-21T09:58:00.000Z",
+          "wordCount": 253,
+          "title": "2026汉诺威工博会开幕 - April 21, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/025c8aacd5/701cf584.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/025c8aacd5/701cf584.jpg"
+        },
+        {
+          "id": "idaily-249938",
+          "author": "日本 · 东京",
+          "description": "日本电视台报道日本东北沿海地震及海啸预警，东京。4月20日下午16时52分，日本东北近海海域发生7.7级地震，震源深度为19千米，东京地区震感明显，岩手县沿海观测海啸浪高达80厘米。本次地震迄今报告6人受伤，东北新干线部分区段一度暂停运行，未造成重大损失。日本政府已要求北海道至千叶县的7个道县沿海居民做好未来一周发生大规模地震的防灾准备。摄影师：Issei Kato",
+          "link": "https://m.idai.ly/se/93f8xX",
+          "publishedOn": "2026-04-21T08:57:00.000Z",
+          "wordCount": 253,
+          "title": "日本东北沿海7.7级地震 - April 21, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/cbaf419ed7/c13b159b.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/cbaf419ed7/c13b159b.jpg"
+        },
+        {
+          "id": "idaily-249936",
+          "author": "伊朗 · 德黑兰",
+          "description": "伊朗首都德黑兰市中心的新任最高领袖 Ayatollah Mojtaba Khamenei 巨幅肖像。4月20日，伊朗最高领袖 Khamenei 发表公告重申美伊谈判的基本立场，包括追究袭击伊朗的责任方并要求赔偿战争损失，推动霍尔木兹海峡管理进入新阶段，以及将本地区所有「抵抗阵线」视为统一整体。伊朗伊斯兰革命卫队已于4月18日宣布恢复对霍尔木兹海峡的严格管理和控制措施。美伊临时停火将于4月22日到期，目前双方尚未就举行第二轮谈判达成一致。摄影师：Abedin Taherkenareh",
+          "link": "https://m.idai.ly/se/43e1Z9",
+          "publishedOn": "2026-04-21T08:55:00.000Z",
+          "wordCount": 253,
+          "title": "美伊临时停火即将到期 - April 21, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/9070fa13f9/892e6ee9.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/9070fa13f9/892e6ee9.jpg"
+        },
+        {
+          "id": "idaily-249935",
+          "author": "阿尔及利亚 · 阿尔及尔",
+          "description": "阿尔及利亚阿尔及尔大学举办联合国中文日庆祝活动。4月20日是第17个联合国中文日，该节日定在中国农历24节气中的「谷雨」，旨在纪念中国古代神话中「仓颉造字」的传说。中文是全世界使用人数最多的语言，亦是《联合国宪章》1945年签署的5种文本语言之一。2026年是中文被列为联合国官方语言80周年。官方数据显示2025年世界各地共有81.8万人报考中文水平考试（HSK），同比增长23%。摄影师：Mohammed Messara",
+          "link": "https://m.idai.ly/se/18888g",
+          "publishedOn": "2026-04-21T08:53:00.000Z",
+          "wordCount": 253,
+          "title": "第17个联合国中文日 - April 21, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/35de925d68/60aa8de1.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/35de925d68/60aa8de1.jpg"
+        },
         {
           "id": "idaily-249897",
           "author": "美国 · 佛罗里达州",
@@ -6984,56 +7084,6 @@
           "wordCount": 1561,
           "title": "高龄华裔女性超速撞死一家四口，缓刑判罚引争议",
           "imageUrl": "https://static01.nyt.com/images/2026/03/19/multimedia/19nat-sf-crash-jvzp/19nat-sf-crash-jvzp-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/usa/20260323/trump-iran-offramp/dual",
-          "author": null,
-          "description": "DAVID E. SANGER2026年3月23日特朗普总统这场伊朗\"远足\"的后果可能比他对这趟\"远足\"的兴趣持续更久。 Al Drago for The New York Times\nEver since President Trump began what he now delicately calls his “excursion” into Iran, Washington has been consumed by the question of when he would call it a day — even if many of his war goals remain unaccomplished.\n自从特朗普总统开始了他现在委婉地称为对伊朗的“远足”以来，华盛顿一直纠结于他何时会收手的问题——尽管他的许多战争目标仍未实现。\nOn Friday evening, as he headed to Florida, Mr. Trump seemed to be designing that much-discussed exit. But he clearly has not yet decided whether to take it.\n周五晚上，在前往佛罗里达州途中，特朗普似乎正在设计那个被广泛讨论的退出方案。但他显然尚未决定是否要这么做。\nAnd there is mounting evidence — average gas price approaching $4 a gallon, infrastructure in ruins across the Persian Gulf, a decimated Iranian theocracy digging in and American allies at first rebuffing and no…",
-          "link": "https://cn.nytimes.com/usa/20260323/trump-iran-offramp/dual",
-          "publishedOn": "2026-03-23T04:37:02.000Z",
-          "wordCount": 1489,
-          "title": "特朗普考虑伊朗战争退出方案，究竟何时收手？",
-          "imageUrl": "https://static01.nyt.com/images/2026/03/21/multimedia/21dc-assess-top-qtkg/21dc-assess-top-qtkg-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/opinion/20260323/washington-china-officials-visit/dual",
-          "author": null,
-          "description": "JING QIAN, NEIL THOMAS2026年3月23日 Andy Wong/Associated Press\nPresident Trump has postponed his visit to China by several weeks, blaming the U.S.-Israel war with Iran. The trip, which could help stabilize the U.S. relationship with Beijing and revive wider exchanges, should not be allowed to slide indefinitely.\n特朗普总统已将其访华行程推迟数周，理由是美国与以色列对伊朗的战争。此次访问本有助于稳定美中关系、重启两国更广泛的交流，它不应无限期拖延下去。\nWashington needs to restore regular travel by American policymakers to China, which dropped sharply in recent years, just as the economic and geopolitical competition between the two countries has intensified.\n华盛顿需要恢复美国政策制定者对华的常态化出访——近年来这类出访大幅减少，而美中之间的经济与地缘政治竞争却在加剧。\nNo American president has set foot in China since Mr. Trump did in 2017, during his first term. That absence highlights a simple but troubling truth: A…",
-          "link": "https://cn.nytimes.com/opinion/20260323/washington-china-officials-visit/dual",
-          "publishedOn": "2026-03-23T04:06:02.000Z",
-          "wordCount": 1190,
-          "title": "美国官员应该多去中国看看",
-          "imageUrl": "https://static01.nyt.com/images/2026/03/23/multimedia/22qianthomas-hbpc/22qianthomas-hbpc-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/asia-pacific/20260323/k-pop-china-japan-south-korea/dual",
-          "author": null,
-          "description": "JOHN YOON2026年3月23日 \nWhile BTS does not have any shows planned in mainland China, fans in the country will likely contribute significantly to the supergroup’s album and ticket sales as it returns from hiatus. Fan clubs based in China are marking the comeback by spending tens of thousands of dollars on celebratory billboards in Seoul.\n虽然防弹少年团(BTS)目前没有在中国大陆举办任何演出的计划，但中国粉丝很可能在该超级组合结束暂歇期回归时，为他们的专辑销量和门票销售做出重大贡献。中国当地的粉丝俱乐部正在通过在首尔投放价值数万美元的庆祝广告牌，来庆祝他们的回归。\nBut the Chinese market for K-pop, while enormous and lucrative, can also be capricious.\n但虽然K-pop在中国市场规模庞大且利润丰厚，却也可能相当反复无常。\nCase in point: Japanese stars in South Korean pop groups have been absent from some recent concerts and events in China, a pattern that experts say is linked to a diplomatic spat between Beijing and Tokyo.\n举例来说：韩国流行团体中的日本艺人最近…",
-          "link": "https://cn.nytimes.com/asia-pacific/20260323/k-pop-china-japan-south-korea/dual",
-          "publishedOn": "2026-03-23T02:37:02.000Z",
-          "wordCount": 1222,
-          "title": "中日关系紧张波及娱乐业：K-pop被卷入地缘政治雷区",
-          "imageUrl": "https://static01.nyt.com/images/2026/03/22/multimedia/cn-kpop-span/cn-kpop-span-articleLarge.png"
-        },
-        {
-          "id": "https://cn.nytimes.com/china/20260323/laid-off-in-midlife-chinas-reform-generation-braces-for-downward-mobility/dual",
-          "author": null,
-          "description": "袁莉2026年3月23日 Lisk Feng\nHarry Guo built a life that defined success in China. Born in 1971, he came of age in the 1990s, when China deepened its economic reforms. He taught himself computing and found his way into jobs in multinational firms and then Chinese internet giants. By his mid-40s, he was comfortably middle class. He and his wife paid off two mortgages early and sent their daughter to high school and college in Canada.\n哈里·郭（音）打造了堪称中国式成功范本的人生。他生于1971年，在90年代中国深化经济改革的浪潮中步入成年。他自学计算机技术，先后入职多家跨国企业，之后又进入中国互联网巨头公司。40多岁时，他已跻身中产阶级，生活安稳，和妻子提前还清了两套房产的房贷，把女儿送到加拿大读高中和大学。\nThen Mr. Guo was laid off. Now 55, he has not had a job in more than two years. It’s not for lack of trying. The supermarket near his Beijing apartment won’t hire cashiers over 50. The warehouse where he inquired about work turn…",
-          "link": "https://cn.nytimes.com/china/20260323/laid-off-in-midlife-chinas-reform-generation-braces-for-downward-mobility/dual",
-          "publishedOn": "2026-03-23T02:37:02.000Z",
-          "wordCount": 1310,
-          "title": "中年失业、向下流动：中国“改革一代”的职场困境",
-          "imageUrl": "https://static01.nyt.com/images/2026/03/13/business/00newworld-sub/00newworld-articleLarge.png"
-        },
-        {
-          "id": "https://cn.nytimes.com/business/20260323/oil-jetfuel-asia/dual",
-          "author": null,
-          "description": "艾莎, AARON KROLIK, TUNG NGO, VICTORIA KIM2026年3月23日新西兰惠灵顿国际机场。新西兰航空公司已取消了约1100架次航班，影响将持续至5月初。 Marty Melville/Agence France-Presse — Getty Images\nThree weeks into a war in the Middle East that is roiling energy markets, Asia is confronting one of the first major consequences of an oil shortage, as jet fuel prices surge to record levels and governments scramble to keep flights running.\n中东爆发战争三周后，能源市场剧烈动荡，亚洲正面临石油短缺引发的第一批重大后果：航空煤油价格飙升至历史最高水平，各国政府奋力维持航班正常运行。\nAirlines have canceled thousands of flights, stranding tens of thousands of passengers. Major regional energy suppliers, including China, South Korea and Thailand, are restricting exports, while import-dependent countries like Vietnam are forced to ration and call on others for help.\n航空公司已取消数千架次航班，数以万计的乘客滞留。包括中国、韩国和泰国在内的主要区域能源供应国开始限制出口，而越南这样…",
-          "link": "https://cn.nytimes.com/business/20260323/oil-jetfuel-asia/dual",
-          "publishedOn": "2026-03-22T23:36:02.000Z",
-          "wordCount": 1357,
-          "title": "油价飙升、航班取消：航空燃油危机席卷亚洲",
-          "imageUrl": "https://static01.nyt.com/images/2026/03/20/multimedia/20biz-iran-asia-jetfuel-01-bmhl/20biz-iran-asia-jetfuel-01-bmhl-articleLarge.jpg"
         }
       ]
     },
@@ -7420,36 +7470,6 @@
           "publishedOn": "2026-03-24T02:00:00.000Z",
           "wordCount": 301,
           "title": "金波的童诗：在语言的花朵里，聆听爱与纯真的回响",
-          "imageUrl": null
-        },
-        {
-          "id": "73fe09374c0a0e9e27f2f3d4d0a3fcc1",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E4%BD%A0%E6%9C%89%E2%80%9C%E5%A5%BD%E5%A5%B3%E5%AD%A9%E7%BB%BC%E5%90%88%E5%BE%81%E2%80%9D%E5%90%97%EF%BC%9F",
-          "publishedOn": "2026-03-23T02:13:00.000Z",
-          "wordCount": 266,
-          "title": "你有“好女孩综合征”吗？",
-          "imageUrl": null
-        },
-        {
-          "id": "4184ebdd26393f5dfb5609d7de1a63f0",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E2%80%9C%E9%87%8C%E4%B8%96%E7%95%8C%E2%80%9D%E4%B8%AD%E7%9A%84%E5%94%90%E4%BB%A3%E9%95%BF%E5%AE%89%EF%BC%9A%E4%B8%80%E5%BA%A7%E5%8D%A1%E5%B0%94%E7%BB%B4%E8%AF%BA%E5%BC%8F%E7%9A%84%E7%AC%A6%E5%8F%B7%E4%B9%8B%E5%9F%8E%EF%BD%9C%E3%80%8A%E4%BB%8A%E6%97%A5%E5%90%91%E9%95%BF%E5%AE%89%E3%80%8B",
-          "publishedOn": "2026-03-23T02:13:00.000Z",
-          "wordCount": 263,
-          "title": "“里世界”中的唐代长安：一座卡尔维诺式的符号之城｜《今日向长安》",
-          "imageUrl": null
-        },
-        {
-          "id": "f044f7a7b4444b5f267113a26c2a9251",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E4%BB%96%E8%A2%AB%E5%A5%89%E4%B8%BA%E5%95%86%E4%B8%9A%E6%95%99%E7%88%B6%EF%BC%8C%E5%8D%B4%E5%8A%A0%E9%80%9F%E4%BA%86%E7%BE%8E%E5%9B%BD%E5%88%B6%E9%80%A0%E4%B8%9A%E7%9A%84%E9%80%80%E5%9C%BA",
-          "publishedOn": "2026-03-23T02:13:00.000Z",
-          "wordCount": 294,
-          "title": "他被奉为商业教父，却加速了美国制造业的退场",
           "imageUrl": null
         }
       ]
