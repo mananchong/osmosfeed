@@ -65,6 +65,16 @@
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
         {
+          "id": "https://www.nationalreview.com/?p=1948881",
+          "author": "Charles C. W. Cooke",
+          "description": "That the supposedly moderate strategist has gone down this road is ominous.",
+          "link": "https://www.nationalreview.com/2026/04/james-carville-gives-a-terrifying-glimpse-of-democrats-future-governing-agenda/",
+          "publishedOn": "2026-04-20T19:22:50.000Z",
+          "wordCount": 6403,
+          "title": "James Carville Gives a Terrifying Glimpse of Democrats’ Future Governing Agenda",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/04/James-Carville.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
           "id": "https://www.nationalreview.com/?p=1947821",
           "author": "Pat Fallon",
           "description": "Instead of reacting to challenges as they arise, the U.S. ought to detect and deter them before they appear.",
@@ -1763,66 +1773,6 @@
           "wordCount": 5444,
           "title": "No on Virginia’s Gerrymander",
           "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/03/abigail-spanberger-1.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1933691",
-          "author": "John Fund",
-          "description": "Unsurprisingly, the private sector gets the job done.",
-          "link": "https://www.nationalreview.com/2026/03/as-tsa-chaos-spreads-some-airports-have-solved-the-security-screening-problem/",
-          "publishedOn": "2026-03-22T21:00:21.000Z",
-          "wordCount": 6468,
-          "title": "As TSA Chaos Spreads, Some Airports Have Solved the Security-Screening Problem",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/03/tsa-line-atlanta.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1930778",
-          "author": "Brian Stewart",
-          "description": "Red Dawn over China corrects much of the misleading conventional wisdom about the rise of the People’s Republic.",
-          "link": "https://www.nationalreview.com/2026/03/telling-the-truth-about-chinas-rise/",
-          "publishedOn": "2026-03-22T10:30:43.000Z",
-          "wordCount": 6740,
-          "title": "Telling the Truth About China’s Rise",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/03/china-flag.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1933102",
-          "author": "Becket Adams",
-          "description": "Reflexively favorable coverage for communist regimes has been the Gray Lady’s default for a century now.",
-          "link": "https://www.nationalreview.com/2026/03/the-new-york-times-love-affair-with-china/",
-          "publishedOn": "2026-03-22T10:30:43.000Z",
-          "wordCount": 7297,
-          "title": "The <i>New York Times</i>’ Love Affair with China",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2025/07/xi-jinping.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1930010",
-          "author": "Nate Karren",
-          "description": "America doesn’t have the modern telecom networks to meet our internet needs. This month, the FCC can help change that.",
-          "link": "https://www.nationalreview.com/2026/03/the-fcc-has-an-opportunity-to-prepare-the-internet-for-ai/",
-          "publishedOn": "2026-03-22T10:30:32.000Z",
-          "wordCount": 6753,
-          "title": "The FCC Has an Opportunity to Prepare the Internet for AI",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/08/Artificial-Intelligence.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1932156",
-          "author": "Sarah Schutte",
-          "description": "Whatever type of story you prefer, fable or horror or romance, there’s something for everyone in these classics.",
-          "link": "https://www.nationalreview.com/2026/03/grimms-fairy-tales-stand-the-test-of-time/",
-          "publishedOn": "2026-03-22T10:30:08.000Z",
-          "wordCount": 6141,
-          "title": "<i>Grimms’ Fairy Tales</i> Stand the Test of Time",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/03/grim.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1932816",
-          "author": "James H. McGee",
-          "description": "A century later, General Douhet finally gets his war.",
-          "link": "https://www.nationalreview.com/2026/03/victory-through-air-power-put-to-the-test-in-iran/",
-          "publishedOn": "2026-03-22T10:30:04.000Z",
-          "wordCount": 6909,
-          "title": "‘Victory Through Air Power’ Put to the Test in Iran",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/03/operation-epic-fury-030926-10.jpg?fit=2057%2C1200&ssl=1"
         }
       ]
     },
@@ -1831,6 +1781,26 @@
       "feedUrl": "https://sspai.com/feed",
       "siteUrl": "https://sspai.com",
       "articles": [
+        {
+          "id": "https://sspai.com/post/108909",
+          "author": "什么陈",
+          "description": "口袋先知是一款专为日常决策和轻量陪伴打造的包挂，它既可以无缝融入你的日常，也可以随时拿起来把玩。查看全文",
+          "link": "https://sspai.com/post/108909",
+          "publishedOn": "2026-04-21T03:30:00.000Z",
+          "wordCount": 287,
+          "title": "众测招募｜从 Quote/0 到口袋先知，我们需要的只是一个轻回应",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sspai.com/post/108921",
+          "author": "少数派编辑部",
+          "description": "少数派的近期动态首款MBTI定制墨水屏「口袋先知」周四上线预售。直播预约薄至0.13mm的麦金獭手机钢化膜上线啦！赶紧抢一张别让它吃灰：你为家里的「淘汰设备」找到了哪些新用途？来一派展开聊聊少数派全新 ...查看全文",
+          "link": "https://sspai.com/post/108921",
+          "publishedOn": "2026-04-21T00:20:19.000Z",
+          "wordCount": 763,
+          "title": "派早报：华为举办 Pura 系列及全场景新品发布会等",
+          "imageUrl": null
+        },
         {
           "id": "https://sspai.com/post/108898",
           "author": "少数派编辑部",
@@ -2809,26 +2779,6 @@
           "publishedOn": "2026-03-22T22:52:13.000Z",
           "wordCount": 592,
           "title": "派早报：微软承诺多项 Windows 11 改善措施",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sspai.com/post/107642",
-          "author": "waychane",
-          "description": "结束了在成都举办的Apple五十周年全球第二站活动之后，TimCook又马不停蹄地来到北京，与多位中国优秀的游戏开发者们会面交流，了解他们的作品及Apple技术对他们的支持。《逃离鸭科夫》是一款由开发 ...查看全文",
-          "link": "https://sspai.com/post/107642",
-          "publishedOn": "2026-03-22T09:07:23.000Z",
-          "wordCount": 332,
-          "title": "看见 App Store 生态的更多可能，Tim Cook 会见中国游戏开发者",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sspai.com/post/107010",
-          "author": "知道分子吴先先",
-          "description": "这些照片代表的生命瞬间，才是我真正的人生。查看全文",
-          "link": "https://sspai.com/post/107010",
-          "publishedOn": "2026-03-22T06:35:06.000Z",
-          "wordCount": 447,
-          "title": "用十年手机相册，记录颐和园的日夜春秋",
           "imageUrl": null
         }
       ]
@@ -5707,90 +5657,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://pic.yupoo.com/fotomag/dc7f2156/b81a2564.jpg"
-        },
-        {
-          "id": "idaily-248202",
-          "author": "墨西哥 · 奇琴伊察",
-          "description": "墨西哥民众聚集在玛雅遗迹「卡斯蒂略金字塔」（El Castillo Pyramid）庆祝春分日，奇琴伊察。3月21日，超过1万人前往墨西哥卡斯蒂略金字塔前庆祝北半球春分日。这座美洲古代金字塔建于公元8至12世纪，是玛雅人祭祀羽蛇神（Kukulkan）的神庙，建筑四面共有365级台阶，代表玛雅哈布历的365天。墨西哥央行最新报告预测2026年 GDP 将增长1.6%，比前次预测值上调0.5个百分点，主要受2026年世界杯足球赛、美墨贸易增长等正面因素推动。摄影师：Carl de Souza",
-          "link": "https://m.idai.ly/se/3b449k",
-          "publishedOn": "2026-03-22T10:29:00.000Z",
-          "wordCount": 283,
-          "title": "墨西哥庆祝春分日 - March 22, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/f0c92faa/88d40bca.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/f0c92faa/88d40bca.jpg"
-        },
-        {
-          "id": "idaily-248201",
-          "author": "危地马拉 · 奇瑙特拉",
-          "description": "危地马拉志愿者在拉斯瓦卡斯河道清理塑料垃圾迎接「世界水日」，奇瑙特拉。3月22日是联合国第34个「世界水日」，本年度主题为「水与性别」，呼吁采取行动确保女性在水资源决策中拥有平等的话语权、领导力和机会。联合国报告指出，全球约有27.1%女性无法获得安全管理的饮用水服务，9.5%女性生活在高度或极度紧张的水环境中，约14%的国家缺乏机制确保女性能够平等地参与涉水决策和水资源管理。摄影师：Johan Ordonez",
-          "link": "https://m.idai.ly/se/dfdv3L",
-          "publishedOn": "2026-03-22T09:59:00.000Z",
-          "wordCount": 283,
-          "title": "2026世界水日 - March 22, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/32447f92/c919d925.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/32447f92/c919d925.jpg"
-        },
-        {
-          "id": "idaily-248200",
-          "author": "比利时 · 布鲁塞尔",
-          "description": "法国总统 Emmanuel Macron 在欧盟峰会记者会上发表讲话，比利时布鲁塞尔。3月19日，欧盟27国领导人举行为期1天峰会，重点讨论俄乌冲突和中东局势议题。法国总统 Macron 表示法国不会参与任何在霍尔木兹海峡使用武力的行动。欧盟27国在一份涉中东问题联合声明中对美以伊冲突造成的平民伤亡表示关切，呼吁各方缓和局势，保持最大限度克制，停止袭击能源及水利设施，保持霍尔木兹海峡航行自由。摄影师：Jonathan Raa",
-          "link": "https://m.idai.ly/se/8eeCX6",
-          "publishedOn": "2026-03-22T09:57:00.000Z",
-          "wordCount": 283,
-          "title": "欧盟峰会法国总统发言 - March 22, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/c229653a/749c6e35.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/c229653a/749c6e35.jpg"
-        },
-        {
-          "id": "idaily-248199",
-          "author": "古巴 · 哈瓦那",
-          "description": "古巴国家主席 Miguel Diaz-Canel 会见向古巴提供人道援助物资的国际活动人士，哈瓦那。3月20日，古巴政府在哈瓦那会议宫为「我们的美洲车队」（Our America Convoy）举行欢迎仪式，感谢其向古巴运送人道主义救援物资。该团体由来自33个国家的逾650名政界及活动人士组成，本次访问古巴共带来20吨食品、药品及必需物资。古巴国家主席 Diaz-Canel 在讲话中谴责美国「残酷施压」其他国家孤立古巴，强调美国的企图不会得逞，并表示古巴正在为美国可能发动的「侵略」做准备。摄影师：Adalberto Roque",
-          "link": "https://m.idai.ly/se/7177JP",
-          "publishedOn": "2026-03-22T09:55:00.000Z",
-          "wordCount": 283,
-          "title": "古巴获得国际人道援助物资 - March 22, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/7c1fe441/aeede2e7.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/7c1fe441/aeede2e7.jpg"
-        },
-        {
-          "id": "idaily-248197",
-          "author": "意大利 · 那不勒斯",
-          "description": "意大利那不勒斯圣卡洛剧院大厅内景。3月21日，圣卡洛剧院举行媒体参观活动，邀请记者观看意大利歌剧作曲家 Gaetano Donizetti 的代表作《拉美莫尔的露琪亚》，并介绍剧院近年来的维护修缮情况。圣卡洛剧院将于2027年举行开业290周年庆典，这座剧院由波旁王朝君主卡洛斯三世建造，是世界上仍在运营的最古老的歌剧院，共设184个普通包厢和1个皇家包厢，可容纳超过3000名观众。摄影师：Victor Sokolowicz",
-          "link": "https://m.idai.ly/se/ff53dG",
-          "publishedOn": "2026-03-22T09:53:00.000Z",
-          "wordCount": 283,
-          "title": "那不勒斯圣卡洛剧院290周年 - March 22, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/d3f08dbd/9e4b3dbc.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/d3f08dbd/9e4b3dbc.jpg"
-        },
-        {
-          "id": "idaily-248196",
-          "author": "意大利 · 都林",
-          "description": "意大利都灵皇家博物馆萨沃伊画廊举办「与达芬奇面对面」特展，一幅意大利文艺复兴时期画家 Leonardo da Vinci 素描作品《带胡须的男人头部三视图》正在展出。这幅粉笔素描创作于约1502年，尺寸为110x283毫米，推测是雕塑设计的草稿，描绘了一名蓄须男性正面、四分之三侧面和正侧面3个不同角度的脸庞特写，展现出达芬奇对人物面部的敏锐观察与分析能力。展期持续至6月28日。摄影师：Alessandro di Marco",
-          "link": "https://m.idai.ly/se/faa0dZ",
-          "publishedOn": "2026-03-22T09:51:00.000Z",
-          "wordCount": 283,
-          "title": "都灵达芬奇素描展 - March 22, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/707590fb/0eed176e.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/707590fb/0eed176e.jpg"
         }
       ]
     },
@@ -5799,6 +5665,66 @@
       "feedUrl": "https://plink.anyfeeder.com/nytimes/dual",
       "siteUrl": "http://nytimes.com",
       "articles": [
+        {
+          "id": "https://cn.nytimes.com/usa/20260421/us-iran-negotiation-style/dual",
+          "author": null,
+          "description": "DAVID E. SANGER2026年4月21日 Kenny Holston/The New York Times\nPresident Trump views himself as the master of coercive diplomacy, forcing his opponents to capitulate quickly to American demands or face the threat of attack.\n特朗普总统自视为强制外交的大师，他认为可以迫使对手迅速屈服于美国的要求，否则就会面临遭到攻击的威胁。\nBut in dealing with Iran over the past six weeks, Mr. Trump has discovered that he is up against a nation that prides itself on resilience and delay. And never has that been more obvious than in recent days, when Mr. Trump has tried jawboning the Iranians by contending that they already surrendered — they “agreed to everything” he insisted on Friday, including turning over their “nuclear dust” — only to discover that patter doesn’t work with Iranian officials, who took to social media to declare he had made it all up.\n但在过去六…",
+          "link": "https://cn.nytimes.com/usa/20260421/us-iran-negotiation-style/dual",
+          "publishedOn": "2026-04-21T05:36:02.000Z",
+          "wordCount": 1468,
+          "title": "追求“大新闻”vs.打持久战：特朗普与伊朗的外交对峙",
+          "imageUrl": "https://static01.nyt.com/images/2026/04/20/multimedia/20DC-TRUMP-top-hbjv/20DC-TRUMP-top-hbjv-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/technology/20260421/apple-ceo-tim-cook-john-ternus/dual",
+          "author": null,
+          "description": "KALLEY HUANG, TRIPP MICKLE2026年4月21日\nNote: Apple named John Ternus as its next chief executive on April 20.\n注：苹果公司于4月20日任命约翰·特纳斯为下一任首席执行官。\nAround 2018, Apple considered adding a tiny laser to its iPhones. The part would allow consumers to take better photos, more accurately map their surroundings and use new augmented reality features. But it would also cost Apple about $40 per device, cutting into the company’s profits.\n2018年前后，苹果曾考虑为iPhone加装一款微型激光器。这个部件能让用户拍出更优质的照片、更精准地测绘周围环境，并使用全新的增强现实功能。但它也会让苹果每台设备的成本增加约40美元，从而压缩公司利润。\nJohn Ternus, Apple’s head of hardware engineering, suggested adding the component to only the more expensive Pro models of the iPhone, said two people familiar with the discussions who spoke on the condition of anonymity. Those devices, Mr. Ternus reasoned, tended to be p…",
+          "link": "https://cn.nytimes.com/technology/20260421/apple-ceo-tim-cook-john-ternus/dual",
+          "publishedOn": "2026-04-21T05:06:02.000Z",
+          "wordCount": 1594,
+          "title": "即将接管苹果帝国的特纳斯是谁？",
+          "imageUrl": "https://static01.nyt.com/images/2026/01/07/business/00apple-ternus-SUB/00apple-ternus-SUB-videoLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/asia-pacific/20260421/japan-weapons-arms-sale-nato/dual",
+          "author": null,
+          "description": "赫海威2026年4月21日2023年，一个日本海军陆战单位在日本德之岛参加演习。 Chang W. Lee/The New York Times\nThe Japanese government moved on Tuesday to allow the sale of more weapons abroad, in the latest shift away from pacifist policies imposed after World War II, as it grapples with rising security threats from China and a rapidly changing global order.\n日本政府周二决定放宽对向海外出售更多武器的限制，这是二战后摆脱和平主义政策的最新一步。目前日本正面临来自中国的日益加剧的安全威胁以及快速变化的全球秩序。\nPrime Minister Sanae Takaichi, at a cabinet meeting in Tokyo, reversed longstanding limits on the sale of Japan-made weapons overseas. The move comes days after Japan welcomed more than 30 NATO envoys for a visit meant to show stronger ties, and after Tokyo sealed a $6.5 billion deal to supply warships to Australia.\n在东京的一次内阁会议上，日本首相高市早苗取消了对日本制造武器海外销售的长期限制。这一举措是在日本接待30多位北约特使访问以展示更紧密关系几天后做出的，此前东京还与…",
+          "link": "https://cn.nytimes.com/asia-pacific/20260421/japan-weapons-arms-sale-nato/dual",
+          "publishedOn": "2026-04-21T04:36:02.000Z",
+          "wordCount": 1133,
+          "title": "日本解禁武器出口，进一步背离战后和平主义",
+          "imageUrl": "https://static01.nyt.com/images/2026/04/21/multimedia/21int-japan-security-bftw/21int-japan-security-bftw-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/technology/20260421/tim-cook-apple-ceo-steps-down/dual",
+          "author": null,
+          "description": "KALLEY HUANG, TRIPP MICKLE2026年4月21日蒂姆·库克于1998年加入苹果公司，在公司联合创始人史蒂夫·乔布斯手下担任首席运营官。 Jim Wilson/The New York Times\nTim Cook, Apple’s chief executive, said on Monday that he would step down after nearly 15 years running an operation that rode the wild popularity of the iPhone to become one of the most influential and valuable companies in the world.\n苹果公司首席执行官蒂姆·库克周一表示，他将在执掌公司近15年后卸任。在此期间，苹果凭借备受青睐的iPhone一跃成为全球最具影响力和价值的公司之一。\nMr. Cook, 65, will move into a new role as Apple’s executive chairman in September and be succeeded in the company’s corner office by John Ternus, the 50-year-old head of Apple’s hardware engineering.\n现年65岁的库克将于9月转任苹果执行董事长一职，首席执行官职位将由50岁的苹果硬件工程负责人约翰·特努斯接任。\nThe resignation of Mr. Cook will end one of the most successful management runs in the history of American business. Durin…",
+          "link": "https://cn.nytimes.com/technology/20260421/tim-cook-apple-ceo-steps-down/dual",
+          "publishedOn": "2026-04-21T02:36:01.000Z",
+          "wordCount": 1389,
+          "title": "库克将卸任苹果首席执行官",
+          "imageUrl": "https://static01.nyt.com/images/2025/12/30/business/cook-succession-hfo/cook-succession-hfo-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/world/20260421/facing-hard-liners-at-home-and-bluster-from-trump-iran-sends-mixed-signals-on-peace-talks/dual",
+          "author": null,
+          "description": "ERIKA SOLOMON2026年4月21日4月，德黑兰，一名女子走过一幅描绘伊朗导弹袭击美国军舰的壁画。 Arash Khamooshi for The New York Times\nIn private, Iranian officials say they’re preparing to resume peace talks with the United States. In public, however, they are far more wary, even pugnacious at times, as they blame the White House for putting diplomacy at risk.\n伊朗官员私下表示正准备恢复与美国的和平谈判。但在公开场合，他们的态度要谨慎得多，有时甚至显得咄咄逼人，指责白宫正在危及外交进程。\nOn Monday, Iran’s foreign ministry spokesman, Esmail Baghaei, refused to confirm if Iran would take part in a second round of peace talks in Islamabad this week. Asked about reports of a U.S. delegation planning to travel to Pakistan, Mr. Baghaei curtly called it “their own business.”\n周一，伊朗外交部发言人伊斯梅尔·巴盖伊拒绝证实伊朗是否会参加本周在伊斯兰堡举行的第二轮和谈。当被问及有关美国代表团计划前往巴基斯坦的报道时，巴盖伊简短生硬地称这是\"他们自己的事\"。\nIranian officials “do not see any s…",
+          "link": "https://cn.nytimes.com/world/20260421/facing-hard-liners-at-home-and-bluster-from-trump-iran-sends-mixed-signals-on-peace-talks/dual",
+          "publishedOn": "2026-04-21T02:06:01.000Z",
+          "wordCount": 959,
+          "title": "面临内外双重压力，伊朗就和谈发出矛盾信号",
+          "imageUrl": "https://static01.nyt.com/images/2026/04/20/multimedia/20israel-iran-rhetoric-01-vkzq/20israel-iran-rhetoric-01-vkzq-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/asia-pacific/20260421/asia-pacific-iran-war-oil/dual",
+          "author": null,
+          "description": "DAMIEN CAVE2026年4月21日上个月，在湄公河三角洲，一艘销售柴油的浮动加油站。由于伊朗战争，越南深受燃料成本上涨的冲击。 Linh Pham for The New York Times\nWhen the war in Iran started on Feb. 28, Asia expected to see serious, gradual impacts from losing access to a huge portion of the world’s oil and gas. But the conflict’s economic and social impacts have hit the region harder and faster than officials and experts expected.\n2月28日伊朗战争爆发后，随着全球很大一部分石油和天然气供应中断，亚洲已经预计会出现严重但逐步显现的影响。然而，这场冲突给该地区带来的经济和社会冲击的猛烈程度和速度都远超官员和专家的预期。\nMany countries across the Asia-Pacific are experiencing sudden jolts of disruption that they are struggling to manage, with some comparing the crisis’s breakdowns and scope to the Covid pandemic.\n亚太地区多国正遭遇突如其来的剧烈冲击，难以应对。有人将这场危机的破坏程度和波及范围与新冠疫情相提并论。\nEven if there is a peace deal soon, the future of this industrious region that has…",
+          "link": "https://cn.nytimes.com/asia-pacific/20260421/asia-pacific-iran-war-oil/dual",
+          "publishedOn": "2026-04-21T00:36:02.000Z",
+          "wordCount": 2087,
+          "title": "伊朗战争严重冲击亚太国家，危机或将迅速蔓延全球",
+          "imageUrl": "https://static01.nyt.com/images/2026/04/20/multimedia/20int-iran-asia-risks-qvpb/20int-iran-asia-risks-qvpb-articleLarge.jpg"
+        },
         {
           "id": "https://cn.nytimes.com/health/20260420/anxiety-sleep/dual",
           "author": null,
