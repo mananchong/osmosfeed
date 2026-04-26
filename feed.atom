@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mananchong.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-25T17:10:49.218Z</updated>
+    <updated>2026-04-26T08:43:05.863Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mananchong.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://mananchong.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[App+1 | 谈谈网页浏览器中的一个异类：qutebrowser]]></title>
+        <id>https://sspai.com/post/98931</id>
+        <link href="https://sspai.com/post/98931"/>
+        <updated>2026-04-26T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[对以键盘操作为优先的用户来说，一旦学会了如何退出Vim，可能不消多久，便想在肉眼可见之处使用Vim的这套模态编辑。多年来，不少软件都内置了Vim风格的按键绑定，来迎合这类用户的肌肉记忆。其中，更有一些 ...查看全文]]></summary>
+        <author>
+            <name>Cheech</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The SPLC Was Always Awful]]></title>
         <id>https://www.nationalreview.com/?p=1951766</id>
@@ -144,6 +154,33 @@
         <summary type="html"><![CDATA[波兰罗兹东方动物园（Orientarium Zoo）蝴蝶馆，一只蝴蝶停落在游客的掌心。4月24日，波兰罗兹东方动物园新建成的蝴蝶馆正式对公众开放。这是波兰境内最大的蝴蝶温室，馆内种植有棕榈树、香蕉树、龟背竹、龙血树、白掌等约50种热带植物，饲养着超过2000只不同品种的蝴蝶，包括来自亚洲和非洲的珍稀品种，游客可近距离观赏蝴蝶并观察蝶蛹破茧成蝶的过程。蝴蝶是鳞翅目中蝶类昆虫的统称，目前全世界已发现并记录的品种超过2万种。摄影师：Marian Zubrzycki]]></summary>
         <author>
             <name>波兰 · 罗兹</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一个失去挚爱的女性，用“融入自然”继续生活]]></title>
+        <id>85da154c437fbc1384b38d9e741c27f2</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E4%B8%80%E4%B8%AA%E5%A4%B1%E5%8E%BB%E6%8C%9A%E7%88%B1%E7%9A%84%E5%A5%B3%E6%80%A7%EF%BC%8C%E7%94%A8%E2%80%9C%E8%9E%8D%E5%85%A5%E8%87%AA%E7%84%B6%E2%80%9D%E7%BB%A7%E7%BB%AD%E7%94%9F%E6%B4%BB"/>
+        <updated>2026-04-25T01:54:00.000Z</updated>
+        <author>
+            <name>新京报书评周刊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《力量》：“居里夫人”为什么否认辐射给她带来的伤害？丨诗人读诗㊳]]></title>
+        <id>2d3c889a199a136ee5061a4ac10979b1</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E3%80%8A%E5%8A%9B%E9%87%8F%E3%80%8B%EF%BC%9A%E2%80%9C%E5%B1%85%E9%87%8C%E5%A4%AB%E4%BA%BA%E2%80%9D%E4%B8%BA%E4%BB%80%E4%B9%88%E5%90%A6%E8%AE%A4%E8%BE%90%E5%B0%84%E7%BB%99%E5%A5%B9%E5%B8%A6%E6%9D%A5%E7%9A%84%E4%BC%A4%E5%AE%B3%EF%BC%9F%E4%B8%A8%E8%AF%97%E4%BA%BA%E8%AF%BB%E8%AF%97%E3%8A%B3"/>
+        <updated>2026-04-25T01:54:00.000Z</updated>
+        <author>
+            <name>新京报书评周刊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我们的工作比过去轻松吗？关于人类身体与“人类世”的一些知识]]></title>
+        <id>5ffb09aea5bdaa4afde20e425c11fafa</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E6%88%91%E4%BB%AC%E7%9A%84%E5%B7%A5%E4%BD%9C%E6%AF%94%E8%BF%87%E5%8E%BB%E8%BD%BB%E6%9D%BE%E5%90%97%EF%BC%9F%E5%85%B3%E4%BA%8E%E4%BA%BA%E7%B1%BB%E8%BA%AB%E4%BD%93%E4%B8%8E%E2%80%9C%E4%BA%BA%E7%B1%BB%E4%B8%96%E2%80%9D%E7%9A%84%E4%B8%80%E4%BA%9B%E7%9F%A5%E8%AF%86"/>
+        <updated>2026-04-25T01:54:00.000Z</updated>
+        <author>
+            <name>新京报书评周刊</name>
         </author>
     </entry>
     <entry>
@@ -368,6 +405,24 @@ Tim Cook is ending his illustrious stint as chief executive of Apple. The soft-s
 But when one considers his role in the sweep of American history, his legacy grows more complicated, for much of …]]></summary>
         <author>
             <name>纽约时报双语版</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[活动邀约｜第六季“不一样的社会观察”恳谈会]]></title>
+        <id>f8d16e565d7ed79102b8eab4e9e3a4c8</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E6%B4%BB%E5%8A%A8%E9%82%80%E7%BA%A6%EF%BD%9C%E7%AC%AC%E5%85%AD%E5%AD%A3%E2%80%9C%E4%B8%8D%E4%B8%80%E6%A0%B7%E7%9A%84%E7%A4%BE%E4%BC%9A%E8%A7%82%E5%AF%9F%E2%80%9D%E6%81%B3%E8%B0%88%E4%BC%9A"/>
+        <updated>2026-04-24T02:33:00.000Z</updated>
+        <author>
+            <name>新京报书评周刊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“历史媒体人”杨津涛：从杂志编辑到互联网“厂民”]]></title>
+        <id>801734d451578419636f6e40cf8e6a7a</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E2%80%9C%E5%8E%86%E5%8F%B2%E5%AA%92%E4%BD%93%E4%BA%BA%E2%80%9D%E6%9D%A8%E6%B4%A5%E6%B6%9B%EF%BC%9A%E4%BB%8E%E6%9D%82%E5%BF%97%E7%BC%96%E8%BE%91%E5%88%B0%E4%BA%92%E8%81%94%E7%BD%91%E2%80%9C%E5%8E%82%E6%B0%91%E2%80%9D"/>
+        <updated>2026-04-24T02:33:00.000Z</updated>
+        <author>
+            <name>新京报书评周刊</name>
         </author>
     </entry>
     <entry>
@@ -6903,249 +6958,6 @@ Spotify 联合唱片公司向 Anna’s Archive 索赔三亿美元
         <updated>2026-03-28T01:52:00.000Z</updated>
         <author>
             <name>新京报书评周刊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Honor the Plumbers]]></title>
-        <id>https://www.nationalreview.com/?p=1936795</id>
-        <link href="https://www.nationalreview.com/2026/03/honor-the-plumbers/"/>
-        <updated>2026-03-27T18:40:50.000Z</updated>
-        <summary type="html"><![CDATA[That we now have a cabinet secretary who is a plumber is something to be welcomed rather than mocked.]]></summary>
-        <author>
-            <name>Rich Lowry</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My Criminal Conviction Is a Terrible Blow to Free Speech in Europe]]></title>
-        <id>https://www.nationalreview.com/?p=1936714</id>
-        <link href="https://www.nationalreview.com/2026/03/my-criminal-conviction-is-a-terrible-blow-to-free-speech-in-europe/"/>
-        <updated>2026-03-27T16:46:23.000Z</updated>
-        <summary type="html"><![CDATA[Because I wrote a church pamphlet decades ago, Finland’s Supreme Court has found me guilty of hate speech.]]></summary>
-        <author>
-            <name>Päivi Räsänen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Vulnerable Is America to an ‘Operation Spiderweb’ at Home? Very]]></title>
-        <id>https://www.nationalreview.com/?p=1936571</id>
-        <link href="https://www.nationalreview.com/2026/03/how-vulnerable-is-america-to-an-operation-spiderweb-at-home-very/"/>
-        <updated>2026-03-27T12:52:20.000Z</updated>
-        <summary type="html"><![CDATA[In an event not acknowledged until last week, Barksdale Air Force Base was targeted by ‘multiple waves’ of unmanned aerial vehicles in March.]]></summary>
-        <author>
-            <name>Noah Rothman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[California Jury Gets It Wrong on Social Media]]></title>
-        <id>https://www.nationalreview.com/?p=1936552</id>
-        <link href="https://www.nationalreview.com/2026/03/california-jury-gets-it-wrong-on-social-media/"/>
-        <updated>2026-03-27T12:25:19.000Z</updated>
-        <summary type="html"><![CDATA[Social media may be toxic for children, but it is up to legislatures to debate what to do about it.]]></summary>
-        <author>
-            <name>The Editors</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国宇航员太空行走 - March 27, 2026]]></title>
-        <id>idaily-248471</id>
-        <link href="https://m.idai.ly/se/51alGo"/>
-        <updated>2026-03-27T10:59:00.000Z</updated>
-        <summary type="html"><![CDATA[NASA 公布一张美国宇航员 Chris Williams 执行出舱任务的照片，国际空间站。3月18日，美国宇航员 Jessica Meir 和 Chris Williams 一同执行国际空间站2026年第1次太空行走任务，历时7小时2分钟，成功完成新太阳能电池阵列的电缆铺设任务。NASA 宇航员计划于4月初开展本年度第2次太空行走，主要任务目标包括安装机械臂相机的镜头盖、采集舱外微生物样本等。摄影师：Jack Hathaway]]></summary>
-        <author>
-            <name>国际空间站</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[联合国定性奴隶贸易反人类罪 - March 27, 2026]]></title>
-        <id>idaily-248468</id>
-        <link href="https://m.idai.ly/se/6a25u7"/>
-        <updated>2026-03-27T10:58:00.000Z</updated>
-        <summary type="html"><![CDATA[联合国大会通过谴责奴隶贸易的决议，美国纽约。3月25日，联合国大会以123票赞成、3票反对、52票弃权的表决结果通过一项历史性决议，将「贩卖被奴役非洲人和基于种族对非洲人进行物化奴役行为」定性为最严重的危害人类罪，并要求相关国家对历史罪行作出赔偿。美国、以色列和阿根廷3国在本次表决中投下反对票，英国及欧盟27个成员国均投下弃权票。16世纪初至18世纪末，约有1200万非洲人被贩卖至美洲沦为奴隶，超过200万人在途中丧生。摄影师：Cristina Matuozzi]]></summary>
-        <author>
-            <name>美国 · 纽约</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特朗普主持内阁会议 - March 27, 2026]]></title>
-        <id>idaily-248467</id>
-        <link href="https://m.idai.ly/se/6a69Fx"/>
-        <updated>2026-03-27T10:57:00.000Z</updated>
-        <summary type="html"><![CDATA[美国总统 Donald Trump 在白宫主持内阁会议，华盛顿特区。3月26日，美国总统 Trump 召开美以伊战争爆发后的首次内阁会议，他宣称美国和伊朗正在进行「非常实质性的谈判」，并称伊朗允许10艘油轮通过霍尔木兹海峡是表达诚意的「礼物」。当天 Trump 在社交媒体宣布将打击伊朗能源设施的期限再延10天。受中东紧张局势持续影响，美国股市遭遇美以伊战争爆发以来最大单日跌幅，道琼斯指数收跌-1.01%，标普500指数收跌-1.74%，纳斯达克指数收跌-2.38%。摄影师：Evelyn Hockstein]]></summary>
-        <author>
-            <name>美国 · 华盛顿特区</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[普京会见越南总理 - March 27, 2026]]></title>
-        <id>idaily-248466</id>
-        <link href="https://m.idai.ly/se/49eoUM"/>
-        <updated>2026-03-27T10:55:00.000Z</updated>
-        <summary type="html"><![CDATA[俄罗斯总统 Vladimir Putin 与越南总理范明政举行会晤，莫斯科。3月25日，俄总统 Putin 与越南总理范明政就双边关系、经贸合作、共同关心的地区和国际局势议题交换意见。双方同意进一步深化越俄全面战略伙伴关系，加强政治互信，促进经贸投资、军事技术、安全以及科技领域合作，在联合国和东盟等多边机制内保持密切配合与相互支持。Putin 强调越南始终是俄罗斯的可靠伙伴和朋友，范明政表示越南牢记并感激俄方在越方抗美战争以及国家建设中给予的支持。摄影师：Maxim Shipenkov]]></summary>
-        <author>
-            <name>俄罗斯 · 莫斯科</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[委内瑞拉总统再次出庭 - March 27, 2026]]></title>
-        <id>idaily-248465</id>
-        <link href="https://m.idai.ly/se/aa7p2N"/>
-        <updated>2026-03-27T10:53:00.000Z</updated>
-        <summary type="html"><![CDATA[纽约大都会拘留中心。3月26日，美国强行控制的委内瑞拉总统 Nicolas Maduro 在纽约南区联邦法院再次出庭，控辩双方就是否应允许 Maduro 夫妇使用委内瑞拉政府资金支付辩护费用展开辩论。辩方指出，美国政府冻结委内瑞拉公共资金导致其无法支付律师费，侵犯当事人的法定权利。检方则称 Maduro 夫妇有足够资金自行支付辩护费用。现年63岁的 Maduro 在纽约大都会拘留中心被关押已超过80天，目前面临美国司法部提出的毒品恐怖主义、走私可卡因等4项罪名指控，其中毒品恐怖主义一项最低可判20年监禁，最高可判终身监禁。摄影师：Leonardo Munoz]]></summary>
-        <author>
-            <name>美国 · 纽约</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本释放国家石油储备 - March 27, 2026]]></title>
-        <id>idaily-248464</id>
-        <link href="https://m.idai.ly/se/2ba34l"/>
-        <updated>2026-03-27T10:51:00.000Z</updated>
-        <summary type="html"><![CDATA[俯瞰日本爱媛县沿海的国家石油储备基地。3月26日，日本政府正式启动释放国家石油储备，计划至4月底从全国11个储备基地陆续释放共计约5300万桶石油，相当于日本全国约30天的消耗量，总价约为5400亿日元（约合33.7亿美元），折合每桶石油64美元。这批石油将由日本4家大型石油批发商承购后分销投放市场。日本政府内阁本周已批准将从预算应急储备金中拨款8000亿日元（约合50亿美元）用于应对中东局势紧张带来的石油价格上涨问题。摄影师：iDaily Media]]></summary>
-        <author>
-            <name>日本 · 爱媛县</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[巴西首架国产超音速战机 - March 27, 2026]]></title>
-        <id>idaily-248463</id>
-        <link href="https://m.idai.ly/se/3dfzFV"/>
-        <updated>2026-03-27T10:49:00.000Z</updated>
-        <summary type="html"><![CDATA[巴西航空工业有限公司举办「F-39E」超音速战斗机揭幕仪式，圣保罗州。3月25日，巴西第一架本土组装的瑞典超音速战斗机 F-39E「鹰狮」正式揭幕，标志该国成为第一个可制造超音速战机的拉美地区国家。这款超音速战机由瑞典萨博防务公司研发，巴西航空工业公司负责组装，具备空中加油能力，搭载先进电子战系统和航空电子系统，可执行防空、侦察和精准打击任务。根据巴西政府与瑞典萨博集团2014年签订的36架「鹰狮」战斗机采购合同，瑞方需向巴方进行技术转让并在巴西国内完成15架战机的制造工作。摄影师：Sebastiao Moreira]]></summary>
-        <author>
-            <name>巴西 · 圣保罗州</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[粤港澳狮子洋大桥封顶 - March 27, 2026]]></title>
-        <id>idaily-248461</id>
-        <link href="https://m.idai.ly/se/f27hjJ"/>
-        <updated>2026-03-27T10:47:00.000Z</updated>
-        <summary type="html"><![CDATA[世界最大跨径双层悬索桥「狮子洋大桥」主塔完成封顶，广州。3月26日，中国粤港澳大湾区核心枢纽工程「狮子洋大桥」实现东、西主塔封顶，后续将转入上部结构施工阶段。「狮子洋大桥」主跨2180米，塔高342米，采用上下双层16车道，主缆直径1.5米，锚碇基坑直径130米，面积相当于2个标准足球场，建成后将创造「主跨跨径、车道数量、主塔高度、锚碇直径、主缆直径」5项世界第一。摄影师：Chen Jimin]]></summary>
-        <author>
-            <name>中国 · 广州</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[巴黎小皇宫肖像艺术展 - March 27, 2026]]></title>
-        <id>idaily-248460</id>
-        <link href="https://m.idai.ly/se/bd8CPw"/>
-        <updated>2026-03-27T10:45:00.000Z</updated>
-        <summary type="html"><![CDATA[巴黎小皇宫举办「艺术家的面孔：从古斯塔夫·库尔贝到安妮特·梅萨热」特展，一幅瑞士印象派画家 Louise Catherine Breslau 绘画《在工作室里的让·卡里耶肖像》正在展出。本次展览聚焦19世纪肖像艺术，共展出约100件巴黎小皇宫馆藏的绘画、雕塑、版画、摄影和装饰艺术品，涵盖 Gustave Courbet、Frida Kahlo、Pablo Picasso、Annette Messager 等艺术家作品。展期持续至7月19日。摄影师：Riccardo Milani]]></summary>
-        <author>
-            <name>法国 · 巴黎</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jimmy Kimmel’s Grating Contempt for the Working Class]]></title>
-        <id>https://www.nationalreview.com/?p=1936258</id>
-        <link href="https://www.nationalreview.com/2026/03/jimmy-kimmels-grating-contempt-for-the-working-class/"/>
-        <updated>2026-03-27T10:30:55.000Z</updated>
-        <summary type="html"><![CDATA[His mockery of Markwayne Mullin was revealing.]]></summary>
-        <author>
-            <name>Caroline Downey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Keep Your Head When All About You Are Losing Theirs]]></title>
-        <id>https://www.nationalreview.com/?p=1935778</id>
-        <link href="https://www.nationalreview.com/2026/03/how-to-keep-your-head-when-all-about-you-are-losing-theirs/"/>
-        <updated>2026-03-27T10:30:48.000Z</updated>
-        <summary type="html"><![CDATA[We choose conservatism.]]></summary>
-        <author>
-            <name>Jeffrey Blehar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Week: The DHS Funding Crisis Continues]]></title>
-        <id>https://www.nationalreview.com/?p=1936348</id>
-        <link href="https://www.nationalreview.com/2026/03/the-week-the-dhs-funding-crisis-continues/"/>
-        <updated>2026-03-27T10:30:42.000Z</updated>
-        <summary type="html"><![CDATA[Plus: Code Pink’s Cuban expedition.]]></summary>
-        <author>
-            <name>NR Editors</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<i>Days and Nights</i> Remembers the Human Condition]]></title>
-        <id>https://www.nationalreview.com/?p=1935946</id>
-        <link href="https://www.nationalreview.com/2026/03/days-and-nights-remembers-the-human-condition/"/>
-        <updated>2026-03-27T10:30:32.000Z</updated>
-        <summary type="html"><![CDATA[Ray’s shrewd masterpiece corrects the identity-addled millennium.]]></summary>
-        <author>
-            <name>Armond White</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[本周看什么 | 最近值得一看的 12 部作品]]></title>
-        <id>https://sspai.com/post/107948</id>
-        <link href="https://sspai.com/post/107948"/>
-        <updated>2026-03-27T10:30:18.000Z</updated>
-        <summary type="html"><![CDATA[📅本周新预告《穹庐下的魔女》正式预告3月25日，TV动画《穹庐下的魔女》发布了首支正式预告，将于7月开始播出，6月在安纳西国际动画电影节首映。本作改编自同名漫画，山田尚子担任总导演，AbelGongo ...查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Revisiting the Buckley–Rothbard Feud]]></title>
-        <id>https://www.nationalreview.com/?p=1935382</id>
-        <link href="https://www.nationalreview.com/2026/03/revisiting-the-buckley-rothbard-feud/"/>
-        <updated>2026-03-27T10:30:14.000Z</updated>
-        <summary type="html"><![CDATA[Recent online spats point to a shift in conservative clashes over time from logos to pathos.]]></summary>
-        <author>
-            <name>Daniel J. Flynn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[伊朗僵局再次引发对特朗普“即兴外交”的质疑]]></title>
-        <id>https://cn.nytimes.com/usa/20260327/trump-iran-talks/dual</id>
-        <link href="https://cn.nytimes.com/usa/20260327/trump-iran-talks/dual"/>
-        <updated>2026-03-27T07:06:02.000Z</updated>
-        <summary type="html"><![CDATA[MICHAEL CROWLEY2026年3月27日
-President Trump’s war with Iran is testing the limits of his unorthodox diplomatic style as he grasps for a deal to end the conflict shaking the Middle East and the global economy.
-特朗普总统对伊朗的这场战争正在考验其非传统外交风格的极限，他正努力寻求达成一项协议，以结束这场撼动中东和全球经济的冲突。
-As the war stretches longer than Mr. Trump seems to have anticipated, he appears to be casting about for a diplomatic offramp even as he threatens to escalate the conflict.
-随着战争持续时间似乎超出了特朗普最初的预期，他似乎正在四处寻找外交出路，即使他同时也威胁要升级冲突。
-In a social media post on Thursday, Mr. Trump seemed confounded by the challenge, calling Iranian officials “very different and ‘strange’” and claiming that they were “begging” for a deal while insisting that they “better get serious soon.”
-在周四的一篇社交媒体帖子中，特朗普似乎对这一挑战颇为困惑，他称伊朗官员“非常不同且‘奇怪’”，并声称他们正在“乞求”达成协议，同时坚称…]]></summary>
-        <author>
-            <name>纽约时报双语版</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[共创 | 守护孩子的天马行空：《写给家长的幼儿美术启蒙指南》上线]]></title>
-        <id>https://sspai.com/post/107748</id>
-        <link href="https://sspai.com/post/107748"/>
-        <updated>2026-03-27T06:42:00.000Z</updated>
-        <summary type="html"><![CDATA[毕加索曾经在参观一个儿童画展时感叹道：我像他们这么大的时候，就能画得像拉斐尔一样好，但我花了一辈子才学会像孩子一样画画。这句感慨，意味着孩子的美术创作有着足以令现代艺术大师倾倒的魅力。这是因为，孩子未 ...查看全文]]></summary>
-        <author>
-            <name>谷丰</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[共创栏目试读 | 美术专业就能做好幼儿美育启蒙吗？]]></title>
-        <id>https://sspai.com/post/101488</id>
-        <link href="https://sspai.com/post/101488"/>
-        <updated>2026-03-27T06:37:02.000Z</updated>
-        <summary type="html"><![CDATA[按：本文是少数派共创栏目《写给家长的幼儿美术启蒙指南》的首篇文章。在共创模式下，我们鼓励少数派作者向我们提交创作提案和样稿，择优秀提案发布在少数派共创平台上，以便读者能更早获知教程上新动态。同时，我们 ...查看全文]]></summary>
-        <author>
-            <name>谷丰</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国如此富有，为何美国人却如此痛苦]]></title>
-        <id>https://cn.nytimes.com/opinion/20260327/economy-attitudes-republicans-democrats/dual</id>
-        <link href="https://cn.nytimes.com/opinion/20260327/economy-attitudes-republicans-democrats/dual"/>
-        <updated>2026-03-27T05:36:01.000Z</updated>
-        <summary type="html"><![CDATA[DAVID FRENCH2026年3月27日 George Douglas
-The American economy is the envy of the world.
-美国经济举世称羡。
-Actual Americans, however, are not happy about their economy, and they’ve been unhappy about it for a long time.
-但现实中的美国人却对他们的经济并不满意，而且这种不满已经持续了很长一段时间。
-Both of those statements are true, and until recently, frankly, they stumped me. How could it possibly be rational to feel such prolonged pessimism in the face of such extraordinary economic growth?
-这两种说法都没错。坦白说，直到最近，这都让我感到困惑。面对如此非凡的经济增长，为何会产生如此持久的悲观情绪，这怎么可能是理性的？
-Over the last quarter-century, G.D.P. growth in the United States has far outpaced growth in Europe and Japan, two of our primary economic competitors (outside of India and China), to such an extent that many of Europe’s most powerful nations have economies only as prosperous as those of …]]></summary>
-        <author>
-            <name>纽约时报双语版</name>
         </author>
     </entry>
 </feed>
