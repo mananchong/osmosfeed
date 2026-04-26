@@ -55,6 +55,56 @@
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
         {
+          "id": "https://www.nationalreview.com/?p=1950936",
+          "author": "Matt Fleming",
+          "description": "No, right-wing conspiracy theories are not to blame.",
+          "link": "https://www.nationalreview.com/2026/04/newsoms-19-million-ad-campaign-cant-polish-californias-image/",
+          "publishedOn": "2026-04-26T10:30:52.000Z",
+          "wordCount": 6639,
+          "title": "Newsom’s $19 Million Ad Campaign Can’t Polish California’s Image",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/04/gavin-newsom-book.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1949975",
+          "author": "Sarah Schutte",
+          "description": "Some helpful hints for personalizing your gift-book choices this year.",
+          "link": "https://www.nationalreview.com/2026/04/read-this-not-that-moms-grads-edition/",
+          "publishedOn": "2026-04-26T10:30:41.000Z",
+          "wordCount": 6225,
+          "title": "Read This, Not That, Moms & Grads Edition",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/04/choosing-a-book.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1951839",
+          "author": "John Gustavsson",
+          "description": "The rise of sexual abuse of the elderly in Sweden is a warning for the West.",
+          "link": "https://www.nationalreview.com/2026/04/model-immigrants-no-more-swedens-elderly-care-nightmare/",
+          "publishedOn": "2026-04-26T10:30:32.000Z",
+          "wordCount": 6094,
+          "title": "Model Immigrants No More: Sweden’s Elder Care Nightmare",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/04/homecare.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1950546",
+          "author": "James Lileks",
+          "description": "Today’s putrid-smelling marijuana shouldn’t be an ever-present part of life.",
+          "link": "https://www.nationalreview.com/2026/04/its-high-time-we-judged-the-smell-of-weed/",
+          "publishedOn": "2026-04-26T10:30:26.000Z",
+          "wordCount": 6661,
+          "title": "It’s High Time We Judged the Smell of Weed",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/04/420-day-marijuana.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1951704",
+          "author": "Becket Adams",
+          "description": "Skepticism about the case shouldn’t prevent newsrooms from simply reporting the news.",
+          "link": "https://www.nationalreview.com/2026/04/the-medias-herculean-effort-to-obscure-the-details-of-the-splc-indictment/",
+          "publishedOn": "2026-04-26T10:30:20.000Z",
+          "wordCount": 6933,
+          "title": "The Media’s Herculean Effort to Obscure the Details of the SPLC Indictment",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/04/doj-1.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
           "id": "https://www.nationalreview.com/?p=1951766",
           "author": "Abigail Anthony",
           "description": "No matter how the DOJ’s case against the organization turns out, it deserves to be shunned and marginalized.",
@@ -2650,26 +2700,6 @@
           "wordCount": 297,
           "title": "自制电子墨水屏，以及我用它来干了什么？",
           "imageUrl": null
-        },
-        {
-          "id": "https://sspai.com/post/107980",
-          "author": "bakamio",
-          "description": "我喜欢 Raycast，所以想为它写一份平易近人的入门指南，让大家都来用。查看全文",
-          "link": "https://sspai.com/post/107980",
-          "publishedOn": "2026-03-28T03:03:10.000Z",
-          "wordCount": 461,
-          "title": "写在 Raycast 2.0 前夜：一份不再过时的使用指南",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sspai.com/post/107843",
-          "author": "bakamio",
-          "description": "我们先来说说 macOS 自己的 Emoji 选择器。说实话它已经相当不错了。默认情况下，按快捷键 fn-E 或 ⌃Control-⌘Command-空格 就能唤起它，下方还能切换不同分类：\n\n不过，这里只能输入 Emoji。如果想查看更多字符，需要点击底部最右侧的图标，进入「字符检视器」。在这里，除了 Emoji 表情符号，还有标点符号、数学符号等更多字符。\n\n[......]\n查看全文\n本文为付费栏目文章，出自《59 分钟就上手 Raycast》，订阅后可阅读全文。",
-          "link": "https://sspai.com/post/107843",
-          "publishedOn": "2026-03-28T01:55:32.000Z",
-          "wordCount": 520,
-          "title": "付费栏目试读 | 词不达意想找表情？不妨试试 Raycast Emoji 选择器",
-          "imageUrl": null
         }
       ]
     },
@@ -2678,6 +2708,118 @@
       "feedUrl": "https://plink.anyfeeder.com/idaily/today",
       "siteUrl": "https://idai.ly",
       "articles": [
+        {
+          "id": "idaily-250226",
+          "author": "中国 · 兰州",
+          "description": "甘肃省首只人工圈养繁育的大熊猫幼崽「曼兰崽」与公众见面，兰州。4月25日，兰州野生动物园2025年9月出生的大熊猫「曼兰崽」正式开始独立向公众展示，每天不定时在室外展区与游客见面2次。这只雄性大熊猫幼崽的体重已从出生时的100余克增至17.5公斤，能够独立攀爬树干和追逐滚动的玩具。「曼兰崽」目前尚未断奶，后续将逐步过渡到以竹子为主食。摄影师：iDaily Media",
+          "link": "https://m.idai.ly/se/e4co3i",
+          "publishedOn": "2026-04-26T12:16:00.000Z",
+          "wordCount": 291,
+          "title": "大熊猫「曼兰崽」正式亮相 - April 26, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/32831d23fa/0d029292.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/32831d23fa/0d029292.jpg"
+        },
+        {
+          "id": "idaily-250225",
+          "author": "美国 · 华盛顿特区",
+          "description": "美国总统 Donald Trump 就白宫记者协会晚宴枪击事件发表讲话，华盛顿白宫。4月25日，白宫记者协会晚宴在美国华盛顿希尔顿酒店举行，现场一起突发枪击事件导致晚宴被迫暂停，美国总统 Trump 及第一夫人在特勤人员的护送下撤离返回白宫，涉案枪手当场被逮捕。美国执法部门公布信息显示，这名枪手为31岁加州居民 Cole Tomas Allen，毕业于加州大学并拥有计算机硕士学位，职业为独立游戏开发者和兼职辅导教师，无犯罪记录，被逮捕时携带散弹枪、手枪等多件武器。美国代理司法部长向媒体表示，初步调查结果显示这名枪手的袭击目标是政府官员并「很可能」包括总统本人。摄影师： Celal Gunes",
+          "link": "https://m.idai.ly/se/165WDu",
+          "publishedOn": "2026-04-26T11:59:00.000Z",
+          "wordCount": 291,
+          "title": "白宫记者协会晚宴枪击案 - April 26, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/928ee05e0d/edc6c356.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/928ee05e0d/edc6c356.jpg"
+        },
+        {
+          "id": "idaily-250220",
+          "author": "美国 · 华盛顿特区",
+          "description": "美国国务卿 Marco Rubio 与欧盟贸易专员 Maros Sefcovic 出席《美欧关键矿产合作备忘录》签署仪式，华盛顿特区。4月24日，美国与欧洲正式签署一份针对关键矿产领域的合作备忘录。这份备忘录旨在对抗中国在关键矿产的垄断性地位，具体内容包括制定价格基准、建立产业标准、强化研发合作、协调战略储备等，目标建立一个无依赖性的关键矿产供应体系。中国是全球最大的关键矿产生产及加工国，控制着全球约70%稀土提炼和90%以上精加工产能，目前美国80%和欧盟超过90%的稀土进口来自中国。摄影师：Jim Lo Scalzo",
+          "link": "https://m.idai.ly/se/13bHhc",
+          "publishedOn": "2026-04-26T11:57:00.000Z",
+          "wordCount": 291,
+          "title": "美欧关键矿产合作备忘录 - April 26, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/0689a3d984/bb0fe348.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/0689a3d984/bb0fe348.jpg"
+        },
+        {
+          "id": "idaily-250219",
+          "author": "巴基斯坦 · 伊斯兰堡",
+          "description": "巴基斯坦总理 Shehbaz Sharif 会见伊朗外交部长 Abbas Araghchi，伊斯兰堡。4月25日，美国总统 Donald Trump 在社交媒体宣布取消美国代表团赴巴基斯坦开展第二轮美伊和平谈判的行程，并宣称「伊朗政府内部斗争不断，没有人知道谁在掌权」。伊朗政府此前已明确表示不会在伊斯兰堡与美国代表团会面。美国财政部本周公布新一轮对伊制裁措施，包括冻结伊朗加密货币资产，以及将与伊朗石油贸易相关的19艘船只和20家实体列入制裁名单，受制裁实体中包括一家中国大型民营石油炼化企业。摄影师：Pakistan's Prime Minister Office",
+          "link": "https://m.idai.ly/se/e08mqq",
+          "publishedOn": "2026-04-26T11:55:00.000Z",
+          "wordCount": 291,
+          "title": "特朗普取消伊朗谈判行程 - April 26, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/f742054344/8c904a10.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/f742054344/8c904a10.jpg"
+        },
+        {
+          "id": "idaily-250218",
+          "author": "委内瑞拉 · 加拉加斯",
+          "description": "委内瑞拉代总统 Delcy Rodriguez 与哥伦比亚总统 Gustavo Petro 举行会晤，加拉加斯。4月24日，哥伦比亚总统 Petro 成为委内瑞拉总统马杜罗被美国抓捕后首位访问该国的外国领导人。两国首脑就边境安全、经贸和能源等议题举行约3小时会谈，会后宣布就合作打击边境贩毒组织达成一致，并将在移民、教育、文化、贸易、环境事务、健康和国防共7个领域展开合作。哥伦比亚与委内瑞拉共享约2200公里边境线。哥伦比亚曾在2019年因美国施压与委内瑞拉断交，现任总统 Petro 上任后于2022年与委内瑞拉重新建交。摄影师：Federico Parra",
+          "link": "https://m.idai.ly/se/468fPD",
+          "publishedOn": "2026-04-26T11:53:00.000Z",
+          "wordCount": 291,
+          "title": "哥伦比亚总统访问委内瑞拉 - April 26, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/370137683b/ccbe0110.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/370137683b/ccbe0110.jpg"
+        },
+        {
+          "id": "idaily-250217",
+          "author": "加沙地带 · 代尔拜莱赫",
+          "description": "加沙居民参加地方选举投票，代尔拜莱赫。4月25日，约旦河西岸及代尔拜莱赫市举行2023年加沙战争以来首次地方选举投票，本次选举共有5131名候选人竞选183个市镇的地方议会席位，哈马斯武装组织并未推出候选人。根据巴勒斯坦中央选举委员会公布数据，约旦河西岸地区约有100万人登记投票，加沙地带的代尔拜莱赫市约有7万人投票。摄影师：Haitham Imad",
+          "link": "https://m.idai.ly/se/6dcug6",
+          "publishedOn": "2026-04-26T11:51:00.000Z",
+          "wordCount": 291,
+          "title": "加沙地带举行地方选举 - April 26, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/6864ec6fa0/71105339.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/6864ec6fa0/71105339.jpg"
+        },
+        {
+          "id": "idaily-250216",
+          "author": "印度 · 新德里",
+          "description": "印度德里动物园，工作人员正在为一只大象冲凉消暑。4月25日，印度首都地区遭遇新一轮极端高温天气，新德里最高气温超过43°C，创下本年度迄今最高温纪录。印度德里动物园已全面启动夏季防暑降温措施，包括加装温度报警器、向动物提供冷水浴、洒水降温以及供应冰冻水果块等食物。印度气象局预测2026年6月全国大部分地区气温将高于正常水平，呼吁民众提前做好防范高温的准备。摄影师：Raj K Raj",
+          "link": "https://m.idai.ly/se/2b6oHP",
+          "publishedOn": "2026-04-26T11:49:00.000Z",
+          "wordCount": 291,
+          "title": "印度首都高温破43°C - April 26, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/0e276bf62b/2429134d.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/0e276bf62b/2429134d.jpg"
+        },
+        {
+          "id": "idaily-250215",
+          "author": "德国 · 柏林",
+          "description": "柏林新国家画廊举办「柏林 1910-1930：崩坏与奔波」特展，一幅德国表现主义画家 Ernst Ludwig Kirchner 1914年油画《波茨坦广场》正在展出。本次展览以第一次世界大战至纳粹上台前的柏林为主题，通过表现主义、达达主义、新客观主义等不同流派的35件作品，展示柏林在20世纪初快速发展时期的社会分化与极端矛盾。展期将持续至2027年1月3日。摄影师：John Macdougall",
+          "link": "https://m.idai.ly/se/d3ci11",
+          "publishedOn": "2026-04-26T11:47:00.000Z",
+          "wordCount": 291,
+          "title": "柏林新国家画廊特展 - April 26, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/e6137d1fe9/123035c8.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/e6137d1fe9/123035c8.jpg"
+        },
         {
           "id": "idaily-250180",
           "author": "意大利 · 米兰",
@@ -7150,46 +7292,6 @@
           "publishedOn": "2026-04-02T02:02:00.000Z",
           "wordCount": 295,
           "title": "这等事绝对不会发生在我身上？金融欺诈的六大迹象",
-          "imageUrl": null
-        },
-        {
-          "id": "0e3e294160d332bb570840f9b1fdf232",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E6%89%98%E5%B0%94%E6%96%AF%E6%B3%B0%E3%80%8A%E6%88%98%E4%BA%89%E4%B8%8E%E5%92%8C%E5%B9%B3%E3%80%8B%E4%B8%AD%E5%A8%9C%E5%A1%94%E8%8E%8E%E7%9A%84%E5%8E%9F%E5%9E%8B%E6%98%AF%E8%B0%81%EF%BC%9F",
-          "publishedOn": "2026-03-28T01:52:00.000Z",
-          "wordCount": 321,
-          "title": "托尔斯泰《战争与和平》中娜塔莎的原型是谁？",
-          "imageUrl": null
-        },
-        {
-          "id": "e68afa4d6b05235db3b80837a5c7dbde",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E4%BB%8E%E6%BC%94%E5%91%98%E5%88%B0%E5%86%99%E4%BD%9C%E8%80%85%EF%BC%8C%E8%8B%8F%E8%8F%B2%C2%B7%E7%8E%9B%E7%B4%A2%E8%AF%B4%E8%BF%99%E6%AC%A1%E7%9A%84%E8%87%AA%E5%B7%B1%E6%9C%89%E4%BA%86%E6%9B%B4%E5%A4%9A%E4%BF%A1%E5%BF%83",
-          "publishedOn": "2026-03-28T01:52:00.000Z",
-          "wordCount": 316,
-          "title": "从演员到写作者，苏菲·玛索说这次的自己有了更多信心",
-          "imageUrl": null
-        },
-        {
-          "id": "62d6da587fbe30d9ce31c0e32c9e761e",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E5%8F%B6%E8%8A%9D%EF%BC%9A%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C%E9%A3%8E%E9%9B%A8%E9%A3%98%E6%91%87%EF%BC%8C%E2%80%9C%E7%9B%B2%E7%9B%AE%E7%9A%84%E5%A4%84%E5%A3%AB%E2%80%9D%E4%BB%8D%E5%9C%A8%E5%9D%9A%E5%AE%88%E6%95%B2%E9%92%9F%E4%B8%A8%E8%AF%97%E4%BA%BA%E8%AF%BB%E8%AF%97%E3%89%9E",
-          "publishedOn": "2026-03-28T01:52:00.000Z",
-          "wordCount": 263,
-          "title": "叶芝：这个世界风雨飘摇，“盲目的处士”仍在坚守敲钟丨诗人读诗㉞",
-          "imageUrl": null
-        },
-        {
-          "id": "d2b3bf010476e7ed202b9848e2b0640f",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E6%96%B0%E4%BA%AC%E9%9B%85%E9%9B%86%E2%80%94%E2%80%94%E3%80%8A%E5%82%85%E4%BD%A9%E8%8D%A3%E8%AE%B2%E5%BA%84%E5%AD%90%E3%80%8B",
-          "publishedOn": "2026-03-28T01:52:00.000Z",
-          "wordCount": 262,
-          "title": "新京雅集——《傅佩荣讲庄子》",
           "imageUrl": null
         }
       ]
