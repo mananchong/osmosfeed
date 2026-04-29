@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mananchong.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-28T18:05:40.404Z</updated>
+    <updated>2026-04-29T09:34:13.523Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mananchong.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://mananchong.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[移动端 Agent 的井喷或许近在眼前：以 ColorOS 抛砖引玉]]></title>
+        <id>https://sspai.com/post/109062</id>
+        <link href="https://sspai.com/post/109062"/>
+        <updated>2026-04-29T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[我觉得手机 AI 再次爆发式发展的时间节点已经不远了，应用与安卓的底层权限开放像是 MCP，而基于自动操作的积木像是 Skills，配合不断增强的端侧模型，或许能让 GUI Agent 更进一步。查看全文]]></summary>
+        <author>
+            <name>Enc3lMag1k</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[先别一股脑扔进洗衣机：换季衣物洗护指南]]></title>
+        <id>https://sspai.com/post/60247</id>
+        <link href="https://sspai.com/post/60247"/>
+        <updated>2026-04-29T06:41:02.000Z</updated>
+        <summary type="html"><![CDATA[用心呵护自己的衣物，就从这个春天做起吧(๑•̀ㅂ•́)و✧查看全文]]></summary>
+        <author>
+            <name>包包呀嘿</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[众测｜邀你一同探索随身 AI 硬件入口 YoooClaw C·ONE]]></title>
+        <id>https://sspai.com/post/109207</id>
+        <link href="https://sspai.com/post/109207"/>
+        <updated>2026-04-29T03:34:17.000Z</updated>
+        <summary type="html"><![CDATA[现在AI工具正在从「能回答问题」逐渐走向「能替你完成事情」。我们不再只满足于打开一个App、输入一段提示词、等待一次回复，而是希望AI能理解我们的上下文，知道我们正在处理什么信息，并在合适的时候主动帮 ...查看全文]]></summary>
+        <author>
+            <name>福利派</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPad 赋能电影创作：国内首部宣纸手绘长片《燃比娃》的幕后故事]]></title>
+        <id>https://sspai.com/post/109188</id>
+        <link href="https://sspai.com/post/109188"/>
+        <updated>2026-04-29T02:27:20.000Z</updated>
+        <summary type="html"><![CDATA[《燃比娃》是由李文愉执导、上海电影(集团)有限公司及上海美术电影制片厂有限公司出品的动画电影，也是国内首部宣纸手绘动画长片。本片导演李文愉毕业于北京大学、硕士研究生学历，毕业后任教于四川大学艺术学院数 ...查看全文]]></summary>
+        <author>
+            <name>waychane</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：乐道 L80 发布、一加 Ace 6 至尊版发布等]]></title>
+        <id>https://sspai.com/post/109204</id>
+        <link href="https://sspai.com/post/109204"/>
+        <updated>2026-04-29T00:22:00.000Z</updated>
+        <summary type="html"><![CDATA[Valve 新一代 Steam 手柄宣布发售，中国联通发布「联通魔方」自选服务等。查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Indomitable Trump]]></title>
+        <id>https://www.nationalreview.com/?p=1953350</id>
+        <link href="https://www.nationalreview.com/2026/04/the-indomitable-trump/"/>
+        <updated>2026-04-28T19:24:21.000Z</updated>
+        <summary type="html"><![CDATA[No matter how much he’s mocked or hated, no matter how dramatic the situation, Trump never breaks or loses his sense of command.]]></summary>
+        <author>
+            <name>Rich Lowry</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Assassination Doomscroll]]></title>
         <id>https://www.nationalreview.com/?p=1953120</id>
@@ -6946,175 +7006,6 @@ The invitation to the leader of the Nationalist Party, Cheng Li-wun, could help 
         <summary type="html"><![CDATA[少数派的近期动态年度征文进入投票环节，本次征文设有#TeamSilicon（AI助力赛道）与#TeamCarbon（手工匠人赛道），快来分别选出你喜欢的作品。少数派全新付费栏目上架，一份不再过时的Ra ...查看全文]]></summary>
         <author>
             <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trump’s Base Will Have a Say on the War]]></title>
-        <id>https://www.nationalreview.com/?p=1937963</id>
-        <link href="https://www.nationalreview.com/2026/03/trumps-base-will-have-a-say-on-the-war/"/>
-        <updated>2026-03-30T19:18:02.000Z</updated>
-        <summary type="html"><![CDATA[While restrainers may not have won the debate about strikes on Iran, the president is still operating under the restraints of public opinion.]]></summary>
-        <author>
-            <name>Michael Brendan Dougherty</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[莫奈逝世100周年特展 - March 30, 2026]]></title>
-        <id>idaily-248689</id>
-        <link href="https://m.idai.ly/se/a8fWWn"/>
-        <updated>2026-03-30T10:59:00.000Z</updated>
-        <summary type="html"><![CDATA[法国吉维尼印象派博物馆举办「睡莲之前：莫奈眼中的吉维尼」特展，一幅法国印象派画家 Claude Monet 1886年油画《戴贝雷帽的自画像》正在展出，诺曼底大区。本次展览旨在纪念莫奈逝世100周年，聚焦1883年至1890年莫奈在吉维尼乡间的早年生活，共展出莫奈在吉维尼创作的约30幅画作，涵盖罂粟花、白杨树、草地、山丘、塞纳河畔等题材。展期持续至7月5日。摄影师：Eliot Blondet]]></summary>
-        <author>
-            <name>法国 · 吉维尼</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Progressives Give Wealth Confiscation Another Go]]></title>
-        <id>https://www.nationalreview.com/?p=1937532</id>
-        <link href="https://www.nationalreview.com/2026/03/progressives-give-wealth-confiscation-another-go/"/>
-        <updated>2026-03-30T10:30:33.000Z</updated>
-        <summary type="html"><![CDATA[Their proposed wealth taxes would be unjust and economically destructive — if they worked.]]></summary>
-        <author>
-            <name>The Editors</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gosnell Was Not the End of the Story]]></title>
-        <id>https://www.nationalreview.com/?p=1937546</id>
-        <link href="https://www.nationalreview.com/2026/03/gosnell-was-not-the-end-of-the-story/"/>
-        <updated>2026-03-30T10:30:13.000Z</updated>
-        <summary type="html"><![CDATA[The amazing grace of conversion.]]></summary>
-        <author>
-            <name>Kathryn Jean Lopez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Clash of Civilizations]]></title>
-        <id>https://www.nationalreview.com/?p=1937170</id>
-        <link href="https://www.nationalreview.com/2026/03/a-clash-of-civilizations/"/>
-        <updated>2026-03-30T10:30:11.000Z</updated>
-        <summary type="html"><![CDATA[As NR has documented for decades, the jihad never ceased.]]></summary>
-        <author>
-            <name>Andrew C. McCarthy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派评 | 近期值得关注的 App]]></title>
-        <id>https://sspai.com/post/108075</id>
-        <link href="https://sspai.com/post/108075"/>
-        <updated>2026-03-30T10:16:36.000Z</updated>
-        <summary type="html"><![CDATA[>下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特朗普透露白宫新宴会厅细节 - March 30, 2026]]></title>
-        <id>idaily-248686</id>
-        <link href="https://m.idai.ly/se/ef5B5d"/>
-        <updated>2026-03-30T09:58:00.000Z</updated>
-        <summary type="html"><![CDATA[美国总统 Donald Trump 在「空军一号」上向记者展示一张白宫东翼宴会厅扩建项目效果图，佛罗里达州。3月29日，美国总统 Trump 向记者表示白宫宴会厅的建造工程「进度超前并控制在预算内」，他宣称这座新宴会厅是一座庞大地下军事掩体的上层建筑，宴会厅本身将配备高规格防弹玻璃窗和防无人机的屋顶。根据美国白宫公布计划，白宫东翼新宴会厅占地面积为8361平方米，可容纳约1000名宾客，预计在2029年1月竣工启用。摄影师：Mark Schiefelbein]]></summary>
-        <author>
-            <name>美国 · 佛罗里达州</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全美爆发「不要国王」抗议 - March 30, 2026]]></title>
-        <id>idaily-248685</id>
-        <link href="https://m.idai.ly/se/e69ffl"/>
-        <updated>2026-03-30T08:57:00.000Z</updated>
-        <summary type="html"><![CDATA[纽约市民参加「不要国王」（No Kings）示威游行。3月28日，纽约、华盛顿特区、洛杉矶、亚特兰大等美国主要城市爆发超过3300场「不要国王」示威游行，超过800万人走上街头抗议美国总统 Donald Trump 的移民政策、经济政策以及发动战争行为。这是本届美国政府上任以来规模最大的一次抗议浪潮。路透社民调显示 Trump 目前支持率为36%，跌至任内最低水平，仅29%受访者认可 Trump 的经济政策，61%受访者反对美国对伊朗发起军事行动。摄影师：Takanori Yamamoto]]></summary>
-        <author>
-            <name>美国 · 纽约</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国登月火箭专用发射台 - March 30, 2026]]></title>
-        <id>idaily-248684</id>
-        <link href="https://m.idai.ly/se/9a5Nbo"/>
-        <updated>2026-03-30T08:55:00.000Z</updated>
-        <summary type="html"><![CDATA[中国「长征十号」运载火箭专用的301发射工位正在建设中，海南文昌航天发射场。这是中国载人登月任务的首个专用发射工位，主要设计用于发射长征十号系列火箭及梦舟载人飞船，发射塔架高约120米，配备单面双流道气动外形导流槽、喷淋系统、四级防腐避雷塔、智能化测发控系统等。该项目于2024年4月开工建设，目前逃逸塔总装测试厂房、火箭导流槽及避雷塔已完工，发射塔架、测试厂房及配套设施进入设备安装阶段，工位整体建设进度达到90%，预计2026年下半年完成所有建设。摄影师：iDaily Media]]></summary>
-        <author>
-            <name>中国 · 文昌</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中东局势冲击日本股市 - March 30, 2026]]></title>
-        <id>idaily-248683</id>
-        <link href="https://m.idai.ly/se/6f5g66"/>
-        <updated>2026-03-30T08:53:00.000Z</updated>
-        <summary type="html"><![CDATA[东京证券交易所屏幕上显示日经平均指数即时数据，日本。3月30日，日经指数盘中一度下跌逾2800点至50566.99点，创下2026年迄今最低点，当日收盘报51885.85点，跌幅-2.79%。本次日股大跌主要受中东局势紧张升温影响。日本10年期国债收益率已升至2.39%，创1999年2月以来新高。日元兑美元汇率在前一交易日跌至160:1历史低位。摄影师：Daisuke Urakami]]></summary>
-        <author>
-            <name>日本 · 东京</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[伊拉克民众捐款支持伊朗 - March 30, 2026]]></title>
-        <id>idaily-248682</id>
-        <link href="https://m.idai.ly/se/8803ex"/>
-        <updated>2026-03-30T08:51:00.000Z</updated>
-        <summary type="html"><![CDATA[伊拉克民众募款支持伊朗和黎巴嫩人民，巴比伦。3月27日，伊拉克民众响应什叶派伊斯兰教最高领袖 Grand Ayatollah Ali Sistani 的倡议，捐赠现金、金饰等贵重财物以支持伊朗和黎巴嫩人民，三天累计筹集募款超过1亿伊拉克第纳尔（约合7.6万美元）。伊朗现任最高领袖 Mojtaba Khamenei 发表书面声明，对伊拉克宗教领袖及人民在伊朗遭受侵略时表现出的明确立场和支持表示感谢。伊朗红新月会通报2月28日至今美以袭击造成该国至少1900人死亡，包括475名妇女和儿童。摄影师：Anmar Khalil]]></summary>
-        <author>
-            <name>伊拉克 · 巴比伦</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[朝鲜测试新型导弹发动机 - March 30, 2026]]></title>
-        <id>idaily-248681</id>
-        <link href="https://m.idai.ly/se/8b0dwm"/>
-        <updated>2026-03-30T08:49:00.000Z</updated>
-        <summary type="html"><![CDATA[朝鲜最高领导人金正恩观摩新型固体燃料发动机地面点火试验。3月29日，朝中社报道称朝鲜成功进行高推力固体燃料发动机点火试验，发动机最大推力达到2500千牛，比前一代高出约26%。韩国媒体推测该发动机可能用于朝鲜正在研发的「火星-20」型洲际弹道导弹。朝鲜领导人金正恩对试验结果表示满意，强调朝鲜的国防建设已进入重要的变革阶段，要求战略武力实现「保质保量」的跃升。摄影师：KCNA]]></summary>
-        <author>
-            <name>朝鲜</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[叶卡捷琳娜宫中国厅修复 - March 30, 2026]]></title>
-        <id>idaily-248679</id>
-        <link href="https://m.idai.ly/se/b3aA4z"/>
-        <updated>2026-03-30T08:47:00.000Z</updated>
-        <summary type="html"><![CDATA[俄罗斯叶卡捷琳娜宫举行中国厅修复工程的媒体预览活动，圣彼得堡。3月27日，俄罗斯皇村国家博物馆宣布叶卡捷琳娜宫中国厅的修复工程已进入最后安装阶段，预计2026年6月正式对外开放。叶卡捷琳娜宫中国厅建于18世纪，曾经是叶卡捷琳娜二世日常办公和会客的房间，大厅墙面装饰中式风格漆板，绘有道教神仙、亭台楼阁等装饰元素，面积近170平方米。叶卡捷琳娜宫中国厅在二战期间严重损毁，本次修复工程新安装的漆板由中方工匠耗时2年参照文物图像复原制作。摄影师：Anatoly Maltsev]]></summary>
-        <author>
-            <name>俄罗斯 · 圣彼得堡</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[消息称FBI调取民主党议员旧调查文件，涉疑似中国间谍]]></title>
-        <id>https://cn.nytimes.com/usa/20260330/trump-fbi-patel-eric-swalwell/dual</id>
-        <link href="https://cn.nytimes.com/usa/20260330/trump-fbi-patel-eric-swalwell/dual"/>
-        <updated>2026-03-30T08:06:02.000Z</updated>
-        <summary type="html"><![CDATA[黄安伟, DEVLIN BARRETT2026年3月30日
-Trump administration officials have ordered F.B.I. agents to gather documents about a decade-old investigation into a Democratic congressman and his ties to a suspected Chinese spy, according to people familiar with the matter.
-据知情人士透露，特朗普政府官员已下令联邦调查局特工调取一份十余年前的调查案卷，该案卷涉及一名民主党众议员及其与一名涉嫌为中国间谍的女子的关联。
-The effort has alarmed law enforcement officials who said they feared the material could be released publicly to smear the lawmaker, Representative Eric Swalwell, a prominent critic of President Trump who is now running for governor of California.
-此举引发了执法部门官员的警惕。他们表示，担心这些材料可能被公之于众，用以抹黑这位议员——埃里克·斯沃韦尔。他是特朗普总统的知名批评者，目前正在竞选加利福尼亚州州长。
-The investigation dates from more than a decade ago, when F.B.I. counterintelligence agents looked into a Chinese woman, Christine Fang, or…]]></summary>
-        <author>
-            <name>纽约时报双语版</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[浏览器扩展合集：派友近期推荐的 6 款浏览器扩展]]></title>
-        <id>https://sspai.com/post/108047</id>
-        <link href="https://sspai.com/post/108047"/>
-        <updated>2026-03-30T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[本期介绍 6 款浏览器扩展插件——如果你也有好的扩展插件，欢迎在评论留言或向 Matrix 社区投稿，我们将不定期收录并在首页推送。查看全文]]></summary>
-        <author>
-            <name>克莱德</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国放行俄罗斯油轮，古巴获得能源“救命稻草”]]></title>
-        <id>https://cn.nytimes.com/world/20260330/cuba-russian-oil-tanlker/dual</id>
-        <link href="https://cn.nytimes.com/world/20260330/cuba-russian-oil-tanlker/dual"/>
-        <updated>2026-03-30T06:06:01.000Z</updated>
-        <summary type="html"><![CDATA[JACK NICAS, ERIC SCHMITT2026年3月30日本月哈瓦那发生停电时的情景。 Adalberto Roque/Agence France-Presse — Getty Images
-The United States Coast Guard is allowing a Russian tanker full of crude oil to reach Cuba, delivering a critical supply of energy to the island nation after months of an effective oil blockade by the Trump administration, according to a U.S. official briefed on the matter.
-据一名知情美国官员透露，美国海岸警卫队将放行一艘满载原油的俄罗斯油轮驶入古巴。在特朗普政府实施了长达数月的实质性石油封锁后，这艘油轮将为这个岛国输送关键的能源补给。
-The tanker, which is carrying an estimated 730,000 barrels of oil and is owned by the Russian government, was within several miles of Cuban territorial waters on Sunday evening, according to MarineTraffic, a ship-data provider. At its speed of 12 knots, the tanker could reach its expected destination of Matanzas, Cuba, by Monday night.
-船舶数…]]></summary>
-        <author>
-            <name>纽约时报双语版</name>
         </author>
     </entry>
 </feed>
