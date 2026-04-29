@@ -55,6 +55,66 @@
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
         {
+          "id": "https://www.nationalreview.com/?p=1953988",
+          "author": "Charles C. W. Cooke",
+          "description": "What is to be gained by railing against them?",
+          "link": "https://www.nationalreview.com/2026/04/hatred-of-data-centers-is-irrational-and-self-defeating/",
+          "publishedOn": "2026-04-29T17:14:21.000Z",
+          "wordCount": 6775,
+          "title": "Hatred of Data Centers Is Irrational and Self-Defeating",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/04/IMG_5802.jpeg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1953936",
+          "author": "The Editors",
+          "description": "The DOJ’s latest case against the former FBI director is even more absurd than the last one.",
+          "link": "https://www.nationalreview.com/2026/04/86-the-comey-indictment/",
+          "publishedOn": "2026-04-29T15:43:03.000Z",
+          "wordCount": 6356,
+          "title": "86 the Comey Indictment",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/04/doj-2.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1953155",
+          "author": "Jianli Yang",
+          "description": "Xi is pursuing unification not merely through military preparation — but also through calibrated political warfare.",
+          "link": "https://www.nationalreview.com/2026/04/humiliation-and-handshakes-beijings-play-for-taiwan-becomes-clearer/",
+          "publishedOn": "2026-04-29T10:30:44.000Z",
+          "wordCount": 7195,
+          "title": "Handshakes and Humiliation: Beijing’s Play for Taiwan Becomes Clearer",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/04/xi-jinping-cheng-li-wun-1.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1953384",
+          "author": "The Editors",
+          "description": "His Melania joke was crass, but Washington shouldn’t police what’s said by late-night comics.",
+          "link": "https://www.nationalreview.com/2026/04/jimmy-kimmel-being-unfunny-isnt-a-matter-for-government/",
+          "publishedOn": "2026-04-29T10:30:27.000Z",
+          "wordCount": 6297,
+          "title": "Jimmy Kimmel Being Unfunny Isn’t a Matter for Government",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/04/jimmy-kimmel-peoples-choice-awards.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1953541",
+          "author": "John R. Puri",
+          "description": "One redistributes buying power; the other limits what consumers can use it for.",
+          "link": "https://www.nationalreview.com/2026/04/how-inflation-and-tariffs-impoverish-people-differently/",
+          "publishedOn": "2026-04-29T10:30:21.000Z",
+          "wordCount": 6228,
+          "title": "How Inflation and Tariffs Impoverish People Differently",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/02/grocery-store-shopper.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1953279",
+          "author": "Armond White",
+          "description": "A biographical drama takes on responsible speech.",
+          "link": "https://www.nationalreview.com/2026/04/sympathy-vs-facts-in-i-swear/",
+          "publishedOn": "2026-04-29T10:30:02.000Z",
+          "wordCount": 6509,
+          "title": "Sympathy vs. Facts in <i>I Swear</i>",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/04/i-swear.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
           "id": "https://www.nationalreview.com/?p=1953350",
           "author": "Rich Lowry",
           "description": "No matter how much he’s mocked or hated, no matter how dramatic the situation, Trump never breaks or loses his sense of command.",
@@ -2780,26 +2840,6 @@
           "wordCount": 405,
           "title": "一日一技 | 如何正确进行 vivo Log 的色彩空间转换",
           "imageUrl": null
-        },
-        {
-          "id": "https://sspai.com/post/108027",
-          "author": "太空小孩",
-          "description": "如果只有 3 分钟紧急撤离，这两个逃生包能帮我活过 72 小时查看全文",
-          "link": "https://sspai.com/post/108027",
-          "publishedOn": "2026-03-31T03:31:02.000Z",
-          "wordCount": 697,
-          "title": "不用可以先收藏 | 有备无患：我的逃生包和生存盒都装了啥？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sspai.com/post/108088",
-          "author": "少数派编辑部",
-          "description": "少数派的近期动态年度征文进入投票环节，本次征文设有#TeamSilicon（AI助力赛道）与#TeamCarbon（手工匠人赛道），快来分别选出你喜欢的作品。少数派全新付费栏目上架，一份不再过时的Ra ...查看全文",
-          "link": "https://sspai.com/post/108088",
-          "publishedOn": "2026-03-31T00:19:31.000Z",
-          "wordCount": 685,
-          "title": "派早报：vivo 举办 vivo X 系列春季新品发布会等",
-          "imageUrl": null
         }
       ]
     },
@@ -2808,6 +2848,118 @@
       "feedUrl": "https://plink.anyfeeder.com/idaily/today",
       "siteUrl": "https://idai.ly",
       "articles": [
+        {
+          "id": "idaily-250447",
+          "author": "美国 · 佛罗里达州",
+          "description": "美国联合发射联盟「宇宙神5号」火箭搭载亚马逊公司新一批互联网卫星发射升空，卡纳维拉尔角。4月27日，「宇宙神5号」火箭成功将亚马逊「Leo」低轨互联网卫星星座的第10批29颗组网卫星送入近地轨道，这批卫星载荷总重达18吨，创下该型号火箭迄今最重发射载荷纪录。亚马逊公司「Leo」卫星星座在轨卫星总数已增至270颗，目标在2028年7月前部署完成1618颗，最终规模达到3236颗。摄影师：Joe Marino",
+          "link": "https://m.idai.ly/se/18abUU",
+          "publishedOn": "2026-04-29T10:59:00.000Z",
+          "wordCount": 261,
+          "title": "宇宙神5号发射亚马逊卫星 - April 29, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/f85c53a896/e762b9ba.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/f85c53a896/e762b9ba.jpg"
+        },
+        {
+          "id": "idaily-250446",
+          "author": "美国 · 华盛顿特区",
+          "description": "英国国王查尔斯三世向美国国会发表演讲，华盛顿特区。4月28日，英国国王查尔斯三世成为继女王伊丽莎白二世之后第2位受邀在美国国会发表演讲的英国君主。英王查尔斯三世在长约20分钟演讲中围绕英美关系、俄乌冲突、自然保护等议题进行阐述，他强调英美两国拥有「共同的民主、法律和社会传统」以及「牢不可破的关系纽带」，呼吁美国与盟友国家一同面对当今世界的巨大挑战。美国总统 Donald Trump 并未出席本次演讲活动。摄影师：Kylie Cooper",
+          "link": "https://m.idai.ly/se/18eJ7n",
+          "publishedOn": "2026-04-29T10:58:00.000Z",
+          "wordCount": 261,
+          "title": "英王美国国会演讲 - April 29, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/c9164d8bc7/64332707.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/c9164d8bc7/64332707.jpg"
+        },
+        {
+          "id": "idaily-250444",
+          "author": "英国 · 伦敦",
+          "description": "英国动物保护人士在议会大厦外举行「反对动物试验」抗议活动，伦敦。4月24日是联合国认定的「世界实验动物日」，该节日由英国反活体解剖协会（NAVS）于1979年发起，旨在呼吁减少和停止不必要的动物实验，倡导科学、人道地对待实验动物。英国内政部数据显示2024年英国有超过255万只动物被用于科学实验，涉及物种包括老鼠、鱼、兔子、狗、猫、猴子和马。英国政府计划在2035年前逐步淘汰动物实验，并拨款7500万英镑支持替代方法的研发与推广。摄影师：Andy Rain",
+          "link": "https://m.idai.ly/se/1e1h65",
+          "publishedOn": "2026-04-29T10:57:00.000Z",
+          "wordCount": 261,
+          "title": "英国反动物试验抗议 - April 29, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/514a67a2d4/2bcd8134.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/514a67a2d4/2bcd8134.jpg"
+        },
+        {
+          "id": "idaily-250443",
+          "author": "巴基斯坦 · 白沙瓦",
+          "description": "巴基斯坦女性在职业培训中心学习缝纫课程，白沙瓦。这个非营利组织开设的职业培训中心旨在帮助无业女性获得劳动技能，目前开设课程包括英语、计算机、电工、缝纫、手机维修等。根据世界经济论坛发布的《2025年全球性别差距指数》，巴基斯坦女性劳动参与率仅16.3%，仅13%女性拥有银行账户，高等教育女性的失业率接近24%，女性担任部长级职务的比例为0%，总体性别平等得分仅56.7%，在148个国家中排名垫底。摄影师：Bilawal Arbab",
+          "link": "https://m.idai.ly/se/3d7iR0",
+          "publishedOn": "2026-04-29T10:55:00.000Z",
+          "wordCount": 261,
+          "title": "巴基斯坦女性就业困境 - April 29, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/7636f87c5a/ea2c3e9c.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/7636f87c5a/ea2c3e9c.jpg"
+        },
+        {
+          "id": "idaily-250442",
+          "author": "日本 · 岩手县",
+          "description": "日本东北部岩手县山火产生的浓烟升至高空，大槌町。4月28日，日本岩手县大槌町山火持续蔓延一周，迄今累计过火面积达到1633公顷，为日本30多年来过火面积第二大的山火，共造成8栋建筑受损。来自日本各地的逾1000名消防员及自卫队成员参与灭火行动，目前火势基本得到控制。大槌町已对超过3200人发布避难指示，约占全町人口的三分之一。摄影师：iDaily Media",
+          "link": "https://m.idai.ly/se/b586dB",
+          "publishedOn": "2026-04-29T10:53:00.000Z",
+          "wordCount": 261,
+          "title": "日本岩手县山火扑灭 - April 29, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/054dde2de4/64f46fb8.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/054dde2de4/64f46fb8.jpg"
+        },
+        {
+          "id": "idaily-250441",
+          "author": "印度尼西亚 · 勿加泗",
+          "description": "印尼勿加泗市火车站列车严重相撞事故现场。4月28日，印尼政府通报西爪哇省勿加泗市列车相撞事故确认造成15人死亡、88人受伤，事故现场搜救行动已经结束。初步调查显示，本次事故发生于4月27日晚上20时50分，起因是一辆出租车在公路与铁路交道口突然抛锚，导致一列开往雅加达的通勤列车无法正常通行，最终与后方驶来的长途列车追尾撞击。印尼总统 Prabowo Subianto 下令彻查事故原因，并承诺取缔全国所有公路与铁路的平交道口。摄影师：Mast Irham",
+          "link": "https://m.idai.ly/se/259b3i",
+          "publishedOn": "2026-04-29T10:51:00.000Z",
+          "wordCount": 261,
+          "title": "印尼严重列车相撞事故 - April 29, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/1b6b814768/0acd5b45.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/1b6b814768/0acd5b45.jpg"
+        },
+        {
+          "id": "idaily-250440",
+          "author": "中国 · 北京",
+          "description": "中国国家自然博物馆举办「霸王龙 T-REX：恐龙之王」特展，北京。4月28日，中国国家自然博物馆的霸王龙特展正式开幕，本次展览共计展出100余件化石和复原模型，亮点展品包括自德国阿尔特姆恐龙博物馆馆藏的北美霸王龙「洛基」和「蕾蒂娜」骨架化石，以及中国本土发现的中国龙、永川龙、帝龙、羽王龙、虔州龙、诸城暴龙等暴龙类恐龙化石。这是北美地区出土的霸王龙化石首次在中国大陆展出，亦是中国暴龙类家族成员最完整的一次集体亮相，展期将持续至10月11日。摄影师：iDaily Media",
+          "link": "https://m.idai.ly/se/f850Um",
+          "publishedOn": "2026-04-29T10:49:00.000Z",
+          "wordCount": 261,
+          "title": "中国国家自然博物馆霸王龙特展 - April 29, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/9a85ee3b7b/bc88231a.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/9a85ee3b7b/bc88231a.jpg"
+        },
+        {
+          "id": "idaily-250439",
+          "author": "俄罗斯 · 莫斯科",
+          "description": "莫斯科动物园的大熊猫在室外场地啃竹子。4月29日，莫斯科动物园迎来大熊猫「如意」和「丁丁」入住7周年。这对大熊猫于2019年4月29日抵达莫斯科开启15年旅居生活，2023年8月24日诞下首只俄罗斯境内繁育的大熊猫「喀秋莎」。莫斯科动物园已宣布将在2026年内为「喀秋莎」建造独立新馆舍。根据中俄大熊猫租借协议，「喀秋莎」预计将在4岁时返回中国。摄影师：Alisa Makarova",
+          "link": "https://m.idai.ly/se/2a0t1z",
+          "publishedOn": "2026-04-29T10:47:00.000Z",
+          "wordCount": 261,
+          "title": "旅俄大熊猫7周年 - April 29, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/43218e490d/77f4b724.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/43218e490d/77f4b724.jpg"
+        },
         {
           "id": "idaily-250358",
           "author": "室女座",
@@ -6804,56 +6956,6 @@
           "wordCount": 1155,
           "title": "伊朗战争导致全球氦气供应短缺，威胁芯片行业",
           "imageUrl": "https://static01.nyt.com/images/2026/03/25/multimedia/Biz-Chips-Helium-01-vfgz/Biz-Chips-Helium-01-vfgz-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/world/20260331/russian-oil-tanker-cuba/dual",
-          "author": null,
-          "description": "EMMA BUBOLA, DAVID C. ADAMS2026年3月31日这是上周拍摄的一张卫星图像，显示了位于古巴西北部马坦萨斯湾入口处的港口和石油码头。 Planet Labs\nA Russian tanker full of crude oil approached Cuba on Monday, and the Trump administration said it would allow the fuel delivery, after months of a de facto U.S. oil blockade that has helped plunge the energy-starved nation into a humanitarian crisis.\n周一，一艘满载原油的俄罗斯油轮驶近古巴，特朗普政府表示将放行这批燃油交付。此前美国实施了长达数月的事实上的石油封锁，已让这个能源匮乏的国家陷入人道主义危机。\nThe tanker, which is carrying an estimated 730,000 barrels of oil, was skirting the northern Cuban coastline and approaching its destination of Matanzas on Monday morning, according to MarineTraffic, a ship-data provider.\n船舶数据提供商MarineTraffic的数据显示，这艘载油量约73万桶的油轮于周一早晨沿着古巴北部海岸线航行，正驶向目的地马坦萨斯港。\nThe fuel shortage has crippled essential services, including Cuba’s health care system.…",
-          "link": "https://cn.nytimes.com/world/20260331/russian-oil-tanker-cuba/dual",
-          "publishedOn": "2026-03-31T05:06:02.000Z",
-          "wordCount": 1067,
-          "title": "美国为何放行俄罗斯油轮、停止对古巴的石油封锁？",
-          "imageUrl": "https://static01.nyt.com/images/2026/03/30/multimedia/30int-Cuba-US-explainer-czpg/30int-Cuba-US-explainer-czpg-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/usa/20260331/us-missile-strike-iran-sports-hall-school/dual",
-          "author": null,
-          "description": "JOHN ISMAY2026年3月31日\nA new Army weapon emerged from relative obscurity after one struck a sports hall and school in southern Iran early in the U.S.-Israeli war, according to weapons experts and a visual analysis by The New York Times.\n据武器专家以及《纽约时报》所做的影像分析，在美以发动对伊朗战争的初期，一种此前鲜为人知的陆军武器在伊朗南部击中了一座体育馆和一所学校，由此进入公众视野。\nLocal officials cited in Iranian media said the strike and others nearby killed at least 21 people, including young girls playing volleyball.\n伊朗媒体援引本国官员的话称，此次袭击及附近的其他袭击共造成至少21人死亡，其中包括一些正在打排球的年轻女孩。\nThat weapon is the Precision Strike Missile, or PrSM (pronounced like “prism”). The PrSM is barely out of the prototype phase, and the Army has not yet created an entry for it in the military’s supply system or given it an official nomenclature — much less disclosed details like its maximum…",
-          "link": "https://cn.nytimes.com/usa/20260331/us-missile-strike-iran-sports-hall-school/dual",
-          "publishedOn": "2026-03-31T04:06:02.000Z",
-          "wordCount": 1001,
-          "title": "击中伊朗体育馆的美国陆军新型武器是什么？",
-          "imageUrl": "https://static01.nyt.com/images/2026/03/28/video/30dc-missile-explainer01/28lemard-prsm-03-articleLarge.png"
-        },
-        {
-          "id": "https://cn.nytimes.com/china/20260331/china-artist-gao-trial/dual",
-          "author": null,
-          "description": "郭莉莉2026年3月31日高兟（左）、弟弟高强与他们创作的作品《忏悔》合影，摄于2009年， Shiho Fukada for The New York Times\nA Chinese artist known for his provocative and irreverent sculptures of Mao Zedong is facing trial on suspicion of slandering the country’s heroes in a case underlining how little criticism is allowed under China’s leader, Xi Jinping.\n一位中国艺术家因创作带有挑衅性和戏谑意味的毛泽东雕塑而面临审判，他被指控侵害英雄烈士名誉。这一案件凸显出，中国领导人习近平治下的批评空间何其有限。\nThe trial of Gao Zhen, 69, was set to begin Monday at the Sanhe City People’s Court in Hebei Province, according to his wife. Mr. Gao, who has been in detention for more than a year and a half, faces up to three years in prison if convicted. The trial will not be open to the public, a measure that under Chinese law is largely reserved for cases that touch on national security.\n据其妻透露，现年69岁的高兟于周一在河北省三河市人民法院…",
-          "link": "https://cn.nytimes.com/china/20260331/china-artist-gao-trial/dual",
-          "publishedOn": "2026-03-31T03:06:01.000Z",
-          "wordCount": 1047,
-          "title": "艺术家高兟因讽刺毛泽东接受不公开庭审",
-          "imageUrl": "https://static01.nyt.com/images/2026/03/30/multimedia/30int-china-artist-trial-01-fvhz/30int-china-artist-trial-01-fvhz-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/world/20260331/iran-leaders-trump-war/dual",
-          "author": null,
-          "description": "JULIAN E. BARNES, ADAM GOLDMAN, RONEN BERGMAN2026年3月31日许多伊朗高级领导人及其副手已遇害，幸存者则难以进行沟通。 Arash Khamooshi for The New York Times\nThe U.S.-Israeli war against Iran has fractured the Iranian government, complicating its ability to make decisions and coordinate larger retaliatory attacks, according to officials familiar with U.S. and Western intelligence assessments.\n据了解美国及西方情报评估的官员透露，美以对伊朗发动的战争已导致伊朗政府体系出现分裂，其决策能力、协调大规模报复性袭击的能力均受到严重影响。\nSeveral dozen Iranian leaders and their deputies have been killed since the war began four weeks ago. Those who survive have had difficulty communicating and are unable to meet in person, for fear of having their calls intercepted by the United States or Israel and being targeted in an airstrike.\n自四周前战争爆发以来，已有数十名伊朗高层官员及其副手丧生。幸存的官员难以开展正常沟通，也无法当面会晤，因为他们担心通话会被美以两国截听，进而成…",
-          "link": "https://cn.nytimes.com/world/20260331/iran-leaders-trump-war/dual",
-          "publishedOn": "2026-03-31T02:36:02.000Z",
-          "wordCount": 1157,
-          "title": "美国官员称伊朗政府体系分裂，协调能力严重受限",
-          "imageUrl": "https://static01.nyt.com/images/2026/03/30/multimedia/30dc-intel-01-mhtc/30dc-intel-01-mhtc-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/china/20260331/china-xi-taiwan-cheng/dual",
-          "author": null,
-          "description": "储百亮, AMY CHANG CHIEN2026年3月31日国民党主席郑丽文，去年11月摄于其台北办公室。 Lam Yik Fei for The New York Times\nAs he prepares for a summit with President Trump, China’s leader, Xi Jinping, has invited the chairwoman of Taiwan’s main opposition party for a rare visit aimed at countering Washington’s influence, and arms sales, through a show of good will toward the island.\n中国领导人习近平在准备与特朗普总统举行峰会之际，邀请台湾主要在野党主席进行一次罕见访问，此举旨在通过对台展示善意，来抵消华盛顿的影响力及对台军售。\nThe invitation to the leader of the Nationalist Party, Cheng Li-wun, could help Mr. Xi bolster his argument to Mr. Trump that the United States should curtail weapons sales to Taiwan, the democratically governed island that China claims as its territory. Mr. Xi could also highlight Ms. Cheng’s visit next week to show that Beijing is willing to talk to some high-level Taiw…",
-          "link": "https://cn.nytimes.com/china/20260331/china-xi-taiwan-cheng/dual",
-          "publishedOn": "2026-03-31T00:36:02.000Z",
-          "wordCount": 1077,
-          "title": "“习特会”前，习近平邀请国民党主席郑丽文来访",
-          "imageUrl": "https://static01.nyt.com/images/2026/03/30/multimedia/30int-china-taiwan-01-kfwm/30int-china-taiwan-01-kfwm-articleLarge.jpg"
         }
       ]
     },
