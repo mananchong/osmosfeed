@@ -55,6 +55,66 @@
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
         {
+          "id": "https://www.nationalreview.com/?p=1954111",
+          "author": "The Editors",
+          "description": "The Supreme Court rightly puts an end to the routine use of racial segregation in drawing legislative districts.",
+          "link": "https://www.nationalreview.com/2026/04/a-righteous-blow-against-racial-gerrymandering/",
+          "publishedOn": "2026-04-30T10:30:49.000Z",
+          "wordCount": 6954,
+          "title": "A Righteous Blow Against Racial Gerrymandering",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/04/supreme-court-statue.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1954056",
+          "author": "Brian T. Allen",
+          "description": "The 23rd president’s house museum in Indianapolis combines history and peak preservation.",
+          "link": "https://www.nationalreview.com/2026/04/walk-in-benjamin-harrisons-footsteps-for-gilded-age-glam/",
+          "publishedOn": "2026-04-30T10:30:41.000Z",
+          "wordCount": 8637,
+          "title": "Walk in Benjamin Harrison’s Footsteps for Gilded Age Glam",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/04/benjamin.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1954136",
+          "author": "Christian Schneider",
+          "description": "Progressives keep trying to invent new words to freshen up old-school socialism.",
+          "link": "https://www.nationalreview.com/2026/04/microlooting-the-lefts-latest-language-deception/",
+          "publishedOn": "2026-04-30T10:30:36.000Z",
+          "wordCount": 6161,
+          "title": "‘Microlooting’: The Left’s Latest Language Deception",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/04/hasan-piker.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1953539",
+          "author": "Jim Thorne",
+          "description": "If Trump’s strategy of peace through strength works, the result could be a new peace dividend.",
+          "link": "https://www.nationalreview.com/2026/04/the-new-great-game-the-true-significance-of-the-hormuz-struggle/",
+          "publishedOn": "2026-04-30T10:30:12.000Z",
+          "wordCount": 7134,
+          "title": "The New Great Game: The True Significance of the Hormuz Struggle",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/04/uss-rafael-peralta-tanker.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1954114",
+          "author": "Jacki Karsh",
+          "description": "Iran is the major architect of the coordinated upsurge in incidents targeting Jews.",
+          "link": "https://www.nationalreview.com/2026/04/antisemitism-isnt-random/",
+          "publishedOn": "2026-04-30T10:30:05.000Z",
+          "wordCount": 7128,
+          "title": "Antisemitism Isn’t Random",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/04/iran-israel-flag-burning.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1954229",
+          "author": "Rich Lowry",
+          "description": "The MAGA true believers who have gone full Bulwark.",
+          "link": "https://www.nationalreview.com/2026/04/the-new-never-trumpers/",
+          "publishedOn": "2026-04-30T10:30:02.000Z",
+          "wordCount": 15530,
+          "title": "The New Never Trumpers",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/04/TuckerSohrab.jpg?fit=1200%2C700&ssl=1"
+        },
+        {
           "id": "https://www.nationalreview.com/?p=1953988",
           "author": "Charles C. W. Cooke",
           "description": "What is to be gained by railing against them?",
@@ -1802,6 +1862,16 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/109257",
+          "author": "板斧",
+          "description": "假期预防无聊，先来找点玩的。查看全文",
+          "link": "https://sspai.com/post/109257",
+          "publishedOn": "2026-04-30T09:30:00.000Z",
+          "wordCount": 348,
+          "title": "本月玩什么｜朋友收藏、识质存在、沙罗周期",
+          "imageUrl": null
+        },
+        {
           "id": "https://sspai.com/post/88452",
           "author": "Vanilla",
           "description": "五一假期将至，我相信有很多派友们都会抓住难得的长假机会，策划一场期盼许久的旅行。曾几何时，我们出门旅游时要带上相机、纸质地图、旅行攻略（比如说LonelyPlanet）、纸质车票、钱包、现金等一堆东西 ...查看全文",
@@ -2770,16 +2840,6 @@
           "wordCount": 840,
           "title": "Agent 的家：如何在 AI 时代搭建硬件基座",
           "imageUrl": null
-        },
-        {
-          "id": "https://sspai.com/post/108133",
-          "author": "少数派编辑部",
-          "description": "索尼将继续上调 PlayStation Plus 订阅价格，微软确认将为 Windows 11 开发纯原生系统应用等。查看全文",
-          "link": "https://sspai.com/post/108133",
-          "publishedOn": "2026-04-01T00:08:31.000Z",
-          "wordCount": 659,
-          "title": "派早报：Claude Code 源码意外泄露、OpenAI 获 1220 亿美元融资等",
-          "imageUrl": null
         }
       ]
     },
@@ -2788,6 +2848,118 @@
       "feedUrl": "https://plink.anyfeeder.com/idaily/today",
       "siteUrl": "https://idai.ly",
       "articles": [
+        {
+          "id": "idaily-250526",
+          "author": "德国 · 珀尔岛",
+          "description": "德国波罗的海沿岸的搁浅座头鲸被驳船运往北海放归，费马恩岛。4月28日，德国民间救援团队历时一周挖出一条长110米、宽10米、深2米的水渠，成功将这只搁浅超过1个月的座头鲸引入一艘注满海水的驳船，准备将其送往数百公里外的北海深水区域放归，预计运送时间将持续3天。这只年轻的雄性座头鲸于3月23日被发现搁浅，德国政府部门发起的多轮营救均告失败，最终由2名德国企业家出资组织的民间救援团队营救成功。这只鲸鱼因长期在浅水区搁浅而出现皮肤损伤，海洋专家指出其放归深海后的存活几率并不乐观。摄影师：Philip Dulian",
+          "link": "https://m.idai.ly/se/16a9GP",
+          "publishedOn": "2026-04-30T10:59:00.000Z",
+          "wordCount": 268,
+          "title": "德国搁浅座头鲸营救成功 - April 30, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/8c4cb593cb/0c969f9d.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/8c4cb593cb/0c969f9d.jpg"
+        },
+        {
+          "id": "idaily-250522",
+          "author": "美国 · 佛罗里达州",
+          "description": "SpaceX 猎鹰重型火箭搭载一颗巨型通信卫星发射升空，卡纳维拉尔角。4月27日，猎鹰重型火箭成功将「ViaSat-3 F3」通信卫星送入距地面3.5万公里的地球同步轨道。这颗卫星是美国 Viasat 公司新一代卫星星座的第3颗亦是最后一颗组网卫星，单颗卫星重达6吨，采用Ka频段宽带通信技术，能够为亚太地区提供超过1TB每秒的高速网络连接，预计2026年内正式投入使用。这是猎鹰重型火箭自2018年以来第12次发射任务，发射成功率达100%。摄影师：Michael Cain Jr.",
+          "link": "https://m.idai.ly/se/ce9TBo",
+          "publishedOn": "2026-04-30T09:58:00.000Z",
+          "wordCount": 268,
+          "title": "猎鹰重型火箭发射通信卫星 - April 30, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/e849d99c88/8538895a.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/e849d99c88/8538895a.jpg"
+        },
+        {
+          "id": "idaily-250521",
+          "author": "美国 · 华盛顿特区",
+          "description": "美联储主席 Jerome Powell 出席任内最后一次新闻发布会，华盛顿特区。4月29日，美联储宣布联邦基准利率维持在3.5%-3.75%区间不变。这是美联储自2025年12月以来连续第3次暂停降息，符合市场预期。美联储决议声明指出，当前美国经济稳步扩张，就业增长依然缓慢，失业率基本持平，通胀率处于高位，中东局势的发展加剧了经济前景的高度不确定性。美联储本次利率决议投票结果为8:4，出现1992年以来最大分歧。美国总统 Donald Trump 提名的下一任美联储主席人选 Kevin Warsh 预计于5月15日正式上任。摄影师：Gent Shkullaku",
+          "link": "https://m.idai.ly/se/f2c73W",
+          "publishedOn": "2026-04-30T08:57:00.000Z",
+          "wordCount": 268,
+          "title": "美联储维持利率不变 - April 30, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/2bfa5ce27e/93d61069.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/2bfa5ce27e/93d61069.jpg"
+        },
+        {
+          "id": "idaily-250520",
+          "author": "美国 · 华盛顿特区",
+          "description": "美国战争部长 Pete Hegseth 出席众议院军事委员会听证会，华盛顿特区。4月29日，美国战争部长 Hegseth 自美以伊战争爆发以来首次在国会接受质询，他在质询中披露美国对伊朗军事行动的投入耗资已超过250亿美元，大部分用于弹药消耗和装备补充。美国白宫向国会提交的2027财年国防预算申请总额达1.5万亿美元，同比增长42%，相当于 GDP 的4.5%，其中大部分新增预算用于购买和投资武器装备，包括投入1020亿美元用于战斗机采购和研发，750亿美元发展无人机和反无人机技术，650亿美元采购34艘军舰等。摄影师：Saul Loeb",
+          "link": "https://m.idai.ly/se/194zQi",
+          "publishedOn": "2026-04-30T08:55:00.000Z",
+          "wordCount": 268,
+          "title": "美伊战争耗费破250亿美元 - April 30, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/0b6de05da7/d471edbf.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/0b6de05da7/d471edbf.jpg"
+        },
+        {
+          "id": "idaily-250518",
+          "author": "俄罗斯 · 莫斯科",
+          "description": "俄罗斯总统 Vladimir Putin 与刚果（布）共和国总统 Denis Sassou Nguesso 举行会晤，莫斯科。4月28日，刚果（布）总统 Nguesso 应邀对俄罗斯进行为期5天国事访问。两国领导人就双边关系、经贸合作等议题交换意见。俄总统 Putin 祝贺 Nguesso 成功赢得第5个总统任期，指出两国在地质勘探、能源、物流、农业等领域都具有良好发展前景。Nguesso 表示刚果新政府将积极落实两国联合计划，期待10月出席在莫斯科举办的第3届俄非峰会。2025年俄刚双边贸易额达到2.8亿美元，俄罗斯主要向刚果出口采矿设备、发电机和农业机械，刚果（布）主要向俄出口咖啡、水果、木材、宝石和金属原料。摄影师：Alexander Zemlianichenko",
+          "link": "https://m.idai.ly/se/7c851r",
+          "publishedOn": "2026-04-30T08:53:00.000Z",
+          "wordCount": 268,
+          "title": "刚果（布）总统访问俄罗斯 - April 30, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/968085807f/09f7db0f.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/968085807f/09f7db0f.jpg"
+        },
+        {
+          "id": "idaily-250517",
+          "author": "巴西 · 巴西利亚",
+          "description": "巴西总统 Luiz Inacio Lula da Silva 展示正式批准欧盟-南共市自贸协定的总统令，巴西利亚。4月28日，巴西总统 Lula 正式签署总统令批准欧盟-南共市自贸协定于5月1日起在巴西实施。欧盟-南共市自贸协定历经逾25年谈判，生效后将形成全球最大的自贸区之一，覆盖超过7亿人口，GDP 总量占全球约30%。该协定将取消欧盟-南共市之间超过90%的商品关税，制定工业和农产品贸易的共同规则，为彼此商品进入对方市场提供便利。摄影师：Evaristo Sa",
+          "link": "https://m.idai.ly/se/49cD36",
+          "publishedOn": "2026-04-30T08:51:00.000Z",
+          "wordCount": 268,
+          "title": "巴西批准欧盟-南共市自贸协定 - April 30, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/fad33a0294/534d4368.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/fad33a0294/534d4368.jpg"
+        },
+        {
+          "id": "idaily-250516",
+          "author": "韩国 · 牙山",
+          "description": "韩国总统李在明向朝鲜忠武公李舜臣将军祠堂献香，牙山市。4月28日，韩国总统李在明出席朝鲜抗日名将李舜臣诞辰481周年纪念仪式，这是继已故前总统金泳三之后，韩国现任总统首次出席该活动。李在明在致辞中表示，当前韩国面临的处境「堪比倭乱时期」，现任政府将以李舜臣将军的精神为指引，以国民团结为动力，竭尽全力克服国家危机。最新民调显示李在明施政好评率达62.2%，差评率为33.4%。摄影师：iDaily Media",
+          "link": "https://m.idai.ly/se/57aAMM",
+          "publishedOn": "2026-04-30T08:49:00.000Z",
+          "wordCount": 268,
+          "title": "李在明参拜抗倭名将 - April 30, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/ce7364f171/621472c3.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/ce7364f171/621472c3.jpg"
+        },
+        {
+          "id": "idaily-250515",
+          "author": "印度尼西亚 · 班达亚齐",
+          "description": "一名印度尼西亚渔民正在割下一只鲨鱼的背鳍，班达亚齐。印尼是全球最大的鲨鱼捕捞国和鱼翅出口国，每年鲨鱼捕捞量超过10万吨，占全球总捕捞量的13%。鲨鱼保护基金会（SCF）发布报告指出，全球每年约1亿条鲨鱼和鳐鱼因人类食用而被捕杀。鲨鱼和鳐鱼是世界上最受威胁的动物群体之一，自20世纪70年代以来数量下降-70%，近三分之一物种面临灭绝。摄影师：Hotli Simanjuntak",
+          "link": "https://m.idai.ly/se/9efLs7",
+          "publishedOn": "2026-04-30T08:47:00.000Z",
+          "wordCount": 268,
+          "title": "印尼鱼翅贸易威胁鲨鱼 - April 30, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/390fd26ad1/9282316d.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/390fd26ad1/9282316d.jpg"
+        },
         {
           "id": "idaily-250447",
           "author": "美国 · 佛罗里达州",
@@ -6758,36 +6930,6 @@
           "wordCount": 1227,
           "title": "特朗普为何积极推动美国“重返月球”",
           "imageUrl": "https://static01.nyt.com/images/2026/03/31/multimedia/00dc-trump-space-01-cjfp/00dc-trump-space-01-cjfp-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/world/20260401/russia-putin-telegram-internet/dual",
-          "author": null,
-          "description": "PAUL SONNE, VALERIE HOPKINS, OLEG MATSNEV2026年4月1日在乌克兰战争持续的四年间，俄罗斯日益加剧的种种压制手段中，几乎没有哪一项像互联网限制举措那样影响到如此多的人。 Alexander Zemlianichenko/Associated Press\nWhen a fire broke out in March in a shopping center a few minutes’ walk from the Kremlin, one of Russia’s scrappy Telegram news channels sent a reporter to the scene.\n3月，克里姆林宫步行几分钟外的一家购物中心发生火灾时，俄罗斯一家以敢拼著称的Telegram新闻频道派了一名记者赶赴现场。\nThere was one problem. Mobile data was completely down in the center of Moscow, and Telegram, the most popular app in the country, was being throttled.\n但出现了一个问题。莫斯科市中心的移动数据完全中断，而该国最流行的应用程序Telegram也被限流。\n“It was like 1997,” said Sergei Titov, the editor of the channel, Ostorozhno Novosti, who recounted how the reporter, unable to send photos or videos, called the outlet’s landline to narrate — “three fire engines, two amb…",
-          "link": "https://cn.nytimes.com/world/20260401/russia-putin-telegram-internet/dual",
-          "publishedOn": "2026-04-01T04:36:02.000Z",
-          "wordCount": 1840,
-          "title": "普京强化互联网管控，俄罗斯转向伊朗模式？",
-          "imageUrl": "https://static01.nyt.com/images/2026/03/26/multimedia/00int-russia-internet-06-wfjq/00int-russia-internet-06-wfjq-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/usa/20260401/trump-regime-change-iran/dual",
-          "author": null,
-          "description": "黄安伟2026年4月1日国防部长皮特·海格塞斯在周二的新闻发布会上表示：“由于政权更迭，这个新政权应该比上一个政权更明智。” Eric Lee for The New York Times\nRegime change has occurred in Iran. Or it hasn’t. It is a goal of the war. Except it isn’t.\n伊朗已经发生了政权更迭。又或者根本没有。这是这场战争的目标。可又并非如此。\nThose are some of the dizzying messages that have come from President Trump and his aides in recent days. The phrase “regime change” has flown from lips this week like fighter jets crisscrossing the Persian Gulf.\n这些都是特朗普总统及其幕僚近几日放出的表态，令人无所适从。本周，“政权更迭”这个词从他们口中频频冒出，犹如波斯湾上空往来穿梭的战斗机。\nBut there appears to be disagreement among top administration officials on what the phrase means, or whether the United States and Israel have achieved it in four weeks of war against Iran.\n但关于这个词的真正含义以及美以两国在对伊朗开战的四周里是否实现了这一目标，美国政府高层官员之间显然存在分歧。\nDefense Secretary Pete Hegseth made an unequivoca…",
-          "link": "https://cn.nytimes.com/usa/20260401/trump-regime-change-iran/dual",
-          "publishedOn": "2026-04-01T03:06:01.000Z",
-          "wordCount": 1330,
-          "title": "特朗普真的实现了伊朗“政权更迭”吗？",
-          "imageUrl": "https://static01.nyt.com/images/2026/03/31/multimedia/31dc-regine-change-01-bjhk/31dc-regine-change-01-bjhk-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/asia-pacific/20260401/senators-taiwan-military/dual",
-          "author": null,
-          "description": "储百亮2026年4月1日周一，访问台湾的参议员在台湾桃园的一个研究所。（从左至右：新罕布什尔州民主党参议员珍妮·夏欣、犹他州共和党参议员约翰·柯蒂斯、北卡罗来纳州共和党参议员汤姆·蒂利斯和内华达州民主党参议员杰基·罗森） Ann Wang/Reuters\nFor the last few months, a plan by President Lai Ching-te of Taiwan to increase military spending by $40 billion over eight years has been held up by his political rivals. This week, a bipartisan group of U.S. senators used a visit to Taiwan to throw their support behind the plan, which is seen as a building block for easing concerns in Washington about Taiwan’s commitment to its own defense.\n过去几个月来，台湾总统赖清德提出的八年内追加1.25万亿新台币（约合400亿美元）的国防预算计划一直遭到政治对手的阻挠。本周，一个由美国两党参议员组成的代表团利用访台机会表达了对该计划的支持。该预算计划被视为缓解华盛顿方面对台湾自身防务承诺担忧的关键基石。\nThe two Republican and two Democratic members of the Senate Foreign Relations Committee also tried to demonstrate U.S. commitment to the island at …",
-          "link": "https://cn.nytimes.com/asia-pacific/20260401/senators-taiwan-military/dual",
-          "publishedOn": "2026-04-01T01:06:02.000Z",
-          "wordCount": 1054,
-          "title": "美国参议员敦促台湾增加军费开支，北京表示抗议",
-          "imageUrl": "https://static01.nyt.com/images/2026/03/31/multimedia/31int-taiwan-US-senators-wthc/31int-taiwan-US-senators-wthc-articleLarge.jpg"
         }
       ]
     },
