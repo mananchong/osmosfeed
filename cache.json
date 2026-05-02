@@ -55,6 +55,26 @@
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
         {
+          "id": "https://www.nationalreview.com/?p=1955408",
+          "author": "Rich Lowry",
+          "description": "There’s no doubt that the beginning of wisdom in U.S. energy policy was ‘drill, baby, drill.’",
+          "link": "https://www.nationalreview.com/2026/05/the-u-s-energy-triumph/",
+          "publishedOn": "2026-05-01T19:41:42.000Z",
+          "wordCount": 6431,
+          "title": "The U.S. Energy Triumph",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/05/energy.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1955375",
+          "author": "Noah Rothman",
+          "description": "Graham Platner is just one example.",
+          "link": "https://www.nationalreview.com/2026/05/the-islamic-revolutions-red-green-alliance-comes-to-america/",
+          "publishedOn": "2026-05-01T18:47:18.000Z",
+          "wordCount": 15306,
+          "title": "The Islamic Revolution’s ‘Red-Green Alliance’ Comes to America",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/05/platner-red-green.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
           "id": "https://www.nationalreview.com/?p=1954984",
           "author": "NR Editors",
           "description": "Plus: Hasan Piker’s criminal fantasies.",
@@ -1793,56 +1813,6 @@
           "wordCount": 5953,
           "title": "President Trump Was Playing for Time in His Iran Speech",
           "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/04/trump-iran-speech-3.jpg?fit=1200%2C700&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1939852",
-          "author": "Elliott Abrams",
-          "description": "President Trump could have done a better job assuaging the concerns of the American public on Iran.",
-          "link": "https://www.nationalreview.com/2026/04/the-presidents-not-so-reassuring-iran-address/",
-          "publishedOn": "2026-04-02T15:27:27.000Z",
-          "wordCount": 5828,
-          "title": "The President’s Not-So-Reassuring Iran Address",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/04/donald-trump-address-040126-2.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1939418",
-          "author": "Christian Schneider",
-          "description": "A comedian introduces a new color-coded politics.",
-          "link": "https://www.nationalreview.com/2026/04/what-color-is-your-conservatism/",
-          "publishedOn": "2026-04-02T10:30:41.000Z",
-          "wordCount": 5695,
-          "title": "What Color Is Your Conservatism?",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/04/julio-torres.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1939280",
-          "author": "Brian T. Allen",
-          "description": "So much happened in his eight years in office, but why is his presidential center so vacuous?",
-          "link": "https://www.nationalreview.com/2026/04/a-visit-to-the-george-w-bush-presidential-center/",
-          "publishedOn": "2026-04-02T10:30:31.000Z",
-          "wordCount": 8646,
-          "title": "A Visit to the George W. Bush Presidential Center",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/04/bush-Bob-Beckwith.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1939143",
-          "author": "Colleen Shogan",
-          "description": "The installation of the Emancipation Proclamation and the 19th Amendment helps give visitors a more complete view of what America is all about.",
-          "link": "https://www.nationalreview.com/2026/04/the-rotunda-tells-americas-story-its-time-to-tell-more-of-it/",
-          "publishedOn": "2026-04-02T10:30:11.000Z",
-          "wordCount": 6793,
-          "title": "The Rotunda Tells America’s Story. It’s Time to Tell More of It",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/04/national-archives-rotunda.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1938518",
-          "author": "John Gustavsson",
-          "description": "With the upcoming Hungarian election, the EU runs the risk of overplaying its hand against the current prime minister.",
-          "link": "https://www.nationalreview.com/2026/04/is-this-really-orbans-last-stand/",
-          "publishedOn": "2026-04-02T10:30:07.000Z",
-          "wordCount": 7282,
-          "title": "Is This Really Orbán’s Last Stand?",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/04/viktor-orban.jpg?fit=1200%2C700&ssl=1"
         }
       ]
     },
@@ -2779,26 +2749,6 @@
           "publishedOn": "2026-04-03T00:39:38.000Z",
           "wordCount": 471,
           "title": "派早报：Google 发布 Gemma 4 开源系列模型、智谱发布 GLM-5V-Turbo 多模态模型等",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sspai.com/post/108202",
-          "author": "老麦",
-          "description": "「2050大会」是国内科技圈里一个非常独特的存在。这是由中国工程院院士、阿里云创始人王坚博士，通过杭州市云栖科技创新基金会，发起的一项非营利科技活动。每年4月最后一个完整周末，来自世界各地的科技爱好者 ...查看全文",
-          "link": "https://sspai.com/post/108202",
-          "publishedOn": "2026-04-02T10:26:36.000Z",
-          "wordCount": 243,
-          "title": "汇聚热爱，「2050 大会」少数派线下活动邀请你来参与",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sspai.com/post/108197",
-          "author": "少数派编辑部",
-          "description": "假作真时真亦假，明天晚上就放假。查看全文",
-          "link": "https://sspai.com/post/108197",
-          "publishedOn": "2026-04-02T08:33:54.000Z",
-          "wordCount": 629,
-          "title": "派晚报：2026 年愚人节产品大赏",
           "imageUrl": null
         }
       ]
@@ -5663,118 +5613,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://pic.yupoo.com/fotomag/b1d34327/8ce2ca5a.jpg"
-        },
-        {
-          "id": "idaily-248886",
-          "author": "美国 · 佛罗里达州",
-          "description": "「阿尔忒弥斯2号」任务火箭发射升空，肯尼迪航天中心。4月1日18时35分，NASA 太空发射系统火箭首次执行载人绕月飞行任务，发射约8分钟后火箭与飞船成功分离，24分钟后猎户座飞船完全展开太阳能电池阵列翼。猎户座飞船目前已成功完成近地点和远地点机动变轨操作，预计飞行23个小时后进入地月转移轨道，4天后抵达月球轨道，10天后借助月球引力返回地球，目标在太平洋海域溅落。摄影师：Joe Raedle",
-          "link": "https://m.idai.ly/se/888Ao2",
-          "publishedOn": "2026-04-02T09:59:00.000Z",
-          "wordCount": 279,
-          "title": "阿尔忒弥斯2号任务发射 - April 2, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/d58cb68a/e6815384.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/d58cb68a/e6815384.jpg"
-        },
-        {
-          "id": "idaily-248882",
-          "author": "美国 · 华盛顿特区",
-          "description": "美国总统 Donald Trump 针对伊朗战争发表全国讲话，华盛顿白宫。4月1日，美国总统 Trump 宣布对伊朗军事行动已取得「迅速、果断、压倒性的胜利」，包括彻底摧毁伊朗海空军、消灭伊朗政权领导人以及大幅削弱伊朗发射导弹和无人机的能力。Trump 宣布未来2至3周将继续对伊朗进行猛烈打击，直至将对方打回石器时代。Trump 宣称美国已基本摧毁伊朗，建议依赖霍尔木兹海峡获取石油的国家从美国购买石油或自己夺取该海峡。摄影师：Alex Brandon",
-          "link": "https://m.idai.ly/se/2f7eN3",
-          "publishedOn": "2026-04-02T08:58:00.000Z",
-          "wordCount": 279,
-          "title": "特朗普发表伊朗战争讲话 - April 2, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/9fe021d6/e9557464.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/9fe021d6/e9557464.jpg"
-        },
-        {
-          "id": "idaily-248880",
-          "author": "英国 · 伦敦",
-          "description": "英国首相 Keir Starmer 就中东局势举行新闻发布会，伦敦。4月1日，英国首相 Starmer 再次明确表示英国不会卷入中东战争，并将尽一切努力推动地区局势和缓，通过外交途径让霍尔木兹海峡重新开放。Starmer 同时公布旨在应对当前危机的多项政策，包括延长燃油税减免政策至9月、拨款5300万英镑应对取暖油价格上涨、加大本土清洁能源投资等。摄影师：Betty Laura Zapata",
-          "link": "https://m.idai.ly/se/65bZc4",
-          "publishedOn": "2026-04-02T07:57:00.000Z",
-          "wordCount": 279,
-          "title": "英国重申不卷入伊朗战争 - April 2, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/f13d97cc/1bf7c26e.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/f13d97cc/1bf7c26e.jpg"
-        },
-        {
-          "id": "idaily-248879",
-          "author": "尼泊尔 · 加德满都",
-          "description": "尼泊尔塔芒族人在满愿塔庆祝「塔芒人清明节」（Temal Jatra），加德满都。4月1日，尼泊尔迎来一年一度「塔芒人清明节」，这是该国原住民塔芒族的传统宗教节日，人们会在节日期间前往佛塔供奉酥油灯并举行祭拜仪式，祈愿神明让逝去亲人的灵魂安宁。尼泊尔境内生活着约164万塔芒人，占总人口的5.62%。尼泊尔央行最新预测2026财年 GDP 增速约为4%，低于6%的年度目标，主要受前期政治动荡损失、农业产量下降等影响。摄影师：Narendra Shrestha",
-          "link": "https://m.idai.ly/se/1063v9",
-          "publishedOn": "2026-04-02T07:55:00.000Z",
-          "wordCount": 279,
-          "title": "尼泊尔塔芒族清明节 - April 2, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/be89419c/0ff1cc2a.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/be89419c/0ff1cc2a.jpg"
-        },
-        {
-          "id": "idaily-248877",
-          "author": "日本 · 东京",
-          "description": "日本首相高市早苗与法国总统 Emmanuel Macron 在东京赤坂迎宾馆举行会谈。4月1日，法日两国领导人就双边合作、印太地区、伊朗局势和俄乌冲突议题进行会谈，时间持续2小时10分钟。双方会后发表联合声明，宣布就强化关键矿产供应链和稀土采购合作达成共识，同意推进核聚变技术合作和设立人工智能领域高级别对话机制，就推动中东局势平息及确保石油稳定供应保持密切沟通和协调。摄影师：Kim Kyung-hoon",
-          "link": "https://m.idai.ly/se/79dDVD",
-          "publishedOn": "2026-04-02T07:53:00.000Z",
-          "wordCount": 279,
-          "title": "法日领导人会晤 - April 2, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/8e589a4d/ccda5a57.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/8e589a4d/ccda5a57.jpg"
-        },
-        {
-          "id": "idaily-248875",
-          "author": "韩国 · 首尔",
-          "description": "韩国总统李在明与印度尼西亚总统 Prabowo Subianto 举行会晤，首尔。3月31日，印尼总统 Subianto 对韩国进行为期3天国事访问。两国领导人会后发表联合声明，宣布将双边关系提升为最高外交合作级别的「特别全面战略伙伴关系」，目标将双边贸易规模恢复至300亿美元以上，并扩大投资、防务、能源、关键矿产、人工智能等领域合作。韩国为印尼第7大投资来源国，2025年两国双边贸易额约为180亿美元。摄影师：iDaily Media",
-          "link": "https://m.idai.ly/se/fe33C1",
-          "publishedOn": "2026-04-02T07:51:00.000Z",
-          "wordCount": 279,
-          "title": "印尼总统访问韩国 - April 2, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/e66677c2/181eff98.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/e66677c2/181eff98.jpg"
-        },
-        {
-          "id": "idaily-248874",
-          "author": "加沙地带 · 加沙",
-          "description": "一名巴勒斯坦女孩正在临时教室学习拉小提琴，加沙市。这所使用难民营帐篷开设的临时教室由巴勒斯坦音乐教师 Ahmed Abu Umsha 发起，旨在通过音乐教育减轻战争对加沙儿童造成的心理创伤，目前开设的课程包括小提琴、吉他和乌德琴等乐器。国际救助儿童会报告指出，加沙地带约80%儿童在经历长期封锁后存在抑郁症倾向。摄影师：Hassan Jedi",
-          "link": "https://m.idai.ly/se/675bhJ",
-          "publishedOn": "2026-04-02T07:49:00.000Z",
-          "wordCount": 279,
-          "title": "加沙难民营音乐教室 - April 2, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/e7b99444/e5f7b2b7.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/e7b99444/e5f7b2b7.jpg"
-        },
-        {
-          "id": "idaily-248873",
-          "author": "俄罗斯 · 新西伯利亚",
-          "description": "俄罗斯新西伯利亚动物园，一只出生约4个月的北极熊幼崽躲在母亲怀中。4月1日，新西伯利亚动物园宣布确认2025年12月新出生的北极熊幼崽性别为雄性，目前健康状况良好。这只小北极熊是园内北极熊夫妇「Kai」和「Gerda」诞下的第7只幼崽，出生后数月未离开巢穴，近期才开始跟随母亲进入室外活动。北极熊幼崽出生时平均体重仅600克，视力尚未发育，完全依赖母亲的保护与喂养，通常在2至3岁后开始独立生活。摄影师：Rostislav Netisov",
-          "link": "https://m.idai.ly/se/0c5ZI2",
-          "publishedOn": "2026-04-02T07:47:00.000Z",
-          "wordCount": 279,
-          "title": "俄罗斯新生北极熊幼崽 - April 2, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/921f219e/12c201d3.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/921f219e/12c201d3.jpg"
         }
       ]
     },
@@ -6780,6 +6618,26 @@
       "feedUrl": "https://plink.anyfeeder.com/weixin/ibookreview",
       "siteUrl": "http://weixin.sogou.com/weixin?type=1&s_from=input&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A",
       "articles": [
+        {
+          "id": "e5a961a1d6f8673267f8713a49d4fc43",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E5%BE%90%E8%B4%B2%EF%BC%9AAI%E6%97%B6%E4%BB%A3%EF%BC%8C%E5%88%AB%E6%8A%8A%E2%80%9C%E4%BA%BA%E7%B1%BB%E7%89%B9%E7%82%B9%E2%80%9D%E8%87%AA%E5%8A%A8%E5%BD%93%E6%88%90%22%E4%BA%BA%E7%B1%BB%E4%BC%98%E7%82%B9%22",
+          "publishedOn": "2026-05-01T02:12:00.000Z",
+          "wordCount": 264,
+          "title": "徐贲：AI时代，别把“人类特点”自动当成\"人类优点\"",
+          "imageUrl": null
+        },
+        {
+          "id": "721814c6497fcd07de7de6ae78dfd649",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E8%AE%A9%E8%AF%BB%E8%80%85%E5%8F%91%E7%8E%B0%E8%87%AA%E5%B7%B1%E7%9A%84%E9%9C%80%E8%A6%81%EF%BD%9C%E5%AF%B9%E8%AF%9D%E8%90%A5%E9%94%80%E7%BC%96%E8%BE%91%E7%8C%AB%E5%A8%98",
+          "publishedOn": "2026-05-01T02:12:00.000Z",
+          "wordCount": 293,
+          "title": "让读者发现自己的需要｜对话营销编辑猫娘",
+          "imageUrl": null
+        },
         {
           "id": "d12b693b94ec9adebec82412b36918b9",
           "author": null,
