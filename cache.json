@@ -6,6 +6,16 @@
       "siteUrl": "https://rweekly.org/atom.xml",
       "articles": [
         {
+          "id": "https://rweekly.org/2026-W19.html",
+          "author": null,
+          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Eric Nantz, with help from the R Weekly team members and contributors.\nHighlight\nAnnouncing shiny.webawesome: a web UI package for R/Shiny\nFive ggplot2 functions I wish I’d known about earlier\nPreliminary Support for Typst in knitr\nInsights\nFive ggplot2 functions I wish I’d known about earlier\nMounting tar archives as a filesystem in WebAssembly\n\nExploring and Learning Quantum Computing Part 1\nR in the Real World\nPreliminary Support for Typst in knitr\nWhat Is a Statistical Computing Environment (SCE) in Pharma?\nR in Organizations\nNotes on determining which CRAN packages need a rebuild\nR in Academia\nYou Don’t Need to Learn All the Weights on tabular data: The Case for rvflnet…",
+          "link": "https://rweekly.org/2026-W19.html",
+          "publishedOn": "2026-05-04T00:00:00.000Z",
+          "wordCount": 6779,
+          "title": "R Weekly 2026-W19 Shiny webAwesome, ggplot2 tricks, knitr",
+          "imageUrl": "https://rweekly.org/public/facebook.png"
+        },
+        {
           "id": "https://rweekly.org/2026-W18.html",
           "author": null,
           "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Jonathan Kitt, with help from the R Weekly team members and contributors.\nHighlights\nlogrittr: A Verbose Pipe Operator for Logging dplyr Pipelines\nWorking Smarter in R: Tips, Tricks & Real-World Lessons\nGenerating universes within universes with a single seed\nInsights\nWhat’s new in R 4.6.0?\nmori: Shared memory for R objects\n\nNew York City Hexmaps\nR in the Real World\nA Data-Driven Survey of MLB Franchise Management\n{width=”600”}\nStage II OSCC — Health Economics Model\nR in Organizations\nInvesting in the R Community: Our Support for Global R Events in 2026\nExpanding the Editorial Team: Alec Robitaille and Lucy D’Agostino McGowan Join as Editors\nR in Academia\nNew Preprint: Clima…",
@@ -1813,46 +1823,6 @@
           "wordCount": 6804,
           "title": "Sasse, Zinsmeister, and Republican Virtue",
           "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/04/Republican-Virtue.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1940111",
-          "author": "Andrew C. McCarthy",
-          "description": "When America loses a war, it is generally because of political reaction at home, notwithstanding smashing success on the battlefield.",
-          "link": "https://www.nationalreview.com/2026/04/the-fog-of-war-against-iran/",
-          "publishedOn": "2026-04-04T10:30:23.000Z",
-          "wordCount": 7500,
-          "title": "The Fog of War Against Iran",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/04/trump-iran-speech-1.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1939942",
-          "author": "Brian T. Allen",
-          "description": "A gratifying visit to Newfields, the garden and museum campus, for flower sculptures, Rembrandt, Van Gogh, and more.",
-          "link": "https://www.nationalreview.com/2026/04/spring-splendor-in-indianapolis/",
-          "publishedOn": "2026-04-04T10:30:16.000Z",
-          "wordCount": 8862,
-          "title": "Spring Splendor in Indianapolis",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/04/Flower.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1939279",
-          "author": "Barry Latzer",
-          "description": "The current rate of executions reflects the enormous slowdown in the carrying out of sentences.",
-          "link": "https://www.nationalreview.com/2026/04/there-is-no-death-penalty-surge/",
-          "publishedOn": "2026-04-04T10:30:16.000Z",
-          "wordCount": 6680,
-          "title": "There Is No Death Penalty Surge",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/06/prison-bars.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1939478",
-          "author": "John Gustavsson",
-          "description": "Empty pumps down under.",
-          "link": "https://www.nationalreview.com/2026/04/australia-and-new-zealands-self-inflicted-fuel-crisis/",
-          "publishedOn": "2026-04-04T10:30:04.000Z",
-          "wordCount": 7312,
-          "title": "Australia and New Zealand’s Self-Inflicted Fuel Crisis",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/04/gas-prices-australia.jpg?fit=2057%2C1200&ssl=1"
         }
       ]
     },
@@ -1861,6 +1831,16 @@
       "feedUrl": "https://sspai.com/feed",
       "siteUrl": "https://sspai.com",
       "articles": [
+        {
+          "id": "https://sspai.com/post/109277",
+          "author": "旋转的陀螺",
+          "description": "作为 vivo 今年春季推出的旗舰级平板，vivo Pad6 Pro 显然被寄予了厚望：配备 4K 超大原彩屏、第五代骁龙 8 至尊版芯片，同时搭载了 PC 级 WPS 和专业版剪映。参数之外，实际体验到底如何？和 iPad 比，安卓平板又有哪些可圈可点之处呢？查看全文",
+          "link": "https://sspai.com/post/109277",
+          "publishedOn": "2026-05-04T07:00:00.000Z",
+          "wordCount": 246,
+          "title": "iPad 用户首次体验 Android 平板：vivo Pad6 Pro",
+          "imageUrl": null
+        },
         {
           "id": "https://sspai.com/post/100006",
           "author": "桌沿奇思",
@@ -2749,16 +2729,6 @@
           "publishedOn": "2026-04-05T08:41:08.000Z",
           "wordCount": 237,
           "title": "愿君多修葺，此物最相思：从我的故事谈「数字遗产」保护",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sspai.com/post/108103",
-          "author": "Barryhimself",
-          "description": "千问G1确实有其独特的优势，但在软硬件细节体验上也还有很多需要打磨的地方。查看全文",
-          "link": "https://sspai.com/post/108103",
-          "publishedOn": "2026-04-04T09:11:10.000Z",
-          "wordCount": 381,
-          "title": "买前必看：千问 AI 眼镜 G1 自费长测",
           "imageUrl": null
         }
       ]
@@ -6554,6 +6524,46 @@
       "feedUrl": "https://plink.anyfeeder.com/weixin/ibookreview",
       "siteUrl": "http://weixin.sogou.com/weixin?type=1&s_from=input&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A",
       "articles": [
+        {
+          "id": "19c560879416a2ce8952089ca759aa5f",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E7%B4%A2%E8%80%B3%C3%97%E7%8E%8B%E4%B8%80%E9%80%9A%C3%97%E6%B7%A1%E8%B1%B9%C3%97%E5%BC%A0%E8%8B%B9%EF%BC%9A%E4%B8%96%E7%95%8C%E5%A5%BD%E5%A4%A7%E4%B8%AA%EF%BC%8C%E8%A6%81%E9%A3%9F%E5%A4%9A%E4%BA%9B%E9%B8%A1%E7%BF%BC%E6%89%8D%E9%A3%9E%E5%BE%97%E8%BF%9C",
+          "publishedOn": "2026-05-03T01:34:00.000Z",
+          "wordCount": 289,
+          "title": "索耳×王一通×淡豹×张苹：世界好大个，要食多些鸡翼才飞得远",
+          "imageUrl": null
+        },
+        {
+          "id": "562fec96ec4d8921f5581bb48053f351",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E5%88%9A%E5%88%9A%E8%BF%87%E5%8E%BB%E7%9A%844%E6%9C%88%E9%87%8C%EF%BC%8C%E6%88%91%E4%BB%AC%E9%80%89%E5%87%BA%E4%BA%8620%E6%9C%AC%E5%A5%BD%E4%B9%A6",
+          "publishedOn": "2026-05-03T01:34:00.000Z",
+          "wordCount": 305,
+          "title": "刚刚过去的4月里，我们选出了20本好书",
+          "imageUrl": null
+        },
+        {
+          "id": "92cc02edee3a76e007a0e8dd3c27e2b9",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E9%95%9C%E5%A4%B4%E4%B8%8B%E7%9A%84%E7%AB%A5%E5%B9%B4%EF%BC%9F%E8%BF%99%E6%9C%AC%E6%96%B0%E4%B9%A6%E9%A6%96%E5%BA%A6%E6%8F%AD%E7%A7%98%E5%84%BF%E7%AB%A5%E7%BD%91%E7%BA%A2%E8%A1%8C%E4%B8%9A%E5%86%85%E5%B9%95",
+          "publishedOn": "2026-05-02T01:54:00.000Z",
+          "wordCount": 303,
+          "title": "镜头下的童年？这本新书首度揭秘儿童网红行业内幕",
+          "imageUrl": null
+        },
+        {
+          "id": "4fcc2fb21bc73eebbd356b4f6545254c",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E5%B2%9B%E4%B8%8A%E6%9D%A5%E4%BF%A1%EF%BC%9A%E4%B8%80%E9%A6%96%E8%AF%97%E6%98%AF%E4%B8%80%E5%BA%A7%E5%9F%8E%E4%B8%A8%E5%91%A8%E6%9C%AB%E8%AF%BB%E8%AF%97",
+          "publishedOn": "2026-05-02T01:54:00.000Z",
+          "wordCount": 297,
+          "title": "岛上来信：一首诗是一座城丨周末读诗",
+          "imageUrl": null
+        },
         {
           "id": "e5a961a1d6f8673267f8713a49d4fc43",
           "author": null,

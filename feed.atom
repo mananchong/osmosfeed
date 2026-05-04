@@ -2,10 +2,48 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mananchong.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-03T17:26:50.184Z</updated>
+    <updated>2026-05-04T09:37:42.063Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mananchong.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://mananchong.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[iPad 用户首次体验 Android 平板：vivo Pad6 Pro]]></title>
+        <id>https://sspai.com/post/109277</id>
+        <link href="https://sspai.com/post/109277"/>
+        <updated>2026-05-04T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[作为 vivo 今年春季推出的旗舰级平板，vivo Pad6 Pro 显然被寄予了厚望：配备 4K 超大原彩屏、第五代骁龙 8 至尊版芯片，同时搭载了 PC 级 WPS 和专业版剪映。参数之外，实际体验到底如何？和 iPad 比，安卓平板又有哪些可圈可点之处呢？查看全文]]></summary>
+        <author>
+            <name>旋转的陀螺</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[R Weekly 2026-W19 Shiny webAwesome, ggplot2 tricks, knitr]]></title>
+        <id>https://rweekly.org/2026-W19.html</id>
+        <link href="https://rweekly.org/2026-W19.html"/>
+        <updated>2026-05-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hello and welcome to this new issue!
+How to have (my) content shared by R Weekly?
+This week’s release was curated by Eric Nantz, with help from the R Weekly team members and contributors.
+Highlight
+Announcing shiny.webawesome: a web UI package for R/Shiny
+Five ggplot2 functions I wish I’d known about earlier
+Preliminary Support for Typst in knitr
+Insights
+Five ggplot2 functions I wish I’d known about earlier
+Mounting tar archives as a filesystem in WebAssembly
+
+Exploring and Learning Quantum Computing Part 1
+R in the Real World
+Preliminary Support for Typst in knitr
+What Is a Statistical Computing Environment (SCE) in Pharma?
+R in Organizations
+Notes on determining which CRAN packages need a rebuild
+R in Academia
+You Don’t Need to Learn All the Weights on tabular data: The Case for rvflnet…]]></summary>
+        <author>
+            <name>RWeekly.org - Blogs to Learn R from the Community</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Online Left Just Can’t Process the WHCD Assassination Attempt]]></title>
         <id>https://www.nationalreview.com/?p=1954037</id>
@@ -114,6 +152,24 @@
         <summary type="html"><![CDATA[2026年泰国宠物博览会，一只雕鸮在「异宠」展区待售，曼谷。4月30日，泰国宠物博览会在诗丽吉王后国家会展中心开幕，本届宠物展主题为「心灵守护者」（Guardians Of The Heart），共有来自泰国、中国、日本、韩国和马来西亚等国的逾300家企业参展，覆盖宠物食品、服饰、玩具、医疗等多个领域，展区面积超过2.4万平方米。本届展会将持续至5月3日，预计吸引22万名参观者，创造超过10亿泰铢（约合3100万美元）销售收入。摄影师：Arnun Chonmahatrakool]]></summary>
         <author>
             <name>泰国 · 曼谷</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[索耳×王一通×淡豹×张苹：世界好大个，要食多些鸡翼才飞得远]]></title>
+        <id>19c560879416a2ce8952089ca759aa5f</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E7%B4%A2%E8%80%B3%C3%97%E7%8E%8B%E4%B8%80%E9%80%9A%C3%97%E6%B7%A1%E8%B1%B9%C3%97%E5%BC%A0%E8%8B%B9%EF%BC%9A%E4%B8%96%E7%95%8C%E5%A5%BD%E5%A4%A7%E4%B8%AA%EF%BC%8C%E8%A6%81%E9%A3%9F%E5%A4%9A%E4%BA%9B%E9%B8%A1%E7%BF%BC%E6%89%8D%E9%A3%9E%E5%BE%97%E8%BF%9C"/>
+        <updated>2026-05-03T01:34:00.000Z</updated>
+        <author>
+            <name>新京报书评周刊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[刚刚过去的4月里，我们选出了20本好书]]></title>
+        <id>562fec96ec4d8921f5581bb48053f351</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E5%88%9A%E5%88%9A%E8%BF%87%E5%8E%BB%E7%9A%844%E6%9C%88%E9%87%8C%EF%BC%8C%E6%88%91%E4%BB%AC%E9%80%89%E5%87%BA%E4%BA%8620%E6%9C%AC%E5%A5%BD%E4%B9%A6"/>
+        <updated>2026-05-03T01:34:00.000Z</updated>
+        <author>
+            <name>新京报书评周刊</name>
         </author>
     </entry>
     <entry>
@@ -244,6 +300,24 @@
         <summary type="html"><![CDATA[一只抹香鲸（Sperm whale）与2只未成年鲸鱼在浅水区游弋，加勒比海。4月28日，美国「鲸鱼翻译计划」（CETI）项目团队宣布开始使用水下机器人技术追踪鲸鱼的水下交流。这款水下机器人的行动方式类似滑翔机，能够通过缓慢改变自身浮力来控制深度并自主导航，追踪抹香鲸时可保持100米以上的安全距离，从而最大限度降低对鲸鱼行动的干扰。该项目旨在追踪收集抹香鲸在交流时发出的音频信号，从而帮助科学家研究抹香鲸的语言交流方式。摄影师：Amanda Cotton]]></summary>
         <author>
             <name>加勒比海</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[镜头下的童年？这本新书首度揭秘儿童网红行业内幕]]></title>
+        <id>92cc02edee3a76e007a0e8dd3c27e2b9</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E9%95%9C%E5%A4%B4%E4%B8%8B%E7%9A%84%E7%AB%A5%E5%B9%B4%EF%BC%9F%E8%BF%99%E6%9C%AC%E6%96%B0%E4%B9%A6%E9%A6%96%E5%BA%A6%E6%8F%AD%E7%A7%98%E5%84%BF%E7%AB%A5%E7%BD%91%E7%BA%A2%E8%A1%8C%E4%B8%9A%E5%86%85%E5%B9%95"/>
+        <updated>2026-05-02T01:54:00.000Z</updated>
+        <author>
+            <name>新京报书评周刊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[岛上来信：一首诗是一座城丨周末读诗]]></title>
+        <id>4fcc2fb21bc73eebbd356b4f6545254c</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E5%B2%9B%E4%B8%8A%E6%9D%A5%E4%BF%A1%EF%BC%9A%E4%B8%80%E9%A6%96%E8%AF%97%E6%98%AF%E4%B8%80%E5%BA%A7%E5%9F%8E%E4%B8%A8%E5%91%A8%E6%9C%AB%E8%AF%BB%E8%AF%97"/>
+        <updated>2026-05-02T01:54:00.000Z</updated>
+        <author>
+            <name>新京报书评周刊</name>
         </author>
     </entry>
     <entry>
@@ -6510,56 +6584,6 @@ A Complete Guide to the Drug Developme…]]></summary>
         <summary type="html"><![CDATA[2026年俄罗斯当代艺术博览会，一件俄罗斯艺术家 Igor Rogovsky 的雕塑作品《独角兽》正在展出，莫斯科。4月2日，第7届俄罗斯当代艺术博览会在莫斯科开幕，本届展会共有来自俄罗斯、中国、日本、韩国、美国、马来西亚等国的超过100家画廊参展，展品形式涵盖绘画、雕塑、摄影、室内设计等类别。这是俄罗斯规模最大的艺术博览会之一，本届展期持续至4月5日。]]></summary>
         <author>
             <name>俄罗斯 · 莫斯科</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Fog of War Against Iran]]></title>
-        <id>https://www.nationalreview.com/?p=1940111</id>
-        <link href="https://www.nationalreview.com/2026/04/the-fog-of-war-against-iran/"/>
-        <updated>2026-04-04T10:30:23.000Z</updated>
-        <summary type="html"><![CDATA[When America loses a war, it is generally because of political reaction at home, notwithstanding smashing success on the battlefield.]]></summary>
-        <author>
-            <name>Andrew C. McCarthy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spring Splendor in Indianapolis]]></title>
-        <id>https://www.nationalreview.com/?p=1939942</id>
-        <link href="https://www.nationalreview.com/2026/04/spring-splendor-in-indianapolis/"/>
-        <updated>2026-04-04T10:30:16.000Z</updated>
-        <summary type="html"><![CDATA[A gratifying visit to Newfields, the garden and museum campus, for flower sculptures, Rembrandt, Van Gogh, and more.]]></summary>
-        <author>
-            <name>Brian T. Allen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[There Is No Death Penalty Surge]]></title>
-        <id>https://www.nationalreview.com/?p=1939279</id>
-        <link href="https://www.nationalreview.com/2026/04/there-is-no-death-penalty-surge/"/>
-        <updated>2026-04-04T10:30:16.000Z</updated>
-        <summary type="html"><![CDATA[The current rate of executions reflects the enormous slowdown in the carrying out of sentences.]]></summary>
-        <author>
-            <name>Barry Latzer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Australia and New Zealand’s Self-Inflicted Fuel Crisis]]></title>
-        <id>https://www.nationalreview.com/?p=1939478</id>
-        <link href="https://www.nationalreview.com/2026/04/australia-and-new-zealands-self-inflicted-fuel-crisis/"/>
-        <updated>2026-04-04T10:30:04.000Z</updated>
-        <summary type="html"><![CDATA[Empty pumps down under.]]></summary>
-        <author>
-            <name>John Gustavsson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[买前必看：千问 AI 眼镜 G1 自费长测]]></title>
-        <id>https://sspai.com/post/108103</id>
-        <link href="https://sspai.com/post/108103"/>
-        <updated>2026-04-04T09:11:10.000Z</updated>
-        <summary type="html"><![CDATA[千问G1确实有其独特的优势，但在软硬件细节体验上也还有很多需要打磨的地方。查看全文]]></summary>
-        <author>
-            <name>Barryhimself</name>
         </author>
     </entry>
 </feed>
