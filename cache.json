@@ -34,16 +34,6 @@
           "wordCount": 5925,
           "title": "R Weekly 2026-W16 perspectiveR, puppeteeR",
           "imageUrl": "https://rweekly.org/public/facebook.png"
-        },
-        {
-          "id": "https://rweekly.org/2026-W15.html",
-          "author": null,
-          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Colin Fay, with help from the R Weekly team members and contributors.\nHighlight\nMeet dataviewR: The View() You Always Wanted\nBetter Git diff with difftastic\nCollaborating between Bioconductor and R-universe on Development of Common Infrastructure\nInsights\nCollaborating between Bioconductor and R-universe on Development of Common Infrastructure\nrOpenSci News Digest, March 2026\nWeekly Recap (April 2, 2026)\nR in the Real World\nPacific island energy supply by @ellis2013nz\nMomentum Investing Enhanced by Microsoft Foundry-Hosted Large Language Model\nNavigating Financial Statement And The Story It Tells Us - A Note To Myself\nR in Organizations\nA Complete Guide to the Drug Developme…",
-          "link": "https://rweekly.org/2026-W15.html",
-          "publishedOn": "2026-04-06T00:00:00.000Z",
-          "wordCount": 6032,
-          "title": "R Weekly 2026-W15 dataviewR difftastic R-universe",
-          "imageUrl": "https://rweekly.org/public/facebook.png"
         }
       ]
     },
@@ -64,6 +54,46 @@
       "feedUrl": "https://www.nationalreview.com/feed/",
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
+        {
+          "id": "https://www.nationalreview.com/?p=1956710",
+          "author": "The Editors",
+          "description": "Merz’s stupidity is no excuse for a stupid response.",
+          "link": "https://www.nationalreview.com/2026/05/dont-pull-out-of-germany/",
+          "publishedOn": "2026-05-05T10:30:59.000Z",
+          "wordCount": 6559,
+          "title": "Don’t Pull Out of Germany",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/05/donald-trump-friedrich-merz.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1956673",
+          "author": "Caroline Downey",
+          "description": "The ‘manosphere’ has nothing on Alex Cooper.",
+          "link": "https://www.nationalreview.com/2026/05/call-her-daddy-is-setting-women-back/",
+          "publishedOn": "2026-05-05T10:30:46.000Z",
+          "wordCount": 6939,
+          "title": "<i>Call Her Daddy</i> Is Setting Women Back",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/05/call-her-daddy.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1956434",
+          "author": "Alexandra DeSanctis",
+          "description": "A Republican congressman shows pro-life politicians the way.",
+          "link": "https://www.nationalreview.com/2026/05/brandon-gills-master-class-in-exposing-abortion-euphemism/",
+          "publishedOn": "2026-05-05T10:30:26.000Z",
+          "wordCount": 6657,
+          "title": "Brandon Gill’s Master Class in Exposing Abortion Euphemism",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/05/brandon-gill.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1955505",
+          "author": "Hannah Cox",
+          "description": "The former FTC chair takes her wrongheaded ideas to a new perch at Columbia.",
+          "link": "https://www.nationalreview.com/2026/05/lina-khan-continues-to-fail-upward/",
+          "publishedOn": "2026-05-05T10:30:00.000Z",
+          "wordCount": 6523,
+          "title": "Lina Khan Continues to Fail Upward",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/06/lina-khan.jpg?fit=2057%2C1200&ssl=1"
+        },
         {
           "id": "https://www.nationalreview.com/?p=1956578",
           "author": "Dan McLaughlin",
@@ -2788,6 +2818,90 @@
       "feedUrl": "https://plink.anyfeeder.com/idaily/today",
       "siteUrl": "https://idai.ly",
       "articles": [
+        {
+          "id": "idaily-250696",
+          "author": "中国 · 北京",
+          "description": "游客们在五一假期参观北京天坛祈年殿。5月5日，北京市文化和旅游局公布数据显示五一假期全市接待游客总量1882.7万人次，同比增长5.1%，实现旅游总花费223.6亿元，同比增长6.6%；接待入境游客12.8万人次，同比增长22.3%，实现入境游客花费13.8亿元，同比增长22.6%。北京市属公园及中国园林博物馆游客量超过200万人次，游客量排名前三位的依次为天坛公园、颐和园和北京动物园。摄影师：iDaily Media",
+          "link": "https://m.idai.ly/se/06bI56",
+          "publishedOn": "2026-05-05T13:59:00.000Z",
+          "wordCount": 271,
+          "title": "北京五一入境游客增22.3% - May 5, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/5368557596/6bf0fa63.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/5368557596/6bf0fa63.jpg"
+        },
+        {
+          "id": "idaily-250695",
+          "author": "亚美尼亚 · 埃里温",
+          "description": "法国总统 Emmanuel Macron、英国首相 Keir Starmer 以及欧盟高级代表在欧洲政治共同体（EPC）峰会期间出席会议，埃里温。5月4日，第8届欧洲政治共同体领导人会议在亚美尼亚首都埃里温举行，共有来自欧盟成员国、英国、加拿大、乌克兰等共48个国家的领导人出席，德国总统 Friedrich Merz 缺席本次峰会。本届峰会主题为「构建未来：欧洲的团结与稳定」，核心讨论对乌克兰支持、欧洲防务合作以及供应链安全等议题，包括重启英国加入欧盟防务基金计划的谈判事宜。摄影师：Ludovic Marin",
+          "link": "https://m.idai.ly/se/521t5D",
+          "publishedOn": "2026-05-05T12:58:00.000Z",
+          "wordCount": 271,
+          "title": "第8届欧共体峰会举行 - May 5, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/4c6871d2de/f7047d05.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/4c6871d2de/f7047d05.jpg"
+        },
+        {
+          "id": "idaily-250694",
+          "author": "日本 · 东京",
+          "description": "日本护宪派支持者在抗议集会中高举写有「不要战争」和「停止修宪和军扩」的标语牌，东京。5月3日是日本宪法纪念日，日本首相高市早苗当天再次公开表示将「顺应时代要求，定期更新宪法」。日本现行宪法于1947年5月3日实施，其中第九条规定日本永远放弃发动战争、武力威胁或以武力作为解决国际争端的手段。最新民调显示37%日本民众支持修宪，大幅超过反对修宪的30%，为2022年以来修宪支持率首次超过反对率。摄影师：Philip Fong",
+          "link": "https://m.idai.ly/se/9f6k0l",
+          "publishedOn": "2026-05-05T11:57:00.000Z",
+          "wordCount": 271,
+          "title": "日本修宪支持率首次反超 - May 5, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/af04fbdc6e/0a569cb2.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/af04fbdc6e/0a569cb2.jpg"
+        },
+        {
+          "id": "idaily-250692",
+          "author": "澳大利亚 · 堪培拉",
+          "description": "日本首相高市早苗与澳大利亚总理 Anthony Albanese 签署双边协议，堪培拉。5月4日，日澳两国领导人就双边关系、中东局势、印太合作举行会谈并签署包括《经济安保合作共同宣言》在内的五份成果文件，双方一致同意将两国特殊战略伙伴关系提升至更高水平，推进安全和防卫合作，加强关键矿产供应链并确保双向稳定能源供应。双方还宣布将共同开发基于日本「最上」级护卫舰进行升级的澳大利亚海军新型舰艇。日本与澳大利亚2025年贸易额约为602亿美元，同比下降-12.7%，其中日本对澳大利亚贸易逆差达303亿美元。摄影师：Mick Tsikas",
+          "link": "https://m.idai.ly/se/1b7I2K",
+          "publishedOn": "2026-05-05T11:55:00.000Z",
+          "wordCount": 271,
+          "title": "日澳提高特殊战略伙伴关系 - May 5, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/a98f707cb2/197aa6d9.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/a98f707cb2/197aa6d9.jpg"
+        },
+        {
+          "id": "idaily-250691",
+          "author": "德国 · 莱法州",
+          "description": "一架美军运输机从德国拉姆施泰因空军基地起飞。5月1日，美国国防部宣布计划从德国撤出约5000名美军士兵，预计撤军将在未来6到12个月内完成。根据美国国防部数据，2025年底驻德美军规模人数在3.6万人左右，分布在德国境内约40个美国运营的军事设施内，预计为当地提供超过1万个直接工作岗位和7万个间接工作岗位，每年贡献约35亿欧元经济收入。摄影师：Ronald Wittek",
+          "link": "https://m.idai.ly/se/151XRA",
+          "publishedOn": "2026-05-05T11:53:00.000Z",
+          "wordCount": 271,
+          "title": "美国宣布削减驻德美军 - May 5, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/afd4defd22/5f3c6a7e.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/afd4defd22/5f3c6a7e.jpg"
+        },
+        {
+          "id": "idaily-250690",
+          "author": "中国 · 四川省",
+          "description": "游客们参观江口沉银博物馆的特色展区，四川眉山市。江口沉银博物馆位于四川眉山江口沉银遗址，2026年3月8日正式面向公众开放参观，常设展分为「围堰考古」「沉银解谜」「白银故事」三个主题展厅，主要围绕明末农民军领袖张献忠「江口沉银」事件的历史背景和考古成果，核心展品包括蜀世子宝金印、永昌大元帅印、张献忠册封嫔妃金册、西王赏功金币等。「江口沉银」遗址于2017年至2023年经过六期考古发掘，累计发现金银钱锭、首饰、兵器、生活用品等出水文物7.6万余件。摄影师：Liu Zhongjun",
+          "link": "https://m.idai.ly/se/a2fzAJ",
+          "publishedOn": "2026-05-05T11:51:00.000Z",
+          "wordCount": 271,
+          "title": "四川江口沉银博物馆开放 - May 5, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/3b66a0ef95/3423e0bf.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/3b66a0ef95/3423e0bf.jpg"
+        },
         {
           "id": "idaily-250651",
           "author": "唧筒座",
@@ -6934,26 +7048,6 @@
           "publishedOn": "2026-04-07T02:01:00.000Z",
           "wordCount": 295,
           "title": "孩子如何看待死亡与道别？",
-          "imageUrl": null
-        },
-        {
-          "id": "67e05dacc5ffc361c4f0dc1589b88e39",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%80%E8%A2%AB%E8%AF%AF%E8%A7%A3%E7%9A%84%E5%93%B2%E5%AD%A6%E5%AE%B6%EF%BC%8C%E5%8D%B4%E6%8B%A5%E6%9C%89%E6%9C%80%E6%B7%B1%E8%BF%9C%E7%9A%84%E5%BD%B1%E5%93%8D%EF%BC%9F",
-          "publishedOn": "2026-04-06T02:18:00.000Z",
-          "wordCount": 293,
-          "title": "为什么最被误解的哲学家，却拥有最深远的影响？",
-          "imageUrl": null
-        },
-        {
-          "id": "c2962c4be533f0ba6f7159536e3d0246",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E5%80%92%E8%AE%A1%E6%97%B6%E4%B8%A4%E4%B8%AA%E6%9C%88%EF%BD%9C%E5%8F%B2%E8%BF%81%E8%AE%A1%E5%88%92%E6%9C%9F%E5%BE%85%E5%8E%86%E5%8F%B2%E5%86%99%E4%BD%9C%E8%80%85%E5%8A%A0%E5%85%A5",
-          "publishedOn": "2026-04-06T02:18:00.000Z",
-          "wordCount": 320,
-          "title": "倒计时两个月｜史迁计划期待历史写作者加入",
           "imageUrl": null
         }
       ]
