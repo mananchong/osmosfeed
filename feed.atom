@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mananchong.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-04T18:01:51.817Z</updated>
+    <updated>2026-05-05T09:29:01.738Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mananchong.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://mananchong.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[听歌时间到，12 张你可能错过的 2025 华语乐坛好专辑]]></title>
+        <id>https://sspai.com/post/109014</id>
+        <link href="https://sspai.com/post/109014"/>
+        <updated>2026-05-05T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[来听歌。查看全文]]></summary>
+        <author>
+            <name>北鸮</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Case for Staying the FDA Rule on the Abortion Pill]]></title>
+        <id>https://www.nationalreview.com/?p=1956578</id>
+        <link href="https://www.nationalreview.com/2026/05/the-case-for-staying-the-fda-rule-on-the-abortion-pill/"/>
+        <updated>2026-05-04T20:22:22.000Z</updated>
+        <summary type="html"><![CDATA[The Supreme Court should make the FDA do its job before it exercises power.]]></summary>
+        <author>
+            <name>Dan McLaughlin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Elizabeth Warren’s Jaw-Dropping Dishonesty on Spirit Airlines]]></title>
         <id>https://www.nationalreview.com/?p=1956429</id>
@@ -6594,56 +6614,6 @@ R in Organizations
 A Complete Guide to the Drug Developme…]]></summary>
         <author>
             <name>RWeekly.org - Blogs to Learn R from the Community</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maybe Society <i>Should</i> Go to the Dogs]]></title>
-        <id>https://www.nationalreview.com/?p=1939133</id>
-        <link href="https://www.nationalreview.com/2026/04/maybe-society-should-go-to-the-dogs/"/>
-        <updated>2026-04-05T10:30:53.000Z</updated>
-        <summary type="html"><![CDATA[Making the case for ‘man’s best friend.’]]></summary>
-        <author>
-            <name>James Lileks</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thirty Years After Welfare Reform, It’s Time for the Next Generation of State-Led Solutions]]></title>
-        <id>https://www.nationalreview.com/?p=1939376</id>
-        <link href="https://www.nationalreview.com/2026/04/thirty-years-after-welfare-reform-its-time-for-the-next-generation-of-state-led-solutions/"/>
-        <updated>2026-04-05T10:30:46.000Z</updated>
-        <summary type="html"><![CDATA[The problem with today’s safety net isn’t intent; it’s design. State leadership would help fix it.]]></summary>
-        <author>
-            <name>Clarence H. Carter and Nic Dunn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The West’s Military-Industrial Base Is a Crucial Strategic Asset]]></title>
-        <id>https://www.nationalreview.com/?p=1940751</id>
-        <link href="https://www.nationalreview.com/2026/04/the-wests-military-industrial-base-is-a-crucial-strategic-asset/"/>
-        <updated>2026-04-05T10:30:09.000Z</updated>
-        <summary type="html"><![CDATA[If we use it correctly.]]></summary>
-        <author>
-            <name>Gregory W. Slayton and Volodymyr Berezhniy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sasse, Zinsmeister, and Republican Virtue]]></title>
-        <id>https://www.nationalreview.com/?p=1935337</id>
-        <link href="https://www.nationalreview.com/2026/04/sasse-zinsmeister-and-republican-virtue/"/>
-        <updated>2026-04-05T10:30:04.000Z</updated>
-        <summary type="html"><![CDATA[Two conservative public servants facing the fight of their lives have shown us the best of American leadership.]]></summary>
-        <author>
-            <name>Andy Smarick</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[愿君多修葺，此物最相思：从我的故事谈「数字遗产」保护]]></title>
-        <id>https://sspai.com/post/69901</id>
-        <link href="https://sspai.com/post/69901"/>
-        <updated>2026-04-05T08:41:08.000Z</updated>
-        <summary type="html"><![CDATA[「数字遗产」对现代人越来越重要，尤其是具有隐私属性的数据，有可能会导致用户逝世后叠加「社会性死亡」的风险，更别提敏感隐私数据暴露后，对逝者家属的进一步打击。查看全文]]></summary>
-        <author>
-            <name>Microhoo</name>
         </author>
     </entry>
 </feed>
