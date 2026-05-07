@@ -55,6 +55,26 @@
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
         {
+          "id": "https://www.nationalreview.com/?p=1957903",
+          "author": "Michael Brendan Dougherty",
+          "description": "So much that used to belong to our private lives is now a shared record of our interactions with every corporation and server and Wi-Fi signal.",
+          "link": "https://www.nationalreview.com/2026/05/we-built-the-permanent-record/",
+          "publishedOn": "2026-05-06T23:36:57.000Z",
+          "wordCount": 7505,
+          "title": "We Built the Permanent Record",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/05/using-smartphone.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1957707",
+          "author": "Noah Rothman",
+          "description": "Trump is close to achieving something resembling victory, but he’s not there yet.",
+          "link": "https://www.nationalreview.com/2026/05/has-taco-tuesday-finally-come-to-iran/",
+          "publishedOn": "2026-05-06T20:02:29.000Z",
+          "wordCount": 7557,
+          "title": "Has TACO Tuesday Finally Come to Iran?",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/05/trump-iran-press-conference.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
           "id": "https://www.nationalreview.com/?p=1957577",
           "author": "Jeffrey Blehar",
           "description": "Leave it to Professor Katie to tell you what policymakers and pundits have known for years now: California is bleeding actual legal residents.",
@@ -1863,56 +1883,6 @@
           "wordCount": 6436,
           "title": "An Anchor in the Storm",
           "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/02/wfb-1969.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1942057",
-          "author": "Noah Rothman",
-          "description": "His threats are overheated and politically unhelpful, but his domestic opponents are skewing the facts in response.",
-          "link": "https://www.nationalreview.com/2026/04/trumps-iran-rhetoric-is-not-a-war-crime/",
-          "publishedOn": "2026-04-07T17:52:11.000Z",
-          "wordCount": 7506,
-          "title": "Trump’s Iran Rhetoric Is Not a War Crime",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/04/trump-presser.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1941715",
-          "author": "The Editors",
-          "description": "Following the Trump administration’s cuts, the federal government employs the lowest percentage of U.S. workers since World War II.",
-          "link": "https://www.nationalreview.com/2026/04/a-first-step-toward-shrinking-government/",
-          "publishedOn": "2026-04-07T10:30:59.000Z",
-          "wordCount": 6581,
-          "title": "A First Step Toward Shrinking Government",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/02/business-people-walking-3.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1941509",
-          "author": "Deroy Murdock",
-          "description": "Silver State voters should ask themselves if they want someone responsible for their state’s fiscal health who has such a troubling relationship with money.",
-          "link": "https://www.nationalreview.com/2026/04/will-the-nevada-gop-bet-on-an-anti-trump-accused-cyberscammer-for-state-treasurer/",
-          "publishedOn": "2026-04-07T10:30:18.000Z",
-          "wordCount": 7206,
-          "title": "Will the Nevada GOP Bet on an Anti-Trump Accused Cyberscammer for State Treasurer?",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/04/jeffrey-carter-nevada.jpg?fit=1200%2C700&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1941732",
-          "author": "Rich Lowry",
-          "description": "‘The United States can’t take care of daycare. That has to be up to a state. We’re fighting wars.’",
-          "link": "https://www.nationalreview.com/2026/04/trump-wants-more-guns-and-should-get-them/",
-          "publishedOn": "2026-04-07T10:30:17.000Z",
-          "wordCount": 7134,
-          "title": "Trump Wants More Guns — and Should Get Them",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/04/gtrump-911-anniversary.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1941551",
-          "author": "Kyle Balzer",
-          "description": "The outcome of the war in Iran may determine whether our East Asian allies go for the bomb.",
-          "link": "https://www.nationalreview.com/2026/04/the-future-of-nuclear-non-proliferation-in-east-asia-depends-on-iran/",
-          "publishedOn": "2026-04-07T10:30:02.000Z",
-          "wordCount": 6987,
-          "title": "The Future of Nuclear Non-Proliferation in East Asia Depends on Iran",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2022/10/south-korea-exercises-11.jpg?fit=2057%2C1200&ssl=1"
         }
       ]
     },
@@ -1921,6 +1891,36 @@
       "feedUrl": "https://sspai.com/feed",
       "siteUrl": "https://sspai.com",
       "articles": [
+        {
+          "id": "https://sspai.com/post/109460",
+          "author": "克莱德",
+          "description": "安静的 iPhone 才是最好的 iPhone？查看全文",
+          "link": "https://sspai.com/post/109460",
+          "publishedOn": "2026-05-07T08:38:27.000Z",
+          "wordCount": 290,
+          "title": "一日一技｜为什么你应该关闭 iOS 的键盘声音",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sspai.com/post/109367",
+          "author": "PJHubs",
+          "description": "甘南是有着和川西、川北和青甘大环线齐名的绝美圣地，中国大地上第一级阶梯向第二级阶梯的过渡带。这片地方还得再来，适合自驾慢慢走慢慢看，好多风景优美的地方不适合赶路着急。查看全文",
+          "link": "https://sspai.com/post/109367",
+          "publishedOn": "2026-05-07T03:00:10.000Z",
+          "wordCount": 310,
+          "title": "甘南秘境，大白高国：我的甘南自由行记",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sspai.com/post/109448",
+          "author": "少数派编辑部",
+          "description": "Apple 同意和解 Siri 延期的集体诉讼、Valve 开源 Steam Controller 的外壳 CAD 文件等。查看全文",
+          "link": "https://sspai.com/post/109448",
+          "publishedOn": "2026-05-07T00:25:37.000Z",
+          "wordCount": 430,
+          "title": "派早报：三星电子退出中国家电市场、Microsoft Edge 被曝安全隐患等",
+          "imageUrl": null
+        },
         {
           "id": "https://sspai.com/post/88578",
           "author": "少数派编辑部",
@@ -2809,26 +2809,6 @@
           "publishedOn": "2026-04-08T00:16:50.000Z",
           "wordCount": 712,
           "title": "派早报：macOS 内核 TCP 协议栈存在溢出漏洞、Google Pixel 10a 推出独占版本等",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sspai.com/post/108343",
-          "author": "Matrix机器人",
-          "description": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文",
-          "link": "https://sspai.com/post/108343",
-          "publishedOn": "2026-04-07T09:00:00.000Z",
-          "wordCount": 1131,
-          "title": "社区速递 136 | 派友大秀 Vibe Coding 作品、ROCK 数据线收纳盒与空气凤梨",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sspai.com/post/108150",
-          "author": "阿帅的健康笔记",
-          "description": "提到跑步热身，你想到的是什么？查看全文",
-          "link": "https://sspai.com/post/108150",
-          "publishedOn": "2026-04-07T07:00:00.000Z",
-          "wordCount": 246,
-          "title": "写给「跑两步就喘」的你：跑前精准热身，缓解跑时疼痛",
           "imageUrl": null
         }
       ]
@@ -5679,76 +5659,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "https://pic.yupoo.com/fotomag/5a507af5/a1057122.jpg"
-        },
-        {
-          "id": "idaily-249144",
-          "author": "月球",
-          "description": "NASA 公布一张「阿尔忒弥斯2号」任务宇航员拍摄的月球照片，清晰呈现月球背面的大型撞击坑。4月6日，猎户座飞船成功近距离飞掠月球，距离月球表面最近仅6400公里，距离地球最远达40.6万公里，创下人类有史以来最远太空飞行纪录。「阿尔忒弥斯2号」任务宇航员在飞掠月球过程中共进行约7个小时科学观测，对月球背面的撞击坑、远古熔岩流等地貌进行拍摄和记录，其中包括时长约1个小时的日全食现象。猎户座飞船目前已开始返回地球，预计4月10日在加州附近太平洋海域溅落。摄影师：NASA",
-          "link": "https://m.idai.ly/se/d49MEj",
-          "publishedOn": "2026-04-07T10:59:00.000Z",
-          "wordCount": 242,
-          "title": "猎户座飞船飞掠近月点 - April 7, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/93a303d2/a18a5eb5.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/93a303d2/a18a5eb5.jpg"
-        },
-        {
-          "id": "idaily-249141",
-          "author": "中国 · 北京",
-          "description": "游客们在清明节假期游览北京天坛祈年殿。4月6日，中国交通运输部公布2026年清明假期3天全社会跨区域人员流动量预计超过8.45亿人次，同比增长6%，其中公路人员流动量同比增长5.8%至7.78亿人次，铁路客运量增长8.2%至5767.9万人次，水路客运量增长9.8%至372.5万人次，民航客运量同比下降-1.3%至552.4万人次。清明假期北京全市公园共接待游客594.16万人次，游客量排名前三的公园依次为颐和园、天坛公园和玉渊潭公园。摄影师：Yang Yuran",
-          "link": "https://m.idai.ly/se/8258zz",
-          "publishedOn": "2026-04-07T09:58:00.000Z",
-          "wordCount": 242,
-          "title": "中国清明假期出游增长6% - April 7, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/f2d25d82/ae86c1ba.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/f2d25d82/ae86c1ba.jpg"
-        },
-        {
-          "id": "idaily-249140",
-          "author": "美国 · 华盛顿特区",
-          "description": "美国总统 Donald Trump 就伊朗冲突局势举行新闻发布会，华盛顿白宫。4月6日，美国总统 Trump 在白宫记者会上说明美军营救飞行员的详细任务过程，包括出动数百名军人和总计176架飞机，耗时50个小时，炸毁2架无法起飞的运输机，最终实现零伤亡撤离。Trump 威胁称如果伊朗在4月7日晚20时前未能达成停战协议，美军将在4个小时内摧毁伊朗境内的所有桥梁和发电厂。美国三大股指当天集体收涨，纳斯达克指数上涨0.54%，标普500指数上涨0.44%，道琼斯指数上涨0.36%。摄影师：Brendan Smialowski",
-          "link": "https://m.idai.ly/se/8dfuAw",
-          "publishedOn": "2026-04-07T08:57:00.000Z",
-          "wordCount": 242,
-          "title": "特朗普威胁炸毁伊朗电厂 - April 7, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/069446bf/b35b5b03.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/069446bf/b35b5b03.jpg"
-        },
-        {
-          "id": "idaily-249137",
-          "author": "美国 · 华盛顿特区",
-          "description": "美国总统 Donald Trump 夫妇出席白宫复活节庆祝活动，华盛顿特区。4月6日，白宫举办第146届复活节滚彩蛋活动，本年度主题为庆祝美国建国250周年，现场设置滚彩蛋比赛、彩蛋涂绘、小鸡农场科普展、迷你高尔夫球和月球探索体验等活动，共有近5万名宾客受邀参加。美国农场局数据显示2026年2月美国鸡蛋零售价格为每打2.5美元，同比下降-57%，主要原因为禽流感疫情结束、鸡蛋产量恢复正常。摄影师：Brendan Smialowski-Pool",
-          "link": "https://m.idai.ly/se/d49bE7",
-          "publishedOn": "2026-04-07T08:55:00.000Z",
-          "wordCount": 242,
-          "title": "白宫复活节庆祝活动 - April 7, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/c1876b2b/9acc97c0.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/c1876b2b/9acc97c0.jpg"
-        },
-        {
-          "id": "idaily-249135",
-          "author": "越南 · 河内",
-          "description": "越共中央总书记苏林宣誓就任越南国家主席，河内。4月7日，越南第十六届国会第一次会议在河内开幕，越共总书记苏林以全票当选新一任国家主席，任期至2031年。这是越南1976年迄今首次由越共中央总书记正式担任国家主席职务，意味着该国打破长期以来「四驾马车」集体领导制的传统。苏林在就职演说中指出，当前政府首要任务是维护和平稳定的环境，推动国家快速、可持续发展，全面提高人民生活水平，让人民共享发展成果，为地区和世界的和平、稳定、发展与进步作出更大贡献。越南统计局公布2026年第一季度 GDP 增幅为7.83%，主要受到消费、旅游和制造业增长推动。摄影师：Dang Anh",
-          "link": "https://m.idai.ly/se/595Q3K",
-          "publishedOn": "2026-04-07T08:53:00.000Z",
-          "wordCount": 242,
-          "title": "苏林当选越南国家主席 - April 7, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/8af72db4/1a6d2327.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/8af72db4/1a6d2327.jpg"
         }
       ]
     },
@@ -6626,16 +6536,6 @@
           "wordCount": 887,
           "title": "美国和伊朗达成为期两周停火协议",
           "imageUrl": "https://static01.nyt.com/images/2026/04/07/multimedia/07israel-iran-cease-fire-jqwl/07israel-iran-cease-fire-jqwl-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/china/20260407/china-drone-regulations/dual",
-          "author": null,
-          "description": "JOY DONG2026年4月7日上个月，一架配送无人机在中国深圳上空飞行。中国已大幅收紧了针对娱乐和民用无人机的使用规定。 Cheng Xin/Getty Images\nChina dominates the global drone industry. But it is fast becoming one of the toughest places to fly one.\n中国在全球无人机行业占据绝对主导地位，如今却正迅速成为全球无人机飞行管控最严格的地区之一。\nNew regulations are sharply tightening rules for recreational and civilian operators. Since January, officials have ramped up the penalties for unauthorized flying of drones to include possible jail time. Starting in May, all drones must be registered with the owners’ real names, requiring operators to link their flight equipment to their official identification or cellphone number.\n新出台的规定大幅收紧了针对娱乐及民用无人机操作者的规定。自今年1月起，官方加大了对违规无人机飞行为的处罚力度，处罚措施中甚至包括可能的监禁。从5月开始，所有无人机必须完成所有者实名注册，操作者需将飞行设备与本人官方身份证件或手机号码绑定。\nPermits will be required at least a day in advance in re…",
-          "link": "https://cn.nytimes.com/china/20260407/china-drone-regulations/dual",
-          "publishedOn": "2026-04-07T06:06:02.000Z",
-          "wordCount": 1451,
-          "title": "中国缔造了全球无人机产业，却“封锁”了天空",
-          "imageUrl": "https://static01.nyt.com/images/2026/04/05/world/05int-china-drones/05int-china-drones-articleLarge.jpg"
         }
       ]
     },
