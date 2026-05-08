@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mananchong.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-07T18:08:30.767Z</updated>
+    <updated>2026-05-08T08:56:18.574Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mananchong.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://mananchong.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[万字复盘我家的装修过程，希望可以帮你避避坑]]></title>
+        <id>https://sspai.com/post/109397</id>
+        <link href="https://sspai.com/post/109397"/>
+        <updated>2026-05-08T03:30:57.000Z</updated>
+        <summary type="html"><![CDATA[从 0 开始装修新家，这些事项值得你避坑。查看全文]]></summary>
+        <author>
+            <name>江哗啦啦</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：Google 发布 Fitbit Air 等]]></title>
+        <id>https://sspai.com/post/109489</id>
+        <link href="https://sspai.com/post/109489"/>
+        <updated>2026-05-08T00:51:39.000Z</updated>
+        <summary type="html"><![CDATA[高通发布骁龙 6 Gen 5 / 4 Gen 5 移动平台，Google 宣布停运 Project Mariner 等。查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blind Sheikh Sympathizer Runs for a New Jersey Seat in Congress]]></title>
+        <id>https://www.nationalreview.com/?p=1958621</id>
+        <link href="https://www.nationalreview.com/2026/05/blind-sheikh-sympathizer-runs-for-a-new-jersey-seat-in-congress/"/>
+        <updated>2026-05-07T21:03:37.000Z</updated>
+        <summary type="html"><![CDATA[If you dismiss the possibility of this Ilhan Omar–backed candidate winning, you haven’t been paying attention.]]></summary>
+        <author>
+            <name>Andrew C. McCarthy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mamdani’s Shameful Condemnation of a Manhattan Synagogue]]></title>
         <id>https://www.nationalreview.com/?p=1958299</id>
@@ -164,6 +194,33 @@
         <summary type="html"><![CDATA[甘南是有着和川西、川北和青甘大环线齐名的绝美圣地，中国大地上第一级阶梯向第二级阶梯的过渡带。这片地方还得再来，适合自驾慢慢走慢慢看，好多风景优美的地方不适合赶路着急。查看全文]]></summary>
         <author>
             <name>PJHubs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[承认使用AI写作的知名小说家称感觉“像作弊”]]></title>
+        <id>ce60c458b38f3a92cb7d6ae9469a29c0</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E6%89%BF%E8%AE%A4%E4%BD%BF%E7%94%A8AI%E5%86%99%E4%BD%9C%E7%9A%84%E7%9F%A5%E5%90%8D%E5%B0%8F%E8%AF%B4%E5%AE%B6%E7%A7%B0%E6%84%9F%E8%A7%89%E2%80%9C%E5%83%8F%E4%BD%9C%E5%BC%8A%E2%80%9D"/>
+        <updated>2026-05-07T01:58:00.000Z</updated>
+        <author>
+            <name>新京报书评周刊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从法外之地到权利议题：性骚扰如何被法律看见？]]></title>
+        <id>790ccbe3e42edd606e9dc45adeb0b9e2</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E4%BB%8E%E6%B3%95%E5%A4%96%E4%B9%8B%E5%9C%B0%E5%88%B0%E6%9D%83%E5%88%A9%E8%AE%AE%E9%A2%98%EF%BC%9A%E6%80%A7%E9%AA%9A%E6%89%B0%E5%A6%82%E4%BD%95%E8%A2%AB%E6%B3%95%E5%BE%8B%E7%9C%8B%E8%A7%81%EF%BC%9F"/>
+        <updated>2026-05-07T01:58:00.000Z</updated>
+        <author>
+            <name>新京报书评周刊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从《浪姐》说起：我们为什么爱上了“走音切片”？]]></title>
+        <id>16910796557ea450a395119ebf288924</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E4%BB%8E%E3%80%8A%E6%B5%AA%E5%A7%90%E3%80%8B%E8%AF%B4%E8%B5%B7%EF%BC%9A%E6%88%91%E4%BB%AC%E4%B8%BA%E4%BB%80%E4%B9%88%E7%88%B1%E4%B8%8A%E4%BA%86%E2%80%9C%E8%B5%B0%E9%9F%B3%E5%88%87%E7%89%87%E2%80%9D%EF%BC%9F"/>
+        <updated>2026-05-07T01:58:00.000Z</updated>
+        <author>
+            <name>新京报书评周刊</name>
         </author>
     </entry>
     <entry>
@@ -354,6 +411,24 @@
         <summary type="html"><![CDATA[强硬规则约束下的公式化表达，即便去除了现在的 AI 味，会不会产生新的 AI 味呢？查看全文]]></summary>
         <author>
             <name>小胡小胡0009</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“出走”是因为什么？不止于节后上班日的课题]]></title>
+        <id>8e9782387f24a1daf572fbc3456b9074</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E2%80%9C%E5%87%BA%E8%B5%B0%E2%80%9D%E6%98%AF%E5%9B%A0%E4%B8%BA%E4%BB%80%E4%B9%88%EF%BC%9F%E4%B8%8D%E6%AD%A2%E4%BA%8E%E8%8A%82%E5%90%8E%E4%B8%8A%E7%8F%AD%E6%97%A5%E7%9A%84%E8%AF%BE%E9%A2%98"/>
+        <updated>2026-05-06T02:02:00.000Z</updated>
+        <author>
+            <name>新京报书评周刊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新京雅集——他把鸡毛蒜皮的日常，画成了画]]></title>
+        <id>a30c72d4c55fc1701f76debb51997f58</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E6%96%B0%E4%BA%AC%E9%9B%85%E9%9B%86%E2%80%94%E2%80%94%E4%BB%96%E6%8A%8A%E9%B8%A1%E6%AF%9B%E8%92%9C%E7%9A%AE%E7%9A%84%E6%97%A5%E5%B8%B8%EF%BC%8C%E7%94%BB%E6%88%90%E4%BA%86%E7%94%BB"/>
+        <updated>2026-05-06T02:02:00.000Z</updated>
+        <author>
+            <name>新京报书评周刊</name>
         </author>
     </entry>
     <entry>
@@ -6358,169 +6433,6 @@ Iran’s decision to accept the two-week cease-fire proposal brokered by Pakista
         <summary type="html"><![CDATA[DeepSeek 上线专家模式、闪迪推出 2TB Extreme Pro UHS-II SD 卡等。查看全文]]></summary>
         <author>
             <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Uncertain Cease-Fire]]></title>
-        <id>https://www.nationalreview.com/?p=1942737</id>
-        <link href="https://www.nationalreview.com/2026/04/an-uncertain-cease-fire/"/>
-        <updated>2026-04-08T18:27:21.000Z</updated>
-        <summary type="html"><![CDATA[There’s a cease-fire for now, but there won’t be an end to the larger war until the Islamic Republic falls.]]></summary>
-        <author>
-            <name>The Editors</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trump’s Iran Miscalculation]]></title>
-        <id>https://www.nationalreview.com/?p=1942742</id>
-        <link href="https://www.nationalreview.com/2026/04/trumps-iran-miscalculation/"/>
-        <updated>2026-04-08T17:56:06.000Z</updated>
-        <summary type="html"><![CDATA[Madman theory doesn’t work against other madmen.]]></summary>
-        <author>
-            <name>Andrew C. McCarthy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[America Has the Upper Hand in Iran Negotiations]]></title>
-        <id>https://www.nationalreview.com/?p=1942566</id>
-        <link href="https://www.nationalreview.com/2026/04/america-has-the-upper-hand-in-iran-negotiations/"/>
-        <updated>2026-04-08T13:44:02.000Z</updated>
-        <summary type="html"><![CDATA[Those who believed the war was a disaster from the outset seem convinced that worst-case outcomes are inevitable. They’re not.]]></summary>
-        <author>
-            <name>Noah Rothman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[For One Day, the World Revolves Around Hungary]]></title>
-        <id>https://www.nationalreview.com/?p=1942174</id>
-        <link href="https://www.nationalreview.com/2026/04/for-one-day-the-world-revolves-around-hungary/"/>
-        <updated>2026-04-08T10:30:58.000Z</updated>
-        <summary type="html"><![CDATA[This small nation’s sudden centrality exposes the contradictions of the liberal world order.]]></summary>
-        <author>
-            <name>Michael Brendan Dougherty</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beyond Character: A Political Soap Opera]]></title>
-        <id>https://www.nationalreview.com/?p=1942087</id>
-        <link href="https://www.nationalreview.com/2026/04/beyond-character-a-political-soap-opera/"/>
-        <updated>2026-04-08T10:30:41.000Z</updated>
-        <summary type="html"><![CDATA[CBS and the NAACP’s agenda bend the media.]]></summary>
-        <author>
-            <name>Armond White</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From the Earth to the Moon, and Back Again]]></title>
-        <id>https://www.nationalreview.com/?p=1942308</id>
-        <link href="https://www.nationalreview.com/2026/04/from-the-earth-to-the-moon-and-back-again/"/>
-        <updated>2026-04-08T10:30:13.000Z</updated>
-        <summary type="html"><![CDATA[The successful launch of Artemis II marks a moment of great hope.]]></summary>
-        <author>
-            <name>The Editors</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Anchor in the Storm]]></title>
-        <id>https://www.nationalreview.com/?p=1942066</id>
-        <link href="https://www.nationalreview.com/2026/04/an-anchor-in-the-storm/"/>
-        <updated>2026-04-08T10:30:10.000Z</updated>
-        <summary type="html"><![CDATA[In a time of global upheaval, we will cleave to the eternal truths.]]></summary>
-        <author>
-            <name>Michael Brendan Dougherty</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[猎户座飞船启程返航 - April 8, 2026]]></title>
-        <id>idaily-249209</id>
-        <link href="https://m.idai.ly/se/ed9vYK"/>
-        <updated>2026-04-08T09:59:00.000Z</updated>
-        <summary type="html"><![CDATA[NASA 公布一张「阿尔忒弥斯2号」任务宇航员拍摄的月球与地球照片。4月7日晚上20时03分，猎户座飞船推进器点火约15秒，成功完成返回地球的首次轨道修正。根据 NASA 公布的任务计划，「阿尔忒弥斯2号」任务宇航员将在4月8日开展「低血压耐受服」、猎户座飞船控制模式等测试工作，休息一晚后于4月10日返回地球。摄影师：NASA]]></summary>
-        <author>
-            <name>月球</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[回望日系手机的「加拉帕戈斯」时代]]></title>
-        <id>https://sspai.com/prime/story/a-look-at-the-galapagos-era-of-japanese-cellphones</id>
-        <link href="https://sspai.com/prime/story/a-look-at-the-galapagos-era-of-japanese-cellphones"/>
-        <updated>2026-04-08T09:11:08.000Z</updated>
-        <summary type="html"><![CDATA[时代车轮之下，精彩的戏剧即便落幕也会被记住。回望这场漫长而惨烈的旅程，那些最终失意的旧势力留下的不只是封闭与开放的反面教材。真正的失败是从未竭尽全力，而日本手机行业的「加拉帕戈斯时代」，即便偏离了世界的主航道，也确实在一个虚幻的泡泡里，倾注了无数人对「未来通信」最狂热的想象与探索。查看全文
-本文为会员文章，出自《单篇文章》，订阅后可阅读全文。]]></summary>
-        <author>
-            <name>WangMT</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美伊达成临时停火协议 - April 8, 2026]]></title>
-        <id>idaily-249206</id>
-        <link href="https://m.idai.ly/se/f94Uta"/>
-        <updated>2026-04-08T08:58:00.000Z</updated>
-        <summary type="html"><![CDATA[伊朗民众清理在空袭中受损的大侯赛尼耶清真寺，赞詹市。4月7日，美国总统 Donald Trump 在预告发动大规模空袭的最后时刻宣布与伊朗达成一项为期两周的临时停火协议，并宣称伊朗已同意立即重新开放霍尔木兹海峡，双方将在巴基斯坦的斡旋下开展谈判。伊朗最高国家安全委员会发表声明称，伊方拒绝了美方的所有条件，并提出一份包含10条要点的停火协议框架，包括承认伊朗对霍尔木兹海峡的通行控制权、美军从海湾地区彻底撤出、向伊朗支付战争赔款、解除所有对伊朗的制裁等。受美伊达成停火协议消息影响，全球基准布伦特原油价格当天下跌-13%至94.80美元/桶，本轮冲突以来首次跌至100美元以下。摄影师：Francisco Seco]]></summary>
-        <author>
-            <name>伊朗 · 赞詹</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[巴西原住民平权游行 - April 8, 2026]]></title>
-        <id>idaily-249204</id>
-        <link href="https://m.idai.ly/se/2cfouO"/>
-        <updated>2026-04-08T07:57:00.000Z</updated>
-        <summary type="html"><![CDATA[巴西原住民群体举行第22届「自由土地营」（Acampamento Terra Livre）游行活动，巴西利亚。4月5日，巴西原住民启动为期一周的「自由土地营」游行大会，本届主题为「拒绝出卖我们的未来」，共有来自200个原住民团体的约7000名代表参加。「自由土地营」是巴西规模最大的原住民平权活动，核心诉求包括解决原住民土地划界问题、提升原住民政治参与权等。巴西目前原住民人口为169万，占该国总人口的0.83%。摄影师：Evaristo Sa]]></summary>
-        <author>
-            <name>巴西 · 巴西利亚</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[福岛千年古樱进入盛花期 - April 8, 2026]]></title>
-        <id>idaily-249202</id>
-        <link href="https://m.idai.ly/se/c64Ge4"/>
-        <updated>2026-04-08T07:55:00.000Z</updated>
-        <summary type="html"><![CDATA[游客们在夜间观赏千年樱花树「三春泷樱」，福岛县。4月6日，日本千年古树「三春泷樱」迎来完全盛开期，比2025年花季提前6天。福岛县三春泷樱与山梨县神代樱、岐阜县淡墨樱并称日本三大樱花古树，推测树龄超过1000年。这棵古樱高13.5米，树冠宽度达25米，盛开时樱花如同瀑布倾泻而下，因此被命名为「泷樱」，每年花期吸引约30万人观赏。市场调查公司 Intage 公布报告显示，2026年日本民众赏樱平均预算为6383日元（约合40美元），同比下降-14%。摄影师：iDaily Media]]></summary>
-        <author>
-            <name>日本 · 福岛县</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[长征八号发射千帆卫星 - April 8, 2026]]></title>
-        <id>idaily-249201</id>
-        <link href="https://m.idai.ly/se/e80biI"/>
-        <updated>2026-04-08T07:53:00.000Z</updated>
-        <summary type="html"><![CDATA[中国长征八号运载火箭搭载18颗互联网卫星发射升空，海南商业航天发射场。4月7日，长征八号火箭执行「一箭18星」任务，成功将「千帆星座」第7批组网卫星送入预定轨道。「千帆星座」是中国正在建设的低轨卫星互联网星座，迄今累计发射126颗在轨卫星，目标2030年完成1.5万颗卫星组网，为全球用户提供无缝覆盖、低延时、大容量及低成本的卫星宽带互联网服务。摄影师：iDaily Media]]></summary>
-        <author>
-            <name>中国 · 文昌</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本私企设计太空机器人 - April 8, 2026]]></title>
-        <id>idaily-249200</id>
-        <link href="https://m.idai.ly/se/ce4PQ8"/>
-        <updated>2026-04-08T07:51:00.000Z</updated>
-        <summary type="html"><![CDATA[日本太空机器人公司 Space Entry 展示「哈罗」（Hello Haro）机器人的设计模型，稻城市。4月7日，Space Entry 公司宣布启动「哈罗」太空机器人项目，目标在2026年底将这款机器人部署至国际空间站日本「希望号」实验舱。这款机器人由日本动画师大河原邦男设计，采用铝外壳，直径21厘米，重4.5公斤，配备摄像头、麦克风和推进器，可以在空间站内进行360度全方位飞行，并通过 AI 技术与宇航员进行自主对话。摄影师：Keizo Mori]]></summary>
-        <author>
-            <name>日本 · 稻城市</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Type-C 接口最大的问题，是看起来已经「统一」了]]></title>
-        <id>https://sspai.com/post/108325</id>
-        <link href="https://sspai.com/post/108325"/>
-        <updated>2026-04-08T06:42:09.000Z</updated>
-        <summary type="html"><![CDATA[真正的问题在于，Type-C 用一个统一的接口形态，掩盖了背后复杂且分裂的实现与协议。查看全文]]></summary>
-        <author>
-            <name>流歌</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[路易威登新展《光之三重奏》 - 路易威登新展《光之三重奏》]]></title>
-        <id>idaily-249210</id>
-        <link href="https://e.cn.miaozhen.com/r/k=2496884&amp;amp;p=92rWl&amp;amp;rt=2&amp;amp;pro=s&amp;amp;o=https://trace.rtbasia.com/tkp?rta_k=OP8jXtiXl6&amp;amp;utm_campaign=_rtc_d0817bf99982f32f&amp;amp;utm_source=idaily&amp;amp;utm_content=_rtb_ntlcj1&amp;amp;utm_medium=direct_buy&amp;amp;utm_term=CPD&amp;amp;device=Mobile&amp;amp;adtype=7&amp;amp;crtype=1&amp;amp;forward=https%3A%2F%2Fapp-cdn.ipad.ly%2Ffeature%2F1908&amp;amp;sg=5e670b969b2ed87e917ca5193e90c90c&amp;amp;rta_tagid=jzwamzw2&amp;amp;ord=1775711115227"/>
-        <updated>2026-04-08T06:23:00.000Z</updated>
-        <summary type="html"><![CDATA[值路易威登 Espace 文化艺术空间成立二十周年、路易威登基金会“墙外”（Hors-les-murs）项目创立十周年之际，北京 Espace 文化艺术空间以展览呈现法国艺术家尚-米歇尔·欧托尼耶的装置作品。
-欧托尼耶在1996年开始使用玻璃， 其创作由 “影” 向 “光” 转变。自此玻璃成为艺术家创作的核心媒介，不论在传统技术的工坊还是在当代高科技的环境下，欧托尼耶都拥抱制作过程中涌现的未知时刻，让偶然性、动作与变形共同塑造作品的最终样貌。
-邀您即刻前往路易威登北京 Espace 文化艺术空间，步入一处由光、色彩与动态所塑造的静观之境。]]></summary>
-        <author>
-            <name>iDaily · 每日环球视野</name>
         </author>
     </entry>
 </feed>
