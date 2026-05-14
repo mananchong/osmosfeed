@@ -55,6 +55,76 @@
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
         {
+          "id": "https://www.nationalreview.com/?p=1962439",
+          "author": "Andrew C. McCarthy",
+          "description": "There’s no avoiding blunt reality.",
+          "link": "https://www.nationalreview.com/2026/05/in-iran-what-now/",
+          "publishedOn": "2026-05-14T17:28:20.000Z",
+          "wordCount": 7293,
+          "title": "In Iran, What Now?",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/05/peralta-tanker.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1961852",
+          "author": "John O’Sullivan",
+          "description": "The pomp of the address was a splendid backdrop to a full-blown political crisis in the U.K.",
+          "link": "https://www.nationalreview.com/2026/05/behind-the-kings-speech/",
+          "publishedOn": "2026-05-14T10:30:45.000Z",
+          "wordCount": 7042,
+          "title": "Behind the King’s Speech",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/05/king-charles-parliament.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1961743",
+          "author": "Brian T. Allen",
+          "description": "Two big-ego popes, tapestries, and the hater Michelangelo loom large in the last decade of ‘the prince of artists.’",
+          "link": "https://www.nationalreview.com/2026/05/raphael-goes-to-rome-courtesy-of-the-met/",
+          "publishedOn": "2026-05-14T10:30:21.000Z",
+          "wordCount": 22486,
+          "title": "Raphael Goes to Rome, Courtesy of the Met",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/05/Saint-Paul-and-Saint-Barnabas-at-Lystra.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1961954",
+          "author": "The Editors",
+          "description": "A new report details Hamas’s crimes in excruciating, granular detail.",
+          "link": "https://www.nationalreview.com/2026/05/the-sexual-barbarism-of-october-7/",
+          "publishedOn": "2026-05-14T10:30:15.000Z",
+          "wordCount": 6487,
+          "title": "The Sexual Barbarism of October 7",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/11/kibbutz-nir-oz-israel.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1961027",
+          "author": "Abe Hamadeh",
+          "description": "What I saw on a trip to the border gave me cause for hope — and cause for concern.",
+          "link": "https://www.nationalreview.com/2026/05/arizonas-border-security-is-national-security/",
+          "publishedOn": "2026-05-14T10:30:05.000Z",
+          "wordCount": 6723,
+          "title": "Arizona’s Border Security Is National Security",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/06/border-crisis-062424-3.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1961705",
+          "author": "Andy Smarick",
+          "description": "With the rise of AI in schools, we’re forgetting the importance of having students do hard things.",
+          "link": "https://www.nationalreview.com/2026/05/ai-in-the-classroom-is-our-most-senseless-education-experiment-yet/",
+          "publishedOn": "2026-05-14T10:30:04.000Z",
+          "wordCount": 6349,
+          "title": "AI in the Classroom Is Our Most Senseless Education Experiment Yet",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/05/classroom-denver.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1961861",
+          "author": "Christian Schneider",
+          "description": "As trust in higher education plummets, colleges are diluting the value of their degrees.",
+          "link": "https://www.nationalreview.com/2026/05/universities-offer-up-counterfeit-credentials/",
+          "publishedOn": "2026-05-14T10:30:00.000Z",
+          "wordCount": 6979,
+          "title": "Universities Offer Up Counterfeit Credentials",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/05/vanderbilt-university.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
           "id": "https://www.nationalreview.com/?p=1961716",
           "author": "Michael Brendan Dougherty",
           "description": "If Europe doesn’t ease up, it will have to learn the hard way that repression has its limits.",
@@ -1923,16 +1993,6 @@
           "wordCount": 6358,
           "title": "A Wartime Journal of Opinion",
           "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/04/epic-fury-hornet.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1945728",
-          "author": "Rich Lowry",
-          "description": "They shall beat their swords into plowshares, but not yet.",
-          "link": "https://www.nationalreview.com/2026/04/trump-vs-the-pope/",
-          "publishedOn": "2026-04-14T22:57:26.000Z",
-          "wordCount": 6744,
-          "title": "Trump vs. the Pope",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/04/TrumpPopeLeo2.jpg?fit=2057%2C1200&ssl=1"
         }
       ]
     },
@@ -1941,6 +2001,16 @@
       "feedUrl": "https://sspai.com/feed",
       "siteUrl": "https://sspai.com",
       "articles": [
+        {
+          "id": "https://sspai.com/post/109771",
+          "author": "少数派编辑部",
+          "description": "编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...查看全文",
+          "link": "https://sspai.com/post/109771",
+          "publishedOn": "2026-05-14T09:17:27.000Z",
+          "wordCount": 353,
+          "title": "新玩意 241｜少数派的编辑们最近买了啥？",
+          "imageUrl": null
+        },
         {
           "id": "https://sspai.com/prime/story/linux-vm-on-android",
           "author": "化学心情下2",
@@ -2850,26 +2920,6 @@
           "wordCount": 274,
           "title": "一日一技｜Liquid Glass 液态变磨砂",
           "imageUrl": null
-        },
-        {
-          "id": "https://sspai.com/post/107146",
-          "author": "桌沿奇思",
-          "description": "我想与你分享AI无法真正共情的人生大事：睡眠。查看全文",
-          "link": "https://sspai.com/post/107146",
-          "publishedOn": "2026-04-15T03:11:24.000Z",
-          "wordCount": 239,
-          "title": "从一夜无眠到夜夜香甜：睡个好觉并不难",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sspai.com/post/108653",
-          "author": "少数派编辑部",
-          "description": "索尼发布发布 Inzone M10S II 游戏显示器及系列音频外设，三星发布 2026 款 Micro RGB 电视等。查看全文",
-          "link": "https://sspai.com/post/108653",
-          "publishedOn": "2026-04-15T00:20:38.000Z",
-          "wordCount": 715,
-          "title": "派早报：拓竹 X2D 正式发布、微软再次上调 Surface 全线产品定价等",
-          "imageUrl": null
         }
       ]
     },
@@ -2878,6 +2928,90 @@
       "feedUrl": "https://plink.anyfeeder.com/idaily/today",
       "siteUrl": "https://idai.ly",
       "articles": [
+        {
+          "id": "idaily-251245",
+          "author": "火星",
+          "description": "NASA 公布一张「毅力号」（Perseverance）火星漫游车的自拍照，左侧火星岩石上的白色圆点是「毅力号」分析取样后留下的钻痕。这张照片拍摄于3月11日，「毅力号」火星车正在探索耶泽罗陨石坑的西部边缘区域，被取样的火星岩经分析确认主要由火成矿物组成，推测约40亿年前由熔岩冷却凝固形成。摄影师：NASA",
+          "link": "https://m.idai.ly/se/9cc96f",
+          "publishedOn": "2026-05-14T10:59:00.000Z",
+          "wordCount": 250,
+          "title": "毅力号钻探火星岩 - May 14, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/eb7d3af0ef/8c3e0de0.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/eb7d3af0ef/8c3e0de0.jpg"
+        },
+        {
+          "id": "idaily-251244",
+          "author": "中国 · 北京",
+          "description": "中国国家主席习近平在欢迎仪式上与美国总统 Donald Trump 握手致意，北京。5月13日，美国总统 Trump 应邀对中国进行为期3天国事访问。这是美国总统时隔9年再次访华，两国元首就中美关系、经贸合作、台湾问题、中东局势、乌克兰危机、朝鲜半岛等重大国际和地区问题举行约2小时会谈，同意将构建「中美建设性战略稳定关系」作为中美关系新定位。习近平强调，台湾问题是中美关系中最重要的问题，敦促美方务必慎之又慎处理台湾问题。美国总统 Trump 表示，美中两国是世界上最重要、最强大的国家，美方愿同中方开启有史以来最好的美中关系。摄影师：Kenny Holston",
+          "link": "https://m.idai.ly/se/be8Il3",
+          "publishedOn": "2026-05-14T09:58:00.000Z",
+          "wordCount": 250,
+          "title": "中美元首北京会晤 - May 14, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/e55fed471e/c2390960.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/e55fed471e/c2390960.jpg"
+        },
+        {
+          "id": "idaily-251238",
+          "author": "中国 · 北京",
+          "description": "中国国家主席习近平与美国总统 Donald Trump 参观北京天坛公园。5月14日，美国总统 Trump 在中国国家主席习近平陪同下参观北京天坛公园，成为自1975年美国总统福特之后首位到访天坛的美国在任总统。这是 Trump 第二次以总统身份访华，随行代表团包括美国国务卿、国防部长、财政部长等内阁官员，以及英伟达、特斯拉、苹果、波音、Meta、甲骨文等美国企业代表。中国海关总署数据显示2026年前4个月中美双边贸易额达1792.02亿美元，同比下降-10.4%。摄影师：Brendan Smialowski",
+          "link": "https://m.idai.ly/se/e42GlF",
+          "publishedOn": "2026-05-14T08:57:00.000Z",
+          "wordCount": 250,
+          "title": "特朗普参观北京天坛 - May 14, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/86acb83b65/d3ddd1b0.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/86acb83b65/d3ddd1b0.jpg"
+        },
+        {
+          "id": "idaily-251236",
+          "author": "英国 · 伦敦",
+          "description": "英国国王查尔斯三世出席国会开幕典礼，伦敦。5月13日，英王查尔斯三世在国会开幕典礼上宣读未来一年的政府施政与立法议程，共公布37项立法提案，涵盖英国欧盟关系、航空与铁路基建、英国钢铁公司国有化、边境移民管控、废除世袭贵族、福利制度改革等领域。国际货币基金组织（IMF）最新报告预测2026年英国 GDP 增速为0.8%，比前次预期值下调0.5个百分点，主要受中东局势导致的能源负面因素影响。摄影师：Kirsty Wigglesworth",
+          "link": "https://m.idai.ly/se/858TC6",
+          "publishedOn": "2026-05-14T08:55:00.000Z",
+          "wordCount": 250,
+          "title": "英国新一届议会开幕 - May 14, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/323db4e4dd/8555805a.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/323db4e4dd/8555805a.jpg"
+        },
+        {
+          "id": "idaily-251234",
+          "author": "韩国 · 首尔",
+          "description": "韩国民众在夜间参观首尔景福宫。5月13日，首尔景福宫正式开启2026年春季夜间游览活动，每天晚上19时至21时30分限3000人入场，开放区域包括光化门、勤政殿、庆会楼、康宁殿等核心建筑，活动预计持续至6月14日。景福宫始建于1395年，是韩国现存规模最大的古代王宫。韩国文化观光部数据显示2026年第一季度共接待外国游客476万人次，同比增长23%，创下历史新高，排名前三的游客来源地依次是中国大陆、日本和中国台湾。摄影师：Jeon Heon-kyun",
+          "link": "https://m.idai.ly/se/36djoF",
+          "publishedOn": "2026-05-14T08:53:00.000Z",
+          "wordCount": 250,
+          "title": "首尔景福宫夜间游览 - May 14, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/cd918fe501/662ef772.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/cd918fe501/662ef772.jpg"
+        },
+        {
+          "id": "idaily-251233",
+          "author": "法国 · 梅兹",
+          "description": "法国梅兹恐龙博物馆公园，古生物学家展示一枚恐龙蛋化石，埃罗省。法国梅兹恐龙博物馆公园于2026年3月宣布在当地新发现一处恐龙蛋化石群，估计埋藏至少100枚恐龙蛋化石，均保存完整，历史可追溯至距今约7200万年的白垩纪晚期。古生物学家推测这批恐龙蛋属于不同类的草食性恐龙，包括泰坦巨龙和凹齿龙，预计整体发掘工作还将持续5至7年。摄影师：Guillaume Horcajuelo",
+          "link": "https://m.idai.ly/se/dd9U65",
+          "publishedOn": "2026-05-14T08:51:00.000Z",
+          "wordCount": 250,
+          "title": "法国新发现恐龙蛋化石群 - May 14, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/88e7705529/f061f152.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/88e7705529/f061f152.jpg"
+        },
         {
           "id": "idaily-251215",
           "author": "中国 · 太原",
@@ -6572,76 +6706,6 @@
           "wordCount": 1028,
           "title": "中国多年来如何对伊朗进行军事援助",
           "imageUrl": "https://static01.nyt.com/images/2026/04/15/multimedia/15int-china-iran-weapons-01-vkfj/15int-china-iran-weapons-01-vkfj-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/usa/20260415/trump-pope-leo/dual",
-          "author": null,
-          "description": "ELIZABETH DIAS, MOTOKO RICH2026年4月15日在梵蒂冈，教宗良十四世成为特朗普总统的新对手。 Diego Ibarra Sanchez for The New York Times\nDonald Trump ascended to office 10 years ago while publicly jousting with Pope Francis, who was routinely making headlines for the progressive Catholicism he elevated, pushing the Roman Catholic Church to focus on climate change and the rights of immigrants. The pope suggested that Mr. Trump was “not Christian”; Mr. Trump fired back that Francis was “disgraceful.”\n10年前，特朗普就任总统时曾与教宗方济各公开论战。当时，方济各因推行进步天主教理念频频登上头条，推动罗马天主教会关注气候变化与移民权利。教宗曾称特朗普“不是基督徒”，特朗普则反击称方济各“可耻”。\nMr. Trump capitalized on growing discontent among conservative Christians and won the White House. The chasm only further widened between the Vatican and conservative American Catholics, who often saw in Mr. Trump a champion.\n特朗普…",
-          "link": "https://cn.nytimes.com/usa/20260415/trump-pope-leo/dual",
-          "publishedOn": "2026-04-15T05:36:02.000Z",
-          "wordCount": 1313,
-          "title": "与教宗良十四世论战，特朗普这次的对手“不好惹”",
-          "imageUrl": "https://static01.nyt.com/images/2026/04/14/multimedia/14nat-trump-popes-cvjb/14nat-trump-popes-cvjb-articleLarge-v2.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/business/20260415/iran-war-imf-economic-growth/dual",
-          "author": null,
-          "description": "ALAN RAPPEPORT2026年4月15日国际货币基金组织的最新预测显示，美国对伊朗开战已使全球经济骤然停滞。 Martin Bernetti/Agence France-Presse — Getty Images\nWar in the Middle East has upended the world economy, the International Monetary Fund said on Tuesday, warning in a report that disruptions to oil markets could slow growth, fuel inflation and raise the possibility of a global recession.\n国际货币基金组织周二表示，中东战争已颠覆了世界经济，并在一份报告中警告称，石油市场遭受的破坏可能会拖累经济增长、加剧通胀，增加全球经济陷入衰退的风险。\nThe sober message came after the global economy had largely weathered a pandemic, Russia’s war in Ukraine and soaring inflation without tipping into a recession. But President Trump’s decision to initiate a war in Iran has stopped the world economy in its tracks.\n这一严峻的判断出炉前，全球经济挺过了疫情、俄罗斯对乌克兰的战争以及通胀飙升，并未陷入衰退。但特朗普总统对伊朗开战的决定使全球经济骤然停滞。\nIn its latest World Economic Outlook, the…",
-          "link": "https://cn.nytimes.com/business/20260415/iran-war-imf-economic-growth/dual",
-          "publishedOn": "2026-04-15T05:06:33.000Z",
-          "wordCount": 1046,
-          "title": "IMF警告中东战争将拖慢全球经济增长",
-          "imageUrl": "https://static01.nyt.com/images/2026/04/14/multimedia/14dc-globalecon-01-kpjz/14dc-globalecon-01-kpjz-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/world/20260415/viktor-orban-peter-magyar-election/dual",
-          "author": null,
-          "description": "ANDREW HIGGINS, LILI RUTAI2026年4月15日2024年，彼得·毛焦尔在维克托·欧尔班的故乡费尔切尔进行竞选活动。 Akos Stiller for The New York Times\nAddressing an audience of just a few hundred people, Peter Magyar, a charismatic but largely unknown lawyer, swayed atop an unsteady flatbed truck two years ago and issued a preposterous command: “Take back our country, step by step, brick by brick.”\n两年前，魅力十足但当时几乎无人知晓的律师彼得·毛焦尔站在一辆摇摇晃晃的平板卡车上，对着区区几百人的听众发表演讲，他发出了一个看似荒谬的命令：“一步一步、一砖一瓦，夺回我们的国家。”\nThe childhood home of Hungary’s seemingly invincible prime minister, Viktor Orban, was just down the road, and the idea that Europe’s longest-serving head of government would allow a jumped-up attorney to tear down his laboriously constructed and very sturdy political movement — a vote-winning machine called Fidesz — seemed absurd.\n当时，匈牙利看似不可战胜的总理维克…",
-          "link": "https://cn.nytimes.com/world/20260415/viktor-orban-peter-magyar-election/dual",
-          "publishedOn": "2026-04-15T03:36:02.000Z",
-          "wordCount": 1407,
-          "title": "他倒戈击败了欧尔班，但这意味着真正的变革吗？",
-          "imageUrl": "https://static01.nyt.com/images/2026/04/14/multimedia/14int-hungary-magyar-01-gzvb/14int-hungary-magyar-01-gzvb-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/world/20260415/trump-iran-blockade-china/dual",
-          "author": null,
-          "description": "DAVID E. SANGER, TYLER PAGER2026年4月15日去年10月，特朗普总统在韩国与中国国家主席习近平会晤。两人将于下月再次会面。 Haiyun Jiang/The New York Times\nWhen China declared on Monday that the U.S. blockade of Iranian oil leaving the Strait of Hormuz was “dangerous and irresponsible,” it was a brief window into President Trump’s latest challenge: how to keep the Iran conflict from upending an emerging détente with China.\n周一，中国公开表态称美国封锁伊朗石油经霍尔木兹海峡外运的行为“危险且不负责任”，这一言论短暂揭示了特朗普总统面临的最新挑战：如何防止美伊冲突破坏与中国之间正在形成的缓和态势。\nMr. Trump is expected to land in Beijing in four weeks, in what was imagined as a carefully planned, highly orchestrated effort to recast the relationship between the world’s two largest economies.\n特朗普预计四周后抵达北京，此行原本被设想为一场精心策划、高度统筹的行程，旨在重塑全球两大经济体间的关系。\nThe president has already delayed the trip once, and White House officials insist…",
-          "link": "https://cn.nytimes.com/world/20260415/trump-iran-blockade-china/dual",
-          "publishedOn": "2026-04-15T03:07:01.000Z",
-          "wordCount": 1131,
-          "title": "习近平就伊朗战争发声，特朗普访华前中美关系再遇挑战",
-          "imageUrl": "https://static01.nyt.com/images/2026/04/14/multimedia/14dc-trump-china-qwcp/14dc-trump-china-qwcp-articleLarge-v2.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/opinion/20260415/china-ai-america-chipmakers/dual",
-          "author": null,
-          "description": "SEBASTIAN MALLABY2026年4月15日 Igor Bastidas\nIn 2022, the Biden administration tried to arrest China’s development of artificial intelligence by denying it cutting-edge semiconductors. President Trump has relaxed that policy a bit without a clear plan to replace it.\n2022年，拜登政府试图通过切断先进半导体供应来遏制中国的人工智能发展。特朗普总统则在没有明确替代方案的情况下，稍微放松了这一政策。\nBut the chip export controls have failed. China’s tech sector is too sophisticated to be stopped from building powerful A.I. In pursuing an impossible objective, the United States is missing an opportunity to try for one that sounds fanciful but which, after a recent reporting trip to China, I believe is more realistic: America should negotiate with China a global pact on A.I. safety, which would impose universal limits on a technology that can do much good — but, …",
-          "link": "https://cn.nytimes.com/opinion/20260415/china-ai-america-chipmakers/dual",
-          "publishedOn": "2026-04-15T02:36:02.000Z",
-          "wordCount": 1316,
-          "title": "我考察了中国人工智能发展，美国无法赢得这场竞赛",
-          "imageUrl": "https://static01.nyt.com/images/2026/04/13/opinion/13mallaby/13mallaby-articleLarge-v2.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/business/20260415/china-foreign-companies-supply-chain/dual",
-          "author": null,
-          "description": "KEITH BRADSHER2026年4月15日中国连云港，待出口的钢管堆积如山。随着出口持续超过进口，中国去年的贸易顺差达到近1.2万亿美元。 Agence France-Presse — Getty Images\nAs China’s mammoth trade surplus stokes global tensions, Beijing has enacted sweeping new regulations to investigate and punish foreign companies that stop using Chinese suppliers in response to political pressure at home.\n随着中国庞大的贸易顺差加剧全球紧张局势，北京出台了全面新规，对那些因国内政治压力而放弃中国供应商的外国企业展开调查并予以处罚。\nForeign business groups expressed strong concern about the vaguely worded rules, which took effect when Premier Li Qiang signed them on April 7. Analysts warned that the regulations could make it harder for foreign companies to divest from joint ventures in China or shift orders to overseas suppliers.\n外国商业团体对措辞模糊的新规表达强烈担忧。4月7日，国务院总理李强签署发布后，这些规定即刻生效。分析人士警告，新规可能让外国企业更难剥离在华合资企业资产，或将订单转移至海外供应商。\nThe new re…",
-          "link": "https://cn.nytimes.com/business/20260415/china-foreign-companies-supply-chain/dual",
-          "publishedOn": "2026-04-15T01:36:02.000Z",
-          "wordCount": 1076,
-          "title": "中国出台新规阻止外国公司对华“脱钩”",
-          "imageUrl": "https://static01.nyt.com/images/2026/04/13/multimedia/00biz-China-Supply-Chain-01-gwch/00biz-China-Supply-Chain-01-gwch-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/world/20260415/xi-iran-war-china/dual",
-          "author": null,
-          "description": "郭莉莉2026年4月15日在平衡与德黑兰的伙伴关系以及管控与美国的紧张关系之间，中国国家主席习近平试图保持中立立场。 Pool photo by Haruna Furuhashi\nChina’s leader, Xi Jinping, said on Tuesday that the world cannot risk reverting “to the law of the jungle,” a thinly veiled criticism of the United States, in his most direct public comments on the U.S.-Israeli war with Iran.\n中国领导人习近平周二表示，不能让世界倒回“丛林法则”，这是他就美以对伊战争最直接的公开评论，措辞中隐晦地批评了美国。\n“Maintaining the authority of international rule of law means not using it when it suits us and abandoning it when it doesn’t,” he said in a meeting with the crown prince of Abu Dhabi in Beijing.\n“维护国际法治权威，不能‘合则用、不合则弃’，”他在北京会见阿布扎比王储时说道。\nMr. Xi’s remarks, in addition to meetings and calls held by senior Chinese officials in recent days, suggest that Beijing is playing a more active role in trying to build on the two-week …",
-          "link": "https://cn.nytimes.com/world/20260415/xi-iran-war-china/dual",
-          "publishedOn": "2026-04-15T00:36:02.000Z",
-          "wordCount": 587,
-          "title": "习近平对伊朗战争表态，隐晦批评美国",
-          "imageUrl": "https://static01.nyt.com/images/2026/04/14/multimedia/14israel-iran-china-diplomacy-wfqz/14israel-iran-china-diplomacy-wfqz-articleLarge.jpg"
         }
       ]
     },
