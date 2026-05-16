@@ -55,6 +55,26 @@
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
         {
+          "id": "https://www.nationalreview.com/?p=1963290",
+          "author": "The Editors",
+          "description": "It would be extremely dangerous to think that such meetings might change the way that China views the U.S. or, for that matter, the world.",
+          "link": "https://www.nationalreview.com/2026/05/the-trump-xi-summit/",
+          "publishedOn": "2026-05-15T19:11:50.000Z",
+          "wordCount": 6461,
+          "title": "The Trump–Xi Summit",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/05/xi-trump-summit.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1963286",
+          "author": "Rich Lowry",
+          "description": "Over the past ten years, reading scores have declined in 83 percent of school districts.",
+          "link": "https://www.nationalreview.com/2026/05/our-screen-culture-increasingly-cant-read/",
+          "publishedOn": "2026-05-15T19:00:07.000Z",
+          "wordCount": 6519,
+          "title": "Our Screen Culture Increasingly Can’t Read",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/05/learning.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
           "id": "https://www.nationalreview.com/?p=1963241",
           "author": "Mark Goldfeder",
           "description": "The lawsuit’s critics are missing the actual legal architecture that could put the New York Times in a tough position.",
@@ -1983,46 +2003,6 @@
           "wordCount": 5624,
           "title": "Yes, Of Course War Settles Things",
           "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2025/11/ukraine-war-113025-8.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1946404",
-          "author": "Christian Schneider",
-          "description": "The loudest voices claiming to support women often belong to the worst men.",
-          "link": "https://www.nationalreview.com/2026/04/the-male-feminism-con-job/",
-          "publishedOn": "2026-04-16T10:30:55.000Z",
-          "wordCount": 7292,
-          "title": "The Male Feminism Con Job",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/04/eric-swalwell-1.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1946127",
-          "author": "Jamie Tronnes and Daniel Dorman",
-          "description": "Canada’s DIS is too protectionist, contains too much anti-American political rhetoric, and is not enough about actual defense.",
-          "link": "https://www.nationalreview.com/2026/04/canadas-anti-american-defense-industrial-strategy/",
-          "publishedOn": "2026-04-16T10:30:53.000Z",
-          "wordCount": 6952,
-          "title": "Canada’s Anti-American Defense Industrial Strategy",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/04/mark-carney-defense.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1946600",
-          "author": "Andrew C. McCarthy",
-          "description": "Powell is sufficiently offended by the investigation that he could spite Trump by staying on the Fed Board as a voting member until his term expires.",
-          "link": "https://www.nationalreview.com/2026/04/the-trump-dojs-farcical-powell-probe-continues/",
-          "publishedOn": "2026-04-16T10:30:37.000Z",
-          "wordCount": 7451,
-          "title": "The Trump DOJ’s Farcical Powell Probe Continues",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/01/donald-trump-jerome-powell.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1946282",
-          "author": "Brian T. Allen",
-          "description": "It’s well worth a visit, but why are so many foreigners in an American art show?",
-          "link": "https://www.nationalreview.com/2026/04/the-good-the-awful-the-non-art-and-the-motherly-at-the-whitney-biennial/",
-          "publishedOn": "2026-04-16T10:30:24.000Z",
-          "wordCount": 7869,
-          "title": "The Good, the Awful, the Non-Art, and the Motherly at the Whitney Biennial",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/04/Pandemonium.jpg?fit=2057%2C1200&ssl=1"
         }
       ]
     },
@@ -2031,6 +2011,16 @@
       "feedUrl": "https://sspai.com/feed",
       "siteUrl": "https://sspai.com",
       "articles": [
+        {
+          "id": "https://sspai.com/post/109777",
+          "author": "Leobai",
+          "description": "为什么我觉得好玩的游戏，你却要给出这么低的分？为什么最后在使用中出了问题的产品，你却要在首发评测中大肆吹捧？查看全文",
+          "link": "https://sspai.com/post/109777",
+          "publishedOn": "2026-05-16T07:38:00.000Z",
+          "wordCount": 800,
+          "title": "为什么我觉得好的东西，媒体评测却给了低分？",
+          "imageUrl": null
+        },
         {
           "id": "https://sspai.com/post/109825",
           "author": "少数派编辑部",
@@ -2929,36 +2919,6 @@
           "publishedOn": "2026-04-17T01:04:59.000Z",
           "wordCount": 673,
           "title": "派早报：Canva AI 2.0 发布、Anthropic 发布 Claude Opus 4.7 模型等",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sspai.com/post/108070",
-          "author": "Sholmes",
-          "description": "前言工作的疲惫和生活中琐事积压，让我产生了换个环境去旅居的念头，最近在积极的考察一些比较宜居的城市。四月初趁着出差的机会来到了福建和广西，边应付公司的事物边考察当地的宜居城市。我先去了厦门，之后从南宁 ...查看全文",
-          "link": "https://sspai.com/post/108070",
-          "publishedOn": "2026-04-16T09:15:42.000Z",
-          "wordCount": 320,
-          "title": "城市漫步指南：在沿海宜居小城，过一段不赶时间的日子",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sspai.com/post/108694",
-          "author": "听歌的水獭",
-          "description": "当代城市工作者的出行场景正变得越来越复合。人们希望在一个背包里装下工作所需的电脑与数码设备，同时塞入下班健身的衣物，甚至直接背着它开启一趟两三天的短途差旅。但要在同一个背包上同时实现「出色的设备保护」 ...查看全文",
-          "link": "https://sspai.com/post/108694",
-          "publishedOn": "2026-04-16T07:30:00.000Z",
-          "wordCount": 268,
-          "title": "众测 | 让通勤路上的你「重装简行」：邀你一同体验 tomtoc T77 双肩包",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sspai.com/post/108630",
-          "author": "食肉库玛老师傅",
-          "description": "这份坚守，无关情怀的浪漫，而在于技术的胜利。查看全文",
-          "link": "https://sspai.com/post/108630",
-          "publishedOn": "2026-04-16T07:00:00.000Z",
-          "wordCount": 285,
-          "title": "从画质玄学到改机热潮：浅谈拍立得的前世今生",
           "imageUrl": null
         }
       ]
@@ -5753,90 +5713,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://pic.yupoo.com/fotomag/6ba7ce0068/75c26bc0.jpg"
-        },
-        {
-          "id": "idaily-249700",
-          "author": "尼泊尔 · 蒂米",
-          "description": "尼泊尔民众泼洒红色粉末庆祝传统新年「毕斯基节」（Bisket Jatra），加德满都。4月14日，尼泊尔迎来传统新年「毕斯基节」，当地民众会互相泼洒朱砂粉祝福新的一年远离灾祸，并举行战车巡游、拔河比赛等庆祝活动。尼泊尔旅游局数据显示2026年3月共接待国际游客120516人次，同比下跌-1%，前五大游客来源地依次为印度、中国、斯里兰卡、美国和缅甸。摄影师：Narendra Shrestha",
-          "link": "https://m.idai.ly/se/8f80IF",
-          "publishedOn": "2026-04-16T08:59:00.000Z",
-          "wordCount": 272,
-          "title": "尼泊尔庆祝传统新年 - April 16, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/9369d72be4/bc346081.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/9369d72be4/bc346081.jpg"
-        },
-        {
-          "id": "idaily-249699",
-          "author": "英国 · 伦敦",
-          "description": "英国亲欧抗议者在议会大厦外举行示威集会，伦敦。4月14日，国际货币基金组织（IMF）发布报告预测英国2026年 GDP 增长率将放缓至0.8%，比前次预测值降低0.5个百分点，为全球主要发达经济体中预测下调最大的国家，主要受到中东能源危机、英国央行降息放缓等负面因素影响。IMF 预测2026年英国通胀率为3.2%，在G7国家中处于最高水平；失业率将升至5.6%，达到10年来最高水平。摄影师：Andy Rain",
-          "link": "https://m.idai.ly/se/5f2BMa",
-          "publishedOn": "2026-04-16T08:58:00.000Z",
-          "wordCount": 272,
-          "title": "IMF大幅下调英国经济预期 - April 16, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/e6531da94e/0050b817.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/e6531da94e/0050b817.jpg"
-        },
-        {
-          "id": "idaily-249698",
-          "author": "中国 · 北京",
-          "description": "中国国家主席习近平夫妇为越南国家主席苏林夫妇举行欢迎宴会，北京。4月14日，越共中央总书记、越南国家主席苏林应邀对中国进行为期4天国事访问。这是苏林当选越南国家主席以来首次出访，两国领导人就中越关系、中共和越共两党合作、经贸投资等议题举行会谈，见证签署关于党际、公安、司法、经济、产供链合作、科技、民生等领域多项双边合作文件。中国是越南最大贸易伙伴，越南是中国在东盟的最大贸易伙伴，2026年第一季度中越双边贸易额达5374.3亿元人民币，同比增长18.3%。摄影师：Vietnam News Agency",
-          "link": "https://m.idai.ly/se/f25wAa",
-          "publishedOn": "2026-04-16T08:57:00.000Z",
-          "wordCount": 272,
-          "title": "越南国家主席访华 - April 16, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/a1217cd95f/1d013a99.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/a1217cd95f/1d013a99.jpg"
-        },
-        {
-          "id": "idaily-249697",
-          "author": "日本 · 东京",
-          "description": "游客们在根津神社鸟居小径拍照，东京。4月15日，日本观光厅公布2026年3月访日外国游客人数为361.89万人次，同比增长3.5%，创历史同期新高，前三大游客来源地依次为韩国、中国台湾和美国，中国大陆游客同比减少-55.9%，录得连续第4个月下降。2026年第一季度访日外国游客总数超过1068万人次，同比增长1.4%，消费额为2.34万亿日元（约合148亿美元），同比增长2.5%。摄影师：Franck Robichon",
-          "link": "https://m.idai.ly/se/f09OX1",
-          "publishedOn": "2026-04-16T08:55:00.000Z",
-          "wordCount": 272,
-          "title": "中国大陆访日游客减-55.9% - April 16, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/3ce47d015a/e3798f4c.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/3ce47d015a/e3798f4c.jpg"
-        },
-        {
-          "id": "idaily-249696",
-          "author": "菲律宾 · 马尼拉",
-          "description": "菲律宾首都马尼拉一家商店堆放的液化石油气储罐。4月13日，菲律宾政府宣布暂停对液化石油气及煤油征收消费税，以减轻能源价格上涨对经济和民生造成的冲击。这项临时减税措施将让每升液化石油气价格下降5.6比索（约合0.093美元）。菲律宾约98%石油供给来自海湾地区。菲律宾央行报告2026年3月该国核心通胀率为4.1%，环比上升1.7个百分点，达到2024年7月以来最高水平。摄影师：Eloisa Lopez",
-          "link": "https://m.idai.ly/se/b6ezYX",
-          "publishedOn": "2026-04-16T08:53:00.000Z",
-          "wordCount": 272,
-          "title": "菲律宾暂停征收燃油税 - April 16, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/ddc975db87/2b305c8d.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/ddc975db87/2b305c8d.jpg"
-        },
-        {
-          "id": "idaily-249695",
-          "author": "美国 · 华盛顿特区",
-          "description": "美国史密森尼学会国家动物园，一只出生2个月的亚洲象幼崽 Linh Mai 在围栏中散步，华盛顿特区。4月15日，美国史密森尼学会国家动物园新生亚洲象 Linh Mai 首次向游客亮相。这只雌性小象出生于2月2日，是该园近25年来诞生的第一只亚洲象幼崽。由于遭母亲拒养，Linh Mai 被安排与52岁的母象 Swarna 一起生活，每2小时接受1次人工喂奶。受栖息地减少和人类盗猎威胁，亚洲象数量现仅存3万至5万只，被列为濒危物种。摄影师：Anna Moneymaker",
-          "link": "https://m.idai.ly/se/486fs0",
-          "publishedOn": "2026-04-16T08:51:00.000Z",
-          "wordCount": 272,
-          "title": "美国新生亚洲象幼崽 - April 16, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/74f94de466/465d647f.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/74f94de466/465d647f.jpg"
         }
       ]
     },
@@ -5845,6 +5721,36 @@
       "feedUrl": "https://plink.anyfeeder.com/nytimes/dual",
       "siteUrl": "http://nytimes.com",
       "articles": [
+        {
+          "id": "https://cn.nytimes.com/usa/20260516/trump-xi-china-summit/dual",
+          "author": null,
+          "description": "ANTON TROIANOVSKI, DAVID E. SANGER2026年5月16日周四，特朗普总统与中国国家主席习近平抵达国宴现场。 Kenny Holston/The New York Times\nIn 2024, Donald J. Trump said China was “killing us as a country.” Last year, he complained that President Xi Jinping of China was “very tough, and extremely hard to make a deal with.” His tariffs on China reached 145 percent at one point.\n2024年，特朗普曾表示，中国“正在毁灭我们这个国家”。去年，他又抱怨中国国家主席习近平“非常强硬，很难和他达成协议”。他对中国加征的关税一度高达145%。\nThe whiplash that followed culminated in the pageantry in Beijing this week.\n随后出现的剧烈反转在本周北京隆重的欢迎仪式中达到了顶峰。\nAs Air Force One took off from the Chinese capital on Friday, it remained unclear what deals, if any, President Trump had clinched with Mr. Xi. But the two-day summit in Beijing underscored how far he has shifted the foundations of American policy toward China in the wake…",
+          "link": "https://cn.nytimes.com/usa/20260516/trump-xi-china-summit/dual",
+          "publishedOn": "2026-05-16T03:06:03.000Z",
+          "wordCount": 1701,
+          "title": "从对抗到和解：特朗普学会跟中国打交道？",
+          "imageUrl": "https://static01.nyt.com/images/2026/05/15/multimedia/15dc-china-trump-ledeall01-photo-chvq/15dc-china-trump-ledeall01-photo-chvq-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/china/20260516/xi-trump-superpower-thucydides-stability/dual",
+          "author": null,
+          "description": "DAVID PIERSON, 郭莉莉2026年5月16日中国国家主席习近平于周四在北京欢迎特朗普总统。 Kenny Holston/The New York Times\nChina’s leader, Xi Jinping, has spent the last year standing up to President Trump. He met triple-digit tariff with triple-digit tariff and restricted rare earth exports, forcing the Trump administration to back down. Both sides suffered, and so did the global economy.\n中国领导人习近平在过去一年中与特朗普总统针锋相对。他以三位数关税回击三位数关税，并限制稀土出口，迫使特朗普政府做出让步。双方都付出了代价，全球经济也深受其害。\nBut having made his point, and established China as America’s peer, Mr. Xi is now pivoting from retaliation to conciliation. At a summit in Beijing this week that he billed as historic, Mr. Xi offered Washington a choice: Accept China as an equal power with red lines that must not be crossed or continue in a cycle of conflict that risks a global “Thucydides Trap”…",
+          "link": "https://cn.nytimes.com/china/20260516/xi-trump-superpower-thucydides-stability/dual",
+          "publishedOn": "2026-05-16T02:36:02.000Z",
+          "wordCount": 1280,
+          "title": "“建设性战略稳定”：习近平重新定义中美关系",
+          "imageUrl": "https://static01.nyt.com/images/2026/05/15/multimedia/15china-xi-swap-bqmj/15china-xi-swap-bqmj-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/china/20260516/trump-xi-meeting-china-social-media/dual",
+          "author": null,
+          "description": "袁莉2026年5月16日特朗普总统周四抵达北京时受到了孩子们的欢迎。 Kenny Holston/The New York Times\n“The whole world is watching our meeting,” Xi Jinping, the Chinese leader, said as he welcomed President Trump to the Great Hall of the People in Beijing.\n“我们会面，现在可以说是举世瞩目，”中国领导人习近平在北京人民大会堂欢迎特朗普总统时说。\nThat wasn’t an overstatement.\n这并非夸大其词。\nCameras from different countries were trained on the leaders of the world’s largest economies, allowing pundits to pick apart the diplomatic meaning of their words and gestures. Those cameras offered a rare opportunity for Chinese people, too: seeing Mr. Xi up close and from angles not usually presented by state media.\n来自不同国家的摄像机将镜头对准了这两个世界最大经济体的领导人，让评论人士得以仔细剖析他们言辞和手势背后的外交含义。这些镜头也为中国民众提供了一个罕见的机会，得以近距离观察习近平，从国家媒体通常不会呈现的角度去审视他。\nAnd some found the visuals an occasion for comedy.\n而一些人发现这些画面成了…",
+          "link": "https://cn.nytimes.com/china/20260516/trump-xi-meeting-china-social-media/dual",
+          "publishedOn": "2026-05-16T02:06:02.000Z",
+          "wordCount": 1126,
+          "title": "“习特会”为中国网民提供笑料：在荒诞和残酷中寻找幽默",
+          "imageUrl": "https://static01.nyt.com/images/2026/05/15/multimedia/15biz-newworld-summit-jokes-mcpk/15biz-newworld-summit-jokes-mcpk-articleLarge.jpg"
+        },
         {
           "id": "https://cn.nytimes.com/china/20260515/trump-china-people-street/dual",
           "author": null,
