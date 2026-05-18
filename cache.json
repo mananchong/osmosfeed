@@ -6,6 +6,16 @@
       "siteUrl": "https://rweekly.org/atom.xml",
       "articles": [
         {
+          "id": "https://rweekly.org/2026-W21.html",
+          "author": null,
+          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by , with help from the R Weekly team members and contributors.\nHighlight\n15 Years of rOpenSci, and We’re Just Getting Started 🎉\nDurations of wars by @ellis2013nz\nLearning Data Science: Why a High R^2 Can Be Misleading\nInsights\n15 Years of rOpenSci, and We’re Just Getting Started 🎉\nR in the Real World\nDurations of wars by @ellis2013nz\nR in Organizations\nBeyond Feasibility: Learning from FDA’s Response to WebAssembly and Container-Based Submissions\nCDISC Standards for Open-Source Pharma Teams\nTutorials\nLearning Data Science: Why a High R^2 Can Be Misleading\nTesting Legacy Shiny Apps: Start with Behavior, Not Code\nNew Packages\n📦 Go Live for More New Pkgs 📦\n -->\n📦 Keep up to …",
+          "link": "https://rweekly.org/2026-W21.html",
+          "publishedOn": "2026-05-18T00:00:00.000Z",
+          "wordCount": 5800,
+          "title": "R Weekly 2026-W21 15 Years of rOpenSci, Durations of wars, and R-squared",
+          "imageUrl": "https://rweekly.org/public/facebook.png"
+        },
+        {
           "id": "https://rweekly.org/2026-W20.html",
           "author": null,
           "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Jon Calder, with help from the R Weekly team members and contributors.\nHighlight\nS at 50\nComparing R’s {targets} and dbt for Data Engineering\nInsights\nS at 50\n\nReflections on AI-assisted Programming\nposit::glimpse() Newsletter – May 2026\nROpenSci: New Mentoring Team with Experienced Mentors and New Voices\nR vs Python vs SAS in a Modern SCE\nQuarto 2: Parsing and Source Maps\nTutorials\nTwo Years of Visible: New Angles on the Long Covid Data\n\nOne interface, (Almost) Every Classifier (and Regressor): unifiedml v0.3.0\nComparing R’s {targets} and dbt for Data Engineering\nDifferential Machine Learning with Twin Networks in R: Forecasting Bitcoin with Volatility Proxies\n{roxygen2} 8.…",
@@ -54,6 +64,56 @@
       "feedUrl": "https://www.nationalreview.com/feed/",
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
+        {
+          "id": "https://www.nationalreview.com/?p=1963910",
+          "author": "The Editors",
+          "description": "His district’s voters should send the conspiracy theorist into retirement.",
+          "link": "https://www.nationalreview.com/2026/05/thomas-massie-deserves-to-lose/",
+          "publishedOn": "2026-05-18T10:30:47.000Z",
+          "wordCount": 5148,
+          "title": "Thomas Massie Deserves to Lose",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/05/thomas-massie.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1964009",
+          "author": "Kathryn Jean Lopez",
+          "description": "They represent a dangerous antithesis of good health care.",
+          "link": "https://www.nationalreview.com/2026/05/the-callousness-of-abortion-pills/",
+          "publishedOn": "2026-05-18T10:30:35.000Z",
+          "wordCount": 5532,
+          "title": "The Callousness of Abortion Pills",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/05/misoprostol.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1963929",
+          "author": "Elliott Abrams",
+          "description": "Even countries that acknowledge the IRGC is a terrorist organization are looking away. This evasion has consequences.",
+          "link": "https://www.nationalreview.com/2026/05/terrorists-have-taken-over-iran-now-what/",
+          "publishedOn": "2026-05-18T10:30:24.000Z",
+          "wordCount": 5843,
+          "title": "Terrorists Have Taken Over Iran — Now What?",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/02/iran-irgc-parade.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1963132",
+          "author": "Pieter Cleppe",
+          "description": "Viktor Orbán’s government is not the only locus of corruption in Europe.",
+          "link": "https://www.nationalreview.com/2026/05/do-eu-transfer-payments-fuel-corruption/",
+          "publishedOn": "2026-05-18T10:30:19.000Z",
+          "wordCount": 5884,
+          "title": "Do EU Transfer Payments Fuel Corruption?",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/05/viktor-orban.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1963257",
+          "author": "Robert C. O'Brien",
+          "description": "While the U.S. is currently the global AI tech leader, our advantages will disappear if we don’t take action.",
+          "link": "https://www.nationalreview.com/2026/05/america-must-aggressively-counter-huawei-to-preserve-its-ai-leadership/",
+          "publishedOn": "2026-05-18T10:30:12.000Z",
+          "wordCount": 5858,
+          "title": "America Must Aggressively Counter Huawei to Preserve Its AI Leadership",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/05/huawei.jpg?fit=2057%2C1200&ssl=1"
+        },
         {
           "id": "https://www.nationalreview.com/?p=1961002",
           "author": "James Lileks",
@@ -1953,56 +2013,6 @@
           "wordCount": 7373,
           "title": "Our National Parks Need Help",
           "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/04/yellowstone.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1947786",
-          "author": "Brian T. Allen",
-          "description": "The Los Angeles County Museum of Art’s soon-to-open new building is an epic story in itself.",
-          "link": "https://www.nationalreview.com/2026/04/lacma-a-star-is-born-spotted-crossing-wilshire-boulevard/",
-          "publishedOn": "2026-04-18T10:30:32.000Z",
-          "wordCount": 8288,
-          "title": "LACMA: A Star Is Born, Spotted Crossing Wilshire Boulevard",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/04/lead.jpg?resize=300%2C300&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1947890",
-          "author": "Chad F. Wolf and Thomas K. Plofchan",
-          "description": "The move would save taxpayers money, provide better service for travelers, and boost national security.",
-          "link": "https://www.nationalreview.com/2026/04/privatize-the-tsa-to-avoid-the-next-airport-mess/",
-          "publishedOn": "2026-04-18T10:30:26.000Z",
-          "wordCount": 7586,
-          "title": "Privatize the TSA to Avoid the Next Airport Mess",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/04/tsa.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1946493",
-          "author": "Andrew C. McCarthy",
-          "description": "It’s a bogus claim that nevertheless finds no shortage of support among transnational progressives and Trump populists.",
-          "link": "https://www.nationalreview.com/2026/04/there-is-no-international-law-right-to-enrich-uranium/",
-          "publishedOn": "2026-04-18T10:30:13.000Z",
-          "wordCount": 32757,
-          "title": "There Is No International-Law ‘Right’ to Enrich Uranium",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/04/iran-nuclear.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1947954",
-          "author": "Neal B. Freeman",
-          "description": "Columnist offers a rare personal guarantee on spectator satisfaction.",
-          "link": "https://www.nationalreview.com/2026/04/in-stanley-cup-playoffs-excitement-builds-for-big-game-sunday/",
-          "publishedOn": "2026-04-18T10:30:04.000Z",
-          "wordCount": 6232,
-          "title": "In Stanley Cup Playoffs, Excitement Builds for Big Game Sunday",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/04/mackinnon.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1947449",
-          "author": "William S. Harris",
-          "description": "Encouraging free expression does not mean providing students with false balance.",
-          "link": "https://www.nationalreview.com/2026/04/catholic-university-demands-both-sides-on-antisemitism/",
-          "publishedOn": "2026-04-18T10:30:04.000Z",
-          "wordCount": 7103,
-          "title": "Catholic University Demands ‘Both Sides’ on Antisemitism",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/04/catholic-israel2.jpg?fit=2057%2C1200&ssl=1"
         }
       ]
     },
@@ -2011,6 +2021,46 @@
       "feedUrl": "https://sspai.com/feed",
       "siteUrl": "https://sspai.com",
       "articles": [
+        {
+          "id": "https://sspai.com/post/109886",
+          "author": "少数派编辑部",
+          "description": ">下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文",
+          "link": "https://sspai.com/post/109886",
+          "publishedOn": "2026-05-18T10:05:00.000Z",
+          "wordCount": 535,
+          "title": "派评 | 近期值得关注的 App",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sspai.com/post/109743",
+          "author": "Tp",
+          "description": "只需要一个浏览器就能玩，很适合上班时间摸鱼🌝查看全文",
+          "link": "https://sspai.com/post/109743",
+          "publishedOn": "2026-05-18T07:00:00.000Z",
+          "wordCount": 269,
+          "title": "打破虚拟与现实的边界，这 6 款网页解谜游戏值得一试",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sspai.com/post/103407",
+          "author": "别惹小炸毛",
+          "description": "作为 2025 年的年度旅行，本次 4 天的青海湖小环线我甚是满意。查看全文",
+          "link": "https://sspai.com/post/103407",
+          "publishedOn": "2026-05-18T03:02:10.000Z",
+          "wordCount": 318,
+          "title": "四天三夜，用小长假的时间体验青海湖小环线",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sspai.com/post/109870",
+          "author": "少数派编辑部",
+          "description": "提交未经核实 AI 内容的论文作者将被 arXiv 封禁一年\nOpenAI 与苹果关系紧张，或考虑诉讼\n索尼回应 AI 相机助手越改越差，称只是修图建议\nAnthropic 警告私下交易的股权可能无效\n 运营商回应「零月租」传言\n微软重新允许自定义任务栏与开始菜单\n看看就行的简讯\n少数派的近期动态\n你可能错过的好文章\n查看全文",
+          "link": "https://sspai.com/post/109870",
+          "publishedOn": "2026-05-17T22:56:55.000Z",
+          "wordCount": 374,
+          "title": "派早报：提交未经核实 AI 内容的论文作者将被 arXiv 封禁一年",
+          "imageUrl": null
+        },
         {
           "id": "https://sspai.com/post/64870",
           "author": "Blanboom",
@@ -5659,20 +5709,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://pic.yupoo.com/fotomag/de13523ecc/caabf54d.jpg"
-        },
-        {
-          "id": "idaily-249767",
-          "author": "日本 · 富士宫市",
-          "description": "「C/2025 R3」彗星划过富士山上空，日本静冈县。4月17日，「C/2025 R3」彗星进入北半球最佳观测期，亮度达到肉眼可见级别。该彗星目前位于飞马座，预计4月27日抵达距离地球约7081万公里的近地点，有望成为2026年地球上可肉眼观测的最亮彗星。「C/2025 R3」由美国泛星计划（PanSTARRS）巡天望远镜于2025年9月8日发现，是一颗来自太阳系边缘「奥尔特云」的长周期彗星，轨道周期约为17万年。摄影师：Koji Ito",
-          "link": "https://m.idai.ly/se/868iFy",
-          "publishedOn": "2026-04-18T05:59:00.000Z",
-          "wordCount": 289,
-          "title": "「C/2025 R3」彗星接近地球 - April 18, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/70299dc83f/6ec78505.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/70299dc83f/6ec78505.jpg"
         }
       ]
     },
@@ -5681,6 +5717,66 @@
       "feedUrl": "https://plink.anyfeeder.com/nytimes/dual",
       "siteUrl": "http://nytimes.com",
       "articles": [
+        {
+          "id": "https://cn.nytimes.com/asia-pacific/20260518/taiwan-eswatini-china-flight/dual",
+          "author": null,
+          "description": "储百亮, AMY CHANG CHIEN2026年5月18日台湾总统府提供的一张照片显示，台湾领导人赖清德5月抵达斯威士兰时向人群挥手致意。 Taiwan Presidential Office, via Associated Press\nThere were no heavy suitcases aboard the borrowed jet that secretly carried President Lai Ching-te of Taiwan toward Africa. Instead, to save fuel for a secret, 15,000-mile journey to get around restricted airspace, his entourage brought only carry-on bags.\n秘密搭载台湾总统赖清德前往非洲的借用专机上没有沉重的行李箱。为了节省燃油，飞过这段绕行受限空域的2.4万公里秘密旅程，他的随行人员只带了随身行李。\nThe stripped-back, high-stakes mission, revealed by Taiwanese officials who had been on the flight, and who showed documents to back up their account of what happened, was aimed at outmaneuvering Beijing’s latest attempts to isolate Taiwan.\n乘坐该航班的台湾官员透露了这项精简的高风险的任务，并展示了支持其说法的文件。此行旨在挫败北京最近试图孤立台湾的企图。\nChina had been gloating earlier after it dealt an…",
+          "link": "https://cn.nytimes.com/asia-pacific/20260518/taiwan-eswatini-china-flight/dual",
+          "publishedOn": "2026-05-18T05:36:02.000Z",
+          "wordCount": 1694,
+          "title": "北京与台湾的“高空猫鼠游戏”：赖清德秘密非洲行",
+          "imageUrl": "https://static01.nyt.com/images/2026/05/14/multimedia/14int-taiwan-president-01-ctvq/14int-taiwan-president-01-ctvq-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/opinion/20260518/trump-china-xi-trade/dual",
+          "author": null,
+          "description": "SOUMAYA KEYNES, CHAD P. BOWN2026年5月18日\nWith some family gatherings, the best you can hope for is that no one gets drunk and starts a fistfight. Expectations when President Trump and China’s leader, Xi Jinping, met on Thursday and Friday were similarly low — and they were met.\n对某些家庭的聚会来说，你能期望的最好结果就是没人喝醉酒并大打出手。人们对特朗普总统和中国领导人习近平上周四和周五的会面就是如此预期的——他们也达到了预期。\nMr. Trump had some warm words about the duo’s “fantastic future” and how the Chinese would buy American goods, but the meeting ended without clear progress toward resolving the two sides’ trade disagreements. The result was like a host saying brightly, “It’s so nice when you all get along,” as his relatives sullenly slink away.\n特朗普用热情的话语谈及两人“美好的未来”以及中国人将如何购买美国商品，但会晤结束时并未在解决双方贸易分歧方面取得明确进展。结果就像一位东道主兴高采烈地说，“你们大家相处得真好啊，”他的亲戚们则闷闷不乐地悄悄溜走。\nSince fa…",
+          "link": "https://cn.nytimes.com/opinion/20260518/trump-china-xi-trade/dual",
+          "publishedOn": "2026-05-18T05:06:03.000Z",
+          "wordCount": 1295,
+          "title": "特朗普和习近平需要“性格移植”才能达成协议",
+          "imageUrl": "https://static01.nyt.com/images/2026/05/17/multimedia/17keynes-bown-zqlm/17keynes-bown-zqlm-videoLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/world/20260518/trump-xi-china-summit/dual",
+          "author": null,
+          "description": "ANTON TROIANOVSKI2026年5月18日特朗普总统与中国领导人习近平周四在北京的国宴上。 Kenny Holston/The New York Times\nThere was a vague agreement that China would purchase Boeing jets and more American soybeans. There was discussion about Iran and opening the Strait of Hormuz, and a nod to other issues, like cracking down on chemicals used to make fentanyl.\n双方达成了一项模糊的协议，中国将购买波音飞机以及更多的美国大豆。伊朗问题和开放霍尔木兹海峡也在讨论之列，此外还顺带提及了其他议题，比如打击芬太尼前体化学品。\nBut President Trump departed Beijing on Friday with almost nothing concrete to show for his two-day summit with President Xi Jinping of China. After months of buildup and a delay necessitated by Mr. Trump’s difficulty in extricating the United States from the war with Iran, the summit ended with no major public progress on the Middle East, trade, Taiwan, nuclear proliferation, artificial int…",
+          "link": "https://cn.nytimes.com/world/20260518/trump-xi-china-summit/dual",
+          "publishedOn": "2026-05-18T03:06:02.000Z",
+          "wordCount": 1451,
+          "title": "特朗普在北京大谈“友谊”，但峰会未达成任何实质成果",
+          "imageUrl": "https://static01.nyt.com/images/2026/05/16/multimedia/16dc-trump-diplo-mzvf/16dc-trump-diplo-mzvf-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/usa/20260518/rubio-china-trump-trip/dual",
+          "author": null,
+          "description": "黄安伟, MICHAEL CROWLEY2026年5月18日\nBefore he shook hands with President Xi Jinping of China in Beijing this past week, Marco Rubio was an official enemy of the Chinese state.\n就在上周在北京与中国国家主席习近平握手之前，马可·鲁比奥还是中国官方眼中的敌人。\nAs a senator representing Florida, Mr. Rubio was among Mr. Xi’s harshest critics in Washington. He accused the Chinese leader of “crimes against humanity” and of plotting to weaken the United States. Fed up, Mr. Xi’s government placed sanctions on Mr. Rubio in 2020 and banned him from entering the country.\n作为代表佛罗里达州的参议员，鲁比奥曾是华盛顿最严厉的习近平批评者之一。他指责这位中国领导人犯下“反人类罪”，并谋划削弱美国。忍无可忍之下，习近平政府于2020年对他实施制裁，并禁止他入境。\nSo Mr. Rubio, now President Trump’s secretary of state and national security adviser, posed a sticky problem ahead of Mr. Trump’s first visit to China in his second term. But China crea…",
+          "link": "https://cn.nytimes.com/usa/20260518/rubio-china-trump-trip/dual",
+          "publishedOn": "2026-05-18T03:06:02.000Z",
+          "wordCount": 1649,
+          "title": "曾经的对华鹰派鲁比奥为何软化对中国的态度",
+          "imageUrl": "https://static01.nyt.com/images/2026/05/15/multimedia/xxdc-rubio-china-vtkw/xxdc-rubio-china-vtkw-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/usa/20260518/trump-xi-chinese-americans-foreign-agents-discrimination/dual",
+          "author": null,
+          "description": "AMY QIN2026年5月18日特朗普总统与中国国家主席习近平上周四在北京会晤。美国境内的两起刑事案件反映了两国之间充满竞争且往往紧张的地缘政治关系。 Kenny Holston/The New York Times\nFor Chinese Americans, the news this week might have seemed disorienting.\n对于华裔美国人来说，本周的新闻可能让人感到有些无所适从。\nThere was the largely make-nice tone of the summit in Beijing between President Trump and the Chinese leader, Xi Jinping, which ended on Friday.\n周五结束的北京峰会上，特朗普总统与中国领导人习近平的会晤基调总体上是友好的。\nBut in the days leading up to the summit, two criminal cases in the United States reflected how the countries’ competitive and often tense geopolitical relationship has made life more difficult for many people of Chinese origin living in the United States.\n但在峰会召开的前几天，美国的两起刑事案件反映出，两国竞争激烈且时常紧张的地缘政治关系使得许多生活在美国的华裔民众日子更加艰难。\nOn Monday, federal prosecutors announced that Eileen Wang, the mayor of Arcadia, a…",
+          "link": "https://cn.nytimes.com/usa/20260518/trump-xi-chinese-americans-foreign-agents-discrimination/dual",
+          "publishedOn": "2026-05-18T02:06:01.000Z",
+          "wordCount": 958,
+          "title": "两起涉华案件折射美中关系紧张现实",
+          "imageUrl": "https://static01.nyt.com/images/2026/05/15/multimedia/15nat-chineseamericans-fqmj/15nat-chineseamericans-fqmj-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/world/20260518/trump-taiwan-arms-bargaining-chip-china/dual",
+          "author": null,
+          "description": "储百亮2026年5月18日特朗普总统在“空军一号”上告诉记者，他在北京与习近平峰会期间讨论过这笔武器交易。 Kenny Holston/The New York Times\nPresident Trump has described a potential multibillion-dollar weapons sale to Taiwan as a “negotiating chip” with China, raising new doubts about the pace and scale of American military support for the island democracy.\n特朗普总统将一笔潜在的对台数十亿美元军售称为与中国的“谈判筹码”，令外界对美国向这一民主岛屿提供军事支持的速度和规模产生了新的疑虑。\nTaiwan’s government has been waiting for months for Mr. Trump to sign off on a $14 billion package of missiles, anti-drone equipment and air-defense systems intended to fortify the island against Beijing’s military threats.\n台湾政府数月来一直在等待特朗普批准一项价值140亿美元的军售方案，其中包括导弹、反无人机装备和防空系统，旨在强化台湾抵御北京军事威胁的能力。\nMr. Trump himself had pressured Taiwan to spend more on its own defense. Now he is using the very arms his administration had pushe…",
+          "link": "https://cn.nytimes.com/world/20260518/trump-taiwan-arms-bargaining-chip-china/dual",
+          "publishedOn": "2026-05-18T00:06:02.000Z",
+          "wordCount": 1534,
+          "title": "特朗普将对台军售用作与习近平谈判筹码",
+          "imageUrl": "https://static01.nyt.com/images/2026/05/16/multimedia/16int-taiwan-us-analysis-02-tfhg/16int-taiwan-us-analysis-02-tfhg-articleLarge.jpg"
+        },
         {
           "id": "https://cn.nytimes.com/usa/20260516/trump-xi-china-summit/dual",
           "author": null,
