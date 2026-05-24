@@ -65,6 +65,66 @@
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
         {
+          "id": "https://www.nationalreview.com/?p=1965031",
+          "author": "Hussein Aboubakr Mansour",
+          "description": "The Saudi–UAE rivalry will shape the future Middle East.",
+          "link": "https://www.nationalreview.com/2026/05/are-washingtons-most-important-gulf-allies-on-a-collision-course/",
+          "publishedOn": "2026-05-24T10:30:50.000Z",
+          "wordCount": 6643,
+          "title": "Are Washington’s Most Important Gulf Allies on a Collision Course?",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/05/salman-Nahyan.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1965386",
+          "author": "Sarah Schutte",
+          "description": "And what doesn’t.",
+          "link": "https://www.nationalreview.com/2026/05/what-makes-an-excellent-childrens-treasury/",
+          "publishedOn": "2026-05-24T10:30:45.000Z",
+          "wordCount": 5586,
+          "title": "What Makes an Excellent Children’s Treasury",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/05/children-reading.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1960953",
+          "author": "Mike Pence",
+          "description": "In his forthcoming book, the former vice president explains why public figures have a responsibility to engage in the art of compromise.",
+          "link": "https://www.nationalreview.com/2026/05/the-next-generation-of-conservative-leaders-must-embrace-civility/",
+          "publishedOn": "2026-05-24T10:30:32.000Z",
+          "wordCount": 7625,
+          "title": "The Next Generation of Conservative Leaders Must Embrace Civility",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/05/pence.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1965626",
+          "author": "Lathan Watts",
+          "description": "Despite what modern pundits might believe, the Founders understood that freedom and morality are inextricably linked.",
+          "link": "https://www.nationalreview.com/2026/05/the-often-overlooked-theology-of-the-declaration/",
+          "publishedOn": "2026-05-24T10:30:16.000Z",
+          "wordCount": 6707,
+          "title": "The Often-Overlooked Theology of the Declaration",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/05/creator.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1965402",
+          "author": "James Lileks",
+          "description": "All to save face over an under-desk keyboard tray.",
+          "link": "https://www.nationalreview.com/2026/05/ill-admit-it-china-offered-me-money-to-tell-a-lie/",
+          "publishedOn": "2026-05-24T10:30:09.000Z",
+          "wordCount": 6399,
+          "title": "I’ll Admit It — China Offered Me Money to Tell a Lie",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/05/made-in-china.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1967050",
+          "author": "Becket Adams",
+          "description": "The network’s sympathetic feature on Afghan fathers who sell their daughters takes one-sided reporting to the extreme.",
+          "link": "https://www.nationalreview.com/2026/05/the-bbc-has-fallen/",
+          "publishedOn": "2026-05-24T10:30:02.000Z",
+          "wordCount": 6094,
+          "title": "The BBC Has Fallen",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/05/bbc-fallen.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
           "id": "https://www.nationalreview.com/?p=1966190",
           "author": "Brian T. Allen",
           "description": "Pollock and Rothko go through the roof, plus ghostly spaces, sublime seas, and the power of yarn.",
@@ -2093,16 +2153,6 @@
           "wordCount": 6941,
           "title": "San Francisco’s Justice System Is Breaking Down",
           "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/04/san-francisco.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1951531",
-          "author": "Veronique de Rugy and Gary Leff",
-          "description": "Once the federal government signals that struggling carriers can descend on Washington for relief, the line forms quickly.",
-          "link": "https://www.nationalreview.com/2026/04/the-spirit-airlines-bailout-is-a-bad-idea-built-on-a-worse-precedent/",
-          "publishedOn": "2026-04-24T23:38:21.000Z",
-          "wordCount": 7272,
-          "title": "The Spirit Airlines Bailout Is a Bad Idea Built on a Worse Precedent",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/04/spirit1-.jpg?fit=2057%2C1200&ssl=1"
         }
       ]
     },
@@ -2978,6 +3028,76 @@
       "feedUrl": "https://plink.anyfeeder.com/idaily/today",
       "siteUrl": "https://idai.ly",
       "articles": [
+        {
+          "id": "idaily-251876",
+          "author": "法国 · 戛纳",
+          "description": "第79届戛纳国际电影节，比利时演员 Virginie Efira 与日本演员冈本多绪共同获得「最佳女演员奖」，法国。5月23日，第79届戛纳电影节公布获奖名单，本届共有22部影片入围主竞赛单元，其中9部影片斩获奖项，罗马尼亚导演 Cristian Mungiu 执导影片《峡湾》获得「最佳影片金棕榈奖」，俄罗斯导演 Andrey Zvyagintsev 执导的战争剧情片《米诺陶》（Minotaur）获得「评审团大奖」。摄影师：Gonzalo Fuentes",
+          "link": "https://m.idai.ly/se/ae055k",
+          "publishedOn": "2026-05-24T03:23:00.000Z",
+          "wordCount": 266,
+          "title": "第79届戛纳电影节闭幕 - May 24, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/8e24f490ce/c230dda9.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/8e24f490ce/c230dda9.jpg"
+        },
+        {
+          "id": "idaily-251875",
+          "author": "中国 · 酒泉",
+          "description": "神舟二十三号载人飞行任务航天员出席新闻发布会，酒泉卫星发射中心。5月23日，神舟二十三号乘组首次公开亮相。本次任务指令长朱杨柱曾执行神舟十六号载人飞行任务，航天驾驶员张志远原为空军一级飞行员，载荷专家黎家盈曾担任香港特区政府警务处警司。现年43岁的黎家盈将成为中国第4位执行载人航天任务的女航天员以及首位香港出生的航天员，她拥有香港大学计算机科学博士学位，本次任务中将主要负责操作空间科学实验设备。摄影师：Andres Martinez Casares",
+          "link": "https://m.idai.ly/se/f2cxjH",
+          "publishedOn": "2026-05-24T02:59:00.000Z",
+          "wordCount": 266,
+          "title": "神舟二十三号乘组亮相 - May 24, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/b1c234233e/79b82780.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/b1c234233e/79b82780.jpg"
+        },
+        {
+          "id": "idaily-251873",
+          "author": "美国 · 纽约",
+          "description": "美国西点军校举行毕业典礼，新一届毕业生将帽子抛向空中庆祝，纽约。5月23日，美国战争部长 Pete Hegseth 出席西点军校毕业典礼并发表演讲，他在发言中公开抨击美国前任政府「多元、公平和包容」政策导致美国军力衰败，要求毕业生们做好准备为国家走向战场。西点军校本届共有998名学员毕业并获得陆军少尉军衔。美国陆军2026财年计划新招募6.15万士兵，总兵力规模达到45.4万人。摄影师：Adam Gray",
+          "link": "https://m.idai.ly/se/cb0B1M",
+          "publishedOn": "2026-05-24T02:57:00.000Z",
+          "wordCount": 266,
+          "title": "美国西点军校毕业典礼 - May 24, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/b8949240dd/35811e2c.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/b8949240dd/35811e2c.jpg"
+        },
+        {
+          "id": "idaily-251872",
+          "author": "伊朗 · 德黑兰",
+          "description": "伊朗总统 Masoud Pezeshkian 与巴基斯坦陆军参谋长 Asim Munir 举行会晤，德黑兰。5月23日，巴基斯坦陆军参谋长 Munir 访问伊朗斡旋美伊和平谈判进程。巴基斯坦军方当天发表声明称，美国和伊朗已接近达成一份旨在结束战争的临时协议。据美国官员披露，该协议内容包括延长停火60天，霍尔木兹海峡恢复开放，美国解除对伊朗港口封锁并豁免部分制裁等。摄影师：Iranian Presidential Office",
+          "link": "https://m.idai.ly/se/584B1Q",
+          "publishedOn": "2026-05-24T02:55:00.000Z",
+          "wordCount": 266,
+          "title": "巴基斯坦陆军参谋长访问伊朗 - May 24, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/15a0783b60/f8ef2577.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/15a0783b60/f8ef2577.jpg"
+        },
+        {
+          "id": "idaily-251871",
+          "author": "中国 · 启东",
+          "description": "江苏启东振华海工基地举行3.8万吨多用途重吊船1号船的下水仪式。5月20日，上海振华重工为中波轮船建造的首艘3.8万吨多用途重吊船顺利吉水。这艘重吊船长182米、宽30米，设计吃水9.8米，航速14.5节，配备3台350吨克令吊，双机联吊能力达700吨，专用于大件海运和重型装备运输。中国工业和信息化部数据显示2026年第一季度中国造船业新接订单量达5953万载重吨，同比增长195.2%，占全球市场份额达84.9%。摄影师：iDaily Media",
+          "link": "https://m.idai.ly/se/abb71Z",
+          "publishedOn": "2026-05-24T02:53:00.000Z",
+          "wordCount": 266,
+          "title": "中国第一季度造船订单增195.2% - May 24, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/f7e76b4e8e/b9e856a9.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/f7e76b4e8e/b9e856a9.jpg"
+        },
         {
           "id": "idaily-251844",
           "author": "金牛座",
@@ -5763,76 +5883,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://pic.yupoo.com/fotomag/0942f0966b/4ea46dd0.jpg"
-        },
-        {
-          "id": "idaily-250178",
-          "author": "泰国 · 曼谷",
-          "description": "泰国总理 Anutin Charnvirakul 与中国外交部长王毅举行会晤，曼谷。4月23日，中国外长王毅应邀对泰国进行为期3天正式访问，主要行程包括出席中泰外长磋商机制第三次会议并拜会泰国总理等。中国外长王毅祝贺泰国总理 Anutin 当选连任，表示中方将支持泰国新一届政府加快发展经济，推动构建中泰命运共同体。泰国总理 Anutin 表示，泰方愿同中方一道落实好两国元首共识，加强发展战略对接，坚决打击网赌电诈，感谢中方为泰柬妥处边境冲突所作不懈努力。中国是泰国最大贸易伙伴，2026年第一季度中泰双边贸易额为419.5亿美元，同比增长21.3%。摄影师：Royal Thai Government",
-          "link": "https://m.idai.ly/se/7bcqJj",
-          "publishedOn": "2026-04-25T04:57:00.000Z",
-          "wordCount": 262,
-          "title": "中国外长访问泰国 - April 25, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/57a86f0e6b/c91d353e.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/57a86f0e6b/c91d353e.jpg"
-        },
-        {
-          "id": "idaily-250176",
-          "author": "俄罗斯 · 莫斯科",
-          "description": "俄罗斯总统 Vladimir Putin 与吉尔吉斯斯坦总统 Sadyr Japarov 举行会晤，莫斯科。4月23日，吉尔吉斯斯坦总统 Japarov 对俄罗斯进行工作访问，两国元首就双边关系、经贸合作、区域及多边框架等议题交换意见，并共同回顾已达成协议的进展情况。俄总统 Putin 重申俄方致力于在一体化框架内推进积极合作，愿与吉方加强各领域务实合作。吉尔吉斯斯坦总统 Japarov 强调两国为盟友和战略伙伴，期待 Putin 出席在吉尔吉斯斯坦举行的2026年上海合作组织峰会。俄罗斯是吉尔吉斯斯坦最大的贸易伙伴，在吉对外贸易中占比高达22%，2025年两国双边贸易额约为31亿美元。摄影师：Maxim Shipenkov",
-          "link": "https://m.idai.ly/se/3f09w8",
-          "publishedOn": "2026-04-25T04:55:00.000Z",
-          "wordCount": 262,
-          "title": "吉尔吉斯斯坦总统访俄 - April 25, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/cd3b695785/b0afd31d.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/cd3b695785/b0afd31d.jpg"
-        },
-        {
-          "id": "idaily-250175",
-          "author": "中国 · 北京",
-          "description": "2026年北京国际车展，一款中国公司制造的垂直起降航空器正在展出。4月24日，第19届北京车展正式开幕，本届主题为「领时代·智未来」，共有全球21个国家和地区的近千家企业参展，展出车款总数达1451辆，包括181款首发车和71款概念车，总展览面积38万平方米，创下全球最大车展规模纪录。本届北京车展将持续至5月3日，预计吸引超过100万人参观。国际汽车制造协会（OICA）报告显示，中国目前为全球最大的汽车市场，2025年汽车生产总量达到3453万辆，其中新能源汽车产量为1662.6万辆。摄影师：Maxim Shemetov",
-          "link": "https://m.idai.ly/se/d8cNt5",
-          "publishedOn": "2026-04-25T04:53:00.000Z",
-          "wordCount": 262,
-          "title": "2026年北京国际车展 - April 25, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/035e433486/18d62918.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/035e433486/18d62918.jpg"
-        },
-        {
-          "id": "idaily-250174",
-          "author": "古巴 · 哈瓦那",
-          "description": "古巴首都哈瓦那恢复供电。4月23日，古巴能源部长宣布由俄罗斯援助的10万吨原油已向全国分发供应，预计可满足约10天消耗需求。这批原油于3月底由俄罗斯油轮运抵古巴港口，是该国自2026年初遭遇美国封锁以来首次获得大规模外部石油供给。古巴能源部长强调本次援助仅能为古巴争取有限时间，每月至少需要8批同等规模原油供应才能维持基本工业运转和民生用电。摄影师：Norlys Perez",
-          "link": "https://m.idai.ly/se/7e7Z77",
-          "publishedOn": "2026-04-25T04:51:00.000Z",
-          "wordCount": 262,
-          "title": "古巴获得俄援石油 - April 25, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/a7b0db1b62/75afb115.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/a7b0db1b62/75afb115.jpg"
-        },
-        {
-          "id": "idaily-250173",
-          "author": "波兰 · 罗兹",
-          "description": "波兰罗兹东方动物园（Orientarium Zoo）蝴蝶馆，一只蝴蝶停落在游客的掌心。4月24日，波兰罗兹东方动物园新建成的蝴蝶馆正式对公众开放。这是波兰境内最大的蝴蝶温室，馆内种植有棕榈树、香蕉树、龟背竹、龙血树、白掌等约50种热带植物，饲养着超过2000只不同品种的蝴蝶，包括来自亚洲和非洲的珍稀品种，游客可近距离观赏蝴蝶并观察蝶蛹破茧成蝶的过程。蝴蝶是鳞翅目中蝶类昆虫的统称，目前全世界已发现并记录的品种超过2万种。摄影师：Marian Zubrzycki",
-          "link": "https://m.idai.ly/se/226k2D",
-          "publishedOn": "2026-04-25T04:49:00.000Z",
-          "wordCount": 262,
-          "title": "波兰最大蝴蝶温室开放 - April 25, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/e88221c0a8/3c6e47eb.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/e88221c0a8/3c6e47eb.jpg"
         }
       ]
     },
@@ -7106,36 +7156,6 @@
           "publishedOn": "2026-04-27T02:12:00.000Z",
           "wordCount": 300,
           "title": "诗人济慈亲笔书信被盗多年后重现，价值约200万美元",
-          "imageUrl": null
-        },
-        {
-          "id": "85da154c437fbc1384b38d9e741c27f2",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E4%B8%80%E4%B8%AA%E5%A4%B1%E5%8E%BB%E6%8C%9A%E7%88%B1%E7%9A%84%E5%A5%B3%E6%80%A7%EF%BC%8C%E7%94%A8%E2%80%9C%E8%9E%8D%E5%85%A5%E8%87%AA%E7%84%B6%E2%80%9D%E7%BB%A7%E7%BB%AD%E7%94%9F%E6%B4%BB",
-          "publishedOn": "2026-04-25T01:54:00.000Z",
-          "wordCount": 270,
-          "title": "一个失去挚爱的女性，用“融入自然”继续生活",
-          "imageUrl": null
-        },
-        {
-          "id": "2d3c889a199a136ee5061a4ac10979b1",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E3%80%8A%E5%8A%9B%E9%87%8F%E3%80%8B%EF%BC%9A%E2%80%9C%E5%B1%85%E9%87%8C%E5%A4%AB%E4%BA%BA%E2%80%9D%E4%B8%BA%E4%BB%80%E4%B9%88%E5%90%A6%E8%AE%A4%E8%BE%90%E5%B0%84%E7%BB%99%E5%A5%B9%E5%B8%A6%E6%9D%A5%E7%9A%84%E4%BC%A4%E5%AE%B3%EF%BC%9F%E4%B8%A8%E8%AF%97%E4%BA%BA%E8%AF%BB%E8%AF%97%E3%8A%B3",
-          "publishedOn": "2026-04-25T01:54:00.000Z",
-          "wordCount": 263,
-          "title": "《力量》：“居里夫人”为什么否认辐射给她带来的伤害？丨诗人读诗㊳",
-          "imageUrl": null
-        },
-        {
-          "id": "5ffb09aea5bdaa4afde20e425c11fafa",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E6%88%91%E4%BB%AC%E7%9A%84%E5%B7%A5%E4%BD%9C%E6%AF%94%E8%BF%87%E5%8E%BB%E8%BD%BB%E6%9D%BE%E5%90%97%EF%BC%9F%E5%85%B3%E4%BA%8E%E4%BA%BA%E7%B1%BB%E8%BA%AB%E4%BD%93%E4%B8%8E%E2%80%9C%E4%BA%BA%E7%B1%BB%E4%B8%96%E2%80%9D%E7%9A%84%E4%B8%80%E4%BA%9B%E7%9F%A5%E8%AF%86",
-          "publishedOn": "2026-04-25T01:54:00.000Z",
-          "wordCount": 284,
-          "title": "我们的工作比过去轻松吗？关于人类身体与“人类世”的一些知识",
           "imageUrl": null
         }
       ]
