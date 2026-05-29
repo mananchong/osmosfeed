@@ -2,10 +2,204 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mananchong.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-28T19:12:27.763Z</updated>
+    <updated>2026-05-29T10:56:30.099Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mananchong.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://mananchong.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mamdani’s Plan to Socialize Housing]]></title>
+        <id>https://www.nationalreview.com/?p=1970010</id>
+        <link href="https://www.nationalreview.com/2026/05/mamdanis-plan-to-socialize-housing/"/>
+        <updated>2026-05-29T10:30:58.000Z</updated>
+        <summary type="html"><![CDATA[The mayor wants government to conquer the New York City real estate market.]]></summary>
+        <author>
+            <name>The Editors</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fusionism: Frank Meyer’s Big Idea]]></title>
+        <id>https://www.nationalreview.com/?p=1969691</id>
+        <link href="https://www.nationalreview.com/2026/05/fusionism-frank-meyers-big-idea/"/>
+        <updated>2026-05-29T10:30:44.000Z</updated>
+        <summary type="html"><![CDATA[Will today’s conservatives look to the fusionist founding father for how to fill the theory vacuum?]]></summary>
+        <author>
+            <name>Daniel J. Flynn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Week: Deal or No Deal?]]></title>
+        <id>https://www.nationalreview.com/?p=1969993</id>
+        <link href="https://www.nationalreview.com/2026/05/the-week-deal-or-no-deal/"/>
+        <updated>2026-05-29T10:30:42.000Z</updated>
+        <summary type="html"><![CDATA[Plus: The DNC’s humiliating autopsy.]]></summary>
+        <author>
+            <name>NR Editors</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Does James Talarico Realize He’s Running to Represent Texas?]]></title>
+        <id>https://www.nationalreview.com/?p=1969668</id>
+        <link href="https://www.nationalreview.com/2026/05/does-james-talarico-realize-hes-running-to-represent-texas/"/>
+        <updated>2026-05-29T10:30:36.000Z</updated>
+        <summary type="html"><![CDATA[It sure doesn’t seem like it.]]></summary>
+        <author>
+            <name>Caroline Downey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adventures in Spielberging]]></title>
+        <id>https://www.nationalreview.com/?p=1969791</id>
+        <link href="https://www.nationalreview.com/2026/05/adventures-in-spielberging/"/>
+        <updated>2026-05-29T10:30:20.000Z</updated>
+        <summary type="html"><![CDATA[The ‘community’ fallacy corrupts a popular artist.]]></summary>
+        <author>
+            <name>Armond White</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[住久了没意思（三）：打造能好好放松的卧室]]></title>
+        <id>https://sspai.com/prime/story/how-to-renovate-a-rental-bedroom</id>
+        <link href="https://sspai.com/prime/story/how-to-renovate-a-rental-bedroom"/>
+        <updated>2026-05-29T09:20:56.000Z</updated>
+        <summary type="html"><![CDATA[前文回顾：租房常见问题与我的改造原则从有光的地方开始动手对大部分人来说，卧室可能是在家里待得最长时间的区域。除了每天睡觉，周末可能也会花很多时间赖在卧室；如果家里比较小，卧室还可能承担休闲和娱乐的功能 ...查看全文
+本文为会员文章，出自《单篇文章》，订阅后可阅读全文。]]></summary>
+        <author>
+            <name>程天冲</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Await：五分钟，把点子变成 iPhone 小组件]]></title>
+        <id>https://sspai.com/post/110106</id>
+        <link href="https://sspai.com/post/110106"/>
+        <updated>2026-05-29T07:00:28.000Z</updated>
+        <summary type="html"><![CDATA[我希望 Await 最后留下的，是一种更轻的创作入口：不必很大，但足够好看和好玩，也足够贴近自己每天使用手机的方式。查看全文]]></summary>
+        <author>
+            <name>maundytime</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anthropic估值超OpenAI，成全球最“贵”AI初创公司]]></title>
+        <id>https://cn.nytimes.com/business/20260529/anthropic-tops-openai-valuation/dual</id>
+        <link href="https://cn.nytimes.com/business/20260529/anthropic-tops-openai-valuation/dual"/>
+        <updated>2026-05-29T06:06:02.000Z</updated>
+        <summary type="html"><![CDATA[MIKE ISAAC, CADE METZ2026年5月29日Anthropic的最新模型Claude Opus 4.8特别擅长氛围编码，即人工智能根据口语化英语提示词编写代码的过程。 Jason Henry for The New York Times
+Anthropic, once the lesser-known artificial intelligence competitor to OpenAI, has been on an inexorable rise over the past few months.
+曾几何时，Anthropic还是OpenAI的一个名气较小的人工智能竞争对手，但在过去几个月里，该公司的崛起势不可挡。
+The San Francisco company recently dueled with the Pentagon over the use of A.I. in warfare. It released a powerful A.I. model, Mythos, that it said was uncannily capable of finding and exploiting hidden flaws in software. And the company advised Pope Leo XIV on his papal encyclical delivered on Monday, in which he warned about safeguarding humanity from A.I.’s most disruptive effects.
+这家总部位于旧金山的公司最近因在战争中使用人工智能的问题与五角大楼发生冲突。它发布了一款强大的人工智能模型Mythos，并宣称该模型在发现和利用软件中隐藏的缺陷方面具有不可思…]]></summary>
+        <author>
+            <name>纽约时报双语版</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[沿66号公路，驶过一个世纪]]></title>
+        <id>https://cn.nytimes.com/culture/20260529/route-66-100-years-cars/dual</id>
+        <link href="https://cn.nytimes.com/culture/20260529/route-66-100-years-cars/dual"/>
+        <updated>2026-05-29T05:36:01.000Z</updated>
+        <summary type="html"><![CDATA[JAMIE LINCOLN KITMAN2026年5月29日约翰·克拉夫奇克的1966款奥兹莫比尔。在战后经济繁荣时期，无数像他这辆奥兹莫比尔一样的汽车纷纷向西进发。 
+U.S. Route 66, the Mother Road of novels, songs and movies and the highway that ran parallel with America’s postwar boom years, is celebrating its 100th anniversary. Driving it in 2026, you wouldn’t necessarily know that festivities were in order.
+无数小说、歌曲与电影中的“母亲之路”——美国66号公路是一条与美国战后繁荣岁月并行的公路，如今它正迎来100周年纪念。如果你在2026年驱车行驶在这条路上，未必能意识到这里正举行庆祝活动。
+The arrival of jet travel and the birth of the federal interstate program in 1956 led to a marked decline in traffic, followed by decades of neglect. Though it has long since lost its former luster, Route 66 remains a monument to its past and to the freedom and opportunity it once stood for in a nation migrating westward.
+喷气式飞机旅行的到来以及1956年联邦州际公路计划的诞生导致公路沿线交通流量显著下降，随后便是数…]]></summary>
+        <author>
+            <name>纽约时报双语版</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[欧洲与中国贸易战风险升高，原因何在？]]></title>
+        <id>https://cn.nytimes.com/business/20260529/europe-china-trade-war-electric-cars/dual</id>
+        <link href="https://cn.nytimes.com/business/20260529/europe-china-trade-war-electric-cars/dual"/>
+        <updated>2026-05-29T05:06:02.000Z</updated>
+        <summary type="html"><![CDATA[JEANNA SMIALEK, 艾莎2026年5月29日5月，在中国东部城市杭州的港口等待出口的中国产电动汽车。 Agence France-Presse — Getty Images
+Kaja Kallas, the top European Union diplomat, recently suggested that ending the continent’s dependence on China was like trying to cure a disease. “Chemotherapy” might be needed, she said, and it was likely to be painful.
+欧盟最高外交官卡娅·卡拉斯最近表示，结束欧洲对中国的依赖就像是尝试治愈一种疾病。她说，可能需要用到“化疗”，而且过程很可能会充满痛苦。
+The comments were an example of the tone Europe is increasingly taking on China, the second-largest goods trading partner for the 27-nation European Union, after the United States.
+这些言论是欧洲对中国态度日益强硬的一个例子。对由27个国家组成的欧盟而言，中国是仅次于美国的第二大商品贸易伙伴。
+As Beijing adopts more aggressive trade policies and as imports from China into Europe soar, European leaders and companies are fretting over their reliance on Chinese products —…]]></summary>
+        <author>
+            <name>纽约时报双语版</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国财政部拟将特朗普肖像印在新版250美元纸币上]]></title>
+        <id>https://cn.nytimes.com/usa/20260529/treasury-trump-250-bill/dual</id>
+        <link href="https://cn.nytimes.com/usa/20260529/treasury-trump-250-bill/dual"/>
+        <updated>2026-05-29T04:06:03.000Z</updated>
+        <summary type="html"><![CDATA[ALAN RAPPEPORT2026年5月29日
+Treasury Secretary Scott Bessent said on Thursday that his agency had been working on a mock-up of a $250 note bearing the face of President Trump in preparation for an addition to the nation’s paper currency that would for the first time include the portrait of a living president.
+美国财长斯科特·贝森特周四表示，他的部门一直在着手准备印有特朗普总统头像的250美元纸币的样币，为美国纸币首次纳入一位在世总统的肖像做准备。
+Such a move would represent a dramatic remaking of American money, which currently is only allowed to bear the image of the deceased. Mr. Trump has also pushed for the creation of a $1 coin bearing his image and is having his signature added to U.S. currency this year. The initiatives are part of an effort by Mr. Trump to honor himself while commemorating the nation’s 250th birthday.
+此举将意味着美国货币的重大改革，因为现行规定仅允许货币上使用已故人物…]]></summary>
+        <author>
+            <name>纽约时报双语版</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国与伊朗海上对峙：一场“看谁先眨眼认输”的僵局]]></title>
+        <id>https://cn.nytimes.com/world/20260529/iran-us-blockade-strait-hormuz/dual</id>
+        <link href="https://cn.nytimes.com/world/20260529/iran-us-blockade-strait-hormuz/dual"/>
+        <updated>2026-05-29T03:06:02.000Z</updated>
+        <summary type="html"><![CDATA[NICHOLAS KULISH, JOHN ISMAY2026年5月29日
+Naval blockades, military history has shown, require patience. That is not the leading attribute of the American commander in chief.
+军事史告诉我们，海上封锁需要耐心。而这恰恰不是这位美国三军统帅最突出的品质。
+So when President Trump imposed a blockade of Iranian ports in April, the quick result he was looking for — a reopening of the Strait of Hormuz to commercial traffic — was not in the cards. Wearing down an enemy with a blockade can take months or years, military experts say, and certainly not weeks.
+因此，当特朗普总统在4月对伊朗港口实施封锁时，他想要的立竿见影效果——让霍尔木兹海峡重新对商船开放——并不现实。军事专家指出，通过封锁来拖垮敌人，往往需要数月乃至数年，绝非几周就能做到的。
+Iran, with thousands of miles of land borders with seven neighbors, and a trade lifeline to its ally Russia across the Caspian Sea, had alternatives. The standoff persisted.
+伊朗与七个邻国接壤，拥有绵延数千英里的陆…]]></summary>
+        <author>
+            <name>纽约时报双语版</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[什么才是「好」的 Android 音频输出？从一台旧日 Xperia 说起]]></title>
+        <id>https://sspai.com/post/110120</id>
+        <link href="https://sspai.com/post/110120"/>
+        <updated>2026-05-29T02:57:32.000Z</updated>
+        <summary type="html"><![CDATA[Android 早已具备高质量音频输出的能力，但一段声音从在抵达耳机之前，往往还要经过系统层层处理。下面我们一起探究 Android 高保真输出背后的秘密。查看全文]]></summary>
+        <author>
+            <name>纳兰音韵</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国物价正以三年来最快速度上涨]]></title>
+        <id>https://cn.nytimes.com/usa/20260529/inflation-pce-gauge/dual</id>
+        <link href="https://cn.nytimes.com/usa/20260529/inflation-pce-gauge/dual"/>
+        <updated>2026-05-29T02:06:02.000Z</updated>
+        <summary type="html"><![CDATA[COLBY SMITH2026年5月29日 Vincent Alban/The New York Times
+A measure of inflation closely watched by the Federal Reserve accelerated in April to a three-year high, reinforcing the central bank’s budding support to consider raising interest rates if price pressures do not ease.
+美联储密切关注的一项通胀指标在4月加速升至三年来的高点，这进一步增强了该央行内部正在萌生的一种立场：如果价格压力没有缓解，将考虑加息。
+The Personal Consumption Expenditures index rose 3.8 percent from the same time last year. It was the fastest annual pace since May 2023, when the Fed was in the midst of raising rates to tame a burst of inflation that had emerged in the wake of the pandemic.
+个人消费支出指数(PCE)同比上涨3.8%。这是自2023年5月以来的最快年增速，当时美联储正处于加息周期之中，以平息疫情后爆发的通胀。
+A measure of underlying inflation that strips out volatile food and energy prices also notched a multiyear high. That measure, “c…]]></summary>
+        <author>
+            <name>纽约时报双语版</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：Sony 发布 Bravia 2026 款电视产品等]]></title>
+        <id>https://sspai.com/post/110425</id>
+        <link href="https://sspai.com/post/110425"/>
+        <updated>2026-05-29T00:51:34.000Z</updated>
+        <summary type="html"><![CDATA[Anthropic 发布旗舰模型 Claude Opus 4.8，Intel 发布锐炫 G 系列处理器等。查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Temu因销售不合规商品被欧盟罚款2亿欧元]]></title>
+        <id>https://cn.nytimes.com/business/20260529/temu-fine-european-union/dual</id>
+        <link href="https://cn.nytimes.com/business/20260529/temu-fine-european-union/dual"/>
+        <updated>2026-05-29T00:36:02.000Z</updated>
+        <summary type="html"><![CDATA[艾莎, JEANNA SMIALEK2026年5月29日此次针对Temu的处罚出台之际，欧洲正对中国企业在当地销售商品的行为展开更广泛的审查。欧盟委员会目前还在调查Shein和AliExpress——Temu的两家中国竞争对手。 Ksenia Kuleshova for The New York Times
+The low-cost Chinese e-commerce platform Temu was fined 200 million euros ($232 million) by the European Union on Thursday for failing to spot and curb the sale of illegal products.
+中国廉价电商平台Temu因未能发现并遏制非法商品的销售，于周四被欧盟处以2亿欧元（约合人民币15.7亿元）罚款。
+The European Commission, the bloc’s executive arm, said that Temu had violated the European Union’s Digital Services Act, the bloc’s wide-ranging law that polices online practices. Temu is required to submit a plan to address the breaches by Aug. 28. It could also appeal.
+欧盟执行机构欧洲委员会表示，Temu违反了欧盟的《数字服务法》——一部涵盖广泛的欧盟网络行为监管法规。Temu被要求在8月28日之前提交一份解决违规问题的计划。该公司也可以提出申诉。
+The commission opened its investigation i…]]></summary>
+        <author>
+            <name>纽约时报双语版</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[俄宇航员准备太空行走 - May 28, 2026]]></title>
         <id>idaily-252138</id>
@@ -229,6 +423,33 @@ Secretary of State Marco Rubio visited New Delhi this week to reassure India of 
 President Trump’s blow-hot, blow-cold approach to India is a stark contrast from that of previous U.S. presidents, who sought to maintain good relations with India. India needs civil and stable ties with the United States, its biggest export market, and doesn’t want to attract the ire of Mr. Trump, which could disr…]]></summary>
         <author>
             <name>纽约时报双语版</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从“PUA”到“KTV”：语词使用如何影响讨论焦点？]]></title>
+        <id>606f97ba43b3d18c2a8c66b0b0f88a7c</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E4%BB%8E%E2%80%9CPUA%E2%80%9D%E5%88%B0%E2%80%9CKTV%E2%80%9D%EF%BC%9A%E8%AF%AD%E8%AF%8D%E4%BD%BF%E7%94%A8%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E8%AE%A8%E8%AE%BA%E7%84%A6%E7%82%B9%EF%BC%9F"/>
+        <updated>2026-05-28T01:57:00.000Z</updated>
+        <author>
+            <name>新京报书评周刊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“奥德赛时期”：尚未叛逆，足够迷茫]]></title>
+        <id>b87f295f02fbb0354facb43d367e12a7</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E2%80%9C%E5%A5%A5%E5%BE%B7%E8%B5%9B%E6%97%B6%E6%9C%9F%E2%80%9D%EF%BC%9A%E5%B0%9A%E6%9C%AA%E5%8F%9B%E9%80%86%EF%BC%8C%E8%B6%B3%E5%A4%9F%E8%BF%B7%E8%8C%AB"/>
+        <updated>2026-05-28T01:57:00.000Z</updated>
+        <author>
+            <name>新京报书评周刊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[参赛作品中有AI特征，“英联邦短篇小说奖”陷入丑闻漩涡]]></title>
+        <id>5dd45e4fd87664fd7dae1a3d17530da1</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E5%8F%82%E8%B5%9B%E4%BD%9C%E5%93%81%E4%B8%AD%E6%9C%89AI%E7%89%B9%E5%BE%81%EF%BC%8C%E2%80%9C%E8%8B%B1%E8%81%94%E9%82%A6%E7%9F%AD%E7%AF%87%E5%B0%8F%E8%AF%B4%E5%A5%96%E2%80%9D%E9%99%B7%E5%85%A5%E4%B8%91%E9%97%BB%E6%BC%A9%E6%B6%A1"/>
+        <updated>2026-05-28T01:57:00.000Z</updated>
+        <author>
+            <name>新京报书评周刊</name>
         </author>
     </entry>
     <entry>
@@ -498,6 +719,24 @@ I should add that if you fail to follow these rules, I’m not saying that you a
 1. Run when you hear “We must do …]]></summary>
         <author>
             <name>纽约时报双语版</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[马家辉、刘旸对谈预告 | 对50岁那年的决定，他“交作业了”]]></title>
+        <id>e4853179c46b4cc800f223228ea4bb81</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E9%A9%AC%E5%AE%B6%E8%BE%89%E3%80%81%E5%88%98%E6%97%B8%E5%AF%B9%E8%B0%88%E9%A2%84%E5%91%8A%20%7C%20%E5%AF%B950%E5%B2%81%E9%82%A3%E5%B9%B4%E7%9A%84%E5%86%B3%E5%AE%9A%EF%BC%8C%E4%BB%96%E2%80%9C%E4%BA%A4%E4%BD%9C%E4%B8%9A%E4%BA%86%E2%80%9D"/>
+        <updated>2026-05-27T02:05:00.000Z</updated>
+        <author>
+            <name>新京报书评周刊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[亲密关系中的“PUA”，法律如何回应？｜对话李莹]]></title>
+        <id>9bcc9b9c740215b3c60723db11fe566d</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E4%BA%B2%E5%AF%86%E5%85%B3%E7%B3%BB%E4%B8%AD%E7%9A%84%E2%80%9CPUA%E2%80%9D%EF%BC%8C%E6%B3%95%E5%BE%8B%E5%A6%82%E4%BD%95%E5%9B%9E%E5%BA%94%EF%BC%9F%EF%BD%9C%E5%AF%B9%E8%AF%9D%E6%9D%8E%E8%8E%B9"/>
+        <updated>2026-05-27T02:05:00.000Z</updated>
+        <author>
+            <name>新京报书评周刊</name>
         </author>
     </entry>
     <entry>
@@ -6997,146 +7236,6 @@ You Don’t Need to Learn All the Weights on tabular data: The Case for rvflnet�
         <summary type="html"><![CDATA[Framework 推出 RTX 5070 GPU 显卡模块、蚂蚁集团百灵大模型开源 Ling-2.6-flash 等。查看全文]]></summary>
         <author>
             <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hatred of Data Centers Is Irrational and Self-Defeating]]></title>
-        <id>https://www.nationalreview.com/?p=1953988</id>
-        <link href="https://www.nationalreview.com/2026/04/hatred-of-data-centers-is-irrational-and-self-defeating/"/>
-        <updated>2026-04-29T17:14:21.000Z</updated>
-        <summary type="html"><![CDATA[What is to be gained by railing against them?]]></summary>
-        <author>
-            <name>Charles C. W. Cooke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[86 the Comey Indictment]]></title>
-        <id>https://www.nationalreview.com/?p=1953936</id>
-        <link href="https://www.nationalreview.com/2026/04/86-the-comey-indictment/"/>
-        <updated>2026-04-29T15:43:03.000Z</updated>
-        <summary type="html"><![CDATA[The DOJ’s latest case against the former FBI director is even more absurd than the last one.]]></summary>
-        <author>
-            <name>The Editors</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[宇宙神5号发射亚马逊卫星 - April 29, 2026]]></title>
-        <id>idaily-250447</id>
-        <link href="https://m.idai.ly/se/18abUU"/>
-        <updated>2026-04-29T10:59:00.000Z</updated>
-        <summary type="html"><![CDATA[美国联合发射联盟「宇宙神5号」火箭搭载亚马逊公司新一批互联网卫星发射升空，卡纳维拉尔角。4月27日，「宇宙神5号」火箭成功将亚马逊「Leo」低轨互联网卫星星座的第10批29颗组网卫星送入近地轨道，这批卫星载荷总重达18吨，创下该型号火箭迄今最重发射载荷纪录。亚马逊公司「Leo」卫星星座在轨卫星总数已增至270颗，目标在2028年7月前部署完成1618颗，最终规模达到3236颗。摄影师：Joe Marino]]></summary>
-        <author>
-            <name>美国 · 佛罗里达州</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英王美国国会演讲 - April 29, 2026]]></title>
-        <id>idaily-250446</id>
-        <link href="https://m.idai.ly/se/18eJ7n"/>
-        <updated>2026-04-29T10:58:00.000Z</updated>
-        <summary type="html"><![CDATA[英国国王查尔斯三世向美国国会发表演讲，华盛顿特区。4月28日，英国国王查尔斯三世成为继女王伊丽莎白二世之后第2位受邀在美国国会发表演讲的英国君主。英王查尔斯三世在长约20分钟演讲中围绕英美关系、俄乌冲突、自然保护等议题进行阐述，他强调英美两国拥有「共同的民主、法律和社会传统」以及「牢不可破的关系纽带」，呼吁美国与盟友国家一同面对当今世界的巨大挑战。美国总统 Donald Trump 并未出席本次演讲活动。摄影师：Kylie Cooper]]></summary>
-        <author>
-            <name>美国 · 华盛顿特区</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英国反动物试验抗议 - April 29, 2026]]></title>
-        <id>idaily-250444</id>
-        <link href="https://m.idai.ly/se/1e1h65"/>
-        <updated>2026-04-29T10:57:00.000Z</updated>
-        <summary type="html"><![CDATA[英国动物保护人士在议会大厦外举行「反对动物试验」抗议活动，伦敦。4月24日是联合国认定的「世界实验动物日」，该节日由英国反活体解剖协会（NAVS）于1979年发起，旨在呼吁减少和停止不必要的动物实验，倡导科学、人道地对待实验动物。英国内政部数据显示2024年英国有超过255万只动物被用于科学实验，涉及物种包括老鼠、鱼、兔子、狗、猫、猴子和马。英国政府计划在2035年前逐步淘汰动物实验，并拨款7500万英镑支持替代方法的研发与推广。摄影师：Andy Rain]]></summary>
-        <author>
-            <name>英国 · 伦敦</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[巴基斯坦女性就业困境 - April 29, 2026]]></title>
-        <id>idaily-250443</id>
-        <link href="https://m.idai.ly/se/3d7iR0"/>
-        <updated>2026-04-29T10:55:00.000Z</updated>
-        <summary type="html"><![CDATA[巴基斯坦女性在职业培训中心学习缝纫课程，白沙瓦。这个非营利组织开设的职业培训中心旨在帮助无业女性获得劳动技能，目前开设课程包括英语、计算机、电工、缝纫、手机维修等。根据世界经济论坛发布的《2025年全球性别差距指数》，巴基斯坦女性劳动参与率仅16.3%，仅13%女性拥有银行账户，高等教育女性的失业率接近24%，女性担任部长级职务的比例为0%，总体性别平等得分仅56.7%，在148个国家中排名垫底。摄影师：Bilawal Arbab]]></summary>
-        <author>
-            <name>巴基斯坦 · 白沙瓦</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本岩手县山火扑灭 - April 29, 2026]]></title>
-        <id>idaily-250442</id>
-        <link href="https://m.idai.ly/se/b586dB"/>
-        <updated>2026-04-29T10:53:00.000Z</updated>
-        <summary type="html"><![CDATA[日本东北部岩手县山火产生的浓烟升至高空，大槌町。4月28日，日本岩手县大槌町山火持续蔓延一周，迄今累计过火面积达到1633公顷，为日本30多年来过火面积第二大的山火，共造成8栋建筑受损。来自日本各地的逾1000名消防员及自卫队成员参与灭火行动，目前火势基本得到控制。大槌町已对超过3200人发布避难指示，约占全町人口的三分之一。摄影师：iDaily Media]]></summary>
-        <author>
-            <name>日本 · 岩手县</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[印尼严重列车相撞事故 - April 29, 2026]]></title>
-        <id>idaily-250441</id>
-        <link href="https://m.idai.ly/se/259b3i"/>
-        <updated>2026-04-29T10:51:00.000Z</updated>
-        <summary type="html"><![CDATA[印尼勿加泗市火车站列车严重相撞事故现场。4月28日，印尼政府通报西爪哇省勿加泗市列车相撞事故确认造成15人死亡、88人受伤，事故现场搜救行动已经结束。初步调查显示，本次事故发生于4月27日晚上20时50分，起因是一辆出租车在公路与铁路交道口突然抛锚，导致一列开往雅加达的通勤列车无法正常通行，最终与后方驶来的长途列车追尾撞击。印尼总统 Prabowo Subianto 下令彻查事故原因，并承诺取缔全国所有公路与铁路的平交道口。摄影师：Mast Irham]]></summary>
-        <author>
-            <name>印度尼西亚 · 勿加泗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国国家自然博物馆霸王龙特展 - April 29, 2026]]></title>
-        <id>idaily-250440</id>
-        <link href="https://m.idai.ly/se/f850Um"/>
-        <updated>2026-04-29T10:49:00.000Z</updated>
-        <summary type="html"><![CDATA[中国国家自然博物馆举办「霸王龙 T-REX：恐龙之王」特展，北京。4月28日，中国国家自然博物馆的霸王龙特展正式开幕，本次展览共计展出100余件化石和复原模型，亮点展品包括自德国阿尔特姆恐龙博物馆馆藏的北美霸王龙「洛基」和「蕾蒂娜」骨架化石，以及中国本土发现的中国龙、永川龙、帝龙、羽王龙、虔州龙、诸城暴龙等暴龙类恐龙化石。这是北美地区出土的霸王龙化石首次在中国大陆展出，亦是中国暴龙类家族成员最完整的一次集体亮相，展期将持续至10月11日。摄影师：iDaily Media]]></summary>
-        <author>
-            <name>中国 · 北京</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[旅俄大熊猫7周年 - April 29, 2026]]></title>
-        <id>idaily-250439</id>
-        <link href="https://m.idai.ly/se/2a0t1z"/>
-        <updated>2026-04-29T10:47:00.000Z</updated>
-        <summary type="html"><![CDATA[莫斯科动物园的大熊猫在室外场地啃竹子。4月29日，莫斯科动物园迎来大熊猫「如意」和「丁丁」入住7周年。这对大熊猫于2019年4月29日抵达莫斯科开启15年旅居生活，2023年8月24日诞下首只俄罗斯境内繁育的大熊猫「喀秋莎」。莫斯科动物园已宣布将在2026年内为「喀秋莎」建造独立新馆舍。根据中俄大熊猫租借协议，「喀秋莎」预计将在4岁时返回中国。摄影师：Alisa Makarova]]></summary>
-        <author>
-            <name>俄罗斯 · 莫斯科</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Handshakes and Humiliation: Beijing’s Play for Taiwan Becomes Clearer]]></title>
-        <id>https://www.nationalreview.com/?p=1953155</id>
-        <link href="https://www.nationalreview.com/2026/04/humiliation-and-handshakes-beijings-play-for-taiwan-becomes-clearer/"/>
-        <updated>2026-04-29T10:30:44.000Z</updated>
-        <summary type="html"><![CDATA[Xi is pursuing unification not merely through military preparation — but also through calibrated political warfare.]]></summary>
-        <author>
-            <name>Jianli Yang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jimmy Kimmel Being Unfunny Isn’t a Matter for Government]]></title>
-        <id>https://www.nationalreview.com/?p=1953384</id>
-        <link href="https://www.nationalreview.com/2026/04/jimmy-kimmel-being-unfunny-isnt-a-matter-for-government/"/>
-        <updated>2026-04-29T10:30:27.000Z</updated>
-        <summary type="html"><![CDATA[His Melania joke was crass, but Washington shouldn’t police what’s said by late-night comics.]]></summary>
-        <author>
-            <name>The Editors</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Inflation and Tariffs Impoverish People Differently]]></title>
-        <id>https://www.nationalreview.com/?p=1953541</id>
-        <link href="https://www.nationalreview.com/2026/04/how-inflation-and-tariffs-impoverish-people-differently/"/>
-        <updated>2026-04-29T10:30:21.000Z</updated>
-        <summary type="html"><![CDATA[One redistributes buying power; the other limits what consumers can use it for.]]></summary>
-        <author>
-            <name>John R. Puri</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sympathy vs. Facts in <i>I Swear</i>]]></title>
-        <id>https://www.nationalreview.com/?p=1953279</id>
-        <link href="https://www.nationalreview.com/2026/04/sympathy-vs-facts-in-i-swear/"/>
-        <updated>2026-04-29T10:30:02.000Z</updated>
-        <summary type="html"><![CDATA[A biographical drama takes on responsible speech.]]></summary>
-        <author>
-            <name>Armond White</name>
         </author>
     </entry>
 </feed>
