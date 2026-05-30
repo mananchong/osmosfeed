@@ -65,6 +65,46 @@
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
         {
+          "id": "https://www.nationalreview.com/?p=1969207",
+          "author": "Nat Brown",
+          "description": "How the slop-ridden professional social network confirms Magnifica Humanitas’s warnings about AI’s threat to creativity.",
+          "link": "https://www.nationalreview.com/2026/05/pope-leo-vs-the-linkedin-hollow-men/",
+          "publishedOn": "2026-05-30T10:30:56.000Z",
+          "wordCount": 5943,
+          "title": "Pope Leo vs. the LinkedIn Hollow Men",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2025/09/pope-leo-vatican.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1969832",
+          "author": "John Gustavsson",
+          "description": "The former British prime minister’s criticisms of Labour Party policy suffer from a lack of self-reflection.",
+          "link": "https://www.nationalreview.com/2026/05/tony-blair-speaks-out-against-his-party-but-still-wont-choose-honesty/",
+          "publishedOn": "2026-05-30T10:30:50.000Z",
+          "wordCount": 7400,
+          "title": "Tony Blair Speaks Out Against His Party — but Still Won’t Choose Honesty",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/05/tony-blair.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1970200",
+          "author": "Brian T. Allen",
+          "description": "Rule No. 1 in cutting arts funding is ‘don’t look stupid.’",
+          "link": "https://www.nationalreview.com/2026/05/doge-culture-fiasco-a-court-decision-and-rule-by-chatgpt/",
+          "publishedOn": "2026-05-30T10:30:49.000Z",
+          "wordCount": 7982,
+          "title": "DOGE Culture Fiasco, a Court Decision, and Rule by ChatGPT",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/05/performance.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1969314",
+          "author": "Andrew C. McCarthy",
+          "description": "Whatever his gang connections may be, Abrego would have been deported months ago were it not for government gamesmanship.",
+          "link": "https://www.nationalreview.com/2026/05/the-kilmar-abrego-garcia-case-still-makes-no-sense/",
+          "publishedOn": "2026-05-30T10:30:09.000Z",
+          "wordCount": 7578,
+          "title": "The Kilmar Abrego Garcia Case Still Makes No Sense",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/05/kilmar-abrego-garcia.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
           "id": "https://www.nationalreview.com/?p=1970354",
           "author": "Rich Lowry",
           "description": "The Senate candidate is now backpedaling on statements about the nature of God, the number of sexes, and more.",
@@ -2112,6 +2152,16 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/110172",
+          "author": "AstrianZ",
+          "description": "去感受、去思考、去创作吧，这是只有身为人类的你能做到的事情。查看全文",
+          "link": "https://sspai.com/post/110172",
+          "publishedOn": "2026-05-30T09:04:38.000Z",
+          "wordCount": 260,
+          "title": "AI 如何影响你的审美？",
+          "imageUrl": null
+        },
+        {
           "id": "https://sspai.com/post/110446",
           "author": "少数派编辑部",
           "description": "📅本周新预告《玩具总动员5》终极预告5月26日，皮克斯动画电影《玩具总动员5》发布了终极预告，将于6月19日内地上映。安德鲁·斯坦顿、麦肯纳·哈里斯执导，胡迪、巴斯光年、翠丝等老朋友们回归，无所不能的 ...查看全文",
@@ -2998,6 +3048,76 @@
       "feedUrl": "https://plink.anyfeeder.com/idaily/today",
       "siteUrl": "https://idai.ly",
       "articles": [
+        {
+          "id": "idaily-252225",
+          "author": "中国 · 内蒙古自治区",
+          "description": "「神舟二十二号」载人飞船返回舱在内蒙古东风着陆场成功着陆，地面人员正在协助航天员出舱。5月29日，「神舟二十一号」航天员乘组张陆、武飞、张洪章搭乘「神舟二十二号」载人飞船返回地球，结束为期210天的在轨驻留任务。本次飞船返程从脱离空间站至安全着陆共历时5小时27分钟，3名航天员出舱后身体状态良好。本次返回任务同时带回中国空间站第10批科学实验样品，共涉及23个实验项目，包括9种生命实验样品、12种材料实验样品和2种燃烧实验样品，总重约41.14公斤。摄影师：iDaily Media",
+          "link": "https://m.idai.ly/se/313IuI",
+          "publishedOn": "2026-05-30T04:59:00.000Z",
+          "wordCount": 285,
+          "title": "神舟二十一号乘组返回地球 - May 30, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/a3c7084528/4d82c85e.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/a3c7084528/4d82c85e.jpg"
+        },
+        {
+          "id": "idaily-252222",
+          "author": "美国 · 佛罗里达州",
+          "description": "美国蓝色起源公司「新格伦」（New Glenn）重型运载火箭进行发动机点火测试，佛罗里达州。5月28日，蓝色起源公司通报「新格伦」火箭在发射台点火测试中发生爆炸事故，导致发射台和地面设施严重损坏，未造成人员伤亡。这枚「新格伦」重型运载火箭原计划于6月4日执行亚马逊「Leo」低轨互联网卫星发射任务，爆炸事故发生时尚未搭载卫星。蓝色起源公司创始人 Jeff Bezos 当天在社交媒体发文表示将尽快重建发射设施并恢复任务进展。摄影师：NASA Spaceflight",
+          "link": "https://m.idai.ly/se/bea0Pf",
+          "publishedOn": "2026-05-30T03:58:00.000Z",
+          "wordCount": 285,
+          "title": "蓝色起源火箭点火测试爆炸 - May 30, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/451076bd5d/4cd4e495.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/451076bd5d/4cd4e495.jpg"
+        },
+        {
+          "id": "idaily-252221",
+          "author": "新加坡",
+          "description": "新加坡总理黄循财与美国战争部长 Pete Hegseth 在「香格里拉对话会」（The Shangri-La Dialogue）期间举行会晤。5月29日，第23届香格里拉对话会在新加坡举行，本年度共有来自44个国家和地区的超过550名代表参加，重点聚焦印太安全、中东局势等议题。美国战争部长 Hegseth 在会议上发表美国印太战略主题演讲，他强调美国补贴盟友国家的时代已经结束，敦促亚洲国家提高国防开支以共同承担安全责任，要求中国尊重美国在太平洋地区的长期地位。摄影师：Singapore MDDI",
+          "link": "https://m.idai.ly/se/1daS7V",
+          "publishedOn": "2026-05-30T02:57:00.000Z",
+          "wordCount": 285,
+          "title": "第23届香格里拉对话会 - May 30, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/d637b04234/cad492a3.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/d637b04234/cad492a3.jpg"
+        },
+        {
+          "id": "idaily-252219",
+          "author": "法国 · 巴黎",
+          "description": "法国总统 Emmanuel Macron 与印度尼西亚总统 Prabowo Subianto 出席联合记者会，巴黎。5月28日，印尼总统 Prabowo 应邀对法国进行国事访问。这是印尼总统2026年迄今第3次访问法国，两国领导人就双边关系、防务合作、印尼-欧盟关系等议题举行会谈，共同主持法国-印尼高级别商务理事会启动仪式，并见证签署能源、贸易和防务等领域总额达35亿美元的合作协议。印尼于2022年签署采购42架法国「阵风」战斗机的军售合同，订单总额达81亿美元，目前已有6架完成交付。摄影师：Ludovic Marin",
+          "link": "https://m.idai.ly/se/431UWW",
+          "publishedOn": "2026-05-30T02:55:00.000Z",
+          "wordCount": 285,
+          "title": "印尼总统访问法国 - May 30, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/51684a5a20/b1506fb2.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/51684a5a20/b1506fb2.jpg"
+        },
+        {
+          "id": "idaily-252218",
+          "author": "黎巴嫩 · 贝鲁特",
+          "description": "贝鲁特南部一处居民区遭到以色列空袭，黎巴嫩。5月29日，以色列国防军对黎巴嫩南部发动新一轮空袭，造成至少14人死亡。以色列总理 Benjamin Netanyahu 当天宣布以军已穿越距离以黎边境约30公里的利塔尼河，将继续深入黎巴嫩境内扩大地面攻势。当天以色列和黎巴嫩代表在美国华盛顿特区举行新一轮停火谈判，但未能达成协议。黎巴嫩卫生部通报自3月2日黎以冲突升级以来，以色列袭击已造成黎巴嫩3355人死亡，10095人受伤。摄影师：Ibrahim Amro",
+          "link": "https://m.idai.ly/se/eed5Wz",
+          "publishedOn": "2026-05-30T02:53:00.000Z",
+          "wordCount": 285,
+          "title": "以色列持续空袭黎巴嫩 - May 30, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/3e045475bc/2e0b7f80.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/3e045475bc/2e0b7f80.jpg"
+        },
         {
           "id": "idaily-252164",
           "author": "国际空间站",
@@ -7390,26 +7510,6 @@
           "publishedOn": "2026-05-02T01:54:00.000Z",
           "wordCount": 297,
           "title": "岛上来信：一首诗是一座城丨周末读诗",
-          "imageUrl": null
-        },
-        {
-          "id": "e5a961a1d6f8673267f8713a49d4fc43",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E5%BE%90%E8%B4%B2%EF%BC%9AAI%E6%97%B6%E4%BB%A3%EF%BC%8C%E5%88%AB%E6%8A%8A%E2%80%9C%E4%BA%BA%E7%B1%BB%E7%89%B9%E7%82%B9%E2%80%9D%E8%87%AA%E5%8A%A8%E5%BD%93%E6%88%90%22%E4%BA%BA%E7%B1%BB%E4%BC%98%E7%82%B9%22",
-          "publishedOn": "2026-05-01T02:12:00.000Z",
-          "wordCount": 264,
-          "title": "徐贲：AI时代，别把“人类特点”自动当成\"人类优点\"",
-          "imageUrl": null
-        },
-        {
-          "id": "721814c6497fcd07de7de6ae78dfd649",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E8%AE%A9%E8%AF%BB%E8%80%85%E5%8F%91%E7%8E%B0%E8%87%AA%E5%B7%B1%E7%9A%84%E9%9C%80%E8%A6%81%EF%BD%9C%E5%AF%B9%E8%AF%9D%E8%90%A5%E9%94%80%E7%BC%96%E8%BE%91%E7%8C%AB%E5%A8%98",
-          "publishedOn": "2026-05-01T02:12:00.000Z",
-          "wordCount": 293,
-          "title": "让读者发现自己的需要｜对话营销编辑猫娘",
           "imageUrl": null
         }
       ]
