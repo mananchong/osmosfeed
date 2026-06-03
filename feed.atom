@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mananchong.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-03T12:21:53.409Z</updated>
+    <updated>2026-06-03T20:01:15.302Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mananchong.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://mananchong.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Trump Has Lost the Thread on Iran]]></title>
+        <id>https://www.nationalreview.com/?p=1972642</id>
+        <link href="https://www.nationalreview.com/2026/06/trump-has-lost-the-thread-on-iran/"/>
+        <updated>2026-06-03T18:08:22.000Z</updated>
+        <summary type="html"><![CDATA[If the war was a tactical triumph, the cease-fire has been a disappointment.]]></summary>
+        <author>
+            <name>Noah Rothman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Real Adam Hamawy]]></title>
+        <id>https://www.nationalreview.com/?p=1972509</id>
+        <link href="https://www.nationalreview.com/2026/06/blind-sheikh-sympathizer-adam-hamawy-wins-dem-primary-in-new-jersey/"/>
+        <updated>2026-06-03T15:30:29.000Z</updated>
+        <summary type="html"><![CDATA[The Dem nominee for a House seat in New Jersey was a sympathizer of the Blind Sheikh, who inspired the first World Trade Center bombing.]]></summary>
+        <author>
+            <name>Andrew C. McCarthy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[意大利第80个共和国日 - June 3, 2026]]></title>
         <id>idaily-252404</id>
@@ -7590,16 +7610,6 @@ Since the war began in late February, the United States has burned through aroun
         <summary type="html"><![CDATA[The former FTC chair takes her wrongheaded ideas to a new perch at Columbia.]]></summary>
         <author>
             <name>Hannah Cox</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[听歌时间到，12 张你可能错过的 2025 华语乐坛好专辑]]></title>
-        <id>https://sspai.com/post/109014</id>
-        <link href="https://sspai.com/post/109014"/>
-        <updated>2026-05-05T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[来听歌。查看全文]]></summary>
-        <author>
-            <name>北鸮</name>
         </author>
     </entry>
 </feed>
