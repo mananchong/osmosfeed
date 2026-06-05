@@ -65,6 +65,16 @@
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
         {
+          "id": "https://www.nationalreview.com/?p=1973970",
+          "author": "Dan McLaughlin",
+          "description": "Pulling a Biden or Torricelli swap will not be that easy.",
+          "link": "https://www.nationalreview.com/2026/06/it-will-be-hard-for-democrats-to-replace-graham-platner/",
+          "publishedOn": "2026-06-05T17:07:25.000Z",
+          "wordCount": 7724,
+          "title": "It Will Be Hard for Democrats to Replace Graham Platner",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/05/platner-speaking.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
           "id": "https://www.nationalreview.com/?p=1973283",
           "author": "Armond White",
           "description": "Form and feeling set modern morality to music.",
@@ -2133,16 +2143,6 @@
           "wordCount": 7056,
           "title": "Time to End Race and Gender Preferences in Government Contracts",
           "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/03/us-capitol-dome-washington-dc.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1957903",
-          "author": "Michael Brendan Dougherty",
-          "description": "So much that used to belong to our private lives is now a shared record of our interactions with every corporation and server and Wi-Fi signal.",
-          "link": "https://www.nationalreview.com/2026/05/we-built-the-permanent-record/",
-          "publishedOn": "2026-05-06T23:36:57.000Z",
-          "wordCount": 7505,
-          "title": "We Built the Permanent Record",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/05/using-smartphone.jpg?fit=2057%2C1200&ssl=1"
         }
       ]
     },
@@ -2151,6 +2151,26 @@
       "feedUrl": "https://sspai.com/feed",
       "siteUrl": "https://sspai.com",
       "articles": [
+        {
+          "id": "https://sspai.com/post/110786",
+          "author": "少数派编辑部",
+          "description": "📅本周新预告《逃出绝命街》正式预告6月1日，电影《逃出绝命街》发布了正式预告，将于8月14日在北美上映。大卫·罗伯特·米切尔执导，J·J·艾布拉姆斯制片，安妮·海瑟薇、伊万·麦克格雷格主演，一场雷暴之 ...查看全文",
+          "link": "https://sspai.com/post/110786",
+          "publishedOn": "2026-06-05T10:19:28.000Z",
+          "wordCount": 570,
+          "title": "本周看什么 | 最近值得一看的 8 部作品",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sspai.com/prime/story/macos-storage-management-deduplication",
+          "author": "广陵止息",
+          "description": "虽然最近各种用LLM帮忙整理电脑里的文件、删除垃圾数据的帖子很火，但我天然对这种LLM用法抱有一丝警惕，我始终相信电脑里存在的文件都有自己的意义。所以我就想在这篇文章里和大家聊聊macOS里的存储管理 ...查看全文\n本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
+          "link": "https://sspai.com/prime/story/macos-storage-management-deduplication",
+          "publishedOn": "2026-06-05T10:00:12.000Z",
+          "wordCount": 282,
+          "title": "macOS 存储管理漫谈：去重是节约空间的最好方法",
+          "imageUrl": null
+        },
         {
           "id": "https://sspai.com/post/110666",
           "author": "听歌的水獭",
@@ -3150,26 +3170,6 @@
           "wordCount": 290,
           "title": "一日一技｜为什么你应该关闭 iOS 的键盘声音",
           "imageUrl": null
-        },
-        {
-          "id": "https://sspai.com/post/109367",
-          "author": "PJHubs",
-          "description": "甘南是有着和川西、川北和青甘大环线齐名的绝美圣地，中国大地上第一级阶梯向第二级阶梯的过渡带。这片地方还得再来，适合自驾慢慢走慢慢看，好多风景优美的地方不适合赶路着急。查看全文",
-          "link": "https://sspai.com/post/109367",
-          "publishedOn": "2026-05-07T03:00:10.000Z",
-          "wordCount": 310,
-          "title": "甘南秘境，大白高国：我的甘南自由行记",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sspai.com/post/109448",
-          "author": "少数派编辑部",
-          "description": "Apple 同意和解 Siri 延期的集体诉讼、Valve 开源 Steam Controller 的外壳 CAD 文件等。查看全文",
-          "link": "https://sspai.com/post/109448",
-          "publishedOn": "2026-05-07T00:25:37.000Z",
-          "wordCount": 430,
-          "title": "派早报：三星电子退出中国家电市场、Microsoft Edge 被曝安全隐患等",
-          "imageUrl": null
         }
       ]
     },
@@ -3178,6 +3178,90 @@
       "feedUrl": "https://plink.anyfeeder.com/idaily/today",
       "siteUrl": "https://idai.ly",
       "articles": [
+        {
+          "id": "idaily-252505",
+          "author": "美国 · 纽约",
+          "description": "联合国大会举行安理会非常任理事国选举，纽约。6月3日，联合国大会以无记名投票方式选举奥地利、葡萄牙、特立尼达和多巴哥、津巴布韦、吉尔吉斯斯坦5国为2027年至2028年安理会非常任理事国，其中吉尔吉斯斯坦为首次当选。安理会是联合国唯一有权作出具法律约束力决议的机构，共设置15个席位，其中5个为常任理事国，10个为非常任理事国，非常任理事国每年改选5个，不能连任，席位按地区分配。摄影师：Michael Kappeler",
+          "link": "https://m.idai.ly/se/c9aZ4Q",
+          "publishedOn": "2026-06-05T09:59:00.000Z",
+          "wordCount": 257,
+          "title": "安理会非常任理事国选举 - June 5, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/835191e184/0fd55d7e.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/835191e184/0fd55d7e.jpg"
+        },
+        {
+          "id": "idaily-252504",
+          "author": "美国 · 华盛顿特区",
+          "description": "美国总统 Donald Trump 在白宫签署「加强联邦雇员问责制」行政命令，华盛顿特区。6月3日，美国总统 Trump 签署一项旨在简化联邦雇员解雇流程的行政令，这份行政令规定政府机构能够以「绩效不佳、行为不端、腐败或破坏总统指令」等理由直接解雇高级雇员，预计将影响约8000名高级职位政府工作人员，包括联邦机构主任、副主任、幕僚长、高级顾问和政策分析师等。Trump 本届任期迄今已累计裁减超过30万名联邦雇员，约占政府雇员总人数的12%。最新民调显示 Trump 支持率已跌至35%，创下任内新低。摄影师：Shawn Thew",
+          "link": "https://m.idai.ly/se/22d8aZ",
+          "publishedOn": "2026-06-05T08:58:00.000Z",
+          "wordCount": 257,
+          "title": "特朗普简化联邦解雇程序 - June 5, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/29a2d85452/d8c05463.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/29a2d85452/d8c05463.jpg"
+        },
+        {
+          "id": "idaily-252503",
+          "author": "加拿大 · 不列颠哥伦比亚省",
+          "description": "一艘运载中国制造新能源汽车的滚装货轮抵达加拿大温哥华港口。6月1日，加拿大全球事务部公布数据显示，2026年5月共有2910辆中国制造新能源汽车根据关税配额协议进入加拿大市场。根据中加两国协议，加拿大每年允许以6.1%关税进口4.9万辆中国新能源汽车，相当于该国每年新车销售量的3%。中国是加拿大第二大贸易伙伴，2026年1月至4月双边贸易额约308.9亿美元，同比增长0.7%。摄影师：Ethan Cairns",
+          "link": "https://m.idai.ly/se/06dp8Z",
+          "publishedOn": "2026-06-05T07:57:00.000Z",
+          "wordCount": 257,
+          "title": "中国新能源车出口加拿大 - June 5, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/843717e2ff/0bd8a440.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/843717e2ff/0bd8a440.jpg"
+        },
+        {
+          "id": "idaily-252502",
+          "author": "英国 · 伦敦",
+          "description": "英国民众在伦敦地铁大罢工期间搭乘地铁。6月4日，伦敦地铁工会发起24小时大罢工，共有约40%地铁司机参与，导致中央线、环线等11条线路出现严重延误及中断。这是伦敦地铁工会一周内发起的第2次罢工行动，旨在抗议伦敦交通局拟推行的「每周4天共35小时工作制」方案。工会抨击新制度将导致司机单日工作时间过长，要求将每周4天工作制的总时长减少至32小时。摄影师：Andy Rain",
+          "link": "https://m.idai.ly/se/8b5b8u",
+          "publishedOn": "2026-06-05T07:55:00.000Z",
+          "wordCount": 257,
+          "title": "伦敦地铁大规模罢工 - June 5, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/f6f9303713/15af8439.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/f6f9303713/15af8439.jpg"
+        },
+        {
+          "id": "idaily-252501",
+          "author": "朝鲜",
+          "description": "朝鲜最高领导人金正恩视察高浓缩铀制造设施。6月3日，朝中社报道朝鲜领导人金正恩视察了一处新投产的核物质工厂，并在现场了解新技术生产工序、投产指标和远景生产计划。金正恩指出，朝鲜武器级核物质产能过去五年提升超过一倍，根据战略计划将持续增强国家核战争遏制力，进一步扩大核物质生产能力，继续增加核武器数量。这是朝鲜继2024年9月和2025年1月之后第三次公开核设施，韩国方面推测其可能位于平安北道宁边园区。摄影师：KCNA",
+          "link": "https://m.idai.ly/se/394zQx",
+          "publishedOn": "2026-06-05T07:53:00.000Z",
+          "wordCount": 257,
+          "title": "金正恩视察新核设施 - June 5, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/86e0b0d4d5/563d3ce8.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/86e0b0d4d5/563d3ce8.jpg"
+        },
+        {
+          "id": "idaily-252500",
+          "author": "缅甸 · 仰光",
+          "description": "缅甸女性正在田地里种植番樱桃树，仰光。6月2日，世界气象组织发布通报指出2026年6月至8月形成厄尔尼诺事件的概率为80%，强度预计达到「中等」至「强」级别，并引发暴雨、洪水、干旱等极端天气，全球几乎所有地区的气温都可能高于常年平均水平。缅甸气象水文局发布通告指出，该国气象将从6月开始进入弱厄尔尼诺状态，并可能在年底发展为强厄尔尼诺状态。受极端天气威胁及中东战争影响，5月亚洲基准大米价格攀升20%，创下20年来最大单月涨幅。摄影师：Nyein Chan Naing",
+          "link": "https://m.idai.ly/se/f34Z99",
+          "publishedOn": "2026-06-05T07:51:00.000Z",
+          "wordCount": 257,
+          "title": "世界气象组织预警厄尔尼诺 - June 5, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/5713170ebe/b60207bc.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/5713170ebe/b60207bc.jpg"
+        },
         {
           "id": "idaily-252470",
           "author": "太阳",
@@ -7922,36 +8006,6 @@
           "publishedOn": "2026-05-09T01:54:00.000Z",
           "wordCount": 302,
           "title": "中世纪的英格兰乡村生活是什么样的？",
-          "imageUrl": null
-        },
-        {
-          "id": "ce60c458b38f3a92cb7d6ae9469a29c0",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E6%89%BF%E8%AE%A4%E4%BD%BF%E7%94%A8AI%E5%86%99%E4%BD%9C%E7%9A%84%E7%9F%A5%E5%90%8D%E5%B0%8F%E8%AF%B4%E5%AE%B6%E7%A7%B0%E6%84%9F%E8%A7%89%E2%80%9C%E5%83%8F%E4%BD%9C%E5%BC%8A%E2%80%9D",
-          "publishedOn": "2026-05-07T01:58:00.000Z",
-          "wordCount": 263,
-          "title": "承认使用AI写作的知名小说家称感觉“像作弊”",
-          "imageUrl": null
-        },
-        {
-          "id": "790ccbe3e42edd606e9dc45adeb0b9e2",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E4%BB%8E%E6%B3%95%E5%A4%96%E4%B9%8B%E5%9C%B0%E5%88%B0%E6%9D%83%E5%88%A9%E8%AE%AE%E9%A2%98%EF%BC%9A%E6%80%A7%E9%AA%9A%E6%89%B0%E5%A6%82%E4%BD%95%E8%A2%AB%E6%B3%95%E5%BE%8B%E7%9C%8B%E8%A7%81%EF%BC%9F",
-          "publishedOn": "2026-05-07T01:58:00.000Z",
-          "wordCount": 311,
-          "title": "从法外之地到权利议题：性骚扰如何被法律看见？",
-          "imageUrl": null
-        },
-        {
-          "id": "16910796557ea450a395119ebf288924",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E4%BB%8E%E3%80%8A%E6%B5%AA%E5%A7%90%E3%80%8B%E8%AF%B4%E8%B5%B7%EF%BC%9A%E6%88%91%E4%BB%AC%E4%B8%BA%E4%BB%80%E4%B9%88%E7%88%B1%E4%B8%8A%E4%BA%86%E2%80%9C%E8%B5%B0%E9%9F%B3%E5%88%87%E7%89%87%E2%80%9D%EF%BC%9F",
-          "publishedOn": "2026-05-07T01:58:00.000Z",
-          "wordCount": 263,
-          "title": "从《浪姐》说起：我们为什么爱上了“走音切片”？",
           "imageUrl": null
         }
       ]
