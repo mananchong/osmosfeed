@@ -6,6 +6,16 @@
       "siteUrl": "https://rweekly.org/atom.xml",
       "articles": [
         {
+          "id": "https://rweekly.org/2026-W24.html",
+          "author": null,
+          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Batool Almarzouq, with help from the R Weekly team members and contributors.\nHighlight\nThe Lurking Dangers of the R Version Update\nRefactoring with Jarl: a coffee chat\n11 Test Smells That Make Your Tests Lie to You\nInsights\nRefactoring with Jarl: a coffee chat\n\nReflections on AI and Security\nTechtonique dot net, the Machine Learning web API, is back online (but more like a passion project for now)\nFootball meets machine learning: Forecasting the 2026 FIFA World Cup\n\nSovereign Tech Fund Project: Milestone 1\nThe Lurking Dangers of the R Version Update\nR in Organizations\nA New Guide: Organizing Events for First-time Contributors\nOur goodpractice Package Has New Superpowers\nTuto…",
+          "link": "https://rweekly.org/2026-W24.html",
+          "publishedOn": "2026-06-08T00:00:00.000Z",
+          "wordCount": 5964,
+          "title": "R Weekly 2026-W24 R Version Update, Refactoring, Your Tests Lie to You",
+          "imageUrl": "https://rweekly.org/public/facebook.png"
+        },
+        {
           "id": "https://rweekly.org/2026-W23.html",
           "author": null,
           "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Jonathan Kitt, with help from the R Weekly team members and contributors.\nHighlights\nBuilding a Computer in R\nIntroducing Toolbars: Supercharge your Cards and Inputs\nA memory model for production async R: mirai 2.7.0 and mori 0.2.0\nInsights\nIntroducing modify mode for quarto-revealjs-editable\nA memory model for production async R: mirai 2.7.0 and mori 0.2.0\nSurvival Analysis with nlmixr2\nBehavior-Driven Development in R Shiny: Modeling User Behavior with When Steps\n{alt=”Diagram showing how mirai::try_mirai() composes with mori::share()” width=”600”}\nR in the Real World\nSustainable energy for all - Scrollytelling visualisation\n{width=”600”}\nR in Organizations\nrOpenSci News D…",
@@ -64,6 +74,36 @@
       "feedUrl": "https://www.nationalreview.com/feed/",
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
+        {
+          "id": "https://www.nationalreview.com/?p=1973587",
+          "author": "Will Swaim",
+          "description": "Representative Vince Fong is moving to rein in California profligacy and relieve business owners in the process.",
+          "link": "https://www.nationalreview.com/2026/06/payback-for-gavin-newsoms-fiscal-folly/",
+          "publishedOn": "2026-06-09T10:30:56.000Z",
+          "wordCount": 16463,
+          "title": "Payback for Gavin Newsom’s Fiscal Folly",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/06/gavin-newsom.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1975342",
+          "author": "Seth Cropsey",
+          "description": "The West stands to gain.",
+          "link": "https://www.nationalreview.com/2026/06/in-europe-trump-can-embrace-the-opportunity-russian-weakness-presents/",
+          "publishedOn": "2026-06-09T10:30:04.000Z",
+          "wordCount": 16606,
+          "title": "In Europe, Trump Can Embrace the Opportunity Russian Weakness Presents",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/05/ukraine-war-052627-3.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1975233",
+          "author": "The Editors",
+          "description": "It does not have to be this way.",
+          "link": "https://www.nationalreview.com/2026/06/californias-dysfunctional-elections/",
+          "publishedOn": "2026-06-09T10:30:04.000Z",
+          "wordCount": 6530,
+          "title": "California’s Dysfunctional Elections",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/06/california-election-cnn-coverage.jpg?fit=2057%2C1200&ssl=1"
+        },
         {
           "id": "https://www.nationalreview.com/?p=1975184",
           "author": "Noah Rothman",
@@ -1993,66 +2033,6 @@
           "wordCount": 7143,
           "title": "Breaking: Pope Leo Is Catholic",
           "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/05/pope-leo-pompei.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1959995",
-          "author": "John Fund",
-          "description": "Wealthy homeowners should be insured by the market.",
-          "link": "https://www.nationalreview.com/2026/05/end-the-national-flood-insurance-program/",
-          "publishedOn": "2026-05-10T21:39:40.000Z",
-          "wordCount": 6290,
-          "title": "End the National Flood Insurance Program",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/05/flood-florida-signs.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1957714",
-          "author": "James Lileks",
-          "description": "Ancient cultures were more belligerent than elites would care to admit.",
-          "link": "https://www.nationalreview.com/2026/05/newsflash-people-have-actually-never-lived-in-harmony/",
-          "publishedOn": "2026-05-10T10:30:39.000Z",
-          "wordCount": 6244,
-          "title": "Newsflash! People Have Actually Never Lived in Harmony",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/05/mayan-ruin.jpg?fit=1200%2C700&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1959079",
-          "author": "Tony Morley",
-          "description": "The values of the West built the prosperity of civilization.",
-          "link": "https://www.nationalreview.com/2026/05/the-west-is-good/",
-          "publishedOn": "2026-05-10T10:30:33.000Z",
-          "wordCount": 6569,
-          "title": "The West Is Good",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/05/defense-of-the-west2.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1957926",
-          "author": "Andrew Follett",
-          "description": "Slashing ‘green’ red tape could help lower costs at the pump.",
-          "link": "https://www.nationalreview.com/2026/05/five-ways-republicans-can-bring-down-gas-prices-and-reclaim-the-affordability-mantle/",
-          "publishedOn": "2026-05-10T10:30:30.000Z",
-          "wordCount": 6767,
-          "title": "Five Ways Republicans Can Bring Down Gas Prices and Reclaim the ‘Affordability’ Mantle",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/04/exxon-gas-station.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1959541",
-          "author": "Perry Link",
-          "description": "The imprisoned newspaperman’s ‘will to do right’ has always been his driving force.",
-          "link": "https://www.nationalreview.com/2026/05/understanding-jimmy-lai/",
-          "publishedOn": "2026-05-10T10:30:10.000Z",
-          "wordCount": 6880,
-          "title": "Understanding Jimmy Lai",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2025/02/Jimmy-Lai.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1957750",
-          "author": "Hector Chapa",
-          "description": "The medical community’s dehumanizing language furthers abortion politics.",
-          "link": "https://www.nationalreview.com/2026/05/the-power-of-baby/",
-          "publishedOn": "2026-05-10T10:30:04.000Z",
-          "wordCount": 10338,
-          "title": "The Power of ‘Baby’",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2018/10/march-for-life-rally-signs-2013.jpg?fit=2057%2C1200&ssl=1"
         }
       ]
     },
@@ -2061,6 +2041,56 @@
       "feedUrl": "https://sspai.com/feed",
       "siteUrl": "https://sspai.com",
       "articles": [
+        {
+          "id": "https://sspai.com/post/110907",
+          "author": "Matrix机器人",
+          "description": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文",
+          "link": "https://sspai.com/post/110907",
+          "publishedOn": "2026-06-09T09:06:41.000Z",
+          "wordCount": 546,
+          "title": "社区速递 144 | 听 AI 开「营养处方」、无感耳夹耳机与磁吸支架",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sspai.com/post/110863",
+          "author": "什么陈",
+          "description": "少数派联合思维重置与Akko共创的新产品「灵犀Linx键盘」即将上市。在产品正式发布前，我们希望邀请一批用户提前参与体验，共同验证功能设计和使用场景。本次将面向少数派社区招募10名体验用户。关于灵犀L ...查看全文",
+          "link": "https://sspai.com/post/110863",
+          "publishedOn": "2026-06-09T04:00:00.000Z",
+          "wordCount": 258,
+          "title": "众测招募｜灵犀 Linx 键盘功能共创计划开启",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sspai.com/post/110889",
+          "author": "少数派编辑部",
+          "description": "少数派的近期动态少数派×AKKO联合共创带屏键盘即将上线，6月11日，来直播间一起共创。即刻预约可爱又好玩的经典萌物——监工水獭挂件复刻啦！会员点数也可兑换！给獭一个家首款MBTI定制墨水屏「口袋先知 ...查看全文",
+          "link": "https://sspai.com/post/110889",
+          "publishedOn": "2026-06-08T22:16:44.000Z",
+          "wordCount": 595,
+          "title": "派早报：WWDC26 全球开发者大会开幕等",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sspai.com/post/110887",
+          "author": "少数派编辑部",
+          "description": "WWDC26 开幕式一图流来啦。查看全文",
+          "link": "https://sspai.com/post/110887",
+          "publishedOn": "2026-06-08T20:56:14.000Z",
+          "wordCount": 232,
+          "title": "一图流 | Apple WWDC26 开幕式回顾",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sspai.com/post/110888",
+          "author": "少数派编辑部",
+          "description": "Apple 推出 iOS 27、iPadOS 27、watchOS 27 和 macOS Golden Gate，以及全新的 Apple 智能。查看全文",
+          "link": "https://sspai.com/post/110888",
+          "publishedOn": "2026-06-08T20:47:52.000Z",
+          "wordCount": 522,
+          "title": "Liquid Glass 精调、Apple 智能大升级：WWDC26 发布会回顾",
+          "imageUrl": null
+        },
         {
           "id": "https://sspai.com/post/110874",
           "author": "少数派编辑部",
@@ -5867,76 +5897,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://pic.yupoo.com/fotomag/c431de4e70/2971c20d.jpg"
-        },
-        {
-          "id": "idaily-251007",
-          "author": "鲸鱼座",
-          "description": "欧空局公布一张 JWST 太空望远镜拍摄的鲸鱼座「M77」星系照片。这是一个距离地球约4500万光年的棒状螺旋星系，拥有明亮的星系核和清晰的旋臂结构，星系中心区域环绕着一个直径超过6000光年的「星暴环」，正在快速形成新的恒星。天文学家推测「M77」的星系核存在一个超大质量黑洞，质量相当于800万个太阳。这张照片由 JWST 望远镜搭载的中红外成像仪（MIRI）拍摄，画面中蓝色区域为尘埃云，橙色区域为新形成的星团。摄影师：ESA",
-          "link": "https://m.idai.ly/se/346ofv",
-          "publishedOn": "2026-05-10T09:46:00.000Z",
-          "wordCount": 269,
-          "title": "JWST 拍摄棒旋星系 M77 - May 10, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/2730461c14/1adf436c.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/2730461c14/1adf436c.jpg"
-        },
-        {
-          "id": "idaily-251006",
-          "author": "中国 · 上海",
-          "description": "从上海外滩远眺陆家嘴金融区。5月9日，中国海关总署公布数据显示1至4月进出口总值达到16.23万亿元，同比增长14.9%，继续保持两位数增长，其中出口增长11.3%至9.33万亿元，进口增长20%至6.9万亿元，贸易顺差达到2.43万亿元。从重点商品看，高技术、高附加值机电产品出口总值达5.92万亿元，同比增长17.6%，占整体出口的63.5%，其中工业机器人出口增长30%，风力发电机组出口增长40.7%，锂电池出口增长43.2%，电动汽车出口增长68.1%。从贸易伙伴看，前三大贸易伙伴依次为东盟、欧盟和美国，其中对东盟贸易总值增长15.7%，对欧盟增长13.2%，对美国下跌-12.9%。摄影师：Alex Plavevski",
-          "link": "https://m.idai.ly/se/2efPB3",
-          "publishedOn": "2026-05-10T08:59:00.000Z",
-          "wordCount": 267,
-          "title": "中国1至4月贸易增长14.9% - May 10, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/e465ba535d/c04dfff6.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/e465ba535d/c04dfff6.jpg"
-        },
-        {
-          "id": "idaily-251005",
-          "author": "俄罗斯 · 哈巴罗夫斯克",
-          "description": "俄罗斯庆祝卫国战争胜利81周年，俄民众高举二战阵亡亲人的肖像照参加「不朽军团」（Immortal Regiment）游行，哈巴罗夫斯克。5月9日是俄罗斯卫国战争胜利日，俄圣彼得堡、海参崴、赤塔、哈巴罗夫斯克等全国多个城市举办「不朽军团」游行，缅怀在卫国战争中牺牲的先辈。当天俄总统 Vladimir Putin 在胜利日招待会上表示，前苏联人民在二战期间为战胜纳粹做出决定性贡献，强调必须坚决抵制一切篡改二战历史和美化纳粹主义的图谋。俄官方数据显示，第二次世界大战期间，苏联牺牲军民达约2700万人，其中苏俄损失近1900万人。摄影师：Yuri Smityuk",
-          "link": "https://m.idai.ly/se/4e94lE",
-          "publishedOn": "2026-05-10T08:57:00.000Z",
-          "wordCount": 267,
-          "title": "俄胜利日不朽军团游行 - May 10, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/5deb8a7557/7c22bfa8.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/5deb8a7557/7c22bfa8.jpg"
-        },
-        {
-          "id": "idaily-251004",
-          "author": "美国 · 洛杉矶",
-          "description": "俯瞰美国洛杉矶港口停放的进口汽车，加利福尼亚州。5月7日，美国国际贸易法院裁定美国政府根据《1974年贸易法》第122条款向全球征收10%关税的措施不合法，下令停止实施并退还已征收税款。美国海关与边境保护局（CBP）预计最早将从5月12日起开始退还被最高法院裁定违法的对等关税，涉及关税总金额约1660亿美元。美国商务部公布2026年第一季度贸易逆差较2025年同期下降2112亿美元，降幅达-55.0%。摄影师：Mario Tama",
-          "link": "https://m.idai.ly/se/54233k",
-          "publishedOn": "2026-05-10T08:55:00.000Z",
-          "wordCount": 267,
-          "title": "美法院裁定10%全球关税无效 - May 10, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/4b9e91ca0d/c943fd94.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/4b9e91ca0d/c943fd94.jpg"
-        },
-        {
-          "id": "idaily-251003",
-          "author": "中国 · 北京",
-          "description": "2026年北京国际科技产业博览会（CHITEC），一只机器狗正在现场进行演示，中国。5月8至10日，第28届北京科博会在国家会议中心举行，本届科博会主题为「科技引领，创享未来」，共有800余家中外企业和机构参展，展区总面积达5万平方米，展出技术和产品类别覆盖芯片制造、量子计算机、人形机器人、AI智能设备、自动驾驶、低空经济等领域。本届北京科博会共吸引来自72个国家和地区超过7万人次线下观展，现场签约57个项目，涉及总金额达5.9亿元。摄影师：Jessica Lee",
-          "link": "https://m.idai.ly/se/d594gH",
-          "publishedOn": "2026-05-10T08:53:00.000Z",
-          "wordCount": 267,
-          "title": "2026北京科博会闭幕 - May 10, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/5db84a2730/a1d2fb5f.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/5db84a2730/a1d2fb5f.jpg"
         }
       ]
     },
@@ -5945,6 +5905,76 @@
       "feedUrl": "https://plink.anyfeeder.com/nytimes/dual",
       "siteUrl": "http://nytimes.com",
       "articles": [
+        {
+          "id": "https://cn.nytimes.com/health/20260609/peaches-health-benefits-recipes/dual",
+          "author": null,
+          "description": "ISOBEL WHITCOMB2026年6月9日\nThere’s a reason you need a napkin when you bite into a ripe summer peach — the fruit is nearly 90 percent water.\n要吃熟透的夏桃，总是离不开餐巾纸——这种水果将近90%都是水分。\nIn addition to helping you stay hydrated, peaches contain nutrients that keep your eyes healthy and may reduce chronic disease risk. Here are some of their biggest benefits, plus some recipes from New York Times Cooking.\n除了帮你补水，桃子还富含有助眼睛健康，并可能降低慢性病风险的营养物质。以下是桃子的主要益处，以及来自《纽约时报》烹饪版的几道食谱。\nTheir potassium is helpful on summer days.\n桃子所含的钾元素在夏日大有裨益\nGetting fluids from fruit and other food sources is just as good as drinking a glass of water, said Diane Stadler, the director of the graduate programs in human nutrition at Oregon Health & Science University. In addition to their high water content, peaches contain a modest dose …",
+          "link": "https://cn.nytimes.com/health/20260609/peaches-health-benefits-recipes/dual",
+          "publishedOn": "2026-06-09T06:06:01.000Z",
+          "wordCount": 1054,
+          "title": "桃子有多健康？",
+          "imageUrl": "https://static01.nyt.com/images/2025/07/02/well/WELL-HEALTHY-PEACHES1/WELL-HEALTHY-PEACHES1-videoLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/world/20260609/iphone-birthrate-decline-studies/dual",
+          "author": null,
+          "description": "SABRINA TAVERNISE2026年6月9日生育率下降并非只发生在美国。这一谜团如今已几乎成为全球性现象。 Colin Clark for The New York Times\nThe enduring mystery of the fertility decline has a new culprit: the smartphone.\n生育率下降这个长期未解之谜如今又出现了一个新的罪魁祸首：智能手机。\nExperts have long wondered if phones played a role in the birthrate decline — which began in 2007, the same year that Apple introduced the iPhone — but until now there had not been hard evidence to prove it.\n长期以来，专家们一直怀疑手机可能在出生率下降中发挥了作用——因为出生率下降恰好始于2007年，这一年正是苹果推出iPhone的年份，但此前一直缺乏能够证明这一点的确凿证据。\nTwo new papers, one published Monday and the other in May, are the first academic endeavors that test whether the smartphone was a cause.\n今年5月和本周一相继发表的两篇新论文是首批尝试检验智能手机是否为原因之一的学术研究。\nThey are the most recent efforts to explain the sweeping fertility rate decline in the United States and other count…",
+          "link": "https://cn.nytimes.com/world/20260609/iphone-birthrate-decline-studies/dual",
+          "publishedOn": "2026-06-09T05:06:03.000Z",
+          "wordCount": 998,
+          "title": "生育率为何下降？也许与你的手机有关系",
+          "imageUrl": "https://static01.nyt.com/images/2026/06/08/multimedia/08nat-birthrate-smartphone-lchb/08nat-birthrate-smartphone-lchb-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/usa/20260609/trump-iran-war-middle-east/dual",
+          "author": null,
+          "description": "ANTON TROIANOVSKI2026年6月9日特朗普总统坚称，他并未违背自己关于避免“无休止战争”的竞选承诺，尽管他在3月称之为“小规模行动”的冲突如今已进入第四个月。 Haiyun Jiang/The New York Times\nPresident Trump has defined his career in politics with displays of dominance and control. But in the Middle East, he faces a rolling crisis that keeps thwarting those impulses.\n特朗普总统的政治生涯一直以展现主导权和控制力为标志。但在中东，他正面临一场持续发酵的危机，不断挫败他的这些冲动。\nOn Sunday, Mr. Trump lashed out at Prime Minister Benjamin Netanyahu, telling The Financial Times that the Israeli leader “won’t have any choice” but to accept a U.S.-negotiated deal with Iran. “I call all the shots,” he said. But early Monday, Mr. Trump was still trying to rein in Mr. Netanyahu, writing on social media just after 5:30 a.m.: “Israel and Iran must immediately stop ‘shooting.’”\n周日，特朗普猛烈抨击了以色列总理内塔尼亚胡，他在接受《金融时报》采访时表示，这位以色列领导人“别无…",
+          "link": "https://cn.nytimes.com/usa/20260609/trump-iran-war-middle-east/dual",
+          "publishedOn": "2026-06-09T04:06:01.000Z",
+          "wordCount": 1075,
+          "title": "美国再陷中东军事泥潭，特朗普难以脱身的伊朗困局",
+          "imageUrl": "https://static01.nyt.com/images/2026/06/08/multimedia/08dc-prexy01-photo-wlqg/08dc-prexy01-photo-wlqg-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/china/20260609/chinese-businesses-north-korea/dual",
+          "author": null,
+          "description": "JIAWEI WANG, CHOE SANG-HUN2026年6月9日 \nQuick deliveries of large orders for stuffed toys, fake eyelashes and crocheted bags that are made with cheap labor, including some workers who are on the job for 16 hours straight.\n无论是毛绒玩具、假睫毛还是钩织手袋，生产量大，出货快，工人便宜，有些工人连续16个小时没有睡觉了。\nThis is the pitch some Chinese businesses are making on social media to potential customers. But the products they are selling are made in North Korea, like in this video of a wig factory.\n这是一些中国企业在社交媒体上向潜在客户所推销的内容。然而，他们所销售的产品来自朝鲜，就像这段假发工厂的视频所展示的那样。\n\n\nIn the posts, which have proliferated in recent years, some Chinese entrepreneurs say that they own factories in North Korea and openly share contact information, splashing their account handles on videos of their products — in a clear violation of sweeping U.N. Security Council…",
+          "link": "https://cn.nytimes.com/china/20260609/chinese-businesses-north-korea/dual",
+          "publishedOn": "2026-06-09T03:36:02.000Z",
+          "wordCount": 1059,
+          "title": "中国企业在社交媒体上兜售朝鲜劳工制造产品",
+          "imageUrl": "https://static01.nyt.com/images/2026/06/08/multimedia/c09nkorea-factories-cover/c09nkorea-factories-cover-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/china/20260609/xi-kim-china-north-korea-summit/dual",
+          "author": null,
+          "description": "DAVID PIERSON, CHOE SANG-HUN2026年6月9日周一，北京的一块巨型屏幕播放了中国国家主席习近平与朝鲜领导人金正恩在朝鲜会晤的新闻画面。 Pedro Pardo/Agence France-Presse — Getty Images\nChina’s top leader, Xi Jinping, arrived in North Korea on Monday and delivered what analysts said was a subtle reminder to the country’s newly emboldened dictator, Kim Jong-un, that China is his most important benefactor, economic partner and bulwark against the United States.\n中国最高领导人习近平于周一抵达朝鲜。分析人士称，此行向朝鲜近来日益大胆的独裁者金正恩发出了微妙的提醒：中国是他最重要的援助国、经济伙伴以及对抗美国的屏障。\nAccording to an official summary of the leaders’ talks released by Chinese state media, Mr. Xi called for “close strategic communication” with Mr. Kim and for strengthening exchanges “at all levels and in all fields.” He said he was willing to deepen relations with Mr. Kim in “the new era,” a phrase Mr. Xi has us…",
+          "link": "https://cn.nytimes.com/china/20260609/xi-kim-china-north-korea-summit/dual",
+          "publishedOn": "2026-06-09T03:06:02.000Z",
+          "wordCount": 1072,
+          "title": "习近平与金正恩会面，寻求重塑对平壤影响力",
+          "imageUrl": "https://static01.nyt.com/images/2026/06/08/multimedia/08nkorea-china-01-lcfm/08nkorea-china-01-lcfm-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/asia-pacific/20260609/taiwan-taipei-temple-meltdown-raves/dual",
+          "author": null,
+          "description": "JOHN YOON, XINYUN WU2026年6月9日 \nHigh in the humid hills above Taipei, Taiwan, the ruins of Shun An Temple sit along a hiking trail. The air smells of damp earth. Only a fragment of the temple walls and a few old incense burners remain.\n在台北市郊潮湿的山林中，顺安宫的废墟坐落于一条徒步小径旁。空气里弥漫着泥土的潮气。断壁残垣与几个旧香炉是这座庙宇仅存的印记。\nHere, the quiet of the woods is broken by the thump of techno and other electronic dance music.\n在这里，林间的静谧被电子舞曲的律动打破。\nHundreds of young people are dancing, bringing life back to a site nearly lost to the forest.\n数百名年轻人在此起舞，为这处几乎已被森林吞没的遗址重新注入了生机。\n  \nThe crowd is a mix of locals and travelers from South Korea, Denmark, Britain and France.\n人群中既有台湾本地人，也有来自韩国、丹麦、英国和法国的游客。\nTemples in Taiwan, some hundreds of years old, serve as community centers where Buddhism, Taoism and local folk religions blend. Reve…",
+          "link": "https://cn.nytimes.com/asia-pacific/20260609/taiwan-taipei-temple-meltdown-raves/dual",
+          "publishedOn": "2026-06-09T03:06:02.000Z",
+          "wordCount": 685,
+          "title": "台湾庙宇里的锐舞派对",
+          "imageUrl": "https://static01.nyt.com/images/2026/06/08/multimedia/c09taiwan-raves/c09taiwan-raves-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/asia-pacific/20260609/north-korea-kim-jong-un-pandemic-economy/dual",
+          "author": null,
+          "description": "CHOE SANG-HUN2026年6月9日金正恩2019年抵达靠近中越边境的越南同登火车站。 Athit Perawongmetha/Reuters\nDuring the pandemic, the North Korean leader Kim Jong-un, who had long billed himself as invincible, made a stunning, teary-eyed apology on national television.\n在疫情期间，长期以来一直自诩战无不胜的朝鲜领导人金正恩在国家电视台上发表了热泪盈眶的惊人道歉。\n“I am really sorry,” he said, as the coronavirus, coupled with food shortages and international sanctions, was ravaging his country. “My efforts and sincerity have not been sufficient enough to rid our people of the difficulties in their life.”\n“我深感歉意，”他说。当时，新冠疫情加之粮食短缺和国际制裁正无情地摧残着他的国家。“我的努力和诚心不足以使人民摆脱生活困难。”\nBut while ordinary North Koreans were suffering, Mr. Kim, 42, seized the crisis as a unique opportunity. Now, he is brimming with confidence. He is recognized at home and abroad as North Korea’s most powerf…",
+          "link": "https://cn.nytimes.com/asia-pacific/20260609/north-korea-kim-jong-un-pandemic-economy/dual",
+          "publishedOn": "2026-06-09T01:36:02.000Z",
+          "wordCount": 3077,
+          "title": "“奇迹般的转变”：金正恩如何重塑朝鲜",
+          "imageUrl": "https://static01.nyt.com/images/2026/05/25/multimedia/00int-nkorea-kim-mvgw/00int-nkorea-kim-mvgw-articleLarge.jpg"
+        },
         {
           "id": "https://cn.nytimes.com/world/20260608/iranians-despair-war-economy-inflation/dual",
           "author": null,
