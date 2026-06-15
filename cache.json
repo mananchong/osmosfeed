@@ -65,6 +65,56 @@
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
         {
+          "id": "https://www.nationalreview.com/?p=1979111",
+          "author": "Kathryn Jean Lopez",
+          "description": "In God we trust and rest and renew.",
+          "link": "https://www.nationalreview.com/2026/06/america-250-have-a-heart/",
+          "publishedOn": "2026-06-15T10:30:51.000Z",
+          "wordCount": 7019,
+          "title": "America 250: Have a Heart",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/06/liberty-bell-2.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1978690",
+          "author": "The Editors",
+          "description": "Though the trust fund is an accounting fiction, its exhaustion, now expected in just six years, has significant practical implications.",
+          "link": "https://www.nationalreview.com/2026/06/social-security-insolvency-creeps-further-up/",
+          "publishedOn": "2026-06-15T10:30:32.000Z",
+          "wordCount": 6332,
+          "title": "Social Security Insolvency Creeps Further Up",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2025/12/Social-security.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1978094",
+          "author": "Thérèse Shaheen",
+          "description": "Western analysts and leaders who accept the PRC’s propaganda misunderstand reality.",
+          "link": "https://www.nationalreview.com/2026/06/the-thucydides-trope-china-is-no-match-for-america/",
+          "publishedOn": "2026-06-15T10:30:07.000Z",
+          "wordCount": 7671,
+          "title": "The Thucydides Trope: China Is No Match for America",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/05/trump-jinping-summit.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1978696",
+          "author": "Benjamin Zycher",
+          "description": "Farm-state lawmakers want to require everyone else to pad ethanol producers’ pockets.",
+          "link": "https://www.nationalreview.com/2026/06/more-beltway-mischief-the-renewable-fuel-standard-and-small-refinery-exemption/",
+          "publishedOn": "2026-06-15T10:30:04.000Z",
+          "wordCount": 6998,
+          "title": "More Beltway Mischief: The Renewable Fuel Standard and Small-Refinery Exemption",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/03/Gasoline-.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1979102",
+          "author": "Elliott Abrams",
+          "description": "While most aspects of the Iran deal are ambiguous at this point, its abandonment of Iranians is sadly clear.",
+          "link": "https://www.nationalreview.com/2026/06/the-iranian-people-are-forgotten/",
+          "publishedOn": "2026-06-15T01:15:24.000Z",
+          "wordCount": 6623,
+          "title": "The Iranian People Are Forgotten",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/06/trump-wh-reporters.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
           "id": "https://www.nationalreview.com/?p=1976361",
           "author": "James Lileks",
           "description": "Apparently, ‘Everything Trump Touches Dies’ stops at the fountain’s edge.",
@@ -2023,46 +2073,6 @@
           "wordCount": 6730,
           "title": "The <i>Times</i> Has Been Getting the Israel–Hamas War Wrong from the Start",
           "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/05/nyt-israel.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1956571",
-          "author": "Joshua Kendall",
-          "description": "The two Yalies found common ground despite their generational and political differences.",
-          "link": "https://www.nationalreview.com/2026/05/how-garry-trudeau-and-william-f-buckley-bridged-partisan-divides/",
-          "publishedOn": "2026-05-16T10:30:59.000Z",
-          "wordCount": 6976,
-          "title": "How Garry Trudeau and William F. Buckley Bridged Partisan Divides",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/05/buckley-trudeau.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1963226",
-          "author": "John Gerardi",
-          "description": "The Supreme Court’s abortion-pill decision comes at a tense time between the president and pro-life advocates.",
-          "link": "https://www.nationalreview.com/2026/05/trumps-conflicted-views-are-complicating-abortion-policy/",
-          "publishedOn": "2026-05-16T10:30:27.000Z",
-          "wordCount": 7101,
-          "title": "Trump’s Conflicted Views Are Complicating Abortion Policy",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/05/trump-abortion.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1963347",
-          "author": "Andrew C. McCarthy",
-          "description": "Subpoenas have begun to fly over reporting on the Iran military campaign.",
-          "link": "https://www.nationalreview.com/2026/05/the-trump-doj-goes-to-war-with-the-press/",
-          "publishedOn": "2026-05-16T10:30:27.000Z",
-          "wordCount": 7319,
-          "title": "The Trump DOJ Goes to War with the Press",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/05/trump-press.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1963239",
-          "author": "Brian T. Allen",
-          "description": "Fraunces Tavern, Bowling Green, plus Charging Bull and the world’s most elegant shoe department.",
-          "link": "https://www.nationalreview.com/2026/05/wall-streets-revolutionary-war/",
-          "publishedOn": "2026-05-16T10:30:15.000Z",
-          "wordCount": 8722,
-          "title": "Wall Street’s Revolutionary War",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/05/Pulling-Down-the-Statue-of-King-George.jpg?fit=2057%2C1200&ssl=1"
         }
       ]
     },
@@ -2071,6 +2081,66 @@
       "feedUrl": "https://sspai.com/feed",
       "siteUrl": "https://sspai.com",
       "articles": [
+        {
+          "id": "https://sspai.com/post/111068",
+          "author": "少数派编辑部",
+          "description": ">下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文",
+          "link": "https://sspai.com/post/111068",
+          "publishedOn": "2026-06-15T09:45:36.000Z",
+          "wordCount": 633,
+          "title": "派评 | 近期值得关注的 App",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sspai.com/post/111003",
+          "author": "Kostya",
+          "description": "除了可以自定义的 Liquid Glass 透明度，iPadOS 27 还有这 12 项细节变化。查看全文",
+          "link": "https://sspai.com/post/111003",
+          "publishedOn": "2026-06-15T08:04:25.000Z",
+          "wordCount": 580,
+          "title": "具透 | 思考、打磨、加速：iPadOS 27 首个开发者测试版中值得关注的新内容",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sspai.com/post/110984",
+          "author": "新奇冒险家",
+          "description": "过去几年，我一直在深圳做硬件产品，也在少数派参与过几次消费电子产品的共创。如果你关注过少数派之前的一些硬件项目，可能见过BANG!CASE。它最早来自我的一个产品创意，后来在少数派团队的推进下变成了真 ...查看全文",
+          "link": "https://sspai.com/post/110984",
+          "publishedOn": "2026-06-15T08:00:00.000Z",
+          "wordCount": 422,
+          "title": "从 BANG!CASE 到 AI Display：我为什么想给 AI 在桌面留一个位置",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sspai.com/post/110525",
+          "author": "ElijahLee",
+          "description": "Snapseed可谓是手机摄影App届元老级的存在了，最早由软件公司NikSoftware于2011年开发推出，当年即被评为AppStore年度应用。次年NikSoftware即被Google收购，S ...查看全文",
+          "link": "https://sspai.com/post/110525",
+          "publishedOn": "2026-06-15T06:39:30.000Z",
+          "wordCount": 330,
+          "title": "Snapseed 4.0：Google 终于想起了这款「免费修图神器」",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sspai.com/post/110989",
+          "author": "听歌的水獭",
+          "description": "虽迟但到！CGJ2026广州荔湾站来啦！本次活动定位为小型GameJam，意在复刻最经典的古早GJ味道，比较放松，没有评比环节，只有公园、音乐、猫咪、饮品、讨论交流和分享！做人呐，最重要是开心～什么是 ...查看全文",
+          "link": "https://sspai.com/post/110989",
+          "publishedOn": "2026-06-15T03:00:00.000Z",
+          "wordCount": 324,
+          "title": "线下活动｜CiGA Game Jam 2026 广州荔湾少数派站召集令",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sspai.com/post/111045",
+          "author": "少数派编辑部",
+          "description": "Fable 5 和 Mythos 5 模型因美国商务部禁令下线\nSpaceX 挂牌，市值达 2.1 万亿美元\n《广告引证内容执法指南》出台\n华为推出 HarmonyOS 7\n英伟达开始接受中国客户下单 Vera CPU\n大疆与影石在美互诉专利侵权\n看看就行的简讯\n少数派的近期动态\n你可能错过的好文章\n查看全文",
+          "link": "https://sspai.com/post/111045",
+          "publishedOn": "2026-06-14T23:09:35.000Z",
+          "wordCount": 477,
+          "title": "派早报：Fable 5 和 Mythos 5 模型因美国商务部禁令下线",
+          "imageUrl": null
+        },
         {
           "id": "https://sspai.com/post/110761",
           "author": "KingTsui",
@@ -3050,16 +3120,6 @@
           "wordCount": 636,
           "title": "看剧不卡顿、游戏低延迟：「智能队列」这样改善你的冲浪体验",
           "imageUrl": null
-        },
-        {
-          "id": "https://sspai.com/post/109777",
-          "author": "Leobai",
-          "description": "为什么我觉得好玩的游戏，你却要给出这么低的分？为什么最后在使用中出了问题的产品，你却要在首发评测中大肆吹捧？查看全文",
-          "link": "https://sspai.com/post/109777",
-          "publishedOn": "2026-05-16T07:38:00.000Z",
-          "wordCount": 800,
-          "title": "为什么我觉得好的东西，媒体评测却给了低分？",
-          "imageUrl": null
         }
       ]
     },
@@ -3068,6 +3128,90 @@
       "feedUrl": "https://plink.anyfeeder.com/idaily/today",
       "siteUrl": "https://idai.ly",
       "articles": [
+        {
+          "id": "idaily-253117",
+          "author": "美国 · 华盛顿特区",
+          "description": "美国白宫南草坪举行「UFC Freedom 250」终极格斗比赛，华盛顿特区。6月14日，白宫举办终极格斗冠军赛庆祝美国总统 Donald Trump 的80岁生日及美国建国250周年，共有超过4000名宾客现场观赛，约8万民众在白宫场外观看直播。这是白宫有史以来首次举办职业体育赛事。民调显示46%美国民众反对在白宫举办终极格斗比赛，仅16%表态支持。摄影师：Kent Nishimura",
+          "link": "https://m.idai.ly/se/04cUOY",
+          "publishedOn": "2026-06-15T10:39:00.000Z",
+          "wordCount": 288,
+          "title": "白宫举办UFC格斗赛 - June 15, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/cdea698c2e/951ddbea.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/cdea698c2e/951ddbea.jpg"
+        },
+        {
+          "id": "idaily-253113",
+          "author": "法国 · 皮布利耶",
+          "description": "抗议人士打扮成七国集团领导人形象抗议 G7 峰会，法国皮布利耶。6月14日，瑞士和法国边境多个城市爆发「不要七国集团」（No-G7）抗议活动。第52届 G7 峰会将于6月15日至17日在接近瑞士边境的法国城市埃维昂举行。法国政府计划派出1.6万名执法人员保障峰会安全，瑞士军方宣布将在境内部署约4000名士兵与法方协调行动。摄影师：Jeff Pachoud",
+          "link": "https://m.idai.ly/se/98eFZ6",
+          "publishedOn": "2026-06-15T09:58:00.000Z",
+          "wordCount": 288,
+          "title": "欧洲爆发反七国集团抗议 - June 15, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/0e15780ca2/0ddf8e9b.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/0e15780ca2/0ddf8e9b.jpg"
+        },
+        {
+          "id": "idaily-253111",
+          "author": "英国 · 伦敦",
+          "description": "英国首相 Keir Starmer 与日本首相高市早苗举行会晤，伦敦。6月14日，日本首相高市早苗抵达欧洲之行首站英国。两国领导人就日英关系、双边合作、国际及地区局势等议题交换意见，会后发表《经济安全合作联合宣言》并见证签署总额约180亿英镑的合作协议。双方同意加强关键矿产、海上风电、半导体、人工智能、网络安全等领域合作，并加快新一代战斗机联合研发。英国商贸部数据显示2025年英日双边贸易额达346亿英镑，同比增长2.9%。摄影师：Andy Rain",
+          "link": "https://m.idai.ly/se/33copK",
+          "publishedOn": "2026-06-15T08:57:00.000Z",
+          "wordCount": 288,
+          "title": "日本首相访问英国 - June 15, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/4ea7e9e5f7/edbb280b.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/4ea7e9e5f7/edbb280b.jpg"
+        },
+        {
+          "id": "idaily-253109",
+          "author": "法国 · 尼斯",
+          "description": "法国总统 Emmanuel Macron 与印度总理 Narendra Modi 一起游览博略滨海岸，滨海阿尔卑斯省。6月14日，印度总理 Modi 受邀访问法国，主要行程包括会晤法国总统、揭幕首届「印度创新大会」、参加G7峰会等。两国领导人就印法关系、经贸合作、国际及地区局势等议题交换意见，同意加强人工智能、半导体、医疗、国防和航天等领域合作，尽快落实印欧自贸协定，目标五年内实现双边贸易额翻倍。法国是印度在欧盟内的第三大贸易伙伴，2025财年双边贸易额为158.1亿美元。摄影师：Lewis Joly",
+          "link": "https://m.idai.ly/se/f8626M",
+          "publishedOn": "2026-06-15T08:55:00.000Z",
+          "wordCount": 288,
+          "title": "印度总理访问法国 - June 15, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/722016613e/4ace426f.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/722016613e/4ace426f.jpg"
+        },
+        {
+          "id": "idaily-253106",
+          "author": "荷兰 · 登博斯",
+          "description": "荷兰登博斯集市广场上摆放童鞋和照片，悼念在以色列袭击中遇难的加沙儿童及新闻工作者。6月14日，加沙卫生部通报自2023年10月以来以色列袭击累计造成超过73000名巴勒斯坦人死亡、17.3万人受伤；遇难者中包括2.1万儿童，其中1岁以下婴儿超过1000名。联合国人权事务处数据显示，本轮冲突迄今加沙地带已有约300名媒体记者遇难。摄影师：Abdullah Asiran",
+          "link": "https://m.idai.ly/se/4ac5cb",
+          "publishedOn": "2026-06-15T08:53:00.000Z",
+          "wordCount": 288,
+          "title": "加沙遇难人数7.3万 - June 15, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/82b7199e50/c401ae75.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/82b7199e50/c401ae75.jpg"
+        },
+        {
+          "id": "idaily-253105",
+          "author": "法国 · 巴黎",
+          "description": "巴黎雅高竞技场举行日本大相扑公演赛，法国。6月14日，日本大相扑锦标赛海外公演巴黎站正式落幕，大关选手琴樱在决胜战中击败横岗选手丰升龙夺得总冠军。这是日本相扑协会第15次海外公演，亦是该赛事时隔31年首次在巴黎举行，赛程持续2天，共有41名幕内力士参加，吸引约1.5万名观众。日本相扑协会数据显示2026年夏季锦标赛共有599名相扑选手参赛，连续4届低于600人，较1994年峰值下降-36%。摄影师：Masahiro Sugimoto",
+          "link": "https://m.idai.ly/se/22e8Bc",
+          "publishedOn": "2026-06-15T08:51:00.000Z",
+          "wordCount": 288,
+          "title": "巴黎日本大相扑公演 - June 15, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/28e5f622cd/d84d7fb7.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/28e5f622cd/d84d7fb7.jpg"
+        },
         {
           "id": "idaily-253028",
           "author": "后发座",
@@ -5909,90 +6053,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://pic.yupoo.com/fotomag/676f6b3c8b/2e0456b2.jpg"
-        },
-        {
-          "id": "idaily-251350",
-          "author": "印度尼西亚 · 茂物",
-          "description": "印度尼西亚茂物野生动物园的大熊猫幼崽「里奥」（Rio）正在接受体检。5月15日，茂物野生动物园宣布2025年11月27日出生的雄性大熊猫幼崽「里奥」的体重已达到10公斤，目前成长状况健康，可以自己爬行并开始尝试吃竹笋，预计将于5月下旬正式与公众见面。「里奥」是印尼境内出生的第一只大熊猫，父母为旅居印尼大熊猫「彩陶」和「湖春」，也是过去三年在中国境外出生的唯一一只大熊猫。摄影师：Aditya Aji",
-          "link": "https://m.idai.ly/se/7bcIpX",
-          "publishedOn": "2026-05-16T13:59:00.000Z",
-          "wordCount": 275,
-          "title": "印尼大熊猫幼崽体检 - May 16, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/49d1ebaa8f/696b1987.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/49d1ebaa8f/696b1987.jpg"
-        },
-        {
-          "id": "idaily-251346",
-          "author": "中国 · 北京",
-          "description": "美国总统 Donald Trump 登上「空军一号」专机准备返回美国，北京首都国际机场。5月15日，美国总统 Trump 在采访中透露中方已同意购买200架波音飞机、数十亿美元大豆以及进口美国石油，并表示「中方对台湾问题的立场十分强硬」。中国外交部长王毅当天在媒体会上表示，中美两国首脑在本次访问期间就中美关系以及世界和平发展的重大问题持续进行坦诚、深入、建设性、战略性沟通，达成一系列共识，两国经贸团队已达成了总体平衡积极的成果，将在对等降税框架下推动扩大双向贸易。摄影师：Brendan Smialowski",
-          "link": "https://m.idai.ly/se/7deE7Y",
-          "publishedOn": "2026-05-16T12:58:00.000Z",
-          "wordCount": 275,
-          "title": "特朗普结束访华行程 - May 16, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/c66acb119f/d68b2421.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/c66acb119f/d68b2421.jpg"
-        },
-        {
-          "id": "idaily-251344",
-          "author": "日本 · 东京",
-          "description": "东京证券交易所屏幕上显示日本10年期国债利率。5月15日，日本10年期国债利率一度攀升至2.730%，创下1997年5月以来最高水平。本轮投资者抛售日本国债主要受担忧日本财政恶化、物价指数上升等因素影响。日本央行当天公布数据显示2026年4月国内企业物价指数同比上涨4.9%，远高于3月的2.9%，大幅超出市场预期。经合组织（OECD）本周发布报告预测日本央行可能在2027年底前将短期政策利率提高至2%。摄影师：iDaily Media",
-          "link": "https://m.idai.ly/se/7ac5jJ",
-          "publishedOn": "2026-05-16T09:57:00.000Z",
-          "wordCount": 275,
-          "title": "日本国债利率达29年新高 - May 16, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/000d494157/40116a5f.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/000d494157/40116a5f.jpg"
-        },
-        {
-          "id": "idaily-251343",
-          "author": "韩国 · 首尔",
-          "description": "首尔银河机器人公园，2台人形机器人正在进行搏击表演，韩国。5月15日，首尔银河机器人公园举行开幕仪式，该项目由韩国娱乐经纪公司 Galaxy Corporation 投资建造，占地面积达1.6万平方米，是首个专门以机器人演出为特点的主题公园，提供包括 K-pop 机器人跳舞、机器人搏击赛等项目，每天演出安排3至6场。该主题乐园目前仍处于限流试运营阶段，计划2026年8月全面开放。摄影师：Jeon Heon-kyun",
-          "link": "https://m.idai.ly/se/323K5i",
-          "publishedOn": "2026-05-16T09:55:00.000Z",
-          "wordCount": 275,
-          "title": "首尔机器人主题乐园 - May 16, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/c7667bf33c/f5453a65.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/c7667bf33c/f5453a65.jpg"
-        },
-        {
-          "id": "idaily-251342",
-          "author": "印度 · 新德里",
-          "description": "伊朗外交部长 Abbas Araghchi 召开新闻发布会，新德里。5月15日，伊朗外长 Araghchi 在金砖国家外长会后召开新闻发布会，主要就伊美谈判、霍尔木兹海峡通行等问题回答媒体提问。伊朗外长强调，伊朗问题不存在军事解决方案，伊朗人民从不屈服于压力或威胁，只有在美国展现出诚意的情况下，伊朗才有兴趣与美国进行谈判。他重申伊朗不寻求发展核武器，霍尔木兹海峡仍对友好国家商业船只开放，并且应由伊朗和阿曼两国共同管理。摄影师：Elke Scholiers",
-          "link": "https://m.idai.ly/se/c90GS3",
-          "publishedOn": "2026-05-16T09:53:00.000Z",
-          "wordCount": 275,
-          "title": "伊朗外长记者会 - May 16, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/0624a1b44c/f00ea8b6.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/0624a1b44c/f00ea8b6.jpg"
-        },
-        {
-          "id": "idaily-251341",
-          "author": "日本 · 东京",
-          "description": "日本卡乐比公司总部展示黑白两色印刷的薯片包装，东京。5月12日，日本零食巨头卡乐比宣布计划从5月下旬起启用黑白两色印刷的「石油原料节约版」产品包装，新包装设计还将取消印刷实物照片，受影响的商品包括薯片、虾条、麦片等14款产品。卡乐比公司表示，启用新包装旨在应对中东局势恶化导致的印刷油墨原料供应不稳定问题。日本国民生活产业消费者团体联合会4月底发布的调查报告显示，44.1%受访企业因石脑油供应不稳定而受到影响，72.5%企业考虑上调产品价格，35.3%企业考虑停售商品。摄影师：Eugene Hoshiko",
-          "link": "https://m.idai.ly/se/0a2r8m",
-          "publishedOn": "2026-05-16T09:51:00.000Z",
-          "wordCount": 275,
-          "title": "日本石油制品原料短缺 - May 16, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/e8b7ad9146/3e85e006.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/e8b7ad9146/3e85e006.jpg"
         }
       ]
     },
@@ -6001,6 +6061,66 @@
       "feedUrl": "https://plink.anyfeeder.com/nytimes/dual",
       "siteUrl": "http://nytimes.com",
       "articles": [
+        {
+          "id": "https://cn.nytimes.com/usa/20260614/trump-age-birthday-80/dual",
+          "author": null,
+          "description": "KATIE ROGERS2026年6月14日\nHe stays up late, phoning lawyers and lawmakers, while posting up to 150 times a night on Truth Social. His mornings involve calls with world leaders about the war in the Middle East, or talks with landscapers about replanting a bothersome tree. When he arrives in the Oval Office, his unstructured days unfold like a time-lapse video, with people zipping around him as he stays seated at the center of the frame.\n他熬夜到很晚，给律师和议员打电话，同时每晚在Truth Social上发布多达150条帖子。他的早晨包括与世界领导人就中东战争进行通话，或者与景观美化师讨论重新种植一棵令人烦恼的树。当他到达椭圆形办公室时，他那缺乏规律作息的生活就像一段延时摄影视频般展开，人们在他身边穿梭忙碌，他则一直坐在画面的中心。\nAs President Trump turns 80 on Sunday, he is so intent on projecting an image of relentless energy that he has installed a massive, mixed martial arts octagon on the South Lawn to mark the occasion. After watchi…",
+          "link": "https://cn.nytimes.com/usa/20260614/trump-age-birthday-80/dual",
+          "publishedOn": "2026-06-15T06:36:01.000Z",
+          "wordCount": 2215,
+          "title": "80岁的特朗普到底还健康吗？",
+          "imageUrl": "https://static01.nyt.com/images/2026/06/12/multimedia/00dc-trump-health-top-bgcv/00dc-trump-health-top-bgcv-videoLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/world/20260615/us-iran-russia-ukraine/dual",
+          "author": null,
+          "description": "NEIL MACFARQUHAR2026年6月15日乌克兰持续遭受轰炸的康斯坦丁尼夫卡市郊区，摄于今年早些时候。 Tyler Hicks/The New York Times\nPresident Trump and his Russian counterpart, Vladimir V. Putin, both resist the idea that ostensibly weaker powers fought them to a stalemate, with the two leaders leaning on negotiations to win the capitulation that they failed to secure in battle.\n特朗普与俄罗斯总统普京都不愿承认，看似更弱小的对手将他们拖入了僵局。这两位领导人都试图通过谈判获得他们未能在战场上赢得的屈服。\nIran and Ukraine have pushed back robustly against this “might makes right” mentality, with top officials adopting an even more defiant tone in recent days.\n伊朗和乌克兰则强硬抵制这种“强权即公理”的思维方式，两国高层官员近期的语气甚至更为强硬。\nIn an open letter to Mr. Putin this month, President Volodymyr Zelensky of Ukraine derided Mr. Putin for clinging to power as he aged. “You did not expect full-scale resistance from Ukraine, and y…",
+          "link": "https://cn.nytimes.com/world/20260615/us-iran-russia-ukraine/dual",
+          "publishedOn": "2026-06-15T05:36:01.000Z",
+          "wordCount": 1637,
+          "title": "“僵局战争”：美国和俄罗斯为误判付出高昂代价",
+          "imageUrl": "https://static01.nyt.com/images/2026/06/14/multimedia/14int-iran-ukraine-deadlock-05-hwfb/14int-iran-ukraine-deadlock-05-hwfb-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/world/20260615/germany-japan-rearmament-military/dual",
+          "author": null,
+          "description": "JIM TANKERSLEY, 赫海威2026年6月15日\nIn 1940, the imperial regimes of Germany and Japan joined what would be known as the Axis powers, bound by mutual opposition to the United States. They fought a world war, and they lost it, and their populations spent the next 85 years with shrunken militaries and a heavy reliance on their former enemy, America, for security.\n1940年，德国和日本的帝国政权加入了后来被称为轴心国的联盟，它们因共同对抗美国而走到了一起。它们打了一场世界大战并战败，接下来的85年里，两国的军事力量被缩减，在安全上严重依赖前敌国美国。\nNow, both countries’ wariness of America has resurfaced, alongside heightened fears about a surging world power, China, and an aggressive Russia. Tokyo and Berlin are rushing to rebuild their militaries. And, once again, they are strengthening ties.\n如今，两国对美国的警惕感重新浮现，与此同时，对正在崛起的世界大国中国以及具有侵略性的俄罗斯的担忧也在加剧。东京和柏林正急于重建各自的军队。并且，它们正再一次加强联系。\nTheir cooper…",
+          "link": "https://cn.nytimes.com/world/20260615/germany-japan-rearmament-military/dual",
+          "publishedOn": "2026-06-15T03:06:02.000Z",
+          "wordCount": 1413,
+          "title": "二战结束80年后，德国与日本重整军备",
+          "imageUrl": "https://static01.nyt.com/images/2026/06/13/multimedia/13int-germany-japan-01-hqmv/13int-germany-japan-01-hqmv-videoLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/world/20260615/heres-the-latest/dual",
+          "author": null,
+          "description": "FARNAZ FASSIHI, ADAM RASGON, RONEN BERGMAN, JONATHAN SWAN2026年6月15日 Arash Khamooshi/Polaris for The New York Times\nThe United States and Iran reached a cease-fire agreement on Sunday, President Trump said, paving the way for further talks that could ultimately end a monthslong war that has killed thousands and rattled the global economy.\n美国总统特朗普表示，美国与伊朗于周日达成停火协议，为进一步的谈判铺平了道路，有望最终结束这场持续数月、已造成数千人死亡并扰乱全球经济的战争。\n“The Deal with the Islamic Republic of Iran is now complete. Congratulations to all!” he said in a post on social media.\n他在社交媒体上发贴称：“与伊朗伊斯兰共和国的协议现已完成。祝贺大家！”\nIran’s deputy foreign minister, Kazem Gharibabadi, said that Iran and the United States planned to formally sign the agreement on Friday in Geneva, confirming a timeline laid out by Pakistan, a mediator in talks.\n伊朗副外长卡扎姆·加里巴巴迪表示，伊美…",
+          "link": "https://cn.nytimes.com/world/20260615/heres-the-latest/dual",
+          "publishedOn": "2026-06-15T01:36:02.000Z",
+          "wordCount": 844,
+          "title": "美国和伊朗达成停火协议，有望结束战争",
+          "imageUrl": "https://static01.nyt.com/images/2026/06/14/multimedia/14-iran-blog-ceasefire-deal-swap-610pm-qgkt/14-iran-blog-ceasefire-deal-swap-610pm-qgkt-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/business/20260615/iran-war-oil-reserves/dual",
+          "author": null,
+          "description": "REBECCA F. ELLIOTT, LAZARO GAMIO2026年6月15日注：数据为商业储存和国家战略储备中的原油总量。来源：Kpler。 The New York Times\nThe world is quickly depleting its stores of oil, putting more pressure on President Trump to reach a deal with Iran that would quickly get more fuel flowing out of the Persian Gulf.\n全球石油储备正在迅速耗尽，特朗普总统承受的压力与日俱增——他必须尽快与伊朗达成协议，以推动更多燃料从波斯湾流出。\nVast stockpiles of oil, gasoline and other fuels have helped fill the hole in global energy supplies created by the U.S.-Israeli war with Iran. But those reserves, which companies and governments stash in giant steel storage tanks and underground salt caverns, are running low in some places. This week, U.S. government stockpiles were poised to hit their lowest levels since 1983.\n庞大的石油、汽油及其他燃料储备帮助填补了美以对伊战争造成的全球能源供应缺口。但这些储备——无论是企业和政府存放在巨型钢制储油罐中的库存，还是储存在地下盐穴中的战略储备—…",
+          "link": "https://cn.nytimes.com/business/20260615/iran-war-oil-reserves/dual",
+          "publishedOn": "2026-06-15T01:06:03.000Z",
+          "wordCount": 1063,
+          "title": "全球石油储备正迅速耗尽，中国囤油量为“最大谜团”",
+          "imageUrl": "https://static01.nyt.com/images/2026/06/14/multimedia/c15oil-inventories-01/c15oil-inventories-articleLarge.png"
+        },
+        {
+          "id": "https://cn.nytimes.com/technology/20260615/google-lawsuit-china-ai-scams/dual",
+          "author": null,
+          "description": "CECILIA KANG2026年6月15日\nGoogle sued a Chinese cybercrime network on Friday, accusing it of using the company’s artificial intelligence to blast online financial scams to hundreds of thousands of Americans.\n谷歌周五对一个中国网络犯罪团伙提起诉讼，指控其利用谷歌的人工智能技术，向数十万美国人发送网络金融诈骗信息。\nThe internet giant also said it was coordinating for the first time with the Federal Bureau of Investigation and wireless providers such as AT&T, T-Mobile and Verizon to shut down the network, known as Outsider Enterprise.\n这家互联网巨头还表示，正首次与美国联邦调查局及AT&T、T-Mobile、Verizon等无线运营商展开协调行动，共同打击这个名为“局外人企业”(Outsider Enterprise)的犯罪网络。\nThe Chinese group used Gemini, Google’s A.I. system, to create hundreds of fake websites mimicking companies like Google and YouTube and government operations like the Postal Service and New York’s E-ZPass service for …",
+          "link": "https://cn.nytimes.com/technology/20260615/google-lawsuit-china-ai-scams/dual",
+          "publishedOn": "2026-06-15T00:06:02.000Z",
+          "wordCount": 627,
+          "title": "谷歌指控中国团伙利用该公司AI技术诈骗美国人",
+          "imageUrl": "https://static01.nyt.com/images/2026/06/12/multimedia/12biz-google-scam-suit-02-fzkm/12biz-google-scam-suit-02-fzkm-videoLarge.jpg"
+        },
         {
           "id": "https://cn.nytimes.com/technology/20260612/spacex-valuation-skeptics/dual",
           "author": null,
@@ -7208,6 +7328,56 @@
       "feedUrl": "https://plink.anyfeeder.com/weixin/ibookreview",
       "siteUrl": "http://weixin.sogou.com/weixin?type=1&s_from=input&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A",
       "articles": [
+        {
+          "id": "7af06f4d96d9d79fba637ca393eec302",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E6%9D%83%E5%8A%9B%E5%A6%82%E4%BD%95%E6%8A%B5%E8%BE%BE%E5%9F%BA%E5%B1%82%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%B2%BB%E7%90%86%E7%9A%84%E5%BE%AE%E8%A7%82%E9%80%BB%E8%BE%91",
+          "publishedOn": "2026-06-15T02:05:00.000Z",
+          "wordCount": 298,
+          "title": "权力如何抵达基层：中国治理的微观逻辑",
+          "imageUrl": null
+        },
+        {
+          "id": "2e69ca12ef0f1fad92d688d829109356",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E4%B8%96%E7%95%8C%E6%9D%AF%EF%BC%8C%E4%BB%8E%E6%9D%A5%E4%B8%8D%E6%98%AF%E5%8D%95%E7%BA%AF%E7%9A%84%E7%BB%BF%E8%8C%B5%E7%AB%9E%E6%8A%80",
+          "publishedOn": "2026-06-15T02:05:00.000Z",
+          "wordCount": 257,
+          "title": "世界杯，从来不是单纯的绿茵竞技",
+          "imageUrl": null
+        },
+        {
+          "id": "1ec36dde253d373c8d358a832e2e66d3",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E3%80%8A%E7%94%B5%E5%BD%B1%E5%AF%93%E8%A8%80%E3%80%8B%EF%BC%9A%E7%94%B5%E5%BD%B1%E6%98%AF%E7%9C%9F%E7%9A%84%EF%BC%8C%E6%95%85%E4%BA%8B%E6%98%AF%E8%B0%8E%E8%A8%80",
+          "publishedOn": "2026-06-15T02:05:00.000Z",
+          "wordCount": 263,
+          "title": "《电影寓言》：电影是真的，故事是谎言",
+          "imageUrl": null
+        },
+        {
+          "id": "55237b250a0eb9226723d3f6ff3f3db9",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E9%99%86%E5%8D%83%E4%B8%80%EF%BC%9A%E5%80%BE%E5%90%AC%E8%81%8C%E6%A0%A1%E7%94%9F%E4%BB%AC%E7%9A%84%E8%A1%A8%E8%BE%BE",
+          "publishedOn": "2026-06-14T02:00:00.000Z",
+          "wordCount": 288,
+          "title": "陆千一：倾听职校生们的表达",
+          "imageUrl": null
+        },
+        {
+          "id": "ba48c2ea0095e6e8dcc104c7d031df71",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E8%B5%B0%E5%87%BA%E4%BC%98%E7%BB%A9%E4%B8%BB%E4%B9%89%EF%BC%8C%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BF%99%E4%B9%88%E9%9A%BE%EF%BC%9F",
+          "publishedOn": "2026-06-14T02:00:00.000Z",
+          "wordCount": 300,
+          "title": "走出优绩主义，为什么这么难？",
+          "imageUrl": null
+        },
         {
           "id": "26e46537e728e5e02b287fba288aa464",
           "author": null,
