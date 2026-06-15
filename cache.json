@@ -6,6 +6,16 @@
       "siteUrl": "https://rweekly.org/atom.xml",
       "articles": [
         {
+          "id": "https://rweekly.org/2026-W25.html",
+          "author": null,
+          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Sam Parmar, with help from the R Weekly team members and contributors.\nHighlight\nA brief and biased history of Posit data science agents\nThree small dots for more readable code\nLittle useless-useful R functions – Ulam Prime Spiral\nInsights\nFive recent R-universe features you might have missed\nNew CRAN Packages: signal or noise?\nA brief and biased history of Posit data science agents\n\nRStudio’s Top Feature Requests … In Positron\nPosit Assistant is specialized for data work\nPositron June Release Highlights\nRQuantLib 0.4.27 on CRAN: Small Extension\nR in the Real World\nRonny Hernandez Mora, Joel Nitta, and Nick Tierney Join rOpenSci Software Peer Review Editorial Team\nEleven Lat…",
+          "link": "https://rweekly.org/2026-W25.html",
+          "publishedOn": "2026-06-15T00:00:00.000Z",
+          "wordCount": 8420,
+          "title": "R Weekly 2026-W25 Posit Agents, Three Dots, Ulam Spiral",
+          "imageUrl": "https://rweekly.org/public/facebook.png"
+        },
+        {
           "id": "https://rweekly.org/2026-W24.html",
           "author": null,
           "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Batool Almarzouq, with help from the R Weekly team members and contributors.\nHighlight\nThe Lurking Dangers of the R Version Update\nRefactoring with Jarl: a coffee chat\n11 Test Smells That Make Your Tests Lie to You\nInsights\nRefactoring with Jarl: a coffee chat\n\nReflections on AI and Security\nTechtonique dot net, the Machine Learning web API, is back online (but more like a passion project for now)\nFootball meets machine learning: Forecasting the 2026 FIFA World Cup\n\nSovereign Tech Fund Project: Milestone 1\nThe Lurking Dangers of the R Version Update\nR in Organizations\nA New Guide: Organizing Events for First-time Contributors\nOur goodpractice Package Has New Superpowers\nTuto…",
@@ -64,6 +74,26 @@
       "feedUrl": "https://www.nationalreview.com/feed/",
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
+        {
+          "id": "https://www.nationalreview.com/?p=1979377",
+          "author": "Noah Rothman",
+          "description": "The details are not clear, but some observers see shades of the JCPOA in the emerging contours of a deal.",
+          "link": "https://www.nationalreview.com/2026/06/will-obama-get-the-last-laugh-on-iran/",
+          "publishedOn": "2026-06-15T15:37:34.000Z",
+          "wordCount": 7358,
+          "title": "Will Obama Get the Last Laugh on Iran?",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/03/obama-trump.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1979330",
+          "author": "The Editors",
+          "description": "It’s the only way to get past the conflicting claims over what Trump and Iran agreed to.",
+          "link": "https://www.nationalreview.com/2026/06/release-the-text-of-the-iran-deal/",
+          "publishedOn": "2026-06-15T15:01:55.000Z",
+          "wordCount": 6486,
+          "title": "Release the Text of the Iran Deal",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/06/donald-trump-1.jpg?fit=2057%2C1200&ssl=1"
+        },
         {
           "id": "https://www.nationalreview.com/?p=1979111",
           "author": "Kathryn Jean Lopez",
@@ -3109,16 +3139,6 @@
           "publishedOn": "2026-05-17T22:56:55.000Z",
           "wordCount": 374,
           "title": "派早报：提交未经核实 AI 内容的论文作者将被 arXiv 封禁一年",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sspai.com/post/64870",
-          "author": "Blanboom",
-          "description": "在无线路由器的设置页面上，我们可能会看到一个名为「智能队列」的功能（根据品牌或操作系统的不同，也可能会被称做「智能QoS」、「SQM」等）。这一功能是如何工作的？是否能让网速变快？是否需要打开？本文将 ...查看全文",
-          "link": "https://sspai.com/post/64870",
-          "publishedOn": "2026-05-17T04:57:27.000Z",
-          "wordCount": 636,
-          "title": "看剧不卡顿、游戏低延迟：「智能队列」这样改善你的冲浪体验",
           "imageUrl": null
         }
       ]

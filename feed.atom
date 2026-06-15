@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mananchong.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-15T13:31:12.245Z</updated>
+    <updated>2026-06-15T20:02:31.790Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mananchong.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://mananchong.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Will Obama Get the Last Laugh on Iran?]]></title>
+        <id>https://www.nationalreview.com/?p=1979377</id>
+        <link href="https://www.nationalreview.com/2026/06/will-obama-get-the-last-laugh-on-iran/"/>
+        <updated>2026-06-15T15:37:34.000Z</updated>
+        <summary type="html"><![CDATA[The details are not clear, but some observers see shades of the JCPOA in the emerging contours of a deal.]]></summary>
+        <author>
+            <name>Noah Rothman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Release the Text of the Iran Deal]]></title>
+        <id>https://www.nationalreview.com/?p=1979330</id>
+        <link href="https://www.nationalreview.com/2026/06/release-the-text-of-the-iran-deal/"/>
+        <updated>2026-06-15T15:01:55.000Z</updated>
+        <summary type="html"><![CDATA[It’s the only way to get past the conflicting claims over what Trump and Iran agreed to.]]></summary>
+        <author>
+            <name>The Editors</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[白宫举办UFC格斗赛 - June 15, 2026]]></title>
         <id>idaily-253117</id>
@@ -279,6 +299,34 @@ The internet giant also said it was coordinating for the first time with the Fed
 The Chinese group used Gemini, Google’s A.I. system, to create hundreds of fake websites mimicking companies like Google and YouTube and government operations like the Postal Service and New York’s E-ZPass service for …]]></summary>
         <author>
             <name>纽约时报双语版</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[R Weekly 2026-W25 Posit Agents, Three Dots, Ulam Spiral]]></title>
+        <id>https://rweekly.org/2026-W25.html</id>
+        <link href="https://rweekly.org/2026-W25.html"/>
+        <updated>2026-06-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hello and welcome to this new issue!
+How to have (my) content shared by R Weekly?
+This week’s release was curated by Sam Parmar, with help from the R Weekly team members and contributors.
+Highlight
+A brief and biased history of Posit data science agents
+Three small dots for more readable code
+Little useless-useful R functions – Ulam Prime Spiral
+Insights
+Five recent R-universe features you might have missed
+New CRAN Packages: signal or noise?
+A brief and biased history of Posit data science agents
+
+RStudio’s Top Feature Requests … In Positron
+Posit Assistant is specialized for data work
+Positron June Release Highlights
+RQuantLib 0.4.27 on CRAN: Small Extension
+R in the Real World
+Ronny Hernandez Mora, Joel Nitta, and Nick Tierney Join rOpenSci Software Peer Review Editorial Team
+Eleven Lat…]]></summary>
+        <author>
+            <name>RWeekly.org - Blogs to Learn R from the Community</name>
         </author>
     </entry>
     <entry>
@@ -7792,16 +7840,6 @@ Anthropic 警告私下交易的股权可能无效
         <summary type="html"><![CDATA[一只死去的座头鲸出现在丹麦沿岸海域。5月16日，丹麦环保局通报5月14日在安霍尔特岛附近海域发现一只死亡的座头鲸，经过现场检查后确定为5月初被释放至北海的德国波罗的海搁浅座头鲸「Timmy」。死去鲸鱼的发现地距离「Timmy」被释放海域约130公里，工作人员亦发现此前放置的追踪器。丹麦环保局表示不会对「Timmy」的尸体进行移除作业，目前不认为会对该地区造成负面影响。摄影师：Jonas Walzberg]]></summary>
         <author>
             <name>丹麦 · 安霍尔特岛</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[看剧不卡顿、游戏低延迟：「智能队列」这样改善你的冲浪体验]]></title>
-        <id>https://sspai.com/post/64870</id>
-        <link href="https://sspai.com/post/64870"/>
-        <updated>2026-05-17T04:57:27.000Z</updated>
-        <summary type="html"><![CDATA[在无线路由器的设置页面上，我们可能会看到一个名为「智能队列」的功能（根据品牌或操作系统的不同，也可能会被称做「智能QoS」、「SQM」等）。这一功能是如何工作的？是否能让网速变快？是否需要打开？本文将 ...查看全文]]></summary>
-        <author>
-            <name>Blanboom</name>
         </author>
     </entry>
 </feed>
