@@ -44,16 +44,6 @@
           "wordCount": 6083,
           "title": "R Weekly 2026-W22 Deploying Quarto, rfuns, muttest",
           "imageUrl": "https://rweekly.org/public/facebook.png"
-        },
-        {
-          "id": "https://rweekly.org/2026-W21.html",
-          "author": null,
-          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by , with help from the R Weekly team members and contributors.\nHighlight\n15 Years of rOpenSci, and We’re Just Getting Started 🎉\nDurations of wars by @ellis2013nz\nLearning Data Science: Why a High R^2 Can Be Misleading\nInsights\n15 Years of rOpenSci, and We’re Just Getting Started 🎉\nR in the Real World\nDurations of wars by @ellis2013nz\nR in Organizations\nBeyond Feasibility: Learning from FDA’s Response to WebAssembly and Container-Based Submissions\nCDISC Standards for Open-Source Pharma Teams\nTutorials\nLearning Data Science: Why a High R^2 Can Be Misleading\nTesting Legacy Shiny Apps: Start with Behavior, Not Code\nNew Packages\n📦 Go Live for More New Pkgs 📦\n -->\n📦 Keep up to …",
-          "link": "https://rweekly.org/2026-W21.html",
-          "publishedOn": "2026-05-18T00:00:00.000Z",
-          "wordCount": 5800,
-          "title": "R Weekly 2026-W21 15 Years of rOpenSci, Durations of wars, and R-squared",
-          "imageUrl": "https://rweekly.org/public/facebook.png"
         }
       ]
     },
@@ -74,6 +64,46 @@
       "feedUrl": "https://www.nationalreview.com/feed/",
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
+        {
+          "id": "https://www.nationalreview.com/?p=1979516",
+          "author": "Michael Brendan Dougherty",
+          "description": "Nobody prepared me for the vicarious joys of youth sports when the youth in question are our sons.",
+          "link": "https://www.nationalreview.com/2026/06/the-end-of-rec-league/",
+          "publishedOn": "2026-06-16T10:30:51.000Z",
+          "wordCount": 6825,
+          "title": "The End of Rec League",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/06/junior-baseball.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1979566",
+          "author": "John Yoo",
+          "description": "The expiration of FISA Section 702 leaves a vacuum in our capabilities that the president now must fill.",
+          "link": "https://www.nationalreview.com/2026/06/our-ability-to-fight-foreign-terrorism-just-got-weaker/",
+          "publishedOn": "2026-06-16T10:30:50.000Z",
+          "wordCount": 8389,
+          "title": "Our Ability to Fight Foreign Terrorism Just Got Weaker",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2025/07/u.s.-congress.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1979437",
+          "author": "Hans A. von Spakovsky and Marc Wheat",
+          "description": "It’s not too late to reconsider James Madison’s proposed constitutional amendment to bolster the separation of powers.",
+          "link": "https://www.nationalreview.com/2026/06/the-bill-of-rights-missing-amendment/",
+          "publishedOn": "2026-06-16T10:30:41.000Z",
+          "wordCount": 7200,
+          "title": "The Bill of Rights’ Missing Amendment",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2022/01/james-madison-5.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1979593",
+          "author": "Rich Lowry",
+          "description": "World Cup tourists are discovering the little secret of American abundance. We plan to keep sharing and defending it for a long time to come.",
+          "link": "https://www.nationalreview.com/2026/06/the-real-america/",
+          "publishedOn": "2026-06-16T10:30:25.000Z",
+          "wordCount": 6268,
+          "title": "The Real America",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/06/american-flag-hawkeyes.jpg?fit=2057%2C1200&ssl=1"
+        },
         {
           "id": "https://www.nationalreview.com/?p=1979377",
           "author": "Noah Rothman",
@@ -2053,56 +2083,6 @@
           "wordCount": 5858,
           "title": "America Must Aggressively Counter Huawei to Preserve Its AI Leadership",
           "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/05/huawei.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1961002",
-          "author": "James Lileks",
-          "description": "It’s extremely unlikely that the next pandemic is at hand.",
-          "link": "https://www.nationalreview.com/2026/05/dont-buy-into-hantapanic/",
-          "publishedOn": "2026-05-17T10:30:58.000Z",
-          "wordCount": 6283,
-          "title": "Don’t Buy into Hantapanic",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/05/hantavirus-patient.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1963357",
-          "author": "Frederic J. Fransen",
-          "description": "But endowed chairs for conservative scholars won’t fix the problem.",
-          "link": "https://www.nationalreview.com/2026/05/harvard-and-yale-discover-gasp-the-importance-of-viewpoint-diversity/",
-          "publishedOn": "2026-05-17T10:30:42.000Z",
-          "wordCount": 6144,
-          "title": "Harvard and Yale Discover (Gasp!) the Importance of Viewpoint Diversity",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/05/harvardyale.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1960488",
-          "author": "Robert P. George",
-          "description": "The late German thinker and teacher brought liberal secularism to the pinnacle of academic political philosophy.",
-          "link": "https://www.nationalreview.com/2026/05/jurgen-habermas-a-serious-man/",
-          "publishedOn": "2026-05-17T10:30:40.000Z",
-          "wordCount": 7044,
-          "title": "Jürgen Habermas: A Serious Man",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/05/jurgen.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1963197",
-          "author": "Oleksandr Kraiev and Andreas Umland",
-          "description": "Kyiv, the EU, and the coalition of the willing to help Ukraine must prepare for numerous new challenges once the war ends.",
-          "link": "https://www.nationalreview.com/2026/05/when-the-guns-fall-silent-ukraine-after-the-war/",
-          "publishedOn": "2026-05-17T10:30:34.000Z",
-          "wordCount": 6573,
-          "title": "When the Guns Fall Silent: Ukraine After the War",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/05/ukriane.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1963156",
-          "author": "Becket Adams",
-          "description": "The dog-rape story that caused a firestorm this past week fits a pattern.",
-          "link": "https://www.nationalreview.com/2026/05/the-times-has-been-getting-the-israel-hamas-war-wrong-from-the-start/",
-          "publishedOn": "2026-05-17T10:30:13.000Z",
-          "wordCount": 6730,
-          "title": "The <i>Times</i> Has Been Getting the Israel–Hamas War Wrong from the Start",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/05/nyt-israel.jpg?fit=2057%2C1200&ssl=1"
         }
       ]
     },
@@ -2111,6 +2091,56 @@
       "feedUrl": "https://sspai.com/feed",
       "siteUrl": "https://sspai.com",
       "articles": [
+        {
+          "id": "https://sspai.com/post/111030",
+          "author": "化学心情下2",
+          "description": "macOS Golden Gate 27 首个开发者测试版更新，我们整理了你所关心的所有细节。查看全文",
+          "link": "https://sspai.com/post/111030",
+          "publishedOn": "2026-06-16T09:30:00.000Z",
+          "wordCount": 646,
+          "title": "具透 | macOS 27 首个开发者测试版来了，这些是值得你关注的新特性",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sspai.com/post/111099",
+          "author": "Matrix机器人",
+          "description": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文",
+          "link": "https://sspai.com/post/111099",
+          "publishedOn": "2026-06-16T08:45:55.000Z",
+          "wordCount": 606,
+          "title": "社区速递 145 | 尝鲜激进傻快新系统、告别「电流麦」与平价人体工学椅",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sspai.com/post/110086",
+          "author": "南桥北桥不是桥",
+          "description": "或许你没有直接听说过HomeAssistant，但每当你想在家里做些复杂的自动化，亦或是打破品牌壁垒的生态联通——比如把米家的设备无缝接入AppleHome，那么这个名字一定会进入你的视野。作为一个开 ...查看全文",
+          "link": "https://sspai.com/post/110086",
+          "publishedOn": "2026-06-16T07:10:26.000Z",
+          "wordCount": 437,
+          "title": "独家采访 Home Assistant 创始人：离全面本土化还有多远",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sspai.com/post/111065",
+          "author": "ROB1N",
+          "description": "介绍点值得买的鼠标，顺便推荐一点鼠标垫。查看全文",
+          "link": "https://sspai.com/post/111065",
+          "publishedOn": "2026-06-16T03:00:00.000Z",
+          "wordCount": 688,
+          "title": "今年 618，这些鼠标值得一看",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sspai.com/post/111080",
+          "author": "少数派编辑部",
+          "description": "少数派的近期动态少数派×AKKO联合共创带屏键盘功能共创计划开启。参与众测招募尝鲜27系列新系统的朋友，你的满意度如何？来一派投票少数派正版软件、付费教程618促销活动限时开启。点击省钱可爱又好玩的经 ...查看全文",
+          "link": "https://sspai.com/post/111080",
+          "publishedOn": "2026-06-16T00:14:54.000Z",
+          "wordCount": 466,
+          "title": "派早报：大疆发布 Osmo Pocket 4P 双主摄口袋电影机等",
+          "imageUrl": null
+        },
         {
           "id": "https://sspai.com/post/111068",
           "author": "少数派编辑部",
@@ -3130,16 +3160,6 @@
           "wordCount": 318,
           "title": "四天三夜，用小长假的时间体验青海湖小环线",
           "imageUrl": null
-        },
-        {
-          "id": "https://sspai.com/post/109870",
-          "author": "少数派编辑部",
-          "description": "提交未经核实 AI 内容的论文作者将被 arXiv 封禁一年\nOpenAI 与苹果关系紧张，或考虑诉讼\n索尼回应 AI 相机助手越改越差，称只是修图建议\nAnthropic 警告私下交易的股权可能无效\n 运营商回应「零月租」传言\n微软重新允许自定义任务栏与开始菜单\n看看就行的简讯\n少数派的近期动态\n你可能错过的好文章\n查看全文",
-          "link": "https://sspai.com/post/109870",
-          "publishedOn": "2026-05-17T22:56:55.000Z",
-          "wordCount": 374,
-          "title": "派早报：提交未经核实 AI 内容的论文作者将被 arXiv 封禁一年",
-          "imageUrl": null
         }
       ]
     },
@@ -3148,6 +3168,104 @@
       "feedUrl": "https://plink.anyfeeder.com/idaily/today",
       "siteUrl": "https://idai.ly",
       "articles": [
+        {
+          "id": "idaily-253158",
+          "author": "中国 · 内蒙古自治区",
+          "description": "中国「力箭一号」遥十四运载火箭搭载8颗卫星发射升空，内蒙古东风商业航天创新试验区。6月15日，中科宇航「力箭一号」火箭执行一箭8星发射任务，成功将文物01星、彩云光学01星、安铁03星、利川红卫星、吉星高分07C04星等8颗高分辨率光学遥感卫星送入预定轨道。这是「力箭一号」火箭第14次发射任务，迄今累计部署105颗卫星，成为中国首款发射卫星总数突破100颗的民营商业火箭型号。摄影师：iDaily Media",
+          "link": "https://m.idai.ly/se/8eeUB6",
+          "publishedOn": "2026-06-16T09:19:00.000Z",
+          "wordCount": 258,
+          "title": "力箭一号部署卫星破百 - June 16, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/81ff12f0a5/b179dcb4.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/81ff12f0a5/b179dcb4.jpg"
+        },
+        {
+          "id": "idaily-253157",
+          "author": "法国 · 埃维昂莱班",
+          "description": "七国集团（G7）领导人举行工作晚餐会，法国埃维昂。6月15日，第52届七国集团峰会在法国埃维昂开幕，预计将聚焦中东局势、俄乌冲突、全球贸易、可持续增长、人工智能等议题。本次峰会的特邀国家包括巴西、埃及、印度、肯尼亚、韩国、卡塔尔、乌克兰和阿联酋。国际货币基金组织预测2026年七国集团平均 GDP 增长率为1.6%，GDP 总额约占全球的44%。摄影师：iDaily Media",
+          "link": "https://m.idai.ly/se/4cdJtW",
+          "publishedOn": "2026-06-16T08:58:00.000Z",
+          "wordCount": 258,
+          "title": "第52届G7峰会开幕 - June 16, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/3b090aadef/ebe06c8d.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/3b090aadef/ebe06c8d.jpg"
+        },
+        {
+          "id": "idaily-253155",
+          "author": "阿曼 · 穆桑代姆",
+          "description": "从阿曼穆桑代姆半岛眺望霍尔木兹海峡内停泊的货轮。6月15日，巴基斯坦宣布美国与伊朗在其斡旋下达成和平协议，正式签约仪式将于6月19日在瑞士举行。这份协议的内容包括双方立即永久停止在所有战线的军事行动、霍尔木兹海峡全面开放、美国解除对伊朗的海上封锁等。受该消息影响，全球基准布伦特原油期货价格当天下跌-4.76%至每桶83.17美元，跌至3个月来最低。伊朗官方媒体报道称，伊方将在60天内允许船只免费通过霍尔木兹海峡，此后计划由伊朗和阿曼共同管理该海峡。摄影师：iDaily Media",
+          "link": "https://m.idai.ly/se/17eedT",
+          "publishedOn": "2026-06-16T07:57:00.000Z",
+          "wordCount": 258,
+          "title": "美伊宣布达成和平协议 - June 16, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/8597bb3a13/e4a5aa50.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/8597bb3a13/e4a5aa50.jpg"
+        },
+        {
+          "id": "idaily-253154",
+          "author": "日本 · 东京",
+          "description": "东京证券交易所屏幕显示日经指数即时数据，东京。6月16日，日经平均指数（Nikkei）史上首次突破70000关口，盘中上涨1%至70020.68点，刷新历史纪录；收盘上涨0.13%，报69404.50点。韩国综合股价指数（KOSPI）收涨2%重回8700关口。本轮日韩股市上涨主要受美伊达成和平协议消息影响。当天日本央行宣布将政策利率从0.75%上调至1%，达到1995年以来最高水平。摄影师：Franck Robichon",
+          "link": "https://m.idai.ly/se/45dZH8",
+          "publishedOn": "2026-06-16T07:55:00.000Z",
+          "wordCount": 258,
+          "title": "日经指数突破70000点 - June 16, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/d509d0fb19/7bd32bed.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/d509d0fb19/7bd32bed.jpg"
+        },
+        {
+          "id": "idaily-253153",
+          "author": "英国 · 伦敦",
+          "description": "英国首相 Keir Starmer 公布青少年社交媒体禁令，伦敦。6月15日，英国首相 Starmer 宣布将禁止16岁以下群体使用社交媒体以及所有平台的直播功能，禁止陌生人在游戏和线上服务中与儿童交流。本项禁令旨在防止青少年接触危险内容和杜绝网络霸凌，涵盖平台包括 Instagram、YouTube、TikTok、Snapchat、Facebook、X 等，预计2027年春季正式生效。英国官方民调显示超过9成家长支持颁布该禁令。摄影师：Jaimi Joy",
+          "link": "https://m.idai.ly/se/f1b7mH",
+          "publishedOn": "2026-06-16T07:53:00.000Z",
+          "wordCount": 258,
+          "title": "英国颁布青少年社媒禁令 - June 16, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/aec96c0fb9/06e1a055.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/aec96c0fb9/06e1a055.jpg"
+        },
+        {
+          "id": "idaily-253152",
+          "author": "印度 · 阿萨姆邦",
+          "description": "印度加济兰加国家公园，工作人员正在检查一只死去的大象，阿萨姆邦。6月15日，印度加济兰加国家公园报告发现一只死去的雄性大象，死亡原因不明。阿萨姆邦是印度第二大野生大象栖息地，该地区的大象数量超过5800只。印度野生动物研究所数据显示，2025年该国约有22446只野生大象，较2017年统计结果减少-17%。摄影师：Anuwar Hazarika",
+          "link": "https://m.idai.ly/se/ae3MRQ",
+          "publishedOn": "2026-06-16T07:51:00.000Z",
+          "wordCount": 258,
+          "title": "印度阿萨姆邦人象冲突 - June 16, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/6eb192ec4f/47d3b56f.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/6eb192ec4f/47d3b56f.jpg"
+        },
+        {
+          "id": "idaily-253151",
+          "author": "尼泊尔 · 加德满都",
+          "description": "尼泊尔「萨嘎达瓦节」（Saga Dawa Festival）期间，一名朝圣者在满愿塔外墙祈愿，加德满都。6月15日，尼泊尔迎来藏传佛教最重要的节日之一「萨嘎达瓦节」，该节日庆祝时间为藏历四月，旨在纪念释迦牟尼的诞生、成道和涅槃。尼泊尔旅游局数据显示2026年5月接待外国游客逾10.26万人次，同比增长19%，排名前五的游客来源国依次为印度、中国、美国、孟加拉国和英国。摄影师：Narendra Shrestha",
+          "link": "https://m.idai.ly/se/6011B5",
+          "publishedOn": "2026-06-16T07:49:00.000Z",
+          "wordCount": 258,
+          "title": "尼泊尔庆祝萨嘎达瓦节 - June 16, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/d0e37f5ee9/be55d2e0.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/d0e37f5ee9/be55d2e0.jpg"
+        },
         {
           "id": "idaily-253117",
           "author": "美国 · 华盛顿特区",
@@ -5989,90 +6107,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://pic.yupoo.com/fotomag/288a573096/a79cb3bc.jpg"
-        },
-        {
-          "id": "idaily-251388",
-          "author": "中国 · 内蒙古自治区",
-          "description": "「神舟二十三号」载人飞船与长征二号F遥二十三运载火箭组合体垂直转运至发射区，酒泉卫星发射中心。5月16日，「神舟二十三号」船箭组合体进入发射前最后准备阶段，计划近日择机实施发射。「神舟二十三号」是中国载人航天工程的第17次载人飞行任务，亦是2026年中国首次载人发射任务，预计运送3名航天员前往天宫空间站执行6个月驻留任务，其中1名航天员将开展长达1年的首次长期驻留试验。摄影师：iDaily Media",
-          "link": "https://m.idai.ly/se/860CpL",
-          "publishedOn": "2026-05-17T10:52:00.000Z",
-          "wordCount": 260,
-          "title": "神舟二十三号即将发射 - May 17, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/f0207a8e5d/5dff259c.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/f0207a8e5d/5dff259c.jpg"
-        },
-        {
-          "id": "idaily-251387",
-          "author": "美国 · 佛罗里达州",
-          "description": "猎鹰9号火箭搭载货运龙飞船发射升空，卡纳维拉尔角。5月15日，SpaceX 货运龙飞船执行第34次国际空间站商业补给任务，共运送约2.95吨货物，包括宇航员食物、补给品、新太空行走装备以及太空科学实验载荷。执行本次任务的货运龙飞船为第6次飞行，创下重复使用次数纪录，预计该飞船将在国际空间站停靠1个月后返回地球。摄影师：Joe Marino",
-          "link": "https://m.idai.ly/se/de3I22",
-          "publishedOn": "2026-05-17T09:59:00.000Z",
-          "wordCount": 261,
-          "title": "SpaceX 发射货运龙飞船 - May 17, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/4bddcca481/c0a37685.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/4bddcca481/c0a37685.jpg"
-        },
-        {
-          "id": "idaily-251386",
-          "author": "荷兰 · 海牙",
-          "description": "荷兰国王 Willem-Alexander 为印度总理 Narendra Modi 举行欢迎午宴，海牙。5月15日，印度总理 Modi 应邀对荷兰进行为期2天正式访问，主要行程包括会晤荷兰国王及首相、会见印度侨民等。两国领导人就双边关系、地区及国际局势等议题交换意见并在会后发表联合声明，一致同意将两国关系升级为「战略伙伴关系」，进一步加强经贸投资、新兴技术、能源转型、防务安全等领域合作。根据双方达成的协议，荷兰阿斯麦公司将为印度首座300毫米半导体晶圆厂供应先进光刻设备，该工厂项目总投资110亿美元，预计2026年底投产。摄影师：Patrick Van Katwijk",
-          "link": "https://m.idai.ly/se/f9ab69",
-          "publishedOn": "2026-05-17T09:57:00.000Z",
-          "wordCount": 260,
-          "title": "印度总理访问荷兰 - May 17, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/c31f5d1115/11504c52.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/c31f5d1115/11504c52.jpg"
-        },
-        {
-          "id": "idaily-251385",
-          "author": "中国 · 杭州",
-          "description": "2026杭州国际具身机器人场景应用大赛，一台人形机器人正在与观众打乒乓球，浙江省。5月16日，首届杭州国际具身机器人场景应用大赛顺利闭幕，本届大赛共有来自中国、瑞士、俄罗斯、印度等国的逾200支机器人赛展队伍参加，吸引数万名观众到场观看。中国海关总署公布2026年第一季度中国各类机器人出口总值达113.2亿元，产品销往全球148个国家和地区，其中人形机器人出口同比增长达210%。目前全球每10台人形机器人就有8台产自中国。摄影师：iDaily Media",
-          "link": "https://m.idai.ly/se/0efOp5",
-          "publishedOn": "2026-05-17T09:55:00.000Z",
-          "wordCount": 260,
-          "title": "杭州机器人场景应用大赛闭幕 - May 17, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/65fed7020c/6dbc18a5.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/65fed7020c/6dbc18a5.jpg"
-        },
-        {
-          "id": "idaily-251384",
-          "author": "美国 · 纽约",
-          "description": "一列纽约长岛铁路（LIRR）客运车抵达车站，美国。5月16日，纽约长岛铁路工会因薪资谈判破裂发起1994年以来的首次大规模罢工，共有包括驾驶员、售票员、信号员和电工在内的约3700名雇员参与罢工，相当于长岛铁路总雇员的50%。长岛铁路连接纽约市与长岛地区，由纽约大都会运输署负责运营，是北美最繁忙的通勤铁路系统，每日运送旅客达约30万人次。工会方主要诉求为薪资待遇提高约5%，但纽约大都会运输署仅同意3%加薪幅度。摄影师：Adam Gray",
-          "link": "https://m.idai.ly/se/98a7Hg",
-          "publishedOn": "2026-05-17T09:53:00.000Z",
-          "wordCount": 260,
-          "title": "纽约长岛铁路员工罢工 - May 17, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/0ea72106d8/0cb31bea.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/0ea72106d8/0cb31bea.jpg"
-        },
-        {
-          "id": "idaily-251383",
-          "author": "丹麦 · 安霍尔特岛",
-          "description": "一只死去的座头鲸出现在丹麦沿岸海域。5月16日，丹麦环保局通报5月14日在安霍尔特岛附近海域发现一只死亡的座头鲸，经过现场检查后确定为5月初被释放至北海的德国波罗的海搁浅座头鲸「Timmy」。死去鲸鱼的发现地距离「Timmy」被释放海域约130公里，工作人员亦发现此前放置的追踪器。丹麦环保局表示不会对「Timmy」的尸体进行移除作业，目前不认为会对该地区造成负面影响。摄影师：Jonas Walzberg",
-          "link": "https://m.idai.ly/se/796pkE",
-          "publishedOn": "2026-05-17T09:51:00.000Z",
-          "wordCount": 260,
-          "title": "德国解救座头鲸死亡 - May 17, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/676f6b3c8b/2e0456b2.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/676f6b3c8b/2e0456b2.jpg"
         }
       ]
     },
@@ -6081,6 +6115,76 @@
       "feedUrl": "https://plink.anyfeeder.com/nytimes/dual",
       "siteUrl": "http://nytimes.com",
       "articles": [
+        {
+          "id": "https://cn.nytimes.com/asia-pacific/20260616/japan-royal-family-adoption-male/dual",
+          "author": null,
+          "description": "赫海威, HISAKO UENO2026年6月16日4月，日本天皇德仁（中）、皇后雅子及其他王室成员一同出席在东京举行的园游会。 Pool photo by Kazuhiro Nogi\nJapan’s imperial family, which has long maintained a male-only lineage for emperors, is running out of royals. Now the country has a plan to help revitalize its dwindling ranks: Recruit more men.\n日本皇室长期以来维持着仅限男性继承天皇之位的传统，如今正面临皇室成员后继无人的困境。现在，日本提出了一项计划以振兴日益萎缩的皇室：招收更多男性成员。\nJapan’s legislature, hoping to avoid a succession crisis, moved forward with a proposal this past week to allow the imperial family to adopt scores of distant male relatives. That could give Japan more choices for future emperors — only men are allowed to ascend the Chrysanthemum Throne — and help ensure the survival of the world’s oldest monarchy.\n为避免继承危机，日本立法机构于上周推进了一项提案，允许皇室收养数十名远房男性亲属。这可能日本未来的天皇提供更多选择——只有男性才被允许登上菊花王座——并有助于确保这个世界…",
+          "link": "https://cn.nytimes.com/asia-pacific/20260616/japan-royal-family-adoption-male/dual",
+          "publishedOn": "2026-06-16T05:36:02.000Z",
+          "wordCount": 1088,
+          "title": "日本皇室面临继承危机：女性天皇可能出现吗？",
+          "imageUrl": "https://static01.nyt.com/images/2026/07/10/multimedia/00int-japan-royals-01-kpvg/00int-japan-royals-01-kpvg-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/business/20260616/economy-trillionaire-wealth-wages/dual",
+          "author": null,
+          "description": "BEN CASSELMAN2026年6月16日周五的时报广场，当天埃隆·马斯克的SpaceX在纳斯达克上市。 Karsten Moran for The New York Times\nTwo events from the past week help crystallize this strange, contradictory moment for the U.S. economy.\n过去一周发生的两件事有助于说明美国经济眼下这个既奇怪又矛盾的时刻。\nOn Wednesday, the Bureau of Labor Statistics reported that the surge in energy prices had wiped out a year and a half of wage gains for the average American worker. On Friday, the public-markets debut of SpaceX made Elon Musk the world’s first trillionaire.\n周三，美国劳工统计局报告称，能源价格飙升已经抹去了美国普通劳动者过去一年半的工资涨幅。周五，SpaceX上市，使埃隆·马斯克成为全球首位万亿美元富豪。\nThat stark juxtaposition helps explain why many Americans, in survey after survey, say they no longer believe the U.S. economy is working for them. A few people are getting fabulously, unimaginably wealthy at the same time that entire g…",
+          "link": "https://cn.nytimes.com/business/20260616/economy-trillionaire-wealth-wages/dual",
+          "publishedOn": "2026-06-16T05:06:01.000Z",
+          "wordCount": 1302,
+          "title": "美国人为什么不快乐？收入下降、贫富差距拉大",
+          "imageUrl": "https://static01.nyt.com/images/2026/06/13/multimedia/13biz-econ-assess-6-mhtq/13biz-econ-assess-6-mhtq-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/opinion/20260616/ufc-freedom-250-fight/dual",
+          "author": null,
+          "description": "MICHELLE GOLDBERG2026年6月16日 Mark Peterson/Redux, for The New York Times\nOnly the hackiest screenwriter imaginable would script America’s decline this way.\n只有最蹩脚的编剧才会如此编排美国的衰落。\nThink of it: On the 250th anniversary of our country’s founding, America’s increasingly senescent president turned the White House lawn into a tacky, bloody gladiatorial arena while capitulating to Iran. Mike Judge came close to imagining some elements of our debasement in his 2006 satire “Idiocracy,” which depicts a United States led by a professional wrestler whose middle name is Mountain Dew. But if “Idiocracy” captured something of the vibe of Donald Trump’s reign, it was both too early and too lighthearted to nail the sordid specifics, which on Sunday included the fighter Josh Hokit, standing in an octagonal cag…",
+          "link": "https://cn.nytimes.com/opinion/20260616/ufc-freedom-250-fight/dual",
+          "publishedOn": "2026-06-16T04:06:02.000Z",
+          "wordCount": 1263,
+          "title": "一场展示美国衰落的奇观",
+          "imageUrl": "https://static01.nyt.com/images/2026/06/15/multimedia/15goldberg-pzkm/15goldberg-pzkm-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/world/20260616/iran-deal-hormuz-trump-goals/dual",
+          "author": null,
+          "description": "ERICA L. GREEN, ZOLAN KANNO-YOUNGS2026年6月16日特朗普总统在社交媒体上表示，这项协议将“让石油流淌起来”。 Eric Lee for The New York Times\nAlmost immediately after striking a deal with Iran, President Trump appeared eager to take a victory lap.\n在与伊朗达成协议后，特朗普总统几乎是第一时间想要炫耀自己取得了大胜。\nHe trumpeted that the agreement would open the Strait of Hormuz, a vital waterway for the world’s energy supplies whose stalled ship traffic has rattled the global economy. He told The New York Times that his efforts had saved Israel from nuclear extinction and made the Middle East safer. It all gave him a key win as he traveled to France for the Group of 7 summit, where he will meet with European leaders who have criticized his approach to the war.\n他宣称，该协议将开放霍尔木兹海峡，这是全球能源供应的重要水道，此前船舶通行停滞已引发全球经济动荡。他在接受《纽约时报》采访时表示，自己的努力将以色列从核毁灭中解救了出来，并让中东变得更加安全。这一切…",
+          "link": "https://cn.nytimes.com/world/20260616/iran-deal-hormuz-trump-goals/dual",
+          "publishedOn": "2026-06-16T03:36:02.000Z",
+          "wordCount": 1421,
+          "title": "特朗普结束了他发起的战争，但并未实现目标",
+          "imageUrl": "https://static01.nyt.com/images/2026/06/15/multimedia/15US-iran-assess-01-klhq/15US-iran-assess-01-klhq-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/usa/20260616/trump-thanks-china-russia/dual",
+          "author": null,
+          "description": "黄安伟2026年6月16日特朗普总统将中国领导人习近平（左）和俄罗斯领导人普京称为他的朋友。 Kenny Holston/The New York Times, Doug Mills/The New York Times\nWhen President Trump gave thanks to those who had helped him reach an initial cease-fire agreement with Iran, he praised two world leaders he has called his friends — Xi Jinping of China and Vladimir V. Putin of Russia.\n特朗普总统向帮助他与伊朗达成初步停火协议的人表示感谢时，赞扬了两位被他称为朋友的世界领导人——中国的习近平和俄罗斯的普京。\nThe leaders, he said, had aided the Americans in sealing the deal with the Iranians, or at least had helped set the conditions by not sending oil and gas tankers or other commercial ships through the Strait of Hormuz to compromise a U.S. naval blockade aimed at pressuring Iran.\n他说，这两位领导人帮助美国人与伊朗人敲定了协议，或者至少为其创造了条件——他们没有派遣油气运输船或者其他商业船只通过霍尔木兹海峡，因而没有破坏美国旨在向伊朗施压的海上封锁。\n“He was a total gentleman,” the American …",
+          "link": "https://cn.nytimes.com/usa/20260616/trump-thanks-china-russia/dual",
+          "publishedOn": "2026-06-16T03:06:02.000Z",
+          "wordCount": 1059,
+          "title": "特朗普感谢习近平和普京助力美伊达成协议",
+          "imageUrl": "https://static01.nyt.com/images/2026/06/15/us/15dc-diplo-iran/15dc-diplo-iran-articleLarge.png"
+        },
+        {
+          "id": "https://cn.nytimes.com/world/20260616/us-iran-deal/dual",
+          "author": null,
+          "description": "LEO SANDS2026年6月16日\nThe United States and Iran have reached a preliminary agreement to cease hostilities for 60 days and reopen the Strait of Hormuz, paving the way to future talks that could ultimately end their monthslong war.\n美国和伊朗已达成初步协议，暂停敌对行动60天并重开霍尔木兹海峡，为未来可能最终结束这场已持续数月战争的谈判铺平了道路。\nThe full text of the agreement has not been published. But emerging details suggested that some of the most difficult issues, including the fate of Iran’s nuclear program, have been deferred to future rounds of negotiations.\n协议全文尚未公布。但目前披露出来的细节显示，包括伊朗核计划命运在内的一些最棘手问题已被推迟到后续谈判中解决。\nThe framework commits the United States to begin dismantling its naval blockade of Iran, while Iran will clear mines in the Strait of Hormuz and reopen the vital waterway to shipping, according to officials briefed on the document.…",
+          "link": "https://cn.nytimes.com/world/20260616/us-iran-deal/dual",
+          "publishedOn": "2026-06-16T02:36:02.000Z",
+          "wordCount": 1235,
+          "title": "详解美伊停火协议：你需要了解的六个要点",
+          "imageUrl": "https://static01.nyt.com/images/2026/06/15/multimedia/15mideast-wwk-01-kzjt/15mideast-wwk-01-kzjt-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/business/20260616/china-oil-iran/dual",
+          "author": null,
+          "description": "LISA FRIEDMAN, 艾莎2026年6月16日南京的一家炼油厂。 Hector Retamal/Agence France-Presse — Getty Images\nAfter the war in Iran cut off a fifth of the world’s oil supply, oil prices jumped, at one point reaching nearly $120 a barrel. But they didn’t spike higher, even though some analysts warned ominously of $200 oil, and prices have since come down.\n伊朗战争切断了全球五分之一的石油供应后，油价大幅上涨，一度接近每桶120美元。但油价并未进一步飙升——尽管一些分析师曾忧心忡忡地警告油价可能达到每桶200美元——而且此后油价已经有所回落。\nAt more than $80 a barrel, oil is expensive. But it could be a lot higher.\n每桶80多美元的油价已经相当昂贵，但原本可能会更高得多。\nOne major reason was China.\n其中一个重要原因是中国。\nThe biggest oil buyer in the world, China has kept a lid on prices by rapidly reducing the amount of oil it imports. Before the war began, China imported an average of 11.6 million barrels per day. By May, its purchases of ov…",
+          "link": "https://cn.nytimes.com/business/20260616/china-oil-iran/dual",
+          "publishedOn": "2026-06-16T01:36:02.000Z",
+          "wordCount": 1226,
+          "title": "全球油价没有“疯涨”的重要原因：中国",
+          "imageUrl": "https://static01.nyt.com/images/2026/06/12/multimedia/00Biz-China-Oil-01-kvhp/00Biz-China-Oil-01-kvhp-articleLarge.jpg"
+        },
         {
           "id": "https://cn.nytimes.com/usa/20260614/trump-age-birthday-80/dual",
           "author": null,
@@ -7330,16 +7434,6 @@
           "wordCount": 958,
           "title": "两起涉华案件折射美中关系紧张现实",
           "imageUrl": "https://static01.nyt.com/images/2026/05/15/multimedia/15nat-chineseamericans-fqmj/15nat-chineseamericans-fqmj-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/world/20260518/trump-taiwan-arms-bargaining-chip-china/dual",
-          "author": null,
-          "description": "储百亮2026年5月18日特朗普总统在“空军一号”上告诉记者，他在北京与习近平峰会期间讨论过这笔武器交易。 Kenny Holston/The New York Times\nPresident Trump has described a potential multibillion-dollar weapons sale to Taiwan as a “negotiating chip” with China, raising new doubts about the pace and scale of American military support for the island democracy.\n特朗普总统将一笔潜在的对台数十亿美元军售称为与中国的“谈判筹码”，令外界对美国向这一民主岛屿提供军事支持的速度和规模产生了新的疑虑。\nTaiwan’s government has been waiting for months for Mr. Trump to sign off on a $14 billion package of missiles, anti-drone equipment and air-defense systems intended to fortify the island against Beijing’s military threats.\n台湾政府数月来一直在等待特朗普批准一项价值140亿美元的军售方案，其中包括导弹、反无人机装备和防空系统，旨在强化台湾抵御北京军事威胁的能力。\nMr. Trump himself had pressured Taiwan to spend more on its own defense. Now he is using the very arms his administration had pushe…",
-          "link": "https://cn.nytimes.com/world/20260518/trump-taiwan-arms-bargaining-chip-china/dual",
-          "publishedOn": "2026-05-18T00:06:02.000Z",
-          "wordCount": 1534,
-          "title": "特朗普将对台军售用作与习近平谈判筹码",
-          "imageUrl": "https://static01.nyt.com/images/2026/05/16/multimedia/16int-taiwan-us-analysis-02-tfhg/16int-taiwan-us-analysis-02-tfhg-articleLarge.jpg"
         }
       ]
     },
