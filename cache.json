@@ -34,16 +34,6 @@
           "wordCount": 5788,
           "title": "R Weekly 2026-W23 Building a computer, Toolbars, Memory model",
           "imageUrl": "https://rweekly.org/public/facebook.png"
-        },
-        {
-          "id": "https://rweekly.org/2026-W22.html",
-          "author": null,
-          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Jonathan Carroll, with help from the R Weekly team members and contributors.\nHighlight\nDeploying Quarto documents with GitLab\nFunctions over Idioms - Writing R in Python with rfuns\nmuttest 0.2.0: More Mutators, Better Reporting, and Parallel Execution\nInsights\nPositron May Release Highlights\nMaking RmlxStats fast and accurate\nctrlvee: Extract external R code and insert inline\nConformalized TabICL: Prediction Intervals for a State-Of-The-Art Tabular Foundation Model in Python and R\nConformalized TabPFN: Prediction Intervals for a Pretrained Transformer for Tabular Data in Python and R\nLeaflet attribution\nFunctions over Idioms - Writing R in Python with rfuns\nHow to use ggpatt…",
-          "link": "https://rweekly.org/2026-W22.html",
-          "publishedOn": "2026-05-25T00:00:00.000Z",
-          "wordCount": 6083,
-          "title": "R Weekly 2026-W22 Deploying Quarto, rfuns, muttest",
-          "imageUrl": "https://rweekly.org/public/facebook.png"
         }
       ]
     },
@@ -64,6 +54,16 @@
       "feedUrl": "https://www.nationalreview.com/feed/",
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
+        {
+          "id": "https://www.nationalreview.com/?p=1983930",
+          "author": "Rich Lowry",
+          "description": "Trump is operating under constraints that routinely blunt his ambitions.",
+          "link": "https://www.nationalreview.com/2026/06/trumps-three-retreats/",
+          "publishedOn": "2026-06-23T17:21:53.000Z",
+          "wordCount": 6531,
+          "title": "Trump’s Three Retreats",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/06/trump-retreats1.jpg?fit=2057%2C1200&ssl=1"
+        },
         {
           "id": "https://www.nationalreview.com/?p=1980069",
           "author": "John Gustavsson",
@@ -3100,16 +3100,6 @@
           "wordCount": 239,
           "title": "被忙碌与焦虑裹挟时，学会「停下」比「开始」更重要",
           "imageUrl": null
-        },
-        {
-          "id": "https://sspai.com/post/109450",
-          "author": "今天的风儿有点喧嚣V",
-          "description": "一晃近2000天，我手中的罗技MXMaster3，依旧是我办公时最顺手的伙伴。当初购入它，核心原因就是手大且需要一款适配办公的鼠标——此前我用过雷蛇、赛睿的多款鼠标，并非它们不好用，而是这些鼠标多偏向 ...查看全文",
-          "link": "https://sspai.com/post/109450",
-          "publishedOn": "2026-05-25T03:23:36.000Z",
-          "wordCount": 264,
-          "title": "五年陪伴依然不舍，DIY 换壳后让罗技 MX Master 3 继续服役",
-          "imageUrl": null
         }
       ]
     },
@@ -3118,6 +3108,104 @@
       "feedUrl": "https://plink.anyfeeder.com/idaily/today",
       "siteUrl": "https://idai.ly",
       "articles": [
+        {
+          "id": "idaily-253556",
+          "author": "法国 · 巴黎",
+          "description": "第45届法国夏至音乐节（Fete de la Musique），人们在巴黎圣母院观看露天音乐会。6月21日，法国迎来一年一度的夏至音乐节，本年度主题为「爵士乐」，旨在庆祝法国国家爵士乐团成立40周年及美国爵士音乐家 Miles Davis 诞辰100周年。法国是全球第6大音乐消费市场，法国唱片出版业公会（SNEP）数据显示2025年实体唱片、数字音乐版权、流媒体等音乐行业总产值达到10.7亿欧元，同比增长3.9%，连续10年保持成长趋势。摄影师：Firas Abdullah",
+          "link": "https://m.idai.ly/se/4873ce",
+          "publishedOn": "2026-06-23T09:59:00.000Z",
+          "wordCount": 276,
+          "title": "第45届法国夏至音乐节 - June 23, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/bf611bf897/b91bb146.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/bf611bf897/b91bb146.jpg"
+        },
+        {
+          "id": "idaily-253555",
+          "author": "美国 · 华盛顿特区",
+          "description": "美国总统 Donald Trump 在白宫签署促进量子计算产业发展的行政命令，华盛顿特区。6月22日，美国总统 Trump 签署行政令要求联邦政府与美国私营企业、学术机构合作推进量子计算机研发，目标在2028年实现科研级量子计算机的部署和商业应用，并2031年前开发出可抵御量子攻击的加密技术。美国商务部5月宣布拨款20亿美元投资9家量子计算公司，其中10亿美元将用于支持IBM旗下新公司建设超级计算机。摄影师：Mandel Ngan",
+          "link": "https://m.idai.ly/se/422cFF",
+          "publishedOn": "2026-06-23T08:58:00.000Z",
+          "wordCount": 276,
+          "title": "特朗普签署量子计算行政令 - June 23, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/ba52f3ccaa/b3db1781.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/ba52f3ccaa/b3db1781.jpg"
+        },
+        {
+          "id": "idaily-253554",
+          "author": "英国 · 伦敦",
+          "description": "英国首相 Keir Starmer 在唐宁街10号发表辞职声明，伦敦。6月22日，英国首相 Starmer 宣布辞去工党党首及首相职务，成为10年来第6位提前离任的英国首相。Starmer 在声明中暗示辞任是迫于执政党内部压力，他将在党内选出继任者后卸任首相。现年63岁的 Starmer 于2024年7月开始担任英国首相，任期内英国 GDP 增长约2.3%，在七国集团中位列第二。最新民调显示 Starmer 支持率仅为19%，62%英国人认为首相应该辞职。摄影师：Neil Hall",
+          "link": "https://m.idai.ly/se/dff4wu",
+          "publishedOn": "2026-06-23T07:57:00.000Z",
+          "wordCount": 276,
+          "title": "英国首相斯塔默宣布辞职 - June 23, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/1f0f5e47b4/6e1838b2.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/1f0f5e47b4/6e1838b2.jpg"
+        },
+        {
+          "id": "idaily-253553",
+          "author": "日本 · 东京",
+          "description": "东京证券交易所屏幕显示日元兑美元即时汇率，日本。6月22日，日元兑美元汇率触及1:161.93，逼近39年来低点，跌破日本央行4月下旬进行市场干预操作前的汇率水平。本轮日元贬值的主要原因为美联储加息预期升温，美日利率差预期将进一步扩大。日本财务大臣片山皋月当天与美国财政部长 Scott Bessent 就金融市场动向等议题举行线上会谈，会后重申美日双方「将在必要时采取果断措施」。摄影师：Misaki Uno",
+          "link": "https://m.idai.ly/se/2a49Bw",
+          "publishedOn": "2026-06-23T07:55:00.000Z",
+          "wordCount": 276,
+          "title": "日元兑美元汇率跌破161 - June 23, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/eb4d786261/e2cedcee.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/eb4d786261/e2cedcee.jpg"
+        },
+        {
+          "id": "idaily-253552",
+          "author": "中国 · 柳州",
+          "description": "广西珠江上游出现入汛以来首个洪峰水位，柳州市。6月22日，珠江最大干流西江迎来2026年第1号洪水。受强降雨及上游来水影响，广西9条河流14个水文站出现超警洪水，柳州水文站录得85.64米洪峰水位，超警戒线3.14米，全市渡口、水上公交及夜游船全线停航。气象部门预计6月23日晚上起当地将迎来新一轮持续性较强降雨，需持续做好各项次生灾害防御工作。摄影师：iDaily Media",
+          "link": "https://m.idai.ly/se/a87ZEI",
+          "publishedOn": "2026-06-23T07:53:00.000Z",
+          "wordCount": 276,
+          "title": "珠江2026年第1号洪水 - June 23, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/c3c10b87ab/85261ef2.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/c3c10b87ab/85261ef2.jpg"
+        },
+        {
+          "id": "idaily-253551",
+          "author": "意大利 · 罗马",
+          "description": "意大利罗马博尔盖塞美术馆举办「变形记：奥维德与艺术」主题展，一件法国雕塑家 Auguste Rodin 1908年作品《皮格马利翁与伽拉忒亚》正在展出。本次展览以罗马诗人奥维德的著作《变形记》为主题，探讨这部神话史诗对西方艺术的深远影响，共汇集约80件米开朗基罗、提香、鲁本斯、柯勒乔、普桑、布朗库西等知名艺术家的绘画和雕塑作品。展期持续至9月20日。摄影师：Roberto Serra",
+          "link": "https://m.idai.ly/se/d1eIlt",
+          "publishedOn": "2026-06-23T07:51:00.000Z",
+          "wordCount": 276,
+          "title": "罗马「变形记」主题展 - June 23, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/de1394bdd5/0f32465a.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/de1394bdd5/0f32465a.jpg"
+        },
+        {
+          "id": "idaily-253550",
+          "author": "委内瑞拉 · 马拉凯",
+          "description": "委内瑞拉德利西亚斯动物园，一对新出生的白狮幼崽双胞胎正在接受体检，马拉凯市。6月11日，德利西亚斯动物园宣布成功繁育2只白色非洲狮幼崽。这是该动物园7个月内迎来的第二窝白狮幼崽，父母分别为从非法贩运中解救的公狮「Sebastián」和母狮「Camatagua」。白狮是非洲狮的特殊变异品种，毛色由基因突变造成，目前绝大多数白狮生活在圈养环境，全球数量仅约100只。摄影师：Jacinto Oliveros",
+          "link": "https://m.idai.ly/se/1e7P5N",
+          "publishedOn": "2026-06-23T07:49:00.000Z",
+          "wordCount": 276,
+          "title": "委内瑞拉新生白狮双胞胎 - June 23, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/ef881a3b27/83a7dee8.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/ef881a3b27/83a7dee8.jpg"
+        },
         {
           "id": "idaily-253501",
           "author": "英国 · 威尔特郡",
@@ -7112,56 +7200,6 @@
           "wordCount": 1418,
           "title": "百万元豪华电动车、古法黄金：中国本土奢侈品崛起",
           "imageUrl": "https://static01.nyt.com/images/2026/05/13/multimedia/00biz-china-luxury-bqvp/00biz-china-luxury-bqvp-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/usa/20260525/strait-of-hormuz-reopen-iran-deal/dual",
-          "author": null,
-          "description": "DAVID E. SANGER, TYLER PAGER2026年5月25日自冲突爆发以来，霍尔木兹海峡一直是焦点所在。 Reuters\nThe temporary agreement that the Trump administration announced with Iran this weekend isn’t a peace deal. It isn’t a nuclear deal. It isn’t a missile deal.\n特朗普政府本周末宣布与伊朗达成的临时协议并非和平协议。它也不是核协议，更不是导弹协议。\nThose may yet come — perhaps in a few months, though a senior United States official said there was no agreed time limit for nuclear talks, or perhaps far longer if the history of negotiations with Iran holds. But for now, Mr. Trump has emerged with an arrangement that could extend a cease-fire and reopen the Strait of Hormuz, relieving the greatest energy disruption in modern times.\n这些协议或许终将到来——也许是数月之内，尽管一位美国高级官员表示核谈判并无商定的时间期限；如果参考美伊历史上的谈判经验，甚至可能需要更长时间。但就目前而言，特朗普得到的是一项有望延长停火并重新开放霍尔木兹海峡的安排，从而缓解现代史上最严重的能源危机。\nThe best news fro…",
-          "link": "https://cn.nytimes.com/usa/20260525/strait-of-hormuz-reopen-iran-deal/dual",
-          "publishedOn": "2026-05-25T06:06:02.000Z",
-          "wordCount": 1534,
-          "title": "霍尔木兹海峡有望重开，但特朗普的伊朗问题仍难解",
-          "imageUrl": "https://static01.nyt.com/images/2026/05/24/multimedia/24DC-IRAN-DEAL-cplf/24DC-IRAN-DEAL-cplf-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/business/20260525/what-is-naphtha/dual",
-          "author": null,
-          "description": "RIVER AKIRA DAVIS, HISAKO UENO2026年5月25日日本食品巨头卡乐比表示，由于石脑油短缺，该公司被迫将薯片的包装更换为黑白样式。 Eugene Hoshiko/Associated Press\nCountries in Asia are reeling from a shortage of naphtha, a petroleum derivative used in a dizzying array of products, from household plastic wrap to industrial inks and medical devices.\n亚洲各国正受到石脑油短缺的严重冲击。石脑油是一种石油衍生物，广泛应用于从家用塑料包装膜到工业油墨和医疗器械等种类繁多的产品中。\nEarly global alarm over the war in the Middle East centered on skyrocketing crude prices and gasoline spikes at the pump. But in East Asia, naphtha has emerged as the first major industrial disruption.\n全球对中东战争的担忧最初主要集中在飙升的原油价格和加油站暴涨的汽油价格上。但在东亚，石脑油已成为第一个重大工业扰动的源头。\nJapan and South Korea rely heavily on naphtha imported from Qatar and Kuwait, which are unable to export because of the more than two-month-long blockade of the Strait of Ho…",
-          "link": "https://cn.nytimes.com/business/20260525/what-is-naphtha/dual",
-          "publishedOn": "2026-05-25T03:06:02.000Z",
-          "wordCount": 1058,
-          "title": "东亚陷入“石油脑危机”：伊朗战事引发供应链冲击",
-          "imageUrl": "https://static01.nyt.com/images/2026/05/22/multimedia/Biz-Naptha-01-thpg/Biz-Naptha-01-thpg-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/usa/20260525/green-card-application-changes-trump/dual",
-          "author": null,
-          "description": "CHRISTINA MORALES2026年5月25日公民及移民服务局负责管理公民身份系统。 Shannon Stapleton/Reuters\nA new federal policy that could require thousands of immigrants to return to their home countries before petitioning for green cards has applicants and immigration lawyers scrambling to to understand how the change will affect the path to permanent residence.\n一项新的联邦政策或将要求成千上万移民先返回原籍国，才可递交绿卡申请。申请者与移民律师正急切地设法了解该变动会对永久居留申请流程造成何种影响。\nOn Friday, U.S. Citizenship and Immigration Services, the agency that oversees the green card system, said that only in “extraordinary circumstances” would people already in the United States be granted permanent residence. Otherwise, anyone seeking permanent U.S. residence would need to apply at an American consulate in their home country.\n上周五，负责监管绿卡系统的美国公民及移民服务局表示，只有在“特殊情况下”，才会批准已身处美国境内的申请人获…",
-          "link": "https://cn.nytimes.com/usa/20260525/green-card-application-changes-trump/dual",
-          "publishedOn": "2026-05-25T02:06:01.000Z",
-          "wordCount": 843,
-          "title": "美国绿卡申请流程突变引发困惑与焦虑",
-          "imageUrl": "https://static01.nyt.com/images/2026/05/24/multimedia/24nat-greencard-voices-jfbp/24nat-greencard-voices-jfbp-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/world/20260525/trump-rubio-india-china/dual",
-          "author": null,
-          "description": "黄安伟2026年5月25日特朗普总统希望与习近平建立伙伴关系，这一愿望使得国务卿鲁比奥不得不向印度领导人解释特朗普的亚洲愿景。 Pool photo by Kenny Holston\nBetween the military honor guard, flag-waving schoolchildren and state banquet in Beijing last week, President Trump found time to lavish praise on Xi Jinping, the head of the Chinese Communist Party, calling him “a great leader” and “a friend.”\n上周在北京，特朗普总统在检阅仪仗队、接受挥舞国旗的学童列队欢迎以及出席国宴等一系列活动的间隙，对中共领导人习近平不吝赞美之词，称其为“伟大领导人”和“朋友”。\nThe two men, Mr. Trump said, would “have a fantastic future together.”\n特朗普表示，双方将“开创两国更加美好的未来”。\nMr. Trump flew home without stopping anywhere else in Asia. In interviews during and after the trip, he made no reassuring remarks on U.S. allies or partners in the region. He did say, however, that he would revisit arms sales to Taiwan, a comment that has stirred anxiety across Asia an…",
-          "link": "https://cn.nytimes.com/world/20260525/trump-rubio-india-china/dual",
-          "publishedOn": "2026-05-25T01:36:02.000Z",
-          "wordCount": 1626,
-          "title": "特朗普向中国示好引发印度担忧",
-          "imageUrl": "https://static01.nyt.com/images/2026/05/23/multimedia/23dc-trump-asia-jtqm/23dc-trump-asia-jtqm-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/china/20260525/xi-coal-mine-explosion-rescue/dual",
-          "author": null,
-          "description": "CATIE EDMONDSON2026年5月25日周六，救援人员在中国山西省留神峪煤矿发生致命爆炸的现场进行救援。 Cnsphoto, via Reuters\nChina’s top leader, Xi Jinping, called on Saturday for a redoubled rescue mission in northern China after a gas explosion in a mine there killed at least 82 people, the Chinese state news agency said, in what appeared to be one of the deadliest Chinese mining disasters in years.\n据中国官方通讯社报道，在该国北方一座煤矿发生瓦斯爆炸、造成至少82人遇难后，最高领导人习近平周六作出指示，要求加大救援力度。此次事故似乎是近年来中国最严重的矿难之一。\nMr. Xi “stressed the need to make every effort to treat the injured, organize search and rescue operations scientifically and properly handle the aftermath,” the agency, Xinhua, reported. He also called for an investigation into the explosion, which happened Friday night, and emphasized the need to “hold those responsible to account, according to the law…",
-          "link": "https://cn.nytimes.com/china/20260525/xi-coal-mine-explosion-rescue/dual",
-          "publishedOn": "2026-05-25T00:06:02.000Z",
-          "wordCount": 805,
-          "title": "山西煤矿爆炸事故已致82人死亡，仍有人下落不明",
-          "imageUrl": "https://static01.nyt.com/images/2026/05/23/multimedia/23int-china-mine-new-wcjf/23int-china-mine-new-wcjf-articleLarge.jpg"
         }
       ]
     },
@@ -7888,36 +7926,6 @@
           "publishedOn": "2026-05-27T02:05:00.000Z",
           "wordCount": 306,
           "title": "亲密关系中的“PUA”，法律如何回应？｜对话李莹",
-          "imageUrl": null
-        },
-        {
-          "id": "861d97167cd69baf6c6852f35323a843",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E5%A6%82%E4%BD%95%E5%9C%A8%E7%90%86%E6%80%A7%E5%85%B1%E5%90%8C%E4%BD%93%E4%B8%AD%E5%AE%A1%E6%85%8E%E5%9C%B0%E5%AE%9E%E7%8E%B0%E8%87%AA%E7%94%B1%EF%BC%9F%E2%80%94%E2%80%94%E9%BB%91%E6%A0%BC%E5%B0%94%E6%B3%95%E5%93%B2%E5%AD%A6%E7%9A%84%E6%B7%B1%E5%B1%82%E5%85%B3%E5%88%87",
-          "publishedOn": "2026-05-25T02:39:00.000Z",
-          "wordCount": 288,
-          "title": "如何在理性共同体中审慎地实现自由？——黑格尔法哲学的深层关切",
-          "imageUrl": null
-        },
-        {
-          "id": "4b74e5f7b39cd4135919dde663dd8986",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E8%96%9B%E5%BA%86%E5%9B%BD%EF%BC%9A%E5%A4%A7%E9%83%A8%E5%88%86%E9%98%BF%E6%8B%89%E4%BC%AF%E9%9D%92%E5%B9%B4%E8%AF%97%E4%BA%BA%E7%9A%84%E4%BD%9C%E5%93%81%EF%BC%8C%E4%BD%93%E7%8E%B0%E5%87%BA%E5%AF%B9%E2%80%9C%E7%8E%B0%E4%BB%A3%E6%80%A7%E2%80%9D%E7%9A%84%E8%BF%BD%E6%B1%82",
-          "publishedOn": "2026-05-25T02:39:00.000Z",
-          "wordCount": 312,
-          "title": "薛庆国：大部分阿拉伯青年诗人的作品，体现出对“现代性”的追求",
-          "imageUrl": null
-        },
-        {
-          "id": "3cbb9d283a2f24e81b8d3fd8e61a5381",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E5%AF%B9%E8%AF%9D%E7%8E%8B%E8%8A%B3%EF%BC%9A%E5%9C%A8%E4%BB%8A%E5%A4%A9%EF%BC%8C%E5%A6%82%E4%BD%95%E5%81%9A%E4%B8%80%E4%B8%AA%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7%E7%9A%84%E4%BA%BA%EF%BC%9F",
-          "publishedOn": "2026-05-25T02:39:00.000Z",
-          "wordCount": 256,
-          "title": "对话王芳：在今天，如何做一个心理健康的人？",
           "imageUrl": null
         }
       ]
