@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mananchong.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-27T17:39:01.655Z</updated>
+    <updated>2026-06-28T10:12:40.567Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mananchong.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://mananchong.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[兜兜转转四款笔记软件，我终于为思考找到了安身之所]]></title>
+        <id>https://sspai.com/post/110935</id>
+        <link href="https://sspai.com/post/110935"/>
+        <updated>2026-06-28T07:00:12.000Z</updated>
+        <summary type="html"><![CDATA[Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文]]></summary>
+        <author>
+            <name>蔡箜篌</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[俄西双城游记：莫斯科时代折叠，圣彼得堡文化巡礼]]></title>
         <id>https://sspai.com/post/111347</id>
@@ -114,6 +124,33 @@
         <summary type="html"><![CDATA[缅甸禁毒部门举行毒品集中销毁活动，仰光。6月26日是联合国设立的「禁止药物滥用和非法贩运国际日」，缅甸禁毒部门当天在仰光、曼德勒和掸邦地区举行毒品销毁活动，共销毁31种、27种和93种毒品及易制毒化学品，包括海洛因、鸦片、冰毒和大麻等类别。联合国《2026年世界毒品报告》数据显示，2024年全球约有3.31亿人使用过毒品，占全球15岁至64岁人口的6.2%，比10年前提高1个百分点。摄影师：Sai Aung Main]]></summary>
         <author>
             <name>缅甸 · 仰光</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[杜甫访邻：邻居们很有情味，因为他自己就是有情味的人丨周末读诗]]></title>
+        <id>ad87d8560ea59641193d9a8bf41db8ae</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E6%9D%9C%E7%94%AB%E8%AE%BF%E9%82%BB%EF%BC%9A%E9%82%BB%E5%B1%85%E4%BB%AC%E5%BE%88%E6%9C%89%E6%83%85%E5%91%B3%EF%BC%8C%E5%9B%A0%E4%B8%BA%E4%BB%96%E8%87%AA%E5%B7%B1%E5%B0%B1%E6%98%AF%E6%9C%89%E6%83%85%E5%91%B3%E7%9A%84%E4%BA%BA%E4%B8%A8%E5%91%A8%E6%9C%AB%E8%AF%BB%E8%AF%97"/>
+        <updated>2026-06-27T02:08:00.000Z</updated>
+        <author>
+            <name>新京报书评周刊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[叹早茶、食宵夜、打边炉、老火靓汤：一炉一鲜里的岭南烟火]]></title>
+        <id>64257aa99d9ad054a9949c11d7cdeb04</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E5%8F%B9%E6%97%A9%E8%8C%B6%E3%80%81%E9%A3%9F%E5%AE%B5%E5%A4%9C%E3%80%81%E6%89%93%E8%BE%B9%E7%82%89%E3%80%81%E8%80%81%E7%81%AB%E9%9D%93%E6%B1%A4%EF%BC%9A%E4%B8%80%E7%82%89%E4%B8%80%E9%B2%9C%E9%87%8C%E7%9A%84%E5%B2%AD%E5%8D%97%E7%83%9F%E7%81%AB"/>
+        <updated>2026-06-27T02:08:00.000Z</updated>
+        <author>
+            <name>新京报书评周刊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[童子的童诗：时间先生不在家]]></title>
+        <id>f60a9406dc8f638f0b748505ee6f555d</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E7%AB%A5%E5%AD%90%E7%9A%84%E7%AB%A5%E8%AF%97%EF%BC%9A%E6%97%B6%E9%97%B4%E5%85%88%E7%94%9F%E4%B8%8D%E5%9C%A8%E5%AE%B6"/>
+        <updated>2026-06-27T02:08:00.000Z</updated>
+        <author>
+            <name>新京报书评周刊</name>
         </author>
     </entry>
     <entry>
@@ -7543,221 +7580,6 @@ The expulsion order in February of the Times reporter, Vivian Wang, is the lates
         <summary type="html"><![CDATA[贝鲁特南部一处居民区遭到以色列空袭，黎巴嫩。5月29日，以色列国防军对黎巴嫩南部发动新一轮空袭，造成至少14人死亡。以色列总理 Benjamin Netanyahu 当天宣布以军已穿越距离以黎边境约30公里的利塔尼河，将继续深入黎巴嫩境内扩大地面攻势。当天以色列和黎巴嫩代表在美国华盛顿特区举行新一轮停火谈判，但未能达成协议。黎巴嫩卫生部通报自3月2日黎以冲突升级以来，以色列袭击已造成黎巴嫩3355人死亡，10095人受伤。摄影师：Ibrahim Amro]]></summary>
         <author>
             <name>黎巴嫩 · 贝鲁特</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[James Talarico’s Nonbinary Political Campaign]]></title>
-        <id>https://www.nationalreview.com/?p=1970354</id>
-        <link href="https://www.nationalreview.com/2026/05/james-talaricos-nonbinary-political-campaign/"/>
-        <updated>2026-05-29T17:52:00.000Z</updated>
-        <summary type="html"><![CDATA[The Senate candidate is now backpedaling on statements about the nature of God, the number of sexes, and more.]]></summary>
-        <author>
-            <name>Rich Lowry</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Cuban Dream Dies by Cuban Hands]]></title>
-        <id>https://www.nationalreview.com/?p=1970326</id>
-        <link href="https://www.nationalreview.com/2026/05/the-cuban-dream-dies-by-cuban-hands/"/>
-        <updated>2026-05-29T17:19:55.000Z</updated>
-        <summary type="html"><![CDATA[Only the revolution’s true believers can still contend with a straight face that the island’s problems have been imposed on them by the United States.]]></summary>
-        <author>
-            <name>Noah Rothman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Carroll–Hoffman Lawfare Mess]]></title>
-        <id>https://www.nationalreview.com/?p=1970251</id>
-        <link href="https://www.nationalreview.com/2026/05/the-carroll-hoffman-lawfare-mess/"/>
-        <updated>2026-05-29T15:10:23.000Z</updated>
-        <summary type="html"><![CDATA[The Trump DOJ clarified that E. Jean Carroll is not under investigation, though Dem donor Reid Hoffman might be.]]></summary>
-        <author>
-            <name>Andrew C. McCarthy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mamdani’s Plan to Socialize Housing]]></title>
-        <id>https://www.nationalreview.com/?p=1970010</id>
-        <link href="https://www.nationalreview.com/2026/05/mamdanis-plan-to-socialize-housing/"/>
-        <updated>2026-05-29T10:30:58.000Z</updated>
-        <summary type="html"><![CDATA[The mayor wants government to conquer the New York City real estate market.]]></summary>
-        <author>
-            <name>The Editors</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fusionism: Frank Meyer’s Big Idea]]></title>
-        <id>https://www.nationalreview.com/?p=1969691</id>
-        <link href="https://www.nationalreview.com/2026/05/fusionism-frank-meyers-big-idea/"/>
-        <updated>2026-05-29T10:30:44.000Z</updated>
-        <summary type="html"><![CDATA[Will today’s conservatives look to the fusionist founding father for how to fill the theory vacuum?]]></summary>
-        <author>
-            <name>Daniel J. Flynn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Week: Deal or No Deal?]]></title>
-        <id>https://www.nationalreview.com/?p=1969993</id>
-        <link href="https://www.nationalreview.com/2026/05/the-week-deal-or-no-deal/"/>
-        <updated>2026-05-29T10:30:42.000Z</updated>
-        <summary type="html"><![CDATA[Plus: The DNC’s humiliating autopsy.]]></summary>
-        <author>
-            <name>NR Editors</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Does James Talarico Realize He’s Running to Represent Texas?]]></title>
-        <id>https://www.nationalreview.com/?p=1969668</id>
-        <link href="https://www.nationalreview.com/2026/05/does-james-talarico-realize-hes-running-to-represent-texas/"/>
-        <updated>2026-05-29T10:30:36.000Z</updated>
-        <summary type="html"><![CDATA[It sure doesn’t seem like it.]]></summary>
-        <author>
-            <name>Caroline Downey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adventures in Spielberging]]></title>
-        <id>https://www.nationalreview.com/?p=1969791</id>
-        <link href="https://www.nationalreview.com/2026/05/adventures-in-spielberging/"/>
-        <updated>2026-05-29T10:30:20.000Z</updated>
-        <summary type="html"><![CDATA[The ‘community’ fallacy corrupts a popular artist.]]></summary>
-        <author>
-            <name>Armond White</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[本周看什么 | 最近值得一看的 8 部作品]]></title>
-        <id>https://sspai.com/post/110446</id>
-        <link href="https://sspai.com/post/110446"/>
-        <updated>2026-05-29T10:12:15.000Z</updated>
-        <summary type="html"><![CDATA[📅本周新预告《玩具总动员5》终极预告5月26日，皮克斯动画电影《玩具总动员5》发布了终极预告，将于6月19日内地上映。安德鲁·斯坦顿、麦肯纳·哈里斯执导，胡迪、巴斯光年、翠丝等老朋友们回归，无所不能的 ...查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄罗斯宇航员太空行走 - May 29, 2026]]></title>
-        <id>idaily-252164</id>
-        <link href="https://m.idai.ly/se/16af9f"/>
-        <updated>2026-05-29T09:59:00.000Z</updated>
-        <summary type="html"><![CDATA[俄罗斯宇航员 Sergei Mikaev 正在检查「进步号」货运飞船的自动对接模块，国际空间站。5月27日，俄罗斯宇航员 Sergey Kud-Sverchkov 和 Sergei Mikaev 一同执行太空行走任务，共耗时6小时5分钟，成功完成「进步号」货运飞船对接模块故障检查、「太阳-太赫兹」（Sun-THz）射电望远镜安装以及舱外实验盒回收工作。新安装的射电望远镜由俄罗斯科学院研制，重约50公斤，主要用于监测太阳耀斑活动，设计使用寿命2年。摄影师：NASA]]></summary>
-        <author>
-            <name>国际空间站</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[住久了没意思（三）：打造能好好放松的卧室]]></title>
-        <id>https://sspai.com/prime/story/how-to-renovate-a-rental-bedroom</id>
-        <link href="https://sspai.com/prime/story/how-to-renovate-a-rental-bedroom"/>
-        <updated>2026-05-29T09:20:56.000Z</updated>
-        <summary type="html"><![CDATA[前文回顾：租房常见问题与我的改造原则从有光的地方开始动手对大部分人来说，卧室可能是在家里待得最长时间的区域。除了每天睡觉，周末可能也会花很多时间赖在卧室；如果家里比较小，卧室还可能承担休闲和娱乐的功能 ...查看全文
-本文为会员文章，出自《单篇文章》，订阅后可阅读全文。]]></summary>
-        <author>
-            <name>程天冲</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[法国破纪录5月高温 - May 29, 2026]]></title>
-        <id>idaily-252163</id>
-        <link href="https://m.idai.ly/se/bd0c7o"/>
-        <updated>2026-05-29T08:58:00.000Z</updated>
-        <summary type="html"><![CDATA[一对新人在埃菲尔铁塔前拍摄婚纱照，巴黎。5月28日，法国气象局对17个省份发布高温橙色预警，西部城市昂古莱姆气温达到37.8℃，创下法国5月最高气温纪录。欧洲本轮极端高温天气主要受大气「热穹顶」效应与北非暖空气滞留影响，英国、法国、葡萄牙、意大利、西班牙、德国、瑞士等多国均遭遇异常高温，预计热浪将持续至本周末。欧盟哥白尼气候中心数据显示，过去30年欧洲平均气温累计上升1.68°C，超过全球平均增幅的2倍。摄影师：Simon Wohlfahrt]]></summary>
-        <author>
-            <name>法国 · 巴黎</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特朗普250美元纸币设计稿 - May 29, 2026]]></title>
-        <id>idaily-252162</id>
-        <link href="https://m.idai.ly/se/592x50"/>
-        <updated>2026-05-29T07:57:00.000Z</updated>
-        <summary type="html"><![CDATA[美国财政部长 Scott Bessent 展示一张印有现任美国总统 Donald Trump 肖像的250美元纪念钞设计图，华盛顿特区。5月28日，美国财政部长 Bessent 在白宫新闻发布会上宣布美国建国250周年纪念钞已设计完成，正在等待国会授权发行。美国现行法律禁止在纸币上印制在世人士肖像，因此国会必须通过一项法案以「豁免」该纪念钞的发行。如果法案获得通过，该纪念钞将成为美国面值最大的流通纸币。美国联邦储备系统发布数据显示2025年底全世界共有556亿张美钞在市面流通，总价值为2.3949万亿美元。摄影师：Tom Williams]]></summary>
-        <author>
-            <name>美国 · 华盛顿特区</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[普京访问哈萨克斯坦 - May 29, 2026]]></title>
-        <id>idaily-252161</id>
-        <link href="https://m.idai.ly/se/340o6T"/>
-        <updated>2026-05-29T07:55:00.000Z</updated>
-        <summary type="html"><![CDATA[哈萨克斯坦总统 Kassym-Jomart Tokayev 亲赴机场迎接到访的俄罗斯总统 Vladimir Putin，阿斯塔纳。5月27日，俄罗斯总统 Putin 对哈萨克斯坦进行为期3天国事访问，主要行程包括会晤哈萨克斯坦总统、出席欧洲经济论坛全体会议等。俄哈两国领导人就双边关系、经贸合作、国际及地区局势等议题交换意见，见证签署涵盖能源、交通、金融、教育等领域的15份合作文件。俄方宣布将协助哈萨克斯坦建造该国首座核电站，预计投资总额165亿美元，2027年启动建设，2034年正式投入运行。摄影师：Alexander Shcherbak]]></summary>
-        <author>
-            <name>哈萨克斯坦 · 阿斯塔纳</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国空军学院毕业典礼 - May 29, 2026]]></title>
-        <id>idaily-252160</id>
-        <link href="https://m.idai.ly/se/f77uuV"/>
-        <updated>2026-05-29T07:53:00.000Z</updated>
-        <summary type="html"><![CDATA[美国空军学院毕业典礼，新一届毕业生将帽子抛向空中庆祝，科罗拉多州。5月28日，美国空军学院2026级共931名学生毕业，其中805人将进入美国空军服役，94人加入太空军部队。美国副总统 JD Vance 出席毕业典礼并发表演讲，他强调人工智能将重塑现代战争，但是人类决策不能被机器替代，敦促毕业生们效忠国家，捍卫美国和人民的自由与安全。美国空军2026财年计划招募1500名新兵，总兵力规模达到32万人；太空军将扩充600名兵力至1.04万人。摄影师：Michael Ciaglo]]></summary>
-        <author>
-            <name>美国 · 科罗拉多州</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[菲律宾总统日本国会演讲 - May 29, 2026]]></title>
-        <id>idaily-252159</id>
-        <link href="https://m.idai.ly/se/8dd3ty"/>
-        <updated>2026-05-29T07:51:00.000Z</updated>
-        <summary type="html"><![CDATA[菲律宾总统 Ferdinand Marcos Jr. 在日本国会发表演讲，东京。5月28日，日本和菲律宾两国领导人就双边关系、国际及地区局势等议题举行约1小时会谈，会后发表联合声明并签署6份合作文件。双方宣布将日菲关系提升至「全面战略伙伴关系」，同意正式启动《军事情报保护协定》（GSOMIA）谈判，加强关键矿产、半导体、可再生能源等领域合作。日菲联合声明对东海和中国南海局势表示严重关切，坚决反对任何单方面以武力或胁迫手段改变现状的企图。摄影师：Kazuhiro Nogi]]></summary>
-        <author>
-            <name>日本 · 东京</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[西班牙第3台量子计算机 - May 29, 2026]]></title>
-        <id>idaily-252156</id>
-        <link href="https://m.idai.ly/se/90bXaT"/>
-        <updated>2026-05-29T07:49:00.000Z</updated>
-        <summary type="html"><![CDATA[西班牙巴塞罗那超级计算中心展示新安装的「EuroQCS-Spain」量子计算机。5月28日，巴塞罗那超级计算中心（BSC）正式公布该机构第3台量子计算机「EuroQCS-Spain」。这台量子计算机由西班牙乞力马扎罗量子科技公司设计制造，造价为980万欧元，运行逻辑基于量子退火技术，首期部署运算能力达10量子比特，未来将向欧洲科研机构、企业和公共部门开放使用。摄影师：Enric Fontcuberta]]></summary>
-        <author>
-            <name>西班牙 · 巴塞罗那</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米兰波莫多罗回顾展 - May 29, 2026]]></title>
-        <id>idaily-252155</id>
-        <link href="https://m.idai.ly/se/fd6Nw5"/>
-        <updated>2026-05-29T07:47:00.000Z</updated>
-        <summary type="html"><![CDATA[意大利美术馆举办「阿尔纳尔多·波莫多罗：一生」大型回顾展，米兰。Arnaldo Pomodoro 擅长在作品中以裂缝和破损结构表现人类文明的脆弱与复杂性，其标志性作品被全球多个著名博物馆和城市公共空间收藏。本次展览追溯 Arnaldo Pomodoro 从20世纪50年代至21世纪初长达六十余年的艺术生涯，共展出约45件作品，展期持续至10月18日。摄影师：Daniel Dal Zennaro]]></summary>
-        <author>
-            <name>意大利 · 米兰</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[东京人形机器人峰会 - May 29, 2026]]></title>
-        <id>idaily-252153</id>
-        <link href="https://m.idai.ly/se/ccfTBk"/>
-        <updated>2026-05-29T07:45:00.000Z</updated>
-        <summary type="html"><![CDATA[2026东京人形机器人峰会（Humanoids Summit Tokyo），一台中国公司研发的人形机器人正在进行舞蹈表演，日本。5月28日，第4届东京人形机器人峰会开幕，展期持续2天，共吸引来自30个国家的2000名行业人士和300家企业参展。国际数据公司（IDC）报告显示，2025年全球人形机器人出货量约1.8万台，较2024年增加5倍以上，市场收入达4.4亿美元，主要应用领域包括表演、教育、数据收集和导游服务，预计2030年全球人形机器人年出货量将超过51万台。摄影师：Kazuhiro Nogi]]></summary>
-        <author>
-            <name>日本 · 东京</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Await：五分钟，把点子变成 iPhone 小组件]]></title>
-        <id>https://sspai.com/post/110106</id>
-        <link href="https://sspai.com/post/110106"/>
-        <updated>2026-05-29T07:00:28.000Z</updated>
-        <summary type="html"><![CDATA[我希望 Await 最后留下的，是一种更轻的创作入口：不必很大，但足够好看和好玩，也足够贴近自己每天使用手机的方式。查看全文]]></summary>
-        <author>
-            <name>maundytime</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthropic估值超OpenAI，成全球最“贵”AI初创公司]]></title>
-        <id>https://cn.nytimes.com/business/20260529/anthropic-tops-openai-valuation/dual</id>
-        <link href="https://cn.nytimes.com/business/20260529/anthropic-tops-openai-valuation/dual"/>
-        <updated>2026-05-29T06:06:02.000Z</updated>
-        <summary type="html"><![CDATA[MIKE ISAAC, CADE METZ2026年5月29日Anthropic的最新模型Claude Opus 4.8特别擅长氛围编码，即人工智能根据口语化英语提示词编写代码的过程。 Jason Henry for The New York Times
-Anthropic, once the lesser-known artificial intelligence competitor to OpenAI, has been on an inexorable rise over the past few months.
-曾几何时，Anthropic还是OpenAI的一个名气较小的人工智能竞争对手，但在过去几个月里，该公司的崛起势不可挡。
-The San Francisco company recently dueled with the Pentagon over the use of A.I. in warfare. It released a powerful A.I. model, Mythos, that it said was uncannily capable of finding and exploiting hidden flaws in software. And the company advised Pope Leo XIV on his papal encyclical delivered on Monday, in which he warned about safeguarding humanity from A.I.’s most disruptive effects.
-这家总部位于旧金山的公司最近因在战争中使用人工智能的问题与五角大楼发生冲突。它发布了一款强大的人工智能模型Mythos，并宣称该模型在发现和利用软件中隐藏的缺陷方面具有不可思…]]></summary>
-        <author>
-            <name>纽约时报双语版</name>
         </author>
     </entry>
 </feed>
