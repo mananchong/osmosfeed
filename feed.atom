@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mananchong.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-04T17:35:19.066Z</updated>
+    <updated>2026-07-05T09:54:25.922Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mananchong.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://mananchong.github.io/osmosfeed/feed.atom"/>
@@ -174,6 +174,42 @@
         <summary type="html"><![CDATA[德国萨克森州一家鸟类救助中心，工作人员正在给一只跌落巢穴的雨燕（Swift）幼鸟喂食。德国在6月底迎来破纪录高温天气，持续热浪天气导致鸟巢内部温度接近60℃，幼鸟为躲避高温而从巢穴跌落受伤的现象大幅上升。柏林、巴伐利亚州、萨克森州等地的鸟类救助中心均已达到收容上限。摄影师：Katrin Mädler]]></summary>
         <author>
             <name>德国 · 巴特埃尔斯特</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新京雅集——《中国茶叶全书》]]></title>
+        <id>801ca2aa8b6889a391c5977c1a3826e8</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E6%96%B0%E4%BA%AC%E9%9B%85%E9%9B%86%E2%80%94%E2%80%94%E3%80%8A%E4%B8%AD%E5%9B%BD%E8%8C%B6%E5%8F%B6%E5%85%A8%E4%B9%A6%E3%80%8B"/>
+        <updated>2026-07-04T01:47:00.000Z</updated>
+        <author>
+            <name>新京报书评周刊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[罗伯特·瓦尔泽：一个献身文学的人，最终消失进疗养院里……]]></title>
+        <id>13e3ab6a48f8baa647f95d0e882348aa</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E7%BD%97%E4%BC%AF%E7%89%B9%C2%B7%E7%93%A6%E5%B0%94%E6%B3%BD%EF%BC%9A%E4%B8%80%E4%B8%AA%E7%8C%AE%E8%BA%AB%E6%96%87%E5%AD%A6%E7%9A%84%E4%BA%BA%EF%BC%8C%E6%9C%80%E7%BB%88%E6%B6%88%E5%A4%B1%E8%BF%9B%E7%96%97%E5%85%BB%E9%99%A2%E9%87%8C%E2%80%A6%E2%80%A6"/>
+        <updated>2026-07-04T01:47:00.000Z</updated>
+        <author>
+            <name>新京报书评周刊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[金·阿多尼兹奥：悲惨童年的哀歌跟随一生丨诗人读诗㊸]]></title>
+        <id>ff7a8e7da7b2260ccd75bdc0d9d753ac</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E9%87%91%C2%B7%E9%98%BF%E5%A4%9A%E5%B0%BC%E5%85%B9%E5%A5%A5%EF%BC%9A%E6%82%B2%E6%83%A8%E7%AB%A5%E5%B9%B4%E7%9A%84%E5%93%80%E6%AD%8C%E8%B7%9F%E9%9A%8F%E4%B8%80%E7%94%9F%E4%B8%A8%E8%AF%97%E4%BA%BA%E8%AF%BB%E8%AF%97%E3%8A%B8"/>
+        <updated>2026-07-04T01:47:00.000Z</updated>
+        <author>
+            <name>新京报书评周刊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[古人对星空认知的起点是什么？]]></title>
+        <id>d815f4890725f77324dbf385f87a506d</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E5%8F%A4%E4%BA%BA%E5%AF%B9%E6%98%9F%E7%A9%BA%E8%AE%A4%E7%9F%A5%E7%9A%84%E8%B5%B7%E7%82%B9%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F"/>
+        <updated>2026-07-04T01:47:00.000Z</updated>
+        <author>
+            <name>新京报书评周刊</name>
         </author>
     </entry>
     <entry>
@@ -7920,207 +7956,6 @@ OpenAI 与美国政府商讨捐赠股权
         <updated>2026-06-06T01:54:00.000Z</updated>
         <author>
             <name>新京报书评周刊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[It Will Be Hard for Democrats to Replace Graham Platner]]></title>
-        <id>https://www.nationalreview.com/?p=1973970</id>
-        <link href="https://www.nationalreview.com/2026/06/it-will-be-hard-for-democrats-to-replace-graham-platner/"/>
-        <updated>2026-06-05T17:07:25.000Z</updated>
-        <summary type="html"><![CDATA[Pulling a Biden or Torricelli swap will not be that easy.]]></summary>
-        <author>
-            <name>Dan McLaughlin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Three Faces of Betrayal in <i>Power Ballad</i>]]></title>
-        <id>https://www.nationalreview.com/?p=1973283</id>
-        <link href="https://www.nationalreview.com/2026/06/the-three-faces-of-betrayal-in-power-ballad/"/>
-        <updated>2026-06-05T10:30:50.000Z</updated>
-        <summary type="html"><![CDATA[Form and feeling set modern morality to music.]]></summary>
-        <author>
-            <name>Armond White</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Remove Bill Pulte]]></title>
-        <id>https://www.nationalreview.com/?p=1973609</id>
-        <link href="https://www.nationalreview.com/2026/06/remove-bill-pulte/"/>
-        <updated>2026-06-05T10:30:32.000Z</updated>
-        <summary type="html"><![CDATA[A top national security position shouldn’t be treated like a political prize.]]></summary>
-        <author>
-            <name>The Editors</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A D-Day Model of Leadership America Should Seek to Follow]]></title>
-        <id>https://www.nationalreview.com/?p=1973538</id>
-        <link href="https://www.nationalreview.com/2026/06/a-d-day-model-of-leadership-america-should-seek-to-follow/"/>
-        <updated>2026-06-05T10:30:31.000Z</updated>
-        <summary type="html"><![CDATA[General Eisenhower’s words provide a good example to emulate in our next 250 years.]]></summary>
-        <author>
-            <name>James H. McGee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Freedom Is Worth the Risk]]></title>
-        <id>https://www.nationalreview.com/?p=1972144</id>
-        <link href="https://www.nationalreview.com/2026/06/freedom-is-worth-the-risk/"/>
-        <updated>2026-06-05T10:30:23.000Z</updated>
-        <summary type="html"><![CDATA[The free society is worth defending because the human person is worth defending.]]></summary>
-        <author>
-            <name>David L. Bahnsen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Week: The Radical Primary Season]]></title>
-        <id>https://www.nationalreview.com/?p=1973648</id>
-        <link href="https://www.nationalreview.com/2026/06/the-week-the-radical-primary-season/"/>
-        <updated>2026-06-05T10:30:14.000Z</updated>
-        <summary type="html"><![CDATA[Plus: Jill Biden’s historical fantasies.]]></summary>
-        <author>
-            <name>NR Editors</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Unsung Hede Massing]]></title>
-        <id>https://www.nationalreview.com/?p=1972660</id>
-        <link href="https://www.nationalreview.com/2026/06/the-unsung-hede-massing/"/>
-        <updated>2026-06-05T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[You may not know the communist-turned-ex-communist actress’s name, but her story is worth knowing.]]></summary>
-        <author>
-            <name>Daniel J. Flynn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[本周看什么 | 最近值得一看的 8 部作品]]></title>
-        <id>https://sspai.com/post/110786</id>
-        <link href="https://sspai.com/post/110786"/>
-        <updated>2026-06-05T10:19:28.000Z</updated>
-        <summary type="html"><![CDATA[📅本周新预告《逃出绝命街》正式预告6月1日，电影《逃出绝命街》发布了正式预告，将于8月14日在北美上映。大卫·罗伯特·米切尔执导，J·J·艾布拉姆斯制片，安妮·海瑟薇、伊万·麦克格雷格主演，一场雷暴之 ...查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[macOS 存储管理漫谈：去重是节约空间的最好方法]]></title>
-        <id>https://sspai.com/prime/story/macos-storage-management-deduplication</id>
-        <link href="https://sspai.com/prime/story/macos-storage-management-deduplication"/>
-        <updated>2026-06-05T10:00:12.000Z</updated>
-        <summary type="html"><![CDATA[虽然最近各种用LLM帮忙整理电脑里的文件、删除垃圾数据的帖子很火，但我天然对这种LLM用法抱有一丝警惕，我始终相信电脑里存在的文件都有自己的意义。所以我就想在这篇文章里和大家聊聊macOS里的存储管理 ...查看全文
-本文为会员文章，出自《单篇文章》，订阅后可阅读全文。]]></summary>
-        <author>
-            <name>广陵止息</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[安理会非常任理事国选举 - June 5, 2026]]></title>
-        <id>idaily-252505</id>
-        <link href="https://m.idai.ly/se/c9aZ4Q"/>
-        <updated>2026-06-05T09:59:00.000Z</updated>
-        <summary type="html"><![CDATA[联合国大会举行安理会非常任理事国选举，纽约。6月3日，联合国大会以无记名投票方式选举奥地利、葡萄牙、特立尼达和多巴哥、津巴布韦、吉尔吉斯斯坦5国为2027年至2028年安理会非常任理事国，其中吉尔吉斯斯坦为首次当选。安理会是联合国唯一有权作出具法律约束力决议的机构，共设置15个席位，其中5个为常任理事国，10个为非常任理事国，非常任理事国每年改选5个，不能连任，席位按地区分配。摄影师：Michael Kappeler]]></summary>
-        <author>
-            <name>美国 · 纽约</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特朗普简化联邦解雇程序 - June 5, 2026]]></title>
-        <id>idaily-252504</id>
-        <link href="https://m.idai.ly/se/22d8aZ"/>
-        <updated>2026-06-05T08:58:00.000Z</updated>
-        <summary type="html"><![CDATA[美国总统 Donald Trump 在白宫签署「加强联邦雇员问责制」行政命令，华盛顿特区。6月3日，美国总统 Trump 签署一项旨在简化联邦雇员解雇流程的行政令，这份行政令规定政府机构能够以「绩效不佳、行为不端、腐败或破坏总统指令」等理由直接解雇高级雇员，预计将影响约8000名高级职位政府工作人员，包括联邦机构主任、副主任、幕僚长、高级顾问和政策分析师等。Trump 本届任期迄今已累计裁减超过30万名联邦雇员，约占政府雇员总人数的12%。最新民调显示 Trump 支持率已跌至35%，创下任内新低。摄影师：Shawn Thew]]></summary>
-        <author>
-            <name>美国 · 华盛顿特区</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[31 位普通人，给一只背包开出了成绩单]]></title>
-        <id>https://sspai.com/post/110666</id>
-        <link href="https://sspai.com/post/110666"/>
-        <updated>2026-06-05T08:55:39.000Z</updated>
-        <summary type="html"><![CDATA[写在前面一只背包，能不能让你体面地背去客户的会议室，也能陪你参加朋友聚会？装下两三天的差旅行李之后，它还能让你背得轻松吗？当包里同时塞着笔记本、平板和各种重设备，容量、舒适与防护，究竟能不能兼得？带着 ...查看全文]]></summary>
-        <author>
-            <name>听歌的水獭</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国新能源车出口加拿大 - June 5, 2026]]></title>
-        <id>idaily-252503</id>
-        <link href="https://m.idai.ly/se/06dp8Z"/>
-        <updated>2026-06-05T07:57:00.000Z</updated>
-        <summary type="html"><![CDATA[一艘运载中国制造新能源汽车的滚装货轮抵达加拿大温哥华港口。6月1日，加拿大全球事务部公布数据显示，2026年5月共有2910辆中国制造新能源汽车根据关税配额协议进入加拿大市场。根据中加两国协议，加拿大每年允许以6.1%关税进口4.9万辆中国新能源汽车，相当于该国每年新车销售量的3%。中国是加拿大第二大贸易伙伴，2026年1月至4月双边贸易额约308.9亿美元，同比增长0.7%。摄影师：Ethan Cairns]]></summary>
-        <author>
-            <name>加拿大 · 不列颠哥伦比亚省</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[伦敦地铁大规模罢工 - June 5, 2026]]></title>
-        <id>idaily-252502</id>
-        <link href="https://m.idai.ly/se/8b5b8u"/>
-        <updated>2026-06-05T07:55:00.000Z</updated>
-        <summary type="html"><![CDATA[英国民众在伦敦地铁大罢工期间搭乘地铁。6月4日，伦敦地铁工会发起24小时大罢工，共有约40%地铁司机参与，导致中央线、环线等11条线路出现严重延误及中断。这是伦敦地铁工会一周内发起的第2次罢工行动，旨在抗议伦敦交通局拟推行的「每周4天共35小时工作制」方案。工会抨击新制度将导致司机单日工作时间过长，要求将每周4天工作制的总时长减少至32小时。摄影师：Andy Rain]]></summary>
-        <author>
-            <name>英国 · 伦敦</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[金正恩视察新核设施 - June 5, 2026]]></title>
-        <id>idaily-252501</id>
-        <link href="https://m.idai.ly/se/394zQx"/>
-        <updated>2026-06-05T07:53:00.000Z</updated>
-        <summary type="html"><![CDATA[朝鲜最高领导人金正恩视察高浓缩铀制造设施。6月3日，朝中社报道朝鲜领导人金正恩视察了一处新投产的核物质工厂，并在现场了解新技术生产工序、投产指标和远景生产计划。金正恩指出，朝鲜武器级核物质产能过去五年提升超过一倍，根据战略计划将持续增强国家核战争遏制力，进一步扩大核物质生产能力，继续增加核武器数量。这是朝鲜继2024年9月和2025年1月之后第三次公开核设施，韩国方面推测其可能位于平安北道宁边园区。摄影师：KCNA]]></summary>
-        <author>
-            <name>朝鲜</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[世界气象组织预警厄尔尼诺 - June 5, 2026]]></title>
-        <id>idaily-252500</id>
-        <link href="https://m.idai.ly/se/f34Z99"/>
-        <updated>2026-06-05T07:51:00.000Z</updated>
-        <summary type="html"><![CDATA[缅甸女性正在田地里种植番樱桃树，仰光。6月2日，世界气象组织发布通报指出2026年6月至8月形成厄尔尼诺事件的概率为80%，强度预计达到「中等」至「强」级别，并引发暴雨、洪水、干旱等极端天气，全球几乎所有地区的气温都可能高于常年平均水平。缅甸气象水文局发布通告指出，该国气象将从6月开始进入弱厄尔尼诺状态，并可能在年底发展为强厄尔尼诺状态。受极端天气威胁及中东战争影响，5月亚洲基准大米价格攀升20%，创下20年来最大单月涨幅。摄影师：Nyein Chan Naing]]></summary>
-        <author>
-            <name>缅甸 · 仰光</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[再谈响度战争：为什么你看的视频越来越「吵」了？]]></title>
-        <id>https://sspai.com/post/109483</id>
-        <link href="https://sspai.com/post/109483"/>
-        <updated>2026-06-05T07:21:14.000Z</updated>
-        <summary type="html"><![CDATA[「看视频」这件事，本不应该是一场「战争」。查看全文]]></summary>
-        <author>
-            <name>Nnnobel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科学家首次精确编辑人类胚胎基因]]></title>
-        <id>https://cn.nytimes.com/science/20260605/embryos-gene-editing-crispr/dual</id>
-        <link href="https://cn.nytimes.com/science/20260605/embryos-gene-editing-crispr/dual"/>
-        <updated>2026-06-05T06:06:02.000Z</updated>
-        <summary type="html"><![CDATA[CARL ZIMMER2026年6月5日研究人员修改了影响血液中低密度脂蛋白胆固醇和血红蛋白水平的基因。 Claude Cortier/Science Source
-Scientists at Columbia University have edited the DNA of early human embryos with unprecedented accuracy, an achievement that could open the way to babies engineered with particular characteristics.
-哥伦比亚大学科学家以前所未有的精确度编辑了早期人类胚胎的DNA，这一成果可能为培育具有特定特征的“定制婴儿”打开大门。
-The prospect has fueled controversy for years. On the one hand, the technology might one day enable parents to safely repair disease-causing mutations in embryos. But it might also be used to select desired traits — a practice that some ethicists have argued is nothing short of eugenics.
-这一前景多年来一直存有争议。一方面，该技术未来可能让父母安全修复胚胎中导致疾病的突变；但另一方面，它也可能被用于选择理想特征，一些伦理学家认为这种做法无异于优生学。
-Dieter Egli, a geneticist at Columbia University who led the research, called for a pu…]]></summary>
-        <author>
-            <name>纽约时报双语版</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[习近平将时隔七年访问朝鲜，他为何拉拢金正恩？]]></title>
-        <id>https://cn.nytimes.com/china/20260605/china-north-korea-xi-jinping-visit/dual</id>
-        <link href="https://cn.nytimes.com/china/20260605/china-north-korea-xi-jinping-visit/dual"/>
-        <updated>2026-06-05T05:36:02.000Z</updated>
-        <summary type="html"><![CDATA[DAVID PIERSON, CHOE SANG-HUN2026年6月5日去年9月，习近平与金正恩在北京会面。分析人士表示，随着平壤向俄罗斯靠拢，中国可能急于向朝鲜宣示自身的影响力。 Florence Lo/Reuters
-The last time China’s top leader, Xi Jinping, traveled to North Korea, that country’s dictator, Kim Jong-un, was reeling from sanctions and failed nuclear talks with the United States.
-上一次中国最高领导人习近平访问朝鲜时，朝鲜的独裁者金正恩正深陷制裁困境，与美国的核谈判也以失败告终。
-Now, nearly seven years later, as Mr. Xi returns to North Korea on Monday, he will meet with a leader who is newly emboldened by an alliance with Russia that has helped his economy break out of isolation.
-时隔近七年，当习近平于周一再次访问朝鲜时，他将面对的是一位底气大增的领导人——得益于与俄罗斯结盟，朝鲜经济已成功摆脱了孤立状态。
-Mr. Xi is expected to use the two-day summit with Mr. Kim to project a united front between allies against the West. But analysts say China is likely also keen to assert its influenc…]]></summary>
-        <author>
-            <name>纽约时报双语版</name>
         </author>
     </entry>
 </feed>
