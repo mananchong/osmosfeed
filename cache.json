@@ -65,6 +65,56 @@
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
         {
+          "id": "https://www.nationalreview.com/?p=1994619",
+          "author": "Timothy Harper",
+          "description": "The Founders knew that freedom is the foundation for dignity and prosperity.",
+          "link": "https://www.nationalreview.com/2026/07/the-genius-of-the-u-s-constitution/",
+          "publishedOn": "2026-07-12T10:30:50.000Z",
+          "wordCount": null,
+          "title": "The Genius of the U.S. Constitution",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1993229",
+          "author": "Lee J. Strang",
+          "description": "A shared civic tradition unites Americans in a way nothing else can.",
+          "link": "https://www.nationalreview.com/2026/07/sustaining-an-american-national-identity-requires-civic-education/",
+          "publishedOn": "2026-07-12T10:30:21.000Z",
+          "wordCount": null,
+          "title": "Sustaining an American National Identity Requires Civic Education",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1993409",
+          "author": "James Lileks",
+          "description": "Why should miscreants’ feelings matter more than the right to not be punctured?",
+          "link": "https://www.nationalreview.com/2026/07/lets-treat-criminals-like-dare-i-say-it-criminals/",
+          "publishedOn": "2026-07-12T10:30:14.000Z",
+          "wordCount": null,
+          "title": "Let’s Treat Criminals Like (Dare I Say It?) Criminals",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1995139",
+          "author": "Wilfred Reilly",
+          "description": "The historical record on slavery implicates nations far beyond the West.",
+          "link": "https://www.nationalreview.com/2026/07/africas-hypocritical-reparations-demand/",
+          "publishedOn": "2026-07-12T10:30:12.000Z",
+          "wordCount": null,
+          "title": "Africa’s Hypocritical Reparations Demand",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=1994489",
+          "author": "Jamie Fly and Brian Tronic",
+          "description": "Pastor Ezra Jin’s story shows that American power can still be leveraged to advance human freedom.",
+          "link": "https://www.nationalreview.com/2026/07/when-the-u-s-advocates-for-political-prisoners-around-the-world-freedom-wins/",
+          "publishedOn": "2026-07-12T10:30:08.000Z",
+          "wordCount": null,
+          "title": "When the U.S. Advocates for Political Prisoners Around the World, Freedom Wins",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nationalreview.com/?p=1993821",
           "author": "Andrew C. McCarthy",
           "description": "Unlike the gangs allegedly behind the ships targeted in the Caribbean, groups backed by Turkey’s leader engage in what federal law defines as terrorist activity.",
@@ -3180,16 +3230,6 @@
           "wordCount": 646,
           "title": "TDS REVIEW｜韶音 OpenDots 2 / Air 耳夹式开放真无线耳机体验",
           "imageUrl": null
-        },
-        {
-          "id": "https://sspai.com/post/110973",
-          "author": "Vanilla",
-          "description": "少数派在体验了新版系统之后，帮你整理了 iOS 27 中值得关注的新功能和新特性，希望帮你能了解新版系统的方方面面。查看全文",
-          "link": "https://sspai.com/post/110973",
-          "publishedOn": "2026-06-13T02:37:12.000Z",
-          "wordCount": 515,
-          "title": "具透 | 除了 AI，iOS 27 首个开发者测试版中你不能错过的新功能",
-          "imageUrl": null
         }
       ]
     },
@@ -3198,6 +3238,76 @@
       "feedUrl": "https://plink.anyfeeder.com/idaily/today",
       "siteUrl": "https://idai.ly",
       "articles": [
+        {
+          "id": "idaily-254639",
+          "author": "哈萨克斯坦 · 拜科努尔",
+          "description": "俄罗斯「联盟 MS-29」载人飞船与火箭组合体竖立在发射台，哈萨克斯坦拜科努尔。7月11日，「联盟 MS-29」载人飞船进入发射前最后准备阶段，预计7月14日搭载3名宇航员前往国际空间站。本次任务乘组包括俄罗斯宇航员 Pyotr Dubrov、Anna Kikina 和美国宇航员 Anil Menon。现年48岁的俄罗斯宇航员 Dubrov 担任本次任务指令长，这是他第2次执行太空飞行任务。新一批宇航员将在国际空间站驻留8个月，开展一系列科学实验并执行2次太空行走任务。摄影师：Yuri Kochetkov",
+          "link": "https://m.idai.ly/se/e57kLg",
+          "publishedOn": "2026-07-12T09:59:00.000Z",
+          "wordCount": 263,
+          "title": "「联盟 MS-29」飞船准备发射 - July 12, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/fb8dfdbde7/e0685868.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/fb8dfdbde7/e0685868.jpg"
+        },
+        {
+          "id": "idaily-254637",
+          "author": "日本 · 爱知县",
+          "description": "日本宇航局研发的「RV-X」小型可重复使用火箭原型机进行首次试飞，秋田县能代市火箭实验场。7月11日，日本宇航局宣布成功进行「RV-X」火箭原型机的首次飞行测试，火箭按计划爬升至约11米高度后短暂悬停，随后水平移动约16米距离，最后缓慢下降至定点位置着陆，整个过程火箭始终保持垂直姿态，飞行总时长约40秒。「RV-X」火箭原型机的长度为7.3米、直径1.8米，配备4个能够缓解着陆冲击的脚架，火箭引擎设计重复使用次数超过100次。日本宇航局目标在2030年代实现可复用火箭投入使用，以取代现役主力H3火箭，从而降低发射成本。摄影师：Yoshinobu Goto",
+          "link": "https://m.idai.ly/se/ec4qX3",
+          "publishedOn": "2026-07-12T09:57:00.000Z",
+          "wordCount": 262,
+          "title": "日本成功试飞小型复用火箭 - July 12, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/3276c71f68/9c94f609.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/3276c71f68/9c94f609.jpg"
+        },
+        {
+          "id": "idaily-254635",
+          "author": "法国 · 巴黎",
+          "description": "法国海军反潜巡逻机在国庆日阅兵前进行彩排，巴黎。7月11日，法国气象局向涵盖巴黎大区在内的24个省发布最高级别的高温红色预警，直接影响约2220万居民，预计部分地区最高温将超过40℃。当天埃菲尔铁塔、卢浮宫、奥赛博物馆等巴黎地标景点均因高温天气提前关闭。环法自行车赛组织方宣布7月12日举行的第九赛段赛程由原定的185.5公里缩短至155.5公里，为该赛事自1903年创办以来首次因高温缩短赛程。法国本轮高温天气预计将持续至7月14日国庆日。摄影师：Thierry Creux",
+          "link": "https://m.idai.ly/se/a219Mq",
+          "publishedOn": "2026-07-12T09:55:00.000Z",
+          "wordCount": 262,
+          "title": "法国新一轮极端高温天气 - July 12, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/6f3bc16600/0412ca3c.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/6f3bc16600/0412ca3c.jpg"
+        },
+        {
+          "id": "idaily-254634",
+          "author": "美国 · 纽约",
+          "description": "全球第二大内存芯片制造商韩国SK海力士在美国纳斯达克挂牌上市，纽约。7月10日，韩国芯片巨头SK海力士通过美国存托凭证（ADR）方式在纳斯达克上市，以每股149美元共发行1.779亿股ADR，募资规模约265亿美元，创下外国企业在美国最大规模首次公开募股纪录，亦是仅次于 SpaceX 的美股迄今第二大IPO。SK海力士在美上市首日股价收涨12.76%，总市值达到1.22万亿美元。SK海力士财报显示，该公司2026年第一季度营业收入为52.58万亿韩元（约355.5亿美元），同比增长198%；营业利润为37.61万亿韩元，同比增长405%。摄影师：Michael Nagle",
+          "link": "https://m.idai.ly/se/43dEQM",
+          "publishedOn": "2026-07-12T09:53:00.000Z",
+          "wordCount": 262,
+          "title": "韩国SK海力士美股上市 - July 12, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/e9636887b4/7e7e84c7.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/e9636887b4/7e7e84c7.jpg"
+        },
+        {
+          "id": "idaily-254633",
+          "author": "中国 · 北京",
+          "description": "中国国家主席习近平与朝鲜内阁总理朴泰成举行会晤，北京。7月10日，朝鲜内阁总理朴泰成率党政代表团应邀对中国进行为期3天正式访问，主要行程包括会晤中国国家主席习近平、国务院总理李强及出席《中朝友好合作互助条约》签订65周年纪念活动。这是朝鲜时隔7年首次派遣高规格代表团赴华出席纪念中朝签订友好条约活动。朴泰成表示朝方将坚决落实两党两国最高领导人达成的重要共识，坚定支持中方在台湾等问题上捍卫核心利益，竭尽全力推动朝中团结、友好和社会主义事业迈上新的更高台阶。中国是朝鲜第一大贸易伙伴，2026年1月至5月两国双边贸易额为12.5亿美元，同比增长21.8%。摄影师：KCNA",
+          "link": "https://m.idai.ly/se/b65mV0",
+          "publishedOn": "2026-07-12T09:51:00.000Z",
+          "wordCount": 262,
+          "title": "朝鲜内阁总理访华 - July 12, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/7ab5144c6d/b5828c42.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/7ab5144c6d/b5828c42.jpg"
+        },
         {
           "id": "idaily-254601",
           "author": "中国 · 海南省",
@@ -7413,6 +7523,56 @@
       "siteUrl": "http://weixin.sogou.com/weixin?type=1&s_from=input&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A",
       "articles": [
         {
+          "id": "fad7b8a9180cead0cefb62e13a28c264",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E4%B8%BA%E4%BB%80%E4%B9%88%E6%88%91%E4%BB%AC%E8%B6%8A%E7%88%B1%E8%87%AA%E5%B7%B1%EF%BC%8C%E8%B6%8A%E5%AD%A4%E7%8B%AC%EF%BC%9F",
+          "publishedOn": "2026-07-12T01:58:00.000Z",
+          "wordCount": 302,
+          "title": "为什么我们越爱自己，越孤独？",
+          "imageUrl": null
+        },
+        {
+          "id": "8e9ff4b695d89d2c49aa5328b2f6edca",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E6%88%91%E6%8A%8A%E8%87%AA%E7%84%B6%EF%BC%8C%E8%A7%82%E6%88%90%E4%BA%86%E8%BA%AB%E8%BE%B9%E7%9A%84%E6%B2%B9%E7%9B%90%E9%85%B1%E9%86%8B%E8%8C%B6%20%7C%20%E5%91%A8%E9%A2%96%E7%90%AA",
+          "publishedOn": "2026-07-12T01:58:00.000Z",
+          "wordCount": 309,
+          "title": "我把自然，观成了身边的油盐酱醋茶 | 周颖琪",
+          "imageUrl": null
+        },
+        {
+          "id": "bc05c4a80934308bf742e00491c91282",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E8%83%A1%E5%AE%89%C2%B7%E9%B2%81%E5%B0%94%E7%A6%8F%EF%BC%9A%E5%9C%A8%E7%88%B1%E7%9A%84%E5%BC%95%E9%A2%86%E4%B8%8B%EF%BC%8C%E5%88%9B%E9%80%A0%E4%B8%80%E4%B8%AA%E5%8F%AF%E4%BB%A5%E5%B9%B3%E9%9D%99%E7%94%9F%E6%B4%BB%E3%80%81%E6%B2%A1%E6%9C%89%E6%81%90%E6%83%A7%E7%9A%84%E4%B8%96%E7%95%8C",
+          "publishedOn": "2026-07-12T01:58:00.000Z",
+          "wordCount": 256,
+          "title": "胡安·鲁尔福：在爱的引领下，创造一个可以平静生活、没有恐惧的世界",
+          "imageUrl": null
+        },
+        {
+          "id": "6fa17b76e18bd41a5baba175c366d359",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E3%80%8A%E6%95%B0%E5%AD%97%E5%80%A6%E6%80%A0%E3%80%8B%EF%BC%9A%E7%9E%84%E4%BA%86%E4%B8%80%E7%9C%BC%E6%89%8B%E6%9C%BA%EF%BC%8C%E8%83%BD%E6%83%B3%E5%88%B0%E7%9A%84%E5%9B%9E%E5%A4%8D%E5%8F%AA%E6%9C%89%E2%80%9C%E5%93%88%E5%93%88%E5%93%88%E2%80%9D%EF%BC%9F",
+          "publishedOn": "2026-07-11T01:55:00.000Z",
+          "wordCount": 256,
+          "title": "《数字倦怠》：瞄了一眼手机，能想到的回复只有“哈哈哈”？",
+          "imageUrl": null
+        },
+        {
+          "id": "6b765cab4f4f271fae04a13f6d58380c",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E6%96%B0%E4%BA%AC%E9%9B%85%E9%9B%86%E2%80%94%E2%80%94%E4%B8%80%E5%A5%97%E4%B9%A6%EF%BC%8C%E9%9B%86%E9%BD%90%E5%8F%B2%E5%AD%A6%E5%A4%A7%E5%AE%B6%E7%BB%8F%E5%85%B8%E8%91%97%E4%BD%9C",
+          "publishedOn": "2026-07-11T01:55:00.000Z",
+          "wordCount": 291,
+          "title": "新京雅集——一套书，集齐史学大家经典著作",
+          "imageUrl": null
+        },
+        {
           "id": "3e304992a6c9690389e4257c93283b17",
           "author": null,
           "description": "",
@@ -8180,46 +8340,6 @@
           "publishedOn": "2026-06-14T02:00:00.000Z",
           "wordCount": 300,
           "title": "走出优绩主义，为什么这么难？",
-          "imageUrl": null
-        },
-        {
-          "id": "26e46537e728e5e02b287fba288aa464",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E8%8B%B1%E5%9B%BD%E8%91%97%E5%90%8D%E8%89%BA%E6%9C%AF%E5%AE%B6%E5%A4%A7%E5%8D%AB%C2%B7%E9%9C%8D%E5%85%8B%E5%B0%BC%E9%80%9D%E4%B8%96%EF%BC%8C%E4%BA%AB%E5%B9%B489%E5%B2%81",
-          "publishedOn": "2026-06-13T00:57:00.000Z",
-          "wordCount": 256,
-          "title": "英国著名艺术家大卫·霍克尼逝世，享年89岁",
-          "imageUrl": null
-        },
-        {
-          "id": "70927e8edbeb73f562e621055efb345f",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E5%BD%93%E6%88%91%E4%BB%AC%E6%83%B3%E8%B5%B7%E6%9F%90%E4%BA%BA%EF%BC%8C%E9%82%A3%E4%BA%BA%E5%B7%B2%E4%B8%8D%E5%9C%A8%E4%B8%A8%E5%91%A8%E6%9C%AB%E8%AF%BB%E8%AF%97",
-          "publishedOn": "2026-06-13T00:57:00.000Z",
-          "wordCount": 298,
-          "title": "当我们想起某人，那人已不在丨周末读诗",
-          "imageUrl": null
-        },
-        {
-          "id": "540a08a5f4b226bbe7dde904c18e9dd8",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E5%B1%A0%E6%A0%BC%E6%B6%85%E5%A4%AB%EF%BC%9A%E5%8F%AA%E6%9C%89%E7%88%B1%E7%9D%80%EF%BC%8C%E6%88%91%E6%89%8D%E8%83%BD%E5%A4%9F%E5%86%99%E4%BD%9C%20%20%7C%20%E9%87%8D%E8%AF%BB%E7%BB%8F%E5%85%B8%E7%B3%BB%E5%88%97%E5%AF%B9%E8%B0%88",
-          "publishedOn": "2026-06-13T00:57:00.000Z",
-          "wordCount": 305,
-          "title": "屠格涅夫：只有爱着，我才能够写作  | 重读经典系列对谈",
-          "imageUrl": null
-        },
-        {
-          "id": "f9d763765ef26567fc9d39858f29d9bd",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E6%96%B0%E4%BA%AC%E9%9B%85%E9%9B%86%E2%80%94%E2%80%94%E4%B8%80%E5%A5%97%E7%BE%8E%E5%AD%A6%E5%9B%9B%E4%B9%A6%EF%BC%8C%E8%A7%A3%E9%94%81%E6%99%AE%E9%80%9A%E4%BA%BA%E7%9A%84%E9%A3%8E%E9%9B%85%E7%94%9F%E6%B4%BB",
-          "publishedOn": "2026-06-13T00:57:00.000Z",
-          "wordCount": 294,
-          "title": "新京雅集——一套美学四书，解锁普通人的风雅生活",
           "imageUrl": null
         }
       ]
