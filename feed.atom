@@ -2,10 +2,90 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mananchong.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-15T17:49:43.859Z</updated>
+    <updated>2026-07-16T09:35:23.433Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mananchong.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://mananchong.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Apple 高校优惠活动开始了，今年有些不一样]]></title>
+        <id>https://sspai.com/post/112386</id>
+        <link href="https://sspai.com/post/112386"/>
+        <updated>2026-07-16T08:03:38.000Z</updated>
+        <summary type="html"><![CDATA[又到了一年一度的Apple高校优惠活动季，高校师生们可以在活动期间，购买指定型号iPad或Mac设备，获得指定配件产品，享受到限时的教育优惠+买赠活动。与往年不同的是，今年的Apple高校优惠活动不论 ...查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[具透 | macOS 27 首个公开测试版来了，这些是值得你关注的新特性]]></title>
+        <id>https://sspai.com/post/112375</id>
+        <link href="https://sspai.com/post/112375"/>
+        <updated>2026-07-16T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[全面 ARM 化后的第一个 macOS 版本，Golden Gate 27 还有这些变化。查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[翻译「世界杯」的赛事名称，为什么中文比日文更简洁？]]></title>
+        <id>https://sspai.com/post/111086</id>
+        <link href="https://sspai.com/post/111086"/>
+        <updated>2026-07-16T02:58:08.000Z</updated>
+        <summary type="html"><![CDATA[国名也好、赛事名称也好，日语走上了片假名这条路——那为什么日本人不能像中文一样，直接造出「美加墨W杯」这样的简称？查看全文]]></summary>
+        <author>
+            <name>王隐</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：国行版 Apple Intelligence 完成备案等]]></title>
+        <id>https://sspai.com/post/112373</id>
+        <link href="https://sspai.com/post/112373"/>
+        <updated>2026-07-16T00:22:40.000Z</updated>
+        <summary type="html"><![CDATA[阿里发布实时语音模型 Qwen-Audio-3.0-Realtime、腾龙发布 12-20mm F2.8 镜头等。查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[All the World’s a Stage, Unfortunately]]></title>
+        <id>https://www.nationalreview.com/?p=1997266</id>
+        <link href="https://www.nationalreview.com/2026/07/all-the-worlds-a-stage-unfortunately/"/>
+        <updated>2026-07-15T21:19:14.000Z</updated>
+        <summary type="html"><![CDATA[Two ways to escape our self-built panopticon.]]></summary>
+        <author>
+            <name>Michael Brendan Dougherty</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is the Data Center Backlash Real?]]></title>
+        <id>https://www.nationalreview.com/?p=1997303</id>
+        <link href="https://www.nationalreview.com/2026/07/is-the-data-center-backlash-real/"/>
+        <updated>2026-07-15T19:35:56.000Z</updated>
+        <summary type="html"><![CDATA[It’s certainly not manifesting in measurable consequences for the politicians who support the projects.]]></summary>
+        <author>
+            <name>Noah Rothman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[College in America Needs an Overhaul]]></title>
+        <id>https://www.nationalreview.com/?p=1997257</id>
+        <link href="https://www.nationalreview.com/2026/07/college-in-america-needs-an-overhaul/"/>
+        <updated>2026-07-15T18:34:38.000Z</updated>
+        <summary type="html"><![CDATA[A 20th-century system has led to perversities in the 21st.]]></summary>
+        <author>
+            <name>Michael Brendan Dougherty</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Faulty Premise of Dua Lipa’s ‘Banned’ Books Library]]></title>
+        <id>https://www.nationalreview.com/?p=1997234</id>
+        <link href="https://www.nationalreview.com/2026/07/the-faulty-premise-of-dua-lipas-banned-books-library/"/>
+        <updated>2026-07-15T18:10:14.000Z</updated>
+        <summary type="html"><![CDATA[It turns out a lot of us own this subversive contraband.]]></summary>
+        <author>
+            <name>Abigail Anthony</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Trump Doesn’t Have the Stomach for This]]></title>
         <id>https://www.nationalreview.com/?p=1997090</id>
@@ -7932,156 +8012,6 @@ Retail sales dropped 0.6 percent in May from the same month a year earlier, the 
         <summary type="html"><![CDATA[It’s not all about Trump. Democrats were less proud of the country than Republicans were even when Obama and Biden were president.]]></summary>
         <author>
             <name>Rich Lowry</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Supreme Court Should Take Another Crack at Limiting Runaway Agencies]]></title>
-        <id>https://www.nationalreview.com/?p=1980175</id>
-        <link href="https://www.nationalreview.com/2026/06/the-supreme-court-should-take-another-crack-at-limiting-runaway-agencies/"/>
-        <updated>2026-06-16T21:08:47.000Z</updated>
-        <summary type="html"><![CDATA[Petitions to rein in the EPA and the Bureau of Land Management should take their place on the Supreme Court’s docket.]]></summary>
-        <author>
-            <name>Dan McLaughlin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The End of Rec League]]></title>
-        <id>https://www.nationalreview.com/?p=1979516</id>
-        <link href="https://www.nationalreview.com/2026/06/the-end-of-rec-league/"/>
-        <updated>2026-06-16T10:30:51.000Z</updated>
-        <summary type="html"><![CDATA[Nobody prepared me for the vicarious joys of youth sports when the youth in question are our sons.]]></summary>
-        <author>
-            <name>Michael Brendan Dougherty</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Our Ability to Fight Foreign Terrorism Just Got Weaker]]></title>
-        <id>https://www.nationalreview.com/?p=1979566</id>
-        <link href="https://www.nationalreview.com/2026/06/our-ability-to-fight-foreign-terrorism-just-got-weaker/"/>
-        <updated>2026-06-16T10:30:50.000Z</updated>
-        <summary type="html"><![CDATA[The expiration of FISA Section 702 leaves a vacuum in our capabilities that the president now must fill.]]></summary>
-        <author>
-            <name>John Yoo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Bill of Rights’ Missing Amendment]]></title>
-        <id>https://www.nationalreview.com/?p=1979437</id>
-        <link href="https://www.nationalreview.com/2026/06/the-bill-of-rights-missing-amendment/"/>
-        <updated>2026-06-16T10:30:41.000Z</updated>
-        <summary type="html"><![CDATA[It’s not too late to reconsider James Madison’s proposed constitutional amendment to bolster the separation of powers.]]></summary>
-        <author>
-            <name>Hans A. von Spakovsky and Marc Wheat</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Real America]]></title>
-        <id>https://www.nationalreview.com/?p=1979593</id>
-        <link href="https://www.nationalreview.com/2026/06/the-real-america/"/>
-        <updated>2026-06-16T10:30:25.000Z</updated>
-        <summary type="html"><![CDATA[World Cup tourists are discovering the little secret of American abundance. We plan to keep sharing and defending it for a long time to come.]]></summary>
-        <author>
-            <name>Rich Lowry</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[具透 | macOS 27 首个开发者测试版来了，这些是值得你关注的新特性]]></title>
-        <id>https://sspai.com/post/111030</id>
-        <link href="https://sspai.com/post/111030"/>
-        <updated>2026-06-16T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[macOS Golden Gate 27 首个开发者测试版更新，我们整理了你所关心的所有细节。查看全文]]></summary>
-        <author>
-            <name>化学心情下2</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[力箭一号部署卫星破百 - June 16, 2026]]></title>
-        <id>idaily-253158</id>
-        <link href="https://m.idai.ly/se/8eeUB6"/>
-        <updated>2026-06-16T09:19:00.000Z</updated>
-        <summary type="html"><![CDATA[中国「力箭一号」遥十四运载火箭搭载8颗卫星发射升空，内蒙古东风商业航天创新试验区。6月15日，中科宇航「力箭一号」火箭执行一箭8星发射任务，成功将文物01星、彩云光学01星、安铁03星、利川红卫星、吉星高分07C04星等8颗高分辨率光学遥感卫星送入预定轨道。这是「力箭一号」火箭第14次发射任务，迄今累计部署105颗卫星，成为中国首款发射卫星总数突破100颗的民营商业火箭型号。摄影师：iDaily Media]]></summary>
-        <author>
-            <name>中国 · 内蒙古自治区</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第52届G7峰会开幕 - June 16, 2026]]></title>
-        <id>idaily-253157</id>
-        <link href="https://m.idai.ly/se/4cdJtW"/>
-        <updated>2026-06-16T08:58:00.000Z</updated>
-        <summary type="html"><![CDATA[七国集团（G7）领导人举行工作晚餐会，法国埃维昂。6月15日，第52届七国集团峰会在法国埃维昂开幕，预计将聚焦中东局势、俄乌冲突、全球贸易、可持续增长、人工智能等议题。本次峰会的特邀国家包括巴西、埃及、印度、肯尼亚、韩国、卡塔尔、乌克兰和阿联酋。国际货币基金组织预测2026年七国集团平均 GDP 增长率为1.6%，GDP 总额约占全球的44%。摄影师：iDaily Media]]></summary>
-        <author>
-            <name>法国 · 埃维昂莱班</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[社区速递 145 | 尝鲜激进傻快新系统、告别「电流麦」与平价人体工学椅]]></title>
-        <id>https://sspai.com/post/111099</id>
-        <link href="https://sspai.com/post/111099"/>
-        <updated>2026-06-16T08:45:55.000Z</updated>
-        <summary type="html"><![CDATA[除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文]]></summary>
-        <author>
-            <name>Matrix机器人</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美伊宣布达成和平协议 - June 16, 2026]]></title>
-        <id>idaily-253155</id>
-        <link href="https://m.idai.ly/se/17eedT"/>
-        <updated>2026-06-16T07:57:00.000Z</updated>
-        <summary type="html"><![CDATA[从阿曼穆桑代姆半岛眺望霍尔木兹海峡内停泊的货轮。6月15日，巴基斯坦宣布美国与伊朗在其斡旋下达成和平协议，正式签约仪式将于6月19日在瑞士举行。这份协议的内容包括双方立即永久停止在所有战线的军事行动、霍尔木兹海峡全面开放、美国解除对伊朗的海上封锁等。受该消息影响，全球基准布伦特原油期货价格当天下跌-4.76%至每桶83.17美元，跌至3个月来最低。伊朗官方媒体报道称，伊方将在60天内允许船只免费通过霍尔木兹海峡，此后计划由伊朗和阿曼共同管理该海峡。摄影师：iDaily Media]]></summary>
-        <author>
-            <name>阿曼 · 穆桑代姆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日经指数突破70000点 - June 16, 2026]]></title>
-        <id>idaily-253154</id>
-        <link href="https://m.idai.ly/se/45dZH8"/>
-        <updated>2026-06-16T07:55:00.000Z</updated>
-        <summary type="html"><![CDATA[东京证券交易所屏幕显示日经指数即时数据，东京。6月16日，日经平均指数（Nikkei）史上首次突破70000关口，盘中上涨1%至70020.68点，刷新历史纪录；收盘上涨0.13%，报69404.50点。韩国综合股价指数（KOSPI）收涨2%重回8700关口。本轮日韩股市上涨主要受美伊达成和平协议消息影响。当天日本央行宣布将政策利率从0.75%上调至1%，达到1995年以来最高水平。摄影师：Franck Robichon]]></summary>
-        <author>
-            <name>日本 · 东京</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英国颁布青少年社媒禁令 - June 16, 2026]]></title>
-        <id>idaily-253153</id>
-        <link href="https://m.idai.ly/se/f1b7mH"/>
-        <updated>2026-06-16T07:53:00.000Z</updated>
-        <summary type="html"><![CDATA[英国首相 Keir Starmer 公布青少年社交媒体禁令，伦敦。6月15日，英国首相 Starmer 宣布将禁止16岁以下群体使用社交媒体以及所有平台的直播功能，禁止陌生人在游戏和线上服务中与儿童交流。本项禁令旨在防止青少年接触危险内容和杜绝网络霸凌，涵盖平台包括 Instagram、YouTube、TikTok、Snapchat、Facebook、X 等，预计2027年春季正式生效。英国官方民调显示超过9成家长支持颁布该禁令。摄影师：Jaimi Joy]]></summary>
-        <author>
-            <name>英国 · 伦敦</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[印度阿萨姆邦人象冲突 - June 16, 2026]]></title>
-        <id>idaily-253152</id>
-        <link href="https://m.idai.ly/se/ae3MRQ"/>
-        <updated>2026-06-16T07:51:00.000Z</updated>
-        <summary type="html"><![CDATA[印度加济兰加国家公园，工作人员正在检查一只死去的大象，阿萨姆邦。6月15日，印度加济兰加国家公园报告发现一只死去的雄性大象，死亡原因不明。阿萨姆邦是印度第二大野生大象栖息地，该地区的大象数量超过5800只。印度野生动物研究所数据显示，2025年该国约有22446只野生大象，较2017年统计结果减少-17%。摄影师：Anuwar Hazarika]]></summary>
-        <author>
-            <name>印度 · 阿萨姆邦</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[尼泊尔庆祝萨嘎达瓦节 - June 16, 2026]]></title>
-        <id>idaily-253151</id>
-        <link href="https://m.idai.ly/se/6011B5"/>
-        <updated>2026-06-16T07:49:00.000Z</updated>
-        <summary type="html"><![CDATA[尼泊尔「萨嘎达瓦节」（Saga Dawa Festival）期间，一名朝圣者在满愿塔外墙祈愿，加德满都。6月15日，尼泊尔迎来藏传佛教最重要的节日之一「萨嘎达瓦节」，该节日庆祝时间为藏历四月，旨在纪念释迦牟尼的诞生、成道和涅槃。尼泊尔旅游局数据显示2026年5月接待外国游客逾10.26万人次，同比增长19%，排名前五的游客来源国依次为印度、中国、美国、孟加拉国和英国。摄影师：Narendra Shrestha]]></summary>
-        <author>
-            <name>尼泊尔 · 加德满都</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[独家采访 Home Assistant 创始人：离全面本土化还有多远]]></title>
-        <id>https://sspai.com/post/110086</id>
-        <link href="https://sspai.com/post/110086"/>
-        <updated>2026-06-16T07:10:26.000Z</updated>
-        <summary type="html"><![CDATA[或许你没有直接听说过HomeAssistant，但每当你想在家里做些复杂的自动化，亦或是打破品牌壁垒的生态联通——比如把米家的设备无缝接入AppleHome，那么这个名字一定会进入你的视野。作为一个开 ...查看全文]]></summary>
-        <author>
-            <name>南桥北桥不是桥</name>
         </author>
     </entry>
 </feed>
