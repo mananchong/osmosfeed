@@ -65,6 +65,16 @@
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
         {
+          "id": "https://www.nationalreview.com/?p=2000728",
+          "author": "John Fund",
+          "description": "The market can best address Americans’ No. 1 environmental concern.",
+          "link": "https://www.nationalreview.com/2026/07/americas-twin-water-crises/",
+          "publishedOn": "2026-07-19T22:38:57.000Z",
+          "wordCount": null,
+          "title": "America’s Twin Water Crises",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nationalreview.com/?p=1997010",
           "author": "Drew Bond",
           "description": "Time and again, a lighter touch on climate policy yields better outcomes for both individuals and the environment.",
@@ -2213,56 +2223,6 @@
           "wordCount": 11691,
           "title": "The Past Is a Guide — and It Points Toward Freedom",
           "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2018/03/calvin-coolidge.jpg?fit=1200%2C700&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1981144",
-          "author": "Andrew C. McCarthy",
-          "description": "I didn’t want this, but I can’t say it was unforeseeable.",
-          "link": "https://www.nationalreview.com/2026/06/reckoning-with-the-binary-choice-after-trumps-iran-capitulation/",
-          "publishedOn": "2026-06-20T10:30:54.000Z",
-          "wordCount": 7211,
-          "title": "Reckoning with the ‘Binary Choice,’ After Trump’s Iran Capitulation",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/06/trump-oval-office-1.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1981254",
-          "author": "Brian T. Allen",
-          "description": "PAFA’s shines, thanks in part to a dazzling renovation, the PMA’s not so much.",
-          "link": "https://www.nationalreview.com/2026/06/a-tale-of-two-shows-in-philly-for-americas-250th/",
-          "publishedOn": "2026-06-20T10:30:28.000Z",
-          "wordCount": 8699,
-          "title": "A Tale of Two Shows in Philly for America’s 250th",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/06/Flag.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1980608",
-          "author": "Jeanne Safer",
-          "description": "We deprive ourselves of true connection when we’re unwilling to bond with people across the political aisle.",
-          "link": "https://www.nationalreview.com/2026/06/my-unlikely-friendship-with-bill-rusher/",
-          "publishedOn": "2026-06-20T10:30:09.000Z",
-          "wordCount": 6389,
-          "title": "My Unlikely Friendship with Bill Rusher",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/06/William-Rusher.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1979049",
-          "author": "Itxu Díaz",
-          "description": "To deny old age is to deny what it means to have a vital society.",
-          "link": "https://www.nationalreview.com/2026/06/theres-no-shame-in-getting-older/",
-          "publishedOn": "2026-06-20T10:30:07.000Z",
-          "wordCount": 7044,
-          "title": "There’s No Shame in Getting Older",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/06/old-man.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1980648",
-          "author": "Marc Wheat and Mitchell G. Bahnsen",
-          "description": "The Supreme Court should shut down a Colorado attempt to run roughshod over federal energy policy.",
-          "link": "https://www.nationalreview.com/2026/06/boulders-climate-lawsuit-is-a-tax-on-every-american/",
-          "publishedOn": "2026-06-20T10:30:04.000Z",
-          "wordCount": 15149,
-          "title": "Boulder’s Climate Lawsuit Is a Tax on Every American",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/04/exxon-gas-station.jpg?fit=2057%2C1200&ssl=1"
         }
       ]
     },
@@ -2271,6 +2231,36 @@
       "feedUrl": "https://sspai.com/feed",
       "siteUrl": "https://sspai.com",
       "articles": [
+        {
+          "id": "https://sspai.com/post/112453",
+          "author": "北鸮",
+          "description": "在拥有你我理想的超大自主空间之前，不如用一张桌垫改善一下自己的工作生活环境，过得多舒心一点点吧。查看全文",
+          "link": "https://sspai.com/post/112453",
+          "publishedOn": "2026-07-20T07:05:31.000Z",
+          "wordCount": 374,
+          "title": "角落新声 | 把杂乱桌面收拾得像样，只需要一张桌垫",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sspai.com/post/112425",
+          "author": "旋转的陀螺",
+          "description": "高考结束后，又有一大批同学开始考虑换新手机啦。在预算差不多的情况下，很多人会纠结是买一台较新的中端机，还是买一台年份更老、但曾经是旗舰级的机型。于是我把 2020 年购入的 iPhone 8 Plus 拿出来当了一星期主力机，看看这台 2017 年发布的手机，放到今天还能不能胜任日常使用。查看全文",
+          "link": "https://sspai.com/post/112425",
+          "publishedOn": "2026-07-20T03:00:00.000Z",
+          "wordCount": 238,
+          "title": "2026 年再看 iPhone 8 Plus，它还够用吗？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sspai.com/post/112498",
+          "author": "少数派编辑部",
+          "description": "锂电池消费税分阶段恢复征收\n白宫提词器操作员利用内幕信息下注被查\nLG 显示器连接电脑后自动安装广告程序\n新一代豆包手机不再模拟点击操作\n亚马逊错发数亿美元云服务账单\n京沪线试点 12306 预约购票，最早提前 60 天\n看看就行的小道消息\n少数派的近期动态\n你可能错过的好文章\n查看全文",
+          "link": "https://sspai.com/post/112498",
+          "publishedOn": "2026-07-19T23:11:33.000Z",
+          "wordCount": 608,
+          "title": "派早报：锂电池消费税分阶段恢复征收",
+          "imageUrl": null
+        },
         {
           "id": "https://sspai.com/post/112374",
           "author": "KingTsui",
@@ -6205,104 +6195,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://pic.yupoo.com/fotomag/42fc0dbc09/8c24924d.jpg"
-        },
-        {
-          "id": "idaily-253364",
-          "author": "宇宙",
-          "description": "美国航天局公布一张哈勃太空望远镜拍摄的「CL0016+1609」星系团照片。该天体由2个正在碰撞融合的大质量星系团组成，左侧和右侧的弧形光斑是引力透镜效应下被扭曲的遥远星系。「CL0016+1609」星系团是暗物质研究最重要的观测目标之一，天文学家通过观测星系团融合过程中的引力透镜效应，可以确认星系团中暗物质的分布以及在星系合并过程中起到的作用。摄影师：NASA",
-          "link": "https://m.idai.ly/se/227n0j",
-          "publishedOn": "2026-06-20T12:59:00.000Z",
-          "wordCount": 270,
-          "title": "哈勃望远镜拍摄融合星系团 - June 20, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/0cc95cfe0e/d11e379a.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/0cc95cfe0e/d11e379a.jpg"
-        },
-        {
-          "id": "idaily-253363",
-          "author": "法国 · 巴黎",
-          "description": "第38届巴黎「白色晚宴」（Dinner in White）快闪活动在特罗卡德罗广场上举行，宾客们身着白色服装在长桌前用餐。6月18日，巴黎一年一度的「白色晚宴」（Dinner in White）在特罗卡德罗广场举行，这项活动始于1988年，每次晚宴地点在最后一刻才会公布，宾客被要求身着白色晚宴装，自带食物、酒水和餐具出席晚宴。法国气象局当天向巴黎都会区发布橙色高温警报，预计周末最高气温将突破40℃。摄影师：Alain Jocard",
-          "link": "https://m.idai.ly/se/435146",
-          "publishedOn": "2026-06-20T11:58:00.000Z",
-          "wordCount": 270,
-          "title": "第38届巴黎白色晚宴 - June 20, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/f8f353b7c3/ed6e3434.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/f8f353b7c3/ed6e3434.jpg"
-        },
-        {
-          "id": "idaily-253362",
-          "author": "美国 · 华盛顿特区",
-          "description": "美国副总统 JD Vance 主持白宫新闻简报会，华盛顿特区。6月18日，美国副总统 Vance 在白宫记者会上宣布美军已解除部分对伊朗海上封锁，17日晚间已有超过1250万桶石油通过霍尔木兹海峡，达到冲突爆发后的最高水平。Vance 指出美伊双方均已履行协议中的初步承诺，强调伊朗必须全面履行协议承诺才有可能获得经济利益。Vance 表示已推迟原定6月19日在瑞士举行的首轮美伊技术性会谈，双方后续谈判仍在协调阶段。摄影师：Ken Cedeno",
-          "link": "https://m.idai.ly/se/ec14VM",
-          "publishedOn": "2026-06-20T09:57:00.000Z",
-          "wordCount": 270,
-          "title": "美国解除对伊朗海上封锁 - June 20, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/9d79aa754c/23ad7cf5.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/9d79aa754c/23ad7cf5.jpg"
-        },
-        {
-          "id": "idaily-253361",
-          "author": "日本 · 东京",
-          "description": "日本国会众议院通过《国民投票法》修正案，东京。6月19日，日本众院全体会议以多数票通过《国民投票法》修正案，预计6月24日递交参议院进行审议。这份修正案由日本自民党、维新会、国民民主党和参政党4个政党联合提交，旨在简化全民公投程序以推进修宪，主要内容包括放宽监票人遴选条件、简化离岛计票流程、允许通过FM广播宣传修宪草案等。日本支持修宪派政党目前在众议院占据超过三分之二席位，预计将于2027年春季启动修宪程序。摄影师：iDaily Media",
-          "link": "https://m.idai.ly/se/568JD9",
-          "publishedOn": "2026-06-20T09:55:00.000Z",
-          "wordCount": 270,
-          "title": "日本众院通过《国民投票法》修正案 - June 20, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/b7fc257327/2e8d360e.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/b7fc257327/2e8d360e.jpg"
-        },
-        {
-          "id": "idaily-253360",
-          "author": "美国 · 芝加哥",
-          "description": "美国前总统 Barack Obama 在奥巴马总统中心图书馆与儿童们互动，芝加哥。6月18日，美国第44任总统 Barack Obama 的专属总统博物馆在芝加哥南区举行落成典礼，美国前总统 Bill Clinton、George W. Bush、Joe Biden 以及德国前总理 Angela Merkel 受邀现场出席。奥巴马总统中心选址于 Obama 夫妇居住多年的芝加哥南区，占地面积达7.8万平方米，建造耗资8.5亿美元，包含博物馆、图书馆、篮球场等设施。摄影师：Win McNamee",
-          "link": "https://m.idai.ly/se/8daCoI",
-          "publishedOn": "2026-06-20T09:53:00.000Z",
-          "wordCount": 270,
-          "title": "奥巴马总统中心揭幕 - June 20, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/71c7f3d571/a0980e39.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/71c7f3d571/a0980e39.jpg"
-        },
-        {
-          "id": "idaily-253358",
-          "author": "法国 · 巴黎",
-          "description": "第10届法国 VivaTech 创新科技展，一台中国宇树科技公司制造的人形机器人正在进行动作演示，巴黎。6月17日，欧洲规模最大的科技展会 VivaTech 在巴黎凡尔赛门会展中心举行。本届展会持续4天，共有3600家机构和1.4万家初创企业参会，主要聚焦人工智能、新能源、绿色出行、网络安全、医疗健康等领域，预计参会者超过18万人。摄影师：Edouard Monfrais-Albertini",
-          "link": "https://m.idai.ly/se/01bUU8",
-          "publishedOn": "2026-06-20T09:51:00.000Z",
-          "wordCount": 272,
-          "title": "巴黎 VivaTech 科技展 - June 20, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/a5f150aec7/8d19feda.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/a5f150aec7/8d19feda.jpg"
-        },
-        {
-          "id": "idaily-253357",
-          "author": "中国 · 重庆",
-          "description": "重庆动物园大熊猫正在享用端午节粽子。6月19日，重庆动物园为大熊猫们准备了苹果、桃子、西瓜、胡萝卜、玉米、红枣、竹笋等果蔬制作的粽子庆祝端午节。中国交通运输部公布2026年端午假期首日全社会跨区域人员流动量23140.6万人次，同比增长0.2%；其中公路人员流动量下降-0.3%至20926万人次，铁路客运量增长6.9%至1936.8万人次，水路客运量下降-10.1%至86.2万人次，民航客运量191.6万人次，同比基本持平。摄影师：iDaily Media",
-          "link": "https://m.idai.ly/se/d665N7",
-          "publishedOn": "2026-06-20T09:49:00.000Z",
-          "wordCount": 270,
-          "title": "中国端午节假期首日 - June 20, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/eddf53ae76/d1281267.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/eddf53ae76/d1281267.jpg"
         }
       ]
     },
@@ -7388,6 +7280,56 @@
       "feedUrl": "https://plink.anyfeeder.com/weixin/ibookreview",
       "siteUrl": "http://weixin.sogou.com/weixin?type=1&s_from=input&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A",
       "articles": [
+        {
+          "id": "3950214b1b8801033aca750b3977cb18",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E6%89%98%E8%8A%99%C2%B7%E6%89%AC%E6%9D%BE%E7%94%A8%E2%80%9C%E7%BC%A9%E5%B0%8F%E2%80%9D%E7%9A%84%E7%BB%86%E8%8A%82%E5%87%BB%E7%A2%8E%E4%BA%86%E6%88%91%E5%AF%B9%E2%80%9C%E5%A4%A7%E4%BA%BA%E2%80%9D%E7%9A%84%E5%88%BB%E6%9D%BF%E5%8D%B0%E8%B1%A1%EF%BD%9C%E5%84%BF%E7%AB%A5%E6%96%87%E5%AD%A6%E8%AF%84%E5%AE%A1%E5%9B%A2",
+          "publishedOn": "2026-07-19T03:16:00.000Z",
+          "wordCount": 268,
+          "title": "托芙·扬松用“缩小”的细节击碎了我对“大人”的刻板印象｜儿童文学评审团",
+          "imageUrl": null
+        },
+        {
+          "id": "3d0b8708ba8dc7cdcc4971aa27b2cd30",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E5%8C%97%E5%A4%A7%EF%BC%8C%E6%A0%A1%E5%9B%AD%E7%BE%8E%E5%9C%A8%E8%B6%B3%E5%A4%9F%E9%87%8E%E6%80%A7",
+          "publishedOn": "2026-07-19T03:16:00.000Z",
+          "wordCount": 308,
+          "title": "北大，校园美在足够野性",
+          "imageUrl": null
+        },
+        {
+          "id": "1f7b41aa6aa233099b7e94e19ac979a9",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E5%8C%97%E4%BA%AC%E6%9E%97%E4%B8%9A%E5%A4%A7%E5%AD%A6%EF%BC%9A%E8%97%8F%E5%9C%A8%E6%A0%A1%E5%9B%AD%E9%87%8C%E7%9A%84%E7%94%9F%E5%91%BD%E5%92%8C%E6%95%85%E4%BA%8B",
+          "publishedOn": "2026-07-19T03:16:00.000Z",
+          "wordCount": 296,
+          "title": "北京林业大学：藏在校园里的生命和故事",
+          "imageUrl": null
+        },
+        {
+          "id": "6c52f3fd203b744443d53aff9139bc80",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E7%97%96%E5%BC%A6%EF%BC%9A%E2%80%9C%E6%88%91%E7%9A%84%E7%81%B5%E9%AD%82%E5%BF%85%E9%A1%BB%E5%BD%92%E5%AE%B6%E2%80%9D%E4%B8%A8%E8%AF%97%E4%BA%BA%E8%AF%BB%E8%AF%97%E3%8A%B9",
+          "publishedOn": "2026-07-18T01:59:00.000Z",
+          "wordCount": 263,
+          "title": "痖弦：“我的灵魂必须归家”丨诗人读诗㊹",
+          "imageUrl": null
+        },
+        {
+          "id": "dc437d82556d8c9fd474d56d8d488864",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E3%80%8A%E5%A4%A9%E4%B9%A6%E5%A5%87%E8%B0%AD%E3%80%8B%EF%BC%9A%E5%9C%A8%E9%87%91%E5%BA%B8%E6%AD%A6%E5%AD%A6%E4%B8%AD%E4%B8%80%E7%9D%B9%E4%B8%AD%E8%A5%BF%E5%BB%BA%E7%AD%91%E5%AD%A6%E8%AF%B4%E7%9A%84%E5%A5%87%E5%A4%A9%E5%A6%99%E5%A2%83",
+          "publishedOn": "2026-07-18T01:59:00.000Z",
+          "wordCount": 262,
+          "title": "《天书奇谭》：在金庸武学中一睹中西建筑学说的奇天妙境",
+          "imageUrl": null
+        },
         {
           "id": "0b81edea07ab90a3e70b7a6bf7a2c729",
           "author": null,
