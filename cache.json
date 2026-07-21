@@ -44,16 +44,6 @@
           "wordCount": 6139,
           "title": "R Weekly 2026-W27 Prime Ministers, No Code Dashboards, Reproducible Research",
           "imageUrl": "https://rweekly.org/public/facebook.png"
-        },
-        {
-          "id": "https://rweekly.org/2026-W26.html",
-          "author": null,
-          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Eric Nantz, with help from the R Weekly team members and contributors.\nHighlight\n2026 Rousseeuw Prize for Statistics Awarded to R Core Team for Transforming Statistics Computing Worldwide\nCelebrating Our Maintainers during Maintainers Month\n10 tips for getting better R code from your AI coding agent\nInsights\n2026 Rousseeuw Prize for Statistics Awarded to R Core Team for Transforming Statistics Computing Worldwide\nRStudio AI That Doesn’t Cost a Penny: llmcoder vs. Posit AI Assistant\nWhat R users struggle with\nR in the Real Worlds\n10 tips for getting better R code from your AI coding agent\nR in Organizations\nCelebrating Our Maintainers during Maintainers Month\nMediforce x Data…",
-          "link": "https://rweekly.org/2026-W26.html",
-          "publishedOn": "2026-06-22T00:00:00.000Z",
-          "wordCount": 6170,
-          "title": "R Weekly 2026-W26 Rousseeuw Prize, Celebrating Maintainers, AI Tips",
-          "imageUrl": "https://rweekly.org/public/facebook.png"
         }
       ]
     },
@@ -74,6 +64,36 @@
       "feedUrl": "https://www.nationalreview.com/feed/",
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
+        {
+          "id": "https://www.nationalreview.com/?p=2001796",
+          "author": "Rich Lowry",
+          "description": "The DSA has released a new program that calls for abolishing the Senate, the presidency, and the Supreme Court.",
+          "link": "https://www.nationalreview.com/2026/07/socialists-vs-the-senate/",
+          "publishedOn": "2026-07-21T15:57:29.000Z",
+          "wordCount": null,
+          "title": "Socialists vs. the Senate",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=2001217",
+          "author": "Vance Ginn",
+          "description": "Politicians can blame Wall Street, landlords, out-of-state buyers, or anyone else — but the real issue is still scarcity.",
+          "link": "https://www.nationalreview.com/2026/07/states-shouldnt-copy-congresss-housing-mistakes/",
+          "publishedOn": "2026-07-21T10:30:38.000Z",
+          "wordCount": null,
+          "title": "States Shouldn’t Copy Congress’s Housing Mistakes",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=2001491",
+          "author": "The Editors",
+          "description": "The security vulnerabilities were entirely predictable.",
+          "link": "https://www.nationalreview.com/2026/07/the-qatar-force-one-fiasco/",
+          "publishedOn": "2026-07-21T10:30:34.000Z",
+          "wordCount": null,
+          "title": "The Qatar Force One Fiasco",
+          "imageUrl": null
+        },
         {
           "id": "https://www.nationalreview.com/?p=2001288",
           "author": "Noah Rothman",
@@ -2223,16 +2243,6 @@
           "wordCount": 6598,
           "title": "The Ivy League’s Testing Turnaround Proves the SAT Is Still an Engine for Upward Mobility",
           "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/06/columbia-university-campus.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1982890",
-          "author": "John Fund",
-          "description": "How the Democratic Socialists of America became the country’s fastest-growing political force.",
-          "link": "https://www.nationalreview.com/2026/06/socialism-is-on-the-march/",
-          "publishedOn": "2026-06-21T22:05:12.000Z",
-          "wordCount": 6603,
-          "title": "Socialism Is on the March",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/06/mandani-candidates.jpg?fit=2057%2C1200&ssl=1"
         }
       ]
     },
@@ -3250,26 +3260,6 @@
           "wordCount": 358,
           "title": "线索若隐若现：深入 Tim Cook 和 Nike 的商业连接",
           "imageUrl": null
-        },
-        {
-          "id": "https://sspai.com/post/110742",
-          "author": "PJHubs",
-          "description": "恩施的峡谷之美在全国甚至全球都是一绝。查看全文",
-          "link": "https://sspai.com/post/110742",
-          "publishedOn": "2026-06-22T03:07:02.000Z",
-          "wordCount": 290,
-          "title": "恩施龙船调，游土随川流",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sspai.com/post/111343",
-          "author": "少数派编辑部",
-          "description": "英特尔将为苹果代工芯片\n库克称 iPhone 涨价不可避免\n美国科技公司政策转向，限制员工 AI 成本\nModos 推出开源 13.3 寸彩色墨水屏\nManus 原投资人计划将其原价购回\nCMF 已取消今年发布计划\n看看就行的简讯\n少数派的近期动态\n你可能错过的好文章\n查看全文",
-          "link": "https://sspai.com/post/111343",
-          "publishedOn": "2026-06-21T23:13:32.000Z",
-          "wordCount": 527,
-          "title": "派早报：英特尔将为苹果代工芯片",
-          "imageUrl": null
         }
       ]
     },
@@ -3278,6 +3268,76 @@
       "feedUrl": "https://plink.anyfeeder.com/idaily/today",
       "siteUrl": "https://idai.ly",
       "articles": [
+        {
+          "id": "idaily-255235",
+          "author": "荷兰 · 诺德韦克",
+          "description": "欧空局「柏拉图号」（PLATO）空间望远镜正在接受电磁兼容性测试，荷兰诺德韦克。7月20日，欧空局宣布 PLATO 空间望远镜成功通过电磁兼容性测试，确认所有搭载电子仪器在真空环境下能够正常协同运行，不会产生电磁信号干扰。「柏拉图」号全称为「行星凌日和恒星振荡探测器」，长3.5米，宽3.1米，高3.7米，重约2300千克，共搭载26台光学望远镜和104枚感光元件，拍摄图像分辨率可达20亿像素以上，主要任务是寻找具有宜居性的类地行星，预计2027年3月发射升空。摄影师：ESA",
+          "link": "https://m.idai.ly/se/6f7UdG",
+          "publishedOn": "2026-07-21T09:59:00.000Z",
+          "wordCount": 249,
+          "title": "欧空局柏拉图望远镜测试 - July 21, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/5b30595da4/a1406f75.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/5b30595da4/a1406f75.jpg"
+        },
+        {
+          "id": "idaily-255234",
+          "author": "英国 · 伦敦",
+          "description": "英国新任首相 Andy Burnham 抵达唐宁街10号首相府，伦敦。7月20日，英国国王查尔斯三世正式任命工党领袖 Andy Burnham 为英国第59任首相并授权其组建新政府。现年56岁的 Burnham 是英国10年来的第7位首相，他出生于英国工薪阶层家庭，拥有剑桥大学文学硕士学位，曾任财政部首席秘书、文化大臣、卫生大臣等职务，并担任3届大曼彻斯特市长。他在就职演讲中承诺将开启英国40年来最大规模的政治与经济改革，包括将公共事业收归国有、降低生活和住房成本、改革教育体制等。摄影师：Neil Hall",
+          "link": "https://m.idai.ly/se/7faYrm",
+          "publishedOn": "2026-07-21T08:58:00.000Z",
+          "wordCount": 249,
+          "title": "英国新首相正式上任 - July 21, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/f6db26342a/8c60dab4.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/f6db26342a/8c60dab4.jpg"
+        },
+        {
+          "id": "idaily-255232",
+          "author": "韩国 · 首尔",
+          "description": "韩亚银行屏幕上显示韩国综合股价指数（KOSPI）收盘数据，首尔。7月20日，韩国 KOSPI 指数收盘暴跌-304.33点至6516.27点，单日跌幅达到-4.46%并触发熔断机制，创下自4月24日以来的最低收盘点位，其中三星电子股价下跌-4.31%，SK 海力士股价下跌-4.23%。本轮韩国股市下跌主要受半导体股回调和中东冲突局势升级影响，7月以来总市值已缩水20%，其中三星电子市值比上月底缩水20%，SK海力士缩水近30%。摄影师：Jeon Heon-Kyun",
+          "link": "https://m.idai.ly/se/e529PF",
+          "publishedOn": "2026-07-21T07:57:00.000Z",
+          "wordCount": 249,
+          "title": "韩国股市7月迄今跌-20% - July 21, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/7c2291863a/48e243a6.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/7c2291863a/48e243a6.jpg"
+        },
+        {
+          "id": "idaily-255231",
+          "author": "中国 · 上海",
+          "description": "2026年世界人工智能大会，一款比亚迪6英寸碳化硅晶圆正在公开展出，中国上海。7月20日，中国机电商会公布2026年上半年中国集成电路出口总额达1772.8亿美元，同比增长96.1%；出口总量达1794.4亿块，同比增长7%；出口单价达到1.206美元，同比增长83.3%；其中6月集成电路出口382.1亿美元，同比增长122.2%，连续32个月实现同比增长，主要受全球人工智能（AI）服务器、数据中心、高性能计算等需求持续旺盛推动。摄影师：iDaily Media",
+          "link": "https://m.idai.ly/se/b7cf84",
+          "publishedOn": "2026-07-21T07:55:00.000Z",
+          "wordCount": 258,
+          "title": "中国上半年芯片出口增96.1% - July 21, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/de737d142a/41bbbb57.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/de737d142a/41bbbb57.jpg"
+        },
+        {
+          "id": "idaily-255230",
+          "author": "加拿大 · 安大略省",
+          "description": "加拿大尼亚加拉瀑布城海洋世界的一只白鲸正在被转运至其他水族馆，安大略省。7月20日，加拿大渔业部启动一项白鲸跨国转运行动，计划将30只白鲸从已倒闭的尼亚加拉瀑布海洋世界转移至美国和西班牙的多家水族馆。首批被转运的白鲸共有6只，其中4只由芝加哥谢德水族馆接收，2只由得克萨斯州圣安东尼奥海洋世界接收。尼亚加拉瀑布海洋世界于1961年开业，因经营不善导致饲养海洋动物生活环境恶劣，2019年以来共有19只白鲸和1只虎鲸死亡。该水族馆已于2024年永久停业，馆内白鲸将在未来数周内转移至其他水族馆。摄影师：Carlos Osorio",
+          "link": "https://m.idai.ly/se/b2ak2G",
+          "publishedOn": "2026-07-21T07:53:00.000Z",
+          "wordCount": 249,
+          "title": "加拿大圈养白鲸转移安置 - July 21, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/7244194d1a/17a06772.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/7244194d1a/17a06772.jpg"
+        },
         {
           "id": "idaily-255178",
           "author": "法国 · 巴黎",
@@ -7456,56 +7516,6 @@
           "wordCount": 1798,
           "title": "乌兹别克斯坦，“丝绸之路的璀璨之心”",
           "imageUrl": "https://static01.nyt.com/images/2026/05/11/multimedia/00trav-uzbekistan-01-lfkh/00trav-uzbekistan-01-lfkh-articleLarge-v3.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/opinion/20260622/elon-musk-trillionaire-wealth-plato/dual",
-          "author": null,
-          "description": "DAVID LAY WILLIAMS2026年6月22日 Anna Haifisch\nEver since Elon Musk became the world’s first trillionaire, people have been trying to grasp the scale of his incomprehensible fortune.\n自从埃隆·马斯克成为世界上第一位万亿富翁以来，人们一直试图理解他那令人难以置信的巨额财富究竟有多庞大。\nSome have noted that a stack of $100 bills amounting to $1 trillion would extend 679 miles high. The economist Steven Durlauf has observed that John D. Rockefeller’s wealth at one point equaled about 1.5 percent of the U.S. gross domestic product and that Mr. Musk’s wealth now amounts to at least twice as much, at more than 3 percent. It may not escape New York Knicks fans that even Jalen Brunson, who makes about $39 million per year, would need to play more than 25,000 seasons to accumulate that kind of money.\n有人指出，1万亿美元的百元美钞叠起来约有1092千米高。经济学家史蒂文·德劳夫观察到，约翰·洛克菲勒的财…",
-          "link": "https://cn.nytimes.com/opinion/20260622/elon-musk-trillionaire-wealth-plato/dual",
-          "publishedOn": "2026-06-22T05:36:02.000Z",
-          "wordCount": 991,
-          "title": "马斯克与贪得无厌的罪恶",
-          "imageUrl": "https://static01.nyt.com/images/2026/06/21/opinion/21williams/21williams-articleLarge-v2.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/world/20260622/iran-us-peace-deal-nuclear-program-threats/dual",
-          "author": null,
-          "description": "NEIL MACFARQUHAR2026年6月22日德黑兰街头一幅表现伊朗前两任最高领袖的宣传画，摄于本月。第二任最高领袖哈梅内伊在今年美以对伊朗军事行动初期被击毙。 Arash Khamooshi/Polaris for The New York Times\nIn igniting a war against Iran on Feb. 28, President Trump billed the U.S. campaign as an unprecedented step toward transforming the Middle East and terminating the threat from what he called a “wicked, radical dictatorship.”\n2月28日点燃对伊战火时，特朗普总统将美国的这场军事行动描述为一项史无前例的举措，旨在重塑中东，并彻底消除他所称的“邪恶激进独裁政权”所带来的威胁。\nRoughly 100 days later, as the United States and Iran have reached a somewhat vague memorandum of understanding to end the war, skeptics are expressing bafflement over what exactly has transformed.\n约100天后，随着美伊达成一份措辞较为模糊的谅解备忘录，宣告战争结束，质疑者感到困惑——中东究竟发生了什么实质性改变。\nNeither the war nor the agreement ended what U.S. and Israeli officials regard as the main threats emanating f…",
-          "link": "https://cn.nytimes.com/world/20260622/iran-us-peace-deal-nuclear-program-threats/dual",
-          "publishedOn": "2026-06-22T03:06:02.000Z",
-          "wordCount": 1409,
-          "title": "美国武力威慑未能实现目标，伊朗战争究竟取得了什么成果",
-          "imageUrl": "https://static01.nyt.com/images/2026/06/21/multimedia/21int-iran-war-aftermath-gjlt/21int-iran-war-aftermath-gjlt-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/health/20260622/retatrutide-peptide-weight-loss-black-market/dual",
-          "author": null,
-          "description": "DANI BLUM2026年6月22日 Ard Su\nRetatrutide, the most powerful weight-loss drug in development, is not expected to hit the U.S. market before next year, at the earliest. But Adil Kalam, a 37-year-old in Brooklyn, already has 20 vials of it in his freezer.\n瑞他鲁肽是目前研发中最强效的减肥药，预计最早也要到明年才能进入美国市场。但在布鲁克林，37岁的阿迪尔·卡拉姆已经在冰箱里存放了20瓶瑞他鲁肽。\nMr. Kalam used Bitcoin to purchase the drug from an online retailer selling $99 vials labeled “for research purposes only.” His first order arrived in a cardboard box, the vials of powdered medication packaged in bubble wrap.\n卡拉姆使用比特币从一家网上零售商那里购买了这种药物，每支标价99美元，标签上注明“仅限研究用途”。他的第一笔订单装在一个纸箱里送达，装有粉末状药物的安瓿被气泡膜包裹着。\n“It didn’t really inspire confidence,” Mr. Kalam admitted.\n“这确实让人不太放心，”卡拉姆承认。\nMr. Kalam and eight of his friends order the drug in bulk. He understands that there is …",
-          "link": "https://cn.nytimes.com/health/20260622/retatrutide-peptide-weight-loss-black-market/dual",
-          "publishedOn": "2026-06-22T02:36:02.000Z",
-          "wordCount": 1539,
-          "title": "中国实验室、网络商店：强效减肥药瑞他鲁肽黑市交易猖獗",
-          "imageUrl": "https://static01.nyt.com/images/2026/06/23/well/18WELL-RETA-image/18WELL-RETA-image-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/technology/20260622/telegram-ban-india/dual",
-          "author": null,
-          "description": "JOHN YOON2026年6月22日 Sasha Maslov for The New York Times\nTelegram, a popular messaging app known for its resistance to government scrutiny, has been used widely by protesters and news organizations evading authoritarian control. However, it has also been accused of enabling terrorism, crime and disinformation.\nTelegram是一款以抵抗政府审查而闻名的流行消息应用，广泛被抗议者和新闻机构用来规避威权控制。然而，它也被指责助长恐怖主义、犯罪和虚假信息。\nGovernments around the world have tried to limit Telegram through bans, restrictions and criminal investigations, including in France, where its creator has faced criminal charges.\n世界各国政府已试图通过禁令、限制措施和刑事调查来限制Telegram，其中法国对其创始人发起了刑事指控。\nThe app was banned by Russia, where it had been used for political dissent; restricted from government-issued devices in Ukraine over national security reasons; and temporarily suspe…",
-          "link": "https://cn.nytimes.com/technology/20260622/telegram-ban-india/dual",
-          "publishedOn": "2026-06-22T02:06:03.000Z",
-          "wordCount": 1113,
-          "title": "为什么Telegram在世界各地都遇到了麻烦？",
-          "imageUrl": "https://static01.nyt.com/images/2026/07/17/multimedia/17xp-telegram-fbjv/17xp-telegram-fbjv-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/business/20260622/china-oil-iran/dual",
-          "author": null,
-          "description": "KEITH BRADSHER2026年6月22日南京的一家炼油厂，摄于上月。战争期间，中国的炼油厂一直维持运转。 Hector Retamal/Agence France-Presse — Getty Images\nWhile the United States and Iran haggle over reopening the Strait of Hormuz and restoring oil exports from the Persian Gulf, China, the world’s largest oil importer, is not expected to quickly ramp up purchases from the region.\n尽管美国和伊朗正在就重新开放霍尔木兹海峡、恢复波斯湾石油出口进行讨价还价，但全球最大石油进口国中国预计不会迅速增加从该地区的采购。\nIf normal traffic through the strait fully resumes in the coming weeks, numerous tankers carrying oil bound for China that have been stranded in the Persian Gulf during the war would be on the move again. Their eventual arrival at Chinese ports is likely to produce a temporary surge in deliveries.\n如果未来几周霍尔木兹海峡的航运完全恢复正常，那么战争期间滞留在波斯湾、原本前往中国的许多油轮将重新启航。这些油轮陆续抵达中国港口后，可能会带来短暂的原油到港高峰。\nChina finds itsel…",
-          "link": "https://cn.nytimes.com/business/20260622/china-oil-iran/dual",
-          "publishedOn": "2026-06-22T01:06:02.000Z",
-          "wordCount": 1181,
-          "title": "世界各国争相抢购石油，中国原油库存仍接近满仓",
-          "imageUrl": "https://static01.nyt.com/images/2026/06/19/multimedia/Biz-China-Oil-01-chvz/Biz-China-Oil-01-chvz-articleLarge.jpg"
         }
       ]
     },
@@ -8272,36 +8282,6 @@
           "publishedOn": "2026-06-23T01:43:00.000Z",
           "wordCount": 259,
           "title": "“我应该怎么活着？”：他用人生最后十年，译出百万字巨著《约翰·克里斯朵夫》",
-          "imageUrl": null
-        },
-        {
-          "id": "4b203e118b84ce377ff1dbf9fafdce59",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E4%B8%80%E5%AE%B6%E5%B0%8F%E5%B0%8F%E7%9A%84%E4%B9%A6%E9%93%BA%EF%BC%8C%E6%98%AF%E7%94%9F%E5%91%BD%E4%B8%AD%E6%9C%80%E5%80%BC%E5%BE%97%E5%9B%9E%E5%91%B3%E7%9A%84%E5%9C%B0%E6%96%B9",
-          "publishedOn": "2026-06-22T02:11:00.000Z",
-          "wordCount": 294,
-          "title": "一家小小的书铺，是生命中最值得回味的地方",
-          "imageUrl": null
-        },
-        {
-          "id": "5b02f8d4e9b182f323c6220c0736b387",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E6%89%98%E5%85%8B%E7%BB%B4%E5%B0%94%EF%BC%9A%E6%97%A0%E6%B3%95%E5%9B%9E%E4%B9%A1%E7%9A%84%E6%B8%B8%E8%8D%A1%E8%80%85",
-          "publishedOn": "2026-06-22T02:11:00.000Z",
-          "wordCount": 256,
-          "title": "托克维尔：无法回乡的游荡者",
-          "imageUrl": null
-        },
-        {
-          "id": "f441676dd50b85618589df0e1660a833",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E8%B5%B0%E5%90%91%E5%B9%B3%E5%8F%B0%E5%90%88%E4%BD%9C%E4%B8%BB%E4%B9%89%EF%BC%9A%E6%9C%AA%E6%9D%A5%E7%BB%8F%E6%B5%8E%E7%A4%BE%E4%BC%9A%E7%9A%84%E5%8F%A6%E4%B8%80%E7%A7%8D%E5%8F%AF%E8%83%BD%EF%BC%9F",
-          "publishedOn": "2026-06-22T02:11:00.000Z",
-          "wordCount": 297,
-          "title": "走向平台合作主义：未来经济社会的另一种可能？",
           "imageUrl": null
         }
       ]
