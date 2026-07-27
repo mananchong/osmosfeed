@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mananchong.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-27T10:54:18.188Z</updated>
+    <updated>2026-07-27T18:07:09.537Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mananchong.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://mananchong.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The DSA Wants to Abolish America]]></title>
+        <id>https://www.nationalreview.com/?p=2006581</id>
+        <link href="https://www.nationalreview.com/2026/07/the-dsa-wants-to-abolish-america/"/>
+        <updated>2026-07-27T16:13:10.000Z</updated>
+        <summary type="html"><![CDATA[We should, in fact, be ‘scared’ by Megan Romer and her ilk.]]></summary>
+        <author>
+            <name>Charles C. W. Cooke</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[It’s Time to Reexamine Monetary Policy Rules]]></title>
         <id>https://www.nationalreview.com/?p=2004368</id>
@@ -54,6 +64,76 @@
         <summary type="html"><![CDATA[For the first time since the Reagan administration, the government is serious about rebuilding our maritime industry.]]></summary>
         <author>
             <name>Jim Talent</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[联盟号载人飞船返回地球 - July 27, 2026]]></title>
+        <id>idaily-255575</id>
+        <link href="https://m.idai.ly/se/e3fVBC"/>
+        <updated>2026-07-27T10:26:00.000Z</updated>
+        <summary type="html"><![CDATA[俄罗斯「联盟 MS-28」载人飞船返回舱在哈萨克斯坦草原着陆，3名宇航员正在等待出舱。7月26日，俄罗斯宇航员 Sergey Kud-Sverchkov、Sergei Mikaev 和美国宇航员 Chris Williams 乘坐联盟号载人飞船返回地球，结束为期241天的国际空间站驻留任务。这3名宇航员驻站期间共参与完成约40项科学实验和2次太空行走任务，累计绕地球飞行3856圈，总飞行里程超过1.64亿公里。摄影师：Bill Ingalls]]></summary>
+        <author>
+            <name>哈萨克斯坦 · 杰兹卡兹甘</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特朗普宣布美国核能进展 - July 27, 2026]]></title>
+        <id>idaily-255572</id>
+        <link href="https://m.idai.ly/se/c5anWx"/>
+        <updated>2026-07-27T10:26:00.000Z</updated>
+        <summary type="html"><![CDATA[美国总统 Donald Trump 在白宫就美国核能技术创新发表讲话，华盛顿特区。7月24日，美国总统 Trump 宣布2025年迄今已有4座新核反应堆实现临界运行，超额完成美国能源部2025年确定的核能发展目标，并表示其政府正在评估在联邦海域建设核电站的可行性。美国境内目前共有94座正在运营中的商业核反应堆，总装机容量约为100吉瓦，美国能源部目标至2029年新增5吉瓦核能装机容量。摄影师：Bonnie Cash]]></summary>
+        <author>
+            <name>美国 · 华盛顿特区</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[哈萨克斯坦总统访俄 - July 27, 2026]]></title>
+        <id>idaily-255571</id>
+        <link href="https://m.idai.ly/se/fa26iZ"/>
+        <updated>2026-07-27T10:26:00.000Z</updated>
+        <summary type="html"><![CDATA[俄罗斯总统 Vladimir Putin 与哈萨克斯坦总统 Kassym-Jomart Tokayev 举行会晤，鄂木斯克。7月25日，哈萨克斯坦总统 Tokayev 应邀访问俄罗斯并出席第22届俄哈区域间合作论坛会议，两国领导人就双边关系、区域合作、俄乌冲突等议题交换意见。俄总统 Putin 在会晤中指出俄哈关系具有战略意义和良好的发展前景，两国在全球运输和物流领域具有无限的合作潜力。哈萨克斯坦总统 Tokayev 表示哈萨克斯坦始终坚定致力于与俄罗斯建立建设性的战略伙伴关系，呼吁俄乌冻结冲突并重返谈判桌。俄罗斯是哈萨克斯坦第二大贸易伙伴和最大投资来源国，2026年1至5月两国双边贸易额超过122亿美元，同比增长逾15%。摄影师：Vyacheslav Prokofyev]]></summary>
+        <author>
+            <name>俄罗斯 · 鄂木斯克</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[德国总统访问印度教社区 - July 27, 2026]]></title>
+        <id>idaily-255570</id>
+        <link href="https://m.idai.ly/se/cc8FF5"/>
+        <updated>2026-07-27T10:26:00.000Z</updated>
+        <summary type="html"><![CDATA[德国总统 Frank-Walter Steinmeier 出席印度教神庙庆祝活动，哈姆市。7月26日，德国总统 Steinmeier 访问德国西部城市哈姆市的印度教社区并参加当地印度教神庙庆典仪式，他在致辞中称赞印度教社区是德国宗教多样性的组成部分，鼓励德国不同宗教群体之间保持对话和相互尊重。德国境内现有约30万印度裔人口，占德国总人口约0.36%，过去10年增长超过200%。摄影师：Federico Gambarini]]></summary>
+        <author>
+            <name>德国 · 哈姆</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[金正恩参谒烈士陵园 - July 27, 2026]]></title>
+        <id>idaily-255569</id>
+        <link href="https://m.idai.ly/se/79a30l"/>
+        <updated>2026-07-27T10:26:00.000Z</updated>
+        <summary type="html"><![CDATA[朝鲜最高领导人金正恩参谒中国人民志愿军烈士陵园，平安南道桧仓郡。7月26日，朝鲜最高领导人金正恩在朝鲜战争胜利73周年前夕参拜中国人民志愿军烈士陵园，并以个人名义在烈士塔前献上花圈。朝中社报道称，中国人民志愿军勇士们在最为艰苦、关乎命运的年代，用鲜血支援了朝鲜人民的正义战争，朝鲜人民永志不忘中国人民的优秀儿女在击退帝国主义侵略的前所未有的殊死战斗中与朝鲜军民在同一个战壕里并肩奋战，无私奉献自己热血和青春的功绩和英雄殊勋。摄影师：KCNA]]></summary>
+        <author>
+            <name>朝鲜 · 平安南道</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[台风「红霞」登陆广东 - July 27, 2026]]></title>
+        <id>idaily-255566</id>
+        <link href="https://m.idai.ly/se/a48R4V"/>
+        <updated>2026-07-27T10:26:00.000Z</updated>
+        <summary type="html"><![CDATA[香港维多利亚港迎来超强台风「红霞」，中国。7月26日凌晨3时50分左右，2026年第12号台风「红霞」在广东省惠州市沿海登陆，中心附近最大风力达每秒45米，成为2026年迄今登陆中国的最强台风。受台风「红霞」带来的强降雨影响，广东省应急管理厅累计转移全省近90万人，香港机场约350个航班被取消。「红霞」目前已减弱为热带低压，预计未来3天将继续深入内陆，为广东、江西、湖南、湖北等地带来持续强风和暴雨。摄影师：Vernon Yuen]]></summary>
+        <author>
+            <name>中国 · 香港</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[曼谷市政府宠物绝育服务 - July 27, 2026]]></title>
+        <id>idaily-255565</id>
+        <link href="https://m.idai.ly/se/5bbIqW"/>
+        <updated>2026-07-27T10:26:00.000Z</updated>
+        <summary type="html"><![CDATA[曼谷市政人员正在为猫咪进行公益绝育手术，泰国。7月26日，曼谷市政府开展新一轮社区宠物公益服务活动，包括提供免费接种狂犬病疫苗以及绝育手术。曼谷市政府将从2027年1月10日起实施新版宠物管理条例，具体要求包括所有居民饲养的宠物必须进行登记并植入芯片、按居住面积限制饲养宠物数量、严禁公共场所无绳遛狗等，违者最高可面临2.5万泰铢（约合745美元）罚款。摄影师：Rungroj Yongrit]]></summary>
+        <author>
+            <name>泰国 · 曼谷</name>
         </author>
     </entry>
     <entry>
@@ -188,6 +268,67 @@ On Friday, Beijing took similar action against even more companies in Europe.
 China’s Ministry of Commerce announced that it had banned any further shipment to 14 companies in the European Union of “dual-use” materials or products — items that China describes as potentially having both military and civilian applications. As a result, the companies may struggle to buy many of the critical minerals they need to make products like rare-earth magnets and sem…]]></summary>
         <author>
             <name>纽约时报双语版</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[R Weekly 2026-W31 Building glue, Self-Describing Scripts, What Makes R Strong]]></title>
+        <id>https://rweekly.org/2026-W31.html</id>
+        <link href="https://rweekly.org/2026-W31.html"/>
+        <updated>2026-07-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hello and welcome to this new issue!
+How to have (my) content shared by R Weekly?
+This week’s release was curated by Colin, with help from the R Weekly team members and contributors.
+Highlight
+Building our own glue with R
+ir 0.1.0: self-describing R scripts and Quarto documents
+What Makes R Strong: Reflections from useR! 2026
+Insights
+What Makes R Strong: Reflections from useR! 2026
+
+Outcomes from EuroBioC2026 Tidyomics Hackathon
+R in the Real World
+New Frontier
+ir 0.1.0: self-describing R scripts and Quarto documents
+
+Tutorials
+A {tidy} companion to the StatQuest Illustrated Guide to Statistics
+Building our own glue with R
+
+Multiple Imputation Analysis with mianalyze()
+Resources
+A world still to be mapped: reflections on geocomputation in R: takeaways from the talk and workshop at UseR! 2026
+New Packages
+📦 Go Live for More New Pkgs 📦
+ -->
+📦 Keep up to date wtih CRANberries 📦
+CRAN
+Bioconductor
+GitHub or Bitbucket or GitLab
+Updated Packages
+🔍 Search on R-universe 🔍
+muttest 0.3.0: Turn surviving mutants into a to-do list
+Videos and Podcasts
+Listen to the R-Weekly Highlights Podcast
+Gist & Cookbook
+Little useless-useful R functions – Jug solver with Bezout’s Identity
+R Internationally
+Taller: Crea tu propia página web con Quarto y R
+Truco de RStudio: escribe en múltiples líneas al mismo tiempo
+Sobre números pequeños y con muchos decimales
+
+-->
+
+R Project Updates
+Updates from R Core:
+Upcoming Events in 3 Months
+Events in 3 Months:
+A list of R conferences and meetings
+This week’s local R-User and applied stats events
+Weekly R Workshops for Ukraine
+Connect
+Join the Data Science Learning Community]]></summary>
+        <author>
+            <name>RWeekly.org - Blogs to Learn R from the Community</name>
         </author>
     </entry>
     <entry>
@@ -7797,33 +7938,6 @@ Notion Mail 宣布关闭
         <summary type="html"><![CDATA[Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文]]></summary>
         <author>
             <name>蔡箜篌</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一件瓷器的诞生]]></title>
-        <id>83902788b0521d825569f8caa0cd0e3e</id>
-        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E4%B8%80%E4%BB%B6%E7%93%B7%E5%99%A8%E7%9A%84%E8%AF%9E%E7%94%9F"/>
-        <updated>2026-06-28T01:43:00.000Z</updated>
-        <author>
-            <name>新京报书评周刊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[景德镇：在碎片中发掘的瓷器古都]]></title>
-        <id>ed274b57005910cbe0addc21073bd17b</id>
-        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E6%99%AF%E5%BE%B7%E9%95%87%EF%BC%9A%E5%9C%A8%E7%A2%8E%E7%89%87%E4%B8%AD%E5%8F%91%E6%8E%98%E7%9A%84%E7%93%B7%E5%99%A8%E5%8F%A4%E9%83%BD"/>
-        <updated>2026-06-28T01:43:00.000Z</updated>
-        <author>
-            <name>新京报书评周刊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[海洋温度升高意味着什么？]]></title>
-        <id>39f2efc7437861e4ba22dfa583b321dd</id>
-        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E6%B5%B7%E6%B4%8B%E6%B8%A9%E5%BA%A6%E5%8D%87%E9%AB%98%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88%EF%BC%9F"/>
-        <updated>2026-06-28T01:43:00.000Z</updated>
-        <author>
-            <name>新京报书评周刊</name>
         </author>
     </entry>
 </feed>

@@ -6,6 +6,16 @@
       "siteUrl": "https://rweekly.org/atom.xml",
       "articles": [
         {
+          "id": "https://rweekly.org/2026-W31.html",
+          "author": null,
+          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Colin, with help from the R Weekly team members and contributors.\nHighlight\nBuilding our own glue with R\nir 0.1.0: self-describing R scripts and Quarto documents\nWhat Makes R Strong: Reflections from useR! 2026\nInsights\nWhat Makes R Strong: Reflections from useR! 2026\n\nOutcomes from EuroBioC2026 Tidyomics Hackathon\nR in the Real World\nNew Frontier\nir 0.1.0: self-describing R scripts and Quarto documents\n\nTutorials\nA {tidy} companion to the StatQuest Illustrated Guide to Statistics\nBuilding our own glue with R\n\nMultiple Imputation Analysis with mianalyze()\nResources\nA world still to be mapped: reflections on geocomputation in R: takeaways from the talk and workshop at UseR! 2026\nNew Packages\n📦 Go Live for More New Pkgs 📦\n -->\n📦 Keep up to date wtih CRANberries 📦\nCRAN\nBioconductor\nGitHub or Bitbucket or GitLab\nUpdated Packages\n🔍 Search on R-universe 🔍\nmuttest 0.3.0: Turn surviving mutants into a to-do list\nVideos and Podcasts\nListen to the R-Weekly Highlights Podcast\nGist & Cookbook\nLittle useless-useful R functions – Jug solver with Bezout’s Identity\nR Internationally\nTaller: Crea tu propia página web con Quarto y R\nTruco de RStudio: escribe en múltiples líneas al mismo tiempo\nSobre números pequeños y con muchos decimales\n\n-->\n\nR Project Updates\nUpdates from R Core:\nUpcoming Events in 3 Months\nEvents in 3 Months:\nA list of R conferences and meetings\nThis week’s local R-User and applied stats events\nWeekly R Workshops for Ukraine\nConnect\nJoin the Data Science Learning Community",
+          "link": "https://rweekly.org/2026-W31.html",
+          "publishedOn": "2026-07-27T00:00:00.000Z",
+          "wordCount": 5560,
+          "title": "R Weekly 2026-W31 Building glue, Self-Describing Scripts, What Makes R Strong",
+          "imageUrl": "https://rweekly.org/public/facebook.png"
+        },
+        {
           "id": "https://rweekly.org/2026-W30.html",
           "author": null,
           "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Eric Nantz, with help from the R Weekly team members and contributors.\nHighlight\nChord diagrams in R with ggchord2\nR Consortium Awards First Round of 2026 Technical Grants\nR Blackmagic for LLM Prompting\nInsights\nFrom Peer Review to Mentorship: My rOpenSci Story\nStop Vibe-Checking Your AI Agent: Build an Eval Pipeline Instead\nuseR! 2026: CRDTs, community, and contributing back to R\nR in the Real World\nNavigating Challenges in Spatial Machine Learning\nIntroducing an MCP Server for ORION-DBs\nR in Organizations\nR Consortium Awards First Round of 2026 Technical Grants\nR in Academia\nA Small Quarto Skill for Better Research Talks\nTutorials\nFour common PERMANOVA mistakes in ecology\n…",
@@ -64,6 +74,16 @@
       "feedUrl": "https://www.nationalreview.com/feed/",
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
+        {
+          "id": "https://www.nationalreview.com/?p=2006581",
+          "author": "Charles C. W. Cooke",
+          "description": "We should, in fact, be ‘scared’ by Megan Romer and her ilk.",
+          "link": "https://www.nationalreview.com/2026/07/the-dsa-wants-to-abolish-america/",
+          "publishedOn": "2026-07-27T16:13:10.000Z",
+          "wordCount": null,
+          "title": "The DSA Wants to Abolish America",
+          "imageUrl": null
+        },
         {
           "id": "https://www.nationalreview.com/?p=2004368",
           "author": "Jeb Hensarling",
@@ -3238,6 +3258,104 @@
       "feedUrl": "https://plink.anyfeeder.com/idaily/today",
       "siteUrl": "https://idai.ly",
       "articles": [
+        {
+          "id": "idaily-255575",
+          "author": "哈萨克斯坦 · 杰兹卡兹甘",
+          "description": "俄罗斯「联盟 MS-28」载人飞船返回舱在哈萨克斯坦草原着陆，3名宇航员正在等待出舱。7月26日，俄罗斯宇航员 Sergey Kud-Sverchkov、Sergei Mikaev 和美国宇航员 Chris Williams 乘坐联盟号载人飞船返回地球，结束为期241天的国际空间站驻留任务。这3名宇航员驻站期间共参与完成约40项科学实验和2次太空行走任务，累计绕地球飞行3856圈，总飞行里程超过1.64亿公里。摄影师：Bill Ingalls",
+          "link": "https://m.idai.ly/se/e3fVBC",
+          "publishedOn": "2026-07-27T10:26:00.000Z",
+          "wordCount": 279,
+          "title": "联盟号载人飞船返回地球 - July 27, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/2316826f8d/231f6308.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/2316826f8d/231f6308.jpg"
+        },
+        {
+          "id": "idaily-255572",
+          "author": "美国 · 华盛顿特区",
+          "description": "美国总统 Donald Trump 在白宫就美国核能技术创新发表讲话，华盛顿特区。7月24日，美国总统 Trump 宣布2025年迄今已有4座新核反应堆实现临界运行，超额完成美国能源部2025年确定的核能发展目标，并表示其政府正在评估在联邦海域建设核电站的可行性。美国境内目前共有94座正在运营中的商业核反应堆，总装机容量约为100吉瓦，美国能源部目标至2029年新增5吉瓦核能装机容量。摄影师：Bonnie Cash",
+          "link": "https://m.idai.ly/se/c5anWx",
+          "publishedOn": "2026-07-27T10:26:00.000Z",
+          "wordCount": 279,
+          "title": "特朗普宣布美国核能进展 - July 27, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/110381afc8/4cdf6ff4.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/110381afc8/4cdf6ff4.jpg"
+        },
+        {
+          "id": "idaily-255571",
+          "author": "俄罗斯 · 鄂木斯克",
+          "description": "俄罗斯总统 Vladimir Putin 与哈萨克斯坦总统 Kassym-Jomart Tokayev 举行会晤，鄂木斯克。7月25日，哈萨克斯坦总统 Tokayev 应邀访问俄罗斯并出席第22届俄哈区域间合作论坛会议，两国领导人就双边关系、区域合作、俄乌冲突等议题交换意见。俄总统 Putin 在会晤中指出俄哈关系具有战略意义和良好的发展前景，两国在全球运输和物流领域具有无限的合作潜力。哈萨克斯坦总统 Tokayev 表示哈萨克斯坦始终坚定致力于与俄罗斯建立建设性的战略伙伴关系，呼吁俄乌冻结冲突并重返谈判桌。俄罗斯是哈萨克斯坦第二大贸易伙伴和最大投资来源国，2026年1至5月两国双边贸易额超过122亿美元，同比增长逾15%。摄影师：Vyacheslav Prokofyev",
+          "link": "https://m.idai.ly/se/fa26iZ",
+          "publishedOn": "2026-07-27T10:26:00.000Z",
+          "wordCount": 279,
+          "title": "哈萨克斯坦总统访俄 - July 27, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/9c685d13fc/8c41bbea.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/9c685d13fc/8c41bbea.jpg"
+        },
+        {
+          "id": "idaily-255570",
+          "author": "德国 · 哈姆",
+          "description": "德国总统 Frank-Walter Steinmeier 出席印度教神庙庆祝活动，哈姆市。7月26日，德国总统 Steinmeier 访问德国西部城市哈姆市的印度教社区并参加当地印度教神庙庆典仪式，他在致辞中称赞印度教社区是德国宗教多样性的组成部分，鼓励德国不同宗教群体之间保持对话和相互尊重。德国境内现有约30万印度裔人口，占德国总人口约0.36%，过去10年增长超过200%。摄影师：Federico Gambarini",
+          "link": "https://m.idai.ly/se/cc8FF5",
+          "publishedOn": "2026-07-27T10:26:00.000Z",
+          "wordCount": 279,
+          "title": "德国总统访问印度教社区 - July 27, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/9d9384056b/1f3d8ce9.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/9d9384056b/1f3d8ce9.jpg"
+        },
+        {
+          "id": "idaily-255569",
+          "author": "朝鲜 · 平安南道",
+          "description": "朝鲜最高领导人金正恩参谒中国人民志愿军烈士陵园，平安南道桧仓郡。7月26日，朝鲜最高领导人金正恩在朝鲜战争胜利73周年前夕参拜中国人民志愿军烈士陵园，并以个人名义在烈士塔前献上花圈。朝中社报道称，中国人民志愿军勇士们在最为艰苦、关乎命运的年代，用鲜血支援了朝鲜人民的正义战争，朝鲜人民永志不忘中国人民的优秀儿女在击退帝国主义侵略的前所未有的殊死战斗中与朝鲜军民在同一个战壕里并肩奋战，无私奉献自己热血和青春的功绩和英雄殊勋。摄影师：KCNA",
+          "link": "https://m.idai.ly/se/79a30l",
+          "publishedOn": "2026-07-27T10:26:00.000Z",
+          "wordCount": 279,
+          "title": "金正恩参谒烈士陵园 - July 27, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/86ef3fdc1d/593b565e.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/86ef3fdc1d/593b565e.jpg"
+        },
+        {
+          "id": "idaily-255566",
+          "author": "中国 · 香港",
+          "description": "香港维多利亚港迎来超强台风「红霞」，中国。7月26日凌晨3时50分左右，2026年第12号台风「红霞」在广东省惠州市沿海登陆，中心附近最大风力达每秒45米，成为2026年迄今登陆中国的最强台风。受台风「红霞」带来的强降雨影响，广东省应急管理厅累计转移全省近90万人，香港机场约350个航班被取消。「红霞」目前已减弱为热带低压，预计未来3天将继续深入内陆，为广东、江西、湖南、湖北等地带来持续强风和暴雨。摄影师：Vernon Yuen",
+          "link": "https://m.idai.ly/se/a48R4V",
+          "publishedOn": "2026-07-27T10:26:00.000Z",
+          "wordCount": 279,
+          "title": "台风「红霞」登陆广东 - July 27, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/ae15cdc9dc/a4f7d0dd.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/ae15cdc9dc/a4f7d0dd.jpg"
+        },
+        {
+          "id": "idaily-255565",
+          "author": "泰国 · 曼谷",
+          "description": "曼谷市政人员正在为猫咪进行公益绝育手术，泰国。7月26日，曼谷市政府开展新一轮社区宠物公益服务活动，包括提供免费接种狂犬病疫苗以及绝育手术。曼谷市政府将从2027年1月10日起实施新版宠物管理条例，具体要求包括所有居民饲养的宠物必须进行登记并植入芯片、按居住面积限制饲养宠物数量、严禁公共场所无绳遛狗等，违者最高可面临2.5万泰铢（约合745美元）罚款。摄影师：Rungroj Yongrit",
+          "link": "https://m.idai.ly/se/5bbIqW",
+          "publishedOn": "2026-07-27T10:26:00.000Z",
+          "wordCount": 279,
+          "title": "曼谷市政府宠物绝育服务 - July 27, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/be6ed28656/5351c585.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/be6ed28656/5351c585.jpg"
+        },
         {
           "id": "idaily-255483",
           "author": "日本 · 东京",
@@ -8074,36 +8192,6 @@
           "publishedOn": "2026-06-29T02:14:00.000Z",
           "wordCount": 307,
           "title": "青莲号诗仙，我翁号诗圣：杜甫是如何从“诗史”到“诗圣”的？",
-          "imageUrl": null
-        },
-        {
-          "id": "83902788b0521d825569f8caa0cd0e3e",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E4%B8%80%E4%BB%B6%E7%93%B7%E5%99%A8%E7%9A%84%E8%AF%9E%E7%94%9F",
-          "publishedOn": "2026-06-28T01:43:00.000Z",
-          "wordCount": 313,
-          "title": "一件瓷器的诞生",
-          "imageUrl": null
-        },
-        {
-          "id": "ed274b57005910cbe0addc21073bd17b",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E6%99%AF%E5%BE%B7%E9%95%87%EF%BC%9A%E5%9C%A8%E7%A2%8E%E7%89%87%E4%B8%AD%E5%8F%91%E6%8E%98%E7%9A%84%E7%93%B7%E5%99%A8%E5%8F%A4%E9%83%BD",
-          "publishedOn": "2026-06-28T01:43:00.000Z",
-          "wordCount": 296,
-          "title": "景德镇：在碎片中发掘的瓷器古都",
-          "imageUrl": null
-        },
-        {
-          "id": "39f2efc7437861e4ba22dfa583b321dd",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E6%B5%B7%E6%B4%8B%E6%B8%A9%E5%BA%A6%E5%8D%87%E9%AB%98%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88%EF%BC%9F",
-          "publishedOn": "2026-06-28T01:43:00.000Z",
-          "wordCount": 297,
-          "title": "海洋温度升高意味着什么？",
           "imageUrl": null
         }
       ]
