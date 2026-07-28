@@ -44,16 +44,6 @@
           "wordCount": 8120,
           "title": "R Weekly 2026-W28 Testing plumber APIs, watcher",
           "imageUrl": "https://rweekly.org/public/facebook.png"
-        },
-        {
-          "id": "https://rweekly.org/2026-W27.html",
-          "author": null,
-          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Jonathan Carroll, with help from the R Weekly team members and contributors.\nHighlight\nUnited Kingdom prime ministers by @ellis2013nz\nA reinsurance pricing tool, built without code\nFrom Data Analysis to Publication: Reproducible Research with R and Quarto\nInsights\nSIM2 climate data\nCan we actually bring AI automations into production?\nFlowcharts that belong in the analysis pipeline\n\nCatBoost support in tidymodels\nThe 4 Layers of Testing Every R Package Needs\nA reinsurance pricing tool, built without code\nAir 0.10.0\nIntroducing debrief: profiling summaries for AI agents\nR in the Real World\nUnited Kingdom prime ministers by @ellis2013nz\nR in Organizations\nAI in Production Conf…",
-          "link": "https://rweekly.org/2026-W27.html",
-          "publishedOn": "2026-06-29T00:00:00.000Z",
-          "wordCount": 6139,
-          "title": "R Weekly 2026-W27 Prime Ministers, No Code Dashboards, Reproducible Research",
-          "imageUrl": "https://rweekly.org/public/facebook.png"
         }
       ]
     },
@@ -74,6 +64,56 @@
       "feedUrl": "https://www.nationalreview.com/feed/",
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
+        {
+          "id": "https://www.nationalreview.com/?p=2007286",
+          "author": "Andrew Stuttaford",
+          "description": "The Week of July 20, 2026: The economics of drones, social media, tariffs, and much more.",
+          "link": "https://www.nationalreview.com/2026/07/glimpses-of-the-drone-age/",
+          "publishedOn": "2026-07-28T16:02:36.000Z",
+          "wordCount": null,
+          "title": "Glimpses of the Drone Age",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=2006675",
+          "author": "Abigail Anthony",
+          "description": "The online discourse about ideological bias in academia proves that leftists don’t know what conservative beliefs are.",
+          "link": "https://www.nationalreview.com/2026/07/they-have-no-idea-what-we-think/",
+          "publishedOn": "2026-07-28T10:30:55.000Z",
+          "wordCount": null,
+          "title": "They Have No Idea What We Think",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=2006655",
+          "author": "The Editors",
+          "description": "Very little in these pages enhances Fauci’s already deeply tarnished reputation.",
+          "link": "https://www.nationalreview.com/2026/07/the-damning-fauci-diaries/",
+          "publishedOn": "2026-07-28T10:30:26.000Z",
+          "wordCount": null,
+          "title": "The Damning Fauci Diaries",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=2006598",
+          "author": "Corey DeAngelis",
+          "description": "Speakers treated the gathering like a campaign rally while delegates passed resolutions on everything but student achievement.",
+          "link": "https://www.nationalreview.com/2026/07/randi-weingartens-convention-exposes-the-teachers-union-as-a-political-machine/",
+          "publishedOn": "2026-07-28T10:30:05.000Z",
+          "wordCount": null,
+          "title": "Randi Weingarten’s Convention Exposes the Teachers’ Union as a Political Machine",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=2006643",
+          "author": "Vladlena Klymova",
+          "description": "The state’s government aims to impede technological progress.",
+          "link": "https://www.nationalreview.com/2026/07/new-yorks-data-center-moratorium-is-a-moratorium-on-growth/",
+          "publishedOn": "2026-07-28T10:30:04.000Z",
+          "wordCount": null,
+          "title": "New York’s Data Center Moratorium Is a Moratorium on Growth",
+          "imageUrl": null
+        },
         {
           "id": "https://www.nationalreview.com/?p=2006581",
           "author": "Charles C. W. Cooke",
@@ -3200,26 +3240,6 @@
           "wordCount": 425,
           "title": "在格鲁吉亚的大地上：徒步篇",
           "imageUrl": null
-        },
-        {
-          "id": "https://sspai.com/post/111462",
-          "author": "纳兰音韵",
-          "description": "越是优化的声音系统，越容易在某些类型的音乐上暴露疲劳感；而越是追求响度，也越容易在归一化之后原形毕露。查看全文",
-          "link": "https://sspai.com/post/111462",
-          "publishedOn": "2026-06-29T03:14:58.000Z",
-          "wordCount": 459,
-          "title": "让音乐「更好听」的代价：可视化谈频响、动态与不可逆损失",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sspai.com/post/111639",
-          "author": "少数派编辑部",
-          "description": "微软改口称 8GB 足够运行 Windows 11\nOpenAI 发布 GPT 5.6，称需美国政府批准提供对象\nNotion Mail 宣布关闭\n央视报道网络测评乱象\n苹果、奥迪前员工推出豪华电瓶车\n俄罗斯主流应用被苹果下架，克宫呼吁改用 Android\n看看就行的简讯\n少数派的近期动态\n你可能错过的好文章\n查看全文",
-          "link": "https://sspai.com/post/111639",
-          "publishedOn": "2026-06-28T23:13:43.000Z",
-          "wordCount": null,
-          "title": "派早报：微软改口称 8GB 足够运行 Windows 11",
-          "imageUrl": null
         }
       ]
     },
@@ -3228,6 +3248,104 @@
       "feedUrl": "https://plink.anyfeeder.com/idaily/today",
       "siteUrl": "https://idai.ly",
       "articles": [
+        {
+          "id": "idaily-255636",
+          "author": "法国 · 巴黎",
+          "description": "2026年环法自行车赛选手们从凯旋门前飞驰而过，巴黎。7月26日，法国首都巴黎举行第113届环法自行车赛的最后一个赛段比赛，由于山火灾害导致警力不足，本赛段路线从原定133公里缩短至89公里，起点和终点均位于香榭丽舍大道。现年27岁的斯洛文尼亚选手 Tadej Pogacar 以73小时56分26秒的成绩赢得其职业生涯第5座环法自行车赛总冠军，成为有史以来最年轻的环法五冠王。摄影师：Guillaume Horcajuelo",
+          "link": "https://m.idai.ly/se/e087Ei",
+          "publishedOn": "2026-07-28T10:59:00.000Z",
+          "wordCount": 279,
+          "title": "2026环法自行车赛落幕 - July 28, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/0264e13d4a/3355a676.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/0264e13d4a/3355a676.jpg"
+        },
+        {
+          "id": "idaily-255635",
+          "author": "美国 · 密歇根州",
+          "description": "美国总统 Donald Trump 访问通用汽车米尔福德工厂，密歇根州。7月27日，美国总统 Trump 在密歇根州通用汽车工厂举行竞选活动，他在演讲中宣称美国在建汽车工厂数量比历史上任何时期都更多，强调其关税政策将重振美国汽车制造业并创造更多工作岗位。美国劳工局数据显示，过去12个月密歇根州汽车零部件制造业岗位减少近4000个，失业率升至5.1%，为美国失业率最高的州份之一。通用汽车公司2026年上半年在美销量为134.1万辆，同比下降-6.8%，旗下四个品牌均出现下滑。摄影师：Alex Brandon",
+          "link": "https://m.idai.ly/se/df24ez",
+          "publishedOn": "2026-07-28T10:58:00.000Z",
+          "wordCount": 279,
+          "title": "特朗普访问通用汽车厂 - July 28, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/0ab8e8a858/4717ba54.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/0ab8e8a858/4717ba54.jpg"
+        },
+        {
+          "id": "idaily-255633",
+          "author": "俄罗斯 · 圣彼得堡",
+          "description": "俄罗斯总统 Vladimir Putin 与海军高级军官举行会谈，圣彼得堡。7月26日，俄总统 Putin 在圣彼得堡海军部大楼出席海军节庆祝活动，并现场听取俄海军总司令及各舰队司令的工作汇报。Putin 在与海军军官交流中透露，俄罗斯「波塞冬」核动力无人潜航器的研发工作已进入最后阶段，即将完成并投入战斗值班。这是俄罗斯连续第2年取消海军节阅兵式，主要原因为受到乌克兰无人机攻击威胁的影响。摄影师：Vyacheslav Prokofyev",
+          "link": "https://m.idai.ly/se/86dzSJ",
+          "publishedOn": "2026-07-28T10:57:00.000Z",
+          "wordCount": 279,
+          "title": "普京出席海军节活动 - July 28, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/468b020d60/095d4021.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/468b020d60/095d4021.jpg"
+        },
+        {
+          "id": "idaily-255632",
+          "author": "日本 · 东京",
+          "description": "日本首相高市早苗在特别国会闭幕后举行记者会，东京。7月27日，高市早苗在记者会上称日本经济正在稳步复苏，通胀率为七国集团中最低水平，实际工资连续第5个月同比增长，承诺将在下届国会加速推进下调食品消费税、削减众议员席位等法案。高市早苗政府在本届国会提交的64项法案均获得通过，包括国家情报局设立法案、《皇室典范》修正案、《产业竞争力提升法》修正案等。最新民调显示高市早苗内阁支持率跌至53.7%，较前次调查下跌-2.1个百分点，创任内新低，主要反对原因包括应对通胀不力、强推多项争议法案等。摄影师：David Mareuil",
+          "link": "https://m.idai.ly/se/051cA3",
+          "publishedOn": "2026-07-28T10:55:00.000Z",
+          "wordCount": 279,
+          "title": "高市早苗支持率新低 - July 28, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/f2501d584b/ae48b062.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/f2501d584b/ae48b062.jpg"
+        },
+        {
+          "id": "idaily-255631",
+          "author": "韩国 · 首尔",
+          "description": "韩亚银行屏幕上显示韩国 KOSPI 指数实时数据，首尔。7月28日，韩国 KOSPI 指数盘中一度跌破6000点并触发熔断机制，收盘下跌-10.84%，报6023.66点，创史上第二大跌幅。日经指数盘中一度下跌逾3000点，时隔约2个月失守62000点关口，收盘下跌-3.95%，报62364.92点。本轮日韩股市下跌主要受隔夜美股暴跌、科技股遭大幅抛售等影响。日经指数较6月高点下跌约-14%，韩国 KOSPI 指数较6月高点下跌超过-35%。摄影师：iDaily Media",
+          "link": "https://m.idai.ly/se/15fcCr",
+          "publishedOn": "2026-07-28T10:53:00.000Z",
+          "wordCount": 279,
+          "title": "日韩股市熔断暴跌 - July 28, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/0e74bbccc9/0c16ec69.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/0e74bbccc9/0c16ec69.jpg"
+        },
+        {
+          "id": "idaily-255629",
+          "author": "巴西 · 巴西利亚",
+          "description": "巴西总统 Luiz Inacio Lula da Silva 与韩国总统李在明举行会晤，巴西利亚。7月26日，韩国总统李在明应邀对巴西进行为期4天国事访问，主要行程包括举行元首会谈、出席韩巴商务圆桌论坛、会见韩人韩侨以及参观韩国订购的巴西军用运输机等。两国领导人会后发表《韩国-巴西联合声明》并签署7项谅解备忘录，同意加强关键矿产、可再生能源、人工智能、半导体、国防和航天等领域合作，目标年底重启韩国与南方共同市场贸易协定谈判。韩国是巴西第4大贸易伙伴，2025年两国双边贸易额为110亿美元。摄影师：Andre Borges",
+          "link": "https://m.idai.ly/se/fcbW66",
+          "publishedOn": "2026-07-28T10:51:00.000Z",
+          "wordCount": 279,
+          "title": "韩国总统访问巴西 - July 28, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/9e466c35d9/28dfce78.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/9e466c35d9/28dfce78.jpg"
+        },
+        {
+          "id": "idaily-255627",
+          "author": "印度尼西亚 · 勿加泗",
+          "description": "印尼班塔尔格邦垃圾填埋场，拾荒者在垃圾堆中搜寻可回收物，西爪哇省。班塔尔格邦垃圾填埋场是印尼最大的垃圾填埋场，占地面积约110公顷，每天接收来自雅加达地区的约7500吨垃圾，垃圾山堆积高度达60米，是全球甲烷排放量第二高的垃圾场。印尼政府计划从8月1日起逐步关闭或改造全国343个露天倾倒场，并启用新的填埋管理制度，从而减少甲烷气体排放并缓解超负荷堆积危机。摄影师：Mast Irham",
+          "link": "https://m.idai.ly/se/af45F7",
+          "publishedOn": "2026-07-28T10:49:00.000Z",
+          "wordCount": 279,
+          "title": "印尼露天垃圾场危机 - July 28, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/bfae0d5036/5842abc6.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/bfae0d5036/5842abc6.jpg"
+        },
         {
           "id": "idaily-255575",
           "author": "哈萨克斯坦 · 杰兹卡兹甘",
@@ -7356,66 +7474,6 @@
           "wordCount": 2700,
           "title": "谁将从美国哈萨克斯坦矿业交易中获利？特朗普的儿子们",
           "imageUrl": "https://static01.nyt.com/images/2026/06/17/00int-kazakhstan-trump-video-94217-cover/00int-kazakhstan-trump-video-94217-cover-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/asia-pacific/20260629/japan-mayor-maternity-leave/dual",
-          "author": null,
-          "description": "赫海威, KIUKO NOTOYA2026年6月29日八幡市市长川田翔子本月在她的办公室里。她将成为日本首位休产假的市长。 Noriko Hayashi for The New York Times\nThe news traveled fast in Yawata, a spiritual oasis of 68,000 people in western Japan known for its traditional tea culture and cherry blossoms. Shoko Kawata, the city’s mayor, was pregnant with her first child — and she was planning to take maternity leave, the first mayor in Japan to do so.\n消息在日本西部这座拥有6.8万人口、以传统茶文化和樱花闻名的精神绿洲八幡市迅速传开。该市市长川田翔子怀上了她的第一个孩子——并且计划休产假，这将使她成为日本首位休产假的市长。\nMany residents of Yawata celebrated Ms. Kawata, 35, and her decision, which she announced in May. They offered gifts like crocheted baby shoes and auspicious ceremonial rocks. But in Japan’s patriarchal society, some people — especially men — responded with anger, calling her irresponsible, and accusing her of placin…",
-          "link": "https://cn.nytimes.com/asia-pacific/20260629/japan-mayor-maternity-leave/dual",
-          "publishedOn": "2026-06-29T05:36:02.000Z",
-          "wordCount": 1089,
-          "title": "日本女市长休产假为何引发轩然大波",
-          "imageUrl": "https://static01.nyt.com/images/2026/06/28/multimedia/28int-japan-maternity-lphk/28int-japan-maternity-lphk-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/asia-pacific/20260629/kazakhstan-trump/dual",
-          "author": null,
-          "description": "PAUL SONNE2026年6月29日哈萨克斯坦首都阿斯塔纳。 Sergey Ponomarev for The New York Times\nThe skyline of Astana, the capital of Kazakhstan, is a physical reflection of the Central Asian nation’s approach to foreign affairs.\n哈萨克斯坦首都阿斯塔纳的天际线是这个中亚国家外交政策理念的具象呈现。\nA sign reading “Moscow” sits atop a Kazakh-Russian business center. Beside it is a pagoda-crowned luxury hotel owned by the Chinese state oil company. Nearby is a gleaming hotel tower and shopping mall, emblazoned with the American brand Ritz-Carlton.\n哈俄商业中心顶部有一块写有“莫斯科”字样的招牌。它旁边是一座中国国有石油公司持有、顶部呈宝塔造型的豪华酒店。附近还有一座熠熠生辉的酒店大厦与购物中心，打着美国品牌丽思卡尔顿的旗号。\nAnd they all exist in the shadow of Abu Dhabi Plaza, the city’s biggest skyscraper, developed by a real estate firm from the United Arab Emirates.\n而它们全都笼罩在阿布扎比广场的阴影之下。这座城市最高的摩天大楼由一家来自阿联酋的房地产公司开发。\nIt is the product o…",
-          "link": "https://cn.nytimes.com/asia-pacific/20260629/kazakhstan-trump/dual",
-          "publishedOn": "2026-06-29T04:06:02.000Z",
-          "wordCount": 1046,
-          "title": "哈萨克斯坦与美国深化关系以制衡中俄影响力",
-          "imageUrl": "https://static01.nyt.com/images/2026/06/26/multimedia/00int-kazakhstan-us-01-thqw/00int-kazakhstan-us-01-thqw-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/opinion/20260629/ai-race-china-us/dual",
-          "author": null,
-          "description": "DAN WANG, JULIAN GEWIRTZ2026年6月29日 Kiersten Essenpreis\nA globally recognizable tech executive, high-spirited from preparing for a public offering, offers imprudent remarks criticizing the government. The state strikes back harder than anyone expects. Overnight, the bargain between a skyrocketing sector of the economy and the government is shattered.\n一位在全球享有知名度的科技高管因筹备公开上市而情绪高昂，发表了批评政府的不审慎言论。国家随即发起了超出所有人预期的强硬反击。一夜之间，一个国家经济中正在飞升的行业与政府之间的默契被彻底粉碎。\nIf you think this story could be about Anthropic, you’re only half right. In 2020, the Alibaba co-founder Jack Ma found himself in the doghouse after he publicly rebuked Chinese regulators. Citing regulatory concerns, the authorities canceled the public offering of Ant Group, another company Mr. Ma helped found, and subsequently unleashed a regulator…",
-          "link": "https://cn.nytimes.com/opinion/20260629/ai-race-china-us/dual",
-          "publishedOn": "2026-06-29T02:36:03.000Z",
-          "wordCount": 1387,
-          "title": "美国能避免出现“马云时刻”吗",
-          "imageUrl": "https://static01.nyt.com/images/2026/06/28/opinion/28wang-gewirtz/28wang-gewirtz-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/world/20260629/iran-us-strait-of-hormuz-peace-talks/dual",
-          "author": null,
-          "description": "ERIKA SOLOMON2026年6月29日周六，多艘船只停泊在阿曼北部穆桑达姆半岛附近，这里紧邻霍尔木兹海峡。 Agence France-Presse — Getty Images\nThe four-day cycle of attacks that Iran set off with the United States over the Strait of Hormuz has risked derailing the newly reached cease-fire in a war both sides are eager to end.\n伊朗与美国围绕霍尔木兹海峡爆发的四天交火已经危及双方新达成的停火协议，而双方都渴望结束这场战争。\nYet for Iran, analysts say, it was a necessary gambit.\n但分析人士表示，对伊朗而言，这是一次不得不进行的冒险之举。\nIran’s newfound power to disrupt traffic through a waterway that is pivotal to the global economy is critical leverage it cannot afford to lose — either at the negotiating table or back at war with the United States.\n干扰这条对全球经济举足轻重的重要水道是伊朗新发现的能力，成为它手里最关键的一张牌。无论是在谈判桌上，还是将来重新与美国开战，这张牌它都绝不能失去。\nLast week, Oman and the U.N. International Maritime Organization designated a new route through …",
-          "link": "https://cn.nytimes.com/world/20260629/iran-us-strait-of-hormuz-peace-talks/dual",
-          "publishedOn": "2026-06-29T02:36:03.000Z",
-          "wordCount": 1371,
-          "title": "美伊为何再度交火？伊朗力保霍尔木兹海峡控制权",
-          "imageUrl": "https://static01.nyt.com/images/2026/06/29/multimedia/29int-iran-attacks-assess-vqtg/29int-iran-attacks-assess-vqtg-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/china/20260629/china-dissident-dong-guangping-canada/dual",
-          "author": null,
-          "description": "JOHN YOON, PEI-LIN WU2026年6月29日\nAbout a month ago, the Chinese dissident Dong Guangping spent 36 hours at sea in an inflatable rubber boat with a sputtering engine, a peeling face and a dying phone before getting detained in South Korea.\n大约一个月前，中国异见人士董广平驾驶一艘充气橡皮艇，在海上漂流了36个小时后，最终在韩国被拘留。期间，皮划艇的引擎状况不断，他的面部晒伤脱皮，手机电量也耗尽了。\nBut on Saturday, Mr. Dong, 68, told The New York Times that he had flown to Toronto, ending a treacherous and decade-long search for freedom. He also recounted details of his voyage across the Yellow Sea from China to South Korea for the first time.\n但周六，68岁的董广平对《纽约时报》表示，他已飞抵多伦多，为他长达十年、充满艰险的自由追寻之旅画上了句号。他还首次详细讲述了自己从中国穿越黄海前往韩国的航行经历。\nMr. Dong, a critic of China’s ruling Communist Party, had been trying for more than 10 years to escape his country, where he was imprisoned several t…",
-          "link": "https://cn.nytimes.com/china/20260629/china-dissident-dong-guangping-canada/dual",
-          "publishedOn": "2026-06-29T01:06:02.000Z",
-          "wordCount": 1350,
-          "title": "乘橡皮艇逃至韩国的中国异见人士董广平抵达加拿大",
-          "imageUrl": "https://static01.nyt.com/images/2026/06/27/multimedia/27xp-dissident-01-mgvb/27xp-dissident-01-mgvb-videoLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/china/20260629/china-pilot-died-plane-crash-beijing/dual",
-          "author": null,
-          "description": "郭莉莉, PEI-LIN WU, KEITH BRADSHER2026年6月29日\nThe Beijing authorities said on Saturday that a small aircraft had flown into the capital’s tallest building a day earlier, killing the pilot and injuring 13 others at the scene, in the first official confirmation of an event that has raised questions about the city’s security.\n北京当局周六表示，一架小型飞机于前一天撞入北京最高楼，造成驾驶员死亡、现场13人受伤。这是官方首次证实这一事件——此前，该事件已引发外界对北京城市安保状况的质疑。\nThe Chaoyang District government, which administers a large area of eastern Beijing, including where the tower is, said in a statement that a two-seat, single-engine sport aircraft “crashed into a high-rise building mid-flight” at 5:55 p.m. on Friday, near one of the city’s most important business districts. The statement said the injured were being given extensive medical care.\n管辖北京东部大片区域（包括事发…",
-          "link": "https://cn.nytimes.com/china/20260629/china-pilot-died-plane-crash-beijing/dual",
-          "publishedOn": "2026-06-28T23:36:02.000Z",
-          "wordCount": 678,
-          "title": "北京证实小型飞机撞击“中国尊”，称飞行员死亡",
-          "imageUrl": "https://static01.nyt.com/images/2026/06/28/multimedia/28int-China-plane-gtbk/28int-China-plane-gtbk-videoLarge.jpg"
         }
       ]
     },
@@ -8132,26 +8190,6 @@
           "publishedOn": "2026-06-30T01:55:00.000Z",
           "wordCount": 263,
           "title": "“我一直是一个小职员”：表格罗列，你就抱着琐碎，以及阖家的生存……",
-          "imageUrl": null
-        },
-        {
-          "id": "413199505509daa20f439001a370a843",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E8%BE%9E%E8%81%8C%E4%B8%8A%E6%AD%A6%E5%BD%93%EF%BC%8C%E5%B0%B1%E8%83%BD%E5%AE%89%E6%8A%9A%E4%BA%BA%E7%94%9F%E7%84%A6%E8%99%91%E5%90%97%EF%BC%9F",
-          "publishedOn": "2026-06-29T02:14:00.000Z",
-          "wordCount": 309,
-          "title": "辞职上武当，就能安抚人生焦虑吗？",
-          "imageUrl": null
-        },
-        {
-          "id": "d30938896fee7fc508611258389e340c",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E9%9D%92%E8%8E%B2%E5%8F%B7%E8%AF%97%E4%BB%99%EF%BC%8C%E6%88%91%E7%BF%81%E5%8F%B7%E8%AF%97%E5%9C%A3%EF%BC%9A%E6%9D%9C%E7%94%AB%E6%98%AF%E5%A6%82%E4%BD%95%E4%BB%8E%E2%80%9C%E8%AF%97%E5%8F%B2%E2%80%9D%E5%88%B0%E2%80%9C%E8%AF%97%E5%9C%A3%E2%80%9D%E7%9A%84%EF%BC%9F",
-          "publishedOn": "2026-06-29T02:14:00.000Z",
-          "wordCount": 307,
-          "title": "青莲号诗仙，我翁号诗圣：杜甫是如何从“诗史”到“诗圣”的？",
           "imageUrl": null
         }
       ]
