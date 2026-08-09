@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mananchong.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-09T08:09:22.591Z</updated>
+    <updated>2026-08-09T17:05:51.967Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mananchong.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://mananchong.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Media and Academia: Increasingly Irrelevant, Increasingly Distrusted]]></title>
+        <id>https://www.nationalreview.com/?p=2013394</id>
+        <link href="https://www.nationalreview.com/2026/08/media-and-academia-increasingly-irrelevant-increasingly-distrusted/"/>
+        <updated>2026-08-09T10:30:44.000Z</updated>
+        <summary type="html"><![CDATA[Zero to hero to zero.]]></summary>
+        <author>
+            <name>Becket Adams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Iran Is Rewiring Its Proxy Network]]></title>
+        <id>https://www.nationalreview.com/?p=2013319</id>
+        <link href="https://www.nationalreview.com/2026/08/iran-is-rewiring-its-proxy-network/"/>
+        <updated>2026-08-09T10:30:42.000Z</updated>
+        <summary type="html"><![CDATA[The Islamic Republic’s preparation for renewed regional escalation is making it less vulnerable to outside attacks.]]></summary>
+        <author>
+            <name>Ahmad Sharawi and Bridget Toomey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Campaign Speech Lies at the Heart of the First Amendment]]></title>
+        <id>https://www.nationalreview.com/?p=2011725</id>
+        <link href="https://www.nationalreview.com/2026/08/campaign-speech-lies-at-the-heart-of-the-first-amendment/"/>
+        <updated>2026-08-09T10:30:39.000Z</updated>
+        <summary type="html"><![CDATA[That’s why it must be defended, even if doing so is unpopular.]]></summary>
+        <author>
+            <name>Bradley A. Smith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Overpopulation Panic Dates Back to <i>Odyssey</i> Times]]></title>
+        <id>https://www.nationalreview.com/?p=2011968</id>
+        <link href="https://www.nationalreview.com/2026/08/the-overpopulation-panic-dates-back-to-odyssey-times/"/>
+        <updated>2026-08-09T10:30:26.000Z</updated>
+        <summary type="html"><![CDATA[The Trojan War was, according to one ancient account, a population-control measure by Zeus.]]></summary>
+        <author>
+            <name>Chelsea Follett</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Misadventures in Migration]]></title>
+        <id>https://www.nationalreview.com/?p=2012065</id>
+        <link href="https://www.nationalreview.com/2026/08/misadventures-in-migration/"/>
+        <updated>2026-08-09T10:30:05.000Z</updated>
+        <summary type="html"><![CDATA[The Moroccan surge into Ceuta raised a few points worth considering.]]></summary>
+        <author>
+            <name>James Lileks</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我做了一个 Quote/0 看板，把 F1 赛程、积分和结果留在桌面]]></title>
         <id>https://sspai.com/post/113158</id>
@@ -14,6 +64,56 @@
         <summary type="html"><![CDATA[特别声明本文的项目构思、结构设计及相关素材整理均由人工完成。在产品开发与调试过程中，使用GPT-5.6Sol模型作为辅助工具，参与方案讨论、代码编写与问题排查。文章内容基于实际开发过程中的经验与记录， ...查看全文]]></summary>
         <author>
             <name>Belcheck</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国际空间站太空行走 - August 9, 2026]]></title>
+        <id>idaily-256234</id>
+        <link href="https://m.idai.ly/se/9a26J3"/>
+        <updated>2026-08-09T03:59:00.000Z</updated>
+        <summary type="html"><![CDATA[美国宇航员 Jessica Meir 正在执行太空行走任务，国际空间站。8月6日，美国宇航员 Jessica Meir 和 Anil Menon 一同执行国际空间站2026年第4次太空行走任务，历时6小时27分钟，主要工作是安装新太阳能电池阵列使用的电缆和支架。由于 Anil Menon 的舱外宇航服在本次任务中出现二氧化碳传感器数据异常，NASA 地面工程师团队需要对宇航服状况展开进一步评估，因此下一次太空行走任务将从8月13日推迟至8月18日进行。摄影师：NASA]]></summary>
+        <author>
+            <name>国际空间站</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SpaceX 回收星舰飞船 - August 9, 2026]]></title>
+        <id>idaily-256233</id>
+        <link href="https://m.idai.ly/se/d89ZFB"/>
+        <updated>2026-08-09T02:59:00.000Z</updated>
+        <summary type="html"><![CDATA[SpaceX 回收团队正在试图回收第13次试飞任务的星舰原型机，印度洋。8月7日，SpaceX 首席执行官 Elon Musk 在社交媒体透露星舰原型机第13次试飞的回收工作「并不乐观」，但是工程团队已获得隔热罩和发动机等部件的关键数据，能够用于进一步改进未来星舰的设计。这艘星舰原型机长达52米，直径9米，覆盖约1.8万块隔热瓦，共安装6台「猛禽3号」发动机，7月24日溅落印度洋后以完整状态漂浮于海面，是迄今发射后保存状况最好的星舰原型机。摄影师：SpaceX]]></summary>
+        <author>
+            <name>印度洋</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特朗普宣布矿业投资计划 - August 9, 2026]]></title>
+        <id>idaily-256231</id>
+        <link href="https://m.idai.ly/se/df1Gj0"/>
+        <updated>2026-08-09T02:57:00.000Z</updated>
+        <summary type="html"><![CDATA[美国总统 Donald Trump 主持美国矿业圆桌会议，华盛顿特区。8月7日，美国总统 Trump 在国务院召开矿业主题会议，共邀请约200名美国矿业高管、学界人士及投资机构代表出席。当天 Trump 宣布联邦政府将向关键矿产和采矿领域投资20亿美元，旨在扩大关键矿产的开采与加工能力，降低美国制造业对外国供应链的依赖。美国国会研究机构发布报告显示，2025年美国国防体系中约78%零部件涉及来自中国的关键矿产供应链，其中海军武器体系依赖度高达92%。摄影师：Matt Kaminsky]]></summary>
+        <author>
+            <name>美国 · 华盛顿特区</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[印度持续季风暴雨灾害 - August 9, 2026]]></title>
+        <id>idaily-256230</id>
+        <link href="https://m.idai.ly/se/730Ijs"/>
+        <updated>2026-08-09T02:55:00.000Z</updated>
+        <summary type="html"><![CDATA[印度教圣城瓦拉纳西的一处寺庙被洪水淹没，北方邦。8月8日，印度瓦拉纳西段的恒河水位受暴雨影响涨至63.4米，导致沿岸多处河坛、小型寺庙以及火葬场被洪水淹没。当地政府已下令暂停恒河水面的船只运营，并要求沿岸居民做好疏散准备。印度官方数据显示，该国7月迄今因季风暴雨引发的灾害已造成超过160人死亡。摄影师：Niharika Kulkarni]]></summary>
+        <author>
+            <name>印度 · 北方邦</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[罗马斗兽场夜间开放 - August 9, 2026]]></title>
+        <id>idaily-256229</id>
+        <link href="https://m.idai.ly/se/fc50Tc"/>
+        <updated>2026-08-09T02:53:00.000Z</updated>
+        <summary type="html"><![CDATA[游客们在夜间参观罗马斗兽场，意大利。8月6日，意大利卫生部对全国所有27个主要监测城市发布最高等级红色高温预警，当天该国多座城市录得超过40℃高温，局部最高温度超过42℃。为应对高温导致的旅游体验下降，意大利文化部宣布罗马斗兽场、万神殿等标志性景点的8月开放时间在晚上延长4个小时，并提供半价票优惠，从而方便游客避开高温时段参观。摄影师：Gregorio Borgia]]></summary>
+        <author>
+            <name>意大利 · 罗马</name>
         </author>
     </entry>
     <entry>
@@ -7133,24 +7233,6 @@ SpaceX 申请发射十万颗卫星
         <summary type="html"><![CDATA[面对暴雨、内涝等自然灾害，你应该做什么准备？有人溺水时，该如何正确救援？这篇文章帮你掌握一些必要的知识，面对危情不再慌乱。查看全文]]></summary>
         <author>
             <name>刀客特Leslie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《数字倦怠》：瞄了一眼手机，能想到的回复只有“哈哈哈”？]]></title>
-        <id>6fa17b76e18bd41a5baba175c366d359</id>
-        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E3%80%8A%E6%95%B0%E5%AD%97%E5%80%A6%E6%80%A0%E3%80%8B%EF%BC%9A%E7%9E%84%E4%BA%86%E4%B8%80%E7%9C%BC%E6%89%8B%E6%9C%BA%EF%BC%8C%E8%83%BD%E6%83%B3%E5%88%B0%E7%9A%84%E5%9B%9E%E5%A4%8D%E5%8F%AA%E6%9C%89%E2%80%9C%E5%93%88%E5%93%88%E5%93%88%E2%80%9D%EF%BC%9F"/>
-        <updated>2026-07-11T01:55:00.000Z</updated>
-        <author>
-            <name>新京报书评周刊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新京雅集——一套书，集齐史学大家经典著作]]></title>
-        <id>6b765cab4f4f271fae04a13f6d58380c</id>
-        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E6%96%B0%E4%BA%AC%E9%9B%85%E9%9B%86%E2%80%94%E2%80%94%E4%B8%80%E5%A5%97%E4%B9%A6%EF%BC%8C%E9%9B%86%E9%BD%90%E5%8F%B2%E5%AD%A6%E5%A4%A7%E5%AE%B6%E7%BB%8F%E5%85%B8%E8%91%97%E4%BD%9C"/>
-        <updated>2026-07-11T01:55:00.000Z</updated>
-        <author>
-            <name>新京报书评周刊</name>
         </author>
     </entry>
 </feed>
