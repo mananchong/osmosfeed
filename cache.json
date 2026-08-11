@@ -44,16 +44,6 @@
           "wordCount": 6349,
           "title": "R Weekly 2026-W30 Chord diagrams, 2026 Grants, LLM Prompting",
           "imageUrl": "https://rweekly.org/public/facebook.png"
-        },
-        {
-          "id": "https://rweekly.org/2026-W29.html",
-          "author": null,
-          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by , with help from the R Weekly team members and contributors.\nHighlight\n{rdoom} is a playable version of Doom for R.\nSearching the R Ecosystem by Function, Not Package Name\nThe Check Passed. The Reviewer Didn’t.\nInsights\nCollaborating on Quarto documents\nAn API for Everything There Is to Know About Packages\nA world still to be mapped: Reflections on geocomputation in R (slides)\nSearching the R Ecosystem by Function, Not Package Name\nR in the Real World\n{rdoom} is a playable version of Doom for R.\n\nCrude oil stocks at Cushing, Oklahoma\nR in Academia\nChoosing informative priors in Bayesian regression models: a simulation study and tutorial using Stan and R\nTutorials\nParallel LL…",
-          "link": "https://rweekly.org/2026-W29.html",
-          "publishedOn": "2026-07-13T00:00:00.000Z",
-          "wordCount": 5965,
-          "title": "R Weekly 2026-W29 Doom on R, search by function, checks for CRAN",
-          "imageUrl": "https://rweekly.org/public/facebook.png"
         }
       ]
     },
@@ -74,6 +64,56 @@
       "feedUrl": "https://www.nationalreview.com/feed/",
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
+        {
+          "id": "https://www.nationalreview.com/?p=2015327",
+          "author": "Noah Rothman",
+          "description": "The DPRK is further entrenching itself in Russia’s war, and its commitments are significant.",
+          "link": "https://www.nationalreview.com/2026/08/who-is-behind-north-koreas-expeditionary-force-in-europe/",
+          "publishedOn": "2026-08-11T14:03:03.000Z",
+          "wordCount": 6899,
+          "title": "Who Is Behind North Korea’s Expeditionary Force in Europe?",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/08/north-korea-ukraine.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=2015087",
+          "author": "John Fund",
+          "description": "The problem with all of these rhetorical retreats is that over at the DSA mother ship, no one is retreating from the group’s national platform.",
+          "link": "https://www.nationalreview.com/2026/08/democratic-socialisms-stars-try-to-flee-from-their-radicalism/",
+          "publishedOn": "2026-08-11T10:30:51.000Z",
+          "wordCount": 6899,
+          "title": "Democratic Socialism’s Stars Try to Flee from Their Radicalism",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/08/dsa-politicians-grid.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=2014026",
+          "author": "Gary Winslett",
+          "description": "Burlington’s leaders have neglected the middle class, with predictable consequences.",
+          "link": "https://www.nationalreview.com/2026/08/how-to-fail-at-public-order/",
+          "publishedOn": "2026-08-11T10:30:23.000Z",
+          "wordCount": 7758,
+          "title": "How to Fail at Public Order",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/08/burlington-police.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=2014992",
+          "author": "The Editors",
+          "description": "They should share and express the voters’ anger, and try to direct it toward constructive channels.",
+          "link": "https://www.nationalreview.com/2026/08/republicans-can-win-on-affordability/",
+          "publishedOn": "2026-08-11T10:30:14.000Z",
+          "wordCount": 6268,
+          "title": "Republicans Can Win on Affordability",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/08/grocery-store-customer.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=2014936",
+          "author": "Raleigh Adams",
+          "description": "A nation that preserves the authority of those already established risks producing a generation that can’t practice stewardship for itself.",
+          "link": "https://www.nationalreview.com/2026/08/a-country-for-old-men/",
+          "publishedOn": "2026-08-11T10:30:09.000Z",
+          "wordCount": 6263,
+          "title": "A Country for Old Men",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/08/senior-citizens.jpg?fit=2057%2C1200&ssl=1"
+        },
         {
           "id": "https://www.nationalreview.com/?p=2014939",
           "author": "John R. Puri",
@@ -1992,6 +2032,16 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/113304",
+          "author": "Matrix机器人",
+          "description": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文",
+          "link": "https://sspai.com/post/113304",
+          "publishedOn": "2026-08-11T09:00:00.000Z",
+          "wordCount": 538,
+          "title": "社区速递 153 | 派友们的吃灰工作流、太空美学复古落地灯与实用帆布钱包",
+          "imageUrl": "https://rssfile.sspai.com/2026/6/30/article/831096df-1239-9d40-8cb1-c42319e8f9f3.png?imageMogr2/auto-orient/ignore-error/1"
+        },
+        {
           "id": "https://sspai.com/post/112887",
           "author": "少数派编辑部",
           "description": "随着HarmonyOSNEXT的日渐成熟，越来越多的独立开发者和小团队开始将目光投向这片新的生态。借助日益强大的AI辅助编程工具，写出能跑通的代码、画出漂亮的UI界面，门槛已经变得前所未有地低。但当你 ...查看全文",
@@ -3000,26 +3050,6 @@
           "wordCount": 227,
           "title": "依江伴湖，树影连绵：南昌公园散步指南",
           "imageUrl": null
-        },
-        {
-          "id": "https://sspai.com/post/112185",
-          "author": "SNbing54",
-          "description": "人类记录信息的方式一直在变化，但我们对「真实性」的需求从未改变。查看全文",
-          "link": "https://sspai.com/post/112185",
-          "publishedOn": "2026-07-13T02:52:47.000Z",
-          "wordCount": 400,
-          "title": "你这图「保真」吗？AI 生图时代的信息防伪",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sspai.com/post/112215",
-          "author": "少数派编辑部",
-          "description": "苹果起诉 OpenAI 窃取商业机密\n变压器短缺掣肘数据中心扩张\n世界杯带动小红书使用时长大幅提升\n废弃 IBM 园区成网红景点\nSpaceX 申请发射十万颗卫星\n高技能人士正大规模「打零工」参与模型训练\n看看就行的简讯\n少数派的近期动态\n你可能错过的好文章\n查看全文",
-          "link": "https://sspai.com/post/112215",
-          "publishedOn": "2026-07-12T22:58:18.000Z",
-          "wordCount": 563,
-          "title": "派早报：苹果起诉 OpenAI 窃取商业机密",
-          "imageUrl": null
         }
       ]
     },
@@ -3028,6 +3058,118 @@
       "feedUrl": "https://plink.anyfeeder.com/idaily/today",
       "siteUrl": "https://idai.ly",
       "articles": [
+        {
+          "id": "idaily-256376",
+          "author": "中国 · 文昌",
+          "description": "中国长征七号改运载火箭搭载「中星4B卫星」发射升空，海南文昌。8月10日，长征七号改火箭升空约85秒后发生飞行异常并爆炸解体，未能将载荷送入预定轨道，发射任务失利。这是中国长征七号改火箭继2020年3月首飞失利后时隔6年再次发射失败，具体原因正在进一步分析排查。长七改火箭由中国航天科技集团一院研制，是中国新一代中型高轨液体运载火箭，全箭长约60米，直径3.35米，起飞推力约720吨，地球同步转移轨道运载能力达7吨。摄影师：Meng Zhongde",
+          "link": "https://m.idai.ly/se/0a83tC",
+          "publishedOn": "2026-08-11T10:59:00.000Z",
+          "wordCount": 233,
+          "title": "长征七号改火箭发射失利 - August 11, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/ab07cd68a0/3ee609aa.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/ab07cd68a0/3ee609aa.jpg"
+        },
+        {
+          "id": "idaily-256373",
+          "author": "美国 · 华盛顿特区",
+          "description": "美国总统 Donald Trump 签署削减美国儿童推荐疫苗的行政令，华盛顿白宫。8月10日，美国总统 Trump 签署一项名为「儿童疫苗黄金标准建议」的行政令，该行政令将联邦政府推荐的儿童核心疫苗从18种削减至11种，并建议「麻疹、腮腺炎和风疹三联疫苗（MMR）」拆分成3剂疫苗分别接种。Trump 宣称美国儿童接种疫苗数量远高于其他国家，并暗示疫苗接种与自闭症发病率上升有关。美国疾控中心数据显示2025学年美国幼儿园儿童的疫苗豁免率从3.3%上升至3.6%，连续第5年上升并创下历史新高。摄影师：Jim Watson",
+          "link": "https://m.idai.ly/se/41ae7Z",
+          "publishedOn": "2026-08-11T09:58:00.000Z",
+          "wordCount": 233,
+          "title": "特朗普签署儿童疫苗行政令 - August 11, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/a715efe81d/e4b7eae4.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/a715efe81d/e4b7eae4.jpg"
+        },
+        {
+          "id": "idaily-256372",
+          "author": "中国 · 北京",
+          "description": "北京石景山区人形机器人数据训练中心，一台人形机器人正在接受烹饪技能训练。8月9日，中国国家统计局公布2026年7月全国居民消费价格指数（CPI）同比上涨0.5%，低于市场预期的0.8%，创下6个月来最低水平；其中食品价格下降-1.5%，能源价格上涨0.6%，扣除食品和能源价格的核心CPI同比上涨0.9%；7月全国工业生产者出厂价格指数（PPI）同比上涨3.5%，涨幅比上月回落0.6个百分点，为3个月来最低水平，主要受到输入性和季节性等因素影响。摄影师：Jia Tianyong",
+          "link": "https://m.idai.ly/se/ce1S93",
+          "publishedOn": "2026-08-11T08:57:00.000Z",
+          "wordCount": 233,
+          "title": "中国7月CPI涨幅低于预期 - August 11, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/87546d09d9/4ad21a2d.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/87546d09d9/4ad21a2d.jpg"
+        },
+        {
+          "id": "idaily-256371",
+          "author": "哥伦比亚 · 马尼萨莱斯",
+          "description": "哥伦比亚马尼萨莱斯大教堂在地震中受损，卡尔达斯省。8月10日上午7时34分，哥伦比亚西部发生7.4级强震，震中位于乔科省圣何塞德尔帕尔马，距离首都波哥大以西约400公里，震源深度为107公里。这是本世纪以来哥伦比亚遭遇的最强地震，邻国厄瓜多尔和巴拿马亦有震感。哥伦比亚政府已宣布进入国家灾难状态，目前确认至少132人死亡、570人受伤，超过1500栋建筑受损。摄影师：Jonh Bonilla",
+          "link": "https://m.idai.ly/se/a8dAUh",
+          "publishedOn": "2026-08-11T08:55:00.000Z",
+          "wordCount": 233,
+          "title": "哥伦比亚7.4级强地震 - August 11, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/e25406cc87/12e89734.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/e25406cc87/12e89734.jpg"
+        },
+        {
+          "id": "idaily-256369",
+          "author": "日本 · 熊本县",
+          "description": "俯瞰熊本城部分倒塌的石墙，日本。8月10日，熊本市政府宣布熊本城已完成地震后的安全检查工作，预计8月13日重新向公众开放。本次7.1级地震共造成熊本城石墙40处受损，包括天守阁和本丸御殿在内的11处建筑物受损。熊本城建成于1607年，被誉为日本三大名城之一，这座城堡曾在2016年熊本县7.3级地震中严重损毁，原修复工程预计持续至2052年。摄影师：iDaily Media",
+          "link": "https://m.idai.ly/se/441Mzm",
+          "publishedOn": "2026-08-11T08:53:00.000Z",
+          "wordCount": 233,
+          "title": "熊本城震后恢复开放 - August 11, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/78211cdb9b/c8a97d24.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/78211cdb9b/c8a97d24.jpg"
+        },
+        {
+          "id": "idaily-256368",
+          "author": "印度尼西亚 · 南苏门答腊省",
+          "description": "印尼南苏门答腊省山火产生的浓烟升至空中。8月9日，印尼总统 Prabowo Subianto 下令成立多部门联合工作组应对该国大规模野火蔓延，重点防控地区包括南苏门答腊、西加里曼丹、中加里曼丹和南加里曼丹等省份。印尼林业部数据显示2026年迄今野火灾害累计烧毁逾10.7万公顷土地，该国政府已部署超过4.8万消防人员、43架直升机和15架固定翼飞机参与灭火。印尼气象局警告称，厄尔尼诺现象将导致本年度旱季持续更长时间，进一步加剧野火灾害风险。摄影师：Abriansyah Liberto",
+          "link": "https://m.idai.ly/se/7336x9",
+          "publishedOn": "2026-08-11T08:51:00.000Z",
+          "wordCount": 233,
+          "title": "印尼野火灾害持续蔓延 - August 11, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/9b541d47be/b0d13d4a.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/9b541d47be/b0d13d4a.jpg"
+        },
+        {
+          "id": "idaily-256367",
+          "author": "伊朗 · 米纳卜",
+          "description": "美以空袭炸毁的伊朗沙贾雷·泰耶贝女子小学废墟外悬挂遇难女童的照片，米纳卜市。8月10日，伊朗外交部宣布伊朗与阿曼已就霍尔木兹海峡新通航路线达成共识，强调只有美国停止侵略和海上封锁，才会重新开放该海峡。伊朗最高国家安全委员会秘书指出，伊朗重开霍尔木兹海峡需要满足5个条件，包括美国永久停止对伊朗及地区盟友的军事行动、停止威胁或侮辱伊朗、解除对伊朗海上封锁和全部制裁、归还伊朗被冻结资产、赔偿伊朗战争损失等。摄影师：Atta Kenare",
+          "link": "https://m.idai.ly/se/63e86l",
+          "publishedOn": "2026-08-11T08:49:00.000Z",
+          "wordCount": 233,
+          "title": "美伊谈判进展停滞 - August 11, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/d9700efdd4/af59a7b6.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/d9700efdd4/af59a7b6.jpg"
+        },
+        {
+          "id": "idaily-256365",
+          "author": "意大利 · 西西里岛",
+          "description": "意大利保护文化遗产宪兵司令部发布一张古罗马时代沉船照片。8月8日，意大利政府宣布在西西里岛西南部海域水下约50米深处发现一艘古罗马商船残骸。这艘沉船长21米、宽6米，年代可追溯至公元前2世纪至前1世纪，船上共装载约500个保存完好的双耳陶罐，推测是装运葡萄酒或橄榄油的容器。意大利文化部表示这是该国近年来最重大的水下考古发现之一，后续将对这些双耳陶罐进行取样分析，以追溯装运液体的成分与产地。摄影师：Carabinieri T.P.C.",
+          "link": "https://m.idai.ly/se/6d1kj4",
+          "publishedOn": "2026-08-11T08:47:00.000Z",
+          "wordCount": 233,
+          "title": "西西里近海发现古罗马沉船 - August 11, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/0d19f6ba3a/ca4af105.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/0d19f6ba3a/ca4af105.jpg"
+        },
         {
           "id": "idaily-256296",
           "author": "中国 · 上海",
@@ -7632,26 +7774,6 @@
           "publishedOn": "2026-07-14T02:00:00.000Z",
           "wordCount": 256,
           "title": "日本绘本作家林明子辞世，她的画让成人看到“儿时的自己”",
-          "imageUrl": null
-        },
-        {
-          "id": "df415bbd253c1512303cde0875985132",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E4%B8%BA%E4%BB%80%E4%B9%88%E6%80%BB%E5%9C%A8%E8%AE%A8%E5%A5%BD%E5%88%AB%E4%BA%BA%EF%BC%9F%E4%B9%9F%E8%AE%B8%E8%BF%99%E5%8F%AA%E6%98%AF%E4%BD%A0%E5%AD%A6%E4%BC%9A%E7%9A%84%E8%87%AA%E6%88%91%E4%BF%9D%E6%8A%A4",
-          "publishedOn": "2026-07-13T02:21:00.000Z",
-          "wordCount": 308,
-          "title": "为什么总在讨好别人？也许这只是你学会的自我保护",
-          "imageUrl": null
-        },
-        {
-          "id": "7c1b7c34ae64357034ed6187c19ae94a",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E7%BE%8E%E5%9B%BD%E7%A4%BE%E4%BC%9A%E7%9A%84%E2%80%9C%E8%BA%AB%E4%BB%BD%E9%99%B7%E9%98%B1%E2%80%9D%EF%BC%9A%E4%B8%80%E7%A7%8D%E8%BF%BD%E6%B1%82%E5%B9%B3%E7%AD%89%E7%9A%84%E6%80%9D%E6%83%B3%EF%BC%8C%E4%B8%BA%E4%BD%95%E6%AD%A3%E5%9C%A8%E5%88%B6%E9%80%A0%E6%96%B0%E7%9A%84%E5%88%86%E8%A3%82%EF%BC%9F",
-          "publishedOn": "2026-07-13T02:21:00.000Z",
-          "wordCount": 263,
-          "title": "美国社会的“身份陷阱”：一种追求平等的思想，为何正在制造新的分裂？",
           "imageUrl": null
         }
       ]
