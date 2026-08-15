@@ -65,6 +65,56 @@
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
         {
+          "id": "https://www.nationalreview.com/?p=2017497",
+          "author": "Brian T. Allen",
+          "description": "A look at its superb museum of Western art from Catlin and Bierstadt to today.",
+          "link": "https://www.nationalreview.com/2026/08/hold-your-horses-for-codys-buffalo-bill-center/",
+          "publishedOn": "2026-08-15T10:30:57.000Z",
+          "wordCount": 8059,
+          "title": "Hold Your Horses for Cody’s Buffalo Bill Center",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/08/Custers-Last-Stand.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=2017411",
+          "author": "John R. Puri",
+          "description": "The government has reduced landlords from owners to administrators of ‘public’ resources.",
+          "link": "https://www.nationalreview.com/2026/08/properties-arent-property-in-new-york-city/",
+          "publishedOn": "2026-08-15T10:30:43.000Z",
+          "wordCount": 5802,
+          "title": "Properties Aren’t Property in New York City",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/08/mamdani-rent.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=2017337",
+          "author": "Daniel J. Pilla",
+          "description": "Uncertainty caused voters to stick with the devil they know.",
+          "link": "https://www.nationalreview.com/2026/08/why-missouri-declined-to-abolish-the-income-tax/",
+          "publishedOn": "2026-08-15T10:30:24.000Z",
+          "wordCount": 6231,
+          "title": "Why Missouri Declined to Abolish Its Income Tax",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2021/06/missouri-state-capitol.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=2015446",
+          "author": "Scott Winship and Kevin Corinth",
+          "description": "Despite its clear success, a work-oriented safety net continues to be a target for progressives.",
+          "link": "https://www.nationalreview.com/2026/08/the-ongoing-battle-to-defend-welfare-reform/",
+          "publishedOn": "2026-08-15T10:30:10.000Z",
+          "wordCount": 7051,
+          "title": "The Ongoing Battle to Defend Welfare Reform",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2021/09/joe-biden-potus-seal-lights.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=2016349",
+          "author": "John Masko",
+          "description": "The composer who later became a vice president showed that amateurs can create great and worthwhile art.",
+          "link": "https://www.nationalreview.com/2026/08/charles-g-dawes-an-accidental-music-sensation/",
+          "publishedOn": "2026-08-15T10:30:04.000Z",
+          "wordCount": 6411,
+          "title": "Charles G. Dawes: An Accidental Music Sensation",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/08/charles-dawes.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
           "id": "https://www.nationalreview.com/?p=2017440",
           "author": "Noah Rothman",
           "description": "The Michigan Senate candidate and his defenders are wrong to imply that his views and statements are uncontroversial among his fellow Muslims.",
@@ -1962,6 +2012,16 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/111974",
+          "author": "LOSSES",
+          "description": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
+          "link": "https://sspai.com/post/111974",
+          "publishedOn": "2026-08-15T07:07:54.000Z",
+          "wordCount": 298,
+          "title": "有毒职场正在炼成：OKR 变成 KPI，敏捷开发变成切碎的瀑布",
+          "imageUrl": "https://rssfile.sspai.com/2026/07/06/8a65a7edecff0948c796fb178ad3151a.jpg?imageMogr2/auto-orient/ignore-error/1"
+        },
+        {
           "id": "https://sspai.com/post/113459",
           "author": "少数派编辑部",
           "description": "📅本周新预告《不存在的罪人》正式预告8月11日，电影《不存在的罪人》发布了正式预告，将于10月2日在北美上映。迈克尔·肖沃特执导，安妮·海瑟薇、达科塔·约翰逊、乔什·哈奈特主演，当红小说家留下未竟手稿 ...查看全文",
@@ -2940,26 +3000,6 @@
           "wordCount": 436,
           "title": "具透 | watchOS 27 公测版一览：动态应用网格、Liquid Glass 微调……",
           "imageUrl": null
-        },
-        {
-          "id": "https://sspai.com/post/111128",
-          "author": "Bestony",
-          "description": "UniGetUI 是一个不错的包管理器，它提供的统一的更新 UI，让你的软件最大程度集中在一起管理，还可以用于需要批量配置的场景。查看全文",
-          "link": "https://sspai.com/post/111128",
-          "publishedOn": "2026-07-17T02:37:12.000Z",
-          "wordCount": 312,
-          "title": "UniGetUI：可能是 Windows 下最好用的应用商店",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sspai.com/post/112414",
-          "author": "少数派编辑部",
-          "description": "月之暗面发布 Kimi K3 模型，支付宝升级 Apple 教育优惠认证等。查看全文",
-          "link": "https://sspai.com/post/112414",
-          "publishedOn": "2026-07-17T00:45:30.000Z",
-          "wordCount": 822,
-          "title": "派早报：OPPO 宣布调整旗下子品牌的全球产品策略等",
-          "imageUrl": null
         }
       ]
     },
@@ -2968,6 +3008,90 @@
       "feedUrl": "https://plink.anyfeeder.com/idaily/today",
       "siteUrl": "https://idai.ly",
       "articles": [
+        {
+          "id": "idaily-256558",
+          "author": "美国 · 佛罗里达州",
+          "description": "「阿尔忒弥斯3号」任务使用的「太空发射系统」（SLS）火箭助推器正在进行垂直吊装，肯尼迪航天中心。8月14日，NASA 宣布顺利完成「阿尔忒弥斯3号」任务猎户座飞船乘员舱和服务舱的对接测试，开始进行 SLS 火箭固体燃料助推器的垂直吊装工作。NASA 计划在2027年底前实施「阿尔忒弥斯3号」载人发射任务，主要目标是实现猎户座飞船与载人月球着陆器的在轨交会对接。摄影师：Cory S Huston",
+          "link": "https://m.idai.ly/se/3c5j2l",
+          "publishedOn": "2026-08-15T04:59:00.000Z",
+          "wordCount": 260,
+          "title": "阿尔忒弥斯3号火箭组装 - August 15, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/a421bb70ef/848ab407.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/a421bb70ef/848ab407.jpg"
+        },
+        {
+          "id": "idaily-256557",
+          "author": "中国 · 香港",
+          "description": "香港九龙湾一家商场展出巨型艺术装置，中国。8月14日，香港特区政府公布2026年上半年实质 GDP 同比增长5.1%，为近5年来最强劲半年度表现，主要受到人工智能相关电子产品出口强劲和内需强韧推动；其中第二季度货物进出口同比增长达28.9%，私人消费同比增长2.8%，消费物价指数上涨1.9%，失业率维持在3.7%水平。香港特区政府已将2026年全年 GDP 增长预期上修至3.5%-4.5%，预计下半年香港经济将保持稳健增长。摄影师：Zhang Xiangyi",
+          "link": "https://m.idai.ly/se/86241U",
+          "publishedOn": "2026-08-15T03:58:00.000Z",
+          "wordCount": 260,
+          "title": "香港2026上半年GDP增长5.1% - August 15, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/8433457d17/6b9f9297.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/8433457d17/6b9f9297.jpg"
+        },
+        {
+          "id": "idaily-256556",
+          "author": "美国 · 休斯顿",
+          "description": "苹果公司首席执行官 Tim Cook 出席位于美国休斯顿市的「先进制造中心」（AMC）启用仪式，得克萨斯州。8月13日，苹果公司在美国境内的第2座制造学习基地正式启用，这座基地占地面积约1858平方米，主要用于生产 Mac mini 产品，并开设面向中小企业的制造技术培训课程。苹果公司财报显示2026第三季度营业收入达1094亿美元，同比增长16%，创下同期最高纪录，其中 iPhone、Mac 和服务业务营收均实现两位数增长。摄影师：Annie Mulligan",
+          "link": "https://m.idai.ly/se/6b2MbB",
+          "publishedOn": "2026-08-15T02:57:00.000Z",
+          "wordCount": 260,
+          "title": "苹果启用休斯顿「先进制造中心」 - August 15, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/a45339d72d/900dbb6f.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/a45339d72d/900dbb6f.jpg"
+        },
+        {
+          "id": "idaily-256554",
+          "author": "巴基斯坦 · 拉合尔",
+          "description": "巴基斯坦决议日纪念塔燃放烟花庆祝独立79周年，拉合尔。8月14日是巴基斯坦独立日，旨在纪念1947年8月14日巴基斯坦从英国控制的印度帝国独立。巴基斯坦总理 Shehbaz Sharif 当天在独立日致辞中重申致力于捍卫国家主权和利益、地区和平与稳定承诺，呼吁全民团结，建设一个和平、繁荣和强大的巴基斯坦。亚洲开发银行预测巴基斯坦2026财年 GDP 增长率将达到3.5%，通胀率回落至6.4%，主要受到制造业复苏、投资增加、外汇市场稳定、经济改革取得进展等正面因素影响。摄影师：Rahat Dar",
+          "link": "https://m.idai.ly/se/120xW9",
+          "publishedOn": "2026-08-15T02:55:00.000Z",
+          "wordCount": 260,
+          "title": "巴基斯坦庆祝独立79周年 - August 15, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/8adab87080/fcd62120.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/8adab87080/fcd62120.jpg"
+        },
+        {
+          "id": "idaily-256553",
+          "author": "韩国 · 首尔",
+          "description": "98岁韩国慰安妇受害者李容洙出席慰安妇纪念日活动，首尔。8月14日是韩国日军慰安妇受害者国家纪念日，韩国总统李在明在致辞中表示，他将尽职尽责确保每一位受害者的名誉与尊严得到彻底恢复。二战期间朝鲜半岛约有20万女性被日军强征为慰安妇，韩国政府登记在册的慰安妇受害者共240人，目前仅余5人在世，平均年龄已达95.8岁。摄影师：iDaily Media",
+          "link": "https://m.idai.ly/se/a21c88",
+          "publishedOn": "2026-08-15T02:53:00.000Z",
+          "wordCount": 260,
+          "title": "韩国慰安妇受害者纪念日 - August 15, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/9aaf3ab8bf/2bcba52c.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/9aaf3ab8bf/2bcba52c.jpg"
+        },
+        {
+          "id": "idaily-256552",
+          "author": "德国 · 罗斯托克",
+          "description": "德国罗斯托克动物园，饲养员正在给一只31岁雌性加拉帕戈斯象龟冲凉消暑。8月12日，德国遭遇2026年夏季第三轮高温热浪，部分地区最高气温达39℃，持续高温导致德国莱茵河最低水位降至15厘米，刷新历史最低纪录。德国公共卫生研究所公布数据显示，2026年初迄今该国已有至少12500人死于高温相关疾病，创下自2016年有记录以来最高水平。摄影师：Bernd Wustneck",
+          "link": "https://m.idai.ly/se/231PRh",
+          "publishedOn": "2026-08-15T02:51:00.000Z",
+          "wordCount": 260,
+          "title": "德国新一轮高温热浪 - August 15, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/1fb95d5127/90db52f6.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/1fb95d5127/90db52f6.jpg"
+        },
         {
           "id": "idaily-256526",
           "author": "地球",
