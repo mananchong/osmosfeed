@@ -65,6 +65,36 @@
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
         {
+          "id": "https://www.nationalreview.com/?p=2018062",
+          "author": "Raleigh Adams",
+          "description": "AOC, Marco Rubio, and the increasingly influencer-like business of becoming a presidential candidate.",
+          "link": "https://www.nationalreview.com/2026/08/the-presidential-soft-launch-has-begun/",
+          "publishedOn": "2026-08-16T15:45:31.000Z",
+          "wordCount": 7329,
+          "title": "The Presidential Soft-Launch Has Begun",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/08/wiener-pelosi-1.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=2017307",
+          "author": "Inez Feltscher Stepman",
+          "description": "Far from driving unhappiness among women, marriage and motherhood remain the most stable and achievable sources of meaning and joy.",
+          "link": "https://www.nationalreview.com/2026/08/the-myth-of-the-miserable-housewife/",
+          "publishedOn": "2026-08-16T10:30:42.000Z",
+          "wordCount": 5592,
+          "title": "The Myth of the Miserable Housewife",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/08/motherhood.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=2017749",
+          "author": "James Lileks",
+          "description": "The tale of Jason Arday is a reminder of how today’s social scientists often care little about seeking the truth.",
+          "link": "https://www.nationalreview.com/2026/08/the-trouble-with-the-soft-sciences/",
+          "publishedOn": "2026-08-16T10:30:05.000Z",
+          "wordCount": 6388,
+          "title": "The Trouble with the Soft Sciences",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/08/therapy-session.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
           "id": "https://www.nationalreview.com/?p=2017497",
           "author": "Brian T. Allen",
           "description": "A look at its superb museum of Western art from Catlin and Bierstadt to today.",
@@ -1903,16 +1933,6 @@
           "wordCount": null,
           "title": "China’s Reusable Rocket Breakthrough Demands a Private Space Response",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=1999350",
-          "author": "The Editors",
-          "description": "Trying to revive widely unpopular ‘stolen election’ claims won’t make the job of Republicans any easier this fall.",
-          "link": "https://www.nationalreview.com/2026/07/trumps-2020-election-obsession/",
-          "publishedOn": "2026-07-17T21:11:37.000Z",
-          "wordCount": null,
-          "title": "Trump’s 2020 Election Obsession",
-          "imageUrl": null
         }
       ]
     },
@@ -2890,16 +2910,6 @@
           "wordCount": 709,
           "title": "TDS REVIEW | 索尼 WH-1000XX 无线降噪头戴耳机体验",
           "imageUrl": null
-        },
-        {
-          "id": "https://sspai.com/post/112398",
-          "author": "羊刀仙",
-          "description": "小米智能存储最适合两类用户：家里已经有较多米家设备的人，以及小米手机用户。查看全文",
-          "link": "https://sspai.com/post/112398",
-          "publishedOn": "2026-07-18T03:10:35.000Z",
-          "wordCount": 602,
-          "title": "小米 NAS 拆解与初步上手：它会是你的第一台 NAS 吗？",
-          "imageUrl": null
         }
       ]
     },
@@ -2908,6 +2918,90 @@
       "feedUrl": "https://plink.anyfeeder.com/idaily/today",
       "siteUrl": "https://idai.ly",
       "articles": [
+        {
+          "id": "idaily-256587",
+          "author": "中国 · 香港",
+          "description": "香港诞生的首对大熊猫龙凤胎「加加」和「得得」正在享用庆生竹子，中国。8月15日，香港海洋公园为大熊猫「加加」和「得得」准备了蔬果蛋糕以及新鲜嫩竹子庆祝2周岁生日。这对大熊猫龙凤胎于2024年8月15日在香港海洋公园出生，是香港首对成功在本地繁育的大熊猫，目前体重均已接近60公斤。香港海洋公园目前正在建造新大熊猫馆，预计这对大熊猫将在2027年离开母亲开始独立生活。摄影师：Vernon Yuen",
+          "link": "https://m.idai.ly/se/03elXU",
+          "publishedOn": "2026-08-16T10:59:00.000Z",
+          "wordCount": 270,
+          "title": "香港龙凤胎大熊猫2周岁 - August 16, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/62ab2484aa/680e2cd4.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/62ab2484aa/680e2cd4.jpg"
+        },
+        {
+          "id": "idaily-256588",
+          "author": "美国 · 纽约州",
+          "description": "美国总统 Donald Trump 在纽约州长岛警察学院举行竞选集会活动。8月14日，美国总统 Trump 在竞选活动上发表打击犯罪主题演讲，他宣布2025年美国凶杀案同比下降20%，为史上最大年度降幅，暴力犯罪下降9.3%，凶杀案率降至75年来最低水平。Trump 宣称其任内「非法入境人数降至零」，并将犯罪率下降的原因归结于强制大规模驱逐非法移民政策。最新民调显示 Trump 支持率已跌至33%，再创任内新低。摄影师：Samuel Corum",
+          "link": "https://m.idai.ly/se/eb7kyW",
+          "publishedOn": "2026-08-16T10:57:00.000Z",
+          "wordCount": 270,
+          "title": "特朗普发表打击犯罪演讲 - August 16, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/707e6409e2/6c9b9ae4.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/707e6409e2/6c9b9ae4.jpg"
+        },
+        {
+          "id": "idaily-256589",
+          "author": "印度 · 新德里",
+          "description": "印度总理 Narendra Modi 出席独立日庆祝活动，新德里红堡。8月15日，印度总理 Modi 在独立日演讲中回顾过去12年执政成绩，包括实现2.5亿人口脱贫、国防生产增长4倍、电子制造业增长7倍，互联网用户增长4倍，获批专利增长4倍，数字交易量增长100倍等。Modi 强调印度将坚持自力更生政策，推动发展制造业、农业、创新、基建、国防、新能源、文化共7个支柱力量，目标在2047年实现成为发达国家的目标。摄影师：Prakash Singh",
+          "link": "https://m.idai.ly/se/b9fL1w",
+          "publishedOn": "2026-08-16T10:55:00.000Z",
+          "wordCount": 270,
+          "title": "印度庆祝第80个独立日 - August 16, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/3528dc3bcc/5776c51a.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/3528dc3bcc/5776c51a.jpg"
+        },
+        {
+          "id": "idaily-256590",
+          "author": "阿富汗 · 喀布尔",
+          "description": "阿富汗塔利班政府高层出席重新执政5周年庆祝仪式，喀布尔。8月15日，阿富汗政府在大国民会议堂举行重新执政5周年庆祝活动。阿富汗副总理 Abdul Salam Hanafi 表示，塔利班执政终结了阿富汗过去半个世纪以来遭到外部干预和内乱冲突的时代，恢复了国家稳定和安全，结束了阿富汗年轻人不断丧生的悲剧。阿富汗外交部长在发言中呼吁世界各国承认塔利班政权，并考虑重新与阿富汗建立外交关系。目前俄罗斯是唯一已正式承认阿富汗塔利班政府的国家。世界银行估计2025年阿富汗实际 GDP 增长4.8%，预计2026年将放缓至4%，主要受到国际援助减少、大规模难民人口返乡等不利因素影响。摄影师：Samiullah Popal",
+          "link": "https://m.idai.ly/se/64bM46",
+          "publishedOn": "2026-08-16T10:53:00.000Z",
+          "wordCount": 270,
+          "title": "塔利班重新执政5周年 - August 16, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/520958fed1/f4881f54.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/520958fed1/f4881f54.jpg"
+        },
+        {
+          "id": "idaily-256591",
+          "author": "加沙地带 · 加沙城",
+          "description": "加沙失去住所的巴勒斯坦人在海边搭帐篷居住。8月15日，以色列军方再次对加沙地带发动空袭，造成2人死亡，14人受伤。加沙卫生部门通报，2025年10月停火协议生效以来已有1262人在以色列袭击中遇难，受伤人数达到4168人；本轮以巴冲突迄今已造成73391名巴勒斯坦人死亡，超过17.4万人受伤。摄影师：Ali Jadallah",
+          "link": "https://m.idai.ly/se/73832a",
+          "publishedOn": "2026-08-16T10:51:00.000Z",
+          "wordCount": 270,
+          "title": "加沙累计73391人遇难 - August 16, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/f9e32367d4/2322631e.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/f9e32367d4/2322631e.jpg"
+        },
+        {
+          "id": "idaily-256592",
+          "author": "中国 · 北京",
+          "description": "第二届世界人形机器人运动会媒体预览活动，一支参赛队伍正在调试机器人，北京。8月22日至26日，第二届世界人形机器人运动会将在北京国家速滑馆举行，共有来自全球16个国家的666支队伍、2056台机器人参赛，赛程设置51个项目共1301场比赛，新增跳远、举重、拔河、乒乓球等高强度竞技对抗项目。2026年上半年全球人形机器人出货量约为1.91万台，同比增长274%，中国制造机器人占比超过97%。摄影师：Andres Martinez Casares",
+          "link": "https://m.idai.ly/se/a97wzW",
+          "publishedOn": "2026-08-16T10:49:00.000Z",
+          "wordCount": 270,
+          "title": "第二届世界人形机器人运动会预览 - August 16, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/051c6ad74a/1bffe3b9.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/051c6ad74a/1bffe3b9.jpg"
+        },
         {
           "id": "idaily-256558",
           "author": "美国 · 佛罗里达州",
@@ -7650,26 +7744,6 @@
           "publishedOn": "2026-07-19T03:16:00.000Z",
           "wordCount": 296,
           "title": "北京林业大学：藏在校园里的生命和故事",
-          "imageUrl": null
-        },
-        {
-          "id": "6c52f3fd203b744443d53aff9139bc80",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E7%97%96%E5%BC%A6%EF%BC%9A%E2%80%9C%E6%88%91%E7%9A%84%E7%81%B5%E9%AD%82%E5%BF%85%E9%A1%BB%E5%BD%92%E5%AE%B6%E2%80%9D%E4%B8%A8%E8%AF%97%E4%BA%BA%E8%AF%BB%E8%AF%97%E3%8A%B9",
-          "publishedOn": "2026-07-18T01:59:00.000Z",
-          "wordCount": 263,
-          "title": "痖弦：“我的灵魂必须归家”丨诗人读诗㊹",
-          "imageUrl": null
-        },
-        {
-          "id": "dc437d82556d8c9fd474d56d8d488864",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E3%80%8A%E5%A4%A9%E4%B9%A6%E5%A5%87%E8%B0%AD%E3%80%8B%EF%BC%9A%E5%9C%A8%E9%87%91%E5%BA%B8%E6%AD%A6%E5%AD%A6%E4%B8%AD%E4%B8%80%E7%9D%B9%E4%B8%AD%E8%A5%BF%E5%BB%BA%E7%AD%91%E5%AD%A6%E8%AF%B4%E7%9A%84%E5%A5%87%E5%A4%A9%E5%A6%99%E5%A2%83",
-          "publishedOn": "2026-07-18T01:59:00.000Z",
-          "wordCount": 262,
-          "title": "《天书奇谭》：在金庸武学中一睹中西建筑学说的奇天妙境",
           "imageUrl": null
         }
       ]
