@@ -34,16 +34,6 @@
           "wordCount": 5560,
           "title": "R Weekly 2026-W31 Building glue, Self-Describing Scripts, What Makes R Strong",
           "imageUrl": "https://rweekly.org/public/facebook.png"
-        },
-        {
-          "id": "https://rweekly.org/2026-W30.html",
-          "author": null,
-          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Eric Nantz, with help from the R Weekly team members and contributors.\nHighlight\nChord diagrams in R with ggchord2\nR Consortium Awards First Round of 2026 Technical Grants\nR Blackmagic for LLM Prompting\nInsights\nFrom Peer Review to Mentorship: My rOpenSci Story\nStop Vibe-Checking Your AI Agent: Build an Eval Pipeline Instead\nuseR! 2026: CRDTs, community, and contributing back to R\nR in the Real World\nNavigating Challenges in Spatial Machine Learning\nIntroducing an MCP Server for ORION-DBs\nR in Organizations\nR Consortium Awards First Round of 2026 Technical Grants\nR in Academia\nA Small Quarto Skill for Better Research Talks\nTutorials\nFour common PERMANOVA mistakes in ecology\n…",
-          "link": "https://rweekly.org/2026-W30.html",
-          "publishedOn": "2026-07-20T00:00:00.000Z",
-          "wordCount": 6349,
-          "title": "R Weekly 2026-W30 Chord diagrams, 2026 Grants, LLM Prompting",
-          "imageUrl": "https://rweekly.org/public/facebook.png"
         }
       ]
     },
@@ -64,6 +54,36 @@
       "feedUrl": "https://www.nationalreview.com/feed/",
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
+        {
+          "id": "https://www.nationalreview.com/?p=2018674",
+          "author": "Elliott Abrams",
+          "description": "Boosting terrorist groups is never the path to peace.",
+          "link": "https://www.nationalreview.com/2026/08/kushner-legitimizes-hamas/",
+          "publishedOn": "2026-08-18T10:30:38.000Z",
+          "wordCount": 5787,
+          "title": "Kushner Legitimizes Hamas",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/08/jared-kushner-board-of-peace.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=2018172",
+          "author": "Becket Adams",
+          "description": "Don’t let them trick you into thinking it was just an oopsie-daisy.",
+          "link": "https://www.nationalreview.com/2026/08/woke-one-wasnt-just-crazy-it-was-destructive/",
+          "publishedOn": "2026-08-18T10:30:37.000Z",
+          "wordCount": 7242,
+          "title": "‘Woke One’ Wasn’t Just Crazy — It Was Destructive",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2021/06/Alexandria-Ocasio-Cortez.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=2018573",
+          "author": "Gregory W. Slayton and Sergei Ivashenko",
+          "description": "The country survived decades in the Soviet Union but learned all the wrong lessons.",
+          "link": "https://www.nationalreview.com/2026/08/ukraine-must-defeat-the-culture-of-soviet-corruption/",
+          "publishedOn": "2026-08-18T10:30:29.000Z",
+          "wordCount": 7112,
+          "title": "Ukraine Must Defeat the Culture of Soviet Corruption",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/08/ukraine-motherland-statue-2.jpg?fit=2057%2C1200&ssl=1"
+        },
         {
           "id": "https://www.nationalreview.com/?p=2018623",
           "author": "Abigail Anthony",
@@ -1913,16 +1933,6 @@
           "wordCount": null,
           "title": "Countering Left-Wing Terrorism",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=2000728",
-          "author": "John Fund",
-          "description": "The market can best address Americans’ No. 1 environmental concern.",
-          "link": "https://www.nationalreview.com/2026/07/americas-twin-water-crises/",
-          "publishedOn": "2026-07-19T22:38:57.000Z",
-          "wordCount": null,
-          "title": "America’s Twin Water Crises",
-          "imageUrl": null
         }
       ]
     },
@@ -1931,6 +1941,26 @@
       "feedUrl": "https://sspai.com/feed",
       "siteUrl": "https://sspai.com",
       "articles": [
+        {
+          "id": "https://sspai.com/post/113593",
+          "author": "Matrix机器人",
+          "description": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文",
+          "link": "https://sspai.com/post/113593",
+          "publishedOn": "2026-08-18T09:01:31.000Z",
+          "wordCount": 578,
+          "title": "社区速递 154 | AI 代码助手大乱斗、租房电钻组合与神奇实体卡片故事机",
+          "imageUrl": "https://rssfile.sspai.com/2026/6/30/article/831096df-1239-9d40-8cb1-c42319e8f9f3.png?imageMogr2/auto-orient/ignore-error/1"
+        },
+        {
+          "id": "https://sspai.com/post/113564",
+          "author": "听歌的水獭",
+          "description": "二次元加爵士，你说有没有搞头？音乐人介绍炒饭（B站），本职是常驻波士顿的程序员社畜，同时也是多乐器演奏音乐人、B站UP主。炒饭没有专业科班学习经历，却凭兴趣及自学掌握了多种音乐技能，专辑音乐均为自己在 ...查看全文",
+          "link": "https://sspai.com/post/113564",
+          "publishedOn": "2026-08-18T07:05:05.000Z",
+          "wordCount": 254,
+          "title": "线下活动 | 爵士律动唤醒动漫回忆：炒饭 Fried Rice 音乐分享签售会",
+          "imageUrl": "https://rssfile.sspai.com/2026/08/18/09a6b873c3a02c9d2b6ae3f68e06d5a6.jpg?imageMogr2/auto-orient/ignore-error/1"
+        },
         {
           "id": "https://sspai.com/post/113438",
           "author": "北鸮",
@@ -2950,26 +2980,6 @@
           "wordCount": 374,
           "title": "角落新声 | 把杂乱桌面收拾得像样，只需要一张桌垫",
           "imageUrl": null
-        },
-        {
-          "id": "https://sspai.com/post/112425",
-          "author": "旋转的陀螺",
-          "description": "高考结束后，又有一大批同学开始考虑换新手机啦。在预算差不多的情况下，很多人会纠结是买一台较新的中端机，还是买一台年份更老、但曾经是旗舰级的机型。于是我把 2020 年购入的 iPhone 8 Plus 拿出来当了一星期主力机，看看这台 2017 年发布的手机，放到今天还能不能胜任日常使用。查看全文",
-          "link": "https://sspai.com/post/112425",
-          "publishedOn": "2026-07-20T03:00:00.000Z",
-          "wordCount": 238,
-          "title": "2026 年再看 iPhone 8 Plus，它还够用吗？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sspai.com/post/112498",
-          "author": "少数派编辑部",
-          "description": "锂电池消费税分阶段恢复征收\n白宫提词器操作员利用内幕信息下注被查\nLG 显示器连接电脑后自动安装广告程序\n新一代豆包手机不再模拟点击操作\n亚马逊错发数亿美元云服务账单\n京沪线试点 12306 预约购票，最早提前 60 天\n看看就行的小道消息\n少数派的近期动态\n你可能错过的好文章\n查看全文",
-          "link": "https://sspai.com/post/112498",
-          "publishedOn": "2026-07-19T23:11:33.000Z",
-          "wordCount": 608,
-          "title": "派早报：锂电池消费税分阶段恢复征收",
-          "imageUrl": null
         }
       ]
     },
@@ -2978,6 +2988,104 @@
       "feedUrl": "https://plink.anyfeeder.com/idaily/today",
       "siteUrl": "https://idai.ly",
       "articles": [
+        {
+          "id": "idaily-256740",
+          "author": "中国 · 太原",
+          "description": "中国长征二号丙运载火箭搭载一颗阿联酋卫星发射升空，太原卫星发射中心。8月17日，长征二号丙火箭成功将阿联酋大学研发的「SEO」地球观测卫星送入预定轨道，新卫星主要用于生态环境保护、自然资源管理领域的数据收集。长征二号丙火箭自1982年首飞迄今已服役超过44年，是中国服役时间最长的运载火箭，亦是长征系列火箭中唯一同时具备发射近地轨道、太阳同步轨道和地球同步转移轨道能力的火箭。摄影师：iDaily Media",
+          "link": "https://m.idai.ly/se/063YE0",
+          "publishedOn": "2026-08-18T09:59:00.000Z",
+          "wordCount": 243,
+          "title": "长征二号丙发射阿联酋卫星 - August 18, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/cb86c0737e/523381ae.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/cb86c0737e/523381ae.jpg"
+        },
+        {
+          "id": "idaily-256738",
+          "author": "日本 · 东京",
+          "description": "俯瞰东京新宿商业区的建筑群，日本。8月17日，日本内阁府公布2026年第二季度 GDP 按年率同比增长1.1%，增速比上季度放缓0.8个百分点，大幅低于市场预期值2%，主要受家庭支出减少和企业投资下滑影响。其中个人消费同比下降-0.1%，企业支出同比下降-4.6%，公共投资同比下跌-0.4%，政府支出同比增长6.7%。日本第二季度货物及服务出口环比增长0.5%，进口环比下降-1.5%，市场预计日本央行在9月加息可能性达80%。摄影师：Franck Robichon",
+          "link": "https://m.idai.ly/se/b40SZs",
+          "publishedOn": "2026-08-18T08:58:00.000Z",
+          "wordCount": 243,
+          "title": "日本第2季度GDP增速低于预期 - August 18, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/731deca77b/5d0d3bd8.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/731deca77b/5d0d3bd8.jpg"
+        },
+        {
+          "id": "idaily-256737",
+          "author": "俄罗斯 · 莫斯科",
+          "description": "俄罗斯外交部长 Sergei Lavrov 与加纳外交部长 Samuel Okudzeto Ablakwa 出席双边协议签署仪式，莫斯科。8月17日，西非国家加纳外长应邀对俄罗斯进行为期3天访问，两国外长就双边关系、经贸合作、国际及地区局势等议题交换意见，并签署一份允许双方外交和公务护照持有者免签入境的协议。加纳外长宣布加纳总统将于10月访问俄罗斯并出席第3届俄罗斯-非洲峰会。2025年俄加双边贸易额达到8.5亿美元，自2022年以来累计增长超过2.5倍。摄影师：Alexander Zemlianichenko",
+          "link": "https://m.idai.ly/se/574Ypq",
+          "publishedOn": "2026-08-18T07:57:00.000Z",
+          "wordCount": 243,
+          "title": "加纳外长访问俄罗斯 - August 18, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/39aa644cdf/849668d0.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/39aa644cdf/849668d0.jpg"
+        },
+        {
+          "id": "idaily-256736",
+          "author": "韩国 · 首尔",
+          "description": "韩国民众在美国驻韩大使馆前举行抗议集会，首尔。8月17日，美韩启动代号「乙支自由护盾」的年度例行联合军演。美国总统 Donald Trump 当天在社交平台上发文称自己与朝鲜最高领导人金正恩关系友好，宣布已指示美国战争部长大幅缩减美韩联演规模，理由是美韩联合军演向朝鲜释放「极其不妥、敌对的信号」。本次美韩演习将持续11天，预计进行14次营级以上规模的野外机动训练，参演兵力包括1.8万名韩军和3000名驻韩美军。摄影师：Jung Yeon-je",
+          "link": "https://m.idai.ly/se/789o91",
+          "publishedOn": "2026-08-18T07:55:00.000Z",
+          "wordCount": 243,
+          "title": "特朗普下令缩减韩美军演 - August 18, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/ec718b4cbc/79adc0a5.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/ec718b4cbc/79adc0a5.jpg"
+        },
+        {
+          "id": "idaily-256735",
+          "author": "加沙地带 · 加沙城",
+          "description": "巴勒斯坦建筑工人在战争废墟中回收钢筋材料，加沙地带。国际人道援助组织「Oxfam」7月发布报告指出，加沙地带的人类发展水平在持续2年冲突中倒退约77年，预计未来十年重建成本将达到714亿美元，相当于过去20年重建总支出的7倍。加沙地带超过9成住房和学校建筑被摧毁或损坏，逾一半的医院无法正常运作，约6600万吨废墟瓦砾需要清理。摄影师：Omar Al-Qattaa",
+          "link": "https://m.idai.ly/se/b930T4",
+          "publishedOn": "2026-08-18T07:53:00.000Z",
+          "wordCount": 243,
+          "title": "加沙地带废墟清理 - August 18, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/f2c49ad882/33a84aeb.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/f2c49ad882/33a84aeb.jpg"
+        },
+        {
+          "id": "idaily-256732",
+          "author": "中国 · 上海",
+          "description": "中华艺术宫举办「千金之家——马王堆汉墓的生活美学及养成」特展，一件马王堆三号墓T形帛画原件正在展出，上海。8月17日，中华艺术宫马王堆大展更换展陈，首次在湖南省外展出辛追之子利豨的T形帛画。这件帛画通长234.6厘米，顶端宽141.6厘米，下端宽50厘米，是迄今已知最大、年代最早的汉代彩绘帛画，通过对天上、人间、地下三界画面的描绘，呈现中国古人对天、地、人宇宙秩序的整体想象与哲学思考。上海中华艺术宫马王堆特展于7月3日开幕，迄今已吸引8万余人次参观。摄影师：Zhang Hengwei",
+          "link": "https://m.idai.ly/se/73b00s",
+          "publishedOn": "2026-08-18T07:51:00.000Z",
+          "wordCount": 243,
+          "title": "上海展出马王堆三号墓T形帛画 - August 18, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/01ab0029bc/1a5b81de.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/01ab0029bc/1a5b81de.jpg"
+        },
+        {
+          "id": "idaily-256731",
+          "author": "土耳其 · 伊兹密尔",
+          "description": "伊兹密尔野生动物园，一只雄性亚洲象「Winner」在生日修剪趾甲，土耳其。8月16日，伊兹密尔野生动物园的亚洲象「Winner」迎来24岁生日，园方特别准备新鲜水果制作的生日餐，并为它进行脚部护理和修剪趾甲。伊兹密尔野生动物园是土耳其唯一一家饲养大象的动物园，目前该园共饲养5只大象。受栖息地减少和人类盗猎威胁，亚洲象数量现仅存3万至5万只，被列为濒危物种。摄影师：Izmir Metropolitan Municipality",
+          "link": "https://m.idai.ly/se/2d8Q3q",
+          "publishedOn": "2026-08-18T07:49:00.000Z",
+          "wordCount": 243,
+          "title": "土耳其动物园大象庆生 - August 18, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/4a3fa30a9c/34aa1047.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/4a3fa30a9c/34aa1047.jpg"
+        },
         {
           "id": "idaily-256683",
           "author": "中国 · 文昌",
