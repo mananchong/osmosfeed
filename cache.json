@@ -55,6 +55,56 @@
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
         {
+          "id": "https://www.nationalreview.com/?p=2019573",
+          "author": "Andrew Stuttaford",
+          "description": "The Week of August 9, 2026: The EU’s China trap, defense, tax, inflation and much more.",
+          "link": "https://www.nationalreview.com/2026/08/europes-citric-acid-china-test/",
+          "publishedOn": "2026-08-19T16:22:22.000Z",
+          "wordCount": 9577,
+          "title": "Europe’s Citric-Acid China Test",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2018/12/eu-flags-brussels.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=2019597",
+          "author": "The Editors",
+          "description": "There’s no reason to trust Kim Jong-un over our longtime ally.",
+          "link": "https://www.nationalreview.com/2026/08/trump-is-choosing-the-wrong-korea/",
+          "publishedOn": "2026-08-19T14:21:01.000Z",
+          "wordCount": 7152,
+          "title": "Trump Is Choosing the Wrong Korea",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/08/Trump-Korea2.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=2019024",
+          "author": "Mark Jamison",
+          "description": "Today’s leftists make the mistake of assuming politicians can rearrange our economic outcomes.",
+          "link": "https://www.nationalreview.com/2026/08/adam-smiths-warning-for-americas-new-socialists/",
+          "publishedOn": "2026-08-19T10:30:53.000Z",
+          "wordCount": 14977,
+          "title": "Adam Smith’s Warning for America’s New Socialists",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/08/abdul-el-sayed-rally-1.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=2017278",
+          "author": "Armond White",
+          "description": "The Drama pales next to Oshima’s masterpiece.",
+          "link": "https://www.nationalreview.com/2026/08/cruel-stories-of-youth/",
+          "publishedOn": "2026-08-19T10:30:36.000Z",
+          "wordCount": 7264,
+          "title": "Cruel Stories of Youth",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/08/the-drama-a24.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=2019166",
+          "author": "John R. Puri",
+          "description": "What if zoning decisions were not made in your backyard? Would more housing follow?",
+          "link": "https://www.nationalreview.com/2026/08/yimby-with-a-madisonian-twist/",
+          "publishedOn": "2026-08-19T10:30:06.000Z",
+          "wordCount": 6602,
+          "title": "YIMBY, with a Madisonian Twist",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2021/06/housing-construction-california-2021.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
           "id": "https://www.nationalreview.com/?p=2019067",
           "author": "Rich Lowry",
           "description": "His country is firmly within the China and Russia axis.",
@@ -1902,6 +1952,26 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/113618",
+          "author": "Vanilla",
+          "description": "7月20日至今，Apple陆续发布了iOS27的DeveloperBeta4、5、6三个测试版本。随着9月秋季发布会的渐进，iOS27距离正式版的发布越来越近。今天，我们就来一起看看这三个Beta版本 ...查看全文",
+          "link": "https://sspai.com/post/113618",
+          "publishedOn": "2026-08-19T09:39:05.000Z",
+          "wordCount": 554,
+          "title": "iOS 27 测试版近期动向，还有 Apple 产品新消息",
+          "imageUrl": "https://rssfile.sspai.com/2026/8/19/article/957923eb-5f5d-3905-8ef9-6dfe53fdbec1.jpeg?imageMogr2/auto-orient/ignore-error/1"
+        },
+        {
+          "id": "https://sspai.com/post/113588",
+          "author": "游研社",
+          "description": "本文首发于「游研社」，作者@亚锌，少数派经授权转载，仅对排版略作调整。阅读原文在ChinaJoy期间，我参与了Remedy举办的《控制：共振》闭门试玩会。其实在开始前，我除了战斗部分之外，还非常期待本 ...查看全文",
+          "link": "https://sspai.com/post/113588",
+          "publishedOn": "2026-08-19T07:20:08.000Z",
+          "wordCount": 246,
+          "title": "《控制》新作体验：新怪谈游戏的祖师爷，又杀回来了",
+          "imageUrl": "https://rssfile.sspai.com/2026/8/19/article/902ee45a-707d-0fd0-aa7a-4dbd674c8180.png?imageMogr2/auto-orient/ignore-error/1"
+        },
+        {
           "id": "https://sspai.com/post/111936",
           "author": "jiyee",
           "description": "让纸书上的划线，回到你的数字笔记里。查看全文",
@@ -2920,26 +2990,6 @@
           "wordCount": 979,
           "title": "装上 Fedora 的 Surface Pro：一台老设备的新可能",
           "imageUrl": null
-        },
-        {
-          "id": "https://sspai.com/post/111569",
-          "author": "Bleaker",
-          "description": "作为有多年专业音视频开发经验的技术工作者，我给自己，以及可能也有类似需求的你，做了一个把「从长视频里截取片段」这件事做到极致的产品。查看全文",
-          "link": "https://sspai.com/post/111569",
-          "publishedOn": "2026-07-21T03:00:02.000Z",
-          "wordCount": 387,
-          "title": "App+1 | 把「从长视频截取片段」做到极致：Trimly",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sspai.com/post/112565",
-          "author": "少数派编辑部",
-          "description": "少数派的近期动态那个让你放松娱乐、拥抱心流、逃离纷扰或找回真我的角落，是如何构建起来的？「角落新声」征文活动火热征稿中少数派×AKKO灵犀Linx68键盘预售开启。看看新键盘你可能错过的文章2026年 ...查看全文",
-          "link": "https://sspai.com/post/112565",
-          "publishedOn": "2026-07-21T00:02:09.000Z",
-          "wordCount": 559,
-          "title": "派早报：京沪高铁与京沪铁路试点提前 60 天预约购票等",
-          "imageUrl": null
         }
       ]
     },
@@ -2948,6 +2998,118 @@
       "feedUrl": "https://plink.anyfeeder.com/idaily/today",
       "siteUrl": "https://idai.ly",
       "articles": [
+        {
+          "id": "idaily-256809",
+          "author": "国际空间站",
+          "description": "欧空局宇航员 Sophie Adenot 执行太空行走任务后返回国际空间站。8月18日，法国宇航员 Sophie Adenot 与美国宇航员 Anil Menon 一同执行国际空间站2026年第5次太空行走任务，历时6小时23分钟，主要工作是更换空间站外部桁架的数据通信天线。现年44岁的 Sophie Adenot 原为法国空军飞行员，2022年被选拔为欧空局宇航员，她在本次任务后成为首位进行太空行走的法国女性宇航员。国际空间站下一次太空行走任务计划于8月25日进行。摄影师：NASA",
+          "link": "https://m.idai.ly/se/c44Tlj",
+          "publishedOn": "2026-08-19T10:59:00.000Z",
+          "wordCount": 255,
+          "title": "法国首位「太空行走」女宇航员 - August 19, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/6c7675e194/9c6f526e.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/6c7675e194/9c6f526e.jpg"
+        },
+        {
+          "id": "idaily-256806",
+          "author": "中国 · 甘肃省",
+          "description": "中国「朱雀三号」遥二运载火箭的一子级成功返回着陆，甘肃省。8月19日，中国航天私企蓝箭航天公司自主研制的新一代可重复使用液氧甲烷运载火箭「朱雀三号」进行第二次试飞，火箭一二级分离约8分钟后，一子级按预定程序在甘肃民勤回收场垂直软着陆并成功回收，二子级将搭载的「鸿鹄03星」顺利送入预定轨道，飞行试验取得圆满成功。本次任务标志着中国首次实现入轨级运载火箭一子级着陆腿垂直回收和陆地回收。摄影师：iDaily Media",
+          "link": "https://m.idai.ly/se/f88qAL",
+          "publishedOn": "2026-08-19T09:58:00.000Z",
+          "wordCount": 255,
+          "title": "中国首次实现火箭陆地回收 - August 19, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/9b0c800864/d8c8717e.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/9b0c800864/d8c8717e.jpg"
+        },
+        {
+          "id": "idaily-256804",
+          "author": "中国 · 北京",
+          "description": "中国国家主席习近平与厄瓜多尔总统 Daniel Noboa 出席双边协议签署仪式，北京。8月16日，厄瓜多尔总统 Noboa 应邀对中国进行为期8天国事访问。两国领导人就双边关系、经贸合作、拉美和加勒比地区形势等议题交换意见，见证签署绿色产业、数字经济、民生等领域7项合作文件。中国宣布将向厄瓜多尔提供约4300万美元的无偿援助，用于购置警车、加强医疗服务、振兴北部地区生产、应对气候变化等领域。中国是厄瓜多尔第2大贸易伙伴，2026年1至7月双边贸易额为116.7亿美元，同比增长17.1%。摄影师：Andres Martinez Casares",
+          "link": "https://m.idai.ly/se/ab8g5V",
+          "publishedOn": "2026-08-19T08:57:00.000Z",
+          "wordCount": 255,
+          "title": "厄瓜多尔总统访华 - August 19, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/f01400e809/c18f2ccc.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/f01400e809/c18f2ccc.jpg"
+        },
+        {
+          "id": "idaily-256803",
+          "author": "俄罗斯 · 莫斯科",
+          "description": "俄罗斯总统 Vladimir Putin 与缅甸总统敏昂莱举行会晤，莫斯科。8月18日，缅甸总统敏昂莱上任以来首次访问俄罗斯。两国领导人就俄缅关系、经贸合作、国际和地区局势等议题举行逾3小时会谈，并见证签署电力、油气、航天、文艺等领域10份双边合作文件。俄总统 Putin 指出俄缅的安全领域关系不断发展，强调两国有必要在经济领域开展合作。敏昂莱向俄方支持表示感谢，承诺缅甸是俄罗斯在东南亚的可靠合作伙伴。俄总理当天宣布俄方已着手落实在缅甸建造小型核电站的合作协议。摄影师：Gavriil Grigorov",
+          "link": "https://m.idai.ly/se/8a9hOP",
+          "publishedOn": "2026-08-19T08:55:00.000Z",
+          "wordCount": 255,
+          "title": "缅甸总统访问俄罗斯 - August 19, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/63dea3c467/00b8b750.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/63dea3c467/00b8b750.jpg"
+        },
+        {
+          "id": "idaily-256802",
+          "author": "俄罗斯 · 莫斯科",
+          "description": "日本驻俄大使武藤显离开俄罗斯外交部大楼，莫斯科。8月18日，俄罗斯外交部召见日本驻俄大使，对日本首相和外相的反俄言论提出强烈抗议。俄外交部发表声明称，俄罗斯对南千岛群岛拥有不可侵犯的主权和管辖权，相关领土在二战后移交给俄罗斯，所形成的事实被记载入同盟国相关协议和《联合国宪章》，日方任何质疑企图都是不可接受且非法的。中国外交部发言人表示，中方一贯主张世界反法西斯战争胜利成果应切实得到尊重和维护，敦促日方遵守《开罗宣言》《波茨坦公告》等国际法律文件确立的二战后国际秩序。摄影师：Vladimir Gerdo",
+          "link": "https://m.idai.ly/se/314m3f",
+          "publishedOn": "2026-08-19T08:53:00.000Z",
+          "wordCount": 255,
+          "title": "俄外交部召见日本大使 - August 19, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/bba2d73b51/47cdd294.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/bba2d73b51/47cdd294.jpg"
+        },
+        {
+          "id": "idaily-256801",
+          "author": "澳大利亚 · 堪培拉",
+          "description": "澳大利亚国防部长 Richard Marles 与日本防卫大臣小泉进次郎出席新闻发布会，堪培拉。8月17日，日本防卫相小泉进次郎对澳大利亚进行访问。两国防长举行会谈并发表联合声明，宣布将加强信息情报共享和联合演习，澳方同意日本自卫队使用澳境内试验场进行包括高超音速导弹在内的各类武器和技术测试，日方将以「最上」级护卫舰为基础为澳方开发新型舰船，预计首舰将于2029年交付给澳大利亚海军。摄影师：Hilary Wardaugh",
+          "link": "https://m.idai.ly/se/1a933u",
+          "publishedOn": "2026-08-19T08:51:00.000Z",
+          "wordCount": 255,
+          "title": "日本将在澳大利亚试射导弹 - August 19, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/a25229b36d/2009dbda.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/a25229b36d/2009dbda.jpg"
+        },
+        {
+          "id": "idaily-256800",
+          "author": "英国 · 伦敦",
+          "description": "眺望英格兰银行总部大厦，伦敦。8月18日，英国国家统计局公布2026年第二季度就业率为75.1%，同比下降0.2个百分点，总失业率维持在4.9%，同比上升0.2个百分点；私营部门薪资年化增速为2.8%，跌至2020年10月以来最低水平。2026年7月英国企业员工人数环比减少1.3万人，职位空缺降至70.7万个，反映该国劳动力市场整体持续走弱，引发英国央行加息预期降温。受该消息影响，英镑兑美元汇率当天盘中下跌-0.1%至1.3530。摄影师：Andy Rain",
+          "link": "https://m.idai.ly/se/a7a61K",
+          "publishedOn": "2026-08-19T08:49:00.000Z",
+          "wordCount": 255,
+          "title": "英国就业市场持续下滑 - August 19, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/9fb379187f/c89892ca.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/9fb379187f/c89892ca.jpg"
+        },
+        {
+          "id": "idaily-256799",
+          "author": "印度洋",
+          "description": "第13次试飞任务的星舰原型机被牵引至近岸海域，印度洋。8月18日，SpaceX 回收团队成功将第13次试飞任务使用的星舰原型机牵引至澳大利亚圣诞岛海岸，计划在完成进一步检查分析后运回星港基地。这艘飞船自7月24日溅落印度洋以来已在海上漂浮24天。SpaceX 计划最早于8月底进行星舰第14次试飞任务，目标将首批星链V3卫星送入轨道，并实现首次火箭上级返回着陆。摄影师：SpaceX",
+          "link": "https://m.idai.ly/se/a2evU6",
+          "publishedOn": "2026-08-19T08:47:00.000Z",
+          "wordCount": 256,
+          "title": "SpaceX 回收星舰原型机 - August 19, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/784d7caf1f/5f6f0a2b.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/784d7caf1f/5f6f0a2b.jpg"
+        },
         {
           "id": "idaily-256740",
           "author": "中国 · 太原",
@@ -7014,56 +7176,6 @@
           "wordCount": 1063,
           "title": "姜有多健康？",
           "imageUrl": "https://static01.nyt.com/images/2025/12/16/well/08WELL-HEALTHY-GINGER1/08WELL-HEALTHY-GINGER1-videoLarge-v2.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/world/20260721/andy-burnham-uk/dual",
-          "author": null,
-          "description": "STEPHEN CASTLE, MICHAEL D. SHEAR, MEGAN SPECIA2026年7月21日查尔斯三世国王在白金汉宫迎接伯纳姆。 Pool photo by Aaron Chown\nAndy Burnham’s day began with a visit to a homeless shelter in central London, where he chopped mushrooms and chatted with other helpers preparing breakfast.\n这一天，安迪·伯纳姆先是去了伦敦市中心一家无家可归者收容所，他在那里切蘑菇，并与其他正在制作早餐的志愿者聊天。\nA few hours later, by now wearing a suit and tie, he shook hands with King Charles III in the gilded splendor of Buckingham Palace. Accepting the monarch’s request to form a government, Mr. Burnham, who was named leader of the governing Labour Party on Friday, became Britain’s seventh prime minister after a decade of extraordinary turbulence.\n几个小时后，换上西装领带的他在金碧辉煌的白金汉宫与国王查尔斯三世握手。于周五被任命为执政党工党领袖的伯纳姆接受了君主的组建政府请求，成为英国在这动荡不安的十年里的第七位首相。\nMr. Burnham’s early-morning trip to the homeless cha…",
-          "link": "https://cn.nytimes.com/world/20260721/andy-burnham-uk/dual",
-          "publishedOn": "2026-07-21T04:06:01.000Z",
-          "wordCount": 1362,
-          "title": "伯纳姆就任英国首相首日：从无家可归者收容所到唐宁街",
-          "imageUrl": "https://static01.nyt.com/images/2026/07/20/multimedia/20int-uk-politics-3b-cbwj/20int-uk-politics-3b-cbwj-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/world/20260721/canada-wildfires-what-to-know/dual",
-          "author": null,
-          "description": "《纽约时报》2026年7月21日\nWildfires in Canada have cast a pall of smoke across a swath of the country and the United States, polluting the air for millions of people, forcing hundreds to evacuate in some places and tainting skies with a brick-red haze.\n加拿大的野火使浓烟笼罩了加拿大和美国大片地区，导致数百万民众暴露于受到污染的空气中，在一些地方迫使数百人撤离，天空被染成了砖红色。\nThe fires have darkened skies from Toronto to Detroit and the East Coast of the United States, leaving New York, Toronto and Washington with the worst air quality in the world on Saturday morning.\n从多伦多到底特律，再到美国东海岸，野火已使天空变得昏暗。周六上午，纽约、多伦多和华盛顿的空气质量位列全球最差。\nCanadian firefighters have sought to bring the wildfires under control, but days of darkened skies and unhealthy air have raised tensions with the United States. A group of Republican lawmakers criticized Ottawa’s handling of the fires, …",
-          "link": "https://cn.nytimes.com/world/20260721/canada-wildfires-what-to-know/dual",
-          "publishedOn": "2026-07-21T04:06:01.000Z",
-          "wordCount": 914,
-          "title": "加拿大野火火势如何，为何难以控制？",
-          "imageUrl": "https://static01.nyt.com/images/2026/07/18/multimedia/18int-canada-wildfires-wtk-vcmj/18int-canada-wildfires-wtk-vcmj-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/business/20260721/china-eggs-expensive/dual",
-          "author": null,
-          "description": "艾莎, MURPHY ZHAO2026年7月21日上海的一个市场。一批产蛋大省的蛋价较去年同期上涨了40%以上。 Qilai Shen for The New York Times\nIn China, the humble egg, a longtime supporting act in many dishes, is now center stage.\n在中国，鸡蛋这种长期以来在许多菜肴中只扮演配角的普通食材，如今却登上了舞台中央。\nAround dining room tables, budget-conscious families are griping about its sudden spike in price. In the countryside, befuddled farmers who complained of a glut of eggs last year now fret about scarcity. At food stalls, frustrated cooks are reeling from the one-two punch of egg prices and rising energy costs from the Iran war.\n在餐桌旁，精打细算的家庭抱怨鸡蛋价格突然飙升。在农村，农民们去年还在抱怨鸡蛋供过于求、如今却因供应短缺而发愁，他们感到十分困惑。在小吃摊，沮丧的厨师们因鸡蛋价格上涨和伊朗战争导致的能源成本上升的双重打击而焦头烂额。\nEven state media has taken to using the term “rocket eggs” to describe skyrocketing prices.\n甚至连官方媒体也开始用“火箭蛋”一词来形容价格的飞涨。\nEgg prices are up by m…",
-          "link": "https://cn.nytimes.com/business/20260721/china-eggs-expensive/dual",
-          "publishedOn": "2026-07-21T02:36:03.000Z",
-          "wordCount": 1043,
-          "title": "鸡蛋价格创10年新高，“火箭蛋”重创中国消费者",
-          "imageUrl": "https://static01.nyt.com/images/2026/07/14/multimedia/Biz-China-Eggs-01-mfcp/Biz-China-Eggs-01-mfcp-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/opinion/20260721/china-united-states-artificial-intelligence/dual",
-          "author": null,
-          "description": "ROSS DOUTHAT2026年7月21日\nEarly in the Cold War, even as the United States and the Soviet Union engaged in a relentless nuclear arms race, they treated nuclear technology as a tool of soft power and diplomacy — something to share and export, a seal on alliances and a token of friendship.\n冷战初期，就在美苏两国进行无休止的核军备竞赛的同时，双方也将核技术视为软实力与外交的工具——一种可以共享和出口的资源，是巩固同盟、表达友谊的信物。\nThus Dwight Eisenhower’s America launched the Atoms for Peace program, which helped build civilian nuclear programs around the world, in the same year that it executed the Rosenbergs for giving the Soviets our atomic secrets. The Soviet Union likewise exported forms of nuclear power to Eastern Bloc nations and Mao’s China. In each case, the broad goal was to spread the tech while maintaining control over the weapons, taking very differe…",
-          "link": "https://cn.nytimes.com/opinion/20260721/china-united-states-artificial-intelligence/dual",
-          "publishedOn": "2026-07-21T02:06:02.000Z",
-          "wordCount": 1044,
-          "title": "中美人工智能发展策略截然不同",
-          "imageUrl": "https://static01.nyt.com/images/2026/07/18/multimedia/18douthat-gtkb/18douthat-gtkb-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/technology/20260721/china-us-ai-race/dual",
-          "author": null,
-          "description": "CADE METZ2026年7月21日上周五，中国领导人习近平称北京是全球人工智能新秩序的领军者。 Greg Baker/Agence France-Presse — Getty Images\nThe United States, by almost any measure, dominates the world of artificial intelligence. The most powerful A.I. systems are made in America. The United States has far more A.I. data centers than any other country. And a vast majority of the computer chips used to build A.I. were developed by American companies.\n无论以何种标准衡量，美国都在人工智能领域占据主导地位。最强大的人工智能系统都是美国制造。美国拥有的人工智能数据中心数量远超其他任何国家。而且，用于构建人工智能的绝大多数计算机芯片都是由美国公司开发的。\nPerception, however, is a different matter.\n然而，人们的观感却是另一回事。\nIn recent weeks, China has appeared to erode that sizable lead. The competition came into sharper focus last week when a Chinese start-up released a system nearly as powerful as the leading American technologies but costing a lo…",
-          "link": "https://cn.nytimes.com/technology/20260721/china-us-ai-race/dual",
-          "publishedOn": "2026-07-21T01:06:03.000Z",
-          "wordCount": 1501,
-          "title": "硅谷为何对中国的人工智能实力感到担忧",
-          "imageUrl": "https://static01.nyt.com/images/2026/07/17/multimedia/00biz-us-china-ai-xi-qcwh/00biz-us-china-ai-xi-qcwh-articleLarge.jpg"
         }
       ]
     },
@@ -7072,6 +7184,46 @@
       "feedUrl": "https://plink.anyfeeder.com/weixin/ibookreview",
       "siteUrl": "http://weixin.sogou.com/weixin?type=1&s_from=input&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A",
       "articles": [
+        {
+          "id": "170fcc3117c90a4c167f45160038a637",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E4%B8%BA%E8%AE%AD%E7%BB%83AI%E6%A8%A1%E5%9E%8B%EF%BC%8C%E5%A4%96%E5%9B%BD%E5%A4%9A%E5%AE%B6%E7%A7%91%E6%8A%80%E5%85%AC%E5%8F%B8%E4%B8%8D%E6%83%9C%E2%80%9C%E9%94%80%E6%AF%81%E2%80%9D%E7%8F%8D%E8%B4%B5%E5%9B%BE%E4%B9%A6%EF%BC%9F",
+          "publishedOn": "2026-08-19T02:01:00.000Z",
+          "wordCount": 308,
+          "title": "为训练AI模型，外国多家科技公司不惜“销毁”珍贵图书？",
+          "imageUrl": null
+        },
+        {
+          "id": "72a41a55e698e0359311c3dc1a1ee0c4",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E6%96%B0%E4%BA%AC%E9%9B%85%E9%9B%86%E2%80%94%E2%80%94%E5%91%BD%E8%BF%90%E7%BB%99%E8%BF%9F%E5%AD%90%E5%BB%BA%E7%9A%84%E5%86%B0%EF%BC%8C%E5%8D%B4%E8%A2%AB%E5%A5%B9%E9%9B%95%E6%88%90%E4%BA%86%E7%81%AF",
+          "publishedOn": "2026-08-19T02:01:00.000Z",
+          "wordCount": 288,
+          "title": "新京雅集——命运给迟子建的冰，却被她雕成了灯",
+          "imageUrl": null
+        },
+        {
+          "id": "d396ad77c9b105177ad94bb802f411c3",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E3%80%8A%E6%AC%A2%E8%BF%8E%E6%9D%A5%E9%BE%99%E9%A4%90%E9%A6%86%E3%80%8B%EF%BC%9A%E6%B4%BB%E4%B8%8B%E6%9D%A5%EF%BC%8C%E5%A5%BD%E5%A5%BD%E5%90%83%E9%A5%AD",
+          "publishedOn": "2026-08-19T02:01:00.000Z",
+          "wordCount": 263,
+          "title": "《欢迎来龙餐馆》：活下来，好好吃饭",
+          "imageUrl": null
+        },
+        {
+          "id": "73dc188c764ce84772291cf4f2b82344",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E9%80%89%E4%B8%93%E4%B8%9A%EF%BC%8C%E6%98%AF%E9%80%89%E4%BA%BA%E7%94%9F%EF%BC%8C%E8%BF%98%E6%98%AF%E9%80%89%E6%96%B9%E6%B3%95%EF%BC%9F%E2%80%9C%E6%88%91%E5%92%8C%E6%88%91%E7%9A%84%E5%AD%A6%E7%A7%91%E2%80%9D%E7%8E%B0%E5%9C%BA%E6%B4%BB%E5%8A%A8%E6%9D%A5%E4%BA%86",
+          "publishedOn": "2026-08-19T02:01:00.000Z",
+          "wordCount": 310,
+          "title": "选专业，是选人生，还是选方法？“我和我的学科”现场活动来了",
+          "imageUrl": null
+        },
         {
           "id": "21c1ab4609c503247afd3b85f2159cd9",
           "author": null,
@@ -7780,16 +7932,6 @@
           "publishedOn": "2026-07-22T02:03:00.000Z",
           "wordCount": 293,
           "title": "从AI拆书、播客说书到短视频速读，书业陷入危机",
-          "imageUrl": null
-        },
-        {
-          "id": "a16452e76d9e388cef3bea9c25b84a7e",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E8%83%A1%E5%AE%89%C2%B7%E9%B2%81%E5%B0%94%E7%A6%8F%EF%BC%9A%E2%80%9C%E4%BA%BA%E7%94%9F%E7%9F%AD%E6%9A%82%EF%BC%8C%E8%80%8C%E6%88%91%E4%BB%AC%E8%A6%81%E8%A2%AB%E5%9F%8B%E8%91%AC%E5%BE%88%E4%B9%85%E2%80%9D",
-          "publishedOn": "2026-07-21T01:46:00.000Z",
-          "wordCount": 256,
-          "title": "胡安·鲁尔福：“人生短暂，而我们要被埋葬很久”",
           "imageUrl": null
         }
       ]
