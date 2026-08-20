@@ -55,6 +55,16 @@
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
         {
+          "id": "https://www.nationalreview.com/?p=2019822",
+          "author": "The Editors",
+          "description": "Angie Nixon is an odd choice to run for Senate in a deeply conservative state.",
+          "link": "https://www.nationalreview.com/2026/08/democrats-choose-socialism-in-the-sunshine-state/",
+          "publishedOn": "2026-08-19T19:50:37.000Z",
+          "wordCount": 5849,
+          "title": "Democrats Choose Socialism in the Sunshine State",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/08/angie-nixon-campaigns.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
           "id": "https://www.nationalreview.com/?p=2019573",
           "author": "Andrew Stuttaford",
           "description": "The Week of August 9, 2026: The EU’s China trap, defense, tax, inflation and much more.",
@@ -1913,36 +1923,6 @@
           "wordCount": null,
           "title": "<i>Dead Souls</i> Beats <i>The Odyssey</i>",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=2001796",
-          "author": "Rich Lowry",
-          "description": "The DSA has released a new program that calls for abolishing the Senate, the presidency, and the Supreme Court.",
-          "link": "https://www.nationalreview.com/2026/07/socialists-vs-the-senate/",
-          "publishedOn": "2026-07-21T15:57:29.000Z",
-          "wordCount": null,
-          "title": "Socialists vs. the Senate",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=2001217",
-          "author": "Vance Ginn",
-          "description": "Politicians can blame Wall Street, landlords, out-of-state buyers, or anyone else — but the real issue is still scarcity.",
-          "link": "https://www.nationalreview.com/2026/07/states-shouldnt-copy-congresss-housing-mistakes/",
-          "publishedOn": "2026-07-21T10:30:38.000Z",
-          "wordCount": null,
-          "title": "States Shouldn’t Copy Congress’s Housing Mistakes",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=2001491",
-          "author": "The Editors",
-          "description": "The security vulnerabilities were entirely predictable.",
-          "link": "https://www.nationalreview.com/2026/07/the-qatar-force-one-fiasco/",
-          "publishedOn": "2026-07-21T10:30:34.000Z",
-          "wordCount": null,
-          "title": "The Qatar Force One Fiasco",
-          "imageUrl": null
         }
       ]
     },
@@ -1951,6 +1931,26 @@
       "feedUrl": "https://sspai.com/feed",
       "siteUrl": "https://sspai.com",
       "articles": [
+        {
+          "id": "https://sspai.com/post/113497",
+          "author": "WangMT",
+          "description": "在 R9 身上，我竟依稀能感到夏普正在谋求一种仰望星空和脚踏实地间的精妙平衡。查看全文",
+          "link": "https://sspai.com/post/113497",
+          "publishedOn": "2026-08-20T02:41:31.000Z",
+          "wordCount": 753,
+          "title": "「务实且高效」的日系次旗舰：夏普 AQUOS R9 评测",
+          "imageUrl": "https://rssfile.sspai.com/2026/08/16/f997756d73ceca28c03f184094cc59e5.png?imageMogr2/auto-orient/ignore-error/1"
+        },
+        {
+          "id": "https://sspai.com/post/113638",
+          "author": "少数派编辑部",
+          "description": "哈浮 VERSA 飞行口袋云台相机发布，OpenAI 回应少量 Codex 用户调用 GPT-5.6 系列 AI 模型误删文件问题等。查看全文",
+          "link": "https://sspai.com/post/113638",
+          "publishedOn": "2026-08-20T00:46:04.000Z",
+          "wordCount": 609,
+          "title": "派早报：石头发布 A30 Pro Steam 3.0 洗地机、Framework 升级 Laptop 12 笔记本",
+          "imageUrl": "https://rssfile.sspai.com/8/20/2026/article/36a843c7-47e7-3110-a5fa-973ed07ce592.png?imageMogr2/auto-orient/format/webp/ignore-error/1"
+        },
         {
           "id": "https://sspai.com/post/113618",
           "author": "Vanilla",
@@ -2969,26 +2969,6 @@
           "publishedOn": "2026-07-22T00:30:00.000Z",
           "wordCount": 672,
           "title": "派早报：Google 推出 Gemini 3.6 Flash、Unity 7 引擎发布等",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sspai.com/post/112582",
-          "author": "Matrix机器人",
-          "description": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文",
-          "link": "https://sspai.com/post/112582",
-          "publishedOn": "2026-07-21T09:00:00.000Z",
-          "wordCount": 455,
-          "title": "社区速递 150｜派友热议磁吸配件、拯救呼吸通气鼻贴与国产三折叠自行车",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sspai.com/post/112200",
-          "author": "StephenFang",
-          "description": "给 Surface Pro 5 安装上仍在积极更新的 Linux 发行版，它会成为一台更可用的设备吗？查看全文",
-          "link": "https://sspai.com/post/112200",
-          "publishedOn": "2026-07-21T07:00:00.000Z",
-          "wordCount": 979,
-          "title": "装上 Fedora 的 Surface Pro：一台老设备的新可能",
           "imageUrl": null
         }
       ]
@@ -5769,76 +5749,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://pic.yupoo.com/fotomag/a1a08c27e9/b76688ec.jpg"
-        },
-        {
-          "id": "idaily-255235",
-          "author": "荷兰 · 诺德韦克",
-          "description": "欧空局「柏拉图号」（PLATO）空间望远镜正在接受电磁兼容性测试，荷兰诺德韦克。7月20日，欧空局宣布 PLATO 空间望远镜成功通过电磁兼容性测试，确认所有搭载电子仪器在真空环境下能够正常协同运行，不会产生电磁信号干扰。「柏拉图」号全称为「行星凌日和恒星振荡探测器」，长3.5米，宽3.1米，高3.7米，重约2300千克，共搭载26台光学望远镜和104枚感光元件，拍摄图像分辨率可达20亿像素以上，主要任务是寻找具有宜居性的类地行星，预计2027年3月发射升空。摄影师：ESA",
-          "link": "https://m.idai.ly/se/6f7UdG",
-          "publishedOn": "2026-07-21T09:59:00.000Z",
-          "wordCount": 249,
-          "title": "欧空局柏拉图望远镜测试 - July 21, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/5b30595da4/a1406f75.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/5b30595da4/a1406f75.jpg"
-        },
-        {
-          "id": "idaily-255234",
-          "author": "英国 · 伦敦",
-          "description": "英国新任首相 Andy Burnham 抵达唐宁街10号首相府，伦敦。7月20日，英国国王查尔斯三世正式任命工党领袖 Andy Burnham 为英国第59任首相并授权其组建新政府。现年56岁的 Burnham 是英国10年来的第7位首相，他出生于英国工薪阶层家庭，拥有剑桥大学文学硕士学位，曾任财政部首席秘书、文化大臣、卫生大臣等职务，并担任3届大曼彻斯特市长。他在就职演讲中承诺将开启英国40年来最大规模的政治与经济改革，包括将公共事业收归国有、降低生活和住房成本、改革教育体制等。摄影师：Neil Hall",
-          "link": "https://m.idai.ly/se/7faYrm",
-          "publishedOn": "2026-07-21T08:58:00.000Z",
-          "wordCount": 249,
-          "title": "英国新首相正式上任 - July 21, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/f6db26342a/8c60dab4.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/f6db26342a/8c60dab4.jpg"
-        },
-        {
-          "id": "idaily-255232",
-          "author": "韩国 · 首尔",
-          "description": "韩亚银行屏幕上显示韩国综合股价指数（KOSPI）收盘数据，首尔。7月20日，韩国 KOSPI 指数收盘暴跌-304.33点至6516.27点，单日跌幅达到-4.46%并触发熔断机制，创下自4月24日以来的最低收盘点位，其中三星电子股价下跌-4.31%，SK 海力士股价下跌-4.23%。本轮韩国股市下跌主要受半导体股回调和中东冲突局势升级影响，7月以来总市值已缩水20%，其中三星电子市值比上月底缩水20%，SK海力士缩水近30%。摄影师：Jeon Heon-Kyun",
-          "link": "https://m.idai.ly/se/e529PF",
-          "publishedOn": "2026-07-21T07:57:00.000Z",
-          "wordCount": 249,
-          "title": "韩国股市7月迄今跌-20% - July 21, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/7c2291863a/48e243a6.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/7c2291863a/48e243a6.jpg"
-        },
-        {
-          "id": "idaily-255231",
-          "author": "中国 · 上海",
-          "description": "2026年世界人工智能大会，一款比亚迪6英寸碳化硅晶圆正在公开展出，中国上海。7月20日，中国机电商会公布2026年上半年中国集成电路出口总额达1772.8亿美元，同比增长96.1%；出口总量达1794.4亿块，同比增长7%；出口单价达到1.206美元，同比增长83.3%；其中6月集成电路出口382.1亿美元，同比增长122.2%，连续32个月实现同比增长，主要受全球人工智能（AI）服务器、数据中心、高性能计算等需求持续旺盛推动。摄影师：iDaily Media",
-          "link": "https://m.idai.ly/se/b7cf84",
-          "publishedOn": "2026-07-21T07:55:00.000Z",
-          "wordCount": 258,
-          "title": "中国上半年芯片出口增96.1% - July 21, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/de737d142a/41bbbb57.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/de737d142a/41bbbb57.jpg"
-        },
-        {
-          "id": "idaily-255230",
-          "author": "加拿大 · 安大略省",
-          "description": "加拿大尼亚加拉瀑布城海洋世界的一只白鲸正在被转运至其他水族馆，安大略省。7月20日，加拿大渔业部启动一项白鲸跨国转运行动，计划将30只白鲸从已倒闭的尼亚加拉瀑布海洋世界转移至美国和西班牙的多家水族馆。首批被转运的白鲸共有6只，其中4只由芝加哥谢德水族馆接收，2只由得克萨斯州圣安东尼奥海洋世界接收。尼亚加拉瀑布海洋世界于1961年开业，因经营不善导致饲养海洋动物生活环境恶劣，2019年以来共有19只白鲸和1只虎鲸死亡。该水族馆已于2024年永久停业，馆内白鲸将在未来数周内转移至其他水族馆。摄影师：Carlos Osorio",
-          "link": "https://m.idai.ly/se/b2ak2G",
-          "publishedOn": "2026-07-21T07:53:00.000Z",
-          "wordCount": 249,
-          "title": "加拿大圈养白鲸转移安置 - July 21, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/7244194d1a/17a06772.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/7244194d1a/17a06772.jpg"
         }
       ]
     },
@@ -5847,6 +5757,76 @@
       "feedUrl": "https://plink.anyfeeder.com/nytimes/dual",
       "siteUrl": "http://nytimes.com",
       "articles": [
+        {
+          "id": "https://cn.nytimes.com/business/20260820/europe-investment-innovation-competition-us-china/dual",
+          "author": null,
+          "description": "PATRICIA COHEN2026年8月20日\nThe shiny cylindrical tanks and slant-roofed control panels shoved against a wall in C3 Biotech’s laboratory have essentially been turned into a multimillion-dollar graveyard of high-grade stainless steel equipment.\nC3 Biotech的实验室里，闪亮的圆柱形罐体和斜顶控制面板被推到墙边，这些价值数百万美元的高等级不锈钢设备基本上已经变成了一座昂贵的废料场。\nAll of this state-of-the art gear was discarded during the company’s quest to discover a cheap way to convert agricultural waste like potato peels or sugar beet pulp into acrylic glass, a material widely used in manufacturing.\n所有这些尖端设备都是在该公司探索如何将土豆皮或甜菜渣等农业废弃物低成本转化为亚克力玻璃（一种广泛应用于制造业的材料）的过程中被淘汰的。\nNigel Scrutton, a co-founder of C3 Biotech in Stockport, England, makes a point of showing off these expensive failures before explaining that the eureka solution involved using discount plas…",
+          "link": "https://cn.nytimes.com/business/20260820/europe-investment-innovation-competition-us-china/dual",
+          "publishedOn": "2026-08-20T06:36:02.000Z",
+          "wordCount": 1438,
+          "title": "欧洲加大对前沿技术投资，能否与美中抗衡？",
+          "imageUrl": "https://static01.nyt.com/images/2026/08/20/multimedia/Biz-Europe-Compete-zhgp-cn/Biz-Europe-Compete-zhgp-videoLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/china/20260820/china-working-class-writers-books/dual",
+          "author": null,
+          "description": "YAN ZHUANG2026年8月20日胡安焉的回忆录《我在北京送快递》在中国成为畅销书，后来被译成英文。这本书以日记形式记录了他20年间在中国各地从事的19份工作。 Jade Gao/Agence France-Presse — Getty Images\nA Chinese food delivery driver rushes from gig to gig, measuring time by the number of jobs he completes instead of by the passing of the seasons. He toils in cities across China to send money back to his family, but has been away for so long that his son calls him “that man” instead of “Dad.”\n一位中国外卖骑手奔波于一个又一个外卖订单之间，衡量时间的标准是完成了多少单，而非季节的更替。他在中国各地的城市里辛勤工作，把钱寄回家，但他离家太久，以至于儿子叫他“那个人”而不是“爸爸”。\nThese are scenes from the poems of Wang Jibing, a food delivery driver, one of several Chinese poets and authors who have turned their experiences of repetitive factory labor and insecure gig work into art.\n这些场景出自外卖骑手王计兵的诗歌。在中国有许多这样的诗人和作家，将他们在重复性工厂劳动和不稳定的零工经济中的经历转化为艺术。\nThis litera…",
+          "link": "https://cn.nytimes.com/china/20260820/china-working-class-writers-books/dual",
+          "publishedOn": "2026-08-20T06:36:02.000Z",
+          "wordCount": 1632,
+          "title": "经济悲观情绪蔓延，中国农民工文学引发共鸣",
+          "imageUrl": "https://static01.nyt.com/images/2026/08/17/multimedia/17int-china-workers-literature1-ftpz/17int-china-workers-literature1-ftpz-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/business/20260820/us-debt-40-trillion/dual",
+          "author": null,
+          "description": "ALAN RAPPEPORT2026年8月20日特朗普总统曾承诺恢复财政秩序，但他旨在削减开支和增加收入的主要举措均未付诸实施。 Al Drago for The New York Times\nAmerica’s gross national debt topped $40 trillion for the first time on Wednesday, an ominous milestone for an economy that sits on a shaky fiscal foundation after decades of borrowing to pay for the rising costs of the military, social safety net programs and President Trump’s tax cuts.\n周三，美国国家债务总额首次突破40万亿美元。对于美国经济而言，这是一个不祥的里程碑：数十年来，美国持续借贷用于支付日益增长的军费、社会保障计划以及特朗普总统的减税政策，财政基础已经摇摇欲坠。\nThis year alone, the United States is on track to borrow more than $2 trillion to help pay for its obligations, including spending on the war in Iran and the sweeping tax cuts that Republicans enacted in 2025. Soaring interest payments to investors who have purchased America’s debt now make up about half of that red …",
+          "link": "https://cn.nytimes.com/business/20260820/us-debt-40-trillion/dual",
+          "publishedOn": "2026-08-20T04:06:02.000Z",
+          "wordCount": 1371,
+          "title": "美国债务突破40万亿美元，借贷狂潮继续",
+          "imageUrl": "https://static01.nyt.com/images/2026/08/18/multimedia/00dc-debt-vgzp/00dc-debt-vgzp-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/usa/20260820/david-morens-covid-fauci/dual",
+          "author": null,
+          "description": "BENJAMIN MUELLER2026年8月20日今年5月，前国立卫生研究院官员戴维·莫伦斯在马里兰州格林贝尔特联邦地区法院出庭后离开。 Annabelle Gordon/Reuters\nDr. David Morens, a former adviser to Dr. Anthony S. Fauci at the National Institutes of Health, pleaded guilty on Tuesday to conspiring to hide federal records related to the origins of the coronavirus outbreak in China.\n曾在国立卫生研究院任安东尼·福奇博士顾问的戴维·莫伦斯博士于周二认罪，承认合谋隐瞒与中国新冠病毒疫情起源有关的联邦记录。\nThe plea comes as Dr. Fauci faces mounting pressure from Republican lawmakers over accusations that he sought to cover up knowledge that Covid had leaked from a lab in China.\n莫伦斯认罪之际，福奇正日益面临共和党议员的压力，他们指控他试图掩盖新冠病毒从中国实验室泄漏的证据。\nDr. Fauci, the longtime director of the National Institute of Allergy and Infectious Diseases, or NIAID, told a House panel in 2024 that Dr. Morens’s conduct was “wrong and inappropriate” and that …",
+          "link": "https://cn.nytimes.com/usa/20260820/david-morens-covid-fauci/dual",
+          "publishedOn": "2026-08-20T02:36:02.000Z",
+          "wordCount": 904,
+          "title": "前福奇顾问承认试图隐瞒与新冠起源相关的记录",
+          "imageUrl": "https://static01.nyt.com/images/2026/08/19/multimedia/19sci-morens-wcmk/19sci-morens-wcmk-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/china/20260820/china-rocket-first-stage-recovery-land/dual",
+          "author": null,
+          "description": "ADEEL HASSAN2026年8月20日 Landscape/Xinhua, via Landscape/Xinhua Via Ap\nA Chinese aerospace company landed the bottom part of a rocket that went to space for the first time, state media reported on Wednesday, marking an advance for the country in its ability to partly reuse rockets for future missions.\n据中国官方媒体周三报道，一家中国航天公司首次成功在陆地回收了一枚升入太空的火箭的一子级，标志着中国实现火箭部分重复使用的能力又向前迈进了一步。\nThe success follows the recovery of a different rocket’s booster stage, or first stage, which returned upright to a platform at sea last month. That vehicle was operated by a state-owned corporation, while Tuesday’s breakthrough was achieved by a private start-up, LandSpace.\n此次成功紧随上个月另一枚火箭的一子级成功实现海上平台回收。那枚火箭由一家国有企业运营，而周二的突破则由民营初创企业蓝箭航天完成。\nReusing rocket boosters would allow Chinese satellite makers to reduce the cost of get…",
+          "link": "https://cn.nytimes.com/china/20260820/china-rocket-first-stage-recovery-land/dual",
+          "publishedOn": "2026-08-20T02:06:02.000Z",
+          "wordCount": 921,
+          "title": "中国首次实现火箭陆地回收",
+          "imageUrl": "https://static01.nyt.com/images/2026/08/19/world/asia/China_Space__9_66/China_Space__9_66-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/world/20260820/north-korea-trump-military-drills/dual",
+          "author": null,
+          "description": "ZANE IRWIN2026年8月20日周三，在与美国举行的名为“乙支自由盾”的大型联合军演期间，韩国士兵在首尔一家酒店演习。 Jung Yeon-Je/Agence France-Presse — Getty Images\nKim Yo-jong, a powerful adviser and sister of North Korea’s leader, on Wednesday dismissed President Trump’s abrupt decision to scale back major military exercises with South Korea, saying the attempted overture “holds no interest for us.”\n周三，朝鲜最高领导人的胞妹、权势显赫的顾问金与正对特朗普总统突然决定缩减与韩国的大型军事演习显得不屑一顾，称这种示好举动“对我们毫无吸引力”。\nMs. Kim, a spokeswoman for her brother Kim Jong-un’s government, said in a statement carried by state media that the reduced exercises were still “provocative and aggressive.”\n作为兄长金正恩政府的发言人，金与正在官方媒体发表的一份声明中表示，即使规模缩减，这些演习依然“具有挑衅性和侵略性”。\nShe also said she was “unaware” of any communication between the governments in Pyongyang and Washington, contradicting President Trump’s cl…",
+          "link": "https://cn.nytimes.com/world/20260820/north-korea-trump-military-drills/dual",
+          "publishedOn": "2026-08-20T01:36:02.000Z",
+          "wordCount": 745,
+          "title": "朝鲜回应特朗普缩减美韩军演规模：“对我们毫无吸引力”",
+          "imageUrl": "https://static01.nyt.com/images/2026/08/19/multimedia/19int-nkorea-drill-1-cjwm/19int-nkorea-drill-1-cjwm-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/china/20260820/guo-degang-china-comic-investigated/dual",
+          "author": null,
+          "description": "YAN ZHUANG2026年8月20日\nAd-libbing during a routine is standard for many comedians. But in China, it can land performers in hot water. That was the case for one of the country’s most famous comics, Guo Degang, who is under official investigation for riffing on the lyrics of a famous patriotic song during a show.\n对许多脱口秀演员来说，现场即兴发挥是演出中的常态。但在中国，这可能会给艺人带来大麻烦。中国最著名的相声演员之一郭德纲最近就遇到了这种情况——由于在一场演出中即兴改编了一首著名爱国歌曲的歌词，他目前正接受官方调查。\nMr. Guo has drawn comparisons to the likes of Ricky Gervais, and has starred in movies and hosted TV shows in China. After a show in Wuhan in July, he was reported to city’s culture and tourism bureau for singing a modified version of the song, which hails the bravery of Chinese soldiers during a historic battle against Japan.\n郭德纲常被拿来与里奇·吉尔维斯等西方喜剧演员相提并论，他曾主演多部电影，并主持电视节目。在7月于武汉举行的…",
+          "link": "https://cn.nytimes.com/china/20260820/guo-degang-china-comic-investigated/dual",
+          "publishedOn": "2026-08-20T01:06:01.000Z",
+          "wordCount": 1159,
+          "title": "郭德纲改编红歌被调查，中国言论空间日益收窄",
+          "imageUrl": "https://static01.nyt.com/images/2026/08/19/multimedia/19int-china-comedian-kwmc/19int-china-comedian-kwmc-videoLarge.jpg"
+        },
         {
           "id": "https://cn.nytimes.com/asia-pacific/20260819/taiwan-china-invasion-defense/dual",
           "author": null,
@@ -7156,26 +7136,6 @@
           "wordCount": 937,
           "title": "南海冲突再起：菲律宾称中国海警打伤该国水兵",
           "imageUrl": "https://static01.nyt.com/images/2026/07/21/multimedia/21int-philippines-china-skirmish-hjbg/21int-philippines-china-skirmish-hjbg-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/usa/20260721/trump-air-force-one-travel/dual",
-          "author": null,
-          "description": "PETER BAKER2026年7月21日 Doug Mills/The New York Times\nHe was like a kid with a new toy. As President Trump began flying the new Air Force One, he raved about the luxury plane donated by Qatar. “Truly magnificent,” he said. “Truly spectacular,” he added. “There’s just nothing like it,” he emphasized.\n他就像个得到新玩具的孩子。特朗普总统乘上崭新的“空军一号”，对这架由卡塔尔捐赠的豪华飞机赞不绝口。“真是太宏伟了，”他说。“真是太壮观了，”他还说。“没有比它更棒的了，”他强调说。\nAnd in a sense he was right. The new plane with its gold fixtures and reclining massage chairs was unlike the old one that presidents have traveled in for generations: It is believed to lack the same defensive countermeasures that the old model had to keep the flying commander in chief safe, as The New York Times has reported.\n从某种意义上说，他是对的。这架配备金色固定装置和可躺式按摩椅的新飞机与历代总统乘坐的旧飞机截然不同：正如《纽约时报》报道，据信，新飞机没有旧机型所具备的、用于保障…",
-          "link": "https://cn.nytimes.com/usa/20260721/trump-air-force-one-travel/dual",
-          "publishedOn": "2026-07-21T05:06:02.000Z",
-          "wordCount": 1482,
-          "title": "从马车到“空中一号”：美国总统出行简史",
-          "imageUrl": "https://static01.nyt.com/images/2026/07/17/multimedia/00DC-PRESIDENTIAL-TRAVEL-TOP-fjlz/00DC-PRESIDENTIAL-TRAVEL-TOP-fjlz-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/health/20260721/ginger-health-benefits-recipes/dual",
-          "author": null,
-          "description": "ALEXANDRA PATTILLO2026年7月21日\nGinger adds a zesty kick to weeknight curries and holiday cookies. It’s also a botanical remedy with a range of health benefits.\n生姜能为工作日的咖喱和节日饼干增添爽口的辣味。它同时也是一种具有多种健康功效的植物药材。\nIt’s not a “cure-all,” said Megan Crichton, a researcher and dietitian at the Queensland University of Technology in Australia who has studied ginger. But it can be helpful for addressing certain symptoms, especially nausea and pain, she said.\n研究过生姜的澳大利亚昆士兰科技大学研究员兼注册营养师梅根·克赖顿表示，它并不是“万灵药”，但在缓解特定症状方面确实有所帮助，尤其是恶心和疼痛。\nHere’s a closer look, along with recipes from New York Times Cooking.\n以下是详细介绍，以及来自《纽约时报》烹饪频道的食谱。\nIt can ease nausea.\n生姜能缓解恶心。\nGinger has been used for millenniums to target a multitude of issues: colds, headaches, stomach problems, joint pain, muscle soreness and fatigue. It’s par…",
-          "link": "https://cn.nytimes.com/health/20260721/ginger-health-benefits-recipes/dual",
-          "publishedOn": "2026-07-21T05:06:02.000Z",
-          "wordCount": 1063,
-          "title": "姜有多健康？",
-          "imageUrl": "https://static01.nyt.com/images/2025/12/16/well/08WELL-HEALTHY-GINGER1/08WELL-HEALTHY-GINGER1-videoLarge-v2.jpg"
         }
       ]
     },
