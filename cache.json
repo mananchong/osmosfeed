@@ -6,6 +6,16 @@
       "siteUrl": "https://rweekly.org/atom.xml",
       "articles": [
         {
+          "id": "https://rweekly.org/2026-W35.html",
+          "author": null,
+          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Eric Nantz, with help from the R Weekly team members and contributors.\nEditor’s Note: This week’s issue also includes resources from the 2026-W34 curation window. Enjoy a super-sized issue of R Weekly!\nHighlight\nWhy creativity matters in data visualisation\nuseR! 2026: Futurize - Tearing Down Parallelization Barriers in R with Transpilers\nTricky Parts of Async Mirai Magic\nInsights\nDeprecation messages for package data\nReading notes on Code That Fits in Your Head by Mark Seemann\nReading notes on The Programmer’s Brain by Felienne Hermans\nWhy creativity matters in data visualisation\n\nBreaking the Python Barrier: Building a Pure R-Native DeepAR Engine with LibTorch\nR in the Real…",
+          "link": "https://rweekly.org/2026-W35.html",
+          "publishedOn": "2026-08-24T00:00:00.000Z",
+          "wordCount": 7452,
+          "title": "R Weekly 2026-W35 Visualization Creativity, Futurize, Tricky Async",
+          "imageUrl": "https://rweekly.org/public/facebook.png"
+        },
+        {
           "id": "https://rweekly.org/2026-W33.html",
           "author": null,
           "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Sam Parmar, with help from the R Weekly team members and contributors.\nHighlight\nMaking R Submissions Reviewable for FDA\nWindows ARM64 comes to R-universe\nThe Journey of {nycOpenData}: From Classroom to Community\nInsights\nR GUI Comparison Update\nIs SAS Still Used, and Is It Worth Keeping?\nWindows ARM64 comes to R-universe\nposit::glimpse() Newsletter – August 2026\nShiny updates: R 1.14, Python 1.7, bslib 0.12\n\nQuarto 1.10\n\nIs R Accepted by the FDA? The State of R-Based Submissions\nR in the Real World\nNZ and US petrol (‘gasoline’) and diesel prices by @ellis2013nz\nAnalyzing Financial Trends: Kalman Filtering for Gold vs Bitcoin\nR in Organizations\nMaking R Submissions Reviewabl…",
@@ -54,6 +64,16 @@
       "feedUrl": "https://www.nationalreview.com/feed/",
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
+        {
+          "id": "https://www.nationalreview.com/?p=2022422",
+          "author": "John Fund",
+          "description": "Celebrating the Cuban dictator on his centennial, the DSA shows its soft spot for communist tyrannies.",
+          "link": "https://www.nationalreview.com/2026/08/the-democratic-socialists-of-america-hate-billionaires-except-fidel-castro/",
+          "publishedOn": "2026-08-23T21:35:33.000Z",
+          "wordCount": null,
+          "title": "The Democratic Socialists of America Hate Billionaires — Except Fidel Castro",
+          "imageUrl": null
+        },
         {
           "id": "https://www.nationalreview.com/?p=2021287",
           "author": "James Lileks",
@@ -1883,66 +1903,6 @@
           "wordCount": null,
           "title": "The EU’s Stealth Censorship Playbook",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=2002833",
-          "author": "Rainer Zitelmann",
-          "description": "Government censorship is more dangerous than even the most absurd opinions.",
-          "link": "https://www.nationalreview.com/2026/07/i-was-targeted-by-germanys-speech-police/",
-          "publishedOn": "2026-07-25T10:30:53.000Z",
-          "wordCount": null,
-          "title": "I Was Targeted by Germany’s Speech Police",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=2004772",
-          "author": "Corinne Cowan",
-          "description": "Will the vice president be able to hold disparate interests together as he eyes 2028?",
-          "link": "https://www.nationalreview.com/2026/07/jd-vances-coalitions-are-coming-to-blows/",
-          "publishedOn": "2026-07-25T10:30:35.000Z",
-          "wordCount": null,
-          "title": "JD Vance’s Coalitions Are Coming to Blows",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=2003935",
-          "author": "Brian T. Allen",
-          "description": "A look at the Petersen Automotive Museum’s exhibitions and hidden treasures in the Vault.",
-          "link": "https://www.nationalreview.com/2026/07/wedges-waymos-and-movie-star-wheels/",
-          "publishedOn": "2026-07-25T10:30:26.000Z",
-          "wordCount": null,
-          "title": "Wedges, Waymos, and Movie Star Wheels",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=2004487",
-          "author": "Jason Hayes",
-          "description": "The Canadian wildfires are a reminder of how ideology and short-term thinking drive poor forest management.",
-          "link": "https://www.nationalreview.com/2026/07/how-bad-policy-fuels-wildfires/",
-          "publishedOn": "2026-07-25T10:30:17.000Z",
-          "wordCount": null,
-          "title": "How Bad Policy Fuels Wildfires",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=2002811",
-          "author": "Andrew C. McCarthy",
-          "description": "Meanwhile, the Justice Department has been suppressing Biden special counsel Jack Smith’s report on the Mar-a-Lago probe.",
-          "link": "https://www.nationalreview.com/2026/07/will-trumps-doj-regret-urging-appeals-court-to-disclose-biden-tapes/",
-          "publishedOn": "2026-07-25T10:30:15.000Z",
-          "wordCount": null,
-          "title": "Will Trump’s DOJ Regret Urging Appeals Court to Disclose Biden Tapes?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=2003792",
-          "author": "Andrew Follett",
-          "description": "By removing university bureaucracies from their role as middlemen, this new approach to funding will speed up scientific research.",
-          "link": "https://www.nationalreview.com/2026/07/trumps-200-billion-research-reset-funds-scientists-not-university-systems/",
-          "publishedOn": "2026-07-25T10:30:03.000Z",
-          "wordCount": null,
-          "title": "Trump’s $200 Billion Research Reset Funds Scientists, Not University Systems",
-          "imageUrl": null
         }
       ]
     },
@@ -1951,6 +1911,26 @@
       "feedUrl": "https://sspai.com/feed",
       "siteUrl": "https://sspai.com",
       "articles": [
+        {
+          "id": "https://sspai.com/post/112983",
+          "author": "谷雨G2rain",
+          "description": "有些 app 总是太吵，有些又总嫌声音不够大；既然 iOS 还没有提供真正的应用独立音量，不妨用快捷指令让 iPhone 自动记住每个 app 该有多大声。查看全文",
+          "link": "https://sspai.com/post/112983",
+          "publishedOn": "2026-08-24T03:30:44.000Z",
+          "wordCount": 291,
+          "title": "快捷指令 | 让特定 app 小点声：在 iPhone 上实现独立音量控制",
+          "imageUrl": "https://rssfile.sspai.com/2026/08/01/86055ad41f316e2daa791e8268c1d833.jpeg?imageMogr2/auto-orient/ignore-error/1"
+        },
+        {
+          "id": "https://sspai.com/post/113767",
+          "author": "少数派编辑部",
+          "description": "九家车企召回近 430 万辆不易识别应急拉手汽车\n英伟达达成 70 亿美元合作，研发顶级开放权重模型\n高院发布著作权新司法解释，网络转载不允许先转后付\n买家利用仅退款漏洞倒卖 13 万元火鸡面被刑拘\n国际加紧制定统一月球时间\n个人消费贷贴息政策扩展覆盖买车、装修等\n看看就行的小道消息\n少数派的近期动态\n你可能错过的好文章\n查看全文",
+          "link": "https://sspai.com/post/113767",
+          "publishedOn": "2026-08-23T23:13:55.000Z",
+          "wordCount": 395,
+          "title": "派早报：九家车企召回近 430 万辆不易识别应急拉手汽车",
+          "imageUrl": "https://rssfile.sspai.com/8/24/2026/article/73828906-805f-67dc-64a4-7f04d988cac2.png?imageMogr2/auto-orient/ignore-error/1"
+        },
         {
           "id": "https://sspai.com/prime/story/surface-pro-7-linux-ai-dashboard",
           "author": "neyham",
@@ -5663,104 +5643,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://pic.yupoo.com/fotomag/653f3d53cf/56eb64cf.jpg"
-        },
-        {
-          "id": "idaily-255437",
-          "author": "室女座",
-          "description": "NASA 公布一张哈勃太空望远镜拍摄的室女座星系团「NGC 4654」星系照片。这是一个距离地球约7200万光年的螺旋星系，具有明显的旋臂与微弱的棒状结构，因此被归类为「中间型螺旋星系」。「NGC 4654」星系是一个正在高速移动的星系，因此受到室女座星系团气体和尘埃的「冲击」作用，形成细长的星系尾迹。摄影师：NASA",
-          "link": "https://m.idai.ly/se/cfd8Ep",
-          "publishedOn": "2026-07-25T11:55:00.000Z",
-          "wordCount": 275,
-          "title": "NGC 4654 中间螺旋星系 - July 25, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/5f4a3d5a15/f199ce4a.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/5f4a3d5a15/f199ce4a.jpg"
-        },
-        {
-          "id": "idaily-255436",
-          "author": "美国 · 得克萨斯州",
-          "description": "SpaceX 星舰V3原型机与超重型助推器组合体发射升空，得克萨斯州。7月24日17时51分，SpaceX 成功进行星舰第13次试飞，星舰升空2分钟后与助推器分离，进入太空释放20颗星链V3卫星并完成发动机再点火测试，40分钟后再入地球大气层，最终在印度洋预定海域受控溅落。SpaceX 公司宣布本次星舰试飞任务实现大部分原定目标，部署卫星与任务团队成功建立通信，星舰原型机在海上实现平稳溅落并完好无损。摄影师：SpaceX",
-          "link": "https://m.idai.ly/se/aafj7G",
-          "publishedOn": "2026-07-25T10:58:00.000Z",
-          "wordCount": 273,
-          "title": "星舰第13次试飞成功 - July 25, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/f99e6f008b/f21d0e50.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/f99e6f008b/f21d0e50.jpg"
-        },
-        {
-          "id": "idaily-255435",
-          "author": "吉尔吉斯斯坦 · 乔尔蓬阿塔",
-          "description": "中国外交部长王毅与俄罗斯外交部长 Sergei Lavrov 举行会晤，乔尔蓬阿塔。7月23日，上海合作组织外长会议在吉尔吉斯斯坦北部城市乔尔蓬阿塔举行，上合组织10国外长在会议期间就国际和地区问题深入交换意见，并重点讨论2026年上合峰会筹备工作。中国外长王毅在与俄罗斯外长会晤中指出，中俄要加强战略协作，维护二战胜利成果，绝不允许日本重新武装。俄罗斯外长 Lavrov 表示，俄方高度警惕和坚决反对日本加速「再军事化」和拥核图谋，中俄可进一步加强在联合国、亚太经合组织、二十国集团、金砖、东亚合作等多边框架内战略协作，推动构建更加民主公正的多极世界。摄影师：Russian Foreign Ministry",
-          "link": "https://m.idai.ly/se/a58UUx",
-          "publishedOn": "2026-07-25T09:57:00.000Z",
-          "wordCount": 273,
-          "title": "中俄外长举行会晤 - July 25, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/7b4deb0474/387ea0b1.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/7b4deb0474/387ea0b1.jpg"
-        },
-        {
-          "id": "idaily-255434",
-          "author": "日本 · 东京",
-          "description": "东京证券交易所屏幕上显示日经指数即时数据。7月24日，亚洲股市因科技股抛售及中东冲突升级而大幅回落，日经平均股价指数（Nikkei 225）收跌-2.73%，报64611.15点，韩国综合股价指数（KOSPI）触发熔断机制，收跌-5.72%，报6690.62点。隔夜美股三大指数的纳指跌-2.15%，标普500指数跌-1.21%，道指跌-0.97%。本轮全球股市波动主要受投资者对人工智能产业投资回报的担忧日益加剧，以及中东局势紧张推高避险情绪等负面因素影响。日经指数比6月高点下跌超过-10%，韩国 KOSPI 指数比6月高点下跌近-30%。摄影师：iDaily Media",
-          "link": "https://m.idai.ly/se/d6c43W",
-          "publishedOn": "2026-07-25T09:55:00.000Z",
-          "wordCount": 273,
-          "title": "亚洲股市集体下跌 - July 25, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/27098856f0/92fed488.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/27098856f0/92fed488.jpg"
-        },
-        {
-          "id": "idaily-255433",
-          "author": "加沙地带 · 阿兹扎韦达",
-          "description": "一名在以色列空袭中受伤的巴勒斯坦儿童正在接受治疗，加沙地带。这名4岁男孩在以色列空袭中失去了父母和姐姐，成为全家唯一的幸存者，目前正在医院接受3度烧伤治疗。加沙地带卫生部门7月23日通报，本轮以巴冲突已造成至少73311名巴勒斯坦人死亡，逾17.3万人受伤；加沙登记在册的孤儿人数达到65279名。联合国儿童基金会指出，加沙地带目前至少67%人口面临严重的粮食短缺，数千名儿童急需挽救生命的营养支持。摄影师：Moiz Salhi",
-          "link": "https://m.idai.ly/se/fceb73",
-          "publishedOn": "2026-07-25T09:53:00.000Z",
-          "wordCount": 273,
-          "title": "以色列持续空袭加沙 - July 25, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/ec5db89d84/870e126f.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/ec5db89d84/870e126f.jpg"
-        },
-        {
-          "id": "idaily-255432",
-          "author": "法国 · 吉伦特省",
-          "description": "法国旅游胜地费雷角半岛的山火浓烟升入空中，吉伦特省。7月24日，法国政府通报费雷角半岛的山火蔓延面积达1.9万公顷，约80栋房屋被烧毁，逾11万人紧急疏散。当地政府已下令所有居民和游客撤离，并派出约1000名消防员展开灭火工作。法国总统 Emmanuel Macron 已请求欧盟启动民事保护机制以帮助法国遏制山火灾害，预计将获得克罗地亚、葡萄牙、捷克和斯洛伐克提供的灭火飞机和直升机支援。摄影师：Maximilien Lamy",
-          "link": "https://m.idai.ly/se/5b045e",
-          "publishedOn": "2026-07-25T09:51:00.000Z",
-          "wordCount": 273,
-          "title": "法国费雷角半岛山火 - July 25, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/732b5426c9/ee6c0099.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/732b5426c9/ee6c0099.jpg"
-        },
-        {
-          "id": "idaily-255431",
-          "author": "中国 · 扬州",
-          "description": "中远海运重工船舶厂正在同时建造多艘大型船只，江苏扬州。7月23日，中国工信部发布数据显示2026年上半年中国出口船舶金额达316.2亿美元，造船完工量、新接订单量和手持订单量三大核心指标再次打破历史纪录，其中造船完工量达到3650万载重吨，同比增长51.2%，占世界总量的62.2%；新接订单量为12106万载重吨，同比增长173.1%，超过历史全年订单峰值；手持订单量为36325万载重吨，同比增长54.9%，占世界总量的71.2%。摄影师：iDaily Media",
-          "link": "https://m.idai.ly/se/c6bpPR",
-          "publishedOn": "2026-07-25T09:49:00.000Z",
-          "wordCount": 273,
-          "title": "中国上半年造船量增长51.2% - July 25, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/bccfd1460b/4b29c00b.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/bccfd1460b/4b29c00b.jpg"
         }
       ]
     },
@@ -5769,6 +5651,76 @@
       "feedUrl": "https://plink.anyfeeder.com/nytimes/dual",
       "siteUrl": "http://nytimes.com",
       "articles": [
+        {
+          "id": "https://cn.nytimes.com/asia-pacific/20260824/iran-war-asia-airports-dubai/dual",
+          "author": null,
+          "description": "JOHN YOON2026年8月24日自伊朗战争爆发以来，服务于首尔的仁川国际机场的中转客流量急剧上升。 Kim Hong-Ji/Reuters\nFlying across the world? You’re now more likely to stop in Asia than you would have been before war broke out in the Middle East.\n计划飞越全球？与中东爆发战争前相比，你现在更有可能在亚洲中转。\nMajor Persian Gulf airlines like Emirates, Qatar Airways and Etihad dominated intercontinental travel before the war, accounting for roughly a third of the traffic between Europe and Asia and about one in two travelers between Europe and Australia.\n战争之前，阿联酋航空、卡塔尔航空和阿提哈德航空等波斯湾主要航空公司主导着洲际旅行，约占欧洲和亚洲之间客流量的三分之一，以及欧洲和澳大利亚之间旅客量的大约一半。\nBut transfer traffic in the Middle East on routes connecting Asia to Europe has nearly halved since the war started in late February, according to one estimate.\n但据一项估计，自2月底战争爆发以来，在连接亚洲和欧洲的航线上，中东地区的中转客流量已减少了近一半。\nAnd for now at least, tra…",
+          "link": "https://cn.nytimes.com/asia-pacific/20260824/iran-war-asia-airports-dubai/dual",
+          "publishedOn": "2026-08-24T06:06:02.000Z",
+          "wordCount": 1071,
+          "title": "洲际旅行迪拜转机？不，也许是首尔",
+          "imageUrl": "https://static01.nyt.com/images/2026/08/18/multimedia/18xp-asia-aviation-mptz/18xp-asia-aviation-mptz-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/world/20260824/wheat-harvests-bread-prices-war-heat/dual",
+          "author": null,
+          "description": "SOMINI SENGUPTA2026年8月24日本月，德国塞卢布村的一片农田里，一台联合收割机正在给小麦脱粒。由于干旱和高温，德国包括小麦在内的多种作物产量均有所下降。 Lisi Niesner/Reuters\nInstant noodles. Hot chapatis. Sliced bread.\n方便面。热乎乎的恰帕提饼。切片面包。\nWheat is at the heart of the modern diet, and this year, it is facing an accumulation of modern dangers. The breadbaskets of the world are getting pummeled by drone strikes and devilish weather, nudging prices higher amid already soaring food costs in the wake of the Iran war.\n小麦是现代饮食的核心，而今年，它正面临着不断累积的一系列现代威胁。全球的粮仓正遭受无人机袭击和恶劣天气的双重打击，在伊朗战争后本已飙升的食品价格基础上进一步推高了粮价。\nHeat and drought have diminished harvests in some of the biggest wheat-producing countries, including the United States, which is expected to have its worst wheat harvest in a half-century, spiking prices. Poor countries that agreed to buy American wheat under the t…",
+          "link": "https://cn.nytimes.com/world/20260824/wheat-harvests-bread-prices-war-heat/dual",
+          "publishedOn": "2026-08-24T05:36:03.000Z",
+          "wordCount": 1467,
+          "title": "战争、气候和贸易争端多重冲击，全球粮食安全亮红灯",
+          "imageUrl": "https://static01.nyt.com/images/2026/08/19/multimedia/00int-breadbaskets-1-ljwv/00int-breadbaskets-1-ljwv-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/business/20260824/shein-ipo-questions/dual",
+          "author": null,
+          "description": "黄瑞黎2026年8月24日去年，在布宜诺斯艾利斯一家希音二手店开业时，现场的顾客们。 Sarah Pabst for The New York Times\nShein was once one of the most talked-about companies in retail.\n希音(Shein)曾是零售业最具话题性的公司之一。\nIt could spot what Generation Z wanted and, within days, turn those trends into $10 mesh dresses and $5 crop tops. Its clothes were so cheap and its churn of new styles was so relentless that #Sheinhaul became a phenomenon on TikTok. Shein overtook bigger rivals like Zara and H&M, started planning an initial public offering and, at one point, was valued at nearly $100 billion.\n它能够敏锐地捕捉到Z世代的需求，并在几天内将这些趋势转化为10美元的网眼连衣裙和五美元的露脐上衣。它的衣服极其便宜，新潮款式的上新速度之快让人目不暇接，以至于#Sheinhaul（Shein购物分享）成了TikTok上的一种现象。Shein超越了Zara和H&M等规模更大的竞争对手，开始筹备首次公开募股，估值一度接近1000亿美元。\nNow the buzz has faded.\n如今，这种热度已经褪去。\nAfter years of delay, Shein is close to going …",
+          "link": "https://cn.nytimes.com/business/20260824/shein-ipo-questions/dual",
+          "publishedOn": "2026-08-24T04:36:01.000Z",
+          "wordCount": 1426,
+          "title": "昔日热潮消退，Shein能“开启第二春”吗？",
+          "imageUrl": "https://static01.nyt.com/images/2026/08/19/multimedia/Biz-Shein-01-vqhg/Biz-Shein-01-vqhg-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/asia-pacific/20260824/japan-capital-osaka/dual",
+          "author": null,
+          "description": "赫海威, HISAKO UENO2026年8月24日眺望日本北海道的札幌市。 Hiroko Masuike/The New York Times\nFor 158 years, Tokyo has stood as Japan’s glittering capital, a world-famous nexus of food, culture, business and government.\n158年来，东京一直是流光溢彩的日本国都，是世界闻名的美食、文化、商业与政府中心。\nBut Tokyo might soon get an understudy. Japan’s legislature recently passed a bill to create a secondary capital that would serve as an alternate center for the government’s operations, ensuring continuity in the case of a natural disaster or other emergency.\n但东京可能很快就会有一个“替补”。日本立法机构最近通过了一项法案，拟设立一个副首都，作为政府运作的备用中心，以确保在自然灾害或其他紧急情况下的连续性。\nWith hundreds of millions of dollars potentially in the offing, and the chance for tax breaks, tourism and urban revival, the plan has set off a frenzy in Japan. Thirteen local governments have already entered the race, inc…",
+          "link": "https://cn.nytimes.com/asia-pacific/20260824/japan-capital-osaka/dual",
+          "publishedOn": "2026-08-24T04:06:02.000Z",
+          "wordCount": 1079,
+          "title": "日本“副首都”争夺战：防范灾害还是政治“淘金”？",
+          "imageUrl": "https://static01.nyt.com/images/2026/08/22/multimedia/22int-japan-capital-gtfl/22int-japan-capital-gtfl-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/world/20260824/canada-us-trade-war-trump-carney/dual",
+          "author": null,
+          "description": "《纽约时报》2026年8月24日周六，加拿大总理马克·卡尼在一次强硬讲话中表示，该国正受到特朗普总统关税的“攻击”，与美国处于“战争”状态。 Chris Tanouye/Reuters\nTalks between the United States and Canada failed late Friday to head off steep new tariffs on Canadian goods, prompting Canada to promise “dollar for dollar” retaliation.\n美国与加拿大之间的谈判于周五晚间破裂，美国将对加拿大商品加征高额新关税，加拿大承诺将采取“等额”报复措施。\nPrime Minister Mark Carney of Canada said he had suspended the talks because the American side had introduced last-minute terms that were “unfair, uneconomic and called into question the reliability of any deal.” Then on Saturday, in a powerful speech to Canadians, Mr. Carney said Canada was under attack by President Trump’s tariffs and was “at war” with the United States.\n加拿大总理马克·卡尼表示，他暂停了谈判，因为美方在最后时刻提出了“不公平、有违经济常理且令人对任何协议的可靠性产生怀疑”的条件。随后在周六向加拿大人发表的强硬讲话中，卡尼表示加拿大正受到特朗普总统关税的“攻击”…",
+          "link": "https://cn.nytimes.com/world/20260824/canada-us-trade-war-trump-carney/dual",
+          "publishedOn": "2026-08-24T03:06:03.000Z",
+          "wordCount": 1122,
+          "title": "详解美加贸易战：北美传统盟友关系因何破裂",
+          "imageUrl": "https://static01.nyt.com/images/2026/08/22/multimedia/22int-canada-trade-wwk-1-ztkm/22int-canada-trade-wwk-1-ztkm-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/business/20260824/china-car-recall-doors/dual",
+          "author": null,
+          "description": "KEITH BRADSHER, JACK EWING2026年8月24日中国要求九家汽车制造商采取措施，提高电动汽车上广泛采用的电动门把手的可靠性。 Qilai Shen for The New York Times\nThe Chinese government announced its biggest car recall ever on Friday, forcing nine automakers to address the dangers of retractable door handles popularized by Tesla particularly for electric cars.\n中国政府周五宣布了有史以来最大规模的汽车召回行动，要求九家汽车制造商解决隐藏式门把手带来的安全隐患，这种门把手由特斯拉率先推广，在电动汽车中广泛流行。\nThe recall involves 4.3 million vehicles. Most of the automakers, including Tesla, will attach stickers to their cars to show where the handles are. Tesla will also push online software updates to the cars so their windows will open automatically after a crash.\n此次召回涉及430万辆汽车。包括特斯拉在内的大多数汽车制造商将在车上贴上贴纸，标明门把手的位置。特斯拉还将向这些车辆推送在线软件更新，以便在发生碰撞后车窗能自动降下。\nConcerns about the doors have also flared in the United States, where…",
+          "link": "https://cn.nytimes.com/business/20260824/china-car-recall-doors/dual",
+          "publishedOn": "2026-08-24T02:06:03.000Z",
+          "wordCount": 1051,
+          "title": "中国宣布规模最大汽车召回行动，涉及特斯拉等九家车企",
+          "imageUrl": "https://static01.nyt.com/images/2026/08/21/multimedia/21biz-China-Car-Doors-01-jvgz/21biz-China-Car-Doors-01-jvgz-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/world/20260824/china-iran-trump-economic-threats/dual",
+          "author": null,
+          "description": "DAVID PIERSON, BERRY WANG2026年8月24日上海的石油储罐和设施，摄于3月。中国拥有庞大的石油储备，这使其在能源供应中断时所受的影响较小。 Go Nakamura/Reuters\nAs Iran’s largest trading partner, China would seemingly have much to lose from President Trump’s threat this week to impose “tremendous economic consequences” on nations doing business with Tehran.\n特朗普总统称将对与德黑兰有业务往来的国家施加“巨大的经济后果”。作为伊朗最大的贸易伙伴，中国似乎将因特朗普的威胁而蒙受重大损失。\nFor decades, China has defied Western sanctions on Iranian oil by buying up to 90 percent of Tehran’s oil exports. China has also supplied Iran with technology and raw materials to build an arsenal of missiles and drones.\n几十年来，中国一直无视西方对伊朗石油的制裁，购买了德黑兰高达90%的石油出口量。中国还向伊朗提供了用于制造导弹和无人机武器库的技术和原料。\nBut Beijing has reasons to feel confident it can withstand Mr. Trump’s latest warning — if it is ever fulfilled. And increasingly, Chinese an…",
+          "link": "https://cn.nytimes.com/world/20260824/china-iran-trump-economic-threats/dual",
+          "publishedOn": "2026-08-24T01:06:01.000Z",
+          "wordCount": 1026,
+          "title": "特朗普威胁制裁伊朗盟友，中国为何不为所动",
+          "imageUrl": "https://static01.nyt.com/images/2026/08/21/multimedia/21int-china-iran-analysis-01-pthw/21int-china-iran-analysis-01-pthw-articleLarge.jpg"
+        },
         {
           "id": "https://cn.nytimes.com/health/20260821/peas-health-benefits-recipes/dual",
           "author": null,
