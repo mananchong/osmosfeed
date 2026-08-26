@@ -2,10 +2,123 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mananchong.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-25T17:06:39.533Z</updated>
+    <updated>2026-08-26T08:09:17.304Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mananchong.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://mananchong.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[那些显示你正在变老的“奇怪”迹象]]></title>
+        <id>https://cn.nytimes.com/health/20260826/more-aging-signs/dual</id>
+        <link href="https://cn.nytimes.com/health/20260826/more-aging-signs/dual"/>
+        <updated>2026-08-26T06:06:02.000Z</updated>
+        <summary type="html"><![CDATA[JANCEE DUNN2026年8月26日 Matt Chase
+I’ve noticed two odd things about my feet lately: They’ve grown a shoe size, and walking barefoot hurts on flat surfaces such as my kitchen floor.
+我最近注意到自己的脚有两个问题：鞋要买大一码了，而且在厨房地板这样的平坦表面上光脚走路会痛。
+Last year, I wrote a column about weird signs that you’re getting older, including shifting teeth and changes in your voice.
+去年，我写了一篇关于变老的奇怪迹象的专栏文章，这些迹象包括牙齿移位和声音变化。
+I’ve spotted plenty more since then — like the foot changes. So I called Sabrina Minhas, assistant clinical professor at the Temple University School of Podiatric Medicine, and asked her if both experiences were common.
+那之后，我还发现了更多迹象，比如脚的变化。于是我致电天普大学足病医学院助理临床教授萨布丽娜·明哈斯，问她这两种情况是否普遍。
+“Absolutely,” she said.
+“当然，”她说。
+Dr. Minhas explained that as we age, the ligaments, tendons and muscles that support the arc…]]></summary>
+        <author>
+            <name>纽约时报双语版</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[智谱AI新人工智能模型再次引发网络安全争论]]></title>
+        <id>https://cn.nytimes.com/science/20260826/cybersecurity-zai-open-weights/dual</id>
+        <link href="https://cn.nytimes.com/science/20260826/cybersecurity-zai-open-weights/dual"/>
+        <updated>2026-08-26T05:36:02.000Z</updated>
+        <summary type="html"><![CDATA[CADE METZ2026年8月26日一家名为智谱AI的中国实验室正准备将类似的人工智能技术作为“开放权重”软件发布。 Laurie Chen/Reuters
+In mid-July, as OpenAI was testing new artificial intelligence technologies, these unusually powerful systems broke out of their digital containers, found a path to the open internet and successfully hacked into a popular online service called Hugging Face.
+7月中旬，当OpenAI测试新的人工智能技术时，这些异常强大的系统突破了它们的数字容器，找到了一条通往公共互联网的路径，成功侵入了一个名为Hugging Face的知名在线服务平台。
+For many researchers and other experts, the incident proved that A.I. technologies were growing increasingly dangerous and that the leading A.I. labs should maintain strict control over how these systems are used.
+对许多研究人员和其他专家而言，这一事件证明人工智能技术正变得越来越危险，领先的人工智能实验室应当对这些系统的使用方式保持严格管控。
+Now, little more than a month later, a Chinese lab called Z.ai is preparing to release sim…]]></summary>
+        <author>
+            <name>纽约时报双语版</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[当世界发现，反抗特朗普也可以是一个选择]]></title>
+        <id>https://cn.nytimes.com/usa/20260826/trump-polls-tariffs-carney/dual</id>
+        <link href="https://cn.nytimes.com/usa/20260826/trump-polls-tariffs-carney/dual"/>
+        <updated>2026-08-26T04:06:02.000Z</updated>
+        <summary type="html"><![CDATA[PETER BAKER2026年8月26日世界各国领导人和美国国内机构都越来越不愿意屈从于特朗普总统的意志。 Kenny Holston/The New York Times
+This is a summer movie that’s been seen before: President Trump makes demands. When the other side does not give him what he wants, he escalates with bombastic threats of crippling punishment. The other side surrenders.
+这是一部似曾相识的暑期档电影：特朗普总统提出要求。当对方不给他想要的东西时，他就升级威胁，气势汹汹地扬言要施加足以让对方遭受重创的惩罚。于是，对方屈服了。
+Except that Mark Carney, the prime minister of Canada, evidently has not read the script. His refusal to buckle in the face of Mr. Trump’s trade ultimatum even at the cost of retaliatory tariffs has flipped the narrative of the president’s second term. Instead of giving in, Mr. Carney is testing whether defiance is a viable strategy against Mr. Trump.
+但加拿大总理马克·卡尼显然没有遵循这个剧本。面对特朗普的贸易最后通牒，卡尼仍拒绝屈服，即使这意味着加拿大将面临报复性关税…]]></summary>
+        <author>
+            <name>纽约时报双语版</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国抨击美国对伊朗制裁行动，称将捍卫自身利益]]></title>
+        <id>https://cn.nytimes.com/world/20260826/us-bessent-china-iran/dual</id>
+        <link href="https://cn.nytimes.com/world/20260826/us-bessent-china-iran/dual"/>
+        <updated>2026-08-26T03:06:02.000Z</updated>
+        <summary type="html"><![CDATA[艾莎, AARON KROLIK, KEITH BRADSHER2026年8月26日中国炼油企业以大幅折扣的价格采购了伊朗原油。 Agence France-Presse — Getty Images
+China lashed out at the Trump administration’s new sanctions campaign against Iran on Tuesday, warning that it would defend its interests and accusing the United States of disrupting the global financial order.
+周二，中国对特朗普政府针对伊朗的新一轮制裁行动予以猛烈抨击，警告称将捍卫自身利益，并指责美国破坏了全球金融秩序。
+The reaction set the stage for renewed friction between the world’s superpowers.
+这一反应为这两个世界超级大国之间重新爆发摩擦埋下了伏笔。
+Treasury Secretary Scott Bessent on Monday outlined plans to “sever every economic lifeline” to Iran, targeting a constellation of players that continue to provide the country with a financial lifeline. But the administration appeared to tread carefully around China, by far the largest customer of Iran’s most valuable e…]]></summary>
+        <author>
+            <name>纽约时报双语版</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[伊朗战争凸显中国能源战略奏效]]></title>
+        <id>https://cn.nytimes.com/opinion/20260826/iran-china-energy-power/dual</id>
+        <link href="https://cn.nytimes.com/opinion/20260826/iran-china-energy-power/dual"/>
+        <updated>2026-08-26T03:06:02.000Z</updated>
+        <summary type="html"><![CDATA[MICHAL MEIDAN2026年8月26日 Arne Bellstorf
+When the Iran war began in late February, China looked vulnerable.
+当伊朗战争于2月下旬爆发时，中国看上去处境不妙。
+The world’s largest crude oil importer, China has in recent years depended on imports for more than 70 percent of its consumption, with around half coming from the Middle East. The throttling of the Strait of Hormuz, months ­­after the United States had disrupted global oil flows from Venezuela, seemed to present Chinese leaders with one of their greatest strategic fears: a crippling oil shock they could not control.
+作为全球最大进口国，中国近年来超过70%的原油消耗依赖进口，其中约一半来自中东。在美国此前已扰乱来自委内瑞拉的全球石油流通之后，霍尔木兹海峡的阻塞似乎给中国领导人带来了其最大的战略恐惧之一：一场无法控制的严重石油休克。
+Instead, President Trump’s war on Iran has been a welcome revelation for China, which absorbed one of the most severe oil-supply disruptio…]]></summary>
+        <author>
+            <name>纽约时报双语版</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在正镶白旗，用五天共同生活理解现代牧场]]></title>
+        <id>https://sspai.com/post/113714</id>
+        <link href="https://sspai.com/post/113714"/>
+        <updated>2026-08-26T02:39:24.000Z</updated>
+        <summary type="html"><![CDATA[这一趟田野调查旅行打破了以往我对旅行的传统认识，不再是到了一个地方打卡就结束，而是要和当地人产生连接。查看全文]]></summary>
+        <author>
+            <name>PJHubs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[艺术家高兟因创作讽刺毛泽东雕塑获刑三年]]></title>
+        <id>https://cn.nytimes.com/china/20260826/china-artist-gao-zhen-jailed-mao-sculpture/dual</id>
+        <link href="https://cn.nytimes.com/china/20260826/china-artist-gao-zhen-jailed-mao-sculpture/dual"/>
+        <updated>2026-08-26T01:06:02.000Z</updated>
+        <summary type="html"><![CDATA[郭莉莉2026年8月26日高兟、高强和他们的作品《下跪忏悔的毛》，2009年摄于北京。 Shiho Fukada for The New York Times
+A Chinese court on Tuesday sentenced a prominent New York-based artist, Gao Zhen, to three years in prison for making irreverent sculptures of Mao Zedong more than 15 years ago, according to his wife.
+据高兟妻子透露，中国一家法院周二判处这位已移居纽约的著名艺术家三年有期徒刑，理由是他曾在逾15年前创作了涉嫌亵渎毛泽东的雕塑。
+The Sanhe City People’s Court in Hebei Province found Mr. Gao guilty of slandering one of the country’s heroes, highlighting the shrinking space for expression under China’s leader, Xi Jinping.
+河北省三河市人民法院裁定高兟侵害英雄烈士名誉、荣誉罪成立，这凸显了在中国领导人习近平治下日益缩窄的表达空间。
+The case of Mr. Gao, who had emigrated to the United States and was detained in Beijing two years ago while visiting family, underlined the opacity of China’s legal system. The 70-year-old artist was tried …]]></summary>
+        <author>
+            <name>纽约时报双语版</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：Apple 发布新款 Mac mini 和 Mac Studio 等]]></title>
+        <id>https://sspai.com/post/113847</id>
+        <link href="https://sspai.com/post/113847"/>
+        <updated>2026-08-26T00:09:01.000Z</updated>
+        <summary type="html"><![CDATA[索尼正式发布 Xperia 10 VIII 手机，Apple 钱包上线郑州绿城通交通卡等。查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[嫦娥七号任务推迟发射 - August 25, 2026]]></title>
         <id>idaily-257127</id>
@@ -7654,200 +7767,6 @@ Japan has strengthened defense ties with Australia, the Philippines and India, a
         <summary type="html"><![CDATA[少数派的近期动态那个让你放松娱乐、拥抱心流、逃离纷扰或找回真我的角落，是如何构建起来的？「角落新声」征文活动火热征稿中你可能错过的文章角落新声｜不再烧Hi-Fi后，我在走步机上给音乐留了一小时Wind ...查看全文]]></summary>
         <author>
             <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The DSA Wants to Abolish America]]></title>
-        <id>https://www.nationalreview.com/?p=2006581</id>
-        <link href="https://www.nationalreview.com/2026/07/the-dsa-wants-to-abolish-america/"/>
-        <updated>2026-07-27T16:13:10.000Z</updated>
-        <summary type="html"><![CDATA[We should, in fact, be ‘scared’ by Megan Romer and her ilk.]]></summary>
-        <author>
-            <name>Charles C. W. Cooke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[It’s Time to Reexamine Monetary Policy Rules]]></title>
-        <id>https://www.nationalreview.com/?p=2004368</id>
-        <link href="https://www.nationalreview.com/2026/07/its-time-to-reexamine-monetary-policy-rules/"/>
-        <updated>2026-07-27T10:30:35.000Z</updated>
-        <summary type="html"><![CDATA[Pure unpredictable discretion is no way to operate an economy.]]></summary>
-        <author>
-            <name>Jeb Hensarling</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[There’s No Such Thing as Free Data]]></title>
-        <id>https://www.nationalreview.com/?p=2005211</id>
-        <link href="https://www.nationalreview.com/2026/07/theres-no-such-thing-as-free-data/"/>
-        <updated>2026-07-27T10:30:30.000Z</updated>
-        <summary type="html"><![CDATA[The government should allow banks and software companies to negotiate the price of financial data freely.]]></summary>
-        <author>
-            <name>Patrick M. Brenner</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Troy Jackson Is Just as Radical as Graham Platner]]></title>
-        <id>https://www.nationalreview.com/?p=2006026</id>
-        <link href="https://www.nationalreview.com/2026/07/troy-jackson-is-just-as-radical-as-graham-platner/"/>
-        <updated>2026-07-27T10:30:09.000Z</updated>
-        <summary type="html"><![CDATA[Democrats nominate the failed gubernatorial candidate and former state senator in a desperate bid to salvage their chances in Maine.]]></summary>
-        <author>
-            <name>The Editors</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Religious Liberty Isn’t a Given in Kathy Hochul’s New York]]></title>
-        <id>https://www.nationalreview.com/?p=2006232</id>
-        <link href="https://www.nationalreview.com/2026/07/religious-liberty-isnt-a-given-in-kathy-hochuls-new-york/"/>
-        <updated>2026-07-27T10:30:04.000Z</updated>
-        <summary type="html"><![CDATA[The new assisted-suicide law leaves Catholic nuns fighting for basic freedom.]]></summary>
-        <author>
-            <name>Kathryn Jean Lopez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We Still Need More Ships]]></title>
-        <id>https://www.nationalreview.com/?p=2005425</id>
-        <link href="https://www.nationalreview.com/2026/07/we-still-need-more-ships/"/>
-        <updated>2026-07-27T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[For the first time since the Reagan administration, the government is serious about rebuilding our maritime industry.]]></summary>
-        <author>
-            <name>Jim Talent</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[联盟号载人飞船返回地球 - July 27, 2026]]></title>
-        <id>idaily-255575</id>
-        <link href="https://m.idai.ly/se/e3fVBC"/>
-        <updated>2026-07-27T10:26:00.000Z</updated>
-        <summary type="html"><![CDATA[俄罗斯「联盟 MS-28」载人飞船返回舱在哈萨克斯坦草原着陆，3名宇航员正在等待出舱。7月26日，俄罗斯宇航员 Sergey Kud-Sverchkov、Sergei Mikaev 和美国宇航员 Chris Williams 乘坐联盟号载人飞船返回地球，结束为期241天的国际空间站驻留任务。这3名宇航员驻站期间共参与完成约40项科学实验和2次太空行走任务，累计绕地球飞行3856圈，总飞行里程超过1.64亿公里。摄影师：Bill Ingalls]]></summary>
-        <author>
-            <name>哈萨克斯坦 · 杰兹卡兹甘</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特朗普宣布美国核能进展 - July 27, 2026]]></title>
-        <id>idaily-255572</id>
-        <link href="https://m.idai.ly/se/c5anWx"/>
-        <updated>2026-07-27T10:26:00.000Z</updated>
-        <summary type="html"><![CDATA[美国总统 Donald Trump 在白宫就美国核能技术创新发表讲话，华盛顿特区。7月24日，美国总统 Trump 宣布2025年迄今已有4座新核反应堆实现临界运行，超额完成美国能源部2025年确定的核能发展目标，并表示其政府正在评估在联邦海域建设核电站的可行性。美国境内目前共有94座正在运营中的商业核反应堆，总装机容量约为100吉瓦，美国能源部目标至2029年新增5吉瓦核能装机容量。摄影师：Bonnie Cash]]></summary>
-        <author>
-            <name>美国 · 华盛顿特区</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[哈萨克斯坦总统访俄 - July 27, 2026]]></title>
-        <id>idaily-255571</id>
-        <link href="https://m.idai.ly/se/fa26iZ"/>
-        <updated>2026-07-27T10:26:00.000Z</updated>
-        <summary type="html"><![CDATA[俄罗斯总统 Vladimir Putin 与哈萨克斯坦总统 Kassym-Jomart Tokayev 举行会晤，鄂木斯克。7月25日，哈萨克斯坦总统 Tokayev 应邀访问俄罗斯并出席第22届俄哈区域间合作论坛会议，两国领导人就双边关系、区域合作、俄乌冲突等议题交换意见。俄总统 Putin 在会晤中指出俄哈关系具有战略意义和良好的发展前景，两国在全球运输和物流领域具有无限的合作潜力。哈萨克斯坦总统 Tokayev 表示哈萨克斯坦始终坚定致力于与俄罗斯建立建设性的战略伙伴关系，呼吁俄乌冻结冲突并重返谈判桌。俄罗斯是哈萨克斯坦第二大贸易伙伴和最大投资来源国，2026年1至5月两国双边贸易额超过122亿美元，同比增长逾15%。摄影师：Vyacheslav Prokofyev]]></summary>
-        <author>
-            <name>俄罗斯 · 鄂木斯克</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[德国总统访问印度教社区 - July 27, 2026]]></title>
-        <id>idaily-255570</id>
-        <link href="https://m.idai.ly/se/cc8FF5"/>
-        <updated>2026-07-27T10:26:00.000Z</updated>
-        <summary type="html"><![CDATA[德国总统 Frank-Walter Steinmeier 出席印度教神庙庆祝活动，哈姆市。7月26日，德国总统 Steinmeier 访问德国西部城市哈姆市的印度教社区并参加当地印度教神庙庆典仪式，他在致辞中称赞印度教社区是德国宗教多样性的组成部分，鼓励德国不同宗教群体之间保持对话和相互尊重。德国境内现有约30万印度裔人口，占德国总人口约0.36%，过去10年增长超过200%。摄影师：Federico Gambarini]]></summary>
-        <author>
-            <name>德国 · 哈姆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[金正恩参谒烈士陵园 - July 27, 2026]]></title>
-        <id>idaily-255569</id>
-        <link href="https://m.idai.ly/se/79a30l"/>
-        <updated>2026-07-27T10:26:00.000Z</updated>
-        <summary type="html"><![CDATA[朝鲜最高领导人金正恩参谒中国人民志愿军烈士陵园，平安南道桧仓郡。7月26日，朝鲜最高领导人金正恩在朝鲜战争胜利73周年前夕参拜中国人民志愿军烈士陵园，并以个人名义在烈士塔前献上花圈。朝中社报道称，中国人民志愿军勇士们在最为艰苦、关乎命运的年代，用鲜血支援了朝鲜人民的正义战争，朝鲜人民永志不忘中国人民的优秀儿女在击退帝国主义侵略的前所未有的殊死战斗中与朝鲜军民在同一个战壕里并肩奋战，无私奉献自己热血和青春的功绩和英雄殊勋。摄影师：KCNA]]></summary>
-        <author>
-            <name>朝鲜 · 平安南道</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[台风「红霞」登陆广东 - July 27, 2026]]></title>
-        <id>idaily-255566</id>
-        <link href="https://m.idai.ly/se/a48R4V"/>
-        <updated>2026-07-27T10:26:00.000Z</updated>
-        <summary type="html"><![CDATA[香港维多利亚港迎来超强台风「红霞」，中国。7月26日凌晨3时50分左右，2026年第12号台风「红霞」在广东省惠州市沿海登陆，中心附近最大风力达每秒45米，成为2026年迄今登陆中国的最强台风。受台风「红霞」带来的强降雨影响，广东省应急管理厅累计转移全省近90万人，香港机场约350个航班被取消。「红霞」目前已减弱为热带低压，预计未来3天将继续深入内陆，为广东、江西、湖南、湖北等地带来持续强风和暴雨。摄影师：Vernon Yuen]]></summary>
-        <author>
-            <name>中国 · 香港</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[曼谷市政府宠物绝育服务 - July 27, 2026]]></title>
-        <id>idaily-255565</id>
-        <link href="https://m.idai.ly/se/5bbIqW"/>
-        <updated>2026-07-27T10:26:00.000Z</updated>
-        <summary type="html"><![CDATA[曼谷市政人员正在为猫咪进行公益绝育手术，泰国。7月26日，曼谷市政府开展新一轮社区宠物公益服务活动，包括提供免费接种狂犬病疫苗以及绝育手术。曼谷市政府将从2027年1月10日起实施新版宠物管理条例，具体要求包括所有居民饲养的宠物必须进行登记并植入芯片、按居住面积限制饲养宠物数量、严禁公共场所无绳遛狗等，违者最高可面临2.5万泰铢（约合745美元）罚款。摄影师：Rungroj Yongrit]]></summary>
-        <author>
-            <name>泰国 · 曼谷</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特朗普的伊朗困境：拥有压倒性的武力却进退维谷]]></title>
-        <id>https://cn.nytimes.com/world/20260727/trump-trapped-in-iran-war/dual</id>
-        <link href="https://cn.nytimes.com/world/20260727/trump-trapped-in-iran-war/dual"/>
-        <updated>2026-07-27T10:06:03.000Z</updated>
-        <summary type="html"><![CDATA[DAVID E. SANGER2026年7月27日特朗普总统在介入伊朗冲突时几乎没有制定任何致胜策略，如今正竭力寻找一种能保全颜面的退出方式。 Alex Kent/The New York Times
-President Trump often celebrates his unpredictability, declaring that it keeps allies and adversaries alike off balance.
-特朗普总统经常以自己的不可预测性为荣，宣称这能让盟友和对手都措手不及。
-By his telling, his willingness to bomb Iranian nuclear sites 13 months ago, and send Delta Force commandos in to snatch President Nicolás Maduro of Venezuela from his bed in early January, reflected his determination to execute military operations that would have made his predecessors blanch. He told The New York Times he was limited only by “my own morality,” as he wielded the world’s biggest hammer.
-按照他的说法，他13个月前轰炸伊朗核设施的意愿，以及在1月初派遣三角洲特种部队突击队员将委内瑞拉总统马杜罗从床上抓走的举动，都体现了他执行军事行动的决心——这些行动足以让他的前任们胆寒。他告诉《纽约时报》，在挥舞着世界上最大的一把大锤时，唯一限制他的只有“我自己的道德准则…]]></summary>
-        <author>
-            <name>纽约时报双语版</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你的聊天机器人有多了解你？试试这些提示词]]></title>
-        <id>https://cn.nytimes.com/technology/20260727/chatgpt-gemini-prompts-privacy/dual</id>
-        <link href="https://cn.nytimes.com/technology/20260727/chatgpt-gemini-prompts-privacy/dual"/>
-        <updated>2026-07-27T10:06:03.000Z</updated>
-        <summary type="html"><![CDATA[BRIAN X. CHEN2026年7月27日 Sisi Yu
-As a regular user of chatbots like ChatGPT and Gemini, I thought I had a clear sense of what the artificially intelligent assistants knew about me (like how I’m a father seeking baby gear recommendations and instructions for patching drywall). Beyond that, I’ve never divulged anything deeply personal as I would to a therapist.
-作为ChatGPT和Gemini等聊天机器人的常用用户，我原以为我很清楚这些人工智能助手对我了解多少（比如它们知道我是一个正在寻求婴儿用品建议和修补石膏板指南的父亲）。除此之外，我从未像在心理咨询师面前那样，向它们透露任何极其私人的信息。
-But when I experimented with some prompts asking what the chatbots had guessed about me — insights they had gathered from connecting the dots across many conversations — I was perturbed.
-但是，当我尝试使用一些提示词，询问这些聊天机器人对我有哪些猜测——也就是它们从多次对话中顺藤摸瓜收集到的洞察——结果令我感到不安。
-The chatbots correctly deduced details about me that I had never e…]]></summary>
-        <author>
-            <name>纽约时报双语版</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国开源人工智能模型快速进步加剧硅谷分歧]]></title>
-        <id>https://cn.nytimes.com/technology/20260727/open-source-silicon-valley-china/dual</id>
-        <link href="https://cn.nytimes.com/technology/20260727/open-source-silicon-valley-china/dual"/>
-        <updated>2026-07-27T10:06:03.000Z</updated>
-        <summary type="html"><![CDATA[MIKE ISAAC, KATE CONGER, ANA SWANSON, MEAGHAN TOBIN2026年7月27日过去几周，中国两家人工智能初创公司智谱AI和月之暗面发布了性能足以媲美美国实验室产品的新模型。 Hector Retamal/Agence France-Presse — Getty Images
-For years, a philosophical divide over how artificial intelligence software should be created has split Silicon Valley technologists.
-多年来，关于人工智能软件应如何创建的理念分歧一直令硅谷分成两派。
-This week, that argument reached a boiling point.
-本周，这场争论达到了白热化的程度。
-On one side are leading A.I. companies like Anthropic and OpenAI, which claim that some A.I. models are too dangerous to be developed in the open and must be tightly controlled — by businesses like themselves — for safety. On the other is the rest of the tech industry, including giants like Microsoft and Nvidia, which contend that so-called open-source A.I. models must remain open for people to further…]]></summary>
-        <author>
-            <name>纽约时报双语版</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派评 | 近期值得关注的 App]]></title>
-        <id>https://sspai.com/post/112785</id>
-        <link href="https://sspai.com/post/112785"/>
-        <updated>2026-07-27T09:34:04.000Z</updated>
-        <summary type="html"><![CDATA[>下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows 设计史 05 | 你怀念的 Windows 7，或许最具「人情味」]]></title>
-        <id>https://sspai.com/post/101668</id>
-        <link href="https://sspai.com/post/101668"/>
-        <updated>2026-07-27T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[好用有时比创新更重要。查看全文]]></summary>
-        <author>
-            <name>SUNTRISE</name>
         </author>
     </entry>
 </feed>
