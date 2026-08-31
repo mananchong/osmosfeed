@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mananchong.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-31T15:18:57.942Z</updated>
+    <updated>2026-08-31T21:34:43.019Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mananchong.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://mananchong.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Surrendering to the Machines]]></title>
+        <id>https://www.nationalreview.com/?p=2027899</id>
+        <link href="https://www.nationalreview.com/2026/08/surrendering-to-the-machines/"/>
+        <updated>2026-08-31T18:27:53.000Z</updated>
+        <summary type="html"><![CDATA[Nagging doubts from an early adopter.]]></summary>
+        <author>
+            <name>Michael Brendan Dougherty</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[本月玩什么｜Big Walk、潜龙谍影 大师合辑 Vol. 2]]></title>
         <id>https://sspai.com/post/114043</id>
@@ -8001,34 +8011,6 @@ Cognitive Courage: The Real Bottleneck to Learning AI Tools - Learning a new AI 
         <summary type="html"><![CDATA[希腊滨海区波尔图·杰尔梅诺山火产生的浓烟升至高空，维奥蒂亚。8月1日，希腊雅典西北部波尔图·杰尔梅诺山火延烧进入第2日，累计过火面积达到4000公顷，约150栋房屋被烧毁，300名居民紧急疏散。当地政府已向周边城镇发布疏散令，并部署约500名消防员和30架飞机参与灭火。本周希腊境内爆发多起山火灾害，迄今已造成至少3名消防员殉职。摄影师：Angelos Tzortzinis]]></summary>
         <author>
             <name>希腊 · 维奥蒂亚</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从拉萨到雅鲁藏布江大峡谷，我的春日西藏游记]]></title>
-        <id>https://sspai.com/post/112843</id>
-        <link href="https://sspai.com/post/112843"/>
-        <updated>2026-08-02T06:38:25.000Z</updated>
-        <summary type="html"><![CDATA[Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文]]></summary>
-        <author>
-            <name>野比大雄76</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[待到白骨成沙时，寻找被毁灭的讹答剌]]></title>
-        <id>b93a1e15c578671616a086ad7a96bb8f</id>
-        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E5%BE%85%E5%88%B0%E7%99%BD%E9%AA%A8%E6%88%90%E6%B2%99%E6%97%B6%EF%BC%8C%E5%AF%BB%E6%89%BE%E8%A2%AB%E6%AF%81%E7%81%AD%E7%9A%84%E8%AE%B9%E7%AD%94%E5%89%8C"/>
-        <updated>2026-08-02T03:42:00.000Z</updated>
-        <author>
-            <name>新京报书评周刊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[魔改？黑化？幸好你们不是神仙，是八仙！]]></title>
-        <id>45fff030acc4007cc585b343a5ceb75f</id>
-        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E9%AD%94%E6%94%B9%EF%BC%9F%E9%BB%91%E5%8C%96%EF%BC%9F%E5%B9%B8%E5%A5%BD%E4%BD%A0%E4%BB%AC%E4%B8%8D%E6%98%AF%E7%A5%9E%E4%BB%99%EF%BC%8C%E6%98%AF%E5%85%AB%E4%BB%99%EF%BC%81"/>
-        <updated>2026-08-02T03:42:00.000Z</updated>
-        <author>
-            <name>新京报书评周刊</name>
         </author>
     </entry>
 </feed>
