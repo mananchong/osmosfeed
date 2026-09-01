@@ -34,16 +34,6 @@
           "wordCount": 8926,
           "title": "R Weekly 2026-W33 FDA Submissions, Windows ARM64, nycOpenData Journey",
           "imageUrl": "https://rweekly.org/public/facebook.png"
-        },
-        {
-          "id": "https://rweekly.org/2026-W32.html",
-          "author": null,
-          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Batool Almarzouq, with help from the R Weekly team members and contributors.\nHighlight\nrsonar: The R equivalent of SonarQube - centralizes code quality analysis into a single interactive report\nCognitive Courage: The Real Bottleneck to Learning AI Tools - Learning a new AI workflow no longer means studying it first. The platform you work in is the platform you learn in, and the only thing between you and your first skill is the nerve to say ‘I don’t know – show me.’\nInsights\nR on ARM64 Windows: Resources and infrastructure for using R natively on ARM64 Windows hardware.\nCognitive Courage: The Real Bottleneck to Learning AI Tools - Learning a new AI workflow no longer means s…",
-          "link": "https://rweekly.org/2026-W32.html",
-          "publishedOn": "2026-08-03T00:00:00.000Z",
-          "wordCount": 6031,
-          "title": "R Weekly 2026-W32 rsonar, the real bottleneck to learning AI tools",
-          "imageUrl": "https://rweekly.org/public/facebook.png"
         }
       ]
     },
@@ -64,6 +54,36 @@
       "feedUrl": "https://www.nationalreview.com/feed/",
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
+        {
+          "id": "https://www.nationalreview.com/?p=2027953",
+          "author": "Mark Miller",
+          "description": "An economic argument is not complete until it explains what economic freedom allows human beings to build.",
+          "link": "https://www.nationalreview.com/2026/09/its-not-just-the-economics-stupid/",
+          "publishedOn": "2026-09-01T10:30:59.000Z",
+          "wordCount": null,
+          "title": "It’s Not Just the Economics, Stupid",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=2028173",
+          "author": "The Editors",
+          "description": "The Supreme Court was right to sit out the dance between Trump and Congress over the ballroom renovations.",
+          "link": "https://www.nationalreview.com/2026/09/the-ballroom-dance-doesnt-belong-in-court/",
+          "publishedOn": "2026-09-01T10:30:55.000Z",
+          "wordCount": null,
+          "title": "The Ballroom Dance Doesn’t Belong in Court",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=2027764",
+          "author": "Seth Cropsey",
+          "description": "The Iran war, the China threat, and the perils of limited military advice.",
+          "link": "https://www.nationalreview.com/2026/09/the-illusion-of-one-voice-in-wartime/",
+          "publishedOn": "2026-09-01T10:30:27.000Z",
+          "wordCount": null,
+          "title": "The Illusion of One Voice in Wartime",
+          "imageUrl": null
+        },
         {
           "id": "https://www.nationalreview.com/?p=2027899",
           "author": "Michael Brendan Dougherty",
@@ -1813,56 +1833,6 @@
           "wordCount": null,
           "title": "Never Forgetting with Boy George",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=2007570",
-          "author": "Harry Khachatrian",
-          "description": "On Foreign Tongues, the band remains rooted in the blues — and intent on whatever comes next.",
-          "link": "https://www.nationalreview.com/2026/08/the-rolling-stones-know-how-to-grow-old/",
-          "publishedOn": "2026-08-02T10:30:59.000Z",
-          "wordCount": null,
-          "title": "The Rolling Stones Know How to Grow Old",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=2008079",
-          "author": "Sarah Schutte",
-          "description": "Life has given us this special citrus. Let’s make the most of it.",
-          "link": "https://www.nationalreview.com/2026/08/a-little-lemon-goes-a-long-way/",
-          "publishedOn": "2026-08-02T10:30:45.000Z",
-          "wordCount": null,
-          "title": "A Little Lemon Goes a Long Way",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=2008036",
-          "author": "James Lileks",
-          "description": "Reading the doctor’s private notes is an eye-opening experience.",
-          "link": "https://www.nationalreview.com/2026/08/a-peek-into-the-fauci-diaries/",
-          "publishedOn": "2026-08-02T10:30:43.000Z",
-          "wordCount": null,
-          "title": "A Peek into the Fauci Diaries",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=2008838",
-          "author": "Becket Adams",
-          "description": "The loss of curiosity strikes again.",
-          "link": "https://www.nationalreview.com/2026/08/another-media-freak-out-over-another-non-scandal-at-cbs/",
-          "publishedOn": "2026-08-02T10:30:36.000Z",
-          "wordCount": null,
-          "title": "Another Media Freak-Out over Another Non-Scandal at CBS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=2009526",
-          "author": "Timothy Harper",
-          "description": "The indirect journey toward meaningful objectives — the pursuit of happiness — drives the American story.",
-          "link": "https://www.nationalreview.com/2026/08/liberty-and-the-adventure-of-life/",
-          "publishedOn": "2026-08-02T10:30:09.000Z",
-          "wordCount": null,
-          "title": "Liberty and the Adventure of Life",
-          "imageUrl": null
         }
       ]
     },
@@ -1871,6 +1841,56 @@
       "feedUrl": "https://sspai.com/feed",
       "siteUrl": "https://sspai.com",
       "articles": [
+        {
+          "id": "https://sspai.com/post/114078",
+          "author": "Matrix机器人",
+          "description": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文",
+          "link": "https://sspai.com/post/114078",
+          "publishedOn": "2026-09-01T09:00:00.000Z",
+          "wordCount": 543,
+          "title": "社区速递 156 | 满血全功能磁吸转换头与手机 AI 通话的真实体验",
+          "imageUrl": "https://rssfile.sspai.com/2026/6/30/article/831096df-1239-9d40-8cb1-c42319e8f9f3.png?imageMogr2/auto-orient/format/webp/ignore-error/1"
+        },
+        {
+          "id": "https://sspai.com/post/114071",
+          "author": "少数派编辑部",
+          "description": "北京时间9月10日凌晨，Apple一年一度的秋季特别活动即将拉开帷幕，我们会在Keynote讲演环节中见到新一年度的iPhone、AppleWatch等多个新品。除了备受期待的iPhone18Pro系 ...查看全文",
+          "link": "https://sspai.com/post/114071",
+          "publishedOn": "2026-09-01T07:18:43.000Z",
+          "wordCount": 281,
+          "title": "线下活动 | 全新 iPhone 发布在即，来与少数派一起看 Apple 发布会",
+          "imageUrl": "https://rssfile.sspai.com/2026/9/1/article/e0307cb3-3cb7-ccf3-a01a-41d8c01848d0.jpeg?imageMogr2/auto-orient/format/webp/ignore-error/1"
+        },
+        {
+          "id": "https://sspai.com/post/114062",
+          "author": "大大大K",
+          "description": "不管你是大学新生想要购置数码产品，还是即将踏入职场的毕业生租房想要添置小家电，在处于身份和环境转换的新阶段里，都可以试着把钱用在刀刃上、选择性价比更高的产品和销售渠道。查看全文",
+          "link": "https://sspai.com/post/114062",
+          "publishedOn": "2026-09-01T07:00:00.000Z",
+          "wordCount": 784,
+          "title": "开学季｜值得关注的官翻渠道汇总（2026）",
+          "imageUrl": "https://rssfile.sspai.com/2026/9/1/article/f4b6d74e-f710-4a78-df42-03a96e978361.png?imageMogr2/auto-orient/format/webp/ignore-error/1"
+        },
+        {
+          "id": "https://sspai.com/post/111081",
+          "author": "少数派播客",
+          "description": "一直以来，Apple 和 Nike 之间的商业关系在公众视野里简单明了。但在两者中间，Apple 的前任 CEO Tim Cook 一直扮演着连接者的角色，他和 Nike 之间的关系也因此而显得十分微妙。在本期节目中，我们就来一起深入 Apple、Nike 和 Tim Cook 之间的商业三角关系。查看全文",
+          "link": "https://sspai.com/post/111081",
+          "publishedOn": "2026-09-01T03:00:00.000Z",
+          "wordCount": 382,
+          "title": "线索若隐若现：深入 Tim Cook 和 Nike 的商业连接",
+          "imageUrl": "https://rssfile.sspai.com/16/06/2026/article/bc70cec4-33e0-e285-c506-20fba07b504d.jpeg?imageMogr2/auto-orient/format/webp/ignore-error/1"
+        },
+        {
+          "id": "https://sspai.com/post/114055",
+          "author": "少数派编辑部",
+          "description": "少数派的近期动态能让AI助手通过自然语言指令直接与您的Quote/0摘录墨水屏交互的DotSkill已上线。点击了解你可能错过的文章全球仅剩三位数的物种，科学家却连一个准数都数不出来屏幕之外，桌面之上 ...查看全文",
+          "link": "https://sspai.com/post/114055",
+          "publishedOn": "2026-09-01T00:17:20.000Z",
+          "wordCount": 508,
+          "title": "派早报：OpenClaw 推出 2.0 版本更新，网易 CC 直播正式停运等",
+          "imageUrl": "https://rssfile.sspai.com/2026/9/1/article/a56bec00-d0a8-6ce1-a6c0-e4433a911dde.png?imageMogr2/auto-orient/format/webp/ignore-error/1"
+        },
         {
           "id": "https://sspai.com/post/114043",
           "author": "板斧",
@@ -1890,6 +1910,16 @@
           "wordCount": 690,
           "title": "派评 | 近期值得关注的 App",
           "imageUrl": "https://rssfile.sspai.com/2026/8/31/article/eea97528-7e76-a42c-ddd1-4d746d90a28c.png?imageMogr2/auto-orient/ignore-error/1"
+        },
+        {
+          "id": "https://sspai.com/prime/story/home-made-beverages-4",
+          "author": "老林还年少",
+          "description": "往期文章：（一）工欲善其事，必先利其器（二）常用液体物料推荐（三）：常用固体物料推荐从这篇开始正式进入配方介绍及制作阶段，这里会有很多配料之前没提到过，会单独讲一下。尽力帮助大家在家也能做出好喝的夏日 ...查看全文\n本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
+          "link": "https://sspai.com/prime/story/home-made-beverages-4",
+          "publishedOn": "2026-08-31T09:09:27.000Z",
+          "wordCount": 379,
+          "title": "家庭饮品 DIY 指南（四）：奶昔、柠檬和茶系列配方",
+          "imageUrl": "https://rssfile.sspai.com/2026/08/27/bab356640f102e91230347312ff378cd.jpg?imageMogr2/auto-orient/ignore-error/1"
         },
         {
           "id": "https://sspai.com/prime/story/",
@@ -2910,16 +2940,6 @@
           "wordCount": 467,
           "title": "角落新声｜两平米、两个角落，安放两个自己",
           "imageUrl": "https://rssfile.sspai.com/2026/07/30/53f5164ea185ac343d3fe766b07ed915.jpg?imageMogr2/auto-orient/format/webp/ignore-error/1"
-        },
-        {
-          "id": "https://sspai.com/post/113014",
-          "author": "少数派编辑部",
-          "description": "DeepSeek V4 Flash 正式版发布\n特朗普向科技公司频繁索要捐款\n马斯克称从未讨论过出售特斯拉中国业务\n国补调整后终端销售承压\n风投机构重新涌入中国科技领域\n统计显示实体光盘并不能保证游戏长期可玩\n看看就行的简讯\n少数派的近期动态\n你可能错过的好文章\n查看全文",
-          "link": "https://sspai.com/post/113014",
-          "publishedOn": "2026-08-02T22:49:31.000Z",
-          "wordCount": 628,
-          "title": "派早报：DeepSeek V4 Flash 正式版发布",
-          "imageUrl": "https://rssfile.sspai.com/8/3/2026/article/4a092bfa-2d42-b87b-b061-bffd6162a1ee.png?imageMogr2/auto-orient/ignore-error/1"
         }
       ]
     },
@@ -2928,6 +2948,104 @@
       "feedUrl": "https://plink.anyfeeder.com/idaily/today",
       "siteUrl": "https://idai.ly",
       "articles": [
+        {
+          "id": "idaily-257591",
+          "author": "印度尼西亚 · 北苏门答腊省",
+          "description": "远眺喷发中的锡纳朋火山（Mount Sinabung），北苏门答腊省。8月31日，印尼锡纳朋火山时隔5年再次发生剧烈喷发，火山灰烟柱升至约3500米高空并飘散影响周边多个村庄。印尼地质局已发布第二高级别火山喷发警戒，禁止民众进入火山周边6公里范围。锡纳朋火山是印尼境内最活跃的活火山之一，海拔2460米，2010年开始进入活跃状态并出现多次剧烈喷发，累计导致超过20人遇难。摄影师：PVMBG Indonesia",
+          "link": "https://m.idai.ly/se/c380RE",
+          "publishedOn": "2026-09-01T09:59:00.000Z",
+          "wordCount": 252,
+          "title": "印尼锡纳朋火山剧烈喷发 - September 1, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/a8afd043b0/71ad6206.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/a8afd043b0/71ad6206.jpg"
+        },
+        {
+          "id": "idaily-257590",
+          "author": "吉尔吉斯斯坦 · 比什凯克",
+          "description": "中国国家主席习近平与俄罗斯总统 Vladimir Putin 在上海合作组织峰会期间举行会晤，吉尔吉斯斯坦比什凯克。8月31日，中俄两国领导人在上合峰会期间举行2026年第2次面对面会晤。习近平指出，当前国际形势中不确定难预料因素明显增多，中方愿同包括俄方在内的各方一道，壮大引领全球治理改革、推进平等有序世界多极化的力量。俄总统 Putin 表示，中俄外交基本立场相近或完全一致，俄方愿同中方加强在联合国、金砖机制、二十国集团等多边机制内的协调配合，共同维护世界和平稳定繁荣。2026年1至7月中俄双边贸易额达1592.7亿美元，同比增长26.3%。摄影师：Kristina Solovyova",
+          "link": "https://m.idai.ly/se/bb8xjA",
+          "publishedOn": "2026-09-01T08:58:00.000Z",
+          "wordCount": 252,
+          "title": "中俄元首比什凯克会晤 - September 1, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/858cd7b038/61e7201e.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/858cd7b038/61e7201e.jpg"
+        },
+        {
+          "id": "idaily-257588",
+          "author": "日本 · 东京",
+          "description": "东京证券交易所屏幕上显示10年期国债收益率即时数据，日本。9月1日，日本10年期国债收益率升至3.000%，创下1996年10月以来最高纪录，主要受美联储加息预期、中东紧张局势升级、市场对日本财政恶化担忧加剧等因素影响。日本财务省公布数据显示7月30日至8月26日期间累计动用15.4万亿日元（约合960亿美元）用于提振日元汇率，创下有史以来单月外汇干预最大规模纪录。8月31日日元兑美元汇率最低跌至160.01，连续2个交易日跌破160关口。摄影师：Franck Robichon",
+          "link": "https://m.idai.ly/se/1eahOh",
+          "publishedOn": "2026-09-01T07:57:00.000Z",
+          "wordCount": 252,
+          "title": "日本10年期国债收益率破3% - September 1, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/ab615a55fa/45370662.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/ab615a55fa/45370662.jpg"
+        },
+        {
+          "id": "idaily-257587",
+          "author": "美国 · 纽约",
+          "description": "眺望纽约曼哈顿高层公寓楼，美国。8月31日，纽约市财政局向第二批符合资格的高价住宅所有者发送课税通知，要求缴纳「第二套住房税」（Pied-à-terre tax）。纽约市从2026年7月1日正式启动「第二套住房税」政策，该税种的征税对象为拥有第二套估值100万美元公寓或500万美元以上独栋住宅的富裕阶层，公寓税率范围为4%-6.5%，住宅税率范围为0.8%-1.3%。纽约市政府预计该税种每年将带来5亿美元的新税收收入。摄影师：Michael Nagle",
+          "link": "https://m.idai.ly/se/e66r8G",
+          "publishedOn": "2026-09-01T07:55:00.000Z",
+          "wordCount": 252,
+          "title": "纽约征收第二套豪宅税 - September 1, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/628461474f/bc6c258d.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/628461474f/bc6c258d.jpg"
+        },
+        {
+          "id": "idaily-257586",
+          "author": "加沙地带 · 加沙",
+          "description": "加沙儿童在废墟空地上观看露天动画片放映，加沙城。8月30日，马什拉维电影基金会在加沙地带举办「小翅膀影院」放映活动，为当地儿童播放《狮子王》等动画电影。加沙卫生部数据显示自2025年10月停火协议生效以来已有1320名巴勒斯坦人丧生，其中包括逾300名儿童。本轮以巴冲突迄今累计造成7.35万人死亡，儿童死亡人数超过2.15万。摄影师：Anas Zeyad Fteha",
+          "link": "https://m.idai.ly/se/9c4ox0",
+          "publishedOn": "2026-09-01T07:53:00.000Z",
+          "wordCount": 252,
+          "title": "加沙难民营电影放映 - September 1, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/9d5313c990/951d5388.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/9d5313c990/951d5388.jpg"
+        },
+        {
+          "id": "idaily-257585",
+          "author": "日本 · 大阪",
+          "description": "大阪地铁站启用智能人形机器人站员，日本。8月31日，大阪地铁梅田站首次启用智能人形机器人站员服务，第一名机器人站员名为「Hinata」，身高1.78米，重48千克，搭载谷歌公司生成式AI模型 Gemini，能够以日文、英文、中文在内的约60种语言与乘客进行对话，提供车站指引、换乘线路以及周边观光推荐等服务。这名机器人站员的工作时间为每天上午11点至晚上20点，首期试运营将持续至9月6日。摄影师：Yuta Hashimoto",
+          "link": "https://m.idai.ly/se/969K7y",
+          "publishedOn": "2026-09-01T07:51:00.000Z",
+          "wordCount": 252,
+          "title": "大阪地铁试点人形机器人站员 - September 1, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/23ad22c084/8c8a19d4.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/23ad22c084/8c8a19d4.jpg"
+        },
+        {
+          "id": "idaily-257582",
+          "author": "印度尼西亚 · 泗水",
+          "description": "印度尼西亚泗水动物园，饲养员正在给新借入的亚达伯拉象龟喂食。8月31日，印尼泗水动物园正式公开展出从日本 iZoo 动物园借入的亚达伯拉象龟。根据两方签署的5年期动物繁育合作协议，日本 iZoo 动物园向泗水动物园借出1对小熊猫、1对长颈鹿和4只亚达伯拉象龟，印尼泗水动物园则借出1对科莫多龙作为交换。泗水动物园成立于1916年，占地面积15公顷，是东南亚地区最大、最古老的动物园之一，目前饲养着211种、2236只动物。摄影师：Robertus Pudyanto",
+          "link": "https://m.idai.ly/se/2282dD",
+          "publishedOn": "2026-09-01T07:49:00.000Z",
+          "wordCount": 252,
+          "title": "印尼日本动物园物种借调 - September 1, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/23abe14bfe/29efb81c.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/23abe14bfe/29efb81c.jpg"
+        },
         {
           "id": "idaily-257527",
           "author": "美国 · 佛罗里达州",
@@ -5769,104 +5887,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://pic.yupoo.com/fotomag/7509779102/42fc0bf1.jpg"
-        },
-        {
-          "id": "idaily-255859",
-          "author": "荷兰 · 海牙",
-          "description": "荷兰席凡宁根海滩摆放数千只童鞋悼念加沙遇难儿童，海牙。8月1日，荷兰反战组织「种植橄榄树」在海牙席凡宁根海滩举行第18次加沙遇难儿童悼念活动，现场摆放超过7000双童鞋代表在以色列空袭中遇难的孩童。加沙卫生部通报7月以色列空袭导致加沙地带152人死亡，创下2026年迄今单月死亡最高纪录，其中包括21名儿童。联合国数据显示，2023年10月迄今以色列对加沙地带袭击已造成超过2万名儿童死亡，约占遇难总人口的30%，另有超过4.4万名儿童受伤。摄影师：Mouneb Taim",
-          "link": "https://m.idai.ly/se/ed0Jbq",
-          "publishedOn": "2026-08-02T10:06:00.000Z",
-          "wordCount": 248,
-          "title": "反战组织悼念加沙儿童 - August 2, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/975a6ff812/aafca385.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/975a6ff812/aafca385.jpg"
-        },
-        {
-          "id": "idaily-255857",
-          "author": "美国 · 马里兰州",
-          "description": "美国总统 Donald Trump 在总统度假地戴维营主持内阁会议，马里兰州。7月31日，美国总统 Trump 在戴维营召开本届任期第13次内阁会议，白宫发表声明称这是美国历史上首次电视直播的戴维营内阁会议。Trump 在会议上列举了上任迄今取得的多项政绩，包括遏制通货膨胀、加强边境管制、降低谋杀率、下调处方药价格、启动针对儿童的免税投资账户等，他宣称伊朗军队已被「彻底摧毁」，并重申绝对不会允许伊朗发展核武器。最新民调显示 Trump 的支持率已跌至32%，创任内新低。摄影师：Daniel Heuer",
-          "link": "https://m.idai.ly/se/b10Llk",
-          "publishedOn": "2026-08-02T09:59:00.000Z",
-          "wordCount": 248,
-          "title": "美国首次直播戴维营内阁会议 - August 2, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/bbfc390645/5983afc2.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/bbfc390645/5983afc2.jpg"
-        },
-        {
-          "id": "idaily-255856",
-          "author": "中国 · 南昌",
-          "description": "南昌八一起义纪念馆举行灯光秀庆祝建军节，江西省。8月1日是中国人民解放军建军99周年纪念日，该节日旨在纪念1927年8月1日南昌起义事件爆发，标志着中国共产党独立创建人民军队、领导革命战争和武装夺取政权的开始。中国国防部数据显示中国人民解放军现役总兵力约200万人，是世界上规模最大的武装力量，2026年中国国防预算为1.94万亿元，同比增长6.9%。摄影师：Liu Zhankun",
-          "link": "https://m.idai.ly/se/1dcv9y",
-          "publishedOn": "2026-08-02T09:57:00.000Z",
-          "wordCount": 248,
-          "title": "中国庆祝八一建军节 - August 2, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/f47cd92c26/ffd008c8.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/f47cd92c26/ffd008c8.jpg"
-        },
-        {
-          "id": "idaily-255855",
-          "author": "日本 · 东京",
-          "description": "俯瞰日本东京市区夜景。7月29日，日本总务省公布日本人口截至2026年1月1日为1.19亿人，自1984年以来首次跌破1.2亿人，比2025年减少约91.7万人，连续第17年减少，降幅创下1968年有调查数据以来最高纪录，除东京都以外的各道府县地区均出现人口减少。日本人口中15至64岁劳动力人口占比为59.09%；65岁以上高龄人口为29.79%，比2025年上升0.21个百分点，0至14岁低龄人口为11.13%，创下历史新低，表明少子化和人口老年化趋势持续加剧。2025年日本新出生人口约67万，创历史新低；居住在日本的外国人增长9.62%至403万，创历史新高。摄影师：Andrew Caballero-Reynolds",
-          "link": "https://m.idai.ly/se/5e5xUB",
-          "publishedOn": "2026-08-02T09:55:00.000Z",
-          "wordCount": 248,
-          "title": "日本人口跌破1.2亿 - August 2, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/dccce39f9e/75e98848.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/dccce39f9e/75e98848.jpg"
-        },
-        {
-          "id": "idaily-255854",
-          "author": "国际空间站",
-          "description": "美国宇航员 Jessica Meir 正在使用VR头戴设备测试视力，国际空间站。这款智能检测设备由美国内华达大学团队研发，内置多款应用程序，能够帮助宇航员在太空环境下全方位检测视觉能力，记录视力、瞳孔对光反射、色彩敏感度、对比敏感度、视野畸变等关键指标。宇航员长期生活在太空失重环境中会出现颅内压上升现象，导致眼球和视神经因受压而出现损伤。摄影师：NASA",
-          "link": "https://m.idai.ly/se/9fadwc",
-          "publishedOn": "2026-08-02T09:53:00.000Z",
-          "wordCount": 248,
-          "title": "空间站宇航员视力检查 - August 2, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/7f0db6faa8/b58ff6c5.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/7f0db6faa8/b58ff6c5.jpg"
-        },
-        {
-          "id": "idaily-255853",
-          "author": "肯尼亚 · 内罗毕",
-          "description": "2026年肯尼亚国际太阳能展（Solar Africa）期间，一名展商在一台机器人旁浏览手机，内罗毕。7月29日，第11届肯尼亚国际太阳能展在内罗毕举行，这是非洲规模最大的可再生能源展会之一，本届展期从7月29日持续至31日，共吸引来自全球27个国家和地区的超过250家展商参展，聚焦光伏技术、储能、电力基础设施等领域的最新成果。肯尼亚政府报告显示，截至2025年底该国发电总装机容量为3868.6兆瓦，地热、水力、风能和太阳能在内的可再生能源占比超过80%，其中太阳能发电占比约为14%。摄影师：Daniel Irungu",
-          "link": "https://m.idai.ly/se/67cC99",
-          "publishedOn": "2026-08-02T09:51:00.000Z",
-          "wordCount": 248,
-          "title": "第11届肯尼亚国际太阳能展 - August 2, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/f26f8496a0/2b4107a6.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/f26f8496a0/2b4107a6.jpg"
-        },
-        {
-          "id": "idaily-255852",
-          "author": "希腊 · 维奥蒂亚",
-          "description": "希腊滨海区波尔图·杰尔梅诺山火产生的浓烟升至高空，维奥蒂亚。8月1日，希腊雅典西北部波尔图·杰尔梅诺山火延烧进入第2日，累计过火面积达到4000公顷，约150栋房屋被烧毁，300名居民紧急疏散。当地政府已向周边城镇发布疏散令，并部署约500名消防员和30架飞机参与灭火。本周希腊境内爆发多起山火灾害，迄今已造成至少3名消防员殉职。摄影师：Angelos Tzortzinis",
-          "link": "https://m.idai.ly/se/41dfF5",
-          "publishedOn": "2026-08-02T09:49:00.000Z",
-          "wordCount": 248,
-          "title": "雅典西北部爆发山火 - August 2, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/4d6408f64a/10d4d8aa.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/4d6408f64a/10d4d8aa.jpg"
         }
       ]
     },
@@ -5875,6 +5895,76 @@
       "feedUrl": "https://plink.anyfeeder.com/nytimes/dual",
       "siteUrl": "http://nytimes.com",
       "articles": [
+        {
+          "id": "https://cn.nytimes.com/business/20260901/shein-ipo-china/dual",
+          "author": null,
+          "description": "黄瑞黎2026年9月1日法国西部城市昂热的一家百货商场里陈列着希音的产品，摄于今年2月。 Loic Venance/Agence France-Presse — Getty Images\nWhen Shein unveiled itself to the world at the height of its popularity several years ago, it touted a modern era for fashion — one built on speed, technology and an on-demand system capable of creating 4,700 new styles a day.\n几年前，希音(Shein)在巅峰出道时，曾标榜自己开创了时尚产业的新时代——一个建立在速度、科技和按需生产系统之上的时代，号称这套体系每天能够推出4700种新款。\nToday, that model is increasingly looking like a relic.\n而如今，这种模式越来越像是上一个时代的产物。\nIn the small factories that form the backbone of Shein’s operations in China’s southeastern manufacturing hub of Guangdong, there are no humanoid robots, quantum computers or state-of-the-art technology. Instead, there are dozens of workers toiling away in 10- to 14-hour shifts — in a way that, some say, feels almost…",
+          "link": "https://cn.nytimes.com/business/20260901/shein-ipo-china/dual",
+          "publishedOn": "2026-09-01T06:36:02.000Z",
+          "wordCount": 1353,
+          "title": "Shein尴尬IPO背后，被时代抛弃的快时尚模式",
+          "imageUrl": "https://static01.nyt.com/images/2026/09/01/multimedia/01Biz-Shein-IPO-01-zkfp/01Biz-Shein-IPO-01-zkfp-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/business/20260901/chinese-cars-us-sales-ban/dual",
+          "author": null,
+          "description": "ERIC A. TAUB2026年9月1日去年在中国一场车展上的吉利银河M9。28年前在中国成立的吉利如今在全球的汽车销量已接近福特。 John Ricky/Anadolu, via Getty Images\nFor car shoppers looking for a luxury three-row crossover S.U.V., the Galaxy M9 checks all the boxes: It has heated and massaging leather seats throughout, a 30-inch highly customizable video display and dual phone chargers.\n对于寻找豪华三排座跨界SUV的购车者来说，银河M9满足了所有条件：它拥有全车加热按摩皮革座椅、一个30寸可灵活定制的显示屏和两个手机充电器。\nA plug-in hybrid, the M9 can drive about 110 miles on battery alone. Combine that with the gasoline engine and the M9 can cover a whopping 660 miles.\n作为一款插电式混合动力车，M9仅靠电池即可行驶约180公里。结合汽油发动机，M9的总续航里程可达惊人的1100公里。\nThe price for this top-of-the-line trim: an eye-popping $35,000. That’s if you’re in China. Made by Geely, this smooth-riding, driver-pampering crossover The New York Times tested for 10 day…",
+          "link": "https://cn.nytimes.com/business/20260901/chinese-cars-us-sales-ban/dual",
+          "publishedOn": "2026-09-01T06:06:02.000Z",
+          "wordCount": 1715,
+          "title": "这辆吉利SUV很棒，但美国消费者“永远”无法买到它",
+          "imageUrl": "https://static01.nyt.com/images/2026/08/31/multimedia/31Wheels-China-03-vkth/31Wheels-China-03-vkth-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/world/20260901/nepal-floods-balen-shah-gen-z/dual",
+          "author": null,
+          "description": "BINOD GHIMIRE, MUJIB MASHAL2026年9月1日周日，尼泊尔德维加特地区，由于喜马拉雅地区冰川崩塌引发洪水，河水水位上涨。 Atul Loke for The New York Times\nNepal’s government is led by a 36-year-old former engineer turned rapper, Balendra Shah, who swept to power just months ago on the back of youth anger over an economy troubled by corruption and mismanagement.\n尼泊尔政府如今由36岁的前工程师、后来转行说唱歌手的巴伦德拉·沙阿领导。就在几个月前，年轻人对饱受腐败和管理不善困扰的经济感到愤怒，他乘势一举上台。\nNow, he and his fledgling government face a herculean test after devastating floods ravaged his impoverished country. A majority of Mr. Shah’s 17 ministers are under 40, and they were still finding their way around governance before the disaster struck.\n如今，毁灭性的洪水在这个贫困国家肆虐之后，他和组建不久的政府正面临着一项艰巨的考验。沙阿先生的17名部长中，大多数人都在40岁以下，在灾难发生前，他们仍在摸索施政之道。\nFive days after a deluge caused by a glacier breaking in the Himalayas…",
+          "link": "https://cn.nytimes.com/world/20260901/nepal-floods-balen-shah-gen-z/dual",
+          "publishedOn": "2026-09-01T05:06:02.000Z",
+          "wordCount": 1077,
+          "title": "如何重建家园？尼泊尔年轻总理面临考验",
+          "imageUrl": "https://static01.nyt.com/images/2026/08/31/multimedia/31int-nepal-politics-01-kltq/31int-nepal-politics-01-kltq-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/business/20260901/g20-finance-iran-bessent/dual",
+          "author": null,
+          "description": "JIM TANKERSLEY, ALAN RAPPEPORT2026年9月1日峰会前，美国财长斯科特·贝森特与美联储主席凯文·沃什在北卡罗来纳州阿什维尔。国际货币基金组织预计，今年全球经济增长将放缓，通胀将上升。 Melissa S. Gerrits/Reuters\nRussia’s finance minister made a surprise appearance at a gathering of top global economic policymakers on Monday after a prolonged absence, an invitation that was extended by the Trump administration but drew rebukes and protests from European officials committed to isolating Moscow for its war against Ukraine.\n长期缺席国际舞台后，俄罗斯财长周一意外现身一场全球主要经济政策制定者会议。特朗普政府向他发出了邀请，但此举遭到欧洲官员谴责，他们一直因俄罗斯入侵乌克兰而推动孤立莫斯科。\nThe summit of finance ministers and central bankers from the Group of 20 nations, in the mountain town of Asheville, was billed by the Treasury Department as a chance to find global cooperation on new economic punishments for Iran and new strategies to boost growth a…",
+          "link": "https://cn.nytimes.com/business/20260901/g20-finance-iran-bessent/dual",
+          "publishedOn": "2026-09-01T03:36:02.000Z",
+          "wordCount": 1408,
+          "title": "美国邀请俄罗斯出席G20财长会议，欧洲强烈不满",
+          "imageUrl": "https://static01.nyt.com/images/2026/08/31/multimedia/31dc-g20-lktm/31dc-g20-lktm-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/china/20260901/putin-xi-modi-sco/dual",
+          "author": null,
+          "description": "PAUL SONNE, DAVID PIERSON2026年9月1日周一，中国领导人习近平（中）与吉尔吉斯斯坦总统萨迪尔·扎帕罗夫（左）在吉尔吉斯斯坦比什凯克举行的欢迎仪式上。 Pavel Mikheyev/Reuters\nAs the leaders of China, Russia, India, Iran and other nations converged on Central Asia for a two-day summit beginning on Monday, one thing was clear from the outset. Even as President Trump tries to bend the world to revolve around Washington, Xi Jinping of China has his own powerful orbit.\n中国、俄罗斯、印度、伊朗及其他国家领导人周一齐聚中亚，参加为期两天的峰会。有一件事从一开始就显而易见：尽管特朗普总统试图让世界围绕华盛顿运转，中国领导人习近平依然拥有自己强大的势力轨道。\nThe Chinese leader’s arrival in Bishkek, the capital of Kyrgyzstan, for a meeting of the 10-nation political and security grouping known as the Shanghai Cooperation Organization underscored Mr. Xi’s broad ability to sustain Washington’s foes, both in peacetime and in war.\n中国领导人抵达吉尔吉斯斯坦首都比什凯克，参加由10个国…",
+          "link": "https://cn.nytimes.com/china/20260901/putin-xi-modi-sco/dual",
+          "publishedOn": "2026-09-01T03:06:02.000Z",
+          "wordCount": 1529,
+          "title": "上合组织峰会：战争赋予习近平更大影响力",
+          "imageUrl": "https://static01.nyt.com/images/2026/08/31/multimedia/31int-xi-1-kjfb/31int-xi-1-kjfb-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/world/20260901/nepal-floods-teacher/dual",
+          "author": null,
+          "description": "BINOD GHIMIRE, CLAIRE MOSES2026年9月1日 Sunil Kataria/Reuters; Rajesh Kumar Singh/Associated Press\nWednesday seemed like any other morning for Rajendra Dawadi, the principal of a school in Nepal.\n对尼泊尔一所学校的校长拉金德拉·达瓦迪来说，上周三早晨似乎与往日无异。\n“Everything was going normally,” he said.\n“一切都很正常，”他说。\nThat changed around 9:10 a.m., when Mr. Dawadi was teaching a class at the Tribhuvan Trishuli School in Nuwakot, a district just north of Kathmandu, the country’s capital. A staff member burst into the classroom, shouting that a major flood was headed their way.\n上午9点10分左右，情况发生了变化。当时达瓦迪正在首都加德满都以北努瓦科特地区的特里布万·特里舒尔学校上课。一名职工冲进教室，大喊一场大洪水正朝他们袭来。\nThe news began to spread as relatives living upstream sent warnings to anyone in the path of the fast-approaching flood waters.\n消息开始传开，上游的亲属纷纷向这场急速逼近的洪水即将席卷之处的所有人发出警告。\nMr. Daw…",
+          "link": "https://cn.nytimes.com/world/20260901/nepal-floods-teacher/dual",
+          "publishedOn": "2026-09-01T02:06:02.000Z",
+          "wordCount": 798,
+          "title": "洪水摧毁校舍前，尼泊尔学校校长疏散900名学生",
+          "imageUrl": "https://static01.nyt.com/images/2026/09/01/multimedia/01int-theworld-nepal-school/01int-theworld-nepal-school-articleLarge.png"
+        },
+        {
+          "id": "https://cn.nytimes.com/china/20260901/china-nepal-tibet-flood-himalayas-risk/dual",
+          "author": null,
+          "description": "郭莉莉, PEI-LIN WU2026年9月1日周日，救援人员沿着通往中国吉隆港的道路搜寻失踪人员。上周三，一股由冰块、巨石和水组成的、宛如海啸般的巨浪席卷了该港口区域。 Cnsphoto, via Reuters\nBefore last week’s deluge in a Himalayan valley killed more than 900 people along the border with Nepal, Chinese officials had spent months repairing the damage from an earlier landslide in the same area and trying to learn from it.\n上周喜马拉雅山谷的洪水导致中国与尼泊尔边境900多人丧生之前，中国官员已经花了数月时间修复该地区早些时候因山体滑坡造成的破坏，并试图从中吸取教训。\nThe trouble was that the next disaster was unlike anything they had prepared for.\n麻烦在于，下一场灾难与他们所准备应对的任何情况都截然不同。\nFourteen months earlier, a lake on a nearby glacier had burst, causing a landslide that swept away container trucks, houses, and a bridge at the Gyirong Port border crossing used by pilgrims, tourists and traders.\n14个月前，附近冰川上的一个湖泊溃决，引发了山体滑坡，冲走了朝圣者、游客和商人通行的吉隆口岸过境点的集装箱卡车、房屋和…",
+          "link": "https://cn.nytimes.com/china/20260901/china-nepal-tibet-flood-himalayas-risk/dual",
+          "publishedOn": "2026-09-01T01:06:02.000Z",
+          "wordCount": 1331,
+          "title": "为什么西藏边境山洪令准备充分的中国措手不及？",
+          "imageUrl": "https://static01.nyt.com/images/2026/08/31/multimedia/31int-tibet-flood-01-fzqt/31int-tibet-flood-01-fzqt-articleLarge.jpg"
+        },
         {
           "id": "https://cn.nytimes.com/opinion/20260831/successful-people-help/dual",
           "author": null,
@@ -7222,6 +7312,36 @@
       "feedUrl": "https://plink.anyfeeder.com/weixin/ibookreview",
       "siteUrl": "http://weixin.sogou.com/weixin?type=1&s_from=input&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A",
       "articles": [
+        {
+          "id": "4a73f3a942759a7e86146d6d08d0bc35",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E8%B1%86%E6%B1%81%E3%80%81%E9%A5%B8%E9%A5%B9%E3%80%81%E7%BE%8A%E9%9C%9C%E8%82%A0%EF%BC%8C%E5%8C%97%E4%BA%AC%E5%B0%8F%E5%90%83%E9%83%BD%E6%9C%89%E5%95%A5%EF%BC%9F%E4%B8%A8%E4%BA%AC%E5%8D%8E%E7%89%A9%E8%AF%AD",
+          "publishedOn": "2026-09-01T01:54:00.000Z",
+          "wordCount": 294,
+          "title": "豆汁、饸饹、羊霜肠，北京小吃都有啥？丨京华物语",
+          "imageUrl": null
+        },
+        {
+          "id": "e2ef8976cc29a56b7fb6de9e83be4ef9",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E5%9F%BA%E5%BC%97%EF%BC%9A%E2%80%9C%E4%BD%A0%E5%81%8F%E7%88%B1%E7%95%99%E5%AD%98%E4%B8%8B%E6%9D%A5%E7%9A%84%EF%BC%8C%E8%80%8C%E4%B8%8D%E6%98%AF%E6%B5%81%E5%8A%A8%E6%B6%88%E9%80%9D%E7%9A%84%E2%80%9D",
+          "publishedOn": "2026-09-01T01:54:00.000Z",
+          "wordCount": 262,
+          "title": "基弗：“你偏爱留存下来的，而不是流动消逝的”",
+          "imageUrl": null
+        },
+        {
+          "id": "c6e64755ace1202e26e79607329d83c3",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E5%93%AA%E5%90%92%EF%BC%9A%E4%B8%8D%E8%B4%A5%E7%9A%84%E7%8B%AC%E7%AB%8B%E6%84%8F%E5%BF%97%EF%BC%8C%E4%B8%8D%E6%AD%BB%E7%9A%84%E5%B0%91%E5%B9%B4%E7%BE%8E%E6%A2%A6",
+          "publishedOn": "2026-09-01T01:54:00.000Z",
+          "wordCount": 311,
+          "title": "哪吒：不败的独立意志，不死的少年美梦",
+          "imageUrl": null
+        },
         {
           "id": "335aa2b92bf011bd779869840d8c42b0",
           "author": null,
