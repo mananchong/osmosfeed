@@ -55,6 +55,26 @@
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
         {
+          "id": "https://www.nationalreview.com/?p=2031079",
+          "author": "John Gustavsson",
+          "description": "The former British prime minister might want to become secretary-general, but this would be a nightmare for the U.S.",
+          "link": "https://www.nationalreview.com/2026/09/why-keir-starmer-should-never-run-nato/",
+          "publishedOn": "2026-09-04T17:23:19.000Z",
+          "wordCount": null,
+          "title": "Why Keir Starmer Should Never Run NATO",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=2031028",
+          "author": "Noah Rothman",
+          "description": "AI is only the latest target of the senator’s hostility to innovation.",
+          "link": "https://www.nationalreview.com/2026/09/bernies-total-and-complete-shutdown-of-everything/",
+          "publishedOn": "2026-09-04T16:36:42.000Z",
+          "wordCount": null,
+          "title": "Bernie’s Total and Complete Shutdown of Everything",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nationalreview.com/?p=2029996",
           "author": "J.W. Verret",
           "description": "A clean regulatory framework for digital assets is better than a messy one.",
@@ -2950,36 +2970,6 @@
           "wordCount": 279,
           "title": "新玩意 248｜少数派的编辑们最近买了啥？",
           "imageUrl": "https://rssfile.sspai.com/2026/8/6/article/b21cc4bf-67e4-3e80-0520-bcc02dc334f7.png?imageMogr2/auto-orient/format/webp/ignore-error/1"
-        },
-        {
-          "id": "https://sspai.com/post/112916",
-          "author": "KingTsui",
-          "description": "这篇文章是TDSStudio在少数派上的第27篇文章，依然是全平台首发。在去年的年度企划之一「中价位TWS横评」中，vivo/iQOO的TWS5系列表现在多个方面都有优势，尤其是降噪综合能力的表现给人 ...查看全文",
-          "link": "https://sspai.com/post/112916",
-          "publishedOn": "2026-08-06T07:00:00.000Z",
-          "wordCount": 685,
-          "title": "TDS REVIEW | vivo TWS 5 Pro 降噪真无线耳机体验",
-          "imageUrl": "https://rssfile.sspai.com/2026/07/30/342c6c5d98e1f7df6015ee855a92adb0.jpg?imageMogr2/auto-orient/ignore-error/1"
-        },
-        {
-          "id": "https://sspai.com/post/113017",
-          "author": "野比大雄76",
-          "description": "没什么特别的，但无处不在，刚刚好。查看全文",
-          "link": "https://sspai.com/post/113017",
-          "publishedOn": "2026-08-06T02:14:58.000Z",
-          "wordCount": 307,
-          "title": "角落新声｜音乐，刻在时光里的私人地图",
-          "imageUrl": "https://rssfile.sspai.com/2026/08/04/f87888402302c0bf643357018b7eb133.jpg?imageMogr2/auto-orient/format/webp/ignore-error/1"
-        },
-        {
-          "id": "https://sspai.com/post/113110",
-          "author": "少数派编辑部",
-          "description": "英伟达宣布 Alpamayo 2 Super AI 开放商用、NVM Express 发布十一项规范集更新等。查看全文",
-          "link": "https://sspai.com/post/113110",
-          "publishedOn": "2026-08-06T00:42:08.000Z",
-          "wordCount": 592,
-          "title": "派早报：华为发布尊界 MPV 及多款新品等",
-          "imageUrl": "https://rssfile.sspai.com/05/08/2026/article/70d1ab1f-d5d9-ddd0-330b-37d52d6f1b09.jpeg?imageMogr2/auto-orient/format/webp/ignore-error/1"
         }
       ]
     },
@@ -2988,6 +2978,104 @@
       "feedUrl": "https://plink.anyfeeder.com/idaily/today",
       "siteUrl": "https://idai.ly",
       "articles": [
+        {
+          "id": "idaily-257715",
+          "author": "太平洋",
+          "description": "NASA 公布一张「深空气候观测卫星」（DSCOVR）拍摄的地球照片，清晰呈现太平洋上空同时出现的3个热带气旋，分别为5级飓风「洛厄尔」（Lowell）、4级飓风「卡琳娜」（Karina）以及热带风暴「玛丽」（Marie）。9月4日，美国国家飓风中心数据显示2026年迄今太平洋上已生成15个命名风暴，其中6个达到飓风级别，4个达到超级飓风级别。受强厄尔尼诺现象影响，本年度太平洋飓风季可能出现多达22个命名风暴，其中14个强度达到飓风级别。摄影师：NASA",
+          "link": "https://m.idai.ly/se/b62578",
+          "publishedOn": "2026-09-04T11:39:00.000Z",
+          "wordCount": 282,
+          "title": "太平洋同时出现3个气旋 - September 4, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/4cb6facbb4/dd544be7.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/4cb6facbb4/dd544be7.jpg"
+        },
+        {
+          "id": "idaily-257714",
+          "author": "美国 · 华盛顿特区",
+          "description": "美国铸币局展示印有美国第47任总统 Donald Trump 肖像的1美元硬币，华盛顿特区。9月2日，美国铸币局正式发行印有总统 Trump 肖像的美国建国250周年纪念币。这款纪念币是1866年迄今美国法定货币上首次出现在世人物肖像，面值为1美元，正面刻有 Trump 肖像、「LIBERTY」（自由）、「1776-2026」及「IN GOD WE TRUST」（我们信仰上帝）标语，背面为美国国徽，每卷25枚售价61美元，每100枚套装售价154.5美元，每户家庭地址限购2单。美国铸币局官方网站显示这款纪念币发售当日库存已全部售罄。摄影师：Mehmet Eser",
+          "link": "https://m.idai.ly/se/e03sgS",
+          "publishedOn": "2026-09-04T10:58:00.000Z",
+          "wordCount": 282,
+          "title": "特朗普1美元纪念币发售 - September 4, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/fbd4345c4c/0cba69bc.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/fbd4345c4c/0cba69bc.jpg"
+        },
+        {
+          "id": "idaily-257712",
+          "author": "美国 · 华盛顿特区",
+          "description": "美国副总统 JD Vance 在白宫新闻简报会上展示一张媒体现场座位图，华盛顿特区。9月3日，白宫时隔42天恢复举行新闻简报会，美国副总统 JD Vance 在简报会上就美伊冲突、中期选举、委内瑞拉石油协议等议题回答记者提问。Vance 称美国和伊朗之间虽然发生交火，但是并非处于「战争」状态，并强调除非伊朗停止攻击霍尔木兹海峡船只，否则美国无意与伊朗重启谈判。受美伊再次交火影响，国际基准布伦特原油价格当天一度上涨1.8%至每桶97.39美元，触及6周以来新高。摄影师：Brendan Smialowski",
+          "link": "https://m.idai.ly/se/7502QO",
+          "publishedOn": "2026-09-04T09:57:00.000Z",
+          "wordCount": 282,
+          "title": "白宫恢复新闻简报会 - September 4, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/d01d74e15f/0d4a6394.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/d01d74e15f/0d4a6394.jpg"
+        },
+        {
+          "id": "idaily-257710",
+          "author": "英国 · 伦敦",
+          "description": "法国总统 Emmanuel Macron 与英国首相 Andy Burnham 举行会晤，伦敦。9月3日，英国首相 Burnham 与法国总统 Macron 举行首次面对面会晤，主要就两国关系、非法移民管控、乌克兰局势、中东局势等议题交换意见。双方同意加大合作力度打击非法移民，持续改善英欧关系，支持推进在乌克兰建立「风暴阴影」（Scalp）远程导弹组装线。法国是英国第五大贸易伙伴，2025年双边贸易额达1043亿英镑，同比增长0.9%。摄影师：Leon Neal",
+          "link": "https://m.idai.ly/se/3a75FU",
+          "publishedOn": "2026-09-04T09:55:00.000Z",
+          "wordCount": 282,
+          "title": "英法领导人会晤 - September 4, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/e4949f52b3/599465fc.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/e4949f52b3/599465fc.jpg"
+        },
+        {
+          "id": "idaily-257709",
+          "author": "尼泊尔 · 拉苏瓦县",
+          "description": "尼泊尔军方救援人员救出一名泥石流灾害中被困隧道的水电站工人，拉苏瓦县。9月4日，尼泊尔国家减灾管理局（NDRRMA）通报北部边境泥石流灾害造成的死亡人数升至1287人，另有超过5000人失踪，约2万栋房屋损毁。尼泊尔境内喜马拉雅山脉共有12个水力发电项目在本次灾害中遭受严重破坏，约900名工人失踪，推测有500人仍被困在隧道内。中国应急管理部已向尼泊尔紧急调派9名隧道专家协助救援工作。摄影师：Nepal Army",
+          "link": "https://m.idai.ly/se/291Y18",
+          "publishedOn": "2026-09-04T09:53:00.000Z",
+          "wordCount": 282,
+          "title": "尼泊尔泥石流搜救持续 - September 4, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/e06f6843c4/ae13dd9b.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/e06f6843c4/ae13dd9b.jpg"
+        },
+        {
+          "id": "idaily-257708",
+          "author": "菲律宾 · 圣拉斐尔",
+          "description": "菲律宾一所学校举行安全演习，圣拉斐尔。9月3日，菲律宾教育部首次在全国范围内开展针对校园枪击案的安全演习，主要模拟学校师生在「枪手闯入」后进行主动防御、躲避以及报警求助等环节，从而提升校园应急避险能力与救援协调效率。菲律宾过去3个月连续发生2起校园枪击案，共造成5名学生和2名保安死亡，29人受伤，案犯均为未成年人。菲律宾内政部长估计目前该国约有278万支合法枪支，其中200万支为私人持有。摄影师：Jam Sta Rosa",
+          "link": "https://m.idai.ly/se/5fc6C7",
+          "publishedOn": "2026-09-04T09:51:00.000Z",
+          "wordCount": 282,
+          "title": "菲律宾校园枪击案演习 - September 4, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/e14602f239/46455094.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/e14602f239/46455094.jpg"
+        },
+        {
+          "id": "idaily-257707",
+          "author": "法国 · 芒德",
+          "description": "法国高中新学期开学首日，学生们的个人手机被统一收缴，芒德市。9月1日，法国正式开始实施高中校园手机禁令，所有高中生在进入学校后必须上交个人手机，直至离校时才能取回。法国从2018年起开始禁止幼儿园学童、小学生和初中生在校使用手机，2026年9月将禁令扩大至高中生。民调显示80%法国人支持校园手机禁令。摄影师：Guillaume Horcajuelo",
+          "link": "https://m.idai.ly/se/720wpo",
+          "publishedOn": "2026-09-04T09:49:00.000Z",
+          "wordCount": 282,
+          "title": "法国实施高中手机禁令 - September 4, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/2e43138d8b/b4b3c8e9.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/2e43138d8b/b4b3c8e9.jpg"
+        },
         {
           "id": "idaily-257663",
           "author": "国际空间站",
@@ -5759,62 +5847,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://pic.yupoo.com/fotomag/4a24490240/1e642618.jpg"
-        },
-        {
-          "id": "idaily-256081",
-          "author": "韩国 · 首尔",
-          "description": "游客们撑遮阳伞游览首尔景福宫。8月6日，韩国首都圈连续第3天遭遇极端高温天气，首尔市当天最高气温达到39°C，局部地区逼近40°C。韩国疾病管理局通报5月迄今累计报告高温相关病例2441例，死亡病例增至21例，超过去年同期水平。韩国总统李在明指示政府将当前高温形势视为「国家灾难状态」，要求各部门调动一切资源保障民众生命安全。韩国气象厅预测本轮热浪将从8月9日起出现缓解，但整体气温仍显著高于历史平均水平。摄影师：Hwawon Lee",
-          "link": "https://m.idai.ly/se/00aWJz",
-          "publishedOn": "2026-08-06T06:57:00.000Z",
-          "wordCount": 245,
-          "title": "韩国遭遇破纪录高温 - August 6, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/48d99f7b18/88b77282.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/48d99f7b18/88b77282.jpg"
-        },
-        {
-          "id": "idaily-256080",
-          "author": "日本 · 熊本县",
-          "description": "日本海上自卫队「国崎」号运输舰为熊本县灾民提供卫生洗浴和充电服务，八代市。8月6日，熊本县政府通报「7·28地震」确认死亡人数上升至38人，145人受伤，超过1.5万栋房屋受损，目前仍有4.4万户家庭断水。日本总务省消防厅通报熊本县在地震后一周共有309人因中暑送医，较上周增加40%。摄影师：iDaily Media",
-          "link": "https://m.idai.ly/se/6c1m54",
-          "publishedOn": "2026-08-06T06:55:00.000Z",
-          "wordCount": 245,
-          "title": "日本运输舰支援地震灾区 - August 6, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/7c218abeb8/2c36b07f.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/7c218abeb8/2c36b07f.jpg"
-        },
-        {
-          "id": "idaily-256079",
-          "author": "日本 · 东京",
-          "description": "日本作家东野圭吾遗作《永恒的记忆》在书店上架，东京。8月4日，东野圭吾遗作《永恒的记忆》在日本正式发售，这是他公开出版的第106部作品，小说主要讲述一名天才物理学家与刑警好友搭档侦破案件的故事。东野圭吾1958年出生于大阪府，曾担任电气工程师，1985年凭借出道作《放学后》斩获江户川乱步奖并步入文坛，生前代表作包括《秘密》《嫌疑人X的献身》《白夜行》等，累计全球销量1.68亿册。摄影师：iDaily Media",
-          "link": "https://m.idai.ly/se/8694t3",
-          "publishedOn": "2026-08-06T06:53:00.000Z",
-          "wordCount": 245,
-          "title": "东野圭吾遗作发售 - August 6, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/08520bbf60/927f54a8.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/08520bbf60/927f54a8.jpg"
-        },
-        {
-          "id": "idaily-256078",
-          "author": "中国 · 香港",
-          "description": "香港湾仔举行「异宠世界」（Exotic Pets World 2026）展览会，一名参观者与象龟进行互动，中国。本次异宠展从7月25日持续至8月18日，现场设置「两栖爬行多样生境区」、「水族及甲壳生态区」、「巨型陆龟与蜥蜴互动区」及「焦点主题保育展区」4大主题区，共展出超过15种珍稀异宠，包括大守宫、苏卡达象龟、鬃狮蜥、墨西哥钝口螈、白化中华鳖、球蟒等。摄影师：Lam Yik",
-          "link": "https://m.idai.ly/se/556X6U",
-          "publishedOn": "2026-08-06T06:51:00.000Z",
-          "wordCount": 245,
-          "title": "2026香港异宠展 - August 6, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/3c8383882b/e5802a00.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/3c8383882b/e5802a00.jpg"
         }
       ]
     },
@@ -7192,66 +7224,6 @@
           "wordCount": 1465,
           "title": "战争、高温、难民危机：失去对自身命运掌控的欧洲",
           "imageUrl": "https://static01.nyt.com/images/2026/08/06/multimedia/06int-europe-pressure-01-qzct/06int-europe-pressure-01-qzct-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/health/20260806/trump-rfk-steak-kimchi-diet/dual",
-          "author": null,
-          "description": "WILLY STALEY2026年8月6日\nI was a little less than 30 minutes into a video call with Sean O’Mara, the trim and handsome 63-year-old doctor who has reportedly been giving dietary advice to several members of the Trump cabinet, when he pulled up an image of two liquids the color of radiator fluid. This vibrant yellow-green, O’Mara explained, occupies a specific attention-getting wavelength. “Soda companies use that color to get people to buy,” he said, gesturing to the first liquid, which was Mountain Dew. “Your brain kind of lights up. You’re like, Wow, that’s cool stuff.” He directed my attention to the other liquid, roughly the same color, and in a jar.\n我与肖恩·奥马拉的视频通话进行到快30分钟的时候，他展示了一张图片，上面是两种颜色类似防冻液的液体。这位现年63岁、身材匀称、长相英俊的医生据传一直在向特朗普内阁的几位成员提供饮食建议。奥马拉解释说，这种鲜艳的黄绿色处于一种特别吸引注意力的波长。“汽水公司就是用这种颜色吸引人们购买…",
-          "link": "https://cn.nytimes.com/health/20260806/trump-rfk-steak-kimchi-diet/dual",
-          "publishedOn": "2026-08-06T05:36:01.000Z",
-          "wordCount": 1434,
-          "title": "美国最有权势的人们只吃牛肉和发酵食品，你也应该这样吗？",
-          "imageUrl": "https://static01.nyt.com/images/2026/07/29/magazine/mag-09ididit/mag-09ididit-videoLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/climate/20260806/typhoon-dolphin-names-dimsum-pacific/dual",
-          "author": null,
-          "description": "FRANCESCA REGALADO2026年8月6日去年台风“韦帕”在香港维多利亚港掀起的海浪。 Vernon Yuen/Associated Press\nIf you see that a storm named Dim-sum is gathering steam in the Pacific Ocean, it’s not an error.\n如果你看到一个名叫“点心”的风暴在太平洋上生成，那并不是笔误。\nIn June, as the Pacific typhoon season began, the Hong Kong Observatory said it had chosen the city’s bite-sized cuisine as its latest contribution to the list of names for tropical cyclones that form in the Pacific.\n6月，随着太平洋台风季的到来，香港天文台表示，它选择这座城市的小吃美食来为太平洋生成的热带气旋命名名单贡献一个新名字。\nIt’s not the first time that Hong Kong has named a storm after a beloved symbol. Typhoon Dolphin, which is forecast to approach Japan and Taiwan this weekend, takes its name from the city’s animal mascot.\n这并不是香港第一次用一个深受喜爱的城市象征为风暴命名。预计本周末将逼近日本和台湾的“白海豚”台风，其名字就来源于香港的动物吉祥物。\nThe names are compiled by the Typhoon Commi…",
-          "link": "https://cn.nytimes.com/climate/20260806/typhoon-dolphin-names-dimsum-pacific/dual",
-          "publishedOn": "2026-08-06T04:36:02.000Z",
-          "wordCount": 1072,
-          "title": "“点心”风暴来袭？揭秘太平洋台风命名法则",
-          "imageUrl": "https://static01.nyt.com/images/2026/06/11/multimedia/00xp-cyclone-names-02-bcpt/00xp-cyclone-names-02-bcpt-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/technology/20260806/ai-china-africa/dual",
-          "author": null,
-          "description": "孟建国, ADAM SATARIANO, AARON KROLIK2026年8月6日\nWhen Ernest Mwebaze, a tech developer in Uganda, was building an artificial intelligence system last year tailored for his country’s many languages, he tested American and Chinese tools to see which one could help.\n乌干达科技开发者欧内斯特·姆韦巴泽去年构建了一个针对本国多种语言的人工智能系统，他当时对美中两国的模型进行了测试，看看哪一个能提供帮助。\nChina’s won.\n中国模型胜出。\nThe A.I. model from the Chinese internet giant Alibaba handled Uganda’s dozens of languages better than anything from Meta or Google, Mr. Mwebaze said. It was also inexpensive, and he could customize the model with his own data.\n姆韦巴泽表示，中国互联网巨头阿里巴巴的AI模型在处理乌干达数十种语言方面的表现优于Meta或谷歌的任何产品。该模型不仅价格便宜，还可以利用自己的数据对模型进行定制。\n“We want to build things as cheap as possible, yet have them work really well,” said Mr. Mwebaze, a former research scientist at Google. His…",
-          "link": "https://cn.nytimes.com/technology/20260806/ai-china-africa/dual",
-          "publishedOn": "2026-08-06T03:36:02.000Z",
-          "wordCount": 1906,
-          "title": "非洲开发者拥抱中国AI模型，为硅谷敲响警钟",
-          "imageUrl": "https://static01.nyt.com/images/2026/07/30/30visualUploader-29943-cover/30visualUploader-29943-cover-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/china/20260806/china-cigarette-smoking/dual",
-          "author": null,
-          "description": "BERRY WANG2026年8月6日北京火车站外的吸烟者，摄于2月。中国消费了全球约一半的香烟，各地禁烟令的执行力度往往松懈，有时甚至形同虚设。 Gilles Sabrié for The New York Times\nAmanda Zhang was planning a quiet dinner out with her mother, who had recently undergone surgery for lung cancer. But as Ms. Zhang walked through a shopping mall, she was suddenly confronted by clouds of cigarette smoke in the corridor outside the restaurant.\n阿曼达·张原本计划和刚做完肺癌手术的母亲安静地外出吃顿饭。可当她穿过一个购物中心，来到那家餐厅外的走廊时，那里烟雾缭绕，阵阵烟味扑面而来。\nWorried about her mother’s health, Ms. Zhang, a student in her 20s, approached the source, a middle-aged couple, and pointed out that smoking in indoor public areas was not allowed in Nanjing, a city in eastern China. When they persisted, she went into the restaurant, pulled out her phone and began photographing them through the window.\n出于对母亲健康的担忧，这位二十多岁的在校…",
-          "link": "https://cn.nytimes.com/china/20260806/china-cigarette-smoking/dual",
-          "publishedOn": "2026-08-06T03:06:02.000Z",
-          "wordCount": 1063,
-          "title": "拒绝二手烟在中国为何这么难？",
-          "imageUrl": "https://static01.nyt.com/images/2026/07/30/multimedia/00int-china-smoking-bgqp/00int-china-smoking-bgqp-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/china/20260806/lobga-rangzen-united-nations-tibet-china/dual",
-          "author": null,
-          "description": "王月眉2026年8月6日\nIt was 91 degrees in Manhattan and even hotter on the pavement, but the Tibetans gathered as planned outside the Chinese Consulate. Amid the waving flags and synchronized chants, one of the protesters, Ngawang Tashi, looked for his friend Lobga Rangzen.\n曼哈顿的气温达到摄氏33度，人行道上更是炽热，但藏人们仍按计划聚集在中国领事馆外。在挥舞的旗帜和整齐划一的喊声中，抗议者之一阿旺扎西正在寻找他的朋友洛嘎让赞。\nLobga Rangzen was a stalwart of events like this. His friends joked that he was happier at protests than on his birthday. At protests, he felt most useful to the cause of Tibetan independence from China — a cause to which he was so devoted, he had even put it in his name: Rangzen means “independence” in Tibetan.\n洛嘎让赞是此类活动的中坚力量。朋友们开玩笑说，他在参加抗议的时候比过生日还开心。他觉得通过抗议能对西藏的独立运动做出最大的贡献——他对这一事业非常执着，甚至把它放进了自己的名字里：让赞(Rangzen)在藏语中意为“独立”。\nNgawang Tashi scanned the …",
-          "link": "https://cn.nytimes.com/china/20260806/lobga-rangzen-united-nations-tibet-china/dual",
-          "publishedOn": "2026-08-06T03:06:02.000Z",
-          "wordCount": 2677,
-          "title": "在联合国大楼前自焚的藏人：洛嘎让赞最后的抗争",
-          "imageUrl": "https://static01.nyt.com/images/2026/07/31/00rangzen-tibet-01-jphc-cover/00rangzen-tibet-01-jphc-cover-videoLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/science/20260806/space-x-moon-crash-confirmation/dual",
-          "author": null,
-          "description": "KENNETH CHANG2026年8月6日 Sergei Grits/Associated Press\nIf a rocket stage crashes into the moon and no one sees it, did it really crash?\n如果一枚火箭的某一级撞上月球却没有人观测到，那它真的撞上月球了吗？\nA discarded upper stage of a SpaceX Falcon 9 rocket slammed into the surface of the moon around 2:35 a.m. Eastern time on Wednesday at a speed of 5,400 miles per hour.\n美国东部时间周三凌晨2点35分左右，SpaceX公司“猎鹰9号”运载火箭的一个废弃上面级以每小时5400英里（约合8690公里）的速度猛烈撞击了月球表面。\nHowever, it appears no one has yet reported any obvious signs of the impact.\n然而，目前似乎还没有人报告发现任何明显的撞击迹象。\nAstronomers hoped that the collision would create a bright enough flash of light and a big enough cloud of dust and debris that it could be observed through telescopes from Earth. But at the appointed time, the moon looked like the moon.\n天文学家曾希望，这次碰撞会产生足够明亮的闪光以及足够庞大的尘埃和碎片云，可以通过地球上的望…",
-          "link": "https://cn.nytimes.com/science/20260806/space-x-moon-crash-confirmation/dual",
-          "publishedOn": "2026-08-06T03:06:02.000Z",
-          "wordCount": 753,
-          "title": "SpaceX火箭残骸撞击月球，会发生什么？",
-          "imageUrl": "https://static01.nyt.com/images/2026/08/05/multimedia/05SCI-SpaceX-Moon-Crash-bjmq/05SCI-SpaceX-Moon-Crash-bjmq-articleLarge.jpg"
         }
       ]
     },
@@ -8238,46 +8210,6 @@
           "publishedOn": "2026-08-07T02:10:00.000Z",
           "wordCount": 306,
           "title": "路边那只猫，你只看了一眼，不是因为你心硬",
-          "imageUrl": null
-        },
-        {
-          "id": "4c0c33c702284ba4c3d699f18f133c98",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E8%AF%BA%E5%85%B0%E6%96%B0%E7%89%87%E3%80%8A%E5%A5%A5%E5%BE%B7%E8%B5%9B%E3%80%8B%E4%B8%BA%E8%8B%B1%E5%9B%BD%E8%AF%97%E6%AD%8C%E9%94%80%E9%87%8F%E5%B8%A6%E6%9D%A5%E5%8F%B2%E8%AF%97%E7%BA%A7%E6%8E%A8%E5%8A%A8",
-          "publishedOn": "2026-08-06T02:25:00.000Z",
-          "wordCount": 306,
-          "title": "诺兰新片《奥德赛》为英国诗歌销量带来史诗级推动",
-          "imageUrl": null
-        },
-        {
-          "id": "fce8997d1bd0ecb14f24894ee171b64f",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E6%9C%B4%E5%A9%89%E7%BB%AA%E3%80%8A%E5%82%8D%E6%99%9A%E7%9A%84%E9%82%82%E9%80%85%E3%80%8B%EF%BC%9A%E4%BB%A5%E7%94%9F%E5%91%BD%E7%BB%8F%E9%AA%8C%E6%9E%84%E6%88%90%E7%9A%84%E6%96%87%E5%AD%A6%E7%8E%B0%E5%9C%BA",
-          "publishedOn": "2026-08-06T02:25:00.000Z",
-          "wordCount": 312,
-          "title": "朴婉绪《傍晚的邂逅》：以生命经验构成的文学现场",
-          "imageUrl": null
-        },
-        {
-          "id": "58c7a1ea573581dfebe65d3536de6697",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E5%B7%AB%E6%98%82%EF%BC%9A%E6%B2%A1%E6%9C%89%E4%BA%BA%E6%B4%BB%E5%BE%97%E6%AF%94%E5%8F%A6%E4%B8%80%E4%B8%AA%E4%BA%BA%E6%9B%B4%E9%AB%98%E6%98%8E%20%7C%E3%80%8A%E8%A1%8C%E9%97%B4%E8%B7%9D%E3%80%8B%E2%91%A1",
-          "publishedOn": "2026-08-06T02:25:00.000Z",
-          "wordCount": 302,
-          "title": "巫昂：没有人活得比另一个人更高明 |《行间距》②",
-          "imageUrl": null
-        },
-        {
-          "id": "1235f9fc6e35dfaab7aad5786fd78c3d",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E6%A0%A1%E5%9B%AD%E9%87%8C%E7%9A%84%E2%80%9C%E5%B8%B8%E4%BD%8F%E6%B0%91%E2%80%9D%EF%BD%9C%E8%87%AA%E7%84%B6%E4%B9%A6%E5%8D%95",
-          "publishedOn": "2026-08-06T02:25:00.000Z",
-          "wordCount": 273,
-          "title": "校园里的“常住民”｜自然书单",
           "imageUrl": null
         }
       ]
