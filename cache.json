@@ -6,6 +6,16 @@
       "siteUrl": "https://rweekly.org/atom.xml",
       "articles": [
         {
+          "id": "https://rweekly.org/2026-W37.html",
+          "author": null,
+          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Jonathan Kitt, with help from the R Weekly team members and contributors.\nHighlights\nMadison bike crashes peak in September\n\nAn Atlas of Stone\nRepeated measures ANOVA in R\nInsights\nposit::glimpse() Newsletter – September 2026\nAI Newsletter: You probably don’t want to fine-tune\nNavigating Challenges in Spatial Machine Learning\nR in the Real World\nR4SUB: turning “are we ready to submit?” into a number\nMadison bike crashes peak in September\nAn Atlas of Stone\nR in Organizations\nA Decade of Meetups, Code, and Community: San Carlos RUG Turns 10\nMeet Our 2026-2027 R Consortium Board of Directors\nTutorials\nBack-transforming a log-scale model\nSkewness-Managed Portfolios: A Practical …",
+          "link": "https://rweekly.org/2026-W37.html",
+          "publishedOn": "2026-09-07T00:00:00.000Z",
+          "wordCount": 5803,
+          "title": "R Weekly 2026-W37 Bike crashes, World Castles, Repeated measures ANOVA",
+          "imageUrl": "https://rweekly.org/public/facebook.png"
+        },
+        {
           "id": "https://rweekly.org/2026-W36.html",
           "author": null,
           "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Jon Calder, with help from the R Weekly team members and contributors.\nHighlight\nJarl 0.6.0: A fast R linter\nA new take on documentation sites for R packages\nInsights\nUndo for Shiny, and the three problems that make it interesting\njsslintr: check JSS manuscript style from R (and everywhere else)\nJarl 0.6.0: A fast R linter\nnlmixr2 7.0’s Covariance Step, All Grown Up\nrOpenSci News Digest, August 2026\nReading notes on Naming Things by Tom Benner\nR in the Real World\nDoes mosquito control work?\nTidyTuesday 2026/35\nPlot a pedigree in R: seven packages, each built for a different job\nR Internationally\nValidar datos para prevenir problemas y errores futuros\nLínea de tiempo del leng…",
@@ -54,6 +64,56 @@
       "feedUrl": "https://www.nationalreview.com/feed/",
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
+        {
+          "id": "https://www.nationalreview.com/?p=2031141",
+          "author": "Andrew C. McCarthy",
+          "description": "Undermining the rule of law and a relatively free market will have long-term ramifications.",
+          "link": "https://www.nationalreview.com/2026/09/taking-venezuelas-oil-if-america-becomes-a-rogue-the-future-is-dark/",
+          "publishedOn": "2026-09-07T10:30:58.000Z",
+          "wordCount": null,
+          "title": "Taking Venezuela’s Oil: If America Becomes a Rogue, the Future Is Dark",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=2031850",
+          "author": "Raleigh Adams",
+          "description": "America’s institutions are overproducing ambitious young people hungry for consequence. The DSA is exploiting that reality.",
+          "link": "https://www.nationalreview.com/2026/09/elite-formation-is-fueling-the-socialist-project/",
+          "publishedOn": "2026-09-07T10:30:53.000Z",
+          "wordCount": null,
+          "title": "Elite Formation Is Fueling the Socialist Project",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=2029244",
+          "author": "Ben Connelly",
+          "description": "Socialism doesn’t protect the dignity of individual workers — the free market does.",
+          "link": "https://www.nationalreview.com/2026/09/labor-day-is-a-triumph-of-capitalism/",
+          "publishedOn": "2026-09-07T10:30:30.000Z",
+          "wordCount": null,
+          "title": "Labor Day Is a Triumph of Capitalism",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=2031623",
+          "author": "The Editors",
+          "description": "At best, organized labor ratified improvements in living standards that were already enabled by rising productivity.",
+          "link": "https://www.nationalreview.com/2026/09/we-should-call-it-economic-growth-day/",
+          "publishedOn": "2026-09-07T10:30:09.000Z",
+          "wordCount": null,
+          "title": "We Should Call It ‘Economic Growth Day’",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=2032265",
+          "author": "Kathryn Jean Lopez",
+          "description": "There’s a world in front of you to make better.",
+          "link": "https://www.nationalreview.com/2026/09/mother-teresa-is-looking-at-you/",
+          "publishedOn": "2026-09-07T10:30:05.000Z",
+          "wordCount": null,
+          "title": "Mother Teresa Is Looking at You",
+          "imageUrl": null
+        },
         {
           "id": "https://www.nationalreview.com/?p=2031171",
           "author": "Mackenzie Eaglen and Brady Africk",
@@ -1843,56 +1903,6 @@
           "wordCount": 6279,
           "title": "Misadventures in Migration",
           "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/07/spain-migrant-crisis-18.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=2013650",
-          "author": "Caroline Downey",
-          "description": "Young people don’t believe that the status quo is setting them up for success. They feel it’s further cushioning the Boomers’ retirement.",
-          "link": "https://www.nationalreview.com/2026/08/is-there-a-boomer-zoomer-war/",
-          "publishedOn": "2026-08-08T10:30:45.000Z",
-          "wordCount": null,
-          "title": "Is There a Boomer–Zoomer War?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=2013622",
-          "author": "Rich Lowry",
-          "description": "Not only is this embarrassing, it is dangerous.",
-          "link": "https://www.nationalreview.com/2026/08/a-foreseeable-and-dire-munitions-crisis/",
-          "publishedOn": "2026-08-08T10:30:32.000Z",
-          "wordCount": null,
-          "title": "A Foreseeable and Dire Munitions Crisis",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=2011560",
-          "author": "Matt Weidinger",
-          "description": "The law holds lessons for how we should handle the rest of the social safety net.",
-          "link": "https://www.nationalreview.com/2026/08/thirty-years-later-welfare-reform-is-still-a-model-that-works/",
-          "publishedOn": "2026-08-08T10:30:27.000Z",
-          "wordCount": null,
-          "title": "Thirty Years Later, Welfare Reform Is Still a Model That Works",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=2012808",
-          "author": "Christine Rosen",
-          "description": "This would not be the first generation of youth to revel in abstractions while seeking instant community with the like-minded and wrongheaded.",
-          "link": "https://www.nationalreview.com/2026/08/the-unwelcome-return-of-sentimental-socialism/",
-          "publishedOn": "2026-08-08T10:30:26.000Z",
-          "wordCount": null,
-          "title": "The Unwelcome Return of Sentimental Socialism",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=2013354",
-          "author": "Brian T. Allen",
-          "description": "The famed village’s museums practice good diversity, and here’s how.",
-          "link": "https://www.nationalreview.com/2026/08/in-cooperstown-what-do-baseball-havana-and-blackfeet-couture-have-in-common/",
-          "publishedOn": "2026-08-08T10:30:16.000Z",
-          "wordCount": null,
-          "title": "In Cooperstown, What Do Baseball, Havana, and Blackfeet Couture Have in Common?",
-          "imageUrl": null
         }
       ]
     },
@@ -1901,6 +1911,46 @@
       "feedUrl": "https://sspai.com/feed",
       "siteUrl": "https://sspai.com",
       "articles": [
+        {
+          "id": "https://sspai.com/post/114288",
+          "author": "少数派编辑部",
+          "description": ">下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文",
+          "link": "https://sspai.com/post/114288",
+          "publishedOn": "2026-09-07T10:08:44.000Z",
+          "wordCount": 406,
+          "title": "派评｜近期值得关注的 App",
+          "imageUrl": "https://rssfile.sspai.com/2026/9/7/article/f4eea029-d813-f77c-03cc-6576472ecaf3.png?imageMogr2/auto-orient/ignore-error/1"
+        },
+        {
+          "id": "https://sspai.com/post/113877",
+          "author": "一群小羊说",
+          "description": "一辆远没有 F1 赛车快的车，凭什么让各路豪强乖乖排在后面，甚至左右冠军归属？查看全文",
+          "link": "https://sspai.com/post/113877",
+          "publishedOn": "2026-09-07T07:00:00.000Z",
+          "wordCount": 373,
+          "title": "「弯道超车」赛车入门指北 04：全场最快的车，为什么听一辆慢车指挥",
+          "imageUrl": "https://rssfile.sspai.com/2026/08/28/c842776a75bbd206b25f78abac5b4b8d.png?imageMogr2/auto-orient/ignore-error/1"
+        },
+        {
+          "id": "https://sspai.com/post/114103",
+          "author": "随便好啦",
+          "description": "在金属机身成为 Mac 产品线标配的今天，让我们重温这台 2001 年的 iBook G3，找回属于聚碳酸酯时代的风格。查看全文",
+          "link": "https://sspai.com/post/114103",
+          "publishedOn": "2026-09-07T03:10:02.000Z",
+          "wordCount": 658,
+          "title": "定义了 Apple 10 年的白色产品：iBook G3 Snow 怀旧手记",
+          "imageUrl": "https://rssfile.sspai.com/2026/09/02/2846844719d48535676870b494ddfbd0.jpg?imageMogr2/auto-orient/ignore-error/1"
+        },
+        {
+          "id": "https://sspai.com/post/114250",
+          "author": "少数派编辑部",
+          "description": "美国 CD 销量大幅反弹，公安部上线反诈智能助手「国家反诈 AI」等。查看全文",
+          "link": "https://sspai.com/post/114250",
+          "publishedOn": "2026-09-07T00:20:41.000Z",
+          "wordCount": 675,
+          "title": "派早报：微软公布 Project Zenith 计划、F-Droid 拟效仿 Debian 制定生成式 AI 使用政策",
+          "imageUrl": "https://rssfile.sspai.com/9/7/2026/article/82a1d742-4df3-a340-5493-9843112d5566.png?imageMogr2/auto-orient/format/webp/ignore-error/1"
+        },
         {
           "id": "https://sspai.com/post/114076",
           "author": "ElijahLee",
@@ -2938,6 +2988,104 @@
       "feedUrl": "https://plink.anyfeeder.com/idaily/today",
       "siteUrl": "https://idai.ly",
       "articles": [
+        {
+          "id": "idaily-257859",
+          "author": "印度尼西亚 · 楠榜省",
+          "description": "印尼「喀拉喀托之子火山」（Anak Krakatau）喷出的火山灰升至高空，巽他海峡。9月6日，印尼「喀拉喀托之子火山」发生剧烈喷发，火山灰烟柱升至1.5万米高空并扩散超过150公里，导致印尼首都雅加达及周边8个机场被暂时关闭，逾1500次航班取消，约17万旅客被迫滞留。印尼国家灾害管理局宣布已准备实施人工降雨行动，以帮助加快消除火山灰。摄影师：CSU",
+          "link": "https://m.idai.ly/se/7ae66N",
+          "publishedOn": "2026-09-07T09:49:00.000Z",
+          "wordCount": 268,
+          "title": "印尼喀拉喀托之子火山喷发 - September 7, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/4477f37b5a/c47378c2.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/4477f37b5a/c47378c2.jpg"
+        },
+        {
+          "id": "idaily-257858",
+          "author": "德国 · 马格德堡",
+          "description": "德国选择党（AfD）联合主席 Alice Weidel 与 Tino Chrupalla 出席州议会胜选庆祝活动，萨安州。9月6日，德国选择党以43.8%得票率的压倒性优势赢得德国萨安州议会选举，创下该党州选举历史最佳成绩，获得议会83个议席中的39席，距离单独执政所需的过半席数仅差3席。本次选举投票率达77.8%，创下两德统一以来该州最高投票率纪录。如果德国选择党成功获得萨安州的执政权，德国将迎来战后第一个极右翼党派领导的州政府。摄影师：Michael Kappeler",
+          "link": "https://m.idai.ly/se/9197A7",
+          "publishedOn": "2026-09-07T08:58:00.000Z",
+          "wordCount": 268,
+          "title": "德国选择党赢得州选举 - September 7, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/4a6405f89d/dfa651cc.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/4a6405f89d/dfa651cc.jpg"
+        },
+        {
+          "id": "idaily-257857",
+          "author": "俄罗斯 · 莫斯科",
+          "description": "俄罗斯总统 Vladimir Putin 在克里姆林宫会见美国总统特使 Steve Witkoff 和美国总统女婿 Jared Kushner，莫斯科。9月5日，俄总统 Putin 与美国总统特使就结束乌克兰战争、美俄经济合作前景等议题举行约3小时闭门会谈。俄美双方会后均表示本次会谈「坦诚且富有建设性」。俄方重申结束战争的前提是「消除冲突的根源」，即乌克兰放弃克里米亚、卢甘斯克、顿涅茨克和赫尔松4个地区的领土主权，并承诺不加入北约。摄影师：Gavriil Grigorov",
+          "link": "https://m.idai.ly/se/019zUi",
+          "publishedOn": "2026-09-07T07:57:00.000Z",
+          "wordCount": 268,
+          "title": "普京会见美国总统特使 - September 7, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/d2ca623fec/434613ab.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/d2ca623fec/434613ab.jpg"
+        },
+        {
+          "id": "idaily-257855",
+          "author": "韩国 · 平泽",
+          "description": "韩国平泽港码头堆放的集装箱，京畿道。9月6日，韩国产业通商部公布2026年迄今该国累计出口额达7094亿美元，提前117天追平2025年出口额，预计全年出口额有望突破1万亿美元，成为继美国、中国和德国后第4个达到1万亿美元出口里程碑的国家。韩国本年度出口增长主要受半导体需求强劲推动，1至8月半导体产品出口额达2812亿美元，同比增长169.6%，占总出口额比例超过40%。摄影师：iDaily Media",
+          "link": "https://m.idai.ly/se/553C2f",
+          "publishedOn": "2026-09-07T07:55:00.000Z",
+          "wordCount": 268,
+          "title": "韩国出口额创新高 - September 7, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/6ce2887a8b/f005a7c0.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/6ce2887a8b/f005a7c0.jpg"
+        },
+        {
+          "id": "idaily-257854",
+          "author": "朝鲜 · 元山",
+          "description": "朝鲜举行新型5000吨级驱逐舰「姜健」号入列仪式，江原道元山港。9月6日，朝鲜第二艘5000吨级驱逐舰「姜健」号正式入列朝鲜人民军海军。朝鲜最高领导人金正恩当天出席入列仪式并登舰视察。金正恩在讲话中指出，「姜健」号入列是向敌人发出明确信号，朝鲜将在海上和水下切实行国家主权。金正恩强调，朝鲜将进一步巩固核战争威慑力量，使核作战体系实现多样化和高效运用，并开展海上防卫和遏制战争的军事活动。摄影师：KCNA",
+          "link": "https://m.idai.ly/se/4a99QH",
+          "publishedOn": "2026-09-07T07:53:00.000Z",
+          "wordCount": 268,
+          "title": "朝鲜「姜健」号驱逐舰入列 - September 7, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/289fa1f10c/db6f7529.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/289fa1f10c/db6f7529.jpg"
+        },
+        {
+          "id": "idaily-257852",
+          "author": "加沙地带 · 加沙",
+          "description": "加沙地带举办空袭遇难者集体葬礼，加沙城。9月6日，加沙地带为废墟中新挖掘出的100名遇难者遗体举行集体葬礼，本次安葬的遇难者死于2023年11月发生的以色列空袭，其中包括约70名儿童。加沙卫生部门通报，本轮以巴冲突迄今累计造成至少73561人死亡，约6000人被登记为失踪人员，推测有近1.5万遇难者的遗体在建筑废墟下尚未发掘。摄影师：Khames Alrefi",
+          "link": "https://m.idai.ly/se/c56Lhx",
+          "publishedOn": "2026-09-07T07:51:00.000Z",
+          "wordCount": 268,
+          "title": "加沙举行集体葬礼 - September 7, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/a85c460b72/c2cbd8cc.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/a85c460b72/c2cbd8cc.jpg"
+        },
+        {
+          "id": "idaily-257851",
+          "author": "日本 · 大阪",
+          "description": "俯瞰大阪世博会场馆拆除工地。2025年大阪世博会最后一座外国展馆「捷克馆」于8月中旬启动拆除工作，预计11月底前完成拆除。大阪世博会占用土地将在2028年2月底前完整归还大阪市政府，未来仅保留200米长度的环形回廊，周边地区改建为纪念公园。大阪市政府估测土地改造费用及未来10年维护成本将达到55亿日元（约合3500万美元）。摄影师：iDaily Media",
+          "link": "https://m.idai.ly/se/1e4ekN",
+          "publishedOn": "2026-09-07T07:49:00.000Z",
+          "wordCount": 268,
+          "title": "大阪世博会场馆拆除进展 - September 7, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/7b2b54f755/24ba4b4e.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/7b2b54f755/24ba4b4e.jpg"
+        },
         {
           "id": "idaily-257800",
           "author": "飞马座",
@@ -5737,104 +5885,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://pic.yupoo.com/fotomag/30204f2c59/72f0f064.jpg"
-        },
-        {
-          "id": "idaily-256194",
-          "author": "太平洋",
-          "description": "从国际空间站俯瞰巨型台风「白海豚」（Typhoon Dolphin），太平洋西北海域。8月8日，中央气象台发布台风橙色预警，2026年第13号台风「白海豚」将于8月9日至10日在浙江舟山到福建福鼎一带沿海登陆，目前中心附近最大风力14级，风速达45米/秒，环流直径超1000公里。「白海豚」带来的强降雨天气预计将在未来3天影响上海、浙江、福建、江苏、安徽、江西、山东等7省市地区，局部地区降水量可能超过600毫米。摄影师：Anil Menon",
-          "link": "https://m.idai.ly/se/f5b78s",
-          "publishedOn": "2026-08-08T09:55:00.000Z",
-          "wordCount": 252,
-          "title": "国际空间站俯瞰巨型台风 - August 8, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/828d3e1d87/d241268c.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/828d3e1d87/d241268c.jpg"
-        },
-        {
-          "id": "idaily-256193",
-          "author": "美国 · 新泽西州",
-          "description": "美国总统 Donald Trump 搭乘空军一号前往私人高尔夫俱乐部度过周末，新泽西州。8月7日，美国劳工统计局公布7月非农就业人数减少2.3万，大幅低于市场预期的增加8万，为2026年2月迄今最差就业表现，从行业结构来看，就业缩减主要集中于政府部门、娱乐酒店业及零售业。美国7月平均时薪环比仅增长0.1%，同样低于市场预期的0.3%。受美国就业数据疲软影响，投资者对美联储加息预期降低，国际现货黄金价格当天上涨2.3%至每盎司4336.11美元，达到6月中旬以来最高水平。摄影师：Kent Nishimura",
-          "link": "https://m.idai.ly/se/7c7gcq",
-          "publishedOn": "2026-08-08T09:55:00.000Z",
-          "wordCount": 252,
-          "title": "美国7月非农就业减少2.3万 - August 8, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/3b025d6540/889874c9.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/3b025d6540/889874c9.jpg"
-        },
-        {
-          "id": "idaily-256192",
-          "author": "韩国 · 首尔",
-          "description": "眺望夜幕下的首尔市区街道。8月7日，韩国气象厅对首都圈地区发布最高级别高温警报，首尔市芦原区当天最高气温达到40.2℃，为该市2018年8月以来首次遭遇40℃以上高温；京畿道河南市录得全韩最高温40.7℃。韩国6月以来夜间气温超过25℃的「热带夜」天数已达到13天，创下历史最高纪录。韩国疾病管理厅通报指出5月中旬以来累计报告中暑病例3089例，其中26人死亡。摄影师：Greg Baker",
-          "link": "https://m.idai.ly/se/525lnX",
-          "publishedOn": "2026-08-08T09:55:00.000Z",
-          "wordCount": 252,
-          "title": "首尔气温突破40℃ - August 8, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/05cdb30701/49d740cb.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/05cdb30701/49d740cb.jpg"
-        },
-        {
-          "id": "idaily-256191",
-          "author": "沙特阿拉伯 · 麦加",
-          "description": "沙特阿拉伯王储 Mohammed bin Salman、土耳其总统 Recep Tayyip Erdogan 与巴基斯坦总理 Shehbaz Sharif 签署共同防御协议，麦加。8月7日，沙特、土耳其和巴基斯坦三国首脑正式签署《麦加共同防务协议》，该协议旨在加强三国的共同防御威慑，核心条款包括任何一国遭到武装袭击，都将被视为对三国的共同攻击。沙特、土耳其和巴基斯坦三国均为逊尼派占多数的穆斯林国家，其中沙特是世界上最大的武器进口国之一，土耳其拥有北约规模第二大的军队，巴基斯坦是唯一拥有核武器的穆斯林国家。摄影师：Turkish Presidency Press Office",
-          "link": "https://m.idai.ly/se/d6fr0a",
-          "publishedOn": "2026-08-08T09:55:00.000Z",
-          "wordCount": 252,
-          "title": "沙土巴签署共同防御协议 - August 8, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/bd85974ddd/ae25089b.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/bd85974ddd/ae25089b.jpg"
-        },
-        {
-          "id": "idaily-256190",
-          "author": "加沙地带 · 加沙",
-          "description": "加沙地带一名手机维修店员正在检查一台破损的手机。8月7日，联合国儿童基金会发布报告指出，2025年10月宣布加沙停火以来已有至少300名加沙儿童因以色列空袭而死亡，平均每天有1名儿童丧生。该机构指出，目前加沙家庭被迫在被毁建筑、瓦砾和堆积的固体废弃物中寻求庇护，生活环境缺乏安全保障，加沙儿童继续面临严重营养不良、疾病、不安全饮用水以及卫生系统受损等问题。摄影师：Saeed M. M. T. Jaras",
-          "link": "https://m.idai.ly/se/62coHf",
-          "publishedOn": "2026-08-08T09:55:00.000Z",
-          "wordCount": 252,
-          "title": "联合国儿童基金会加沙报告 - August 8, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/8d4ebf62aa/36849cf6.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/8d4ebf62aa/36849cf6.jpg"
-        },
-        {
-          "id": "idaily-256189",
-          "author": "日本 · 奈良",
-          "description": "日本奈良东大寺举行佛像除尘仪式。8月7日，奈良东大寺迎来一年一度的佛像除尘日，共有约170名僧侣和信众参与，整个清洁过程耗时约2个小时。东大寺卢舍那佛像始建于公元752年，高14.98米，是日本最大的铜佛像，被指定为日本「国宝」文物。佛教于6世纪从中国和朝鲜半岛传入日本，现为日本第二大宗教，信徒占总人口约46%。摄影师：iDaily Media",
-          "link": "https://m.idai.ly/se/8fam0k",
-          "publishedOn": "2026-08-08T09:55:00.000Z",
-          "wordCount": 252,
-          "title": "奈良东大寺年度佛像除尘 - August 8, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/ceb5de0e27/5d8cae9c.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/ceb5de0e27/5d8cae9c.jpg"
-        },
-        {
-          "id": "idaily-256188",
-          "author": "中国 · 青岛",
-          "description": "中国「科学」号科考船靠泊青岛西海岸码头基地，山东省。8月7日，中国科学院海洋研究所组织的第15次西太平洋科学考察航次顺利结束。本航次为期35天，航程5845海里，期间完成「琅琊」潜浮标组网，搭建起深海立体观测体系；成功捕捉三次台风过境期间海气协同演变全过程；针对正在演变的超强厄尔尼诺现象，采集大批量海水样品开展深入研究。本次考察获取的数据和样品将用于台风精准预报及全球气候变化等研究领域。摄影师：iDaily Media",
-          "link": "https://m.idai.ly/se/d55YnN",
-          "publishedOn": "2026-08-08T09:55:00.000Z",
-          "wordCount": 252,
-          "title": "中科院第15次西太平洋科考收官 - August 8, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/81f14fd99c/19df1231.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/81f14fd99c/19df1231.jpg"
         }
       ]
     },
@@ -5843,6 +5893,66 @@
       "feedUrl": "https://plink.anyfeeder.com/nytimes/dual",
       "siteUrl": "http://nytimes.com",
       "articles": [
+        {
+          "id": "https://cn.nytimes.com/health/20260907/super-agers-social-connections/dual",
+          "author": null,
+          "description": "DANA G. SMITH2026年9月7日\nRalph Rehbock, age 91 and a Holocaust survivor, has a lot on his calendar. On the first Friday of every month, he joins a group of older men at a synagogue outside of Chicago for a meeting of MEL: Men Enjoying Leisure. Every Friday afternoon, he performs classics from the 1930s and 40s with the Meltones, the club’s singing group. And he’s shared his story of escape from Nazi Germany with thousands of school children over the years, through his work with the Illinois Holocaust Museum & Education Center.\n91岁的纳粹大屠杀幸存者拉尔夫·雷博克把日程排得很满。每月第一个星期五，他都会和一群老大爷在芝加哥郊外的一座犹太会堂参加MEL（“享受休闲的男士”首字母缩写）聚会。每周五下午，他与俱乐部演唱组合“梅尔音调”(Meltones)一起表演20世纪30年代和40年代的经典曲目。多年来，通过在伊利诺伊州大屠杀博物馆与教育中心的工作，他还向数千名学童讲述了自己逃离纳粹德国的经历。\nLeigh Steinman, 82, spends much of his time working on art projects with the child…",
+          "link": "https://cn.nytimes.com/health/20260907/super-agers-social-connections/dual",
+          "publishedOn": "2026-09-07T06:06:02.000Z",
+          "wordCount": 1057,
+          "title": "如何拥有“超级老人”的大脑",
+          "imageUrl": "https://static01.nyt.com/images/2025/08/05/multimedia/WELL-SUPERAGERS-UPDATE-wjmv/WELL-SUPERAGERS-UPDATE-wjmv-videoLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/opinion/20260907/yayoi-kusama-art-tokyo/dual",
+          "author": null,
+          "description": "ALEXANDRA MUNROE2026年9月7日\nIn 1988, when I met her, Yayoi Kusama had been living in a psychiatric hospital in Tokyo for over a decade, and was nearly forgotten by the art world in New York. As a graduate student researching postwar Japanese art, I had been invited to curate the opening exhibition at a new institution in New York, the Center for International Contemporary Arts (CICA). I chose Ms. Kusama, with the ambition to wrest her from obscurity.\n1988年，我初次见到草间弥生时，她已在东京的一家精神病院生活了十多年，几乎被纽约艺术界遗忘。当时我是研究战后日本艺术的研究生，受邀为纽约的新机构国际当代艺术中心(CICA)策划开幕展。我选择了草间弥生，一心想把她从默默无闻中拉出来。\nWhen she died last month, 37 years later, Ms. Kusama — in her life and her art — was obscured, paradoxically, by too much fame.\n37年后，她在上个月去世时，草间弥生的人生及艺术反而被盛名所遮蔽，这实属悖论。\nThere has been an outpouring of tributes to her after her dea…",
+          "link": "https://cn.nytimes.com/opinion/20260907/yayoi-kusama-art-tokyo/dual",
+          "publishedOn": "2026-09-07T05:36:02.000Z",
+          "wordCount": 1431,
+          "title": "她从东京的一家精神病院改变了世界",
+          "imageUrl": "https://static01.nyt.com/images/2026/09/07/multimedia/O6Munroe-hqjc/O6Munroe-hqjc-videoLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/technology/20260907/open-source-ai-anthropic-openai/dual",
+          "author": null,
+          "description": "ELI TAN2026年9月7日\nAT&T turned to artificial intelligence models from Anthropic and OpenAI in recent years to help with customer service, call transcription and coding. The A.I. models charged fees and were “closed,” which meant the A.I. companies did not share their underlying code.\n近年来，AT&T转向使用Anthropic和OpenAI的人工智能模型来协助客户服务、通话转录和编程。这些人工智能模型需要付费，而且是“封闭”的，这意味着人工智能公司不会分享其底层代码。\nThis year, AT&T changed course.\n今年，AT&T改变了策略。\nAs A.I. costs skyrocketed, Andy Markus, the company’s chief data and A.I. officer, looked for cheaper alternatives. He landed on “open” models, which can be downloaded and modified without payment or approval.\n随着人工智能成本飙升，该公司首席数据和AI官安迪·马库斯开始寻找便宜的替代方案。他选择了开放模型，这种模型可以无需付费或批准即可下载和修改。\nBy May, open models accounted for 20 percent of AT&T’s A.I. use. That has since risen to 40 perc…",
+          "link": "https://cn.nytimes.com/technology/20260907/open-source-ai-anthropic-openai/dual",
+          "publishedOn": "2026-09-07T04:36:02.000Z",
+          "wordCount": 1159,
+          "title": "美国企业界日渐青睐开放人工智能模型",
+          "imageUrl": "https://static01.nyt.com/images/2026/08/29/business/00OPEN-SOURCE-AI/00OPEN-SOURCE-AI-videoLarge.png"
+        },
+        {
+          "id": "https://cn.nytimes.com/technology/20260907/ai-chips-china-blacklist/dual",
+          "author": null,
+          "description": "ANA SWANSON, 孟建国, TRIPP MICKLE, KEITH BRADSHER2026年9月7日Aivres位于加利福尼亚州弗里蒙特市的研发中心和生产基地。 Minh Connors for The New York Times\nFor years, a sign outside one of Silicon Valley’s many nondescript offices said Inspur, the name of one of China’s most important technology companies.\n在硅谷众多不起眼的办公楼中，有一栋门外多年来一直挂着“Inspur”（浪潮）的招牌——这是中国最重要的科技企业之一的名字。\nBut in March 2023, the United States added Inspur Group to the so-called entity list, a blacklist with more than 3,000 companies that have been restricted from doing business with the United States because they are considered a security risk.\n但在2023年3月，美国将浪潮集团列入所谓实体清单。这是一份包含3000多家企业的黑名单，被列入其中的企业被认为存在安全风险，因此在与美国开展业务方面受到限制。\nNot long after, the Inspur sign was changed to Aivres, the name of Inspur’s new U.S. subsidiary. The subsidiary continued with its Chinese p…",
+          "link": "https://cn.nytimes.com/technology/20260907/ai-chips-china-blacklist/dual",
+          "publishedOn": "2026-09-07T02:36:02.000Z",
+          "wordCount": 1812,
+          "title": "一家被列入黑名单的中国科技巨头如何继续购买美国芯片",
+          "imageUrl": "https://static01.nyt.com/images/2026/09/01/multimedia/00biz-china-ai-smuggle-Aivres-lvjb/00biz-china-ai-smuggle-Aivres-lvjb-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/world/20260907/germany-afd-election-saxony-anhalt/dual",
+          "author": null,
+          "description": "JIM TANKERSLEY, CHRISTOPHER F. SCHUETZE, ASHLEY SOUTHALL2026年9月7日极右翼政党德国选择党的领衔候选人乌尔里希·齐格蒙德周日与萨克森-安哈尔特州的同事们在一起。 Ronny Hartmann/Agence France-Presse — Getty Images\nThe Alternative for Germany party dominated a crucial state election on Sunday, according to near-final results, but fell short of the absolute majority needed to become the first far-right party to govern part of the country since the Nazi era.\n根据接近最终的结果，德国选择党在周日一场关键的州选举中占据主导地位，但未能拿下所需的绝对多数，因而不能成为自纳粹时代以来首个在德国部分地区执政的极右翼政党。\nIf those results hold, the AfD, as the party is known by its German initials, could still assume power in the eastern state of Saxony-Anhalt in the coming weeks, depending on the negotiations among rival parties that have vowed not to support an AfD government.\n如果这些结果保持到最后，该党（德语缩写为AfD）仍可能在未来几周内在东部州萨克森-安哈尔特掌权，但这取…",
+          "link": "https://cn.nytimes.com/world/20260907/germany-afd-election-saxony-anhalt/dual",
+          "publishedOn": "2026-09-07T02:06:02.000Z",
+          "wordCount": 1207,
+          "title": "德国极右翼政党在地方选举中取得关键胜利",
+          "imageUrl": "https://static01.nyt.com/images/2026/09/06/multimedia/06-germany-election-ledeall-fkhc/06-germany-election-ledeall-fkhc-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/china/20260907/chinas-new-graduates-ai-challenges/dual",
+          "author": null,
+          "description": "YAN ZHUANG2026年9月7日今年4月，中国阜阳的一场招聘会上挤满了前来求职的大学生。 Agence France-Presse — Getty Images\nA few months out from graduating with a master’s degree in urban planning, Jin Shangyu is watching artificial intelligence upend the industry she is trying to enter.\n距离硕士毕业还有几个月，学习城市规划专业的金尚宇（音）正眼睁睁地看着人工智能颠覆她试图进入的行业。\nJob boards are filled with roles that require A.I. expertise, while listings for traditional roles seem to be dwindling. Much of the work involved in the early stage of a design project, which used to involve several people, can now be executed with a few clicks of a mouse.\n招聘网站上充斥着需要人工智能专长的职位，而传统岗位的招聘信息似乎正在减少。设计项目前期阶段的大量工作过去需要好几个人完成，现在点几下鼠标就能搞定。\nSince getting her degree from the University of Hong Kong, Ms. Jin, 26, who is from northern China, has applied for about 150 internships and entry-lev…",
+          "link": "https://cn.nytimes.com/china/20260907/chinas-new-graduates-ai-challenges/dual",
+          "publishedOn": "2026-09-07T00:06:02.000Z",
+          "wordCount": 1472,
+          "title": "中国应届毕业生求职难：就业市场饱和叠加人工智能冲击",
+          "imageUrl": "https://static01.nyt.com/images/2026/09/04/multimedia/04int-china-youth-unemployment-01-wkqv/04int-china-youth-unemployment-01-wkqv-articleLarge.jpg"
+        },
         {
           "id": "https://cn.nytimes.com/obits/20260904/gloria-steinem-dead/dual",
           "author": null,
@@ -7160,6 +7270,36 @@
       "feedUrl": "https://plink.anyfeeder.com/weixin/ibookreview",
       "siteUrl": "http://weixin.sogou.com/weixin?type=1&s_from=input&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A",
       "articles": [
+        {
+          "id": "f4965b2448d88cd31798a15a58b9fc98",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E6%84%BF%E5%BC%80%E9%A3%8E%E6%B0%94%E4%B8%8D%E4%B8%BA%E5%B8%88%EF%BC%9A%E5%BC%9F%E5%AD%90%E4%B8%8E%E5%8A%A9%E6%89%8B%E7%AC%94%E4%B8%8B%E7%9A%84%E9%99%88%E5%AF%85%E6%81%AA",
+          "publishedOn": "2026-09-07T02:29:00.000Z",
+          "wordCount": 296,
+          "title": "愿开风气不为师：弟子与助手笔下的陈寅恪",
+          "imageUrl": null
+        },
+        {
+          "id": "f608a69624941bf8c6d038f350beee56",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+8%E6%9C%88%EF%BC%8C%E6%88%91%E4%BB%AC%E9%80%89%E5%87%BA%E4%BA%8620%E6%9C%AC%E5%A5%BD%E4%B9%A6",
+          "publishedOn": "2026-09-07T02:29:00.000Z",
+          "wordCount": 257,
+          "title": "8月，我们选出了20本好书",
+          "imageUrl": null
+        },
+        {
+          "id": "35eea30f1376de5f23c9b0132e505f98",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E5%B9%B6%E9%9D%9E%E6%89%80%E6%9C%89%E4%BA%8B%E7%89%A9%E9%83%BD%E5%AD%98%E5%9C%A8%E9%80%82%E5%90%88%E5%AE%83%E7%9A%84%E8%A1%A8%E8%BE%BE",
+          "publishedOn": "2026-09-07T02:29:00.000Z",
+          "wordCount": 293,
+          "title": "并非所有事物都存在适合它的表达",
+          "imageUrl": null
+        },
         {
           "id": "5c9cb3a722b3c6d0d3821a9aa1e62de3",
           "author": null,
