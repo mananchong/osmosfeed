@@ -34,16 +34,6 @@
           "wordCount": 7452,
           "title": "R Weekly 2026-W35 Visualization Creativity, Futurize, Tricky Async",
           "imageUrl": "https://rweekly.org/public/facebook.png"
-        },
-        {
-          "id": "https://rweekly.org/2026-W33.html",
-          "author": null,
-          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Sam Parmar, with help from the R Weekly team members and contributors.\nHighlight\nMaking R Submissions Reviewable for FDA\nWindows ARM64 comes to R-universe\nThe Journey of {nycOpenData}: From Classroom to Community\nInsights\nR GUI Comparison Update\nIs SAS Still Used, and Is It Worth Keeping?\nWindows ARM64 comes to R-universe\nposit::glimpse() Newsletter – August 2026\nShiny updates: R 1.14, Python 1.7, bslib 0.12\n\nQuarto 1.10\n\nIs R Accepted by the FDA? The State of R-Based Submissions\nR in the Real World\nNZ and US petrol (‘gasoline’) and diesel prices by @ellis2013nz\nAnalyzing Financial Trends: Kalman Filtering for Gold vs Bitcoin\nR in Organizations\nMaking R Submissions Reviewabl…",
-          "link": "https://rweekly.org/2026-W33.html",
-          "publishedOn": "2026-08-10T00:00:00.000Z",
-          "wordCount": 8926,
-          "title": "R Weekly 2026-W33 FDA Submissions, Windows ARM64, nycOpenData Journey",
-          "imageUrl": "https://rweekly.org/public/facebook.png"
         }
       ]
     },
@@ -64,6 +54,36 @@
       "feedUrl": "https://www.nationalreview.com/feed/",
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
+        {
+          "id": "https://www.nationalreview.com/?p=2031092",
+          "author": "Ed Whelan",
+          "description": "The voter referendum would allow abortion up to birth, abolish parental consent, and more.",
+          "link": "https://www.nationalreview.com/2026/09/virginias-amendment-1-is-extreme-and-deceptive/",
+          "publishedOn": "2026-09-08T10:30:08.000Z",
+          "wordCount": null,
+          "title": "Virginia’s Amendment 1 Is Extreme and Deceptive",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=2030180",
+          "author": "Charles C. W. Cooke",
+          "description": "Time cannot heal, in this case.",
+          "link": "https://www.nationalreview.com/2026/09/look-back-in-anger-at-9-11/",
+          "publishedOn": "2026-09-08T10:30:06.000Z",
+          "wordCount": null,
+          "title": "Look Back in Anger at 9/11",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=2032579",
+          "author": "John Fund",
+          "description": "Economic growth remains the long-term answer to the rising concerns that people have about paying their bills.",
+          "link": "https://www.nationalreview.com/2026/09/is-america-slowly-becoming-a-transfer-nation/",
+          "publishedOn": "2026-09-07T22:42:32.000Z",
+          "wordCount": null,
+          "title": "Is America Slowly Becoming a ‘Transfer’ Nation?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.nationalreview.com/?p=2031141",
           "author": "Andrew C. McCarthy",
@@ -1853,56 +1873,6 @@
           "wordCount": 21926,
           "title": "American Birthday Accounts Can Help Solve Our Coming Population Problem",
           "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2025/07/baby-birth-decline.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=2013394",
-          "author": "Becket Adams",
-          "description": "Zero to hero to zero.",
-          "link": "https://www.nationalreview.com/2026/08/media-and-academia-increasingly-irrelevant-increasingly-distrusted/",
-          "publishedOn": "2026-08-09T10:30:44.000Z",
-          "wordCount": 6424,
-          "title": "Media and Academia: Increasingly Irrelevant, Increasingly Distrusted",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/08/arday.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=2013319",
-          "author": "Ahmad Sharawi and Bridget Toomey",
-          "description": "The Islamic Republic’s preparation for renewed regional escalation is making it less vulnerable to outside attacks.",
-          "link": "https://www.nationalreview.com/2026/08/iran-is-rewiring-its-proxy-network/",
-          "publishedOn": "2026-08-09T10:30:42.000Z",
-          "wordCount": 6951,
-          "title": "Iran Is Rewiring Its Proxy Network",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/08/houthis.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=2011725",
-          "author": "Bradley A. Smith",
-          "description": "That’s why it must be defended, even if doing so is unpopular.",
-          "link": "https://www.nationalreview.com/2026/08/campaign-speech-lies-at-the-heart-of-the-first-amendment/",
-          "publishedOn": "2026-08-09T10:30:39.000Z",
-          "wordCount": 15459,
-          "title": "Campaign Speech Lies at the Heart of the First Amendment",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/08/speech.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=2011968",
-          "author": "Chelsea Follett",
-          "description": "The Trojan War was, according to one ancient account, a population-control measure by Zeus.",
-          "link": "https://www.nationalreview.com/2026/08/the-overpopulation-panic-dates-back-to-odyssey-times/",
-          "publishedOn": "2026-08-09T10:30:26.000Z",
-          "wordCount": 6242,
-          "title": "The Overpopulation Panic Dates Back to <i>Odyssey</i> Times",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/08/greece.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=2012065",
-          "author": "James Lileks",
-          "description": "The Moroccan surge into Ceuta raised a few points worth considering.",
-          "link": "https://www.nationalreview.com/2026/08/misadventures-in-migration/",
-          "publishedOn": "2026-08-09T10:30:05.000Z",
-          "wordCount": 6279,
-          "title": "Misadventures in Migration",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/07/spain-migrant-crisis-18.jpg?fit=2057%2C1200&ssl=1"
         }
       ]
     },
@@ -1911,6 +1881,56 @@
       "feedUrl": "https://sspai.com/feed",
       "siteUrl": "https://sspai.com",
       "articles": [
+        {
+          "id": "https://sspai.com/prime/story/sidecar-optimizations",
+          "author": "Nnnobel",
+          "description": "相较于 Jobs 时代令人惊叹的「iPhone 时刻」，过去十五年的 Apple 或许少了一些足以重新定义一个品类的震撼——但围绕「体验」本身展开的技术革新却从未停止。查看全文\n本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
+          "link": "https://sspai.com/prime/story/sidecar-optimizations",
+          "publishedOn": "2026-09-08T10:14:30.000Z",
+          "wordCount": 741,
+          "title": "Apple「随航」的无感体验里，藏着多少流畅的秘密？",
+          "imageUrl": "https://rssfile.sspai.com/2026/08/10/8a0b9cdf3704f9f152e501d62e7b6109.png?imageMogr2/auto-orient/ignore-error/1"
+        },
+        {
+          "id": "https://sspai.com/post/114327",
+          "author": "Matrix机器人",
+          "description": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文",
+          "link": "https://sspai.com/post/114327",
+          "publishedOn": "2026-09-08T09:00:00.000Z",
+          "wordCount": 500,
+          "title": "社区速递 157 | NuPhy 全铝磁轴键盘与派友拒绝算法的「反投喂」信息源",
+          "imageUrl": "https://rssfile.sspai.com/2026/6/30/article/831096df-1239-9d40-8cb1-c42319e8f9f3.png?imageMogr2/auto-orient/ignore-error/1"
+        },
+        {
+          "id": "https://sspai.com/post/114312",
+          "author": "克莱德",
+          "description": "Where's everyone going? Bingo?查看全文",
+          "link": "https://sspai.com/post/114312",
+          "publishedOn": "2026-09-08T07:00:00.000Z",
+          "wordCount": 278,
+          "title": "一日一技｜我的 Windows 11 头像会动，你也可以",
+          "imageUrl": "https://rssfile.sspai.com/2026/9/8/article/9c3fdd43-df21-0e62-3942-b215ac5dd500.gif"
+        },
+        {
+          "id": "https://sspai.com/post/113299",
+          "author": "SIMON_",
+          "description": "浪还在继续往岸边来，天色也一点一点暗下去。就让奄美大岛和我的这个夏天，停留在这里吧。查看全文",
+          "link": "https://sspai.com/post/113299",
+          "publishedOn": "2026-09-08T03:06:21.000Z",
+          "wordCount": 234,
+          "title": "日本浮生录 11｜越过九州，走进奄美大岛的山海夏日",
+          "imageUrl": "https://rssfile.sspai.com/2026/08/31/d2e7fecfc131510783e15f5a36c6072e.jpg?imageMogr2/auto-orient/ignore-error/1"
+        },
+        {
+          "id": "https://sspai.com/post/114307",
+          "author": "少数派编辑部",
+          "description": "少数派的近期动态全新iPhone发布在即，来与少数派一起看Apple发布会口袋先知新版本1.3.3上线，你可以自定义任何你想展示的屏幕效果。了解更多能让AI助手通过自然语言指令直接与您的Quote/0 ...查看全文",
+          "link": "https://sspai.com/post/114307",
+          "publishedOn": "2026-09-08T00:07:33.000Z",
+          "wordCount": 799,
+          "title": "派早报：华为举办 HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品发布会等",
+          "imageUrl": "https://rssfile.sspai.com/2026/9/8/article/16c77455-0591-55d0-581c-f37e3305ae51.png?imageMogr2/auto-orient/ignore-error/1"
+        },
         {
           "id": "https://sspai.com/post/114288",
           "author": "少数派编辑部",
@@ -2960,16 +2980,6 @@
           "wordCount": 477,
           "title": "我与Pixel 10 Pro的生活：写在Pixel 11系列手机发布前夕",
           "imageUrl": "https://rssfile.sspai.com/2026/08/08/1641ddea9f1e84cfead5639ba84fc538.JPG?imageMogr2/auto-orient/ignore-error/1"
-        },
-        {
-          "id": "https://sspai.com/post/113268",
-          "author": "少数派编辑部",
-          "description": "央视曝光酒店评级标识消费陷阱\n《时代》网站展示仅 AI 可见广告\nEdge 浏览器将禁用 Manifest V2 扩展\n油价上涨致美国混动车需求激增\n廉价手机壳存在毒性隐患\n美国调查中国 AI 企业使用海外英伟达芯片\n看看就行的小道消息\n少数派的近期动态\n你可能错过的好文章\n查看全文",
-          "link": "https://sspai.com/post/113268",
-          "publishedOn": "2026-08-09T23:08:03.000Z",
-          "wordCount": 399,
-          "title": "派早报：央视曝光酒店评级标识消费陷阱",
-          "imageUrl": "https://rssfile.sspai.com/8/10/2026/article/462e87f7-ad38-64f2-c557-bc7083ed588f.png?imageMogr2/auto-orient/ignore-error/1"
         }
       ]
     },
@@ -2978,6 +2988,104 @@
       "feedUrl": "https://plink.anyfeeder.com/idaily/today",
       "siteUrl": "https://idai.ly",
       "articles": [
+        {
+          "id": "idaily-257913",
+          "author": "南极洲",
+          "description": "NASA 公布一张「陆地卫星8号」地球观测卫星拍摄的南极洲桑德斯岛「迈克尔山」（Mount Michael）俯瞰照片，火山口的熔岩湖正处于活跃状态。「迈克尔山」是一座位于南极洲的活火山，海拔高度为843米，火山口存在一个宽度达110米的熔岩湖，是目前地球上仅有的8个永久性熔岩湖之一。卫星监测数据显示这座活火山自2014年起一直处于低强度活动状态，火山口持续释放出蒸汽羽流和二氧化硫气体。摄影师：NASA",
+          "link": "https://m.idai.ly/se/1a74vN",
+          "publishedOn": "2026-09-08T08:49:00.000Z",
+          "wordCount": 255,
+          "title": "南极洲火山熔岩湖 - September 8, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/9253b00bf8/c892175e.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/9253b00bf8/c892175e.jpg"
+        },
+        {
+          "id": "idaily-257912",
+          "author": "马来西亚 · 吉隆坡",
+          "description": "马来西亚首都吉隆坡市中心被烟霾笼罩。9月8日，吉隆坡空气质量指数（AQI）录得179，达到「不健康」级别，成为当天全球空气污染最严重的主要城市之一。马来西亚本轮空气污染源为来自印尼的跨境山火烟霾，该国目前共有35个地区的空气污染指数处于「不健康」水平，受影响最严重的砂拉越州已要求中小学停课5天，并暂停所有非必要户外活动。摄影师：Fazry Ismail",
+          "link": "https://m.idai.ly/se/b0ak7M",
+          "publishedOn": "2026-09-08T07:58:00.000Z",
+          "wordCount": 255,
+          "title": "印尼山火烟霾影响邻国 - September 8, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/f18a58c426/22e0ac06.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/f18a58c426/22e0ac06.jpg"
+        },
+        {
+          "id": "idaily-257911",
+          "author": "乌克兰 · 基辅",
+          "description": "乌克兰总统 Volodymyr Zelensky 会见美国总统特使 Steve Witkoff 和美国总统女婿 Jared Kushner，基辅。9月6日，美国总统特使自俄乌冲突爆发以来首次访问乌克兰，与乌克兰总统就结束战争等议题举行约3小时闭门会谈。双方会后均表示本次会谈取得「实质性进展」。乌克兰总统 Zelensky 称俄乌战争将持续至冬季，敦促美国和盟友向乌军追加提供防空武器和能源支持。摄影师：Ukrainian Presidential Press Service",
+          "link": "https://m.idai.ly/se/113wob",
+          "publishedOn": "2026-09-08T06:57:00.000Z",
+          "wordCount": 255,
+          "title": "美国总统特使访问乌克兰 - September 8, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/61c9683f39/3bea3da7.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/61c9683f39/3bea3da7.jpg"
+        },
+        {
+          "id": "idaily-257909",
+          "author": "西班牙 · 桑坦德",
+          "description": "西班牙国王费利佩六世出席「桑坦德灯塔博物馆」（Faro Santander）开幕仪式，桑坦德。9月7日，西班牙国王费利佩六世为桑坦德灯塔博物馆揭幕剪彩。这座博物馆由西班牙桑坦德银行基金会创立，主要展出该银行收藏的超过1000件艺术品，时间跨度从文艺复兴时期至当代，涵盖委拉斯开兹、提香、鲁本斯、格列柯、戈雅、毕加索、索罗拉等重要艺术家的画作，开幕首展持续至2027年1月10日。摄影师：Nacho Cubero",
+          "link": "https://m.idai.ly/se/1f0GGH",
+          "publishedOn": "2026-09-08T06:55:00.000Z",
+          "wordCount": 255,
+          "title": "西班牙桑坦德灯塔博物馆揭幕 - September 8, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/e2ce4074d6/029d9e5d.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/e2ce4074d6/029d9e5d.jpg"
+        },
+        {
+          "id": "idaily-257908",
+          "author": "阿富汗 · 坎大哈",
+          "description": "阿富汗中小学迎来新学期，女童们在小学教室里上课，坎大哈。9月6日，联合国秘书长通过发言人发表声明，对阿富汗塔利班继续限制女性教育深表关切。声明指出，阿富汗当局限制女性参与公共生活、教育和许多工作领域的行为侵犯了她们的基本权利，是阻碍阿富汗经济发展、稳定以及重新融入国际社会的一个关键障碍。联合国秘书长再次敦促塔利班解除对妇女和女童施加的所有限制，并维护她们在阿富汗社会各方面充分、平等和切实参与的权利。摄影师：Sanaullah Seiam",
+          "link": "https://m.idai.ly/se/690YGH",
+          "publishedOn": "2026-09-08T06:53:00.000Z",
+          "wordCount": 255,
+          "title": "阿富汗学校开启新学期 - September 8, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/079b015414/1e8fcf54.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/079b015414/1e8fcf54.jpg"
+        },
+        {
+          "id": "idaily-257907",
+          "author": "俄罗斯 · 滨海边疆区",
+          "description": "朝鲜货运卡车驶过俄朝边境「雅科夫·诺维琴科‌大桥」‌。9月7日，俄朝首座横跨图们江的跨境公路桥「雅科夫·诺维琴科大桥」正式竣工，朝鲜总理朴泰成与俄罗斯总理 Mikhail Mishustin 当天以视频连线方式见证竣工仪式。这座跨境大桥连接朝鲜罗先和俄罗斯哈桑，全长近5公里，桥梁主体约1公里，采用双向两车道，初期投入运营预计每日运输量将达到300辆车和3000人次旅客。摄影师：Dmitry Ignatenko",
+          "link": "https://m.idai.ly/se/442z0j",
+          "publishedOn": "2026-09-08T06:51:00.000Z",
+          "wordCount": 255,
+          "title": "俄朝首座跨境公路桥竣工 - September 8, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/44d7d040c4/0e0fa5ef.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/44d7d040c4/0e0fa5ef.jpg"
+        },
+        {
+          "id": "idaily-257906",
+          "author": "英国 · 爱丁堡",
+          "description": "英国爱丁堡动物园，一只出生1个月的侏儒河马幼崽正在探索户外活动区。9月7日，爱丁堡动物园新生侏儒河马幼崽「Piper」首次在户外活动区与公众见面。这只雌性侏儒河马幼崽出生于7月31日，是园内侏儒河马「Otto」和「Gloria」诞下的第3只幼崽。侏儒河马原产于非洲西部热带雨林和沼泽地区，受栖息地减少等因素影响，野外现存数量不足2500只，被列为濒危物种。摄影师：RZSS",
+          "link": "https://m.idai.ly/se/ee18Dp",
+          "publishedOn": "2026-09-08T06:49:00.000Z",
+          "wordCount": 255,
+          "title": "爱丁堡动物园新生侏儒河马 - September 8, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/52e5e32e15/10162e0e.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/52e5e32e15/10162e0e.jpg"
+        },
         {
           "id": "idaily-257859",
           "author": "印度尼西亚 · 楠榜省",
@@ -5814,6 +5922,66 @@
       "siteUrl": "http://nytimes.com",
       "articles": [
         {
+          "id": "https://cn.nytimes.com/asia-pacific/20260908/indonesia-jakarta-landfill-fire-microplastics/dual",
+          "author": null,
+          "description": "黄瑞黎, PABLO ROBLES2026年9月8日消防员努力控制坦格朗贾蒂瓦林因垃圾场大火时，燃烧的垃圾升起烟雾。 \nThe blaze at the landfill, the Jatiwaringin waste site, burned for 10 days in July. It was unusual for its sheer size and duration, but that kind of pollution is endemic in Indonesia: people burn trash every day.\n7月，位于贾蒂瓦林因的垃圾填埋场发生大火，持续燃烧了10天。就其规模和持续时间而言，这场火灾不同寻常，但这类污染在印度尼西亚普遍存在：人们每天都在焚烧垃圾。\n“We are breathing microplastics,” said Muhammad Reza Cordova, a senior scientist at Indonesia’s National Research and Innovation Agency in Jakarta.\n“我们正在呼吸微塑料，”雅加达印度尼西亚国家研究与创新署高级科学家穆罕默德·礼萨·科尔多瓦说。\nThe implications could be dire, and spill over the country’s borders.\n其影响可能十分严重，并会蔓延到该国境外。\nAfter firefighters brought the flames at the landfill under control, hundreds of people in the surrounding area were treated for acute respiratory infections, th…",
+          "link": "https://cn.nytimes.com/asia-pacific/20260908/indonesia-jakarta-landfill-fire-microplastics/dual",
+          "publishedOn": "2026-09-08T06:36:02.000Z",
+          "wordCount": 1601,
+          "title": "印度尼西亚的微塑料危机",
+          "imageUrl": "https://static01.nyt.com/images/2026/09/08/multimedia/c08indonesia-microplastics-a-02/c08indonesia-microplastics-a-02-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/asia-pacific/20260908/uss-abraham-lincoln-thailand-pattaya/dual",
+          "author": null,
+          "description": "HANNAH BEECH, MUKTITA SUHARTONO2026年9月8日 Valeria Mongelli for The New York Times\nAfter 286 days at sea, the sailors and Marines of the warship Abraham Lincoln savored the pleasures of Pattaya, Thailand. Their indulgences were not all decadent.\n在海上航行286天后，亚伯拉罕·林肯号上的水兵和海军陆战队员尽情享受泰国芭堤雅，但他们的享受并非全是放纵。\nThey ate Double Super Cheeseburgers at Burger King. They shopped for LeBron James jerseys at the mall. They sipped from fresh coconuts at the beach, their backs to the water where they had spent the last nine-plus months.\n他们在汉堡王吃双层超级芝士汉堡，在购物中心选购勒布朗·詹姆斯球衣，在海滩上啜饮新鲜椰子，背对着他们待了九个多月的大海。\nAnd they danced with scantily clad women at nightclubs, the pounding music seemingly even louder than the aural assault of an aircraft carrier at war.\n他们还在夜总会与衣着暴露的女子跳舞，震耳欲聋的音乐似乎比战时航母的噪音冲击还要猛烈。\nPattaya is used to welcomi…",
+          "link": "https://cn.nytimes.com/asia-pacific/20260908/uss-abraham-lincoln-thailand-pattaya/dual",
+          "publishedOn": "2026-09-08T05:36:02.000Z",
+          "wordCount": 1458,
+          "title": "海上航行286天后，5000名美国大兵的“芭提雅假期”",
+          "imageUrl": "https://static01.nyt.com/images/2026/09/05/multimedia/05int-thailand-lincoln-scene-mgfq/05int-thailand-lincoln-scene-mgfq-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/world/20260908/afd-germany-europe-far-right-saxony-anhalt/dual",
+          "author": null,
+          "description": "MARK LANDLER2026年9月8日周日投票结束后，德国极右翼政党德国选择党首席候选人乌尔里希·西格蒙德（中）在庆祝。 Matthias Schrader/Associated Press\nWhen a far-right party won a landslide victory on Sunday in a small state in eastern Germany, its reverberations could be felt from Downing Street in London to the Élysée Palace in Paris. Rarely has the result of a regional election been viewed with such portent for the fate of democracy in Europe.\n周日，当一个极右翼政党在德国东部一个小州赢得压倒性胜利时，其冲击波从伦敦唐宁街一直回荡到巴黎爱丽舍宫。一次地方选举的结果很少会被如此视为关乎欧洲民主命运的预兆。\nThis wasn’t just any European country; it was Germany, a country that has relentlessly isolated far-right political parties since the calamity of Nazism. And it wasn’t just a strange outlier, but rather the latest step in a steady, decade-long march that has brought the far right ever closer to the fulcrum of power in E…",
+          "link": "https://cn.nytimes.com/world/20260908/afd-germany-europe-far-right-saxony-anhalt/dual",
+          "publishedOn": "2026-09-08T04:06:02.000Z",
+          "wordCount": 1534,
+          "title": "欧洲政治地震：德国极右翼政党州选举胜利预示着什么？",
+          "imageUrl": "https://static01.nyt.com/images/2026/09/06/multimedia/06int-europe-far-right-hmvt/06int-europe-far-right-hmvt-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/world/20260908/peru-trump-china-economy/dual",
+          "author": null,
+          "description": "GENEVIEVE GLATSKY, SARA WAYRA2026年9月8日位于秘鲁钱凯、由中国运营的这座庞大的新货运港成为秘鲁与华盛顿之间紧张关系的根源，但秘鲁人认为它对经济至关重要。 Sara Wayra for The New York Times\nPeru’s ambassador in Washington, Luis Miguel Castilla, received a stern phone call in 2015 from the State Department, after U.S. officials learned that a Chinese firm would finance a sprawling new Pacific Coast port project.\n2015年，美国官员获悉一家中国企业将资助太平洋沿岸一个规模庞大的新港口项目，随后，秘鲁驻华盛顿大使路易斯·米格尔·卡斯蒂利亚接到美国国务院的一通严厉电话。\nWhy, they asked, was Peru handing Beijing a strategic foothold in South America?\n他们质问，秘鲁为何要将南美洲的一个战略据点拱手让给北京？\nMr. Castilla’s answer was blunt: Western investors had already passed.\n卡斯蒂利亚的回答很直白：西方投资者早已放弃了这个项目。\nThe port’s Peruvian private sector promoters “came to knock on doors here and in Europe, and no one opened the door,” Mr. Castilla said. “So, any space left be…",
+          "link": "https://cn.nytimes.com/world/20260908/peru-trump-china-economy/dual",
+          "publishedOn": "2026-09-08T03:36:03.000Z",
+          "wordCount": 1621,
+          "title": "华盛顿希望南美各国疏远中国，秘鲁证明这绝非易事",
+          "imageUrl": "https://static01.nyt.com/images/2026/09/07/multimedia/07int-peru-china-01-cblq/07int-peru-china-01-cblq-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/world/20260908/ukraine-russia-witkoff-kushner-trump/dual",
+          "author": null,
+          "description": "CASSANDRA VINOGRAD, ANDREW E. KRAMER2026年9月8日美国特使史蒂夫·维特科夫（中）和贾里德·库什纳（右）周日在乌克兰基辅。库什纳透露，在当天一系列会谈中，他们向乌克兰总统泽连斯基提出了“新想法”。 Francisco Seco/Associated Press\nThe Americans arrived on a train that the Ukrainians called the “peace express.” Yet nothing about the process of ending the war with Russia has been fast or direct, and there is no sign that will change anytime soon.\n美国人是乘着一列乌克兰人称为“和平快车”的火车抵达的。然而，结束这场战争的过程既不快速也不直接，且没有迹象表明这一状况会在短期内改变。\nThe U.S. envoys Steve Witkoff and Jared Kushner went to Ukraine on Sunday fresh off a trip to Moscow bearing what President Trump said was a proposal to end nearly five years of war.\n美国特使史蒂夫·威特科夫和贾里德·库什纳周日抵达乌克兰，他们此前刚刚结束对莫斯科的访问，此行带着特朗普总统所说的一项旨在结束长达近五年的战争的提议。\nBut the Trump administration itself, consumed by its war with Iran, had allowed the peace process to enter…",
+          "link": "https://cn.nytimes.com/world/20260908/ukraine-russia-witkoff-kushner-trump/dual",
+          "publishedOn": "2026-09-08T02:36:02.000Z",
+          "wordCount": 1017,
+          "title": "美国特使乘“和平快车”抵达基辅，但战争依然看不到终点",
+          "imageUrl": "https://static01.nyt.com/images/2026/09/07/multimedia/07int-ukraine-russia-assess-hkvf/07int-ukraine-russia-assess-hkvf-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/china/20260908/china-social-media-pessimism/dual",
+          "author": null,
+          "description": "袁莉2026年9月8日 Dongyan Xu\nOne of the hottest videos on the popular Chinese site Bilibili in the past two weeks is a quasi-serious guide on how to survive as a homeless person.\n过去两周，中国热门网站哔哩哔哩上最火的视频之一是一份半开玩笑半认真的流浪汉生存指南。\nSleep near garbage bins where “supplies” are replenished, use cardboard to insulate yourself from the damp and avoid surveillance cameras, the video suggested. It was viewed more than six million times and was briefly ranked the site’s No. 2 video.\n视频建议睡在能得到“物资”补充的垃圾桶附近，用纸板隔绝潮气，并避开监控摄像头。该视频的观看次数超过600万次，并一度跃居该网站热门视频的第二名。\nViewers jokingly called it “Youth Study,” the name of the Communist Youth League’s political education program, and “a required course for young people in 2026.”\n观众戏称其为“青年大学习”（共青团政治教育项目的名称），并称其为“2026年年轻人的必修课”。\nThe Chinese Communist Party has spent years trying t…",
+          "link": "https://cn.nytimes.com/china/20260908/china-social-media-pessimism/dual",
+          "publishedOn": "2026-09-08T00:36:03.000Z",
+          "wordCount": 1366,
+          "title": "悲观、沮丧与黑色幽默：中国社交媒体上的“负能量”",
+          "imageUrl": "https://static01.nyt.com/images/2026/09/02/business/00newworld-shame/00newworld-shame-articleLarge.jpg"
+        },
+        {
           "id": "https://cn.nytimes.com/health/20260907/super-agers-social-connections/dual",
           "author": null,
           "description": "DANA G. SMITH2026年9月7日\nRalph Rehbock, age 91 and a Holocaust survivor, has a lot on his calendar. On the first Friday of every month, he joins a group of older men at a synagogue outside of Chicago for a meeting of MEL: Men Enjoying Leisure. Every Friday afternoon, he performs classics from the 1930s and 40s with the Meltones, the club’s singing group. And he’s shared his story of escape from Nazi Germany with thousands of school children over the years, through his work with the Illinois Holocaust Museum & Education Center.\n91岁的纳粹大屠杀幸存者拉尔夫·雷博克把日程排得很满。每月第一个星期五，他都会和一群老大爷在芝加哥郊外的一座犹太会堂参加MEL（“享受休闲的男士”首字母缩写）聚会。每周五下午，他与俱乐部演唱组合“梅尔音调”(Meltones)一起表演20世纪30年代和40年代的经典曲目。多年来，通过在伊利诺伊州大屠杀博物馆与教育中心的工作，他还向数千名学童讲述了自己逃离纳粹德国的经历。\nLeigh Steinman, 82, spends much of his time working on art projects with the child…",
@@ -7190,6 +7358,36 @@
       "feedUrl": "https://plink.anyfeeder.com/weixin/ibookreview",
       "siteUrl": "http://weixin.sogou.com/weixin?type=1&s_from=input&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A",
       "articles": [
+        {
+          "id": "9e725c6a05c7095a721aba9b08a510da",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E4%BA%BA%E4%BA%BA%E8%BF%BD%E6%B1%82%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A%EF%BC%8C%E4%BD%86%E4%B8%BA%E4%BD%95%E6%88%91%E4%BB%AC%E8%B6%8A%E6%9D%A5%E8%B6%8A%E7%96%B2%E6%83%AB%EF%BC%9F%EF%BD%9C%E7%8E%8B%E5%B0%8F%E4%BC%9F%E3%80%8A%E9%87%8D%E6%96%B0%E5%9B%9E%E5%88%B0%E7%94%9F%E6%B4%BB%E3%80%8B%E5%AF%B9%E8%B0%88%E9%A2%84%E5%91%8A",
+          "publishedOn": "2026-09-08T02:00:00.000Z",
+          "wordCount": 260,
+          "title": "人人追求情绪稳定，但为何我们越来越疲惫？｜王小伟《重新回到生活》对谈预告",
+          "imageUrl": null
+        },
+        {
+          "id": "8a0e26ccc2bbf3c083a514bdb29c4336",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E6%8D%A1%E4%BA%86%E4%B8%A4%E5%8F%AA%E5%B0%8F%E5%A5%B6%E7%8C%AB%EF%BC%8C%E5%AE%B6%E9%87%8C%E7%9A%84%E7%8B%97%E4%B8%80%E5%A4%9C%E4%B9%8B%E9%97%B4%E9%95%BF%E5%A4%A7%E6%87%82%E4%BA%8B%E4%BA%86",
+          "publishedOn": "2026-09-08T02:00:00.000Z",
+          "wordCount": 300,
+          "title": "捡了两只小奶猫，家里的狗一夜之间长大懂事了",
+          "imageUrl": null
+        },
+        {
+          "id": "2fb29e693060ace0fff945775d08690b",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E7%BB%98%E6%9C%AC%EF%BC%8C%E5%A6%82%E4%BD%95%E7%94%BB%E5%87%BA%E4%B8%9C%E6%96%B9%E6%B0%94%E9%9F%B5%EF%BC%9F",
+          "publishedOn": "2026-09-08T02:00:00.000Z",
+          "wordCount": 264,
+          "title": "绘本，如何画出东方气韵？",
+          "imageUrl": null
+        },
         {
           "id": "f4965b2448d88cd31798a15a58b9fc98",
           "author": null,
