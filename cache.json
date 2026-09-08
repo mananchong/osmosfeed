@@ -55,6 +55,26 @@
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
         {
+          "id": "https://www.nationalreview.com/?p=2032980",
+          "author": "Mark Goldfeder",
+          "description": "Efforts to limit commercial relations with businesses in Israeli-controlled territories will have far-reaching consequences.",
+          "link": "https://www.nationalreview.com/2026/09/britain-institutes-a-de-facto-boycott-of-israel/",
+          "publishedOn": "2026-09-08T18:49:40.000Z",
+          "wordCount": null,
+          "title": "Britain Institutes a De Facto Boycott of Israel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=2032938",
+          "author": "The Editors",
+          "description": "There is no substitute for the governing party simply doing a better job at addressing those legitimate voter concerns driving the rise of AfD.",
+          "link": "https://www.nationalreview.com/2026/09/germanys-mess/",
+          "publishedOn": "2026-09-08T16:12:21.000Z",
+          "wordCount": null,
+          "title": "Germany’s Mess",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nationalreview.com/?p=2031092",
           "author": "Ed Whelan",
           "description": "The voter referendum would allow abortion up to birth, abolish parental consent, and more.",
@@ -2960,26 +2980,6 @@
           "wordCount": 750,
           "title": "派评 | 近期值得关注的 App",
           "imageUrl": "https://rssfile.sspai.com/2026/8/10/article/8a1d183a-5d47-b655-7f37-4bf80cbf20da.png?imageMogr2/auto-orient/format/webp/ignore-error/1"
-        },
-        {
-          "id": "https://sspai.com/post/113115",
-          "author": "阿帅的健康笔记",
-          "description": "从跑步姿势、呼吸节奏、运动强度入手，让跑步更舒服。查看全文",
-          "link": "https://sspai.com/post/113115",
-          "publishedOn": "2026-08-10T07:00:00.000Z",
-          "wordCount": 297,
-          "title": "写给「跑两步就喘」的你：调整跑步姿势，舒适开跑",
-          "imageUrl": "https://rssfile.sspai.com/2026/8/5/article/919c2afb-1ab7-e3f6-3671-247fbc7d6bde.jpeg?imageMogr2/auto-orient/ignore-error/1"
-        },
-        {
-          "id": "https://sspai.com/post/113202",
-          "author": "VHENSS",
-          "description": "喜欢，从来没有一个明确的定义。查看全文",
-          "link": "https://sspai.com/post/113202",
-          "publishedOn": "2026-08-10T03:00:56.000Z",
-          "wordCount": 477,
-          "title": "我与Pixel 10 Pro的生活：写在Pixel 11系列手机发布前夕",
-          "imageUrl": "https://rssfile.sspai.com/2026/08/08/1641ddea9f1e84cfead5639ba84fc538.JPG?imageMogr2/auto-orient/ignore-error/1"
         }
       ]
     },
@@ -7290,66 +7290,6 @@
           "wordCount": 566,
           "title": "台风“白海豚”来袭，中国东部沿海超100万人被疏散",
           "imageUrl": "https://static01.nyt.com/images/2026/08/10/multimedia/10int-typhoon-dolphin-01-hctb/10int-typhoon-dolphin-01-hctb-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/usa/20260810/pentagon-weapons-stockpiles-china-russia/dual",
-          "author": null,
-          "description": "ANTON TROIANOVSKI, JONATHAN SWAN, ERIC SCHMITT, JULIAN E. BARNES2026年8月10日4月，德黑兰遭空袭的建筑物。对伊朗的轰炸消耗了数千枚价值数百万美元的导弹，这些导弹含有来自全球供应商网络的精密零部件，生产周期可能长达数年。 Arash Khamooshi/Polaris for The New York Times\nPresident Trump’s war against Iran has depleted U.S. weapons stockpiles to troubling levels, siphoning supplies from Asia and Europe, according to senior officials.\n高级官员表示，特朗普总统对伊朗的战争已将美国的武器库存消耗至令人担忧的水平，并抽取了原本用于亚洲和欧洲的物资储备。\nThe rapidly shrinking supply of air-defense missiles and other critical weaponry in Europe and Asia not only leaves the U.S. military less equipped, but could also leave Russia and China feeling emboldened should they contemplate a potential conflict with the United States, experts said.\n专家指出，欧洲和亚洲防空导弹及其他关键武器供应的迅速减少不仅削弱了美军的装备水平，还可能使俄罗斯和中国在考虑与美国发生潜在冲突时感到更加有恃无恐。\nBombing Iran burned th…",
-          "link": "https://cn.nytimes.com/usa/20260810/pentagon-weapons-stockpiles-china-russia/dual",
-          "publishedOn": "2026-08-10T07:06:02.000Z",
-          "wordCount": 1751,
-          "title": "美国正在伊朗大量消耗武器，俄中或坐收渔利",
-          "imageUrl": "https://static01.nyt.com/images/2026/08/08/multimedia/08dc-munitions-mwfq/08dc-munitions-mwfq-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/asia-pacific/20260810/japan-earthquake-kumamoto-preparation/dual",
-          "author": null,
-          "description": "RIVER AKIRA DAVIS, HISAKO UENO2026年8月10日\nWhen a 6.8-magnitude earthquake jolted southwestern Japan last week, its force mirrored the kind of seismic shocks capable of flattening cities and claiming hundreds or even thousands of lives.\n7月底，一场6.8级地震袭击了日本西南部，其威力堪比那种能够夷平城市、夺走数百甚至数千人生命的强烈地震。\nYet across the island of Kyushu, the violent shaking destroyed or heavily damaged just a few hundred buildings. One week after the quake, the death toll was 38.\n但在九州岛各地，剧烈摇晃仅造成几百栋建筑物倒塌或严重受损。地震发生一周后，死亡人数为38人。\nIn Kumamoto, the prefecture near the epicenter, seismologists and local officials credit painful lessons learned a decade ago, when twin earthquakes of similar scale ravaged the region, toppling more than 8,000 buildings and ultimately causing more than 270 deaths.\n在震中附近的熊本县，地震学家和当地官员认为，这得益于十年前惨痛教训所带来的改…",
-          "link": "https://cn.nytimes.com/asia-pacific/20260810/japan-earthquake-kumamoto-preparation/dual",
-          "publishedOn": "2026-08-10T06:06:02.000Z",
-          "wordCount": 1592,
-          "title": "走访震后熊本：为何经历强震但死伤较少？",
-          "imageUrl": "https://static01.nyt.com/images/2026/08/06/multimedia/06int-Japan-Earthquake-explainer-pktw/06int-Japan-Earthquake-explainer-pktw-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/asia-pacific/20260810/vietnam-tourism-foreigners-crime-law/dual",
-          "author": null,
-          "description": "DAMIEN CAVE2026年8月10日8月，一辆警车停在越南胡志明市热门夜生活胜地范五老街。 \nHe looked like one of the many digital nomads appearing in Vietnam these days as he plopped his bag on a table near the back of a stylish cafe and ordered a coffee.\n他那时看起来就像如今在越南出现的众多“数字游民”中的一员，把包扔在一家时尚咖啡馆后方附近的桌子上，点了一杯咖啡。\nThen he ripped off his shirt and ordered everyone to leave.\n然后，他扯掉自己的衬衫，并命令所有人离开。\nSecurity footage captured the man, Shaymus Lilly, 34, an Australian brand strategist, clearing counters and shattering windows at Gé Cafe in the coastal city of Da Nang. He smashed a stranger’s phone and choked a young Vietnamese man before police officers hauled him away.\n监控录像显示，34岁的澳大利亚品牌策略师沙伊穆斯·利利在沿海城市岘港的Gé Cafe咖啡馆大闹，把柜台上的东西扔到地上，砸碎窗户。在警察把他拖走之前，他砸了一名陌生人的手机，并勒住了一名年轻越南男子的脖子。\nWitnesses wondered if he was mentally ill and followed him to the st…",
-          "link": "https://cn.nytimes.com/asia-pacific/20260810/vietnam-tourism-foreigners-crime-law/dual",
-          "publishedOn": "2026-08-10T04:06:02.000Z",
-          "wordCount": 1760,
-          "title": "游客激增考验越南司法系统：如何应对“不良”外国人？",
-          "imageUrl": "https://static01.nyt.com/images/2026/08/06/multimedia/06vietnam-expat-crime-zpgm/06vietnam-expat-crime-zpgm-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/world/20260810/india-new-delhi-cjp-protest-march-police/dual",
-          "author": null,
-          "description": "ANUPREETA DAS, Showkat Nanda, JIAWEI WANG2026年8月10日 Faizan Siddiqui\nWhen thousands of unarmed students marched toward the Indian Parliament building last month in a rare challenge to the government, they were met by a wall of riot police officers determined to stop them.\n上个月，数以千计手无寸铁的学生向印度议会大楼游行，对政府发起罕见的挑战，他们遭遇了决心阻止他们的防暴警察人墙。\nOfficials had blocked internet in the area, initially slowing the emergence of details of the crackdown. But videos taken by protesters and witnesses began circulating, revealing that security forces beat people with sticks and fired tear gas and pellet guns at them. The footage led to accusations of excessive force being wielded against peaceful demonstrators.\n当局封锁了该地区的互联网，起初延缓了镇压细节的披露。但抗议者和目击者拍摄的视频开始流传，画面显示安全部队用棍棒殴打民众，向他们发射催泪瓦斯和弹丸枪。这些录像引发对安全部队向和平示威者过度使用武力的指责。\nThe Ne…",
-          "link": "https://cn.nytimes.com/world/20260810/india-new-delhi-cjp-protest-march-police/dual",
-          "publishedOn": "2026-08-10T03:06:02.000Z",
-          "wordCount": 1318,
-          "title": "弹丸枪、警棍、催泪瓦斯：印度警方如何镇压青年抗议者",
-          "imageUrl": "https://static01.nyt.com/images/2026/08/06/india-police-48156-cover/india-police-48156-cover-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/asia-pacific/20260810/taiwan-drone-china-invasion/dual",
-          "author": null,
-          "description": "储百亮, AMY CHANG CHIEN2026年8月10日\nTo repel any future Chinese invasion, Taiwan is building fleets of flying drones and unmanned attack boats.\n为抵御未来可能发生的中国入侵，台湾正在打造大规模的无人机和无人攻击艇编队。\nThe goal is to use them to help locate and attack Chinese forces approaching the island, relying on Taiwanese soldiers trained to move quickly before China can strike them. U.S. commanders who developed this strategy call it a “hellscape”: overwhelming an invading force with waves of drones, missiles and artillery, and making an amphibious assault so risky that China’s leaders are deterred from trying.\n其目标是借助这些装备协助发现和打击向该岛逼近的中国军队，依托经过快速机动训练的台湾士兵，在中国发动打击之前抢先行动。提出这一战略的美国指挥官将其称为“地狱景象”：以一波又一波的无人机、导弹和火炮压倒入侵部队，使两栖登陆风险大到足以令北京领导层望而却步。\nInspired by lessons from Ukraine and other recent war zones, Taiwan is now accelerating ef…",
-          "link": "https://cn.nytimes.com/asia-pacific/20260810/taiwan-drone-china-invasion/dual",
-          "publishedOn": "2026-08-10T02:06:03.000Z",
-          "wordCount": 1481,
-          "title": "台湾的无人机“地狱景象”能抵御中国入侵吗？",
-          "imageUrl": "https://static01.nyt.com/images/2026/08/08/multimedia/08int-taiwan-drone-01-tjlb/08int-taiwan-drone-01-tjlb-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/business/20260810/china-trade-exports/dual",
-          "author": null,
-          "description": "DAISUKE WAKABAYASHI2026年8月10日7月，中国宁海一家工厂的生产车间。 Qilai Shen for The New York Times\nAnother month, another trade surplus of more than $100 billion for China.\n中国又一次录得超过1000亿美元的月度贸易顺差。\nEven as countries around the world move to curb the flood of Chinese goods, China’s export machine continues to steam ahead. The country posted a trade surplus of $112.5 billion in July, according to data released Friday by the General Administration of Customs.\n尽管世界各国都在采取措施遏制中国商品大量涌入，中国的出口机器仍在全速运转。中国海关总署周五公布的数据显示，7月份的贸易顺差达1125亿美元。\nIt was the third straight month in which China’s exports exceeded its imports by more than $100 billion — a staggering sum that puts the country on pace to surpass last year’s record $1.19 trillion trade surplus. In July, China’s exports rose 23.9 percent in U.S. dollar terms, while im…",
-          "link": "https://cn.nytimes.com/business/20260810/china-trade-exports/dual",
-          "publishedOn": "2026-08-10T00:36:01.000Z",
-          "wordCount": 805,
-          "title": "中国出口继续“狂飙”，月度贸易顺差再超千亿美元",
-          "imageUrl": "https://static01.nyt.com/images/2026/08/07/multimedia/07Biz-China-Trade-gcbq/07Biz-China-Trade-gcbq-articleLarge.jpg"
         }
       ]
     },
@@ -8326,36 +8266,6 @@
           "publishedOn": "2026-08-11T02:00:00.000Z",
           "wordCount": 294,
           "title": "津渡的童诗：维修外星人这种事，我一周做一次",
-          "imageUrl": null
-        },
-        {
-          "id": "b4813d5d47e97468749821e4dc0bb394",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E8%B0%9B%E5%90%AC%E5%B8%83%E8%B0%B7%E9%B8%9F%EF%BC%9A%E8%BF%9F%E6%9A%AE%E4%B9%8B%E5%B9%B4%E7%9A%84%E5%A5%B3%E6%80%A7%E4%B9%A6%E5%86%99%E4%B8%8E%E7%94%9F%E5%91%BD%E6%BF%80%E6%83%85%EF%BD%9C%E7%9B%B4%E6%92%AD%E9%A2%84%E5%91%8A",
-          "publishedOn": "2026-08-10T02:16:00.000Z",
-          "wordCount": 292,
-          "title": "谛听布谷鸟：迟暮之年的女性书写与生命激情｜直播预告",
-          "imageUrl": null
-        },
-        {
-          "id": "7aaa50735166611a6a51130551179155",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E4%BB%8E%E8%A7%82%E5%AF%9FAI%E5%88%B0%E8%A7%82%E5%AF%9F%E8%87%AA%E8%BA%AB%EF%BC%9A%E4%BA%BA%E6%96%87%E5%AD%A6%E7%A7%91%E5%9C%A8%E6%8A%80%E6%9C%AF%E6%97%B6%E4%BB%A3%E7%9A%84%E6%96%B0%E5%91%BD%E9%A2%98",
-          "publishedOn": "2026-08-10T02:16:00.000Z",
-          "wordCount": 311,
-          "title": "从观察AI到观察自身：人文学科在技术时代的新命题",
-          "imageUrl": null
-        },
-        {
-          "id": "6251aff758435fde68af3a28d14e2526",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E9%9A%90%E7%A7%98%E4%B8%8E%E5%B9%BD%E6%9A%97%EF%BC%8C%E5%B9%B3%E5%87%A1%E6%88%96%E6%97%A5%E5%B8%B8%EF%BC%9A%E7%8F%AD%E7%BB%B4%E5%B0%94%E7%9A%84%E5%8F%8C%E5%9F%8E%E8%AE%B0",
-          "publishedOn": "2026-08-10T02:16:00.000Z",
-          "wordCount": 293,
-          "title": "隐秘与幽暗，平凡或日常：班维尔的双城记",
           "imageUrl": null
         }
       ]
