@@ -2,10 +2,87 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mananchong.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-12T18:38:30.744Z</updated>
+    <updated>2026-09-13T12:49:02.199Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mananchong.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://mananchong.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Space Race That Will Decide the Future of Freedom]]></title>
+        <id>https://www.nationalreview.com/?p=2032687</id>
+        <link href="https://www.nationalreview.com/2026/09/the-space-race-that-will-decide-the-future-of-freedom/"/>
+        <updated>2026-09-13T10:30:15.000Z</updated>
+        <summary type="html"><![CDATA[The nation that masters rapidly reusable launch will shape commerce, military power, and the global political order of the next century.]]></summary>
+        <author>
+            <name>Charles E. Miller</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Finding Their Way to Faith]]></title>
+        <id>https://www.nationalreview.com/?p=2033653</id>
+        <link href="https://www.nationalreview.com/2026/09/the-kids-are-alright/"/>
+        <updated>2026-09-13T10:30:13.000Z</updated>
+        <summary type="html"><![CDATA[Seventy-five years after God and Man at Yale, Catholic thought is drawing a new generation of curious Yalies.]]></summary>
+        <author>
+            <name>Raleigh Adams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Bottomless Demand for Stories of Israel’s Malevolence]]></title>
+        <id>https://www.nationalreview.com/?p=2034523</id>
+        <link href="https://www.nationalreview.com/2026/09/the-bottomless-demand-for-stories-of-israels-malevolence/"/>
+        <updated>2026-09-13T10:30:11.000Z</updated>
+        <summary type="html"><![CDATA[There’s a reason officials and journalists keep making such patently outrageous claims.]]></summary>
+        <author>
+            <name>Becket Adams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The State Department Plan to Fund Europe’s Right Is a Mistake]]></title>
+        <id>https://www.nationalreview.com/?p=2034698</id>
+        <link href="https://www.nationalreview.com/2026/09/the-state-department-plan-to-fund-europes-right-is-a-mistake/"/>
+        <updated>2026-09-13T10:30:02.000Z</updated>
+        <summary type="html"><![CDATA[The effort could end up tarnishing conservative voices across the continent.]]></summary>
+        <author>
+            <name>John Gustavsson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[搭建自己的 HomeLab（一）：聊聊我的硬件清单]]></title>
+        <id>https://sspai.com/post/113880</id>
+        <link href="https://sspai.com/post/113880"/>
+        <updated>2026-09-13T07:51:55.000Z</updated>
+        <summary type="html"><![CDATA[作为系列的第一篇，这里想把三件事讲清楚：什么是 HomeLab、我为什么愿意折腾它、以及这套东西需要哪些硬件、它们大概又要花多少钱。系列其他文章的目录放在文末。查看全文]]></summary>
+        <author>
+            <name>dong4j</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一位社会学家的临终笔记：自然开始，也自然结束]]></title>
+        <id>604a2aeea9037473be73fafc94f79ec9</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E4%B8%80%E4%BD%8D%E7%A4%BE%E4%BC%9A%E5%AD%A6%E5%AE%B6%E7%9A%84%E4%B8%B4%E7%BB%88%E7%AC%94%E8%AE%B0%EF%BC%9A%E8%87%AA%E7%84%B6%E5%BC%80%E5%A7%8B%EF%BC%8C%E4%B9%9F%E8%87%AA%E7%84%B6%E7%BB%93%E6%9D%9F"/>
+        <updated>2026-09-13T01:59:00.000Z</updated>
+        <author>
+            <name>新京报书评周刊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[当观察生命变成数字竞赛，鸟还是真正的主角吗？]]></title>
+        <id>f1ae07ce701e4dba75787c60babd4050</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E5%BD%93%E8%A7%82%E5%AF%9F%E7%94%9F%E5%91%BD%E5%8F%98%E6%88%90%E6%95%B0%E5%AD%97%E7%AB%9E%E8%B5%9B%EF%BC%8C%E9%B8%9F%E8%BF%98%E6%98%AF%E7%9C%9F%E6%AD%A3%E7%9A%84%E4%B8%BB%E8%A7%92%E5%90%97%EF%BC%9F"/>
+        <updated>2026-09-13T01:59:00.000Z</updated>
+        <author>
+            <name>新京报书评周刊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[北京观鸟指南]]></title>
+        <id>8ade1dac1c0120e7cb3af8ae618e9be6</id>
+        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E5%8C%97%E4%BA%AC%E8%A7%82%E9%B8%9F%E6%8C%87%E5%8D%97"/>
+        <updated>2026-09-13T01:59:00.000Z</updated>
+        <author>
+            <name>新京报书评周刊</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Houses of Worship Deserve Protection from Disruption]]></title>
         <id>https://www.nationalreview.com/?p=2034575</id>
@@ -8011,176 +8088,6 @@ uBlock Origin 放弃维护 Facebook 广告规则
         <updated>2026-08-15T01:50:00.000Z</updated>
         <author>
             <name>新京报书评周刊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[El-Sayed Shouldn’t Blame Muslim America for His Radical-Islam-Curious Views]]></title>
-        <id>https://www.nationalreview.com/?p=2017440</id>
-        <link href="https://www.nationalreview.com/2026/08/el-sayed-shouldnt-blame-muslim-america-for-his-radical-islam-curious-views/"/>
-        <updated>2026-08-14T20:34:43.000Z</updated>
-        <summary type="html"><![CDATA[The Michigan Senate candidate and his defenders are wrong to imply that his views and statements are uncontroversial among his fellow Muslims.]]></summary>
-        <author>
-            <name>Noah Rothman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[北半球日全食月球本影 - August 14, 2026]]></title>
-        <id>idaily-256526</id>
-        <link href="https://m.idai.ly/se/082T2c"/>
-        <updated>2026-08-14T10:59:00.000Z</updated>
-        <summary type="html"><![CDATA[美国国家海洋和大气管理局发布一张「GOES-19」气象卫星拍摄的8月12日「日全食」期间地球照片，月球遮挡太阳产生的阴影在北半球移动。本次日全食的月球本影宽度约为294公里，首先从俄罗斯东北部北冰洋沿岸接触地表，然后跨越北冰洋，依次经过格陵兰岛、冰岛、西班牙境内，最后在葡萄牙东北部结束。摄影师：NOAA]]></summary>
-        <author>
-            <name>地球</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Week: Wisconsin Flushes Sewer Socialism]]></title>
-        <id>https://www.nationalreview.com/?p=2016912</id>
-        <link href="https://www.nationalreview.com/2026/08/the-week-wisconsin-flushes-sewer-socialism/"/>
-        <updated>2026-08-14T10:30:55.000Z</updated>
-        <summary type="html"><![CDATA[Plus: AOC, anti-woke?]]></summary>
-        <author>
-            <name>NR Editors</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<i>Six</i> Is Sex and Kitsch]]></title>
-        <id>https://www.nationalreview.com/?p=2015360</id>
-        <link href="https://www.nationalreview.com/2026/08/six-is-sex-and-kitsch/"/>
-        <updated>2026-08-14T10:30:45.000Z</updated>
-        <summary type="html"><![CDATA[An anti-Hamilton blowout hits the screen.]]></summary>
-        <author>
-            <name>Armond White</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Elite Universities Reward Disgraced Leaders with Million-Dollar Soft Landings]]></title>
-        <id>https://www.nationalreview.com/?p=2016675</id>
-        <link href="https://www.nationalreview.com/2026/08/elite-universities-reward-disgraced-leaders-with-million-dollar-soft-landings/"/>
-        <updated>2026-08-14T10:30:45.000Z</updated>
-        <summary type="html"><![CDATA[Administrators who violate laws, policies, and basic standards of conduct are getting huge payouts instead of pink slips.]]></summary>
-        <author>
-            <name>Scott Douglas Gerber</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Great Divergence: Why America Keeps Pulling Away from Europe]]></title>
-        <id>https://www.nationalreview.com/?p=2016793</id>
-        <link href="https://www.nationalreview.com/2026/08/the-great-divergence-why-america-keeps-pulling-away/"/>
-        <updated>2026-08-14T10:30:36.000Z</updated>
-        <summary type="html"><![CDATA[Our comparative prosperity flows from allowing creative destruction.]]></summary>
-        <author>
-            <name>James Carter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Public Schools Shouldn’t Be Fiefdoms of Government Speech]]></title>
-        <id>https://www.nationalreview.com/?p=2015952</id>
-        <link href="https://www.nationalreview.com/2026/08/public-schools-shouldnt-be-fiefdoms-of-government-speech/"/>
-        <updated>2026-08-14T10:30:29.000Z</updated>
-        <summary type="html"><![CDATA[A new Nebraska lawsuit seeks to free students and parents from government indoctrination in classrooms.]]></summary>
-        <author>
-            <name>Philip Hamburger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Better Approach to the Firearms Law Dispute]]></title>
-        <id>https://www.nationalreview.com/?p=2016930</id>
-        <link href="https://www.nationalreview.com/2026/08/a-better-approach-to-the-firearms-law-dispute/"/>
-        <updated>2026-08-14T10:30:24.000Z</updated>
-        <summary type="html"><![CDATA[There is a counterintuitive way for the Trump administration to put a correct Texas ruling nixing part of the National Firearms Act on a firmer footing.]]></summary>
-        <author>
-            <name>The Editors</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Conservative Infighting Stretches Back to <i>The Freeman</i>]]></title>
-        <id>https://www.nationalreview.com/?p=2016873</id>
-        <link href="https://www.nationalreview.com/2026/08/conservative-infighting-stretches-back-to-the-freeman/"/>
-        <updated>2026-08-14T10:30:03.000Z</updated>
-        <summary type="html"><![CDATA[The 1950s-era magazine set the stage for future fights on the right.]]></summary>
-        <author>
-            <name>Daniel J. Flynn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本公布火星卫星探测器 - August 14, 2026]]></title>
-        <id>idaily-256525</id>
-        <link href="https://m.idai.ly/se/e12e3n"/>
-        <updated>2026-08-14T09:58:00.000Z</updated>
-        <summary type="html"><![CDATA[日本宇航局向媒体展示「火星卫星探测器」（MMX）的推进舱和返回舱模块，种子岛宇宙中心。8月13日，日本宇航局首次公开展示「火卫一」采样返回任务的 MMX 探测器。这台探测器由日本三菱电机公司建造，由推进舱、着陆舱和返回舱三部分组成，高约5.3米，总重达4.5吨，目标2026年10月至11月发射升空，2031年携带「火卫一」岩石样本返回地球。本次任务将是人类首次尝试从火星卫星采集样本，项目总预算为553亿日元（约合3.47亿美元）。摄影师：Yuichi Yamazaki]]></summary>
-        <author>
-            <name>日本 · 鹿儿岛县</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[本周看什么 | 最近值得一看的 9 部作品]]></title>
-        <id>https://sspai.com/post/113459</id>
-        <link href="https://sspai.com/post/113459"/>
-        <updated>2026-08-14T09:50:02.000Z</updated>
-        <summary type="html"><![CDATA[📅本周新预告《不存在的罪人》正式预告8月11日，电影《不存在的罪人》发布了正式预告，将于10月2日在北美上映。迈克尔·肖沃特执导，安妮·海瑟薇、达科塔·约翰逊、乔什·哈奈特主演，当红小说家留下未竟手稿 ...查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[普京首次访问南千岛群岛 - August 14, 2026]]></title>
-        <id>idaily-256524</id>
-        <link href="https://m.idai.ly/se/e57V0r"/>
-        <updated>2026-08-14T08:57:00.000Z</updated>
-        <summary type="html"><![CDATA[俄罗斯总统 Vladimir Putin 访问南千岛群岛期间视察当地水产品加工厂。8月13日，俄总统 Putin 上任后首次登上南千岛群岛，视察了伊图鲁普岛上的水产品加工厂、医院和学校，并亲自品尝当地出产的优质鱼子酱。Putin 在本周视察俄太平洋舰队演习时指出，俄罗斯对南千岛群岛的拥有权已「作为二战后形成的现实被载入国际文件」，他表示「我们并未威胁日本，恰恰相反，是日本对我国提出了领土主张」。日本首相高市早苗当天对 Putin 访问南千岛群岛表示强烈抗议，声称日本所称的「北方四岛」在历史上和法律上都是日本的「固有领土」。摄影师：Gavriil Grigorov]]></summary>
-        <author>
-            <name>俄罗斯 · 萨哈林州</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本千叶县破纪录暴雨 - August 14, 2026]]></title>
-        <id>idaily-256522</id>
-        <link href="https://m.idai.ly/se/1f559I"/>
-        <updated>2026-08-14T08:55:00.000Z</updated>
-        <summary type="html"><![CDATA[日本 JR 大网车站周边被积水淹没，千叶县白里市。8月13日，日本千叶县遭遇破纪录强降雨侵袭，千叶市中央区12小时降雨量达到348毫米，创有史以来最高纪录，相当于8月平均全月降雨量的3倍。强降雨引发的洪涝灾害已确认造成8人死亡，至少300栋建筑物受损，逾4.5万户家庭停电，JR京叶线等多条铁路受暴雨影响暂停运行，导致成田机场约7000名旅客被迫滞留过夜。摄影师：Daisuke Urakami]]></summary>
-        <author>
-            <name>日本 · 千叶县</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2026年布鲁塞尔鲜花地毯 - August 14, 2026]]></title>
-        <id>idaily-256518</id>
-        <link href="https://m.idai.ly/se/d0cH62"/>
-        <updated>2026-08-14T08:53:00.000Z</updated>
-        <summary type="html"><![CDATA[从空中俯瞰布鲁塞尔大广场的巨型「鲜花地毯」（Flower Carpet），比利时。8月13日，第24届布鲁塞尔鲜花地毯节正式开幕，本年度亮相的「鲜花地毯」长70米，宽24米，由超过70万支大丽花组成，灵感源自日本浮世绘画家葛饰北斋作品《神奈川冲浪里》，旨在庆祝比利时与日本建交160周年。这幅「鲜花地毯」共由140名志愿者参与铺设，展出时间将持续至8月16日。比利时是全球最大的鲜花原产国之一，园艺产品年出口额超过6.6亿欧元。摄影师：Olivier Hoslet]]></summary>
-        <author>
-            <name>比利时 · 布鲁塞尔</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[卡斯特罗诞辰100周年 - August 14, 2026]]></title>
-        <id>idaily-256517</id>
-        <link href="https://m.idai.ly/se/fb1oou"/>
-        <updated>2026-08-14T08:51:00.000Z</updated>
-        <summary type="html"><![CDATA[古巴街头的古巴革命领袖菲德尔·卡斯特罗肖像涂鸦，哈瓦那。8月13日，古巴政府举行官方活动纪念菲德尔·卡斯特罗100岁诞辰，共有来自约60个国家的超过1500名代表出席。古巴国家主席 Miguel Díaz-Canel 在致辞中指出，古巴革命彻底扭转了国家经济被美国垄断企业控制的局面，即便在遭遇长期封锁的情况下，依然建立了发展中国家中最先进的全民医疗保健体系和免费教育体系，预期寿命77.7岁位列美洲前十；他强调「古巴不会屈服，不会妥协，不会投降」，呼吁古巴青年团结应对封锁下的经济挑战，积极推动科技进步和能源转型，共同建设一个全民富裕的社会。摄影师：Yamil Lage]]></summary>
-        <author>
-            <name>古巴 · 哈瓦那</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[尼泊尔佛教徒庆祝贡拉节 - August 14, 2026]]></title>
-        <id>idaily-256516</id>
-        <link href="https://m.idai.ly/se/af3iH8"/>
-        <updated>2026-08-14T08:49:00.000Z</updated>
-        <summary type="html"><![CDATA[尼泊尔尼瓦尔族民众在猴庙庆祝「贡拉节」（Gunla Parva），加德满都。「贡拉节」是尼泊尔原住民尼瓦尔族佛教徒的传统节日之一，庆祝时间为尼泊尔历的第10个月。2026年「贡拉节」将从8月13日持续至9月12日，当地民众会在节日期间诵经、斋戒并前往寺庙聆听宗教音乐。尼泊尔旅游局数据显示2026年7月共接待外国游客71775人次，同比增长2.3%，排名前五的游客来源地依次为印度、中国、美国、孟加拉国和英国，其中中国游客同比增长逾六成。摄影师：AP Tolang]]></summary>
-        <author>
-            <name>尼泊尔 · 加德满都</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你初高中时的书单里，总有本「东野圭吾」吧？]]></title>
-        <id>https://sspai.com/post/113416</id>
-        <link href="https://sspai.com/post/113416"/>
-        <updated>2026-08-14T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[纪念并且感谢他为我们留下的推理世界。查看全文]]></summary>
-        <author>
-            <name>潘誉晗</name>
         </author>
     </entry>
 </feed>
