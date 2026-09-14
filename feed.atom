@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mananchong.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-14T14:21:31.466Z</updated>
+    <updated>2026-09-14T20:26:20.671Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mananchong.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://mananchong.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Alarm over AI Gets Louder]]></title>
+        <id>https://www.nationalreview.com/?p=2037057</id>
+        <link href="https://www.nationalreview.com/2026/09/the-alarm-over-ai-gets-louder/"/>
+        <updated>2026-09-14T19:55:25.000Z</updated>
+        <summary type="html"><![CDATA[The tech can’t be stopped. Policy is going to require grown-up behavior.]]></summary>
+        <author>
+            <name>Andrew C. McCarthy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[旅美大熊猫5岁生日 - September 14, 2026]]></title>
         <id>idaily-258261</id>
@@ -8275,16 +8285,6 @@ uBlock Origin 放弃维护 Facebook 广告规则
         <summary type="html"><![CDATA[The tale of Jason Arday is a reminder of how today’s social scientists often care little about seeking the truth.]]></summary>
         <author>
             <name>James Lileks</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[浏览器扩展合集： 我们为你找到了这 6 款实用、 有趣的「新玩意」]]></title>
-        <id>https://sspai.com/post/113495</id>
-        <link href="https://sspai.com/post/113495"/>
-        <updated>2026-08-16T04:48:21.000Z</updated>
-        <summary type="html"><![CDATA[在浏览器扩展这边，近期又有哪些好用、有趣的「新玩意」呢？查看全文]]></summary>
-        <author>
-            <name>克莱德</name>
         </author>
     </entry>
 </feed>
