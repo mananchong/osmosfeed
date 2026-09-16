@@ -65,6 +65,26 @@
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
         {
+          "id": "https://www.nationalreview.com/?p=2038397",
+          "author": "Dan McLaughlin",
+          "description": "An online fracas over Texas college football fans underscores the hollowness of this cause.",
+          "link": "https://www.nationalreview.com/2026/09/heritage-americanism-is-massively-overrated-and-counterproductive/",
+          "publishedOn": "2026-09-16T19:20:11.000Z",
+          "wordCount": 17292,
+          "title": "Heritage Americanism Is Massively Overrated and Counterproductive",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/09/heritage.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=2038209",
+          "author": "Noah Rothman",
+          "description": "AOC and others rallying to the rapper’s defense are telling on themselves.",
+          "link": "https://www.nationalreview.com/2026/09/macklemore-is-not-the-victim/",
+          "publishedOn": "2026-09-16T13:59:50.000Z",
+          "wordCount": 16692,
+          "title": "Macklemore Is Not the Victim",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/09/aoc-macklemore1.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
           "id": "https://www.nationalreview.com/?p=2037844",
           "author": "Armond White",
           "description": "Hollywood’s feminist formula combines politics and romantasy.",
@@ -3200,36 +3220,6 @@
           "wordCount": 578,
           "title": "社区速递 154 | AI 代码助手大乱斗、租房电钻组合与神奇实体卡片故事机",
           "imageUrl": "https://rssfile.sspai.com/2026/6/30/article/831096df-1239-9d40-8cb1-c42319e8f9f3.png?imageMogr2/auto-orient/ignore-error/1"
-        },
-        {
-          "id": "https://sspai.com/post/113564",
-          "author": "听歌的水獭",
-          "description": "二次元加爵士，你说有没有搞头？音乐人介绍炒饭（B站），本职是常驻波士顿的程序员社畜，同时也是多乐器演奏音乐人、B站UP主。炒饭没有专业科班学习经历，却凭兴趣及自学掌握了多种音乐技能，专辑音乐均为自己在 ...查看全文",
-          "link": "https://sspai.com/post/113564",
-          "publishedOn": "2026-08-18T07:05:05.000Z",
-          "wordCount": 254,
-          "title": "线下活动 | 爵士律动唤醒动漫回忆：炒饭 Fried Rice 音乐分享签售会",
-          "imageUrl": "https://rssfile.sspai.com/2026/08/18/09a6b873c3a02c9d2b6ae3f68e06d5a6.jpg?imageMogr2/auto-orient/ignore-error/1"
-        },
-        {
-          "id": "https://sspai.com/post/113438",
-          "author": "北鸮",
-          "description": "屏幕不是注意力中心的地方可以塞下多少有用的东西呢？查看全文",
-          "link": "https://sspai.com/post/113438",
-          "publishedOn": "2026-08-18T06:30:00.000Z",
-          "wordCount": 264,
-          "title": "App+1 | 让任务栏更有用：WindowSill",
-          "imageUrl": "https://rssfile.sspai.com/2026/8/14/article/6bd75d6f-cc55-409e-b570-7aac7e970ef6.png?imageMogr2/auto-orient/ignore-error/1"
-        },
-        {
-          "id": "https://sspai.com/post/113454",
-          "author": "麻乐",
-          "description": "编者注：2026年我们将重启少数派音乐推荐栏目FM3.14，特邀资深音乐从业者及爱好者为大家推荐优质的华语独立、流行音乐，今年我们也很荣幸邀请到老朋友飞傲，为本栏目冠名。飞傲目前拥有品牌以音乐发烧友为 ...查看全文",
-          "link": "https://sspai.com/post/113454",
-          "publishedOn": "2026-08-18T02:52:11.000Z",
-          "wordCount": 449,
-          "title": "7月音乐精选：夏天赠予我们的 9张专辑",
-          "imageUrl": "https://rssfile.sspai.com/2026/08/14/2d06ccb40ddfd793085a57f6e041c9d8.JPG?imageMogr2/auto-orient/ignore-error/1"
         }
       ]
     },
@@ -7556,66 +7546,6 @@
           "wordCount": 1110,
           "title": "朱镕基葬礼在北京举行，当局谨慎应对公众情绪",
           "imageUrl": "https://static01.nyt.com/images/2026/08/18/multimedia/18int-china-funeral-tvch/18int-china-funeral-tvch-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/opinion/20260818/silicon-valley-war-pentagon/dual",
-          "author": null,
-          "description": "SHARON WEINBERGER2026年8月18日 Brendan Conroy\nMany Americans watched with surprise as Silicon Valley’s most powerful entrepreneurs fell in behind Donald Trump when he returned to the White House last year. The same C.E.O.s and investors who once celebrated globalization and consumer apps were suddenly embracing patriotism and advanced weaponry such as killer drones.\n去年唐纳德·特朗普重返白宫后，硅谷最有权势的企业家纷纷表态支持他，这让许多美国人感到惊讶。突然之间，这些曾歌颂全球化和消费级应用软件的首席执行官和投资者开始拥抱爱国主义以及杀手无人机等先进武器。\nDon’t misconstrue this as a thoughtful political shift, or a change of heart. Silicon Valley has always been fertile ground for mythmaking, and no myth is bigger than the notion that the ideological chasm between the Valley and the Pentagon is too vast to bridge.\n不要将此误解为深思熟虑的政治转向或态度转变。硅谷向来是制造神话的沃土，而其中最大的神话莫过于认为硅谷与五角大楼之间有深不可测的意识形态鸿沟。\nF…",
-          "link": "https://cn.nytimes.com/opinion/20260818/silicon-valley-war-pentagon/dual",
-          "publishedOn": "2026-08-18T06:06:02.000Z",
-          "wordCount": 1404,
-          "title": "硅谷并没有“右转”，它本来就很“右”",
-          "imageUrl": "https://static01.nyt.com/images/2026/08/17/opinion/17weinberger/17weinberger-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/world/20260818/from-the-sky-to-the-battlefield/dual",
-          "author": null,
-          "description": "MICHAEL SCHWIRTZ, TYLER HICKS2026年8月18日上月在乌克兰扎波罗热地区，一名乌克兰士兵正在为一架无人机打击俄军目标做准备。 \nThe Russian drone pilots had bedded down for the night. Their white vehicle was parked in the driveway of a small house in occupied southern Ukraine.\n俄方无人机操作员已经躺下睡觉了。他们那辆白色汽车停在乌克兰南部俄占区一栋小房子的车道上。\nAbout 30 miles away, two Ukrainian drone pilots had parked their truck in a tree line at the edge of a field and assembled a medium-size drone loaded with two bombs.\n约50公里外，两名乌克兰无人机操作员将他们的卡车停在一片田地边缘的林带里，组装了一架中型无人机，上面挂载了两枚炸弹。\nTheir target? The sleeping Russian drone pilots.\n他们的目标？正在睡觉的俄方无人机操作员。\nThe Ukrainian team had a powerful new battlefield tool that night: high-tech satellite imagery providing near real-time information on troop movements and locations.\n那天晚上，乌方的行动小组拥有一项强大的战场新工具：高科技卫星影像，可以近乎实时地提供俄军的移动和位置情报。\nA year ago,…",
-          "link": "https://cn.nytimes.com/world/20260818/from-the-sky-to-the-battlefield/dual",
-          "publishedOn": "2026-08-18T05:36:02.000Z",
-          "wordCount": 1423,
-          "title": "乌克兰无人机何以精准打击俄罗斯本土？",
-          "imageUrl": "https://static01.nyt.com/images/2026/08/17/multimedia/17int-ukraine-satellite-flmv/17int-ukraine-satellite-flmv-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/usa/20260818/trump-iran-north-korea-kim-jong-un/dual",
-          "author": null,
-          "description": "DAVID E. SANGER, ANTON TROIANOVSKI2026年8月18日2019年，特朗普总统与朝鲜领导人金正恩在朝韩非军事区会面。 Erin Schaff/The New York Times\nThe last time President Trump vowed to halt a country’s nuclear weapons program, he held three face-to-face meetings with Kim Jong-un of North Korea, declared that the two men had developed a “great relationship” and walked away empty-handed.\n特朗普总统上一次信誓旦旦地要阻止一个国家的核武器计划时，他与朝鲜领导人金正恩举行了三次面对面会谈，宣称两人已经建立了“非常好的关系”，最终却空手而归。\nThat was in Mr. Trump’s first term. Not only did the diplomatic effort fail, but Mr. Kim immediately hit the accelerator on his program and today possesses roughly 60 nuclear weapons, by some estimates, as well as missiles that appear capable of reaching the United States — exactly the combination Mr. Trump had vowed to dismantle.\n那还是在特朗普的第一个任期内。那次外交努力不仅以失败告终，金正恩还立即加速推进核计划…",
-          "link": "https://cn.nytimes.com/usa/20260818/trump-iran-north-korea-kim-jong-un/dual",
-          "publishedOn": "2026-08-18T03:36:02.000Z",
-          "wordCount": 1571,
-          "title": "在伊朗陷入困局后，特朗普再次将目光转向金正恩",
-          "imageUrl": "https://static01.nyt.com/images/2026/08/17/multimedia/17dc-prexy-photo-jflk/17dc-prexy-photo-jflk-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/business/20260818/japan-yen-intervention/dual",
-          "author": null,
-          "description": "RIVER AKIRA DAVIS2026年8月18日日元涨势已消退，汇率正逼近160日元兑1美元，这一水平可能会考验东京和华盛顿官员的决心。 The Yomiuri Shimbun, via Associated Press\nThe Japanese yen has resumed its slide over the past two weeks, surrendering ground it gained after the United States and Japan spent tens of billions of dollars to prop up the currency languishing near four-decade lows.\n日元在过去两周重启跌势，回吐了美日两国花费数百亿美元干预汇市后所获得的涨幅——在干预前，日元汇率已跌至近40年低点。\nThe yen briefly strengthened to 155 per dollar intraday after the intervention in late July. But the rally quickly faded, and on Friday, the currency was trading at around 159 to the dollar. Its renewed slide is approaching the 160-yen level that could test the resolve of officials in Tokyo and Washington, who said they would not hesitate to intervene again if “disorderly yen movements” persisted.\n7月底的干…",
-          "link": "https://cn.nytimes.com/business/20260818/japan-yen-intervention/dual",
-          "publishedOn": "2026-08-18T03:36:02.000Z",
-          "wordCount": 1069,
-          "title": "为何美日联手也“救”不了日元？",
-          "imageUrl": "https://static01.nyt.com/images/2026/08/14/business/00Biz-Yen1/00Biz-Yen1-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/technology/20260818/ai-slop/dual",
-          "author": null,
-          "description": "TIFFANY HSU2026年8月18日\nThe worst of artificial intelligence slop has cluttered Google searches with recipes for glue-topped pizza, Amazon listings with sham biographies and Facebook feeds with images of Shrimp Jesus.\n人工智能最糟糕的垃圾内容已经用胶水披萨食谱淹没了谷歌搜索，用虚假传记塞满了亚马逊商品列表，用大虾耶稣图片充斥于Facebook信息流。\nThe digital sewage heap has sprawled across tech platforms, cheapening meaningful content and polluting the information ecosystem, as chatbots and video generators continue to advance.\n这片数字污水池已经在科技平台上蔓延开来，令有意义的内容变得廉价，污染了信息生态系统，而聊天机器人和视频生成器仍在步步推进。\nNow, Silicon Valley wants to take out the trash.\n现在，硅谷想要清除这些垃圾。\nSpotify, a music streamer, said it removed 75 million bulk uploads, duplicate songs and other “spammy” tracks last year — a sizable chunk of its total portfolio. LinkedIn said in July that “A.I. slop is a …",
-          "link": "https://cn.nytimes.com/technology/20260818/ai-slop/dual",
-          "publishedOn": "2026-08-18T02:36:02.000Z",
-          "wordCount": 1398,
-          "title": "AI垃圾满天飞，科技公司开展人工智能废物大扫除",
-          "imageUrl": "https://static01.nyt.com/images/2026/08/17/business/00biz-ai-slop/00biz-ai-slop-videoLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/world/20260818/china-scientific-talent-competition/dual",
-          "author": null,
-          "description": "袁莉2026年8月18日 Dongyan Xu\nWho’s got the talent?\n谁拥有人才？\nIn the competition for scientific and technological supremacy, that question rises above the rest. Not long ago, the answer was unequivocal: the United States.\n在科技霸主地位的竞争中，这个问题凌驾于一切之上。就在不久之前，答案还是毋庸置疑的：美国。\nBut while it remains the world’s leading destination for ambitious scientific minds, a combination of funding cuts, restrictive immigration policies and suspicion of Chinese-born scientists is eroding its advantage just as China, despite serious shortcomings of its own, is becoming a credible alternative.\n但如今，美国虽然仍旧是全球最有抱负的科学人才向往的首选之地，但科研经费削减、限制性的移民政策以及对华裔科学家的猜疑正逐渐削弱美国的优势；与此同时，中国尽管仍存在诸多严重不足，却正在成为一个越来越有竞争力的替代选择。\nThe appeal of each country can be seen in two events of the past few months. The four winners of this year’s Fields Medal, one …",
-          "link": "https://cn.nytimes.com/world/20260818/china-scientific-talent-competition/dual",
-          "publishedOn": "2026-08-18T02:06:02.000Z",
-          "wordCount": 1374,
-          "title": "中美人才争夺战：中国加速追赶，美国“自废武功”？",
-          "imageUrl": "https://static01.nyt.com/images/2026/08/14/business/00nw-talent/00nw-talent-articleLarge.jpg"
         }
       ]
     },
@@ -8592,36 +8522,6 @@
           "publishedOn": "2026-08-19T02:01:00.000Z",
           "wordCount": 310,
           "title": "选专业，是选人生，还是选方法？“我和我的学科”现场活动来了",
-          "imageUrl": null
-        },
-        {
-          "id": "21c1ab4609c503247afd3b85f2159cd9",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E3%80%8A%E5%A5%A5%E5%BE%B7%E8%B5%9B%E3%80%8B%EF%BC%9A%E7%89%B9%E6%B4%9B%E4%BC%8A%E6%88%98%E4%BA%89%E5%90%8E%EF%BC%8C%E5%A5%A5%E5%BE%B7%E4%BF%AE%E6%96%AF%E6%98%AF%E5%A6%82%E4%BD%95%E9%87%8D%E5%9B%9E%E4%BC%8A%E8%90%A8%E5%8D%A1%E5%B2%9B%E7%9A%84%EF%BC%9F",
-          "publishedOn": "2026-08-18T01:48:00.000Z",
-          "wordCount": 299,
-          "title": "《奥德赛》：特洛伊战争后，奥德修斯是如何重回伊萨卡岛的？",
-          "imageUrl": null
-        },
-        {
-          "id": "5b0195013e14638e68d1d336926d520b",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E3%80%8A%E6%98%A5%E9%A3%8E%E5%8D%81%E9%87%8C%E3%80%8B%E4%B9%8B%E5%90%8E%EF%BC%8C%E4%B8%80%E6%94%AF%E4%B9%90%E9%98%9F%E7%9A%84%E5%8D%81%E4%B8%AA%E6%98%A5%E5%A4%A9",
-          "publishedOn": "2026-08-18T01:48:00.000Z",
-          "wordCount": 263,
-          "title": "《春风十里》之后，一支乐队的十个春天",
-          "imageUrl": null
-        },
-        {
-          "id": "43408e499b9b92001a343eda5f6e3a3c",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E3%80%8A%E5%88%A9%E5%A5%A5%E6%B3%A2%E5%BE%B7%E4%BC%A0%E3%80%8B%EF%BC%9A%E5%83%8F%E5%B1%B1%E4%B8%80%E6%A0%B7%E6%80%9D%E8%80%83",
-          "publishedOn": "2026-08-18T01:48:00.000Z",
-          "wordCount": 304,
-          "title": "《利奥波德传》：像山一样思考",
           "imageUrl": null
         }
       ]
