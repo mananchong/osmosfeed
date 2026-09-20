@@ -65,6 +65,76 @@
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
         {
+          "id": "https://www.nationalreview.com/?p=2039885",
+          "author": "Noah C. Gould",
+          "description": "Robert Putnam’s book pinpointed our isolation. We haven’t been able to fix the problem.",
+          "link": "https://www.nationalreview.com/2026/09/americans-are-still-bowling-alone/",
+          "publishedOn": "2026-09-20T10:30:53.000Z",
+          "wordCount": 6946,
+          "title": "Americans Are Still ‘Bowling Alone’",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/09/bowling.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=2039258",
+          "author": "Abigail Anthony",
+          "description": "The Princeton University Art Museum has weaponized its placards against American history.",
+          "link": "https://www.nationalreview.com/2026/09/lectured-by-curators-at-my-alma-mater/",
+          "publishedOn": "2026-09-20T10:30:38.000Z",
+          "wordCount": 7198,
+          "title": "Lectured by Curators at My Alma Mater",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/09/Princeton-University-Art-Museum.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=2040590",
+          "author": "Spencer A. Klavan",
+          "description": "Not even tech CEOs.",
+          "link": "https://www.nationalreview.com/2026/09/nobody-knows-the-future/",
+          "publishedOn": "2026-09-20T10:30:24.000Z",
+          "wordCount": 22261,
+          "title": "Nobody Knows the Future",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/09/segways-us-capitol.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=2037559",
+          "author": "David DeSteno",
+          "description": "The Jewish day of atonement reminds us that when we don’t forgive, we punish ourselves.",
+          "link": "https://www.nationalreview.com/2026/09/forgiveness-is-a-gift-to-us-all/",
+          "publishedOn": "2026-09-20T10:30:18.000Z",
+          "wordCount": 9982,
+          "title": "Forgiveness Is a Gift to Us All",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/09/yom-kippur.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=2039413",
+          "author": "Donald J. Kochan",
+          "description": "But the Supreme Court can stop it.",
+          "link": "https://www.nationalreview.com/2026/09/the-energy-sector-is-threatened-by-a-climate-litigation-free-for-all/",
+          "publishedOn": "2026-09-20T10:30:14.000Z",
+          "wordCount": 7173,
+          "title": "The Energy Sector Is Threatened by a Climate Litigation Free-for-All",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/09/suncorn.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=2039945",
+          "author": "Becket Adams",
+          "description": "It has merely evolved, as recent events attest.",
+          "link": "https://www.nationalreview.com/2026/09/woke-is-not-dead/",
+          "publishedOn": "2026-09-20T10:30:11.000Z",
+          "wordCount": 6280,
+          "title": "‘Woke’ Is Not Dead",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/09/aoc-medoia.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=2039904",
+          "author": "James Lileks",
+          "description": "Will newts’ rights stop the migrant influx?",
+          "link": "https://www.nationalreview.com/2026/09/rue-britannia/",
+          "publishedOn": "2026-09-20T10:30:09.000Z",
+          "wordCount": 6641,
+          "title": "Rue, Britannia",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/09/piddington.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
           "id": "https://www.nationalreview.com/?p=2039174",
           "author": "Andrew C. McCarthy",
           "description": "Trump is pressuring the courts in his renaming campaign, but this is yet another abuse of presidential power that only Congress can address.",
@@ -2173,96 +2243,6 @@
           "wordCount": null,
           "title": "The Path Ahead for Welfare Reform",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=2021332",
-          "author": "Andrew C. McCarthy",
-          "description": "These are the kinds of allegations, however serious they may be, that federal prosecutors would not normally pursue.",
-          "link": "https://www.nationalreview.com/2026/08/trumps-lawfare-against-swalwell/",
-          "publishedOn": "2026-08-21T17:13:33.000Z",
-          "wordCount": null,
-          "title": "Trump’s Lawfare Against Swalwell",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=2021210",
-          "author": "Rich Lowry",
-          "description": "Rolling back Flock won’t reverse this tectonic change that’s been decades in the making, but it will deny law enforcement a valuable asset.",
-          "link": "https://www.nationalreview.com/2026/08/dont-fear-flock-cameras/",
-          "publishedOn": "2026-08-21T14:18:12.000Z",
-          "wordCount": null,
-          "title": "Don’t Fear Flock Cameras",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=2021172",
-          "author": "Caroline Downey",
-          "description": "The trial is Luigi Mangione madness all over again.",
-          "link": "https://www.nationalreview.com/2026/08/no-all-women-do-not-identify-with-lindsay-clancy/",
-          "publishedOn": "2026-08-21T13:10:38.000Z",
-          "wordCount": null,
-          "title": "No, Not All Women Identify with Lindsay Clancy",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=2020615",
-          "author": "Steve Posner",
-          "description": "DSA officeholders and candidates should have to answer whether they think Israel has the right to protect Jewish citizens.",
-          "link": "https://www.nationalreview.com/2026/08/the-question-that-unmasks-democratic-socialists/",
-          "publishedOn": "2026-08-21T10:30:54.000Z",
-          "wordCount": null,
-          "title": "The Question That Unmasks Democratic Socialists",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=2020904",
-          "author": "The Editors",
-          "description": "The nation’s finances hit a grim milestone.",
-          "link": "https://www.nationalreview.com/2026/08/americas-40-trillion-nightmare/",
-          "publishedOn": "2026-08-21T10:30:46.000Z",
-          "wordCount": null,
-          "title": "America’s $40 Trillion Nightmare",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=2020780",
-          "author": "NR Editors",
-          "description": "Plus: Luigi Mangione pleads guilty.",
-          "link": "https://www.nationalreview.com/2026/08/the-week-socialism-comes-for-the-sunshine-state/",
-          "publishedOn": "2026-08-21T10:30:45.000Z",
-          "wordCount": null,
-          "title": "The Week: Socialism Comes for the Sunshine State",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=2020505",
-          "author": "Armond White",
-          "description": "The latest self-hating Millennial non-rom-com.",
-          "link": "https://www.nationalreview.com/2026/08/what-makes-the-invite-so-regrettable/",
-          "publishedOn": "2026-08-21T10:30:41.000Z",
-          "wordCount": null,
-          "title": "What Makes <em>The Invite</em> So Regrettable",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=2020362",
-          "author": "Daniel J. Flynn",
-          "description": "Trinity College’s willingness to jettison the past was something Burke predicted.",
-          "link": "https://www.nationalreview.com/2026/08/meet-edmund-bug/",
-          "publishedOn": "2026-08-21T10:30:31.000Z",
-          "wordCount": null,
-          "title": "Edmund Burke, Meet Edmund Bug",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=2020822",
-          "author": "Abigail Anthony",
-          "description": "In the interest of full disclosure and debate.",
-          "link": "https://www.nationalreview.com/2026/08/how-i-use-ai-as-a-professional-writer/",
-          "publishedOn": "2026-08-21T10:30:14.000Z",
-          "wordCount": null,
-          "title": "How I Use AI as a Professional Writer",
-          "imageUrl": null
         }
       ]
     },
@@ -2271,6 +2251,26 @@
       "feedUrl": "https://sspai.com/feed",
       "siteUrl": "https://sspai.com",
       "articles": [
+        {
+          "id": "https://sspai.com/post/114495",
+          "author": "PJHubs",
+          "description": "这是一趟水陆空三栖的旅行——在万象的街头巷尾无意间推门而入点了一份炸五花肉套饭，味道香上了头发根；在万荣连跳两天水，最高的 8 米跳台跳下来砸得屁股很疼，各种户外活动性价比拉满；琅勃拉邦的慢生活，从清晨薄雾中的布施开始到日落时分反射着金光的湄公河结束。查看全文",
+          "link": "https://sspai.com/post/114495",
+          "publishedOn": "2026-09-20T07:00:00.000Z",
+          "wordCount": 443,
+          "title": "觉来知打明钟未，忽听邻家叫佛声：佛国老挝行记",
+          "imageUrl": "https://rssfile.sspai.com/2026/09/12/aef2ee263ce9856c5f0002c7fa5072b4.JPG?imageMogr2/auto-orient/ignore-error/1"
+        },
+        {
+          "id": "https://sspai.com/post/114717",
+          "author": "OrbiSona",
+          "description": "会议开到一半，手机亮了：一个陌生号码。你盯着屏幕犹豫了几秒，不知道这会是推销、客户，还是外卖员。直接挂掉，又得惦记着会不会耽误正事；接起来，不方便说，聊完还得整理待办。轮到你主动打电话，也不轻松。邀约 ...查看全文",
+          "link": "https://sspai.com/post/114717",
+          "publishedOn": "2026-09-20T03:01:47.000Z",
+          "wordCount": 242,
+          "title": "给电话加上「辅助驾驶」？我们想听听你的意见",
+          "imageUrl": "https://rssfile.sspai.com/2026/9/18/article/d9ea303b-be79-ebab-d373-19191e2fde9d.jpeg?imageMogr2/auto-orient/ignore-error/1"
+        },
         {
           "id": "https://sspai.com/post/114641",
           "author": "鸿苓",
@@ -3290,16 +3290,6 @@
           "wordCount": 280,
           "title": "线下活动｜Echoes Remain：迈克尔杰克逊 68 周年诞辰唱片展",
           "imageUrl": "https://rssfile.sspai.com/2026/8/21/article/551b75e2-393d-5b46-55bd-aae117b151ec.jpeg?imageMogr2/auto-orient/ignore-error/1"
-        },
-        {
-          "id": "https://sspai.com/post/113693",
-          "author": "少数派编辑部",
-          "description": "📅本周新预告《复仇者联盟5》新预告8月15日，电影《复仇者联盟5：毁灭之日》发布了新预告，将于12月全球献映。罗素兄弟执导，克里斯·埃文斯、克里斯·海姆斯沃斯、佩德罗·帕斯卡等主演，小罗伯特·唐尼回归 ...查看全文",
-          "link": "https://sspai.com/post/113693",
-          "publishedOn": "2026-08-21T10:08:59.000Z",
-          "wordCount": 649,
-          "title": "本周看什么 | 最近值得一看的 10 部作品",
-          "imageUrl": "https://rssfile.sspai.com/2026/8/21/article/64cacf92-6e33-57f3-4827-6b9873aaab28.png?imageMogr2/auto-orient/ignore-error/1"
         }
       ]
     },
@@ -3308,6 +3298,132 @@
       "feedUrl": "https://plink.anyfeeder.com/idaily/today",
       "siteUrl": "https://idai.ly",
       "articles": [
+        {
+          "id": "idaily-258562",
+          "author": null,
+          "description": "俄罗斯「进步 MS-35」号货运飞船抵达国际空间站。9月19日，「进步号」货运飞船成功抵达国际空间站并对接于「探索号」实验舱。本次任务共向空间站运送约3吨货物，包括1275公斤食物、842公斤燃料、420升饮用水、50公斤氧气、357公斤医疗和卫生用品、20公斤药品，以及太空实验样本和科研设备。这艘飞船将在空间站停靠5个月，随后于2027年2月携带废料返回地球大气层焚毁。摄影师：NASA",
+          "link": "https://m.idai.ly/se/2c05te",
+          "publishedOn": "2026-09-20T10:59:00.000Z",
+          "wordCount": 265,
+          "title": "进步号货运飞船抵达空间站 - September 20, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/3a54d495ea/dc1b1107.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/3a54d495ea/dc1b1107.jpg"
+        },
+        {
+          "id": "idaily-258561",
+          "author": null,
+          "description": "第20届亚洲运动会开幕式在名古屋市瑞穗公园体育场举行，日本。9月19日，第20届爱知·名古屋亚运会正式开幕。本届亚运会开幕式演出主题为「和谐心跳」(Harmonic Heart Beat)，总时长约2个小时，主舞台中央布景是以名古屋城天守阁为原型的巨型气球装置。这是日本继1958年东京亚运会、1994年广岛亚运会后第3次举办亚运会，赛程从9月19日持续至10月4日，共有来自45个国家和地区的约1.1万名运动员参赛，共将角逐产生469枚金牌。摄影师：iDaily Media",
+          "link": "https://m.idai.ly/se/e1bL2t",
+          "publishedOn": "2026-09-20T09:58:00.000Z",
+          "wordCount": 265,
+          "title": "第20届亚运会开幕 - September 20, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/b4b77d80f9/865ad669.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/b4b77d80f9/865ad669.jpg"
+        },
+        {
+          "id": "idaily-258559",
+          "author": null,
+          "description": "俄罗斯总统 Vladimir Putin 以线上方式参加俄罗斯国家杜马选举投票，莫斯科。9月18日，俄罗斯第9届国家杜马选举投票正式开始。这是俄罗斯自2022年俄乌冲突爆发以来首次举行全国性议会选举，约1.11亿合格选民将投票选出新一届国家杜马450个席位、11个地区的行政长官和39个地区的地方议员，2022年公投入俄的顿涅茨克等4个地区选民将首次参加国家杜马投票，选举结果将于10月5日前公布。现任执政党「统一俄罗斯党」目前在国家杜马拥有310个席位，本次改选后预计将继续保持绝对优势地位。摄影师：Vyacheslav Prokofyev",
+          "link": "https://m.idai.ly/se/e5dcEh",
+          "publishedOn": "2026-09-20T08:57:00.000Z",
+          "wordCount": 265,
+          "title": "俄罗斯国家杜马选举投票 - September 20, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/6b8e645a93/7e57dd75.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/6b8e645a93/7e57dd75.jpg"
+        },
+        {
+          "id": "idaily-258558",
+          "author": null,
+          "description": "美国白宫媒体办公室的CNN工位，华盛顿特区。9月18日，美国总统 Trump 在社交媒体发文宣布即日起禁止 CNN、MS NOW 和 Politico 三家美国新闻媒体的记者进入白宫，封杀理由为「长期编造假新闻（Fake news）」。这三家媒体的白宫记者证在9月19日被没收。白宫记者协会（WHCA）当天发表声明称该禁令违反美国《宪法》第一修正案，敦促白宫立即恢复相关媒体人员的采访权限。摄影师：Evan Vucci",
+          "link": "https://m.idai.ly/se/641z1R",
+          "publishedOn": "2026-09-20T08:55:00.000Z",
+          "wordCount": 265,
+          "title": "特朗普禁止CNN进入白宫 - September 20, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/eba0e118cf/3efe8920.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/eba0e118cf/3efe8920.jpg"
+        },
+        {
+          "id": "idaily-258557",
+          "author": null,
+          "description": "2026东京电玩展（Tokyo Game Show），《幻兽帕鲁》游戏开发商展台的一只巨型「空涡龙」充气模型，日本千叶县。9月17日，东京电玩展30周年特展在千叶市幕张展览馆开幕，本年度共有来自53个国家和地区的1138家游戏商参展，创下史上最大规模，预计吸引约30万观众入场。游戏市场调研公司 Newzoo 报告预测2026年全球电子游戏市场规模将达到2139亿美元，同比增长6.1%；游戏玩家增至37亿人，达到全球总人口的40%以上。摄影师：iDaily Media",
+          "link": "https://m.idai.ly/se/cfeIxU",
+          "publishedOn": "2026-09-20T08:53:00.000Z",
+          "wordCount": 265,
+          "title": "2026东京电玩展 - September 20, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/56e91f46f9/77c3bae3.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/56e91f46f9/77c3bae3.jpg"
+        },
+        {
+          "id": "idaily-258555",
+          "author": null,
+          "description": "古巴首都哈瓦那在停电中迎来日落。9月18日，古巴全国遭遇新一轮大规模停电事件，主要原因是高压输电线路故障和恶劣天气影响。这是古巴2026年迄今第8次大范围停电，目前首都哈瓦那约一半地区已恢复供电，其他地区电力系统仍在抢修中。美国国务院本周宣布对古巴实施新一轮制裁，本轮制裁主要针对古巴军工和矿产企业，共有8个实体和3名个人被列入制裁名单。国际货币基金组织预测2026年古巴 GDP 将下跌-7.2%，跌幅达到2025年的两倍。摄影师：Adalberto Roque",
+          "link": "https://m.idai.ly/se/cee2U3",
+          "publishedOn": "2026-09-20T08:51:00.000Z",
+          "wordCount": 265,
+          "title": "古巴再次遭遇大范围停电 - September 20, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/1b42e7f740/e74db894.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/1b42e7f740/e74db894.jpg"
+        },
+        {
+          "id": "idaily-258554",
+          "author": null,
+          "description": "朝鲜最高领导人金正恩视察火箭炮生产车间。9月19日，朝中社报道朝鲜最高领导人金正恩于9月16日至18日视察多家主要军工企业。金正恩对国防工业部门扩大产能表示赞赏，要求企业改善生产条件和环境，提高攻击及防御战斗武器系统的人工智能化水平，进一步提高火炮武器装甲化和自动化水平，强调建设强大的炮兵武力是遏制战争和执行战争的基本核心。韩国联合参谋本部9月20日通报朝鲜于当天下午15点左右向东部海域发射一枚弹道导弹。摄影师：KCNA",
+          "link": "https://m.idai.ly/se/a0bL0C",
+          "publishedOn": "2026-09-20T08:49:00.000Z",
+          "wordCount": 265,
+          "title": "金正恩视察军工企业 - September 20, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/45a093b046/1596eb3b.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/45a093b046/1596eb3b.jpg"
+        },
+        {
+          "id": "idaily-258551",
+          "author": null,
+          "description": "印尼动物救援人员在山火灾区成功解救一对红毛猩猩（Orangutan）母子，西加里曼丹省。9月18日，印尼自然资源保护局宣布在吉打邦县山火灾区救出一只约15岁的雌性红毛猩猩和一只仍处于哺乳期的1个月幼崽，初步检查确定这2只红毛猩猩未受到烧伤和外伤，兽医已为母猩猩进行临时静脉输液和吸氧治疗，后续将转移至康复中心接受进一步观察。印尼动物保护部门过去一个月已从山火中救出至少15只受困的红毛猩猩。摄影师：YIARI",
+          "link": "https://m.idai.ly/se/05d478",
+          "publishedOn": "2026-09-20T08:47:00.000Z",
+          "wordCount": 265,
+          "title": "印尼救助山火灾区红毛猩猩 - September 20, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/a2222e0d79/7b01a9a2.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/a2222e0d79/7b01a9a2.jpg"
+        },
+        {
+          "id": "idaily-258549",
+          "author": null,
+          "description": "旅西班牙大熊猫「金喜」正在享用6岁生日蛋糕。9月19日，西班牙马德里动物园为旅西大熊猫「金喜」和「茱萸」准备了竹子和水果冰蛋糕庆祝6岁生日。雄性大熊猫「金喜」出生于2020年9月1日，雌性大熊猫「茱萸」出生于2020年10月25日，这对大熊猫于2024年4月29日抵达马德里动物园开启为期10年旅居生活，是目前西班牙境内唯一一对大熊猫。摄影师：Jesús Hellín",
+          "link": "https://m.idai.ly/se/84dspa",
+          "publishedOn": "2026-09-20T08:45:00.000Z",
+          "wordCount": 265,
+          "title": "旅西大熊猫6岁生日 - September 20, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/c9695205c1/cfcee844.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/c9695205c1/cfcee844.jpg"
+        },
         {
           "id": "idaily-258494",
           "author": "俄罗斯 · 普列谢茨克",
@@ -6093,118 +6209,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://pic.yupoo.com/fotomag/28657d5b52/9bc5d76b.jpg"
-        },
-        {
-          "id": "idaily-256932",
-          "author": "美国 · 夏威夷",
-          "description": "太平洋飓风「拉拉」（Lala）持续影响夏威夷群岛。8月19日，2026年中太平洋首个大型飓风「拉拉」增强为三级飓风，最大持续风速达每小时185公里。夏威夷大岛东北部受「拉拉」飓风影响遭遇创纪录的110.6厘米降雨量。本次飓风已造成夏威夷州至少2人死亡，逾1.3万户家庭断电。美国国家海洋和大气管理局预测「拉拉」对夏威夷群岛的影响将持续至8月21日。摄影师：NOAA",
-          "link": "https://m.idai.ly/se/7ad66g",
-          "publishedOn": "2026-08-21T10:58:00.000Z",
-          "wordCount": 244,
-          "title": "飓风「拉拉」侵袭夏威夷 - August 21, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/d60d0d49a6/8aae438d.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/d60d0d49a6/8aae438d.jpg"
-        },
-        {
-          "id": "idaily-256931",
-          "author": "美国 · 华盛顿特区",
-          "description": "美国总统 Donald Trump 在白宫发表促进加密货币合法化的讲话，华盛顿特区。8月19日，美国财政部数据显示联邦政府债务总额首次突破40万亿美元，相当于GDP总值的126%，逼近美国国会最新设定的41.1万亿美元法定债务上限。美国政府2026年迄今新增赤字总额接近1.8万亿美元，其中2026年7月财政赤字达4323亿美元，为2021年3月以来最高月度纪录。美国30年期国债收益率已升至5.34%，位于2007年以来最高水平。摄影师：Alex Wong",
-          "link": "https://m.idai.ly/se/0b114d",
-          "publishedOn": "2026-08-21T09:58:00.000Z",
-          "wordCount": 244,
-          "title": "美债突破40万亿美元 - August 21, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/7d9871a8e4/b2f0b778.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/7d9871a8e4/b2f0b778.jpg"
-        },
-        {
-          "id": "idaily-256930",
-          "author": "韩国 · 首尔",
-          "description": "韩国总统李在明在青瓦台会见中国外交部长王毅，首尔。8月20日，韩国总统李在明与中国外长王毅就中韩关系、朝鲜半岛局势、高层交往等议题交换意见。中国外长王毅表示，中韩关系自今年以来全面恢复并取得积极进展，希望韩方坚定奉行对华友好政策，推动中韩自由贸易协定第二阶段谈判，以实际行动促进地区经济一体化。韩国总统李在明表示韩中加强战略合作符合两国根本利益，期待11月赴深圳参加APEC峰会。韩国文化体育观光部数据显示2026年上半年韩国累计接待中国大陆游客达321万人次，同比增长27.1%，约占访韩外国游客总数的三分之一。摄影师：Cheong Wa Dae",
-          "link": "https://m.idai.ly/se/b88IXf",
-          "publishedOn": "2026-08-21T08:57:00.000Z",
-          "wordCount": 244,
-          "title": "韩国总统会见中国外长 - August 21, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/bdb881baeb/5909fb70.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/bdb881baeb/5909fb70.jpg"
-        },
-        {
-          "id": "idaily-256929",
-          "author": "印度 · 新德里",
-          "description": "日本防卫相小泉进次郎与印度国防部长 Rajnath Singh 出席双边协议签署仪式，新德里。8月19日，日本防卫相小泉进次郎首次出访印度，主要行程包括出席日印防长会谈、考察印度海军基地等。两国防长就防务合作、国际及地区局势等议题交换意见，双方会后签署有关海洋安全合作的谅解备忘录，同意加强信息共享、部队互访、联合演习以及舰艇维修设施和港湾使用权等后勤协作，推进落实日本向印度出口舰载通信天线系统的协议。共同社报道称，小泉进次郎透露日方已向印方传达希望允许日本自卫队使用印度导弹发射试验场的想法。摄影师：iDaily Media",
-          "link": "https://m.idai.ly/se/8581nc",
-          "publishedOn": "2026-08-21T08:55:00.000Z",
-          "wordCount": 244,
-          "title": "印日防长举行会晤 - August 21, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/fe724b7344/c665b973.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/fe724b7344/c665b973.jpg"
-        },
-        {
-          "id": "idaily-256928",
-          "author": "加沙地带 · 加沙城",
-          "description": "加沙地带举办以色列空袭遇难者集体葬礼，加沙城。8月20日，加沙地带为废墟中新挖掘出的50名遇难者的遗体举行集体葬礼。这些遇难者在2024年的以军空袭中丧生，其中包括19名儿童，其余主要为妇女和老人。加沙卫生部当天通报过去24小时以色列军方对加沙地带袭击造成10名巴勒斯坦人死亡和超过25人受伤，自2025年10月停火协议生效以来已有1283名巴勒斯坦人丧生，受伤人数达到4248人。本轮以巴冲突迄今累计造成73417人死亡，超过17.4万人受伤，摄影师：Omar Al-Qattaa",
-          "link": "https://m.idai.ly/se/7fdjE3",
-          "publishedOn": "2026-08-21T08:53:00.000Z",
-          "wordCount": 244,
-          "title": "加沙举行集体葬礼 - August 21, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/cdb8a133b1/65cf3b72.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/cdb8a133b1/65cf3b72.jpg"
-        },
-        {
-          "id": "idaily-256927",
-          "author": "日本 · 大阪",
-          "description": "大阪中之岛美术馆展出荷兰黄金时代画家维米尔的代表作《戴珍珠耳环的少女》，日本。8月21日，大阪中之岛美术馆「戴珍珠耳环的少女」特展正式开幕，本次展览共汇集12件荷兰莫瑞泰斯皇家美术馆收藏的17世纪画作，核心展品为 Johannes Vermeer 1665年油画《戴珍珠耳环的少女》。这是该画作时隔12年首次离开荷兰在境外展出，展期持续至9月27日。摄影师：iDaily Media",
-          "link": "https://m.idai.ly/se/283onC",
-          "publishedOn": "2026-08-21T08:51:00.000Z",
-          "wordCount": 244,
-          "title": "《戴珍珠耳环的少女》大阪特展 - August 21, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/4edb7a5b46/7b3cfa2e.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/4edb7a5b46/7b3cfa2e.jpg"
-        },
-        {
-          "id": "idaily-256926",
-          "author": "韩国 · 丽水",
-          "description": "俯瞰韩国2026年世界岛屿博览会主会场展馆，丽水市。这是全球首个以岛屿为主题的国际博览会，将于9月5日至11月4日在韩国丽水举办，主题为「岛屿，连接海洋与未来」，共有来自全球5大洲的31个海外地区参展。本次博览会依托丽水全域365座岛屿及周边海域资源搭建沉浸式天然户外展场，设置主题岛、海洋生态岛、未来岛、文化岛、宝藏岛、餐厅市集岛等8个展馆，会场面积达18.4万平方米，预计将吸引游客300万人次。摄影师：iDaily Media",
-          "link": "https://m.idai.ly/se/ca9yGh",
-          "publishedOn": "2026-08-21T08:49:00.000Z",
-          "wordCount": 244,
-          "title": "韩国筹备世界岛屿博览会 - August 21, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/cac58e0cbe/da8bcf26.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/cac58e0cbe/da8bcf26.jpg"
-        },
-        {
-          "id": "idaily-256925",
-          "author": "德国 · 汉诺威",
-          "description": "德国汉诺威动物园的亚达伯拉象龟入住新龟舍。8月20日，德国汉诺威动物园正式启用新建造的恒温龟舍，首批共有4只象龟入住，分别为82岁的「Leopold」、80岁的「Bert」、57岁的「Romina」和30岁的「Cassiopeia」，体重在76公斤至195公斤之间。新龟舍面积约240平方米，采用玻璃封闭式设计，馆内设有大型水池和沙地，并通过地暖、紫外线灯和加湿系统等营造适合象龟生存的热带气候。摄影师：Julian Stratenschulte",
-          "link": "https://m.idai.ly/se/783Blz",
-          "publishedOn": "2026-08-21T08:47:00.000Z",
-          "wordCount": 244,
-          "title": "汉诺威动物园象龟入住新家 - August 21, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/a1b8e496e7/4a7afd7e.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/a1b8e496e7/4a7afd7e.jpg"
         }
       ]
     },
@@ -7550,6 +7554,46 @@
       "feedUrl": "https://plink.anyfeeder.com/weixin/ibookreview",
       "siteUrl": "http://weixin.sogou.com/weixin?type=1&s_from=input&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A",
       "articles": [
+        {
+          "id": "05b3f9545ad5a4e0745b77e5bd763b95",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E3%80%8A%E7%BA%B3%E5%A1%94%E5%88%A9%E4%BA%9A%E4%BC%A0%E5%A5%87%E3%80%8B%EF%BC%9A%E4%B8%80%E4%B8%AA%E5%85%B3%E4%BA%8E%E6%88%90%E7%86%9F%E3%80%81%E9%80%89%E6%8B%A9%E4%B8%8E%E5%9B%BD%E5%BA%A6%E7%9A%84%E6%95%85%E4%BA%8B",
+          "publishedOn": "2026-09-20T01:21:00.000Z",
+          "wordCount": 264,
+          "title": "《纳塔利亚传奇》：一个关于成熟、选择与国度的故事",
+          "imageUrl": null
+        },
+        {
+          "id": "8338e51f2dd07760f222bdf8b940897a",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E6%80%AA%E7%89%A9%E4%B9%8B%E5%A4%96%E7%9A%84%E6%B4%9B%E5%A4%AB%E5%85%8B%E6%8B%89%E5%A4%AB%E7%89%B9",
+          "publishedOn": "2026-09-20T01:21:00.000Z",
+          "wordCount": 303,
+          "title": "怪物之外的洛夫克拉夫特",
+          "imageUrl": null
+        },
+        {
+          "id": "f28ebafd2048050adf253909395a9aa9",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E7%93%B7%E4%B8%8E%E9%93%81%E5%A6%82%E4%BD%95%E6%94%B9%E5%8F%98%E6%B5%B7%E5%B2%9B%E7%A4%BE%E4%BC%9A%EF%BC%9F%E6%9D%A5%E8%87%AA%E6%B5%B7%E4%B8%8A%E4%B8%9D%E7%BB%B8%E4%B9%8B%E8%B7%AF%E7%9A%84%E5%8F%91%E7%8E%B0",
+          "publishedOn": "2026-09-20T01:21:00.000Z",
+          "wordCount": 301,
+          "title": "瓷与铁如何改变海岛社会？来自海上丝绸之路的发现",
+          "imageUrl": null
+        },
+        {
+          "id": "2932599e93d681e40f584587656ff4a9",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E4%BE%A8%E6%89%B9%EF%BC%9A%E5%A4%A7%E6%B4%8B%E5%BD%BC%E5%B2%B8%E7%9A%84%E4%B8%96%E7%BA%AA%E5%9B%9E%E5%A3%B0",
+          "publishedOn": "2026-09-20T01:21:00.000Z",
+          "wordCount": 297,
+          "title": "侨批：大洋彼岸的世纪回声",
+          "imageUrl": null
+        },
         {
           "id": "eb95e20e5689d3f82ecf4d47efb7541b",
           "author": null,
