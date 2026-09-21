@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mananchong.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-21T14:29:12.387Z</updated>
+    <updated>2026-09-21T20:30:22.257Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mananchong.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://mananchong.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Why U.N. Agencies Can’t Police Themselves]]></title>
+        <id>https://www.nationalreview.com/?p=2041627</id>
+        <link href="https://www.nationalreview.com/2026/09/why-u-n-agencies-cant-police-themselves/"/>
+        <updated>2026-09-21T20:02:26.000Z</updated>
+        <summary type="html"><![CDATA[Too often, nefarious actors are thwarting humanitarian efforts and wasting U.S. taxpayers’ money.]]></summary>
+        <author>
+            <name>Danielle Pletka and Brett Schaefer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How the Gubernatorial Races Are Breaking]]></title>
+        <id>https://www.nationalreview.com/?p=2041643</id>
+        <link href="https://www.nationalreview.com/2026/09/how-the-gubernatorial-races-are-breaking-2/"/>
+        <updated>2026-09-21T19:43:40.000Z</updated>
+        <summary type="html"><![CDATA[The races aren’t as uniform as the Senate’s, but the overall picture for the GOP is bad. Very bad.]]></summary>
+        <author>
+            <name>Dan McLaughlin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一台主机，多重角色：新款 Mac mini 首发体验]]></title>
         <id>https://sspai.com/post/114829</id>
@@ -8524,27 +8544,6 @@ R in the Real…]]></summary>
         <summary type="html"><![CDATA[美国联邦调查局洛杉矶分局举行埃及文物归还仪式，加利福尼亚州。8月21日，美国政府向埃及政府移交48件非法走私古代文物，包括珠宝、雕塑、护身符、陪葬品等，年代覆盖法老时期、罗马时期和科普特时期。美国与埃及政府于2016年签署走私文物识别、拦截和归还协议，过去10年已累计向埃及移交超过5000件走私文物。摄影师：Patrick T. Fallon]]></summary>
         <author>
             <name>美国 · 洛杉矶</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI 时代的 Surface Pro 7 改造指南：看板、轻量工作站与 Linux 笔记本]]></title>
-        <id>https://sspai.com/prime/story/surface-pro-7-linux-ai-dashboard</id>
-        <link href="https://sspai.com/prime/story/surface-pro-7-linux-ai-dashboard"/>
-        <updated>2026-08-23T07:25:29.000Z</updated>
-        <summary type="html"><![CDATA[手头这台闲置的SurfacePro7在桌角放了挺长一段时间。当年买它看重的是二合一的便携形态，但放在Windows11下只要长时间亮屏就一定会过热、偶尔跳屏，基本处于不可用的状态。直到前阵子在网上看到 ...查看全文
-本文为会员文章，出自《单篇文章》，订阅后可阅读全文。]]></summary>
-        <author>
-            <name>neyham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[让 PC 与 HomePod 互联：音频串流工具 WinAirCast]]></title>
-        <id>https://sspai.com/post/113002</id>
-        <link href="https://sspai.com/post/113002"/>
-        <updated>2026-08-23T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[打破生态壁垒，让好的设备发挥出它应有的价值，这就是 WinAirCast 的初衷。我们希望为 Windows 用户提供一款稳定、低延迟且现代化的音频串流工具。查看全文]]></summary>
-        <author>
-            <name>isayyeah</name>
         </author>
     </entry>
 </feed>

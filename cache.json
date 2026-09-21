@@ -75,6 +75,26 @@
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
         {
+          "id": "https://www.nationalreview.com/?p=2041627",
+          "author": "Danielle Pletka and Brett Schaefer",
+          "description": "Too often, nefarious actors are thwarting humanitarian efforts and wasting U.S. taxpayers’ money.",
+          "link": "https://www.nationalreview.com/2026/09/why-u-n-agencies-cant-police-themselves/",
+          "publishedOn": "2026-09-21T20:02:26.000Z",
+          "wordCount": 15962,
+          "title": "Why U.N. Agencies Can’t Police Themselves",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/09/united-nations.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=2041643",
+          "author": "Dan McLaughlin",
+          "description": "The races aren’t as uniform as the Senate’s, but the overall picture for the GOP is bad. Very bad.",
+          "link": "https://www.nationalreview.com/2026/09/how-the-gubernatorial-races-are-breaking-2/",
+          "publishedOn": "2026-09-21T19:43:40.000Z",
+          "wordCount": 6090,
+          "title": "How the Gubernatorial Races Are Breaking",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/09/gov.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
           "id": "https://www.nationalreview.com/?p=2040235",
           "author": "Joel Kotkin",
           "description": "The demographic crisis calls most of all for a new humanism.",
@@ -3330,26 +3350,6 @@
           "wordCount": 395,
           "title": "派早报：九家车企召回近 430 万辆不易识别应急拉手汽车",
           "imageUrl": "https://rssfile.sspai.com/8/24/2026/article/73828906-805f-67dc-64a4-7f04d988cac2.png?imageMogr2/auto-orient/ignore-error/1"
-        },
-        {
-          "id": "https://sspai.com/prime/story/surface-pro-7-linux-ai-dashboard",
-          "author": "neyham",
-          "description": "手头这台闲置的SurfacePro7在桌角放了挺长一段时间。当年买它看重的是二合一的便携形态，但放在Windows11下只要长时间亮屏就一定会过热、偶尔跳屏，基本处于不可用的状态。直到前阵子在网上看到 ...查看全文\n本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
-          "link": "https://sspai.com/prime/story/surface-pro-7-linux-ai-dashboard",
-          "publishedOn": "2026-08-23T07:25:29.000Z",
-          "wordCount": 428,
-          "title": "AI 时代的 Surface Pro 7 改造指南：看板、轻量工作站与 Linux 笔记本",
-          "imageUrl": "https://rssfile.sspai.com/2026/08/15/71ed5bf906f108964e970ba717e3bfc7.png?imageMogr2/auto-orient/ignore-error/1"
-        },
-        {
-          "id": "https://sspai.com/post/113002",
-          "author": "isayyeah",
-          "description": "打破生态壁垒，让好的设备发挥出它应有的价值，这就是 WinAirCast 的初衷。我们希望为 Windows 用户提供一款稳定、低延迟且现代化的音频串流工具。查看全文",
-          "link": "https://sspai.com/post/113002",
-          "publishedOn": "2026-08-23T03:00:00.000Z",
-          "wordCount": 380,
-          "title": "让 PC 与 HomePod 互联：音频串流工具 WinAirCast",
-          "imageUrl": "https://rssfile.sspai.com/2026/08/02/9024742d625421d37ef9d4ce5445d66b.png?imageMogr2/auto-orient/ignore-error/1"
         }
       ]
     },
