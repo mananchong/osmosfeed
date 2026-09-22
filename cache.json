@@ -44,16 +44,6 @@
           "wordCount": 6067,
           "title": "R Weekly 2026-W36 Jarl R linter, R docs sites",
           "imageUrl": "https://rweekly.org/public/facebook.png"
-        },
-        {
-          "id": "https://rweekly.org/2026-W35.html",
-          "author": null,
-          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Eric Nantz, with help from the R Weekly team members and contributors.\nEditor’s Note: This week’s issue also includes resources from the 2026-W34 curation window. Enjoy a super-sized issue of R Weekly!\nHighlight\nWhy creativity matters in data visualisation\nuseR! 2026: Futurize - Tearing Down Parallelization Barriers in R with Transpilers\nTricky Parts of Async Mirai Magic\nInsights\nDeprecation messages for package data\nReading notes on Code That Fits in Your Head by Mark Seemann\nReading notes on The Programmer’s Brain by Felienne Hermans\nWhy creativity matters in data visualisation\n\nBreaking the Python Barrier: Building a Pure R-Native DeepAR Engine with LibTorch\nR in the Real…",
-          "link": "https://rweekly.org/2026-W35.html",
-          "publishedOn": "2026-08-24T00:00:00.000Z",
-          "wordCount": 7452,
-          "title": "R Weekly 2026-W35 Visualization Creativity, Futurize, Tricky Async",
-          "imageUrl": "https://rweekly.org/public/facebook.png"
         }
       ]
     },
@@ -74,6 +64,66 @@
       "feedUrl": "https://www.nationalreview.com/feed/",
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
+        {
+          "id": "https://www.nationalreview.com/?p=2041620",
+          "author": "John Gerardi",
+          "description": "Slippery terminology undermines human dignity.",
+          "link": "https://www.nationalreview.com/2026/09/no-you-cant-be-kind-of-pregnant/",
+          "publishedOn": "2026-09-22T10:30:53.000Z",
+          "wordCount": 6988,
+          "title": "No, You Can’t Be ‘Kind of’ Pregnant",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/09/woman-pregnancy-test.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=2039875",
+          "author": "Nicholas Clifford",
+          "description": "The edicts of the administrative state must be easier to read and harder to transgress.",
+          "link": "https://www.nationalreview.com/2026/09/congress-can-finally-drag-federal-guidance-into-the-light/",
+          "publishedOn": "2026-09-22T10:30:44.000Z",
+          "wordCount": 6482,
+          "title": "Congress Can Finally Drag Federal ‘Guidance’ into the Light",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/09/capitol-dome-reflection.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=2041758",
+          "author": "Rich Lowry",
+          "description": "The New York City public schools mugged her, and yet she still doesn’t want to press charges.",
+          "link": "https://www.nationalreview.com/2026/09/the-strange-racial-solidarity-of-nikole-hannah-jones/",
+          "publishedOn": "2026-09-22T10:30:31.000Z",
+          "wordCount": 6707,
+          "title": "The Strange Racial Solidarity of Nikole Hannah-Jones",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/09/nikole-hannah-jones.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=2038177",
+          "author": "Joseph Loconte",
+          "description": "Concessions made at the conference paved the path to war.",
+          "link": "https://www.nationalreview.com/2026/09/stresa-1935-the-seedbed-of-appeasement/",
+          "publishedOn": "2026-09-22T10:30:24.000Z",
+          "wordCount": 7061,
+          "title": "Stresa, 1935: The Seedbed of Appeasement",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/09/stresa-conference-1935.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=2041811",
+          "author": "The Editors",
+          "description": "The president was right to focus on the Arctic island but damaged our reputation as a reliable ally in pursuit of his newly touted deal.",
+          "link": "https://www.nationalreview.com/2026/09/trumps-costly-greenland-play/",
+          "publishedOn": "2026-09-22T10:30:23.000Z",
+          "wordCount": 5970,
+          "title": "Trump’s Costly Greenland Play",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/01/us-military-greenland-8.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=2041626",
+          "author": "Robert Pondiscio and Nick Gibb",
+          "description": "England borrowed some of its most important education ideas from America. Now it may be time to return the favor.",
+          "link": "https://www.nationalreview.com/2026/09/what-america-can-learn-from-englands-education-revolution/",
+          "publishedOn": "2026-09-22T10:30:20.000Z",
+          "wordCount": 7247,
+          "title": "What America Can Learn from England’s Education Revolution",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/09/british-students-classroom.jpg?fit=2057%2C1200&ssl=1"
+        },
         {
           "id": "https://www.nationalreview.com/?p=2041627",
           "author": "Danielle Pletka and Brett Schaefer",
@@ -2203,76 +2253,6 @@
           "wordCount": null,
           "title": "What If Factories Had Gotten the Data-Center Treatment?",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=2022422",
-          "author": "John Fund",
-          "description": "Celebrating the Cuban dictator on his centennial, the DSA shows its soft spot for communist tyrannies.",
-          "link": "https://www.nationalreview.com/2026/08/the-democratic-socialists-of-america-hate-billionaires-except-fidel-castro/",
-          "publishedOn": "2026-08-23T21:35:33.000Z",
-          "wordCount": null,
-          "title": "The Democratic Socialists of America Hate Billionaires — Except Fidel Castro",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=2021287",
-          "author": "James Lileks",
-          "description": "Will they change the culture of their new home?",
-          "link": "https://www.nationalreview.com/2026/08/the-new-british-migrants/",
-          "publishedOn": "2026-08-23T10:30:47.000Z",
-          "wordCount": null,
-          "title": "The New British Migrants",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=2018984",
-          "author": "Dawn Wiese",
-          "description": "When everything is considered ‘hazing,’ legitimate group rituals suffer.",
-          "link": "https://www.nationalreview.com/2026/08/clear-the-air-in-college-hazing-oversight/",
-          "publishedOn": "2026-08-23T10:30:28.000Z",
-          "wordCount": null,
-          "title": "The Definition Creep of College Hazing",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=2019059",
-          "author": "Brian J. Paul",
-          "description": "The Court’s legitimacy comes from how it decides, not what it decides.",
-          "link": "https://www.nationalreview.com/2026/08/defending-the-supreme-courts-legitimacy/",
-          "publishedOn": "2026-08-23T10:30:25.000Z",
-          "wordCount": null,
-          "title": "Defending the Supreme Court’s Legitimacy",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=2020731",
-          "author": "Anna Smith Lacey",
-          "description": "Black Ribbon Day reminds us that in a system built on fear and historical amnesia, hope can endure.",
-          "link": "https://www.nationalreview.com/2026/08/what-totalitarianism-could-not-destroy/",
-          "publishedOn": "2026-08-23T10:30:16.000Z",
-          "wordCount": null,
-          "title": "What Totalitarianism Could Not Destroy",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=2021229",
-          "author": "Fred Fleitz",
-          "description": "The JCPOA was far more damaging than most Americans realize.",
-          "link": "https://www.nationalreview.com/2026/08/eight-reasons-why-obamas-iran-nuclear-deal-is-still-a-fraud/",
-          "publishedOn": "2026-08-23T10:30:07.000Z",
-          "wordCount": null,
-          "title": "Eight Reasons Why Obama’s Iran Nuclear Deal Is Still a Fraud",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=2019698",
-          "author": "Sarah Schutte",
-          "description": "Getting close, but not quite there.",
-          "link": "https://www.nationalreview.com/2026/08/the-agony-of-replicating-a-roman-cappuccino/",
-          "publishedOn": "2026-08-23T10:30:05.000Z",
-          "wordCount": null,
-          "title": "The Agony of Replicating a Roman Cappuccino",
-          "imageUrl": null
         }
       ]
     },
@@ -2281,6 +2261,46 @@
       "feedUrl": "https://sspai.com/feed",
       "siteUrl": "https://sspai.com",
       "articles": [
+        {
+          "id": "https://sspai.com/post/114551",
+          "author": "随便好啦",
+          "description": "黄金时代「时尚与科技结合」的浪漫。查看全文",
+          "link": "https://sspai.com/post/114551",
+          "publishedOn": "2026-09-22T08:11:03.000Z",
+          "wordCount": 514,
+          "title": "怀旧手记｜25 年前的笔记本，如何兼顾轻薄、时尚与性能？",
+          "imageUrl": "https://rssfile.sspai.com/2026/09/14/f53db977e4eaf09988a85d8bd653b60e.jpg?imageMogr2/auto-orient/ignore-error/1"
+        },
+        {
+          "id": "https://sspai.com/post/114479",
+          "author": "thisLeon",
+          "description": "从大学时代入不敷出开始记账，到 10 年后发现记账数据没有被充分利用，再到用 Vibe Coding 把自己的想法做成了一款 App——10 年的记账经验变成了产品设计的基础，而 Vibe Coding 让一个非技术出身的人有能力把这些想法实现出来。查看全文",
+          "link": "https://sspai.com/post/114479",
+          "publishedOn": "2026-09-22T06:39:39.000Z",
+          "wordCount": 646,
+          "title": "App+1 | Coast：用十年经验，给记账这件事一个「终点」",
+          "imageUrl": "https://rssfile.sspai.com/2026/09/14/f3d8a711f22a4a86d895059fb6f823d4.png?imageMogr2/auto-orient/ignore-error/1"
+        },
+        {
+          "id": "https://sspai.com/post/114823",
+          "author": "什么陈",
+          "description": "如果你关注了前段时间的少数派众测，应该已经见过PopSockets泡泡骚LowPro极薄站立支架。它是一款颠覆以往所有磁吸支架形态的产品，够薄、够轻，最重要的是足够好用。这款在活动中预告过的独家款支架 ...查看全文",
+          "link": "https://sspai.com/post/114823",
+          "publishedOn": "2026-09-22T02:44:06.000Z",
+          "wordCount": 276,
+          "title": "少数派独家｜泡泡骚 Low Pro 碳纹黑款，把握持与支撑收进 2.6mm",
+          "imageUrl": "https://rssfile.sspai.com/2026/09/21/41d488b2daf068ab6f74403cb29d0d08.png?imageMogr2/auto-orient/ignore-error/1"
+        },
+        {
+          "id": "https://sspai.com/post/114840",
+          "author": "少数派编辑部",
+          "description": "少数派的近期动态少数派会员2026周边现已开放兑换，点击兑换给电话加上「辅助驾驶」？我们想听听你的意见。我们将从提交的问卷中挑选40份用心回答，每份送出50元面值京东卡。参与调研口袋先知新版本1.3. ...查看全文",
+          "link": "https://sspai.com/post/114840",
+          "publishedOn": "2026-09-22T00:09:01.000Z",
+          "wordCount": 928,
+          "title": "派早报：vivo 发布 X500 系列，Google 推出首批 Googlebook 等",
+          "imageUrl": "https://rssfile.sspai.com/2026/9/22/article/ed06551c-a64c-a485-6a49-c628a9fdfc91.png?imageMogr2/auto-orient/ignore-error/1"
+        },
         {
           "id": "https://sspai.com/post/114829",
           "author": "waychane",
@@ -3340,16 +3360,6 @@
           "wordCount": 291,
           "title": "快捷指令 | 让特定 app 小点声：在 iPhone 上实现独立音量控制",
           "imageUrl": "https://rssfile.sspai.com/2026/08/01/86055ad41f316e2daa791e8268c1d833.jpeg?imageMogr2/auto-orient/ignore-error/1"
-        },
-        {
-          "id": "https://sspai.com/post/113767",
-          "author": "少数派编辑部",
-          "description": "九家车企召回近 430 万辆不易识别应急拉手汽车\n英伟达达成 70 亿美元合作，研发顶级开放权重模型\n高院发布著作权新司法解释，网络转载不允许先转后付\n买家利用仅退款漏洞倒卖 13 万元火鸡面被刑拘\n国际加紧制定统一月球时间\n个人消费贷贴息政策扩展覆盖买车、装修等\n看看就行的小道消息\n少数派的近期动态\n你可能错过的好文章\n查看全文",
-          "link": "https://sspai.com/post/113767",
-          "publishedOn": "2026-08-23T23:13:55.000Z",
-          "wordCount": 395,
-          "title": "派早报：九家车企召回近 430 万辆不易识别应急拉手汽车",
-          "imageUrl": "https://rssfile.sspai.com/8/24/2026/article/73828906-805f-67dc-64a4-7f04d988cac2.png?imageMogr2/auto-orient/ignore-error/1"
         }
       ]
     },
@@ -6199,76 +6209,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://pic.yupoo.com/fotomag/0c4a83a085/c6e0ab5b.jpg"
-        },
-        {
-          "id": "idaily-256983",
-          "author": "中国 · 北京",
-          "description": "2026年世界人形机器人运动会举行开幕仪式，北京。8月22日，第2届世界人形机器人运动会在北京国家速滑馆正式开幕。本届运动会共有来自全球16个国家的666支队伍、2056台机器人参赛，参赛队伍数量较首届增长138%，机器人数量翻两番，赛程设置51个项目共1301场比赛，赛期持续至8月26日。赛程首日北京人形机器人创新中心研发的天工 Ultra 机器人在田径100米预赛获得9.39秒成绩，打破人类百米跑世界纪录。摄影师：Wu Hao",
-          "link": "https://m.idai.ly/se/170NNk",
-          "publishedOn": "2026-08-23T10:55:00.000Z",
-          "wordCount": 261,
-          "title": "第2届世界人形机器人运动会 - August 23, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/3198074cef/77b70841.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/3198074cef/77b70841.jpg"
-        },
-        {
-          "id": "idaily-256984",
-          "author": "美国 · 南卡罗来纳州",
-          "description": "美国总统 Donald Trump 在南卡罗来纳州举行中期选举竞选活动，默特尔比奇。8月21日，美国总统 Trump 访问南卡罗来纳州为共和党参议员 Darline Graham 站台拉票。Trump 在约80分钟的演讲中呼吁支持者积极参与中期选举投票，强调如果共和党失去国会控制权，本届政府在边境安全和减税政策方面的努力将前功尽弃。美国中期选举将于2026年11月举行，本次选举将改选众议院全部435个席位和参议院三分之一席位。最新民调显示共和党整体支持率为43%，落后民主党8个百分点。摄影师：Win McNamee",
-          "link": "https://m.idai.ly/se/dacvOP",
-          "publishedOn": "2026-08-23T09:59:00.000Z",
-          "wordCount": 261,
-          "title": "特朗普中期选举民调落后 - August 23, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/05cd330d2f/52500ee0.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/05cd330d2f/52500ee0.jpg"
-        },
-        {
-          "id": "idaily-257017",
-          "author": "加拿大 · 渥太华",
-          "description": "加拿大总理 Mark Carney 就美加贸易谈判破裂举行新闻发布会，渥太华。8月22日，美加贸易谈判在最后一刻宣告失败，美国从当日凌晨开始对价值200亿美元的加拿大产品征收50%关税，主要涉及乳制品、酒精饮料等商品，相当于加拿大对美出口总额的约5%。加拿大总理 Carney 宣布将从9月8日起对美国采取同等力度的关税反制措施，并公开抨击美国在最后时刻提出「不公平、不符合经济逻辑的条款变更」导致谈判破裂。加拿大是美国第二大贸易伙伴，美国是加拿大最大的贸易伙伴，2026年上半年两国双边贸易额约为3759.9亿美元，其中美国对加拿大逆差243.4亿美元。摄影师：Dave Chan",
-          "link": "https://m.idai.ly/se/d5f355",
-          "publishedOn": "2026-08-23T09:57:00.000Z",
-          "wordCount": 261,
-          "title": "美加贸易谈判破裂 - August 23, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/2ba8f2d64e/a9b3bc13.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/2ba8f2d64e/a9b3bc13.jpg"
-        },
-        {
-          "id": "idaily-256979",
-          "author": "日本 · 东京",
-          "description": "东京居民骑自行车经过道路积水区。8月22日，日本东京遭遇「游击式暴雨」袭击，板桥区1小时内录得降雨量超过120毫米，打破历史最高纪录。暴雨积水导致东京多个地区道路被淹，至少1010户家庭停电。日本气象厅当天向东京都、埼玉县以及神奈川县部分地区发布4级暴雨危险警报，并指出本轮关东地区强降雨主要由锋面系统和湿气流引发，预计影响将持续至8月23日。摄影师：Koji Ito",
-          "link": "https://m.idai.ly/se/9f6Izo",
-          "publishedOn": "2026-08-23T09:53:00.000Z",
-          "wordCount": 261,
-          "title": "东京遭遇游击式暴雨 - August 23, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/f55d233527/2dfc3e95.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/f55d233527/2dfc3e95.jpg"
-        },
-        {
-          "id": "idaily-256978",
-          "author": "美国 · 洛杉矶",
-          "description": "美国联邦调查局洛杉矶分局举行埃及文物归还仪式，加利福尼亚州。8月21日，美国政府向埃及政府移交48件非法走私古代文物，包括珠宝、雕塑、护身符、陪葬品等，年代覆盖法老时期、罗马时期和科普特时期。美国与埃及政府于2016年签署走私文物识别、拦截和归还协议，过去10年已累计向埃及移交超过5000件走私文物。摄影师：Patrick T. Fallon",
-          "link": "https://m.idai.ly/se/00b5XL",
-          "publishedOn": "2026-08-23T09:51:00.000Z",
-          "wordCount": 261,
-          "title": "美国归还埃及走私文物 - August 23, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/00dc039555/4ad1a7a0.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/00dc039555/4ad1a7a0.jpg"
         }
       ]
     },
@@ -6277,6 +6217,76 @@
       "feedUrl": "https://plink.anyfeeder.com/nytimes/dual",
       "siteUrl": "http://nytimes.com",
       "articles": [
+        {
+          "id": "https://cn.nytimes.com/china/20260922/xi-trump-meeting-china-summit/dual",
+          "author": null,
+          "description": "DAVID PIERSON2026年9月22日今年5月，特朗普总统与中国领导人习近平在北京人民大会堂。 Kenny Holston/The New York Times\nWhen China’s top leader, Xi Jinping, and President Trump meet in Washington this week, the two men will be operating on vastly different clocks.\n本周，中国最高领导人习近平和特朗普总统在华盛顿会面时，两人面对的政治时钟将大不相同。\nThe American president is constrained by the immediate demands of a midterm election in November and a grinding war. The Chinese leader is gearing up for a norm-shattering fourth term as head of the ruling Communist Party, that will keep him in power for another five years.\n美国总统受到11月中期选举迫在眉睫的政治压力以及一场旷日持久的战争的牵制。中国领导人则正准备开启他打破常规的第四个中共中央总书记任期，这将使他继续执政五年。\nFor Mr. Xi, the disparity in political realities gives him an edge in maintaining the truce that the two countries reached last year. A renewed trade fight would hit America…",
+          "link": "https://cn.nytimes.com/china/20260922/xi-trump-meeting-china-summit/dual",
+          "publishedOn": "2026-09-22T06:06:04.000Z",
+          "wordCount": 1462,
+          "title": "习近平如何看待“习特会”：占据政治优势、底气更足",
+          "imageUrl": "https://static01.nyt.com/images/2026/09/22/multimedia/22int-china-xi-01-pmgl/22int-china-xi-01-pmgl-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/opinion/20260922/america-china-war/dual",
+          "author": null,
+          "description": "ROBERT D. KAPLAN2026年9月22日\nBefore Iran, before Iraq, before Afghanistan there is no country that America has gotten as wrong as China. If this is mystifying, it is only because historical memories are short. America struggled through the previous fiascos. Getting it wrong again would be catastrophic. This is why it is crucial that President Trump strike the right balance in his summit this week with China’s leader, Xi Jinping.\n在误判伊朗、伊拉克和阿富汗之前，没有哪个国家像中国这样，让美国产生如此严重的误判。如果这令人费解，那仅仅是因为人们的历史记忆太短暂。美国跌跌撞撞地熬过了一次次重大失策。若再次犯错，将是灾难性的。正因为如此，本周在与中国领导人习近平的峰会上，特朗普总统对分寸的拿捏至关重要。\nDuring World War II, the United States backed China’s Chiang Kai-shek against the Japanese fascists who had invaded in the 1930s. The Roosevelt administration assumed that China under Chiang’s Nationalists would constitute one of th…",
+          "link": "https://cn.nytimes.com/opinion/20260922/america-china-war/dual",
+          "publishedOn": "2026-09-22T05:36:04.000Z",
+          "wordCount": 1697,
+          "title": "美国再一次误判中国的毁灭性代价",
+          "imageUrl": "https://static01.nyt.com/images/2026/09/22/multimedia/221kaplan-gjbz/221kaplan-gjbz-videoLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/business/20260922/trump-xi-china-trade/dual",
+          "author": null,
+          "description": "ANA SWANSON2026年9月22日特朗普总统与中国领导人习近平去年在韩国釜山会面。 Haiyun Jiang/The New York Times\nWhen the United States and China reached a trade truce during a meeting in South Korea a year ago, it helped restore some stability to an economic relationship that was threatening to spin out of control.\n一年前，美国和中国在韩国举行的会议上达成贸易休战，这有助于为两国面临失控危险的经济关系恢复一些稳定性。\nThe agreement forced President Trump to walk back punishing tariffs on Chinese exports, and made China promise to maintain exports of critical minerals that it had cut off in response to the president’s levies.\n这项协议迫使特朗普总统撤回了对中国出口商品的惩罚性关税，并促使中国承诺维持关键矿产的出口，此前中国为回应特朗普关税而切断了这些矿产的出口。\nNegotiators appear to be preparing to extend that agreement as Xi Jinping, the leader of China, comes to Washington to meet with Mr. Trump later this week. On Sunday night, U.S. offici…",
+          "link": "https://cn.nytimes.com/business/20260922/trump-xi-china-trade/dual",
+          "publishedOn": "2026-09-22T04:36:04.000Z",
+          "wordCount": 1487,
+          "title": "“习特会”在即，中美贸易“暗战”小动作不断",
+          "imageUrl": "https://static01.nyt.com/images/2026/09/21/multimedia/21dc-china-trade-jcfp/21dc-china-trade-jcfp-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/world/20260922/united-nations-artificial-intelligence-china-us/dual",
+          "author": null,
+          "description": "DUSTIN VOLZ2026年9月22日上周，北京千寻智能公司总部数据训练中心里的员工。人工智能将成为本周联合国大会数场会议的主导议题。 Tingshu Wang/Reuters\nAs the threats posed by artificial intelligence spark international alarm, the stakes of the Chinese leader Xi Jinping’s state visit to Washington this week have only grown bigger.\n随着人工智能带来的威胁引发国际恐慌，中国领导人习近平本周对华盛顿的国事访问显得非同小可。\nEarning considerably less attention are the meetings focused on A.I. at the United Nations General Assembly in New York this week, as world leaders gather in the shadow of several rogue A.I. hacking episodes that have prompted greater fears.\n相比之下，本周在纽约联合国大会上聚焦人工智能的会议受到的关注要少得多。此时，各国领导人正聚集在引发更大担忧的几起失控人工智能黑客事件的阴影下。\nA.I. will be a dominant theme for a fleet of U.N. meetings on Monday centered on international digital cooperation. The schedule includes discussions about the technolog…",
+          "link": "https://cn.nytimes.com/world/20260922/united-nations-artificial-intelligence-china-us/dual",
+          "publishedOn": "2026-09-22T03:06:04.000Z",
+          "wordCount": 1180,
+          "title": "人工智能议题中美说了算？联合国被边缘化",
+          "imageUrl": "https://static01.nyt.com/images/2026/09/21/multimedia/21dc-un-ai-fgkv/21dc-un-ai-fgkv-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/business/20260922/china-agriculture-trade-soybeans/dual",
+          "author": null,
+          "description": "黄瑞黎2026年9月22日5月，中国同意在2028年前每年购买至少170亿美元的美国农产品。中国此前已另行承诺加大对美国大豆的采购。 KC McGinnis for The New York Times\nWhen President Trump met with the Chinese leader Xi Jinping in Beijing in May, the United States announced that China had agreed to sharply increase its purchases of American agricultural products.\n特朗普总统今年5月在北京与中国领导人习近平会晤时，美国宣布，中国已同意大幅增加对美国农产品的采购。\nThe pledge, one of China’s major commitments after the high-profile meeting, appeared to offer relief to U.S. farmers battered by the trade war between the two countries.\n这一承诺是那次备受瞩目的会晤后中国作出的主要承诺之一，看起来有望让饱受两国贸易战冲击的美国农民松一口气。\nFour months later, there is little sign of a broad Chinese buying spree.\n四个月过去了，却几乎看不到中国大举采购的迹象。\nThe White House announced in May that China would buy at least $17 billion a year of U.S. farm goods through 2028, with the targe…",
+          "link": "https://cn.nytimes.com/business/20260922/china-agriculture-trade-soybeans/dual",
+          "publishedOn": "2026-09-22T02:36:04.000Z",
+          "wordCount": 1357,
+          "title": "中国曾承诺购买更多美国农产品，但并未兑现",
+          "imageUrl": "https://static01.nyt.com/images/2026/09/18/multimedia/18Biz-China-Pledges-01-hpzw/18Biz-China-Pledges-01-hpzw-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/china/20260922/china-generals-expelled-corruption/dual",
+          "author": null,
+          "description": "储百亮2026年9月22日2025年，张又侠在北京人民大会堂。 Tingshu Wang/Reuters\nChina’s Communist Party leaders expelled the country’s former top general, Zhang Youxia, from the party on Monday, accusing him of crimes and misdeeds ranging from taking bribes to disloyalty to the party.\n周一，中国共产党领导人将该国前最高将领张又侠开除党籍，指控他犯下从受贿到对党不忠等一系列罪行和不当行为。\nThe announcement by the Politburo, a council of 21 top officials, said that the accusations against Mr. Zhang and his former subordinate, Liu Zhenli — who was also expelled from the party — would be handed to military prosecutors. That step makes the prosecution of the two fallen generals almost inevitable.\n由21名高级官员组成的政治局在公告中表示，对张又侠及其同样被开除党籍的前下属刘振立的指控将移交军事检察机关。此举意味着这两名落马将领几乎必然面临起诉。\nTheir expulsion “opens the way to a military trial which will undoubtedly impose a harsh sentence,” sai…",
+          "link": "https://cn.nytimes.com/china/20260922/china-generals-expelled-corruption/dual",
+          "publishedOn": "2026-09-22T02:06:04.000Z",
+          "wordCount": 1004,
+          "title": "张又侠被开除党籍，将面临军事法庭审判",
+          "imageUrl": "https://static01.nyt.com/images/2026/09/21/multimedia/21int-china-generals-corruption-qlzk/21int-china-generals-corruption-qlzk-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/world/20260922/china-trump-taiwan-arms-sales/dual",
+          "author": null,
+          "description": "储百亮, AMY CHANG CHIEN2026年9月22日今年5月，特朗普总统与中国国家主席习近平在北京会晤。特朗普在寻求与中国建立务实关系的同时暂缓了对台军售。 Kenny Holston/The New York Times\nFor China’s leader, Xi Jinping, one important goal of his meeting with President Trump this week may be persuading him to keep delaying $14 billion in proposed U.S. arms sales to Taiwan.\n对于中国领导人习近平来说，本周与特朗普总统会晤的一个重要目标可能是说服他继续推迟拟议中对台湾的140亿美元军售。\nChina has long claimed the self-governed island of Taiwan as its territory, and Taipei has relied on American military power to counter military threats from Beijing. When they last met, Mr. Xi warned Mr. Trump that mishandling tensions over Taiwan could be “extremely dangerous” for the United States and China, a reminder of the risk of crisis between two nuclear-armed powers.\n中国长期以来一直声称拥有台湾这个自治岛屿的主权，而台北则依靠美国的军事力量来应对来自北京的军事威胁。在两人上次会晤时，习…",
+          "link": "https://cn.nytimes.com/world/20260922/china-trump-taiwan-arms-sales/dual",
+          "publishedOn": "2026-09-22T01:06:04.000Z",
+          "wordCount": 1439,
+          "title": "脆弱的美中关系中最具破坏性的问题：对台军售",
+          "imageUrl": "https://static01.nyt.com/images/2026/09/21/multimedia/21int-taiwan-us-china-01-ctwp/21int-taiwan-us-china-01-ctwp-articleLarge.jpg"
+        },
         {
           "id": "https://cn.nytimes.com/usa/20260921/trump-ai-safety-anthropic-openai-china/dual",
           "author": null,
