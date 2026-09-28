@@ -6,6 +6,16 @@
       "siteUrl": "https://rweekly.org/atom.xml",
       "articles": [
         {
+          "id": "https://rweekly.org/2026-W40.html",
+          "author": null,
+          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Batool Almarzouq, with help from the R Weekly team members and contributors.\nHighlight\nThe knitr SQL Engine Grows Up\nZulip Chat for the R Project\nSnapshotting error messages\nInsights\nEstimating Cross-Platform Usage Structure from Large-Scale Marginal Distributions and a Small Panel - Use a Gaussian copula to combine large-scale marginal usage distributions with dependence estimated from a small joint panel.\nRcppFastAD 0.0.5 on CRAN: Maintenance\nSnapshotting error messages\nThree New Debugging Aids in knitr\nThe knitr SQL Engine Grows Up\nParBayesianOptimization is back on CRAN\nTangling Gets Smarter in knitr\nspin() Improvements in knitr\nMore Capable Cache in knitr\nBetter Tables …",
+          "link": "https://rweekly.org/2026-W40.html",
+          "publishedOn": "2026-09-28T00:00:00.000Z",
+          "wordCount": 5939,
+          "title": "R Weekly 2026-W40 knitr SQL Engine, Zulip, Snapshotting error messages",
+          "imageUrl": "https://rweekly.org/public/facebook.png"
+        },
+        {
           "id": "https://rweekly.org/2026-W39.html",
           "author": null,
           "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Colin Fay, with help from the R Weekly team members and contributors.\nHighlight\nRelease: sessioncheck 0.2\nGhosts of spreadsheets past\nObserved power tells you nothing\nInsights\nAI Newsletter: New releases from ellmer, shinychat, and commons\nWhy ggseg Atlases Became Function Calls\nGhosts of spreadsheets past\n\nHappy Birthday rOpenSci — My Journey from First-Time Developer to Current Opportunities\nR in the Real World\nSample size needed for central limit theorem to kick in by @ellis2013nz\nTidyTuesday 2026/37\nR in Organizations\nWhat’s Your Workflow?: Synthetic SDTM From an NCT ID\nR in Academia\nFrom BirdNET Detections to Ecological Insight: Sunny Tseng on birdnetTools 2.0\nTutorials…",
@@ -3340,16 +3350,6 @@
           "wordCount": 660,
           "title": "派早报：GTA 6 引发请假玩游戏热潮",
           "imageUrl": "https://rssfile.sspai.com/8/31/2026/article/249a8fde-2178-5919-ce3b-5ba825498be2.png?imageMogr2/auto-orient/format/webp/ignore-error/1"
-        },
-        {
-          "id": "https://sspai.com/post/113974",
-          "author": "程天冲",
-          "description": "我种草佛罗伦萨的理由绝对是世所罕见：因为SEVENTEEN的NanaTour有很大一部分是在佛罗伦萨及其周边拍摄的。从去年夏天看了这个综艺开始，我就一直对这个地方念念不忘，心想夏日的意大利到底是有何种 ...查看全文",
-          "link": "https://sspai.com/post/113974",
-          "publishedOn": "2026-08-30T07:00:00.000Z",
-          "wordCount": 353,
-          "title": "城市漫步指南 | 佛罗伦萨：来自六月的梦幻艺术夏令营",
-          "imageUrl": "https://rssfile.sspai.com/2026/8/29/article/d5c5c95d-6102-6940-d49b-602073950b14.jpg?imageMogr2/auto-orient/ignore-error/1"
         }
       ]
     },
@@ -6185,62 +6185,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://pic.yupoo.com/fotomag/8e33f1fbad/f8f914ef.jpg"
-        },
-        {
-          "id": "idaily-257430",
-          "author": "俄罗斯 · 莫斯科",
-          "description": "俄罗斯总统 Vladimir Putin 与莫斯科国立师范大学的教师和学生代表举行座谈会。8月29日，俄总统 Putin 在俄罗斯「知识日」前夕访问莫斯科国立师范大学，主要行程包括在该校参观教育成就展、见证新教学设施落成典礼，并与教师及学生代表进行对话。Putin 在座谈会中强调，无论互联网、人工智能等新技术如何发展，都永远无法取代教师的作用。Putin 指出，教师不仅传授知识，还帮助一个年轻人学会独立思考、辨别方向并找到真正重要的东西，这才是教师职责的关键所在。每年9月1日是俄罗斯「知识日」，标志着新学期的开始，2026新学年全俄预计将有1800万名中小学生和400万名大学生入学。摄影师：Vladimir Astapkovich",
-          "link": "https://m.idai.ly/se/e3b0Cw",
-          "publishedOn": "2026-08-30T09:59:00.000Z",
-          "wordCount": 273,
-          "title": "普京强调科技无法取代教师 - August 30, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/30ba0a1ee2/b193a599.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/30ba0a1ee2/b193a599.jpg"
-        },
-        {
-          "id": "idaily-257429",
-          "author": "印度洋 · 圣诞岛",
-          "description": "SpaceX 工程师们正在对第13次试飞任务的星舰原型机进行检查，印度洋。8月27日，SpaceX 宣布工程团队已成功完成第13次试飞任务星舰原型机的隔热罩样本及关键数据采集工作，目前这艘星舰原型机固定在一艘半潜式运输船上，开始启程返回得克萨斯州的星港基地，整个运程预计将耗时数月。SpaceX 预计将于2026年9月中旬进行星舰原型机第14次试飞。摄影师：SpaceX",
-          "link": "https://m.idai.ly/se/d63YVA",
-          "publishedOn": "2026-08-30T09:57:00.000Z",
-          "wordCount": 274,
-          "title": "SpaceX 印度洋回收星舰 - August 30, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/49d78bd4c9/c19794bc.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/49d78bd4c9/c19794bc.jpg"
-        },
-        {
-          "id": "idaily-257426",
-          "author": "日本 · 仙台市",
-          "description": "仙台市政人员正在向政府大楼的花坛里填埋福岛核事故去污染土壤，宫城县。8月29日，日本环境省启动新一轮福岛核事故去污染土壤再利用工作，共向仙台市联合办公楼前绿化带移入约1立方米的核去污土壤。这是日本首次在东京都以外地区实施福岛去污染土壤再利用项目，本批填埋土壤的放射性铯浓度约为每公斤4000贝克勒尔。福岛周边储存设施内目前共有约1446万立方米核去污土壤，根据日本法律规定必须在2045年3月底前完成处置工作。东京电力公司计划8月31日开启第23次福岛核污染水排海作业，计划19天内排放7800吨核污水，含放射性氚总量约2万亿贝克勒尔。摄影师：iDaily Media",
-          "link": "https://m.idai.ly/se/cfaKWz",
-          "publishedOn": "2026-08-30T09:55:00.000Z",
-          "wordCount": 273,
-          "title": "日本仙台填埋福岛核去污土 - August 30, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/95c027e88a/963a2e6c.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/95c027e88a/963a2e6c.jpg"
-        },
-        {
-          "id": "idaily-257425",
-          "author": "俄罗斯 · 阿尔汉格尔斯克州",
-          "description": "俄罗斯国防部公布一段洲际弹道导弹试射视频。8月28日，俄国防部宣布战略导弹部队成功开展一次具有「核打击能力」的固体燃料洲际弹道导弹实战训练发射，训练弹头从俄罗斯西北部普列谢茨克航天发射场升空，飞行超过6700公里准确命中远东堪察加半岛库拉靶场的预定目标。这是俄罗斯2026年迄今第3次公开试射洲际导弹。俄国防部未公开本次试射导弹的具体型号，仅强调试射目的为验证导弹系统的战术、技术和飞行性能。摄影师：Russian Defence Ministry",
-          "link": "https://m.idai.ly/se/2b2ZrY",
-          "publishedOn": "2026-08-30T09:53:00.000Z",
-          "wordCount": 273,
-          "title": "俄罗斯试射洲际导弹 - August 30, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/5e6618cff4/3a0707f8.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/5e6618cff4/3a0707f8.jpg"
         }
       ]
     },
