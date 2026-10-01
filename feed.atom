@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mananchong.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-01T14:42:39.381Z</updated>
+    <updated>2026-10-01T21:14:21.684Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mananchong.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://mananchong.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[D.C. Judge Dismisses Reflecting Pool Charges — with Prejudice]]></title>
+        <id>https://www.nationalreview.com/?p=2048395</id>
+        <link href="https://www.nationalreview.com/2026/10/d-c-judge-dismisses-reflecting-pool-charges-with-prejudice/"/>
+        <updated>2026-10-01T20:51:14.000Z</updated>
+        <summary type="html"><![CDATA[Consider it an indictment of Trump lawfare against political enemies and scapegoats.]]></summary>
+        <author>
+            <name>Andrew C. McCarthy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Am I Lying to Myself About the Death Penalty?]]></title>
+        <id>https://www.nationalreview.com/?p=2048183</id>
+        <link href="https://www.nationalreview.com/2026/10/am-i-lying-to-myself-about-the-death-penalty/"/>
+        <updated>2026-10-01T17:00:34.000Z</updated>
+        <summary type="html"><![CDATA[It is a scandal that Christa Pike’s execution was botched, but we must ask whose fault that was.]]></summary>
+        <author>
+            <name>Charles C. W. Cooke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Cornell Seven Case and the Perils of Sexual Liberation]]></title>
+        <id>https://www.nationalreview.com/?p=2048168</id>
+        <link href="https://www.nationalreview.com/2026/10/the-cornell-seven-case-and-the-perils-of-sexual-liberation/"/>
+        <updated>2026-10-01T16:27:11.000Z</updated>
+        <summary type="html"><![CDATA[With consent as its only moderating principle, the sex-positivity movement invited a world of depravity.]]></summary>
+        <author>
+            <name>Caroline Downey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[America Can Lower Drug Costs Without Sacrificing Medical Innovation]]></title>
+        <id>https://www.nationalreview.com/?p=2048118</id>
+        <link href="https://www.nationalreview.com/2026/10/america-can-lower-drug-costs-without-sacrificing-medical-innovation/"/>
+        <updated>2026-10-01T16:01:18.000Z</updated>
+        <summary type="html"><![CDATA[Blindly importing European pricing approaches could pose real risks to future innovation and patient access.]]></summary>
+        <author>
+            <name>Jerome Adams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[太平洋飓风数量创新高 - October 1, 2026]]></title>
         <id>idaily-259249</id>
@@ -8307,157 +8347,6 @@ For China, the welcome on Tuesday evening was a way to show that its influence h
         <summary type="html"><![CDATA[上周，Apple公布了今年秋季发布会的时间和主题，这场名为「Surpriseandshine」的发布会将于北京时间9月10日凌晨一点在ApplePark举行。与过去两年的秋季发布会不同，今年的「科技春 ...查看全文]]></summary>
         <author>
             <name>Vanilla</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[智神星一号火箭首飞成功 - September 2, 2026]]></title>
-        <id>idaily-257611</id>
-        <link href="https://m.idai.ly/se/cf2N3c"/>
-        <updated>2026-09-02T08:19:00.000Z</updated>
-        <summary type="html"><![CDATA[中国「智神星一号」遥一运载火箭在东风商业航天创新试验区点火升空，甘肃酒泉。9月1日，中国航天私企星河动力研发的「智神星一号」运载火箭进行首次飞行，火箭按程序顺利进入预定轨道，发射取得圆满成功。「智神星一号」是一款中大型可重复使用液体运载火箭，全长52米，直径3.35米，近地轨道运载能力达7吨，火箭一子级配备7台可重复使用液氧/煤油发动机，设计重复使用次数为25次。摄影师：iDaily Media]]></summary>
-        <author>
-            <name>中国 · 内蒙古自治区</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[习近平访问埃及 - September 2, 2026]]></title>
-        <id>idaily-257610</id>
-        <link href="https://m.idai.ly/se/c4099O"/>
-        <updated>2026-09-02T07:58:00.000Z</updated>
-        <summary type="html"><![CDATA[埃及总统 Abdel Fattah al-Sisi 亲赴机场迎接中国国家主席习近平，开罗。9月1日，中国国家主席习近平应邀对埃及进行为期3天国事访问。这是习近平时隔10年再次访问埃及，主要行程包括会晤埃及总统、参观大埃及博物馆、访问苏伊士运河地区等。埃及是第一个与中国建交的阿拉伯和非洲国家，2026年为两国建交70周年。中国是埃及第一大贸易伙伴，2026年1至7月中埃双边贸易额达137.5亿美元，同比增长23.2%。摄影师：Khaled Desouki]]></summary>
-        <author>
-            <name>埃及 · 开罗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一日一技 | 借助 PowerShell 自定义 Windows 更新暂停时间]]></title>
-        <id>https://sspai.com/post/80562</id>
-        <link href="https://sspai.com/post/80562"/>
-        <updated>2026-09-02T07:22:27.000Z</updated>
-        <summary type="html"><![CDATA[Windows 下的累计更新会修复大量的安全漏洞，虽然可以暂停更新但是最长只能暂停 35 天，35 天后 Windows 电脑就要强行帮你更新了，而本文介绍了一种突破暂停最大时间的方法。查看全文]]></summary>
-        <author>
-            <name>Levinson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[黄之锋就“勾结外国势力”认罪，最高可判终身监禁]]></title>
-        <id>https://cn.nytimes.com/china/20260902/hong-kong-joshua-wong-activist-guilty/dual</id>
-        <link href="https://cn.nytimes.com/china/20260902/hong-kong-joshua-wong-activist-guilty/dual"/>
-        <updated>2026-09-02T07:06:02.000Z</updated>
-        <summary type="html"><![CDATA[DAVID PIERSON2026年9月2日2019年黄之锋在华盛顿。他游说西方政治人物向香港施压的努力成为他最新的国家安全案件的中心。 Alastair Pike/Agence France-Presse — Getty Images
-Joshua Wong, a prominent Hong Kong pro-democracy activist, pleaded guilty on Wednesday to collusion for lobbying Western lawmakers, a case that shows how China treats international outreach as a national security crime.
-周三，香港知名民主派活动人士黄之锋就涉及游说西方议员的勾结外国势力案表示认罪。此案表明中国已将对外联络行为视为危害国家安全的犯罪。
-The maximum penalty for colluding with foreign forces is life in prison.
-勾结外国或者境外势力罪的最高刑罚为终身监禁。
-Mr. Wong was accused of conspiring with other campaigners to lobby lawmakers, particularly those in the United States like Nancy Pelosi and Marco Rubio, to impose sanctions on Hong Kong and China. The campaigners sought to pressure officials in Beijing and Hong Kong for greater democratic rights in…]]></summary>
-        <author>
-            <name>纽约时报双语版</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2026年上合组织峰会闭幕 - September 2, 2026]]></title>
-        <id>idaily-257608</id>
-        <link href="https://m.idai.ly/se/10bezr"/>
-        <updated>2026-09-02T06:57:00.000Z</updated>
-        <summary type="html"><![CDATA[中国、俄罗斯、印度、伊朗等10国领导人出席2026年上海合作组织峰会，吉尔吉斯斯坦比什凯克。9月1日，上合组织成员国元首理事会第26次会议在比什凯克举行，各方会后发表《上海合作组织二十五周年比什凯克宣言》，批准修改和补充《上海合作组织宪章》议定书、应对安全威胁与挑战综合中心条例，通过加强安全、经济、人文合作和组织建设等28份成果文件。上海合作组织目前共有10个正式成员国，人口约占全球总人口的43%，经济总量约占全球的23%。巴基斯坦将担任2026至2027年度上海合作组织轮值主席国。摄影师：Petr Kovalev]]></summary>
-        <author>
-            <name>吉尔吉斯斯坦 · 比什凯克</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[挪威新国王宣誓登基 - September 2, 2026]]></title>
-        <id>idaily-257606</id>
-        <link href="https://m.idai.ly/se/0dbcRb"/>
-        <updated>2026-09-02T06:55:00.000Z</updated>
-        <summary type="html"><![CDATA[挪威新国王哈康八世（Haakon VIII）在议会宣誓登基，奥斯陆。9月1日，现年53岁的哈康八世正式宣誓成为第4任挪威国王，他在宣誓仪式上承诺将效忠宪法，竭尽全力为国家和人民服务，并延续王室与议会的良好关系。挪威实行议会君主立宪制，国王承担象征性和礼仪性职责，不具备实质行政权力。最新民调显示72%的挪威人支持君主制，较5月调查上升8个百分点；挪威民众对哈康八世的评分为8.8分，在王室成员中排名第二，仅次于其母亲索尼娅王后。摄影师：Lise Aserud]]></summary>
-        <author>
-            <name>挪威 · 奥斯陆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[马斯克连线G20创新会议 - September 2, 2026]]></title>
-        <id>idaily-257604</id>
-        <link href="https://m.idai.ly/se/578P75"/>
-        <updated>2026-09-02T06:53:00.000Z</updated>
-        <summary type="html"><![CDATA[SpaceX 创始人 Elon Musk 通过视频连线出席二十国集团（G20）创新部长级会议，北卡罗莱纳州。9月1日，G20 创新部长级会议在美国北卡罗来纳州举行，本次会议主要聚焦人工智能、能源基础设施、经济增长等议题。Elon Musk 在视频连线中预测AI技术将推动全球经济规模增长20%至30%，但是新建AI算力面临严峻的电力供应瓶颈，全球2027年AI数据中心电力缺口将达到15吉瓦。摄影师：Matt Ramey]]></summary>
-        <author>
-            <name>美国 · 北卡罗来纳州</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[加拿大结束圈养白鲸 - September 2, 2026]]></title>
-        <id>idaily-257603</id>
-        <link href="https://m.idai.ly/se/0867KZ"/>
-        <updated>2026-09-02T06:51:00.000Z</updated>
-        <summary type="html"><![CDATA[加拿大境内最后一只圈养白鲸即将被转运至美国水族馆，尼亚加拉瀑布城海洋世界。8月31日，加拿大渔业部宣布完成迄今最大规模的白鲸跨国转运行动，共将尼亚加拉瀑布城海洋世界的30只白鲸和4只海豚转移至美国和西班牙的水族馆，其中1只23岁白鲸在转运过程中因脱水死亡。加拿大于2019年立法禁止圈养鲸鱼与海豚，并禁止使用鲸豚进行表演或繁殖。国际鲸豚保育协会（WDC）统计，全球现有超过3700只生活在圈养环境中的鲸豚。摄影师：Carlos Osorio]]></summary>
-        <author>
-            <name>加拿大 · 安大略省</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[福山和被误解的“历史的终结”]]></title>
-        <id>https://cn.nytimes.com/culture/20260902/francis-fukuyama-in-the-realm-of-the-last-man-end-of-history/dual</id>
-        <link href="https://cn.nytimes.com/culture/20260902/francis-fukuyama-in-the-realm-of-the-last-man-end-of-history/dual"/>
-        <updated>2026-09-02T06:36:02.000Z</updated>
-        <summary type="html"><![CDATA[JENNIFER SZALAI2026年9月2日
-Francis Fukuyama has published a shelf of books about politics and political theory, including lofty treatises on liberalism and a sober two-volume study tracing the development of the modern state. Yet it sometimes seems he will be forever dogged by four little words.
-弗朗西斯·福山出版过大量政治及政治理论著作，其中包括关于自由主义的精深论著，以及一部严肃审慎的两卷本研究，追溯现代国家的发展历程。然而，他有时看起来似乎永远摆脱不了那寥寥五个字的纠缠。
-“Every week on Instagram or social media, I’ll post something and somebody will say, ‘Oh, well, I thought history ended,’” he said one recent afternoon in his Palo Alto home. What this “somebody” was referring to, of course, was “the end of history” — the four-word title and animating idea of Fukuyama’s cover essay for the summer 1989 issue of The National Interest. In the waning days of the Cold War, with th…]]></summary>
-        <author>
-            <name>纽约时报双语版</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特纳斯正式接棒库克，苹果新CEO面临平衡考验]]></title>
-        <id>https://cn.nytimes.com/technology/20260902/apple-tim-cook-john-ternus/dual</id>
-        <link href="https://cn.nytimes.com/technology/20260902/apple-tim-cook-john-ternus/dual"/>
-        <updated>2026-09-02T05:06:02.000Z</updated>
-        <summary type="html"><![CDATA[KALLEY HUANG2026年9月2日周二就任苹果公司首席执行官的约翰·特纳斯（右）与担任该职位长达15年的蒂姆·库克，摄于7月在爱达荷州举行的太阳谷会议上。 Brendan McDermid/Reuters
-John Ternus became Apple’s chief executive on Tuesday, succeeding Tim Cook, the company’s leader for the last 15 years. The long-anticipated handoff, Mr. Cook has said, will be “perfectly smooth.”
-约翰·特纳斯于周二正式成为苹果公司首席执行官，接替了过去15年一直领导该公司的蒂姆·库克。库克曾表示，这场备受期待的权力交接将“无比顺利”。
-But the changing of the guard could still have some bumps. Mr. Ternus will have to guide Apple through an unusual amount of leadership churn. He will have to stem an exodus of talent to companies like OpenAI. And he will have to distinguish himself from Mr. Cook, who will remain at Apple as its executive chair.
-但这轮交接可能仍遇到一些波折。特纳斯不得不带领苹果度过非同寻常的高管层动荡期。他必须遏制人才大量流失到向OpenAI等公司。同时，他还必须展现出与库克不同的个人特质，后者将继续留在苹果担任执行董事长。
-Most of all…]]></summary>
-        <author>
-            <name>纽约时报双语版</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国严格控制西藏洪灾灾情叙事]]></title>
-        <id>https://cn.nytimes.com/china/20260902/china-tibet-floods-nepal-censorship/dual</id>
-        <link href="https://cn.nytimes.com/china/20260902/china-tibet-floods-nepal-censorship/dual"/>
-        <updated>2026-09-02T03:06:02.000Z</updated>
-        <summary type="html"><![CDATA[艾莎2026年9月2日上周，北京一处屏幕上播放着官方媒体对西藏洪灾后续情况的报道。 Greg Baker/Agence France-Presse — Getty Images
-Rescue workers were only just starting to assess the scope of loss and destruction from deadly Himalayan floods last week when Chinese authorities turned to another challenge: unapproved narratives of the devastation.
-上周那场致命的喜马拉雅洪灾发生后，救援人员才刚刚开始评估灾情和损失的规模，中国当局就已经着手应对另一项挑战：未经批准的灾情叙事。
-Censors quickly deleted videos and eyewitness accounts from social media. Journalists working for state media and social media influencers were warned not to report on casualties or missing people unless their reports aligned with official announcements. People who questioned the official death toll were given “administrative penalties,” punishment that typically involves either a fine of up to $150 or up to 10 days in priso…]]></summary>
-        <author>
-            <name>纽约时报双语版</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[当普京把铁锤挥向文学]]></title>
-        <id>https://cn.nytimes.com/opinion/20260902/russia-putin-writers-literature/dual</id>
-        <link href="https://cn.nytimes.com/opinion/20260902/russia-putin-writers-literature/dual"/>
-        <updated>2026-09-02T03:06:02.000Z</updated>
-        <summary type="html"><![CDATA[NATASHA KISELEVA2026年9月2日 Martha Verschaffel
-A novelist I know recently wanted to do something that is now forbidden in Russia: publish a story about two women in love.
-我认识的一位小说家最近想做一件在俄罗斯已被禁止的事：发表一个关于两名女子相恋的故事。
-To do so, she had to hide her characters’ genders by writing in the present tense (present-tense verbs carry no gender in Russian) and by choosing names that both men and women use, Sasha, say, or Zhenya. Yet only a few years ago, none of these linguistic gymnastics were necessary. From the late 1980s through the first two decades of President Vladimir Putin’s rule, literature enjoyed near total freedom in Russia.
-为了做到这一点，她不得不采取一些语言上的迂回手段——用现在时写作（俄语现在时动词不区分性别），并选用萨沙或热尼亚这类男女通用的名字来隐藏角色的性别。然而就在几年前，这些语言上的闪躲腾挪还完全没有必要。从1980年代后期到弗拉基米尔·普京总统执政的前二十年，俄罗斯的文学创作享有几乎完全的自由。
-That may surprise those…]]></summary>
-        <author>
-            <name>纽约时报双语版</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[众测招募 | 玩转音乐生态，体验 Sonos Play 便携智能音响]]></title>
-        <id>https://sspai.com/post/113581</id>
-        <link href="https://sspai.com/post/113581"/>
-        <updated>2026-09-02T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[近年来，智能音响正在从「放在客厅的固定设备」变为「跟随你移动的声音系统」。用户不再满足于单一房间的聆听，而是希望音乐能随着自己的脚步，从客厅到厨房、从书房到户外，无缝流转、不断联。这正是Sonos一直 ...查看全文]]></summary>
-        <author>
-            <name>听歌的水獭</name>
         </author>
     </entry>
 </feed>
