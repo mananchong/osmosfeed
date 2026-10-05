@@ -6,6 +6,16 @@
       "siteUrl": "https://rweekly.org/atom.xml",
       "articles": [
         {
+          "id": "https://rweekly.org/2026-W41.html",
+          "author": null,
+          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Sam Parmar, with help from the R Weekly team members and contributors.\nHighlight\nFrom spreadsheet to gt and back again\nIntroducing shinyreact: React UI backed by a Shiny server\nAperiodic tilings with the de Bruijn method\nInsights\nFrom spreadsheet to gt and back again\n\nMy first attempt at porting a Shiny app failed, and not for a technical reason\nCelebrating the rOpenSci Community\nrOpenSci News Digest, September 2026\nReproducible compute sessions: pinning the full stack from R version to system libraries\nIntroducing shinyreact: React UI backed by a Shiny server\n\nTutorials\nFrom a football results API to a half-time/full-time heatmap in R\nmlreserve: machine-learning loss reserv…",
+          "link": "https://rweekly.org/2026-W41.html",
+          "publishedOn": "2026-10-05T00:00:00.000Z",
+          "wordCount": 6500,
+          "title": "R Weekly 2026-W41 Spreadsheets to gt, shinyreact, Aperiodic Tilings",
+          "imageUrl": "https://rweekly.org/public/facebook.png"
+        },
+        {
           "id": "https://rweekly.org/2026-W40.html",
           "author": null,
           "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Batool Almarzouq, with help from the R Weekly team members and contributors.\nHighlight\nThe knitr SQL Engine Grows Up\nZulip Chat for the R Project\nSnapshotting error messages\nInsights\nEstimating Cross-Platform Usage Structure from Large-Scale Marginal Distributions and a Small Panel - Use a Gaussian copula to combine large-scale marginal usage distributions with dependence estimated from a small joint panel.\nRcppFastAD 0.0.5 on CRAN: Maintenance\nSnapshotting error messages\nThree New Debugging Aids in knitr\nThe knitr SQL Engine Grows Up\nParBayesianOptimization is back on CRAN\nTangling Gets Smarter in knitr\nspin() Improvements in knitr\nMore Capable Cache in knitr\nBetter Tables …",
@@ -64,6 +74,26 @@
       "feedUrl": "https://www.nationalreview.com/feed/",
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
+        {
+          "id": "https://www.nationalreview.com/?p=2051373",
+          "author": "Michael Brendan Dougherty",
+          "description": "Despite the seemingly good news in the data, the economy still feels frozen to individuals who depend on wages. That is, most of us.",
+          "link": "https://www.nationalreview.com/2026/10/let-them-eat-aggregates/",
+          "publishedOn": "2026-10-05T18:37:18.000Z",
+          "wordCount": 6154,
+          "title": "Let Them Eat Aggregates",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/10/walmart-cashier.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=2051379",
+          "author": "Noah Rothman",
+          "description": "The Samson Cains of the world should not be overlooked.",
+          "link": "https://www.nationalreview.com/2026/10/the-persuadable-gen-z-voter-no-one-wants-to-persuade/",
+          "publishedOn": "2026-10-05T18:09:31.000Z",
+          "wordCount": 6170,
+          "title": "The Persuadable Gen Z Voter No One Wants to Persuade",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/10/abdul-el-sayed.jpg?fit=2057%2C1200&ssl=1"
+        },
         {
           "id": "https://www.nationalreview.com/?p=2049297",
           "author": "James M. Patterson",
@@ -2323,66 +2353,6 @@
           "wordCount": null,
           "title": "Mother Teresa Is Looking at You",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=2031171",
-          "author": "Mackenzie Eaglen and Brady Africk",
-          "description": "A well-resourced Navy will lessen the burden on sailors, attract new recruits, and build the systems of tomorrow.",
-          "link": "https://www.nationalreview.com/2026/09/americas-sailors-are-overworked-heres-how-we-can-fix-it/",
-          "publishedOn": "2026-09-06T10:30:56.000Z",
-          "wordCount": null,
-          "title": "America’s Sailors Are Overworked — We Can Fix That",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=2031103",
-          "author": "James Lileks",
-          "description": "A little DSA Q&A will reveal all.",
-          "link": "https://www.nationalreview.com/2026/09/is-there-any-capitalists-murder-that-isnt-justified/",
-          "publishedOn": "2026-09-06T10:30:54.000Z",
-          "wordCount": null,
-          "title": "Is There Any Capitalist’s Murder That <i>Isn’t</i> Justified?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=2030876",
-          "author": "Abigail Anthony",
-          "description": "I don’t think I know how to.",
-          "link": "https://www.nationalreview.com/2026/09/do-people-really-take-vacations/",
-          "publishedOn": "2026-09-06T10:30:46.000Z",
-          "wordCount": null,
-          "title": "How Do People Vacation?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=2030933",
-          "author": "Becket Adams",
-          "description": "Long live the professional fact-check.",
-          "link": "https://www.nationalreview.com/2026/09/the-professional-fact-check-is-dead/",
-          "publishedOn": "2026-09-06T10:30:42.000Z",
-          "wordCount": null,
-          "title": "The Professional Fact-Check Is Dead",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=2030991",
-          "author": "Daniel Piñero",
-          "description": "Will the deal revive the anti-American sentiment that has fueled socialism in the region for a century?",
-          "link": "https://www.nationalreview.com/2026/09/trump-fails-to-build-trust-with-u-s-venezuela-oil-deal/",
-          "publishedOn": "2026-09-06T10:30:39.000Z",
-          "wordCount": null,
-          "title": "Trump Fails to Build Trust with U.S.-Venezuela Oil Deal",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=2031133",
-          "author": "Andrew C. McCarthy",
-          "description": "Given Trump’s tirades about Chávez’s theft of American property, it’s worth spotlighting the cynicism.",
-          "link": "https://www.nationalreview.com/2026/09/taking-venezuelas-oil-nullifying-the-claims-of-american-companies/",
-          "publishedOn": "2026-09-06T10:30:17.000Z",
-          "wordCount": null,
-          "title": "Taking Venezuela’s Oil: Nullifying the Claims of American Companies",
-          "imageUrl": null
         }
       ]
     },
@@ -3280,16 +3250,6 @@
           "wordCount": 675,
           "title": "派早报：微软公布 Project Zenith 计划、F-Droid 拟效仿 Debian 制定生成式 AI 使用政策",
           "imageUrl": "https://rssfile.sspai.com/9/7/2026/article/82a1d742-4df3-a340-5493-9843112d5566.png?imageMogr2/auto-orient/format/webp/ignore-error/1"
-        },
-        {
-          "id": "https://sspai.com/post/114076",
-          "author": "ElijahLee",
-          "description": "对于使用AppleWatch游泳的人来说，记录一次游泳并不困难。在手表上打开体能训练App，选择开始游泳，结束后就能在Apple健身中看到完整的游泳表现，包括时间、距离、卡路里、配速、心率等数据。但真 ...查看全文",
-          "link": "https://sspai.com/post/114076",
-          "publishedOn": "2026-09-06T07:00:00.000Z",
-          "wordCount": 326,
-          "title": "让 Apple Watch 记录的每一趟游泳数据更有意义：即刻游",
-          "imageUrl": "https://rssfile.sspai.com/2026/9/6/article/deaad783-d8f5-471d-072f-fa9632bbff8a.png?imageMogr2/auto-orient/ignore-error/1"
         }
       ]
     },
@@ -6111,104 +6071,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://pic.yupoo.com/fotomag/7b2b54f755/24ba4b4e.jpg"
-        },
-        {
-          "id": "idaily-257800",
-          "author": "飞马座",
-          "description": "NASA 公布一张夏威夷北双子座望远镜拍摄的迄今最清晰的飞马座「NGC 7253 A/B」交互作用螺旋星系照片。该星系由2个正在相互吸引的螺旋星系组成，它们原本的旋臂结构已在引力作用下强烈扭曲变形，预计数十亿年后合并成为一个新的星系。「NGC 7253 A/B」距离地球约2亿光年，天文学家推测其核心存在一个高度活跃的星系核，旋臂上的粉红色亮点是新诞生的恒星。摄影师：NASA",
-          "link": "https://m.idai.ly/se/527qH1",
-          "publishedOn": "2026-09-06T09:33:00.000Z",
-          "wordCount": 289,
-          "title": "飞马座交互作用星系 - September 6, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/fccaf0e802/411bd82b.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/fccaf0e802/411bd82b.jpg"
-        },
-        {
-          "id": "idaily-257799",
-          "author": "俄罗斯 · 莫斯科",
-          "description": "俄罗斯总统 Vladimir Putin 在莫斯科建城879周年纪念仪式上发表演讲，莫斯科。9月5日，莫斯科迎来建城879周年纪念日，俄总统 Putin 在致辞演讲中称赞莫斯科是俄罗斯国家地位、团结与韧性的象征，感谢莫斯科市民为特别军事行动做出重要贡献，并授予莫斯科市长「俄罗斯联邦劳动英雄」称号。莫斯科市建于1147年，是俄罗斯最大的城市和政治、经济、文化及科技中心，目前常住人口约1330万，2025年 GDP 达到9760亿美元，在全球主要城市中排名第17位。摄影师：Sergey Bobylev",
-          "link": "https://m.idai.ly/se/01744U",
-          "publishedOn": "2026-09-06T08:59:00.000Z",
-          "wordCount": 289,
-          "title": "莫斯科建城879周年 - September 6, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/141e264f87/4c718d8e.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/141e264f87/4c718d8e.jpg"
-        },
-        {
-          "id": "idaily-257798",
-          "author": "越南 · 河内",
-          "description": "越南国家主席苏林与缅甸总统敏昂莱举行会晤，河内。9月5日，缅甸总统敏昂莱应邀对越南进行为期3天正式访问，两国领导人就越缅关系、双边合作、国际及地区局势等议题交换意见。双方同意将国防安全合作提升为两国关系重要支柱，扩大高科技农业、数字经济及电信基础设施等领域合作，并加强在东盟和湄公河次区域等机制中的协调。越南是缅甸第9大贸易伙伴和第7大外资来源国，2026年上半年双边贸易额达3.35亿美元，同比增长26%。摄影师：Quang Nguyen",
-          "link": "https://m.idai.ly/se/0efpPp",
-          "publishedOn": "2026-09-06T08:57:00.000Z",
-          "wordCount": 289,
-          "title": "缅甸总统访问越南 - September 6, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/4cd106e482/f0d459ee.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/4cd106e482/f0d459ee.jpg"
-        },
-        {
-          "id": "idaily-257797",
-          "author": "菲律宾 · 奎松市",
-          "description": "菲律宾副总统 Sara Duterte 向法院缴纳保释金后获释，奎松市。9月4日，菲律宾奎松市地方法院对48岁现任副总统 Sara Duterte 下达逮捕令，指控她因公开威胁雇凶谋杀现任总统及夫人而涉嫌犯下「严重威胁罪」。Sara Duterte 否认相关指控并向法院缴纳36万比索（约合5740美元）保释金后获释。最新民调显示菲律宾副总统 Sara Duterte 的支持率为61.3%，大幅高于现任总统 Ferdinand Marcos Jr. 的36.4%。摄影师：Ezra Acayan",
-          "link": "https://m.idai.ly/se/407UY4",
-          "publishedOn": "2026-09-06T08:55:00.000Z",
-          "wordCount": 289,
-          "title": "菲律宾法院对副总统下逮捕令 - September 6, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/d19628aed2/e3d0372f.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/d19628aed2/e3d0372f.jpg"
-        },
-        {
-          "id": "idaily-257796",
-          "author": "波兰 · 克拉科夫",
-          "description": "第12届欧洲火星车挑战赛（ERC）总决赛期间，瑞士洛桑联邦理工学院团队正在对火星车进行调试。9月4日，2026年欧洲火星车挑战赛在波兰克拉科夫AGH科技大学举行，本届共有来自29个国家的124支队伍参赛，其中25支队伍入围总决赛。参赛队伍需要遥控火星车在一个仿造火星南半球「希腊平原」撞击坑的900平方米模拟环境中完成自主导航、样本采集、潜在生命探测等任务。比赛最终结果将于9月6日公布。摄影师：Klaudia Radecka",
-          "link": "https://m.idai.ly/se/daaRUL",
-          "publishedOn": "2026-09-06T08:53:00.000Z",
-          "wordCount": 289,
-          "title": "欧洲火星车挑战赛 - September 6, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/3eaa6b0b83/223628ab.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/3eaa6b0b83/223628ab.jpg"
-        },
-        {
-          "id": "idaily-257795",
-          "author": "德国 · 柏林",
-          "description": "2026年柏林国际消费电子展（IFA），一台中国宇树科技公司的 G1 人形机器人正在与参观者互动，德国。本届 IFA 展会从9月4日持续至8日，共有932家中国大陆企业参展，数量较上届增加约33%，占参展商总数近一半。市场调研机构 SAG 报告显示2026年上半年全球人形机器人出货量约1.91万台，同比增长近3倍，中国智元机器人以约8400台、44%的市场份额位居第一，宇树科技以约5900台、31%的份额排名第二。摄影师：Emmanuele Contini",
-          "link": "https://m.idai.ly/se/dc9QeQ",
-          "publishedOn": "2026-09-06T08:51:00.000Z",
-          "wordCount": 289,
-          "title": "中国科技企业参展IFA创新高 - September 6, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/31100541a0/caf4f899.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/31100541a0/caf4f899.jpg"
-        },
-        {
-          "id": "idaily-257794",
-          "author": "印度尼西亚 · 西加里曼丹省",
-          "description": "印尼野生动物保护人员从山火灾区救出一对红毛猩猩母子，西加里曼丹省。9月5日，印尼西加里曼丹省自然资源保护局宣布在吉打邦县山火灾区救出一只约20岁的雌性红毛猩猩和一只约1岁的雌性幼崽，初步检查确定这2只红毛猩猩没有烧伤痕迹，目前已被送往康复中心接受进一步观察。印尼动物保护机构过去一个月内已从山火灾区救出至少9只红毛猩猩，其中1只因吸入过量烟霾而不幸死亡。摄影师：Indonesia Ministry of Forestry",
-          "link": "https://m.idai.ly/se/2189xA",
-          "publishedOn": "2026-09-06T08:49:00.000Z",
-          "wordCount": 289,
-          "title": "印尼山火威胁红毛猩猩 - September 6, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/9180f16ac7/e39ddd74.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/9180f16ac7/e39ddd74.jpg"
         }
       ]
     },
