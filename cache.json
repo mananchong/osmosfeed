@@ -44,16 +44,6 @@
           "wordCount": 6180,
           "title": "R Weekly 2026-W38 Tidyomics, safer joins, Positron highlights",
           "imageUrl": "https://rweekly.org/public/facebook.png"
-        },
-        {
-          "id": "https://rweekly.org/2026-W37.html",
-          "author": null,
-          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Jonathan Kitt, with help from the R Weekly team members and contributors.\nHighlights\nMadison bike crashes peak in September\n\nAn Atlas of Stone\nRepeated measures ANOVA in R\nInsights\nposit::glimpse() Newsletter – September 2026\nAI Newsletter: You probably don’t want to fine-tune\nNavigating Challenges in Spatial Machine Learning\nR in the Real World\nR4SUB: turning “are we ready to submit?” into a number\nMadison bike crashes peak in September\nAn Atlas of Stone\nR in Organizations\nA Decade of Meetups, Code, and Community: San Carlos RUG Turns 10\nMeet Our 2026-2027 R Consortium Board of Directors\nTutorials\nBack-transforming a log-scale model\nSkewness-Managed Portfolios: A Practical …",
-          "link": "https://rweekly.org/2026-W37.html",
-          "publishedOn": "2026-09-07T00:00:00.000Z",
-          "wordCount": 5803,
-          "title": "R Weekly 2026-W37 Bike crashes, World Castles, Repeated measures ANOVA",
-          "imageUrl": "https://rweekly.org/public/facebook.png"
         }
       ]
     },
@@ -74,6 +64,46 @@
       "feedUrl": "https://www.nationalreview.com/feed/",
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
+        {
+          "id": "https://www.nationalreview.com/?p=2051434",
+          "author": "Raleigh Adams",
+          "description": "In this portrayal of Chris Hansen’s TV rise, the hunt for online predators becomes an Ahab-like pursuit through the anxieties of post-9/11 America.",
+          "link": "https://www.nationalreview.com/2026/10/primetime-and-the-taste-of-televised-justice/",
+          "publishedOn": "2026-10-06T10:30:29.000Z",
+          "wordCount": 7239,
+          "title": "<i>Primetime</i> and the Taste of Televised Justice",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/10/primetime-robert-pattinson.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=2051588",
+          "author": "The Editors",
+          "description": "Europe’s radicalized ‘centrists’ remain incapable of addressing the scale of the disaster they have done so much to create.",
+          "link": "https://www.nationalreview.com/2026/10/france-needs-to-restore-order/",
+          "publishedOn": "2026-10-06T10:30:19.000Z",
+          "wordCount": 6358,
+          "title": "France Needs to Restore Order",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/10/france-riots-16.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=2051425",
+          "author": "Fred Bauer",
+          "description": "Susan Collins swims against the tide of political warfare.",
+          "link": "https://www.nationalreview.com/2026/10/the-civic-stakes-of-the-maine-senate-race/",
+          "publishedOn": "2026-10-06T10:30:05.000Z",
+          "wordCount": 6796,
+          "title": "The Civic Stakes of the Maine Senate Race",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/10/suan-collins-capitol-hill.jpg?fit=2057%2C1200&ssl=1"
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=2051455",
+          "author": "Shay Khatiri",
+          "description": "The falsehoods about so-called journalists killed by Israel continue to unfairly inflict damage on the country’s reputation.",
+          "link": "https://www.nationalreview.com/2026/10/the-media-must-correct-the-record-on-terrorist-journalists/",
+          "publishedOn": "2026-10-06T10:30:01.000Z",
+          "wordCount": 5736,
+          "title": "The Media Must Correct the Record on Terrorist-Journalists",
+          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/10/press-vest-gaza.jpg?fit=2057%2C1200&ssl=1"
+        },
         {
           "id": "https://www.nationalreview.com/?p=2051373",
           "author": "Michael Brendan Dougherty",
@@ -2362,6 +2392,16 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/115416",
+          "author": "大大大K",
+          "description": "密码管理服务的数据，当然要掌握在自己手里。查看全文",
+          "link": "https://sspai.com/post/115416",
+          "publishedOn": "2026-10-06T10:00:00.000Z",
+          "wordCount": 525,
+          "title": "基于 Vaultwarden 和 Keyguard 的自托管密码管理实践",
+          "imageUrl": "https://rssfile.sspai.com/2026/10/6/article/545f1362-1a52-26ca-86c1-279aa8a7f56c.jpeg?imageMogr2/auto-orient/ignore-error/1"
+        },
+        {
           "id": "https://sspai.com/post/114536",
           "author": "谷雨G2rain",
           "description": "iOS 27 通知自动化改变了通知的处理方式，快捷指令也迎来了不少的新玩法。查看全文",
@@ -3240,16 +3280,6 @@
           "wordCount": 658,
           "title": "定义了 Apple 10 年的白色产品：iBook G3 Snow 怀旧手记",
           "imageUrl": "https://rssfile.sspai.com/2026/09/02/2846844719d48535676870b494ddfbd0.jpg?imageMogr2/auto-orient/ignore-error/1"
-        },
-        {
-          "id": "https://sspai.com/post/114250",
-          "author": "少数派编辑部",
-          "description": "美国 CD 销量大幅反弹，公安部上线反诈智能助手「国家反诈 AI」等。查看全文",
-          "link": "https://sspai.com/post/114250",
-          "publishedOn": "2026-09-07T00:20:41.000Z",
-          "wordCount": 675,
-          "title": "派早报：微软公布 Project Zenith 计划、F-Droid 拟效仿 Debian 制定生成式 AI 使用政策",
-          "imageUrl": "https://rssfile.sspai.com/9/7/2026/article/82a1d742-4df3-a340-5493-9843112d5566.png?imageMogr2/auto-orient/format/webp/ignore-error/1"
         }
       ]
     },
@@ -3258,6 +3288,104 @@
       "feedUrl": "https://plink.anyfeeder.com/idaily/today",
       "siteUrl": "https://idai.ly",
       "articles": [
+        {
+          "id": "idaily-259472",
+          "author": "中国 · 北京",
+          "description": "游客们在国庆假期参观北京天坛祈年殿。10月5日，中国交通运输部公布2026年国庆假期前4日全社会跨区域人员流动量累计达到12.44亿人次，同比基本持平，其中公路人员流动量同比下降-0.6%至11.4亿人次，铁路客运量增长8.4%至8556万人次，水路客运量增长4.3%至711万人次，民航客运量下降-2.3%至950万人次。北京市公园管理中心数据显示国庆假期前4天北京全市公园共接待游客798.81万人次，较2025年同期增加8.2%。摄影师：Yi Haifei",
+          "link": "https://m.idai.ly/se/f208j3",
+          "publishedOn": "2026-10-06T07:13:00.000Z",
+          "wordCount": 263,
+          "title": "中国国庆假期出游持平 - October 6, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/a5a8ea1c8b/222b4473.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/a5a8ea1c8b/222b4473.jpg"
+        },
+        {
+          "id": "idaily-259471",
+          "author": "瑞典 · 斯德哥尔摩",
+          "description": "2026年诺贝尔生理学或医学奖揭晓，美国科学家 Karl Deisseroth、德国科学家 Peter Hegemann 和 Georg Nagel 因「光门控离子通道」和「光遗传学」领域的发现而共同获奖，斯德哥尔摩。诺贝尔奖评审委员会指出，这3名获奖者的发现让科学家们能够通过光信号来控制神经细胞，从而揭示大脑神经细胞如何塑造记忆、感觉和行为，开启了神经科学的新时代。这3名科学家将平分1200万瑞典克朗（约合120万美元）奖金。摄影师：Jonathan Nackstrand",
+          "link": "https://m.idai.ly/se/29d9kX",
+          "publishedOn": "2026-10-06T06:59:00.000Z",
+          "wordCount": 263,
+          "title": "2026年诺贝尔医学奖公布 - October 6, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/2373ca5b13/974e5ddf.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/2373ca5b13/974e5ddf.jpg"
+        },
+        {
+          "id": "idaily-259470",
+          "author": "俄罗斯 · 莫斯科",
+          "description": "俄罗斯总统 Vladimir Putin 在教师节当天与全俄教育竞赛获奖者进行视频连线，莫斯科。10月5日是俄罗斯教师节，俄总统 Putin 在致辞中向全俄教师及教育工作者致以问候和感谢，承诺政府将持续改善教育基础设施条件，为学生和教师创造更好的环境。俄罗斯政府数据显示目前该国有超过107.3万名小学教师、16.8万名高校教师及职业培训师，教师职位空缺率约为1.1%。摄影师：Vyacheslav Prokofyev",
+          "link": "https://m.idai.ly/se/6d6942",
+          "publishedOn": "2026-10-06T06:57:00.000Z",
+          "wordCount": 263,
+          "title": "俄总统教师节致辞 - October 6, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/a5d0b38f2b/72883b4f.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/a5d0b38f2b/72883b4f.jpg"
+        },
+        {
+          "id": "idaily-259469",
+          "author": "日本 · 东京",
+          "description": "日本首相高市早苗在第222届国会特别会议开幕式上发表施政演说，东京。10月5日，日本首相高市早苗在国会发表上任以来第2次施政演说，时长约30分钟。她宣布日本内阁将通过「负责任的积极财政政策」推动企业投资、居民收入及消费增长，优先扩大能源、人工智能、半导体、量子技术等领域的投资。高市早苗强调日本将持续增强防卫力量、提升日美同盟水平，重申将在2026年底前修订「安保三文件」。当天日本30年期国债收益率一度触及4.235%，创历史新高。摄影师：Franck Robichon",
+          "link": "https://m.idai.ly/se/831hrS",
+          "publishedOn": "2026-10-06T06:55:00.000Z",
+          "wordCount": 263,
+          "title": "高市早苗第二次施政演说 - October 6, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/1e686553c5/37e94f8b.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/1e686553c5/37e94f8b.jpg"
+        },
+        {
+          "id": "idaily-259468",
+          "author": "印度 · 新德里",
+          "description": "一名印度妇女在亚穆纳河中进行沐浴祈福仪式，新德里。10月3日，印度东部比哈尔邦、北方邦和贾坎德邦等地区迎来印度教传统节日「吉蒂亚节」（Jitiya）。该节日源于印度神话中的古代国王吉姆特瓦汉（Jimutvahana）为拯救一条蛇而牺牲自己生命的故事，被认为象征无私的母爱。印度妇女们会在节日期间进行长达24小时的禁食断水斋戒，以祈求孩子健康长寿。摄影师：Sunil Ghosh",
+          "link": "https://m.idai.ly/se/852d4R",
+          "publishedOn": "2026-10-06T06:53:00.000Z",
+          "wordCount": 263,
+          "title": "印度教妇女庆祝吉蒂亚节 - October 6, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/8285264284/09c748ab.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/8285264284/09c748ab.jpg"
+        },
+        {
+          "id": "idaily-259467",
+          "author": "伊朗 · 德黑兰",
+          "description": "伊朗德黑兰伊玛目侯赛因广场，伊朗女性志愿者正在接受军事训练。9月30日，伊朗伊斯兰革命卫队首次举办专门面向女性的军事训练营活动，课程内容包括武器操作、城市作战、滑索速降和急救包扎等。伊斯兰革命卫队从2026年3月美以伊战争爆发开始启动「为伊朗献身」（Jan-Fada）全民防卫动员，迄今已有超过3100万人报名参加，其中女性占比达32%。摄影师：Abedin Taherkenareh",
+          "link": "https://m.idai.ly/se/424e6T",
+          "publishedOn": "2026-10-06T06:51:00.000Z",
+          "wordCount": 263,
+          "title": "伊朗女性军事训练营 - October 6, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/5e888c8d45/9693acba.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/5e888c8d45/9693acba.jpg"
+        },
+        {
+          "id": "idaily-259464",
+          "author": "俄罗斯 · 圣彼得堡",
+          "description": "俄罗斯博物馆展示修复完成的19世纪俄罗斯浪漫主义画家 Ivan Aivazovsky 代表作《九级浪》（The Ninth Wave），圣彼得堡。10月5日，俄罗斯博物馆宣布历时4个月完成馆藏名作《九级浪》的修复工作，这是该油画绘制后176年首次接受全面修复。该画作创作于1850年，画幅达到221x332厘米，描绘了海难幸存者们在船只残骸上面对巨浪的壮观场景，被视为俄罗斯浪漫主义海景画的巅峰之作。摄影师：Natalia Gladkova",
+          "link": "https://m.idai.ly/se/c9e8o8",
+          "publishedOn": "2026-10-06T06:49:00.000Z",
+          "wordCount": 263,
+          "title": "艾瓦佐夫斯基《九级浪》修复完成 - October 6, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/01dec424a1/175e4777.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/01dec424a1/175e4777.jpg"
+        },
         {
           "id": "idaily-259437",
           "author": "日本 · 名古屋",
@@ -7258,26 +7386,6 @@
           "wordCount": 1812,
           "title": "一家被列入黑名单的中国科技巨头如何继续购买美国芯片",
           "imageUrl": "https://static01.nyt.com/images/2026/09/01/multimedia/00biz-china-ai-smuggle-Aivres-lvjb/00biz-china-ai-smuggle-Aivres-lvjb-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/world/20260907/germany-afd-election-saxony-anhalt/dual",
-          "author": null,
-          "description": "JIM TANKERSLEY, CHRISTOPHER F. SCHUETZE, ASHLEY SOUTHALL2026年9月7日极右翼政党德国选择党的领衔候选人乌尔里希·齐格蒙德周日与萨克森-安哈尔特州的同事们在一起。 Ronny Hartmann/Agence France-Presse — Getty Images\nThe Alternative for Germany party dominated a crucial state election on Sunday, according to near-final results, but fell short of the absolute majority needed to become the first far-right party to govern part of the country since the Nazi era.\n根据接近最终的结果，德国选择党在周日一场关键的州选举中占据主导地位，但未能拿下所需的绝对多数，因而不能成为自纳粹时代以来首个在德国部分地区执政的极右翼政党。\nIf those results hold, the AfD, as the party is known by its German initials, could still assume power in the eastern state of Saxony-Anhalt in the coming weeks, depending on the negotiations among rival parties that have vowed not to support an AfD government.\n如果这些结果保持到最后，该党（德语缩写为AfD）仍可能在未来几周内在东部州萨克森-安哈尔特掌权，但这取…",
-          "link": "https://cn.nytimes.com/world/20260907/germany-afd-election-saxony-anhalt/dual",
-          "publishedOn": "2026-09-07T02:06:02.000Z",
-          "wordCount": 1207,
-          "title": "德国极右翼政党在地方选举中取得关键胜利",
-          "imageUrl": "https://static01.nyt.com/images/2026/09/06/multimedia/06-germany-election-ledeall-fkhc/06-germany-election-ledeall-fkhc-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/china/20260907/chinas-new-graduates-ai-challenges/dual",
-          "author": null,
-          "description": "YAN ZHUANG2026年9月7日今年4月，中国阜阳的一场招聘会上挤满了前来求职的大学生。 Agence France-Presse — Getty Images\nA few months out from graduating with a master’s degree in urban planning, Jin Shangyu is watching artificial intelligence upend the industry she is trying to enter.\n距离硕士毕业还有几个月，学习城市规划专业的金尚宇（音）正眼睁睁地看着人工智能颠覆她试图进入的行业。\nJob boards are filled with roles that require A.I. expertise, while listings for traditional roles seem to be dwindling. Much of the work involved in the early stage of a design project, which used to involve several people, can now be executed with a few clicks of a mouse.\n招聘网站上充斥着需要人工智能专长的职位，而传统岗位的招聘信息似乎正在减少。设计项目前期阶段的大量工作过去需要好几个人完成，现在点几下鼠标就能搞定。\nSince getting her degree from the University of Hong Kong, Ms. Jin, 26, who is from northern China, has applied for about 150 internships and entry-lev…",
-          "link": "https://cn.nytimes.com/china/20260907/chinas-new-graduates-ai-challenges/dual",
-          "publishedOn": "2026-09-07T00:06:02.000Z",
-          "wordCount": 1472,
-          "title": "中国应届毕业生求职难：就业市场饱和叠加人工智能冲击",
-          "imageUrl": "https://static01.nyt.com/images/2026/09/04/multimedia/04int-china-youth-unemployment-01-wkqv/04int-china-youth-unemployment-01-wkqv-articleLarge.jpg"
         }
       ]
     },
@@ -7286,6 +7394,16 @@
       "feedUrl": "https://plink.anyfeeder.com/weixin/ibookreview",
       "siteUrl": "http://weixin.sogou.com/weixin?type=1&s_from=input&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A",
       "articles": [
+        {
+          "id": "c5c22d8687035c3b5ccb092b677b4e34",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E4%B8%A4%E7%8C%AB%E4%B8%80%E7%8B%97%EF%BC%8C%E6%88%91%E5%A4%B9%E5%9C%A8%E4%B8%AD%E9%97%B4%EF%BC%8C%E6%88%90%E4%BA%86%E5%B9%B8%E7%A6%8F%E7%9A%84%E6%B1%89%E5%A0%A1%E5%8C%85",
+          "publishedOn": "2026-10-06T02:00:00.000Z",
+          "wordCount": 298,
+          "title": "两猫一狗，我夹在中间，成了幸福的汉堡包",
+          "imageUrl": null
+        },
         {
           "id": "13aec8cba5aa2785a80a9e093bf7be8d",
           "author": null,
