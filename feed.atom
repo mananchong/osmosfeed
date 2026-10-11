@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mananchong.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-11T14:18:34.696Z</updated>
+    <updated>2026-10-11T20:30:24.316Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mananchong.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://mananchong.github.io/osmosfeed/feed.atom"/>
@@ -7442,16 +7442,6 @@ Android 开始支持密码管理器迁移
         <summary type="html"><![CDATA[希腊「阿托科斯岛」（Atokos）的地中海黑猪和度假游客一起在海滩游泳。「阿托科斯岛」是位于希腊西海岸的一座小型私人岛屿，面积约4.7平方公里，最高海拔334米，无常住人口，因栖息着成群会游泳的地中海黑猪而在社交媒体走红，目前已成为希腊的最新热门旅游景点。希腊央行数据显示2026年上半年接待入境游客1349万人次，同比增长15.4%，实现旅游收入88亿欧元，同比增长14.8%。摄影师：Aris Messinis]]></summary>
         <author>
             <name>希腊 · 阿托科斯岛</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[与 AI 搏斗失败后重新开始找工作：经验分享与半可靠避雷指南]]></title>
-        <id>https://sspai.com/post/114461</id>
-        <link href="https://sspai.com/post/114461"/>
-        <updated>2026-09-12T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文]]></summary>
-        <author>
-            <name>程天冲</name>
         </author>
     </entry>
 </feed>
