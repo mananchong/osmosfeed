@@ -75,6 +75,26 @@
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
         {
+          "id": "https://www.nationalreview.com/?p=2061002",
+          "author": "Ramesh Ponnuru",
+          "description": "GOP candidates in key Senate races have not bothered to tell voters about their opponents’ hostility to Medicare Advantage.",
+          "link": "https://www.nationalreview.com/2026/10/republicans-medical-malpractice/",
+          "publishedOn": "2026-10-19T20:46:36.000Z",
+          "wordCount": null,
+          "title": "Republicans’ Medical Malpractice",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=2060932",
+          "author": "John Fund",
+          "description": "Incomes are increasing under Trump, but guess how the media are portraying things.",
+          "link": "https://www.nationalreview.com/2026/10/once-again-are-we-being-sold-a-distorted-economic-view-just-before-an-election/",
+          "publishedOn": "2026-10-19T20:16:40.000Z",
+          "wordCount": null,
+          "title": "Once Again, Are We Being Sold a Distorted Economic View Just Before an Election?",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nationalreview.com/?p=2060739",
           "author": "Noah Rothman",
           "description": "We should not have to endure the French experience before we wake up to the West’s peril.",
@@ -3160,26 +3180,6 @@
           "wordCount": 528,
           "title": "派早报：微软高管称 AI 爬取是人类历史上最大的劳动成果盗窃",
           "imageUrl": "https://rssfile.sspai.com/9/21/2026/article/ca2a684d-9b65-b74e-f13c-de6f3eeda594.png?imageMogr2/auto-orient/ignore-error/1"
-        },
-        {
-          "id": "https://sspai.com/post/114495",
-          "author": "PJHubs",
-          "description": "这是一趟水陆空三栖的旅行——在万象的街头巷尾无意间推门而入点了一份炸五花肉套饭，味道香上了头发根；在万荣连跳两天水，最高的 8 米跳台跳下来砸得屁股很疼，各种户外活动性价比拉满；琅勃拉邦的慢生活，从清晨薄雾中的布施开始到日落时分反射着金光的湄公河结束。查看全文",
-          "link": "https://sspai.com/post/114495",
-          "publishedOn": "2026-09-20T07:00:00.000Z",
-          "wordCount": 443,
-          "title": "觉来知打明钟未，忽听邻家叫佛声：佛国老挝行记",
-          "imageUrl": "https://rssfile.sspai.com/2026/09/12/aef2ee263ce9856c5f0002c7fa5072b4.JPG?imageMogr2/auto-orient/ignore-error/1"
-        },
-        {
-          "id": "https://sspai.com/post/114717",
-          "author": "OrbiSona",
-          "description": "会议开到一半，手机亮了：一个陌生号码。你盯着屏幕犹豫了几秒，不知道这会是推销、客户，还是外卖员。直接挂掉，又得惦记着会不会耽误正事；接起来，不方便说，聊完还得整理待办。轮到你主动打电话，也不轻松。邀约 ...查看全文",
-          "link": "https://sspai.com/post/114717",
-          "publishedOn": "2026-09-20T03:01:47.000Z",
-          "wordCount": 242,
-          "title": "给电话加上「辅助驾驶」？我们想听听你的意见",
-          "imageUrl": "https://rssfile.sspai.com/2026/9/18/article/d9ea303b-be79-ebab-d373-19191e2fde9d.jpeg?imageMogr2/auto-orient/ignore-error/1"
         }
       ]
     },
@@ -5959,104 +5959,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://pic.yupoo.com/fotomag/b4b77d80f9/865ad669.jpg"
-        },
-        {
-          "id": "idaily-258559",
-          "author": null,
-          "description": "俄罗斯总统 Vladimir Putin 以线上方式参加俄罗斯国家杜马选举投票，莫斯科。9月18日，俄罗斯第9届国家杜马选举投票正式开始。这是俄罗斯自2022年俄乌冲突爆发以来首次举行全国性议会选举，约1.11亿合格选民将投票选出新一届国家杜马450个席位、11个地区的行政长官和39个地区的地方议员，2022年公投入俄的顿涅茨克等4个地区选民将首次参加国家杜马投票，选举结果将于10月5日前公布。现任执政党「统一俄罗斯党」目前在国家杜马拥有310个席位，本次改选后预计将继续保持绝对优势地位。摄影师：Vyacheslav Prokofyev",
-          "link": "https://m.idai.ly/se/e5dcEh",
-          "publishedOn": "2026-09-20T08:57:00.000Z",
-          "wordCount": 265,
-          "title": "俄罗斯国家杜马选举投票 - September 20, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/6b8e645a93/7e57dd75.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/6b8e645a93/7e57dd75.jpg"
-        },
-        {
-          "id": "idaily-258558",
-          "author": null,
-          "description": "美国白宫媒体办公室的CNN工位，华盛顿特区。9月18日，美国总统 Trump 在社交媒体发文宣布即日起禁止 CNN、MS NOW 和 Politico 三家美国新闻媒体的记者进入白宫，封杀理由为「长期编造假新闻（Fake news）」。这三家媒体的白宫记者证在9月19日被没收。白宫记者协会（WHCA）当天发表声明称该禁令违反美国《宪法》第一修正案，敦促白宫立即恢复相关媒体人员的采访权限。摄影师：Evan Vucci",
-          "link": "https://m.idai.ly/se/641z1R",
-          "publishedOn": "2026-09-20T08:55:00.000Z",
-          "wordCount": 265,
-          "title": "特朗普禁止CNN进入白宫 - September 20, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/eba0e118cf/3efe8920.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/eba0e118cf/3efe8920.jpg"
-        },
-        {
-          "id": "idaily-258557",
-          "author": null,
-          "description": "2026东京电玩展（Tokyo Game Show），《幻兽帕鲁》游戏开发商展台的一只巨型「空涡龙」充气模型，日本千叶县。9月17日，东京电玩展30周年特展在千叶市幕张展览馆开幕，本年度共有来自53个国家和地区的1138家游戏商参展，创下史上最大规模，预计吸引约30万观众入场。游戏市场调研公司 Newzoo 报告预测2026年全球电子游戏市场规模将达到2139亿美元，同比增长6.1%；游戏玩家增至37亿人，达到全球总人口的40%以上。摄影师：iDaily Media",
-          "link": "https://m.idai.ly/se/cfeIxU",
-          "publishedOn": "2026-09-20T08:53:00.000Z",
-          "wordCount": 265,
-          "title": "2026东京电玩展 - September 20, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/56e91f46f9/77c3bae3.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/56e91f46f9/77c3bae3.jpg"
-        },
-        {
-          "id": "idaily-258555",
-          "author": null,
-          "description": "古巴首都哈瓦那在停电中迎来日落。9月18日，古巴全国遭遇新一轮大规模停电事件，主要原因是高压输电线路故障和恶劣天气影响。这是古巴2026年迄今第8次大范围停电，目前首都哈瓦那约一半地区已恢复供电，其他地区电力系统仍在抢修中。美国国务院本周宣布对古巴实施新一轮制裁，本轮制裁主要针对古巴军工和矿产企业，共有8个实体和3名个人被列入制裁名单。国际货币基金组织预测2026年古巴 GDP 将下跌-7.2%，跌幅达到2025年的两倍。摄影师：Adalberto Roque",
-          "link": "https://m.idai.ly/se/cee2U3",
-          "publishedOn": "2026-09-20T08:51:00.000Z",
-          "wordCount": 265,
-          "title": "古巴再次遭遇大范围停电 - September 20, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/1b42e7f740/e74db894.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/1b42e7f740/e74db894.jpg"
-        },
-        {
-          "id": "idaily-258554",
-          "author": null,
-          "description": "朝鲜最高领导人金正恩视察火箭炮生产车间。9月19日，朝中社报道朝鲜最高领导人金正恩于9月16日至18日视察多家主要军工企业。金正恩对国防工业部门扩大产能表示赞赏，要求企业改善生产条件和环境，提高攻击及防御战斗武器系统的人工智能化水平，进一步提高火炮武器装甲化和自动化水平，强调建设强大的炮兵武力是遏制战争和执行战争的基本核心。韩国联合参谋本部9月20日通报朝鲜于当天下午15点左右向东部海域发射一枚弹道导弹。摄影师：KCNA",
-          "link": "https://m.idai.ly/se/a0bL0C",
-          "publishedOn": "2026-09-20T08:49:00.000Z",
-          "wordCount": 265,
-          "title": "金正恩视察军工企业 - September 20, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/45a093b046/1596eb3b.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/45a093b046/1596eb3b.jpg"
-        },
-        {
-          "id": "idaily-258551",
-          "author": null,
-          "description": "印尼动物救援人员在山火灾区成功解救一对红毛猩猩（Orangutan）母子，西加里曼丹省。9月18日，印尼自然资源保护局宣布在吉打邦县山火灾区救出一只约15岁的雌性红毛猩猩和一只仍处于哺乳期的1个月幼崽，初步检查确定这2只红毛猩猩未受到烧伤和外伤，兽医已为母猩猩进行临时静脉输液和吸氧治疗，后续将转移至康复中心接受进一步观察。印尼动物保护部门过去一个月已从山火中救出至少15只受困的红毛猩猩。摄影师：YIARI",
-          "link": "https://m.idai.ly/se/05d478",
-          "publishedOn": "2026-09-20T08:47:00.000Z",
-          "wordCount": 265,
-          "title": "印尼救助山火灾区红毛猩猩 - September 20, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/a2222e0d79/7b01a9a2.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/a2222e0d79/7b01a9a2.jpg"
-        },
-        {
-          "id": "idaily-258549",
-          "author": null,
-          "description": "旅西班牙大熊猫「金喜」正在享用6岁生日蛋糕。9月19日，西班牙马德里动物园为旅西大熊猫「金喜」和「茱萸」准备了竹子和水果冰蛋糕庆祝6岁生日。雄性大熊猫「金喜」出生于2020年9月1日，雌性大熊猫「茱萸」出生于2020年10月25日，这对大熊猫于2024年4月29日抵达马德里动物园开启为期10年旅居生活，是目前西班牙境内唯一一对大熊猫。摄影师：Jesús Hellín",
-          "link": "https://m.idai.ly/se/84dspa",
-          "publishedOn": "2026-09-20T08:45:00.000Z",
-          "wordCount": 265,
-          "title": "旅西大熊猫6岁生日 - September 20, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/c9695205c1/cfcee844.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/c9695205c1/cfcee844.jpg"
         }
       ]
     },
