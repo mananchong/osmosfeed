@@ -44,16 +44,6 @@
           "wordCount": 5939,
           "title": "R Weekly 2026-W40 knitr SQL Engine, Zulip, Snapshotting error messages",
           "imageUrl": "https://rweekly.org/public/facebook.png"
-        },
-        {
-          "id": "https://rweekly.org/2026-W39.html",
-          "author": null,
-          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Colin Fay, with help from the R Weekly team members and contributors.\nHighlight\nRelease: sessioncheck 0.2\nGhosts of spreadsheets past\nObserved power tells you nothing\nInsights\nAI Newsletter: New releases from ellmer, shinychat, and commons\nWhy ggseg Atlases Became Function Calls\nGhosts of spreadsheets past\n\nHappy Birthday rOpenSci — My Journey from First-Time Developer to Current Opportunities\nR in the Real World\nSample size needed for central limit theorem to kick in by @ellis2013nz\nTidyTuesday 2026/37\nR in Organizations\nWhat’s Your Workflow?: Synthetic SDTM From an NCT ID\nR in Academia\nFrom BirdNET Detections to Ecological Insight: Sunny Tseng on birdnetTools 2.0\nTutorials…",
-          "link": "https://rweekly.org/2026-W39.html",
-          "publishedOn": "2026-09-21T00:00:00.000Z",
-          "wordCount": 6228,
-          "title": "R Weekly 2026-W39 Sessioncheck 0.2, Spreadsheet Ghosts, Observed Power",
-          "imageUrl": "https://rweekly.org/public/facebook.png"
         }
       ]
     },
@@ -74,6 +64,36 @@
       "feedUrl": "https://www.nationalreview.com/feed/",
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
+        {
+          "id": "https://www.nationalreview.com/?p=2060829",
+          "author": "George Weigel",
+          "description": "Treason, no; moral obtuseness, yes.",
+          "link": "https://www.nationalreview.com/2026/10/trumps-strategic-blindness-on-russia/",
+          "publishedOn": "2026-10-20T10:30:49.000Z",
+          "wordCount": null,
+          "title": "Trump’s Strategic Blindness on Russia",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=2061054",
+          "author": "John Gustavsson",
+          "description": "On Europe’s coming fiscal reckoning.",
+          "link": "https://www.nationalreview.com/2026/10/eurozone-crisis-2-0/",
+          "publishedOn": "2026-10-20T10:30:43.000Z",
+          "wordCount": null,
+          "title": "Eurozone Crisis 2.0?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=2061043",
+          "author": "Abigail Anthony",
+          "description": "Three cultural episodes over the summer eerily resembled the fashions of 2020.",
+          "link": "https://www.nationalreview.com/2026/10/has-woke-2-0-started/",
+          "publishedOn": "2026-10-20T10:30:36.000Z",
+          "wordCount": null,
+          "title": "Has Woke 2.0 Started?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.nationalreview.com/?p=2061002",
           "author": "Ramesh Ponnuru",
@@ -2243,86 +2263,6 @@
           "wordCount": 6609,
           "title": "No on Virginia Amendment 1",
           "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2025/01/Virginias-House-of-Delegates.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=2041044",
-          "author": "John Fund",
-          "description": "In California, it’s class warriors and labor bullies.",
-          "link": "https://www.nationalreview.com/2026/09/who-wants-to-get-rid-of-billionaires/",
-          "publishedOn": "2026-09-20T19:07:46.000Z",
-          "wordCount": 6311,
-          "title": "Who Wants to Get Rid of Billionaires?",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/09/dave-regan-nbc4.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=2039885",
-          "author": "Noah C. Gould",
-          "description": "Robert Putnam’s book pinpointed our isolation. We haven’t been able to fix the problem.",
-          "link": "https://www.nationalreview.com/2026/09/americans-are-still-bowling-alone/",
-          "publishedOn": "2026-09-20T10:30:53.000Z",
-          "wordCount": 6946,
-          "title": "Americans Are Still ‘Bowling Alone’",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/09/bowling.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=2039258",
-          "author": "Abigail Anthony",
-          "description": "The Princeton University Art Museum has weaponized its placards against American history.",
-          "link": "https://www.nationalreview.com/2026/09/lectured-by-curators-at-my-alma-mater/",
-          "publishedOn": "2026-09-20T10:30:38.000Z",
-          "wordCount": 7198,
-          "title": "Lectured by Curators at My Alma Mater",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/09/Princeton-University-Art-Museum.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=2040590",
-          "author": "Spencer A. Klavan",
-          "description": "Not even tech CEOs.",
-          "link": "https://www.nationalreview.com/2026/09/nobody-knows-the-future/",
-          "publishedOn": "2026-09-20T10:30:24.000Z",
-          "wordCount": 22261,
-          "title": "Nobody Knows the Future",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/09/segways-us-capitol.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=2037559",
-          "author": "David DeSteno",
-          "description": "The Jewish day of atonement reminds us that when we don’t forgive, we punish ourselves.",
-          "link": "https://www.nationalreview.com/2026/09/forgiveness-is-a-gift-to-us-all/",
-          "publishedOn": "2026-09-20T10:30:18.000Z",
-          "wordCount": 9982,
-          "title": "Forgiveness Is a Gift to Us All",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/09/yom-kippur.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=2039413",
-          "author": "Donald J. Kochan",
-          "description": "But the Supreme Court can stop it.",
-          "link": "https://www.nationalreview.com/2026/09/the-energy-sector-is-threatened-by-a-climate-litigation-free-for-all/",
-          "publishedOn": "2026-09-20T10:30:14.000Z",
-          "wordCount": 7173,
-          "title": "The Energy Sector Is Threatened by a Climate Litigation Free-for-All",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/09/suncorn.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=2039945",
-          "author": "Becket Adams",
-          "description": "It has merely evolved, as recent events attest.",
-          "link": "https://www.nationalreview.com/2026/09/woke-is-not-dead/",
-          "publishedOn": "2026-09-20T10:30:11.000Z",
-          "wordCount": 6280,
-          "title": "‘Woke’ Is Not Dead",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/09/aoc-medoia.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=2039904",
-          "author": "James Lileks",
-          "description": "Will newts’ rights stop the migrant influx?",
-          "link": "https://www.nationalreview.com/2026/09/rue-britannia/",
-          "publishedOn": "2026-09-20T10:30:09.000Z",
-          "wordCount": 6641,
-          "title": "Rue, Britannia",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/09/piddington.jpg?fit=2057%2C1200&ssl=1"
         }
       ]
     },
@@ -2331,6 +2271,56 @@
       "feedUrl": "https://sspai.com/feed",
       "siteUrl": "https://sspai.com",
       "articles": [
+        {
+          "id": "https://sspai.com/prime/story/inside-release-notes-261020",
+          "author": "少数派编辑部",
+          "description": "FirefoxNova：被「中途喝止」的界面现代化改造@PlatyHsu:9月29日，Mozilla随Firefox157推出了代号为Nova的全新设计。这是继2021年Proton改版以来，Fire ...查看全文\n本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
+          "link": "https://sspai.com/prime/story/inside-release-notes-261020",
+          "publishedOn": "2026-10-20T10:01:54.000Z",
+          "wordCount": 345,
+          "title": "具透 Plus：Firefox 被「中途喝止」的界面现代化改造；Pixel 不再为 VoLTE 发愁",
+          "imageUrl": "https://rssfile.sspai.com/10/20/2026/article/75afb783-0fef-0e6e-c305-736d98486035.jpeg?imageMogr2/auto-orient/ignore-error/1"
+        },
+        {
+          "id": "https://sspai.com/post/115475",
+          "author": "KingTsui",
+          "description": "在 TWS 5 系列获得我们不错评价之后，Buds Clip 能否延续他们「来得晚但完成度更高」的特点呢？查看全文",
+          "link": "https://sspai.com/post/115475",
+          "publishedOn": "2026-10-20T09:30:00.000Z",
+          "wordCount": 554,
+          "title": "TDS REVIEW｜vivo Buds Clip 耳夹式无线耳机体验",
+          "imageUrl": "https://rssfile.sspai.com/2026/10/08/d2e4a15ac0ed6e2623b3e4b8d289aede.jpg?imageMogr2/auto-orient/ignore-error/1"
+        },
+        {
+          "id": "https://sspai.com/post/116661",
+          "author": "Microhoo",
+          "description": "原厂屏幕之外最省心的搭档。查看全文",
+          "link": "https://sspai.com/post/116661",
+          "publishedOn": "2026-10-20T07:07:54.000Z",
+          "wordCount": 437,
+          "title": "从「空间扩展」到「等比放大」：我如何为 MacBook Pro 搭建双屏桌面",
+          "imageUrl": "https://rssfile.sspai.com/2026/10/19/article/73b9e61a-0136-e20c-bd35-c93695b94f8b.jpeg?imageMogr2/auto-orient/format/webp/ignore-error/1"
+        },
+        {
+          "id": "https://sspai.com/post/116430",
+          "author": "Hare",
+          "description": "简单干净、支持双拼纠错的 iOS 输入法。查看全文",
+          "link": "https://sspai.com/post/116430",
+          "publishedOn": "2026-10-20T02:34:39.000Z",
+          "wordCount": 307,
+          "title": "App+1 | 紫毫：基于 Rime 引擎、支持双拼纠错的 iOS 输入法",
+          "imageUrl": "https://rssfile.sspai.com/10/20/2026/article/5d65299c-a8c9-94bc-8c1c-f95589b20a4e.jpeg?imageMogr2/auto-orient/ignore-error/1"
+        },
+        {
+          "id": "https://sspai.com/post/116758",
+          "author": "少数派编辑部",
+          "description": "索尼发布三款高端 Walkman 播放器，掌阅推出 Ocean 6 Pro 电纸书等。查看全文",
+          "link": "https://sspai.com/post/116758",
+          "publishedOn": "2026-10-20T00:39:33.000Z",
+          "wordCount": 574,
+          "title": "派早报：MiniMax 发布 M3.1 Flash 模型等",
+          "imageUrl": "https://rssfile.sspai.com/10/20/2026/article/216bcfe6-d09e-3545-76a9-2e3d0e6af28f.png?imageMogr2/auto-orient/ignore-error/1"
+        },
         {
           "id": "https://sspai.com/post/116705",
           "author": "少数派编辑部",
@@ -3170,16 +3160,6 @@
           "wordCount": 415,
           "title": "当 AI 让执行力变得廉价，我们该拿什么脱颖而出？",
           "imageUrl": "https://rssfile.sspai.com/2026/09/13/2890e96259b71db0cf9faaf22b7c7e61.png?imageMogr2/auto-orient/ignore-error/1"
-        },
-        {
-          "id": "https://sspai.com/post/114788",
-          "author": "少数派编辑部",
-          "description": "微软高管称 AI 爬取是人类历史上最大的劳动成果盗窃\n12306 称第三方购票可能更慢或失败\n特朗普提议为人工智能改名\n谷歌在 Android 17 中加入 Pixel 独占的 API\niPhone 18 Pro Max 支持固件限制电量以便发运\n苹果硬件工程副总裁表示不建议贴膜\n看看就行的简讯\n少数派的近期动态\n你可能错过的好文章\n查看全文",
-          "link": "https://sspai.com/post/114788",
-          "publishedOn": "2026-09-20T22:26:04.000Z",
-          "wordCount": 528,
-          "title": "派早报：微软高管称 AI 爬取是人类历史上最大的劳动成果盗窃",
-          "imageUrl": "https://rssfile.sspai.com/9/21/2026/article/ca2a684d-9b65-b74e-f13c-de6f3eeda594.png?imageMogr2/auto-orient/ignore-error/1"
         }
       ]
     },
@@ -3188,6 +3168,104 @@
       "feedUrl": "https://plink.anyfeeder.com/idaily/today",
       "siteUrl": "https://idai.ly",
       "articles": [
+        {
+          "id": "idaily-260265",
+          "author": "日本 · 鹿儿岛县",
+          "description": "日本 H3 火箭10号机搭载「火星卫星探测器」（MMX）发射升空，鹿儿岛县种子岛宇宙中心。10月20日凌晨，日本 H3 火箭成功将日本宇航局「火卫一」采样任务探测器 MMX 送入预定轨道。该探测器由日本宇航局与三菱电机公司联合研发，高约5米、宽约9米，发射重量达4.5吨，建造总耗资达553亿日元（约合3.47亿美元），主要任务是对火星卫星「火卫一」展开探测采样。这是人类首次尝试从火星卫星采集岩石样品，预计 MMX 将于2027年8月进入火星轨道，2029年初在「火卫一」实施着陆，2031年7月携带样本返回地球。摄影师：iDaily Media",
+          "link": "https://m.idai.ly/se/fd2RB6",
+          "publishedOn": "2026-10-20T09:59:00.000Z",
+          "wordCount": 272,
+          "title": "日本发射「火卫一」探测器 - October 20, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/fbe5deec36/10b2afb5.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/fbe5deec36/10b2afb5.jpg"
+        },
+        {
+          "id": "idaily-260263",
+          "author": "法国 · 巴黎",
+          "description": "法国学生抗议者封堵卢浮宫博物馆入口，巴黎。10月19日，卢浮宫博物馆宣布因入口遭抗议学生封堵而暂时闭馆。本次封堵活动的发起者为卢浮宫学院和法国国立高等美术学院的部分学生。法国政府当天宣布在巴黎、里昂、尼斯、里尔等城市实施局部宵禁，时间为晚上23点至次日6点。法国内政部数据显示10月17日至18日两天全法共有超过55万人参加抗议示威，约2330人被警方逮捕。摄影师：Hans Lucas",
+          "link": "https://m.idai.ly/se/c29N7E",
+          "publishedOn": "2026-10-20T08:58:00.000Z",
+          "wordCount": 272,
+          "title": "卢浮宫入口遭学生封堵 - October 20, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/15d903e7b5/866eddbe.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/15d903e7b5/866eddbe.jpg"
+        },
+        {
+          "id": "idaily-260262",
+          "author": "科威特 · 科威特城",
+          "description": "科威特埃米尔 Mishal Al-Ahmad Al-Jaber Al-Sabah 亲赴机场迎接到访的法国总统 Emmanuel Macron，科威特城。10月19日，法国总统 Macron 正式开启海湾四国访问行程，计划先后访问科威特、阿联酋、巴林和卡塔尔，主要就能源供应问题展开磋商，随行人员包括法国能源巨头道达尔能源和法国电力集团高管。法国国家统计局数据显示2026年9月消费者价格指数（CPI）同比上涨3.1%，达到2024年1月以来最高水平，其中能源价格同比大幅上涨21.3%。摄影师：Benoit Tessier",
+          "link": "https://m.idai.ly/se/414MFw",
+          "publishedOn": "2026-10-20T07:57:00.000Z",
+          "wordCount": 272,
+          "title": "法国总统访问海湾四国 - October 20, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/17cde82131/28860bd4.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/17cde82131/28860bd4.jpg"
+        },
+        {
+          "id": "idaily-260261",
+          "author": "缅甸",
+          "description": "缅甸内政部官员向前国务资政昂山素季转交外交信件和书籍。10月19日，缅甸总统新闻发言人在社交平台上发布照片，宣布当天上午缅甸内政部官员已将英国国王查尔斯三世赠送的《土地园丁：从土壤到餐桌》和《土壤：我们脚下的世界》两本书及一份密封外交函件转交给昂山素季。这是缅甸政府时隔2个半月再次发布昂山素季的照片。昂山素季自2021年2月起被拘押，2026年4月改为居家软禁，目前预计刑期还有13年。摄影师：Myanmar President Spokesperson Office",
+          "link": "https://m.idai.ly/se/670dUD",
+          "publishedOn": "2026-10-20T07:55:00.000Z",
+          "wordCount": 272,
+          "title": "缅甸官方公布昂山素季近况 - October 20, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/e4f25a376c/33adf6d8.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/e4f25a376c/33adf6d8.jpg"
+        },
+        {
+          "id": "idaily-260260",
+          "author": "古巴 · 哈瓦那",
+          "description": "古巴政府接收俄罗斯提供的人道主义援助物资，哈瓦那。10月19日，俄罗斯政府通过联合国世界粮食计划署向古巴捐赠750吨葵花籽油，专用于救济古巴的儿童、孕妇、老人等弱势群体。两国官员及世界粮食计划署驻古巴代表共同出席了物资交付仪式。俄驻古巴大使表示，俄罗斯将继续通过双边渠道和国际组织向姐妹国家古巴提供支持。受美国制裁封锁影响，古巴正经历严重的食品、能源短缺危机，世界粮食计划署通报2026年上半年该组织已向古巴约88万人提供粮食援助。摄影师：Irina Shatalova",
+          "link": "https://m.idai.ly/se/afenAz",
+          "publishedOn": "2026-10-20T07:53:00.000Z",
+          "wordCount": 272,
+          "title": "古巴接收俄罗斯援助物资 - October 20, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/b6ac41d471/f28cb4bb.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/b6ac41d471/f28cb4bb.jpg"
+        },
+        {
+          "id": "idaily-260259",
+          "author": "澳大利亚 · 悉尼",
+          "description": "澳大利亚国防部向媒体展示「幽灵鲨」（Ghost Shark）大型无人潜航器，悉尼。10月19日，澳大利亚国防部举行媒体活动介绍该国无人水下武器平台开发和系统集成进展，展示包括「幽灵鲨」、「露齿鲨」无人潜航器和「蓝瓶」无人艇等多款新型装备。澳大利亚国防部指出，新无人水下平台采用模块化设计，能够搭载多种不同的载荷，执行包括远程物资补给、布设水雷以及发射无人机等任务。摄影师：Saeed Khan",
+          "link": "https://m.idai.ly/se/e0by4V",
+          "publishedOn": "2026-10-20T07:51:00.000Z",
+          "wordCount": 272,
+          "title": "澳大利亚强化无人武器研发 - October 20, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/a3d2d4a380/425ef326.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/a3d2d4a380/425ef326.jpg"
+        },
+        {
+          "id": "idaily-260258",
+          "author": "德国 · 埃尔兰根",
+          "description": "德国西门子埃尔兰根工厂，一台集成人工智能技术的工业机器人正在进行包装作业，巴伐利亚。10月19日，西门子与英伟达宣布共同开发完成一项由人工智能驱动的自主制造技术方案，该方案利用人工智能模拟环境对生产线进行测试与优化，能够根据物料库存及需求变化动态调整生产排期，从而实现缩短制造时间和降低成本等目标。西门子公司称该技术方案能够将印刷电路板组件的工程工作量减少多达85%、产品上市时间缩短多达40%，实现最高20%的成本节约。摄影师：Daniel Karmann",
+          "link": "https://m.idai.ly/se/347jfW",
+          "publishedOn": "2026-10-20T07:49:00.000Z",
+          "wordCount": 272,
+          "title": "西门子宣布AI工厂方案 - October 20, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/b5c826ac73/578a5074.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/b5c826ac73/578a5074.jpg"
+        },
         {
           "id": "idaily-260206",
           "author": "中国 · 北京",
@@ -5931,34 +6009,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://pic.yupoo.com/fotomag/a8311d5df3/73674ca4.jpg"
-        },
-        {
-          "id": "idaily-258562",
-          "author": null,
-          "description": "俄罗斯「进步 MS-35」号货运飞船抵达国际空间站。9月19日，「进步号」货运飞船成功抵达国际空间站并对接于「探索号」实验舱。本次任务共向空间站运送约3吨货物，包括1275公斤食物、842公斤燃料、420升饮用水、50公斤氧气、357公斤医疗和卫生用品、20公斤药品，以及太空实验样本和科研设备。这艘飞船将在空间站停靠5个月，随后于2027年2月携带废料返回地球大气层焚毁。摄影师：NASA",
-          "link": "https://m.idai.ly/se/2c05te",
-          "publishedOn": "2026-09-20T10:59:00.000Z",
-          "wordCount": 265,
-          "title": "进步号货运飞船抵达空间站 - September 20, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/3a54d495ea/dc1b1107.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/3a54d495ea/dc1b1107.jpg"
-        },
-        {
-          "id": "idaily-258561",
-          "author": null,
-          "description": "第20届亚洲运动会开幕式在名古屋市瑞穗公园体育场举行，日本。9月19日，第20届爱知·名古屋亚运会正式开幕。本届亚运会开幕式演出主题为「和谐心跳」(Harmonic Heart Beat)，总时长约2个小时，主舞台中央布景是以名古屋城天守阁为原型的巨型气球装置。这是日本继1958年东京亚运会、1994年广岛亚运会后第3次举办亚运会，赛程从9月19日持续至10月4日，共有来自45个国家和地区的约1.1万名运动员参赛，共将角逐产生469枚金牌。摄影师：iDaily Media",
-          "link": "https://m.idai.ly/se/e1bL2t",
-          "publishedOn": "2026-09-20T09:58:00.000Z",
-          "wordCount": 265,
-          "title": "第20届亚运会开幕 - September 20, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/b4b77d80f9/865ad669.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/b4b77d80f9/865ad669.jpg"
         }
       ]
     },
@@ -5967,6 +6017,66 @@
       "feedUrl": "https://plink.anyfeeder.com/nytimes/dual",
       "siteUrl": "http://nytimes.com",
       "articles": [
+        {
+          "id": "https://cn.nytimes.com/world/20261020/gold-mines-investigation-takeaways/dual",
+          "author": null,
+          "description": "JUSTIN SCHECK2026年10月20日在世界各地无证经营的金矿中，劳工虐待与犯罪现象并不难被发现。前提是有人前去查看。 Lynsey Addario for The New York Times\nIn the past year, I’ve seen toddlers working in gold mines. I’ve met miners who pay a drug cartel for the right to dig, and watched a boy drink from an underground mine’s wastewater pipe. I met workers in Colombia whose hands tremble from mercury poisoning.\n过去一年里，我见过蹒跚学步的幼儿在金矿里干活。我见过矿工向贩毒集团交钱换取挖掘权，也见过一个男孩从地下矿井的废水管里喝水。我在哥伦比亚遇到的工人，双手因汞中毒而不住颤抖。\nOne thing they have in common is that they supply gold to the supposedly tightly controlled marketplace of Wall Street financiers, central banks and government mints.\n他们有一个共同点：他们向华尔街金融家、各国央行和政府造币厂那个据称受到严格管控的市场供应黄金。\nAs my colleagues and I unraveled how that was possible, we kept coming back to one key point: The people who are supposed to keep dirty go…",
+          "link": "https://cn.nytimes.com/world/20261020/gold-mines-investigation-takeaways/dual",
+          "publishedOn": "2026-10-20T04:06:04.000Z",
+          "wordCount": 1027,
+          "title": "一个万亿美元的产业如何洗白“脏黄金”",
+          "imageUrl": "https://static01.nyt.com/images/2026/10/16/multimedia/00int-dirty-gold-takeaways-1-tpvl/00int-dirty-gold-takeaways-1-tpvl-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/world/20261020/trump-zelensky-putin-ukraine-war/dual",
+          "author": null,
+          "description": "CONSTANT MÉHEUT2026年10月20日周一，乌克兰基辅市遭俄罗斯袭击后造成的破坏。乌克兰方面曾抱怨称，在袭击发生前，美国在情报共享方面存在疏漏。 Efrem Lukatsky/Associated Press\nPresident Trump is trying to force Ukraine to surrender in the war, President Volodymyr Zelensky of Ukraine said in an interview published on Sunday, as a deepening feud between the two leaders drives their relations to new lows.\n乌克兰总统弗拉基米尔·泽连斯基在周日发表的一篇采访中表示，特朗普总统正试图迫使乌克兰在战争中投降，与此同时，两位领导人之间不断加深的不和正驱使两国关系跌至新低。\n“I believe steps have been taken to convince Ukraine to capitulate,” Mr. Zelensky told Bloomberg News. He was referring to a string of measures in recent days by the Trump administration that could bolster Russia’s war machine while squeezing Ukraine’s ability to fight.\n“我认为已经采取了一些措施来劝说乌克兰投降，”泽连斯基对彭博新闻社表示。他指的是特朗普政府最近几天采取的一系列措施，这些措施可能会增强俄罗斯的战争机器，同时削弱乌克兰的战斗能力。\nMr. Zelensky add…",
+          "link": "https://cn.nytimes.com/world/20261020/trump-zelensky-putin-ukraine-war/dual",
+          "publishedOn": "2026-10-20T03:36:03.000Z",
+          "wordCount": 1062,
+          "title": "泽连斯基称特朗普正试图迫使乌克兰在战争中投降",
+          "imageUrl": "https://static01.nyt.com/images/2026/10/19/multimedia/19int-zelensky-trump-01-kwtp/19int-zelensky-trump-01-kwtp-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/world/20261020/danjiri-festival-deaths-osaka-japan/dual",
+          "author": null,
+          "description": "HISAKO UENO, TIFFANY MAY2026年10月20日9月，在大阪府岸和田市的地车祭上，参与者们拉着地车完成了一次激动人心的转弯。 The Yomiuri Shimbun\nEvery autumn, hundreds of Japanese people come together and dash down streets while pulling ornate wooden floats in the shape of shrines, a tradition known as danjiri.\n每年秋天，数百名日本人聚到一起，拉着神龛形状的华丽木制地车冲过街道，这一传统被称为“地车祭”。\nBut recent deaths and accidents are feeding anxiety about the ritual and bringing a somber note to the end of the mid-autumn festival season.\n然而，近期的死亡与事故正加剧人们对这一仪式的忧虑，也给中秋祭典季的尾声蒙上了一层阴郁。\nOsaka’s police department reported two deaths and several injuries in danjiri festivals in the cities of Izumiotsu and Izumisano on Oct. 10. In both instances, the floats, which weigh several tons, toppled over while turning corners, crushing participants who were standing on the side.\n大阪警方通报，10月10日泉大津市…",
+          "link": "https://cn.nytimes.com/world/20261020/danjiri-festival-deaths-osaka-japan/dual",
+          "publishedOn": "2026-10-20T03:06:03.000Z",
+          "wordCount": 968,
+          "title": "日本“地车祭”频发伤亡事故引发安全忧虑",
+          "imageUrl": "https://static01.nyt.com/images/2026/10/19/world/19int-japan-festival-awde/19int-japan-festival-awde-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/world/20261020/italy-protests-riots/dual",
+          "author": null,
+          "description": "JOSEPHINE DE LA BRUYÈRE2026年10月20日周六，警方在米兰与抗议者对峙。 Stefano Porta/Lapresse, via Associated Press\nItaly was rocked over the weekend by two separate waves of protests, as students in the north and farmers and truckers in the south demanded government action to stanch rising costs.\n上周末，两个互不相干的抗议浪潮震动了意大利：北部学生与南部农民、卡车司机分别要求政府出手遏制不断上涨的生活成本。\nIn cities across northern Italy on Saturday and Sunday, thousands of student demonstrators marched in protest of low wages, high taxes, rising grocery and gas prices and cuts to public funding. A number of the marches turned violent, as groups of masked protesters looted stores, set fires and lobbed projectiles toward the police, who responded with water cannons and tear gas.\n周六和周日，意大利北部多座城市有数千名学生示威者游行，抗议低工资、高税负、食品杂货和汽油价格上涨以及公共资金削减。部分游行酿成暴力事件：成群蒙面抗议者抢劫商店、纵火并向警察…",
+          "link": "https://cn.nytimes.com/world/20261020/italy-protests-riots/dual",
+          "publishedOn": "2026-10-20T03:06:03.000Z",
+          "wordCount": 905,
+          "title": "意大利南部与北部同时爆发抗议浪潮",
+          "imageUrl": "https://static01.nyt.com/images/2026/10/19/multimedia/19int-ITALY-PROTESTS-01-zwcf/19int-ITALY-PROTESTS-01-zwcf-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/business/20261020/indonesia-economy-stocks/dual",
+          "author": null,
+          "description": "黄瑞黎, RIN HINDRYATI2026年10月20日雅加达早高峰时段的通勤人群。处于弱势地位的中产阶级规模持续缩小。 Ulet Ifansasti for The New York Times\nNovri Putra graduated from college in Jakarta last year with a degree in information technology and a modest ambition: a stable job.\n去年，诺维·普特拉在雅加达的一所大学毕业，获得信息技术学位，心中怀揣着一个朴素的愿望：找到一份稳定的工作。\nHe had every reason to believe that he was on track. When he entered college in 2018, Indonesia’s economy was flourishing. Its tech sector was booming and demand for software engineers was surging.\n他完全有理由相信自己正朝着这个目标稳步前进。2018年他进入大学时，印尼经济繁荣，科技行业蓬勃发展，对软件工程师的需求激增。\nThose days are over. Today, Mr. Novri, 28, works for a tech company — not as a web developer, as he had hoped, but as a motorcycle taxi driver making about $220 a month.\n那些日子已经结束。如今，28岁的诺维在一家科技公司工作——不是他希望的网络开发者，而是摩托车出租车司机，每月收入约220美元。\n“My parents scold …",
+          "link": "https://cn.nytimes.com/business/20261020/indonesia-economy-stocks/dual",
+          "publishedOn": "2026-10-20T02:36:32.000Z",
+          "wordCount": 1429,
+          "title": "“定时炸弹”：印尼经济面临严峻压力",
+          "imageUrl": "https://static01.nyt.com/images/2026/10/20/multimedia/19biz-indonesia-economy-bgqw/19biz-indonesia-economy-bgqw-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/world/20261020/france-far-right-protests-riots/dual",
+          "author": null,
+          "description": "CATHERINE PORTER2026年10月20日周日波尔多市中心抗议活动后的景象。 Philippe Lopez/Agence France-Presse — Getty Images\nAfter riots erupted this weekend in cities across France, its centrist government blamed the main far-left party, accusing its politicians of inciting the violence. That party blamed the government, accusing it of stirring public anger through years of bad governance and heavy-handed policing.\n在周末法国多座城市爆发骚乱后，该国中间派政府将责任归咎于主要极左翼政党，指责该党政治人物煽动暴力。该党则指责政府，称其多年治理不善和强硬警察执法激起了公众愤怒。\nWhat did the main far-right party do? It blamed both, and launched into campaign mode.\n主要极右翼政党做了什么？它把双方都指责了一番，并且进入了竞选模式。\n“We are paying for decades of being soft on crime, of weak authority, of the moral, psychological, and material disarmament of our internal security forces,” Jordan Bardella, the president of the far-right N…",
+          "link": "https://cn.nytimes.com/world/20261020/france-far-right-protests-riots/dual",
+          "publishedOn": "2026-10-20T01:06:04.000Z",
+          "wordCount": 1458,
+          "title": "法国陷入骚乱与动荡，极右翼从中看到了机会",
+          "imageUrl": "https://static01.nyt.com/images/2026/10/19/multimedia/19int-france-right-assess-jclh/19int-france-right-assess-jclh-articleLarge.jpg"
+        },
         {
           "id": "https://cn.nytimes.com/usa/20261019/trump-immigrant-visas-decline/dual",
           "author": null,
@@ -7014,6 +7124,36 @@
       "feedUrl": "https://plink.anyfeeder.com/weixin/ibookreview",
       "siteUrl": "http://weixin.sogou.com/weixin?type=1&s_from=input&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A",
       "articles": [
+        {
+          "id": "b0c68bcc29b6fc60c22936fca690a1f5",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+9%E6%9C%88%EF%BC%8C%E6%88%91%E4%BB%AC%E9%80%89%E5%87%BA%E4%BA%86%E8%BF%998%E6%9C%AC%E7%AB%A5%E4%B9%A6",
+          "publishedOn": "2026-10-20T02:00:00.000Z",
+          "wordCount": 256,
+          "title": "9月，我们选出了这8本童书",
+          "imageUrl": null
+        },
+        {
+          "id": "ba3e4a43a3aebc196cf4079cb6815eab",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E4%BB%96%E4%B8%8D%E6%83%B3%E5%86%99%E4%BE%A6%E6%8E%A2%E5%B0%8F%E8%AF%B4%EF%BC%8C%E5%8D%B4%E5%86%99%E5%87%BA%E4%BA%86%E6%9C%80%E5%8F%97%E6%AC%A2%E8%BF%8E%E7%9A%84%E2%80%9C%E6%80%AA%E7%9B%97%E7%BD%97%E5%B9%B3%E2%80%9D",
+          "publishedOn": "2026-10-20T02:00:00.000Z",
+          "wordCount": 263,
+          "title": "他不想写侦探小说，却写出了最受欢迎的“怪盗罗平”",
+          "imageUrl": null
+        },
+        {
+          "id": "0b336d8106c3973861622c8ef3e97345",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E6%9C%80%E7%BE%8E%E5%A5%BD%E7%9A%84%E3%80%81%E6%9C%80%E5%9D%9A%E5%AE%9A%E7%9A%84%E5%92%8C%E6%9C%80%E8%84%86%E5%BC%B1%E7%9A%84%EF%BD%9C%E4%B8%93%E8%AE%BF%E6%9D%8E%E5%AE%8F%E4%BC%9F",
+          "publishedOn": "2026-10-20T02:00:00.000Z",
+          "wordCount": 306,
+          "title": "最美好的、最坚定的和最脆弱的｜专访李宏伟",
+          "imageUrl": null
+        },
         {
           "id": "d9545d56233dd97881c5076ef44326f9",
           "author": null,
