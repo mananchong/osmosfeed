@@ -44,16 +44,6 @@
           "wordCount": 6500,
           "title": "R Weekly 2026-W41 Spreadsheets to gt, shinyreact, Aperiodic Tilings",
           "imageUrl": "https://rweekly.org/public/facebook.png"
-        },
-        {
-          "id": "https://rweekly.org/2026-W40.html",
-          "author": null,
-          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Batool Almarzouq, with help from the R Weekly team members and contributors.\nHighlight\nThe knitr SQL Engine Grows Up\nZulip Chat for the R Project\nSnapshotting error messages\nInsights\nEstimating Cross-Platform Usage Structure from Large-Scale Marginal Distributions and a Small Panel - Use a Gaussian copula to combine large-scale marginal usage distributions with dependence estimated from a small joint panel.\nRcppFastAD 0.0.5 on CRAN: Maintenance\nSnapshotting error messages\nThree New Debugging Aids in knitr\nThe knitr SQL Engine Grows Up\nParBayesianOptimization is back on CRAN\nTangling Gets Smarter in knitr\nspin() Improvements in knitr\nMore Capable Cache in knitr\nBetter Tables …",
-          "link": "https://rweekly.org/2026-W40.html",
-          "publishedOn": "2026-09-28T00:00:00.000Z",
-          "wordCount": 5939,
-          "title": "R Weekly 2026-W40 knitr SQL Engine, Zulip, Snapshotting error messages",
-          "imageUrl": "https://rweekly.org/public/facebook.png"
         }
       ]
     },
@@ -74,6 +64,36 @@
       "feedUrl": "https://www.nationalreview.com/feed/",
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
+        {
+          "id": "https://www.nationalreview.com/?p=2066051",
+          "author": "Abigail Anthony",
+          "description": "Academia is committed to clearing Jason Arday of plagiarism, despite the overwhelming evidence against him.",
+          "link": "https://www.nationalreview.com/2026/10/the-big-scholarly-lie/",
+          "publishedOn": "2026-10-27T11:41:13.000Z",
+          "wordCount": null,
+          "title": "The Big Scholarly Lie",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=2065520",
+          "author": "Deroy Murdock",
+          "description": "Persuading the low-propensity center-right could help the GOP edge out pro-illegal-alien Dems.",
+          "link": "https://www.nationalreview.com/2026/10/republicans-still-can-win/",
+          "publishedOn": "2026-10-27T10:30:47.000Z",
+          "wordCount": null,
+          "title": "Republicans Still Can Win",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=2065689",
+          "author": "The Editors",
+          "description": "Alaska Republicans are right to cry foul, but the Justice Department doesn’t have good legal grounds to throw out an election over a sham candidate.",
+          "link": "https://www.nationalreview.com/2026/10/democrats-alaskan-dirty-trick/",
+          "publishedOn": "2026-10-27T10:30:41.000Z",
+          "wordCount": null,
+          "title": "Democrats’ Alaskan Dirty Trick",
+          "imageUrl": null
+        },
         {
           "id": "https://www.nationalreview.com/?p=2065533",
           "author": "Michael Brendan Dougherty",
@@ -2273,66 +2293,6 @@
           "wordCount": 7098,
           "title": "My ‘Buddy’ System: The Nickname I Vowed Never to Call My Sons",
           "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/09/ChrisScaliaSons.jpg?fit=920%2C537&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=2044401",
-          "author": "Grant Starrett",
-          "description": "12 Angry Men and the Lindsay Clancy case each had a lone holdout juror. There’s only one worthy of our respect.",
-          "link": "https://www.nationalreview.com/2026/09/a-tale-of-two-jurors/",
-          "publishedOn": "2026-09-27T10:30:48.000Z",
-          "wordCount": 6064,
-          "title": "A Tale of Two Jurors",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/09/12-angry-men-1.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=2043535",
-          "author": "Dan McLaughlin",
-          "description": "We need imagination just as much as we age, and we need to give it more and better things to chew upon.",
-          "link": "https://www.nationalreview.com/2026/09/tending-the-landscapes-of-our-imaginations/",
-          "publishedOn": "2026-09-27T10:30:37.000Z",
-          "wordCount": 6280,
-          "title": "Tending the Landscapes of Our Imaginations",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/09/tending-imagination-illustration.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=2044180",
-          "author": "Inez Feltscher Stepman",
-          "description": "Nikole Hannah-Jones and the NYT unwittingly admit that money is not the problem in public schools.",
-          "link": "https://www.nationalreview.com/2026/09/the-underfunding-myth-is-exposed/",
-          "publishedOn": "2026-09-27T10:30:35.000Z",
-          "wordCount": 16102,
-          "title": "The Underfunding Myth Is Exposed",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/08/classroom.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=2044297",
-          "author": "Gregory W. Slayton",
-          "description": "The Texas congressman is leaving the House the right way, having done the right things for the right reasons.",
-          "link": "https://www.nationalreview.com/2026/09/mike-mccaul-citizen-servant/",
-          "publishedOn": "2026-09-27T10:30:28.000Z",
-          "wordCount": 6196,
-          "title": "Mike McCaul, Citizen Servant",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/09/mccaul.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=2044440",
-          "author": "James Lileks",
-          "description": "No, we don’t need to nationalize restaurants.",
-          "link": "https://www.nationalreview.com/2026/09/get-government-out-of-the-kitchen/",
-          "publishedOn": "2026-09-27T10:30:28.000Z",
-          "wordCount": 7070,
-          "title": "Get Government Out of the Kitchen",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/06/mcdonalds-food.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=2044410",
-          "author": "Shima Baughman and Paul Lambert",
-          "description": "Politics may be at the center of public life, but it doesn’t make up the core of who we are.",
-          "link": "https://www.nationalreview.com/2026/09/the-country-beneath-the-political-noise/",
-          "publishedOn": "2026-09-27T10:30:18.000Z",
-          "wordCount": 5860,
-          "title": "The Country Beneath the Political Noise",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/05/america.jpg?fit=2057%2C1200&ssl=1"
         }
       ]
     },
@@ -2341,6 +2301,46 @@
       "feedUrl": "https://sspai.com/feed",
       "siteUrl": "https://sspai.com",
       "articles": [
+        {
+          "id": "https://sspai.com/post/117633",
+          "author": "Matrix机器人",
+          "description": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文",
+          "link": "https://sspai.com/post/117633",
+          "publishedOn": "2026-10-27T09:02:00.000Z",
+          "wordCount": 1127,
+          "title": "社区速递 163 | 金豪 59 调整版钢笔与九月派友剁手清单",
+          "imageUrl": "https://rssfile.sspai.com/2026/6/30/article/831096df-1239-9d40-8cb1-c42319e8f9f3.png?imageMogr2/auto-orient/ignore-error/1"
+        },
+        {
+          "id": "https://sspai.com/post/117557",
+          "author": "Vanilla",
+          "description": "作为一个从小看CCTV-5体育频道下饭的「体育迷」，在互联网时代我一般都看新浪门户网站的体育板块来获取最新的体育资讯，在智能手机逐渐普及后，百度贴吧、虎扑、懂球帝等平台又是我获取体育资讯以及和网友们吹 ...查看全文",
+          "link": "https://sspai.com/post/117557",
+          "publishedOn": "2026-10-27T07:27:57.000Z",
+          "wordCount": 337,
+          "title": "Apple Sports：不看新闻、不聊球，只看我关心的比赛",
+          "imageUrl": "https://rssfile.sspai.com/2026/10/27/article/74233186-948a-4ae6-f054-8f1a924e86bf.png?imageMogr2/auto-orient/ignore-error/1"
+        },
+        {
+          "id": "https://sspai.com/post/115855",
+          "author": "飘雷",
+          "description": "借助 NUT 网络 UPS 协议，我们只需要一台 UPS，就可以驱动局域网中多台设备协同断电保护。查看全文",
+          "link": "https://sspai.com/post/115855",
+          "publishedOn": "2026-10-27T03:02:18.000Z",
+          "wordCount": 231,
+          "title": "一日一技｜NAS 作为 UPS 总控，实现局域网多设备断电自动关机",
+          "imageUrl": "https://rssfile.sspai.com/2026/10/12/1d3382e6a2377c0c116eeb37ef10e590.png?imageMogr2/auto-orient/ignore-error/1"
+        },
+        {
+          "id": "https://sspai.com/post/117600",
+          "author": "少数派编辑部",
+          "description": "少数派的近期动态全新设计复古设备鼠标垫上架，会员可使用点数兑换。前往选购iPhone少数派共创配件上新，自由选择保护、充电、线缆和支架组合。欢迎选购你可能错过的文章少数派×红树林基金会｜候鸟季公益直播 ...查看全文",
+          "link": "https://sspai.com/post/117600",
+          "publishedOn": "2026-10-27T00:27:58.000Z",
+          "wordCount": 595,
+          "title": "派早报：Apple 发布 iPad mini (A20 Pro) 等",
+          "imageUrl": "https://rssfile.sspai.com/2026/10/27/article/9803791b-087c-cabf-1753-e592d93ef758.png?imageMogr2/auto-orient/format/webp/ignore-error/1"
+        },
         {
           "id": "https://sspai.com/post/117529",
           "author": "少数派编辑部",
@@ -3190,26 +3190,6 @@
           "wordCount": 247,
           "title": "摸鱼+3 | 还剩三天班，一天一个解谜游戏",
           "imageUrl": "https://rssfile.sspai.com/2026/9/24/article/261897ae-ca7e-aabd-d11f-1c227607a42f.png?imageMogr2/auto-orient/ignore-error/1"
-        },
-        {
-          "id": "https://sspai.com/post/115079",
-          "author": "少数派编辑部",
-          "description": "OpenAI 称与苹果合作效果不佳\niPhone 4「天线门」媒体问答录像时隔十六年现身\nF-Droid 2.0 发布\n三星冰箱固件升级后罢工，影响韩国用户过中秋\nExcel 单元格将支持数组\n微软不再使用 Copilot+ PC 品牌\n看看就行的简讯\n少数派的近期动态\n你可能错过的好文章\n查看全文",
-          "link": "https://sspai.com/post/115079",
-          "publishedOn": "2026-09-27T23:03:45.000Z",
-          "wordCount": 521,
-          "title": "派早报：OpenAI 称与苹果合作效果不佳",
-          "imageUrl": "https://rssfile.sspai.com/9/28/2026/article/1aec97c3-7256-f8d3-a5a1-beb433cd3174.png?imageMogr2/auto-orient/ignore-error/1"
-        },
-        {
-          "id": "https://sspai.com/post/115056",
-          "author": "板斧",
-          "description": "《鬼武者》系列的惊艳复活，《风花雪月》的世界观延续，赛璐珞动画风格的双人历险……查看全文",
-          "link": "https://sspai.com/post/115056",
-          "publishedOn": "2026-09-27T09:50:09.000Z",
-          "wordCount": 529,
-          "title": "本月玩什么｜鬼武者 剑之道、火焰纹章 万缕千丝、轨道双子星等",
-          "imageUrl": "https://rssfile.sspai.com/2026/9/27/article/c4bd173d-9955-857e-1d28-c4d51a83ca9e.jpeg?imageMogr2/auto-orient/format/webp/ignore-error/1"
         }
       ]
     },
@@ -3218,6 +3198,118 @@
       "feedUrl": "https://plink.anyfeeder.com/idaily/today",
       "siteUrl": "https://idai.ly",
       "articles": [
+        {
+          "id": "idaily-260636",
+          "author": "韩国 · 龙仁",
+          "description": "韩国爱宝乐园，旅韩大熊猫幼崽「曙宝」在妈妈「爱宝」身边玩耍，龙仁市。10月27日，韩国爱宝乐园宣布出生4个月的雌性大熊猫幼崽「曙宝」将从10月30日起首次向公众展出。「曙宝」出生于6月3日，是大熊猫「爱宝」和「乐宝」诞下的第四只幼崽，目前它的体重已超过9公斤，正在接受环境适应性训练，包括逐步扩大活动范围、熟悉户外展区的地形和气味等。摄影师：iDaily Media",
+          "link": "https://m.idai.ly/se/4d7di6",
+          "publishedOn": "2026-10-27T09:59:00.000Z",
+          "wordCount": 258,
+          "title": "旅韩大熊猫幼崽即将公开展出 - October 27, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/83e29fc617/d0d76a52.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/83e29fc617/d0d76a52.jpg"
+        },
+        {
+          "id": "idaily-260634",
+          "author": "马来西亚 · 吉隆坡",
+          "description": "吉隆坡市中心空气质量恢复正常水平，马来西亚。10月26日，马来西亚全国大部分地区空气污染指数（API）恢复至「良好」和「中等」水平，南部柔佛州超过1000所学校在停课10天后恢复线下授课。马来西亚气象局指出，随着本年度季风风向转为东北季风，该国2026年底前再次遭受印尼山火烟霾影响的概率将大幅降低。马来西亚政府宣布将推动东盟制定有约束力的法律框架以应对山火烟霾灾害。摄影师：Mohd Rasfan",
+          "link": "https://m.idai.ly/se/f1baCX",
+          "publishedOn": "2026-10-27T08:58:00.000Z",
+          "wordCount": 258,
+          "title": "马来西亚烟霾污染缓解 - October 27, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/deef9a400a/2a14097d.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/deef9a400a/2a14097d.jpg"
+        },
+        {
+          "id": "idaily-260633",
+          "author": "中国 · 合肥",
+          "description": "德国总统 Frank-Walter Steinmeier 搭乘专机抵达合肥新桥国际机场，中国安徽省。10月26日，德国总统 Steinmeier 应邀对中国进行为期5天国事访问。这是德国总统时隔8年再次访华，主要行程安排在安徽和北京两地，包括参观李鸿章故居、访问德国大众合肥研发中心、游览黄山玉屏景区、参观颐和园和北大校园、会晤中方领导人以及出席国宴等。中国是德国最大的贸易伙伴，2026年1至9月双边贸易额达1736.83亿美元，同比增长10.6%，其中德国对华贸易逆差为917亿美元。摄影师：Katharina Kausche",
+          "link": "https://m.idai.ly/se/a87bC5",
+          "publishedOn": "2026-10-27T07:57:00.000Z",
+          "wordCount": 258,
+          "title": "德国总统访问中国 - October 27, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/7b9f3723b3/42f7cfb0.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/7b9f3723b3/42f7cfb0.jpg"
+        },
+        {
+          "id": "idaily-260632",
+          "author": "日本 · 神奈川县",
+          "description": "日本JR东海铁路公司邀请媒体参观磁悬浮中央新干线地下施工现场，神奈川县。10月24日，日本JR东海铁路公司首次向媒体开放参观日本磁悬浮中央新干线神奈川县站施工现场，该车站位于地下30米深处，宽50米，长680米，设有2个站台和4条轨道。日本磁悬浮中央新干线是世界上第一条采用超导电动悬浮制式的磁悬浮线路，起终点站分别为东京品川站和新大阪站，全长438公里，其中超过80%为隧道路段，列车设计最高时速500公里，可将东京至大阪车程缩短至67分钟，预计最快于2036年正式通车。摄影师：iDaily Media",
+          "link": "https://m.idai.ly/se/5b5LuR",
+          "publishedOn": "2026-10-27T07:55:00.000Z",
+          "wordCount": 258,
+          "title": "日本磁悬浮新干线施工 - October 27, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/1a3844c9b0/8f4803ed.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/1a3844c9b0/8f4803ed.jpg"
+        },
+        {
+          "id": "idaily-260631",
+          "author": "中国 · 山东省",
+          "description": "首届CMG世界机器人登泰山大赛排位赛，一台四足机器狗正在负重攀爬泰山步道，山东泰安市。10月26日，首届CMG世界机器人登泰山大赛排位赛在泰山景区启动，共有50家中国具身智能企业、高校及科研团队参赛。本次排位赛设置足式竞速、足式负重、全域探路及人形竞速4个项目，赛道位于泰山红门至中天门登山步道，全程约3.8公里，共3100余级台阶，参赛机器人需要负重12公斤完成登山全程。排位赛成绩将作为11月2日正式比赛出发顺序的依据。摄影师：iDaily Media",
+          "link": "https://m.idai.ly/se/f40zsY",
+          "publishedOn": "2026-10-27T07:53:00.000Z",
+          "wordCount": 258,
+          "title": "首届机器人登泰山大赛 - October 27, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/352d836c4a/29f0476b.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/352d836c4a/29f0476b.jpg"
+        },
+        {
+          "id": "idaily-260630",
+          "author": "法国 · 巴黎",
+          "description": "一幅法国印象派画家 Claude Monet 1925年油画《鸢尾花》（Iris）在拍卖前预展，巴黎。10月22日，莫奈晚年画作《鸢尾花》以5000万欧元的价格在巴黎苏富比拍卖成交，成为法国有史以来拍卖成交价最高的艺术品。这幅画作高1.6米、宽1.8米，是迄今公开拍卖尺幅最大的莫奈「鸢尾花」画作，画家采用对角线式构图，以强烈的色彩描绘池塘边的鸢尾花簇，郁郁葱葱的花叶与水中倒映的云彩碰撞交织，营造出引人入胜的氛围。该画作经过长达45分钟竞价，最终由一名亚洲匿名买家购得。摄影师：Damien Perronnet",
+          "link": "https://m.idai.ly/se/ace99Q",
+          "publishedOn": "2026-10-27T07:51:00.000Z",
+          "wordCount": 258,
+          "title": "莫奈《鸢尾花》拍卖破纪录 - October 27, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/ff649a6d9e/d1603e25.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/ff649a6d9e/d1603e25.jpg"
+        },
+        {
+          "id": "idaily-260629",
+          "author": "墨西哥 · 墨西哥城",
+          "description": "墨西哥民众盛装参加「卡特里娜大游行」（Mega Parade of Catrinas），墨西哥城。10月25日，墨西哥首都举办第13届「卡特里娜大游行」迎接亡灵节，本年度共有36支游行队伍参加，路线从墨西哥独立纪念碑至宪法广场，全程约4公里。「卡特里娜」骷髅是墨西哥艺术家 José Guadalupe Posada 在1913年创造的插画角色，是墨西哥亡灵节最具代表性的视觉标志之一。墨西哥旅游部预计2026年亡灵节庆祝活动将吸引169万名游客，同比增长1.2%。摄影师：Mario Guzman",
+          "link": "https://m.idai.ly/se/418b70",
+          "publishedOn": "2026-10-27T07:49:00.000Z",
+          "wordCount": 258,
+          "title": "墨西哥迎接亡灵节 - October 27, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/993712ce2a/2c79cc33.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/993712ce2a/2c79cc33.jpg"
+        },
+        {
+          "id": "idaily-260628",
+          "author": "伊拉克 · 巴格达",
+          "description": "伊拉克「穆罕默德丘」（Tell Muhammad）考古遗址展示新发现的古代文物，巴格达。10月26日，伊拉克文物和遗产管理局在穆罕默德丘遗址举行新发现文物发布会。本轮考古发掘工作由伊拉克和意大利考古队联合开展，新发现的文物包括陶器、青铜器、雕塑和楔形文字泥板等。考古专家推测该遗址可能是古巴比伦时期古城「巴纳亚」，最早人类定居的历史可追溯至公元前22世纪。摄影师：Ahmad Al-Rubaye",
+          "link": "https://m.idai.ly/se/824ofI",
+          "publishedOn": "2026-10-27T07:47:00.000Z",
+          "wordCount": 258,
+          "title": "伊拉克考古新发现 - October 27, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/b1e736dd74/4613b5b0.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/b1e736dd74/4613b5b0.jpg"
+        },
         {
           "id": "idaily-260581",
           "author": "中国 · 文昌",
@@ -5970,6 +6062,56 @@
       "siteUrl": "http://nytimes.com",
       "articles": [
         {
+          "id": "https://cn.nytimes.com/opinion/20261027/ai-computer-chips-semiconductor-arizona-industry/dual",
+          "author": null,
+          "description": "DAN WANG2026年10月27日\nOn July 5 the Northwest Chinese Baptist Church in Phoenix opened its weekly Mandarin service with a verse from the Old Testament. A pianist, a guitarist and a drummer prepared to lead the 100 congregants in song. The deacon read out the preamble to the Declaration of Independence — “We hold these truths to be self-evident” — and then invited the congregation to rise and sing “The Battle Hymn of the Republic.” It was a good moment to exalt American ideals. The prior night, fireworks marked America’s 250th anniversary of independence.\n7月5日，位于菲尼克斯的西北华人浸信会以一段《旧约》经文开启了每周的华语主日仪式。钢琴、吉他与鼓手准备带领百余名会众齐唱赞美诗。执事宣读了《独立宣言》序言——“我们认为这些真理是不言而喻的”，随后邀全体会众起立合唱《共和国战歌》。此时正是颂扬美国理想的绝佳时刻。前一天晚上，绚烂的烟花刚刚庆祝了美国独立250周年。\nThe next speaker was a guest, Timothy Cheng, the chief executive of a Christian med…",
+          "link": "https://cn.nytimes.com/opinion/20261027/ai-computer-chips-semiconductor-arizona-industry/dual",
+          "publishedOn": "2026-10-27T07:06:03.000Z",
+          "wordCount": 4646,
+          "title": "可能拯救美国制造业的台积电工厂",
+          "imageUrl": "https://static01.nyt.com/images/2026/10/25/multimedia/22wang-mountains-BRIGHT-qwfz/22wang-mountains-BRIGHT-qwfz-videoLarge-v2.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/opinion/20261027/midterms-trump-america/dual",
+          "author": null,
+          "description": "纪思道2026年10月27日\nAmerica’s midterm elections will probably be determined primarily by issues like affordability. But what is at stake goes far beyond the quotidian concerns that many voters are focused on.\n美国中期选举可能主要由生活成本等议题决定。但真正涉及的利害关系远超许多选民关注的日常事务。\nThe principles and strategies that over multiple generations have made the United States the world’s leading nation in effect are on the ballot, and these midterms mark a potential turning point.\n几代人以来使美国实际上成为世界头号强国的原则和战略如今在选票上面临考验，此次中期选举可能成为一个转折点。\nLet’s focus on three pillars that explain the rise, strength and resilience of our nation.\n让我们来关注可以阐释我们国家崛起、实力和韧性的三大支柱。\nFirst is education: The United States pioneered mass education in the 19th century and today operates great universities and research institutions that are among the nation’s crown …",
+          "link": "https://cn.nytimes.com/opinion/20261027/midterms-trump-america/dual",
+          "publishedOn": "2026-10-27T05:36:02.000Z",
+          "wordCount": 1256,
+          "title": "关乎美国国运的一次中期选举",
+          "imageUrl": "https://static01.nyt.com/images/2026/10/25/multimedia/24kristof-gpkt/24kristof-gpkt-videoLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/business/20261027/anthropic-going-public-stakes/dual",
+          "author": null,
+          "description": "ERIN GRIFFITH, LAUREN HIRSCH2026年10月27日Anthropic旧金山总部。该公司的挂牌上市将成为检验此轮人工智能繁荣持续性的关键试金石。 David Paul Morris/Bloomberg\nWhen Anthropic goes public as soon as next month, its initial offering will be more than just a coming-out party for the artificial intelligence company. It will also be a litmus test for the economy, with trillions of dollars at stake.\nAnthropic最早将于下个月上市，届时它的首次公开募股不仅仅会是一家人工智能公司的亮相派对，还将成为对经济的一次试金石考验，关乎数万亿美元的利益。\nAnthropic, which makes the Claude chatbot, is a tent pole of the A.I. industry. Valued in the private markets at nearly $1 trillion and backed by more than $130 billion in funding, it could raise $100 billion in its offering and promptly become one of the world’s biggest public companies. But the stakes are even higher than that.\n制造Claude聊天机器人的Anthropic是人工智能行业的一根台柱。它在私募市…",
+          "link": "https://cn.nytimes.com/business/20261027/anthropic-going-public-stakes/dual",
+          "publishedOn": "2026-10-27T04:06:02.000Z",
+          "wordCount": 1538,
+          "title": "Anthropic上市关乎什么？几乎所有一切",
+          "imageUrl": "https://static01.nyt.com/images/2026/10/26/multimedia/26biz-anthropic-ipo-01-hvbg/26biz-anthropic-ipo-01-hvbg-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/world/20261027/serbia-election-vucic-nationalist-populists/dual",
+          "author": null,
+          "description": "ANDREW HIGGINS2026年10月27日周一，塞尔维亚长期执政的领导人亚历山大·武契奇在贝尔格莱德承认败选后，“学生名单——学生获胜”竞选名单的支持者们欢庆胜利。 Djordje Kojadinovic/Reuters\nWhen voters in Hungary rejected their seemingly invincible populist leader Viktor Orban in April, Andrej Borovac, a young designer in neighboring Serbia, was ecstatic, but he was downbeat about his own country’s populist strongman suffering the same fate.\n今年4月，匈牙利选民拒绝了看似不可战胜的民粹主义领导人维克托·欧尔班时，邻国塞尔维亚的年轻设计师安德烈·博罗瓦茨欣喜若狂，但对于自己国家的民粹强人是否会遭遇同样命运，他却感到悲观。\n“That can never happen here,” he recalled thinking. Aleksandar Vucic, Serbia’s dominant political figure since 2012, looked immovable, given his grip — established over more than a decade in power — on security forces, nearly all major media outlets, the electoral commission and many other institutions. Or so he thought.\n“这种事在塞尔维亚永远不会发生…",
+          "link": "https://cn.nytimes.com/world/20261027/serbia-election-vucic-nationalist-populists/dual",
+          "publishedOn": "2026-10-27T02:36:03.000Z",
+          "wordCount": 1558,
+          "title": "塞尔维亚大选暴露右翼民粹潮流新弱点",
+          "imageUrl": "https://static01.nyt.com/images/2026/10/26/multimedia/26serbia-analysis--01-mvtl/26serbia-analysis--01-mvtl-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/world/20261027/brazil-election-president-lula-bolsonaro/dual",
+          "author": null,
+          "description": "ANA LONOVA, ADAM B. ELLICK2026年10月27日周日，赢得连任的卢拉在圣保罗。 Andre Penner/Associated Press\nBrazilian voters on Sunday handed the leftist president, Luiz Inácio Lula da Silva, a fourth term in office and a surprise victory over Flávio Bolsonaro, his right-wing challenger, in a striking rebuke to a conservative surge sweeping Latin America.\n巴西选民周日给予左翼总统卢拉第四个任期，他出人意料地击败其右翼挑战者博索纳罗，这是对席卷拉丁美洲的保守浪潮引人注目的回击。\nMr. Bolsonaro refused to accept the outcome and said it was the result of foul play, seizing on a narrative that his father also employed after his own electoral loss four years ago.\n博索纳罗拒绝接受这一结果，称这是舞弊所致，他沿用了其父四年前竞选失败后也曾使用过的说法。\nPresident Trump on Monday also criticized the results of the vote,  telling reporters at Joint Base Andrews in Maryland that “it looked like another rigged election.”\n周一，特朗​​普总统…",
+          "link": "https://cn.nytimes.com/world/20261027/brazil-election-president-lula-bolsonaro/dual",
+          "publishedOn": "2026-10-27T01:36:02.000Z",
+          "wordCount": 1712,
+          "title": "卢拉逆转赢得巴西总统大选，打击拉美右翼浪潮",
+          "imageUrl": "https://static01.nyt.com/images/2026/10/25/multimedia/25int-brazil-election-vhgm/25int-brazil-election-vhgm-articleLarge.jpg"
+        },
+        {
           "id": "https://cn.nytimes.com/china/20261026/china-communist-party-xi-forever-purge/dual",
           "author": null,
           "description": "储百亮2026年10月26日预计中国国家主席习近平明年将连任执政的共产党领导人，开启第四个任期。他曾警告称，有太多官员未能忠实地执行他的命令。 Ng Han Guan/Associated Press\nFor more than a decade, the Chinese leader Xi Jinping has used a storm of corruption probes and loyalty campaigns to bring the country’s officials to heel.\n十多年来，中国领导人习近平一直通过一波又一波的反腐调查和忠诚教育运动来约束该国的官员。\nNow, as Mr. Xi, 73, prepares to claim five more years in power, he is complaining that some officials are still disloyal, apathetic and corrupt, and has said that tougher measures are needed.\n如今，73岁的习近平准备争取再执政五年，他抱怨一些官员依然不忠诚、麻木不仁且腐败，并表示需要采取更严厉的措施。\nThe relentlessness of Mr. Xi’s campaign for control was on display this month when the Communist Party announced an investigation into Huang Qifan, the former mayor of Chongqing, a city in southwest China. Mr. Huang remained prominent after leaving of…",
@@ -6916,6 +7058,36 @@
       "feedUrl": "https://plink.anyfeeder.com/weixin/ibookreview",
       "siteUrl": "http://weixin.sogou.com/weixin?type=1&s_from=input&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A",
       "articles": [
+        {
+          "id": "63ac82d4678cf5778a57416fc1fb691e",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E5%86%AF%E9%AA%A5%E6%89%8D%EF%BC%9A%E5%86%99%E6%95%A3%E6%96%87%E6%89%8D%E7%9C%9F%E6%AD%A3%E4%BA%AB%E5%8F%97%E7%9D%80%E2%80%9C%E5%8F%AA%E9%97%AE%E8%80%95%E8%80%98%EF%BC%8C%E4%B8%8D%E9%97%AE%E6%94%B6%E8%8E%B7%E2%80%9D%E7%9A%84%E5%BF%AB%E4%B9%90",
+          "publishedOn": "2026-10-27T02:51:00.000Z",
+          "wordCount": 290,
+          "title": "冯骥才：写散文才真正享受着“只问耕耘，不问收获”的快乐",
+          "imageUrl": null
+        },
+        {
+          "id": "3f38c6eb82e184f431de4622e4e043a5",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E4%BB%8E%E5%BC%A0%E5%AE%B6%E9%BD%90%E6%AF%8D%E5%A5%B3%E8%AF%B4%E8%B5%B7%EF%BC%9A%E6%88%91%E4%BB%AC%E5%A6%82%E4%BD%95%E5%BA%94%E5%AF%B9%E6%83%85%E6%84%9F%E7%9A%84%E2%80%9C%E8%B4%AC%E5%80%BC%E2%80%9D%EF%BC%9F",
+          "publishedOn": "2026-10-27T02:51:00.000Z",
+          "wordCount": 317,
+          "title": "从张家齐母女说起：我们如何应对情感的“贬值”？",
+          "imageUrl": null
+        },
+        {
+          "id": "a2c8492cde8464d5418f4497d02e380f",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E3%80%8A%E6%97%B6%E9%97%B4%E7%9A%84%E7%9C%9F%E7%9B%B8%E6%A0%91%E3%80%8B%EF%BC%9A%E7%8E%B0%E4%BB%A3%E4%BA%BA%E7%9A%84%E5%9B%B0%E5%A2%83%EF%BC%8C%E6%98%AF%E8%A2%AB%E2%80%9C%E6%97%A2%E8%A6%81%E5%8F%88%E8%A6%81%E2%80%9D%E6%92%95%E6%89%AF",
+          "publishedOn": "2026-10-27T02:51:00.000Z",
+          "wordCount": 262,
+          "title": "《时间的真相树》：现代人的困境，是被“既要又要”撕扯",
+          "imageUrl": null
+        },
         {
           "id": "e082b2f92f3cb368ccffd22290667c21",
           "author": null,
