@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mananchong.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-30T14:28:06.623Z</updated>
+    <updated>2026-10-30T20:59:04.770Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mananchong.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://mananchong.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mbappé Meets His Match]]></title>
+        <id>https://www.nationalreview.com/?p=2068549</id>
+        <link href="https://www.nationalreview.com/2026/10/mbappe-meets-his-match/"/>
+        <updated>2026-10-30T14:38:02.000Z</updated>
+        <summary type="html"><![CDATA[The backlash against the soccer superstar is the latest example of China’s insidious power.]]></summary>
+        <author>
+            <name>Paul Glader and Jianli Yang</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The False Dichotomy of Abolishing Business Schools]]></title>
         <id>https://www.nationalreview.com/?p=2068443</id>
