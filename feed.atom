@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mananchong.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-31T13:48:23.268Z</updated>
+    <updated>2026-10-31T20:13:26.507Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mananchong.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://mananchong.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Haley Stevens’s Political Suicide Mission]]></title>
+        <id>https://www.nationalreview.com/?p=2069239</id>
+        <link href="https://www.nationalreview.com/2026/10/haley-stevenss-political-suicide-mission/"/>
+        <updated>2026-10-31T19:23:52.000Z</updated>
+        <summary type="html"><![CDATA[The former Democratic Senate candidate has, to her credit, finally hit her breaking point with Abdul El-Sayed’s hatred of Israel.]]></summary>
+        <author>
+            <name>Jeffrey Blehar</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[富士山2026年初冠雪 - October 31, 2026]]></title>
         <id>idaily-260878</id>
@@ -7513,15 +7523,6 @@ mlreserve: machine-learning loss reserv…]]></summary>
         <summary type="html"><![CDATA[一幅法国印象派画家 Pierre-Auguste Renoir 1877年油画《划船（船上的少女）》在拍卖前预展，伦敦。这幅画作以近景视角呈现一名坐在游船上的少女，画家用轻盈的笔触描绘波光粼粼的水面和透过树荫洒在人物身上的斑驳光影，营造出舒适惬意的午后氛围。该画作将于11月18日在纽约苏富比举行的「布拉基耶-阿里埃塔收藏」专场拍卖会上亮相，拍前估价2500万至3500万美元。摄影师：Tristan Fewings]]></summary>
         <author>
             <name>英国 · 伦敦</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不开心的时候，就去运动吧！]]></title>
-        <id>6de9d48ecd272669f1cf6bc0fc3cee62</id>
-        <link href="http://weixin.sogou.com/weixin?type=2&amp;query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E4%B8%8D%E5%BC%80%E5%BF%83%E7%9A%84%E6%97%B6%E5%80%99%EF%BC%8C%E5%B0%B1%E5%8E%BB%E8%BF%90%E5%8A%A8%E5%90%A7%EF%BC%81"/>
-        <updated>2026-10-02T01:59:00.000Z</updated>
-        <author>
-            <name>新京报书评周刊</name>
         </author>
     </entry>
 </feed>
