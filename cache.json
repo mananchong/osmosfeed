@@ -6,6 +6,16 @@
       "siteUrl": "https://rweekly.org/atom.xml",
       "articles": [
         {
+          "id": "https://rweekly.org/2026-W45.html",
+          "author": null,
+          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Jonathan Kitt, with help from the R Weekly team members and contributors.\nHighlights\nIntroducing safeconduct and r2parquet\nHow to make interactive charts you can email\nOn message and on brand: conversation-starting dataviz with R and ggplot2\nInsights\nIntroducing safeconduct and r2parquet\nOn message and on brand: conversation-starting dataviz with R and ggplot2\nR in Organizations\nRoche Open-Source TLG Packages Move to pharmaverse\nTutorials\nTen great R functions #4\nHow to make interactive charts you can email\nTidyTuesday 2026/43\n\nResources\nWhat’s New in R: October 26, 2026\nNew Packages\n📦 Go Live for More New Pkgs 📦\n -->\n📦 Keep up to date wtih CRANberries 📦\nCRAN\n{OECDdata} …",
+          "link": "https://rweekly.org/2026-W45.html",
+          "publishedOn": "2026-11-02T00:00:00.000Z",
+          "wordCount": 5828,
+          "title": "R Weekly 2026-W45 safeconduct and r2parquet, interactive charts, on message and on brand",
+          "imageUrl": "https://rweekly.org/public/facebook.png"
+        },
+        {
           "id": "https://rweekly.org/2026-W44.html",
           "author": null,
           "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Jon Calder, with help from the R Weekly team members and contributors.\nHighlight\nCelebrating 15 Years of rOpenSci: Then, Now & Next\nEstimate your BAC, now 100% in the browser\nInsights\nCelebrating 15 Years of rOpenSci: Then, Now & Next\nrOpenSci News Digest, October 2026\nMark Padgham: Building the Machinery of Software Peer Review\nSolving Problems with LLMs\nR in the Real World\nHow many rules does it take to guess a German noun’s gender? - Use R, subtitle frequencies, and a compact decision tree to predict noun gender while keeping the model small enough to memorize.\nWhat’s New in R: October 19, 2026\nHybrid Machine Learning & Financial Econometrics: Building Volatility-Aware Dy…",
@@ -64,6 +74,56 @@
       "feedUrl": "https://www.nationalreview.com/feed/",
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
+        {
+          "id": "https://www.nationalreview.com/?p=2070134",
+          "author": "Noah Rothman",
+          "description": "Democrats know that there are many more out there with serious reservations about Abdul El-Sayed.",
+          "link": "https://www.nationalreview.com/2026/11/haley-stevens-is-not-alone/",
+          "publishedOn": "2026-11-02T14:35:56.000Z",
+          "wordCount": null,
+          "title": "Haley Stevens Is Not Alone",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=2069797",
+          "author": "The Editors",
+          "description": "Everyone should want to know the truth of this matter.",
+          "link": "https://www.nationalreview.com/2026/11/the-murky-ilhan-omar-affair/",
+          "publishedOn": "2026-11-02T11:30:52.000Z",
+          "wordCount": null,
+          "title": "The Murky Ilhan Omar Affair",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=2068578",
+          "author": "Inez Feltscher Stepman",
+          "description": "From immigration enforcement to higher education, it has been a historically productive two years.",
+          "link": "https://www.nationalreview.com/2026/11/taking-stock-of-the-trump-administrations-victories/",
+          "publishedOn": "2026-11-02T11:30:40.000Z",
+          "wordCount": null,
+          "title": "Taking Stock of the Trump Administration’s Victories",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=2069829",
+          "author": "Kathryn Jean Lopez",
+          "description": "There was no identity crisis at National Review’s Buckley Prize night. Thanks be to God, because the kids need us to know who we are.",
+          "link": "https://www.nationalreview.com/2026/11/conservatism-lives-even-in-mamdanis-new-york/",
+          "publishedOn": "2026-11-02T11:30:20.000Z",
+          "wordCount": null,
+          "title": "Conservatism Lives — Even in Mamdani’s New York",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=2069722",
+          "author": "Andrew C. McCarthy",
+          "description": "The Senate candidate’s denials of ties to that Islamist movement follow a familiar playbook.",
+          "link": "https://www.nationalreview.com/2026/11/abdul-el-sayed-the-gerry-adams-of-the-muslim-brotherhood/",
+          "publishedOn": "2026-11-02T11:30:09.000Z",
+          "wordCount": null,
+          "title": "Abdul El-Sayed: The Gerry Adams of the Muslim Brotherhood",
+          "imageUrl": null
+        },
         {
           "id": "https://www.nationalreview.com/?p=2069730",
           "author": "John Fund",
@@ -2133,56 +2193,6 @@
           "wordCount": 6970,
           "title": "The False Comfort of Going ‘No Contact’",
           "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/10/no-contact-illustration.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=2047223",
-          "author": "Christopher Calton",
-          "description": "Housing costs alone offer little insight as to why the homeless population skews so much younger than it used to.",
-          "link": "https://www.nationalreview.com/2026/10/why-are-the-homeless-so-young/",
-          "publishedOn": "2026-10-03T10:30:58.000Z",
-          "wordCount": 6643,
-          "title": "Why Are the Homeless So Young?",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/02/Sacramento-Homeless.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=2049193",
-          "author": "Andrew C. McCarthy",
-          "description": "Congress does, and the Supreme Court is merely demanding that judges follow it.",
-          "link": "https://www.nationalreview.com/2026/10/the-left-conveniently-forgets-who-writes-immigration-law/",
-          "publishedOn": "2026-10-03T10:30:57.000Z",
-          "wordCount": 8450,
-          "title": "The Left Conveniently Forgets Who Writes Immigration Law",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2024/10/immigration-deportation-4.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=2049101",
-          "author": "Brian T. Allen",
-          "description": "Nonprofit trusteeship provides lines that can’t be crossed, and they apply to all arts organizations.",
-          "link": "https://www.nationalreview.com/2026/10/is-the-kennedy-center-naming-stunt-gross-negligence/",
-          "publishedOn": "2026-10-03T10:30:46.000Z",
-          "wordCount": 8118,
-          "title": "Is the Kennedy Center Naming Stunt Gross Negligence?",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/10/kennedy-center-sign.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=2049137",
-          "author": "John Gustavsson",
-          "description": "At one polling station, over 100 Eritrean women showed up accompanied by two religious leaders, who instructed the women on how to vote.",
-          "link": "https://www.nationalreview.com/2026/10/is-the-new-sweden-a-haven-for-electoral-fraud/",
-          "publishedOn": "2026-10-03T10:30:34.000Z",
-          "wordCount": 7424,
-          "title": "Is the ‘New Sweden’ a Haven for Electoral Fraud?",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/10/sweden-election-voter.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=2049306",
-          "author": "Thomas Beck",
-          "description": "When health-care workers walk off the job, they’re putting lives at stake.",
-          "link": "https://www.nationalreview.com/2026/10/hospital-strikes-should-be-illegal/",
-          "publishedOn": "2026-10-03T10:30:16.000Z",
-          "wordCount": 6082,
-          "title": "Hospital Strikes Should Be Illegal",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/10/hospital-strike.jpg?fit=2057%2C1200&ssl=1"
         }
       ]
     },
@@ -2191,6 +2201,46 @@
       "feedUrl": "https://sspai.com/feed",
       "siteUrl": "https://sspai.com",
       "articles": [
+        {
+          "id": "https://sspai.com/post/118240",
+          "author": "少数派编辑部",
+          "description": "能看见、更聪明的 Android 智能点击器，纯纯写作迎来 iOS 版本，Photon Cam 为 iPhone 旧机型解锁相机新功能等。查看全文",
+          "link": "https://sspai.com/post/118240",
+          "publishedOn": "2026-11-02T09:57:55.000Z",
+          "wordCount": 650,
+          "title": "派评 | 近期值得关注的 App",
+          "imageUrl": "https://rssfile.sspai.com/2026/11/2/article/6bc5dfcd-471f-641e-71fa-3bd897e5f158.jpeg?imageMogr2/auto-orient/format/webp/ignore-error/1"
+        },
+        {
+          "id": "https://sspai.com/post/118122",
+          "author": "KingTsui",
+          "description": "这篇文章是TDSStudio在少数派上的第34篇文章，依然是全平台首发。时隔两年，我们又回来写AirPods半入耳型号了。在26年的苹果秋季event上，AirPods5给我们最大的印象其实还是主动降 ...查看全文",
+          "link": "https://sspai.com/post/118122",
+          "publishedOn": "2026-11-02T07:00:00.000Z",
+          "wordCount": 719,
+          "title": "TDS REVIEW｜Apple AirPods 5 半入耳降噪真无线耳机体验",
+          "imageUrl": "https://rssfile.sspai.com/2026/11/01/74f6bb806956ff8ec61c4cc029edbf43.jpg?imageMogr2/auto-orient/ignore-error/1"
+        },
+        {
+          "id": "https://sspai.com/post/115662",
+          "author": "lyx",
+          "description": "十年是一个里程碑，也是新的起点。查看全文",
+          "link": "https://sspai.com/post/115662",
+          "publishedOn": "2026-11-02T03:00:41.000Z",
+          "wordCount": 270,
+          "title": "Xnip 十周年：长截图的新生，也是新的起点",
+          "imageUrl": "https://rssfile.sspai.com/2026/10/11/6891981b6bbb88e3d2d88d5c9c846377.png?imageMogr2/auto-orient/ignore-error/1"
+        },
+        {
+          "id": "https://sspai.com/post/118191",
+          "author": "少数派编辑部",
+          "description": "Apple 智能将随 iOS 27.3 登陆中国\n苹果对闪存的议价权受到压制\nClaude Code 官方扩展被植入后门\n美国 FCC 禁止中国实验室认证输美电子产品\n百度网盘通过磁力计数据规避「摇一摇」广告权限\n币安 63 亿美元资产被盗\n看看就行的简讯\n少数派的近期动态\n你可能错过的好文章\n查看全文",
+          "link": "https://sspai.com/post/118191",
+          "publishedOn": "2026-11-01T23:22:45.000Z",
+          "wordCount": 527,
+          "title": "派早报：Apple 智能将随 iOS 27.3 登陆中国",
+          "imageUrl": "https://rssfile.sspai.com/11/2/2026/article/9bd5fb09-996b-b621-3891-26066cd9c398.png?imageMogr2/auto-orient/format/webp/ignore-error/1"
+        },
         {
           "id": "https://sspai.com/post/116991",
           "author": "随便好啦",
@@ -3118,6 +3168,104 @@
       "feedUrl": "https://plink.anyfeeder.com/idaily/today",
       "siteUrl": "https://idai.ly",
       "articles": [
+        {
+          "id": "idaily-260971",
+          "author": "美国 · 纽约",
+          "description": "2026年纽约马拉松赛，参赛选手们途经长岛普拉斯基桥，美国。11月1日，第55届纽约马拉松赛正式开跑，本年度共有超过6万名选手参赛，吸引约200万人沿途观看。赛程起跑点为瓦兹沃思堡，终点为中央公园，途经史泰登岛、布鲁克林、皇后区、布朗克斯和曼哈顿共5个行政区，全程长度42.195公里。瑞典选手 Andreas Almgren 以2小时06分01秒夺得男子组冠军，肯尼亚选手 Sheila Chepkirui 以2小时24分36秒夺得女子组冠军。摄影师：Caitlin Ochs",
+          "link": "https://m.idai.ly/se/7ea9p4",
+          "publishedOn": "2026-11-02T10:59:00.000Z",
+          "wordCount": 284,
+          "title": "第55届纽约马拉松赛 - November 2, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/bde03bb826/a0a87e20.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/bde03bb826/a0a87e20.jpg"
+        },
+        {
+          "id": "idaily-260969",
+          "author": "美国 · 佛罗里达州",
+          "description": "美国总统 Donald Trump 出席海湖庄园万圣节派对，佛罗里达州。10月31日，美国总统 Trump 在海湖庄园举办「丛林」主题万圣节派对，美国众议院议长、司法部长、联邦住房金融局局长、美国驻印度大使等超过100名宾客受邀出席。美国中期选举正式投票日还有最后3天，目前已有超过5400万选民完成提前投票。最新民调显示共和党支持率为44%，落后民主党8个百分点；美国总统 Trump 的支持率已跌至36%，接近任内最低水平。摄影师：Brendan Smialowski",
+          "link": "https://m.idai.ly/se/884a13",
+          "publishedOn": "2026-11-02T09:58:00.000Z",
+          "wordCount": 284,
+          "title": "海湖庄园万圣节派对 - November 2, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/16422edefc/491f226d.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/16422edefc/491f226d.jpg"
+        },
+        {
+          "id": "idaily-260966",
+          "author": "德国 · 柏林",
+          "description": "德国年轻人在柏林勃兰登堡门前示威抗议。10月31日，德国「Z世代运动」（Gen Z regelt）活动团体在柏林、法兰克福、科隆、慕尼黑等34个主要城市发起大规模示威活动，超过18万德国年轻人走上街头抗议生活成本飙升、公共支出削减和教育经费不足等问题。部分示威者与警察发生冲突，导致超过100名警员受伤，逾200人被逮捕。德国官方数据显示2026年10月消费者物价指数同比上涨2.8%，燃油和家庭能源价格涨幅达12.2%。摄影师：Ralf Hirschberger",
+          "link": "https://m.idai.ly/se/10eDch",
+          "publishedOn": "2026-11-02T08:57:00.000Z",
+          "wordCount": 284,
+          "title": "德国Z世代示威抗议 - November 2, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/4f550ad47c/4b9ae9e5.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/4f550ad47c/4b9ae9e5.jpg"
+        },
+        {
+          "id": "idaily-260963",
+          "author": "法国 · 巴黎",
+          "description": "一名法国抗议者向防暴警察投掷石块，巴黎。10月31日，法国连续第3个周末爆发全国抗议活动，超过32万人走上街头抗议生活成本上涨。巴黎市中心当天禁止集会，部分地铁站临时关闭。法国政府共部署超过7万名警察和宪兵维护治安，部分示威者向警方投掷石块和燃烧瓶，警方动用高压水枪和催泪瓦斯对示威者进行驱散，4名警察和1名宪兵在冲突中受伤，至少565人被逮捕。摄影师：iDaily Media",
+          "link": "https://m.idai.ly/se/dcabx9",
+          "publishedOn": "2026-11-02T08:55:00.000Z",
+          "wordCount": 284,
+          "title": "法国新一轮全国抗议 - November 2, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/a10306a65d/c08c1e29.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/a10306a65d/c08c1e29.jpg"
+        },
+        {
+          "id": "idaily-260962",
+          "author": "英国 · 伦敦",
+          "description": "英国伦敦-布莱顿古董车巡游赛（Veteran Car Run），一辆1902年丹尼斯敞篷车从威斯敏斯特桥上驶过。11月1日，英国伦敦举行一年一度的古董车巡游赛，本年度共有超过400辆车龄逾120年的古董车参加，巡游路线起点为海德公园，终点为布莱顿海滨，全程约96.6公里，途经白金汉宫、国会大厦、特拉法加广场等伦敦地标。该活动创办于1927年，是世界上历史最悠久的汽车巡游活动之一，所有参加车辆的制造年份必须在1905年之前，举行日期为每年11月的第一个星期日。摄影师：Adrian Dennis",
+          "link": "https://m.idai.ly/se/aecllx",
+          "publishedOn": "2026-11-02T08:53:00.000Z",
+          "wordCount": 284,
+          "title": "英国老爷车巡游活动 - November 2, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/46dfbad82c/59e3d42d.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/46dfbad82c/59e3d42d.jpg"
+        },
+        {
+          "id": "idaily-260961",
+          "author": "巴西 · 亚马逊州",
+          "description": "一艘货运船在内格罗河干涸的浅滩上搁浅，巴西亚马逊州。10月31日，巴西国家空间研究所（INPE）通报10月该国亚马逊地区共录得18907起森林火灾，同比增长140.3%，前10个月累计4.8万起，同比增长70%，主要受到厄尔尼诺现象导致的干旱天气影响。内格罗河是亚马逊北岸最大的一条支流，目前该河流在巴西亚马逊州首府马瑙斯境内的水位已降至16.50米，比2025年同期低超过2.5米。世界气象组织预计本轮厄尔尼诺现象将在2026年底达到最强。摄影师：Raphael Alves",
+          "link": "https://m.idai.ly/se/30ajiD",
+          "publishedOn": "2026-11-02T08:51:00.000Z",
+          "wordCount": 284,
+          "title": "巴西干旱灾情加剧 - November 2, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/f996de575c/41c5d2cd.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/f996de575c/41c5d2cd.jpg"
+        },
+        {
+          "id": "idaily-260960",
+          "author": "缅甸 · 仰光",
+          "description": "缅甸仰光动物园为雌性高龄大象「Mo Mo」庆祝73岁生日。11月1日，仰光动物园准备了由卷心菜、香蕉、葡萄、西瓜、红薯制作的蔬果大餐为高龄雌性大象「Mo Mo」庆祝73岁生日。这只大象在幼年时与野生象群走散，被当地伐木工人发现后捕获圈养，1961年被捐赠给仰光动物园进行观光表演，2013年正式退休。饲养员表示「Mo Mo」目前视力有所衰退、咀嚼硬质食物能力下降，整体健康状况良好。摄影师：Nyein Chan Naing",
+          "link": "https://m.idai.ly/se/aee8N6",
+          "publishedOn": "2026-11-02T08:49:00.000Z",
+          "wordCount": 284,
+          "title": "缅甸高龄大象73岁生日 - November 2, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/94bbdadfcb/ac90cac9.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/94bbdadfcb/ac90cac9.jpg"
+        },
         {
           "id": "idaily-260914",
           "author": "船底座",
@@ -5875,34 +6023,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://pic.yupoo.com/fotomag/7d96e7145c/88ed16b6.jpg"
-        },
-        {
-          "id": "idaily-259349",
-          "author": "美国 · 佛罗里达州",
-          "description": "SpaceX 猎鹰9号火箭搭载「Crew-13」任务载人龙飞船发射升空，卡纳维拉尔角。10月1日，美国宇航员 Jessica Watkins 和 Luke Delaney、加拿大宇航员 Joshua Kutryk 以及俄罗斯宇航员 Sergey Teteryatnikov 乘坐载人龙飞船抵达国际空间站，开始为期6个月的驻站任务。载人龙飞船本次运送任务从发射到与空间站对接共耗时7小时55分钟，创下美国载人飞船前往国际空间站的最快飞行纪录。摄影师：Joel Kowsky",
-          "link": "https://m.idai.ly/se/c305nt",
-          "publishedOn": "2026-10-03T09:59:00.000Z",
-          "wordCount": 280,
-          "title": "新一批宇航员抵达空间站 - October 3, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/2090cae14e/6424b96b.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/2090cae14e/6424b96b.jpg"
-        },
-        {
-          "id": "idaily-259348",
-          "author": "美国 · 登顿市",
-          "description": "美国总统 Donald Trump 在得克萨斯州一家汽车厂举行中期竞选活动，登顿市。10月2日，美国劳工统计局公布2026年9月非农就业人口新增2.9万人，大幅低于市场预期的9万人，失业率上升0.1个百分点至4.2%。美国劳工部同时将8月新增就业人数从16.2万下修至13.3万，7月就业人数从增加2.1万下修至减少1万，合计下调幅度达6万人。最新民调显示 Trump 的支持率已跌至32%，创下任内最低水平，仅26%受访者对其政府经济政策表示满意。摄影师：Albert Pena",
-          "link": "https://m.idai.ly/se/b4b6f3",
-          "publishedOn": "2026-10-03T08:58:00.000Z",
-          "wordCount": 280,
-          "title": "美国9月非农数据大幅下滑 - October 3, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/2df12112e1/405a43f6.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/2df12112e1/405a43f6.jpg"
         }
       ]
     },
@@ -5911,6 +6031,66 @@
       "feedUrl": "https://plink.anyfeeder.com/nytimes/dual",
       "siteUrl": "http://nytimes.com",
       "articles": [
+        {
+          "id": "https://cn.nytimes.com/china/20261102/china-tiananmen-kristof/dual",
+          "author": null,
+          "description": "纪思道2026年11月2日\nThis story is part of a series marking 175 years of eyewitness journalism from The New York Times. Read more here.\n本文是《纽约时报》为纪念创刊175周年来坚守现场报道而推出的系列报道之一。阅读更多内容。\nAs I pedaled my bicycle toward the gunfire and Tiananmen Square, dodging people in crowds fleeing in the opposite direction, I kept thinking: What a crazy occupation this is.\n当我骑着自行车朝枪声传来的方向、向天安门广场赶去时，一路躲避着迎面逃散的人群，心里不停地想：这真是个疯狂的职业。\nFor weeks during the spring of 1989, the question preoccupying the world had been whether the student-led Tiananmen demonstrations paralyzing China would end with a democratic revolution or with massacres. That night, June 3, the phone began ringing in the apartment in Beijing I shared with my wife and fellow New York Times correspondent, Sheryl WuDunn. We had our answer: Tens of thousands o…",
+          "link": "https://cn.nytimes.com/china/20261102/china-tiananmen-kristof/dual",
+          "publishedOn": "2026-11-02T06:36:02.000Z",
+          "wordCount": 2192,
+          "title": "在天安门屠杀现场，我目睹了中国人民非凡的勇气",
+          "imageUrl": "https://static01.nyt.com/images/2026/09/01/multimedia/00PROJECTS-175-EYEWITNESS-TIANANMEN-SQUARE-vfhm/00PROJECTS-175-EYEWITNESS-TIANANMEN-SQUARE-vfhm-videoLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/usa/20261102/trump-speeches-rallies-age/dual",
+          "author": null,
+          "description": "PETER BAKER, DYLAN FREEDMAN2026年11月2日 Alex Kent/The New York Times\nAs he opened his speech at a recent campaign rally in Greenville, N.C., President Trump told the story of the Willie Horton crime case that helped sink the presidential campaign of the Democrat Michael S. Dukakis in 1988.\n最近在北卡罗来纳州格林维尔一场竞选集会上开场时， 特朗普总统讲述了威利·霍顿的罪案故事。该案件曾在1988年重创民主党人迈克尔·S·杜卡基斯的总统竞选。\nAnd then, 30 minutes later, still speaking at the same rally to the same audience from the same lectern, Mr. Trump told the same Willie Horton story all over again, using some of the same language (and getting the facts wrong both times).\n30分钟后，同一场集会、同一群听众、同一个讲台，特朗普又把威利·霍顿的故事讲了一遍，部分措辞与之前相同，而且两次都把事实讲错了。\nMr. Trump, who last year became the oldest person ever inaugurated as president and turned 80 in June, has demonstrated physical s…",
+          "link": "https://cn.nytimes.com/usa/20261102/trump-speeches-rallies-age/dual",
+          "publishedOn": "2026-11-02T05:36:02.000Z",
+          "wordCount": 2059,
+          "title": "失言、发怒、关注“屁股”：特朗普的言论变得更粗俗",
+          "imageUrl": "https://static01.nyt.com/images/2026/10/30/multimedia/30DC-TRUMP-AGE-TOP-04-fzmt/30DC-TRUMP-AGE-TOP-04-fzmt-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/technology/20261102/binance-hack-crypto-north-korea/dual",
+          "author": null,
+          "description": "DAVID YAFFE-BELLANY2026年11月2日全球最大加密货币交易所币安表示，这起被业内称为史上最大规模加密货币黑客攻击的事件涉及约63亿美元资金。 SeongJoon Cho/Bloomberg\nAt about 4:20 p.m. on Thursday, a string of unusual transactions started to cause alarm at Binance, the world’s largest cryptocurrency exchange.\n周四下午4点20分左右，一连串异常交易开始引起全球最大加密货币交易所币安的警觉。\nMoney was pouring out of the company’s accounts, a multibillion-dollar deluge of digital coins. It had all the hallmarks of a crypto heist — a high-speed bank robbery conducted over the internet.\n资金正从公司的账户中大量流出，价值数十亿美元的数字货币如洪水般倾泻而去。种种迹象都表明，这是一场加密货币盗窃案——一场在互联网上高速进行的银行抢劫。\nAs the news spread, Binance’s top executives put together an informal war room on Wea, the company’s internal messaging system, with about 100 participants, including specialized cryptocurrency tracers and security personnel.\n随着消息传开，币安高管在…",
+          "link": "https://cn.nytimes.com/technology/20261102/binance-hack-crypto-north-korea/dual",
+          "publishedOn": "2026-11-02T04:06:02.000Z",
+          "wordCount": 1598,
+          "title": "币安63亿美元黑客攻击事件始末",
+          "imageUrl": "https://static01.nyt.com/images/2026/11/01/business/00biz-binance-ticktock/00biz-binance-ticktock-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/obits/20261102/liu-yandong-dead/dual",
+          "author": null,
+          "description": "艾莎2026年11月2日中国前副总理、曾任该国最高级别女官员之一的刘延东于上周三在北京逝世。 Stanley Chou/Getty Images\nLiu Yandong, one of the few women to reach the upper echelons of the Chinese Communist Party, but whose career also illustrated the limits for women in China’s ruling elite, died on Wednesday in Beijing. She was 80.\n刘延东是极少数几位跻身中国共产党高层的女性之一，但其职业生涯也凸显了中国统治精英阶层中女性所面临的局限。她于上周三在北京逝世，享年80岁。\nHer death, after a long illness, was reported by the state news agency Xinhua and confirmed by her family.\n据官方通讯社新华社报道，她因长期患病去世，其家属已证实这一消息。 \nMs. Liu’s revolutionary pedigree, prestigious education and time toiling in a factory helped pave the way for her rise in the 1980s. As one of just six women to have ever served on the Politburo, the party’s elite policymaking body, she demonstrated what women in politics could achieve, spearheading…",
+          "link": "https://cn.nytimes.com/obits/20261102/liu-yandong-dead/dual",
+          "publishedOn": "2026-11-02T02:36:02.000Z",
+          "wordCount": 1158,
+          "title": "中国前副总理刘延东去世：跻身共产党高层的少数女性之一",
+          "imageUrl": "https://static01.nyt.com/images/2026/10/31/multimedia/31obit-liu-02-wcfq/31obit-liu-02-wcfq-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/asia-pacific/20261102/japan-vivant-spy-show-china/dual",
+          "author": null,
+          "description": "赫海威, HISAKO UENO2026年11月2日北京方面称，热门日本剧集《别班》宣扬对华负面看法。 Andy Wong/Associated Press\nChina’s recent pressure campaign against Japan has involved critical minerals, tourism, seafood and even pandas. Now Beijing is taking the dispute to the cultural sphere, targeting a Japanese television drama.\n中国近期对日本施压的领域涵盖关键矿产、旅游、海鲜乃至大熊猫。如今北京将争端延伸至文化领域，瞄准了一部日本电视剧。\nThe Chinese government has in recent days focused its ire on “Vivant,” one of Japan’s most popular shows, a cross between “24” and “Homeland” that tells the story of Japanese spies working to protect their country from threats overseas.\n中国政府近日将矛头对准《别班》(Vivant)。这部日本最受欢迎的剧集之一风格介于《24小时》与《国土安全》之间，讲述日本间谍在海外行动以保卫国家免受威胁的故事。\nBeijing says the show, which features a fictional Chinese intelligence agency called “Xinxi” as the antagonist, promotes negative views…",
+          "link": "https://cn.nytimes.com/asia-pacific/20261102/japan-vivant-spy-show-china/dual",
+          "publishedOn": "2026-11-02T02:06:02.000Z",
+          "wordCount": 863,
+          "title": "日剧《Vivant》被指“辱华”，三丽鸥取消联名合作",
+          "imageUrl": "https://static01.nyt.com/images/2026/10/30/multimedia/30int-japan-spy-thriller-gwhz/30int-japan-spy-thriller-gwhz-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/china/20261102/mosquito-laser-ai/dual",
+          "author": null,
+          "description": "KEITH BRADSHER2026年11月2日\nFor anyone kept awake by the infernal whine of mosquitoes, artificial intelligence may be coming to the rescue — armed with a laser.\n对于那些被蚊子该死的嗡嗡声折磨得夜不能寐的人来说，人工智能可能正携激光赶来相救。\nA Chinese company has started marketing a $1,000 A.I.-enabled device that tracks mosquitoes in flight and burns their wings off. It uses technology found in self-driving cars to pinpoint its targets, while relying on A.I. to decide when it is safe to fire.\n一家中国公司已开始推销一款售价1000美元、搭载人工智能的设备。它能够追踪飞行中的蚊子，并用激光烧掉它们的翅膀。该设备利用自动驾驶汽车所采用的技术精确锁定目标，同时依靠人工智能判断何时可以安全发射激光。\nDuring a recent demonstration at the offices of Photon Matrix, the company behind the device, it appeared remarkably effective. The white, nearly brick-size machine quickly zapped mosquito after mosquito, each bursting into a green or blue fl…",
+          "link": "https://cn.nytimes.com/china/20261102/mosquito-laser-ai/dual",
+          "publishedOn": "2026-11-02T01:06:03.000Z",
+          "wordCount": 1048,
+          "title": "“激光灭蚊防空系统”：中国企业推出人工智能灭蚊设备",
+          "imageUrl": "https://static01.nyt.com/images/2026/10/19/arts/rv-ai-mosquitos-final-v3/rv-ai-mosquitos-final-v3-videoLarge.jpg"
+        },
         {
           "id": "https://cn.nytimes.com/climate/20261030/glass-skyscrapers-heat-climate-change/dual",
           "author": null,
@@ -6919,6 +7099,36 @@
       "siteUrl": "http://weixin.sogou.com/weixin?type=1&s_from=input&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A",
       "articles": [
         {
+          "id": "185b095ef84c541f25e70aa59323bb5e",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E5%83%8F%E6%B6%82%E5%B0%94%E5%B9%B2%E4%B8%80%E6%A0%B7%E6%80%9D%E8%80%83%EF%BC%9A%E6%88%91%E4%BB%AC%E7%9A%84%E4%BA%BA%E7%94%9F%E9%97%AE%E9%A2%98%EF%BC%8C%E9%83%BD%E6%BA%90%E4%BA%8E%E5%8E%9F%E7%94%9F%E5%AE%B6%E5%BA%AD%E5%90%97%EF%BC%9F",
+          "publishedOn": "2026-11-02T02:24:00.000Z",
+          "wordCount": 320,
+          "title": "像涂尔干一样思考：我们的人生问题，都源于原生家庭吗？",
+          "imageUrl": null
+        },
+        {
+          "id": "4543f00adde6d6daf667d6561bb18281",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E5%9C%A8%E6%97%B6%E5%85%89%E4%B8%AD%E6%91%87%E6%91%86%E7%9A%84%E2%80%9C%E5%8E%8C%E4%B8%96%E2%80%9D%E8%AF%97%E4%BA%BA%EF%BC%9A%E5%A4%8F%E5%A4%9A%E5%B8%83%E9%87%8C%E6%98%82%E7%9A%84%E4%B8%89%E5%B1%82%E4%B8%96%E7%95%8C",
+          "publishedOn": "2026-11-02T02:24:00.000Z",
+          "wordCount": 301,
+          "title": "在时光中摇摆的“厌世”诗人：夏多布里昂的三层世界",
+          "imageUrl": null
+        },
+        {
+          "id": "9c91e067449eea370691d588a420432c",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E6%B8%85%E6%9C%AB%E8%90%8D%E4%B9%A1%E7%85%A4%E7%9F%BF%E5%BE%80%E4%BA%8B%EF%BC%9A%E6%96%87%E5%BB%B7%E5%BC%8F%EF%BC%8C%E4%B8%8E%E6%9C%BA%E5%99%A8%E8%BF%9B%E5%B1%B1",
+          "publishedOn": "2026-11-02T02:24:00.000Z",
+          "wordCount": 256,
+          "title": "清末萍乡煤矿往事：文廷式，与机器进山",
+          "imageUrl": null
+        },
+        {
           "id": "77644059b517dc6921d09bb6ced57835",
           "author": null,
           "description": "",
@@ -7766,16 +7976,6 @@
           "publishedOn": "2026-10-05T02:18:00.000Z",
           "wordCount": 301,
           "title": "如果我们都没有错，为什么还是无法达成共识？",
-          "imageUrl": null
-        },
-        {
-          "id": "d18ee3e051bf2e9748f958d565eaa725",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E5%BE%97%E4%BA%86%E8%AF%BA%E8%B4%9D%E5%B0%94%E6%96%87%E5%AD%A6%E5%A5%96%EF%BC%8C%E4%BE%9D%E7%84%B6%E5%86%B7%E9%97%A8%7C%E8%A2%AB%E9%81%97%E5%BF%98%E7%9A%84%E8%AF%BA%E5%A5%96%E5%BE%97%E4%B8%BB%E4%BB%AC",
-          "publishedOn": "2026-10-04T02:04:00.000Z",
-          "wordCount": 309,
-          "title": "得了诺贝尔文学奖，依然冷门|被遗忘的诺奖得主们",
           "imageUrl": null
         }
       ]
