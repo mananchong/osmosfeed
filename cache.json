@@ -44,16 +44,6 @@
           "wordCount": 6060,
           "title": "R Weekly 2025-W42 de Bruijn tiles, ALTREP, Parquet?",
           "imageUrl": "https://rweekly.org/public/facebook.png"
-        },
-        {
-          "id": "https://rweekly.org/2026-W41.html",
-          "author": null,
-          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Sam Parmar, with help from the R Weekly team members and contributors.\nHighlight\nFrom spreadsheet to gt and back again\nIntroducing shinyreact: React UI backed by a Shiny server\nAperiodic tilings with the de Bruijn method\nInsights\nFrom spreadsheet to gt and back again\n\nMy first attempt at porting a Shiny app failed, and not for a technical reason\nCelebrating the rOpenSci Community\nrOpenSci News Digest, September 2026\nReproducible compute sessions: pinning the full stack from R version to system libraries\nIntroducing shinyreact: React UI backed by a Shiny server\n\nTutorials\nFrom a football results API to a half-time/full-time heatmap in R\nmlreserve: machine-learning loss reserv…",
-          "link": "https://rweekly.org/2026-W41.html",
-          "publishedOn": "2026-10-05T00:00:00.000Z",
-          "wordCount": 6500,
-          "title": "R Weekly 2026-W41 Spreadsheets to gt, shinyreact, Aperiodic Tilings",
-          "imageUrl": "https://rweekly.org/public/facebook.png"
         }
       ]
     },
@@ -74,6 +64,56 @@
       "feedUrl": "https://www.nationalreview.com/feed/",
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
+        {
+          "id": "https://www.nationalreview.com/?p=2070507",
+          "author": "John Gerardi",
+          "description": "Should they prevail, you can count on Democrats pursuing a reinstated nationwide right to abortion.",
+          "link": "https://www.nationalreview.com/2026/11/what-2026-and-2028-mean-for-pro-lifers/",
+          "publishedOn": "2026-11-03T11:30:59.000Z",
+          "wordCount": null,
+          "title": "What 2026 and 2028 Mean for Pro-Lifers",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=2070586",
+          "author": "The Editors",
+          "description": "Ranked-choice voting unduly complicates our American system, sows mischief, and weakens the crucial role of the parties.",
+          "link": "https://www.nationalreview.com/2026/11/keep-american-voting-simple/",
+          "publishedOn": "2026-11-03T11:30:56.000Z",
+          "wordCount": null,
+          "title": "Keep American Voting Simple",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=2068571",
+          "author": "John Gustavsson",
+          "description": "European nations must again embrace competition with one another.",
+          "link": "https://www.nationalreview.com/2026/11/the-fundamental-flaw-in-european-unity/",
+          "publishedOn": "2026-11-03T11:30:42.000Z",
+          "wordCount": null,
+          "title": "The Fundamental Flaw in European Unity",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=2070422",
+          "author": "Michael Toth",
+          "description": "An airline CEO is offended by inequality in national wealth, but not by the inequality on his flights.",
+          "link": "https://www.nationalreview.com/2026/11/united-against-prosperity/",
+          "publishedOn": "2026-11-03T11:30:09.000Z",
+          "wordCount": null,
+          "title": "United Against Prosperity",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=2070336",
+          "author": "Joseph Loconte",
+          "description": "The government’s adoption of the language of Christian nationalism clashes with the moral logic of the Reformation.",
+          "link": "https://www.nationalreview.com/2026/11/trumps-muddled-reformation-day-message/",
+          "publishedOn": "2026-11-02T20:02:33.000Z",
+          "wordCount": null,
+          "title": "Trump’s Muddled Reformation Day Message",
+          "imageUrl": null
+        },
         {
           "id": "https://www.nationalreview.com/?p=2070134",
           "author": "Noah Rothman",
@@ -162,6 +202,16 @@
           "publishedOn": "2026-11-01T11:30:26.000Z",
           "wordCount": null,
           "title": "Now Is the Time for the U.S. to Pursue Venezuelan Elections",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=2070531",
+          "author": "NR Staff",
+          "description": "Follow along for live updates and analysis on the 2026 midterms.",
+          "link": "https://www.nationalreview.com/2026/11/2026-midterm-elections-live-updates/",
+          "publishedOn": "2026-11-01T11:30:24.000Z",
+          "wordCount": null,
+          "title": "2026 Midterm Elections: Live Updates",
           "imageUrl": null
         },
         {
@@ -2123,76 +2173,6 @@
           "wordCount": 6483,
           "title": "If Justices Want to Protect the Supreme Court’s Legitimacy, They Should Stop Trashing Their Colleagues",
           "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/01/Durbin-Biden-Manchen-5.png?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=2050599",
-          "author": "John Fund",
-          "description": "Ken Griffin just made the largest gift to U.S. higher education in history. He chose Miami.",
-          "link": "https://www.nationalreview.com/2026/10/progressives-performative-billionaire-bashing-hurts-the-cities-they-govern/",
-          "publishedOn": "2026-10-04T18:51:18.000Z",
-          "wordCount": 5397,
-          "title": "Progressives’ Performative Billionaire-Bashing Hurts the Cities They Govern",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/10/ken-griffin.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=2048122",
-          "author": "Jeremy Rozansky",
-          "description": "Suncor comes before the U.S. Supreme Court to resolve an issue only it can handle.",
-          "link": "https://www.nationalreview.com/2026/10/the-question-of-emissions-liability-finally-heads-to-the-right-court/",
-          "publishedOn": "2026-10-04T10:30:56.000Z",
-          "wordCount": 7169,
-          "title": "The Question of Emissions Liability Finally Heads to the Right Court",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/08/scotus-building-2.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=2049279",
-          "author": "James Lileks",
-          "description": "Driverless cars do not need drivers.",
-          "link": "https://www.nationalreview.com/2026/10/the-minneapolis-city-council-auto-know-better/",
-          "publishedOn": "2026-10-04T10:30:45.000Z",
-          "wordCount": 6583,
-          "title": "The Minneapolis City Council Auto Know Better",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/10/zoox-austin.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=2048498",
-          "author": "Skyler Safriet",
-          "description": "The Republican congressman, running for reelection in a blue-tinted district, discusses polarization and compromise with NR.",
-          "link": "https://www.nationalreview.com/2026/10/mike-lawler-plants-his-flag-on-common-ground/",
-          "publishedOn": "2026-10-04T10:30:24.000Z",
-          "wordCount": 6112,
-          "title": "Mike Lawler Plants His Flag on Common Ground",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/10/mike-lawler.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=2049247",
-          "author": "Michael Burgess",
-          "description": "Both parties in Congress are advancing legislation that would improve health-care transparency.",
-          "link": "https://www.nationalreview.com/2026/10/insurance-reform-is-the-bipartisan-opportunity-washington-should-seize/",
-          "publishedOn": "2026-10-04T10:30:20.000Z",
-          "wordCount": 5871,
-          "title": "Insurance Reform Is the Bipartisan Opportunity Washington Should Seize",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2025/05/medicaid3.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=2049215",
-          "author": "Becket Adams",
-          "description": "Few seem to care that Zohran Mamdani’s wife is unhinged.",
-          "link": "https://www.nationalreview.com/2026/10/rama-duwajis-radicalism-is-the-medias-blind-spot/",
-          "publishedOn": "2026-10-04T10:30:15.000Z",
-          "wordCount": 15160,
-          "title": "Rama Duwaji’s Radicalism Is the Media’s Blind Spot",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/10/rama-duwaji-inauguration.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=2049173",
-          "author": "Noelle Mering",
-          "description": "Our political tribes are replacing our familial ones.",
-          "link": "https://www.nationalreview.com/2026/10/the-false-comfort-of-going-no-contact/",
-          "publishedOn": "2026-10-04T10:30:06.000Z",
-          "wordCount": 6970,
-          "title": "The False Comfort of Going ‘No Contact’",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/10/no-contact-illustration.jpg?fit=2057%2C1200&ssl=1"
         }
       ]
     },
@@ -2201,6 +2181,46 @@
       "feedUrl": "https://sspai.com/feed",
       "siteUrl": "https://sspai.com",
       "articles": [
+        {
+          "id": "https://sspai.com/post/118263",
+          "author": "waychane",
+          "description": "更轻、更薄、更好「看」，依然是那台纯粹的 iPad mini。查看全文",
+          "link": "https://sspai.com/post/118263",
+          "publishedOn": "2026-11-03T14:00:00.000Z",
+          "wordCount": 564,
+          "title": "一眼的熟悉，满眼的惊喜：新款 iPad mini 首发体验",
+          "imageUrl": "https://rssfile.sspai.com/2026/11/2/article/e4d56636-a250-63cd-f56c-0897034a57b5.jpeg?imageMogr2/auto-orient/ignore-error/1"
+        },
+        {
+          "id": "https://sspai.com/post/118317",
+          "author": "Matrix机器人",
+          "description": "手工压花器、二手 TITAN V，以及派友们用开源项目与 AI Coding 替代付费订阅的讨论。查看全文",
+          "link": "https://sspai.com/post/118317",
+          "publishedOn": "2026-11-03T07:12:54.000Z",
+          "wordCount": 750,
+          "title": "社区速递 164 | 1500 元圆梦昔日卡皇与派友们做的 AI 平替",
+          "imageUrl": "https://rssfile.sspai.com/2026/6/30/article/831096df-1239-9d40-8cb1-c42319e8f9f3.png?imageMogr2/auto-orient/ignore-error/1"
+        },
+        {
+          "id": "https://sspai.com/post/118211",
+          "author": "Catho168",
+          "description": "把喜欢的图烧进 CD 里，你也可以。查看全文",
+          "link": "https://sspai.com/post/118211",
+          "publishedOn": "2026-11-03T02:53:50.000Z",
+          "wordCount": 349,
+          "title": "Disc Image Studio：你想不想在光盘上「画」点什么？",
+          "imageUrl": "https://rssfile.sspai.com/11/3/2026/article/49795c61-f795-222f-6702-ab6412a3fcf6.jpeg?imageMogr2/auto-orient/format/webp/ignore-error/1"
+        },
+        {
+          "id": "https://sspai.com/post/118232",
+          "author": "少数派编辑部",
+          "description": "Raspberry Pi 再次上调 16 GB 产品价格、Keychron 推出 Q19 HE 8K 磁轴键盘等。查看全文",
+          "link": "https://sspai.com/post/118232",
+          "publishedOn": "2026-11-03T00:18:34.000Z",
+          "wordCount": 413,
+          "title": "派早报：猛玛推出探境 3 直播相机、美团发布 LongCat-2.5 模型等",
+          "imageUrl": "https://rssfile.sspai.com/02/11/2026/article/68354549-4331-c70f-6ff7-fc440eaf0d41.png?imageMogr2/auto-orient/ignore-error/1"
+        },
         {
           "id": "https://sspai.com/post/118240",
           "author": "少数派编辑部",
@@ -3140,26 +3160,6 @@
           "wordCount": 525,
           "title": "基于 Vaultwarden 和 Keyguard 的自托管密码管理实践",
           "imageUrl": "https://rssfile.sspai.com/2026/10/6/article/545f1362-1a52-26ca-86c1-279aa8a7f56c.jpeg?imageMogr2/auto-orient/ignore-error/1"
-        },
-        {
-          "id": "https://sspai.com/post/114536",
-          "author": "谷雨G2rain",
-          "description": "iOS 27 通知自动化改变了通知的处理方式，快捷指令也迎来了不少的新玩法。查看全文",
-          "link": "https://sspai.com/post/114536",
-          "publishedOn": "2026-10-05T02:59:24.000Z",
-          "wordCount": 442,
-          "title": "十个案例助你轻松上手 iOS 27 通知自动化",
-          "imageUrl": "https://rssfile.sspai.com/2026/09/14/448425af4f0dce4b8d12b0d73e0ae42c.jpeg?imageMogr2/auto-orient/ignore-error/1"
-        },
-        {
-          "id": "https://sspai.com/post/115308",
-          "author": "waychane",
-          "description": "iPhone 18 Pro 也许不会让你感觉焕然一新，却在许多地方都变得更加完整了。查看全文",
-          "link": "https://sspai.com/post/115308",
-          "publishedOn": "2026-10-04T07:58:39.000Z",
-          "wordCount": 607,
-          "title": "方方面面都熟悉，方方面面都更好：iPhone 18 Pro 体验",
-          "imageUrl": "https://rssfile.sspai.com/2026/10/3/article/02658d6a-3f04-6f56-822c-79ca5554281e.jpeg?imageMogr2/auto-orient/ignore-error/1"
         }
       ]
     },
@@ -3168,6 +3168,118 @@
       "feedUrl": "https://plink.anyfeeder.com/idaily/today",
       "siteUrl": "https://idai.ly",
       "articles": [
+        {
+          "id": "idaily-261061",
+          "author": "英国 · 伦敦",
+          "description": "伦敦圣潘克拉斯火车站揭幕2026年圣诞装饰，英国。11月2日，伦敦圣潘克拉斯火车站的年度圣诞树正式亮相，本季设计灵感来自德国传统「圣诞金字塔」（Weihnachtspyramide），共装饰1564盏彩灯，由18名工匠耗时2300小时制作完成。英国政府数据显示2026年上半年 GDP 增长率达1.2%，为七国集团中经济增长最快的国家，主要受到服务业、家庭消费支出和出口增长推动。摄影师：Nicky J. Sims",
+          "link": "https://m.idai.ly/se/3438et",
+          "publishedOn": "2026-11-03T10:59:00.000Z",
+          "wordCount": 259,
+          "title": "伦敦车站迎接圣诞节 - November 3, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/de767e331b/bd433313.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/de767e331b/bd433313.jpg"
+        },
+        {
+          "id": "idaily-261060",
+          "author": "日本 · 佐贺县",
+          "description": "日本唐津市举行「唐津宫日祭」（Karatsu Kunchi）花车巡游庆典，佐贺县。11月2日，日本九州地区迎来一年一度的「唐津宫日祭」，该节日的历史可追溯至17世纪江户时代，旨在庆祝秋季大丰收。本年度共有14辆巨型花车参加巡游，庆典活动将持续至11月4日，预计吸引超过50万人观看。日本央行最新发布《经济与物价形势展望报告》宣布已基本达成2%通胀目标，并将2026年日本 GDP 增长预期从0.6%上调至0.7%。摄影师：Koichi Nagano",
+          "link": "https://m.idai.ly/se/504e2y",
+          "publishedOn": "2026-11-03T09:58:00.000Z",
+          "wordCount": 259,
+          "title": "日本唐津宫日祭巡游 - November 3, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/19a4aad0a7/b701f8a9.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/19a4aad0a7/b701f8a9.jpg"
+        },
+        {
+          "id": "idaily-261059",
+          "author": "中国 · 北京",
+          "description": "中国国家主席习近平与阿曼苏丹 Haitham bin Tariq 出席双边文件签署仪式，北京。11月1日，阿曼苏丹 Haitham 应邀对中国进行为期2天国事访问。这是阿曼国家元首自中阿建交48年以来首次访华，两国领导人就中阿关系、经贸合作、中东局势等议题交换意见，发表关于深化中阿战略伙伴关系的联合声明，并见证签署北斗卫星导航、数字金融等领域16项合作文件。双方同意深化共建「一带一路」倡议和阿曼「2040愿景」战略对接，持续拓展两国各领域务实合作，推动尽早达成中海自由贸易协定。中国是阿曼最大的贸易伙伴，2026年1至9月双边贸易额达219.06亿美元，同比下降-8.8%。摄影师：Tingshu Wang",
+          "link": "https://m.idai.ly/se/710jqx",
+          "publishedOn": "2026-11-03T09:57:00.000Z",
+          "wordCount": 259,
+          "title": "阿曼苏丹访问中国 - November 3, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/0b0dd3f852/3db79939.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/0b0dd3f852/3db79939.jpg"
+        },
+        {
+          "id": "idaily-261058",
+          "author": "韩国 · 首尔",
+          "description": "韩国总统李在明就2027年度预算案向国会发表演讲，首尔。11月2日，韩国总统李在明在演讲中详细阐述2027年预算案内容及经济政策，他强调必须从「少数人受益的增长」转变为「全民共享的增长」，将政府税收投入青年就业、未来增长引擎、地方发展、人才培养4大领域。2027年韩国政府预算案总额达820.9万亿韩元（约合5600亿美元），同比增长12.8%；国防预算同比增长8.2%至73.3万亿韩元（约合545亿美元），半导体与人工智能领域投资额为21.3万亿韩元（约合158亿美元）。摄影师：Lee Jin-man",
+          "link": "https://m.idai.ly/se/dabLlb",
+          "publishedOn": "2026-11-03T09:55:00.000Z",
+          "wordCount": 259,
+          "title": "李在明发表预算案演讲 - November 3, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/87345a6ee7/2d38f673.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/87345a6ee7/2d38f673.jpg"
+        },
+        {
+          "id": "idaily-261057",
+          "author": "德国 · 柏林",
+          "description": "德国总理 Friedrich Merz 在2026年德国数字峰会期间与一台人形机器人互动，柏林。11月2日，德国数字峰会在柏林会议中心开幕，本届主题为「塑造人工智能：安全、主权、竞争力」，共有来自28个国家的逾1200名政界、商界及科研界代表出席，聚焦讨论人工智能安全、提升欧洲AI竞争力、实现技术独立等议题。当天德国政府公布一项包括18项措施的人工智能计划，目标至2030年成为「人工智能强国」，提高人工智能技术在大型企业的普及率至80%、中小企业至55%。摄影师：Kay Nietfeld",
+          "link": "https://m.idai.ly/se/74eKcL",
+          "publishedOn": "2026-11-03T09:53:00.000Z",
+          "wordCount": 259,
+          "title": "2026柏林数字峰会 - November 3, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/5ef9ff3c8f/342602a2.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/5ef9ff3c8f/342602a2.jpg"
+        },
+        {
+          "id": "idaily-261056",
+          "author": "中国 · 山东省",
+          "description": "首届CMG世界机器人登泰山大赛，一台「银毅NE01」人形机器人正在攀爬泰山步道，山东省。11月2日，首届CMG世界机器人登泰山大赛在泰山景区开赛，共有90支队伍参赛，设置竞速赛与专项赛两大类别，包含人形机器人竞速、足式机器人竞速、足式机器人负重、外骨骼机器人助力4个正式赛项及全域机动探路挑战赛。人形机器人竞速赛全程约1.6公里、共600余级台阶。北京智身科技研发的「银毅NE01」机器人以27分26秒的成绩赢得本届人形机器人竞速赛冠军。摄影师：iDaily Media",
+          "link": "https://m.idai.ly/se/bbc61h",
+          "publishedOn": "2026-11-03T09:51:00.000Z",
+          "wordCount": 259,
+          "title": "首届机器人登泰山大赛开赛 - November 3, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/fd56e91e20/3596c242.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/fd56e91e20/3596c242.jpg"
+        },
+        {
+          "id": "idaily-261055",
+          "author": "哈萨克斯坦 · 阿拉木图州",
+          "description": "哈萨克斯坦伊犁-巴尔喀什国家自然保护区，一只成年雄性阿穆尔虎被放归野外，阿拉木图州。11月2日，哈萨克斯坦生态与自然资源部宣布俄罗斯赠送的第2只阿穆尔虎已成功放归至国家自然保护区，研究人员将通过卫星定位项圈追踪这只老虎的活动轨迹和环境适应情况。为帮助哈萨克斯坦恢复野外老虎种群，俄罗斯共向哈萨克斯坦赠送了4只阿穆尔虎，包括1只成年雌虎、1只成年雄虎和2只幼虎，预计在2027年春季前全部完成野放。摄影师：Amur Tiger Centre",
+          "link": "https://m.idai.ly/se/52111C",
+          "publishedOn": "2026-11-03T09:49:00.000Z",
+          "wordCount": 259,
+          "title": "哈萨克斯坦重建老虎种群 - November 3, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/a940ffcaa8/5b23093b.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/a940ffcaa8/5b23093b.jpg"
+        },
+        {
+          "id": "idaily-261006",
+          "author": null,
+          "description": "常玉这幅《曲膝仰卧裸女Ⅱ》创作于1950至1960年代，画家以简劲线条融东方山水意趣，重塑西方裸女主题，是其晚年极具代表性的现代主义杰作。此作来源明确且收录于众多重要画集，并曾借展于台北历史博物馆与巴黎吉美亚洲艺术博物馆，深具鉴赏与收藏价值。中国嘉德2026秋拍-北京·11月。",
+          "link": "https://m.idai.ly/se/f50JGJ",
+          "publishedOn": "2026-11-03T06:59:00.000Z",
+          "wordCount": 262,
+          "title": "中国嘉德2026秋拍亮点 · 常玉《曲膝仰卧裸女Ⅱ》 - November 3, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/2660984114/688a23a6.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/2660984114/688a23a6.jpg"
+        },
         {
           "id": "idaily-260971",
           "author": "美国 · 纽约",
@@ -5939,90 +6051,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://pic.yupoo.com/fotomag/a2b95544a7/a4dac6a3.jpg"
-        },
-        {
-          "id": "idaily-259425",
-          "author": "德国 · 不来梅",
-          "description": "德国不来梅市举行「德国统一日」（German Unity Day）官方庆祝活动，不来梅州。10月3日，德国迎来第36个「德国统一日」，本年度官方庆祝活动主题为「众力汇聚，共筑一国」（Many Strengths—One Country），该节日旨在纪念1990年10月3日东德正式并入西德，两德实现国家统一。德国经济研究所最新报告指出，2025年东德5个联邦州的综合经济发展水平为西德地区的79%，该指数在过去5年长期在78%至79%之间徘徊，未能突破80%瓶颈，表明东西德的经济融合进程已陷入停滞状态。摄影师：Sina Schuldt",
-          "link": "https://m.idai.ly/se/79eAU9",
-          "publishedOn": "2026-10-04T11:19:00.000Z",
-          "wordCount": 276,
-          "title": "德国庆祝第36个统一日 - October 4, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/535fc6c727/7c825e29.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/535fc6c727/7c825e29.jpg"
-        },
-        {
-          "id": "idaily-259424",
-          "author": "日本 · 名古屋",
-          "description": "2026年爱知·名古屋亚运会，中国队赢得艺术体操集体全能金牌，名古屋市综合体育馆。10月3日，中国队选手丁欣怡、刘妙婷、蒲彦竹、王澜静、张馨艺以55.300分的总成绩夺得艺术体操集体全能冠军。艺术体操集体全能在本届亚运会首次被列入正式比赛项目，中国队为该项目的首个亚运冠军。中国队在第20届亚运会第14个比赛日共夺得7金8银10铜，最终以169金89银83铜共计341枚奖牌的成绩圆满收官，蝉联金牌榜和奖牌榜双榜第一，并创下境外参加亚运会的历史最佳战绩。摄影师：Edgar Su",
-          "link": "https://m.idai.ly/se/4a4yI1",
-          "publishedOn": "2026-10-04T10:58:00.000Z",
-          "wordCount": 276,
-          "title": "中国蝉联亚运会金牌榜第一 - October 4, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/342bf5ce75/3625da46.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/342bf5ce75/3625da46.jpg"
-        },
-        {
-          "id": "idaily-259423",
-          "author": "希腊 · 塞萨洛尼基",
-          "description": "希腊拜占庭文化博物馆举行文物移交仪式，一件保加利亚归还给希腊的东正教圣物正在展出，塞萨洛尼基。10月3日，希腊与保加利亚政府在塞萨洛尼基举行文物移交仪式，保加利亚向希腊归还48件第一次世界大战期间从希腊修道院掠夺的东正教圣物，包括圣像、十字架、宗教礼仪器皿等，希腊向保加利亚移交中世纪保加利亚第一帝国统治者「萨缪尔沙皇」（Tsar Samuel）的遗骸。这批东正教圣物将在希腊拜占庭文化博物馆展出至11月5日，然后根据历史溯源归还原修道院。摄影师：Achilleas Chiras",
-          "link": "https://m.idai.ly/se/44cdZ8",
-          "publishedOn": "2026-10-04T09:57:00.000Z",
-          "wordCount": 276,
-          "title": "希腊保加利亚相互归还文物 - October 4, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/e820c22d5c/a6534327.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/e820c22d5c/a6534327.jpg"
-        },
-        {
-          "id": "idaily-259421",
-          "author": "法国 · 巴黎",
-          "description": "巴黎 2027 春夏时装周 Hermès 秀场，模特们正在展示品牌女装艺术总监 Nadège Vanhée 的新一季时装作品，巴黎共和国卫队总部。本季时装作品以「空气之形」（The Shape of Air）为主题，设计师采用轻薄的镂空针织、皮革网纱、真丝绉绸、超细腻小牛皮等材质营造轻盈律动的质感，并在风衣、裙摆和裤装中加入可调节廓形的拉链设计，赋予时装以雕塑感的垂坠线条和灵动自如的动态之美。摄影师：Victor Virgile",
-          "link": "https://m.idai.ly/se/b6aaj9",
-          "publishedOn": "2026-10-04T09:55:00.000Z",
-          "wordCount": 277,
-          "title": "Hermès 2027春夏女装秀 - October 4, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/549fa3d221/cd282851.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/549fa3d221/cd282851.jpg"
-        },
-        {
-          "id": "idaily-259416",
-          "author": "巴西 · 伊兰杜巴",
-          "description": "从空中俯瞰亚马逊雨林的一处野火起火点，巴西。10月1日，巴西国家空间研究所（INPE）公布2026年9月亚马逊地区共发生12562起森林火灾，同比增长74.2%。本年度亚马逊雨林火灾大幅上升的主要原因是厄尔尼诺现象导致的高温干旱，2026年初迄今累计烧毁森林面积已超过160万公顷。世界气象组织预计本轮厄尔尼诺现象将在2027年底达到峰值，亚马逊雨林的干旱和野火灾情可能进一步加剧。摄影师：Michael Dantas",
-          "link": "https://m.idai.ly/se/c58NQb",
-          "publishedOn": "2026-10-04T09:53:00.000Z",
-          "wordCount": 276,
-          "title": "亚马逊雨林火灾加剧 - October 4, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/7d4af430cc/e25142df.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/7d4af430cc/e25142df.jpg"
-        },
-        {
-          "id": "idaily-259415",
-          "author": "阿根廷 · 马德林港",
-          "description": "一群海鸟正在啄食一只死去的南露脊鲸（southern right whale），阿根廷马德林港海域。10月1日，阿根廷政府宣布将对近期出现的南露脊鲸幼鲸异常大规模死亡事件进行调查。6月迄今阿根廷南部巴塔哥尼亚沿岸已发现数百只死亡的南露脊鲸幼鲸，海洋专家初步分析认为该事件可能与海鸟啄伤幼鲸导致的细菌感染有关。海水升温和厄尔尼诺现象导致海洋细菌毒性增强，更容易在幼鲸表皮的伤口滋生，足以破坏免疫系统并导致其死亡。摄影师：Maxi Jonas",
-          "link": "https://m.idai.ly/se/db914X",
-          "publishedOn": "2026-10-04T09:51:00.000Z",
-          "wordCount": 276,
-          "title": "阿根廷沿海幼鲸异常死亡 - October 4, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/7d96e7145c/88ed16b6.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/7d96e7145c/88ed16b6.jpg"
         }
       ]
     },
@@ -6031,6 +6059,56 @@
       "feedUrl": "https://plink.anyfeeder.com/nytimes/dual",
       "siteUrl": "http://nytimes.com",
       "articles": [
+        {
+          "id": "https://cn.nytimes.com/opinion/20261103/trump-taiwan-china/dual",
+          "author": null,
+          "description": "CRAIG SINGLETON2026年11月3日 Cleon Peterson\nPresident Trump’s decision to hold back a $14 billion arms package for Taiwan makes a certain amount of diplomatic sense.\n特朗普总统决定暂缓向台湾提供价值140亿美元的武器计划，从外交角度来看确实有其合理之处。\nAfter last year’s bruising trade war, Washington and Beijing are trying to preserve a fragile tariff truce while negotiating a broader set of economic agreements. Delaying the arms sale avoids adding another immediate source of friction to an already strained relationship.\n在经历了去年激烈的贸易战之后，华盛顿和北京正试图维持脆弱的关税休战，同时谈判达成更广泛的经济协议。推迟军售可以避免给已经紧张的双边关系增加另一个直接的摩擦源。\nBut avoiding a confrontation over Taiwan today could set the stage for a far more dangerous one tomorrow.\n但是，今天避免在台湾问题上发生对抗可能为明天更危险的对抗埋下伏笔。\nFor decades, the United States and China have managed their differences over Taiwan through carefu…",
+          "link": "https://cn.nytimes.com/opinion/20261103/trump-taiwan-china/dual",
+          "publishedOn": "2026-11-03T05:36:03.000Z",
+          "wordCount": 1145,
+          "title": "特朗普推迟对台军售为何危险",
+          "imageUrl": "https://static01.nyt.com/images/2026/10/20/opinion/20singleton/20singleton-articleLarge.png"
+        },
+        {
+          "id": "https://cn.nytimes.com/china/20261103/chinas-message-to-its-rivals-you-need-what-we-make/dual",
+          "author": null,
+          "description": "DAVID PIERSON, BERRY WANG2026年11月3日一台盾构机正在中国一家工厂组装。北京近期采取行动，管制数十项技术的出口，其中包括这类机器。 CHINATOPIX, via Associated Press\nThey are among the biggest machines in the world: steel cylinders, some as long as a football field, armed with rotating discs that can chew through rock to clear the way for roads and railways. Known as tunnel boring machines, they are made by only a handful of companies, mostly in factories in China.\n它们是世界上最大的机器之一：有些长度堪比一座足球场，钢制筒形机身配备了旋转刀盘，能够切削岩石，为公路和铁路开辟通道。这种机器被称为盾构机，全球只有少数几家企业能够制造，且大多在中国的工厂生产。 \nIndia uses them to dig tunnels, including in the Himalayas, to improve its ability to send troops to defend its contested border with China. But starting next month, Beijing is likely to be able to control whether India gets to buy them.\n印度用它们来挖掘隧道，包括在喜马拉雅山地区，以提升向与中国存在争议的边境投送兵力、进行防卫的…",
+          "link": "https://cn.nytimes.com/china/20261103/chinas-message-to-its-rivals-you-need-what-we-make/dual",
+          "publishedOn": "2026-11-03T04:06:02.000Z",
+          "wordCount": 1626,
+          "title": "中国技术出口管制升级：利用工业优势构建经济武器库",
+          "imageUrl": "https://static01.nyt.com/images/2026/11/02/multimedia/02int-china-export-controls-01-pqvb/02int-china-export-controls-01-pqvb-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/business/20261103/malaysia-data-center-china/dual",
+          "author": null,
+          "description": "ADAM SATARIANO, XINYUN WU2026年11月3日 Ulet Ifansasti for The New York Times\nAcross a stretch of southern Malaysia once carpeted with palm-oil and pineapple plantations, signs of China’s global technology ambitions are taking shape.\n在马来西亚南部一片曾遍布棕榈和菠萝种植园的地带，中国全球科技野心的迹象正在显现。\nMore than 15 cranes tower over 100 acres of excavated earth, where DayOne, a company with corporate roots in one of China’s biggest data center operators, is building a sprawling complex. A short drive away, at the edge of dense tropical forest, hundreds of workers are completing another facility expected to serve Chinese tech companies.\n超过15台起重机矗立在约40公顷已开挖土地上，DayOne正在这里建造一座庞大的综合设施，这家公司的企业渊源可追溯至中国最大的数据中心运营商之一。不远处的茂密热带森林边缘，数百名工人正在完成另一座预计服务于中国科技公司的设施。\nInside these data centers will be some of the world’s most advanced artific…",
+          "link": "https://cn.nytimes.com/business/20261103/malaysia-data-center-china/dual",
+          "publishedOn": "2026-11-03T03:06:03.000Z",
+          "wordCount": 1457,
+          "title": "全球人工智能热潮中的“黑马”：马来西亚",
+          "imageUrl": "https://static01.nyt.com/images/2026/10/30/multimedia/Biz-Malaysia-Video-Still-bvqt/Biz-Malaysia-Video-Still-bvqt-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/usa/20261103/midterms-election-2026-senate-house-congress/dual",
+          "author": null,
+          "description": "TIM BALK2026年11月3日周五，迈阿密选举总部进行的提前投票。 Ruth Fremson/The New York Times\nThe United States has reached the midterm elections, and voters will have an opportunity to deliver a judgment on the country’s direction two years into President Trump’s second term.\n美国已进入中期选举，在特朗普总统第二任期开始两年之际，选民将有机会对国家的未来方向作出评判。\nMr. Trump enters the midterms on Tuesday with his approval rating near its lowest level ever, dragged down by the unpopular war in Iran and rising consumer prices that have outpaced wages and left many Americans struggling to cover their basic needs.\n特朗普周二迎来中期选举时，其支持率接近历史最低水平，这主要是因为不受欢迎的伊朗战争以及不断上涨的消费价格。物价涨幅超过工资增长，使许多美国人难以负担基本生活需求。\nThe president’s diminished standing and the country’s gloomy mood have given Democrats hope that voters will hand them majorities in Congress, which is controlled by R…",
+          "link": "https://cn.nytimes.com/usa/20261103/midterms-election-2026-senate-house-congress/dual",
+          "publishedOn": "2026-11-03T02:36:02.000Z",
+          "wordCount": 1155,
+          "title": "一文读懂美国中期选举：两党各持何种立场，选情如何",
+          "imageUrl": "https://static01.nyt.com/images/2026/11/02/multimedia/02pol-midterms-explainer-01-mcjg/02pol-midterms-explainer-01-mcjg-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/opinion/20261103/us-china-ai-manufacturing-exports-weapons/dual",
+          "author": null,
+          "description": "托马斯·弗里德曼2026年11月3日 Jason Allen Lee\nAt Beijing Capital International Airport, it is now required after landing to send carry-on bags through a scanner before leaving the arrivals building. As I approached the scanner belt with my bags, though, I saw a sign that I had never encountered before: Any passenger carrying a drone has to remove and declare it. A Chinese security officer pointed directly to the sign to confirm that I had no drones in my bag. I shook my head no. I don’t usually travel with a drone.\n在北京首都国际机场，现在规定，乘客落地后，必须先将随身行李过安检机扫描，然后才能离开到达大厅。然而，当我提着行李走向安检传送带时，看到了一个我从未见过的标志：任何携带无人机的乘客都必须将其取出并申报。一名中国安检人员直接指着那个标志，确认我的行李中是否携带无人机。我摇头表示没有。我通常不带无人机旅行。\nThat sign was not the only new thing I saw on this trip. It was one of many. Having traveled to China regularly since the early 1990s, I f…",
+          "link": "https://cn.nytimes.com/opinion/20261103/us-china-ai-manufacturing-exports-weapons/dual",
+          "publishedOn": "2026-11-02T23:36:02.000Z",
+          "wordCount": 4732,
+          "title": "人工智能时代，美中关系将迎来重大变革",
+          "imageUrl": "https://static01.nyt.com/images/2026/11/02/opinion/02friedman-image/02friedman-image-articleLarge.png"
+        },
         {
           "id": "https://cn.nytimes.com/china/20261102/china-tiananmen-kristof/dual",
           "author": null,
@@ -7099,6 +7177,36 @@
       "siteUrl": "http://weixin.sogou.com/weixin?type=1&s_from=input&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A",
       "articles": [
         {
+          "id": "65a2bd2fcc9eab7b980089740e514d08",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E5%85%AD%E5%B9%B4%E7%A3%A8%E4%B8%80%E5%89%91%EF%BC%8C%E5%85%B3%E4%BA%8E%E4%B8%8D%E6%80%A5%E7%9D%80%E5%87%BA%E7%89%88%E7%9A%84%E9%82%A3%E5%A5%97%E4%B9%A6",
+          "publishedOn": "2026-11-03T02:00:00.000Z",
+          "wordCount": 295,
+          "title": "六年磨一剑，关于不急着出版的那套书",
+          "imageUrl": null
+        },
+        {
+          "id": "5e9aa1eab19668608522479440482c6e",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E8%AF%9D%E5%88%B0%E5%98%B4%E8%BE%B9%E6%83%B3%E4%B8%8D%E8%B5%B7%E6%9D%A5%EF%BC%8C%E7%9C%9F%E6%80%A5%E4%BA%BA%E5%95%8A%E2%80%A6%E2%80%A6",
+          "publishedOn": "2026-11-03T02:00:00.000Z",
+          "wordCount": 289,
+          "title": "话到嘴边想不起来，真急人啊……",
+          "imageUrl": null
+        },
+        {
+          "id": "e1f403ead9884d47efcd7d4ce1ca642e",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E7%BB%98%E6%9C%AC%E4%BD%9C%E5%AE%B6%E7%81%B5%E6%84%9F%E9%99%8D%E4%B8%B4%E7%9A%84%E9%82%A3%E4%B8%80%E5%88%BB%E2%80%A6%E2%80%A6%EF%BD%9C%E5%A4%A7%E5%90%B4%E5%88%9B%E4%BD%9C%E6%89%8B%E8%AE%B0",
+          "publishedOn": "2026-11-03T02:00:00.000Z",
+          "wordCount": 297,
+          "title": "绘本作家灵感降临的那一刻……｜大吴创作手记",
+          "imageUrl": null
+        },
+        {
           "id": "185b095ef84c541f25e70aa59323bb5e",
           "author": null,
           "description": "",
@@ -7966,16 +8074,6 @@
           "publishedOn": "2026-10-06T02:00:00.000Z",
           "wordCount": 298,
           "title": "两猫一狗，我夹在中间，成了幸福的汉堡包",
-          "imageUrl": null
-        },
-        {
-          "id": "13aec8cba5aa2785a80a9e093bf7be8d",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E5%A6%82%E6%9E%9C%E6%88%91%E4%BB%AC%E9%83%BD%E6%B2%A1%E6%9C%89%E9%94%99%EF%BC%8C%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BF%98%E6%98%AF%E6%97%A0%E6%B3%95%E8%BE%BE%E6%88%90%E5%85%B1%E8%AF%86%EF%BC%9F",
-          "publishedOn": "2026-10-05T02:18:00.000Z",
-          "wordCount": 301,
-          "title": "如果我们都没有错，为什么还是无法达成共识？",
           "imageUrl": null
         }
       ]
