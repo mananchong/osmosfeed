@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mananchong.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-03T15:25:57.771Z</updated>
+    <updated>2026-11-03T21:54:19.950Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mananchong.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://mananchong.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Britain Owes No One an Apology]]></title>
+        <id>https://www.nationalreview.com/?p=2071128</id>
+        <link href="https://www.nationalreview.com/2026/11/britain-owes-no-one-an-apology/"/>
+        <updated>2026-11-03T21:33:00.000Z</updated>
+        <summary type="html"><![CDATA[Slavery was a universal phenomenon, and Britain, honorably and at great personal cost, was a major contributor to its extinction.]]></summary>
+        <author>
+            <name>Rich Lowry</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[To the Bitter End, Trump Has Been the Author of His Own Ruin]]></title>
+        <id>https://www.nationalreview.com/?p=2070947</id>
+        <link href="https://www.nationalreview.com/2026/11/to-the-bitter-end-trump-has-been-the-author-of-his-own-ruin/"/>
+        <updated>2026-11-03T15:33:42.000Z</updated>
+        <summary type="html"><![CDATA[It’s a perversely Nietzschean triumph of the will.]]></summary>
+        <author>
+            <name>Jeffrey Blehar</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一眼的熟悉，满眼的惊喜：新款 iPad mini 首发体验]]></title>
         <id>https://sspai.com/post/118263</id>
