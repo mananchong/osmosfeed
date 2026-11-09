@@ -6,6 +6,16 @@
       "siteUrl": "https://rweekly.org/atom.xml",
       "articles": [
         {
+          "id": "https://rweekly.org/2026-W46.html",
+          "author": null,
+          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Jonathan Carroll, with help from the R Weekly team members and contributors.\nHighlight\nmizu: thread-speed parallel R and Python over shared memory\nBring your own agent to Positron with the Positron MCP\nModelling cell-type proportions in repeated-measures designs with sccomp: a TMA case study\nInsights\nInteractive, reproducible figures inside teal\nSAS to R: Why R, and Where Your Migration Budget Should Go\nAgents in Production: Build Your First AI Agent in R with {ellmer}\nR Consortium Awards Second Round of 2026 Technical Grants\nPostal codes and tessellations\nBring your own agent to Positron with the Positron MCP\nposit::glimpse() Newsletter – November 2026\nWhat’s New in R: Nove…",
+          "link": "https://rweekly.org/2026-W46.html",
+          "publishedOn": "2026-11-09T00:00:00.000Z",
+          "wordCount": 6319,
+          "title": "R Weekly 2026-W46 Mizu, MCP, Modelling",
+          "imageUrl": "https://rweekly.org/public/facebook.png"
+        },
+        {
           "id": "https://rweekly.org/2026-W45.html",
           "author": null,
           "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Jonathan Kitt, with help from the R Weekly team members and contributors.\nHighlights\nIntroducing safeconduct and r2parquet\nHow to make interactive charts you can email\nOn message and on brand: conversation-starting dataviz with R and ggplot2\nInsights\nIntroducing safeconduct and r2parquet\nOn message and on brand: conversation-starting dataviz with R and ggplot2\nR in Organizations\nRoche Open-Source TLG Packages Move to pharmaverse\nTutorials\nTen great R functions #4\nHow to make interactive charts you can email\nTidyTuesday 2026/43\n\nResources\nWhat’s New in R: October 26, 2026\nNew Packages\n📦 Go Live for More New Pkgs 📦\n -->\n📦 Keep up to date wtih CRANberries 📦\nCRAN\n{OECDdata} …",
@@ -64,6 +74,76 @@
       "feedUrl": "https://www.nationalreview.com/feed/",
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
+        {
+          "id": "https://www.nationalreview.com/?p=2074914",
+          "author": "Andrew C. McCarthy",
+          "description": "There is a significant chance that one or more articles will be approved.",
+          "link": "https://www.nationalreview.com/2026/11/hegseth-impeachment-vote-imminent/",
+          "publishedOn": "2026-11-09T16:24:57.000Z",
+          "wordCount": null,
+          "title": "Hegseth Impeachment Vote Imminent",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=2074890",
+          "author": "David L. Bahnsen",
+          "description": "The GOP will continue to suffer at the polls until it focuses on building this type of society once again.",
+          "link": "https://www.nationalreview.com/2026/11/midterm-mayhem-for-the-free-and-virtuous-society/",
+          "publishedOn": "2026-11-09T15:29:24.000Z",
+          "wordCount": null,
+          "title": "Midterm Mayhem for the Free and Virtuous Society",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=2073562",
+          "author": "Inez Feltscher Stepman",
+          "description": "The turning point was 1991.",
+          "link": "https://www.nationalreview.com/2026/11/the-legal-origin-story-of-wokeness-is-a-map-to-defeating-woke-2-0/",
+          "publishedOn": "2026-11-09T11:30:33.000Z",
+          "wordCount": null,
+          "title": "The Legal Origin Story of Wokeness Is a Map to Defeating Woke 2.0",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=2074125",
+          "author": "Rebeccah Heinrichs",
+          "description": "As negotiations approach, it’s clear that Russia is not reasonable, and its victory on the battlefield is not a foregone conclusion.",
+          "link": "https://www.nationalreview.com/2026/11/the-u-s-must-reject-russian-narratives-on-ukraine/",
+          "publishedOn": "2026-11-09T11:30:29.000Z",
+          "wordCount": null,
+          "title": "The U.S. Must Reject Russian Narratives on Ukraine",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=2074481",
+          "author": "Kathryn Jean Lopez",
+          "description": "It’s more enduring than last Tuesday.",
+          "link": "https://www.nationalreview.com/2026/11/pope-leos-victory-tour/",
+          "publishedOn": "2026-11-09T11:30:15.000Z",
+          "wordCount": null,
+          "title": "Pope Leo’s Victory Tour",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=2073860",
+          "author": "The Editors",
+          "description": "Whether or not the $3.8 billion in military assistance continues, it would be a strategic blunder to abandon Israel.",
+          "link": "https://www.nationalreview.com/2026/11/the-aid-to-israel-question-is-a-red-herring/",
+          "publishedOn": "2026-11-09T11:30:09.000Z",
+          "wordCount": null,
+          "title": "The Aid-to-Israel Question Is a Red Herring",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=2074083",
+          "author": "Daniel J. Samet and Danielle Pletka",
+          "description": "With the retirement of three congressional titans, the belief in American global leadership takes a hit.",
+          "link": "https://www.nationalreview.com/2026/11/the-last-internationalists/",
+          "publishedOn": "2026-11-09T11:30:09.000Z",
+          "wordCount": null,
+          "title": "The Last Internationalists",
+          "imageUrl": null
+        },
         {
           "id": "https://www.nationalreview.com/?p=2073612",
           "author": "Becket Adams",
@@ -2033,56 +2113,6 @@
           "wordCount": 6766,
           "title": "When Terrorism Was First Fashionable",
           "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/10/terrorism.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=2053956",
-          "author": "Itxu Díaz",
-          "description": "The last far-left government in Europe may be on its way out.",
-          "link": "https://www.nationalreview.com/2026/10/why-we-spaniards-want-to-oust-pedro-sanchez/",
-          "publishedOn": "2026-10-10T10:30:40.000Z",
-          "wordCount": 7047,
-          "title": "Why We Spaniards Want to Oust Pedro Sánchez",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/04/sanches-spain.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=2053878",
-          "author": "Andrew C. McCarthy",
-          "description": "When the rule of law gives way to ideological passions and partisan score-settling, then we no longer have trials worthy of the name.",
-          "link": "https://www.nationalreview.com/2026/10/the-cornell-seven-and-the-revolution/",
-          "publishedOn": "2026-10-10T10:30:38.000Z",
-          "wordCount": 6361,
-          "title": "The Cornell Seven and the Revolution",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/10/james-cornell.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=2053918",
-          "author": "Inez Feltscher Stepman",
-          "description": "A ‘no’ is harder to deliver now that it’s no longer backed by the force of social convention. But it’s still powerful.",
-          "link": "https://www.nationalreview.com/2026/10/whatever-happened-to-saying-no/",
-          "publishedOn": "2026-10-10T10:30:18.000Z",
-          "wordCount": 6334,
-          "title": "Whatever Happened to Saying No?",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/10/cornell-1-1.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=2051899",
-          "author": "John R. Puri",
-          "description": "A novel framework for conservative monetary policy.",
-          "link": "https://www.nationalreview.com/2026/10/let-markets-determine-the-money-supply/",
-          "publishedOn": "2026-10-10T10:30:16.000Z",
-          "wordCount": 7542,
-          "title": "Let Markets Determine the Money Supply",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2023/06/Fed-Reserve-5.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=2054092",
-          "author": "Brian T. Allen",
-          "description": "The new Theodore Roosevelt Library tells a gripping story, but will woke kooks hijack it?",
-          "link": "https://www.nationalreview.com/2026/10/the-colonel-in-mourning-glory-and-decline/",
-          "publishedOn": "2026-10-10T10:30:11.000Z",
-          "wordCount": 8488,
-          "title": "The Colonel in Mourning, Glory, and Decline",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/10/teddy.jpg?fit=2057%2C1200&ssl=1"
         }
       ]
     },
@@ -2091,6 +2121,66 @@
       "feedUrl": "https://sspai.com/feed",
       "siteUrl": "https://sspai.com",
       "articles": [
+        {
+          "id": "https://sspai.com/post/118833",
+          "author": "少数派编辑部",
+          "description": ">下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文",
+          "link": "https://sspai.com/post/118833",
+          "publishedOn": "2026-11-09T10:27:59.000Z",
+          "wordCount": 622,
+          "title": "派评 | 近期值得关注的 App",
+          "imageUrl": "https://rssfile.sspai.com/2026/11/9/article/48234801-eabc-6723-fe63-d129680ae44b.png?imageMogr2/auto-orient/ignore-error/1"
+        },
+        {
+          "id": "https://sspai.com/post/118799",
+          "author": "福利派",
+          "description": "多款付费栏目和正版软件上新，以及口碑、质量都非常优秀的现有产品优惠活动，快来看看有没有你需要的吧。查看全文",
+          "link": "https://sspai.com/post/118799",
+          "publishedOn": "2026-11-09T08:24:03.000Z",
+          "wordCount": 1204,
+          "title": "双十一 | 少数派会员、正版软件、付费栏目限时优惠",
+          "imageUrl": "https://rssfile.sspai.com/11/8/2026/article/e6fbebdf-451c-fc9e-dc0a-a66f8e45fce9.png?imageMogr2/auto-orient/ignore-error/1"
+        },
+        {
+          "id": "https://sspai.com/post/118227",
+          "author": "一只兔子先生",
+          "description": "本文是少数派联合Sonos发起的SonosPlay众测活动（第二期）「最佳体验官」奖项获奖文章，奖品为免费保留送测的SonosAceUltra。除本文外，本期获得优秀体验官的作者及文章是：mivans ...查看全文",
+          "link": "https://sspai.com/post/118227",
+          "publishedOn": "2026-11-09T07:40:22.000Z",
+          "wordCount": 462,
+          "title": "一家人的客厅，和一个人的深夜 — Sonos Beam Ultra 与 Ace Ultra 体验",
+          "imageUrl": "https://rssfile.sspai.com/2026/11/02/6f0a39490d913e87dcf5981d0d5177e0.JPG?imageMogr2/auto-orient/ignore-error/1"
+        },
+        {
+          "id": "https://sspai.com/post/118029",
+          "author": "时光旅行者",
+          "description": "2026 年 11 月 9 日是第 35 个全国消防日。我们来学点消防知识。查看全文",
+          "link": "https://sspai.com/post/118029",
+          "publishedOn": "2026-11-09T07:02:44.000Z",
+          "wordCount": 251,
+          "title": "天花板上的白色盒子，是怎样保护我们的安全的？",
+          "imageUrl": "https://rssfile.sspai.com/2026/10/31/94b13a0dd5b73fbdcd8e514540b89161.jpeg?imageMogr2/auto-orient/ignore-error/1"
+        },
+        {
+          "id": "https://sspai.com/post/118612",
+          "author": "水獭Store",
+          "description": "从墨水屏到手机壳，从磁吸信息屏到CD播放器，这些看似平常的数码产品，经过一些新的设计和尝试，也能带来不太一样的使用体验。今年双十一，各大平台的促销活动陆续开始，不过满减、凑单等规则可能还是有些繁琐。所 ...查看全文",
+          "link": "https://sspai.com/post/118612",
+          "publishedOn": "2026-11-09T03:00:00.000Z",
+          "wordCount": 441,
+          "title": "双十一好物精选：Sonos Play 85 折送充电套装，CD 机加赠透明面盖",
+          "imageUrl": "https://rssfile.sspai.com/2026/11/06/b0e118eb4cdc777726b7e338a073f497.png?imageMogr2/auto-orient/ignore-error/1"
+        },
+        {
+          "id": "https://sspai.com/post/118805",
+          "author": "少数派编辑部",
+          "description": "特斯拉将停产 Cybertruck\n深圳在 APEC 前夕整顿非法市场\n美国数据中心股持续遭抛售，大量建设项目被取消\n京津冀三地消协组织敦促航司、平台规范机票退改签\nFBI 警告冰柜网络安全攻击风险\n广电总局部署开展新一轮微短剧专项治理工作\n看看就行的简讯\n少数派的近期动态\n你可能错过的好文章\n查看全文",
+          "link": "https://sspai.com/post/118805",
+          "publishedOn": "2026-11-08T22:41:56.000Z",
+          "wordCount": 384,
+          "title": "派早报：特斯拉将停产 Cybertruck",
+          "imageUrl": "https://rssfile.sspai.com/11/9/2026/article/426b99a1-400b-d2af-0207-6fbb0087a3ce.png?imageMogr2/auto-orient/format/webp/ignore-error/1"
+        },
         {
           "id": "https://sspai.com/post/118114",
           "author": "CG艺术实验室",
@@ -3108,6 +3198,104 @@
       "feedUrl": "https://plink.anyfeeder.com/idaily/today",
       "siteUrl": "https://idai.ly",
       "articles": [
+        {
+          "id": "idaily-261356",
+          "author": "中国 · 北京",
+          "description": "北京箭扣长城被白雪覆盖，中国。11月8日，北京迎来2026年冬季首场降雪，全市最低气温降至-3℃，延庆、怀柔、密云、门头沟等地区积雪深度达到2至10厘米。中央气象台当天发布寒潮蓝色预警，中国中东部地区出现大范围雨雪和强降温天气，局部地区降温幅度超过12℃，预计未来3天寒潮天气将继续影响至南方地区，上海、浙江、广东、福建等地将降温6至8℃。摄影师：iDaily Media",
+          "link": "https://m.idai.ly/se/32bXUs",
+          "publishedOn": "2026-11-09T09:59:00.000Z",
+          "wordCount": 257,
+          "title": "北京迎来入冬初雪 - November 9, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/cabb3e6714/a0683484.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/cabb3e6714/a0683484.jpg"
+        },
+        {
+          "id": "idaily-261354",
+          "author": "乌拉圭 · 蒙得维的亚",
+          "description": "罗马教宗良十四世（Leo XIV）访问乌拉圭期间主持大型祈祷守夜活动，蒙得维的亚。11月6日，教宗良十四世正式开启为期12天的南美访问行程。这是教宗良十四世上任以来的第6次国际牧灵访问，亦是迄今为止时间最长的一次海外访问行程，计划到访乌拉圭、阿根廷、秘鲁3国的10座城市，发表36场演讲、出席约50场公开活动，行程总里程超过3.1万公里。摄影师：Daniel Dal Zennaro",
+          "link": "https://m.idai.ly/se/9a0q54",
+          "publishedOn": "2026-11-09T08:58:00.000Z",
+          "wordCount": 257,
+          "title": "罗马教宗访问南美 - November 9, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/5140d4cabb/0a2013a7.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/5140d4cabb/0a2013a7.jpg"
+        },
+        {
+          "id": "idaily-261353",
+          "author": "美国 · 纽约",
+          "description": "纽约市民在曼哈顿市中心举行反移民执法示威游行，美国。11月7日，纽约市爆发大规模示威游行活动，数千人走上街头敦促民主党议员兑现选举承诺，禁止美国移民与海关执法局（ICE）在纽约进行执法行动。美国总统 Donald Trump 上周宣布任命前国土安全顾问 Stephen Miller 为新任白宫幕僚长。现年41岁的 Miller 被视为特朗普政府强硬移民政策的主要推手，主张严厉打击非法移民、废除出生公民权等，曾公开宣称要将每天逮捕的非法移民数量提高至3000人。摄影师：Spencer Platt",
+          "link": "https://m.idai.ly/se/8caMxg",
+          "publishedOn": "2026-11-09T07:57:00.000Z",
+          "wordCount": 257,
+          "title": "纽约反移民执法示威 - November 9, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/cf9f2a198e/aca600eb.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/cf9f2a198e/aca600eb.jpg"
+        },
+        {
+          "id": "idaily-261352",
+          "author": "日本 · 爱知县",
+          "description": "日本爱知县一处住宅围墙在地震中受损，丰田市。11月8日凌晨1点04分，日本静冈县西部发生5.7级地震，震源深度约40公里，爱知县、长野县、岐阜县等地均有较强震感。本次地震造成超过20人受伤，东海道新干线29趟列车延误，影响约1.7万人出行。这是爱知县自1997年以来首次遭受5级以上地震，日本气象厅表示此次地震与「南海海槽大地震」直接关联性较低，提醒民众警惕未来一周发生同等级或更强余震。摄影师：Kohei Choji",
+          "link": "https://m.idai.ly/se/4cahxZ",
+          "publishedOn": "2026-11-09T07:55:00.000Z",
+          "wordCount": 257,
+          "title": "日本爱知县5级地震 - November 9, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/87bc018d67/ba23e616.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/87bc018d67/ba23e616.jpg"
+        },
+        {
+          "id": "idaily-261350",
+          "author": "希腊 · 马拉松",
+          "description": "第43届雅典经典马拉松赛，参赛选手们从马拉松镇出发，希腊。11月8日，第43届雅典经典马拉松赛正式开跑，本届共有来自125个国家和地区的约8.5万人报名参赛，创历史新高。赛道起点为希腊历史名城马拉松镇，终点为雅典帕纳辛奈科体育场，全程42.195公里，途经马拉松战役阵亡将士纪念碑、雅典音乐厅、宪法广场、国家花园等地标。埃塞俄比亚选手 Manazut Siyoum Taferi 以2小时10分03秒的成绩赢得男子组冠军并打破赛道纪录，另一名埃塞俄比亚选手 Yatane Kormoshe Dusha 以2小时30分04秒的成绩赢得女子组冠军并打破赛道纪录。摄影师：Alexandros Vlacho",
+          "link": "https://m.idai.ly/se/b550PE",
+          "publishedOn": "2026-11-09T07:53:00.000Z",
+          "wordCount": 257,
+          "title": "第43届雅典经典马拉松 - November 9, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/d9943876c3/41f9e0fa.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/d9943876c3/41f9e0fa.jpg"
+        },
+        {
+          "id": "idaily-261349",
+          "author": "中国 · 上海",
+          "description": "第9届中国国际进口博览会，宇树科技公司的人形机器人正在进行现场演示，上海。11月8日，第9届中国国际进口博览会在上海开幕。本届进博会汇聚162个国家、地区和国际组织，4142家境外企业参展，整体面积首次突破44万平方米，展品涵盖技术装备、消费品、农食产品、汽车及智慧出行、医疗器械及医药保健、服务贸易等领域。中国连续17年稳居全球第二大进口国，占全球进口比重达9.2%，比2000年提升6个百分点。摄影师：iDaily Media",
+          "link": "https://m.idai.ly/se/0088N3",
+          "publishedOn": "2026-11-09T07:51:00.000Z",
+          "wordCount": 257,
+          "title": "2026中国进口博览会 - November 9, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/b2c1d84713/5c5f195e.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/b2c1d84713/5c5f195e.jpg"
+        },
+        {
+          "id": "idaily-261348",
+          "author": "意大利 · 阿尔巴",
+          "description": "第27届意大利阿尔巴白松露国际拍卖会，一块重约850克的白松露（White Truffle）以10万欧元拍卖成交。11月8日，意大利格林扎内卡武尔城堡举行一年一度的阿尔巴白松露拍卖会，全场总成交额为54.58万欧元，成交价最高的一块白松露由中国香港买家竞得。阿尔巴是意大利白松露的主要产地，采摘季为每年9月至次年1月。阿尔巴白松露拍卖会始于1999年，迄今累计拍卖所得770万欧元全部用于捐赠慈善项目。摄影师：Marco Bertorello",
+          "link": "https://m.idai.ly/se/52b2QO",
+          "publishedOn": "2026-11-09T07:49:00.000Z",
+          "wordCount": 257,
+          "title": "阿尔巴白松露拍卖会 - November 9, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/4ecb3d616a/0b199176.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/4ecb3d616a/0b199176.jpg"
+        },
         {
           "id": "idaily-261306",
           "author": "地球",
@@ -5837,34 +6025,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://pic.yupoo.com/fotomag/a50a9a93e7/2b93b945.jpg"
-        },
-        {
-          "id": "idaily-259724",
-          "author": "泰国 · 曼谷",
-          "description": "泰国曼谷清水祖师庙举行舞龙表演庆祝道教「九皇斋节」（Vegetarian Festival）。10月9日，泰国华人迎来道教传统节日「九皇斋节」，该节日起源于中国福建闽南地区，旨在庆祝道教九位星君的诞辰，主要习俗包括吃素食、进香祈福、举办舞龙表演等，本年度庆祝活动将持续至10月18日。泰国境内生活着约1000万华人，占该国总人口的13%，大部分为广东和福建后裔。摄影师：Rungroj Yongrit",
-          "link": "https://m.idai.ly/se/abbE4H",
-          "publishedOn": "2026-10-10T09:59:00.000Z",
-          "wordCount": 283,
-          "title": "泰国庆祝九皇斋节 - October 10, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/b93660ff09/f9d9af84.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/b93660ff09/f9d9af84.jpg"
-        },
-        {
-          "id": "idaily-259723",
-          "author": "土库曼斯坦 · 土库曼巴希",
-          "description": "2026年独联体国家元首峰会在土库曼巴希举行，参会元首在会议前合影，土库曼斯坦。10月9日，俄罗斯、白俄罗斯、土库曼斯坦等9个独联体成员国领导人就经济、安全、人文等领域合作交换意见，并签署庆祝独联体成立35周年的联合声明。俄总统 Putin 在峰会上强调经济是独联体国家的优先合作领域，2025年俄罗斯与独联体国家的贸易额已超过1100亿美元，90%商业活动已使用本国货币结算。Putin 指出，独联体国家正在实施大型工业和基建项目，打造新的欧亚产业链和运输链，并一致主张构建一个基于国际法和联合国为核心的公正的多极世界秩序。摄影师：Sergey Bobylev",
-          "link": "https://m.idai.ly/se/c1fiYZ",
-          "publishedOn": "2026-10-10T08:58:00.000Z",
-          "wordCount": 283,
-          "title": "独联体领导人峰会 - October 10, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/293066e829/566d5b4b.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/293066e829/566d5b4b.jpg"
         }
       ]
     },
@@ -5873,6 +6033,66 @@
       "feedUrl": "https://plink.anyfeeder.com/nytimes/dual",
       "siteUrl": "http://nytimes.com",
       "articles": [
+        {
+          "id": "https://cn.nytimes.com/asia-pacific/20261109/thailand-kfc-curse-doctors/dual",
+          "author": null,
+          "description": "MAX KIM2026年11月9日在曼谷哇集拉医院工作的外科医生塔纳·坦提南开展了一项研究，测试一项与肯德基有关的流行医学迷信。 Lauren DeCicca for The New York Times\nThanat Tantinam, a colorectal surgeon in Thailand, knows a lot of things from his medical training, like the ins and outs of the human digestive system, or bowel cancer rates. But also: Never eat Kentucky Fried Chicken at work.\n泰国结直肠外科医生塔纳·坦提南从他的医学训练中了解到了许多事情，比如人体消化系统的细节，或是肠癌的发病率。但除此以外，还有一条准则：绝对不要在上班时吃肯德基。\nSince he was a medical student, around a decade ago, the American fast food franchise has been the subject of an odd superstition among Thai doctors, many of whom believe that eating its chicken at work will lead to intolerably busy shifts.\n大约十年前，他还是医学生的时候，这家美国快餐连锁就已经是泰国医生群体中一个离奇迷信的主题。他们中的许多人深信，在工作时吃肯德基会导致班次极其繁忙，令人难以忍受。\n“It’s a serious superstition in some hospitals,” said Dr. Thanat, 3…",
+          "link": "https://cn.nytimes.com/asia-pacific/20261109/thailand-kfc-curse-doctors/dual",
+          "publishedOn": "2026-11-09T06:36:02.000Z",
+          "wordCount": 1369,
+          "title": "为什么泰国医生“害怕”肯德基",
+          "imageUrl": "https://static01.nyt.com/images/2026/11/04/multimedia/04int-thailand-kfc-01-zbgh/04int-thailand-kfc-01-zbgh-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/business/20261109/nvidia-chips-chinese-firms/dual",
+          "author": null,
+          "description": "ANA SWANSON, KALLEY HUANG, KEITH BRADSHER2026年11月9日北京的一处高科技企业工业园区。新矩阵公司将该建筑列为其地址，但园区公司名录中并未收录该企业。 The New York Times\nIn a recently built industrial park on the northwest fringe of Beijing, the listed address of a company called New Matrix stands empty, a hollow gray shell with wires dangling from the ceiling where lights should be.\n在北京西北郊一个最近建成的工业园区里，一家名为新矩阵的公司登记地址空无一人，那是一个空荡荡的灰色房间，天花板上本该装灯的地方垂着电线。\nEarlier this year, the Trump administration approved this Chinese firm to assemble Nvidia’s advanced chips into the computers that create artificial intelligence. President Trump allowed the sale of the chips, called the H200, to China late last year. But before they could be sold, the Commerce Department was required to review the companies involved for national security risks.\n今年早些时候，特朗普政府批准这家…",
+          "link": "https://cn.nytimes.com/business/20261109/nvidia-chips-chinese-firms/dual",
+          "publishedOn": "2026-11-09T06:06:02.000Z",
+          "wordCount": 1635,
+          "title": "英伟达先进芯片流向中国“空壳”公司",
+          "imageUrl": "https://static01.nyt.com/images/2026/11/07/multimedia/07dc-china-chips-01-fjhg/07dc-china-chips-01-fjhg-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/usa/20261109/chinese-spy-agency-nvidia-jensen-huang/dual",
+          "author": null,
+          "description": "JULIAN E. BARNES, TRIPP MICKLE, 孟建国, MAGGIE HABERMAN2026年11月9日英伟达首席执行官黄仁勋是特朗普总统颇具影响力的盟友，也是全球围绕人工智能主导地位的激烈竞争中的关键人物。 Manuel Orbegozo for The New York Times\nA memo that circulated among top policymakers in the Trump administration last spring cited intelligence that a Chinese businesswoman who had a close relationship with Nvidia’s chief executive was a spy for China’s Ministry of State Security, according to people briefed on the intelligence.\n据听取过相关情报简报的人士透露，今年春天，一份在特朗普政府高级决策官员之间传阅的备忘录援引情报称，一名与英伟达首席执行官关系密切的中国女商人是中国国家安全部的间谍。\nThe businesswoman, Alice Huang, was recruited to collect intelligence on Jensen Huang, Nvidia’s chief executive, as part of a drive by Beijing’s top spy agency to learn more about American A.I. chips and potentially influence the company to push for its most advanced chi…",
+          "link": "https://cn.nytimes.com/usa/20261109/chinese-spy-agency-nvidia-jensen-huang/dual",
+          "publishedOn": "2026-11-09T05:06:02.000Z",
+          "wordCount": 1694,
+          "title": "接近黄仁勋的女间谍由中国国安部招募",
+          "imageUrl": "https://static01.nyt.com/images/2026/11/06/multimedia/06dc-Spy-Chip-qtkm/06dc-Spy-Chip-qtkm-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/usa/20261109/rubio-nvidia-ceo-chinese-spy/dual",
+          "author": null,
+          "description": "MAGGIE HABERMAN, JONATHAN SWAN, JULIAN E. BARNES, TRIPP MICKLE2026年11月9日今年春天，一份备忘录在特朗普政府高层官员中传阅，警告称英伟达首席执行官黄仁勋与一名中国间谍关系密切。 Lisi Niesner/Reuters\nSecretary of State Marco Rubio oversaw the drafting of the highly classified memo this past spring warning top Trump administration officials that Nvidia’s chief executive, Jensen Huang, was in a close relationship with a Chinese spy, multiple people briefed on the matter said.\n多位听取了相关简报的人士表示，今年春天，国务卿马尔科·鲁比奥监督起草了一份高度机密的备忘录，向特朗普政府高层发出警告，指出英伟达首席执行官黄仁勋与一名中国间谍关系密切。\nThe document was based on classified intelligence from electronic surveillance of Alice Huang, a Chinese citizen who was a senior executive at a Singapore-based company that was buying Nvidia’s advanced artificial intelligence chips and being investigated for illegally smuggling them into Ch…",
+          "link": "https://cn.nytimes.com/usa/20261109/rubio-nvidia-ceo-chinese-spy/dual",
+          "publishedOn": "2026-11-09T03:06:02.000Z",
+          "wordCount": 1067,
+          "title": "鲁比奥曾对黄仁勋与中国间谍的关系提出警告",
+          "imageUrl": "https://static01.nyt.com/images/2026/11/08/multimedia/08dc-spy-chip-lkzp/08dc-spy-chip-lkzp-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/technology/20261109/nvidia-investigation-jensen-huang-china/dual",
+          "author": null,
+          "description": "TRIPP MICKLE, MAGGIE HABERMAN, JONATHAN SWAN, JULIAN E. BARNES, ANA SWANSON2026年11月9日英伟达首席执行官黄仁勋是人工智能革命中最有影响力的人物之一，也是特朗普总统颇具影响力的盟友。 Demetrius Freeman for The New York Times\nNvidia said on Sunday that it was opening an investigation into Jensen Huang, its chief executive and co-founder, after he acknowledged to the company’s board that he had been intimate with a business executive who U.S. intelligence determined was a Chinese spy.\n英伟达周日表示，已对公司首席执行官兼联合创始人黄仁勋展开调查。此前，黄仁勋向公司董事会承认，他曾与一名企业高管发生亲密关系，而美国情报部门认定，该女子是中国间谍。\nMr. Huang’s relationship with the woman, who goes by Alice Huang, became a U.S. government concern after surveillance revealed that she was feeding information directly to Beijing. The revelation raised troubling possibilities because Mr. Huang is one of the most powerful figures i…",
+          "link": "https://cn.nytimes.com/technology/20261109/nvidia-investigation-jensen-huang-china/dual",
+          "publishedOn": "2026-11-09T02:36:02.000Z",
+          "wordCount": 1641,
+          "title": "黄仁勋与中国间谍发生婚外情，英伟达展开调查",
+          "imageUrl": "https://static01.nyt.com/images/2026/11/08/multimedia/08biz-jensen-bqpz/08biz-jensen-bqpz-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/world/20261109/china-trump-putin-xi-summit/dual",
+          "author": null,
+          "description": "DAVID PIERSON, BERRY WANG2026年11月9日今年9月，中国领导人习近平与美国总统特朗普在华盛顿的美国国家档案馆。 Haiyun Jiang/The New York Times\nIn early 1945, the leaders of the United States, the Soviet Union and Britain met in the Crimean city of Yalta and struck a secret deal promising Moscow special rights in China in return for joining the war against Japan.\n1945年初，美国、苏联和英国领导人在克里米亚城市雅尔塔举行会晤，达成了一项秘密协议：作为苏联加入对日作战的交换条件，美英同意给予莫斯科在中国的特殊权益。\nBut China was not at the table.\n但中国没有参与谈判。\n“It is a historical lesson of great-power politics that China will never forget,” said Xin Qiang, a U.S.-China expert at Fudan University in Shanghai. “It was all done behind China’s back and at the expense of Chinese interests.”\n“这是中国永远不会忘记的大国政治历史教训，”上海复旦大学研究中美关系的专家信强说。“这一切都是背着中国进行的，牺牲的是中国的利益。” \nMore than eight decades later, Beijing is weighing whethe…",
+          "link": "https://cn.nytimes.com/world/20261109/china-trump-putin-xi-summit/dual",
+          "publishedOn": "2026-11-09T01:06:02.000Z",
+          "wordCount": 1399,
+          "title": "美、中、俄三国首脑在深圳会晤？习近平的雄心与顾虑",
+          "imageUrl": "https://static01.nyt.com/images/2026/11/06/multimedia/06int-china-trilateral-01-tcfb/06int-china-trilateral-01-tcfb-articleLarge.jpg"
+        },
         {
           "id": "https://cn.nytimes.com/culture/20261106/kpop-newjeans-contract/dual",
           "author": null,
@@ -7041,6 +7261,36 @@
       "siteUrl": "http://weixin.sogou.com/weixin?type=1&s_from=input&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A",
       "articles": [
         {
+          "id": "625f6116b6be795dae42f72f1b8f62b7",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E2%80%9C%E8%A7%A3%E9%9B%87%E2%80%9D%E5%B0%8F%E9%BC%A0%EF%BC%9A%E4%BA%BA%E7%B1%BB%E5%AD%A6%E8%80%85%E8%B5%B0%E8%BF%9B%E8%82%A0%E9%81%93%E5%AE%9E%E9%AA%8C%E5%AE%A4",
+          "publishedOn": "2026-11-09T02:51:00.000Z",
+          "wordCount": 294,
+          "title": "“解雇”小鼠：人类学者走进肠道实验室",
+          "imageUrl": null
+        },
+        {
+          "id": "e2269b34d765a14c8e08f7bfddd2589b",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E4%BC%91%E8%B0%9F%E4%B8%8E%E6%96%AF%E5%AF%86%EF%BC%9A%E4%B8%80%E5%AF%B9%E7%9B%B8%E7%88%B1%E7%9B%B8%E6%9D%80%E7%9A%84%E6%8C%9A%E5%8F%8B%EF%BC%8C%E5%A6%82%E4%BD%95%E5%AD%95%E8%82%B2%E4%BA%86%E7%8E%B0%E4%BB%A3%E7%BB%8F%E6%B5%8E%E5%AD%A6%E7%90%86%E8%AE%BA%E7%9A%84%E4%B8%A4%E6%9E%81%EF%BC%9F",
+          "publishedOn": "2026-11-09T02:51:00.000Z",
+          "wordCount": 301,
+          "title": "休谟与斯密：一对相爱相杀的挚友，如何孕育了现代经济学理论的两极？",
+          "imageUrl": null
+        },
+        {
+          "id": "75275e209e8201dcfe1daa28f9a1355f",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E9%BD%90%E6%B3%BD%E5%85%8B%E3%80%8A%E8%87%AA%E7%94%B1%E6%98%AF%E7%A7%8D%E6%B2%A1%E6%B2%BB%E7%9A%84%E7%97%85%E3%80%8B%EF%BC%9A%E5%9C%A8%E6%95%B0%E5%AD%97%E6%97%B6%E4%BB%A3%E7%9A%84%E7%BB%9D%E7%97%87%E4%B8%AD%E5%BC%80%E8%BE%9F%E5%87%BA%E4%B8%80%E6%9D%A1%E7%94%9F%E8%B7%AF",
+          "publishedOn": "2026-11-09T02:51:00.000Z",
+          "wordCount": 262,
+          "title": "齐泽克《自由是种没治的病》：在数字时代的绝症中开辟出一条生路",
+          "imageUrl": null
+        },
+        {
           "id": "c596419c7baeed2aa0227242c8673825",
           "author": null,
           "description": "",
@@ -7968,36 +8218,6 @@
           "publishedOn": "2026-10-12T02:47:00.000Z",
           "wordCount": 304,
           "title": "赵宏读《沉默的回响》：让回响继续",
-          "imageUrl": null
-        },
-        {
-          "id": "5989411f294db782fb8cd3c1f269505b",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E8%87%AA%E7%94%B1%E6%BD%9C%E6%95%99%E4%BC%9A%E6%88%91%E7%9A%84%E9%82%A3%E4%BA%9B%E4%BA%8B",
-          "publishedOn": "2026-10-11T01:59:00.000Z",
-          "wordCount": 295,
-          "title": "自由潜教会我的那些事",
-          "imageUrl": null
-        },
-        {
-          "id": "a2dee93eb43756bafcf445c89fd206fe",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E4%B8%80%E4%B8%AA%E7%A4%BE%E4%BC%9A%E8%B0%83%E6%9F%A5%E4%B8%93%E5%AE%B6%E5%92%8C%E4%BB%96%E7%9A%84%E4%B8%96%E7%BA%AA%20%7C%20%E6%9D%8E%E6%99%AF%E6%B1%89%E9%80%9D%E4%B8%9640%E5%91%A8%E5%B9%B4",
-          "publishedOn": "2026-10-11T01:59:00.000Z",
-          "wordCount": 315,
-          "title": "一个社会调查专家和他的世纪 | 李景汉逝世40周年",
-          "imageUrl": null
-        },
-        {
-          "id": "45026e5874ea4e0f795e3d8780afc474",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E4%B8%80%E7%99%BE%E5%B9%B4%E5%89%8D%EF%BC%8C%E4%B8%80%E4%B8%AA%E7%A4%BE%E4%BC%9A%E5%AD%A6%E5%AE%B6%E7%9C%BC%E4%B8%AD%E7%9A%84%E5%8C%97%E4%BA%AC%E5%B8%82%E4%BA%95%E5%92%8C%E4%B9%A1%E6%9D%91",
-          "publishedOn": "2026-10-11T01:59:00.000Z",
-          "wordCount": 306,
-          "title": "一百年前，一个社会学家眼中的北京市井和乡村",
           "imageUrl": null
         }
       ]
