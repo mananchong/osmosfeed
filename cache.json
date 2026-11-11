@@ -65,6 +65,76 @@
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
         {
+          "id": "https://www.nationalreview.com/?p=a4a5f223-a7af-44fd-a47e-6b604a9cc348",
+          "author": "The Editors",
+          "description": "The efforts that the Chinese appear to be making to get hold of a U.S. product make the case for not selling it to them.",
+          "link": "https://www.nationalreview.com/article/the-nvidia-scandal-is-a-warning-shot",
+          "publishedOn": "2026-11-11T09:00:00.000Z",
+          "wordCount": null,
+          "title": "The Nvidia Scandal Is a Warning Shot",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=8b49a46a-0f29-481e-b77b-ac4cc4622b55",
+          "author": "Michael Brendan Dougherty",
+          "description": "And we’ll all be poorer for it.",
+          "link": "https://www.nationalreview.com/article/ai-will-dehumanize-the-job-hunt",
+          "publishedOn": "2026-11-11T09:00:00.000Z",
+          "wordCount": null,
+          "title": "AI Will Dehumanize the Job Hunt",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=452abea8-abc1-4c29-ae96-c3c6feac93e8",
+          "author": "Armond White",
+          "description": "Queen at Sea resists political cliché.",
+          "link": "https://www.nationalreview.com/article/binoche-triumphs-over-feminism",
+          "publishedOn": "2026-11-11T09:00:00.000Z",
+          "wordCount": null,
+          "title": "Binoche Triumphs over Feminism",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=dcd80487-f624-4157-a381-6116494a5698",
+          "author": "Elliott Abrams",
+          "description": "Opposition to Israel now has a toehold in both parties.",
+          "link": "https://www.nationalreview.com/article/where-does-the-u-s-israel-relationship-go-from-here",
+          "publishedOn": "2026-11-11T09:00:00.000Z",
+          "wordCount": null,
+          "title": "Where Does the U.S.-Israel Relationship Go from Here?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=2e1de142-00e4-4289-8a01-787f24525724",
+          "author": "Daniel Foster",
+          "description": "It would be a mistake to think the electorate’s political disposition in former GOP bastions has turned blue.",
+          "link": "https://www.nationalreview.com/article/the-rise-of-the-ros-states",
+          "publishedOn": "2026-11-11T09:00:00.000Z",
+          "wordCount": null,
+          "title": "The Rise of the Rosé States",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=2075776",
+          "author": "John R. Puri",
+          "description": "Fiscal conservatives’ aim should be the same as for other taxes: broaden the base, reduce the rate.",
+          "link": "https://www.nationalreview.com/articles/not-all-property-tax-cuts-are-created-equal",
+          "publishedOn": "2026-11-10T22:11:33.000Z",
+          "wordCount": null,
+          "title": "Not All Property Tax Cuts Are Created Equal",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=2075775",
+          "author": "Rich Lowry",
+          "description": "Being in a different place on a hugely important policy question is particularly treacherous for the VP.",
+          "link": "https://www.nationalreview.com/articles/a-trump-vance-fissure",
+          "publishedOn": "2026-11-10T21:46:40.000Z",
+          "wordCount": null,
+          "title": "A Trump-Vance Fissure",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nationalreview.com/?p=2075775",
           "author": "Rich Lowry",
           "description": "Being in a different place on a hugely important policy question is particularly treacherous for the VP.",
@@ -72,6 +142,16 @@
           "publishedOn": "2026-11-10T21:46:40.000Z",
           "wordCount": null,
           "title": "A Trump-Vance Fissure",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=2075562",
+          "author": "Abigail Anthony",
+          "description": "Nobody could have seen this coming, except all the conservatives who said it would happen.",
+          "link": "https://www.nationalreview.com/articles/california-city-approves-protections-for-polyamorous-arrangements",
+          "publishedOn": "2026-11-10T16:12:09.000Z",
+          "wordCount": null,
+          "title": "California City Approves Protections for Polyamorous Arrangements",
           "imageUrl": null
         },
         {
@@ -88,10 +168,30 @@
           "id": "https://www.nationalreview.com/?p=2075534",
           "author": "Amity Shlaes",
           "description": "A new book recounts how Roosevelt pinned the Depression on a banker-turned-Treasury secretary to hasten the age of big government.",
+          "link": "https://www.nationalreview.com/articles/the-scapegoat",
+          "publishedOn": "2026-11-10T15:14:51.000Z",
+          "wordCount": null,
+          "title": "The Scapegoat",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=2075534",
+          "author": "Amity Shlaes",
+          "description": "A new book recounts how Roosevelt pinned the Depression on a banker-turned-Treasury secretary to hasten the age of big government.",
           "link": "https://www.nationalreview.com/2026/11/the-scapegoat/",
           "publishedOn": "2026-11-10T15:14:51.000Z",
           "wordCount": null,
           "title": "The Scapegoat",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=2075454",
+          "author": "The Editors",
+          "description": "It’s hard to see how there’d be any deal in the offing with Democrats.",
+          "link": "https://www.nationalreview.com/articles/trumps-amnesty-talk",
+          "publishedOn": "2026-11-10T13:31:29.000Z",
+          "wordCount": null,
+          "title": "Trump’s Amnesty Talk",
           "imageUrl": null
         },
         {
@@ -108,10 +208,30 @@
           "id": "https://www.nationalreview.com/?p=2075161",
           "author": "John Gustavsson",
           "description": "Rearmament isn’t just for the battlefield — civil defense matters, too.",
+          "link": "https://www.nationalreview.com/articles/why-russia-is-targeting-european-freezers",
+          "publishedOn": "2026-11-10T11:30:12.000Z",
+          "wordCount": null,
+          "title": "Why Russia Is Targeting European Freezers",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=2075161",
+          "author": "John Gustavsson",
+          "description": "Rearmament isn’t just for the battlefield — civil defense matters, too.",
           "link": "https://www.nationalreview.com/2026/11/why-russia-is-targeting-european-freezers/",
           "publishedOn": "2026-11-10T11:30:12.000Z",
           "wordCount": null,
           "title": "Why Russia Is Targeting European Freezers",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=2075140",
+          "author": "Mackenzie Eaglen and Daniel Flesch",
+          "description": "We must combine American and allied innovation and manufacturing to take on the threats we share.",
+          "link": "https://www.nationalreview.com/articles/america-needs-an-arsenal-of-democracies",
+          "publishedOn": "2026-11-10T11:30:00.000Z",
+          "wordCount": null,
+          "title": "America Needs an Arsenal of Democracies",
           "imageUrl": null
         },
         {
@@ -128,10 +248,30 @@
           "id": "https://www.nationalreview.com/?p=2075065",
           "author": "Matt Brooks",
           "description": "As a group, American Jews rejected Democrats’ most radical class ever.",
+          "link": "https://www.nationalreview.com/articles/the-jewish-vote-moves-toward-the-gop",
+          "publishedOn": "2026-11-09T20:40:45.000Z",
+          "wordCount": null,
+          "title": "The Jewish Vote Moves Toward the GOP",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=2075065",
+          "author": "Matt Brooks",
+          "description": "As a group, American Jews rejected Democrats’ most radical class ever.",
           "link": "https://www.nationalreview.com/2026/11/the-jewish-vote-moves-toward-the-gop/",
           "publishedOn": "2026-11-09T20:40:45.000Z",
           "wordCount": null,
           "title": "The Jewish Vote Moves Toward the GOP",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=2075054",
+          "author": "Dan McLaughlin",
+          "description": "‘Hogs get slaughtered,’ as the old saying goes — people will tolerate graft only up to a point.",
+          "link": "https://www.nationalreview.com/articles/the-don-jr-wedding-may-be-the-emblem-of-a-corrupt-age",
+          "publishedOn": "2026-11-09T20:35:53.000Z",
+          "wordCount": null,
+          "title": "The Don Jr. Wedding May Be the Emblem of a Corrupt Age",
           "imageUrl": null
         },
         {
@@ -148,10 +288,30 @@
           "id": "https://www.nationalreview.com/?p=2074914",
           "author": "Andrew C. McCarthy",
           "description": "There is a significant chance that one or more articles will be approved.",
+          "link": "https://www.nationalreview.com/articles/hegseth-impeachment-vote-imminent",
+          "publishedOn": "2026-11-09T16:24:57.000Z",
+          "wordCount": null,
+          "title": "Hegseth Impeachment Vote Imminent",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=2074914",
+          "author": "Andrew C. McCarthy",
+          "description": "There is a significant chance that one or more articles will be approved.",
           "link": "https://www.nationalreview.com/2026/11/hegseth-impeachment-vote-imminent/",
           "publishedOn": "2026-11-09T16:24:57.000Z",
           "wordCount": null,
           "title": "Hegseth Impeachment Vote Imminent",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=2074890",
+          "author": "David L. Bahnsen",
+          "description": "The GOP will continue to suffer at the polls until it focuses on building this type of society once again.",
+          "link": "https://www.nationalreview.com/articles/midterm-mayhem-for-the-free-and-virtuous-society",
+          "publishedOn": "2026-11-09T15:29:24.000Z",
+          "wordCount": null,
+          "title": "Midterm Mayhem for the Free and Virtuous Society",
           "imageUrl": null
         },
         {
@@ -168,10 +328,30 @@
           "id": "https://www.nationalreview.com/?p=2073562",
           "author": "Inez Feltscher Stepman",
           "description": "The turning point was 1991.",
+          "link": "https://www.nationalreview.com/articles/the-legal-origin-story-of-wokeness-is-a-map-to-defeating-woke-2-0",
+          "publishedOn": "2026-11-09T11:30:33.000Z",
+          "wordCount": null,
+          "title": "The Legal Origin Story of Wokeness Is a Map to Defeating Woke 2.0",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=2073562",
+          "author": "Inez Feltscher Stepman",
+          "description": "The turning point was 1991.",
           "link": "https://www.nationalreview.com/2026/11/the-legal-origin-story-of-wokeness-is-a-map-to-defeating-woke-2-0/",
           "publishedOn": "2026-11-09T11:30:33.000Z",
           "wordCount": null,
           "title": "The Legal Origin Story of Wokeness Is a Map to Defeating Woke 2.0",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=2074125",
+          "author": "Rebeccah Heinrichs",
+          "description": "As negotiations approach, it’s clear that Russia is not reasonable, and its victory on the battlefield is not a foregone conclusion.",
+          "link": "https://www.nationalreview.com/articles/the-u-s-must-reject-russian-narratives-on-ukraine",
+          "publishedOn": "2026-11-09T11:30:29.000Z",
+          "wordCount": null,
+          "title": "The U.S. Must Reject Russian Narratives on Ukraine",
           "imageUrl": null
         },
         {
@@ -188,10 +368,30 @@
           "id": "https://www.nationalreview.com/?p=2074481",
           "author": "Kathryn Jean Lopez",
           "description": "It’s more enduring than last Tuesday.",
+          "link": "https://www.nationalreview.com/articles/pope-leos-victory-tour",
+          "publishedOn": "2026-11-09T11:30:15.000Z",
+          "wordCount": null,
+          "title": "Pope Leo’s Victory Tour",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=2074481",
+          "author": "Kathryn Jean Lopez",
+          "description": "It’s more enduring than last Tuesday.",
           "link": "https://www.nationalreview.com/2026/11/pope-leos-victory-tour/",
           "publishedOn": "2026-11-09T11:30:15.000Z",
           "wordCount": null,
           "title": "Pope Leo’s Victory Tour",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=2073860",
+          "author": "The Editors",
+          "description": "Whether or not the $3.8 billion in military assistance continues, it would be a strategic blunder to abandon Israel.",
+          "link": "https://www.nationalreview.com/articles/the-aid-to-israel-question-is-a-red-herring",
+          "publishedOn": "2026-11-09T11:30:09.000Z",
+          "wordCount": null,
+          "title": "The Aid-to-Israel Question Is a Red Herring",
           "imageUrl": null
         },
         {
@@ -2023,96 +2223,6 @@
           "wordCount": null,
           "title": "The Senate Is Breaking Closer",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=2056103",
-          "author": "Caroline Downey",
-          "description": "The streamer sits down for an uncomfortable and revealing interview.",
-          "link": "https://www.nationalreview.com/2026/10/hasan-piker-admits-he-was-born-to-be-a-champagne-socialist/",
-          "publishedOn": "2026-10-12T23:40:31.000Z",
-          "wordCount": null,
-          "title": "Hasan Piker Admits He Was Born to Be a Champagne Socialist",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=2055748",
-          "author": "Noah Rothman",
-          "description": "It’s not just Jewish voters who have concerns about the Senate candidate’s judgment and loyalties.",
-          "link": "https://www.nationalreview.com/2026/10/el-sayeds-trouble-with-minority-voters/",
-          "publishedOn": "2026-10-12T18:25:11.000Z",
-          "wordCount": null,
-          "title": "El-Sayed’s Trouble with Minority Voters",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=2055700",
-          "author": "Charles C. W. Cooke",
-          "description": "There is enough unpleasantness on the internet as it is.",
-          "link": "https://www.nationalreview.com/2026/10/in-defense-of-anthropics-chatbot-bullying-ban/",
-          "publishedOn": "2026-10-12T16:44:17.000Z",
-          "wordCount": 6958,
-          "title": "In Defense of Anthropic’s Chatbot-Bullying Ban",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/10/claude-1.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=2055713",
-          "author": "Andrew C. McCarthy",
-          "description": "While it portends no economic benefits for the U.S., it is an absolute coup for Putin.",
-          "link": "https://www.nationalreview.com/2026/10/trumps-diesel-deal-with-putin-is-a-gross-abuse-of-power/",
-          "publishedOn": "2026-10-12T16:42:10.000Z",
-          "wordCount": 18415,
-          "title": "Trump’s Diesel Deal with Putin Is a Gross Abuse of Power",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/10/trump-putin.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=2053135",
-          "author": "J. Michael Waller",
-          "description": "The U.S. should not give in to Chinese efforts to scare us away from AI development.",
-          "link": "https://www.nationalreview.com/2026/10/ai-does-not-need-a-nuclear-freeze/",
-          "publishedOn": "2026-10-12T10:30:54.000Z",
-          "wordCount": 6979,
-          "title": "AI Does Not Need a ‘Nuclear Freeze’",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/10/bernie-sanders.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=2055266",
-          "author": "Kathryn Jean Lopez",
-          "description": "Mercy, justice, and an examination of conscience.",
-          "link": "https://www.nationalreview.com/2026/10/do-we-do-death-for-sport/",
-          "publishedOn": "2026-10-12T10:30:54.000Z",
-          "wordCount": 6815,
-          "title": "Do We Do Death for Sport?",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/10/christa-pike-booking.jpg?fit=920%2C537&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=2054346",
-          "author": "The Editors",
-          "description": "While lawmakers were out campaigning, Americans received grim news on the federal deficit.",
-          "link": "https://www.nationalreview.com/2026/10/congresss-2-trillion-problem/",
-          "publishedOn": "2026-10-12T10:30:32.000Z",
-          "wordCount": 6542,
-          "title": "Congress’s $2 Trillion Problem",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/10/capitol-dome.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=2053888",
-          "author": "John R. Puri",
-          "description": "While many commentators are nostalgic for the glory days of yesteryear, families are richer today and can afford to buy more than ever before.",
-          "link": "https://www.nationalreview.com/2026/10/the-facts-and-fictions-of-economic-nostalgia/",
-          "publishedOn": "2026-10-12T10:30:32.000Z",
-          "wordCount": 19268,
-          "title": "Our Economic Past Was Not Always Greener",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/10/publix-florida.jpg?fit=2057%2C1200&ssl=1"
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=2054133",
-          "author": "Joseph Filocomo",
-          "description": "The war on Christopher Columbus is unfounded.",
-          "link": "https://www.nationalreview.com/2026/10/columbus-without-apology/",
-          "publishedOn": "2026-10-12T10:30:25.000Z",
-          "wordCount": 7026,
-          "title": "Columbus Without Apology",
-          "imageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/10/christopher-columbus-painting.jpg?fit=2057%2C1200&ssl=1"
         }
       ]
     },
@@ -2121,6 +2231,46 @@
       "feedUrl": "https://sspai.com/feed",
       "siteUrl": "https://sspai.com",
       "articles": [
+        {
+          "id": "https://sspai.com/post/118781",
+          "author": "程天冲",
+          "description": "原本今年夏天的旅行是要在佛罗伦萨结束的，但突发状况导致我不用上班了，就顺势使用了我的国际机票退改券，增加了一段安特卫普的行程。打卡安特卫普的理由跟意大利一样奇怪——因为这个地方举办过好几届体操世锦赛（ ...查看全文",
+          "link": "https://sspai.com/post/118781",
+          "publishedOn": "2026-11-11T09:30:00.000Z",
+          "wordCount": 282,
+          "title": "城市漫步指南 | 安特卫普，时尚就在生活中",
+          "imageUrl": "https://rssfile.sspai.com/2026/11/08/9bedd5cb7e0e03e377cfbdb7bad8729e.jpeg?imageMogr2/auto-orient/format/webp/ignore-error/1"
+        },
+        {
+          "id": "https://sspai.com/post/118175",
+          "author": "StephenFang",
+          "description": "陪伴 Mac 用户十余年的加州风景，走出屏幕后究竟是什么模样？查看全文",
+          "link": "https://sspai.com/post/118175",
+          "publishedOn": "2026-11-11T06:50:39.000Z",
+          "wordCount": 886,
+          "title": "从优胜美地到金门大桥：跟着 macOS 游览加州",
+          "imageUrl": "https://rssfile.sspai.com/2026/11/03/44f2d5a7a431d532af80e72846494209.png?imageMogr2/auto-orient/ignore-error/1"
+        },
+        {
+          "id": "https://sspai.com/post/118458",
+          "author": "bakamio",
+          "description": "复古游戏机风格的界面和「手柄」设计，希望可以唤起你的一些回忆。查看全文",
+          "link": "https://sspai.com/post/118458",
+          "publishedOn": "2026-11-11T03:13:04.000Z",
+          "wordCount": 348,
+          "title": "RetroSweeper Go：复古外观、更有手感的扫雷游戏",
+          "imageUrl": "https://rssfile.sspai.com/2026/11/05/5f6133903d0f68372790ffef54e341f4.png?imageMogr2/auto-orient/ignore-error/1"
+        },
+        {
+          "id": "https://sspai.com/post/118905",
+          "author": "少数派编辑部",
+          "description": "卫星导航基准站网安全国标发布，影目召回 4701 副 AIR3 眼镜等。查看全文",
+          "link": "https://sspai.com/post/118905",
+          "publishedOn": "2026-11-11T00:26:34.000Z",
+          "wordCount": 770,
+          "title": "派早报：700 号段保护服务试点获批、Claude Code 设置文件泄露凭据等",
+          "imageUrl": "https://rssfile.sspai.com/2026/11/11/article/d7d7343e-7256-94c8-51fa-ff4dc8f4b55a.jpeg?imageMogr2/auto-orient/ignore-error/1"
+        },
         {
           "id": "https://sspai.com/post/118861",
           "author": "Matrix机器人",
@@ -3150,36 +3300,6 @@
           "wordCount": 368,
           "title": "App+1 | 我做了一个专为「P 人」和 ADHD 设计的精力管理 App",
           "imageUrl": "https://rssfile.sspai.com/2026/10/05/08123e1c40cf96147b63c5077eaf6ff6.png?imageMogr2/auto-orient/ignore-error/1"
-        },
-        {
-          "id": "https://sspai.com/post/116028",
-          "author": "waychane",
-          "description": "为成熟的开发者、设计师和创业者，提供一片走向广阔商业市场的沃土。查看全文",
-          "link": "https://sspai.com/post/116028",
-          "publishedOn": "2026-10-13T03:30:05.000Z",
-          "wordCount": 324,
-          "title": "迈上生态新台阶，首期 Apple 应用孵化器顺利收官",
-          "imageUrl": "https://rssfile.sspai.com/10/13/2026/article/14d04135-3282-c5bd-d91b-ac596ac89159.jpeg?imageMogr2/auto-orient/ignore-error/1"
-        },
-        {
-          "id": "https://sspai.com/post/114561",
-          "author": "秋风花雨落",
-          "description": "Apple Watch Edition 留下来的，不是一种材料，而是一套做材料的方式。查看全文",
-          "link": "https://sspai.com/post/114561",
-          "publishedOn": "2026-10-13T03:09:17.000Z",
-          "wordCount": 958,
-          "title": "高端，不只是材质而已：Apple Watch Edition 的前世今生",
-          "imageUrl": "https://rssfile.sspai.com/2026/09/14/16b9e7d802bb9dbbd10a12f2911f0d92.jpg?imageMogr2/auto-orient/ignore-error/1"
-        },
-        {
-          "id": "https://sspai.com/post/116033",
-          "author": "少数派编辑部",
-          "description": "少数派的近期动态给电话加上「辅助驾驶」？我们想听听你的意见。我们将从提交的问卷中挑选40份用心回答，每份送出50元面值京东卡。参与调研能让AI助手通过自然语言指令直接与您的Quote/0摘录墨水屏交互 ...查看全文",
-          "link": "https://sspai.com/post/116033",
-          "publishedOn": "2026-10-13T00:01:49.000Z",
-          "wordCount": 655,
-          "title": "派早报：一加发布一加 16，Google 推出 Fitbit Edge 等",
-          "imageUrl": "https://rssfile.sspai.com/2026/10/13/article/a9736a6e-8208-e82c-6096-e5d3b92c55ee.png?imageMogr2/auto-orient/format/webp/ignore-error/1"
         }
       ]
     },
@@ -3188,6 +3308,90 @@
       "feedUrl": "https://plink.anyfeeder.com/idaily/today",
       "siteUrl": "https://idai.ly",
       "articles": [
+        {
+          "id": "idaily-261468",
+          "author": "国际空间站",
+          "description": "加拿大宇航员 Joshua Kutryk 正在执行太空行走任务，国际空间站。11月5日，美国宇航员 Anil Menon 与加拿大宇航员 Joshua Kutryk 一同执行2026年第9次太空行走任务，历时6小时59分钟，成功为国际空间站安装最后一组新太阳能电池阵列。本次任务标志着国际空间站自2021年开始的电力系统升级工作全部完成，累计安装8组新太阳能电池阵列，总发电量从160千瓦提升至215千瓦。摄影师：NASA",
+          "link": "https://m.idai.ly/se/0f4032",
+          "publishedOn": "2026-11-11T08:59:00.000Z",
+          "wordCount": 253,
+          "title": "国际空间站新电池安装完成 - November 11, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/bb8711f0c0/24ca46a0.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/bb8711f0c0/24ca46a0.jpg"
+        },
+        {
+          "id": "idaily-261467",
+          "author": "中国 · 连云港",
+          "description": "江苏连云港码头准备装船出口的集装箱。11月10日，中国海关总署公布2026年1至10月贸易顺差已突破1万亿美元，全国货物贸易进出口总值达6.52万亿美元，同比增长25.3%；其中出口增长22.7%至3.78万亿美元，进口增长29%至2.74万亿美元。2026年前10个月中国前三大贸易伙伴依次为东盟、欧盟和美国，其中对东盟贸易增长29.6%，对欧盟增长13.1%，对美国增长11%。摄影师：iDaily Media",
+          "link": "https://m.idai.ly/se/be5q0t",
+          "publishedOn": "2026-11-11T07:58:00.000Z",
+          "wordCount": 253,
+          "title": "中国1至10月贸易顺差1万亿美元 - November 11, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/8163ee3477/136b9bc9.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/8163ee3477/136b9bc9.jpg"
+        },
+        {
+          "id": "idaily-261466",
+          "author": "阿联酋 · 阿布扎比",
+          "description": "美国、俄罗斯和乌克兰代表团在阿布扎比举行会谈，阿联酋。11月10日，美俄乌在阿布扎比举行2026年2月以来的首次三方会谈，首日谈判持续约4小时。美方代表称本次会谈具有建设性，首批成果令美方感到鼓舞，目前已确认俄乌主要分歧点，有可能在部分议题上取得进展。俄罗斯外交部长 Sergey Lavrov 当天在集安组织外长会上强调，在未明确停火后续安排的前提下，俄方不会同意与乌克兰达成新一轮停火协议。摄影师：Grigory Sysoyev",
+          "link": "https://m.idai.ly/se/9795K1",
+          "publishedOn": "2026-11-11T06:57:00.000Z",
+          "wordCount": 253,
+          "title": "美俄乌重启三方会谈 - November 11, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/f2f772375d/29f1d94a.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/f2f772375d/29f1d94a.jpg"
+        },
+        {
+          "id": "idaily-261465",
+          "author": "法国 · 巴黎",
+          "description": "法国学生和教师在先贤祠前示威游行，巴黎。11月10日，法国各地教师工会及学生团体发起新一轮罢工、罢课抗议，法国教育部通报共有49所高中校门遭到抗议者封堵，占全国高中总数的1.3%。法国学生组织及工会本周发表联合声明称「将加强动员以继续对政府施压」，并呼吁在11月17日再次举行全国总罢工。摄影师：Guillaume Saligot",
+          "link": "https://m.idai.ly/se/945WgV",
+          "publishedOn": "2026-11-11T06:55:00.000Z",
+          "wordCount": 253,
+          "title": "法国新一轮罢课罢工抗议 - November 11, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/f7595c3e3a/518bf6c7.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/f7595c3e3a/518bf6c7.jpg"
+        },
+        {
+          "id": "idaily-261464",
+          "author": "葡萄牙 · 里斯本",
+          "description": "2026年全球网络峰会（Web Summit），一台中国 UBTECH 公司研发的人形机器人作为演讲者出现在会场，里斯本。11月9日，第10届全球网络峰会在葡萄牙首都里斯本开幕，本届峰会以「重建对科技的信任」为主题，聚焦人工智能、机器人技术、网络安全以及欧洲数字经济发展等议题，共有来自164个国家的约7万名行业人士及投资者参加。本届峰会共邀请800位演讲嘉宾，其中包括4台中国企业制造的人形机器人。摄影师：Patricia de Melo Moreira",
+          "link": "https://m.idai.ly/se/ffeYT4",
+          "publishedOn": "2026-11-11T06:53:00.000Z",
+          "wordCount": 253,
+          "title": "2026年里斯本网络峰会 - November 11, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/9aa8f0b93d/70940d7d.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/9aa8f0b93d/70940d7d.jpg"
+        },
+        {
+          "id": "idaily-261463",
+          "author": "日本 · 东京",
+          "description": "东京墨田水族馆的花园鳗（Garden eel）展缸。11月11日，墨田水族馆连续第13年举办「花园鳗日」庆祝活动，通过展览、喂食讲解和趣味问答活动，向游客介绍不同花园鳗品种的生态习性和特征。花园鳗是一种栖息于珊瑚礁沙质海底的小型海水鱼，主要以浮游生物为食，平日将大部分身体藏在沙子中，仅露出头胸部随水流摆动，形状如同阿拉伯数字「1」，因此11月11日被日本纪念日协会指定为「花园鳗日」。摄影师：iDaily Media",
+          "link": "https://m.idai.ly/se/41a5fc",
+          "publishedOn": "2026-11-11T06:51:00.000Z",
+          "wordCount": 253,
+          "title": "东京水族馆花园鳗日 - November 11, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/5cb92d955f/4fc327e8.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/5cb92d955f/4fc327e8.jpg"
+        },
         {
           "id": "idaily-261432",
           "author": "中国 · 文昌",
@@ -5987,34 +6191,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://pic.yupoo.com/fotomag/285260c0a8/00ff7394.jpg"
-        },
-        {
-          "id": "idaily-259810",
-          "author": "巴拿马 · 洛斯桑托斯",
-          "description": "巴拿马国家历史遗产圣阿塔纳西奥教堂在地震中严重受损，洛斯桑托斯省。10月9日，巴拿马南部地区先后发生7.7级和6.6级两次强地震，并触发海啸预警。这是巴拿马75年来发生的最强地震灾害，全国10个省份及2个原住民区均受到影响，迄今报告造成27人受伤，约900栋房屋受损，多地道路、桥梁遭破坏。巴拿马政府已宣布进入国家紧急状态。美国地质调查局估计巴拿马本次地震的经济损失将超过10亿美元。摄影师：Bienvenido Velasco",
-          "link": "https://m.idai.ly/se/584qyq",
-          "publishedOn": "2026-10-12T10:59:00.000Z",
-          "wordCount": 258,
-          "title": "巴拿马遭遇7.7级强地震 - October 12, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/00470093d1/bcfd4b6c.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/00470093d1/bcfd4b6c.jpg"
-        },
-        {
-          "id": "idaily-259809",
-          "author": "美国 · 长滩",
-          "description": "加利福尼亚州长滩沿岸住宅遭巨浪冲击，美国。10月11日，热带风暴「瑞秋」（Rachel）的残余环流在美墨边境海岸登陆，对南加州带来罕见强降雨和沿海洪涝灾害。美国国家气象局当天发布加州地区有史以来第二个热带风暴预警。加州政府已准备超过400万个沙袋和总长约1.5万米的移动式沿海防洪屏障，并强制撤离长滩半岛沿海住宅居民。摄影师：Mario Tama",
-          "link": "https://m.idai.ly/se/c2dBQv",
-          "publishedOn": "2026-10-12T09:58:00.000Z",
-          "wordCount": 258,
-          "title": "加州罕见热带风暴灾害 - October 12, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/2d05791ca8/2bebb13f.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/2d05791ca8/2bebb13f.jpg"
         }
       ]
     },
@@ -6023,6 +6199,66 @@
       "feedUrl": "https://plink.anyfeeder.com/nytimes/dual",
       "siteUrl": "http://nytimes.com",
       "articles": [
+        {
+          "id": "https://cn.nytimes.com/usa/20261111/trump-midterm-elections-chaos/dual",
+          "author": null,
+          "description": "KATIE ROGERS2026年11月11日\nCoping with loss looks different for everyone, and President Trump has processed the country’s nearly wholesale rejection of the Republican Party in the midterm elections in his own way.\n每个人应对失败的方式都不一样，而特朗普总统正以他自己的方式来消化这个国家在中期选举中对共和党近乎全面的否定。\nThe last week has seen the president renew false claims about rigged elections, float a mixed martial arts executive as his new press secretary, muse about the beams in the White House ballroom, oust his chief of staff and call unannounced into C-SPAN.\n过去一周里，总统重新抛出了关于选举被操纵的虚假指控，提议让一名综合格斗赛事高管担任他的新任新闻秘书，念叨着白宫宴会厅的横梁，解雇了他的幕僚长，并在未事先通知的情况下和C-SPAN（公共事务卫星有线电视网，实况转播美国国会现场等——编注）进行了电话连线。\nIn other words, this is all unfolding exactly as expected. The news has been bad, and Mr. Trump knows it. Cue the mayhem.\n换言之，一切都和预料的一样。坏消息接踵而至，特朗普对此心知肚明。…",
+          "link": "https://cn.nytimes.com/usa/20261111/trump-midterm-elections-chaos/dual",
+          "publishedOn": "2026-11-11T06:06:04.000Z",
+          "wordCount": 1314,
+          "title": "特朗普应对失败的“经典”方式：制造混乱",
+          "imageUrl": "https://static01.nyt.com/images/2026/11/10/multimedia/10DC-ASSESS-pwbk/10DC-ASSESS-pwbk-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/opinion/20261111/rich-people-martha-stewart-midterms/dual",
+          "author": null,
+          "description": "MOLLY JONG-FAST2026年11月11日 Ryan Evans\nThe weekend before Election Day, I opened up Instagram and saw an image so jarring that I first thought it was A.I.-generated. Martha Stewart had dressed up as a poor person for Halloween. She wore ripped jeans and a weather-beaten flannel, and had what looked like dirt smeared across her face. She held a sign that said “I AM HUNGRY HELP ME!!” and turned her lips down into a mocking frown. The caption directed her audience toward her branded candle collection.\n选举日前的那个周末，我打开Instagram，看到一张令人震惊的照片，第一反应是这一定是人工智能生成的。玛莎·斯图尔特在万圣节把自己打扮成了一个穷人。她穿着破洞牛仔裤和一件显得十分陈旧的法兰绒衬衫，脸上好像抹了泥。她举着一块牌子，上面写着“我饿了，帮帮我！！”，嘴角故意向下撇，做出嘲弄的苦相。配文则引导粉丝去购买她自己品牌的蜡烛系列。\nMs. Stewart’s Halloween costume is the sort of thing we’ve been seeing from rich people since President Trump’s second election.…",
+          "link": "https://cn.nytimes.com/opinion/20261111/rich-people-martha-stewart-midterms/dual",
+          "publishedOn": "2026-11-11T06:06:04.000Z",
+          "wordCount": 1217,
+          "title": "富人越来越富，也越来越坏",
+          "imageUrl": "https://static01.nyt.com/images/2026/11/11/opinion/10jongfast/10jongfast-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/business/20261111/anthropic-ipo-nvidia/dual",
+          "author": null,
+          "description": "CORY WEINBERG2026年11月11日\nFor years, the artificial intelligence powerhouses Anthropic and Nvidia kept a distance from each other in their tightly connected industry.\n多年来，人工智能巨头Anthropic和英伟达在这个紧密相连的行业中一直保持距离。\nThey grew into two of the most valuable companies in the world without needing to do much business together, and their influential chief executives publicly sniped at each other over how the U.S. government should regulate A.I. technology.\n它们跻身世界上最有价值的公司之列，却无需开展太多业务合作；两位颇具影响力的首席执行官还曾就美国政府应如何监管人工智能技术公开互相讥讽。\nBut the two companies’ fortunes are now tied together as one prepares for its Wall Street coming-out party while the other braces for a prolonged corporate drama that has shaken up the A.I. industry and has investors on edge.\n如今，这两家公司中的一家正为华尔街上市首秀做准备，另一家则在应对一场旷日持久的公司风波——这场风波震动了人工智能行业…",
+          "link": "https://cn.nytimes.com/business/20261111/anthropic-ipo-nvidia/dual",
+          "publishedOn": "2026-11-11T05:36:04.000Z",
+          "wordCount": 1278,
+          "title": "英伟达将与Anthropic深度绑定，计划投资百亿美元",
+          "imageUrl": "https://static01.nyt.com/images/2026/11/10/multimedia/10biz-anthropic-nvidia-grid-2-01-clmb/10biz-anthropic-nvidia-grid-2-01-clmb-videoLarge-v2.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/business/20261111/alice-huang-megaspeed-nvidia-jensen-huang/dual",
+          "author": null,
+          "description": "孟建国, ANA SWANSON, TRIPP MICKLE, 傅才德2026年11月11日黄仁勋和黄乐曾多次被拍到在一起。这张发布在微博上的照片显示，两人在上海的浦江淮宴餐厅用餐。 \nIn December 2023, a Chinese executive who goes by Alice Huang met with Nvidia’s chief executive, Jensen Huang, and a small group of colleagues at an Italian restaurant in Singapore.\n2023年12月，一个叫黄乐（音，其英文名为Alice Huang）的中国高管在新加坡一家意大利餐厅与英伟达首席执行官黄仁勋及几名同事会面。\nIn a photo of the previously unreported meeting, which was confirmed by The New York Times, Ms. Huang smiled as she posed next to Mr. Huang, who was in his trademark black leather jacket. He held a glass of red wine.\n《纽约时报》核实了这场此前未见报道的会面照片。照片中，黄乐微笑着站在黄仁勋身旁，后者穿着他标志性的黑色皮夹克，手里拿着一杯红酒。\nFor Ms. Huang, there was reason to celebrate. Backed by wealthy investors in Shanghai, she had just restructured a company that would soon buy billions of dollars in Nvidia…",
+          "link": "https://cn.nytimes.com/business/20261111/alice-huang-megaspeed-nvidia-jensen-huang/dual",
+          "publishedOn": "2026-11-11T03:36:04.000Z",
+          "wordCount": 2150,
+          "title": "黄仁勋事件中的“女主角”黄乐是谁？",
+          "imageUrl": "https://static01.nyt.com/images/2026/11/09/business/00biz-alice-huang-nanjing/00biz-alice-huang-nanjing-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/usa/20261111/trump-china-trip-nvidia/dual",
+          "author": null,
+          "description": "MAGGIE HABERMAN, JONATHAN SWAN, JULIAN E. BARNES, ANA SWANSON, TRIPP MICKLE2026年11月11日英伟达首席执行官黄仁勋在5月特朗普总统对北京进行国事访问期间。他最初并未被列入代表团名单，但在最后一刻应特朗普的邀请加入了代表团。 Kenny Holston/The New York Times\nPresident Trump was told aboard Air Force One in May en route to China that the United States had obtained sensitive intelligence showing that Nvidia’s chief executive was in a relationship with a woman believed to be a Chinese spy, people with knowledge of the matter said.\n据知情人士透露，今年5月，特朗普总统在乘坐“空军一号”前往中国的途中被告知，美国获得了敏感情报，显示英伟达首席执行官与一名据信为中国间谍的女性有恋爱关系。\nThe message was delivered by Marco Rubio, his secretary of state and national security adviser, shortly before the Nvidia leader, Jensen Huang, joined the presidential trip to Beijing at Mr. Trump’s invitation. It marked at least the second time in seven months …",
+          "link": "https://cn.nytimes.com/usa/20261111/trump-china-trip-nvidia/dual",
+          "publishedOn": "2026-11-11T02:36:04.000Z",
+          "wordCount": 1399,
+          "title": "特朗普访华前曾被告知黄仁勋与疑似中国间谍有亲密关系",
+          "imageUrl": "https://static01.nyt.com/images/2026/11/10/multimedia/10dc-trump-huang-top-fthz/10dc-trump-huang-top-fthz-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/technology/20261111/jensen-huang-nvidia-board/dual",
+          "author": null,
+          "description": "KALLEY HUANG, DON CLARK2026年11月11日公司治理专家担心，英伟达董事会已让公司变得过于依赖黄仁勋。 Mike Kai Chen for The New York Times\nIn 1993, Sequoia Capital and Sutter Hill Ventures led a $2 million funding round for Nvidia, a start-up that made chips for video games. Mark A. Stevens, an investor at Sequoia, and Tench Coxe, an investor at Sutter Hill, then joined Nvidia’s board of directors. They watched the company struggle as it burned cash and its earliest products failed.\n1993年，为电子游戏制造芯片的初创公司英伟达获得一轮200万美元的融资，领投的是红杉资本和萨特希尔风投。随后，红杉投资人马克·A·史蒂文斯和萨特希尔投资人滕奇·考克斯加入了英伟达董事会。他们看着这家公司消耗大量资金，最初的产品遭遇失败，境况堪忧。\n“It wasn’t clear if Nvidia was ever going to, sort of, have escape velocity,” Mr. Stevens recalled on a podcast in 2023. “We were very concerned about, are we going to lose this company or not?”\n“当时并不清楚英伟达是否能在某种程度上达到逃逸速度，”史蒂文…",
+          "link": "https://cn.nytimes.com/technology/20261111/jensen-huang-nvidia-board/dual",
+          "publishedOn": "2026-11-11T01:06:02.000Z",
+          "wordCount": 1347,
+          "title": "顺从的董事会：黄仁勋危机考验英伟达公司治理",
+          "imageUrl": "https://static01.nyt.com/images/2026/11/10/multimedia/10biz-nvidia-board-gpqw/10biz-nvidia-board-gpqw-articleLarge.jpg"
+        },
         {
           "id": "https://cn.nytimes.com/business/20261110/jensen-huang-nvidia-ai-chips-scandal/dual",
           "author": null,
@@ -7242,26 +7478,6 @@
           "wordCount": 1056,
           "title": "全球首富的崛起之路：马斯克纪录片讲了些什么",
           "imageUrl": "https://static01.nyt.com/images/2026/10/14/multimedia/cn-09cul-musk-takeaways-01-kcvl-copy/09cul-musk-takeaways-01-kcvl-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/business/20261013/europe-china-evs-hybrids/dual",
-          "author": null,
-          "description": "JAMES PATON2026年10月13日位于英国利兹的一家比亚迪展厅。在欧洲售出的汽车中，大约每10辆就有一辆是中国汽车。 Owen Richards for The New York Times\nBYD, China’s dominant maker of electric vehicles, aims to open so many outlets in Germany that no one has to travel more than 20 minutes to buy one of its cars. One of its Chinese rivals, Xiaomi, sees Germany as the foundation of its European expansion plans, after selling 700,000 cars back home.\n中国领先的电动汽车制造商比亚迪计划在德国开设大量销售网点，使任何人前往最近的比亚迪门店买车，路上用时都不超过20分钟。其中国竞争对手之一小米在中国本土售出70万辆汽车后，将德国视为其欧洲扩张计划的基础。\nGermany is the birthplace of the automobile and the home of Volkswagen, BMW and Mercedes-Benz. These days, it is also a top destination for Chinese companies selling cars at a considerable discount to European vehicles.\n德国是汽车的诞生地，也是大众、宝马和梅赛德斯-奔驰的故乡。如今，这里也已成为中国车企的首选市场，中国车的售价比欧洲车低得多。\n“Customers don’t…",
-          "link": "https://cn.nytimes.com/business/20261013/europe-china-evs-hybrids/dual",
-          "publishedOn": "2026-10-13T02:36:05.000Z",
-          "wordCount": 1344,
-          "title": "欧洲为何对中国电动汽车爱恨交加",
-          "imageUrl": "https://static01.nyt.com/images/2026/10/12/multimedia/12Biz-Europe-China-EV-hwbq/12Biz-Europe-China-EV-hwbq-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/business/20261013/tandem-solar-panels-us-china/dual",
-          "author": null,
-          "description": "IVAN PENN2026年10月13日 \nProducers of solar panels in the United States say they are on the cusp of a technological breakthrough that could upend the industry and even threaten China’s grip on it.\n美国太阳能板生产商表示，他们即将迎来一项技术突破，这项突破可能颠覆整个行业，甚至威胁到中国在该行业的垄断地位。\nThe manufacturers are racing to develop new kinds of panels that can generate 25 percent more energy than most such devices available today. If they are successful, the advance will allow the world to meet the rapidly rising demand for electricity with less land and roof area.\n这些制造商正在竞相开发新型太阳能板，其发电量比目前市面上大多数同类产品高出25%。如果成功，这一进步将使世界能以更少的土地和屋顶面积来满足迅速增长的电力需求。\nThe new technology, known as tandem solar, involves adding second and third layers of material, like a layer cake, to allow panels to convert more of the sun’s radiance into electricity.\n这项新技术…",
-          "link": "https://cn.nytimes.com/business/20261013/tandem-solar-panels-us-china/dual",
-          "publishedOn": "2026-10-13T00:36:05.000Z",
-          "wordCount": 1439,
-          "title": "美国研发新型太阳能电池板，或挑战中国垄断地位",
-          "imageUrl": "https://static01.nyt.com/images/2026/09/29/multimedia/00biz-tandem-solar-jvwt/00biz-tandem-solar-jvwt-articleLarge.jpg"
         }
       ]
     },
@@ -7270,6 +7486,46 @@
       "feedUrl": "https://plink.anyfeeder.com/weixin/ibookreview",
       "siteUrl": "http://weixin.sogou.com/weixin?type=1&s_from=input&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A",
       "articles": [
+        {
+          "id": "9855eae575fc3507222acb379c09c48a",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+2026%E5%B9%B4%E5%B8%83%E5%85%8B%E5%A5%96%E6%8F%AD%E6%99%93%EF%BC%8C%E9%A6%96%E6%AC%A1%E9%A2%81%E7%BB%99%E7%A7%91%E5%B9%BB%E4%BD%9C%E5%AE%B6",
+          "publishedOn": "2026-11-11T02:00:00.000Z",
+          "wordCount": 304,
+          "title": "2026年布克奖揭晓，首次颁给科幻作家",
+          "imageUrl": null
+        },
+        {
+          "id": "c058f74135f1cdd196a69217ee878b4d",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E6%96%B0%E4%BA%AC%E9%9B%85%E9%9B%86%E2%80%94%E2%80%94%E3%80%8A%E6%95%85%E5%AE%AB%E6%97%A5%E5%8E%86%E3%80%8B%E7%BE%8A%E5%B9%B4%E7%9B%96%E7%AB%A0%E7%89%88%E6%9D%A5%E4%BA%86",
+          "publishedOn": "2026-11-11T02:00:00.000Z",
+          "wordCount": 256,
+          "title": "新京雅集——《故宫日历》羊年盖章版来了",
+          "imageUrl": null
+        },
+        {
+          "id": "5c28e9f413754edf5b3539c4557a6237",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E5%BD%93%E7%BC%96%E6%95%99%E6%9D%90%E7%9A%84%E4%BA%BA%EF%BC%8C%E5%9D%90%E8%BF%9B%E6%95%99%E5%AE%A4%E5%90%8E%E6%8E%92",
+          "publishedOn": "2026-11-11T02:00:00.000Z",
+          "wordCount": 306,
+          "title": "当编教材的人，坐进教室后排",
+          "imageUrl": null
+        },
+        {
+          "id": "2b5219f7f3209768fc788315ad57bf75",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E7%9F%AD%E8%A7%86%E9%A2%91%E9%87%8C%E7%9A%84%E5%A3%B0%E9%9F%B3%EF%BC%8C%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%83%8F",
+          "publishedOn": "2026-11-11T02:00:00.000Z",
+          "wordCount": 296,
+          "title": "短视频里的声音，越来越像",
+          "imageUrl": null
+        },
         {
           "id": "a7e6e5b0d5481ade5458da8f5fe6fcaf",
           "author": null,
@@ -8198,36 +8454,6 @@
           "publishedOn": "2026-10-14T01:47:00.000Z",
           "wordCount": 312,
           "title": "近代社会调查，为什么常以“县”为单位？｜李景汉逝世40周年",
-          "imageUrl": null
-        },
-        {
-          "id": "3f4b3ac722b80b9d30ea1c485853e710",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E5%AD%A9%E5%AD%90%E8%99%BD%E7%84%B6%E8%84%91%E5%AD%90%E7%81%B5%E6%B4%BB%EF%BC%8C%E5%81%9A%E4%BB%80%E4%B9%88%E9%83%BD%E2%80%9C%E4%B8%89%E5%88%86%E9%92%9F%E7%83%AD%E5%BA%A6%E2%80%9D%EF%BC%9F%E8%AF%A5%E5%A6%82%E4%BD%95%E8%A7%A3%E5%86%B3%EF%BC%9F",
-          "publishedOn": "2026-10-13T02:17:00.000Z",
-          "wordCount": 299,
-          "title": "孩子虽然脑子灵活，做什么都“三分钟热度”？该如何解决？",
-          "imageUrl": null
-        },
-        {
-          "id": "d3306c2ae45433f658b406dd883b0134",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+2026%E5%B9%B4%E8%AF%BA%E8%B4%9D%E5%B0%94%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%A5%96%EF%BC%9A%E6%84%8F%E6%96%99%E4%B9%8B%E5%A4%96%EF%BC%8C%E4%B8%BB%E6%B5%81%E4%B9%8B%E4%B8%AD",
-          "publishedOn": "2026-10-13T02:17:00.000Z",
-          "wordCount": 299,
-          "title": "2026年诺贝尔经济学奖：意料之外，主流之中",
-          "imageUrl": null
-        },
-        {
-          "id": "6ca6b37408e9beacb1cb29d2c656f11b",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E3%80%8A%E6%A3%AE%E6%9E%97%E9%87%8C%E7%9A%84%E4%B8%80%E5%B9%B4%E3%80%8B%E4%BD%9C%E8%80%85%E6%A2%85%E5%B0%94%E6%96%87%EF%BC%9A%E8%B5%9E%E7%BE%8E%E8%BA%AB%E5%A4%84%E8%87%AA%E7%84%B6%E6%97%B6%E7%AE%80%E5%8D%95%E5%8D%B4%E6%B7%B1%E8%BF%9C%E7%9A%84%E5%BF%AB%E4%B9%90%EF%BD%9C%E4%B8%93%E8%AE%BF",
-          "publishedOn": "2026-10-13T02:17:00.000Z",
-          "wordCount": 266,
-          "title": "《森林里的一年》作者梅尔文：赞美身处自然时简单却深远的快乐｜专访",
           "imageUrl": null
         }
       ]
