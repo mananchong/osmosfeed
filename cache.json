@@ -65,6 +65,76 @@
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
         {
+          "id": "https://www.nationalreview.com/?p=9f562759-82e8-4717-8145-28fcc06bfd2f",
+          "author": "NR Staff",
+          "description": "Cartoons from Michael Ramirez, Henry Payne, Gary Varvel, and more.",
+          "link": "https://www.nationalreview.com/article/cartoons-of-the-day-november-13-2026-1",
+          "publishedOn": "2026-11-13T14:51:04.000Z",
+          "wordCount": null,
+          "title": "Cartoons of the Day: November 13, 2026",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=ea040301-a863-4016-b857-bc3f4850bc1e",
+          "author": "NR Editors",
+          "description": "Plus: Pete Hegseth survives impeachment.",
+          "link": "https://www.nationalreview.com/article/the-week-jensen-huang-honeytrapped",
+          "publishedOn": "2026-11-13T11:30:00.000Z",
+          "wordCount": null,
+          "title": "The Week: Jensen Huang, Honeytrapped",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=37f209f3-8c1b-4ee9-905a-fa903f62fa0c",
+          "author": "The Editors",
+          "description": "Its plot against one of the most important U.S. cabinet officials underlines the threat.",
+          "link": "https://www.nationalreview.com/article/iran-is-still-a-menace",
+          "publishedOn": "2026-11-13T11:30:00.000Z",
+          "wordCount": null,
+          "title": "Iran Is Still a Menace",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=c9a5a3e7-1d7b-4479-b307-f12f310d0c48",
+          "author": "Brad Raffensperger",
+          "description": "The GOP’s future depends on putting principles first.",
+          "link": "https://www.nationalreview.com/article/the-republican-party-must-be-bigger-than-any-one-person",
+          "publishedOn": "2026-11-13T11:30:00.000Z",
+          "wordCount": null,
+          "title": "The Republican Party Must Be Bigger Than Any One Person",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=e184cd63-0fa2-42b2-924d-3cb33d3d1a18",
+          "author": "Daniel J. Flynn",
+          "description": "The National Review newsletter captured a time in which revolutionary violence tried to join the mainstream.",
+          "link": "https://www.nationalreview.com/article/combat-took-on-america-s-socialism-fever",
+          "publishedOn": "2026-11-13T11:30:00.000Z",
+          "wordCount": null,
+          "title": "<i>Combat</i> Took on America’s Socialism Fever",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=3eccbaa5-e35d-408c-a8cf-cae9bd832996",
+          "author": "Inez Feltscher Stepman",
+          "description": "Blue-state activists are about to be perfectly positioned to execute an end run around the constitutional system.",
+          "link": "https://www.nationalreview.com/article/how-the-electoral-college-dies",
+          "publishedOn": "2026-11-13T11:30:00.000Z",
+          "wordCount": null,
+          "title": "How the Electoral College Dies",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=11fb669a-80a1-43af-b834-634c7e8f9515",
+          "author": "Armond White",
+          "description": "Almodóvar’s loss of creativity and camp is cause for alarm.",
+          "link": "https://www.nationalreview.com/article/bitter-christmas-a-bah-humbug-to-moviemaking",
+          "publishedOn": "2026-11-13T11:30:00.000Z",
+          "wordCount": null,
+          "title": "<i>Bitter Christmas</i>: A Bah Humbug to Moviemaking",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.nationalreview.com/?p=a127ac2a-e8c3-4f0d-9b77-928b483aa2e6",
           "author": "Christian Schneider",
           "description": "Democrats are about to get a stern lesson in the separation of powers.",
@@ -2123,76 +2193,6 @@
           "wordCount": null,
           "title": "Congress Seeks a Shot Clock on the Permitting Fast Lane",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=2057393",
-          "author": "John Fund",
-          "description": "Have audiences lost their appetite for manipulative movie scripts depicting catastrophes that never come?",
-          "link": "https://www.nationalreview.com/2026/10/how-hollywoods-climate-disaster-movie-digger-bombed/",
-          "publishedOn": "2026-10-14T21:05:53.000Z",
-          "wordCount": null,
-          "title": "How Hollywood’s Climate Disaster Movie <i>Digger</i> Bombed",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=2057252",
-          "author": "Dan McLaughlin",
-          "description": "Only a few of the big races look seriously out of reach, but Republicans are in a perilous position.",
-          "link": "https://www.nationalreview.com/2026/10/breaking-slowly-in-the-governors-races/",
-          "publishedOn": "2026-10-14T17:38:44.000Z",
-          "wordCount": null,
-          "title": "Breaking Slowly in the Governors’ Races",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=2056610",
-          "author": "Armond White",
-          "description": "The contradictions of a public-intellectual action flick.",
-          "link": "https://www.nationalreview.com/2026/10/nobels-hoaxes-and-a-murder-of-crows/",
-          "publishedOn": "2026-10-14T10:30:58.000Z",
-          "wordCount": null,
-          "title": "Nobels, Hoaxes, and a Murder of Crows",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=2056408",
-          "author": "Kathryn Jean Lopez",
-          "description": "EWTN continues to follow the lead of its founder, Mother Angelica.",
-          "link": "https://www.nationalreview.com/2026/10/the-feminine-touch-in-catholic-communications/",
-          "publishedOn": "2026-10-14T10:30:58.000Z",
-          "wordCount": null,
-          "title": "The Feminine Touch in Catholic Communications",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=2056790",
-          "author": "The Editors",
-          "description": "She wasn’t the first underqualified person to be named ambassador and won’t be the last, but her resignation ends a short, ignoble chapter in U.S. diplomatic history.",
-          "link": "https://www.nationalreview.com/2026/10/guilfoyles-exit/",
-          "publishedOn": "2026-10-14T10:30:20.000Z",
-          "wordCount": null,
-          "title": "Guilfoyle’s Exit",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=2055895",
-          "author": "Eugene B. Meyer",
-          "description": "Freedom and virtue are essential complements to one another.",
-          "link": "https://www.nationalreview.com/2026/10/fusionism-properly-understood/",
-          "publishedOn": "2026-10-14T10:30:07.000Z",
-          "wordCount": null,
-          "title": "Fusionism, Properly Understood",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=2056723",
-          "author": "Howard Husock",
-          "description": "Any program that lowers the economic bar to qualify for a mortgage does no favors for lower-income, minority buyers in the long run.",
-          "link": "https://www.nationalreview.com/2026/10/why-huds-pushing-against-dei-mortgages-is-good-for-black-wealth/",
-          "publishedOn": "2026-10-14T10:30:05.000Z",
-          "wordCount": null,
-          "title": "Why HUD’s Pushback Against DEI Mortgages Is Good for Black Wealth",
-          "imageUrl": null
         }
       ]
     },
@@ -2201,6 +2201,46 @@
       "feedUrl": "https://sspai.com/feed",
       "siteUrl": "https://sspai.com",
       "articles": [
+        {
+          "id": "https://sspai.com/post/118999",
+          "author": "少数派编辑部",
+          "description": "📅本周新预告《银翼杀手2099》终极预告11月10日，剧集《银翼杀手2099》发布了终极预告，将于11月25日上线PrimeVideo。亨特·莎弗、杨紫琼主演，2099年的洛杉矶，为了彻底结束逃亡生活 ...查看全文",
+          "link": "https://sspai.com/post/118999",
+          "publishedOn": "2026-11-13T09:39:22.000Z",
+          "wordCount": 587,
+          "title": "本周看什么 | 最近值得一看的 10 部作品",
+          "imageUrl": "https://rssfile.sspai.com/2026/11/13/article/76e40867-6081-b8ce-a49c-1e059914ab2f.png?imageMogr2/auto-orient/format/webp/ignore-error/1"
+        },
+        {
+          "id": "https://sspai.com/post/118153",
+          "author": "胡拉图说",
+          "description": "AI 改变的不是科研写作本身，而是我们完成科研写作时的工作方式。查看全文",
+          "link": "https://sspai.com/post/118153",
+          "publishedOn": "2026-11-13T07:00:00.000Z",
+          "wordCount": 694,
+          "title": "研究生如何用 AI 辅助完成一篇综述：我的科研写作工具与实践经验",
+          "imageUrl": "https://rssfile.sspai.com/2026/11/01/ca6a13cafa18713a90a7a237dffd5ed0.jpg?imageMogr2/auto-orient/ignore-error/1"
+        },
+        {
+          "id": "https://sspai.com/post/118512",
+          "author": "Tw93",
+          "description": "距离写完上一篇在少数派发的《从开源清理工具到付费Mac应用，用户教会了我如何做产品》已经过去两个多月。这段时间里，Mole从1.13一路发到了1.19，加上了AI工具清理和系统数据清理，Windows ...查看全文",
+          "link": "https://sspai.com/post/118512",
+          "publishedOn": "2026-11-13T03:35:48.000Z",
+          "wordCount": 727,
+          "title": "在快 AI 时代，我是怎么把 Mole 做成一款「慢产品」的？",
+          "imageUrl": "https://rssfile.sspai.com/2026/11/05/02abb4056cf334e7a44a4ebcef81660a.png?imageMogr2/auto-orient/ignore-error/1"
+        },
+        {
+          "id": "https://sspai.com/post/118966",
+          "author": "少数派编辑部",
+          "description": "2026 年金摇杆奖获奖名单公布，Apex Compute 推出跨平台 AI 帧生成技术 ANR 等。查看全文",
+          "link": "https://sspai.com/post/118966",
+          "publishedOn": "2026-11-13T00:48:17.000Z",
+          "wordCount": 756,
+          "title": "派早报：英伟达 CEO 黄仁勋宣布辞职等",
+          "imageUrl": "https://rssfile.sspai.com/11/13/2026/article/d5c7f5b4-4e53-250c-e9bd-0c4716c2d12c.png?imageMogr2/auto-orient/ignore-error/1"
+        },
         {
           "id": "https://sspai.com/post/118366",
           "author": "Hermanchannn",
@@ -3210,26 +3250,6 @@
           "wordCount": 324,
           "title": "学得会的快捷指令，零基础入门苹果效率魔法",
           "imageUrl": "https://rssfile.sspai.com/2026/10/14/article/87483f20-505d-87c8-3792-d1de0f5bdd3d.png?imageMogr2/auto-orient/ignore-error/1"
-        },
-        {
-          "id": "https://sspai.com/post/115238",
-          "author": "zac",
-          "description": "不一定要拍满，也不一定要发。走完看看留下了什么，就够了。查看全文",
-          "link": "https://sspai.com/post/115238",
-          "publishedOn": "2026-10-15T03:00:00.000Z",
-          "wordCount": 256,
-          "title": "App+1｜Mangata：把每次散步当作一次探索旅行",
-          "imageUrl": "https://rssfile.sspai.com/2026/10/01/af189c32dd3d07a138f33a75a5af8d3c.jpg?imageMogr2/auto-orient/ignore-error/1"
-        },
-        {
-          "id": "https://sspai.com/post/116193",
-          "author": "少数派编辑部",
-          "description": "八位堂推出 Ultimate 3C+ 无线手柄、豆包手机助手将放开第三方应用屏幕自动化操作权限等。查看全文",
-          "link": "https://sspai.com/post/116193",
-          "publishedOn": "2026-10-15T00:31:01.000Z",
-          "wordCount": 438,
-          "title": "派早报：Mozilla 推出企业版火狐浏览器、DLSS 5 最新模型即将推送等",
-          "imageUrl": "https://rssfile.sspai.com/14/10/2026/article/3ff65445-8ae8-d1c7-9f32-f9b4e06cc561.jpeg?imageMogr2/auto-orient/format/webp/ignore-error/1"
         }
       ]
     },
@@ -3238,6 +3258,104 @@
       "feedUrl": "https://plink.anyfeeder.com/idaily/today",
       "siteUrl": "https://idai.ly",
       "articles": [
+        {
+          "id": "idaily-261579",
+          "author": "时钟座",
+          "description": "欧空局公布一张「欧几里得」（Euclid）太空望远镜拍摄的时钟座「阿贝尔 3128」星系团照片。这是一个距离地球约8亿光年的星系团，囊括数百个星系，并且拥有明显的引力透镜效应。11月12日，欧空局宣布「欧几里得」太空望远镜在过去13个月共观测超过9亿个星系，覆盖1900平方度的天空区域，相当于规划观测总面积的14%，累积收集观测数据达170万GB。摄影师：ESA",
+          "link": "https://m.idai.ly/se/3934B3",
+          "publishedOn": "2026-11-13T10:39:00.000Z",
+          "wordCount": 254,
+          "title": "欧几里得望远镜观测星系团 - November 13, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/bea04a69a9/488826d2.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/bea04a69a9/488826d2.jpg"
+        },
+        {
+          "id": "idaily-261578",
+          "author": "美国 · 得克萨斯州",
+          "description": "SpaceX 星舰V3原型机正在垂直转运至发射区，美国得州。11月12日，星舰原型机与超重型助推器在发射台完成垂直堆叠组装，计划于美东时间11月13日下午16时45分进行第15次试飞，发射窗口期持续75分钟。星舰本次试飞将进入275公里高度的近地轨道，绕地球飞行约14圈并部署26颗星链V3卫星，最后返回星港基地由发射塔架捕获回收，整个任务预计耗时约22个小时。摄影师：Joe Skipper",
+          "link": "https://m.idai.ly/se/e2eXq1",
+          "publishedOn": "2026-11-13T09:58:00.000Z",
+          "wordCount": 254,
+          "title": "星舰准备第15次试飞 - November 13, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/db6774862c/cdef99bd.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/db6774862c/cdef99bd.jpg"
+        },
+        {
+          "id": "idaily-261577",
+          "author": "中国 · 北京",
+          "description": "北京人民大会堂举行纪念孙中山诞辰160周年大会。11月12日，北京人民大会堂举行纪念孙中山先生诞辰160周年大会，中央党政军群各部门代表、全国人大代表、政协委员、外国驻华使节、孙中山先生亲属及海外来宾代表等约3000人出席。中国国家主席习近平在大会讲话中强调，中国共产党人是孙中山革命事业最忠实的继承者，解决台湾问题、实现祖国完全统一，是中国共产党矢志不渝的历史任务。摄影师：Andres Martinez Casares",
+          "link": "https://m.idai.ly/se/d6bOiX",
+          "publishedOn": "2026-11-13T08:57:00.000Z",
+          "wordCount": 254,
+          "title": "纪念孙中山诞辰160周年大会 - November 13, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/c1e8faf331/0b10e6cd.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/c1e8faf331/0b10e6cd.jpg"
+        },
+        {
+          "id": "idaily-261576",
+          "author": "俄罗斯 · 莫斯科",
+          "description": "俄罗斯总统 Vladimir Putin 在克里姆林宫会见美国总统女婿 Jared Kushner，莫斯科。11月12日，俄总统 Putin 与美国总统特使就美俄乌三方谈判成果、欧洲安全架构、人道主义行动等议题进行约2.5小时会谈。Putin 表示不反对欧洲参与俄乌谈判，但绝不接受任何外国军队在乌克兰驻扎或建立「灰色地带」。美国总统特使表示美俄乌三方已同意让欧洲参与下一轮谈判进程。摄影师：Vyacheslav Prokofyev",
+          "link": "https://m.idai.ly/se/cf5C7T",
+          "publishedOn": "2026-11-13T08:55:00.000Z",
+          "wordCount": 254,
+          "title": "普京会见美国特使 - November 13, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/2c4dfe0b2e/dee422b7.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/2c4dfe0b2e/dee422b7.jpg"
+        },
+        {
+          "id": "idaily-261574",
+          "author": "日本 · 东京",
+          "description": "东京证券交易所屏幕上显示日元兑美元即时汇率，日本。11月12日，日元兑美元汇率一度跌至160区间，创9月以来新低。本轮日元贬值主要受美联储加息预期上升影响，投资者担忧日美利差进一步扩大而抛售日元。日本财务大臣片山皋月当天暗示可能再次采取干预汇市操作。日本财务省本周公布2026年7月30日至8月3日共投入15.4万亿日元（约合963亿美元）干预外汇市场以提振日元汇率。摄影师：iDaily Media",
+          "link": "https://m.idai.ly/se/681Zq7",
+          "publishedOn": "2026-11-13T08:53:00.000Z",
+          "wordCount": 254,
+          "title": "日元汇率再次跌破160关口 - November 13, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/62468d9632/209dd0d9.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/62468d9632/209dd0d9.jpg"
+        },
+        {
+          "id": "idaily-261573",
+          "author": "荷兰 · 代尔夫特",
+          "description": "荷兰国王 Willem-Alexander 出席罗宾雷达系统公司新总部的揭幕仪式，代尔夫特。11月12日，荷兰罗宾雷达系统公司正式启用位于代尔夫特的新总部，该设施建筑面积达9000平方米，同时集成研发、制造、工程和运营功能，是欧洲目前最大的雷达研发生产基地之一。荷兰罗宾雷达系统公司成立于2010年，专门研发针对鸟类和无人机等小型飞行物的预警雷达系统，目前已在乌克兰、欧洲和海湾地区国家部署超过800套预警雷达。摄影师：Robin Utrecht",
+          "link": "https://m.idai.ly/se/745a6i",
+          "publishedOn": "2026-11-13T08:51:00.000Z",
+          "wordCount": 254,
+          "title": "荷兰罗宾雷达公司启用新总部 - November 13, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/7e7fc3ad44/8a20cae9.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/7e7fc3ad44/8a20cae9.jpg"
+        },
+        {
+          "id": "idaily-261572",
+          "author": "法国 · 洛代沃",
+          "description": "法国洛代沃博物馆工作人员正在检查一颗重达420公斤的「代亚布罗峡谷陨石」（Canyon Diablo meteorite）。法国洛代沃博物馆将于11月21日举办「陨石」主题特展，共展出法国国家自然历史博物馆收藏的约40件著名陨石标本，重点展品包括代亚布罗峡谷陨石、奥尔盖陨石、阿连德陨石等，展期持续至2027年8月29日。摄影师：Gabriel Bouys",
+          "link": "https://m.idai.ly/se/d2ak8V",
+          "publishedOn": "2026-11-13T08:49:00.000Z",
+          "wordCount": 254,
+          "title": "法国洛代沃博物馆陨石展 - November 13, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/5ce049a34e/9855ce35.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/5ce049a34e/9855ce35.jpg"
+        },
         {
           "id": "idaily-261519",
           "author": "中国 · 内蒙古自治区",
@@ -6060,6 +6178,86 @@
       "siteUrl": "http://nytimes.com",
       "articles": [
         {
+          "id": "https://cn.nytimes.com/opinion/20261113/jensen-huang-nvidia/dual",
+          "author": null,
+          "description": "STEPHEN WITT2026年11月13日\nWe live in the age of artificial intelligence — an age that Jensen Huang, perhaps more than any other single person, has made possible. The systems we are building with Nvidia’s equipment will transform our society and culture in ways we can’t imagine. But Mr. Huang’s unraveling is not a technology story. It is a timeless tale of masculine hubris, of a man undone by reckless overconfidence. Some things never change.\n我们生活在人工智能的时代——而这个时代之所以成为可能，黄仁勋或许比任何其他个人贡献都大。借助英伟达设备构建的系统，我们将以无法想象的方式改变社会和文化。但黄仁勋的崩盘不是一个关于技术的故事。这是一个关于男性傲慢的永恒故事，讲述了一个因鲁莽自负而自取灭亡的男人。有些事永远不会改变。\nWhen I wrote my biography of Mr. Huang, I titled it “The Thinking Machine.” The name referred to the microchips that powered A.I., but also to Mr. Huang’s marauding, relentless intellect, which never slowed down or …",
+          "link": "https://cn.nytimes.com/opinion/20261113/jensen-huang-nvidia/dual",
+          "publishedOn": "2026-11-13T06:36:04.000Z",
+          "wordCount": 1621,
+          "title": "黄仁勋因何跌落神坛？傲慢与自负",
+          "imageUrl": "https://static01.nyt.com/images/2026/11/14/opinion/12Witt/12Witt-videoLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/usa/20261113/nvidia-ceo-huang-ai-memes/dual",
+          "author": null,
+          "description": "ZANE IRWIN2026年11月13日英伟达董事会周四宣布，联合创始人兼首席执行官黄仁勋已辞职。 Anthony Wallace/Agence France-Presse — Getty Images\nJensen Huang and his leather-clad likeness had become synonymous with the technological giant he co-founded, Nvidia. They were so entwined that, this year, the company sold $178 sweaters with a pixel-art version of Mr. Huang on the front.\n黄仁勋和他那身标志性的皮夹克装扮早已成为他联合创立的科技巨头英伟达的代名词。两者之间的联系如此紧密，以至于今年英伟达还推出了售价178美元的毛衣，胸前印着像素艺术风格的黄仁勋肖像。\nNow, in the wake of Mr. Huang’s resignation on Thursday after back-to-back cheating scandals, including an extramarital affair with a woman the U.S. government believes is a Chinese spy, the internet has taken ahold of his image to unleash a flood of memes.\n现在，在接连爆出出轨丑闻后，黄仁勋于周四辞职。其中一起婚外情的对象是一名被美国政府认为是中国间谍的女子。网友拿他的形象大做文章，制造出铺天盖地的迷因。\nIn many cases, they are being mad…",
+          "link": "https://cn.nytimes.com/usa/20261113/nvidia-ceo-huang-ai-memes/dual",
+          "publishedOn": "2026-11-13T05:36:04.000Z",
+          "wordCount": 896,
+          "title": "黄仁勋丑闻引发人工智能“玩梗”热潮",
+          "imageUrl": "https://static01.nyt.com/images/2026/11/12/multimedia/12int-nvidia-memes-1-hwzb/12int-nvidia-memes-1-hwzb-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/usa/20261113/trump-jensen-huang-nvidia/dual",
+          "author": null,
+          "description": "MAGGIE HABERMAN, JONATHAN SWAN, TRIPP MICKLE, JULIAN E. BARNES2026年11月13日特朗普总统与黄仁勋上个月在华盛顿的一场峰会期间。 Demetrius Freeman for The New York Times\nPresident Trump called Jensen Huang on Tuesday, before the Nvidia chief stepped down amid a rapidly unfolding spy scandal, and urged him to keep fighting for his job, according to two people briefed on the conversation.\n据两名了解此次通话的人士透露，在英伟达首席执行官于迅速发酵的间谍丑闻中辞职之前，特朗普总统周二曾致电黄仁勋，敦促他继续为保住职位而抗争。\nThe call was the latest instance of Mr. Trump defending and protecting Mr. Huang, who had become a high-profile ally and an influential adviser on artificial intelligence. The president continued to back him to the end, even after U.S. intelligence agencies had concluded that Mr. Huang was having an affair with a woman believed to be a Chinese spy.\n此次通话是特朗普为黄仁勋辩护和提供庇护的最…",
+          "link": "https://cn.nytimes.com/usa/20261113/trump-jensen-huang-nvidia/dual",
+          "publishedOn": "2026-11-13T03:36:04.000Z",
+          "wordCount": 1615,
+          "title": "特朗普曾敦促黄仁勋为保住英伟达CEO职位而战",
+          "imageUrl": "https://static01.nyt.com/images/2026/11/13/multimedia/13DC-TRUMP-HUANG-fwzc/13DC-TRUMP-HUANG-fwzc-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/business/20261113/jensen-huang-nvidia-successor/dual",
+          "author": null,
+          "description": "DON CLARK2026年11月13日预计很少有候选人能够延续黄仁勋在英伟达所推行的超扁平化管理结构。据估计，约有60名员工直接向他汇报工作。 Kenny Holston/The New York Times\nFinding a successor to Jensen Huang at Nvidia is being compared to replacing Steve Jobs at Apple. In many ways, it’s actually harder.\n为英伟达寻找黄仁勋的继任者正被拿来和在苹果接替史蒂夫·乔布斯相提并论。而在很多方面，前者实际上更难。\nMr. Huang, 63, has much deeper technical expertise than the late Mr. Jobs did, with a keen understanding of the field of artificial intelligence and what chips and other technologies are needed to support it.\n63岁的黄仁勋比已故的乔布斯拥有更深厚的专业技术知识，他对人工智能领域有着敏锐的洞察力，并深谙支持该领域所需的芯片及其他技术。\nUnlike Mr. Jobs, Mr. Huang also forged close friendships throughout the industry, creating a complex network of partners, customers and suppliers. He turned Nvidia into a major player in Washington, built on a close relationship with Pr…",
+          "link": "https://cn.nytimes.com/business/20261113/jensen-huang-nvidia-successor/dual",
+          "publishedOn": "2026-11-13T03:06:04.000Z",
+          "wordCount": 941,
+          "title": "谁能接替黄仁勋？英伟达可以考虑这些人",
+          "imageUrl": "https://static01.nyt.com/images/2026/11/12/multimedia/12biz-nvidia-successors-gcht/12biz-nvidia-successors-gcht-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/business/20261113/jensen-huang-economy-nvidia-ai/dual",
+          "author": null,
+          "description": "BEN CASSELMAN2026年11月13日在其他行业陷入困境之际，数据中心建设热潮成为美国经济增长的重要推动力，而英伟达一直在为这股建设热潮提供融资支持。 Callaghan O'Hare for The New York Times\nAs investors have pumped trillions of dollars into artificial intelligence companies, chipmakers and data center developers, the economy has come to rely on the industry as its primary — some would argue only — reliable driver of growth.\n随着投资者向人工智能公司、芯片制造商和数据中心开发商投入数万亿美元，人工智能行业已成为美国经济增长最主要的可靠动力，甚至有人认为是唯一的可靠动力。 \nNo company has been more central to that growth than Nvidia, whose chips fill the data centers that power A.I. and whose money helps to finance them. And, at least until this week, it was impossible to imagine Nvidia without Jensen Huang, its high-flying, leather-clad co-founder and chief executive.\n在这一增长过程中，没有哪家企业比英伟达更为核心。为人工智能提供算力的数据中心里布满了英伟达的芯片，英伟达的资金也为这些数据中心的建…",
+          "link": "https://cn.nytimes.com/business/20261113/jensen-huang-economy-nvidia-ai/dual",
+          "publishedOn": "2026-11-13T02:36:04.000Z",
+          "wordCount": 1136,
+          "title": "黄仁勋下台会成为人工智能泡沫破裂的开端吗",
+          "imageUrl": "https://static01.nyt.com/images/2026/11/12/multimedia/12biz-nvidia-live-economy-mktc/12biz-nvidia-live-economy-mktc-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/technology/20261113/nvidia-colette-kress-jensen-huang/dual",
+          "author": null,
+          "description": "ADAM SATARIANO, KALLEY HUANG2026年11月13日英伟达于周四发布首席财务官科莱特·克雷斯的照片。 Nvidia, via Reuters\nNvidia said on Thursday that Colette Kress, the company’s chief financial officer, would be the company’s interim chief executive officer, following the resignation of its longtime leader, Jensen Huang, who admitted to an extramarital affair with a businesswoman U.S. intelligence agencies believe to be a spy for China.\n英伟达周四表示，在该公司长期领导人黄仁勋辞职后，首席财务官科莱特·克雷斯将担任临时首席执行官。黄仁勋承认与一名被美国情报机构认为是中国间谍的女商人有婚外情。\n“The board has full confidence in Colette and the leadership team,” said Harvey C. Jones, the newly named chair of Nvidia’s board of directors in a statement. “We expect the company’s operations, customer commitments and product roadmap to continue without interruption.”\n“董事会对科莱特和领导团队充满信心，”新任英伟达董事会主席哈维·C·琼斯在一份声明中表示…",
+          "link": "https://cn.nytimes.com/technology/20261113/nvidia-colette-kress-jensen-huang/dual",
+          "publishedOn": "2026-11-13T02:36:04.000Z",
+          "wordCount": 940,
+          "title": "关于英伟达临时CEO克雷斯，我们知道些什么",
+          "imageUrl": "https://static01.nyt.com/images/2026/11/12/multimedia/12biz-nvidia-CFO-topart-mzjt/12biz-nvidia-CFO-topart-mzjt-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/world/20261113/nvidia-megaspeed-alice-huang/dual",
+          "author": null,
+          "description": "孟建国2026年11月13日Megaspeed位于新加坡的办公室。该公司由黄乐掌管，她是涉及英伟达首席执行官黄仁勋间谍案的核心人物。 Taryn Ng/Agence France-Presse — Getty Images\nSingapore’s government said on Thursday the United States had provided little help in its investigation into Alice Huang, the woman at the center of a spy plot that has led to the investigation of Nvidia’s chief executive, Jensen Huang.\n新加坡政府周四表示，在其针对黄乐(Alice Huang)展开的调查中，美方几乎未提供协助。黄乐是这起间谍案的核心人物，该案已导致英伟达首席执行官黄仁勋受到调查。\nSingaporean authorities held Ms. Huang’s passport to prevent her from leaving the country from June 2025 until February over “potential false declarations” in relation to her company, Megaspeed, which is based in the country, the government said in a statement. She was ultimately released with a “stern warning” and barred from re-entering Singapore.\n新加坡政府在声明中说，由于黄乐与其…",
+          "link": "https://cn.nytimes.com/world/20261113/nvidia-megaspeed-alice-huang/dual",
+          "publishedOn": "2026-11-13T01:36:04.000Z",
+          "wordCount": 632,
+          "title": "新加坡政府：在调查黄乐公司时美国几乎未予协助",
+          "imageUrl": "https://static01.nyt.com/images/2026/11/12/multimedia/12biz-Singapore-Alice-fmtb/12biz-Singapore-Alice-fmtb-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/china/20261113/china-spy-espionage-romance/dual",
+          "author": null,
+          "description": "郭莉莉2026年11月13日2024年，英伟达首席执行官黄仁勋与黄乐在台湾台北。美国官员表示，一个间谍机构招募了她，以收集有关黄仁勋的情报。 Obtained By Reuters\nAt the height of the Cold War, a top official in China’s intelligence agency said that his country would never use seduction to entrap a person.\n在冷战正酣之时，中国情报机构的一名高官曾表示，中国绝不会利用美色给人设圈套。\nSuch tactics might be for the C.I.A. or the K.G.B., the official named Kong Yuan, of the Central Investigation Department, told a group of agents in training in April 1960, but China was guided by principles. He looked at the few female comrades in the audience. “Rest assured, we will not be asking you to go run beauty traps.”\n1960年4月，这位名叫孔原的中央调查部官员在对一批受训特工讲话时表示，此类策略也许是中央情报局或克格勃的作风，但中国做事是讲原则的。他看着台下为数不多的女同志说：“放心，我们不会要求你们去施美人计。”\nDespite that pledge, captured in a 2010 memoir by a former Chinese diplomat, China’s intellige…",
+          "link": "https://cn.nytimes.com/china/20261113/china-spy-espionage-romance/dual",
+          "publishedOn": "2026-11-13T01:06:04.000Z",
+          "wordCount": 1481,
+          "title": "“美人计”：中国间谍机构如何利用亲密关系套取情报",
+          "imageUrl": "https://static01.nyt.com/images/2026/11/12/multimedia/12int-china-espionage-01-qvpc/12int-china-espionage-01-qvpc-articleLarge.jpg"
+        },
+        {
           "id": "https://cn.nytimes.com/technology/20261113/heres-the-latest/dual",
           "author": null,
           "description": "TRIPP MICKLE, MAGGIE HABERMAN2026年11月13日在硅谷，很少有高管像英伟达联合创始人兼首席执行官黄仁勋那样，与自己所在的公司如此密不可分。 Manuel Orbegozo for The New York Times\nJensen Huang, the co-founder and chief executive of the Silicon Valley chip giant Nvidia, resigned on Thursday, according to the company’s board of directors, capping a swift, stunning fall of one of the most powerful figures in the A.I. boom. His departure came after revelations that he had extramarital affairs with an executive who reported to him and with a woman whom U.S. intelligence agencies concluded was spying for China.\n据英伟达董事会消息，这家硅谷芯片巨头的联合创始人兼首席执行官黄仁勋于周四辞职。黄仁勋是人工智能热潮中最具影响力的人物之一，这一消息为其在英伟达的职业生涯画上了骤然且令人震惊的句号。此前他被披露与一名向其汇报工作的公司高管以及一名被美国情报机构认定为中国间谍的女性有婚外情。\nPresident Trump, who had defended Mr. Huang over the past week, praised him for doing a “fantastic job” a…",
@@ -7308,36 +7506,6 @@
           "wordCount": 1413,
           "title": "阴谋、疑团和争议：朴正熙暗杀事件电影加剧韩国文化战争",
           "imageUrl": "https://static01.nyt.com/images/2026/10/12/multimedia/00int-skorea-film-01-tqvh/00int-skorea-film-01-tqvh-videoLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/usa/20261015/trump-administration-kimberly-guilfoyle-women/dual",
-          "author": null,
-          "description": "ERICA L. GREEN2026年10月15日前白宫新闻秘书卡罗琳·莱维特于8月离任。 Shelby Tauber for The New York Times\nThe ouster of Kimberly Guilfoyle, who until this week was the U.S. ambassador to Greece, was surprising in its particulars. It was announced on live TV, during the first-ever briefing by the new White House press secretary.\n金伯利·吉尔福伊尔本周之前还是美国驻希腊大使，她的解职在具体情节上令人意外：消息是在新任白宫新闻秘书的首次简报会上通过电视直播宣布的。\nBut Ms. Guilfoyle’s forced resignation also was part of a larger pattern in President Trump’s second term: The prominent figures who have departed the administration, either voluntarily or involuntarily, overwhelmingly are women.\n但吉尔福伊尔的被迫辞职也折射出特朗普第二个任期内一个总体规律：离开政府的知名人物，无论自愿还是非自愿，绝大多数是女性。\nMs. Guilfoyle was the latest high-ranking woman to leave this year. In the spring, four of Mr. Trump’s eight female cabinet-level offic…",
-          "link": "https://cn.nytimes.com/usa/20261015/trump-administration-kimberly-guilfoyle-women/dual",
-          "publishedOn": "2026-10-15T03:36:04.000Z",
-          "wordCount": 1447,
-          "title": "那些从特朗普内阁中“消失”的女性",
-          "imageUrl": "https://static01.nyt.com/images/2026/10/14/multimedia/14dc-trump-women-kl-twcm/14dc-trump-women-kl-twcm-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/technology/20261015/chinese-ai-agents-rogue/dual",
-          "author": null,
-          "description": "DYLAN FREEDMAN2026年10月15日\nArtificial intelligence researchers uncovered Chinese-made A.I. agents that had gone rogue this month, trying to bypass anti-robot protections on websites and using a security credential for an online mapping service that had been exposed on the internet.\n本月，人工智能研究人员发现了一些失控的中国制造的人工智能智能体，它们试图绕过网站的反机器人保护措施，并利用了一组此前已在互联网上泄露的在线地图服务安全凭证。\nWhile going off the rails has become increasingly common for American-made A.I. agents, causing considerable hand-wringing in Silicon Valley and Washington, it was believed to be the first time that sort of activity was connected to Chinese technology. The agents were traced to tests being run by the Chinese tech giant Tencent, according to logs the researchers uncovered and a person familiar with the investigation.\n尽管美国制造的人工智能智能体失控变得越…",
-          "link": "https://cn.nytimes.com/technology/20261015/chinese-ai-agents-rogue/dual",
-          "publishedOn": "2026-10-15T02:36:04.000Z",
-          "wordCount": 1076,
-          "title": "中国人工智能加入“失控”大军：腾讯AI被指越界操作",
-          "imageUrl": "https://static01.nyt.com/images/2026/10/14/multimedia/14biz-agents-chat-tencent-zwgj/14biz-agents-chat-tencent-zwgj-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/business/20261015/china-exports-trade-surplus/dual",
-          "author": null,
-          "description": "KEITH BRADSHER2026年10月15日货币疲软使中国商品在海外更具竞争力，同时提高了国内进口产品的成本。 Gilles Sabrié for The New York Times\nA record-setting surge in China’s exports dwarfed its imports in September, as the country’s vast manufacturing sector churned out cars, solar panels, electrical equipment and other goods for markets worldwide.\n中国出口在9月的创纪录激增使其进口相形见绌，该国庞大的制造业部门为全球市场生产了汽车、太阳能电池板、电气设备和其他商品。\nChina’s General Administration of Customs said the country recorded a $133.5 billion trade surplus last month, the second-highest month ever. The latest figures put China on course to considerably exceed last year’s record $1.19 trillion trade surplus.\n中国海关总署表示，中国上月录得1335亿美元的贸易顺差，为有史以来第二高的月份。最新数据使中国有望大幅超过去年创纪录的1.19万亿美元贸易顺差。\nAnother month of skyrocketing exports is expected to further stoke tensions with many trading partners, in…",
-          "link": "https://cn.nytimes.com/business/20261015/china-exports-trade-surplus/dual",
-          "publishedOn": "2026-10-15T01:06:05.000Z",
-          "wordCount": 1061,
-          "title": "中国出口激增，年度贸易顺差有望再次刷新纪录",
-          "imageUrl": "https://static01.nyt.com/images/2026/10/14/multimedia/14biz-china-trade-fcvw/14biz-china-trade-fcvw-articleLarge.jpg"
         }
       ]
     },
@@ -7346,6 +7514,36 @@
       "feedUrl": "https://plink.anyfeeder.com/weixin/ibookreview",
       "siteUrl": "http://weixin.sogou.com/weixin?type=1&s_from=input&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A",
       "articles": [
+        {
+          "id": "c1f78178cb04735ac4f2dba17f996fc3",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E7%BE%8E%E5%9B%BD%E8%91%97%E5%90%8D%E6%B3%95%E5%AD%A6%E5%AE%B6%E7%90%86%E6%9F%A5%E5%BE%B7%C2%B7%E6%B3%A2%E6%96%AF%E7%BA%B3%E9%80%9D%E4%B8%96%EF%BC%8C%E4%BA%AB%E5%B9%B487%E5%B2%81",
+          "publishedOn": "2026-11-13T02:29:00.000Z",
+          "wordCount": 256,
+          "title": "美国著名法学家理查德·波斯纳逝世，享年87岁",
+          "imageUrl": null
+        },
+        {
+          "id": "a2b397e8d761b17e5c191ecc1750e42d",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E9%87%8D%E8%AF%BB%E3%80%8A%E7%A4%BE%E6%88%8F%E3%80%8B%EF%BC%9A%E9%B2%81%E8%BF%85%E6%98%AF%E6%80%8E%E6%A0%B7%E7%94%A8%E6%96%87%E5%AD%97%E2%80%9C%E6%8B%8D%E2%80%9D%E7%94%B5%E5%BD%B1%E7%9A%84%EF%BC%9F%7C%20%E9%87%8D%E6%96%B0%E9%81%87%E8%A7%81%E8%AF%AD%E6%96%87%E8%AF%BE%E2%91%B2%E2%80%8C",
+          "publishedOn": "2026-11-13T02:29:00.000Z",
+          "wordCount": 260,
+          "title": "重读《社戏》：鲁迅是怎样用文字“拍”电影的？| 重新遇见语文课⑲‌",
+          "imageUrl": null
+        },
+        {
+          "id": "60b841c1103dcdef37ff0f77bdac21b4",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E8%91%A3%E6%A0%91%E5%AE%9DX%E6%B1%AA%E6%B0%91%E5%AE%89%EF%BC%9A%E9%80%9A%E8%BF%87%E7%A6%8F%E6%9F%AF%E5%8F%82%E4%B8%8E%E7%9A%84%E5%B9%BF%E6%92%AD%E8%8A%82%E7%9B%AE%EF%BC%8C%E9%87%8D%E6%96%B0%E7%90%86%E8%A7%A3%E4%BB%96%E7%9A%84%E6%80%9D%E6%83%B3",
+          "publishedOn": "2026-11-13T02:29:00.000Z",
+          "wordCount": 297,
+          "title": "董树宝X汪民安：通过福柯参与的广播节目，重新理解他的思想",
+          "imageUrl": null
+        },
         {
           "id": "c056077a7fba0a2bf04151ffc7206242",
           "author": null,
@@ -8284,36 +8482,6 @@
           "publishedOn": "2026-10-16T02:01:00.000Z",
           "wordCount": 301,
           "title": "文鸣×赵昱鲲×林小英：一个人长成他自己，从来不是一件自然而然的事",
-          "imageUrl": null
-        },
-        {
-          "id": "e21f1b7b30b9097c8130958d112500e1",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E8%91%A3%E6%A0%91%E5%AE%9D%E3%80%81%E6%B1%AA%E6%B0%91%E5%AE%89%EF%BC%9A%E7%99%BE%E5%B9%B4%E8%AF%9E%E8%BE%B0%20%E5%90%AC%E8%A7%81%E7%A6%8F%E6%9F%AF%EF%BD%9C%E3%80%8A%E7%A6%8F%E6%9F%AF%20%E5%B9%BF%E6%92%AD%E7%94%B5%E5%8F%B0%E8%AE%BF%E8%B0%881961-1983%20%E2%85%A0%E3%80%8B%E7%9B%B4%E6%92%AD%E9%A2%84%E5%91%8A",
-          "publishedOn": "2026-10-15T02:16:00.000Z",
-          "wordCount": 268,
-          "title": "董树宝、汪民安：百年诞辰 听见福柯｜《福柯 广播电台访谈1961-1983 Ⅰ》直播预告",
-          "imageUrl": null
-        },
-        {
-          "id": "fb54a6014bdc72c5be523d5b172f0199",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E7%B1%B3%E6%AD%87%E5%B0%94%C2%B7%E7%A6%8F%E6%9F%AF%E8%AF%9E%E8%BE%B0%E7%99%BE%E5%B9%B4%EF%BC%9A%E6%8A%B5%E6%8A%97%E8%A7%84%E8%AE%AD%E7%9A%84%E5%AE%9E%E8%B7%B5%E6%99%BA%E6%85%A7",
-          "publishedOn": "2026-10-15T02:16:00.000Z",
-          "wordCount": 311,
-          "title": "米歇尔·福柯诞辰百年：抵抗规训的实践智慧",
-          "imageUrl": null
-        },
-        {
-          "id": "e1f4c6386b42cf5f6ddcd55fceb203bc",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E4%B8%96%E7%95%8C%E7%9B%B2%E4%BA%BA%E6%97%A5%EF%BD%9C%E4%BB%96%E7%9C%BC%E7%9D%9B%E7%9C%8B%E4%B8%8D%E8%A7%81%EF%BC%8C%E5%8D%B4%E6%98%8E%E7%99%BD%E4%BA%86%E6%88%91%E7%9A%84%E6%82%B2%E4%BC%A4",
-          "publishedOn": "2026-10-15T02:16:00.000Z",
-          "wordCount": 293,
-          "title": "世界盲人日｜他眼睛看不见，却明白了我的悲伤",
           "imageUrl": null
         }
       ]
