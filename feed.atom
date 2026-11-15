@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mananchong.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-15T14:55:43.998Z</updated>
+    <updated>2026-11-15T21:10:23.673Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://mananchong.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://mananchong.github.io/osmosfeed/feed.atom"/>
@@ -7975,16 +7975,6 @@ E Ink 发布 Kaleido 4
         <summary type="html"><![CDATA[The state’s lawsuit deserves closer scrutiny.]]></summary>
         <author>
             <name>Will Swaim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[被量化的心跳：HRV 是身体的晴雨表，还是制造焦虑的数字游戏？]]></title>
-        <id>https://sspai.com/post/104231</id>
-        <link href="https://sspai.com/post/104231"/>
-        <updated>2026-10-17T06:58:04.000Z</updated>
-        <summary type="html"><![CDATA[这些设备最好的用途，不是让你更依赖它们，而是帮助你重新学会倾听自己。然后，在某个清晨，你不再需要看任何数字，就知道今天会是美好的一天。查看全文]]></summary>
-        <author>
-            <name>叁思Santh</name>
         </author>
     </entry>
 </feed>
