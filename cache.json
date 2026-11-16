@@ -6,6 +6,16 @@
       "siteUrl": "https://rweekly.org/atom.xml",
       "articles": [
         {
+          "id": "https://rweekly.org/2026-W47.html",
+          "author": null,
+          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Colin Fay, with help from the R Weekly team members and contributors.\nHighlight\nFriction Worth Keeping: What Keeps Us Human When AI Makes Everything Easy\nThe Changing Shape of Hot-Air Balloon Accidents: an interactive story built with R and D3\nSemantic segmentation in rplatypus and pyplatypus: what is in the box\nInsights\nFriction Worth Keeping: What Keeps Us Human When AI Makes Everything Easy\n\nWhat’s Changed for AI in Pharma, and What to Watch Next\nIntroducing PLaMo-based AI translation for Bioconductor lessons\nR in the Real World\nThe Cowbell King\nTidyTuesday 2026/45\nDistribution of race by ZCTA\nThe rule of law and economic growth: what three decades of data show\nUsing R to…",
+          "link": "https://rweekly.org/2026-W47.html",
+          "publishedOn": "2026-11-16T00:00:00.000Z",
+          "wordCount": 6358,
+          "title": "R Weekly 2026-W47 Friction Worth Keeping, Balloon Accidents, Semantic Segmentation",
+          "imageUrl": "https://rweekly.org/public/facebook.png"
+        },
+        {
           "id": "https://rweekly.org/2026-W46.html",
           "author": null,
           "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Jonathan Carroll, with help from the R Weekly team members and contributors.\nHighlight\nmizu: thread-speed parallel R and Python over shared memory\nBring your own agent to Positron with the Positron MCP\nModelling cell-type proportions in repeated-measures designs with sccomp: a TMA case study\nInsights\nInteractive, reproducible figures inside teal\nSAS to R: Why R, and Where Your Migration Budget Should Go\nAgents in Production: Build Your First AI Agent in R with {ellmer}\nR Consortium Awards Second Round of 2026 Technical Grants\nPostal codes and tessellations\nBring your own agent to Positron with the Positron MCP\nposit::glimpse() Newsletter – November 2026\nWhat’s New in R: Nove…",
@@ -64,6 +74,66 @@
       "feedUrl": "https://www.nationalreview.com/feed/",
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
+        {
+          "id": "https://www.nationalreview.com/?p=83beb194-eabb-4252-86ae-29e184910943",
+          "author": "Abigail Anthony",
+          "description": "Through October and November, this mediocre flavor and scent are in everything everywhere all the time.",
+          "link": "https://www.nationalreview.com/article/standing-athwart-pumpkin-tyranny",
+          "publishedOn": "2026-11-16T16:16:38.000Z",
+          "wordCount": null,
+          "title": "Standing Athwart Pumpkin Tyranny",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=dd55adf8-2b54-4212-87d5-4dc868b43dc6",
+          "author": "Kathryn Jean Lopez",
+          "description": "Remembering God’s gift to New York City girls and beyond.",
+          "link": "https://www.nationalreview.com/article/she-lived-to-the-sound-of-god-s-music",
+          "publishedOn": "2026-11-16T11:00:00.000Z",
+          "wordCount": null,
+          "title": "She Lived to the Sound of God’s Music",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=27567b82-2f24-452d-b3d1-ac93b2351c13",
+          "author": "The Editors",
+          "description": "Every party elite reaches its point of exhaustion, and that’s where the Trump establishment is now.",
+          "link": "https://www.nationalreview.com/article/we-need-a-better-gop",
+          "publishedOn": "2026-11-16T11:00:00.000Z",
+          "wordCount": null,
+          "title": "We Need a Better GOP",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=35b6c07f-5871-4efb-9f5b-51585f332e4b",
+          "author": "Christopher J. Scalia",
+          "description": "The new senator from Texas has bad ideas about Christianity and democracy, but the press seems okay with that.",
+          "link": "https://www.nationalreview.com/article/james-talarico-s-incarnational-politics",
+          "publishedOn": "2026-11-16T11:00:00.000Z",
+          "wordCount": null,
+          "title": "James Talarico’s ‘Incarnational Politics’",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=6a22b4e2-1c36-497b-b9a8-c8cb610595ed",
+          "author": "Jianli Yang",
+          "description": "Can a triangle of the U.S., China, and Russia create a sustainable equilibrium of power, rules, and values?",
+          "link": "https://www.nationalreview.com/article/a-trump-xi-putin-summit-could-remake-the-world-order",
+          "publishedOn": "2026-11-16T11:00:00.000Z",
+          "wordCount": null,
+          "title": "A Trump–Xi–Putin Summit Could Remake the World Order",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=a65b72fd-67bb-4842-b3fc-dca82f1d423d",
+          "author": "John Fund",
+          "description": "Will the National Popular Vote Interstate Compact soon cross the 270-vote threshold?",
+          "link": "https://www.nationalreview.com/article/democrats-have-the-electoral-college-in-their-sights",
+          "publishedOn": "2026-11-15T21:56:26.000Z",
+          "wordCount": null,
+          "title": "Democrats Have the Electoral College in Their Sights",
+          "imageUrl": null
+        },
         {
           "id": "https://www.nationalreview.com/?p=f819f98b-d355-4e40-ae57-c9774a33cbbd",
           "author": "Victor Riches",
@@ -2133,46 +2203,6 @@
           "wordCount": null,
           "title": "Andy Beshear’s Perilous Invocation of Faith",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=2058557",
-          "author": "Andrew C. McCarthy",
-          "description": "Republicans and Democrats, together, should regard this week’s developments as the last straw.",
-          "link": "https://www.nationalreview.com/2026/10/congress-must-investigate-trumps-aid-and-comfort-to-putin/",
-          "publishedOn": "2026-10-17T10:30:56.000Z",
-          "wordCount": null,
-          "title": "Congress Must Investigate Trump’s Aid and Comfort to Putin",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=2058683",
-          "author": "Brian T. Allen",
-          "description": "This little Italian city is the place to go for the art of mosaics.",
-          "link": "https://www.nationalreview.com/2026/10/ravennas-mosaics-heaven-comes-to-earth/",
-          "publishedOn": "2026-10-17T10:30:48.000Z",
-          "wordCount": null,
-          "title": "Ravenna’s Mosaics, Heaven Comes to Earth",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=2057874",
-          "author": "Alan Charles Raul",
-          "description": "The Founders’ checks and balances are fraying but holding — barely. Whether they keep holding is up to ‘We the People.’",
-          "link": "https://www.nationalreview.com/2026/10/taming-the-machiavellian-presidency/",
-          "publishedOn": "2026-10-17T10:30:43.000Z",
-          "wordCount": null,
-          "title": "Taming the ‘Machiavellian Presidency’",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=2058761",
-          "author": "Will Swaim",
-          "description": "The state’s lawsuit deserves closer scrutiny.",
-          "link": "https://www.nationalreview.com/2026/10/californias-peculiar-n-word-case-against-tesla/",
-          "publishedOn": "2026-10-17T10:30:12.000Z",
-          "wordCount": null,
-          "title": "California’s Peculiar ‘N-Word’ Case Against Tesla",
-          "imageUrl": null
         }
       ]
     },
@@ -2181,6 +2211,46 @@
       "feedUrl": "https://sspai.com/feed",
       "siteUrl": "https://sspai.com",
       "articles": [
+        {
+          "id": "https://sspai.com/post/119148",
+          "author": "少数派编辑部",
+          "description": ">下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文",
+          "link": "https://sspai.com/post/119148",
+          "publishedOn": "2026-11-16T10:09:47.000Z",
+          "wordCount": 649,
+          "title": "派评 | 近期值得关注的 App",
+          "imageUrl": "https://rssfile.sspai.com/2026/11/16/article/3b1f40e6-1016-a8e1-19c9-cc68f5f8553c.png?imageMogr2/auto-orient/ignore-error/1"
+        },
+        {
+          "id": "https://sspai.com/post/118100",
+          "author": "化学心情下2",
+          "description": "Apple在Mac电脑的发展历程中经历过数次架构转换。其中最广为人知的，当属2005年从PowerPC转向Intelx86架构，以及从2020年启动、由Intelx86转向ARM64架构的AppleS ...查看全文",
+          "link": "https://sspai.com/post/118100",
+          "publishedOn": "2026-11-16T07:37:51.000Z",
+          "wordCount": 497,
+          "title": "Rosetta 2 即将退役，Mac 老应用何去何从？",
+          "imageUrl": "https://rssfile.sspai.com/2026/11/01/897991c7c9501f8075aa1197aec474ec.jpg?imageMogr2/auto-orient/ignore-error/1"
+        },
+        {
+          "id": "https://sspai.com/post/119012",
+          "author": "西鸽",
+          "description": "能切换老设备音质的媒体播放器。查看全文",
+          "link": "https://sspai.com/post/119012",
+          "publishedOn": "2026-11-16T02:52:11.000Z",
+          "wordCount": 337,
+          "title": "App+1｜不卡带：给你爱听的「老调」，配点记忆中的风味",
+          "imageUrl": "https://rssfile.sspai.com/2026/11/13/c83b3ea74fd5a3f583e57724a0af29b1.jpeg?imageMogr2/auto-orient/ignore-error/1"
+        },
+        {
+          "id": "https://sspai.com/post/119119",
+          "author": "少数派编辑部",
+          "description": "逾十万人次联署要求黄仁勋复职\nMicrosoft 365 服务在 19 小时全球宕机后恢复\n国产前沿模型携带 Blackwell GPU 特征\n线缆更换导致全美飞机停飞\n流媒体用户抱怨更难找到想看作品\n特斯拉 Cybercab 订阅协议包含苛刻条款\n看看就行的简讯\n少数派的近期动态\n你可能错过的好文章\n查看全文",
+          "link": "https://sspai.com/post/119119",
+          "publishedOn": "2026-11-15T23:24:34.000Z",
+          "wordCount": 577,
+          "title": "派早报：逾十万人次联署要求黄仁勋复职",
+          "imageUrl": "https://rssfile.sspai.com/11/16/2026/article/0d5cf814-6ac2-601c-a5d2-ebc588942daa.png?imageMogr2/auto-orient/ignore-error/1"
+        },
         {
           "id": "https://sspai.com/post/118392",
           "author": "尹颍",
@@ -3168,6 +3238,104 @@
       "feedUrl": "https://plink.anyfeeder.com/idaily/today",
       "siteUrl": "https://idai.ly",
       "articles": [
+        {
+          "id": "idaily-261721",
+          "author": "美国 · 得克萨斯州",
+          "description": "SpaceX 星舰原型机成功返回发射塔架，美国得州。11月14日，SpaceX 星舰原型机在第15次试飞中首次实现发射塔架机械臂捕获回收，星舰所有部件均状态良好。这艘星舰原型机在进入轨道后共释放26颗星链V3卫星，并环绕地球飞行14圈，整个任务过程持续约22.5小时。这是人类历史上首次成功实现回收进入地球轨道的火箭上面级，标志着 SpaceX 已成功实现星舰飞船和超重型助推器的单独回收。摄影师：Steve Nesius",
+          "link": "https://m.idai.ly/se/3eb8tA",
+          "publishedOn": "2026-11-16T10:49:00.000Z",
+          "wordCount": 259,
+          "title": "星舰飞船首次成功回收 - November 16, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/8d1f491a36/7ad270cf.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/8d1f491a36/7ad270cf.jpg"
+        },
+        {
+          "id": "idaily-261719",
+          "author": "菲律宾 · 马尼拉",
+          "description": "中国国务院总理李强与东盟11国领导人拉手合影，菲律宾马尼拉。11月16日，第29次中国-东盟领导人会议在马尼拉举行，与会各方就中国-东盟合作、国际与地区局势等议题进行讨论，会后发表关于中国-东盟建立全面战略伙伴关系5周年、构建能源合作伙伴关系、深化林业合作等成果文件，并宣布中国-东盟自贸区3.0版升级议定书将于2026年12月1日生效。本次会议未能就南海行为准则达成最终协议。中国和东盟连续6年互为最大贸易伙伴，2026年前10个月双边贸易额达1.12万亿美元，同比增长29.6%。摄影师：Ted Aljibe",
+          "link": "https://m.idai.ly/se/e9cm0a",
+          "publishedOn": "2026-11-16T09:58:00.000Z",
+          "wordCount": 259,
+          "title": "第29届中国-东盟峰会 - November 16, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/3af6f5230a/a9434529.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/3af6f5230a/a9434529.jpg"
+        },
+        {
+          "id": "idaily-261718",
+          "author": "柬埔寨 · 金边",
+          "description": "柬埔寨国王西哈莫尼会见法国总统 Emmanuel Macron 夫妇，金边王宫。11月15日，法国总统 Macron 与柬埔寨国王及首相分别举行会晤，双方就法柬关系、经贸合作、地区局势等议题交换意见，会后签署29项合作协议，涵盖能源、医疗卫生、农业、文化及国防安全等领域。两国商定继续在军事训练、能力建设、联合国维和行动等方面开展合作，共同打击包括网络诈骗在内的跨国有组织犯罪。柬埔寨历史上曾沦为法国殖民地长达90年，直至1953年取得独立。摄影师：Ludovic Marin",
+          "link": "https://m.idai.ly/se/eba6e2",
+          "publishedOn": "2026-11-16T08:57:00.000Z",
+          "wordCount": 259,
+          "title": "柬埔寨国王接见法国总统 - November 16, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/0a9e098a3e/1aae5ae1.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/0a9e098a3e/1aae5ae1.jpg"
+        },
+        {
+          "id": "idaily-261716",
+          "author": "中国 · 北京",
+          "description": "2026/27赛季国际滑联速度滑冰世界杯男子团体追逐小组赛在北京国家速滑馆举行。11月15日，2026/27赛季国际滑联速度滑冰世界杯北京站历时3天正式收官，本站比赛共有来自约20个国家和地区的近250名运动员参赛，中国速度滑冰队派出29名选手参赛，最终以4金2银3铜创下世界杯分站赛历史最佳战绩，宁忠岩夺得男子1000米和1500米冠军，并刷新1000米项目的场地纪录，廉子文、高亭宇分别获得男子500米第一次和第二次比赛金牌。2026/27赛季速度滑冰世界杯共设6站，赛程从2026年11月持续至2027年2月，下一站比赛将于11月20日至22日在日本带广举行。摄影师：Wu Hao",
+          "link": "https://m.idai.ly/se/384IRe",
+          "publishedOn": "2026-11-16T08:55:00.000Z",
+          "wordCount": 259,
+          "title": "2026国际速滑世界杯北京站 - November 16, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/d36684e5b5/c618fdc3.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/d36684e5b5/c618fdc3.jpg"
+        },
+        {
+          "id": "idaily-261715",
+          "author": "中国 · 香港",
+          "description": "香港市民观看2026年维多利亚港游泳比赛。11月15日，中国香港游泳总会主办的「维港泳2026」游泳比赛在维多利亚港举行，本年度共有约4000名选手参赛，泳道起点为湾仔金紫荆广场公众码头，终点为尖沙咀星光大道，全程约1公里。香港选手冼展霆以15分35秒的成绩卫冕男子组冠军，这亦是他自2014年以来第7次夺冠；另一名香港选手聂芷彦以16分55.1秒的成绩获得女子组冠军。摄影师：Keith Tsuji",
+          "link": "https://m.idai.ly/se/3e7SSz",
+          "publishedOn": "2026-11-16T08:53:00.000Z",
+          "wordCount": 259,
+          "title": "2026年维港泳比赛 - November 16, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/e90d644cce/def08ef7.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/e90d644cce/def08ef7.jpg"
+        },
+        {
+          "id": "idaily-261714",
+          "author": "印度 · 北方邦",
+          "description": "印度民众在漂浮有毒泡沫的亚穆纳河举行「太阳神节」（Chhath Puja）沐浴仪式，诺伊达。11月13日，印度教迎来一年一度的「太阳神节」，当地民众按照传统将进行沐浴、禁食、祭祀和祷告，祈求印度教太阳神苏利耶（Surya）赐予长寿、繁荣和幸福。印度首都德里政府在亚穆纳河设立超过1400座河坛供民众使用。德里污染控制委员会（DPCC）监测数据显示，亚穆纳河部分河段的生化需氧量达到30mg/l，相当于安全标准的10倍，达到严重污染水平。摄影师：Sunil Ghosh",
+          "link": "https://m.idai.ly/se/6cd9l2",
+          "publishedOn": "2026-11-16T08:51:00.000Z",
+          "wordCount": 259,
+          "title": "印度庆祝太阳神节 - November 16, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/dd94f244b5/fef1e5dd.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/dd94f244b5/fef1e5dd.jpg"
+        },
+        {
+          "id": "idaily-261711",
+          "author": "美国 · 佛罗里达州",
+          "description": "美国联合发射联盟「火神号」（Vulcan）运载火箭搭载亚马逊公司互联网卫星发射升空，佛罗里达州。11月15日，「火神号」火箭首次执行亚马逊「Leo」低轨互联网卫星发射任务，火箭升空约10分钟后出现异常，未能将搭载的40颗卫星送入预定轨道，任务宣告失败。这是美国联合发射联盟迄今首次火箭发射失败，具体原因尚未查明。亚马逊「Leo」星座目前在轨卫星总数达396颗，目标2029年7月底前部署完成3232颗卫星，该公司与美国联合发射联盟签订的合同共包含38次「火神号」火箭发射任务。摄影师：Joe Marino",
+          "link": "https://m.idai.ly/se/999a99",
+          "publishedOn": "2026-11-16T08:49:00.000Z",
+          "wordCount": 259,
+          "title": "火神号火箭首次发射失败 - November 16, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/ed2120cbed/7098750d.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/ed2120cbed/7098750d.jpg"
+        },
         {
           "id": "idaily-261661",
           "author": "中国 · 深圳",
@@ -5855,174 +6023,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://pic.yupoo.com/fotomag/9e6da1fceb/3e72304c.jpg"
-        },
-        {
-          "id": "idaily-260136",
-          "author": "日本 · 大阪",
-          "description": "大阪淀川花火大会的烟花在夜空中绽放。10月17日，大阪举行第38届淀川花火大会，本年度共燃放约2万枚烟花，时间持续1小时，吸引超过45万人观看。国际货币基金组织（IMF）本周发布新版《世界经济展望》，预测2027年日本以美元计价的名义 GDP 将跌至全球第6位，被印度和英国超越，日元贬值和日本经济增速较低是排名下滑的主要原因。摄影师：iDaily Media",
-          "link": "https://m.idai.ly/se/276GS5",
-          "publishedOn": "2026-10-18T03:59:00.000Z",
-          "wordCount": 281,
-          "title": "IMF预测日本跌至全球第6 - October 18, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/72ae3c07f5/ddbb302c.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/72ae3c07f5/ddbb302c.jpg"
-        },
-        {
-          "id": "idaily-260135",
-          "author": "美国 · 佛罗里达州",
-          "description": "美国总统 Donald Trump 在海湖庄园举办共和党筹款活动，佛罗里达州。10月16日，现年42岁的美国新任白宫新闻秘书 Katie Zacharia 上任5天后在社交媒体上宣布离职，成为史上在任时间最短的白宫新闻秘书。Katie 上任后因首场简报会表现不佳以及涉嫌履历造假而引起美国媒体的广泛质疑。美国总统 Trump 本周公开表示 Zacharia 遭到媒体的不公平对待，但是也暗示其不适合继续担任白宫新闻秘书一职。摄影师：Eric Lee",
-          "link": "https://m.idai.ly/se/46bZI9",
-          "publishedOn": "2026-10-18T02:59:00.000Z",
-          "wordCount": 281,
-          "title": "白宫新闻秘书上任5天离职 - October 18, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/2a0dbd3b29/1e6d7835.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/2a0dbd3b29/1e6d7835.jpg"
-        },
-        {
-          "id": "idaily-260134",
-          "author": "中国 · 广州",
-          "description": "中国新一代甲醇双燃料动力滚装船「广荣」轮准备启航，广州港。10月16日，新型绿色燃料汽车滚装船「广荣」轮从广州开启首航，本次航行共装载超过4000辆出口至欧洲市场的中国产新能源汽车。中国汽车工业协会公布数据显示，2026年1月至9月中国汽车出口累计达820.5万辆，同比增长65.8%，其中新能源汽车出口400.6万辆，同比增长130%，占整体出口比重的48.8%。摄影师：Chen Jimin",
-          "link": "https://m.idai.ly/se/f99cc3",
-          "publishedOn": "2026-10-18T02:57:00.000Z",
-          "wordCount": 281,
-          "title": "中国1至9月汽车出口增65.8% - October 18, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/f441f1d8f4/e5372c24.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/f441f1d8f4/e5372c24.jpg"
-        },
-        {
-          "id": "idaily-260133",
-          "author": "越南 · 河内",
-          "description": "越南第十六届国会第2次会议开幕，河内。10月17日，越南政府向国会提交2027年经济社会发展计划，包括 GDP 增长10%以上，CPI 涨幅控制在4.5%左右，人均 GDP 达到6100美元，社会劳动生产率增长8.6%，多维贫困家庭比例下降1至1.5个百分点，力争建成约17.6万套社会保障性住房和出租房等。越南总理黎明兴在国会报告中指出，越南2026年1至9月 GDP 增速达到9.01%，CPI 平均涨幅为4.52%，财政收入增长14%，预计全年进出口总额将达到1.1万亿美元，首次突破1万亿美元大关。摄影师：Luong Thai Linh",
-          "link": "https://m.idai.ly/se/41dY8p",
-          "publishedOn": "2026-10-18T02:55:00.000Z",
-          "wordCount": 281,
-          "title": "越南目标2027年经济增长10% - October 18, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/d55d02bf8a/63fd518b.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/d55d02bf8a/63fd518b.jpg"
-        },
-        {
-          "id": "idaily-260132",
-          "author": "巴西 · 巴西利亚",
-          "description": "巴西总统 Luiz Inacio Lula da Silva 庆祝40小时工作制法案在国会获得通过，巴西利亚。10月16日，巴西国会正式通过一项现任总统 Lula 力推的劳动者权利法案，主要内容为强制推行「每周双休/40小时工作制」，终结现行的「每周6天/44小时工作制」，并且规定雇主不能因缩短工时而减薪。这份新法案的实施过渡期为14个月，预计将影响超过3700万巴西劳动者。巴西总统大选第二轮决选投票将于10月25日举行，最新民调显示 Lula 支持率为45.9%，仍然落后竞争对手0.9个百分点。摄影师：Andre Borges",
-          "link": "https://m.idai.ly/se/3b34mJ",
-          "publishedOn": "2026-10-18T02:53:00.000Z",
-          "wordCount": 281,
-          "title": "巴西废除六天工作制 - October 18, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/4d1bc9ab35/7b317264.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/4d1bc9ab35/7b317264.jpg"
-        },
-        {
-          "id": "idaily-260131",
-          "author": "中国 · 上海",
-          "description": "2026年中国国际工业博览会，一台六臂机器人正在进行演示，上海。10月16日，第26届中国国际工业博览会在上海国家会展中心闭幕。本届工博会主题为「智能经济，智造无界」，共有来自24个国家和地区的逾3200家企业参展，累计吸引专业观众25.56万人次，较上届增长14.1%。国际机器人联合会（IFR）报告显示，2025年中国工业机器人装机总量达35.4万台，约占全球总安装量的59%，创历史新高，预计至2029年仍将保持5%至10%的年均增长率。摄影师：Ying Tang",
-          "link": "https://m.idai.ly/se/b39vBE",
-          "publishedOn": "2026-10-18T02:51:00.000Z",
-          "wordCount": 281,
-          "title": "第26届中国工博会闭幕 - October 18, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/340635975f/ddb46b66.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/340635975f/ddb46b66.jpg"
-        },
-        {
-          "id": "idaily-260102",
-          "author": "美国 · 得克萨斯州",
-          "description": "特斯拉第二代 Roadster 电动跑车进行离地飞行演示，美国得克萨斯州。10月15日，特斯拉公司正式公布第二代 Roadster 电动跑车，分为 Performance 公路版、Thrust 赛道版和 Rocket 单座飞行版。三个版本车型均配备2G抓地力的主动吸力系统，百公里加速耗时低于1秒，最高时速超过370公里，其中 Rocket 飞行版车身配备10个航天冷气体推进器，能够实现短时间离地飞行。摄影师：Tesla",
-          "link": "https://m.idai.ly/se/26752j",
-          "publishedOn": "2026-10-17T13:59:00.000Z",
-          "wordCount": 258,
-          "title": "特斯拉发布火箭科技跑车 - October 17, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/06bf42b8a0/3d1250d8.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/06bf42b8a0/3d1250d8.jpg"
-        },
-        {
-          "id": "idaily-260100",
-          "author": "加拿大 · 卡尔加里",
-          "description": "加拿大总理 Mark Carney 与阿尔伯塔省印度裔社区交流，卡尔加里。10月15日，加拿大总理 Carney 访问阿尔伯塔省开展旨在维持加拿大领土统一的宣传活动，他呼吁当地选民「选择留在加拿大」，承诺将重视该省意见，并警告独立分离可能带来难以预料的经济后果。阿尔伯塔省将于10月19日针对10项议题举行公投，其中1项议题为该省是否启动独立公投程序，5项为移民相关问题，4项为本省治理问题。民调显示约有30%的选民倾向于启动独立公投程序。阿尔伯塔省人口约为506万，人均 GDP 达71545加元，居全国首位。摄影师：Todd Korol",
-          "link": "https://m.idai.ly/se/ffdDDk",
-          "publishedOn": "2026-10-17T12:58:00.000Z",
-          "wordCount": 258,
-          "title": "加拿大阿省独立意愿公投 - October 17, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/10123a89a0/2b44cb30.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/10123a89a0/2b44cb30.jpg"
-        },
-        {
-          "id": "idaily-260098",
-          "author": "韩国 · 首尔",
-          "description": "第28届韩国半导体展览会（SEDEX 2026），SK海力士展示一款高带宽闪存设备，首尔。10月14日至16日，韩国最大半导体展览会 SEDEX 在首尔 COEX 会展中心举行，本届展会主题为「进入硅智能的时代」，共有300家企业参展，数量创下历史新高，预计吸引超过5万人参观。受全球人工智能投资情绪降温影响，韩国股市半导体板块本周遭遇历史性抛售，KOSPI 大盘指数暴跌约-14.46%，创下2008年10月以来最大单周跌幅。摄影师：Kim Hong-Ji",
-          "link": "https://m.idai.ly/se/4b58nI",
-          "publishedOn": "2026-10-17T12:57:00.000Z",
-          "wordCount": 258,
-          "title": "韩国半导体股遭抛售潮 - October 17, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/dec83fe506/eca58a01.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/dec83fe506/eca58a01.jpg"
-        },
-        {
-          "id": "idaily-260097",
-          "author": "日本 · 地震",
-          "description": "日本气象厅官员就误发地震预警进行道歉，东京。10月16日中午12时40分，日本气象厅发布一条错误紧急地震速报称「千岛群岛发生9.9级强震」，导致日本全境手机响起紧急警报要求民众紧急避险，电视台节目临时中断，部分铁路交通运营受扰。该地震速报在8分钟后被取消，日本气象厅随后澄清本次速报为系统误报，实际地震发生于俄罗斯堪察加半岛附近，震级为6.9级，日本仅北海道观测到1级轻微震感。日本气象厅官员在记者会上称本次误报原因是监测系统参数功能失灵，推测可能与人为失误有关。摄影师：iDaily Media",
-          "link": "https://m.idai.ly/se/5010xN",
-          "publishedOn": "2026-10-17T12:55:00.000Z",
-          "wordCount": 258,
-          "title": "日本误发9.9级地震警报 - October 17, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/3cbf6a01b2/66234bad.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/3cbf6a01b2/66234bad.jpg"
-        },
-        {
-          "id": "idaily-260096",
-          "author": "西班牙 · 拉帕尔马岛",
-          "description": "「切伦科夫望远镜阵列天文台」（CTAO）北半球观测站举行竣工典礼，西班牙拉帕尔马岛。10月15日，切伦科夫望远镜阵列天文台（CTAO）北半球观测站的4台大口径望远镜观测阵列正式竣工，该望远镜阵列由4个主镜口径达23米的固定式大型望远镜组成，每个望远镜均配备超高速相机，能够独立观测或立体交叉观测，目标是捕捉高能量伽马线与地球大气反应产生的「切伦科夫光」，从而为暗物质、宇宙线起源及黑洞等领域研究提供基础数据。摄影师：iDaily Media",
-          "link": "https://m.idai.ly/se/4ecIpS",
-          "publishedOn": "2026-10-17T12:53:00.000Z",
-          "wordCount": 258,
-          "title": "切伦科夫望远镜北座竣工 - October 17, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/0f0a8647e2/c02bc936.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/0f0a8647e2/c02bc936.jpg"
-        },
-        {
-          "id": "idaily-260095",
-          "author": "荷兰 · 劳沃斯奥格",
-          "description": "荷兰彼得布伦海豹中心，工作人员正在照料一只海豹，劳沃斯奥格。10月12日，荷兰彼得布伦海豹中心宣布该机构将在2周内因资金耗尽而申请破产，如果不能获得足够的捐助资金，该中心目前收容的70只海豹将失去照料环境，约40名员工将面临失业。彼得布伦海豹中心成立于1971年，主要救助因船舶撞击、渔网缠绕而受伤的成年海豹及海豹孤儿，是欧洲历史最悠久的海豹救助机构之一。摄影师：Sem van der Wal",
-          "link": "https://m.idai.ly/se/38dcL0",
-          "publishedOn": "2026-10-17T12:51:00.000Z",
-          "wordCount": 258,
-          "title": "荷兰海豹保护中心破产危机 - October 17, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/b809efaed4/49525f0c.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/b809efaed4/49525f0c.jpg"
         }
       ]
     },
@@ -6031,6 +6031,76 @@
       "feedUrl": "https://plink.anyfeeder.com/nytimes/dual",
       "siteUrl": "http://nytimes.com",
       "articles": [
+        {
+          "id": "https://cn.nytimes.com/technology/20261116/jensen-huang-nvidia-board/dual",
+          "author": null,
+          "description": "TRIPP MICKLE, ANA SWANSON, 孟建国, JONATHAN SWAN, JULIAN E. BARNES, MAGGIE HABERMAN2026年11月16日上周四，黄仁勋辞去了英伟达首席执行官的职务。 Mike Kai Chen for The New York Times\nJensen Huang was agitated.\n黄仁勋焦躁不安。\nIt was September 2025, and The New York Times had just called his company about a Singaporean data center firm called Megaspeed that had been led by a Chinese woman named Alice Huang, or Huang Le. The Times was reporting that Mr. Huang, the chief executive of the chip maker Nvidia, had a close relationship with her.\n那是2025年9月，《纽约时报》刚刚致电他的公司，询问一家名为Megaspeed的新加坡数据中心公司。该公司曾由一名叫黄乐(Alice Huang)的中国女性领导。《纽约时报》当时报道称，芯片制造商英伟达的首席执行官黄仁勋与她关系密切。\nMr. Huang, who Nvidia employees say could have a volcanic temper, wanted to know what The Times was insinuating. Though he didn’t deny that he knew the woman, he was bothered b…",
+          "link": "https://cn.nytimes.com/technology/20261116/jensen-huang-nvidia-board/dual",
+          "publishedOn": "2026-11-16T07:36:03.000Z",
+          "wordCount": 3103,
+          "title": "黄仁勋的婚外情秘密是如何泄露到公众视野的",
+          "imageUrl": "https://static01.nyt.com/images/2026/11/13/multimedia/BIZ-JENSEN-CRASH-1-01-ljmc/BIZ-JENSEN-CRASH-1-01-ljmc-articleLarge-v2.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/asia-pacific/20261116/jensen-huang-taiwan/dual",
+          "author": null,
+          "description": "袁莉2026年11月16日台北临江夜市。 \nWhen the news broke in Taiwan on Thursday night that Jensen Huang had resigned as Nvidia’s chief executive, Ray Wang was too upset to sleep. He drank a whole bottle of red wine and prayed for Mr. Huang.\n周四晚间，黄仁勋辞去英伟达首席执行官职务的消息传到台湾时，王永泰难过得睡不着。他喝了整整一瓶红酒，还为黄仁勋祈祷。\nA hairstylist, Mr. Wang, has been cutting Mr. Huang’s hair, watching it change from salt-and-pepper to silver, for nearly a decade.\n王永泰是一名发型师，近十年来一直为黄仁勋剪头发，看着他的头发从花白变成银灰。\n“Maybe they’ll bring him back,” Mr. Wang said, “the way Apple brought back Steve Jobs.”\n“也许他们会请他回来，”王永泰说，“就像苹果当年请回史蒂夫·乔布斯一样。”\nMr. Huang has many well-wishers like this in Taiwan. An American citizen, he moved to the United States when he was 9 years old, but he was born on the island and enjoys a godlike status there. Fans mobbed him at night m…",
+          "link": "https://cn.nytimes.com/asia-pacific/20261116/jensen-huang-taiwan/dual",
+          "publishedOn": "2026-11-16T06:06:03.000Z",
+          "wordCount": 1315,
+          "title": "台湾民众如何看待“国民爸爸”黄仁勋丑闻",
+          "imageUrl": "https://static01.nyt.com/images/2026/11/15/multimedia/15biz-newworld-taiwan-01-wgpc/15biz-newworld-taiwan-01-wgpc-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/world/20261116/nvidia-trump-huang-china-xi/dual",
+          "author": null,
+          "description": "KATIE ROGERS2026年11月16日\nAt major moments in President Trump’s second term, he has looked up during an economic speech or diplomatic dinner and asked a version of the same question: “Where’s Jensen?”\n在特朗普总统第二任期的几个重要时刻，他曾在发表经济演讲或出席外交晚宴时抬起头，问出一个大致相同的问题：“詹森在哪儿？”\nJensen Huang has usually been out there, somewhere in the room.\n黄仁勋通常就在现场，在场内的某个地方。\nMr. Huang, who was until Thursday the leather-jacketed chief executive of Nvidia, one of the world’s largest companies, had impressed the president with his success, his money and his argument that keeping China dependent on American-made semiconductor chips and technology could help maintain U.S. dominance over Beijing.\n直到周四前，黄仁勋还是全球最大企业之一英伟达的那个身穿皮夹克的首席执行官。他凭借自身的成功、财富，以及这样一种论点给总统留下了深刻印象：让中国保持对美国制造的半导体芯片和技术的依赖，有助于维持美国对北京的压制优势。\nMr. Trump made sure to hav…",
+          "link": "https://cn.nytimes.com/world/20261116/nvidia-trump-huang-china-xi/dual",
+          "publishedOn": "2026-11-16T03:06:03.000Z",
+          "wordCount": 1586,
+          "title": "黄仁勋事件为本周“习特会”蒙上阴影",
+          "imageUrl": "https://static01.nyt.com/images/2026/11/15/multimedia/15dc-trump-xi-01-bjgh/15dc-trump-xi-01-bjgh-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/usa/20261116/nvidia-alice-huang-spy-china/dual",
+          "author": null,
+          "description": "JULIAN E. BARNES, MAGGIE HABERMAN, JONATHAN SWAN2026年11月16日情报机构仍有许多关于黄乐的疑点需要厘清，而她与黄仁勋的关系正受到密切审视。 CTI, via Reuters\nAlice Huang, the Chinese executive at the center of the Nvidia spying scandal, was believed to be using her affair with Nvidia’s founder to help China get around U.S. efforts to restrict access to advanced A.I. chips, people who have read U.S. intelligence reporting said.\n据看过美国情报报告的人士透露，处于英伟达间谍丑闻中心的中国高管黄乐(Alice Huang)据信利用她与英伟达创始人的婚外情，帮助中国规避美国为限制先进人工智能芯片获取渠道而采取的措施。\nBut there remains much that intelligence agencies are still assessing about Ms. Huang including when she began working with China’s top spy agency, whether her cooperation was willing or coerced, how much direction Beijing gave her, and how much she relayed to officials there, the people said.\n但这些人士表示，情报机构仍在评估关于黄乐的许多问…",
+          "link": "https://cn.nytimes.com/usa/20261116/nvidia-alice-huang-spy-china/dual",
+          "publishedOn": "2026-11-16T02:36:04.000Z",
+          "wordCount": 1211,
+          "title": "英伟达丑闻引发讨论：究竟怎样才算间谍？",
+          "imageUrl": "https://static01.nyt.com/images/2026/11/13/multimedia/13dc-intel-vzbm/13dc-intel-vzbm-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/china/20261116/china-military-purge-zhang-shengmin-taiwan/dual",
+          "author": null,
+          "description": "储百亮2026年11月16日中央军委副主席张升民周四在北京出席会议。他最近被提拔进入中国共产党最高领导机构中共中央政治局。 Maxim Shemetov/Reuters\nWhen China’s leader, Xi Jinping, endorsed the expulsion of dozens of disgraced officials at a recent Communist Party meeting in Beijing, one man stood out as a clear winner.\n当中国领导人习近平在最近于北京举行的共产党会议上批准开除数十名失势官员时，有一人显然成为最大赢家。\nTaking his new place at the front of the meeting was Gen. Zhang Shengmin, the somber-faced enforcer of Mr. Xi’s purges inside the military. He had been promoted to the Politburo, the party’s top leadership council, the latest step in his improbable rise from low-profile inspector to a position second only to Mr. Xi in China’s military hierarchy.\n坐在会议前排新位置上的是张升民将军，这位面色凝重的人物是习近平军内整风行动的执行者。他已被提拔进入中共最高领导机构中央政治局。这是他令人难以置信的晋升之路上的最新一步，他从一名行事低调的纪检干部一路升至在中国军队高层中地位仅次于习近平的位置。\nGeneral Zhang has bee…",
+          "link": "https://cn.nytimes.com/china/20261116/china-military-purge-zhang-shengmin-taiwan/dual",
+          "publishedOn": "2026-11-16T02:36:04.000Z",
+          "wordCount": 1495,
+          "title": "习近平持续清洗军方、张升民崛起：利好台湾 ？",
+          "imageUrl": "https://static01.nyt.com/images/2026/11/12/multimedia/00int-china-general-01-lbjw/00int-china-general-01-lbjw-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/business/20261116/megaspeed-alice-huang-nvidia-china/dual",
+          "author": null,
+          "description": "ALI WATKINS2026年11月16日Megaspeed位于新加坡的办公室。该公司表示，前高管黄乐目前在公司没有担任任何职务。美国官员指控她为中国从事间谍活动。 Taryn Ng/Agence France-Presse — Getty Images\nMegaspeed, the Singaporean data center company, said in a statement on Sunday that Alice Huang, a former executive at the center of what U.S. officials call a Chinese spy plot targeting the Nvidia co-founder Jensen Huang, had left the company in August 2025.\n新加坡数据中心公司Megaspeed周日发表声明称，前高管黄乐已于2025年8月离职。黄乐是美国官员所称的一起针对英伟达联合创始人黄仁勋的中国间谍阴谋的核心人物。\nThe statement, which was reported by The Associated Press, was Megaspeed’s first to directly address the status of Ms. Huang since she became the focus of international scrutiny over her ties to Mr. Huang, who resigned from Nvidia on Thursday.\n据美联社报道，这是自黄乐因与黄仁勋的关系受到国际社会密切关注以来，Megaspeed首次直接回应她在公司的任职情况。黄仁勋已于周四从英伟达辞职。\nNews of their…",
+          "link": "https://cn.nytimes.com/business/20261116/megaspeed-alice-huang-nvidia-china/dual",
+          "publishedOn": "2026-11-16T02:06:03.000Z",
+          "wordCount": 980,
+          "title": "Megaspeed称黄乐已于去年8月离职",
+          "imageUrl": "https://static01.nyt.com/images/2026/11/15/multimedia/15xp-megaspeed1-zcvq/15xp-megaspeed1-zcvq-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/world/20261115/trump-putin-xi-china-nuclear-proliferation/dual",
+          "author": null,
+          "description": "KATIE ROGERS2026年11月15日特朗普总统将于本周在中国举行的峰会期间与中国领导人习近平和俄罗斯总统普京举行三方会晤。 Maxim Shemetov/Reuters\nPresident Trump will have a joint meeting with Xi Jinping, China’s leader, and President Vladimir V. Putin of Russia during a summit in China next week, a White House spokeswoman said on Friday.\n白宫发言人周五表示，在中国本周举行的峰会期间，特朗普总统将与中国领导人习近平和俄罗斯总统普京举行三方会晤。\nIt will be the first trilateral meeting the three leaders have held together, and the third meeting Mr. Trump has had with Mr. Xi in person this year. At the meeting with Mr. Putin and Mr. Xi, Mr. Trump plans to discuss the war against Iran, but is not expected to bring up Russia’s war with Ukraine.\n这将是三国领导人首次举行三方会晤，也是特朗普今年第三次与习近平举行面对面会谈。在与普京和习近平的会晤中，特朗普计划讨论针对伊朗的战争，但预计不会提及俄罗斯与乌克兰的战争。\nOlivia Wales, the White House spokeswoman, said that Mr. Trump would also …",
+          "link": "https://cn.nytimes.com/world/20261115/trump-putin-xi-china-nuclear-proliferation/dual",
+          "publishedOn": "2026-11-16T00:36:03.000Z",
+          "wordCount": 672,
+          "title": "特朗普、习近平和普京将在中国举行三方会晤",
+          "imageUrl": "https://static01.nyt.com/images/2026/11/13/multimedia/13dc-trilateral-meeting-kvtj/13dc-trilateral-meeting-kvtj-articleLarge.jpg"
+        },
         {
           "id": "https://cn.nytimes.com/opinion/20261113/jensen-huang-nvidia/dual",
           "author": null,
@@ -7269,6 +7339,36 @@
       "siteUrl": "http://weixin.sogou.com/weixin?type=1&s_from=input&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A",
       "articles": [
         {
+          "id": "3ba2cff3469d40fc093e1f746a800b56",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+35%E5%B2%81%E9%97%A8%E6%A7%9B%E3%80%81%E6%88%91%E2%80%9C%E7%97%9B%E2%80%9D%E6%95%85%E6%88%91%E5%9C%A8%EF%BC%9A%E8%BF%87%E5%8E%BB%E5%9B%9B%E4%B8%AA%E6%9C%88%EF%BC%8C%E6%88%91%E4%BB%AC%E5%88%9D%E9%80%89%E4%BA%86%E8%BF%99%E4%BA%9B%E8%AE%BA%E6%96%87",
+          "publishedOn": "2026-11-16T02:35:00.000Z",
+          "wordCount": 308,
+          "title": "35岁门槛、我“痛”故我在：过去四个月，我们初选了这些论文",
+          "imageUrl": null
+        },
+        {
+          "id": "4dd07f15b56b2a196c7aa0c43839b527",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E9%9B%BE%E4%B8%AD%E4%B9%8B%E8%88%9F%EF%BC%9A%E7%86%8A%E5%BD%BC%E7%89%B9%E7%9A%84%E7%9F%9B%E7%9B%BE%E4%BA%BA%E7%94%9F",
+          "publishedOn": "2026-11-16T02:35:00.000Z",
+          "wordCount": 283,
+          "title": "雾中之舟：熊彼特的矛盾人生",
+          "imageUrl": null
+        },
+        {
+          "id": "fabce61928f1665b1421079eae8459f0",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E2%80%9C%E5%AE%A3%E6%AD%A6%E9%97%A8%E4%B9%8B%E5%8F%98%E2%80%9D%EF%BC%8C%E4%B8%BA%E4%BB%80%E4%B9%88%E5%81%8F%E5%81%8F%E6%98%AF%E8%BF%99%E4%B8%80%E5%A4%A9%EF%BC%9A%E5%88%9D%E5%94%90%E7%9A%84%E4%B8%89%E4%B8%AA%E7%9E%AC%E9%97%B4",
+          "publishedOn": "2026-11-16T02:35:00.000Z",
+          "wordCount": 277,
+          "title": "“宣武门之变”，为什么偏偏是这一天：初唐的三个瞬间",
+          "imageUrl": null
+        },
+        {
           "id": "98503b9bf215b1263c3e92b342fcfd96",
           "author": null,
           "description": "",
@@ -8206,36 +8306,6 @@
           "publishedOn": "2026-10-19T02:58:00.000Z",
           "wordCount": 258,
           "title": "后来，我读懂了鲁迅，又好像没有",
-          "imageUrl": null
-        },
-        {
-          "id": "bdfac3658c4792d13948882d4e199bd2",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E8%87%AA%E9%97%AD%E7%97%87%E4%B8%8E%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7%E9%97%AE%E9%A2%98%E6%AD%A3%E5%9C%A8%E8%A2%AB%E8%BF%87%E5%BA%A6%E8%AF%8A%E6%96%AD%EF%BC%9F%E4%BD%9C%E5%AE%B6%E9%A9%AC%E7%89%B9%C2%B7%E6%B5%B7%E6%A0%BC%E6%8F%90%E5%87%BA%E7%96%91%E9%97%AE",
-          "publishedOn": "2026-10-18T01:59:00.000Z",
-          "wordCount": 299,
-          "title": "自闭症与心理健康问题正在被过度诊断？作家马特·海格提出疑问",
-          "imageUrl": null
-        },
-        {
-          "id": "601bee4ce680845722aa06bea3efec55",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E4%BD%A0%E5%A5%BD%EF%BC%8C%E8%BF%85%E5%93%A5%E5%84%BF%EF%BC%8C%E7%BB%88%E4%BA%8E%E9%81%87%E8%A7%81%E4%BD%A0%EF%BC%81",
-          "publishedOn": "2026-10-18T01:59:00.000Z",
-          "wordCount": 299,
-          "title": "你好，迅哥儿，终于遇见你！",
-          "imageUrl": null
-        },
-        {
-          "id": "5692129e9b59bd5fbb14074c48ecdd0e",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E8%AF%B7%E7%AD%89%E7%AD%89%E6%88%91%E5%95%8A%EF%BC%81%E8%8E%86%E7%94%B0%E6%B4%AA%E6%B0%B4%E5%90%8E%EF%BC%8C%E4%B8%80%E4%BD%8D%E8%AE%BF%E5%8F%A4%E4%BA%BA%E5%8E%BB%E5%92%8C%E4%BB%96%E6%8B%8D%E8%BF%87%E7%9A%84%E5%8F%A4%E5%BB%BA%E9%81%93%E5%88%AB",
-          "publishedOn": "2026-10-18T01:59:00.000Z",
-          "wordCount": 297,
-          "title": "请等等我啊！莆田洪水后，一位访古人去和他拍过的古建道别",
           "imageUrl": null
         }
       ]
