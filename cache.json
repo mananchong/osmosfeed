@@ -44,16 +44,6 @@
           "wordCount": 8553,
           "title": "R Weekly 2026-W44 15 yrs of ROpenSci, BAC in the browser",
           "imageUrl": "https://rweekly.org/public/facebook.png"
-        },
-        {
-          "id": "https://rweekly.org/2026-W43.html",
-          "author": null,
-          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Eric Nantz, with help from the R Weekly team members and contributors.\nHighlight\nHow Do I Contribute to R? A Guide to Getting Involved with R Core\n{renv}, {rix}, rv, uvr, ir: An explosion of R package and environment managers\nGenomes, Prompts, and Shiny: What I Built During My Summer at Posit\nInsights\nUsing Just to run a subset of test files\nIntroducing hal: a coding agent for R\n\n{renv}, {rix}, rv, uvr, ir: An explosion of R package and environment managers\nposit::glimpse() Newsletter – October 2026\nGenomes, Prompts, and Shiny: What I Built During My Summer at Posit\nR in the Real World\n TidyTuesday 2026/41 \n\nR in Organizations\nPositron October Release Highlights\nR in Academi…",
-          "link": "https://rweekly.org/2026-W43.html",
-          "publishedOn": "2026-10-19T00:00:00.000Z",
-          "wordCount": 7071,
-          "title": "R Weekly 2025-W43 R Core Contribution, Environment management, Shiny internship",
-          "imageUrl": "https://rweekly.org/public/facebook.png"
         }
       ]
     },
@@ -74,6 +64,56 @@
       "feedUrl": "https://www.nationalreview.com/feed/",
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
+        {
+          "id": "https://www.nationalreview.com/?p=080baf51-ceed-4e93-ab31-fa585efc305f",
+          "author": "Hendrik Brakel and Daniel Dorman",
+          "description": "Canada needs the United States. But the U.S. also needs, and greatly benefits from, its relationship with Canada in both trade and security.",
+          "link": "https://www.nationalreview.com/article/let-s-stop-fighting-gravity-in-u-s-canada-trade",
+          "publishedOn": "2026-11-17T11:00:00.000Z",
+          "wordCount": null,
+          "title": "Let’s Stop Fighting Gravity in U.S.-Canada Trade",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=c63c8af5-e807-430c-997c-4c01659f923b",
+          "author": "The Editors",
+          "description": "The government has demonstrated that it cannot operate this essential service competently.",
+          "link": "https://www.nationalreview.com/article/privatize-air-traffic-control",
+          "publishedOn": "2026-11-17T11:00:00.000Z",
+          "wordCount": null,
+          "title": "Privatize Air Traffic Control",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=708f1008-a925-4ec2-a86a-a8cb3e0b54a3",
+          "author": "Daniel R. DePetris",
+          "description": "It’s good news that Congress and Trump will soon be fighting about the war in Iran — and about war in general.",
+          "link": "https://www.nationalreview.com/article/the-return-of-the-war-powers-debate",
+          "publishedOn": "2026-11-17T11:00:00.000Z",
+          "wordCount": null,
+          "title": "The Return of the War Powers Debate",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=7b1d7dbf-704d-459c-b6d4-4574a61723c3",
+          "author": "John Gerardi",
+          "description": "In election after election, pro-lifers are being outspent and outorganized.",
+          "link": "https://www.nationalreview.com/article/what-pro-lifers-need-to-win-elections",
+          "publishedOn": "2026-11-17T11:00:00.000Z",
+          "wordCount": null,
+          "title": "What Pro-Lifers Need to Win Elections",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=3031a472-d383-493e-bbd1-3352fff7220a",
+          "author": "Noah Rothman",
+          "description": "Even with the left’s infighting, the GOP should not discount the possibility that a lasting majority party could be forged.",
+          "link": "https://www.nationalreview.com/article/what-if-democrats-don-t-succumb-to-disarray",
+          "publishedOn": "2026-11-16T19:52:41.000Z",
+          "wordCount": null,
+          "title": "What If Democrats Don’t Succumb to Disarray?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.nationalreview.com/?p=83beb194-eabb-4252-86ae-29e184910943",
           "author": "Abigail Anthony",
@@ -2153,56 +2193,6 @@
           "wordCount": null,
           "title": "It’s Time for a Reset in U.S.-Israel Relations",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=2058705",
-          "author": "James Lileks",
-          "description": "Brains are so outdated.",
-          "link": "https://www.nationalreview.com/2026/10/ais-great-big-dumbening-effect/",
-          "publishedOn": "2026-10-18T10:30:50.000Z",
-          "wordCount": null,
-          "title": "AI’s Great Big ‘Dumbening’ Effect",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=2055686",
-          "author": "John R. Puri",
-          "description": "Analyzing the Declaration of Independence’s standard of just power.",
-          "link": "https://www.nationalreview.com/2026/10/what-governments-are-for/",
-          "publishedOn": "2026-10-18T10:30:49.000Z",
-          "wordCount": null,
-          "title": "What Governments Are For",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=2059328",
-          "author": "Becket Adams",
-          "description": "There ought to be a rule: Anyone wishing to work in major-league news media must first spend a semester abroad in the Midwest.",
-          "link": "https://www.nationalreview.com/2026/10/journalists-casually-smear-school-choice-supporters-because-theyve-never-met-any/",
-          "publishedOn": "2026-10-18T10:30:42.000Z",
-          "wordCount": null,
-          "title": "Journalists Casually Smear School-Choice Supporters — Because They’ve Never Met Any",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=2058128",
-          "author": "Christopher Nye",
-          "description": "Those who accept it will feel compelled to install WeChat — and Beijing gets to keep the data.",
-          "link": "https://www.nationalreview.com/2026/10/xis-invitation-to-american-students-comes-with-dangerous-strings-attached/",
-          "publishedOn": "2026-10-18T10:30:31.000Z",
-          "wordCount": null,
-          "title": "Xi’s Invitation to American Students Comes with Dangerous Strings Attached",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=2057296",
-          "author": "Richard Nelson",
-          "description": "The Kentucky governor uses Scripture to justify political beliefs that belie biblical teachings.",
-          "link": "https://www.nationalreview.com/2026/10/andy-beshears-perilous-invocation-of-faith/",
-          "publishedOn": "2026-10-18T10:30:22.000Z",
-          "wordCount": null,
-          "title": "Andy Beshear’s Perilous Invocation of Faith",
-          "imageUrl": null
         }
       ]
     },
@@ -2211,6 +2201,46 @@
       "feedUrl": "https://sspai.com/feed",
       "siteUrl": "https://sspai.com",
       "articles": [
+        {
+          "id": "https://sspai.com/post/119184",
+          "author": "Matrix机器人",
+          "description": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文",
+          "link": "https://sspai.com/post/119184",
+          "publishedOn": "2026-11-17T09:02:00.000Z",
+          "wordCount": 695,
+          "title": "社区速递 166｜柯尼卡胶片机、iPhone Duo 体验与假期省钱实操大赏",
+          "imageUrl": "https://rssfile.sspai.com/2026/6/30/article/831096df-1239-9d40-8cb1-c42319e8f9f3.png?imageMogr2/auto-orient/ignore-error/1"
+        },
+        {
+          "id": "https://sspai.com/post/118976",
+          "author": "KingTsui",
+          "description": "这篇文章是TDSStudio在少数派上的第35篇文章，依然是全平台首发。早先我们评价过绯乐的虹，当时在评论区曾经有一些读者好奇它和BoseQC20的区别。有线降噪入耳耳机，在TWS时代到来之前曾经是一 ...查看全文",
+          "link": "https://sspai.com/post/118976",
+          "publishedOn": "2026-11-17T07:00:00.000Z",
+          "wordCount": 429,
+          "title": "TDS REVIEW｜Bose 有线消噪耳塞体验",
+          "imageUrl": "https://rssfile.sspai.com/2026/11/13/1b1a6c73eae6bcc35ebc4ba4ad86eaa7.jpg?imageMogr2/auto-orient/format/webp/ignore-error/1"
+        },
+        {
+          "id": "https://sspai.com/post/118442",
+          "author": "AstrianZ",
+          "description": "当外部的限制开始逐渐渗透、内化到每个人的内心，另一种真正的「可能性」在现今尤为珍贵。查看全文",
+          "link": "https://sspai.com/post/118442",
+          "publishedOn": "2026-11-17T02:59:51.000Z",
+          "wordCount": 557,
+          "title": "为了另一种可能性：在国内折腾 Linux 打游戏的二三事",
+          "imageUrl": "https://rssfile.sspai.com/2026/11/04/1241b6332b965cf9b14a9e3977dacfb4.jpg?imageMogr2/auto-orient/ignore-error/1"
+        },
+        {
+          "id": "https://sspai.com/post/119160",
+          "author": "少数派编辑部",
+          "description": "少数派的近期动态我们已开设专页，汇总展示「优秀作者评选」奖项及结果。「优秀作者评选」是编辑部自2023年起实行的机制，于每季度结束后，评选该季度贡献突出的现有作者，以及涌现出的有潜力新作者。获奖者会获 ...查看全文",
+          "link": "https://sspai.com/post/119160",
+          "publishedOn": "2026-11-16T23:57:40.000Z",
+          "wordCount": 760,
+          "title": "派早报：OPPO 发布 Reno17 系列、影石发布 Insta360 Toast 墨水屏相纸等",
+          "imageUrl": "https://rssfile.sspai.com/2026/11/17/article/c557b040-8fc2-17aa-512f-7d4898f194c6.png?imageMogr2/auto-orient/format/webp/ignore-error/1"
+        },
         {
           "id": "https://sspai.com/post/119148",
           "author": "少数派编辑部",
@@ -3200,36 +3230,6 @@
           "wordCount": 364,
           "title": "9 月音乐精选：用这 8 张新专辑，激发人生新可能",
           "imageUrl": "https://rssfile.sspai.com/2026/10/16/3e0368b16e2adad1ca43388fdcb6c282.jpg?imageMogr2/auto-orient/ignore-error/1"
-        },
-        {
-          "id": "https://sspai.com/post/115125",
-          "author": "蓬岸",
-          "description": "在开源掌机这个特定的产品类型背后，都有哪些故事值得讲？查看全文",
-          "link": "https://sspai.com/post/115125",
-          "publishedOn": "2026-10-19T02:49:51.000Z",
-          "wordCount": 920,
-          "title": "开源掌机的文化线索",
-          "imageUrl": "https://rssfile.sspai.com/2026/09/30/0d8500939d5f39eeb94a48708a82c039.jfif?imageMogr2/auto-orient/ignore-error/1"
-        },
-        {
-          "id": "https://sspai.com/post/116641",
-          "author": "少数派编辑部",
-          "description": "三季度全球手机出货量继续两位数下降\nRoadster 发布会留下诸多疑问\n闰时将取代闰秒\n微软声称 Windows 11 响应提速 20%，为 8GB 优化\nE Ink 发布 Kaleido 4\n全国铁路列车车次编排更新\n看看就行的简讯\n少数派的近期动态\n你可能错过的好文章\n查看全文",
-          "link": "https://sspai.com/post/116641",
-          "publishedOn": "2026-10-18T23:13:24.000Z",
-          "wordCount": 436,
-          "title": "派早报：三季度全球手机出货量继续两位数下降",
-          "imageUrl": "https://rssfile.sspai.com/10/19/2026/article/8cba2f55-bef1-7d71-6273-fd27c31ae648.png?imageMogr2/auto-orient/ignore-error/1"
-        },
-        {
-          "id": "https://sspai.com/post/115241",
-          "author": "leonmin",
-          "description": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
-          "link": "https://sspai.com/post/115241",
-          "publishedOn": "2026-10-18T07:01:02.000Z",
-          "wordCount": 253,
-          "title": "Quote/0 妙用 +1，把墨水屏变成点餐助手",
-          "imageUrl": "https://rssfile.sspai.com/2026/10/07/454ceb2bc005958f21f1d42f16b68326.jpg?imageMogr2/auto-orient/format/webp/ignore-error/1"
         }
       ]
     },
@@ -3238,6 +3238,118 @@
       "feedUrl": "https://plink.anyfeeder.com/idaily/today",
       "siteUrl": "https://idai.ly",
       "articles": [
+        {
+          "id": "idaily-261780",
+          "author": "中国 · 文昌",
+          "description": "长征八号甲遥十三运载火箭的整流罩和卫星组合体正在转运至发射台，海南文昌。11月16日，长征八号甲遥十三运载火箭进入发射前最后准备阶段，预计11月20日执行「国网星座」低轨互联网卫星系统的第30组卫星发射任务。长征八号甲是中国中低轨大型星座组网任务的主力火箭之一，全箭总长50.5米，芯级直径3.35米，整流罩直径5.2米，700公里太阳同步轨道运载能力达到7吨级。摄影师：iDaily Media",
+          "link": "https://m.idai.ly/se/fd5xaI",
+          "publishedOn": "2026-11-17T09:59:00.000Z",
+          "wordCount": 264,
+          "title": "长征八号甲准备发射 - November 17, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/bddb000215/387fc3c9.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/bddb000215/387fc3c9.jpg"
+        },
+        {
+          "id": "idaily-261779",
+          "author": "美国 · 华盛顿特区",
+          "description": "美国总统 Donald Trump 启程前往菲律宾前接受媒体采访，华盛顿特区。11月16日，美国总统 Trump 正式开启为期4天的亚洲之行，首站抵达菲律宾出席东盟-美国特别峰会、美日印澳四方安全对话，第二站抵达深圳出席 APEC 领导人峰会。中国外交部当天宣布，中国国家主席习近平将于11月19日同俄罗斯总统 Vladimir Putin、美国总统 Donald Trump 在深圳举行中俄美元首会晤，中俄美三国元首将围绕维护世界和平、促进大国关系战略稳定深入交换意见。这将是中俄美三国元首历史上首次面对面会晤。摄影师：Chip Somodevilla",
+          "link": "https://m.idai.ly/se/086Zkt",
+          "publishedOn": "2026-11-17T08:58:00.000Z",
+          "wordCount": 260,
+          "title": "特朗普开启亚洲之行 - November 17, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/962e36ea5d/6aae98b3.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/962e36ea5d/6aae98b3.jpg"
+        },
+        {
+          "id": "idaily-261778",
+          "author": "俄罗斯 · 莫斯科",
+          "description": "俄罗斯总统 Vladimir Putin 会见朝鲜劳动党代表团，莫斯科。11月15日，朝鲜劳动党中央委员会书记赵甬元率代表团访问俄罗斯，主要行程包括会晤俄总统以及出席统一俄罗斯党举办的「共同抵制新殖民主义」国际政党论坛大会。俄总统 Putin 再次对朝鲜协助俄军解放库尔斯克州表示感谢，宣布将在2026年底揭幕一座纪念俄朝两军共同功绩的雕塑。俄罗斯外交部当天宣布朝鲜领导人金正恩访俄事宜已列入日程。摄影师：Valery Sharifulin",
+          "link": "https://m.idai.ly/se/df572F",
+          "publishedOn": "2026-11-17T07:57:00.000Z",
+          "wordCount": 264,
+          "title": "普京会见朝鲜代表团 - November 17, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/b322e2dfec/48c876a4.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/b322e2dfec/48c876a4.jpg"
+        },
+        {
+          "id": "idaily-261776",
+          "author": "日本 · 东京",
+          "description": "东京证券交易所屏幕上显示日经指数即时数据。11月16日，日本内阁府公布2026年第三季度 GDP 同比下降-0.1%，为4个季度以来首次出现负增长，主要受私人消费萎缩、中东局势引发物价上涨等负面因素影响；其中私人消费在第三季度环比下降-0.3%，连续2个季度负增长。高盛预计日本央行将在12月货币政策会议上加息25个基点。摄影师：Eugene Hoshiko",
+          "link": "https://m.idai.ly/se/8b526i",
+          "publishedOn": "2026-11-17T07:55:00.000Z",
+          "wordCount": 260,
+          "title": "日本第三季度GDP跌-0.1% - November 17, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/7d6717fa56/09e32b1c.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/7d6717fa56/09e32b1c.jpg"
+        },
+        {
+          "id": "idaily-261775",
+          "author": "德国 · 萨克森州",
+          "description": "德国初创航天企业 Roboloon 公司研发的「蓝鲸」无人氦气飞艇准备试飞，莱比锡。11月16日，德国亥姆霍兹环境研究中心首次使用「蓝鲸」无人飞艇开展土壤湿度测量工作。这艘无人飞艇长17.5米、高4米，配备高灵敏度中子传感器，能够通过监测近地表中子流变化来计算土壤的含水量，尤其适合在沼泽、森林、山地、矿场等复杂地貌下开展土壤含水量测量工作，帮助评估火灾风险和进行洪灾、干旱预警。摄影师：Hendrik Schmidt",
+          "link": "https://m.idai.ly/se/f75l02",
+          "publishedOn": "2026-11-17T07:53:00.000Z",
+          "wordCount": 260,
+          "title": "德国无人氦气飞艇试飞 - November 17, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/a7e45104de/2d786c0e.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/a7e45104de/2d786c0e.jpg"
+        },
+        {
+          "id": "idaily-261774",
+          "author": "印度洋",
+          "description": "美军「罗斯福号」核动力航空母舰正在驶往部署海域。11月16日，美军中央司令部宣布「罗斯福号」核动力航母已经穿越印度洋进入中东地区执行例行部署任务。这是美军时隔7个月再次在中东地区集结部署3个航母打击群，另外2艘航母分别为「布什号」和「华盛顿号」核动力航母，打击群舰队共包括15艘驱逐舰、2艘巡洋舰和1艘濒海战斗舰，部署总兵力超过5万人。摄影师：US Navy",
+          "link": "https://m.idai.ly/se/726SC3",
+          "publishedOn": "2026-11-17T07:51:00.000Z",
+          "wordCount": 264,
+          "title": "美军三航母集结中东 - November 17, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/0b9675697d/c4b38f15.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/0b9675697d/c4b38f15.jpg"
+        },
+        {
+          "id": "idaily-261773",
+          "author": "巴基斯坦 · 白沙瓦",
+          "description": "一名巴基斯坦小学生在课堂上答题，白沙瓦。每年11月17日是国际学生日（International Students' Day），该节日起源于1939年11月17日捷克学生反抗纳粹占领、争取民族独立与自由的抗议活动。巴基斯坦是世界上失学儿童人数第二多的国家，5至16岁儿童中有2510万人失学，占该年龄段人口的35%。巴基斯坦2026年经济调查报告显示，该国10岁及以上人口识字率仅为63%，在南亚国家中排名倒数第一。摄影师：Bilawal Arbab",
+          "link": "https://m.idai.ly/se/7f77Rp",
+          "publishedOn": "2026-11-17T07:49:00.000Z",
+          "wordCount": 264,
+          "title": "2026年国际学生日 - November 17, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/47b3d13540/f70cdf87.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/47b3d13540/f70cdf87.jpg"
+        },
+        {
+          "id": "idaily-261759",
+          "author": null,
+          "description": "邓文原为元初三大书家之一，自重书艺，复身居显职，不轻为人作书。这件《清居院记》是邓文原传世稀见楷书长卷，写于元延祐五年（1318年），卷中详叙浙江吴兴清居院兴造始末，兼阐佛理，笔法精严，遒美峻拔，是认识邓文原楷书成就与学识修养的重要实证。此卷流传有绪，历经项元汴、卞永誉、安岐等明清重要藏家递藏，并曾经乾隆御览钤有「石渠宝笈」印，本季作为箧底珍宝领衔乐山堂主人蔡一鸣珍藏专场。中国嘉德2026秋拍-北京·11月。",
+          "link": "https://m.idai.ly/se/7864Aw",
+          "publishedOn": "2026-11-17T06:49:00.000Z",
+          "wordCount": 263,
+          "title": "中国嘉德2026秋拍亮点 · 邓文原《清居院记》 - November 17, 2026",
+          "enclosure": {
+            "url": "http://pic.yupoo.com/fotomag/1eec6b52d3/f37f947e.jpg",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://pic.yupoo.com/fotomag/1eec6b52d3/f37f947e.jpg"
+        },
         {
           "id": "idaily-261721",
           "author": "美国 · 得克萨斯州",
@@ -6032,6 +6144,86 @@
       "siteUrl": "http://nytimes.com",
       "articles": [
         {
+          "id": "https://cn.nytimes.com/business/20261117/nvidia-jensen-madison-huang/dual",
+          "author": null,
+          "description": "KALLEY HUANG, TRIPP MICKLE, RYAN MAC2026年11月17日8月，英伟达产品营销高级总监、黄仁勋之女黄敏珊在北京的2026年世界机器人大会上。 Maxim Shemetov/Reuters\nMadison Huang was yelling. Her father, Nvidia’s chief executive, Jensen Huang, had been scheduled to headline a conference in New Delhi in February. Shortly before the event, Mr. Huang pulled out and tapped a longtime lieutenant, Jay Puri, to attend in his place.\n黄敏珊在大吼。她的父亲、英伟达首席执行官黄仁勋原定于今年2月在新德里一场会议上发表主题演讲。活动前不久，黄仁勋退出，并指定长期副手杰伊·普里代为出席。\nBut Nvidia hadn’t buttoned up its plans for the conference, infuriating Ms. Huang. On a call ahead of the event, Ms. Huang berated other employees — including Mr. Puri — for being unprepared, said three people familiar with the meeting. Eventually, Mr. Puri interrupted and told Ms. Huang he could answer her questions if she stopped yelling at him…",
+          "link": "https://cn.nytimes.com/business/20261117/nvidia-jensen-madison-huang/dual",
+          "publishedOn": "2026-11-17T07:36:04.000Z",
+          "wordCount": 1697,
+          "title": "黄仁勋女儿留任引发担忧：脾气暴躁，曾导致多名高管离职",
+          "imageUrl": "https://static01.nyt.com/images/2026/11/16/multimedia/BIZ-MADISON-HUANG-1-01-cmjw/BIZ-MADISON-HUANG-1-01-cmjw-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/opinion/20261117/china-us-trump-asia-military/dual",
+          "author": null,
+          "description": "MIRA RAPP-HOOPER, ELY RATNER2026年11月17日 Damon Winter/The New York Times\nSince returning to the White House, President Trump has gambled that if Washington took a more accommodating stance toward China’s ambitions in Asia, Beijing would respond with restraint.\n自重返白宫以来，特朗普总统一直抱着这样一种侥幸心理：如果华盛顿对中国在亚洲的野心采取更包容的立场，北京方面就会以克制作为回应。\nThe Trump administration has scaled back key military operations in the region and withheld support for Taiwan and U.S. allies facing Chinese coercion. The hope has been that such measures would help avert a potential clash with China. But nearly two years into his second term, Mr. Trump’s approach is backfiring, emboldening China to throw its weight around Asia and raising the risk of a military crisis.\n特朗普政府缩减了在亚太地区的关键军事行动，并对面临中国胁迫的台湾及其他美国盟友拒绝提供支持。其初衷是，此类举措将有助于避免与中国发生潜在…",
+          "link": "https://cn.nytimes.com/opinion/20261117/china-us-trump-asia-military/dual",
+          "publishedOn": "2026-11-17T06:06:03.000Z",
+          "wordCount": 1212,
+          "title": "特朗普的对华豪赌正适得其反",
+          "imageUrl": "https://static01.nyt.com/images/2026/11/17/multimedia/13rapp-ratnerNew-tlpj/13rapp-ratnerNew-tlpj-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/asia-pacific/20261117/asean-trade-security-technology/dual",
+          "author": null,
+          "description": "DAMIEN CAVE2026年11月17日周一，各国领导人在马尼拉举行的东盟峰会上合影。 Pool photo by Ted Aljibe\nPresident Trump’s trip to Asia this week will largely be seen as a test of American power in the main region where the United States and China compete for influence.\n亚洲是美国与中国争夺影响力的主要地区。特朗普总统本周的亚洲之行在很大程度上将被视为对美国实力的一次考验。\nHis meetings in Manila and Shenzhen, China, will be scrutinized for shifts on trade and security. Deals he might strike with Beijing — plus a gathering with President Xi Jinping of China and President Vladimir V. Putin of Russia — will put the world’s great-power contest on display, as all three seek to show strength.\n外界将密切关注特朗普在马尼拉和中国深圳举行的会晤，从中寻找贸易和安全政策可能出现变化的迹象。他可能与北京达成的协议、他与习近平和普京举行的三方会晤都将成为世界大国角力的舞台。三位领导人都希望借此展示自己的实力。\nBut Asia is not just a theater of competition. Many countries in the region have bec…",
+          "link": "https://cn.nytimes.com/asia-pacific/20261117/asean-trade-security-technology/dual",
+          "publishedOn": "2026-11-17T05:36:03.000Z",
+          "wordCount": 974,
+          "title": "10个数字，让你更了解亚洲",
+          "imageUrl": "https://static01.nyt.com/images/2026/11/16/multimedia/16int-Asia-Index-kqmp/16int-Asia-Index-kqmp-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/usa/20261117/bessent-lutnick-china/dual",
+          "author": null,
+          "description": "ALAN RAPPEPORT, ANA SWANSON2026年11月17日\nPresident Trump heads to Asia on Monday for high-stakes meetings with foreign leaders aimed at ending Russia’s war in Ukraine and smoothing over trade frictions with China. But the most tense meeting could take place aboard Air Force One.\n特朗普总统周一启程前往亚洲，将与外国领导人举行一系列事关重大的会晤，希望结束俄罗斯在乌克兰的战争，并缓和美中贸易摩擦。但最紧张的一场会面可能就发生在“空军一号”上。\nSequestered together on the journey across the world will be Treasury Secretary Scott Bessent and Howard Lutnick, the commerce secretary, whose long-running rivalry has recently spilled into the open.\n在这段跨越大半个地球的行程中，财政部长斯科特·贝森特与商务部长霍华德·卢特尼克将被迫“困”在同一个机舱——两人由来已久的竞争关系近期已公开化。\nMr. Lutnick is under fire for slow-walking several measures aimed at clamping down on the supply of Nvidia chips to foreign data centers that serve Chinese clients. T…",
+          "link": "https://cn.nytimes.com/usa/20261117/bessent-lutnick-china/dual",
+          "publishedOn": "2026-11-17T04:36:04.000Z",
+          "wordCount": 1404,
+          "title": "白宫内部对华政策分歧公开化，贝森特日趋鹰派",
+          "imageUrl": "https://static01.nyt.com/images/2026/11/16/multimedia/16dc-bessent-01-tfpz/16dc-bessent-01-tfpz-videoLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/world/20261117/carney-china-xi-trump-putin-trade/dual",
+          "author": null,
+          "description": "IAN AUSTEN2026年11月17日加拿大总理马克·卡尼周六在马尼拉出席新闻发布会，他此行是为参加东南亚国家联盟峰会。 Ian Austen/The New York Times\nThe importance of Europe to Prime Minister Mark Carney’s plan to diversify Canada’s economy and politics away from its reliance on the United States was underscored last week by his travel schedule.\n上周，马克·卡尼总理的行程凸显了欧洲对于他推动加拿大经济和政治多元化、减少对美国依赖的计划的重要性。\nMr. Carney added a stop in Dublin, joining a meeting of European leaders before the start of a previously planned trip to Asia.\n卡尼在先前计划的亚洲之行开始前增加了都柏林一站，参加欧洲领导人会议。\nLast month Mr. Carney announced that Canada is officially seeking to become the first “associate member” of the European Union. But experts say that Asia offers the greater economic opportunity.\n上月，卡尼宣布加拿大正式寻求成为欧盟首个“准成员国”。但专家表示，亚洲提供更大的经济机遇。\n“Prime Minister Carney certainly seems to have a stro…",
+          "link": "https://cn.nytimes.com/world/20261117/carney-china-xi-trump-putin-trade/dual",
+          "publishedOn": "2026-11-17T04:36:04.000Z",
+          "wordCount": 1149,
+          "title": "卡尼再次访华，中国会是加拿大摆脱美国依赖的答案吗？",
+          "imageUrl": "https://static01.nyt.com/images/2026/11/16/multimedia/16int-canada-carney-china-hpfq/16int-canada-carney-china-hpfq-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/world/20261117/trump-asia-china-xi-putin/dual",
+          "author": null,
+          "description": "郭莉莉2026年11月17日俄罗斯艺术家阿列克谢·谢尔吉延科创作的绘画作品，描绘了美国、俄罗斯和中国的领导人。这幅画于周四在俄罗斯圣彼得堡首次亮相。 Andrei Bok/Reuters\nPresident Trump sets off this week for meetings in Asia that will culminate in a summit with two strongmen he has often praised: President Xi Jinping of China and President Vladimir V. Putin of Russia.\n特朗普总统本周将启程前往亚洲参加一系列会议，行程的高潮将是与两位他常加赞赏的强人举行峰会：中国国家主席习近平和俄罗斯总统普京。\nIt will be the first time the three men, who command the world’s largest nuclear arsenals, will have sat down together. Mr. Trump plans to discuss the reduction of nuclear weapons in the world and the war against Iran, according to a White House spokeswoman. He is not expected to bring up Russia’s war with Ukraine.\n这将是三位掌握全球最大核武库的领导人首次坐在一起。据白宫发言人称，特朗普计划讨论削减全球核武器以及对伊朗的战争问题。预计他不会提及俄乌战争。 \nMr. Trump will travel first to Manila, then to sout…",
+          "link": "https://cn.nytimes.com/world/20261117/trump-asia-china-xi-putin/dual",
+          "publishedOn": "2026-11-17T03:06:04.000Z",
+          "wordCount": 1477,
+          "title": "关于特朗普访华及中美俄首脑会晤，你应该了解的",
+          "imageUrl": "https://static01.nyt.com/images/2026/11/16/multimedia/16int-trump-summit-wtk-qjkm/16int-trump-summit-wtk-qjkm-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/usa/20261117/trump-china-ai-chip-loophole/dual",
+          "author": null,
+          "description": "ANA SWANSON, TONY ROMM2026年11月17日位于马来西亚柔佛州的一座正在建设中的Megaspeed数据中心。 Ulet Ifansasti for The New York Times\nThe Trump administration said on Monday that it was moving forward with a new rule that would clamp down on China’s ability to access advanced A.I. chips through the use of data centers outside China’s borders.\n特朗普政府周一表示，正在推进一项新规定，旨在限制中国通过利用境外数据中心获取先进人工智能芯片的能力。\nThe rule aims to close what many in Washington see as a loophole allowing China to sidestep a ban that prevents Chinese firms from buying the most advanced A.I. chips made by companies like Nvidia. Chinese firms have continued to legally access the chips by renting them from data centers in Southeast Asia and elsewhere. Whether to close the loophole has been a significant source of contention within the Trump administration.\n华盛顿许多…",
+          "link": "https://cn.nytimes.com/usa/20261117/trump-china-ai-chip-loophole/dual",
+          "publishedOn": "2026-11-17T02:36:03.000Z",
+          "wordCount": 1211,
+          "title": "特朗普访华前，美国推进新规封堵芯片出口漏洞",
+          "imageUrl": "https://static01.nyt.com/images/2026/11/16/multimedia/16dc-remote-access-01-bfgz/16dc-remote-access-01-bfgz-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/business/20261117/jensen-huang-nvidia-china-asia/dual",
+          "author": null,
+          "description": "黄瑞黎, ADAM SATARIANO, XINYUN WU, RIVER AKIRA DAVIS2026年11月17日7月，黄仁勋在东京一家餐厅外参加完晚宴活动后，向记者们分发了零食。 Tomohiro Ohsumi/Getty Images\nIn Indonesia, Jensen Huang was called the leader of the artificial intelligence revolution. In Japan, he was “the next Steve Jobs,” according to the technology investor Masayoshi Son. In Taiwan, where he was born, he is just called Dad.\n在印度尼西亚，黄仁勋被誉为人工智能革命的领军人物。在日本，科技投资人孙正义称他为“下一个史蒂夫·乔布斯”。在他出生的台湾，人们直接叫他“爸爸”。\nMr. Huang, who resigned this week from the powerhouse Silicon Valley chip company Nvidia, was celebrated across Asia — from South Korea to Japan, Indonesia to Kazakhstan. He traveled frequently to the region, cultivating close ties with business leaders and wooing government officials.\n从韩国到日本，从印度尼西亚到哈萨克斯坦，上周从硅谷芯片巨头英伟达辞职的黄仁勋曾在亚洲各地广受赞誉。他频繁前往该地区，与商界领袖建立密切联系，并争取政府官员的支持…",
+          "link": "https://cn.nytimes.com/business/20261117/jensen-huang-nvidia-china-asia/dual",
+          "publishedOn": "2026-11-17T01:36:03.000Z",
+          "wordCount": 1515,
+          "title": "黄仁勋骤然离场，亚洲失去驻美“AI大使”",
+          "imageUrl": "https://static01.nyt.com/images/2026/11/13/multimedia/13Biz-Nvidia-China-mfjl/13Biz-Nvidia-China-mfjl-articleLarge.jpg"
+        },
+        {
           "id": "https://cn.nytimes.com/technology/20261116/jensen-huang-nvidia-board/dual",
           "author": null,
           "description": "TRIPP MICKLE, ANA SWANSON, 孟建国, JONATHAN SWAN, JULIAN E. BARNES, MAGGIE HABERMAN2026年11月16日上周四，黄仁勋辞去了英伟达首席执行官的职务。 Mike Kai Chen for The New York Times\nJensen Huang was agitated.\n黄仁勋焦躁不安。\nIt was September 2025, and The New York Times had just called his company about a Singaporean data center firm called Megaspeed that had been led by a Chinese woman named Alice Huang, or Huang Le. The Times was reporting that Mr. Huang, the chief executive of the chip maker Nvidia, had a close relationship with her.\n那是2025年9月，《纽约时报》刚刚致电他的公司，询问一家名为Megaspeed的新加坡数据中心公司。该公司曾由一名叫黄乐(Alice Huang)的中国女性领导。《纽约时报》当时报道称，芯片制造商英伟达的首席执行官黄仁勋与她关系密切。\nMr. Huang, who Nvidia employees say could have a volcanic temper, wanted to know what The Times was insinuating. Though he didn’t deny that he knew the woman, he was bothered b…",
@@ -7280,56 +7472,6 @@
           "wordCount": 1468,
           "title": "“女版乔布斯”纪录片：硅谷惊天骗局的“真相”与现实",
           "imageUrl": "https://static01.nyt.com/images/2026/10/16/multimedia/cul-see-everything-fqvm/cul-see-everything-fqvm-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/business/20261019/china-economy-gdp/dual",
-          "author": null,
-          "description": "KEITH BRADSHER2026年10月19日北京的一家商场。第三季度，中国国内经济尤其是零售销售举步维艰。 Gilles Sabrié for The New York Times\nSurging exports and the industrial production needed to sustain them kept China’s economy growing over the past three months, even as consumer spending stagnated and investment plunged.\n过去三个月，激增的出口以及维持这些出口所需的工业生产支撑中国经济保持增长，而消费支出停滞、投资大幅下滑。\nChina’s National Bureau of Statistics announced on Monday that gross domestic product grew 1.2 percent from the second quarter of this year. If that pace continues for a year, the Chinese economy will expand at an annual rate of about 4.9 percent.\n中国国家统计局周一公布，国内生产总值较今年第二季度增长1.2%。若按此速度延续全年，中国经济年化增长率约为4.9%。\nThe figures are an improvement from the 4.3 percent growth rate China reported from April through June. The economy was 4.5 percent larger in the third quarter …",
-          "link": "https://cn.nytimes.com/business/20261019/china-economy-gdp/dual",
-          "publishedOn": "2026-10-19T04:36:03.000Z",
-          "wordCount": 1138,
-          "title": "中国第三季度经济增速微升：出口繁荣，消费停滞",
-          "imageUrl": "https://static01.nyt.com/images/2026/10/19/multimedia/19biz-china-gdp-01-hjlc/19biz-china-gdp-01-hjlc-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/usa/20261019/oj-simpson-case-takeaways/dual",
-          "author": null,
-          "description": "MIKE BAKER, TIM ARANGO2026年10月19日1995年，O·J·辛普森（中）在洛杉矶接受双重谋杀案审判时的照片。 Vince Bucci/Agence France-Presse — Getty Images\nIn the failed murder prosecution of O.J. Simpson in 1995, the government professed that he alone had killed his ex-wife, Nicole Brown Simpson, and her friend Ronald Goldman.\n在1995年对O·J·辛普森谋杀案起诉失败的那起案件中，政府声称是他独自杀害了前妻妮可·布朗·辛普森和她的朋友罗纳德·戈德曼。\nAmong the issues that hampered the case: the lack of a murder weapon, which has never been found. Its absence has long stoked speculation about whether the killer had assistance.\n阻碍本案调查的问题之一是凶器的缺失，而且凶器至今从未被找到。凶器缺失长期以来引发了关于凶手是否曾获他人协助的猜测。\nNow, records unsealed after 30 years at the request of The New York Times show that a prized government informant had told law enforcement key information about the killings, including the supposed location of…",
-          "link": "https://cn.nytimes.com/usa/20261019/oj-simpson-case-takeaways/dual",
-          "publishedOn": "2026-10-19T04:06:04.000Z",
-          "wordCount": 1142,
-          "title": "秘密线人和失踪的凶器：辛普森案尘封30年的谜团",
-          "imageUrl": "https://static01.nyt.com/images/2026/10/18/multimedia/18nat-OJ-takeaways-SWAP-zqfp/18nat-OJ-takeaways-SWAP-zqfp-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/usa/20261019/trump-midterm-elections-republicans-approval-ratings/dual",
-          "author": null,
-          "description": "TYLER PAGER2026年10月19日特朗普总统于周六在肯塔基州高地海茨举行的中期选举竞选集会上发表讲话后，抵达佛罗里达州西棕榈滩。 Haiyun Jiang/The New York Times\nPresident Trump continued to sell himself as the Republican Party’s savior as he crisscrossed the country in recent days, making it clear in words and sheer presence that this midterm election is about him.\n近几日，特朗普总统穿梭于全国各地，继续将自己标榜为共和党的救世主。他通过言辞和亲身到场明确表明，这场中期选举就是对他本人的公投。\nBut back in the nation’s capital, Mr. Trump’s White House was consumed by dramas that reinforced why polls show that his presidency itself has become a drag on Republican tickets.\n但在华盛顿，特朗普的白宫却深陷连串风波，进一步印证为何民调显示他的总统任期本身已成为共和党选情的拖累。\nOn Monday, Mr. Trump asked for the resignation of Kimberly Guilfoyle, his ambassador to Greece, after a string of embarrassing reports, including that she urged a donor to pay for her $100,000 c…",
-          "link": "https://cn.nytimes.com/usa/20261019/trump-midterm-elections-republicans-approval-ratings/dual",
-          "publishedOn": "2026-10-19T03:36:04.000Z",
-          "wordCount": 1454,
-          "title": "白宫闹剧令共和党中期选举前景蒙上阴影",
-          "imageUrl": "https://static01.nyt.com/images/2026/10/18/multimedia/00dc-memo1-gtcl/00dc-memo1-gtcl-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/world/20261019/france-student-protests-why/dual",
-          "author": null,
-          "description": "AMELIA NIERENBERG, LYNSEY CHUTEL, CATHERINE PORTER2026年10月19日法医人员检查法国里昂的旅游咨询处。 Jeff Pachoud/Agence France-Presse — Getty Images\nFrance is reeling from its largest unrest in years, after anti-government demonstrations devolved into riots and looting that caused nationwide damage and deepened a sense of national reckoning.\n法国正因多年来最大规模的骚乱而动荡。反政府示威演变成暴力和抢劫，造成全国性破坏，加深了国民对国家的反思。\nAs the chaos subsided on Sunday, political leaders blamed each other for the unrest and citizens looked on with shock at their cities, littered with broken glass and the charred skeletons of burned cars.\n周日，随着混乱逐渐平息，政治领导人就骚乱相互指责，而民众震惊地看着自己的城市，街道上散落着碎玻璃和烧毁汽车的焦黑骨架。\nThe violence marked a convergence between a weeks-old student movement for better school conditions, an emerging national movement to protest high living costs,…",
-          "link": "https://cn.nytimes.com/world/20261019/france-student-protests-why/dual",
-          "publishedOn": "2026-10-19T02:36:04.000Z",
-          "wordCount": 965,
-          "title": "法国发生近年来最大规模骚乱，人们在抗议什么？",
-          "imageUrl": "https://static01.nyt.com/images/2026/11/03/multimedia/03int-france-schools-wtk-vphk/03int-france-schools-wtk-vphk-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/business/20261019/china-ev-thailand-cars/dual",
-          "author": null,
-          "description": "黄瑞黎2026年10月19日\nIn Thailand’s carmaking hub of Rayong, China’s largest electric vehicle maker, BYD, built its first factory outside China, a complex the size of 180 football fields. Twenty miles south, a plant once run by General Motors is now owned by China’s Great Wall Motor. A 10-minute drive away, Ford took over a vehicle assembly plant from the Japanese automaker Suzuki.\n在泰国汽车制造中心罗勇府，中国最大的电动汽车制造商比亚迪建成了它在海外的第一家工厂，占地面积相当于180个足球场。往南约30公里，一家曾由通用汽车运营的工厂如今归中国长城汽车所有。驱车10分钟外，福特从日本汽车制造商铃木手中接管了一家汽车组装厂。\nAll of this happened in the past five years — evidence of an industry in upheaval.\n这一切都发生在过去五年间，足见这个行业正在经历怎样的剧变。\nFor decades, Japanese automakers dominated Thailand. They arrived in the 1960s, built supply chains and transformed the country into the “Detroit of the East.”\n几十年来，泰国汽车市场的主导者一直是日本车企。它们…",
-          "link": "https://cn.nytimes.com/business/20261019/china-ev-thailand-cars/dual",
-          "publishedOn": "2026-10-19T01:06:03.000Z",
-          "wordCount": 1637,
-          "title": "泰国向中国电动汽车敞开大门，如今正付出代价",
-          "imageUrl": "https://static01.nyt.com/images/2026/10/13/00biz-thailand-evs-33637-cover/00biz-thailand-evs-33637-cover-videoLarge-v2.jpg"
         }
       ]
     },
@@ -7338,6 +7480,36 @@
       "feedUrl": "https://plink.anyfeeder.com/weixin/ibookreview",
       "siteUrl": "http://weixin.sogou.com/weixin?type=1&s_from=input&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A",
       "articles": [
+        {
+          "id": "31e11d2d13ae317c561034efc20880a2",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E5%A5%BD%E7%9A%84%E7%AB%A5%E4%B9%A6%E8%AE%A9%E6%88%91%E4%BB%AC%E2%80%9C%E6%85%A2%E4%B8%8B%E6%9D%A5%E2%80%9D%EF%BD%9C%E6%89%93%E6%8D%9E%E7%AB%A5%E4%B9%A6%E9%81%97%E7%8F%A0",
+          "publishedOn": "2026-11-17T02:00:00.000Z",
+          "wordCount": 302,
+          "title": "好的童书让我们“慢下来”｜打捞童书遗珠",
+          "imageUrl": null
+        },
+        {
+          "id": "1f1112e14e8753a32e4d3ae701401cde",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E5%90%8D%E4%BE%A6%E6%8E%A2%E5%88%B0%E5%BA%95%E8%83%BD%E8%B5%9A%E5%A4%9A%E5%B0%91%E9%92%B1%EF%BC%9F",
+          "publishedOn": "2026-11-17T02:00:00.000Z",
+          "wordCount": 295,
+          "title": "名侦探到底能赚多少钱？",
+          "imageUrl": null
+        },
+        {
+          "id": "d2587c3de0f1d73adedb3949f66b2e7e",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E6%94%BE%E4%B8%8B%E5%AF%B9%E2%80%9C%E5%AE%8C%E7%BE%8E%E8%89%BA%E6%9C%AF%E5%AE%B6%E2%80%9D%E7%9A%84%E6%89%A7%E5%BF%B5%EF%BC%8C%E5%A5%B9%E6%89%BE%E5%88%B0%E4%BA%86%E8%87%AA%E5%B7%B1%E7%9A%84%E9%A3%8E%E6%A0%BC%E4%B8%8E%E5%96%9C%E6%82%A6",
+          "publishedOn": "2026-11-17T02:00:00.000Z",
+          "wordCount": 263,
+          "title": "放下对“完美艺术家”的执念，她找到了自己的风格与喜悦",
+          "imageUrl": null
+        },
         {
           "id": "3ba2cff3469d40fc093e1f746a800b56",
           "author": null,
@@ -8276,36 +8448,6 @@
           "publishedOn": "2026-10-20T02:00:00.000Z",
           "wordCount": 306,
           "title": "最美好的、最坚定的和最脆弱的｜专访李宏伟",
-          "imageUrl": null
-        },
-        {
-          "id": "d9545d56233dd97881c5076ef44326f9",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E7%A7%91%E5%A4%A7%E5%8D%AB%EF%BC%9A%E6%98%8E%E4%BB%A3%E7%9A%84%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E8%90%8C%E8%8A%BD%E6%98%AF%E5%A6%82%E4%BD%95%E5%A4%AD%E6%8A%98%E7%9A%84%EF%BC%9F",
-          "publishedOn": "2026-10-19T02:58:00.000Z",
-          "wordCount": 298,
-          "title": "科大卫：明代的资本主义萌芽是如何夭折的？",
-          "imageUrl": null
-        },
-        {
-          "id": "3ad11ae189251986906a41afe004a81a",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E9%B2%81%E8%BF%85%E4%BB%A5%E8%A1%80%E4%B8%8E%E7%81%AB%E9%93%B8%E7%9A%84%E9%82%A3%E6%8A%8A%E5%89%91%EF%BC%8C%E4%BB%8E%E6%9C%AA%E7%A6%BB%E5%BC%80%E4%BD%A0%E6%88%91%E7%9A%84%E6%89%8B%E4%B8%AD%20%7C%20%E9%B2%81%E8%BF%85%E9%80%9D%E4%B8%96%E4%B9%9D%E5%8D%81%E5%91%A8%E5%B9%B4%E7%BA%AA%E5%BF%B5",
-          "publishedOn": "2026-10-19T02:58:00.000Z",
-          "wordCount": 264,
-          "title": "鲁迅以血与火铸的那把剑，从未离开你我的手中 | 鲁迅逝世九十周年纪念",
-          "imageUrl": null
-        },
-        {
-          "id": "6094c8cc1127765c46124e0156e38568",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E5%90%8E%E6%9D%A5%EF%BC%8C%E6%88%91%E8%AF%BB%E6%87%82%E4%BA%86%E9%B2%81%E8%BF%85%EF%BC%8C%E5%8F%88%E5%A5%BD%E5%83%8F%E6%B2%A1%E6%9C%89",
-          "publishedOn": "2026-10-19T02:58:00.000Z",
-          "wordCount": 258,
-          "title": "后来，我读懂了鲁迅，又好像没有",
           "imageUrl": null
         }
       ]
