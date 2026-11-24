@@ -34,16 +34,6 @@
           "wordCount": 5828,
           "title": "R Weekly 2026-W45 safeconduct and r2parquet, interactive charts, on message and on brand",
           "imageUrl": "https://rweekly.org/public/facebook.png"
-        },
-        {
-          "id": "https://rweekly.org/2026-W44.html",
-          "author": null,
-          "description": "Hello and welcome to this new issue!\nHow to have (my) content shared by R Weekly?\nThis week’s release was curated by Jon Calder, with help from the R Weekly team members and contributors.\nHighlight\nCelebrating 15 Years of rOpenSci: Then, Now & Next\nEstimate your BAC, now 100% in the browser\nInsights\nCelebrating 15 Years of rOpenSci: Then, Now & Next\nrOpenSci News Digest, October 2026\nMark Padgham: Building the Machinery of Software Peer Review\nSolving Problems with LLMs\nR in the Real World\nHow many rules does it take to guess a German noun’s gender? - Use R, subtitle frequencies, and a compact decision tree to predict noun gender while keeping the model small enough to memorize.\nWhat’s New in R: October 19, 2026\nHybrid Machine Learning & Financial Econometrics: Building Volatility-Aware Dy…",
-          "link": "https://rweekly.org/2026-W44.html",
-          "publishedOn": "2026-10-26T00:00:00.000Z",
-          "wordCount": 8553,
-          "title": "R Weekly 2026-W44 15 yrs of ROpenSci, BAC in the browser",
-          "imageUrl": "https://rweekly.org/public/facebook.png"
         }
       ]
     },
@@ -64,6 +54,66 @@
       "feedUrl": "https://www.nationalreview.com/feed/",
       "siteUrl": "https://www.nationalreview.com",
       "articles": [
+        {
+          "id": "https://www.nationalreview.com/?p=812b1ced-597d-40c5-b627-555383301778",
+          "author": "Ramesh Ponnuru",
+          "description": "Trump should indeed change course, but this isn’t the way to do it.",
+          "link": "https://www.nationalreview.com/article/hugh-hewitt-s-amnesty",
+          "publishedOn": "2026-11-24T17:07:09.000Z",
+          "wordCount": null,
+          "title": "Hugh Hewitt’s Amnesty",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=aa972306-206f-4788-bc29-5f08f056e255",
+          "author": "Noah Rothman",
+          "description": "It is not hard to envision a near future in which both the GOP and Nvidia are worse off.",
+          "link": "https://www.nationalreview.com/article/the-limits-of-the-great-man-theory-of-business",
+          "publishedOn": "2026-11-24T14:40:36.000Z",
+          "wordCount": null,
+          "title": "The Limits of the Great Man Theory of Business",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=5eaec573-315b-46b6-a204-7feb8cd7504c",
+          "author": "The Editors",
+          "description": "Nvidia is not entitled to evade U.S. export controls.",
+          "link": "https://www.nationalreview.com/article/huang-s-surprise-return-doesn-t-end-nvidia-questions",
+          "publishedOn": "2026-11-24T11:48:23.000Z",
+          "wordCount": null,
+          "title": "Huang’s Surprise Return Doesn’t End Nvidia Questions",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=ec6fb567-6d58-4b07-8324-a5a96e94cdcd",
+          "author": "Steve Stewart-Williams",
+          "description": "The research on bias against women in STEM is far more mixed than the headlines suggest.",
+          "link": "https://www.nationalreview.com/article/what-we-leave-out-when-we-talk-about-sexism-in-science",
+          "publishedOn": "2026-11-24T11:00:00.000Z",
+          "wordCount": null,
+          "title": "What We Leave Out When We Talk About Sexism in Science",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=8f68d8ce-77f2-470b-b638-f0ca7bf95d1a",
+          "author": "Abigail Anthony",
+          "description": "The serious issues underneath an unserious moral panic.",
+          "link": "https://www.nationalreview.com/article/a-george-floyd-musical-what-could-go-wrong",
+          "publishedOn": "2026-11-24T11:00:00.000Z",
+          "wordCount": null,
+          "title": "A George Floyd Musical: What Could Go Wrong?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nationalreview.com/?p=664319b6-8502-49c3-a43f-d95737ce5411",
+          "author": "Andrew C. McCarthy",
+          "description": "His reinstatement at Trump’s urging is a perilous high-wire act.",
+          "link": "https://www.nationalreview.com/article/how-long-can-jensen-huang-and-nvidia-defy-gravity",
+          "publishedOn": "2026-11-23T20:09:33.000Z",
+          "wordCount": null,
+          "title": "How Long Can Jensen Huang and Nvidia Defy Gravity?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.nationalreview.com/?p=c76dfbab-c9bd-497f-8f32-bb2ab144d294",
           "author": "Marian L. Tupy",
@@ -2053,66 +2103,6 @@
           "wordCount": null,
           "title": "The Stakes in 2026 — and Beyond",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=2064935",
-          "author": "John Fund",
-          "description": "Its third-largest province just gave conservative reformers a landslide.",
-          "link": "https://www.nationalreview.com/2026/10/canadas-trump-fixation-fades/",
-          "publishedOn": "2026-10-25T21:58:24.000Z",
-          "wordCount": null,
-          "title": "Canada’s Trump Fixation Fades",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=2063895",
-          "author": "James Lileks",
-          "description": "In our brave new tech world, there’s nothing to fear but . . . everything.",
-          "link": "https://www.nationalreview.com/2026/10/were-doomed/",
-          "publishedOn": "2026-10-25T10:30:52.000Z",
-          "wordCount": null,
-          "title": "We’re Doomed",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=2063735",
-          "author": "Becket Adams",
-          "description": "Even for a Democratic candidate, the level of deference he has received is nothing short of extraordinary.",
-          "link": "https://www.nationalreview.com/2026/10/abdul-el-sayeds-media-hall-pass/",
-          "publishedOn": "2026-10-25T10:30:50.000Z",
-          "wordCount": null,
-          "title": "Abdul El-Sayed’s Media Hall Pass",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=2063924",
-          "author": "Brooke Stanton",
-          "description": "Virginia’s Question 1 would write a scientific falsehood into its Bill of Rights and take parents out of the room.",
-          "link": "https://www.nationalreview.com/2026/10/the-ear-lobe-and-the-unborn-child/",
-          "publishedOn": "2026-10-25T10:30:49.000Z",
-          "wordCount": null,
-          "title": "The Earlobe and the Unborn Child",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=2061766",
-          "author": "Tim Busch",
-          "description": "A Colorado case shows how reliance on taxpayer funding can lead to religious discrimination.",
-          "link": "https://www.nationalreview.com/2026/10/catholics-first-amendment-rights-come-before-the-supreme-court/",
-          "publishedOn": "2026-10-25T10:30:28.000Z",
-          "wordCount": null,
-          "title": "Catholics’ First Amendment Rights Come Before the Supreme Court",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nationalreview.com/?p=2063948",
-          "author": "Dan Blumenthal and Brady Africk",
-          "description": "If Trump continues to withhold the latest arms package, it will draw a new red line that benefits Beijing.",
-          "link": "https://www.nationalreview.com/2026/10/why-the-u-s-should-rethink-a-freeze-on-taiwan-arms-sales/",
-          "publishedOn": "2026-10-25T10:30:09.000Z",
-          "wordCount": null,
-          "title": "Why the U.S. Should Rethink a Freeze on Taiwan Arms Sales",
-          "imageUrl": null
         }
       ]
     },
@@ -2121,6 +2111,46 @@
       "feedUrl": "https://sspai.com/feed",
       "siteUrl": "https://sspai.com",
       "articles": [
+        {
+          "id": "https://sspai.com/post/119492",
+          "author": "Matrix机器人",
+          "description": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文",
+          "link": "https://sspai.com/post/119492",
+          "publishedOn": "2026-11-24T09:14:11.000Z",
+          "wordCount": 729,
+          "title": "社区速递 167｜迪卡侬折叠车、静电白板贴与跨系统设备协同",
+          "imageUrl": "https://rssfile.sspai.com/2026/6/30/article/831096df-1239-9d40-8cb1-c42319e8f9f3.png?imageMogr2/auto-orient/ignore-error/1"
+        },
+        {
+          "id": "https://sspai.com/post/119035",
+          "author": "Vanilla",
+          "description": "写一篇短文，我们可能只需要一个能让人打开即用的编辑器，比如说Apple用户最常用的系统备忘录，或者广为人知的桌面应用MicrosoftWord。但当文章的篇幅逐渐变长，一些原本不太起眼的事情也会变得麻 ...查看全文",
+          "link": "https://sspai.com/post/119035",
+          "publishedOn": "2026-11-24T07:38:42.000Z",
+          "wordCount": 288,
+          "title": "[限时特惠] 从构思到完稿，让长文写作更有条理：妙笔",
+          "imageUrl": "https://rssfile.sspai.com/2026/11/24/article/dbf52786-c866-36af-73d0-0a9dd48731b6.png?imageMogr2/auto-orient/format/webp/ignore-error/1"
+        },
+        {
+          "id": "https://sspai.com/post/119412",
+          "author": "中天与大瓶子",
+          "description": "巴黎市徽上的那艘船，依然留着它的格言：「任凭风浪，亦不沉没。」查看全文",
+          "link": "https://sspai.com/post/119412",
+          "publishedOn": "2026-11-24T03:03:10.000Z",
+          "wordCount": 252,
+          "title": "写在动荡之后：漫步巴黎的寻常一日",
+          "imageUrl": "https://rssfile.sspai.com/2026/11/22/b570923f239a12361f4fc6d239d03c83.jpg?imageMogr2/auto-orient/format/webp/ignore-error/1"
+        },
+        {
+          "id": "https://sspai.com/post/119460",
+          "author": "少数派编辑部",
+          "description": "少数派的近期动态我们已开设专页，汇总展示「优秀作者评选」奖项及结果。「优秀作者评选」是编辑部自2023年起实行的机制，于每季度结束后，评选该季度贡献突出的现有作者，以及涌现出的有潜力新作者。获奖者会获 ...查看全文",
+          "link": "https://sspai.com/post/119460",
+          "publishedOn": "2026-11-24T00:37:31.000Z",
+          "wordCount": 581,
+          "title": "派早报：黄仁勋重回英伟达，荣耀发布荣耀 700 系列新机等",
+          "imageUrl": "https://rssfile.sspai.com/2026/11/24/article/ce49f918-b50d-cc7f-ede5-cba73f81f0fa.png?imageMogr2/auto-orient/ignore-error/1"
+        },
         {
           "id": "https://sspai.com/post/119438",
           "author": "少数派编辑部",
@@ -3100,46 +3130,6 @@
           "wordCount": 558,
           "title": "派评 | 近期值得关注的 App",
           "imageUrl": "https://rssfile.sspai.com/2026/10/26/article/115ca533-2d27-495a-1f0c-245cd3e4b74e.png?imageMogr2/auto-orient/ignore-error/1"
-        },
-        {
-          "id": "https://sspai.com/post/117414",
-          "author": "程天冲",
-          "description": "双 11 到来之际的秋冬护肤选购与搭配建议。查看全文",
-          "link": "https://sspai.com/post/117414",
-          "publishedOn": "2026-10-26T07:00:00.000Z",
-          "wordCount": 357,
-          "title": "秋冬换季护肤买什么，双 11 选购推荐",
-          "imageUrl": "https://rssfile.sspai.com/2026/10/25/article/0630001f-c3b3-6aed-a52b-e2c87a59b4bd.jpeg?imageMogr2/auto-orient/ignore-error/1"
-        },
-        {
-          "id": "https://sspai.com/post/115074",
-          "author": "飘雷",
-          "description": "一起来看看 3D XPoint 这夸张的性能表现吧。查看全文",
-          "link": "https://sspai.com/post/115074",
-          "publishedOn": "2026-10-26T03:26:35.000Z",
-          "wordCount": 1096,
-          "title": "曲高和寡、终成绝唱：傲腾 P5800X 测试报告",
-          "imageUrl": "https://rssfile.sspai.com/2026/09/27/f51bac9c18112048e910ea0da33cb90b.jpg?imageMogr2/auto-orient/ignore-error/1"
-        },
-        {
-          "id": "https://sspai.com/post/117180",
-          "author": "Bluesky",
-          "description": "每年秋冬，深圳湾都会迎来一批特殊的「旅客」。它们从北方出发，沿着迁徙路线飞越山海，有的在这里短暂停歇，有的则留下越冬。随着潮水涨落，水鸟在滩涂上低头觅食，鸟群掠过海面，也让我们熟悉的海湾多了几分热闹。 ...查看全文",
-          "link": "https://sspai.com/post/117180",
-          "publishedOn": "2026-10-26T03:00:13.000Z",
-          "wordCount": 226,
-          "title": "少数派×红树林基金会｜候鸟季公益直播，邀你共护湿地",
-          "imageUrl": "https://rssfile.sspai.com/2026/10/26/article/8c421549-17c4-0be3-726b-d7b925c134b9.png?imageMogr2/auto-orient/ignore-error/1"
-        },
-        {
-          "id": "https://sspai.com/post/117460",
-          "author": "少数派编辑部",
-          "description": "iFixit 拆解 iPhone Duo，肯定可维修性但指出内屏隐患\nSpotify 将要求家庭组成员定期扫码验证\nArc 浏览器宣布下线\n央广总台澄清「国补停止」说法\n谷歌建设虚拟电厂，付费激励电网用户省电留给 AI\niTunes Store 重受歌手青睐\n看看就行的简讯\n少数派的近期动态\n你可能错过的好文章\n查看全文",
-          "link": "https://sspai.com/post/117460",
-          "publishedOn": "2026-10-25T23:36:36.000Z",
-          "wordCount": 723,
-          "title": "派早报：iFixit 拆解 iPhone Duo，肯定可维修性但指出内屏隐患",
-          "imageUrl": "https://rssfile.sspai.com/10/26/2026/article/1f6928ee-3fa4-6fa1-c10c-0aa9632d137f.png?imageMogr2/auto-orient/format/webp/ignore-error/1"
         }
       ]
     },
@@ -5695,104 +5685,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://pic.yupoo.com/fotomag/0ae3dd79f0/d5c492eb.jpg"
-        },
-        {
-          "id": "idaily-260518",
-          "author": "中国 · 太原",
-          "description": "中国长征六号改运载火箭搭载「遥感五十号03星」发射升空，太原卫星发射中心。10月23日，中国长征六号改运载火箭执行2026年第9次发射任务，成功将「遥感五十号03星」送入预定轨道。本次发射的新卫星由中国航天科技集团八院研制，主要用于国土普查、农作物估产和防灾减灾等领域。长六改是中国首型固液捆绑中型运载火箭，全长50米，具备单星及多星密集发射能力，700公里高度太阳同步轨道运载能力不小于4.5吨。摄影师：Wang Weichen",
-          "link": "https://m.idai.ly/se/f8cyg1",
-          "publishedOn": "2026-10-25T10:14:00.000Z",
-          "wordCount": 253,
-          "title": "中国遥感五十号03卫星发射 - October 25, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/bcb93a0a3c/1f20bd47.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/bcb93a0a3c/1f20bd47.jpg"
-        },
-        {
-          "id": "idaily-260517",
-          "author": "美国 · 佛罗里达州",
-          "description": "「阿尔忒弥斯3号」任务火箭核心级送抵肯尼迪航天中心装配大楼，美国佛州。10月24日，NASA 在新闻发布会上宣布计划于2027年5月至9月实施「阿尔忒弥斯3号」近地轨道交会对接任务，目前该任务使用的SLS固体火箭助推器已完成堆叠组装，目标在2026年底前进行一次短堆叠燃料加注测试。「阿尔忒弥斯3号」任务将包括3次飞船发射，依次为猎户座飞船、蓝色起源公司「蓝月」飞行器以及 SpaceX 公司星舰V3飞船，其中猎户座飞船将与「蓝月」飞行器和星舰V3飞船分别进行在轨对接测试。摄影师：Gregg Newton",
-          "link": "https://m.idai.ly/se/63bmFg",
-          "publishedOn": "2026-10-25T09:59:00.000Z",
-          "wordCount": 253,
-          "title": "「阿尔忒弥斯3号」任务新进展 - October 25, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/ce75890109/c9db25c1.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/ce75890109/c9db25c1.jpg"
-        },
-        {
-          "id": "idaily-260516",
-          "author": "中国 · 那曲市",
-          "description": "中国西藏自治区那曲市地震灾区，当地民众在救灾帐篷中临时安置。10月22日晚22时33分，西藏那曲市巴青县发生7.0级地震，震源深度10公里，震中平均海拔约4800米，迄今确认16人死亡、76人受伤，339户房屋倒塌或受损。中国国务院抗震指挥部震后随即启动国家地震灾害四级应急响应，并紧急调拨棉帐篷、棉大衣、棉被、折叠床等5000件中央救灾物资。西藏当地政府已投入救援力量5000余人，完成3轮搜寻排查，未发现失联人员，目前灾区电力、通信均已恢复正常，交通主干道恢复畅通，超过1.2万名受灾群众已被安全转移，逾6万件救灾物资陆续运抵。摄影师：Jiang Feibo",
-          "link": "https://m.idai.ly/se/f46X6Y",
-          "publishedOn": "2026-10-25T09:57:00.000Z",
-          "wordCount": 253,
-          "title": "中国西藏发生7.0级地震 - October 25, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/70a9ef2aaf/64ebaae9.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/70a9ef2aaf/64ebaae9.jpg"
-        },
-        {
-          "id": "idaily-260513",
-          "author": "中国 · 丹东",
-          "description": "朝鲜最高领导人金正恩通过新中朝鸭绿江大桥从中国丹东市返回朝鲜，中国辽宁省。10月24日，朝鲜最高领导人金正恩乘坐专车经新开通的中朝鸭绿江大桥对中国丹东市进行为期1天访问。这是金正恩时隔13个月再次访华，亦是执政以来第6次访华，主要行程包括参观丹东抗美援朝纪念馆、向纪念塔献花、考察汽车工厂等。2026年10月25日是中国人民志愿军抗美援朝出国作战76周年纪念日，金正恩强调此次丹东之行专程为缅怀在重要历史关头以生命和鲜血支援朝鲜的中国人民志愿军烈士，表达朝方对抗美援朝英雄们的由衷感谢和永恒敬意。摄影师：iDaily Media",
-          "link": "https://m.idai.ly/se/507bS7",
-          "publishedOn": "2026-10-25T09:55:00.000Z",
-          "wordCount": 253,
-          "title": "金正恩访问中国丹东 - October 25, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/c2f7dbfe1a/cccb5df8.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/c2f7dbfe1a/cccb5df8.jpg"
-        },
-        {
-          "id": "idaily-260512",
-          "author": "法国 · 巴黎",
-          "description": "法国防暴警察在巴士底广场维护治安，巴黎。10月24日，法国爆发新一轮全国性示威活动。法国内政部公布数据称约41万人参加示威游行，其中巴黎市为11万人。法国政府当天部署超过7万名警察和宪兵维护治安，部分地区出现冲突，超过1300人被捕，53名警察受伤。国际货币基金组织（IMF）最新报告预测法国2026年 GDP 增速为0.4%，比前次预期大幅下调0.5个百分点，亦大幅低于欧元区1.1%的整体增速，通胀率为2.4%，失业率升至8.4%。摄影师：Mohammed Badra",
-          "link": "https://m.idai.ly/se/d0bUUx",
-          "publishedOn": "2026-10-25T09:53:00.000Z",
-          "wordCount": 253,
-          "title": "法国新一轮全国性抗议 - October 25, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/1e0047447b/0e24f25b.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/1e0047447b/0e24f25b.jpg"
-        },
-        {
-          "id": "idaily-260511",
-          "author": "俄罗斯 · 阿穆尔河畔共青城",
-          "description": "俄罗斯联合造船集团阿穆尔造船厂，新一艘20380型多用途护卫舰「格罗兹尼」（Grozny）号举行下水仪式，阿穆尔河畔共青城。10月23日，俄罗斯阿穆尔造船厂为俄太平洋舰队建造的第5艘20380型护卫舰「格罗兹尼」号正式下水。该型护卫舰由俄罗斯金刚石设计局研发，舰长104.5米、宽13米，满载排水量2200吨、航速27节，续航能力4000海里，载员数为100人，配备「天王星」反舰导弹、「鲁道特」防空导弹等武器，主要执行近海巡逻、反潜、两栖作战火力支援等任务。这艘新军舰将在完成舾装、试航之后加入俄太平洋舰队第44反潜舰旅服役。摄影师：Yuri Smityuk",
-          "link": "https://m.idai.ly/se/abdWq3",
-          "publishedOn": "2026-10-25T09:51:00.000Z",
-          "wordCount": 253,
-          "title": "俄太平洋舰队新护卫舰下水 - October 25, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/1a0565dac1/2e0eddcd.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/1a0565dac1/2e0eddcd.jpg"
-        },
-        {
-          "id": "idaily-260510",
-          "author": "泰国 · 曼谷",
-          "description": "曼谷中央世界购物中心装饰万圣节主题元素，泰国。10月22日，泰国财政部宣布暂缓推进针对航班出境旅客的单次1000泰铢（约合30美元）离境税提案。根据这项提案，泰国公民和外国游客每次乘飞机离开泰国时，都需要缴付1000泰铢离境税，由航空公司在售票时一并收取。泰国政府公布数据显示2026年1月至10月17日该国共接待外国游客约2440万人次，同比下降-4.12%，大幅落后全年接待外国游客3300万人次的目标，排名前5的游客来源国依次为中国、马来西亚、印度、俄罗斯和韩国。摄影师：Chalinee Thirasupa",
-          "link": "https://m.idai.ly/se/4acvk3",
-          "publishedOn": "2026-10-25T09:49:00.000Z",
-          "wordCount": 253,
-          "title": "泰国暂缓离境税征收计划 - October 25, 2026",
-          "enclosure": {
-            "url": "http://pic.yupoo.com/fotomag/9c91cbb90c/99819768.jpg",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://pic.yupoo.com/fotomag/9c91cbb90c/99819768.jpg"
         }
       ]
     },
@@ -5801,6 +5693,76 @@
       "feedUrl": "https://plink.anyfeeder.com/nytimes/dual",
       "siteUrl": "http://nytimes.com",
       "articles": [
+        {
+          "id": "https://cn.nytimes.com/usa/20261124/trump-nvidia-national-security/dual",
+          "author": null,
+          "description": "PETER BAKER2026年11月24日\nBy his own account, President Trump was watching the stock market slide and decided to stop it. He would take it upon himself to determine who should lead one of the nation’s largest companies. Never mind national security concerns, never mind the autonomy of the private sector. Mr. Trump would decide.\n据特朗普总统自己说，他当时看着股市下跌，决定出手阻止。他要亲自决定谁应该领导这个国家最大的公司之一。不管国家安全关切，也不管私营部门的自主权。特朗普要自己决定。\nThe president’s extraordinary intervention resulted in Jensen Huang’s reinstatement as chief executive of Nvidia on Monday, just 11 days after he was forced out amid a Chinese espionage scandal. Mr. Trump then got the result he sought. Sagging stock markets shot back up, restoring nearly $1 trillion in value alone to investors of Nvidia, who happen to include himself.\n总统非同寻常的干预导致黄仁勋周一复职英伟达…",
+          "link": "https://cn.nytimes.com/usa/20261124/trump-nvidia-national-security/dual",
+          "publishedOn": "2026-11-24T06:06:04.000Z",
+          "wordCount": 1771,
+          "title": "特朗普出手干预黄仁勋事件，无视国家安全担忧",
+          "imageUrl": "https://static01.nyt.com/images/2026/11/23/multimedia/23dc-trump-nvidia-TOP-tbvl/23dc-trump-nvidia-TOP-tbvl-videoLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/opinion/20261124/jensen-huang-trump-reinstated/dual",
+          "author": null,
+          "description": "MICHELLE GOLDBERG2026年11月24日\nJensen Huang, the Nvidia chief executive ousted amid a spying scandal and then shockingly reinstated on Monday, has given new meaning to the phrase too big to fail.\n英伟达首席执行官黄仁勋在间谍丑闻中下台、又在周一令人震惊地复职，他为“大而不能倒”这一说法赋予了新的含义。\nIn recent days, there has been a cascade of revelations about the scale of the national security breach Huang created with his affair with Alice Huang, the businesswoman who U.S. intelligence agencies believe is a Chinese spy. Nvidia dominates the production of advanced A.I. chips, and The New York Times reported that China’s chief spy agency made acquiring such chips a priority. The Times found that Alice Huang was part of a network that funneled chips to China’s military. While she was sleeping with Jensen, she was in contact with an officer fr…",
+          "link": "https://cn.nytimes.com/opinion/20261124/jensen-huang-trump-reinstated/dual",
+          "publishedOn": "2026-11-24T05:06:04.000Z",
+          "wordCount": 1088,
+          "title": "对特朗普来说，科技股价比中国间谍风险更重要",
+          "imageUrl": "https://static01.nyt.com/images/2026/11/23/multimedia/23goldberg-vlph/23goldberg-vlph-videoLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/business/20261124/trump-administration-megaspeed-trade-blacklist-nvidia/dual",
+          "author": null,
+          "description": "ANA SWANSON2026年11月24日Megaspeed被列入实体清单后，未经政府许可，企业不得向该公司运送美国技术产品。 Taryn Ng/Agence France-Presse — Getty Images\nThe Trump administration on Monday barred a Singaporean data center firm at the center of the Nvidia scandal from buying advanced A.I. chips, according to people familiar with the matter, who spoke on the condition of anonymity since the announcement was not yet public.\n据知情人士透露，特朗普政府周一禁止处于英伟达丑闻核心的新加坡数据中心企业购买先进人工智能芯片。由于相关决定尚未公开，这些知情人士要求匿名。\nThe Commerce Department on Monday added Megaspeed to the government’s entity list, a trade blacklist that will prevent companies from shipping U.S. technology, like Nvidia’s chips, to the firm without first obtaining a government license.\n美国商务部周一将Megaspeed列入政府的实体清单。被列入这份贸易黑名单意味着，未经美国政府许可，企业不得向该公司出口英伟达芯片等美国技术产品。\nMegaspeed is currently under crimina…",
+          "link": "https://cn.nytimes.com/business/20261124/trump-administration-megaspeed-trade-blacklist-nvidia/dual",
+          "publishedOn": "2026-11-24T03:36:03.000Z",
+          "wordCount": 1129,
+          "title": "美国将Megaspeed列入贸易黑名单",
+          "imageUrl": "https://static01.nyt.com/images/2026/11/23/multimedia/23nvidia-megaspeed-wltb/23nvidia-megaspeed-wltb-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/china/20261124/china-us-nuclear-ai/dual",
+          "author": null,
+          "description": "储百亮2026年11月24日上周在深圳举行的峰会上，中国领导人习近平与美国总统特朗普和俄罗斯总统普京就降低核风险问题进行了讨论。人工智能在核武器中的作用并未被提及。 Doug Mills/The New York Times\nWhen Xi Jinping, the Chinese leader, set about expanding China’s nuclear forces a decade ago, his goal was to ensure that enough missiles could survive an initial attack so Beijing could deliver a devastating counterattack.\n10年前，当中国领导人习近平着手扩充中国核力量时，他的目标是确保有足够的导弹能够在首次打击中幸存下来，以便北京能够发起毁灭性的反击。\nThat ability to withstand a strike and hit back would deter any enemy from risking nuclear blackmail or war against China in the first place, Chinese strategists have said.\n中国战略家曾表示，这种承受打击并予以回击的能力从根本上就能威慑任何敌人，使其不敢对中国进行核讹诈或发动核战争。\nBut now, researchers in the Chinese military worry that American advances in artificial intelligence could weaken Beijing’s nuclear hand in a crisis or conflict. They …",
+          "link": "https://cn.nytimes.com/china/20261124/china-us-nuclear-ai/dual",
+          "publishedOn": "2026-11-24T03:06:03.000Z",
+          "wordCount": 1732,
+          "title": "中国的另一种人工智能焦虑：担忧美国在核竞争中占得先机",
+          "imageUrl": "https://static01.nyt.com/images/2026/11/22/multimedia/22int-china-ai-nuclear-01-pmkt/22int-china-ai-nuclear-01-pmkt-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/business/20261124/trump-jensen-huang-nvidia/dual",
+          "author": null,
+          "description": "TONY ROMM, SYDNEY EMBER, COLBY SMITH2026年11月24日黄仁勋周一复职担任英伟达首席执行官。特朗普总统在社交媒体上表示，英伟达需要黄仁勋，而美国需要英伟达。 Eric Lee for The New York Times\nFor President Trump, the stock market has long been a favored barometer for his economic agenda, one that he frequently promotes to showcase how artificial intelligence is booming on his watch.\n长期以来，股市一直是特朗普总统衡量其经济议程的惯用晴雨表，他也频繁借此宣传人工智能在其任内蓬勃发展的态势。\nSo when scandal began to consume the chip-making giant Nvidia — toppling its chief executive, Jensen Huang, and sending financial markets into a tailspin — Mr. Trump intervened quickly. He rose to Mr. Huang’s defense and leveraged the muscle of the Oval Office to push for the embattled leader’s reinstatement.\n因此，当丑闻开始席卷芯片制造巨头英伟达，令公司首席执行官黄仁勋下台并引发金融市场急剧动荡时，特朗普迅速介入。他站出来为黄仁勋辩护，并动用椭圆形办公室的影响力，推动这位深陷困境的领导人复职。\nMr. Trump succee…",
+          "link": "https://cn.nytimes.com/business/20261124/trump-jensen-huang-nvidia/dual",
+          "publishedOn": "2026-11-24T03:06:03.000Z",
+          "wordCount": 1422,
+          "title": "黄仁勋复职凸显特朗普不惜代价力保人工智能发展",
+          "imageUrl": "https://static01.nyt.com/images/2026/11/23/multimedia/23dc-nvidia-econ-lvjb/23dc-nvidia-econ-lvjb-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/usa/20261124/trump-nvidia-huang/dual",
+          "author": null,
+          "description": "MAGGIE HABERMAN, JONATHAN SWAN, JULIAN E. BARNES2026年11月24日周五，特朗普总统在白宫。 Haiyun Jiang/The New York Times\nJensen Huang was reappointed as chief executive of Nvidia after President Trump set in motion several days of maneuvering to provide the company’s board with assurances that Mr. Huang was not facing criminal charges and did not pose a national security risk, according to two people with knowledge of the matter.\n据两名知情人士透露，特朗普总统推动持续数日的斡旋，使英伟达董事会得到保证，确认黄仁勋没有面临刑事指控，也不构成国家安全风险，最终使其得以重新出任英伟达首席执行官。\nLate last week, Mr. Trump decided he wanted to do whatever he could to help Mr. Huang get his old job back, the people said, despite concerns from his own national security agencies about Mr. Huang’s affair with a woman they believed to be a Chinese intelligence asset and who was also believed to be …",
+          "link": "https://cn.nytimes.com/usa/20261124/trump-nvidia-huang/dual",
+          "publishedOn": "2026-11-24T02:36:02.000Z",
+          "wordCount": 1676,
+          "title": "特朗普促成黄仁勋复职：派万斯斡旋，提供关键保证",
+          "imageUrl": "https://static01.nyt.com/images/2026/11/23/multimedia/23nvidia-Trump-interview-gwmt/23nvidia-Trump-interview-gwmt-articleLarge.jpg"
+        },
+        {
+          "id": "https://cn.nytimes.com/business/20261124/nvidia-jensen-huang/dual",
+          "author": null,
+          "description": "MAGGIE HABERMAN, JONATHAN SWAN, TRIPP MICKLE, JOE RENNISON, EMILY DAVIES2026年11月24日黄仁勋周一复职担任英伟达首席执行官。特朗普总统在社交媒体上表示，英伟达需要黄仁勋，而美国需要英伟达。 Eric Lee for The New York Times\nThe surprise return of Jensen Huang as chief executive of Nvidia on Monday was greeted with a spirited rally on Wall Street and bipartisan skepticism in Washington, where a chorus of lawmakers denounced President Trump’s efforts to reinstall the leader of one of the world’s most valuable companies.\n周一，黄仁勋出人意料地重返英伟达首席执行官职位，这一消息在华尔街引发了强劲的股价上涨，但在华盛顿却遭到了两党的一致质疑，一些议员谴责特朗普总统让这家全球市值最高公司之一的领导人复职的举动。\nMr. Huang’s reinstatement came less than two weeks after he abruptly resigned following reports that he had conducted two extramarital relationships, including one with a woman U.S. intelligence had identified as a Chinese asset. Mr. Trump…",
+          "link": "https://cn.nytimes.com/business/20261124/nvidia-jensen-huang/dual",
+          "publishedOn": "2026-11-24T02:06:03.000Z",
+          "wordCount": 1001,
+          "title": "黄仁勋复职重掌英伟达，美股大涨但两党批评声不断",
+          "imageUrl": "https://static01.nyt.com/images/2026/11/23/multimedia/23dc-nvidia-econ-lvjb/23dc-nvidia-econ-lvjb-articleLarge.jpg"
+        },
         {
           "id": "https://cn.nytimes.com/technology/20261123/alice-huang-china-spy-agency-nvidia/dual",
           "author": null,
@@ -7100,46 +7062,6 @@
           "wordCount": 1445,
           "title": "“自我革命”、持续清洗：习近平为下一任期铺路",
           "imageUrl": "https://static01.nyt.com/images/2026/10/26/multimedia/26int-china-xi-purges-01-jlbc/26int-china-xi-purges-01-jlbc-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/usa/20261026/obama-trump-competing-rallies-midterms/dual",
-          "author": null,
-          "description": "TIM BALK2026年10月26日 Haiyun Jiang/The New York Times; Victor J. Blue for The New York Times\nFormer President Barack Obama returned to the campaign trail on Saturday for midterm rallies in Cleveland and Detroit, setting up a rare split screen with President Trump, who staged a rally in the evening in a small city in central Georgia.\n上周六，前总统奥巴马重返竞选活动，在克利夫兰和底特律参加中期选举集会，与当晚在佐治亚州中部一座小城举办造势集会的特朗普总统形成了罕见的同期对比。\nTheir pitches offered a contrast in style and substance. Mr. Obama prosecuted his case against the Trump administration in two tightly scripted, roughly 40-minute bursts on Saturday.\n两人的演讲在风格和内容上呈现鲜明对比。周六，通过两段精心编排、时长约40分钟的发言，奥巴马对特朗普政府展开了抨击。\nMr. Trump, who has been crisscrossing the country for weeks in a midterm push to save his party’s congressional majorities, defended his administration i…",
-          "link": "https://cn.nytimes.com/usa/20261026/obama-trump-competing-rallies-midterms/dual",
-          "publishedOn": "2026-10-26T06:06:04.000Z",
-          "wordCount": 1326,
-          "title": "中期选举集会，奥巴马特朗普针锋相对",
-          "imageUrl": "https://static01.nyt.com/images/2026/10/26/multimedia/c26obama-trump-span/c26obama-trump-span-articleLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/business/20261026/changpeng-zhao-binance/dual",
-          "author": null,
-          "description": "DAVID YAFFE-BELLANY2026年10月26日\nI.\nI.\nOne morning in June, the cryptocurrency mogul Changpeng Zhao pulled up to the St. Regis resort in Abu Dhabi in a white Nissan S.U.V. Mr. Zhao is the richest man in crypto, worth an estimated $114 billion, and he lives in a villa nearby, with nine bedrooms, four bodyguards, a chef and a yacht named Da Moon. But he also likes to play the part of a “normal dude,” as he often describes himself, and that day he had offered to give me a personal tour of the city. Outside the St. Regis, Mr. Zhao sat at the wheel of the Nissan, with his iPhone mounted on the windshield, like the world’s wealthiest Uber driver. “My Lamborghini,” he joked as I climbed in.\n6月的一个早晨，加密货币大佬赵长鹏乘坐一辆白色日产SUV抵达阿布扎比的瑞吉酒店。赵长鹏是加密货币界首富，身家估计达1140亿美元。他住在附近一栋有九间卧室的别墅里，配有四名保镖、一名私人厨师和一艘名为“Da Moon”…",
-          "link": "https://cn.nytimes.com/business/20261026/changpeng-zhao-binance/dual",
-          "publishedOn": "2026-10-26T04:36:04.000Z",
-          "wordCount": 6178,
-          "title": "探访加密货币大佬赵长鹏：亿万富翁天堂里的前罪犯",
-          "imageUrl": "https://static01.nyt.com/images/2026/10/01/multimedia/01biz-sun-cz-promo-fvwz/01biz-sun-cz-promo-fvwz-videoLarge.jpg"
-        },
-        {
-          "id": "https://cn.nytimes.com/opinion/20261026/ai-second-big-bang/dual",
-          "author": null,
-          "description": "托马斯·弗里德曼2026年10月26日\nAccording to the columnist Thomas L. Friedman, humanity has set off a second Big Bang — and we are not ready for it. In this video, he explains why the rise of artificial intelligence and other “godlike” powers will require us to build healthy interdependencies to survive what comes next.\n专栏作家托马斯·弗里德曼认为，人类已经引发了第二次大爆炸，而我们尚未做好准备。在这个视频中，他向我们解释，为什么人工智能和其他“神一般”的力量的崛起将要求我们建立健康的相互依存关系，才能在即将到来的一切中生存下来。\n\n\nBelow is an edited transcript of this video. We recommend watching it in its original form for the full effect. You can do so using the video player above.\n以下是该视频经过编辑的文字记录。我们建议观看原视频以获得完整效果。你可以使用上方视频播放器观看。\nThomas L. Friedman: Any journalist who has been working for almost half a century is sure that he or she was here for the big one. World War I, World War II, Vietnam. The rise…",
-          "link": "https://cn.nytimes.com/opinion/20261026/ai-second-big-bang/dual",
-          "publishedOn": "2026-10-26T02:36:04.000Z",
-          "wordCount": 1279,
-          "title": "人类已经引发了第二次宇宙大爆炸",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://cn.nytimes.com/asia-pacific/20261026/north-korea-kim-jong-un-china/dual",
-          "author": null,
-          "description": "CHOE SANG-HUN, 储百亮2026年10月26日朝鲜官方媒体上周六发布的一张照片显示，朝鲜领导人金正恩走过新鸭绿江大桥时挥手致意。 KCNA, via Reuters\nNorth Korea’s leader, Kim Jong-un, visited neighboring China on Saturday in his first visit there in more than a year, meeting with a senior official and declaring gratitude for Beijing’s decades of support, according to state media.\n据官方媒体报道，朝鲜领导人金正恩周六访问邻国中国，这是他一年多来首次访华。访问期间，他会见了一名中国高级官员，并对北京数十年来给予的支持表示感谢。\nXinhua, China’s state news agency, confirmed Mr. Kim’s one-day visit after a day of reports from South Korean officials and news media, which said he had crossed the newly opened New Yalu River Bridge spanning the border between North Korea and northeast China.\n中国官方通讯社新华社证实了金正恩为期一天的访华行程。韩国官员及新闻媒体此前接连报道称金正恩已跨过连接朝鲜与中国东北边境的新鸭绿江大桥。\nPhotos released later by North Korean state media showedChinese officials…",
-          "link": "https://cn.nytimes.com/asia-pacific/20261026/north-korea-kim-jong-un-china/dual",
-          "publishedOn": "2026-10-26T01:06:04.000Z",
-          "wordCount": 1030,
-          "title": "金正恩取道新鸭绿江大桥突访丹东，与王沪宁会晤",
-          "imageUrl": "https://static01.nyt.com/images/2026/10/24/multimedia/24int-nkorea-china-fblv/24int-nkorea-china-fblv-articleLarge.jpg"
         }
       ]
     },
@@ -7148,6 +7070,36 @@
       "feedUrl": "https://plink.anyfeeder.com/weixin/ibookreview",
       "siteUrl": "http://weixin.sogou.com/weixin?type=1&s_from=input&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A",
       "articles": [
+        {
+          "id": "2c80efa908771e96e00013e2b67b7a53",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E3%80%8A%E5%A9%B4%E5%84%BF%E7%9F%A5%E9%81%93%E4%BB%80%E4%B9%88%E3%80%8B%EF%BC%9A%E5%9C%A8%E4%BA%BA%E7%B1%BB%E7%9A%84%E5%A9%B4%E5%84%BF%E6%9C%9F%EF%BC%8C%E7%9F%A5%E8%AF%86%E5%A7%8B%E4%BA%8E%E4%BD%95%E5%A4%84%EF%BC%9F",
+          "publishedOn": "2026-11-24T02:10:00.000Z",
+          "wordCount": 1,
+          "title": "《婴儿知道什么》：在人类的婴儿期，知识始于何处？",
+          "imageUrl": null
+        },
+        {
+          "id": "25f0df66858305c0334e6b9499d09d6f",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E5%BD%93AI%E5%8F%82%E4%B8%8E%E5%AD%A6%E6%9C%AF%E5%86%99%E4%BD%9C%EF%BC%9A%E6%98%AF%E6%88%91%E8%AE%A9AI%E5%86%99%E7%9A%84%EF%BC%8C%E8%BF%98%E6%98%AFAI%E6%9B%BF%E6%88%91%E5%86%99%E7%9A%84%EF%BC%9F",
+          "publishedOn": "2026-11-24T02:10:00.000Z",
+          "wordCount": 1,
+          "title": "当AI参与学术写作：是我让AI写的，还是AI替我写的？",
+          "imageUrl": null
+        },
+        {
+          "id": "924b0da7dfe2dd6586214c40e0a5a871",
+          "author": null,
+          "description": "",
+          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E4%B8%96%E7%95%8C%E6%96%87%E5%AD%A6%E6%97%B6%E4%BB%A3%E7%9A%84%E6%9D%A5%E8%B7%AF%E4%B8%8E%E6%9C%AA%E6%9D%A5%EF%BC%9A%E4%B8%AD%E5%9B%BD%E3%80%81%E6%8B%89%E4%B8%81%E7%BE%8E%E6%B4%B2%E3%80%81%E8%A5%BF%E6%96%B9%E5%8F%8A%E2%80%9C%E4%B8%96%E7%95%8C%E7%9A%84%E6%96%87%E5%AD%A6%E2%80%9D",
+          "publishedOn": "2026-11-24T02:10:00.000Z",
+          "wordCount": 1,
+          "title": "世界文学时代的来路与未来：中国、拉丁美洲、西方及“世界的文学”",
+          "imageUrl": null
+        },
         {
           "id": "c0f4ec4b6bba90d2cd4072c2824d60ca",
           "author": null,
@@ -8066,36 +8018,6 @@
           "publishedOn": "2026-10-27T02:51:00.000Z",
           "wordCount": 262,
           "title": "《时间的真相树》：现代人的困境，是被“既要又要”撕扯",
-          "imageUrl": null
-        },
-        {
-          "id": "e082b2f92f3cb368ccffd22290667c21",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E8%B5%A4%E5%A3%81%E4%B9%8B%E6%88%98%E4%B8%AD%EF%BC%8C%E7%98%9F%E7%96%AB%E5%88%B0%E5%BA%95%E6%98%AF%E4%B8%8D%E6%98%AF%E6%89%93%E8%B4%A5%E6%9B%B9%E5%86%9B%E7%9A%84%E7%9C%9F%E6%AD%A3%E5%85%83%E5%87%B6%EF%BC%9F",
-          "publishedOn": "2026-10-26T02:23:00.000Z",
-          "wordCount": 298,
-          "title": "赤壁之战中，瘟疫到底是不是打败曹军的真正元凶？",
-          "imageUrl": null
-        },
-        {
-          "id": "c5cbe6a599e4bf00c8fe675669ea600a",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E6%96%B0%E5%86%A0%E6%97%B6%E6%9C%9F%E5%87%BA%E7%94%9F%E7%9A%84%E5%AD%A9%E5%AD%90%E4%BB%AC%EF%BC%8C%E7%8E%B0%E5%9C%A8%E6%80%8E%E4%B9%88%E6%A0%B7%E4%BA%86%EF%BC%9F",
-          "publishedOn": "2026-10-26T02:23:00.000Z",
-          "wordCount": 296,
-          "title": "新冠时期出生的孩子们，现在怎么样了？",
-          "imageUrl": null
-        },
-        {
-          "id": "3de784694f3992ea65e010a48829846e",
-          "author": null,
-          "description": "",
-          "link": "http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E4%BA%AC%E6%8A%A5%E4%B9%A6%E8%AF%84%E5%91%A8%E5%88%8A+%E6%9D%83%E5%8A%9B%E4%B8%8E%E4%BF%A1%E7%94%A8%EF%BC%9A%E5%85%A8%E7%90%83%E8%B4%A7%E5%B8%81%E9%9C%B8%E6%9D%83%E7%9A%84%E5%88%B6%E5%BA%A6%E9%80%BB%E8%BE%91",
-          "publishedOn": "2026-10-26T02:23:00.000Z",
-          "wordCount": 293,
-          "title": "权力与信用：全球货币霸权的制度逻辑",
           "imageUrl": null
         }
       ]
